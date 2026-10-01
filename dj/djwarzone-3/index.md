@@ -1,8 +1,8 @@
 # DJ Warzone (3)
 
-DJ Warzone (3) is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
+DJ Warzone (3) is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
 
-DJ Warzone is an experimental and electro artist based in Austria, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin and Vienna. Often billed alongside Kim Leclerc, 0111001101110100 and Anni Herzer. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 10 Oct.
+DJ Warzone is an experimental and electro artist based in Austria, with 9 gigs on soundcheck across Amsterdam, Berlin and Vienna. Often billed alongside Kim Leclerc, 0111001101110100 and Anni Herzer. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Warzone is an experimental and electro artist based in Austria, tracked on so
 
 ## Recently played
 
-- Austria Campus, Vienna — Fri, 5 Dec 2025
-- PRST, Vienna — Sat, 16 Aug 2025
-- Grelle Forelle, Vienna — Fri, 20 Jun 2025
-- B72, Vienna — Fri, 13 Jun 2025
-- Melkweg, Amsterdam — Fri, 30 May 2025
-- Club Exil, Vienna — Tue, 31 Dec 2024
-- Der Ponyhof, Vienna — Sat, 28 Dec 2024
-- TBA - 52.47736265617827, 13.4592885932799, Berlin — Sat, 10 Aug 2024
+- Austria Campus, Vienna · Fri, 5 Dec 2025
+- PRST, Vienna · Sat, 16 Aug 2025
+- Grelle Forelle, Vienna · Fri, 20 Jun 2025
+- B72, Vienna · Fri, 13 Jun 2025
+- Melkweg, Amsterdam · Fri, 30 May 2025
+- Club Exil, Vienna · Tue, 31 Dec 2024
+- Der Ponyhof, Vienna · Sat, 28 Dec 2024
+- TBA - 52.47736265617827, 13.4592885932799, Berlin · Sat, 10 Aug 2024
 
 ## Shares bills with
 

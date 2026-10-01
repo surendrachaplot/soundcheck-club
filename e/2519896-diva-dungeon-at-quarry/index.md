@@ -1,6 +1,6 @@
 # Diva Dungeon at Quarry
 
-Diva Dungeon at Quarry on Fri 2 Oct, Liverpool. Garage and Dub. Preview the line-up and save it on soundcheck.
+Diva Dungeon at Quarry on Fri 2 Oct, Liverpool. Garage and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

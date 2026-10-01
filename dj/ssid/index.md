@@ -1,8 +1,8 @@
 # SSID
 
-SSID is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Leith FAB Cricket Club, Edinburgh on Fri, 2 Oct 2026.
+SSID is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Leith FAB Cricket Club, Edinburgh on Fri, 2 Oct 2026.
 
-SSID is a funk / soul and house artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Dundee, Edinburgh and Glasgow. Often billed alongside Toni McVey, Juan Mare and Last Days of Pompeii. Next up: Leith FAB Cricket Club, Edinburgh on Fri 2 Oct.
+SSID is a funk / soul and house artist based in United Kingdom, with 30 gigs on soundcheck across Dundee, Edinburgh and Glasgow. Often billed alongside Toni McVey, Juan Mare and Last Days of Pompeii. Next up: Leith FAB Cricket Club, Edinburgh on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SSID is a funk / soul and house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Sneaky Pete's, Edinburgh — Sat, 27 Jun 2026
-- Lounge 33 Leith, Edinburgh — Sun, 17 May 2026
-- West Port Oracle, Edinburgh — Sat, 16 May 2026
-- West Port Oracle, Edinburgh — Sat, 16 May 2026
-- Lounge 33 Leith, Edinburgh — Sat, 18 Apr 2026
-- Sneaky Pete's, Edinburgh — Sat, 4 Apr 2026
-- People's Leisure Club, Edinburgh — Fri, 20 Mar 2026
-- The Jazz Bar, Edinburgh — Sat, 21 Feb 2026
+- Sneaky Pete's, Edinburgh · Sat, 27 Jun 2026
+- Lounge 33 Leith, Edinburgh · Sun, 17 May 2026
+- West Port Oracle, Edinburgh · Sat, 16 May 2026
+- West Port Oracle, Edinburgh · Sat, 16 May 2026
+- Lounge 33 Leith, Edinburgh · Sat, 18 Apr 2026
+- Sneaky Pete's, Edinburgh · Sat, 4 Apr 2026
+- People's Leisure Club, Edinburgh · Fri, 20 Mar 2026
+- The Jazz Bar, Edinburgh · Sat, 21 Feb 2026
 
 ## Shares bills with
 

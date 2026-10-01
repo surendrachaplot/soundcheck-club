@@ -1,6 +1,6 @@
 # Domicile Tokyo x LQQK STUDIO presents LQQK 15th Year Anniversary at DJ Bar Bridge
 
-Domicile Tokyo x LQQK STUDIO presents LQQK 15th Year Anniversary at DJ Bar Bridge on Fri 16 Oct, Tokyo. 3 artists on the bill: Anthony Parasole, DJ Fire and Mo Yasin. House. Preview the line-up and save it on soundcheck.
+Domicile Tokyo x LQQK STUDIO presents LQQK 15th Year Anniversary at DJ Bar Bridge on Fri 16 Oct, Tokyo. 3 artists: Anthony Parasole, DJ Fire and Mo Yasin. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

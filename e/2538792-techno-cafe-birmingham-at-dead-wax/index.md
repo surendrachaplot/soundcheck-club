@@ -1,6 +1,6 @@
 # Techno Cafe - BIRMINGHAM at Dead Wax
 
-Techno Cafe - BIRMINGHAM at Dead Wax on Sat 17 Oct, Birmingham. 2 artists on the bill: Isis Moray and Nightwave. Techno and Electro. Preview the line-up and save it on soundcheck.
+Techno Cafe - BIRMINGHAM at Dead Wax on Sat 17 Oct, Birmingham. 2 artists: Isis Moray and Nightwave. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

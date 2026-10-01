@@ -1,6 +1,6 @@
 # BULETTEN BINGO – INTERNATIONAL EDITION at Eschschloraque
 
-BULETTEN BINGO – INTERNATIONAL EDITION at Eschschloraque on Sun 4 Oct, Berlin. Preview the line-up and save it on soundcheck.
+BULETTEN BINGO – INTERNATIONAL EDITION at Eschschloraque on Sun 4 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

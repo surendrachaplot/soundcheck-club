@@ -1,8 +1,8 @@
 # DJ Caline
 
-DJ Caline is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Warehouse, Nantes on Fri, 9 Oct 2026.
+DJ Caline is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Warehouse, Nantes on Fri, 9 Oct 2026.
 
-DJ Caline is a trance and techno artist based in France, tracked on soundcheck, with 41 sets logged across Berlin, Brussels, Geneva and Lyon and 6 more. Often billed alongside Die Klar, Dj Schnake and Athina. Next up: Warehouse, Nantes on Fri 9 Oct.
+DJ Caline is a trance and techno artist based in France, with 41 gigs on soundcheck across Berlin, Brussels, Geneva and Lyon and 6 more. Often billed alongside Die Klar, Dj Schnake and Athina. Next up: Warehouse, Nantes on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Caline is a trance and techno artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- Virage, Paris — Sat, 12 Sept 2026
-- Forte Antenne, Rome — Sat, 25 Jul 2026
-- Kilomètre25, Paris — Sat, 11 Jul 2026
-- Virage, Paris — Fri, 5 Jun 2026
-- Mia Mao, Paris — Sat, 4 Apr 2026
-- Lokschuppen Berlin, Berlin — Sat, 28 Feb 2026
-- C12, Brussels — Sat, 14 Feb 2026
-- Parc Floral De Paris, Paris — Sat, 17 Jan 2026
+- Virage, Paris · Sat, 12 Sept 2026
+- Forte Antenne, Rome · Sat, 25 Jul 2026
+- Kilomètre25, Paris · Sat, 11 Jul 2026
+- Virage, Paris · Fri, 5 Jun 2026
+- Mia Mao, Paris · Sat, 4 Apr 2026
+- Lokschuppen Berlin, Berlin · Sat, 28 Feb 2026
+- C12, Brussels · Sat, 14 Feb 2026
+- Parc Floral De Paris, Paris · Sat, 17 Jan 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Dusty Cabinets | Friday at De Sering
 
-Dusty Cabinets | Friday at De Sering on Fri 23 Oct, Amsterdam. 4 artists on the bill: Camille Maria, Darwin, Marylou and Zoë Mc Pherson. Preview the line-up and save it on soundcheck.
+Dusty Cabinets | Friday at De Sering on Fri 23 Oct, Amsterdam. 4 artists: Camille Maria, Darwin, Marylou and Zoë Mc Pherson. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

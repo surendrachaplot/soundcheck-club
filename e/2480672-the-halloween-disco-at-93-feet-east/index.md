@@ -1,6 +1,6 @@
 # The Halloween Disco at 93 Feet East
 
-The Halloween Disco at 93 Feet East on Sat 31 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+The Halloween Disco at 93 Feet East on Sat 31 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ELECTRONIC HALLOWEEN by Helios37 at Helios37
 
-ELECTRONIC HALLOWEEN by Helios37 on Sat 31 Oct, Cologne. Trance and Techno. Preview the line-up and save it on soundcheck.
+ELECTRONIC HALLOWEEN by Helios37 on Sat 31 Oct, Cologne. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

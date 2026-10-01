@@ -1,6 +1,6 @@
 # Expression Halloween at Yamashiro Hollywood
 
-Expression Halloween at Yamashiro Hollywood on Sat 31 Oct, Los Angeles. 5 artists on the bill: Dave Aju, Heidi Lawden, Masha Mar and Tavish and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Expression Halloween at Yamashiro Hollywood on Sat 31 Oct, Los Angeles. 5 artists: Dave Aju, Heidi Lawden, Masha Mar and Tavish and 1 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

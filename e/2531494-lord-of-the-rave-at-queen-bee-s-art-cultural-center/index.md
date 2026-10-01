@@ -1,6 +1,6 @@
 # Lord of the Rave at Queen Bee's Art & Cultural Center
 
-Lord of the Rave at Queen Bee's Art & Cultural Center on Sat 31 Oct, San Diego. Bass and Dub. Preview the line-up and save it on soundcheck.
+Lord of the Rave at Queen Bee's Art & Cultural Center on Sat 31 Oct, San Diego. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

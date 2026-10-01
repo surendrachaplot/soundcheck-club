@@ -1,8 +1,8 @@
 # MVPDJ
 
-MVPDJ is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Bassement, Madrid on Thu, 1 Oct 2026.
+MVPDJ is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bassement, Madrid on Thu, 1 Oct 2026.
 
-MVPDJ is a techno and industrial artist based in Spain, tracked on soundcheck, with 45 sets logged across Madrid. Often billed alongside JAWS, Kuroi and Lexmax. Next up: The Bassement, Madrid on Thu 1 Oct.
+MVPDJ is a techno and industrial artist based in Spain, with 45 gigs on soundcheck across Madrid. Often billed alongside JAWS, Kuroi and Lexmax. Next up: The Bassement, Madrid on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ MVPDJ is a techno and industrial artist based in Spain, tracked on soundcheck, w
 
 ## Recently played
 
-- Sala ART, Madrid — Sat, 29 Aug 2026
-- Specka, Madrid — Fri, 24 Jul 2026
-- Sala ART, Madrid — Fri, 17 Jul 2026
-- Araña Club, Madrid — Sat, 27 Jun 2026
-- Cadavra, Madrid — Thu, 14 May 2026
-- Laboratorio Octogon, Madrid — Sat, 7 Mar 2026
-- TBA - ENTITY poderes by Void Acostics, Madrid — Sat, 14 Feb 2026
-- LA Fabryka, Madrid — Sat, 18 Oct 2025
+- Sala ART, Madrid · Sat, 29 Aug 2026
+- Specka, Madrid · Fri, 24 Jul 2026
+- Sala ART, Madrid · Fri, 17 Jul 2026
+- Araña Club, Madrid · Sat, 27 Jun 2026
+- Cadavra, Madrid · Thu, 14 May 2026
+- Laboratorio Octogon, Madrid · Sat, 7 Mar 2026
+- TBA - ENTITY poderes by Void Acostics, Madrid · Sat, 14 Feb 2026
+- LA Fabryka, Madrid · Sat, 18 Oct 2025
 
 ## Shares bills with
 

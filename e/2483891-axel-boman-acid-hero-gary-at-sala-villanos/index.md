@@ -1,6 +1,6 @@
 # Axel Boman + Acid Hero + Gary at Sala Villanos
 
-Axel Boman + Acid Hero + Gary at Sala Villanos on Sat 7 Nov, Madrid. 2 artists on the bill: Acid Hero and Axel Boman. Electronica. Preview the line-up and save it on soundcheck.
+Axel Boman + Acid Hero + Gary at Sala Villanos on Sat 7 Nov, Madrid. 2 artists: Acid Hero and Axel Boman. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Beauty Witch presents: Water Damage / Geologist at The White Hotel
 
-The Beauty Witch presents: Water Damage / Geologist at The White Hotel on Sun 8 Nov, Manchester. Drone and Krautrock. Preview the line-up and save it on soundcheck.
+The Beauty Witch presents: Water Damage / Geologist at The White Hotel on Sun 8 Nov, Manchester. Drone and Krautrock. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

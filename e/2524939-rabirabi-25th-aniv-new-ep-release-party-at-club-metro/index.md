@@ -1,6 +1,6 @@
 # RABIRABI 25th Aniv. & NEW EP RELEASE PARTY at Club Metro
 
-RABIRABI 25th Aniv. & NEW EP RELEASE PARTY at Club Metro on Sun 18 Oct, Kyoto. Preview the line-up and save it on soundcheck.
+RABIRABI 25th Aniv. & NEW EP RELEASE PARTY at Club Metro on Sun 18 Oct, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

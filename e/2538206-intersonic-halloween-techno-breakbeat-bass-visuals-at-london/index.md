@@ -1,6 +1,6 @@
 # INTERSONIC HALLOWEEN - TECHNO, BREAKBEAT, BASS, VISUALS at London Hospital Tavern
 
-INTERSONIC HALLOWEEN - TECHNO, BREAKBEAT, BASS, VISUALS at London Hospital Tavern on Sat 31 Oct, London. 1 artist on the bill: Eziman. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+INTERSONIC HALLOWEEN - TECHNO, BREAKBEAT, BASS, VISUALS at London Hospital Tavern on Sat 31 Oct, London. 1 artist: Eziman. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

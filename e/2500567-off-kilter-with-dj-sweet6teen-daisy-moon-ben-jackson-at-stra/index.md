@@ -1,6 +1,6 @@
 # Off-Kilter with DJ Sweet6teen, Daisy Moon, Ben Jackson at Strange Brew
 
-Off-Kilter with DJ Sweet6teen, Daisy Moon, Ben Jackson at Strange Brew on Sat 10 Oct, Bristol. House and Tech House. Preview the line-up and save it on soundcheck.
+Off-Kilter with DJ Sweet6teen, Daisy Moon, Ben Jackson at Strange Brew on Sat 10 Oct, Bristol. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

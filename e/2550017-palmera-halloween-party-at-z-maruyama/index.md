@@ -1,6 +1,6 @@
 # PALMERA HALLOWEEN PARTY at Z Maruyama
 
-PALMERA HALLOWEEN PARTY at Z Maruyama on Sat 31 Oct, Tokyo. House and Tech House. Preview the line-up and save it on soundcheck.
+PALMERA HALLOWEEN PARTY at Z Maruyama on Sat 31 Oct, Tokyo. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

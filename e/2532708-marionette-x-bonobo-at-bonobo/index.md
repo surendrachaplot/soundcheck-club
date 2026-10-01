@@ -1,6 +1,6 @@
 # Marionette x Bonobo at Bonobo
 
-Marionette x Bonobo on Sun 11 Oct, Tokyo. 4 artists on the bill: Chee Shimizu, Dr. Nishimura, Grimwig and NullDaSensei. Techno and Ambient. Preview the line-up and save it on soundcheck.
+Marionette x Bonobo on Sun 11 Oct, Tokyo. 4 artists: Chee Shimizu, Dr. Nishimura, Grimwig and NullDaSensei. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DARK WATERS Noord at TBA - Amsterdam
 
-DARK WATERS Noord at TBA - Amsterdam on Sun 25 Oct, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+DARK WATERS Noord at TBA - Amsterdam on Sun 25 Oct, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

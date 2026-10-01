@@ -1,6 +1,6 @@
 # Echotheism: DAIYAH, Biproduct, YULIA at TBA - Call Infoline for Secret Location
 
-Echotheism: DAIYAH, Biproduct, YULIA at TBA - Call Infoline for Secret Location on Sat 3 Oct, Boston. 3 artists on the bill: Biproduct, DAIYAH and YULIA (US). Techno and Funk / Soul. Preview the line-up and save it on soundcheck.
+Echotheism: DAIYAH, Biproduct, YULIA at TBA - Call Infoline for Secret Location on Sat 3 Oct, Boston. 3 artists: Biproduct, DAIYAH and YULIA (US). Techno and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

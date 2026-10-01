@@ -1,6 +1,6 @@
 # Future Yard presents Uche Yara at Future Yard
 
-Future Yard presents Uche Yara on Wed 21 Oct, Liverpool. Pop and R&B. Preview the line-up and save it on soundcheck.
+Future Yard presents Uche Yara on Wed 21 Oct, Liverpool. Pop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # B48 live x SUPER HARD GROOVE at Bridge 48
 
-B48 live x SUPER HARD GROOVE at Bridge 48 on Thu 15 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+B48 live x SUPER HARD GROOVE at Bridge 48 on Thu 15 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

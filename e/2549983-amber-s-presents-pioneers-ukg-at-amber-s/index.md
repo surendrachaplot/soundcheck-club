@@ -1,6 +1,6 @@
 # Amber's presents: Pioneers - (UKG) at Amber's
 
-Amber's presents: Pioneers - (UKG) on Sat 17 Oct, Manchester. Garage. Preview the line-up and save it on soundcheck.
+Amber's presents: Pioneers - (UKG) on Sat 17 Oct, Manchester. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

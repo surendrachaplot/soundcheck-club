@@ -1,6 +1,6 @@
 # Flac: VOLARΜONO AFRO HOUSE NIGHT at Flac
 
-Flac: VOLARΜONO AFRO HOUSE NIGHT on Sat 3 Oct, Seoul. 3 artists on the bill: Arondight, DARIMI TABLE and Onizmik. House and Afro House. Preview the line-up and save it on soundcheck.
+Flac: VOLARΜONO AFRO HOUSE NIGHT on Sat 3 Oct, Seoul. 3 artists: Arondight, DARIMI TABLE and Onizmik. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AWSM. LEOPOLDI AFTERPARTY at Stiftskeller Klosterneuburg
 
-AWSM. LEOPOLDI AFTERPARTY at Stiftskeller Klosterneuburg on Sat 14 Nov, Vienna. Afro House. Preview the line-up and save it on soundcheck.
+AWSM. LEOPOLDI AFTERPARTY at Stiftskeller Klosterneuburg on Sat 14 Nov, Vienna. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DEEPER at Paloma
 
-DEEPER at Paloma on Sat 17 Oct, Berlin. 2 artists on the bill: Ludwig Mausberg and Marian Tone. House and Disco. Preview the line-up and save it on soundcheck.
+DEEPER at Paloma on Sat 17 Oct, Berlin. 2 artists: Ludwig Mausberg and Marian Tone. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

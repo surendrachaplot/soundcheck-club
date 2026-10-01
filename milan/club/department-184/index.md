@@ -1,8 +1,8 @@
 # Department 184
 
-Department 184 is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "IDOL - After The Last Track" on Sun, 4 Oct 2026.
+Department 184 is a music venue in Milan with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "IDOL - After The Last Track" on Sun, 4 Oct 2026.
 
-Department 184 is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Brasile, AllaDerivaLontano, ALXV and Cap and 2 more. Browse upcoming dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
+Department 184 is a music venue in Milan listed on soundcheck. 5 upcoming gigs, with line-ups including Alex Brasile, AllaDerivaLontano, ALXV and Cap and 2 more. See dates, start times and who's playing. Via Varesina, 184, 20156 Milano MI.
 
 ## What's on
 

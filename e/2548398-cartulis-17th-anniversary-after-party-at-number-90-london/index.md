@@ -1,6 +1,6 @@
 # Cartulis 17th Anniversary After Party at NUMBER 90 LONDON
 
-Cartulis 17th Anniversary After Party at NUMBER 90 LONDON on Sun 22 Nov, London. Preview the line-up and save it on soundcheck.
+Cartulis 17th Anniversary After Party at NUMBER 90 LONDON on Sun 22 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

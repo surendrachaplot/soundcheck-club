@@ -1,8 +1,8 @@
 # Andriana-Yaroslava Saienko
 
-Andriana-Yaroslava Saienko is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
+Andriana-Yaroslava Saienko is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
-Andriana-Yaroslava Saienko is an experimental and electronica artist based in Ukraine, tracked on soundcheck, with 16 sets logged across Amsterdam, Athens, Austria and Berlin and 6 more. Often billed alongside Heinali, LEYA and aya. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
+Andriana-Yaroslava Saienko is an experimental and electronica artist based in Ukraine, with 16 gigs on soundcheck across Amsterdam, Athens, Austria and Berlin and 6 more. Often billed alongside Heinali, LEYA and aya. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Andriana-Yaroslava Saienko is an experimental and electronica artist based in Uk
 
 ## Recently played
 
-- KW Institute for Contemporary Art, Berlin — Wed, 8 Jul 2026
-- TBA - Chapelle de l'immaculée, Nantes — Sat, 11 Apr 2026
-- TivoliVredenburg, Utrecht — Thu, 6 Nov 2025
-- PAV - Parco Arte Vivente, Turin — Sat, 28 Jun 2025
-- ATM Studio, Warsaw — Fri, 13 Jun 2025
-- różne lokalizacje / various venues, Warsaw — Wed, 11 Jun 2025
-- Athens Conservatoire - Ωδείον Αθηνών, Athens — Sun, 8 Jun 2025
-- Athens Conservatoire - Ωδείον Αθηνών, Athens — Wed, 4 Jun 2025
+- KW Institute for Contemporary Art, Berlin · Wed, 8 Jul 2026
+- TBA - Chapelle de l'immaculée, Nantes · Sat, 11 Apr 2026
+- TivoliVredenburg, Utrecht · Thu, 6 Nov 2025
+- PAV - Parco Arte Vivente, Turin · Sat, 28 Jun 2025
+- ATM Studio, Warsaw · Fri, 13 Jun 2025
+- różne lokalizacje / various venues, Warsaw · Wed, 11 Jun 2025
+- Athens Conservatoire - Ωδείον Αθηνών, Athens · Sun, 8 Jun 2025
+- Athens Conservatoire - Ωδείον Αθηνών, Athens · Wed, 4 Jun 2025
 
 ## Shares bills with
 

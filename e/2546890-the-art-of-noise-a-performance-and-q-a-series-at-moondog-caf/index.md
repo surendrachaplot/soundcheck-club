@@ -1,6 +1,6 @@
 # The Art of Noise: A Performance and Q&A Series at Moondog Cafe
 
-The Art of Noise: A Performance and Q&A Series at Moondog Cafe on Sun 11 Oct, Detroit. Experimental. Preview the line-up and save it on soundcheck.
+The Art of Noise: A Performance and Q&A Series at Moondog Cafe on Sun 11 Oct, Detroit. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

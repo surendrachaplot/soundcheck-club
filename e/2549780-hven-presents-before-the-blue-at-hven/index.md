@@ -1,6 +1,6 @@
 # HVEN presents: Before the Blue at HVEN
 
-HVEN presents: Before the Blue on Sun 4 Oct, Tokyo. 1 artist on the bill: Good Company Broadcast Group. House. Preview the line-up and save it on soundcheck.
+HVEN presents: Before the Blue on Sun 4 Oct, Tokyo. 1 artist: Good Company Broadcast Group. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

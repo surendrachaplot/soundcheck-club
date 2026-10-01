@@ -1,8 +1,8 @@
 # Nina Farrina
 
-Nina Farrina is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+Nina Farrina is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
 
-Nina Farrina is a techno and experimental artist based in Slovakia, tracked on soundcheck, with 139 sets logged across Berlin, Bratislava, Brussels and Budapest and 13 more. Often billed alongside 3ever, SJ Yellow and tmk (CZ). Next up: Gotec, Karlsruhe on Sat 3 Oct.
+Nina Farrina is a techno and experimental artist based in Slovakia, with 139 gigs on soundcheck across Berlin, Bratislava, Brussels and Budapest and 13 more. Often billed alongside 3ever, SJ Yellow and tmk (CZ). Next up: Gotec, Karlsruhe on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Nina Farrina is a techno and experimental artist based in Slovakia, tracked on s
 
 ## Recently played
 
-- Ankali & Planeta Za, Prague — Sat, 26 Sept 2026
-- Fuchs2, Prague — Fri, 11 Sept 2026
-- Bike Jesus, Prague — Fri, 4 Sept 2026
-- Altenburg 1964, Prague — Sat, 29 Aug 2026
-- Fuchs2, Prague — Sat, 15 Aug 2026
-- Ankali & Planeta Za, Prague — Sat, 8 Aug 2026
-- Mia Mao, Paris — Sat, 1 Aug 2026
-- Mia Mao, Paris — Sat, 1 Aug 2026
+- Ankali & Planeta Za, Prague · Sat, 26 Sept 2026
+- Fuchs2, Prague · Fri, 11 Sept 2026
+- Bike Jesus, Prague · Fri, 4 Sept 2026
+- Altenburg 1964, Prague · Sat, 29 Aug 2026
+- Fuchs2, Prague · Sat, 15 Aug 2026
+- Ankali & Planeta Za, Prague · Sat, 8 Aug 2026
+- Mia Mao, Paris · Sat, 1 Aug 2026
+- Mia Mao, Paris · Sat, 1 Aug 2026
 
 ## Shares bills with
 

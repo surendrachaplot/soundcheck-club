@@ -1,6 +1,6 @@
 # Breakfast Club ADE: Second Wind at RADION
 
-Breakfast Club ADE: Second Wind at RADION on Sun 25 Oct, Amsterdam. 16 artists on the bill: 42nd Avenue, Ben UFO, Caim and Christian AB and 12 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Breakfast Club ADE: Second Wind at RADION on Sun 25 Oct, Amsterdam. 16 artists: 42nd Avenue, Ben UFO, Caim and Christian AB and 12 more. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

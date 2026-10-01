@@ -1,6 +1,6 @@
 # Habitat at Port of Leith Distillery
 
-Habitat at Port of Leith Distillery on Sat 31 Oct, Edinburgh. Preview the line-up and save it on soundcheck.
+Habitat at Port of Leith Distillery on Sat 31 Oct, Edinburgh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

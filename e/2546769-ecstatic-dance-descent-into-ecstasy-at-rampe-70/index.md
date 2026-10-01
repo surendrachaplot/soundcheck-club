@@ -1,6 +1,6 @@
 # ECSTATIC DANCE DESCENT INTO ECSTASY at Rampe 70
 
-ECSTATIC DANCE DESCENT INTO ECSTASY at Rampe 70 on Sat 3 Oct, Zurich. Techno and Deep House. Preview the line-up and save it on soundcheck.
+ECSTATIC DANCE DESCENT INTO ECSTASY at Rampe 70 on Sat 3 Oct, Zurich. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

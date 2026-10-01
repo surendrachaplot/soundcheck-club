@@ -1,6 +1,6 @@
 # electronic.thursday mit Pyrame at Minimal Bar
 
-electronic.thursday mit Pyrame at Minimal Bar on Thu 15 Oct, Berlin. 1 artist on the bill: Pyrame. Preview the line-up and save it on soundcheck.
+electronic.thursday mit Pyrame at Minimal Bar on Thu 15 Oct, Berlin. 1 artist: Pyrame. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

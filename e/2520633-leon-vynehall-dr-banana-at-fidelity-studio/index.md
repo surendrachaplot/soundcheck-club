@@ -1,6 +1,6 @@
 # Leon Vynehall & Dr. Banana at Fidelity Studio
 
-Leon Vynehall & Dr. Banana at Fidelity Studio on Fri 11 Dec, Dublin. 2 artists on the bill: Dr Banana and Leon Vynehall. Preview the line-up and save it on soundcheck.
+Leon Vynehall & Dr. Banana at Fidelity Studio on Fri 11 Dec, Dublin. 2 artists: Dr Banana and Leon Vynehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

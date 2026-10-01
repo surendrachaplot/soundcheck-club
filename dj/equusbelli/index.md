@@ -1,8 +1,8 @@
 # Equus Belli
 
-Equus Belli is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
+Equus Belli is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Station - Gare des Mines, Paris on Sun, 11 Oct 2026.
 
-Equus Belli is a techno and house artist based in France, tracked on soundcheck, with 23 sets logged across Berlin and Paris. Often billed alongside A.Litique, Litoshka and Maris Shilton. Next up: La Station - Gare des Mines, Paris on Sun 11 Oct.
+Equus Belli is a techno and house artist based in France, with 23 gigs on soundcheck across Berlin and Paris. Often billed alongside A.Litique, Litoshka and Maris Shilton. Next up: La Station - Gare des Mines, Paris on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Equus Belli is a techno and house artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- La Station - Gare des Mines, Paris — Fri, 21 Aug 2026
-- Le 211, Paris — Fri, 24 Jul 2026
-- ÆDEN, Berlin — Thu, 23 Jul 2026
-- Wanderlust, Paris — Thu, 11 Jun 2026
-- La Station - Gare des Mines, Paris — Sun, 7 Jun 2026
-- 42 Marches, Paris — Wed, 13 May 2026
-- KREUZWERK, Berlin — Fri, 10 Apr 2026
-- essaim, Paris — Fri, 6 Mar 2026
+- La Station - Gare des Mines, Paris · Fri, 21 Aug 2026
+- Le 211, Paris · Fri, 24 Jul 2026
+- ÆDEN, Berlin · Thu, 23 Jul 2026
+- Wanderlust, Paris · Thu, 11 Jun 2026
+- La Station - Gare des Mines, Paris · Sun, 7 Jun 2026
+- 42 Marches, Paris · Wed, 13 May 2026
+- KREUZWERK, Berlin · Fri, 10 Apr 2026
+- essaim, Paris · Fri, 6 Mar 2026
 
 ## Shares bills with
 

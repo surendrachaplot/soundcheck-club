@@ -1,6 +1,6 @@
 # Summer of Love - Valentijn Special - House & Club Classics 89/05 at Lofi
 
-Summer of Love - Valentijn Special - House & Club Classics 89/05 at Lofi on Sat 13 Feb, Amsterdam. 3 artists on the bill: Alexander Koning, Dimitri and Remy Unger. Preview the line-up and save it on soundcheck.
+Summer of Love - Valentijn Special - House & Club Classics 89/05 at Lofi on Sat 13 Feb, Amsterdam. 3 artists: Alexander Koning, Dimitri and Remy Unger. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

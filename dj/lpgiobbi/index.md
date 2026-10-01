@@ -1,8 +1,8 @@
 # LP Giobbi
 
-LP Giobbi is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+LP Giobbi is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
-LP Giobbi is a house and tech house artist based in United States of America, tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Auckland and Austin and 45 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: Wollman Rink, New York City on Fri 2 Oct.
+LP Giobbi is a house and tech house artist based in United States of America, with 166 gigs on soundcheck across Amsterdam, Athens, Auckland and Austin and 45 more. Often billed alongside DJ Tennis, AMÉMÉ and Purple Disco Machine. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ LP Giobbi is a house and tech house artist based in United States of America, tr
 
 ## Recently played
 
-- TBA - Mandarine Tent, Punta Carrasco, Buenos Aires — Sat, 12 Sept 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 15 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- Cova Santa, Ibiza — Thu, 30 Jul 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 26 Jul 2026
-- Pacha Ibiza, Ibiza — Thu, 23 Jul 2026
-- Cooks Valley Campground, San Francisco/Oakland — Fri, 17 Jul 2026
-- [UNVRS], Ibiza — Mon, 6 Jul 2026
+- TBA - Mandarine Tent, Punta Carrasco, Buenos Aires · Sat, 12 Sept 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 15 Aug 2026
+- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
+- Cova Santa, Ibiza · Thu, 30 Jul 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sun, 26 Jul 2026
+- Pacha Ibiza, Ibiza · Thu, 23 Jul 2026
+- Cooks Valley Campground, San Francisco/Oakland · Fri, 17 Jul 2026
+- [UNVRS], Ibiza · Mon, 6 Jul 2026
 
 ## Shares bills with
 

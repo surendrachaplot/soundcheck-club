@@ -1,8 +1,8 @@
 # Yukari
 
-Yukari is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Araña Club, Madrid on Thu, 1 Oct 2026.
+Yukari is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Araña Club, Madrid on Thu, 1 Oct 2026.
 
-Yukari is a techno and house artist based in Japan, tracked on soundcheck, with 32 sets logged across Berlin, London, Madrid and Tokyo and 1 more. Often billed alongside Kazuki Takahashi, Tina Technotic and Emilion Dollar Baby. Next up: Araña Club, Madrid on Thu 1 Oct.
+Yukari is a techno and house artist based in Japan, with 32 gigs on soundcheck across Berlin, London, Madrid and Tokyo and 1 more. Often billed alongside Kazuki Takahashi, Tina Technotic and Emilion Dollar Baby. Next up: Araña Club, Madrid on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Yukari is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- Distillery N17, London — Fri, 25 Sept 2026
-- Union Club, Vauxhall, London — Sun, 6 Sept 2026
-- M.O.T, London — Sat, 5 Sept 2026
-- Colours Hoxton, London — Sat, 22 Aug 2026
-- Union Club, Vauxhall, London — Sun, 9 Aug 2026
-- Prisma, Berlin — Sun, 26 Jul 2026
-- Last Arch, London — Sat, 25 Jul 2026
-- Union Club, Vauxhall, London — Sun, 19 Jul 2026
+- Distillery N17, London · Fri, 25 Sept 2026
+- Union Club, Vauxhall, London · Sun, 6 Sept 2026
+- M.O.T, London · Sat, 5 Sept 2026
+- Colours Hoxton, London · Sat, 22 Aug 2026
+- Union Club, Vauxhall, London · Sun, 9 Aug 2026
+- Prisma, Berlin · Sun, 26 Jul 2026
+- Last Arch, London · Sat, 25 Jul 2026
+- Union Club, Vauxhall, London · Sun, 19 Jul 2026
 
 ## Shares bills with
 

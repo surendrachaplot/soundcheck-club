@@ -1,6 +1,6 @@
 # ATRIP, DJ BORING, DJ Seinfeld + Charlotte Ord at The Warehouse
 
-ATRIP, DJ BORING, DJ Seinfeld + Charlotte Ord at The Warehouse on Sat 28 Nov, Leeds. 4 artists on the bill: ATRIP, Charlotte Ord, DJ BORING and DJ Seinfeld. House. Preview the line-up and save it on soundcheck.
+ATRIP, DJ BORING, DJ Seinfeld + Charlotte Ord at The Warehouse on Sat 28 Nov, Leeds. 4 artists: ATRIP, Charlotte Ord, DJ BORING and DJ Seinfeld. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

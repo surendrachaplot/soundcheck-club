@@ -1,8 +1,8 @@
 # Acid Hero
 
-Acid Hero is a Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sala Villanos, Madrid on Sat, 10 Oct 2026.
+Acid Hero is a Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Villanos, Madrid on Sat, 10 Oct 2026.
 
-Acid Hero is an electronica artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside Toni Aparisi, Axel Boman and Crazy P. Next up: Sala Villanos, Madrid on Sat 10 Oct.
+Acid Hero is an electronica artist based in Spain, with 8 gigs on soundcheck across Madrid. Often billed alongside Toni Aparisi, Axel Boman and Crazy P. Next up: Sala Villanos, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,11 +14,11 @@ Acid Hero is an electronica artist based in Spain, tracked on soundcheck, with 8
 
 ## Recently played
 
-- Sala Villanos, Madrid — Sat, 9 May 2026
-- Sala Villanos, Madrid — Thu, 30 Apr 2026
-- Sala Villanos, Madrid — Sat, 14 Mar 2026
-- Sala Villanos, Madrid — Sat, 28 Feb 2026
-- Sala Villanos, Madrid — Fri, 13 Feb 2026
+- Sala Villanos, Madrid · Sat, 9 May 2026
+- Sala Villanos, Madrid · Thu, 30 Apr 2026
+- Sala Villanos, Madrid · Sat, 14 Mar 2026
+- Sala Villanos, Madrid · Sat, 28 Feb 2026
+- Sala Villanos, Madrid · Fri, 13 Feb 2026
 
 ## Shares bills with
 

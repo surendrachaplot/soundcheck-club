@@ -1,6 +1,6 @@
 # ELEVIN + TREBLE - Open-Air + Club - Sunset to Sunrise at Praia de Bafureira
 
-ELEVIN + TREBLE - Open-Air + Club - Sunset to Sunrise at Praia de Bafureira on Sat 3 Oct, Lisbon. 2 artists on the bill: Eklektone and ELEVIN. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+ELEVIN + TREBLE - Open-Air + Club - Sunset to Sunrise at Praia de Bafureira on Sat 3 Oct, Lisbon. 2 artists: Eklektone and ELEVIN. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

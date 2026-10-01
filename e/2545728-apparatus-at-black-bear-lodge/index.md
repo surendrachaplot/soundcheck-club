@@ -1,6 +1,6 @@
 # APPARATUS at Black Bear Lodge
 
-APPARATUS at Black Bear Lodge on Sun 4 Oct, Brisbane. 2 artists on the bill: Asha Franco and Roadw3rx. Techno and Footwork. Preview the line-up and save it on soundcheck.
+APPARATUS at Black Bear Lodge on Sun 4 Oct, Brisbane. 2 artists: Asha Franco and Roadw3rx. Techno and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

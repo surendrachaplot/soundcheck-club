@@ -1,6 +1,6 @@
 # Klubkneipe x Tuesday Ritual - Speedconnection with yourself and others at Prisma
 
-Klubkneipe x Tuesday Ritual - Speedconnection with yourself and others at Prisma on Tue 6 Oct, Berlin. 6 artists on the bill: Domovnika, KÜRÜF, RÄK and Tosha and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Klubkneipe x Tuesday Ritual - Speedconnection with yourself and others at Prisma on Tue 6 Oct, Berlin. 6 artists: Domovnika, KÜRÜF, RÄK and Tosha and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

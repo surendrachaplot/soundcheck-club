@@ -1,6 +1,6 @@
 # unceen with Paraçek & Charleen Herzig at WDM
 
-unceen with Paraçek & Charleen Herzig at WDM on Fri 16 Oct, Hannover. 4 artists on the bill: Charleen Herzig, LAURIX (DE), Melushka and Paraçek. Preview the line-up and save it on soundcheck.
+unceen with Paraçek & Charleen Herzig at WDM on Fri 16 Oct, Hannover. 4 artists: Charleen Herzig, LAURIX (DE), Melushka and Paraçek. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

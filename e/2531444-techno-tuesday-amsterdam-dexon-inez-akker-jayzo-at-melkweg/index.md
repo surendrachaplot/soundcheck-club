@@ -1,6 +1,6 @@
 # Techno Tuesday Amsterdam, Dexon, Inez Akker Jayzo at Melkweg
 
-Techno Tuesday Amsterdam, Dexon, Inez Akker Jayzo at Melkweg on Tue 6 Oct, Amsterdam. 3 artists on the bill: Dexon, Inez Akker and Jayzo. Techno. Preview the line-up and save it on soundcheck.
+Techno Tuesday Amsterdam, Dexon, Inez Akker Jayzo at Melkweg on Tue 6 Oct, Amsterdam. 3 artists: Dexon, Inez Akker and Jayzo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Tom Eichhagen
 
-Tom Eichhagen is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Sat, 7 Nov 2026.
+Tom Eichhagen is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Sat, 7 Nov 2026.
 
-Tom Eichhagen is a techno and tech house artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Joma Beton, Notes & Digits and Adri Tüde. Next up: Kater, Berlin on Sat 7 Nov.
+Tom Eichhagen is a techno and tech house artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Joma Beton, Notes & Digits and Adri Tüde. Next up: Kater, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Tom Eichhagen is a techno and tech house artist based in Germany, tracked on sou
 
 ## Recently played
 
-- Kater, Berlin — Fri, 23 May 2025
-- Kater, Berlin — Sat, 21 Sept 2024
-- Komplex Berlin, Berlin — Fri, 26 Apr 2024
-- Kater, Berlin — Fri, 13 Oct 2023
-- Zur Klappe, Berlin — Sat, 27 May 2023
-- Kater, Berlin — Fri, 5 May 2023
+- Kater, Berlin · Fri, 23 May 2025
+- Kater, Berlin · Sat, 21 Sept 2024
+- Komplex Berlin, Berlin · Fri, 26 Apr 2024
+- Kater, Berlin · Fri, 13 Oct 2023
+- Zur Klappe, Berlin · Sat, 27 May 2023
+- Kater, Berlin · Fri, 5 May 2023
 
 ## Shares bills with
 

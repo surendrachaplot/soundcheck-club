@@ -1,6 +1,6 @@
 # Apér Concrete Garden at Locke Hotel Theresienwiese
 
-Apér Concrete Garden at Locke Hotel Theresienwiese on Sat 17 Oct, Munich. House and Disco. Preview the line-up and save it on soundcheck.
+Apér Concrete Garden at Locke Hotel Theresienwiese on Sat 17 Oct, Munich. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Deptford Northern Soul Club at Yes
 
-Deptford Northern Soul Club at Yes on Sat 17 Oct, Manchester. Funk / Soul. Preview the line-up and save it on soundcheck.
+Deptford Northern Soul Club at Yes on Sat 17 Oct, Manchester. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

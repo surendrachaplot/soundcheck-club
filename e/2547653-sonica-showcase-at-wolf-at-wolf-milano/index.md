@@ -1,6 +1,6 @@
 # Sonica showcase at Wolf at Wolf Milano
 
-Sonica showcase at Wolf at Wolf Milano on Thu 1 Oct, Milan. 2 artists on the bill: Griso and Ilya Blinkov. House and Dub. Preview the line-up and save it on soundcheck.
+Sonica showcase at Wolf at Wolf Milano on Thu 1 Oct, Milan. 2 artists: Griso and Ilya Blinkov. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

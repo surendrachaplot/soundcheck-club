@@ -1,6 +1,6 @@
 # FACESTRAPPED 2.0 at TBA
 
-FACESTRAPPED 2.0 at TBA on Sat 7 Nov, New York City. House and Reggaeton. Preview the line-up and save it on soundcheck.
+FACESTRAPPED 2.0 at TBA on Sat 7 Nov, New York City. House and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

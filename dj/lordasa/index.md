@@ -1,8 +1,8 @@
 # LORD ASA
 
-LORD ASA is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bossa Nova Civic Club, New York City on Wed, 7 Oct 2026.
+LORD ASA is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 7 Oct 2026.
 
-LORD ASA is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 6 sets logged across New York City. Often billed alongside LORD ANNA, 99 ranch and Ali Berger. Next up: Bossa Nova Civic Club, New York City on Wed 7 Oct.
+LORD ASA is a techno and hardcore artist based in United States of America, with 6 gigs on soundcheck across New York City. Often billed alongside LORD ANNA, 99 ranch and Ali Berger. Next up: Bossa Nova Civic Club, New York City on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -13,10 +13,10 @@ LORD ASA is a techno and hardcore artist based in United States of America, trac
 
 ## Recently played
 
-- BASEMENT, New York City — Fri, 3 Jul 2026
-- Bossa Nova Civic Club, New York City — Fri, 8 May 2026
-- Mood Ring, New York City — Fri, 24 Apr 2026
-- Mood Ring, New York City — Thu, 5 Feb 2026
+- BASEMENT, New York City · Fri, 3 Jul 2026
+- Bossa Nova Civic Club, New York City · Fri, 8 May 2026
+- Mood Ring, New York City · Fri, 24 Apr 2026
+- Mood Ring, New York City · Thu, 5 Feb 2026
 
 ## Shares bills with
 

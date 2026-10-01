@@ -1,6 +1,6 @@
 # Nene G + Mediina at Beauty Bar
 
-Nene G + Mediina at Beauty Bar on Fri 2 Oct, San Francisco/Oakland. 1 artist on the bill: Mediina. Reggaeton and Neo Perreo. Preview the line-up and save it on soundcheck.
+Nene G + Mediina at Beauty Bar on Fri 2 Oct, San Francisco/Oakland. 1 artist: Mediina. Reggaeton and Neo Perreo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

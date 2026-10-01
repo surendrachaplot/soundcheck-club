@@ -1,6 +1,6 @@
 # Folamour • 5h set Toulouse at Interference
 
-Folamour • 5h set Toulouse at Interference on Sat 3 Oct, Toulouse. 1 artist on the bill: Folamour. Preview the line-up and save it on soundcheck.
+Folamour • 5h set Toulouse at Interference on Sat 3 Oct, Toulouse. 1 artist: Folamour. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

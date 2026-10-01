@@ -1,6 +1,6 @@
 # Ghost Notes - Day Party at Two Tribes CAMPFIRE
 
-Ghost Notes - Day Party at Two Tribes CAMPFIRE on Sat 31 Oct, London. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+Ghost Notes - Day Party at Two Tribes CAMPFIRE on Sat 31 Oct, London. Breakbeat and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

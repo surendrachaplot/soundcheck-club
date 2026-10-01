@@ -1,6 +1,6 @@
 # ADE BOAT KICKOFF W/ Moody Mehran, ZUKE B2B Thijs Koning & Ticey at Pier 14
 
-ADE BOAT KICKOFF W/ Moody Mehran, ZUKE B2B Thijs Koning & Ticey at Pier 14 on Wed 21 Oct, Amsterdam. 1 artist on the bill: Moody Mehran. Trance and House. Preview the line-up and save it on soundcheck.
+ADE BOAT KICKOFF W/ Moody Mehran, ZUKE B2B Thijs Koning & Ticey at Pier 14 on Wed 21 Oct, Amsterdam. 1 artist: Moody Mehran. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

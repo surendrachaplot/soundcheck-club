@@ -1,6 +1,6 @@
 # Strange Songs for Strange People at Eschschloraque
 
-Strange Songs for Strange People at Eschschloraque on Wed 21 Oct, Berlin. 1 artist on the bill: MissVergnügen. Preview the line-up and save it on soundcheck.
+Strange Songs for Strange People at Eschschloraque on Wed 21 Oct, Berlin. 1 artist: MissVergnügen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

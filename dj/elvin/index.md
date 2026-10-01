@@ -1,8 +1,8 @@
 # Elvin
 
-Elvin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Paloma, Berlin on Thu, 8 Oct 2026.
+Elvin is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Thu, 8 Oct 2026.
 
-Elvin is a techno and house artist tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside KVLR, DJ SPORTSCHUH and Alputo. Next up: Paloma, Berlin on Thu 8 Oct.
+Elvin is a techno and house artist, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 4 more. Often billed alongside KVLR, DJ SPORTSCHUH and Alputo. Next up: Paloma, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Elvin is a techno and house artist tracked on soundcheck, with 61 sets logged ac
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Fri, 4 Sept 2026
-- OYE Kreuzkoelln, Berlin — Thu, 6 Aug 2026
-- ÆDEN, Berlin — Thu, 23 Jul 2026
-- ÆDEN, Berlin — Sun, 21 Jun 2026
-- Ikii, Berlin — Wed, 20 May 2026
-- KREUZWERK, Berlin — Thu, 14 May 2026
-- Urban Spree, Berlin — Thu, 30 Apr 2026
-- Baalsaal, Hamburg — Sat, 25 Apr 2026
+- RSO.BERLIN, Berlin · Fri, 4 Sept 2026
+- OYE Kreuzkoelln, Berlin · Thu, 6 Aug 2026
+- ÆDEN, Berlin · Thu, 23 Jul 2026
+- ÆDEN, Berlin · Sun, 21 Jun 2026
+- Ikii, Berlin · Wed, 20 May 2026
+- KREUZWERK, Berlin · Thu, 14 May 2026
+- Urban Spree, Berlin · Thu, 30 Apr 2026
+- Baalsaal, Hamburg · Sat, 25 Apr 2026
 
 ## Shares bills with
 

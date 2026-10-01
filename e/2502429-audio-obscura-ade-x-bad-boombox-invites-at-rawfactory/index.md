@@ -1,6 +1,6 @@
 # Audio Obscura ADE x Bad Boombox Invites at RAWFACTORY
 
-Audio Obscura ADE x Bad Boombox Invites at RAWFACTORY on Fri 23 Oct, Amsterdam. 5 artists on the bill: Bad Boombox, Boris Coelman, DART and Jenny Cara and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+Audio Obscura ADE x Bad Boombox Invites at RAWFACTORY on Fri 23 Oct, Amsterdam. 5 artists: Bad Boombox, Boris Coelman, DART and Jenny Cara and 1 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

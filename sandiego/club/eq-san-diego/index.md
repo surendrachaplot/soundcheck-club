@@ -1,8 +1,8 @@
 # EQ San Diego
 
-EQ San Diego is a music venue in San Diego with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Techno Jungle" on Thu, 1 Oct 2026.
+EQ San Diego is a music venue in San Diego with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Techno Jungle" on Thu, 1 Oct 2026.
 
-EQ San Diego is a music venue in San Diego listed on soundcheck. 8 upcoming gigs, with line-ups including &friends, Baby Jane, Christian Löffler and Codak and 2 more. Browse upcoming dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
+EQ San Diego is a music venue in San Diego listed on soundcheck. 8 upcoming gigs, with line-ups including &friends, Baby Jane, Christian Löffler and Codak and 2 more. See dates, start times and who's playing. 1271 University Ave San Diego, CA 92103.
 
 ## What's on
 

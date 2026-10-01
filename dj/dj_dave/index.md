@@ -1,8 +1,8 @@
 # DJ_Dave
 
-DJ_Dave is a Techno and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at El Rey Theatre, Los Angeles on Thu, 1 Oct 2026.
+DJ_Dave is a Techno and Electronica artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at El Rey Theatre, Los Angeles on Thu, 1 Oct 2026.
 
-DJ_Dave is a techno and electronica artist based in United States of America, tracked on soundcheck, with 27 sets logged across Barcelona, Berlin, Boston and Los Angeles and 7 more. Often billed alongside horsegiirL, Alice Longyu Gao and B0YG1RL. Next up: El Rey Theatre, Los Angeles on Thu 1 Oct.
+DJ_Dave is a techno and electronica artist based in United States of America, with 27 gigs on soundcheck across Barcelona, Berlin, Boston and Los Angeles and 7 more. Often billed alongside horsegiirL, Alice Longyu Gao and B0YG1RL. Next up: El Rey Theatre, Los Angeles on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ DJ_Dave is a techno and electronica artist based in United States of America, tr
 
 ## Recently played
 
-- Razzmatazz, Barcelona — Fri, 10 Jul 2026
-- Badaboum, Paris — Wed, 20 May 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
-- BERHTA, Washington DC — Fri, 8 May 2026
-- The Ground at Club Space, Miami — Fri, 24 Apr 2026
-- The Ground at Club Space, Miami — Thu, 23 Apr 2026
-- Public Works, San Francisco/Oakland — Sat, 3 Jan 2026
-- Car Park, New York City — Fri, 5 Dec 2025
+- Razzmatazz, Barcelona · Fri, 10 Jul 2026
+- Badaboum, Paris · Wed, 20 May 2026
+- TBA - Les Grandes Locos , Lyon · Wed, 13 May 2026
+- BERHTA, Washington DC · Fri, 8 May 2026
+- The Ground at Club Space, Miami · Fri, 24 Apr 2026
+- The Ground at Club Space, Miami · Thu, 23 Apr 2026
+- Public Works, San Francisco/Oakland · Sat, 3 Jan 2026
+- Car Park, New York City · Fri, 5 Dec 2025
 
 ## Shares bills with
 

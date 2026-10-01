@@ -1,8 +1,8 @@
 # Tonio Barrientos
 
-Tonio Barrientos is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Tonio Barrientos is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Tonio Barrientos is an electro and tech house artist based in Germany, tracked on soundcheck, with 16 sets logged across Austria, Berlin, Frankfurt and Munich. Often billed alongside Chris Di Perri, Alma Gold and Chicks Luv Us. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Tonio Barrientos is an electro and tech house artist based in Germany, with 16 gigs on soundcheck across Austria, Berlin, Frankfurt and Munich. Often billed alongside Chris Di Perri, Alma Gold and Chicks Luv Us. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Tonio Barrientos is an electro and tech house artist based in Germany, tracked o
 
 ## Recently played
 
-- Pacha, Munich — Fri, 11 Sept 2026
-- BLITZ, Munich — Fri, 31 Jul 2026
-- Club der Visionaere, Berlin — Thu, 4 Jun 2026
-- Mint Club, Munich — Fri, 6 Feb 2026
-- Club der Visionaere, Berlin — Thu, 5 Jun 2025
-- MH5 Rooftop, Munich — Fri, 21 Mar 2025
-- Bahnwärter Thiel, Munich — Sat, 30 Nov 2024
-- Fortuna Irgendwo, Frankfurt — Sat, 22 Jun 2024
+- Pacha, Munich · Fri, 11 Sept 2026
+- BLITZ, Munich · Fri, 31 Jul 2026
+- Club der Visionaere, Berlin · Thu, 4 Jun 2026
+- Mint Club, Munich · Fri, 6 Feb 2026
+- Club der Visionaere, Berlin · Thu, 5 Jun 2025
+- MH5 Rooftop, Munich · Fri, 21 Mar 2025
+- Bahnwärter Thiel, Munich · Sat, 30 Nov 2024
+- Fortuna Irgendwo, Frankfurt · Sat, 22 Jun 2024
 
 ## Shares bills with
 

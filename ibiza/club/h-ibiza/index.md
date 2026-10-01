@@ -1,8 +1,8 @@
 # Hï Ibiza
 
-Hï Ibiza is a music venue in Ibiza with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "CamelPhat presents Summer of Love - CLOSING PARTY" on Fri, 2 Oct 2026.
+Hï Ibiza is a music venue in Ibiza with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CamelPhat presents Summer of Love - CLOSING PARTY" on Fri, 2 Oct 2026.
 
-Hï Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Ten, A For Alpha, Andrea Oliva and Anetha and 2 more. Browse upcoming dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
+Hï Ibiza is a music venue in Ibiza listed on soundcheck. 6 upcoming gigs, with line-ups including Adam Ten, A For Alpha, Andrea Oliva and Anetha and 2 more. See dates, start times and who's playing. Platja d''en Bossa s/n, 07817 Sant Josep de sa Talaia, Balearic Islands, Spain.
 
 ## What's on
 

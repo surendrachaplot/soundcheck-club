@@ -1,8 +1,8 @@
 # Neffa-T
 
-Neffa-T is a Bass and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Stereo, Glasgow on Sat, 3 Oct 2026.
+Neffa-T is a Bass and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Stereo, Glasgow on Sat, 3 Oct 2026.
 
-Neffa-T is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 175 sets logged across Amsterdam, Auckland, Barcelona and Belfast and 43 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: Stereo, Glasgow on Sat 3 Oct.
+Neffa-T is a bass and techno artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 43 more. Often billed alongside Flowdan, Jay Carder and Main Phase. Next up: Stereo, Glasgow on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Neffa-T is a bass and techno artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- 131 Mccormack St, Toronto — Fri, 25 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- Place Poelaertplein, Brussels — Sat, 12 Sept 2026
-- Sneaky Pete's, Edinburgh — Fri, 11 Sept 2026
-- essaim, Paris — Sat, 29 Aug 2026
-- The Prospect Building, Bristol — Sat, 8 Aug 2026
-- M.O.T, London — Fri, 7 Aug 2026
-- Cu, London — Wed, 1 Jul 2026
+- 131 Mccormack St, Toronto · Fri, 25 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Place Poelaertplein, Brussels · Sat, 12 Sept 2026
+- Sneaky Pete's, Edinburgh · Fri, 11 Sept 2026
+- essaim, Paris · Sat, 29 Aug 2026
+- The Prospect Building, Bristol · Sat, 8 Aug 2026
+- M.O.T, London · Fri, 7 Aug 2026
+- Cu, London · Wed, 1 Jul 2026
 
 ## Shares bills with
 

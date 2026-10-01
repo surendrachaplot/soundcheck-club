@@ -1,6 +1,6 @@
 # Throwback PORTO - Back to 80s, 90s & 00s - Museu do Carro Eléctrico at Museu do Carro Elétrico
 
-Throwback PORTO - Back to 80s, 90s & 00s - Museu do Carro Eléctrico at Museu do Carro Elétrico on Sat 17 Oct, Porto. Disco and Pop. Preview the line-up and save it on soundcheck.
+Throwback PORTO - Back to 80s, 90s & 00s - Museu do Carro Eléctrico at Museu do Carro Elétrico on Sat 17 Oct, Porto. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

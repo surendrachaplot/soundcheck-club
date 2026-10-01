@@ -1,6 +1,6 @@
 # Halloween special: Day of the Dead at Egg London
 
-Halloween special: Day of the Dead at Egg London on Sun 1 Nov, London. House. Preview the line-up and save it on soundcheck.
+Halloween special: Day of the Dead at Egg London on Sun 1 Nov, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

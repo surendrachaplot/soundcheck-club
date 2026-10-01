@@ -1,8 +1,8 @@
 # Sivanesh
 
-Sivanesh is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at RASA, Singapore on Fri, 16 Oct 2026.
+Sivanesh is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at RASA, Singapore on Fri, 16 Oct 2026.
 
-Sivanesh is a house and techno artist based in Singapore, tracked on soundcheck, with 71 sets logged across Bali, Kuala Lumpur, Seoul and Singapore. Often billed alongside Miss Lil, James Selva and Bongomann. Next up: RASA, Singapore on Fri 16 Oct.
+Sivanesh is a house and techno artist based in Singapore, with 71 gigs on soundcheck across Bali, Kuala Lumpur, Seoul and Singapore. Often billed alongside Miss Lil, James Selva and Bongomann. Next up: RASA, Singapore on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sivanesh is a house and techno artist based in Singapore, tracked on soundcheck,
 
 ## Recently played
 
-- RASA, Singapore — Fri, 25 Sept 2026
-- TBA - SARAB - Haji Lane, Singapore — Sat, 5 Sept 2026
-- The Pantry, Singapore — Sat, 8 Aug 2026
-- RASA, Singapore — Sat, 18 Jul 2026
-- RASA, Singapore — Fri, 26 Jun 2026
-- RASA, Singapore — Sat, 23 May 2026
-- RASA, Singapore — Thu, 2 Apr 2026
-- RASA, Singapore — Sat, 28 Mar 2026
+- RASA, Singapore · Fri, 25 Sept 2026
+- TBA - SARAB - Haji Lane, Singapore · Sat, 5 Sept 2026
+- The Pantry, Singapore · Sat, 8 Aug 2026
+- RASA, Singapore · Sat, 18 Jul 2026
+- RASA, Singapore · Fri, 26 Jun 2026
+- RASA, Singapore · Sat, 23 May 2026
+- RASA, Singapore · Thu, 2 Apr 2026
+- RASA, Singapore · Sat, 28 Mar 2026
 
 ## Shares bills with
 

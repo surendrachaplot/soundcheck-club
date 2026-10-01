@@ -1,6 +1,6 @@
 # Not Dead Yet presents Boy Harsher at Danforth Music Hall
 
-Not Dead Yet presents Boy Harsher at Danforth Music Hall on Wed 30 Sept, Toronto. 3 artists on the bill: Boy Harsher, Evanora Unlimited and Slash Need. Preview the line-up and save it on soundcheck.
+Not Dead Yet presents Boy Harsher at Danforth Music Hall on Wed 30 Sept, Toronto. 3 artists: Boy Harsher, Evanora Unlimited and Slash Need. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

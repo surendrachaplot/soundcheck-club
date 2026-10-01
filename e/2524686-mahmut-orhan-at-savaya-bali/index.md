@@ -1,6 +1,6 @@
 # Mahmut Orhan at Savaya Bali
 
-Mahmut Orhan at Savaya Bali on Tue 29 Dec, Bali. 1 artist on the bill: Mahmut Orhan. House. Preview the line-up and save it on soundcheck.
+Mahmut Orhan at Savaya Bali on Tue 29 Dec, Bali. 1 artist: Mahmut Orhan. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

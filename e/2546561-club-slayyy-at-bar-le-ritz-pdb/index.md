@@ -1,6 +1,6 @@
 # CLUB SLAYYY at Bar Le Ritz PDB
 
-CLUB SLAYYY at Bar Le Ritz PDB on Sat 7 Nov, Montreal. Preview the line-up and save it on soundcheck.
+CLUB SLAYYY at Bar Le Ritz PDB on Sat 7 Nov, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

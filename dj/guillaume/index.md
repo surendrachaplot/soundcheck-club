@@ -1,8 +1,8 @@
 # Guillaume & The Coutu Dumonts
 
-Guillaume & The Coutu Dumonts is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Haus der Visionäre, Berlin on Sat, 10 Oct 2026.
+Guillaume & The Coutu Dumonts is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Haus der Visionäre, Berlin on Sat, 10 Oct 2026.
 
-Guillaume & The Coutu Dumonts are a techno and experimental duo based in Canada, tracked on soundcheck, with 18 sets logged across Berlin, Krakow, Montreal and Seoul and 2 more. Often billed alongside Vincent Lemieux, Flabbergast and Mari.te. Next up: Haus der Visionäre, Berlin on Sat 10 Oct.
+Guillaume & The Coutu Dumonts are a techno and experimental duo based in Canada, with 18 gigs on soundcheck across Berlin, Krakow, Montreal and Seoul and 2 more. Often billed alongside Vincent Lemieux, Flabbergast and Mari.te. Next up: Haus der Visionäre, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Guillaume & The Coutu Dumonts are a techno and experimental duo based in Canada,
 
 ## Recently played
 
-- TBA, Montreal — Fri, 27 Mar 2026
-- La Face B - Web Radio, Montreal — Sun, 28 Dec 2025
-- Spotify O-EAST, Tokyo — Sun, 23 Nov 2025
-- Various Venues, Tokyo — Thu, 20 Nov 2025
-- Modeci, Seoul — Fri, 14 Nov 2025
-- Karmen Camina, Strasbourg — Fri, 26 Sept 2025
-- Salon Daomé, Montreal — Fri, 19 Sept 2025
-- NWHR, Montreal — Mon, 30 Jun 2025
+- TBA, Montreal · Fri, 27 Mar 2026
+- La Face B - Web Radio, Montreal · Sun, 28 Dec 2025
+- Spotify O-EAST, Tokyo · Sun, 23 Nov 2025
+- Various Venues, Tokyo · Thu, 20 Nov 2025
+- Modeci, Seoul · Fri, 14 Nov 2025
+- Karmen Camina, Strasbourg · Fri, 26 Sept 2025
+- Salon Daomé, Montreal · Fri, 19 Sept 2025
+- NWHR, Montreal · Mon, 30 Jun 2025
 
 ## Shares bills with
 

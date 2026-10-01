@@ -1,6 +1,6 @@
 # Moc at DJ Bar Bridge Shinjuku
 
-Moc at DJ Bar Bridge Shinjuku on Wed 18 Nov, Tokyo. House. Preview the line-up and save it on soundcheck.
+Moc at DJ Bar Bridge Shinjuku on Wed 18 Nov, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

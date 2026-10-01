@@ -1,6 +1,6 @@
 # Space Sunset Rituals feat. Darren Martin at Space Eat & Dance
 
-Space Sunset Rituals feat. Darren Martin at Space Eat & Dance on Fri 2 Oct, Ibiza. Deep House. Preview the line-up and save it on soundcheck.
+Space Sunset Rituals feat. Darren Martin at Space Eat & Dance on Fri 2 Oct, Ibiza. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

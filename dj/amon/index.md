@@ -1,8 +1,8 @@
 # Amøn
 
-Amøn is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
+Amøn is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Artheater, Cologne on Fri, 2 Oct 2026.
 
-Amøn is a techno and trance artist based in Germany, tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 6 more. Often billed alongside KLING&KLANG, DETOXX and Cobb Douglas. Next up: Artheater, Cologne on Fri 2 Oct.
+Amøn is a techno and trance artist based in Germany, with 105 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 6 more. Often billed alongside KLING&KLANG, DETOXX and Cobb Douglas. Next up: Artheater, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Amøn is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Westhafen, Leipzig — Sat, 19 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 18 Sept 2026
-- Grelle Forelle, Vienna — Sat, 5 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 28 Aug 2026
-- Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- Lokschuppen Berlin, Berlin — Sun, 2 Aug 2026
-- Lokschuppen Berlin, Berlin — Fri, 24 Jul 2026
+- Westhafen, Leipzig · Sat, 19 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 18 Sept 2026
+- Grelle Forelle, Vienna · Sat, 5 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 28 Aug 2026
+- Lokschuppen Berlin, Berlin · Sat, 15 Aug 2026
+- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
+- Lokschuppen Berlin, Berlin · Sun, 2 Aug 2026
+- Lokschuppen Berlin, Berlin · Fri, 24 Jul 2026
 
 ## Shares bills with
 

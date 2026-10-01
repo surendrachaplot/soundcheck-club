@@ -1,6 +1,6 @@
 # CREVETTE RECORDS - 10 YEAR ANNIVERSARY - AFTER PARTY at UMI
 
-CREVETTE RECORDS - 10 YEAR ANNIVERSARY - AFTER PARTY at UMI on Sat 24 Oct, Brussels. 5 artists on the bill: Ben Kamal, Brassac, Gamine and Gurl and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+CREVETTE RECORDS - 10 YEAR ANNIVERSARY - AFTER PARTY at UMI on Sat 24 Oct, Brussels. 5 artists: Ben Kamal, Brassac, Gamine and Gurl and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Free Acid Halloween Edition with Un_Mute at The Pickle
 
-Free Acid Halloween Edition with Un_Mute at The Pickle on Fri 30 Oct, Miami. Preview the line-up and save it on soundcheck.
+Free Acid Halloween Edition with Un_Mute at The Pickle on Fri 30 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

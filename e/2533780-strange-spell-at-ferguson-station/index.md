@@ -1,6 +1,6 @@
 # Strange Spell at Ferguson Station
 
-Strange Spell at Ferguson Station on Thu 1 Oct, Hamilton. 6 artists on the bill: Container, Geneva, godemperor and Lonefront and 2 more. Preview the line-up and save it on soundcheck.
+Strange Spell at Ferguson Station on Thu 1 Oct, Hamilton. 6 artists: Container, Geneva, godemperor and Lonefront and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

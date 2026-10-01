@@ -1,8 +1,8 @@
 # Arc Music
 
-Arc Music is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Het Sieraad, Amsterdam on Sat, 10 Oct 2026.
+Arc Music is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Het Sieraad, Amsterdam on Sat, 10 Oct 2026.
 
-Arc Music is a tech house and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam and Paris. Often billed alongside Edouard!, Marmolak and The Hidden People. Next up: Het Sieraad, Amsterdam on Sat 10 Oct.
+Arc Music is a tech house and house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam and Paris. Often billed alongside Edouard!, Marmolak and The Hidden People. Next up: Het Sieraad, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Arc Music is a tech house and house artist based in Netherlands, tracked on soun
 
 ## Recently played
 
-- Silencio, Paris — Fri, 30 May 2025
-- THE OTHER SIDE, Amsterdam — Fri, 29 Nov 2024
-- Recycle Lounge Gallery Club, Amsterdam — Thu, 17 Oct 2024
-- Silencio, Paris — Sat, 13 Apr 2024
-- Silencio, Paris — Sun, 31 Dec 2023
-- Madam, Amsterdam — Fri, 10 Nov 2023
-- Yellow House, Amsterdam — Fri, 5 May 2023
+- Silencio, Paris · Fri, 30 May 2025
+- THE OTHER SIDE, Amsterdam · Fri, 29 Nov 2024
+- Recycle Lounge Gallery Club, Amsterdam · Thu, 17 Oct 2024
+- Silencio, Paris · Sat, 13 Apr 2024
+- Silencio, Paris · Sun, 31 Dec 2023
+- Madam, Amsterdam · Fri, 10 Nov 2023
+- Yellow House, Amsterdam · Fri, 5 May 2023
 
 ## Shares bills with
 

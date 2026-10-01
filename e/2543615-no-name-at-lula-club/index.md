@@ -1,6 +1,6 @@
 # NO NAME at Lula Club
 
-NO NAME at Lula Club on Thu 29 Oct, Madrid. 1 artist on the bill: Chris Figueroa. Preview the line-up and save it on soundcheck.
+NO NAME at Lula Club on Thu 29 Oct, Madrid. 1 artist: Chris Figueroa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

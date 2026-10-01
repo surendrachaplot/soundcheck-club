@@ -1,6 +1,6 @@
 # Parallel presents IndeniaL b2b mkbest at TBA - SECRET LOCATION
 
-Parallel presents IndeniaL b2b mkbest at TBA - SECRET LOCATION on Sat 10 Oct, Belfast. 2 artists on the bill: IndeniaL and mkbest. Techno and House. Preview the line-up and save it on soundcheck.
+Parallel presents IndeniaL b2b mkbest at TBA - SECRET LOCATION on Sat 10 Oct, Belfast. 2 artists: IndeniaL and mkbest. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

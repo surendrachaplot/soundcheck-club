@@ -1,6 +1,6 @@
 # LBD: VIBRAN (All Night Long) at StereoBar
 
-LBD: VIBRAN (All Night Long) at StereoBar on Sun 4 Oct, Montreal. 1 artist on the bill: VIBRAN. Preview the line-up and save it on soundcheck.
+LBD: VIBRAN (All Night Long) at StereoBar on Sun 4 Oct, Montreal. 1 artist: VIBRAN. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

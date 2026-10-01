@@ -1,8 +1,8 @@
 # OMOLOKO
 
-OMOLOKO is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Horn, Bangkok on Sat, 17 Oct 2026.
+OMOLOKO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Horn, Bangkok on Sat, 17 Oct 2026.
 
-OMOLOKO is a house and techno artist based in Brazil, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 30 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: Horn, Bangkok on Sat 17 Oct.
+OMOLOKO is a house and techno artist based in Brazil, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 30 more. Often billed alongside Kabulom, BADSISTA and Cashu. Next up: Horn, Bangkok on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ OMOLOKO is a house and techno artist based in Brazil, tracked on soundcheck, wit
 
 ## Recently played
 
-- Mitsuki, Tokyo — Fri, 11 Sept 2026
-- BAR Inc, Osaka — Sat, 5 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 22 Aug 2026
-- La Terrrazza, Barcelona — Sat, 8 Aug 2026
-- Skatecafe, Amsterdam — Sat, 1 Aug 2026
-- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
-- PIP Den Haag, The Hague — Sat, 25 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
+- Mitsuki, Tokyo · Fri, 11 Sept 2026
+- BAR Inc, Osaka · Sat, 5 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 22 Aug 2026
+- La Terrrazza, Barcelona · Sat, 8 Aug 2026
+- Skatecafe, Amsterdam · Sat, 1 Aug 2026
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
+- PIP Den Haag, The Hague · Sat, 25 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 

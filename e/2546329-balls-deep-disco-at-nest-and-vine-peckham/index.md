@@ -1,6 +1,6 @@
 # Balls Deep Disco at Nest and Vine, Peckham
 
-Balls Deep Disco at Nest and Vine, Peckham on Sat 28 Nov, London. House and Disco. Preview the line-up and save it on soundcheck.
+Balls Deep Disco at Nest and Vine, Peckham on Sat 28 Nov, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

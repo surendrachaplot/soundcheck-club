@@ -1,6 +1,6 @@
 # Andrea Vanzo at Akvárium Klub
 
-Andrea Vanzo at Akvárium Klub on Mon 14 Dec, Budapest. Classical. Preview the line-up and save it on soundcheck.
+Andrea Vanzo at Akvárium Klub on Mon 14 Dec, Budapest. Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

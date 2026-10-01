@@ -1,6 +1,6 @@
 # JAMS - Justin Aulis Long at Cardinal Bar
 
-JAMS - Justin Aulis Long at Cardinal Bar on Sat 3 Oct, Madison. 2 artists on the bill: Justin Aulis Long and Moorhaus. Preview the line-up and save it on soundcheck.
+JAMS - Justin Aulis Long at Cardinal Bar on Sat 3 Oct, Madison. 2 artists: Justin Aulis Long and Moorhaus. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

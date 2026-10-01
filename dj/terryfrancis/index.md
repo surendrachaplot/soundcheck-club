@@ -1,8 +1,8 @@
 # Terry Francis
 
-Terry Francis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Eiger Studios, Leeds on Fri, 2 Oct 2026.
+Terry Francis is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Eiger Studios, Leeds on Fri, 2 Oct 2026.
 
-Terry Francis is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Aberdeen, Berlin, Birmingham and Brighton and 9 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: Eiger Studios, Leeds on Fri 2 Oct.
+Terry Francis is a house and tech house artist based in United Kingdom, with 62 gigs on soundcheck across Aberdeen, Berlin, Birmingham and Brighton and 9 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: Eiger Studios, Leeds on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Terry Francis is a house and tech house artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- 93 Feet East, London — Sun, 27 Sept 2026
-- People's Leisure Club, Edinburgh — Sat, 5 Sept 2026
-- Piccadilly Central, Manchester — Fri, 4 Sept 2026
-- The View From The Shard, London — Fri, 21 Aug 2026
-- Gaffe, London — Sun, 19 Jul 2026
-- NUMBER 90 LONDON, London — Sat, 18 Jul 2026
-- The Cuckoo Club, London — Fri, 26 Jun 2026
-- TBA - The Drop inn Digbeth, Birmingham — Sat, 30 May 2026
+- 93 Feet East, London · Sun, 27 Sept 2026
+- People's Leisure Club, Edinburgh · Sat, 5 Sept 2026
+- Piccadilly Central, Manchester · Fri, 4 Sept 2026
+- The View From The Shard, London · Fri, 21 Aug 2026
+- Gaffe, London · Sun, 19 Jul 2026
+- NUMBER 90 LONDON, London · Sat, 18 Jul 2026
+- The Cuckoo Club, London · Fri, 26 Jun 2026
+- TBA - The Drop inn Digbeth, Birmingham · Sat, 30 May 2026
 
 ## Shares bills with
 

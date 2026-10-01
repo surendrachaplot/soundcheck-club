@@ -1,6 +1,6 @@
 # Amtrac at ZeyZey
 
-Amtrac at ZeyZey on Fri 6 Nov, Miami. 1 artist on the bill: Amtrac. Deep House. Preview the line-up and save it on soundcheck.
+Amtrac at ZeyZey on Fri 6 Nov, Miami. 1 artist: Amtrac. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HIDDEN BEHIND X TITNS VOL. 24 at Time is the new space
 
-HIDDEN BEHIND X TITNS VOL. 24 at Time is the new space on Thu 8 Oct, Rotterdam. Preview the line-up and save it on soundcheck.
+HIDDEN BEHIND X TITNS VOL. 24 at Time is the new space on Thu 8 Oct, Rotterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jake Hodgkinson
 
-Jake Hodgkinson is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Eastern Bloc Records, Manchester on Thu, 22 Oct 2026.
+Jake Hodgkinson is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Eastern Bloc Records, Manchester on Thu, 22 Oct 2026.
 
-Jake Hodgkinson is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Barcelona, Bristol, Leeds and London and 3 more. Often billed alongside E. Alexander, HEAVEN-LEE and Ollie Drummond. Next up: Eastern Bloc Records, Manchester on Thu 22 Oct.
+Jake Hodgkinson is a house and tech house artist based in United Kingdom, with 38 gigs on soundcheck across Barcelona, Bristol, Leeds and London and 3 more. Often billed alongside E. Alexander, HEAVEN-LEE and Ollie Drummond. Next up: Eastern Bloc Records, Manchester on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Jake Hodgkinson is a house and tech house artist based in United Kingdom, tracke
 
 ## Recently played
 
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 12 Sept 2026
-- Two More Years, London — Fri, 17 Jul 2026
-- Starlane Pizza Bar, London — Sat, 4 Jul 2026
-- Two More Years, London — Fri, 19 Jun 2026
-- SASS Music Club, Vienna — Thu, 11 Jun 2026
-- Last Arch, London — Fri, 5 Jun 2026
-- Two More Years, London — Fri, 22 May 2026
-- The Timber Loft, London — Sun, 10 May 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 12 Sept 2026
+- Two More Years, London · Fri, 17 Jul 2026
+- Starlane Pizza Bar, London · Sat, 4 Jul 2026
+- Two More Years, London · Fri, 19 Jun 2026
+- SASS Music Club, Vienna · Thu, 11 Jun 2026
+- Last Arch, London · Fri, 5 Jun 2026
+- Two More Years, London · Fri, 22 May 2026
+- The Timber Loft, London · Sun, 10 May 2026
 
 ## Shares bills with
 

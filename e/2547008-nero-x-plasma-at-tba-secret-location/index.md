@@ -1,6 +1,6 @@
 # Nero x Plasma at TBA - Secret Location 
 
-Nero x Plasma at TBA - Secret Location  on Fri 16 Oct, Tokyo. 4 artists on the bill: ANKKH, DALJAE, KAITO and samJ. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Nero x Plasma at TBA - Secret Location  on Fri 16 Oct, Tokyo. 4 artists: ANKKH, DALJAE, KAITO and samJ. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

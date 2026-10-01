@@ -1,8 +1,8 @@
 # Peckham Arches
 
-Peckham Arches is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "leverson x Peckham Arches" on Thu, 1 Oct 2026.
+Peckham Arches is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "leverson x Peckham Arches" on Thu, 1 Oct 2026.
 
-Peckham Arches is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including leverson. Browse upcoming dates, start times and who's playing. 213 Blenheim Grove, London, SE15 4QL.
+Peckham Arches is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including leverson. See dates, start times and who's playing. 213 Blenheim Grove, London, SE15 4QL.
 
 ## What's on
 

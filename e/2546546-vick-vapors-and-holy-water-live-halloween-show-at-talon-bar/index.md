@@ -1,6 +1,6 @@
 # Vick Vapors and Holy Water Live Halloween Show at Talon Bar
 
-Vick Vapors and Holy Water Live Halloween Show at Talon Bar on Sat 31 Oct, New York City. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
+Vick Vapors and Holy Water Live Halloween Show at Talon Bar on Sat 31 Oct, New York City. Electro and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

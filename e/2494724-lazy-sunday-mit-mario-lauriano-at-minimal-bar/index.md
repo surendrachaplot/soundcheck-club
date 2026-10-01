@@ -1,6 +1,6 @@
 # lazy.sunday mit Mario Lauriano at Minimal Bar
 
-lazy.sunday mit Mario Lauriano at Minimal Bar on Sun 4 Oct, Berlin. 1 artist on the bill: Mario Lauriano. Preview the line-up and save it on soundcheck.
+lazy.sunday mit Mario Lauriano at Minimal Bar on Sun 4 Oct, Berlin. 1 artist: Mario Lauriano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

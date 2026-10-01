@@ -1,8 +1,8 @@
 # Maya B
 
-Maya B is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
+Maya B is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri, 30 Oct 2026.
 
-Maya B is a techno and electronica artist based in Spain, tracked on soundcheck, with 39 sets logged across Barcelona, Berlin, Lisbon and Madrid and 1 more. Often billed alongside Berenice, DISTORT (ES) and Baldman. Next up: TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri 30 Oct.
+Maya B is a techno and electronica artist based in Spain, with 39 gigs on soundcheck across Barcelona, Berlin, Lisbon and Madrid and 1 more. Often billed alongside Berenice, DISTORT (ES) and Baldman. Next up: TBA - ENTITY powered by VOID ACOUSTCS, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Maya B is a techno and electronica artist based in Spain, tracked on soundcheck,
 
 ## Recently played
 
-- Lasociaciøn, Madrid — Fri, 4 Sept 2026
-- Lasociaciøn, Madrid — Sat, 27 Jun 2026
-- Sala Villanos, Madrid — Fri, 12 Jun 2026
-- TBA, Madrid — Fri, 1 May 2026
-- Lasociaciøn, Madrid — Fri, 17 Apr 2026
-- Lasociaciøn, Madrid — Sat, 28 Feb 2026
-- TBA, Madrid — Fri, 6 Feb 2026
-- Gilda Club, Madrid — Fri, 5 Dec 2025
+- Lasociaciøn, Madrid · Fri, 4 Sept 2026
+- Lasociaciøn, Madrid · Sat, 27 Jun 2026
+- Sala Villanos, Madrid · Fri, 12 Jun 2026
+- TBA, Madrid · Fri, 1 May 2026
+- Lasociaciøn, Madrid · Fri, 17 Apr 2026
+- Lasociaciøn, Madrid · Sat, 28 Feb 2026
+- TBA, Madrid · Fri, 6 Feb 2026
+- Gilda Club, Madrid · Fri, 5 Dec 2025
 
 ## Shares bills with
 

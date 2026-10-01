@@ -1,8 +1,8 @@
 # MD Lovecraft
 
-MD Lovecraft is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paloma, Berlin on Sun, 25 Oct 2026.
+MD Lovecraft is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Sun, 25 Oct 2026.
 
-MD Lovecraft is a house and disco artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg and Sao Paulo. Often billed alongside Funghi & Butter, Johnny Da Cruz and Julez3000. Next up: Paloma, Berlin on Sun 25 Oct.
+MD Lovecraft is a house and disco artist based in Germany, with 14 gigs on soundcheck across Berlin, Hamburg and Sao Paulo. Often billed alongside Funghi & Butter, Johnny Da Cruz and Julez3000. Next up: Paloma, Berlin on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MD Lovecraft is a house and disco artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Fitzroy, Berlin — Fri, 3 Oct 2025
-- Kater, Berlin — Fri, 22 Aug 2025
-- Plötze, Berlin — Sat, 14 Jun 2025
-- Lark, Berlin — Fri, 9 May 2025
-- Plötze, Berlin — Sat, 5 Apr 2025
-- Fitzroy, Berlin — Fri, 28 Feb 2025
-- Ephigenia, Sao Paulo — Tue, 31 Dec 2024
-- ÆDEN, Berlin — Fri, 8 Nov 2024
+- Fitzroy, Berlin · Fri, 3 Oct 2025
+- Kater, Berlin · Fri, 22 Aug 2025
+- Plötze, Berlin · Sat, 14 Jun 2025
+- Lark, Berlin · Fri, 9 May 2025
+- Plötze, Berlin · Sat, 5 Apr 2025
+- Fitzroy, Berlin · Fri, 28 Feb 2025
+- Ephigenia, Sao Paulo · Tue, 31 Dec 2024
+- ÆDEN, Berlin · Fri, 8 Nov 2024
 
 ## Shares bills with
 

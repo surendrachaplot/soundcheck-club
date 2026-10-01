@@ -1,8 +1,8 @@
 # Till Antonio
 
-Till Antonio is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MH5 Rooftop, Munich on Sat, 10 Oct 2026.
+Till Antonio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MH5 Rooftop, Munich on Sat, 10 Oct 2026.
 
-Till Antonio is a techno and house artist tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 15 more. Often billed alongside Michael Ritter, Intaktogene and Felix E. Next up: MH5 Rooftop, Munich on Sat 10 Oct.
+Till Antonio is a techno and house artist, with 84 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 15 more. Often billed alongside Michael Ritter, Intaktogene and Felix E. Next up: MH5 Rooftop, Munich on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Till Antonio is a techno and house artist tracked on soundcheck, with 84 sets lo
 
 ## Recently played
 
-- Birgit, Berlin — Fri, 21 Aug 2026
-- MH5 Rooftop, Munich — Sat, 4 Jul 2026
-- Birgit, Berlin — Fri, 19 Jun 2026
-- Birgit, Berlin — Fri, 12 Jun 2026
-- O der Klub, Vienna — Fri, 24 Apr 2026
-- Ritter Butzke, Berlin — Sat, 7 Mar 2026
-- Birgit, Berlin — Sat, 28 Feb 2026
-- Renate, Berlin — Sun, 28 Dec 2025
+- Birgit, Berlin · Fri, 21 Aug 2026
+- MH5 Rooftop, Munich · Sat, 4 Jul 2026
+- Birgit, Berlin · Fri, 19 Jun 2026
+- Birgit, Berlin · Fri, 12 Jun 2026
+- O der Klub, Vienna · Fri, 24 Apr 2026
+- Ritter Butzke, Berlin · Sat, 7 Mar 2026
+- Birgit, Berlin · Sat, 28 Feb 2026
+- Renate, Berlin · Sun, 28 Dec 2025
 
 ## Shares bills with
 

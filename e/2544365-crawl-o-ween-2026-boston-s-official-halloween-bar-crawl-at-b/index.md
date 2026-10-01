@@ -1,6 +1,6 @@
 # Crawl-O-Ween 2026: Boston's Official Halloween Bar Crawl at Big Night Live
 
-Crawl-O-Ween 2026: Boston's Official Halloween Bar Crawl at Big Night Live on Sat 31 Oct, Boston. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Crawl-O-Ween 2026: Boston's Official Halloween Bar Crawl at Big Night Live on Sat 31 Oct, Boston. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

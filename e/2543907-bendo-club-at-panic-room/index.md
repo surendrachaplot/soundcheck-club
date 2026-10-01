@@ -1,6 +1,6 @@
 # BENDO CLUB at Panic Room
 
-BENDO CLUB at Panic Room on Fri 23 Oct, Paris. Techno and House. Preview the line-up and save it on soundcheck.
+BENDO CLUB at Panic Room on Fri 23 Oct, Paris. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

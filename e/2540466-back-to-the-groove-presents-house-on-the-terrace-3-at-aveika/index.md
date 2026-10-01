@@ -1,6 +1,6 @@
 # Back To The Groove presents: House on the Terrace 3 at Aveika
 
-Back To The Groove presents: House on the Terrace 3 at Aveika on Sat 14 Nov, Newcastle. House. Preview the line-up and save it on soundcheck.
+Back To The Groove presents: House on the Terrace 3 at Aveika on Sat 14 Nov, Newcastle. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

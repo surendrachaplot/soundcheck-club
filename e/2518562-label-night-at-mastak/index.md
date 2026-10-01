@@ -1,6 +1,6 @@
 # Label Night at Mastak
 
-Label Night at Mastak on Sat 17 Oct, Warsaw. 4 artists on the bill: Mute., Pean, sporra and ZAKARE. Techno. Preview the line-up and save it on soundcheck.
+Label Night at Mastak on Sat 17 Oct, Warsaw. 4 artists: Mute., Pean, sporra and ZAKARE. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

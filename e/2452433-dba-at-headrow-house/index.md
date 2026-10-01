@@ -1,6 +1,6 @@
 # DBA at Headrow House
 
-DBA at Headrow House on Sun 4 Oct, Leeds. Preview the line-up and save it on soundcheck.
+DBA at Headrow House on Sun 4 Oct, Leeds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

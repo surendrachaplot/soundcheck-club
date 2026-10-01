@@ -1,6 +1,6 @@
 # House of Camden - Tech, Tribal, Soulful & Deep House Night London at The Camden
 
-House of Camden - Tech, Tribal, Soulful & Deep House Night London at The Camden on Fri 6 Nov, London. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+House of Camden - Tech, Tribal, Soulful & Deep House Night London at The Camden on Fri 6 Nov, London. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

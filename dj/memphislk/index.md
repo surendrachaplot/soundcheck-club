@@ -1,8 +1,8 @@
 # Memphis LK
 
-Memphis LK is a House and Pop artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Memphis LK is a House and Pop artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Memphis LK is a house and pop artist based in Australia, tracked on soundcheck, with 22 sets logged across Auckland, Brisbane, Brussels and Edinburgh and 5 more. Often billed alongside Harry Hayes, Hasvat Informant and KSMBA. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Memphis LK is a house and pop artist based in Australia, with 22 gigs on soundcheck across Auckland, Brisbane, Brussels and Edinburgh and 5 more. Often billed alongside Harry Hayes, Hasvat Informant and KSMBA. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Memphis LK is a house and pop artist based in Australia, tracked on soundcheck, 
 
 ## Recently played
 
-- Collingwood Yards, Melbourne — Thu, 1 Jan 2026
-- The Ivy, Sydney — Sun, 20 Apr 2025
-- Regatta Bar and Eatery, Auckland — Sat, 5 Apr 2025
-- The Triffid, Brisbane — Sat, 29 Mar 2025
-- Le Botanique Witloof Bar, Brussels — Sat, 14 Dec 2024
-- Black Bear Lodge, Brisbane — Thu, 17 Oct 2024
-- Oxford Art Factory, Sydney — Sat, 12 Oct 2024
-- Max Watt's, Melbourne — Fri, 11 Oct 2024
+- Collingwood Yards, Melbourne · Thu, 1 Jan 2026
+- The Ivy, Sydney · Sun, 20 Apr 2025
+- Regatta Bar and Eatery, Auckland · Sat, 5 Apr 2025
+- The Triffid, Brisbane · Sat, 29 Mar 2025
+- Le Botanique Witloof Bar, Brussels · Sat, 14 Dec 2024
+- Black Bear Lodge, Brisbane · Thu, 17 Oct 2024
+- Oxford Art Factory, Sydney · Sat, 12 Oct 2024
+- Max Watt's, Melbourne · Fri, 11 Oct 2024
 
 ## Shares bills with
 

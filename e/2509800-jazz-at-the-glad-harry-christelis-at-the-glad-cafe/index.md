@@ -1,6 +1,6 @@
 # Jazz at the Glad: Harry Christelis at The Glad Cafe
 
-Jazz at the Glad: Harry Christelis at The Glad Cafe on Tue 13 Oct, Glasgow. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+Jazz at the Glad: Harry Christelis at The Glad Cafe on Tue 13 Oct, Glasgow. Experimental and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

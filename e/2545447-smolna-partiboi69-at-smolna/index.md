@@ -1,6 +1,6 @@
 # Smolna: Partiboi69 at Smolna
 
-Smolna: Partiboi69 on Sat 21 Nov, Warsaw. 1 artist on the bill: Partiboi69. Techno. Preview the line-up and save it on soundcheck.
+Smolna: Partiboi69 on Sat 21 Nov, Warsaw. 1 artist: Partiboi69. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

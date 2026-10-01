@@ -1,8 +1,8 @@
 # McChuills Music Bar
 
-McChuills Music Bar is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "A Deeper Groove with We Turn Tables (Limerick)" on Sat, 3 Oct 2026.
+McChuills Music Bar is a music venue in Glasgow with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "A Deeper Groove with We Turn Tables (Limerick)" on Sat, 3 Oct 2026.
 
-McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs, with line-ups including Accident Machine, Billy Nasty, Bonzai Bonner and Chris Hewitt and 2 more. Browse upcoming dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
+McChuills Music Bar is a music venue in Glasgow listed on soundcheck. 8 upcoming gigs, with line-ups including Accident Machine, Billy Nasty, Bonzai Bonner and Chris Hewitt and 2 more. See dates, start times and who's playing. 80 High St, Glasgow G1 1NL.
 
 ## What's on
 

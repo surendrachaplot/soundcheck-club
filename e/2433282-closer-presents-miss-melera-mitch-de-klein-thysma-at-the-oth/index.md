@@ -1,6 +1,6 @@
 # Closer presents Miss Melera Mitch de Klein Thysma at THE OTHER SIDE
 
-Closer presents Miss Melera Mitch de Klein Thysma at THE OTHER SIDE on Sat 3 Oct, Amsterdam. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Closer presents Miss Melera Mitch de Klein Thysma at THE OTHER SIDE on Sat 3 Oct, Amsterdam. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

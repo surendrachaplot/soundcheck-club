@@ -1,6 +1,6 @@
 # DOCTOR MÜCKE - SICILY DEBUT at Shazam Club
 
-DOCTOR MÜCKE - SICILY DEBUT at Shazam Club on Sat 10 Oct, Sicily. 1 artist on the bill: DOCTOR MÜCKE. Preview the line-up and save it on soundcheck.
+DOCTOR MÜCKE - SICILY DEBUT at Shazam Club on Sat 10 Oct, Sicily. 1 artist: DOCTOR MÜCKE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

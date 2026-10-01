@@ -1,6 +1,6 @@
 # BOUNCY NIGHTS - Antonym - Linds - Riana Holley at Evenementenhal Depart
 
-BOUNCY NIGHTS - Antonym - Linds - Riana Holley at Evenementenhal Depart on Sat 14 Nov, Belgium. 3 artists on the bill: Antonym, Linds and Riana Holley. Preview the line-up and save it on soundcheck.
+BOUNCY NIGHTS - Antonym - Linds - Riana Holley at Evenementenhal Depart on Sat 14 Nov, Belgium. 3 artists: Antonym, Linds and Riana Holley. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

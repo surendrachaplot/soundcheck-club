@@ -1,8 +1,8 @@
 # bradeazy
 
-bradeazy is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chinese Laundry, Sydney on Sat, 3 Oct 2026.
+bradeazy is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chinese Laundry, Sydney on Sat, 3 Oct 2026.
 
-bradeazy is a tech house and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Barcelona, Boston and Brisbane and 17 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Chinese Laundry, Sydney on Sat 3 Oct.
+bradeazy is a tech house and house artist based in United States of America, with 35 gigs on soundcheck across Austin, Barcelona, Boston and Brisbane and 17 more. Often billed alongside Agents Of Time, Eelke Kleijn and Innellea. Next up: Chinese Laundry, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ bradeazy is a tech house and house artist based in United States of America, tra
 
 ## Recently played
 
-- The Beaumont Brisbane, Brisbane — Sat, 26 Sept 2026
-- TBA - Newcastle Australia, Newcastle — Fri, 25 Sept 2026
-- Maitland Showground, Sydney — Fri, 25 Sept 2026
-- MAX Watts, Melbourne — Thu, 24 Sept 2026
-- Max Watt's, Melbourne — Thu, 24 Sept 2026
-- Bauhaus, Houston — Sat, 12 Sept 2026
-- Kingdom Nightclub, Austin — Fri, 11 Sept 2026
-- The Midway, San Francisco/Oakland — Sat, 29 Aug 2026
+- The Beaumont Brisbane, Brisbane · Sat, 26 Sept 2026
+- TBA - Newcastle Australia, Newcastle · Fri, 25 Sept 2026
+- Maitland Showground, Sydney · Fri, 25 Sept 2026
+- MAX Watts, Melbourne · Thu, 24 Sept 2026
+- Max Watt's, Melbourne · Thu, 24 Sept 2026
+- Bauhaus, Houston · Sat, 12 Sept 2026
+- Kingdom Nightclub, Austin · Fri, 11 Sept 2026
+- The Midway, San Francisco/Oakland · Sat, 29 Aug 2026
 
 ## Shares bills with
 

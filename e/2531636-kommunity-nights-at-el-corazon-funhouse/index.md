@@ -1,6 +1,6 @@
 # Kommunity Nights at El Corazon/Funhouse
 
-Kommunity Nights at El Corazon/Funhouse on Fri 2 Oct, Seattle. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Kommunity Nights at El Corazon/Funhouse on Fri 2 Oct, Seattle. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

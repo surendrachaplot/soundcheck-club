@@ -1,6 +1,6 @@
 # INPUT pres Mika Heggemann at INPUT High Fidelity Dance Club
 
-INPUT pres Mika Heggemann at INPUT High Fidelity Dance Club on Fri 6 Nov, Barcelona. 1 artist on the bill: Mika Heggemann. Trance and Techno. Preview the line-up and save it on soundcheck.
+INPUT pres Mika Heggemann at INPUT High Fidelity Dance Club on Fri 6 Nov, Barcelona. 1 artist: Mika Heggemann. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

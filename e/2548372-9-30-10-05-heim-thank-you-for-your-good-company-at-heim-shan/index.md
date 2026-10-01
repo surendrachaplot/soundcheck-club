@@ -1,6 +1,6 @@
 # 9.30–10.05｜Heim 国庆跳舞计划 Thank you for your Good Company at Heim Shanghai
 
-9.30–10.05｜Heim 国庆跳舞计划 Thank you for your Good Company at Heim Shanghai on Wed 30 Sept, Shanghai. 13 artists on the bill: 10000 (CN), chuan, D A N D I and ddwy and 9 more. Preview the line-up and save it on soundcheck.
+9.30–10.05｜Heim 国庆跳舞计划 Thank you for your Good Company at Heim Shanghai on Wed 30 Sept, Shanghai. 13 artists: 10000 (CN), chuan, D A N D I and ddwy and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

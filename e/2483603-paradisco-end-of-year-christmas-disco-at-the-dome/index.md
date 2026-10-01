@@ -1,6 +1,6 @@
 # Paradisco end of year Christmas Disco at The Dome
 
-Paradisco end of year Christmas Disco at The Dome on Sat 12 Dec, Liverpool. House and Disco. Preview the line-up and save it on soundcheck.
+Paradisco end of year Christmas Disco at The Dome on Sat 12 Dec, Liverpool. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # District 10: Floorfillers 11 hour set at La Péniche Cinéma
 
-District 10: Floorfillers 11 hour set at La Péniche Cinéma on Sat 24 Oct, Paris. House and Minimal. Preview the line-up and save it on soundcheck.
+District 10: Floorfillers 11 hour set at La Péniche Cinéma on Sat 24 Oct, Paris. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

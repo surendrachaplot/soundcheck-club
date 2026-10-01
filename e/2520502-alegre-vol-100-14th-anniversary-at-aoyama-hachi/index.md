@@ -1,6 +1,6 @@
 # Alegre vol.100〜14th Anniversary〜 at Aoyama Hachi
 
-Alegre vol.100〜14th Anniversary〜 at Aoyama Hachi on Sun 4 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+Alegre vol.100〜14th Anniversary〜 at Aoyama Hachi on Sun 4 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

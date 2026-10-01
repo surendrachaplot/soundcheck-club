@@ -1,6 +1,6 @@
 # quarto piano with Sunday Bath Carlo Amadori at THE MAGICK BAR
 
-quarto piano with Sunday Bath Carlo Amadori at THE MAGICK BAR on Wed 7 Oct, Rome. 1 artist on the bill: Sunday Bath. Preview the line-up and save it on soundcheck.
+quarto piano with Sunday Bath Carlo Amadori at THE MAGICK BAR on Wed 7 Oct, Rome. 1 artist: Sunday Bath. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

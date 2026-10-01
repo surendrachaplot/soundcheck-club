@@ -1,6 +1,6 @@
 # Clubnight - Timedance, instinkt lab at Open Ground
 
-Clubnight - Timedance, instinkt lab at Open Ground on Sat 21 Nov, Wuppertal. 7 artists on the bill: ananda priori, Batu, Call Super and Deano and 3 more. Preview the line-up and save it on soundcheck.
+Clubnight - Timedance, instinkt lab at Open Ground on Sat 21 Nov, Wuppertal. 7 artists: ananda priori, Batu, Call Super and Deano and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

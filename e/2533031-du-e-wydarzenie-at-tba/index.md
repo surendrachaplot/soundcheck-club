@@ -1,6 +1,6 @@
 # duże wydarzenie at TBA
 
-duże wydarzenie at TBA on Fri 13 Nov, Warsaw. Latin Bass and Guaracha. Preview the line-up and save it on soundcheck.
+duże wydarzenie at TBA on Fri 13 Nov, Warsaw. Latin Bass and Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

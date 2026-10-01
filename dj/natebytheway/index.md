@@ -1,8 +1,8 @@
 # natebytheway
 
-natebytheway is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Foundry, San Francisco/Oakland on Fri, 2 Oct 2026.
+natebytheway is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Foundry, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-natebytheway is a house and techno artist based in United States of America, tracked on soundcheck, with 20 sets logged across San Francisco/Oakland. Often billed alongside Phil Spank, Clancy Hickinbotham and Jimmy B. Next up: The Foundry, San Francisco/Oakland on Fri 2 Oct.
+natebytheway is a house and techno artist based in United States of America, with 20 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Phil Spank, Clancy Hickinbotham and Jimmy B. Next up: The Foundry, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ natebytheway is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
-- Monarch, San Francisco/Oakland — Fri, 11 Sept 2026
-- Public Works, San Francisco/Oakland — Sat, 29 Aug 2026
-- Public Works, San Francisco/Oakland — Sat, 4 Jul 2026
-- Phonobar, San Francisco/Oakland — Sat, 30 May 2026
-- F8 1192 Folsom, San Francisco/Oakland — Wed, 6 May 2026
-- Monarch, San Francisco/Oakland — Sat, 7 Feb 2026
-- Hedge Coffee, San Francisco/Oakland — Sun, 11 Jan 2026
-- TBA - SECRET SF LOCATION, San Francisco/Oakland — Sat, 1 Nov 2025
+- Monarch, San Francisco/Oakland · Fri, 11 Sept 2026
+- Public Works, San Francisco/Oakland · Sat, 29 Aug 2026
+- Public Works, San Francisco/Oakland · Sat, 4 Jul 2026
+- Phonobar, San Francisco/Oakland · Sat, 30 May 2026
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 6 May 2026
+- Monarch, San Francisco/Oakland · Sat, 7 Feb 2026
+- Hedge Coffee, San Francisco/Oakland · Sun, 11 Jan 2026
+- TBA - SECRET SF LOCATION, San Francisco/Oakland · Sat, 1 Nov 2025
 
 ## Shares bills with
 

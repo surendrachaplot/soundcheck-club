@@ -1,6 +1,6 @@
 # Alexander Zimmermann - The Paradise Now at The Paradise Now
 
-Alexander Zimmermann - The Paradise Now on Sat 21 Nov, Düsseldorf. House. Preview the line-up and save it on soundcheck.
+Alexander Zimmermann - The Paradise Now on Sat 21 Nov, Düsseldorf. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

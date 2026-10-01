@@ -1,6 +1,6 @@
 # Extended Clubnight at Open Ground
 
-Extended Clubnight at Open Ground on Sat 3 Oct, Wuppertal. 7 artists on the bill: Daphni, DJ Firmeza, DJ Nigga Fox and Frau Beji and 3 more. Preview the line-up and save it on soundcheck.
+Extended Clubnight at Open Ground on Sat 3 Oct, Wuppertal. 7 artists: Daphni, DJ Firmeza, DJ Nigga Fox and Frau Beji and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

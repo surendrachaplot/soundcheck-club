@@ -1,6 +1,6 @@
 # Twin Diplomacy at Coda
 
-Twin Diplomacy at Coda on Fri 18 Dec, Toronto. Preview the line-up and save it on soundcheck.
+Twin Diplomacy at Coda on Fri 18 Dec, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

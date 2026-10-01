@@ -1,6 +1,6 @@
 # Medio Crew x Microdots present Diego Krause at 303 at 303 Audiophile Bar
 
-Medio Crew x Microdots present Diego Krause at 303 at 303 Audiophile Bar on Sat 3 Oct, Barcelona. 2 artists on the bill: Diego Krause and TOT (BR). House and Minimal. Preview the line-up and save it on soundcheck.
+Medio Crew x Microdots present Diego Krause at 303 at 303 Audiophile Bar on Sat 3 Oct, Barcelona. 2 artists: Diego Krause and TOT (BR). House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CLB INTRNCNL at El Rio
 
-CLB INTRNCNL at El Rio on Sat 17 Oct, San Francisco/Oakland. 2 artists on the bill: Giselle Peppers and Profesito. Baile Funk and Neo Perreo. Preview the line-up and save it on soundcheck.
+CLB INTRNCNL at El Rio on Sat 17 Oct, San Francisco/Oakland. 2 artists: Giselle Peppers and Profesito. Baile Funk and Neo Perreo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

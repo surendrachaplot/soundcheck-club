@@ -1,6 +1,6 @@
 # RAZZCLUBS: BMT: Goddard. & MC XL + Disobey Sound System: Secret Showcase + JOHNNYFUU at Razzmatazz
 
-RAZZCLUBS: BMT: Goddard. & MC XL + Disobey Sound System: Secret Showcase + JOHNNYFUU at Razzmatazz on Fri 23 Oct, Barcelona. 10 artists on the bill: Adame DJ, Bulma, BZZHOUND and Dj Rankng and 6 more. Preview the line-up and save it on soundcheck.
+RAZZCLUBS: BMT: Goddard. & MC XL + Disobey Sound System: Secret Showcase + JOHNNYFUU at Razzmatazz on Fri 23 Oct, Barcelona. 10 artists: Adame DJ, Bulma, BZZHOUND and Dj Rankng and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

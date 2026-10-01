@@ -1,6 +1,6 @@
 # Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) at Razzmatazz
 
-Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) at Razzmatazz on Sun 1 Nov, Barcelona. 8 artists on the bill: ANJELIKA SAHAKIAN, Art of Fighters, DIDIXX and Lady Dammage and 4 more. Hardcore. Preview the line-up and save it on soundcheck.
+Fury 3rd Anniversary [DAY 2] x Halloween (Fury / Madhouse / KINYXX / Hardcore Maniaks) at Razzmatazz on Sun 1 Nov, Barcelona. 8 artists: ANJELIKA SAHAKIAN, Art of Fighters, DIDIXX and Lady Dammage and 4 more. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Skunk at Centro Sociale Rivolta
 
-Skunk at Centro Sociale Rivolta on Sat 17 Oct, Venice. 4 artists on the bill: DJ Spinn, Kasei P, KULYENCHIKEV and xPOLLYx. Preview the line-up and save it on soundcheck.
+Skunk at Centro Sociale Rivolta on Sat 17 Oct, Venice. 4 artists: DJ Spinn, Kasei P, KULYENCHIKEV and xPOLLYx. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

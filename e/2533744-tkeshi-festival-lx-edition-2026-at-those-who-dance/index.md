@@ -1,6 +1,6 @@
 # TKESHI Festival Lx Edition 2026 at Those Who Dance
 
-TKESHI Festival Lx Edition 2026 at Those Who Dance on Sat 10 Oct, Lisbon. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+TKESHI Festival Lx Edition 2026 at Those Who Dance on Sat 10 Oct, Lisbon. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

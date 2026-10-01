@@ -1,8 +1,8 @@
 # Priku
 
-Priku is a Minimal and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hï Ibiza, Ibiza on Tue, 6 Oct 2026.
+Priku is a Minimal and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hï Ibiza, Ibiza on Tue, 6 Oct 2026.
 
-Priku is a minimal and house artist based in Romania, tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Hï Ibiza, Ibiza on Tue 6 Oct.
+Priku is a minimal and house artist based in Romania, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Hï Ibiza, Ibiza on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Priku is a minimal and house artist based in Romania, tracked on soundcheck, wit
 
 ## Recently played
 
-- Club Guesthouse, Bucharest — Sat, 19 Sept 2026
-- Maya Beach Experience, Naples — Sat, 12 Sept 2026
-- Pacha Ibiza, Ibiza — Fri, 11 Sept 2026
-- Seaseaclub Barcelona, Barcelona — Sun, 23 Aug 2026
-- LA-YAM Rooftop, London — Sat, 22 Aug 2026
-- DC-10, Ibiza — Mon, 17 Aug 2026
-- Supermarket, Zurich — Fri, 7 Aug 2026
-- Playa Soleil Ibiza, Ibiza — Wed, 5 Aug 2026
+- Club Guesthouse, Bucharest · Sat, 19 Sept 2026
+- Maya Beach Experience, Naples · Sat, 12 Sept 2026
+- Pacha Ibiza, Ibiza · Fri, 11 Sept 2026
+- Seaseaclub Barcelona, Barcelona · Sun, 23 Aug 2026
+- LA-YAM Rooftop, London · Sat, 22 Aug 2026
+- DC-10, Ibiza · Mon, 17 Aug 2026
+- Supermarket, Zurich · Fri, 7 Aug 2026
+- Playa Soleil Ibiza, Ibiza · Wed, 5 Aug 2026
 
 ## Shares bills with
 

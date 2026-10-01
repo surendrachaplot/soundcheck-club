@@ -1,6 +1,6 @@
 # Kiss Facility / BLÅ at Blå
 
-Kiss Facility / BLÅ at Blå on Thu 22 Oct, Oslo. Preview the line-up and save it on soundcheck.
+Kiss Facility / BLÅ at Blå on Thu 22 Oct, Oslo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # TBA -   STAY TUNED 
 
-TBA -   STAY TUNED  is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "ADE RECORD SHOW CASE - TECHNO" on Thu, 22 Oct 2026.
+TBA -   STAY TUNED  is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ADE RECORD SHOW CASE - TECHNO" on Thu, 22 Oct 2026.
 
-TBA -   STAY TUNED  is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Eric Ross. Browse upcoming dates, start times and who's playing.
+TBA -   STAY TUNED  is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Eric Ross. See dates, start times and who's playing.
 
 ## What's on
 

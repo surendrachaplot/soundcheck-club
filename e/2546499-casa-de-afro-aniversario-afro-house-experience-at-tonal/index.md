@@ -1,6 +1,6 @@
 # Casa De Afro - Aniversario - Afro House Experience at Tonal
 
-Casa De Afro - Aniversario - Afro House Experience at Tonal on Sun 4 Oct, Mexico City. 1 artist on the bill: Dr. ADO. Amapiano and Afro Tech. Preview the line-up and save it on soundcheck.
+Casa De Afro - Aniversario - Afro House Experience at Tonal on Sun 4 Oct, Mexico City. 1 artist: Dr. ADO. Amapiano and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

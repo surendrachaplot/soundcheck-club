@@ -1,6 +1,6 @@
 # LEX at World Headquarters
 
-LEX at World Headquarters on Mon 12 Oct, Newcastle. House and Garage. Preview the line-up and save it on soundcheck.
+LEX at World Headquarters on Mon 12 Oct, Newcastle. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

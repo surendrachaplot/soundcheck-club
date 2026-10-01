@@ -1,6 +1,6 @@
 # Wade - La Estación Sunset, Córdoba - ALLMusicParties at TBA - La Estación, Cordoba
 
-Wade - La Estación Sunset, Córdoba - ALLMusicParties at TBA - La Estación, Cordoba on Sun 6 Dec, Argentina. 1 artist on the bill: Wade. Preview the line-up and save it on soundcheck.
+Wade - La Estación Sunset, Córdoba - ALLMusicParties at TBA - La Estación, Cordoba on Sun 6 Dec, Argentina. 1 artist: Wade. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

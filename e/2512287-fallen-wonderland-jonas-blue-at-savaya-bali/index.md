@@ -1,6 +1,6 @@
 # Fallen Wonderland - Jonas Blue at Savaya Bali
 
-Fallen Wonderland - Jonas Blue at Savaya Bali on Fri 30 Oct, Bali. 1 artist on the bill: Jonas Blue. House. Preview the line-up and save it on soundcheck.
+Fallen Wonderland - Jonas Blue at Savaya Bali on Fri 30 Oct, Bali. 1 artist: Jonas Blue. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

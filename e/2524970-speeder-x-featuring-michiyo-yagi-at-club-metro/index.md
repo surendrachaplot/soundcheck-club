@@ -1,6 +1,6 @@
 # SPEEDER-X featuring MICHIYO YAGI at Club Metro
 
-SPEEDER-X featuring MICHIYO YAGI at Club Metro on Tue 10 Nov, Kyoto. Preview the line-up and save it on soundcheck.
+SPEEDER-X featuring MICHIYO YAGI at Club Metro on Tue 10 Nov, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

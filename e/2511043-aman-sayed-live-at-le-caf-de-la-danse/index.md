@@ -1,6 +1,6 @@
 # Aman Sayed Live at Le Café De La Danse
 
-Aman Sayed Live at Le Café De La Danse on Fri 16 Oct, Paris. Pop. Preview the line-up and save it on soundcheck.
+Aman Sayed Live at Le Café De La Danse on Fri 16 Oct, Paris. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

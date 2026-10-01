@@ -1,6 +1,6 @@
 # Teletech HANNOVER at WDM
 
-Teletech HANNOVER at WDM on Sat 3 Oct, Hannover. 6 artists on the bill: KARAH, KIM AHLF, Kim Valmount and Mad Dog and 2 more. Preview the line-up and save it on soundcheck.
+Teletech HANNOVER at WDM on Sat 3 Oct, Hannover. 6 artists: KARAH, KIM AHLF, Kim Valmount and Mad Dog and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

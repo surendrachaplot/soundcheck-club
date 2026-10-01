@@ -1,8 +1,8 @@
 # Sunday Soulman
 
-Sunday Soulman is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - De Ruijterkade 14, Amsterdam , Amsterdam on Sun, 25 Oct 2026.
+Sunday Soulman is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - De Ruijterkade 14, Amsterdam , Amsterdam on Sun, 25 Oct 2026.
 
-Sunday Soulman is a house and deep house artist based in Greece, tracked on soundcheck, with 17 sets logged across Amsterdam and Athens. Often billed alongside charuso, PEDRIK and Aphroditeé. Next up: TBA - De Ruijterkade 14, Amsterdam , Amsterdam on Sun 25 Oct.
+Sunday Soulman is a house and deep house artist based in Greece, with 17 gigs on soundcheck across Amsterdam and Athens. Often billed alongside charuso, PEDRIK and Aphroditeé. Next up: TBA - De Ruijterkade 14, Amsterdam , Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sunday Soulman is a house and deep house artist based in Greece, tracked on soun
 
 ## Recently played
 
-- Ichigo Ichie, Athens — Sun, 10 May 2026
-- BOO!, Athens — Fri, 14 Nov 2025
-- Bless Me Father, Athens — Thu, 9 Oct 2025
-- Piraeus Tower, Athens — Sat, 14 Jun 2025
-- Stoa Athens, Athens — Sun, 13 Apr 2025
-- BÒTOXE Club Athens, Athens — Sat, 15 Mar 2025
-- Hated Athens, Athens — Thu, 27 Feb 2025
-- Hated Athens, Athens — Thu, 6 Feb 2025
+- Ichigo Ichie, Athens · Sun, 10 May 2026
+- BOO!, Athens · Fri, 14 Nov 2025
+- Bless Me Father, Athens · Thu, 9 Oct 2025
+- Piraeus Tower, Athens · Sat, 14 Jun 2025
+- Stoa Athens, Athens · Sun, 13 Apr 2025
+- BÒTOXE Club Athens, Athens · Sat, 15 Mar 2025
+- Hated Athens, Athens · Thu, 27 Feb 2025
+- Hated Athens, Athens · Thu, 6 Feb 2025
 
 ## Shares bills with
 

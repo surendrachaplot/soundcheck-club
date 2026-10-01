@@ -1,6 +1,6 @@
 # Liv East: Live & Signing at Eastern Bloc Records
 
-Liv East: Live & Signing at Eastern Bloc Records on Wed 7 Oct, Manchester. House. Preview the line-up and save it on soundcheck.
+Liv East: Live & Signing at Eastern Bloc Records on Wed 7 Oct, Manchester. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

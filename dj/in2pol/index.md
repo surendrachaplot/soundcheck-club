@@ -1,8 +1,8 @@
 # IN2POL
 
-IN2POL is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fairfield Amphitheatre, Melbourne on Sat, 14 Nov 2026.
+IN2POL is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fairfield Amphitheatre, Melbourne on Sat, 14 Nov 2026.
 
-IN2POL is a house and disco artist based in Australia, tracked on soundcheck, with 11 sets logged across Amsterdam, Hobart, Melbourne and Sydney and 1 more. Often billed alongside DJ Luv You, Love, Jess and Mikalah Watego. Next up: Fairfield Amphitheatre, Melbourne on Sat 14 Nov.
+IN2POL is a house and disco artist based in Australia, with 11 gigs on soundcheck across Amsterdam, Hobart, Melbourne and Sydney and 1 more. Often billed alongside DJ Luv You, Love, Jess and Mikalah Watego. Next up: Fairfield Amphitheatre, Melbourne on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ IN2POL is a house and disco artist based in Australia, tracked on soundcheck, wi
 
 ## Recently played
 
-- Colorado Charlie, The Hague — Sat, 15 Aug 2026
-- Thuishaven, Amsterdam — Sat, 25 Jul 2026
-- Shelter Amsterdam, Amsterdam — Fri, 3 Jul 2026
-- Collingwood Basement, Melbourne — Sat, 9 May 2026
-- Our Friend's Farm, Melbourne — Fri, 3 Apr 2026
-- Plaza Hotel Sydney, Sydney — Sat, 28 Feb 2026
-- The Grand Poobah, Hobart — Sat, 21 Feb 2026
-- TBA - 90 Minutes from Melbourne, Melbourne — Fri, 6 Feb 2026
+- Colorado Charlie, The Hague · Sat, 15 Aug 2026
+- Thuishaven, Amsterdam · Sat, 25 Jul 2026
+- Shelter Amsterdam, Amsterdam · Fri, 3 Jul 2026
+- Collingwood Basement, Melbourne · Sat, 9 May 2026
+- Our Friend's Farm, Melbourne · Fri, 3 Apr 2026
+- Plaza Hotel Sydney, Sydney · Sat, 28 Feb 2026
+- The Grand Poobah, Hobart · Sat, 21 Feb 2026
+- TBA - 90 Minutes from Melbourne, Melbourne · Fri, 6 Feb 2026
 
 ## Shares bills with
 

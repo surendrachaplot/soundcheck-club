@@ -1,6 +1,6 @@
-# pre:sense [Vinyl Only] at Paloma
+# pre:sense [vinyl only] at Paloma
 
-pre:sense [Vinyl Only] at Paloma on Thu 8 Oct, Berlin. 2 artists on the bill: Elvin and Erik Jabari. Dub Techno. Preview the line-up and save it on soundcheck.
+pre:sense [vinyl only] at Paloma on Thu 8 Oct, Berlin. 2 artists: Elvin and Erik Jabari. Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

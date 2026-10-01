@@ -1,6 +1,6 @@
 # Loud & Clear Festival at Lost Art Shop
 
-Loud & Clear Festival at Lost Art Shop on Sat 21 Nov, Liverpool. 1 artist on the bill: Jetski. Hardcore and Noise. Preview the line-up and save it on soundcheck.
+Loud & Clear Festival at Lost Art Shop on Sat 21 Nov, Liverpool. 1 artist: Jetski. Hardcore and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AUTUMM BOUNCE: NO GRAVITY x ETERNITY x WIEDER at Humboldthain Club
 
-AUTUMM BOUNCE: NO GRAVITY x ETERNITY x WIEDER at Humboldthain Club on Sat 10 Oct, Berlin. 6 artists on the bill: Callado, Emma Moon, mølly (on molly) and Obelisk030 and 2 more. Trance. Preview the line-up and save it on soundcheck.
+AUTUMM BOUNCE: NO GRAVITY x ETERNITY x WIEDER at Humboldthain Club on Sat 10 Oct, Berlin. 6 artists: Callado, Emma Moon, mølly (on molly) and Obelisk030 and 2 more. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

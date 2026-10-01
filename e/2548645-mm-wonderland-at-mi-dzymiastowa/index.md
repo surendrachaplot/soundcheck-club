@@ -1,6 +1,6 @@
 # MM: WONDERLAND at Międzymiastowa
 
-MM: WONDERLAND at Międzymiastowa on Sat 10 Oct, Krakow. House. Preview the line-up and save it on soundcheck.
+MM: WONDERLAND at Międzymiastowa on Sat 10 Oct, Krakow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

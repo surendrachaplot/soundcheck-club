@@ -1,8 +1,8 @@
 # Love Injection
 
-Love Injection is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at public records, New York City on Sat, 24 Oct 2026.
+Love Injection is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Sat, 24 Oct 2026.
 
-Love Injection is a house and disco artist based in United States of America, tracked on soundcheck, with 52 sets logged across Detroit, London, Miami and Montreal and 6 more. Often billed alongside Toribio, MUSCLECARS and Colleen 'Cosmo' Murphy. Next up: public records, New York City on Sat 24 Oct.
+Love Injection is a house and disco artist based in United States of America, with 52 gigs on soundcheck across Detroit, London, Miami and Montreal and 6 more. Often billed alongside Toribio, MUSCLECARS and Colleen 'Cosmo' Murphy. Next up: public records, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Love Injection is a house and disco artist based in United States of America, tr
 
 ## Recently played
 
-- The BBE Store, London — Fri, 28 Aug 2026
-- public records, New York City — Sun, 16 Aug 2026
-- Technique Records, Miami — Sat, 18 Jul 2026
-- public records, New York City — Sun, 7 Jun 2026
-- Spot Lite Detroit, Detroit — Mon, 25 May 2026
-- Head Hifi, New York City — Thu, 14 May 2026
-- Good Room, New York City — Fri, 1 May 2026
-- TBA - down by the water, Montreal — Fri, 24 Apr 2026
+- The BBE Store, London · Fri, 28 Aug 2026
+- public records, New York City · Sun, 16 Aug 2026
+- Technique Records, Miami · Sat, 18 Jul 2026
+- public records, New York City · Sun, 7 Jun 2026
+- Spot Lite Detroit, Detroit · Mon, 25 May 2026
+- Head Hifi, New York City · Thu, 14 May 2026
+- Good Room, New York City · Fri, 1 May 2026
+- TBA - down by the water, Montreal · Fri, 24 Apr 2026
 
 ## Shares bills with
 

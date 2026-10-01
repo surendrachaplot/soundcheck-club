@@ -1,6 +1,6 @@
 # Fonomo Music & Film Festival at Miejskie Centrum Kultury w Bydgoszczy
 
-Fonomo Music & Film Festival at Miejskie Centrum Kultury w Bydgoszczy on Thu 15 Oct, Poland. 5 artists on the bill: Ar Ker, daisy cutter, Lutto Lento and Moin and 1 more. Preview the line-up and save it on soundcheck.
+Fonomo Music & Film Festival at Miejskie Centrum Kultury w Bydgoszczy on Thu 15 Oct, Poland. 5 artists: Ar Ker, daisy cutter, Lutto Lento and Moin and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

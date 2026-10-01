@@ -1,8 +1,8 @@
 # Nic Fanciulli
 
-Nic Fanciulli is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Nic Fanciulli is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Nic Fanciulli is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Austin and Bali and 45 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Nic Fanciulli is a house and tech house artist based in United Kingdom, with 200 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 45 more. Often billed alongside Andrea Oliva, Raul Rodriguez and Chelina Manuhutu. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Nic Fanciulli is a house and tech house artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- Ushuaïa Ibiza, Ibiza — Sat, 26 Sept 2026
-- Seaseaclub Barcelona, Barcelona — Sun, 20 Sept 2026
-- Carroponte, Milan — Sat, 19 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 22 Aug 2026
-- Medusa Beach, Valencia — Thu, 13 Aug 2026
-- [UNVRS], Ibiza — Sat, 8 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Tue, 4 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 25 Jul 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 26 Sept 2026
+- Seaseaclub Barcelona, Barcelona · Sun, 20 Sept 2026
+- Carroponte, Milan · Sat, 19 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 22 Aug 2026
+- Medusa Beach, Valencia · Thu, 13 Aug 2026
+- [UNVRS], Ibiza · Sat, 8 Aug 2026
+- Ushuaïa Ibiza, Ibiza · Tue, 4 Aug 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 25 Jul 2026
 
 ## Shares bills with
 

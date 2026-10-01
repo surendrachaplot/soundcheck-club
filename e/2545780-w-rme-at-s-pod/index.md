@@ -1,6 +1,6 @@
 # WÄRME at S-Pod
 
-WÄRME at S-Pod on Sat 24 Oct, Kyoto. 1 artist on the bill: h1rune. House. Preview the line-up and save it on soundcheck.
+WÄRME at S-Pod on Sat 24 Oct, Kyoto. 1 artist: h1rune. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

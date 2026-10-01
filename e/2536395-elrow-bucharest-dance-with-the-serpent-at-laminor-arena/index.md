@@ -1,6 +1,6 @@
 # ELROW BUCHAREST - DANCE WITH THE SERPENT at Laminor Arena
 
-ELROW BUCHAREST - DANCE WITH THE SERPENT at Laminor Arena on Sat 21 Nov, Bucharest. Preview the line-up and save it on soundcheck.
+ELROW BUCHAREST - DANCE WITH THE SERPENT at Laminor Arena on Sat 21 Nov, Bucharest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Halloween Warehouse Dance with DJ Travella, DJ Nigga Fox, Plenty Ppl + more at Jumbi
 
-Halloween Warehouse Dance with DJ Travella, DJ Nigga Fox, Plenty Ppl + more at Jumbi on Sat 31 Oct, London. 3 artists on the bill: DJ Nigga Fox, DJ Travella and Yemz. Kuduro and Singeli. Preview the line-up and save it on soundcheck.
+Halloween Warehouse Dance with DJ Travella, DJ Nigga Fox, Plenty Ppl + more at Jumbi on Sat 31 Oct, London. 3 artists: DJ Nigga Fox, DJ Travella and Yemz. Kuduro and Singeli. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

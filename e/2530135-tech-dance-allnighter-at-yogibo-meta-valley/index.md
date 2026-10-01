@@ -1,6 +1,6 @@
 # TECH DANCE ALLNIGHTER at Yogibo Meta Valley
 
-TECH DANCE ALLNIGHTER at Yogibo Meta Valley on Fri 9 Oct, Osaka. Trance and Techno. Preview the line-up and save it on soundcheck.
+TECH DANCE ALLNIGHTER at Yogibo Meta Valley on Fri 9 Oct, Osaka. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rave in the Lecture Hall - Melodic & Techno Takeover at Oosterbar
 
-Rave in the Lecture Hall - Melodic & Techno Takeover at Oosterbar on Sat 24 Oct, Amsterdam. 16 artists on the bill: Albin Brezlan, BARIŞ BERBER, Dimitri Cooman and Doumu and 12 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Rave in the Lecture Hall - Melodic & Techno Takeover at Oosterbar on Sat 24 Oct, Amsterdam. 16 artists: Albin Brezlan, BARIŞ BERBER, Dimitri Cooman and Doumu and 12 more. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

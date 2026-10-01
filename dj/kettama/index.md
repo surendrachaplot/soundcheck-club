@@ -1,8 +1,8 @@
 # KETTAMA
 
-KETTAMA is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Knockdown Center, New York City on Wed, 7 Oct 2026.
+KETTAMA is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Wed, 7 Oct 2026.
 
-KETTAMA is a techno and house artist based in Ireland, tracked on soundcheck, with 253 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Partiboi69, Ben Hemsley and DJ Heartstring. Next up: Knockdown Center, New York City on Wed 7 Oct.
+KETTAMA is a techno and house artist based in Ireland, with 253 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 68 more. Often billed alongside Partiboi69, Ben Hemsley and DJ Heartstring. Next up: Knockdown Center, New York City on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ KETTAMA is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Pacha Ibiza, Ibiza — Sun, 20 Sept 2026
-- Amnesia Ibiza, Ibiza — Thu, 20 Aug 2026
-- Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
-- The Pinnacle, Nashville — Fri, 31 Jul 2026
-- Parc Jean-Drapeau, Montreal — Fri, 31 Jul 2026
-- Amnesia Ibiza, Ibiza — Mon, 27 Jul 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Pacha Ibiza, Ibiza · Sun, 20 Sept 2026
+- Amnesia Ibiza, Ibiza · Thu, 20 Aug 2026
+- Suvilahti Power Plant, Helsinki · Fri, 14 Aug 2026
+- The Pinnacle, Nashville · Fri, 31 Jul 2026
+- Parc Jean-Drapeau, Montreal · Fri, 31 Jul 2026
+- Amnesia Ibiza, Ibiza · Mon, 27 Jul 2026
 
 ## Shares bills with
 

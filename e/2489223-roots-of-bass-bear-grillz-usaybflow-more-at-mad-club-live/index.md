@@ -1,6 +1,6 @@
 # Roots of Bass - BEAR GRILLZ, USAYBFLOW + MORE at MAD Club Live
 
-Roots of Bass - BEAR GRILLZ, USAYBFLOW + MORE at MAD Club Live on Fri 9 Oct, Miami. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Roots of Bass - BEAR GRILLZ, USAYBFLOW + MORE at MAD Club Live on Fri 9 Oct, Miami. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

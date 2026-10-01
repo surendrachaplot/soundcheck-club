@@ -1,6 +1,6 @@
 # Thursdays House Night at Boisdale of Canary Wharf
 
-Thursdays House Night at Boisdale of Canary Wharf on Thu 1 Oct, London. House. Preview the line-up and save it on soundcheck.
+Thursdays House Night at Boisdale of Canary Wharf on Thu 1 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

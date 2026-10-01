@@ -1,6 +1,6 @@
 # Outer Space at Supermarket
 
-Outer Space at Supermarket on Fri 23 Oct, Zurich. Preview the line-up and save it on soundcheck.
+Outer Space at Supermarket on Fri 23 Oct, Zurich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

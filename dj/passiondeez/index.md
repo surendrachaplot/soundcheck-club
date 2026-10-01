@@ -1,8 +1,8 @@
 # Passion DEEZ
 
-Passion DEEZ is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Passion DEEZ is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-Passion DEEZ is a house and garage artist based in Zimbabwe, tracked on soundcheck, with 96 sets logged across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Deez, Cinnaman and Dengdeng. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+Passion DEEZ is a house and garage artist based in Zimbabwe, with 96 gigs on soundcheck across Amsterdam, Rotterdam, The Hague and Utrecht. Often billed alongside Deez, Cinnaman and Dengdeng. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Passion DEEZ is a house and garage artist based in Zimbabwe, tracked on soundche
 
 ## Recently played
 
-- nachbar, Amsterdam — Thu, 24 Sept 2026
-- Galla Studios, Amsterdam — Sat, 19 Sept 2026
-- Skatecafe, Amsterdam — Fri, 18 Sept 2026
-- nachbar, Amsterdam — Thu, 27 Aug 2026
-- Skatecafe, Amsterdam — Fri, 14 Aug 2026
-- San Francisco, Amsterdam — Sat, 25 Jul 2026
-- De Hallen, Amsterdam — Fri, 24 Jul 2026
-- Café Katoen, Amsterdam — Thu, 2 Jul 2026
+- nachbar, Amsterdam · Thu, 24 Sept 2026
+- Galla Studios, Amsterdam · Sat, 19 Sept 2026
+- Skatecafe, Amsterdam · Fri, 18 Sept 2026
+- nachbar, Amsterdam · Thu, 27 Aug 2026
+- Skatecafe, Amsterdam · Fri, 14 Aug 2026
+- San Francisco, Amsterdam · Sat, 25 Jul 2026
+- De Hallen, Amsterdam · Fri, 24 Jul 2026
+- Café Katoen, Amsterdam · Thu, 2 Jul 2026
 
 ## Shares bills with
 

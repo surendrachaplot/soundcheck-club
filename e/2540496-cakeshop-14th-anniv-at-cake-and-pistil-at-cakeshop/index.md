@@ -1,6 +1,6 @@
 # Cakeshop 14th anniv at Cake and Pistil at Cakeshop
 
-Cakeshop 14th anniv at Cake and Pistil on Sat 17 Oct, Seoul. Bass and Club. Preview the line-up and save it on soundcheck.
+Cakeshop 14th anniv at Cake and Pistil on Sat 17 Oct, Seoul. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

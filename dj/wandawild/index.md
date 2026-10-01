@@ -1,8 +1,8 @@
 # Wanda Wild
 
-Wanda Wild is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Wanda Wild is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Wanda Wild is a techno and tech house artist based in Germany, tracked on soundcheck, with 72 sets logged across Berlin, Hamburg, Leipzig and Munich and 2 more. Often billed alongside Moritz Butschek, Rad.Lez and Maurice Mino. Next up: Renate, Berlin on Fri 16 Oct.
+Wanda Wild is a techno and tech house artist based in Germany, with 72 gigs on soundcheck across Berlin, Hamburg, Leipzig and Munich and 2 more. Often billed alongside Moritz Butschek, Rad.Lez and Maurice Mino. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Wanda Wild is a techno and tech house artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Bahnwärter Thiel, Munich — Sat, 12 Sept 2026
-- Bahnwärter Thiel, Munich — Fri, 28 Aug 2026
-- Fridas Pier, Stuttgart — Sun, 9 Aug 2026
-- Bahnwärter Thiel, Munich — Sat, 4 Jul 2026
-- Kowalski, Stuttgart — Sun, 24 May 2026
-- Bahnwärter Thiel, Munich — Sat, 16 May 2026
-- Birgit, Berlin — Fri, 8 May 2026
-- Bahnwärter Thiel, Munich — Sat, 18 Apr 2026
+- Bahnwärter Thiel, Munich · Sat, 12 Sept 2026
+- Bahnwärter Thiel, Munich · Fri, 28 Aug 2026
+- Fridas Pier, Stuttgart · Sun, 9 Aug 2026
+- Bahnwärter Thiel, Munich · Sat, 4 Jul 2026
+- Kowalski, Stuttgart · Sun, 24 May 2026
+- Bahnwärter Thiel, Munich · Sat, 16 May 2026
+- Birgit, Berlin · Fri, 8 May 2026
+- Bahnwärter Thiel, Munich · Sat, 18 Apr 2026
 
 ## Shares bills with
 

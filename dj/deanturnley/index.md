@@ -1,8 +1,8 @@
 # Dean Turnley
 
-Dean Turnley is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Big Pink, Detroit on Fri, 9 Oct 2026.
+Dean Turnley is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Big Pink, Detroit on Fri, 9 Oct 2026.
 
-Dean Turnley is a house and tech house artist based in Australia, tracked on soundcheck, with 31 sets logged across Adelaide, Amsterdam, Auckland and Belfast and 25 more. Often billed alongside Hamdi, Jamback and MPH. Next up: Big Pink, Detroit on Fri 9 Oct.
+Dean Turnley is a house and tech house artist based in Australia, with 31 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Belfast and 25 more. Often billed alongside Hamdi, Jamback and MPH. Next up: Big Pink, Detroit on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Dean Turnley is a house and tech house artist based in Australia, tracked on sou
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Village Studios, Vancouver — Fri, 25 Sept 2026
-- Substation, Seattle — Wed, 23 Sept 2026
-- Spybar, Chicago — Fri, 18 Sept 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 13 Sept 2026
-- California Plaza, Los Angeles — Sat, 12 Sept 2026
-- Thuishaven, Amsterdam — Sun, 30 Aug 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Village Studios, Vancouver · Fri, 25 Sept 2026
+- Substation, Seattle · Wed, 23 Sept 2026
+- Spybar, Chicago · Fri, 18 Sept 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 13 Sept 2026
+- California Plaza, Los Angeles · Sat, 12 Sept 2026
+- Thuishaven, Amsterdam · Sun, 30 Aug 2026
 
 ## Shares bills with
 

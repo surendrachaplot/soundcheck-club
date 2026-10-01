@@ -1,6 +1,6 @@
 # Frekuence — Vinicius Honorio / Kristian Bani at Frekuence
 
-Frekuence — Vinicius Honorio / Kristian Bani on Fri 9 Oct, Tirana. 2 artists on the bill: KRIΣTIΛN and Vinicius Honorio. Preview the line-up and save it on soundcheck.
+Frekuence — Vinicius Honorio / Kristian Bani on Fri 9 Oct, Tirana. 2 artists: KRIΣTIΛN and Vinicius Honorio. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

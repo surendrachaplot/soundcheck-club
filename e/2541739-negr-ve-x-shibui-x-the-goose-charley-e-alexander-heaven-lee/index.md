@@ -1,6 +1,6 @@
 # Negrūve x SHIBUI x The Goose;  Charley, E. Alexander, Heaven Lee at TBA
 
-Negrūve x SHIBUI x The Goose;  Charley, E. Alexander, Heaven Lee at TBA on Sat 7 Nov, London. 4 artists on the bill: Charley, E. Alexander, Harold. and HEAVEN-LEE. House and Minimal. Preview the line-up and save it on soundcheck.
+Negrūve x SHIBUI x The Goose;  Charley, E. Alexander, Heaven Lee at TBA on Sat 7 Nov, London. 4 artists: Charley, E. Alexander, Harold. and HEAVEN-LEE. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Thursday - hits reggaeton - room / Guest list at Otto Zutz
 
-Thursday - hits reggaeton - room / Guest list at Otto Zutz on Thu 1 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Thursday - hits reggaeton - room / Guest list at Otto Zutz on Thu 1 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

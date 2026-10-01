@@ -1,8 +1,8 @@
 # Beau Wanzer
 
-Beau Wanzer is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Podlasie Club, Chicago on Wed, 21 Oct 2026.
+Beau Wanzer is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Podlasie Club, Chicago on Wed, 21 Oct 2026.
 
-Beau Wanzer is an experimental and techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 28 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: Podlasie Club, Chicago on Wed 21 Oct.
+Beau Wanzer is an experimental and techno artist based in United States of America, with 108 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 28 more. Often billed alongside Amber Gris, Dretraxx and L.F.T.. Next up: Podlasie Club, Chicago on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Beau Wanzer is an experimental and techno artist based in United States of Ameri
 
 ## Recently played
 
-- Podlasie Club, Chicago — Wed, 16 Sept 2026
-- The California Clipper, Chicago — Tue, 1 Sept 2026
-- Davis Theater, Chicago — Thu, 27 Aug 2026
-- Podlasie Club, Chicago — Wed, 19 Aug 2026
-- The California Clipper, Chicago — Tue, 4 Aug 2026
-- TBA, Detroit — Fri, 24 Jul 2026
-- The California Clipper, Chicago — Tue, 21 Jul 2026
-- TBA - Premises, Chicago — Sat, 11 Jul 2026
+- Podlasie Club, Chicago · Wed, 16 Sept 2026
+- The California Clipper, Chicago · Tue, 1 Sept 2026
+- Davis Theater, Chicago · Thu, 27 Aug 2026
+- Podlasie Club, Chicago · Wed, 19 Aug 2026
+- The California Clipper, Chicago · Tue, 4 Aug 2026
+- TBA, Detroit · Fri, 24 Jul 2026
+- The California Clipper, Chicago · Tue, 21 Jul 2026
+- TBA - Premises, Chicago · Sat, 11 Jul 2026
 
 ## Shares bills with
 

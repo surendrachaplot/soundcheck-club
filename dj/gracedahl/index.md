@@ -1,8 +1,8 @@
 # Grace Dahl
 
-Grace Dahl is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cosmos Club Sevilla, South on Fri, 2 Oct 2026.
+Grace Dahl is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cosmos Club Sevilla, South on Fri, 2 Oct 2026.
 
-Grace Dahl is a techno and house artist based in Netherlands, tracked on soundcheck, with 240 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Lobster (NL), Blasha & Allatt and Yanamaste. Next up: Cosmos Club Sevilla, South on Fri 2 Oct.
+Grace Dahl is a techno and house artist based in Netherlands, with 240 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 57 more. Often billed alongside Lobster (NL), Blasha & Allatt and Yanamaste. Next up: Cosmos Club Sevilla, South on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ Grace Dahl is a techno and house artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
-- Domicile, Miami — Sat, 26 Sept 2026
-- Motorista Studio, Toronto — Sat, 12 Sept 2026
-- smartbar, Chicago — Fri, 11 Sept 2026
-- TBA - Los Angeles, Los Angeles — Sun, 6 Sept 2026
-- TBA - Los Angeles, Los Angeles — Sun, 6 Sept 2026
-- Signal, New York City — Sat, 5 Sept 2026
-- TBA, Philadelphia — Fri, 4 Sept 2026
-- TRANSMISSION DC, Washington DC — Thu, 3 Sept 2026
+- Domicile, Miami · Sat, 26 Sept 2026
+- Motorista Studio, Toronto · Sat, 12 Sept 2026
+- smartbar, Chicago · Fri, 11 Sept 2026
+- TBA - Los Angeles, Los Angeles · Sun, 6 Sept 2026
+- TBA - Los Angeles, Los Angeles · Sun, 6 Sept 2026
+- Signal, New York City · Sat, 5 Sept 2026
+- TBA, Philadelphia · Fri, 4 Sept 2026
+- TRANSMISSION DC, Washington DC · Thu, 3 Sept 2026
 
 ## Shares bills with
 

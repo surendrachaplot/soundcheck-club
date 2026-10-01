@@ -1,6 +1,6 @@
 # MC PAT FLYNN (IRE) at TBA - Eclipse Brisbane
 
-MC PAT FLYNN (IRE) at TBA - Eclipse Brisbane on Sun 8 Nov, Melbourne. Hip-Hop. Preview the line-up and save it on soundcheck.
+MC PAT FLYNN (IRE) at TBA - Eclipse Brisbane on Sun 8 Nov, Melbourne. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

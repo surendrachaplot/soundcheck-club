@@ -1,8 +1,8 @@
 # Faze Action
 
-Faze Action is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Fox and Firkin, London on Fri, 9 Oct 2026.
+Faze Action is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Fox and Firkin, London on Fri, 9 Oct 2026.
 
-Faze Action is a house and acid artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London, Los Angeles, Osaka and Seoul. Often billed alongside Desert Hearts, Dirtybird and M A W. Next up: The Fox and Firkin, London on Fri 9 Oct.
+Faze Action is a house and acid artist based in United Kingdom, with 17 gigs on soundcheck across London, Los Angeles, Osaka and Seoul. Often billed alongside Desert Hearts, Dirtybird and M A W. Next up: The Fox and Firkin, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Faze Action is a house and acid artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Teranoma Tidepool, Osaka — Fri, 19 Jun 2026
-- Blackhorse Lane Multiple Venues, London — Sat, 13 Jun 2026
-- The BBE Store, London — Wed, 20 May 2026
-- Filly Brook, London — Thu, 30 Apr 2026
-- TBA - Secret Location (W1), London — Sat, 14 Mar 2026
-- Filly Brook, London — Wed, 31 Dec 2025
-- Walthamstow Trades Hall, London — Fri, 29 Aug 2025
-- Filly Brook, London — Tue, 31 Dec 2024
+- Teranoma Tidepool, Osaka · Fri, 19 Jun 2026
+- Blackhorse Lane Multiple Venues, London · Sat, 13 Jun 2026
+- The BBE Store, London · Wed, 20 May 2026
+- Filly Brook, London · Thu, 30 Apr 2026
+- TBA - Secret Location (W1), London · Sat, 14 Mar 2026
+- Filly Brook, London · Wed, 31 Dec 2025
+- Walthamstow Trades Hall, London · Fri, 29 Aug 2025
+- Filly Brook, London · Tue, 31 Dec 2024
 
 ## Shares bills with
 

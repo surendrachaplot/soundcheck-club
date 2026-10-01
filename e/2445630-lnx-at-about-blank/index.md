@@ -1,6 +1,6 @@
 # LnX at ://about blank
 
-LnX at ://about blank on Sun 15 Nov, Berlin. Downtempo. Preview the line-up and save it on soundcheck.
+LnX at ://about blank on Sun 15 Nov, Berlin. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Crazy Cousinz
 
-Crazy Cousinz is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Setlist @ Somerset House, London on Fri, 30 Oct 2026.
+Crazy Cousinz is a UK Funky and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Setlist @ Somerset House, London on Fri, 30 Oct 2026.
 
-Crazy Cousinz is an uk funky and garage artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Donae'o, Pioneer and Jerome Six. Next up: Setlist @ Somerset House, London on Fri 30 Oct.
+Crazy Cousinz is an uk funky and garage artist based in United Kingdom, with 41 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester. Often billed alongside Donae'o, Pioneer and Jerome Six. Next up: Setlist @ Somerset House, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Crazy Cousinz is an uk funky and garage artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- The Refuge, Manchester — Sat, 26 Sept 2026
-- Brixton Jamm, London — Fri, 4 Sept 2026
-- Two Tribes CAMPFIRE, London — Sun, 30 Aug 2026
-- Ministry Of Sound, London — Fri, 28 Aug 2026
-- Setlist @ Somerset House, London — Fri, 31 Jul 2026
-- Ministry Of Sound, London — Fri, 26 Jun 2026
-- Eden, Ibiza — Sun, 10 May 2026
-- The Blues Kitchen Brixton, London — Sun, 5 Apr 2026
+- The Refuge, Manchester · Sat, 26 Sept 2026
+- Brixton Jamm, London · Fri, 4 Sept 2026
+- Two Tribes CAMPFIRE, London · Sun, 30 Aug 2026
+- Ministry Of Sound, London · Fri, 28 Aug 2026
+- Setlist @ Somerset House, London · Fri, 31 Jul 2026
+- Ministry Of Sound, London · Fri, 26 Jun 2026
+- Eden, Ibiza · Sun, 10 May 2026
+- The Blues Kitchen Brixton, London · Sun, 5 Apr 2026
 
 ## Shares bills with
 

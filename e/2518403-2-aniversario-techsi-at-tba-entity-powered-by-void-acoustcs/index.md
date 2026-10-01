@@ -1,6 +1,6 @@
 # 2º ANIVERSARIO TECHSI at TBA - ENTITY powered by VOID ACOUSTCS
 
-2º ANIVERSARIO TECHSI at TBA - ENTITY powered by VOID ACOUSTCS on Fri 23 Oct, Madrid. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+2º ANIVERSARIO TECHSI at TBA - ENTITY powered by VOID ACOUSTCS on Fri 23 Oct, Madrid. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

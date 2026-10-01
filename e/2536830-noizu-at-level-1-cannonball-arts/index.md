@@ -1,6 +1,6 @@
 # Noizu at Level 1 @ Cannonball Arts
 
-Noizu at Level 1 @ Cannonball Arts on Sat 21 Nov, Seattle. Tech House. Preview the line-up and save it on soundcheck.
+Noizu at Level 1 @ Cannonball Arts on Sat 21 Nov, Seattle. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

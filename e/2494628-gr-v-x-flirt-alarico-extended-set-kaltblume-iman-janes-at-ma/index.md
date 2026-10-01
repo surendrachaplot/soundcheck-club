@@ -1,6 +1,6 @@
 # GRÜV x FLIRT • Alarico (Extended Set), KALTBLUME, Iman Janes at Magasins Généraux
 
-GRÜV x FLIRT • Alarico (Extended Set), KALTBLUME, Iman Janes at Magasins Généraux on Sat 14 Nov, Paris. 3 artists on the bill: Alarico, Iman Janes and KALTBLUME. Techno. Preview the line-up and save it on soundcheck.
+GRÜV x FLIRT • Alarico (Extended Set), KALTBLUME, Iman Janes at Magasins Généraux on Sat 14 Nov, Paris. 3 artists: Alarico, Iman Janes and KALTBLUME. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

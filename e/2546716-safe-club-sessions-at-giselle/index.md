@@ -1,6 +1,6 @@
 # SAFE CLUB SESSIONS at Giselle
 
-SAFE CLUB SESSIONS at Giselle on Fri 2 Oct, Düsseldorf. 2 artists on the bill: Herbert Boese and Tourneur. House and Electronica. Preview the line-up and save it on soundcheck.
+SAFE CLUB SESSIONS at Giselle on Fri 2 Oct, Düsseldorf. 2 artists: Herbert Boese and Tourneur. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

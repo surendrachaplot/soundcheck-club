@@ -1,6 +1,6 @@
 # AFROPULZ TAKEOVER x MSF CREW at OIL Club
 
-AFROPULZ TAKEOVER x MSF CREW at OIL Club on Mon 5 Oct, Shenzhen. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+AFROPULZ TAKEOVER x MSF CREW at OIL Club on Mon 5 Oct, Shenzhen. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

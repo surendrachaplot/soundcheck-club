@@ -1,6 +1,6 @@
 # Vexed x Dub Damage at The Hifi Club
 
-Vexed x Dub Damage at The Hifi Club on Sat 14 Nov, Leeds. Drum & Bass. Preview the line-up and save it on soundcheck.
+Vexed x Dub Damage at The Hifi Club on Sat 14 Nov, Leeds. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

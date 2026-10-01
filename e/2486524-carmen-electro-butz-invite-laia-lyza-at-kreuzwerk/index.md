@@ -1,6 +1,6 @@
 # Carmen Electro & BUTZ invite Laia, LYZA at KREUZWERK
 
-Carmen Electro & BUTZ invite Laia, LYZA at KREUZWERK on Fri 9 Oct, Berlin. 4 artists on the bill: BUTZ, Carmen Electro, Laia and LYZA. Techno. Preview the line-up and save it on soundcheck.
+Carmen Electro & BUTZ invite Laia, LYZA at KREUZWERK on Fri 9 Oct, Berlin. 4 artists: BUTZ, Carmen Electro, Laia and LYZA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

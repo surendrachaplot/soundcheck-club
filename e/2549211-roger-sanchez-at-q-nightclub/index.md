@@ -1,6 +1,6 @@
 # Roger Sanchez at Q Nightclub
 
-Roger Sanchez at Q Nightclub on Sat 28 Nov, Seattle. 1 artist on the bill: Roger Sanchez. Preview the line-up and save it on soundcheck.
+Roger Sanchez at Q Nightclub on Sat 28 Nov, Seattle. 1 artist: Roger Sanchez. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

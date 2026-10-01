@@ -1,6 +1,6 @@
 # Anime Rave: Halloween Edition at Elektricity
 
-Anime Rave: Halloween Edition at Elektricity on Fri 23 Oct, Detroit. Dubstep. Preview the line-up and save it on soundcheck.
+Anime Rave: Halloween Edition at Elektricity on Fri 23 Oct, Detroit. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

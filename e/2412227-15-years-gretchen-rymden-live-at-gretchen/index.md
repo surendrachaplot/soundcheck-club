@@ -1,6 +1,6 @@
 # 15 Years Gretchen:  RYMDEN *live at Gretchen
 
-15 Years Gretchen:  RYMDEN *live on Mon 5 Oct, Berlin. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+15 Years Gretchen:  RYMDEN *live on Mon 5 Oct, Berlin. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

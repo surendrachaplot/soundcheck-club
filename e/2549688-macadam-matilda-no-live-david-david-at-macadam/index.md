@@ -1,6 +1,6 @@
 # Macadam • Matilda ~ Noï (live) ~ David David at Macadam
 
-Macadam • Matilda ~ Noï (live) ~ David David on Sat 26 Dec, Nantes. 1 artist on the bill: matilda. Trance and Techno. Preview the line-up and save it on soundcheck.
+Macadam • Matilda ~ Noï (live) ~ David David on Sat 26 Dec, Nantes. 1 artist: matilda. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

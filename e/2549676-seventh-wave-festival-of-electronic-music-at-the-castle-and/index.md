@@ -1,6 +1,6 @@
 # Seventh Wave Festival of Electronic Music at The Castle and Falcon, Moseley, Birmingham, B12 9AT
 
-Seventh Wave Festival of Electronic Music at The Castle and Falcon, Moseley, Birmingham, B12 9AT on Fri 2 Oct, Birmingham. Experimental and Industrial. Preview the line-up and save it on soundcheck.
+Seventh Wave Festival of Electronic Music at The Castle and Falcon, Moseley, Birmingham, B12 9AT on Fri 2 Oct, Birmingham. Experimental and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

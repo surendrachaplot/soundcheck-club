@@ -1,6 +1,6 @@
 # Joseph Capriati at Savaya Bali
 
-Joseph Capriati at Savaya Bali on Sun 29 Nov, Bali. 1 artist on the bill: Joseph Capriati. Techno and House. Preview the line-up and save it on soundcheck.
+Joseph Capriati at Savaya Bali on Sun 29 Nov, Bali. 1 artist: Joseph Capriati. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

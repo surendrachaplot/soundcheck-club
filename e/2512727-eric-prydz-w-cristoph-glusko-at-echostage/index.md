@@ -1,6 +1,6 @@
 # Eric Prydz w/ Cristoph, Glusko at Echostage
 
-Eric Prydz w/ Cristoph, Glusko at Echostage on Fri 20 Nov, Washington DC. 3 artists on the bill: Cristoph, Eric Prydz and Glusko. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Eric Prydz w/ Cristoph, Glusko at Echostage on Fri 20 Nov, Washington DC. 3 artists: Cristoph, Eric Prydz and Glusko. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

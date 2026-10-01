@@ -1,8 +1,8 @@
 # Fridas Pier
 
-Fridas Pier is a music venue in Stuttgart with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "LAKEWAVE pres. Teenage Mutants" on Fri, 9 Oct 2026.
+Fridas Pier is a music venue in Stuttgart with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "LAKEWAVE pres. Teenage Mutants" on Fri, 9 Oct 2026.
 
-Fridas Pier is a music venue in Stuttgart listed on soundcheck. 18 upcoming gigs, with line-ups including Anna Reusch, BabaBass3000, Bjørnson and DjRundfunk and 2 more. Browse upcoming dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
+Fridas Pier is a music venue in Stuttgart listed on soundcheck. 18 upcoming gigs, with line-ups including Anna Reusch, BabaBass3000, Bjørnson and DjRundfunk and 2 more. See dates, start times and who's playing. Uferstraße 107, 70188 Stuttgart, Germany.
 
 ## What's on
 

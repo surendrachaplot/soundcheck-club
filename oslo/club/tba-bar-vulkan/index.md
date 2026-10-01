@@ -1,8 +1,8 @@
 # TBA - BAR Vulkan
 
-TBA - BAR Vulkan is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Nabolaget Vol. 1 - Ludde, Løvdal & Plogen" on Fri, 2 Oct 2026.
+TBA - BAR Vulkan is a music venue in Oslo with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Nabolaget Vol. 1 - Ludde, Løvdal & Plogen" on Fri, 2 Oct 2026.
 
-TBA - BAR Vulkan is a music venue in Oslo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+TBA - BAR Vulkan is a music venue in Oslo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

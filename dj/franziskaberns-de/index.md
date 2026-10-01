@@ -1,8 +1,8 @@
 # Franziska Berns
 
-Franziska Berns is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Robert Johnson, Hesse on Fri, 16 Oct 2026.
+Franziska Berns is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Robert Johnson, Hesse on Fri, 16 Oct 2026.
 
-Franziska Berns is a house and techno artist based in Germany, tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside dj sweet6teen and nd_baumecker. Next up: Robert Johnson, Hesse on Fri 16 Oct.
+Franziska Berns is a house and techno artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 25 more. Often billed alongside dj sweet6teen and nd_baumecker. Next up: Robert Johnson, Hesse on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Franziska Berns is a house and techno artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- 528 Ibiza, Ibiza — Wed, 23 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 22 Aug 2026
-- BRET, Amsterdam — Sat, 1 Aug 2026
-- Bassiani, Tbilisi — Fri, 10 Jul 2026
-- Club der Visionaere, Berlin — Thu, 9 Jul 2026
-- Golden Pudel Club, Hamburg — Sat, 13 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 23 May 2026
-- ASIAT Park, Brussels — Thu, 14 May 2026
+- 528 Ibiza, Ibiza · Wed, 23 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
+- BRET, Amsterdam · Sat, 1 Aug 2026
+- Bassiani, Tbilisi · Fri, 10 Jul 2026
+- Club der Visionaere, Berlin · Thu, 9 Jul 2026
+- Golden Pudel Club, Hamburg · Sat, 13 Jun 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 23 May 2026
+- ASIAT Park, Brussels · Thu, 14 May 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Centrale Markthal
 
-Centrale Markthal is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Elias Mazian (live) x EINDER" on Thu, 22 Oct 2026.
+Centrale Markthal is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Elias Mazian (live) x EINDER" on Thu, 22 Oct 2026.
 
-Centrale Markthal is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Elias Mazian. Browse upcoming dates, start times and who's playing.
+Centrale Markthal is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Elias Mazian. See dates, start times and who's playing.
 
 ## What's on
 

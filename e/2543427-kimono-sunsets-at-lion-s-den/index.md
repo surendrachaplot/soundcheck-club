@@ -1,6 +1,6 @@
 # Kimono Sunsets at Lion's Den
 
-Kimono Sunsets at Lion's Den on Sun 25 Oct, Miami. Preview the line-up and save it on soundcheck.
+Kimono Sunsets at Lion's Den on Sun 25 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

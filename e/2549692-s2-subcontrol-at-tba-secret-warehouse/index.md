@@ -1,6 +1,6 @@
 # S2: SUBCONTROL at TBA - SECRET WAREHOUSE
 
-S2: SUBCONTROL at TBA - SECRET WAREHOUSE on Sat 17 Oct, Hong Kong. 6 artists on the bill: 1908, GONG!, Joesnotdead and M8-MDM8 and 2 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
+S2: SUBCONTROL at TBA - SECRET WAREHOUSE on Sat 17 Oct, Hong Kong. 6 artists: 1908, GONG!, Joesnotdead and M8-MDM8 and 2 more. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

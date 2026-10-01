@@ -1,8 +1,8 @@
 # Egg London
 
-Egg London is a music venue in London with 38 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Freshers UV Glow Rave" on Thu, 1 Oct 2026.
+Egg London is a music venue in London with 38 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Freshers UV Glow Rave" on Thu, 1 Oct 2026.
 
-Egg London is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including ACA (YU), B3, Beezo and Danny Oliver and 2 more. Browse upcoming dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
+Egg London is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including ACA (YU), B3, Beezo and Danny Oliver and 2 more. See dates, start times and who's playing. 5-13 Vale Royal, London, N7 9AP.
 
 ## What's on
 

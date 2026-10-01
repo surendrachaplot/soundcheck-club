@@ -1,6 +1,6 @@
 # KEEP ON - Frank & Tony (OPEN TO CLOSE) at Middlesex
 
-KEEP ON - Frank & Tony (OPEN TO CLOSE) at Middlesex on Thu 8 Oct, Boston. 1 artist on the bill: Frank & Tony. House and Deep House. Preview the line-up and save it on soundcheck.
+KEEP ON - Frank & Tony (OPEN TO CLOSE) at Middlesex on Thu 8 Oct, Boston. 1 artist: Frank & Tony. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

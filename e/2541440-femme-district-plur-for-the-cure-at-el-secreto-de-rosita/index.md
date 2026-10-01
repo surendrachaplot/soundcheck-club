@@ -1,6 +1,6 @@
 # Femme District PLUR for the Cure at El Secreto De Rosita
 
-Femme District PLUR for the Cure at El Secreto De Rosita on Thu 8 Oct, Washington DC. 4 artists on the bill: ANNYA, Electro-cute, SHAMMA and VYNX. Progressive House and House. Preview the line-up and save it on soundcheck.
+Femme District PLUR for the Cure at El Secreto De Rosita on Thu 8 Oct, Washington DC. 4 artists: ANNYA, Electro-cute, SHAMMA and VYNX. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

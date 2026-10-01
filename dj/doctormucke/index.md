@@ -1,8 +1,8 @@
 # DOCTOR MÜCKE
 
-DOCTOR MÜCKE is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
+DOCTOR MÜCKE is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 3 Oct 2026.
 
-DOCTOR MÜCKE is a techno and trance artist based in Italy, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Bologna and Cologne and 11 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: Lokschuppen Berlin, Berlin on Sat 3 Oct.
+DOCTOR MÜCKE is a techno and trance artist based in Italy, with 46 gigs on soundcheck across Barcelona, Berlin, Bologna and Cologne and 11 more. Often billed alongside RESA UTOPICA, EGE363 and Amo (IT). Next up: Lokschuppen Berlin, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ DOCTOR MÜCKE is a techno and trance artist based in Italy, tracked on soundchec
 
 ## Recently played
 
-- Odonien, Cologne — Wed, 16 Sept 2026
-- Void Club, Berlin — Sat, 12 Sept 2026
-- Humboldthain Club, Berlin — Sat, 15 Aug 2026
-- Liquid Club, Malta — Tue, 11 Aug 2026
-- Lokschuppen Berlin, Berlin — Sun, 2 Aug 2026
-- Stadtpark Norderstedt, Hamburg — Sat, 25 Jul 2026
-- Lokschuppen Berlin, Berlin — Sat, 4 Jul 2026
-- Chinastraat, Ghent — Sat, 20 Jun 2026
+- Odonien, Cologne · Wed, 16 Sept 2026
+- Void Club, Berlin · Sat, 12 Sept 2026
+- Humboldthain Club, Berlin · Sat, 15 Aug 2026
+- Liquid Club, Malta · Tue, 11 Aug 2026
+- Lokschuppen Berlin, Berlin · Sun, 2 Aug 2026
+- Stadtpark Norderstedt, Hamburg · Sat, 25 Jul 2026
+- Lokschuppen Berlin, Berlin · Sat, 4 Jul 2026
+- Chinastraat, Ghent · Sat, 20 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Serum: Enrico Sanguliano at Prysm Nightclub
 
-Serum: Enrico Sanguliano at Prysm Nightclub on Sat 21 Nov, Chicago. 1 artist on the bill: Enrico Sangiuliano. Techno. Preview the line-up and save it on soundcheck.
+Serum: Enrico Sanguliano at Prysm Nightclub on Sat 21 Nov, Chicago. 1 artist: Enrico Sangiuliano. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WEEKDAY ORDERS at BAR Inc
 
-WEEKDAY ORDERS at BAR Inc on Thu 29 Oct, Osaka. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+WEEKDAY ORDERS at BAR Inc on Thu 29 Oct, Osaka. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

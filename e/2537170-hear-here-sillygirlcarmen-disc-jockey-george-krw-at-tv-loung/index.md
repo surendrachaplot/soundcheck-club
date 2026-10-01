@@ -1,6 +1,6 @@
 # Hear Here • sillygirlcarmen, Disc Jockey George, & KRW at TV Lounge
 
-Hear Here • sillygirlcarmen, Disc Jockey George, & KRW at TV Lounge on Sat 17 Oct, Detroit. 3 artists on the bill: Disc Jockey George, KRW and sillygirlcarmen. House and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Hear Here • sillygirlcarmen, Disc Jockey George, & KRW at TV Lounge on Sat 17 Oct, Detroit. 3 artists: Disc Jockey George, KRW and sillygirlcarmen. House and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

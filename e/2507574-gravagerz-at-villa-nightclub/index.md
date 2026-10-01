@@ -1,6 +1,6 @@
 # Gravagerz at Villa Nightclub
 
-Gravagerz at Villa Nightclub on Fri 20 Nov, Perth. 1 artist on the bill: Gravagerz. Preview the line-up and save it on soundcheck.
+Gravagerz at Villa Nightclub on Fri 20 Nov, Perth. 1 artist: Gravagerz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Feral Tendencies presents: MystyMoon at Underground SF
 
-Feral Tendencies presents: MystyMoon at Underground SF on Sat 17 Oct, San Francisco/Oakland. 2 artists on the bill: DJBstone and MystyMoon. Techno. Preview the line-up and save it on soundcheck.
+Feral Tendencies presents: MystyMoon at Underground SF on Sat 17 Oct, San Francisco/Oakland. 2 artists: DJBstone and MystyMoon. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

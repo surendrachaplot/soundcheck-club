@@ -1,6 +1,6 @@
 # Pata Negra invite Basso Combo at Le Makeda
 
-Pata Negra invite Basso Combo at Le Makeda on Fri 2 Oct, Marseille. Bass and Jungle. Preview the line-up and save it on soundcheck.
+Pata Negra invite Basso Combo at Le Makeda on Fri 2 Oct, Marseille. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

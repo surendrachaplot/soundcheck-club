@@ -1,6 +1,6 @@
 # Csinnadratta - Patrióták // TOLDI at Toldi Klub
 
-Csinnadratta - Patrióták // TOLDI at Toldi Klub on Fri 23 Oct, Budapest. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Csinnadratta - Patrióták // TOLDI at Toldi Klub on Fri 23 Oct, Budapest. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

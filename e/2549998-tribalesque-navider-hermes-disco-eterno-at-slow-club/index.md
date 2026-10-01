@@ -1,6 +1,6 @@
 # Tribalesque: Navider + Hermes Disco Eterno at Slow Club
 
-Tribalesque: Navider + Hermes Disco Eterno at Slow Club on Fri 2 Oct, Barcelona. 2 artists on the bill: Hermes Disco Eterno and Navider. House and Afro House. Preview the line-up and save it on soundcheck.
+Tribalesque: Navider + Hermes Disco Eterno at Slow Club on Fri 2 Oct, Barcelona. 2 artists: Hermes Disco Eterno and Navider. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ITC Records presents AWAKEN V, Elliot Moriarty, Arterapsy, Harry Wilson at Jungla London
 
-ITC Records presents AWAKEN V, Elliot Moriarty, Arterapsy, Harry Wilson at Jungla London on Fri 2 Oct, London. 4 artists on the bill: Arterapsy, Christian J, Elliot Moriarty and Harry Wilson. Progressive House. Preview the line-up and save it on soundcheck.
+ITC Records presents AWAKEN V, Elliot Moriarty, Arterapsy, Harry Wilson at Jungla London on Fri 2 Oct, London. 4 artists: Arterapsy, Christian J, Elliot Moriarty and Harry Wilson. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

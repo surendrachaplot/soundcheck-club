@@ -1,6 +1,6 @@
 # Klub Kaos - Dark 80's, Goth, Industrial, Darkwave, Alternative, at Arcadia
 
-Klub Kaos - Dark 80's, Goth, Industrial, Darkwave, Alternative, at Arcadia on Sat 3 Oct, Bangkok. Industrial and New Wave. Preview the line-up and save it on soundcheck.
+Klub Kaos - Dark 80's, Goth, Industrial, Darkwave, Alternative, at Arcadia on Sat 3 Oct, Bangkok. Industrial and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # divadlo CUCUMIS SENSUS & AFTER & SIMS WELCOME PARTY at Cross Club
 
-divadlo CUCUMIS SENSUS & AFTER & SIMS WELCOME PARTY at Cross Club on Tue 6 Oct, Prague. Preview the line-up and save it on soundcheck.
+divadlo CUCUMIS SENSUS & AFTER & SIMS WELCOME PARTY at Cross Club on Tue 6 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ Seoul
 
-DJ Seoul is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TV Lounge, Detroit on Fri, 23 Oct 2026.
+DJ Seoul is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TV Lounge, Detroit on Fri, 23 Oct 2026.
 
-DJ Seoul is a techno and house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Detroit, Melbourne, Montreal and Philadelphia and 1 more. Often billed alongside T.Linder, DJ I.V. and DJ Krazy. Next up: TV Lounge, Detroit on Fri 23 Oct.
+DJ Seoul is a techno and house artist based in United States of America, with 45 gigs on soundcheck across Detroit, Melbourne, Montreal and Philadelphia and 1 more. Often billed alongside T.Linder, DJ I.V. and DJ Krazy. Next up: TV Lounge, Detroit on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Seoul is a techno and house artist based in United States of America, tracked
 
 ## Recently played
 
-- Newspeak, Montreal — Sat, 5 Sept 2026
-- broad hall., Philadelphia — Sat, 29 Aug 2026
-- Tangent Gallery, Detroit — Sun, 16 Aug 2026
-- Lincoln Factory, Detroit — Fri, 14 Aug 2026
-- TV Lounge, Detroit — Thu, 13 Aug 2026
-- Tangent Gallery, Detroit — Thu, 13 Aug 2026
-- TV Lounge, Detroit — Thu, 18 Jun 2026
-- Magic Stick, Detroit — Sun, 7 Jun 2026
+- Newspeak, Montreal · Sat, 5 Sept 2026
+- broad hall., Philadelphia · Sat, 29 Aug 2026
+- Tangent Gallery, Detroit · Sun, 16 Aug 2026
+- Lincoln Factory, Detroit · Fri, 14 Aug 2026
+- TV Lounge, Detroit · Thu, 13 Aug 2026
+- Tangent Gallery, Detroit · Thu, 13 Aug 2026
+- TV Lounge, Detroit · Thu, 18 Jun 2026
+- Magic Stick, Detroit · Sun, 7 Jun 2026
 
 ## Shares bills with
 

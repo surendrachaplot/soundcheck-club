@@ -1,8 +1,8 @@
 # Martin Messier
 
-Martin Messier is a Techno and Electronica artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Location, Berlin on Fri, 9 Oct 2026.
+Martin Messier is a Techno and Electronica artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 9 Oct 2026.
 
-Martin Messier is a techno and electronica artist tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Buenos Aires and Geneva and 5 more. Often billed alongside Andreas Lutz, Kon (FR) and media.tribe. Next up: TBA - Secret Location, Berlin on Fri 9 Oct.
+Martin Messier is a techno and electronica artist, with 24 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Geneva and 5 more. Often billed alongside Andreas Lutz, Kon (FR) and media.tribe. Next up: TBA - Secret Location, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Martin Messier is a techno and electronica artist tracked on soundcheck, with 24
 
 ## Recently played
 
-- Groove, Geneva — Fri, 8 May 2026
-- Babylon, Istanbul — Wed, 1 Oct 2025
-- Rich Mix, London — Sat, 23 Nov 2024
-- TBA, Mexico City — Fri, 18 Oct 2024
-- TBA - Various Locations CDMX, Mexico City — Mon, 7 Oct 2024
-- TBA - Teatro Alvear, Buenos Aires — Wed, 2 Oct 2024
-- Tramway, Glasgow — Sat, 21 Sept 2024
-- Théâtre Maisonneuve, Montreal — Sat, 24 Aug 2024
+- Groove, Geneva · Fri, 8 May 2026
+- Babylon, Istanbul · Wed, 1 Oct 2025
+- Rich Mix, London · Sat, 23 Nov 2024
+- TBA, Mexico City · Fri, 18 Oct 2024
+- TBA - Various Locations CDMX, Mexico City · Mon, 7 Oct 2024
+- TBA - Teatro Alvear, Buenos Aires · Wed, 2 Oct 2024
+- Tramway, Glasgow · Sat, 21 Sept 2024
+- Théâtre Maisonneuve, Montreal · Sat, 24 Aug 2024
 
 ## Shares bills with
 

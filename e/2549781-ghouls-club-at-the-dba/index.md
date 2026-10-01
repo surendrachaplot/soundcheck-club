@@ -1,6 +1,6 @@
 # Ghouls Club at The DBA
 
-Ghouls Club at The DBA on Mon 12 Oct, Manchester. 2 artists on the bill: goreshit and Lil Kevo 303. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Ghouls Club at The DBA on Mon 12 Oct, Manchester. 2 artists: goreshit and Lil Kevo 303. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DEMERZÁL - Mako, dug0ng, Milyes, Szacharose, Riiち at TBA - Bláthy Ottó u. 3-5 Budapest, 1089
 
-DEMERZÁL - Mako, dug0ng, Milyes, Szacharose, Riiち at TBA - Bláthy Ottó u. 3-5 Budapest, 1089 on Fri 9 Oct, Budapest. 2 artists on the bill: dug0ng and Rii5. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+DEMERZÁL - Mako, dug0ng, Milyes, Szacharose, Riiち at TBA - Bláthy Ottó u. 3-5 Budapest, 1089 on Fri 9 Oct, Budapest. 2 artists: dug0ng and Rii5. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Orangerie Neukölln
 
-Orangerie Neukölln is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Naked Grapes with Aalia" on Thu, 1 Oct 2026.
+Orangerie Neukölln is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Naked Grapes with Aalia" on Thu, 1 Oct 2026.
 
-Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Akirahawks, Alison Swing, Sciarada and Sonny Grin and 1 more. Browse upcoming dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
+Orangerie Neukölln is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Akirahawks, Alison Swing, Sciarada and Sonny Grin and 1 more. See dates, start times and who's playing. Schierker Str. 8, 12051 Berlin, Germany.
 
 ## What's on
 

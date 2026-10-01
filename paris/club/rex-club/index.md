@@ -1,8 +1,8 @@
 # Rex Club
 
-Rex Club is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Rex Club presents: Joris Delacroix all night long" on Thu, 1 Oct 2026.
+Rex Club is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Rex Club presents: Joris Delacroix all night long" on Thu, 1 Oct 2026.
 
-Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including 2ManyDJs, Andy4000, Anja Sugar and Antal and 2 more. Browse upcoming dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
+Rex Club is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including 2ManyDJs, Andy4000, Anja Sugar and Antal and 2 more. See dates, start times and who's playing. 5 boulevard Poissonnière; 75002; Paris; France.
 
 ## What's on
 

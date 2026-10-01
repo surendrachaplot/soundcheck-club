@@ -1,6 +1,6 @@
 # FREE TICKETS + FREE DIRNK: EGG LDN WINTER 26 – House & Disco All Night Long at Egg London
 
-FREE TICKETS + FREE DIRNK: EGG LDN WINTER 26 – House & Disco All Night Long at Egg London on Sat 12 Dec, London. House and Disco. Preview the line-up and save it on soundcheck.
+FREE TICKETS + FREE DIRNK: EGG LDN WINTER 26 – House & Disco All Night Long at Egg London on Sat 12 Dec, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

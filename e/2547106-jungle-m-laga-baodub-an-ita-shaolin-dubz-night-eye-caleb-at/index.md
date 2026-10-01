@@ -1,6 +1,6 @@
 # JUNGLE MÁLAGA: BAODUB · AN.ITA · SHAOLIN DUBZ · NIGHT EYE · CALEB at The Club (Málaga)
 
-JUNGLE MÁLAGA: BAODUB · AN.ITA · SHAOLIN DUBZ · NIGHT EYE · CALEB at The Club (Málaga) on Fri 2 Oct, Malaga. Jungle. Preview the line-up and save it on soundcheck.
+JUNGLE MÁLAGA: BAODUB · AN.ITA · SHAOLIN DUBZ · NIGHT EYE · CALEB at The Club (Málaga) on Fri 2 Oct, Malaga. Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

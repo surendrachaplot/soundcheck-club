@@ -1,6 +1,6 @@
 # Subnoir: Yaya, Noel, Syana at Bar Datcha
 
-Subnoir: Yaya, Noel, Syana at Bar Datcha on Sat 24 Oct, Montreal. 1 artist on the bill: Syana. Preview the line-up and save it on soundcheck.
+Subnoir: Yaya, Noel, Syana at Bar Datcha on Sat 24 Oct, Montreal. 1 artist: Syana. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cardio Cult with Toni Stark at SASS Music Club
 
-Cardio Cult with Toni Stark at SASS Music Club on Thu 8 Oct, Vienna. 2 artists on the bill: Magsi and Toni Stark. House and Tech House. Preview the line-up and save it on soundcheck.
+Cardio Cult with Toni Stark at SASS Music Club on Thu 8 Oct, Vienna. 2 artists: Magsi and Toni Stark. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

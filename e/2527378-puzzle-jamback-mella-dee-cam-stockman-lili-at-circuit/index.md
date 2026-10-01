@@ -1,6 +1,6 @@
 # Puzzle: Jamback, Mella Dee, Cam Stockman & LILI at Circuit
 
-Puzzle: Jamback, Mella Dee, Cam Stockman & LILI at Circuit on Sat 17 Oct, South East. 4 artists on the bill: Cam Stockman, Jamback, LILI and Mella Dee. Preview the line-up and save it on soundcheck.
+Puzzle: Jamback, Mella Dee, Cam Stockman & LILI at Circuit on Sat 17 Oct, South East. 4 artists: Cam Stockman, Jamback, LILI and Mella Dee. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bratcity: XXX HR. Ft: CONSTANTINE at Lore
 
-Bratcity: XXX HR. Ft: CONSTANTINE at Lore on Fri 2 Oct, Atlanta. 3 artists on the bill: BRATATTACK, Constantine (US) and JAGU4R. Preview the line-up and save it on soundcheck.
+Bratcity: XXX HR. Ft: CONSTANTINE at Lore on Fri 2 Oct, Atlanta. 3 artists: BRATATTACK, Constantine (US) and JAGU4R. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

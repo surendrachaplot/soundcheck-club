@@ -1,6 +1,6 @@
 # feedbk with Ty Serna, Taiga at feedbk
 
-feedbk with Ty Serna, Taiga on Fri 2 Oct, New York City. 2 artists on the bill: Taiga and Ty Serna. House and Tech House. Preview the line-up and save it on soundcheck.
+feedbk with Ty Serna, Taiga on Fri 2 Oct, New York City. 2 artists: Taiga and Ty Serna. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

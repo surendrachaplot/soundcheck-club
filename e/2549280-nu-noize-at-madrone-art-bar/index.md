@@ -1,6 +1,6 @@
 # NU NOIZE at Madrone Art Bar
 
-NU NOIZE at Madrone Art Bar on Fri 2 Oct, San Francisco/Oakland. 3 artists on the bill: Knowpa Slaps, Mackswell and NU NOIZE. House and Disco. Preview the line-up and save it on soundcheck.
+NU NOIZE at Madrone Art Bar on Fri 2 Oct, San Francisco/Oakland. 3 artists: Knowpa Slaps, Mackswell and NU NOIZE. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BEYOND the underground house music party at House Bar Muse
 
-BEYOND the underground house music party at House Bar Muse on Sat 3 Oct, Osaka. House and Deep House. Preview the line-up and save it on soundcheck.
+BEYOND the underground house music party at House Bar Muse on Sat 3 Oct, Osaka. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

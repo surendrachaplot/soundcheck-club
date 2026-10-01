@@ -1,6 +1,6 @@
 # SELECTA at 110.Club
 
-SELECTA at 110.Club on Fri 9 Oct, Lyon. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+SELECTA at 110.Club on Fri 9 Oct, Lyon. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

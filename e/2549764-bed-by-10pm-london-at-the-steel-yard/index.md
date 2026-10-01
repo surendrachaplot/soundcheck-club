@@ -1,6 +1,6 @@
 # Bed By 10pm - London at The Steel Yard
 
-Bed By 10pm - London at The Steel Yard on Sat 21 Nov, London. Disco and Pop. Preview the line-up and save it on soundcheck.
+Bed By 10pm - London at The Steel Yard on Sat 21 Nov, London. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

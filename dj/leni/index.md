@@ -1,8 +1,8 @@
 # LENI
 
-LENI is a House and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bar Theo, Amsterdam on Fri, 2 Oct 2026.
+LENI is a House and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Theo, Amsterdam on Fri, 2 Oct 2026.
 
-LENI is a house and breakbeat artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside INA, LAN the Wireless and Caleesi. Next up: Bar Theo, Amsterdam on Fri 2 Oct.
+LENI is a house and breakbeat artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 3 more. Often billed alongside INA, LAN the Wireless and Caleesi. Next up: Bar Theo, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ LENI is a house and breakbeat artist based in Netherlands, tracked on soundcheck
 
 ## Recently played
 
-- Südpol, Hamburg — Sat, 25 Oct 2025
-- Renate, Berlin — Thu, 2 Oct 2025
-- Toekomstmuziek, Amsterdam — Sat, 13 Sept 2025
-- Klunkerkranich, Berlin — Sat, 14 Jun 2025
-- Kater, Berlin — Sat, 17 May 2025
-- De Sering, Amsterdam — Sat, 8 Mar 2025
-- Kater, Berlin — Sat, 30 Nov 2024
-- Studio 338, London — Fri, 1 Nov 2024
+- Südpol, Hamburg · Sat, 25 Oct 2025
+- Renate, Berlin · Thu, 2 Oct 2025
+- Toekomstmuziek, Amsterdam · Sat, 13 Sept 2025
+- Klunkerkranich, Berlin · Sat, 14 Jun 2025
+- Kater, Berlin · Sat, 17 May 2025
+- De Sering, Amsterdam · Sat, 8 Mar 2025
+- Kater, Berlin · Sat, 30 Nov 2024
+- Studio 338, London · Fri, 1 Nov 2024
 
 ## Shares bills with
 

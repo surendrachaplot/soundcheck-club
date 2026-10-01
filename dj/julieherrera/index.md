@@ -1,8 +1,8 @@
 # Julie Herrera
 
-Julie Herrera is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Crystal Lounge, Seattle on Fri, 2 Oct 2026.
+Julie Herrera is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Crystal Lounge, Seattle on Fri, 2 Oct 2026.
 
-Julie Herrera is a house and deep house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Seattle. Often billed alongside Brian Lyons, Wesley Holmes and Dane Garfield. Next up: Crystal Lounge, Seattle on Fri 2 Oct.
+Julie Herrera is a house and deep house artist based in United States of America, with 43 gigs on soundcheck across Seattle. Often billed alongside Brian Lyons, Wesley Holmes and Dane Garfield. Next up: Crystal Lounge, Seattle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Julie Herrera is a house and deep house artist based in United States of America
 
 ## Recently played
 
-- Roam Ballard, Seattle — Thu, 17 Sept 2026
-- The Monkey Loft, Seattle — Thu, 13 Aug 2026
-- The Monkey Loft, Seattle — Sat, 4 Jul 2026
-- Chop Suey, Seattle — Sun, 24 May 2026
-- Nectar Lounge, Seattle — Sat, 9 May 2026
-- Crystal Lounge, Seattle — Fri, 10 Apr 2026
-- TBA, Seattle — Sat, 7 Mar 2026
-- Crystal Lounge, Seattle — Fri, 14 Nov 2025
+- Roam Ballard, Seattle · Thu, 17 Sept 2026
+- The Monkey Loft, Seattle · Thu, 13 Aug 2026
+- The Monkey Loft, Seattle · Sat, 4 Jul 2026
+- Chop Suey, Seattle · Sun, 24 May 2026
+- Nectar Lounge, Seattle · Sat, 9 May 2026
+- Crystal Lounge, Seattle · Fri, 10 Apr 2026
+- TBA, Seattle · Sat, 7 Mar 2026
+- Crystal Lounge, Seattle · Fri, 14 Nov 2025
 
 ## Shares bills with
 

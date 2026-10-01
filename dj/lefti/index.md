@@ -1,8 +1,8 @@
 # LEFTI
 
-LEFTI is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at SILO, New York City on Thu, 8 Oct 2026.
+LEFTI is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at SILO, New York City on Thu, 8 Oct 2026.
 
-LEFTI is a house and tech house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Brighton, Denver, Los Angeles and Miami and 3 more. Often billed alongside Anthony Romano, James Patterson and Jay Vic. Next up: SILO, New York City on Thu 8 Oct.
+LEFTI is a house and tech house artist based in United States of America, with 51 gigs on soundcheck across Brighton, Denver, Los Angeles and Miami and 3 more. Often billed alongside Anthony Romano, James Patterson and Jay Vic. Next up: SILO, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ LEFTI is a house and tech house artist based in United States of America, tracke
 
 ## Recently played
 
-- Xanadu, New York City — Sat, 5 Sept 2026
-- SILO, New York City — Thu, 3 Sept 2026
-- SILO, New York City — Thu, 6 Aug 2026
-- Superior Ingredients, New York City — Sun, 19 Jul 2026
-- SILO, New York City — Thu, 2 Jul 2026
-- Superior Ingredients, New York City — Sat, 6 Jun 2026
-- SILO, New York City — Thu, 4 Jun 2026
-- Superior Ingredients, New York City — Fri, 15 May 2026
+- Xanadu, New York City · Sat, 5 Sept 2026
+- SILO, New York City · Thu, 3 Sept 2026
+- SILO, New York City · Thu, 6 Aug 2026
+- Superior Ingredients, New York City · Sun, 19 Jul 2026
+- SILO, New York City · Thu, 2 Jul 2026
+- Superior Ingredients, New York City · Sat, 6 Jun 2026
+- SILO, New York City · Thu, 4 Jun 2026
+- Superior Ingredients, New York City · Fri, 15 May 2026
 
 ## Shares bills with
 

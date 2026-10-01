@@ -1,6 +1,6 @@
 # WHIPPED CREAM - Montréal at Newspeak
 
-WHIPPED CREAM - Montréal at Newspeak on Fri 23 Oct, Montreal. Techno and House. Preview the line-up and save it on soundcheck.
+WHIPPED CREAM - Montréal at Newspeak on Fri 23 Oct, Montreal. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

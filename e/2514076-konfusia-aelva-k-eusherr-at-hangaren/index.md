@@ -1,6 +1,6 @@
 # Konfusia, AELVA K, Eusherr at Hangaren
 
-Konfusia, AELVA K, Eusherr at Hangaren on Fri 16 Oct, Copenhagen. 2 artists on the bill: AELVA K and Konfusia. Techno. Preview the line-up and save it on soundcheck.
+Konfusia, AELVA K, Eusherr at Hangaren on Fri 16 Oct, Copenhagen. 2 artists: AELVA K and Konfusia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

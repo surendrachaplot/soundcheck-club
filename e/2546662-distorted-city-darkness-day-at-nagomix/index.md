@@ -1,6 +1,6 @@
 # Distorted City -Darkness Day- at Nagomix
 
-Distorted City -Darkness Day- at Nagomix on Tue 20 Oct, Tokyo. 1 artist on the bill: Reverse16. Hardcore. Preview the line-up and save it on soundcheck.
+Distorted City -Darkness Day- at Nagomix on Tue 20 Oct, Tokyo. 1 artist: Reverse16. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

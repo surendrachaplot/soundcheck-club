@@ -1,6 +1,6 @@
 # Kaiku presents: DVS1 (US) at Kaiku
 
-Kaiku presents: DVS1 (US) on Fri 23 Oct, Helsinki. 5 artists on the bill: Denzel, DVS1, MUXXXE and Sala and 1 more. Preview the line-up and save it on soundcheck.
+Kaiku presents: DVS1 (US) on Fri 23 Oct, Helsinki. 5 artists: Denzel, DVS1, MUXXXE and Sala and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

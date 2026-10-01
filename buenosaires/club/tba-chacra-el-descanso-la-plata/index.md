@@ -1,8 +1,8 @@
 # TBA - Chacra El Descanso, La Plata
 
-TBA - Chacra El Descanso, La Plata is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Juan Hansen - Chacra El Descanso, La Plata - ALLMusicParties" on Sat, 31 Oct 2026.
+TBA - Chacra El Descanso, La Plata is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Juan Hansen - Chacra El Descanso, La Plata - ALLMusicParties" on Sat, 31 Oct 2026.
 
-TBA - Chacra El Descanso, La Plata is a music venue in Buenos Aires listed on soundcheck. 2 upcoming gigs, with line-ups including Ezequiel Arias and Juan Hansen. Browse upcoming dates, start times and who's playing.
+TBA - Chacra El Descanso, La Plata is a music venue in Buenos Aires listed on soundcheck. 2 upcoming gigs, with line-ups including Ezequiel Arias and Juan Hansen. See dates, start times and who's playing.
 
 ## What's on
 

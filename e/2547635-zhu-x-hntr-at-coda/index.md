@@ -1,6 +1,6 @@
 # ZHU x HNTR at Coda
 
-ZHU x HNTR at Coda on Sun 4 Oct, Toronto. 2 artists on the bill: HNTR and ZHU. Preview the line-up and save it on soundcheck.
+ZHU x HNTR at Coda on Sun 4 Oct, Toronto. 2 artists: HNTR and ZHU. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Joshua (3)
 
-Joshua (3) is a Hardcore and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Socore Factory, Osaka on Thu, 12 Nov 2026.
+Joshua (3) is a Hardcore and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Socore Factory, Osaka on Thu, 12 Nov 2026.
 
-Joshua is a hardcore and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin, London, Osaka and Seoul and 1 more. Often billed alongside Midnight Manoeuvres, Rhem and JDM. Next up: Socore Factory, Osaka on Thu 12 Nov.
+Joshua is a hardcore and house artist based in United Kingdom, with 16 gigs on soundcheck across Berlin, London, Osaka and Seoul and 1 more. Often billed alongside Midnight Manoeuvres, Rhem and JDM. Next up: Socore Factory, Osaka on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Joshua is a hardcore and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Planet Wax, London — Sat, 9 May 2026
-- TBA - Palace Vinyl, London — Sat, 1 Nov 2025
-- TBA - The Pearl of London & Between the Bridges, London — Sat, 23 Aug 2025
-- Stoked&stoned, Seoul — Sun, 17 Aug 2025
-- Stoked&stoned, Seoul — Sun, 13 Jul 2025
-- Atdge Seoul, Seoul — Fri, 13 Jun 2025
-- Peckham Audio, London — Fri, 11 Apr 2025
-- Sameheads, Berlin — Tue, 31 Dec 2024
+- Planet Wax, London · Sat, 9 May 2026
+- TBA - Palace Vinyl, London · Sat, 1 Nov 2025
+- TBA - The Pearl of London & Between the Bridges, London · Sat, 23 Aug 2025
+- Stoked&stoned, Seoul · Sun, 17 Aug 2025
+- Stoked&stoned, Seoul · Sun, 13 Jul 2025
+- Atdge Seoul, Seoul · Fri, 13 Jun 2025
+- Peckham Audio, London · Fri, 11 Apr 2025
+- Sameheads, Berlin · Tue, 31 Dec 2024
 
 ## Shares bills with
 

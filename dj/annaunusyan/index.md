@@ -1,8 +1,8 @@
 # Anna Unusyan
 
-Anna Unusyan is a Techno and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
+Anna Unusyan is a Techno and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at [UNVRS], Ibiza on Thu, 8 Oct 2026.
 
-Anna Unusyan is a techno and afro house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Barcelona, Ibiza and London. Often billed alongside Indira Paganotto, Akoriz and Juliet Fox. Next up: [UNVRS], Ibiza on Thu 8 Oct.
+Anna Unusyan is a techno and afro house artist based in United Kingdom, with 11 gigs on soundcheck across Barcelona, Ibiza and London. Often billed alongside Indira Paganotto, Akoriz and Juliet Fox. Next up: [UNVRS], Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Anna Unusyan is a techno and afro house artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Sun, 27 Sept 2026
-- Poble Espanyol, Barcelona — Fri, 19 Jun 2026
-- Hï Ibiza, Ibiza — Sun, 14 Jun 2026
-- Hï Ibiza, Ibiza — Fri, 4 Jul 2025
-- E1, London — Sat, 19 Apr 2025
-- E1, London — Sat, 28 Sept 2024
-- Boston Manor Park, London — Fri, 26 Jul 2024
-- E1, London — Thu, 28 Mar 2024
+- Hï Ibiza, Ibiza · Sun, 27 Sept 2026
+- Poble Espanyol, Barcelona · Fri, 19 Jun 2026
+- Hï Ibiza, Ibiza · Sun, 14 Jun 2026
+- Hï Ibiza, Ibiza · Fri, 4 Jul 2025
+- E1, London · Sat, 19 Apr 2025
+- E1, London · Sat, 28 Sept 2024
+- Boston Manor Park, London · Fri, 26 Jul 2024
+- E1, London · Thu, 28 Mar 2024
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Anna Vs June
 
-Anna Vs June is a Electronica and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Onassis Ready, Athens on Fri, 9 Oct 2026.
+Anna Vs June is a Electronica and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
-Anna Vs June are an electronica and acid duo tracked on soundcheck, with 9 sets logged across Athens, Edinburgh, Glasgow and Manchester. Often billed alongside Jan Van Angelopoulos, Pako Vega and Ana K Miller. Next up: Onassis Ready, Athens on Fri 9 Oct.
+Anna Vs June are an electronica and acid duo, with 9 gigs on soundcheck across Athens, Edinburgh, Glasgow and Manchester. Often billed alongside Jan Van Angelopoulos, Pako Vega and Ana K Miller. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Anna Vs June are an electronica and acid duo tracked on soundcheck, with 9 sets 
 
 ## Recently played
 
-- TV Control Center (KET), Athens — Fri, 3 Oct 2025
-- EXIT Glasgow, Glasgow — Sun, 21 Sept 2025
-- Leith FAB Cricket Club, Edinburgh — Sat, 20 Sept 2025
-- The Peer Hat, Manchester — Fri, 19 Sept 2025
-- The Golden Lion, Manchester — Thu, 18 Sept 2025
-- TV Control Center (KET), Athens — Sat, 2 Nov 2024
-- Plyfa, Athens — Sat, 22 Jun 2024
-- Onassis Stegi, Athens — Fri, 2 Feb 2024
+- TV Control Center (KET), Athens · Fri, 3 Oct 2025
+- EXIT Glasgow, Glasgow · Sun, 21 Sept 2025
+- Leith FAB Cricket Club, Edinburgh · Sat, 20 Sept 2025
+- The Peer Hat, Manchester · Fri, 19 Sept 2025
+- The Golden Lion, Manchester · Thu, 18 Sept 2025
+- TV Control Center (KET), Athens · Sat, 2 Nov 2024
+- Plyfa, Athens · Sat, 22 Jun 2024
+- Onassis Stegi, Athens · Fri, 2 Feb 2024
 
 ## Shares bills with
 

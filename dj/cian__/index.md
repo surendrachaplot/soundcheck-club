@@ -1,8 +1,8 @@
 # CIAN__
 
-CIAN__ is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Telegraph Building, Belfast on Sat, 3 Oct 2026.
+CIAN__ is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Telegraph Building, Belfast on Sat, 3 Oct 2026.
 
-CIAN__ is a techno and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Belfast. Often billed alongside Sophie, Body Clinic and IndeniaL. Next up: The Telegraph Building, Belfast on Sat 3 Oct.
+CIAN__ is a techno and house artist based in United Kingdom, with 18 gigs on soundcheck across Belfast. Often billed alongside Sophie, Body Clinic and IndeniaL. Next up: The Telegraph Building, Belfast on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ CIAN__ is a techno and house artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- The Ulster Sports Club, Belfast — Fri, 19 Jun 2026
-- Titanic Slipways, Belfast — Fri, 29 May 2026
-- Common Market, Belfast — Fri, 29 May 2026
-- Common Market, Belfast — Fri, 29 May 2026
-- The Marcus Ward, Belfast — Sat, 2 May 2026
-- Laverys, Belfast — Sat, 15 Nov 2025
-- Titanic Slipways, Belfast — Sat, 21 Jun 2025
-- Titanic Slipways, Belfast — Fri, 30 May 2025
+- The Ulster Sports Club, Belfast · Fri, 19 Jun 2026
+- Titanic Slipways, Belfast · Fri, 29 May 2026
+- Common Market, Belfast · Fri, 29 May 2026
+- Common Market, Belfast · Fri, 29 May 2026
+- The Marcus Ward, Belfast · Sat, 2 May 2026
+- Laverys, Belfast · Sat, 15 Nov 2025
+- Titanic Slipways, Belfast · Sat, 21 Jun 2025
+- Titanic Slipways, Belfast · Fri, 30 May 2025
 
 ## Shares bills with
 

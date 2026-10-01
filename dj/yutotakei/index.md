@@ -1,8 +1,8 @@
 # Yuto Takei
 
-Yuto Takei is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+Yuto Takei is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
-Yuto Takei is a house and techno artist based in Japan, tracked on soundcheck, with 78 sets logged across Amsterdam, Brussels, Ghent and Helsinki and 6 more. Often billed alongside Ario, Dihi and HiToshi. Next up: Bonobo, Tokyo on Sat 3 Oct.
+Yuto Takei is a house and techno artist based in Japan, with 78 gigs on soundcheck across Amsterdam, Brussels, Ghent and Helsinki and 6 more. Often billed alongside Ario, Dihi and HiToshi. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Yuto Takei is a house and techno artist based in Japan, tracked on soundcheck, w
 
 ## Recently played
 
-- Azumaya, Tokyo — Tue, 22 Sept 2026
-- Forestlimit, Tokyo — Sun, 20 Sept 2026
-- Chika-Ikkai, Osaka — Sat, 22 Aug 2026
-- Numm, Tokyo — Thu, 18 Jun 2026
-- Bonobo, Tokyo — Fri, 29 May 2026
-- Sonoor, Rotterdam — Sat, 11 Apr 2026
-- Beursschouwburg, Brussels — Sat, 28 Mar 2026
-- Mitsuki, Tokyo — Tue, 17 Mar 2026
+- Azumaya, Tokyo · Tue, 22 Sept 2026
+- Forestlimit, Tokyo · Sun, 20 Sept 2026
+- Chika-Ikkai, Osaka · Sat, 22 Aug 2026
+- Numm, Tokyo · Thu, 18 Jun 2026
+- Bonobo, Tokyo · Fri, 29 May 2026
+- Sonoor, Rotterdam · Sat, 11 Apr 2026
+- Beursschouwburg, Brussels · Sat, 28 Mar 2026
+- Mitsuki, Tokyo · Tue, 17 Mar 2026
 
 ## Shares bills with
 

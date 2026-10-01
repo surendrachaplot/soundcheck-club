@@ -1,6 +1,6 @@
 # JAM DU BPM CONTEST at La Gare / Le Gore
 
-JAM DU BPM CONTEST at La Gare / Le Gore on Tue 6 Oct, Paris. Techno. Preview the line-up and save it on soundcheck.
+JAM DU BPM CONTEST at La Gare / Le Gore on Tue 6 Oct, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

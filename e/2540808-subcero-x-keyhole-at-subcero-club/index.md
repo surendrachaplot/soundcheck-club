@@ -1,6 +1,6 @@
 # SUBCERO x KEYHOLE at Subcero Club
 
-SUBCERO x KEYHOLE at Subcero Club on Sat 10 Oct, Madrid. 2 artists on the bill: John Heaven and Kean Farrar. Electronica. Preview the line-up and save it on soundcheck.
+SUBCERO x KEYHOLE at Subcero Club on Sat 10 Oct, Madrid. 2 artists: John Heaven and Kean Farrar. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

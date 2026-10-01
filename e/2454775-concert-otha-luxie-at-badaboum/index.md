@@ -1,6 +1,6 @@
 # Concert — Otha, Luxie at Badaboum
 
-Concert — Otha, Luxie at Badaboum on Fri 2 Oct, Paris. Preview the line-up and save it on soundcheck.
+Concert — Otha, Luxie at Badaboum on Fri 2 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

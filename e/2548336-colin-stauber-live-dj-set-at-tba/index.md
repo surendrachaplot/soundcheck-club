@@ -1,6 +1,6 @@
 # Colin Stauber Live DJ Set at TBA
 
-Colin Stauber Live DJ Set at TBA on Sat 10 Oct, Los Angeles. House and Electronica. Preview the line-up and save it on soundcheck.
+Colin Stauber Live DJ Set at TBA on Sat 10 Oct, Los Angeles. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

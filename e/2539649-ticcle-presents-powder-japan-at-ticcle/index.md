@@ -1,6 +1,6 @@
 # ticcle presents Powder (Japan) at Ticcle
 
-ticcle presents Powder (Japan) at Ticcle on Fri 13 Nov, Hobart. 1 artist on the bill: Powder. Preview the line-up and save it on soundcheck.
+ticcle presents Powder (Japan) at Ticcle on Fri 13 Nov, Hobart. 1 artist: Powder. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

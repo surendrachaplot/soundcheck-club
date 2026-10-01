@@ -1,6 +1,6 @@
 # EDC Thailand 2026 at TBA - Rhythm Park
 
-EDC Thailand 2026 at TBA - Rhythm Park on Fri 18 Dec, Thailand. 9 artists on the bill: &friends, Above & Beyond, Charlotte de Witte and DJ Snake and 5 more. Preview the line-up and save it on soundcheck.
+EDC Thailand 2026 at TBA - Rhythm Park on Fri 18 Dec, Thailand. 9 artists: &friends, Above & Beyond, Charlotte de Witte and DJ Snake and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

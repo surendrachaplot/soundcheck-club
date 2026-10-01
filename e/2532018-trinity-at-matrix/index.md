@@ -1,6 +1,6 @@
 # TRINITY at Matrix
 
-TRINITY at Matrix on Sat 3 Oct, Bochum. Preview the line-up and save it on soundcheck.
+TRINITY at Matrix on Sat 3 Oct, Bochum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NATBAR at Natbar / Bremen Teater
 
-NATBAR at Natbar / Bremen Teater on Fri 2 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+NATBAR at Natbar / Bremen Teater on Fri 2 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

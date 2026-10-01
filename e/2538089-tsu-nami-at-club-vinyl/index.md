@@ -1,6 +1,6 @@
 # Tsu Nami at Club Vinyl
 
-Tsu Nami at Club Vinyl on Sat 12 Dec, Denver. House. Preview the line-up and save it on soundcheck.
+Tsu Nami at Club Vinyl on Sat 12 Dec, Denver. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

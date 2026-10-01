@@ -1,8 +1,8 @@
 # Zero
 
-Zero is a Garage and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Zero is a Garage and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Zero is a garage and drum & bass artist based in Croatia, tracked on soundcheck, with 42 sets logged across Austin, Barcelona, Bristol and Dublin and 17 more. Often billed alongside Skepsis, Window Kid and Charlie Tee. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Zero is a garage and drum & bass artist based in Croatia, with 42 gigs on soundcheck across Austin, Barcelona, Bristol and Dublin and 17 more. Often billed alongside Skepsis, Window Kid and Charlie Tee. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Zero is a garage and drum & bass artist based in Croatia, tracked on soundcheck,
 
 ## Recently played
 
-- fabric, London — Fri, 4 Sept 2026
-- THE MAGICK BAR, Rome — Wed, 2 Sept 2026
-- THE MAGICK BAR, Rome — Wed, 5 Aug 2026
-- The Racket Space, Dublin — Sat, 25 Jul 2026
-- Tank, Sheffield — Sat, 25 Jul 2026
-- Kilomètre25, Paris — Fri, 17 Jul 2026
-- Colwick Country Park, Nottingham — Fri, 26 Jun 2026
-- Travis County Exposition Center, Austin — Sun, 31 May 2026
+- fabric, London · Fri, 4 Sept 2026
+- THE MAGICK BAR, Rome · Wed, 2 Sept 2026
+- THE MAGICK BAR, Rome · Wed, 5 Aug 2026
+- The Racket Space, Dublin · Sat, 25 Jul 2026
+- Tank, Sheffield · Sat, 25 Jul 2026
+- Kilomètre25, Paris · Fri, 17 Jul 2026
+- Colwick Country Park, Nottingham · Fri, 26 Jun 2026
+- Travis County Exposition Center, Austin · Sun, 31 May 2026
 
 ## Shares bills with
 

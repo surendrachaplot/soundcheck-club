@@ -1,8 +1,8 @@
 # Palladium Riga
 
-Palladium Riga is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Joyhauser & Mha iri - CRAVE NIGHT at Palladium" on Fri, 9 Oct 2026.
+Palladium Riga is a music venue in Riga with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Joyhauser & Mha iri - CRAVE NIGHT at Palladium" on Fri, 9 Oct 2026.
 
-Palladium Riga is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-ups including Fatboy Slim, Joyhauser and Mha iri. Browse upcoming dates, start times and who's playing. Marijas iela 21, Centra rajons, Rīga, LV-1050, Latvia.
+Palladium Riga is a music venue in Riga listed on soundcheck. 2 upcoming gigs, with line-ups including Fatboy Slim, Joyhauser and Mha iri. See dates, start times and who's playing. Marijas iela 21, Centra rajons, Rīga, LV-1050, Latvia.
 
 ## What's on
 

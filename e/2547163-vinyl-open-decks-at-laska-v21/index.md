@@ -1,6 +1,6 @@
 # Vinyl Open Decks at Laska V21
 
-Vinyl Open Decks at Laska V21 on Sun 11 Oct, Riga. Dub Techno and EBM. Preview the line-up and save it on soundcheck.
+Vinyl Open Decks at Laska V21 on Sun 11 Oct, Riga. Dub Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

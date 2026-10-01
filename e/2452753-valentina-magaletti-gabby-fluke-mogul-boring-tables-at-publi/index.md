@@ -1,6 +1,6 @@
 # Valentina Magaletti & Gabby Fluke-Mogul, boring tables at public records
 
-Valentina Magaletti & Gabby Fluke-Mogul, boring tables at public records on Fri 23 Oct, New York City. 1 artist on the bill: Valentina Magaletti. Experimental. Preview the line-up and save it on soundcheck.
+Valentina Magaletti & Gabby Fluke-Mogul, boring tables at public records on Fri 23 Oct, New York City. 1 artist: Valentina Magaletti. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

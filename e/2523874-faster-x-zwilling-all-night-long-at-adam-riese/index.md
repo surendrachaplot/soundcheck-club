@@ -1,6 +1,6 @@
 # FASTER X ZWILLING. ALL NIGHT LONG at Adam Riese
 
-FASTER X ZWILLING. ALL NIGHT LONG at Adam Riese on Sat 21 Nov, Frankfurt. Trance and Techno. Preview the line-up and save it on soundcheck.
+FASTER X ZWILLING. ALL NIGHT LONG at Adam Riese on Sat 21 Nov, Frankfurt. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

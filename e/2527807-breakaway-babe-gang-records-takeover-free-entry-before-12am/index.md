@@ -1,6 +1,6 @@
 # Breakaway: Babe Gang Records Takeover - Free Entry Before 12am - Garage / Breaks at Dalston Den
 
-Breakaway: Babe Gang Records Takeover - Free Entry Before 12am - Garage / Breaks at Dalston Den on Fri 9 Oct, London. 4 artists on the bill: Delian Sound, Dukesmith, Edge <3 and Illegal Shipment. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+Breakaway: Babe Gang Records Takeover - Free Entry Before 12am - Garage / Breaks at Dalston Den on Fri 9 Oct, London. 4 artists: Delian Sound, Dukesmith, Edge <3 and Illegal Shipment. Breakbeat and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

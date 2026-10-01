@@ -1,6 +1,6 @@
 # WU LYF at Subzero
 
-WU LYF at Subzero on Thu 1 Oct, Prague. Preview the line-up and save it on soundcheck.
+WU LYF at Subzero on Thu 1 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

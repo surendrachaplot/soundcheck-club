@@ -1,6 +1,6 @@
 # Flash Cocotte pride reloaded Edition at Le Trabendo
 
-Flash Cocotte pride reloaded Edition at Le Trabendo on Sat 3 Oct, Paris. 3 artists on the bill: Muchas Problemas, Pipi De Frèche and Safety Trance. Tech House. Preview the line-up and save it on soundcheck.
+Flash Cocotte pride reloaded Edition at Le Trabendo on Sat 3 Oct, Paris. 3 artists: Muchas Problemas, Pipi De Frèche and Safety Trance. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

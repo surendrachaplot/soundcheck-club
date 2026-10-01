@@ -1,6 +1,6 @@
 # YAGA PRESENTS: Sasha Debut in Sri Lanka at TBA - Colombo
 
-YAGA PRESENTS: Sasha Debut in Sri Lanka at TBA - Colombo on Sat 31 Oct, Sri Lanka. 6 artists on the bill: ECHO DAFT, Kasper Koman, KRYPTONE and Patrice Bäumel and 2 more. Preview the line-up and save it on soundcheck.
+YAGA PRESENTS: Sasha Debut in Sri Lanka at TBA - Colombo on Sat 31 Oct, Sri Lanka. 6 artists: ECHO DAFT, Kasper Koman, KRYPTONE and Patrice Bäumel and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

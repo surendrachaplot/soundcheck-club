@@ -1,6 +1,6 @@
 # Casa Burger Night at Casa Corona Seoul
 
-Casa Burger Night at Casa Corona Seoul on Fri 2 Oct, Seoul. 6 artists on the bill: Better, Grace Kim, Minji and Onizmik and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Casa Burger Night at Casa Corona Seoul on Fri 2 Oct, Seoul. 6 artists: Better, Grace Kim, Minji and Onizmik and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Big Fish Little Fish SHEFFIELD Halloween family rave! Sat 31st Oct 4-6pm at The Steamworks
 
-Big Fish Little Fish SHEFFIELD Halloween family rave! Sat 31st Oct 4-6pm at The Steamworks on Sat 31 Oct, Sheffield. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Big Fish Little Fish SHEFFIELD Halloween family rave! Sat 31st Oct 4-6pm at The Steamworks on Sat 31 Oct, Sheffield. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

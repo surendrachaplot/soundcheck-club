@@ -1,6 +1,6 @@
 # Volume & Friends presents: Ueberrest at Helgas Stadtpalast
 
-Volume & Friends presents: Ueberrest at Helgas Stadtpalast on Sat 19 Dec, Mecklenburg Vorpommern. 2 artists on the bill: LISTORIO and Ueberrest. Preview the line-up and save it on soundcheck.
+Volume & Friends presents: Ueberrest at Helgas Stadtpalast on Sat 19 Dec, Mecklenburg Vorpommern. 2 artists: LISTORIO and Ueberrest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

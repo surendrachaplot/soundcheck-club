@@ -1,6 +1,6 @@
 # Shangri-La presents: Sasha & John Digweed at Depot
 
-Shangri-La presents: Sasha & John Digweed at Depot on Sat 14 Nov, Cardiff. 2 artists on the bill: John Digweed and Sasha. Preview the line-up and save it on soundcheck.
+Shangri-La presents: Sasha & John Digweed at Depot on Sat 14 Nov, Cardiff. 2 artists: John Digweed and Sasha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

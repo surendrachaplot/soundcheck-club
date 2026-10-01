@@ -1,6 +1,6 @@
 # Matt Sassari at It'll Do
 
-Matt Sassari at It'll Do on Sat 3 Oct, Dallas Fort Worth. 1 artist on the bill: Matt Sassari. Preview the line-up and save it on soundcheck.
+Matt Sassari at It'll Do on Sat 3 Oct, Dallas Fort Worth. 1 artist: Matt Sassari. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

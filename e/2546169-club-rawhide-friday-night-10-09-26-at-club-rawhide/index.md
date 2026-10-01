@@ -1,6 +1,6 @@
 # Club Rawhide FRIDAY NIGHT 10.09.26 at Club Rawhide
 
-Club Rawhide FRIDAY NIGHT 10.09.26 on Fri 9 Oct, New York City. Techno and House. Preview the line-up and save it on soundcheck.
+Club Rawhide FRIDAY NIGHT 10.09.26 on Fri 9 Oct, New York City. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

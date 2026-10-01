@@ -1,6 +1,6 @@
 # Harriet Jaxxon presents 'Deckades' London at The Lower Third
 
-Harriet Jaxxon presents 'Deckades' London at The Lower Third on Sat 3 Oct, London. 1 artist on the bill: Harriet Jaxxon. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Harriet Jaxxon presents 'Deckades' London at The Lower Third on Sat 3 Oct, London. 1 artist: Harriet Jaxxon. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

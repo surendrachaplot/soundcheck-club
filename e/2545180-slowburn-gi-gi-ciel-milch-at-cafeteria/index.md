@@ -1,6 +1,6 @@
 # slowburn: Gi Gi, Ciel & Milch at Cafeteria
 
-slowburn: Gi Gi, Ciel & Milch at Cafeteria on Fri 6 Nov, Toronto. 3 artists on the bill: Ciel, Gi Gi and Milch. Downtempo. Preview the line-up and save it on soundcheck.
+slowburn: Gi Gi, Ciel & Milch at Cafeteria on Fri 6 Nov, Toronto. 3 artists: Ciel, Gi Gi and Milch. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

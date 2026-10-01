@@ -1,6 +1,6 @@
 # Peace Portal & Friends / A Big Cull Joint: Jason Code, gitanøs, Flores, Trustfall at The Sonder Bar
 
-Peace Portal & Friends / A Big Cull Joint: Jason Code, gitanøs, Flores, Trustfall at The Sonder Bar on Fri 16 Oct, Portland. 2 artists on the bill: Jason Code and Trustfall. Techno and Club. Preview the line-up and save it on soundcheck.
+Peace Portal & Friends / A Big Cull Joint: Jason Code, gitanøs, Flores, Trustfall at The Sonder Bar on Fri 16 Oct, Portland. 2 artists: Jason Code and Trustfall. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

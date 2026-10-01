@@ -1,6 +1,6 @@
 # NOTTE TEKNO: Crystal Distortion, Drum the System live, Waldo at Tempio del Futuro Perduto
 
-NOTTE TEKNO: Crystal Distortion, Drum the System live, Waldo at Tempio del Futuro Perduto on Sat 7 Nov, Milan. 3 artists on the bill: Crystal Distortion, DRUM THE SYSTEM live and Waldo. Preview the line-up and save it on soundcheck.
+NOTTE TEKNO: Crystal Distortion, Drum the System live, Waldo at Tempio del Futuro Perduto on Sat 7 Nov, Milan. 3 artists: Crystal Distortion, DRUM THE SYSTEM live and Waldo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

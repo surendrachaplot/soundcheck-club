@@ -1,8 +1,8 @@
 # SIKXTO
 
-SIKXTO is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
+SIKXTO is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
 
-SIKXTO is a techno and trance artist based in Germany, tracked on soundcheck, with 56 sets logged across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside DTEXX, Filialleiter and Trancestrudel. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
+SIKXTO is a techno and trance artist based in Germany, with 56 gigs on soundcheck across Berlin, Leipzig, Lisbon and Milan and 4 more. Often billed alongside DTEXX, Filialleiter and Trancestrudel. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SIKXTO is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Sat, 29 Aug 2026
-- OST, Berlin — Sat, 22 Aug 2026
-- OST, Berlin — Sat, 18 Jul 2026
-- Ministerium Club, Lisbon — Thu, 16 Jul 2026
-- Lokschuppen Berlin, Berlin — Fri, 26 Jun 2026
-- Lokschuppen Berlin, Berlin — Fri, 29 May 2026
-- Volkspark Friedrichshain, Berlin — Thu, 14 May 2026
-- OST, Berlin — Sat, 2 May 2026
+- Lokschuppen Berlin, Berlin · Sat, 29 Aug 2026
+- OST, Berlin · Sat, 22 Aug 2026
+- OST, Berlin · Sat, 18 Jul 2026
+- Ministerium Club, Lisbon · Thu, 16 Jul 2026
+- Lokschuppen Berlin, Berlin · Fri, 26 Jun 2026
+- Lokschuppen Berlin, Berlin · Fri, 29 May 2026
+- Volkspark Friedrichshain, Berlin · Thu, 14 May 2026
+- OST, Berlin · Sat, 2 May 2026
 
 ## Shares bills with
 

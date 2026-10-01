@@ -1,6 +1,6 @@
 # Haunted Panic Room feat. Adam Kraft, Banoffee, Rob Aquino & Shane Thomas at TBA - Silverlake
 
-Haunted Panic Room feat. Adam Kraft, Banoffee, Rob Aquino & Shane Thomas at TBA - Silverlake on Fri 23 Oct, Los Angeles. 4 artists on the bill: Adam Kraft, Banoffee, Rob Aquino and Shane Thomas. Techno and Club. Preview the line-up and save it on soundcheck.
+Haunted Panic Room feat. Adam Kraft, Banoffee, Rob Aquino & Shane Thomas at TBA - Silverlake on Fri 23 Oct, Los Angeles. 4 artists: Adam Kraft, Banoffee, Rob Aquino and Shane Thomas. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

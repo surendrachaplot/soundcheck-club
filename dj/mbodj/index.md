@@ -1,8 +1,8 @@
 # MBODJ
 
-MBODJ is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at De Sering, Amsterdam on Sat, 24 Oct 2026.
+MBODJ is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at De Sering, Amsterdam on Sat, 24 Oct 2026.
 
-MBODJ is an experimental and techno artist based in Spain, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Baba Sy, Opoku and TNTC. Next up: De Sering, Amsterdam on Sat 24 Oct.
+MBODJ is an experimental and techno artist based in Spain, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside Baba Sy, Opoku and TNTC. Next up: De Sering, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MBODJ is an experimental and techno artist based in Spain, tracked on soundcheck
 
 ## Recently played
 
-- Sala Upload Barcelona, Barcelona — Fri, 4 Sept 2026
-- TBA - Apiro, Marche IT, Milan — Thu, 30 Jul 2026
-- BarKa, Warsaw — Thu, 30 Jul 2026
-- Ormside Projects, London — Sat, 30 May 2026
-- TBA - Secret Location near Jannowitzbrücke, Berlin — Sat, 18 Apr 2026
-- TBA - Secret Location near Jannowitzbrücke, Berlin — Sat, 18 Apr 2026
-- Various Venues, Bristol, Bristol — Sat, 11 Apr 2026
-- murmur, Amsterdam — Sat, 14 Mar 2026
+- Sala Upload Barcelona, Barcelona · Fri, 4 Sept 2026
+- TBA - Apiro, Marche IT, Milan · Thu, 30 Jul 2026
+- BarKa, Warsaw · Thu, 30 Jul 2026
+- Ormside Projects, London · Sat, 30 May 2026
+- TBA - Secret Location near Jannowitzbrücke, Berlin · Sat, 18 Apr 2026
+- TBA - Secret Location near Jannowitzbrücke, Berlin · Sat, 18 Apr 2026
+- Various Venues, Bristol, Bristol · Sat, 11 Apr 2026
+- murmur, Amsterdam · Sat, 14 Mar 2026
 
 ## Shares bills with
 

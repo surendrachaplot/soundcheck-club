@@ -1,8 +1,8 @@
 # Galcher Lustwerk
 
-Galcher Lustwerk is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mundos, Rhode-island on Fri, 2 Oct 2026.
+Galcher Lustwerk is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mundos, Rhode-island on Fri, 2 Oct 2026.
 
-Galcher Lustwerk is a house and techno artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Devoye, Bill Patrick and DJ Fart in the Club. Next up: Mundos, Rhode Island on Fri 2 Oct.
+Galcher Lustwerk is a house and techno artist based in United States of America, with 58 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 17 more. Often billed alongside Devoye, Bill Patrick and DJ Fart in the Club. Next up: Mundos, Rhode Island on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Galcher Lustwerk is a house and techno artist based in United States of America,
 
 ## Recently played
 
-- fabric, London — Sat, 12 Sept 2026
-- Haus der Visionäre, Berlin — Fri, 11 Sept 2026
-- Strange Brew, Bristol — Fri, 11 Sept 2026
-- TBA - Secret Location, New York City — Sat, 1 Aug 2026
-- Paragon, New York City — Sat, 11 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 27 Jun 2026
-- La Terrrazza, Barcelona — Fri, 26 Jun 2026
-- The White Hotel, Manchester — Fri, 19 Jun 2026
+- fabric, London · Sat, 12 Sept 2026
+- Haus der Visionäre, Berlin · Fri, 11 Sept 2026
+- Strange Brew, Bristol · Fri, 11 Sept 2026
+- TBA - Secret Location, New York City · Sat, 1 Aug 2026
+- Paragon, New York City · Sat, 11 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 27 Jun 2026
+- La Terrrazza, Barcelona · Fri, 26 Jun 2026
+- The White Hotel, Manchester · Fri, 19 Jun 2026
 
 ## Shares bills with
 

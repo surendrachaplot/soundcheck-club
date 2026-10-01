@@ -1,8 +1,8 @@
 # Bondo
 
-Bondo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
+Bondo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chicago Social Club, Amsterdam on Sat, 24 Oct 2026.
 
-Bondo is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Los Angeles, Miami and Munich and 1 more. Often billed alongside Bianca Lexis, Olive Kimoto and Orsay. Next up: Chicago Social Club, Amsterdam on Sat 24 Oct.
+Bondo is a house and techno artist based in United States of America, with 8 gigs on soundcheck across Amsterdam, Los Angeles, Miami and Munich and 1 more. Often billed alongside Bianca Lexis, Olive Kimoto and Orsay. Next up: Chicago Social Club, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Bondo is a house and techno artist based in United States of America, tracked on
 
 ## Recently played
 
-- Do Not Sit On The Furniture, Miami — Sat, 15 Nov 2025
-- Lodge Room, Los Angeles — Mon, 27 Oct 2025
-- Praterinsel, Munich — Sat, 7 Jun 2025
-- Silencio, Paris — Thu, 29 May 2025
-- Jungle Hollywood, Los Angeles — Wed, 25 Sept 2024
-- Zebulon, Los Angeles — Tue, 27 Jun 2023
-- Lodge Room, Los Angeles — Sat, 11 Mar 2023
+- Do Not Sit On The Furniture, Miami · Sat, 15 Nov 2025
+- Lodge Room, Los Angeles · Mon, 27 Oct 2025
+- Praterinsel, Munich · Sat, 7 Jun 2025
+- Silencio, Paris · Thu, 29 May 2025
+- Jungle Hollywood, Los Angeles · Wed, 25 Sept 2024
+- Zebulon, Los Angeles · Tue, 27 Jun 2023
+- Lodge Room, Los Angeles · Sat, 11 Mar 2023
 
 ## Shares bills with
 

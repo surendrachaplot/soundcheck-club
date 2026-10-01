@@ -1,6 +1,6 @@
 # DjRUM All Night at Nowadays
 
-DjRUM All Night at Nowadays on Fri 9 Oct, New York City. 1 artist on the bill: DjRUM. Bass and Experimental. Preview the line-up and save it on soundcheck.
+DjRUM All Night at Nowadays on Fri 9 Oct, New York City. 1 artist: DjRUM. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Music. Fashion. Brat. at Digital
 
-Music. Fashion. Brat. at Digital on Fri 9 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Music. Fashion. Brat. at Digital on Fri 9 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

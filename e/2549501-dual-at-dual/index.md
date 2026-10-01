@@ -1,6 +1,6 @@
 # DUAL at Dual
 
-DUAL at Dual on Sat 10 Oct, Bangkok. 2 artists on the bill: Neil E and Timur Basha. Breakbeat and Acid. Preview the line-up and save it on soundcheck.
+DUAL at Dual on Sat 10 Oct, Bangkok. 2 artists: Neil E and Timur Basha. Breakbeat and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

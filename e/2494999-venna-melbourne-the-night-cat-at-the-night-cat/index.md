@@ -1,6 +1,6 @@
 # VENNA - MELBOURNE - The Night Cat at The Night Cat
 
-VENNA - MELBOURNE - The Night Cat on Fri 20 Nov, Melbourne. Preview the line-up and save it on soundcheck.
+VENNA - MELBOURNE - The Night Cat on Fri 20 Nov, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

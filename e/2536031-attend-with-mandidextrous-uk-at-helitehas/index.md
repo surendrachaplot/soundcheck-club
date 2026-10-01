@@ -1,6 +1,6 @@
 # Attend with MANDIDEXTROUS (UK) at Helitehas
 
-Attend with MANDIDEXTROUS (UK) at Helitehas on Fri 27 Nov, Tallinn. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Attend with MANDIDEXTROUS (UK) at Helitehas on Fri 27 Nov, Tallinn. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # House Arrest - Salt og Dans Showcase at Bredouille
 
-House Arrest - Salt og Dans Showcase at Bredouille on Fri 9 Oct, Berlin. 3 artists on the bill: Max Reflex, Mechanick and Nikkel. House and Tech House. Preview the line-up and save it on soundcheck.
+House Arrest - Salt og Dans Showcase at Bredouille on Fri 9 Oct, Berlin. 3 artists: Max Reflex, Mechanick and Nikkel. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

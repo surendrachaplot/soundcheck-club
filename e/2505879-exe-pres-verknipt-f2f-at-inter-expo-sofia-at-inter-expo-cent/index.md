@@ -1,6 +1,6 @@
 # EXE pres. Verknipt & F2F at Inter Expo Sofia at Inter Expo Centre
 
-EXE pres. Verknipt & F2F at Inter Expo Sofia at Inter Expo Centre on Fri 16 Oct, Sofia. 12 artists on the bill: ALT8, BYØRN, Egor Sintsoff and Fantasm and 8 more. Preview the line-up and save it on soundcheck.
+EXE pres. Verknipt & F2F at Inter Expo Sofia at Inter Expo Centre on Fri 16 Oct, Sofia. 12 artists: ALT8, BYØRN, Egor Sintsoff and Fantasm and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

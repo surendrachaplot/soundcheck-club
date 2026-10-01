@@ -1,6 +1,6 @@
 # DDK_Shelter Seoul at Shelter
 
-DDK_Shelter Seoul on Sat 3 Oct, Seoul. 5 artists on the bill: DDK, Honn, JUNG(KR) and MOVIN.KR and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+DDK_Shelter Seoul on Sat 3 Oct, Seoul. 5 artists: DDK, Honn, JUNG(KR) and MOVIN.KR and 1 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

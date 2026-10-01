@@ -1,6 +1,6 @@
 # nacht at Faust
 
-nacht at Faust on Fri 2 Oct, Seoul. 5 artists on the bill: Kev, Marcus L, NUKiD and ROS3 and 1 more. Preview the line-up and save it on soundcheck.
+nacht at Faust on Fri 2 Oct, Seoul. 5 artists: Kev, Marcus L, NUKiD and ROS3 and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

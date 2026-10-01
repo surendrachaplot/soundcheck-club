@@ -1,6 +1,6 @@
 # Dance for David - Boulie Classics at Tempo
 
-Dance for David - Boulie Classics at Tempo on Sat 7 Nov, Glasgow. Trance. Preview the line-up and save it on soundcheck.
+Dance for David - Boulie Classics at Tempo on Sat 7 Nov, Glasgow. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

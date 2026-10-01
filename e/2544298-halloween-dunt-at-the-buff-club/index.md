@@ -1,6 +1,6 @@
 # HALLOWEEN DUNT at The Buff Club
 
-HALLOWEEN DUNT at The Buff Club on Sat 31 Oct, Glasgow. House and Club. Preview the line-up and save it on soundcheck.
+HALLOWEEN DUNT at The Buff Club on Sat 31 Oct, Glasgow. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

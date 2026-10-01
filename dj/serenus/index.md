@@ -1,8 +1,8 @@
 # Serenus
 
-Serenus is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Start.Bahn - Genezarethkirche, Berlin on Thu, 3 Dec 2026.
+Serenus is a Techno and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Start.Bahn - Genezarethkirche, Berlin on Thu, 3 Dec 2026.
 
-Serenus is a techno and minimal artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam and Berlin. Often billed alongside APRS, Am Nil and Calcium Channel. Next up: Start.Bahn - Genezarethkirche, Berlin on Thu 3 Dec.
+Serenus is a techno and minimal artist based in Germany, with 34 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside APRS, Am Nil and Calcium Channel. Next up: Start.Bahn - Genezarethkirche, Berlin on Thu 3 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Serenus is a techno and minimal artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Ikii, Berlin — Wed, 20 May 2026
-- TBA - Neuköln, Berlin — Fri, 15 May 2026
-- Genezareth-Kirche, Berlin — Thu, 12 Mar 2026
-- Tresor / Globus, Berlin — Wed, 4 Feb 2026
-- TBA - Neukölln, Berlin — Fri, 21 Nov 2025
-- Start.Bahn - Genezarethkirche, Berlin — Thu, 6 Nov 2025
-- Zwart Goud Record Store, Amsterdam — Wed, 22 Oct 2025
-- TBA - Neukölln, Berlin — Fri, 26 Sept 2025
+- Ikii, Berlin · Wed, 20 May 2026
+- TBA - Neuköln, Berlin · Fri, 15 May 2026
+- Genezareth-Kirche, Berlin · Thu, 12 Mar 2026
+- Tresor / Globus, Berlin · Wed, 4 Feb 2026
+- TBA - Neukölln, Berlin · Fri, 21 Nov 2025
+- Start.Bahn - Genezarethkirche, Berlin · Thu, 6 Nov 2025
+- Zwart Goud Record Store, Amsterdam · Wed, 22 Oct 2025
+- TBA - Neukölln, Berlin · Fri, 26 Sept 2025
 
 ## Shares bills with
 

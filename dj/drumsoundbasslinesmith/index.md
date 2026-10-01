@@ -1,8 +1,8 @@
 # Drumsound & Bassline Smith
 
-Drumsound & Bassline Smith is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bee Noir, Manchester on Sat, 14 Nov 2026.
+Drumsound & Bassline Smith is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bee Noir, Manchester on Sat, 14 Nov 2026.
 
-Drumsound & Bassline Smith are a drum & bass and jungle duo based in United Kingdom, tracked on soundcheck, with 13 sets logged across Brighton, London, Manchester and Prague and 1 more. Often billed alongside Grooverider, DJ SS and Ray Keith. Next up: Bee Noir, Manchester on Sat 14 Nov.
+Drumsound & Bassline Smith are a drum & bass and jungle duo based in United Kingdom, with 13 gigs on soundcheck across Brighton, London, Manchester and Prague and 1 more. Often billed alongside Grooverider, DJ SS and Ray Keith. Next up: Bee Noir, Manchester on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Drumsound & Bassline Smith are a drum & bass and jungle duo based in United King
 
 ## Recently played
 
-- Brixton Jamm, London — Fri, 6 Feb 2026
-- Volks, Brighton — Fri, 28 Nov 2025
-- E1, London — Sat, 20 Sept 2025
-- Cross Club, Prague — Fri, 12 Sept 2025
-- Ministry Of Sound, London — Fri, 7 Mar 2025
-- Brixton Jamm, London — Sat, 21 Dec 2024
-- Ministry Of Sound, London — Sat, 30 Nov 2024
-- Hootananny Brixton, London — Sat, 5 Oct 2024
+- Brixton Jamm, London · Fri, 6 Feb 2026
+- Volks, Brighton · Fri, 28 Nov 2025
+- E1, London · Sat, 20 Sept 2025
+- Cross Club, Prague · Fri, 12 Sept 2025
+- Ministry Of Sound, London · Fri, 7 Mar 2025
+- Brixton Jamm, London · Sat, 21 Dec 2024
+- Ministry Of Sound, London · Sat, 30 Nov 2024
+- Hootananny Brixton, London · Sat, 5 Oct 2024
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Riviera Beach Club
 
-Riviera Beach Club is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Bounce Melb X MMN presents TOPIC" on Sun, 1 Nov 2026.
+Riviera Beach Club is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bounce Melb X MMN presents TOPIC" on Sun, 1 Nov 2026.
 
-Riviera Beach Club is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including CHAMOS, Dj Bouncy, DJ Habibeats and Mowgli and 2 more. Browse upcoming dates, start times and who's playing. 42B Marine Parade, Elwood VIC 3184.
+Riviera Beach Club is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including CHAMOS, Dj Bouncy, DJ Habibeats and Mowgli and 2 more. See dates, start times and who's playing. 42B Marine Parade, Elwood VIC 3184.
 
 ## What's on
 

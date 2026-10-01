@@ -1,8 +1,8 @@
 # Shirley Temper
 
-Shirley Temper is a Jungle and Footwork artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Phonox, London on Thu, 8 Oct 2026.
+Shirley Temper is a Jungle and Footwork artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Phonox, London on Thu, 8 Oct 2026.
 
-Shirley Temper is a jungle and footwork artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Berlin, Brighton, Bristol and Leeds and 5 more. Often billed alongside PEPPA, Sleazebag and Samurai Breaks. Next up: Phonox, London on Thu 8 Oct.
+Shirley Temper is a jungle and footwork artist based in United Kingdom, with 76 gigs on soundcheck across Berlin, Brighton, Bristol and Leeds and 5 more. Often billed alongside PEPPA, Sleazebag and Samurai Breaks. Next up: Phonox, London on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Shirley Temper is a jungle and footwork artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- FORGE, Sheffield — Fri, 25 Sept 2026
-- Low Profile Studios, London — Sat, 19 Sept 2026
-- The Cause, London — Sun, 2 Aug 2026
-- Patterns, Brighton — Fri, 10 Jul 2026
-- Volks, Brighton — Fri, 29 May 2026
-- 24 Kitchen Street, Liverpool — Fri, 22 May 2026
-- Distillery N17, London — Fri, 15 May 2026
-- Beaver Works, Leeds — Sat, 9 May 2026
+- FORGE, Sheffield · Fri, 25 Sept 2026
+- Low Profile Studios, London · Sat, 19 Sept 2026
+- The Cause, London · Sun, 2 Aug 2026
+- Patterns, Brighton · Fri, 10 Jul 2026
+- Volks, Brighton · Fri, 29 May 2026
+- 24 Kitchen Street, Liverpool · Fri, 22 May 2026
+- Distillery N17, London · Fri, 15 May 2026
+- Beaver Works, Leeds · Sat, 9 May 2026
 
 ## Shares bills with
 

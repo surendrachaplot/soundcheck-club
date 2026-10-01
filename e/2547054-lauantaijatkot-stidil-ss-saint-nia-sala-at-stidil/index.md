@@ -1,6 +1,6 @@
 # Lauantaijatkot Stidilässä – Saint Nia & Sala at Stidilä
 
-Lauantaijatkot Stidilässä – Saint Nia & Sala on Sun 4 Oct, Helsinki. 1 artist on the bill: Saint Nia. Preview the line-up and save it on soundcheck.
+Lauantaijatkot Stidilässä – Saint Nia & Sala on Sun 4 Oct, Helsinki. 1 artist: Saint Nia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

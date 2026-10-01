@@ -1,6 +1,6 @@
 # [kju:t] at Tagada
 
-[kju:t] at Tagada on Fri 9 Oct, Vienna. 2 artists on the bill: Alexandra Marr and Reeno Reluv. House and Disco. Preview the line-up and save it on soundcheck.
+[kju:t] at Tagada on Fri 9 Oct, Vienna. 2 artists: Alexandra Marr and Reeno Reluv. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

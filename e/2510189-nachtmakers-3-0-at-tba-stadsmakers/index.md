@@ -1,6 +1,6 @@
 # NACHTMAKERS 3.0 at TBA - Stadsmakers
 
-NACHTMAKERS 3.0 at TBA - Stadsmakers on Sat 10 Oct, Ghent. Preview the line-up and save it on soundcheck.
+NACHTMAKERS 3.0 at TBA - Stadsmakers on Sat 10 Oct, Ghent. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

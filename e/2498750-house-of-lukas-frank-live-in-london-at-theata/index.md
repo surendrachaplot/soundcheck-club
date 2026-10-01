@@ -1,6 +1,6 @@
 # House of LUKAS & FRANK live in London at Theata
 
-House of LUKAS & FRANK live in London at Theata on Sat 28 Nov, London. 1 artist on the bill: LUKAS & FRANK. House and Afro House. Preview the line-up and save it on soundcheck.
+House of LUKAS & FRANK live in London at Theata on Sat 28 Nov, London. 1 artist: LUKAS & FRANK. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

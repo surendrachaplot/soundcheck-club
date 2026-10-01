@@ -1,6 +1,6 @@
 # Melodic House Rooftop Session – FUZIGER (EXE Audio) at Yodo Groove (Yodobashi Ikebukuro)
 
-Melodic House Rooftop Session – FUZIGER (EXE Audio) at Yodo Groove (Yodobashi Ikebukuro) on Sun 4 Oct, Tokyo. 2 artists on the bill: COCOLY and YURI VALEN. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Melodic House Rooftop Session – FUZIGER (EXE Audio) at Yodo Groove (Yodobashi Ikebukuro) on Sun 4 Oct, Tokyo. 2 artists: COCOLY and YURI VALEN. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Unreal x Rebels pres: Cloudy All Night Long at TBA
 
-Unreal x Rebels pres: Cloudy All Night Long at TBA on Fri 13 Nov, Bogot. 1 artist on the bill: Cloudy. Preview the line-up and save it on soundcheck.
+Unreal x Rebels pres: Cloudy All Night Long at TBA on Fri 13 Nov, Bogot. 1 artist: Cloudy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

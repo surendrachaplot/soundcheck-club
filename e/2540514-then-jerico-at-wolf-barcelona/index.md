@@ -1,6 +1,6 @@
 # Then Jerico at WOLF Barcelona
 
-Then Jerico at WOLF Barcelona on Wed 7 Oct, Barcelona. New Wave. Preview the line-up and save it on soundcheck.
+Then Jerico at WOLF Barcelona on Wed 7 Oct, Barcelona. New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

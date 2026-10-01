@@ -1,6 +1,6 @@
 # xtatic dance rave at Kauz
 
-xtatic dance rave at Kauz on Wed 28 Oct, Zurich. Preview the line-up and save it on soundcheck.
+xtatic dance rave at Kauz on Wed 28 Oct, Zurich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dirtyphonics (NYC) at The Woodshop
 
-Dirtyphonics (NYC) at The Woodshop on Fri 13 Nov, New York City. 1 artist on the bill: Dirtyphonics. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Dirtyphonics (NYC) at The Woodshop on Fri 13 Nov, New York City. 1 artist: Dirtyphonics. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

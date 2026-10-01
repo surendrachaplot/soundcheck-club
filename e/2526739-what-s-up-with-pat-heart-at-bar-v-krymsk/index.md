@@ -1,6 +1,6 @@
 # What's UP with Pat Heart at Bar v Krymský
 
-What's UP with Pat Heart at Bar v Krymský on Fri 16 Oct, Prague. Deep House. Preview the line-up and save it on soundcheck.
+What's UP with Pat Heart at Bar v Krymský on Fri 16 Oct, Prague. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

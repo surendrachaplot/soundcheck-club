@@ -1,6 +1,6 @@
 # The Cause x 2026: CRACKER - A Winter Festival at The Cause
 
-The Cause x 2026: CRACKER - A Winter Festival on Sat 5 Dec, London. Preview the line-up and save it on soundcheck.
+The Cause x 2026: CRACKER - A Winter Festival on Sat 5 Dec, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 2 Guys 1 Dub at elipamanoke
 
-2 Guys 1 Dub at elipamanoke on Sat 10 Oct, Leipzig. Drum & Bass. Preview the line-up and save it on soundcheck.
+2 Guys 1 Dub at elipamanoke on Sat 10 Oct, Leipzig. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

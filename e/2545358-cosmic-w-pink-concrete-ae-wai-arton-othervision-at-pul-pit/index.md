@@ -1,6 +1,6 @@
 # Cosmic w Pink Concrete, AE.WAI, Arton, OtherVision at pul.pit
 
-Cosmic w Pink Concrete, AE.WAI, Arton, OtherVision at pul.pit on Fri 16 Oct, Brno. 3 artists on the bill: AE.WAI, Arton (CZ) and Pink Concrete. Preview the line-up and save it on soundcheck.
+Cosmic w Pink Concrete, AE.WAI, Arton, OtherVision at pul.pit on Fri 16 Oct, Brno. 3 artists: AE.WAI, Arton (CZ) and Pink Concrete. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

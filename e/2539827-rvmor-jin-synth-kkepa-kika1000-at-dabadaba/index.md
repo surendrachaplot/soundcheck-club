@@ -1,6 +1,6 @@
 # Rvmor: Jin Synth + kkepa + KIKA1000 at Dabadaba
 
-Rvmor: Jin Synth + kkepa + KIKA1000 at Dabadaba on Sat 17 Oct, North. 3 artists on the bill: Jin Synth, KIKA1000 and kkepa. Preview the line-up and save it on soundcheck.
+Rvmor: Jin Synth + kkepa + KIKA1000 at Dabadaba on Sat 17 Oct, North. 3 artists: Jin Synth, KIKA1000 and kkepa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

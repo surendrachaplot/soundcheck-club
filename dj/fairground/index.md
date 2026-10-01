@@ -1,8 +1,8 @@
 # fairground
 
-fairground is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Grow, London on Fri, 30 Oct 2026.
+fairground is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grow, London on Fri, 30 Oct 2026.
 
-fairground is a house and disco artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London. Often billed alongside Hemlin, Tom G and arnie. Next up: Grow, London on Fri 30 Oct.
+fairground is a house and disco artist based in United Kingdom, with 16 gigs on soundcheck across London. Often billed alongside Hemlin, Tom G and arnie. Next up: Grow, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ fairground is a house and disco artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Grow, London — Fri, 31 Jul 2026
-- Grow, London — Fri, 24 Apr 2026
-- Grow, London — Fri, 13 Feb 2026
-- Grow, London — Fri, 31 Oct 2025
-- Grow, London — Fri, 1 Aug 2025
-- Grow, London — Fri, 25 Apr 2025
-- Grow, London — Fri, 14 Feb 2025
-- Grow, London — Fri, 1 Nov 2024
+- Grow, London · Fri, 31 Jul 2026
+- Grow, London · Fri, 24 Apr 2026
+- Grow, London · Fri, 13 Feb 2026
+- Grow, London · Fri, 31 Oct 2025
+- Grow, London · Fri, 1 Aug 2025
+- Grow, London · Fri, 25 Apr 2025
+- Grow, London · Fri, 14 Feb 2025
+- Grow, London · Fri, 1 Nov 2024
 
 ## Shares bills with
 

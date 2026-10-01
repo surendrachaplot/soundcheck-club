@@ -1,6 +1,6 @@
 # Altruism Label Night with Onlynumbers / Toxic Machinery / SLVL / USH at Complex Maastricht
 
-Altruism Label Night with Onlynumbers / Toxic Machinery / SLVL / USH at Complex Maastricht on Sat 21 Nov, Netherlands. 1 artist on the bill: SLVL. Preview the line-up and save it on soundcheck.
+Altruism Label Night with Onlynumbers / Toxic Machinery / SLVL / USH at Complex Maastricht on Sat 21 Nov, Netherlands. 1 artist: SLVL. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

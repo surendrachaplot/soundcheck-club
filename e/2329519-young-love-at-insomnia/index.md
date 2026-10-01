@@ -1,6 +1,6 @@
 # YOUNG LOVE at Insomnia
 
-YOUNG LOVE at Insomnia on Fri 11 Dec, Berlin. Techno and Tech House. Preview the line-up and save it on soundcheck.
+YOUNG LOVE at Insomnia on Fri 11 Dec, Berlin. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

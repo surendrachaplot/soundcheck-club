@@ -1,6 +1,6 @@
 # Signum at The Room
 
-Signum at The Room on Sun 4 Oct, Tokyo. 3 artists on the bill: AMARI, AOI BLOOM and cosmolady. Techno and House. Preview the line-up and save it on soundcheck.
+Signum at The Room on Sun 4 Oct, Tokyo. 3 artists: AMARI, AOI BLOOM and cosmolady. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

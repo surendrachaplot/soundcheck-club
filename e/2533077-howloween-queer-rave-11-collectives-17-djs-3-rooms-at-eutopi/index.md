@@ -1,6 +1,6 @@
 # HOWLOWEEN Queer Rave: 11 collectives, 17 DJs, 3 rooms at Eutopia Warehouse
 
-HOWLOWEEN Queer Rave: 11 collectives, 17 DJs, 3 rooms at Eutopia Warehouse on Fri 30 Oct, London. 10 artists on the bill: Elkka, Gloria Rose, HEZEN and Iyesha and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+HOWLOWEEN Queer Rave: 11 collectives, 17 DJs, 3 rooms at Eutopia Warehouse on Fri 30 Oct, London. 10 artists: Elkka, Gloria Rose, HEZEN and Iyesha and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

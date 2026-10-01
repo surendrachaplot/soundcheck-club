@@ -1,6 +1,6 @@
 # espresso space club III - rings of saturn at Kauz
 
-espresso space club III - rings of saturn at Kauz on Sun 25 Oct, Zurich. 6 artists on the bill: Eli Verveine, Elsa (CH), fabulus and molekühl and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+espresso space club III - rings of saturn at Kauz on Sun 25 Oct, Zurich. 6 artists: Eli Verveine, Elsa (CH), fabulus and molekühl and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

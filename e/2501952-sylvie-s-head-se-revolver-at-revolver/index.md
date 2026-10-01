@@ -1,6 +1,6 @@
 # Sylvie's Head (SE) // Revolver at Revolver
 
-Sylvie's Head (SE) // Revolver on Fri 23 Oct, Oslo. Preview the line-up and save it on soundcheck.
+Sylvie's Head (SE) // Revolver on Fri 23 Oct, Oslo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # CHEWCHEW
 
-CHEWCHEW is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+CHEWCHEW is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-CHEWCHEW is a house and disco artist based in Belarus, tracked on soundcheck, with 68 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 16 more. Often billed alongside Ajuma, Mikey Gee and DJ Aficionado. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+CHEWCHEW is a house and disco artist based in Belarus, with 68 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 16 more. Often billed alongside Ajuma, Mikey Gee and DJ Aficionado. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ CHEWCHEW is a house and disco artist based in Belarus, tracked on soundcheck, wi
 
 ## Recently played
 
-- MS Stubnitz, Hamburg — Fri, 25 Sept 2026
-- NAR, Utrecht — Fri, 31 Jul 2026
-- TBA - Somewhere in Berlin, Berlin — Fri, 26 Jun 2026
-- arkaoda Berlin, Berlin — Fri, 29 May 2026
-- TBA, Istanbul — Sat, 16 May 2026
-- Goldener Reiter, Munich — Fri, 10 Apr 2026
-- Marmorbar, Berlin — Sat, 4 Apr 2026
-- Renate, Berlin — Fri, 3 Apr 2026
+- MS Stubnitz, Hamburg · Fri, 25 Sept 2026
+- NAR, Utrecht · Fri, 31 Jul 2026
+- TBA - Somewhere in Berlin, Berlin · Fri, 26 Jun 2026
+- arkaoda Berlin, Berlin · Fri, 29 May 2026
+- TBA, Istanbul · Sat, 16 May 2026
+- Goldener Reiter, Munich · Fri, 10 Apr 2026
+- Marmorbar, Berlin · Sat, 4 Apr 2026
+- Renate, Berlin · Fri, 3 Apr 2026
 
 ## Shares bills with
 

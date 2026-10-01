@@ -1,6 +1,6 @@
 # Claydrum presents Nico Moreno / Carla Schmitt / Melvin Spix at Complex Maastricht
 
-Claydrum presents Nico Moreno / Carla Schmitt / Melvin Spix at Complex Maastricht on Fri 27 Nov, Netherlands. 2 artists on the bill: Carla Schmitt and Nico Moreno. Preview the line-up and save it on soundcheck.
+Claydrum presents Nico Moreno / Carla Schmitt / Melvin Spix at Complex Maastricht on Fri 27 Nov, Netherlands. 2 artists: Carla Schmitt and Nico Moreno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

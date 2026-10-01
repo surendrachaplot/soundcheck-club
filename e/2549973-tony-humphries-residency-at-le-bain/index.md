@@ -1,6 +1,6 @@
 # Tony Humphries' RESIDENCY at Le Bain
 
-Tony Humphries' RESIDENCY at Le Bain on Sat 10 Oct, New York City. 1 artist on the bill: Tony Humphries. Preview the line-up and save it on soundcheck.
+Tony Humphries' RESIDENCY at Le Bain on Sat 10 Oct, New York City. 1 artist: Tony Humphries. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

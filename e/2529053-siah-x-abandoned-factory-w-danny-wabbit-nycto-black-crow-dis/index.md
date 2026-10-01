@@ -1,6 +1,6 @@
 # SIAH x Abandoned Factory w/ Danny Wabbit, NYCTO, BLACK CROW, Distorted Planet at Bunker
 
-SIAH x Abandoned Factory w/ Danny Wabbit, NYCTO, BLACK CROW, Distorted Planet at Bunker on Sat 17 Oct, Turin. 4 artists on the bill: BLACK CROW, Danny Wabbit, Distorted Planet and NYCTO. Techno. Preview the line-up and save it on soundcheck.
+SIAH x Abandoned Factory w/ Danny Wabbit, NYCTO, BLACK CROW, Distorted Planet at Bunker on Sat 17 Oct, Turin. 4 artists: BLACK CROW, Danny Wabbit, Distorted Planet and NYCTO. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

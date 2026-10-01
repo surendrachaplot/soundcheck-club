@@ -1,6 +1,6 @@
 # Klubnacht at Berghain | Panorama Bar | Säule
 
-Klubnacht at Berghain | Panorama Bar | Säule on Sat 24 Oct, Berlin. 14 artists on the bill: Amanda Mussi, Chami, Don Williams and Elisa Bee and 10 more. Preview the line-up and save it on soundcheck.
+Klubnacht at Berghain | Panorama Bar | Säule on Sat 24 Oct, Berlin. 14 artists: Amanda Mussi, Chami, Don Williams and Elisa Bee and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

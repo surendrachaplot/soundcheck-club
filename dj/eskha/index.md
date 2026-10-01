@@ -1,8 +1,8 @@
 # Eskha
 
-Eskha is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Toronto on Sat, 3 Oct 2026.
+Eskha is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Toronto on Sat, 3 Oct 2026.
 
-Eskha is a techno and trance artist based in France, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin, Brussels and Dublin and 9 more. Often billed alongside Kichta, 1luu and Aureb. Next up: TBA, Toronto on Sat 3 Oct.
+Eskha is a techno and trance artist based in France, with 51 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 9 more. Often billed alongside Kichta, 1luu and Aureb. Next up: TBA, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Eskha is a techno and trance artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
-- Wigwam, Dublin — Fri, 25 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
-- Plage Privée Parc de Miribel, Lyon — Mon, 13 Jul 2026
-- Lokschuppen Berlin, Berlin — Fri, 10 Jul 2026
-- Vélodrome National de Saint-Quentin-en-Yvelines, Paris — Sat, 20 Jun 2026
-- Lokschuppen Berlin, Berlin — Fri, 1 May 2026
-- Lokschuppen Berlin, Berlin — Sat, 14 Mar 2026
-- Circus Osaka, Osaka — Sat, 7 Feb 2026
+- Wigwam, Dublin · Fri, 25 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 21 Aug 2026
+- Plage Privée Parc de Miribel, Lyon · Mon, 13 Jul 2026
+- Lokschuppen Berlin, Berlin · Fri, 10 Jul 2026
+- Vélodrome National de Saint-Quentin-en-Yvelines, Paris · Sat, 20 Jun 2026
+- Lokschuppen Berlin, Berlin · Fri, 1 May 2026
+- Lokschuppen Berlin, Berlin · Sat, 14 Mar 2026
+- Circus Osaka, Osaka · Sat, 7 Feb 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # The Beauty Witch presents: Dagmar Zuniga at The White Hotel
 
-The Beauty Witch presents: Dagmar Zuniga at The White Hotel on Tue 6 Oct, Manchester. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+The Beauty Witch presents: Dagmar Zuniga at The White Hotel on Tue 6 Oct, Manchester. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

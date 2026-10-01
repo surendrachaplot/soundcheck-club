@@ -1,6 +1,6 @@
 # RESTRICTED at Russell Industrial Center
 
-RESTRICTED at Russell Industrial Center on Fri 16 Oct, Detroit. Techno. Preview the line-up and save it on soundcheck.
+RESTRICTED at Russell Industrial Center on Fri 16 Oct, Detroit. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FREE TICKETS + FREE DRINK - RnB, Afrohouse, Latin House, Reggaeton, Pop - MOTIVE PARTY at Egg London
 
-FREE TICKETS + FREE DRINK - RnB, Afrohouse, Latin House, Reggaeton, Pop - MOTIVE PARTY at Egg London on Sat 17 Oct, London. R&B and Reggaeton. Preview the line-up and save it on soundcheck.
+FREE TICKETS + FREE DRINK - RnB, Afrohouse, Latin House, Reggaeton, Pop - MOTIVE PARTY at Egg London on Sat 17 Oct, London. R&B and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

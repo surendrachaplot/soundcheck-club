@@ -1,8 +1,8 @@
 # David Guetta
 
-David Guetta is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at [UNVRS], Ibiza on Fri, 2 Oct 2026.
+David Guetta is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at [UNVRS], Ibiza on Fri, 2 Oct 2026.
 
-David Guetta is a house and progressive house artist based in France, tracked on soundcheck, with 152 sets logged across Frankfurt, Geneva, Ibiza and London and 3 more. Often billed alongside Paul Reynolds, Meduza and James Hype (UK). Next up: [UNVRS], Ibiza on Fri 2 Oct.
+David Guetta is a house and progressive house artist based in France, with 152 gigs on soundcheck across Frankfurt, Geneva, Ibiza and London and 3 more. Often billed alongside Paul Reynolds, Meduza and James Hype (UK). Next up: [UNVRS], Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ David Guetta is a house and progressive house artist based in France, tracked on
 
 ## Recently played
 
-- Ushuaïa Ibiza, Ibiza — Mon, 28 Sept 2026
-- [UNVRS], Ibiza — Fri, 25 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Mon, 21 Sept 2026
-- [UNVRS], Ibiza — Fri, 18 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Mon, 14 Sept 2026
-- [UNVRS], Ibiza — Fri, 11 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Mon, 7 Sept 2026
-- [UNVRS], Ibiza — Fri, 4 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Mon, 28 Sept 2026
+- [UNVRS], Ibiza · Fri, 25 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Mon, 21 Sept 2026
+- [UNVRS], Ibiza · Fri, 18 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Mon, 14 Sept 2026
+- [UNVRS], Ibiza · Fri, 11 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Mon, 7 Sept 2026
+- [UNVRS], Ibiza · Fri, 4 Sept 2026
 
 ## Shares bills with
 

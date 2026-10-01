@@ -1,6 +1,6 @@
 # Club 77: Elias Mazian, Mazzacles at Club 77
 
-Club 77: Elias Mazian, Mazzacles on Sat 14 Nov, Sydney. 2 artists on the bill: Elias Mazian and Mazzacles. Techno and House. Preview the line-up and save it on soundcheck.
+Club 77: Elias Mazian, Mazzacles on Sat 14 Nov, Sydney. 2 artists: Elias Mazian and Mazzacles. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

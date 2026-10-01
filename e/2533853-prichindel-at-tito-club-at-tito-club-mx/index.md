@@ -1,6 +1,6 @@
 # Prichindel at Tito Club at Tito Club Mx
 
-Prichindel at Tito Club at Tito Club Mx on Fri 9 Oct, Guadalajara. 4 artists on the bill: ANGUIANO, IBID J, Jun and Prichindel. Preview the line-up and save it on soundcheck.
+Prichindel at Tito Club at Tito Club Mx on Fri 9 Oct, Guadalajara. 4 artists: ANGUIANO, IBID J, Jun and Prichindel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

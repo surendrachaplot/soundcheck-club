@@ -1,6 +1,6 @@
 # Supergloss at Smoke & Mirrors
 
-Supergloss at Smoke & Mirrors on Fri 9 Oct, Chicago. 3 artists on the bill: Abigail Grohmann, Supergloss and Tito Barbosa. Trance and Techno. Preview the line-up and save it on soundcheck.
+Supergloss at Smoke & Mirrors on Fri 9 Oct, Chicago. 3 artists: Abigail Grohmann, Supergloss and Tito Barbosa. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Club Culture UK presents: Gifta (UKG Set) at Mezzanine - Tooting
 
-Club Culture UK presents: Gifta (UKG Set) at Mezzanine - Tooting on Fri 20 Nov, London. Bass and Garage. Preview the line-up and save it on soundcheck.
+Club Culture UK presents: Gifta (UKG Set) at Mezzanine - Tooting on Fri 20 Nov, London. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Places We Go - Exhibition at Volta
 
-Places We Go - Exhibition at Volta on Fri 2 Oct, Stockholm. Experimental. Preview the line-up and save it on soundcheck.
+Places We Go - Exhibition at Volta on Fri 2 Oct, Stockholm. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

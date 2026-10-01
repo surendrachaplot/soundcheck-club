@@ -1,6 +1,6 @@
 # Tausend Electronica: CEEE at Tausend
 
-Tausend Electronica: CEEE on Thu 1 Oct, Berlin. 1 artist on the bill: CEEE. House. Preview the line-up and save it on soundcheck.
+Tausend Electronica: CEEE on Thu 1 Oct, Berlin. 1 artist: CEEE. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

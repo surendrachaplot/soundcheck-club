@@ -1,8 +1,8 @@
 # DJ Saratonin
 
-DJ Saratonin is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
+DJ Saratonin is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-DJ Saratonin is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 63 sets logged across Los Angeles, Philadelphia and San Francisco/Oakland. Often billed alongside Profesito, rainsdeaf and 40split. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 31 Oct.
+DJ Saratonin is a techno and hardcore artist based in United States of America, with 63 gigs on soundcheck across Los Angeles, Philadelphia and San Francisco/Oakland. Often billed alongside Profesito, rainsdeaf and 40split. Next up: F8 1192 Folsom, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Saratonin is a techno and hardcore artist based in United States of America, 
 
 ## Recently played
 
-- F8 1192 Folsom, San Francisco/Oakland — Sat, 5 Sept 2026
-- Public Works, San Francisco/Oakland — Fri, 4 Sept 2026
-- F8 1192 Folsom, San Francisco/Oakland — Sat, 29 Aug 2026
-- TBA - SECRET SF LOCATION, San Francisco/Oakland — Sat, 29 Aug 2026
-- TBA - SF Underground Punk Spot, San Francisco/Oakland — Fri, 28 Aug 2026
-- TBA - Secret SF Warehouse, San Francisco/Oakland — Fri, 3 Jul 2026
-- TBA, San Francisco/Oakland — Fri, 26 Jun 2026
-- TBA - SF Secret Location, San Francisco/Oakland — Sat, 30 May 2026
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 5 Sept 2026
+- Public Works, San Francisco/Oakland · Fri, 4 Sept 2026
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 29 Aug 2026
+- TBA - SECRET SF LOCATION, San Francisco/Oakland · Sat, 29 Aug 2026
+- TBA - SF Underground Punk Spot, San Francisco/Oakland · Fri, 28 Aug 2026
+- TBA - Secret SF Warehouse, San Francisco/Oakland · Fri, 3 Jul 2026
+- TBA, San Francisco/Oakland · Fri, 26 Jun 2026
+- TBA - SF Secret Location, San Francisco/Oakland · Sat, 30 May 2026
 
 ## Shares bills with
 

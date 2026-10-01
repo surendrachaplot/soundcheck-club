@@ -1,6 +1,6 @@
 # Polyamor x SESH at RAW- Lokschuppen + Astra Kulturhaus
 
-Polyamor x SESH at RAW- Lokschuppen + Astra Kulturhaus on Wed 30 Dec, Berlin. 32 artists on the bill: Alba Franch, Alex Friday, BNZN and Cara Elizabeth and 28 more. Preview the line-up and save it on soundcheck.
+Polyamor x SESH at RAW- Lokschuppen + Astra Kulturhaus on Wed 30 Dec, Berlin. 32 artists: Alba Franch, Alex Friday, BNZN and Cara Elizabeth and 28 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

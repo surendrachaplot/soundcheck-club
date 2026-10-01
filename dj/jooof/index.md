@@ -1,8 +1,8 @@
 # JOOOF
 
-JOOOF is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Cafeteria, Toronto on Fri, 23 Oct 2026.
+JOOOF is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cafeteria, Toronto on Fri, 23 Oct 2026.
 
-JOOOF is a tech house and techno artist based in Canada, tracked on soundcheck, with 7 sets logged across Toronto. Often billed alongside TR4CE, Donny Vega and Angelphroot. Next up: Cafeteria, Toronto on Fri 23 Oct.
+JOOOF is a tech house and techno artist based in Canada, with 7 gigs on soundcheck across Toronto. Often billed alongside TR4CE, Donny Vega and Angelphroot. Next up: Cafeteria, Toronto on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ JOOOF is a tech house and techno artist based in Canada, tracked on soundcheck, 
 
 ## Recently played
 
-- Soleil, Toronto — Sat, 15 Aug 2026
-- Cafeteria, Toronto — Sat, 6 Jun 2026
-- Bar Cathedral, Toronto — Sat, 25 Oct 2025
-- Future Nightlife, Toronto — Sat, 30 Aug 2025
-- Bar Cathedral, Toronto — Sat, 17 May 2025
-- Supermarket, Toronto — Fri, 20 Dec 2024
+- Soleil, Toronto · Sat, 15 Aug 2026
+- Cafeteria, Toronto · Sat, 6 Jun 2026
+- Bar Cathedral, Toronto · Sat, 25 Oct 2025
+- Future Nightlife, Toronto · Sat, 30 Aug 2025
+- Bar Cathedral, Toronto · Sat, 17 May 2025
+- Supermarket, Toronto · Fri, 20 Dec 2024
 
 ## Shares bills with
 

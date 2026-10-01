@@ -1,8 +1,8 @@
 # TBA - Private Location
 
-TBA - Private Location is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DISCOTECA 002" on Sat, 3 Oct 2026.
+TBA - Private Location is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DISCOTECA 002" on Sat, 3 Oct 2026.
 
-TBA - Private Location is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Aivilo, Angel Science, Bella Mode and Brendocha and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Private Location is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including Aivilo, Angel Science, Bella Mode and Brendocha and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # OK EG, Inês Duarte, Berberan, Nídia, DJ Narciso, Maki at Lux Fragil
 
-OK EG, Inês Duarte, Berberan, Nídia, DJ Narciso, Maki at Lux Fragil on Sat 31 Oct, Lisbon. 6 artists on the bill: DJ Narciso, Francisco Berberan, Inês Duarte and Maki and 2 more. Preview the line-up and save it on soundcheck.
+OK EG, Inês Duarte, Berberan, Nídia, DJ Narciso, Maki at Lux Fragil on Sat 31 Oct, Lisbon. 6 artists: DJ Narciso, Francisco Berberan, Inês Duarte and Maki and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

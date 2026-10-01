@@ -1,6 +1,6 @@
 # Amsterdam Nights: Hard Techno Halloween w/ Kento [BE], Robin Hastings [CL], PINELOPI [Gr] at John Doe
 
-Amsterdam Nights: Hard Techno Halloween w/ Kento [BE], Robin Hastings [CL], PINELOPI [Gr] at John Doe on Sat 31 Oct, Amsterdam. 4 artists on the bill: Djaygo T, Kento, PINELOPI and Robin Hastings. Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Nights: Hard Techno Halloween w/ Kento [BE], Robin Hastings [CL], PINELOPI [Gr] at John Doe on Sat 31 Oct, Amsterdam. 4 artists: Djaygo T, Kento, PINELOPI and Robin Hastings. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

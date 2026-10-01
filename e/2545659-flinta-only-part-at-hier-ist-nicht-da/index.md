@@ -1,6 +1,6 @@
 # Flinta Only Part at Hier ist Nicht da
 
-Flinta Only Part at Hier ist Nicht da on Sat 17 Oct, Gelsenkirchen Sud. Techno and Pop. Preview the line-up and save it on soundcheck.
+Flinta Only Part at Hier ist Nicht da on Sat 17 Oct, Gelsenkirchen Sud. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

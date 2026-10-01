@@ -1,8 +1,8 @@
 # Roof (2)
 
-Roof (2) is a Bass and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Café Schöne Aussichten (CSA), Hamburg on Sun, 25 Oct 2026.
+Roof (2) is a Bass and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Café Schöne Aussichten (CSA), Hamburg on Sun, 25 Oct 2026.
 
-Roof is a bass and pop artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Frankfurt, Hamburg and Leipzig. Often billed alongside yung_womb, Unfug Abla and DJ Babyblade. Next up: Café Schöne Aussichten (CSA), Hamburg on Sun 25 Oct.
+Roof is a bass and pop artist based in Germany, with 16 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Leipzig. Often billed alongside yung_womb, Unfug Abla and DJ Babyblade. Next up: Café Schöne Aussichten (CSA), Hamburg on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Roof is a bass and pop artist based in Germany, tracked on soundcheck, with 16 s
 
 ## Recently played
 
-- Golden Pudel Club, Hamburg — Sat, 19 Sept 2026
-- Golden Pudel Club, Hamburg — Thu, 3 Sept 2026
-- Golden Pudel Club, Hamburg — Sat, 22 Aug 2026
-- Golden Pudel Club, Hamburg — Sat, 22 Aug 2026
-- Fitzroy, Berlin — Sat, 18 Jul 2026
-- Golden Pudel Club, Hamburg — Thu, 16 Jul 2026
-- Fundbureau, Hamburg — Fri, 10 Jul 2026
-- MS Stubnitz, Hamburg — Fri, 15 May 2026
+- Golden Pudel Club, Hamburg · Sat, 19 Sept 2026
+- Golden Pudel Club, Hamburg · Thu, 3 Sept 2026
+- Golden Pudel Club, Hamburg · Sat, 22 Aug 2026
+- Golden Pudel Club, Hamburg · Sat, 22 Aug 2026
+- Fitzroy, Berlin · Sat, 18 Jul 2026
+- Golden Pudel Club, Hamburg · Thu, 16 Jul 2026
+- Fundbureau, Hamburg · Fri, 10 Jul 2026
+- MS Stubnitz, Hamburg · Fri, 15 May 2026
 
 ## Shares bills with
 

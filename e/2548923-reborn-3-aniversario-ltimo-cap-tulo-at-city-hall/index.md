@@ -1,6 +1,6 @@
 # REBORN · 3.º ANIVERSARIO · ÚLTIMO CAPÍTULO at City Hall
 
-REBORN · 3.º ANIVERSARIO · ÚLTIMO CAPÍTULO at City Hall on Sat 21 Nov, Barcelona. Hardcore. Preview the line-up and save it on soundcheck.
+REBORN · 3.º ANIVERSARIO · ÚLTIMO CAPÍTULO at City Hall on Sat 21 Nov, Barcelona. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

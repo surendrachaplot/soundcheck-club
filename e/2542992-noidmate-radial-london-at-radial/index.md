@@ -1,6 +1,6 @@
 # NOIDMATE - radial.london at radial
 
-NOIDMATE - radial.london on Sat 21 Nov, London. 1 artist on the bill: NOIDMATE. House and Garage. Preview the line-up and save it on soundcheck.
+NOIDMATE - radial.london on Sat 21 Nov, London. 1 artist: NOIDMATE. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

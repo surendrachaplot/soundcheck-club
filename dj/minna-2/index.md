@@ -1,8 +1,8 @@
 # MiNNA
 
-MiNNA is a House and Disco artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+MiNNA is a House and Disco artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-MiNNA is a house and disco artist based in United Kingdom, tracked on soundcheck, with 150 sets logged across Amsterdam, Antwerp, Barcelona and Bristol and 24 more. Often billed alongside Kirollus, Dan Shake and Horse Meat Disco. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+MiNNA is a house and disco artist based in United Kingdom, with 150 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bristol and 24 more. Often billed alongside Kirollus, Dan Shake and Horse Meat Disco. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ MiNNA is a house and disco artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Fri, 25 Sept 2026
-- Sub Club, Glasgow — Mon, 14 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- Amnesia Ibiza, Ibiza — Fri, 21 Aug 2026
-- 528 Ibiza, Ibiza — Tue, 18 Aug 2026
-- Ääniwalli, Helsinki — Fri, 14 Aug 2026
-- LN-CC, London — Thu, 6 Aug 2026
-- Cova Santa, Ibiza — Tue, 14 Jul 2026
+- Amnesia Ibiza, Ibiza · Fri, 25 Sept 2026
+- Sub Club, Glasgow · Mon, 14 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- Amnesia Ibiza, Ibiza · Fri, 21 Aug 2026
+- 528 Ibiza, Ibiza · Tue, 18 Aug 2026
+- Ääniwalli, Helsinki · Fri, 14 Aug 2026
+- LN-CC, London · Thu, 6 Aug 2026
+- Cova Santa, Ibiza · Tue, 14 Jul 2026
 
 ## Shares bills with
 

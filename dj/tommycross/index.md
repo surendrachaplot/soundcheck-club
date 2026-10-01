@@ -1,8 +1,8 @@
 # Tommy Cross
 
-Tommy Cross is a Dub Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 1520, Manchester on Sun, 4 Oct 2026.
+Tommy Cross is a Dub Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 1520, Manchester on Sun, 4 Oct 2026.
 
-Tommy Cross is a dub techno and house artist tracked on soundcheck, with 39 sets logged across Bristol, London, Manchester and Nottingham. Often billed alongside AdomasLP, MEMP3 and Ruf Dug. Next up: 1520, Manchester on Sun 4 Oct.
+Tommy Cross is a dub techno and house artist, with 39 gigs on soundcheck across Bristol, London, Manchester and Nottingham. Often billed alongside AdomasLP, MEMP3 and Ruf Dug. Next up: 1520, Manchester on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Tommy Cross is a dub techno and house artist tracked on soundcheck, with 39 sets
 
 ## Recently played
 
-- renae, Manchester — Tue, 29 Sept 2026
-- Bar Shrimp, Manchester — Sun, 9 Aug 2026
-- The Love Inn, Bristol — Thu, 16 Jul 2026
-- renae, Manchester — Tue, 30 Jun 2026
-- Honey Street Studio, Manchester — Fri, 12 Jun 2026
-- Soup, Manchester — Wed, 10 Jun 2026
-- Red Bull Pub - Stockport, Manchester — Thu, 28 May 2026
-- Soup, Manchester — Wed, 13 May 2026
+- renae, Manchester · Tue, 29 Sept 2026
+- Bar Shrimp, Manchester · Sun, 9 Aug 2026
+- The Love Inn, Bristol · Thu, 16 Jul 2026
+- renae, Manchester · Tue, 30 Jun 2026
+- Honey Street Studio, Manchester · Fri, 12 Jun 2026
+- Soup, Manchester · Wed, 10 Jun 2026
+- Red Bull Pub - Stockport, Manchester · Thu, 28 May 2026
+- Soup, Manchester · Wed, 13 May 2026
 
 ## Shares bills with
 

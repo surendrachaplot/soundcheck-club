@@ -1,8 +1,8 @@
 # Budino
 
-Budino is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Quinta do Miratejo, Lisbon on Sat, 3 Oct 2026.
+Budino is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Quinta do Miratejo, Lisbon on Sat, 3 Oct 2026.
 
-Budino is a house and techno artist based in Italy, tracked on soundcheck, with 160 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Massimiliano Pagliara, Gabrielle Kwarteng and Cormac. Next up: Quinta do Miratejo, Lisbon on Sat 3 Oct.
+Budino is a house and techno artist based in Italy, with 160 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 40 more. Often billed alongside Massimiliano Pagliara, Gabrielle Kwarteng and Cormac. Next up: Quinta do Miratejo, Lisbon on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Budino is a house and techno artist based in Italy, tracked on soundcheck, with 
 
 ## Recently played
 
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 19 Sept 2026
-- Kiku Room, San Diego — Thu, 10 Sept 2026
-- Good Room, New York City — Sun, 6 Sept 2026
-- Cabaret Sauvage, Paris — Sat, 22 Aug 2026
-- Buda BXL, Brussels — Sat, 8 Aug 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
-- Tunelowa, Warsaw — Sun, 5 Jul 2026
-- Karmakoma, Belgrade — Fri, 26 Jun 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
+- Kiku Room, San Diego · Thu, 10 Sept 2026
+- Good Room, New York City · Sun, 6 Sept 2026
+- Cabaret Sauvage, Paris · Sat, 22 Aug 2026
+- Buda BXL, Brussels · Sat, 8 Aug 2026
+- Ferropolis, Leipzig · Fri, 17 Jul 2026
+- Tunelowa, Warsaw · Sun, 5 Jul 2026
+- Karmakoma, Belgrade · Fri, 26 Jun 2026
 
 ## Shares bills with
 

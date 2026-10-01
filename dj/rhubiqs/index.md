@@ -1,8 +1,8 @@
 # rhubiqs
 
-rhubiqs is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Unitarian Church Shrewsbury, Birmingham on Sun, 29 Nov 2026.
+rhubiqs is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Unitarian Church Shrewsbury, Birmingham on Sun, 29 Nov 2026.
 
-rhubiqs is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Birmingham, Brighton, Leeds and London. Often billed alongside Black Arrows, Drum & Lace and Louf. Next up: Unitarian Church Shrewsbury, Birmingham on Sun 29 Nov.
+rhubiqs is an experimental and ambient artist based in United Kingdom, with 9 gigs on soundcheck across Birmingham, Brighton, Leeds and London. Often billed alongside Black Arrows, Drum & Lace and Louf. Next up: Unitarian Church Shrewsbury, Birmingham on Sun 29 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ rhubiqs is an experimental and ambient artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Spring Café Cockpit, London — Thu, 23 Jul 2026
-- New River Studios, London — Wed, 24 Jun 2026
-- SJQ, London — Thu, 16 Apr 2026
-- Centrala, Birmingham — Thu, 19 Mar 2026
-- The Rossi Bar, Brighton — Thu, 5 Feb 2026
-- The Old Church, London — Wed, 17 Dec 2025
-- Wharf Chambers, Leeds — Thu, 9 Oct 2025
-- SJQ, London — Sun, 8 Jun 2025
+- Spring Café Cockpit, London · Thu, 23 Jul 2026
+- New River Studios, London · Wed, 24 Jun 2026
+- SJQ, London · Thu, 16 Apr 2026
+- Centrala, Birmingham · Thu, 19 Mar 2026
+- The Rossi Bar, Brighton · Thu, 5 Feb 2026
+- The Old Church, London · Wed, 17 Dec 2025
+- Wharf Chambers, Leeds · Thu, 9 Oct 2025
+- SJQ, London · Sun, 8 Jun 2025
 
 ## Shares bills with
 

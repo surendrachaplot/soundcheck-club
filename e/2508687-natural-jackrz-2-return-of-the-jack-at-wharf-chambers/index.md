@@ -1,6 +1,6 @@
 # Natural Jackrz 2: Return of the Jack at Wharf Chambers
 
-Natural Jackrz 2: Return of the Jack at Wharf Chambers on Sat 17 Oct, Leeds. House and Acid. Preview the line-up and save it on soundcheck.
+Natural Jackrz 2: Return of the Jack at Wharf Chambers on Sat 17 Oct, Leeds. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

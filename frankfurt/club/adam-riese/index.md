@@ -1,8 +1,8 @@
 # Adam Riese
 
-Adam Riese is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Elysium x Adam Riese Frankfurt with MR TECHNO & BISHALBACHT" on Fri, 9 Oct 2026.
+Adam Riese is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Elysium x Adam Riese Frankfurt with MR TECHNO & BISHALBACHT" on Fri, 9 Oct 2026.
 
-Adam Riese is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including ADAN, Calamity, Lora and OKO. Browse upcoming dates, start times and who's playing. Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland.
+Adam Riese is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including ADAN, Calamity, Lora and OKO. See dates, start times and who's playing. Mainzer Landstraße 229, 60326 Frankfurt am Main, Deutschland.
 
 ## What's on
 

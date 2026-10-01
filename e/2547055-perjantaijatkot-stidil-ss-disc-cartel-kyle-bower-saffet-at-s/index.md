@@ -1,6 +1,6 @@
 # Perjantaijatkot Stidilässä – Disc Cartel, Kyle Bower, Saffet at Stidilä
 
-Perjantaijatkot Stidilässä – Disc Cartel, Kyle Bower, Saffet on Sat 10 Oct, Helsinki. 1 artist on the bill: Kyle Bower. Preview the line-up and save it on soundcheck.
+Perjantaijatkot Stidilässä – Disc Cartel, Kyle Bower, Saffet on Sat 10 Oct, Helsinki. 1 artist: Kyle Bower. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

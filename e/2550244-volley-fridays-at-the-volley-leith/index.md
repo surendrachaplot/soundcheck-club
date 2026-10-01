@@ -1,6 +1,6 @@
 # Volley Fridays at The Volley Leith
 
-Volley Fridays at The Volley Leith on Fri 2 Oct, Edinburgh. Preview the line-up and save it on soundcheck.
+Volley Fridays at The Volley Leith on Fri 2 Oct, Edinburgh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Danny Byrd
 
-Danny Byrd is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
+Danny Byrd is a Drum & Bass and Jungle artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Watsons EQ, Sydney on Sat, 3 Oct 2026.
 
-Danny Byrd is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Auckland, Birmingham and Brisbane and 15 more. Often billed alongside DJ SS, Bladerunner and Unglued. Next up: Watsons EQ, Sydney on Sat 3 Oct.
+Danny Byrd is a drum & bass and jungle artist based in United Kingdom, with 40 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brisbane and 15 more. Often billed alongside DJ SS, Bladerunner and Unglued. Next up: Watsons EQ, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Danny Byrd is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- The Jazz Cafe, London — Fri, 8 May 2026
-- Karma Live Music Venue, Washington DC — Sat, 14 Mar 2026
-- Quantum, New York City — Fri, 13 Mar 2026
-- Lofi, Amsterdam — Sat, 28 Feb 2026
-- Thekla, Bristol — Fri, 6 Feb 2026
-- Spin, San Diego — Fri, 23 Jan 2026
-- F8 1192 Folsom, San Francisco/Oakland — Sun, 18 Jan 2026
-- Chinese Laundry, Sydney — Fri, 21 Nov 2025
+- The Jazz Cafe, London · Fri, 8 May 2026
+- Karma Live Music Venue, Washington DC · Sat, 14 Mar 2026
+- Quantum, New York City · Fri, 13 Mar 2026
+- Lofi, Amsterdam · Sat, 28 Feb 2026
+- Thekla, Bristol · Fri, 6 Feb 2026
+- Spin, San Diego · Fri, 23 Jan 2026
+- F8 1192 Folsom, San Francisco/Oakland · Sun, 18 Jan 2026
+- Chinese Laundry, Sydney · Fri, 21 Nov 2025
 
 ## Shares bills with
 

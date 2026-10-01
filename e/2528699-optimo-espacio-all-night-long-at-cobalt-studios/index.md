@@ -1,6 +1,6 @@
 # Optimo (Espacio) All Night Long at Cobalt Studios
 
-Optimo (Espacio) All Night Long at Cobalt Studios on Sat 19 Dec, Newcastle. 1 artist on the bill: Optimo (Espacio). Preview the line-up and save it on soundcheck.
+Optimo (Espacio) All Night Long at Cobalt Studios on Sat 19 Dec, Newcastle. 1 artist: Optimo (Espacio). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

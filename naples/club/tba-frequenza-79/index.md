@@ -1,8 +1,8 @@
 # TBA - FREQUENZA 79
 
-TBA - FREQUENZA 79 is a music venue in Naples with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ULTRASOUND 03.10.2026" on Sat, 3 Oct 2026.
+TBA - FREQUENZA 79 is a music venue in Naples with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ULTRASOUND 03.10.2026" on Sat, 3 Oct 2026.
 
-TBA - FREQUENZA 79 is a music venue in Naples listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing.
+TBA - FREQUENZA 79 is a music venue in Naples listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Smolna: Pan Pot at Smolna
 
-Smolna: Pan Pot on Fri 20 Nov, Warsaw. 2 artists on the bill: Kuba Otlowski and Pan-Pot. Techno. Preview the line-up and save it on soundcheck.
+Smolna: Pan Pot on Fri 20 Nov, Warsaw. 2 artists: Kuba Otlowski and Pan-Pot. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

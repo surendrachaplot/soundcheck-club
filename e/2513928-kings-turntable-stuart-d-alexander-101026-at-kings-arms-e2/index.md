@@ -1,6 +1,6 @@
 # Kings Turntable: Stuart D Alexander [101026] at Kings Arms E2
 
-Kings Turntable: Stuart D Alexander [101026] at Kings Arms E2 on Sat 10 Oct, London. Krautrock and Post-Punk. Preview the line-up and save it on soundcheck.
+Kings Turntable: Stuart D Alexander [101026] at Kings Arms E2 on Sat 10 Oct, London. Krautrock and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

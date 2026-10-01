@@ -1,6 +1,6 @@
 # Step On: Britpop and Indie Sleaze at Alphaville
 
-Step On: Britpop and Indie Sleaze at Alphaville on Fri 9 Oct, New York City. 1 artist on the bill: Ivy Oh. Preview the line-up and save it on soundcheck.
+Step On: Britpop and Indie Sleaze at Alphaville on Fri 9 Oct, New York City. 1 artist: Ivy Oh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

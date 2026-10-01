@@ -1,6 +1,6 @@
 # HYPER IRONY at Shimokitazawa ERA
 
-HYPER IRONY at Shimokitazawa ERA on Sun 11 Oct, Tokyo. Industrial and Noise. Preview the line-up and save it on soundcheck.
+HYPER IRONY at Shimokitazawa ERA on Sun 11 Oct, Tokyo. Industrial and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

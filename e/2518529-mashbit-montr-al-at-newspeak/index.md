@@ -1,6 +1,6 @@
 # MashBit- Montréal at Newspeak
 
-MashBit- Montréal at Newspeak on Fri 9 Oct, Montreal. House and Electro. Preview the line-up and save it on soundcheck.
+MashBit- Montréal at Newspeak on Fri 9 Oct, Montreal. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VLCT x BOILER HOUSE pres. BIIA ALL NIGHT LONG at AUX Club
 
-VLCT x BOILER HOUSE pres. BIIA ALL NIGHT LONG at AUX Club on Sat 24 Oct, Athens. 1 artist on the bill: BIIA. Trance and Techno. Preview the line-up and save it on soundcheck.
+VLCT x BOILER HOUSE pres. BIIA ALL NIGHT LONG at AUX Club on Sat 24 Oct, Athens. 1 artist: BIIA. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

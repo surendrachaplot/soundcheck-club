@@ -1,8 +1,8 @@
 # Cosmo (NY)
 
-Cosmo (NY) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at public records, New York City on Sat, 10 Oct 2026.
+Cosmo (NY) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Sat, 10 Oct 2026.
 
-Cosmo (NY) is a house and techno artist based in United States of America, tracked on soundcheck, with 141 sets logged across Boston, Detroit, Montreal and New York City. Often billed alongside Eli Escobar, Donis and Mike Servito. Next up: public records, New York City on Sat 10 Oct.
+Cosmo (NY) is a house and techno artist based in United States of America, with 141 gigs on soundcheck across Boston, Detroit, Montreal and New York City. Often billed alongside Eli Escobar, Donis and Mike Servito. Next up: public records, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Cosmo (NY) is a house and techno artist based in United States of America, track
 
 ## Recently played
 
-- Industry City, New York City — Sat, 26 Sept 2026
-- Dead Letter No. 9, New York City — Sat, 19 Sept 2026
-- public records, New York City — Sat, 12 Sept 2026
-- Gabriela, New York City — Wed, 26 Aug 2026
-- Elsewhere, New York City — Sat, 22 Aug 2026
-- Knockdown Center, New York City — Fri, 21 Aug 2026
-- Jupiter Disco, New York City — Fri, 7 Aug 2026
-- Good Room, New York City — Sat, 1 Aug 2026
+- Industry City, New York City · Sat, 26 Sept 2026
+- Dead Letter No. 9, New York City · Sat, 19 Sept 2026
+- public records, New York City · Sat, 12 Sept 2026
+- Gabriela, New York City · Wed, 26 Aug 2026
+- Elsewhere, New York City · Sat, 22 Aug 2026
+- Knockdown Center, New York City · Fri, 21 Aug 2026
+- Jupiter Disco, New York City · Fri, 7 Aug 2026
+- Good Room, New York City · Sat, 1 Aug 2026
 
 ## Shares bills with
 

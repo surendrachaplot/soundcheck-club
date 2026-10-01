@@ -1,6 +1,6 @@
 # ALBERT JANE b2b HECTOR ENGLI at M7 Club
 
-ALBERT JANE b2b HECTOR ENGLI at M7 Club on Sat 17 Oct, Barcelona. Progressive House. Preview the line-up and save it on soundcheck.
+ALBERT JANE b2b HECTOR ENGLI at M7 Club on Sat 17 Oct, Barcelona. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

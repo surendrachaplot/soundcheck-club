@@ -1,6 +1,6 @@
 # III Points Satellite Party: Thursday Interception at Las Rosas
 
-III Points Satellite Party: Thursday Interception at Las Rosas on Thu 15 Oct, Miami. Preview the line-up and save it on soundcheck.
+III Points Satellite Party: Thursday Interception at Las Rosas on Thu 15 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

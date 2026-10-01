@@ -1,6 +1,6 @@
 # SHERELLE at Pisces
 
-SHERELLE at Pisces on Sat 10 Oct, Atlanta. 1 artist on the bill: SHERELLE. Preview the line-up and save it on soundcheck.
+SHERELLE at Pisces on Sat 10 Oct, Atlanta. 1 artist: SHERELLE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

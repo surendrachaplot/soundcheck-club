@@ -1,6 +1,6 @@
 # Reggaeton Paradise Rooftop Party – Lost in Paradise, Queens – Oct 03 at Lost in Paradise Rooftop
 
-Reggaeton Paradise Rooftop Party – Lost in Paradise, Queens – Oct 03 at Lost in Paradise Rooftop on Sat 3 Oct, New York City. Preview the line-up and save it on soundcheck.
+Reggaeton Paradise Rooftop Party – Lost in Paradise, Queens – Oct 03 at Lost in Paradise Rooftop on Sat 3 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

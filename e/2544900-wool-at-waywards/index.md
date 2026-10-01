@@ -1,6 +1,6 @@
 # Wool: at Waywards
 
-Wool: at Waywards on Fri 16 Oct, Sydney. House and Minimal. Preview the line-up and save it on soundcheck.
+Wool: at Waywards on Fri 16 Oct, Sydney. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

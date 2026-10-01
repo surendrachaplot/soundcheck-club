@@ -1,6 +1,6 @@
 # Bashment & Afrobeats - Shoreditch Party at The Lighthouse
 
-Bashment & Afrobeats - Shoreditch Party at The Lighthouse on Sat 7 Nov, London. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
+Bashment & Afrobeats - Shoreditch Party at The Lighthouse on Sat 7 Nov, London. Afrobeat and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

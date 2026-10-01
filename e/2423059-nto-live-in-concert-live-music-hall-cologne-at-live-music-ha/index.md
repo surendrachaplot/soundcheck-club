@@ -1,6 +1,6 @@
 # NTO live in concert @ Live Music Hall Cologne at Live Music Hall
 
-NTO live in concert @ Live Music Hall Cologne on Fri 13 Nov, Cologne. 3 artists on the bill: NTO, Prismode and Solvane. Techno. Preview the line-up and save it on soundcheck.
+NTO live in concert @ Live Music Hall Cologne on Fri 13 Nov, Cologne. 3 artists: NTO, Prismode and Solvane. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

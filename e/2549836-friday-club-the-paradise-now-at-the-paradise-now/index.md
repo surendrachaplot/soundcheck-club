@@ -1,6 +1,6 @@
 # FRIDAY CLUB - The Paradise Now at The Paradise Now
 
-FRIDAY CLUB - The Paradise Now on Fri 6 Nov, Düsseldorf. 1 artist on the bill: Dante T.. House. Preview the line-up and save it on soundcheck.
+FRIDAY CLUB - The Paradise Now on Fri 6 Nov, Düsseldorf. 1 artist: Dante T.. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

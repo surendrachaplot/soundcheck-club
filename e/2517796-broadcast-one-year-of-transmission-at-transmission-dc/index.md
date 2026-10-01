@@ -1,6 +1,6 @@
 # BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC
 
-BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC on Fri 2 Oct, Washington DC. 28 artists on the bill: Cadeem LaMarr, CalvoMusic, CFCF and Darling Cool and 24 more. Hardcore and Club. Preview the line-up and save it on soundcheck.
+BROADCAST: ONE YEAR OF TRANSMISSION at TRANSMISSION DC on Fri 2 Oct, Washington DC. 28 artists: Cadeem LaMarr, CalvoMusic, CFCF and Darling Cool and 24 more. Hardcore and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

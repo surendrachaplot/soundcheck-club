@@ -1,6 +1,6 @@
 # Le Clúb 'House, House fuckin House' at Conny Club
 
-Le Clúb 'House, House fuckin House' at Conny Club on Sat 28 Nov, Munster. 1 artist on the bill: Sven Kerkhoff. House. Preview the line-up and save it on soundcheck.
+Le Clúb 'House, House fuckin House' at Conny Club on Sat 28 Nov, Munster. 1 artist: Sven Kerkhoff. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

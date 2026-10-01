@@ -1,6 +1,6 @@
 # Pastry Selects - 7th Birthday at TBA
 
-Pastry Selects - 7th Birthday at TBA on Sat 28 Nov, London. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Pastry Selects - 7th Birthday at TBA on Sat 28 Nov, London. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Âme
 
-Âme is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
+Âme is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
 
-Âme is a techno and house artist based in Germany, tracked on soundcheck, with 368 sets logged across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
+Âme is a techno and house artist based in Germany, with 368 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Trikk, Jimi Jules and Dixon. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@
 
 ## Recently played
 
-- Pacha Ibiza, Ibiza — Sun, 27 Sept 2026
-- Grand Bizarre, Toronto — Sat, 19 Sept 2026
-- Gin Ling Way, Chinatown, Los Angeles — Sat, 19 Sept 2026
-- TBA - DTLA, Los Angeles — Sat, 19 Sept 2026
-- Stereo, Montreal — Sat, 19 Sept 2026
-- Sunset Park Rooftop, New York City — Fri, 18 Sept 2026
-- Public Works, San Francisco/Oakland — Fri, 18 Sept 2026
-- Volt Club Milano, Milan — Sat, 12 Sept 2026
+- Pacha Ibiza, Ibiza · Sun, 27 Sept 2026
+- Grand Bizarre, Toronto · Sat, 19 Sept 2026
+- Gin Ling Way, Chinatown, Los Angeles · Sat, 19 Sept 2026
+- TBA - DTLA, Los Angeles · Sat, 19 Sept 2026
+- Stereo, Montreal · Sat, 19 Sept 2026
+- Sunset Park Rooftop, New York City · Fri, 18 Sept 2026
+- Public Works, San Francisco/Oakland · Fri, 18 Sept 2026
+- Volt Club Milano, Milan · Sat, 12 Sept 2026
 
 ## Shares bills with
 

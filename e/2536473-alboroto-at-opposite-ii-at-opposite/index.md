@@ -1,6 +1,6 @@
 # alboroto at Opposite II at Opposite
 
-alboroto at Opposite II on Fri 30 Oct, Barcelona. House and Tech House. Preview the line-up and save it on soundcheck.
+alboroto at Opposite II on Fri 30 Oct, Barcelona. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

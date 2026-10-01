@@ -1,8 +1,8 @@
 # ANDRES CAPRA
 
-ANDRES CAPRA is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Otra Historia Club Cultural, Buenos Aires on Sat, 24 Oct 2026.
+ANDRES CAPRA is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Otra Historia Club Cultural, Buenos Aires on Sat, 24 Oct 2026.
 
-ANDRES CAPRA is an electronica and house artist based in Argentina, tracked on soundcheck, with 9 sets logged across Buenos Aires. Often billed alongside Berger Muzik, GEMMA and Mr. Fowks. Next up: Otra Historia Club Cultural, Buenos Aires on Sat 24 Oct.
+ANDRES CAPRA is an electronica and house artist based in Argentina, with 9 gigs on soundcheck across Buenos Aires. Often billed alongside Berger Muzik, GEMMA and Mr. Fowks. Next up: Otra Historia Club Cultural, Buenos Aires on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ANDRES CAPRA is an electronica and house artist based in Argentina, tracked on s
 
 ## Recently played
 
-- Otra Historia Club Cultural, Buenos Aires — Sat, 22 Aug 2026
-- Otra Historia Club Cultural, Buenos Aires — Sat, 13 Jun 2026
-- Otra Historia Club Cultural, Buenos Aires — Sat, 6 Dec 2025
-- La Cigale, Buenos Aires — Tue, 14 Oct 2025
-- Otra Historia Club Cultural, Buenos Aires — Fri, 18 Jul 2025
-- The Shamrock Bar & Basement, Buenos Aires — Fri, 20 Dec 2024
-- The Shamrock Bar & Basement, Buenos Aires — Fri, 6 Dec 2024
-- The Shamrock Bar & Basement, Buenos Aires — Fri, 4 Oct 2024
+- Otra Historia Club Cultural, Buenos Aires · Sat, 22 Aug 2026
+- Otra Historia Club Cultural, Buenos Aires · Sat, 13 Jun 2026
+- Otra Historia Club Cultural, Buenos Aires · Sat, 6 Dec 2025
+- La Cigale, Buenos Aires · Tue, 14 Oct 2025
+- Otra Historia Club Cultural, Buenos Aires · Fri, 18 Jul 2025
+- The Shamrock Bar & Basement, Buenos Aires · Fri, 20 Dec 2024
+- The Shamrock Bar & Basement, Buenos Aires · Fri, 6 Dec 2024
+- The Shamrock Bar & Basement, Buenos Aires · Fri, 4 Oct 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # 49 Katzen... tanzen auf'm Tisch at Kater
 
-49 Katzen... tanzen auf'm Tisch at Kater on Sat 28 Nov, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+49 Katzen... tanzen auf'm Tisch at Kater on Sat 28 Nov, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

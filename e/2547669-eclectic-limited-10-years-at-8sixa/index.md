@@ -1,6 +1,6 @@
 # Eclectic Limited · 10 Years at 8sixa
 
-Eclectic Limited · 10 Years at 8sixa on Fri 23 Oct, Amsterdam. 7 artists on the bill: 3Points, DJ Surgeles, Elisa Batti and Kenny Dahl and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Eclectic Limited · 10 Years at 8sixa on Fri 23 Oct, Amsterdam. 7 artists: 3Points, DJ Surgeles, Elisa Batti and Kenny Dahl and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

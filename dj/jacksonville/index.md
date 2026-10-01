@@ -1,8 +1,8 @@
 # Jacksonville
 
-Jacksonville is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Bongo Club, Edinburgh on Sat, 10 Oct 2026.
+Jacksonville is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 10 Oct 2026.
 
-Jacksonville is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Edinburgh. Often billed alongside Hobbes, Auntie Flo and Accident Machine. Next up: The Bongo Club, Edinburgh on Sat 10 Oct.
+Jacksonville is a house and techno artist based in United Kingdom, with 6 gigs on soundcheck across Edinburgh. Often billed alongside Hobbes, Auntie Flo and Accident Machine. Next up: The Bongo Club, Edinburgh on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Jacksonville is a house and techno artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- The Leith Depot, Edinburgh — Fri, 24 Jul 2026
-- The Safari Lounge, Edinburgh — Fri, 19 Dec 2025
-- The Bongo Club, Edinburgh — Sat, 26 Apr 2025
-- The Bongo Club, Edinburgh — Sat, 11 Nov 2023
-- The Bongo Club, Edinburgh — Sat, 25 Mar 2023
+- The Leith Depot, Edinburgh · Fri, 24 Jul 2026
+- The Safari Lounge, Edinburgh · Fri, 19 Dec 2025
+- The Bongo Club, Edinburgh · Sat, 26 Apr 2025
+- The Bongo Club, Edinburgh · Sat, 11 Nov 2023
+- The Bongo Club, Edinburgh · Sat, 25 Mar 2023
 
 ## Shares bills with
 

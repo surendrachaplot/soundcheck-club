@@ -1,6 +1,6 @@
 # #いいジュークの日 at TBA - Shimokitazawa
 
-#いいジュークの日 at TBA - Shimokitazawa on Thu 19 Nov, Tokyo. Footwork. Preview the line-up and save it on soundcheck.
+#いいジュークの日 at TBA - Shimokitazawa on Thu 19 Nov, Tokyo. Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

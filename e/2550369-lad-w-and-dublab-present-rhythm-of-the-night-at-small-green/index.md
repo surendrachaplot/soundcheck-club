@@ -1,6 +1,6 @@
 # LAD/W and dublab present RHYTHM OF THE NIGHT at Small Green Door
 
-LAD/W and dublab present RHYTHM OF THE NIGHT at Small Green Door on Sat 3 Oct, Los Angeles. 6 artists on the bill: ANTHNY GBRIEL, Chloëdees, Juliet Mendoza and Mamabear and 2 more. Preview the line-up and save it on soundcheck.
+LAD/W and dublab present RHYTHM OF THE NIGHT at Small Green Door on Sat 3 Oct, Los Angeles. 6 artists: ANTHNY GBRIEL, Chloëdees, Juliet Mendoza and Mamabear and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

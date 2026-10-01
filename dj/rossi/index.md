@@ -1,8 +1,8 @@
 # Rossi
 
-Rossi is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
+Rossi is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Milano, Milan on Sat, 3 Oct 2026.
 
-Rossi is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 239 sets logged across Amsterdam, Auckland, Austin and Barcelona and 49 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Amnesia Milano, Milan on Sat 3 Oct.
+Rossi is a house and tech house artist based in United Kingdom, with 239 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 49 more. Often billed alongside Josh Baker, Enzo Siragusa and Jamback. Next up: Amnesia Milano, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Rossi is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- DC-10, Ibiza — Mon, 28 Sept 2026
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- TBA - Ives Rd, London E16 4Sh, London — Sat, 19 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- NDSM Docklands, Amsterdam — Sun, 13 Sept 2026
-- TBA - Secret location announced only to ticket holders, Ibiza — Fri, 11 Sept 2026
-- [UNVRS], Ibiza — Wed, 9 Sept 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 29 Aug 2026
+- DC-10, Ibiza · Mon, 28 Sept 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- TBA - Ives Rd, London E16 4Sh, London · Sat, 19 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- NDSM Docklands, Amsterdam · Sun, 13 Sept 2026
+- TBA - Secret location announced only to ticket holders, Ibiza · Fri, 11 Sept 2026
+- [UNVRS], Ibiza · Wed, 9 Sept 2026
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 

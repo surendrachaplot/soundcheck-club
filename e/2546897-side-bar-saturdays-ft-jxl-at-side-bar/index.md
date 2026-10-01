@@ -1,6 +1,6 @@
 # Side Bar Saturdays ft. JXL at Side Bar
 
-Side Bar Saturdays ft. JXL on Sat 10 Oct, Sydney. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Side Bar Saturdays ft. JXL on Sat 10 Oct, Sydney. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

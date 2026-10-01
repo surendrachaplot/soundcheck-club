@@ -1,8 +1,8 @@
 # ROBOTRAN
 
-ROBOTRAN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Rose, New York City on Fri, 9 Oct 2026.
+ROBOTRAN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Rose, New York City on Fri, 9 Oct 2026.
 
-ROBOTRAN is a techno and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across New York City and San Francisco/Oakland. Often billed alongside SurfingDJs, FTZGRLD and DJ Sauci Soni. Next up: The Rose, New York City on Fri 9 Oct.
+ROBOTRAN is a techno and house artist based in United States of America, with 22 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside SurfingDJs, FTZGRLD and DJ Sauci Soni. Next up: The Rose, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ROBOTRAN is a techno and house artist based in United States of America, tracked
 
 ## Recently played
 
-- The Local NY, New York City — Fri, 14 Aug 2026
-- The Rose, New York City — Thu, 18 Jun 2026
-- The Rose, New York City — Thu, 4 Jun 2026
-- Decodance Bar, San Francisco/Oakland — Fri, 20 Mar 2026
-- Acoustik Garden Lounge, New York City — Fri, 13 Mar 2026
-- Acoustik Garden Lounge, New York City — Thu, 8 Jan 2026
-- Acoustik Garden Lounge, New York City — Thu, 8 Jan 2026
-- Acoustik Garden Lounge, New York City — Fri, 19 Dec 2025
+- The Local NY, New York City · Fri, 14 Aug 2026
+- The Rose, New York City · Thu, 18 Jun 2026
+- The Rose, New York City · Thu, 4 Jun 2026
+- Decodance Bar, San Francisco/Oakland · Fri, 20 Mar 2026
+- Acoustik Garden Lounge, New York City · Fri, 13 Mar 2026
+- Acoustik Garden Lounge, New York City · Thu, 8 Jan 2026
+- Acoustik Garden Lounge, New York City · Thu, 8 Jan 2026
+- Acoustik Garden Lounge, New York City · Fri, 19 Dec 2025
 
 ## Shares bills with
 

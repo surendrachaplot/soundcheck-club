@@ -1,8 +1,8 @@
 # TBA - San Francisco
 
-TBA - San Francisco is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Texture Summit Pres. Jex Opolis" on Sat, 24 Oct 2026.
+TBA - San Francisco is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Texture Summit Pres. Jex Opolis" on Sat, 24 Oct 2026.
 
-TBA - San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Amma Ateria, Innersha, Jex Opolis and Polar Inertia and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - San Francisco is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Amma Ateria, Innersha, Jex Opolis and Polar Inertia and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

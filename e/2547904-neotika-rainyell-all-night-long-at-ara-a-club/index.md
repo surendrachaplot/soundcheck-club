@@ -1,6 +1,6 @@
 # NEOTIKA: RAINYELL ALL NIGHT LONG at Araña Club
 
-NEOTIKA: RAINYELL ALL NIGHT LONG at Araña Club on Sat 24 Oct, Madrid. Trance and Techno. Preview the line-up and save it on soundcheck.
+NEOTIKA: RAINYELL ALL NIGHT LONG at Araña Club on Sat 24 Oct, Madrid. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

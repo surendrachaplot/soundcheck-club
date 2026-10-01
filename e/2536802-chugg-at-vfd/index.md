@@ -1,6 +1,6 @@
 # CHUGG at VFD
 
-CHUGG at VFD on Sat 14 Nov, London. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+CHUGG at VFD on Sat 14 Nov, London. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

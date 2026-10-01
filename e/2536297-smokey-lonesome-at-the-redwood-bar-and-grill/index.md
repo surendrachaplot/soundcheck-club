@@ -1,6 +1,6 @@
 # Smokey Lonesome at The Redwood Bar And Grill
 
-Smokey Lonesome at The Redwood Bar And Grill on Sun 4 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
+Smokey Lonesome at The Redwood Bar And Grill on Sun 4 Oct, Los Angeles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

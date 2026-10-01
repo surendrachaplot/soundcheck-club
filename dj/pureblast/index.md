@@ -1,8 +1,8 @@
 # Pureblast
 
-Pureblast is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
+Pureblast is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
 
-Pureblast is a techno and trance artist based in France, tracked on soundcheck, with 39 sets logged across Berlin, Bordeaux, Brisbane and Brussels and 15 more. Often billed alongside Audrey Danza, DJ Physical and Egna. Next up: Mains D'œuvres, Paris on Fri 2 Oct.
+Pureblast is a techno and trance artist based in France, with 39 gigs on soundcheck across Berlin, Bordeaux, Brisbane and Brussels and 15 more. Often billed alongside Audrey Danza, DJ Physical and Egna. Next up: Mains D'œuvres, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Pureblast is a techno and trance artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- Le Trabendo, Paris — Sat, 12 Sept 2026
-- OXI, Berlin — Fri, 17 Jul 2026
-- Luma Arles, Marseille — Tue, 7 Jul 2026
-- Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
-- Virage, Paris — Fri, 19 Jun 2026
-- Tokonoma Club, Frankfurt — Sat, 6 Jun 2026
-- Unité.22, Marseille — Sat, 30 May 2026
-- ÆDEN, Berlin — Sat, 23 May 2026
+- Le Trabendo, Paris · Sat, 12 Sept 2026
+- OXI, Berlin · Fri, 17 Jul 2026
+- Luma Arles, Marseille · Tue, 7 Jul 2026
+- Hackney Wick Multiple Venues, London · Sat, 4 Jul 2026
+- Virage, Paris · Fri, 19 Jun 2026
+- Tokonoma Club, Frankfurt · Sat, 6 Jun 2026
+- Unité.22, Marseille · Sat, 30 May 2026
+- ÆDEN, Berlin · Sat, 23 May 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Waajeed
 
-Waajeed is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Jaeger, Oslo on Fri, 2 Oct 2026.
+Waajeed is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jaeger, Oslo on Fri, 2 Oct 2026.
 
-Waajeed is a house and techno artist based in United States of America, tracked on soundcheck, with 70 sets logged across Austin, Bali, Bangkok and Barcelona and 24 more. Often billed alongside LADYMONIX, Carl Craig and DJ Holographic. Next up: Jaeger, Oslo on Fri 2 Oct.
+Waajeed is a house and techno artist based in United States of America, with 70 gigs on soundcheck across Austin, Bali, Bangkok and Barcelona and 24 more. Often billed alongside LADYMONIX, Carl Craig and DJ Holographic. Next up: Jaeger, Oslo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Waajeed is a house and techno artist based in United States of America, tracked 
 
 ## Recently played
 
-- TBA - Los Angeles, Los Angeles — Fri, 19 Jun 2026
-- El Club, Detroit — Mon, 25 May 2026
-- Lincoln Factory, Detroit — Sat, 23 May 2026
-- Spot Lite Detroit, Detroit — Sat, 23 May 2026
-- Centre PHI, Montreal — Fri, 15 May 2026
-- TBA - MJ’s North End Ice Cream Parlor, Detroit — Fri, 1 May 2026
-- The Jama, Toronto — Sat, 28 Feb 2026
-- Aracely Cafe, San Francisco/Oakland — Sat, 21 Feb 2026
+- TBA - Los Angeles, Los Angeles · Fri, 19 Jun 2026
+- El Club, Detroit · Mon, 25 May 2026
+- Lincoln Factory, Detroit · Sat, 23 May 2026
+- Spot Lite Detroit, Detroit · Sat, 23 May 2026
+- Centre PHI, Montreal · Fri, 15 May 2026
+- TBA - MJ’s North End Ice Cream Parlor, Detroit · Fri, 1 May 2026
+- The Jama, Toronto · Sat, 28 Feb 2026
+- Aracely Cafe, San Francisco/Oakland · Sat, 21 Feb 2026
 
 ## Shares bills with
 

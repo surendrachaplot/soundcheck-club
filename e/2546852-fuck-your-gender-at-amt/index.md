@@ -1,6 +1,6 @@
 # FUCK YOUR GENDER at AMT
 
-FUCK YOUR GENDER at AMT on Fri 9 Oct, Berlin. Techno and Industrial. Preview the line-up and save it on soundcheck.
+FUCK YOUR GENDER at AMT on Fri 9 Oct, Berlin. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

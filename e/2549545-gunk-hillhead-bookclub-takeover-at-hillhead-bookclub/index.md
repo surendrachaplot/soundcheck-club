@@ -1,6 +1,6 @@
 # Gunk - Hillhead Bookclub Takeover at Hillhead Bookclub
 
-Gunk - Hillhead Bookclub Takeover on Fri 2 Oct, Glasgow. 2 artists on the bill: Corran and Marky Marbles. House and Garage. Preview the line-up and save it on soundcheck.
+Gunk - Hillhead Bookclub Takeover on Fri 2 Oct, Glasgow. 2 artists: Corran and Marky Marbles. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Palais x DAYTIMERS at Palais
 
-Palais x DAYTIMERS on Fri 20 Nov, London. Preview the line-up and save it on soundcheck.
+Palais x DAYTIMERS on Fri 20 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

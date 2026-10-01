@@ -1,6 +1,6 @@
 # fieldtest: DJ Koolt, Naone at Public Works
 
-fieldtest: DJ Koolt, Naone at Public Works on Fri 6 Nov, San Francisco/Oakland. 3 artists on the bill: DJ Koolt, Milli Meng and Naone. Techno and House. Preview the line-up and save it on soundcheck.
+fieldtest: DJ Koolt, Naone at Public Works on Fri 6 Nov, San Francisco/Oakland. 3 artists: DJ Koolt, Milli Meng and Naone. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

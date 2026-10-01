@@ -1,8 +1,8 @@
 # Locky
 
-Locky is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Komedia Bath, West-wales on Thu, 1 Oct 2026.
+Locky is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Komedia Bath, West-wales on Thu, 1 Oct 2026.
 
-Locky is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Belgrade and Birmingham and 30 more. Often billed alongside Mad.Again, Luke Dean_ and Liam Palmer. Next up: Komedia Bath, West Wales on Thu 1 Oct.
+Locky is a house and tech house artist based in United Kingdom, with 152 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Birmingham and 30 more. Often billed alongside Mad.Again, Luke Dean_ and Liam Palmer. Next up: Komedia Bath, West Wales on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Locky is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Nine Lives, Malta — Wed, 30 Sept 2026
-- Blackstone Street Warehouse, Liverpool — Sat, 26 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- [UNVRS], Ibiza — Wed, 16 Sept 2026
-- Beach House San Diego, San Diego — Sun, 13 Sept 2026
-- Descent, Boston — Sat, 12 Sept 2026
-- Descent, Boston — Sat, 12 Sept 2026
+- Nine Lives, Malta · Wed, 30 Sept 2026
+- Blackstone Street Warehouse, Liverpool · Sat, 26 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- [UNVRS], Ibiza · Wed, 16 Sept 2026
+- Beach House San Diego, San Diego · Sun, 13 Sept 2026
+- Descent, Boston · Sat, 12 Sept 2026
+- Descent, Boston · Sat, 12 Sept 2026
 
 ## Shares bills with
 

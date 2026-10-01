@@ -1,6 +1,6 @@
 # Disco presents: Metalheadz at Ductwork Dallas
 
-Disco presents: Metalheadz at Ductwork Dallas on Thu 10 Dec, Dallas Fort Worth. 2 artists on the bill: Diverge and Goldie. Preview the line-up and save it on soundcheck.
+Disco presents: Metalheadz at Ductwork Dallas on Thu 10 Dec, Dallas Fort Worth. 2 artists: Diverge and Goldie. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

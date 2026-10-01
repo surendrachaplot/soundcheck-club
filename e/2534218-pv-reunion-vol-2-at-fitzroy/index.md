@@ -1,6 +1,6 @@
 # PV REUNION VOL 2 at Fitzroy
 
-PV REUNION VOL 2 at Fitzroy on Sun 11 Oct, Berlin. 4 artists on the bill: DJ AYA, DJ Strawberry, HICCUP and ZANNT. Preview the line-up and save it on soundcheck.
+PV REUNION VOL 2 at Fitzroy on Sun 11 Oct, Berlin. 4 artists: DJ AYA, DJ Strawberry, HICCUP and ZANNT. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

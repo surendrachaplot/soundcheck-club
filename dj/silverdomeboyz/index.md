@@ -1,8 +1,8 @@
 # Silverdome Boyz
 
-Silverdome Boyz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lincoln Factory, Detroit on Sat, 17 Oct 2026.
+Silverdome Boyz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lincoln Factory, Detroit on Sat, 17 Oct 2026.
 
-Silverdome Boyz is a techno and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Detroit. Often billed alongside DJ SPHiNX, Paranoid London and Andrea Ghita. Next up: Lincoln Factory, Detroit on Sat 17 Oct.
+Silverdome Boyz is a techno and house artist based in United States of America, with 17 gigs on soundcheck across Detroit. Often billed alongside DJ SPHiNX, Paranoid London and Andrea Ghita. Next up: Lincoln Factory, Detroit on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Silverdome Boyz is a techno and house artist based in United States of America, 
 
 ## Recently played
 
-- TV Lounge, Detroit — Thu, 4 Jun 2026
-- Lincoln Factory, Detroit — Sat, 2 May 2026
-- Lincoln Factory, Detroit — Fri, 10 Apr 2026
-- Lincoln Factory, Detroit — Fri, 6 Feb 2026
-- Lincoln Factory, Detroit — Sat, 13 Dec 2025
-- TV Lounge, Detroit — Sat, 6 Sept 2025
-- TV Lounge, Detroit — Thu, 5 Jun 2025
-- TV Lounge, Detroit — Sun, 25 May 2025
+- TV Lounge, Detroit · Thu, 4 Jun 2026
+- Lincoln Factory, Detroit · Sat, 2 May 2026
+- Lincoln Factory, Detroit · Fri, 10 Apr 2026
+- Lincoln Factory, Detroit · Fri, 6 Feb 2026
+- Lincoln Factory, Detroit · Sat, 13 Dec 2025
+- TV Lounge, Detroit · Sat, 6 Sept 2025
+- TV Lounge, Detroit · Thu, 5 Jun 2025
+- TV Lounge, Detroit · Sun, 25 May 2025
 
 ## Shares bills with
 

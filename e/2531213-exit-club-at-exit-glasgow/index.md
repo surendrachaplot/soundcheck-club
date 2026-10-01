@@ -1,6 +1,6 @@
 # EXIT CLUB at EXIT Glasgow
 
-EXIT CLUB at EXIT Glasgow on Sat 14 Nov, Glasgow. 2 artists on the bill: Stefan Goldmann and TRSSX. Techno. Preview the line-up and save it on soundcheck.
+EXIT CLUB at EXIT Glasgow on Sat 14 Nov, Glasgow. 2 artists: Stefan Goldmann and TRSSX. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

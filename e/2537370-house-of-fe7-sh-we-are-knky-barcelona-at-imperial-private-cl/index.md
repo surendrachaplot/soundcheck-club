@@ -1,6 +1,6 @@
 # HOUSE OF FE7!SH - WE ARE KNKY BARCELONA at Imperial Private Club
 
-HOUSE OF FE7!SH - WE ARE KNKY BARCELONA at Imperial Private Club on Fri 9 Oct, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+HOUSE OF FE7!SH - WE ARE KNKY BARCELONA at Imperial Private Club on Fri 9 Oct, Barcelona. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

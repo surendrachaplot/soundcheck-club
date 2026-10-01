@@ -1,8 +1,8 @@
 # DJ Krush
 
-DJ Krush is a Hip-Hop and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Sugar Club, Dublin on Sat, 3 Oct 2026.
+DJ Krush is a Hip-Hop and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Sugar Club, Dublin on Sat, 3 Oct 2026.
 
-DJ Krush is a hip-hop and techno artist based in Japan, tracked on soundcheck, with 58 sets logged across Amsterdam, Athens, Berlin and Budapest and 13 more. Often billed alongside DJ Quietstorm, Herbalistek and Jomo. Next up: The Sugar Club, Dublin on Sat 3 Oct.
+DJ Krush is a hip-hop and techno artist based in Japan, with 58 gigs on soundcheck across Amsterdam, Athens, Berlin and Budapest and 13 more. Often billed alongside DJ Quietstorm, Herbalistek and Jomo. Next up: The Sugar Club, Dublin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ DJ Krush is a hip-hop and techno artist based in Japan, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA - Takanawa Gateway City, Tokyo — Sat, 27 Jun 2026
-- HVEN, Tokyo — Sat, 25 Apr 2026
-- clubasia, Tokyo — Sun, 29 Mar 2026
-- Yoyogi Park, Tokyo — Sat, 28 Mar 2026
-- Suigian [水戯庵], Tokyo — Fri, 27 Mar 2026
-- Howler, Melbourne — Sat, 7 Mar 2026
-- Howler, Melbourne — Sat, 7 Mar 2026
-- Oxford Art Factory, Sydney — Thu, 5 Mar 2026
+- TBA - Takanawa Gateway City, Tokyo · Sat, 27 Jun 2026
+- HVEN, Tokyo · Sat, 25 Apr 2026
+- clubasia, Tokyo · Sun, 29 Mar 2026
+- Yoyogi Park, Tokyo · Sat, 28 Mar 2026
+- Suigian [水戯庵], Tokyo · Fri, 27 Mar 2026
+- Howler, Melbourne · Sat, 7 Mar 2026
+- Howler, Melbourne · Sat, 7 Mar 2026
+- Oxford Art Factory, Sydney · Thu, 5 Mar 2026
 
 ## Shares bills with
 

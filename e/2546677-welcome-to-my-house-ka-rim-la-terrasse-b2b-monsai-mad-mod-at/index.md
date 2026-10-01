@@ -1,6 +1,6 @@
 # Welcome To My House: Ka.rim, La Terrasse b2b Monsai, MAD.MOD at Bulbul Berlin
 
-Welcome To My House: Ka.rim, La Terrasse b2b Monsai, MAD.MOD at Bulbul Berlin on Fri 16 Oct, Berlin. 3 artists on the bill: La Terrasse, MAD.MOD and Monsai. House and Club. Preview the line-up and save it on soundcheck.
+Welcome To My House: Ka.rim, La Terrasse b2b Monsai, MAD.MOD at Bulbul Berlin on Fri 16 Oct, Berlin. 3 artists: La Terrasse, MAD.MOD and Monsai. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

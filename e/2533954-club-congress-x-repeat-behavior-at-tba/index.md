@@ -1,6 +1,6 @@
 # Club Congress X Repeat Behavior at TBA
 
-Club Congress X Repeat Behavior at TBA on Sat 10 Oct, Pennsylvania. 6 artists on the bill: B_X_R_N_X_R_D, Critter, DJ Matpat and EQUISS and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Club Congress X Repeat Behavior at TBA on Sat 10 Oct, Pennsylvania. 6 artists: B_X_R_N_X_R_D, Critter, DJ Matpat and EQUISS and 2 more. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

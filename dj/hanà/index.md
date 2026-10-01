@@ -1,8 +1,8 @@
 # HANÀ
 
-HANÀ is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mia Mao, Paris on Fri, 2 Oct 2026.
+HANÀ is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mia Mao, Paris on Fri, 2 Oct 2026.
 
-HANÀ is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Hamburg and Paris and 2 more. Often billed alongside 3LEEZA, two girls one mom and Niotech. Next up: Mia Mao, Paris on Fri 2 Oct.
+HANÀ is a trance and techno artist based in United Kingdom, with 29 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Paris and 2 more. Often billed alongside 3LEEZA, two girls one mom and Niotech. Next up: Mia Mao, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ HANÀ is a trance and techno artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- Alte Kaserne, Zurich — Fri, 25 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 18 Sept 2026
-- Fundbureau, Hamburg — Fri, 11 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 14 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- Fvtvr, Paris — Mon, 13 Jul 2026
-- OST, Berlin — Fri, 10 Jul 2026
-- Rex Club, Paris — Thu, 18 Jun 2026
+- Alte Kaserne, Zurich · Fri, 25 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 18 Sept 2026
+- Fundbureau, Hamburg · Fri, 11 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 14 Aug 2026
+- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
+- Fvtvr, Paris · Mon, 13 Jul 2026
+- OST, Berlin · Fri, 10 Jul 2026
+- Rex Club, Paris · Thu, 18 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Welcome To The Club - 30th Anniversary at Van de Werf
 
-Welcome To The Club - 30th Anniversary at Van de Werf on Sat 24 Oct, Amsterdam. 2 artists on the bill: DJ Izee and DJ MAX. House and Tech House. Preview the line-up and save it on soundcheck.
+Welcome To The Club - 30th Anniversary at Van de Werf on Sat 24 Oct, Amsterdam. 2 artists: DJ Izee and DJ MAX. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

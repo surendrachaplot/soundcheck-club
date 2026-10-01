@@ -1,8 +1,8 @@
 # Botanist
 
-Botanist is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Empire Stage, New York City on Fri, 30 Oct 2026.
+Botanist is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Empire Stage, New York City on Fri, 30 Oct 2026.
 
-Botanist is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Los Angeles, Miami and New York City. Often billed alongside Jasper Zeray, Racket Club and Sean Green. Next up: Empire Stage, New York City on Fri 30 Oct.
+Botanist is a house and techno artist based in United States of America, with 10 gigs on soundcheck across Los Angeles, Miami and New York City. Often billed alongside Jasper Zeray, Racket Club and Sean Green. Next up: Empire Stage, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Botanist is a house and techno artist based in United States of America, tracked
 
 ## Recently played
 
-- Mood Ring, New York City — Wed, 15 Apr 2026
-- The REP Music Cafe, New York City — Sun, 1 Feb 2026
-- Bossa Nova Civic Club, New York City — Thu, 11 Dec 2025
-- KEYBAR, New York City — Sat, 29 Nov 2025
-- KEYBAR, New York City — Fri, 26 Sept 2025
-- TBA - Versatile Studios, Los Angeles — Sat, 9 Sept 2023
-- The Melrose House, Los Angeles — Sat, 6 May 2023
-- Syndicate Wynwood, Miami — Wed, 19 Apr 2023
+- Mood Ring, New York City · Wed, 15 Apr 2026
+- The REP Music Cafe, New York City · Sun, 1 Feb 2026
+- Bossa Nova Civic Club, New York City · Thu, 11 Dec 2025
+- KEYBAR, New York City · Sat, 29 Nov 2025
+- KEYBAR, New York City · Fri, 26 Sept 2025
+- TBA - Versatile Studios, Los Angeles · Sat, 9 Sept 2023
+- The Melrose House, Los Angeles · Sat, 6 May 2023
+- Syndicate Wynwood, Miami · Wed, 19 Apr 2023
 
 ## Shares bills with
 

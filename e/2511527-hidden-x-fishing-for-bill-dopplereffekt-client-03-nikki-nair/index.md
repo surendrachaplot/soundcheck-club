@@ -1,6 +1,6 @@
 # Hidden x Fishing for Bill: Dopplereffekt, Client_03, Nikki Nair at Hidden
 
-Hidden x Fishing for Bill: Dopplereffekt, Client_03, Nikki Nair on Fri 13 Nov, Manchester. 3 artists on the bill: Client_03, Dopplereffekt and Nikki Nair. Techno and Electro. Preview the line-up and save it on soundcheck.
+Hidden x Fishing for Bill: Dopplereffekt, Client_03, Nikki Nair on Fri 13 Nov, Manchester. 3 artists: Client_03, Dopplereffekt and Nikki Nair. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

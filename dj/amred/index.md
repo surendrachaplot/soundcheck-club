@@ -1,8 +1,8 @@
 # AMRED
 
-AMRED is a Bass and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Astoria, Turin on Sat, 10 Oct 2026.
+AMRED is a Bass and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Astoria, Turin on Sat, 10 Oct 2026.
 
-AMRED is a bass and electronica artist based in Italy, tracked on soundcheck, with 31 sets logged across Milan and Turin. Often billed alongside RESA (IT), Lara David (IT) and HYLO (IT). Next up: Astoria, Turin on Sat 10 Oct.
+AMRED is a bass and electronica artist based in Italy, with 31 gigs on soundcheck across Milan and Turin. Often billed alongside RESA (IT), Lara David (IT) and HYLO (IT). Next up: Astoria, Turin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ AMRED is a bass and electronica artist based in Italy, tracked on soundcheck, wi
 
 ## Recently played
 
-- TBA - Bocciofila Vanchiglietta, Turin — Thu, 25 Jun 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 24 Apr 2026
-- Astoria, Turin — Sat, 14 Mar 2026
-- Astoria, Turin — Sat, 21 Feb 2026
-- Astoria, Turin — Sat, 13 Dec 2025
-- Astoria, Turin — Sat, 22 Nov 2025
-- Capodoglio Murazzi, Turin — Sun, 9 Nov 2025
-- Tunnel, Milan — Sat, 8 Nov 2025
+- TBA - Bocciofila Vanchiglietta, Turin · Thu, 25 Jun 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 24 Apr 2026
+- Astoria, Turin · Sat, 14 Mar 2026
+- Astoria, Turin · Sat, 21 Feb 2026
+- Astoria, Turin · Sat, 13 Dec 2025
+- Astoria, Turin · Sat, 22 Nov 2025
+- Capodoglio Murazzi, Turin · Sun, 9 Nov 2025
+- Tunnel, Milan · Sat, 8 Nov 2025
 
 ## Shares bills with
 

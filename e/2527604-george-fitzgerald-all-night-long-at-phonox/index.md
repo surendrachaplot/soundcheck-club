@@ -1,6 +1,6 @@
 # George FitzGerald (All Night Long) at Phonox
 
-George FitzGerald (All Night Long) at Phonox on Sat 7 Nov, London. 1 artist on the bill: George FitzGerald. Preview the line-up and save it on soundcheck.
+George FitzGerald (All Night Long) at Phonox on Sat 7 Nov, London. 1 artist: George FitzGerald. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

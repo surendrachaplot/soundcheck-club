@@ -1,8 +1,8 @@
 # Labyrinthine
 
-Labyrinthine is a Techno and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BAR Inc, Osaka on Thu, 1 Oct 2026.
+Labyrinthine is a Techno and Ambient artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BAR Inc, Osaka on Thu, 1 Oct 2026.
 
-Labyrinthine is a techno and ambient artist based in United Kingdom, tracked on soundcheck, with 100 sets logged across Barcelona, Berlin, Buenos Aires and London and 5 more. Often billed alongside Jamie de Rooy, Harknee and Concrete Gold. Next up: BAR Inc, Osaka on Thu 1 Oct.
+Labyrinthine is a techno and ambient artist based in United Kingdom, with 100 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and London and 5 more. Often billed alongside Jamie de Rooy, Harknee and Concrete Gold. Next up: BAR Inc, Osaka on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Labyrinthine is a techno and ambient artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Starlane Pizza Bar, London — Sun, 6 Sept 2026
-- Starlane Pizza Bar, London — Sun, 12 Jul 2026
-- Om Being, London — Fri, 3 Jul 2026
-- FOLD, London — Fri, 12 Jun 2026
-- Starlane Pizza Bar, London — Fri, 23 Jan 2026
-- E1, London — Fri, 12 Dec 2025
-- Starlane Pizza Bar, London — Sun, 21 Sept 2025
-- Starlane Pizza Bar, London — Sun, 1 Jun 2025
+- Starlane Pizza Bar, London · Sun, 6 Sept 2026
+- Starlane Pizza Bar, London · Sun, 12 Jul 2026
+- Om Being, London · Fri, 3 Jul 2026
+- FOLD, London · Fri, 12 Jun 2026
+- Starlane Pizza Bar, London · Fri, 23 Jan 2026
+- E1, London · Fri, 12 Dec 2025
+- Starlane Pizza Bar, London · Sun, 21 Sept 2025
+- Starlane Pizza Bar, London · Sun, 1 Jun 2025
 
 ## Shares bills with
 

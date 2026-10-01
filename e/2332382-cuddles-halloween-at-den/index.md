@@ -1,6 +1,6 @@
 # Cuddles Halloween at ÆDEN
 
-Cuddles Halloween at ÆDEN on Sat 31 Oct, Berlin. 8 artists on the bill: Aaron Blau, ADAM MUNNINGS, DJ AYA and Jen Cardini and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Cuddles Halloween at ÆDEN on Sat 31 Oct, Berlin. 8 artists: Aaron Blau, ADAM MUNNINGS, DJ AYA and Jen Cardini and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

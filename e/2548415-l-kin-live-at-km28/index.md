@@ -1,6 +1,6 @@
 # Lâkin live at KM28
 
-Lâkin live at KM28 on Fri 9 Oct, Berlin. Experimental. Preview the line-up and save it on soundcheck.
+Lâkin live at KM28 on Fri 9 Oct, Berlin. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

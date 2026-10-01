@@ -1,8 +1,8 @@
 # JACK MARLOW
 
-JACK MARLOW is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Night Tales, London on Fri, 2 Oct 2026.
+JACK MARLOW is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Tales, London on Fri, 2 Oct 2026.
 
-JACK MARLOW is a garage and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Brighton, Brisbane and Bristol and 16 more. Often billed alongside GEE LEE, Lemtom and salameh. Next up: Night Tales, London on Fri 2 Oct.
+JACK MARLOW is a garage and house artist based in United Kingdom, with 53 gigs on soundcheck across Berlin, Brighton, Brisbane and Bristol and 16 more. Often billed alongside GEE LEE, Lemtom and salameh. Next up: Night Tales, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ JACK MARLOW is a garage and house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Burgess Park, London — Sun, 9 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
-- Sacré, Paris — Sat, 20 Jun 2026
-- Baltic Triangle, Liverpool — Fri, 29 May 2026
-- Sigurd CPH, Copenhagen — Sat, 16 May 2026
-- Headrow House, Leeds — Fri, 1 May 2026
-- Prohibition Brisbane, Brisbane — Sat, 11 Apr 2026
-- Heide Museum of Modern Art Sculpture Park, Melbourne — Sat, 4 Apr 2026
+- Burgess Park, London · Sun, 9 Aug 2026
+- Burgess Park, London · Sun, 9 Aug 2026
+- Sacré, Paris · Sat, 20 Jun 2026
+- Baltic Triangle, Liverpool · Fri, 29 May 2026
+- Sigurd CPH, Copenhagen · Sat, 16 May 2026
+- Headrow House, Leeds · Fri, 1 May 2026
+- Prohibition Brisbane, Brisbane · Sat, 11 Apr 2026
+- Heide Museum of Modern Art Sculpture Park, Melbourne · Sat, 4 Apr 2026
 
 ## Shares bills with
 

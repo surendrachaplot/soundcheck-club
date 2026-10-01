@@ -1,6 +1,6 @@
 # Club Rawhide SATURDAY NIGHT 10.03.26 w/ Kim Anh, verdigris, DJ Shiver at Club Rawhide
 
-Club Rawhide SATURDAY NIGHT 10.03.26 w/ Kim Anh, verdigris, DJ Shiver on Sat 3 Oct, New York City. 3 artists on the bill: DJ Shiver, Kim Anh and verdigris. Techno and House. Preview the line-up and save it on soundcheck.
+Club Rawhide SATURDAY NIGHT 10.03.26 w/ Kim Anh, verdigris, DJ Shiver on Sat 3 Oct, New York City. 3 artists: DJ Shiver, Kim Anh and verdigris. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

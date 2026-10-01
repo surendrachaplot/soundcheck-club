@@ -1,8 +1,8 @@
 # Jewel Yacht
 
-Jewel Yacht is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Blood Moon Halloween Hip-Hop Party Cruise NYC" on Sat, 31 Oct 2026.
+Jewel Yacht is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Blood Moon Halloween Hip-Hop Party Cruise NYC" on Sat, 31 Oct 2026.
 
-Jewel Yacht is a music venue in New York City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. East 23rd St & FDR Drive New York, NY 10010.
+Jewel Yacht is a music venue in New York City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. East 23rd St & FDR Drive New York, NY 10010.
 
 ## What's on
 

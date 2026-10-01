@@ -1,8 +1,8 @@
 # Franco Strato
 
-Franco Strato is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Sat, 7 Nov 2026.
+Franco Strato is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 7 Nov 2026.
 
-Franco Strato is a house and disco artist tracked on soundcheck, with 19 sets logged across Amsterdam, Barcelona, Berlin and Ibiza. Often billed alongside Javier Anxiety, da Graca Brothers and Ana Molina. Next up: OXI, Berlin on Sat 7 Nov.
+Franco Strato is a house and disco artist, with 19 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza. Often billed alongside Javier Anxiety, da Graca Brothers and Ana Molina. Next up: OXI, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Franco Strato is a house and disco artist tracked on soundcheck, with 19 sets lo
 
 ## Recently played
 
-- Kater, Berlin — Fri, 4 Sept 2026
-- Doka, Amsterdam — Sat, 25 Jul 2026
-- Macarena Club, Barcelona — Mon, 22 Jun 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 13 Jun 2026
-- OXI, Berlin — Sat, 1 Nov 2025
-- ÆDEN, Berlin — Thu, 2 Oct 2025
-- Bulbul Berlin, Berlin — Sat, 27 Sept 2025
-- KitKatClub, Berlin — Mon, 15 Sept 2025
+- Kater, Berlin · Fri, 4 Sept 2026
+- Doka, Amsterdam · Sat, 25 Jul 2026
+- Macarena Club, Barcelona · Mon, 22 Jun 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 13 Jun 2026
+- OXI, Berlin · Sat, 1 Nov 2025
+- ÆDEN, Berlin · Thu, 2 Oct 2025
+- Bulbul Berlin, Berlin · Sat, 27 Sept 2025
+- KitKatClub, Berlin · Mon, 15 Sept 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Halfpipe Records: Ahadadream, RONI, Unsho, Marge, Emi On Skis at Bien Public
 
-Halfpipe Records: Ahadadream, RONI, Unsho, Marge, Emi On Skis at Bien Public on Fri 9 Oct, Bordeaux. 3 artists on the bill: Ahadadream, RONI and Unsho. Preview the line-up and save it on soundcheck.
+Halfpipe Records: Ahadadream, RONI, Unsho, Marge, Emi On Skis at Bien Public on Fri 9 Oct, Bordeaux. 3 artists: Ahadadream, RONI and Unsho. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

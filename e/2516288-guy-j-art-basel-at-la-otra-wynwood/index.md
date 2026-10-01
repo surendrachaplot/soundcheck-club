@@ -1,6 +1,6 @@
 # Guy J - Art Basel at La Otra Wynwood
 
-Guy J - Art Basel at La Otra Wynwood on Thu 3 Dec, Miami. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Guy J - Art Basel at La Otra Wynwood on Thu 3 Dec, Miami. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

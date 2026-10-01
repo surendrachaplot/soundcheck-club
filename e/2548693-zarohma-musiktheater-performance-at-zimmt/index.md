@@ -1,6 +1,6 @@
 # Zarohma (Musiktheater-Performance) at ZiMMT
 
-Zarohma (Musiktheater-Performance) at ZiMMT on Wed 21 Oct, Leipzig. Preview the line-up and save it on soundcheck.
+Zarohma (Musiktheater-Performance) at ZiMMT on Wed 21 Oct, Leipzig. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

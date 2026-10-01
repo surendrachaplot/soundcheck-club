@@ -1,8 +1,8 @@
 # Magda
 
-Magda is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Magda is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Magda is a techno and house artist based in United States of America, tracked on soundcheck, with 167 sets logged across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Magda is a techno and house artist based in United States of America, with 167 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 50 more. Often billed alongside Mike Servito, Morgan and Tomas Station. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Magda is a techno and house artist based in United States of America, tracked on
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Green Room NYC, New York City — Sat, 26 Sept 2026
-- Marble Bar, Detroit — Fri, 25 Sept 2026
-- CLUB RAUM, Amsterdam — Fri, 11 Sept 2026
-- Yamamori Tengu, Dublin — Sat, 29 Aug 2026
-- Haus der Visionäre, Berlin — Sat, 22 Aug 2026
-- Jolene Downtown Miami, Miami — Sat, 15 Aug 2026
-- Refuge, New York City — Fri, 14 Aug 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Green Room NYC, New York City · Sat, 26 Sept 2026
+- Marble Bar, Detroit · Fri, 25 Sept 2026
+- CLUB RAUM, Amsterdam · Fri, 11 Sept 2026
+- Yamamori Tengu, Dublin · Sat, 29 Aug 2026
+- Haus der Visionäre, Berlin · Sat, 22 Aug 2026
+- Jolene Downtown Miami, Miami · Sat, 15 Aug 2026
+- Refuge, New York City · Fri, 14 Aug 2026
 
 ## Shares bills with
 

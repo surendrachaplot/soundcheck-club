@@ -1,6 +1,6 @@
 # Kiosk Radio x The Lot Radio x Doka Culture live stream [ADE] at Doka
 
-Kiosk Radio x The Lot Radio x Doka Culture live stream [ADE] on Sat 24 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Kiosk Radio x The Lot Radio x Doka Culture live stream [ADE] on Sat 24 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BRYCE ALAKAI at Q Nightclub
 
-BRYCE ALAKAI at Q Nightclub on Fri 11 Dec, Seattle. Preview the line-up and save it on soundcheck.
+BRYCE ALAKAI at Q Nightclub on Fri 11 Dec, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

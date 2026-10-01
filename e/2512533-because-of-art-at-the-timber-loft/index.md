@@ -1,6 +1,6 @@
 # Because of Art at The Timber Loft
 
-Because of Art at The Timber Loft on Fri 30 Oct, London. 1 artist on the bill: Because of Art. Progressive House and House. Preview the line-up and save it on soundcheck.
+Because of Art at The Timber Loft on Fri 30 Oct, London. 1 artist: Because of Art. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

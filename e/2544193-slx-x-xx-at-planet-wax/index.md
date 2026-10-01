@@ -1,6 +1,6 @@
 # SLX x xx at Planet Wax
 
-SLX x xx at Planet Wax on Wed 21 Oct, London. Breakbeat and Experimental. Preview the line-up and save it on soundcheck.
+SLX x xx at Planet Wax on Wed 21 Oct, London. Breakbeat and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

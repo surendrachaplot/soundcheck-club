@@ -1,6 +1,6 @@
 # Omni presents: Jake Fitz B2B Eric Brown ANL at block.
 
-Omni presents: Jake Fitz B2B Eric Brown ANL at block. on Sat 3 Oct, Dublin. House and Minimal. Preview the line-up and save it on soundcheck.
+Omni presents: Jake Fitz B2B Eric Brown ANL at block. on Sat 3 Oct, Dublin. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

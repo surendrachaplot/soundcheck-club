@@ -1,8 +1,8 @@
 # FELGENTEUFEL666
 
-FELGENTEUFEL666 is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
+FELGENTEUFEL666 is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Westhafen, Berlin on Sat, 14 Nov 2026.
 
-FELGENTEUFEL666 is a house and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Juan Ramos, Ady Toledano and Dani Red. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
+FELGENTEUFEL666 is a house and trance artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Juan Ramos, Ady Toledano and Dani Red. Next up: TBA - Westhafen, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ FELGENTEUFEL666 is a house and trance artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Renate, Berlin — Wed, 31 Dec 2025
-- Renate, Berlin — Fri, 24 Oct 2025
-- Renate, Berlin — Sat, 12 Jul 2025
-- Renate, Berlin — Fri, 29 Nov 2024
-- Renate, Berlin — Fri, 13 Sept 2024
-- Renate, Berlin — Thu, 1 Aug 2024
+- Renate, Berlin · Wed, 31 Dec 2025
+- Renate, Berlin · Fri, 24 Oct 2025
+- Renate, Berlin · Sat, 12 Jul 2025
+- Renate, Berlin · Fri, 29 Nov 2024
+- Renate, Berlin · Fri, 13 Sept 2024
+- Renate, Berlin · Thu, 1 Aug 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus at Hare & Hounds
 
-Kylie Wears Berghaus at Hare & Hounds on Fri 9 Oct, Birmingham. 1 artist on the bill: Kylie Wears Berghaus. Techno and House. Preview the line-up and save it on soundcheck.
+Kylie Wears Berghaus at Hare & Hounds on Fri 9 Oct, Birmingham. 1 artist: Kylie Wears Berghaus. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Luuudic Cuuube Vol.1 Produced by U-nel at Kagurane
 
-Luuudic Cuuube Vol.1 Produced by U-nel at Kagurane on Sun 25 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+Luuudic Cuuube Vol.1 Produced by U-nel at Kagurane on Sun 25 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

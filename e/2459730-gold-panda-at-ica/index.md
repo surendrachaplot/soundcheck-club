@@ -1,6 +1,6 @@
 # Gold Panda at ICA
 
-Gold Panda at ICA on Thu 12 Nov, London. 1 artist on the bill: Gold Panda. Electronica. Preview the line-up and save it on soundcheck.
+Gold Panda at ICA on Thu 12 Nov, London. 1 artist: Gold Panda. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

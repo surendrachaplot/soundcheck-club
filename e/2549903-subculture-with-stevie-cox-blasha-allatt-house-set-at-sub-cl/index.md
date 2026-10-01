@@ -1,6 +1,6 @@
 # Subculture with Stevie Cox + Blasha & Allatt [House Set] at Sub Club
 
-Subculture with Stevie Cox + Blasha & Allatt [House Set] at Sub Club on Sat 5 Dec, Glasgow. 2 artists on the bill: Blasha & Allatt and Stevie Cox. Preview the line-up and save it on soundcheck.
+Subculture with Stevie Cox + Blasha & Allatt [House Set] at Sub Club on Sat 5 Dec, Glasgow. 2 artists: Blasha & Allatt and Stevie Cox. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

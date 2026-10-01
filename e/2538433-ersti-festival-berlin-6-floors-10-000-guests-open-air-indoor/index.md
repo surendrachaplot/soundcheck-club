@@ -1,6 +1,6 @@
 # Ersti-Festival Berlin | 6 Floors | 10.000 Guests - Open-Air & Indoor at Aqua-Höfe
 
-Ersti-Festival Berlin | 6 Floors | 10.000 Guests - Open-Air & Indoor at Aqua-Höfe on Tue 6 Oct, Berlin. Techno and Club. Preview the line-up and save it on soundcheck.
+Ersti-Festival Berlin | 6 Floors | 10.000 Guests - Open-Air & Indoor at Aqua-Höfe on Tue 6 Oct, Berlin. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

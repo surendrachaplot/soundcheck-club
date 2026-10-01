@@ -1,6 +1,6 @@
 # BONEYARD HALLOWEEN feat. DJ Seinfeld at The Music Yard
 
-BONEYARD HALLOWEEN feat. DJ Seinfeld at The Music Yard on Fri 30 Oct, Charlotte. 1 artist on the bill: DJ Seinfeld. Preview the line-up and save it on soundcheck.
+BONEYARD HALLOWEEN feat. DJ Seinfeld at The Music Yard on Fri 30 Oct, Charlotte. 1 artist: DJ Seinfeld. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

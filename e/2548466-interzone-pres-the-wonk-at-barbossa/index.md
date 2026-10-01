@@ -1,6 +1,6 @@
 # Interzone pres. The Wonk at Barbossa
 
-Interzone pres. The Wonk at Barbossa on Sat 3 Oct, Montreal. Acid and Dub Techno. Preview the line-up and save it on soundcheck.
+Interzone pres. The Wonk at Barbossa on Sat 3 Oct, Montreal. Acid and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # De Santis
 
-De Santis is a Electro and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Cafe La Palma, Madrid on Fri, 30 Oct 2026.
+De Santis is a Electro and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cafe La Palma, Madrid on Fri, 30 Oct 2026.
 
-De Santis is an electro and tech house artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside Nau Leone, Alexis mayer and Andrés Mokk. Next up: Cafe La Palma, Madrid on Fri 30 Oct.
+De Santis is an electro and tech house artist based in Spain, with 6 gigs on soundcheck across Madrid. Often billed alongside Nau Leone, Alexis mayer and Andrés Mokk. Next up: Cafe La Palma, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ De Santis is an electro and tech house artist based in Spain, tracked on soundch
 
 ## Recently played
 
-- Hangar48 Club, Madrid — Sat, 12 Sept 2026
-- berlinClub, Madrid — Thu, 25 Jun 2026
-- Cristo Social Club, Madrid — Fri, 15 May 2026
-- Supernova Club, Madrid — Thu, 19 Feb 2026
-- Under Bridge Madrid, Madrid — Sat, 6 Sept 2025
+- Hangar48 Club, Madrid · Sat, 12 Sept 2026
+- berlinClub, Madrid · Thu, 25 Jun 2026
+- Cristo Social Club, Madrid · Fri, 15 May 2026
+- Supernova Club, Madrid · Thu, 19 Feb 2026
+- Under Bridge Madrid, Madrid · Sat, 6 Sept 2025
 
 ## Shares bills with
 

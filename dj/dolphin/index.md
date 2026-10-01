@@ -1,8 +1,8 @@
 # DOLPHIN
 
-DOLPHIN is a Hardcore and Breakcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+DOLPHIN is a Hardcore and Breakcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
-DOLPHIN is a hardcore and breakcore artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Amsterdam, Bristol, Glasgow and London and 5 more. Often billed alongside Thrasher, Charlie B and DJ SS. Next up: Marshall Arena, South East on Sat 7 Nov.
+DOLPHIN is a hardcore and breakcore artist based in United Kingdom, with 12 gigs on soundcheck across Amsterdam, Bristol, Glasgow and London and 5 more. Often billed alongside Thrasher, Charlie B and DJ SS. Next up: Marshall Arena, South East on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DOLPHIN is a hardcore and breakcore artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Teranoma, Osaka — Sat, 12 Sept 2026
-- Cube, Tokyo — Sat, 5 Sept 2026
-- Bowlers Exhibition Centre, Manchester — Sat, 2 May 2026
-- McChuills Music Bar, Glasgow — Fri, 24 Apr 2026
-- OT301, Amsterdam — Sun, 26 Oct 2025
-- Bowlers Exhibition Centre, Manchester — Sat, 3 May 2025
-- Motion Bristol, Bristol — Sat, 5 Apr 2025
-- Green Works, Bristol — Sat, 8 Mar 2025
+- Teranoma, Osaka · Sat, 12 Sept 2026
+- Cube, Tokyo · Sat, 5 Sept 2026
+- Bowlers Exhibition Centre, Manchester · Sat, 2 May 2026
+- McChuills Music Bar, Glasgow · Fri, 24 Apr 2026
+- OT301, Amsterdam · Sun, 26 Oct 2025
+- Bowlers Exhibition Centre, Manchester · Sat, 3 May 2025
+- Motion Bristol, Bristol · Sat, 5 Apr 2025
+- Green Works, Bristol · Sat, 8 Mar 2025
 
 ## Shares bills with
 

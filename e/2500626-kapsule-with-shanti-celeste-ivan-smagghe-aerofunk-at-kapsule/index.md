@@ -1,6 +1,6 @@
 # Kapsule with Shanti Celeste, Ivan Smagghe & Aerofunk at Kapsule
 
-Kapsule with Shanti Celeste, Ivan Smagghe & Aerofunk on Fri 2 Oct, Liverpool. 3 artists on the bill: Aerofunk, Ivan Smagghe and Shanti Celeste. Techno and House. Preview the line-up and save it on soundcheck.
+Kapsule with Shanti Celeste, Ivan Smagghe & Aerofunk on Fri 2 Oct, Liverpool. 3 artists: Aerofunk, Ivan Smagghe and Shanti Celeste. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

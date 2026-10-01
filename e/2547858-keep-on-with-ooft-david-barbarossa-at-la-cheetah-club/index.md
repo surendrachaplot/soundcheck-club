@@ -1,6 +1,6 @@
 # KEEP ON with OOFT! & David Barbarossa at La Cheetah Club
 
-KEEP ON with OOFT! & David Barbarossa at La Cheetah Club on Sun 18 Oct, Glasgow. 2 artists on the bill: David Barbarossa and OOFT. Disco and Balearic. Preview the line-up and save it on soundcheck.
+KEEP ON with OOFT! & David Barbarossa at La Cheetah Club on Sun 18 Oct, Glasgow. 2 artists: David Barbarossa and OOFT. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

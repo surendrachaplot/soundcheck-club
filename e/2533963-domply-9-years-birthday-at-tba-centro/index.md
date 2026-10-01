@@ -1,6 +1,6 @@
 # DOMPLY 9 YEARS BIRTHDAY at TBA - Centro
 
-DOMPLY 9 YEARS BIRTHDAY at TBA - Centro on Sat 10 Oct, Rio De Janeiro. 8 artists on the bill: Carrot Green, Cashu, Craig Ouar and Esa and 4 more. Preview the line-up and save it on soundcheck.
+DOMPLY 9 YEARS BIRTHDAY at TBA - Centro on Sat 10 Oct, Rio De Janeiro. 8 artists: Carrot Green, Cashu, Craig Ouar and Esa and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

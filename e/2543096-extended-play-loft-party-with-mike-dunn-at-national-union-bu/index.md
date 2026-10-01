@@ -1,6 +1,6 @@
 # Extended Play Loft Party with Mike Dunn at National Union Building
 
-Extended Play Loft Party with Mike Dunn at National Union Building on Sat 7 Nov, Washington DC. 1 artist on the bill: Mike Dunn. House. Preview the line-up and save it on soundcheck.
+Extended Play Loft Party with Mike Dunn at National Union Building on Sat 7 Nov, Washington DC. 1 artist: Mike Dunn. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

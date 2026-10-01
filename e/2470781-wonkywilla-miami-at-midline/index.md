@@ -1,6 +1,6 @@
 # WonkyWilla MIAMI at Midline
 
-WonkyWilla MIAMI at Midline on Sat 28 Nov, Miami. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+WonkyWilla MIAMI at Midline on Sat 28 Nov, Miami. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

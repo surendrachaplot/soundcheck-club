@@ -1,6 +1,6 @@
 # nomenklatur with Dagmar Zuniga (live) at Rhiz
 
-nomenklatur with Dagmar Zuniga (live) at Rhiz on Sun 15 Nov, Vienna. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+nomenklatur with Dagmar Zuniga (live) at Rhiz on Sun 15 Nov, Vienna. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

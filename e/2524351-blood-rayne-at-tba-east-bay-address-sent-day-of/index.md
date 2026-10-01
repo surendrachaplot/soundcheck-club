@@ -1,6 +1,6 @@
 # Blood Rayne at TBA - EAST BAY; ADDRESS SENT DAY OF
 
-Blood Rayne at TBA - EAST BAY; ADDRESS SENT DAY OF on Sat 31 Oct, California. 4 artists on the bill: Cherub420, Del, Freaky Emo and Jasmine Infiniti. Preview the line-up and save it on soundcheck.
+Blood Rayne at TBA - EAST BAY; ADDRESS SENT DAY OF on Sat 31 Oct, California. 4 artists: Cherub420, Del, Freaky Emo and Jasmine Infiniti. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

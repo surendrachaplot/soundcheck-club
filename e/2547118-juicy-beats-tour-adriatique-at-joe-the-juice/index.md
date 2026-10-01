@@ -1,6 +1,6 @@
 # Juicy Beats Tour – Adriatique at Joe & the Juice
 
-Juicy Beats Tour – Adriatique at Joe & the Juice on Thu 1 Oct, Zurich. 1 artist on the bill: Adriatique. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Juicy Beats Tour – Adriatique at Joe & the Juice on Thu 1 Oct, Zurich. 1 artist: Adriatique. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

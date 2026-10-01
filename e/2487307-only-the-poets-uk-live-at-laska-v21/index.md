@@ -1,6 +1,6 @@
 # Only The Poets (UK) - LIVE at Laska V21
 
-Only The Poets (UK) - LIVE at Laska V21 on Sat 28 Nov, Riga. Pop. Preview the line-up and save it on soundcheck.
+Only The Poets (UK) - LIVE at Laska V21 on Sat 28 Nov, Riga. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # mad miran & Josey Rebelle  ✻ Mark Flash (Underground Resistance) ✻ DJ Gonz at M.O.T
 
-mad miran & Josey Rebelle  ✻ Mark Flash (Underground Resistance) ✻ DJ Gonz at M.O.T on Sat 10 Oct, London. 4 artists on the bill: DJ Gonz, Josey Rebelle, mad miran and Mark Flash. Techno. Preview the line-up and save it on soundcheck.
+mad miran & Josey Rebelle  ✻ Mark Flash (Underground Resistance) ✻ DJ Gonz at M.O.T on Sat 10 Oct, London. 4 artists: DJ Gonz, Josey Rebelle, mad miran and Mark Flash. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

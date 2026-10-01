@@ -1,6 +1,6 @@
 # LIMINAL at KitKatClub
 
-LIMINAL at KitKatClub on Fri 9 Oct, Berlin. Preview the line-up and save it on soundcheck.
+LIMINAL at KitKatClub on Fri 9 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

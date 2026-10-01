@@ -1,6 +1,6 @@
 # Distortion Disco at De Helling
 
-Distortion Disco at De Helling on Fri 9 Oct, Utrecht. Club. Preview the line-up and save it on soundcheck.
+Distortion Disco at De Helling on Fri 9 Oct, Utrecht. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

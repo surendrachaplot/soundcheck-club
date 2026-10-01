@@ -1,6 +1,6 @@
 # 15 Years Gretchen:  MARCOCA *live at Gretchen
 
-15 Years Gretchen:  MARCOCA *live on Sun 25 Oct, Berlin. Jazz. Preview the line-up and save it on soundcheck.
+15 Years Gretchen:  MARCOCA *live on Sun 25 Oct, Berlin. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

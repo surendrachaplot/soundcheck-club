@@ -1,8 +1,8 @@
 # VERA SACRA
 
-VERA SACRA is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Gut Level, Sheffield on Fri, 23 Oct 2026.
+VERA SACRA is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gut Level, Sheffield on Fri, 23 Oct 2026.
 
-VERA SACRA is a techno and ambient artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London and Sheffield. Often billed alongside Ayrakaz, Beano and Bena. Next up: Gut Level, Sheffield on Fri 23 Oct.
+VERA SACRA is a techno and ambient artist based in United Kingdom, with 11 gigs on soundcheck across London and Sheffield. Often billed alongside Ayrakaz, Beano and Bena. Next up: Gut Level, Sheffield on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ VERA SACRA is a techno and ambient artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Avalon Cafe Bermondsey, London — Thu, 30 Apr 2026
-- TBA - Galleria Objects, London — Fri, 19 Dec 2025
-- Street Studios, London — Fri, 25 Jul 2025
-- The Old Church, London — Thu, 5 Jun 2025
-- Matchstick Piehouse, London — Sat, 31 May 2025
-- The Social, London — Sat, 19 Apr 2025
-- Gut Level, Sheffield — Sat, 15 Mar 2025
-- Avalon Cafe Bermondsey, London — Wed, 17 Jul 2024
+- Avalon Cafe Bermondsey, London · Thu, 30 Apr 2026
+- TBA - Galleria Objects, London · Fri, 19 Dec 2025
+- Street Studios, London · Fri, 25 Jul 2025
+- The Old Church, London · Thu, 5 Jun 2025
+- Matchstick Piehouse, London · Sat, 31 May 2025
+- The Social, London · Sat, 19 Apr 2025
+- Gut Level, Sheffield · Sat, 15 Mar 2025
+- Avalon Cafe Bermondsey, London · Wed, 17 Jul 2024
 
 ## Shares bills with
 

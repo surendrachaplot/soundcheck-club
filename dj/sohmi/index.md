@@ -1,8 +1,8 @@
 # SOHMI
 
-SOHMI is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 1720, Los Angeles on Sat, 7 Nov 2026.
+SOHMI is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 1720, Los Angeles on Sat, 7 Nov 2026.
 
-SOHMI is a house and techno artist based in South Korea, tracked on soundcheck, with 35 sets logged across Amsterdam, Austin, Chicago and Denver and 9 more. Often billed alongside Yotto, Cristoph and Eli & Fur. Next up: 1720, Los Angeles on Sat 7 Nov.
+SOHMI is a house and techno artist based in South Korea, with 35 gigs on soundcheck across Amsterdam, Austin, Chicago and Denver and 9 more. Often billed alongside Yotto, Cristoph and Eli & Fur. Next up: 1720, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SOHMI is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 ## Recently played
 
-- Tigres de la Noche, Washington DC — Sat, 29 Aug 2026
-- Ora, Seattle — Sat, 25 Jul 2026
-- TBA - Echo Park, Los Angeles — Sat, 23 May 2026
-- Brooklyn Mirage, New York City — Sat, 17 May 2025
-- The Brooklyn Monarch, New York City — Sat, 17 May 2025
-- La Otra Wynwood, Miami — Sun, 30 Mar 2025
-- Wynwood Marketplace, Miami — Sat, 29 Mar 2025
-- La Otra Wynwood, Miami — Wed, 26 Mar 2025
+- Tigres de la Noche, Washington DC · Sat, 29 Aug 2026
+- Ora, Seattle · Sat, 25 Jul 2026
+- TBA - Echo Park, Los Angeles · Sat, 23 May 2026
+- Brooklyn Mirage, New York City · Sat, 17 May 2025
+- The Brooklyn Monarch, New York City · Sat, 17 May 2025
+- La Otra Wynwood, Miami · Sun, 30 Mar 2025
+- Wynwood Marketplace, Miami · Sat, 29 Mar 2025
+- La Otra Wynwood, Miami · Wed, 26 Mar 2025
 
 ## Shares bills with
 

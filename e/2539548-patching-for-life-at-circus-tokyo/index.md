@@ -1,6 +1,6 @@
 # Patching For Life at Circus Tokyo
 
-Patching For Life at Circus Tokyo on Thu 10 Dec, Tokyo. Techno and House. Preview the line-up and save it on soundcheck.
+Patching For Life at Circus Tokyo on Thu 10 Dec, Tokyo. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

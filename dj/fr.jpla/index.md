@@ -1,8 +1,8 @@
 # fr. JPLA
 
-fr. JPLA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Void Hall, Berlin on Fri, 2 Oct 2026.
+fr. JPLA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Void Hall, Berlin on Fri, 2 Oct 2026.
 
-fr. JPLA is a techno and house artist based in Germany, tracked on soundcheck, with 80 sets logged across Berlin, Hamburg, Leipzig and Toronto and 1 more. Often billed alongside karete bu, Barbara Hofmann and Hang Aoki. Next up: Void Hall, Berlin on Fri 2 Oct.
+fr. JPLA is a techno and house artist based in Germany, with 80 gigs on soundcheck across Berlin, Hamburg, Leipzig and Toronto and 1 more. Often billed alongside karete bu, Barbara Hofmann and Hang Aoki. Next up: Void Hall, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ fr. JPLA is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- Jonny Knüppel, Berlin — Sat, 29 Aug 2026
-- OXI, Berlin — Tue, 14 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 16 May 2026
-- Distillery, Leipzig — Thu, 30 Apr 2026
-- ://about blank, Berlin — Fri, 24 Apr 2026
-- ://about blank, Berlin — Fri, 17 Apr 2026
-- Distillery, Leipzig — Sat, 4 Apr 2026
-- Tresor / Globus, Berlin — Mon, 23 Mar 2026
+- Jonny Knüppel, Berlin · Sat, 29 Aug 2026
+- OXI, Berlin · Tue, 14 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 16 May 2026
+- Distillery, Leipzig · Thu, 30 Apr 2026
+- ://about blank, Berlin · Fri, 24 Apr 2026
+- ://about blank, Berlin · Fri, 17 Apr 2026
+- Distillery, Leipzig · Sat, 4 Apr 2026
+- Tresor / Globus, Berlin · Mon, 23 Mar 2026
 
 ## Shares bills with
 

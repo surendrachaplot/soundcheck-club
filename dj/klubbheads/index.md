@@ -1,8 +1,8 @@
 # Klubbheads
 
-Klubbheads is a Acid and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
+Klubbheads is a Acid and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
 
-Klubbheads is an acid and house artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Belfast, Berlin and Dublin and 1 more. Often billed alongside Alexander Koning, Dimitri and Erick E. Next up: Maassilo, Rotterdam on Sat 3 Oct.
+Klubbheads is an acid and house artist based in Netherlands, with 11 gigs on soundcheck across Amsterdam, Belfast, Berlin and Dublin and 1 more. Often billed alongside Alexander Koning, Dimitri and Erick E. Next up: Maassilo, Rotterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Klubbheads is an acid and house artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- Thuishaven, Amsterdam — Sat, 1 Aug 2026
-- Wigwam, Dublin — Sat, 18 Oct 2025
-- Maassilo, Rotterdam — Sat, 4 Oct 2025
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 6 Sept 2025
-- Lokschuppen Berlin, Berlin — Fri, 13 Dec 2024
-- Laverys, Belfast — Sat, 20 Apr 2024
-- Thuishaven, Amsterdam — Sat, 19 Aug 2023
-- Toekomstmuziek, Amsterdam — Fri, 16 Jun 2023
+- Thuishaven, Amsterdam · Sat, 1 Aug 2026
+- Wigwam, Dublin · Sat, 18 Oct 2025
+- Maassilo, Rotterdam · Sat, 4 Oct 2025
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 6 Sept 2025
+- Lokschuppen Berlin, Berlin · Fri, 13 Dec 2024
+- Laverys, Belfast · Sat, 20 Apr 2024
+- Thuishaven, Amsterdam · Sat, 19 Aug 2023
+- Toekomstmuziek, Amsterdam · Fri, 16 Jun 2023
 
 ## Shares bills with
 

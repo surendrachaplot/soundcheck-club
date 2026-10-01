@@ -1,6 +1,6 @@
 # FLX:S 001 CRAFTMAN'S CORNER at TBA - Craftman's Corner
 
-FLX:S 001 CRAFTMAN'S CORNER at TBA - Craftman's Corner on Sat 17 Oct, Melbourne. 3 artists on the bill: CJ Slayer, Freddy Frank and Sophie Forrest. Bass and Electro. Preview the line-up and save it on soundcheck.
+FLX:S 001 CRAFTMAN'S CORNER at TBA - Craftman's Corner on Sat 17 Oct, Melbourne. 3 artists: CJ Slayer, Freddy Frank and Sophie Forrest. Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

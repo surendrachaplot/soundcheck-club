@@ -1,8 +1,8 @@
 # ZUBAR
 
-ZUBAR is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Lusk" on Thu, 1 Oct 2026.
+ZUBAR is a music venue in Tokyo with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Lusk" on Thu, 1 Oct 2026.
 
-ZUBAR is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including AKARI, DJ ISE, Dsitb and Eda and 2 more. Browse upcoming dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
+ZUBAR is a music venue in Tokyo listed on soundcheck. 19 upcoming gigs, with line-ups including AKARI, DJ ISE, Dsitb and Eda and 2 more. See dates, start times and who's playing. ZU Bldg 1F 2-54-4 Kitamagome Ota-ku Tokyo, 143-0021.
 
 ## What's on
 

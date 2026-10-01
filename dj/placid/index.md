@@ -1,8 +1,8 @@
 # Placid
 
-Placid is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Pipe & Slippers, Bristol on Fri, 9 Oct 2026.
+Placid is a Acid and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Pipe & Slippers, Bristol on Fri, 9 Oct 2026.
 
-Placid is an acid and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Bristol, Glasgow, Leeds and London. Often billed alongside Owain K, Zobol and Posthuman. Next up: The Pipe & Slippers, Bristol on Fri 9 Oct.
+Placid is an acid and house artist based in United Kingdom, with 41 gigs on soundcheck across Bristol, Glasgow, Leeds and London. Often billed alongside Owain K, Zobol and Posthuman. Next up: The Pipe & Slippers, Bristol on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Placid is an acid and house artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- The Gallimaufry, Bristol — Sat, 8 Aug 2026
-- The Pipe & Slippers, Bristol — Fri, 17 Jul 2026
-- The Cider Box, Bristol — Fri, 5 Jun 2026
-- The Pipe & Slippers, Bristol — Fri, 15 May 2026
-- The Love Inn, Bristol — Fri, 10 Apr 2026
-- The Pipe & Slippers, Bristol — Fri, 13 Mar 2026
-- Corsica Studios, London — Fri, 6 Mar 2026
-- Cosies, Bristol — Sat, 28 Feb 2026
+- The Gallimaufry, Bristol · Sat, 8 Aug 2026
+- The Pipe & Slippers, Bristol · Fri, 17 Jul 2026
+- The Cider Box, Bristol · Fri, 5 Jun 2026
+- The Pipe & Slippers, Bristol · Fri, 15 May 2026
+- The Love Inn, Bristol · Fri, 10 Apr 2026
+- The Pipe & Slippers, Bristol · Fri, 13 Mar 2026
+- Corsica Studios, London · Fri, 6 Mar 2026
+- Cosies, Bristol · Sat, 28 Feb 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # AUF'M RAVE - ARENA at TBA
 
-AUF'M RAVE - ARENA at TBA on Fri 11 Dec, Bremen. 8 artists on the bill: A.N.I., ALLY, Holy Priest and IGDA and 4 more. Preview the line-up and save it on soundcheck.
+AUF'M RAVE - ARENA at TBA on Fri 11 Dec, Bremen. 8 artists: A.N.I., ALLY, Holy Priest and IGDA and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

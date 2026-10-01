@@ -1,6 +1,6 @@
 # Remedy presents Liminal People at Dom Polski
 
-Remedy presents Liminal People at Dom Polski on Sat 24 Oct, London. 1 artist on the bill: Liminal People. House and Disco. Preview the line-up and save it on soundcheck.
+Remedy presents Liminal People at Dom Polski on Sat 24 Oct, London. 1 artist: Liminal People. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

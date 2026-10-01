@@ -1,6 +1,6 @@
 # WARRECORDS x Nest (nest.kollektive) at WARRECORDS
 
-WARRECORDS x Nest (nest.kollektive) on Fri 23 Oct, Antwerp. 1 artist on the bill: Jar:ex. Techno. Preview the line-up and save it on soundcheck.
+WARRECORDS x Nest (nest.kollektive) on Fri 23 Oct, Antwerp. 1 artist: Jar:ex. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

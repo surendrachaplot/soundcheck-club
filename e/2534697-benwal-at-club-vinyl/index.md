@@ -1,6 +1,6 @@
 # Benwal at Club Vinyl
 
-Benwal at Club Vinyl on Fri 6 Nov, Denver. 1 artist on the bill: Benwal. Trance and House. Preview the line-up and save it on soundcheck.
+Benwal at Club Vinyl on Fri 6 Nov, Denver. 1 artist: Benwal. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # COSMO RAVE: AROUND THE WORLD at Teritorija
 
-COSMO RAVE: AROUND THE WORLD at Teritorija on Fri 9 Oct, Riga. 2 artists on the bill: Notwelcome and Pulss. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+COSMO RAVE: AROUND THE WORLD at Teritorija on Fri 9 Oct, Riga. 2 artists: Notwelcome and Pulss. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

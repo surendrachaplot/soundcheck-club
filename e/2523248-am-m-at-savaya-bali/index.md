@@ -1,6 +1,6 @@
 # AMÉMÉ at Savaya Bali
 
-AMÉMÉ at Savaya Bali on Sun 6 Dec, Bali. 1 artist on the bill: AMÉMÉ. House. Preview the line-up and save it on soundcheck.
+AMÉMÉ at Savaya Bali on Sun 6 Dec, Bali. 1 artist: AMÉMÉ. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

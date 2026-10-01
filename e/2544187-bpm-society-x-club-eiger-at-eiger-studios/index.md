@@ -1,6 +1,6 @@
 # BPM Society x Club Eiger at Eiger Studios
 
-BPM Society x Club Eiger at Eiger Studios on Sat 3 Oct, Leeds. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+BPM Society x Club Eiger at Eiger Studios on Sat 3 Oct, Leeds. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

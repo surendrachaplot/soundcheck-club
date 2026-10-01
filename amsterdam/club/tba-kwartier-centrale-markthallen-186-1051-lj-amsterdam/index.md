@@ -1,8 +1,8 @@
 # TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam
 
-TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "ReSolute ADE w/ Raresh & Cap" on Thu, 22 Oct 2026.
+TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ReSolute ADE w/ Raresh & Cap" on Thu, 22 Oct 2026.
 
-TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Cap, Mari.te and Raresh. Browse upcoming dates, start times and who's playing.
+TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Cap, Mari.te and Raresh. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # nomenklatur w/ Curbside Lambsear (live) at kv.r.
 
-nomenklatur w/ Curbside Lambsear (live) at kv.r. on Sun 11 Oct, Vienna. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+nomenklatur w/ Curbside Lambsear (live) at kv.r. on Sun 11 Oct, Vienna. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

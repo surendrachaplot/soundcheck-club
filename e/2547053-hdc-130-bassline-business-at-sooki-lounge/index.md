@@ -1,6 +1,6 @@
 # HDC #130 BASSLINE BUSINESS at Sooki Lounge
 
-HDC #130 BASSLINE BUSINESS at Sooki Lounge on Sat 3 Oct, Melbourne. Techno and Garage. Preview the line-up and save it on soundcheck.
+HDC #130 BASSLINE BUSINESS at Sooki Lounge on Sat 3 Oct, Melbourne. Techno and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

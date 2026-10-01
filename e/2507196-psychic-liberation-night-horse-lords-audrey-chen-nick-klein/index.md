@@ -1,6 +1,6 @@
 # Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein at Silent Green
 
-Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein at Silent Green on Wed 18 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Psychic Liberation Night: Horse Lords + Audrey Chen & Nick Klein at Silent Green on Wed 18 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

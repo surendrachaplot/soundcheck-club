@@ -1,6 +1,6 @@
 # Ekko pres: Skatebård at Østre
 
-Ekko pres: Skatebård at Østre on Fri 2 Oct, Bergen. 1 artist on the bill: Skatebård. Preview the line-up and save it on soundcheck.
+Ekko pres: Skatebård at Østre on Fri 2 Oct, Bergen. 1 artist: Skatebård. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

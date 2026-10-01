@@ -1,6 +1,6 @@
 # INVITES: Dold at Faust
 
-INVITES: Dold at Faust on Sat 10 Oct, Seoul. 1 artist on the bill: Dold. Preview the line-up and save it on soundcheck.
+INVITES: Dold at Faust on Sat 10 Oct, Seoul. 1 artist: Dold. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

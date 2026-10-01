@@ -1,6 +1,6 @@
 # Paul Van Dyk Open To Close at Melkweg
 
-Paul Van Dyk Open To Close at Melkweg on Sat 24 Oct, Amsterdam. 1 artist on the bill: Paul Van Dyk. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Paul Van Dyk Open To Close at Melkweg on Sat 24 Oct, Amsterdam. 1 artist: Paul Van Dyk. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Toman
 
-Toman is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Penthouse Dubai, Dubai on Sat, 10 Oct 2026.
+Toman is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Penthouse Dubai, Dubai on Sat, 10 Oct 2026.
 
-Toman is a house and tech house artist based in Netherlands, tracked on soundcheck, with 165 sets logged across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside ANOTR, Ben Sterling and CHRIS STASSY. Next up: The Penthouse Dubai, Dubai on Sat 10 Oct.
+Toman is a house and tech house artist based in Netherlands, with 165 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 39 more. Often billed alongside ANOTR, Ben Sterling and CHRIS STASSY. Next up: The Penthouse Dubai, Dubai on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Toman is a house and tech house artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- Club Space Miami, Miami — Sat, 26 Sept 2026
-- Cova Santa, Ibiza — Sat, 19 Sept 2026
-- KOKO, London — Fri, 18 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 15 Sept 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 12 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 8 Sept 2026
-- Thuishaven, Amsterdam — Sun, 30 Aug 2026
-- Colorado Charlie, The Hague — Fri, 21 Aug 2026
+- Club Space Miami, Miami · Sat, 26 Sept 2026
+- Cova Santa, Ibiza · Sat, 19 Sept 2026
+- KOKO, London · Fri, 18 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 15 Sept 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sat, 12 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 8 Sept 2026
+- Thuishaven, Amsterdam · Sun, 30 Aug 2026
+- Colorado Charlie, The Hague · Fri, 21 Aug 2026
 
 ## Shares bills with
 

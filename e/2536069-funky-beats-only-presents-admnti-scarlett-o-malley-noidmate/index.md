@@ -1,6 +1,6 @@
 # Funky Beats Only presents: ADMNTi, Scarlett O'Malley & NOIDMATE at Distrikt
 
-Funky Beats Only presents: ADMNTi, Scarlett O'Malley & NOIDMATE at Distrikt on Sat 10 Oct, Leeds. House and Garage. Preview the line-up and save it on soundcheck.
+Funky Beats Only presents: ADMNTi, Scarlett O'Malley & NOIDMATE at Distrikt on Sat 10 Oct, Leeds. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

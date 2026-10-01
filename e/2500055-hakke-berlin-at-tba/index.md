@@ -1,6 +1,6 @@
 # Hakke Berlin at TBA
 
-Hakke Berlin at TBA on Sat 12 Dec, Berlin. Techno and Gabber. Preview the line-up and save it on soundcheck.
+Hakke Berlin at TBA on Sat 12 Dec, Berlin. Techno and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

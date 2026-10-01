@@ -1,6 +1,6 @@
 # Ida Engberg - ONYVAA at Stereo
 
-Ida Engberg - ONYVAA at Stereo on Fri 23 Oct, Montreal. 2 artists on the bill: Ida Engberg and ONYVAA. Preview the line-up and save it on soundcheck.
+Ida Engberg - ONYVAA at Stereo on Fri 23 Oct, Montreal. 2 artists: Ida Engberg and ONYVAA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

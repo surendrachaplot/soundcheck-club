@@ -1,6 +1,6 @@
 # Riot Bristol November at Lakota
 
-Riot Bristol November at Lakota on Sat 21 Nov, Manchester. Club and Dancehall. Preview the line-up and save it on soundcheck.
+Riot Bristol November at Lakota on Sat 21 Nov, Manchester. Club and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

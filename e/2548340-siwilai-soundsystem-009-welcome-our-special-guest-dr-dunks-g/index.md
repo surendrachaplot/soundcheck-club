@@ -1,6 +1,6 @@
 # SIWILAI SOUNDSYSTEM 009 Welcome our special guest Dr. Dunks Groovers at Siwilai Radical Club
 
-SIWILAI SOUNDSYSTEM 009 Welcome our special guest Dr. Dunks Groovers at Siwilai Radical Club on Fri 2 Oct, Bangkok. 3 artists on the bill: Eric Duncan, Kunanon and MOODYBOOM. House and Disco. Preview the line-up and save it on soundcheck.
+SIWILAI SOUNDSYSTEM 009 Welcome our special guest Dr. Dunks Groovers at Siwilai Radical Club on Fri 2 Oct, Bangkok. 3 artists: Eric Duncan, Kunanon and MOODYBOOM. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

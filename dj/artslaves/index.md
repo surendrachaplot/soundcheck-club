@@ -1,8 +1,8 @@
 # Artslaves
 
-Artslaves is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Madam, Amsterdam on Fri, 16 Oct 2026.
+Artslaves is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Madam, Amsterdam on Fri, 16 Oct 2026.
 
-Artslaves is a tech house and house artist based in Italy, tracked on soundcheck, with 28 sets logged across Amsterdam, Basel, Belgrade and Berlin and 11 more. Often billed alongside Biagio Sibilla, Hito and Jeff Sorkowitz. Next up: Madam, Amsterdam on Fri 16 Oct.
+Artslaves is a tech house and house artist based in Italy, with 28 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 11 more. Often billed alongside Biagio Sibilla, Hito and Jeff Sorkowitz. Next up: Madam, Amsterdam on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Artslaves is a tech house and house artist based in Italy, tracked on soundcheck
 
 ## Recently played
 
-- Autocine Madrid, Madrid — Sun, 14 Jun 2026
-- Duel Club, Naples — Fri, 27 Mar 2026
-- Circolo degli Illuminati, Rome — Fri, 6 Mar 2026
-- Circolo degli Illuminati, Rome — Fri, 6 Feb 2026
-- Pracht, Frankfurt — Sat, 31 Jan 2026
-- TBA - Buducnost Club, Beton Hala, Belgrade — Sat, 29 Nov 2025
-- Supermarket, Zurich — Fri, 24 Oct 2025
-- Club Partenopeo, Naples — Sun, 19 Oct 2025
+- Autocine Madrid, Madrid · Sun, 14 Jun 2026
+- Duel Club, Naples · Fri, 27 Mar 2026
+- Circolo degli Illuminati, Rome · Fri, 6 Mar 2026
+- Circolo degli Illuminati, Rome · Fri, 6 Feb 2026
+- Pracht, Frankfurt · Sat, 31 Jan 2026
+- TBA - Buducnost Club, Beton Hala, Belgrade · Sat, 29 Nov 2025
+- Supermarket, Zurich · Fri, 24 Oct 2025
+- Club Partenopeo, Naples · Sun, 19 Oct 2025
 
 ## Shares bills with
 

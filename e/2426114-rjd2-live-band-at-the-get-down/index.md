@@ -1,6 +1,6 @@
 # RJD2 (Live Band) at The Get Down
 
-RJD2 (Live Band) at The Get Down on Fri 2 Oct, Portland. Hip-Hop and Funk / Soul. Preview the line-up and save it on soundcheck.
+RJD2 (Live Band) at The Get Down on Fri 2 Oct, Portland. Hip-Hop and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

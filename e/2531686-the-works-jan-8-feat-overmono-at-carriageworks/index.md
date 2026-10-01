@@ -1,6 +1,6 @@
 # THE WORKS [JAN 8] feat. Overmono at Carriageworks
 
-THE WORKS [JAN 8] feat. Overmono at Carriageworks on Fri 8 Jan, Sydney. 1 artist on the bill: Overmono. Preview the line-up and save it on soundcheck.
+THE WORKS [JAN 8] feat. Overmono at Carriageworks on Fri 8 Jan, Sydney. 1 artist: Overmono. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

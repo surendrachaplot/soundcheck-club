@@ -1,8 +1,8 @@
 # Dan McKie
 
-Dan McKie is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Macarena Club, Barcelona on Thu, 15 Oct 2026.
+Dan McKie is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Macarena Club, Barcelona on Thu, 15 Oct 2026.
 
-Dan McKie is a house and techno artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Madrid and New York City. Often billed alongside Ana Alves, Botana and Dave Seaman. Next up: Macarena Club, Barcelona on Thu 15 Oct.
+Dan McKie is a house and techno artist based in United Kingdom, with 17 gigs on soundcheck across Amsterdam, Barcelona, Madrid and New York City. Often billed alongside Ana Alves, Botana and Dave Seaman. Next up: Macarena Club, Barcelona on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dan McKie is a house and techno artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- TBA - El Gat Negre - Gràcia - C/ Sant Lluis 47, Barcelona — Fri, 19 Jun 2026
-- Nitsa Club, Barcelona — Sun, 17 Aug 2025
-- Dr. Resin Social Club, Barcelona — Tue, 27 May 2025
-- Eleven BCN, Barcelona — Sat, 26 Apr 2025
-- Dr. Resin Social Club, Barcelona — Sun, 16 Mar 2025
-- Macarena Club, Barcelona — Fri, 24 Jan 2025
-- L'astilla, Barcelona — Sat, 14 Dec 2024
-- The Penthouse NYC, New York City — Fri, 3 May 2024
+- TBA - El Gat Negre - Gràcia - C/ Sant Lluis 47, Barcelona · Fri, 19 Jun 2026
+- Nitsa Club, Barcelona · Sun, 17 Aug 2025
+- Dr. Resin Social Club, Barcelona · Tue, 27 May 2025
+- Eleven BCN, Barcelona · Sat, 26 Apr 2025
+- Dr. Resin Social Club, Barcelona · Sun, 16 Mar 2025
+- Macarena Club, Barcelona · Fri, 24 Jan 2025
+- L'astilla, Barcelona · Sat, 14 Dec 2024
+- The Penthouse NYC, New York City · Fri, 3 May 2024
 
 ## Shares bills with
 

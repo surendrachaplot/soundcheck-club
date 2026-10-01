@@ -1,6 +1,6 @@
 # Slaughterhäus: The Sd Cut - San Diego at The Rail
 
-Slaughterhäus: The Sd Cut - San Diego at The Rail on Fri 23 Oct, San Diego. Electro and Disco. Preview the line-up and save it on soundcheck.
+Slaughterhäus: The Sd Cut - San Diego at The Rail on Fri 23 Oct, San Diego. Electro and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

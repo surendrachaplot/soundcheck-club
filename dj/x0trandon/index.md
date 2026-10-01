@@ -1,8 +1,8 @@
 # x0trandon
 
-x0trandon is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Trans-Pecos, New York City on Sat, 21 Nov 2026.
+x0trandon is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Trans-Pecos, New York City on Sat, 21 Nov 2026.
 
-x0trandon is a club and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across New York City and Toronto. Often billed alongside trandon, 22 and Syd (US). Next up: Trans-Pecos, New York City on Sat 21 Nov.
+x0trandon is a club and house artist based in United States of America, with 25 gigs on soundcheck across New York City and Toronto. Often billed alongside trandon, 22 and Syd (US). Next up: Trans-Pecos, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ x0trandon is a club and house artist based in United States of America, tracked 
 
 ## Recently played
 
-- Jade, New York City — Fri, 21 Aug 2026
-- Empire Stage, New York City — Sat, 18 Jul 2026
-- Mood Ring, New York City — Fri, 17 Jul 2026
-- Rebecca's, New York City — Thu, 11 Jun 2026
-- Hana House, New York City — Sat, 4 Oct 2025
-- Rash, New York City — Fri, 26 Sept 2025
-- Rebecca's, New York City — Fri, 19 Sept 2025
-- Rash, New York City — Fri, 29 Aug 2025
+- Jade, New York City · Fri, 21 Aug 2026
+- Empire Stage, New York City · Sat, 18 Jul 2026
+- Mood Ring, New York City · Fri, 17 Jul 2026
+- Rebecca's, New York City · Thu, 11 Jun 2026
+- Hana House, New York City · Sat, 4 Oct 2025
+- Rash, New York City · Fri, 26 Sept 2025
+- Rebecca's, New York City · Fri, 19 Sept 2025
+- Rash, New York City · Fri, 29 Aug 2025
 
 ## Shares bills with
 

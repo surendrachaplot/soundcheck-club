@@ -1,6 +1,6 @@
 # Hop on The Top Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum
 
-Hop on The Top Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum on Sat 31 Oct, Barcelona. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Hop on The Top Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum on Sat 31 Oct, Barcelona. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

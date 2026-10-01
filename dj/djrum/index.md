@@ -1,8 +1,8 @@
 # DjRUM
 
-DjRUM is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+DjRUM is a Techno and Bass artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-DjRUM is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 142 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 47 more. Often billed alongside Skee Mask, Kia (AU) and Mia Koden. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+DjRUM is a techno and bass artist based in United Kingdom, with 142 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 47 more. Often billed alongside Skee Mask, Kia (AU) and Mia Koden. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ DjRUM is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- The Cause, London — Sat, 12 Sept 2026
-- Tresor / Globus, Berlin — Fri, 11 Sept 2026
-- Gare Porto, Porto — Sat, 29 Aug 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
-- Zuiderpark, The Hague — Sat, 6 Jun 2026
-- Peckham Rye Park, London — Fri, 22 May 2026
-- Nowadays, New York City — Sat, 16 May 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Tresor / Globus, Berlin · Fri, 11 Sept 2026
+- Gare Porto, Porto · Sat, 29 Aug 2026
+- Parco Dora, Turin · Fri, 3 Jul 2026
+- Zuiderpark, The Hague · Sat, 6 Jun 2026
+- Peckham Rye Park, London · Fri, 22 May 2026
+- Nowadays, New York City · Sat, 16 May 2026
+- TBA - Les Grandes Locos , Lyon · Wed, 13 May 2026
 
 ## Shares bills with
 

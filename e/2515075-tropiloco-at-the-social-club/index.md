@@ -1,6 +1,6 @@
 # Tropiloco at The Social Club
 
-Tropiloco at The Social Club on Mon 9 Nov, Newcastle. Preview the line-up and save it on soundcheck.
+Tropiloco at The Social Club on Mon 9 Nov, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

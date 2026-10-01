@@ -1,6 +1,6 @@
 # MILLIAMPERE DJ Tallboy ALL NIGHT LONG at Lokschuppen Berlin
 
-MILLIAMPERE DJ Tallboy ALL NIGHT LONG at Lokschuppen Berlin on Sat 24 Oct, Berlin. 9 artists on the bill: Athina, DJ Discostoff, DJ Tallboy and FEROTONINO and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+MILLIAMPERE DJ Tallboy ALL NIGHT LONG at Lokschuppen Berlin on Sat 24 Oct, Berlin. 7 artists: Athina, DJ Discostoff, DJ Tallboy and FEROTONINO and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,8 +14,6 @@ MILLIAMPERE DJ Tallboy ALL NIGHT LONG at Lokschuppen Berlin on Sat 24 Oct, Berli
 - DJ Discostoff
 - DJ Tallboy
 - FEROTONINO
-- Headstorm
-- Jacob Grosse
 - Paul Meier
 - Pixie Dust
 - YËDM

@@ -1,6 +1,6 @@
 # Log Out x Sam - Sampling Moods (Free Entry) at SAM Sampling Moods
 
-Log Out x Sam - Sampling Moods (Free Entry) at SAM Sampling Moods on Sun 18 Oct, Milan. Techno and Garage. Preview the line-up and save it on soundcheck.
+Log Out x Sam - Sampling Moods (Free Entry) at SAM Sampling Moods on Sun 18 Oct, Milan. Techno and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

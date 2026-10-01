@@ -1,6 +1,6 @@
 # Mr. Belt & Wezol at Nxt Museum ADE at Nxt Museum
 
-Mr. Belt & Wezol at Nxt Museum ADE on Fri 23 Oct, Amsterdam. 1 artist on the bill: Mr. Belt & Wezol. House. Preview the line-up and save it on soundcheck.
+Mr. Belt & Wezol at Nxt Museum ADE on Fri 23 Oct, Amsterdam. 1 artist: Mr. Belt & Wezol. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

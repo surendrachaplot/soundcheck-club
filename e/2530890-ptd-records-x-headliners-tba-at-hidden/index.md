@@ -1,6 +1,6 @@
 # PTD Records x ?????? - Headliners TBA at Hidden
 
-PTD Records x ?????? - Headliners TBA at Hidden on Fri 13 Nov, Manchester. Progressive House and House. Preview the line-up and save it on soundcheck.
+PTD Records x ?????? - Headliners TBA at Hidden on Fri 13 Nov, Manchester. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

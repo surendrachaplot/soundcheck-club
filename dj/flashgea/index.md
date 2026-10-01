@@ -1,8 +1,8 @@
 # Flash Gea
 
-Flash Gea is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
+Flash Gea is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
 
-Flash Gea is a techno and trance artist based in United States of America, tracked on soundcheck, with 26 sets logged across Chicago, Miami, New York City and Philadelphia and 4 more. Often billed alongside Conrad Taylor, girl_irl and AMAYAH. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
+Flash Gea is a techno and trance artist based in United States of America, with 26 gigs on soundcheck across Chicago, Miami, New York City and Philadelphia and 4 more. Often billed alongside Conrad Taylor, girl_irl and AMAYAH. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Flash Gea is a techno and trance artist based in United States of America, track
 
 ## Recently played
 
-- Industry City, New York City — Sat, 5 Sept 2026
-- The Ground at Club Space, Miami — Sat, 15 Aug 2026
-- Ping Tom Memorial Park, Chicago — Sun, 19 Jul 2026
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Sat, 18 Jul 2026
-- EQ San Diego, San Diego — Fri, 10 Jul 2026
-- Superior Ingredients, New York City — Thu, 2 Jul 2026
-- Superior Ingredients, New York City — Thu, 2 Jul 2026
-- The Comfort Zone, Toronto — Fri, 19 Jun 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- The Ground at Club Space, Miami · Sat, 15 Aug 2026
+- Ping Tom Memorial Park, Chicago · Sun, 19 Jul 2026
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Sat, 18 Jul 2026
+- EQ San Diego, San Diego · Fri, 10 Jul 2026
+- Superior Ingredients, New York City · Thu, 2 Jul 2026
+- Superior Ingredients, New York City · Thu, 2 Jul 2026
+- The Comfort Zone, Toronto · Fri, 19 Jun 2026
 
 ## Shares bills with
 

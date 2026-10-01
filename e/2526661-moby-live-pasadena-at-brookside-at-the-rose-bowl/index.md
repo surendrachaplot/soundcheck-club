@@ -1,6 +1,6 @@
 # Moby Live Pasadena at Brookside at the Rose Bowl
 
-Moby Live Pasadena at Brookside at the Rose Bowl on Sat 7 Nov, Los Angeles. 5 artists on the bill: DJ Holographic, FCUKERS, Moby and Nia Archives and 1 more. Club. Preview the line-up and save it on soundcheck.
+Moby Live Pasadena at Brookside at the Rose Bowl on Sat 7 Nov, Los Angeles. 5 artists: DJ Holographic, FCUKERS, Moby and Nia Archives and 1 more. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

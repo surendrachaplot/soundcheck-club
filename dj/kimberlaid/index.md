@@ -1,8 +1,8 @@
 # KimberlaID
 
-KimberlaID is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at E1, London on Fri, 2 Oct 2026.
+KimberlaID is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Fri, 2 Oct 2026.
 
-KimberlaID is a techno and hardcore artist based in France, tracked on soundcheck, with 52 sets logged across Berlin, Brussels, Geneva and Ibiza and 10 more. Often billed alongside Karlfroye, Lolalita and Claude Murder. Next up: E1, London on Fri 2 Oct.
+KimberlaID is a techno and hardcore artist based in France, with 52 gigs on soundcheck across Berlin, Brussels, Geneva and Ibiza and 10 more. Often billed alongside Karlfroye, Lolalita and Claude Murder. Next up: E1, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ KimberlaID is a techno and hardcore artist based in France, tracked on soundchec
 
 ## Recently played
 
-- Cabaret  Aléatoire, Marseille — Fri, 25 Sept 2026
-- ESC, Montreal — Sat, 19 Sept 2026
-- Amnesia Ibiza, Ibiza — Wed, 15 Jul 2026
-- Le Trabendo, Paris — Fri, 26 Jun 2026
-- Virage, Paris — Sat, 20 Jun 2026
-- IDRA, Manchester — Sat, 30 May 2026
-- OXI, Berlin — Fri, 8 May 2026
-- La Station - Gare des Mines, Paris — Sat, 25 Apr 2026
+- Cabaret  Aléatoire, Marseille · Fri, 25 Sept 2026
+- ESC, Montreal · Sat, 19 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 15 Jul 2026
+- Le Trabendo, Paris · Fri, 26 Jun 2026
+- Virage, Paris · Sat, 20 Jun 2026
+- IDRA, Manchester · Sat, 30 May 2026
+- OXI, Berlin · Fri, 8 May 2026
+- La Station - Gare des Mines, Paris · Sat, 25 Apr 2026
 
 ## Shares bills with
 

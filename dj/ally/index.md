@@ -1,8 +1,8 @@
 # ALLY
 
-ALLY is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at White Space Lab, Tokyo on Fri, 9 Oct 2026.
+ALLY is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at White Space Lab, Tokyo on Fri, 9 Oct 2026.
 
-ALLY is a techno and house artist based in Japan, tracked on soundcheck, with 68 sets logged across Berlin, Bremen, Cologne and Frankfurt and 3 more. Often billed alongside YAI., HIROKI ASANO and Shogo.. Next up: White Space Lab, Tokyo on Fri 9 Oct.
+ALLY is a techno and house artist based in Japan, with 68 gigs on soundcheck across Berlin, Bremen, Cologne and Frankfurt and 3 more. Often billed alongside YAI., HIROKI ASANO and Shogo.. Next up: White Space Lab, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ ALLY is a techno and house artist based in Japan, tracked on soundcheck, with 68
 
 ## Recently played
 
-- Decabar Super, Tokyo — Fri, 25 Sept 2026
-- DeTour, Tokyo — Fri, 18 Sept 2026
-- TBA - Bar De Tour, Tokyo — Fri, 18 Sept 2026
-- Ruby Room, Tokyo — Thu, 10 Sept 2026
-- White Space Lab, Tokyo — Fri, 14 Aug 2026
-- MEIMEI, Tokyo — Sat, 25 Jul 2026
-- Z-Bau, Nürnberg — Sat, 18 Jul 2026
-- UTOPIA / DYSTOPIA, Tokyo — Sat, 11 Jul 2026
+- Decabar Super, Tokyo · Fri, 25 Sept 2026
+- DeTour, Tokyo · Fri, 18 Sept 2026
+- TBA - Bar De Tour, Tokyo · Fri, 18 Sept 2026
+- Ruby Room, Tokyo · Thu, 10 Sept 2026
+- White Space Lab, Tokyo · Fri, 14 Aug 2026
+- MEIMEI, Tokyo · Sat, 25 Jul 2026
+- Z-Bau, Nürnberg · Sat, 18 Jul 2026
+- UTOPIA / DYSTOPIA, Tokyo · Sat, 11 Jul 2026
 
 ## Shares bills with
 

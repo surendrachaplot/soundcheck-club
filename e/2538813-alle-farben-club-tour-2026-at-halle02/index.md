@@ -1,6 +1,6 @@
 # Alle Farben Club Tour 2026 at halle02
 
-Alle Farben Club Tour 2026 at halle02 on Fri 30 Oct, Heidelberg. 1 artist on the bill: Alle Farben. Preview the line-up and save it on soundcheck.
+Alle Farben Club Tour 2026 at halle02 on Fri 30 Oct, Heidelberg. 1 artist: Alle Farben. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

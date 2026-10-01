@@ -1,6 +1,6 @@
 # The Loft HALLOWEEN NYC PARTY 2026 at The Loft
 
-The Loft HALLOWEEN NYC PARTY 2026 on Sat 31 Oct, New York City. Hip-Hop and Reggaeton. Preview the line-up and save it on soundcheck.
+The Loft HALLOWEEN NYC PARTY 2026 on Sat 31 Oct, New York City. Hip-Hop and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

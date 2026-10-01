@@ -1,6 +1,6 @@
 # LED presents TEMPER FESTIVAL 2026 at Petco Park
 
-LED presents TEMPER FESTIVAL 2026 at Petco Park on Wed 30 Dec, San Diego. 12 artists on the bill: G Jones, gaszia, Jovella and Madam X and 8 more. Preview the line-up and save it on soundcheck.
+LED presents TEMPER FESTIVAL 2026 at Petco Park on Wed 30 Dec, San Diego. 12 artists: G Jones, gaszia, Jovella and Madam X and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

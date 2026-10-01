@@ -1,6 +1,6 @@
 # LILA invites… Colleen 'Cosmo' Murphy + more at The Fox and Firkin
 
-LILA invites… Colleen 'Cosmo' Murphy + more at The Fox and Firkin on Fri 6 Nov, London. 3 artists on the bill: Colleen 'Cosmo' Murphy, Kojay and LILA. House and Disco. Preview the line-up and save it on soundcheck.
+LILA invites… Colleen 'Cosmo' Murphy + more at The Fox and Firkin on Fri 6 Nov, London. 3 artists: Colleen 'Cosmo' Murphy, Kojay and LILA. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

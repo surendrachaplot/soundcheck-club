@@ -1,6 +1,6 @@
 # Dark Arts: Heartworms, Walt Disco, and More at Belgrave Music Hall
 
-Dark Arts: Heartworms, Walt Disco, and More at Belgrave Music Hall on Sat 31 Oct, Leeds. Preview the line-up and save it on soundcheck.
+Dark Arts: Heartworms, Walt Disco, and More at Belgrave Music Hall on Sat 31 Oct, Leeds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

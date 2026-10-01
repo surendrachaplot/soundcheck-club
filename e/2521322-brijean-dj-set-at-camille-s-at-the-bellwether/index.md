@@ -1,6 +1,6 @@
 # Brijean (DJ Set) at Camille's at The Bellwether
 
-Brijean (DJ Set) at Camille's at The Bellwether on Sat 31 Oct, Los Angeles. 1 artist on the bill: Colloboh. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Brijean (DJ Set) at Camille's at The Bellwether on Sat 31 Oct, Los Angeles. 1 artist: Colloboh. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

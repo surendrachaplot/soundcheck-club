@@ -1,6 +1,6 @@
 # RABOTEK: G L O W Z I, Raylhem, Jey Syano, DJ Prospekt at Bar Datcha
 
-RABOTEK: G L O W Z I, Raylhem, Jey Syano, DJ Prospekt at Bar Datcha on Thu 22 Oct, Montreal. 2 artists on the bill: G L O W Z I and Raylhem. Preview the line-up and save it on soundcheck.
+RABOTEK: G L O W Z I, Raylhem, Jey Syano, DJ Prospekt at Bar Datcha on Thu 22 Oct, Montreal. 2 artists: G L O W Z I and Raylhem. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

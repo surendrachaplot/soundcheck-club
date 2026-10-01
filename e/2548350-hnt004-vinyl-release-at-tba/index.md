@@ -1,6 +1,6 @@
 # HNT004 Vinyl Release at TBA
 
-HNT004 Vinyl Release at TBA on Fri 16 Oct, Prague. Techno. Preview the line-up and save it on soundcheck.
+HNT004 Vinyl Release at TBA on Fri 16 Oct, Prague. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

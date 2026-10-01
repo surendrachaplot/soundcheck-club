@@ -1,6 +1,6 @@
 # POWER AFTER at SUPPPERCLUB (AFTERPARTY) at Supperclub
 
-POWER AFTER at SUPPPERCLUB (AFTERPARTY) at Supperclub on Thu 22 Oct, Amsterdam. 2 artists on the bill: KOLE AUDRO and Philip Ackowsky. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+POWER AFTER at SUPPPERCLUB (AFTERPARTY) at Supperclub on Thu 22 Oct, Amsterdam. 2 artists: KOLE AUDRO and Philip Ackowsky. Tech House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

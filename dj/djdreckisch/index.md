@@ -1,8 +1,8 @@
 # DJ DRECKISCH
 
-DJ DRECKISCH is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
+DJ DRECKISCH is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
 
-DJ DRECKISCH is a techno and trance artist based in Germany, tracked on soundcheck, with 88 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Kacy, 3LEEZA and Paraçek. Next up: Edelfettwerk, Hamburg on Fri 9 Oct.
+DJ DRECKISCH is a techno and trance artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 6 more. Often billed alongside Kacy, 3LEEZA and Paraçek. Next up: Edelfettwerk, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ DJ DRECKISCH is a techno and trance artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Bootshaus, Cologne — Sat, 26 Sept 2026
-- Bootshaus, Cologne — Sat, 26 Sept 2026
-- Z-Bau, Nürnberg — Sat, 5 Sept 2026
-- Sommerbad Neukölln, Berlin — Sun, 30 Aug 2026
-- Schlachthof Wiesbaden, Frankfurt — Sat, 29 Aug 2026
-- Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- Lokschuppen Berlin, Berlin — Fri, 3 Jul 2026
+- Bootshaus, Cologne · Sat, 26 Sept 2026
+- Bootshaus, Cologne · Sat, 26 Sept 2026
+- Z-Bau, Nürnberg · Sat, 5 Sept 2026
+- Sommerbad Neukölln, Berlin · Sun, 30 Aug 2026
+- Schlachthof Wiesbaden, Frankfurt · Sat, 29 Aug 2026
+- Lokschuppen Berlin, Berlin · Sat, 15 Aug 2026
+- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
+- Lokschuppen Berlin, Berlin · Fri, 3 Jul 2026
 
 ## Shares bills with
 

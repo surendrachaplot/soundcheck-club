@@ -1,6 +1,6 @@
 # Digitalism at Melkweg
 
-Digitalism at Melkweg on Thu 5 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+Digitalism at Melkweg on Thu 5 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

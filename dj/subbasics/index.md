@@ -1,8 +1,8 @@
 # Sub Basics
 
-Sub Basics is a Dubstep and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at radial, London on Fri, 2 Oct 2026.
+Sub Basics is a Dubstep and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at radial, London on Fri, 2 Oct 2026.
 
-Sub Basics is a dubstep and dub techno artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Auckland, Barcelona, Bristol and Ghent and 7 more. Often billed alongside Javano, Witch Trials and Fearless Dread. Next up: radial, London on Fri 2 Oct.
+Sub Basics is a dubstep and dub techno artist based in United Kingdom, with 26 gigs on soundcheck across Auckland, Barcelona, Bristol and Ghent and 7 more. Often billed alongside Javano, Witch Trials and Fearless Dread. Next up: radial, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sub Basics is a dubstep and dub techno artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Phonica Records, London — Thu, 17 Sept 2026
-- The Greyhound, London — Fri, 14 Aug 2026
-- radial, London — Fri, 31 Jul 2026
-- Planet Wax, London — Sat, 4 Jul 2026
-- renae, Manchester — Sat, 23 May 2026
-- Hackney Wick Multiple Venues, London — Sat, 2 May 2026
-- LAUT, Barcelona — Thu, 30 Apr 2026
-- M.O.T, London — Sat, 18 Apr 2026
+- Phonica Records, London · Thu, 17 Sept 2026
+- The Greyhound, London · Fri, 14 Aug 2026
+- radial, London · Fri, 31 Jul 2026
+- Planet Wax, London · Sat, 4 Jul 2026
+- renae, Manchester · Sat, 23 May 2026
+- Hackney Wick Multiple Venues, London · Sat, 2 May 2026
+- LAUT, Barcelona · Thu, 30 Apr 2026
+- M.O.T, London · Sat, 18 Apr 2026
 
 ## Shares bills with
 

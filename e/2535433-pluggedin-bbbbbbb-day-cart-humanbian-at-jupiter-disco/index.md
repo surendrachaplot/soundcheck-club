@@ -1,6 +1,6 @@
 # PluggedIN: bbbBbBB, Day Cart, HumanbIAN at Jupiter Disco
 
-PluggedIN: bbbBbBB, Day Cart, HumanbIAN at Jupiter Disco on Thu 8 Oct, New York City. 3 artists on the bill: BbbBbBB, Day Cart and HumanbIAN. Preview the line-up and save it on soundcheck.
+PluggedIN: bbbBbBB, Day Cart, HumanbIAN at Jupiter Disco on Thu 8 Oct, New York City. 3 artists: BbbBbBB, Day Cart and HumanbIAN. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

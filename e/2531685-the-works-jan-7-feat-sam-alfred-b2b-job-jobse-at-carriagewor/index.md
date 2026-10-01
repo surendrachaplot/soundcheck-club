@@ -1,6 +1,6 @@
 # THE WORKS [JAN 7] feat. Sam Alfred b2b Job Jobse at Carriageworks
 
-THE WORKS [JAN 7] feat. Sam Alfred b2b Job Jobse at Carriageworks on Thu 7 Jan, Sydney. 2 artists on the bill: Job Jobse and Sam Alfred. Preview the line-up and save it on soundcheck.
+THE WORKS [JAN 7] feat. Sam Alfred b2b Job Jobse at Carriageworks on Thu 7 Jan, Sydney. 2 artists: Job Jobse and Sam Alfred. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

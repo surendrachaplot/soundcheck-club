@@ -1,6 +1,6 @@
 # IMPULS RAUSCH at Rotunde
 
-IMPULS RAUSCH at Rotunde on Fri 2 Oct, Bochum. Trance and Techno. Preview the line-up and save it on soundcheck.
+IMPULS RAUSCH at Rotunde on Fri 2 Oct, Bochum. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

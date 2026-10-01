@@ -1,6 +1,6 @@
 # SHIFTY's Halloween Birthday at 45 London
 
-SHIFTY's Halloween Birthday at 45 London on Sat 31 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+SHIFTY's Halloween Birthday at 45 London on Sat 31 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

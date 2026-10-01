@@ -1,6 +1,6 @@
 # Linkona & Basti Thielburg all night long at UHU Bar at TBA - Uhu Bar
 
-Linkona & Basti Thielburg all night long at UHU Bar at TBA - Uhu Bar on Sat 3 Oct, Stuttgart. 1 artist on the bill: Basti Thielburg. Techno. Preview the line-up and save it on soundcheck.
+Linkona & Basti Thielburg all night long at UHU Bar at TBA - Uhu Bar on Sat 3 Oct, Stuttgart. 1 artist: Basti Thielburg. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Egg LDN Pres: SUBVRS at Egg London
 
-Egg LDN Pres: SUBVRS at Egg London on Sat 24 Oct, London. Tech House. Preview the line-up and save it on soundcheck.
+Egg LDN Pres: SUBVRS at Egg London on Sat 24 Oct, London. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Worakls at Nordstern
 
-Worakls at Nordstern on Sat 24 Oct, Basel. 1 artist on the bill: Worakls. Preview the line-up and save it on soundcheck.
+Worakls at Nordstern on Sat 24 Oct, Basel. 1 artist: Worakls. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

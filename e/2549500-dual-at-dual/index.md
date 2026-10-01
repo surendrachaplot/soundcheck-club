@@ -1,6 +1,6 @@
 # DUAL at Dual
 
-DUAL at Dual on Fri 2 Oct, Bangkok. 3 artists on the bill: Eizu 映図, Elaheh and Takky. Techno and Minimal. Preview the line-up and save it on soundcheck.
+DUAL at Dual on Fri 2 Oct, Bangkok. 3 artists: Eizu 映図, Elaheh and Takky. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

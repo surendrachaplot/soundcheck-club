@@ -1,6 +1,6 @@
 # R&B and FUNKY HOUSE NIGHT at Setlist @ Somerset House
 
-R&B and FUNKY HOUSE NIGHT at Setlist @ Somerset House on Fri 9 Oct, London. R&B and UK Funky. Preview the line-up and save it on soundcheck.
+R&B and FUNKY HOUSE NIGHT at Setlist @ Somerset House on Fri 9 Oct, London. R&B and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

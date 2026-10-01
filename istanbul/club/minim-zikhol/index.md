@@ -1,8 +1,8 @@
 # Minimüzikhol
 
-Minimüzikhol is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Jamie S / Morty" on Fri, 2 Oct 2026.
+Minimüzikhol is a music venue in Istanbul with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Jamie S / Morty" on Fri, 2 Oct 2026.
 
-Minimüzikhol is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with line-ups including dj sweet6teen, Jamie S (TR), Murat Uncuoglu and Subsky and 1 more. Browse upcoming dates, start times and who's playing. Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul.
+Minimüzikhol is a music venue in Istanbul listed on soundcheck. 4 upcoming gigs, with line-ups including dj sweet6teen, Jamie S (TR), Murat Uncuoglu and Subsky and 1 more. See dates, start times and who's playing. Siraselviler Caddesi Soganci Sok. Cihangir Palas No:3/1 Beyoglu Istanbul.
 
 ## What's on
 

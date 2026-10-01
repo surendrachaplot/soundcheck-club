@@ -1,6 +1,6 @@
 # RESONANZ: Descent at The Bunker
 
-RESONANZ: Descent at The Bunker on Sat 10 Oct, Liverpool. Techno. Preview the line-up and save it on soundcheck.
+RESONANZ: Descent at The Bunker on Sat 10 Oct, Liverpool. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

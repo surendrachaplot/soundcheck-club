@@ -1,6 +1,6 @@
 # MYD INVITES SALUTE, TSHA, AKALEX at Mia Mao
 
-MYD INVITES SALUTE, TSHA, AKALEX at Mia Mao on Fri 6 Nov, Paris. Electro. Preview the line-up and save it on soundcheck.
+MYD INVITES SALUTE, TSHA, AKALEX at Mia Mao on Fri 6 Nov, Paris. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

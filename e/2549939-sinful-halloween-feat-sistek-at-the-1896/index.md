@@ -1,6 +1,6 @@
 # Sinful Halloween feat. Sistek at The 1896
 
-Sinful Halloween feat. Sistek at The 1896 on Fri 30 Oct, New York City. 1 artist on the bill: Sistek. House. Preview the line-up and save it on soundcheck.
+Sinful Halloween feat. Sistek at The 1896 on Fri 30 Oct, New York City. 1 artist: Sistek. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ANNA FESTA (#かずきの生誕) Day1 at DeTour
 
-ANNA FESTA (#かずきの生誕) Day1 at DeTour on Fri 16 Oct, Tokyo. Disco and Pop. Preview the line-up and save it on soundcheck.
+ANNA FESTA (#かずきの生誕) Day1 at DeTour on Fri 16 Oct, Tokyo. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

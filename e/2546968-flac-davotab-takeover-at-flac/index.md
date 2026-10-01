@@ -1,6 +1,6 @@
 # Flac: Davotab Takeover at Flac
 
-Flac: Davotab Takeover on Fri 2 Oct, Seoul. 2 artists on the bill: Bagagee Viphex13 and voidrover. House and Tech House. Preview the line-up and save it on soundcheck.
+Flac: Davotab Takeover on Fri 2 Oct, Seoul. 2 artists: Bagagee Viphex13 and voidrover. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

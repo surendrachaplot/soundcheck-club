@@ -1,8 +1,8 @@
 # Quince
 
-Quince is a Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrik, Madrid on Sat, 3 Oct 2026.
+Quince is a Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrik, Madrid on Sat, 3 Oct 2026.
 
-Quince is a trance artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Berlin, Glasgow, Madrid and Rotterdam. Often billed alongside H1pnos1s, Sandwicho and Amo (IT). Next up: Fabrik, Madrid on Sat 3 Oct.
+Quince is a trance artist based in Netherlands, with 7 gigs on soundcheck across Berlin, Glasgow, Madrid and Rotterdam. Often billed alongside H1pnos1s, Sandwicho and Amo (IT). Next up: Fabrik, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ Quince is a trance artist based in Netherlands, tracked on soundcheck, with 7 se
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Sat, 13 Dec 2025
-- Mondo, Madrid — Thu, 25 Sept 2025
-- Laboratorio Octogon, Madrid — Fri, 30 May 2025
-- Sala Nazca, Madrid — Fri, 14 Mar 2025
-- Toffler, Rotterdam — Fri, 9 Aug 2024
+- Lokschuppen Berlin, Berlin · Sat, 13 Dec 2025
+- Mondo, Madrid · Thu, 25 Sept 2025
+- Laboratorio Octogon, Madrid · Fri, 30 May 2025
+- Sala Nazca, Madrid · Fri, 14 Mar 2025
+- Toffler, Rotterdam · Fri, 9 Aug 2024
 
 ## Shares bills with
 

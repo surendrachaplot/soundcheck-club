@@ -1,6 +1,6 @@
 # [CLOSING PARTY] Happy Techno Barcelona - Open Air / Daytime at La Terrrazza
 
-[CLOSING PARTY] Happy Techno Barcelona - Open Air / Daytime at La Terrrazza on Sat 14 Nov, Barcelona. House and Tech House. Preview the line-up and save it on soundcheck.
+[CLOSING PARTY] Happy Techno Barcelona - Open Air / Daytime at La Terrrazza on Sat 14 Nov, Barcelona. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

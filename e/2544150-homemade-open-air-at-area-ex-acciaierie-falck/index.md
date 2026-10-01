@@ -1,6 +1,6 @@
 # HomeMade OPEN AIR at Area Ex Acciaierie Falck
 
-HomeMade OPEN AIR at Area Ex Acciaierie Falck on Sun 11 Oct, Milan. House and Tech House. Preview the line-up and save it on soundcheck.
+HomeMade OPEN AIR at Area Ex Acciaierie Falck on Sun 11 Oct, Milan. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HSP PRSNTS: GANS at Rough Trade Liverpool at Rough Trade Liverpool
 
-HSP PRSNTS: GANS at Rough Trade Liverpool on Fri 9 Oct, Liverpool. Electronica. Preview the line-up and save it on soundcheck.
+HSP PRSNTS: GANS at Rough Trade Liverpool on Fri 9 Oct, Liverpool. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

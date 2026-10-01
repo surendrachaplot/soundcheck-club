@@ -1,6 +1,6 @@
 # Loveth Besamoh + I Love You Honey Bunny at Cinetol
 
-Loveth Besamoh + I Love You Honey Bunny at Cinetol on Sun 8 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+Loveth Besamoh + I Love You Honey Bunny at Cinetol on Sun 8 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

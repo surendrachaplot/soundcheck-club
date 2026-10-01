@@ -1,8 +1,8 @@
 # Function
 
-Function is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
+Function is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
 
-Function is a techno and house artist based in United States of America, tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
+Function is a techno and house artist based in United States of America, with 131 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Regis, Sandwell District and Sarah Wreath. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Function is a techno and house artist based in United States of America, tracked
 
 ## Recently played
 
-- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 18 Sept 2026
-- Tresor / Globus, Berlin — Sat, 22 Aug 2026
-- BASEMENT, New York City — Sat, 15 Aug 2026
-- Le Sucre, Lyon — Sun, 9 Aug 2026
-- Karmen Camina, Strasbourg — Sat, 8 Aug 2026
-- Fvtvr, Paris — Fri, 7 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
-- Spreefeld Bootshaus, Berlin — Wed, 29 Jul 2026
+- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
+- Tresor / Globus, Berlin · Sat, 22 Aug 2026
+- BASEMENT, New York City · Sat, 15 Aug 2026
+- Le Sucre, Lyon · Sun, 9 Aug 2026
+- Karmen Camina, Strasbourg · Sat, 8 Aug 2026
+- Fvtvr, Paris · Fri, 7 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
+- Spreefeld Bootshaus, Berlin · Wed, 29 Jul 2026
 
 ## Shares bills with
 

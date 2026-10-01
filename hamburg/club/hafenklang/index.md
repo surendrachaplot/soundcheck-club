@@ -1,8 +1,8 @@
 # Hafenklang
 
-Hafenklang is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Upstream: ECHO w Dylan Kerr, ABADIR, Morgan Garrett" on Thu, 1 Oct 2026.
+Hafenklang is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Upstream: ECHO w Dylan Kerr, ABADIR, Morgan Garrett" on Thu, 1 Oct 2026.
 
-Hafenklang is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including ABADIR, beccs, DJ Babyblade and Dylan Kerr and 2 more. Browse upcoming dates, start times and who's playing. Große Elbstrasse 84; 22767 Hamburg; Germany.
+Hafenklang is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including ABADIR, beccs, DJ Babyblade and Dylan Kerr and 2 more. See dates, start times and who's playing. Große Elbstrasse 84; 22767 Hamburg; Germany.
 
 ## What's on
 

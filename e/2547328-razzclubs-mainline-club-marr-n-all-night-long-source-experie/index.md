@@ -1,6 +1,6 @@
 # RAZZCLUBS: Mainline Club + MARRØN (All night long) + Source Experience Live at Razzmatazz
 
-RAZZCLUBS: Mainline Club + MARRØN (All night long) + Source Experience Live at Razzmatazz on Sat 17 Oct, Barcelona. 9 artists on the bill: Acidnena, Cromby, DAVID LOST and Ed Warner and 5 more. Preview the line-up and save it on soundcheck.
+RAZZCLUBS: Mainline Club + MARRØN (All night long) + Source Experience Live at Razzmatazz on Sat 17 Oct, Barcelona. 9 artists: Acidnena, Cromby, DAVID LOST and Ed Warner and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

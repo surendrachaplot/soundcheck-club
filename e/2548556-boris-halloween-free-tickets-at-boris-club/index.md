@@ -1,6 +1,6 @@
 # BORIS HALLOWEEN - Free Tickets at BORIS CLUB
 
-BORIS HALLOWEEN - Free Tickets at BORIS CLUB on Sat 31 Oct, Barcelona. 2 artists on the bill: K:ROL and Marcel BS. House. Preview the line-up and save it on soundcheck.
+BORIS HALLOWEEN - Free Tickets at BORIS CLUB on Sat 31 Oct, Barcelona. 2 artists: K:ROL and Marcel BS. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

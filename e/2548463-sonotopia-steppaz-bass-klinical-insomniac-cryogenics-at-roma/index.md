@@ -1,6 +1,6 @@
 # SONOTOPIA: Steppaz & Bass (Klinical, Insomniac, Cryogenics) at Romantso
 
-SONOTOPIA: Steppaz & Bass (Klinical, Insomniac, Cryogenics) at Romantso on Fri 9 Oct, Athens. 1 artist on the bill: Cryogenics. Drum & Bass. Preview the line-up and save it on soundcheck.
+SONOTOPIA: Steppaz & Bass (Klinical, Insomniac, Cryogenics) at Romantso on Fri 9 Oct, Athens. 1 artist: Cryogenics. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

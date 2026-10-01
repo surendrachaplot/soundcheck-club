@@ -1,6 +1,6 @@
 # oksional: HIDRA at Mothership
 
-oksional: HIDRA at Mothership on Thu 1 Oct, San Francisco/Oakland. 2 artists on the bill: HIDRA and Justyn Myers. House and Afro House. Preview the line-up and save it on soundcheck.
+oksional: HIDRA at Mothership on Thu 1 Oct, San Francisco/Oakland. 2 artists: HIDRA and Justyn Myers. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

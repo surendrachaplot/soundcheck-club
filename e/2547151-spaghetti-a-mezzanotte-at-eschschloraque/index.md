@@ -1,6 +1,6 @@
 # Spaghetti a Mezzanotte at Eschschloraque
 
-Spaghetti a Mezzanotte at Eschschloraque on Fri 9 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Spaghetti a Mezzanotte at Eschschloraque on Fri 9 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

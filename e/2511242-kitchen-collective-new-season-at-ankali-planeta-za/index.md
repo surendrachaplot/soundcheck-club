@@ -1,6 +1,6 @@
 # ✦ Kitchen Collective ✦: New Season at Ankali & Planeta Za
 
-✦ Kitchen Collective ✦: New Season at Ankali & Planeta Za on Sat 24 Oct, Prague. 10 artists on the bill: AVHD, Blanchita, DJames and frujty and 6 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+✦ Kitchen Collective ✦: New Season at Ankali & Planeta Za on Sat 24 Oct, Prague. 10 artists: AVHD, Blanchita, DJames and frujty and 6 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

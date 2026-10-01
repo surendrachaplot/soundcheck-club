@@ -1,8 +1,8 @@
 # Tocadisco
 
-Tocadisco is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+Tocadisco is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
 
-Tocadisco is a techno and electronica artist based in Germany, tracked on soundcheck, with 22 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside DJ Jordan, Teenage Mutants and A.N.I.. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
+Tocadisco is a techno and electronica artist based in Germany, with 22 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside DJ Jordan, Teenage Mutants and A.N.I.. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Tocadisco is a techno and electronica artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Chausseestrasse 131, Berlin — Sat, 9 May 2026
-- Ritter Butzke, Berlin — Fri, 1 May 2026
-- Tanzhaus West, Frankfurt — Sat, 18 Apr 2026
-- Fridas Pier, Stuttgart — Sun, 5 Apr 2026
-- Ehrenfeld XL, Cologne — Sat, 28 Mar 2026
-- KitKatClub, Berlin — Wed, 25 Mar 2026
-- Sevenstargallery, Berlin — Wed, 11 Feb 2026
-- Ritter Butzke, Berlin — Sat, 13 Dec 2025
+- Chausseestrasse 131, Berlin · Sat, 9 May 2026
+- Ritter Butzke, Berlin · Fri, 1 May 2026
+- Tanzhaus West, Frankfurt · Sat, 18 Apr 2026
+- Fridas Pier, Stuttgart · Sun, 5 Apr 2026
+- Ehrenfeld XL, Cologne · Sat, 28 Mar 2026
+- KitKatClub, Berlin · Wed, 25 Mar 2026
+- Sevenstargallery, Berlin · Wed, 11 Feb 2026
+- Ritter Butzke, Berlin · Sat, 13 Dec 2025
 
 ## Shares bills with
 

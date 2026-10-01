@@ -1,8 +1,8 @@
 # Vaert
 
-Vaert is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
+Vaert is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Sat, 24 Oct 2026.
 
-Vaert is a techno and tech house artist based in Italy, tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona and Milan. Often billed alongside Mathame, Mind Against and Ahed. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
+Vaert is a techno and tech house artist based in Italy, with 7 gigs on soundcheck across Amsterdam, Barcelona and Milan. Often billed alongside Mathame, Mind Against and Ahed. Next up: Mediahaven - Minervahaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ Vaert is a techno and tech house artist based in Italy, tracked on soundcheck, w
 
 ## Recently played
 
-- Macarena Club, Barcelona — Wed, 30 Sept 2026
-- Parc d’Atraccions del Tibidabo, Barcelona — Fri, 18 Sept 2026
-- Macarena Club, Barcelona — Thu, 18 Jun 2026
-- M7 Club, Barcelona — Sat, 30 Mar 2024
-- Volt Club Milano, Milan — Tue, 31 Oct 2023
+- Macarena Club, Barcelona · Wed, 30 Sept 2026
+- Parc d’Atraccions del Tibidabo, Barcelona · Fri, 18 Sept 2026
+- Macarena Club, Barcelona · Thu, 18 Jun 2026
+- M7 Club, Barcelona · Sat, 30 Mar 2024
+- Volt Club Milano, Milan · Tue, 31 Oct 2023
 
 ## Shares bills with
 

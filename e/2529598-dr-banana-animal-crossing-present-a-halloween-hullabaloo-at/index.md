@@ -1,6 +1,6 @@
 # Dr Banana & Animal Crossing present a Halloween Hullabaloo at NOWHERE
 
-Dr Banana & Animal Crossing present a Halloween Hullabaloo at NOWHERE on Sat 31 Oct, Manchester. 9 artists on the bill: Dr Banana, Garrett David, Grant Dell and Hamish & Toby and 5 more. Preview the line-up and save it on soundcheck.
+Dr Banana & Animal Crossing present a Halloween Hullabaloo at NOWHERE on Sat 31 Oct, Manchester. 9 artists: Dr Banana, Garrett David, Grant Dell and Hamish & Toby and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

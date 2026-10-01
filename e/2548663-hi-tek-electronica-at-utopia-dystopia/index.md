@@ -1,6 +1,6 @@
 # Hi-TEK Electronica at UTOPIA / DYSTOPIA
 
-Hi-TEK Electronica at UTOPIA / DYSTOPIA on Fri 2 Oct, Tokyo. 6 artists on the bill: Akira, HIMAWARI, Manon and MoEPiKA and 2 more. Electro and Acid. Preview the line-up and save it on soundcheck.
+Hi-TEK Electronica at UTOPIA / DYSTOPIA on Fri 2 Oct, Tokyo. 6 artists: Akira, HIMAWARI, Manon and MoEPiKA and 2 more. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shangri-La presents: MK at Depot
 
-Shangri-La presents: MK at Depot on Sat 6 Feb, Cardiff. 1 artist on the bill: Marc Kinchen. Preview the line-up and save it on soundcheck.
+Shangri-La presents: MK at Depot on Sat 6 Feb, Cardiff. 1 artist: Marc Kinchen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

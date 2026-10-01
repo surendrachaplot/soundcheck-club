@@ -1,8 +1,8 @@
 # Kings of the Rollers
 
-Kings of the Rollers is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at UNLOCKED, London on Thu, 8 Oct 2026.
+Kings of the Rollers is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UNLOCKED, London on Thu, 8 Oct 2026.
 
-Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Auckland, Brighton and Bristol and 10 more. Often billed alongside Inja, Hedex and Bou (UK). Next up: UNLOCKED, London on Thu 8 Oct.
+Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Auckland, Brighton and Bristol and 10 more. Often billed alongside Inja, Hedex and Bou (UK). Next up: UNLOCKED, London on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Kings of the Rollers is a drum & bass and jungle artist based in United Kingdom,
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- Silverworks Island, London — Sun, 5 Jul 2026
-- The Trusts Stadium, Auckland — Sat, 30 May 2026
-- IDRA, Manchester — Sat, 23 May 2026
-- TBA - Footscray, Melbourne — Sat, 3 Jan 2026
-- Brighton Beach, Brighton — Fri, 25 Jul 2025
-- Motion Bristol, Bristol — Sat, 12 Jul 2025
-- Silverworks Island, London — Sun, 6 Jul 2025
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- Silverworks Island, London · Sun, 5 Jul 2026
+- The Trusts Stadium, Auckland · Sat, 30 May 2026
+- IDRA, Manchester · Sat, 23 May 2026
+- TBA - Footscray, Melbourne · Sat, 3 Jan 2026
+- Brighton Beach, Brighton · Fri, 25 Jul 2025
+- Motion Bristol, Bristol · Sat, 12 Jul 2025
+- Silverworks Island, London · Sun, 6 Jul 2025
 
 ## Shares bills with
 

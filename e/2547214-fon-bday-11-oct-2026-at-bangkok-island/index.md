@@ -1,6 +1,6 @@
 # Fon Bday 11 Oct 2026 at Bangkok Island
 
-Fon Bday 11 Oct 2026 at Bangkok Island on Sun 11 Oct, Bangkok. Preview the line-up and save it on soundcheck.
+Fon Bday 11 Oct 2026 at Bangkok Island on Sun 11 Oct, Bangkok. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

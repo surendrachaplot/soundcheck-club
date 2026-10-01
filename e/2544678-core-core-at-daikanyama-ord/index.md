@@ -1,6 +1,6 @@
 # CORE 対 CORE at Daikanyama ORD.
 
-CORE 対 CORE at Daikanyama ORD. on Thu 15 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+CORE 対 CORE at Daikanyama ORD. on Thu 15 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

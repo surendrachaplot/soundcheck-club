@@ -1,6 +1,6 @@
 # Jessee x Blue Tomato ADE Pop Up at TBA - Blue Tomato, Kalverstraat 193-195, 1012 XC Amsterdam
 
-Jessee x Blue Tomato ADE Pop Up at TBA - Blue Tomato, Kalverstraat 193-195, 1012 XC Amsterdam on Fri 23 Oct, Amsterdam. Drum & Bass. Preview the line-up and save it on soundcheck.
+Jessee x Blue Tomato ADE Pop Up at TBA - Blue Tomato, Kalverstraat 193-195, 1012 XC Amsterdam on Fri 23 Oct, Amsterdam. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

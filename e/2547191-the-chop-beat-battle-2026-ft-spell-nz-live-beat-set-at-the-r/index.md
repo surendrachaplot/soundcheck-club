@@ -1,6 +1,6 @@
 # The Chop Beat Battle 2026 Ft Spell (NZ) Live Beat Set at The Red Rattler
 
-The Chop Beat Battle 2026 Ft Spell (NZ) Live Beat Set at The Red Rattler on Fri 16 Oct, Sydney. Hip-Hop and Funk / Soul. Preview the line-up and save it on soundcheck.
+The Chop Beat Battle 2026 Ft Spell (NZ) Live Beat Set at The Red Rattler on Fri 16 Oct, Sydney. Hip-Hop and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

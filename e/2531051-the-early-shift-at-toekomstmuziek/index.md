@@ -1,6 +1,6 @@
 # The Early Shift at Toekomstmuziek
 
-The Early Shift at Toekomstmuziek on Wed 21 Oct, Amsterdam. 2 artists on the bill: Boyos Soundsystem and Mr.Lando. House and Disco. Preview the line-up and save it on soundcheck.
+The Early Shift at Toekomstmuziek on Wed 21 Oct, Amsterdam. 2 artists: Boyos Soundsystem and Mr.Lando. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Popshe - Halloween party at Toldi Klub
 
-Popshe - Halloween party at Toldi Klub on Fri 9 Oct, Budapest. Pop. Preview the line-up and save it on soundcheck.
+Popshe - Halloween party at Toldi Klub on Fri 9 Oct, Budapest. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

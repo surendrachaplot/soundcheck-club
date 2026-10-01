@@ -1,8 +1,8 @@
 # 100 gecs
 
-100 gecs is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at BERHTA, Washington DC on Sat, 31 Oct 2026.
+100 gecs is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BERHTA, Washington DC on Sat, 31 Oct 2026.
 
-100 gecs is an electronica and electro artist based in United States of America, tracked on soundcheck, with 7 sets logged across Chicago, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Chaos In The CBD, Crumb and Danny L Harle. Next up: BERHTA, Washington DC on Sat 31 Oct.
+100 gecs is an electronica and electro artist based in United States of America, with 7 gigs on soundcheck across Chicago, Los Angeles, Montreal and New York City and 2 more. Often billed alongside Chaos In The CBD, Crumb and Danny L Harle. Next up: BERHTA, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@
 
 ## Recently played
 
-- Union Park, Chicago — Fri, 19 Jul 2024
-- Igloofest, Montreal — Thu, 1 Feb 2024
-- Knockdown Center, New York City — Thu, 14 Dec 2023
-- Hollywood Bowl, Los Angeles — Tue, 31 Oct 2023
-- TBA, Los Angeles — Sat, 20 May 2023
-- Sydney Showgrounds, Sydney — Sun, 5 Feb 2023
+- Union Park, Chicago · Fri, 19 Jul 2024
+- Igloofest, Montreal · Thu, 1 Feb 2024
+- Knockdown Center, New York City · Thu, 14 Dec 2023
+- Hollywood Bowl, Los Angeles · Tue, 31 Oct 2023
+- TBA, Los Angeles · Sat, 20 May 2023
+- Sydney Showgrounds, Sydney · Sun, 5 Feb 2023
 
 ## Shares bills with
 

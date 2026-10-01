@@ -1,6 +1,6 @@
 # Critical Music at Volks
 
-Critical Music at Volks on Fri 11 Dec, Brighton. 1 artist on the bill: Kasra. Drum & Bass. Preview the line-up and save it on soundcheck.
+Critical Music at Volks on Fri 11 Dec, Brighton. 1 artist: Kasra. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

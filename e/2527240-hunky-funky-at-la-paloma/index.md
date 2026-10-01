@@ -1,6 +1,6 @@
 # HUNKY FUNKY at La Paloma
 
-HUNKY FUNKY at La Paloma on Sat 17 Oct, Barcelona. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+HUNKY FUNKY at La Paloma on Sat 17 Oct, Barcelona. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

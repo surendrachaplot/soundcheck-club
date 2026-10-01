@@ -1,6 +1,6 @@
 # DELIGHT at ZUBAR
 
-DELIGHT at ZUBAR on Thu 15 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+DELIGHT at ZUBAR on Thu 15 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

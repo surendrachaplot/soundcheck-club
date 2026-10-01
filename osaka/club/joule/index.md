@@ -1,8 +1,8 @@
 # Joule
 
-Joule is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Yonaguni Fiesta" on Sat, 3 Oct 2026.
+Joule is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Yonaguni Fiesta" on Sat, 3 Oct 2026.
 
-Joule is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including Astro aka Akihisa Takahashi, EMILIO, I-SO and Marcellus Pittman and 2 more. Browse upcoming dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
+Joule is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including Astro aka Akihisa Takahashi, EMILIO, I-SO and Marcellus Pittman and 2 more. See dates, start times and who's playing. 2-11-7 Nishi-Shinsaibashi, Chuo-Ku, Osaka-shi, 542-0086 Japan.
 
 ## What's on
 

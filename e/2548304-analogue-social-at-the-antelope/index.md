@@ -1,6 +1,6 @@
 # Analogue Social at The Antelope
 
-Analogue Social at The Antelope on Thu 1 Oct, London. Ambient and Afrobeat. Preview the line-up and save it on soundcheck.
+Analogue Social at The Antelope on Thu 1 Oct, London. Ambient and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

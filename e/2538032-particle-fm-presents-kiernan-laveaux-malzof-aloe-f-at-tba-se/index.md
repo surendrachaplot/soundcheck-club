@@ -1,6 +1,6 @@
 # Particle FM presents Kiernan Laveaux, Malzof, & Aloe F at TBA - Secret Location
 
-Particle FM presents Kiernan Laveaux, Malzof, & Aloe F at TBA - Secret Location on Sat 17 Oct, San Diego. 4 artists on the bill: Atrevido, Kiernan Laveaux, Malzof and Yessi. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Particle FM presents Kiernan Laveaux, Malzof, & Aloe F at TBA - Secret Location on Sat 17 Oct, San Diego. 4 artists: Atrevido, Kiernan Laveaux, Malzof and Yessi. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

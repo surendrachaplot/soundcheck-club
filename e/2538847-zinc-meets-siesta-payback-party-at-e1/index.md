@@ -1,6 +1,6 @@
 # Zinc Meets Siesta - Payback Party at E1
 
-Zinc Meets Siesta - Payback Party at E1 on Sat 28 Nov, London. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Zinc Meets Siesta - Payback Party at E1 on Sat 28 Nov, London. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

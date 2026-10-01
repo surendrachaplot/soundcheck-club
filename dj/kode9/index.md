@@ -1,8 +1,8 @@
 # Kode9
 
-Kode9 is a Bass and Experimental artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Kode9 is a Bass and Experimental artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Kode9 is a bass and experimental artist based in United Kingdom, tracked on soundcheck, with 128 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 45 more. Often billed alongside Tim Reaper, Skee Mask and Mala. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Kode9 is a bass and experimental artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 45 more. Often billed alongside Tim Reaper, Skee Mask and Mala. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Kode9 is a bass and experimental artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Badaboum, Paris — Fri, 18 Sept 2026
-- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
-- Phonica Records, London — Thu, 30 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Spazio Cavea, Rome — Sat, 18 Jul 2026
-- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
-- FOLD, London — Sat, 6 Jun 2026
-- Voce - Triennale, Milan — Sat, 11 Apr 2026
+- Badaboum, Paris · Fri, 18 Sept 2026
+- Amsterdamse Bos, Amsterdam · Sun, 2 Aug 2026
+- Phonica Records, London · Thu, 30 Jul 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- Spazio Cavea, Rome · Sat, 18 Jul 2026
+- Parc Nou. El Prat de Llobregat, Barcelona · Fri, 17 Jul 2026
+- FOLD, London · Sat, 6 Jun 2026
+- Voce - Triennale, Milan · Sat, 11 Apr 2026
 
 ## Shares bills with
 

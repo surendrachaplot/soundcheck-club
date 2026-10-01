@@ -1,6 +1,6 @@
 # NAH. KLUB NIGHT at DNA. CLUB
 
-NAH. KLUB NIGHT at DNA. CLUB on Sat 21 Nov, Berlin. Techno. Preview the line-up and save it on soundcheck.
+NAH. KLUB NIGHT at DNA. CLUB on Sat 21 Nov, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

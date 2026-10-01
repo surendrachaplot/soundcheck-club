@@ -1,6 +1,6 @@
 # Philippa Pacho at Smoke & Mirrors
 
-Philippa Pacho at Smoke & Mirrors on Fri 30 Oct, Chicago. 3 artists on the bill: Abisai, Brenda and Philippa Pacho. Trance and Techno. Preview the line-up and save it on soundcheck.
+Philippa Pacho at Smoke & Mirrors on Fri 30 Oct, Chicago. 3 artists: Abisai, Brenda and Philippa Pacho. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

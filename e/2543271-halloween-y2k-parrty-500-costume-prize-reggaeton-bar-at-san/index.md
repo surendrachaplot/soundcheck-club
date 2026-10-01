@@ -1,6 +1,6 @@
 # Halloween Y2K Parrty $500 Costume Prize Reggaeton Bar at San Antonios
 
-Halloween Y2K Parrty $500 Costume Prize Reggaeton Bar at San Antonios on Sun 1 Nov, New York City. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
+Halloween Y2K Parrty $500 Costume Prize Reggaeton Bar at San Antonios on Sun 1 Nov, New York City. Hip-Hop and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

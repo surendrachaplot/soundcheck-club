@@ -1,6 +1,6 @@
 # Drum and Babes 2 Babes at Vespers Club
 
-Drum and Babes 2 Babes at Vespers Club on Sat 3 Oct, London. Footwork and Jungle. Preview the line-up and save it on soundcheck.
+Drum and Babes 2 Babes at Vespers Club on Sat 3 Oct, London. Footwork and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

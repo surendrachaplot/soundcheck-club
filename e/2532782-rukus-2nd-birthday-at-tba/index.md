@@ -1,6 +1,6 @@
 # Rukus: 2nd Birthday at TBA
 
-Rukus: 2nd Birthday at TBA on Sat 3 Oct, Sydney. Techno and House. Preview the line-up and save it on soundcheck.
+Rukus: 2nd Birthday at TBA on Sat 3 Oct, Sydney. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

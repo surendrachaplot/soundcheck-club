@@ -1,6 +1,6 @@
 # Freight Brixton PRESENTS SOUL OF THE SOUTH: ELSA at Freight Brixton
 
-Freight Brixton PRESENTS SOUL OF THE SOUTH: ELSA on Thu 15 Oct, London. 1 artist on the bill: ELSA (UK). R&B. Preview the line-up and save it on soundcheck.
+Freight Brixton PRESENTS SOUL OF THE SOUTH: ELSA on Thu 15 Oct, London. 1 artist: ELSA (UK). R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

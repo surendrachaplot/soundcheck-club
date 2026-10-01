@@ -1,6 +1,6 @@
 # RAJTAEVEE 3 at Copyhouse
 
-RAJTAEVEE 3 at Copyhouse on Sun 11 Oct, Osaka. Dubstep and Breakcore. Preview the line-up and save it on soundcheck.
+RAJTAEVEE 3 at Copyhouse on Sun 11 Oct, Osaka. Dubstep and Breakcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

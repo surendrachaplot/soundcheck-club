@@ -1,8 +1,8 @@
 # Marina Herlop
 
-Marina Herlop is a Experimental and Pop artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Marina Herlop is a Experimental and Pop artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Marina Herlop is an experimental and pop artist based in Spain, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Kode9, James Holden and Bill Kouligas. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Marina Herlop is an experimental and pop artist based in Spain, with 35 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 16 more. Often billed alongside Kode9, James Holden and Bill Kouligas. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Marina Herlop is an experimental and pop artist based in Spain, tracked on sound
 
 ## Recently played
 
-- Razzmatazz, Barcelona — Sun, 14 Dec 2025
-- Paral•lel 62, Barcelona — Sat, 28 Sept 2024
-- ZENNER, Berlin — Thu, 5 Sept 2024
-- Hosoi, Stockholm — Fri, 9 Aug 2024
-- gART.n, Berlin — Fri, 12 Jul 2024
-- gART.n, Berlin — Fri, 12 Jul 2024
-- The Barbican Centre, London — Fri, 31 May 2024
-- TBA - Place Bellecour, Lyon — Tue, 7 May 2024
+- Razzmatazz, Barcelona · Sun, 14 Dec 2025
+- Paral•lel 62, Barcelona · Sat, 28 Sept 2024
+- ZENNER, Berlin · Thu, 5 Sept 2024
+- Hosoi, Stockholm · Fri, 9 Aug 2024
+- gART.n, Berlin · Fri, 12 Jul 2024
+- gART.n, Berlin · Fri, 12 Jul 2024
+- The Barbican Centre, London · Fri, 31 May 2024
+- TBA - Place Bellecour, Lyon · Tue, 7 May 2024
 
 ## Shares bills with
 

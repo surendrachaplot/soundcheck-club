@@ -1,8 +1,8 @@
 # AMO
 
-AMO is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Hafen7, Düsseldorf on Sat, 31 Oct 2026.
+AMO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hafen7, Düsseldorf on Sat, 31 Oct 2026.
 
-AMO is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Berlin, Düsseldorf, Ibiza and Leipzig and 7 more. Often billed alongside Chad Andrew, Adam Collins and Philipp Johann Thimm. Next up: Hafen7, Düsseldorf on Sat 31 Oct.
+AMO is a house and techno artist based in United States of America, with 40 gigs on soundcheck across Berlin, Düsseldorf, Ibiza and Leipzig and 7 more. Often billed alongside Chad Andrew, Adam Collins and Philipp Johann Thimm. Next up: Hafen7, Düsseldorf on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ AMO is a house and techno artist based in United States of America, tracked on s
 
 ## Recently played
 
-- Ministry Of Sound, London — Sat, 19 Sept 2026
-- ://about blank, Berlin — Fri, 28 Aug 2026
-- ://about blank, Berlin — Sat, 22 Aug 2026
-- Pikes Ibiza, Ibiza — Sun, 17 May 2026
-- Floyd, Miami — Fri, 3 Apr 2026
-- Esmé Hotel Roofrop Miami Beach, Miami — Mon, 23 Mar 2026
-- MAD Radio NYC, New York City — Sat, 31 Jan 2026
-- Studio 338, London — Sat, 23 Aug 2025
+- Ministry Of Sound, London · Sat, 19 Sept 2026
+- ://about blank, Berlin · Fri, 28 Aug 2026
+- ://about blank, Berlin · Sat, 22 Aug 2026
+- Pikes Ibiza, Ibiza · Sun, 17 May 2026
+- Floyd, Miami · Fri, 3 Apr 2026
+- Esmé Hotel Roofrop Miami Beach, Miami · Mon, 23 Mar 2026
+- MAD Radio NYC, New York City · Sat, 31 Jan 2026
+- Studio 338, London · Sat, 23 Aug 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # DOMINGO 04 OUT - LA SOUL / ENGINEER / DE.ROY / BONUS BASS at Era uma vez no Porto
 
-DOMINGO 04 OUT - LA SOUL / ENGINEER / DE.ROY / BONUS BASS at Era uma vez no Porto on Sun 4 Oct, Porto. Techno. Preview the line-up and save it on soundcheck.
+DOMINGO 04 OUT - LA SOUL / ENGINEER / DE.ROY / BONUS BASS at Era uma vez no Porto on Sun 4 Oct, Porto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

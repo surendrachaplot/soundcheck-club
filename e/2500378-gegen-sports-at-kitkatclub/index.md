@@ -1,6 +1,6 @@
 # GEGEN SPORTS at KitKatClub
 
-GEGEN SPORTS at KitKatClub on Fri 13 Nov, Berlin. 13 artists on the bill: AAguilAA, androgienia, BOYCA and CHRANDY and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
+GEGEN SPORTS at KitKatClub on Fri 13 Nov, Berlin. 14 artists: AAguilAA, androgienia, BOYCA and Byron Yeates and 10 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ GEGEN SPORTS at KitKatClub on Fri 13 Nov, Berlin. 13 artists on the bill: AAguil
 - AAguilAA
 - androgienia
 - BOYCA
+- Byron Yeates
 - CHRANDY
 - Citizens Union
 - Cristian Marras

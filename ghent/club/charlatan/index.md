@@ -1,8 +1,8 @@
 # Charlatan
 
-Charlatan is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Vroeg Pieken" on Sat, 3 Oct 2026.
+Charlatan is a music venue in Ghent with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Vroeg Pieken" on Sat, 3 Oct 2026.
 
-Charlatan is a music venue in Ghent listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Vlasmarkt 6, 9000 Gent, Belgium.
+Charlatan is a music venue in Ghent listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Vlasmarkt 6, 9000 Gent, Belgium.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Volnost Night with 'DEEPMIND' at Volnost
 
-Volnost Night with 'DEEPMIND' on Fri 16 Oct, Seoul. 3 artists on the bill: chukimaandal, Deekay and Zorba. Techno. Preview the line-up and save it on soundcheck.
+Volnost Night with 'DEEPMIND' on Fri 16 Oct, Seoul. 3 artists: chukimaandal, Deekay and Zorba. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

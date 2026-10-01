@@ -1,6 +1,6 @@
 # Portrayal of Guilt + Spike Hellis at Quarry
 
-Portrayal of Guilt + Spike Hellis at Quarry on Wed 18 Nov, Liverpool. EBM and Electronica. Preview the line-up and save it on soundcheck.
+Portrayal of Guilt + Spike Hellis at Quarry on Wed 18 Nov, Liverpool. EBM and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

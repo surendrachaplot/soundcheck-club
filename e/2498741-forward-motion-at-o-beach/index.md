@@ -1,6 +1,6 @@
 # FORWARD MOTION at O Beach
 
-FORWARD MOTION at O Beach on Mon 5 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+FORWARD MOTION at O Beach on Mon 5 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

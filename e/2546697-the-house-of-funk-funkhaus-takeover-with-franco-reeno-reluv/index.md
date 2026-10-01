@@ -1,6 +1,6 @@
 # The House of Funk Funkhaus Takeover with Franco, Reeno Reluv, and Paul Heimlich at Funkhaus
 
-The House of Funk Funkhaus Takeover with Franco, Reeno Reluv, and Paul Heimlich on Fri 16 Oct, Vienna. 1 artist on the bill: Reeno Reluv. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+The House of Funk Funkhaus Takeover with Franco, Reeno Reluv, and Paul Heimlich on Fri 16 Oct, Vienna. 1 artist: Reeno Reluv. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

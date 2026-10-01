@@ -1,6 +1,6 @@
 # Keeno LIVE feat. Vibre Strings - Bristol Beacon at Bristol Beacon
 
-Keeno LIVE feat. Vibre Strings - Bristol Beacon on Sat 20 Feb, Bristol. 1 artist on the bill: Keeno. Preview the line-up and save it on soundcheck.
+Keeno LIVE feat. Vibre Strings - Bristol Beacon on Sat 20 Feb, Bristol. 1 artist: Keeno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

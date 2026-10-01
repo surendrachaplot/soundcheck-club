@@ -1,6 +1,6 @@
 # Sonnenblumen Soli Vol. 7 at Fabrique im Gängeviertel
 
-Sonnenblumen Soli Vol. 7 at Fabrique im Gängeviertel on Sat 3 Oct, Hamburg. 4 artists on the bill: mer.ve, TWOFACEDKIMMY, unjani and Vitamin T. Trance and Techno. Preview the line-up and save it on soundcheck.
+Sonnenblumen Soli Vol. 7 at Fabrique im Gängeviertel on Sat 3 Oct, Hamburg. 4 artists: mer.ve, TWOFACEDKIMMY, unjani and Vitamin T. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

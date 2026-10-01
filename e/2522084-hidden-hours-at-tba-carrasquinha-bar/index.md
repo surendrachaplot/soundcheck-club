@@ -1,6 +1,6 @@
 # Hidden Hours at TBA - Carrasquinha Bar
 
-Hidden Hours at TBA - Carrasquinha Bar on Sat 10 Oct, Lisbon. 1 artist on the bill: Dancast. House and Minimal. Preview the line-up and save it on soundcheck.
+Hidden Hours at TBA - Carrasquinha Bar on Sat 10 Oct, Lisbon. 1 artist: Dancast. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

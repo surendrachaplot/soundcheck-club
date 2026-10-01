@@ -1,6 +1,6 @@
 # Beate Barfuß /// Sansea, Joanna Lenta, Gazbee, ÈLAA, ᒍEᗰᔕKI at Beate Uwe
 
-Beate Barfuß /// Sansea, Joanna Lenta, Gazbee, ÈLAA, ᒍEᗰᔕKI at Beate Uwe on Sun 1 Nov, Berlin. 4 artists on the bill: Gazbee, Jemski., Joanna Lenta and Sansea. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+Beate Barfuß /// Sansea, Joanna Lenta, Gazbee, ÈLAA, ᒍEᗰᔕKI at Beate Uwe on Sun 1 Nov, Berlin. 4 artists: Gazbee, Jemski., Joanna Lenta and Sansea. Deep House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Josh
 
-Josh is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 93 Feet East, London on Sat, 28 Nov 2026.
+Josh is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 93 Feet East, London on Sat, 28 Nov 2026.
 
-Josh is a house and downtempo artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Frankfurt, London and Milan and 2 more. Often billed alongside Aigner, Atree and Der Andere. Next up: 93 Feet East, London on Sat 28 Nov.
+Josh is a house and downtempo artist based in Germany, with 8 gigs on soundcheck across Berlin, Frankfurt, London and Milan and 2 more. Often billed alongside Aigner, Atree and Der Andere. Next up: 93 Feet East, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Josh is a house and downtempo artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Fridas Pier, Stuttgart — Fri, 8 Aug 2025
-- Nhow Hotel, Milan — Thu, 10 Apr 2025
-- Bahnwärter Thiel, Munich — Thu, 20 Feb 2025
-- Tokonoma Club, Frankfurt — Sat, 30 Nov 2024
-- Bahnwärter Thiel, Munich — Thu, 28 Nov 2024
-- Bahnwärter Thiel, Munich — Thu, 25 Jan 2024
-- Crack Bellmer, Berlin — Sat, 16 Sept 2023
+- Fridas Pier, Stuttgart · Fri, 8 Aug 2025
+- Nhow Hotel, Milan · Thu, 10 Apr 2025
+- Bahnwärter Thiel, Munich · Thu, 20 Feb 2025
+- Tokonoma Club, Frankfurt · Sat, 30 Nov 2024
+- Bahnwärter Thiel, Munich · Thu, 28 Nov 2024
+- Bahnwärter Thiel, Munich · Thu, 25 Jan 2024
+- Crack Bellmer, Berlin · Sat, 16 Sept 2023
 
 ## Shares bills with
 

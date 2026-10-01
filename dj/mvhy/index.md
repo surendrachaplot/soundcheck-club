@@ -1,8 +1,8 @@
 # MVHY
 
-MVHY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
+MVHY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KREUZWERK, Berlin on Fri, 2 Oct 2026.
 
-MVHY is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin, New York City, Stockholm and Stuttgart and 1 more. Often billed alongside La Schmock, DJ City and Natuta. Next up: KREUZWERK, Berlin on Fri 2 Oct.
+MVHY is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin, New York City, Stockholm and Stuttgart and 1 more. Often billed alongside La Schmock, DJ City and Natuta. Next up: KREUZWERK, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ MVHY is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
-- Crack Bellmer, Berlin — Fri, 4 Sept 2026
-- BASEMENT, New York City — Sat, 22 Aug 2026
-- Kater, Berlin — Sun, 26 Jul 2026
-- Kater, Berlin — Sat, 25 Jul 2026
-- OST, Berlin — Fri, 1 May 2026
-- Crack Bellmer, Berlin — Fri, 24 Apr 2026
-- Orangerie Neukölln, Berlin — Fri, 3 Apr 2026
-- Bassiani, Tbilisi — Sat, 14 Mar 2026
+- Crack Bellmer, Berlin · Fri, 4 Sept 2026
+- BASEMENT, New York City · Sat, 22 Aug 2026
+- Kater, Berlin · Sun, 26 Jul 2026
+- Kater, Berlin · Sat, 25 Jul 2026
+- OST, Berlin · Fri, 1 May 2026
+- Crack Bellmer, Berlin · Fri, 24 Apr 2026
+- Orangerie Neukölln, Berlin · Fri, 3 Apr 2026
+- Bassiani, Tbilisi · Sat, 14 Mar 2026
 
 ## Shares bills with
 

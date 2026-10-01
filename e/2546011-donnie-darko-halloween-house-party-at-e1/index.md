@@ -1,6 +1,6 @@
 # Donnie Darko Halloween House Party at E1
 
-Donnie Darko Halloween House Party at E1 on Sun 25 Oct, London. Preview the line-up and save it on soundcheck.
+Donnie Darko Halloween House Party at E1 on Sun 25 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

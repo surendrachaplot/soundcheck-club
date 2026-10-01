@@ -1,6 +1,6 @@
 # Deep Dish (All Night Long) at Stereo
 
-Deep Dish (All Night Long) at Stereo on Sat 17 Oct, Montreal. 3 artists on the bill: Deep Dish, Dubfire and Sharam. Preview the line-up and save it on soundcheck.
+Deep Dish (All Night Long) at Stereo on Sat 17 Oct, Montreal. 3 artists: Deep Dish, Dubfire and Sharam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

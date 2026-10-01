@@ -1,8 +1,8 @@
 # Dantiez
 
-Dantiez is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paragon, New York City on Fri, 2 Oct 2026.
+Dantiez is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Fri, 2 Oct 2026.
 
-Dantiez is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Detroit, Los Angeles, Miami and Montreal and 1 more. Often billed alongside Damarii Saunderson, JMT and Kevin Saunderson. Next up: Paragon, New York City on Fri 2 Oct.
+Dantiez is a house and techno artist based in United States of America, with 48 gigs on soundcheck across Detroit, Los Angeles, Miami and Montreal and 1 more. Often billed alongside Damarii Saunderson, JMT and Kevin Saunderson. Next up: Paragon, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dantiez is a house and techno artist based in United States of America, tracked 
 
 ## Recently played
 
-- Elektricity, Detroit — Fri, 11 Sept 2026
-- Elektricity, Detroit — Fri, 11 Sept 2026
-- TV Lounge, Detroit — Sat, 22 Aug 2026
-- Tangent Gallery, Detroit — Sun, 16 Aug 2026
-- TV Lounge, Detroit — Thu, 13 Aug 2026
-- Tangent Gallery, Detroit — Thu, 13 Aug 2026
-- Paragon, New York City — Sat, 18 Jul 2026
-- TBA - IHEARTRADIO BUILDING 2529 ORLEANS STREET, Detroit — Mon, 25 May 2026
+- Elektricity, Detroit · Fri, 11 Sept 2026
+- Elektricity, Detroit · Fri, 11 Sept 2026
+- TV Lounge, Detroit · Sat, 22 Aug 2026
+- Tangent Gallery, Detroit · Sun, 16 Aug 2026
+- TV Lounge, Detroit · Thu, 13 Aug 2026
+- Tangent Gallery, Detroit · Thu, 13 Aug 2026
+- Paragon, New York City · Sat, 18 Jul 2026
+- TBA - IHEARTRADIO BUILDING 2529 ORLEANS STREET, Detroit · Mon, 25 May 2026
 
 ## Shares bills with
 

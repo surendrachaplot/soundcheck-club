@@ -1,6 +1,6 @@
 # Simon Doty w. EMJIE [Extended Set] at Refuge
 
-Simon Doty w. EMJIE [Extended Set] at Refuge on Sat 3 Oct, New York City. 2 artists on the bill: EMJIE and Simon Doty. Progressive House. Preview the line-up and save it on soundcheck.
+Simon Doty w. EMJIE [Extended Set] at Refuge on Sat 3 Oct, New York City. 2 artists: EMJIE and Simon Doty. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

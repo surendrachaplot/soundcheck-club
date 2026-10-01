@@ -1,8 +1,8 @@
 # Summer Ghemati
 
-Summer Ghemati is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Summer Ghemati is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Summer Ghemati is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Barcelona, Brighton, Ibiza and London and 2 more. Often billed alongside Max Dean, Joss Dean and Luke Dean_. Next up: DRUMSHEDS, London on Sat 3 Oct.
+Summer Ghemati is a house and tech house artist based in United Kingdom, with 34 gigs on soundcheck across Barcelona, Brighton, Ibiza and London and 2 more. Often billed alongside Max Dean, Joss Dean and Luke Dean_. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Summer Ghemati is a house and tech house artist based in United Kingdom, tracked
 
 ## Recently played
 
-- Quarters, Brighton — Sat, 1 Aug 2026
-- Parc d’Atraccions del Tibidabo, Barcelona — Thu, 18 Jun 2026
-- fabric, London — Fri, 22 May 2026
-- 528 Ibiza, Ibiza — Sat, 25 Apr 2026
-- UNLOCKED, London — Thu, 9 Apr 2026
-- Starlane Pizza Bar, London — Sun, 8 Mar 2026
-- Studio 338, London — Wed, 31 Dec 2025
-- Concourse at Depot Mayfield, Manchester — Fri, 19 Dec 2025
+- Quarters, Brighton · Sat, 1 Aug 2026
+- Parc d’Atraccions del Tibidabo, Barcelona · Thu, 18 Jun 2026
+- fabric, London · Fri, 22 May 2026
+- 528 Ibiza, Ibiza · Sat, 25 Apr 2026
+- UNLOCKED, London · Thu, 9 Apr 2026
+- Starlane Pizza Bar, London · Sun, 8 Mar 2026
+- Studio 338, London · Wed, 31 Dec 2025
+- Concourse at Depot Mayfield, Manchester · Fri, 19 Dec 2025
 
 ## Shares bills with
 

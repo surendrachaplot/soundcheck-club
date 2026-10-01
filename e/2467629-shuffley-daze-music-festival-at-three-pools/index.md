@@ -1,6 +1,6 @@
 # Shuffley Daze Music Festival at Three Pools
 
-Shuffley Daze Music Festival at Three Pools on Fri 30 Apr, West Wales. 9 artists on the bill: DJ Posture, Echo Juliet, Elkka and inda Flo and 5 more. Preview the line-up and save it on soundcheck.
+Shuffley Daze Music Festival at Three Pools on Fri 30 Apr, West Wales. 9 artists: DJ Posture, Echo Juliet, Elkka and inda Flo and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

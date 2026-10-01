@@ -1,6 +1,6 @@
 # CAFFEINA presents: Reggaeton, Latin Urban & Dembow // Ehrenfeld XL at Garagen
 
-CAFFEINA presents: Reggaeton, Latin Urban & Dembow // Ehrenfeld XL at Garagen on Sat 24 Oct, Cologne. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+CAFFEINA presents: Reggaeton, Latin Urban & Dembow // Ehrenfeld XL at Garagen on Sat 24 Oct, Cologne. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

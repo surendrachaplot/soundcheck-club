@@ -1,6 +1,6 @@
 # EXIT with 2HOT2PLAY x L.ZWO x PANTEROS.666 at WDM
 
-EXIT with 2HOT2PLAY x L.ZWO x PANTEROS.666 at WDM on Sat 12 Dec, Hannover. 5 artists on the bill: 2HOT2PLAY, 5euroGoldi, L.zwo and Melushka and 1 more. Preview the line-up and save it on soundcheck.
+EXIT with 2HOT2PLAY x L.ZWO x PANTEROS.666 at WDM on Sat 12 Dec, Hannover. 5 artists: 2HOT2PLAY, 5euroGoldi, L.zwo and Melushka and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

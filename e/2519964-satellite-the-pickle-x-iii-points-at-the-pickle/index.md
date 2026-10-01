@@ -1,6 +1,6 @@
 # Satellite: The Pickle x III Points at The Pickle
 
-Satellite: The Pickle x III Points on Sun 18 Oct, Miami. Preview the line-up and save it on soundcheck.
+Satellite: The Pickle x III Points on Sun 18 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

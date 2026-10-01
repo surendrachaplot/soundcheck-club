@@ -1,6 +1,6 @@
 # Bassworld presenta Nicolas Julian Mexico City (+18) at TBA
 
-Bassworld presenta Nicolas Julian Mexico City (+18) at TBA on Sat 3 Oct, Mexico City. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+Bassworld presenta Nicolas Julian Mexico City (+18) at TBA on Sat 3 Oct, Mexico City. Hardcore and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

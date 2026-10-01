@@ -1,6 +1,6 @@
 # HELIX x Altes Postlager Mainz - with Kalte Liebe (live) & Paraçek at Altes Postlager
 
-HELIX x Altes Postlager Mainz - with Kalte Liebe (live) & Paraçek on Fri 11 Dec, Rhineland Palatinate. 4 artists on the bill: assena, DeGuzman, Kalte Liebe and Paraçek. Preview the line-up and save it on soundcheck.
+HELIX x Altes Postlager Mainz - with Kalte Liebe (live) & Paraçek on Fri 11 Dec, Rhineland Palatinate. 4 artists: assena, DeGuzman, Kalte Liebe and Paraçek. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

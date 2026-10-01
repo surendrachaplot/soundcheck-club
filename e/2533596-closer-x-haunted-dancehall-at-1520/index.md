@@ -1,6 +1,6 @@
 # Closer x Haunted Dancehall at 1520
 
-Closer x Haunted Dancehall at 1520 on Sat 7 Nov, Manchester. Preview the line-up and save it on soundcheck.
+Closer x Haunted Dancehall at 1520 on Sat 7 Nov, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

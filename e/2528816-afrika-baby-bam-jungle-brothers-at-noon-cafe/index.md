@@ -1,6 +1,6 @@
 # AFRIKA BABY BAM （Jungle Brothers） at Noon + Cafe
 
-AFRIKA BABY BAM （Jungle Brothers） at Noon + Cafe on Mon 12 Oct, Osaka. Breakbeat and Hip-Hop. Preview the line-up and save it on soundcheck.
+AFRIKA BABY BAM （Jungle Brothers） at Noon + Cafe on Mon 12 Oct, Osaka. Breakbeat and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

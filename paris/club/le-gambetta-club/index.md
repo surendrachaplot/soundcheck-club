@@ -1,8 +1,8 @@
 # Le Gambetta Club
 
-Le Gambetta Club is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DJ D2B ALL NIGHT LONG - GAMBETTA CLUB" on Sat, 10 Oct 2026.
+Le Gambetta Club is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DJ D2B ALL NIGHT LONG - GAMBETTA CLUB" on Sat, 10 Oct 2026.
 
-Le Gambetta Club is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including AFLOT, Gratuit and Gredine. Browse upcoming dates, start times and who's playing. 104 rue de Bagnolet, 75020 Paris.
+Le Gambetta Club is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including AFLOT, Gratuit and Gredine. See dates, start times and who's playing. 104 rue de Bagnolet, 75020 Paris.
 
 ## What's on
 

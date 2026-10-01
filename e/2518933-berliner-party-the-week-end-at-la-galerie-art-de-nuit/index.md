@@ -1,6 +1,6 @@
 # BERLINER PARTY - The Week-End at La Galerie Art de Nuit
 
-BERLINER PARTY - The Week-End at La Galerie Art de Nuit on Fri 2 Oct, South East. 2 artists on the bill: Prometheus and Wiebe Roose. Preview the line-up and save it on soundcheck.
+BERLINER PARTY - The Week-End at La Galerie Art de Nuit on Fri 2 Oct, South East. 2 artists: Prometheus and Wiebe Roose. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

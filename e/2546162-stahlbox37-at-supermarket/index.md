@@ -1,6 +1,6 @@
 # Stahlbox37 at Supermarket
 
-Stahlbox37 at Supermarket on Fri 30 Oct, Zurich. 4 artists on the bill: BRAINDAAMAGE, Raxeller, REA (AL) and Valdemar. Preview the line-up and save it on soundcheck.
+Stahlbox37 at Supermarket on Fri 30 Oct, Zurich. 4 artists: BRAINDAAMAGE, Raxeller, REA (AL) and Valdemar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

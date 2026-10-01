@@ -1,6 +1,6 @@
 # DRIP Halloween at Room 2 Glasgow
 
-DRIP Halloween at Room 2 Glasgow on Sat 31 Oct, Glasgow. 3 artists on the bill: polyterror, saparilla and Spinefluid. Techno and Electronica. Preview the line-up and save it on soundcheck.
+DRIP Halloween at Room 2 Glasgow on Sat 31 Oct, Glasgow. 3 artists: polyterror, saparilla and Spinefluid. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

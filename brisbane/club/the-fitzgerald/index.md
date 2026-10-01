@@ -1,8 +1,8 @@
 # The Fitzgerald
 
-The Fitzgerald is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Logic presents - Jamie Stevens & Fergus Alexander - 3hr back to back" on Sat, 10 Oct 2026.
+The Fitzgerald is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Logic presents - Jamie Stevens & Fergus Alexander - 3hr back to back" on Sat, 10 Oct 2026.
 
-The Fitzgerald is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including Fergus Alexander, Jamie Stevens and Mike Redfern. Browse upcoming dates, start times and who's playing.
+The Fitzgerald is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including Fergus Alexander, Jamie Stevens and Mike Redfern. See dates, start times and who's playing.
 
 ## What's on
 

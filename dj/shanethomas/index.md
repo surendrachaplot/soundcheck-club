@@ -1,8 +1,8 @@
 # Shane Thomas
 
-Shane Thomas is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Echo Park, Los Angeles on Fri, 2 Oct 2026.
+Shane Thomas is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Echo Park, Los Angeles on Fri, 2 Oct 2026.
 
-Shane Thomas is a techno and club artist based in United States of America, tracked on soundcheck, with 87 sets logged across Los Angeles, New York City, San Francisco/Oakland and Toronto. Often billed alongside Rob Aquino, Banoffee and Miracles. Next up: TBA - Echo Park, Los Angeles on Fri 2 Oct.
+Shane Thomas is a techno and club artist based in United States of America, with 87 gigs on soundcheck across Los Angeles, New York City, San Francisco/Oakland and Toronto. Often billed alongside Rob Aquino, Banoffee and Miracles. Next up: TBA - Echo Park, Los Angeles on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Shane Thomas is a techno and club artist based in United States of America, trac
 
 ## Recently played
 
-- DNA Lounge, San Francisco/Oakland — Sun, 27 Sept 2026
-- TBA - Silverlake, Los Angeles — Fri, 18 Sept 2026
-- TBA, Los Angeles — Fri, 4 Sept 2026
-- TBA, Los Angeles — Sat, 29 Aug 2026
-- TBA - Silverlake, Los Angeles — Fri, 28 Aug 2026
-- TBA, Los Angeles — Sat, 22 Aug 2026
-- TBA, Los Angeles — Fri, 21 Aug 2026
-- TBA, Los Angeles — Fri, 7 Aug 2026
+- DNA Lounge, San Francisco/Oakland · Sun, 27 Sept 2026
+- TBA - Silverlake, Los Angeles · Fri, 18 Sept 2026
+- TBA, Los Angeles · Fri, 4 Sept 2026
+- TBA, Los Angeles · Sat, 29 Aug 2026
+- TBA - Silverlake, Los Angeles · Fri, 28 Aug 2026
+- TBA, Los Angeles · Sat, 22 Aug 2026
+- TBA, Los Angeles · Fri, 21 Aug 2026
+- TBA, Los Angeles · Fri, 7 Aug 2026
 
 ## Shares bills with
 

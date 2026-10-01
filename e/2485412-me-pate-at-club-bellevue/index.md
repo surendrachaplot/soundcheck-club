@@ -1,6 +1,6 @@
 # ME•PATE at Club Bellevue
 
-ME•PATE at Club Bellevue on Sat 14 Nov, Zurich. Techno and House. Preview the line-up and save it on soundcheck.
+ME•PATE at Club Bellevue on Sat 14 Nov, Zurich. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

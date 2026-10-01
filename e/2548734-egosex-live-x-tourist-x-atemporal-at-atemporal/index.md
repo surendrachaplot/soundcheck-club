@@ -1,6 +1,6 @@
 # Egosex Live x Tourist x Atemporal at Atemporal
 
-Egosex Live x Tourist x Atemporal on Sun 11 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Egosex Live x Tourist x Atemporal on Sun 11 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

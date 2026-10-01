@@ -1,6 +1,6 @@
 # DARK AREA at Bain Mathieu
 
-DARK AREA at Bain Mathieu on Sat 24 Oct, Montreal. 3 artists on the bill: Babaganouschka, Ponsif and Special K (CA). Techno. Preview the line-up and save it on soundcheck.
+DARK AREA at Bain Mathieu on Sat 24 Oct, Montreal. 3 artists: Babaganouschka, Ponsif and Special K (CA). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

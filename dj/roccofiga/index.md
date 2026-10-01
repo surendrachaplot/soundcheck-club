@@ -1,8 +1,8 @@
 # ROCCO (FIGA)
 
-ROCCO (FIGA) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 2 Oct 2026.
+ROCCO (FIGA) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 2 Oct 2026.
 
-ROCCO (FIGA) is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across New York City and Seattle. Often billed alongside LUNÁTICA, Lester Fitzpatrick and Concrete Husband. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 2 Oct.
+ROCCO (FIGA) is a techno and house artist based in United States of America, with 23 gigs on soundcheck across New York City and Seattle. Often billed alongside LUNÁTICA, Lester Fitzpatrick and Concrete Husband. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ ROCCO (FIGA) is a techno and house artist based in United States of America, tra
 
 ## Recently played
 
-- Green Room NYC, New York City — Sat, 29 Aug 2026
-- Le Bain, New York City — Sat, 6 Jun 2026
-- Mood Ring, New York City — Wed, 18 Mar 2026
-- Signal, New York City — Sat, 29 Nov 2025
-- Bossa Nova Civic Club, New York City — Tue, 25 Nov 2025
-- Signal, New York City — Sat, 25 Oct 2025
-- Le Bain, New York City — Fri, 24 Oct 2025
-- Signal, New York City — Thu, 2 Oct 2025
+- Green Room NYC, New York City · Sat, 29 Aug 2026
+- Le Bain, New York City · Sat, 6 Jun 2026
+- Mood Ring, New York City · Wed, 18 Mar 2026
+- Signal, New York City · Sat, 29 Nov 2025
+- Bossa Nova Civic Club, New York City · Tue, 25 Nov 2025
+- Signal, New York City · Sat, 25 Oct 2025
+- Le Bain, New York City · Fri, 24 Oct 2025
+- Signal, New York City · Thu, 2 Oct 2025
 
 ## Shares bills with
 

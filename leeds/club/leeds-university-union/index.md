@@ -1,8 +1,8 @@
 # Leeds University Union
 
-Leeds University Union is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Living Dead Halloween Festival - Leeds" on Sat, 31 Oct 2026.
+Leeds University Union is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Living Dead Halloween Festival - Leeds" on Sat, 31 Oct 2026.
 
-Leeds University Union is a music venue in Leeds listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Lifton Place; Leeds; LS2 9JT; United Kingdom.
+Leeds University Union is a music venue in Leeds listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Lifton Place; Leeds; LS2 9JT; United Kingdom.
 
 ## What's on
 

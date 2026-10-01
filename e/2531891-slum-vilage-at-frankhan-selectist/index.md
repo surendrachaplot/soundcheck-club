@@ -1,6 +1,6 @@
 # Slum Vilage at Frankhan Selectist
 
-Slum Vilage at Frankhan Selectist on Sat 17 Oct, Istanbul. Preview the line-up and save it on soundcheck.
+Slum Vilage at Frankhan Selectist on Sat 17 Oct, Istanbul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

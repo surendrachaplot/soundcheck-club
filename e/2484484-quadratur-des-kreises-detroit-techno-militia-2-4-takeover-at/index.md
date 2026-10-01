@@ -1,6 +1,6 @@
 # Quadratur des Kreises - Detroit Techno Militia – 2×4 Takeover at Cafe Glocksee
 
-Quadratur des Kreises - Detroit Techno Militia – 2×4 Takeover at Cafe Glocksee on Sat 31 Oct, Hannover. 1 artist on the bill: Detroit Techno Militia 2x4. Preview the line-up and save it on soundcheck.
+Quadratur des Kreises - Detroit Techno Militia – 2×4 Takeover at Cafe Glocksee on Sat 31 Oct, Hannover. 1 artist: Detroit Techno Militia 2x4. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

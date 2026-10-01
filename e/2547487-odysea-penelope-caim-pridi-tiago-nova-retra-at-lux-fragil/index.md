@@ -1,6 +1,6 @@
 # oDYSea: Penelope, Caim, Pridi; Tiago, Nova Retra at Lux Fragil
 
-oDYSea: Penelope, Caim, Pridi; Tiago, Nova Retra at Lux Fragil on Fri 23 Oct, Lisbon. 5 artists on the bill: Caim, Nova Retra, Penelope and Pridi and 1 more. Preview the line-up and save it on soundcheck.
+oDYSea: Penelope, Caim, Pridi; Tiago, Nova Retra at Lux Fragil on Fri 23 Oct, Lisbon. 5 artists: Caim, Nova Retra, Penelope and Pridi and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

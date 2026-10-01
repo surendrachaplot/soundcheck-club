@@ -1,8 +1,8 @@
 # Richie Hawtin
 
-Richie Hawtin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Richie Hawtin is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Richie Hawtin is a techno and house artist based in United Kingdom, tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Richie Hawtin is a techno and house artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Héctor Oaks, Adiel and KI/KI. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Richie Hawtin is a techno and house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Tapada da Ajuda, Lisbon — Sat, 26 Sept 2026
-- 528 Ibiza, Ibiza — Wed, 23 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 15 Sept 2026
-- Sophie Festival, Malaga — Sat, 5 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 2 Aug 2026
-- Galopprennbahn, Munich — Sat, 1 Aug 2026
-- Cavo Paradiso, Mykonos — Fri, 31 Jul 2026
-- Amnesia Ibiza, Ibiza — Sun, 19 Jul 2026
+- Tapada da Ajuda, Lisbon · Sat, 26 Sept 2026
+- 528 Ibiza, Ibiza · Wed, 23 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 15 Sept 2026
+- Sophie Festival, Malaga · Sat, 5 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 2 Aug 2026
+- Galopprennbahn, Munich · Sat, 1 Aug 2026
+- Cavo Paradiso, Mykonos · Fri, 31 Jul 2026
+- Amnesia Ibiza, Ibiza · Sun, 19 Jul 2026
 
 ## Shares bills with
 

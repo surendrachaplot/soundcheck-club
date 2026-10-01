@@ -1,6 +1,6 @@
 # Raggatron meets Accidental Meetings at Open
 
-Raggatron meets Accidental Meetings at Open on Fri 30 Oct, Tokyo. 5 artists on the bill: AKIRAM EN, i-sha, Lil Mofo and Lucien Douglas and 1 more. Techno and Dub. Preview the line-up and save it on soundcheck.
+Raggatron meets Accidental Meetings at Open on Fri 30 Oct, Tokyo. 5 artists: AKIRAM EN, i-sha, Lil Mofo and Lucien Douglas and 1 more. Techno and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

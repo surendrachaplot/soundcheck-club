@@ -1,6 +1,6 @@
 # HEAT 2YRS BIRTHDAY with KOBOSIL, KOTORRI & NACHTIGALLER at Zoom Club
 
-HEAT 2YRS BIRTHDAY with KOBOSIL, KOTORRI & NACHTIGALLER at Zoom Club on Sat 24 Oct, Frankfurt. Techno. Preview the line-up and save it on soundcheck.
+HEAT 2YRS BIRTHDAY with KOBOSIL, KOTORRI & NACHTIGALLER at Zoom Club on Sat 24 Oct, Frankfurt. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

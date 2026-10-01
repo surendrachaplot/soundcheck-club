@@ -1,6 +1,6 @@
 # +SIX12 x TEKTURNS at TBA - Bar Attic (64 SMITH ST, COLLINGWOOD NAARM/MELBOURNE AUSTRALIA)
 
-+SIX12 x TEKTURNS at TBA - Bar Attic (64 SMITH ST, COLLINGWOOD NAARM/MELBOURNE AUSTRALIA) on Sat 3 Oct, Melbourne. 1 artist on the bill: gross margins. Techno. Preview the line-up and save it on soundcheck.
++SIX12 x TEKTURNS at TBA - Bar Attic (64 SMITH ST, COLLINGWOOD NAARM/MELBOURNE AUSTRALIA) on Sat 3 Oct, Melbourne. 1 artist: gross margins. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

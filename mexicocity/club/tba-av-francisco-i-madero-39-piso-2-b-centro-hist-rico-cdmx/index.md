@@ -1,8 +1,8 @@
 # TBA - Av Francisco I. Madero 39-Piso 2-B Centro Histórico, CDMX
 
-TBA - Av Francisco I. Madero 39-Piso 2-B Centro Histórico, CDMX is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "UMBRAL (halloween edition)" on Sat, 24 Oct 2026.
+TBA - Av Francisco I. Madero 39-Piso 2-B Centro Histórico, CDMX is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "UMBRAL (halloween edition)" on Sat, 24 Oct 2026.
 
-TBA - Av Francisco I. Madero 39-Piso 2-B Centro Histórico, CDMX is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+TBA - Av Francisco I. Madero 39-Piso 2-B Centro Histórico, CDMX is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

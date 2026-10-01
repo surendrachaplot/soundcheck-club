@@ -1,6 +1,6 @@
 # 8MM Live: Sunset Images (MX) at 8MM
 
-8MM Live: Sunset Images (MX) on Tue 3 Nov, Berlin. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+8MM Live: Sunset Images (MX) on Tue 3 Nov, Berlin. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

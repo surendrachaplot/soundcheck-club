@@ -1,6 +1,6 @@
 # HOUSE OF FRIENDS SEASON LAUNCH FT DJ JNETT at 29th Apartment
 
-HOUSE OF FRIENDS SEASON LAUNCH FT DJ JNETT at 29th Apartment on Wed 7 Oct, Melbourne. 2 artists on the bill: Andrew88 and DJ JNETT. House and Deep House. Preview the line-up and save it on soundcheck.
+HOUSE OF FRIENDS SEASON LAUNCH FT DJ JNETT at 29th Apartment on Wed 7 Oct, Melbourne. 2 artists: Andrew88 and DJ JNETT. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

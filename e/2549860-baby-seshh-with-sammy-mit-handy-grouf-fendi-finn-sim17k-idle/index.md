@@ -1,6 +1,6 @@
 # Baby Seshh with Sammy mit Handy, Grouf$$$, Fendi.Finn, Sim17k & Idlestedt at Locke
 
-Baby Seshh with Sammy mit Handy, Grouf$$$, Fendi.Finn, Sim17k & Idlestedt at Locke on Fri 2 Oct, Hamburg. 2 artists on the bill: Fendi.Finn and Grouf$. Preview the line-up and save it on soundcheck.
+Baby Seshh with Sammy mit Handy, Grouf$$$, Fendi.Finn, Sim17k & Idlestedt at Locke on Fri 2 Oct, Hamburg. 2 artists: Fendi.Finn and Grouf$. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

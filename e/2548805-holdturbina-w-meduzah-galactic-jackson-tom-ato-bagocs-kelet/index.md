@@ -1,6 +1,6 @@
 # HOLDTURBINA W/ MEDUZAH, GALACTIC JACKSON, TOM ATO, BAGOCS, + KELET LIVE at Turbina
 
-HOLDTURBINA W/ MEDUZAH, GALACTIC JACKSON, TOM ATO, BAGOCS, + KELET LIVE at Turbina on Fri 16 Oct, Budapest. 3 artists on the bill: Galactic Jackson, Meduzah and Tomato (IT). Techno and Experimental. Preview the line-up and save it on soundcheck.
+HOLDTURBINA W/ MEDUZAH, GALACTIC JACKSON, TOM ATO, BAGOCS, + KELET LIVE at Turbina on Fri 16 Oct, Budapest. 3 artists: Galactic Jackson, Meduzah and Tomato (IT). Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

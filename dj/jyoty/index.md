@@ -1,8 +1,8 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Centre Point, Dublin on Fri, 9 Oct 2026.
+Jyoty is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Centre Point, Dublin on Fri, 9 Oct 2026.
 
-Jyoty is a house and techno artist based in Netherlands, tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Centre Point, Dublin on Fri 9 Oct.
+Jyoty is a house and techno artist based in Netherlands, with 138 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Centre Point, Dublin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Jyoty is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 ## Recently played
 
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- The Regency Ballroom, San Francisco/Oakland — Fri, 25 Sept 2026
-- TBA - DTLA Warehouse, Los Angeles — Fri, 18 Sept 2026
-- Signal, New York City — Sat, 12 Sept 2026
-- Nowadays, New York City — Fri, 11 Sept 2026
-- 3fifty Terrace, Detroit — Mon, 7 Sept 2026
-- Burgess Park, London — Sat, 15 Aug 2026
-- Burgess Park, London — Sat, 8 Aug 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- The Regency Ballroom, San Francisco/Oakland · Fri, 25 Sept 2026
+- TBA - DTLA Warehouse, Los Angeles · Fri, 18 Sept 2026
+- Signal, New York City · Sat, 12 Sept 2026
+- Nowadays, New York City · Fri, 11 Sept 2026
+- 3fifty Terrace, Detroit · Mon, 7 Sept 2026
+- Burgess Park, London · Sat, 15 Aug 2026
+- Burgess Park, London · Sat, 8 Aug 2026
 
 ## Shares bills with
 

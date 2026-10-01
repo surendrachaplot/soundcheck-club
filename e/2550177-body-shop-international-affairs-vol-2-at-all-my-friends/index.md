@@ -1,6 +1,6 @@
 # Body Shop: International Affairs Vol. 2 at All My Friends
 
-Body Shop: International Affairs Vol. 2 at All My Friends on Fri 2 Oct, London. 3 artists on the bill: Body Double, Ren Marino and Stamp The Wax. Preview the line-up and save it on soundcheck.
+Body Shop: International Affairs Vol. 2 at All My Friends on Fri 2 Oct, London. 3 artists: Body Double, Ren Marino and Stamp The Wax. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

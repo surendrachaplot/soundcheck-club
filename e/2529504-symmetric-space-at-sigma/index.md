@@ -1,6 +1,6 @@
 # Symmetric Space at Sigma
 
-Symmetric Space at Sigma on Fri 9 Oct, Ibiza. 4 artists on the bill: Joton, Ren Ascutt, SEMREH and Sofi Lucius. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Symmetric Space at Sigma on Fri 9 Oct, Ibiza. 4 artists: Joton, Ren Ascutt, SEMREH and Sofi Lucius. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

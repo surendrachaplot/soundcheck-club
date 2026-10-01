@@ -1,8 +1,8 @@
 # Salon Iksv
 
-Salon Iksv is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Home Again Istanbul" on Sat, 17 Oct 2026.
+Salon Iksv is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Home Again Istanbul" on Sat, 17 Oct 2026.
 
-Salon Iksv is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Alex Kassian, Butterhands, Mathew Jonson and Thabo. Browse upcoming dates, start times and who's playing. Sadi Konuralp Caddesi No:5 Sishane 34433 Istanbul.
+Salon Iksv is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Alex Kassian, Butterhands, Mathew Jonson and Thabo. See dates, start times and who's playing. Sadi Konuralp Caddesi No:5 Sishane 34433 Istanbul.
 
 ## What's on
 

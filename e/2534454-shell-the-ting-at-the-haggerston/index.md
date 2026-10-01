@@ -1,6 +1,6 @@
 # Shell The Ting at The Haggerston
 
-Shell The Ting at The Haggerston on Fri 30 Oct, London. House and UK Funky. Preview the line-up and save it on soundcheck.
+Shell The Ting at The Haggerston on Fri 30 Oct, London. House and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

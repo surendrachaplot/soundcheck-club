@@ -1,6 +1,6 @@
 # UMORA with Jean-Paul, Nico Noir, Ani Be at Dada
 
-UMORA with Jean-Paul, Nico Noir, Ani Be at Dada on Fri 2 Oct, New York City. 3 artists on the bill: Ani Be, Jean-Paul and Nico Noir. House. Preview the line-up and save it on soundcheck.
+UMORA with Jean-Paul, Nico Noir, Ani Be at Dada on Fri 2 Oct, New York City. 3 artists: Ani Be, Jean-Paul and Nico Noir. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

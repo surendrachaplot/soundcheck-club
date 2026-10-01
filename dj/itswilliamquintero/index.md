@@ -1,8 +1,8 @@
 # Itswilliamquintero
 
-Itswilliamquintero is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at K West Hotel & Spa, London on Sat, 3 Oct 2026.
+Itswilliamquintero is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at K West Hotel & Spa, London on Sat, 3 Oct 2026.
 
-Itswilliamquintero is an electronic artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Bread & Butter, P2UYA and TIME LVPSE. Next up: K West Hotel & Spa, London on Sat 3 Oct.
+Itswilliamquintero is an electronic artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Bread & Butter, P2UYA and TIME LVPSE. Next up: K West Hotel & Spa, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Itswilliamquintero is an electronic artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Jungla London, London — Sat, 11 Apr 2026
-- Jungla London, London — Fri, 20 Feb 2026
-- Jungla London, London — Sun, 28 Dec 2025
-- Jungla London, London — Sun, 19 Oct 2025
-- Jungla London, London — Fri, 10 Oct 2025
-- Jungle, London — Sat, 24 May 2025
-- Fire, London — Sat, 10 May 2025
-- N1bar London, London — Sat, 7 Sept 2024
+- Jungla London, London · Sat, 11 Apr 2026
+- Jungla London, London · Fri, 20 Feb 2026
+- Jungla London, London · Sun, 28 Dec 2025
+- Jungla London, London · Sun, 19 Oct 2025
+- Jungla London, London · Fri, 10 Oct 2025
+- Jungle, London · Sat, 24 May 2025
+- Fire, London · Sat, 10 May 2025
+- N1bar London, London · Sat, 7 Sept 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # 0番線と夜明け前 2ndアルバム「出町柳アイロニー」レコ発ツアー at Club Metro
 
-0番線と夜明け前 2ndアルバム「出町柳アイロニー」レコ発ツアー at Club Metro on Sat 5 Dec, Kyoto. Preview the line-up and save it on soundcheck.
+0番線と夜明け前 2ndアルバム「出町柳アイロニー」レコ発ツアー at Club Metro on Sat 5 Dec, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

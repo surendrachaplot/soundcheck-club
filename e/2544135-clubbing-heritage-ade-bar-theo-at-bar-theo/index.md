@@ -1,6 +1,6 @@
 # Clubbing Heritage ADE @ Bar Theo at Bar Theo
 
-Clubbing Heritage ADE @ Bar Theo on Thu 22 Oct, Amsterdam. 5 artists on the bill: Elisa Batti, Lea Occhi, Nick Moody and Pink Concrete and 1 more. House and Dub Techno. Preview the line-up and save it on soundcheck.
+Clubbing Heritage ADE @ Bar Theo on Thu 22 Oct, Amsterdam. 5 artists: Elisa Batti, Lea Occhi, Nick Moody and Pink Concrete and 1 more. House and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

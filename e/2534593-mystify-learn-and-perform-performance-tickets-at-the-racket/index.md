@@ -1,6 +1,6 @@
 # Mystify Learn and Perform - Performance Tickets at The Racket Space
 
-Mystify Learn and Perform - Performance Tickets at The Racket Space on Fri 9 Oct, Dublin. Preview the line-up and save it on soundcheck.
+Mystify Learn and Perform - Performance Tickets at The Racket Space on Fri 9 Oct, Dublin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

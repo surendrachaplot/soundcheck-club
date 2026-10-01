@@ -1,6 +1,6 @@
 # Iconic Hour at Oysters and Girls
 
-Iconic Hour at Oysters and Girls on Fri 16 Oct, Malta. House and Tech House. Preview the line-up and save it on soundcheck.
+Iconic Hour at Oysters and Girls on Fri 16 Oct, Malta. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

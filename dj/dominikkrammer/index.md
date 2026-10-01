@@ -1,8 +1,8 @@
 # Dominik Krammer
 
-Dominik Krammer is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Romantica, Stuttgart on Fri, 2 Oct 2026.
+Dominik Krammer is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Romantica, Stuttgart on Fri, 2 Oct 2026.
 
-Dominik Krammer is a techno and house artist tracked on soundcheck, with 41 sets logged across Stuttgart. Often billed alongside Hansn, Hannes Schuchardt and BLAK & CRÉER. Next up: Romantica, Stuttgart on Fri 2 Oct.
+Dominik Krammer is a techno and house artist, with 41 gigs on soundcheck across Stuttgart. Often billed alongside Hansn, Hannes Schuchardt and BLAK & CRÉER. Next up: Romantica, Stuttgart on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dominik Krammer is a techno and house artist tracked on soundcheck, with 41 sets
 
 ## Recently played
 
-- Romantica, Stuttgart — Fri, 21 Aug 2026
-- Romantica, Stuttgart — Fri, 17 Jul 2026
-- Romantica, Stuttgart — Fri, 26 Jun 2026
-- Romantica, Stuttgart — Fri, 27 Mar 2026
-- Romantica, Stuttgart — Fri, 27 Feb 2026
-- Romantica, Stuttgart — Fri, 23 Jan 2026
-- Romantica, Stuttgart — Fri, 26 Dec 2025
-- Romantica, Stuttgart — Fri, 28 Nov 2025
+- Romantica, Stuttgart · Fri, 21 Aug 2026
+- Romantica, Stuttgart · Fri, 17 Jul 2026
+- Romantica, Stuttgart · Fri, 26 Jun 2026
+- Romantica, Stuttgart · Fri, 27 Mar 2026
+- Romantica, Stuttgart · Fri, 27 Feb 2026
+- Romantica, Stuttgart · Fri, 23 Jan 2026
+- Romantica, Stuttgart · Fri, 26 Dec 2025
+- Romantica, Stuttgart · Fri, 28 Nov 2025
 
 ## Shares bills with
 

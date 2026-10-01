@@ -1,8 +1,8 @@
 # MRCL
 
-MRCL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
+MRCL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jimmy Woo, Amsterdam on Fri, 23 Oct 2026.
 
-MRCL is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Aberdeen, Amsterdam and Frankfurt. Often billed alongside Justin Hahn, CiKi and Formale Bassgestaltung. Next up: Jimmy Woo, Amsterdam on Fri 23 Oct.
+MRCL is a techno and trance artist based in Germany, with 9 gigs on soundcheck across Aberdeen, Amsterdam and Frankfurt. Often billed alongside Justin Hahn, CiKi and Formale Bassgestaltung. Next up: Jimmy Woo, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ MRCL is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
-- K39, Frankfurt — Sat, 4 Jul 2026
-- Amsterdam Central Station, Amsterdam — Fri, 24 Oct 2025
-- Tanzhaus West, Frankfurt — Sat, 22 Jun 2024
-- MuK Giessen, Frankfurt — Tue, 30 Apr 2024
-- Tanzhaus West, Frankfurt — Sat, 9 Mar 2024
-- MTW, Frankfurt — Mon, 25 Dec 2023
-- Drummonds Basement, Aberdeen — Tue, 24 Oct 2023
+- K39, Frankfurt · Sat, 4 Jul 2026
+- Amsterdam Central Station, Amsterdam · Fri, 24 Oct 2025
+- Tanzhaus West, Frankfurt · Sat, 22 Jun 2024
+- MuK Giessen, Frankfurt · Tue, 30 Apr 2024
+- Tanzhaus West, Frankfurt · Sat, 9 Mar 2024
+- MTW, Frankfurt · Mon, 25 Dec 2023
+- Drummonds Basement, Aberdeen · Tue, 24 Oct 2023
 
 ## Shares bills with
 

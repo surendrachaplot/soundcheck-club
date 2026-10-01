@@ -1,6 +1,6 @@
 # Club Rawhide FRIDAY NIGHT 10.02.26 w/ Michael Magnan, Dj Warning, TYJAH at Club Rawhide
 
-Club Rawhide FRIDAY NIGHT 10.02.26 w/ Michael Magnan, Dj Warning, TYJAH on Fri 2 Oct, New York City. 3 artists on the bill: Dj Warning, Michael Magnan and TYJAH. Techno and House. Preview the line-up and save it on soundcheck.
+Club Rawhide FRIDAY NIGHT 10.02.26 w/ Michael Magnan, Dj Warning, TYJAH on Fri 2 Oct, New York City. 3 artists: Dj Warning, Michael Magnan and TYJAH. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

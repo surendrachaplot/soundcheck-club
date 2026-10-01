@@ -1,6 +1,6 @@
 # FOTZEN FETZEN FASCHOS at frachtkante
 
-FOTZEN FETZEN FASCHOS at frachtkante on Sat 3 Oct, Berlin. 3 artists on the bill: Femdelic, Ildikó and Sherryaeri. Preview the line-up and save it on soundcheck.
+FOTZEN FETZEN FASCHOS at frachtkante on Sat 3 Oct, Berlin. 3 artists: Femdelic, Ildikó and Sherryaeri. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

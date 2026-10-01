@@ -1,8 +1,8 @@
 # Rene LaVice
 
-Rene LaVice is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Onyx (E1), London on Sat, 14 Nov 2026.
+Rene LaVice is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
 
-Rene LaVice is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Austin, London, Los Angeles and Miami and 2 more. Often billed alongside Andy C, Kleu and Larnie Moles. Next up: Onyx (E1), London on Sat 14 Nov.
+Rene LaVice is a drum & bass and jungle artist based in United Kingdom, with 8 gigs on soundcheck across Austin, London, Los Angeles and Miami and 2 more. Often billed alongside Andy C, Kleu and Larnie Moles. Next up: Onyx (E1), London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Rene LaVice is a drum & bass and jungle artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- Onyx (E1), London — Sat, 16 May 2026
-- The Lower Third, London — Fri, 10 Oct 2025
-- MAD Club Live, Miami — Sun, 30 Mar 2025
-- F8 1192 Folsom, San Francisco/Oakland — Sun, 20 Aug 2023
-- Station1640, Los Angeles — Thu, 17 Aug 2023
-- TBA - Airfield Milovice, Prague — Thu, 3 Aug 2023
-- The Courtyard ATX, Austin — Sat, 1 Apr 2023
+- Onyx (E1), London · Sat, 16 May 2026
+- The Lower Third, London · Fri, 10 Oct 2025
+- MAD Club Live, Miami · Sun, 30 Mar 2025
+- F8 1192 Folsom, San Francisco/Oakland · Sun, 20 Aug 2023
+- Station1640, Los Angeles · Thu, 17 Aug 2023
+- TBA - Airfield Milovice, Prague · Thu, 3 Aug 2023
+- The Courtyard ATX, Austin · Sat, 1 Apr 2023
 
 ## Shares bills with
 

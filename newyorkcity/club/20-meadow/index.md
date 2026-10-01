@@ -1,8 +1,8 @@
 # 20 Meadow
 
-20 Meadow is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Afraid of the Dark 2026" on Sat, 31 Oct 2026.
+20 Meadow is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Afraid of the Dark 2026" on Sat, 31 Oct 2026.
 
-20 Meadow is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Dank, Frankie Bones, Joeski and Keoki and 1 more. Browse upcoming dates, start times and who's playing. 20 Meadow St. Brooklyn NY 11206.
+20 Meadow is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Dank, Frankie Bones, Joeski and Keoki and 1 more. See dates, start times and who's playing. 20 Meadow St. Brooklyn NY 11206.
 
 ## What's on
 

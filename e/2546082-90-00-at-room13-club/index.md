@@ -1,6 +1,6 @@
 # НАЗАД в 90е и 00е - ВАРШАВА at Room13 Club
 
-НАЗАД в 90е и 00е - ВАРШАВА at Room13 Club on Sat 3 Oct, Warsaw. Disco and Pop. Preview the line-up and save it on soundcheck.
+НАЗАД в 90е и 00е - ВАРШАВА at Room13 Club on Sat 3 Oct, Warsaw. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

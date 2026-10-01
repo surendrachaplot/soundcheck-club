@@ -1,6 +1,6 @@
 # Accidental Meetings x Riddim Chango at Spread
 
-Accidental Meetings x Riddim Chango at Spread on Fri 23 Oct, Tokyo. 4 artists on the bill: 1TA, Element, i-sha and Lucien Douglas. Dub and Experimental. Preview the line-up and save it on soundcheck.
+Accidental Meetings x Riddim Chango at Spread on Fri 23 Oct, Tokyo. 4 artists: 1TA, Element, i-sha and Lucien Douglas. Dub and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

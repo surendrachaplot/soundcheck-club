@@ -1,8 +1,8 @@
 # Sandilé
 
-Sandilé is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Gewölbe, Cologne on Sat, 3 Oct 2026.
+Sandilé is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gewölbe, Cologne on Sat, 3 Oct 2026.
 
-Sandilé is a house and techno artist based in Germany, tracked on soundcheck, with 58 sets logged across Berlin, Cologne, Düsseldorf and London and 2 more. Often billed alongside DCHM, Thabo and Thalo Santana. Next up: Gewölbe, Cologne on Sat 3 Oct.
+Sandilé is a house and techno artist based in Germany, with 58 gigs on soundcheck across Berlin, Cologne, Düsseldorf and London and 2 more. Often billed alongside DCHM, Thabo and Thalo Santana. Next up: Gewölbe, Cologne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sandilé is a house and techno artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- Artheater, Cologne — Fri, 11 Sept 2026
-- Parkcafe, Cologne — Sat, 18 Jul 2026
-- Parkcafe, Cologne — Sat, 11 Jul 2026
-- RSO.BERLIN, Berlin — Thu, 14 May 2026
-- fi, Cologne — Sat, 25 Apr 2026
-- Schrotty, Cologne — Sat, 4 Apr 2026
-- Gewölbe, Cologne — Sun, 15 Mar 2026
-- Artheater, Cologne — Sat, 14 Feb 2026
+- Artheater, Cologne · Fri, 11 Sept 2026
+- Parkcafe, Cologne · Sat, 18 Jul 2026
+- Parkcafe, Cologne · Sat, 11 Jul 2026
+- RSO.BERLIN, Berlin · Thu, 14 May 2026
+- fi, Cologne · Sat, 25 Apr 2026
+- Schrotty, Cologne · Sat, 4 Apr 2026
+- Gewölbe, Cologne · Sun, 15 Mar 2026
+- Artheater, Cologne · Sat, 14 Feb 2026
 
 ## Shares bills with
 

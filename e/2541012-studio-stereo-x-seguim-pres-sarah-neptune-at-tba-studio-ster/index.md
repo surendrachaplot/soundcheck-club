@@ -1,6 +1,6 @@
 # Studio Stereo x Seguim pres. Sarah Neptune at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Seguim pres. Sarah Neptune at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 27 Nov, Barcelona. 3 artists on the bill: Alex Garcia, CVD and Vince Void. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Seguim pres. Sarah Neptune at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 27 Nov, Barcelona. 3 artists: Alex Garcia, CVD and Vince Void. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

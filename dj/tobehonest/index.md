@@ -1,8 +1,8 @@
 # TOBEHONEST
 
-TOBEHONEST is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Academy LA, Los Angeles on Sat, 10 Oct 2026.
+TOBEHONEST is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Academy LA, Los Angeles on Sat, 10 Oct 2026.
 
-TOBEHONEST is a house and tech house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Austin, Berlin, Boston and Chicago and 10 more. Often billed alongside Davibe, Walker & Royce and Wax Motif. Next up: Academy LA, Los Angeles on Sat 10 Oct.
+TOBEHONEST is a house and tech house artist based in United States of America, with 39 gigs on soundcheck across Austin, Berlin, Boston and Chicago and 10 more. Often billed alongside Davibe, Walker & Royce and Wax Motif. Next up: Academy LA, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ TOBEHONEST is a house and tech house artist based in United States of America, t
 
 ## Recently played
 
-- Los Angeles State Historic Park, Los Angeles — Sun, 16 Aug 2026
-- Story Toronto, Toronto — Fri, 10 Jul 2026
-- Bsmnt, Boston — Sat, 20 Jun 2026
-- Bauhaus, Houston — Sat, 6 Jun 2026
-- Q Nightclub, Seattle — Fri, 29 May 2026
-- Industry City, New York City — Sat, 23 May 2026
-- The Concourse Project, Austin — Fri, 1 May 2026
-- Night We Met, Nashville — Sat, 4 Apr 2026
+- Los Angeles State Historic Park, Los Angeles · Sun, 16 Aug 2026
+- Story Toronto, Toronto · Fri, 10 Jul 2026
+- Bsmnt, Boston · Sat, 20 Jun 2026
+- Bauhaus, Houston · Sat, 6 Jun 2026
+- Q Nightclub, Seattle · Fri, 29 May 2026
+- Industry City, New York City · Sat, 23 May 2026
+- The Concourse Project, Austin · Fri, 1 May 2026
+- Night We Met, Nashville · Sat, 4 Apr 2026
 
 ## Shares bills with
 

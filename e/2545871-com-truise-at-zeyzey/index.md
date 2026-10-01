@@ -1,6 +1,6 @@
 # Com Truise at ZeyZey
 
-Com Truise at ZeyZey on Fri 6 Nov, Miami. 1 artist on the bill: Com Truise. Downtempo. Preview the line-up and save it on soundcheck.
+Com Truise at ZeyZey on Fri 6 Nov, Miami. 1 artist: Com Truise. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

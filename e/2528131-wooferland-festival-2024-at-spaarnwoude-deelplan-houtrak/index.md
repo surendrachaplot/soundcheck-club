@@ -1,6 +1,6 @@
 # Wooferland festival 2024 at Spaarnwoude (Deelplan Houtrak)
 
-Wooferland festival 2024 at Spaarnwoude (Deelplan Houtrak) on Sat 4 Sept, Amsterdam. 4 artists on the bill: Alexander Koning, Erick E, Lucien Foort and Remy Unger. Preview the line-up and save it on soundcheck.
+Wooferland festival 2024 at Spaarnwoude (Deelplan Houtrak) on Sat 4 Sept, Amsterdam. 4 artists: Alexander Koning, Erick E, Lucien Foort and Remy Unger. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

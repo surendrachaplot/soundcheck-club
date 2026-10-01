@@ -1,6 +1,6 @@
 # Interstellar: Tribute to Hans Zimmer by Mystery Ensemble at Salle Centrale de la Madeleine, Geneva
 
-Interstellar: Tribute to Hans Zimmer by Mystery Ensemble at Salle Centrale de la Madeleine, Geneva on Fri 13 Nov, Geneva. Preview the line-up and save it on soundcheck.
+Interstellar: Tribute to Hans Zimmer by Mystery Ensemble at Salle Centrale de la Madeleine, Geneva on Fri 13 Nov, Geneva. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

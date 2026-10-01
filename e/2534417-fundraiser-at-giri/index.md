@@ -1,6 +1,6 @@
 # Fundraiser at Giri
 
-Fundraiser at Giri on Thu 29 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Fundraiser at Giri on Thu 29 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

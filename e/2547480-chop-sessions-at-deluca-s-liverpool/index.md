@@ -1,6 +1,6 @@
 # Chop Sessions at DeLuca''s Liverpool
 
-Chop Sessions at DeLuca''s Liverpool on Fri 13 Nov, Liverpool. House and Tech House. Preview the line-up and save it on soundcheck.
+Chop Sessions at DeLuca''s Liverpool on Fri 13 Nov, Liverpool. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Arder: Kr!z // Hemka // Milkē at NWHR
 
-Arder: Kr!z // Hemka // Milkē at NWHR on Fri 2 Oct, Montreal. 3 artists on the bill: Hemka, Kr!z and Milkē. Techno. Preview the line-up and save it on soundcheck.
+Arder: Kr!z // Hemka // Milkē at NWHR on Fri 2 Oct, Montreal. 3 artists: Hemka, Kr!z and Milkē. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # fi x Kittin & Lafari at fi
 
-fi x Kittin & Lafari on Sat 31 Oct, Cologne. 2 artists on the bill: Etane and Miss Kittin. Techno and House. Preview the line-up and save it on soundcheck.
+fi x Kittin & Lafari on Sat 31 Oct, Cologne. 2 artists: Etane and Miss Kittin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

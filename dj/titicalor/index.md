@@ -1,8 +1,8 @@
 # Titi Calor
 
-Titi Calor is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Meteoro, Barcelona on Sat, 10 Oct 2026.
+Titi Calor is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Meteoro, Barcelona on Sat, 10 Oct 2026.
 
-Titi Calor is an experimental and techno artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona, Berlin and Rome. Often billed alongside AG, AMARANTE and CAPITANA. Next up: Meteoro, Barcelona on Sat 10 Oct.
+Titi Calor is an experimental and techno artist based in Spain, with 8 gigs on soundcheck across Barcelona, Berlin and Rome. Often billed alongside AG, AMARANTE and CAPITANA. Next up: Meteoro, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Titi Calor is an experimental and techno artist based in Spain, tracked on sound
 
 ## Recently played
 
-- Sala Apolo, Barcelona — Sat, 25 Apr 2026
-- Sala Apolo, Barcelona — Sat, 14 Feb 2026
-- ., Berlin — Wed, 6 Aug 2025
-- Meteoro, Barcelona — Fri, 25 Apr 2025
-- Circolo dei Cerchi, Rome — Sun, 5 Jan 2025
-- TBA - secret location, Barcelona — Sat, 27 May 2023
-- Barkett, Berlin — Fri, 10 Mar 2023
+- Sala Apolo, Barcelona · Sat, 25 Apr 2026
+- Sala Apolo, Barcelona · Sat, 14 Feb 2026
+- ., Berlin · Wed, 6 Aug 2025
+- Meteoro, Barcelona · Fri, 25 Apr 2025
+- Circolo dei Cerchi, Rome · Sun, 5 Jan 2025
+- TBA - secret location, Barcelona · Sat, 27 May 2023
+- Barkett, Berlin · Fri, 10 Mar 2023
 
 ## Shares bills with
 

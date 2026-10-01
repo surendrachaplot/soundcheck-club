@@ -1,6 +1,6 @@
 # The Wonder Pot X Queensway at 24 Kitchen Street
 
-The Wonder Pot X Queensway at 24 Kitchen Street on Fri 4 Dec, Liverpool. Techno and Club. Preview the line-up and save it on soundcheck.
+The Wonder Pot X Queensway at 24 Kitchen Street on Fri 4 Dec, Liverpool. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

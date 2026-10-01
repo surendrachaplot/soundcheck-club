@@ -1,6 +1,6 @@
 # X-Mas.Frieds.zone with Skinny Duchamp & Freunde at Minimal Bar
 
-X-Mas.Frieds.zone with Skinny Duchamp & Freunde at Minimal Bar on Fri 25 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+X-Mas.Frieds.zone with Skinny Duchamp & Freunde at Minimal Bar on Fri 25 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

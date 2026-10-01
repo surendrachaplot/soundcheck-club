@@ -1,8 +1,8 @@
 # Homma Honganji
 
-Homma Honganji is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Knot, Tokyo on Thu, 1 Oct 2026.
+Homma Honganji is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Knot, Tokyo on Thu, 1 Oct 2026.
 
-Homma Honganji is a techno and electro artist tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside ksd6700, KASHIWAGI and DJ ¥anTo. Next up: Knot, Tokyo on Thu 1 Oct.
+Homma Honganji is a techno and electro artist, with 15 gigs on soundcheck across Tokyo. Often billed alongside ksd6700, KASHIWAGI and DJ ¥anTo. Next up: Knot, Tokyo on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Homma Honganji is a techno and electro artist tracked on soundcheck, with 15 set
 
 ## Recently played
 
-- Knot, Tokyo — Thu, 3 Sept 2026
-- Knot, Tokyo — Thu, 4 Jun 2026
-- Knot, Tokyo — Thu, 2 Apr 2026
-- Knot, Tokyo — Thu, 5 Mar 2026
-- Yakusyu Bar Kouenji, Tokyo — Sat, 13 Dec 2025
-- Knot, Tokyo — Thu, 4 Dec 2025
-- Knot, Tokyo — Thu, 2 Oct 2025
-- Cube, Tokyo — Sat, 3 May 2025
+- Knot, Tokyo · Thu, 3 Sept 2026
+- Knot, Tokyo · Thu, 4 Jun 2026
+- Knot, Tokyo · Thu, 2 Apr 2026
+- Knot, Tokyo · Thu, 5 Mar 2026
+- Yakusyu Bar Kouenji, Tokyo · Sat, 13 Dec 2025
+- Knot, Tokyo · Thu, 4 Dec 2025
+- Knot, Tokyo · Thu, 2 Oct 2025
+- Cube, Tokyo · Sat, 3 May 2025
 
 ## Shares bills with
 

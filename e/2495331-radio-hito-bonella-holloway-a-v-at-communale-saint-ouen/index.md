@@ -1,6 +1,6 @@
 # Radio Hito & Bonella Holloway A/V at Communale Saint-Ouen
 
-Radio Hito & Bonella Holloway A/V at Communale Saint-Ouen on Thu 10 Dec, Paris. 1 artist on the bill: Radio Hito. Ambient. Preview the line-up and save it on soundcheck.
+Radio Hito & Bonella Holloway A/V at Communale Saint-Ouen on Thu 10 Dec, Paris. 1 artist: Radio Hito. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

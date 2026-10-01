@@ -1,6 +1,6 @@
 # Small Great House 'November Edition' at OXI
 
-Small Great House 'November Edition' at OXI on Sat 7 Nov, Berlin. 4 artists on the bill: Ana Molina, Damiano von Erckert, Franco Strato and Kedi Bounce. House and Disco. Preview the line-up and save it on soundcheck.
+Small Great House 'November Edition' at OXI on Sat 7 Nov, Berlin. 4 artists: Ana Molina, Damiano von Erckert, Franco Strato and Kedi Bounce. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

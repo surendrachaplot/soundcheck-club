@@ -1,6 +1,6 @@
 # Le Salon Privé: Agent! & Roberta Deflorio at Tausend
 
-Le Salon Privé: Agent! & Roberta Deflorio at Tausend on Fri 2 Oct, Berlin. 2 artists on the bill: Agent and Roberta Deflorio. House. Preview the line-up and save it on soundcheck.
+Le Salon Privé: Agent! & Roberta Deflorio at Tausend on Fri 2 Oct, Berlin. 2 artists: Agent and Roberta Deflorio. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

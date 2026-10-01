@@ -1,6 +1,6 @@
 # Cuéntame x Positive Deviance at TBA
 
-Cuéntame x Positive Deviance at TBA on Sun 8 Nov, New York City. Preview the line-up and save it on soundcheck.
+Cuéntame x Positive Deviance at TBA on Sun 8 Nov, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

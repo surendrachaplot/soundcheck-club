@@ -1,8 +1,8 @@
 # Runner Up Rooftop Bar
 
-Runner Up Rooftop Bar is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Resonance & Friends" on Sun, 4 Oct 2026.
+Runner Up Rooftop Bar is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Resonance & Friends" on Sun, 4 Oct 2026.
 
-Runner Up Rooftop Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Djane and Geo (IT). Browse upcoming dates, start times and who's playing. Level 2/35 Johnston St, Collingwood VIC 3066.
+Runner Up Rooftop Bar is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Djane and Geo (IT). See dates, start times and who's playing. Level 2/35 Johnston St, Collingwood VIC 3066.
 
 ## What's on
 

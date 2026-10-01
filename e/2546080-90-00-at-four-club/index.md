@@ -1,6 +1,6 @@
 # НАЗАД в 90е и 00е - Краков at Four Club
 
-НАЗАД в 90е и 00е - Краков at Four Club on Sat 3 Oct, Krakow. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+НАЗАД в 90е и 00е - Краков at Four Club on Sat 3 Oct, Krakow. Hip-Hop and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

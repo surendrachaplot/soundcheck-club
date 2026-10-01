@@ -1,6 +1,6 @@
 # Selected with Trancemaster Krause & Frederic All Night Long at RSO.BERLIN
 
-Selected with Trancemaster Krause & Frederic All Night Long at RSO.BERLIN on Fri 26 Feb, Berlin. 2 artists on the bill: Frederic. and Trancemaster Krause. Preview the line-up and save it on soundcheck.
+Selected with Trancemaster Krause & Frederic All Night Long at RSO.BERLIN on Fri 26 Feb, Berlin. 2 artists: Frederic. and Trancemaster Krause. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

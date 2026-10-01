@@ -1,6 +1,6 @@
 # Smolna Tribe: Phao Sanato at Smolna
 
-Smolna Tribe: Phao Sanato on Thu 15 Oct, Warsaw. Afro House. Preview the line-up and save it on soundcheck.
+Smolna Tribe: Phao Sanato on Thu 15 Oct, Warsaw. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

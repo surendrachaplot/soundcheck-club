@@ -1,6 +1,6 @@
 # Earthball & Peregrine Falls at The American
 
-Earthball & Peregrine Falls at The American on Fri 16 Oct, Vancouver. Jazz. Preview the line-up and save it on soundcheck.
+Earthball & Peregrine Falls at The American on Fri 16 Oct, Vancouver. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

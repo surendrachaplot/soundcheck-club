@@ -1,6 +1,6 @@
 # HolyShift VI at Crack Bellmer
 
-HolyShift VI at Crack Bellmer on Fri 2 Oct, Berlin. Electronica. Preview the line-up and save it on soundcheck.
+HolyShift VI at Crack Bellmer on Fri 2 Oct, Berlin. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DISCOTECA - The Paradise Now at The Paradise Now
 
-DISCOTECA - The Paradise Now on Fri 9 Oct, Düsseldorf. 1 artist on the bill: Josef Schumacher. House. Preview the line-up and save it on soundcheck.
+DISCOTECA - The Paradise Now on Fri 9 Oct, Düsseldorf. 1 artist: Josef Schumacher. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

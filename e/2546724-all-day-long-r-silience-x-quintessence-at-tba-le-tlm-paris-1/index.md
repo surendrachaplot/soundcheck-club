@@ -1,6 +1,6 @@
 # ALL DAY LONG: Résilience x Quintessence at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris
 
-ALL DAY LONG: Résilience x Quintessence at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris on Sat 17 Oct, Paris. 6 artists on the bill: Charleeps, KEUT, Labouts and Marco del Bosque and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+ALL DAY LONG: Résilience x Quintessence at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris on Sat 17 Oct, Paris. 6 artists: Charleeps, KEUT, Labouts and Marco del Bosque and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

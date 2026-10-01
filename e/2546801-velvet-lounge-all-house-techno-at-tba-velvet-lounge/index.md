@@ -1,6 +1,6 @@
 # VELVET Lounge -ALL House & Techno- at TBA - VELVET Lounge
 
-VELVET Lounge -ALL House & Techno- at TBA - VELVET Lounge on Sat 3 Oct, Tokyo. Techno and House. Preview the line-up and save it on soundcheck.
+VELVET Lounge -ALL House & Techno- at TBA - VELVET Lounge on Sat 3 Oct, Tokyo. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

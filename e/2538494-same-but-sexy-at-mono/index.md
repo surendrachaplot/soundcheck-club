@@ -1,6 +1,6 @@
 # Same but Sexy at Mono
 
-Same but Sexy at Mono on Sat 10 Oct, Rotterdam. Dancehall and R&B. Preview the line-up and save it on soundcheck.
+Same but Sexy at Mono on Sat 10 Oct, Rotterdam. Dancehall and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NATION & CORRIDOS KETAMINA - (c)rave at TBA - 2332 wayside dr
 
-NATION & CORRIDOS KETAMINA - (c)rave at TBA - 2332 wayside dr on Fri 2 Oct, Houston. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+NATION & CORRIDOS KETAMINA - (c)rave at TBA - 2332 wayside dr on Fri 2 Oct, Houston. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

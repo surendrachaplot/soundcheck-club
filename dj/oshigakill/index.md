@@ -1,8 +1,8 @@
 # oshigakill
 
-oshigakill is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Teritorija, Riga on Sat, 31 Oct 2026.
+oshigakill is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Teritorija, Riga on Sat, 31 Oct 2026.
 
-oshigakill is a hardcore and techno artist based in Latvia, tracked on soundcheck, with 27 sets logged across Riga. Often billed alongside MVKO, hitomori and maniken05. Next up: Teritorija, Riga on Sat 31 Oct.
+oshigakill is a hardcore and techno artist based in Latvia, with 27 gigs on soundcheck across Riga. Often billed alongside MVKO, hitomori and maniken05. Next up: Teritorija, Riga on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ oshigakill is a hardcore and techno artist based in Latvia, tracked on soundchec
 
 ## Recently played
 
-- Teritorija, Riga — Sat, 19 Sept 2026
-- Teritorija, Riga — Sat, 22 Aug 2026
-- Teritorija, Riga — Sat, 22 Aug 2026
-- Teritorija, Riga — Sat, 25 Jul 2026
-- Teritorija, Riga — Fri, 10 Jul 2026
-- Teritorija, Riga — Fri, 10 Jul 2026
-- Teritorija, Riga — Sat, 6 Jun 2026
-- Teritorija, Riga — Sat, 6 Jun 2026
+- Teritorija, Riga · Sat, 19 Sept 2026
+- Teritorija, Riga · Sat, 22 Aug 2026
+- Teritorija, Riga · Sat, 22 Aug 2026
+- Teritorija, Riga · Sat, 25 Jul 2026
+- Teritorija, Riga · Fri, 10 Jul 2026
+- Teritorija, Riga · Fri, 10 Jul 2026
+- Teritorija, Riga · Sat, 6 Jun 2026
+- Teritorija, Riga · Sat, 6 Jun 2026
 
 ## Shares bills with
 

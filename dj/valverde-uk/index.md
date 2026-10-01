@@ -1,8 +1,8 @@
 # Valverde
 
-Valverde is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
+Valverde is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
 
-Valverde is an electro and techno artist based in Brazil, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Xiulan, Kendra and Galvin. Next up: Secret Location Vienna, Vienna on Fri 2 Oct.
+Valverde is an electro and techno artist based in Brazil, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lisbon and 5 more. Often billed alongside Xiulan, Kendra and Galvin. Next up: Secret Location Vienna, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Valverde is an electro and techno artist based in Brazil, tracked on soundcheck,
 
 ## Recently played
 
-- Blue Velvet, Berlin — Fri, 17 Jul 2026
-- 1520, Manchester — Sun, 24 May 2026
-- TBA, Berlin — Tue, 19 May 2026
-- Lisa, Lisbon — Sat, 7 Mar 2026
-- TBA - Calçada do Grilo 15A, Lisbon — Sat, 18 Oct 2025
-- TBA - Tenuta Terradifuoco - Via Vicinale Lavarella, 80040 Terzigno NA, Naples — Sat, 30 Aug 2025
-- Miami Wars, Warsaw — Sat, 9 Aug 2025
-- TBA - SPOT , Amsterdam — Sun, 20 Oct 2024
+- Blue Velvet, Berlin · Fri, 17 Jul 2026
+- 1520, Manchester · Sun, 24 May 2026
+- TBA, Berlin · Tue, 19 May 2026
+- Lisa, Lisbon · Sat, 7 Mar 2026
+- TBA - Calçada do Grilo 15A, Lisbon · Sat, 18 Oct 2025
+- TBA - Tenuta Terradifuoco - Via Vicinale Lavarella, 80040 Terzigno NA, Naples · Sat, 30 Aug 2025
+- Miami Wars, Warsaw · Sat, 9 Aug 2025
+- TBA - SPOT , Amsterdam · Sun, 20 Oct 2024
 
 ## Shares bills with
 

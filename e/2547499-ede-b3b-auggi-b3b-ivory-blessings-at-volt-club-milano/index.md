@@ -1,6 +1,6 @@
 # Ede B3B Auggië B3B Ivory — BLESSINGS at Volt Club Milano
 
-Ede B3B Auggië B3B Ivory — BLESSINGS at Volt Club Milano on Sat 3 Oct, Milan. 3 artists on the bill: Auggië, Ede and Ivory. Techno and House. Preview the line-up and save it on soundcheck.
+Ede B3B Auggië B3B Ivory — BLESSINGS at Volt Club Milano on Sat 3 Oct, Milan. 3 artists: Auggië, Ede and Ivory. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

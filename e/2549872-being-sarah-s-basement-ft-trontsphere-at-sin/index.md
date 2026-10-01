@@ -1,6 +1,6 @@
 # Being Sarah's Basement ft: Trontsphere at Sin É
 
-Being Sarah's Basement ft: Trontsphere at Sin É on Sat 31 Oct, Dublin. Techno and Electro. Preview the line-up and save it on soundcheck.
+Being Sarah's Basement ft: Trontsphere at Sin É on Sat 31 Oct, Dublin. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

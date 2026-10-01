@@ -1,6 +1,6 @@
 # FUTURE BASS at Prozak 2.0
 
-FUTURE BASS at Prozak 2.0 on Fri 16 Oct, Krakow. 1 artist on the bill: naked relaxing. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+FUTURE BASS at Prozak 2.0 on Fri 16 Oct, Krakow. 1 artist: naked relaxing. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

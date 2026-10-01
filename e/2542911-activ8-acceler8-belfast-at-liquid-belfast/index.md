@@ -1,6 +1,6 @@
 # Activ8 - Acceler8 Belfast at Liquid Belfast
 
-Activ8 - Acceler8 Belfast at Liquid Belfast on Sat 17 Oct, Belfast. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Activ8 - Acceler8 Belfast at Liquid Belfast on Sat 17 Oct, Belfast. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

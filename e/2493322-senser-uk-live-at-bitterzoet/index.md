@@ -1,6 +1,6 @@
 # Senser (UK / Live) at Bitterzoet
 
-Senser (UK / Live) at Bitterzoet on Sat 5 Dec, Amsterdam. Preview the line-up and save it on soundcheck.
+Senser (UK / Live) at Bitterzoet on Sat 5 Dec, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

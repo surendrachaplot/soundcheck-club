@@ -1,6 +1,6 @@
 # PERREO DEL TERROR - Halloween Reggaeton Party in NYC (18+) at Bar 13
 
-PERREO DEL TERROR - Halloween Reggaeton Party in NYC (18+) at Bar 13 on Sat 17 Oct, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
+PERREO DEL TERROR - Halloween Reggaeton Party in NYC (18+) at Bar 13 on Sat 17 Oct, New York City. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

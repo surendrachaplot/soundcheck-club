@@ -1,6 +1,6 @@
 # The Art of House presents 36 Years of House at Stag Works
 
-The Art of House presents 36 Years of House at Stag Works on Fri 6 Nov, Sheffield. Breakbeat and House. Preview the line-up and save it on soundcheck.
+The Art of House presents 36 Years of House at Stag Works on Fri 6 Nov, Sheffield. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 6JJACOB: ALL NIGHT LONG at Ernest
 
-6JJACOB: ALL NIGHT LONG at Ernest on Sat 3 Oct, Newcastle. Electro and Minimal. Preview the line-up and save it on soundcheck.
+6JJACOB: ALL NIGHT LONG at Ernest on Sat 3 Oct, Newcastle. Electro and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

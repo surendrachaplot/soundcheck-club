@@ -1,6 +1,6 @@
 # Toffler presents RILEY, DAETOR at Toffler
 
-Toffler presents RILEY, DAETOR on Sat 3 Oct, Rotterdam. House. Preview the line-up and save it on soundcheck.
+Toffler presents RILEY, DAETOR on Sat 3 Oct, Rotterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

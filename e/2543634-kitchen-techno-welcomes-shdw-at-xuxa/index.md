@@ -1,6 +1,6 @@
 # KITCHEN TECHNO WELCOMES SHDW at Xuxa
 
-KITCHEN TECHNO WELCOMES SHDW at Xuxa on Fri 6 Nov, Austin. 4 artists on the bill: Hana Sabri, Natch Nadjafi, Owen Green and SHDW. Techno. Preview the line-up and save it on soundcheck.
+KITCHEN TECHNO WELCOMES SHDW at Xuxa on Fri 6 Nov, Austin. 4 artists: Hana Sabri, Natch Nadjafi, Owen Green and SHDW. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

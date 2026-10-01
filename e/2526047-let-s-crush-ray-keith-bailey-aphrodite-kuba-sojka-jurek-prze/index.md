@@ -1,6 +1,6 @@
 # LET'S CRUSH: Ray Keith, BAILEY, Aphrodite, Kuba Sojka & JUREK PRZEŹDZIECKI LIVE at TBA - DOKI 1
 
-LET'S CRUSH: Ray Keith, BAILEY, Aphrodite, Kuba Sojka & JUREK PRZEŹDZIECKI LIVE at TBA - DOKI 1 on Fri 2 Oct, Gdansk. 9 artists on the bill: Alegria, Aphrodite, Bambi Uzi and Jurek Przezdziecki and 5 more. Preview the line-up and save it on soundcheck.
+LET'S CRUSH: Ray Keith, BAILEY, Aphrodite, Kuba Sojka & JUREK PRZEŹDZIECKI LIVE at TBA - DOKI 1 on Fri 2 Oct, Gdansk. 9 artists: Alegria, Aphrodite, Bambi Uzi and Jurek Przezdziecki and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # 0111001101110100
 
-0111001101110100 is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
+0111001101110100 is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat, 10 Oct 2026.
 
-0111001101110100 is an electro and experimental artist based in Greece, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside CUNT REMEMBER, DJ LOSER and Oldyungmayn. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 10 Oct.
+0111001101110100 is an electro and experimental artist based in Greece, with 7 gigs on soundcheck across Berlin. Often billed alongside CUNT REMEMBER, DJ LOSER and Oldyungmayn. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@
 
 ## Recently played
 
-- Bar131, Berlin — Sat, 28 Mar 2026
-- Fitzroy, Berlin — Sat, 11 Jan 2025
-- OHM, Berlin — Sat, 31 Aug 2024
-- TBA - Secret Location, Berlin — Thu, 27 Jun 2024
-- OHM, Berlin — Sat, 10 Feb 2024
-- Fitzroy, Berlin — Fri, 15 Sept 2023
+- Bar131, Berlin · Sat, 28 Mar 2026
+- Fitzroy, Berlin · Sat, 11 Jan 2025
+- OHM, Berlin · Sat, 31 Aug 2024
+- TBA - Secret Location, Berlin · Thu, 27 Jun 2024
+- OHM, Berlin · Sat, 10 Feb 2024
+- Fitzroy, Berlin · Fri, 15 Sept 2023
 
 ## Shares bills with
 

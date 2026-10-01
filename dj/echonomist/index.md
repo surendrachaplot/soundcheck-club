@@ -1,8 +1,8 @@
 # Echonomist
 
-Echonomist is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Audio Club, Geneva on Sat, 3 Oct 2026.
+Echonomist is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Audio Club, Geneva on Sat, 3 Oct 2026.
 
-Echonomist is a house and techno artist based in Greece, tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 36 more. Often billed alongside Jenia Tarsol, ARODES and Avangart Tabldot. Next up: Audio Club, Geneva on Sat 3 Oct.
+Echonomist is a house and techno artist based in Greece, with 130 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 36 more. Often billed alongside Jenia Tarsol, ARODES and Avangart Tabldot. Next up: Audio Club, Geneva on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Echonomist is a house and techno artist based in Greece, tracked on soundcheck, 
 
 ## Recently played
 
-- Village Underground Lisboa, Lisbon — Sat, 26 Sept 2026
-- Filmtheater Sendlinger Tor, Munich — Fri, 25 Sept 2026
-- House of Yes, New York City — Sat, 19 Sept 2026
-- TBA - Strange House (1717 N Bronson Ave, Los Angeles, CA), Los Angeles — Sun, 13 Sept 2026
-- Klein Phönix, Istanbul — Sat, 12 Sept 2026
-- MODULE, Copenhagen — Fri, 11 Sept 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sun, 23 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sun, 23 Aug 2026
+- Village Underground Lisboa, Lisbon · Sat, 26 Sept 2026
+- Filmtheater Sendlinger Tor, Munich · Fri, 25 Sept 2026
+- House of Yes, New York City · Sat, 19 Sept 2026
+- TBA - Strange House (1717 N Bronson Ave, Los Angeles, CA), Los Angeles · Sun, 13 Sept 2026
+- Klein Phönix, Istanbul · Sat, 12 Sept 2026
+- MODULE, Copenhagen · Fri, 11 Sept 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sun, 23 Aug 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sun, 23 Aug 2026
 
 ## Shares bills with
 

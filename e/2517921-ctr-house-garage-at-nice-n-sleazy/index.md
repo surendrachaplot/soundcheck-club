@@ -1,6 +1,6 @@
 # CTR: House & Garage at Nice N Sleazy
 
-CTR: House & Garage at Nice N Sleazy on Thu 1 Oct, Glasgow. House and Garage. Preview the line-up and save it on soundcheck.
+CTR: House & Garage at Nice N Sleazy on Thu 1 Oct, Glasgow. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nina Kraviz • ANNĒ • SHDW — SYDNEY at Manning Bar
 
-Nina Kraviz • ANNĒ • SHDW — SYDNEY at Manning Bar on Sat 28 Nov, Sydney. 3 artists on the bill: ANNĒ, Nina Kraviz and SHDW. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Nina Kraviz • ANNĒ • SHDW — SYDNEY at Manning Bar on Sat 28 Nov, Sydney. 3 artists: ANNĒ, Nina Kraviz and SHDW. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

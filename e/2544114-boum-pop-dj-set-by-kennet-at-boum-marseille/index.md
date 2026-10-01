@@ -1,6 +1,6 @@
 # BOUM POP - DJ SET by KENNET at BOUM MARSEILLE
 
-BOUM POP - DJ SET by KENNET at BOUM MARSEILLE on Sat 3 Oct, Marseille. Electro and Pop. Preview the line-up and save it on soundcheck.
+BOUM POP - DJ SET by KENNET at BOUM MARSEILLE on Sat 3 Oct, Marseille. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

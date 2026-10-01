@@ -1,6 +1,6 @@
 # Apologia X MA House: Charlins + MARA BRAVO + Drunk At Vogue + Mats + DJ Tortuga at Sala Apolo
 
-Apologia X MA House: Charlins + MARA BRAVO + Drunk At Vogue + Mats + DJ Tortuga at Sala Apolo on Sat 24 Oct, Barcelona. 4 artists on the bill: Charlins, DJ Tortuga, Drunk At Vogue and MARA BRAVO. House and Deep House. Preview the line-up and save it on soundcheck.
+Apologia X MA House: Charlins + MARA BRAVO + Drunk At Vogue + Mats + DJ Tortuga at Sala Apolo on Sat 24 Oct, Barcelona. 4 artists: Charlins, DJ Tortuga, Drunk At Vogue and MARA BRAVO. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

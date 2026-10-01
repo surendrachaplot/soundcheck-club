@@ -1,8 +1,8 @@
 # TBA - HOURS (Denver Art District)
 
-TBA - HOURS (Denver Art District) is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Mic(RO) presents: Rich NXT" on Sat, 3 Oct 2026.
+TBA - HOURS (Denver Art District) is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mic(RO) presents: Rich NXT" on Sat, 3 Oct 2026.
 
-TBA - HOURS (Denver Art District) is a music venue in Denver listed on soundcheck. 1 upcoming gig, with line-ups including Mic(RO) Dos and Rich NXT. Browse upcoming dates, start times and who's playing.
+TBA - HOURS (Denver Art District) is a music venue in Denver listed on soundcheck. 1 upcoming gig, with line-ups including Mic(RO) Dos and Rich NXT. See dates, start times and who's playing.
 
 ## What's on
 

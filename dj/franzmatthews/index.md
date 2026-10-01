@@ -1,8 +1,8 @@
 # Franz Matthews
 
-Franz Matthews is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri, 23 Oct 2026.
+Franz Matthews is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri, 23 Oct 2026.
 
-Franz Matthews is a house and techno artist based in France, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Istanbul and 3 more. Often billed alongside Bonnie Spacey, ONNI and SEIUN. Next up: TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri 23 Oct.
+Franz Matthews is a house and techno artist based in France, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Istanbul and 3 more. Often billed alongside Bonnie Spacey, ONNI and SEIUN. Next up: TBA - 50:HERTZ HOUSE & TECHNO CLUB, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Franz Matthews is a house and techno artist based in France, tracked on soundche
 
 ## Recently played
 
-- Jonny Knüppel, Berlin — Sat, 12 Sept 2026
-- Säälchen, Berlin — Thu, 21 May 2026
-- Riverside Studios, Berlin — Sat, 9 May 2026
-- Crack Bellmer, Berlin — Sat, 2 May 2026
-- Sumahan, Istanbul — Sat, 18 Oct 2025
-- La Javelle (Bercy), Paris — Fri, 19 Sept 2025
-- Freedonia, Barcelona — Fri, 5 Sept 2025
-- Renate, Berlin — Fri, 29 Aug 2025
+- Jonny Knüppel, Berlin · Sat, 12 Sept 2026
+- Säälchen, Berlin · Thu, 21 May 2026
+- Riverside Studios, Berlin · Sat, 9 May 2026
+- Crack Bellmer, Berlin · Sat, 2 May 2026
+- Sumahan, Istanbul · Sat, 18 Oct 2025
+- La Javelle (Bercy), Paris · Fri, 19 Sept 2025
+- Freedonia, Barcelona · Fri, 5 Sept 2025
+- Renate, Berlin · Fri, 29 Aug 2025
 
 ## Shares bills with
 

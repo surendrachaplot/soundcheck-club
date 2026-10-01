@@ -1,6 +1,6 @@
 # SOMA PEOPLE · 2ND ANNIVERSARY · Amanda Mussi, abs8lute (Berghain Regulars), V.40 b2b NARA at M.O.T
 
-SOMA PEOPLE · 2ND ANNIVERSARY · Amanda Mussi, abs8lute (Berghain Regulars), V.40 b2b NARA at M.O.T on Fri 13 Nov, London. 4 artists on the bill: abs8lute, Amanda Mussi, NARA (UK) and V.40. Techno and Industrial. Preview the line-up and save it on soundcheck.
+SOMA PEOPLE · 2ND ANNIVERSARY · Amanda Mussi, abs8lute (Berghain Regulars), V.40 b2b NARA at M.O.T on Fri 13 Nov, London. 4 artists: abs8lute, Amanda Mussi, NARA (UK) and V.40. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kingdom Presents DVS1 at Kingdom Nightclub
 
-Kingdom Presents DVS1 at Kingdom Nightclub on Thu 8 Oct, Austin. 1 artist on the bill: DVS1. Techno. Preview the line-up and save it on soundcheck.
+Kingdom Presents DVS1 at Kingdom Nightclub on Thu 8 Oct, Austin. 1 artist: DVS1. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

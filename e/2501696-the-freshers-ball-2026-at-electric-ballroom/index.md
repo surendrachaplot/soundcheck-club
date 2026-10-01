@@ -1,6 +1,6 @@
 # The Freshers Ball 2026 at Electric Ballroom
 
-The Freshers Ball 2026 at Electric Ballroom on Sun 4 Oct, London. Preview the line-up and save it on soundcheck.
+The Freshers Ball 2026 at Electric Ballroom on Sun 4 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SHIBUYAYA FUTURE GROOVE VOL.5 at BRAND SHIBUYA
 
-SHIBUYAYA FUTURE GROOVE VOL.5 at BRAND SHIBUYA on Sat 3 Oct, Tokyo. Club. Preview the line-up and save it on soundcheck.
+SHIBUYAYA FUTURE GROOVE VOL.5 at BRAND SHIBUYA on Sat 3 Oct, Tokyo. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

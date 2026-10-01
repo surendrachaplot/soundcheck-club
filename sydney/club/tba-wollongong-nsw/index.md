@@ -1,8 +1,8 @@
 # TBA - Wollongong, NSW
 
-TBA - Wollongong, NSW is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Yours & Owls" on Sat, 3 Oct 2026.
+TBA - Wollongong, NSW is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Yours & Owls" on Sat, 3 Oct 2026.
 
-TBA - Wollongong, NSW is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including 1tbsp, Antenna, C.FRIM and Cold (IS) and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Wollongong, NSW is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including 1tbsp, Antenna, C.FRIM and Cold (IS) and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

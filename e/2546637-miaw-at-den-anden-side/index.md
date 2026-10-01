@@ -1,6 +1,6 @@
 # MIAW at Den Anden Side
 
-MIAW at Den Anden Side on Sat 17 Oct, Copenhagen. 5 artists on the bill: Alegrando, Britney Speed, DJ John Key and Emma Priis and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+MIAW at Den Anden Side on Sat 17 Oct, Copenhagen. 5 artists: Alegrando, Britney Speed, DJ John Key and Emma Priis and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

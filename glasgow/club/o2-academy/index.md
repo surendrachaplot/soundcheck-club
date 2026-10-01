@@ -1,8 +1,8 @@
 # O2 Academy
 
-O2 Academy is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "PRTY x HSSH: Toxic Machinery [All Night Long]" on Fri, 16 Oct 2026.
+O2 Academy is a music venue in Glasgow with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PRTY x HSSH: Toxic Machinery [All Night Long]" on Fri, 16 Oct 2026.
 
-O2 Academy is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including CADZOW, Chicane, Dual Damage and Fergie and 2 more. Browse upcoming dates, start times and who's playing. 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom.
+O2 Academy is a music venue in Glasgow listed on soundcheck. 5 upcoming gigs, with line-ups including CADZOW, Chicane, Dual Damage and Fergie and 2 more. See dates, start times and who's playing. 121 Eglinton Street; Glasgow, G5 9NT; Scotland, United Kingdom.
 
 ## What's on
 

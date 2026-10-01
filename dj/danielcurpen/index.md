@@ -1,8 +1,8 @@
 # Daniel Curpen
 
-Daniel Curpen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Daniel Curpen is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
-Daniel Curpen is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Berlin, Copenhagen, London and Malta. Often billed alongside Braxton, Jody Wisternoff and My Friend. Next up: UNO MALTA, Malta on Thu 8 Oct.
+Daniel Curpen is a house and deep house artist based in United Kingdom, with 9 gigs on soundcheck across Berlin, Copenhagen, London and Malta. Often billed alongside Braxton, Jody Wisternoff and My Friend. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -13,13 +13,13 @@ Daniel Curpen is a house and deep house artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- The Ton of Brix, London — Sat, 1 Mar 2025
-- Watergate, Berlin — Sat, 4 May 2024
-- fabric, London — Fri, 24 Nov 2023
-- Culture Box, Copenhagen — Fri, 1 Sept 2023
-- Finsbury Park, London — Sun, 13 Aug 2023
-- fabric, London — Sun, 13 Aug 2023
-- Night Tales, London — Fri, 12 May 2023
+- The Ton of Brix, London · Sat, 1 Mar 2025
+- Watergate, Berlin · Sat, 4 May 2024
+- fabric, London · Fri, 24 Nov 2023
+- Culture Box, Copenhagen · Fri, 1 Sept 2023
+- Finsbury Park, London · Sun, 13 Aug 2023
+- fabric, London · Sun, 13 Aug 2023
+- Night Tales, London · Fri, 12 May 2023
 
 ## Shares bills with
 

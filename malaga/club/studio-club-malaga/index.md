@@ -1,8 +1,8 @@
 # Studio Club Malaga
 
-Studio Club Malaga is a music venue in Malaga with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Studio X Structone" on Fri, 2 Oct 2026.
+Studio Club Malaga is a music venue in Malaga with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Studio X Structone" on Fri, 2 Oct 2026.
 
-Studio Club Malaga is a music venue in Malaga listed on soundcheck. 9 upcoming gigs, with line-ups including 6EJOU, Alarico, Alinka and Âme and 2 more. Browse upcoming dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
+Studio Club Malaga is a music venue in Malaga listed on soundcheck. 9 upcoming gigs, with line-ups including 6EJOU, Alarico, Alinka and Âme and 2 more. See dates, start times and who's playing. Avenida Palma de Mallorca 36, Torremolinos, Málaga.
 
 ## What's on
 

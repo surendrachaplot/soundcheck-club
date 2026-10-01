@@ -1,8 +1,8 @@
 # Jules Pinkney
 
-Jules Pinkney is a Club and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Jules Pinkney is a Club and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-Jules Pinkney is a club and tech house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Billy Daniel Bunter, Huck Finn and Shady Lady. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Jules Pinkney is a club and tech house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Billy Daniel Bunter, Huck Finn and Shady Lady. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jules Pinkney is a club and tech house artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- 93 Feet East, London — Sat, 2 May 2026
-- The Glove That Fits, London — Thu, 6 Nov 2025
-- Fire & Lightbox, London — Sat, 1 Nov 2025
-- Gallery, London — Fri, 29 Aug 2025
-- Studio 338, London — Sat, 16 Aug 2025
-- 93 Feet East, London — Sat, 2 Nov 2024
-- The Star By Liverpool Street, London — Thu, 31 Oct 2024
-- Vault Shenfield, London — Fri, 25 Oct 2024
+- 93 Feet East, London · Sat, 2 May 2026
+- The Glove That Fits, London · Thu, 6 Nov 2025
+- Fire & Lightbox, London · Sat, 1 Nov 2025
+- Gallery, London · Fri, 29 Aug 2025
+- Studio 338, London · Sat, 16 Aug 2025
+- 93 Feet East, London · Sat, 2 Nov 2024
+- The Star By Liverpool Street, London · Thu, 31 Oct 2024
+- Vault Shenfield, London · Fri, 25 Oct 2024
 
 ## Shares bills with
 

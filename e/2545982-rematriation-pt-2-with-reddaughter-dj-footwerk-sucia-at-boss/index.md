@@ -1,6 +1,6 @@
 # REMATRIATION PT.2 with Reddaughter, DJ Footwerk, & Sucia at Bossa Nova Civic Club
 
-REMATRIATION PT.2 with Reddaughter, DJ Footwerk, & Sucia at Bossa Nova Civic Club on Mon 12 Oct, New York City. 1 artist on the bill: SUCIA!. Club. Preview the line-up and save it on soundcheck.
+REMATRIATION PT.2 with Reddaughter, DJ Footwerk, & Sucia at Bossa Nova Civic Club on Mon 12 Oct, New York City. 1 artist: SUCIA!. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

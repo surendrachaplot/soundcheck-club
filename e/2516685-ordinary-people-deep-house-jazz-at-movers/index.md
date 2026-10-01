@@ -1,6 +1,6 @@
 # Ordinary People: Deep House & Jazz at Movers
 
-Ordinary People: Deep House & Jazz at Movers on Sat 5 Dec, Nottingham. Deep House and Jazz. Preview the line-up and save it on soundcheck.
+Ordinary People: Deep House & Jazz at Movers on Sat 5 Dec, Nottingham. Deep House and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

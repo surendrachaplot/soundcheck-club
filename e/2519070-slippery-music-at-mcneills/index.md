@@ -1,6 +1,6 @@
 # Slippery Music at McNeills
 
-Slippery Music at McNeills on Fri 16 Oct, Glasgow. Experimental. Preview the line-up and save it on soundcheck.
+Slippery Music at McNeills on Fri 16 Oct, Glasgow. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

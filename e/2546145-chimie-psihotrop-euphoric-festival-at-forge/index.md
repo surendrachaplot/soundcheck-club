@@ -1,6 +1,6 @@
 # CHIMIE × PSIHOTROP — Euphoric Festival at Forge
 
-CHIMIE × PSIHOTROP — Euphoric Festival at Forge on Sat 3 Oct, Bucharest. Hip-Hop and Grime. Preview the line-up and save it on soundcheck.
+CHIMIE × PSIHOTROP — Euphoric Festival at Forge on Sat 3 Oct, Bucharest. Hip-Hop and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

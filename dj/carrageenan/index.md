@@ -1,8 +1,8 @@
 # Carrageenan
 
-Carrageenan is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lavallée, Brussels on Fri, 16 Oct 2026.
+Carrageenan is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lavallée, Brussels on Fri, 16 Oct 2026.
 
-Carrageenan is an experimental and ambient artist based in Belgium, tracked on soundcheck, with 13 sets logged across Amsterdam, Brussels, Prague and The Hague. Often billed alongside Rick Shiver, Új Bála and Ben Bertrand. Next up: Lavallée, Brussels on Fri 16 Oct.
+Carrageenan is an experimental and ambient artist based in Belgium, with 13 gigs on soundcheck across Amsterdam, Brussels, Prague and The Hague. Often billed alongside Rick Shiver, Új Bála and Ben Bertrand. Next up: Lavallée, Brussels on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Carrageenan is an experimental and ambient artist based in Belgium, tracked on s
 
 ## Recently played
 
-- The Grey Space In The Middle, The Hague — Sat, 16 May 2026
-- Garage Noord, Amsterdam — Fri, 15 May 2026
-- Garage Noord, Amsterdam — Fri, 15 May 2026
-- Le Brass, Brussels — Fri, 24 Apr 2026
-- Les Ateliers Claus, Brussels — Sat, 21 Feb 2026
-- Nashaz, Brussels — Sun, 25 Jan 2026
-- Cafe Central, Brussels — Wed, 27 Nov 2024
-- Le Labokube, Brussels — Fri, 15 Nov 2024
+- The Grey Space In The Middle, The Hague · Sat, 16 May 2026
+- Garage Noord, Amsterdam · Fri, 15 May 2026
+- Garage Noord, Amsterdam · Fri, 15 May 2026
+- Le Brass, Brussels · Fri, 24 Apr 2026
+- Les Ateliers Claus, Brussels · Sat, 21 Feb 2026
+- Nashaz, Brussels · Sun, 25 Jan 2026
+- Cafe Central, Brussels · Wed, 27 Nov 2024
+- Le Labokube, Brussels · Fri, 15 Nov 2024
 
 ## Shares bills with
 

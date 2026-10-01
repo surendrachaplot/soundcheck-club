@@ -1,6 +1,6 @@
 # scratch [3 YEAR PARTY] at Nublu
 
-scratch [3 YEAR PARTY] at Nublu on Fri 16 Oct, New York City. 5 artists on the bill: Beni Hana, Eric eric, Jeny Michelle and Poolhaus and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+scratch [3 YEAR PARTY] at Nublu on Fri 16 Oct, New York City. 5 artists: Beni Hana, Eric eric, Jeny Michelle and Poolhaus and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

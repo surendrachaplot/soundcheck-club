@@ -1,6 +1,6 @@
 # Microsteria Halloween with Ascetic Practices at People's Leisure Club
 
-Microsteria Halloween with Ascetic Practices at People's Leisure Club on Sat 31 Oct, Edinburgh. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Microsteria Halloween with Ascetic Practices at People's Leisure Club on Sat 31 Oct, Edinburgh. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

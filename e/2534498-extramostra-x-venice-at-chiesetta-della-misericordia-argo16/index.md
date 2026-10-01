@@ -1,6 +1,6 @@
 # ExtraMostra x Venice at Chiesetta Della Misericordia + Argo16
 
-ExtraMostra x Venice at Chiesetta Della Misericordia + Argo16 on Sat 10 Oct, Venice. 5 artists on the bill: Joseph Tagliabue, LEYA, marielou and Sandra Mason and 1 more. Preview the line-up and save it on soundcheck.
+ExtraMostra x Venice at Chiesetta Della Misericordia + Argo16 on Sat 10 Oct, Venice. 5 artists: Joseph Tagliabue, LEYA, marielou and Sandra Mason and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Galantis
 
-Galantis is a House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Galantis is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Galantis is a house and progressive house artist based in Sweden, tracked on soundcheck, with 23 sets logged across Austin, Boston, Chicago and Ibiza and 10 more. Often billed alongside Zedd, Coco & Breezy and KREAM. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Galantis is a house and progressive house artist based in Sweden, with 23 gigs on soundcheck across Austin, Boston, Chicago and Ibiza and 10 more. Often billed alongside Zedd, Coco & Breezy and KREAM. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Galantis is a house and progressive house artist based in Sweden, tracked on sou
 
 ## Recently played
 
-- Downsview Park, Toronto — Fri, 31 Jul 2026
-- LIV Nightclub Miami, Miami — Fri, 31 Jul 2026
-- The Midway, San Francisco/Oakland — Sat, 27 Jun 2026
-- Loft 14, Montreal — Sat, 27 Jun 2026
-- Nova SD, San Diego — Fri, 31 Oct 2025
-- The Concourse Project, Austin — Sun, 31 Aug 2025
-- Seatgeek Stadium, Chicago — Fri, 29 Aug 2025
-- Ushuaïa Ibiza, Ibiza — Sun, 17 Aug 2025
+- Downsview Park, Toronto · Fri, 31 Jul 2026
+- LIV Nightclub Miami, Miami · Fri, 31 Jul 2026
+- The Midway, San Francisco/Oakland · Sat, 27 Jun 2026
+- Loft 14, Montreal · Sat, 27 Jun 2026
+- Nova SD, San Diego · Fri, 31 Oct 2025
+- The Concourse Project, Austin · Sun, 31 Aug 2025
+- Seatgeek Stadium, Chicago · Fri, 29 Aug 2025
+- Ushuaïa Ibiza, Ibiza · Sun, 17 Aug 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # One Day & Night in Paradise with Avalon & Tristan at Club Exil
 
-One Day & Night in Paradise with Avalon & Tristan at Club Exil on Fri 16 Oct, Vienna. Psytrance. Preview the line-up and save it on soundcheck.
+One Day & Night in Paradise with Avalon & Tristan at Club Exil on Fri 16 Oct, Vienna. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

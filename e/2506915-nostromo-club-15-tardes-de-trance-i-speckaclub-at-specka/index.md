@@ -1,6 +1,6 @@
 # Nostromo Club #15 Tardes de Trance I SpeckaClub at Specka
 
-Nostromo Club #15 Tardes de Trance I SpeckaClub on Sat 17 Oct, Madrid. Trance and Acid. Preview the line-up and save it on soundcheck.
+Nostromo Club #15 Tardes de Trance I SpeckaClub on Sat 17 Oct, Madrid. Trance and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

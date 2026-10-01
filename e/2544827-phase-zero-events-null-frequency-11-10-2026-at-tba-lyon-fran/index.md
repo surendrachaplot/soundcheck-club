@@ -1,6 +1,6 @@
 # PHASE ZERO EVENTS - NULL FREQUENCY 11.10.2026 at TBA - Lyon, France
 
-PHASE ZERO EVENTS - NULL FREQUENCY 11.10.2026 at TBA - Lyon, France on Sun 11 Oct, Lyon. Techno and Club. Preview the line-up and save it on soundcheck.
+PHASE ZERO EVENTS - NULL FREQUENCY 11.10.2026 at TBA - Lyon, France on Sun 11 Oct, Lyon. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Festival of Lights Afterpary with Charlotte Lion, CosmiKat at PKH Warehouse
 
-Festival of Lights Afterpary with Charlotte Lion, CosmiKat at PKH Warehouse on Tue 13 Oct, Berlin. 2 artists on the bill: Charlotte Lion and CosmiKat. Techno. Preview the line-up and save it on soundcheck.
+Festival of Lights Afterpary with Charlotte Lion, CosmiKat at PKH Warehouse on Tue 13 Oct, Berlin. 2 artists: Charlotte Lion and CosmiKat. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

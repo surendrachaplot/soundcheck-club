@@ -1,6 +1,6 @@
 # Lineage feat. Colleen 'Cosmo' Murphy - Tony Humphries at smartbar
 
-Lineage feat. Colleen 'Cosmo' Murphy - Tony Humphries at smartbar on Sat 3 Oct, Chicago. 2 artists on the bill: Colleen 'Cosmo' Murphy and Tony Humphries. House and Disco. Preview the line-up and save it on soundcheck.
+Lineage feat. Colleen 'Cosmo' Murphy - Tony Humphries at smartbar on Sat 3 Oct, Chicago. 2 artists: Colleen 'Cosmo' Murphy and Tony Humphries. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

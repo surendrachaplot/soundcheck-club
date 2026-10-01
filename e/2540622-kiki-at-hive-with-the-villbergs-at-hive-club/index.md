@@ -1,6 +1,6 @@
 # Kiki at Hive with The Villbergs at Hive Club
 
-Kiki at Hive with The Villbergs at Hive Club on Fri 23 Oct, Zurich. Preview the line-up and save it on soundcheck.
+Kiki at Hive with The Villbergs at Hive Club on Fri 23 Oct, Zurich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

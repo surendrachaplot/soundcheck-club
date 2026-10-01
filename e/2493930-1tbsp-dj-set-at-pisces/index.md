@@ -1,6 +1,6 @@
 # 1tbsp DJ Set at Pisces
 
-1tbsp DJ Set at Pisces on Sat 17 Oct, Atlanta. 1 artist on the bill: 1tbsp. Preview the line-up and save it on soundcheck.
+1tbsp DJ Set at Pisces on Sat 17 Oct, Atlanta. 1 artist: 1tbsp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

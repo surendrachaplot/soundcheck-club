@@ -1,6 +1,6 @@
 # Late Late Show with Don Glori at Ronnie Scott's Bar
 
-Late Late Show with Don Glori at Ronnie Scott's Bar on Sat 31 Oct, London. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Late Late Show with Don Glori at Ronnie Scott's Bar on Sat 31 Oct, London. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

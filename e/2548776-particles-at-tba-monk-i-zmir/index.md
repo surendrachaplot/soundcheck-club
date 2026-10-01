@@ -1,6 +1,6 @@
 # Particles at TBA - Monk, İzmir
 
-Particles at TBA - Monk, İzmir on Sat 31 Oct, Izmir. 1 artist on the bill: Particles. Preview the line-up and save it on soundcheck.
+Particles at TBA - Monk, İzmir on Sat 31 Oct, Izmir. 1 artist: Particles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

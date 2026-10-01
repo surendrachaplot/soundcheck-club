@@ -1,6 +1,6 @@
 # FIESTA SEXHUM:MONSTERS KINK at Maquinal Espacio Cultural
 
-FIESTA SEXHUM:MONSTERS KINK at Maquinal Espacio Cultural on Sat 17 Oct, Buenos Aires. 1 artist on the bill: Fuocco. Preview the line-up and save it on soundcheck.
+FIESTA SEXHUM:MONSTERS KINK at Maquinal Espacio Cultural on Sat 17 Oct, Buenos Aires. 1 artist: Fuocco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

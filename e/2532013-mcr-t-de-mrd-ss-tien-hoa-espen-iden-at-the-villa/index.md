@@ -1,6 +1,6 @@
 # MCR-T (DE) & MRD / SS: Tien Hoa & Espen Iden at The Villa
 
-MCR-T (DE) & MRD / SS: Tien Hoa & Espen Iden at The Villa on Fri 2 Oct, Oslo. 3 artists on the bill: Espen Iden, MCR-T and MRD (NO). Techno and Bass. Preview the line-up and save it on soundcheck.
+MCR-T (DE) & MRD / SS: Tien Hoa & Espen Iden at The Villa on Fri 2 Oct, Oslo. 3 artists: Espen Iden, MCR-T and MRD (NO). Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

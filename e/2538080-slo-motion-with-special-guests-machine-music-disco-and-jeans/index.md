@@ -1,6 +1,6 @@
 # Slo Motion with Special Guests Machine Music Disco and Jeans & Lifestyle at Hidden Heights Creative Studio
 
-Slo Motion with Special Guests Machine Music Disco and Jeans & Lifestyle at Hidden Heights Creative Studio on Sat 14 Nov, Newcastle. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+Slo Motion with Special Guests Machine Music Disco and Jeans & Lifestyle at Hidden Heights Creative Studio on Sat 14 Nov, Newcastle. Downtempo and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Homies IBIZA · LOVE · BOAT PARTY at Marina Botafoch
 
-Homies IBIZA · LOVE · BOAT PARTY at Marina Botafoch on Mon 12 Oct, Ibiza. House and Balearic. Preview the line-up and save it on soundcheck.
+Homies IBIZA · LOVE · BOAT PARTY at Marina Botafoch on Mon 12 Oct, Ibiza. House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

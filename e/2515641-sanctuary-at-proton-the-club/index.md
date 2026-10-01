@@ -1,6 +1,6 @@
 # SANCTUARY at Proton the Club
 
-SANCTUARY at Proton the Club on Sat 17 Oct, Stuttgart. Bass and Tech House. Preview the line-up and save it on soundcheck.
+SANCTUARY at Proton the Club on Sat 17 Oct, Stuttgart. Bass and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

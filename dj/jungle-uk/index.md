@@ -1,8 +1,8 @@
 # Jungle (UK)
 
-Jungle (UK) is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Accor Arena, Paris on Fri, 30 Oct 2026.
+Jungle (UK) is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Accor Arena, Paris on Fri, 30 Oct 2026.
 
-Jungle (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Bali, Barcelona and Belfast and 36 more. Often billed alongside Bass, Bassline and Carlita. Next up: Accor Arena, Paris on Fri 30 Oct.
+Jungle (UK) is a drum & bass and jungle artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 36 more. Often billed alongside Bass, Bassline and Carlita. Next up: Accor Arena, Paris on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Jungle (UK) is a drum & bass and jungle artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- LDN East, London — Sat, 26 Sept 2026
-- Refuge, New York City — Sat, 19 Sept 2026
-- The Sound Lounge at Percy, Philadelphia — Thu, 13 Aug 2026
-- Club Makossa, London — Fri, 3 Jul 2026
-- Panke Social, Sheffield — Fri, 29 May 2026
-- Panke Social, Sheffield — Fri, 8 May 2026
-- The Sugar Club, Dublin — Sun, 3 May 2026
-- Panke Social, Sheffield — Fri, 24 Apr 2026
+- LDN East, London · Sat, 26 Sept 2026
+- Refuge, New York City · Sat, 19 Sept 2026
+- The Sound Lounge at Percy, Philadelphia · Thu, 13 Aug 2026
+- Club Makossa, London · Fri, 3 Jul 2026
+- Panke Social, Sheffield · Fri, 29 May 2026
+- Panke Social, Sheffield · Fri, 8 May 2026
+- The Sugar Club, Dublin · Sun, 3 May 2026
+- Panke Social, Sheffield · Fri, 24 Apr 2026
 
 ## Shares bills with
 

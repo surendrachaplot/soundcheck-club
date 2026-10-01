@@ -1,6 +1,6 @@
 # Antal: Listening Session presented by 1 Hotel Tokyo at 1 Hotel Tokyo
 
-Antal: Listening Session presented by 1 Hotel Tokyo on Sat 10 Oct, Tokyo. 1 artist on the bill: Antal. House and Disco. Preview the line-up and save it on soundcheck.
+Antal: Listening Session presented by 1 Hotel Tokyo on Sat 10 Oct, Tokyo. 1 artist: Antal. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

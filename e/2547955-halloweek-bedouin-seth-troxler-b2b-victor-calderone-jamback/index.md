@@ -1,6 +1,6 @@
 # Halloweek: Bedouin + Seth Troxler b2b Victor Calderone + Jamback b2b Toman at Club Space Miami
 
-Halloweek: Bedouin + Seth Troxler b2b Victor Calderone + Jamback b2b Toman at Club Space Miami on Sat 31 Oct, Miami. 7 artists on the bill: Bakke, Bedouin, Jamback and Ms. Mada and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Halloweek: Bedouin + Seth Troxler b2b Victor Calderone + Jamback b2b Toman at Club Space Miami on Sat 31 Oct, Miami. 7 artists: Bakke, Bedouin, Jamback and Ms. Mada and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

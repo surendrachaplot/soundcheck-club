@@ -1,6 +1,6 @@
 # Saxon Sound at The Fox and Firkin
 
-Saxon Sound at The Fox and Firkin on Sat 10 Oct, London. Dancehall. Preview the line-up and save it on soundcheck.
+Saxon Sound at The Fox and Firkin on Sat 10 Oct, London. Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

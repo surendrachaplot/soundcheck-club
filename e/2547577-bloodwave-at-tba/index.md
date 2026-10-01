@@ -1,6 +1,6 @@
 # BLOODWAVE at TBA
 
-BLOODWAVE at TBA on Sat 3 Oct, Chicago. 2 artists on the bill: dirtymoney and KIMBÄ. Techno. Preview the line-up and save it on soundcheck.
+BLOODWAVE at TBA on Sat 3 Oct, Chicago. 2 artists: dirtymoney and KIMBÄ. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

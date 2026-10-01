@@ -1,8 +1,8 @@
 # Will Bankhead
 
-Will Bankhead is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The White Hotel, Manchester on Fri, 9 Oct 2026.
+Will Bankhead is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The White Hotel, Manchester on Fri, 9 Oct 2026.
 
-Will Bankhead is a house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Glasgow, London, Manchester and Tokyo. Often billed alongside Josey Rebelle, PLO Man and Boosterhooch. Next up: The White Hotel, Manchester on Fri 9 Oct.
+Will Bankhead is a house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Glasgow, London, Manchester and Tokyo. Often billed alongside Josey Rebelle, PLO Man and Boosterhooch. Next up: The White Hotel, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Will Bankhead is a house and techno artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- M.O.T, London — Fri, 19 Jun 2026
-- M.O.T, London — Sat, 21 Feb 2026
-- EXIT Glasgow, Glasgow — Fri, 12 Dec 2025
-- M.O.T, London — Fri, 1 Aug 2025
-- VENT, Tokyo — Fri, 24 Jan 2025
-- M.O.T, London — Sat, 14 Dec 2024
-- Camden Arts Centre, London — Thu, 8 Feb 2024
-- M.O.T, London — Fri, 6 Oct 2023
+- M.O.T, London · Fri, 19 Jun 2026
+- M.O.T, London · Sat, 21 Feb 2026
+- EXIT Glasgow, Glasgow · Fri, 12 Dec 2025
+- M.O.T, London · Fri, 1 Aug 2025
+- VENT, Tokyo · Fri, 24 Jan 2025
+- M.O.T, London · Sat, 14 Dec 2024
+- Camden Arts Centre, London · Thu, 8 Feb 2024
+- M.O.T, London · Fri, 6 Oct 2023
 
 ## Shares bills with
 

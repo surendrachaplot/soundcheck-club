@@ -1,6 +1,6 @@
 # Marcel Dettmann at Silencio
 
-Marcel Dettmann at Silencio on Thu 1 Oct, Paris. 1 artist on the bill: Marcel Dettmann. Preview the line-up and save it on soundcheck.
+Marcel Dettmann at Silencio on Thu 1 Oct, Paris. 1 artist: Marcel Dettmann. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

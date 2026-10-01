@@ -1,6 +1,6 @@
 # OFF THE GRID at ZUBAR
 
-OFF THE GRID at ZUBAR on Mon 12 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+OFF THE GRID at ZUBAR on Mon 12 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Smolna 10th B-day DAY 1: SECRET GUEST, Azzecca at Smolna
 
-Smolna 10th B-day DAY 1: SECRET GUEST, Azzecca on Fri 23 Oct, Warsaw. 1 artist on the bill: Azzecca. Techno. Preview the line-up and save it on soundcheck.
+Smolna 10th B-day DAY 1: SECRET GUEST, Azzecca on Fri 23 Oct, Warsaw. 1 artist: Azzecca. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

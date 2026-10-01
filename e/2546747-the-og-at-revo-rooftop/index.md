@@ -1,6 +1,6 @@
 # The OG at Revo Rooftop
 
-The OG at Revo Rooftop on Sat 31 Oct, Mexico City. 1 artist on the bill: Bastian Bell. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+The OG at Revo Rooftop on Sat 31 Oct, Mexico City. 1 artist: Bastian Bell. Hip-Hop and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

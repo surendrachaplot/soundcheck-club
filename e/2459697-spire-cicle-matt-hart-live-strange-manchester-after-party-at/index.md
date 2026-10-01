@@ -1,6 +1,6 @@
 # Spire Cicle & Matt Hart live + Strange Manchester after party at The Grafton Arms
 
-Spire Cicle & Matt Hart live + Strange Manchester after party at The Grafton Arms on Sat 28 Nov, Manchester. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Spire Cicle & Matt Hart live + Strange Manchester after party at The Grafton Arms on Sat 28 Nov, Manchester. EBM and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

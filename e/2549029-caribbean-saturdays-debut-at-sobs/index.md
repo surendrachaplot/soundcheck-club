@@ -1,6 +1,6 @@
 # Caribbean Saturdays Debut at SOBs
 
-Caribbean Saturdays Debut at SOBs on Sat 10 Oct, New York City. Dancehall. Preview the line-up and save it on soundcheck.
+Caribbean Saturdays Debut at SOBs on Sat 10 Oct, New York City. Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

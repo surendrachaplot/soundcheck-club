@@ -1,8 +1,8 @@
 # Fontango
 
-Fontango is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Subcero Club, Madrid on Fri, 30 Oct 2026.
+Fontango is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Subcero Club, Madrid on Fri, 30 Oct 2026.
 
-Fontango is a house and tech house artist based in Argentina, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin, Madrid and Malaga. Often billed alongside Mat Spiaggi, Riviani and Carlo. Next up: Subcero Club, Madrid on Fri 30 Oct.
+Fontango is a house and tech house artist based in Argentina, with 20 gigs on soundcheck across Barcelona, Berlin, Madrid and Malaga. Often billed alongside Mat Spiaggi, Riviani and Carlo. Next up: Subcero Club, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Fontango is a house and tech house artist based in Argentina, tracked on soundch
 
 ## Recently played
 
-- El Cuervo Beach & Soul, Malaga — Fri, 25 Sept 2026
-- Antiguo Liceo de Málaga, Malaga — Sat, 29 Aug 2026
-- TBA - Discoteca Liceo, Malaga — Fri, 10 Apr 2026
-- berlinClub, Madrid — Mon, 5 Jan 2026
-- 303 Audiophile Bar, Barcelona — Thu, 13 Nov 2025
-- Sala Marte, Malaga — Sat, 25 Oct 2025
-- Sala Marte, Malaga — Sat, 27 Sept 2025
-- Malaga Forum, Malaga — Fri, 29 Aug 2025
+- El Cuervo Beach & Soul, Malaga · Fri, 25 Sept 2026
+- Antiguo Liceo de Málaga, Malaga · Sat, 29 Aug 2026
+- TBA - Discoteca Liceo, Malaga · Fri, 10 Apr 2026
+- berlinClub, Madrid · Mon, 5 Jan 2026
+- 303 Audiophile Bar, Barcelona · Thu, 13 Nov 2025
+- Sala Marte, Malaga · Sat, 25 Oct 2025
+- Sala Marte, Malaga · Sat, 27 Sept 2025
+- Malaga Forum, Malaga · Fri, 29 Aug 2025
 
 ## Shares bills with
 

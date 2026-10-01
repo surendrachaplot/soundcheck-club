@@ -1,6 +1,6 @@
 # Pegassi at Centre Point
 
-Pegassi at Centre Point on Fri 13 Nov, Dublin. 1 artist on the bill: Pegassi. Preview the line-up and save it on soundcheck.
+Pegassi at Centre Point on Fri 13 Nov, Dublin. 1 artist: Pegassi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

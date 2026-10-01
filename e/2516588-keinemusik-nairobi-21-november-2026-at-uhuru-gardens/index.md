@@ -1,6 +1,6 @@
 # Keinemusik Nairobi - 21 November 2026 at Uhuru Gardens
 
-Keinemusik Nairobi - 21 November 2026 at Uhuru Gardens on Sat 21 Nov, Nairobi. 3 artists on the bill: &ME, Adam Port and Rampa. Preview the line-up and save it on soundcheck.
+Keinemusik Nairobi - 21 November 2026 at Uhuru Gardens on Sat 21 Nov, Nairobi. 3 artists: &ME, Adam Port and Rampa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

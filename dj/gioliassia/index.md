@@ -1,8 +1,8 @@
 # Giolì & Assia
 
-Giolì & Assia is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Klein Phönix, Istanbul on Fri, 16 Oct 2026.
+Giolì & Assia is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klein Phönix, Istanbul on Fri, 16 Oct 2026.
 
-Giolì & Assia are a techno and house duo based in Italy, tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Athens and Austin and 26 more. Often billed alongside Black Coffee, Nora En Pure and 8KAYS. Next up: Klein Phönix, Istanbul on Fri 16 Oct.
+Giolì & Assia are a techno and house duo based in Italy, with 79 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 26 more. Often billed alongside Black Coffee, Nora En Pure and 8KAYS. Next up: Klein Phönix, Istanbul on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Giolì & Assia are a techno and house duo based in Italy, tracked on soundcheck,
 
 ## Recently played
 
-- fabric, London — Fri, 14 Aug 2026
-- Loo Loo, Mexico City — Thu, 25 Jun 2026
-- Brooklyn Army Terminal, New York City — Fri, 19 Jun 2026
-- Savaya Bali, Bali — Sun, 14 Jun 2026
-- Bolivar Beach Bar, Athens — Sat, 25 Apr 2026
-- Joule, Osaka — Sat, 14 Mar 2026
-- Zerotokyo, Tokyo — Fri, 13 Mar 2026
-- KOKO, London — Fri, 20 Feb 2026
+- fabric, London · Fri, 14 Aug 2026
+- Loo Loo, Mexico City · Thu, 25 Jun 2026
+- Brooklyn Army Terminal, New York City · Fri, 19 Jun 2026
+- Savaya Bali, Bali · Sun, 14 Jun 2026
+- Bolivar Beach Bar, Athens · Sat, 25 Apr 2026
+- Joule, Osaka · Sat, 14 Mar 2026
+- Zerotokyo, Tokyo · Fri, 13 Mar 2026
+- KOKO, London · Fri, 20 Feb 2026
 
 ## Shares bills with
 

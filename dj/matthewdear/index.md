@@ -1,8 +1,8 @@
 # Matthew Dear
 
-Matthew Dear is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hidden Hall, Seattle on Fri, 2 Oct 2026.
+Matthew Dear is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hidden Hall, Seattle on Fri, 2 Oct 2026.
 
-Matthew Dear is a house and techno artist based in United States of America, tracked on soundcheck, with 52 sets logged across Amsterdam, Barcelona, Berlin and Boston and 14 more. Often billed alongside Juan Maclean, Carl Craig and Trip Report. Next up: Hidden Hall, Seattle on Fri 2 Oct.
+Matthew Dear is a house and techno artist based in United States of America, with 52 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 14 more. Often billed alongside Juan Maclean, Carl Craig and Trip Report. Next up: Hidden Hall, Seattle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Matthew Dear is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
-- TV Lounge, Detroit — Sun, 6 Sept 2026
-- Lodge Room, Los Angeles — Fri, 21 Aug 2026
-- Good Room, New York City — Fri, 31 Jul 2026
-- American Legion Marsh Post #442, Boston — Sat, 25 Jul 2026
-- Club Vinyl, Denver — Sat, 18 Jul 2026
-- Sonnenraum, Berlin — Fri, 19 Jun 2026
-- Seaseaclub Barcelona, Barcelona — Thu, 18 Jun 2026
-- Holocene, Portland — Thu, 11 Jun 2026
+- TV Lounge, Detroit · Sun, 6 Sept 2026
+- Lodge Room, Los Angeles · Fri, 21 Aug 2026
+- Good Room, New York City · Fri, 31 Jul 2026
+- American Legion Marsh Post #442, Boston · Sat, 25 Jul 2026
+- Club Vinyl, Denver · Sat, 18 Jul 2026
+- Sonnenraum, Berlin · Fri, 19 Jun 2026
+- Seaseaclub Barcelona, Barcelona · Thu, 18 Jun 2026
+- Holocene, Portland · Thu, 11 Jun 2026
 
 ## Shares bills with
 

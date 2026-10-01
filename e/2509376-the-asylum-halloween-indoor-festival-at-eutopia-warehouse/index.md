@@ -1,6 +1,6 @@
 # The Asylum Halloween Indoor Festival at Eutopia Warehouse
 
-The Asylum Halloween Indoor Festival at Eutopia Warehouse on Sat 31 Oct, London. 13 artists on the bill: Afro Karl, Beezo, DJ Ace and DJ Majesty and 9 more. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+The Asylum Halloween Indoor Festival at Eutopia Warehouse on Sat 31 Oct, London. 13 artists: Afro Karl, Beezo, DJ Ace and DJ Majesty and 9 more. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

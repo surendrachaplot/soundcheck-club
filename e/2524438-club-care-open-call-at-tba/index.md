@@ -1,6 +1,6 @@
 # Club Care [OPEN CALL] at TBA
 
-Club Care [OPEN CALL] at TBA on Sun 11 Oct, Berlin. 1 artist on the bill: ZE:NA. Bass and Downtempo. Preview the line-up and save it on soundcheck.
+Club Care [OPEN CALL] at TBA on Sun 11 Oct, Berlin. 1 artist: ZE:NA. Bass and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

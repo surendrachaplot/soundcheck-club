@@ -1,6 +1,6 @@
 # The Enormous Radio at The Substation
 
-The Enormous Radio at The Substation on Wed 30 Sept, Melbourne. Experimental. Preview the line-up and save it on soundcheck.
+The Enormous Radio at The Substation on Wed 30 Sept, Melbourne. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

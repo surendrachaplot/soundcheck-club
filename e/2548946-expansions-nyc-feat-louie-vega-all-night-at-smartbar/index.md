@@ -1,6 +1,6 @@
 # Expansions NYC feat. Louie Vega (All Night) at smartbar
 
-Expansions NYC feat. Louie Vega (All Night) at smartbar on Sat 21 Nov, Chicago. 1 artist on the bill: Louie Vega. House and Deep House. Preview the line-up and save it on soundcheck.
+Expansions NYC feat. Louie Vega (All Night) at smartbar on Sat 21 Nov, Chicago. 1 artist: Louie Vega. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

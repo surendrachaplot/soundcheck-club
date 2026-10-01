@@ -1,8 +1,8 @@
 # O.Goo
 
-O.Goo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at clubasia, Tokyo on Fri, 9 Oct 2026.
+O.Goo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at clubasia, Tokyo on Fri, 9 Oct 2026.
 
-O.Goo is a techno and house artist based in Japan, tracked on soundcheck, with 45 sets logged across Amsterdam and Tokyo. Often billed alongside AY, TAKUTO and Mary-chan. Next up: clubasia, Tokyo on Fri 9 Oct.
+O.Goo is a techno and house artist based in Japan, with 45 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside AY, TAKUTO and Mary-chan. Next up: clubasia, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ O.Goo is a techno and house artist based in Japan, tracked on soundcheck, with 4
 
 ## Recently played
 
-- ZEROTOKYO, Tokyo — Sun, 20 Sept 2026
-- ZEROTOKYO, Tokyo — Fri, 31 Jul 2026
-- ZEROTOKYO, Tokyo — Fri, 26 Jun 2026
-- Zerotokyo, Tokyo — Fri, 29 May 2026
-- clubasia, Tokyo — Fri, 29 May 2026
-- Ruby Room, Tokyo — Sat, 9 May 2026
-- Zerotokyo, Tokyo — Sat, 25 Apr 2026
-- Ohjo Bldg, Tokyo — Fri, 10 Apr 2026
+- ZEROTOKYO, Tokyo · Sun, 20 Sept 2026
+- ZEROTOKYO, Tokyo · Fri, 31 Jul 2026
+- ZEROTOKYO, Tokyo · Fri, 26 Jun 2026
+- Zerotokyo, Tokyo · Fri, 29 May 2026
+- clubasia, Tokyo · Fri, 29 May 2026
+- Ruby Room, Tokyo · Sat, 9 May 2026
+- Zerotokyo, Tokyo · Sat, 25 Apr 2026
+- Ohjo Bldg, Tokyo · Fri, 10 Apr 2026
 
 ## Shares bills with
 

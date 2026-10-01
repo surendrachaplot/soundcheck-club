@@ -1,6 +1,6 @@
 # HARDLINE: COLD WAR at Event Arena Vösendorf
 
-HARDLINE: COLD WAR at Event Arena Vösendorf on Mon 7 Dec, Austria. 1 artist on the bill: Yoshiko. Preview the line-up and save it on soundcheck.
+HARDLINE: COLD WAR at Event Arena Vösendorf on Mon 7 Dec, Austria. 1 artist: Yoshiko. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

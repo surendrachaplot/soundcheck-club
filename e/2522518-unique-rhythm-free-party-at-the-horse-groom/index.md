@@ -1,6 +1,6 @@
 # Unique Rhythm free party at The Horse & Groom
 
-Unique Rhythm free party at The Horse & Groom on Sat 17 Oct, London. 1 artist on the bill: Mark Osborne. House and Disco. Preview the line-up and save it on soundcheck.
+Unique Rhythm free party at The Horse & Groom on Sat 17 Oct, London. 1 artist: Mark Osborne. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

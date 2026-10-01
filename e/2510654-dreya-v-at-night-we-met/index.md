@@ -1,6 +1,6 @@
 # Dreya V at Night We Met
 
-Dreya V at Night We Met on Sat 10 Oct, Nashville. Techno. Preview the line-up and save it on soundcheck.
+Dreya V at Night We Met on Sat 10 Oct, Nashville. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

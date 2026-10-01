@@ -1,6 +1,6 @@
 # Goldcap (4-Hour Extended Set) by SET x Safra x All I Need at Madarae San Francisco
 
-Goldcap (4-Hour Extended Set) by SET x Safra x All I Need at Madarae San Francisco on Fri 23 Oct, San Francisco/Oakland. 1 artist on the bill: Goldcap. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+Goldcap (4-Hour Extended Set) by SET x Safra x All I Need at Madarae San Francisco on Fri 23 Oct, San Francisco/Oakland. 1 artist: Goldcap. Deep House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 90s Baby at Ridley Road Market Bar
 
-90s Baby at Ridley Road Market Bar on Wed 7 Oct, London. Pop and R&B. Preview the line-up and save it on soundcheck.
+90s Baby at Ridley Road Market Bar on Wed 7 Oct, London. Pop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

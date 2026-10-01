@@ -1,6 +1,6 @@
 # Murat Uncuoglu / Cervus at Minimüzikhol
 
-Murat Uncuoglu / Cervus at Minimüzikhol on Sat 10 Oct, Istanbul. 2 artists on the bill: Murat Uncuoglu and Subsky. Preview the line-up and save it on soundcheck.
+Murat Uncuoglu / Cervus at Minimüzikhol on Sat 10 Oct, Istanbul. 2 artists: Murat Uncuoglu and Subsky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

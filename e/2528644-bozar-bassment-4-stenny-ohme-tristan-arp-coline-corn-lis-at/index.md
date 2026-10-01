@@ -1,6 +1,6 @@
 # Bozar Bassment #4: Stenny & OHME – Tristan Arp & Coline Cornélis at Bozar
 
-Bozar Bassment #4: Stenny & OHME – Tristan Arp & Coline Cornélis on Thu 28 Jan, Brussels. 4 artists on the bill: Coline Cornélis, OHME, Stenny and Tristan Arp. Preview the line-up and save it on soundcheck.
+Bozar Bassment #4: Stenny & OHME – Tristan Arp & Coline Cornélis on Thu 28 Jan, Brussels. 4 artists: Coline Cornélis, OHME, Stenny and Tristan Arp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

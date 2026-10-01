@@ -1,6 +1,6 @@
 # NOTD at Concord Music Hall
 
-NOTD at Concord Music Hall on Fri 16 Oct, Chicago. House and Pop. Preview the line-up and save it on soundcheck.
+NOTD at Concord Music Hall on Fri 16 Oct, Chicago. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Babour Sauvage
 
-Babour Sauvage is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "wooboodoo on a boat 4 - Babour Sauvage" on Sat, 3 Oct 2026.
+Babour Sauvage is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "wooboodoo on a boat 4 - Babour Sauvage" on Sat, 3 Oct 2026.
 
-Babour Sauvage is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Rossa and Kabaka. Browse upcoming dates, start times and who's playing. 59 Bd Macdonald, 75019 Paris.
+Babour Sauvage is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Rossa and Kabaka. See dates, start times and who's playing. 59 Bd Macdonald, 75019 Paris.
 
 ## What's on
 

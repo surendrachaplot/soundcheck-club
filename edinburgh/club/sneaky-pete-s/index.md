@@ -1,8 +1,8 @@
 # Sneaky Pete's
 
-Sneaky Pete's is a music venue in Edinburgh with 28 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Import: Styn (Scotland Debut)" on Thu, 1 Oct 2026.
+Sneaky Pete's is a music venue in Edinburgh with 28 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Import: Styn (Scotland Debut)" on Thu, 1 Oct 2026.
 
-Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 28 upcoming gigs, with line-ups including BORLEY, Buckfast Barbie, Buckley (UK) and ButhoTheWarrior and 2 more. Browse upcoming dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
+Sneaky Pete's is a music venue in Edinburgh listed on soundcheck. 28 upcoming gigs, with line-ups including BORLEY, Buckfast Barbie, Buckley (UK) and ButhoTheWarrior and 2 more. See dates, start times and who's playing. 73 Cowgate; Edinburgh, EH1 1JW; Scotland; United Kingdom.
 
 ## What's on
 

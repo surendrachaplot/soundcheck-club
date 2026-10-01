@@ -1,8 +1,8 @@
 # Golden Goose Theatre
 
-Golden Goose Theatre is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Signal to Noise! Experimental Electronic Sound Works" on Sun, 25 Oct 2026.
+Golden Goose Theatre is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Signal to Noise! Experimental Electronic Sound Works" on Sun, 25 Oct 2026.
 
-Golden Goose Theatre is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Arconic. Browse upcoming dates, start times and who's playing.
+Golden Goose Theatre is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Arconic. See dates, start times and who's playing.
 
 ## What's on
 

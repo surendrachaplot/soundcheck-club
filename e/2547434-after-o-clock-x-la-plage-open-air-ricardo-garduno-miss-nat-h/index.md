@@ -1,6 +1,6 @@
 # After O'Clock X La Plage Open Air: Ricardo Garduno, Miss Nat H Lee, Le Saint at Glazart
 
-After O'Clock X La Plage Open Air: Ricardo Garduno, Miss Nat H Lee, Le Saint at Glazart on Sun 4 Oct, Paris. 3 artists on the bill: Le Saint, Miss Nat-H-Lee and Ricardo Garduno. Techno. Preview the line-up and save it on soundcheck.
+After O'Clock X La Plage Open Air: Ricardo Garduno, Miss Nat H Lee, Le Saint at Glazart on Sun 4 Oct, Paris. 3 artists: Le Saint, Miss Nat-H-Lee and Ricardo Garduno. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

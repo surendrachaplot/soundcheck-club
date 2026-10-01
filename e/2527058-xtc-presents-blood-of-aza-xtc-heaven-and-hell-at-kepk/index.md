@@ -1,6 +1,6 @@
 # XTC presents Blood of Aza (XTC HEAVEN AND HELL) at KEPK
 
-XTC presents Blood of Aza (XTC HEAVEN AND HELL) at KEPK on Sat 3 Oct, Brisbane. 2 artists on the bill: Alice 4Ever and Blood of Aza. Experimental and Club. Preview the line-up and save it on soundcheck.
+XTC presents Blood of Aza (XTC HEAVEN AND HELL) at KEPK on Sat 3 Oct, Brisbane. 2 artists: Alice 4Ever and Blood of Aza. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

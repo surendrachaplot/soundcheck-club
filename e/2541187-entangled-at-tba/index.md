@@ -1,6 +1,6 @@
 # Entangled at TBA
 
-Entangled at TBA on Thu 5 Nov, New York City. Baile Funk and Reggaeton. Preview the line-up and save it on soundcheck.
+Entangled at TBA on Thu 5 Nov, New York City. Baile Funk and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

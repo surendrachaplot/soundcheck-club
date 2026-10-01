@@ -1,6 +1,6 @@
 # Teletech: Lobsta B [BRISTOL] at The Clock Factory
 
-Teletech: Lobsta B [BRISTOL] at The Clock Factory on Fri 6 Nov, Bristol. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Teletech: Lobsta B [BRISTOL] at The Clock Factory on Fri 6 Nov, Bristol. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

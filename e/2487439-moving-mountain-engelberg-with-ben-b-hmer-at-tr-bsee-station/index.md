@@ -1,6 +1,6 @@
 # Moving Mountain Engelberg with Ben Böhmer at Trübsee Station, Engelberg
 
-Moving Mountain Engelberg with Ben Böhmer at Trübsee Station, Engelberg on Sat 28 Nov, Switzerland. 3 artists on the bill: AWEN, Ben Böhmer and Read the News. Preview the line-up and save it on soundcheck.
+Moving Mountain Engelberg with Ben Böhmer at Trübsee Station, Engelberg on Sat 28 Nov, Switzerland. 3 artists: AWEN, Ben Böhmer and Read the News. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Alfred Heinrichs at Stromwerk Dresden
 
-Alfred Heinrichs at Stromwerk Dresden on Sat 6 Mar, Dresden. 1 artist on the bill: Alfred Heinrichs. Preview the line-up and save it on soundcheck.
+Alfred Heinrichs at Stromwerk Dresden on Sat 6 Mar, Dresden. 1 artist: Alfred Heinrichs. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ATTUNE music gathering at Rest Favignana
 
-ATTUNE music gathering at Rest Favignana on Fri 16 Oct, Sicily. 9 artists on the bill: Dannilov, Ghettofvn, Hofmann (BE) and Jade Seatle and 5 more. Preview the line-up and save it on soundcheck.
+ATTUNE music gathering at Rest Favignana on Fri 16 Oct, Sicily. 9 artists: Dannilov, Ghettofvn, Hofmann (BE) and Jade Seatle and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

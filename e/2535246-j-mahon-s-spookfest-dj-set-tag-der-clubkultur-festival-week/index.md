@@ -1,6 +1,6 @@
 # J MAHON'S SPOOKFEST (DJ-Set) - TAG DER CLUBKULTUR Festival Week at Madame Claude
 
-J MAHON'S SPOOKFEST (DJ-Set) - TAG DER CLUBKULTUR Festival Week at Madame Claude on Fri 2 Oct, Berlin. Preview the line-up and save it on soundcheck.
+J MAHON'S SPOOKFEST (DJ-Set) - TAG DER CLUBKULTUR Festival Week at Madame Claude on Fri 2 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

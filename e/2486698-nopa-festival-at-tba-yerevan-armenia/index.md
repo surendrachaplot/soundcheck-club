@@ -1,6 +1,6 @@
 # NOPA Festival at TBA - Yerevan, Armenia
 
-NOPA Festival at TBA - Yerevan, Armenia on Sat 26 Sept, Armenia. 18 artists on the bill: Animistic Beliefs, Cinna Peyghamy, DJ Scotch Egg and Elvin Brandhi and 14 more. Preview the line-up and save it on soundcheck.
+NOPA Festival at TBA - Yerevan, Armenia on Sat 26 Sept, Armenia. 18 artists: Animistic Beliefs, Cinna Peyghamy, DJ Scotch Egg and Elvin Brandhi and 14 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

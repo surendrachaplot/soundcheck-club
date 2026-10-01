@@ -1,8 +1,8 @@
 # Overmono
 
-Overmono is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Radius, Chicago on Thu, 8 Oct 2026.
+Overmono is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Radius, Chicago on Thu, 8 Oct 2026.
 
-Overmono is a techno and house artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Aberdeen, Amsterdam, Athens and Austin and 47 more. Often billed alongside Nia Archives, KI/KI and Ewan McVicar. Next up: Radius, Chicago on Thu 8 Oct.
+Overmono is a techno and house artist based in United Kingdom, with 107 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Austin and 47 more. Often billed alongside Nia Archives, KI/KI and Ewan McVicar. Next up: Radius, Chicago on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Overmono is a techno and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Public Works, San Francisco/Oakland — Sun, 27 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Hollywood Palladium, Los Angeles — Fri, 25 Sept 2026
-- Jacaranda Baltic, Liverpool — Thu, 13 Aug 2026
-- Old Royal Naval College, London — Fri, 7 Aug 2026
-- Sønder Hoved, Copenhagen — Thu, 30 Jul 2026
-- Colwick Country Park, Nottingham — Fri, 26 Jun 2026
-- Colwick Country Park, Nottingham — Fri, 26 Jun 2026
+- Public Works, San Francisco/Oakland · Sun, 27 Sept 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Hollywood Palladium, Los Angeles · Fri, 25 Sept 2026
+- Jacaranda Baltic, Liverpool · Thu, 13 Aug 2026
+- Old Royal Naval College, London · Fri, 7 Aug 2026
+- Sønder Hoved, Copenhagen · Thu, 30 Jul 2026
+- Colwick Country Park, Nottingham · Fri, 26 Jun 2026
+- Colwick Country Park, Nottingham · Fri, 26 Jun 2026
 
 ## Shares bills with
 

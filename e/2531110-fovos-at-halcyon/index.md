@@ -1,6 +1,6 @@
 # FOVOS at Halcyon
 
-FOVOS at Halcyon on Sat 7 Nov, San Francisco/Oakland. Techno. Preview the line-up and save it on soundcheck.
+FOVOS at Halcyon on Sat 7 Nov, San Francisco/Oakland. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

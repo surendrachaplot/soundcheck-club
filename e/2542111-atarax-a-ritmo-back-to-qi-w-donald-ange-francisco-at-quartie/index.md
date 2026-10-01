@@ -1,6 +1,6 @@
 # Ataraxìa & Ritmo back to QI - w// Donald, Ange, Francisco at Quartiere Intelligente
 
-Ataraxìa & Ritmo back to QI - w// Donald, Ange, Francisco at Quartiere Intelligente on Fri 2 Oct, Naples. 1 artist on the bill: DONALD - BIIG_DONNY. Techno and House. Preview the line-up and save it on soundcheck.
+Ataraxìa & Ritmo back to QI - w// Donald, Ange, Francisco at Quartiere Intelligente on Fri 2 Oct, Naples. 1 artist: DONALD - BIIG_DONNY. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

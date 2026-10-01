@@ -1,6 +1,6 @@
 # wOrld connection -Creature 1st Anniversary- at DJ Bar Bridge Shinjuku
 
-wOrld connection -Creature 1st Anniversary- at DJ Bar Bridge Shinjuku on Sat 10 Oct, Tokyo. 3 artists on the bill: AKIRAM EN, Kugel and Masahide Ohno. Techno and House. Preview the line-up and save it on soundcheck.
+wOrld connection -Creature 1st Anniversary- at DJ Bar Bridge Shinjuku on Sat 10 Oct, Tokyo. 3 artists: AKIRAM EN, Kugel and Masahide Ohno. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

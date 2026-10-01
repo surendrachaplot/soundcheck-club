@@ -1,6 +1,6 @@
 # Felix Kröcher – We Are The Night at halle02
 
-Felix Kröcher – We Are The Night at halle02 on Sat 26 Dec, Heidelberg. 1 artist on the bill: Felix Kröcher. Preview the line-up and save it on soundcheck.
+Felix Kröcher – We Are The Night at halle02 on Sat 26 Dec, Heidelberg. 1 artist: Felix Kröcher. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

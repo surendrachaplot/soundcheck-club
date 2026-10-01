@@ -1,6 +1,6 @@
 # Fervo Fluxo at Super Club
 
-Fervo Fluxo at Super Club on Sat 10 Oct, Milan. Baile Funk. Preview the line-up and save it on soundcheck.
+Fervo Fluxo at Super Club on Sat 10 Oct, Milan. Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

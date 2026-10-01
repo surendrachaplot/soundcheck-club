@@ -1,6 +1,6 @@
 # RAZZCLUBS: Metrika & D.Basto presentan Vampirina Club + Casa Pepa x Gallery at Razzmatazz
 
-RAZZCLUBS: Metrika & D.Basto presentan Vampirina Club + Casa Pepa x Gallery at Razzmatazz on Fri 9 Oct, Barcelona. 6 artists on the bill: Aleman Beatz, amil raja, Global and Montenegro and 2 more. Preview the line-up and save it on soundcheck.
+RAZZCLUBS: Metrika & D.Basto presentan Vampirina Club + Casa Pepa x Gallery at Razzmatazz on Fri 9 Oct, Barcelona. 6 artists: Aleman Beatz, amil raja, Global and Montenegro and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

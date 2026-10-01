@@ -1,8 +1,8 @@
 # Substation
 
-Substation is a music venue in Seattle with 25 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Codd Dubz x HE$H" on Fri, 2 Oct 2026.
+Substation is a music venue in Seattle with 25 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Codd Dubz x HE$H" on Fri, 2 Oct 2026.
 
-Substation is a music venue in Seattle listed on soundcheck. 25 upcoming gigs, with line-ups including AEREA, alexia.f, Austin R and Baauer and 2 more. Browse upcoming dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
+Substation is a music venue in Seattle listed on soundcheck. 25 upcoming gigs, with line-ups including AEREA, alexia.f, Austin R and Baauer and 2 more. See dates, start times and who's playing. 645 NW 45th St, Seattle WA 98107.
 
 ## What's on
 

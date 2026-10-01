@@ -1,6 +1,6 @@
 # House Delight at E1
 
-House Delight at E1 on Sat 7 Nov, London. House and UK Funky. Preview the line-up and save it on soundcheck.
+House Delight at E1 on Sat 7 Nov, London. House and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Entasia
 
-Entasia is a House and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loft, Manchester on Sat, 3 Oct 2026.
+Entasia is a House and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loft, Manchester on Sat, 3 Oct 2026.
 
-Entasia is a house and trance artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside Inafekt, Kyle Starkey and DART. Next up: The Loft, Manchester on Sat 3 Oct.
+Entasia is a house and trance artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside Inafekt, Kyle Starkey and DART. Next up: The Loft, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Entasia is a house and trance artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Club Vaag, Antwerp — Sat, 19 Sept 2026
-- The Ivy, Sydney — Sun, 6 Sept 2026
-- Preston Warehouse, Melbourne — Sat, 5 Sept 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- Het Sieraad, Amsterdam — Sat, 25 Jul 2026
-- Soup, Manchester — Fri, 24 Jul 2026
-- Sloterpark, Amsterdam — Sat, 20 Jun 2026
-- BASIS, Utrecht — Fri, 19 Jun 2026
+- Club Vaag, Antwerp · Sat, 19 Sept 2026
+- The Ivy, Sydney · Sun, 6 Sept 2026
+- Preston Warehouse, Melbourne · Sat, 5 Sept 2026
+- Gianpula Village, Malta · Wed, 12 Aug 2026
+- Het Sieraad, Amsterdam · Sat, 25 Jul 2026
+- Soup, Manchester · Fri, 24 Jul 2026
+- Sloterpark, Amsterdam · Sat, 20 Jun 2026
+- BASIS, Utrecht · Fri, 19 Jun 2026
 
 ## Shares bills with
 

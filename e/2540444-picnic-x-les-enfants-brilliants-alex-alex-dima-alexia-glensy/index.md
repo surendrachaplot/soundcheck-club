@@ -1,6 +1,6 @@
 # PICNIC X LES ENFANTS BRILLIANTS - ALEX, ALEX DIMA, ALEXIA GLENSY, ANDY LUFF, GABBS & KITHERS at BRET
 
-PICNIC X LES ENFANTS BRILLIANTS - ALEX, ALEX DIMA, ALEXIA GLENSY, ANDY LUFF, GABBS & KITHERS at BRET on Sat 28 Nov, Amsterdam. 6 artists on the bill: Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. Preview the line-up and save it on soundcheck.
+PICNIC X LES ENFANTS BRILLIANTS - ALEX, ALEX DIMA, ALEXIA GLENSY, ANDY LUFF, GABBS & KITHERS at BRET on Sat 28 Nov, Amsterdam. 6 artists: Al Ex, Alex Dima, Alexia Glensy and Andy Luff and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

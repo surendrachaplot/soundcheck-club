@@ -1,6 +1,6 @@
 # Nubiyan Twist presents NT Soundsystem at The Jazz Cafe
 
-Nubiyan Twist presents NT Soundsystem at The Jazz Cafe on Fri 4 Dec, London. Jazz and Jungle. Preview the line-up and save it on soundcheck.
+Nubiyan Twist presents NT Soundsystem at The Jazz Cafe on Fri 4 Dec, London. Jazz and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

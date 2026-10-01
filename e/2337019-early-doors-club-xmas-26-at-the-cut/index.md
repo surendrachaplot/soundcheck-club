@@ -1,6 +1,6 @@
 # Early Doors Club Xmas 26 at The Cut
 
-Early Doors Club Xmas 26 at The Cut on Sun 27 Dec, Newcastle. 1 artist on the bill: Danny Jarvis. Preview the line-up and save it on soundcheck.
+Early Doors Club Xmas 26 at The Cut on Sun 27 Dec, Newcastle. 1 artist: Danny Jarvis. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

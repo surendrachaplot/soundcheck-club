@@ -1,8 +1,8 @@
 # Jarreau Vandal
 
-Jarreau Vandal is a Hip-Hop and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
+Jarreau Vandal is a Hip-Hop and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 9 Oct 2026.
 
-Jarreau Vandal is a hip-hop and house artist based in Netherlands, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 27 more. Often billed alongside LAMSI, Conducta and Franky Sticks. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
+Jarreau Vandal is a hip-hop and house artist based in Netherlands, with 74 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 27 more. Often billed alongside LAMSI, Conducta and Franky Sticks. Next up: Tresor / Globus, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Jarreau Vandal is a hip-hop and house artist based in Netherlands, tracked on so
 
 ## Recently played
 
-- LDN East, London — Sat, 25 Jul 2026
-- Skatecafe, Amsterdam — Sat, 18 Jul 2026
-- Ephigenia, Sao Paulo — Sat, 30 May 2026
-- 131 Mccormack St, Toronto — Sat, 16 May 2026
-- Razzmatazz, Barcelona — Sat, 9 May 2026
-- Haus der Visionäre, Berlin — Sun, 29 Mar 2026
-- fabric, London — Fri, 20 Feb 2026
-- Maaya, Berlin — Sat, 7 Feb 2026
+- LDN East, London · Sat, 25 Jul 2026
+- Skatecafe, Amsterdam · Sat, 18 Jul 2026
+- Ephigenia, Sao Paulo · Sat, 30 May 2026
+- 131 Mccormack St, Toronto · Sat, 16 May 2026
+- Razzmatazz, Barcelona · Sat, 9 May 2026
+- Haus der Visionäre, Berlin · Sun, 29 Mar 2026
+- fabric, London · Fri, 20 Feb 2026
+- Maaya, Berlin · Sat, 7 Feb 2026
 
 ## Shares bills with
 

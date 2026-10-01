@@ -1,6 +1,6 @@
 # VELVET Lounge -Melodic House & Techno- at TBA - VELVET Lounge
 
-VELVET Lounge -Melodic House & Techno- at TBA - VELVET Lounge on Thu 8 Oct, Tokyo. Techno and House. Preview the line-up and save it on soundcheck.
+VELVET Lounge -Melodic House & Techno- at TBA - VELVET Lounge on Thu 8 Oct, Tokyo. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

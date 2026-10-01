@@ -1,6 +1,6 @@
 # Rompante at Plano B
 
-Rompante at Plano B on Fri 16 Oct, Porto. 2 artists on the bill: Rodree and Rompante. House and Club. Preview the line-up and save it on soundcheck.
+Rompante at Plano B on Fri 16 Oct, Porto. 2 artists: Rodree and Rompante. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

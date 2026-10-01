@@ -1,8 +1,8 @@
 # Diffrent
 
-Diffrent is a House and Garage artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
+Diffrent is a House and Garage artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
 
-Diffrent is a house and garage artist based in Germany, tracked on soundcheck, with 139 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside Kyle Starkey, Benwal and SAIDAH. Next up: NX Newcastle, Newcastle on Fri 2 Oct.
+Diffrent is a house and garage artist based in Germany, with 139 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside Kyle Starkey, Benwal and SAIDAH. Next up: NX Newcastle, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Diffrent is a house and garage artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- The Ivy, Sydney — Sun, 6 Sept 2026
-- Preston Warehouse, Melbourne — Sat, 5 Sept 2026
-- Tuinen van West, Amsterdam — Sat, 29 Aug 2026
-- Night Tales, London — Thu, 27 Aug 2026
-- Amnesia Ibiza, Ibiza — Mon, 24 Aug 2026
-- Artheater, Cologne — Fri, 21 Aug 2026
-- Else, Berlin — Sun, 16 Aug 2026
-- Thompsons Garage, Belfast — Sat, 8 Aug 2026
+- The Ivy, Sydney · Sun, 6 Sept 2026
+- Preston Warehouse, Melbourne · Sat, 5 Sept 2026
+- Tuinen van West, Amsterdam · Sat, 29 Aug 2026
+- Night Tales, London · Thu, 27 Aug 2026
+- Amnesia Ibiza, Ibiza · Mon, 24 Aug 2026
+- Artheater, Cologne · Fri, 21 Aug 2026
+- Else, Berlin · Sun, 16 Aug 2026
+- Thompsons Garage, Belfast · Sat, 8 Aug 2026
 
 ## Shares bills with
 

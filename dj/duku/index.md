@@ -1,8 +1,8 @@
 # DUKU
 
-DUKU is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
+DUKU is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Volks, Brighton on Fri, 2 Oct 2026.
 
-DUKU is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Berlin, Brighton, Bristol and Leeds and 3 more. Often billed alongside SGT Pokes, Dub Athlete and MC Toast. Next up: Volks, Brighton on Fri 2 Oct.
+DUKU is a bass and dubstep artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Brighton, Bristol and Leeds and 3 more. Often billed alongside SGT Pokes, Dub Athlete and MC Toast. Next up: Volks, Brighton on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DUKU is a bass and dubstep artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- Panke, Berlin — Sat, 5 Sept 2026
-- TBA - SAKARI, Tbilisi — Fri, 21 Aug 2026
-- Volks, Brighton — Fri, 3 Apr 2026
-- Volks, Brighton — Sat, 14 Mar 2026
-- Brixton Jamm, London — Fri, 13 Mar 2026
-- Hidden, Manchester — Sat, 7 Mar 2026
-- Lost Horizon, Bristol — Fri, 6 Mar 2026
-- Beaver Works, Leeds — Sat, 7 Feb 2026
+- Panke, Berlin · Sat, 5 Sept 2026
+- TBA - SAKARI, Tbilisi · Fri, 21 Aug 2026
+- Volks, Brighton · Fri, 3 Apr 2026
+- Volks, Brighton · Sat, 14 Mar 2026
+- Brixton Jamm, London · Fri, 13 Mar 2026
+- Hidden, Manchester · Sat, 7 Mar 2026
+- Lost Horizon, Bristol · Fri, 6 Mar 2026
+- Beaver Works, Leeds · Sat, 7 Feb 2026
 
 ## Shares bills with
 

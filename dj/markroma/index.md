@@ -1,8 +1,8 @@
 # Mark Roma
 
-Mark Roma is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Mark Roma is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Mark Roma is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Amsterdam, Cologne and London. Often billed alongside Fernweh, MEAKIN and Alex M.O.R.P.H.. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
+Mark Roma is a techno and trance artist based in United Kingdom, with 8 gigs on soundcheck across Amsterdam, Cologne and London. Often billed alongside Fernweh, MEAKIN and Alex M.O.R.P.H.. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,11 +14,11 @@ Mark Roma is a techno and trance artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Yuca Club, Cologne — Fri, 24 Apr 2026
-- Ministry Of Sound, London — Fri, 14 Mar 2025
-- Ministry Of Sound, London — Fri, 21 Feb 2025
-- Ministry Of Sound, London — Fri, 21 Feb 2025
-- Ministry Of Sound, London — Fri, 6 Sept 2024
+- Yuca Club, Cologne · Fri, 24 Apr 2026
+- Ministry Of Sound, London · Fri, 14 Mar 2025
+- Ministry Of Sound, London · Fri, 21 Feb 2025
+- Ministry Of Sound, London · Fri, 21 Feb 2025
+- Ministry Of Sound, London · Fri, 6 Sept 2024
 
 ## Shares bills with
 

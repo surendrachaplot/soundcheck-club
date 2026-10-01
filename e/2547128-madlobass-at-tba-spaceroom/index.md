@@ -1,6 +1,6 @@
 # MADLOBASS at TBA - Spaceroom
 
-MADLOBASS at TBA - Spaceroom on Fri 23 Oct, Tbilisi. 5 artists on the bill: Goka, Granul, irrationalizard and RafDog and 1 more. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+MADLOBASS at TBA - Spaceroom on Fri 23 Oct, Tbilisi. 5 artists: Goka, Granul, irrationalizard and RafDog and 1 more. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

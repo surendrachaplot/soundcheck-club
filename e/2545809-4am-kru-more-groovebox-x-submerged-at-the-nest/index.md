@@ -1,6 +1,6 @@
 # 4am Kru & MORE - Groovebox X Submerged at The Nest
 
-4am Kru & MORE - Groovebox X Submerged at The Nest on Sat 28 Nov, Nottingham. 4 artists on the bill: 4am Kru, Aries, Bladerunner and Inja. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+4am Kru & MORE - Groovebox X Submerged at The Nest on Sat 28 Nov, Nottingham. 4 artists: 4am Kru, Aries, Bladerunner and Inja. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

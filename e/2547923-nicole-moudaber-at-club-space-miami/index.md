@@ -1,6 +1,6 @@
 # Nicole Moudaber at Club Space Miami
 
-Nicole Moudaber at Club Space Miami on Fri 23 Oct, Miami. 6 artists on the bill: Bakke, Danyelino, Joe Vanditti and Nicole Moudaber and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Nicole Moudaber at Club Space Miami on Fri 23 Oct, Miami. 6 artists: Bakke, Danyelino, Joe Vanditti and Nicole Moudaber and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

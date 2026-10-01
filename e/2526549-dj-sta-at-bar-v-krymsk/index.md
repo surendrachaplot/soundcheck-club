@@ -1,6 +1,6 @@
 # DJ Sta at Bar v Krymský
 
-DJ Sta at Bar v Krymský on Sat 3 Oct, Prague. House and Deep House. Preview the line-up and save it on soundcheck.
+DJ Sta at Bar v Krymský on Sat 3 Oct, Prague. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

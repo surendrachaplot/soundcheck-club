@@ -1,6 +1,6 @@
 # Renate LIVE: Kresse 3 /w Support: Die Anteile at Renate
 
-Renate LIVE: Kresse 3 /w Support: Die Anteile on Thu 22 Oct, Berlin. Post-Punk. Preview the line-up and save it on soundcheck.
+Renate LIVE: Kresse 3 /w Support: Die Anteile on Thu 22 Oct, Berlin. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

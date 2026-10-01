@@ -1,8 +1,8 @@
 # nachbar
 
-nachbar is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Zen Ten presents: LOU FRE$H, Megan Jane" on Thu, 1 Oct 2026.
+nachbar is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Zen Ten presents: LOU FRE$H, Megan Jane" on Thu, 1 Oct 2026.
 
-nachbar is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. Browse upcoming dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
+nachbar is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including bebe bad, Benjamin Fröhlich, BENZA and Concrete Husband and 2 more. See dates, start times and who's playing. Nieuwezijds Voorburgwal 169a.
 
 ## What's on
 

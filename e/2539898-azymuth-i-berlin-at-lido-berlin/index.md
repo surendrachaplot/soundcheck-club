@@ -1,6 +1,6 @@
 # Azymuth I Berlin at Lido Berlin
 
-Azymuth I Berlin at Lido Berlin on Thu 8 Oct, Berlin. 1 artist on the bill: Azymuth. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Azymuth I Berlin at Lido Berlin on Thu 8 Oct, Berlin. 1 artist: Azymuth. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

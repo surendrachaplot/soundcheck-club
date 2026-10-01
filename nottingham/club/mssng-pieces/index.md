@@ -1,8 +1,8 @@
 # Mssng Pieces
 
-Mssng Pieces is a music venue in Nottingham with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Blend @mssngpieces" on Fri, 2 Oct 2026.
+Mssng Pieces is a music venue in Nottingham with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Blend @mssngpieces" on Fri, 2 Oct 2026.
 
-Mssng Pieces is a music venue in Nottingham listed on soundcheck. 2 upcoming gigs, with line-ups including Antonio Vendone, Atjazz, Faro and Mylo Harvey. Browse upcoming dates, start times and who's playing. 34 Heathcote Street Nottingham NG1 3AA.
+Mssng Pieces is a music venue in Nottingham listed on soundcheck. 2 upcoming gigs, with line-ups including Antonio Vendone, Atjazz, Faro and Mylo Harvey. See dates, start times and who's playing. 34 Heathcote Street Nottingham NG1 3AA.
 
 ## What's on
 

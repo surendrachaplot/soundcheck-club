@@ -1,6 +1,6 @@
 # Liquicity Zurich 2026 at MÄX
 
-Liquicity Zurich 2026 at MÄX on Sat 19 Dec, Zurich. 3 artists on the bill: Etherwood, Maduk and Muzz Khan. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Liquicity Zurich 2026 at MÄX on Sat 19 Dec, Zurich. 3 artists: Etherwood, Maduk and Muzz Khan. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

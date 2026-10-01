@@ -1,6 +1,6 @@
 # Madonna & Divas at Garden Zona Rosa
 
-Madonna & Divas at Garden Zona Rosa on Sat 10 Oct, Mexico City. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Madonna & Divas at Garden Zona Rosa on Sat 10 Oct, Mexico City. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

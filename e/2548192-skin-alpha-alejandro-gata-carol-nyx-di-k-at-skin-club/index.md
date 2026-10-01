@@ -1,6 +1,6 @@
 # SKIN ALPHA: Alejandro Gata + CAROL NYX + DIËK at Skin Club
 
-SKIN ALPHA: Alejandro Gata + CAROL NYX + DIËK at Skin Club on Fri 23 Oct, Madrid. 1 artist on the bill: Alejandro Gata. Preview the line-up and save it on soundcheck.
+SKIN ALPHA: Alejandro Gata + CAROL NYX + DIËK at Skin Club on Fri 23 Oct, Madrid. 1 artist: Alejandro Gata. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

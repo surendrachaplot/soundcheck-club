@@ -1,8 +1,8 @@
 # TBA - Portugal
 
-TBA - Portugal is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Boris Brejcha - Lisbon 2026" on Sun, 4 Oct 2026.
+TBA - Portugal is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Boris Brejcha - Lisbon 2026" on Sun, 4 Oct 2026.
 
-TBA - Portugal is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Boris Brejcha. Browse upcoming dates, start times and who's playing.
+TBA - Portugal is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Boris Brejcha. See dates, start times and who's playing.
 
 ## What's on
 

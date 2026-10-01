@@ -1,6 +1,6 @@
 # Galactic Techno Voyages Vol. 2 at elipamanoke
 
-Galactic Techno Voyages Vol. 2 at elipamanoke on Fri 16 Oct, Leipzig. 9 artists on the bill: BOHO, Bonnie Spacey, knete and Rausch & Farbe and 5 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Galactic Techno Voyages Vol. 2 at elipamanoke on Fri 16 Oct, Leipzig. 9 artists: BOHO, Bonnie Spacey, knete and Rausch & Farbe and 5 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

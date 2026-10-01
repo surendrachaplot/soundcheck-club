@@ -1,6 +1,6 @@
 # Fischio & Edwin present: 12th Isle Showcase at Fischio
 
-Fischio & Edwin present: 12th Isle Showcase on Sat 24 Oct, Rome. Preview the line-up and save it on soundcheck.
+Fischio & Edwin present: 12th Isle Showcase on Sat 24 Oct, Rome. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

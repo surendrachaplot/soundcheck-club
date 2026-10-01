@@ -1,6 +1,6 @@
 # People Drift presents DJ Pete (extended set) at Ormside Projects
 
-People Drift presents DJ Pete (extended set) at Ormside Projects on Sat 3 Oct, London. 2 artists on the bill: DJ Pete and Jim Janco. Techno. Preview the line-up and save it on soundcheck.
+People Drift presents DJ Pete (extended set) at Ormside Projects on Sat 3 Oct, London. 2 artists: DJ Pete and Jim Janco. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

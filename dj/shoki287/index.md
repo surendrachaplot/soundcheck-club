@@ -1,8 +1,8 @@
 # SHOKI287
 
-SHOKI287 is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nordstern, Basel on Sat, 3 Oct 2026.
+SHOKI287 is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nordstern, Basel on Sat, 3 Oct 2026.
 
-SHOKI287 is a techno and trance artist based in Germany, tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 23 more. Often billed alongside DJ Cringey, DJ https and Justin Tinderdate. Next up: Nordstern, Basel on Sat 3 Oct.
+SHOKI287 is a techno and trance artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 23 more. Often billed alongside DJ Cringey, DJ https and Justin Tinderdate. Next up: Nordstern, Basel on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ SHOKI287 is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Lehmann Club, Stuttgart — Fri, 25 Sept 2026
-- OXI, Berlin — Sat, 12 Sept 2026
-- Z-Bau, Nürnberg — Sat, 5 Sept 2026
-- Lokschuppen Berlin, Berlin — Sat, 29 Aug 2026
-- Schlachthof Wiesbaden, Frankfurt — Sat, 29 Aug 2026
-- Schrotty, Cologne — Fri, 28 Aug 2026
-- TBA - TANZ INSEL OPEN AIR, Nürnberg — Sat, 27 Jun 2026
-- TBA - Lucky Star Munich, Munich — Sat, 6 Jun 2026
+- Lehmann Club, Stuttgart · Fri, 25 Sept 2026
+- OXI, Berlin · Sat, 12 Sept 2026
+- Z-Bau, Nürnberg · Sat, 5 Sept 2026
+- Lokschuppen Berlin, Berlin · Sat, 29 Aug 2026
+- Schlachthof Wiesbaden, Frankfurt · Sat, 29 Aug 2026
+- Schrotty, Cologne · Fri, 28 Aug 2026
+- TBA - TANZ INSEL OPEN AIR, Nürnberg · Sat, 27 Jun 2026
+- TBA - Lucky Star Munich, Munich · Sat, 6 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # INPUT pres Deborah De Luca at INPUT High Fidelity Dance Club
 
-INPUT pres Deborah De Luca at INPUT High Fidelity Dance Club on Fri 9 Oct, Barcelona. 1 artist on the bill: Deborah De Luca. Techno. Preview the line-up and save it on soundcheck.
+INPUT pres Deborah De Luca at INPUT High Fidelity Dance Club on Fri 9 Oct, Barcelona. 1 artist: Deborah De Luca. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

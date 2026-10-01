@@ -1,6 +1,6 @@
 # Mahmut Orhan // Official Afterparty at Klein Phönix
 
-Mahmut Orhan // Official Afterparty at Klein Phönix on Fri 2 Oct, Istanbul. 1 artist on the bill: Mahmut Orhan. Preview the line-up and save it on soundcheck.
+Mahmut Orhan // Official Afterparty at Klein Phönix on Fri 2 Oct, Istanbul. 1 artist: Mahmut Orhan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

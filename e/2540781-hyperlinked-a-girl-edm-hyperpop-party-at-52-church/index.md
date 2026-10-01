@@ -1,6 +1,6 @@
 # hyperlinked: a girl edm + hyperpop party at 52 Church
 
-hyperlinked: a girl edm + hyperpop party at 52 Church on Sat 17 Oct, Boston. Bass and Electro. Preview the line-up and save it on soundcheck.
+hyperlinked: a girl edm + hyperpop party at 52 Church on Sat 17 Oct, Boston. Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

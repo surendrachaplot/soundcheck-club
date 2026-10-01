@@ -1,8 +1,8 @@
 # Yves Tomas
 
-Yves Tomas is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Phonox, London on Thu, 29 Oct 2026.
+Yves Tomas is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Phonox, London on Thu, 29 Oct 2026.
 
-Yves Tomas is a house and bass artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Just Jane, ASHTREY and B 4ME. Next up: Phonox, London on Thu 29 Oct.
+Yves Tomas is a house and bass artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Just Jane, ASHTREY and B 4ME. Next up: Phonox, London on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Yves Tomas is a house and bass artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- E1, London — Sat, 28 Mar 2026
-- E1, London — Sat, 14 Mar 2026
-- Onyx (E1), London — Sat, 13 Dec 2025
-- The Dutch Master, London — Sun, 4 May 2025
-- Night Tales, London — Thu, 22 Aug 2024
-- The Waiting Room, London — Sat, 21 Oct 2023
+- E1, London · Sat, 28 Mar 2026
+- E1, London · Sat, 14 Mar 2026
+- Onyx (E1), London · Sat, 13 Dec 2025
+- The Dutch Master, London · Sun, 4 May 2025
+- Night Tales, London · Thu, 22 Aug 2024
+- The Waiting Room, London · Sat, 21 Oct 2023
 
 ## Shares bills with
 

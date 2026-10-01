@@ -1,6 +1,6 @@
 # SKIN ALPHA: LA INDIA + LE GOMMEZ + Theia Daja at Skin Club
 
-SKIN ALPHA: LA INDIA + LE GOMMEZ + Theia Daja at Skin Club on Fri 9 Oct, Madrid. 2 artists on the bill: LA INDIA and Theia Daja. Preview the line-up and save it on soundcheck.
+SKIN ALPHA: LA INDIA + LE GOMMEZ + Theia Daja at Skin Club on Fri 9 Oct, Madrid. 2 artists: LA INDIA and Theia Daja. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Main Club
 
-Main Club is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "VOID - SANTA TECHNO - free entry till 1:00 with RSVP" on Thu, 1 Oct 2026.
+Main Club is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "VOID - SANTA TECHNO - free entry till 1:00 with RSVP" on Thu, 1 Oct 2026.
 
-Main Club is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including DEPA, Donzo, ELNA and Francis Arvel and 2 more. Browse upcoming dates, start times and who's playing. Via Carlo Boncompagni, 44, 20139 Milano MI.
+Main Club is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including DEPA, Donzo, ELNA and Francis Arvel and 2 more. See dates, start times and who's playing. Via Carlo Boncompagni, 44, 20139 Milano MI.
 
 ## What's on
 

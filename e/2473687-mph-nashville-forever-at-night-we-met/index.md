@@ -1,6 +1,6 @@
 # MPH – NASHVILLE, FOREVER at Night We Met
 
-MPH – NASHVILLE, FOREVER at Night We Met on Thu 29 Oct, Nashville. 1 artist on the bill: MPH. Bass and Garage. Preview the line-up and save it on soundcheck.
+MPH – NASHVILLE, FOREVER at Night We Met on Thu 29 Oct, Nashville. 1 artist: MPH. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

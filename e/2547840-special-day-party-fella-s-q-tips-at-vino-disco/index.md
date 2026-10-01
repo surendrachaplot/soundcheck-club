@@ -1,6 +1,6 @@
 # SPECIAL DAY PARTY: FELLA'S Q TIPS at Vino Disco
 
-SPECIAL DAY PARTY: FELLA'S Q TIPS at Vino Disco on Sat 17 Oct, Montreal. 1 artist on the bill: SOBAKA. House and Disco. Preview the line-up and save it on soundcheck.
+SPECIAL DAY PARTY: FELLA'S Q TIPS at Vino Disco on Sat 17 Oct, Montreal. 1 artist: SOBAKA. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

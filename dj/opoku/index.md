@@ -1,8 +1,8 @@
 # Opoku
 
-Opoku is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Cafe OTO, London on Fri, 6 Nov 2026.
+Opoku is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cafe OTO, London on Fri, 6 Nov 2026.
 
-Opoku is an electronica and experimental artist based in Spain, tracked on soundcheck, with 37 sets logged across Barcelona, Basel, Berlin and Brussels and 4 more. Often billed alongside Baba Sy, TNTC and B4mba. Next up: Cafe OTO, London on Fri 6 Nov.
+Opoku is an electronica and experimental artist based in Spain, with 37 gigs on soundcheck across Barcelona, Basel, Berlin and Brussels and 4 more. Often billed alongside Baba Sy, TNTC and B4mba. Next up: Cafe OTO, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Opoku is an electronica and experimental artist based in Spain, tracked on sound
 
 ## Recently played
 
-- Morphine Raum, Berlin — Fri, 25 Sept 2026
-- Morphine Raum, Berlin — Thu, 24 Sept 2026
-- HUNGR, Tallinn — Fri, 21 Aug 2026
-- Laska V21, Riga — Fri, 14 Aug 2026
-- Cimiento, Barcelona — Sun, 31 May 2026
-- Casa Montjuïc, Barcelona — Sat, 30 May 2026
-- TBA - Secret Location near Jannowitzbrücke, Berlin — Sat, 18 Apr 2026
-- TBA - Secret Location near Jannowitzbrücke, Berlin — Sat, 18 Apr 2026
+- Morphine Raum, Berlin · Fri, 25 Sept 2026
+- Morphine Raum, Berlin · Thu, 24 Sept 2026
+- HUNGR, Tallinn · Fri, 21 Aug 2026
+- Laska V21, Riga · Fri, 14 Aug 2026
+- Cimiento, Barcelona · Sun, 31 May 2026
+- Casa Montjuïc, Barcelona · Sat, 30 May 2026
+- TBA - Secret Location near Jannowitzbrücke, Berlin · Sat, 18 Apr 2026
+- TBA - Secret Location near Jannowitzbrücke, Berlin · Sat, 18 Apr 2026
 
 ## Shares bills with
 

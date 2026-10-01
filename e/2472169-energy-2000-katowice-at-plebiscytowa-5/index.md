@@ -1,6 +1,6 @@
 # Energy 2000 Katowice at Plebiscytowa 5
 
-Energy 2000 Katowice at Plebiscytowa 5 on Sat 24 Oct, Poland. 1 artist on the bill: Maddix. Preview the line-up and save it on soundcheck.
+Energy 2000 Katowice at Plebiscytowa 5 on Sat 24 Oct, Poland. 1 artist: Maddix. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

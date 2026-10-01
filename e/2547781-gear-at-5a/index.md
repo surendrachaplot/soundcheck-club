@@ -1,6 +1,6 @@
 # Gear at 5A
 
-Gear at 5A on Sat 10 Oct, Lisbon. 1 artist on the bill: Gear. Preview the line-up and save it on soundcheck.
+Gear at 5A on Sat 10 Oct, Lisbon. 1 artist: Gear. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

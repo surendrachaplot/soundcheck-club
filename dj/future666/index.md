@@ -1,8 +1,8 @@
 # future.666
 
-future.666 is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Flux, Istanbul on Fri, 2 Oct 2026.
+future.666 is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Flux, Istanbul on Fri, 2 Oct 2026.
 
-future.666 is a techno and trance artist based in Germany, tracked on soundcheck, with 230 sets logged across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Flux, Istanbul on Fri 2 Oct.
+future.666 is a techno and trance artist based in Germany, with 230 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 55 more. Often billed alongside DJ Hyperdrive, ÜBERKIKZ and Adrian Mills. Next up: Flux, Istanbul on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ future.666 is a techno and trance artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Grelle Forelle, Vienna — Sat, 26 Sept 2026
-- Lehmann Club, Stuttgart — Sat, 19 Sept 2026
-- TILLATEC, Amsterdam — Sat, 12 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- Schrotty, Cologne — Fri, 11 Sept 2026
-- Refuge, New York City — Mon, 7 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- Domicile, Miami — Sat, 5 Sept 2026
+- Grelle Forelle, Vienna · Sat, 26 Sept 2026
+- Lehmann Club, Stuttgart · Sat, 19 Sept 2026
+- TILLATEC, Amsterdam · Sat, 12 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- Schrotty, Cologne · Fri, 11 Sept 2026
+- Refuge, New York City · Mon, 7 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- Domicile, Miami · Sat, 5 Sept 2026
 
 ## Shares bills with
 

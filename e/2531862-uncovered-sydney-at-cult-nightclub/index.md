@@ -1,6 +1,6 @@
 # Uncovered - Sydney at Cult Nightclub
 
-Uncovered - Sydney at Cult Nightclub on Fri 16 Oct, Sydney. 1 artist on the bill: mara (AU). Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Uncovered - Sydney at Cult Nightclub on Fri 16 Oct, Sydney. 1 artist: mara (AU). Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

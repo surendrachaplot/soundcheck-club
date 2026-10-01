@@ -1,6 +1,6 @@
 # TASTE at Die Schneiderei
 
-TASTE at Die Schneiderei on Fri 9 Oct, Zurich. 2 artists on the bill: S.Dean and Ulysse. Techno and House. Preview the line-up and save it on soundcheck.
+TASTE at Die Schneiderei on Fri 9 Oct, Zurich. 2 artists: S.Dean and Ulysse. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DEEP CHORDS: Lucas Moinet & Bevan at Djoon
 
-DEEP CHORDS: Lucas Moinet & Bevan at Djoon on Fri 2 Oct, Paris. 1 artist on the bill: Bevan. House and Garage. Preview the line-up and save it on soundcheck.
+DEEP CHORDS: Lucas Moinet & Bevan at Djoon on Fri 2 Oct, Paris. 1 artist: Bevan. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

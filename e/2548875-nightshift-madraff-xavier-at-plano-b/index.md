@@ -1,6 +1,6 @@
 # NIGHTSHIFT - MadRaff + Xavier at Plano B
 
-NIGHTSHIFT - MadRaff + Xavier at Plano B on Thu 8 Oct, Porto. Techno and House. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT - MadRaff + Xavier at Plano B on Thu 8 Oct, Porto. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

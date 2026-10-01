@@ -1,8 +1,8 @@
 # Sky Lounge 360
 
-Sky Lounge 360 is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sunset Rooftop" on Sat, 3 Oct 2026.
+Sky Lounge 360 is a music venue in Prague with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sunset Rooftop" on Sat, 3 Oct 2026.
 
-Sky Lounge 360 is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Lumiere, Hugorieri, Luke Nova and Ondrej K and 1 more. Browse upcoming dates, start times and who's playing. Náměstí Republiky 5, 110 00 Praha 1.
+Sky Lounge 360 is a music venue in Prague listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Lumiere, Hugorieri, Luke Nova and Ondrej K and 1 more. See dates, start times and who's playing. Náměstí Republiky 5, 110 00 Praha 1.
 
 ## What's on
 

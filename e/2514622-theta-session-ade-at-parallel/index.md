@@ -1,6 +1,6 @@
 # Theta Session - ADE at Parallel
 
-Theta Session - ADE at Parallel on Sun 25 Oct, Amsterdam. Downtempo and Club. Preview the line-up and save it on soundcheck.
+Theta Session - ADE at Parallel on Sun 25 Oct, Amsterdam. Downtempo and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

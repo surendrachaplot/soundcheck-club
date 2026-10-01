@@ -1,8 +1,8 @@
 # Tatyana Jane
 
-Tatyana Jane is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Tatyana Jane is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-Tatyana Jane is a techno and electro artist based in France, tracked on soundcheck, with 76 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Busy P, Greg and Skrillex. Next up: DRUMSHEDS, London on Sat 10 Oct.
+Tatyana Jane is a techno and electro artist based in France, with 76 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 13 more. Often billed alongside Busy P, Greg and Skrillex. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Tatyana Jane is a techno and electro artist based in France, tracked on soundche
 
 ## Recently played
 
-- Palazzo Delle Esposizioni, Rome — Thu, 17 Sept 2026
-- La Gravière, Geneva — Fri, 24 Jul 2026
-- Fvtvr, Paris — Fri, 10 Jul 2026
-- Nitsa Club, Barcelona — Sat, 4 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
-- TBA - Castello di Rivoli - Museo di Arte Contemporanea, Turin — Thu, 2 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Bois de Vincennes, Paris — Fri, 5 Jun 2026
+- Palazzo Delle Esposizioni, Rome · Thu, 17 Sept 2026
+- La Gravière, Geneva · Fri, 24 Jul 2026
+- Fvtvr, Paris · Fri, 10 Jul 2026
+- Nitsa Club, Barcelona · Sat, 4 Jul 2026
+- Parco Dora, Turin · Fri, 3 Jul 2026
+- TBA - Castello di Rivoli - Museo di Arte Contemporanea, Turin · Thu, 2 Jul 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- Bois de Vincennes, Paris · Fri, 5 Jun 2026
 
 ## Shares bills with
 

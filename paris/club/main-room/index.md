@@ -1,8 +1,8 @@
 # main room
 
-main room is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Basses Fréquences Live | Takuya Nakamura live + Melanin (DJ set hybride)" on Thu, 22 Oct 2026.
+main room is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Basses Fréquences Live | Takuya Nakamura live + Melanin (DJ set hybride)" on Thu, 22 Oct 2026.
 
-main room is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including MIMI MELANIN and Takuya Nakamura. Browse upcoming dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
+main room is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including MIMI MELANIN and Takuya Nakamura. See dates, start times and who's playing. 14 Rue Philippe de Girard, 75010 Paris.
 
 ## What's on
 

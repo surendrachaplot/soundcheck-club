@@ -1,6 +1,6 @@
 # Live music at The Berkeley Suite
 
-Live music at The Berkeley Suite on Wed 11 Nov, Glasgow. Preview the line-up and save it on soundcheck.
+Live music at The Berkeley Suite on Wed 11 Nov, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

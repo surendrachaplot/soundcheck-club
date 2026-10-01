@@ -1,6 +1,6 @@
 # Más Tiempo by Skepta at The Loft Amsterdam
 
-Más Tiempo by Skepta at The Loft Amsterdam on Mon 26 Oct, Amsterdam. 1 artist on the bill: Skepta. Preview the line-up and save it on soundcheck.
+Más Tiempo by Skepta at The Loft Amsterdam on Mon 26 Oct, Amsterdam. 1 artist: Skepta. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

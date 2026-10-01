@@ -1,6 +1,6 @@
 # Above You Goes to Ibiza Pool Session at TBA -  Jet Aparments 
 
-Above You Goes to Ibiza Pool Session at TBA -  Jet Aparments  on Fri 2 Oct, Ibiza. 1 artist on the bill: Sergio LLamas. Deep House. Preview the line-up and save it on soundcheck.
+Above You Goes to Ibiza Pool Session at TBA -  Jet Aparments  on Fri 2 Oct, Ibiza. 1 artist: Sergio LLamas. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

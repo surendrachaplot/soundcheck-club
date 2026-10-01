@@ -1,8 +1,8 @@
 # Ron Trent
 
-Ron Trent is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Ron Trent is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Ron Trent is a house and deep house artist based in United States of America, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Auckland and Bali and 34 more. Often billed alongside Ben UFO, Joe Claussell and MUSCLECARS. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Ron Trent is a house and deep house artist based in United States of America, with 107 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 34 more. Often billed alongside Ben UFO, Joe Claussell and MUSCLECARS. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Ron Trent is a house and deep house artist based in United States of America, tr
 
 ## Recently played
 
-- Klymax Discotheque, Bali — Fri, 25 Sept 2026
-- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
-- Prince Charles, Berlin — Sun, 2 Aug 2026
-- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Parque da Pasteleira, Porto — Fri, 3 Jul 2026
-- Fidelity Studio, Dublin — Sun, 28 Jun 2026
-- Praia Irmão, Lisbon — Thu, 18 Jun 2026
+- Klymax Discotheque, Bali · Fri, 25 Sept 2026
+- Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
+- Prince Charles, Berlin · Sun, 2 Aug 2026
+- Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- Parque da Pasteleira, Porto · Fri, 3 Jul 2026
+- Fidelity Studio, Dublin · Sun, 28 Jun 2026
+- Praia Irmão, Lisbon · Thu, 18 Jun 2026
 
 ## Shares bills with
 

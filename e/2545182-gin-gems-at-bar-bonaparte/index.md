@@ -1,6 +1,6 @@
 # GIN & GEMS at Bar Bonaparte
 
-GIN & GEMS at Bar Bonaparte on Sat 3 Oct, Hamburg. Garage and Deep House. Preview the line-up and save it on soundcheck.
+GIN & GEMS at Bar Bonaparte on Sat 3 Oct, Hamburg. Garage and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

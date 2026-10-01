@@ -1,6 +1,6 @@
 # CamelPhat at Savaya Bali
 
-CamelPhat at Savaya Bali on Sat 12 Dec, Bali. 1 artist on the bill: CamelPhat. House. Preview the line-up and save it on soundcheck.
+CamelPhat at Savaya Bali on Sat 12 Dec, Bali. 1 artist: CamelPhat. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

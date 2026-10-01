@@ -1,8 +1,8 @@
 # Quarry
 
-Quarry is a music venue in Liverpool with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Diva Dungeon" on Fri, 2 Oct 2026.
+Quarry is a music venue in Liverpool with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Diva Dungeon" on Fri, 2 Oct 2026.
 
-Quarry is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs, with line-ups including Flora Yin-Wong, Grey Streak, Hannah Holland and Heka and 2 more. Browse upcoming dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
+Quarry is a music venue in Liverpool listed on soundcheck. 18 upcoming gigs, with line-ups including Flora Yin-Wong, Grey Streak, Hannah Holland and Heka and 2 more. See dates, start times and who's playing. 45 Hardman St, Liverpool L1 9AS.
 
 ## What's on
 

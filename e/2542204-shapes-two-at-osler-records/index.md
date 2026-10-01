@@ -1,6 +1,6 @@
 # Shapes TWO at Osler Records
 
-Shapes TWO at Osler Records on Sat 28 Nov, Toronto. 3 artists on the bill: Bear Gravy, Nailbiter and Scott Cudmore. Techno and Acid. Preview the line-up and save it on soundcheck.
+Shapes TWO at Osler Records on Sat 28 Nov, Toronto. 3 artists: Bear Gravy, Nailbiter and Scott Cudmore. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

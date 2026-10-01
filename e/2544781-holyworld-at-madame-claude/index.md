@@ -1,6 +1,6 @@
 # HOLYWORLD at Madame Claude
 
-HOLYWORLD at Madame Claude on Fri 9 Oct, Berlin. 6 artists on the bill: DJ Fiona, doctor doms, Heshumi and Holywanderer and 2 more. Preview the line-up and save it on soundcheck.
+HOLYWORLD at Madame Claude on Fri 9 Oct, Berlin. 6 artists: DJ Fiona, doctor doms, Heshumi and Holywanderer and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

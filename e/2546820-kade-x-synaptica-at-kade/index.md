@@ -1,6 +1,6 @@
 # Kade x Synaptica at Kade
 
-Kade x Synaptica on Fri 2 Oct, Munich. 7 artists on the bill: buuo, Gaaston, jaime enaar and Kongusto and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Kade x Synaptica on Fri 2 Oct, Munich. 7 artists: buuo, Gaaston, jaime enaar and Kongusto and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

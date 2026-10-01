@@ -1,6 +1,6 @@
 # Alsogood b2b leverson x Next Door Records at Next Door Records
 
-Alsogood b2b leverson x Next Door Records on Sun 25 Oct, London. 1 artist on the bill: leverson. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
+Alsogood b2b leverson x Next Door Records on Sun 25 Oct, London. 1 artist: leverson. Hip-Hop and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

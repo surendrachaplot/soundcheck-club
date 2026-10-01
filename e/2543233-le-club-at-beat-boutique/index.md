@@ -1,6 +1,6 @@
 # Le Club at Beat Boutique
 
-Le Club at Beat Boutique on Fri 16 Oct, Hamburg. Techno and House. Preview the line-up and save it on soundcheck.
+Le Club at Beat Boutique on Fri 16 Oct, Hamburg. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

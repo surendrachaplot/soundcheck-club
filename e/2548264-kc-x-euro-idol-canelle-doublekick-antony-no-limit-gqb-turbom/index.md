@@ -1,6 +1,6 @@
 # KC x EURO IDOL [Canelle Doublekick • ANTONY NO LIMIT • GQB • TURBOMAT +TBA] at Karmen Camina
 
-KC x EURO IDOL [Canelle Doublekick • ANTONY NO LIMIT • GQB • TURBOMAT +TBA] at Karmen Camina on Sat 17 Oct, Strasbourg. 2 artists on the bill: Canelle Doublekick and GQB (FR). Trance. Preview the line-up and save it on soundcheck.
+KC x EURO IDOL [Canelle Doublekick • ANTONY NO LIMIT • GQB • TURBOMAT +TBA] at Karmen Camina on Sat 17 Oct, Strasbourg. 2 artists: Canelle Doublekick and GQB (FR). Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

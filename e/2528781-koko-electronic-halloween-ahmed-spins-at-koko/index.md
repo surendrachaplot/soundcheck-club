@@ -1,6 +1,6 @@
 # KOKO Electronic: Halloween - Ahmed Spins at KOKO
 
-KOKO Electronic: Halloween - Ahmed Spins on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Halloween - Ahmed Spins on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

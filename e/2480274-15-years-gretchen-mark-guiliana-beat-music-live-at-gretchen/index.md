@@ -1,6 +1,6 @@
 # 15 Years Gretchen: MARK GUILIANA - BEAT MUSIC *live at Gretchen
 
-15 Years Gretchen: MARK GUILIANA - BEAT MUSIC *live on Sat 31 Oct, Berlin. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: MARK GUILIANA - BEAT MUSIC *live on Sat 31 Oct, Berlin. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

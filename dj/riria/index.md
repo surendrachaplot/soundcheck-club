@@ -1,8 +1,8 @@
 # RIRIA
 
-RIRIA is a Bass and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pisces, Atlanta on Thu, 1 Oct 2026.
+RIRIA is a Bass and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pisces, Atlanta on Thu, 1 Oct 2026.
 
-RIRIA is a bass and techno artist based in Japan, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Atlanta and Bali and 36 more. Often billed alongside Diffrent, ryota dj and KETTAMA. Next up: Pisces, Atlanta on Thu 1 Oct.
+RIRIA is a bass and techno artist based in Japan, with 99 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Bali and 36 more. Often billed alongside Diffrent, ryota dj and KETTAMA. Next up: Pisces, Atlanta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ RIRIA is a bass and techno artist based in Japan, tracked on soundcheck, with 99
 
 ## Recently played
 
-- 888 Garage, San Francisco/Oakland — Sun, 27 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Art Club, Houston — Sat, 26 Sept 2026
-- Art Club, Houston — Sat, 26 Sept 2026
-- Club Catwalk, Los Angeles — Fri, 25 Sept 2026
-- Odaiba, Tokyo — Tue, 22 Sept 2026
-- Hangaren, Copenhagen — Thu, 27 Aug 2026
-- Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
+- 888 Garage, San Francisco/Oakland · Sun, 27 Sept 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Art Club, Houston · Sat, 26 Sept 2026
+- Art Club, Houston · Sat, 26 Sept 2026
+- Club Catwalk, Los Angeles · Fri, 25 Sept 2026
+- Odaiba, Tokyo · Tue, 22 Sept 2026
+- Hangaren, Copenhagen · Thu, 27 Aug 2026
+- Suvilahti Power Plant, Helsinki · Fri, 14 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Nervous X Negroni DJ Showcase at Negroni Bistro & Sushi Bar
 
-Nervous X Negroni DJ Showcase at Negroni Bistro & Sushi Bar on Thu 15 Oct, Miami. 3 artists on the bill: Brooklyn Mike, Mandiz and Mike Nervous. House. Preview the line-up and save it on soundcheck.
+Nervous X Negroni DJ Showcase at Negroni Bistro & Sushi Bar on Thu 15 Oct, Miami. 3 artists: Brooklyn Mike, Mandiz and Mike Nervous. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Aphøtic
 
-Aphøtic is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Warehouse Elementenstraat, Amsterdam on Sun, 25 Oct 2026.
+Aphøtic is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Warehouse Elementenstraat, Amsterdam on Sun, 25 Oct 2026.
 
-Aphøtic is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 84 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Cynthia Spiering, XRTN and KARAH. Next up: Warehouse Elementenstraat, Amsterdam on Sun 25 Oct.
+Aphøtic is a techno and industrial artist based in Netherlands, with 84 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Cynthia Spiering, XRTN and KARAH. Next up: Warehouse Elementenstraat, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Aphøtic is a techno and industrial artist based in Netherlands, tracked on soun
 
 ## Recently played
 
-- Parc de la Serra de Mollerussa (Lérida), Barcelona — Sat, 5 Sept 2026
-- Beton-T, Utrecht — Sat, 1 Aug 2026
-- Fabrik, Madrid — Sat, 27 Jun 2026
-- Strijkviertel, Utrecht — Sat, 6 Jun 2026
-- BASIS, Utrecht — Fri, 15 May 2026
-- H7 Warehouse, Amsterdam — Sat, 18 Apr 2026
-- TBA - 255 Randolph Street, Brooklyn NY 11237, New York City — Sat, 14 Mar 2026
-- The Ground at Club Space, Miami — Fri, 13 Mar 2026
+- Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
+- Beton-T, Utrecht · Sat, 1 Aug 2026
+- Fabrik, Madrid · Sat, 27 Jun 2026
+- Strijkviertel, Utrecht · Sat, 6 Jun 2026
+- BASIS, Utrecht · Fri, 15 May 2026
+- H7 Warehouse, Amsterdam · Sat, 18 Apr 2026
+- TBA - 255 Randolph Street, Brooklyn NY 11237, New York City · Sat, 14 Mar 2026
+- The Ground at Club Space, Miami · Fri, 13 Mar 2026
 
 ## Shares bills with
 

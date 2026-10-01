@@ -1,6 +1,6 @@
 # Bristol Northern Soul Club Paris Allnighter at La Marbrerie
 
-Bristol Northern Soul Club Paris Allnighter at La Marbrerie on Sat 24 Oct, Paris. Funk / Soul. Preview the line-up and save it on soundcheck.
+Bristol Northern Soul Club Paris Allnighter at La Marbrerie on Sat 24 Oct, Paris. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

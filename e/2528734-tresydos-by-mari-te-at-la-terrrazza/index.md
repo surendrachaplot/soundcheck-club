@@ -1,6 +1,6 @@
 # Tresydos by Mari.te at La Terrrazza
 
-Tresydos by Mari.te at La Terrrazza on Fri 2 Oct, Barcelona. 3 artists on the bill: John Tejada, Jorge Escribano and Mari.te. House. Preview the line-up and save it on soundcheck.
+Tresydos by Mari.te at La Terrrazza on Fri 2 Oct, Barcelona. 3 artists: John Tejada, Jorge Escribano and Mari.te. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

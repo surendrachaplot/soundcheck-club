@@ -1,6 +1,6 @@
 # NITE SCHOOL: XTR HUMAN, Vali S.C., Vio Flesh, Death Palmz at Cheer Up Charlies
 
-NITE SCHOOL: XTR HUMAN, Vali S.C., Vio Flesh, Death Palmz at Cheer Up Charlies on Fri 9 Oct, Austin. Electro and EBM. Preview the line-up and save it on soundcheck.
+NITE SCHOOL: XTR HUMAN, Vali S.C., Vio Flesh, Death Palmz at Cheer Up Charlies on Fri 9 Oct, Austin. Electro and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

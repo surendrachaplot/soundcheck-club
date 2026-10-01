@@ -1,6 +1,6 @@
 # Brass Rave Unit - MANOLO at Bimhuis
 
-Brass Rave Unit - MANOLO at Bimhuis on Sat 24 Oct, Amsterdam. Club. Preview the line-up and save it on soundcheck.
+Brass Rave Unit - MANOLO at Bimhuis on Sat 24 Oct, Amsterdam. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

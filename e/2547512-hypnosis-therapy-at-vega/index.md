@@ -1,6 +1,6 @@
 # Hypnosis Therapy at VEGA
 
-Hypnosis Therapy at VEGA on Tue 13 Oct, Copenhagen. 1 artist on the bill: HYPNOSIS THERAPY. Preview the line-up and save it on soundcheck.
+Hypnosis Therapy at VEGA on Tue 13 Oct, Copenhagen. 1 artist: HYPNOSIS THERAPY. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NWHR Invites Volvox [NYC] at NWHR
 
-NWHR Invites Volvox [NYC] on Sat 24 Oct, Montreal. 3 artists on the bill: h1bou, Kris Tin and Volvox. Techno. Preview the line-up and save it on soundcheck.
+NWHR Invites Volvox [NYC] on Sat 24 Oct, Montreal. 3 artists: h1bou, Kris Tin and Volvox. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

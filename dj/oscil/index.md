@@ -1,8 +1,8 @@
 # Oscil
 
-Oscil is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mr. Nancy’s, New York City on Fri, 30 Oct 2026.
+Oscil is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mr. Nancy’s, New York City on Fri, 30 Oct 2026.
 
-Oscil is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside alter.world and Uttaraa. Next up: Mr. Nancy’s, New York City on Fri 30 Oct.
+Oscil is a techno and house artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside alter.world and Uttaraa. Next up: Mr. Nancy’s, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Oscil is a techno and house artist based in United States of America, tracked on
 
 ## Recently played
 
-- Mr. Nancy’s, New York City — Fri, 21 Aug 2026
-- Honey's, New York City — Fri, 7 Aug 2026
-- Mr. Nancy’s, New York City — Sat, 23 May 2026
-- Honey's, New York City — Wed, 22 Apr 2026
-- Mr. Nancy’s, New York City — Fri, 13 Mar 2026
-- Rash, New York City — Wed, 5 Nov 2025
-- Mood Ring, New York City — Fri, 10 Oct 2025
-- Jade, New York City — Thu, 11 Sept 2025
+- Mr. Nancy’s, New York City · Fri, 21 Aug 2026
+- Honey's, New York City · Fri, 7 Aug 2026
+- Mr. Nancy’s, New York City · Sat, 23 May 2026
+- Honey's, New York City · Wed, 22 Apr 2026
+- Mr. Nancy’s, New York City · Fri, 13 Mar 2026
+- Rash, New York City · Wed, 5 Nov 2025
+- Mood Ring, New York City · Fri, 10 Oct 2025
+- Jade, New York City · Thu, 11 Sept 2025
 
 ## Shares bills with
 

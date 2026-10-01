@@ -1,6 +1,6 @@
 # Svaneborg Kardyb en microdosis - Café Berlín, Madrid at Café Berlín
 
-Svaneborg Kardyb en microdosis - Café Berlín, Madrid on Fri 20 Nov, Madrid. Electronica. Preview the line-up and save it on soundcheck.
+Svaneborg Kardyb en microdosis - Café Berlín, Madrid on Fri 20 Nov, Madrid. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

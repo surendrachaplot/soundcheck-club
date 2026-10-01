@@ -1,8 +1,8 @@
 # Project89
 
-Project89 is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Madam, Amsterdam on Fri, 9 Oct 2026.
+Project89 is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Madam, Amsterdam on Fri, 9 Oct 2026.
 
-Project89 is a house and deep house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam and Frankfurt. Often billed alongside Mike Scot, Jochem Hamerling and Jesse Maas. Next up: Madam, Amsterdam on Fri 9 Oct.
+Project89 is a house and deep house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam and Frankfurt. Often billed alongside Mike Scot, Jochem Hamerling and Jesse Maas. Next up: Madam, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Project89 is a house and deep house artist based in Netherlands, tracked on soun
 
 ## Recently played
 
-- Madam, Amsterdam — Sat, 14 Mar 2026
-- Het Sieraad, Amsterdam — Fri, 14 Nov 2025
-- Madam, Amsterdam — Sat, 8 Nov 2025
-- Ndsm, Amsterdam — Fri, 30 May 2025
-- Four Snacks, Frankfurt — Sat, 21 Sept 2024
-- Club Atelier, Amsterdam — Fri, 26 Apr 2024
-- Paradiso, Amsterdam — Fri, 9 Feb 2024
-- Crane Hotel Faralda, Amsterdam — Sat, 16 Dec 2023
+- Madam, Amsterdam · Sat, 14 Mar 2026
+- Het Sieraad, Amsterdam · Fri, 14 Nov 2025
+- Madam, Amsterdam · Sat, 8 Nov 2025
+- Ndsm, Amsterdam · Fri, 30 May 2025
+- Four Snacks, Frankfurt · Sat, 21 Sept 2024
+- Club Atelier, Amsterdam · Fri, 26 Apr 2024
+- Paradiso, Amsterdam · Fri, 9 Feb 2024
+- Crane Hotel Faralda, Amsterdam · Sat, 16 Dec 2023
 
 ## Shares bills with
 

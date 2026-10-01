@@ -1,8 +1,8 @@
 # Alice 4Ever
 
-Alice 4Ever is a Experimental and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at KEPK, Brisbane on Sat, 3 Oct 2026.
+Alice 4Ever is a Experimental and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at KEPK, Brisbane on Sat, 3 Oct 2026.
 
-Alice 4Ever is an experimental and idm artist based in Australia, tracked on soundcheck, with 8 sets logged across Auckland, Brisbane and Sydney. Often billed alongside Gunderman, LANDFILL and Toiling. Next up: KEPK, Brisbane on Sat 3 Oct.
+Alice 4Ever is an experimental and idm artist based in Australia, with 8 gigs on soundcheck across Auckland, Brisbane and Sydney. Often billed alongside Gunderman, LANDFILL and Toiling. Next up: KEPK, Brisbane on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Alice 4Ever is an experimental and idm artist based in Australia, tracked on sou
 
 ## Recently played
 
-- Burdekin Hotel, Sydney — Sat, 11 Jul 2026
-- Burdekin Hotel, Sydney — Sat, 11 Jul 2026
-- Oxford Art Factory, Sydney — Sun, 14 Jun 2026
-- Echo & Bounce, Brisbane — Sat, 14 Feb 2026
-- Black Bear Lodge, Brisbane — Fri, 19 Dec 2025
-- Whammy Bar, Auckland — Fri, 31 Oct 2025
-- Echo & Bounce, Brisbane — Wed, 27 Aug 2025
+- Burdekin Hotel, Sydney · Sat, 11 Jul 2026
+- Burdekin Hotel, Sydney · Sat, 11 Jul 2026
+- Oxford Art Factory, Sydney · Sun, 14 Jun 2026
+- Echo & Bounce, Brisbane · Sat, 14 Feb 2026
+- Black Bear Lodge, Brisbane · Fri, 19 Dec 2025
+- Whammy Bar, Auckland · Fri, 31 Oct 2025
+- Echo & Bounce, Brisbane · Wed, 27 Aug 2025
 
 ## Shares bills with
 

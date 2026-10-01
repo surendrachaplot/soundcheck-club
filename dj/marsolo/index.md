@@ -1,8 +1,8 @@
 # Marsolo
 
-Marsolo is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
+Marsolo is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Marsolo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
+Marsolo is a house and tech house artist based in Netherlands, with 162 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 36 more. Often billed alongside Jamback, Josh Baker and L.P. Rhythm. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Marsolo is a house and tech house artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
-- Thuishaven, Amsterdam — Sun, 27 Sept 2026
-- Document, Bristol — Fri, 25 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- Spybar, Chicago — Sun, 6 Sept 2026
-- TBA - Warehouse, Denver — Sat, 5 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- StereoBar, Montreal — Fri, 4 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
+- Thuishaven, Amsterdam · Sun, 27 Sept 2026
+- Document, Bristol · Fri, 25 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- Spybar, Chicago · Sun, 6 Sept 2026
+- TBA - Warehouse, Denver · Sat, 5 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- StereoBar, Montreal · Fri, 4 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
 
 ## Shares bills with
 

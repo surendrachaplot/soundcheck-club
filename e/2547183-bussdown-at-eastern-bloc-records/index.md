@@ -1,6 +1,6 @@
 # BUSSDOWN at Eastern Bloc Records
 
-BUSSDOWN at Eastern Bloc Records on Thu 1 Oct, Manchester. Dubstep and Dancehall. Preview the line-up and save it on soundcheck.
+BUSSDOWN at Eastern Bloc Records on Thu 1 Oct, Manchester. Dubstep and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

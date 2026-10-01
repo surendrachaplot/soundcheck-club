@@ -1,6 +1,6 @@
 # Endstation Sekt by DISCOnnect at Groovestation
 
-Endstation Sekt by DISCOnnect at Groovestation on Fri 30 Oct, Dresden. 3 artists on the bill: Bert Radscho, Ronald Koon and Sinamin. Preview the line-up and save it on soundcheck.
+Endstation Sekt by DISCOnnect at Groovestation on Fri 30 Oct, Dresden. 3 artists: Bert Radscho, Ronald Koon and Sinamin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

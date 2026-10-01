@@ -1,8 +1,8 @@
 # Heidi Lawden
 
-Heidi Lawden is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Heidi Lawden is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Heidi Lawden is a house and disco artist based in United States of America, tracked on soundcheck, with 171 sets logged across Athens, Bali, Barcelona and Belfast and 20 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Heidi Lawden is a house and disco artist based in United States of America, with 171 gigs on soundcheck across Athens, Bali, Barcelona and Belfast and 20 more. Often billed alongside Masha Mar, Lovefingers and Masha. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Heidi Lawden is a house and disco artist based in United States of America, trac
 
 ## Recently played
 
-- BASEMENT, New York City — Sat, 19 Sept 2026
-- The Cause, London — Fri, 18 Sept 2026
-- Akbar, Los Angeles — Sun, 6 Sept 2026
-- Kiku Room, San Diego — Thu, 3 Sept 2026
-- The Bridge, Los Angeles — Sat, 8 Aug 2026
-- Signal, New York City — Sat, 1 Aug 2026
-- Kater, Berlin — Sat, 25 Jul 2026
-- TBA - address sent to all ticket holders , London — Thu, 23 Jul 2026
+- BASEMENT, New York City · Sat, 19 Sept 2026
+- The Cause, London · Fri, 18 Sept 2026
+- Akbar, Los Angeles · Sun, 6 Sept 2026
+- Kiku Room, San Diego · Thu, 3 Sept 2026
+- The Bridge, Los Angeles · Sat, 8 Aug 2026
+- Signal, New York City · Sat, 1 Aug 2026
+- Kater, Berlin · Sat, 25 Jul 2026
+- TBA - address sent to all ticket holders , London · Thu, 23 Jul 2026
 
 ## Shares bills with
 

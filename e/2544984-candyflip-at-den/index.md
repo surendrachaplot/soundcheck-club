@@ -1,6 +1,6 @@
 # candyflip at ÆDEN
 
-candyflip at ÆDEN on Sat 28 Nov, Berlin. Preview the line-up and save it on soundcheck.
+candyflip at ÆDEN on Sat 28 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Patrick Loda
 
-Patrick Loda is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Apotheke, Los Angeles on Sun, 4 Oct 2026.
+Patrick Loda is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Apotheke, Los Angeles on Sun, 4 Oct 2026.
 
-Patrick Loda is a house and tech house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Los Angeles. Often billed alongside Marco Roberto, MoodHay and Andrelo. Next up: Apotheke, Los Angeles on Sun 4 Oct.
+Patrick Loda is a house and tech house artist based in United States of America, with 8 gigs on soundcheck across Los Angeles. Often billed alongside Marco Roberto, MoodHay and Andrelo. Next up: Apotheke, Los Angeles on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Patrick Loda is a house and tech house artist based in United States of America,
 
 ## Recently played
 
-- Night On Earth, Los Angeles — Sat, 24 Jan 2026
-- Resident, Los Angeles — Sun, 17 Mar 2024
-- Revel Lounge, Los Angeles — Thu, 28 Sept 2023
-- Revel Lounge, Los Angeles — Thu, 14 Sept 2023
-- Woodley Park, Los Angeles — Sat, 29 Jul 2023
-- Woodley Park, Los Angeles — Sat, 1 Jul 2023
-- Woodley Park, Los Angeles — Sat, 17 Jun 2023
+- Night On Earth, Los Angeles · Sat, 24 Jan 2026
+- Resident, Los Angeles · Sun, 17 Mar 2024
+- Revel Lounge, Los Angeles · Thu, 28 Sept 2023
+- Revel Lounge, Los Angeles · Thu, 14 Sept 2023
+- Woodley Park, Los Angeles · Sat, 29 Jul 2023
+- Woodley Park, Los Angeles · Sat, 1 Jul 2023
+- Woodley Park, Los Angeles · Sat, 17 Jun 2023
 
 ## Shares bills with
 

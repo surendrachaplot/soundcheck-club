@@ -1,6 +1,6 @@
 # Daft Disko: Boston at Royale
 
-Daft Disko: Boston at Royale on Fri 9 Oct, Boston. House and Disco. Preview the line-up and save it on soundcheck.
+Daft Disko: Boston at Royale on Fri 9 Oct, Boston. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

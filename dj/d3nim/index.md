@@ -1,8 +1,8 @@
 # D3NIM
 
-D3NIM is a Club and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bossa Nova Civic Club, New York City on Sat, 3 Oct 2026.
+D3NIM is a Club and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sat, 3 Oct 2026.
 
-D3NIM is a club and footwork artist based in United States of America, tracked on soundcheck, with 25 sets logged across London, Miami, New York City and San Diego. Often billed alongside Tice Cin, JEAN-PIERRE and Avenhue. Next up: Bossa Nova Civic Club, New York City on Sat 3 Oct.
+D3NIM is a club and footwork artist based in United States of America, with 25 gigs on soundcheck across London, Miami, New York City and San Diego. Often billed alongside Tice Cin, JEAN-PIERRE and Avenhue. Next up: Bossa Nova Civic Club, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ D3NIM is a club and footwork artist based in United States of America, tracked o
 
 ## Recently played
 
-- Ormside Projects, London — Fri, 28 Aug 2026
-- Bossa Nova Civic Club, New York City — Fri, 3 Jul 2026
-- House of Yes, New York City — Fri, 26 Jun 2026
-- Jupiter Disco, New York City — Fri, 5 Jun 2026
-- 3oz Dive Club, San Diego — Fri, 1 May 2026
-- Bossa Nova Civic Club, New York City — Fri, 3 Apr 2026
-- Pianos, New York City — Wed, 4 Mar 2026
-- Gramps Wynwood, Miami — Thu, 4 Dec 2025
+- Ormside Projects, London · Fri, 28 Aug 2026
+- Bossa Nova Civic Club, New York City · Fri, 3 Jul 2026
+- House of Yes, New York City · Fri, 26 Jun 2026
+- Jupiter Disco, New York City · Fri, 5 Jun 2026
+- 3oz Dive Club, San Diego · Fri, 1 May 2026
+- Bossa Nova Civic Club, New York City · Fri, 3 Apr 2026
+- Pianos, New York City · Wed, 4 Mar 2026
+- Gramps Wynwood, Miami · Thu, 4 Dec 2025
 
 ## Shares bills with
 

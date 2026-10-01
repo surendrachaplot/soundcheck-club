@@ -1,6 +1,6 @@
 # Tommy Fleece - Montréal at Bar Le Ritz PDB
 
-Tommy Fleece - Montréal at Bar Le Ritz PDB on Fri 20 Nov, Montreal. Electro and Pop. Preview the line-up and save it on soundcheck.
+Tommy Fleece - Montréal at Bar Le Ritz PDB on Fri 20 Nov, Montreal. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

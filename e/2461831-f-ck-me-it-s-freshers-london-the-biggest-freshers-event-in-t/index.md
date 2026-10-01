@@ -1,6 +1,6 @@
 # F*CK ME IT'S FRESHERS LONDON - THE BIGGEST FRESHERS EVENT IN THE UK at Studio 338
 
-F*CK ME IT'S FRESHERS LONDON - THE BIGGEST FRESHERS EVENT IN THE UK at Studio 338 on Fri 2 Oct, London. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+F*CK ME IT'S FRESHERS LONDON - THE BIGGEST FRESHERS EVENT IN THE UK at Studio 338 on Fri 2 Oct, London. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

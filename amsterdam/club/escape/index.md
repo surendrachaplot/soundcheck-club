@@ -1,8 +1,8 @@
 # Escape
 
-Escape is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More " on Wed, 21 Oct 2026.
+Escape is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Theory X ADE Showcase w/ Timo Maas, Sezer Uysal & Many More " on Wed, 21 Oct 2026.
 
-Escape is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including ALADAG, Baime, Cosmic Gate and Emanate and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 11; 1017 Binnestad; Amsterdam; Netherlands.
+Escape is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including ALADAG, Baime, Cosmic Gate and Emanate and 2 more. See dates, start times and who's playing. Rembrandtplein 11; 1017 Binnestad; Amsterdam; Netherlands.
 
 ## What's on
 

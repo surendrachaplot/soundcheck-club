@@ -1,6 +1,6 @@
 # Big Fish Little Fish Halloween Family Rave - Peckham at IKLECTIK
 
-Big Fish Little Fish Halloween Family Rave - Peckham at IKLECTIK on Sat 24 Oct, London. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Big Fish Little Fish Halloween Family Rave - Peckham at IKLECTIK on Sat 24 Oct, London. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

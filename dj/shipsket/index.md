@@ -1,8 +1,8 @@
 # Ship Sket
 
-Ship Sket is a Experimental and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Ship Sket is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Ship Sket is an experimental and club artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Proc Fiskal, KAVARI and Naramnesia. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Ship Sket is an experimental and club artist based in United Kingdom, with 79 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 18 more. Often billed alongside Proc Fiskal, KAVARI and Naramnesia. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Ship Sket is an experimental and club artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Tuff Club, Singapore — Fri, 18 Sept 2026
-- TBA - Secret location in Nishiazabu, Tokyo — Sat, 12 Sept 2026
-- Cakeshop, Seoul — Fri, 11 Sept 2026
-- Atno, Budapest — Fri, 28 Aug 2026
-- The White Hotel, Manchester — Sat, 22 Aug 2026
-- M.O.T, London — Fri, 21 Aug 2026
-- The Golden Lion, Manchester — Sat, 1 Aug 2026
-- Petit Bain, Paris — Fri, 24 Jul 2026
+- Tuff Club, Singapore · Fri, 18 Sept 2026
+- TBA - Secret location in Nishiazabu, Tokyo · Sat, 12 Sept 2026
+- Cakeshop, Seoul · Fri, 11 Sept 2026
+- Atno, Budapest · Fri, 28 Aug 2026
+- The White Hotel, Manchester · Sat, 22 Aug 2026
+- M.O.T, London · Fri, 21 Aug 2026
+- The Golden Lion, Manchester · Sat, 1 Aug 2026
+- Petit Bain, Paris · Fri, 24 Jul 2026
 
 ## Shares bills with
 

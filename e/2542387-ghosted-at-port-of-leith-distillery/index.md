@@ -1,6 +1,6 @@
 # Ghosted at Port of Leith Distillery
 
-Ghosted at Port of Leith Distillery on Fri 30 Oct, Edinburgh. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Ghosted at Port of Leith Distillery on Fri 30 Oct, Edinburgh. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Loft 22 at Ummo
 
-Loft 22 at Ummo is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Cafe Grooves Chicago" on Thu, 1 Oct 2026.
+Loft 22 at Ummo is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Cafe Grooves Chicago" on Thu, 1 Oct 2026.
 
-Loft 22 at Ummo is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Bassel Darwish, Nasser Baker and Valeria Fride. Browse upcoming dates, start times and who's playing.
+Loft 22 at Ummo is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Bassel Darwish, Nasser Baker and Valeria Fride. See dates, start times and who's playing.
 
 ## What's on
 

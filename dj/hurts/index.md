@@ -1,8 +1,8 @@
 # Hurts
 
-Hurts is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BASIS, Utrecht on Fri, 16 Oct 2026.
+Hurts is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BASIS, Utrecht on Fri, 16 Oct 2026.
 
-Hurts is a trance and techno artist based in Netherlands, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Riana Holley, 3LEEZA and Alex Friday. Next up: BASIS, Utrecht on Fri 16 Oct.
+Hurts is a trance and techno artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Riana Holley, 3LEEZA and Alex Friday. Next up: BASIS, Utrecht on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Hurts is a trance and techno artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- Beton-T, Utrecht — Sat, 1 Aug 2026
-- Elektricity, Detroit — Sat, 25 Jul 2026
-- Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
-- OST, Berlin — Sat, 4 Jul 2026
-- Elektricity, Detroit — Sat, 27 Jun 2026
-- Thuishaven, Amsterdam — Sat, 13 Jun 2026
-- TBA - Place Jean Rey, 1000 Brussels, Brussels — Sat, 13 Jun 2026
-- Strijkviertel, Utrecht — Sat, 6 Jun 2026
+- Beton-T, Utrecht · Sat, 1 Aug 2026
+- Elektricity, Detroit · Sat, 25 Jul 2026
+- Recreatiegebied Middelwaard, Utrecht · Sat, 4 Jul 2026
+- OST, Berlin · Sat, 4 Jul 2026
+- Elektricity, Detroit · Sat, 27 Jun 2026
+- Thuishaven, Amsterdam · Sat, 13 Jun 2026
+- TBA - Place Jean Rey, 1000 Brussels, Brussels · Sat, 13 Jun 2026
+- Strijkviertel, Utrecht · Sat, 6 Jun 2026
 
 ## Shares bills with
 

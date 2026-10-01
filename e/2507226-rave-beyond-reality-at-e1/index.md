@@ -1,6 +1,6 @@
 # Rave Beyond Reality at E1
 
-Rave Beyond Reality at E1 on Sat 24 Oct, London. Preview the line-up and save it on soundcheck.
+Rave Beyond Reality at E1 on Sat 24 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

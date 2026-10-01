@@ -1,8 +1,8 @@
 # Oso Feo (2)
 
-Oso Feo (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Underground SF, San Francisco/Oakland on Fri, 23 Oct 2026.
+Oso Feo (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 23 Oct 2026.
 
-Oso Feo is a techno and house artist based in United States of America, tracked on soundcheck, with 26 sets logged across New York City, Portland and San Francisco/Oakland. Often billed alongside Eichef, Mozhgan and llloyd (US). Next up: Underground SF, San Francisco/Oakland on Fri 23 Oct.
+Oso Feo is a techno and house artist based in United States of America, with 26 gigs on soundcheck across New York City, Portland and San Francisco/Oakland. Often billed alongside Eichef, Mozhgan and llloyd (US). Next up: Underground SF, San Francisco/Oakland on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Oso Feo is a techno and house artist based in United States of America, tracked 
 
 ## Recently played
 
-- Nowadays, New York City — Thu, 17 Sept 2026
-- F8 1192 Folsom, San Francisco/Oakland — Fri, 14 Aug 2026
-- The LookOut, San Francisco/Oakland — Thu, 16 Jul 2026
-- TBA - Bedstuy, New York City — Sat, 20 Jun 2026
-- F8 1192 Folsom, San Francisco/Oakland — Sat, 7 Feb 2026
-- TBA, Portland — Sat, 22 Nov 2025
-- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 3 Oct 2025
-- TBA - Out n About Treesort, Portland — Thu, 25 Sept 2025
+- Nowadays, New York City · Thu, 17 Sept 2026
+- F8 1192 Folsom, San Francisco/Oakland · Fri, 14 Aug 2026
+- The LookOut, San Francisco/Oakland · Thu, 16 Jul 2026
+- TBA - Bedstuy, New York City · Sat, 20 Jun 2026
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 7 Feb 2026
+- TBA, Portland · Sat, 22 Nov 2025
+- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 3 Oct 2025
+- TBA - Out n About Treesort, Portland · Thu, 25 Sept 2025
 
 ## Shares bills with
 

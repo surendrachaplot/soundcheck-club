@@ -1,6 +1,6 @@
 # ARA x OHM at OHM
 
-ARA x OHM on Thu 1 Oct, Berlin. Techno and Experimental. Preview the line-up and save it on soundcheck.
+ARA x OHM on Thu 1 Oct, Berlin. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

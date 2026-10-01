@@ -1,8 +1,8 @@
 # Soraere Brocken
 
-Soraere Brocken is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
+Soraere Brocken is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
 
-Soraere Brocken is a techno and electro artist based in South Korea, tracked on soundcheck, with 84 sets logged across Osaka, Seoul and Tokyo. Often billed alongside Kuro, Honn and Minehero. Next up: Inspire Entertainment Resort, Seoul on Sat 3 Oct.
+Soraere Brocken is a techno and electro artist based in South Korea, with 84 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside Kuro, Honn and Minehero. Next up: Inspire Entertainment Resort, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Soraere Brocken is a techno and electro artist based in South Korea, tracked on 
 
 ## Recently played
 
-- Shelter, Seoul — Fri, 18 Sept 2026
-- Faust, Seoul — Fri, 11 Sept 2026
-- TBA, Seoul — Sat, 22 Aug 2026
-- Lion Super Club, Seoul — Fri, 21 Aug 2026
-- Lion Super Club, Seoul — Sat, 8 Aug 2026
-- Shelter, Seoul — Fri, 10 Jul 2026
-- Shelter, Seoul — Fri, 19 Jun 2026
-- Eagle Seoul, Seoul — Sat, 13 Jun 2026
+- Shelter, Seoul · Fri, 18 Sept 2026
+- Faust, Seoul · Fri, 11 Sept 2026
+- TBA, Seoul · Sat, 22 Aug 2026
+- Lion Super Club, Seoul · Fri, 21 Aug 2026
+- Lion Super Club, Seoul · Sat, 8 Aug 2026
+- Shelter, Seoul · Fri, 10 Jul 2026
+- Shelter, Seoul · Fri, 19 Jun 2026
+- Eagle Seoul, Seoul · Sat, 13 Jun 2026
 
 ## Shares bills with
 

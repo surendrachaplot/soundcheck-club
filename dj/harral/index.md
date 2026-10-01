@@ -1,8 +1,8 @@
 # Harral
 
-Harral is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret East London Location, London on Sat, 3 Oct 2026.
+Harral is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret East London Location, London on Sat, 3 Oct 2026.
 
-Harral is a house and techno artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London and Melbourne. Often billed alongside Dylan James, Beno Garcia and Andrea Guadalupi. Next up: TBA - Secret East London Location, London on Sat 3 Oct.
+Harral is a house and techno artist based in United Kingdom, with 12 gigs on soundcheck across London and Melbourne. Often billed alongside Dylan James, Beno Garcia and Andrea Guadalupi. Next up: TBA - Secret East London Location, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Harral is a house and techno artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- TBA - Secret East London Location, London — Sat, 22 Aug 2026
-- The Glove That Fits, London — Thu, 9 Jul 2026
-- Last Arch, London — Sat, 18 Apr 2026
-- Brixton Jamm, London — Sat, 13 Sept 2025
-- Glamorama, Melbourne — Thu, 24 Apr 2025
-- New Guernica, Melbourne — Sat, 5 Apr 2025
-- New Guernica, Melbourne — Sat, 15 Mar 2025
-- Howler, Melbourne — Sat, 8 Mar 2025
+- TBA - Secret East London Location, London · Sat, 22 Aug 2026
+- The Glove That Fits, London · Thu, 9 Jul 2026
+- Last Arch, London · Sat, 18 Apr 2026
+- Brixton Jamm, London · Sat, 13 Sept 2025
+- Glamorama, Melbourne · Thu, 24 Apr 2025
+- New Guernica, Melbourne · Sat, 5 Apr 2025
+- New Guernica, Melbourne · Sat, 15 Mar 2025
+- Howler, Melbourne · Sat, 8 Mar 2025
 
 ## Shares bills with
 

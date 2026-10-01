@@ -1,6 +1,6 @@
 # Throwback Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum
 
-Throwback Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum on Sat 31 Oct, Barcelona. Disco and Pop. Preview the line-up and save it on soundcheck.
+Throwback Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum on Sat 31 Oct, Barcelona. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

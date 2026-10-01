@@ -1,6 +1,6 @@
 # The Phatty Factory presents, Fresh Phatty Records showcase / CODE at Q-Factory
 
-The Phatty Factory presents, Fresh Phatty Records showcase / CODE at Q-Factory on Thu 22 Oct, Amsterdam. 4 artists on the bill: Chelina Manuhutu, Easttown, Mason Collective and VLTRA (IT). Techno and Tech House. Preview the line-up and save it on soundcheck.
+The Phatty Factory presents, Fresh Phatty Records showcase / CODE at Q-Factory on Thu 22 Oct, Amsterdam. 4 artists: Chelina Manuhutu, Easttown, Mason Collective and VLTRA (IT). Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

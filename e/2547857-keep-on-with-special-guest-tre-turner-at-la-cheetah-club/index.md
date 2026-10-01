@@ -1,6 +1,6 @@
 # KEEP ON with special guest Tre Turner at La Cheetah Club
 
-KEEP ON with special guest Tre Turner at La Cheetah Club on Sun 11 Oct, Glasgow. 3 artists on the bill: David Barbarossa, OOFT and Tre Turner. House and Italo Disco. Preview the line-up and save it on soundcheck.
+KEEP ON with special guest Tre Turner at La Cheetah Club on Sun 11 Oct, Glasgow. 3 artists: David Barbarossa, OOFT and Tre Turner. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

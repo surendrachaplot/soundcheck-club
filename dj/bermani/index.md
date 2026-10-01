@@ -1,8 +1,8 @@
 # Bermani
 
-Bermani is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Deseo BS AS, Buenos Aires on Fri, 6 Nov 2026.
+Bermani is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Deseo BS AS, Buenos Aires on Fri, 6 Nov 2026.
 
-Bermani is a house and techno artist based in Argentina, tracked on soundcheck, with 51 sets logged across Amsterdam, Berlin and Buenos Aires. Often billed alongside Ludmila Di Pasquale, Camila Isabel and Djs Pareja. Next up: Deseo BS AS, Buenos Aires on Fri 6 Nov.
+Bermani is a house and techno artist based in Argentina, with 51 gigs on soundcheck across Amsterdam, Berlin and Buenos Aires. Often billed alongside Ludmila Di Pasquale, Camila Isabel and Djs Pareja. Next up: Deseo BS AS, Buenos Aires on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Bermani is a house and techno artist based in Argentina, tracked on soundcheck, 
 
 ## Recently played
 
-- Dune Park, Buenos Aires — Fri, 25 Sept 2026
-- TBA - Tokyo Club, Costanera, Buenos Aires — Thu, 3 Sept 2026
-- Dune Park, Buenos Aires — Fri, 19 Jun 2026
-- TBA - Autodromo de Buenos Aires, Villa Lugano, Buenos Aires — Sun, 24 May 2026
-- Club de Pescadores Buenos Aires, Buenos Aires — Fri, 24 Apr 2026
-- Crobar - Buenos Aires, Buenos Aires — Sat, 4 Apr 2026
-- Palacio Tango, Buenos Aires — Sat, 21 Feb 2026
-- Crobar - Buenos Aires, Buenos Aires — Sat, 24 Jan 2026
+- Dune Park, Buenos Aires · Fri, 25 Sept 2026
+- TBA - Tokyo Club, Costanera, Buenos Aires · Thu, 3 Sept 2026
+- Dune Park, Buenos Aires · Fri, 19 Jun 2026
+- TBA - Autodromo de Buenos Aires, Villa Lugano, Buenos Aires · Sun, 24 May 2026
+- Club de Pescadores Buenos Aires, Buenos Aires · Fri, 24 Apr 2026
+- Crobar - Buenos Aires, Buenos Aires · Sat, 4 Apr 2026
+- Palacio Tango, Buenos Aires · Sat, 21 Feb 2026
+- Crobar - Buenos Aires, Buenos Aires · Sat, 24 Jan 2026
 
 ## Shares bills with
 

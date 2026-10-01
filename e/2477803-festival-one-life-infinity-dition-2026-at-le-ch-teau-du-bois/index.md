@@ -1,6 +1,6 @@
 # Festival One Life Infinity # Édition 2026 at Le Château du Bois Guy
 
-Festival One Life Infinity # Édition 2026 at Le Château du Bois Guy on Sat 17 Oct, Rennes. 6 artists on the bill: Britney Speed (FR), Dj Schnake, EVN and Fury (FR) and 2 more. Preview the line-up and save it on soundcheck.
+Festival One Life Infinity # Édition 2026 at Le Château du Bois Guy on Sat 17 Oct, Rennes. 6 artists: Britney Speed (FR), Dj Schnake, EVN and Fury (FR) and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

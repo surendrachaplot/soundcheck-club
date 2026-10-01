@@ -1,6 +1,6 @@
 # TARON Techno Manchester at Area Manchester
 
-TARON Techno Manchester at Area Manchester on Fri 2 Oct, Manchester. 3 artists on the bill: D'joozt, MAD Beats and Warren Scott. Techno. Preview the line-up and save it on soundcheck.
+TARON Techno Manchester at Area Manchester on Fri 2 Oct, Manchester. 3 artists: D'joozt, MAD Beats and Warren Scott. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

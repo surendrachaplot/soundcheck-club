@@ -1,6 +1,6 @@
 # MOAB at DURO Club with Xiaolin, Ness, Biocym b2b Luce at DURO
 
-MOAB at DURO Club with Xiaolin, Ness, Biocym b2b Luce on Fri 20 Nov, Milan. 4 artists on the bill: Biocym, LUCE (IT), Ness and Xiaolin. Trance and Electronica. Preview the line-up and save it on soundcheck.
+MOAB at DURO Club with Xiaolin, Ness, Biocym b2b Luce on Fri 20 Nov, Milan. 4 artists: Biocym, LUCE (IT), Ness and Xiaolin. Trance and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

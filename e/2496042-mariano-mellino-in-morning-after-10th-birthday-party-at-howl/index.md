@@ -1,6 +1,6 @@
 # Mariano Mellino in Morning After 10th Birthday Party at Howler
 
-Mariano Mellino in Morning After 10th Birthday Party at Howler on Sat 3 Oct, Melbourne. 7 artists on the bill: Bridget, Cookie, Jedidiah and Kasey Taylor and 3 more. Preview the line-up and save it on soundcheck.
+Mariano Mellino in Morning After 10th Birthday Party at Howler on Sat 3 Oct, Melbourne. 7 artists: Bridget, Cookie, Jedidiah and Kasey Taylor and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

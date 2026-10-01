@@ -1,6 +1,6 @@
 # Rebel Rebel pres Blawan - Cieloterra opening season at Cieloterra
 
-Rebel Rebel pres Blawan - Cieloterra opening season on Fri 16 Oct, Rome. 3 artists on the bill: Blawan, Gattonero and Zerø. Techno. Preview the line-up and save it on soundcheck.
+Rebel Rebel pres Blawan - Cieloterra opening season on Fri 16 Oct, Rome. 3 artists: Blawan, Gattonero and Zerø. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

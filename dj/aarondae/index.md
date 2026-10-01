@@ -1,8 +1,8 @@
 # Aaron Dae
 
-Aaron Dae is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at public records, New York City on Thu, 15 Oct 2026.
+Aaron Dae is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Thu, 15 Oct 2026.
 
-Aaron Dae is a house and disco artist based in United States of America, tracked on soundcheck, with 38 sets logged across Detroit, London, New York City and San Francisco/Oakland. Often billed alongside JKriv, Disgonuts and Jason Lindner. Next up: public records, New York City on Thu 15 Oct.
+Aaron Dae is a house and disco artist based in United States of America, with 38 gigs on soundcheck across Detroit, London, New York City and San Francisco/Oakland. Often billed alongside JKriv, Disgonuts and Jason Lindner. Next up: public records, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Aaron Dae is a house and disco artist based in United States of America, tracked
 
 ## Recently played
 
-- The Siren Hotel, Detroit — Sat, 23 May 2026
-- MotorCity Wine, Detroit — Fri, 22 May 2026
-- Spot Lite Detroit, Detroit — Thu, 21 May 2026
-- Good Room, New York City — Fri, 8 May 2026
-- Xanadu, New York City — Fri, 13 Feb 2026
-- Xanadu, New York City — Sun, 12 Oct 2025
-- Le Bain, New York City — Sat, 20 Sept 2025
-- H0L0, New York City — Sat, 19 Jul 2025
+- The Siren Hotel, Detroit · Sat, 23 May 2026
+- MotorCity Wine, Detroit · Fri, 22 May 2026
+- Spot Lite Detroit, Detroit · Thu, 21 May 2026
+- Good Room, New York City · Fri, 8 May 2026
+- Xanadu, New York City · Fri, 13 Feb 2026
+- Xanadu, New York City · Sun, 12 Oct 2025
+- Le Bain, New York City · Sat, 20 Sept 2025
+- H0L0, New York City · Sat, 19 Jul 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Founder
 
-Founder is a Reggaeton and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Sky Sinner Barcelona, Barcelona on Fri, 2 Oct 2026.
+Founder is a Reggaeton and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Sky Sinner Barcelona, Barcelona on Fri, 2 Oct 2026.
 
-Founder is a reggaeton and pop artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Barcelona. Often billed alongside DJ Howard. Next up: TBA - Sky Sinner Barcelona, Barcelona on Fri 2 Oct.
+Founder is a reggaeton and pop artist based in United Kingdom, with 2 gigs on soundcheck across Barcelona. Often billed alongside DJ Howard. Next up: TBA - Sky Sinner Barcelona, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 

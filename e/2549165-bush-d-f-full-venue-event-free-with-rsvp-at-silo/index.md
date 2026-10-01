@@ -1,6 +1,6 @@
 # BUSH DÜF (Full Venue Event, Free with RSVP) at SILO
 
-BUSH DÜF (Full Venue Event, Free with RSVP) at SILO on Thu 22 Oct, New York City. 2 artists on the bill: Ben Zo and STEEN. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+BUSH DÜF (Full Venue Event, Free with RSVP) at SILO on Thu 22 Oct, New York City. 2 artists: Ben Zo and STEEN. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

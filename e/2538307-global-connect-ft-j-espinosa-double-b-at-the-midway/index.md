@@ -1,6 +1,6 @@
 # Global Connect ft J Espinosa, Double B at The Midway
 
-Global Connect ft J Espinosa, Double B at The Midway on Sat 3 Oct, San Francisco/Oakland. House and Reggaeton. Preview the line-up and save it on soundcheck.
+Global Connect ft J Espinosa, Double B at The Midway on Sat 3 Oct, San Francisco/Oakland. House and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

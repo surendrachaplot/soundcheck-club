@@ -1,8 +1,8 @@
 # Freeman 713
 
-Freeman 713 is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
+Freeman 713 is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
 
-Freeman 713 is a techno and experimental artist based in United States of America, tracked on soundcheck, with 58 sets logged across Austin, Berlin, Chicago and Houston and 10 more. Often billed alongside Brick (US), FAUNA and Lavender Persuasion. Next up: Underground SF, San Francisco/Oakland on Sat 21 Nov.
+Freeman 713 is a techno and experimental artist based in United States of America, with 58 gigs on soundcheck across Austin, Berlin, Chicago and Houston and 10 more. Often billed alongside Brick (US), FAUNA and Lavender Persuasion. Next up: Underground SF, San Francisco/Oakland on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Freeman 713 is a techno and experimental artist based in United States of Americ
 
 ## Recently played
 
-- Milkys, Los Angeles — Fri, 25 Sept 2026
-- The Airliner, Los Angeles — Thu, 24 Sept 2026
-- Radius, Chicago — Sun, 19 Jul 2026
-- TBA, Los Angeles — Fri, 3 Jul 2026
-- TBA - DTLA, Los Angeles — Fri, 3 Jul 2026
-- TBA - DTLA, Los Angeles — Sat, 6 Jun 2026
-- TBA, Los Angeles — Sat, 30 May 2026
-- The Oven, Austin — Sat, 25 Apr 2026
+- Milkys, Los Angeles · Fri, 25 Sept 2026
+- The Airliner, Los Angeles · Thu, 24 Sept 2026
+- Radius, Chicago · Sun, 19 Jul 2026
+- TBA, Los Angeles · Fri, 3 Jul 2026
+- TBA - DTLA, Los Angeles · Fri, 3 Jul 2026
+- TBA - DTLA, Los Angeles · Sat, 6 Jun 2026
+- TBA, Los Angeles · Sat, 30 May 2026
+- The Oven, Austin · Sat, 25 Apr 2026
 
 ## Shares bills with
 

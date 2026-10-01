@@ -1,6 +1,6 @@
 # TAD ALL NIGHT at Le Bain
 
-TAD ALL NIGHT at Le Bain on Sat 3 Oct, New York City. 1 artist on the bill: Tad Haes. Preview the line-up and save it on soundcheck.
+TAD ALL NIGHT at Le Bain on Sat 3 Oct, New York City. 1 artist: Tad Haes. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

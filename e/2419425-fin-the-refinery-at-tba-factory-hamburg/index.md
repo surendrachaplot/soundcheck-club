@@ -1,6 +1,6 @@
 # fin: The Refinery at TBA - Factory, Hamburg
 
-fin: The Refinery at TBA - Factory, Hamburg on Sat 17 Oct, Hamburg. Techno and Acid. Preview the line-up and save it on soundcheck.
+fin: The Refinery at TBA - Factory, Hamburg on Sat 17 Oct, Hamburg. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

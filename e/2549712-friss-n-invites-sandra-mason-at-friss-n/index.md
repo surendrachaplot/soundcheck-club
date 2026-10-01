@@ -1,6 +1,6 @@
 # Frissón Invites Sandra Mason at Frissón
 
-Frissón Invites Sandra Mason on Thu 1 Oct, Rome. 1 artist on the bill: Sandra Mason. Preview the line-up and save it on soundcheck.
+Frissón Invites Sandra Mason on Thu 1 Oct, Rome. 1 artist: Sandra Mason. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

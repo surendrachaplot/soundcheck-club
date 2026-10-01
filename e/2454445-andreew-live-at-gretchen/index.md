@@ -1,6 +1,6 @@
 # ANDREEW *live at Gretchen
 
-ANDREEW *live at Gretchen on Mon 23 Nov, Berlin. Jazz and Pop. Preview the line-up and save it on soundcheck.
+ANDREEW *live at Gretchen on Mon 23 Nov, Berlin. Jazz and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

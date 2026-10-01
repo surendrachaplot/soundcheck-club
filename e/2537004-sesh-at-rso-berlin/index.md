@@ -1,6 +1,6 @@
 # SESH at RSO.BERLIN
 
-SESH at RSO.BERLIN on Fri 5 Mar, Berlin. 4 artists on the bill: MCR-T, PETERBLUE, THELMA and VIVI909. Preview the line-up and save it on soundcheck.
+SESH at RSO.BERLIN on Fri 5 Mar, Berlin. 4 artists: MCR-T, PETERBLUE, THELMA and VIVI909. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

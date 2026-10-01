@@ -1,6 +1,6 @@
 # THE RING x CLUB DE JOUR with Yann Muller, Trio Cover at Warehouse
 
-THE RING x CLUB DE JOUR with Yann Muller, Trio Cover at Warehouse on Sat 10 Oct, Nantes. House and Electro. Preview the line-up and save it on soundcheck.
+THE RING x CLUB DE JOUR with Yann Muller, Trio Cover at Warehouse on Sat 10 Oct, Nantes. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

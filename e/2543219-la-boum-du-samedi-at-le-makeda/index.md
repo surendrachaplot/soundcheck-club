@@ -1,6 +1,6 @@
 # La Boum du Samedi at Le Makeda
 
-La Boum du Samedi at Le Makeda on Sat 3 Oct, Marseille. Pop and Club. Preview the line-up and save it on soundcheck.
+La Boum du Samedi at Le Makeda on Sat 3 Oct, Marseille. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

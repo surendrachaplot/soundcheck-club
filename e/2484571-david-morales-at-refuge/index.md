@@ -1,6 +1,6 @@
 # David Morales at Refuge
 
-David Morales at Refuge on Sat 24 Oct, New York City. 1 artist on the bill: David Morales. House. Preview the line-up and save it on soundcheck.
+David Morales at Refuge on Sat 24 Oct, New York City. 1 artist: David Morales. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

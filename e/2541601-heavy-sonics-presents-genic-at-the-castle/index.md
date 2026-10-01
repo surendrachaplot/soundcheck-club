@@ -1,6 +1,6 @@
 # Heavy Sonics presents: GENIC at The Castle
 
-Heavy Sonics presents: GENIC at The Castle on Fri 16 Oct, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+Heavy Sonics presents: GENIC at The Castle on Fri 16 Oct, London. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

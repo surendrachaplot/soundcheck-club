@@ -1,6 +1,6 @@
 # THE AVE at The Ave Live
 
-THE AVE at The Ave Live on Fri 9 Oct, Philadelphia. Preview the line-up and save it on soundcheck.
+THE AVE at The Ave Live on Fri 9 Oct, Philadelphia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

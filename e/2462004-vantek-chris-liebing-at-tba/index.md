@@ -1,6 +1,6 @@
 # VANTEK: Chris Liebing at TBA
 
-VANTEK: Chris Liebing at TBA on Sat 7 Nov, Vancouver. 1 artist on the bill: Chris Liebing. Techno. Preview the line-up and save it on soundcheck.
+VANTEK: Chris Liebing at TBA on Sat 7 Nov, Vancouver. 1 artist: Chris Liebing. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

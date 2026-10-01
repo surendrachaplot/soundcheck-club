@@ -1,8 +1,8 @@
 # Olivier Weiter
 
-Olivier Weiter is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Escape, Amsterdam on Thu, 22 Oct 2026.
+Olivier Weiter is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Escape, Amsterdam on Thu, 22 Oct 2026.
 
-Olivier Weiter is a techno and house artist based in Netherlands, tracked on soundcheck, with 67 sets logged across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Miss Melera, Huminal and Mees Salomé. Next up: Escape, Amsterdam on Thu 22 Oct.
+Olivier Weiter is a techno and house artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Berlin, Cologne and Rotterdam and 2 more. Often billed alongside Miss Melera, Huminal and Mees Salomé. Next up: Escape, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Olivier Weiter is a techno and house artist based in Netherlands, tracked on sou
 
 ## Recently played
 
-- Ijland, Amsterdam — Sat, 12 Sept 2026
-- Paal69, Amsterdam — Fri, 4 Sept 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Het Sieraad, Amsterdam — Sat, 18 Jul 2026
-- Odonien, Cologne — Fri, 17 Jul 2026
-- Paal69, Amsterdam — Fri, 12 Jun 2026
-- Tuinen van West, Amsterdam — Sat, 23 May 2026
-- Kaap Amsterdam, Amsterdam — Sun, 17 May 2026
+- Ijland, Amsterdam · Sat, 12 Sept 2026
+- Paal69, Amsterdam · Fri, 4 Sept 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
+- Het Sieraad, Amsterdam · Sat, 18 Jul 2026
+- Odonien, Cologne · Fri, 17 Jul 2026
+- Paal69, Amsterdam · Fri, 12 Jun 2026
+- Tuinen van West, Amsterdam · Sat, 23 May 2026
+- Kaap Amsterdam, Amsterdam · Sun, 17 May 2026
 
 ## Shares bills with
 

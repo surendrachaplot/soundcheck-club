@@ -1,6 +1,6 @@
 # PEW26 - Initiation à la lumière de concert avec Laurie Laprade at Mains D'œuvres
 
-PEW26 - Initiation à la lumière de concert avec Laurie Laprade at Mains D'œuvres on Sun 4 Oct, Paris. Preview the line-up and save it on soundcheck.
+PEW26 - Initiation à la lumière de concert avec Laurie Laprade at Mains D'œuvres on Sun 4 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Marco (UK)
 
-Marco (UK) is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Brixton Jamm, London on Sat, 24 Oct 2026.
+Marco (UK) is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Brixton Jamm, London on Sat, 24 Oct 2026.
 
-Marco (UK) is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Dowden, Lavie Au Soleil and STRAY SON. Next up: Brixton Jamm, London on Sat 24 Oct.
+Marco (UK) is a progressive house and deep house artist based in United Kingdom, with 34 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 3 more. Often billed alongside Dowden, Lavie Au Soleil and STRAY SON. Next up: Brixton Jamm, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Marco (UK) is a progressive house and deep house artist based in United Kingdom,
 
 ## Recently played
 
-- The Bunker @ The Rolling Stock, London — Thu, 24 Sept 2026
-- Paral•lel 62, Barcelona — Fri, 3 Jul 2026
-- Onyx (E1), London — Sat, 2 May 2026
-- Basing House, London — Fri, 3 Apr 2026
-- Do Not Sit On The Furniture, Miami — Thu, 2 Apr 2026
-- NUMBER 90 LONDON, London — Sat, 21 Feb 2026
-- Basing House, London — Sat, 22 Nov 2025
-- Ministry Of Sound, London — Fri, 24 Oct 2025
+- The Bunker @ The Rolling Stock, London · Thu, 24 Sept 2026
+- Paral•lel 62, Barcelona · Fri, 3 Jul 2026
+- Onyx (E1), London · Sat, 2 May 2026
+- Basing House, London · Fri, 3 Apr 2026
+- Do Not Sit On The Furniture, Miami · Thu, 2 Apr 2026
+- NUMBER 90 LONDON, London · Sat, 21 Feb 2026
+- Basing House, London · Sat, 22 Nov 2025
+- Ministry Of Sound, London · Fri, 24 Oct 2025
 
 ## Shares bills with
 

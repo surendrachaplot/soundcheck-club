@@ -1,8 +1,8 @@
 # MALAGÜERA
 
-MALAGÜERA is a House and Dembow artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
+MALAGÜERA is a House and Dembow artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Berlin on Fri, 6 Nov 2026.
 
-MALAGÜERA is a house and dembow artist based in Chile, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Isa GT, Lazy Rosario and B. Clarke. Next up: TBA - Secret Location, Berlin on Fri 6 Nov.
+MALAGÜERA is a house and dembow artist based in Chile, with 15 gigs on soundcheck across Berlin. Often billed alongside Isa GT, Lazy Rosario and B. Clarke. Next up: TBA - Secret Location, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MALAGÜERA is a house and dembow artist based in Chile, tracked on soundcheck, w
 
 ## Recently played
 
-- ÆDEN, Berlin — Fri, 24 Jul 2026
-- KREUZWERK, Berlin — Sat, 9 May 2026
-- ÆDEN, Berlin — Sat, 28 Feb 2026
-- ÆDEN, Berlin — Fri, 5 Dec 2025
-- ÆDEN, Berlin — Sat, 4 Oct 2025
-- OXI, Berlin — Sat, 15 Mar 2025
-- TBA - Secret Garden, Berlin — Sat, 17 Aug 2024
-- AVA Club, Berlin — Fri, 7 Jun 2024
+- ÆDEN, Berlin · Fri, 24 Jul 2026
+- KREUZWERK, Berlin · Sat, 9 May 2026
+- ÆDEN, Berlin · Sat, 28 Feb 2026
+- ÆDEN, Berlin · Fri, 5 Dec 2025
+- ÆDEN, Berlin · Sat, 4 Oct 2025
+- OXI, Berlin · Sat, 15 Mar 2025
+- TBA - Secret Garden, Berlin · Sat, 17 Aug 2024
+- AVA Club, Berlin · Fri, 7 Jun 2024
 
 ## Shares bills with
 

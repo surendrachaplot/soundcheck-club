@@ -1,6 +1,6 @@
 # Soft Domination 004: 1st Birthday at radial
 
-Soft Domination 004: 1st Birthday at radial on Fri 2 Oct, London. 4 artists on the bill: Ivicore, LO-LOW, Sub Basics and Witch Trials. Techno and Club. Preview the line-up and save it on soundcheck.
+Soft Domination 004: 1st Birthday at radial on Fri 2 Oct, London. 4 artists: Ivicore, LO-LOW, Sub Basics and Witch Trials. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

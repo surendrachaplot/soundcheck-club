@@ -1,6 +1,6 @@
 # HALŌ ADE 2026 at Escape
 
-HALŌ ADE 2026 at Escape on Sun 25 Oct, Amsterdam. Progressive House and House. Preview the line-up and save it on soundcheck.
+HALŌ ADE 2026 at Escape on Sun 25 Oct, Amsterdam. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

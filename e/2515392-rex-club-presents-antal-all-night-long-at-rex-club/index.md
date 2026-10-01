@@ -1,6 +1,6 @@
 # Rex Club presents: Antal all night long at Rex Club
 
-Rex Club presents: Antal all night long on Sat 7 Nov, Paris. 1 artist on the bill: Antal. House and Disco. Preview the line-up and save it on soundcheck.
+Rex Club presents: Antal all night long on Sat 7 Nov, Paris. 1 artist: Antal. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

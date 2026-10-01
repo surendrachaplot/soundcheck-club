@@ -1,6 +1,6 @@
 # Reggaeton Party (Tallinn) October 2026 at Club Privé
 
-Reggaeton Party (Tallinn) October 2026 at Club Privé on Sat 3 Oct, Tallinn. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+Reggaeton Party (Tallinn) October 2026 at Club Privé on Sat 3 Oct, Tallinn. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

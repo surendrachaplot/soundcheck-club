@@ -1,6 +1,6 @@
 # Unsound Warszawa 2026: FRICTION - Diamanda Galás / Raphael Rogiński + more at Filharmonia Narodowa
 
-Unsound Warszawa 2026: FRICTION - Diamanda Galás / Raphael Rogiński + more at Filharmonia Narodowa on Mon 5 Oct, Warsaw. Preview the line-up and save it on soundcheck.
+Unsound Warszawa 2026: FRICTION - Diamanda Galás / Raphael Rogiński + more at Filharmonia Narodowa on Mon 5 Oct, Warsaw. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

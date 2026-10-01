@@ -1,6 +1,6 @@
 # le lieu unique avec FCKG MOOD & Technopaul at Le Lieu Unique / Nantes
 
-le lieu unique avec FCKG MOOD & Technopaul at Le Lieu Unique / Nantes on Fri 6 Nov, Nantes. Techno. Preview the line-up and save it on soundcheck.
+le lieu unique avec FCKG MOOD & Technopaul at Le Lieu Unique / Nantes on Fri 6 Nov, Nantes. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

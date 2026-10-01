@@ -1,6 +1,6 @@
 # Azu Tiwaline , DJ MARIA. / LDG 10th Anniversary 'EPILOGUE' at VENT
 
-Azu Tiwaline , DJ MARIA. / LDG 10th Anniversary 'EPILOGUE' at VENT on Fri 13 Nov, Tokyo. 7 artists on the bill: AI, Astma, Azu Tiwaline and DJ MARIA. and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Azu Tiwaline , DJ MARIA. / LDG 10th Anniversary 'EPILOGUE' at VENT on Fri 13 Nov, Tokyo. 7 artists: AI, Astma, Azu Tiwaline and DJ MARIA. and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

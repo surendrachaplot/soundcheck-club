@@ -1,6 +1,6 @@
 # Music Summit Malta - Showcase and the acts at Hard Rock Hotel Malta
 
-Music Summit Malta - Showcase and the acts at Hard Rock Hotel Malta on Thu 8 Oct, Malta. 3 artists on the bill: Acidulant, Owen Jay and Sean Rickett. Preview the line-up and save it on soundcheck.
+Music Summit Malta - Showcase and the acts at Hard Rock Hotel Malta on Thu 8 Oct, Malta. 3 artists: Acidulant, Owen Jay and Sean Rickett. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

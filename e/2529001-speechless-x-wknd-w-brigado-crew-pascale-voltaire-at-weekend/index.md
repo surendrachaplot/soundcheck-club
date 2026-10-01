@@ -1,6 +1,6 @@
 # SPEECHLESS x WKND w/ Brigado Crew & Pascale Voltaire at Weekend
 
-SPEECHLESS x WKND w/ Brigado Crew & Pascale Voltaire at Weekend on Fri 18 Dec, Berlin. 2 artists on the bill: Brigado Crew and Pascale Voltaire. Techno and House. Preview the line-up and save it on soundcheck.
+SPEECHLESS x WKND w/ Brigado Crew & Pascale Voltaire at Weekend on Fri 18 Dec, Berlin. 2 artists: Brigado Crew and Pascale Voltaire. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

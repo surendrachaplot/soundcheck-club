@@ -1,6 +1,6 @@
 # Registrations: Hidden Door Journal at The Substation
 
-Registrations: Hidden Door Journal at The Substation on Sat 3 Oct, Melbourne. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Registrations: Hidden Door Journal at The Substation on Sat 3 Oct, Melbourne. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

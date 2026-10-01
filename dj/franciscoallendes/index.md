@@ -1,8 +1,8 @@
 # Francisco Allendes
 
-Francisco Allendes is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
+Francisco Allendes is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Auditorio Málaga Cortijo de Torres, South on Sat, 10 Oct 2026.
 
-Francisco Allendes is a tech house and house artist based in Chile, tracked on soundcheck, with 62 sets logged across Amsterdam, Austin, Barcelona and Boston and 14 more. Often billed alongside Raul Rodriguez, Andrea Oliva and Chelina Manuhutu. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
+Francisco Allendes is a tech house and house artist based in Chile, with 62 gigs on soundcheck across Amsterdam, Austin, Barcelona and Boston and 14 more. Often billed alongside Raul Rodriguez, Andrea Oliva and Chelina Manuhutu. Next up: Auditorio Málaga Cortijo de Torres, South on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Francisco Allendes is a tech house and house artist based in Chile, tracked on s
 
 ## Recently played
 
-- PKL Boston, Boston — Sun, 6 Sept 2026
-- Edge Miami, Miami — Fri, 4 Sept 2026
-- Kiesgrube, Düsseldorf — Sun, 30 Aug 2026
-- Fabrik, Madrid — Sat, 27 Jun 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 20 Jun 2026
-- Cova Santa, Ibiza — Sun, 14 Jun 2026
-- 77, London — Fri, 12 Jun 2026
-- Cova Santa, Ibiza — Sun, 7 Jun 2026
+- PKL Boston, Boston · Sun, 6 Sept 2026
+- Edge Miami, Miami · Fri, 4 Sept 2026
+- Kiesgrube, Düsseldorf · Sun, 30 Aug 2026
+- Fabrik, Madrid · Sat, 27 Jun 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 20 Jun 2026
+- Cova Santa, Ibiza · Sun, 14 Jun 2026
+- 77, London · Fri, 12 Jun 2026
+- Cova Santa, Ibiza · Sun, 7 Jun 2026
 
 ## Shares bills with
 

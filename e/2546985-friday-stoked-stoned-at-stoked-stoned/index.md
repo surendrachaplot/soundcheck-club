@@ -1,6 +1,6 @@
 # Friday Stoked&stoned at Stoked&stoned
 
-Friday Stoked&stoned on Fri 2 Oct, Seoul. 3 artists on the bill: Jesse You, Mignon and Youngseok. Techno and House. Preview the line-up and save it on soundcheck.
+Friday Stoked&stoned on Fri 2 Oct, Seoul. 3 artists: Jesse You, Mignon and Youngseok. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

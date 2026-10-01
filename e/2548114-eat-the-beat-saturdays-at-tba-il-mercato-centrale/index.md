@@ -1,6 +1,6 @@
 # Eat The Beat Saturdays at TBA - Il Mercato Centrale
 
-Eat The Beat Saturdays at TBA - Il Mercato Centrale on Sat 17 Oct, Melbourne. 2 artists on the bill: FLKN and Ghosty. Trance and Techno. Preview the line-up and save it on soundcheck.
+Eat The Beat Saturdays at TBA - Il Mercato Centrale on Sat 17 Oct, Melbourne. 2 artists: FLKN and Ghosty. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

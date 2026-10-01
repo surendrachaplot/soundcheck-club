@@ -1,6 +1,6 @@
 # Ladytron at SWG3
 
-Ladytron at SWG3 on Thu 17 Dec, Glasgow. 1 artist on the bill: Ladytron. Electronica. Preview the line-up and save it on soundcheck.
+Ladytron at SWG3 on Thu 17 Dec, Glasgow. 1 artist: Ladytron. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Liturgy (solo) at Cinetol
 
-Liturgy (solo) at Cinetol on Tue 24 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+Liturgy (solo) at Cinetol on Tue 24 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

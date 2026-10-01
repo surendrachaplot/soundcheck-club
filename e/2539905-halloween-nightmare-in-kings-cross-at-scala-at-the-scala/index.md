@@ -1,6 +1,6 @@
 # HALLOWEEN NIGHTMARE In Kings Cross at Scala at The Scala
 
-HALLOWEEN NIGHTMARE In Kings Cross at Scala at The Scala on Thu 29 Oct, London. Preview the line-up and save it on soundcheck.
+HALLOWEEN NIGHTMARE In Kings Cross at Scala at The Scala on Thu 29 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

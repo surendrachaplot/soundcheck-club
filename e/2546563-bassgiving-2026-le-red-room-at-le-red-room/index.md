@@ -1,6 +1,6 @@
 # BASSgiving 2026 @ Le Red Room at Le Red Room
 
-BASSgiving 2026 @ Le Red Room on Sun 11 Oct, Montreal. Preview the line-up and save it on soundcheck.
+BASSgiving 2026 @ Le Red Room on Sun 11 Oct, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

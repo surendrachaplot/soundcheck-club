@@ -1,6 +1,6 @@
 # U/OFFU pres. Identified Patient (Dekmantel,Nerve Collect NL) at Aquarius Zagreb
 
-U/OFFU pres. Identified Patient (Dekmantel,Nerve Collect NL) at Aquarius Zagreb on Fri 2 Oct, Zagreb. 3 artists on the bill: Grumen, Identified Patient and Sahara Transport Services. Preview the line-up and save it on soundcheck.
+U/OFFU pres. Identified Patient (Dekmantel,Nerve Collect NL) at Aquarius Zagreb on Fri 2 Oct, Zagreb. 3 artists: Grumen, Identified Patient and Sahara Transport Services. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

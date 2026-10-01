@@ -1,6 +1,6 @@
 # HIPHOP NIGHT: QUEENS OF RAP (PROBLEMATICBLACKHOTTIE & CELEX THE DJ) at Big Pink
 
-HIPHOP NIGHT: QUEENS OF RAP (PROBLEMATICBLACKHOTTIE & CELEX THE DJ) at Big Pink on Sat 10 Oct, Detroit. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+HIPHOP NIGHT: QUEENS OF RAP (PROBLEMATICBLACKHOTTIE & CELEX THE DJ) at Big Pink on Sat 10 Oct, Detroit. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

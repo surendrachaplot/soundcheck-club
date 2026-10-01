@@ -1,8 +1,8 @@
 # Phåro (2)
 
-Phåro (2) is a Progressive House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 2 Oct 2026.
+Phåro (2) is a Progressive House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 2 Oct 2026.
 
-Phåro is a progressive house and electro artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London. Often billed alongside Reeno, Areeb Abbasi and Moonz. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 2 Oct.
+Phåro is a progressive house and electro artist based in United Kingdom, with 14 gigs on soundcheck across London. Often billed alongside Reeno, Areeb Abbasi and Moonz. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Phåro is a progressive house and electro artist based in United Kingdom, tracke
 
 ## Recently played
 
-- TBA - EAST LONDON - Announced to ticket holders on the day, London — Fri, 18 Sept 2026
-- TBA - EAST LONDON - Announced to ticket holders on the day, London — Fri, 7 Aug 2026
-- TBA - EAST LONDON - ANNOUNCED TO TICKET HOLDERS ONLY ON THE DAY, London — Fri, 3 Jul 2026
-- TBA - NORTH LONDON - Announced to ticket holders on the day, London — Fri, 12 Jun 2026
-- TBA - EAST LONDON - Announced to ticket holders on the day, London — Fri, 29 May 2026
-- Jungla London, London — Sat, 23 May 2026
-- Dalston Den, London — Fri, 8 May 2026
-- Jungla London, London — Sat, 25 Apr 2026
+- TBA - EAST LONDON - Announced to ticket holders on the day, London · Fri, 18 Sept 2026
+- TBA - EAST LONDON - Announced to ticket holders on the day, London · Fri, 7 Aug 2026
+- TBA - EAST LONDON - ANNOUNCED TO TICKET HOLDERS ONLY ON THE DAY, London · Fri, 3 Jul 2026
+- TBA - NORTH LONDON - Announced to ticket holders on the day, London · Fri, 12 Jun 2026
+- TBA - EAST LONDON - Announced to ticket holders on the day, London · Fri, 29 May 2026
+- Jungla London, London · Sat, 23 May 2026
+- Dalston Den, London · Fri, 8 May 2026
+- Jungla London, London · Sat, 25 Apr 2026
 
 ## Shares bills with
 

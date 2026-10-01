@@ -1,6 +1,6 @@
 # Kiss Facility (FR) at ALICE at ALICE
 
-Kiss Facility (FR) at ALICE on Fri 23 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+Kiss Facility (FR) at ALICE on Fri 23 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

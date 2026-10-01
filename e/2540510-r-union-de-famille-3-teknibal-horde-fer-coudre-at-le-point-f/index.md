@@ -1,6 +1,6 @@
 # Réunion de famille 3: Teknibal · Horde · Fer à Coudre at Le point fort d'Aubervilliers
 
-Réunion de famille 3: Teknibal · Horde · Fer à Coudre at Le point fort d'Aubervilliers on Sat 10 Oct, Paris. Electro. Preview the line-up and save it on soundcheck.
+Réunion de famille 3: Teknibal · Horde · Fer à Coudre at Le point fort d'Aubervilliers on Sat 10 Oct, Paris. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

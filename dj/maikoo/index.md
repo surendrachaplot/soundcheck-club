@@ -1,8 +1,8 @@
 # maikoo
 
-maikoo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at ZEROTOKYO, Tokyo on Sat, 10 Oct 2026.
+maikoo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 10 Oct 2026.
 
-maikoo is a techno and house artist based in Japan, tracked on soundcheck, with 18 sets logged across Tokyo. Often billed alongside guzenji, Ririko and Takkyu Ishino. Next up: ZEROTOKYO, Tokyo on Sat 10 Oct.
+maikoo is a techno and house artist based in Japan, with 18 gigs on soundcheck across Tokyo. Often billed alongside guzenji, Ririko and Takkyu Ishino. Next up: ZEROTOKYO, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ maikoo is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- Aiiro Cafe, Tokyo — Fri, 14 Aug 2026
-- ZEROTOKYO, Tokyo — Fri, 26 Jun 2026
-- BRAND SHIBUYA, Tokyo — Thu, 18 Jun 2026
-- Zerotokyo, Tokyo — Fri, 29 May 2026
-- Koenji Music Bar C-Studio, Tokyo — Sat, 23 May 2026
-- Zerotokyo, Tokyo — Fri, 10 Apr 2026
-- Zerotokyo, Tokyo — Sat, 28 Feb 2026
-- Zerotokyo, Tokyo — Wed, 31 Dec 2025
+- Aiiro Cafe, Tokyo · Fri, 14 Aug 2026
+- ZEROTOKYO, Tokyo · Fri, 26 Jun 2026
+- BRAND SHIBUYA, Tokyo · Thu, 18 Jun 2026
+- Zerotokyo, Tokyo · Fri, 29 May 2026
+- Koenji Music Bar C-Studio, Tokyo · Sat, 23 May 2026
+- Zerotokyo, Tokyo · Fri, 10 Apr 2026
+- Zerotokyo, Tokyo · Sat, 28 Feb 2026
+- Zerotokyo, Tokyo · Wed, 31 Dec 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Jaeko
 
-Jaeko is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mint XL, Leeds on Sat, 7 Nov 2026.
+Jaeko is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint XL, Leeds on Sat, 7 Nov 2026.
 
-Jaeko is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Leeds and London. Often billed alongside ALISHA, DXNBY and Arthh. Next up: Mint XL, Leeds on Sat 7 Nov.
+Jaeko is a house and tech house artist based in United Kingdom, with 11 gigs on soundcheck across Leeds and London. Often billed alongside ALISHA, DXNBY and Arthh. Next up: Mint XL, Leeds on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jaeko is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- fabric, London — Fri, 27 Mar 2026
-- Mint Warehouse, Leeds — Fri, 13 Mar 2026
-- Distrikt, Leeds — Thu, 20 Nov 2025
-- IF Rooftop, Leeds — Sat, 11 Oct 2025
-- Distrikt, Leeds — Fri, 10 Oct 2025
-- The Hifi Club, Leeds — Sat, 27 Sept 2025
-- Distrikt, Leeds — Fri, 29 Aug 2025
-- IF Rooftop, Leeds — Sat, 19 Jul 2025
+- fabric, London · Fri, 27 Mar 2026
+- Mint Warehouse, Leeds · Fri, 13 Mar 2026
+- Distrikt, Leeds · Thu, 20 Nov 2025
+- IF Rooftop, Leeds · Sat, 11 Oct 2025
+- Distrikt, Leeds · Fri, 10 Oct 2025
+- The Hifi Club, Leeds · Sat, 27 Sept 2025
+- Distrikt, Leeds · Fri, 29 Aug 2025
+- IF Rooftop, Leeds · Sat, 19 Jul 2025
 
 ## Shares bills with
 

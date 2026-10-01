@@ -1,6 +1,6 @@
 # Jos at 5A
 
-Jos at 5A on Sat 17 Oct, Lisbon. 1 artist on the bill: Jos. Preview the line-up and save it on soundcheck.
+Jos at 5A on Sat 17 Oct, Lisbon. 1 artist: Jos. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

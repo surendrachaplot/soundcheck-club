@@ -1,6 +1,6 @@
 # Elisco: Craig Moog & Fourth Precinct at La Cheetah Club
 
-Elisco: Craig Moog & Fourth Precinct at La Cheetah Club on Sat 3 Oct, Glasgow. 1 artist on the bill: Fourth Precinct. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Elisco: Craig Moog & Fourth Precinct at La Cheetah Club on Sat 3 Oct, Glasgow. 1 artist: Fourth Precinct. Disco and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

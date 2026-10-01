@@ -1,6 +1,6 @@
 # Bassvictim Night 2 at Cermak Hall at Radius
 
-Bassvictim Night 2 at Cermak Hall at Radius on Fri 23 Oct, Chicago. 1 artist on the bill: Bassvictim. Electro. Preview the line-up and save it on soundcheck.
+Bassvictim Night 2 at Cermak Hall at Radius on Fri 23 Oct, Chicago. 1 artist: Bassvictim. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

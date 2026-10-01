@@ -1,8 +1,8 @@
 # PNC Radio
 
-PNC Radio is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "PNC Radio: i.&.f Vol 2" on Sat, 3 Oct 2026.
+PNC Radio is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "PNC Radio: i.&.f Vol 2" on Sat, 3 Oct 2026.
 
-PNC Radio is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. C/ de Llull, 63 Sant MartÃ­, 08005 Barcelona.
+PNC Radio is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. C/ de Llull, 63 Sant MartÃ­, 08005 Barcelona.
 
 ## What's on
 

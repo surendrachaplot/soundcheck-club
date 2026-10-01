@@ -1,8 +1,8 @@
 # Prunk
 
-Prunk is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Prunk is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Prunk is a house and tech house artist based in Netherlands, tracked on soundcheck, with 308 sets logged across Amsterdam, Antwerp, Austin and Bali and 42 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Prunk is a house and tech house artist based in Netherlands, with 308 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 42 more. Often billed alongside Kellie Allen, M-High and Robbie Doherty. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Prunk is a house and tech house artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- Cova Santa, Ibiza — Tue, 29 Sept 2026
-- SWG3, Glasgow — Fri, 25 Sept 2026
-- Cova Santa, Ibiza — Tue, 22 Sept 2026
-- Bronze Beach, Amsterdam — Sat, 19 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- Shelter Amsterdam, Amsterdam — Fri, 18 Sept 2026
-- Kralingse Bos, Rotterdam — Sat, 12 Sept 2026
-- Gaswrx Birmingham, London — Sat, 12 Sept 2026
+- Cova Santa, Ibiza · Tue, 29 Sept 2026
+- SWG3, Glasgow · Fri, 25 Sept 2026
+- Cova Santa, Ibiza · Tue, 22 Sept 2026
+- Bronze Beach, Amsterdam · Sat, 19 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- Shelter Amsterdam, Amsterdam · Fri, 18 Sept 2026
+- Kralingse Bos, Rotterdam · Sat, 12 Sept 2026
+- Gaswrx Birmingham, London · Sat, 12 Sept 2026
 
 ## Shares bills with
 

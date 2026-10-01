@@ -1,6 +1,6 @@
 # Modular Expansion: Techno Soundz at 2ten
 
-Modular Expansion: Techno Soundz at 2ten on Tue 27 Oct, Athens. 4 artists on the bill: Emex, George Apergis, Sebastian Bayne and Talantösis. Techno. Preview the line-up and save it on soundcheck.
+Modular Expansion: Techno Soundz at 2ten on Tue 27 Oct, Athens. 4 artists: Emex, George Apergis, Sebastian Bayne and Talantösis. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

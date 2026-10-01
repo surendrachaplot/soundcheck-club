@@ -1,8 +1,8 @@
 # B.L.O-Ateliers
 
-B.L.O-Ateliers is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "'Dia de la rauxa', a gathering with live music in catalan" on Sat, 17 Oct 2026.
+B.L.O-Ateliers is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "'Dia de la rauxa', a gathering with live music in catalan" on Sat, 17 Oct 2026.
 
-B.L.O-Ateliers is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Kaskelstrasse 55; Berlin; 10317; Germany.
+B.L.O-Ateliers is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Kaskelstrasse 55; Berlin; 10317; Germany.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Mika Heggemann pres. Locked Club EP Release Party (RSVP only) at Phantom Bar Berlin
 
-Mika Heggemann pres. Locked Club EP Release Party (RSVP only) at Phantom Bar Berlin on Wed 7 Oct, Berlin. 8 artists on the bill: Cleopard2000, DJ GUESTLIST, Elotrance and Justin Tinderdate and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Mika Heggemann pres. Locked Club EP Release Party (RSVP only) at Phantom Bar Berlin on Wed 7 Oct, Berlin. 8 artists: Cleopard2000, DJ GUESTLIST, Elotrance and Justin Tinderdate and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

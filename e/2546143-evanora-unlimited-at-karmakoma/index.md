@@ -1,6 +1,6 @@
 # Evanora Unlimited at Karmakoma
 
-Evanora Unlimited at Karmakoma on Sat 7 Nov, Belgrade. 1 artist on the bill: Evanora Unlimited. Industrial and Electronica. Preview the line-up and save it on soundcheck.
+Evanora Unlimited at Karmakoma on Sat 7 Nov, Belgrade. 1 artist: Evanora Unlimited. Industrial and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # A Sound Place For Sound at The Model
 
-A Sound Place For Sound at The Model on Sat 24 Oct, Nottingham. Disco and Acid. Preview the line-up and save it on soundcheck.
+A Sound Place For Sound at The Model on Sat 24 Oct, Nottingham. Disco and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

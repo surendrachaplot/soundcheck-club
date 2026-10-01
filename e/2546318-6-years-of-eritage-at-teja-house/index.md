@@ -1,6 +1,6 @@
 # 6 Years of Eritage at Teja House
 
-6 Years of Eritage at Teja House on Fri 9 Oct, Lisbon. Preview the line-up and save it on soundcheck.
+6 Years of Eritage at Teja House on Fri 9 Oct, Lisbon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

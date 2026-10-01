@@ -1,6 +1,6 @@
 # NSN presents: THE CIRCUIT 003 with MAHTAL, SWANNY and more at The Classic Grand
 
-NSN presents: THE CIRCUIT 003 with MAHTAL, SWANNY and more at The Classic Grand on Fri 9 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+NSN presents: THE CIRCUIT 003 with MAHTAL, SWANNY and more at The Classic Grand on Fri 9 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

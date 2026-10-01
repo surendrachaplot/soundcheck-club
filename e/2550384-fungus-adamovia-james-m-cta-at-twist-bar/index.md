@@ -1,6 +1,6 @@
 # Fungus - Adamovia, James, Máúcta at Twist Bar
 
-Fungus - Adamovia, James, Máúcta at Twist Bar on Fri 2 Oct, Prague. 1 artist on the bill: Adamovia. Preview the line-up and save it on soundcheck.
+Fungus - Adamovia, James, Máúcta at Twist Bar on Fri 2 Oct, Prague. 1 artist: Adamovia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

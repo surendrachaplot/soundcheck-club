@@ -1,6 +1,6 @@
 # Essen ist Bass - Electronic Music Party - Oktober 2026 at Temple Bar Club Essen
 
-Essen ist Bass - Electronic Music Party - Oktober 2026 at Temple Bar Club Essen on Fri 9 Oct, Essen. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Essen ist Bass - Electronic Music Party - Oktober 2026 at Temple Bar Club Essen on Fri 9 Oct, Essen. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

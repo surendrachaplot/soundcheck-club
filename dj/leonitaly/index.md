@@ -1,8 +1,8 @@
 # Leon
 
-Leon is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
+Leon is a Tech House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Marina Bay Sands, Singapore on Fri, 9 Oct 2026.
 
-Leon is a tech house and techno artist based in Italy, tracked on soundcheck, with 65 sets logged across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Marco Carola, Kulage and Pirate Copy. Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
+Leon is a tech house and techno artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 21 more. Often billed alongside Marco Carola, Kulage and Pirate Copy. Next up: Marina Bay Sands, Singapore on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Leon is a tech house and techno artist based in Italy, tracked on soundcheck, wi
 
 ## Recently played
 
-- Pacha Ibiza, Ibiza — Fri, 25 Sept 2026
-- Time is the new space, Rotterdam — Fri, 25 Sept 2026
-- [UNVRS], Ibiza — Wed, 26 Aug 2026
-- Playa Soleil Ibiza, Ibiza — Wed, 5 Aug 2026
-- Oculist, Brighton — Sat, 1 Aug 2026
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sat, 1 Aug 2026
-- O Beach, Ibiza — Sun, 26 Jul 2026
-- Playa Soleil Ibiza, Ibiza — Wed, 15 Jul 2026
+- Pacha Ibiza, Ibiza · Fri, 25 Sept 2026
+- Time is the new space, Rotterdam · Fri, 25 Sept 2026
+- [UNVRS], Ibiza · Wed, 26 Aug 2026
+- Playa Soleil Ibiza, Ibiza · Wed, 5 Aug 2026
+- Oculist, Brighton · Sat, 1 Aug 2026
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sat, 1 Aug 2026
+- O Beach, Ibiza · Sun, 26 Jul 2026
+- Playa Soleil Ibiza, Ibiza · Wed, 15 Jul 2026
 
 ## Shares bills with
 

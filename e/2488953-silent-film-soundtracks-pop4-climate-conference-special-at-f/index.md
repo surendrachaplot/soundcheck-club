@@ -1,6 +1,6 @@
 # Silent Film Soundtracks – POP4 Climate Conference Special at Future Yard
 
-Silent Film Soundtracks – POP4 Climate Conference Special at Future Yard on Thu 19 Nov, Liverpool. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Silent Film Soundtracks – POP4 Climate Conference Special at Future Yard on Thu 19 Nov, Liverpool. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

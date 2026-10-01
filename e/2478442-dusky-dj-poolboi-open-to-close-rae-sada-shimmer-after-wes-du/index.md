@@ -1,6 +1,6 @@
 # Dusky, dj poolboi (open to close), Rae Sada, shimmer: After Wes, dunne, fruitgrl, softsky at Elsewhere
 
-Dusky, dj poolboi (open to close), Rae Sada, shimmer: After Wes, dunne, fruitgrl, softsky at Elsewhere on Fri 2 Oct, New York City. 3 artists on the bill: dj poolboi, Dusky and softsky. Preview the line-up and save it on soundcheck.
+Dusky, dj poolboi (open to close), Rae Sada, shimmer: After Wes, dunne, fruitgrl, softsky at Elsewhere on Fri 2 Oct, New York City. 3 artists: dj poolboi, Dusky and softsky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

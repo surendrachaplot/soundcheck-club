@@ -1,6 +1,6 @@
 # wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin
 
-wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 18 Oct, Berlin. 1 artist on the bill: Ozzwald. Trance and Techno. Preview the line-up and save it on soundcheck.
+wieder: BOILER ROOM SETUP + MARKETPLACE at Lokschuppen Berlin on Sun 18 Oct, Berlin. 1 artist: Ozzwald. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

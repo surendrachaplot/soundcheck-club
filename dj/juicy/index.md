@@ -1,8 +1,8 @@
 # juicy
 
-juicy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Planet Wax, London on Sat, 31 Oct 2026.
+juicy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Sat, 31 Oct 2026.
 
-juicy is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across Berlin, Brussels, Detroit and Lisbon and 4 more. Often billed alongside Disc Jockey George, JMT and JUICY (DE). Next up: Planet Wax, London on Sat 31 Oct.
+juicy is a house and techno artist based in United States of America, with 18 gigs on soundcheck across Berlin, Brussels, Detroit and Lisbon and 4 more. Often billed alongside Disc Jockey George, JMT and JUICY (DE). Next up: Planet Wax, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ juicy is a house and techno artist based in United States of America, tracked on
 
 ## Recently played
 
-- Elektricity, Detroit — Fri, 18 Sept 2026
-- ÆDEN, Berlin — Fri, 31 Jul 2026
-- Renate, Berlin — Thu, 9 Jul 2026
-- Illegaal, Brussels — Sat, 4 Jul 2026
-- NADA Lisbon, Lisbon — Fri, 14 Feb 2025
-- Bossa Nova Civic Club, New York City — Fri, 10 Jan 2025
-- TV Lounge, Detroit — Sat, 26 Oct 2024
-- Tangent Gallery, Detroit — Sat, 27 Jul 2024
+- Elektricity, Detroit · Fri, 18 Sept 2026
+- ÆDEN, Berlin · Fri, 31 Jul 2026
+- Renate, Berlin · Thu, 9 Jul 2026
+- Illegaal, Brussels · Sat, 4 Jul 2026
+- NADA Lisbon, Lisbon · Fri, 14 Feb 2025
+- Bossa Nova Civic Club, New York City · Fri, 10 Jan 2025
+- TV Lounge, Detroit · Sat, 26 Oct 2024
+- Tangent Gallery, Detroit · Sat, 27 Jul 2024
 
 ## Shares bills with
 

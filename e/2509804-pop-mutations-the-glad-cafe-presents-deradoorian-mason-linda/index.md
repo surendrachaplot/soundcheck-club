@@ -1,6 +1,6 @@
 # Pop Mutations & The Glad Cafe presents: Deradoorian + Mason Lindahl at The Glad Cafe
 
-Pop Mutations & The Glad Cafe presents: Deradoorian + Mason Lindahl on Sat 24 Oct, Glasgow. Electronica. Preview the line-up and save it on soundcheck.
+Pop Mutations & The Glad Cafe presents: Deradoorian + Mason Lindahl on Sat 24 Oct, Glasgow. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

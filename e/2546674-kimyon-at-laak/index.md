@@ -1,6 +1,6 @@
 # KIMYON at Laak
 
-KIMYON at Laak on Fri 16 Oct, The Hague. Techno and House. Preview the line-up and save it on soundcheck.
+KIMYON at Laak on Fri 16 Oct, The Hague. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # INFRAMUNDIO II at Atlantic Sound
 
-INFRAMUNDIO II at Atlantic Sound on Fri 23 Oct, Barcelona. 3 artists on the bill: gitano del futuro, santyyyyyya and Yu Kawabata. Techno. Preview the line-up and save it on soundcheck.
+INFRAMUNDIO II at Atlantic Sound on Fri 23 Oct, Barcelona. 3 artists: gitano del futuro, santyyyyyya and Yu Kawabata. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

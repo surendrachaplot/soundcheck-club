@@ -1,6 +1,6 @@
 # UNDERHAT - MAIN ROOM at City Hall
 
-UNDERHAT - MAIN ROOM at City Hall on Wed 28 Oct, Barcelona. Hard Drum. Preview the line-up and save it on soundcheck.
+UNDERHAT - MAIN ROOM at City Hall on Wed 28 Oct, Barcelona. Hard Drum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

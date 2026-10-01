@@ -1,6 +1,6 @@
 # DAHLIA STEREO HALLOWEEN with COCO MARÍA at Dahlia Stereo
 
-DAHLIA STEREO HALLOWEEN with COCO MARÍA at Dahlia Stereo on Sat 31 Oct, Manchester. 1 artist on the bill: Coco Maria. House and Latin Bass. Preview the line-up and save it on soundcheck.
+DAHLIA STEREO HALLOWEEN with COCO MARÍA at Dahlia Stereo on Sat 31 Oct, Manchester. 1 artist: Coco Maria. House and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

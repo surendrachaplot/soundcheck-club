@@ -1,6 +1,6 @@
 # La Barra 88 presenta Boom Merchant at La Barra 88
 
-La Barra 88 presenta Boom Merchant on Thu 1 Oct, Mexico City. 1 artist on the bill: Boom Merchant. Techno and House. Preview the line-up and save it on soundcheck.
+La Barra 88 presenta Boom Merchant on Thu 1 Oct, Mexico City. 1 artist: Boom Merchant. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

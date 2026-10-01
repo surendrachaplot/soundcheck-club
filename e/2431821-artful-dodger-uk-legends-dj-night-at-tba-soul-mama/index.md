@@ -1,6 +1,6 @@
 # Artful Dodger - UK Legends DJ Night at TBA - Soul Mama
 
-Artful Dodger - UK Legends DJ Night at TBA - Soul Mama on Sat 10 Oct, London. House and Garage. Preview the line-up and save it on soundcheck.
+Artful Dodger - UK Legends DJ Night at TBA - Soul Mama on Sat 10 Oct, London. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

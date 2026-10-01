@@ -1,6 +1,6 @@
 # Percolate presents Benwal at M.O.T
 
-Percolate presents Benwal at M.O.T on Sat 17 Oct, London. 3 artists on the bill: Benwal, Oh See and Osmaan. Trance and Garage. Preview the line-up and save it on soundcheck.
+Percolate presents Benwal at M.O.T on Sat 17 Oct, London. 3 artists: Benwal, Oh See and Osmaan. Trance and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

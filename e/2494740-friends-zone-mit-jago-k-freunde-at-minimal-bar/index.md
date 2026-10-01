@@ -1,6 +1,6 @@
 # friends.zone mit Jago K. & Freunde at Minimal Bar
 
-friends.zone mit Jago K. & Freunde at Minimal Bar on Sat 17 Oct, Berlin. Preview the line-up and save it on soundcheck.
+friends.zone mit Jago K. & Freunde at Minimal Bar on Sat 17 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

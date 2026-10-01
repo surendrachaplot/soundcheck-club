@@ -1,6 +1,6 @@
 # Fischio presents Caraluce at Fischio
 
-Fischio presents Caraluce on Sat 3 Oct, Rome. Preview the line-up and save it on soundcheck.
+Fischio presents Caraluce on Sat 3 Oct, Rome. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

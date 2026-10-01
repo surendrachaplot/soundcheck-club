@@ -1,8 +1,8 @@
 # Susumu Yokota
 
-Susumu Yokota is a Electronica and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Polygon Portal, London on Thu, 15 Oct 2026.
+Susumu Yokota is a Electronica and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Polygon Portal, London on Thu, 15 Oct 2026.
 
-Susumu Yokota is an electronica and ambient artist based in Japan, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin, Buenos Aires and Denver and 11 more. Next up: Polygon Portal, London on Thu 15 Oct.
+Susumu Yokota is an electronica and ambient artist based in Japan, with 29 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Denver and 11 more. Next up: Polygon Portal, London on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Susumu Yokota is an electronica and ambient artist based in Japan, tracked on so
 
 ## Recently played
 
-- Rhinoçéros, Berlin — Mon, 23 Feb 2026
-- Idle Moments, London — Sat, 21 Feb 2026
-- Head Hifi, New York City — Thu, 19 Feb 2026
-- Hosoi, Stockholm — Thu, 12 Feb 2026
-- Tokyo Music Bar, Mexico City — Tue, 10 Feb 2026
-- Dade, Osaka — Tue, 10 Feb 2026
-- Gold Line, Los Angeles — Mon, 9 Feb 2026
-- Curtis Audio Cafe, Barcelona — Sun, 8 Feb 2026
+- Rhinoçéros, Berlin · Mon, 23 Feb 2026
+- Idle Moments, London · Sat, 21 Feb 2026
+- Head Hifi, New York City · Thu, 19 Feb 2026
+- Hosoi, Stockholm · Thu, 12 Feb 2026
+- Tokyo Music Bar, Mexico City · Tue, 10 Feb 2026
+- Dade, Osaka · Tue, 10 Feb 2026
+- Gold Line, Los Angeles · Mon, 9 Feb 2026
+- Curtis Audio Cafe, Barcelona · Sun, 8 Feb 2026
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/susumuyokota/)*

@@ -1,8 +1,8 @@
 # Lino Fuso
 
-Lino Fuso is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at E1, London on Fri, 23 Oct 2026.
+Lino Fuso is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Fri, 23 Oct 2026.
 
-Lino Fuso is a techno and tech house artist based in Italy, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Cambric, Alex Sharp and ADRIANNA. Next up: E1, London on Fri 23 Oct.
+Lino Fuso is a techno and tech house artist based in Italy, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 8 more. Often billed alongside Cambric, Alex Sharp and ADRIANNA. Next up: E1, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Lino Fuso is a techno and tech house artist based in Italy, tracked on soundchec
 
 ## Recently played
 
-- Flava Beach, Naples — Sat, 5 Sept 2026
-- Weekend, Berlin — Fri, 17 Jul 2026
-- INPUT High Fidelity Dance Club, Barcelona — Fri, 3 Jul 2026
-- E1, London — Sat, 27 Jun 2026
-- TBA - THE HUB Carrer N'amargos 11 Barcelona, Barcelona — Fri, 19 Jun 2026
-- TBA - THE HUB Carrer N'amargos 11 Barcelona, Barcelona — Thu, 18 Jun 2026
-- TBA -  THE HUB Carrer N'amargos 11 Barcelona, Barcelona — Thu, 18 Jun 2026
-- Colors club, Barcelona — Thu, 18 Jun 2026
+- Flava Beach, Naples · Sat, 5 Sept 2026
+- Weekend, Berlin · Fri, 17 Jul 2026
+- INPUT High Fidelity Dance Club, Barcelona · Fri, 3 Jul 2026
+- E1, London · Sat, 27 Jun 2026
+- TBA - THE HUB Carrer N'amargos 11 Barcelona, Barcelona · Fri, 19 Jun 2026
+- TBA - THE HUB Carrer N'amargos 11 Barcelona, Barcelona · Thu, 18 Jun 2026
+- TBA -  THE HUB Carrer N'amargos 11 Barcelona, Barcelona · Thu, 18 Jun 2026
+- Colors club, Barcelona · Thu, 18 Jun 2026
 
 ## Shares bills with
 

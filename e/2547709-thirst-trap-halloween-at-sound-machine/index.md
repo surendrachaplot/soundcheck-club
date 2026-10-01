@@ -1,6 +1,6 @@
 # Thirst Trap: Halloween at Sound Machine
 
-Thirst Trap: Halloween at Sound Machine on Fri 23 Oct, Toronto. House and Tech House. Preview the line-up and save it on soundcheck.
+Thirst Trap: Halloween at Sound Machine on Fri 23 Oct, Toronto. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

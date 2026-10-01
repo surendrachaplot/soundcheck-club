@@ -1,6 +1,6 @@
 # LEAFY + more at Le Red Room
 
-LEAFY + more at Le Red Room on Sat 17 Oct, Montreal. Dubstep. Preview the line-up and save it on soundcheck.
+LEAFY + more at Le Red Room on Sat 17 Oct, Montreal. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

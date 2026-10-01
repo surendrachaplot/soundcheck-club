@@ -1,8 +1,8 @@
 # TBA - Baergarten
 
-TBA - Baergarten is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "PONGHOUSE" on Sun, 11 Oct 2026.
+TBA - Baergarten is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "PONGHOUSE" on Sun, 11 Oct 2026.
 
-TBA - Baergarten is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Hanebüchener. Browse upcoming dates, start times and who's playing.
+TBA - Baergarten is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Hanebüchener. See dates, start times and who's playing.
 
 ## What's on
 

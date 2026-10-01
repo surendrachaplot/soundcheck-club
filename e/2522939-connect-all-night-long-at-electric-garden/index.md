@@ -1,6 +1,6 @@
 # CONNECT - ALL NIGHT LONG at Electric Garden
 
-CONNECT - ALL NIGHT LONG at Electric Garden on Sat 10 Oct, Dublin. Techno. Preview the line-up and save it on soundcheck.
+CONNECT - ALL NIGHT LONG at Electric Garden on Sat 10 Oct, Dublin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

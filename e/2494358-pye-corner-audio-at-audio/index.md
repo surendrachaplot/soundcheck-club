@@ -1,6 +1,6 @@
 # Pye Corner Audio at Audio
 
-Pye Corner Audio on Fri 20 Nov, Glasgow. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Pye Corner Audio on Fri 20 Nov, Glasgow. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

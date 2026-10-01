@@ -1,8 +1,8 @@
 # Mama Roux
 
-Mama Roux is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "PhaseUp + FRIENDS (With Special Guests)" on Sat, 10 Oct 2026.
+Mama Roux is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PhaseUp + FRIENDS (With Special Guests)" on Sat, 10 Oct 2026.
 
-Mama Roux is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including FIRZA, Goosey and Lew Reilly. Browse upcoming dates, start times and who's playing. 23 Lower Trinity St, Birmingham B9 4AG, United Kingdom.
+Mama Roux is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including FIRZA, Goosey and Lew Reilly. See dates, start times and who's playing. 23 Lower Trinity St, Birmingham B9 4AG, United Kingdom.
 
 ## What's on
 

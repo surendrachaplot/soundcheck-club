@@ -1,6 +1,6 @@
 # Error.tpg @ Petit Cab at Petit CAB
 
-Error.tpg @ Petit Cab at Petit CAB on Fri 30 Oct, Marseille. Preview the line-up and save it on soundcheck.
+Error.tpg @ Petit Cab at Petit CAB on Fri 30 Oct, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

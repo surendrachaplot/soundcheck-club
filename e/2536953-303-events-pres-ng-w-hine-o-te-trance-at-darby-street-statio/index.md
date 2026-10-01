@@ -1,6 +1,6 @@
 # 303 Events Pres. Ngā Wāhine O Te Trance at Darby Street Station
 
-303 Events Pres. Ngā Wāhine O Te Trance at Darby Street Station on Fri 9 Oct, Auckland. Trance and Techno. Preview the line-up and save it on soundcheck.
+303 Events Pres. Ngā Wāhine O Te Trance at Darby Street Station on Fri 9 Oct, Auckland. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

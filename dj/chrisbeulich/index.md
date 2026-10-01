@@ -1,8 +1,8 @@
 # Chris Beulich
 
-Chris Beulich is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
+Chris Beulich is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
 
-Chris Beulich is a house and tech house artist tracked on soundcheck, with 63 sets logged across Berlin, Frankfurt, Hamburg and London and 1 more. Often billed alongside Boutiq.808, Chris Wood and Max Reggiannini. Next up: Tokonoma Club, Frankfurt on Fri 2 Oct.
+Chris Beulich is a house and tech house artist, with 63 gigs on soundcheck across Berlin, Frankfurt, Hamburg and London and 1 more. Often billed alongside Boutiq.808, Chris Wood and Max Reggiannini. Next up: Tokonoma Club, Frankfurt on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Chris Beulich is a house and tech house artist tracked on soundcheck, with 63 se
 
 ## Recently played
 
-- Golden Gate, Berlin — Fri, 28 Aug 2026
-- Silbergold, Frankfurt — Sat, 22 Aug 2026
-- TBA, Frankfurt — Sat, 4 Jul 2026
-- PRST, Vienna — Sat, 20 Jun 2026
-- Pracht, Frankfurt — Fri, 12 Jun 2026
-- OXI, Berlin — Fri, 1 May 2026
-- Silbergold, Frankfurt — Sat, 25 Apr 2026
-- Silbergold, Frankfurt — Fri, 13 Feb 2026
+- Golden Gate, Berlin · Fri, 28 Aug 2026
+- Silbergold, Frankfurt · Sat, 22 Aug 2026
+- TBA, Frankfurt · Sat, 4 Jul 2026
+- PRST, Vienna · Sat, 20 Jun 2026
+- Pracht, Frankfurt · Fri, 12 Jun 2026
+- OXI, Berlin · Fri, 1 May 2026
+- Silbergold, Frankfurt · Sat, 25 Apr 2026
+- Silbergold, Frankfurt · Fri, 13 Feb 2026
 
 ## Shares bills with
 

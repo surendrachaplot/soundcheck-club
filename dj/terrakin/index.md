@@ -1,8 +1,8 @@
 # Terrakin
 
-Terrakin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Waterhouse Studios, Amsterdam on Sat, 3 Oct 2026.
+Terrakin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 3 Oct 2026.
 
-Terrakin is a house and techno artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin and Glasgow. Often billed alongside Vinz Sosa, annalogue and Freddy. Next up: Waterhouse Studios, Amsterdam on Sat 3 Oct.
+Terrakin is a house and techno artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Berlin and Glasgow. Often billed alongside Vinz Sosa, annalogue and Freddy. Next up: Waterhouse Studios, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Terrakin is a house and techno artist based in Netherlands, tracked on soundchec
 
 ## Recently played
 
-- nachbar, Amsterdam — Fri, 18 Sept 2026
-- TILLATEC, Amsterdam — Sat, 29 Aug 2026
-- TILLATEC, Amsterdam — Sat, 11 Jul 2026
-- Radio Radio, Amsterdam — Sun, 22 Mar 2026
-- Tresor / Globus, Berlin — Wed, 18 Mar 2026
-- nachbar, Amsterdam — Sat, 3 Jan 2026
-- Bar Dancing Multipla, Amsterdam — Sun, 28 Dec 2025
-- Bar Dancing Multipla, Amsterdam — Sun, 7 Dec 2025
+- nachbar, Amsterdam · Fri, 18 Sept 2026
+- TILLATEC, Amsterdam · Sat, 29 Aug 2026
+- TILLATEC, Amsterdam · Sat, 11 Jul 2026
+- Radio Radio, Amsterdam · Sun, 22 Mar 2026
+- Tresor / Globus, Berlin · Wed, 18 Mar 2026
+- nachbar, Amsterdam · Sat, 3 Jan 2026
+- Bar Dancing Multipla, Amsterdam · Sun, 28 Dec 2025
+- Bar Dancing Multipla, Amsterdam · Sun, 7 Dec 2025
 
 ## Shares bills with
 

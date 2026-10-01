@@ -1,6 +1,6 @@
 # Helios 5Y at Hall
 
-Helios 5Y at Hall on Fri 6 Nov, Tallinn. 3 artists on the bill: klmn, Pavliuk and Tanel Mütt. Techno and House. Preview the line-up and save it on soundcheck.
+Helios 5Y at Hall on Fri 6 Nov, Tallinn. 3 artists: klmn, Pavliuk and Tanel Mütt. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mind Bath presents Aqueous [Live] at Burdock
 
-Mind Bath presents Aqueous [Live] at Burdock on Fri 2 Oct, Toronto. Preview the line-up and save it on soundcheck.
+Mind Bath presents Aqueous [Live] at Burdock on Fri 2 Oct, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

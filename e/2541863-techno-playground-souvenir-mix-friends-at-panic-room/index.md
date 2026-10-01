@@ -1,6 +1,6 @@
 # TECHNO PLAYGROUND - Souvenir.Mix & friends at Panic Room
 
-TECHNO PLAYGROUND - Souvenir.Mix & friends at Panic Room on Sat 10 Oct, Paris. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO PLAYGROUND - Souvenir.Mix & friends at Panic Room on Sat 10 Oct, Paris. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SynthFest UK 2026 at Octagon Centre
 
-SynthFest UK 2026 at Octagon Centre on Sat 24 Oct, Sheffield. Preview the line-up and save it on soundcheck.
+SynthFest UK 2026 at Octagon Centre on Sat 24 Oct, Sheffield. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

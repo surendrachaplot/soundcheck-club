@@ -1,6 +1,6 @@
 # Amplify at Lakota
 
-Amplify at Lakota on Fri 2 Oct, Bristol. Drum & Bass. Preview the line-up and save it on soundcheck.
+Amplify at Lakota on Fri 2 Oct, Bristol. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

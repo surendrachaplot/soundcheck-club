@@ -1,8 +1,8 @@
 # Market Hotel
 
-Market Hotel is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "GFOTY takes over NYC" on Fri, 9 Oct 2026.
+Market Hotel is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "GFOTY takes over NYC" on Fri, 9 Oct 2026.
 
-Market Hotel is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Thank You, DR. GABBA, GFOTY and HONEY B and 2 more. Browse upcoming dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
+Market Hotel is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including DJ Thank You, DR. GABBA, GFOTY and HONEY B and 2 more. See dates, start times and who's playing. 1140 Myrtle Avenue; Brooklyn, NY 11206; United States.
 
 ## What's on
 

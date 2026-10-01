@@ -1,6 +1,6 @@
 # Automata 02 Drum & Bass 22JAN - Metrik & Circadian - Barcelona at Sala Dresden
 
-Automata 02 Drum & Bass 22JAN - Metrik & Circadian - Barcelona at Sala Dresden on Fri 22 Jan, Barcelona. 2 artists on the bill: Circadian and Metrik. Preview the line-up and save it on soundcheck.
+Automata 02 Drum & Bass 22JAN - Metrik & Circadian - Barcelona at Sala Dresden on Fri 22 Jan, Barcelona. 2 artists: Circadian and Metrik. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

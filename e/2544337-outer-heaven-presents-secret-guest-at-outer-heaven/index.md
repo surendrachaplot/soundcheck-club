@@ -1,6 +1,6 @@
 # Outer Heaven presents: Secret Guest at Outer Heaven
 
-Outer Heaven presents: Secret Guest on Fri 6 Nov, New York City. House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Secret Guest on Fri 6 Nov, New York City. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

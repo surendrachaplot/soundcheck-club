@@ -1,6 +1,6 @@
 # Me Gusta Collective presents T.NO at The DBA
 
-Me Gusta Collective presents T.NO at The DBA on Sat 28 Nov, Manchester. 3 artists on the bill: Atiké, Obeka and T.NO. Baile Funk and Afro Tech. Preview the line-up and save it on soundcheck.
+Me Gusta Collective presents T.NO at The DBA on Sat 28 Nov, Manchester. 3 artists: Atiké, Obeka and T.NO. Baile Funk and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

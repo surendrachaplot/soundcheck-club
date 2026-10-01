@@ -1,8 +1,8 @@
 # Stckman
 
-Stckman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
+Stckman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 31 Oct 2026.
 
-Stckman is a house and techno artist based in Portugal, tracked on soundcheck, with 48 sets logged across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Guigas, ozmin and Raphael Carrau. Next up: NUMBER 90 LONDON, London on Sat 31 Oct.
+Stckman is a house and techno artist based in Portugal, with 48 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 4 more. Often billed alongside Guigas, ozmin and Raphael Carrau. Next up: NUMBER 90 LONDON, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Stckman is a house and techno artist based in Portugal, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA, Lisbon — Sat, 26 Sept 2026
-- TBA - Comporta, Lisbon — Sat, 1 Aug 2026
-- The Glove That Fits, London — Sat, 18 Jul 2026
-- Last Arch, London — Sun, 12 Jul 2026
-- Myra, Lisbon — Sat, 27 Jun 2026
-- Secret Location, London — Fri, 29 May 2026
-- Passos Manuel, Porto — Sat, 16 May 2026
-- FOLD, London — Sat, 25 Apr 2026
+- TBA, Lisbon · Sat, 26 Sept 2026
+- TBA - Comporta, Lisbon · Sat, 1 Aug 2026
+- The Glove That Fits, London · Sat, 18 Jul 2026
+- Last Arch, London · Sun, 12 Jul 2026
+- Myra, Lisbon · Sat, 27 Jun 2026
+- Secret Location, London · Fri, 29 May 2026
+- Passos Manuel, Porto · Sat, 16 May 2026
+- FOLD, London · Sat, 25 Apr 2026
 
 ## Shares bills with
 

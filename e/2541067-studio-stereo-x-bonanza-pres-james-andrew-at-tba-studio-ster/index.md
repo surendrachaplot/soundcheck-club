@@ -1,6 +1,6 @@
 # Studio Stereo x Bonanza pres. James Andrew at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Bonanza pres. James Andrew at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sun 11 Oct, Barcelona. 5 artists on the bill: Adrian Grösser, Brizas, Derovio and James Andrew and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Bonanza pres. James Andrew at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sun 11 Oct, Barcelona. 5 artists: Adrian Grösser, Brizas, Derovio and James Andrew and 1 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

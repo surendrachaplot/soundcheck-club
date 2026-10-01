@@ -1,6 +1,6 @@
 # Ancient OM & Psychedelic Babylon: Dacru Records 25 Years with TALAMASCA (FR) & DIGICULT (BE) at Sainte-Catherine Hall
 
-Ancient OM & Psychedelic Babylon: Dacru Records 25 Years with TALAMASCA (FR) & DIGICULT (BE) at Sainte-Catherine Hall on Sat 3 Oct, Montreal. Psytrance and Minimal Techno. Preview the line-up and save it on soundcheck.
+Ancient OM & Psychedelic Babylon: Dacru Records 25 Years with TALAMASCA (FR) & DIGICULT (BE) at Sainte-Catherine Hall on Sat 3 Oct, Montreal. Psytrance and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

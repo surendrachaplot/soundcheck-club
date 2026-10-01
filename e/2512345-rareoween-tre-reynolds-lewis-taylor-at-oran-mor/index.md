@@ -1,6 +1,6 @@
 # RAREOWEEN // Tre Reynolds + Lewis Taylor at Oran Mor
 
-RAREOWEEN // Tre Reynolds + Lewis Taylor at Oran Mor on Sat 31 Oct, Glasgow. 3 artists on the bill: gau7t, Lewis Taylor and Tre Reynolds. House and Tech House. Preview the line-up and save it on soundcheck.
+RAREOWEEN // Tre Reynolds + Lewis Taylor at Oran Mor on Sat 31 Oct, Glasgow. 3 artists: gau7t, Lewis Taylor and Tre Reynolds. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

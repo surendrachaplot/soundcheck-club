@@ -1,6 +1,6 @@
 # Magichour 2026 at Marina&grill
 
-Magichour 2026 at Marina&grill on Sat 24 Oct, Tokyo. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Magichour 2026 at Marina&grill on Sat 24 Oct, Tokyo. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

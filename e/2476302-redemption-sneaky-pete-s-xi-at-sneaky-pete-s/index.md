@@ -1,6 +1,6 @@
 # REDEMPTION // Sneaky Pete's XI at Sneaky Pete's
 
-REDEMPTION // Sneaky Pete's XI on Wed 25 Nov, Edinburgh. House and Tech House. Preview the line-up and save it on soundcheck.
+REDEMPTION // Sneaky Pete's XI on Wed 25 Nov, Edinburgh. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rabent at Moog Club
 
-Rabent at Moog Club on Fri 2 Oct, Barcelona. 1 artist on the bill: Rabent. Techno. Preview the line-up and save it on soundcheck.
+Rabent at Moog Club on Fri 2 Oct, Barcelona. 1 artist: Rabent. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Suay Aenna & Friends at Locke
 
-Suay Aenna & Friends at Locke on Sat 3 Oct, Hamburg. 1 artist on the bill: Suay Aenna. Preview the line-up and save it on soundcheck.
+Suay Aenna & Friends at Locke on Sat 3 Oct, Hamburg. 1 artist: Suay Aenna. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

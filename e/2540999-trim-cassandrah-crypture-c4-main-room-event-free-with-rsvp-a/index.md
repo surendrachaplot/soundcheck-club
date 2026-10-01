@@ -1,6 +1,6 @@
 # TRIM: cassandrah / Crypture / C4 (Main Room Event, Free with RSVP) at SILO
 
-TRIM: cassandrah / Crypture / C4 (Main Room Event, Free with RSVP) at SILO on Thu 15 Oct, New York City. 2 artists on the bill: C4 and cassandrah. Techno and Industrial. Preview the line-up and save it on soundcheck.
+TRIM: cassandrah / Crypture / C4 (Main Room Event, Free with RSVP) at SILO on Thu 15 Oct, New York City. 2 artists: C4 and cassandrah. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

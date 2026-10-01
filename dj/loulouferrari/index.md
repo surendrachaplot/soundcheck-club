@@ -1,8 +1,8 @@
 # Loulou Ferrari
 
-Loulou Ferrari is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sacré, Paris on Sat, 7 Nov 2026.
+Loulou Ferrari is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sacré, Paris on Sat, 7 Nov 2026.
 
-Loulou Ferrari is a house and deep house artist based in France, tracked on soundcheck, with 62 sets logged across Berlin, Brussels, Geneva and Istanbul and 5 more. Often billed alongside EG, Emma B and Ams (FR). Next up: Sacré, Paris on Sat 7 Nov.
+Loulou Ferrari is a house and deep house artist based in France, with 62 gigs on soundcheck across Berlin, Brussels, Geneva and Istanbul and 5 more. Often billed alongside EG, Emma B and Ams (FR). Next up: Sacré, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Loulou Ferrari is a house and deep house artist based in France, tracked on soun
 
 ## Recently played
 
-- UMI, Brussels — Fri, 18 Sept 2026
-- La Péniche Cinéma, Paris — Fri, 31 Jul 2026
-- La Gare / Le Gore, Paris — Sat, 25 Jul 2026
-- La Gare / Le Gore, Paris — Fri, 24 Jul 2026
-- La Cité Fertile, Paris — Sat, 18 Jul 2026
-- Audio Club, Geneva — Sat, 13 Jun 2026
-- Departamento, Mexico City — Wed, 15 Apr 2026
-- Drama Radio Bar, Mexico City — Tue, 14 Apr 2026
+- UMI, Brussels · Fri, 18 Sept 2026
+- La Péniche Cinéma, Paris · Fri, 31 Jul 2026
+- La Gare / Le Gore, Paris · Sat, 25 Jul 2026
+- La Gare / Le Gore, Paris · Fri, 24 Jul 2026
+- La Cité Fertile, Paris · Sat, 18 Jul 2026
+- Audio Club, Geneva · Sat, 13 Jun 2026
+- Departamento, Mexico City · Wed, 15 Apr 2026
+- Drama Radio Bar, Mexico City · Tue, 14 Apr 2026
 
 ## Shares bills with
 

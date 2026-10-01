@@ -1,6 +1,6 @@
 # Hyperactive World | TeeDee + more | DAY & NIGHT at SWG3
 
-Hyperactive World | TeeDee + more | DAY & NIGHT at SWG3 on Sun 29 Nov, Glasgow. House. Preview the line-up and save it on soundcheck.
+Hyperactive World | TeeDee + more | DAY & NIGHT at SWG3 on Sun 29 Nov, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

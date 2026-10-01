@@ -1,6 +1,6 @@
 # Symbiosis at PKH Warehouse
 
-Symbiosis at PKH Warehouse on Sat 21 Nov, Berlin. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Symbiosis at PKH Warehouse on Sat 21 Nov, Berlin. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

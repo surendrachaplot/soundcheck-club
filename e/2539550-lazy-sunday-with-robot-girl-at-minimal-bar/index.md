@@ -1,6 +1,6 @@
 # Lazy.Sunday with Robot Girl at Minimal Bar
 
-Lazy.Sunday with Robot Girl at Minimal Bar on Sun 13 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Lazy.Sunday with Robot Girl at Minimal Bar on Sun 13 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

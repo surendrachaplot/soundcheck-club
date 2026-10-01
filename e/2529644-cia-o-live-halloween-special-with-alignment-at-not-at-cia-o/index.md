@@ -1,6 +1,6 @@
 # Ciało live: Halloween Special with Alignment at NOT at Ciało
 
-Ciało live: Halloween Special with Alignment at NOT on Sat 31 Oct, Wroclaw. 3 artists on the bill: Alignment, Dizzy (PL) and Kuriozum. Preview the line-up and save it on soundcheck.
+Ciało live: Halloween Special with Alignment at NOT on Sat 31 Oct, Wroclaw. 3 artists: Alignment, Dizzy (PL) and Kuriozum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

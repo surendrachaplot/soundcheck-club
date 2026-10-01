@@ -1,6 +1,6 @@
 # Julio Avila Cuban Band at The American
 
-Julio Avila Cuban Band at The American on Sat 17 Oct, Vancouver. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Julio Avila Cuban Band at The American on Sat 17 Oct, Vancouver. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RRRKRTA SHIZKA Lil Mofo at Grassroots
 
-RRRKRTA SHIZKA Lil Mofo at Grassroots on Mon 2 Nov, Tokyo. 3 artists on the bill: Lil Mofo, RRRKRTA and SHIZKA. Techno and House. Preview the line-up and save it on soundcheck.
+RRRKRTA SHIZKA Lil Mofo at Grassroots on Mon 2 Nov, Tokyo. 3 artists: Lil Mofo, RRRKRTA and SHIZKA. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

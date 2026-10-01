@@ -1,6 +1,6 @@
 # Another Day at Stormkop
 
-Another Day at Stormkop on Sat 31 Oct, Antwerp. 2 artists on the bill: Cröak and Oko Stellar. House and Disco. Preview the line-up and save it on soundcheck.
+Another Day at Stormkop on Sat 31 Oct, Antwerp. 2 artists: Cröak and Oko Stellar. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

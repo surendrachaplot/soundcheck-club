@@ -1,6 +1,6 @@
 # Clubnight - Neighbourhood, Recaved at Open Ground
 
-Clubnight - Neighbourhood, Recaved at Open Ground on Sat 14 Nov, Wuppertal. Preview the line-up and save it on soundcheck.
+Clubnight - Neighbourhood, Recaved at Open Ground on Sat 14 Nov, Wuppertal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

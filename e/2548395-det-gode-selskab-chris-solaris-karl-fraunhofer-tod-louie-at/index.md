@@ -1,6 +1,6 @@
 # Det Gode Selskab: Chris Solaris + Karl Fraunhofer + Tod Louie at Jaeger
 
-Det Gode Selskab: Chris Solaris + Karl Fraunhofer + Tod Louie at Jaeger on Sat 3 Oct, Oslo. 3 artists on the bill: Chris Solaris, Karl Fraunhofer and Tod Louie. Preview the line-up and save it on soundcheck.
+Det Gode Selskab: Chris Solaris + Karl Fraunhofer + Tod Louie at Jaeger on Sat 3 Oct, Oslo. 3 artists: Chris Solaris, Karl Fraunhofer and Tod Louie. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

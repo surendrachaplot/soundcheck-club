@@ -1,6 +1,6 @@
 # Andi + James Anthony at Gabriela
 
-Andi + James Anthony at Gabriela on Fri 2 Oct, New York City. 1 artist on the bill: Andi. House and New Wave. Preview the line-up and save it on soundcheck.
+Andi + James Anthony at Gabriela on Fri 2 Oct, New York City. 1 artist: Andi. House and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

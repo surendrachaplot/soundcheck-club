@@ -1,6 +1,6 @@
 # BIJOU x LIMINAL at The Barbary
 
-BIJOU x LIMINAL at The Barbary on Sat 10 Oct, Philadelphia. House and Tech House. Preview the line-up and save it on soundcheck.
+BIJOU x LIMINAL at The Barbary on Sat 10 Oct, Philadelphia. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

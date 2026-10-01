@@ -1,6 +1,6 @@
 # TroyBoi at The Ruins at TBA - The Ruins American Canyon
 
-TroyBoi at The Ruins at TBA - The Ruins American Canyon on Fri 13 Nov, California. 1 artist on the bill: TroyBoi. Preview the line-up and save it on soundcheck.
+TroyBoi at The Ruins at TBA - The Ruins American Canyon on Fri 13 Nov, California. 1 artist: TroyBoi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

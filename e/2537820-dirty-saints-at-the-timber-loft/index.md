@@ -1,6 +1,6 @@
 # Dirty Saints at The Timber Loft
 
-Dirty Saints at The Timber Loft on Sun 18 Oct, London. Preview the line-up and save it on soundcheck.
+Dirty Saints at The Timber Loft on Sun 18 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # QUEENS AGAINST BORDERS — A DECADE OF EMPOWERMENT at Portal Galerie
 
-QUEENS AGAINST BORDERS — A DECADE OF EMPOWERMENT at Portal Galerie on Sat 10 Oct, Berlin. Disco and Club. Preview the line-up and save it on soundcheck.
+QUEENS AGAINST BORDERS — A DECADE OF EMPOWERMENT at Portal Galerie on Sat 10 Oct, Berlin. Disco and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

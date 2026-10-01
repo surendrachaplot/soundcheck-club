@@ -1,6 +1,6 @@
 # Leroy Se Meurt (FR) + We Are Not Brothers (SP) Synth-punk_EBM at EL SÓTANO
 
-Leroy Se Meurt (FR) + We Are Not Brothers (SP) Synth-punk_EBM at EL SÓTANO on Fri 2 Oct, Madrid. 1 artist on the bill: Leroy Se Meurt. EBM and Industrial. Preview the line-up and save it on soundcheck.
+Leroy Se Meurt (FR) + We Are Not Brothers (SP) Synth-punk_EBM at EL SÓTANO on Fri 2 Oct, Madrid. 1 artist: Leroy Se Meurt. EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

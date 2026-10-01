@@ -1,6 +1,6 @@
 # Dublon (Live) at The Grove
 
-Dublon (Live) at The Grove on Mon 9 Nov, Newcastle. House and Jazz. Preview the line-up and save it on soundcheck.
+Dublon (Live) at The Grove on Mon 9 Nov, Newcastle. House and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

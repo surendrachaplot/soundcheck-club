@@ -1,6 +1,6 @@
 # Klubnacht with DJ Frank, Narciss, Shumi at Gewölbe
 
-Klubnacht with DJ Frank, Narciss, Shumi at Gewölbe on Fri 9 Oct, Cologne. 3 artists on the bill: DJ Frank, Narciss and Shumi. Preview the line-up and save it on soundcheck.
+Klubnacht with DJ Frank, Narciss, Shumi at Gewölbe on Fri 9 Oct, Cologne. 3 artists: DJ Frank, Narciss and Shumi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

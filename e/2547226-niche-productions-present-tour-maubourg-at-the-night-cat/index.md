@@ -1,6 +1,6 @@
 # Niche Productions present: Tour-Maubourg at The Night Cat
 
-Niche Productions present: Tour-Maubourg at The Night Cat on Sat 17 Oct, Melbourne. 3 artists on the bill: Mothafunk, NALIITA and Tour-Maubourg. House and Deep House. Preview the line-up and save it on soundcheck.
+Niche Productions present: Tour-Maubourg at The Night Cat on Sat 17 Oct, Melbourne. 3 artists: Mothafunk, NALIITA and Tour-Maubourg. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

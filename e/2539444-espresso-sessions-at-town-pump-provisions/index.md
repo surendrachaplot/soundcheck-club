@@ -1,6 +1,6 @@
 # Espresso Sessions° at Town Pump Provisions
 
-Espresso Sessions° at Town Pump Provisions on Sat 10 Oct, Denver. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Espresso Sessions° at Town Pump Provisions on Sat 10 Oct, Denver. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

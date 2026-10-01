@@ -1,8 +1,8 @@
 # Amanda Simpson
 
-Amanda Simpson is a House and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Amanda Simpson is a House and Afro House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
-Amanda Simpson is a house and afro house artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Jack Mulqueen, Demi Riquisimo and Ksenyeah. Next up: Wollman Rink, New York City on Fri 2 Oct.
+Amanda Simpson is a house and afro house artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Jack Mulqueen, Demi Riquisimo and Ksenyeah. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Amanda Simpson is a house and afro house artist based in United States of Americ
 
 ## Recently played
 
-- Outer Heaven, New York City — Sat, 12 Sept 2026
-- Unveiled, New York City — Sat, 4 Apr 2026
-- Unveiled, New York City — Thu, 2 Apr 2026
-- Arlo Williamsburg, New York City — Sat, 21 Feb 2026
-- Outer Heaven, New York City — Thu, 18 Dec 2025
-- The 1896, New York City — Fri, 31 Oct 2025
-- Unveiled, New York City — Sat, 25 Oct 2025
-- Apollo Studio, New York City — Sat, 4 Oct 2025
+- Outer Heaven, New York City · Sat, 12 Sept 2026
+- Unveiled, New York City · Sat, 4 Apr 2026
+- Unveiled, New York City · Thu, 2 Apr 2026
+- Arlo Williamsburg, New York City · Sat, 21 Feb 2026
+- Outer Heaven, New York City · Thu, 18 Dec 2025
+- The 1896, New York City · Fri, 31 Oct 2025
+- Unveiled, New York City · Sat, 25 Oct 2025
+- Apollo Studio, New York City · Sat, 4 Oct 2025
 
 ## Shares bills with
 

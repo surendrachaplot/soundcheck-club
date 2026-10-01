@@ -1,6 +1,6 @@
 # KOTTI, OIDA at Paloma
 
-KOTTI, OIDA at Paloma on Sat 14 Nov, Berlin. 3 artists on the bill: JP Bechamel, Miyra Lim and Reeno Reluv. House. Preview the line-up and save it on soundcheck.
+KOTTI, OIDA at Paloma on Sat 14 Nov, Berlin. 3 artists: JP Bechamel, Miyra Lim and Reeno Reluv. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

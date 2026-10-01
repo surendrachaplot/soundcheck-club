@@ -1,6 +1,6 @@
 # Deep Roit vol.2 at OIL Club
 
-Deep Roit vol.2 at OIL Club on Sun 18 Oct, Shenzhen. Techno. Preview the line-up and save it on soundcheck.
+Deep Roit vol.2 at OIL Club on Sun 18 Oct, Shenzhen. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # YOSHI KANOU
 
-YOSHI KANOU is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at HVEN, Tokyo on Mon, 9 Nov 2026.
+YOSHI KANOU is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at HVEN, Tokyo on Mon, 9 Nov 2026.
 
-YOSHI KANOU is a techno and house artist based in Japan, tracked on soundcheck, with 212 sets logged across Amsterdam, London, Seoul and Tokyo. Often billed alongside WAKA XINXI, AiMii and DJason. Next up: HVEN, Tokyo on Mon 9 Nov.
+YOSHI KANOU is a techno and house artist based in Japan, with 212 gigs on soundcheck across Amsterdam, London, Seoul and Tokyo. Often billed alongside WAKA XINXI, AiMii and DJason. Next up: HVEN, Tokyo on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ YOSHI KANOU is a techno and house artist based in Japan, tracked on soundcheck, 
 
 ## Recently played
 
-- UTOPIA / DYSTOPIA, Tokyo — Mon, 21 Sept 2026
-- UTOPIA / DYSTOPIA, Tokyo — Fri, 11 Sept 2026
-- Union Club, Vauxhall, London — Sun, 6 Sept 2026
-- UTOPIA / DYSTOPIA, Tokyo — Fri, 7 Aug 2026
-- Cidernaut, Tokyo — Sun, 2 Aug 2026
-- Dogenzaka Church, Tokyo — Tue, 28 Jul 2026
-- UTOPIA / DYSTOPIA, Tokyo — Wed, 22 Jul 2026
-- Z Maruyama, Tokyo — Sat, 18 Jul 2026
+- UTOPIA / DYSTOPIA, Tokyo · Mon, 21 Sept 2026
+- UTOPIA / DYSTOPIA, Tokyo · Fri, 11 Sept 2026
+- Union Club, Vauxhall, London · Sun, 6 Sept 2026
+- UTOPIA / DYSTOPIA, Tokyo · Fri, 7 Aug 2026
+- Cidernaut, Tokyo · Sun, 2 Aug 2026
+- Dogenzaka Church, Tokyo · Tue, 28 Jul 2026
+- UTOPIA / DYSTOPIA, Tokyo · Wed, 22 Jul 2026
+- Z Maruyama, Tokyo · Sat, 18 Jul 2026
 
 ## Shares bills with
 

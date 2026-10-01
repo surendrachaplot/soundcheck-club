@@ -1,6 +1,6 @@
 # BOOgie Nights: Grooves from beyond the Grave at Dunnings 2
 
-BOOgie Nights: Grooves from beyond the Grave at Dunnings 2 on Sat 31 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+BOOgie Nights: Grooves from beyond the Grave at Dunnings 2 on Sat 31 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

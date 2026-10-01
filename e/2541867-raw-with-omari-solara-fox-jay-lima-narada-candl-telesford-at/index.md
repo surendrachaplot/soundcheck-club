@@ -1,6 +1,6 @@
 # RAW with OMARI • Solara Fox • Jay Lima • NARADA • Candl Telesford at Radio Radio
 
-RAW with OMARI • Solara Fox • Jay Lima • NARADA • Candl Telesford at Radio Radio on Sat 14 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+RAW with OMARI • Solara Fox • Jay Lima • NARADA • Candl Telesford at Radio Radio on Sat 14 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

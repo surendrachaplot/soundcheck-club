@@ -1,6 +1,6 @@
 # SAVANNA at Cafein
 
-SAVANNA at Cafein on Mon 19 Oct, Tokyo. Balearic and Afrobeats. Preview the line-up and save it on soundcheck.
+SAVANNA at Cafein on Mon 19 Oct, Tokyo. Balearic and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

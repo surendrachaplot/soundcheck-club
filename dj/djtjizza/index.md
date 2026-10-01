@@ -1,8 +1,8 @@
 # DJ Tjizza
 
-DJ Tjizza is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+DJ Tjizza is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+DJ Tjizza is a house and electro artist based in Germany, with 80 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Helly, SHAQUE and Velasco. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ Tjizza is a house and electro artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Boomerang Beach, The Hague — Sat, 8 Aug 2026
-- The Glove That Fits, London — Sat, 25 Jul 2026
-- Distrikt, Leeds — Fri, 24 Jul 2026
-- Club der Visionaere, Berlin — Fri, 17 Jul 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 20 Jun 2026
-- La Rotonde Stalingrad, Paris — Sat, 6 Jun 2026
-- Fitzroy, Berlin — Sun, 31 May 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Boomerang Beach, The Hague · Sat, 8 Aug 2026
+- The Glove That Fits, London · Sat, 25 Jul 2026
+- Distrikt, Leeds · Fri, 24 Jul 2026
+- Club der Visionaere, Berlin · Fri, 17 Jul 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 20 Jun 2026
+- La Rotonde Stalingrad, Paris · Sat, 6 Jun 2026
+- Fitzroy, Berlin · Sun, 31 May 2026
 
 ## Shares bills with
 

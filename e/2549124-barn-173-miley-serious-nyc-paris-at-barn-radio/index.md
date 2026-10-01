@@ -1,6 +1,6 @@
 # barn: 173. Miley Serious (NYC/Paris) at Barn Radio
 
-barn: 173. Miley Serious (NYC/Paris) at Barn Radio on Fri 9 Oct, Portland. 1 artist on the bill: Miley Serious. Techno and Bass. Preview the line-up and save it on soundcheck.
+barn: 173. Miley Serious (NYC/Paris) at Barn Radio on Fri 9 Oct, Portland. 1 artist: Miley Serious. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Love & Rave Bday CzesLove Edition at Przystań Kawiarnia
 
-Love & Rave Bday CzesLove Edition at Przystań Kawiarnia on Sat 3 Oct, Warsaw. Electro and Dub. Preview the line-up and save it on soundcheck.
+Love & Rave Bday CzesLove Edition at Przystań Kawiarnia on Sat 3 Oct, Warsaw. Electro and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

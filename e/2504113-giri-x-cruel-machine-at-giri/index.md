@@ -1,6 +1,6 @@
 # Giri x Cruel Machine at Giri
 
-Giri x Cruel Machine on Fri 16 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Giri x Cruel Machine on Fri 16 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

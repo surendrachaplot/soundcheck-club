@@ -1,6 +1,6 @@
 # Bimhuis & The Rest is Noise present: Valentina Magaletti & upsammy at Muziekgebouw aan t' IJ
 
-Bimhuis & The Rest is Noise present: Valentina Magaletti & upsammy at Muziekgebouw aan t' IJ on Fri 5 Feb, Amsterdam. 2 artists on the bill: upsammy and Valentina Magaletti. Preview the line-up and save it on soundcheck.
+Bimhuis & The Rest is Noise present: Valentina Magaletti & upsammy at Muziekgebouw aan t' IJ on Fri 5 Feb, Amsterdam. 2 artists: upsammy and Valentina Magaletti. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

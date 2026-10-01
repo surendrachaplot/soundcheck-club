@@ -1,6 +1,6 @@
 # Acephalic Headspace with Lésions Graves, ladr ache at Silent Green
 
-Acephalic Headspace with Lésions Graves, ladr ache at Silent Green on Fri 23 Oct, Berlin. Experimental. Preview the line-up and save it on soundcheck.
+Acephalic Headspace with Lésions Graves, ladr ache at Silent Green on Fri 23 Oct, Berlin. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

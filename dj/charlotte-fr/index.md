@@ -1,8 +1,8 @@
 # Charlotte (FR)
 
-Charlotte (FR) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 333, New York City on Fri, 16 Oct 2026.
+Charlotte (FR) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 333, New York City on Fri, 16 Oct 2026.
 
-Charlotte (FR) is a house and techno artist based in France, tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 26 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: TBA - 333, New York City on Fri 16 Oct.
+Charlotte (FR) is a house and techno artist based in France, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Birmingham and 26 more. Often billed alongside tINI, ABI (FR) and AMEX (UK). Next up: TBA - 333, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Charlotte (FR) is a house and techno artist based in France, tracked on soundche
 
 ## Recently played
 
-- Rex Club, Paris — Fri, 25 Sept 2026
-- Jolene Downtown Miami, Miami — Fri, 11 Sept 2026
-- BRET, Amsterdam — Sat, 1 Aug 2026
-- XOYO Birmingham, Birmingham — Sat, 25 Jul 2026
-- Pier 83, New York City — Sat, 25 Jul 2026
-- Oval Space, London — Sat, 25 Jul 2026
-- Salon 223, Barcelona — Sat, 25 Jul 2026
-- 512 London, London — Sat, 25 Jul 2026
+- Rex Club, Paris · Fri, 25 Sept 2026
+- Jolene Downtown Miami, Miami · Fri, 11 Sept 2026
+- BRET, Amsterdam · Sat, 1 Aug 2026
+- XOYO Birmingham, Birmingham · Sat, 25 Jul 2026
+- Pier 83, New York City · Sat, 25 Jul 2026
+- Oval Space, London · Sat, 25 Jul 2026
+- Salon 223, Barcelona · Sat, 25 Jul 2026
+- 512 London, London · Sat, 25 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Roots Of House with Osunlade, Jojoflores & DJ Yogi at Sound Machine
 
-Roots Of House with Osunlade, Jojoflores & DJ Yogi at Sound Machine on Sat 7 Nov, Toronto. 3 artists on the bill: Jojoflores, Osunlade and Yogi. House and Deep House. Preview the line-up and save it on soundcheck.
+Roots Of House with Osunlade, Jojoflores & DJ Yogi at Sound Machine on Sat 7 Nov, Toronto. 3 artists: Jojoflores, Osunlade and Yogi. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

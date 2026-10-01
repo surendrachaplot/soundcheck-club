@@ -1,6 +1,6 @@
 # LICCHT w/ DELI GIRLS (US) // RENT (A) at FLUCC
 
-LICCHT w/ DELI GIRLS (US) // RENT (A) at FLUCC on Tue 6 Oct, Vienna. 2 artists on the bill: Deli Girls and Rent. Preview the line-up and save it on soundcheck.
+LICCHT w/ DELI GIRLS (US) // RENT (A) at FLUCC on Tue 6 Oct, Vienna. 2 artists: Deli Girls and Rent. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

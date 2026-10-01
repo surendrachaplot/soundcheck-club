@@ -1,6 +1,6 @@
 # Shinedoe, Chima Isaaro, Flabbergast, HNRQ at Lux Fragil
 
-Shinedoe, Chima Isaaro, Flabbergast, HNRQ at Lux Fragil on Sat 24 Oct, Lisbon. 4 artists on the bill: Chima Isaaro, Flabbergast, HNRQ and Shinedoe. Preview the line-up and save it on soundcheck.
+Shinedoe, Chima Isaaro, Flabbergast, HNRQ at Lux Fragil on Sat 24 Oct, Lisbon. 4 artists: Chima Isaaro, Flabbergast, HNRQ and Shinedoe. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

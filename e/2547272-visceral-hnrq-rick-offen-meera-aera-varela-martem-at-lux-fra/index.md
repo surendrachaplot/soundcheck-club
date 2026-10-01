@@ -1,6 +1,6 @@
 # Visceral: HNRQ, Rick Offen, meera, Aera; Varela, Martem at Lux Fragil
 
-Visceral: HNRQ, Rick Offen, meera, Aera; Varela, Martem at Lux Fragil on Sat 10 Oct, Lisbon. 5 artists on the bill: Aera, HNRQ, meera and Rick Offen and 1 more. Tech House. Preview the line-up and save it on soundcheck.
+Visceral: HNRQ, Rick Offen, meera, Aera; Varela, Martem at Lux Fragil on Sat 10 Oct, Lisbon. 5 artists: Aera, HNRQ, meera and Rick Offen and 1 more. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

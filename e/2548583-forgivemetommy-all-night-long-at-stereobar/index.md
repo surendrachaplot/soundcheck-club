@@ -1,6 +1,6 @@
 # Forgivemetommy! (All Night Long) at StereoBar
 
-Forgivemetommy! (All Night Long) at StereoBar on Sat 3 Oct, Montreal. Preview the line-up and save it on soundcheck.
+Forgivemetommy! (All Night Long) at StereoBar on Sat 3 Oct, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

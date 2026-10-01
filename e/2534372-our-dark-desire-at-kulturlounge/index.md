@@ -1,6 +1,6 @@
 # Our Dark Desire at Kulturlounge
 
-Our Dark Desire at Kulturlounge on Sat 19 Dec, Leipzig. 5 artists on the bill: Amarcord, Bertha, KRUE and Moon In My Pocket and 1 more. Techno and EBM. Preview the line-up and save it on soundcheck.
+Our Dark Desire at Kulturlounge on Sat 19 Dec, Leipzig. 5 artists: Amarcord, Bertha, KRUE and Moon In My Pocket and 1 more. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

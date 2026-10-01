@@ -1,6 +1,6 @@
 # Particles at TBA - Puzzle, Antalya
 
-Particles at TBA - Puzzle, Antalya on Fri 9 Oct, Turkey. 1 artist on the bill: Particles. Preview the line-up and save it on soundcheck.
+Particles at TBA - Puzzle, Antalya on Fri 9 Oct, Turkey. 1 artist: Particles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

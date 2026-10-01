@@ -1,6 +1,6 @@
 # SUPER TAKANAKA POP UP! in HARAJUKU at Universal Music Store Harajuku
 
-SUPER TAKANAKA POP UP! in HARAJUKU at Universal Music Store Harajuku on Wed 21 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+SUPER TAKANAKA POP UP! in HARAJUKU at Universal Music Store Harajuku on Wed 21 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

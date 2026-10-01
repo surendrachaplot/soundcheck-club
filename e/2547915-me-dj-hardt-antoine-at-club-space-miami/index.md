@@ -1,6 +1,6 @@
 # Âme DJ & Hardt Antoine at Club Space Miami
 
-Âme DJ & Hardt Antoine at Club Space Miami on Sat 3 Oct, Miami. 5 artists on the bill: AABEL, Âme, Cami di Marzo and Hardt Antoine and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Âme DJ & Hardt Antoine at Club Space Miami on Sat 3 Oct, Miami. 5 artists: AABEL, Âme, Cami di Marzo and Hardt Antoine and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

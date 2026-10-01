@@ -1,6 +1,6 @@
 # VERTIGO x MAISON DIO - 015 at Maison Dio Tallinn
 
-VERTIGO x MAISON DIO - 015 at Maison Dio Tallinn on Fri 9 Oct, Tallinn. House. Preview the line-up and save it on soundcheck.
+VERTIGO x MAISON DIO - 015 at Maison Dio Tallinn on Fri 9 Oct, Tallinn. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

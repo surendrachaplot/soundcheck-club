@@ -1,6 +1,6 @@
 # 12 Hour Party at Marble Bar
 
-12 Hour Party at Marble Bar on Sat 24 Oct, Detroit. Preview the line-up and save it on soundcheck.
+12 Hour Party at Marble Bar on Sat 24 Oct, Detroit. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

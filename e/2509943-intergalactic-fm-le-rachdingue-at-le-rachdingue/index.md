@@ -1,6 +1,6 @@
 # Intergalactic Fm / Le Rachdingue at Le Rachdingue
 
-Intergalactic Fm / Le Rachdingue on Sat 10 Oct, East. 4 artists on the bill: Esther Dune, I-F, Miqkael and Rarek. Preview the line-up and save it on soundcheck.
+Intergalactic Fm / Le Rachdingue on Sat 10 Oct, East. 4 artists: Esther Dune, I-F, Miqkael and Rarek. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

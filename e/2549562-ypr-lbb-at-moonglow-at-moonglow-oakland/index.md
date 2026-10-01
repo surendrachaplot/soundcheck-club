@@ -1,6 +1,6 @@
 # YPR & LBB at Moonglow at Moonglow Oakland
 
-YPR & LBB at Moonglow at Moonglow Oakland on Fri 9 Oct, San Francisco/Oakland. Bass and Club. Preview the line-up and save it on soundcheck.
+YPR & LBB at Moonglow at Moonglow Oakland on Fri 9 Oct, San Francisco/Oakland. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

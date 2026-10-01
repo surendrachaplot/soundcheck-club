@@ -1,6 +1,6 @@
 # Imogen with Mathew Jonson, Charles Webster, Ilija Rudman, Ivan Ljutić at Peti Kupe
 
-Imogen with Mathew Jonson, Charles Webster, Ilija Rudman, Ivan Ljutić at Peti Kupe on Fri 23 Oct, Zagreb. 3 artists on the bill: Charles Webster, Ilija Rudman and Mathew Jonson. Preview the line-up and save it on soundcheck.
+Imogen with Mathew Jonson, Charles Webster, Ilija Rudman, Ivan Ljutić at Peti Kupe on Fri 23 Oct, Zagreb. 3 artists: Charles Webster, Ilija Rudman and Mathew Jonson. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

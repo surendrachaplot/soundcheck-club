@@ -1,6 +1,6 @@
 # Narrativ at Système
 
-Narrativ at Système on Thu 22 Oct, Montreal. 3 artists on the bill: Asha, Metizo and Moaad BKR. Preview the line-up and save it on soundcheck.
+Narrativ at Système on Thu 22 Oct, Montreal. 3 artists: Asha, Metizo and Moaad BKR. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

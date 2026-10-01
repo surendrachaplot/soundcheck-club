@@ -1,6 +1,6 @@
 # Sharameet Día de Muertos - Kabylie Minogue - Techno Arabe at DETROIT CLUB
 
-Sharameet Día de Muertos - Kabylie Minogue - Techno Arabe at DETROIT CLUB on Fri 30 Oct, Barcelona. 3 artists on the bill: Kabylie Minogue, Katya La Mar and Tympanic. Techno and IDM. Preview the line-up and save it on soundcheck.
+Sharameet Día de Muertos - Kabylie Minogue - Techno Arabe at DETROIT CLUB on Fri 30 Oct, Barcelona. 3 artists: Kabylie Minogue, Katya La Mar and Tympanic. Techno and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

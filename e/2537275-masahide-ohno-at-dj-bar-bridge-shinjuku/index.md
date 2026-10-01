@@ -1,6 +1,6 @@
 # Masahide Ohno at DJ Bar Bridge Shinjuku
 
-Masahide Ohno at DJ Bar Bridge Shinjuku on Mon 2 Nov, Tokyo. House. Preview the line-up and save it on soundcheck.
+Masahide Ohno at DJ Bar Bridge Shinjuku on Mon 2 Nov, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

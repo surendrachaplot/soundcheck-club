@@ -1,6 +1,6 @@
 # Shoulderwork Vol.3 at Stage and Radio
 
-Shoulderwork Vol.3 at Stage and Radio on Sat 12 Dec, Manchester. House and Electro. Preview the line-up and save it on soundcheck.
+Shoulderwork Vol.3 at Stage and Radio on Sat 12 Dec, Manchester. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

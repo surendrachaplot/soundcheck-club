@@ -1,6 +1,6 @@
 # Music Sphere: The Final Dance at Cobalt Studios
 
-Music Sphere: The Final Dance at Cobalt Studios on Fri 18 Dec, Newcastle. Preview the line-up and save it on soundcheck.
+Music Sphere: The Final Dance at Cobalt Studios on Fri 18 Dec, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Full Circle: Shadow Child + Huxley - Joshua Brooks Manchester at Joshua Brooks
 
-Full Circle: Shadow Child + Huxley - Joshua Brooks Manchester on Fri 23 Oct, Manchester. 3 artists on the bill: Huxley, Jimmy Switch and Shadow Child. House and Bass. Preview the line-up and save it on soundcheck.
+Full Circle: Shadow Child + Huxley - Joshua Brooks Manchester on Fri 23 Oct, Manchester. 3 artists: Huxley, Jimmy Switch and Shadow Child. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LOVE SENSATION SUNDAYS 10.11.26 at Club Rawhide
 
-LOVE SENSATION SUNDAYS 10.11.26 at Club Rawhide on Sun 11 Oct, New York City. House and Disco. Preview the line-up and save it on soundcheck.
+LOVE SENSATION SUNDAYS 10.11.26 at Club Rawhide on Sun 11 Oct, New York City. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

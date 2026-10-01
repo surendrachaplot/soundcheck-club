@@ -1,6 +1,6 @@
 # SETLIFE presents Eunice Beckmann & Terminal 4 at Setlist @ Somerset House
 
-SETLIFE presents Eunice Beckmann & Terminal 4 at Setlist @ Somerset House on Sat 7 Nov, London. Amapiano and Afro Tech. Preview the line-up and save it on soundcheck.
+SETLIFE presents Eunice Beckmann & Terminal 4 at Setlist @ Somerset House on Sat 7 Nov, London. Amapiano and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

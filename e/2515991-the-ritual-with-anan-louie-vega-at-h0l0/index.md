@@ -1,6 +1,6 @@
 # The Ritual with Anané & Louie Vega at H0L0
 
-The Ritual with Anané & Louie Vega at H0L0 on Sun 18 Oct, New York City. 2 artists on the bill: Anane and Louie Vega. House and Afro House. Preview the line-up and save it on soundcheck.
+The Ritual with Anané & Louie Vega at H0L0 on Sun 18 Oct, New York City. 2 artists: Anane and Louie Vega. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

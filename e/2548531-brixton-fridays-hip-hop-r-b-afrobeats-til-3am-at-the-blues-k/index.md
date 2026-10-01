@@ -1,6 +1,6 @@
 # Brixton Fridays: Hip Hop, R&B & Afrobeats 'til 3AM at The Blues Kitchen Brixton
 
-Brixton Fridays: Hip Hop, R&B & Afrobeats 'til 3AM at The Blues Kitchen Brixton on Fri 2 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Brixton Fridays: Hip Hop, R&B & Afrobeats 'til 3AM at The Blues Kitchen Brixton on Fri 2 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

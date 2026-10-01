@@ -1,8 +1,8 @@
 # Katiusha
 
-Katiusha is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Katiusha is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
-Katiusha is a techno and house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Bristol and Copenhagen and 8 more. Often billed alongside Dubrunner, Chris Farrell and DJ Carlita. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
+Katiusha is a techno and house artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Berlin, Bristol and Copenhagen and 8 more. Often billed alongside Dubrunner, Chris Farrell and DJ Carlita. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Katiusha is a techno and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- TBA - Secret Location, Berlin — Sat, 12 Sept 2026
-- The Carpet Shop, London — Fri, 11 Sept 2026
-- TBA - Secret Location (near Frankfurter Allee), Berlin — Wed, 29 Jul 2026
-- Backsteinboot, Berlin — Sat, 11 Jul 2026
-- ., Berlin — Sun, 31 May 2026
-- Kater, Berlin — Sat, 14 Feb 2026
-- Corsica Studios, London — Fri, 23 Jan 2026
-- Fitzroy, Berlin — Thu, 4 Dec 2025
+- TBA - Secret Location, Berlin · Sat, 12 Sept 2026
+- The Carpet Shop, London · Fri, 11 Sept 2026
+- TBA - Secret Location (near Frankfurter Allee), Berlin · Wed, 29 Jul 2026
+- Backsteinboot, Berlin · Sat, 11 Jul 2026
+- ., Berlin · Sun, 31 May 2026
+- Kater, Berlin · Sat, 14 Feb 2026
+- Corsica Studios, London · Fri, 23 Jan 2026
+- Fitzroy, Berlin · Thu, 4 Dec 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Francis Mercier, SPARROW, Chelina Manuhutu at D! Club
 
-Francis Mercier, SPARROW, Chelina Manuhutu at D! Club on Sun 4 Oct, Lausanne. 3 artists on the bill: Chelina Manuhutu, Francis Mercier and Sparrow & Barbossa. Preview the line-up and save it on soundcheck.
+Francis Mercier, SPARROW, Chelina Manuhutu at D! Club on Sun 4 Oct, Lausanne. 3 artists: Chelina Manuhutu, Francis Mercier and Sparrow & Barbossa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

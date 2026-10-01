@@ -1,6 +1,6 @@
 # DJ Sylo (all night) at Bastet
 
-DJ Sylo (all night) at Bastet on Fri 2 Oct, Philadelphia. 1 artist on the bill: DJ Sylo. Techno and House. Preview the line-up and save it on soundcheck.
+DJ Sylo (all night) at Bastet on Fri 2 Oct, Philadelphia. 1 artist: DJ Sylo. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

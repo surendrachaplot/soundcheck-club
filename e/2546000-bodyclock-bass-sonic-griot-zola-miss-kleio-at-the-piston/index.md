@@ -1,6 +1,6 @@
 # BODYCLOCK - BASS Sonic Griot, Zola, Miss Kleio at The Piston
 
-BODYCLOCK - BASS Sonic Griot, Zola, Miss Kleio at The Piston on Thu 8 Oct, Toronto. 3 artists on the bill: Miss Kleio, Sonic Griot and Zola (TRM). Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+BODYCLOCK - BASS Sonic Griot, Zola, Miss Kleio at The Piston on Thu 8 Oct, Toronto. 3 artists: Miss Kleio, Sonic Griot and Zola (TRM). Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HARDCORE REUNION at Zinkbad Eventhalle
 
-HARDCORE REUNION at Zinkbad Eventhalle on Sat 10 Oct, Zurich. Hardcore. Preview the line-up and save it on soundcheck.
+HARDCORE REUNION at Zinkbad Eventhalle on Sat 10 Oct, Zurich. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

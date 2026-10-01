@@ -1,6 +1,6 @@
 # Tribal Life at The Steel Yard
 
-Tribal Life at The Steel Yard on Sat 17 Oct, London. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
+Tribal Life at The Steel Yard on Sat 17 Oct, London. Amapiano and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

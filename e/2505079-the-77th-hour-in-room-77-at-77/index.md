@@ -1,6 +1,6 @@
 # The 77th Hour in Room 77 at 77
 
-The 77th Hour in Room 77 on Fri 30 Oct, London. House. Preview the line-up and save it on soundcheck.
+The 77th Hour in Room 77 on Fri 30 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

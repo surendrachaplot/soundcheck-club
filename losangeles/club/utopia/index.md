@@ -1,8 +1,8 @@
 # Utopia
 
-Utopia is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Utopia presents Dialed Records: Jay Tripwire, B.Love" on Fri, 2 Oct 2026.
+Utopia is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Utopia presents Dialed Records: Jay Tripwire, B.Love" on Fri, 2 Oct 2026.
 
-Utopia is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including B.Love, Jay Tripwire, RCKSLVR and Tempo and 1 more. Browse upcoming dates, start times and who's playing. 2233 JESSE ST..
+Utopia is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including B.Love, Jay Tripwire, RCKSLVR and Tempo and 1 more. See dates, start times and who's playing. 2233 JESSE ST..
 
 ## What's on
 

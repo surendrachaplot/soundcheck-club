@@ -1,6 +1,6 @@
 # PARTY GATE at BRAND SHIBUYA
 
-PARTY GATE at BRAND SHIBUYA on Fri 2 Oct, Tokyo. Club. Preview the line-up and save it on soundcheck.
+PARTY GATE at BRAND SHIBUYA on Fri 2 Oct, Tokyo. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

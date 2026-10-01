@@ -1,6 +1,6 @@
 # Johannes Ehmann plays at migas at migas, a listening bar
 
-Johannes Ehmann plays at migas at migas, a listening bar on Fri 23 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Johannes Ehmann plays at migas at migas, a listening bar on Fri 23 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jazz for Congo: Fundraiser for Focus Congo at Common Press, Dalston
 
-Jazz for Congo: Fundraiser for Focus Congo at Common Press, Dalston on Fri 23 Oct, London. Jazz and Afro Tech. Preview the line-up and save it on soundcheck.
+Jazz for Congo: Fundraiser for Focus Congo at Common Press, Dalston on Fri 23 Oct, London. Jazz and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

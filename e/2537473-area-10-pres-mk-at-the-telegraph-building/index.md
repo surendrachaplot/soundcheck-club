@@ -1,6 +1,6 @@
 # AREA 10 pres MK at The Telegraph Building
 
-AREA 10 pres MK at The Telegraph Building on Sat 6 Mar, Belfast. 1 artist on the bill: Marc Kinchen. Preview the line-up and save it on soundcheck.
+AREA 10 pres MK at The Telegraph Building on Sat 6 Mar, Belfast. 1 artist: Marc Kinchen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

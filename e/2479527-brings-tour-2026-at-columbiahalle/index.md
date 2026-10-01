@@ -1,6 +1,6 @@
 # Brings - Tour 2026 at Columbiahalle
 
-Brings - Tour 2026 at Columbiahalle on Sat 21 Nov, Berlin. Pop. Preview the line-up and save it on soundcheck.
+Brings - Tour 2026 at Columbiahalle on Sat 21 Nov, Berlin. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

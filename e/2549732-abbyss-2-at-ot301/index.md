@@ -1,6 +1,6 @@
 # ABBYSS-2 at OT301
 
-ABBYSS-2 at OT301 on Sat 21 Nov, Amsterdam. 1 artist on the bill: Unit Moebius. Techno and Experimental. Preview the line-up and save it on soundcheck.
+ABBYSS-2 at OT301 on Sat 21 Nov, Amsterdam. 1 artist: Unit Moebius. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

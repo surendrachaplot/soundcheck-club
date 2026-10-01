@@ -1,6 +1,6 @@
 # MXGPU (Moullinex & GPU Panic) - Live Under Lisbon at TBA
 
-MXGPU (Moullinex & GPU Panic) - Live Under Lisbon at TBA on Sat 10 Oct, Lisbon. 3 artists on the bill: GPU Panic, Moullinex and MXGPU. House and Electronica. Preview the line-up and save it on soundcheck.
+MXGPU (Moullinex & GPU Panic) - Live Under Lisbon at TBA on Sat 10 Oct, Lisbon. 3 artists: GPU Panic, Moullinex and MXGPU. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

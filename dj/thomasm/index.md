@@ -1,8 +1,8 @@
 # Thomas M
 
-Thomas M is a Progressive House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Barrio Cafe, Brussels on Sat, 3 Oct 2026.
+Thomas M is a Progressive House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Barrio Cafe, Brussels on Sat, 3 Oct 2026.
 
-Thomas M is a progressive house and techno artist based in Belgium, tracked on soundcheck, with 48 sets logged across Antwerp, Berlin and Brussels. Often billed alongside Dave Urania, Juan Del Chambo and Oz man. Next up: Barrio Cafe, Brussels on Sat 3 Oct.
+Thomas M is a progressive house and techno artist based in Belgium, with 48 gigs on soundcheck across Antwerp, Berlin and Brussels. Often billed alongside Dave Urania, Juan Del Chambo and Oz man. Next up: Barrio Cafe, Brussels on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Thomas M is a progressive house and techno artist based in Belgium, tracked on s
 
 ## Recently played
 
-- UMI, Brussels — Fri, 4 Sept 2026
-- Barrio Cafe, Brussels — Sat, 15 Aug 2026
-- Barrio Cafe, Brussels — Sat, 11 Jul 2026
-- Lavallée, Brussels — Fri, 10 Jul 2026
-- Lavallée, Brussels — Fri, 10 Jul 2026
-- Barrio Cafe, Brussels — Sat, 6 Jun 2026
-- Barrio Cafe, Brussels — Sat, 16 May 2026
-- Barrio Cafe, Brussels — Sat, 18 Apr 2026
+- UMI, Brussels · Fri, 4 Sept 2026
+- Barrio Cafe, Brussels · Sat, 15 Aug 2026
+- Barrio Cafe, Brussels · Sat, 11 Jul 2026
+- Lavallée, Brussels · Fri, 10 Jul 2026
+- Lavallée, Brussels · Fri, 10 Jul 2026
+- Barrio Cafe, Brussels · Sat, 6 Jun 2026
+- Barrio Cafe, Brussels · Sat, 16 May 2026
+- Barrio Cafe, Brussels · Sat, 18 Apr 2026
 
 ## Shares bills with
 

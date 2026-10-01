@@ -1,6 +1,6 @@
 # Valid & DJ Head live at Sprat
 
-Valid & DJ Head live at Sprat on Sat 3 Oct, Belgrade. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+Valid & DJ Head live at Sprat on Sat 3 Oct, Belgrade. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

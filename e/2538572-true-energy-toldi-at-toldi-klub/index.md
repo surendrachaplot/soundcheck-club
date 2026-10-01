@@ -1,6 +1,6 @@
 # True Energy // TOLDI at Toldi Klub
 
-True Energy // TOLDI at Toldi Klub on Sat 7 Nov, Budapest. 3 artists on the bill: dtnb, Katamii and Mirmur. Trance and Techno. Preview the line-up and save it on soundcheck.
+True Energy // TOLDI at Toldi Klub on Sat 7 Nov, Budapest. 3 artists: dtnb, Katamii and Mirmur. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

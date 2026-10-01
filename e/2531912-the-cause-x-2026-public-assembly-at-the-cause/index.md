@@ -1,6 +1,6 @@
 # The Cause x 2026: Public Assembly at The Cause
 
-The Cause x 2026: Public Assembly on Sat 28 Nov, London. Acid and Post-Punk. Preview the line-up and save it on soundcheck.
+The Cause x 2026: Public Assembly on Sat 28 Nov, London. Acid and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

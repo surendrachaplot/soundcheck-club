@@ -1,8 +1,8 @@
 # Xuxa
 
-Xuxa is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Al V Dam + Bad Apple + Majesty ( +AFTERS)" on Fri, 2 Oct 2026.
+Xuxa is a music venue in Austin with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Al V Dam + Bad Apple + Majesty ( +AFTERS)" on Fri, 2 Oct 2026.
 
-Xuxa is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line-ups including Al V Dam, Brett Johnson, DJ BAD APPLE and DJ HOT DONNA and 2 more. Browse upcoming dates, start times and who's playing. 6910 Shirley Ave, Unit I, Austin, TX 78752, USA.
+Xuxa is a music venue in Austin listed on soundcheck. 4 upcoming gigs, with line-ups including Al V Dam, Brett Johnson, DJ BAD APPLE and DJ HOT DONNA and 2 more. See dates, start times and who's playing. 6910 Shirley Ave, Unit I, Austin, TX 78752, USA.
 
 ## What's on
 

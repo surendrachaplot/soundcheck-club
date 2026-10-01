@@ -1,8 +1,8 @@
 # Peppe Citarella
 
-Peppe Citarella is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
+Peppe Citarella is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Twenty Two, Amsterdam on Thu, 22 Oct 2026.
 
-Peppe Citarella is an afro house and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Amsterdam, Ibiza, Malaga and Mallorca and 3 more. Often billed alongside AARON SEVILLA, Marten Lou and Pablo Fierro. Next up: Bar Twenty Two, Amsterdam on Thu 22 Oct.
+Peppe Citarella is an afro house and house artist based in Italy, with 13 gigs on soundcheck across Amsterdam, Ibiza, Malaga and Mallorca and 3 more. Often billed alongside AARON SEVILLA, Marten Lou and Pablo Fierro. Next up: Bar Twenty Two, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Peppe Citarella is an afro house and house artist based in Italy, tracked on sou
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Sun, 27 Sept 2026
-- Malaga Forum, Malaga — Sat, 20 Jun 2026
-- Astra Miami, Miami — Thu, 26 Mar 2026
-- Salon Solin, Mexico City — Thu, 4 Sept 2025
-- Cova Santa, Ibiza — Thu, 19 Jun 2025
-- broad hall., Philadelphia — Sat, 21 Sept 2024
-- Chinois Ibiza, Ibiza — Fri, 9 Aug 2024
-- Studio Club Malaga, Mallorca — Sat, 20 Jul 2024
+- Hï Ibiza, Ibiza · Sun, 27 Sept 2026
+- Malaga Forum, Malaga · Sat, 20 Jun 2026
+- Astra Miami, Miami · Thu, 26 Mar 2026
+- Salon Solin, Mexico City · Thu, 4 Sept 2025
+- Cova Santa, Ibiza · Thu, 19 Jun 2025
+- broad hall., Philadelphia · Sat, 21 Sept 2024
+- Chinois Ibiza, Ibiza · Fri, 9 Aug 2024
+- Studio Club Malaga, Mallorca · Sat, 20 Jul 2024
 
 ## Shares bills with
 

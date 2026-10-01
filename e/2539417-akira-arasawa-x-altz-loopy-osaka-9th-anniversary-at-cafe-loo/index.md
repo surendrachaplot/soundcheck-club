@@ -1,6 +1,6 @@
 # Akira Arasawa x Altz       LOOPY OSAKA 9th Anniversary at Cafe Loopy Osaka
 
-Akira Arasawa x Altz       LOOPY OSAKA 9th Anniversary at Cafe Loopy Osaka on Sat 10 Oct, Osaka. Techno and Electro. Preview the line-up and save it on soundcheck.
+Akira Arasawa x Altz       LOOPY OSAKA 9th Anniversary at Cafe Loopy Osaka on Sat 10 Oct, Osaka. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

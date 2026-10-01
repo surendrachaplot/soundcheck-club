@@ -1,6 +1,6 @@
 # FUNKBOX NYC feat. Tony Touch, Stretch Armstrong & Ejoe at Le Bain
 
-FUNKBOX NYC feat. Tony Touch, Stretch Armstrong & Ejoe at Le Bain on Sun 11 Oct, New York City. 1 artist on the bill: DJ TONY TOUCH. Preview the line-up and save it on soundcheck.
+FUNKBOX NYC feat. Tony Touch, Stretch Armstrong & Ejoe at Le Bain on Sun 11 Oct, New York City. 1 artist: DJ TONY TOUCH. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

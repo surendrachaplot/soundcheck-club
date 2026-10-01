@@ -1,6 +1,6 @@
 # Toffler presents GWELD (LIVE), REDBATUN (HYBRID LIVE) at Toffler
 
-Toffler presents GWELD (LIVE), REDBATUN (HYBRID LIVE) on Fri 30 Oct, Rotterdam. 3 artists on the bill: GWELD, PARAPHER and SEMPLIFIER. Techno. Preview the line-up and save it on soundcheck.
+Toffler presents GWELD (LIVE), REDBATUN (HYBRID LIVE) on Fri 30 Oct, Rotterdam. 3 artists: GWELD, PARAPHER and SEMPLIFIER. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

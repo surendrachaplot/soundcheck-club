@@ -1,6 +1,6 @@
 # RTN with Decoder + Jin Synth (Live) at The Island
 
-RTN with Decoder + Jin Synth (Live) at The Island on Fri 9 Oct, Bristol. 4 artists on the bill: Ceegal, Decoder, Jin Synth and WVRM POOL. Techno and Electro. Preview the line-up and save it on soundcheck.
+RTN with Decoder + Jin Synth (Live) at The Island on Fri 9 Oct, Bristol. 4 artists: Ceegal, Decoder, Jin Synth and WVRM POOL. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

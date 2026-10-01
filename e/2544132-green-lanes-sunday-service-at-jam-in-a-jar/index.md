@@ -1,6 +1,6 @@
 # Green Lanes Sunday Service at Jam In A Jar
 
-Green Lanes Sunday Service at Jam In A Jar on Sun 4 Oct, London. Downtempo and Dub. Preview the line-up and save it on soundcheck.
+Green Lanes Sunday Service at Jam In A Jar on Sun 4 Oct, London. Downtempo and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

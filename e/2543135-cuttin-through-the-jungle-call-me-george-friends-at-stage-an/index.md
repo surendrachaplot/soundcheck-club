@@ -1,6 +1,6 @@
 # Cuttin' Through The Jungle - Call Me George & Friends at Stage and Radio
 
-Cuttin' Through The Jungle - Call Me George & Friends at Stage and Radio on Thu 19 Nov, Manchester. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Cuttin' Through The Jungle - Call Me George & Friends at Stage and Radio on Thu 19 Nov, Manchester. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

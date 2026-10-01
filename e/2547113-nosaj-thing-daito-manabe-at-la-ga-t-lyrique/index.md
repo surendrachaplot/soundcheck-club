@@ -1,6 +1,6 @@
 # Nosaj Thing & Daito Manabe at La Gaîté Lyrique
 
-Nosaj Thing & Daito Manabe at La Gaîté Lyrique on Fri 13 Nov, Paris. 2 artists on the bill: Daito Manabe and Nosaj Thing. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Nosaj Thing & Daito Manabe at La Gaîté Lyrique on Fri 13 Nov, Paris. 2 artists: Daito Manabe and Nosaj Thing. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

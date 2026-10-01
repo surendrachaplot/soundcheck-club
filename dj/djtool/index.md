@@ -1,8 +1,8 @@
 # DJ TOOL
 
-DJ TOOL is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Warehouse Location , Boston on Sat, 3 Oct 2026.
+DJ TOOL is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Warehouse Location , Boston on Sat, 3 Oct 2026.
 
-DJ TOOL is a techno and house artist based in Denmark, tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: TBA - Warehouse Location , Boston on Sat 3 Oct.
+DJ TOOL is a techno and house artist based in Denmark, with 193 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 51 more. Often billed alongside Yazzus, Hyperaktivist and D.Dan. Next up: TBA - Warehouse Location , Boston on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ DJ TOOL is a techno and house artist based in Denmark, tracked on soundcheck, wi
 
 ## Recently played
 
-- Else, Berlin — Sun, 20 Sept 2026
-- Circolo Amelia, Milan — Sat, 19 Sept 2026
-- Den Anden Side, Copenhagen — Fri, 11 Sept 2026
-- The Bassement, Madrid — Sat, 5 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 22 Aug 2026
-- Else, Berlin — Sat, 8 Aug 2026
-- CLUB RAUM, Amsterdam — Fri, 31 Jul 2026
-- Else, Berlin — Fri, 24 Jul 2026
+- Else, Berlin · Sun, 20 Sept 2026
+- Circolo Amelia, Milan · Sat, 19 Sept 2026
+- Den Anden Side, Copenhagen · Fri, 11 Sept 2026
+- The Bassement, Madrid · Sat, 5 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 22 Aug 2026
+- Else, Berlin · Sat, 8 Aug 2026
+- CLUB RAUM, Amsterdam · Fri, 31 Jul 2026
+- Else, Berlin · Fri, 24 Jul 2026
 
 ## Shares bills with
 

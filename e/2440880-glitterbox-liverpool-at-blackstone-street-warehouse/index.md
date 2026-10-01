@@ -1,6 +1,6 @@
 # Glitterbox Liverpool at Blackstone Street Warehouse
 
-Glitterbox Liverpool at Blackstone Street Warehouse on Sat 14 Nov, Liverpool. House and Disco. Preview the line-up and save it on soundcheck.
+Glitterbox Liverpool at Blackstone Street Warehouse on Sat 14 Nov, Liverpool. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

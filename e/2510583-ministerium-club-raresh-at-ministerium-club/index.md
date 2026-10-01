@@ -1,6 +1,6 @@
 # Ministerium Club // Raresh at Ministerium Club
 
-Ministerium Club // Raresh on Fri 9 Oct, Lisbon. 1 artist on the bill: Raresh. Techno and House. Preview the line-up and save it on soundcheck.
+Ministerium Club // Raresh on Fri 9 Oct, Lisbon. 1 artist: Raresh. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

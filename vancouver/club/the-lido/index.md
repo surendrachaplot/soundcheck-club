@@ -1,8 +1,8 @@
 # The Lido
 
-The Lido is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "All My Friends" on Sat, 3 Oct 2026.
+The Lido is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "All My Friends" on Sat, 3 Oct 2026.
 
-The Lido is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 518 East Broadway, Vancouver.
+The Lido is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 518 East Broadway, Vancouver.
 
 ## What's on
 

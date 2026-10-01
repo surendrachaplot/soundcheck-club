@@ -1,8 +1,8 @@
 # Benwal
 
-Benwal is a Techno and House artist with 19 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Digital, Newcastle on Fri, 2 Oct 2026.
+Benwal is a Techno and House artist with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
 
-Benwal is a techno and house artist based in Netherlands, tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Austin and Bali and 46 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Digital, Newcastle on Fri 2 Oct.
+Benwal is a techno and house artist based in Netherlands, with 185 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 46 more. Often billed alongside Kyle Starkey, MALUGI and Pegassi. Next up: Digital, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Benwal is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- The Warehouse, Leeds — Fri, 25 Sept 2026
-- SWG3, Glasgow — Sat, 19 Sept 2026
-- SWG3, Glasgow — Sat, 19 Sept 2026
-- Cabaret Voltaire, Edinburgh — Fri, 18 Sept 2026
-- Place Noord, Brussels — Sat, 5 Sept 2026
-- Amnesia Ibiza, Ibiza — Mon, 31 Aug 2026
-- Tuinen van West, Amsterdam — Sat, 29 Aug 2026
-- M.O.T, London — Sat, 22 Aug 2026
+- The Warehouse, Leeds · Fri, 25 Sept 2026
+- SWG3, Glasgow · Sat, 19 Sept 2026
+- SWG3, Glasgow · Sat, 19 Sept 2026
+- Cabaret Voltaire, Edinburgh · Fri, 18 Sept 2026
+- Place Noord, Brussels · Sat, 5 Sept 2026
+- Amnesia Ibiza, Ibiza · Mon, 31 Aug 2026
+- Tuinen van West, Amsterdam · Sat, 29 Aug 2026
+- M.O.T, London · Sat, 22 Aug 2026
 
 ## Shares bills with
 

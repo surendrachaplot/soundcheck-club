@@ -1,6 +1,6 @@
 # FIGHT CLUB: snoritz, GIO, DVAID, KHØNG, Eva Vrijdag at Kilomètre25
 
-FIGHT CLUB: snoritz, GIO, DVAID, KHØNG, Eva Vrijdag at Kilomètre25 on Fri 23 Oct, Paris. 4 artists on the bill: DVAID, Eva Vrijdag, GIØ and snoritz. Techno. Preview the line-up and save it on soundcheck.
+FIGHT CLUB: snoritz, GIO, DVAID, KHØNG, Eva Vrijdag at Kilomètre25 on Fri 23 Oct, Paris. 4 artists: DVAID, Eva Vrijdag, GIØ and snoritz. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

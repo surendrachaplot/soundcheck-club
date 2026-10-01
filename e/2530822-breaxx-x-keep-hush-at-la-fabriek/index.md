@@ -1,6 +1,6 @@
 # BREAXX X Keep Hush at La Fabriek
 
-BREAXX X Keep Hush at La Fabriek on Fri 9 Oct, Brussels. 4 artists on the bill: Coki, KŌMA, Maliman and PALA10. Dub and Dubstep. Preview the line-up and save it on soundcheck.
+BREAXX X Keep Hush at La Fabriek on Fri 9 Oct, Brussels. 4 artists: Coki, KŌMA, Maliman and PALA10. Dub and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

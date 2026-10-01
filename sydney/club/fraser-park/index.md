@@ -1,8 +1,8 @@
 # Fraser Park
 
-Fraser Park is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Carhartt WIP presents: Keys To The City" on Sat, 7 Nov 2026.
+Fraser Park is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Carhartt WIP presents: Keys To The City" on Sat, 7 Nov 2026.
 
-Fraser Park is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Alex Diwa, Deepa, Jun Wan and Lorna Clarkson and 2 more. Browse upcoming dates, start times and who's playing. 100 Marrickville Road, Marrickville.
+Fraser Park is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Alex Diwa, Deepa, Jun Wan and Lorna Clarkson and 2 more. See dates, start times and who's playing. 100 Marrickville Road, Marrickville.
 
 ## What's on
 

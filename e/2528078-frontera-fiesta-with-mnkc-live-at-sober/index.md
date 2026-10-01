@@ -1,6 +1,6 @@
 # FRONTERA FIESTA with MNKC-LIVE- at SOBER
 
-FRONTERA FIESTA with MNKC-LIVE- at SOBER on Sun 4 Oct, Tokyo. 2 artists on the bill: Nory Kimijima and Ren Yokoi. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+FRONTERA FIESTA with MNKC-LIVE- at SOBER on Sun 4 Oct, Tokyo. 2 artists: Nory Kimijima and Ren Yokoi. Hip-Hop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Say My Name, Say My Name at Le Makeda
 
-Say My Name, Say My Name at Le Makeda on Fri 23 Oct, Marseille. Electro and R&B. Preview the line-up and save it on soundcheck.
+Say My Name, Say My Name at Le Makeda on Fri 23 Oct, Marseille. Electro and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

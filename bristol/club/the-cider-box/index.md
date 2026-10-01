@@ -1,8 +1,8 @@
 # The Cider Box
 
-The Cider Box is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "End of Summer Groove" on Fri, 2 Oct 2026.
+The Cider Box is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "End of Summer Groove" on Fri, 2 Oct 2026.
 
-The Cider Box is a music venue in Bristol listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Arch 5 Silverthorne Ln, Bristol BS2 0QD, UK.
+The Cider Box is a music venue in Bristol listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Arch 5 Silverthorne Ln, Bristol BS2 0QD, UK.
 
 ## What's on
 

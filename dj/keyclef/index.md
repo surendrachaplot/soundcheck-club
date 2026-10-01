@@ -1,8 +1,8 @@
 # Key Clef
 
-Key Clef is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Urban Spree, Berlin on Thu, 8 Oct 2026.
+Key Clef is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Urban Spree, Berlin on Thu, 8 Oct 2026.
 
-Key Clef is a techno and electronica artist based in Italy, tracked on soundcheck, with 79 sets logged across Athens, Barcelona, Berlin and Cologne and 7 more. Often billed alongside D-Leria, Ireen Amnes and Lunatik. Next up: Urban Spree, Berlin on Thu 8 Oct.
+Key Clef is a techno and electronica artist based in Italy, with 79 gigs on soundcheck across Athens, Barcelona, Berlin and Cologne and 7 more. Often billed alongside D-Leria, Ireen Amnes and Lunatik. Next up: Urban Spree, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Key Clef is a techno and electronica artist based in Italy, tracked on soundchec
 
 ## Recently played
 
-- Urban Spree, Berlin — Sat, 26 Sept 2026
-- Giri, Berlin — Fri, 26 Jun 2026
-- TBA, Milan — Sun, 21 Jun 2026
-- TBA - l863, Rome — Fri, 5 Jun 2026
-- Cave di Tufo Tor Cervara, Rome — Sat, 23 May 2026
-- Beach Neukölln, Berlin — Fri, 1 May 2026
-- TBA - Secret Location, Berlin — Sat, 21 Feb 2026
-- TBA - erBOX, Rome — Tue, 27 Jan 2026
+- Urban Spree, Berlin · Sat, 26 Sept 2026
+- Giri, Berlin · Fri, 26 Jun 2026
+- TBA, Milan · Sun, 21 Jun 2026
+- TBA - l863, Rome · Fri, 5 Jun 2026
+- Cave di Tufo Tor Cervara, Rome · Sat, 23 May 2026
+- Beach Neukölln, Berlin · Fri, 1 May 2026
+- TBA - Secret Location, Berlin · Sat, 21 Feb 2026
+- TBA - erBOX, Rome · Tue, 27 Jan 2026
 
 ## Shares bills with
 

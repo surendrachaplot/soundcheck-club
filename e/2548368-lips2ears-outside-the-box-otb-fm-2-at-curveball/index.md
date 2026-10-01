@@ -1,6 +1,6 @@
 # Lips2Ears OUTSIDE THE BOX: OTB FM 2 at Curveball
 
-Lips2Ears OUTSIDE THE BOX: OTB FM 2 at Curveball on Sat 7 Nov, Dublin. 2 artists on the bill: hellokt and Sleepyhead. Bass and Club. Preview the line-up and save it on soundcheck.
+Lips2Ears OUTSIDE THE BOX: OTB FM 2 at Curveball on Sat 7 Nov, Dublin. 2 artists: hellokt and Sleepyhead. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

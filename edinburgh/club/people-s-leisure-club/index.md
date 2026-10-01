@@ -1,8 +1,8 @@
 # People's Leisure Club
 
-People's Leisure Club is a music venue in Edinburgh with 23 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Not Waiting" on Thu, 1 Oct 2026.
+People's Leisure Club is a music venue in Edinburgh with 23 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Not Waiting" on Thu, 1 Oct 2026.
 
-People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 23 upcoming gigs, with line-ups including damside, Accident Machine, Alec Falconer and amhailt.xox and 2 more. Browse upcoming dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
+People's Leisure Club is a music venue in Edinburgh listed on soundcheck. 23 upcoming gigs, with line-ups including damside, Accident Machine, Alec Falconer and amhailt.xox and 2 more. See dates, start times and who's playing. 45 Lothian Street, Edinburgh, EH1 1HB.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Inflo presents - Darkside Rinseout at The Waiting Room
 
-Inflo presents - Darkside Rinseout at The Waiting Room on Sat 14 Nov, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+Inflo presents - Darkside Rinseout at The Waiting Room on Sat 14 Nov, London. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

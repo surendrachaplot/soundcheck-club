@@ -1,8 +1,8 @@
 # Joey Smalls
 
-Joey Smalls is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Walking Distance x Joey Smalls" on Sat, 3 Oct 2026.
+Joey Smalls is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Walking Distance x Joey Smalls" on Sat, 3 Oct 2026.
 
-Joey Smalls is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 284 Sydney Rd, Brunswick VIC 3056.
+Joey Smalls is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 284 Sydney Rd, Brunswick VIC 3056.
 
 ## What's on
 

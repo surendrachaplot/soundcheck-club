@@ -1,6 +1,6 @@
 # Twin Noir + Hinfort // Urban Spree, Berlin at Urban Spree
 
-Twin Noir + Hinfort // Urban Spree, Berlin on Sat 12 Dec, Berlin. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Twin Noir + Hinfort // Urban Spree, Berlin on Sat 12 Dec, Berlin. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SCHMUTZZZ — FILTHY, QUEER, UNFILTERED at Ficken 3000
 
-SCHMUTZZZ — FILTHY, QUEER, UNFILTERED at Ficken 3000 on Fri 23 Oct, Berlin. Techno and Tech House. Preview the line-up and save it on soundcheck.
+SCHMUTZZZ — FILTHY, QUEER, UNFILTERED at Ficken 3000 on Fri 23 Oct, Berlin. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

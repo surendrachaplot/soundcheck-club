@@ -1,8 +1,8 @@
 # Bridge 48
 
-Bridge 48 is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "B48 LIVE x THE GROOVE TELLERS #02" on Thu, 1 Oct 2026.
+Bridge 48 is a music venue in Barcelona with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "B48 LIVE x THE GROOVE TELLERS #02" on Thu, 1 Oct 2026.
 
-Bridge 48 is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Agoostina, Albert Salvatierra, Anka and chinobi and 2 more. Browse upcoming dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
+Bridge 48 is a music venue in Barcelona listed on soundcheck. 12 upcoming gigs, with line-ups including Agoostina, Albert Salvatierra, Anka and chinobi and 2 more. See dates, start times and who's playing. Carrer de Llull, 48, 08005 Barcelona, España.
 
 ## What's on
 

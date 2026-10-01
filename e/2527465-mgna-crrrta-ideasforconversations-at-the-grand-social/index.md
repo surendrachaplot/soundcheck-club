@@ -1,6 +1,6 @@
 # MGNA Crrrta & ideasforconversations at The Grand Social
 
-MGNA Crrrta & ideasforconversations at The Grand Social on Sun 8 Nov, Dublin. Pop and Electronica. Preview the line-up and save it on soundcheck.
+MGNA Crrrta & ideasforconversations at The Grand Social on Sun 8 Nov, Dublin. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

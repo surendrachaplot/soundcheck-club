@@ -1,8 +1,8 @@
 # Frost Children
 
-Frost Children is a Pop and Electronica artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Frost Children is a Pop and Electronica artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
-Frost Children is a pop and electronica artist based in United States of America, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 24 more. Often billed alongside 10cust, Ali RQ and Anetha. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
+Frost Children is a pop and electronica artist based in United States of America, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 24 more. Often billed alongside 10cust, Ali RQ and Anetha. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Frost Children is a pop and electronica artist based in United States of America
 
 ## Recently played
 
-- Yamamori Tengu, Dublin — Sun, 6 Sept 2026
-- Strange Brew, Bristol — Wed, 2 Sept 2026
-- Belgrave Music Hall, Leeds — Tue, 1 Sept 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- SILO, New York City — Sat, 25 Jul 2026
-- FLUCC, Vienna — Wed, 15 Jul 2026
-- Ostrov Štvanice, Prague — Fri, 10 Jul 2026
-- DSTRKT Club Berlin, Berlin — Sat, 20 Jun 2026
+- Yamamori Tengu, Dublin · Sun, 6 Sept 2026
+- Strange Brew, Bristol · Wed, 2 Sept 2026
+- Belgrave Music Hall, Leeds · Tue, 1 Sept 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- SILO, New York City · Sat, 25 Jul 2026
+- FLUCC, Vienna · Wed, 15 Jul 2026
+- Ostrov Štvanice, Prague · Fri, 10 Jul 2026
+- DSTRKT Club Berlin, Berlin · Sat, 20 Jun 2026
 
 ## Shares bills with
 

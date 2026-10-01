@@ -1,6 +1,6 @@
 # Zakes Bantwini at Zumana Bali
 
-Zakes Bantwini at Zumana Bali on Sat 10 Oct, Bali. 1 artist on the bill: Zakes Bantwini. Kwaito and Afro House. Preview the line-up and save it on soundcheck.
+Zakes Bantwini at Zumana Bali on Sat 10 Oct, Bali. 1 artist: Zakes Bantwini. Kwaito and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

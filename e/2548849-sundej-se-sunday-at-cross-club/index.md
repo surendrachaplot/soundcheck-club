@@ -1,6 +1,6 @@
 # SUNDEJ SE SUNDAY at Cross Club
 
-SUNDEJ SE SUNDAY at Cross Club on Sun 4 Oct, Prague. Preview the line-up and save it on soundcheck.
+SUNDEJ SE SUNDAY at Cross Club on Sun 4 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

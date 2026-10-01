@@ -1,6 +1,6 @@
 # Strefa Zamnkięta - Hard Techno Division at Piękno
 
-Strefa Zamnkięta - Hard Techno Division at Piękno on Fri 6 Nov, Warsaw. 4 artists on the bill: Mila, oriole (PL), SINTHER and VRAXX. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Strefa Zamnkięta - Hard Techno Division at Piękno on Fri 6 Nov, Warsaw. 4 artists: Mila, oriole (PL), SINTHER and VRAXX. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

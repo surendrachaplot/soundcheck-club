@@ -1,8 +1,8 @@
 # Auramatic
 
-Auramatic is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at ark (Melb), Melbourne on Sat, 28 Nov 2026.
+Auramatic is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ark (Melb), Melbourne on Sat, 28 Nov 2026.
 
-Auramatic is a garage and house artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Barcelona and Brighton and 19 more. Often billed alongside n4tee, DAISY and Mattik (UK). Next up: ark (Melb), Melbourne on Sat 28 Nov.
+Auramatic is a garage and house artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brighton and 19 more. Often billed alongside n4tee, DAISY and Mattik (UK). Next up: ark (Melb), Melbourne on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Auramatic is a garage and house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Club Wintercircus, Ghent — Fri, 18 Sept 2026
-- Movers, Nottingham — Thu, 17 Sept 2026
-- Sneaky Pete's, Edinburgh — Wed, 16 Sept 2026
-- Het Sieraad, Amsterdam — Sat, 20 Jun 2026
-- NUMBER 90 LONDON, London — Sat, 13 Jun 2026
-- Het Sieraad, Amsterdam — Wed, 13 May 2026
-- The Bag Factory, Manchester — Fri, 8 May 2026
-- Mondo, Madrid — Sat, 14 Mar 2026
+- Club Wintercircus, Ghent · Fri, 18 Sept 2026
+- Movers, Nottingham · Thu, 17 Sept 2026
+- Sneaky Pete's, Edinburgh · Wed, 16 Sept 2026
+- Het Sieraad, Amsterdam · Sat, 20 Jun 2026
+- NUMBER 90 LONDON, London · Sat, 13 Jun 2026
+- Het Sieraad, Amsterdam · Wed, 13 May 2026
+- The Bag Factory, Manchester · Fri, 8 May 2026
+- Mondo, Madrid · Sat, 14 Mar 2026
 
 ## Shares bills with
 

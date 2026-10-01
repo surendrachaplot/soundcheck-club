@@ -1,8 +1,8 @@
 # Button Factory
 
-Button Factory is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Cassius" on Fri, 16 Oct 2026.
+Button Factory is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Cassius" on Fri, 16 Oct 2026.
 
-Button Factory is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including 19:26, Cassius, KORMAC and Modeselektor. Browse upcoming dates, start times and who's playing. 2 Curved Street; Dublin 2; Ireland.
+Button Factory is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including 19:26, Cassius, KORMAC and Modeselektor. See dates, start times and who's playing. 2 Curved Street; Dublin 2; Ireland.
 
 ## What's on
 

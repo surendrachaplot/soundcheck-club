@@ -1,8 +1,8 @@
 # ACE
 
-ACE is a Ambient and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MAD Arts, Detroit on Thu, 1 Oct 2026.
+ACE is a Ambient and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MAD Arts, Detroit on Thu, 1 Oct 2026.
 
-ACE is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 25 sets logged across Athens, Berlin, Detroit and Leipzig and 6 more. Often billed alongside Dominant Hand, Felice and Francois Dillinger. Next up: MAD Arts, Detroit on Thu 1 Oct.
+ACE is an ambient and experimental artist based in United States of America, with 25 gigs on soundcheck across Athens, Berlin, Detroit and Leipzig and 6 more. Often billed alongside Dominant Hand, Felice and Francois Dillinger. Next up: MAD Arts, Detroit on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ ACE is an ambient and experimental artist based in United States of America, tra
 
 ## Recently played
 
-- Bahnwärter Thiel, Munich — Thu, 23 Jul 2026
-- elipamanoke, Leipzig — Sat, 6 Jun 2026
-- Bahnwärter Thiel, Munich — Fri, 20 Mar 2026
-- Vander, Detroit — Sat, 21 Feb 2026
-- Distillery, Leipzig — Fri, 6 Feb 2026
-- Boyer Campbell Building, Detroit — Sat, 31 Jan 2026
-- TBA, Detroit — Thu, 29 Jan 2026
-- Bahnwärter Thiel, Munich — Thu, 9 Oct 2025
+- Bahnwärter Thiel, Munich · Thu, 23 Jul 2026
+- elipamanoke, Leipzig · Sat, 6 Jun 2026
+- Bahnwärter Thiel, Munich · Fri, 20 Mar 2026
+- Vander, Detroit · Sat, 21 Feb 2026
+- Distillery, Leipzig · Fri, 6 Feb 2026
+- Boyer Campbell Building, Detroit · Sat, 31 Jan 2026
+- TBA, Detroit · Thu, 29 Jan 2026
+- Bahnwärter Thiel, Munich · Thu, 9 Oct 2025
 
 ## Shares bills with
 

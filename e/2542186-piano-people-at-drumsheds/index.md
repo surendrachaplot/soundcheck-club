@@ -1,6 +1,6 @@
 # Piano People at DRUMSHEDS
 
-Piano People at DRUMSHEDS on Sun 29 Nov, London. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+Piano People at DRUMSHEDS on Sun 29 Nov, London. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

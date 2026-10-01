@@ -1,6 +1,6 @@
 # RAZZCLUBS: Arthi + Flota: Dj Sueño + El Mini Live + Dj Xeira + Sonia Lagoon at Razzmatazz
 
-RAZZCLUBS: Arthi + Flota: Dj Sueño + El Mini Live + Dj Xeira + Sonia Lagoon at Razzmatazz on Fri 16 Oct, Barcelona. 10 artists on the bill: Arthi, Dj Sueño, DJ2D2 and Drizzyclare and 6 more. Preview the line-up and save it on soundcheck.
+RAZZCLUBS: Arthi + Flota: Dj Sueño + El Mini Live + Dj Xeira + Sonia Lagoon at Razzmatazz on Fri 16 Oct, Barcelona. 10 artists: Arthi, Dj Sueño, DJ2D2 and Drizzyclare and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

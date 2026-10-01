@@ -1,6 +1,6 @@
 # QZO'SDAY 15th at Socrates
 
-QZO'SDAY 15th at Socrates on Sat 3 Oct, Kyoto. Hardcore and New Wave. Preview the line-up and save it on soundcheck.
+QZO'SDAY 15th at Socrates on Sat 3 Oct, Kyoto. Hardcore and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

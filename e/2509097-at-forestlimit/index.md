@@ -1,6 +1,6 @@
 # 「秋のドンピシャ！爆踊り祭り！」 at Forestlimit
 
-「秋のドンピシャ！爆踊り祭り！」 at Forestlimit on Fri 2 Oct, Tokyo. Experimental and Pop. Preview the line-up and save it on soundcheck.
+「秋のドンピシャ！爆踊り祭り！」 at Forestlimit on Fri 2 Oct, Tokyo. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

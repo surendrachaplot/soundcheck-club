@@ -1,6 +1,6 @@
 # MANTIKORE & NOVOCAINE at Gate Milano
 
-MANTIKORE & NOVOCAINE at Gate Milano on Fri 2 Oct, Milan. 2 artists on the bill: ANEM1 and RIBLX. Preview the line-up and save it on soundcheck.
+MANTIKORE & NOVOCAINE at Gate Milano on Fri 2 Oct, Milan. 2 artists: ANEM1 and RIBLX. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

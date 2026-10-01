@@ -1,6 +1,6 @@
 # Miss Dreamz presents: FERAL with BØX, Rawmantique and Tanga at KREUZWERK
 
-Miss Dreamz presents: FERAL with BØX, Rawmantique and Tanga at KREUZWERK on Sat 5 Dec, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Miss Dreamz presents: FERAL with BØX, Rawmantique and Tanga at KREUZWERK on Sat 5 Dec, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # M87, Guerrilla & Full Circle pres VERGE: BEAUMONT, DOREY, VANNA, VIVACE at Lakeside Pavilion
 
-M87, Guerrilla & Full Circle pres VERGE: BEAUMONT, DOREY, VANNA, VIVACE at Lakeside Pavilion on Sat 24 Oct, Melbourne. 5 artists on the bill: BETHANY, DOREY, Kade Hoey and VANNA and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+M87, Guerrilla & Full Circle pres VERGE: BEAUMONT, DOREY, VANNA, VIVACE at Lakeside Pavilion on Sat 24 Oct, Melbourne. 5 artists: BETHANY, DOREY, Kade Hoey and VANNA and 1 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

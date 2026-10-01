@@ -1,8 +1,8 @@
 # YUUKI YOSHIYAMA
 
-YUUKI YOSHIYAMA is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at W Osaka, Osaka on Fri, 30 Oct 2026.
+YUUKI YOSHIYAMA is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at W Osaka, Osaka on Fri, 30 Oct 2026.
 
-YUUKI YOSHIYAMA is a tech house and house artist based in Japan, tracked on soundcheck, with 46 sets logged across Amsterdam, Bali, Cologne and Osaka and 1 more. Often billed alongside DMITRI ABSINTHE, MAX PELA and Nao Nomura. Next up: W Osaka, Osaka on Fri 30 Oct.
+YUUKI YOSHIYAMA is a tech house and house artist based in Japan, with 46 gigs on soundcheck across Amsterdam, Bali, Cologne and Osaka and 1 more. Often billed alongside DMITRI ABSINTHE, MAX PELA and Nao Nomura. Next up: W Osaka, Osaka on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ YUUKI YOSHIYAMA is a tech house and house artist based in Japan, tracked on soun
 
 ## Recently played
 
-- W Osaka, Osaka — Fri, 25 Sept 2026
-- Ohama Park Pool / 大浜公園プール, Osaka — Sun, 13 Sept 2026
-- W Osaka, Osaka — Sat, 22 Aug 2026
-- W Osaka, Osaka — Sat, 11 Jul 2026
-- W Osaka, Osaka — Sat, 20 Jun 2026
-- W Osaka, Osaka — Sat, 23 May 2026
-- W Osaka, Osaka — Fri, 22 May 2026
-- W Osaka, Osaka — Sat, 4 Apr 2026
+- W Osaka, Osaka · Fri, 25 Sept 2026
+- Ohama Park Pool / 大浜公園プール, Osaka · Sun, 13 Sept 2026
+- W Osaka, Osaka · Sat, 22 Aug 2026
+- W Osaka, Osaka · Sat, 11 Jul 2026
+- W Osaka, Osaka · Sat, 20 Jun 2026
+- W Osaka, Osaka · Sat, 23 May 2026
+- W Osaka, Osaka · Fri, 22 May 2026
+- W Osaka, Osaka · Sat, 4 Apr 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Nesta + Eugle + TBA at Fünk
 
-Nesta + Eugle + TBA at Fünk on Fri 23 Oct, Mexico City. 1 artist on the bill: Nesta. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Nesta + Eugle + TBA at Fünk on Fri 23 Oct, Mexico City. 1 artist: Nesta. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bloody Halloween House Music at Maxilla Socialclub
 
-Bloody Halloween House Music at Maxilla Socialclub on Sat 31 Oct, London. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Bloody Halloween House Music at Maxilla Socialclub on Sat 31 Oct, London. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

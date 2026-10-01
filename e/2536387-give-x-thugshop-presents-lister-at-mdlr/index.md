@@ -1,6 +1,6 @@
 # GIVE. X THUGSHOP presents LISTER at Mdlr
 
-GIVE. X THUGSHOP presents LISTER at Mdlr on Sat 17 Oct, Singapore. 2 artists on the bill: Joshua Dillon and Lister. Techno and House. Preview the line-up and save it on soundcheck.
+GIVE. X THUGSHOP presents LISTER at Mdlr on Sat 17 Oct, Singapore. 2 artists: Joshua Dillon and Lister. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

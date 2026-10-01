@@ -1,6 +1,6 @@
 # Sanctuary Forever: The Final Chapter at Marshall Arena
 
-Sanctuary Forever: The Final Chapter at Marshall Arena on Sat 7 Nov, South East. 22 artists on the bill: Bassman, Billy Daniel Bunter, caLLy and Charlie B and 18 more. Preview the line-up and save it on soundcheck.
+Sanctuary Forever: The Final Chapter at Marshall Arena on Sat 7 Nov, South East. 22 artists: Bassman, Billy Daniel Bunter, caLLy and Charlie B and 18 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

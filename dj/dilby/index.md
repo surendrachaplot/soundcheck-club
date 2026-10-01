@@ -1,8 +1,8 @@
 # Dilby
 
-Dilby is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Terraza Catedral, Mexico City on Sat, 17 Oct 2026.
+Dilby is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Terraza Catedral, Mexico City on Sat, 17 Oct 2026.
 
-Dilby is a house and deep house artist based in New Zealand, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, Brisbane and Frankfurt and 6 more. Often billed alongside Leah Marie, Cris-H and JHNS. Next up: Terraza Catedral, Mexico City on Sat 17 Oct.
+Dilby is a house and deep house artist based in New Zealand, with 19 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Frankfurt and 6 more. Often billed alongside Leah Marie, Cris-H and JHNS. Next up: Terraza Catedral, Mexico City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Dilby is a house and deep house artist based in New Zealand, tracked on soundche
 
 ## Recently played
 
-- Kater, Berlin — Fri, 11 Sept 2026
-- Gestrandet An Der Jannowitzbrücke, Berlin — Fri, 29 May 2026
-- Amano East-Side, Berlin — Sat, 11 Apr 2026
-- Tausend, Berlin — Sat, 4 Apr 2026
-- Beate Uwe, Berlin — Fri, 3 Apr 2026
-- OneSixOne, Melbourne — Fri, 20 Feb 2026
-- Pracht, Frankfurt — Sat, 17 Jan 2026
-- fabric, London — Fri, 9 Jan 2026
+- Kater, Berlin · Fri, 11 Sept 2026
+- Gestrandet An Der Jannowitzbrücke, Berlin · Fri, 29 May 2026
+- Amano East-Side, Berlin · Sat, 11 Apr 2026
+- Tausend, Berlin · Sat, 4 Apr 2026
+- Beate Uwe, Berlin · Fri, 3 Apr 2026
+- OneSixOne, Melbourne · Fri, 20 Feb 2026
+- Pracht, Frankfurt · Sat, 17 Jan 2026
+- fabric, London · Fri, 9 Jan 2026
 
 ## Shares bills with
 

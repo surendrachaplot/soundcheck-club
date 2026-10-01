@@ -1,6 +1,6 @@
 # San Holo with Taiki Nulight, Atura at Echostage
 
-San Holo with Taiki Nulight, Atura at Echostage on Sat 17 Oct, Washington DC. 1 artist on the bill: San Holo. House and Bass. Preview the line-up and save it on soundcheck.
+San Holo with Taiki Nulight, Atura at Echostage on Sat 17 Oct, Washington DC. 1 artist: San Holo. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

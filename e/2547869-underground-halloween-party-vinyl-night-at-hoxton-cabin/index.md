@@ -1,6 +1,6 @@
 # Underground Halloween Party (Vinyl night) at Hoxton Cabin
 
-Underground Halloween Party (Vinyl night) at Hoxton Cabin on Sat 31 Oct, London. 4 artists on the bill: Acid Steve, Darc Marc, DJ Dimensions and Rez Alberto Rettore. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Underground Halloween Party (Vinyl night) at Hoxton Cabin on Sat 31 Oct, London. 4 artists: Acid Steve, Darc Marc, DJ Dimensions and Rez Alberto Rettore. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

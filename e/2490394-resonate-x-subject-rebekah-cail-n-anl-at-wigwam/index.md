@@ -1,6 +1,6 @@
 # Resonate x Subject: Rebekah & Cailín (ANL) at Wigwam
 
-Resonate x Subject: Rebekah & Cailín (ANL) at Wigwam on Fri 20 Nov, Dublin. 2 artists on the bill: Cailín and Rebekah. Techno. Preview the line-up and save it on soundcheck.
+Resonate x Subject: Rebekah & Cailín (ANL) at Wigwam on Fri 20 Nov, Dublin. 2 artists: Cailín and Rebekah. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

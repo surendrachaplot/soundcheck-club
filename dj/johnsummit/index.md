@@ -1,8 +1,8 @@
 # John Summit
 
-John Summit is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Capital One Arena, Washington DC on Sat, 31 Oct 2026.
+John Summit is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Capital One Arena, Washington DC on Sat, 31 Oct 2026.
 
-John Summit is a house and tech house artist based in United States of America, tracked on soundcheck, with 117 sets logged across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Layton Giordani, Eli Brown and Loco Dice. Next up: TBA - Capital One Arena, Washington DC on Sat 31 Oct.
+John Summit is a house and tech house artist based in United States of America, with 117 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 26 more. Often billed alongside Layton Giordani, Eli Brown and Loco Dice. Next up: TBA - Capital One Arena, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ John Summit is a house and tech house artist based in United States of America, 
 
 ## Recently played
 
-- Randall's Island, New York City — Sat, 19 Sept 2026
-- TBA - Mandarine Tent, Punta Carrasco, Buenos Aires — Sat, 12 Sept 2026
-- Grant Park, Chicago — Fri, 31 Jul 2026
-- Radius, Chicago — Thu, 30 Jul 2026
-- [UNVRS], Ibiza — Mon, 27 Jul 2026
-- [UNVRS], Ibiza — Mon, 20 Jul 2026
-- Cavo Paradiso, Mykonos — Fri, 17 Jul 2026
-- [UNVRS], Ibiza — Mon, 13 Jul 2026
+- Randall's Island, New York City · Sat, 19 Sept 2026
+- TBA - Mandarine Tent, Punta Carrasco, Buenos Aires · Sat, 12 Sept 2026
+- Grant Park, Chicago · Fri, 31 Jul 2026
+- Radius, Chicago · Thu, 30 Jul 2026
+- [UNVRS], Ibiza · Mon, 27 Jul 2026
+- [UNVRS], Ibiza · Mon, 20 Jul 2026
+- Cavo Paradiso, Mykonos · Fri, 17 Jul 2026
+- [UNVRS], Ibiza · Mon, 13 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Kelela at La Paloma
 
-Kelela at La Paloma on Fri 23 Oct, Barcelona. 1 artist on the bill: Kelela. R&B. Preview the line-up and save it on soundcheck.
+Kelela at La Paloma on Fri 23 Oct, Barcelona. 1 artist: Kelela. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

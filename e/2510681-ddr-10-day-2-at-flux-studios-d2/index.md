@@ -1,6 +1,6 @@
 # ddr.10 Day 2 at Flux Studios D2
 
-ddr.10 Day 2 at Flux Studios D2 on Sun 1 Nov, Dublin. Preview the line-up and save it on soundcheck.
+ddr.10 Day 2 at Flux Studios D2 on Sun 1 Nov, Dublin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

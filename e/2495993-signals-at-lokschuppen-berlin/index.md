@@ -1,6 +1,6 @@
 # SIGNALS at Lokschuppen Berlin
 
-SIGNALS at Lokschuppen Berlin on Wed 18 Nov, Berlin. Trance and Techno. Preview the line-up and save it on soundcheck.
+SIGNALS at Lokschuppen Berlin on Wed 18 Nov, Berlin. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

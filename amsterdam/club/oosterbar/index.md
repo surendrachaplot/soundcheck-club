@@ -1,8 +1,8 @@
 # Oosterbar
 
-Oosterbar is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SONO - JAYC and More" on Sat, 3 Oct 2026.
+Oosterbar is a music venue in Amsterdam with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SONO - JAYC and More" on Sat, 3 Oct 2026.
 
-Oosterbar is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Albin Brezlan, BARIŞ BERBER, Carabetta and Carlo Lio and 2 more. Browse upcoming dates, start times and who's playing. Mauritskade 57, 1092 AD Amsterdam, Netherlands.
+Oosterbar is a music venue in Amsterdam listed on soundcheck. 4 upcoming gigs, with line-ups including Albin Brezlan, BARIŞ BERBER, Carabetta and Carlo Lio and 2 more. See dates, start times and who's playing. Mauritskade 57, 1092 AD Amsterdam, Netherlands.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # KABUL à GoGo
 
-KABUL à GoGo is a music venue in Utrecht with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Het funk" on Fri, 2 Oct 2026.
+KABUL à GoGo is a music venue in Utrecht with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Het funk" on Fri, 2 Oct 2026.
 
-KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 7 upcoming gigs, with line-ups including 36framez, Aba Shanti-I, Azu Tiwaline and CARISTA and 2 more. Browse upcoming dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
+KABUL à GoGo is a music venue in Utrecht listed on soundcheck. 7 upcoming gigs, with line-ups including 36framez, Aba Shanti-I, Azu Tiwaline and CARISTA and 2 more. See dates, start times and who's playing. Gietijzerstraat 3, 3534 AV, Utrecht, Netherlands.
 
 ## What's on
 

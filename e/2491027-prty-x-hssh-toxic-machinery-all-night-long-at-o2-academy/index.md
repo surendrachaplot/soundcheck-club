@@ -1,6 +1,6 @@
 # PRTY x HSSH: Toxic Machinery [All Night Long] at O2 Academy
 
-PRTY x HSSH: Toxic Machinery [All Night Long] at O2 Academy on Fri 16 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+PRTY x HSSH: Toxic Machinery [All Night Long] at O2 Academy on Fri 16 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

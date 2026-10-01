@@ -1,6 +1,6 @@
 # Project Halloween at NX Newcastle
 
-Project Halloween at NX Newcastle on Thu 29 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Project Halloween at NX Newcastle on Thu 29 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

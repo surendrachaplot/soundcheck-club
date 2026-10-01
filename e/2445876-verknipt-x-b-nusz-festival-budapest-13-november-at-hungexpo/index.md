@@ -1,6 +1,6 @@
 # VERKNIPT x BÓNUSZ Festival - Budapest - 13 November at Hungexpo Budapest
 
-VERKNIPT x BÓNUSZ Festival - Budapest - 13 November at Hungexpo Budapest on Fri 13 Nov, Budapest. Techno. Preview the line-up and save it on soundcheck.
+VERKNIPT x BÓNUSZ Festival - Budapest - 13 November at Hungexpo Budapest on Fri 13 Nov, Budapest. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

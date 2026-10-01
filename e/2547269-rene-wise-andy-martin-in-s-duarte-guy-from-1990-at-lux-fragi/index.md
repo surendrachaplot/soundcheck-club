@@ -1,6 +1,6 @@
 # Rene Wise, Andy Martin, Inês Duarte, Guy from 1990 at Lux Fragil
 
-Rene Wise, Andy Martin, Inês Duarte, Guy from 1990 at Lux Fragil on Fri 9 Oct, Lisbon. 4 artists on the bill: Andy Martin, Guy from 1990, Inês Duarte and Rene Wise. Techno. Preview the line-up and save it on soundcheck.
+Rene Wise, Andy Martin, Inês Duarte, Guy from 1990 at Lux Fragil on Fri 9 Oct, Lisbon. 4 artists: Andy Martin, Guy from 1990, Inês Duarte and Rene Wise. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Julian Artur at Spacetalk at Space Talk
 
-Julian Artur at Spacetalk at Space Talk on Fri 16 Oct, London. 1 artist on the bill: Julian Artur. House and Downtempo. Preview the line-up and save it on soundcheck.
+Julian Artur at Spacetalk at Space Talk on Fri 16 Oct, London. 1 artist: Julian Artur. House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

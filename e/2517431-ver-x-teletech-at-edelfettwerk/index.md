@@ -1,6 +1,6 @@
 # VER x TELETECH at Edelfettwerk
 
-VER x TELETECH at Edelfettwerk on Sat 14 Nov, Hamburg. Trance and Techno. Preview the line-up and save it on soundcheck.
+VER x TELETECH at Edelfettwerk on Sat 14 Nov, Hamburg. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

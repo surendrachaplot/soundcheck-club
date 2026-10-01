@@ -1,8 +1,8 @@
 # Pomboklap
 
-Pomboklap is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 25 Oct 2026.
+Pomboklap is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Akasha Las Dalias Club - Ibiza, Ibiza on Sun, 25 Oct 2026.
 
-Pomboklap is a house and afro house artist based in Spain, tracked on soundcheck, with 67 sets logged across Barcelona, Ibiza, Lisbon and London and 2 more. Often billed alongside MËSTIZA, Maik Miroux and Torrione. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 25 Oct.
+Pomboklap is a house and afro house artist based in Spain, with 67 gigs on soundcheck across Barcelona, Ibiza, Lisbon and London and 2 more. Often billed alongside MËSTIZA, Maik Miroux and Torrione. Next up: Akasha Las Dalias Club - Ibiza, Ibiza on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Pomboklap is a house and afro house artist based in Spain, tracked on soundcheck
 
 ## Recently played
 
-- Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 23 Sept 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 13 Sept 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 19 Aug 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 22 Jul 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 19 Jul 2026
-- Hï Ibiza, Ibiza — Sun, 21 Jun 2026
-- TBA, Barcelona — Sat, 20 Jun 2026
-- Barco Sound House, Madrid — Thu, 18 Jun 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Wed, 23 Sept 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sun, 13 Sept 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Wed, 19 Aug 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Wed, 22 Jul 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sun, 19 Jul 2026
+- Hï Ibiza, Ibiza · Sun, 21 Jun 2026
+- TBA, Barcelona · Sat, 20 Jun 2026
+- Barco Sound House, Madrid · Thu, 18 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY at Chop Suey
 
-PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY at Chop Suey on Fri 23 Oct, Seattle. Preview the line-up and save it on soundcheck.
+PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY at Chop Suey on Fri 23 Oct, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

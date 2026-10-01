@@ -1,8 +1,8 @@
 # Olive F
 
-Olive F is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Spybar, Chicago on Fri, 2 Oct 2026.
+Olive F is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Spybar, Chicago on Fri, 2 Oct 2026.
 
-Olive F is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 130 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: Spybar, Chicago on Fri 2 Oct.
+Olive F is a house and tech house artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Darius Syrossian, Eats Everything and Nic Fanciulli. Next up: Spybar, Chicago on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Olive F is a house and tech house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- [UNVRS], Ibiza — Wed, 16 Sept 2026
-- [UNVRS], Ibiza — Sat, 5 Sept 2026
-- Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
-- Amnesia Ibiza, Ibiza — Thu, 27 Aug 2026
-- UNO MALTA, Malta — Sat, 8 Aug 2026
-- Hï Ibiza, Ibiza — Wed, 5 Aug 2026
-- Cova Santa, Ibiza — Tue, 28 Jul 2026
-- [UNVRS], Ibiza — Wed, 8 Jul 2026
+- [UNVRS], Ibiza · Wed, 16 Sept 2026
+- [UNVRS], Ibiza · Sat, 5 Sept 2026
+- Van Nelle Fabriek, Rotterdam · Sat, 29 Aug 2026
+- Amnesia Ibiza, Ibiza · Thu, 27 Aug 2026
+- UNO MALTA, Malta · Sat, 8 Aug 2026
+- Hï Ibiza, Ibiza · Wed, 5 Aug 2026
+- Cova Santa, Ibiza · Tue, 28 Jul 2026
+- [UNVRS], Ibiza · Wed, 8 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # TIËSTO TRIBUTE TRANCE & TECHNO - LIVERPOOL at TBA
 
-TIËSTO TRIBUTE TRANCE & TECHNO - LIVERPOOL at TBA on Sat 21 Nov, Liverpool. Trance and Techno. Preview the line-up and save it on soundcheck.
+TIËSTO TRIBUTE TRANCE & TECHNO - LIVERPOOL at TBA on Sat 21 Nov, Liverpool. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

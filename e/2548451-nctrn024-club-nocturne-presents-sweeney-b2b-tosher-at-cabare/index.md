@@ -1,6 +1,6 @@
 # NCTRN024: Club Nocturne presents Sweeney b2b Tosher at Cabaret Voltaire
 
-NCTRN024: Club Nocturne presents Sweeney b2b Tosher at Cabaret Voltaire on Sat 3 Oct, Edinburgh. 2 artists on the bill: Sweeney and Tosher. House. Preview the line-up and save it on soundcheck.
+NCTRN024: Club Nocturne presents Sweeney b2b Tosher at Cabaret Voltaire on Sat 3 Oct, Edinburgh. 2 artists: Sweeney and Tosher. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

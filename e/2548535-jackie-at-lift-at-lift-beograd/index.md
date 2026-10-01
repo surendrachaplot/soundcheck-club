@@ -1,6 +1,6 @@
 # Jackie at LIFT at Lift Beograd
 
-Jackie at LIFT at Lift Beograd on Fri 2 Oct, Belgrade. 1 artist on the bill: Jackie Dagger. Preview the line-up and save it on soundcheck.
+Jackie at LIFT at Lift Beograd on Fri 2 Oct, Belgrade. 1 artist: Jackie Dagger. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

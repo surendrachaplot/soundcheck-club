@@ -1,6 +1,6 @@
 # DIZZY mini at Mood Ring
 
-DIZZY mini at Mood Ring on Thu 8 Oct, New York City. 2 artists on the bill: Cure2 and Samuelx. Preview the line-up and save it on soundcheck.
+DIZZY mini at Mood Ring on Thu 8 Oct, New York City. 2 artists: Cure2 and Samuelx. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # C115 presents DjRUM [DJ Kicks] at C115
 
-C115 presents DjRUM [DJ Kicks] on Sat 5 Dec, Berlin. 2 artists on the bill: DjRUM and Stenny. Bass. Preview the line-up and save it on soundcheck.
+C115 presents DjRUM [DJ Kicks] on Sat 5 Dec, Berlin. 2 artists: DjRUM and Stenny. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

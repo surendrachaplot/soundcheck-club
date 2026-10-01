@@ -1,8 +1,8 @@
 # cowntrydog
 
-cowntrydog is a Club and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
+cowntrydog is a Club and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Foro Niebla, Mexico City on Sat, 3 Oct 2026.
 
-cowntrydog is a club and pop artist based in Mexico, tracked on soundcheck, with 11 sets logged across Mexico City. Often billed alongside Babybruise, Lyo XS and dj mico. Next up: Foro Niebla, Mexico City on Sat 3 Oct.
+cowntrydog is a club and pop artist based in Mexico, with 11 gigs on soundcheck across Mexico City. Often billed alongside Babybruise, Lyo XS and dj mico. Next up: Foro Niebla, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ cowntrydog is a club and pop artist based in Mexico, tracked on soundcheck, with
 
 ## Recently played
 
-- YuYu Cine Club, Mexico City — Sat, 1 Aug 2026
-- YuYu Cine Club, Mexico City — Sat, 20 Jun 2026
-- Mariano Escobedo 494, Mexico City — Sat, 25 Apr 2026
-- Obra Gris, Mexico City — Sat, 11 Apr 2026
-- YuYu Cine Club, Mexico City — Sat, 14 Mar 2026
-- Drama Radio Bar, Mexico City — Thu, 30 Oct 2025
-- Antiguo Hotel Reforma, Mexico City — Sat, 18 Oct 2025
-- TBA - Tlaxcoaque 8 centro historico cdmx, Mexico City — Sat, 24 May 2025
+- YuYu Cine Club, Mexico City · Sat, 1 Aug 2026
+- YuYu Cine Club, Mexico City · Sat, 20 Jun 2026
+- Mariano Escobedo 494, Mexico City · Sat, 25 Apr 2026
+- Obra Gris, Mexico City · Sat, 11 Apr 2026
+- YuYu Cine Club, Mexico City · Sat, 14 Mar 2026
+- Drama Radio Bar, Mexico City · Thu, 30 Oct 2025
+- Antiguo Hotel Reforma, Mexico City · Sat, 18 Oct 2025
+- TBA - Tlaxcoaque 8 centro historico cdmx, Mexico City · Sat, 24 May 2025
 
 ## Shares bills with
 

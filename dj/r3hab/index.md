@@ -1,8 +1,8 @@
 # R3hab
 
-R3hab is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Fri, 9 Oct 2026.
+R3hab is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Fri, 9 Oct 2026.
 
-R3hab is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Bangkok, Boston, Cologne and Gdansk and 8 more. Often billed alongside Afrojack, Walker & Royce and Alesso. Next up: DRUMSHEDS, London on Fri 9 Oct.
+R3hab is a house and progressive house artist based in Netherlands, with 20 gigs on soundcheck across Bangkok, Boston, Cologne and Gdansk and 8 more. Often billed alongside Afrojack, Walker & Royce and Alesso. Next up: DRUMSHEDS, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ R3hab is a house and progressive house artist based in Netherlands, tracked on s
 
 ## Recently played
 
-- New City Gas, Montreal — Sat, 26 Sept 2026
-- Glen Helen Regional Park, Los Angeles — Sat, 19 Sept 2026
-- Q Nightclub, Seattle — Fri, 18 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Thu, 10 Sept 2026
-- Bootshaus, Cologne — Fri, 4 Sept 2026
-- Bootshaus, Cologne — Fri, 7 Aug 2026
-- Toyota Arena Tokyo, Tokyo — Sat, 27 Jun 2026
-- BMO Stadium, Los Angeles — Sat, 27 Sept 2025
+- New City Gas, Montreal · Sat, 26 Sept 2026
+- Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
+- Q Nightclub, Seattle · Fri, 18 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Thu, 10 Sept 2026
+- Bootshaus, Cologne · Fri, 4 Sept 2026
+- Bootshaus, Cologne · Fri, 7 Aug 2026
+- Toyota Arena Tokyo, Tokyo · Sat, 27 Jun 2026
+- BMO Stadium, Los Angeles · Sat, 27 Sept 2025
 
 ## Shares bills with
 

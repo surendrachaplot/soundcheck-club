@@ -1,6 +1,6 @@
 # Lycanthropie: Marc Acardipane, Dr Macabre, Manu Le Malin at Mia Mao
 
-Lycanthropie: Marc Acardipane, Dr Macabre, Manu Le Malin at Mia Mao on Fri 9 Oct, Paris. 2 artists on the bill: ÆSTR and Marc Acardipane. Hardcore. Preview the line-up and save it on soundcheck.
+Lycanthropie: Marc Acardipane, Dr Macabre, Manu Le Malin at Mia Mao on Fri 9 Oct, Paris. 2 artists: ÆSTR and Marc Acardipane. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

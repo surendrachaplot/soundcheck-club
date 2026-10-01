@@ -1,6 +1,6 @@
 # Derrick May (20/44 x KRŠ) at Klub 20/44
 
-Derrick May (20/44 x KRŠ) at Klub 20/44 on Sat 17 Oct, Belgrade. 1 artist on the bill: Derrick May. Techno and House. Preview the line-up and save it on soundcheck.
+Derrick May (20/44 x KRŠ) at Klub 20/44 on Sat 17 Oct, Belgrade. 1 artist: Derrick May. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

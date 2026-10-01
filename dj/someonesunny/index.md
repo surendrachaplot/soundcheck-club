@@ -1,8 +1,8 @@
 # Someone Sunny
 
-Someone Sunny is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Georgia Bar, Berlin on Fri, 2 Oct 2026.
+Someone Sunny is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Georgia Bar, Berlin on Fri, 2 Oct 2026.
 
-Someone Sunny is a house and techno artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Berlin, Bristol, Copenhagen and London and 2 more. Often billed alongside LO-LOW, Goh Well and Karlie Marx. Next up: Georgia Bar, Berlin on Fri 2 Oct.
+Someone Sunny is a house and techno artist based in United Kingdom, with 38 gigs on soundcheck across Berlin, Bristol, Copenhagen and London and 2 more. Often billed alongside LO-LOW, Goh Well and Karlie Marx. Next up: Georgia Bar, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Someone Sunny is a house and techno artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- radial, London — Sun, 13 Sept 2026
-- Georgia Bar, Berlin — Sun, 30 Aug 2026
-- The Roses of Elagabalus, London — Sat, 22 Aug 2026
-- Oslo Hackney, London — Sat, 8 Aug 2026
-- radial, London — Sun, 12 Jul 2026
-- Dalston Superstore, London — Thu, 26 Feb 2026
-- Baggen, Copenhagen — Sat, 14 Feb 2026
-- FOLD, London — Fri, 23 Jan 2026
+- radial, London · Sun, 13 Sept 2026
+- Georgia Bar, Berlin · Sun, 30 Aug 2026
+- The Roses of Elagabalus, London · Sat, 22 Aug 2026
+- Oslo Hackney, London · Sat, 8 Aug 2026
+- radial, London · Sun, 12 Jul 2026
+- Dalston Superstore, London · Thu, 26 Feb 2026
+- Baggen, Copenhagen · Sat, 14 Feb 2026
+- FOLD, London · Fri, 23 Jan 2026
 
 ## Shares bills with
 

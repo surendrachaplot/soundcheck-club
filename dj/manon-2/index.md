@@ -1,8 +1,8 @@
 # MANON (2)
 
-MANON (2) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
+MANON (2) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
-MANON is a techno and club artist tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Ghent and Tokyo. Often billed alongside Man Outta Space, Massimo Mephisto and Azra Tekuma. Next up: TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
+MANON is a techno and club artist, with 9 gigs on soundcheck across Amsterdam, Berlin, Ghent and Tokyo. Often billed alongside Man Outta Space, Massimo Mephisto and Azra Tekuma. Next up: TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MANON is a techno and club artist tracked on soundcheck, with 9 sets logged acro
 
 ## Recently played
 
-- Amigo, Ghent — Fri, 31 Jan 2025
-- KitKatClub, Berlin — Thu, 29 Aug 2024
-- Kompass Klub, Ghent — Sat, 11 May 2024
-- KitKatClub, Berlin — Thu, 28 Mar 2024
-- Zerotokyo, Tokyo — Wed, 22 Nov 2023
-- Chinastraat, Ghent — Sat, 11 Nov 2023
-- Kompass Klub, Ghent — Tue, 31 Oct 2023
-- Kompass Klub, Ghent — Fri, 13 Oct 2023
+- Amigo, Ghent · Fri, 31 Jan 2025
+- KitKatClub, Berlin · Thu, 29 Aug 2024
+- Kompass Klub, Ghent · Sat, 11 May 2024
+- KitKatClub, Berlin · Thu, 28 Mar 2024
+- Zerotokyo, Tokyo · Wed, 22 Nov 2023
+- Chinastraat, Ghent · Sat, 11 Nov 2023
+- Kompass Klub, Ghent · Tue, 31 Oct 2023
+- Kompass Klub, Ghent · Fri, 13 Oct 2023
 
 ## Shares bills with
 

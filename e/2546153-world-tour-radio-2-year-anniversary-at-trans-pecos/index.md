@@ -1,6 +1,6 @@
 # World Tour Radio: 2 Year Anniversary at Trans-Pecos
 
-World Tour Radio: 2 Year Anniversary at Trans-Pecos on Sat 21 Nov, New York City. 1 artist on the bill: x0trandon. Preview the line-up and save it on soundcheck.
+World Tour Radio: 2 Year Anniversary at Trans-Pecos on Sat 21 Nov, New York City. 1 artist: x0trandon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

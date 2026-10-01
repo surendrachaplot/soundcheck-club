@@ -1,6 +1,6 @@
 # Prada2000 at Nordstern
 
-Prada2000 at Nordstern on Fri 9 Oct, Basel. Preview the line-up and save it on soundcheck.
+Prada2000 at Nordstern on Fri 9 Oct, Basel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

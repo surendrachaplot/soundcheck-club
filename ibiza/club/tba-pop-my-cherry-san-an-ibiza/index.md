@@ -1,8 +1,8 @@
 # TBA - Pop My Cherry, San An, Ibiza
 
-TBA - Pop My Cherry, San An, Ibiza is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "SurfBeatzUK Ibiza Pop Up" on Sat, 3 Oct 2026.
+TBA - Pop My Cherry, San An, Ibiza is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "SurfBeatzUK Ibiza Pop Up" on Sat, 3 Oct 2026.
 
-TBA - Pop My Cherry, San An, Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+TBA - Pop My Cherry, San An, Ibiza is a music venue in Ibiza listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

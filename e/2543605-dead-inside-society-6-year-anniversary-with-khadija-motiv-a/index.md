@@ -1,6 +1,6 @@
 # Dead Inside Society 6 Year Anniversary with Khadija, motiv-a, Zanias at Bossa Nova Civic Club
 
-Dead Inside Society 6 Year Anniversary with Khadija, motiv-a, Zanias at Bossa Nova Civic Club on Mon 5 Oct, New York City. 3 artists on the bill: Khadija, motiv-a and Zanias. Techno and EBM. Preview the line-up and save it on soundcheck.
+Dead Inside Society 6 Year Anniversary with Khadija, motiv-a, Zanias at Bossa Nova Civic Club on Mon 5 Oct, New York City. 3 artists: Khadija, motiv-a and Zanias. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

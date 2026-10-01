@@ -1,6 +1,6 @@
 # FREE TICKETS + FREE DRINK – RnB, Afro & Latin House, Reggaeton, Pop, Hip Hop – MOTIVE PARTY at Egg London
 
-FREE TICKETS + FREE DRINK – RnB, Afro & Latin House, Reggaeton, Pop, Hip Hop – MOTIVE PARTY at Egg London on Sat 12 Dec, London. R&B and Reggaeton. Preview the line-up and save it on soundcheck.
+FREE TICKETS + FREE DRINK – RnB, Afro & Latin House, Reggaeton, Pop, Hip Hop – MOTIVE PARTY at Egg London on Sat 12 Dec, London. R&B and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

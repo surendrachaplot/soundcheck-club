@@ -1,6 +1,6 @@
 # Unsound 2026 at Various venues - Warsaw & Krakow
 
-Unsound 2026 at Various venues - Warsaw & Krakow on Fri 2 Oct, Poland. 67 artists on the bill: 2K88, ABADIR, Ana Roxanne and Arca and 63 more. Preview the line-up and save it on soundcheck.
+Unsound 2026 at Various venues - Warsaw & Krakow on Fri 2 Oct, Poland. 67 artists: 2K88, ABADIR, Ana Roxanne and Arca and 63 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

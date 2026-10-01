@@ -1,8 +1,8 @@
 # Ian Pooley
 
-Ian Pooley is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Radio Radio, Amsterdam on Fri, 2 Oct 2026.
+Ian Pooley is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Radio Radio, Amsterdam on Fri, 2 Oct 2026.
 
-Ian Pooley is a house and techno artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Auckland and Bangkok and 45 more. Often billed alongside dj sweet6teen, Eva Crystaltips and Luca Olivotto. Next up: Radio Radio, Amsterdam on Fri 2 Oct.
+Ian Pooley is a house and techno artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Athens, Auckland and Bangkok and 45 more. Often billed alongside dj sweet6teen, Eva Crystaltips and Luca Olivotto. Next up: Radio Radio, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Ian Pooley is a house and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Landesmuseum, Zurich — Mon, 31 Aug 2026
-- Audio Club, Geneva — Fri, 21 Aug 2026
-- TBA, Berlin — Sat, 15 Aug 2026
-- Night Tales, London — Sat, 25 Jul 2026
-- Parkcafe, Cologne — Sat, 18 Jul 2026
-- Tokonoma Club, Frankfurt — Sat, 11 Jul 2026
-- TBA - Île de la Loge, 78560 Le Port-Marly, France, Paris — Sat, 13 Jun 2026
-- La Terrrazza, Barcelona — Fri, 12 Jun 2026
+- Landesmuseum, Zurich · Mon, 31 Aug 2026
+- Audio Club, Geneva · Fri, 21 Aug 2026
+- TBA, Berlin · Sat, 15 Aug 2026
+- Night Tales, London · Sat, 25 Jul 2026
+- Parkcafe, Cologne · Sat, 18 Jul 2026
+- Tokonoma Club, Frankfurt · Sat, 11 Jul 2026
+- TBA - Île de la Loge, 78560 Le Port-Marly, France, Paris · Sat, 13 Jun 2026
+- La Terrrazza, Barcelona · Fri, 12 Jun 2026
 
 ## Shares bills with
 

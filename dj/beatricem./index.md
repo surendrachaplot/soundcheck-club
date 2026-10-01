@@ -1,8 +1,8 @@
 # Beatrice M.
 
-Beatrice M. is a Dubstep and Bass artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Beatrice M. is a Dubstep and Bass artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Beatrice M. is a dubstep and bass artist based in France, tracked on soundcheck, with 126 sets logged across Amsterdam, Berlin, Brighton and Bristol and 28 more. Often billed alongside Tim Reaper, EMA and Mia Koden. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Beatrice M. is a dubstep and bass artist based in France, with 126 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 28 more. Often billed alongside Tim Reaper, EMA and Mia Koden. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Beatrice M. is a dubstep and bass artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- The Cause, London — Sat, 12 Sept 2026
-- The White Hotel, Manchester — Sat, 5 Sept 2026
-- Outernet Live, London — Fri, 4 Sept 2026
-- Palais de Tokyo, Paris — Sat, 29 Aug 2026
-- Lofi, Amsterdam — Sat, 15 Aug 2026
-- The Cause, London — Fri, 7 Aug 2026
-- The Old Church, London — Fri, 31 Jul 2026
-- La Prairie du Canal, Paris — Tue, 14 Jul 2026
+- The Cause, London · Sat, 12 Sept 2026
+- The White Hotel, Manchester · Sat, 5 Sept 2026
+- Outernet Live, London · Fri, 4 Sept 2026
+- Palais de Tokyo, Paris · Sat, 29 Aug 2026
+- Lofi, Amsterdam · Sat, 15 Aug 2026
+- The Cause, London · Fri, 7 Aug 2026
+- The Old Church, London · Fri, 31 Jul 2026
+- La Prairie du Canal, Paris · Tue, 14 Jul 2026
 
 ## Shares bills with
 

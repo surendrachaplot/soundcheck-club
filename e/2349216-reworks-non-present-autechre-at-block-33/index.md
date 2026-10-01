@@ -1,6 +1,6 @@
 # Reworks | Non present: autechre at Block 33
 
-Reworks | Non present: autechre at Block 33 on Sun 4 Oct, Thessaloniki. 1 artist on the bill: Autechre. Preview the line-up and save it on soundcheck.
+Reworks | Non present: autechre at Block 33 on Sun 4 Oct, Thessaloniki. 1 artist: Autechre. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

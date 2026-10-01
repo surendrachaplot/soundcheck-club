@@ -1,6 +1,6 @@
 # GoaUltrabeat - Hotel Butterfly Closing Season at Hotel Butterfly
 
-GoaUltrabeat - Hotel Butterfly Closing Season on Sat 3 Oct, Rome. 5 artists on the bill: FRANKIEE, Giancarlino, Giorgio Gigli and IRIDE and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+GoaUltrabeat - Hotel Butterfly Closing Season on Sat 3 Oct, Rome. 5 artists: FRANKIEE, Giancarlino, Giorgio Gigli and IRIDE and 1 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

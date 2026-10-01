@@ -1,6 +1,6 @@
 # AV-Labor (Workshop 2D Digital Animation Workshop with Krita) at ZiMMT
 
-AV-Labor (Workshop 2D Digital Animation Workshop with Krita) at ZiMMT on Mon 19 Oct, Leipzig. Preview the line-up and save it on soundcheck.
+AV-Labor (Workshop 2D Digital Animation Workshop with Krita) at ZiMMT on Mon 19 Oct, Leipzig. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

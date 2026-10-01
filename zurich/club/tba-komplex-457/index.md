@@ -1,8 +1,8 @@
 # TBA - Komplex 457
 
-TBA - Komplex 457 is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Subset – One Last Dance" on Sat, 7 Nov 2026.
+TBA - Komplex 457 is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Subset – One Last Dance" on Sat, 7 Nov 2026.
 
-TBA - Komplex 457 is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including goddard., K Motionz, Koven and Mozey and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Komplex 457 is a music venue in Zurich listed on soundcheck. 1 upcoming gig, with line-ups including goddard., K Motionz, Koven and Mozey and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

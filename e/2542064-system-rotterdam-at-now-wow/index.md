@@ -1,6 +1,6 @@
 # SYSTEM - ROTTERDAM at Now&Wow
 
-SYSTEM - ROTTERDAM at Now&Wow on Sat 3 Oct, Rotterdam. 10 artists on the bill: 2FEL, A2XBY, AnG (NL) and BRAINDAAMAGE and 6 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+SYSTEM - ROTTERDAM at Now&Wow on Sat 3 Oct, Rotterdam. 10 artists: 2FEL, A2XBY, AnG (NL) and BRAINDAAMAGE and 6 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

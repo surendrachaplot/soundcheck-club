@@ -1,6 +1,6 @@
 # Wobble Unit x USP Events at Plot 22
 
-Wobble Unit x USP Events at Plot 22 on Sat 17 Oct, Sheffield. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Wobble Unit x USP Events at Plot 22 on Sat 17 Oct, Sheffield. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

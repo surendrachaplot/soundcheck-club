@@ -1,6 +1,6 @@
 # KEIN KLUB at H0L0
 
-KEIN KLUB at H0L0 on Fri 6 Nov, New York City. 2 artists on the bill: Kendal and Martyn. Bass and EBM. Preview the line-up and save it on soundcheck.
+KEIN KLUB at H0L0 on Fri 6 Nov, New York City. 2 artists: Kendal and Martyn. Bass and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

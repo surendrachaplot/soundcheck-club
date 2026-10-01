@@ -1,6 +1,6 @@
 # J × BEYOND (TECHNO/HOUSE) at WOMB
 
-J × BEYOND (TECHNO/HOUSE) at WOMB on Sat 3 Oct, Tokyo. 4 artists on the bill: Daniel Bell, discopants, DJ Shibata and Nehan. Techno and House. Preview the line-up and save it on soundcheck.
+J × BEYOND (TECHNO/HOUSE) at WOMB on Sat 3 Oct, Tokyo. 4 artists: Daniel Bell, discopants, DJ Shibata and Nehan. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

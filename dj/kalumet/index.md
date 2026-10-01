@@ -1,8 +1,8 @@
 # Kalumet
 
-Kalumet is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Atno, Budapest on Sat, 10 Oct 2026.
+Kalumet is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Atno, Budapest on Sat, 10 Oct 2026.
 
-Kalumet is a techno and dub techno artist based in Hungary, tracked on soundcheck, with 8 sets logged across Budapest, London and Malta. Often billed alongside ZSÁGER BALÁZS, A Psychic Yes and Ancestral Landscapes. Next up: Atno, Budapest on Sat 10 Oct.
+Kalumet is a techno and dub techno artist based in Hungary, with 8 gigs on soundcheck across Budapest, London and Malta. Often billed alongside ZSÁGER BALÁZS, A Psychic Yes and Ancestral Landscapes. Next up: Atno, Budapest on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Kalumet is a techno and dub techno artist based in Hungary, tracked on soundchec
 
 ## Recently played
 
-- Palazzo Permanens, Budapest — Thu, 23 Apr 2026
-- Kassa Boat, Budapest — Sat, 18 Apr 2026
-- Starlane Pizza Bar, London — Sun, 1 Jun 2025
-- Moustache Bar, London — Sat, 17 May 2025
-- Tigullio, Malta — Sat, 8 Mar 2025
-- Tigullio, Malta — Sat, 28 Dec 2024
-- Tigullio, Malta — Sat, 2 Mar 2024
+- Palazzo Permanens, Budapest · Thu, 23 Apr 2026
+- Kassa Boat, Budapest · Sat, 18 Apr 2026
+- Starlane Pizza Bar, London · Sun, 1 Jun 2025
+- Moustache Bar, London · Sat, 17 May 2025
+- Tigullio, Malta · Sat, 8 Mar 2025
+- Tigullio, Malta · Sat, 28 Dec 2024
+- Tigullio, Malta · Sat, 2 Mar 2024
 
 ## Shares bills with
 

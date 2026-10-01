@@ -1,8 +1,8 @@
 # Finn Johannsen
 
-Finn Johannsen is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paloma, Berlin on Sat, 24 Oct 2026.
+Finn Johannsen is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Sat, 24 Oct 2026.
 
-Finn Johannsen is a house and disco artist based in Germany, tracked on soundcheck, with 50 sets logged across Berlin, Hamburg, Munich and Oslo and 1 more. Often billed alongside DJ Pete, Filippo Moscatello and 41ISSA. Next up: Paloma, Berlin on Sat 24 Oct.
+Finn Johannsen is a house and disco artist based in Germany, with 50 gigs on soundcheck across Berlin, Hamburg, Munich and Oslo and 1 more. Often billed alongside DJ Pete, Filippo Moscatello and 41ISSA. Next up: Paloma, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Finn Johannsen is a house and disco artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Paloma, Berlin — Sat, 26 Sept 2026
-- Paloma, Berlin — Fri, 29 May 2026
-- Paloma, Berlin — Sat, 2 May 2026
-- Paloma, Berlin — Sat, 25 Apr 2026
-- Kafe Hærverk, Oslo — Fri, 17 Apr 2026
-- Paloma, Berlin — Sat, 28 Mar 2026
-- Paloma, Berlin — Sat, 21 Feb 2026
-- Paloma, Berlin — Fri, 30 Jan 2026
+- Paloma, Berlin · Sat, 26 Sept 2026
+- Paloma, Berlin · Fri, 29 May 2026
+- Paloma, Berlin · Sat, 2 May 2026
+- Paloma, Berlin · Sat, 25 Apr 2026
+- Kafe Hærverk, Oslo · Fri, 17 Apr 2026
+- Paloma, Berlin · Sat, 28 Mar 2026
+- Paloma, Berlin · Sat, 21 Feb 2026
+- Paloma, Berlin · Fri, 30 Jan 2026
 
 ## Shares bills with
 

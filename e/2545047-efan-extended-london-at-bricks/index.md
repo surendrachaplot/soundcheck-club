@@ -1,6 +1,6 @@
 # Efan:EXTENDED [London] at Bricks
 
-Efan:EXTENDED [London] at Bricks on Sat 24 Oct, London. 1 artist on the bill: Efan. Garage and Jungle. Preview the line-up and save it on soundcheck.
+Efan:EXTENDED [London] at Bricks on Sat 24 Oct, London. 1 artist: Efan. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

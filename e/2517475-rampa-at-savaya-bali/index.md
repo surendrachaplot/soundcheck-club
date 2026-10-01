@@ -1,6 +1,6 @@
 # Rampa at Savaya Bali
 
-Rampa at Savaya Bali on Wed 30 Dec, Bali. 1 artist on the bill: Rampa. Preview the line-up and save it on soundcheck.
+Rampa at Savaya Bali on Wed 30 Dec, Bali. 1 artist: Rampa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

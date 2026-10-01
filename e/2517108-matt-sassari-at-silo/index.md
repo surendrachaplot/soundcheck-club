@@ -1,6 +1,6 @@
 # Matt Sassari at SILO
 
-Matt Sassari at SILO on Sat 7 Nov, New York City. 1 artist on the bill: Matt Sassari. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Matt Sassari at SILO on Sat 7 Nov, New York City. 1 artist: Matt Sassari. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

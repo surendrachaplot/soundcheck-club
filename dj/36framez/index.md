@@ -1,8 +1,8 @@
 # 36framez
 
-36framez is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Shelter Amsterdam, Amsterdam on Fri, 9 Oct 2026.
+36framez is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Fri, 9 Oct 2026.
 
-36framez is a house and techno artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Munich, Rotterdam and Utrecht. Often billed alongside Doppelgang, Carlos Valdes and Lola Edo. Next up: Shelter Amsterdam, Amsterdam on Fri 9 Oct.
+36framez is a house and techno artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Munich, Rotterdam and Utrecht. Often billed alongside Doppelgang, Carlos Valdes and Lola Edo. Next up: Shelter Amsterdam, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@
 
 ## Recently played
 
-- KABUL à GoGo, Utrecht — Sat, 19 Sept 2026
-- Tuinen van West, Amsterdam — Sat, 29 Aug 2026
-- nachbar, Amsterdam — Sat, 15 Aug 2026
-- Radio Radio, Amsterdam — Sat, 8 Aug 2026
-- CLUB RAUM, Amsterdam — Fri, 7 Aug 2026
-- export, Rotterdam — Fri, 31 Jul 2026
-- Beton-T, Utrecht — Sat, 20 Jun 2026
-- WAS., Utrecht — Sat, 6 Jun 2026
+- KABUL à GoGo, Utrecht · Sat, 19 Sept 2026
+- Tuinen van West, Amsterdam · Sat, 29 Aug 2026
+- nachbar, Amsterdam · Sat, 15 Aug 2026
+- Radio Radio, Amsterdam · Sat, 8 Aug 2026
+- CLUB RAUM, Amsterdam · Fri, 7 Aug 2026
+- export, Rotterdam · Fri, 31 Jul 2026
+- Beton-T, Utrecht · Sat, 20 Jun 2026
+- WAS., Utrecht · Sat, 6 Jun 2026
 
 ## Shares bills with
 

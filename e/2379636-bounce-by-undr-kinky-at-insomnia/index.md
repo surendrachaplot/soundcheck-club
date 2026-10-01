@@ -1,6 +1,6 @@
 # BOUNCE by UNDR [Kinky] at Insomnia
 
-BOUNCE by UNDR [Kinky] at Insomnia on Sat 19 Dec, Berlin. Trance. Preview the line-up and save it on soundcheck.
+BOUNCE by UNDR [Kinky] at Insomnia on Sat 19 Dec, Berlin. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

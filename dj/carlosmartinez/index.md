@@ -1,8 +1,8 @@
 # Carlos Martinez
 
-Carlos Martinez is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Carlos Martinez is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Carlos Martinez is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Austria and London. Often billed alongside Thomas Galbardi, Diana Loredana and Dhez. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Carlos Martinez is a tech house and house artist based in United Kingdom, with 42 gigs on soundcheck across Austria and London. Often billed alongside Thomas Galbardi, Diana Loredana and Dhez. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Carlos Martinez is a tech house and house artist based in United Kingdom, tracke
 
 ## Recently played
 
-- Union Club, Vauxhall, London — Sun, 7 Dec 2025
-- Union Club, Vauxhall, London — Sun, 9 Nov 2025
-- Union Club, Vauxhall, London — Sun, 5 Oct 2025
-- Union Club, Vauxhall, London — Sun, 31 Aug 2025
-- Union Club, Vauxhall, London — Thu, 28 Aug 2025
-- Union Club, Vauxhall, London — Sun, 24 Aug 2025
-- Union Club, Vauxhall, London — Sun, 13 Jul 2025
-- Union Club, Vauxhall, London — Sun, 29 Jun 2025
+- Union Club, Vauxhall, London · Sun, 7 Dec 2025
+- Union Club, Vauxhall, London · Sun, 9 Nov 2025
+- Union Club, Vauxhall, London · Sun, 5 Oct 2025
+- Union Club, Vauxhall, London · Sun, 31 Aug 2025
+- Union Club, Vauxhall, London · Thu, 28 Aug 2025
+- Union Club, Vauxhall, London · Sun, 24 Aug 2025
+- Union Club, Vauxhall, London · Sun, 13 Jul 2025
+- Union Club, Vauxhall, London · Sun, 29 Jun 2025
 
 ## Shares bills with
 

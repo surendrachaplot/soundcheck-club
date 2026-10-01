@@ -1,6 +1,6 @@
 # Horse Meat Disco at TILLATEC
 
-Horse Meat Disco at TILLATEC on Fri 9 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Horse Meat Disco at TILLATEC on Fri 9 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

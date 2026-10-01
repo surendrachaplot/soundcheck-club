@@ -1,6 +1,6 @@
 # Forum.Klub x SPINNING WAVES x UNIO at Forum Bielefeld
 
-Forum.Klub x SPINNING WAVES x UNIO at Forum Bielefeld on Fri 16 Oct, Bielefeld. 2 artists on the bill: Meese and Valerie. Techno and House. Preview the line-up and save it on soundcheck.
+Forum.Klub x SPINNING WAVES x UNIO at Forum Bielefeld on Fri 16 Oct, Bielefeld. 2 artists: Meese and Valerie. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

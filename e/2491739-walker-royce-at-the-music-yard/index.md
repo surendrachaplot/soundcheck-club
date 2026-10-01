@@ -1,6 +1,6 @@
 # Walker & Royce at The Music Yard
 
-Walker & Royce at The Music Yard on Fri 2 Oct, Charlotte. 1 artist on the bill: Walker & Royce. Preview the line-up and save it on soundcheck.
+Walker & Royce at The Music Yard on Fri 2 Oct, Charlotte. 1 artist: Walker & Royce. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

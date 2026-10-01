@@ -1,6 +1,6 @@
 # Dublin Student Halloween Party at SoHo - €4 Drinks - 2000s Y2K Night at Soho Dublin
 
-Dublin Student Halloween Party at SoHo - €4 Drinks - 2000s Y2K Night at Soho Dublin on Thu 29 Oct, Dublin. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+Dublin Student Halloween Party at SoHo - €4 Drinks - 2000s Y2K Night at Soho Dublin on Thu 29 Oct, Dublin. Hip-Hop and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

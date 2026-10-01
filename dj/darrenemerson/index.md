@@ -1,8 +1,8 @@
 # Darren Emerson
 
-Darren Emerson is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
+Darren Emerson is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
 
-Darren Emerson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Auckland, Berlin and Brighton and 20 more. Often billed alongside Brandon Block, Danny Tenaglia and John Course. Next up: Discoteca Paradiso, Naples on Sat 10 Oct.
+Darren Emerson is a house and techno artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brighton and 20 more. Often billed alongside Brandon Block, Danny Tenaglia and John Course. Next up: Discoteca Paradiso, Naples on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Darren Emerson is a house and techno artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 29 Aug 2026
-- The Timber Yard, Melbourne — Sat, 25 Jul 2026
-- Superordinary, Brisbane — Fri, 24 Jul 2026
-- Queens Wharf, Auckland — Fri, 17 Jul 2026
-- TBA - Shed 10, Auckland — Fri, 17 Jul 2026
-- Colours Hoxton, London — Sat, 30 May 2026
-- People's Leisure Club, Edinburgh — Sat, 16 May 2026
-- WaterBear Venue, Brighton — Sat, 2 May 2026
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
+- The Timber Yard, Melbourne · Sat, 25 Jul 2026
+- Superordinary, Brisbane · Fri, 24 Jul 2026
+- Queens Wharf, Auckland · Fri, 17 Jul 2026
+- TBA - Shed 10, Auckland · Fri, 17 Jul 2026
+- Colours Hoxton, London · Sat, 30 May 2026
+- People's Leisure Club, Edinburgh · Sat, 16 May 2026
+- WaterBear Venue, Brighton · Sat, 2 May 2026
 
 ## Shares bills with
 

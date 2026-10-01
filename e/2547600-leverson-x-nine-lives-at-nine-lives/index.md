@@ -1,6 +1,6 @@
 # leverson x Nine Lives at Nine Lives
 
-leverson x Nine Lives on Fri 9 Oct, London. 1 artist on the bill: leverson. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+leverson x Nine Lives on Fri 9 Oct, London. 1 artist: leverson. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

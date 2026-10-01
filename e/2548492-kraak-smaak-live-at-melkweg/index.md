@@ -1,6 +1,6 @@
 # Kraak & Smaak (Live) at Melkweg
 
-Kraak & Smaak (Live) at Melkweg on Thu 22 Oct, Amsterdam. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
+Kraak & Smaak (Live) at Melkweg on Thu 22 Oct, Amsterdam. Funk / Soul and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

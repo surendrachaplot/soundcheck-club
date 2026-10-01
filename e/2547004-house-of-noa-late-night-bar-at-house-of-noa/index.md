@@ -1,6 +1,6 @@
 # House of Noa late night bar at House of Noa
 
-House of Noa late night bar on Fri 2 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+House of Noa late night bar on Fri 2 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

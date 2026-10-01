@@ -1,6 +1,6 @@
 # lazy.sunday mit Hunscha at Minimal Bar
 
-lazy.sunday mit Hunscha at Minimal Bar on Sun 1 Nov, Berlin. Preview the line-up and save it on soundcheck.
+lazy.sunday mit Hunscha at Minimal Bar on Sun 1 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Common Ground at The House On Locust
 
-Common Ground at The House On Locust on Sat 14 Nov, New York City. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Common Ground at The House On Locust on Sat 14 Nov, New York City. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

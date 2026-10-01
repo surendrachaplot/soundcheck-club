@@ -1,6 +1,6 @@
 # SUNDAY at Mastak
 
-SUNDAY at Mastak on Sun 11 Oct, Warsaw. 1 artist on the bill: Salat. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+SUNDAY at Mastak on Sun 11 Oct, Warsaw. 1 artist: Salat. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

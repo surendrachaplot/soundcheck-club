@@ -1,6 +1,6 @@
 # MashBit at ZeyZey
 
-MashBit at ZeyZey on Thu 22 Oct, Miami. House and Electronica. Preview the line-up and save it on soundcheck.
+MashBit at ZeyZey on Thu 22 Oct, Miami. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Exhilaration Presents: RAGETRAIN All Night Long at O2 Academy Liverpool
 
-Exhilaration Presents: RAGETRAIN All Night Long at O2 Academy Liverpool on Sat 3 Oct, Liverpool. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Exhilaration Presents: RAGETRAIN All Night Long at O2 Academy Liverpool on Sat 3 Oct, Liverpool. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

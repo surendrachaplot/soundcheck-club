@@ -1,6 +1,6 @@
 # yuraa at The Jazz Cafe
 
-yuraa at The Jazz Cafe on Fri 27 Nov, London. Club and Electronica. Preview the line-up and save it on soundcheck.
+yuraa at The Jazz Cafe on Fri 27 Nov, London. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

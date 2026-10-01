@@ -1,6 +1,6 @@
 # Nathan Fake at Urban Spree
 
-Nathan Fake at Urban Spree on Sat 24 Oct, Berlin. 1 artist on the bill: Nathan Fake. Electro. Preview the line-up and save it on soundcheck.
+Nathan Fake at Urban Spree on Sat 24 Oct, Berlin. 1 artist: Nathan Fake. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

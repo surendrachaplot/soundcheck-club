@@ -1,8 +1,8 @@
 # JoeJas
 
-JoeJas is a Hip-Hop and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fuzzbrain Studios, London on Sat, 10 Oct 2026.
+JoeJas is a Hip-Hop and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuzzbrain Studios, London on Sat, 10 Oct 2026.
 
-JoeJas is a hip-hop and experimental artist tracked on soundcheck, with 38 sets logged across Amsterdam, Berlin, Brighton and Bristol and 5 more. Often billed alongside retropxssy, anti.Net and ACE C0NWAY. Next up: Fuzzbrain Studios, London on Sat 10 Oct.
+JoeJas is a hip-hop and experimental artist, with 38 gigs on soundcheck across Amsterdam, Berlin, Brighton and Bristol and 5 more. Often billed alongside retropxssy, anti.Net and ACE C0NWAY. Next up: Fuzzbrain Studios, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ JoeJas is a hip-hop and experimental artist tracked on soundcheck, with 38 sets 
 
 ## Recently played
 
-- TBA - 198 Hackney Road, E2 7QL, London — Fri, 4 Sept 2026
-- Next Door Records Two, London — Thu, 30 Jul 2026
-- Record Factory, Glasgow — Thu, 16 Jul 2026
-- Waterhouse Studios, Amsterdam — Sat, 4 Jul 2026
-- Hošek Contemporary, Berlin — Sat, 20 Jun 2026
-- TBA - Vesper Gastrobar Dronning Eufemias gate 32, 0191 Oslo, Oslo — Sat, 6 Jun 2026
-- Pulse Studios, London — Sat, 16 May 2026
-- Kiss The Sky, London — Thu, 23 Apr 2026
+- TBA - 198 Hackney Road, E2 7QL, London · Fri, 4 Sept 2026
+- Next Door Records Two, London · Thu, 30 Jul 2026
+- Record Factory, Glasgow · Thu, 16 Jul 2026
+- Waterhouse Studios, Amsterdam · Sat, 4 Jul 2026
+- Hošek Contemporary, Berlin · Sat, 20 Jun 2026
+- TBA - Vesper Gastrobar Dronning Eufemias gate 32, 0191 Oslo, Oslo · Sat, 6 Jun 2026
+- Pulse Studios, London · Sat, 16 May 2026
+- Kiss The Sky, London · Thu, 23 Apr 2026
 
 ## Shares bills with
 

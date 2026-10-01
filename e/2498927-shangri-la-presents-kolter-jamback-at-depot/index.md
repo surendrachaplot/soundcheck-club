@@ -1,6 +1,6 @@
 # Shangri-La presents: Kolter & Jamback at Depot
 
-Shangri-La presents: Kolter & Jamback at Depot on Sat 17 Oct, Cardiff. 3 artists on the bill: Jamback, Kolter and Stacie Fields. Preview the line-up and save it on soundcheck.
+Shangri-La presents: Kolter & Jamback at Depot on Sat 17 Oct, Cardiff. 3 artists: Jamback, Kolter and Stacie Fields. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

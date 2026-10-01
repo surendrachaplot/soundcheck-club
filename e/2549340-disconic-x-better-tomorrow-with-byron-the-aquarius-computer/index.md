@@ -1,6 +1,6 @@
 # Disconic x Better Tomorrow with Byron The Aquarius Computer Jay La Boix (Thee Mike Bee and Salv at TBA
 
-Disconic x Better Tomorrow with Byron The Aquarius Computer Jay La Boix (Thee Mike Bee and Salv at TBA on Fri 30 Oct, Los Angeles. 2 artists on the bill: Byron The Aquarius and Thee Mike B. Techno and House. Preview the line-up and save it on soundcheck.
+Disconic x Better Tomorrow with Byron The Aquarius Computer Jay La Boix (Thee Mike Bee and Salv at TBA on Fri 30 Oct, Los Angeles. 2 artists: Byron The Aquarius and Thee Mike B. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

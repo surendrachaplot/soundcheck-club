@@ -1,6 +1,6 @@
 # Smolna Tribe: Panza at Smolna
 
-Smolna Tribe: Panza on Thu 19 Nov, Warsaw. Afro House. Preview the line-up and save it on soundcheck.
+Smolna Tribe: Panza on Thu 19 Nov, Warsaw. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Obscura presents: High Voltage ALL NIGHT LONG + Special b2bs at The Classic Grand
 
-Obscura presents: High Voltage ALL NIGHT LONG + Special b2bs at The Classic Grand on Fri 23 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+Obscura presents: High Voltage ALL NIGHT LONG + Special b2bs at The Classic Grand on Fri 23 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Marie Davidson
 
-Marie Davidson is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Xanadu, New York City on Fri, 16 Oct 2026.
+Marie Davidson is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Xanadu, New York City on Fri, 16 Oct 2026.
 
-Marie Davidson is a techno and electro artist based in Canada, tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Austin and Bangkok and 51 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Xanadu, New York City on Fri 16 Oct.
+Marie Davidson is a techno and electro artist based in Canada, with 153 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 51 more. Often billed alongside Laurel Halo, TAYHANA and deBasement. Next up: Xanadu, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Marie Davidson is a techno and electro artist based in Canada, tracked on soundc
 
 ## Recently played
 
-- Whelans, Dublin — Tue, 1 Sept 2026
-- Whelans, Dublin — Tue, 1 Sept 2026
-- La Récré, Montreal — Fri, 28 Aug 2026
-- Signal, New York City — Sun, 23 Aug 2026
-- The Pitt Market, Edinburgh — Sat, 22 Aug 2026
-- The White Hotel, Manchester — Thu, 20 Aug 2026
-- Silencio, Paris — Thu, 13 Aug 2026
-- Lux Fragil, Lisbon — Sat, 8 Aug 2026
+- Whelans, Dublin · Tue, 1 Sept 2026
+- Whelans, Dublin · Tue, 1 Sept 2026
+- La Récré, Montreal · Fri, 28 Aug 2026
+- Signal, New York City · Sun, 23 Aug 2026
+- The Pitt Market, Edinburgh · Sat, 22 Aug 2026
+- The White Hotel, Manchester · Thu, 20 Aug 2026
+- Silencio, Paris · Thu, 13 Aug 2026
+- Lux Fragil, Lisbon · Sat, 8 Aug 2026
 
 ## Shares bills with
 

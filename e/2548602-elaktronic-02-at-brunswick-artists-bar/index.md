@@ -1,6 +1,6 @@
 # Elaktronic 02 at Brunswick Artists Bar
 
-Elaktronic 02 at Brunswick Artists Bar on Sat 24 Oct, Melbourne. 1 artist on the bill: Mr. Rachele. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Elaktronic 02 at Brunswick Artists Bar on Sat 24 Oct, Melbourne. 1 artist: Mr. Rachele. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

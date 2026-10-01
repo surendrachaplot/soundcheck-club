@@ -1,6 +1,6 @@
 # EQ (Seattle Hot Girl Rave) at Substation
 
-EQ (Seattle Hot Girl Rave) at Substation on Wed 21 Oct, Seattle. 1 artist on the bill: EQ (Estratosfera + Qiri). Pop and Club. Preview the line-up and save it on soundcheck.
+EQ (Seattle Hot Girl Rave) at Substation on Wed 21 Oct, Seattle. 1 artist: EQ (Estratosfera + Qiri). Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

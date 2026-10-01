@@ -1,6 +1,6 @@
 # Nachtzugang x Blackout at Kraftwerk
 
-Nachtzugang x Blackout at Kraftwerk on Fri 16 Oct, Zurich. Techno. Preview the line-up and save it on soundcheck.
+Nachtzugang x Blackout at Kraftwerk on Fri 16 Oct, Zurich. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

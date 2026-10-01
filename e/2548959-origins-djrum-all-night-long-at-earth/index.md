@@ -1,6 +1,6 @@
 # Origins: DjRUM (All Night Long) at EartH
 
-Origins: DjRUM (All Night Long) at EartH on Sat 12 Dec, London. 1 artist on the bill: DjRUM. Techno and IDM. Preview the line-up and save it on soundcheck.
+Origins: DjRUM (All Night Long) at EartH on Sat 12 Dec, London. 1 artist: DjRUM. Techno and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

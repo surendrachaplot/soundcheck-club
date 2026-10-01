@@ -1,6 +1,6 @@
 # Toshiyuki Goto & Moodman at DJ Bar Bridge
 
-Toshiyuki Goto & Moodman at DJ Bar Bridge on Sat 7 Nov, Tokyo. 2 artists on the bill: Moodman and Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
+Toshiyuki Goto & Moodman at DJ Bar Bridge on Sat 7 Nov, Tokyo. 2 artists: Moodman and Toshiyuki Goto. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

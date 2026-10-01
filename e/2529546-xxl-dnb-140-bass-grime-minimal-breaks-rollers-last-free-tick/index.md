@@ -1,6 +1,6 @@
 # XXL DNB – 140, BASS, GRIME, MINIMAL, BREAKS, ROLLERS – LAST FREE TICKETS at E1
 
-XXL DNB – 140, BASS, GRIME, MINIMAL, BREAKS, ROLLERS – LAST FREE TICKETS at E1 on Fri 9 Oct, London. Breakbeat and Grime. Preview the line-up and save it on soundcheck.
+XXL DNB – 140, BASS, GRIME, MINIMAL, BREAKS, ROLLERS – LAST FREE TICKETS at E1 on Fri 9 Oct, London. Breakbeat and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

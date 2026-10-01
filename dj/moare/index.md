@@ -1,8 +1,8 @@
 # Moare
 
-Moare is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Paris, Paris on Sat, 17 Oct 2026.
+Moare is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Paris, Paris on Sat, 17 Oct 2026.
 
-Moare is a house and electro artist based in Slovenia, tracked on soundcheck, with 7 sets logged across Berlin, Lyon, Madrid and Paris and 1 more. Often billed alongside Mornik, Apua and Antoine Sy. Next up: TBA - Paris, Paris on Sat 17 Oct.
+Moare is a house and electro artist based in Slovenia, with 7 gigs on soundcheck across Berlin, Lyon, Madrid and Paris and 1 more. Often billed alongside Mornik, Apua and Antoine Sy. Next up: TBA - Paris, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Moare is a house and electro artist based in Slovenia, tracked on soundcheck, wi
 
 ## Recently played
 
-- PRST, Vienna — Sat, 20 Jul 2024
-- Porto Pollo, Vienna — Sat, 20 Jul 2024
-- TBA - Paris, Paris — Fri, 1 Sept 2023
-- TBA - Madrid, Madrid — Sat, 3 Jun 2023
-- Club der Visionaere, Berlin — Mon, 29 May 2023
-- TBA, Lyon — Thu, 18 May 2023
+- PRST, Vienna · Sat, 20 Jul 2024
+- Porto Pollo, Vienna · Sat, 20 Jul 2024
+- TBA - Paris, Paris · Fri, 1 Sept 2023
+- TBA - Madrid, Madrid · Sat, 3 Jun 2023
+- Club der Visionaere, Berlin · Mon, 29 May 2023
+- TBA, Lyon · Thu, 18 May 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # After O'Clock X La Plage Open Air: Etienne Nogues, Lullaby, Sphinx B2B Austher at Glazart
 
-After O'Clock X La Plage Open Air: Etienne Nogues, Lullaby, Sphinx B2B Austher at Glazart on Sat 10 Oct, Paris. 2 artists on the bill: Austher and Etienne Nogues. Techno. Preview the line-up and save it on soundcheck.
+After O'Clock X La Plage Open Air: Etienne Nogues, Lullaby, Sphinx B2B Austher at Glazart on Sat 10 Oct, Paris. 2 artists: Austher and Etienne Nogues. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

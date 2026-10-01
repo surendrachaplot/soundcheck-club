@@ -1,6 +1,6 @@
 # INPUT pres Kolter All Night Long at INPUT High Fidelity Dance Club
 
-INPUT pres Kolter All Night Long at INPUT High Fidelity Dance Club on Sat 10 Oct, Barcelona. 1 artist on the bill: Kolter. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+INPUT pres Kolter All Night Long at INPUT High Fidelity Dance Club on Sat 10 Oct, Barcelona. 1 artist: Kolter. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

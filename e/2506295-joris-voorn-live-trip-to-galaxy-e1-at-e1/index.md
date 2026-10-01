@@ -1,6 +1,6 @@
 # Joris Voorn (Live) - Trip to Galaxy - E1 at E1
 
-Joris Voorn (Live) - Trip to Galaxy - E1 on Sat 14 Nov, London. 1 artist on the bill: Joris Voorn. Techno. Preview the line-up and save it on soundcheck.
+Joris Voorn (Live) - Trip to Galaxy - E1 on Sat 14 Nov, London. 1 artist: Joris Voorn. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

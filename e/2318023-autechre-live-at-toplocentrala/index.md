@@ -1,6 +1,6 @@
 # Autechre Live at Toplocentrala
 
-Autechre Live at Toplocentrala on Tue 6 Oct, Sofia. 1 artist on the bill: Autechre. Preview the line-up and save it on soundcheck.
+Autechre Live at Toplocentrala on Tue 6 Oct, Sofia. 1 artist: Autechre. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

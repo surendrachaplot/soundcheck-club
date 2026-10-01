@@ -1,6 +1,6 @@
 # CHECKER 'I Really Do Believe' Album Release Party @Obedient Missionary at TBA
 
-CHECKER 'I Really Do Believe' Album Release Party @Obedient Missionary at TBA on Fri 2 Oct, Detroit. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
+CHECKER 'I Really Do Believe' Album Release Party @Obedient Missionary at TBA on Fri 2 Oct, Detroit. Electro and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Claudio PRC, Diøgo at Gare Porto
 
-Claudio PRC, Diøgo at Gare Porto on Sun 4 Oct, Porto. 1 artist on the bill: Claudio PRC. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Claudio PRC, Diøgo at Gare Porto on Sun 4 Oct, Porto. 1 artist: Claudio PRC. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Public House Hifi presents Diz & Vins (Public House Residents) at Gingerino's Pizza
 
-Public House Hifi presents Diz & Vins (Public House Residents) at Gingerino's Pizza on Sat 10 Oct, Newcastle. 2 artists on the bill: Diz Jockey and Vinny Vins. House and Disco. Preview the line-up and save it on soundcheck.
+Public House Hifi presents Diz & Vins (Public House Residents) at Gingerino's Pizza on Sat 10 Oct, Newcastle. 2 artists: Diz Jockey and Vinny Vins. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

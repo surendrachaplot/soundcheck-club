@@ -1,6 +1,6 @@
 # Ghouls Club at Suki10c
 
-Ghouls Club at Suki10c on Fri 23 Oct, Birmingham. 4 artists on the bill: Creep-P, Dr4kken, Lil Kevo 303 and LUNAx3. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Ghouls Club at Suki10c on Fri 23 Oct, Birmingham. 4 artists: Creep-P, Dr4kken, Lil Kevo 303 and LUNAx3. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

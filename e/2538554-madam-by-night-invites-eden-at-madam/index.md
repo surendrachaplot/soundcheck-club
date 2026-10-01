@@ -1,6 +1,6 @@
 # Madam by Night invites: EDEN at Madam
 
-Madam by Night invites: EDEN on Fri 27 Nov, Amsterdam. 1 artist on the bill: Edann. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Madam by Night invites: EDEN on Fri 27 Nov, Amsterdam. 1 artist: Edann. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # fvtvristica presents Fuori Orario at NAMA - Nuovo Anfiteatro Martesana
 
-fvtvristica presents Fuori Orario at NAMA - Nuovo Anfiteatro Martesana on Sat 3 Oct, Milan. 7 artists on the bill: Aton, Fybes, Niff and Pabie and 3 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+fvtvristica presents Fuori Orario at NAMA - Nuovo Anfiteatro Martesana on Sat 3 Oct, Milan. 7 artists: Aton, Fybes, Niff and Pabie and 3 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

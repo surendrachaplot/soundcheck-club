@@ -1,8 +1,8 @@
 # Sazzle
 
-Sazzle is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery N17, London on Fri, 9 Oct 2026.
+Sazzle is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery N17, London on Fri, 9 Oct 2026.
 
-Sazzle is a techno and house artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Belfast, London and Newcastle. Often billed alongside Elianne, TEDESCO and AKU. Next up: Distillery N17, London on Fri 9 Oct.
+Sazzle is a techno and house artist based in United Kingdom, with 27 gigs on soundcheck across Belfast, London and Newcastle. Often billed alongside Elianne, TEDESCO and AKU. Next up: Distillery N17, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sazzle is a techno and house artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- Ballroom at Palais, London — Sat, 22 Aug 2026
-- Planet Wax, London — Thu, 16 Jul 2026
-- TBA - Secret East London Location, London — Sun, 12 Jul 2026
-- Vittoria Wharf Studio, London — Sat, 11 Jul 2026
-- Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
-- Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
-- Cu, London — Fri, 6 Mar 2026
-- M.O.T, London — Fri, 13 Feb 2026
+- Ballroom at Palais, London · Sat, 22 Aug 2026
+- Planet Wax, London · Thu, 16 Jul 2026
+- TBA - Secret East London Location, London · Sun, 12 Jul 2026
+- Vittoria Wharf Studio, London · Sat, 11 Jul 2026
+- Hackney Wick Multiple Venues, London · Sat, 4 Jul 2026
+- Hackney Wick Multiple Venues, London · Sat, 27 Jun 2026
+- Cu, London · Fri, 6 Mar 2026
+- M.O.T, London · Fri, 13 Feb 2026
 
 ## Shares bills with
 

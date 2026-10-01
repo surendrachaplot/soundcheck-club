@@ -1,8 +1,8 @@
 # Alien Alarms
 
-Alien Alarms is a Electronica and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at New River Studios, London on Sun, 11 Oct 2026.
+Alien Alarms is a Electronica and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at New River Studios, London on Sun, 11 Oct 2026.
 
-Alien Alarms is an electronica and idm artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Brighton, Cardiff and London. Often billed alongside Ned Rush, Solar X and BUNKR (UK). Next up: New River Studios, London on Sun 11 Oct.
+Alien Alarms is an electronica and idm artist based in United Kingdom, with 7 gigs on soundcheck across Brighton, Cardiff and London. Often billed alongside Ned Rush, Solar X and BUNKR (UK). Next up: New River Studios, London on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Alien Alarms is an electronica and idm artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Daltons Brighton, Brighton — Fri, 27 Mar 2026
-- Daltons Brighton, Brighton — Fri, 13 Feb 2026
-- New River Studios, London — Sun, 7 Dec 2025
-- New River Studios, London — Sun, 17 Nov 2024
-- The Brunswick, Brighton — Sat, 9 Mar 2024
-- The Underdog, Cardiff — Sat, 11 Nov 2023
+- Daltons Brighton, Brighton · Fri, 27 Mar 2026
+- Daltons Brighton, Brighton · Fri, 13 Feb 2026
+- New River Studios, London · Sun, 7 Dec 2025
+- New River Studios, London · Sun, 17 Nov 2024
+- The Brunswick, Brighton · Sat, 9 Mar 2024
+- The Underdog, Cardiff · Sat, 11 Nov 2023
 
 ## Shares bills with
 

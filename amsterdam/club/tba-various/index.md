@@ -1,8 +1,8 @@
 # TBA -  VARIOUS
 
-TBA -  VARIOUS is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "AL.FESTIVAL.2026" on Fri, 2 Oct 2026.
+TBA -  VARIOUS is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "AL.FESTIVAL.2026" on Fri, 2 Oct 2026.
 
-TBA -  VARIOUS is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including ABADIR, Ace Shyllon, ADIRA and Amuleto Manuela and 2 more. Browse upcoming dates, start times and who's playing.
+TBA -  VARIOUS is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including ABADIR, Ace Shyllon, ADIRA and Amuleto Manuela and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

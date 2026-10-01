@@ -1,6 +1,6 @@
 # Labyrinth presents: Distruction Boyz at Village Underground
 
-Labyrinth presents: Distruction Boyz at Village Underground on Fri 27 Nov, London. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Distruction Boyz at Village Underground on Fri 27 Nov, London. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

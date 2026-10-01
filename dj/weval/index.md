@@ -1,8 +1,8 @@
 # Weval
 
-Weval is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Phonox, London on Sat, 3 Oct 2026.
+Weval is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Phonox, London on Sat, 3 Oct 2026.
 
-Weval is a house and electro artist based in Netherlands, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Ross From Friends, Actress and CHRIS STASSY. Next up: Phonox, London on Sat 3 Oct.
+Weval is a house and electro artist based in Netherlands, with 60 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 25 more. Often billed alongside Ross From Friends, Actress and CHRIS STASSY. Next up: Phonox, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Weval is a house and electro artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- Château D'egreville, Paris — Fri, 3 Jul 2026
-- Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
-- Hacienda Club, Rome — Sat, 16 May 2026
-- NDSM Docklands, Amsterdam — Sun, 5 Apr 2026
-- The Cause, London — Fri, 3 Apr 2026
-- The Roxy, Los Angeles — Sat, 28 Feb 2026
-- Sunset at EDITION, Los Angeles — Sat, 28 Feb 2026
-- The Independent, San Francisco/Oakland — Fri, 27 Feb 2026
+- Château D'egreville, Paris · Fri, 3 Jul 2026
+- Musée de l'Air et de l'Espace, Paris · Fri, 22 May 2026
+- Hacienda Club, Rome · Sat, 16 May 2026
+- NDSM Docklands, Amsterdam · Sun, 5 Apr 2026
+- The Cause, London · Fri, 3 Apr 2026
+- The Roxy, Los Angeles · Sat, 28 Feb 2026
+- Sunset at EDITION, Los Angeles · Sat, 28 Feb 2026
+- The Independent, San Francisco/Oakland · Fri, 27 Feb 2026
 
 ## Shares bills with
 

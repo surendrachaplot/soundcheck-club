@@ -1,6 +1,6 @@
 # Keanu Nelson + Kankawa Nagarra at The Edge, Fed Square
 
-Keanu Nelson + Kankawa Nagarra at The Edge, Fed Square on Thu 29 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+Keanu Nelson + Kankawa Nagarra at The Edge, Fed Square on Thu 29 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

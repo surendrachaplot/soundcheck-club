@@ -1,6 +1,6 @@
 # DOT at FS.
 
-DOT at FS. on Sat 31 Oct, Tokyo. 3 artists on the bill: has, judgeman and 永z遼 / Ryo Nagase. House. Preview the line-up and save it on soundcheck.
+DOT at FS. on Sat 31 Oct, Tokyo. 3 artists: has, judgeman and 永z遼 / Ryo Nagase. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

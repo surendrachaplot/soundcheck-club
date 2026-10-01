@@ -1,8 +1,8 @@
 # Surgeon
 
-Surgeon is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Bassement, Madrid on Sat, 3 Oct 2026.
+Surgeon is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bassement, Madrid on Sat, 3 Oct 2026.
 
-Surgeon is a techno and house artist based in United Kingdom, tracked on soundcheck, with 131 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Speedy J, DJ Pete and Eris Drew. Next up: The Bassement, Madrid on Sat 3 Oct.
+Surgeon is a techno and house artist based in United Kingdom, with 132 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Speedy J, DJ Pete and Eris Drew. Next up: The Bassement, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,19 +13,20 @@ Surgeon is a techno and house artist based in United Kingdom, tracked on soundch
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 31 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
+| Sat, 28 Nov 2026 | Tresor / Globus | Berlin |
 | Fri, 11 Dec 2026 | Lanna Club | North |
 | Sat, 12 Dec 2026 | Plaza Monumental de Barcelona | Barcelona |
 
 ## Recently played
 
-- Laboral Ciudad de la Cultura, North — Fri, 25 Sept 2026
-- Else, Berlin — Sun, 20 Sept 2026
-- Tresor / Globus, Berlin — Sat, 12 Sept 2026
-- The Bongo Club, Edinburgh — Sat, 5 Sept 2026
-- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Signal, New York City — Fri, 24 Jul 2026
-- Tresor / Globus, Berlin — Sat, 27 Jun 2026
+- Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
+- Else, Berlin · Sun, 20 Sept 2026
+- Tresor / Globus, Berlin · Sat, 12 Sept 2026
+- The Bongo Club, Edinburgh · Sat, 5 Sept 2026
+- Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- Signal, New York City · Fri, 24 Jul 2026
+- Tresor / Globus, Berlin · Sat, 27 Jun 2026
 
 ## Shares bills with
 

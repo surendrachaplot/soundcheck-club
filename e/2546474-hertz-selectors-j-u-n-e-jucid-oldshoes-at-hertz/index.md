@@ -1,6 +1,6 @@
 # Hertz 헤르츠 Selectors: J.U.N.E Jucid Oldshoes at Hertz
 
-Hertz 헤르츠 Selectors: J.U.N.E Jucid Oldshoes on Fri 2 Oct, Seoul. 3 artists on the bill: J.U.N.E, Jucid and Oldshoes. Acid and Club. Preview the line-up and save it on soundcheck.
+Hertz 헤르츠 Selectors: J.U.N.E Jucid Oldshoes on Fri 2 Oct, Seoul. 3 artists: J.U.N.E, Jucid and Oldshoes. Acid and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

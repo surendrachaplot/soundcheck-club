@@ -1,6 +1,6 @@
 # Toy Tonics Jam at BAR15
 
-Toy Tonics Jam at BAR15 on Sat 10 Oct, Stockholm. 3 artists on the bill: Bogeyman, Kapote and Silja Ellis. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics Jam at BAR15 on Sat 10 Oct, Stockholm. 3 artists: Bogeyman, Kapote and Silja Ellis. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

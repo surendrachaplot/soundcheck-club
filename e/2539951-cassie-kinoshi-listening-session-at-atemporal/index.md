@@ -1,6 +1,6 @@
 # Cassie Kinoshi Listening session at Atemporal
 
-Cassie Kinoshi Listening session at Atemporal on Sat 10 Oct, Berlin. Jazz. Preview the line-up and save it on soundcheck.
+Cassie Kinoshi Listening session at Atemporal on Sat 10 Oct, Berlin. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

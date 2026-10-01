@@ -1,6 +1,6 @@
 # O BEACH MUSIC at O Beach
 
-O BEACH MUSIC at O Beach on Thu 1 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+O BEACH MUSIC at O Beach on Thu 1 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

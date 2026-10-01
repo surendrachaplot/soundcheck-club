@@ -1,6 +1,6 @@
 # Maddix at Time Nightclub
 
-Maddix at Time Nightclub on Sat 31 Oct, Orange County. 1 artist on the bill: Maddix. Preview the line-up and save it on soundcheck.
+Maddix at Time Nightclub on Sat 31 Oct, Orange County. 1 artist: Maddix. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

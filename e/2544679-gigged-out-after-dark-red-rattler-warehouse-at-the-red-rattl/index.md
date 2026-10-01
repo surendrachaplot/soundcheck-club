@@ -1,6 +1,6 @@
 # Gigged Out After Dark - Red Rattler Warehouse at The Red Rattler
 
-Gigged Out After Dark - Red Rattler Warehouse at The Red Rattler on Sat 24 Oct, Sydney. 4 artists on the bill: Broccoli Effect, Jane Decks, Lily FM and Mina Tonic. Techno and Electro. Preview the line-up and save it on soundcheck.
+Gigged Out After Dark - Red Rattler Warehouse at The Red Rattler on Sat 24 Oct, Sydney. 4 artists: Broccoli Effect, Jane Decks, Lily FM and Mina Tonic. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

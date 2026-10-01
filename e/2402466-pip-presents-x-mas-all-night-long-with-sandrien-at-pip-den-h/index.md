@@ -1,6 +1,6 @@
 # PIP presents X-MAS All Night Long with Sandrien at PIP Den Haag
 
-PIP presents X-MAS All Night Long with Sandrien at PIP Den Haag on Sat 26 Dec, The Hague. 1 artist on the bill: Sandrien. Techno and House. Preview the line-up and save it on soundcheck.
+PIP presents X-MAS All Night Long with Sandrien at PIP Den Haag on Sat 26 Dec, The Hague. 1 artist: Sandrien. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

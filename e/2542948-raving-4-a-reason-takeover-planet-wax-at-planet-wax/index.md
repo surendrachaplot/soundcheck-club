@@ -1,6 +1,6 @@
 # RAVING 4 A REASON: Takeover Planet Wax at Planet Wax
 
-RAVING 4 A REASON: Takeover Planet Wax on Sat 10 Oct, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+RAVING 4 A REASON: Takeover Planet Wax on Sat 10 Oct, London. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

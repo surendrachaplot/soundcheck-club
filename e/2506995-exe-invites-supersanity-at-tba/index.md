@@ -1,6 +1,6 @@
 # EXE invites Supersanity at TBA
 
-EXE invites Supersanity at TBA on Fri 2 Oct, Bucharest. 1 artist on the bill: Ada Kaleh. Techno. Preview the line-up and save it on soundcheck.
+EXE invites Supersanity at TBA on Fri 2 Oct, Bucharest. 1 artist: Ada Kaleh. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

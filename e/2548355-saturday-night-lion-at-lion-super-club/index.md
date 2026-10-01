@@ -1,6 +1,6 @@
 # SATURDAY NIGHT LION at Lion Super Club
 
-SATURDAY NIGHT LION at Lion Super Club on Sat 3 Oct, Seoul. Preview the line-up and save it on soundcheck.
+SATURDAY NIGHT LION at Lion Super Club on Sat 3 Oct, Seoul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

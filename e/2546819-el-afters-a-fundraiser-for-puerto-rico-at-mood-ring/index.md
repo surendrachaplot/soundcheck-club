@@ -1,6 +1,6 @@
 # EL AFTERS: A FUNDRAISER FOR PUERTO RICO at Mood Ring
 
-EL AFTERS: A FUNDRAISER FOR PUERTO RICO at Mood Ring on Thu 15 Oct, New York City. 2 artists on the bill: AROON and grunge mum. Preview the line-up and save it on soundcheck.
+EL AFTERS: A FUNDRAISER FOR PUERTO RICO at Mood Ring on Thu 15 Oct, New York City. 2 artists: AROON and grunge mum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

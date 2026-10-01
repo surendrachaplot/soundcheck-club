@@ -1,8 +1,8 @@
 # Kuff
 
-Kuff is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Superior Ingredients, New York City on Sun, 25 Oct 2026.
+Kuff is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Superior Ingredients, New York City on Sun, 25 Oct 2026.
 
-Kuff is a house and tech house artist based in Spain, tracked on soundcheck, with 11 sets logged across Austin, Chicago, Los Angeles and Miami and 1 more. Often billed alongside Almela, FI-LO and Jessy Nimni. Next up: Superior Ingredients, New York City on Sun 25 Oct.
+Kuff is a house and tech house artist based in Spain, with 11 gigs on soundcheck across Austin, Chicago, Los Angeles and Miami and 1 more. Often billed alongside Almela, FI-LO and Jessy Nimni. Next up: Superior Ingredients, New York City on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kuff is a house and tech house artist based in Spain, tracked on soundcheck, wit
 
 ## Recently played
 
-- Do Not Sit On The Furniture, Miami — Wed, 13 May 2026
-- The Trip, Miami — Sun, 3 May 2026
-- Althea's Rooftop, New York City — Sat, 14 Feb 2026
-- MODE Downtown Miami, Miami — Thu, 20 Nov 2025
-- The Chocolate Factory, New York City — Sat, 8 Nov 2025
-- Althea's Rooftop, New York City — Fri, 17 Oct 2025
-- The Ground at Club Space, Miami — Sun, 22 Jun 2025
-- TBA - 630 S Anderson St., Los Angeles — Sun, 4 May 2025
+- Do Not Sit On The Furniture, Miami · Wed, 13 May 2026
+- The Trip, Miami · Sun, 3 May 2026
+- Althea's Rooftop, New York City · Sat, 14 Feb 2026
+- MODE Downtown Miami, Miami · Thu, 20 Nov 2025
+- The Chocolate Factory, New York City · Sat, 8 Nov 2025
+- Althea's Rooftop, New York City · Fri, 17 Oct 2025
+- The Ground at Club Space, Miami · Sun, 22 Jun 2025
+- TBA - 630 S Anderson St., Los Angeles · Sun, 4 May 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # MORD Night / Bas Mooy Earwax Tandem Planetae Ricardo Morales Mario Blur at Lasociaciøn
 
-MORD Night / Bas Mooy Earwax Tandem Planetae Ricardo Morales Mario Blur at Lasociaciøn on Sat 31 Oct, Madrid. 5 artists on the bill: Bas Mooy, Earwax (IT), Mario Blur and Ricardo Morales and 1 more. Techno. Preview the line-up and save it on soundcheck.
+MORD Night / Bas Mooy Earwax Tandem Planetae Ricardo Morales Mario Blur at Lasociaciøn on Sat 31 Oct, Madrid. 5 artists: Bas Mooy, Earwax (IT), Mario Blur and Ricardo Morales and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

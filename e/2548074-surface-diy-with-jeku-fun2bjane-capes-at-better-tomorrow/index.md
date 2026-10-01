@@ -1,6 +1,6 @@
 # Surface DIY with Jeku, fun2bjane & Capes at Better Tomorrow
 
-Surface DIY with Jeku, fun2bjane & Capes at Better Tomorrow on Thu 15 Oct, Los Angeles. 3 artists on the bill: Capes, fun2bjane and Jeku. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Surface DIY with Jeku, fun2bjane & Capes at Better Tomorrow on Thu 15 Oct, Los Angeles. 3 artists: Capes, fun2bjane and Jeku. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

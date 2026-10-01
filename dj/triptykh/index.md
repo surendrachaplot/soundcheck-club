@@ -1,8 +1,8 @@
 # TRIPTYKH
 
-TRIPTYKH is a Techno and Industrial artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+TRIPTYKH is a Techno and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-TRIPTYKH is a techno and industrial artist based in United States of America, tracked on soundcheck, with 51 sets logged across Antwerp, Auckland, Austin and Barcelona and 30 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+TRIPTYKH is a techno and industrial artist based in United States of America, with 51 gigs on soundcheck across Antwerp, Auckland, Austin and Barcelona and 30 more. Often billed alongside Aiden (DE), Kobosil and Ornella. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ TRIPTYKH is a techno and industrial artist based in United States of America, tr
 
 ## Recently played
 
-- Bootshaus, Cologne — Sat, 26 Sept 2026
-- Bootshaus, Cologne — Sat, 26 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- NWHR, Montreal — Fri, 7 Aug 2026
-- Club de Pescadores Buenos Aires, Buenos Aires — Sat, 25 Jul 2026
-- Schrotty, Cologne — Wed, 13 May 2026
-- Ahoy Rotterdam, Rotterdam — Sat, 9 May 2026
-- Spook Club, Valencia — Sat, 11 Apr 2026
+- Bootshaus, Cologne · Sat, 26 Sept 2026
+- Bootshaus, Cologne · Sat, 26 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- NWHR, Montreal · Fri, 7 Aug 2026
+- Club de Pescadores Buenos Aires, Buenos Aires · Sat, 25 Jul 2026
+- Schrotty, Cologne · Wed, 13 May 2026
+- Ahoy Rotterdam, Rotterdam · Sat, 9 May 2026
+- Spook Club, Valencia · Sat, 11 Apr 2026
 
 ## Shares bills with
 

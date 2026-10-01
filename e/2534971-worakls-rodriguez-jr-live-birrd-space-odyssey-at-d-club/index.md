@@ -1,6 +1,6 @@
 # Worakls, RODRIGUEZ JR live, BIRRD => Space Odyssey at D! Club
 
-Worakls, RODRIGUEZ JR live, BIRRD => Space Odyssey at D! Club on Fri 2 Oct, Lausanne. 2 artists on the bill: Rodriguez Jr. and Worakls. Preview the line-up and save it on soundcheck.
+Worakls, RODRIGUEZ JR live, BIRRD => Space Odyssey at D! Club on Fri 2 Oct, Lausanne. 2 artists: Rodriguez Jr. and Worakls. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

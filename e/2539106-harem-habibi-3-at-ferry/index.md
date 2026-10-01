@@ -1,6 +1,6 @@
 # HAREM, HABIBI 3 at Ferry
 
-HAREM, HABIBI 3 at Ferry on Fri 20 Nov, Rotterdam. Techno. Preview the line-up and save it on soundcheck.
+HAREM, HABIBI 3 at Ferry on Fri 20 Nov, Rotterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

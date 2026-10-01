@@ -1,8 +1,8 @@
 # Art of Fighters
 
-Art of Fighters is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
+Art of Fighters is a Hardcore and Gabber artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
 
-Art of Fighters is a hardcore and gabber artist based in Italy, tracked on soundcheck, with 22 sets logged across Amsterdam, Barcelona, Frankfurt and Geneva and 9 more. Often billed alongside Endymion, Korsakoff and Ophidian. Next up: Maassilo, Rotterdam on Sat 24 Oct.
+Art of Fighters is a hardcore and gabber artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Barcelona, Frankfurt and Geneva and 9 more. Often billed alongside Endymion, Korsakoff and Ophidian. Next up: Maassilo, Rotterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Art of Fighters is a hardcore and gabber artist based in Italy, tracked on sound
 
 ## Recently played
 
-- Parc de la Serra de Mollerussa (Lérida), Barcelona — Sat, 5 Sept 2026
-- Klub Progresja, Warsaw — Wed, 3 Jun 2026
-- Spook Club, Valencia — Sat, 24 Jan 2026
-- Club 69, Glasgow — Sat, 6 Dec 2025
-- Club 69, Glasgow — Sat, 6 Dec 2025
-- Hemkade 48, Amsterdam — Sat, 8 Nov 2025
-- TBA - Kennemerboulevard 250, 1976 EG IJmuiden, Netherlands, Amsterdam — Sat, 13 Sept 2025
-- Sala Groove, Madrid — Fri, 29 Aug 2025
+- Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
+- Klub Progresja, Warsaw · Wed, 3 Jun 2026
+- Spook Club, Valencia · Sat, 24 Jan 2026
+- Club 69, Glasgow · Sat, 6 Dec 2025
+- Club 69, Glasgow · Sat, 6 Dec 2025
+- Hemkade 48, Amsterdam · Sat, 8 Nov 2025
+- TBA - Kennemerboulevard 250, 1976 EG IJmuiden, Netherlands, Amsterdam · Sat, 13 Sept 2025
+- Sala Groove, Madrid · Fri, 29 Aug 2025
 
 ## Shares bills with
 

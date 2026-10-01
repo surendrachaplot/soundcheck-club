@@ -1,6 +1,6 @@
 # NOXVAULT TECHNO @Stage&Radio 07.10.26 at Stage and Radio
 
-NOXVAULT TECHNO @Stage&Radio 07.10.26 at Stage and Radio on Wed 7 Oct, Manchester. Techno and Industrial. Preview the line-up and save it on soundcheck.
+NOXVAULT TECHNO @Stage&Radio 07.10.26 at Stage and Radio on Wed 7 Oct, Manchester. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

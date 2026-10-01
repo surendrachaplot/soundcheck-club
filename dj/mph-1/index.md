@@ -1,8 +1,8 @@
 # MPH (1)
 
-MPH (1) is a Garage and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+MPH (1) is a Garage and House artist with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-MPH is a garage and house artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across Amsterdam, Antwerp, Auckland and Austin and 40 more. Often billed alongside Oppidan, Flava D and Hamdi. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+MPH is a garage and house artist based in United Kingdom, with 120 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 40 more. Often billed alongside Oppidan, Flava D and Hamdi. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ MPH is a garage and house artist based in United Kingdom, tracked on soundcheck,
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- Pumpehuset, Copenhagen — Sat, 19 Sept 2026
-- Hï Ibiza, Ibiza — Fri, 18 Sept 2026
-- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Fri, 21 Aug 2026
-- NUMBER 90 LONDON, London — Thu, 20 Aug 2026
-- Old Royal Naval College, London — Sun, 2 Aug 2026
-- Smoke & Mirrors, Chicago — Thu, 30 Jul 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- Pumpehuset, Copenhagen · Sat, 19 Sept 2026
+- Hï Ibiza, Ibiza · Fri, 18 Sept 2026
+- Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Fri, 21 Aug 2026
+- NUMBER 90 LONDON, London · Thu, 20 Aug 2026
+- Old Royal Naval College, London · Sun, 2 Aug 2026
+- Smoke & Mirrors, Chicago · Thu, 30 Jul 2026
 
 ## Shares bills with
 

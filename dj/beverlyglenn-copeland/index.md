@@ -1,8 +1,8 @@
 # Beverly Glenn-Copeland
 
-Beverly Glenn-Copeland is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Valkoinen sali, Helsinki on Mon, 26 Oct 2026.
+Beverly Glenn-Copeland is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Valkoinen sali, Helsinki on Mon, 26 Oct 2026.
 
-Beverly Glenn-Copeland is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 5 sets logged across Copenhagen, Helsinki, Paris and The Hague and 1 more. Often billed alongside Aaron Dilloway, Actress and Batu. Next up: Valkoinen sali, Helsinki on Mon 26 Oct.
+Beverly Glenn-Copeland is an ambient and experimental artist based in United States of America, with 5 gigs on soundcheck across Copenhagen, Helsinki, Paris and The Hague and 1 more. Often billed alongside Aaron Dilloway, Actress and Batu. Next up: Valkoinen sali, Helsinki on Mon 26 Oct.
 
 ## Upcoming shows
 
@@ -12,10 +12,10 @@ Beverly Glenn-Copeland is an ambient and experimental artist based in United Sta
 
 ## Recently played
 
-- Bellevue Teatret, Copenhagen — Mon, 7 Sept 2026
-- Bourse de Commerce — Pinault Collection, Paris — Sat, 27 Jun 2026
-- TBA - Multiple Venues , The Hague — Thu, 9 Apr 2026
-- The Chan Centre for the Performing Arts, Vancouver — Fri, 16 Jan 2026
+- Bellevue Teatret, Copenhagen · Mon, 7 Sept 2026
+- Bourse de Commerce — Pinault Collection, Paris · Sat, 27 Jun 2026
+- TBA - Multiple Venues , The Hague · Thu, 9 Apr 2026
+- The Chan Centre for the Performing Arts, Vancouver · Fri, 16 Jan 2026
 
 ## Shares bills with
 

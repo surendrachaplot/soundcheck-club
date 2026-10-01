@@ -1,8 +1,8 @@
 # YOUSUKE FUYAMA
 
-YOUSUKE FUYAMA is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at White Space Lab, Tokyo on Fri, 16 Oct 2026.
+YOUSUKE FUYAMA is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at White Space Lab, Tokyo on Fri, 16 Oct 2026.
 
-YOUSUKE FUYAMA is an experimental and electronica artist based in Japan, tracked on soundcheck, with 9 sets logged across Tokyo. Often billed alongside Eric Frye, B.A.R.K and NTsKi. Next up: White Space Lab, Tokyo on Fri 16 Oct.
+YOUSUKE FUYAMA is an experimental and electronica artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside Eric Frye, B.A.R.K and NTsKi. Next up: White Space Lab, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ YOUSUKE FUYAMA is an experimental and electronica artist based in Japan, tracked
 
 ## Recently played
 
-- Chitei 地底, Tokyo — Fri, 7 Aug 2026
-- Forestlimit, Tokyo — Thu, 30 Oct 2025
-- Forestlimit, Tokyo — Thu, 30 Oct 2025
-- Soup, Tokyo — Sat, 18 Oct 2025
-- Forestlimit, Tokyo — Tue, 7 Oct 2025
-- Forestlimit, Tokyo — Mon, 23 Dec 2024
-- Forestlimit, Tokyo — Mon, 18 Nov 2024
-- Spread, Tokyo — Fri, 15 Sept 2023
+- Chitei 地底, Tokyo · Fri, 7 Aug 2026
+- Forestlimit, Tokyo · Thu, 30 Oct 2025
+- Forestlimit, Tokyo · Thu, 30 Oct 2025
+- Soup, Tokyo · Sat, 18 Oct 2025
+- Forestlimit, Tokyo · Tue, 7 Oct 2025
+- Forestlimit, Tokyo · Mon, 23 Dec 2024
+- Forestlimit, Tokyo · Mon, 18 Nov 2024
+- Spread, Tokyo · Fri, 15 Sept 2023
 
 ## Shares bills with
 

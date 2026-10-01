@@ -1,6 +1,6 @@
 # YUCA with DJ Mighty Monch (187 Strassenbande) // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts at Yuca Club
 
-YUCA with DJ Mighty Monch (187 Strassenbande) // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts at Yuca Club on Sat 24 Oct, Cologne. Hip-Hop. Preview the line-up and save it on soundcheck.
+YUCA with DJ Mighty Monch (187 Strassenbande) // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts at Yuca Club on Sat 24 Oct, Cologne. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

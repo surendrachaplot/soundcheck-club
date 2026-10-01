@@ -1,6 +1,6 @@
 # COMES IN WAVES pres. Day Party at OneSixOne
 
-COMES IN WAVES pres. Day Party at OneSixOne on Sat 7 Nov, Melbourne. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+COMES IN WAVES pres. Day Party at OneSixOne on Sat 7 Nov, Melbourne. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

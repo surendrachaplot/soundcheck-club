@@ -1,6 +1,6 @@
 # House WE Love (madness edition) at Pekelnej Bar
 
-House WE Love (madness edition) at Pekelnej Bar on Sat 24 Oct, Prague. 5 artists on the bill: Chris Rosewarne, Nicco Lupen, Rajky and Sam Gittis and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+House WE Love (madness edition) at Pekelnej Bar on Sat 24 Oct, Prague. 5 artists: Chris Rosewarne, Nicco Lupen, Rajky and Sam Gittis and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

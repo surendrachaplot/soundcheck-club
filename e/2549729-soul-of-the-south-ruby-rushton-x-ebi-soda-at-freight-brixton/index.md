@@ -1,6 +1,6 @@
 # Soul Of The South: Ruby Rushton x Ebi Soda at Freight Brixton
 
-Soul Of The South: Ruby Rushton x Ebi Soda at Freight Brixton on Thu 26 Nov, London. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Soul Of The South: Ruby Rushton x Ebi Soda at Freight Brixton on Thu 26 Nov, London. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

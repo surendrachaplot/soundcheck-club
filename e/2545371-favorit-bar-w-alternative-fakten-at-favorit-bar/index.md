@@ -1,6 +1,6 @@
 # Favorit Bar w/ Alternative Fakten at Favorit Bar
 
-Favorit Bar w/ Alternative Fakten on Thu 1 Oct, Munich. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Favorit Bar w/ Alternative Fakten on Thu 1 Oct, Munich. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Vertile - Everything Changes at Docks
 
-Vertile - Everything Changes at Docks on Fri 27 Nov, Hamburg. Preview the line-up and save it on soundcheck.
+Vertile - Everything Changes at Docks on Fri 27 Nov, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

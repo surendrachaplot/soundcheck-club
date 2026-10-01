@@ -1,8 +1,8 @@
 # Clarisa Kimskii
 
-Clarisa Kimskii is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lantaren/Venster, Rotterdam on Sat, 10 Oct 2026.
+Clarisa Kimskii is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lantaren/Venster, Rotterdam on Sat, 10 Oct 2026.
 
-Clarisa Kimskii is a techno and house artist based in United States of America, tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: Lantaren/Venster, Rotterdam on Sat 10 Oct.
+Clarisa Kimskii is a techno and house artist based in United States of America, with 164 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 34 more. Often billed alongside Ne/Re/A, Mike Servito and Wata Igarashi. Next up: Lantaren/Venster, Rotterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Clarisa Kimskii is a techno and house artist based in United States of America, 
 
 ## Recently played
 
-- Kilomètre25, Paris — Sat, 26 Sept 2026
-- Good Room, New York City — Thu, 24 Sept 2026
-- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 18 Sept 2026
-- TRANSMISSION DC, Washington DC — Sat, 12 Sept 2026
-- The Chocolate Factory, New York City — Fri, 11 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 29 Aug 2026
-- TRAUM, Antwerp — Sat, 8 Aug 2026
-- CLUB RAUM, Amsterdam — Fri, 7 Aug 2026
+- Kilomètre25, Paris · Sat, 26 Sept 2026
+- Good Room, New York City · Thu, 24 Sept 2026
+- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
+- TRANSMISSION DC, Washington DC · Sat, 12 Sept 2026
+- The Chocolate Factory, New York City · Fri, 11 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 29 Aug 2026
+- TRAUM, Antwerp · Sat, 8 Aug 2026
+- CLUB RAUM, Amsterdam · Fri, 7 Aug 2026
 
 ## Shares bills with
 

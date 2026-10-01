@@ -1,6 +1,6 @@
 # 5 YEARS of EhrenKlub / Pt 1 at Schrotty
 
-5 YEARS of EhrenKlub / Pt 1 at Schrotty on Sat 7 Nov, Cologne. 3 artists on the bill: KNTRLVRLST, LIEKS and SITTENLOS. Techno and Gabber. Preview the line-up and save it on soundcheck.
+5 YEARS of EhrenKlub / Pt 1 at Schrotty on Sat 7 Nov, Cologne. 3 artists: KNTRLVRLST, LIEKS and SITTENLOS. Techno and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

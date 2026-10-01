@@ -1,8 +1,8 @@
 # Prismode
 
-Prismode is a Techno and Progressive House artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Docks, Hamburg on Fri, 9 Oct 2026.
+Prismode is a Techno and Progressive House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Docks, Hamburg on Fri, 9 Oct 2026.
 
-Prismode is a techno and progressive house artist based in Germany, tracked on soundcheck, with 113 sets logged across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 17 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Docks, Hamburg on Fri 9 Oct.
+Prismode is a techno and progressive house artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Barcelona and Berlin and 17 more. Often billed alongside Solvane, Markus Klee and Super Flu. Next up: Docks, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Prismode is a techno and progressive house artist based in Germany, tracked on s
 
 ## Recently played
 
-- Insomnia, Berlin — Sat, 26 Sept 2026
-- Ritter Butzke, Berlin — Sat, 19 Sept 2026
-- Hamburg Cruise Center Altona, Hamburg — Fri, 28 Aug 2026
-- Bahnwärter Thiel, Munich — Sat, 22 Aug 2026
-- TBA - Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
-- Ritter Butzke, Berlin — Sat, 15 Aug 2026
-- Ritter Butzke, Berlin — Sat, 25 Jul 2026
-- Ritter Butzke, Berlin — Sat, 11 Jul 2026
+- Insomnia, Berlin · Sat, 26 Sept 2026
+- Ritter Butzke, Berlin · Sat, 19 Sept 2026
+- Hamburg Cruise Center Altona, Hamburg · Fri, 28 Aug 2026
+- Bahnwärter Thiel, Munich · Sat, 22 Aug 2026
+- TBA - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
+- Ritter Butzke, Berlin · Sat, 15 Aug 2026
+- Ritter Butzke, Berlin · Sat, 25 Jul 2026
+- Ritter Butzke, Berlin · Sat, 11 Jul 2026
 
 ## Shares bills with
 

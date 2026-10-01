@@ -1,6 +1,6 @@
 # RaveDAO presents BADDIEJUICE at Soap Seoul at Soap Seoul.
 
-RaveDAO presents BADDIEJUICE at Soap Seoul at Soap Seoul. on Thu 1 Oct, Seoul. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+RaveDAO presents BADDIEJUICE at Soap Seoul at Soap Seoul. on Thu 1 Oct, Seoul. Baile Funk and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

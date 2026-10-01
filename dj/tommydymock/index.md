@@ -1,8 +1,8 @@
 # Tommy Dymock
 
-Tommy Dymock is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Love Inn, Bristol on Thu, 8 Oct 2026.
+Tommy Dymock is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Love Inn, Bristol on Thu, 8 Oct 2026.
 
-Tommy Dymock is a house and electro artist tracked on soundcheck, with 26 sets logged across Bristol, London and Newcastle. Often billed alongside Woody, Betsy Mae and Eksish. Next up: The Love Inn, Bristol on Thu 8 Oct.
+Tommy Dymock is a house and electro artist, with 26 gigs on soundcheck across Bristol, London and Newcastle. Often billed alongside Woody, Betsy Mae and Eksish. Next up: The Love Inn, Bristol on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Tommy Dymock is a house and electro artist tracked on soundcheck, with 26 sets l
 
 ## Recently played
 
-- Ouseburn Garden, Newcastle — Fri, 22 May 2026
-- Moon Club, Bristol — Sat, 16 May 2026
-- Moon Club, Bristol — Sat, 21 Mar 2026
-- Ashton Court Estate, Bristol — Fri, 20 Feb 2026
-- The Cider Box, Bristol — Fri, 20 Feb 2026
-- The Love Inn, Bristol — Wed, 28 Jan 2026
-- The Croft, Bristol — Sat, 15 Nov 2025
-- TBA - Secret Location, Bow | London, London — Sat, 1 Nov 2025
+- Ouseburn Garden, Newcastle · Fri, 22 May 2026
+- Moon Club, Bristol · Sat, 16 May 2026
+- Moon Club, Bristol · Sat, 21 Mar 2026
+- Ashton Court Estate, Bristol · Fri, 20 Feb 2026
+- The Cider Box, Bristol · Fri, 20 Feb 2026
+- The Love Inn, Bristol · Wed, 28 Jan 2026
+- The Croft, Bristol · Sat, 15 Nov 2025
+- TBA - Secret Location, Bow | London, London · Sat, 1 Nov 2025
 
 ## Shares bills with
 

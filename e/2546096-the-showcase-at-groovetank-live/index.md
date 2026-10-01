@@ -1,6 +1,6 @@
 # The Showcase at Groovetank Live
 
-The Showcase at Groovetank Live on Sat 12 Dec, London. 2 artists on the bill: D LAI and SONI LOBO. Techno. Preview the line-up and save it on soundcheck.
+The Showcase at Groovetank Live on Sat 12 Dec, London. 2 artists: D LAI and SONI LOBO. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

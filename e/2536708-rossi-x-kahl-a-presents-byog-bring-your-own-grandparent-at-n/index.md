@@ -1,6 +1,6 @@
 # Rossi. x Kahlúa presents 'BYOG' - Bring Your Own Grandparent at NUMBER 90 LONDON
 
-Rossi. x Kahlúa presents 'BYOG' - Bring Your Own Grandparent at NUMBER 90 LONDON on Thu 8 Oct, London. Preview the line-up and save it on soundcheck.
+Rossi. x Kahlúa presents 'BYOG' - Bring Your Own Grandparent at NUMBER 90 LONDON on Thu 8 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

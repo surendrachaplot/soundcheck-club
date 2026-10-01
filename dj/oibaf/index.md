@@ -1,8 +1,8 @@
 # OIBAF
 
-OIBAF is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+OIBAF is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
 
-OIBAF is a techno and house artist based in Spain, tracked on soundcheck, with 36 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside Darin Epsilon, Demattei and Goom Gum. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
+OIBAF is a techno and house artist based in Spain, with 36 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside Darin Epsilon, Demattei and Goom Gum. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ OIBAF is a techno and house artist based in Spain, tracked on soundcheck, with 3
 
 ## Recently played
 
-- MODULE, Copenhagen — Sat, 20 Jun 2026
-- Blue Summer Ibiza Boat, Ibiza — Sun, 26 Apr 2026
-- NUMBER 90 LONDON, London — Fri, 24 Oct 2025
-- Hangar48 Club, Madrid — Sat, 13 Sept 2025
-- Lolas Club Ibiza, Ibiza — Sat, 5 Jul 2025
-- Lula Club, Madrid — Sun, 25 May 2025
-- Lula Club, Madrid — Thu, 8 May 2025
-- Birgit, Berlin — Fri, 2 May 2025
+- MODULE, Copenhagen · Sat, 20 Jun 2026
+- Blue Summer Ibiza Boat, Ibiza · Sun, 26 Apr 2026
+- NUMBER 90 LONDON, London · Fri, 24 Oct 2025
+- Hangar48 Club, Madrid · Sat, 13 Sept 2025
+- Lolas Club Ibiza, Ibiza · Sat, 5 Jul 2025
+- Lula Club, Madrid · Sun, 25 May 2025
+- Lula Club, Madrid · Thu, 8 May 2025
+- Birgit, Berlin · Fri, 2 May 2025
 
 ## Shares bills with
 

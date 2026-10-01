@@ -1,6 +1,6 @@
 # William Basinski at BERHTA
 
-William Basinski at BERHTA on Sun 8 Nov, Washington DC. 1 artist on the bill: William Basinski. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+William Basinski at BERHTA on Sun 8 Nov, Washington DC. 1 artist: William Basinski. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

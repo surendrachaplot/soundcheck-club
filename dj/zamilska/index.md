@@ -1,8 +1,8 @@
 # ZAMILSKA
 
-ZAMILSKA is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu, 15 Oct 2026.
+ZAMILSKA is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu, 15 Oct 2026.
 
-ZAMILSKA is an electro and techno artist based in Poland, tracked on soundcheck, with 6 sets logged across Krakow, Poland, Prague and Warsaw. Often billed alongside Gosha Savage, ojoo and 2K88. Next up: Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu 15 Oct.
+ZAMILSKA is an electro and techno artist based in Poland, with 6 gigs on soundcheck across Krakow, Poland, Prague and Warsaw. Often billed alongside Gosha Savage, ojoo and 2K88. Next up: Miejskie Centrum Kultury w Bydgoszczy, Poland on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -13,10 +13,10 @@ ZAMILSKA is an electro and techno artist based in Poland, tracked on soundcheck,
 
 ## Recently played
 
-- NIEBO, Warsaw — Sun, 6 Apr 2025
-- Hype Park, Krakow — Thu, 3 Apr 2025
-- różne lokalizacje / various venues, Krakow — Sun, 29 Sept 2024
-- Twierdza Modlin, Warsaw — Fri, 16 Jun 2023
+- NIEBO, Warsaw · Sun, 6 Apr 2025
+- Hype Park, Krakow · Thu, 3 Apr 2025
+- różne lokalizacje / various venues, Krakow · Sun, 29 Sept 2024
+- Twierdza Modlin, Warsaw · Fri, 16 Jun 2023
 
 ## Shares bills with
 

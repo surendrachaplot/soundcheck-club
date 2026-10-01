@@ -1,6 +1,6 @@
 # MO'FI RECORDS Showcase #1 with Franz Scala (IT) & Italo Brutalo (DE) at Romantso
 
-MO'FI RECORDS Showcase #1 with Franz Scala (IT) & Italo Brutalo (DE) at Romantso on Sat 7 Nov, Athens. 3 artists on the bill: Chevy, Franz Scala and Italo Brutalo. Italo Disco and Electronica. Preview the line-up and save it on soundcheck.
+MO'FI RECORDS Showcase #1 with Franz Scala (IT) & Italo Brutalo (DE) at Romantso on Sat 7 Nov, Athens. 3 artists: Chevy, Franz Scala and Italo Brutalo. Italo Disco and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Novel presents Kenny Dope at Northcote Theatre
 
-Novel presents Kenny Dope at Northcote Theatre on Sun 7 Mar, Melbourne. 1 artist on the bill: Kenny Dope. Preview the line-up and save it on soundcheck.
+Novel presents Kenny Dope at Northcote Theatre on Sun 7 Mar, Melbourne. 1 artist: Kenny Dope. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

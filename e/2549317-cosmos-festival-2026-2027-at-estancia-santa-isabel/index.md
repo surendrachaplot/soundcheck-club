@@ -1,6 +1,6 @@
 # Cosmos Festival 2026 / 2027 at Estancia Santa Isabel
 
-Cosmos Festival 2026 / 2027 at Estancia Santa Isabel on Sun 27 Dec, Buenos Aires. House and Electronica. Preview the line-up and save it on soundcheck.
+Cosmos Festival 2026 / 2027 at Estancia Santa Isabel on Sun 27 Dec, Buenos Aires. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # W3 – Electrified Session at Photobastei
 
-W3 – Electrified Session at Photobastei on Thu 1 Oct, Zurich. Electronica. Preview the line-up and save it on soundcheck.
+W3 – Electrified Session at Photobastei on Thu 1 Oct, Zurich. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

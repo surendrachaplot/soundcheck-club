@@ -1,8 +1,8 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Garage Klub, Antwerp on Sat, 24 Oct 2026.
+CC:DISCO! is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Klub, Antwerp on Sat, 24 Oct 2026.
 
-CC:DISCO! is a house and disco artist based in Australia, tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Bali and 39 more. Often billed alongside Chima Isaaro, Erol Alkan and Gerd Janson. Next up: Garage Klub, Antwerp on Sat 24 Oct.
+CC:DISCO! is a house and disco artist based in Australia, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 39 more. Often billed alongside Chima Isaaro, Erol Alkan and Gerd Janson. Next up: Garage Klub, Antwerp on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ CC:DISCO! is a house and disco artist based in Australia, tracked on soundcheck,
 
 ## Recently played
 
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 11 Sept 2026
-- 528 Ibiza, Ibiza — Sat, 5 Sept 2026
-- Patterns, Brighton — Sun, 30 Aug 2026
-- 528 Ibiza, Ibiza — Tue, 11 Aug 2026
-- Night Tales, London — Sat, 8 Aug 2026
-- PIP Den Haag, The Hague — Sat, 25 Jul 2026
-- Boomtown (Kouter), Ghent — Sat, 18 Jul 2026
-- Tofte Manor, London — Sat, 4 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 11 Sept 2026
+- 528 Ibiza, Ibiza · Sat, 5 Sept 2026
+- Patterns, Brighton · Sun, 30 Aug 2026
+- 528 Ibiza, Ibiza · Tue, 11 Aug 2026
+- Night Tales, London · Sat, 8 Aug 2026
+- PIP Den Haag, The Hague · Sat, 25 Jul 2026
+- Boomtown (Kouter), Ghent · Sat, 18 Jul 2026
+- Tofte Manor, London · Sat, 4 Jul 2026
 
 ## Shares bills with
 

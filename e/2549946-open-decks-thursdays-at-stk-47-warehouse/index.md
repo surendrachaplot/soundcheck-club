@@ -1,6 +1,6 @@
 # Open Decks Thursdays at STK 47 WAREHOUSE
 
-Open Decks Thursdays at STK 47 WAREHOUSE on Thu 1 Oct, Krakow. 1 artist on the bill: Yōsta. Techno. Preview the line-up and save it on soundcheck.
+Open Decks Thursdays at STK 47 WAREHOUSE on Thu 1 Oct, Krakow. 1 artist: Yōsta. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

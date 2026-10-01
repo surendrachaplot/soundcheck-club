@@ -1,6 +1,6 @@
 # Ambiance électronique #1 at Salle Municipale de la Cité
 
-Ambiance électronique #1 at Salle Municipale de la Cité on Thu 8 Oct, Rennes. 3 artists on the bill: Blood of Aza, CWTCH and Katarina Gryvul. Preview the line-up and save it on soundcheck.
+Ambiance électronique #1 at Salle Municipale de la Cité on Thu 8 Oct, Rennes. 3 artists: Blood of Aza, CWTCH and Katarina Gryvul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

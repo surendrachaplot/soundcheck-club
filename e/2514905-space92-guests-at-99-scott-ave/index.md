@@ -1,6 +1,6 @@
 # Space92 & Guests at 99 Scott Ave
 
-Space92 & Guests at 99 Scott Ave on Sat 28 Nov, New York City. 1 artist on the bill: Space 92. Techno. Preview the line-up and save it on soundcheck.
+Space92 & Guests at 99 Scott Ave on Sat 28 Nov, New York City. 1 artist: Space 92. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

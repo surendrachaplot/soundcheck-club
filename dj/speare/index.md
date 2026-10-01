@@ -1,8 +1,8 @@
 # Speare
 
-Speare is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
+Speare is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 24 Oct 2026.
 
-Speare is an electronic artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside DJ KETAFLUSH, Rosecut and ABSIS. Next up: Razzmatazz, Barcelona on Sat 24 Oct.
+Speare is an electronic artist based in Spain, with 9 gigs on soundcheck across Barcelona. Often billed alongside DJ KETAFLUSH, Rosecut and ABSIS. Next up: Razzmatazz, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Speare is an electronic artist based in Spain, tracked on soundcheck, with 9 set
 
 ## Recently played
 
-- Razzmatazz, Barcelona — Sat, 1 Aug 2026
-- Razzmatazz, Barcelona — Sat, 18 Oct 2025
-- Razzmatazz, Barcelona — Sat, 9 Aug 2025
-- Razzmatazz, Barcelona — Sat, 26 Apr 2025
-- Razzmatazz, Barcelona — Fri, 22 Nov 2024
-- Razzmatazz, Barcelona — Sat, 28 Sept 2024
-- Human Club, Barcelona — Sat, 4 May 2024
-- Meteoro, Barcelona — Fri, 12 Apr 2024
+- Razzmatazz, Barcelona · Sat, 1 Aug 2026
+- Razzmatazz, Barcelona · Sat, 18 Oct 2025
+- Razzmatazz, Barcelona · Sat, 9 Aug 2025
+- Razzmatazz, Barcelona · Sat, 26 Apr 2025
+- Razzmatazz, Barcelona · Fri, 22 Nov 2024
+- Razzmatazz, Barcelona · Sat, 28 Sept 2024
+- Human Club, Barcelona · Sat, 4 May 2024
+- Meteoro, Barcelona · Fri, 12 Apr 2024
 
 ## Shares bills with
 

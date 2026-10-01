@@ -1,6 +1,6 @@
 # Club — more girls behind decks Birthday Party at Badaboum
 
-Club — more girls behind decks Birthday Party at Badaboum on Fri 9 Oct, Paris. 1 artist on the bill: Elise Massoni. House and Tech House. Preview the line-up and save it on soundcheck.
+Club — more girls behind decks Birthday Party at Badaboum on Fri 9 Oct, Paris. 1 artist: Elise Massoni. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

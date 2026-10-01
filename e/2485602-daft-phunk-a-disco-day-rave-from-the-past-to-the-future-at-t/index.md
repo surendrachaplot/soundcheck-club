@@ -1,6 +1,6 @@
 # Daft Phunk - A disco day rave from the past to the future at The Roxy
 
-Daft Phunk - A disco day rave from the past to the future at The Roxy on Sat 17 Oct, London. 1 artist on the bill: That Perfect Fumble. House and Disco. Preview the line-up and save it on soundcheck.
+Daft Phunk - A disco day rave from the past to the future at The Roxy on Sat 17 Oct, London. 1 artist: That Perfect Fumble. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

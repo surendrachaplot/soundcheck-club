@@ -1,6 +1,6 @@
 # KEMURI 4th Anniversary at Compufunk Records
 
-KEMURI 4th Anniversary at Compufunk Records on Sun 11 Oct, Osaka. House and Deep House. Preview the line-up and save it on soundcheck.
+KEMURI 4th Anniversary at Compufunk Records on Sun 11 Oct, Osaka. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PLAYNICE CONFIDENTIAL 019 - Vibe Positive at Abercrombie Hotel
 
-PLAYNICE CONFIDENTIAL 019 - Vibe Positive at Abercrombie Hotel on Sat 17 Oct, Sydney. 1 artist on the bill: Vibe Positive. House and Club. Preview the line-up and save it on soundcheck.
+PLAYNICE CONFIDENTIAL 019 - Vibe Positive at Abercrombie Hotel on Sat 17 Oct, Sydney. 1 artist: Vibe Positive. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

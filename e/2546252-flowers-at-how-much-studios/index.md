@@ -1,6 +1,6 @@
 # Flowers at How Much Studios
 
-Flowers at How Much Studios on Sat 24 Oct, Austin. 2 artists on the bill: Cuillere and Demarkus Lewis. House. Preview the line-up and save it on soundcheck.
+Flowers at How Much Studios on Sat 24 Oct, Austin. 2 artists: Cuillere and Demarkus Lewis. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

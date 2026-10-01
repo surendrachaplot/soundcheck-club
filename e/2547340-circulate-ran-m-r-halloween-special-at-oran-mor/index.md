@@ -1,6 +1,6 @@
 # Circulate: Òran Mór Halloween Special at Oran Mor
 
-Circulate: Òran Mór Halloween Special at Oran Mor on Fri 30 Oct, Glasgow. House and Electronica. Preview the line-up and save it on soundcheck.
+Circulate: Òran Mór Halloween Special at Oran Mor on Fri 30 Oct, Glasgow. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

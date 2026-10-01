@@ -1,6 +1,6 @@
 # Echo Reset: Boy Sharp, DJ Jos, Danny Astin Louxx at Idle Mind Tavern
 
-Echo Reset: Boy Sharp, DJ Jos, Danny Astin Louxx at Idle Mind Tavern on Sat 3 Oct, New York City. House and Tech House. Preview the line-up and save it on soundcheck.
+Echo Reset: Boy Sharp, DJ Jos, Danny Astin Louxx at Idle Mind Tavern on Sat 3 Oct, New York City. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

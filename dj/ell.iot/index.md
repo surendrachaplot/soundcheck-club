@@ -1,8 +1,8 @@
 # ell.iot
 
-ell.iot is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hosoi, Stockholm on Fri, 9 Oct 2026.
+ell.iot is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hosoi, Stockholm on Fri, 9 Oct 2026.
 
-ell.iot is a house and electro artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Cardiff, Dublin, Leeds and Liverpool and 5 more. Often billed alongside Dowd, DJ Peach Iced Tea and Quick William. Next up: Hosoi, Stockholm on Fri 9 Oct.
+ell.iot is a house and electro artist based in United Kingdom, with 24 gigs on soundcheck across Cardiff, Dublin, Leeds and Liverpool and 5 more. Often billed alongside Dowd, DJ Peach Iced Tea and Quick William. Next up: Hosoi, Stockholm on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ ell.iot is a house and electro artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Brixton Jamm, London — Sat, 16 May 2026
-- Kasheme, Zurich — Fri, 10 Apr 2026
-- Paradise Garden, Cardiff — Sat, 14 Mar 2026
-- The Big Romance, Dublin — Fri, 6 Feb 2026
-- Kazimier Garden, Liverpool — Wed, 31 Dec 2025
-- Eat Your Greens, Leeds — Sat, 13 Dec 2025
-- Kazimier Garden, Liverpool — Sat, 14 Jun 2025
-- Kazimier Garden, Liverpool — Sat, 10 May 2025
+- Brixton Jamm, London · Sat, 16 May 2026
+- Kasheme, Zurich · Fri, 10 Apr 2026
+- Paradise Garden, Cardiff · Sat, 14 Mar 2026
+- The Big Romance, Dublin · Fri, 6 Feb 2026
+- Kazimier Garden, Liverpool · Wed, 31 Dec 2025
+- Eat Your Greens, Leeds · Sat, 13 Dec 2025
+- Kazimier Garden, Liverpool · Sat, 14 Jun 2025
+- Kazimier Garden, Liverpool · Sat, 10 May 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Calcium at Meow Wolf Houston
 
-Calcium at Meow Wolf Houston on Fri 9 Oct, Houston. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Calcium at Meow Wolf Houston on Fri 9 Oct, Houston. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

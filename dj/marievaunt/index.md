@@ -1,8 +1,8 @@
 # Marie Vaunt
 
-Marie Vaunt is a Techno and Acid artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
+Marie Vaunt is a Techno and Acid artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
 
-Marie Vaunt is a techno and acid artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Arizona, Athens and Auckland and 40 more. Often billed alongside Space 92, Maddix and Eli Brown. Next up: TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri 2 Oct.
+Marie Vaunt is a techno and acid artist based in United States of America, with 84 gigs on soundcheck across Amsterdam, Arizona, Athens and Auckland and 40 more. Often billed alongside Space 92, Maddix and Eli Brown. Next up: TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Marie Vaunt is a techno and acid artist based in United States of America, track
 
 ## Recently played
 
-- The Concourse Project, Austin — Sat, 26 Sept 2026
-- Factory Town, Miami — Fri, 25 Sept 2026
-- Kralingse Bos, Rotterdam — Sat, 12 Sept 2026
-- OST, Berlin — Sat, 12 Sept 2026
-- block., Dublin — Fri, 11 Sept 2026
-- Night We Met, Nashville — Sat, 29 Aug 2026
-- Eden, Ibiza — Tue, 18 Aug 2026
-- Q Nightclub, Seattle — Sat, 11 Jul 2026
+- The Concourse Project, Austin · Sat, 26 Sept 2026
+- Factory Town, Miami · Fri, 25 Sept 2026
+- Kralingse Bos, Rotterdam · Sat, 12 Sept 2026
+- OST, Berlin · Sat, 12 Sept 2026
+- block., Dublin · Fri, 11 Sept 2026
+- Night We Met, Nashville · Sat, 29 Aug 2026
+- Eden, Ibiza · Tue, 18 Aug 2026
+- Q Nightclub, Seattle · Sat, 11 Jul 2026
 
 ## Shares bills with
 

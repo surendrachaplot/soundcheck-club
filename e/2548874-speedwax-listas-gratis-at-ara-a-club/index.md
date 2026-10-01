@@ -1,6 +1,6 @@
 # SPEEDWAX [LISTAS GRATIS] at Araña Club
 
-SPEEDWAX [LISTAS GRATIS] at Araña Club on Fri 16 Oct, Madrid. Trance and Techno. Preview the line-up and save it on soundcheck.
+SPEEDWAX [LISTAS GRATIS] at Araña Club on Fri 16 Oct, Madrid. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

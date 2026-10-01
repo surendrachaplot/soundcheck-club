@@ -1,8 +1,8 @@
 # Agoria
 
-Agoria is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
+Agoria is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
 
-Agoria is a house and techno artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Barcelona and Geneva and 16 more. Often billed alongside Mooglie, Amour Propre and Armin van Buuren. Next up: Cité du Cinéma, Paris on Thu 1 Oct.
+Agoria is a house and techno artist based in France, with 60 gigs on soundcheck across Amsterdam, Athens, Barcelona and Geneva and 16 more. Often billed alongside Mooglie, Amour Propre and Armin van Buuren. Next up: Cité du Cinéma, Paris on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Agoria is a house and techno artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
-- Volt Club Milano, Milan — Sat, 19 Sept 2026
-- Audio Club, Geneva — Sat, 5 Sept 2026
-- Cova Santa, Ibiza — Sun, 30 Aug 2026
-- fabric, London — Fri, 31 Jul 2026
-- La Clairière, Paris — Fri, 24 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
-- Cova Santa, Ibiza — Wed, 24 Jun 2026
-- BORIS CLUB, Barcelona — Tue, 16 Jun 2026
+- Volt Club Milano, Milan · Sat, 19 Sept 2026
+- Audio Club, Geneva · Sat, 5 Sept 2026
+- Cova Santa, Ibiza · Sun, 30 Aug 2026
+- fabric, London · Fri, 31 Jul 2026
+- La Clairière, Paris · Fri, 24 Jul 2026
+- Parco Dora, Turin · Fri, 3 Jul 2026
+- Cova Santa, Ibiza · Wed, 24 Jun 2026
+- BORIS CLUB, Barcelona · Tue, 16 Jun 2026
 
 ## Shares bills with
 

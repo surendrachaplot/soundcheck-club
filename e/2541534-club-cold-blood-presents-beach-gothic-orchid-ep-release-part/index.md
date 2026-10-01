@@ -1,6 +1,6 @@
 # Club Cold Blood presents - BEACH GOTHIC (Orchid EP Release Party) at NDR2 Red Room
 
-Club Cold Blood presents - BEACH GOTHIC (Orchid EP Release Party) at NDR2 Red Room on Wed 7 Oct, London. 1 artist on the bill: The Lizard Queen. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Club Cold Blood presents - BEACH GOTHIC (Orchid EP Release Party) at NDR2 Red Room on Wed 7 Oct, London. 1 artist: The Lizard Queen. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

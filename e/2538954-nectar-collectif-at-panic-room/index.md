@@ -1,6 +1,6 @@
 # NECTAR COLLECTIF at Panic Room
 
-NECTAR COLLECTIF at Panic Room on Fri 2 Oct, Paris. Techno and Tech House. Preview the line-up and save it on soundcheck.
+NECTAR COLLECTIF at Panic Room on Fri 2 Oct, Paris. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

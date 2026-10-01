@@ -1,6 +1,6 @@
 # DOG & Boogies at TBA - Ruff Laugh Chiba
 
-DOG & Boogies at TBA - Ruff Laugh Chiba on Sun 11 Oct, Tokyo. House and Deep House. Preview the line-up and save it on soundcheck.
+DOG & Boogies at TBA - Ruff Laugh Chiba on Sun 11 Oct, Tokyo. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

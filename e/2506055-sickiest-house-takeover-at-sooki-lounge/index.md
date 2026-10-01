@@ -1,6 +1,6 @@
 # Sickiest House - Takeover at Sooki Lounge
 
-Sickiest House - Takeover at Sooki Lounge on Sat 31 Oct, Melbourne. Drum & Bass and Psytrance. Preview the line-up and save it on soundcheck.
+Sickiest House - Takeover at Sooki Lounge on Sat 31 Oct, Melbourne. Drum & Bass and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

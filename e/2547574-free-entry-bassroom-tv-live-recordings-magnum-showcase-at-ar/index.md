@@ -1,6 +1,6 @@
 # (FREE ENTRY) BASSROOM TV LIVE RECORDINGS - MAGNUM SHOWCASE at Araña Club
 
-(FREE ENTRY) BASSROOM TV LIVE RECORDINGS - MAGNUM SHOWCASE at Araña Club on Sat 3 Oct, Madrid. Techno and Industrial. Preview the line-up and save it on soundcheck.
+(FREE ENTRY) BASSROOM TV LIVE RECORDINGS - MAGNUM SHOWCASE at Araña Club on Sat 3 Oct, Madrid. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Polyamor x Faster at Zoom Club
 
-Polyamor x Faster at Zoom Club on Sat 3 Oct, Frankfurt. Trance and Techno. Preview the line-up and save it on soundcheck.
+Polyamor x Faster at Zoom Club on Sat 3 Oct, Frankfurt. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

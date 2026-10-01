@@ -1,8 +1,8 @@
 # Tempio del Futuro Perduto
 
-Tempio del Futuro Perduto is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Tempio Radio Notturna x Parallel41: Niceteed, Subradeon, Manuel Di Martino, Biaes" on Thu, 1 Oct 2026.
+Tempio del Futuro Perduto is a music venue in Milan with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Tempio Radio Notturna x Parallel41: Niceteed, Subradeon, Manuel Di Martino, Biaes" on Thu, 1 Oct 2026.
 
-Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line-ups including Manuel Di Martino, Alfa Cornae, Antikorpo and BIAES and 2 more. Browse upcoming dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
+Tempio del Futuro Perduto is a music venue in Milan listed on soundcheck. 19 upcoming gigs, with line-ups including Manuel Di Martino, Alfa Cornae, Antikorpo and BIAES and 2 more. See dates, start times and who's playing. via Luigi Nono 9 20100 Milan, Italy.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Einmusik
 
-Einmusik is a Techno and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Druckerei Solothurn, Bern on Sat, 3 Oct 2026.
+Einmusik is a Techno and Progressive House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Druckerei Solothurn, Bern on Sat, 3 Oct 2026.
 
-Einmusik is a techno and progressive house artist based in Germany, tracked on soundcheck, with 133 sets logged across Amsterdam, Austria, Barcelona and Basel and 39 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Druckerei Solothurn, Bern on Sat 3 Oct.
+Einmusik is a techno and progressive house artist based in Germany, with 133 gigs on soundcheck across Amsterdam, Austria, Barcelona and Basel and 39 more. Often billed alongside Prismode, Solvane and Markus Klee. Next up: Druckerei Solothurn, Bern on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Einmusik is a techno and progressive house artist based in Germany, tracked on s
 
 ## Recently played
 
-- Seaseaclub Barcelona, Barcelona — Sat, 19 Sept 2026
-- Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow — Sat, 5 Sept 2026
-- Hamburg Cruise Center Altona, Hamburg — Fri, 28 Aug 2026
-- TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne — Fri, 14 Aug 2026
-- Wolkezwei, Leipzig — Sat, 1 Aug 2026
-- 1134, Denver — Thu, 16 Jul 2026
-- Ritter Butzke, Berlin — Sat, 4 Jul 2026
-- Village Underground, London — Sat, 20 Jun 2026
+- Seaseaclub Barcelona, Barcelona · Sat, 19 Sept 2026
+- Nowe Centrum Administracyjne (Kombinat) ul. Ujastek 1., Krakow · Sat, 5 Sept 2026
+- Hamburg Cruise Center Altona, Hamburg · Fri, 28 Aug 2026
+- TBA - Konrad-Adenauer-Ufer, 50668 Köln, Schiffanlegestelle Viking River Cruises 4, Cologne · Fri, 14 Aug 2026
+- Wolkezwei, Leipzig · Sat, 1 Aug 2026
+- 1134, Denver · Thu, 16 Jul 2026
+- Ritter Butzke, Berlin · Sat, 4 Jul 2026
+- Village Underground, London · Sat, 20 Jun 2026
 
 ## Shares bills with
 

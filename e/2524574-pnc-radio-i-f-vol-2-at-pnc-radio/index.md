@@ -1,6 +1,6 @@
 # PNC Radio: i.&.f Vol 2 at PNC Radio
 
-PNC Radio: i.&.f Vol 2 on Sat 3 Oct, Barcelona. Electro and EBM. Preview the line-up and save it on soundcheck.
+PNC Radio: i.&.f Vol 2 on Sat 3 Oct, Barcelona. Electro and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

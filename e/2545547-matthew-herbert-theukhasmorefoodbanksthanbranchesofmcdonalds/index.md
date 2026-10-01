@@ -1,6 +1,6 @@
 # Matthew Herbert: theukhasmorefoodbanksthanbranchesofmcdonalds.com at The Ivy House
 
-Matthew Herbert: theukhasmorefoodbanksthanbranchesofmcdonalds.com at The Ivy House on Fri 16 Oct, London. 1 artist on the bill: Matthew Herbert. Preview the line-up and save it on soundcheck.
+Matthew Herbert: theukhasmorefoodbanksthanbranchesofmcdonalds.com at The Ivy House on Fri 16 Oct, London. 1 artist: Matthew Herbert. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VORTEX: Andy Martin • A Strange Wedding • Vel • 5F.U [VJs Pixelle Panthere] at Zoo
 
-VORTEX: Andy Martin • A Strange Wedding • Vel • 5F.U [VJs Pixelle Panthere] at Zoo on Sat 7 Nov, Geneva. 3 artists on the bill: A Strange Wedding, Andy Martin and VEL (MA). Trance and Techno. Preview the line-up and save it on soundcheck.
+VORTEX: Andy Martin • A Strange Wedding • Vel • 5F.U [VJs Pixelle Panthere] at Zoo on Sat 7 Nov, Geneva. 3 artists: A Strange Wedding, Andy Martin and VEL (MA). Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

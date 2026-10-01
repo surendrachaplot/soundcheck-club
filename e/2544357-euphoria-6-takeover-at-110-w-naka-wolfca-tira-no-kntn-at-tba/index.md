@@ -1,6 +1,6 @@
 # EUPHORIA #6 - TAKEOVER AT 110 W/ NAKA, WOLFCA TIRA:NO & KNTN at TBA - LE 110 (110 Quai de Pierre-Scize, 69005 Lyon, France)
 
-EUPHORIA #6 - TAKEOVER AT 110 W/ NAKA, WOLFCA TIRA:NO & KNTN at TBA - LE 110 (110 Quai de Pierre-Scize, 69005 Lyon, France) on Sat 24 Oct, Lyon. Trance and Techno. Preview the line-up and save it on soundcheck.
+EUPHORIA #6 - TAKEOVER AT 110 W/ NAKA, WOLFCA TIRA:NO & KNTN at TBA - LE 110 (110 Quai de Pierre-Scize, 69005 Lyon, France) on Sat 24 Oct, Lyon. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

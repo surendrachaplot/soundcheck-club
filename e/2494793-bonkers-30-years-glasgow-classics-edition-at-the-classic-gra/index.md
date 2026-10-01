@@ -1,6 +1,6 @@
 # Bonkers 30 Years - Glasgow - Classics Edition at The Classic Grand
 
-Bonkers 30 Years - Glasgow - Classics Edition at The Classic Grand on Sat 10 Oct, Glasgow. 4 artists on the bill: Charlie B, Dougal, Scott Brown and Sharkey. Hardcore. Preview the line-up and save it on soundcheck.
+Bonkers 30 Years - Glasgow - Classics Edition at The Classic Grand on Sat 10 Oct, Glasgow. 4 artists: Charlie B, Dougal, Scott Brown and Sharkey. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

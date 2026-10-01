@@ -1,8 +1,8 @@
 # Soul Mass Transit System
 
-Soul Mass Transit System is a Garage and House artist with 17 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Love Inn, Bristol on Thu, 1 Oct 2026.
+Soul Mass Transit System is a Garage and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Love Inn, Bristol on Thu, 1 Oct 2026.
 
-Soul Mass Transit System is a garage and house artist based in United Kingdom, tracked on soundcheck, with 159 sets logged across Amsterdam, Antwerp, Auckland and Bali and 39 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: The Love Inn, Bristol on Thu 1 Oct.
+Soul Mass Transit System is a garage and house artist based in United Kingdom, with 159 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 39 more. Often billed alongside Silva Bumpa, Dr Dubplate and Prozak (IRL). Next up: The Love Inn, Bristol on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Soul Mass Transit System is a garage and house artist based in United Kingdom, t
 
 ## Recently played
 
-- Thuishaven, Amsterdam — Sat, 15 Aug 2026
-- Finsbury Park, London — Fri, 7 Aug 2026
-- KOKO, London — Fri, 7 Aug 2026
-- Zeescouts Aan De Stroom, Antwerp — Sat, 25 Jul 2026
-- The Cause, London — Sat, 20 Jun 2026
-- PROGRESS, Manchester — Sat, 6 Jun 2026
-- Chelmsford City Racecourse, London — Sat, 23 May 2026
-- Shelter Amsterdam, Amsterdam — Fri, 22 May 2026
+- Thuishaven, Amsterdam · Sat, 15 Aug 2026
+- Finsbury Park, London · Fri, 7 Aug 2026
+- KOKO, London · Fri, 7 Aug 2026
+- Zeescouts Aan De Stroom, Antwerp · Sat, 25 Jul 2026
+- The Cause, London · Sat, 20 Jun 2026
+- PROGRESS, Manchester · Sat, 6 Jun 2026
+- Chelmsford City Racecourse, London · Sat, 23 May 2026
+- Shelter Amsterdam, Amsterdam · Fri, 22 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Persian Love presents 'Gher in Dalston: Milli (MEHMOONI LDN) All Night Long' at The Jago
 
-Persian Love presents 'Gher in Dalston: Milli (MEHMOONI LDN) All Night Long' at The Jago on Fri 2 Oct, London. 1 artist on the bill: Milli. Club and Ballroom. Preview the line-up and save it on soundcheck.
+Persian Love presents 'Gher in Dalston: Milli (MEHMOONI LDN) All Night Long' at The Jago on Fri 2 Oct, London. 1 artist: Milli. Club and Ballroom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

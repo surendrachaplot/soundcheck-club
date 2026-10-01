@@ -1,6 +1,6 @@
 # disko kix: disco, funk, house, soul & leftfield at Movers
 
-disko kix: disco, funk, house, soul & leftfield at Movers on Fri 4 Dec, Nottingham. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+disko kix: disco, funk, house, soul & leftfield at Movers on Fri 4 Dec, Nottingham. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

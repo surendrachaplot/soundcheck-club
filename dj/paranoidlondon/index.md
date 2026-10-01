@@ -1,8 +1,8 @@
 # Paranoid London
 
-Paranoid London is a Techno and Acid artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at New Century Locker, Manchester on Sat, 3 Oct 2026.
+Paranoid London is a Techno and Acid artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at New Century Locker, Manchester on Sat, 3 Oct 2026.
 
-Paranoid London is a techno and acid artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: New Century Locker, Manchester on Sat 3 Oct.
+Paranoid London is a techno and acid artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Palms Trax, Elena Colombi and FJAAK. Next up: New Century Locker, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Paranoid London is a techno and acid artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
-- Sub Club, Glasgow — Fri, 4 Sept 2026
-- Shorts Sports & Recreation Club, Belfast — Sat, 29 Aug 2026
-- Golden Pudel Club, Hamburg — Fri, 28 Aug 2026
-- KOKO, London — Sat, 25 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 17 Jul 2026
-- Mia Mao, Paris — Sat, 27 Jun 2026
-- The Golden Lion, Manchester — Sat, 13 Jun 2026
+- Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
+- Sub Club, Glasgow · Fri, 4 Sept 2026
+- Shorts Sports & Recreation Club, Belfast · Sat, 29 Aug 2026
+- Golden Pudel Club, Hamburg · Fri, 28 Aug 2026
+- KOKO, London · Sat, 25 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 17 Jul 2026
+- Mia Mao, Paris · Sat, 27 Jun 2026
+- The Golden Lion, Manchester · Sat, 13 Jun 2026
 
 ## Shares bills with
 

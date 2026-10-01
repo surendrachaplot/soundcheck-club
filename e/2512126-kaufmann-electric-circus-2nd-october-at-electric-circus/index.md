@@ -1,6 +1,6 @@
 # Kaufmann • Electric Circus • 2nd October at Electric Circus
 
-Kaufmann • Electric Circus • 2nd October on Fri 2 Oct, Adelaide. 1 artist on the bill: Kaufmann. Preview the line-up and save it on soundcheck.
+Kaufmann • Electric Circus • 2nd October on Fri 2 Oct, Adelaide. 1 artist: Kaufmann. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

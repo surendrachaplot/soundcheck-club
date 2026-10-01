@@ -1,6 +1,6 @@
 # AGOYA at Panic Room
 
-AGOYA at Panic Room on Sat 3 Oct, Paris. Techno. Preview the line-up and save it on soundcheck.
+AGOYA at Panic Room on Sat 3 Oct, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

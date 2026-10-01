@@ -1,6 +1,6 @@
 # Horse Meat Disco at Hare & Hounds
 
-Horse Meat Disco at Hare & Hounds on Sat 14 Nov, Birmingham. 1 artist on the bill: Horse Meat Disco. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Horse Meat Disco at Hare & Hounds on Sat 14 Nov, Birmingham. 1 artist: Horse Meat Disco. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

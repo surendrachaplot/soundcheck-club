@@ -1,6 +1,6 @@
 # Vincent Antone at Substation
 
-Vincent Antone at Substation on Fri 16 Oct, Seattle. Bass and Funk / Soul. Preview the line-up and save it on soundcheck.
+Vincent Antone at Substation on Fri 16 Oct, Seattle. Bass and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Georgia
 
-Georgia is a Drum & Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NOWHERE, Manchester on Sat, 28 Nov 2026.
+Georgia is a Drum & Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NOWHERE, Manchester on Sat, 28 Nov 2026.
 
-Georgia is a drum & bass and dubstep artist based in Indonesia, tracked on soundcheck, with 144 sets logged across Amsterdam, Bali, Barcelona and Berlin and 46 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: NOWHERE, Manchester on Sat 28 Nov.
+Georgia is a drum & bass and dubstep artist based in Indonesia, with 144 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 46 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: NOWHERE, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Georgia is a drum & bass and dubstep artist based in Indonesia, tracked on sound
 
 ## Recently played
 
-- Jicoo - The Floating Bar, Tokyo — Sat, 5 Sept 2026
-- Distrikt, Leeds — Sat, 1 Aug 2026
-- Institut fuer Zukunft (IfZ), Leipzig — Sat, 25 Jul 2026
-- XOYO Birmingham, Birmingham — Sat, 25 Jul 2026
-- Volt Club Milano, Milan — Sat, 25 Jul 2026
-- B London, London — Sat, 25 Jul 2026
-- S-Factory Sector B, Seoul — Sat, 25 Jul 2026
-- NDSM Docklands, Amsterdam — Sat, 25 Jul 2026
+- Jicoo - The Floating Bar, Tokyo · Sat, 5 Sept 2026
+- Distrikt, Leeds · Sat, 1 Aug 2026
+- Institut fuer Zukunft (IfZ), Leipzig · Sat, 25 Jul 2026
+- XOYO Birmingham, Birmingham · Sat, 25 Jul 2026
+- Volt Club Milano, Milan · Sat, 25 Jul 2026
+- B London, London · Sat, 25 Jul 2026
+- S-Factory Sector B, Seoul · Sat, 25 Jul 2026
+- NDSM Docklands, Amsterdam · Sat, 25 Jul 2026
 
 ## Shares bills with
 

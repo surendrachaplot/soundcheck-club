@@ -1,6 +1,6 @@
 # Pineapple Club by Room2 – Afro & Progressive House B2B (FREE ENTRY) at Club Makossa
 
-Pineapple Club by Room2 – Afro & Progressive House B2B (FREE ENTRY) at Club Makossa on Thu 1 Oct, London. 1 artist on the bill: DJ4BLUE. Progressive House and Afro House. Preview the line-up and save it on soundcheck.
+Pineapple Club by Room2 – Afro & Progressive House B2B (FREE ENTRY) at Club Makossa on Thu 1 Oct, London. 1 artist: DJ4BLUE. Progressive House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

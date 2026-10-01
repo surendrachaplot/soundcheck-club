@@ -1,6 +1,6 @@
 # Skeler: Nightfall Tour at Hootananny Brixton
 
-Skeler: Nightfall Tour at Hootananny Brixton on Fri 2 Oct, London. Trance and Bass. Preview the line-up and save it on soundcheck.
+Skeler: Nightfall Tour at Hootananny Brixton on Fri 2 Oct, London. Trance and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

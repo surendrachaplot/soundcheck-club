@@ -1,6 +1,6 @@
 # Dave Lee (FKA Joey Negro) + Javi Frias at Sala Villanos
 
-Dave Lee (FKA Joey Negro) + Javi Frias at Sala Villanos on Fri 6 Nov, Madrid. 2 artists on the bill: Dave Lee and Javi Frias. Electronica. Preview the line-up and save it on soundcheck.
+Dave Lee (FKA Joey Negro) + Javi Frias at Sala Villanos on Fri 6 Nov, Madrid. 2 artists: Dave Lee and Javi Frias. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

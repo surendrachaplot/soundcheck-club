@@ -1,8 +1,8 @@
 # DJ Shibata
 
-DJ Shibata is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Red Bar, Tokyo on Fri, 2 Oct 2026.
+DJ Shibata is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Red Bar, Tokyo on Fri, 2 Oct 2026.
 
-DJ Shibata is a house and techno artist based in Japan, tracked on soundcheck, with 104 sets logged across Tokyo. Often billed alongside Celter, levolant and P-YAN. Next up: Red Bar, Tokyo on Fri 2 Oct.
+DJ Shibata is a house and techno artist based in Japan, with 104 gigs on soundcheck across Tokyo. Often billed alongside Celter, levolant and P-YAN. Next up: Red Bar, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ Shibata is a house and techno artist based in Japan, tracked on soundcheck, w
 
 ## Recently played
 
-- Red Bar, Tokyo — Fri, 11 Sept 2026
-- Aoyama Hachi, Tokyo — Sun, 6 Sept 2026
-- Red Bar, Tokyo — Fri, 14 Aug 2026
-- WALL & WALL, Tokyo — Wed, 15 Jul 2026
-- Red Bar, Tokyo — Fri, 10 Jul 2026
-- Red Bar, Tokyo — Fri, 12 Jun 2026
-- Aoyama Hachi, Tokyo — Sat, 6 Jun 2026
-- Enter Shibuya, Tokyo — Sat, 23 May 2026
+- Red Bar, Tokyo · Fri, 11 Sept 2026
+- Aoyama Hachi, Tokyo · Sun, 6 Sept 2026
+- Red Bar, Tokyo · Fri, 14 Aug 2026
+- WALL & WALL, Tokyo · Wed, 15 Jul 2026
+- Red Bar, Tokyo · Fri, 10 Jul 2026
+- Red Bar, Tokyo · Fri, 12 Jun 2026
+- Aoyama Hachi, Tokyo · Sat, 6 Jun 2026
+- Enter Shibuya, Tokyo · Sat, 23 May 2026
 
 ## Shares bills with
 

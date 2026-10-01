@@ -1,6 +1,6 @@
 # Unsound Kraków 2026: PERSUASION - Mandy, Indiana / L'Rain / One Leg One Eye at Teatr Łaźnia Nowa
 
-Unsound Kraków 2026: PERSUASION - Mandy, Indiana / L'Rain / One Leg One Eye at Teatr Łaźnia Nowa on Sat 10 Oct, Krakow. Preview the line-up and save it on soundcheck.
+Unsound Kraków 2026: PERSUASION - Mandy, Indiana / L'Rain / One Leg One Eye at Teatr Łaźnia Nowa on Sat 10 Oct, Krakow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

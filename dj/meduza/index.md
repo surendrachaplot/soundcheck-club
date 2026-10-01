@@ -1,8 +1,8 @@
 # Meduza
 
-Meduza is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wollman Rink, New York City on Fri, 2 Oct 2026.
+Meduza is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wollman Rink, New York City on Fri, 2 Oct 2026.
 
-Meduza is a house and techno artist based in Italy, tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Wollman Rink, New York City on Fri 2 Oct.
+Meduza is a house and techno artist based in Italy, with 175 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside James Hype (UK), David Guetta and Arielle Free. Next up: Wollman Rink, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Meduza is a house and techno artist based in Italy, tracked on soundcheck, with 
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Wed, 30 Sept 2026
-- Hï Ibiza, Ibiza — Wed, 23 Sept 2026
-- Hï Ibiza, Ibiza — Wed, 16 Sept 2026
-- Hï Ibiza, Ibiza — Wed, 9 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Hï Ibiza, Ibiza — Wed, 2 Sept 2026
-- Cavo Paradiso, Mykonos — Fri, 28 Aug 2026
-- Hï Ibiza, Ibiza — Wed, 26 Aug 2026
+- Hï Ibiza, Ibiza · Wed, 30 Sept 2026
+- Hï Ibiza, Ibiza · Wed, 23 Sept 2026
+- Hï Ibiza, Ibiza · Wed, 16 Sept 2026
+- Hï Ibiza, Ibiza · Wed, 9 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Hï Ibiza, Ibiza · Wed, 2 Sept 2026
+- Cavo Paradiso, Mykonos · Fri, 28 Aug 2026
+- Hï Ibiza, Ibiza · Wed, 26 Aug 2026
 
 ## Shares bills with
 

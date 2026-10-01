@@ -1,6 +1,6 @@
 # Being Sarah's basement Ft: Unit Two Zero at Sin É
 
-Being Sarah's basement Ft: Unit Two Zero at Sin É on Sat 17 Oct, Dublin. Techno and Electro. Preview the line-up and save it on soundcheck.
+Being Sarah's basement Ft: Unit Two Zero at Sin É on Sat 17 Oct, Dublin. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

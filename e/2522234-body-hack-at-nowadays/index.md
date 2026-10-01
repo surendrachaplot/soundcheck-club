@@ -1,6 +1,6 @@
 # Body Hack at Nowadays
 
-Body Hack at Nowadays on Thu 29 Oct, New York City. Club. Preview the line-up and save it on soundcheck.
+Body Hack at Nowadays on Thu 29 Oct, New York City. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

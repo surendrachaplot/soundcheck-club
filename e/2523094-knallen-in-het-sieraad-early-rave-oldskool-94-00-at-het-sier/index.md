@@ -1,6 +1,6 @@
 # Knallen in Het Sieraad - Early rave & Oldskool 94/00 at Het Sieraad
 
-Knallen in Het Sieraad - Early rave & Oldskool 94/00 on Sat 20 Feb, Amsterdam. 9 artists on the bill: Alexander Koning, BABA (SA), Buzz Fuzz and Gizmo and 5 more. Preview the line-up and save it on soundcheck.
+Knallen in Het Sieraad - Early rave & Oldskool 94/00 on Sat 20 Feb, Amsterdam. 9 artists: Alexander Koning, BABA (SA), Buzz Fuzz and Gizmo and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

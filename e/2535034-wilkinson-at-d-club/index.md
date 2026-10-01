@@ -1,6 +1,6 @@
 # Wilkinson at D! Club
 
-Wilkinson at D! Club on Fri 15 Jan, Lausanne. 1 artist on the bill: Wilkinson. Preview the line-up and save it on soundcheck.
+Wilkinson at D! Club on Fri 15 Jan, Lausanne. 1 artist: Wilkinson. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

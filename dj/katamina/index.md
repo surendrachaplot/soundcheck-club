@@ -1,8 +1,8 @@
 # Katamina
 
-Katamina is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Longboat Hall, Toronto on Sat, 31 Oct 2026.
+Katamina is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Longboat Hall, Toronto on Sat, 31 Oct 2026.
 
-Katamina is a techno and hardcore artist based in Canada, tracked on soundcheck, with 55 sets logged across Montreal and Toronto. Often billed alongside Casa Kobrae, Meen Moreen and nastygloss. Next up: Longboat Hall, Toronto on Sat 31 Oct.
+Katamina is a techno and hardcore artist based in Canada, with 55 gigs on soundcheck across Montreal and Toronto. Often billed alongside Casa Kobrae, Meen Moreen and nastygloss. Next up: Longboat Hall, Toronto on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Katamina is a techno and hardcore artist based in Canada, tracked on soundcheck,
 
 ## Recently played
 
-- 131 Mccormack St, Toronto — Sun, 6 Sept 2026
-- Village au Pied-du-Courant, Montreal — Thu, 3 Sept 2026
-- Village au Pied-du-Courant, Montreal — Sun, 2 Aug 2026
-- Bain Mathieu, Montreal — Fri, 24 Jul 2026
-- ESC, Montreal — Sat, 4 Jul 2026
-- Barbossa, Montreal — Wed, 1 Jul 2026
-- Red Roof Church, Montreal — Sat, 27 Jun 2026
-- Salon Daomé, Montreal — Wed, 13 May 2026
+- 131 Mccormack St, Toronto · Sun, 6 Sept 2026
+- Village au Pied-du-Courant, Montreal · Thu, 3 Sept 2026
+- Village au Pied-du-Courant, Montreal · Sun, 2 Aug 2026
+- Bain Mathieu, Montreal · Fri, 24 Jul 2026
+- ESC, Montreal · Sat, 4 Jul 2026
+- Barbossa, Montreal · Wed, 1 Jul 2026
+- Red Roof Church, Montreal · Sat, 27 Jun 2026
+- Salon Daomé, Montreal · Wed, 13 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Caught Cheesing - Fundraiser Night (Ft Stuck On 33 All Night Long) at Groovetank Live
 
-Caught Cheesing - Fundraiser Night (Ft Stuck On 33 All Night Long) at Groovetank Live on Fri 16 Oct, London. 1 artist on the bill: Stuck on 33. House and Afro House. Preview the line-up and save it on soundcheck.
+Caught Cheesing - Fundraiser Night (Ft Stuck On 33 All Night Long) at Groovetank Live on Fri 16 Oct, London. 1 artist: Stuck on 33. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

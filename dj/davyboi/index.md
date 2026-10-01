@@ -1,8 +1,8 @@
 # davyboi
 
-davyboi is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MÄX, Zurich on Fri, 2 Oct 2026.
+davyboi is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MÄX, Zurich on Fri, 2 Oct 2026.
 
-davyboi is a techno and trance artist based in Germany, tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: MÄX, Zurich on Fri 2 Oct.
+davyboi is a techno and trance artist based in Germany, with 169 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Cleopard2000, Mika Heggemann and Alba Franch. Next up: MÄX, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ davyboi is a techno and trance artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Fri, 25 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- Bootshaus, Cologne — Fri, 18 Sept 2026
-- Bootshaus, Cologne — Fri, 18 Sept 2026
-- Laagravense Plas, Utrecht — Sat, 12 Sept 2026
-- Uebel & Gefährlich, Hamburg — Fri, 11 Sept 2026
-- TBA, Melbourne — Sat, 5 Sept 2026
-- Home The Venue, Sydney — Fri, 4 Sept 2026
+- RSO.BERLIN, Berlin · Fri, 25 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- Bootshaus, Cologne · Fri, 18 Sept 2026
+- Bootshaus, Cologne · Fri, 18 Sept 2026
+- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
+- Uebel & Gefährlich, Hamburg · Fri, 11 Sept 2026
+- TBA, Melbourne · Sat, 5 Sept 2026
+- Home The Venue, Sydney · Fri, 4 Sept 2026
 
 ## Shares bills with
 

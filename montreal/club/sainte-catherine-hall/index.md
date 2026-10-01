@@ -1,8 +1,8 @@
 # Sainte-Catherine Hall
 
-Sainte-Catherine Hall is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Ancient OM & Psychedelic Babylon: Dacru Records 25 Years with TALAMASCA (FR) & DIGICULT (BE)" on Sat, 3 Oct 2026.
+Sainte-Catherine Hall is a music venue in Montreal with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ancient OM & Psychedelic Babylon: Dacru Records 25 Years with TALAMASCA (FR) & DIGICULT (BE)" on Sat, 3 Oct 2026.
 
-Sainte-Catherine Hall is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with line-ups including Alley Kay, Azyr, Hypho and LAPA XII and 2 more. Browse upcoming dates, start times and who's playing. 917 Ste-Catherine Est, Montreal, QC, Canada, Quebec.
+Sainte-Catherine Hall is a music venue in Montreal listed on soundcheck. 3 upcoming gigs, with line-ups including Alley Kay, Azyr, Hypho and LAPA XII and 2 more. See dates, start times and who's playing. 917 Ste-Catherine Est, Montreal, QC, Canada, Quebec.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # El Matador del Taxi at Eschschloraque
 
-El Matador del Taxi at Eschschloraque on Sat 3 Oct, Berlin. Preview the line-up and save it on soundcheck.
+El Matador del Taxi at Eschschloraque on Sat 3 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

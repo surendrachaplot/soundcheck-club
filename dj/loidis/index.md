@@ -1,8 +1,8 @@
 # Loidis
 
-Loidis is a Techno and Minimal artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Loidis is a Techno and Minimal artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Loidis is a techno and minimal artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+Loidis is a techno and minimal artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 29 more. Often billed alongside Huerco S., Skee Mask and DJ Python. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Loidis is a techno and minimal artist based in United States of America, tracked
 
 ## Recently played
 
-- St. Bartholomew's Church, New York City — Sun, 27 Sept 2026
-- TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City — Fri, 25 Sept 2026
-- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Signal, New York City — Fri, 4 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
-- TBA - Secret Location, New York City — Sat, 1 Aug 2026
-- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
+- St. Bartholomew's Church, New York City · Sun, 27 Sept 2026
+- TBA - Multiple Historic Venues - Manhattan & Brooklyn, New York City · Fri, 25 Sept 2026
+- TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Signal, New York City · Fri, 4 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 15 Aug 2026
+- TBA - Secret Location, New York City · Sat, 1 Aug 2026
+- Parc Nou. El Prat de Llobregat, Barcelona · Fri, 17 Jul 2026
 
 ## Shares bills with
 

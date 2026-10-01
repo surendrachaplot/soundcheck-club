@@ -1,6 +1,6 @@
 # Vela 1st One-Man Tour 『Journal』 at Socore Factory
 
-Vela 1st One-Man Tour 『Journal』 at Socore Factory on Fri 6 Nov, Osaka. Electro. Preview the line-up and save it on soundcheck.
+Vela 1st One-Man Tour 『Journal』 at Socore Factory on Fri 6 Nov, Osaka. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

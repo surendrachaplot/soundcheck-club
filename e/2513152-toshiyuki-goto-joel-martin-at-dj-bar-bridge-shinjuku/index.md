@@ -1,6 +1,6 @@
 # Toshiyuki Goto & Joel Martin at DJ Bar Bridge Shinjuku
 
-Toshiyuki Goto & Joel Martin at DJ Bar Bridge Shinjuku on Tue 13 Oct, Tokyo. 1 artist on the bill: Toshiyuki Goto. House. Preview the line-up and save it on soundcheck.
+Toshiyuki Goto & Joel Martin at DJ Bar Bridge Shinjuku on Tue 13 Oct, Tokyo. 1 artist: Toshiyuki Goto. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

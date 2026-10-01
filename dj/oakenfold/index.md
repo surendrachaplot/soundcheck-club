@@ -1,8 +1,8 @@
 # Paul Oakenfold
 
-Paul Oakenfold is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Racket NY, New York City on Sat, 31 Oct 2026.
+Paul Oakenfold is a Trance and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Racket NY, New York City on Sat, 31 Oct 2026.
 
-Paul Oakenfold is a trance and house artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Athens, Bali, Birmingham and Boston and 18 more. Often billed alongside The Crystal Method, Jason Bye and Infected Mushroom. Next up: Racket NY, New York City on Sat 31 Oct.
+Paul Oakenfold is a trance and house artist based in United Kingdom, with 44 gigs on soundcheck across Athens, Bali, Birmingham and Boston and 18 more. Often billed alongside The Crystal Method, Jason Bye and Infected Mushroom. Next up: Racket NY, New York City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Paul Oakenfold is a trance and house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Cervantes' Masterpiece Ballroom, Denver — Fri, 17 Jul 2026
-- Magic Stick, Detroit — Fri, 10 Jul 2026
-- Q Nightclub, Seattle — Fri, 19 Jun 2026
-- Foro Niebla, Mexico City — Fri, 12 Jun 2026
-- The Regency Ballroom, San Francisco/Oakland — Sat, 6 Jun 2026
-- Quarters, Brighton — Fri, 1 May 2026
-- The Queen Mary, Los Angeles — Fri, 21 Nov 2025
-- ZeyZey, Miami — Sun, 12 Oct 2025
+- Cervantes' Masterpiece Ballroom, Denver · Fri, 17 Jul 2026
+- Magic Stick, Detroit · Fri, 10 Jul 2026
+- Q Nightclub, Seattle · Fri, 19 Jun 2026
+- Foro Niebla, Mexico City · Fri, 12 Jun 2026
+- The Regency Ballroom, San Francisco/Oakland · Sat, 6 Jun 2026
+- Quarters, Brighton · Fri, 1 May 2026
+- The Queen Mary, Los Angeles · Fri, 21 Nov 2025
+- ZeyZey, Miami · Sun, 12 Oct 2025
 
 ## Shares bills with
 

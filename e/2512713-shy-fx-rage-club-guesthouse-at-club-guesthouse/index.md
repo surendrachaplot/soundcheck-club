@@ -1,6 +1,6 @@
 # Shy FX & RAGE - Club Guesthouse at Club Guesthouse
 
-Shy FX & RAGE - Club Guesthouse on Fri 13 Nov, Bucharest. 1 artist on the bill: Shy FX. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Shy FX & RAGE - Club Guesthouse on Fri 13 Nov, Bucharest. 1 artist: Shy FX. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

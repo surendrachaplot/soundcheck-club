@@ -1,6 +1,6 @@
 # Deep Dish ADE Boat Party at Oceandiva Original
 
-Deep Dish ADE Boat Party at Oceandiva Original on Sat 24 Oct, Netherlands. 5 artists on the bill: Deep Dish, Ezequiel Arias, Kamilo Sanclemente and Khen and 1 more. Preview the line-up and save it on soundcheck.
+Deep Dish ADE Boat Party at Oceandiva Original on Sat 24 Oct, Netherlands. 5 artists: Deep Dish, Ezequiel Arias, Kamilo Sanclemente and Khen and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

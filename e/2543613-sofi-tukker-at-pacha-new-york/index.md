@@ -1,6 +1,6 @@
 # SOFI TUKKER at Pacha New York
 
-SOFI TUKKER at Pacha New York on Fri 2 Oct, New York City. 1 artist on the bill: SOFI TUKKER. Preview the line-up and save it on soundcheck.
+SOFI TUKKER at Pacha New York on Fri 2 Oct, New York City. 1 artist: SOFI TUKKER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

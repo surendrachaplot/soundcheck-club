@@ -1,6 +1,6 @@
 # KOKO Electronic: Michael Bibi [SOLD OUT] at KOKO
 
-KOKO Electronic: Michael Bibi [SOLD OUT] on Sat 17 Oct, London. 3 artists on the bill: Michael Bibi, RICHE and Rooléh. Tech House. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Michael Bibi [SOLD OUT] on Sat 17 Oct, London. 3 artists: Michael Bibi, RICHE and Rooléh. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

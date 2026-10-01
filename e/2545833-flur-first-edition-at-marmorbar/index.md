@@ -1,6 +1,6 @@
 # Flur First Edition at Marmorbar
 
-Flur First Edition at Marmorbar on Sun 18 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Flur First Edition at Marmorbar on Sun 18 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

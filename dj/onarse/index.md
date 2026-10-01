@@ -1,8 +1,8 @@
 # ONARSÉ
 
-ONARSÉ is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR, Sydney on Sat, 31 Oct 2026.
+ONARSÉ is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR, Sydney on Sat, 31 Oct 2026.
 
-ONARSÉ is a techno and hardcore artist based in Australia, tracked on soundcheck, with 20 sets logged across Amsterdam, Auckland, London and Melbourne and 2 more. Often billed alongside BASS SLVT, ARTISAH and Audiophile. Next up: TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR, Sydney on Sat 31 Oct.
+ONARSÉ is a techno and hardcore artist based in Australia, with 20 gigs on soundcheck across Amsterdam, Auckland, London and Melbourne and 2 more. Often billed alongside BASS SLVT, ARTISAH and Audiophile. Next up: TBA - SECRET LOCATION SMS/EMAILED 3HRS PRIOR, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ONARSÉ is a techno and hardcore artist based in Australia, tracked on soundchec
 
 ## Recently played
 
-- Il Brutto Auckland, Auckland — Sat, 19 Sept 2026
-- Room 22, Sydney — Fri, 28 Aug 2026
-- The Industrique, Melbourne — Fri, 17 Jul 2026
-- E1, London — Fri, 22 May 2026
-- John Doe, Amsterdam — Sat, 16 May 2026
-- TBA - Secret location (sms/emailed at 6pm day of event), Sydney — Sun, 26 Apr 2026
-- TBA - SECRET LOCATION INNER WEST, Sydney — Sun, 5 Apr 2026
-- Mdlr, Singapore — Fri, 3 Apr 2026
+- Il Brutto Auckland, Auckland · Sat, 19 Sept 2026
+- Room 22, Sydney · Fri, 28 Aug 2026
+- The Industrique, Melbourne · Fri, 17 Jul 2026
+- E1, London · Fri, 22 May 2026
+- John Doe, Amsterdam · Sat, 16 May 2026
+- TBA - Secret location (sms/emailed at 6pm day of event), Sydney · Sun, 26 Apr 2026
+- TBA - SECRET LOCATION INNER WEST, Sydney · Sun, 5 Apr 2026
+- Mdlr, Singapore · Fri, 3 Apr 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # [8]: POLE DANCE ALL NIGHT LONG at TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-[8]: POLE DANCE ALL NIGHT LONG at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Fri 6 Nov, Berlin. Club. Preview the line-up and save it on soundcheck.
+[8]: POLE DANCE ALL NIGHT LONG at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Fri 6 Nov, Berlin. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

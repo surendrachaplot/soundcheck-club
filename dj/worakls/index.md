@@ -1,8 +1,8 @@
 # Worakls
 
-Worakls is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at D! Club, Lausanne on Fri, 2 Oct 2026.
+Worakls is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at D! Club, Lausanne on Fri, 2 Oct 2026.
 
-Worakls is a techno and house artist based in France, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Basel and Berlin and 28 more. Often billed alongside Aalson, Carina Lawrence and Mees Salomé. Next up: D! Club, Lausanne on Fri 2 Oct.
+Worakls is a techno and house artist based in France, with 82 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 28 more. Often billed alongside Aalson, Carina Lawrence and Mees Salomé. Next up: D! Club, Lausanne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Worakls is a techno and house artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
-- Seaseaclub Barcelona, Barcelona — Sat, 12 Sept 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 23 Aug 2026
-- Thuishaven, Amsterdam — Sat, 22 Aug 2026
-- Loo Loo, Mexico City — Sat, 20 Jun 2026
-- Accor Arena, Paris — Sat, 2 May 2026
-- Phantom, Paris, Paris — Sat, 2 May 2026
-- Razzmatazz, Barcelona — Thu, 9 Apr 2026
-- Tempodrom, Berlin — Fri, 3 Apr 2026
+- Seaseaclub Barcelona, Barcelona · Sat, 12 Sept 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 23 Aug 2026
+- Thuishaven, Amsterdam · Sat, 22 Aug 2026
+- Loo Loo, Mexico City · Sat, 20 Jun 2026
+- Accor Arena, Paris · Sat, 2 May 2026
+- Phantom, Paris, Paris · Sat, 2 May 2026
+- Razzmatazz, Barcelona · Thu, 9 Apr 2026
+- Tempodrom, Berlin · Fri, 3 Apr 2026
 
 ## Shares bills with
 

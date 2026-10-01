@@ -1,6 +1,6 @@
 # Rare Frequency Transmissions at Mood Ring
 
-Rare Frequency Transmissions at Mood Ring on Fri 16 Oct, New York City. 4 artists on the bill: Dynoman, Matük, Sevyn and Zara Dekho. Preview the line-up and save it on soundcheck.
+Rare Frequency Transmissions at Mood Ring on Fri 16 Oct, New York City. 4 artists: Dynoman, Matük, Sevyn and Zara Dekho. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ROLLIN' HALLOWEEN at Sneaky Pete's
 
-ROLLIN' HALLOWEEN at Sneaky Pete's on Wed 28 Oct, Edinburgh. 2 artists on the bill: Macka and Phoebe Roper. Techno and House. Preview the line-up and save it on soundcheck.
+ROLLIN' HALLOWEEN at Sneaky Pete's on Wed 28 Oct, Edinburgh. 2 artists: Macka and Phoebe Roper. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

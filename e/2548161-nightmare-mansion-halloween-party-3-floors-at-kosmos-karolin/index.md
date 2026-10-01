@@ -1,6 +1,6 @@
 # Nightmare Mansion - Halloween Party (3 Floors) at Kosmos Karoline
 
-Nightmare Mansion - Halloween Party (3 Floors) at Kosmos Karoline on Fri 30 Oct, Hamburg. 2 artists on the bill: Iman Hanzo and QUIET&LISTEN. Electro and Deep House. Preview the line-up and save it on soundcheck.
+Nightmare Mansion - Halloween Party (3 Floors) at Kosmos Karoline on Fri 30 Oct, Hamburg. 2 artists: Iman Hanzo and QUIET&LISTEN. Electro and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

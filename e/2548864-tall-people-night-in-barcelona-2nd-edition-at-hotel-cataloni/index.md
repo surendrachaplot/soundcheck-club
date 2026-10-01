@@ -1,6 +1,6 @@
 # Tall People Night In Barcelona - 2nd Edition at Hotel Catalonia Barcelona Plaza
 
-Tall People Night In Barcelona - 2nd Edition at Hotel Catalonia Barcelona Plaza on Sat 17 Oct, Barcelona. 1 artist on the bill: Founder. Pop and Reggaeton. Preview the line-up and save it on soundcheck.
+Tall People Night In Barcelona - 2nd Edition at Hotel Catalonia Barcelona Plaza on Sat 17 Oct, Barcelona. 1 artist: Founder. Pop and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

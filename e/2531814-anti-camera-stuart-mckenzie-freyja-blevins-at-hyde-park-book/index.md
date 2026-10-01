@@ -1,6 +1,6 @@
 # Anti Camera / Stuart Mckenzie / Freyja Blevins at Hyde Park Book Club
 
-Anti Camera / Stuart Mckenzie / Freyja Blevins at Hyde Park Book Club on Thu 1 Oct, Leeds. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
+Anti Camera / Stuart Mckenzie / Freyja Blevins at Hyde Park Book Club on Thu 1 Oct, Leeds. Electro and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

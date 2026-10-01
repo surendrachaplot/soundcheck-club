@@ -1,8 +1,8 @@
 # DJ Westfa
 
-DJ Westfa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Marmorbar, Berlin on Fri, 16 Oct 2026.
+DJ Westfa is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marmorbar, Berlin on Fri, 16 Oct 2026.
 
-DJ Westfa is a house and techno artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Wendel Sield, JAXX TMS and Garnett. Next up: Marmorbar, Berlin on Fri 16 Oct.
+DJ Westfa is a house and techno artist based in Germany, with 70 gigs on soundcheck across Amsterdam, Berlin, Leipzig and Lisbon and 3 more. Often billed alongside Wendel Sield, JAXX TMS and Garnett. Next up: Marmorbar, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Westfa is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- export, Rotterdam — Sat, 12 Sept 2026
-- Coco Boule, Berlin — Sat, 22 Aug 2026
-- Melkweg, Amsterdam — Fri, 7 Aug 2026
-- Tresor / Globus, Berlin — Sat, 11 Jul 2026
-- RADION, Amsterdam — Sat, 4 Jul 2026
-- Sloterpark, Amsterdam — Sat, 20 Jun 2026
-- Doka, Amsterdam — Fri, 19 Jun 2026
-- Maaya, Berlin — Fri, 1 May 2026
+- export, Rotterdam · Sat, 12 Sept 2026
+- Coco Boule, Berlin · Sat, 22 Aug 2026
+- Melkweg, Amsterdam · Fri, 7 Aug 2026
+- Tresor / Globus, Berlin · Sat, 11 Jul 2026
+- RADION, Amsterdam · Sat, 4 Jul 2026
+- Sloterpark, Amsterdam · Sat, 20 Jun 2026
+- Doka, Amsterdam · Fri, 19 Jun 2026
+- Maaya, Berlin · Fri, 1 May 2026
 
 ## Shares bills with
 

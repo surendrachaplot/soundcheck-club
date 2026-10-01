@@ -1,8 +1,8 @@
 # Mario Mendoza
 
-Mario Mendoza is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at X Private Club, Madrid on Fri, 2 Oct 2026.
+Mario Mendoza is a Progressive House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at X Private Club, Madrid on Fri, 2 Oct 2026.
 
-Mario Mendoza is a progressive house and electronica artist based in Spain, tracked on soundcheck, with 8 sets logged across Madrid. Often billed alongside Vico Deep, David Carro and Unai García. Next up: X Private Club, Madrid on Fri 2 Oct.
+Mario Mendoza is a progressive house and electronica artist based in Spain, with 8 gigs on soundcheck across Madrid. Often billed alongside Vico Deep, David Carro and Unai García. Next up: X Private Club, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,12 +13,12 @@ Mario Mendoza is a progressive house and electronica artist based in Spain, trac
 
 ## Recently played
 
-- X Private Club, Madrid — Fri, 18 Sept 2026
-- X Private Club, Madrid — Fri, 5 Jun 2026
-- TBA -  Secret location, Madrid — Fri, 15 May 2026
-- X Private Club, Madrid — Sat, 6 Dec 2025
-- X Private Club, Madrid — Sat, 12 Jul 2025
-- Restaurante PacÃ­fico Madrid, Madrid — Sun, 14 Apr 2024
+- X Private Club, Madrid · Fri, 18 Sept 2026
+- X Private Club, Madrid · Fri, 5 Jun 2026
+- TBA -  Secret location, Madrid · Fri, 15 May 2026
+- X Private Club, Madrid · Sat, 6 Dec 2025
+- X Private Club, Madrid · Sat, 12 Jul 2025
+- Restaurante PacÃ­fico Madrid, Madrid · Sun, 14 Apr 2024
 
 ## Shares bills with
 

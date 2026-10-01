@@ -1,8 +1,8 @@
 # TBA - Secret Bushwick Location 
 
-TBA - Secret Bushwick Location  is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Liminal Collective: Kitty Flip" on Sat, 5 Dec 2026.
+TBA - Secret Bushwick Location  is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Liminal Collective: Kitty Flip" on Sat, 5 Dec 2026.
 
-TBA - Secret Bushwick Location  is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including ACIDMOM, baby-g and Chillosophy. Browse upcoming dates, start times and who's playing.
+TBA - Secret Bushwick Location  is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including ACIDMOM, baby-g and Chillosophy. See dates, start times and who's playing.
 
 ## What's on
 

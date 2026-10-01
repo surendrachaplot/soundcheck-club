@@ -1,6 +1,6 @@
 # Halloween Organic at Gallery
 
-Halloween Organic at Gallery on Fri 30 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+Halloween Organic at Gallery on Fri 30 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dissident at Dalston Superstore
 
-Dissident at Dalston Superstore on Sat 24 Oct, London. 7 artists on the bill: Carly Zeng, CHEZA LUCINA, FAFF and Jared and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Dissident at Dalston Superstore on Sat 24 Oct, London. 7 artists: Carly Zeng, CHEZA LUCINA, FAFF and Jared and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

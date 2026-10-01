@@ -1,6 +1,6 @@
 # Sunday SerVice: MAXIMILIANO [DC] - Manzone & Strong at Wiggle Room
 
-Sunday SerVice: MAXIMILIANO [DC] - Manzone & Strong at Wiggle Room on Sun 25 Oct, Toronto. 3 artists on the bill: Barroness, Manzone & Strong and MAXIMILIANO (US). House and Tech House. Preview the line-up and save it on soundcheck.
+Sunday SerVice: MAXIMILIANO [DC] - Manzone & Strong at Wiggle Room on Sun 25 Oct, Toronto. 3 artists: Barroness, Manzone & Strong and MAXIMILIANO (US). House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Opal Skies: Love, Highlife at Moondog Hifi
 
-Opal Skies: Love, Highlife at Moondog Hifi on Sun 4 Oct, New York City. Preview the line-up and save it on soundcheck.
+Opal Skies: Love, Highlife at Moondog Hifi on Sun 4 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

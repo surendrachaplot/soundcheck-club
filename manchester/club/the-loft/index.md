@@ -1,8 +1,8 @@
 # The Loft
 
-The Loft is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Loft: Gigsta (All Night Long)" on Thu, 1 Oct 2026.
+The Loft is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Loft: Gigsta (All Night Long)" on Thu, 1 Oct 2026.
 
-The Loft is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Fastlove, Adi, Alexander Skancke and Alexia Glensy and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
+The Loft is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Fastlove, Adi, Alexander Skancke and Alexia Glensy and 2 more. See dates, start times and who's playing. Unit 1, New Street, Manchester, M40 8AW.
 
 ## What's on
 

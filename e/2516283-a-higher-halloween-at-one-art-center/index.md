@@ -1,6 +1,6 @@
 # A Higher Halloween at One Art Center
 
-A Higher Halloween at One Art Center on Sat 31 Oct, Philadelphia. Preview the line-up and save it on soundcheck.
+A Higher Halloween at One Art Center on Sat 31 Oct, Philadelphia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

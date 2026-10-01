@@ -1,8 +1,8 @@
 # Halogenix
 
-Halogenix is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Halogenix is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
-Halogenix is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Auckland, Basel and Birmingham and 22 more. Often billed alongside SP:MC, Skeptical and Workforce. Next up: DRUMSHEDS, London on Sat 7 Nov.
+Halogenix is a drum & bass and jungle artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Auckland, Basel and Birmingham and 22 more. Often billed alongside SP:MC, Skeptical and Workforce. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Halogenix is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- The Cause, London — Sat, 22 Aug 2026
-- Document, Bristol — Sat, 18 Jul 2026
-- Volks, Brighton — Sat, 27 Jun 2026
-- Volks, Brighton — Sat, 27 Jun 2026
-- Night Tales Loft, London — Fri, 5 Jun 2026
-- Sawmills, Bristol — Sat, 7 Feb 2026
-- Phonox, London — Sat, 10 Jan 2026
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- The Cause, London · Sat, 22 Aug 2026
+- Document, Bristol · Sat, 18 Jul 2026
+- Volks, Brighton · Sat, 27 Jun 2026
+- Volks, Brighton · Sat, 27 Jun 2026
+- Night Tales Loft, London · Fri, 5 Jun 2026
+- Sawmills, Bristol · Sat, 7 Feb 2026
+- Phonox, London · Sat, 10 Jan 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Samizdat's 5th Birthday at 1990
 
-Samizdat's 5th Birthday at 1990 on Thu 8 Oct, Glasgow. 1 artist on the bill: HIGHSHIFTING. Club and Electronica. Preview the line-up and save it on soundcheck.
+Samizdat's 5th Birthday at 1990 on Thu 8 Oct, Glasgow. 1 artist: HIGHSHIFTING. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

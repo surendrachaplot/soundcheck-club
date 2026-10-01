@@ -1,6 +1,6 @@
 # KOKO Electronic: Francis Mercier, Weekender (Nov 20,21,22) at KOKO
 
-KOKO Electronic: Francis Mercier, Weekender (Nov 20,21,22) on Fri 20 Nov, London. 1 artist on the bill: Francis Mercier. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Francis Mercier, Weekender (Nov 20,21,22) on Fri 20 Nov, London. 1 artist: Francis Mercier. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

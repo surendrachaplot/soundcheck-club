@@ -1,6 +1,6 @@
 # sometimes/always at Rhiz
 
-sometimes/always at Rhiz on Fri 2 Oct, Vienna. 2 artists on the bill: INESSA and LAVO. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+sometimes/always at Rhiz on Fri 2 Oct, Vienna. 2 artists: INESSA and LAVO. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

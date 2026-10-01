@@ -1,6 +1,6 @@
 # Maribou State (DJ) / DR Koncerthuset, Koncertsalen at DR Koncerthuset
 
-Maribou State (DJ) / DR Koncerthuset, Koncertsalen on Sat 7 Nov, Copenhagen. 1 artist on the bill: Maribou State. Preview the line-up and save it on soundcheck.
+Maribou State (DJ) / DR Koncerthuset, Koncertsalen on Sat 7 Nov, Copenhagen. 1 artist: Maribou State. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

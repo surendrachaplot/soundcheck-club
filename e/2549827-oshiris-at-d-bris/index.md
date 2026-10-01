@@ -1,6 +1,6 @@
 # Oshiris at Débris
 
-Oshiris at Débris on Tue 6 Oct, Tokyo. 1 artist on the bill: Oshi. Drum & Bass and Dub. Preview the line-up and save it on soundcheck.
+Oshiris at Débris on Tue 6 Oct, Tokyo. 1 artist: Oshi. Drum & Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

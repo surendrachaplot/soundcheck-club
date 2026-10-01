@@ -1,6 +1,6 @@
 # VISIONE at The Viper Rooms Sheffield
 
-VISIONE at The Viper Rooms Sheffield on Sat 3 Oct, Sheffield. House and Deep House. Preview the line-up and save it on soundcheck.
+VISIONE at The Viper Rooms Sheffield on Sat 3 Oct, Sheffield. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

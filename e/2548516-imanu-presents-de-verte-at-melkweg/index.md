@@ -1,6 +1,6 @@
 # Imanu PRESENTS DE_VERTE at Melkweg
 
-Imanu PRESENTS DE_VERTE at Melkweg on Fri 23 Oct, Amsterdam. 6 artists on the bill: Flava D, Imanu, Kaskade and KAVARI and 2 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Imanu PRESENTS DE_VERTE at Melkweg on Fri 23 Oct, Amsterdam. 6 artists: Flava D, Imanu, Kaskade and KAVARI and 2 more. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

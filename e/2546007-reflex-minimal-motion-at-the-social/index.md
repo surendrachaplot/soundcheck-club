@@ -1,6 +1,6 @@
 # ReFlex:Minimal Motion at The Social
 
-ReFlex:Minimal Motion at The Social on Sat 10 Oct, London. Drum & Bass and Minimal. Preview the line-up and save it on soundcheck.
+ReFlex:Minimal Motion at The Social on Sat 10 Oct, London. Drum & Bass and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

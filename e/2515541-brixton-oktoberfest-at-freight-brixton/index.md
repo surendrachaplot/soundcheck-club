@@ -1,6 +1,6 @@
 # Brixton Oktoberfest at Freight Brixton
 
-Brixton Oktoberfest at Freight Brixton on Sat 17 Oct, London. Footwork. Preview the line-up and save it on soundcheck.
+Brixton Oktoberfest at Freight Brixton on Sat 17 Oct, London. Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

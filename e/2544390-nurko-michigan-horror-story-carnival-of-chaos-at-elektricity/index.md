@@ -1,6 +1,6 @@
 # NURKO: MICHIGAN HORROR STORY - CARNIVAL OF CHAOS at Elektricity
 
-NURKO: MICHIGAN HORROR STORY - CARNIVAL OF CHAOS at Elektricity on Sat 31 Oct, Detroit. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+NURKO: MICHIGAN HORROR STORY - CARNIVAL OF CHAOS at Elektricity on Sat 31 Oct, Detroit. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

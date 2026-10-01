@@ -1,6 +1,6 @@
 # SUBCERO x IMBOLC at Subcero Club
 
-SUBCERO x IMBOLC at Subcero Club on Fri 9 Oct, Madrid. 1 artist on the bill: Fonso Alegría. Electronica. Preview the line-up and save it on soundcheck.
+SUBCERO x IMBOLC at Subcero Club on Fri 9 Oct, Madrid. 2 artists: Fonso Alegría and Orson Sinaka. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ SUBCERO x IMBOLC at Subcero Club on Fri 9 Oct, Madrid. 1 artist on the bill: Fon
 ## Line-up
 
 - Fonso Alegría
+- Orson Sinaka
 
 *Source: [soundcheck](https://soundcheck.club/e/2540801-subcero-x-imbolc-at-subcero-club/)*

@@ -1,8 +1,8 @@
 # Nouminouw
 
-Nouminouw is a Gabber and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at La Station - Gare des Mines, Paris on Sat, 10 Oct 2026.
+Nouminouw is a Gabber and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 10 Oct 2026.
 
-Nouminouw is a gabber and hardcore artist based in France, tracked on soundcheck, with 6 sets logged across Brussels and Paris. Often billed alongside Karlfroye, Talita Otović and KimberlaID. Next up: La Station - Gare des Mines, Paris on Sat 10 Oct.
+Nouminouw is a gabber and hardcore artist based in France, with 6 gigs on soundcheck across Brussels and Paris. Often billed alongside Karlfroye, Talita Otović and KimberlaID. Next up: La Station - Gare des Mines, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Nouminouw is a gabber and hardcore artist based in France, tracked on soundcheck
 
 ## Recently played
 
-- Le Trabendo, Paris — Fri, 26 Jun 2026
-- La Station - Gare des Mines, Paris — Sat, 25 Apr 2026
-- Recyclart, Brussels — Sat, 6 Dec 2025
-- La Station - Gare des Mines, Paris — Sat, 12 Apr 2025
-- La Station - Gare des Mines, Paris — Sat, 19 Oct 2024
+- Le Trabendo, Paris · Fri, 26 Jun 2026
+- La Station - Gare des Mines, Paris · Sat, 25 Apr 2026
+- Recyclart, Brussels · Sat, 6 Dec 2025
+- La Station - Gare des Mines, Paris · Sat, 12 Apr 2025
+- La Station - Gare des Mines, Paris · Sat, 19 Oct 2024
 
 ## Shares bills with
 

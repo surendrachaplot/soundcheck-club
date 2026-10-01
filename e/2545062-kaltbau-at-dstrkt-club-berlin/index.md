@@ -1,6 +1,6 @@
 # KALTBAU at DSTRKT Club Berlin
 
-KALTBAU at DSTRKT Club Berlin on Fri 13 Nov, Berlin. Preview the line-up and save it on soundcheck.
+KALTBAU at DSTRKT Club Berlin on Fri 13 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

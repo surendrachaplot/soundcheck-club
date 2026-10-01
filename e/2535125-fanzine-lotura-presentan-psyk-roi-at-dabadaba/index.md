@@ -1,6 +1,6 @@
 # Fanzine & 「lotura」 presentan: Psyk + Roi at Dabadaba
 
-Fanzine & 「lotura」 presentan: Psyk + Roi at Dabadaba on Sat 3 Oct, North. 2 artists on the bill: Psyk and Roi (ES). Preview the line-up and save it on soundcheck.
+Fanzine & 「lotura」 presentan: Psyk + Roi at Dabadaba on Sat 3 Oct, North. 2 artists: Psyk and Roi (ES). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

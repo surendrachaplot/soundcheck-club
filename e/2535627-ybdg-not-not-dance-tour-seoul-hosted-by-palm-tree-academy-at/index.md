@@ -1,6 +1,6 @@
 # YBDG (영보이댄싱그룹): Not Not Dance Tour, Seoul — Hosted by Palm Tree Academy at Layer Studio 20
 
-YBDG (영보이댄싱그룹): Not Not Dance Tour, Seoul — Hosted by Palm Tree Academy at Layer Studio 20 on Sat 24 Oct, Seoul. Experimental and Classical. Preview the line-up and save it on soundcheck.
+YBDG (영보이댄싱그룹): Not Not Dance Tour, Seoul — Hosted by Palm Tree Academy at Layer Studio 20 on Sat 24 Oct, Seoul. Experimental and Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

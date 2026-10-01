@@ -1,8 +1,8 @@
 # Disrupta
 
-Disrupta is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
+Disrupta is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
 
-Disrupta is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Auckland and Bali and 24 more. Often billed alongside Kanine, Camo & Krooked and Crossy. Next up: Wolfbrook Arena, Christchurch on Fri 2 Oct.
+Disrupta is a drum & bass and jungle artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 24 more. Often billed alongside Kanine, Camo & Krooked and Crossy. Next up: Wolfbrook Arena, Christchurch on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Disrupta is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Burswood Dome, Perth — Sun, 27 Sept 2026
-- Eatons Hill Hotel and Function Centre, Brisbane — Sat, 26 Sept 2026
-- Boston Manor Park, London — Fri, 24 Jul 2026
-- Circolo Magnolia, Milan — Fri, 10 Jul 2026
-- Springwell - North Brewing, Leeds — Sat, 23 May 2026
-- Lakota, Bristol — Sat, 9 May 2026
-- Akvárium Klub, Budapest — Fri, 17 Apr 2026
-- Akvárium Klub, Budapest — Fri, 17 Apr 2026
+- Burswood Dome, Perth · Sun, 27 Sept 2026
+- Eatons Hill Hotel and Function Centre, Brisbane · Sat, 26 Sept 2026
+- Boston Manor Park, London · Fri, 24 Jul 2026
+- Circolo Magnolia, Milan · Fri, 10 Jul 2026
+- Springwell - North Brewing, Leeds · Sat, 23 May 2026
+- Lakota, Bristol · Sat, 9 May 2026
+- Akvárium Klub, Budapest · Fri, 17 Apr 2026
+- Akvárium Klub, Budapest · Fri, 17 Apr 2026
 
 ## Shares bills with
 

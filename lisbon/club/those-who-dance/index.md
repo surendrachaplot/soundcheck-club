@@ -1,8 +1,8 @@
 # Those Who Dance
 
-Those Who Dance is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "TKESHI Festival Lx Edition 2026" on Sat, 10 Oct 2026.
+Those Who Dance is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TKESHI Festival Lx Edition 2026" on Sat, 10 Oct 2026.
 
-Those Who Dance is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Av. Infante Dom Henrique, Armazens 8 e 9.
+Those Who Dance is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Av. Infante Dom Henrique, Armazens 8 e 9.
 
 ## What's on
 

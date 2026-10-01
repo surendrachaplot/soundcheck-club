@@ -1,6 +1,6 @@
 # LATIN HELL at YOTO
 
-LATIN HELL at YOTO on Fri 2 Oct, Hamburg. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+LATIN HELL at YOTO on Fri 2 Oct, Hamburg. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Queen! feat. Derrick Carter - Julie Marghilano - Michael Serafini at smartbar
 
-Queen! feat. Derrick Carter - Julie Marghilano - Michael Serafini at smartbar on Sun 8 Nov, Chicago. 3 artists on the bill: Derrick Carter, Julie Marghilano and Michael Serafini. House and Disco. Preview the line-up and save it on soundcheck.
+Queen! feat. Derrick Carter - Julie Marghilano - Michael Serafini at smartbar on Sun 8 Nov, Chicago. 3 artists: Derrick Carter, Julie Marghilano and Michael Serafini. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

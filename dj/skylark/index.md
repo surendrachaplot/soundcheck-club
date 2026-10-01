@@ -1,8 +1,8 @@
 # Skylark
 
-Skylark is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Volks, Brighton on Sat, 3 Oct 2026.
+Skylark is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Volks, Brighton on Sat, 3 Oct 2026.
 
-Skylark is a drum & bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Brighton, Ghent, London and Madrid and 3 more. Often billed alongside Halogenix, Ill Truth and Rider Shafique. Next up: Volks, Brighton on Sat 3 Oct.
+Skylark is a drum & bass and dubstep artist based in United Kingdom, with 9 gigs on soundcheck across Brighton, Ghent, London and Madrid and 3 more. Often billed alongside Halogenix, Ill Truth and Rider Shafique. Next up: Volks, Brighton on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Skylark is a drum & bass and dubstep artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Mia Mao, Paris — Sat, 13 Dec 2025
-- 93 Feet East, London — Sat, 6 Dec 2025
-- Le Red Room, Montreal — Sat, 11 Oct 2025
-- Gabriel Loci, Prague — Fri, 11 Oct 2024
-- Cabaret Sauvage, Paris — Sat, 13 Apr 2024
-- VIERNULVIER, Ghent — Sat, 3 Feb 2024
-- Sala Muv, Madrid — Sat, 17 Jun 2023
-- Cross Club, Prague — Fri, 10 Feb 2023
+- Mia Mao, Paris · Sat, 13 Dec 2025
+- 93 Feet East, London · Sat, 6 Dec 2025
+- Le Red Room, Montreal · Sat, 11 Oct 2025
+- Gabriel Loci, Prague · Fri, 11 Oct 2024
+- Cabaret Sauvage, Paris · Sat, 13 Apr 2024
+- VIERNULVIER, Ghent · Sat, 3 Feb 2024
+- Sala Muv, Madrid · Sat, 17 Jun 2023
+- Cross Club, Prague · Fri, 10 Feb 2023
 
 ## Shares bills with
 

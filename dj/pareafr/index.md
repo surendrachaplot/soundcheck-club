@@ -1,8 +1,8 @@
 # Parea (FR)
 
-Parea (FR) is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 16 Oct 2026.
+Parea (FR) is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 16 Oct 2026.
 
-Parea (FR) is a house and minimal artist based in France, tracked on soundcheck, with 21 sets logged across Barcelona, London, New York City and Paris. Often billed alongside Sonus, Matteo Diop and Archie Hamilton. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 16 Oct.
+Parea (FR) is a house and minimal artist based in France, with 21 gigs on soundcheck across Barcelona, London, New York City and Paris. Often billed alongside Sonus, Matteo Diop and Archie Hamilton. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Parea (FR) is a house and minimal artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- Rex Club, Paris — Fri, 3 Jul 2026
-- fabric, London — Sat, 13 Jun 2026
-- LA-YAM Rooftop, London — Sat, 13 Jun 2026
-- Fvtvr, Paris — Fri, 26 Sept 2025
-- Fvtvr, Paris — Fri, 6 Jun 2025
-- Fvtvr, Paris — Sat, 8 Feb 2025
-- TBA - Paris, Paris — Fri, 27 Dec 2024
-- Fvtvr, Paris — Fri, 6 Dec 2024
+- Rex Club, Paris · Fri, 3 Jul 2026
+- fabric, London · Sat, 13 Jun 2026
+- LA-YAM Rooftop, London · Sat, 13 Jun 2026
+- Fvtvr, Paris · Fri, 26 Sept 2025
+- Fvtvr, Paris · Fri, 6 Jun 2025
+- Fvtvr, Paris · Sat, 8 Feb 2025
+- TBA - Paris, Paris · Fri, 27 Dec 2024
+- Fvtvr, Paris · Fri, 6 Dec 2024
 
 ## Shares bills with
 

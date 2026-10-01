@@ -1,6 +1,6 @@
 # Teletech Glasgow: KIRSTY [All Night Long] at Room 2 Glasgow
 
-Teletech Glasgow: KIRSTY [All Night Long] at Room 2 Glasgow on Sat 24 Oct, Glasgow. 1 artist on the bill: KIRSTY. Techno and Gabber. Preview the line-up and save it on soundcheck.
+Teletech Glasgow: KIRSTY [All Night Long] at Room 2 Glasgow on Sat 24 Oct, Glasgow. 1 artist: KIRSTY. Techno and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

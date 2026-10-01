@@ -1,6 +1,6 @@
 # BASIS/ Patrick Mason [4h set]/ VLTRA VULVA at BASIS
 
-BASIS/ Patrick Mason [4h set]/ VLTRA VULVA on Fri 18 Dec, Utrecht. 2 artists on the bill: Patrick Mason and VLTRA VULVA. Techno. Preview the line-up and save it on soundcheck.
+BASIS/ Patrick Mason [4h set]/ VLTRA VULVA on Fri 18 Dec, Utrecht. 2 artists: Patrick Mason and VLTRA VULVA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

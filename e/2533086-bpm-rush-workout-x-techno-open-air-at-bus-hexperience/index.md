@@ -1,6 +1,6 @@
 # BPM RUSH - Workout x Techno Open Air at BUS Hexperience
 
-BPM RUSH - Workout x Techno Open Air at BUS Hexperience on Sat 10 Oct, Barcelona. Trance and Techno. Preview the line-up and save it on soundcheck.
+BPM RUSH - Workout x Techno Open Air at BUS Hexperience on Sat 10 Oct, Barcelona. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

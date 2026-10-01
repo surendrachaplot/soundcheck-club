@@ -1,6 +1,6 @@
 # Mother #002 at Distillery N17
 
-Mother #002 at Distillery N17 on Sat 28 Nov, London. 7 artists on the bill: Alba Heidari, Bleim01, Flight Mode (DE) and G.oss and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Mother #002 at Distillery N17 on Sat 28 Nov, London. 7 artists: Alba Heidari, Bleim01, Flight Mode (DE) and G.oss and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

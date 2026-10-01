@@ -1,8 +1,8 @@
 # KIRARA
 
-KIRARA is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
+KIRARA is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 28 Nov 2026.
 
-KIRARA is a techno and club artist based in South Korea, tracked on soundcheck, with 29 sets logged across Amsterdam, Brussels, Lyon and Manchester and 6 more. Often billed alongside NET GALA, Seesea and Cozyhoon. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
+KIRARA is a techno and club artist based in South Korea, with 29 gigs on soundcheck across Amsterdam, Brussels, Lyon and Manchester and 6 more. Often billed alongside NET GALA, Seesea and Cozyhoon. Next up: Depot Mayfield, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ KIRARA is a techno and club artist based in South Korea, tracked on soundcheck, 
 
 ## Recently played
 
-- Le Sucre, Lyon — Sat, 26 Sept 2026
-- Cakeshop, Seoul — Sat, 19 Sept 2026
-- Cakeshop, Seoul — Sat, 1 Aug 2026
-- Le Sucre, Lyon — Fri, 31 Jul 2026
-- Donauinsel, Vienna — Fri, 3 Jul 2026
-- Friche Belle de Mai, Marseille — Fri, 22 May 2026
-- Daikanyama ORD., Tokyo — Sun, 22 Feb 2026
-- De Sering, Amsterdam — Sat, 22 Nov 2025
+- Le Sucre, Lyon · Sat, 26 Sept 2026
+- Cakeshop, Seoul · Sat, 19 Sept 2026
+- Cakeshop, Seoul · Sat, 1 Aug 2026
+- Le Sucre, Lyon · Fri, 31 Jul 2026
+- Donauinsel, Vienna · Fri, 3 Jul 2026
+- Friche Belle de Mai, Marseille · Fri, 22 May 2026
+- Daikanyama ORD., Tokyo · Sun, 22 Feb 2026
+- De Sering, Amsterdam · Sat, 22 Nov 2025
 
 ## Shares bills with
 

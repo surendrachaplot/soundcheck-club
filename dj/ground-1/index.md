@@ -1,8 +1,8 @@
 # Ground (1)
 
-Ground (1) is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+Ground (1) is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
-Ground is a house and techno artist based in Japan, tracked on soundcheck, with 56 sets logged across Bangkok, Berlin, Kyoto and Kyushu and 4 more. Often billed alongside SATICA, Satoshi Otsuki and YAMA(JP/OSK). Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
+Ground is a house and techno artist based in Japan, with 56 gigs on soundcheck across Bangkok, Berlin, Kyoto and Kyushu and 4 more. Often billed alongside SATICA, Satoshi Otsuki and YAMA(JP/OSK). Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Ground is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- BAR Inc, Osaka — Fri, 11 Sept 2026
-- BAR Inc, Osaka — Sat, 15 Aug 2026
-- BAR Inc, Osaka — Fri, 31 Jul 2026
-- Suns Shimokitazawa, Tokyo — Sat, 25 Jul 2026
-- BAR Inc, Osaka — Sat, 27 Jun 2026
-- WOMB, Tokyo — Sat, 20 Jun 2026
-- BAR Inc, Osaka — Sat, 25 Apr 2026
-- BAR Inc, Osaka — Fri, 27 Mar 2026
+- BAR Inc, Osaka · Fri, 11 Sept 2026
+- BAR Inc, Osaka · Sat, 15 Aug 2026
+- BAR Inc, Osaka · Fri, 31 Jul 2026
+- Suns Shimokitazawa, Tokyo · Sat, 25 Jul 2026
+- BAR Inc, Osaka · Sat, 27 Jun 2026
+- WOMB, Tokyo · Sat, 20 Jun 2026
+- BAR Inc, Osaka · Sat, 25 Apr 2026
+- BAR Inc, Osaka · Fri, 27 Mar 2026
 
 ## Shares bills with
 

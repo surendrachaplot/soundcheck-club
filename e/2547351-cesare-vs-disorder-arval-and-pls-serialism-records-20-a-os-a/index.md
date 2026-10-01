@@ -1,6 +1,6 @@
 # Cesare vs Disorder + Arval and pls Serialism Records 20 años at Resume Valencia
 
-Cesare vs Disorder + Arval and pls Serialism Records 20 años at Resume Valencia on Sat 3 Oct, Valencia. 2 artists on the bill: Arval and Cesare vs Disorder. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Cesare vs Disorder + Arval and pls Serialism Records 20 años at Resume Valencia on Sat 3 Oct, Valencia. 2 artists: Arval and Cesare vs Disorder. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

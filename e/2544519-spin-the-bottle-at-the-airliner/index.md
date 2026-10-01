@@ -1,6 +1,6 @@
 # Spin the Bottle at The Airliner
 
-Spin the Bottle at The Airliner on Sat 3 Oct, Los Angeles. 1 artist on the bill: SOLTERA. Club and New Wave. Preview the line-up and save it on soundcheck.
+Spin the Bottle at The Airliner on Sat 3 Oct, Los Angeles. 1 artist: SOLTERA. Club and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

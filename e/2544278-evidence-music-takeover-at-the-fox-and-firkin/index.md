@@ -1,6 +1,6 @@
 # Evidence Music Takeover at The Fox and Firkin
 
-Evidence Music Takeover at The Fox and Firkin on Fri 23 Oct, London. Dub and Jungle. Preview the line-up and save it on soundcheck.
+Evidence Music Takeover at The Fox and Firkin on Fri 23 Oct, London. Dub and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

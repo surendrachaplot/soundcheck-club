@@ -1,6 +1,6 @@
 # STAUB XS_Familydisco_TREE OF THE CORE at ://about blank
 
-STAUB XS_Familydisco_TREE OF THE CORE at ://about blank on Sun 4 Oct, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+STAUB XS_Familydisco_TREE OF THE CORE at ://about blank on Sun 4 Oct, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

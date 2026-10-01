@@ -1,8 +1,8 @@
 # Flushing Meadows Corona Park
 
-Flushing Meadows Corona Park is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dom Dolla" on Sat, 3 Oct 2026.
+Flushing Meadows Corona Park is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dom Dolla" on Sat, 3 Oct 2026.
 
-Flushing Meadows Corona Park is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Basement Jaxx, Dom Dolla and Peggy Gou. Browse upcoming dates, start times and who's playing.
+Flushing Meadows Corona Park is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Basement Jaxx, Dom Dolla and Peggy Gou. See dates, start times and who's playing.
 
 ## What's on
 

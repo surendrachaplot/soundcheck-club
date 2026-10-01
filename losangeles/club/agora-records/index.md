@@ -1,8 +1,8 @@
 # Agora Records
 
-Agora Records is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "RA UNLOCKED Promoters x 6am" on Sat, 5 Dec 2026.
+Agora Records is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "RA UNLOCKED Promoters x 6am" on Sat, 5 Dec 2026.
 
-Agora Records is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1022 S Santa Fe Ave, Los Angeles, CA, 90021, USA.
+Agora Records is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1022 S Santa Fe Ave, Los Angeles, CA, 90021, USA.
 
 ## What's on
 

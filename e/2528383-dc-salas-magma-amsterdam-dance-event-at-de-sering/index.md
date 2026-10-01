@@ -1,6 +1,6 @@
 # DC Salas & Magma - Amsterdam Dance Event at De Sering
 
-DC Salas & Magma - Amsterdam Dance Event at De Sering on Thu 22 Oct, Amsterdam. House and Electro. Preview the line-up and save it on soundcheck.
+DC Salas & Magma - Amsterdam Dance Event at De Sering on Thu 22 Oct, Amsterdam. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

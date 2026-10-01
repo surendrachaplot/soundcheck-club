@@ -1,6 +1,6 @@
 # TRIPNO X TÝWCH LIVERPOOL - Wav - Anoluxx at WaV
 
-TRIPNO X TÝWCH LIVERPOOL - Wav - Anoluxx at WaV on Sat 3 Oct, Liverpool. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+TRIPNO X TÝWCH LIVERPOOL - Wav - Anoluxx at WaV on Sat 3 Oct, Liverpool. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

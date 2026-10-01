@@ -1,6 +1,6 @@
 # SUNN Festival 2026 at TBA - 고성 잼버리 수련장, 강원도
 
-SUNN Festival 2026 at TBA - 고성 잼버리 수련장, 강원도 on Sat 3 Oct, South Korea. 16 artists on the bill: Afrodite, Antwork, Hansy and Jesse You and 12 more. Preview the line-up and save it on soundcheck.
+SUNN Festival 2026 at TBA - 고성 잼버리 수련장, 강원도 on Sat 3 Oct, South Korea. 16 artists: Afrodite, Antwork, Hansy and Jesse You and 12 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

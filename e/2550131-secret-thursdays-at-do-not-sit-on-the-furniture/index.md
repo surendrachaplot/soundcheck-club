@@ -1,6 +1,6 @@
 # Secret Thursdays at Do Not Sit On The Furniture
 
-Secret Thursdays at Do Not Sit On The Furniture on Thu 8 Oct, Miami. 1 artist on the bill: Ben Roberts. House and Deep House. Preview the line-up and save it on soundcheck.
+Secret Thursdays at Do Not Sit On The Furniture on Thu 8 Oct, Miami. 1 artist: Ben Roberts. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

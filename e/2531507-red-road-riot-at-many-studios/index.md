@@ -1,6 +1,6 @@
 # Red Road Riot at Many Studios
 
-Red Road Riot at Many Studios on Sat 24 Oct, Glasgow. 2 artists on the bill: fergusmcnally and JHNSSN. House and Acid. Preview the line-up and save it on soundcheck.
+Red Road Riot at Many Studios on Sat 24 Oct, Glasgow. 2 artists: fergusmcnally and JHNSSN. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

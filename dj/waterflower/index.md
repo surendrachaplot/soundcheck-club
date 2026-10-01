@@ -1,8 +1,8 @@
 # Waterflower
 
-Waterflower is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 1983, Riga on Fri, 2 Oct 2026.
+Waterflower is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 1983, Riga on Fri, 2 Oct 2026.
 
-Waterflower is a techno artist based in Latvia, tracked on soundcheck, with 6 sets logged across London and Riga. Often billed alongside Black Arrows, Chris Speed Visuals and Fresh Lov3. Next up: 1983, Riga on Fri 2 Oct.
+Waterflower is a techno artist based in Latvia, with 6 gigs on soundcheck across London and Riga. Often billed alongside Black Arrows, Chris Speed Visuals and Fresh Lov3. Next up: 1983, Riga on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Waterflower is a techno artist based in Latvia, tracked on soundcheck, with 6 se
 
 ## Recently played
 
-- Reinstate, London — Sat, 25 Apr 2026
-- Metamorphika Studio, London — Fri, 20 Mar 2026
-- Metamorphika Studio, London — Sat, 13 Dec 2025
-- The Glove That Fits, London — Sat, 6 Dec 2025
-- New River Studios, London — Fri, 28 Nov 2025
+- Reinstate, London · Sat, 25 Apr 2026
+- Metamorphika Studio, London · Fri, 20 Mar 2026
+- Metamorphika Studio, London · Sat, 13 Dec 2025
+- The Glove That Fits, London · Sat, 6 Dec 2025
+- New River Studios, London · Fri, 28 Nov 2025
 
 ## Shares bills with
 

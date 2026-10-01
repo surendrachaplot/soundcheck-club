@@ -1,6 +1,6 @@
 # STCTRS with RØØB tba at Baalsaal
 
-STCTRS with RØØB tba at Baalsaal on Sat 19 Dec, Hamburg. 1 artist on the bill: ROOB. Techno and Acid. Preview the line-up and save it on soundcheck.
+STCTRS with RØØB tba at Baalsaal on Sat 19 Dec, Hamburg. 1 artist: ROOB. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

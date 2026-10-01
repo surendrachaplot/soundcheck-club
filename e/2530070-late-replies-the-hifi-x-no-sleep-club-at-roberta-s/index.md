@@ -1,6 +1,6 @@
 # Late Replies | The HiFi x No Sleep Club at Roberta's
 
-Late Replies | The HiFi x No Sleep Club at Roberta's on Sat 10 Oct, New York City. 4 artists on the bill: Late Replies, LockEight, SIEGEL and Zeeva. House and Tech House. Preview the line-up and save it on soundcheck.
+Late Replies | The HiFi x No Sleep Club at Roberta's on Sat 10 Oct, New York City. 4 artists: Late Replies, LockEight, SIEGEL and Zeeva. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

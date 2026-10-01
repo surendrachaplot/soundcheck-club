@@ -1,8 +1,8 @@
 # Bordello Soundsystem
 
-Bordello Soundsystem is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Banco Vini, Turin on Thu, 8 Oct 2026.
+Bordello Soundsystem is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Banco Vini, Turin on Thu, 8 Oct 2026.
 
-Bordello Soundsystem is an italo disco and house artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 15 more. Often billed alongside David Vunk, Richelle Soigni and Aroy Dee. Next up: Banco Vini, Turin on Thu 8 Oct.
+Bordello Soundsystem is an italo disco and house artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 15 more. Often billed alongside David Vunk, Richelle Soigni and Aroy Dee. Next up: Banco Vini, Turin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Bordello Soundsystem is an italo disco and house artist based in Netherlands, tr
 
 ## Recently played
 
-- Le Mazette, Paris — Sat, 26 Sept 2026
-- OXI, Berlin — Sat, 19 Sept 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 20 Jun 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 20 Jun 2026
-- Melkweg, Amsterdam — Fri, 19 Jun 2026
-- Melkweg, Amsterdam — Fri, 19 Jun 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 13 Jun 2026
-- Roodkapje, Rotterdam — Fri, 1 May 2026
+- Le Mazette, Paris · Sat, 26 Sept 2026
+- OXI, Berlin · Sat, 19 Sept 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 20 Jun 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 20 Jun 2026
+- Melkweg, Amsterdam · Fri, 19 Jun 2026
+- Melkweg, Amsterdam · Fri, 19 Jun 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 13 Jun 2026
+- Roodkapje, Rotterdam · Fri, 1 May 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # MAYURASHKA
 
-MAYURASHKA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
+MAYURASHKA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
 
-MAYURASHKA is a house and techno artist based in Japan, tracked on soundcheck, with 33 sets logged across Berlin, Bristol, Hong Kong and London and 6 more. Often billed alongside levolant, John Talabot and Samo. Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
+MAYURASHKA is a house and techno artist based in Japan, with 33 gigs on soundcheck across Berlin, Bristol, Hong Kong and London and 6 more. Often billed alongside levolant, John Talabot and Samo. Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MAYURASHKA is a house and techno artist based in Japan, tracked on soundcheck, w
 
 ## Recently played
 
-- The Cause, London — Sat, 15 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
-- Strange Brew, Bristol — Fri, 14 Aug 2026
-- WOMB, Tokyo — Sat, 11 Jul 2026
-- Nyapi, Seoul — Sat, 20 Jun 2026
-- Z Maruyama, Tokyo — Sat, 13 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 2 May 2026
-- WOMB, Tokyo — Sat, 4 Apr 2026
+- The Cause, London · Sat, 15 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 15 Aug 2026
+- Strange Brew, Bristol · Fri, 14 Aug 2026
+- WOMB, Tokyo · Sat, 11 Jul 2026
+- Nyapi, Seoul · Sat, 20 Jun 2026
+- Z Maruyama, Tokyo · Sat, 13 Jun 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 2 May 2026
+- WOMB, Tokyo · Sat, 4 Apr 2026
 
 ## Shares bills with
 

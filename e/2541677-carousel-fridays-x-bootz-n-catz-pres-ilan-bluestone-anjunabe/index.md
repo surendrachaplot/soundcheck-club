@@ -1,6 +1,6 @@
 # Carousel Fridays x Bootz N Catz pres. Ilan Bluestone (Anjunabeats) at Carousel Bar & Ballroom
 
-Carousel Fridays x Bootz N Catz pres. Ilan Bluestone (Anjunabeats) at Carousel Bar & Ballroom on Fri 2 Oct, Sydney. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Carousel Fridays x Bootz N Catz pres. Ilan Bluestone (Anjunabeats) at Carousel Bar & Ballroom on Fri 2 Oct, Sydney. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

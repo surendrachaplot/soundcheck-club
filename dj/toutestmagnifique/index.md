@@ -1,8 +1,8 @@
 # toutestmagnifique
 
-toutestmagnifique is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at K-Bar Powiśle, Warsaw on Sat, 10 Oct 2026.
+toutestmagnifique is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at K-Bar Powiśle, Warsaw on Sat, 10 Oct 2026.
 
-toutestmagnifique is a techno and trance artist based in Poland, tracked on soundcheck, with 31 sets logged across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and DOMEL. Next up: K-Bar Powiśle, Warsaw on Sat 10 Oct.
+toutestmagnifique is a techno and trance artist based in Poland, with 31 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Abrew, dj.zamocno and DOMEL. Next up: K-Bar Powiśle, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ toutestmagnifique is a techno and trance artist based in Poland, tracked on soun
 
 ## Recently played
 
-- Jasna 1, Warsaw — Fri, 4 Sept 2026
-- K-Bar Powiśle, Warsaw — Fri, 26 Jun 2026
-- K-Bar Powiśle, Warsaw — Sat, 16 May 2026
-- Teatr Powszechny im. Zygmunta Hübnera w Warszawie, Warsaw — Sun, 10 May 2026
-- underiolo, Warsaw — Fri, 27 Mar 2026
-- K-Bar Powiśle, Warsaw — Fri, 20 Feb 2026
-- underiolo, Warsaw — Fri, 16 Jan 2026
-- OCZKI, Warsaw — Wed, 31 Dec 2025
+- Jasna 1, Warsaw · Fri, 4 Sept 2026
+- K-Bar Powiśle, Warsaw · Fri, 26 Jun 2026
+- K-Bar Powiśle, Warsaw · Sat, 16 May 2026
+- Teatr Powszechny im. Zygmunta Hübnera w Warszawie, Warsaw · Sun, 10 May 2026
+- underiolo, Warsaw · Fri, 27 Mar 2026
+- K-Bar Powiśle, Warsaw · Fri, 20 Feb 2026
+- underiolo, Warsaw · Fri, 16 Jan 2026
+- OCZKI, Warsaw · Wed, 31 Dec 2025
 
 ## Shares bills with
 

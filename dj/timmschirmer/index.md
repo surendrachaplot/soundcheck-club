@@ -1,8 +1,8 @@
 # Timm Schirmer
 
-Timm Schirmer is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
+Timm Schirmer is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 30 Oct 2026.
 
-Timm Schirmer is a techno and trance artist based in Germany, tracked on soundcheck, with 49 sets logged across Frankfurt and Nürnberg. Often billed alongside Cassa Cristano, Mantraa and Klang der Nacht. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
+Timm Schirmer is a techno and trance artist based in Germany, with 49 gigs on soundcheck across Frankfurt and Nürnberg. Often billed alongside Cassa Cristano, Mantraa and Klang der Nacht. Next up: Airport Würzburg, Nürnberg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Timm Schirmer is a techno and trance artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- Airport Würzburg, Nürnberg — Fri, 25 Sept 2026
-- Airport Würzburg, Nürnberg — Sun, 24 May 2026
-- Airport Würzburg, Nürnberg — Fri, 8 May 2026
-- Airport Würzburg, Nürnberg — Sun, 5 Apr 2026
-- Airport Würzburg, Nürnberg — Fri, 27 Mar 2026
-- Airport Würzburg, Nürnberg — Fri, 6 Mar 2026
-- Airport Würzburg, Nürnberg — Fri, 20 Feb 2026
-- Airport Würzburg, Nürnberg — Fri, 12 Dec 2025
+- Airport Würzburg, Nürnberg · Fri, 25 Sept 2026
+- Airport Würzburg, Nürnberg · Sun, 24 May 2026
+- Airport Würzburg, Nürnberg · Fri, 8 May 2026
+- Airport Würzburg, Nürnberg · Sun, 5 Apr 2026
+- Airport Würzburg, Nürnberg · Fri, 27 Mar 2026
+- Airport Würzburg, Nürnberg · Fri, 6 Mar 2026
+- Airport Würzburg, Nürnberg · Fri, 20 Feb 2026
+- Airport Würzburg, Nürnberg · Fri, 12 Dec 2025
 
 ## Shares bills with
 

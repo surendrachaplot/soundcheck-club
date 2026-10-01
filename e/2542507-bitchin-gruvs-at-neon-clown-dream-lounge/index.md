@@ -1,6 +1,6 @@
 # Bitchin' Gruvs at Neon Clown Dream Lounge
 
-Bitchin' Gruvs at Neon Clown Dream Lounge on Wed 7 Oct, Philadelphia. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Bitchin' Gruvs at Neon Clown Dream Lounge on Wed 7 Oct, Philadelphia. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

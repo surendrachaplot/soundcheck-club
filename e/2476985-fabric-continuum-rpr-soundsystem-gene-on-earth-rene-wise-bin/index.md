@@ -1,6 +1,6 @@
 # fabric Continuum: RPR Soundsystem, Gene On Earth, Rene Wise, Binh, tINI, GiGi FM, dj sweet6teen at fabric
 
-fabric Continuum: RPR Soundsystem, Gene On Earth, Rene Wise, Binh, tINI, GiGi FM, dj sweet6teen on Sat 12 Dec, London. 11 artists on the bill: Binh, dj sweet6teen, Gene On Earth and GiGi FM and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+fabric Continuum: RPR Soundsystem, Gene On Earth, Rene Wise, Binh, tINI, GiGi FM, dj sweet6teen on Sat 12 Dec, London. 11 artists: Binh, dj sweet6teen, Gene On Earth and GiGi FM and 7 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

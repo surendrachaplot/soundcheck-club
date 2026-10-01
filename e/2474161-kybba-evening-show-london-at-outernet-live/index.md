@@ -1,6 +1,6 @@
 # Kybba - Evening Show [London] at Outernet Live
 
-Kybba - Evening Show [London] at Outernet Live on Sat 28 Nov, London. Dancehall and Reggaeton. Preview the line-up and save it on soundcheck.
+Kybba - Evening Show [London] at Outernet Live on Sat 28 Nov, London. Dancehall and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

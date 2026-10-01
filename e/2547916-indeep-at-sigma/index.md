@@ -1,6 +1,6 @@
 # INDEEP at Sigma
 
-INDEEP at Sigma on Tue 13 Oct, Ibiza. Deep House. Preview the line-up and save it on soundcheck.
+INDEEP at Sigma on Tue 13 Oct, Ibiza. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

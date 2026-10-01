@@ -1,6 +1,6 @@
 # Sigma Ibiza: Lucas vazz, Fefe Klotz, Cris Kai, IG Aguirre, P.A.N.C.H.I.T.O at Sigma
 
-Sigma Ibiza: Lucas vazz, Fefe Klotz, Cris Kai, IG Aguirre, P.A.N.C.H.I.T.O on Fri 2 Oct, Ibiza. 3 artists on the bill: Cris Kai, Lucas Vazz and P.A.N.C.H.I.T.O. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Sigma Ibiza: Lucas vazz, Fefe Klotz, Cris Kai, IG Aguirre, P.A.N.C.H.I.T.O on Fri 2 Oct, Ibiza. 3 artists: Cris Kai, Lucas Vazz and P.A.N.C.H.I.T.O. Deep House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

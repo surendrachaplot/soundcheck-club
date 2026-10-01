@@ -1,6 +1,6 @@
 # Philly NOTO Indo Warehouse: Spice Trade Tour 11/14 at Noto Philadelphia
 
-Philly NOTO Indo Warehouse: Spice Trade Tour 11/14 at Noto Philadelphia on Sat 14 Nov, Philadelphia. House. Preview the line-up and save it on soundcheck.
+Philly NOTO Indo Warehouse: Spice Trade Tour 11/14 at Noto Philadelphia on Sat 14 Nov, Philadelphia. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

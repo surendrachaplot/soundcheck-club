@@ -1,8 +1,8 @@
 # Shingo
 
-Shingo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Compufunk Records, Osaka on Sat, 24 Oct 2026.
+Shingo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Compufunk Records, Osaka on Sat, 24 Oct 2026.
 
-Shingo is a techno and house artist based in Japan, tracked on soundcheck, with 70 sets logged across Bali, Kyoto, Liverpool and Osaka and 2 more. Often billed alongside ONO, VIDEOBOY and AOKI takamasa. Next up: Compufunk Records, Osaka on Sat 24 Oct.
+Shingo is a techno and house artist based in Japan, with 70 gigs on soundcheck across Bali, Kyoto, Liverpool and Osaka and 2 more. Often billed alongside ONO, VIDEOBOY and AOKI takamasa. Next up: Compufunk Records, Osaka on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Shingo is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- Club Daphnia, Osaka — Sat, 26 Sept 2026
-- or, Tokyo — Fri, 18 Sept 2026
-- Nué Seoul, Seoul — Sat, 5 Sept 2026
-- teller, Seoul — Sat, 8 Aug 2026
-- 夜来香　YE LAI Xiang Osaka Shinsaibashi, Osaka — Sat, 6 Jun 2026
-- BAR Inc, Osaka — Mon, 4 May 2026
-- Circus Osaka, Osaka — Sat, 25 Apr 2026
-- Circus Osaka, Osaka — Sat, 18 Apr 2026
+- Club Daphnia, Osaka · Sat, 26 Sept 2026
+- or, Tokyo · Fri, 18 Sept 2026
+- Nué Seoul, Seoul · Sat, 5 Sept 2026
+- teller, Seoul · Sat, 8 Aug 2026
+- 夜来香　YE LAI Xiang Osaka Shinsaibashi, Osaka · Sat, 6 Jun 2026
+- BAR Inc, Osaka · Mon, 4 May 2026
+- Circus Osaka, Osaka · Sat, 25 Apr 2026
+- Circus Osaka, Osaka · Sat, 18 Apr 2026
 
 ## Shares bills with
 

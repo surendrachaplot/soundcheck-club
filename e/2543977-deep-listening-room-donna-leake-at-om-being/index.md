@@ -1,6 +1,6 @@
 # Deep Listening Room | Donna Leake at Om Being
 
-Deep Listening Room | Donna Leake at Om Being on Sat 17 Oct, London. 1 artist on the bill: Donna Leake. Bass and Dub. Preview the line-up and save it on soundcheck.
+Deep Listening Room | Donna Leake at Om Being on Sat 17 Oct, London. 1 artist: Donna Leake. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

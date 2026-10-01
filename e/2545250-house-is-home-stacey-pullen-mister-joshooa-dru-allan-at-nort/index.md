@@ -1,6 +1,6 @@
 # HOUSE IS HOME: STACEY PULLEN | MISTER JOSHOOA | DRU ALLAN at Northern Lights Lounge
 
-HOUSE IS HOME: STACEY PULLEN | MISTER JOSHOOA | DRU ALLAN at Northern Lights Lounge on Sat 24 Oct, Detroit. 3 artists on the bill: Dru Allan, Mister Joshooa and Stacey Pullen. House. Preview the line-up and save it on soundcheck.
+HOUSE IS HOME: STACEY PULLEN | MISTER JOSHOOA | DRU ALLAN at Northern Lights Lounge on Sat 24 Oct, Detroit. 3 artists: Dru Allan, Mister Joshooa and Stacey Pullen. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

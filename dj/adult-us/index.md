@@ -1,8 +1,8 @@
 # ADULT.
 
-ADULT. is a Post-Punk and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Black Cat, Washington DC on Wed, 11 Nov 2026.
+ADULT. is a Post-Punk and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Black Cat, Washington DC on Wed, 11 Nov 2026.
 
-ADULT. is a post-punk and experimental artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin, Detroit, Frankfurt and Glasgow and 5 more. Often billed alongside Nick Dagher, Todd Osborn and 2Lanes. Next up: Black Cat, Washington DC on Wed 11 Nov.
+ADULT. is a post-punk and experimental artist based in United States of America, with 13 gigs on soundcheck across Berlin, Detroit, Frankfurt and Glasgow and 5 more. Often billed alongside Nick Dagher, Todd Osborn and 2Lanes. Next up: Black Cat, Washington DC on Wed 11 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ADULT. is a post-punk and experimental artist based in United States of America,
 
 ## Recently played
 
-- Good Room, New York City — Sun, 12 Apr 2026
-- Marble Bar, Detroit — Wed, 31 Dec 2025
-- Belasco Theater, Los Angeles — Fri, 7 Nov 2025
-- Tangent Gallery, Detroit — Thu, 22 May 2025
-- Slaughterhouse am Kulturfabrik Moabit, Berlin — Fri, 28 Feb 2025
-- TBA - Gaststätte Zur Insel, Frankfurt — Wed, 26 Feb 2025
-- Stereo, Glasgow — Thu, 13 Feb 2025
-- The White Hotel, Manchester — Wed, 12 Feb 2025
+- Good Room, New York City · Sun, 12 Apr 2026
+- Marble Bar, Detroit · Wed, 31 Dec 2025
+- Belasco Theater, Los Angeles · Fri, 7 Nov 2025
+- Tangent Gallery, Detroit · Thu, 22 May 2025
+- Slaughterhouse am Kulturfabrik Moabit, Berlin · Fri, 28 Feb 2025
+- TBA - Gaststätte Zur Insel, Frankfurt · Wed, 26 Feb 2025
+- Stereo, Glasgow · Thu, 13 Feb 2025
+- The White Hotel, Manchester · Wed, 12 Feb 2025
 
 ## Shares bills with
 

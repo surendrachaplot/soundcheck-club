@@ -1,8 +1,8 @@
 # Powel
 
-Powel is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Powel is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Powel is a deep house and house artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin, Ibiza, Miami and New York City and 2 more. Often billed alongside Bonjour Ben, Borella and Coss. Next up: Renate, Berlin on Fri 16 Oct.
+Powel is a deep house and house artist based in Germany, with 15 gigs on soundcheck across Berlin, Ibiza, Miami and New York City and 2 more. Often billed alongside Bonjour Ben, Borella and Coss. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Powel is a deep house and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Kater, Berlin — Sat, 30 May 2026
-- Golden Gate, Berlin — Fri, 31 Oct 2025
-- Klunkerkranich, Berlin — Sat, 26 Apr 2025
-- About Last Night, New York City — Sat, 1 Feb 2025
-- Beate Uwe, Berlin — Sun, 24 Nov 2024
-- Playa Soleil Ibiza, Ibiza — Mon, 29 Jul 2024
-- Kater, Berlin — Sat, 30 Mar 2024
-- Do Not Sit On The Furniture, Miami — Sat, 17 Feb 2024
+- Kater, Berlin · Sat, 30 May 2026
+- Golden Gate, Berlin · Fri, 31 Oct 2025
+- Klunkerkranich, Berlin · Sat, 26 Apr 2025
+- About Last Night, New York City · Sat, 1 Feb 2025
+- Beate Uwe, Berlin · Sun, 24 Nov 2024
+- Playa Soleil Ibiza, Ibiza · Mon, 29 Jul 2024
+- Kater, Berlin · Sat, 30 Mar 2024
+- Do Not Sit On The Furniture, Miami · Sat, 17 Feb 2024
 
 ## Shares bills with
 

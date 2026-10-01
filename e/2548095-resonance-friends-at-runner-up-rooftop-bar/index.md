@@ -1,6 +1,6 @@
 # Resonance & Friends at Runner Up Rooftop Bar
 
-Resonance & Friends at Runner Up Rooftop Bar on Sun 4 Oct, Melbourne. 2 artists on the bill: Djane and Geo (IT). Preview the line-up and save it on soundcheck.
+Resonance & Friends at Runner Up Rooftop Bar on Sun 4 Oct, Melbourne. 2 artists: Djane and Geo (IT). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

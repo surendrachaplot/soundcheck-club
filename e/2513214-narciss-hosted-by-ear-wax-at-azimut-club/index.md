@@ -1,6 +1,6 @@
 # Narciss hosted by EAR\WAX at Azimut Club
 
-Narciss hosted by EAR\WAX at Azimut Club on Sat 17 Oct, Turin. 1 artist on the bill: Narciss. House and Disco. Preview the line-up and save it on soundcheck.
+Narciss hosted by EAR\WAX at Azimut Club on Sat 17 Oct, Turin. 1 artist: Narciss. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

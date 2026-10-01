@@ -1,6 +1,6 @@
 # Polenta at La Terrrazza
 
-Polenta at La Terrrazza on Sun 4 Oct, Barcelona. Reggaeton. Preview the line-up and save it on soundcheck.
+Polenta at La Terrrazza on Sun 4 Oct, Barcelona. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

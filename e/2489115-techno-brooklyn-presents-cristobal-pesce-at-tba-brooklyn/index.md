@@ -1,6 +1,6 @@
 # Techno Brooklyn presents Cristobal Pesce at TBA - Brooklyn
 
-Techno Brooklyn presents Cristobal Pesce at TBA - Brooklyn on Fri 9 Oct, New York City. 1 artist on the bill: Cristobal Pesce. Preview the line-up and save it on soundcheck.
+Techno Brooklyn presents Cristobal Pesce at TBA - Brooklyn on Fri 9 Oct, New York City. 1 artist: Cristobal Pesce. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

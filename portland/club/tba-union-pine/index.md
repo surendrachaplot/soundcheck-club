@@ -1,8 +1,8 @@
 # TBA - Union Pine
 
-TBA - Union Pine is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Global Based: Halloween II" on Fri, 30 Oct 2026.
+TBA - Union Pine is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Global Based: Halloween II" on Fri, 30 Oct 2026.
 
-TBA - Union Pine is a music venue in Portland listed on soundcheck. 2 upcoming gigs, with line-ups including BADSISTA, Brenda. and Manuka Honey. Browse upcoming dates, start times and who's playing.
+TBA - Union Pine is a music venue in Portland listed on soundcheck. 2 upcoming gigs, with line-ups including BADSISTA, Brenda. and Manuka Honey. See dates, start times and who's playing.
 
 ## What's on
 

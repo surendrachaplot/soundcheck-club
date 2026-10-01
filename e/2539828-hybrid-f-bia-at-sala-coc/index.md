@@ -1,6 +1,6 @@
 # HYBRID: FØBIA at Sala Cocó
 
-HYBRID: FØBIA at Sala Cocó on Sat 3 Oct, Madrid. 1 artist on the bill: CRITICAL ERROR 404. Techno. Preview the line-up and save it on soundcheck.
+HYBRID: FØBIA at Sala Cocó on Sat 3 Oct, Madrid. 1 artist: CRITICAL ERROR 404. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

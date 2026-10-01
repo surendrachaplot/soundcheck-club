@@ -1,8 +1,8 @@
 # Boudewijn Ericx
 
-Boudewijn Ericx is a Electro and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at UMI, Brussels on Sat, 31 Oct 2026.
+Boudewijn Ericx is a Electro and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at UMI, Brussels on Sat, 31 Oct 2026.
 
-Boudewijn Ericx is an electro and club artist based in Belgium, tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 3 more. Often billed alongside Walrus, DJ Rino and Desyn. Next up: UMI, Brussels on Sat 31 Oct.
+Boudewijn Ericx is an electro and club artist based in Belgium, with 33 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 3 more. Often billed alongside Walrus, DJ Rino and Desyn. Next up: UMI, Brussels on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Boudewijn Ericx is an electro and club artist based in Belgium, tracked on sound
 
 ## Recently played
 
-- Buda BXL, Brussels — Sat, 8 Aug 2026
-- Funke, Ghent — Sat, 18 Jul 2026
-- Tuin van Heden, Ghent — Sat, 30 May 2026
-- TBA - Floraliënlaan 111, 2020 Antwerpen, België, Antwerp — Wed, 20 May 2026
-- Buda BXL, Brussels — Sat, 1 Nov 2025
-- TBA - Sint Maartensveld, Brussels — Sat, 6 Sept 2025
-- Lavallée, Brussels — Fri, 5 Sept 2025
-- Buda BXL, Brussels — Sat, 2 Aug 2025
+- Buda BXL, Brussels · Sat, 8 Aug 2026
+- Funke, Ghent · Sat, 18 Jul 2026
+- Tuin van Heden, Ghent · Sat, 30 May 2026
+- TBA - Floraliënlaan 111, 2020 Antwerpen, België, Antwerp · Wed, 20 May 2026
+- Buda BXL, Brussels · Sat, 1 Nov 2025
+- TBA - Sint Maartensveld, Brussels · Sat, 6 Sept 2025
+- Lavallée, Brussels · Fri, 5 Sept 2025
+- Buda BXL, Brussels · Sat, 2 Aug 2025
 
 ## Shares bills with
 

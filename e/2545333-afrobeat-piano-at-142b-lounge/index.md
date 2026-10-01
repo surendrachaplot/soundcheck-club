@@ -1,6 +1,6 @@
 # AFROBEAT PIANO at 142b Lounge
 
-AFROBEAT PIANO at 142b Lounge on Fri 9 Oct, Glasgow. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+AFROBEAT PIANO at 142b Lounge on Fri 9 Oct, Glasgow. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

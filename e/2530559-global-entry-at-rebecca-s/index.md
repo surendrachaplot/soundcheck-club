@@ -1,6 +1,6 @@
 # Global Entry at Rebecca's
 
-Global Entry at Rebecca's on Fri 2 Oct, New York City. 2 artists on the bill: AJACENT and DEE-MEE. Baile Funk and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Global Entry at Rebecca's on Fri 2 Oct, New York City. 2 artists: AJACENT and DEE-MEE. Baile Funk and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TRAUMA UNIT 2 YEARS at The Greyhound
 
-TRAUMA UNIT 2 YEARS at The Greyhound on Sat 3 Oct, London. 5 artists on the bill: glas___skin, Naramnesia, novasdemise and overshine and 1 more. Experimental and Club. Preview the line-up and save it on soundcheck.
+TRAUMA UNIT 2 YEARS at The Greyhound on Sat 3 Oct, London. 5 artists: glas___skin, Naramnesia, novasdemise and overshine and 1 more. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

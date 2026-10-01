@@ -1,6 +1,6 @@
 # Nightmare on Spadina at El Mocambo
 
-Nightmare on Spadina at El Mocambo on Sat 31 Oct, Toronto. Tech House and Dubstep. Preview the line-up and save it on soundcheck.
+Nightmare on Spadina at El Mocambo on Sat 31 Oct, Toronto. Tech House and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

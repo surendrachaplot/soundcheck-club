@@ -1,6 +1,6 @@
 # TEJÁ VU: Yaima, Halloween Night at Teja House
 
-TEJÁ VU: Yaima, Halloween Night at Teja House on Fri 30 Oct, Lisbon. Preview the line-up and save it on soundcheck.
+TEJÁ VU: Yaima, Halloween Night at Teja House on Fri 30 Oct, Lisbon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

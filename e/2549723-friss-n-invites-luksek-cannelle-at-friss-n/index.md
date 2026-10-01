@@ -1,6 +1,6 @@
 # Frissón Invites Luksek & Cannelle at Frissón
 
-Frissón Invites Luksek & Cannelle on Sat 3 Oct, Rome. 2 artists on the bill: Cannelle and Luksek. Preview the line-up and save it on soundcheck.
+Frissón Invites Luksek & Cannelle on Sat 3 Oct, Rome. 2 artists: Cannelle and Luksek. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

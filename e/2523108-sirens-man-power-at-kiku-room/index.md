@@ -1,6 +1,6 @@
 # Sirens: Man Power at Kiku Room
 
-Sirens: Man Power at Kiku Room on Sun 11 Oct, San Diego. 2 artists on the bill: Man Power and Tavish. House and Disco. Preview the line-up and save it on soundcheck.
+Sirens: Man Power at Kiku Room on Sun 11 Oct, San Diego. 2 artists: Man Power and Tavish. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

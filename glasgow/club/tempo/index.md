@@ -1,8 +1,8 @@
 # Tempo
 
-Tempo is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "PRTY: Black Traffic, Tempo" on Sat, 10 Oct 2026.
+Tempo is a music venue in Glasgow with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PRTY: Black Traffic, Tempo" on Sat, 10 Oct 2026.
 
-Tempo is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Black Traffic. Browse upcoming dates, start times and who's playing. 70 Dumbarton Rd, Clydebank G81 1UG.
+Tempo is a music venue in Glasgow listed on soundcheck. 3 upcoming gigs, with line-ups including Black Traffic. See dates, start times and who's playing. 70 Dumbarton Rd, Clydebank G81 1UG.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # TBA - Port of Belgrade
 
-TBA - Port of Belgrade is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "REACT Festival 2026" on Fri, 2 Oct 2026.
+TBA - Port of Belgrade is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "REACT Festival 2026" on Fri, 2 Oct 2026.
 
-TBA - Port of Belgrade is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including ACOR, AEREA, Alycia Bezgo and Asarri and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Port of Belgrade is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including ACOR, AEREA, Alycia Bezgo and Asarri and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

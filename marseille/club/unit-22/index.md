@@ -1,8 +1,8 @@
 # Unité.22
 
-Unité.22 is a music venue in Marseille with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "U.22 X Molekül: JKS, CVNSUMED, Leïka" on Fri, 2 Oct 2026.
+Unité.22 is a music venue in Marseille with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "U.22 X Molekül: JKS, CVNSUMED, Leïka" on Fri, 2 Oct 2026.
 
-Unité.22 is a music venue in Marseille listed on soundcheck. 5 upcoming gigs, with line-ups including Boskøw, CVNSUMED, Feroui and JKS and 2 more. Browse upcoming dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
+Unité.22 is a music venue in Marseille listed on soundcheck. 5 upcoming gigs, with line-ups including Boskøw, CVNSUMED, Feroui and JKS and 2 more. See dates, start times and who's playing. 22 rue jobin, 13003 Marseille.
 
 ## What's on
 

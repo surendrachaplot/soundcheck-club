@@ -1,6 +1,6 @@
 # SECOND SESSION - SEKTOR45 at Armazém 124, Oliveira de Azeméis
 
-SECOND SESSION - SEKTOR45 at Armazém 124, Oliveira de Azeméis on Sat 17 Oct, Porto. 2 artists on the bill: GAIVEU and La Vera Notte. Techno. Preview the line-up and save it on soundcheck.
+SECOND SESSION - SEKTOR45 at Armazém 124, Oliveira de Azeméis on Sat 17 Oct, Porto. 2 artists: GAIVEU and La Vera Notte. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

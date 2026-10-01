@@ -1,6 +1,6 @@
 # Licht und Dunkelheit: Gran Bankrott & Kate Push at Shh Listening Bar
 
-Licht und Dunkelheit: Gran Bankrott & Kate Push at Shh Listening Bar on Fri 9 Oct, Vienna. Preview the line-up and save it on soundcheck.
+Licht und Dunkelheit: Gran Bankrott & Kate Push at Shh Listening Bar on Fri 9 Oct, Vienna. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

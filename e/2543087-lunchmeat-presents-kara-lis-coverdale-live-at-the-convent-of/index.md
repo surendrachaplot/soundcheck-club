@@ -1,6 +1,6 @@
 # Lunchmeat presents Kara-Lis Coverdale live at The Convent of St. Agnes
 
-Lunchmeat presents Kara-Lis Coverdale live at The Convent of St. Agnes on Sun 8 Nov, Prague. 1 artist on the bill: Kara-Lis Coverdale. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Lunchmeat presents Kara-Lis Coverdale live at The Convent of St. Agnes on Sun 8 Nov, Prague. 1 artist: Kara-Lis Coverdale. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

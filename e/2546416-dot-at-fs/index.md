@@ -1,6 +1,6 @@
 # DOT at FS.
 
-DOT at FS. on Sun 11 Oct, Tokyo. R&B. Preview the line-up and save it on soundcheck.
+DOT at FS. on Sun 11 Oct, Tokyo. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

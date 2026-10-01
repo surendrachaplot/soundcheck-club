@@ -1,6 +1,6 @@
 # BΛLK / INIT_001 at Begrüntes Haus
 
-BΛLK / INIT_001 at Begrüntes Haus on Sat 31 Oct, Bangkok. 2 artists on the bill: dandarplaya and JANEIN. Techno and Experimental. Preview the line-up and save it on soundcheck.
+BΛLK / INIT_001 at Begrüntes Haus on Sat 31 Oct, Bangkok. 2 artists: dandarplaya and JANEIN. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

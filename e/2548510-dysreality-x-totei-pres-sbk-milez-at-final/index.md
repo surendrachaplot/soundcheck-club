@@ -1,6 +1,6 @@
 # Dysreality X Totei pres. sbk MileZ at Final
 
-Dysreality X Totei pres. sbk MileZ at Final on Fri 2 Oct, Taipei. 3 artists on the bill: MileZ, sbk and Spykee Fat. Preview the line-up and save it on soundcheck.
+Dysreality X Totei pres. sbk MileZ at Final on Fri 2 Oct, Taipei. 3 artists: MileZ, sbk and Spykee Fat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

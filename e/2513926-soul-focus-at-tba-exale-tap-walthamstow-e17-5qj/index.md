@@ -1,6 +1,6 @@
 # Soul Focus at TBA - Exale Tap, Walthamstow, E17 5QJ
 
-Soul Focus at TBA - Exale Tap, Walthamstow, E17 5QJ on Sat 3 Oct, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+Soul Focus at TBA - Exale Tap, Walthamstow, E17 5QJ on Sat 3 Oct, London. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

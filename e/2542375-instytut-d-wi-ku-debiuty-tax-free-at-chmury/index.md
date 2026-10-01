@@ -1,6 +1,6 @@
 # Instytut Dźwięku: Debiuty (TAX FREE) at Chmury
 
-Instytut Dźwięku: Debiuty (TAX FREE) at Chmury on Tue 27 Oct, Warsaw. Bass and Psytrance. Preview the line-up and save it on soundcheck.
+Instytut Dźwięku: Debiuty (TAX FREE) at Chmury on Tue 27 Oct, Warsaw. Bass and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

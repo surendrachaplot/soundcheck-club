@@ -1,6 +1,6 @@
 # luca.and.friends. mit Luca ( Minimal Bar) & Freunde at Minimal Bar
 
-luca.and.friends. mit Luca ( Minimal Bar) & Freunde on Fri 16 Oct, Berlin. Preview the line-up and save it on soundcheck.
+luca.and.friends. mit Luca ( Minimal Bar) & Freunde on Fri 16 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

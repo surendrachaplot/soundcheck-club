@@ -1,6 +1,6 @@
 # AUDIOHOLICS x UB FESTIVAL at Aussie World
 
-AUDIOHOLICS x UB FESTIVAL at Aussie World on Fri 2 Oct, Queensland. 2 artists on the bill: Eelke Kleijn and Mariano Mellino. Preview the line-up and save it on soundcheck.
+AUDIOHOLICS x UB FESTIVAL at Aussie World on Fri 2 Oct, Queensland. 2 artists: Eelke Kleijn and Mariano Mellino. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

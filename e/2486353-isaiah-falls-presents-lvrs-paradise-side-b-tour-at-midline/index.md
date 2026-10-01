@@ -1,6 +1,6 @@
 # ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR at Midline
 
-ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR at Midline on Tue 20 Oct, Miami. R&B. Preview the line-up and save it on soundcheck.
+ISAIAH FALLS PRESENTS: LVRS PARADISE - SIDE B TOUR at Midline on Tue 20 Oct, Miami. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

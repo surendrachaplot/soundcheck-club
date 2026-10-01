@@ -1,6 +1,6 @@
 # Chain Reaction at Fitzroy
 
-Chain Reaction at Fitzroy on Fri 23 Oct, Berlin. 4 artists on the bill: Adri Alibi, Dj handbag, Drama Hexe and Posture. Progressive House and House. Preview the line-up and save it on soundcheck.
+Chain Reaction at Fitzroy on Fri 23 Oct, Berlin. 4 artists: Adri Alibi, Dj handbag, Drama Hexe and Posture. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

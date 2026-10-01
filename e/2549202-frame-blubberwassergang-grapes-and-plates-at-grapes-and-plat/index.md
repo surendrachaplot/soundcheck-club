@@ -1,6 +1,6 @@
 # Frame × Blubberwassergang × Grapes and Plates at Grapes and Plates
 
-Frame × Blubberwassergang × Grapes and Plates on Sat 17 Oct, Hamburg. 6 artists on the bill: Alexej, Burak55, JASHTECH and NELØ and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Frame × Blubberwassergang × Grapes and Plates on Sat 17 Oct, Hamburg. 6 artists: Alexej, Burak55, JASHTECH and NELØ and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

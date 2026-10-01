@@ -1,6 +1,6 @@
 # 99db at OT301
 
-99db at OT301 on Fri 9 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+99db at OT301 on Fri 9 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EU - Fri, 2 Oct - SECRET LOCATION RAVE #7 at TBA - Secret Location
 
-EU - Fri, 2 Oct - SECRET LOCATION RAVE #7 at TBA - Secret Location on Fri 2 Oct, Bucharest. Techno and Acid. Preview the line-up and save it on soundcheck.
+EU - Fri, 2 Oct - SECRET LOCATION RAVE #7 at TBA - Secret Location on Fri 2 Oct, Bucharest. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

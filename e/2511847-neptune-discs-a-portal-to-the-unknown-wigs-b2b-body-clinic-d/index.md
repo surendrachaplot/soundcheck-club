@@ -1,6 +1,6 @@
 # Neptune Discs: A Portal to the Unknown — Wigs b2b Body Clinic (day party) at People's Leisure Club
 
-Neptune Discs: A Portal to the Unknown — Wigs b2b Body Clinic (day party) at People's Leisure Club on Sat 10 Oct, Edinburgh. 4 artists on the bill: Astro, Body Clinic, Plastic GRN and Wigs. Progressive House. Preview the line-up and save it on soundcheck.
+Neptune Discs: A Portal to the Unknown — Wigs b2b Body Clinic (day party) at People's Leisure Club on Sat 10 Oct, Edinburgh. 4 artists: Astro, Body Clinic, Plastic GRN and Wigs. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

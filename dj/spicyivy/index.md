@@ -1,8 +1,8 @@
 # SPICYIVY
 
-SPICYIVY is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Model, Nottingham on Sat, 31 Oct 2026.
+SPICYIVY is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Model, Nottingham on Sat, 31 Oct 2026.
 
-SPICYIVY is a house and disco artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Bristol, Cardiff, London and Nottingham. Often billed alongside Safiye, Brad Bradley and Burly Chassis. Next up: The Model, Nottingham on Sat 31 Oct.
+SPICYIVY is a house and disco artist based in United Kingdom, with 52 gigs on soundcheck across Bristol, Cardiff, London and Nottingham. Often billed alongside Safiye, Brad Bradley and Burly Chassis. Next up: The Model, Nottingham on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SPICYIVY is a house and disco artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Ministry Of Sound, London — Sat, 4 Jul 2026
-- Sawmills, Bristol — Sat, 27 Jun 2026
-- The Love Inn, Bristol — Sat, 13 Jun 2026
-- Strange Brew, Bristol — Fri, 5 Jun 2026
-- Sawmills, Bristol — Sat, 16 May 2026
-- Electric Bristol, Bristol — Sat, 9 May 2026
-- The Red Church, Bristol — Sat, 2 May 2026
-- Mickey Zoggs, Bristol — Sat, 4 Apr 2026
+- Ministry Of Sound, London · Sat, 4 Jul 2026
+- Sawmills, Bristol · Sat, 27 Jun 2026
+- The Love Inn, Bristol · Sat, 13 Jun 2026
+- Strange Brew, Bristol · Fri, 5 Jun 2026
+- Sawmills, Bristol · Sat, 16 May 2026
+- Electric Bristol, Bristol · Sat, 9 May 2026
+- The Red Church, Bristol · Sat, 2 May 2026
+- Mickey Zoggs, Bristol · Sat, 4 Apr 2026
 
 ## Shares bills with
 

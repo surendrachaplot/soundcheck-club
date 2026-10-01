@@ -1,8 +1,8 @@
 # Pablo Bozzi
 
-Pablo Bozzi is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Wall, El-paso on Fri, 9 Oct 2026.
+Pablo Bozzi is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Wall, El-paso on Fri, 9 Oct 2026.
 
-Pablo Bozzi is a techno and house artist based in Germany, tracked on soundcheck, with 215 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Phase Fatale, Jen Cardini and DJ Gigola. Next up: The Wall, El Paso on Fri 9 Oct.
+Pablo Bozzi is a techno and house artist based in Germany, with 215 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Phase Fatale, Jen Cardini and DJ Gigola. Next up: The Wall, El Paso on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Pablo Bozzi is a techno and house artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Switch, Porto — Fri, 25 Sept 2026
-- KHIDI, Tbilisi — Fri, 18 Sept 2026
-- Else, Berlin — Sun, 6 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 14 Aug 2026
-- Knockdown Center, New York City — Sun, 9 Aug 2026
-- Smoke & Mirrors, Chicago — Sat, 8 Aug 2026
-- StereoBar, Montreal — Fri, 7 Aug 2026
-- TILLATEC, Amsterdam — Sun, 2 Aug 2026
+- Switch, Porto · Fri, 25 Sept 2026
+- KHIDI, Tbilisi · Fri, 18 Sept 2026
+- Else, Berlin · Sun, 6 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 14 Aug 2026
+- Knockdown Center, New York City · Sun, 9 Aug 2026
+- Smoke & Mirrors, Chicago · Sat, 8 Aug 2026
+- StereoBar, Montreal · Fri, 7 Aug 2026
+- TILLATEC, Amsterdam · Sun, 2 Aug 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Moritz von Oswald
 
-Moritz von Oswald is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Signal, New York City on Sat, 3 Oct 2026.
+Moritz von Oswald is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Signal, New York City on Sat, 3 Oct 2026.
 
-Moritz von Oswald is a techno and dub techno artist based in Germany, tracked on soundcheck, with 61 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Azu Tiwaline, Lena Willikens and DjRUM. Next up: Signal, New York City on Sat 3 Oct.
+Moritz von Oswald is a techno and dub techno artist based in Germany, with 61 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Azu Tiwaline, Lena Willikens and DjRUM. Next up: Signal, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Moritz von Oswald is a techno and dub techno artist based in Germany, tracked on
 
 ## Recently played
 
-- Lux Fragil, Lisbon — Fri, 10 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 26 Jun 2026
-- Umoya, Naples — Fri, 5 Jun 2026
-- Hart Plaza, Detroit — Sat, 23 May 2026
-- Nowadays, New York City — Fri, 22 May 2026
-- TBA - The Bridge, Los Angeles — Sun, 17 May 2026
-- TBA - Multiple SF Venues, San Francisco/Oakland — Thu, 14 May 2026
-- Kaiku, Helsinki — Fri, 8 May 2026
+- Lux Fragil, Lisbon · Fri, 10 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 26 Jun 2026
+- Umoya, Naples · Fri, 5 Jun 2026
+- Hart Plaza, Detroit · Sat, 23 May 2026
+- Nowadays, New York City · Fri, 22 May 2026
+- TBA - The Bridge, Los Angeles · Sun, 17 May 2026
+- TBA - Multiple SF Venues, San Francisco/Oakland · Thu, 14 May 2026
+- Kaiku, Helsinki · Fri, 8 May 2026
 
 ## Shares bills with
 

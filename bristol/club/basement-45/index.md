@@ -1,8 +1,8 @@
 # Basement 45
 
-Basement 45 is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ROSA & TEMI'S TAKEOVER - pres. by DJ Thursday" on Thu, 8 Oct 2026.
+Basement 45 is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ROSA & TEMI'S TAKEOVER - pres. by DJ Thursday" on Thu, 8 Oct 2026.
 
-Basement 45 is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including RodCee. Browse upcoming dates, start times and who's playing. 8 Frogmore Street; Bristol; BS1 5NA, United Kingdom.
+Basement 45 is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including RodCee. See dates, start times and who's playing. 8 Frogmore Street; Bristol; BS1 5NA, United Kingdom.
 
 ## What's on
 

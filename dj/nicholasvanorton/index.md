@@ -1,8 +1,8 @@
 # Nicholas Van Orton
 
-Nicholas Van Orton is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Opposite, Barcelona on Fri, 16 Oct 2026.
+Nicholas Van Orton is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Opposite, Barcelona on Fri, 16 Oct 2026.
 
-Nicholas Van Orton is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 1 more. Often billed alongside Seesko, Tom Pavicich and Emeveka. Next up: Opposite, Barcelona on Fri 16 Oct.
+Nicholas Van Orton is a progressive house and techno artist based in Argentina, with 10 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 1 more. Often billed alongside Seesko, Tom Pavicich and Emeveka. Next up: Opposite, Barcelona on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,13 +14,13 @@ Nicholas Van Orton is a progressive house and techno artist based in Argentina, 
 
 ## Recently played
 
-- TBA - El Muelle, Costanera, Buenos Aires — Sat, 18 Jul 2026
-- PETER'S, Berlin — Sat, 1 Nov 2025
-- Nachtleben Berlin, Berlin — Fri, 31 Oct 2025
-- Kadinsky Cafe, Amsterdam — Sun, 26 Oct 2025
-- Kadinsky Cafe, Amsterdam — Wed, 22 Oct 2025
-- Krypt Bar, Vienna — Sat, 18 Oct 2025
-- TBA - El Muelle, Costanera, Buenos Aires — Sat, 6 Apr 2024
+- TBA - El Muelle, Costanera, Buenos Aires · Sat, 18 Jul 2026
+- PETER'S, Berlin · Sat, 1 Nov 2025
+- Nachtleben Berlin, Berlin · Fri, 31 Oct 2025
+- Kadinsky Cafe, Amsterdam · Sun, 26 Oct 2025
+- Kadinsky Cafe, Amsterdam · Wed, 22 Oct 2025
+- Krypt Bar, Vienna · Sat, 18 Oct 2025
+- TBA - El Muelle, Costanera, Buenos Aires · Sat, 6 Apr 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Adult DVD + Vlasta at Café V Lese
 
-Adult DVD + Vlasta at Café V Lese on Mon 16 Nov, Prague. Preview the line-up and save it on soundcheck.
+Adult DVD + Vlasta at Café V Lese on Mon 16 Nov, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

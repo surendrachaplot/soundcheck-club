@@ -1,6 +1,6 @@
 # New North Indie: One-Dayer at Belgrave Music Hall
 
-New North Indie: One-Dayer at Belgrave Music Hall on Sat 10 Oct, Leeds. Preview the line-up and save it on soundcheck.
+New North Indie: One-Dayer at Belgrave Music Hall on Sat 10 Oct, Leeds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

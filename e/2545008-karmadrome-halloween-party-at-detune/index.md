@@ -1,6 +1,6 @@
 # Karmadrome: Halloween Party at Detune
 
-Karmadrome: Halloween Party at Detune on Sat 31 Oct, Milan. Club and Electronica. Preview the line-up and save it on soundcheck.
+Karmadrome: Halloween Party at Detune on Sat 31 Oct, Milan. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

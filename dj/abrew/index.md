@@ -1,8 +1,8 @@
 # Abrew
 
-Abrew is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at K-Bar Powiśle, Warsaw on Sat, 10 Oct 2026.
+Abrew is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at K-Bar Powiśle, Warsaw on Sat, 10 Oct 2026.
 
-Abrew is a techno and trance artist tracked on soundcheck, with 96 sets logged across Krakow, Prague and Warsaw. Often billed alongside Kobayashkn, dj.zamocno and bolo. Next up: K-Bar Powiśle, Warsaw on Sat 10 Oct.
+Abrew is a techno and trance artist, with 96 gigs on soundcheck across Krakow, Prague and Warsaw. Often billed alongside Kobayashkn, dj.zamocno and bolo. Next up: K-Bar Powiśle, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Abrew is a techno and trance artist tracked on soundcheck, with 96 sets logged a
 
 ## Recently played
 
-- Noce KRK, Krakow — Sat, 26 Sept 2026
-- K-Bar Powiśle, Warsaw — Sat, 19 Sept 2026
-- Jasna 1, Warsaw — Fri, 4 Sept 2026
-- Smolna, Warsaw — Sat, 8 Aug 2026
-- K-Bar Powiśle, Warsaw — Fri, 26 Jun 2026
-- Sekta Selekta, Krakow — Wed, 3 Jun 2026
-- underiolo, Warsaw — Sat, 25 Apr 2026
-- underiolo, Warsaw — Thu, 23 Apr 2026
+- Noce KRK, Krakow · Sat, 26 Sept 2026
+- K-Bar Powiśle, Warsaw · Sat, 19 Sept 2026
+- Jasna 1, Warsaw · Fri, 4 Sept 2026
+- Smolna, Warsaw · Sat, 8 Aug 2026
+- K-Bar Powiśle, Warsaw · Fri, 26 Jun 2026
+- Sekta Selekta, Krakow · Wed, 3 Jun 2026
+- underiolo, Warsaw · Sat, 25 Apr 2026
+- underiolo, Warsaw · Thu, 23 Apr 2026
 
 ## Shares bills with
 

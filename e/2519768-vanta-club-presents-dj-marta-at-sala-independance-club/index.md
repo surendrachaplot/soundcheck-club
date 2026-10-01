@@ -1,6 +1,6 @@
 # VANTA CLUB presents DJ MARTA at Sala Independance Club
 
-VANTA CLUB presents DJ MARTA at Sala Independance Club on Thu 24 Dec, Madrid. 2 artists on the bill: DJ Marta and TOTTI. Preview the line-up and save it on soundcheck.
+VANTA CLUB presents DJ MARTA at Sala Independance Club on Thu 24 Dec, Madrid. 2 artists: DJ Marta and TOTTI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

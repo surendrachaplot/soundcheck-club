@@ -1,6 +1,6 @@
 # Peace Control at The Church Nightclub
 
-Peace Control at The Church Nightclub on Sat 10 Oct, Denver. 1 artist on the bill: Peace Control. Club and Afro House. Preview the line-up and save it on soundcheck.
+Peace Control at The Church Nightclub on Sat 10 Oct, Denver. 1 artist: Peace Control. Club and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Refuge Sunday Daytime: Marcellus Pittman, Glenn Underground, Razor-N-Tape at Refuge
 
-Refuge Sunday Daytime: Marcellus Pittman, Glenn Underground, Razor-N-Tape on Sun 4 Oct, New York City. 2 artists on the bill: Glenn Underground and Marcellus Pittman. Preview the line-up and save it on soundcheck.
+Refuge Sunday Daytime: Marcellus Pittman, Glenn Underground, Razor-N-Tape on Sun 4 Oct, New York City. 2 artists: Glenn Underground and Marcellus Pittman. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

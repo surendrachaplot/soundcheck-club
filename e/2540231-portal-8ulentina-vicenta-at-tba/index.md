@@ -1,6 +1,6 @@
 # PORTAL: 8ULENTINA + Vicenta at TBA
 
-PORTAL: 8ULENTINA + Vicenta at TBA on Sat 10 Oct, Philadelphia. 6 artists on the bill: 8ULENTINA, Obreezy Beats, RESONATE.JPEG and Speed.FM and 2 more. Experimental and Club. Preview the line-up and save it on soundcheck.
+PORTAL: 8ULENTINA + Vicenta at TBA on Sat 10 Oct, Philadelphia. 6 artists: 8ULENTINA, Obreezy Beats, RESONATE.JPEG and Speed.FM and 2 more. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LIVE FROM EARTH LABEL NIGHT: DJ GIGOLA, CLARA KIMERA + SECRET GUEST at Fvtvr
 
-LIVE FROM EARTH LABEL NIGHT: DJ GIGOLA, CLARA KIMERA + SECRET GUEST at Fvtvr on Sat 3 Oct, Paris. 1 artist on the bill: DJ Gigola. Techno and Electro. Preview the line-up and save it on soundcheck.
+LIVE FROM EARTH LABEL NIGHT: DJ GIGOLA, CLARA KIMERA + SECRET GUEST at Fvtvr on Sat 3 Oct, Paris. 1 artist: DJ Gigola. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

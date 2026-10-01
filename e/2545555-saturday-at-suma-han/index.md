@@ -1,6 +1,6 @@
 # SATURDAY at Suma Han
 
-SATURDAY at Suma Han on Sat 3 Oct, Istanbul. House and Club. Preview the line-up and save it on soundcheck.
+SATURDAY at Suma Han on Sat 3 Oct, Istanbul. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

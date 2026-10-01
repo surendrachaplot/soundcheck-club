@@ -1,6 +1,6 @@
 # Freenetica Crew x Jazz-O-Tech at Giri
 
-Freenetica Crew x Jazz-O-Tech at Giri on Thu 8 Oct, Berlin. 4 artists on the bill: Linda shiro, Mat Hex, Phreenetic and Planetary Echoes. Techno and Jazz. Preview the line-up and save it on soundcheck.
+Freenetica Crew x Jazz-O-Tech at Giri on Thu 8 Oct, Berlin. 4 artists: Linda shiro, Mat Hex, Phreenetic and Planetary Echoes. Techno and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

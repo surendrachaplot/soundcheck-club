@@ -1,6 +1,6 @@
 # Techno Cage Rave - HOTBOXX at The Grand Social
 
-Techno Cage Rave - HOTBOXX at The Grand Social on Sat 3 Oct, Dublin. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Techno Cage Rave - HOTBOXX at The Grand Social on Sat 3 Oct, Dublin. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

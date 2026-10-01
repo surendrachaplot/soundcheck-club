@@ -1,6 +1,6 @@
 # KOMPASS presents RAVE REBELS XXL at Palais 12 / Paleis 12 (ING Arena)
 
-KOMPASS presents RAVE REBELS XXL at Palais 12 / Paleis 12 (ING Arena) on Sat 7 Nov, Brussels. 7 artists on the bill: A.N.I., BYØRN, Holy Priest and NEGITIV and 3 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+KOMPASS presents RAVE REBELS XXL at Palais 12 / Paleis 12 (ING Arena) on Sat 7 Nov, Brussels. 7 artists: A.N.I., BYØRN, Holy Priest and NEGITIV and 3 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

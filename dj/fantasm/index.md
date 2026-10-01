@@ -1,8 +1,8 @@
 # Fantasm
 
-Fantasm is a Techno and Hardcore artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pavilhão Carlos Lopes, Lisbon on Fri, 2 Oct 2026.
+Fantasm is a Techno and Hardcore artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pavilhão Carlos Lopes, Lisbon on Fri, 2 Oct 2026.
 
-Fantasm is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 2 Oct.
+Fantasm is a techno and hardcore artist based in United States of America, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 43 more. Often billed alongside KLOFAMA, NOVAH and Holy Priest. Next up: Pavilhão Carlos Lopes, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Fantasm is a techno and hardcore artist based in United States of America, track
 
 ## Recently played
 
-- The Telegraph Building, Belfast — Sat, 26 Sept 2026
-- IFEMA, Madrid — Fri, 25 Sept 2026
-- Eden, Ibiza — Tue, 15 Sept 2026
-- Level 1 @ Cannonball Arts, Seattle — Fri, 11 Sept 2026
-- Palace of Fine Arts, San Francisco/Oakland — Sun, 6 Sept 2026
-- Palace of Fine Arts, San Francisco/Oakland — Sun, 6 Sept 2026
-- TBA - Wasteland Festival, Cologne — Sat, 5 Sept 2026
-- Carlswerk Victoria, Cologne — Fri, 4 Sept 2026
+- The Telegraph Building, Belfast · Sat, 26 Sept 2026
+- IFEMA, Madrid · Fri, 25 Sept 2026
+- Eden, Ibiza · Tue, 15 Sept 2026
+- Level 1 @ Cannonball Arts, Seattle · Fri, 11 Sept 2026
+- Palace of Fine Arts, San Francisco/Oakland · Sun, 6 Sept 2026
+- Palace of Fine Arts, San Francisco/Oakland · Sun, 6 Sept 2026
+- TBA - Wasteland Festival, Cologne · Sat, 5 Sept 2026
+- Carlswerk Victoria, Cologne · Fri, 4 Sept 2026
 
 ## Shares bills with
 

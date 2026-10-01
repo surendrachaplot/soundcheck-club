@@ -1,6 +1,6 @@
 # SUA by PHAT Collective at Stage and Radio
 
-SUA by PHAT Collective at Stage and Radio on Fri 6 Nov, Manchester. 1 artist on the bill: INDITH. Techno and Garage. Preview the line-up and save it on soundcheck.
+SUA by PHAT Collective at Stage and Radio on Fri 6 Nov, Manchester. 1 artist: INDITH. Techno and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

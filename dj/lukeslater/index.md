@@ -1,8 +1,8 @@
 # Luke Slater
 
-Luke Slater is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+Luke Slater is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
 
-Luke Slater is a techno and house artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside JakoJako, Rene Wise and Steffi. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
+Luke Slater is a techno and house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 42 more. Often billed alongside JakoJako, Rene Wise and Steffi. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Luke Slater is a techno and house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Tapada da Ajuda, Lisbon — Sat, 26 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
-- RADION, Amsterdam — Sat, 1 Aug 2026
-- Boomtown (Kouter), Ghent — Thu, 23 Jul 2026
-- Fabrik, Madrid — Sat, 11 Jul 2026
+- Tapada da Ajuda, Lisbon · Sat, 26 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- La Pinilla Ski Resort, Madrid · Mon, 10 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 8 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
+- RADION, Amsterdam · Sat, 1 Aug 2026
+- Boomtown (Kouter), Ghent · Thu, 23 Jul 2026
+- Fabrik, Madrid · Sat, 11 Jul 2026
 
 ## Shares bills with
 

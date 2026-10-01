@@ -1,8 +1,8 @@
 # Bitter Babe
 
-Bitter Babe is a Techno and Latin Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+Bitter Babe is a Techno and Latin Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
-Bitter Babe is a techno and latin bass artist based in Colombia, tracked on soundcheck, with 174 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Verraco, Nick León and Kia (AU). Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
+Bitter Babe is a techno and latin bass artist based in Colombia, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 45 more. Often billed alongside Verraco, Nick León and Kia (AU). Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Bitter Babe is a techno and latin bass artist based in Colombia, tracked on soun
 
 ## Recently played
 
-- National Gallery Prague, Prague — Sat, 26 Sept 2026
-- Outernet Live, London — Fri, 25 Sept 2026
-- Various Venues, London — Thu, 24 Sept 2026
-- The White Hotel, Manchester — Fri, 18 Sept 2026
-- CLUB RAUM, Amsterdam — Fri, 11 Sept 2026
-- Circle Park, Brussels — Sat, 29 Aug 2026
-- Backsteinboot, Berlin — Sat, 15 Aug 2026
-- Ääniwalli, Helsinki — Fri, 14 Aug 2026
+- National Gallery Prague, Prague · Sat, 26 Sept 2026
+- Outernet Live, London · Fri, 25 Sept 2026
+- Various Venues, London · Thu, 24 Sept 2026
+- The White Hotel, Manchester · Fri, 18 Sept 2026
+- CLUB RAUM, Amsterdam · Fri, 11 Sept 2026
+- Circle Park, Brussels · Sat, 29 Aug 2026
+- Backsteinboot, Berlin · Sat, 15 Aug 2026
+- Ääniwalli, Helsinki · Fri, 14 Aug 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # John Talabot
 
-John Talabot is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Observatory, Ho-chi-minh-city on Fri, 2 Oct 2026.
+John Talabot is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Observatory, Ho-chi-minh-city on Fri, 2 Oct 2026.
 
-John Talabot is a house and techno artist based in Spain, tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside mad miran, Nicolas Lutz and Christian AB. Next up: The Observatory, Ho Chi Minh City on Fri 2 Oct.
+John Talabot is a house and techno artist based in Spain, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 53 more. Often billed alongside mad miran, Nicolas Lutz and Christian AB. Next up: The Observatory, Ho Chi Minh City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ John Talabot is a house and techno artist based in Spain, tracked on soundcheck,
 
 ## Recently played
 
-- Plano B, Porto — Fri, 25 Sept 2026
-- Moog Club, Barcelona — Wed, 23 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Nowadays, New York City — Sat, 12 Sept 2026
-- Place Poelaertplein, Brussels — Sat, 29 Aug 2026
-- The Cause, London — Sat, 15 Aug 2026
-- Strange Brew, Bristol — Sat, 1 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 1 Aug 2026
+- Plano B, Porto · Fri, 25 Sept 2026
+- Moog Club, Barcelona · Wed, 23 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Nowadays, New York City · Sat, 12 Sept 2026
+- Place Poelaertplein, Brussels · Sat, 29 Aug 2026
+- The Cause, London · Sat, 15 Aug 2026
+- Strange Brew, Bristol · Sat, 1 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 1 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Shadowbeats presents The Warren - Deep House / Dark Techno at Danger Danger
 
-Shadowbeats presents The Warren - Deep House / Dark Techno at Danger Danger on Fri 2 Oct, New York City. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Shadowbeats presents The Warren - Deep House / Dark Techno at Danger Danger on Fri 2 Oct, New York City. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

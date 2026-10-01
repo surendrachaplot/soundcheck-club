@@ -1,6 +1,6 @@
 # Riddim Bandits — Euphoric Festival at Forge
 
-Riddim Bandits — Euphoric Festival at Forge on Sun 4 Oct, Bucharest. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Riddim Bandits — Euphoric Festival at Forge on Sun 4 Oct, Bucharest. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

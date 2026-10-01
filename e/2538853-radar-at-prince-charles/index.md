@@ -1,6 +1,6 @@
 # Radar at Prince Charles
 
-Radar at Prince Charles on Sat 5 Dec, Berlin. House. Preview the line-up and save it on soundcheck.
+Radar at Prince Charles on Sat 5 Dec, Berlin. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

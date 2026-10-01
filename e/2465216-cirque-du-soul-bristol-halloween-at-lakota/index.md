@@ -1,6 +1,6 @@
 # Cirque Du Soul: Bristol // Halloween at Lakota
 
-Cirque Du Soul: Bristol // Halloween at Lakota on Thu 29 Oct, Bristol. 3 artists on the bill: Dan Shake, KING BOOO! and MiNNA. House and Garage. Preview the line-up and save it on soundcheck.
+Cirque Du Soul: Bristol // Halloween at Lakota on Thu 29 Oct, Bristol. 3 artists: Dan Shake, KING BOOO! and MiNNA. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

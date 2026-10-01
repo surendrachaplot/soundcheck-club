@@ -1,6 +1,6 @@
 # GEARBOX X RECKLESS RAVES: THE TEMPLE 008 at TBA - THE TEMPLE
 
-GEARBOX X RECKLESS RAVES: THE TEMPLE 008 at TBA - THE TEMPLE on Sat 28 Nov, Belfast. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+GEARBOX X RECKLESS RAVES: THE TEMPLE 008 at TBA - THE TEMPLE on Sat 28 Nov, Belfast. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 60 juno (US / live) at Kantine am Berghain
 
-60 juno (US / live) at Kantine am Berghain on Sat 21 Nov, Berlin. Post-Punk. Preview the line-up and save it on soundcheck.
+60 juno (US / live) at Kantine am Berghain on Sat 21 Nov, Berlin. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

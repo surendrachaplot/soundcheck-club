@@ -1,6 +1,6 @@
 # Cafe Mambo Ibiza Halloween Rooftop Party at The Broadcaster
 
-Cafe Mambo Ibiza Halloween Rooftop Party at The Broadcaster on Sat 31 Oct, London. 3 artists on the bill: Bongo Ben, Steve Taylor and Tristan Ingram. House and Disco. Preview the line-up and save it on soundcheck.
+Cafe Mambo Ibiza Halloween Rooftop Party at The Broadcaster on Sat 31 Oct, London. 3 artists: Bongo Ben, Steve Taylor and Tristan Ingram. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Dimuth K
 
-Dimuth K is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Watsons EQ, Sydney on Sat, 31 Oct 2026.
+Dimuth K is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Watsons EQ, Sydney on Sat, 31 Oct 2026.
 
-Dimuth K is a progressive house and deep house artist tracked on soundcheck, with 23 sets logged across Amsterdam, London, Melbourne and Montreal and 2 more. Often billed alongside Simply City, Hernan Cattaneo and Adiel. Next up: Watsons EQ, Sydney on Sat 31 Oct.
+Dimuth K is a progressive house and deep house artist, with 23 gigs on soundcheck across Amsterdam, London, Melbourne and Montreal and 2 more. Often billed alongside Simply City, Hernan Cattaneo and Adiel. Next up: Watsons EQ, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dimuth K is a progressive house and deep house artist tracked on soundcheck, wit
 
 ## Recently played
 
-- Bunker Toronto, Toronto — Fri, 11 Sept 2026
-- TBA - Roll this way Sushi, Toronto — Thu, 20 Aug 2026
-- Cherry Beach, Toronto — Sun, 26 Jul 2026
-- Sunnyside Pavilion, Toronto — Sat, 6 Jun 2026
-- Story Toronto, Toronto — Sat, 23 May 2026
-- Archives, London — Fri, 10 Apr 2026
-- Bourke Street Courtyard, Melbourne — Sat, 13 Dec 2025
-- Evergreen Brick Works, Toronto — Sun, 24 Aug 2025
+- Bunker Toronto, Toronto · Fri, 11 Sept 2026
+- TBA - Roll this way Sushi, Toronto · Thu, 20 Aug 2026
+- Cherry Beach, Toronto · Sun, 26 Jul 2026
+- Sunnyside Pavilion, Toronto · Sat, 6 Jun 2026
+- Story Toronto, Toronto · Sat, 23 May 2026
+- Archives, London · Fri, 10 Apr 2026
+- Bourke Street Courtyard, Melbourne · Sat, 13 Dec 2025
+- Evergreen Brick Works, Toronto · Sun, 24 Aug 2025
 
 ## Shares bills with
 

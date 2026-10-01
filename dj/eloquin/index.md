@@ -1,8 +1,8 @@
 # Eloquin
 
-Eloquin is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Eloquin is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
-Eloquin is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Brighton, Bristol and Leeds and 3 more. Often billed alongside After Hours, SUPPLY and Sophia Violet. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
+Eloquin is a garage and bass artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Brighton, Bristol and Leeds and 3 more. Often billed alongside After Hours, SUPPLY and Sophia Violet. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Eloquin is a garage and bass artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- Stage and Radio, Manchester — Sat, 16 May 2026
-- Hazy Club, Sheffield — Sat, 21 Feb 2026
-- Hazy Club, Sheffield — Sat, 13 Dec 2025
-- Concept Haus, Manchester — Fri, 31 Oct 2025
-- Document, Bristol — Fri, 3 Oct 2025
-- Planet Wax, London — Sat, 6 Sept 2025
-- Oculist, Brighton — Fri, 29 Aug 2025
-- Patterns, Brighton — Sat, 23 Nov 2024
+- Stage and Radio, Manchester · Sat, 16 May 2026
+- Hazy Club, Sheffield · Sat, 21 Feb 2026
+- Hazy Club, Sheffield · Sat, 13 Dec 2025
+- Concept Haus, Manchester · Fri, 31 Oct 2025
+- Document, Bristol · Fri, 3 Oct 2025
+- Planet Wax, London · Sat, 6 Sept 2025
+- Oculist, Brighton · Fri, 29 Aug 2025
+- Patterns, Brighton · Sat, 23 Nov 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Calling All - Moving Shadow / Over Shadow Special at St Bart's Church
 
-Calling All - Moving Shadow / Over Shadow Special at St Bart's Church on Sat 14 Nov, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Calling All - Moving Shadow / Over Shadow Special at St Bart's Church on Sat 14 Nov, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

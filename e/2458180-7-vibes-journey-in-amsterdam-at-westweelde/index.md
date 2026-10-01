@@ -1,6 +1,6 @@
 # 7 Vibes Journey in Amsterdam at WestWeelde
 
-7 Vibes Journey in Amsterdam at WestWeelde on Sat 14 Nov, Amsterdam. 3 artists on the bill: Ed Noodle, Mona Pirzad and VE/RA. Techno and Deep House. Preview the line-up and save it on soundcheck.
+7 Vibes Journey in Amsterdam at WestWeelde on Sat 14 Nov, Amsterdam. 3 artists: Ed Noodle, Mona Pirzad and VE/RA. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jack Marlow at Club Vinyl
 
-Jack Marlow at Club Vinyl on Sat 3 Oct, Denver. House and Garage. Preview the line-up and save it on soundcheck.
+Jack Marlow at Club Vinyl on Sat 3 Oct, Denver. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CZN Halloween × Cirque London at Cirque Du Soir
 
-CZN Halloween × Cirque London at Cirque Du Soir on Tue 27 Oct, London. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+CZN Halloween × Cirque London at Cirque Du Soir on Tue 27 Oct, London. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

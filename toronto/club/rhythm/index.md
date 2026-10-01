@@ -1,8 +1,8 @@
 # Rhythm
 
-Rhythm is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Long Play: Floating Points" on Thu, 1 Oct 2026.
+Rhythm is a music venue in Toronto with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Long Play: Floating Points" on Thu, 1 Oct 2026.
 
-Rhythm is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including Greg Burke, Hair Gel, Jaw Jones and Ostrich and 2 more. Browse upcoming dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
+Rhythm is a music venue in Toronto listed on soundcheck. 10 upcoming gigs, with line-ups including Greg Burke, Hair Gel, Jaw Jones and Ostrich and 2 more. See dates, start times and who's playing. 141 Bathurst Street, Toronto, Ontario, M5V 2R2, CANADA.
 
 ## What's on
 

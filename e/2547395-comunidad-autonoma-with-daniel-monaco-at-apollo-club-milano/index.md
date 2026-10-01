@@ -1,6 +1,6 @@
 # Comunidad Autonoma with Daniel Monaco at Apollo Club Milano
 
-Comunidad Autonoma with Daniel Monaco at Apollo Club Milano on Sat 3 Oct, Milan. 2 artists on the bill: Daniel Monaco and Milangeles. House and Afrobeat. Preview the line-up and save it on soundcheck.
+Comunidad Autonoma with Daniel Monaco at Apollo Club Milano on Sat 3 Oct, Milan. 2 artists: Daniel Monaco and Milangeles. House and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

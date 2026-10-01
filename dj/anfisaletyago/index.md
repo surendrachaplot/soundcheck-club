@@ -1,8 +1,8 @@
 # Anfisa Letyago
 
-Anfisa Letyago is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Audio Club, Geneva on Fri, 2 Oct 2026.
+Anfisa Letyago is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Audio Club, Geneva on Fri, 2 Oct 2026.
 
-Anfisa Letyago is a techno and house artist based in Italy, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: Audio Club, Geneva on Fri 2 Oct.
+Anfisa Letyago is a techno and house artist based in Italy, with 165 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Enrico Sangiuliano, Eli Brown and Héctor Oaks. Next up: Audio Club, Geneva on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ Anfisa Letyago is a techno and house artist based in Italy, tracked on soundchec
 
 ## Recently played
 
-- Nordstern, Basel — Sat, 19 Sept 2026
-- SAGE, Berlin — Sat, 5 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 1 Sept 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 8 Aug 2026
-- Amnesia Ibiza, Ibiza — Tue, 4 Aug 2026
-- Bolivar Beach Bar, Athens — Fri, 24 Jul 2026
-- Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
-- Forte Antenne, Rome — Sat, 20 Jun 2026
+- Nordstern, Basel · Sat, 19 Sept 2026
+- SAGE, Berlin · Sat, 5 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 1 Sept 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sat, 8 Aug 2026
+- Amnesia Ibiza, Ibiza · Tue, 4 Aug 2026
+- Bolivar Beach Bar, Athens · Fri, 24 Jul 2026
+- Parque Eduardo VII, Lisbon · Fri, 3 Jul 2026
+- Forte Antenne, Rome · Sat, 20 Jun 2026
 
 ## Shares bills with
 

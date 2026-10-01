@@ -1,6 +1,6 @@
 # God Bless This Whorehouse at Paragon
 
-God Bless This Whorehouse at Paragon on Thu 19 Nov, New York City. 5 artists on the bill: AK (US), Jin & Juice, Kilopatrah Jones and LITA DA DOLL and 1 more. House and Club. Preview the line-up and save it on soundcheck.
+God Bless This Whorehouse at Paragon on Thu 19 Nov, New York City. 5 artists: AK (US), Jin & Juice, Kilopatrah Jones and LITA DA DOLL and 1 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

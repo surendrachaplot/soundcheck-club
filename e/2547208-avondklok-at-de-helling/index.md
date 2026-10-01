@@ -1,6 +1,6 @@
 # AvondKlok at De Helling
 
-AvondKlok at De Helling on Fri 2 Oct, Utrecht. Club. Preview the line-up and save it on soundcheck.
+AvondKlok at De Helling on Fri 2 Oct, Utrecht. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

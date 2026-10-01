@@ -1,6 +1,6 @@
 # Places + Faces — London Party (+ a Secret Line-Up in a Secret Shoreditch Location) at TBA - Secret Shoreditch Location
 
-Places + Faces — London Party (+ a Secret Line-Up in a Secret Shoreditch Location) at TBA - Secret Shoreditch Location on Sat 21 Nov, London. Preview the line-up and save it on soundcheck.
+Places + Faces — London Party (+ a Secret Line-Up in a Secret Shoreditch Location) at TBA - Secret Shoreditch Location on Sat 21 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

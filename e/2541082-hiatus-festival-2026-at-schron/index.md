@@ -1,6 +1,6 @@
 # HIATUS FESTIVAL 2026 at SCHRON
 
-HIATUS FESTIVAL 2026 at SCHRON on Fri 6 Nov, Poznan. 2 artists on the bill: object blue and Trois-Quarts Taxi System. Preview the line-up and save it on soundcheck.
+HIATUS FESTIVAL 2026 at SCHRON on Fri 6 Nov, Poznan. 2 artists: object blue and Trois-Quarts Taxi System. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Night Tales Free Party: House & Tech House at Night Tales
 
-Night Tales Free Party: House & Tech House on Sat 17 Oct, London. House. Preview the line-up and save it on soundcheck.
+Night Tales Free Party: House & Tech House on Sat 17 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

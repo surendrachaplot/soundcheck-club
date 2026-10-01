@@ -1,6 +1,6 @@
 # Techno Classics Party at Silver Event Location
 
-Techno Classics Party at Silver Event Location on Sat 17 Oct, Berlin. Techno and Electro. Preview the line-up and save it on soundcheck.
+Techno Classics Party at Silver Event Location on Sat 17 Oct, Berlin. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

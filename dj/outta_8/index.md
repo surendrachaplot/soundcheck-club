@@ -1,8 +1,8 @@
 # outta_8
 
-outta_8 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 9 Oct 2026.
+outta_8 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 9 Oct 2026.
 
-outta_8 is a techno and house artist based in Poland, tracked on soundcheck, with 33 sets logged across Krakow. Often billed alongside Aetha, Piotr Figiel and 1 AM. Next up: STK 47 WAREHOUSE, Krakow on Fri 9 Oct.
+outta_8 is a techno and house artist based in Poland, with 33 gigs on soundcheck across Krakow. Often billed alongside Aetha, Piotr Figiel and 1 AM. Next up: STK 47 WAREHOUSE, Krakow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ outta_8 is a techno and house artist based in Poland, tracked on soundcheck, wit
 
 ## Recently played
 
-- Noce KRK, Krakow — Fri, 18 Sept 2026
-- Prozak 2.0, Krakow — Thu, 16 Jul 2026
-- Noce KRK, Krakow — Sat, 23 May 2026
-- Sekta Selekta, Krakow — Thu, 30 Apr 2026
-- Noce KRK, Krakow — Sun, 26 Apr 2026
-- Noce KRK, Krakow — Fri, 20 Mar 2026
-- Noce KRK, Krakow — Fri, 23 Jan 2026
-- Noce KRK, Krakow — Wed, 31 Dec 2025
+- Noce KRK, Krakow · Fri, 18 Sept 2026
+- Prozak 2.0, Krakow · Thu, 16 Jul 2026
+- Noce KRK, Krakow · Sat, 23 May 2026
+- Sekta Selekta, Krakow · Thu, 30 Apr 2026
+- Noce KRK, Krakow · Sun, 26 Apr 2026
+- Noce KRK, Krakow · Fri, 20 Mar 2026
+- Noce KRK, Krakow · Fri, 23 Jan 2026
+- Noce KRK, Krakow · Wed, 31 Dec 2025
 
 ## Shares bills with
 

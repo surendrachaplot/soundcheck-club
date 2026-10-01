@@ -1,6 +1,6 @@
 # End of an Error at The Grand Social
 
-End of an Error at The Grand Social on Thu 12 Nov, Dublin. Electro and Club. Preview the line-up and save it on soundcheck.
+End of an Error at The Grand Social on Thu 12 Nov, Dublin. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

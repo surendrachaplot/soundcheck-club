@@ -1,8 +1,8 @@
 # Marco Savo
 
-Marco Savo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Tola, London on Sat, 17 Oct 2026.
+Marco Savo is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tola, London on Sat, 17 Oct 2026.
 
-Marco Savo is a house and tech house artist based in Italy, tracked on soundcheck, with 10 sets logged across London. Often billed alongside Earnshaw, MADAMA and EDEF. Next up: Tola, London on Sat 17 Oct.
+Marco Savo is a house and tech house artist based in Italy, with 10 gigs on soundcheck across London. Often billed alongside Earnshaw, MADAMA and EDEF. Next up: Tola, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Marco Savo is a house and tech house artist based in Italy, tracked on soundchec
 
 ## Recently played
 
-- TBA - Ride or Die Tattoo & Piercing , London — Sat, 11 Jul 2026
-- Vittoria Wharf Studio, London — Sat, 18 Apr 2026
-- Aaja Basement, London — Sat, 22 Mar 2025
-- E1, London — Fri, 6 Sept 2024
-- E1, London — Fri, 28 Jun 2024
-- Bermondsey Social Club, London — Sat, 11 May 2024
-- Egg London, London — Fri, 3 May 2024
-- Love Shack LDN, London — Sat, 3 Feb 2024
+- TBA - Ride or Die Tattoo & Piercing , London · Sat, 11 Jul 2026
+- Vittoria Wharf Studio, London · Sat, 18 Apr 2026
+- Aaja Basement, London · Sat, 22 Mar 2025
+- E1, London · Fri, 6 Sept 2024
+- E1, London · Fri, 28 Jun 2024
+- Bermondsey Social Club, London · Sat, 11 May 2024
+- Egg London, London · Fri, 3 May 2024
+- Love Shack LDN, London · Sat, 3 Feb 2024
 
 ## Shares bills with
 

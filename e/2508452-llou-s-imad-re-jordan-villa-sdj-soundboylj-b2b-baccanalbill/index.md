@@ -1,6 +1,6 @@
 # Llou's: imad:re, Jordan Villa, SDJ, SoundboyLJ B2B BaccanalBill, OJP B2B Earnie at renae
 
-Llou's: imad:re, Jordan Villa, SDJ, SoundboyLJ B2B BaccanalBill, OJP B2B Earnie at renae on Sat 10 Oct, Manchester. 2 artists on the bill: imad:re and Jordan Villa. House and UK Funky. Preview the line-up and save it on soundcheck.
+Llou's: imad:re, Jordan Villa, SDJ, SoundboyLJ B2B BaccanalBill, OJP B2B Earnie at renae on Sat 10 Oct, Manchester. 2 artists: imad:re and Jordan Villa. House and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

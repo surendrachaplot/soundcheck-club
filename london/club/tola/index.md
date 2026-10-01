@@ -1,8 +1,8 @@
 # Tola
 
-Tola is a music venue in London with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Hang the DJ Vol.9" on Thu, 1 Oct 2026.
+Tola is a music venue in London with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Hang the DJ Vol.9" on Thu, 1 Oct 2026.
 
-Tola is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Althoff, Brandon Tourle, Cristian Sirica and Daisybelle and 2 more. Browse upcoming dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
+Tola is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Althoff, Brandon Tourle, Cristian Sirica and Daisybelle and 2 more. See dates, start times and who's playing. 56 Peckham High Street SE15 5DP.
 
 ## What's on
 

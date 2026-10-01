@@ -1,6 +1,6 @@
 # BRNT with Mathame at LAB theCLUB
 
-BRNT with Mathame at LAB theCLUB on Fri 30 Oct, Madrid. 1 artist on the bill: Mathame. Electronica. Preview the line-up and save it on soundcheck.
+BRNT with Mathame at LAB theCLUB on Fri 30 Oct, Madrid. 1 artist: Mathame. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

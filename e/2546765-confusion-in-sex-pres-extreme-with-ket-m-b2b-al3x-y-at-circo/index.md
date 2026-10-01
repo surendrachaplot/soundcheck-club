@@ -1,6 +1,6 @@
 # CONFUSION IN SEX pres. 'EXTREME' with KETØM b2b AL3X-Y at CIRCOLO BOTULINO
 
-CONFUSION IN SEX pres. 'EXTREME' with KETØM b2b AL3X-Y at CIRCOLO BOTULINO on Fri 2 Oct, Milan. Techno and Industrial. Preview the line-up and save it on soundcheck.
+CONFUSION IN SEX pres. 'EXTREME' with KETØM b2b AL3X-Y at CIRCOLO BOTULINO on Fri 2 Oct, Milan. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

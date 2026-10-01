@@ -1,6 +1,6 @@
 # Nosedripy Cillar at The Love Inn
 
-Nosedripy Cillar at The Love Inn on Sat 10 Oct, Bristol. 1 artist on the bill: Nosedrip. Preview the line-up and save it on soundcheck.
+Nosedripy Cillar at The Love Inn on Sat 10 Oct, Bristol. 1 artist: Nosedrip. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

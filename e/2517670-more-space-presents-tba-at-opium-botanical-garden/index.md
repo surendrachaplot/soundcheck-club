@@ -1,6 +1,6 @@
 # More Space presents: TBA at Opium Botanical Garden
 
-More Space presents: TBA at Opium Botanical Garden on Sat 14 Nov, Dublin. House and Minimal. Preview the line-up and save it on soundcheck.
+More Space presents: TBA at Opium Botanical Garden on Sat 14 Nov, Dublin. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

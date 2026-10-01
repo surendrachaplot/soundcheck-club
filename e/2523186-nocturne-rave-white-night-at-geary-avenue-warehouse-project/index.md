@@ -1,6 +1,6 @@
 # Nocturne Rave: White Night at Geary Avenue Warehouse Project
 
-Nocturne Rave: White Night at Geary Avenue Warehouse Project on Fri 2 Oct, Toronto. Hardcore and Electro. Preview the line-up and save it on soundcheck.
+Nocturne Rave: White Night at Geary Avenue Warehouse Project on Fri 2 Oct, Toronto. Hardcore and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Strobe Soundsystem LIVE AV: James Rail, Atlants, Braden at Not For Sale Gallery
 
-Strobe Soundsystem LIVE AV: James Rail, Atlants, Braden at Not For Sale Gallery on Wed 14 Oct, London. 1 artist on the bill: Braden. Progressive House and Drum & Bass. Preview the line-up and save it on soundcheck.
+Strobe Soundsystem LIVE AV: James Rail, Atlants, Braden at Not For Sale Gallery on Wed 14 Oct, London. 1 artist: Braden. Progressive House and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

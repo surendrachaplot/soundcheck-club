@@ -1,6 +1,6 @@
 # KINETICA: WAREHOUSE RAVE at TBA
 
-KINETICA: WAREHOUSE RAVE at TBA on Sat 10 Oct, Athens. 2 artists on the bill: LEFTYT and R4ST. Techno. Preview the line-up and save it on soundcheck.
+KINETICA: WAREHOUSE RAVE at TBA on Sat 10 Oct, Athens. 2 artists: LEFTYT and R4ST. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

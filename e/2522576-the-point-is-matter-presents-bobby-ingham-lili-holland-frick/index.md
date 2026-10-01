@@ -1,6 +1,6 @@
 # The Point is Matter presents; Bobby Ingham, Lili Holland-Fricke, Siren & Deaf Loop (DJ) at St. Margaret's Church
 
-The Point is Matter presents; Bobby Ingham, Lili Holland-Fricke, Siren & Deaf Loop (DJ) at St. Margaret's Church on Sun 4 Oct, Manchester. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+The Point is Matter presents; Bobby Ingham, Lili Holland-Fricke, Siren & Deaf Loop (DJ) at St. Margaret's Church on Sun 4 Oct, Manchester. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

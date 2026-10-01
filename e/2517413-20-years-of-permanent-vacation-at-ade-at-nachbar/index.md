@@ -1,6 +1,6 @@
 # 20 Years of Permanent Vacation at ADE at nachbar
 
-20 Years of Permanent Vacation at ADE at nachbar on Sun 25 Oct, Amsterdam. 15 artists on the bill: Benjamin Fröhlich, Curses, DJ City and Jordan Nocturne and 11 more. House and Acid. Preview the line-up and save it on soundcheck.
+20 Years of Permanent Vacation at ADE at nachbar on Sun 25 Oct, Amsterdam. 15 artists: Benjamin Fröhlich, Curses, DJ City and Jordan Nocturne and 11 more. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Sugar Free
 
-Sugar Free is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Circus Osaka, Osaka on Thu, 1 Oct 2026.
+Sugar Free is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Osaka, Osaka on Thu, 1 Oct 2026.
 
-Sugar Free is a house and techno artist based in Spain, tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Austin and 53 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Circus Osaka, Osaka on Thu 1 Oct.
+Sugar Free is a house and techno artist based in Spain, with 201 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 54 more. Often billed alongside Fonte, Gene On Earth and tINI. Next up: Circus Osaka, Osaka on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Sugar Free is a house and techno artist based in Spain, tracked on soundcheck, w
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Circus Osaka | Osaka |
 | Sat, 3 Oct 2026 | HVEN | Tokyo |
+| Thu, 8 Oct 2026 | Pawnshop | Taipei |
 | Sun, 11 Oct 2026 | Lasociaciøn | Madrid |
 | Sat, 17 Oct 2026 | Plaza Monumental de Barcelona | Barcelona |
 | Sun, 25 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
@@ -20,14 +21,14 @@ Sugar Free is a house and techno artist based in Spain, tracked on soundcheck, w
 
 ## Recently played
 
-- Gaffe, London — Sat, 26 Sept 2026
-- Doka, Amsterdam — Fri, 18 Sept 2026
-- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
-- Backsteinboot, Berlin — Sat, 15 Aug 2026
-- ISOamsterdam, Amsterdam — Sat, 1 Aug 2026
-- Concept Haus, Manchester — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
+- Gaffe, London · Sat, 26 Sept 2026
+- Doka, Amsterdam · Fri, 18 Sept 2026
+- Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
+- Backsteinboot, Berlin · Sat, 15 Aug 2026
+- ISOamsterdam, Amsterdam · Sat, 1 Aug 2026
+- Concept Haus, Manchester · Fri, 31 Jul 2026
+- Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 
 ## Shares bills with
 

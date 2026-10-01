@@ -1,6 +1,6 @@
 # ROOMER + Vision Fortune at La Station - Gare des Mines
 
-ROOMER + Vision Fortune at La Station - Gare des Mines on Thu 15 Oct, Paris. Preview the line-up and save it on soundcheck.
+ROOMER + Vision Fortune at La Station - Gare des Mines on Thu 15 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

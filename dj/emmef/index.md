@@ -1,8 +1,8 @@
 # Emmef
 
-Emmef is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at REC Napoli, Naples on Sat, 3 Oct 2026.
+Emmef is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at REC Napoli, Naples on Sat, 3 Oct 2026.
 
-Emmef is a techno and tech house artist based in Italy, tracked on soundcheck, with 14 sets logged across Berlin, Milan and Naples. Often billed alongside ACIDROB, Rispoli Benito and AIN'T GEORGE. Next up: REC Napoli, Naples on Sat 3 Oct.
+Emmef is a techno and tech house artist based in Italy, with 14 gigs on soundcheck across Berlin, Milan and Naples. Often billed alongside ACIDROB, Rispoli Benito and AIN'T GEORGE. Next up: REC Napoli, Naples on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Emmef is a techno and tech house artist based in Italy, tracked on soundcheck, w
 
 ## Recently played
 
-- Sensorium, Berlin — Sat, 2 May 2026
-- Panika Beyond, Milan — Sat, 17 Jan 2026
-- REC Napoli, Naples — Sat, 10 Jan 2026
-- AVA Club, Berlin — Sat, 22 Nov 2025
-- TBA - ACQUA FLASH - Via Masseria Vecchia 54, Giugliano in Campania, Naples — Thu, 1 May 2025
-- TBA - Acqua Flash, Naples — Thu, 1 May 2025
-- Riva Club, Naples — Sat, 13 Apr 2024
-- Riva Club, Naples — Fri, 8 Dec 2023
+- Sensorium, Berlin · Sat, 2 May 2026
+- Panika Beyond, Milan · Sat, 17 Jan 2026
+- REC Napoli, Naples · Sat, 10 Jan 2026
+- AVA Club, Berlin · Sat, 22 Nov 2025
+- TBA - ACQUA FLASH - Via Masseria Vecchia 54, Giugliano in Campania, Naples · Thu, 1 May 2025
+- TBA - Acqua Flash, Naples · Thu, 1 May 2025
+- Riva Club, Naples · Sat, 13 Apr 2024
+- Riva Club, Naples · Fri, 8 Dec 2023
 
 ## Shares bills with
 

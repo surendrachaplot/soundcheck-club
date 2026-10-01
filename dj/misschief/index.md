@@ -1,8 +1,8 @@
 # misschief
 
-misschief is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Cause, London on Sat, 31 Oct 2026.
+misschief is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
-misschief is an electronic artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across London, Manchester and New York City. Often billed alongside Kfeelz, RAQX and atalaya. Next up: The Cause, London on Sat 31 Oct.
+misschief is an electronic artist based in United Kingdom, with 12 gigs on soundcheck across London, Manchester and New York City. Often billed alongside Kfeelz, RAQX and atalaya. Next up: The Cause, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ misschief is an electronic artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- fabric, London — Sun, 20 Sept 2026
-- Honey Street Studio, Manchester — Sat, 2 Aug 2025
-- Stage and Radio, Manchester — Sat, 19 Jul 2025
-- PROGRESS, Manchester — Sat, 3 May 2025
-- Green Arches, Manchester — Sat, 12 Apr 2025
-- XLR, Manchester — Wed, 2 Apr 2025
-- The DBA, Manchester — Fri, 14 Feb 2025
-- Good Room, New York City — Thu, 31 Oct 2024
+- fabric, London · Sun, 20 Sept 2026
+- Honey Street Studio, Manchester · Sat, 2 Aug 2025
+- Stage and Radio, Manchester · Sat, 19 Jul 2025
+- PROGRESS, Manchester · Sat, 3 May 2025
+- Green Arches, Manchester · Sat, 12 Apr 2025
+- XLR, Manchester · Wed, 2 Apr 2025
+- The DBA, Manchester · Fri, 14 Feb 2025
+- Good Room, New York City · Thu, 31 Oct 2024
 
 ## Shares bills with
 

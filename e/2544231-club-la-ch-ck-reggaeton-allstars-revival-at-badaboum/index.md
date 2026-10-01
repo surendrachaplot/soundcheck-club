@@ -1,6 +1,6 @@
 # Club — LA CH!CK: REGGAETON ALLSTARS REVIVAL at Badaboum
 
-Club — LA CH!CK: REGGAETON ALLSTARS REVIVAL at Badaboum on Thu 8 Oct, Paris. Pop and Reggaeton. Preview the line-up and save it on soundcheck.
+Club — LA CH!CK: REGGAETON ALLSTARS REVIVAL at Badaboum on Thu 8 Oct, Paris. Pop and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

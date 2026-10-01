@@ -1,8 +1,8 @@
 # 528 Ibiza
 
-528 Ibiza is a music venue in Ibiza with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "GLOBAL UNDERGROUND" on Thu, 1 Oct 2026.
+528 Ibiza is a music venue in Ibiza with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "GLOBAL UNDERGROUND" on Thu, 1 Oct 2026.
 
-528 Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming gigs, with line-ups including Boss Priester, Cam Stockman, Daniel Avery and Deep Dish and 2 more. Browse upcoming dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
+528 Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming gigs, with line-ups including Boss Priester, Cam Stockman, Daniel Avery and Deep Dish and 2 more. See dates, start times and who's playing. Carrer del Romaní, 07820 Sant Antoni de Portmany, Illes Balears, Spain.
 
 ## What's on
 

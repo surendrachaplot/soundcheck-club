@@ -1,6 +1,6 @@
 # Anthèse at Salle des Variétés Bonne Garde
 
-Anthèse at Salle des Variétés Bonne Garde on Sat 31 Oct, Nantes. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Anthèse at Salle des Variétés Bonne Garde on Sat 31 Oct, Nantes. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

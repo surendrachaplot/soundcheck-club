@@ -1,6 +1,6 @@
 # Workout at 5A
 
-Workout at 5A on Thu 15 Oct, Lisbon. 1 artist on the bill: VIL (PT). Preview the line-up and save it on soundcheck.
+Workout at 5A on Thu 15 Oct, Lisbon. 1 artist: VIL (PT). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Parra For Cuva at Outset
 
-Parra For Cuva at Outset on Fri 6 Nov, Chicago. Preview the line-up and save it on soundcheck.
+Parra For Cuva at Outset on Fri 6 Nov, Chicago. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

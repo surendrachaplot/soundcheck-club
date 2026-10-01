@@ -1,6 +1,6 @@
 # Syz & HARRY RAPLEY ALL NIGHT LONG // RED ROOM at NDR2 Red Room
 
-Syz & HARRY RAPLEY ALL NIGHT LONG // RED ROOM at NDR2 Red Room on Fri 9 Oct, London. 1 artist on the bill: Syz. House and Tech House. Preview the line-up and save it on soundcheck.
+Syz & HARRY RAPLEY ALL NIGHT LONG // RED ROOM at NDR2 Red Room on Fri 9 Oct, London. 1 artist: Syz. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

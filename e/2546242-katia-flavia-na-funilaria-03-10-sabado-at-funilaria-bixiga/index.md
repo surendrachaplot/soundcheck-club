@@ -1,6 +1,6 @@
 # Katia Flavia Na Funilaria - 03/10 - Sabado at Funilaria Bixiga
 
-Katia Flavia Na Funilaria - 03/10 - Sabado at Funilaria Bixiga on Sat 3 Oct, Sao Paulo. 1 artist on the bill: Giu Nunez. Disco and Balearic. Preview the line-up and save it on soundcheck.
+Katia Flavia Na Funilaria - 03/10 - Sabado at Funilaria Bixiga on Sat 3 Oct, Sao Paulo. 1 artist: Giu Nunez. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

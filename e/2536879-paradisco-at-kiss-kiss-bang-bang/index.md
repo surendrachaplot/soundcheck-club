@@ -1,6 +1,6 @@
 # Paradisco at Kiss Kiss Bang Bang
 
-Paradisco at Kiss Kiss Bang Bang on Sat 21 Nov, Los Angeles. House and Disco. Preview the line-up and save it on soundcheck.
+Paradisco at Kiss Kiss Bang Bang on Sat 21 Nov, Los Angeles. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

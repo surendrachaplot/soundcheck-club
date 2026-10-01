@@ -1,6 +1,6 @@
 # Oasish – The Uk's No.1 & Multi-Award-Winning Oasis Tribute at Basing House
 
-Oasish – The Uk's No.1 & Multi-Award-Winning Oasis Tribute at Basing House on Sun 13 Dec, London. Pop. Preview the line-up and save it on soundcheck.
+Oasish – The Uk's No.1 & Multi-Award-Winning Oasis Tribute at Basing House on Sun 13 Dec, London. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

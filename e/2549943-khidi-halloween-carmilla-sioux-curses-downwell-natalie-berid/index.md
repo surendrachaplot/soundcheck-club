@@ -1,6 +1,6 @@
 # KHIDI 中 Halloween: Carmilla Sioux, Curses, Downwell, Natalie Beridze, Parrish Smith at KHIDI
 
-KHIDI 中 Halloween: Carmilla Sioux, Curses, Downwell, Natalie Beridze, Parrish Smith on Sat 31 Oct, Tbilisi. 9 artists on the bill: Ash Scholem, Carmilla Sioux, Curses and Downwell and 5 more. Preview the line-up and save it on soundcheck.
+KHIDI 中 Halloween: Carmilla Sioux, Curses, Downwell, Natalie Beridze, Parrish Smith on Sat 31 Oct, Tbilisi. 9 artists: Ash Scholem, Carmilla Sioux, Curses and Downwell and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

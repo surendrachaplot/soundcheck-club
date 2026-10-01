@@ -1,6 +1,6 @@
 # Bad Intentions x Planet Wax at Planet Wax
 
-Bad Intentions x Planet Wax on Sat 31 Oct, London. 2 artists on the bill: Layson and Madelic. Techno and House. Preview the line-up and save it on soundcheck.
+Bad Intentions x Planet Wax on Sat 31 Oct, London. 2 artists: Layson and Madelic. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

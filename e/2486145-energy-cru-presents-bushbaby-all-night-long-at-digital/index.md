@@ -1,6 +1,6 @@
 # Energy Cru presents: Bushbaby (All Night Long) at Digital
 
-Energy Cru presents: Bushbaby (All Night Long) at Digital on Sat 17 Oct, Newcastle. 1 artist on the bill: Bushbaby. Preview the line-up and save it on soundcheck.
+Energy Cru presents: Bushbaby (All Night Long) at Digital on Sat 17 Oct, Newcastle. 1 artist: Bushbaby. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

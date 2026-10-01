@@ -1,6 +1,6 @@
 # This !s & Friends at Climax-Institutes
 
-This !s & Friends at Climax-Institutes on Fri 11 Dec, Stuttgart. 3 artists on the bill: E-PUNK, NeTHiNG and TRNKA. Techno and House. Preview the line-up and save it on soundcheck.
+This !s & Friends at Climax-Institutes on Fri 11 Dec, Stuttgart. 3 artists: E-PUNK, NeTHiNG and TRNKA. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

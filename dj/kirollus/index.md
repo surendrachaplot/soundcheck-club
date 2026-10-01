@@ -1,8 +1,8 @@
 # Kirollus
 
-Kirollus is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Kirollus is a House and Disco artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Kirollus is a house and disco artist based in United Kingdom, tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Athens and Auckland and 37 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Kirollus is a house and disco artist based in United Kingdom, with 152 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 37 more. Often billed alongside MiNNA, Tonno Disko and Dan Shake. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -14,23 +14,23 @@ Kirollus is a house and disco artist based in United Kingdom, tracked on soundch
 | Fri, 9 Oct 2026 | Freeze HiFi | Liverpool |
 | Sat, 10 Oct 2026 | BASE Milano | Milan |
 | Fri, 23 Oct 2026 | NX Newcastle | Newcastle |
+| Sat, 24 Oct 2026 | Pérola Negra Club | Porto |
 | Fri, 6 Nov 2026 | KOKO | London |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Fri, 27 Nov 2026 | Lula Club | Madrid |
 | Sat, 5 Dec 2026 | Electric Bristol | Bristol |
-| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 
-- Palais Mascotte, Zurich — Fri, 25 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- Lofi, Amsterdam — Sun, 6 Sept 2026
-- Concorde 2, Brighton — Sat, 5 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- Magazine Open–Air, London — Sat, 22 Aug 2026
-- fabric, London — Sat, 22 Aug 2026
-- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
+- Palais Mascotte, Zurich · Fri, 25 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- Lofi, Amsterdam · Sun, 6 Sept 2026
+- Concorde 2, Brighton · Sat, 5 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- Magazine Open–Air, London · Sat, 22 Aug 2026
+- fabric, London · Sat, 22 Aug 2026
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
 
 ## Shares bills with
 

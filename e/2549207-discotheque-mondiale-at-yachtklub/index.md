@@ -1,6 +1,6 @@
 # Discotheque Mondiale at Yachtklub
 
-Discotheque Mondiale at Yachtklub on Fri 16 Oct, Frankfurt. 2 artists on the bill: Adriano Guglielmo and Chesney. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Discotheque Mondiale at Yachtklub on Fri 16 Oct, Frankfurt. 2 artists: Adriano Guglielmo and Chesney. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FOVOS at SILO
 
-FOVOS at SILO on Sat 21 Nov, New York City. Techno. Preview the line-up and save it on soundcheck.
+FOVOS at SILO on Sat 21 Nov, New York City. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

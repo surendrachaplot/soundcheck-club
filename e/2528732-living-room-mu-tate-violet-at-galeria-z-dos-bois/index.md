@@ -1,6 +1,6 @@
 # Living Room: mu tate, Violet at Galeria Zé Dos Bois
 
-Living Room: mu tate, Violet at Galeria Zé Dos Bois on Fri 9 Oct, Lisbon. 2 artists on the bill: mu tate and Violet (PT). Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Living Room: mu tate, Violet at Galeria Zé Dos Bois on Fri 9 Oct, Lisbon. 2 artists: mu tate and Violet (PT). Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

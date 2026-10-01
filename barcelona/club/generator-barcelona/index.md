@@ -1,8 +1,8 @@
 # Generator Barcelona
 
-Generator Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "NIU GENERATOR" on Sat, 3 Oct 2026.
+Generator Barcelona is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NIU GENERATOR" on Sat, 3 Oct 2026.
 
-Generator Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Juan Guerra. Browse upcoming dates, start times and who's playing. Carrer de Còrsega, 373, 08037 Barcelona.
+Generator Barcelona is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Juan Guerra. See dates, start times and who's playing. Carrer de Còrsega, 373, 08037 Barcelona.
 
 ## What's on
 

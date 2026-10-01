@@ -1,6 +1,6 @@
 # The Homeless Trovador by Not Demure & Friends at Kadinsky Cafe
 
-The Homeless Trovador by Not Demure & Friends at Kadinsky Cafe on Sun 25 Oct, Amsterdam. 5 artists on the bill: Abity, Agustin Ficarra, Albano Bastonero and Kebin van Reeken and 1 more. Progressive House. Preview the line-up and save it on soundcheck.
+The Homeless Trovador by Not Demure & Friends at Kadinsky Cafe on Sun 25 Oct, Amsterdam. 5 artists: Abity, Agustin Ficarra, Albano Bastonero and Kebin van Reeken and 1 more. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # YOTO x DJ JUNIOR & DRAFT XYOTO at YOTO
 
-YOTO x DJ JUNIOR & DRAFT XYOTO on Sat 3 Oct, Hamburg. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
+YOTO x DJ JUNIOR & DRAFT XYOTO on Sat 3 Oct, Hamburg. Amapiano and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

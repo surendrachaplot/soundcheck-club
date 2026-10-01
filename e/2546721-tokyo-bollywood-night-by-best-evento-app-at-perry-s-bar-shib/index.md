@@ -1,6 +1,6 @@
 # Tokyo Bollywood Night - By Best Evento App at Perry's Bar Shibuya
 
-Tokyo Bollywood Night - By Best Evento App at Perry's Bar Shibuya on Sat 10 Oct, Tokyo. Disco and Club. Preview the line-up and save it on soundcheck.
+Tokyo Bollywood Night - By Best Evento App at Perry's Bar Shibuya on Sat 10 Oct, Tokyo. Disco and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

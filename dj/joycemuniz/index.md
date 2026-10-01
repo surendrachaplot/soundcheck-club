@@ -1,8 +1,8 @@
 # Joyce Muniz
 
-Joyce Muniz is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Location, Lisbon on Thu, 15 Oct 2026.
+Joyce Muniz is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Lisbon on Thu, 15 Oct 2026.
 
-Joyce Muniz is a house and techno artist based in Brazil, tracked on soundcheck, with 74 sets logged across Amsterdam, Bali, Berlin and Cologne and 21 more. Often billed alongside Mira, Nick Hanzo and Anja Schneider. Next up: TBA - Secret Location, Lisbon on Thu 15 Oct.
+Joyce Muniz is a house and techno artist based in Brazil, with 74 gigs on soundcheck across Amsterdam, Bali, Berlin and Cologne and 21 more. Often billed alongside Mira, Nick Hanzo and Anja Schneider. Next up: TBA - Secret Location, Lisbon on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Joyce Muniz is a house and techno artist based in Brazil, tracked on soundcheck,
 
 ## Recently played
 
-- SASS Music Club, Vienna — Fri, 18 Sept 2026
-- Kater, Berlin — Fri, 11 Sept 2026
-- Lux Fragil, Lisbon — Sat, 25 Jul 2026
-- Switch, Porto — Fri, 24 Jul 2026
-- Donauinsel, Vienna — Fri, 3 Jul 2026
-- Sparta Schwimmclub, Frankfurt — Sat, 20 Jun 2026
-- Else, Berlin — Sat, 13 Jun 2026
-- Casa Capitão, Lisbon — Wed, 29 Apr 2026
+- SASS Music Club, Vienna · Fri, 18 Sept 2026
+- Kater, Berlin · Fri, 11 Sept 2026
+- Lux Fragil, Lisbon · Sat, 25 Jul 2026
+- Switch, Porto · Fri, 24 Jul 2026
+- Donauinsel, Vienna · Fri, 3 Jul 2026
+- Sparta Schwimmclub, Frankfurt · Sat, 20 Jun 2026
+- Else, Berlin · Sat, 13 Jun 2026
+- Casa Capitão, Lisbon · Wed, 29 Apr 2026
 
 ## Shares bills with
 

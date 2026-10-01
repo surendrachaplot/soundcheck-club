@@ -1,8 +1,8 @@
 # 3MZY
 
-3MZY is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Exit Reality, Singapore on Sat, 17 Oct 2026.
+3MZY is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Exit Reality, Singapore on Sat, 17 Oct 2026.
 
-3MZY is a techno and house artist based in Singapore, tracked on soundcheck, with 37 sets logged across Singapore. Often billed alongside Halis, VAIBS and sho&tell. Next up: Exit Reality, Singapore on Sat 17 Oct.
+3MZY is a techno and house artist based in Singapore, with 37 gigs on soundcheck across Singapore. Often billed alongside Halis, VAIBS and sho&tell. Next up: Exit Reality, Singapore on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@
 
 ## Recently played
 
-- Exit Reality, Singapore — Sat, 29 Aug 2026
-- Tuff Club, Singapore — Fri, 31 Jul 2026
-- Tuff Club, Singapore — Fri, 10 Jul 2026
-- Tuff Club, Singapore — Sat, 6 Jun 2026
-- RASA, Singapore — Fri, 5 Jun 2026
-- Headquarters, Singapore — Sat, 30 May 2026
-- Mdlr, Singapore — Fri, 1 May 2026
-- Headquarters, Singapore — Sat, 18 Apr 2026
+- Exit Reality, Singapore · Sat, 29 Aug 2026
+- Tuff Club, Singapore · Fri, 31 Jul 2026
+- Tuff Club, Singapore · Fri, 10 Jul 2026
+- Tuff Club, Singapore · Sat, 6 Jun 2026
+- RASA, Singapore · Fri, 5 Jun 2026
+- Headquarters, Singapore · Sat, 30 May 2026
+- Mdlr, Singapore · Fri, 1 May 2026
+- Headquarters, Singapore · Sat, 18 Apr 2026
 
 ## Shares bills with
 

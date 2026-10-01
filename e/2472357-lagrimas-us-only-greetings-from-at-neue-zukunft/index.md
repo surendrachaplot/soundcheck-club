@@ -1,6 +1,6 @@
 # Lagrimas (US), ONLY, Greetings From at Neue Zukunft
 
-Lagrimas (US), ONLY, Greetings From at Neue Zukunft on Sun 25 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Lagrimas (US), ONLY, Greetings From at Neue Zukunft on Sun 25 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

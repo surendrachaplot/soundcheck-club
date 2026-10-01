@@ -1,6 +1,6 @@
 # Alarico All Night Long at Pandora Sevilla
 
-Alarico All Night Long at Pandora Sevilla on Sat 28 Nov, South. 1 artist on the bill: Alarico. Preview the line-up and save it on soundcheck.
+Alarico All Night Long at Pandora Sevilla on Sat 28 Nov, South. 1 artist: Alarico. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

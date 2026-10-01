@@ -1,6 +1,6 @@
 # Hello - Queer pop party at Toldi Klub
 
-Hello - Queer pop party at Toldi Klub on Sat 24 Oct, Budapest. Pop. Preview the line-up and save it on soundcheck.
+Hello - Queer pop party at Toldi Klub on Sat 24 Oct, Budapest. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

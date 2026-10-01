@@ -1,6 +1,6 @@
 # B2B presents: ONE BIG DANCE at The Social
 
-B2B presents: ONE BIG DANCE at The Social on Sat 17 Oct, London. House. Preview the line-up and save it on soundcheck.
+B2B presents: ONE BIG DANCE at The Social on Sat 17 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LOCALISM: NIGHT manoeuvres Takeover at The Social
 
-LOCALISM: NIGHT manoeuvres Takeover at The Social on Fri 16 Oct, London. 3 artists on the bill: NIGHT manoeuvres, Sopp and Ysanne. Techno and Bass. Preview the line-up and save it on soundcheck.
+LOCALISM: NIGHT manoeuvres Takeover at The Social on Fri 16 Oct, London. 3 artists: NIGHT manoeuvres, Sopp and Ysanne. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

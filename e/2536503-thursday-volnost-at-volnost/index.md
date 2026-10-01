@@ -1,6 +1,6 @@
 # Thursday Volnost at Volnost
 
-Thursday Volnost on Thu 8 Oct, Seoul. 4 artists on the bill: J.bin, PAIK, Recy and Yeji. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Thursday Volnost on Thu 8 Oct, Seoul. 4 artists: J.bin, PAIK, Recy and Yeji. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

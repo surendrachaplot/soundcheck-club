@@ -1,8 +1,8 @@
 # NO1ELSE
 
-NO1ELSE is a Industrial and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at John Doe, Amsterdam on Mon, 5 Oct 2026.
+NO1ELSE is a Industrial and Hardcore artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at John Doe, Amsterdam on Mon, 5 Oct 2026.
 
-NO1ELSE is an industrial and hardcore artist based in Netherlands, tracked on soundcheck, with 155 sets logged across Amsterdam and Lisbon. Often billed alongside RTDV, Messiahwaits and MINDMISTAKE. Next up: John Doe, Amsterdam on Mon 5 Oct.
+NO1ELSE is an industrial and hardcore artist based in Netherlands, with 155 gigs on soundcheck across Amsterdam and Lisbon. Often billed alongside RTDV, Messiahwaits and MINDMISTAKE. Next up: John Doe, Amsterdam on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ NO1ELSE is an industrial and hardcore artist based in Netherlands, tracked on so
 
 ## Recently played
 
-- John Doe, Amsterdam — Mon, 28 Sept 2026
-- John Doe, Amsterdam — Mon, 21 Sept 2026
-- John Doe, Amsterdam — Mon, 14 Sept 2026
-- John Doe, Amsterdam — Mon, 7 Sept 2026
-- John Doe, Amsterdam — Mon, 31 Aug 2026
-- John Doe, Amsterdam — Mon, 24 Aug 2026
-- John Doe, Amsterdam — Mon, 17 Aug 2026
-- John Doe, Amsterdam — Mon, 10 Aug 2026
+- John Doe, Amsterdam · Mon, 28 Sept 2026
+- John Doe, Amsterdam · Mon, 21 Sept 2026
+- John Doe, Amsterdam · Mon, 14 Sept 2026
+- John Doe, Amsterdam · Mon, 7 Sept 2026
+- John Doe, Amsterdam · Mon, 31 Aug 2026
+- John Doe, Amsterdam · Mon, 24 Aug 2026
+- John Doe, Amsterdam · Mon, 17 Aug 2026
+- John Doe, Amsterdam · Mon, 10 Aug 2026
 
 ## Shares bills with
 

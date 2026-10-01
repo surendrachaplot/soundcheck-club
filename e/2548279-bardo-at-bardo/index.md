@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Sun 11 Oct, Milan. Electro and Electronica. Preview the line-up and save it on soundcheck.
+BARDO on Sun 11 Oct, Milan. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

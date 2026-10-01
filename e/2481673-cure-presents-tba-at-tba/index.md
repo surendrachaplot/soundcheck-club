@@ -1,6 +1,6 @@
 # Cure presents: TBA at TBA
 
-Cure presents: TBA on Sat 17 Oct, Toronto. Techno and House. Preview the line-up and save it on soundcheck.
+Cure presents: TBA on Sat 17 Oct, Toronto. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

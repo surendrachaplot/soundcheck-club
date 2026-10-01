@@ -1,6 +1,6 @@
 # Aircraft — Tallinn / Fort Bar. 28 November. Support: Gentle Ropes at Fort Bar
 
-Aircraft — Tallinn / Fort Bar. 28 November. Support: Gentle Ropes on Sat 28 Nov, Tallinn. 1 artist on the bill: Aircraft. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Aircraft — Tallinn / Fort Bar. 28 November. Support: Gentle Ropes on Sat 28 Nov, Tallinn. 1 artist: Aircraft. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

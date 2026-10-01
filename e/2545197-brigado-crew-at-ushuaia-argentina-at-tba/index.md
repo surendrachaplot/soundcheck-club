@@ -1,6 +1,6 @@
 # Brigado Crew at ushuaia - argentina at TBA
 
-Brigado Crew at ushuaia - argentina at TBA on Thu 31 Dec, Argentina. 1 artist on the bill: Brigado Crew. Preview the line-up and save it on soundcheck.
+Brigado Crew at ushuaia - argentina at TBA on Thu 31 Dec, Argentina. 1 artist: Brigado Crew. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

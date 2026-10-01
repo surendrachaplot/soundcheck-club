@@ -1,6 +1,6 @@
 # Re:cital at 88block
 
-Re:cital at 88block on Fri 2 Oct, Tokyo. 4 artists on the bill: Acrocanthosaurus, LOQU, Mykey and Submerse. Dubstep and Jungle. Preview the line-up and save it on soundcheck.
+Re:cital at 88block on Fri 2 Oct, Tokyo. 4 artists: Acrocanthosaurus, LOQU, Mykey and Submerse. Dubstep and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Egyptian Lover at The Art School
 
-Egyptian Lover at The Art School on Thu 18 Feb, Glasgow. 1 artist on the bill: Egyptian Lover. Preview the line-up and save it on soundcheck.
+Egyptian Lover at The Art School on Thu 18 Feb, Glasgow. 1 artist: Egyptian Lover. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

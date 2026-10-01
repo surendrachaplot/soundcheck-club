@@ -1,6 +1,6 @@
 # 404: BET ON system at The Comfort Zone
 
-404: BET ON system at The Comfort Zone on Fri 13 Nov, Toronto. Techno. Preview the line-up and save it on soundcheck.
+404: BET ON system at The Comfort Zone on Fri 13 Nov, Toronto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

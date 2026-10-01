@@ -1,6 +1,6 @@
 # Onesh HORROR STORY at Noct Club
 
-Onesh HORROR STORY at Noct Club on Sat 31 Oct, Paris. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Onesh HORROR STORY at Noct Club on Sat 31 Oct, Paris. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

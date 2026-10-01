@@ -1,6 +1,6 @@
 # Equinox presents: Ian Pooley with OneCanChan at Yamamori Tengu
 
-Equinox presents: Ian Pooley with OneCanChan at Yamamori Tengu on Sat 24 Oct, Dublin. 2 artists on the bill: Ian Pooley and OneCanChan. House. Preview the line-up and save it on soundcheck.
+Equinox presents: Ian Pooley with OneCanChan at Yamamori Tengu on Sat 24 Oct, Dublin. 2 artists: Ian Pooley and OneCanChan. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

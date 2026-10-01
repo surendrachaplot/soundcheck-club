@@ -1,6 +1,6 @@
 # Oscar G - Brooklyn After Dark with Cristian Arango n More at LoHi
 
-Oscar G - Brooklyn After Dark with Cristian Arango n More at LoHi on Sat 3 Oct, New York City. 2 artists on the bill: Cristian Arango and Oscar G. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Oscar G - Brooklyn After Dark with Cristian Arango n More at LoHi on Sat 3 Oct, New York City. 2 artists: Cristian Arango and Oscar G. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Leith Arches
 
-Leith Arches is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "LA BEAT IN LEITH" on Sat, 3 Oct 2026.
+Leith Arches is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "LA BEAT IN LEITH" on Sat, 3 Oct 2026.
 
-Leith Arches is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Jimmy Allen. Browse upcoming dates, start times and who's playing. 6 Manderston St, Edinburgh, EH6 8LY.
+Leith Arches is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Jimmy Allen. See dates, start times and who's playing. 6 Manderston St, Edinburgh, EH6 8LY.
 
 ## What's on
 

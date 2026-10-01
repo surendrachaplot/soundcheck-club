@@ -1,6 +1,6 @@
 # David Carretta [FR] at control
 
-David Carretta [FR] at control on Sat 31 Oct, Bucharest. 1 artist on the bill: David Carretta. Techno and Electro. Preview the line-up and save it on soundcheck.
+David Carretta [FR] at control on Sat 31 Oct, Bucharest. 1 artist: David Carretta. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

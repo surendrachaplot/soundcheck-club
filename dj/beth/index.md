@@ -1,8 +1,8 @@
 # BETH
 
-BETH is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Moon Club, Bristol on Fri, 16 Oct 2026.
+BETH is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Moon Club, Bristol on Fri, 16 Oct 2026.
 
-BETH is a house and techno artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Bristol, Edinburgh, Glasgow and London. Often billed alongside Lewis Doherty, Mas Que Nada Brothers and Van Damn. Next up: Moon Club, Bristol on Fri 16 Oct.
+BETH is a house and techno artist based in United Kingdom, with 29 gigs on soundcheck across Bristol, Edinburgh, Glasgow and London. Often billed alongside Lewis Doherty, Mas Que Nada Brothers and Van Damn. Next up: Moon Club, Bristol on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ BETH is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- Sub Club, Glasgow — Sun, 21 Jun 2026
-- Strongroom Bar, London — Sun, 24 May 2026
-- Cabaret Voltaire, Edinburgh — Sat, 16 May 2026
-- The Arches, Glasgow — Fri, 26 Dec 2025
-- The Berkeley Suite, Glasgow — Sun, 21 Dec 2025
-- Platform, Glasgow — Fri, 28 Nov 2025
-- Hillhead Bookclub, Glasgow — Sun, 25 May 2025
-- FLY Warehouse, Edinburgh — Sun, 18 May 2025
+- Sub Club, Glasgow · Sun, 21 Jun 2026
+- Strongroom Bar, London · Sun, 24 May 2026
+- Cabaret Voltaire, Edinburgh · Sat, 16 May 2026
+- The Arches, Glasgow · Fri, 26 Dec 2025
+- The Berkeley Suite, Glasgow · Sun, 21 Dec 2025
+- Platform, Glasgow · Fri, 28 Nov 2025
+- Hillhead Bookclub, Glasgow · Sun, 25 May 2025
+- FLY Warehouse, Edinburgh · Sun, 18 May 2025
 
 ## Shares bills with
 

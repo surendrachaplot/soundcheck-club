@@ -1,6 +1,6 @@
 # Beyond The Veil at Ernest
 
-Beyond The Veil at Ernest on Fri 6 Nov, Newcastle. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Beyond The Veil at Ernest on Fri 6 Nov, Newcastle. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

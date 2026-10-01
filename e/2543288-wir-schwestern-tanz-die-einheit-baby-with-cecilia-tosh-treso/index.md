@@ -1,6 +1,6 @@
 # WIR Schwestern- Tanz die Einheit, Baby with Cecilia Tosh (Tresor Berlin), So So Klein live uvm at Odonien
 
-WIR Schwestern- Tanz die Einheit, Baby with Cecilia Tosh (Tresor Berlin), So So Klein live uvm at Odonien on Sat 2 Oct, Cologne. 12 artists on the bill: andré wiese, ANNA, Bergen and Cecilia Tosh and 8 more. Preview the line-up and save it on soundcheck.
+WIR Schwestern- Tanz die Einheit, Baby with Cecilia Tosh (Tresor Berlin), So So Klein live uvm at Odonien on Sat 2 Oct, Cologne. 12 artists: andré wiese, ANNA, Bergen and Cecilia Tosh and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

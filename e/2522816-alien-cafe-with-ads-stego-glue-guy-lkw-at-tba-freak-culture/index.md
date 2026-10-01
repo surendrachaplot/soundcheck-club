@@ -1,6 +1,6 @@
 # Alien Cafe with ADS, Stego, Glue Guy, LKW at TBA - Freak Culture Club
 
-Alien Cafe with ADS, Stego, Glue Guy, LKW at TBA - Freak Culture Club on Sat 24 Oct, Bielefeld. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Alien Cafe with ADS, Stego, Glue Guy, LKW at TBA - Freak Culture Club on Sat 24 Oct, Bielefeld. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

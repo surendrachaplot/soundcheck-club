@@ -1,6 +1,6 @@
 # Bait & Wavey Jone's Locker at Panke Social
 
-Bait & Wavey Jone's Locker at Panke Social on Fri 11 Dec, Sheffield. Dubstep and Dub Techno. Preview the line-up and save it on soundcheck.
+Bait & Wavey Jone's Locker at Panke Social on Fri 11 Dec, Sheffield. Dubstep and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

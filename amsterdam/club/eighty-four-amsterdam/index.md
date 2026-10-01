@@ -1,8 +1,8 @@
 # Eighty-Four Amsterdam
 
-Eighty-Four Amsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 1" on Wed, 21 Oct 2026.
+Eighty-Four Amsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 1" on Wed, 21 Oct 2026.
 
-Eighty-Four Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Alex M.O.R.P.H., Cast Lov, David Gravell and Fernweh and 2 more. Browse upcoming dates, start times and who's playing.
+Eighty-Four Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Alex M.O.R.P.H., Cast Lov, David Gravell and Fernweh and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

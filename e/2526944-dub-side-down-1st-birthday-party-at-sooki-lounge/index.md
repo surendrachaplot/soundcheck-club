@@ -1,6 +1,6 @@
 # Dub Side Down 1st birthday party at Sooki Lounge
 
-Dub Side Down 1st birthday party at Sooki Lounge on Fri 23 Oct, Melbourne. Drum & Bass and Dub. Preview the line-up and save it on soundcheck.
+Dub Side Down 1st birthday party at Sooki Lounge on Fri 23 Oct, Melbourne. Drum & Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

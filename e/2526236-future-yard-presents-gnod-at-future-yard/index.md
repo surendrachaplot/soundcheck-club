@@ -1,6 +1,6 @@
 # Future Yard presents GNOD at Future Yard
 
-Future Yard presents GNOD on Sat 14 Nov, Liverpool. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Future Yard presents GNOD on Sat 14 Nov, Liverpool. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

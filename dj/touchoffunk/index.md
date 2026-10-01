@@ -1,8 +1,8 @@
 # Touch Of Funk
 
-Touch Of Funk is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Niamos, Manchester on Fri, 2 Oct 2026.
+Touch Of Funk is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Niamos, Manchester on Fri, 2 Oct 2026.
 
-Touch Of Funk is a disco and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Manchester. Often billed alongside Beechy, Cj Cooper and Don't F**k with Disco. Next up: Niamos, Manchester on Fri 2 Oct.
+Touch Of Funk is a disco and house artist based in United Kingdom, with 6 gigs on soundcheck across London and Manchester. Often billed alongside Beechy, Cj Cooper and Don't F**k with Disco. Next up: Niamos, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,9 +14,9 @@ Touch Of Funk is a disco and house artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Cafe 1001, London — Mon, 14 Sept 2026
-- Un.Titled Studio, Manchester — Sat, 12 Sept 2026
-- renae, Manchester — Thu, 3 Sept 2026
+- Cafe 1001, London · Mon, 14 Sept 2026
+- Un.Titled Studio, Manchester · Sat, 12 Sept 2026
+- renae, Manchester · Thu, 3 Sept 2026
 
 ## Shares bills with
 

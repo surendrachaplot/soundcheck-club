@@ -1,6 +1,6 @@
 # Belly Gang at LIV Nightclub Miami
 
-Belly Gang at LIV Nightclub Miami on Sun 4 Oct, Miami. Preview the line-up and save it on soundcheck.
+Belly Gang at LIV Nightclub Miami on Sun 4 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

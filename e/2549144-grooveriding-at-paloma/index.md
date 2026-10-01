@@ -1,6 +1,6 @@
 # Grooveriding at Paloma
 
-Grooveriding at Paloma on Fri 13 Nov, Berlin. 2 artists on the bill: Almost Famous and Käthe & Haes. House and Deep House. Preview the line-up and save it on soundcheck.
+Grooveriding at Paloma on Fri 13 Nov, Berlin. 2 artists: Almost Famous and Käthe & Haes. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

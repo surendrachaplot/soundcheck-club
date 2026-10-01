@@ -1,8 +1,8 @@
 # Josh Hoppen
 
-Josh Hoppen is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at LAUT, Barcelona on Sun, 11 Oct 2026.
+Josh Hoppen is a Ambient and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at LAUT, Barcelona on Sun, 11 Oct 2026.
 
-Josh Hoppen is an ambient and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Binomi, AC2 and Agonis. Next up: LAUT, Barcelona on Sun 11 Oct.
+Josh Hoppen is an ambient and techno artist based in United Kingdom, with 6 gigs on soundcheck across Barcelona. Often billed alongside Binomi, AC2 and Agonis. Next up: LAUT, Barcelona on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Josh Hoppen is an ambient and techno artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- TBA - Pratdip (Tarragona, Spain), Barcelona — Fri, 21 Aug 2026
-- LAUT, Barcelona — Sat, 15 Feb 2025
-- LAUT, Barcelona — Fri, 1 Mar 2024
-- Human Club, Barcelona — Sat, 27 Jan 2024
-- Human Club, Barcelona — Sat, 11 Feb 2023
+- TBA - Pratdip (Tarragona, Spain), Barcelona · Fri, 21 Aug 2026
+- LAUT, Barcelona · Sat, 15 Feb 2025
+- LAUT, Barcelona · Fri, 1 Mar 2024
+- Human Club, Barcelona · Sat, 27 Jan 2024
+- Human Club, Barcelona · Sat, 11 Feb 2023
 
 ## Shares bills with
 

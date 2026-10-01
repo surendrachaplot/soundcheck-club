@@ -1,6 +1,6 @@
 # THE NUN – DOME TAKEOVER - HALLOWEEN - 31.10.2026 at Hallmann Dome
 
-THE NUN – DOME TAKEOVER - HALLOWEEN - 31.10.2026 at Hallmann Dome on Sat 31 Oct, Vienna. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+THE NUN – DOME TAKEOVER - HALLOWEEN - 31.10.2026 at Hallmann Dome on Sat 31 Oct, Vienna. Hip-Hop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

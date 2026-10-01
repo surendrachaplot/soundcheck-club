@@ -1,6 +1,6 @@
 # Kwesi Arthur: Redemption Valley Tour at SOBs
 
-Kwesi Arthur: Redemption Valley Tour at SOBs on Sat 7 Nov, New York City. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+Kwesi Arthur: Redemption Valley Tour at SOBs on Sat 7 Nov, New York City. Hip-Hop and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VERSUS LABEL RELEASE PARTY TAKEOVER at Macbar
 
-VERSUS LABEL RELEASE PARTY TAKEOVER at Macbar on Fri 9 Oct, Lyon. Trance and Techno. Preview the line-up and save it on soundcheck.
+VERSUS LABEL RELEASE PARTY TAKEOVER at Macbar on Fri 9 Oct, Lyon. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

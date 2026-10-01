@@ -1,6 +1,6 @@
 # SOUP at Void Hall
 
-SOUP at Void Hall on Sat 10 Oct, Berlin. 3 artists on the bill: DarcSounds, Jacob Meehan and Madalba. Techno and House. Preview the line-up and save it on soundcheck.
+SOUP at Void Hall on Sat 10 Oct, Berlin. 3 artists: DarcSounds, Jacob Meehan and Madalba. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

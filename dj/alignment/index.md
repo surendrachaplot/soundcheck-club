@@ -1,8 +1,8 @@
 # Alignment
 
-Alignment is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cieloterra, Rome on Sat, 3 Oct 2026.
+Alignment is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cieloterra, Rome on Sat, 3 Oct 2026.
 
-Alignment is a techno and house artist based in Germany, tracked on soundcheck, with 222 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Cieloterra, Rome on Sat 3 Oct.
+Alignment is a techno and house artist based in Germany, with 222 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Shlømo, Basswell and DYEN. Next up: Cieloterra, Rome on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Alignment is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Garage Klub, Antwerp — Fri, 18 Sept 2026
-- Laagravense Plas, Utrecht — Sat, 12 Sept 2026
-- The Concourse Project, Austin — Sun, 6 Sept 2026
-- TBA - Wasteland Festival, Cologne — Sat, 5 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Munich Beach Resort, Munich — Sat, 8 Aug 2026
-- Flava Beach, Naples — Sat, 18 Jul 2026
+- Garage Klub, Antwerp · Fri, 18 Sept 2026
+- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
+- The Concourse Project, Austin · Sun, 6 Sept 2026
+- TBA - Wasteland Festival, Cologne · Sat, 5 Sept 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Munich Beach Resort, Munich · Sat, 8 Aug 2026
+- Flava Beach, Naples · Sat, 18 Jul 2026
 
 ## Shares bills with
 

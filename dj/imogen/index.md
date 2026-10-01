@@ -1,8 +1,8 @@
 # IMOGEN
 
-IMOGEN is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+IMOGEN is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
-IMOGEN is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Austin and Bangkok and 46 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+IMOGEN is a techno and electro artist based in United Kingdom, with 147 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 46 more. Often billed alongside DJ MELL G, DJ Stingray 313 and Helena Hauff. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ IMOGEN is a techno and electro artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Tapada da Ajuda, Lisbon — Sat, 26 Sept 2026
-- public records, New York City — Fri, 17 Jul 2026
-- The White Hotel, Manchester — Sat, 11 Jul 2026
-- KREUZWERK, Berlin — Fri, 3 Jul 2026
-- The Carpet Shop, London — Sat, 27 Jun 2026
-- Badaboum, Paris — Sat, 20 Jun 2026
-- The Bernard Shaw, Dublin — Sun, 31 May 2026
-- TBA - UNICORN FACTORY - OPEN AIR, Lisbon — Sat, 2 May 2026
+- Tapada da Ajuda, Lisbon · Sat, 26 Sept 2026
+- public records, New York City · Fri, 17 Jul 2026
+- The White Hotel, Manchester · Sat, 11 Jul 2026
+- KREUZWERK, Berlin · Fri, 3 Jul 2026
+- The Carpet Shop, London · Sat, 27 Jun 2026
+- Badaboum, Paris · Sat, 20 Jun 2026
+- The Bernard Shaw, Dublin · Sun, 31 May 2026
+- TBA - UNICORN FACTORY - OPEN AIR, Lisbon · Sat, 2 May 2026
 
 ## Shares bills with
 

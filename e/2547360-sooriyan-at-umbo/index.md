@@ -1,6 +1,6 @@
 # SOORIYAN at Umbo
 
-SOORIYAN at Umbo on Sat 17 Oct, Zurich. Preview the line-up and save it on soundcheck.
+SOORIYAN at Umbo on Sat 17 Oct, Zurich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Acid Arab V CROSSU at Cross Club
 
-Acid Arab V CROSSU at Cross Club on Sat 10 Oct, Prague. 2 artists on the bill: Acid Arab and Ghandi. Preview the line-up and save it on soundcheck.
+Acid Arab V CROSSU at Cross Club on Sat 10 Oct, Prague. 2 artists: Acid Arab and Ghandi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

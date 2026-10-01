@@ -1,6 +1,6 @@
 # SUNSET SERVICE HALLOWEEN ROOFTOP PARTY at Somewhere Special
 
-SUNSET SERVICE HALLOWEEN ROOFTOP PARTY at Somewhere Special on Sat 31 Oct, Los Angeles. 3 artists on the bill: JTJ, Lavenge and Max Rush. House and Tech House. Preview the line-up and save it on soundcheck.
+SUNSET SERVICE HALLOWEEN ROOFTOP PARTY at Somewhere Special on Sat 31 Oct, Los Angeles. 3 artists: JTJ, Lavenge and Max Rush. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

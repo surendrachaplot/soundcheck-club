@@ -1,6 +1,6 @@
 # Weird Circle with Charlieowo at Nyapi
 
-Weird Circle with Charlieowo at Nyapi on Fri 23 Oct, Seoul. 4 artists on the bill: Charlieowo, Kugel, SINAHILL and Sunday Lee. Preview the line-up and save it on soundcheck.
+Weird Circle with Charlieowo at Nyapi on Fri 23 Oct, Seoul. 4 artists: Charlieowo, Kugel, SINAHILL and Sunday Lee. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

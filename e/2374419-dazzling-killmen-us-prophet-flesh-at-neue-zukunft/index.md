@@ -1,6 +1,6 @@
 # Dazzling Killmen (US), Prophet & Flesh at Neue Zukunft
 
-Dazzling Killmen (US), Prophet & Flesh at Neue Zukunft on Wed 14 Oct, Berlin. Experimental. Preview the line-up and save it on soundcheck.
+Dazzling Killmen (US), Prophet & Flesh at Neue Zukunft on Wed 14 Oct, Berlin. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Squid
 
-Squid is a Electronica and Dembow artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Future Yard, Liverpool on Sun, 25 Oct 2026.
+Squid is a Electronica and Dembow artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Future Yard, Liverpool on Sun, 25 Oct 2026.
 
-Squid is an electronica and dembow artist based in United States of America, tracked on soundcheck, with 3 sets logged across Bristol, Liverpool and Mexico City. Often billed alongside 96 Back, A Good Year and Alex Wilcox. Next up: Future Yard, Liverpool on Sun 25 Oct.
+Squid is an electronica and dembow artist based in United States of America, with 3 gigs on soundcheck across Bristol, Liverpool and Mexico City. Often billed alongside 96 Back, A Good Year and Alex Wilcox. Next up: Future Yard, Liverpool on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ Squid is an electronica and dembow artist based in United States of America, tra
 
 ## Recently played
 
-- TBA, Mexico City — Sat, 16 Aug 2025
+- TBA, Mexico City · Sat, 16 Aug 2025
 
 ## Shares bills with
 

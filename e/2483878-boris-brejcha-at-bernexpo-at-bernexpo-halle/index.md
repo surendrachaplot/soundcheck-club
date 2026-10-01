@@ -1,6 +1,6 @@
 # Boris Brejcha at Bernexpo at Bernexpo Halle
 
-Boris Brejcha at Bernexpo at Bernexpo Halle on Fri 30 Oct, Bern. 1 artist on the bill: Boris Brejcha. Preview the line-up and save it on soundcheck.
+Boris Brejcha at Bernexpo at Bernexpo Halle on Fri 30 Oct, Bern. 1 artist: Boris Brejcha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

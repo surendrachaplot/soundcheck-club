@@ -1,6 +1,6 @@
 # MITHA: Ewan Pearson, Kickin' Pigeon & Royal Male [Red Laser Records/Do!! You!!!] at Eiger Studios
 
-MITHA: Ewan Pearson, Kickin' Pigeon & Royal Male [Red Laser Records/Do!! You!!!] at Eiger Studios on Sat 24 Oct, Leeds. 4 artists on the bill: Ewan Pearson, Kickin Pigeon, Oscar (MITHA) and Royal Male. Preview the line-up and save it on soundcheck.
+MITHA: Ewan Pearson, Kickin' Pigeon & Royal Male [Red Laser Records/Do!! You!!!] at Eiger Studios on Sat 24 Oct, Leeds. 4 artists: Ewan Pearson, Kickin Pigeon, Oscar (MITHA) and Royal Male. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

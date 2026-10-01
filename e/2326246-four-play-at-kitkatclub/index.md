@@ -1,6 +1,6 @@
 # Four Play at KitKatClub
 
-Four Play at KitKatClub on Fri 4 Dec, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+Four Play at KitKatClub on Fri 4 Dec, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

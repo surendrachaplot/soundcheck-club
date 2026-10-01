@@ -1,6 +1,6 @@
 # Lazy Sunday Querétaro - Mandragora at Sirilo Music Venue
 
-Lazy Sunday Querétaro - Mandragora at Sirilo Music Venue on Sun 18 Oct, Quer Taro. 1 artist on the bill: Mandragora. Preview the line-up and save it on soundcheck.
+Lazy Sunday Querétaro - Mandragora at Sirilo Music Venue on Sun 18 Oct, Quer Taro. 1 artist: Mandragora. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

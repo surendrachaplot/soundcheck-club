@@ -1,6 +1,6 @@
 # Club — LA CH!CK: PROJET X at Badaboum
 
-Club — LA CH!CK: PROJET X at Badaboum on Thu 1 Oct, Paris. Pop. Preview the line-up and save it on soundcheck.
+Club — LA CH!CK: PROJET X at Badaboum on Thu 1 Oct, Paris. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

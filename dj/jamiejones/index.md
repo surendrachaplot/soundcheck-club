@@ -1,8 +1,8 @@
 # Jamie Jones
 
-Jamie Jones is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Jamie Jones is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
-Jamie Jones is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 214 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: TBA, Central on Fri 2 Oct.
+Jamie Jones is a house and tech house artist based in United Kingdom, with 214 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Joseph Capriati, Manda Moor and ALISHA. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Jamie Jones is a house and tech house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- [UNVRS], Ibiza — Wed, 30 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 29 Sept 2026
-- [UNVRS], Ibiza — Wed, 23 Sept 2026
-- Pacha Ibiza, Ibiza — Fri, 18 Sept 2026
-- [UNVRS], Ibiza — Wed, 16 Sept 2026
-- [UNVRS], Ibiza — Wed, 9 Sept 2026
-- [UNVRS], Ibiza — Wed, 2 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
+- [UNVRS], Ibiza · Wed, 30 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 29 Sept 2026
+- [UNVRS], Ibiza · Wed, 23 Sept 2026
+- Pacha Ibiza, Ibiza · Fri, 18 Sept 2026
+- [UNVRS], Ibiza · Wed, 16 Sept 2026
+- [UNVRS], Ibiza · Wed, 9 Sept 2026
+- [UNVRS], Ibiza · Wed, 2 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
 
 ## Shares bills with
 

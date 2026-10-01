@@ -1,6 +1,6 @@
 # AFRODISE Barcelona Halloween [Balla Barcelona Festival] at Parc del Fòrum
 
-AFRODISE Barcelona Halloween [Balla Barcelona Festival] at Parc del Fòrum on Fri 30 Oct, Barcelona. 1 artist on the bill: AARON SEVILLA. Afro House. Preview the line-up and save it on soundcheck.
+AFRODISE Barcelona Halloween [Balla Barcelona Festival] at Parc del Fòrum on Fri 30 Oct, Barcelona. 1 artist: AARON SEVILLA. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

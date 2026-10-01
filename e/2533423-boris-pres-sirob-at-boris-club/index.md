@@ -1,6 +1,6 @@
 # Boris pres. SIROB at BORIS CLUB
 
-Boris pres. SIROB at BORIS CLUB on Sat 5 Dec, Barcelona. 1 artist on the bill: Olga Korol. House. Preview the line-up and save it on soundcheck.
+Boris pres. SIROB at BORIS CLUB on Sat 5 Dec, Barcelona. 1 artist: Olga Korol. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

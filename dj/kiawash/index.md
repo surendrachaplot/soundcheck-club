@@ -1,8 +1,8 @@
 # Kiawash
 
-Kiawash is a Electronica and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
+Kiawash is a Electronica and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Secret Location Vienna, Vienna on Fri, 2 Oct 2026.
 
-Kiawash is an electronica and bass artist based in Germany, tracked on soundcheck, with 26 sets logged across Cologne, Munich, Stuttgart and Vienna. Often billed alongside Sarmabot, tbhase and Kareem El Morr. Next up: Secret Location Vienna, Vienna on Fri 2 Oct.
+Kiawash is an electronica and bass artist based in Germany, with 26 gigs on soundcheck across Cologne, Munich, Stuttgart and Vienna. Often billed alongside Sarmabot, tbhase and Kareem El Morr. Next up: Secret Location Vienna, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kiawash is an electronica and bass artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Favorit Bar, Munich — Sat, 26 Sept 2026
-- Import Export, Munich — Sat, 15 Aug 2026
-- BLITZ, Munich — Fri, 31 Jul 2026
-- Import Export, Munich — Sat, 16 May 2026
-- Favorit Bar, Munich — Sat, 20 Dec 2025
-- BLITZ, Munich — Wed, 17 Dec 2025
-- ZIRKA, Munich — Sat, 9 Aug 2025
-- Garchinger See, Munich — Sat, 19 Jul 2025
+- Favorit Bar, Munich · Sat, 26 Sept 2026
+- Import Export, Munich · Sat, 15 Aug 2026
+- BLITZ, Munich · Fri, 31 Jul 2026
+- Import Export, Munich · Sat, 16 May 2026
+- Favorit Bar, Munich · Sat, 20 Dec 2025
+- BLITZ, Munich · Wed, 17 Dec 2025
+- ZIRKA, Munich · Sat, 9 Aug 2025
+- Garchinger See, Munich · Sat, 19 Jul 2025
 
 ## Shares bills with
 

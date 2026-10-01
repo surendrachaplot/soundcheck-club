@@ -1,8 +1,8 @@
 # Paraçek
 
-Paraçek is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at WDM, Hannover on Fri, 16 Oct 2026.
+Paraçek is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at WDM, Hannover on Fri, 16 Oct 2026.
 
-Paraçek is a techno and trance artist based in Germany, tracked on soundcheck, with 163 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 17 more. Often billed alongside A.N.I., KLING&KLANG and DJ WASSERFALL. Next up: WDM, Hannover on Fri 16 Oct.
+Paraçek is a techno and trance artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 17 more. Often billed alongside A.N.I., KLING&KLANG and DJ WASSERFALL. Next up: WDM, Hannover on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Paraçek is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Fri, 25 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 4 Sept 2026
-- Marienbergpark, Nürnberg — Sat, 29 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Edelfettwerk, Hamburg — Sun, 23 Aug 2026
-- Munich Beach Resort, Munich — Sat, 8 Aug 2026
-- Waschhaus, Berlin — Fri, 7 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
+- RSO.BERLIN, Berlin · Fri, 25 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 4 Sept 2026
+- Marienbergpark, Nürnberg · Sat, 29 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Edelfettwerk, Hamburg · Sun, 23 Aug 2026
+- Munich Beach Resort, Munich · Sat, 8 Aug 2026
+- Waschhaus, Berlin · Fri, 7 Aug 2026
+- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
 
 ## Shares bills with
 

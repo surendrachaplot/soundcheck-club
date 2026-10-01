@@ -1,8 +1,8 @@
 # Story Toronto
 
-Story Toronto is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Ozmozis presents Khen" on Fri, 16 Oct 2026.
+Story Toronto is a music venue in Toronto with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ozmozis presents Khen" on Fri, 16 Oct 2026.
 
-Story Toronto is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Andrew McDonnell, Khen, KILL 9 1 and Mand0 and 2 more. Browse upcoming dates, start times and who's playing. 214 Adelaide St W, Toronto, ON M5H 1W7, Canada.
+Story Toronto is a music venue in Toronto listed on soundcheck. 3 upcoming gigs, with line-ups including Andrew McDonnell, Khen, KILL 9 1 and Mand0 and 2 more. See dates, start times and who's playing. 214 Adelaide St W, Toronto, ON M5H 1W7, Canada.
 
 ## What's on
 

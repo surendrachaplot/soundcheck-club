@@ -1,6 +1,6 @@
 # mixclub: electro with Blaze, Elo, Another Place & Leany at Movers
 
-mixclub: electro with Blaze, Elo, Another Place & Leany at Movers on Thu 1 Oct, Nottingham. Electro. Preview the line-up and save it on soundcheck.
+mixclub: electro with Blaze, Elo, Another Place & Leany at Movers on Thu 1 Oct, Nottingham. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

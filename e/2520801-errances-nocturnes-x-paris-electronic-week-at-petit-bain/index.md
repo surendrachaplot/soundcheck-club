@@ -1,6 +1,6 @@
 # Errances Nocturnes x Paris Electronic Week at Petit Bain
 
-Errances Nocturnes x Paris Electronic Week at Petit Bain on Fri 2 Oct, Paris. Electro. Preview the line-up and save it on soundcheck.
+Errances Nocturnes x Paris Electronic Week at Petit Bain on Fri 2 Oct, Paris. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Yudai Sugiyama
 
-Yudai Sugiyama is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Compufunk Records, Osaka on Fri, 23 Oct 2026.
+Yudai Sugiyama is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Compufunk Records, Osaka on Fri, 23 Oct 2026.
 
-Yudai Sugiyama is a house and techno artist based in Japan, tracked on soundcheck, with 32 sets logged across Osaka. Often billed alongside DJ Compufunk, Cine and DJ KAZUMA. Next up: Compufunk Records, Osaka on Fri 23 Oct.
+Yudai Sugiyama is a house and techno artist based in Japan, with 32 gigs on soundcheck across Osaka. Often billed alongside DJ Compufunk, Cine and DJ KAZUMA. Next up: Compufunk Records, Osaka on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Yudai Sugiyama is a house and techno artist based in Japan, tracked on soundchec
 
 ## Recently played
 
-- Compufunk Records, Osaka — Fri, 25 Sept 2026
-- Area_osaka, Osaka — Sat, 19 Sept 2026
-- flo Soakin, Osaka — Sat, 12 Sept 2026
-- Socore Factory, Osaka — Mon, 10 Aug 2026
-- Compufunk Records, Osaka — Sat, 1 Aug 2026
-- Teranoma Tidepool, Osaka — Sat, 18 Jul 2026
-- flo Soakin, Osaka — Fri, 15 May 2026
-- Compufunk Records, Osaka — Sat, 2 May 2026
+- Compufunk Records, Osaka · Fri, 25 Sept 2026
+- Area_osaka, Osaka · Sat, 19 Sept 2026
+- flo Soakin, Osaka · Sat, 12 Sept 2026
+- Socore Factory, Osaka · Mon, 10 Aug 2026
+- Compufunk Records, Osaka · Sat, 1 Aug 2026
+- Teranoma Tidepool, Osaka · Sat, 18 Jul 2026
+- flo Soakin, Osaka · Fri, 15 May 2026
+- Compufunk Records, Osaka · Sat, 2 May 2026
 
 ## Shares bills with
 

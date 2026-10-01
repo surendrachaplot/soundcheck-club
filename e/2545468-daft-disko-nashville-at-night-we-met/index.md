@@ -1,6 +1,6 @@
 # Daft Disko: Nashville at Night We Met
 
-Daft Disko: Nashville at Night We Met on Fri 6 Nov, Nashville. House and Disco. Preview the line-up and save it on soundcheck.
+Daft Disko: Nashville at Night We Met on Fri 6 Nov, Nashville. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Starjunk 95 at Botanique
 
-Starjunk 95 at Botanique on Tue 13 Oct, Brussels. Electro. Preview the line-up and save it on soundcheck.
+Starjunk 95 at Botanique on Tue 13 Oct, Brussels. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

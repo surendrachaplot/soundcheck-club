@@ -1,6 +1,6 @@
 # +friends. - Halloween on the Thames at Battersea Barge
 
-+friends. - Halloween on the Thames at Battersea Barge on Sat 31 Oct, London. House and Garage. Preview the line-up and save it on soundcheck.
++friends. - Halloween on the Thames at Battersea Barge on Sat 31 Oct, London. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

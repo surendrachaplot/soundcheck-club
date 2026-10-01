@@ -1,8 +1,8 @@
 # Vaccaro
 
-Vaccaro is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ÆDEN, Berlin on Fri, 2 Oct 2026.
+Vaccaro is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ÆDEN, Berlin on Fri, 2 Oct 2026.
 
-Vaccaro is a techno and house artist based in Brazil, tracked on soundcheck, with 35 sets logged across Berlin. Often billed alongside MXC, Tinco and No Auer. Next up: ÆDEN, Berlin on Fri 2 Oct.
+Vaccaro is a techno and house artist based in Brazil, with 35 gigs on soundcheck across Berlin. Often billed alongside MXC, Tinco and No Auer. Next up: ÆDEN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Vaccaro is a techno and house artist based in Brazil, tracked on soundcheck, wit
 
 ## Recently played
 
-- Renate, Berlin — Sat, 19 Sept 2026
-- Coro Wine and Vinyls, Berlin — Wed, 16 Sept 2026
-- ÆDEN, Berlin — Wed, 9 Sept 2026
-- ÆDEN, Berlin — Sun, 23 Aug 2026
-- ÆDEN, Berlin — Sat, 15 Aug 2026
-- TBA - Neukolln, Berlin — Sat, 8 Aug 2026
-- Crack Bellmer, Berlin — Thu, 16 Jul 2026
-- TBA - Central Berlin, Berlin — Fri, 12 Jun 2026
+- Renate, Berlin · Sat, 19 Sept 2026
+- Coro Wine and Vinyls, Berlin · Wed, 16 Sept 2026
+- ÆDEN, Berlin · Wed, 9 Sept 2026
+- ÆDEN, Berlin · Sun, 23 Aug 2026
+- ÆDEN, Berlin · Sat, 15 Aug 2026
+- TBA - Neukolln, Berlin · Sat, 8 Aug 2026
+- Crack Bellmer, Berlin · Thu, 16 Jul 2026
+- TBA - Central Berlin, Berlin · Fri, 12 Jun 2026
 
 ## Shares bills with
 

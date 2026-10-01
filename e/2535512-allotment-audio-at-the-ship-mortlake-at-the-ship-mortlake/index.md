@@ -1,6 +1,6 @@
 # ALLOTMENT AUDIO AT THE SHIP MORTLAKE at The Ship, Mortlake
 
-ALLOTMENT AUDIO AT THE SHIP MORTLAKE at The Ship, Mortlake on Sat 3 Oct, London. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+ALLOTMENT AUDIO AT THE SHIP MORTLAKE at The Ship, Mortlake on Sat 3 Oct, London. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bar/Car feat. Misha Mir & Spindola at Orient Express
 
-Bar/Car feat. Misha Mir & Spindola at Orient Express on Fri 16 Oct, Seattle. 2 artists on the bill: Misha Mir and Mr. Linden. House and Minimal. Preview the line-up and save it on soundcheck.
+Bar/Car feat. Misha Mir & Spindola at Orient Express on Fri 16 Oct, Seattle. 2 artists: Misha Mir and Mr. Linden. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

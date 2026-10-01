@@ -1,6 +1,6 @@
 # Low Season, so so:if so & Dam Ru Live at The Hug & Pint
 
-Low Season, so so:if so & Dam Ru Live at The Hug & Pint on Mon 19 Oct, Glasgow. Deep House and Dub. Preview the line-up and save it on soundcheck.
+Low Season, so so:if so & Dam Ru Live at The Hug & Pint on Mon 19 Oct, Glasgow. Deep House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

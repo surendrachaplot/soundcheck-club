@@ -1,6 +1,6 @@
 # 新年会GIG 2026 at Socrates
 
-新年会GIG 2026 at Socrates on Fri 11 Dec, Kyoto. Hardcore. Preview the line-up and save it on soundcheck.
+新年会GIG 2026 at Socrates on Fri 11 Dec, Kyoto. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

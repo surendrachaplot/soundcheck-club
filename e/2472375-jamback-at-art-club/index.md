@@ -1,6 +1,6 @@
 # JAMBACK at Art Club
 
-JAMBACK at Art Club on Fri 30 Oct, Houston. 1 artist on the bill: Jamback. Preview the line-up and save it on soundcheck.
+JAMBACK at Art Club on Fri 30 Oct, Houston. 1 artist: Jamback. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

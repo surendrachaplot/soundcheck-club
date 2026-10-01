@@ -1,6 +1,6 @@
 # RECESS 10/3 at Alphaville
 
-RECESS 10/3 at Alphaville on Sat 3 Oct, New York City. 2 artists on the bill: GUAVA (BK) and JULESMCKOOLS. Techno and House. Preview the line-up and save it on soundcheck.
+RECESS 10/3 at Alphaville on Sat 3 Oct, New York City. 2 artists: GUAVA (BK) and JULESMCKOOLS. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

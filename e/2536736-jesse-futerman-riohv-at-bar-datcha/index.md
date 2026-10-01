@@ -1,6 +1,6 @@
 # Jesse Futerman & Riohv at Bar Datcha
 
-Jesse Futerman & Riohv at Bar Datcha on Sat 3 Oct, Montreal. 2 artists on the bill: Jesse Futerman and Riohv. Preview the line-up and save it on soundcheck.
+Jesse Futerman & Riohv at Bar Datcha on Sat 3 Oct, Montreal. 2 artists: Jesse Futerman and Riohv. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

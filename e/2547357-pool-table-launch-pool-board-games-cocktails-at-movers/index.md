@@ -1,6 +1,6 @@
 # Pool Table Launch: Pool, Board Games & Cocktails at Movers
 
-Pool Table Launch: Pool, Board Games & Cocktails at Movers on Thu 15 Oct, Nottingham. House. Preview the line-up and save it on soundcheck.
+Pool Table Launch: Pool, Board Games & Cocktails at Movers on Thu 15 Oct, Nottingham. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

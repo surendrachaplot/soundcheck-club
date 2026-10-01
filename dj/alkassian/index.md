@@ -1,8 +1,8 @@
 # Alex Kassian
 
-Alex Kassian is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Palais, London on Fri, 9 Oct 2026.
+Alex Kassian is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Palais, London on Fri, 9 Oct 2026.
 
-Alex Kassian is a house and techno artist based in Germany, tracked on soundcheck, with 182 sets logged across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside PARAMIDA, Job Jobse and Running Hot. Next up: Palais, London on Fri 9 Oct.
+Alex Kassian is a house and techno artist based in Germany, with 182 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 55 more. Often billed alongside PARAMIDA, Job Jobse and Running Hot. Next up: Palais, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Alex Kassian is a house and techno artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Usquare, Brussels — Sat, 26 Sept 2026
-- HHV.de Store, Berlin — Thu, 24 Sept 2026
-- Fridas Pier, Stuttgart — Sat, 19 Sept 2026
-- Macadam, Nantes — Sun, 13 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- fi, Cologne — Sat, 5 Sept 2026
-- Else, Berlin — Fri, 28 Aug 2026
-- Kauz, Zurich — Sat, 15 Aug 2026
+- Usquare, Brussels · Sat, 26 Sept 2026
+- HHV.de Store, Berlin · Thu, 24 Sept 2026
+- Fridas Pier, Stuttgart · Sat, 19 Sept 2026
+- Macadam, Nantes · Sun, 13 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- fi, Cologne · Sat, 5 Sept 2026
+- Else, Berlin · Fri, 28 Aug 2026
+- Kauz, Zurich · Sat, 15 Aug 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Miguel Clark
 
-Miguel Clark is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - DTLA, Los Angeles on Sat, 3 Oct 2026.
+Miguel Clark is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 3 Oct 2026.
 
-Miguel Clark is a techno and house artist based in Venezuela, tracked on soundcheck, with 14 sets logged across Los Angeles, Miami and New York City. Often billed alongside Naim Zarzour, Ultrathem and Gabo Escalona. Next up: TBA - DTLA, Los Angeles on Sat 3 Oct.
+Miguel Clark is a techno and house artist based in Venezuela, with 14 gigs on soundcheck across Los Angeles, Miami and New York City. Often billed alongside Naim Zarzour, Ultrathem and Gabo Escalona. Next up: TBA - DTLA, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Miguel Clark is a techno and house artist based in Venezuela, tracked on soundch
 
 ## Recently played
 
-- MAD Club Live, Miami — Sat, 22 Aug 2026
-- Arlo Wynwood, Miami — Sat, 11 Jul 2026
-- Le Bain, New York City — Sun, 28 Jun 2026
-- MAD Club Live, Miami — Sat, 13 Jun 2026
-- The Ground at Club Space, Miami — Fri, 5 Jun 2026
-- Camp Owaissa Bauer, Miami — Fri, 8 May 2026
-- MAD Club Live, Miami — Sat, 18 Apr 2026
-- Domicile, Miami — Sat, 14 Mar 2026
+- MAD Club Live, Miami · Sat, 22 Aug 2026
+- Arlo Wynwood, Miami · Sat, 11 Jul 2026
+- Le Bain, New York City · Sun, 28 Jun 2026
+- MAD Club Live, Miami · Sat, 13 Jun 2026
+- The Ground at Club Space, Miami · Fri, 5 Jun 2026
+- Camp Owaissa Bauer, Miami · Fri, 8 May 2026
+- MAD Club Live, Miami · Sat, 18 Apr 2026
+- Domicile, Miami · Sat, 14 Mar 2026
 
 ## Shares bills with
 

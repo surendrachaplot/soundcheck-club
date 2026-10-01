@@ -1,6 +1,6 @@
 # friends.zone mit Mario Lauriano & Freunde at Minimal Bar
 
-friends.zone mit Mario Lauriano & Freunde at Minimal Bar on Sat 28 Nov, Berlin. 1 artist on the bill: Mario Lauriano. Preview the line-up and save it on soundcheck.
+friends.zone mit Mario Lauriano & Freunde at Minimal Bar on Sat 28 Nov, Berlin. 1 artist: Mario Lauriano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

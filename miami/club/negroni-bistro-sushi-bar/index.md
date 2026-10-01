@@ -1,8 +1,8 @@
 # Negroni Bistro & Sushi Bar
 
-Negroni Bistro & Sushi Bar is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Nervous X Negroni DJ Showcase" on Thu, 15 Oct 2026.
+Negroni Bistro & Sushi Bar is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Nervous X Negroni DJ Showcase" on Thu, 15 Oct 2026.
 
-Negroni Bistro & Sushi Bar is a music venue in Miami listed on soundcheck. 1 upcoming gig, with line-ups including Brooklyn Mike, Mandiz and Mike Nervous. Browse upcoming dates, start times and who's playing. 3201 Buena Vista Blvd, Miami, FL 33127.
+Negroni Bistro & Sushi Bar is a music venue in Miami listed on soundcheck. 1 upcoming gig, with line-ups including Brooklyn Mike, Mandiz and Mike Nervous. See dates, start times and who's playing. 3201 Buena Vista Blvd, Miami, FL 33127.
 
 ## What's on
 

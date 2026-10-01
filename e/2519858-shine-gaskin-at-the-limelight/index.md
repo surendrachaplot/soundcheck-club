@@ -1,6 +1,6 @@
 # SHINE -- Gaskin at The Limelight
 
-SHINE -- Gaskin at The Limelight on Sat 17 Oct, Belfast. 1 artist on the bill: Gaskin. Preview the line-up and save it on soundcheck.
+SHINE -- Gaskin at The Limelight on Sat 17 Oct, Belfast. 1 artist: Gaskin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Sina (AU)
 
-Sina (AU) is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Sina (AU) is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
-Sina (AU) is an ambient and experimental artist based in Australia, tracked on soundcheck, with 39 sets logged across Amsterdam, Berlin, Detroit and Lisbon and 9 more. Often billed alongside Kavil, Vlada and Tangerine. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
+Sina (AU) is an ambient and experimental artist based in Australia, with 39 gigs on soundcheck across Amsterdam, Berlin, Detroit and Lisbon and 9 more. Often billed alongside Kavil, Vlada and Tangerine. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sina (AU) is an ambient and experimental artist based in Australia, tracked on s
 
 ## Recently played
 
-- Spkrbox, Detroit — Tue, 22 Sept 2026
-- Soffio Fregene, Rome — Sat, 18 Jul 2026
-- THE MAGICK BAR, Rome — Fri, 17 Jul 2026
-- Made In Cloister, Naples — Thu, 16 Jul 2026
-- TBA, Berlin — Sun, 12 Jul 2026
-- MaHalla, Berlin — Fri, 3 Jul 2026
-- TBA, Amsterdam — Thu, 2 Jul 2026
-- Spanners, London — Wed, 24 Jun 2026
+- Spkrbox, Detroit · Tue, 22 Sept 2026
+- Soffio Fregene, Rome · Sat, 18 Jul 2026
+- THE MAGICK BAR, Rome · Fri, 17 Jul 2026
+- Made In Cloister, Naples · Thu, 16 Jul 2026
+- TBA, Berlin · Sun, 12 Jul 2026
+- MaHalla, Berlin · Fri, 3 Jul 2026
+- TBA, Amsterdam · Thu, 2 Jul 2026
+- Spanners, London · Wed, 24 Jun 2026
 
 ## Shares bills with
 

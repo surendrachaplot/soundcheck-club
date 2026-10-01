@@ -1,6 +1,6 @@
 # Studio Stereo x Amores & Beyond pres. Yass & Mali at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Amores & Beyond pres. Yass & Mali at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 16 Oct, Barcelona. 4 artists on the bill: Liana, Pacome, Parea (FR) and Yass & Mali. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Amores & Beyond pres. Yass & Mali at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 16 Oct, Barcelona. 4 artists: Liana, Pacome, Parea (FR) and Yass & Mali. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

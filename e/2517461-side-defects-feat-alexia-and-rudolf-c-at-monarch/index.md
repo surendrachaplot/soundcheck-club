@@ -1,6 +1,6 @@
 # Side Defects feat Alexia and Rudolf C at Monarch
 
-Side Defects feat Alexia and Rudolf C at Monarch on Sat 3 Oct, Berlin. 5 artists on the bill: Alexia, MFX, Rudolf C and tamū and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Side Defects feat Alexia and Rudolf C at Monarch on Sat 3 Oct, Berlin. 5 artists: Alexia, MFX, Rudolf C and tamū and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

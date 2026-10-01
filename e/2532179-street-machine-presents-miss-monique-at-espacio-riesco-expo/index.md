@@ -1,6 +1,6 @@
 # Street Machine presents: Miss Monique at Espacio Riesco Expo Centre
 
-Street Machine presents: Miss Monique at Espacio Riesco Expo Centre on Fri 2 Oct, Santiago. 1 artist on the bill: Miss Monique. Preview the line-up and save it on soundcheck.
+Street Machine presents: Miss Monique at Espacio Riesco Expo Centre on Fri 2 Oct, Santiago. 1 artist: Miss Monique. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Beach Bounce: Season Closing at Casa Da Praia
 
-Beach Bounce: Season Closing at Casa Da Praia on Fri 2 Oct, Lisbon. Trance and House. Preview the line-up and save it on soundcheck.
+Beach Bounce: Season Closing at Casa Da Praia on Fri 2 Oct, Lisbon. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

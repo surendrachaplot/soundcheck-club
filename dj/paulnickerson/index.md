@@ -1,8 +1,8 @@
 # Paul Nickerson
 
-Paul Nickerson is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cosmic Arts, New York City on Sat, 24 Oct 2026.
+Paul Nickerson is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cosmic Arts, New York City on Sat, 24 Oct 2026.
 
-Paul Nickerson is a house and disco artist based in United States of America, tracked on soundcheck, with 25 sets logged across New York City and Philadelphia. Often billed alongside Slow To Speak, Joe Claussell and Jonny Romero. Next up: Cosmic Arts, New York City on Sat 24 Oct.
+Paul Nickerson is a house and disco artist based in United States of America, with 25 gigs on soundcheck across New York City and Philadelphia. Often billed alongside Slow To Speak, Joe Claussell and Jonny Romero. Next up: Cosmic Arts, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Paul Nickerson is a house and disco artist based in United States of America, tr
 
 ## Recently played
 
-- Locust Grove, New York City — Fri, 31 Jul 2026
-- Locust Grove, New York City — Sat, 23 May 2026
-- Locust Grove, New York City — Sat, 4 Apr 2026
-- public records, New York City — Sat, 14 Feb 2026
-- Locust Grove, New York City — Thu, 1 Jan 2026
-- public records, New York City — Sat, 25 Oct 2025
-- Locust Grove, New York City — Fri, 1 Aug 2025
-- public records, New York City — Sun, 13 Jul 2025
+- Locust Grove, New York City · Fri, 31 Jul 2026
+- Locust Grove, New York City · Sat, 23 May 2026
+- Locust Grove, New York City · Sat, 4 Apr 2026
+- public records, New York City · Sat, 14 Feb 2026
+- Locust Grove, New York City · Thu, 1 Jan 2026
+- public records, New York City · Sat, 25 Oct 2025
+- Locust Grove, New York City · Fri, 1 Aug 2025
+- public records, New York City · Sun, 13 Jul 2025
 
 ## Shares bills with
 

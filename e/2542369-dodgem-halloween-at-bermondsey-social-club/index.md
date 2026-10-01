@@ -1,6 +1,6 @@
 # Dodgem Halloween at Bermondsey Social Club
 
-Dodgem Halloween at Bermondsey Social Club on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+Dodgem Halloween at Bermondsey Social Club on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

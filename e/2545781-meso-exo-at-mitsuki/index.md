@@ -1,6 +1,6 @@
 # meso|exo at Mitsuki
 
-meso|exo at Mitsuki on Sat 3 Oct, Tokyo. 3 artists on the bill: Kugel, teppei and YELLOWUHURU. Techno and Experimental. Preview the line-up and save it on soundcheck.
+meso|exo at Mitsuki on Sat 3 Oct, Tokyo. 3 artists: Kugel, teppei and YELLOWUHURU. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

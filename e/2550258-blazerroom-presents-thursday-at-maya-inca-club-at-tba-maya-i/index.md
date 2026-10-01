@@ -1,6 +1,6 @@
 # BlazerRoom presents: Thursday at Maya (Inca club) at TBA - Maya(Inca’s night club)
 
-BlazerRoom presents: Thursday at Maya (Inca club) at TBA - Maya(Inca’s night club) on Thu 1 Oct, London. 3 artists on the bill: Jackimo, PEI Z and Thousand Fingers. Tech House and Afro Tech. Preview the line-up and save it on soundcheck.
+BlazerRoom presents: Thursday at Maya (Inca club) at TBA - Maya(Inca’s night club) on Thu 1 Oct, London. 3 artists: Jackimo, PEI Z and Thousand Fingers. Tech House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Shake Daddy
 
-Shake Daddy is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
+Shake Daddy is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 3 Oct 2026.
 
-Shake Daddy is a techno and trance artist based in Australia, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside GEN97, SATYS FYRE and ANDATA. Next up: Humboldthain Club, Berlin on Sat 3 Oct.
+Shake Daddy is a techno and trance artist based in Australia, with 57 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside GEN97, SATYS FYRE and ANDATA. Next up: Humboldthain Club, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Shake Daddy is a techno and trance artist based in Australia, tracked on soundch
 
 ## Recently played
 
-- Amp, Munster — Sat, 26 Sept 2026
-- RSO.BERLIN, Berlin — Fri, 25 Sept 2026
-- Schiffsanlegestelle Uber Arena, Berlin — Sat, 19 Sept 2026
-- Lokschuppen Berlin, Berlin — Sat, 12 Sept 2026
-- Badaboum, Paris — Fri, 28 Aug 2026
-- Lieberscholli, Munich — Sun, 23 Aug 2026
-- Tempelhof Airport, Berlin — Sat, 22 Aug 2026
-- Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
+- Amp, Munster · Sat, 26 Sept 2026
+- RSO.BERLIN, Berlin · Fri, 25 Sept 2026
+- Schiffsanlegestelle Uber Arena, Berlin · Sat, 19 Sept 2026
+- Lokschuppen Berlin, Berlin · Sat, 12 Sept 2026
+- Badaboum, Paris · Fri, 28 Aug 2026
+- Lieberscholli, Munich · Sun, 23 Aug 2026
+- Tempelhof Airport, Berlin · Sat, 22 Aug 2026
+- Lokschuppen Berlin, Berlin · Fri, 21 Aug 2026
 
 ## Shares bills with
 

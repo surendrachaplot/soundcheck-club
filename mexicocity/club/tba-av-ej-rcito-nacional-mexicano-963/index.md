@@ -1,8 +1,8 @@
 # TBA - Av. Ejército Nacional Mexicano 963
 
-TBA - Av. Ejército Nacional Mexicano 963 is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "SYN & BOOX present Kromagon & Nikroma (Zenon Records)" on Sat, 3 Oct 2026.
+TBA - Av. Ejército Nacional Mexicano 963 is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "SYN & BOOX present Kromagon & Nikroma (Zenon Records)" on Sat, 3 Oct 2026.
 
-TBA - Av. Ejército Nacional Mexicano 963 is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Roberta and Sumiruna. Browse upcoming dates, start times and who's playing.
+TBA - Av. Ejército Nacional Mexicano 963 is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Roberta and Sumiruna. See dates, start times and who's playing.
 
 ## What's on
 

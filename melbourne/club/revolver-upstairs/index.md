@@ -1,8 +1,8 @@
 # Revolver Upstairs
 
-Revolver Upstairs is a music venue in Melbourne with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Fosters & Friends x Revolver Fridays" on Fri, 2 Oct 2026.
+Revolver Upstairs is a music venue in Melbourne with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Fosters & Friends x Revolver Fridays" on Fri, 2 Oct 2026.
 
-Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 21 upcoming gigs, with line-ups including 1NN3R53LF, 2 Factor Authentication, ADMINISTRATOR and Alex Wann and 2 more. Browse upcoming dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
+Revolver Upstairs is a music venue in Melbourne listed on soundcheck. 21 upcoming gigs, with line-ups including 1NN3R53LF, 2 Factor Authentication, ADMINISTRATOR and Alex Wann and 2 more. See dates, start times and who's playing. 229 Chapel St, Prahran VIC 3181, Australia.
 
 ## What's on
 

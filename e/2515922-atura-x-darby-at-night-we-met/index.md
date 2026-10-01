@@ -1,6 +1,6 @@
 # Atura x Darby at Night We Met
 
-Atura x Darby at Night We Met on Thu 1 Oct, Nashville. House and Bass. Preview the line-up and save it on soundcheck.
+Atura x Darby at Night We Met on Thu 1 Oct, Nashville. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

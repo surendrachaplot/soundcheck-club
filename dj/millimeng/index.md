@@ -1,8 +1,8 @@
 # Milli Meng
 
-Milli Meng is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
+Milli Meng is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
 
-Milli Meng is a techno and club artist based in United States of America, tracked on soundcheck, with 20 sets logged across San Francisco/Oakland. Often billed alongside Kaytree, YANNI and BAD JUUJU. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
+Milli Meng is a techno and club artist based in United States of America, with 20 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Kaytree, YANNI and BAD JUUJU. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Milli Meng is a techno and club artist based in United States of America, tracke
 
 ## Recently played
 
-- Public Works, San Francisco/Oakland — Sat, 26 Sept 2026
-- 888 Garage, San Francisco/Oakland — Sun, 13 Sept 2026
-- F8 1192 Folsom, San Francisco/Oakland — Sat, 5 Sept 2026
-- TBA - Shasta-Trinity National Forest, San Francisco/Oakland — Thu, 4 Jun 2026
-- TBA - Multiple SF Venues, San Francisco/Oakland — Thu, 14 May 2026
-- The Foundry, San Francisco/Oakland — Sat, 31 Jan 2026
-- TBA - SECRET SF LOCATION, San Francisco/Oakland — Sat, 10 Jan 2026
-- The Great Northern, San Francisco/Oakland — Fri, 10 Oct 2025
+- Public Works, San Francisco/Oakland · Sat, 26 Sept 2026
+- 888 Garage, San Francisco/Oakland · Sun, 13 Sept 2026
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 5 Sept 2026
+- TBA - Shasta-Trinity National Forest, San Francisco/Oakland · Thu, 4 Jun 2026
+- TBA - Multiple SF Venues, San Francisco/Oakland · Thu, 14 May 2026
+- The Foundry, San Francisco/Oakland · Sat, 31 Jan 2026
+- TBA - SECRET SF LOCATION, San Francisco/Oakland · Sat, 10 Jan 2026
+- The Great Northern, San Francisco/Oakland · Fri, 10 Oct 2025
 
 ## Shares bills with
 

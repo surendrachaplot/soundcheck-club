@@ -1,6 +1,6 @@
 # NEW YORK CATS at Wax Music Lounge
 
-NEW YORK CATS at Wax Music Lounge on Sat 31 Oct, Melbourne. House. Preview the line-up and save it on soundcheck.
+NEW YORK CATS at Wax Music Lounge on Sat 31 Oct, Melbourne. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

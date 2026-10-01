@@ -1,6 +1,6 @@
 # 20 VINTE XX at Plano B
 
-20 VINTE XX at Plano B on Sat 17 Oct, Porto. Preview the line-up and save it on soundcheck.
+20 VINTE XX at Plano B on Sat 17 Oct, Porto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

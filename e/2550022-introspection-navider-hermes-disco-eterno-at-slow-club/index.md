@@ -1,6 +1,6 @@
 # Introspection: Navider + Hermes Disco Eterno at Slow Club
 
-Introspection: Navider + Hermes Disco Eterno at Slow Club on Fri 9 Oct, Barcelona. 2 artists on the bill: Hermes Disco Eterno and Navider. Techno and House. Preview the line-up and save it on soundcheck.
+Introspection: Navider + Hermes Disco Eterno at Slow Club on Fri 9 Oct, Barcelona. 2 artists: Hermes Disco Eterno and Navider. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

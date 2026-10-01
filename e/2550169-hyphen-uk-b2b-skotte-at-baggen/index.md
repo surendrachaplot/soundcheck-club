@@ -1,6 +1,6 @@
 # Hyphen (UK) b2b Skotte at Baggen
 
-Hyphen (UK) b2b Skotte at Baggen on Fri 2 Oct, Copenhagen. 2 artists on the bill: Hyphen and Skotte. Preview the line-up and save it on soundcheck.
+Hyphen (UK) b2b Skotte at Baggen on Fri 2 Oct, Copenhagen. 2 artists: Hyphen and Skotte. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

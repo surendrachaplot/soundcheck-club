@@ -1,6 +1,6 @@
 # RheinRiff presents David Puentez at Rheinriff
 
-RheinRiff presents David Puentez at Rheinriff on Sun 29 Nov, Düsseldorf. House and Electro. Preview the line-up and save it on soundcheck.
+RheinRiff presents David Puentez at Rheinriff on Sun 29 Nov, Düsseldorf. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

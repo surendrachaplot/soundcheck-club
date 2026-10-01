@@ -1,6 +1,6 @@
 # All My Friends Day Disco at Cabaret Voltaire
 
-All My Friends Day Disco at Cabaret Voltaire on Sat 5 Dec, Edinburgh. Pop. Preview the line-up and save it on soundcheck.
+All My Friends Day Disco at Cabaret Voltaire on Sat 5 Dec, Edinburgh. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

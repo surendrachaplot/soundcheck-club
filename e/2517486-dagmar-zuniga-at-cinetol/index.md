@@ -1,6 +1,6 @@
 # Dagmar Zuniga at Cinetol
 
-Dagmar Zuniga at Cinetol on Mon 9 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+Dagmar Zuniga at Cinetol on Mon 9 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

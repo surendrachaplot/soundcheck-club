@@ -1,6 +1,6 @@
 # Halloween at Kinder pres. DOCTOR MÜCKE at Kindergarten Club
 
-Halloween at Kinder pres. DOCTOR MÜCKE at Kindergarten Club on Sat 31 Oct, Bologna. 1 artist on the bill: DOCTOR MÜCKE. Preview the line-up and save it on soundcheck.
+Halloween at Kinder pres. DOCTOR MÜCKE at Kindergarten Club on Sat 31 Oct, Bologna. 1 artist: DOCTOR MÜCKE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

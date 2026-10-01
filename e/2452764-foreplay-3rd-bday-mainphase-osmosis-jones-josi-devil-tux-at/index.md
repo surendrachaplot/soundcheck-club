@@ -1,6 +1,6 @@
 # Foreplay 3rd Bday: MainPhase + Osmosis Jones +  Josi Devil + TUX at The Warehouse
 
-Foreplay 3rd Bday: MainPhase + Osmosis Jones +  Josi Devil + TUX at The Warehouse on Fri 9 Oct, Leeds. 5 artists on the bill: Et Al, Josi Devil, Main Phase and Osmosis Jones and 1 more. Garage. Preview the line-up and save it on soundcheck.
+Foreplay 3rd Bday: MainPhase + Osmosis Jones +  Josi Devil + TUX at The Warehouse on Fri 9 Oct, Leeds. 5 artists: Et Al, Josi Devil, Main Phase and Osmosis Jones and 1 more. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

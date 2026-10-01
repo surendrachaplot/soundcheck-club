@@ -1,6 +1,6 @@
 # Kastel #KLUBNIGHTSERIES: HALLOWEEN WEEKEND CHAPTER 2 at Kastel
 
-Kastel #KLUBNIGHTSERIES: HALLOWEEN WEEKEND CHAPTER 2 on Sat 31 Oct, Istanbul. House. Preview the line-up and save it on soundcheck.
+Kastel #KLUBNIGHTSERIES: HALLOWEEN WEEKEND CHAPTER 2 on Sat 31 Oct, Istanbul. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

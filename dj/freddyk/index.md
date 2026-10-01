@@ -1,8 +1,8 @@
 # Freddy K
 
-Freddy K is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Freddy K is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Freddy K is a techno and house artist based in Germany, tracked on soundcheck, with 283 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Freddy K is a techno and house artist based in Germany, with 283 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 65 more. Often billed alongside Blasha & Allatt, Chlär and Alarico. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Freddy K is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Tue, 29 Sept 2026
-- Anfiteatro de Pedra, Lisbon — Sat, 26 Sept 2026
-- Kaiku, Helsinki — Fri, 25 Sept 2026
-- BASEMENT, New York City — Sat, 19 Sept 2026
-- TBA - Secret Location, Toronto — Fri, 18 Sept 2026
-- Fvtvr, Paris — Sat, 5 Sept 2026
-- Open Ground, Wuppertal — Fri, 4 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 25 Aug 2026
+- Amnesia Ibiza, Ibiza · Tue, 29 Sept 2026
+- Anfiteatro de Pedra, Lisbon · Sat, 26 Sept 2026
+- Kaiku, Helsinki · Fri, 25 Sept 2026
+- BASEMENT, New York City · Sat, 19 Sept 2026
+- TBA - Secret Location, Toronto · Fri, 18 Sept 2026
+- Fvtvr, Paris · Sat, 5 Sept 2026
+- Open Ground, Wuppertal · Fri, 4 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 25 Aug 2026
 
 ## Shares bills with
 

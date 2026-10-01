@@ -1,6 +1,6 @@
 # Tom Wainwright - Haçienda All Night Long at Joshua Brooks
 
-Tom Wainwright - Haçienda All Night Long at Joshua Brooks on Sat 3 Oct, Manchester. Deep House. Preview the line-up and save it on soundcheck.
+Tom Wainwright - Haçienda All Night Long at Joshua Brooks on Sat 3 Oct, Manchester. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Head Trip Festival 2026 at Empire Polo Club
 
-Head Trip Festival 2026 at Empire Polo Club on Sat 10 Oct, Palm Springs. 20 artists on the bill: Avalon Emerson, Ben Sterling, Ben UFO and Calvin Harris and 16 more. Preview the line-up and save it on soundcheck.
+Head Trip Festival 2026 at Empire Polo Club on Sat 10 Oct, Palm Springs. 20 artists: Avalon Emerson, Ben Sterling, Ben UFO and Calvin Harris and 16 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

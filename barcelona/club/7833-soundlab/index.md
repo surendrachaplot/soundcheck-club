@@ -1,8 +1,8 @@
 # 7833 Soundlab
 
-7833 Soundlab is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Paranoid x observer Pres/ Montero - Dzeko - Cono" on Fri, 9 Oct 2026.
+7833 Soundlab is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Paranoid x observer Pres/ Montero - Dzeko - Cono" on Fri, 9 Oct 2026.
 
-7833 Soundlab is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Aman Dava, Atman, Cono and Dzeko and 2 more. Browse upcoming dates, start times and who's playing. Carrer Ferlandina 29, Barcelona, 08001, Espanya.
+7833 Soundlab is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Aman Dava, Atman, Cono and Dzeko and 2 more. See dates, start times and who's playing. Carrer Ferlandina 29, Barcelona, 08001, Espanya.
 
 ## What's on
 
@@ -10,6 +10,7 @@
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Paranoid x observer Pres/ Montero - Dzeko - Cono | Cono (3), Dzeko, Montero |
 | Fri, 16 Oct 2026 | Atman · Mutul · Aman Dava Live at 7833 Soundlab Barcelona | Aman Dava, Atman, Mutul |
+| Sat, 17 Oct 2026 | Swag |  |
 
 ## Address
 

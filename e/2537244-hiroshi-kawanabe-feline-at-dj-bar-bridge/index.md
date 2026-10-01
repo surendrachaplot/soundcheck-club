@@ -1,6 +1,6 @@
 # HIROSHI KAWANABE & FELINE at DJ Bar Bridge
 
-HIROSHI KAWANABE & FELINE at DJ Bar Bridge on Wed 18 Nov, Tokyo. 1 artist on the bill: FELINE (JP). House. Preview the line-up and save it on soundcheck.
+HIROSHI KAWANABE & FELINE at DJ Bar Bridge on Wed 18 Nov, Tokyo. 1 artist: FELINE (JP). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

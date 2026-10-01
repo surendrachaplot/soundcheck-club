@@ -1,8 +1,8 @@
 # Goldie
 
-Goldie is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RASA, Singapore on Sat, 3 Oct 2026.
+Goldie is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at RASA, Singapore on Sat, 3 Oct 2026.
 
-Goldie is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 165 sets logged across Amsterdam, Antwerp, Atlanta and Auckland and 55 more. Often billed alongside Ant TC1, Doc Scott and Diverge. Next up: RASA, Singapore on Sat 3 Oct.
+Goldie is a drum & bass and jungle artist based in United Kingdom, with 165 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 55 more. Often billed alongside Ant TC1, Doc Scott and Diverge. Next up: RASA, Singapore on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Goldie is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- The View From The Shard, London — Sat, 12 Sept 2026
-- YuYu Cine Club, Mexico City — Sat, 5 Sept 2026
-- Paragon, New York City — Fri, 4 Sept 2026
-- Phoenix Landing, Boston — Thu, 3 Sept 2026
-- The Downs, Bristol, Bristol — Sat, 29 Aug 2026
-- Hare & Hounds, Birmingham — Fri, 28 Aug 2026
-- The Wardrobe, Leeds — Sun, 23 Aug 2026
-- The Golden Lion, Manchester — Sun, 23 Aug 2026
+- The View From The Shard, London · Sat, 12 Sept 2026
+- YuYu Cine Club, Mexico City · Sat, 5 Sept 2026
+- Paragon, New York City · Fri, 4 Sept 2026
+- Phoenix Landing, Boston · Thu, 3 Sept 2026
+- The Downs, Bristol, Bristol · Sat, 29 Aug 2026
+- Hare & Hounds, Birmingham · Fri, 28 Aug 2026
+- The Wardrobe, Leeds · Sun, 23 Aug 2026
+- The Golden Lion, Manchester · Sun, 23 Aug 2026
 
 ## Shares bills with
 

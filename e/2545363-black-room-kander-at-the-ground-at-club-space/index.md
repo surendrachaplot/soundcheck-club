@@ -1,6 +1,6 @@
 # BLACK ROOM: Kander at The Ground at Club Space
 
-BLACK ROOM: Kander at The Ground at Club Space on Sat 24 Oct, Miami. 4 artists on the bill: CÛLTÛS VÎS, Dadrev, DomnRob and Kander. Techno and Experimental. Preview the line-up and save it on soundcheck.
+BLACK ROOM: Kander at The Ground at Club Space on Sat 24 Oct, Miami. 4 artists: CÛLTÛS VÎS, Dadrev, DomnRob and Kander. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

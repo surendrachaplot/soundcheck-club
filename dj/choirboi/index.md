@@ -1,8 +1,8 @@
 # Choirboi
 
-Choirboi is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 821 Runnymede Rd, Toronto on Fri, 23 Oct 2026.
+Choirboi is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 821 Runnymede Rd, Toronto on Fri, 23 Oct 2026.
 
-Choirboi is a house and techno artist based in Canada, tracked on soundcheck, with 15 sets logged across London and Toronto. Often billed alongside Sasha Kalra, High Tide and Host (CA). Next up: 821 Runnymede Rd, Toronto on Fri 23 Oct.
+Choirboi is a house and techno artist based in Canada, with 15 gigs on soundcheck across London and Toronto. Often billed alongside Sasha Kalra, High Tide and Host (CA). Next up: 821 Runnymede Rd, Toronto on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Choirboi is a house and techno artist based in Canada, tracked on soundcheck, wi
 
 ## Recently played
 
-- Standard Time, Toronto — Sat, 25 Jul 2026
-- Rhythm, Toronto — Sat, 16 May 2026
-- Standard Time, Toronto — Fri, 13 Feb 2026
-- Standard Time, Toronto — Sat, 29 Nov 2025
-- Last Arch, London — Fri, 15 Aug 2025
-- Soleil, Toronto — Sat, 2 Aug 2025
-- Coda, Toronto — Fri, 11 Jul 2025
-- SOUNDS GOOD, Toronto — Fri, 7 Mar 2025
+- Standard Time, Toronto · Sat, 25 Jul 2026
+- Rhythm, Toronto · Sat, 16 May 2026
+- Standard Time, Toronto · Fri, 13 Feb 2026
+- Standard Time, Toronto · Sat, 29 Nov 2025
+- Last Arch, London · Fri, 15 Aug 2025
+- Soleil, Toronto · Sat, 2 Aug 2025
+- Coda, Toronto · Fri, 11 Jul 2025
+- SOUNDS GOOD, Toronto · Fri, 7 Mar 2025
 
 ## Shares bills with
 

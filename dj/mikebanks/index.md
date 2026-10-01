@@ -1,8 +1,8 @@
 # Mike Banks
 
-Mike Banks is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
+Mike Banks is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plaza Monumental de Barcelona, Barcelona on Sat, 3 Oct 2026.
 
-Mike Banks is a techno and house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 10 more. Often billed alongside Carl Craig, Moodymann and Charlotte de Witte. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 3 Oct.
+Mike Banks is a techno and house artist based in United States of America, with 18 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 10 more. Often billed alongside Carl Craig, Moodymann and Charlotte de Witte. Next up: Plaza Monumental de Barcelona, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Mike Banks is a techno and house artist based in United States of America, track
 
 ## Recently played
 
-- Parco Dora, Turin — Fri, 3 Jul 2026
-- TBA - 1151 Taylor St. - Detroit Mi., Detroit — Fri, 26 Jun 2026
-- BLITZ, Munich — Fri, 19 Jun 2026
-- Seaseaclub Barcelona, Barcelona — Thu, 18 Jun 2026
-- Under Club, Buenos Aires — Sat, 13 Jun 2026
-- Andy Arts, Detroit — Thu, 21 May 2026
-- Fvtvr, Paris — Sat, 9 May 2026
-- TBA, Los Angeles — Sat, 11 Apr 2026
+- Parco Dora, Turin · Fri, 3 Jul 2026
+- TBA - 1151 Taylor St. - Detroit Mi., Detroit · Fri, 26 Jun 2026
+- BLITZ, Munich · Fri, 19 Jun 2026
+- Seaseaclub Barcelona, Barcelona · Thu, 18 Jun 2026
+- Under Club, Buenos Aires · Sat, 13 Jun 2026
+- Andy Arts, Detroit · Thu, 21 May 2026
+- Fvtvr, Paris · Sat, 9 May 2026
+- TBA, Los Angeles · Sat, 11 Apr 2026
 
 ## Shares bills with
 

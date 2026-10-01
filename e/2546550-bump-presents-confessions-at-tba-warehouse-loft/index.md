@@ -1,6 +1,6 @@
 # BUMP presents: Confessions at TBA - Warehouse Loft 
 
-BUMP presents: Confessions at TBA - Warehouse Loft  on Sat 14 Nov, Philadelphia. Techno and Experimental. Preview the line-up and save it on soundcheck.
+BUMP presents: Confessions at TBA - Warehouse Loft  on Sat 14 Nov, Philadelphia. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Asa-Hachi -Re:House- at Aoyama Hachi
 
-Asa-Hachi -Re:House- at Aoyama Hachi on Mon 12 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+Asa-Hachi -Re:House- at Aoyama Hachi on Mon 12 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

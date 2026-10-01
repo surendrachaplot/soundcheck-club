@@ -1,6 +1,6 @@
 # Atrium: First Touch & Drone Orchestra at Podlasie Club
 
-Atrium: First Touch & Drone Orchestra at Podlasie Club on Sat 10 Oct, Chicago. 1 artist on the bill: chelliah. Ambient and Drone. Preview the line-up and save it on soundcheck.
+Atrium: First Touch & Drone Orchestra at Podlasie Club on Sat 10 Oct, Chicago. 1 artist: chelliah. Ambient and Drone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

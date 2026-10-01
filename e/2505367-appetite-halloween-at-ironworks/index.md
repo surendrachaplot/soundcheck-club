@@ -1,6 +1,6 @@
 # Appetite Halloween at Ironworks
 
-Appetite Halloween at Ironworks on Sat 31 Oct, London. 8 artists on the bill: Egyptian Lover, Elliot Schooling, FLORA THA EXPLORA and Groove Armada and 4 more. Preview the line-up and save it on soundcheck.
+Appetite Halloween at Ironworks on Sat 31 Oct, London. 8 artists: Egyptian Lover, Elliot Schooling, FLORA THA EXPLORA and Groove Armada and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

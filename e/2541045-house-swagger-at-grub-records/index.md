@@ -1,6 +1,6 @@
 # House & Swagger at Grub Records
 
-House & Swagger at Grub Records on Fri 16 Oct, Sheffield. House. Preview the line-up and save it on soundcheck.
+House & Swagger at Grub Records on Fri 16 Oct, Sheffield. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dragons, Dykes & DJs at The Great Northern
 
-Dragons, Dykes & DJs at The Great Northern on Fri 16 Oct, San Francisco/Oakland. 2 artists on the bill: arktoi and Lil Bebe Cyborg. Tech House. Preview the line-up and save it on soundcheck.
+Dragons, Dykes & DJs at The Great Northern on Fri 16 Oct, San Francisco/Oakland. 2 artists: arktoi and Lil Bebe Cyborg. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

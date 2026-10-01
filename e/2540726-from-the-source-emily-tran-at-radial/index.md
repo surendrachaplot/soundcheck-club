@@ -1,6 +1,6 @@
 # from the source: Emily Tran at radial
 
-from the source: Emily Tran at radial on Thu 1 Oct, London. Jazz. Preview the line-up and save it on soundcheck.
+from the source: Emily Tran at radial on Thu 1 Oct, London. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

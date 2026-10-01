@@ -1,6 +1,6 @@
 # Levi Live New York at Marquee
 
-Levi Live New York at Marquee on Sat 7 Nov, New York City. 1 artist on the bill: Levi (AU). Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Levi Live New York at Marquee on Sat 7 Nov, New York City. 1 artist: Levi (AU). Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Paul Quinton / The Genics / Pollo & Friends at Rolling Stock
 
-Paul Quinton / The Genics / Pollo & Friends at Rolling Stock on Fri 2 Oct, London. House and Deep House. Preview the line-up and save it on soundcheck.
+Paul Quinton / The Genics / Pollo & Friends at Rolling Stock on Fri 2 Oct, London. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

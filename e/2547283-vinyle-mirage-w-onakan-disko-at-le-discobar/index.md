@@ -1,6 +1,6 @@
 # VINYLE MIRAGE w/Onakan Disko at Le Discobar
 
-VINYLE MIRAGE w/Onakan Disko at Le Discobar on Fri 27 Nov, Paris. 1 artist on the bill: Onakan Disko. House and Disco. Preview the line-up and save it on soundcheck.
+VINYLE MIRAGE w/Onakan Disko at Le Discobar on Fri 27 Nov, Paris. 1 artist: Onakan Disko. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

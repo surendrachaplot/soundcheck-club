@@ -1,8 +1,8 @@
 # Ali James
 
-Ali James is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Limelight, Belfast on Fri, 20 Nov 2026.
+Ali James is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Limelight, Belfast on Fri, 20 Nov 2026.
 
-Ali James is a techno and trance artist based in Australia, tracked on soundcheck, with 21 sets logged across Belfast, Berlin, Brisbane and Manchester and 3 more. Often billed alongside DoubleDrop, Billy Currie and Koey. Next up: The Limelight, Belfast on Fri 20 Nov.
+Ali James is a techno and trance artist based in Australia, with 21 gigs on soundcheck across Belfast, Berlin, Brisbane and Manchester and 3 more. Often billed alongside DoubleDrop, Billy Currie and Koey. Next up: The Limelight, Belfast on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ali James is a techno and trance artist based in Australia, tracked on soundchec
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Fri, 10 Jul 2026
-- The Telegraph Building, Belfast — Sat, 20 Jun 2026
-- Hidden, Manchester — Fri, 19 Jun 2026
-- Kilomètre25, Paris — Thu, 4 Jun 2026
-- Plaza Hotel Sydney, Sydney — Sat, 23 May 2026
-- The Prince Consort, Brisbane — Fri, 28 Nov 2025
-- The Greenwood Hotel, Sydney — Sat, 1 Nov 2025
-- TBA - Spice Nightlife 351 Brunswick, Brisbane — Fri, 17 Oct 2025
+- Lokschuppen Berlin, Berlin · Fri, 10 Jul 2026
+- The Telegraph Building, Belfast · Sat, 20 Jun 2026
+- Hidden, Manchester · Fri, 19 Jun 2026
+- Kilomètre25, Paris · Thu, 4 Jun 2026
+- Plaza Hotel Sydney, Sydney · Sat, 23 May 2026
+- The Prince Consort, Brisbane · Fri, 28 Nov 2025
+- The Greenwood Hotel, Sydney · Sat, 1 Nov 2025
+- TBA - Spice Nightlife 351 Brunswick, Brisbane · Fri, 17 Oct 2025
 
 ## Shares bills with
 

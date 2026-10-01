@@ -1,6 +1,6 @@
 # Zowination vol.10 at Kuni House
 
-Zowination vol.10 at Kuni House on Sat 28 Nov, Kanto. 2 artists on the bill: Carpainter and Seimei. Preview the line-up and save it on soundcheck.
+Zowination vol.10 at Kuni House on Sat 28 Nov, Kanto. 2 artists: Carpainter and Seimei. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sonorama E Involved Pres / Roy Rosenfeld: ALL THE WAY at Sonorama
 
-Sonorama E Involved Pres / Roy Rosenfeld: ALL THE WAY on Sat 17 Oct, Medellin. 1 artist on the bill: Roy Rosenfeld. Preview the line-up and save it on soundcheck.
+Sonorama E Involved Pres / Roy Rosenfeld: ALL THE WAY on Sat 17 Oct, Medellin. 1 artist: Roy Rosenfeld. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

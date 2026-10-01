@@ -1,6 +1,6 @@
 # Oden & Fatzo at The Independent
 
-Oden & Fatzo at The Independent on Sat 28 Nov, San Francisco/Oakland. 2 artists on the bill: Fatzo and Oden. House and Tech House. Preview the line-up and save it on soundcheck.
+Oden & Fatzo at The Independent on Sat 28 Nov, San Francisco/Oakland. 2 artists: Fatzo and Oden. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

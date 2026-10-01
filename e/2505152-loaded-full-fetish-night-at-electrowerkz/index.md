@@ -1,6 +1,6 @@
 # LOADED - FULL FETISH NIGHT at Electrowerkz
 
-LOADED - FULL FETISH NIGHT at Electrowerkz on Sat 3 Oct, London. Preview the line-up and save it on soundcheck.
+LOADED - FULL FETISH NIGHT at Electrowerkz on Sat 3 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

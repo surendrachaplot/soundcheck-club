@@ -1,6 +1,6 @@
 # Parameter & Endzeit Invite Polar Inertia at TBA - San Francisco
 
-Parameter & Endzeit Invite Polar Inertia at TBA - San Francisco on Fri 6 Nov, San Francisco/Oakland. 5 artists on the bill: .VRIL, Amma Ateria, Innersha and Polar Inertia and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Parameter & Endzeit Invite Polar Inertia at TBA - San Francisco on Fri 6 Nov, San Francisco/Oakland. 5 artists: .VRIL, Amma Ateria, Innersha and Polar Inertia and 1 more. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

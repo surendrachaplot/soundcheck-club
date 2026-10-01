@@ -1,6 +1,6 @@
 # Daft Disko [A French House & Disco Party] at SWG3
 
-Daft Disko [A French House & Disco Party] at SWG3 on Sat 3 Oct, Glasgow. House. Preview the line-up and save it on soundcheck.
+Daft Disko [A French House & Disco Party] at SWG3 on Sat 3 Oct, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Deep End Tour 2026: at The 700 at Upstairs at the 700
 
-Deep End Tour 2026: at The 700 at Upstairs at the 700 on Sat 3 Oct, Philadelphia. 3 artists on the bill: NOCASINO, tj groover and Waycool Junior. House and Deep House. Preview the line-up and save it on soundcheck.
+Deep End Tour 2026: at The 700 at Upstairs at the 700 on Sat 3 Oct, Philadelphia. 3 artists: NOCASINO, tj groover and Waycool Junior. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

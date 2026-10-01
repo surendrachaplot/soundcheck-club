@@ -1,6 +1,6 @@
 # Diles Que No Me Maten with Infidelity at The American
 
-Diles Que No Me Maten with Infidelity at The American on Sat 24 Oct, Vancouver. Jazz. Preview the line-up and save it on soundcheck.
+Diles Que No Me Maten with Infidelity at The American on Sat 24 Oct, Vancouver. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

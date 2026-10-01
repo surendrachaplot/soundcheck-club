@@ -1,6 +1,6 @@
 # Visceral \\// REQUIEM at NWHR
 
-Visceral \\// REQUIEM at NWHR on Sat 31 Oct, Montreal. Progressive House. Preview the line-up and save it on soundcheck.
+Visceral \\// REQUIEM at NWHR on Sat 31 Oct, Montreal. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

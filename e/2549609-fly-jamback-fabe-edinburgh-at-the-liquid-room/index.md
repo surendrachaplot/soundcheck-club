@@ -1,6 +1,6 @@
 # FLY - Jamback & Fabe - Edinburgh at The Liquid Room
 
-FLY - Jamback & Fabe - Edinburgh at The Liquid Room on Sat 14 Nov, Edinburgh. 2 artists on the bill: Fabe and Jamback. Preview the line-up and save it on soundcheck.
+FLY - Jamback & Fabe - Edinburgh at The Liquid Room on Sat 14 Nov, Edinburgh. 2 artists: Fabe and Jamback. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

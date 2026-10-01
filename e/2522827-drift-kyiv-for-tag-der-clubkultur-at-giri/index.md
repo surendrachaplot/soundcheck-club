@@ -1,6 +1,6 @@
 # DRIFT Kyiv for TAG DER CLUBKULTUR at Giri
 
-DRIFT Kyiv for TAG DER CLUBKULTUR at Giri on Fri 9 Oct, Berlin. 6 artists on the bill: ANTRO, Josiane, Nycky Estrella and OLHA and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+DRIFT Kyiv for TAG DER CLUBKULTUR at Giri on Fri 9 Oct, Berlin. 6 artists: ANTRO, Josiane, Nycky Estrella and OLHA and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

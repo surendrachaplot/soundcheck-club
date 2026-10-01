@@ -1,6 +1,6 @@
 # MC ROB.K's MISSION: TRANSITION at Distillery
 
-MC ROB.K's MISSION: TRANSITION at Distillery on Fri 23 Oct, Leipzig. 2 artists on the bill: Cooper and Jon Void. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+MC ROB.K's MISSION: TRANSITION at Distillery on Fri 23 Oct, Leipzig. 2 artists: Cooper and Jon Void. Breakbeat and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

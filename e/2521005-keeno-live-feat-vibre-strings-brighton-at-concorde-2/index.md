@@ -1,6 +1,6 @@
 # Keeno LIVE feat. Vibre Strings - Brighton at Concorde 2
 
-Keeno LIVE feat. Vibre Strings - Brighton at Concorde 2 on Sat 10 Apr, Brighton. 1 artist on the bill: Keeno. Preview the line-up and save it on soundcheck.
+Keeno LIVE feat. Vibre Strings - Brighton at Concorde 2 on Sat 10 Apr, Brighton. 1 artist: Keeno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Simon Vuarambon
 
-Simon Vuarambon is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
+Simon Vuarambon is a Progressive House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at WestWeelde, Amsterdam on Fri, 23 Oct 2026.
 
-Simon Vuarambon is a progressive house and deep house artist based in Switzerland, tracked on soundcheck, with 72 sets logged across Amsterdam, Argentina, Barcelona and Berlin and 24 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
+Simon Vuarambon is a progressive house and deep house artist based in Switzerland, with 72 gigs on soundcheck across Amsterdam, Argentina, Barcelona and Berlin and 24 more. Often billed alongside Guy Mantzur, John Digweed and Henry Saiz. Next up: WestWeelde, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Simon Vuarambon is a progressive house and deep house artist based in Switzerlan
 
 ## Recently played
 
-- TBA - Native Beach Club, Cardales, Buenos Aires — Sat, 26 Sept 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Fri, 18 Sept 2026
-- The Monkey Loft, Seattle — Mon, 7 Sept 2026
-- TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA), Los Angeles — Sat, 5 Sept 2026
-- VENT, Tokyo — Sat, 22 Aug 2026
-- The Grand Social, Dublin — Sat, 15 Aug 2026
-- Ritter Butzke, Berlin — Fri, 14 Aug 2026
-- Motorworld, Palma de Mallorca, Mallorca — Sun, 2 Aug 2026
+- TBA - Native Beach Club, Cardales, Buenos Aires · Sat, 26 Sept 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Fri, 18 Sept 2026
+- The Monkey Loft, Seattle · Mon, 7 Sept 2026
+- TBA - Community Berlin (11819 Sherman Way, North Hollywood, CA, 91605, USA), Los Angeles · Sat, 5 Sept 2026
+- VENT, Tokyo · Sat, 22 Aug 2026
+- The Grand Social, Dublin · Sat, 15 Aug 2026
+- Ritter Butzke, Berlin · Fri, 14 Aug 2026
+- Motorworld, Palma de Mallorca, Mallorca · Sun, 2 Aug 2026
 
 ## Shares bills with
 

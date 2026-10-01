@@ -1,8 +1,8 @@
 # Kakura
 
-Kakura is a Afro House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Secret Location, London on Sat, 10 Oct 2026.
+Kakura is a Afro House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Secret Location, London on Sat, 10 Oct 2026.
 
-Kakura is an afro house and techno artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Amsterdam, London and Manchester. Often billed alongside MYDIR, Bushman (UK) and Azur. Next up: Secret Location, London on Sat 10 Oct.
+Kakura is an afro house and techno artist based in United Kingdom, with 11 gigs on soundcheck across Amsterdam, London and Manchester. Often billed alongside MYDIR, Bushman (UK) and Azur. Next up: Secret Location, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,13 +15,13 @@ Kakura is an afro house and techno artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- The DBA, Manchester — Sat, 15 Aug 2026
-- Transmute Studio, Manchester — Fri, 16 Jan 2026
-- The Eagle Inn, Manchester — Wed, 31 Dec 2025
-- Transmute Studio, Manchester — Fri, 21 Nov 2025
-- The Radio Room @ Stage & Radio, Manchester — Sat, 11 Oct 2025
-- The DBA, Manchester — Sat, 16 Aug 2025
-- Blue Marlin Ibiza London, London — Fri, 11 Oct 2024
+- The DBA, Manchester · Sat, 15 Aug 2026
+- Transmute Studio, Manchester · Fri, 16 Jan 2026
+- The Eagle Inn, Manchester · Wed, 31 Dec 2025
+- Transmute Studio, Manchester · Fri, 21 Nov 2025
+- The Radio Room @ Stage & Radio, Manchester · Sat, 11 Oct 2025
+- The DBA, Manchester · Sat, 16 Aug 2025
+- Blue Marlin Ibiza London, London · Fri, 11 Oct 2024
 
 ## Shares bills with
 

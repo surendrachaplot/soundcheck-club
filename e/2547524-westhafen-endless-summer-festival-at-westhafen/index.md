@@ -1,6 +1,6 @@
 # Westhafen ENDLESS SUMMER Festival at Westhafen
 
-Westhafen ENDLESS SUMMER Festival on Sat 3 Oct, Leipzig. 9 artists on the bill: Alias Aura, Anton Gerden, Jil Tanner and knete and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+Westhafen ENDLESS SUMMER Festival on Sat 3 Oct, Leipzig. 9 artists: Alias Aura, Anton Gerden, Jil Tanner and knete and 5 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Heinz Tronigger
 
-Heinz Tronigger is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at PRST, Vienna on Sat, 10 Oct 2026.
+Heinz Tronigger is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at PRST, Vienna on Sat, 10 Oct 2026.
 
-Heinz Tronigger is a house and techno artist tracked on soundcheck, with 10 sets logged across Barcelona and Vienna. Often billed alongside Young Pulse, Afshin and Altroy Jerome. Next up: PRST, Vienna on Sat 10 Oct.
+Heinz Tronigger is a house and techno artist, with 10 gigs on soundcheck across Barcelona and Vienna. Often billed alongside Young Pulse, Afshin and Altroy Jerome. Next up: PRST, Vienna on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Heinz Tronigger is a house and techno artist tracked on soundcheck, with 10 sets
 
 ## Recently played
 
-- PRST, Vienna — Fri, 29 May 2026
-- PRST, Vienna — Wed, 29 Apr 2026
-- PRST, Vienna — Fri, 20 Feb 2026
-- PRST, Vienna — Fri, 6 Feb 2026
-- PRST, Vienna — Fri, 19 Dec 2025
-- Macarena Club, Barcelona — Fri, 17 Oct 2025
-- PRST, Vienna — Fri, 4 Jul 2025
-- PRST, Vienna — Thu, 26 Jun 2025
+- PRST, Vienna · Fri, 29 May 2026
+- PRST, Vienna · Wed, 29 Apr 2026
+- PRST, Vienna · Fri, 20 Feb 2026
+- PRST, Vienna · Fri, 6 Feb 2026
+- PRST, Vienna · Fri, 19 Dec 2025
+- Macarena Club, Barcelona · Fri, 17 Oct 2025
+- PRST, Vienna · Fri, 4 Jul 2025
+- PRST, Vienna · Thu, 26 Jun 2025
 
 ## Shares bills with
 

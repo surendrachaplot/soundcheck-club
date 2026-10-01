@@ -1,6 +1,6 @@
 # Kadinsky Sessions Closing Party at Kadinsky Cafe
 
-Kadinsky Sessions Closing Party at Kadinsky Cafe on Sun 25 Oct, Amsterdam. Progressive House. Preview the line-up and save it on soundcheck.
+Kadinsky Sessions Closing Party at Kadinsky Cafe on Sun 25 Oct, Amsterdam. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

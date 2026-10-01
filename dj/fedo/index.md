@@ -1,8 +1,8 @@
 # Fedo
 
-Fedo is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Supermarket, Zurich on Fri, 9 Oct 2026.
+Fedo is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Supermarket, Zurich on Fri, 9 Oct 2026.
 
-Fedo is a house and minimal artist based in Australia, tracked on soundcheck, with 6 sets logged across Barcelona, Berlin and Zurich. Often billed alongside Akyra, Alexxx and Jack Clark. Next up: Supermarket, Zurich on Fri 9 Oct.
+Fedo is a house and minimal artist based in Australia, with 6 gigs on soundcheck across Barcelona, Berlin and Zurich. Often billed alongside Akyra, Alexxx and Jack Clark. Next up: Supermarket, Zurich on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Fedo is a house and minimal artist based in Australia, tracked on soundcheck, wi
 
 ## Recently played
 
-- 303 Audiophile Bar, Barcelona — Sat, 25 Jul 2026
-- 303 Audiophile Bar, Barcelona — Sat, 11 Jul 2026
-- 303 Audiophile Bar, Barcelona — Sat, 14 Dec 2024
-- Golden Gate, Berlin — Fri, 9 Aug 2024
-- Negro y Rojo, Barcelona — Sat, 30 Mar 2024
+- 303 Audiophile Bar, Barcelona · Sat, 25 Jul 2026
+- 303 Audiophile Bar, Barcelona · Sat, 11 Jul 2026
+- 303 Audiophile Bar, Barcelona · Sat, 14 Dec 2024
+- Golden Gate, Berlin · Fri, 9 Aug 2024
+- Negro y Rojo, Barcelona · Sat, 30 Mar 2024
 
 ## Shares bills with
 

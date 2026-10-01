@@ -1,8 +1,8 @@
 # co:co
 
-co:co is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ://about blank, Berlin on Fri, 9 Oct 2026.
+co:co is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ://about blank, Berlin on Fri, 9 Oct 2026.
 
-co:co is a techno and trance artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside AKIIM, SPORTMANN and Elon Bass. Next up: ://about blank, Berlin on Fri 9 Oct.
+co:co is a techno and trance artist based in Germany, with 55 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside AKIIM, SPORTMANN and Elon Bass. Next up: ://about blank, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ co:co is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Helgoländer Allee, Hamburg — Sat, 29 Aug 2026
-- Lehmann Club, Stuttgart — Fri, 31 Jul 2026
-- Südpol, Hamburg — Fri, 12 Jun 2026
-- elipamanoke, Leipzig — Fri, 29 May 2026
-- Tresor / Globus, Berlin — Wed, 20 May 2026
-- Karoline 45, Hamburg — Sat, 9 May 2026
-- Südpol, Hamburg — Fri, 24 Apr 2026
-- Uebel & Gefährlich, Hamburg — Sat, 11 Apr 2026
+- Helgoländer Allee, Hamburg · Sat, 29 Aug 2026
+- Lehmann Club, Stuttgart · Fri, 31 Jul 2026
+- Südpol, Hamburg · Fri, 12 Jun 2026
+- elipamanoke, Leipzig · Fri, 29 May 2026
+- Tresor / Globus, Berlin · Wed, 20 May 2026
+- Karoline 45, Hamburg · Sat, 9 May 2026
+- Südpol, Hamburg · Fri, 24 Apr 2026
+- Uebel & Gefährlich, Hamburg · Sat, 11 Apr 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gaffe, London on Fri, 2 Oct 2026.
+Vladimir Ivkovic is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gaffe, London on Fri, 2 Oct 2026.
 
-Vladimir Ivkovic is a techno and house artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Auckland and Bali and 64 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Gaffe, London on Fri 2 Oct.
+Vladimir Ivkovic is a techno and house artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Athens, Auckland and Bali and 64 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Gaffe, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Vladimir Ivkovic is a techno and house artist based in Germany, tracked on sound
 
 ## Recently played
 
-- BKW Hybrid Bar, Skopje — Wed, 30 Sept 2026
-- Inter-City, The Hague — Sat, 26 Sept 2026
-- Doka, Amsterdam — Fri, 25 Sept 2026
-- Doka, Amsterdam — Fri, 25 Sept 2026
-- Standard Time, Toronto — Fri, 18 Sept 2026
-- Macadam, Nantes — Sun, 13 Sept 2026
-- TBA - Will got massaged 1 Day before event , Zurich — Sat, 5 Sept 2026
-- TBA, Zurich — Sat, 5 Sept 2026
+- BKW Hybrid Bar, Skopje · Wed, 30 Sept 2026
+- Inter-City, The Hague · Sat, 26 Sept 2026
+- Doka, Amsterdam · Fri, 25 Sept 2026
+- Doka, Amsterdam · Fri, 25 Sept 2026
+- Standard Time, Toronto · Fri, 18 Sept 2026
+- Macadam, Nantes · Sun, 13 Sept 2026
+- TBA - Will got massaged 1 Day before event , Zurich · Sat, 5 Sept 2026
+- TBA, Zurich · Sat, 5 Sept 2026
 
 ## Shares bills with
 

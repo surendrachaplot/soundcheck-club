@@ -1,6 +1,6 @@
 # Bonobo at Uber Eats Music Hall
 
-Bonobo at Uber Eats Music Hall on Thu 11 Mar, Berlin. 1 artist on the bill: Bonobo. Preview the line-up and save it on soundcheck.
+Bonobo at Uber Eats Music Hall on Thu 11 Mar, Berlin. 1 artist: Bonobo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

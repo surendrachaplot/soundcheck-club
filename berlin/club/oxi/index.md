@@ -1,8 +1,8 @@
 # OXI
 
-OXI is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "BLEACH BERLIN" on Thu, 1 Oct 2026.
+OXI is a music venue in Berlin with 28 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BLEACH BERLIN" on Thu, 1 Oct 2026.
 
-OXI is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including 1LDK, Aero, Ana Molina and Anaté and 2 more. Browse upcoming dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
+OXI is a music venue in Berlin listed on soundcheck. 28 upcoming gigs, with line-ups including 1LDK, Aero, Ana Molina and Anaté and 2 more. See dates, start times and who's playing. Wiesenweg 1-4, 10365 Berlin.
 
 ## What's on
 

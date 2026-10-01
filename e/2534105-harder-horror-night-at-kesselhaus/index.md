@@ -1,6 +1,6 @@
 # Harder Horror Night at Kesselhaus
 
-Harder Horror Night at Kesselhaus on Sat 31 Oct, Munich. 2 artists on the bill: Act of Rage and Noxiouz. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Harder Horror Night at Kesselhaus on Sat 31 Oct, Munich. 2 artists: Act of Rage and Noxiouz. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

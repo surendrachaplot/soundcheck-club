@@ -1,6 +1,6 @@
 # Sunday Soirée at Outer Heaven
 
-Sunday Soirée at Outer Heaven on Sun 11 Oct, New York City. 4 artists on the bill: Jeny Michelle, La Vega, Luciio and Willy Gorgon. Preview the line-up and save it on soundcheck.
+Sunday Soirée at Outer Heaven on Sun 11 Oct, New York City. 4 artists: Jeny Michelle, La Vega, Luciio and Willy Gorgon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

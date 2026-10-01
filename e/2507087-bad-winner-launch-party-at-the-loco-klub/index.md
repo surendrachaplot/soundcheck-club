@@ -1,6 +1,6 @@
 # BAD WINNER Launch Party at The Loco Klub
 
-BAD WINNER Launch Party at The Loco Klub on Sun 4 Oct, Bristol. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+BAD WINNER Launch Party at The Loco Klub on Sun 4 Oct, Bristol. Breakbeat and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

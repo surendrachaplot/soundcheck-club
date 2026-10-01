@@ -1,6 +1,6 @@
 # Insomnia London: Megan Wroe, JuicyJards & Badturk at Phonox
 
-Insomnia London: Megan Wroe, JuicyJards & Badturk at Phonox on Thu 1 Oct, London. 2 artists on the bill: JuicyJards and Megan Wroe. Techno and House. Preview the line-up and save it on soundcheck.
+Insomnia London: Megan Wroe, JuicyJards & Badturk at Phonox on Thu 1 Oct, London. 2 artists: JuicyJards and Megan Wroe. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

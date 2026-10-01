@@ -1,6 +1,6 @@
 # Core feat. Certain People, Traveller X, Margott at Core
 
-Core feat. Certain People, Traveller X, Margott on Fri 2 Oct, Madrid. 2 artists on the bill: Certain People and Margott. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Core feat. Certain People, Traveller X, Margott on Fri 2 Oct, Madrid. 2 artists: Certain People and Margott. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

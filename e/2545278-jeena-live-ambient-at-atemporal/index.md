@@ -1,6 +1,6 @@
 # Jeena Live ambient at Atemporal
 
-Jeena Live ambient at Atemporal on Sun 4 Oct, Berlin. 1 artist on the bill: Jeena. Preview the line-up and save it on soundcheck.
+Jeena Live ambient at Atemporal on Sun 4 Oct, Berlin. 1 artist: Jeena. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

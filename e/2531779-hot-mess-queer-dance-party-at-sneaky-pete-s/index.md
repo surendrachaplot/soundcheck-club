@@ -1,6 +1,6 @@
 # Hot Mess: Queer Dance Party at Sneaky Pete's
 
-Hot Mess: Queer Dance Party at Sneaky Pete's on Fri 2 Oct, Edinburgh. 1 artist on the bill: Simonotron. Preview the line-up and save it on soundcheck.
+Hot Mess: Queer Dance Party at Sneaky Pete's on Fri 2 Oct, Edinburgh. 1 artist: Simonotron. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

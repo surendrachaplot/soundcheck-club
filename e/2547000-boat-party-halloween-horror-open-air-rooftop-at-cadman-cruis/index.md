@@ -1,6 +1,6 @@
 # Boat Party - HALLOWEEN HORROR - Open Air Rooftop at Cadman Cruises
 
-Boat Party - HALLOWEEN HORROR - Open Air Rooftop at Cadman Cruises on Sat 31 Oct, Sydney. House and Tech House. Preview the line-up and save it on soundcheck.
+Boat Party - HALLOWEEN HORROR - Open Air Rooftop at Cadman Cruises on Sat 31 Oct, Sydney. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

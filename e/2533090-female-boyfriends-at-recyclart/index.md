@@ -1,6 +1,6 @@
 # Female Boyfriends at Recyclart
 
-Female Boyfriends at Recyclart on Fri 2 Oct, Brussels. 2 artists on the bill: Butchpm and Erykah. Club and UK Funky. Preview the line-up and save it on soundcheck.
+Female Boyfriends at Recyclart on Fri 2 Oct, Brussels. 2 artists: Butchpm and Erykah. Club and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

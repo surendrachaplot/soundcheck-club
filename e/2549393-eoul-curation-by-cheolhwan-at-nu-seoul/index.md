@@ -1,6 +1,6 @@
 # EOUL: curation by Cheolhwan at Nué Seoul
 
-EOUL: curation by Cheolhwan at Nué Seoul on Thu 1 Oct, Seoul. 1 artist on the bill: aso. Preview the line-up and save it on soundcheck.
+EOUL: curation by Cheolhwan at Nué Seoul on Thu 1 Oct, Seoul. 1 artist: aso. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

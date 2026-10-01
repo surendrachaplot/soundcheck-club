@@ -1,6 +1,6 @@
 # Vastion pres. Hugel at Club Cultural Lima
 
-Vastion pres. Hugel at Club Cultural Lima on Fri 16 Oct, Peru. 1 artist on the bill: Hugel. Preview the line-up and save it on soundcheck.
+Vastion pres. Hugel at Club Cultural Lima on Fri 16 Oct, Peru. 1 artist: Hugel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

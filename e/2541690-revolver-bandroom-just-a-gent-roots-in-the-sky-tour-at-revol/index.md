@@ -1,6 +1,6 @@
 # REVOLVER BANDROOM: Just A Gent — Roots In The Sky Tour at Revolver Upstairs
 
-REVOLVER BANDROOM: Just A Gent — Roots In The Sky Tour at Revolver Upstairs on Sat 3 Oct, Melbourne. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+REVOLVER BANDROOM: Just A Gent — Roots In The Sky Tour at Revolver Upstairs on Sat 3 Oct, Melbourne. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # giegling at Klaproos - ade - SOLD OUT at Klaproos
 
-giegling at Klaproos - ade - SOLD OUT on Sun 25 Oct, Amsterdam. 14 artists on the bill: Alexia, Cassy, Cosmo (KR) and DJ Dustin and 10 more. Preview the line-up and save it on soundcheck.
+giegling at Klaproos - ade - SOLD OUT on Sun 25 Oct, Amsterdam. 14 artists: Alexia, Cassy, Cosmo (KR) and DJ Dustin and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

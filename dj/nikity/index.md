@@ -1,8 +1,8 @@
 # Nikity
 
-Nikity is a House and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at JAKI, Cologne on Fri, 2 Oct 2026.
+Nikity is a House and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at JAKI, Cologne on Fri, 2 Oct 2026.
 
-Nikity is a house and bass artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin, Cologne, Düsseldorf and Munich. Often billed alongside AMSL, Anna Cainelli and Savsannah. Next up: JAKI, Cologne on Fri 2 Oct.
+Nikity is a house and bass artist based in Germany, with 35 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Munich. Often billed alongside AMSL, Anna Cainelli and Savsannah. Next up: JAKI, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Nikity is a house and bass artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
-- Comedia Halle, Cologne — Sat, 12 Sept 2026
-- TBA - Blackfoot Beach, Cologne — Sun, 9 Aug 2026
-- Giselle, Düsseldorf — Fri, 26 Jun 2026
-- JAKI, Cologne — Fri, 15 May 2026
-- Renate, Berlin — Thu, 30 Apr 2026
-- Jugendpark, Cologne — Sat, 25 Apr 2026
-- Bootshaus, Cologne — Sat, 25 Apr 2026
-- JAKI, Cologne — Fri, 27 Feb 2026
+- Comedia Halle, Cologne · Sat, 12 Sept 2026
+- TBA - Blackfoot Beach, Cologne · Sun, 9 Aug 2026
+- Giselle, Düsseldorf · Fri, 26 Jun 2026
+- JAKI, Cologne · Fri, 15 May 2026
+- Renate, Berlin · Thu, 30 Apr 2026
+- Jugendpark, Cologne · Sat, 25 Apr 2026
+- Bootshaus, Cologne · Sat, 25 Apr 2026
+- JAKI, Cologne · Fri, 27 Feb 2026
 
 ## Shares bills with
 

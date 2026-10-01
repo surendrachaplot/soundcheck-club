@@ -1,6 +1,6 @@
 # Stacked pres. Dennett at Village Studios
 
-Stacked pres. Dennett at Village Studios on Fri 20 Nov, Vancouver. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Stacked pres. Dennett at Village Studios on Fri 20 Nov, Vancouver. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

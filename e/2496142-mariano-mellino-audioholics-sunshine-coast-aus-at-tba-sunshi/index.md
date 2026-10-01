@@ -1,6 +1,6 @@
 # Mariano Mellino - AUDIOHOLICS - Sunshine Coast, AUS at TBA - Sunshine Coast
 
-Mariano Mellino - AUDIOHOLICS - Sunshine Coast, AUS at TBA - Sunshine Coast on Fri 2 Oct, South Australia. 2 artists on the bill: Eelke Kleijn and Mariano Mellino. Preview the line-up and save it on soundcheck.
+Mariano Mellino - AUDIOHOLICS - Sunshine Coast, AUS at TBA - Sunshine Coast on Fri 2 Oct, South Australia. 2 artists: Eelke Kleijn and Mariano Mellino. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

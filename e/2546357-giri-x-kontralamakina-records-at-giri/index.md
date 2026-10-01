@@ -1,6 +1,6 @@
 # Giri x Kontralamakina Records at Giri
 
-Giri x Kontralamakina Records on Thu 22 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Giri x Kontralamakina Records on Thu 22 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # CRB
 
-CRB is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Textilgyár, Budapest on Sat, 10 Oct 2026.
+CRB is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Textilgyár, Budapest on Sat, 10 Oct 2026.
 
-CRB is a techno and house artist based in France, tracked on soundcheck, with 133 sets logged across Berlin, Budapest and Paris. Often billed alongside HAYAM, Cry Later and Nakrasia. Next up: Textilgyár, Budapest on Sat 10 Oct.
+CRB is a techno and house artist based in France, with 133 gigs on soundcheck across Berlin, Budapest and Paris. Often billed alongside HAYAM, Cry Later and Nakrasia. Next up: Textilgyár, Budapest on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ CRB is a techno and house artist based in France, tracked on soundcheck, with 13
 
 ## Recently played
 
-- Turbina, Budapest — Fri, 25 Sept 2026
-- Toldi Klub, Budapest — Fri, 4 Sept 2026
-- Toldi Klub, Budapest — Thu, 20 Aug 2026
-- Pontoon Budapest, Budapest — Sun, 16 Aug 2026
-- Toldi Klub, Budapest — Sat, 1 Aug 2026
-- Aether Club Budapest, Budapest — Fri, 24 Jul 2026
-- Toldi Klub, Budapest — Fri, 10 Jul 2026
-- Atno, Budapest — Sat, 4 Jul 2026
+- Turbina, Budapest · Fri, 25 Sept 2026
+- Toldi Klub, Budapest · Fri, 4 Sept 2026
+- Toldi Klub, Budapest · Thu, 20 Aug 2026
+- Pontoon Budapest, Budapest · Sun, 16 Aug 2026
+- Toldi Klub, Budapest · Sat, 1 Aug 2026
+- Aether Club Budapest, Budapest · Fri, 24 Jul 2026
+- Toldi Klub, Budapest · Fri, 10 Jul 2026
+- Atno, Budapest · Sat, 4 Jul 2026
 
 ## Shares bills with
 

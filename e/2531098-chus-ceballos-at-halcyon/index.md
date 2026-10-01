@@ -1,6 +1,6 @@
 # Chus & Ceballos at Halcyon
 
-Chus & Ceballos at Halcyon on Sat 17 Oct, San Francisco/Oakland. 1 artist on the bill: Chus & Ceballos. Preview the line-up and save it on soundcheck.
+Chus & Ceballos at Halcyon on Sat 17 Oct, San Francisco/Oakland. 1 artist: Chus & Ceballos. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

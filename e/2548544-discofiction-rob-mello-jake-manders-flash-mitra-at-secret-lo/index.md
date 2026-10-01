@@ -1,6 +1,6 @@
 # DISCOFICTION: Rob Mello, Jake Manders, Flash Mitra at Secret London Location TBA
 
-DISCOFICTION: Rob Mello, Jake Manders, Flash Mitra at Secret London Location TBA on Fri 23 Oct, London. 3 artists on the bill: Flash Mitra, Rob Mello and YESMAN. House and Disco. Preview the line-up and save it on soundcheck.
+DISCOFICTION: Rob Mello, Jake Manders, Flash Mitra at Secret London Location TBA on Fri 23 Oct, London. 3 artists: Flash Mitra, Rob Mello and YESMAN. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

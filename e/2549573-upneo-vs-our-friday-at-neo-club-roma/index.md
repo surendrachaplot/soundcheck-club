@@ -1,6 +1,6 @@
 # UPNEO vs OUR FRIDAY at NEO CLUB ROMA
 
-UPNEO vs OUR FRIDAY at NEO CLUB ROMA on Fri 16 Oct, Rome. 1 artist on the bill: Marco Rea. House and Club. Preview the line-up and save it on soundcheck.
+UPNEO vs OUR FRIDAY at NEO CLUB ROMA on Fri 16 Oct, Rome. 1 artist: Marco Rea. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Slayyyter at Metropol
 
-Slayyyter at Metropol on Tue 27 Oct, Berlin. Electro and Pop. Preview the line-up and save it on soundcheck.
+Slayyyter at Metropol on Tue 27 Oct, Berlin. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

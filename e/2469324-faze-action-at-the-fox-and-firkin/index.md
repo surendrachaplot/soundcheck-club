@@ -1,6 +1,6 @@
 # Faze Action at The Fox and Firkin
 
-Faze Action at The Fox and Firkin on Fri 9 Oct, London. 1 artist on the bill: Faze Action. House and Disco. Preview the line-up and save it on soundcheck.
+Faze Action at The Fox and Firkin on Fri 9 Oct, London. 1 artist: Faze Action. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Chaos In The CBD presents: In Dust We Trust Tour at Djoon
 
-Chaos In The CBD presents: In Dust We Trust Tour at Djoon on Fri 6 Nov, Paris. 1 artist on the bill: Chaos In The CBD. House and Deep House. Preview the line-up and save it on soundcheck.
+Chaos In The CBD presents: In Dust We Trust Tour at Djoon on Fri 6 Nov, Paris. 1 artist: Chaos In The CBD. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

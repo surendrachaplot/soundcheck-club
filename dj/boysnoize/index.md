@@ -1,8 +1,8 @@
 # Boys Noize
 
-Boys Noize is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Switch, Porto on Fri, 2 Oct 2026.
+Boys Noize is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Switch, Porto on Fri, 2 Oct 2026.
 
-Boys Noize is a techno and house artist based in Germany, tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Berlin and 53 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: Switch, Porto on Fri 2 Oct.
+Boys Noize is a techno and house artist based in Germany, with 161 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 53 more. Often billed alongside VTSS, MCR-T and DJ Tennis. Next up: Switch, Porto on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Boys Noize is a techno and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- 888 Garage, San Francisco/Oakland — Sat, 26 Sept 2026
-- TBA, Washington DC — Sat, 12 Sept 2026
-- Club Space Miami, Miami — Fri, 11 Sept 2026
-- Avalon Hollywood, Los Angeles — Sun, 2 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- Under the K Bridge, New York City — Sat, 1 Aug 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- 888 Garage, San Francisco/Oakland · Sat, 26 Sept 2026
+- TBA, Washington DC · Sat, 12 Sept 2026
+- Club Space Miami, Miami · Fri, 11 Sept 2026
+- Avalon Hollywood, Los Angeles · Sun, 2 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- Under the K Bridge, New York City · Sat, 1 Aug 2026
 
 ## Shares bills with
 

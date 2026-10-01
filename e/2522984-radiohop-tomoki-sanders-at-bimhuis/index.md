@@ -1,6 +1,6 @@
 # RADIOHOP - Tomoki Sanders at Bimhuis
 
-RADIOHOP - Tomoki Sanders at Bimhuis on Thu 22 Oct, Amsterdam. Jazz. Preview the line-up and save it on soundcheck.
+RADIOHOP - Tomoki Sanders at Bimhuis on Thu 22 Oct, Amsterdam. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

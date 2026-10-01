@@ -1,8 +1,8 @@
 # Acid Asian
 
-Acid Asian is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Komplexo Tempo, Sao Paulo on Sat, 21 Nov 2026.
+Acid Asian is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sat, 21 Nov 2026.
 
-Acid Asian is a techno and acid artist based in Brazil, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, Bucharest and Cologne and 3 more. Often billed alongside BETRIZA, BR:UNO and Amber Broos. Next up: Komplexo Tempo, Sao Paulo on Sat 21 Nov.
+Acid Asian is a techno and acid artist based in Brazil, with 29 gigs on soundcheck across Amsterdam, Berlin, Bucharest and Cologne and 3 more. Often billed alongside BETRIZA, BR:UNO and Amber Broos. Next up: Komplexo Tempo, Sao Paulo on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Acid Asian is a techno and acid artist based in Brazil, tracked on soundcheck, w
 
 ## Recently played
 
-- D-EDGE, Sao Paulo — Sat, 26 Sept 2026
-- Ephigenia, Sao Paulo — Fri, 4 Sept 2026
-- OST, Berlin — Sat, 15 Aug 2026
-- Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
-- Ministerium Club, Lisbon — Thu, 13 Aug 2026
-- Bootshaus, Cologne — Fri, 24 Jul 2026
-- OST, Berlin — Fri, 17 Jul 2026
-- Ephigenia, Sao Paulo — Fri, 20 Mar 2026
+- D-EDGE, Sao Paulo · Sat, 26 Sept 2026
+- Ephigenia, Sao Paulo · Fri, 4 Sept 2026
+- OST, Berlin · Sat, 15 Aug 2026
+- Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
+- Ministerium Club, Lisbon · Thu, 13 Aug 2026
+- Bootshaus, Cologne · Fri, 24 Jul 2026
+- OST, Berlin · Fri, 17 Jul 2026
+- Ephigenia, Sao Paulo · Fri, 20 Mar 2026
 
 ## Shares bills with
 

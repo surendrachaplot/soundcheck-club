@@ -1,6 +1,6 @@
 # [CANCELLED] Agents Of Time - all night long at Lofi
 
-[CANCELLED] Agents Of Time - all night long at Lofi on Fri 20 Nov, Amsterdam. 1 artist on the bill: Agents Of Time. Preview the line-up and save it on soundcheck.
+[CANCELLED] Agents Of Time - all night long at Lofi on Fri 20 Nov, Amsterdam. 1 artist: Agents Of Time. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # House Of Silk - Brighton (Day Event) at Horizon Nightclub
 
-House Of Silk - Brighton (Day Event) at Horizon Nightclub on Sat 24 Oct, Brighton. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+House Of Silk - Brighton (Day Event) at Horizon Nightclub on Sat 24 Oct, Brighton. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

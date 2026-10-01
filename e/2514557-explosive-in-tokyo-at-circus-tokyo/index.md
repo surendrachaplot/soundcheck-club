@@ -1,6 +1,6 @@
 # Explosive in Tokyo at Circus Tokyo
 
-Explosive in Tokyo at Circus Tokyo on Sat 14 Nov, Tokyo. 4 artists on the bill: Coretex, Dustvoxx, Dynamax and Hayate. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Explosive in Tokyo at Circus Tokyo on Sat 14 Nov, Tokyo. 4 artists: Coretex, Dustvoxx, Dynamax and Hayate. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

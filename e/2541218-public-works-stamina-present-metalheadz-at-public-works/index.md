@@ -1,6 +1,6 @@
 # Public Works & Stamina present: Metalheadz at Public Works
 
-Public Works & Stamina present: Metalheadz on Sat 12 Dec, San Francisco/Oakland. 4 artists on the bill: DRS, Goldie, Jamal and Photek. Drum & Bass. Preview the line-up and save it on soundcheck.
+Public Works & Stamina present: Metalheadz on Sat 12 Dec, San Francisco/Oakland. 4 artists: DRS, Goldie, Jamal and Photek. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dj Sweet 6Teen hosted by EAR\WAX at Azimut Club
 
-Dj Sweet 6Teen hosted by EAR\WAX at Azimut Club on Sat 14 Nov, Turin. 1 artist on the bill: dj sweet6teen. House. Preview the line-up and save it on soundcheck.
+Dj Sweet 6Teen hosted by EAR\WAX at Azimut Club on Sat 14 Nov, Turin. 1 artist: dj sweet6teen. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BOXING DAY GBX Party at Savoy
 
-BOXING DAY GBX Party at Savoy on Sat 26 Dec, Glasgow. 1 artist on the bill: George Bowie. Trance. Preview the line-up and save it on soundcheck.
+BOXING DAY GBX Party at Savoy on Sat 26 Dec, Glasgow. 1 artist: George Bowie. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

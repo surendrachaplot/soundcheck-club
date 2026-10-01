@@ -1,6 +1,6 @@
 # Apologia X Celosia: Júlia Collado Riu (DJ Set) + NO STATE SOLUTION + Dokku + J Anton at Sala Apolo
 
-Apologia X Celosia: Júlia Collado Riu (DJ Set) + NO STATE SOLUTION + Dokku + J Anton at Sala Apolo on Sat 3 Oct, Barcelona. House and Bass. Preview the line-up and save it on soundcheck.
+Apologia X Celosia: Júlia Collado Riu (DJ Set) + NO STATE SOLUTION + Dokku + J Anton at Sala Apolo on Sat 3 Oct, Barcelona. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

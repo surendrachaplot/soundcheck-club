@@ -1,6 +1,6 @@
 # Nido at Akasha Las Dalias Club - Ibiza
 
-Nido at Akasha Las Dalias Club - Ibiza on Sun 4 Oct, Ibiza. 2 artists on the bill: Kanedo and SHARE (NL). Preview the line-up and save it on soundcheck.
+Nido at Akasha Las Dalias Club - Ibiza on Sun 4 Oct, Ibiza. 2 artists: Kanedo and SHARE (NL). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

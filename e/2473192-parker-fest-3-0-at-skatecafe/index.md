@@ -1,6 +1,6 @@
 # PARKER FEST 3.0 at Skatecafe
 
-PARKER FEST 3.0 at Skatecafe on Sat 17 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+PARKER FEST 3.0 at Skatecafe on Sat 17 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

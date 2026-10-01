@@ -1,6 +1,6 @@
 # Fixture Invites Hotties: ØTTA & Cquestt at Origin
 
-Fixture Invites Hotties: ØTTA & Cquestt at Origin on Wed 25 Nov, Los Angeles. 2 artists on the bill: Cquestt and ØTTA. Trance and Techno. Preview the line-up and save it on soundcheck.
+Fixture Invites Hotties: ØTTA & Cquestt at Origin on Wed 25 Nov, Los Angeles. 2 artists: Cquestt and ØTTA. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

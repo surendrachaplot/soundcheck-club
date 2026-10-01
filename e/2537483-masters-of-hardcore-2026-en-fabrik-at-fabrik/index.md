@@ -1,6 +1,6 @@
 # Masters Of Hardcore 2026 en Fabrik at Fabrik
 
-Masters Of Hardcore 2026 en Fabrik on Sat 19 Dec, Madrid. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Masters Of Hardcore 2026 en Fabrik on Sat 19 Dec, Madrid. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

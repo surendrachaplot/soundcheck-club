@@ -1,6 +1,6 @@
 # Awakenings ADE - Opening Night at Sugarfactory
 
-Awakenings ADE - Opening Night at Sugarfactory on Wed 21 Oct, Amsterdam. 6 artists on the bill: 999999999, Adrian Mills, fumi (DE) and HUJUS and 2 more. Techno. Preview the line-up and save it on soundcheck.
+Awakenings ADE - Opening Night at Sugarfactory on Wed 21 Oct, Amsterdam. 6 artists: 999999999, Adrian Mills, fumi (DE) and HUJUS and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

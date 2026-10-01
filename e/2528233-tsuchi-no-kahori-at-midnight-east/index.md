@@ -1,6 +1,6 @@
 # ツチノカホリ / Tsuchi no Kahori at MIDNIGHT EAST
 
-ツチノカホリ / Tsuchi no Kahori at MIDNIGHT EAST on Fri 2 Oct, Tokyo. 3 artists on the bill: A-Tweed, k:sea and ZUNDOKO DISCO. Techno and Downtempo. Preview the line-up and save it on soundcheck.
+ツチノカホリ / Tsuchi no Kahori at MIDNIGHT EAST on Fri 2 Oct, Tokyo. 3 artists: A-Tweed, k:sea and ZUNDOKO DISCO. Techno and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

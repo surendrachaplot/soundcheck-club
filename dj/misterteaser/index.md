@@ -1,8 +1,8 @@
 # Mister Teaser
 
-Mister Teaser is a Electronica and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ferro Bar, Porto on Fri, 2 Oct 2026.
+Mister Teaser is a Electronica and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ferro Bar, Porto on Fri, 2 Oct 2026.
 
-Mister Teaser is an electronica and electro artist based in Portugal, tracked on soundcheck, with 125 sets logged across Athens, Barcelona, Berlin and Budapest and 8 more. Often billed alongside Francis Canadas, Boogaloo Steve and Chris Video. Next up: Ferro Bar, Porto on Fri 2 Oct.
+Mister Teaser is an electronica and electro artist based in Portugal, with 125 gigs on soundcheck across Athens, Barcelona, Berlin and Budapest and 8 more. Often billed alongside Francis Canadas, Boogaloo Steve and Chris Video. Next up: Ferro Bar, Porto on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Mister Teaser is an electronica and electro artist based in Portugal, tracked on
 
 ## Recently played
 
-- TBA - Madame Travessa (Porto), Porto — Fri, 25 Sept 2026
-- TBA - Torto (Porto), Porto — Fri, 11 Sept 2026
-- TBA - Mat32 (Valencia, ES), Valencia — Sat, 5 Sept 2026
-- TBA - Madame Travessa (Porto), Porto — Fri, 7 Aug 2026
-- TBA - Madame Travessa (Porto), Porto — Sat, 25 Jul 2026
-- Adega Bar 1987, Lisbon — Sat, 18 Jul 2026
-- TBA - Torto (Porto), Porto — Fri, 10 Jul 2026
-- TBA - Madame Travessa (Porto), Porto — Sat, 27 Jun 2026
+- TBA - Madame Travessa (Porto), Porto · Fri, 25 Sept 2026
+- TBA - Torto (Porto), Porto · Fri, 11 Sept 2026
+- TBA - Mat32 (Valencia, ES), Valencia · Sat, 5 Sept 2026
+- TBA - Madame Travessa (Porto), Porto · Fri, 7 Aug 2026
+- TBA - Madame Travessa (Porto), Porto · Sat, 25 Jul 2026
+- Adega Bar 1987, Lisbon · Sat, 18 Jul 2026
+- TBA - Torto (Porto), Porto · Fri, 10 Jul 2026
+- TBA - Madame Travessa (Porto), Porto · Sat, 27 Jun 2026
 
 ## Shares bills with
 

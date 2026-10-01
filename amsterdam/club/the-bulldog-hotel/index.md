@@ -1,8 +1,8 @@
 # The Bulldog Hotel
 
-The Bulldog Hotel is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Claps Records Official Party" on Fri, 23 Oct 2026.
+The Bulldog Hotel is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Claps Records Official Party" on Fri, 23 Oct 2026.
 
-The Bulldog Hotel is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including BADBOX, Black Legend, El Mukuka and Federico Scavo and 2 more. Browse upcoming dates, start times and who's playing. Oudezijds Voorburgwal 220, 1012 GJ Amsterdam, Netherlands.
+The Bulldog Hotel is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including BADBOX, Black Legend, El Mukuka and Federico Scavo and 2 more. See dates, start times and who's playing. Oudezijds Voorburgwal 220, 1012 GJ Amsterdam, Netherlands.
 
 ## What's on
 

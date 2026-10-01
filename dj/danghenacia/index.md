@@ -1,8 +1,8 @@
 # Dan Ghenacia
 
-Dan Ghenacia is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Signal, New York City on Fri, 2 Oct 2026.
+Dan Ghenacia is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Signal, New York City on Fri, 2 Oct 2026.
 
-Dan Ghenacia is a house and tech house artist based in France, tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: Signal, New York City on Fri 2 Oct.
+Dan Ghenacia is a house and tech house artist based in France, with 153 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Shonky, Apollonia and Dyed Soundorom. Next up: Signal, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Dan Ghenacia is a house and tech house artist based in France, tracked on soundc
 
 ## Recently played
 
-- Ouseburn Garden, Newcastle — Sat, 26 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 12 Sept 2026
-- Teatro Pereyra, Ibiza — Fri, 21 Aug 2026
-- Quinta do Miratejo, Lisbon — Sun, 9 Aug 2026
-- La Terrrazza, Barcelona — Sat, 25 Jul 2026
-- Sophie Festival, Malaga — Sat, 11 Jul 2026
-- Sawmills, Bristol — Sat, 4 Jul 2026
-- La Terrrazza, Barcelona — Sun, 21 Jun 2026
+- Ouseburn Garden, Newcastle · Sat, 26 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 12 Sept 2026
+- Teatro Pereyra, Ibiza · Fri, 21 Aug 2026
+- Quinta do Miratejo, Lisbon · Sun, 9 Aug 2026
+- La Terrrazza, Barcelona · Sat, 25 Jul 2026
+- Sophie Festival, Malaga · Sat, 11 Jul 2026
+- Sawmills, Bristol · Sat, 4 Jul 2026
+- La Terrrazza, Barcelona · Sun, 21 Jun 2026
 
 ## Shares bills with
 

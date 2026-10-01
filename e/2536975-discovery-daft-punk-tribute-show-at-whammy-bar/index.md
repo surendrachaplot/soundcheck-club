@@ -1,6 +1,6 @@
 # Discovery - Daft Punk Tribute Show at Whammy Bar
 
-Discovery - Daft Punk Tribute Show at Whammy Bar on Fri 9 Oct, Auckland. Pop. Preview the line-up and save it on soundcheck.
+Discovery - Daft Punk Tribute Show at Whammy Bar on Fri 9 Oct, Auckland. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

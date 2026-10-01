@@ -1,8 +1,8 @@
 # Good Company Broadcast Group
 
-Good Company Broadcast Group is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at HVEN, Tokyo on Sun, 4 Oct 2026.
+Good Company Broadcast Group is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at HVEN, Tokyo on Sun, 4 Oct 2026.
 
-Good Company Broadcast Group is a house and deep house artist based in New Zealand, tracked on soundcheck, with 37 sets logged across Tokyo. Often billed alongside Joe O, CHIDA and FU (JP). Next up: HVEN, Tokyo on Sun 4 Oct.
+Good Company Broadcast Group is a house and deep house artist based in New Zealand, with 37 gigs on soundcheck across Tokyo. Often billed alongside Joe O, CHIDA and FU (JP). Next up: HVEN, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Good Company Broadcast Group is a house and deep house artist based in New Zeala
 
 ## Recently played
 
-- Red Bar, Tokyo — Sat, 19 Sept 2026
-- 1 Hotel Tokyo, Tokyo — Fri, 27 Mar 2026
-- Oath, Tokyo — Fri, 6 Feb 2026
-- Oath, Tokyo — Fri, 5 Dec 2025
-- 電気湯, Tokyo — Sat, 22 Nov 2025
-- Oath, Tokyo — Fri, 7 Nov 2025
-- Oath, Tokyo — Sat, 4 Oct 2025
-- WOMB, Tokyo — Fri, 3 Oct 2025
+- Red Bar, Tokyo · Sat, 19 Sept 2026
+- 1 Hotel Tokyo, Tokyo · Fri, 27 Mar 2026
+- Oath, Tokyo · Fri, 6 Feb 2026
+- Oath, Tokyo · Fri, 5 Dec 2025
+- 電気湯, Tokyo · Sat, 22 Nov 2025
+- Oath, Tokyo · Fri, 7 Nov 2025
+- Oath, Tokyo · Sat, 4 Oct 2025
+- WOMB, Tokyo · Fri, 3 Oct 2025
 
 ## Shares bills with
 

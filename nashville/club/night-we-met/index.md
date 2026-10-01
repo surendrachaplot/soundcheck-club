@@ -1,8 +1,8 @@
 # Night We Met
 
-Night We Met is a music venue in Nashville with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Atura x Darby" on Thu, 1 Oct 2026.
+Night We Met is a music venue in Nashville with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Atura x Darby" on Thu, 1 Oct 2026.
 
-Night We Met is a music venue in Nashville listed on soundcheck. 17 upcoming gigs, with line-ups including Arht, Biscits, bradeazy and Cut Copy and 2 more. Browse upcoming dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
+Night We Met is a music venue in Nashville listed on soundcheck. 17 upcoming gigs, with line-ups including Arht, Biscits, bradeazy and Cut Copy and 2 more. See dates, start times and who's playing. 114 12th Ave N, Nashville, TN 37203 USA.
 
 ## What's on
 

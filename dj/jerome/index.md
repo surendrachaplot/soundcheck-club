@@ -1,8 +1,8 @@
 # Jerome
 
-Jerome is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bootshaus, Cologne on Sat, 31 Oct 2026.
+Jerome is a Electro and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bootshaus, Cologne on Sat, 31 Oct 2026.
 
-Jerome is an electro and hip-hop artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside Lilly Palmer, A.D.H.S. and A.N.I.. Next up: Bootshaus, Cologne on Sat 31 Oct.
+Jerome is an electro and hip-hop artist based in Germany, with 9 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 1 more. Often billed alongside Lilly Palmer, A.D.H.S. and A.N.I.. Next up: Bootshaus, Cologne on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jerome is an electro and hip-hop artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Zinkbad Eventhalle, Zurich — Sat, 8 Aug 2026
-- Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
-- Bootshaus, Cologne — Fri, 31 Oct 2025
-- Generator Hostel Berlin Mitte, Berlin — Fri, 11 Jul 2025
-- Generator Hamburg, Hamburg — Fri, 28 Mar 2025
-- H1 Club and Lounge, Hamburg — Fri, 7 Mar 2025
-- Bootshaus, Cologne — Fri, 18 Oct 2024
-- Tresor / Globus, Berlin — Thu, 23 Mar 2023
+- Zinkbad Eventhalle, Zurich · Sat, 8 Aug 2026
+- Deutsche Bank Park, Frankfurt · Fri, 5 Jun 2026
+- Bootshaus, Cologne · Fri, 31 Oct 2025
+- Generator Hostel Berlin Mitte, Berlin · Fri, 11 Jul 2025
+- Generator Hamburg, Hamburg · Fri, 28 Mar 2025
+- H1 Club and Lounge, Hamburg · Fri, 7 Mar 2025
+- Bootshaus, Cologne · Fri, 18 Oct 2024
+- Tresor / Globus, Berlin · Thu, 23 Mar 2023
 
 ## Shares bills with
 

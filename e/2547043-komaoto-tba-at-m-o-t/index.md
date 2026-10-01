@@ -1,6 +1,6 @@
 # KOMAoto: TBA at M.O.T
 
-KOMAoto: TBA at M.O.T on Thu 29 Oct, London. Preview the line-up and save it on soundcheck.
+KOMAoto: TBA at M.O.T on Thu 29 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

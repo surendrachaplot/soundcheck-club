@@ -1,6 +1,6 @@
 # EhrenKlub x Now&Wow with KRUELTY, AZDAT, DIKKE BAAP, IMHAPPY, ZENTRYC at Now&Wow
 
-EhrenKlub x Now&Wow with KRUELTY, AZDAT, DIKKE BAAP, IMHAPPY, ZENTRYC on Sat 14 Nov, Rotterdam. 4 artists on the bill: Karamustan, KRUELTY, S*Y*N*K and Torsten. Techno. Preview the line-up and save it on soundcheck.
+EhrenKlub x Now&Wow with KRUELTY, AZDAT, DIKKE BAAP, IMHAPPY, ZENTRYC on Sat 14 Nov, Rotterdam. 4 artists: Karamustan, KRUELTY, S*Y*N*K and Torsten. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

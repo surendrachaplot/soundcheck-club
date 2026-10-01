@@ -1,6 +1,6 @@
 # Top Surgery: The Last Gig at Metropolitan Bar
 
-Top Surgery: The Last Gig at Metropolitan Bar on Fri 9 Oct, New York City. 4 artists on the bill: CMD+JAZMINE, Elly DJ, Hannah Account and microfossil. Preview the line-up and save it on soundcheck.
+Top Surgery: The Last Gig at Metropolitan Bar on Fri 9 Oct, New York City. 4 artists: CMD+JAZMINE, Elly DJ, Hannah Account and microfossil. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

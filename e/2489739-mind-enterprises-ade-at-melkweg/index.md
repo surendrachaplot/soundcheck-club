@@ -1,6 +1,6 @@
 # Mind Enterprises - ADE at Melkweg
 
-Mind Enterprises - ADE at Melkweg on Wed 21 Oct, Amsterdam. Italo Disco. Preview the line-up and save it on soundcheck.
+Mind Enterprises - ADE at Melkweg on Wed 21 Oct, Amsterdam. Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

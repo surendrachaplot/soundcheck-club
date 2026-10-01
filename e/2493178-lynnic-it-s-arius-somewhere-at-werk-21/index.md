@@ -1,6 +1,6 @@
 # Lynnic & It's Arius - Somewhere at Werk 21
 
-Lynnic & It's Arius - Somewhere at Werk 21 on Thu 3 Dec, Zurich. 2 artists on the bill: ARIUS X and Lynnic. House and Electro. Preview the line-up and save it on soundcheck.
+Lynnic & It's Arius - Somewhere at Werk 21 on Thu 3 Dec, Zurich. 2 artists: ARIUS X and Lynnic. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

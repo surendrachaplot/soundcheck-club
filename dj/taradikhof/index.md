@@ -1,8 +1,8 @@
 # Tara Dikhof
 
-Tara Dikhof is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Urban Mo's, San-diego on Fri, 9 Oct 2026.
+Tara Dikhof is a Club and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Urban Mo's, San-diego on Fri, 9 Oct 2026.
 
-Tara Dikhof is a club and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Boston, Chicago, San Diego and Washington DC. Often billed alongside ARMANA KHAN, Bridge (NY) and Ether Pleaser. Next up: Urban Mo's, San Diego on Fri 9 Oct.
+Tara Dikhof is a club and house artist based in United States of America, with 7 gigs on soundcheck across Boston, Chicago, San Diego and Washington DC. Often billed alongside ARMANA KHAN, Bridge (NY) and Ether Pleaser. Next up: Urban Mo's, San Diego on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ Tara Dikhof is a club and house artist based in United States of America, tracke
 
 ## Recently played
 
-- Legacy, Boston — Sat, 11 Jul 2026
-- Sunset C*Ntina, Boston — Fri, 3 Oct 2025
-- Sinners and Saints, Washington DC — Sat, 3 May 2025
-- Sunset C*Ntina, Boston — Tue, 31 Dec 2024
-- Sunset C*Ntina, Boston — Sat, 14 Dec 2024
+- Legacy, Boston · Sat, 11 Jul 2026
+- Sunset C*Ntina, Boston · Fri, 3 Oct 2025
+- Sinners and Saints, Washington DC · Sat, 3 May 2025
+- Sunset C*Ntina, Boston · Tue, 31 Dec 2024
+- Sunset C*Ntina, Boston · Sat, 14 Dec 2024
 
 ## Shares bills with
 

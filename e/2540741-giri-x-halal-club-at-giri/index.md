@@ -1,6 +1,6 @@
 # Giri x Halal Club at Giri
 
-Giri x Halal Club on Thu 15 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Giri x Halal Club on Thu 15 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

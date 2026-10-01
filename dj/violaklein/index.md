@@ -1,8 +1,8 @@
 # Viola Klein
 
-Viola Klein is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
+Viola Klein is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu, 15 Oct 2026.
 
-Viola Klein is an experimental and electronica artist tracked on soundcheck, with 10 sets logged across Antwerp, Berlin, Brussels and Cologne and 2 more. Often billed alongside 1LDK, Andriana-Yaroslava Saienko and Carrier. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
+Viola Klein is an experimental and electronica artist, with 10 gigs on soundcheck across Antwerp, Berlin, Brussels and Cologne and 2 more. Often billed alongside 1LDK, Andriana-Yaroslava Saienko and Carrier. Next up: The TBA - Stadtgarten, JAKI, Gewölbeater im Bauturm, Klosterkirche Heilig Kreuz, Stoff-Pavillon Moeller, Cologne on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Viola Klein is an experimental and electronica artist tracked on soundcheck, wit
 
 ## Recently played
 
-- Open Ground, Wuppertal — Sat, 19 Sept 2026
-- Lavallée, Brussels — Fri, 17 Jul 2026
-- Het Bos, Antwerp — Sat, 25 Oct 2025
-- JAKI, Cologne — Sat, 1 Feb 2025
-- JAKI, Cologne — Sat, 8 Jun 2024
-- Outra Cena, Lisbon — Fri, 2 Feb 2024
-- JAKI, Cologne — Sat, 21 Oct 2023
-- Tresor / Globus, Berlin — Thu, 26 Jan 2023
+- Open Ground, Wuppertal · Sat, 19 Sept 2026
+- Lavallée, Brussels · Fri, 17 Jul 2026
+- Het Bos, Antwerp · Sat, 25 Oct 2025
+- JAKI, Cologne · Sat, 1 Feb 2025
+- JAKI, Cologne · Sat, 8 Jun 2024
+- Outra Cena, Lisbon · Fri, 2 Feb 2024
+- JAKI, Cologne · Sat, 21 Oct 2023
+- Tresor / Globus, Berlin · Thu, 26 Jan 2023
 
 ## Shares bills with
 

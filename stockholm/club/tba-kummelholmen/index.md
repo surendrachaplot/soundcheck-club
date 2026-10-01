@@ -1,8 +1,8 @@
 # TBA -  Kummelholmen
 
-TBA -  Kummelholmen is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "a.sense 1 YEAR ANNIVERSARY" on Sat, 10 Oct 2026.
+TBA -  Kummelholmen is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "a.sense 1 YEAR ANNIVERSARY" on Sat, 10 Oct 2026.
 
-TBA -  Kummelholmen is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Anthony Linell, Picasso and Valrik. Browse upcoming dates, start times and who's playing.
+TBA -  Kummelholmen is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Anthony Linell, Picasso and Valrik. See dates, start times and who's playing.
 
 ## What's on
 

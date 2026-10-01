@@ -1,6 +1,6 @@
 # ROOTED X STRIPTOPIA at Parallel
 
-ROOTED X STRIPTOPIA at Parallel on Sat 28 Nov, Amsterdam. 2 artists on the bill: Slimfit and Tida Kamara. Club and Dancehall. Preview the line-up and save it on soundcheck.
+ROOTED X STRIPTOPIA at Parallel on Sat 28 Nov, Amsterdam. 2 artists: Slimfit and Tida Kamara. Club and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

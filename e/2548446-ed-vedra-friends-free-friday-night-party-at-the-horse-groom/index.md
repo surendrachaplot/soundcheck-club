@@ -1,6 +1,6 @@
 # Ed Vedra & Friends free Friday night party at The Horse & Groom
 
-Ed Vedra & Friends free Friday night party at The Horse & Groom on Fri 27 Nov, London. 4 artists on the bill: Blink Twice, Cowlick, Ed Vedra and Em i6. House and Balearic. Preview the line-up and save it on soundcheck.
+Ed Vedra & Friends free Friday night party at The Horse & Groom on Fri 27 Nov, London. 4 artists: Blink Twice, Cowlick, Ed Vedra and Em i6. House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Discos Esmeralda pres. Agonis (Dia I) at 50 | 50
 
-Discos Esmeralda pres. Agonis (Dia I) at 50 | 50 on Thu 1 Oct, Medellin. 2 artists on the bill: Agonis and Merino. Preview the line-up and save it on soundcheck.
+Discos Esmeralda pres. Agonis (Dia I) at 50 | 50 on Thu 1 Oct, Medellin. 2 artists: Agonis and Merino. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

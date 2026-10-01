@@ -1,8 +1,8 @@
 # Kyoto University Yoshida Dormitory
 
-Kyoto University Yoshida Dormitory is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "KUMARU祭 feat.ポンポコ山" on Sat, 14 Nov 2026.
+Kyoto University Yoshida Dormitory is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "KUMARU祭 feat.ポンポコ山" on Sat, 14 Nov 2026.
 
-Kyoto University Yoshida Dormitory is a music venue in Kyoto listed on soundcheck. 1 upcoming gig, with line-ups including Aiconga, KA4U, Limited Toss and Mofo and 2 more. Browse upcoming dates, start times and who's playing.
+Kyoto University Yoshida Dormitory is a music venue in Kyoto listed on soundcheck. 1 upcoming gig, with line-ups including Aiconga, KA4U, Limited Toss and Mofo and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

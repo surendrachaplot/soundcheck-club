@@ -1,6 +1,6 @@
 # Crossover pres. FM4 UNLIMITED Club Night at PRST
 
-Crossover pres. FM4 UNLIMITED Club Night at PRST on Fri 2 Oct, Vienna. Drum & Bass. Preview the line-up and save it on soundcheck.
+Crossover pres. FM4 UNLIMITED Club Night at PRST on Fri 2 Oct, Vienna. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

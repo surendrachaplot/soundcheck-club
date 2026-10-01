@@ -1,6 +1,6 @@
 # POISON RUÏN (US)+ MÖRKT (SP)_Post-punk_Anarkopunk_Madrid at Moby Dick Club
 
-POISON RUÏN (US)+ MÖRKT (SP)_Post-punk_Anarkopunk_Madrid at Moby Dick Club on Tue 3 Nov, Madrid. Post-Punk. Preview the line-up and save it on soundcheck.
+POISON RUÏN (US)+ MÖRKT (SP)_Post-punk_Anarkopunk_Madrid at Moby Dick Club on Tue 3 Nov, Madrid. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

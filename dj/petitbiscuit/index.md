@@ -1,8 +1,8 @@
 # Petit Biscuit
 
-Petit Biscuit is a House and Ambient artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Backroom, Indonesia on Thu, 1 Oct 2026.
+Petit Biscuit is a House and Ambient artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Backroom, Indonesia on Thu, 1 Oct 2026.
 
-Petit Biscuit is a house and ambient artist based in France, tracked on soundcheck, with 8 sets logged across Indonesia, Los Angeles, Melbourne and Nantes and 2 more. Often billed alongside Forester, Hutcher and Jofes. Next up: Backroom, Indonesia on Thu 1 Oct.
+Petit Biscuit is a house and ambient artist based in France, with 8 gigs on soundcheck across Indonesia, Los Angeles, Melbourne and Nantes and 2 more. Often billed alongside Forester, Hutcher and Jofes. Next up: Backroom, Indonesia on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -15,10 +15,10 @@ Petit Biscuit is a house and ambient artist based in France, tracked on soundche
 
 ## Recently played
 
-- Manning Bar, Sydney — Fri, 25 Sept 2026
-- Prince Bandroom, Melbourne — Sat, 19 Sept 2026
-- Inception Boat, Sydney — Sat, 1 Nov 2025
-- Warehouse, Nantes — Fri, 13 Jun 2025
+- Manning Bar, Sydney · Fri, 25 Sept 2026
+- Prince Bandroom, Melbourne · Sat, 19 Sept 2026
+- Inception Boat, Sydney · Sat, 1 Nov 2025
+- Warehouse, Nantes · Fri, 13 Jun 2025
 
 ## Shares bills with
 

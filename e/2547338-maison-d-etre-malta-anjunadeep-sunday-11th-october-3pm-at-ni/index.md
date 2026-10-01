@@ -1,6 +1,6 @@
 # Maison D'etre Malta - Anjunadeep Sunday 11th October 3pm at Nine Lives
 
-Maison D'etre Malta - Anjunadeep Sunday 11th October 3pm at Nine Lives on Sun 11 Oct, Malta. 2 artists on the bill: Monsieur Mikey and Sammy Dean. House. Preview the line-up and save it on soundcheck.
+Maison D'etre Malta - Anjunadeep Sunday 11th October 3pm at Nine Lives on Sun 11 Oct, Malta. 2 artists: Monsieur Mikey and Sammy Dean. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

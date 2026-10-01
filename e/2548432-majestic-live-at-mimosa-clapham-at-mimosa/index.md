@@ -1,6 +1,6 @@
 # Majestic Live at Mimosa Clapham at Mimosa
 
-Majestic Live at Mimosa Clapham on Fri 16 Oct, London. 1 artist on the bill: Majestic. House. Preview the line-up and save it on soundcheck.
+Majestic Live at Mimosa Clapham on Fri 16 Oct, London. 1 artist: Majestic. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

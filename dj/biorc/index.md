@@ -1,8 +1,8 @@
 # Biorc
 
-Biorc is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Studio76 Club, Madrid on Fri, 30 Oct 2026.
+Biorc is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Studio76 Club, Madrid on Fri, 30 Oct 2026.
 
-Biorc is a techno and house artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona and Madrid. Often billed alongside Angelo Stasi, Ali-Az and Antonio De Angelis. Next up: Studio76 Club, Madrid on Fri 30 Oct.
+Biorc is a techno and house artist based in Spain, with 14 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Angelo Stasi, Ali-Az and Antonio De Angelis. Next up: Studio76 Club, Madrid on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Biorc is a techno and house artist based in Spain, tracked on soundcheck, with 1
 
 ## Recently played
 
-- TBA - ENTITY poderes by Void Acostics, Madrid — Fri, 22 May 2026
-- Hangar48 Club, Madrid — Fri, 3 Oct 2025
-- Lasociaciøn, Madrid — Sat, 27 Sept 2025
-- LAB theCLUB, Madrid — Fri, 11 Jul 2025
-- Specka, Madrid — Sat, 29 Mar 2025
-- Bridge 48, Barcelona — Sat, 15 Feb 2025
-- Specka, Madrid — Sun, 5 Jan 2025
-- Republik Club, Madrid — Fri, 22 Nov 2024
+- TBA - ENTITY poderes by Void Acostics, Madrid · Fri, 22 May 2026
+- Hangar48 Club, Madrid · Fri, 3 Oct 2025
+- Lasociaciøn, Madrid · Sat, 27 Sept 2025
+- LAB theCLUB, Madrid · Fri, 11 Jul 2025
+- Specka, Madrid · Sat, 29 Mar 2025
+- Bridge 48, Barcelona · Sat, 15 Feb 2025
+- Specka, Madrid · Sun, 5 Jan 2025
+- Republik Club, Madrid · Fri, 22 Nov 2024
 
 ## Shares bills with
 

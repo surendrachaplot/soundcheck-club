@@ -1,6 +1,6 @@
 # Clímax at Club Malasaña
 
-Clímax at Club Malasaña on Thu 5 Nov, Madrid. House and Electronica. Preview the line-up and save it on soundcheck.
+Clímax at Club Malasaña on Thu 5 Nov, Madrid. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # **shmani** Album Release Party at TBA
 
-**shmani** Album Release Party at TBA on Fri 6 Nov, Vancouver. 1 artist on the bill: LVL (CAN). Bass and Electro. Preview the line-up and save it on soundcheck.
+**shmani** Album Release Party at TBA on Fri 6 Nov, Vancouver. 1 artist: LVL (CAN). Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

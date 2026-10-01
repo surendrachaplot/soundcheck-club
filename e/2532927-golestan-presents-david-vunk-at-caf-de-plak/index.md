@@ -1,6 +1,6 @@
 # Golestan - presents David Vunk at Café De Plak
 
-Golestan - presents David Vunk at Café De Plak on Sat 3 Oct, Nijmegen. 2 artists on the bill: David Vunk and Reza Athar. Preview the line-up and save it on soundcheck.
+Golestan - presents David Vunk at Café De Plak on Sat 3 Oct, Nijmegen. 2 artists: David Vunk and Reza Athar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

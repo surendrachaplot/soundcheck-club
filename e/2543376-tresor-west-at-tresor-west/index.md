@@ -1,6 +1,6 @@
 # Tresor.West at Tresor.West
 
-Tresor.West on Sat 10 Oct, Dortmund Essen. 4 artists on the bill: Alienata, Anuli, Lera Zagrevskaya and Phase Fatale. Preview the line-up and save it on soundcheck.
+Tresor.West on Sat 10 Oct, Dortmund Essen. 4 artists: Alienata, Anuli, Lera Zagrevskaya and Phase Fatale. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

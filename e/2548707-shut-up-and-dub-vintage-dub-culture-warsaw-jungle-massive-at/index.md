@@ -1,6 +1,6 @@
 # Shut Up And Dub - Vintage Dub Culture & Warsaw Jungle Massive at K-Bar Powiśle
 
-Shut Up And Dub - Vintage Dub Culture & Warsaw Jungle Massive at K-Bar Powiśle on Fri 2 Oct, Warsaw. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+Shut Up And Dub - Vintage Dub Culture & Warsaw Jungle Massive at K-Bar Powiśle on Fri 2 Oct, Warsaw. Dub and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

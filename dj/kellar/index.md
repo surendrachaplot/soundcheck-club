@@ -1,8 +1,8 @@
 # KELLAR
 
-KELLAR is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
+KELLAR is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Maassilo, Rotterdam on Sat, 31 Oct 2026.
 
-KELLAR is a house and techno artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Copenhagen, Madrid and Melbourne and 4 more. Often billed alongside Benny Rodrigues, Lisa Korver and NewTone. Next up: Maassilo, Rotterdam on Sat 31 Oct.
+KELLAR is a house and techno artist based in Netherlands, with 19 gigs on soundcheck across Amsterdam, Copenhagen, Madrid and Melbourne and 4 more. Often billed alongside Benny Rodrigues, Lisa Korver and NewTone. Next up: Maassilo, Rotterdam on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ KELLAR is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- Laagravense Plas, Utrecht — Sat, 12 Sept 2026
-- Boomerang Beach, The Hague — Sat, 11 Jul 2026
-- BASIS, Utrecht — Sat, 13 Jun 2026
-- TBA - VIBES, Rotterdam — Sat, 28 Feb 2026
-- Het Sieraad, Amsterdam — Fri, 20 Feb 2026
-- Toekomstmuziek, Amsterdam — Fri, 6 Feb 2026
-- Thuishaven, Amsterdam — Sun, 16 Nov 2025
-- Den Anden Side, Copenhagen — Sat, 18 Oct 2025
+- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
+- Boomerang Beach, The Hague · Sat, 11 Jul 2026
+- BASIS, Utrecht · Sat, 13 Jun 2026
+- TBA - VIBES, Rotterdam · Sat, 28 Feb 2026
+- Het Sieraad, Amsterdam · Fri, 20 Feb 2026
+- Toekomstmuziek, Amsterdam · Fri, 6 Feb 2026
+- Thuishaven, Amsterdam · Sun, 16 Nov 2025
+- Den Anden Side, Copenhagen · Sat, 18 Oct 2025
 
 ## Shares bills with
 

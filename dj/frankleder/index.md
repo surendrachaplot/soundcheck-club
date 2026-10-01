@@ -1,8 +1,8 @@
 # Frank Leder
 
-Frank Leder is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Toms Hamburg, Hamburg on Sat, 17 Oct 2026.
+Frank Leder is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Toms Hamburg, Hamburg on Sat, 17 Oct 2026.
 
-Frank Leder is a techno and electro artist based in Germany, tracked on soundcheck, with 18 sets logged across Hamburg. Often billed alongside Oliver Eich, Randali and Benjamin Grimm. Next up: Toms Hamburg, Hamburg on Sat 17 Oct.
+Frank Leder is a techno and electro artist based in Germany, with 18 gigs on soundcheck across Hamburg. Often billed alongside Oliver Eich, Randali and Benjamin Grimm. Next up: Toms Hamburg, Hamburg on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Frank Leder is a techno and electro artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Club Frau Holle, Hamburg — Sat, 5 Sept 2026
-- Club Frau Holle, Hamburg — Fri, 7 Aug 2026
-- Club Frau Holle, Hamburg — Fri, 17 Jul 2026
-- Club Frau Holle, Hamburg — Fri, 3 Jul 2026
-- La Cova, Hamburg — Fri, 19 Jun 2026
-- Club Frau Holle, Hamburg — Sun, 24 May 2026
-- La Cova, Hamburg — Fri, 15 May 2026
-- Club Frau Holle, Hamburg — Sat, 9 May 2026
+- Club Frau Holle, Hamburg · Sat, 5 Sept 2026
+- Club Frau Holle, Hamburg · Fri, 7 Aug 2026
+- Club Frau Holle, Hamburg · Fri, 17 Jul 2026
+- Club Frau Holle, Hamburg · Fri, 3 Jul 2026
+- La Cova, Hamburg · Fri, 19 Jun 2026
+- Club Frau Holle, Hamburg · Sun, 24 May 2026
+- La Cova, Hamburg · Fri, 15 May 2026
+- Club Frau Holle, Hamburg · Sat, 9 May 2026
 
 ## Shares bills with
 

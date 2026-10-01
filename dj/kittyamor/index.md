@@ -1,8 +1,8 @@
 # Kitty Amor
 
-Kitty Amor is a House and Afro House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at fabric, London on Thu, 15 Oct 2026.
+Kitty Amor is a House and Afro House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Thu, 15 Oct 2026.
 
-Kitty Amor is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 96 sets logged across Amsterdam, Bali, Berlin and Bristol and 19 more. Often billed alongside Andrea Oliva, Major League Djz and SYREETA. Next up: fabric, London on Thu 15 Oct.
+Kitty Amor is a house and afro house artist based in United Kingdom, with 96 gigs on soundcheck across Amsterdam, Bali, Berlin and Bristol and 19 more. Often billed alongside Andrea Oliva, Major League Djz and SYREETA. Next up: fabric, London on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Kitty Amor is a house and afro house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- TBA, Los Angeles — Sun, 27 Sept 2026
-- TBA, Toronto — Sat, 26 Sept 2026
-- SILO, New York City — Sat, 12 Sept 2026
-- Revolver Upstairs, Melbourne — Sun, 23 Aug 2026
-- Chinese Laundry, Sydney — Sat, 22 Aug 2026
-- Chinois Ibiza, Ibiza — Fri, 14 Aug 2026
-- Hï Ibiza, Ibiza — Sat, 1 Aug 2026
-- Burgess Park, London — Fri, 31 Jul 2026
+- TBA, Los Angeles · Sun, 27 Sept 2026
+- TBA, Toronto · Sat, 26 Sept 2026
+- SILO, New York City · Sat, 12 Sept 2026
+- Revolver Upstairs, Melbourne · Sun, 23 Aug 2026
+- Chinese Laundry, Sydney · Sat, 22 Aug 2026
+- Chinois Ibiza, Ibiza · Fri, 14 Aug 2026
+- Hï Ibiza, Ibiza · Sat, 1 Aug 2026
+- Burgess Park, London · Fri, 31 Jul 2026
 
 ## Shares bills with
 

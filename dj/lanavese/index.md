@@ -1,8 +1,8 @@
 # Lana Vese
 
-Lana Vese is a Techno and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Location, New York City on Thu, 29 Oct 2026.
+Lana Vese is a Techno and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, New York City on Thu, 29 Oct 2026.
 
-Lana Vese is a techno and disco artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Alive Girl, DJ Brandy Melville and AJACENT. Next up: TBA - Secret Location, New York City on Thu 29 Oct.
+Lana Vese is a techno and disco artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Alive Girl, DJ Brandy Melville and AJACENT. Next up: TBA - Secret Location, New York City on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lana Vese is a techno and disco artist based in United States of America, tracke
 
 ## Recently played
 
-- Elsewhere, New York City — Fri, 4 Sept 2026
-- Mood Ring, New York City — Wed, 12 Aug 2026
-- Pianos, New York City — Thu, 9 Jul 2026
-- Bogart House, New York City — Fri, 3 Jul 2026
-- Mood Ring, New York City — Thu, 2 Jul 2026
-- Jupiter Disco, New York City — Wed, 3 Jun 2026
-- Eden, New York City — Sat, 16 May 2026
-- Mood Ring, New York City — Fri, 3 Apr 2026
+- Elsewhere, New York City · Fri, 4 Sept 2026
+- Mood Ring, New York City · Wed, 12 Aug 2026
+- Pianos, New York City · Thu, 9 Jul 2026
+- Bogart House, New York City · Fri, 3 Jul 2026
+- Mood Ring, New York City · Thu, 2 Jul 2026
+- Jupiter Disco, New York City · Wed, 3 Jun 2026
+- Eden, New York City · Sat, 16 May 2026
+- Mood Ring, New York City · Fri, 3 Apr 2026
 
 ## Shares bills with
 

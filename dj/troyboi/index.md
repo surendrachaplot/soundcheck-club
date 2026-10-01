@@ -1,8 +1,8 @@
 # TroyBoi
 
-TroyBoi is a Bass and Dubstep artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BERHTA, Washington DC on Fri, 23 Oct 2026.
+TroyBoi is a Bass and Dubstep artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BERHTA, Washington DC on Fri, 23 Oct 2026.
 
-TroyBoi is a bass and dubstep artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Austin, California, Chicago and London and 10 more. Often billed alongside Hedex, Matroda and Deorro. Next up: BERHTA, Washington DC on Fri 23 Oct.
+TroyBoi is a bass and dubstep artist based in United Kingdom, with 24 gigs on soundcheck across Austin, California, Chicago and London and 10 more. Often billed alongside Hedex, Matroda and Deorro. Next up: BERHTA, Washington DC on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ TroyBoi is a bass and dubstep artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Glen Helen Regional Park, Los Angeles — Sat, 19 Sept 2026
-- The Concourse Project, Austin — Fri, 18 Sept 2026
-- Midline, Miami — Sat, 15 Aug 2026
-- Holland Park, Vancouver — Fri, 3 Jul 2026
-- Circus Osaka, Osaka — Fri, 8 May 2026
-- Circus Tokyo, Tokyo — Thu, 7 May 2026
-- NOS Event Center, Los Angeles — Fri, 27 Mar 2026
-- Brooklyn Storehouse, New York City — Sat, 28 Feb 2026
+- Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
+- The Concourse Project, Austin · Fri, 18 Sept 2026
+- Midline, Miami · Sat, 15 Aug 2026
+- Holland Park, Vancouver · Fri, 3 Jul 2026
+- Circus Osaka, Osaka · Fri, 8 May 2026
+- Circus Tokyo, Tokyo · Thu, 7 May 2026
+- NOS Event Center, Los Angeles · Fri, 27 Mar 2026
+- Brooklyn Storehouse, New York City · Sat, 28 Feb 2026
 
 ## Shares bills with
 

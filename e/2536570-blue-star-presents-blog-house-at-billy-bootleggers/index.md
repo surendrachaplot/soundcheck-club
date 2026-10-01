@@ -1,6 +1,6 @@
 # Blue Star presents: blog_house at Billy Bootleggers
 
-Blue Star presents: blog_house at Billy Bootleggers on Fri 2 Oct, Nottingham. Preview the line-up and save it on soundcheck.
+Blue Star presents: blog_house at Billy Bootleggers on Fri 2 Oct, Nottingham. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

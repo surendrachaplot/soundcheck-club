@@ -1,6 +1,6 @@
 # AIGEL — Live at La Nau
 
-AIGEL — Live at La Nau on Thu 1 Oct, Barcelona. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+AIGEL — Live at La Nau on Thu 1 Oct, Barcelona. Hip-Hop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

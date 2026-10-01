@@ -1,6 +1,6 @@
 # 宀 Invites Dr. Nishimura (悪魔の沼, Tokyo) + Yadin Moha (Zagareet, Hong Kong) at 宀 Club
 
-宀 Invites Dr. Nishimura (悪魔の沼, Tokyo) + Yadin Moha (Zagareet, Hong Kong) at 宀 Club on Sat 3 Oct, Hong Kong. 2 artists on the bill: Dr. Nishimura and Yadin Moha. Acid. Preview the line-up and save it on soundcheck.
+宀 Invites Dr. Nishimura (悪魔の沼, Tokyo) + Yadin Moha (Zagareet, Hong Kong) at 宀 Club on Sat 3 Oct, Hong Kong. 2 artists: Dr. Nishimura and Yadin Moha. Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

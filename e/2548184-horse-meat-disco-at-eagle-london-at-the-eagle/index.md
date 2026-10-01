@@ -1,6 +1,6 @@
 # Horse Meat Disco at Eagle London at The Eagle
 
-Horse Meat Disco at Eagle London at The Eagle on Sun 11 Oct, London. 1 artist on the bill: Horse Meat Disco. House and Disco. Preview the line-up and save it on soundcheck.
+Horse Meat Disco at Eagle London at The Eagle on Sun 11 Oct, London. 1 artist: Horse Meat Disco. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

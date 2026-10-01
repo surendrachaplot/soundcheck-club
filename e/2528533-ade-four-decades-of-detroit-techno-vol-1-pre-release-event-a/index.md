@@ -1,6 +1,6 @@
 # ADE - Four Decades of Detroit Techno Vol. 1 - Pre-Release Event at Q-Factory
 
-ADE - Four Decades of Detroit Techno Vol. 1 - Pre-Release Event at Q-Factory on Fri 23 Oct, Amsterdam. 13 artists on the bill: Acida Dominga, Alinka, CEM3340 and Deg and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
+ADE - Four Decades of Detroit Techno Vol. 1 - Pre-Release Event at Q-Factory on Fri 23 Oct, Amsterdam. 13 artists: Acida Dominga, Alinka, CEM3340 and Deg and 9 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

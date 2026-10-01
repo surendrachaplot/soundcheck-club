@@ -1,6 +1,6 @@
 # Friends In High Places feat. Alex Wann at Westlight Rooftop at The William Vale
 
-Friends In High Places feat. Alex Wann at Westlight Rooftop at The William Vale on Fri 16 Oct, New York City. 1 artist on the bill: Alex Wann. Afro House. Preview the line-up and save it on soundcheck.
+Friends In High Places feat. Alex Wann at Westlight Rooftop at The William Vale on Fri 16 Oct, New York City. 1 artist: Alex Wann. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

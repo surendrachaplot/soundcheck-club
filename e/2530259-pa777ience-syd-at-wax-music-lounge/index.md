@@ -1,6 +1,6 @@
 # PA777IENCE (Syd) at Wax Music Lounge
 
-PA777IENCE (Syd) at Wax Music Lounge on Sat 14 Nov, Melbourne. Funk / Soul. Preview the line-up and save it on soundcheck.
+PA777IENCE (Syd) at Wax Music Lounge on Sat 14 Nov, Melbourne. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

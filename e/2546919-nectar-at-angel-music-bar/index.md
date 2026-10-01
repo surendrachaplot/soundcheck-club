@@ -1,6 +1,6 @@
 # NECTAR at Angel Music Bar
 
-NECTAR at Angel Music Bar on Fri 16 Oct, Melbourne. 5 artists on the bill: Felipe, Freddy Gardens, Palazzo and TheCamiloS and 1 more. Preview the line-up and save it on soundcheck.
+NECTAR at Angel Music Bar on Fri 16 Oct, Melbourne. 5 artists: Felipe, Freddy Gardens, Palazzo and TheCamiloS and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

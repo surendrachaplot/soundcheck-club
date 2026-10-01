@@ -1,6 +1,6 @@
 # MABEMUSIC SALA 2 at City Hall
 
-MABEMUSIC SALA 2 at City Hall on Wed 7 Oct, Barcelona. House and Tech House. Preview the line-up and save it on soundcheck.
+MABEMUSIC SALA 2 at City Hall on Wed 7 Oct, Barcelona. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

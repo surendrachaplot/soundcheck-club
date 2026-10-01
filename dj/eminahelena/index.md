@@ -1,8 +1,8 @@
 # Emina Helena
 
-Emina Helena is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MUENZE, Berlin on Sat, 24 Oct 2026.
+Emina Helena is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MUENZE, Berlin on Sat, 24 Oct 2026.
 
-Emina Helena is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Leipzig and Nürnberg. Often billed alongside Frankie Flowerz, Acid Foxy and Annie O. Next up: MUENZE, Berlin on Sat 24 Oct.
+Emina Helena is a techno and house artist based in Germany, with 31 gigs on soundcheck across Berlin, Leipzig and Nürnberg. Often billed alongside Frankie Flowerz, Acid Foxy and Annie O. Next up: MUENZE, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Emina Helena is a techno and house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Die Rakete, Nürnberg — Fri, 27 Mar 2026
-- AVA Club, Berlin — Wed, 7 Jan 2026
-- Die Rakete, Nürnberg — Fri, 26 Dec 2025
-- AVA Club, Berlin — Sat, 6 Sept 2025
-- AVA Club, Berlin — Wed, 6 Aug 2025
-- KitKatClub, Berlin — Fri, 1 Aug 2025
-- TBA - Steglitz - Feuerbachstraß Sbahnhof, Berlin — Thu, 1 May 2025
-- KitKatClub, Berlin — Mon, 20 Jan 2025
+- Die Rakete, Nürnberg · Fri, 27 Mar 2026
+- AVA Club, Berlin · Wed, 7 Jan 2026
+- Die Rakete, Nürnberg · Fri, 26 Dec 2025
+- AVA Club, Berlin · Sat, 6 Sept 2025
+- AVA Club, Berlin · Wed, 6 Aug 2025
+- KitKatClub, Berlin · Fri, 1 Aug 2025
+- TBA - Steglitz - Feuerbachstraß Sbahnhof, Berlin · Thu, 1 May 2025
+- KitKatClub, Berlin · Mon, 20 Jan 2025
 
 ## Shares bills with
 

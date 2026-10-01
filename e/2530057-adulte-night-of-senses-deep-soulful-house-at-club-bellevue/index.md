@@ -1,6 +1,6 @@
 # ADULTE: NIGHT OF SENSES - DEEP SOULFUL HOUSE at Club Bellevue
 
-ADULTE: NIGHT OF SENSES - DEEP SOULFUL HOUSE at Club Bellevue on Fri 2 Oct, Zurich. House. Preview the line-up and save it on soundcheck.
+ADULTE: NIGHT OF SENSES - DEEP SOULFUL HOUSE at Club Bellevue on Fri 2 Oct, Zurich. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

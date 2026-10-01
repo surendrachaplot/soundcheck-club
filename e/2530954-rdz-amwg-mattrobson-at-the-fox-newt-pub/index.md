@@ -1,6 +1,6 @@
 # RDZ, AMWG, MATTROBSON at The Fox & Newt Pub
 
-RDZ, AMWG, MATTROBSON at The Fox & Newt Pub on Fri 6 Nov, Leeds. Jungle and Electronica. Preview the line-up and save it on soundcheck.
+RDZ, AMWG, MATTROBSON at The Fox & Newt Pub on Fri 6 Nov, Leeds. Jungle and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

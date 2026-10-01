@@ -1,6 +1,6 @@
 # Issued Nights Vol 11: Listening Edition at TBA - LORE BOOKSTORE, LEIMERT PARK
 
-Issued Nights Vol 11: Listening Edition at TBA - LORE BOOKSTORE, LEIMERT PARK on Thu 15 Oct, Los Angeles. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Issued Nights Vol 11: Listening Edition at TBA - LORE BOOKSTORE, LEIMERT PARK on Thu 15 Oct, Los Angeles. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

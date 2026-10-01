@@ -1,6 +1,6 @@
 # nido - A table avec oror at Nido Marseille
 
-nido - A table avec oror at Nido Marseille on Thu 1 Oct, Marseille. 1 artist on the bill: oror. Preview the line-up and save it on soundcheck.
+nido - A table avec oror at Nido Marseille on Thu 1 Oct, Marseille. 1 artist: oror. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

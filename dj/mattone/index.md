@@ -1,8 +1,8 @@
 # Mattone
 
-Mattone is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Sat, 10 Oct 2026.
+Mattone is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 10 Oct 2026.
 
-Mattone is a techno and electro artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Istanbul and San Francisco/Oakland. Often billed alongside FEVZEE, Gabrielle (DE) and MEEMA. Next up: OXI, Berlin on Sat 10 Oct.
+Mattone is a techno and electro artist based in Germany, with 40 gigs on soundcheck across Berlin, Istanbul and San Francisco/Oakland. Often billed alongside FEVZEE, Gabrielle (DE) and MEEMA. Next up: OXI, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mattone is a techno and electro artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- DNA. CLUB, Berlin — Fri, 25 Sept 2026
-- Bar Part Time, San Francisco/Oakland — Thu, 10 Sept 2026
-- Festsaal Kreuzberg, Berlin — Sat, 29 Aug 2026
-- OXI, Berlin — Thu, 20 Aug 2026
-- OXI, Berlin — Thu, 30 Jul 2026
-- ://about blank, Berlin — Sat, 11 Jul 2026
-- OXI, Berlin — Thu, 11 Jun 2026
-- Flux, Istanbul — Sat, 23 May 2026
+- DNA. CLUB, Berlin · Fri, 25 Sept 2026
+- Bar Part Time, San Francisco/Oakland · Thu, 10 Sept 2026
+- Festsaal Kreuzberg, Berlin · Sat, 29 Aug 2026
+- OXI, Berlin · Thu, 20 Aug 2026
+- OXI, Berlin · Thu, 30 Jul 2026
+- ://about blank, Berlin · Sat, 11 Jul 2026
+- OXI, Berlin · Thu, 11 Jun 2026
+- Flux, Istanbul · Sat, 23 May 2026
 
 ## Shares bills with
 

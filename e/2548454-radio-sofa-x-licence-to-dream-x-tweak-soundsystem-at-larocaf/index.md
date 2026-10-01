@@ -1,6 +1,6 @@
 # RADIO SOFA x LICENCE TO DREAM x TWEAK SOUNDSYSTEM at Larocafé
 
-RADIO SOFA x LICENCE TO DREAM x TWEAK SOUNDSYSTEM at Larocafé on Sun 1 Nov, Paris. Tech House and Dub. Preview the line-up and save it on soundcheck.
+RADIO SOFA x LICENCE TO DREAM x TWEAK SOUNDSYSTEM at Larocafé on Sun 1 Nov, Paris. Tech House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

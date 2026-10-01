@@ -1,6 +1,6 @@
 # Madam invites: Detroit Love at Madam
 
-Madam invites: Detroit Love on Sat 24 Oct, Amsterdam. 4 artists on the bill: Carl Craig, Idriss D, Kyle Hall and Matthew Dear. Techno and House. Preview the line-up and save it on soundcheck.
+Madam invites: Detroit Love on Sat 24 Oct, Amsterdam. 4 artists: Carl Craig, Idriss D, Kyle Hall and Matthew Dear. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

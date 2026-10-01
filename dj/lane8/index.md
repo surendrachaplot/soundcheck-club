@@ -1,8 +1,8 @@
 # Lane 8
 
-Lane 8 is a Deep House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OCZKI, Warsaw on Fri, 9 Oct 2026.
+Lane 8 is a Deep House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OCZKI, Warsaw on Fri, 9 Oct 2026.
 
-Lane 8 is a deep house and progressive house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Amsterdam, Austin, Belfast and Berlin and 13 more. Often billed alongside Sultan + Shepard, Eli Brown and Kaskade. Next up: OCZKI, Warsaw on Fri 9 Oct.
+Lane 8 is a deep house and progressive house artist based in United States of America, with 38 gigs on soundcheck across Amsterdam, Austin, Belfast and Berlin and 13 more. Often billed alongside Sultan + Shepard, Eli Brown and Kaskade. Next up: OCZKI, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Lane 8 is a deep house and progressive house artist based in United States of Am
 
 ## Recently played
 
-- Brooklyn Storehouse, New York City — Sat, 26 Sept 2026
-- Waterfront Park in San Diego, San Diego — Sun, 9 Aug 2026
-- Lakefront Green, Chicago — Fri, 3 Jul 2026
-- Brooklyn Army Terminal, New York City — Fri, 19 Jun 2026
-- Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
-- High Lights - Barking Park, London — Fri, 22 May 2026
-- Waterfront Park in San Diego, San Diego — Sat, 14 Mar 2026
-- Historic Virginia Key Beach Park, Miami — Sat, 28 Feb 2026
+- Brooklyn Storehouse, New York City · Sat, 26 Sept 2026
+- Waterfront Park in San Diego, San Diego · Sun, 9 Aug 2026
+- Lakefront Green, Chicago · Fri, 3 Jul 2026
+- Brooklyn Army Terminal, New York City · Fri, 19 Jun 2026
+- Musée de l'Air et de l'Espace, Paris · Fri, 22 May 2026
+- High Lights - Barking Park, London · Fri, 22 May 2026
+- Waterfront Park in San Diego, San Diego · Sat, 14 Mar 2026
+- Historic Virginia Key Beach Park, Miami · Sat, 28 Feb 2026
 
 ## Shares bills with
 

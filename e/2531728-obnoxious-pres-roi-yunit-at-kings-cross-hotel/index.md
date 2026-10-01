@@ -1,6 +1,6 @@
 # OBNOXIOUS pres. roi* & YUNIT at Kings Cross Hotel
 
-OBNOXIOUS pres. roi* & YUNIT at Kings Cross Hotel on Fri 23 Oct, Sydney. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+OBNOXIOUS pres. roi* & YUNIT at Kings Cross Hotel on Fri 23 Oct, Sydney. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

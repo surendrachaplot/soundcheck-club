@@ -1,6 +1,6 @@
 # PALAIS MEETS PATCHWORK: Ge-ology | Sassy J at Palais Mascotte
 
-PALAIS MEETS PATCHWORK: Ge-ology | Sassy J at Palais Mascotte on Fri 16 Oct, Zurich. 2 artists on the bill: Ge-ology and Sassy J. House and Disco. Preview the line-up and save it on soundcheck.
+PALAIS MEETS PATCHWORK: Ge-ology | Sassy J at Palais Mascotte on Fri 16 Oct, Zurich. 2 artists: Ge-ology and Sassy J. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

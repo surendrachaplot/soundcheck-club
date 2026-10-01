@@ -1,6 +1,6 @@
 # Kluster - 5 YEARS (Warehouse) at TBA - Paris
 
-Kluster - 5 YEARS (Warehouse) at TBA - Paris on Sat 10 Oct, Paris. 3 artists on the bill: AMORAL, Amotik and Marco Shuttle. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Kluster - 5 YEARS (Warehouse) at TBA - Paris on Sat 10 Oct, Paris. 3 artists: AMORAL, Amotik and Marco Shuttle. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

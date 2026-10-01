@@ -1,8 +1,8 @@
 # Milium
 
-Milium is a Electro and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paloma, Berlin on Sat, 3 Oct 2026.
+Milium is a Electro and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Sat, 3 Oct 2026.
 
-Milium is an electro and ebm artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Leipzig, Rotterdam and The Hague. Often billed alongside Charlie, DJ Leroy and Jetti. Next up: Paloma, Berlin on Sat 3 Oct.
+Milium is an electro and ebm artist based in Germany, with 8 gigs on soundcheck across Berlin, Leipzig, Rotterdam and The Hague. Often billed alongside Charlie, DJ Leroy and Jetti. Next up: Paloma, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Milium is an electro and ebm artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Time is the new space, Rotterdam — Fri, 19 Jun 2026
-- PIP Den Haag, The Hague — Thu, 29 May 2025
-- POING CLUB, Rotterdam — Sat, 24 Feb 2024
-- POING CLUB, Rotterdam — Sat, 16 Dec 2023
-- Fitzroy, Berlin — Fri, 23 Jun 2023
-- Neue Welle, Leipzig — Fri, 10 Mar 2023
-- POING CLUB, Rotterdam — Fri, 6 Jan 2023
+- Time is the new space, Rotterdam · Fri, 19 Jun 2026
+- PIP Den Haag, The Hague · Thu, 29 May 2025
+- POING CLUB, Rotterdam · Sat, 24 Feb 2024
+- POING CLUB, Rotterdam · Sat, 16 Dec 2023
+- Fitzroy, Berlin · Fri, 23 Jun 2023
+- Neue Welle, Leipzig · Fri, 10 Mar 2023
+- POING CLUB, Rotterdam · Fri, 6 Jan 2023
 
 ## Shares bills with
 

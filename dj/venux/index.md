@@ -1,8 +1,8 @@
 # VenuX
 
-VenuX is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bossa Nova Civic Club, New York City on Wed, 28 Oct 2026.
+VenuX is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 28 Oct 2026.
 
-VenuX is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit and New York City. Often billed alongside ALL EXITS, CRYFXB and Paradøx. Next up: Bossa Nova Civic Club, New York City on Wed 28 Oct.
+VenuX is a techno and hardcore artist based in United States of America, with 8 gigs on soundcheck across Detroit and New York City. Often billed alongside ALL EXITS, CRYFXB and Paradøx. Next up: Bossa Nova Civic Club, New York City on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ VenuX is a techno and hardcore artist based in United States of America, tracked
 
 ## Recently played
 
-- TBA - 16940 HAMILTON AVE, Detroit — Mon, 25 May 2026
-- TBA - Warehouse in Bushwick, New York City — Fri, 19 Sept 2025
-- H0L0, New York City — Fri, 5 Sept 2025
-- TBA, New York City — Sat, 31 Aug 2024
-- 315 Stagg st, New York City — Sat, 20 Jul 2024
-- Hart Bar, New York City — Fri, 31 May 2024
-- Galo Space, New York City — Sat, 9 Mar 2024
+- TBA - 16940 HAMILTON AVE, Detroit · Mon, 25 May 2026
+- TBA - Warehouse in Bushwick, New York City · Fri, 19 Sept 2025
+- H0L0, New York City · Fri, 5 Sept 2025
+- TBA, New York City · Sat, 31 Aug 2024
+- 315 Stagg st, New York City · Sat, 20 Jul 2024
+- Hart Bar, New York City · Fri, 31 May 2024
+- Galo Space, New York City · Sat, 9 Mar 2024
 
 ## Shares bills with
 

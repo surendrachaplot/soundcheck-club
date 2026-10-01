@@ -1,8 +1,8 @@
 # Carmen Lisa (2)
 
-Carmen Lisa (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at De Fik Garden, Amsterdam on Fri, 23 Oct 2026.
+Carmen Lisa (2) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at De Fik Garden, Amsterdam on Fri, 23 Oct 2026.
 
-Carmen Lisa is a techno and house artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Buenos Aires and Marseille and 5 more. Often billed alongside MYRA (NL), SOLE DOSI and Secret Cinema. Next up: De Fik Garden, Amsterdam on Fri 23 Oct.
+Carmen Lisa is a techno and house artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Marseille and 5 more. Often billed alongside MYRA (NL), SOLE DOSI and Secret Cinema. Next up: De Fik Garden, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Carmen Lisa is a techno and house artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Kralingse Bos, Rotterdam — Sat, 13 Jun 2026
-- Crobar - Buenos Aires, Buenos Aires — Fri, 5 Jun 2026
-- De Fik Garden, Amsterdam — Fri, 22 May 2026
-- Toffler, Rotterdam — Fri, 8 May 2026
-- Glazart, Paris — Sun, 15 Mar 2026
-- Bar Dancing Multipla, Amsterdam — Fri, 6 Mar 2026
-- Now&Wow, Rotterdam — Sat, 31 Jan 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
+- Kralingse Bos, Rotterdam · Sat, 13 Jun 2026
+- Crobar - Buenos Aires, Buenos Aires · Fri, 5 Jun 2026
+- De Fik Garden, Amsterdam · Fri, 22 May 2026
+- Toffler, Rotterdam · Fri, 8 May 2026
+- Glazart, Paris · Sun, 15 Mar 2026
+- Bar Dancing Multipla, Amsterdam · Fri, 6 Mar 2026
+- Now&Wow, Rotterdam · Sat, 31 Jan 2026
 
 ## Shares bills with
 

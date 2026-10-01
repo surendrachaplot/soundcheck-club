@@ -1,6 +1,6 @@
 # An evening of cocktails and feel-good music with DJ Hangaëlle at Evangeline
 
-An evening of cocktails and feel-good music with DJ Hangaëlle at Evangeline on Thu 1 Oct, Toronto. 1 artist on the bill: Hangaelle. Preview the line-up and save it on soundcheck.
+An evening of cocktails and feel-good music with DJ Hangaëlle at Evangeline on Thu 1 Oct, Toronto. 1 artist: Hangaelle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

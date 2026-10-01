@@ -1,8 +1,8 @@
 # DELASFLORES
 
-DELASFLORES is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Location (Madrid), Madrid on Sat, 10 Oct 2026.
+DELASFLORES is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 10 Oct 2026.
 
-DELASFLORES is a techno and house artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Brighton and Frankfurt and 9 more. Often billed alongside B.Love, Fantastic Man and Felon5. Next up: TBA - Secret Location (Madrid), Madrid on Sat 10 Oct.
+DELASFLORES is a techno and house artist based in Spain, with 45 gigs on soundcheck across Barcelona, Berlin, Brighton and Frankfurt and 9 more. Often billed alongside B.Love, Fantastic Man and Felon5. Next up: TBA - Secret Location (Madrid), Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DELASFLORES is a techno and house artist based in Spain, tracked on soundcheck, 
 
 ## Recently played
 
-- fabric, London — Fri, 21 Aug 2026
-- SASS Music Club, Vienna — Sat, 23 May 2026
-- The Lion and Lamb, London — Fri, 8 May 2026
-- 93 Feet East > Star Lane, London — Sat, 11 Apr 2026
-- Eiger Studios, Leeds — Fri, 27 Feb 2026
-- Club Cheek, London — Fri, 16 Jan 2026
-- fabric, London — Sat, 27 Dec 2025
-- The Loft, Manchester — Fri, 19 Dec 2025
+- fabric, London · Fri, 21 Aug 2026
+- SASS Music Club, Vienna · Sat, 23 May 2026
+- The Lion and Lamb, London · Fri, 8 May 2026
+- 93 Feet East > Star Lane, London · Sat, 11 Apr 2026
+- Eiger Studios, Leeds · Fri, 27 Feb 2026
+- Club Cheek, London · Fri, 16 Jan 2026
+- fabric, London · Sat, 27 Dec 2025
+- The Loft, Manchester · Fri, 19 Dec 2025
 
 ## Shares bills with
 

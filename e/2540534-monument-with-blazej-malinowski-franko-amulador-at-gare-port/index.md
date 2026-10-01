@@ -1,6 +1,6 @@
 # Monument with Blazej Malinowski, Franko, Amulador at Gare Porto
 
-Monument with Blazej Malinowski, Franko, Amulador at Gare Porto on Sat 10 Oct, Porto. 3 artists on the bill: Amulador, Blazej Malinowski and Franko. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Monument with Blazej Malinowski, Franko, Amulador at Gare Porto on Sat 10 Oct, Porto. 3 artists: Amulador, Blazej Malinowski and Franko. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

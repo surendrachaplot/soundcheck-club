@@ -1,6 +1,6 @@
 # Proyecto/ TBA at Mogambo
 
-Proyecto/ TBA at Mogambo on Fri 2 Oct, Valencia. Techno and EBM. Preview the line-up and save it on soundcheck.
+Proyecto/ TBA at Mogambo on Fri 2 Oct, Valencia. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

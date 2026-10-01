@@ -1,6 +1,6 @@
 # Off Record presents 14th Door at TBA - DTLA
 
-Off Record presents 14th Door at TBA - DTLA on Wed 14 Oct, Los Angeles. 2 artists on the bill: Mesmé and Niqi. Minimal and Dub. Preview the line-up and save it on soundcheck.
+Off Record presents 14th Door at TBA - DTLA on Wed 14 Oct, Los Angeles. 2 artists: Mesmé and Niqi. Minimal and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

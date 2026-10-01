@@ -1,6 +1,6 @@
 # HOME presents YUNG MEN IN THE CAR TOUR 2026 at Club Metro
 
-HOME presents YUNG MEN IN THE CAR TOUR 2026 at Club Metro on Thu 19 Nov, Kyoto. Preview the line-up and save it on soundcheck.
+HOME presents YUNG MEN IN THE CAR TOUR 2026 at Club Metro on Thu 19 Nov, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

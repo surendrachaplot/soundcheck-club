@@ -1,6 +1,6 @@
 # innerzone with shane irving at dubble
 
-innerzone with shane irving at dubble on Sun 4 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+innerzone with shane irving at dubble on Sun 4 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

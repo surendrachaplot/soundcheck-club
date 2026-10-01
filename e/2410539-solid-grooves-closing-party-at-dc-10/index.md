@@ -1,6 +1,6 @@
 # Solid Grooves - Closing Party at DC-10
 
-Solid Grooves - Closing Party at DC-10 on Thu 1 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+Solid Grooves - Closing Party at DC-10 on Thu 1 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

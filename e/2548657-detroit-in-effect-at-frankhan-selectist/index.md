@@ -1,6 +1,6 @@
 # Detroit In Effect at Frankhan Selectist
 
-Detroit In Effect at Frankhan Selectist on Fri 16 Oct, Istanbul. 1 artist on the bill: Detroit In Effect. Preview the line-up and save it on soundcheck.
+Detroit In Effect at Frankhan Selectist on Fri 16 Oct, Istanbul. 1 artist: Detroit In Effect. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

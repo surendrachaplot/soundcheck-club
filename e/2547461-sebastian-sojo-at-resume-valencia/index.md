@@ -1,6 +1,6 @@
 # Sebastian, Sojo at Resume Valencia
 
-Sebastian, Sojo at Resume Valencia on Fri 23 Oct, Valencia. 1 artist on the bill: Sojo. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Sebastian, Sojo at Resume Valencia on Fri 23 Oct, Valencia. 1 artist: Sojo. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # gabby cocco
 
-gabby cocco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Good Room, New York City on Thu, 19 Nov 2026.
+gabby cocco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Good Room, New York City on Thu, 19 Nov 2026.
 
-gabby cocco is a house and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Mexico City and New York City. Often billed alongside Chloe Battelle, James Juke and Rachel Opert. Next up: Good Room, New York City on Thu 19 Nov.
+gabby cocco is a house and techno artist based in United States of America, with 72 gigs on soundcheck across Mexico City and New York City. Often billed alongside Chloe Battelle, James Juke and Rachel Opert. Next up: Good Room, New York City on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ gabby cocco is a house and techno artist based in United States of America, trac
 
 ## Recently played
 
-- Good Room, New York City — Sat, 5 Sept 2026
-- Sunday Sunday, Mexico City — Sun, 23 Aug 2026
-- Roof Terrace BK, New York City — Sat, 15 Aug 2026
-- public records, New York City — Sat, 8 Aug 2026
-- Elsewhere, New York City — Fri, 31 Jul 2026
-- Roberta's, New York City — Sat, 25 Jul 2026
-- Honey's, New York City — Sat, 25 Jul 2026
-- Refuge, New York City — Fri, 3 Jul 2026
+- Good Room, New York City · Sat, 5 Sept 2026
+- Sunday Sunday, Mexico City · Sun, 23 Aug 2026
+- Roof Terrace BK, New York City · Sat, 15 Aug 2026
+- public records, New York City · Sat, 8 Aug 2026
+- Elsewhere, New York City · Fri, 31 Jul 2026
+- Roberta's, New York City · Sat, 25 Jul 2026
+- Honey's, New York City · Sat, 25 Jul 2026
+- Refuge, New York City · Fri, 3 Jul 2026
 
 ## Shares bills with
 

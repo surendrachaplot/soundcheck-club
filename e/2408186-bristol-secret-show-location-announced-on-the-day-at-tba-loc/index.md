@@ -1,6 +1,6 @@
 # Bristol Secret Show - Location announced on the day at TBA - Location Announced on the day. Join the Fade Fam chat for details. 
 
-Bristol Secret Show - Location announced on the day at TBA - Location Announced on the day. Join the Fade Fam chat for details.  on Thu 5 Nov, Bristol. 1 artist on the bill: High Fade. Funk / Soul. Preview the line-up and save it on soundcheck.
+Bristol Secret Show - Location announced on the day at TBA - Location Announced on the day. Join the Fade Fam chat for details.  on Thu 5 Nov, Bristol. 1 artist: High Fade. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

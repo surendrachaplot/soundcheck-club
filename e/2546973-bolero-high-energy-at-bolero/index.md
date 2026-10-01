@@ -1,6 +1,6 @@
 # Bolero: HIGH-ENERGY at Bolero
 
-Bolero: HIGH-ENERGY on Sun 4 Oct, Seoul. 1 artist on the bill: Semo. Club. Preview the line-up and save it on soundcheck.
+Bolero: HIGH-ENERGY on Sun 4 Oct, Seoul. 1 artist: Semo. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

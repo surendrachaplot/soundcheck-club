@@ -1,6 +1,6 @@
 # Between the Lines presents: Bruno Schmidt at TBA - Private Location
 
-Between the Lines presents: Bruno Schmidt at TBA - Private Location on Sat 24 Oct, Seattle. 2 artists on the bill: Aivilo and Bruno Schmidt. House and Electro. Preview the line-up and save it on soundcheck.
+Between the Lines presents: Bruno Schmidt at TBA - Private Location on Sat 24 Oct, Seattle. 2 artists: Aivilo and Bruno Schmidt. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

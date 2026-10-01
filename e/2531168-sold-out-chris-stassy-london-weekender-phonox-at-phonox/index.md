@@ -1,6 +1,6 @@
 # [SOLD OUT] CHRIS STASSY – LONDON WEEKENDER - Phonox at Phonox
 
-[SOLD OUT] CHRIS STASSY – LONDON WEEKENDER - Phonox on Sat 5 Dec, London. 1 artist on the bill: CHRIS STASSY. House and Tech House. Preview the line-up and save it on soundcheck.
+[SOLD OUT] CHRIS STASSY – LONDON WEEKENDER - Phonox on Sat 5 Dec, London. 1 artist: CHRIS STASSY. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # YOUR MUM'S HOUSE at Basing House
 
-YOUR MUM'S HOUSE at Basing House on Thu 22 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+YOUR MUM'S HOUSE at Basing House on Thu 22 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

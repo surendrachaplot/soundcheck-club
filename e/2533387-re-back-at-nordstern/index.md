@@ -1,6 +1,6 @@
 # RE:BACK at Nordstern
 
-RE:BACK at Nordstern on Sat 10 Oct, Basel. Preview the line-up and save it on soundcheck.
+RE:BACK at Nordstern on Sat 10 Oct, Basel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

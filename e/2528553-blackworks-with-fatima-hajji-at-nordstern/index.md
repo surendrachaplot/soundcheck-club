@@ -1,6 +1,6 @@
 # Blackworks with Fatima Hajji at Nordstern
 
-Blackworks with Fatima Hajji at Nordstern on Fri 16 Oct, Basel. 3 artists on the bill: Dexphase, Fatima Hajji and Skryption. Preview the line-up and save it on soundcheck.
+Blackworks with Fatima Hajji at Nordstern on Fri 16 Oct, Basel. 3 artists: Dexphase, Fatima Hajji and Skryption. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

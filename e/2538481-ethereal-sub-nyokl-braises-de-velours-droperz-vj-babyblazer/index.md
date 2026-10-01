@@ -1,6 +1,6 @@
 # ETHEREAL SUB: Nyokl • Braises de Velours • Droperz [VJ Babyblazer] at Zoo
 
-ETHEREAL SUB: Nyokl • Braises de Velours • Droperz [VJ Babyblazer] at Zoo on Fri 9 Oct, Geneva. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+ETHEREAL SUB: Nyokl • Braises de Velours • Droperz [VJ Babyblazer] at Zoo on Fri 9 Oct, Geneva. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

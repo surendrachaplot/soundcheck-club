@@ -1,8 +1,8 @@
 # TBA - Toronto
 
-TBA - Toronto is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ANFISA LETYAGO presented by TAKEOVER 6IX / system / FLOH" on Sat, 17 Oct 2026.
+TBA - Toronto is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ANFISA LETYAGO presented by TAKEOVER 6IX / system / FLOH" on Sat, 17 Oct 2026.
 
-TBA - Toronto is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including Anfisa Letyago, Kerri Chandler, MERS and Nina Kraviz and 1 more. Browse upcoming dates, start times and who's playing.
+TBA - Toronto is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including Anfisa Letyago, Kerri Chandler, MERS and Nina Kraviz and 1 more. See dates, start times and who's playing.
 
 ## What's on
 

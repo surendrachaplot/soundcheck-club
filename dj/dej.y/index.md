@@ -1,8 +1,8 @@
 # dej.y
 
-dej.y is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TV Lounge, Detroit on Sun, 4 Oct 2026.
+dej.y is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TV Lounge, Detroit on Sun, 4 Oct 2026.
 
-dej.y is a house and techno artist based in United States of America, tracked on soundcheck, with 72 sets logged across Detroit, Montreal, Nashville and New York City. Often billed alongside Kindle, Stacey Hotwaxx Hale and Aboudi Issa. Next up: TV Lounge, Detroit on Sun 4 Oct.
+dej.y is a house and techno artist based in United States of America, with 72 gigs on soundcheck across Detroit, Montreal, Nashville and New York City. Often billed alongside Kindle, Stacey Hotwaxx Hale and Aboudi Issa. Next up: TV Lounge, Detroit on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ dej.y is a house and techno artist based in United States of America, tracked on
 
 ## Recently played
 
-- TV Lounge, Detroit — Fri, 11 Sept 2026
-- MotorCity Wine, Detroit — Mon, 7 Sept 2026
-- Spkrbox, Detroit — Sat, 29 Aug 2026
-- Good Room, New York City — Fri, 10 Jul 2026
-- Spot Lite Detroit, Detroit — Sat, 27 Jun 2026
-- Cannons, Detroit — Sat, 20 Jun 2026
-- Northern Lights Lounge, Detroit — Sat, 13 Jun 2026
-- Spkrbox, Detroit — Tue, 26 May 2026
+- TV Lounge, Detroit · Fri, 11 Sept 2026
+- MotorCity Wine, Detroit · Mon, 7 Sept 2026
+- Spkrbox, Detroit · Sat, 29 Aug 2026
+- Good Room, New York City · Fri, 10 Jul 2026
+- Spot Lite Detroit, Detroit · Sat, 27 Jun 2026
+- Cannons, Detroit · Sat, 20 Jun 2026
+- Northern Lights Lounge, Detroit · Sat, 13 Jun 2026
+- Spkrbox, Detroit · Tue, 26 May 2026
 
 ## Shares bills with
 

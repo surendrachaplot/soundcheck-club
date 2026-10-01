@@ -1,6 +1,6 @@
 # 10 years of Subtle Radio at The Carpet Shop
 
-10 years of Subtle Radio at The Carpet Shop on Fri 2 Oct, London. Dubstep and Club. Preview the line-up and save it on soundcheck.
+10 years of Subtle Radio at The Carpet Shop on Fri 2 Oct, London. Dubstep and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

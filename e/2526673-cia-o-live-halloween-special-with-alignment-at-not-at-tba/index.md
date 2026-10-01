@@ -1,6 +1,6 @@
 # Ciało live: Halloween Special with Alignment at NOT at TBA
 
-Ciało live: Halloween Special with Alignment at NOT at TBA on Sat 31 Oct, Poland. 3 artists on the bill: Alignment, Dizzy and Kuriozum. Preview the line-up and save it on soundcheck.
+Ciało live: Halloween Special with Alignment at NOT at TBA on Sat 31 Oct, Poland. 3 artists: Alignment, Dizzy and Kuriozum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

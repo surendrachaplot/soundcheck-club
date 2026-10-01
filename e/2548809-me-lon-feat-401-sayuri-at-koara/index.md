@@ -1,6 +1,6 @@
 # Me/lon feat.401&Sayuri at Koara
 
-Me/lon feat.401&Sayuri at Koara on Sat 10 Oct, Tokyo. 1 artist on the bill: UUUKi. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Me/lon feat.401&Sayuri at Koara on Sat 10 Oct, Tokyo. 1 artist: UUUKi. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

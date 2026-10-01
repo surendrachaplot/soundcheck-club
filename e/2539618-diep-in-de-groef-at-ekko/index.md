@@ -1,6 +1,6 @@
 # Diep In De Groef at EKKO
 
-Diep In De Groef at EKKO on Fri 23 Oct, Utrecht. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Diep In De Groef at EKKO on Fri 23 Oct, Utrecht. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

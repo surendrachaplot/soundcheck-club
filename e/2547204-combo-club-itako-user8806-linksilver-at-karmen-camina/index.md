@@ -1,6 +1,6 @@
 # COMBO CLUB [itako • user8806 & Linksilver] at Karmen Camina
 
-COMBO CLUB [itako • user8806 & Linksilver] at Karmen Camina on Thu 1 Oct, Strasbourg. 2 artists on the bill: itako and Linksilver. Minimal and Downtempo. Preview the line-up and save it on soundcheck.
+COMBO CLUB [itako • user8806 & Linksilver] at Karmen Camina on Thu 1 Oct, Strasbourg. 2 artists: itako and Linksilver. Minimal and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jan Swam
 
-Jan Swam is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
+Jan Swam is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Sat, 3 Oct 2026.
 
-Jan Swam is a techno and trance artist based in Spain, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 13 more. Often billed alongside Emilia Grima, servei and Solma. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
+Jan Swam is a techno and trance artist based in Spain, with 50 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 13 more. Often billed alongside Emilia Grima, servei and Solma. Next up: Circus Tokyo, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jan Swam is a techno and trance artist based in Spain, tracked on soundcheck, wi
 
 ## Recently played
 
-- Gaffe, London — Fri, 18 Sept 2026
-- TBA - Toledo, Madrid — Fri, 29 May 2026
-- Gaffe, London — Fri, 17 Apr 2026
-- Jolene, Copenhagen — Sat, 4 Apr 2026
-- Funke, Ghent — Fri, 3 Apr 2026
-- TBA, Berlin — Sat, 21 Mar 2026
-- Smelteverket, Oslo — Sat, 28 Feb 2026
-- WOMB, Tokyo — Fri, 26 Dec 2025
+- Gaffe, London · Fri, 18 Sept 2026
+- TBA - Toledo, Madrid · Fri, 29 May 2026
+- Gaffe, London · Fri, 17 Apr 2026
+- Jolene, Copenhagen · Sat, 4 Apr 2026
+- Funke, Ghent · Fri, 3 Apr 2026
+- TBA, Berlin · Sat, 21 Mar 2026
+- Smelteverket, Oslo · Sat, 28 Feb 2026
+- WOMB, Tokyo · Fri, 26 Dec 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # GOOD ROOM X RSquared at Good Room Sydney
 
-GOOD ROOM X RSquared at Good Room Sydney on Sat 3 Oct, Sydney. 3 artists on the bill: Aidan Bega, Joel Cantone and RSquared. Techno and Tech House. Preview the line-up and save it on soundcheck.
+GOOD ROOM X RSquared at Good Room Sydney on Sat 3 Oct, Sydney. 3 artists: Aidan Bega, Joel Cantone and RSquared. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

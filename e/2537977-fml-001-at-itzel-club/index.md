@@ -1,6 +1,6 @@
 # FML 001 at Itzel Club
 
-FML 001 at Itzel Club on Sat 17 Oct, London. House and Deep House. Preview the line-up and save it on soundcheck.
+FML 001 at Itzel Club on Sat 17 Oct, London. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

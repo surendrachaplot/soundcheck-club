@@ -1,6 +1,6 @@
 # Manual Flash with Special Guests & Residents at TBA - Secret East London Location
 
-Manual Flash with Special Guests & Residents at TBA - Secret East London Location on Fri 2 Oct, London. 3 artists on the bill: Daniel Pereira, Mr. Freeze and Sparky (AU). House and Electro. Preview the line-up and save it on soundcheck.
+Manual Flash with Special Guests & Residents at TBA - Secret East London Location on Fri 2 Oct, London. 3 artists: Daniel Pereira, Mr. Freeze and Sparky (AU). House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

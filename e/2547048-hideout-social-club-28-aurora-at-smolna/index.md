@@ -1,6 +1,6 @@
 # HIDEOUT SOCIAL CLUB #28 || Aurora at Smolna
 
-HIDEOUT SOCIAL CLUB #28 || Aurora at Smolna on Wed 21 Oct, Warsaw. 1 artist on the bill: Aurora. House and Tech House. Preview the line-up and save it on soundcheck.
+HIDEOUT SOCIAL CLUB #28 || Aurora at Smolna on Wed 21 Oct, Warsaw. 1 artist: Aurora. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

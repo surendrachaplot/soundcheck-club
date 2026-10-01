@@ -1,6 +1,6 @@
 # GoaUltrabeat - Hotel Butterfly at Hotel Butterfly
 
-GoaUltrabeat - Hotel Butterfly on Thu 1 Oct, Rome. 3 artists on the bill: GNMR, Ivan Smagghe and Marcolino. Techno and Electro. Preview the line-up and save it on soundcheck.
+GoaUltrabeat - Hotel Butterfly on Thu 1 Oct, Rome. 3 artists: GNMR, Ivan Smagghe and Marcolino. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

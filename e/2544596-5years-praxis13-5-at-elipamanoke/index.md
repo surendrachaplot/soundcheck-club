@@ -1,6 +1,6 @@
 # 5YEARS PRAXIS13.5 at elipamanoke
 
-5YEARS PRAXIS13.5 at elipamanoke on Sat 7 Nov, Leipzig. Techno and Industrial. Preview the line-up and save it on soundcheck.
+5YEARS PRAXIS13.5 at elipamanoke on Sat 7 Nov, Leipzig. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

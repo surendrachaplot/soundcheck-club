@@ -1,6 +1,6 @@
 # Twister x Peppermint at Eiger Studios
 
-Twister x Peppermint at Eiger Studios on Fri 6 Nov, Leeds. 2 artists on the bill: Richard Gregory and Simon Scott. Preview the line-up and save it on soundcheck.
+Twister x Peppermint at Eiger Studios on Fri 6 Nov, Leeds. 2 artists: Richard Gregory and Simon Scott. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Kagurane
 
-Kagurane is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Luuudic Cuuube Vol.1 Produced by U-nel" on Sun, 25 Oct 2026.
+Kagurane is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Luuudic Cuuube Vol.1 Produced by U-nel" on Sun, 25 Oct 2026.
 
-Kagurane is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including ΣKIYM×chamois. Browse upcoming dates, start times and who's playing. B1F TOMOS-Bildg. 6 Kagurazaka, Shinjuku, Tokyo. 162-0825.
+Kagurane is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including ΣKIYM×chamois. See dates, start times and who's playing. B1F TOMOS-Bildg. 6 Kagurazaka, Shinjuku, Tokyo. 162-0825.
 
 ## What's on
 

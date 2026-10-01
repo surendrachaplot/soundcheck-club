@@ -1,6 +1,6 @@
 # nmnhn sp vol.5 at Chika-Ikkai
 
-nmnhn sp vol.5 at Chika-Ikkai on Thu 22 Oct, Osaka. 3 artists on the bill: Aspara, Atsushi Izumi and RRRKRTA. Techno. Preview the line-up and save it on soundcheck.
+nmnhn sp vol.5 at Chika-Ikkai on Thu 22 Oct, Osaka. 3 artists: Aspara, Atsushi Izumi and RRRKRTA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

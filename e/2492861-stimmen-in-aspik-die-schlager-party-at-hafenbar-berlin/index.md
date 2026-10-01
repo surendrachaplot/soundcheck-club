@@ -1,6 +1,6 @@
 # Stimmen in Aspik - Die Schlager-Party at Hafenbar Berlin
 
-Stimmen in Aspik - Die Schlager-Party at Hafenbar Berlin on Fri 2 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Stimmen in Aspik - Die Schlager-Party at Hafenbar Berlin on Fri 2 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

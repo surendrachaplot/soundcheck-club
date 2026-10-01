@@ -1,6 +1,6 @@
 # Jungle Mania meets AWOL Halloween - London at E1
 
-Jungle Mania meets AWOL Halloween - London at E1 on Sat 31 Oct, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jungle Mania meets AWOL Halloween - London at E1 on Sat 31 Oct, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

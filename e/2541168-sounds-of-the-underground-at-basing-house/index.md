@@ -1,6 +1,6 @@
 # SOUNDS OF THE UNDERGROUND at Basing House
 
-SOUNDS OF THE UNDERGROUND at Basing House on Sat 17 Oct, London. House and Afro House. Preview the line-up and save it on soundcheck.
+SOUNDS OF THE UNDERGROUND at Basing House on Sat 17 Oct, London. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kaytranada (DJ Set) with Lou Phelps (DJ Set), Darling Cool at Echostage
 
-Kaytranada (DJ Set) with Lou Phelps (DJ Set), Darling Cool at Echostage on Thu 29 Oct, Washington DC. 2 artists on the bill: Darling Cool and Kaytranada. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Kaytranada (DJ Set) with Lou Phelps (DJ Set), Darling Cool at Echostage on Thu 29 Oct, Washington DC. 2 artists: Darling Cool and Kaytranada. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

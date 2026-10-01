@@ -1,6 +1,6 @@
 # Kelburn End of Season Party at People's Leisure Club
 
-Kelburn End of Season Party at People's Leisure Club on Sat 24 Oct, Edinburgh. 1 artist on the bill: Chris Astrojazz. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Kelburn End of Season Party at People's Leisure Club on Sat 24 Oct, Edinburgh. 1 artist: Chris Astrojazz. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

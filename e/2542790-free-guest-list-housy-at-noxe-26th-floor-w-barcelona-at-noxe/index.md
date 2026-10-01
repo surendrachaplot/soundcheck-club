@@ -1,6 +1,6 @@
 # FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona on Wed 7 Oct, Barcelona. 2 artists on the bill: Alex Silva and Deetres (ES). House. Preview the line-up and save it on soundcheck.
+FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) at Noxe Barcelona on Wed 7 Oct, Barcelona. 2 artists: Alex Silva and Deetres (ES). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

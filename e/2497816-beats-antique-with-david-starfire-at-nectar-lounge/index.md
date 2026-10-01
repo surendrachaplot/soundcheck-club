@@ -1,6 +1,6 @@
 # BEATS ANTIQUE with David Starfire at Nectar Lounge
 
-BEATS ANTIQUE with David Starfire at Nectar Lounge on Thu 17 Dec, Seattle. Bass and Downtempo. Preview the line-up and save it on soundcheck.
+BEATS ANTIQUE with David Starfire at Nectar Lounge on Thu 17 Dec, Seattle. Bass and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ☆ AFK: Away from Keyboard ☆ at TBA
 
-☆ AFK: Away from Keyboard ☆ at TBA on Sat 17 Oct, Mexico City. 3 artists on the bill: Bruja Prieta, TAYHANA and Victoria Volkova. Industrial and Ballroom. Preview the line-up and save it on soundcheck.
+☆ AFK: Away from Keyboard ☆ at TBA on Sat 17 Oct, Mexico City. 3 artists: Bruja Prieta, TAYHANA and Victoria Volkova. Industrial and Ballroom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

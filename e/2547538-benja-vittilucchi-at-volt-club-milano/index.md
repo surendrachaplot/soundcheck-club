@@ -1,6 +1,6 @@
 # Benja + Vittilucchi at Volt Club Milano
 
-Benja + Vittilucchi at Volt Club Milano on Thu 29 Oct, Milan. 2 artists on the bill: Benja and Vittilucchi. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Benja + Vittilucchi at Volt Club Milano on Thu 29 Oct, Milan. 2 artists: Benja and Vittilucchi. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

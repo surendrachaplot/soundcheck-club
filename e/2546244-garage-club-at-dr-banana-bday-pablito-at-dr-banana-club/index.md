@@ -1,6 +1,6 @@
 # Garage Club At Dr. Banana · Bday Pablito at Dr. Banana Club
 
-Garage Club At Dr. Banana · Bday Pablito at Dr. Banana Club on Sat 3 Oct, Sao Paulo. Preview the line-up and save it on soundcheck.
+Garage Club At Dr. Banana · Bday Pablito at Dr. Banana Club on Sat 3 Oct, Sao Paulo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

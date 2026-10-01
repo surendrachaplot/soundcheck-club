@@ -1,8 +1,8 @@
 # Danae (NL)
 
-Danae (NL) is a Progressive House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
+Danae (NL) is a Progressive House and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Akhnaton, Amsterdam on Sat, 24 Oct 2026.
 
-Danae (NL) is a progressive house and minimal techno artist tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Around Us, Francesco Pico and Callecat. Next up: Akhnaton, Amsterdam on Sat 24 Oct.
+Danae (NL) is a progressive house and minimal techno artist, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Around Us, Francesco Pico and Callecat. Next up: Akhnaton, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Danae (NL) is a progressive house and minimal techno artist tracked on soundchec
 
 ## Recently played
 
-- Akhnaton, Amsterdam — Sun, 26 Oct 2025
-- Kadinsky Cafe, Amsterdam — Sat, 26 Jul 2025
-- Loods 12, Amsterdam — Sat, 8 Mar 2025
-- Kadinsky Cafe, Amsterdam — Sat, 21 Dec 2024
-- Kadinsky Cafe, Amsterdam — Sat, 19 Oct 2024
-- Kadinsky Cafe, Amsterdam — Sat, 28 Sept 2024
+- Akhnaton, Amsterdam · Sun, 26 Oct 2025
+- Kadinsky Cafe, Amsterdam · Sat, 26 Jul 2025
+- Loods 12, Amsterdam · Sat, 8 Mar 2025
+- Kadinsky Cafe, Amsterdam · Sat, 21 Dec 2024
+- Kadinsky Cafe, Amsterdam · Sat, 19 Oct 2024
+- Kadinsky Cafe, Amsterdam · Sat, 28 Sept 2024
 
 ## Shares bills with
 

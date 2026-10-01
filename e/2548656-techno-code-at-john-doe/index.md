@@ -1,6 +1,6 @@
 # Techno Code at John Doe
 
-Techno Code at John Doe on Fri 9 Oct, Amsterdam. 1 artist on the bill: Alex Sharp. Techno and Acid. Preview the line-up and save it on soundcheck.
+Techno Code at John Doe on Fri 9 Oct, Amsterdam. 1 artist: Alex Sharp. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

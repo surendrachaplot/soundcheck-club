@@ -1,6 +1,6 @@
 # Jason Dungan (Blue Lake) & Johan Carøe 'Routine' listening session at Frisbee
 
-Jason Dungan (Blue Lake) & Johan Carøe 'Routine' listening session at Frisbee on Fri 16 Oct, Copenhagen. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Jason Dungan (Blue Lake) & Johan Carøe 'Routine' listening session at Frisbee on Fri 16 Oct, Copenhagen. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Udda
 
-Udda is a Bass and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
+Udda is a Bass and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
 
-Udda is a bass and ambient artist based in Ukraine, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Habitat Shaking, Ann Mysochka and Terikon. Next up: TBA - a chapel in neukölln, Berlin on Sun 4 Oct.
+Udda is a bass and ambient artist based in Ukraine, with 45 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 5 more. Often billed alongside Habitat Shaking, Ann Mysochka and Terikon. Next up: TBA - a chapel in neukölln, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Udda is a bass and ambient artist based in Ukraine, tracked on soundcheck, with 
 
 ## Recently played
 
-- Jonny Knüppel, Berlin — Sat, 29 Aug 2026
-- TBA - Secret Location, Berlin — Sun, 23 Aug 2026
-- TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin — Sat, 22 Aug 2026
-- Kulturcampus Frankfurt, Frankfurt — Thu, 13 Aug 2026
-- 2og:Dondorf, Frankfurt — Thu, 13 Aug 2026
-- M01, Berlin — Sat, 25 Jul 2026
-- Renate, Berlin — Fri, 10 Jul 2026
-- arkaoda Berlin, Berlin — Fri, 26 Jun 2026
+- Jonny Knüppel, Berlin · Sat, 29 Aug 2026
+- TBA - Secret Location, Berlin · Sun, 23 Aug 2026
+- TBA - Follow @BerlinFloraFestival & @Ousiasound to know exact locations, Berlin · Sat, 22 Aug 2026
+- Kulturcampus Frankfurt, Frankfurt · Thu, 13 Aug 2026
+- 2og:Dondorf, Frankfurt · Thu, 13 Aug 2026
+- M01, Berlin · Sat, 25 Jul 2026
+- Renate, Berlin · Fri, 10 Jul 2026
+- arkaoda Berlin, Berlin · Fri, 26 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # SURREALITY: RÀITH 1 – AS THE LEAVES FALL DOWN at Time is the new space
 
-SURREALITY: RÀITH 1 – AS THE LEAVES FALL DOWN at Time is the new space on Thu 1 Oct, Rotterdam. Experimental and EBM. Preview the line-up and save it on soundcheck.
+SURREALITY: RÀITH 1 – AS THE LEAVES FALL DOWN at Time is the new space on Thu 1 Oct, Rotterdam. Experimental and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

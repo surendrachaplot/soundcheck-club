@@ -1,6 +1,6 @@
 # Pizzicatto (all night long) at Resume Valencia
 
-Pizzicatto (all night long) at Resume Valencia on Sat 17 Oct, Valencia. 1 artist on the bill: Pizzicatto. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Pizzicatto (all night long) at Resume Valencia on Sat 17 Oct, Valencia. 1 artist: Pizzicatto. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

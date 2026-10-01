@@ -1,6 +1,6 @@
 # Chaos In The CBD [Sydney] at Plaza Hotel Sydney
 
-Chaos In The CBD [Sydney] at Plaza Hotel Sydney on Fri 18 Dec, Sydney. 1 artist on the bill: Chaos In The CBD. Preview the line-up and save it on soundcheck.
+Chaos In The CBD [Sydney] at Plaza Hotel Sydney on Fri 18 Dec, Sydney. 1 artist: Chaos In The CBD. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TUNNEL presents: DJ SEXSTASY b2b OZA, Coffintexts b2b angelboy at TBA
 
-TUNNEL presents: DJ SEXSTASY b2b OZA, Coffintexts b2b angelboy at TBA on Fri 6 Nov, Los Angeles. 4 artists on the bill: angelboy, Coffintexts, DJ SEXSTASY and OZA. Trance and Techno. Preview the line-up and save it on soundcheck.
+TUNNEL presents: DJ SEXSTASY b2b OZA, Coffintexts b2b angelboy at TBA on Fri 6 Nov, Los Angeles. 4 artists: angelboy, Coffintexts, DJ SEXSTASY and OZA. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

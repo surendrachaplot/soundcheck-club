@@ -1,6 +1,6 @@
 # Elusive Jazz presents: Jazz Lambaux / catbandcat / Bubble Solution at The White Hotel
 
-Elusive Jazz presents: Jazz Lambaux / catbandcat / Bubble Solution at The White Hotel on Sun 25 Oct, Manchester. Electro and Classical. Preview the line-up and save it on soundcheck.
+Elusive Jazz presents: Jazz Lambaux / catbandcat / Bubble Solution at The White Hotel on Sun 25 Oct, Manchester. Electro and Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

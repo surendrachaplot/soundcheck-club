@@ -1,8 +1,8 @@
 # Breakage
 
-Breakage is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
+Breakage is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Open Ground, Wuppertal on Sat, 10 Oct 2026.
 
-Breakage is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Auckland, Basel, Berlin and Birmingham and 16 more. Often billed alongside SP:MC, Skeptical and Chimpo. Next up: Open Ground, Wuppertal on Sat 10 Oct.
+Breakage is a drum & bass and jungle artist based in United Kingdom, with 49 gigs on soundcheck across Auckland, Basel, Berlin and Birmingham and 16 more. Often billed alongside SP:MC, Skeptical and Chimpo. Next up: Open Ground, Wuppertal on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Breakage is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Outernet Live, London — Fri, 4 Sept 2026
-- The Prospect Building, Bristol — Sat, 27 Jun 2026
-- Hare & Hounds, Birmingham — Fri, 26 Jun 2026
-- Quarters, Brighton — Sat, 20 Jun 2026
-- The Blues Kitchen Manchester, Manchester — Sun, 24 May 2026
-- M.O.T, London — Sat, 11 Apr 2026
-- Stereo, Glasgow — Sat, 4 Apr 2026
-- Void Club, Berlin — Sat, 28 Mar 2026
+- Outernet Live, London · Fri, 4 Sept 2026
+- The Prospect Building, Bristol · Sat, 27 Jun 2026
+- Hare & Hounds, Birmingham · Fri, 26 Jun 2026
+- Quarters, Brighton · Sat, 20 Jun 2026
+- The Blues Kitchen Manchester, Manchester · Sun, 24 May 2026
+- M.O.T, London · Sat, 11 Apr 2026
+- Stereo, Glasgow · Sat, 4 Apr 2026
+- Void Club, Berlin · Sat, 28 Mar 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Shygirl
 
-Shygirl is a Pop and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Shygirl is a Pop and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
-Shygirl is a pop and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside Charlotte de Witte, Eliza Rose and Honey Dijon. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+Shygirl is a pop and techno artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside Charlotte de Witte, Eliza Rose and Honey Dijon. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Shygirl is a pop and techno artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- The Great Northern, San Francisco/Oakland — Sun, 28 Jun 2026
-- Trafalgar Square, London — Sat, 28 Mar 2026
-- The Roundhouse, London — Fri, 14 Nov 2025
-- Centre Pompidou, Paris — Fri, 24 Oct 2025
-- Buena Vista Lake, Los Angeles — Wed, 21 May 2025
-- The Steel Yard, London — Thu, 12 Dec 2024
-- Depot Mayfield, Manchester — Sat, 9 Nov 2024
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- The Great Northern, San Francisco/Oakland · Sun, 28 Jun 2026
+- Trafalgar Square, London · Sat, 28 Mar 2026
+- The Roundhouse, London · Fri, 14 Nov 2025
+- Centre Pompidou, Paris · Fri, 24 Oct 2025
+- Buena Vista Lake, Los Angeles · Wed, 21 May 2025
+- The Steel Yard, London · Thu, 12 Dec 2024
+- Depot Mayfield, Manchester · Sat, 9 Nov 2024
 
 ## Shares bills with
 

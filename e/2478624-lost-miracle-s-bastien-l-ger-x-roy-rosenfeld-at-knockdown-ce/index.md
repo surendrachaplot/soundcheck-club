@@ -1,6 +1,6 @@
 # Lost Miracle: Sébastien Léger x Roy Rosenfeld at Knockdown Center
 
-Lost Miracle: Sébastien Léger x Roy Rosenfeld at Knockdown Center on Fri 2 Oct, New York City. 4 artists on the bill: Khen, Nadav Vee, Roy Rosenfeld and Sebastien Leger. Tech House. Preview the line-up and save it on soundcheck.
+Lost Miracle: Sébastien Léger x Roy Rosenfeld at Knockdown Center on Fri 2 Oct, New York City. 4 artists: Khen, Nadav Vee, Roy Rosenfeld and Sebastien Leger. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

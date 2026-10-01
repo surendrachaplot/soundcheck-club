@@ -1,6 +1,6 @@
 # Traum Nacht: John Talabot, Casper at TRAUM
 
-Traum Nacht: John Talabot, Casper at TRAUM on Sat 7 Nov, Antwerp. 2 artists on the bill: Casper and John Talabot. Preview the line-up and save it on soundcheck.
+Traum Nacht: John Talabot, Casper at TRAUM on Sat 7 Nov, Antwerp. 2 artists: Casper and John Talabot. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

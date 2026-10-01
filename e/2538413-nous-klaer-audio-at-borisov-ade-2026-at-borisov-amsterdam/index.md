@@ -1,6 +1,6 @@
 # Nous'klaer Audio at Borisov / ADE 2026 at Borisov Amsterdam
 
-Nous'klaer Audio at Borisov / ADE 2026 at Borisov Amsterdam on Sat 24 Oct, Amsterdam. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Nous'klaer Audio at Borisov / ADE 2026 at Borisov Amsterdam on Sat 24 Oct, Amsterdam. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

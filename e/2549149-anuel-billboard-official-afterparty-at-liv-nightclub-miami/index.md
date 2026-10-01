@@ -1,6 +1,6 @@
 # Anuel - Billboard Official Afterparty at LIV Nightclub Miami
 
-Anuel - Billboard Official Afterparty at LIV Nightclub Miami on Thu 22 Oct, Miami. Preview the line-up and save it on soundcheck.
+Anuel - Billboard Official Afterparty at LIV Nightclub Miami on Thu 22 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Metapattern
 
-Metapattern is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Eventhuset, Stockholm on Sat, 7 Nov 2026.
+Metapattern is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eventhuset, Stockholm on Sat, 7 Nov 2026.
 
-Metapattern is a techno and tech house artist based in Australia, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Brisbane and Madrid and 4 more. Often billed alongside Fergus Sweetland, 8-AN and ALIS.. Next up: Eventhuset, Stockholm on Sat 7 Nov.
+Metapattern is a techno and tech house artist based in Australia, with 11 gigs on soundcheck across Amsterdam, Berlin, Brisbane and Madrid and 4 more. Often billed alongside Fergus Sweetland, 8-AN and ALIS.. Next up: Eventhuset, Stockholm on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Metapattern is a techno and tech house artist based in Australia, tracked on sou
 
 ## Recently played
 
-- The Bassement, Madrid — Sat, 26 Sept 2026
-- TBA - Secret Location, Amsterdam — Sat, 27 Sept 2025
-- Latitude Record Store, Berlin — Thu, 21 Aug 2025
-- Else, Berlin — Sat, 9 Aug 2025
-- TBA - Secret Bunker - Mitte, Berlin — Fri, 1 Nov 2024
-- Cafe-Gallery, Tbilisi — Sat, 5 Oct 2024
-- Gare Porto, Porto — Fri, 20 Sept 2024
-- Humboldthain Club, Berlin — Sat, 20 Jul 2024
+- The Bassement, Madrid · Sat, 26 Sept 2026
+- TBA - Secret Location, Amsterdam · Sat, 27 Sept 2025
+- Latitude Record Store, Berlin · Thu, 21 Aug 2025
+- Else, Berlin · Sat, 9 Aug 2025
+- TBA - Secret Bunker - Mitte, Berlin · Fri, 1 Nov 2024
+- Cafe-Gallery, Tbilisi · Sat, 5 Oct 2024
+- Gare Porto, Porto · Fri, 20 Sept 2024
+- Humboldthain Club, Berlin · Sat, 20 Jul 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # SOUND6 PRESENTS: NEWSHAM at The Glove That Fits
 
-SOUND6 PRESENTS: NEWSHAM at The Glove That Fits on Sat 19 Dec, London. Garage and Tech House. Preview the line-up and save it on soundcheck.
+SOUND6 PRESENTS: NEWSHAM at The Glove That Fits on Sat 19 Dec, London. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # disco // Boundary presents Halloween House at Boundary Taproom
 
-disco // Boundary presents Halloween House at Boundary Taproom on Sat 31 Oct, Belfast. House. Preview the line-up and save it on soundcheck.
+disco // Boundary presents Halloween House at Boundary Taproom on Sat 31 Oct, Belfast. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

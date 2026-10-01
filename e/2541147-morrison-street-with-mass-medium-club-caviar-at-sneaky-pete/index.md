@@ -1,6 +1,6 @@
 # Morrison Street with Mass Medium / Club Caviar at Sneaky Pete's
 
-Morrison Street with Mass Medium / Club Caviar at Sneaky Pete's on Thu 8 Oct, Edinburgh. Techno and Club. Preview the line-up and save it on soundcheck.
+Morrison Street with Mass Medium / Club Caviar at Sneaky Pete's on Thu 8 Oct, Edinburgh. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

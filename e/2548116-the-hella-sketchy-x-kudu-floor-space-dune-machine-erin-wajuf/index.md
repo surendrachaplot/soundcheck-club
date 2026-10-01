@@ -1,6 +1,6 @@
 # The Hella Sketchy X Kudu: Floor Space, Dune Machine, Erin Wajufos at Hart Bar
 
-The Hella Sketchy X Kudu: Floor Space, Dune Machine, Erin Wajufos at Hart Bar on Mon 5 Oct, New York City. 1 artist on the bill: Erin Wajufos. Techno and Ambient. Preview the line-up and save it on soundcheck.
+The Hella Sketchy X Kudu: Floor Space, Dune Machine, Erin Wajufos at Hart Bar on Mon 5 Oct, New York City. 1 artist: Erin Wajufos. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

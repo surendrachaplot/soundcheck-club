@@ -1,6 +1,6 @@
 # ⁺‧₊˚ ཐི⋆♱ ParaPara Halloween Party ♱⋆ཋྀ ˚₊‧⁺ at Seventh Heaven
 
-⁺‧₊˚ ཐི⋆♱ ParaPara Halloween Party ♱⋆ཋྀ ˚₊‧⁺ at Seventh Heaven on Sat 31 Oct, New York City. Pop and Italo Disco. Preview the line-up and save it on soundcheck.
+⁺‧₊˚ ཐི⋆♱ ParaPara Halloween Party ♱⋆ཋྀ ˚₊‧⁺ at Seventh Heaven on Sat 31 Oct, New York City. Pop and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

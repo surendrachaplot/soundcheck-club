@@ -1,8 +1,8 @@
 # feedbk
 
-feedbk is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "feedbk - industry night with Will DiMaggio, Ryan King" on Thu, 1 Oct 2026.
+feedbk is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "feedbk - industry night with Will DiMaggio, Ryan King" on Thu, 1 Oct 2026.
 
-feedbk is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including ADREE, Alex Neri, Amelia Holt and B.Love and 2 more. Browse upcoming dates, start times and who's playing. 153 Morgan Avenue.
+feedbk is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including ADREE, Alex Neri, Amelia Holt and B.Love and 2 more. See dates, start times and who's playing. 153 Morgan Avenue.
 
 ## What's on
 

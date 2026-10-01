@@ -1,6 +1,6 @@
 # ARRISHA // Notwelcome at Teritorija
 
-ARRISHA // Notwelcome at Teritorija on Fri 2 Oct, Riga. 2 artists on the bill: ARRISHA and Notwelcome. House. Preview the line-up and save it on soundcheck.
+ARRISHA // Notwelcome at Teritorija on Fri 2 Oct, Riga. 2 artists: ARRISHA and Notwelcome. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RAZZIA 4th anniversary at Romantica
 
-RAZZIA 4th anniversary at Romantica on Sat 3 Oct, Stuttgart. Techno and House. Preview the line-up and save it on soundcheck.
+RAZZIA 4th anniversary at Romantica on Sat 3 Oct, Stuttgart. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Guy J - all night long at Ijland
 
-Guy J - all night long at Ijland on Thu 22 Oct, Amsterdam. 1 artist on the bill: Guy J. Progressive House and House. Preview the line-up and save it on soundcheck.
+Guy J - all night long at Ijland on Thu 22 Oct, Amsterdam. 1 artist: Guy J. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

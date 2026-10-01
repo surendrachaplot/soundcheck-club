@@ -1,6 +1,6 @@
 # Day Trip at Solfa
 
-Day Trip at Solfa on Sun 18 Oct, Tokyo. 3 artists on the bill: arow, Sakuma and Stefan Goldmann. Ambient. Preview the line-up and save it on soundcheck.
+Day Trip at Solfa on Sun 18 Oct, Tokyo. 3 artists: arow, Sakuma and Stefan Goldmann. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

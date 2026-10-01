@@ -1,8 +1,8 @@
 # x3butterfly
 
-x3butterfly is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nowadays, New York City on Fri, 2 Oct 2026.
+x3butterfly is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nowadays, New York City on Fri, 2 Oct 2026.
 
-x3butterfly is a techno and house artist based in United States of America, tracked on soundcheck, with 201 sets logged across Amsterdam, Bangkok, Berlin and Boston and 32 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Meilgaarden. Next up: Nowadays, New York City on Fri 2 Oct.
+x3butterfly is a techno and house artist based in United States of America, with 201 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Boston and 32 more. Often billed alongside Sterling Juan Diaz, Concrete Husband and Meilgaarden. Next up: Nowadays, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ x3butterfly is a techno and house artist based in United States of America, trac
 
 ## Recently played
 
-- Signal, New York City — Sun, 27 Sept 2026
-- Qncc, New York City — Tue, 22 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Unveiled, New York City — Fri, 18 Sept 2026
-- Knockdown Center, New York City — Sun, 6 Sept 2026
-- Under the K Bridge, New York City — Sat, 5 Sept 2026
-- Little Island, New York City — Fri, 28 Aug 2026
-- TBA - 1 INGRAHAM ST, New York City — Sat, 22 Aug 2026
+- Signal, New York City · Sun, 27 Sept 2026
+- Qncc, New York City · Tue, 22 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Unveiled, New York City · Fri, 18 Sept 2026
+- Knockdown Center, New York City · Sun, 6 Sept 2026
+- Under the K Bridge, New York City · Sat, 5 Sept 2026
+- Little Island, New York City · Fri, 28 Aug 2026
+- TBA - 1 INGRAHAM ST, New York City · Sat, 22 Aug 2026
 
 ## Shares bills with
 

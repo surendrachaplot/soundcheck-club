@@ -1,6 +1,6 @@
 # CLOSER x TYF present SUNDANCE (Season Finale) with Lightleak & Cortes at TBA - DTLA
 
-CLOSER x TYF present SUNDANCE (Season Finale) with Lightleak & Cortes at TBA - DTLA on Sun 4 Oct, Los Angeles. 1 artist on the bill: heelbite316. House and Tech House. Preview the line-up and save it on soundcheck.
+CLOSER x TYF present SUNDANCE (Season Finale) with Lightleak & Cortes at TBA - DTLA on Sun 4 Oct, Los Angeles. 1 artist: heelbite316. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

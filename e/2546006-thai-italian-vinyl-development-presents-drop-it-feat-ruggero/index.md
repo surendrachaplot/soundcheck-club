@@ -1,6 +1,6 @@
 # Thai - Italian Vinyl development presents DROP IT' feat; Ruggero Fiore & djmodbkk at Culture Cafe
 
-Thai - Italian Vinyl development presents DROP IT' feat; Ruggero Fiore & djmodbkk at Culture Cafe on Tue 20 Oct, Bangkok. House and Disco. Preview the line-up and save it on soundcheck.
+Thai - Italian Vinyl development presents DROP IT' feat; Ruggero Fiore & djmodbkk at Culture Cafe on Tue 20 Oct, Bangkok. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

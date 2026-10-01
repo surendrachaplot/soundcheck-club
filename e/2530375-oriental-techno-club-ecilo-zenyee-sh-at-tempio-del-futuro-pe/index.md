@@ -1,6 +1,6 @@
 # Oriental Techno Club - 東極玄音寺: Ecilo, Zenyee, Shū at Tempio del Futuro Perduto
 
-Oriental Techno Club - 東極玄音寺: Ecilo, Zenyee, Shū at Tempio del Futuro Perduto on Fri 16 Oct, Milan. 3 artists on the bill: Ecilo, SHŪ and Zenyee. Preview the line-up and save it on soundcheck.
+Oriental Techno Club - 東極玄音寺: Ecilo, Zenyee, Shū at Tempio del Futuro Perduto on Fri 16 Oct, Milan. 3 artists: Ecilo, SHŪ and Zenyee. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Happy Hour: COMMUTER with Muenfua, source, CYB3RT0NIN B2B Freequincy at Bossa Nova Civic Club
 
-Happy Hour: COMMUTER with Muenfua, source, CYB3RT0NIN B2B Freequincy at Bossa Nova Civic Club on Fri 2 Oct, New York City. 1 artist on the bill: CYB3R T0NIN. Techno and Club. Preview the line-up and save it on soundcheck.
+Happy Hour: COMMUTER with Muenfua, source, CYB3RT0NIN B2B Freequincy at Bossa Nova Civic Club on Fri 2 Oct, New York City. 1 artist: CYB3R T0NIN. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

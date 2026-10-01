@@ -1,6 +1,6 @@
 # Raputij at Nyapi
 
-Raputij at Nyapi on Thu 29 Oct, Seoul. 3 artists on the bill: aso, Isoz and J.U.N.E. Preview the line-up and save it on soundcheck.
+Raputij at Nyapi on Thu 29 Oct, Seoul. 3 artists: aso, Isoz and J.U.N.E. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

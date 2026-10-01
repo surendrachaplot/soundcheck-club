@@ -1,6 +1,6 @@
 # Klubkneipe x Dance Salon at Prisma
 
-Klubkneipe x Dance Salon at Prisma on Sun 18 Oct, Berlin. House and Afro House. Preview the line-up and save it on soundcheck.
+Klubkneipe x Dance Salon at Prisma on Sun 18 Oct, Berlin. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

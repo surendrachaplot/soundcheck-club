@@ -1,6 +1,6 @@
 # Codd Dubz x HE$H at Substation
 
-Codd Dubz x HE$H at Substation on Fri 2 Oct, Seattle. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Codd Dubz x HE$H at Substation on Fri 2 Oct, Seattle. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

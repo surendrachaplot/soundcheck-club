@@ -1,6 +1,6 @@
 # Ritvales 2026 at Parque Norte
 
-Ritvales 2026 at Parque Norte on Sat 31 Oct, Medellin. 1 artist on the bill: Carl Cox. Preview the line-up and save it on soundcheck.
+Ritvales 2026 at Parque Norte on Sat 31 Oct, Medellin. 1 artist: Carl Cox. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

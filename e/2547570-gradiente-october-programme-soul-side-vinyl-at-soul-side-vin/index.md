@@ -1,6 +1,6 @@
 # Gradiente October Programme: Soul Side Vinyl at Soul Side Vinyl
 
-Gradiente October Programme: Soul Side Vinyl on Thu 8 Oct, San Diego. 2 artists on the bill: astrosof and Memo. House and Deep House. Preview the line-up and save it on soundcheck.
+Gradiente October Programme: Soul Side Vinyl on Thu 8 Oct, San Diego. 2 artists: astrosof and Memo. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

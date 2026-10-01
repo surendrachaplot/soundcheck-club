@@ -1,6 +1,6 @@
 # FOMO x Rummel x Q4U at FOMO
 
-FOMO x Rummel x Q4U on Sat 17 Oct, Azerbaijan. 3 artists on the bill: Agustin Giri, Djolee and Gespona. Preview the line-up and save it on soundcheck.
+FOMO x Rummel x Q4U on Sat 17 Oct, Azerbaijan. 3 artists: Agustin Giri, Djolee and Gespona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Obsimo (live set) - Hamburg at Knust
 
-Obsimo (live set) - Hamburg at Knust on Sat 3 Oct, Hamburg. 1 artist on the bill: Obsimo. House and Electronica. Preview the line-up and save it on soundcheck.
+Obsimo (live set) - Hamburg at Knust on Sat 3 Oct, Hamburg. 1 artist: Obsimo. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

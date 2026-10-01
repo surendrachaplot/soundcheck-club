@@ -1,8 +1,8 @@
 # Alci
 
-Alci is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Camarat, Amsterdam on Fri, 23 Oct 2026.
+Alci is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Camarat, Amsterdam on Fri, 23 Oct 2026.
 
-Alci is a house and minimal artist based in Switzerland, tracked on soundcheck, with 112 sets logged across Amsterdam, Barcelona, Basel and Brussels and 24 more. Often billed alongside Flavio (CH), ANOTR and Mateo Dufour. Next up: Camarat, Amsterdam on Fri 23 Oct.
+Alci is a house and minimal artist based in Switzerland, with 112 gigs on soundcheck across Amsterdam, Barcelona, Basel and Brussels and 24 more. Often billed alongside Flavio (CH), ANOTR and Mateo Dufour. Next up: Camarat, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Alci is a house and minimal artist based in Switzerland, tracked on soundcheck, 
 
 ## Recently played
 
-- Studionotte, Milan — Fri, 25 Sept 2026
-- Supermarket, Zurich — Fri, 11 Sept 2026
-- Sophie Festival, Malaga — Sat, 5 Sept 2026
-- Floyd, Miami — Sun, 30 Aug 2026
-- Refuge, New York City — Sat, 29 Aug 2026
-- Flevopark, Amsterdam — Sat, 25 Jul 2026
-- Studio Club Malaga, Malaga — Sat, 18 Jul 2026
-- Bosc Tancat / Diverbosc, Barcelona — Sat, 20 Jun 2026
+- Studionotte, Milan · Fri, 25 Sept 2026
+- Supermarket, Zurich · Fri, 11 Sept 2026
+- Sophie Festival, Malaga · Sat, 5 Sept 2026
+- Floyd, Miami · Sun, 30 Aug 2026
+- Refuge, New York City · Sat, 29 Aug 2026
+- Flevopark, Amsterdam · Sat, 25 Jul 2026
+- Studio Club Malaga, Malaga · Sat, 18 Jul 2026
+- Bosc Tancat / Diverbosc, Barcelona · Sat, 20 Jun 2026
 
 ## Shares bills with
 

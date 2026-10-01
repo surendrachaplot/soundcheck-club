@@ -1,6 +1,6 @@
 # Superfan at Headrow House
 
-Superfan at Headrow House on Fri 6 Nov, Leeds. Pop. Preview the line-up and save it on soundcheck.
+Superfan at Headrow House on Fri 6 Nov, Leeds. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Freeride Millenium with Rosa Red (Permanent Vacation), Jorkes, Seba at SASS Music Club
 
-Freeride Millenium with Rosa Red (Permanent Vacation), Jorkes, Seba at SASS Music Club on Fri 2 Oct, Vienna. 3 artists on the bill: Jorkes, Rosa Red and Seba. House. Preview the line-up and save it on soundcheck.
+Freeride Millenium with Rosa Red (Permanent Vacation), Jorkes, Seba at SASS Music Club on Fri 2 Oct, Vienna. 3 artists: Jorkes, Rosa Red and Seba. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

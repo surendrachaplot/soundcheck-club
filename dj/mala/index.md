@@ -1,8 +1,8 @@
 # Mala
 
-Mala is a Dubstep and Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mala is a Dubstep and Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Mala is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Mia Koden, SGT Pokes and Verraco. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+Mala is a dubstep and bass artist based in United Kingdom, with 112 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 41 more. Often billed alongside Mia Koden, SGT Pokes and Verraco. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Mala is a dubstep and bass artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- Razzmatazz, Barcelona — Sat, 26 Sept 2026
-- Outernet Live, London — Fri, 25 Sept 2026
-- Various Venues, London — Thu, 24 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Slaktkyrkan, Stockholm — Fri, 4 Sept 2026
-- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
+- Razzmatazz, Barcelona · Sat, 26 Sept 2026
+- Outernet Live, London · Fri, 25 Sept 2026
+- Various Venues, London · Thu, 24 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Slaktkyrkan, Stockholm · Fri, 4 Sept 2026
+- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sun, 2 Aug 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 
 ## Shares bills with
 

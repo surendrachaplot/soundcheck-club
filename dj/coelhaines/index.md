@@ -1,8 +1,8 @@
 # Coel Haines
 
-Coel Haines is a Minimal and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Soup, Manchester on Thu, 1 Oct 2026.
+Coel Haines is a Minimal and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Soup, Manchester on Thu, 1 Oct 2026.
 
-Coel Haines is a minimal and tech house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Manchester. Often billed alongside Connor Southerland, AYDJ and Egui. Next up: Soup, Manchester on Thu 1 Oct.
+Coel Haines is a minimal and tech house artist based in United Kingdom, with 12 gigs on soundcheck across Manchester. Often billed alongside Connor Southerland, AYDJ and Egui. Next up: Soup, Manchester on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Coel Haines is a minimal and tech house artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- Stage and Radio, Manchester — Fri, 20 Feb 2026
-- Stage and Radio, Manchester — Sat, 25 Oct 2025
-- Stage and Radio, Manchester — Fri, 9 May 2025
-- Stage and Radio, Manchester — Wed, 19 Mar 2025
-- Soup, Manchester — Thu, 6 Mar 2025
-- The Radio Room @ Stage & Radio, Manchester — Fri, 24 Jan 2025
-- XLR, Manchester — Fri, 29 Nov 2024
-- The Radio Room @ Stage & Radio, Manchester — Fri, 19 Apr 2024
+- Stage and Radio, Manchester · Fri, 20 Feb 2026
+- Stage and Radio, Manchester · Sat, 25 Oct 2025
+- Stage and Radio, Manchester · Fri, 9 May 2025
+- Stage and Radio, Manchester · Wed, 19 Mar 2025
+- Soup, Manchester · Thu, 6 Mar 2025
+- The Radio Room @ Stage & Radio, Manchester · Fri, 24 Jan 2025
+- XLR, Manchester · Fri, 29 Nov 2024
+- The Radio Room @ Stage & Radio, Manchester · Fri, 19 Apr 2024
 
 ## Shares bills with
 

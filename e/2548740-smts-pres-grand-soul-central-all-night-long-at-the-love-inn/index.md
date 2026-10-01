@@ -1,6 +1,6 @@
 # SMTS Pres Grand Soul Central [all night long] at The Love Inn
 
-SMTS Pres Grand Soul Central [all night long] at The Love Inn on Thu 1 Oct, Bristol. 1 artist on the bill: Soul Mass Transit System. Club. Preview the line-up and save it on soundcheck.
+SMTS Pres Grand Soul Central [all night long] at The Love Inn on Thu 1 Oct, Bristol. 1 artist: Soul Mass Transit System. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

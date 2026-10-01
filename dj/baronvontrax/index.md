@@ -1,8 +1,8 @@
 # Baron Von Trax
 
-Baron Von Trax is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Schrotty, Cologne on Sat, 10 Oct 2026.
+Baron Von Trax is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Sat, 10 Oct 2026.
 
-Baron Von Trax is a trance and techno artist based in Australia, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 23 more. Often billed alongside Upper90, Bad Boombox and BAUGRUPPE90. Next up: Schrotty, Cologne on Sat 10 Oct.
+Baron Von Trax is a trance and techno artist based in Australia, with 87 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 23 more. Often billed alongside Upper90, Bad Boombox and BAUGRUPPE90. Next up: Schrotty, Cologne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Baron Von Trax is a trance and techno artist based in Australia, tracked on soun
 
 ## Recently played
 
-- Wigwam, Dublin — Sat, 25 Jul 2026
-- Colorado Charlie, The Hague — Sat, 18 Jul 2026
-- E-Werk Kulturzentrum, Nürnberg — Sat, 27 Jun 2026
-- The Ivy, Sydney — Sun, 7 Jun 2026
-- Mondo, Madrid — Sat, 23 May 2026
-- La Terrrazza, Barcelona — Fri, 8 May 2026
-- TBA - Overamstel, Amsterdam — Mon, 27 Apr 2026
-- Antwerp Expo, Antwerp — Sat, 18 Apr 2026
+- Wigwam, Dublin · Sat, 25 Jul 2026
+- Colorado Charlie, The Hague · Sat, 18 Jul 2026
+- E-Werk Kulturzentrum, Nürnberg · Sat, 27 Jun 2026
+- The Ivy, Sydney · Sun, 7 Jun 2026
+- Mondo, Madrid · Sat, 23 May 2026
+- La Terrrazza, Barcelona · Fri, 8 May 2026
+- TBA - Overamstel, Amsterdam · Mon, 27 Apr 2026
+- Antwerp Expo, Antwerp · Sat, 18 Apr 2026
 
 ## Shares bills with
 

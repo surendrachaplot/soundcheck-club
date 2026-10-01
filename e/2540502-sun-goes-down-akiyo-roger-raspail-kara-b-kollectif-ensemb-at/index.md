@@ -1,6 +1,6 @@
 # Sun Goes Down · Akiyo · Roger Raspail & Karaïb Kollectif Ensemb at Le point fort d'Aubervilliers
 
-Sun Goes Down · Akiyo · Roger Raspail & Karaïb Kollectif Ensemb at Le point fort d'Aubervilliers on Fri 9 Oct, Paris. House and Deep House. Preview the line-up and save it on soundcheck.
+Sun Goes Down · Akiyo · Roger Raspail & Karaïb Kollectif Ensemb at Le point fort d'Aubervilliers on Fri 9 Oct, Paris. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

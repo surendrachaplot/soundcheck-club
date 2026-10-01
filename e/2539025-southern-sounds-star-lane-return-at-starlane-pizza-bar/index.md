@@ -1,6 +1,6 @@
 # Southern Sounds Star Lane Return at Starlane Pizza Bar
 
-Southern Sounds Star Lane Return at Starlane Pizza Bar on Sat 24 Oct, London. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Southern Sounds Star Lane Return at Starlane Pizza Bar on Sat 24 Oct, London. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

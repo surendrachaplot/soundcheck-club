@@ -1,8 +1,8 @@
 # Xpansul
 
-Xpansul is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrik, Madrid on Sun, 11 Oct 2026.
+Xpansul is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
-Xpansul is a techno and dub techno artist based in Spain, tracked on soundcheck, with 32 sets logged across Madrid. Often billed alongside Elesbaan, Jesus Riaño and Cristian Varela. Next up: Fabrik, Madrid on Sun 11 Oct.
+Xpansul is a techno and dub techno artist based in Spain, with 32 gigs on soundcheck across Madrid. Often billed alongside Elesbaan, Jesus Riaño and Cristian Varela. Next up: Fabrik, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Xpansul is a techno and dub techno artist based in Spain, tracked on soundcheck,
 
 ## Recently played
 
-- EL SÓTANO, Madrid — Fri, 4 Sept 2026
-- Klan Club Privado, Madrid — Sat, 25 Apr 2026
-- TBA - Powered by: Void Acoustics , Madrid — Fri, 17 Apr 2026
-- Cadavra, Madrid — Thu, 5 Mar 2026
-- Lasociaciøn, Madrid — Sat, 14 Feb 2026
-- berlinClub, Madrid — Sat, 20 Dec 2025
-- TBA - Powered by: Void Acoustics , Madrid — Sat, 1 Nov 2025
-- Specka, Madrid — Sat, 20 Sept 2025
+- EL SÓTANO, Madrid · Fri, 4 Sept 2026
+- Klan Club Privado, Madrid · Sat, 25 Apr 2026
+- TBA - Powered by: Void Acoustics , Madrid · Fri, 17 Apr 2026
+- Cadavra, Madrid · Thu, 5 Mar 2026
+- Lasociaciøn, Madrid · Sat, 14 Feb 2026
+- berlinClub, Madrid · Sat, 20 Dec 2025
+- TBA - Powered by: Void Acoustics , Madrid · Sat, 1 Nov 2025
+- Specka, Madrid · Sat, 20 Sept 2025
 
 ## Shares bills with
 

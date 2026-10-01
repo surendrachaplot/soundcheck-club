@@ -1,6 +1,6 @@
 # AR/CO at Night We Met
 
-AR/CO at Night We Met on Fri 30 Oct, Nashville. Afro House. Preview the line-up and save it on soundcheck.
+AR/CO at Night We Met on Fri 30 Oct, Nashville. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hospital30 (Wellington) at Meow Nui
 
-Hospital30 (Wellington) at Meow Nui on Sat 17 Oct, Wellington. 3 artists on the bill: Danny Byrd, HOAX and Unglued. Preview the line-up and save it on soundcheck.
+Hospital30 (Wellington) at Meow Nui on Sat 17 Oct, Wellington. 3 artists: Danny Byrd, HOAX and Unglued. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

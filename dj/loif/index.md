@@ -1,8 +1,8 @@
 # LOIF
 
-LOIF is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+LOIF is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
-LOIF is a techno and bass artist based in Australia, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Bristol and Brussels and 12 more. Often billed alongside Tangerine, Kia (AU) and D-Grade. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
+LOIF is a techno and bass artist based in Australia, with 54 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 12 more. Often billed alongside Tangerine, Kia (AU) and D-Grade. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ LOIF is a techno and bass artist based in Australia, tracked on soundcheck, with
 
 ## Recently played
 
-- Miscellania, Melbourne — Fri, 25 Sept 2026
-- TBA, Melbourne — Sat, 12 Sept 2026
-- Tokyo Sing Song, Sydney — Sat, 15 Aug 2026
-- Miscellania, Melbourne — Sat, 8 Aug 2026
-- Solace, Melbourne — Sat, 25 Jul 2026
-- Miscellania, Melbourne — Fri, 24 Jul 2026
-- Miscellania, Melbourne — Sat, 30 May 2026
-- Miscellania, Melbourne — Sat, 31 Jan 2026
+- Miscellania, Melbourne · Fri, 25 Sept 2026
+- TBA, Melbourne · Sat, 12 Sept 2026
+- Tokyo Sing Song, Sydney · Sat, 15 Aug 2026
+- Miscellania, Melbourne · Sat, 8 Aug 2026
+- Solace, Melbourne · Sat, 25 Jul 2026
+- Miscellania, Melbourne · Fri, 24 Jul 2026
+- Miscellania, Melbourne · Sat, 30 May 2026
+- Miscellania, Melbourne · Sat, 31 Jan 2026
 
 ## Shares bills with
 

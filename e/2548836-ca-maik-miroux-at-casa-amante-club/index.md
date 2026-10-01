@@ -1,6 +1,6 @@
 # CA: Maik Miroux at Casa Amante Club
 
-CA: Maik Miroux at Casa Amante Club on Fri 2 Oct, Madrid. 2 artists on the bill: Álvaro Naive and Maik Miroux. House. Preview the line-up and save it on soundcheck.
+CA: Maik Miroux at Casa Amante Club on Fri 2 Oct, Madrid. 2 artists: Álvaro Naive and Maik Miroux. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

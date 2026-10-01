@@ -1,6 +1,6 @@
 # UMB 2026 東京予選 at R Lounge
 
-UMB 2026 東京予選 at R Lounge on Sun 25 Oct, Tokyo. Hip-Hop. Preview the line-up and save it on soundcheck.
+UMB 2026 東京予選 at R Lounge on Sun 25 Oct, Tokyo. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

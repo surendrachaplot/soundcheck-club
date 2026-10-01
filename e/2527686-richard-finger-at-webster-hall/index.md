@@ -1,6 +1,6 @@
 # Richard Finger at Webster Hall
 
-Richard Finger at Webster Hall on Sat 21 Nov, New York City. Preview the line-up and save it on soundcheck.
+Richard Finger at Webster Hall on Sat 21 Nov, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

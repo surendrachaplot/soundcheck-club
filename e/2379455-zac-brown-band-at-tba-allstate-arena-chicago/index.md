@@ -1,6 +1,6 @@
 # Zac Brown Band at TBA - Allstate Arena Chicago
 
-Zac Brown Band at TBA - Allstate Arena Chicago on Sat 21 Nov, Chicago. Preview the line-up and save it on soundcheck.
+Zac Brown Band at TBA - Allstate Arena Chicago on Sat 21 Nov, Chicago. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

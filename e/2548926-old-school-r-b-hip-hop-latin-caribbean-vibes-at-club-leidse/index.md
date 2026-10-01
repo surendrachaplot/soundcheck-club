@@ -1,6 +1,6 @@
 # Old-School R&B • Hip-Hop • Latin & Caribbean Vibes at Club Leidse
 
-Old-School R&B • Hip-Hop • Latin & Caribbean Vibes at Club Leidse on Fri 16 Oct, Amsterdam. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Old-School R&B • Hip-Hop • Latin & Caribbean Vibes at Club Leidse on Fri 16 Oct, Amsterdam. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

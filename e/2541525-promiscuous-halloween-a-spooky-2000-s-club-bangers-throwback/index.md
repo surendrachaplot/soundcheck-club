@@ -1,6 +1,6 @@
 # PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY at Catch One
 
-PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY at Catch One on Sat 24 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
+PROMISCUOUS HALLOWEEN: A SPOOKY 2000's CLUB BANGERS THROWBACKS PARTY at Catch One on Sat 24 Oct, Los Angeles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

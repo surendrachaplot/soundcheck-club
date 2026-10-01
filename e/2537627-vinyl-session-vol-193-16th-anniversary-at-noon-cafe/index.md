@@ -1,6 +1,6 @@
 # 'VINYL SESSION' VOL. 193 / 16th Anniversary at Noon + Cafe
 
-'VINYL SESSION' VOL. 193 / 16th Anniversary at Noon + Cafe on Fri 9 Oct, Osaka. Broken Beat and Minimal Techno. Preview the line-up and save it on soundcheck.
+'VINYL SESSION' VOL. 193 / 16th Anniversary at Noon + Cafe on Fri 9 Oct, Osaka. Broken Beat and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

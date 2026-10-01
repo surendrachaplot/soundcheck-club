@@ -1,6 +1,6 @@
 # leverson x New Forms (vinyl set) at New Forms
 
-leverson x New Forms (vinyl set) on Fri 2 Oct, London. 1 artist on the bill: leverson. Jazz and R&B. Preview the line-up and save it on soundcheck.
+leverson x New Forms (vinyl set) on Fri 2 Oct, London. 1 artist: leverson. Jazz and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

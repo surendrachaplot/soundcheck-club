@@ -1,6 +1,6 @@
 # Dom Dolla at Cow Palace
 
-Dom Dolla at Cow Palace on Fri 16 Oct, San Francisco/Oakland. 5 artists on the bill: Clearcast, DJ Seinfeld, Dom Dolla and HAAi and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Dom Dolla at Cow Palace on Fri 16 Oct, San Francisco/Oakland. 5 artists: Clearcast, DJ Seinfeld, Dom Dolla and HAAi and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

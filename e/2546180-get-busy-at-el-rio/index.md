@@ -1,6 +1,6 @@
 # Get Busy at El Rio
 
-Get Busy at El Rio on Sat 3 Oct, San Francisco/Oakland. 1 artist on the bill: Baysik. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Get Busy at El Rio on Sat 3 Oct, San Francisco/Oakland. 1 artist: Baysik. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

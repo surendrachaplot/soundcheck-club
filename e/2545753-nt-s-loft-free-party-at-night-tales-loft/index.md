@@ -1,6 +1,6 @@
 # NT's Loft: Free Party at Night Tales Loft
 
-NT's Loft: Free Party at Night Tales Loft on Fri 2 Oct, London. House and Garage. Preview the line-up and save it on soundcheck.
+NT's Loft: Free Party at Night Tales Loft on Fri 2 Oct, London. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

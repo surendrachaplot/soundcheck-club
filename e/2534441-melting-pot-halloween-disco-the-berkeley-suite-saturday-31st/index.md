@@ -1,6 +1,6 @@
 # Melting Pot Halloween Disco ✞ The Berkeley Suite ✞ Saturday 31st October ✞ 5-10pm ✞ at The Berkeley Suite
 
-Melting Pot Halloween Disco ✞ The Berkeley Suite ✞ Saturday 31st October ✞ 5-10pm ✞ on Sat 31 Oct, Glasgow. House and Disco. Preview the line-up and save it on soundcheck.
+Melting Pot Halloween Disco ✞ The Berkeley Suite ✞ Saturday 31st October ✞ 5-10pm ✞ on Sat 31 Oct, Glasgow. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

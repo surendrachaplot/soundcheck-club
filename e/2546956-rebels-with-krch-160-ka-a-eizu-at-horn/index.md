@@ -1,6 +1,6 @@
 # REBELS with Krch.160 / kaïa / Eizu at Horn
 
-REBELS with Krch.160 / kaïa / Eizu at Horn on Thu 15 Oct, Bangkok. 1 artist on the bill: Eizu 映図. Techno and Deep House. Preview the line-up and save it on soundcheck.
+REBELS with Krch.160 / kaïa / Eizu at Horn on Thu 15 Oct, Bangkok. 1 artist: Eizu 映図. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

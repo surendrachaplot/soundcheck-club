@@ -1,6 +1,6 @@
 # Reggaeton Halloween Party (Budapest) at A38
 
-Reggaeton Halloween Party (Budapest) at A38 on Fri 30 Oct, Budapest. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+Reggaeton Halloween Party (Budapest) at A38 on Fri 30 Oct, Budapest. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

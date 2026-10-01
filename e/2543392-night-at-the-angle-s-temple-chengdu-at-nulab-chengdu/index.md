@@ -1,6 +1,6 @@
 # Night at the Angle's Temple - Chengdu at Nulab Chengdu
 
-Night at the Angle's Temple - Chengdu at Nulab Chengdu on Fri 16 Oct, Chengdu. 5 artists on the bill: Boreas, DJ D, Jade and nabii and 1 more. Preview the line-up and save it on soundcheck.
+Night at the Angle's Temple - Chengdu at Nulab Chengdu on Fri 16 Oct, Chengdu. 5 artists: Boreas, DJ D, Jade and nabii and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

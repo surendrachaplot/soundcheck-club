@@ -1,6 +1,6 @@
 # Post Panic 3rd Anniversary at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event)
 
-Post Panic 3rd Anniversary at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event) on Sat 10 Oct, Barcelona. 4 artists on the bill: Demofather, Hicham (FR), Max TA and Waffle. Trance and House. Preview the line-up and save it on soundcheck.
+Post Panic 3rd Anniversary at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event) on Sat 10 Oct, Barcelona. 4 artists: Demofather, Hicham (FR), Max TA and Waffle. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

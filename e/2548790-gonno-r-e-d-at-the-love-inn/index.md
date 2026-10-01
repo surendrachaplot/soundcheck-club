@@ -1,6 +1,6 @@
 # Gonno + R.E.D at The Love Inn
 
-Gonno + R.E.D at The Love Inn on Fri 9 Oct, Bristol. 2 artists on the bill: Gonno and R.E.D. Techno. Preview the line-up and save it on soundcheck.
+Gonno + R.E.D at The Love Inn on Fri 9 Oct, Bristol. 2 artists: Gonno and R.E.D. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

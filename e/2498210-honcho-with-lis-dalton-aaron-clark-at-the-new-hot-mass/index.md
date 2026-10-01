@@ -1,6 +1,6 @@
 # Honcho with Lis Dalton & Aaron Clark at The New Hot Mass
 
-Honcho with Lis Dalton & Aaron Clark at The New Hot Mass on Sat 10 Oct, Pittsburgh. 2 artists on the bill: Aaron Clark and Lis Dalton. Preview the line-up and save it on soundcheck.
+Honcho with Lis Dalton & Aaron Clark at The New Hot Mass on Sat 10 Oct, Pittsburgh. 2 artists: Aaron Clark and Lis Dalton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Clarkee
 
-Clarkee is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Marshall Arena, South-east on Sat, 7 Nov 2026.
+Clarkee is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marshall Arena, South-east on Sat, 7 Nov 2026.
 
-Clarkee is a house and techno artist tracked on soundcheck, with 6 sets logged across Brighton, South East and Tokyo. Often billed alongside MASA, Bassman and Billy Daniel Bunter. Next up: Marshall Arena, South East on Sat 7 Nov.
+Clarkee is a house and techno artist, with 6 gigs on soundcheck across Brighton, South East and Tokyo. Often billed alongside MASA, Bassman and Billy Daniel Bunter. Next up: Marshall Arena, South East on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Clarkee is a house and techno artist tracked on soundcheck, with 6 sets logged a
 
 ## Recently played
 
-- Volks, Brighton — Sat, 23 May 2026
-- Débris, Tokyo — Thu, 15 Jan 2026
-- Débris, Tokyo — Thu, 21 Aug 2025
-- Ohjo Bldg, Tokyo — Sat, 24 May 2025
-- or, Tokyo — Sat, 9 Nov 2024
+- Volks, Brighton · Sat, 23 May 2026
+- Débris, Tokyo · Thu, 15 Jan 2026
+- Débris, Tokyo · Thu, 21 Aug 2025
+- Ohjo Bldg, Tokyo · Sat, 24 May 2025
+- or, Tokyo · Sat, 9 Nov 2024
 
 ## Shares bills with
 

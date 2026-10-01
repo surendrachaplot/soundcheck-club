@@ -1,6 +1,6 @@
 # 20 YEARS OF PERMANENT VACATION at Charlie
 
-20 YEARS OF PERMANENT VACATION at Charlie on Sat 17 Oct, Munich. 2 artists on the bill: Benjamin Fröhlich and Gerd Janson. House. Preview the line-up and save it on soundcheck.
+20 YEARS OF PERMANENT VACATION at Charlie on Sat 17 Oct, Munich. 2 artists: Benjamin Fröhlich and Gerd Janson. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

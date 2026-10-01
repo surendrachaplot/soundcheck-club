@@ -1,8 +1,8 @@
 # DJ BORING
 
-DJ BORING is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Klymax Discotheque, Bali on Fri, 2 Oct 2026.
+DJ BORING is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klymax Discotheque, Bali on Fri, 2 Oct 2026.
 
-DJ BORING is a house and techno artist based in Australia, tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Klymax Discotheque, Bali on Fri 2 Oct.
+DJ BORING is a house and techno artist based in Australia, with 208 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 62 more. Often billed alongside Sally C, salute and DJ Seinfeld. Next up: Klymax Discotheque, Bali on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ DJ BORING is a house and techno artist based in Australia, tracked on soundcheck
 
 ## Recently played
 
-- Prysm Nightclub, Chicago — Sat, 19 Sept 2026
-- The Foundry, San Francisco/Oakland — Fri, 18 Sept 2026
-- Academy LA, Los Angeles — Sat, 12 Sept 2026
-- Village Studios, Vancouver — Fri, 11 Sept 2026
-- Substation, Seattle — Thu, 10 Sept 2026
-- Roberta's, New York City — Sun, 6 Sept 2026
-- Lofi, Amsterdam — Fri, 14 Aug 2026
-- KOKO, London — Sat, 1 Aug 2026
+- Prysm Nightclub, Chicago · Sat, 19 Sept 2026
+- The Foundry, San Francisco/Oakland · Fri, 18 Sept 2026
+- Academy LA, Los Angeles · Sat, 12 Sept 2026
+- Village Studios, Vancouver · Fri, 11 Sept 2026
+- Substation, Seattle · Thu, 10 Sept 2026
+- Roberta's, New York City · Sun, 6 Sept 2026
+- Lofi, Amsterdam · Fri, 14 Aug 2026
+- KOKO, London · Sat, 1 Aug 2026
 
 ## Shares bills with
 

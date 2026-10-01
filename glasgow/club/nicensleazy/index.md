@@ -1,8 +1,8 @@
 # Nicensleazy
 
-Nicensleazy is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "AWRB AFTERHOURS X SOLASTA SESSIONS" on Thu, 26 Nov 2026.
+Nicensleazy is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "AWRB AFTERHOURS X SOLASTA SESSIONS" on Thu, 26 Nov 2026.
 
-Nicensleazy is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 421 Sauchiehall street, G2 3LG.
+Nicensleazy is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 421 Sauchiehall street, G2 3LG.
 
 ## What's on
 

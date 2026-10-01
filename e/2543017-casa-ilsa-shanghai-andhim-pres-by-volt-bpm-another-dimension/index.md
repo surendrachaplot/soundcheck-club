@@ -1,6 +1,6 @@
 # CASA ILSA Shanghai - Andhim pres. by VOLT BPM & ANOTHER DIMENSION at Bellagio Shanghai
 
-CASA ILSA Shanghai - Andhim pres. by VOLT BPM & ANOTHER DIMENSION at Bellagio Shanghai on Fri 16 Oct, Shanghai. 1 artist on the bill: Andhim. Preview the line-up and save it on soundcheck.
+CASA ILSA Shanghai - Andhim pres. by VOLT BPM & ANOTHER DIMENSION at Bellagio Shanghai on Fri 16 Oct, Shanghai. 1 artist: Andhim. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

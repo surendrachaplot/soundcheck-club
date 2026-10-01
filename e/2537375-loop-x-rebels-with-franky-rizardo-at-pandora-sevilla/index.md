@@ -1,6 +1,6 @@
 # LOOP x Rebels with Franky Rizardo at Pandora Sevilla
 
-LOOP x Rebels with Franky Rizardo at Pandora Sevilla on Fri 13 Nov, South. 1 artist on the bill: Franky Rizardo. Preview the line-up and save it on soundcheck.
+LOOP x Rebels with Franky Rizardo at Pandora Sevilla on Fri 13 Nov, South. 1 artist: Franky Rizardo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

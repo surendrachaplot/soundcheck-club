@@ -1,6 +1,6 @@
 # fi x Cologne Is For Lovers at fi
 
-fi x Cologne Is For Lovers on Sat 7 Nov, Cologne. 4 artists on the bill: DJ Deep, DJ Funky Fresh Mike, Femdelic and Tom Kutsche. House and Disco. Preview the line-up and save it on soundcheck.
+fi x Cologne Is For Lovers on Sat 7 Nov, Cologne. 4 artists: DJ Deep, DJ Funky Fresh Mike, Femdelic and Tom Kutsche. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

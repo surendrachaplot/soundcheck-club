@@ -1,6 +1,6 @@
 # HARBOUR Indoor Festival at Westhafen
 
-HARBOUR Indoor Festival at Westhafen on Tue 17 Nov, Leipzig. Trance and Techno. Preview the line-up and save it on soundcheck.
+HARBOUR Indoor Festival at Westhafen on Tue 17 Nov, Leipzig. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Palais: Sugar Free (All Night Long) at Palais
 
-Palais: Sugar Free (All Night Long) on Sat 21 Nov, London. 1 artist on the bill: Sugar Free. Techno and House. Preview the line-up and save it on soundcheck.
+Palais: Sugar Free (All Night Long) on Sat 21 Nov, London. 1 artist: Sugar Free. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

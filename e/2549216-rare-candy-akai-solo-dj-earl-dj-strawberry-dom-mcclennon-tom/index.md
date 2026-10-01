@@ -1,6 +1,6 @@
 # ★ RARE CANDY ★ AKAI SOLO, DJ Earl, DJ Strawberry, Dom McClennon, Tommaso, Bobbyy, Lastword at De La Playa Records & Leisure
 
-★ RARE CANDY ★ AKAI SOLO, DJ Earl, DJ Strawberry, Dom McClennon, Tommaso, Bobbyy, Lastword at De La Playa Records & Leisure on Sat 31 Oct, Los Angeles. 5 artists on the bill: Bobbyy, DJ Earl, DJ Strawberry and Lastword and 1 more. Hip-Hop and Footwork. Preview the line-up and save it on soundcheck.
+★ RARE CANDY ★ AKAI SOLO, DJ Earl, DJ Strawberry, Dom McClennon, Tommaso, Bobbyy, Lastword at De La Playa Records & Leisure on Sat 31 Oct, Los Angeles. 5 artists: Bobbyy, DJ Earl, DJ Strawberry and Lastword and 1 more. Hip-Hop and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

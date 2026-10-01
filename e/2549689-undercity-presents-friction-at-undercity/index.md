@@ -1,6 +1,6 @@
 # UNDERCITY presents Friction at UNDERCITY
 
-UNDERCITY presents Friction on Sat 7 Nov, Seoul. 3 artists on the bill: Friction, Seyn and YUNJI. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+UNDERCITY presents Friction on Sat 7 Nov, Seoul. 3 artists: Friction, Seyn and YUNJI. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

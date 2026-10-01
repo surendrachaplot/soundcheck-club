@@ -1,8 +1,8 @@
 # Mary St Live
 
-Mary St Live is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Neighbourhood Watch 3" on Sat, 3 Oct 2026.
+Mary St Live is a music venue in Sheffield with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Neighbourhood Watch 3" on Sat, 3 Oct 2026.
 
-Mary St Live is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with line-ups including Curtain Twitcher and Movement81. Browse upcoming dates, start times and who's playing. 95 Mary Street, Sheffield, S1 4RT.
+Mary St Live is a music venue in Sheffield listed on soundcheck. 2 upcoming gigs, with line-ups including Curtain Twitcher and Movement81. See dates, start times and who's playing. 95 Mary Street, Sheffield, S1 4RT.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Sintonia 2026 Attunement III at Silent Green
 
-Sintonia 2026 Attunement III at Silent Green on Wed 9 Dec, Berlin. Preview the line-up and save it on soundcheck.
+Sintonia 2026 Attunement III at Silent Green on Wed 9 Dec, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Honey Dijon: Day & Night at Knockdown Center
 
-Honey Dijon: Day & Night at Knockdown Center on Sat 10 Oct, New York City. 4 artists on the bill: Anastazja, Derrick Carter, Honey Dijon and Luke Solomon. House. Preview the line-up and save it on soundcheck.
+Honey Dijon: Day & Night at Knockdown Center on Sat 10 Oct, New York City. 4 artists: Anastazja, Derrick Carter, Honey Dijon and Luke Solomon. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

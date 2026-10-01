@@ -1,6 +1,6 @@
 # TAKE ME OUT [2000s DISCO PUNK NITE] at Drom
 
-TAKE ME OUT [2000s DISCO PUNK NITE] at Drom on Fri 20 Nov, New York City. Disco and Post-Punk. Preview the line-up and save it on soundcheck.
+TAKE ME OUT [2000s DISCO PUNK NITE] at Drom on Fri 20 Nov, New York City. Disco and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

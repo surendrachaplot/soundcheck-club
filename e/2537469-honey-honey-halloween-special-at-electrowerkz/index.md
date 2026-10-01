@@ -1,6 +1,6 @@
 # HONEY HONEY - HALLOWEEN SPECIAL at Electrowerkz
 
-HONEY HONEY - HALLOWEEN SPECIAL at Electrowerkz on Fri 23 Oct, London. House and Pop. Preview the line-up and save it on soundcheck.
+HONEY HONEY - HALLOWEEN SPECIAL at Electrowerkz on Fri 23 Oct, London. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Akeem Ali: The Texture Tour at Midline
 
-Akeem Ali: The Texture Tour at Midline on Sat 3 Oct, Miami. Hip-Hop. Preview the line-up and save it on soundcheck.
+Akeem Ali: The Texture Tour at Midline on Sat 3 Oct, Miami. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

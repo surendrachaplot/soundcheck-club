@@ -1,6 +1,6 @@
 # Club Bambina at Bar Carmem
 
-Club Bambina at Bar Carmem on Fri 9 Oct, Sao Paulo. 1 artist on the bill: ANNYL. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Club Bambina at Bar Carmem on Fri 9 Oct, Sao Paulo. 1 artist: ANNYL. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DISCØNNECT: Conrad Taylor at TBA - 1609 E Jackson St
 
-DISCØNNECT: Conrad Taylor at TBA - 1609 E Jackson St on Fri 9 Oct, Phoenix. 1 artist on the bill: Conrad Taylor. Preview the line-up and save it on soundcheck.
+DISCØNNECT: Conrad Taylor at TBA - 1609 E Jackson St on Fri 9 Oct, Phoenix. 1 artist: Conrad Taylor. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

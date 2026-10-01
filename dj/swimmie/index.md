@@ -1,8 +1,8 @@
 # SWIMMIE
 
-SWIMMIE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bossa Nova Civic Club, New York City on Wed, 21 Oct 2026.
+SWIMMIE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Wed, 21 Oct 2026.
 
-SWIMMIE is a techno and electro artist tracked on soundcheck, with 35 sets logged across Detroit, Miami and New York City. Often billed alongside Brutal Twink, Subcultures and Cassi-DJ. Next up: Bossa Nova Civic Club, New York City on Wed 21 Oct.
+SWIMMIE is a techno and electro artist, with 35 gigs on soundcheck across Detroit, Miami and New York City. Often billed alongside Brutal Twink, Subcultures and Cassi-DJ. Next up: Bossa Nova Civic Club, New York City on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SWIMMIE is a techno and electro artist tracked on soundcheck, with 35 sets logge
 
 ## Recently played
 
-- Bossa Nova Civic Club, New York City — Tue, 25 Aug 2026
-- Signal, New York City — Sun, 9 Aug 2026
-- Honey's, New York City — Sat, 25 Jul 2026
-- Le Bain, New York City — Sat, 27 Jun 2026
-- Le Bain, New York City — Wed, 24 Jun 2026
-- Bossa Nova Civic Club, New York City — Mon, 15 Jun 2026
-- Jupiter Disco, New York City — Sun, 14 Jun 2026
-- Bossa Nova Civic Club, New York City — Sat, 30 May 2026
+- Bossa Nova Civic Club, New York City · Tue, 25 Aug 2026
+- Signal, New York City · Sun, 9 Aug 2026
+- Honey's, New York City · Sat, 25 Jul 2026
+- Le Bain, New York City · Sat, 27 Jun 2026
+- Le Bain, New York City · Wed, 24 Jun 2026
+- Bossa Nova Civic Club, New York City · Mon, 15 Jun 2026
+- Jupiter Disco, New York City · Sun, 14 Jun 2026
+- Bossa Nova Civic Club, New York City · Sat, 30 May 2026
 
 ## Shares bills with
 

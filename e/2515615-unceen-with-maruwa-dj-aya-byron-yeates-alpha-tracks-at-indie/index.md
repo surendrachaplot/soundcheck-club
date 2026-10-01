@@ -1,6 +1,6 @@
 # unceen with Maruwa, DJ AYA, Byron Yeates & Alpha Tracks at Indiego Glocksee
 
-unceen with Maruwa, DJ AYA, Byron Yeates & Alpha Tracks at Indiego Glocksee on Fri 30 Oct, Hannover. 4 artists on the bill: Alpha Tracks, Byron Yeates, DJ AYA and Maruwa. Preview the line-up and save it on soundcheck.
+unceen with Maruwa, DJ AYA, Byron Yeates & Alpha Tracks at Indiego Glocksee on Fri 30 Oct, Hannover. 4 artists: Alpha Tracks, Byron Yeates, DJ AYA and Maruwa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

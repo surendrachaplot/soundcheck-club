@@ -1,6 +1,6 @@
 # Honey Trap presents: Amelia Holt - Second Contact - Carpet (F.L.H.P) at Outer Heaven
 
-Honey Trap presents: Amelia Holt - Second Contact - Carpet (F.L.H.P) at Outer Heaven on Fri 18 Dec, New York City. 3 artists on the bill: Amelia Holt, Carpet (F.L.H.P) and Second Contact. House and Acid. Preview the line-up and save it on soundcheck.
+Honey Trap presents: Amelia Holt - Second Contact - Carpet (F.L.H.P) at Outer Heaven on Fri 18 Dec, New York City. 3 artists: Amelia Holt, Carpet (F.L.H.P) and Second Contact. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

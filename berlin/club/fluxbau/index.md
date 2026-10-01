@@ -1,8 +1,8 @@
 # Fluxbau
 
-Fluxbau is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Janus Rasmussen (live)" on Sat, 28 Nov 2026.
+Fluxbau is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Janus Rasmussen (live)" on Sat, 28 Nov 2026.
 
-Fluxbau is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Janus Rasmussen. Browse upcoming dates, start times and who's playing. Pfuelstraße 5, 10997 Berlin.
+Fluxbau is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Janus Rasmussen. See dates, start times and who's playing. Pfuelstraße 5, 10997 Berlin.
 
 ## What's on
 

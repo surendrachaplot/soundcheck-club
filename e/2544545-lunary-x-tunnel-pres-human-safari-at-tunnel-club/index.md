@@ -1,6 +1,6 @@
 # Lunary x Tunnel pres Human Safari at Tunnel Club
 
-Lunary x Tunnel pres Human Safari at Tunnel Club on Sat 14 Nov, Pereira. 2 artists on the bill: Human Safari and Ricardo Garduno. Preview the line-up and save it on soundcheck.
+Lunary x Tunnel pres Human Safari at Tunnel Club on Sat 14 Nov, Pereira. 2 artists: Human Safari and Ricardo Garduno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Link Up at Mono
 
-Link Up at Mono on Fri 9 Oct, Rotterdam. 1 artist on the bill: Hey Bony. Baile Funk and Kuduro. Preview the line-up and save it on soundcheck.
+Link Up at Mono on Fri 9 Oct, Rotterdam. 1 artist: Hey Bony. Baile Funk and Kuduro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kiss Facility (Mayah Alkhateri & Sega Bodega) at Strange Brew
 
-Kiss Facility (Mayah Alkhateri & Sega Bodega) at Strange Brew on Sun 15 Nov, Bristol. 1 artist on the bill: Sega Bodega. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Kiss Facility (Mayah Alkhateri & Sega Bodega) at Strange Brew on Sun 15 Nov, Bristol. 1 artist: Sega Bodega. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

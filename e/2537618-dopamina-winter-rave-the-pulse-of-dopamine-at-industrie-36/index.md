@@ -1,6 +1,6 @@
 # DOPAMINA WINTER RAVE – The pulse of dopamine at Industrie 36
 
-DOPAMINA WINTER RAVE – The pulse of dopamine at Industrie 36 on Sat 19 Dec, Switzerland. 2 artists on the bill: DJ Jordan and Roger Lavelle. Preview the line-up and save it on soundcheck.
+DOPAMINA WINTER RAVE – The pulse of dopamine at Industrie 36 on Sat 19 Dec, Switzerland. 2 artists: DJ Jordan and Roger Lavelle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

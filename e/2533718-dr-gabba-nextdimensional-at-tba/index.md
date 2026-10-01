@@ -1,6 +1,6 @@
 # DR. GABBA + nextdimensional at TBA
 
-DR. GABBA + nextdimensional at TBA on Sat 3 Oct, Minneapolis St Paul. 2 artists on the bill: DR. GABBA and nextdimensional. Preview the line-up and save it on soundcheck.
+DR. GABBA + nextdimensional at TBA on Sat 3 Oct, Minneapolis St Paul. 2 artists: DR. GABBA and nextdimensional. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

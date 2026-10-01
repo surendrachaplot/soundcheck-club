@@ -1,6 +1,6 @@
 # Tanzen3000 x Beate Uwe: Tag der Clubkultur at Beate Uwe
 
-Tanzen3000 x Beate Uwe: Tag der Clubkultur on Tue 6 Oct, Berlin. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+Tanzen3000 x Beate Uwe: Tag der Clubkultur on Tue 6 Oct, Berlin. Hip-Hop and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

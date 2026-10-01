@@ -1,6 +1,6 @@
 # Digitise x Bag Factory – Macker, Nick Charles, Lilyn & Vulcan at The Bag Factory
 
-Digitise x Bag Factory – Macker, Nick Charles, Lilyn & Vulcan at The Bag Factory on Fri 20 Nov, Manchester. 2 artists on the bill: Lilyn and Nick Charles. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+Digitise x Bag Factory – Macker, Nick Charles, Lilyn & Vulcan at The Bag Factory on Fri 20 Nov, Manchester. 2 artists: Lilyn and Nick Charles. Breakbeat and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

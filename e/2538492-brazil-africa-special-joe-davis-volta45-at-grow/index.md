@@ -1,6 +1,6 @@
 # Brazil + Africa Special: Joe Davis & Volta45 at Grow
 
-Brazil + Africa Special: Joe Davis & Volta45 at Grow on Sat 17 Oct, London. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Brazil + Africa Special: Joe Davis & Volta45 at Grow on Sat 17 Oct, London. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

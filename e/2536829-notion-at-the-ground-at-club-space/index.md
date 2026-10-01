@@ -1,6 +1,6 @@
 # Notion at The Ground at Club Space
 
-Notion at The Ground at Club Space on Fri 13 Nov, Miami. 3 artists on the bill: Dj Flashdrive, Notion and Violeta. House and Bass. Preview the line-up and save it on soundcheck.
+Notion at The Ground at Club Space on Fri 13 Nov, Miami. 3 artists: Dj Flashdrive, Notion and Violeta. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

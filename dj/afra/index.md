@@ -1,8 +1,8 @@
 # Afra
 
-Afra is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at export, Rotterdam on Fri, 2 Oct 2026.
+Afra is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at export, Rotterdam on Fri, 2 Oct 2026.
 
-Afra is a techno and house artist based in Netherlands, tracked on soundcheck, with 117 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: export, Rotterdam on Fri 2 Oct.
+Afra is a techno and house artist based in Netherlands, with 117 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 13 more. Often billed alongside Serge, Mary Lake and TWIENA. Next up: export, Rotterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Afra is a techno and house artist based in Netherlands, tracked on soundcheck, w
 
 ## Recently played
 
-- PIP Den Haag, The Hague — Sat, 19 Sept 2026
-- Barragem da Queimadela, Porto — Thu, 10 Sept 2026
-- RADION, Amsterdam — Sat, 29 Aug 2026
-- RADION, Amsterdam — Fri, 31 Jul 2026
-- CLUB RAUM, Amsterdam — Fri, 24 Jul 2026
-- CLUB RAUM, Amsterdam — Fri, 26 Jun 2026
-- RSO.BERLIN, Berlin — Fri, 5 Jun 2026
-- CLUB RAUM, Amsterdam — Fri, 29 May 2026
+- PIP Den Haag, The Hague · Sat, 19 Sept 2026
+- Barragem da Queimadela, Porto · Thu, 10 Sept 2026
+- RADION, Amsterdam · Sat, 29 Aug 2026
+- RADION, Amsterdam · Fri, 31 Jul 2026
+- CLUB RAUM, Amsterdam · Fri, 24 Jul 2026
+- CLUB RAUM, Amsterdam · Fri, 26 Jun 2026
+- RSO.BERLIN, Berlin · Fri, 5 Jun 2026
+- CLUB RAUM, Amsterdam · Fri, 29 May 2026
 
 ## Shares bills with
 

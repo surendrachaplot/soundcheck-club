@@ -1,6 +1,6 @@
 # T2 TUESDAY at T2 Shinjuku
 
-T2 TUESDAY at T2 Shinjuku on Tue 6 Oct, Tokyo. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+T2 TUESDAY at T2 Shinjuku on Tue 6 Oct, Tokyo. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

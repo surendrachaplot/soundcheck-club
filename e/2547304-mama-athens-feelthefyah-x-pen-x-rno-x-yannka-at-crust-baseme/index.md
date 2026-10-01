@@ -1,6 +1,6 @@
 # Mama Athens: Feelthefyah x PEN. x RNO x Yannka at Crust Basement
 
-Mama Athens: Feelthefyah x PEN. x RNO x Yannka at Crust Basement on Fri 2 Oct, Athens. 2 artists on the bill: Reign Of Time and RNO. Techno and House. Preview the line-up and save it on soundcheck.
+Mama Athens: Feelthefyah x PEN. x RNO x Yannka at Crust Basement on Fri 2 Oct, Athens. 2 artists: Reign Of Time and RNO. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

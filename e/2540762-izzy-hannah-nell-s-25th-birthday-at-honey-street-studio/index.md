@@ -1,6 +1,6 @@
 # Izzy & Hannah & Nell's 25th Birthday at Honey Street Studio
 
-Izzy & Hannah & Nell's 25th Birthday at Honey Street Studio on Sat 10 Oct, Manchester. House and UK Funky. Preview the line-up and save it on soundcheck.
+Izzy & Hannah & Nell's 25th Birthday at Honey Street Studio on Sat 10 Oct, Manchester. House and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

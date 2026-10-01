@@ -6,7 +6,7 @@
 //  - everything cross-origin (api.6minutes.club, the image proxy, CARTO tiles,
 //    YouTube/SoundCloud SDKs, unpkg) → passthrough; we never cache live data.
 // Bump VERSION to invalidate the shell cache on a meaningful release.
-const VERSION = "sc-1790850332330";
+const VERSION = "sc-1790857214892";
 const SHELL = [
   "./",
   "./index.html",
@@ -61,7 +61,7 @@ self.addEventListener("fetch", (e) => {
   );
 });
 
-// ── Web Push: "an artist you follow announced a night in your city" ──
+// ── Web Push: "an artist you follow announced a gig in your city" ──
 self.addEventListener("push", (e) => {
   let d = {};
   try { d = e.data ? e.data.json() : {}; } catch (_) {}

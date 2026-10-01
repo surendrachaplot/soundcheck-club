@@ -1,8 +1,8 @@
 # Adrian Salcedo
 
-Adrian Salcedo is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at KB3, Copenhagen on Fri, 16 Oct 2026.
+Adrian Salcedo is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at KB3, Copenhagen on Fri, 16 Oct 2026.
 
-Adrian Salcedo is a tech house and house artist based in Denmark, tracked on soundcheck, with 26 sets logged across Copenhagen and Toronto. Often billed alongside RUDEE NIK, Alley Kay and Greg Gow. Next up: KB3, Copenhagen on Fri 16 Oct.
+Adrian Salcedo is a tech house and house artist based in Denmark, with 26 gigs on soundcheck across Copenhagen and Toronto. Often billed alongside RUDEE NIK, Alley Kay and Greg Gow. Next up: KB3, Copenhagen on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Adrian Salcedo is a tech house and house artist based in Denmark, tracked on sou
 
 ## Recently played
 
-- Vertigo, Toronto — Fri, 28 Aug 2026
-- Baggen, Copenhagen — Sat, 18 Jul 2026
-- Vertigo, Toronto — Fri, 19 Jun 2026
-- Reverie at the Park, Toronto — Fri, 12 Jun 2026
-- Vertigo, Toronto — Fri, 8 May 2026
-- Vertigo, Toronto — Sat, 4 Apr 2026
-- Vertigo, Toronto — Fri, 27 Feb 2026
-- Baggen, Copenhagen — Fri, 30 Jan 2026
+- Vertigo, Toronto · Fri, 28 Aug 2026
+- Baggen, Copenhagen · Sat, 18 Jul 2026
+- Vertigo, Toronto · Fri, 19 Jun 2026
+- Reverie at the Park, Toronto · Fri, 12 Jun 2026
+- Vertigo, Toronto · Fri, 8 May 2026
+- Vertigo, Toronto · Sat, 4 Apr 2026
+- Vertigo, Toronto · Fri, 27 Feb 2026
+- Baggen, Copenhagen · Fri, 30 Jan 2026
 
 ## Shares bills with
 

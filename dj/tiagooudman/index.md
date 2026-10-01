@@ -1,8 +1,8 @@
 # Tiago Oudman
 
-Tiago Oudman is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
+Tiago Oudman is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 24 Oct 2026.
 
-Tiago Oudman is a house and club artist based in Indonesia, tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Berlin and Lisbon and 11 more. Often billed alongside PNNY, Ryan Elliott and Adam Purnell. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
+Tiago Oudman is a house and club artist based in Indonesia, with 66 gigs on soundcheck across Amsterdam, Bali, Berlin and Lisbon and 11 more. Often billed alongside PNNY, Ryan Elliott and Adam Purnell. Next up: Thuishaven, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Tiago Oudman is a house and club artist based in Indonesia, tracked on soundchec
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Sat, 12 Sept 2026
-- Circulo De Bellas Artes, Madrid — Fri, 11 Sept 2026
-- Those Who Dance, Lisbon — Fri, 26 Jun 2026
-- Rumore Nightclub Capri, Naples — Sat, 13 Jun 2026
-- OST, Berlin — Fri, 1 May 2026
-- TBA - BUSSI BAR, Berlin — Fri, 1 May 2026
-- Rūmu, Lisbon — Sat, 25 Apr 2026
-- Those Who Dance, Lisbon — Fri, 6 Mar 2026
+- RSO.BERLIN, Berlin · Sat, 12 Sept 2026
+- Circulo De Bellas Artes, Madrid · Fri, 11 Sept 2026
+- Those Who Dance, Lisbon · Fri, 26 Jun 2026
+- Rumore Nightclub Capri, Naples · Sat, 13 Jun 2026
+- OST, Berlin · Fri, 1 May 2026
+- TBA - BUSSI BAR, Berlin · Fri, 1 May 2026
+- Rūmu, Lisbon · Sat, 25 Apr 2026
+- Those Who Dance, Lisbon · Fri, 6 Mar 2026
 
 ## Shares bills with
 

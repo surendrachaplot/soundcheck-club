@@ -1,6 +1,6 @@
 # Baauer - THE 'U' EXPERIENCE at TBA - Gold Coast
 
-Baauer - THE 'U' EXPERIENCE at TBA - Gold Coast on Sat 10 Oct, Chicago. 1 artist on the bill: Baauer. House and Club. Preview the line-up and save it on soundcheck.
+Baauer - THE 'U' EXPERIENCE at TBA - Gold Coast on Sat 10 Oct, Chicago. 1 artist: Baauer. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

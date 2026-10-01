@@ -1,6 +1,6 @@
 # VELVET Lounge -Tribal House & Techno- at TBA - VELVET Lounge
 
-VELVET Lounge -Tribal House & Techno- at TBA - VELVET Lounge on Wed 7 Oct, Tokyo. Techno and Afro Tech. Preview the line-up and save it on soundcheck.
+VELVET Lounge -Tribal House & Techno- at TBA - VELVET Lounge on Wed 7 Oct, Tokyo. Techno and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

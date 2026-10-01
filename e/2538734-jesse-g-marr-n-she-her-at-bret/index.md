@@ -1,6 +1,6 @@
 # Jesse G, MARRØN, SHE/HER at BRET
 
-Jesse G, MARRØN, SHE/HER at BRET on Sun 4 Oct, Amsterdam. 3 artists on the bill: Jesse G, MARRØN and SHE/HER. Techno. Preview the line-up and save it on soundcheck.
+Jesse G, MARRØN, SHE/HER at BRET on Sun 4 Oct, Amsterdam. 3 artists: Jesse G, MARRØN and SHE/HER. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

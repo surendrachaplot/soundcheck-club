@@ -1,6 +1,6 @@
 # Substance Fest San Francisco Night #1 at Great American Music Hall
 
-Substance Fest San Francisco Night #1 at Great American Music Hall on Thu 22 Oct, San Francisco/Oakland. 1 artist on the bill: Crash Course In Science. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Substance Fest San Francisco Night #1 at Great American Music Hall on Thu 22 Oct, San Francisco/Oakland. 1 artist: Crash Course In Science. EBM and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

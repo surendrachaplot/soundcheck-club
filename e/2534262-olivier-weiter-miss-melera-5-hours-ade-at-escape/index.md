@@ -1,6 +1,6 @@
 # Olivier Weiter & Miss Melera 5 hours ADE at Escape
 
-Olivier Weiter & Miss Melera 5 hours ADE at Escape on Thu 22 Oct, Amsterdam. 2 artists on the bill: Miss Melera and Olivier Weiter. Techno and House. Preview the line-up and save it on soundcheck.
+Olivier Weiter & Miss Melera 5 hours ADE at Escape on Thu 22 Oct, Amsterdam. 2 artists: Miss Melera and Olivier Weiter. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

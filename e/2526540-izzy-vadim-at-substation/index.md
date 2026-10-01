@@ -1,6 +1,6 @@
 # Izzy Vadim at Substation
 
-Izzy Vadim at Substation on Thu 5 Nov, Seattle. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Izzy Vadim at Substation on Thu 5 Nov, Seattle. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

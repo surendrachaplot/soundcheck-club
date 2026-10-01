@@ -1,6 +1,6 @@
 # St Andrew's Stomp! with Mànran at Port of Leith Distillery
 
-St Andrew's Stomp! with Mànran at Port of Leith Distillery on Sun 29 Nov, Edinburgh. Preview the line-up and save it on soundcheck.
+St Andrew's Stomp! with Mànran at Port of Leith Distillery on Sun 29 Nov, Edinburgh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

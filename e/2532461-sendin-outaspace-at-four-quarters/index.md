@@ -1,6 +1,6 @@
 # Sendin Outaspace at Four Quarters
 
-Sendin Outaspace at Four Quarters on Thu 29 Oct, London. 4 artists on the bill: Alley Cat, DFUSE, Drumskull and Pressa. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Sendin Outaspace at Four Quarters on Thu 29 Oct, London. 4 artists: Alley Cat, DFUSE, Drumskull and Pressa. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Curated By Resident: Kancheli at Bassiani
 
-Curated By Resident: Kancheli at Bassiani on Fri 30 Oct, Tbilisi. 9 artists on the bill: Albert van Abbe, Dorisburg, Eric Cloutier and Hamatsuki and 5 more. Preview the line-up and save it on soundcheck.
+Curated By Resident: Kancheli at Bassiani on Fri 30 Oct, Tbilisi. 9 artists: Albert van Abbe, Dorisburg, Eric Cloutier and Hamatsuki and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

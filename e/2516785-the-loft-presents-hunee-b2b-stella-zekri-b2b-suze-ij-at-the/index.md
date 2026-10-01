@@ -1,6 +1,6 @@
 # THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó at The Loft Amsterdam
 
-THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó at The Loft Amsterdam on Sat 24 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+THE LOFT presents: HUNEE B2B Stella Zekri B2B Suze Ijó at The Loft Amsterdam on Sat 24 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

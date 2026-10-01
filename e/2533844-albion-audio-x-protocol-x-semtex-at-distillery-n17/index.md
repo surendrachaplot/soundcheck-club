@@ -1,6 +1,6 @@
 # Albion Audio X Protocol X Semtex at Distillery N17
 
-Albion Audio X Protocol X Semtex at Distillery N17 on Fri 2 Oct, London. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Albion Audio X Protocol X Semtex at Distillery N17 on Fri 2 Oct, London. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

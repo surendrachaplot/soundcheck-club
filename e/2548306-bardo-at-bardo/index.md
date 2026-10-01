@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Wed 14 Oct, Milan. 1 artist on the bill: Colombian Drone Mafia. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+BARDO on Wed 14 Oct, Milan. 1 artist: Colombian Drone Mafia. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

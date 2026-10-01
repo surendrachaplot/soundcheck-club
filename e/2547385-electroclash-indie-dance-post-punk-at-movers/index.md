@@ -1,6 +1,6 @@
 # Electroclash: indie, dance & post-punk at Movers
 
-Electroclash: indie, dance & post-punk at Movers on Fri 16 Oct, Nottingham. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Electroclash: indie, dance & post-punk at Movers on Fri 16 Oct, Nottingham. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

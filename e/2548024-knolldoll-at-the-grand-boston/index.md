@@ -1,6 +1,6 @@
 # KnollDoll at The Grand Boston
 
-KnollDoll at The Grand Boston on Fri 2 Oct, Boston. House. Preview the line-up and save it on soundcheck.
+KnollDoll at The Grand Boston on Fri 2 Oct, Boston. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

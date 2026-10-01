@@ -1,6 +1,6 @@
 # ear at Button Factory
 
-ear at Button Factory on Mon 26 Oct, Dublin. Pop and Electronica. Preview the line-up and save it on soundcheck.
+ear at Button Factory on Mon 26 Oct, Dublin. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

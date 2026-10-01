@@ -1,8 +1,8 @@
 # Binh
 
-Binh is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Studionotte, Milan on Fri, 2 Oct 2026.
+Binh is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Studionotte, Milan on Fri, 2 Oct 2026.
 
-Binh is a techno and house artist based in Germany, tracked on soundcheck, with 208 sets logged across Amsterdam, Austin, Bali and Bangkok and 45 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Studionotte, Milan on Fri 2 Oct.
+Binh is a techno and house artist based in Germany, with 208 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 45 more. Often billed alongside DJ Masda, Nicolas Lutz and Francesco Del Garda. Next up: Studionotte, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Binh is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
-- Sunday Sunday, Mexico City — Sat, 26 Sept 2026
-- Nowadays, New York City — Fri, 25 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Stardust Garage, Austin — Fri, 18 Sept 2026
-- TRANSMISSION DC, Washington DC — Thu, 17 Sept 2026
-- Bunker, Turin — Sat, 12 Sept 2026
-- Studio Club Malaga, Malaga — Sat, 5 Sept 2026
-- Phonox, London — Sat, 29 Aug 2026
+- Sunday Sunday, Mexico City · Sat, 26 Sept 2026
+- Nowadays, New York City · Fri, 25 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Stardust Garage, Austin · Fri, 18 Sept 2026
+- TRANSMISSION DC, Washington DC · Thu, 17 Sept 2026
+- Bunker, Turin · Sat, 12 Sept 2026
+- Studio Club Malaga, Malaga · Sat, 5 Sept 2026
+- Phonox, London · Sat, 29 Aug 2026
 
 ## Shares bills with
 

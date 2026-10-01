@@ -1,6 +1,6 @@
 # Distrito 91 with Kinetic & Protocolo Sys.ex (live) at Cadavra
 
-Distrito 91 with Kinetic & Protocolo Sys.ex (live) at Cadavra on Sat 17 Oct, Madrid. 2 artists on the bill: Kinetic and tekka. Electro. Preview the line-up and save it on soundcheck.
+Distrito 91 with Kinetic & Protocolo Sys.ex (live) at Cadavra on Sat 17 Oct, Madrid. 2 artists: Kinetic and tekka. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

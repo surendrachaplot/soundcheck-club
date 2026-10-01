@@ -1,8 +1,8 @@
 # The Leith Depot
 
-The Leith Depot is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Gatto Grooves" on Thu, 1 Oct 2026.
+The Leith Depot is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Gatto Grooves" on Thu, 1 Oct 2026.
 
-The Leith Depot is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 138-140 Leith Walk, Midlothian, Edinburgh, EH6 5DT, United Kingdom.
+The Leith Depot is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 138-140 Leith Walk, Midlothian, Edinburgh, EH6 5DT, United Kingdom.
 
 ## What's on
 

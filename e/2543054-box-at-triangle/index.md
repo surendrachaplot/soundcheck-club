@@ -1,6 +1,6 @@
 # BOX at Triangle
 
-BOX at Triangle on Wed 7 Oct, Osaka. Bass. Preview the line-up and save it on soundcheck.
+BOX at Triangle on Wed 7 Oct, Osaka. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KRYPT: BIPØLAR, AF7, MWALLS, GALI, LEO RIVERA, MAYTE at EL SÓTANO
 
-KRYPT: BIPØLAR, AF7, MWALLS, GALI, LEO RIVERA, MAYTE at EL SÓTANO on Thu 29 Oct, Madrid. Techno and House. Preview the line-up and save it on soundcheck.
+KRYPT: BIPØLAR, AF7, MWALLS, GALI, LEO RIVERA, MAYTE at EL SÓTANO on Thu 29 Oct, Madrid. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

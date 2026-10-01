@@ -1,6 +1,6 @@
 # SD Union 16 Year Anniversary at Spin
 
-SD Union 16 Year Anniversary at Spin on Fri 16 Oct, San Diego. 4 artists on the bill: Dirtyphonics, London Elektricity, MC Ridda and Winslow. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+SD Union 16 Year Anniversary at Spin on Fri 16 Oct, San Diego. 4 artists: Dirtyphonics, London Elektricity, MC Ridda and Winslow. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

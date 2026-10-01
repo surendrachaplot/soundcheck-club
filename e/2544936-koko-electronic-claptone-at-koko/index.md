@@ -1,6 +1,6 @@
 # KOKO Electronic: Claptone at KOKO
 
-KOKO Electronic: Claptone on Sat 14 Nov, London. 3 artists on the bill: Claptone, Crusy and Will Silver. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Claptone on Sat 14 Nov, London. 3 artists: Claptone, Crusy and Will Silver. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

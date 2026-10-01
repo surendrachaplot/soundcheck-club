@@ -1,8 +1,8 @@
 # Bowmore
 
-Bowmore is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Le Groove, Geneva on Fri, 2 Oct 2026.
+Bowmore is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Groove, Geneva on Fri, 2 Oct 2026.
 
-Bowmore is a techno and trance artist based in Switzerland, tracked on soundcheck, with 36 sets logged across Geneva and Zurich. Often billed alongside Ecar, Julian Muller and Maara. Next up: Le Groove, Geneva on Fri 2 Oct.
+Bowmore is a techno and trance artist based in Switzerland, with 36 gigs on soundcheck across Geneva and Zurich. Often billed alongside Ecar, Julian Muller and Maara. Next up: Le Groove, Geneva on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Bowmore is a techno and trance artist based in Switzerland, tracked on soundchec
 
 ## Recently played
 
-- Zoo, Geneva — Sat, 5 Sept 2026
-- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
-- Théâtre de L'Orangerie - TO!, Geneva — Fri, 24 Jul 2026
-- La Gravière, Geneva — Fri, 15 May 2026
-- La Gravière, Geneva — Fri, 17 Apr 2026
-- Zoo, Geneva — Fri, 3 Apr 2026
-- La Gravière, Geneva — Fri, 9 Jan 2026
-- La Gravière, Geneva — Fri, 17 Oct 2025
+- Zoo, Geneva · Sat, 5 Sept 2026
+- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
+- Théâtre de L'Orangerie - TO!, Geneva · Fri, 24 Jul 2026
+- La Gravière, Geneva · Fri, 15 May 2026
+- La Gravière, Geneva · Fri, 17 Apr 2026
+- Zoo, Geneva · Fri, 3 Apr 2026
+- La Gravière, Geneva · Fri, 9 Jan 2026
+- La Gravière, Geneva · Fri, 17 Oct 2025
 
 ## Shares bills with
 

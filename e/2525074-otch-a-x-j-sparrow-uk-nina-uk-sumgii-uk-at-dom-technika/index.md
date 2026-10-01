@@ -1,6 +1,6 @@
 # Otchłań X - J. SPARROW (UK) & NINA (UK) & SUMGII (UK) at Dom Technika
 
-Otchłań X - J. SPARROW (UK) & NINA (UK) & SUMGII (UK) at Dom Technika on Sat 10 Oct, Poznan. 2 artists on the bill: Jack Sparrow and Sumgii. Preview the line-up and save it on soundcheck.
+Otchłań X - J. SPARROW (UK) & NINA (UK) & SUMGII (UK) at Dom Technika on Sat 10 Oct, Poznan. 2 artists: Jack Sparrow and Sumgii. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

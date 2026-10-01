@@ -1,6 +1,6 @@
 # Dias at VEGA
 
-Dias at VEGA on Thu 8 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+Dias at VEGA on Thu 8 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

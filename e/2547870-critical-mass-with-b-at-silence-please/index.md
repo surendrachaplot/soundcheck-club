@@ -1,6 +1,6 @@
 # Critical Mass with B+ & ∞ at Silence Please
 
-Critical Mass with B+ & ∞ at Silence Please on Thu 1 Oct, New York City. Ambient. Preview the line-up and save it on soundcheck.
+Critical Mass with B+ & ∞ at Silence Please on Thu 1 Oct, New York City. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

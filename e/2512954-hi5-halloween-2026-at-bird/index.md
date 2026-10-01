@@ -1,6 +1,6 @@
 # Hi5 Halloween 2026 at BIRD
 
-Hi5 Halloween 2026 at BIRD on Sat 31 Oct, Rotterdam. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Hi5 Halloween 2026 at BIRD on Sat 31 Oct, Rotterdam. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

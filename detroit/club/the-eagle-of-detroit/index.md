@@ -1,8 +1,8 @@
 # The Eagle of Detroit
 
-The Eagle of Detroit is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "TOP2BTTM: FULLYBODYDURAG B2B we1sman ALL NIGHT" on Fri, 2 Oct 2026.
+The Eagle of Detroit is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TOP2BTTM: FULLYBODYDURAG B2B we1sman ALL NIGHT" on Fri, 2 Oct 2026.
 
-The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including angelgirl EVA, Fullbodydurag, Innergroove and Le Schlippy and 2 more. Browse upcoming dates, start times and who's playing. 950 West McNichols.
+The Eagle of Detroit is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including angelgirl EVA, Fullbodydurag, Innergroove and Le Schlippy and 2 more. See dates, start times and who's playing. 950 West McNichols.
 
 ## What's on
 

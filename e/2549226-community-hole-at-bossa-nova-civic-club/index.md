@@ -1,6 +1,6 @@
 # Community Hole at Bossa Nova Civic Club
 
-Community Hole at Bossa Nova Civic Club on Wed 21 Oct, New York City. 4 artists on the bill: Brutal Twink, Subcultures, SWIMMIE and Vesolo. Preview the line-up and save it on soundcheck.
+Community Hole at Bossa Nova Civic Club on Wed 21 Oct, New York City. 4 artists: Brutal Twink, Subcultures, SWIMMIE and Vesolo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dark Faces Presents: Kaufmann [DE] at Silent Studios
 
-Dark Faces Presents: Kaufmann [DE] at Silent Studios on Sat 3 Oct, Auckland. 2 artists on the bill: Kaufmann and Momo. Techno. Preview the line-up and save it on soundcheck.
+Dark Faces Presents: Kaufmann [DE] at Silent Studios on Sat 3 Oct, Auckland. 2 artists: Kaufmann and Momo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MEZZANOTTE Italo Disco at Fundbureau
 
-MEZZANOTTE Italo Disco at Fundbureau on Fri 23 Oct, Hamburg. 2 artists on the bill: Bizzarro Universe and Lisbird. House and Italo Disco. Preview the line-up and save it on soundcheck.
+MEZZANOTTE Italo Disco at Fundbureau on Fri 23 Oct, Hamburg. 2 artists: Bizzarro Universe and Lisbird. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

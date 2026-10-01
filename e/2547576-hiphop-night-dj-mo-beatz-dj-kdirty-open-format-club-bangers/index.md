@@ -1,6 +1,6 @@
 # HIPHOP NIGHT: DJ MO BEATZ & DJ KDIRTY (OPEN FORMAT CLUB BANGERS) at Big Pink
 
-HIPHOP NIGHT: DJ MO BEATZ & DJ KDIRTY (OPEN FORMAT CLUB BANGERS) at Big Pink on Sat 17 Oct, Detroit. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+HIPHOP NIGHT: DJ MO BEATZ & DJ KDIRTY (OPEN FORMAT CLUB BANGERS) at Big Pink on Sat 17 Oct, Detroit. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

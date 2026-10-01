@@ -1,6 +1,6 @@
 # dark_001.wav at TBA - Secret Location
 
-dark_001.wav at TBA - Secret Location on Sat 3 Oct, Lisbon. Techno and House. Preview the line-up and save it on soundcheck.
+dark_001.wav at TBA - Secret Location on Sat 3 Oct, Lisbon. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

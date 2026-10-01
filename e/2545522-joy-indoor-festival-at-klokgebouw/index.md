@@ -1,6 +1,6 @@
 # JOY Indoor Festival at Klokgebouw
 
-JOY Indoor Festival at Klokgebouw on Sat 12 Dec, Eindhoven. 11 artists on the bill: Benny Rodrigues, Cici Daze, East End Dubs and James Poole and 7 more. Preview the line-up and save it on soundcheck.
+JOY Indoor Festival at Klokgebouw on Sat 12 Dec, Eindhoven. 11 artists: Benny Rodrigues, Cici Daze, East End Dubs and James Poole and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

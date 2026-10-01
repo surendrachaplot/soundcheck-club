@@ -1,6 +1,6 @@
 # FUSE London at DRUMSHEDS
 
-FUSE London at DRUMSHEDS on Sat 28 Nov, London. Tech House. Preview the line-up and save it on soundcheck.
+FUSE London at DRUMSHEDS on Sat 28 Nov, London. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

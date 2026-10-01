@@ -1,6 +1,6 @@
 # Lola Haro + Garbo at Cobalt Studios
 
-Lola Haro + Garbo at Cobalt Studios on Sat 3 Oct, Newcastle. 2 artists on the bill: Garbo and Lola Haro. Preview the line-up and save it on soundcheck.
+Lola Haro + Garbo at Cobalt Studios on Sat 3 Oct, Newcastle. 2 artists: Garbo and Lola Haro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # re:sonate pres. Club House at TBA - Secret Venue
 
-re:sonate pres. Club House at TBA - Secret Venue on Sat 10 Oct, Turin. House and Deep House. Preview the line-up and save it on soundcheck.
+re:sonate pres. Club House at TBA - Secret Venue on Sat 10 Oct, Turin. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Girls of the Internet (Live) at Yes
 
-Girls of the Internet (Live) at Yes on Thu 10 Dec, Manchester. 1 artist on the bill: Girls of the Internet. Preview the line-up and save it on soundcheck.
+Girls of the Internet (Live) at Yes on Thu 10 Dec, Manchester. 1 artist: Girls of the Internet. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

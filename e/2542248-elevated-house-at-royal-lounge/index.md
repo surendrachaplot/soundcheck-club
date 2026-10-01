@@ -1,6 +1,6 @@
 # ELEVATED HOUSE at Royal Lounge
 
-ELEVATED HOUSE at Royal Lounge on Sun 4 Oct, Tokyo. House and Deep House. Preview the line-up and save it on soundcheck.
+ELEVATED HOUSE at Royal Lounge on Sun 4 Oct, Tokyo. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

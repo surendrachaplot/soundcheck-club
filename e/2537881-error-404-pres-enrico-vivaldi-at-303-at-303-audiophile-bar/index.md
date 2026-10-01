@@ -1,6 +1,6 @@
 # Error 404 pres. Enrico Vivaldi at 303 at 303 Audiophile Bar
 
-Error 404 pres. Enrico Vivaldi at 303 at 303 Audiophile Bar on Fri 23 Oct, Barcelona. 1 artist on the bill: Enrico Vivaldi. House. Preview the line-up and save it on soundcheck.
+Error 404 pres. Enrico Vivaldi at 303 at 303 Audiophile Bar on Fri 23 Oct, Barcelona. 1 artist: Enrico Vivaldi. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

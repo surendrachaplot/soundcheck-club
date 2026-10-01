@@ -1,6 +1,6 @@
 # Hafen7 goes to Hamburg at Fundbureau
 
-Hafen7 goes to Hamburg at Fundbureau on Fri 27 Nov, Hamburg. Trance and Techno. Preview the line-up and save it on soundcheck.
+Hafen7 goes to Hamburg at Fundbureau on Fri 27 Nov, Hamburg. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

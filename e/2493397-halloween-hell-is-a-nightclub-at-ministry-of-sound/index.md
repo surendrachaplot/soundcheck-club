@@ -1,6 +1,6 @@
 # HALLOWEEN: HELL IS A NIGHTCLUB at Ministry Of Sound
 
-HALLOWEEN: HELL IS A NIGHTCLUB at Ministry Of Sound on Sat 31 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+HALLOWEEN: HELL IS A NIGHTCLUB at Ministry Of Sound on Sat 31 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

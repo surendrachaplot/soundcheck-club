@@ -1,6 +1,6 @@
 # Vinyl Open Decks with NOYB Vol. 7 [18.10.26] at Kings Arms E2
 
-Vinyl Open Decks with NOYB Vol. 7 [18.10.26] at Kings Arms E2 on Sun 18 Oct, London. Downtempo and Post-Punk. Preview the line-up and save it on soundcheck.
+Vinyl Open Decks with NOYB Vol. 7 [18.10.26] at Kings Arms E2 on Sun 18 Oct, London. Downtempo and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

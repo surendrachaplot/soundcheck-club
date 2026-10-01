@@ -1,6 +1,6 @@
 # Frequencies x BassRupt: Hardcore at Sala Pirandelo
 
-Frequencies x BassRupt: Hardcore at Sala Pirandelo on Thu 22 Oct, Madrid. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Frequencies x BassRupt: Hardcore at Sala Pirandelo on Thu 22 Oct, Madrid. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

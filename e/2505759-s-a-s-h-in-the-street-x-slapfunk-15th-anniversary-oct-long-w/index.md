@@ -1,6 +1,6 @@
 # ★ S.A.S.H in the Street x Slapfunk 15th Anniversary ★ Oct Long Weekend ★ Sunday 4th Oct ★ at S.A.S.H in the Street
 
-★ S.A.S.H in the Street x Slapfunk 15th Anniversary ★ Oct Long Weekend ★ Sunday 4th Oct ★ on Sun 4 Oct, New South Wales. 4 artists on the bill: Dungeon Meat, Georgia Girl, Reflex Blue and Ron Obvious. Preview the line-up and save it on soundcheck.
+★ S.A.S.H in the Street x Slapfunk 15th Anniversary ★ Oct Long Weekend ★ Sunday 4th Oct ★ on Sun 4 Oct, New South Wales. 4 artists: Dungeon Meat, Georgia Girl, Reflex Blue and Ron Obvious. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

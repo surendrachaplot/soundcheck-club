@@ -1,6 +1,6 @@
 # Maison D'etre Malta / AVIHP Anjunadeep After Party - Monday 12th October 3pm at Nine Lives
 
-Maison D'etre Malta / AVIHP Anjunadeep After Party - Monday 12th October 3pm at Nine Lives on Mon 12 Oct, Malta. 2 artists on the bill: Monsieur Mikey and Sammy Dean. House. Preview the line-up and save it on soundcheck.
+Maison D'etre Malta / AVIHP Anjunadeep After Party - Monday 12th October 3pm at Nine Lives on Mon 12 Oct, Malta. 2 artists: Monsieur Mikey and Sammy Dean. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

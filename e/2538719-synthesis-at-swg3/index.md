@@ -1,6 +1,6 @@
 # Synthesis at SWG3
 
-Synthesis at SWG3 on Mon 19 Oct, Glasgow. House and Experimental. Preview the line-up and save it on soundcheck.
+Synthesis at SWG3 on Mon 19 Oct, Glasgow. House and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

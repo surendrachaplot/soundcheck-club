@@ -1,6 +1,6 @@
 # E空氣 at Compufunk Records
 
-E空氣 at Compufunk Records on Fri 30 Oct, Osaka. Techno and House. Preview the line-up and save it on soundcheck.
+E空氣 at Compufunk Records on Fri 30 Oct, Osaka. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

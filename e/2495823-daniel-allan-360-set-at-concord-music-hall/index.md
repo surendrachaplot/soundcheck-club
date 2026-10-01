@@ -1,6 +1,6 @@
 # DANIEL ALLAN (360° Set) at Concord Music Hall
 
-DANIEL ALLAN (360° Set) at Concord Music Hall on Fri 27 Nov, Chicago. House and Club. Preview the line-up and save it on soundcheck.
+DANIEL ALLAN (360° Set) at Concord Music Hall on Fri 27 Nov, Chicago. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

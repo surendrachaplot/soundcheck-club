@@ -1,8 +1,8 @@
 # AngeliKa
 
-AngeliKa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+AngeliKa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
 
-AngeliKa is a techno and house artist based in China, tracked on soundcheck, with 41 sets logged across Bali, Berlin, Hong Kong and Krakow and 1 more. Often billed alongside Shanda, Taste of Blue and Jeremy Cheung. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
+AngeliKa is a techno and house artist based in China, with 41 gigs on soundcheck across Bali, Berlin, Hong Kong and Krakow and 1 more. Often billed alongside Shanda, Taste of Blue and Jeremy Cheung. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ AngeliKa is a techno and house artist based in China, tracked on soundcheck, wit
 
 ## Recently played
 
-- TBA - Secret Warehouse 2 Rooms, Hong Kong — Sat, 12 Sept 2026
-- TBA - Secret Warehouse Location, Hong Kong — Sat, 29 Aug 2026
-- TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong — Sat, 25 Jul 2026
-- Social Room, Hong Kong — Fri, 24 Jul 2026
-- OMA, Hong Kong — Sat, 23 May 2026
-- TBA - SECRET WAREHOUSE, Hong Kong — Sat, 14 Feb 2026
-- Engineering Museum, Krakow — Sat, 3 Jan 2026
-- TBA - Casual Engineering Research, 3F, 1 Lockhart Road, Wanchai, Hong Kong — Wed, 31 Dec 2025
+- TBA - Secret Warehouse 2 Rooms, Hong Kong · Sat, 12 Sept 2026
+- TBA - Secret Warehouse Location, Hong Kong · Sat, 29 Aug 2026
+- TBA - Secret Location, announce to all ticket holders 1 day prior to the event, Hong Kong · Sat, 25 Jul 2026
+- Social Room, Hong Kong · Fri, 24 Jul 2026
+- OMA, Hong Kong · Sat, 23 May 2026
+- TBA - SECRET WAREHOUSE, Hong Kong · Sat, 14 Feb 2026
+- Engineering Museum, Krakow · Sat, 3 Jan 2026
+- TBA - Casual Engineering Research, 3F, 1 Lockhart Road, Wanchai, Hong Kong · Wed, 31 Dec 2025
 
 ## Shares bills with
 

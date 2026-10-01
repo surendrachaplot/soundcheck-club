@@ -1,6 +1,6 @@
 # OPEN DECKS at Planet Wax
 
-OPEN DECKS at Planet Wax on Wed 21 Oct, London. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+OPEN DECKS at Planet Wax on Wed 21 Oct, London. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

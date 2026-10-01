@@ -1,6 +1,6 @@
 # Koenji Cave presents ▷ Laboratory Vol.35 at Koenji Cave
 
-Koenji Cave presents ▷ Laboratory Vol.35 on Fri 23 Oct, Tokyo. Afrobeat and Psytrance. Preview the line-up and save it on soundcheck.
+Koenji Cave presents ▷ Laboratory Vol.35 on Fri 23 Oct, Tokyo. Afrobeat and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

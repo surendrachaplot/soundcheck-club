@@ -1,8 +1,8 @@
 # Lola Brennt
 
-Lola Brennt is a House and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Klunkerkranich, Berlin on Thu, 1 Oct 2026.
+Lola Brennt is a House and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 1 Oct 2026.
 
-Lola Brennt is a house and drum & bass artist tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Ivana, anna G and Ivana_dnb. Next up: Klunkerkranich, Berlin on Thu 1 Oct.
+Lola Brennt is a house and drum & bass artist, with 13 gigs on soundcheck across Berlin. Often billed alongside Ivana, anna G and Ivana_dnb. Next up: Klunkerkranich, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Lola Brennt is a house and drum & bass artist tracked on soundcheck, with 13 set
 
 ## Recently played
 
-- Ritter Butzke, Berlin — Sat, 29 Aug 2026
-- Ritter Butzke, Berlin — Sat, 29 Aug 2026
-- Klunkerkranich, Berlin — Sat, 18 Jul 2026
-- Klunkerkranich, Berlin — Thu, 18 Jun 2026
-- Klunkerkranich, Berlin — Sat, 2 May 2026
-- Panda Kulturplattform, Berlin — Fri, 3 Apr 2026
-- TBA, Berlin — Sat, 7 Feb 2026
-- Der Kegel, Berlin — Sat, 13 Sept 2025
+- Ritter Butzke, Berlin · Sat, 29 Aug 2026
+- Ritter Butzke, Berlin · Sat, 29 Aug 2026
+- Klunkerkranich, Berlin · Sat, 18 Jul 2026
+- Klunkerkranich, Berlin · Thu, 18 Jun 2026
+- Klunkerkranich, Berlin · Sat, 2 May 2026
+- Panda Kulturplattform, Berlin · Fri, 3 Apr 2026
+- TBA, Berlin · Sat, 7 Feb 2026
+- Der Kegel, Berlin · Sat, 13 Sept 2025
 
 ## Shares bills with
 

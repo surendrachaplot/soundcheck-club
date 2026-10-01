@@ -1,6 +1,6 @@
 # reane: Matthew Rothery at renae
 
-reane: Matthew Rothery at renae on Sat 3 Oct, Manchester. Preview the line-up and save it on soundcheck.
+reane: Matthew Rothery at renae on Sat 3 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

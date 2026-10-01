@@ -1,6 +1,6 @@
 # Serum: 19:26 at Prysm Nightclub
 
-Serum: 19:26 at Prysm Nightclub on Sat 3 Oct, Chicago. 1 artist on the bill: 19:26. Techno. Preview the line-up and save it on soundcheck.
+Serum: 19:26 at Prysm Nightclub on Sat 3 Oct, Chicago. 1 artist: 19:26. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

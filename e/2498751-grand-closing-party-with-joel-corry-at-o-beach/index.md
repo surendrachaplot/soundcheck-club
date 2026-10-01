@@ -1,6 +1,6 @@
 # GRAND CLOSING PARTY WITH JOEL CORRY at O Beach
 
-GRAND CLOSING PARTY WITH JOEL CORRY at O Beach on Sun 11 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+GRAND CLOSING PARTY WITH JOEL CORRY at O Beach on Sun 11 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

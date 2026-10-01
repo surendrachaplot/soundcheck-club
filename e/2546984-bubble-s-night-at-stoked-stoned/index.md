@@ -1,6 +1,6 @@
 # Bubble's Night at Stoked&stoned
 
-Bubble's Night at Stoked&stoned on Thu 1 Oct, Seoul. 2 artists on the bill: Mignon and RTRP. Techno and House. Preview the line-up and save it on soundcheck.
+Bubble's Night at Stoked&stoned on Thu 1 Oct, Seoul. 2 artists: Mignon and RTRP. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

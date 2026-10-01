@@ -1,6 +1,6 @@
 # WITCHING HOUR VOL. I — Eiji Taniguchi (JPN), Jnett, Minimale Fatale at TBA
 
-WITCHING HOUR VOL. I — Eiji Taniguchi (JPN), Jnett, Minimale Fatale at TBA on Fri 30 Oct, Melbourne. 4 artists on the bill: DIMI, Minimale Fatale, Nat Salih and Umut. Techno and House. Preview the line-up and save it on soundcheck.
+WITCHING HOUR VOL. I — Eiji Taniguchi (JPN), Jnett, Minimale Fatale at TBA on Fri 30 Oct, Melbourne. 4 artists: DIMI, Minimale Fatale, Nat Salih and Umut. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

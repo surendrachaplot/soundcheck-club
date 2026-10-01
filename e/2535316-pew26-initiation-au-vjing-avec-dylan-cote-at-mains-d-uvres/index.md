@@ -1,6 +1,6 @@
 # PEW26 - Initiation au VJing avec Dylan Cote at Mains D'œuvres
 
-PEW26 - Initiation au VJing avec Dylan Cote at Mains D'œuvres on Sat 3 Oct, Paris. Preview the line-up and save it on soundcheck.
+PEW26 - Initiation au VJing avec Dylan Cote at Mains D'œuvres on Sat 3 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

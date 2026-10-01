@@ -1,8 +1,8 @@
 # Forest Drive West
 
-Forest Drive West is a Techno and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - DM for Info, Amsterdam on Sat, 10 Oct 2026.
+Forest Drive West is a Techno and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DM for Info, Amsterdam on Sat, 10 Oct 2026.
 
-Forest Drive West is a techno and jungle artist based in United Kingdom, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside Azu Tiwaline, Rrose and Mantra. Next up: TBA - DM for Info, Amsterdam on Sat 10 Oct.
+Forest Drive West is a techno and jungle artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brisbane and 19 more. Often billed alongside Azu Tiwaline, Rrose and Mantra. Next up: TBA - DM for Info, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Forest Drive West is a techno and jungle artist based in United Kingdom, tracked
 
 ## Recently played
 
-- Gare Porto, Porto — Sat, 26 Sept 2026
-- The Cause, London — Sat, 22 Aug 2026
-- The Glove That Fits, London — Sat, 22 Aug 2026
-- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
-- Zuiderpark, The Hague — Sat, 6 Jun 2026
-- Garage Noord, Amsterdam — Sat, 16 May 2026
-- Blå, Oslo — Sat, 25 Apr 2026
-- Corsica Studios, London — Sat, 28 Feb 2026
+- Gare Porto, Porto · Sat, 26 Sept 2026
+- The Cause, London · Sat, 22 Aug 2026
+- The Glove That Fits, London · Sat, 22 Aug 2026
+- Parc Nou. El Prat de Llobregat, Barcelona · Fri, 17 Jul 2026
+- Zuiderpark, The Hague · Sat, 6 Jun 2026
+- Garage Noord, Amsterdam · Sat, 16 May 2026
+- Blå, Oslo · Sat, 25 Apr 2026
+- Corsica Studios, London · Sat, 28 Feb 2026
 
 ## Shares bills with
 

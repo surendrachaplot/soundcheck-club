@@ -1,6 +1,6 @@
 # PAESAGGI RECORDS AUTUNNO MINITOUR #2 at Time is the new space
 
-PAESAGGI RECORDS AUTUNNO MINITOUR #2 at Time is the new space on Sat 3 Oct, Rotterdam. 3 artists on the bill: Gropina, Stefhanja and Wutu. Preview the line-up and save it on soundcheck.
+PAESAGGI RECORDS AUTUNNO MINITOUR #2 at Time is the new space on Sat 3 Oct, Rotterdam. 3 artists: Gropina, Stefhanja and Wutu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

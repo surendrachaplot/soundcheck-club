@@ -1,6 +1,6 @@
 # Fabio & Grooverider: Up Close & Personal Tour • Bristol at The Clock Factory
 
-Fabio & Grooverider: Up Close & Personal Tour • Bristol at The Clock Factory on Fri 18 Dec, Bristol. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Fabio & Grooverider: Up Close & Personal Tour • Bristol at The Clock Factory on Fri 18 Dec, Bristol. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

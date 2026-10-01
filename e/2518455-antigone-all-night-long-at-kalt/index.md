@@ -1,6 +1,6 @@
 # Antigone all night long at KALT
 
-Antigone all night long at KALT on Sat 26 Dec, Strasbourg. 1 artist on the bill: Antigone. Preview the line-up and save it on soundcheck.
+Antigone all night long at KALT on Sat 26 Dec, Strasbourg. 1 artist: Antigone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

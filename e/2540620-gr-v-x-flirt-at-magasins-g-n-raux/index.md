@@ -1,6 +1,6 @@
 # GRÜV x FLIRT at Magasins Généraux
 
-GRÜV x FLIRT at Magasins Généraux on Sat 14 Nov, Paris. Techno. Preview the line-up and save it on soundcheck.
+GRÜV x FLIRT at Magasins Généraux on Sat 14 Nov, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Kade
 
-Kade is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Kade x Synaptica" on Fri, 2 Oct 2026.
+Kade is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Kade x Synaptica" on Fri, 2 Oct 2026.
 
-Kade is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including buuo, Gaaston, jaime enaar and Kongusto and 2 more. Browse upcoming dates, start times and who's playing. Grasmeierstraße 23, München, 80805, Germany.
+Kade is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including buuo, Gaaston, jaime enaar and Kongusto and 2 more. See dates, start times and who's playing. Grasmeierstraße 23, München, 80805, Germany.
 
 ## What's on
 

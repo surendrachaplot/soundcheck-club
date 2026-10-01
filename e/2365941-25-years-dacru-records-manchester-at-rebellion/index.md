@@ -1,6 +1,6 @@
 # 25 Years Dacru Records • Manchester at Rebellion
 
-25 Years Dacru Records • Manchester at Rebellion on Sat 28 Nov, Manchester. Psytrance. Preview the line-up and save it on soundcheck.
+25 Years Dacru Records • Manchester at Rebellion on Sat 28 Nov, Manchester. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

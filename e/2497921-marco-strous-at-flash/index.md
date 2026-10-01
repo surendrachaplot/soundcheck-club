@@ -1,6 +1,6 @@
 # Marco Strous at Flash
 
-Marco Strous at Flash on Sat 3 Oct, Washington DC. 4 artists on the bill: DJ Soul (US), Marco Strous, unbound and VINY. House and Tech House. Preview the line-up and save it on soundcheck.
+Marco Strous at Flash on Sat 3 Oct, Washington DC. 4 artists: DJ Soul (US), Marco Strous, unbound and VINY. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

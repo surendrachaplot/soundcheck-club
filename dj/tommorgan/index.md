@@ -1,8 +1,8 @@
 # Tom Morgan
 
-Tom Morgan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at feedbk, New York City on Sat, 17 Oct 2026.
+Tom Morgan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at feedbk, New York City on Sat, 17 Oct 2026.
 
-Tom Morgan is a house and techno artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Brussels and Bucharest and 6 more. Often billed alongside Desyn, Faciendo Soundsystem and Rama NYC. Next up: feedbk, New York City on Sat 17 Oct.
+Tom Morgan is a house and techno artist based in United Kingdom, with 34 gigs on soundcheck across Barcelona, Berlin, Brussels and Bucharest and 6 more. Often billed alongside Desyn, Faciendo Soundsystem and Rama NYC. Next up: feedbk, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Tom Morgan is a house and techno artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Stade Fontainieu, Marseille — Sat, 19 Sept 2026
-- TBA - secret location, Barcelona — Thu, 18 Jun 2026
-- Platforma Wolff, Bucharest — Fri, 12 Jun 2026
-- The Lion and Lamb, London — Fri, 22 May 2026
-- Hoppetosse, Berlin — Sat, 14 Feb 2026
-- The Lion and Lamb, London — Fri, 23 Jan 2026
-- The Lion and Lamb, London — Fri, 24 Oct 2025
-- The Lion and Lamb, London — Fri, 18 Jul 2025
+- Stade Fontainieu, Marseille · Sat, 19 Sept 2026
+- TBA - secret location, Barcelona · Thu, 18 Jun 2026
+- Platforma Wolff, Bucharest · Fri, 12 Jun 2026
+- The Lion and Lamb, London · Fri, 22 May 2026
+- Hoppetosse, Berlin · Sat, 14 Feb 2026
+- The Lion and Lamb, London · Fri, 23 Jan 2026
+- The Lion and Lamb, London · Fri, 24 Oct 2025
+- The Lion and Lamb, London · Fri, 18 Jul 2025
 
 ## Shares bills with
 

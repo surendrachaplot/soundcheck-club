@@ -1,8 +1,8 @@
 # Bones
 
-Bones is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Bones is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
-Bones is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago, Detroit, London and Los Angeles and 7 more. Often billed alongside Lee Wells, BERLINER KINDL and Destructo. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
+Bones is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Chicago, Detroit, London and Los Angeles and 7 more. Often billed alongside Lee Wells, BERLINER KINDL and Destructo. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Bones is a house and techno artist based in United States of America, tracked on
 
 ## Recently played
 
-- Koenji Cave, Tokyo — Sat, 5 Sept 2026
-- Terraza Dos Equis, Mexico City — Sun, 23 Aug 2026
-- Terraza Dos Equis, Mexico City — Sun, 28 Jun 2026
-- Cave, Tokyo — Sat, 13 Jun 2026
-- Plaza Klub, Zurich — Sun, 24 May 2026
-- Spkrbox, Detroit — Sun, 3 May 2026
-- Cave, Tokyo — Fri, 10 Apr 2026
-- Cave, Tokyo — Fri, 13 Feb 2026
+- Koenji Cave, Tokyo · Sat, 5 Sept 2026
+- Terraza Dos Equis, Mexico City · Sun, 23 Aug 2026
+- Terraza Dos Equis, Mexico City · Sun, 28 Jun 2026
+- Cave, Tokyo · Sat, 13 Jun 2026
+- Plaza Klub, Zurich · Sun, 24 May 2026
+- Spkrbox, Detroit · Sun, 3 May 2026
+- Cave, Tokyo · Fri, 10 Apr 2026
+- Cave, Tokyo · Fri, 13 Feb 2026
 
 ## Shares bills with
 

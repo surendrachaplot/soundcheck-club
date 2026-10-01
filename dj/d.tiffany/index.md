@@ -1,8 +1,8 @@
 # D. Tiffany
 
-D. Tiffany is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at public records, New York City on Fri, 16 Oct 2026.
+D. Tiffany is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Fri, 16 Oct 2026.
 
-D. Tiffany is a techno and house artist based in Canada, tracked on soundcheck, with 184 sets logged across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: public records, New York City on Fri 16 Oct.
+D. Tiffany is a techno and house artist based in Canada, with 184 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 49 more. Often billed alongside Roza Terenzi, Regularfantasy and Job Jobse. Next up: public records, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ D. Tiffany is a techno and house artist based in Canada, tracked on soundcheck, 
 
 ## Recently played
 
-- The San Francisco Mint, San Francisco/Oakland — Fri, 25 Sept 2026
-- Mansions, New York City — Thu, 17 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Société des arts technologiques, Montreal — Fri, 4 Sept 2026
-- Burgess Park, London — Sat, 15 Aug 2026
-- Burgess Park, London — Sat, 8 Aug 2026
-- Kvarteret, Stockholm — Sat, 1 Aug 2026
-- CLUB RAUM, Amsterdam — Fri, 31 Jul 2026
+- The San Francisco Mint, San Francisco/Oakland · Fri, 25 Sept 2026
+- Mansions, New York City · Thu, 17 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Société des arts technologiques, Montreal · Fri, 4 Sept 2026
+- Burgess Park, London · Sat, 15 Aug 2026
+- Burgess Park, London · Sat, 8 Aug 2026
+- Kvarteret, Stockholm · Sat, 1 Aug 2026
+- CLUB RAUM, Amsterdam · Fri, 31 Jul 2026
 
 ## Shares bills with
 

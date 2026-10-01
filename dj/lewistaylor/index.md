@@ -1,8 +1,8 @@
 # Lewis Taylor
 
-Lewis Taylor is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Lewis Taylor is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-Lewis Taylor is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Aberdeen, Amsterdam, Brighton and Bristol and 14 more. Often billed alongside Harry Robson, Ellia Jaya and Gaskin. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
+Lewis Taylor is a house and tech house artist based in United Kingdom, with 47 gigs on soundcheck across Aberdeen, Amsterdam, Brighton and Bristol and 14 more. Often billed alongside Harry Robson, Ellia Jaya and Gaskin. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Lewis Taylor is a house and tech house artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Cova Santa, Ibiza — Tue, 8 Sept 2026
-- Distrikt, Leeds — Sat, 22 Aug 2026
-- Thuishaven, Amsterdam — Sun, 16 Aug 2026
-- Index, Dublin — Sat, 8 Aug 2026
-- Binks Yard, Nottingham — Sat, 1 Aug 2026
-- Steelyard Kelham, Sheffield — Sat, 1 Aug 2026
-- Mint Warehouse, Leeds — Sat, 20 Jun 2026
-- Amnesia Ibiza, Ibiza — Tue, 16 Jun 2026
+- Cova Santa, Ibiza · Tue, 8 Sept 2026
+- Distrikt, Leeds · Sat, 22 Aug 2026
+- Thuishaven, Amsterdam · Sun, 16 Aug 2026
+- Index, Dublin · Sat, 8 Aug 2026
+- Binks Yard, Nottingham · Sat, 1 Aug 2026
+- Steelyard Kelham, Sheffield · Sat, 1 Aug 2026
+- Mint Warehouse, Leeds · Sat, 20 Jun 2026
+- Amnesia Ibiza, Ibiza · Tue, 16 Jun 2026
 
 ## Shares bills with
 

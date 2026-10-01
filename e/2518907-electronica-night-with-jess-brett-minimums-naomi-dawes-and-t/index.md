@@ -1,6 +1,6 @@
 # Electronica Night with Jess Brett, Minimums, Naomi Dawes and teknodriver at BPM Cafe
 
-Electronica Night with Jess Brett, Minimums, Naomi Dawes and teknodriver at BPM Cafe on Fri 23 Oct, Birmingham. Electronica. Preview the line-up and save it on soundcheck.
+Electronica Night with Jess Brett, Minimums, Naomi Dawes and teknodriver at BPM Cafe on Fri 23 Oct, Birmingham. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

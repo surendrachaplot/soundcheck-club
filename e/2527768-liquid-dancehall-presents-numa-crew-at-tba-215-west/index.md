@@ -1,6 +1,6 @@
 # Liquid Dancehall presents Numa Crew at TBA - 215 West
 
-Liquid Dancehall presents Numa Crew at TBA - 215 West on Sat 3 Oct, Detroit. Dub and Dubstep. Preview the line-up and save it on soundcheck.
+Liquid Dancehall presents Numa Crew at TBA - 215 West on Sat 3 Oct, Detroit. Dub and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

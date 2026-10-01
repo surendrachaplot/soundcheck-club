@@ -1,8 +1,8 @@
 # Sameheads
 
-Sameheads is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Semiotic Research Institute" on Thu, 1 Oct 2026.
+Sameheads is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Semiotic Research Institute" on Thu, 1 Oct 2026.
 
-Sameheads is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Anna Wall, Balearic Banana, Caillou and Carl Hang and 2 more. Browse upcoming dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
+Sameheads is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including Anna Wall, Balearic Banana, Caillou and Carl Hang and 2 more. See dates, start times and who's playing. Richardstrasse 10; Neukölln; 12043 Berlin; Germany.
 
 ## What's on
 
@@ -12,7 +12,7 @@ Sameheads is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, wit
 | Fri, 2 Oct 2026 | syn syn with Mor Elian, Jan Loup & Gramrcy | Gramrcy, Jan Loup, Mor Elian |
 | Sat, 3 Oct 2026 | MAXIMUM JOY | Luigi Di Venere, Maneta, Roberta Deflorio |
 | Thu, 8 Oct 2026 | CLUB KIDZ | Chikiss, Karolina Bnv, Leona Jacewska, Novo Line |
-| Thu, 8 Oct 2026 | Iptamenos Disco | Local Suicide, Mike Sacchetti |
+| Thu, 8 Oct 2026 | Iptamenos Discos | Local Suicide, Mike Sacchetti |
 | Fri, 9 Oct 2026 | Confusion is Next to Happiness | Anna Wall, Denzel, Kinzua |
 | Sat, 10 Oct 2026 | Banana Dance with Carl Hang & Meriem S | Balearic Banana, Carl Hang, Meriem S |
 | Fri, 16 Oct 2026 | KLAASH | Caillou, Electrosexual, Melanie Havens, Paty Vapor, Wisdom Tits |

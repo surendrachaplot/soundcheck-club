@@ -1,6 +1,6 @@
 # Golden Hour: Season Closer with WEMI, Arianna Danae, J. Hamilton at Koukla Espresso Bar
 
-Golden Hour: Season Closer with WEMI, Arianna Danae, J. Hamilton at Koukla Espresso Bar on Sat 3 Oct, New York City. 3 artists on the bill: Arianna Danae, J. Hamilton and WEMI. House and Afro House. Preview the line-up and save it on soundcheck.
+Golden Hour: Season Closer with WEMI, Arianna Danae, J. Hamilton at Koukla Espresso Bar on Sat 3 Oct, New York City. 3 artists: Arianna Danae, J. Hamilton and WEMI. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Resonance at OT301
 
-Resonance at OT301 on Fri 4 Dec, Amsterdam. Preview the line-up and save it on soundcheck.
+Resonance at OT301 on Fri 4 Dec, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

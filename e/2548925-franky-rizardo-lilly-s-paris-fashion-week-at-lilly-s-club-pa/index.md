@@ -1,6 +1,6 @@
 # Franky Rizardo - LILLY'S PARIS FASHION WEEK at Lilly''s Club Paris
 
-Franky Rizardo - LILLY'S PARIS FASHION WEEK at Lilly''s Club Paris on Sun 4 Oct, Paris. 1 artist on the bill: Franky Rizardo. Electro and Deep House. Preview the line-up and save it on soundcheck.
+Franky Rizardo - LILLY'S PARIS FASHION WEEK at Lilly''s Club Paris on Sun 4 Oct, Paris. 1 artist: Franky Rizardo. Electro and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

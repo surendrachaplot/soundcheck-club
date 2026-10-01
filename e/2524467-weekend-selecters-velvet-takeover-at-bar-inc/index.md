@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS -VELVET TAKEOVER- at BAR Inc
 
-WEEKEND SELECTERS -VELVET TAKEOVER- at BAR Inc on Fri 9 Oct, Osaka. 2 artists on the bill: DVDE and Ryu. House and Disco. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS -VELVET TAKEOVER- at BAR Inc on Fri 9 Oct, Osaka. 2 artists: DVDE and Ryu. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

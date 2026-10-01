@@ -1,6 +1,6 @@
 # Clôture Actoral Festival @ Petit Cab at Petit CAB
 
-Clôture Actoral Festival @ Petit Cab at Petit CAB on Sat 10 Oct, Marseille. Preview the line-up and save it on soundcheck.
+Clôture Actoral Festival @ Petit Cab at Petit CAB on Sat 10 Oct, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

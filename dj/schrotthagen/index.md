@@ -1,8 +1,8 @@
 # Schrotthagen
 
-Schrotthagen is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Komplex Klub, Zurich on Fri, 9 Oct 2026.
+Schrotthagen is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Komplex Klub, Zurich on Fri, 9 Oct 2026.
 
-Schrotthagen is a techno and trance artist based in Germany, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside A.N.I., PRADA2000 and Somewhen. Next up: Komplex Klub, Zurich on Fri 9 Oct.
+Schrotthagen is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside A.N.I., PRADA2000 and Somewhen. Next up: Komplex Klub, Zurich on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Schrotthagen is a techno and trance artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Junkyard Dortmund, Dortmund-essen — Sat, 26 Sept 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 19 Sept 2026
-- Het Sieraad, Amsterdam — Fri, 18 Sept 2026
-- Fridas Pier, Stuttgart — Fri, 4 Sept 2026
-- Marienbergpark, Nürnberg — Sat, 29 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Donauinsel, Vienna — Sat, 1 Aug 2026
-- Olympia Reitanlage Riem, Munich — Sat, 13 Jun 2026
+- Junkyard Dortmund, Dortmund-essen · Sat, 26 Sept 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sat, 19 Sept 2026
+- Het Sieraad, Amsterdam · Fri, 18 Sept 2026
+- Fridas Pier, Stuttgart · Fri, 4 Sept 2026
+- Marienbergpark, Nürnberg · Sat, 29 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Donauinsel, Vienna · Sat, 1 Aug 2026
+- Olympia Reitanlage Riem, Munich · Sat, 13 Jun 2026
 
 ## Shares bills with
 

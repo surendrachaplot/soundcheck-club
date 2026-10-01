@@ -1,6 +1,6 @@
 # Eskalation with Die Gebrüder Brett, KaaCee KomaCasper, Justin Prince, SAGEZZA at Ritter Butzke
 
-Eskalation with Die Gebrüder Brett, KaaCee KomaCasper, Justin Prince, SAGEZZA at Ritter Butzke on Fri 11 Dec, Berlin. 1 artist on the bill: Justin Prince. Techno. Preview the line-up and save it on soundcheck.
+Eskalation with Die Gebrüder Brett, KaaCee KomaCasper, Justin Prince, SAGEZZA at Ritter Butzke on Fri 11 Dec, Berlin. 1 artist: Justin Prince. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

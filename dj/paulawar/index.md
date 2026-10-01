@@ -1,8 +1,8 @@
 # Paulawar
 
-Paulawar is a Bass and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
+Paulawar is a Bass and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
 
-Paulawar is a bass and reggaeton artist based in Chile, tracked on soundcheck, with 31 sets logged across Berlin and Paris. Often billed alongside Taradud, PAULAH and Dakn. Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
+Paulawar is a bass and reggaeton artist based in Chile, with 31 gigs on soundcheck across Berlin and Paris. Often billed alongside Taradud, PAULAH and Dakn. Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Paulawar is a bass and reggaeton artist based in Chile, tracked on soundcheck, w
 
 ## Recently played
 
-- Panke, Berlin — Sat, 22 Aug 2026
-- Crack Bellmer, Berlin — Sat, 23 May 2026
-- TBA - maybachufer 16, Berlin — Sun, 17 May 2026
-- 90mil, Berlin — Sat, 2 May 2026
-- TBA - LADEN 2 , Berlin — Fri, 1 May 2026
-- 90mil, Berlin — Fri, 1 May 2026
-- Panke, Berlin — Sat, 13 Dec 2025
-- Glogauair, Berlin — Fri, 5 Dec 2025
+- Panke, Berlin · Sat, 22 Aug 2026
+- Crack Bellmer, Berlin · Sat, 23 May 2026
+- TBA - maybachufer 16, Berlin · Sun, 17 May 2026
+- 90mil, Berlin · Sat, 2 May 2026
+- TBA - LADEN 2 , Berlin · Fri, 1 May 2026
+- 90mil, Berlin · Fri, 1 May 2026
+- Panke, Berlin · Sat, 13 Dec 2025
+- Glogauair, Berlin · Fri, 5 Dec 2025
 
 ## Shares bills with
 

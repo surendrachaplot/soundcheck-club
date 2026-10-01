@@ -1,6 +1,6 @@
 # Substance Fest San Francisco Night #3 at Great American Music Hall
 
-Substance Fest San Francisco Night #3 at Great American Music Hall on Thu 29 Oct, San Francisco/Oakland. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Substance Fest San Francisco Night #3 at Great American Music Hall on Thu 29 Oct, San Francisco/Oakland. EBM and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

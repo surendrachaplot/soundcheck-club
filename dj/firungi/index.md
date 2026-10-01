@@ -1,8 +1,8 @@
 # Firungi
 
-Firungi is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 1444 Dupont, Toronto on Fri, 16 Oct 2026.
+Firungi is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 1444 Dupont, Toronto on Fri, 16 Oct 2026.
 
-Firungi is an afro house and house artist based in United States of America, tracked on soundcheck, with 27 sets logged across Amsterdam, New York City, Seattle and Toronto and 1 more. Often billed alongside Anyasa, Harji and ANSWER (IN). Next up: 1444 Dupont, Toronto on Fri 16 Oct.
+Firungi is an afro house and house artist based in United States of America, with 27 gigs on soundcheck across Amsterdam, New York City, Seattle and Toronto and 1 more. Often billed alongside Anyasa, Harji and ANSWER (IN). Next up: 1444 Dupont, Toronto on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Firungi is an afro house and house artist based in United States of America, tra
 
 ## Recently played
 
-- SILO, New York City — Sat, 26 Sept 2026
-- Musica Club NYC, New York City — Sun, 14 Jun 2026
-- Superior Ingredients, New York City — Sun, 15 Feb 2026
-- TBA, Washington DC — Sat, 6 Dec 2025
-- Elsewhere, New York City — Sat, 22 Nov 2025
-- The Monkey Loft, Seattle — Sun, 10 Aug 2025
-- Superior Ingredients, New York City — Fri, 25 Jul 2025
-- Outer Heaven, New York City — Thu, 24 Jul 2025
+- SILO, New York City · Sat, 26 Sept 2026
+- Musica Club NYC, New York City · Sun, 14 Jun 2026
+- Superior Ingredients, New York City · Sun, 15 Feb 2026
+- TBA, Washington DC · Sat, 6 Dec 2025
+- Elsewhere, New York City · Sat, 22 Nov 2025
+- The Monkey Loft, Seattle · Sun, 10 Aug 2025
+- Superior Ingredients, New York City · Fri, 25 Jul 2025
+- Outer Heaven, New York City · Thu, 24 Jul 2025
 
 ## Shares bills with
 

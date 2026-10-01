@@ -1,26 +1,27 @@
 # DIØN
 
-DIØN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+DIØN is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-DIØN is a techno and house artist based in Netherlands, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Cynthia Spiering, Alignment and Shlømo. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+DIØN is a techno and house artist based in Netherlands, with 106 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Cynthia Spiering, Alignment and Shlømo. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
+| Sat, 28 Nov 2026 | Patronaat | Amsterdam |
 | Sat, 19 Dec 2026 | KABUL à GoGo | Utrecht |
 
 ## Recently played
 
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- Strijkviertel, Utrecht — Sat, 5 Sept 2026
-- BERHTA, Washington DC — Sat, 1 Aug 2026
-- Under the K Bridge, New York City — Fri, 31 Jul 2026
-- Thuishaven, Amsterdam — Sun, 21 Jun 2026
-- Kralingse Bos, Rotterdam — Sat, 13 Jun 2026
-- Academy LA, Los Angeles — Fri, 29 May 2026
-- 1015 Folsom, San Francisco/Oakland — Thu, 28 May 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- Strijkviertel, Utrecht · Sat, 5 Sept 2026
+- BERHTA, Washington DC · Sat, 1 Aug 2026
+- Under the K Bridge, New York City · Fri, 31 Jul 2026
+- Thuishaven, Amsterdam · Sun, 21 Jun 2026
+- Kralingse Bos, Rotterdam · Sat, 13 Jun 2026
+- Academy LA, Los Angeles · Fri, 29 May 2026
+- 1015 Folsom, San Francisco/Oakland · Thu, 28 May 2026
 
 ## Shares bills with
 

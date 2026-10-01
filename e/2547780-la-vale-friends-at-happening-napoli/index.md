@@ -1,6 +1,6 @@
 # La Vale & Friends at Happening Napoli
 
-La Vale & Friends at Happening Napoli on Fri 2 Oct, Naples. House. Preview the line-up and save it on soundcheck.
+La Vale & Friends at Happening Napoli on Fri 2 Oct, Naples. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

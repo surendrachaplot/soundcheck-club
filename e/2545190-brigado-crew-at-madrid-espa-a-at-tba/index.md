@@ -1,6 +1,6 @@
 # Brigado Crew at madrid - españa at TBA
 
-Brigado Crew at madrid - españa at TBA on Sat 17 Oct, Madrid. 1 artist on the bill: Brigado Crew. Preview the line-up and save it on soundcheck.
+Brigado Crew at madrid - españa at TBA on Sat 17 Oct, Madrid. 1 artist: Brigado Crew. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

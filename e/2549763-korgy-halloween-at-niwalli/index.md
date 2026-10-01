@@ -1,6 +1,6 @@
 # KORGY HALLOWEEN at Ääniwalli
 
-KORGY HALLOWEEN at Ääniwalli on Sat 31 Oct, Helsinki. 8 artists on the bill: CEB (FI), fka.m4a, JENY and KEMIK and 4 more. Preview the line-up and save it on soundcheck.
+KORGY HALLOWEEN at Ääniwalli on Sat 31 Oct, Helsinki. 8 artists: CEB (FI), fka.m4a, JENY and KEMIK and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

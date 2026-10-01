@@ -1,6 +1,6 @@
 # Eau De Cologne at Bassiani
 
-Eau De Cologne at Bassiani on Sat 24 Oct, Tbilisi. 4 artists on the bill: Citizens Union, Kiddy Smile, Natuta and vince. Preview the line-up and save it on soundcheck.
+Eau De Cologne at Bassiani on Sat 24 Oct, Tbilisi. 4 artists: Citizens Union, Kiddy Smile, Natuta and vince. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

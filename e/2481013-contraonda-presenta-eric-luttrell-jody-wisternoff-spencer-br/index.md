@@ -1,6 +1,6 @@
 # Contraonda presenta: Eric Luttrell, Jody Wisternoff, Spencer Brown at Foro Basement
 
-Contraonda presenta: Eric Luttrell, Jody Wisternoff, Spencer Brown at Foro Basement on Fri 30 Oct, Mexico City. 3 artists on the bill: Jody Wisternoff, Luttrell and Spencer Brown. Progressive House and House. Preview the line-up and save it on soundcheck.
+Contraonda presenta: Eric Luttrell, Jody Wisternoff, Spencer Brown at Foro Basement on Fri 30 Oct, Mexico City. 3 artists: Jody Wisternoff, Luttrell and Spencer Brown. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

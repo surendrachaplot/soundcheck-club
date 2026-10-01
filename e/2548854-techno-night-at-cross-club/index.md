@@ -1,6 +1,6 @@
 # TECHNO NIGHT at Cross Club
 
-TECHNO NIGHT at Cross Club on Wed 7 Oct, Prague. Preview the line-up and save it on soundcheck.
+TECHNO NIGHT at Cross Club on Wed 7 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

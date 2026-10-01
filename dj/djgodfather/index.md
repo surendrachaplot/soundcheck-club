@@ -1,8 +1,8 @@
 # DJ Godfather
 
-DJ Godfather is a Techno and Electro artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Downtown LA, Los Angeles on Fri, 2 Oct 2026.
+DJ Godfather is a Techno and Electro artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Downtown LA, Los Angeles on Fri, 2 Oct 2026.
 
-DJ Godfather is a techno and electro artist based in United States of America, tracked on soundcheck, with 79 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: TBA - Downtown LA, Los Angeles on Fri 2 Oct.
+DJ Godfather is a techno and electro artist based in United States of America, with 79 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside Sheefy McFly, Disc Jockey George and Stacey Hotwaxx Hale. Next up: TBA - Downtown LA, Los Angeles on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ DJ Godfather is a techno and electro artist based in United States of America, t
 
 ## Recently played
 
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- 3fifty Terrace, Detroit — Mon, 7 Sept 2026
-- smartbar, Chicago — Fri, 28 Aug 2026
-- Lincoln Factory, Detroit — Fri, 28 Aug 2026
-- Sonnenraum, Berlin — Sun, 16 Aug 2026
-- Eventhuset, Stockholm — Sat, 15 Aug 2026
-- Karmen Camina, Strasbourg — Sat, 15 Aug 2026
-- El Club, Detroit — Sat, 8 Aug 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- 3fifty Terrace, Detroit · Mon, 7 Sept 2026
+- smartbar, Chicago · Fri, 28 Aug 2026
+- Lincoln Factory, Detroit · Fri, 28 Aug 2026
+- Sonnenraum, Berlin · Sun, 16 Aug 2026
+- Eventhuset, Stockholm · Sat, 15 Aug 2026
+- Karmen Camina, Strasbourg · Sat, 15 Aug 2026
+- El Club, Detroit · Sat, 8 Aug 2026
 
 ## Shares bills with
 

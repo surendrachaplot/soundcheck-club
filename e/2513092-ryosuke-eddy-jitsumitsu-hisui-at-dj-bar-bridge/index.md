@@ -1,6 +1,6 @@
 # RYOSUKE, EDDY, JITSUMITSU & HISUI at DJ Bar Bridge
 
-RYOSUKE, EDDY, JITSUMITSU & HISUI at DJ Bar Bridge on Tue 13 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+RYOSUKE, EDDY, JITSUMITSU & HISUI at DJ Bar Bridge on Tue 13 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

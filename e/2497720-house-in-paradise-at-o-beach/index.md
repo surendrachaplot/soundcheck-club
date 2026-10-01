@@ -1,6 +1,6 @@
 # HOUSE IN PARADISE at O Beach
 
-HOUSE IN PARADISE at O Beach on Wed 7 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+HOUSE IN PARADISE at O Beach on Wed 7 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

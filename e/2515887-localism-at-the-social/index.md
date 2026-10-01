@@ -1,6 +1,6 @@
 # LOCALISM at The Social
 
-LOCALISM at The Social on Fri 9 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+LOCALISM at The Social on Fri 9 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

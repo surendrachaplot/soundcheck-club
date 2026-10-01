@@ -1,6 +1,6 @@
 # Lunch Break Dance Party at The Foundry
 
-Lunch Break Dance Party at The Foundry on Thu 8 Oct, Boston. Funk / Soul and Pop. Preview the line-up and save it on soundcheck.
+Lunch Break Dance Party at The Foundry on Thu 8 Oct, Boston. Funk / Soul and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

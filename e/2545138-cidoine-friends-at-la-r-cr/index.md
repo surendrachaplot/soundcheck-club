@@ -1,6 +1,6 @@
 # Cidoine & Friends at La Récré
 
-Cidoine & Friends at La Récré on Fri 27 Nov, Montreal. 4 artists on the bill: Cidoine, Frits Wentink, Silktits and wetdogg. Electro and Acid. Preview the line-up and save it on soundcheck.
+Cidoine & Friends at La Récré on Fri 27 Nov, Montreal. 4 artists: Cidoine, Frits Wentink, Silktits and wetdogg. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

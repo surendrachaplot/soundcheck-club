@@ -1,6 +1,6 @@
 # Kings Turntable [07.11.26] at Kings Arms E2
 
-Kings Turntable [07.11.26] at Kings Arms E2 on Sat 7 Nov, London. Preview the line-up and save it on soundcheck.
+Kings Turntable [07.11.26] at Kings Arms E2 on Sat 7 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

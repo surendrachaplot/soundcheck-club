@@ -1,8 +1,8 @@
 # Max Styler
 
-Max Styler is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Shrine Auditorium and Expo Hall, Los Angeles on Sat, 3 Oct 2026.
+Max Styler is a House and Tech House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Shrine Auditorium and Expo Hall, Los Angeles on Sat, 3 Oct 2026.
 
-Max Styler is a house and tech house artist based in United States of America, tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Barcelona and Berlin and 35 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Sat 3 Oct.
+Max Styler is a house and tech house artist based in United States of America, with 125 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 35 more. Often billed alongside Layton Giordani, John Summit and Eli Brown. Next up: Shrine Auditorium and Expo Hall, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Max Styler is a house and tech house artist based in United States of America, t
 
 ## Recently played
 
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Pacha Ibiza, Ibiza — Sun, 23 Aug 2026
-- TBA - Palacio Alsina, Microcentro, Buenos Aires — Sat, 8 Aug 2026
-- Radius, Chicago — Sat, 1 Aug 2026
-- Fabrik, Madrid — Sat, 18 Jul 2026
-- [UNVRS], Ibiza — Tue, 7 Jul 2026
-- Cavo Paradiso, Mykonos — Sun, 5 Jul 2026
-- [UNVRS], Ibiza — Sat, 4 Jul 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Pacha Ibiza, Ibiza · Sun, 23 Aug 2026
+- TBA - Palacio Alsina, Microcentro, Buenos Aires · Sat, 8 Aug 2026
+- Radius, Chicago · Sat, 1 Aug 2026
+- Fabrik, Madrid · Sat, 18 Jul 2026
+- [UNVRS], Ibiza · Tue, 7 Jul 2026
+- Cavo Paradiso, Mykonos · Sun, 5 Jul 2026
+- [UNVRS], Ibiza · Sat, 4 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Perreo on the Roof Halloween Latin & Reggaeton Rooftop Dance Party NYC at High Bar New York
 
-Perreo on the Roof Halloween Latin & Reggaeton Rooftop Dance Party NYC at High Bar New York on Fri 30 Oct, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
+Perreo on the Roof Halloween Latin & Reggaeton Rooftop Dance Party NYC at High Bar New York on Fri 30 Oct, New York City. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

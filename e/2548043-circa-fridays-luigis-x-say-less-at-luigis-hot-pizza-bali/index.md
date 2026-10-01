@@ -1,6 +1,6 @@
 # CIRCA Fridays Luigis x SAY LESS at Luigis Hot Pizza Bali
 
-CIRCA Fridays Luigis x SAY LESS at Luigis Hot Pizza Bali on Fri 2 Oct, Bali. House and Garage. Preview the line-up and save it on soundcheck.
+CIRCA Fridays Luigis x SAY LESS at Luigis Hot Pizza Bali on Fri 2 Oct, Bali. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

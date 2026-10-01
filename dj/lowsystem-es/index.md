@@ -1,8 +1,8 @@
 # Lowsystem
 
-Lowsystem is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
+Lowsystem is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lasociaciøn, Madrid on Sat, 17 Oct 2026.
 
-Lowsystem is a techno and electronica artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona, London, Madrid and Porto. Often billed alongside MÄEM, Audiolux and Blaark. Next up: Lasociaciøn, Madrid on Sat 17 Oct.
+Lowsystem is a techno and electronica artist based in Spain, with 26 gigs on soundcheck across Barcelona, London, Madrid and Porto. Often billed alongside MÄEM, Audiolux and Blaark. Next up: Lasociaciøn, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lowsystem is a techno and electronica artist based in Spain, tracked on soundche
 
 ## Recently played
 
-- Studio76 Club, Madrid — Sat, 6 Jun 2026
-- Lasociaciøn, Madrid — Sat, 9 May 2026
-- Bridge 48, Barcelona — Thu, 30 Apr 2026
-- TBA - SECRET LOCATION / EAST BARCELONA , Barcelona — Sat, 25 Apr 2026
-- Gare Porto, Porto — Sat, 4 Apr 2026
-- Macarena Club, Barcelona — Sun, 9 Nov 2025
-- Lasociaciøn, Madrid — Sat, 18 Oct 2025
-- RED58, Barcelona — Sat, 9 Aug 2025
+- Studio76 Club, Madrid · Sat, 6 Jun 2026
+- Lasociaciøn, Madrid · Sat, 9 May 2026
+- Bridge 48, Barcelona · Thu, 30 Apr 2026
+- TBA - SECRET LOCATION / EAST BARCELONA , Barcelona · Sat, 25 Apr 2026
+- Gare Porto, Porto · Sat, 4 Apr 2026
+- Macarena Club, Barcelona · Sun, 9 Nov 2025
+- Lasociaciøn, Madrid · Sat, 18 Oct 2025
+- RED58, Barcelona · Sat, 9 Aug 2025
 
 ## Shares bills with
 

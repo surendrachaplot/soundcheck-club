@@ -1,6 +1,6 @@
 # ADE: Louis Andriessen's Hoketus at Muziekgebouw aan t' IJ
 
-ADE: Louis Andriessen's Hoketus at Muziekgebouw aan t' IJ on Thu 22 Oct, Amsterdam. Minimal. Preview the line-up and save it on soundcheck.
+ADE: Louis Andriessen's Hoketus at Muziekgebouw aan t' IJ on Thu 22 Oct, Amsterdam. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

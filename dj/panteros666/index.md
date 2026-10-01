@@ -1,8 +1,8 @@
 # Panteros666
 
-Panteros666 is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
+Panteros666 is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
 
-Panteros666 is a trance and techno artist based in France, tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Die Klar, Part Time Killer and TDJ. Next up: The Hifi Club, Leeds on Sat 17 Oct.
+Panteros666 is a trance and techno artist based in France, with 95 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Die Klar, Part Time Killer and TDJ. Next up: The Hifi Club, Leeds on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Panteros666 is a trance and techno artist based in France, tracked on soundcheck
 
 ## Recently played
 
-- Smolna, Warsaw — Fri, 18 Sept 2026
-- La Machine Du Moulin Rouge, Paris — Fri, 11 Sept 2026
-- Antwerp Expo, Antwerp — Sun, 23 Aug 2026
-- Antwerp Expo, Antwerp — Sun, 23 Aug 2026
-- Downsview Park, Toronto — Fri, 31 Jul 2026
-- Karmen Camina, Strasbourg — Fri, 10 Jul 2026
-- Garage Klub, Antwerp — Fri, 26 Jun 2026
-- TBA - Brooklyn, New York City — Sat, 6 Jun 2026
+- Smolna, Warsaw · Fri, 18 Sept 2026
+- La Machine Du Moulin Rouge, Paris · Fri, 11 Sept 2026
+- Antwerp Expo, Antwerp · Sun, 23 Aug 2026
+- Antwerp Expo, Antwerp · Sun, 23 Aug 2026
+- Downsview Park, Toronto · Fri, 31 Jul 2026
+- Karmen Camina, Strasbourg · Fri, 10 Jul 2026
+- Garage Klub, Antwerp · Fri, 26 Jun 2026
+- TBA - Brooklyn, New York City · Sat, 6 Jun 2026
 
 ## Shares bills with
 

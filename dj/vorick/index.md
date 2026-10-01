@@ -1,8 +1,8 @@
 # Vorick
 
-Vorick is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
+Vorick is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Inter Expo Centre, Sofia on Fri, 16 Oct 2026.
 
-Vorick is a techno artist based in Bulgaria, tracked on soundcheck, with 5 sets logged across London, Paris and Sofia. Often billed alongside Fantasm, HUMAN ERROR and KLOFAMA. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
+Vorick is a techno artist based in Bulgaria, with 5 gigs on soundcheck across London, Paris and Sofia. Often billed alongside Fantasm, HUMAN ERROR and KLOFAMA. Next up: Inter Expo Centre, Sofia on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,9 +13,9 @@ Vorick is a techno artist based in Bulgaria, tracked on soundcheck, with 5 sets 
 
 ## Recently played
 
-- E1, London — Fri, 10 Jul 2026
-- Nexus, Paris — Fri, 13 Jun 2025
-- Nexus, Paris — Fri, 3 Jan 2025
+- E1, London · Fri, 10 Jul 2026
+- Nexus, Paris · Fri, 13 Jun 2025
+- Nexus, Paris · Fri, 3 Jan 2025
 
 ## Shares bills with
 

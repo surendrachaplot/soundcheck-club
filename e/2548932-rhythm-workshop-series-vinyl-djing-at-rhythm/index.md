@@ -1,6 +1,6 @@
 # Rhythm Workshop Series: Vinyl DJing at Rhythm
 
-Rhythm Workshop Series: Vinyl DJing on Wed 7 Oct, Toronto. 1 artist on the bill: Thomas James. Preview the line-up and save it on soundcheck.
+Rhythm Workshop Series: Vinyl DJing on Wed 7 Oct, Toronto. 1 artist: Thomas James. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

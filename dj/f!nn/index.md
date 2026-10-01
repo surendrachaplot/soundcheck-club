@@ -1,8 +1,8 @@
 # F!NN
 
-F!NN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
+F!NN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
 
-F!NN is a techno and house artist based in Germany, tracked on soundcheck, with 10 sets logged across Hamburg and Melbourne. Often billed alongside Cornyjava, Limpid and EXPLICIT. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
+F!NN is a techno and house artist based in Germany, with 10 gigs on soundcheck across Hamburg and Melbourne. Often billed alongside Cornyjava, Limpid and EXPLICIT. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ F!NN is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
-- Angel Music Bar, Melbourne — Fri, 7 Aug 2026
-- Stadtpark Norderstedt, Hamburg — Sat, 25 Jul 2026
-- Club Frau Holle, Hamburg — Sat, 6 Jun 2026
-- Club Frau Holle, Hamburg — Sat, 16 May 2026
-- Fabrique im Gängeviertel, Hamburg — Sat, 14 Feb 2026
-- Fabrique im Gängeviertel, Hamburg — Fri, 12 Sept 2025
-- Buxtehude, Hamburg — Sat, 9 Aug 2025
-- Hafenklang, Hamburg — Fri, 20 Jun 2025
+- Angel Music Bar, Melbourne · Fri, 7 Aug 2026
+- Stadtpark Norderstedt, Hamburg · Sat, 25 Jul 2026
+- Club Frau Holle, Hamburg · Sat, 6 Jun 2026
+- Club Frau Holle, Hamburg · Sat, 16 May 2026
+- Fabrique im Gängeviertel, Hamburg · Sat, 14 Feb 2026
+- Fabrique im Gängeviertel, Hamburg · Fri, 12 Sept 2025
+- Buxtehude, Hamburg · Sat, 9 Aug 2025
+- Hafenklang, Hamburg · Fri, 20 Jun 2025
 
 ## Shares bills with
 

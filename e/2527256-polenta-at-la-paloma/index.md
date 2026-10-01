@@ -1,6 +1,6 @@
 # POLENTA at La Paloma
 
-POLENTA at La Paloma on Sat 24 Oct, Barcelona. Reggaeton. Preview the line-up and save it on soundcheck.
+POLENTA at La Paloma on Sat 24 Oct, Barcelona. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

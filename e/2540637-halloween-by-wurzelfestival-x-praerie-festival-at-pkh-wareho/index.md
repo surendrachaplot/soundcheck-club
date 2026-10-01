@@ -1,6 +1,6 @@
 # Halloween by Wurzelfestival x Praerie Festival at PKH Warehouse
 
-Halloween by Wurzelfestival x Praerie Festival at PKH Warehouse on Sat 31 Oct, Berlin. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Halloween by Wurzelfestival x Praerie Festival at PKH Warehouse on Sat 31 Oct, Berlin. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

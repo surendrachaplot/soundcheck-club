@@ -1,6 +1,6 @@
 # Nervous Records ADE Mixer 2026 at Bordello Aperitivo
 
-Nervous Records ADE Mixer 2026 at Bordello Aperitivo on Sat 24 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+Nervous Records ADE Mixer 2026 at Bordello Aperitivo on Sat 24 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

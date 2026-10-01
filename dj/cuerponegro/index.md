@@ -1,8 +1,8 @@
 # Cuerpo Negro
 
-Cuerpo Negro is a Latin Bass and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Felons Barrel Hall, Brisbane on Fri, 2 Oct 2026.
+Cuerpo Negro is a Latin Bass and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Felons Barrel Hall, Brisbane on Fri, 2 Oct 2026.
 
-Cuerpo Negro is a latin bass and electronica artist based in Colombia, tracked on soundcheck, with 13 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Otorongo, La Payara and Martha van Straaten. Next up: Felons Barrel Hall, Brisbane on Fri 2 Oct.
+Cuerpo Negro is a latin bass and electronica artist based in Colombia, with 13 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Otorongo, La Payara and Martha van Straaten. Next up: Felons Barrel Hall, Brisbane on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Cuerpo Negro is a latin bass and electronica artist based in Colombia, tracked o
 
 ## Recently played
 
-- Felons Barrel Hall, Brisbane — Fri, 4 Sept 2026
-- Felons Barrel Hall, Brisbane — Thu, 2 Apr 2026
-- Felons Barrel Hall, Brisbane — Fri, 6 Jun 2025
-- Lucky Coq, Melbourne — Sat, 11 Jan 2025
-- Felons Barrel Hall, Brisbane — Sat, 9 Nov 2024
-- The Evelyn Hotel, Melbourne — Fri, 8 Nov 2024
-- Killing Time, Melbourne — Fri, 27 Sept 2024
-- Northcote Social Club, Melbourne — Thu, 28 Mar 2024
+- Felons Barrel Hall, Brisbane · Fri, 4 Sept 2026
+- Felons Barrel Hall, Brisbane · Thu, 2 Apr 2026
+- Felons Barrel Hall, Brisbane · Fri, 6 Jun 2025
+- Lucky Coq, Melbourne · Sat, 11 Jan 2025
+- Felons Barrel Hall, Brisbane · Sat, 9 Nov 2024
+- The Evelyn Hotel, Melbourne · Fri, 8 Nov 2024
+- Killing Time, Melbourne · Fri, 27 Sept 2024
+- Northcote Social Club, Melbourne · Thu, 28 Mar 2024
 
 ## Shares bills with
 

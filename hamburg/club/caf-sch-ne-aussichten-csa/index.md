@@ -1,8 +1,8 @@
 # Café Schöne Aussichten (CSA)
 
-Café Schöne Aussichten (CSA) is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "AOS CLUB W/ Egyptian Lover" on Sun, 25 Oct 2026.
+Café Schöne Aussichten (CSA) is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "AOS CLUB W/ Egyptian Lover" on Sun, 25 Oct 2026.
 
-Café Schöne Aussichten (CSA) is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Bronka, Carl Hang, DJ Babyblade and DJ SOURCE and 2 more. Browse upcoming dates, start times and who's playing. Gorch-Fock-Wall 4, 20354 Hamburg, Germany.
+Café Schöne Aussichten (CSA) is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Bronka, Carl Hang, DJ Babyblade and DJ SOURCE and 2 more. See dates, start times and who's playing. Gorch-Fock-Wall 4, 20354 Hamburg, Germany.
 
 ## What's on
 

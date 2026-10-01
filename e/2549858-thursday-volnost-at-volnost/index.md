@@ -1,6 +1,6 @@
 # Thursday Volnost at Volnost
 
-Thursday Volnost on Thu 1 Oct, Seoul. 1 artist on the bill: Deekay. Techno. Preview the line-up and save it on soundcheck.
+Thursday Volnost on Thu 1 Oct, Seoul. 1 artist: Deekay. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

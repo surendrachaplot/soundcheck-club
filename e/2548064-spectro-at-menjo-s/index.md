@@ -1,6 +1,6 @@
 # SPECTRO at Menjo's
 
-SPECTRO at Menjo's on Sat 3 Oct, Detroit. 2 artists on the bill: Dru Ruiz and LATEX GIRL. Preview the line-up and save it on soundcheck.
+SPECTRO at Menjo's on Sat 3 Oct, Detroit. 2 artists: Dru Ruiz and LATEX GIRL. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kinder Rave x BOSSA FM - Berlin at Festsaal Kreuzberg
 
-Kinder Rave x BOSSA FM - Berlin at Festsaal Kreuzberg on Sun 4 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Kinder Rave x BOSSA FM - Berlin at Festsaal Kreuzberg on Sun 4 Oct, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

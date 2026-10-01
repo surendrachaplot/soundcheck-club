@@ -1,6 +1,6 @@
 # Hayes with NEO, CRAVO at Gare Porto
 
-Hayes with NEO, CRAVO at Gare Porto on Fri 16 Oct, Porto. 1 artist on the bill: CRAVO. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Hayes with NEO, CRAVO at Gare Porto on Fri 16 Oct, Porto. 1 artist: CRAVO. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 'Black Is...' at Alte Feuerwache THF
 
-'Black Is...' at Alte Feuerwache THF on Fri 16 Oct, Berlin. 4 artists on the bill: Caesarr, DTM Funk, KRTS and ZENA. House and Bass. Preview the line-up and save it on soundcheck.
+'Black Is...' at Alte Feuerwache THF on Fri 16 Oct, Berlin. 4 artists: Caesarr, DTM Funk, KRTS and ZENA. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

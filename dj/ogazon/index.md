@@ -1,8 +1,8 @@
 # Ogazón
 
-Ogazón is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Ogazón is a Techno and House artist with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Ogazón is a techno and house artist based in Luxembourg, tracked on soundcheck, with 283 sets logged across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Ogazón is a techno and house artist based in Luxembourg, with 283 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 64 more. Often billed alongside Ryan Elliott, Marcel Dettmann and BASHKKA. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Ogazón is a techno and house artist based in Luxembourg, tracked on soundcheck,
 
 ## Recently played
 
-- Potato Head Beach Club, Bali — Sat, 26 Sept 2026
-- Klymax Discotheque, Bali — Sat, 26 Sept 2026
-- RASA, Singapore — Fri, 25 Sept 2026
-- Trädgården, Stockholm — Sat, 19 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- BASEMENT, New York City — Fri, 11 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Hive Club, Zurich — Fri, 28 Aug 2026
+- Potato Head Beach Club, Bali · Sat, 26 Sept 2026
+- Klymax Discotheque, Bali · Sat, 26 Sept 2026
+- RASA, Singapore · Fri, 25 Sept 2026
+- Trädgården, Stockholm · Sat, 19 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- BASEMENT, New York City · Fri, 11 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Hive Club, Zurich · Fri, 28 Aug 2026
 
 ## Shares bills with
 

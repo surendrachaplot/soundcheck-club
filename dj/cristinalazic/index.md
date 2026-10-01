@@ -1,8 +1,8 @@
 # Cristina Lazic
 
-Cristina Lazic is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Het Sieraad, Amsterdam on Fri, 2 Oct 2026.
+Cristina Lazic is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Het Sieraad, Amsterdam on Fri, 2 Oct 2026.
 
-Cristina Lazic is a house and tech house artist based in Italy, tracked on soundcheck, with 83 sets logged across Amsterdam, Athens, Austria and Barcelona and 20 more. Often billed alongside East End Dubs, Hot Since 82 and Joseph Capriati. Next up: Het Sieraad, Amsterdam on Fri 2 Oct.
+Cristina Lazic is a house and tech house artist based in Italy, with 83 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 20 more. Often billed alongside East End Dubs, Hot Since 82 and Joseph Capriati. Next up: Het Sieraad, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Cristina Lazic is a house and tech house artist based in Italy, tracked on sound
 
 ## Recently played
 
-- Document, Bristol — Fri, 25 Sept 2026
-- Balagan Roma, Rome — Fri, 18 Sept 2026
-- Les Enfants Brillants, Barcelona — Fri, 28 Aug 2026
-- Quinta do Miratejo, Lisbon — Sun, 16 Aug 2026
-- Collect - Cais do Sodre, Lisbon — Fri, 14 Aug 2026
-- Playa Soleil Ibiza, Ibiza — Wed, 5 Aug 2026
-- Studio Club Malaga, Malaga — Sat, 18 Jul 2026
-- fabric, London — Sat, 11 Jul 2026
+- Document, Bristol · Fri, 25 Sept 2026
+- Balagan Roma, Rome · Fri, 18 Sept 2026
+- Les Enfants Brillants, Barcelona · Fri, 28 Aug 2026
+- Quinta do Miratejo, Lisbon · Sun, 16 Aug 2026
+- Collect - Cais do Sodre, Lisbon · Fri, 14 Aug 2026
+- Playa Soleil Ibiza, Ibiza · Wed, 5 Aug 2026
+- Studio Club Malaga, Malaga · Sat, 18 Jul 2026
+- fabric, London · Sat, 11 Jul 2026
 
 ## Shares bills with
 

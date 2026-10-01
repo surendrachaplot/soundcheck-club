@@ -1,6 +1,6 @@
 # UNCHARTED TIME at R Lounge
 
-UNCHARTED TIME at R Lounge on Sun 11 Oct, Tokyo. 3 artists on the bill: junkie babe, Mayuri and Shintarø Kanie. Techno. Preview the line-up and save it on soundcheck.
+UNCHARTED TIME at R Lounge on Sun 11 Oct, Tokyo. 3 artists: junkie babe, Mayuri and Shintarø Kanie. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

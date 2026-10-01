@@ -1,6 +1,6 @@
 # Tenzija x TNG at Zappa barka at TBA - Zappa Barka
 
-Tenzija x TNG at Zappa barka at TBA - Zappa Barka on Fri 16 Oct, Belgrade. Hip-Hop. Preview the line-up and save it on soundcheck.
+Tenzija x TNG at Zappa barka at TBA - Zappa Barka on Fri 16 Oct, Belgrade. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Arielo
 
-Arielo is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sala Taro, Barcelona on Sat, 3 Oct 2026.
+Arielo is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Taro, Barcelona on Sat, 3 Oct 2026.
 
-Arielo is a house and funk / soul artist based in Spain, tracked on soundcheck, with 27 sets logged across Barcelona and Ibiza. Often billed alongside Keyblow, IVAN POSEIDON and Carmilla Sioux. Next up: Sala Taro, Barcelona on Sat 3 Oct.
+Arielo is a house and funk / soul artist based in Spain, with 27 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside Keyblow, IVAN POSEIDON and Carmilla Sioux. Next up: Sala Taro, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Arielo is a house and funk / soul artist based in Spain, tracked on soundcheck, 
 
 ## Recently played
 
-- Rouge, Barcelona — Thu, 3 Sept 2026
-- Sala Taro, Barcelona — Fri, 29 May 2026
-- Rei de Copes, Barcelona — Sun, 17 May 2026
-- Hotel Sofitel Skipper Barcelona, Barcelona — Fri, 15 May 2026
-- Meteoro, Barcelona — Fri, 24 Apr 2026
-- Bridge 48, Barcelona — Sat, 4 Apr 2026
-- Sala Upload Barcelona, Barcelona — Sat, 28 Mar 2026
-- Sala Upload Barcelona, Barcelona — Fri, 12 Dec 2025
+- Rouge, Barcelona · Thu, 3 Sept 2026
+- Sala Taro, Barcelona · Fri, 29 May 2026
+- Rei de Copes, Barcelona · Sun, 17 May 2026
+- Hotel Sofitel Skipper Barcelona, Barcelona · Fri, 15 May 2026
+- Meteoro, Barcelona · Fri, 24 Apr 2026
+- Bridge 48, Barcelona · Sat, 4 Apr 2026
+- Sala Upload Barcelona, Barcelona · Sat, 28 Mar 2026
+- Sala Upload Barcelona, Barcelona · Fri, 12 Dec 2025
 
 ## Shares bills with
 

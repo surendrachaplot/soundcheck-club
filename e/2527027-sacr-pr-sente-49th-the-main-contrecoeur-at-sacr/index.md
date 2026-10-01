@@ -1,6 +1,6 @@
 # Sacré présente: 49th & the Main + Contrecoeur at Sacré
 
-Sacré présente: 49th & the Main + Contrecoeur on Fri 9 Oct, Paris. 1 artist on the bill: Contrecoeur. House. Preview the line-up and save it on soundcheck.
+Sacré présente: 49th & the Main + Contrecoeur on Fri 9 Oct, Paris. 1 artist: Contrecoeur. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

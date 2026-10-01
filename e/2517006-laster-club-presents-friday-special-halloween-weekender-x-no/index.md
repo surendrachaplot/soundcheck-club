@@ -1,6 +1,6 @@
 # Laster Club presents FRIDAY SPECIAL HALLOWEEN WEEKENDER x NON SERIES SHOWCASE at The Bassement
 
-Laster Club presents FRIDAY SPECIAL HALLOWEEN WEEKENDER x NON SERIES SHOWCASE at The Bassement on Fri 30 Oct, Madrid. 4 artists on the bill: Feral, Nastia Reigel, Psyk and Wata Igarashi. Techno. Preview the line-up and save it on soundcheck.
+Laster Club presents FRIDAY SPECIAL HALLOWEEN WEEKENDER x NON SERIES SHOWCASE at The Bassement on Fri 30 Oct, Madrid. 4 artists: Feral, Nastia Reigel, Psyk and Wata Igarashi. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

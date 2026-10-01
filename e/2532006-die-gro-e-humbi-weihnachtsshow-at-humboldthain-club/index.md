@@ -1,6 +1,6 @@
 # Die große Humbi Weihnachtsshow at Humboldthain Club
 
-Die große Humbi Weihnachtsshow at Humboldthain Club on Sat 19 Dec, Berlin. Preview the line-up and save it on soundcheck.
+Die große Humbi Weihnachtsshow at Humboldthain Club on Sat 19 Dec, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Proelium Audio x Bass Camp LDN: Bensley, Kyrist, Tantron, Tom Finster at Onyx (E1)
 
-Proelium Audio x Bass Camp LDN: Bensley, Kyrist, Tantron, Tom Finster at Onyx (E1) on Fri 11 Dec, London. 3 artists on the bill: Bensley, Kyrist and Tom Finster. Drum & Bass. Preview the line-up and save it on soundcheck.
+Proelium Audio x Bass Camp LDN: Bensley, Kyrist, Tantron, Tom Finster at Onyx (E1) on Fri 11 Dec, London. 3 artists: Bensley, Kyrist and Tom Finster. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

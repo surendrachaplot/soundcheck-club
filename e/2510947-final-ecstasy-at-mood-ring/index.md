@@ -1,6 +1,6 @@
 # FINAL ECSTASY at Mood Ring
 
-FINAL ECSTASY at Mood Ring on Sat 17 Oct, New York City. 4 artists on the bill: Bodegaparty, DJ Freedem, Twaankalu and WADDLE. Preview the line-up and save it on soundcheck.
+FINAL ECSTASY at Mood Ring on Sat 17 Oct, New York City. 4 artists: Bodegaparty, DJ Freedem, Twaankalu and WADDLE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

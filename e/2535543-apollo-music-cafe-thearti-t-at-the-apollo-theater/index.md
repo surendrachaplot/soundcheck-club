@@ -1,6 +1,6 @@
 # Apollo Music Cafe: TheARTI$T at The Apollo Theater
 
-Apollo Music Cafe: TheARTI$T at The Apollo Theater on Fri 9 Oct, New York City. R&B. Preview the line-up and save it on soundcheck.
+Apollo Music Cafe: TheARTI$T at The Apollo Theater on Fri 9 Oct, New York City. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

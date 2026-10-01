@@ -1,8 +1,8 @@
 # Gara
 
-Gara is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at or, Tokyo on Sun, 18 Oct 2026.
+Gara is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at or, Tokyo on Sun, 18 Oct 2026.
 
-Gara is a house and techno artist based in Japan, tracked on soundcheck, with 49 sets logged across Tokyo. Often billed alongside Manami T.B, Saku NewMoon and DJ ISE. Next up: or, Tokyo on Sun 18 Oct.
+Gara is a house and techno artist based in Japan, with 49 gigs on soundcheck across Tokyo. Often billed alongside Manami T.B, Saku NewMoon and DJ ISE. Next up: or, Tokyo on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Gara is a house and techno artist based in Japan, tracked on soundcheck, with 49
 
 ## Recently played
 
-- BRAND SHIBUYA, Tokyo — Sun, 13 Sept 2026
-- Numm, Tokyo — Thu, 30 Jul 2026
-- The Room, Tokyo — Sun, 26 Jul 2026
-- R Lounge, Tokyo — Thu, 9 Jul 2026
-- Ohjo Bldg, Tokyo — Sat, 30 May 2026
-- Shibuya Club Ball, Tokyo — Sat, 23 May 2026
-- Aoyama Hachi, Tokyo — Wed, 29 Apr 2026
-- Music Cafe Bar One's, Tokyo — Tue, 14 Apr 2026
+- BRAND SHIBUYA, Tokyo · Sun, 13 Sept 2026
+- Numm, Tokyo · Thu, 30 Jul 2026
+- The Room, Tokyo · Sun, 26 Jul 2026
+- R Lounge, Tokyo · Thu, 9 Jul 2026
+- Ohjo Bldg, Tokyo · Sat, 30 May 2026
+- Shibuya Club Ball, Tokyo · Sat, 23 May 2026
+- Aoyama Hachi, Tokyo · Wed, 29 Apr 2026
+- Music Cafe Bar One's, Tokyo · Tue, 14 Apr 2026
 
 ## Shares bills with
 

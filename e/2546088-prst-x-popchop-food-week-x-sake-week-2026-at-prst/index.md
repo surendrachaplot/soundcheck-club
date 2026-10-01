@@ -1,6 +1,6 @@
 # PRST x POPCHOP FOOD WEEK x SAKE WEEK 2026 at PRST
 
-PRST x POPCHOP FOOD WEEK x SAKE WEEK 2026 on Thu 8 Oct, Vienna. 3 artists on the bill: Demuja, GEN and NAMIMI SENSEI. Preview the line-up and save it on soundcheck.
+PRST x POPCHOP FOOD WEEK x SAKE WEEK 2026 on Thu 8 Oct, Vienna. 3 artists: Demuja, GEN and NAMIMI SENSEI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

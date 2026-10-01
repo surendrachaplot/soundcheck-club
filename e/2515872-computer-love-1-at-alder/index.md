@@ -1,6 +1,6 @@
 # Computer Love #1 at Alder
 
-Computer Love #1 at Alder on Fri 2 Oct, Sheffield. Electro and Italo Disco. Preview the line-up and save it on soundcheck.
+Computer Love #1 at Alder on Fri 2 Oct, Sheffield. Electro and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

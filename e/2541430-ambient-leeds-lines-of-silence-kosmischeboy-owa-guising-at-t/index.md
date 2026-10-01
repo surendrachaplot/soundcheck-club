@@ -1,6 +1,6 @@
 # Ambient Leeds: Lines of Silence // Kosmischeboy // OWA // guising at The Fox & Newt Pub
 
-Ambient Leeds: Lines of Silence // Kosmischeboy // OWA // guising at The Fox & Newt Pub on Sun 13 Dec, Leeds. Ambient and Drone. Preview the line-up and save it on soundcheck.
+Ambient Leeds: Lines of Silence // Kosmischeboy // OWA // guising at The Fox & Newt Pub on Sun 13 Dec, Leeds. Ambient and Drone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

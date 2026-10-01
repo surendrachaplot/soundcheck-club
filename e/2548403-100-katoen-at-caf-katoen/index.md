@@ -1,6 +1,6 @@
 # 100% KATOEN at Café Katoen
 
-100% KATOEN at Café Katoen on Thu 1 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+100% KATOEN at Café Katoen on Thu 1 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

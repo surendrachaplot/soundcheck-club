@@ -1,6 +1,6 @@
 # PULSE at Dalston Den
 
-PULSE at Dalston Den on Thu 17 Dec, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+PULSE at Dalston Den on Thu 17 Dec, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BAD IDEA. — Tasting & Rave by MATURBO at DNA. CLUB
 
-BAD IDEA. — Tasting & Rave by MATURBO at DNA. CLUB on Sat 3 Oct, Berlin. 2 artists on the bill: Blossmbae and KANIKA. Trance and Techno. Preview the line-up and save it on soundcheck.
+BAD IDEA. — Tasting & Rave by MATURBO at DNA. CLUB on Sat 3 Oct, Berlin. 2 artists: Blossmbae and KANIKA. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

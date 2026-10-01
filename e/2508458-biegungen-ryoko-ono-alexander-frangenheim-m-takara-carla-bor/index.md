@@ -1,6 +1,6 @@
 # biegungen: Ryoko Ono & Alexander Frangenheim / M. Takara & Carla Boregas feat. Dudu Kouate at Ausland
 
-biegungen: Ryoko Ono & Alexander Frangenheim / M. Takara & Carla Boregas feat. Dudu Kouate at Ausland on Sun 11 Oct, Berlin. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+biegungen: Ryoko Ono & Alexander Frangenheim / M. Takara & Carla Boregas feat. Dudu Kouate at Ausland on Sun 11 Oct, Berlin. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

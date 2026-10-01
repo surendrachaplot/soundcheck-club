@@ -1,6 +1,6 @@
 # [SOLD OUT] NT's Loft: BRIDGE & Marcia Carr at Night Tales Loft
 
-[SOLD OUT] NT's Loft: BRIDGE & Marcia Carr at Night Tales Loft on Fri 16 Oct, London. 2 artists on the bill: Bridge (NY) and Marcia Carr. Preview the line-up and save it on soundcheck.
+[SOLD OUT] NT's Loft: BRIDGE & Marcia Carr at Night Tales Loft on Fri 16 Oct, London. 2 artists: Bridge (NY) and Marcia Carr. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

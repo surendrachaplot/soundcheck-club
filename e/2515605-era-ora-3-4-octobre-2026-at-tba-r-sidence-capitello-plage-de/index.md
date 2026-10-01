@@ -1,6 +1,6 @@
 # Era Ora - 3 & 4 Octobre 2026 at TBA - Résidence Capitello plage de, 20166 Grosseto-Prugna, France
 
-Era Ora - 3 & 4 Octobre 2026 at TBA - Résidence Capitello plage de, 20166 Grosseto-Prugna, France on Sat 3 Oct, South East. 4 artists on the bill: Louison, Maco Maria, Matthias and Michelle. Preview the line-up and save it on soundcheck.
+Era Ora - 3 & 4 Octobre 2026 at TBA - Résidence Capitello plage de, 20166 Grosseto-Prugna, France on Sat 3 Oct, South East. 4 artists: Louison, Maco Maria, Matthias and Michelle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

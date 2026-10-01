@@ -1,8 +1,8 @@
 # Toomy Disco
 
-Toomy Disco is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Club Morocco, Costanera, Buenos Aires on Fri, 2 Oct 2026.
+Toomy Disco is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Club Morocco, Costanera, Buenos Aires on Fri, 2 Oct 2026.
 
-Toomy Disco is a house and tech house artist based in Argentina, tracked on soundcheck, with 19 sets logged across Buenos Aires. Often billed alongside Festa Bros, Tobias DL and Cosenza. Next up: TBA - Club Morocco, Costanera, Buenos Aires on Fri 2 Oct.
+Toomy Disco is a house and tech house artist based in Argentina, with 19 gigs on soundcheck across Buenos Aires. Often billed alongside Festa Bros, Tobias DL and Cosenza. Next up: TBA - Club Morocco, Costanera, Buenos Aires on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Toomy Disco is a house and tech house artist based in Argentina, tracked on soun
 
 ## Recently played
 
-- TBA - Tokyo Club, Costanera, Buenos Aires — Sat, 29 Aug 2026
-- TBA - Lignée, Microcentro, Buenos Aires — Sat, 13 Jun 2026
-- Dune Park, Buenos Aires — Sat, 2 May 2026
-- Olympo Sky Bar, Buenos Aires — Sat, 4 Apr 2026
-- Frere Eventos, Buenos Aires — Sat, 13 Sept 2025
-- TBA - La Biblioteca, San Telmo, Buenos Aires — Fri, 1 Aug 2025
-- TBA - Bali, Costa Salguero, Buenos Aires — Sat, 28 Jun 2025
-- BNN, Buenos Aires — Thu, 19 Jun 2025
+- TBA - Tokyo Club, Costanera, Buenos Aires · Sat, 29 Aug 2026
+- TBA - Lignée, Microcentro, Buenos Aires · Sat, 13 Jun 2026
+- Dune Park, Buenos Aires · Sat, 2 May 2026
+- Olympo Sky Bar, Buenos Aires · Sat, 4 Apr 2026
+- Frere Eventos, Buenos Aires · Sat, 13 Sept 2025
+- TBA - La Biblioteca, San Telmo, Buenos Aires · Fri, 1 Aug 2025
+- TBA - Bali, Costa Salguero, Buenos Aires · Sat, 28 Jun 2025
+- BNN, Buenos Aires · Thu, 19 Jun 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Fuchsbau DAYRAVE at Beat Boutique
 
-Fuchsbau DAYRAVE at Beat Boutique on Sat 3 Oct, Hamburg. 1 artist on the bill: lexpon. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Fuchsbau DAYRAVE at Beat Boutique on Sat 3 Oct, Hamburg. 1 artist: lexpon. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

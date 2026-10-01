@@ -1,8 +1,8 @@
 # Sebastien Leger
 
-Sebastien Leger is a House and Progressive House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+Sebastien Leger is a House and Progressive House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-Sebastien Leger is a house and progressive house artist based in France, tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: Knockdown Center, New York City on Fri 2 Oct.
+Sebastien Leger is a house and progressive house artist based in France, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 35 more. Often billed alongside Roy Rosenfeld, Tim Green and Khen. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Sebastien Leger is a house and progressive house artist based in France, tracked
 
 ## Recently played
 
-- YoYo - Palais de Tokyo, Paris — Sat, 19 Sept 2026
-- KOKO, London — Sat, 5 Sept 2026
-- Grand Quai du Port de Montreal, Montreal — Sat, 15 Aug 2026
-- Coda, Toronto — Fri, 14 Aug 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Hï Ibiza, Ibiza — Mon, 29 Jun 2026
-- Unveiled, New York City — Fri, 19 Jun 2026
-- Unveiled, New York City — Fri, 19 Jun 2026
+- YoYo - Palais de Tokyo, Paris · Sat, 19 Sept 2026
+- KOKO, London · Sat, 5 Sept 2026
+- Grand Quai du Port de Montreal, Montreal · Sat, 15 Aug 2026
+- Coda, Toronto · Fri, 14 Aug 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
+- Hï Ibiza, Ibiza · Mon, 29 Jun 2026
+- Unveiled, New York City · Fri, 19 Jun 2026
+- Unveiled, New York City · Fri, 19 Jun 2026
 
 ## Shares bills with
 

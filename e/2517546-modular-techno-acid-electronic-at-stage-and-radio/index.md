@@ -1,6 +1,6 @@
 # Modular: Techno / Acid / Electronic at Stage and Radio
 
-Modular: Techno / Acid / Electronic at Stage and Radio on Fri 9 Oct, Manchester. Techno and Acid. Preview the line-up and save it on soundcheck.
+Modular: Techno / Acid / Electronic at Stage and Radio on Fri 9 Oct, Manchester. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

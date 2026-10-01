@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Thu 8 Oct, Milan. 1 artist on the bill: Deyayu. Techno and Pop. Preview the line-up and save it on soundcheck.
+BARDO on Thu 8 Oct, Milan. 1 artist: Deyayu. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

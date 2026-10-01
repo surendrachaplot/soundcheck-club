@@ -1,6 +1,6 @@
 # Bolero: Neo Chimera Ep.3-2 [Lachesis] at Bolero
 
-Bolero: Neo Chimera Ep.3-2 [Lachesis] on Thu 1 Oct, Seoul. 3 artists on the bill: Arexibo, h4rdy and PRIMIT. Club. Preview the line-up and save it on soundcheck.
+Bolero: Neo Chimera Ep.3-2 [Lachesis] on Thu 1 Oct, Seoul. 3 artists: Arexibo, h4rdy and PRIMIT. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Synth Social 5 at Dreamsong Music Lab
 
-Synth Social 5 at Dreamsong Music Lab on Wed 7 Oct, New York City. Techno and IDM. Preview the line-up and save it on soundcheck.
+Synth Social 5 at Dreamsong Music Lab on Wed 7 Oct, New York City. Techno and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

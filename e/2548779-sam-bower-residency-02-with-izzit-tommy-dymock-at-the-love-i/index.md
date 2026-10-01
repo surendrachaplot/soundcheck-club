@@ -1,6 +1,6 @@
 # Sam Bower residency #02 with IZZIT + Tommy Dymock at The Love Inn
 
-Sam Bower residency #02 with IZZIT + Tommy Dymock at The Love Inn on Thu 8 Oct, Bristol. 2 artists on the bill: IZZIT and Tommy Dymock. Techno and House. Preview the line-up and save it on soundcheck.
+Sam Bower residency #02 with IZZIT + Tommy Dymock at The Love Inn on Thu 8 Oct, Bristol. 2 artists: IZZIT and Tommy Dymock. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

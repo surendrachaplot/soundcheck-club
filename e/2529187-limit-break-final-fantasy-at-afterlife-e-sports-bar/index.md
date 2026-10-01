@@ -1,6 +1,6 @@
 # Limit Break Final Fantasy at Afterlife e-Sports Bar
 
-Limit Break Final Fantasy at Afterlife e-Sports Bar on Sat 3 Oct, Barcelona. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Limit Break Final Fantasy at Afterlife e-Sports Bar on Sat 3 Oct, Barcelona. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

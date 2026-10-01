@@ -1,6 +1,6 @@
 # FistFatale 2.0 at Mastak
 
-FistFatale 2.0 at Mastak on Fri 16 Oct, Warsaw. 3 artists on the bill: MARCUCCIO, mirormir and Xim (BY). Techno and Acid. Preview the line-up and save it on soundcheck.
+FistFatale 2.0 at Mastak on Fri 16 Oct, Warsaw. 3 artists: MARCUCCIO, mirormir and Xim (BY). Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

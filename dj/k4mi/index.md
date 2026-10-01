@@ -1,8 +1,8 @@
 # k4mi
 
-k4mi is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at MS Treue, Bremen on Sat, 17 Oct 2026.
+k4mi is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MS Treue, Bremen on Sat, 17 Oct 2026.
 
-k4mi is a techno and trance artist tracked on soundcheck, with 7 sets logged across Berlin and Bremen. Often billed alongside August Kind, Bruno Brero and Deltapeak. Next up: MS Treue, Bremen on Sat 17 Oct.
+k4mi is a techno and trance artist, with 7 gigs on soundcheck across Berlin and Bremen. Often billed alongside August Kind, Bruno Brero and Deltapeak. Next up: MS Treue, Bremen on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ k4mi is a techno and trance artist tracked on soundcheck, with 7 sets logged acr
 
 ## Recently played
 
-- ÆDEN, Berlin — Fri, 28 Aug 2026
-- ÆDEN, Berlin — Fri, 21 Aug 2026
-- Lokschuppen Berlin, Berlin — Tue, 11 Aug 2026
-- Lokschuppen Berlin, Berlin — Sun, 14 Jun 2026
-- Humboldthain Club, Berlin — Wed, 13 May 2026
-- Humboldthain Club, Berlin — Sat, 25 Apr 2026
+- ÆDEN, Berlin · Fri, 28 Aug 2026
+- ÆDEN, Berlin · Fri, 21 Aug 2026
+- Lokschuppen Berlin, Berlin · Tue, 11 Aug 2026
+- Lokschuppen Berlin, Berlin · Sun, 14 Jun 2026
+- Humboldthain Club, Berlin · Wed, 13 May 2026
+- Humboldthain Club, Berlin · Sat, 25 Apr 2026
 
 ## Shares bills with
 

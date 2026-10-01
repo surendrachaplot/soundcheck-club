@@ -1,6 +1,6 @@
 # A party called JACK at FLUCC
 
-A party called JACK at FLUCC on Sat 17 Oct, Vienna. 2 artists on the bill: Altroy Jerome and JP Bechamel. Preview the line-up and save it on soundcheck.
+A party called JACK at FLUCC on Sat 17 Oct, Vienna. 2 artists: Altroy Jerome and JP Bechamel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # POPUP x Friends of Friends present Halloween Special at Bisou Mayfair
 
-POPUP x Friends of Friends present Halloween Special at Bisou Mayfair on Sat 31 Oct, London. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+POPUP x Friends of Friends present Halloween Special at Bisou Mayfair on Sat 31 Oct, London. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

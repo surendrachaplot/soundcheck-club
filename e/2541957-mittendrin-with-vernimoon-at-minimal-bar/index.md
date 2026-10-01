@@ -1,6 +1,6 @@
 # Mittendrin with vernimoon at Minimal Bar
 
-Mittendrin with vernimoon at Minimal Bar on Wed 16 Dec, Berlin. 1 artist on the bill: vernimoon. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Mittendrin with vernimoon at Minimal Bar on Wed 16 Dec, Berlin. 1 artist: vernimoon. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

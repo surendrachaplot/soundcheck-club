@@ -1,6 +1,6 @@
 # BEDRÜM: FREE Techno / Acid party at The Leith Depot
 
-BEDRÜM: FREE Techno / Acid party at The Leith Depot on Fri 23 Oct, Edinburgh. Techno and Acid. Preview the line-up and save it on soundcheck.
+BEDRÜM: FREE Techno / Acid party at The Leith Depot on Fri 23 Oct, Edinburgh. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

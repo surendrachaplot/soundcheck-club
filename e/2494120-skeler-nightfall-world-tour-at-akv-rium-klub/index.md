@@ -1,6 +1,6 @@
 # SKELER – Nightfall World Tour at Akvárium Klub
 
-SKELER – Nightfall World Tour at Akvárium Klub on Sat 14 Nov, Budapest. Preview the line-up and save it on soundcheck.
+SKELER – Nightfall World Tour at Akvárium Klub on Sat 14 Nov, Budapest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

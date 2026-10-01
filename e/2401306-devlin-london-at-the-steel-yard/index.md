@@ -1,6 +1,6 @@
 # Devlin - London at The Steel Yard
 
-Devlin - London at The Steel Yard on Thu 1 Oct, London. Grime. Preview the line-up and save it on soundcheck.
+Devlin - London at The Steel Yard on Thu 1 Oct, London. Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

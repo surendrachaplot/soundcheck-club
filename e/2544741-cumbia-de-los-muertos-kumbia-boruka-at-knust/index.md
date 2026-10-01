@@ -1,6 +1,6 @@
 # Cumbia de los Muertos: Kumbia Boruka at Knust
 
-Cumbia de los Muertos: Kumbia Boruka at Knust on Sat 31 Oct, Hamburg. Latin Bass and Guaracha. Preview the line-up and save it on soundcheck.
+Cumbia de los Muertos: Kumbia Boruka at Knust on Sat 31 Oct, Hamburg. Latin Bass and Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Go.Play with Robot Girl at Minimal Bar
 
-Go.Play with Robot Girl at Minimal Bar on Tue 24 Nov, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Go.Play with Robot Girl at Minimal Bar on Tue 24 Nov, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

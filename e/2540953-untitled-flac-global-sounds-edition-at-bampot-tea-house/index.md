@@ -1,6 +1,6 @@
 # UNTITLED.FLAC: GLOBAL SOUNDS EDITION at Bampot Tea House
 
-UNTITLED.FLAC: GLOBAL SOUNDS EDITION at Bampot Tea House on Sat 17 Oct, Toronto. Gqom and Afro Tech. Preview the line-up and save it on soundcheck.
+UNTITLED.FLAC: GLOBAL SOUNDS EDITION at Bampot Tea House on Sat 17 Oct, Toronto. Gqom and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

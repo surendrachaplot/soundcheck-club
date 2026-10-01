@@ -1,6 +1,6 @@
 # Exit Reality with PAO & SYEDSAVAGE69 at Exit Reality
 
-Exit Reality with PAO & SYEDSAVAGE69 on Thu 1 Oct, Singapore. Techno and House. Preview the line-up and save it on soundcheck.
+Exit Reality with PAO & SYEDSAVAGE69 on Thu 1 Oct, Singapore. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

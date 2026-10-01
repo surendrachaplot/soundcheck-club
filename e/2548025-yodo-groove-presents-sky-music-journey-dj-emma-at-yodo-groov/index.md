@@ -1,6 +1,6 @@
 # YODO GROOVE presents SKY MUSIC JOURNEY: DJ Emma at Yodo Groove (Yodobashi Ikebukuro)
 
-YODO GROOVE presents SKY MUSIC JOURNEY: DJ Emma at Yodo Groove (Yodobashi Ikebukuro) on Sun 25 Oct, Tokyo. 5 artists on the bill: ANZU, DJ Emma, HiTOMi and PUNK N MATRIX and 1 more. House. Preview the line-up and save it on soundcheck.
+YODO GROOVE presents SKY MUSIC JOURNEY: DJ Emma at Yodo Groove (Yodobashi Ikebukuro) on Sun 25 Oct, Tokyo. 5 artists: ANZU, DJ Emma, HiTOMi and PUNK N MATRIX and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

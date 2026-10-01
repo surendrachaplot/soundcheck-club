@@ -1,8 +1,8 @@
 # Neumos
 
-Neumos is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Takuya Nakamura" on Thu, 17 Dec 2026.
+Neumos is a music venue in Seattle with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Takuya Nakamura" on Thu, 17 Dec 2026.
 
-Neumos is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including Takuya Nakamura. Browse upcoming dates, start times and who's playing. 925 East Pike Street; Seattle, WA 98122; United States.
+Neumos is a music venue in Seattle listed on soundcheck. 1 upcoming gig, with line-ups including Takuya Nakamura. See dates, start times and who's playing. 925 East Pike Street; Seattle, WA 98122; United States.
 
 ## What's on
 

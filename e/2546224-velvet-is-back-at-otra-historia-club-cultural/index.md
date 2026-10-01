@@ -1,6 +1,6 @@
 # Velvet Is Back at Otra Historia Club Cultural
 
-Velvet Is Back at Otra Historia Club Cultural on Sat 24 Oct, Buenos Aires. 2 artists on the bill: ANDRES CAPRA and GEMMA. House. Preview the line-up and save it on soundcheck.
+Velvet Is Back at Otra Historia Club Cultural on Sat 24 Oct, Buenos Aires. 2 artists: ANDRES CAPRA and GEMMA. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Alexander Skancke
 
-Alexander Skancke is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Onassis Ready, Athens on Fri, 9 Oct 2026.
+Alexander Skancke is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
-Alexander Skancke is a house and techno artist based in Norway, tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Onassis Ready, Athens on Fri 9 Oct.
+Alexander Skancke is a house and techno artist based in Norway, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Alexander Skancke is a house and techno artist based in Norway, tracked on sound
 
 ## Recently played
 
-- Bunker, Turin — Sun, 27 Sept 2026
-- Hoppetosse, Berlin — Sat, 26 Sept 2026
-- Haus der Visionäre, Berlin — Sat, 22 Aug 2026
-- Jaeger, Oslo — Sat, 15 Aug 2026
-- Playa Soleil Ibiza, Ibiza — Wed, 29 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 4 Jul 2026
-- Sala Zenith, Madrid — Fri, 3 Jul 2026
-- Sala Upload Barcelona, Barcelona — Sat, 20 Jun 2026
+- Bunker, Turin · Sun, 27 Sept 2026
+- Hoppetosse, Berlin · Sat, 26 Sept 2026
+- Haus der Visionäre, Berlin · Sat, 22 Aug 2026
+- Jaeger, Oslo · Sat, 15 Aug 2026
+- Playa Soleil Ibiza, Ibiza · Wed, 29 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 4 Jul 2026
+- Sala Zenith, Madrid · Fri, 3 Jul 2026
+- Sala Upload Barcelona, Barcelona · Sat, 20 Jun 2026
 
 ## Shares bills with
 

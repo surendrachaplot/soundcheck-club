@@ -1,6 +1,6 @@
 # Brown Excellence 5th Birthday Festival at TBA - BOXING GYM BRISTOL
 
-Brown Excellence 5th Birthday Festival at TBA - BOXING GYM BRISTOL on Fri 2 Oct, Bristol. Bass and Funk / Soul. Preview the line-up and save it on soundcheck.
+Brown Excellence 5th Birthday Festival at TBA - BOXING GYM BRISTOL on Fri 2 Oct, Bristol. Bass and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

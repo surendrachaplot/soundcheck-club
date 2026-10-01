@@ -1,6 +1,6 @@
 # B-Side Los Angeles presents: Mirror Mode - A Hundred Drums Face to Face Zen Selekta at Don Quixote
 
-B-Side Los Angeles presents: Mirror Mode - A Hundred Drums Face to Face Zen Selekta at Don Quixote on Sat 7 Nov, Los Angeles. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+B-Side Los Angeles presents: Mirror Mode - A Hundred Drums Face to Face Zen Selekta at Don Quixote on Sat 7 Nov, Los Angeles. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SUNSET SESSIONS - Reloaded at Level 8 DTLA
 
-SUNSET SESSIONS - Reloaded at Level 8 DTLA on Fri 9 Oct, Los Angeles. 1 artist on the bill: Tamara Lanza. House. Preview the line-up and save it on soundcheck.
+SUNSET SESSIONS - Reloaded at Level 8 DTLA on Fri 9 Oct, Los Angeles. 1 artist: Tamara Lanza. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

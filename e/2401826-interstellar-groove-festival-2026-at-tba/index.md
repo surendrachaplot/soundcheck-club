@@ -1,6 +1,6 @@
 # Interstellar Groove Festival 2026 at TBA
 
-Interstellar Groove Festival 2026 at TBA on Fri 30 Oct, Victoria. 11 artists on the bill: D-Nox, dela Moon, Freedom Fighters and John '00' Fleming and 7 more. Preview the line-up and save it on soundcheck.
+Interstellar Groove Festival 2026 at TBA on Fri 30 Oct, Victoria. 11 artists: D-Nox, dela Moon, Freedom Fighters and John '00' Fleming and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

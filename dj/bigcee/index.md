@@ -1,8 +1,8 @@
 # Big Cee
 
-Big Cee is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
+Big Cee is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
 
-Big Cee is a house and deep house artist based in United States of America, tracked on soundcheck, with 17 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside Marques Wyatt, Anton Tumas and Bollo. Next up: California Plaza, Los Angeles on Sat 10 Oct.
+Big Cee is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside Marques Wyatt, Anton Tumas and Bollo. Next up: California Plaza, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Big Cee is a house and deep house artist based in United States of America, trac
 
 ## Recently played
 
-- Shoreline Aquatic Park, Los Angeles — Sat, 18 Jul 2026
-- Jungle Hollywood, Los Angeles — Wed, 8 Apr 2026
-- TBA, Los Angeles — Fri, 29 Aug 2025
-- TBA - DTLA, Los Angeles — Fri, 18 Jul 2025
-- TBA - Location Link in Bio on Instagram @recollectafters, Los Angeles — Thu, 3 Jul 2025
-- TBA, Los Angeles — Sat, 14 Jun 2025
-- The Great Northern, San Francisco/Oakland — Fri, 13 Jun 2025
-- Jungle Hollywood, Los Angeles — Wed, 5 Feb 2025
+- Shoreline Aquatic Park, Los Angeles · Sat, 18 Jul 2026
+- Jungle Hollywood, Los Angeles · Wed, 8 Apr 2026
+- TBA, Los Angeles · Fri, 29 Aug 2025
+- TBA - DTLA, Los Angeles · Fri, 18 Jul 2025
+- TBA - Location Link in Bio on Instagram @recollectafters, Los Angeles · Thu, 3 Jul 2025
+- TBA, Los Angeles · Sat, 14 Jun 2025
+- The Great Northern, San Francisco/Oakland · Fri, 13 Jun 2025
+- Jungle Hollywood, Los Angeles · Wed, 5 Feb 2025
 
 ## Shares bills with
 

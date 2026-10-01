@@ -1,6 +1,6 @@
 # Timo Maas - iocerouno at TBA
 
-Timo Maas - iocerouno at TBA on Sat 12 Dec, Monterrey. 1 artist on the bill: Timo Maas. Preview the line-up and save it on soundcheck.
+Timo Maas - iocerouno at TBA on Sat 12 Dec, Monterrey. 1 artist: Timo Maas. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

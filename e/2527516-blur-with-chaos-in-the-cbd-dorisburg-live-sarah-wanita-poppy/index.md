@@ -1,6 +1,6 @@
 # BLUR with Chaos In The CBD, Dorisburg (live), Sarah Wanita, Poppy, Nikita at UMI
 
-BLUR with Chaos In The CBD, Dorisburg (live), Sarah Wanita, Poppy, Nikita at UMI on Sat 3 Oct, Brussels. 5 artists on the bill: Chaos In The CBD, Dorisburg, NIKITA and Poppy (BE) and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+BLUR with Chaos In The CBD, Dorisburg (live), Sarah Wanita, Poppy, Nikita at UMI on Sat 3 Oct, Brussels. 5 artists: Chaos In The CBD, Dorisburg, NIKITA and Poppy (BE) and 1 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

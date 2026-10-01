@@ -1,6 +1,6 @@
 # ROYA at The Roxy
 
-ROYA at The Roxy on Fri 2 Oct, Los Angeles. House and Electro. Preview the line-up and save it on soundcheck.
+ROYA at The Roxy on Fri 2 Oct, Los Angeles. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

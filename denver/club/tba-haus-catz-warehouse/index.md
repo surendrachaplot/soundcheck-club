@@ -1,8 +1,8 @@
 # TBA - Haus Catz Warehouse
 
-TBA - Haus Catz Warehouse is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Haus Catz 7 Year Anniversary feat. Bok Bok [UK] + Leenie" on Sat, 17 Oct 2026.
+TBA - Haus Catz Warehouse is a music venue in Denver with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Haus Catz 7 Year Anniversary feat. Bok Bok [UK] + Leenie" on Sat, 17 Oct 2026.
 
-TBA - Haus Catz Warehouse is a music venue in Denver listed on soundcheck. 1 upcoming gig, with line-ups including Bok Bok, DJ PurRpLeXeD, Haus Catz and Leenie and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Haus Catz Warehouse is a music venue in Denver listed on soundcheck. 1 upcoming gig, with line-ups including Bok Bok, DJ PurRpLeXeD, Haus Catz and Leenie and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

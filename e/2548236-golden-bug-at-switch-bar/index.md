@@ -1,6 +1,6 @@
 # Golden Bug at Switch Bar
 
-Golden Bug at Switch Bar on Sat 3 Oct, Barcelona. 1 artist on the bill: Golden Bug. Preview the line-up and save it on soundcheck.
+Golden Bug at Switch Bar on Sat 3 Oct, Barcelona. 1 artist: Golden Bug. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

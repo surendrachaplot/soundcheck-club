@@ -1,6 +1,6 @@
 # 77CELLAR: TBA at Liquid Club
 
-77CELLAR: TBA at Liquid Club on Fri 27 Nov, Malta. Techno. Preview the line-up and save it on soundcheck.
+77CELLAR: TBA at Liquid Club on Fri 27 Nov, Malta. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

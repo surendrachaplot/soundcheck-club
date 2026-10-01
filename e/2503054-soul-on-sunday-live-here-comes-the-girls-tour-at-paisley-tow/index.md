@@ -1,6 +1,6 @@
 # Soul on Sunday Live Here Comes the Girls Tour at Paisley Town Hall
 
-Soul on Sunday Live Here Comes the Girls Tour at Paisley Town Hall on Sat 5 Dec, Glasgow. Funk / Soul. Preview the line-up and save it on soundcheck.
+Soul on Sunday Live Here Comes the Girls Tour at Paisley Town Hall on Sat 5 Dec, Glasgow. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

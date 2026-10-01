@@ -1,6 +1,6 @@
 # OBSIDIA w / Danilo Filipe at Lokschuppen Berlin
 
-OBSIDIA w / Danilo Filipe at Lokschuppen Berlin on Sat 29 May, Berlin. 2 artists on the bill: Bruno Brero and Danilo Filipe. Preview the line-up and save it on soundcheck.
+OBSIDIA w / Danilo Filipe at Lokschuppen Berlin on Sat 29 May, Berlin. 2 artists: Bruno Brero and Danilo Filipe. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

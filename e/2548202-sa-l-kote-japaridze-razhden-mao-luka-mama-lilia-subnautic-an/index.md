@@ -1,6 +1,6 @@
 # SAÄL • Kote Japaridze • Razhden • Mao • Luka Mama • Lilia • Subnautic • Annefix at Mtkvarze
 
-SAÄL • Kote Japaridze • Razhden • Mao • Luka Mama • Lilia • Subnautic • Annefix at Mtkvarze on Fri 2 Oct, Tbilisi. 4 artists on the bill: Kote Japaridze, Lilia (GE), Razhden and Subnautic. Preview the line-up and save it on soundcheck.
+SAÄL • Kote Japaridze • Razhden • Mao • Luka Mama • Lilia • Subnautic • Annefix at Mtkvarze on Fri 2 Oct, Tbilisi. 4 artists: Kote Japaridze, Lilia (GE), Razhden and Subnautic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

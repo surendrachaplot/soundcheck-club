@@ -1,6 +1,6 @@
 # .nisoo at Mitsuki
 
-.nisoo at Mitsuki on Sat 10 Oct, Tokyo. 2 artists on the bill: Dan Andrei and Junki Inoue. Preview the line-up and save it on soundcheck.
+.nisoo at Mitsuki on Sat 10 Oct, Tokyo. 2 artists: Dan Andrei and Junki Inoue. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

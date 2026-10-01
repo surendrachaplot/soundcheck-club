@@ -1,6 +1,6 @@
 # Bad Behli presents 365: All Night Long **SOLD OUT** at The Carpet Shop
 
-Bad Behli presents 365: All Night Long **SOLD OUT** at The Carpet Shop on Fri 2 Oct, London. Preview the line-up and save it on soundcheck.
+Bad Behli presents 365: All Night Long **SOLD OUT** at The Carpet Shop on Fri 2 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

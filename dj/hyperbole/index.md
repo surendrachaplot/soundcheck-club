@@ -1,8 +1,8 @@
 # Hyperbole
 
-Hyperbole is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
+Hyperbole is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beate Uwe, Berlin on Fri, 30 Oct 2026.
 
-Hyperbole is a house and disco artist based in United States of America, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Mambi Dexter, Tones Mahones and 3ple Kix. Next up: Beate Uwe, Berlin on Fri 30 Oct.
+Hyperbole is a house and disco artist based in United States of America, with 13 gigs on soundcheck across Berlin. Often billed alongside Mambi Dexter, Tones Mahones and 3ple Kix. Next up: Beate Uwe, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Hyperbole is a house and disco artist based in United States of America, tracked
 
 ## Recently played
 
-- Süss War Gestern, Berlin — Sat, 5 Sept 2026
-- Bulbul Berlin, Berlin — Sat, 29 Aug 2026
-- Crack Bellmer, Berlin — Fri, 31 Jul 2026
-- Bulbul Berlin, Berlin — Fri, 3 Jul 2026
-- Beate Uwe, Berlin — Fri, 19 Jun 2026
-- Süss War Gestern, Berlin — Sat, 6 Jun 2026
-- Bulbul Berlin, Berlin — Wed, 13 May 2026
-- Fitzroy, Berlin — Sat, 2 May 2026
+- Süss War Gestern, Berlin · Sat, 5 Sept 2026
+- Bulbul Berlin, Berlin · Sat, 29 Aug 2026
+- Crack Bellmer, Berlin · Fri, 31 Jul 2026
+- Bulbul Berlin, Berlin · Fri, 3 Jul 2026
+- Beate Uwe, Berlin · Fri, 19 Jun 2026
+- Süss War Gestern, Berlin · Sat, 6 Jun 2026
+- Bulbul Berlin, Berlin · Wed, 13 May 2026
+- Fitzroy, Berlin · Sat, 2 May 2026
 
 ## Shares bills with
 

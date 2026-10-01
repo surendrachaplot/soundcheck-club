@@ -1,6 +1,6 @@
 # HEAT by UNDR - Kinky House & Techno Party at Insomnia
 
-HEAT by UNDR - Kinky House & Techno Party at Insomnia on Sat 21 Nov, Berlin. House and Tech House. Preview the line-up and save it on soundcheck.
+HEAT by UNDR - Kinky House & Techno Party at Insomnia on Sat 21 Nov, Berlin. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

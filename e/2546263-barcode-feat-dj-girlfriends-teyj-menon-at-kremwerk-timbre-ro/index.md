@@ -1,6 +1,6 @@
 # BARCODE feat. DJ Girlfriends, Teyj Menon at Kremwerk-Timbre Room-Cherry Complex
 
-BARCODE feat. DJ Girlfriends, Teyj Menon at Kremwerk-Timbre Room-Cherry Complex on Fri 9 Oct, Seattle. 4 artists on the bill: KJ3 (US), Korra the Kid, Mirin Doja and Temenon. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+BARCODE feat. DJ Girlfriends, Teyj Menon at Kremwerk-Timbre Room-Cherry Complex on Fri 9 Oct, Seattle. 4 artists: KJ3 (US), Korra the Kid, Mirin Doja and Temenon. Breakbeat and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

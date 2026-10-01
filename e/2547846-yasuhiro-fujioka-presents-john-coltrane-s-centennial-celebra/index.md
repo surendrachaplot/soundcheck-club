@@ -1,6 +1,6 @@
 # Yasuhiro Fujioka presents John Coltrane's Centennial Celebration at Silence Please
 
-Yasuhiro Fujioka presents John Coltrane's Centennial Celebration at Silence Please on Sun 4 Oct, New York City. Jazz. Preview the line-up and save it on soundcheck.
+Yasuhiro Fujioka presents John Coltrane's Centennial Celebration at Silence Please on Sun 4 Oct, New York City. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

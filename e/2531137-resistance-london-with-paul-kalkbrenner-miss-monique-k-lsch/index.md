@@ -1,6 +1,6 @@
 # Resistance London with Paul Kalkbrenner, Miss Monique, Kölsch, Sven Väth and many more at DRUMSHEDS
 
-Resistance London with Paul Kalkbrenner, Miss Monique, Kölsch, Sven Väth and many more at DRUMSHEDS on Sat 5 Dec, London. 10 artists on the bill: ANNA, Dana Ruh, Deer Jade and FAE and 6 more. Minimal Techno. Preview the line-up and save it on soundcheck.
+Resistance London with Paul Kalkbrenner, Miss Monique, Kölsch, Sven Väth and many more at DRUMSHEDS on Sat 5 Dec, London. 10 artists: ANNA, Dana Ruh, Deer Jade and FAE and 6 more. Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mixtape at Pilgrim
 
-Mixtape at Pilgrim on Fri 2 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Mixtape at Pilgrim on Fri 2 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

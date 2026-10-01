@@ -1,6 +1,6 @@
 # Goldie at Pisces
 
-Goldie at Pisces on Thu 8 Oct, Atlanta. 1 artist on the bill: Goldie. Preview the line-up and save it on soundcheck.
+Goldie at Pisces on Thu 8 Oct, Atlanta. 1 artist: Goldie. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

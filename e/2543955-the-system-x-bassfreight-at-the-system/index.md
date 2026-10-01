@@ -1,6 +1,6 @@
 # The System x Bassfreight at The System
 
-The System x Bassfreight on Fri 16 Oct, Sheffield. 2 artists on the bill: Berwick and YouYou. Techno and Electro. Preview the line-up and save it on soundcheck.
+The System x Bassfreight on Fri 16 Oct, Sheffield. 2 artists: Berwick and YouYou. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

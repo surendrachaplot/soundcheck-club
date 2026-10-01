@@ -1,6 +1,6 @@
 # Deeper Purpose at SILO
 
-Deeper Purpose at SILO on Sat 19 Dec, New York City. 1 artist on the bill: Deeper Purpose. House and Tech House. Preview the line-up and save it on soundcheck.
+Deeper Purpose at SILO on Sat 19 Dec, New York City. 1 artist: Deeper Purpose. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # What time is it at The Woodford Bar and Grill
 
-What time is it at The Woodford Bar and Grill on Fri 27 Nov, London. Dancehall and R&B. Preview the line-up and save it on soundcheck.
+What time is it at The Woodford Bar and Grill on Fri 27 Nov, London. Dancehall and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

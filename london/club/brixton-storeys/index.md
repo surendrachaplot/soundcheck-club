@@ -1,8 +1,8 @@
 # Brixton Storeys
 
-Brixton Storeys is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Wookie & Friends (Halloween Special)" on Sat, 31 Oct 2026.
+Brixton Storeys is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Wookie & Friends (Halloween Special)" on Sat, 31 Oct 2026.
 
-Brixton Storeys is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Wookie. Browse upcoming dates, start times and who's playing. 467- 469 Brixton Rd, London SW9 8HH.
+Brixton Storeys is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Wookie. See dates, start times and who's playing. 467- 469 Brixton Rd, London SW9 8HH.
 
 ## What's on
 

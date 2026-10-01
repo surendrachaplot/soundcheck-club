@@ -1,6 +1,6 @@
 # Feiern wie früher - nur früher! Der DAY RAVE mit Anna Reusch & Thomas Schumacher at Die Rakete
 
-Feiern wie früher - nur früher! Der DAY RAVE mit Anna Reusch & Thomas Schumacher at Die Rakete on Sat 26 Dec, Nürnberg. 3 artists on the bill: Anna Reusch, Sylvie Miles and Thomas Schumacher. Techno. Preview the line-up and save it on soundcheck.
+Feiern wie früher - nur früher! Der DAY RAVE mit Anna Reusch & Thomas Schumacher at Die Rakete on Sat 26 Dec, Nürnberg. 3 artists: Anna Reusch, Sylvie Miles and Thomas Schumacher. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

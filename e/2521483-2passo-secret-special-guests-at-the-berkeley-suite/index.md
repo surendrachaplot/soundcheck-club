@@ -1,6 +1,6 @@
 # 2Passo // Secret Special Guests at The Berkeley Suite
 
-2Passo // Secret Special Guests at The Berkeley Suite on Sun 20 Dec, Glasgow. House and Garage. Preview the line-up and save it on soundcheck.
+2Passo // Secret Special Guests at The Berkeley Suite on Sun 20 Dec, Glasgow. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

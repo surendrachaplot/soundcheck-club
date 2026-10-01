@@ -1,6 +1,6 @@
 # Ueberrest - Valsemøllen at Valsemøllen
 
-Ueberrest - Valsemøllen on Fri 16 Oct, Bergen. 2 artists on the bill: M:RC and Ueberrest. Preview the line-up and save it on soundcheck.
+Ueberrest - Valsemøllen on Fri 16 Oct, Bergen. 2 artists: M:RC and Ueberrest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

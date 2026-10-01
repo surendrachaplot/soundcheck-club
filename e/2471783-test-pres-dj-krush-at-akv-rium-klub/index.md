@@ -1,6 +1,6 @@
 # Test pres. DJ Krush at Akvárium Klub
 
-Test pres. DJ Krush at Akvárium Klub on Sat 24 Oct, Budapest. Hip-Hop and Dubstep. Preview the line-up and save it on soundcheck.
+Test pres. DJ Krush at Akvárium Klub on Sat 24 Oct, Budapest. Hip-Hop and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

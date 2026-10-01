@@ -1,6 +1,6 @@
 # Cactus Club at The Colombian at Colombian Hotel
 
-Cactus Club at The Colombian at Colombian Hotel on Fri 9 Oct, Sydney. House and Tech House. Preview the line-up and save it on soundcheck.
+Cactus Club at The Colombian at Colombian Hotel on Fri 9 Oct, Sydney. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

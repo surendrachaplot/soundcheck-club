@@ -1,8 +1,8 @@
 # NADA Lisbon
 
-NADA Lisbon is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Pulso × Amsterdam Techno Sessions with CRAVO (Hayes - Carícia Records - SK_Eleven)" on Sat, 3 Oct 2026.
+NADA Lisbon is a music venue in Lisbon with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Pulso × Amsterdam Techno Sessions with CRAVO (Hayes - Carícia Records - SK_Eleven)" on Sat, 3 Oct 2026.
 
-NADA Lisbon is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including A.Paul, CRAVO, Chich and DJ Link and 2 more. Browse upcoming dates, start times and who's playing. R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho - lisbon portugal.
+NADA Lisbon is a music venue in Lisbon listed on soundcheck. 3 upcoming gigs, with line-ups including A.Paul, CRAVO, Chich and DJ Link and 2 more. See dates, start times and who's playing. R. Ary dos Santos 3, Armazém 6, 2685-312 Prior Velho - lisbon portugal.
 
 ## What's on
 

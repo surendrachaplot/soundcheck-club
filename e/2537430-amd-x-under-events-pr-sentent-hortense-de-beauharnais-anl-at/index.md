@@ -1,6 +1,6 @@
 # Amd x Under Events Présentent: Hortense de Beauharnais ANL at Rex Club
 
-Amd x Under Events Présentent: Hortense de Beauharnais ANL at Rex Club on Thu 19 Nov, Paris. 1 artist on the bill: Hortense de Beauharnais. Techno. Preview the line-up and save it on soundcheck.
+Amd x Under Events Présentent: Hortense de Beauharnais ANL at Rex Club on Thu 19 Nov, Paris. 1 artist: Hortense de Beauharnais. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

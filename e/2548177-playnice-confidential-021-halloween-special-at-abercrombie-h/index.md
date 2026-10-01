@@ -1,6 +1,6 @@
 # PLAYNICE CONFIDENTIAL 021 - HALLOWEEN SPECIAL at Abercrombie Hotel
 
-PLAYNICE CONFIDENTIAL 021 - HALLOWEEN SPECIAL at Abercrombie Hotel on Sat 31 Oct, Sydney. 2 artists on the bill: Baby G and DAWS. House. Preview the line-up and save it on soundcheck.
+PLAYNICE CONFIDENTIAL 021 - HALLOWEEN SPECIAL at Abercrombie Hotel on Sat 31 Oct, Sydney. 2 artists: Baby G and DAWS. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

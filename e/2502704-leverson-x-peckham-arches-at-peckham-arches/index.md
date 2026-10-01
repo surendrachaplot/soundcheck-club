@@ -1,6 +1,6 @@
 # leverson x Peckham Arches at Peckham Arches
 
-leverson x Peckham Arches on Thu 1 Oct, London. 1 artist on the bill: leverson. Hip-Hop and Garage. Preview the line-up and save it on soundcheck.
+leverson x Peckham Arches on Thu 1 Oct, London. 1 artist: leverson. Hip-Hop and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

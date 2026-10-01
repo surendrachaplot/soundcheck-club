@@ -1,6 +1,6 @@
 # BASHMENT TOKYO / バッシュメント トーキョー at 不眠遊戯ライオン - Music Bar Lion
 
-BASHMENT TOKYO / バッシュメント トーキョー at 不眠遊戯ライオン - Music Bar Lion on Sat 10 Oct, Tokyo. Dancehall and Afrobeats. Preview the line-up and save it on soundcheck.
+BASHMENT TOKYO / バッシュメント トーキョー at 不眠遊戯ライオン - Music Bar Lion on Sat 10 Oct, Tokyo. Dancehall and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

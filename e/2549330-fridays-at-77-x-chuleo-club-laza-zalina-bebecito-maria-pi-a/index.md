@@ -1,6 +1,6 @@
 # Fridays at 77 x Chuleo Club: LAZA, Zalina, BEBECITO, Maria Piña at Club 77
 
-Fridays at 77 x Chuleo Club: LAZA, Zalina, BEBECITO, Maria Piña at Club 77 on Fri 30 Oct, Sydney. 2 artists on the bill: Maria Piña and Zalina. Baile Funk and Latin Bass. Preview the line-up and save it on soundcheck.
+Fridays at 77 x Chuleo Club: LAZA, Zalina, BEBECITO, Maria Piña at Club 77 on Fri 30 Oct, Sydney. 2 artists: Maria Piña and Zalina. Baile Funk and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

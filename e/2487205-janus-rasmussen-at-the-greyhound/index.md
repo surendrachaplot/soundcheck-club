@@ -1,6 +1,6 @@
 # Janus Rasmussen at The Greyhound
 
-Janus Rasmussen at The Greyhound on Thu 26 Nov, London. 1 artist on the bill: Janus Rasmussen. Club and Electronica. Preview the line-up and save it on soundcheck.
+Janus Rasmussen at The Greyhound on Thu 26 Nov, London. 1 artist: Janus Rasmussen. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

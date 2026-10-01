@@ -1,8 +1,8 @@
 # Alex Zhang Hungtai
 
-Alex Zhang Hungtai is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Pilar - VUB, Brussels on Thu, 1 Oct 2026.
+Alex Zhang Hungtai is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pilar - VUB, Brussels on Thu, 1 Oct 2026.
 
-Alex Zhang Hungtai is an experimental and techno artist based in Taiwan, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Brussels and Glasgow and 11 more. Often billed alongside Aba Shanti-I, Arooj Aftab and BRINGAS. Next up: Pilar - VUB, Brussels on Thu 1 Oct.
+Alex Zhang Hungtai is an experimental and techno artist based in Taiwan, with 24 gigs on soundcheck across Barcelona, Berlin, Brussels and Glasgow and 11 more. Often billed alongside Aba Shanti-I, Arooj Aftab and BRINGAS. Next up: Pilar - VUB, Brussels on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Alex Zhang Hungtai is an experimental and techno artist based in Taiwan, tracked
 
 ## Recently played
 
-- TBA - Rotterdam Various Locations, Rotterdam — Thu, 24 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Casa Montjuïc, Barcelona — Fri, 3 Jul 2026
-- The Wrong Side, Paris — Tue, 24 Mar 2026
-- EXIT Glasgow, Glasgow — Wed, 18 Mar 2026
-- Pilar - VUB, Brussels — Tue, 2 Dec 2025
-- Royal Exhibition Building, Melbourne — Thu, 21 Aug 2025
-- MoMA PS1, New York City — Fri, 18 Jul 2025
+- TBA - Rotterdam Various Locations, Rotterdam · Thu, 24 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Casa Montjuïc, Barcelona · Fri, 3 Jul 2026
+- The Wrong Side, Paris · Tue, 24 Mar 2026
+- EXIT Glasgow, Glasgow · Wed, 18 Mar 2026
+- Pilar - VUB, Brussels · Tue, 2 Dec 2025
+- Royal Exhibition Building, Melbourne · Thu, 21 Aug 2025
+- MoMA PS1, New York City · Fri, 18 Jul 2025
 
 ## Shares bills with
 

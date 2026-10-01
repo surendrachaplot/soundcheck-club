@@ -1,8 +1,8 @@
 # BAR15
 
-BAR15 is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Stockholm Soundfest 2026" on Sat, 3 Oct 2026.
+BAR15 is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Stockholm Soundfest 2026" on Sat, 3 Oct 2026.
 
-BAR15 is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, with line-ups including Bogeyman, Coco & Breezy, Kapote and Maribou State and 1 more. Browse upcoming dates, start times and who's playing. DISTRIKTFEM Hallgränd 19 121 62 Johanneshov, Stockholm, Sweden.
+BAR15 is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, with line-ups including Bogeyman, Coco & Breezy, Kapote and Maribou State and 1 more. See dates, start times and who's playing. DISTRIKTFEM Hallgränd 19 121 62 Johanneshov, Stockholm, Sweden.
 
 ## What's on
 

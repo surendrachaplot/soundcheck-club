@@ -1,8 +1,8 @@
 # Gîn Bali
 
-Gîn Bali is a House and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
+Gîn Bali is a House and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Open Ground, Wuppertal on Fri, 2 Oct 2026.
 
-Gîn Bali is a house and hip-hop artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Cologne, Düsseldorf and Wuppertal. Often billed alongside Aaro, Andras_2020 and Rafush. Next up: Open Ground, Wuppertal on Fri 2 Oct.
+Gîn Bali is a house and hip-hop artist based in Germany, with 21 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Wuppertal. Often billed alongside Aaro, Andras_2020 and Rafush. Next up: Open Ground, Wuppertal on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Gîn Bali is a house and hip-hop artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- JAKI, Cologne — Fri, 12 Dec 2025
-- NEW FEARS, Berlin — Thu, 20 Nov 2025
-- fi, Cologne — Thu, 2 Oct 2025
-- Gewölbe, Cologne — Fri, 4 Jul 2025
-- JAKI, Cologne — Fri, 30 May 2025
-- ://about blank, Berlin — Fri, 9 May 2025
-- JAKI, Cologne — Sat, 8 Mar 2025
-- JAKI, Cologne — Tue, 31 Dec 2024
+- JAKI, Cologne · Fri, 12 Dec 2025
+- NEW FEARS, Berlin · Thu, 20 Nov 2025
+- fi, Cologne · Thu, 2 Oct 2025
+- Gewölbe, Cologne · Fri, 4 Jul 2025
+- JAKI, Cologne · Fri, 30 May 2025
+- ://about blank, Berlin · Fri, 9 May 2025
+- JAKI, Cologne · Sat, 8 Mar 2025
+- JAKI, Cologne · Tue, 31 Dec 2024
 
 ## Shares bills with
 

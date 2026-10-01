@@ -1,8 +1,8 @@
 # TBA - 525 SE Pine st
 
-TBA - 525 SE Pine st is a music venue in Portland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Spend The Night + Be Yourself: Pearson Sound (Hessle Audio)" on Fri, 16 Oct 2026.
+TBA - 525 SE Pine st is a music venue in Portland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Spend The Night + Be Yourself: Pearson Sound (Hessle Audio)" on Fri, 16 Oct 2026.
 
-TBA - 525 SE Pine st is a music venue in Portland listed on soundcheck. 1 upcoming gig, with line-ups including Gardenparty, Pearson Sound and Petite Syrah. Browse upcoming dates, start times and who's playing.
+TBA - 525 SE Pine st is a music venue in Portland listed on soundcheck. 1 upcoming gig, with line-ups including Gardenparty, Pearson Sound and Petite Syrah. See dates, start times and who's playing.
 
 ## What's on
 

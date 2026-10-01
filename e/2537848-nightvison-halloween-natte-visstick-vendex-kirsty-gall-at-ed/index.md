@@ -1,6 +1,6 @@
 # Nightvison Halloween: Natte Visstick, Vendex, KIRSTY, GALLØ at Edinburgh Corn Exchange
 
-Nightvison Halloween: Natte Visstick, Vendex, KIRSTY, GALLØ at Edinburgh Corn Exchange on Fri 30 Oct, Edinburgh. 2 artists on the bill: KIRSTY and Vendex. Techno. Preview the line-up and save it on soundcheck.
+Nightvison Halloween: Natte Visstick, Vendex, KIRSTY, GALLØ at Edinburgh Corn Exchange on Fri 30 Oct, Edinburgh. 2 artists: KIRSTY and Vendex. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SHOWHEY at DJ Bar Bridge Shinjuku
 
-SHOWHEY at DJ Bar Bridge Shinjuku on Sat 28 Nov, Tokyo. House. Preview the line-up and save it on soundcheck.
+SHOWHEY at DJ Bar Bridge Shinjuku on Sat 28 Nov, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

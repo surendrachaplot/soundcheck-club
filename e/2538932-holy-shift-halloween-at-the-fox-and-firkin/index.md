@@ -1,6 +1,6 @@
 # Holy Shift Halloween at The Fox and Firkin
 
-Holy Shift Halloween at The Fox and Firkin on Fri 30 Oct, London. Electro. Preview the line-up and save it on soundcheck.
+Holy Shift Halloween at The Fox and Firkin on Fri 30 Oct, London. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

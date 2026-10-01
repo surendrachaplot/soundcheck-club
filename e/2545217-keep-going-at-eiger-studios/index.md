@@ -1,6 +1,6 @@
 # keep going at Eiger Studios
 
-keep going at Eiger Studios on Fri 13 Nov, Leeds. 2 artists on the bill: Shizla and švedka. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+keep going at Eiger Studios on Fri 13 Nov, Leeds. 2 artists: Shizla and švedka. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # QUINCE (2)
 
-QUINCE (2) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
+QUINCE (2) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 12 Dec 2026.
 
-QUINCE is a trance and techno artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin and Madrid. Often billed alongside H1pnos1s, YËDM and NARCX. Next up: Lokschuppen Berlin, Berlin on Sat 12 Dec.
+QUINCE is a trance and techno artist based in Spain, with 23 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside H1pnos1s, YËDM and NARCX. Next up: Lokschuppen Berlin, Berlin on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ QUINCE is a trance and techno artist based in Spain, tracked on soundcheck, with
 
 ## Recently played
 
-- Hotel El Bruc, Barcelona — Sat, 19 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 17 Jul 2026
-- Lokschuppen Berlin, Berlin — Fri, 3 Jul 2026
-- Sala Independance Club, Madrid — Fri, 5 Jun 2026
-- Lokschuppen Berlin, Berlin — Fri, 22 May 2026
-- Sala Independance Club, Madrid — Fri, 17 Apr 2026
-- Mondo, Madrid — Thu, 12 Mar 2026
-- Laboratorio Octogon, Madrid — Sat, 28 Feb 2026
+- Hotel El Bruc, Barcelona · Sat, 19 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 17 Jul 2026
+- Lokschuppen Berlin, Berlin · Fri, 3 Jul 2026
+- Sala Independance Club, Madrid · Fri, 5 Jun 2026
+- Lokschuppen Berlin, Berlin · Fri, 22 May 2026
+- Sala Independance Club, Madrid · Fri, 17 Apr 2026
+- Mondo, Madrid · Thu, 12 Mar 2026
+- Laboratorio Octogon, Madrid · Sat, 28 Feb 2026
 
 ## Shares bills with
 

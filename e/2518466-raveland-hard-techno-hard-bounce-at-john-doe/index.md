@@ -1,6 +1,6 @@
 # RAVELAND: Hard Techno & Hard Bounce at John Doe
 
-RAVELAND: Hard Techno & Hard Bounce at John Doe on Wed 7 Oct, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+RAVELAND: Hard Techno & Hard Bounce at John Doe on Wed 7 Oct, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

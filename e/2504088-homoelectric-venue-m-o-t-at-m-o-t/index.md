@@ -1,6 +1,6 @@
 # Homoelectric @ Venue M.O.T at M.O.T
 
-Homoelectric @ Venue M.O.T on Sat 14 Nov, London. Preview the line-up and save it on soundcheck.
+Homoelectric @ Venue M.O.T on Sat 14 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AFFR x Nous'klaer Audio x Operator at Lantaren/Venster
 
-AFFR x Nous'klaer Audio x Operator at Lantaren/Venster on Sat 10 Oct, Rotterdam. 5 artists on the bill: Clarisa Kimskii, Delano Legito, Neska and Oberman and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+AFFR x Nous'klaer Audio x Operator at Lantaren/Venster on Sat 10 Oct, Rotterdam. 5 artists: Clarisa Kimskii, Delano Legito, Neska and Oberman and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

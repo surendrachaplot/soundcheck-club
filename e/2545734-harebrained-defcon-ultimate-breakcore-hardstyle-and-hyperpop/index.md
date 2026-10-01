@@ -1,6 +1,6 @@
 # HAREBRAINED: DEFCON ULTIMATE / Breakcore, Hardstyle, and Hyperpop Hits 4 Lovers & Frenemies at TBA - Secret Location
 
-HAREBRAINED: DEFCON ULTIMATE / Breakcore, Hardstyle, and Hyperpop Hits 4 Lovers & Frenemies at TBA - Secret Location on Fri 9 Oct, Detroit. 7 artists on the bill: Baseck, fi3nd, joycxi and Kuuma and 3 more. Hardcore and Breakcore. Preview the line-up and save it on soundcheck.
+HAREBRAINED: DEFCON ULTIMATE / Breakcore, Hardstyle, and Hyperpop Hits 4 Lovers & Frenemies at TBA - Secret Location on Fri 9 Oct, Detroit. 7 artists: Baseck, fi3nd, joycxi and Kuuma and 3 more. Hardcore and Breakcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

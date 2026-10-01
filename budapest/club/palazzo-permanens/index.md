@@ -1,8 +1,8 @@
 # Palazzo Permanens
 
-Palazzo Permanens is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "LavaLava x Memphis: The Grand Convivium with Afriqua" on Sat, 21 Nov 2026.
+Palazzo Permanens is a music venue in Budapest with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "LavaLava x Memphis: The Grand Convivium with Afriqua" on Sat, 21 Nov 2026.
 
-Palazzo Permanens is a music venue in Budapest listed on soundcheck. 1 upcoming gig, with line-ups including Afriqua, Arash Ete, Falcao and Kiuz and 1 more. Browse upcoming dates, start times and who's playing. Budapest, Kertész u. 36, 1072.
+Palazzo Permanens is a music venue in Budapest listed on soundcheck. 1 upcoming gig, with line-ups including Afriqua, Arash Ete, Falcao and Kiuz and 1 more. See dates, start times and who's playing. Budapest, Kertész u. 36, 1072.
 
 ## What's on
 

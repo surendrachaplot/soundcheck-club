@@ -1,6 +1,6 @@
 # Refuge Saturday Daytime: Dean Turnley & Caleb Jackson at Refuge
 
-Refuge Saturday Daytime: Dean Turnley & Caleb Jackson on Sat 10 Oct, New York City. 2 artists on the bill: Caleb Jackson and Dean Turnley. Preview the line-up and save it on soundcheck.
+Refuge Saturday Daytime: Dean Turnley & Caleb Jackson on Sat 10 Oct, New York City. 2 artists: Caleb Jackson and Dean Turnley. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

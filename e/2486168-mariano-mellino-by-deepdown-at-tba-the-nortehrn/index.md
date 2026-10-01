@@ -1,6 +1,6 @@
 # Mariano Mellino by DEEPDOWN at TBA - The Nortehrn 
 
-Mariano Mellino by DEEPDOWN at TBA - The Nortehrn  on Sat 10 Oct, Byron Bay. 1 artist on the bill: Mad Dog. Preview the line-up and save it on soundcheck.
+Mariano Mellino by DEEPDOWN at TBA - The Nortehrn  on Sat 10 Oct, Byron Bay. 1 artist: Mad Dog. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

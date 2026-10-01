@@ -1,6 +1,6 @@
 # Trance Together at Kulturbetrieb Zappa
 
-Trance Together at Kulturbetrieb Zappa on Sat 17 Oct, Stuttgart. Trance. Preview the line-up and save it on soundcheck.
+Trance Together at Kulturbetrieb Zappa on Sat 17 Oct, Stuttgart. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

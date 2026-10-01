@@ -1,6 +1,6 @@
 # Ohm Hourani - Blkvirgo - Massyl at The Jama
 
-Ohm Hourani - Blkvirgo - Massyl at The Jama on Sat 3 Oct, Toronto. 3 artists on the bill: Blkvirgo, Massyl and Ohm Hourani. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Ohm Hourani - Blkvirgo - Massyl at The Jama on Sat 3 Oct, Toronto. 3 artists: Blkvirgo, Massyl and Ohm Hourani. Tech House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

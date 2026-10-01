@@ -1,6 +1,6 @@
 # Groove Thailand presents; Haunted Minimalhouse–Techno Halloween with TheVinylCasanova; plazadj at Culture Cafe
 
-Groove Thailand presents; Haunted Minimalhouse–Techno Halloween with TheVinylCasanova; plazadj at Culture Cafe on Sat 31 Oct, Bangkok. 1 artist on the bill: plazdj. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Groove Thailand presents; Haunted Minimalhouse–Techno Halloween with TheVinylCasanova; plazadj at Culture Cafe on Sat 31 Oct, Bangkok. 1 artist: plazdj. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

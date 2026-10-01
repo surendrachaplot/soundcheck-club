@@ -1,8 +1,8 @@
 # Joton
 
-Joton is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sigma, Ibiza on Fri, 9 Oct 2026.
+Joton is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sigma, Ibiza on Fri, 9 Oct 2026.
 
-Joton is a techno and electro artist based in Spain, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Alexandre Laeddis, Esterne Moog and Hector MAD. Next up: Sigma, Ibiza on Fri 9 Oct.
+Joton is a techno and electro artist based in Spain, with 57 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 16 more. Often billed alongside Alexandre Laeddis, Esterne Moog and Hector MAD. Next up: Sigma, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Joton is a techno and electro artist based in Spain, tracked on soundcheck, with
 
 ## Recently played
 
-- Glazart, Paris — Sat, 19 Sept 2026
-- LAB theCLUB, Madrid — Fri, 10 Jul 2026
-- Club Cheek, London — Sat, 6 Jun 2026
-- H0L0, New York City — Sun, 24 May 2026
-- Lofi, Amsterdam — Sat, 16 May 2026
-- Glazart, Paris — Sat, 28 Mar 2026
-- TBA - ENTITY POWDERED BY VOID ACOUSTICS, Madrid — Fri, 13 Mar 2026
-- Spook Club, Valencia — Sat, 7 Feb 2026
+- Glazart, Paris · Sat, 19 Sept 2026
+- LAB theCLUB, Madrid · Fri, 10 Jul 2026
+- Club Cheek, London · Sat, 6 Jun 2026
+- H0L0, New York City · Sun, 24 May 2026
+- Lofi, Amsterdam · Sat, 16 May 2026
+- Glazart, Paris · Sat, 28 Mar 2026
+- TBA - ENTITY POWDERED BY VOID ACOUSTICS, Madrid · Fri, 13 Mar 2026
+- Spook Club, Valencia · Sat, 7 Feb 2026
 
 ## Shares bills with
 

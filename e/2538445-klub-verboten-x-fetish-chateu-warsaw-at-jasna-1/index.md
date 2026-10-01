@@ -1,6 +1,6 @@
 # Klub Verboten x FETISH CHATEU - WARSAW at Jasna 1
 
-Klub Verboten x FETISH CHATEU - WARSAW at Jasna 1 on Fri 13 Nov, Warsaw. Techno. Preview the line-up and save it on soundcheck.
+Klub Verboten x FETISH CHATEU - WARSAW at Jasna 1 on Fri 13 Nov, Warsaw. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

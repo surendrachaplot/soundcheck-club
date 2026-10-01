@@ -1,8 +1,8 @@
 # Ozmozis
 
-Ozmozis is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Ozmozis presents Jody Wisternoff" on Fri, 6 Nov 2026.
+Ozmozis is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ozmozis presents Jody Wisternoff" on Fri, 6 Nov 2026.
 
-Ozmozis is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Eelke Kleijn, Jody Wisternoff and Lizard Time. Browse upcoming dates, start times and who's playing. 10 Wellspring Lane, Toronto, ON M4Y 2C6.
+Ozmozis is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Eelke Kleijn, Jody Wisternoff and Lizard Time. See dates, start times and who's playing. 10 Wellspring Lane, Toronto, ON M4Y 2C6.
 
 ## What's on
 

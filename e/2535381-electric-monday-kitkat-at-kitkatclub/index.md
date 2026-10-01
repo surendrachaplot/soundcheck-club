@@ -1,6 +1,6 @@
 # Electric Monday@KitKat at KitKatClub
 
-Electric Monday@KitKat at KitKatClub on Mon 26 Oct, Berlin. 3 artists on the bill: ANouch, Frankie Flowerz and Mahlas. Techno and House. Preview the line-up and save it on soundcheck.
+Electric Monday@KitKat at KitKatClub on Mon 26 Oct, Berlin. 3 artists: ANouch, Frankie Flowerz and Mahlas. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

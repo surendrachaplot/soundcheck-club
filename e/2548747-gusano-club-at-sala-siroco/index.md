@@ -1,6 +1,6 @@
 # Gusano Club at Sala Siroco
 
-Gusano Club at Sala Siroco on Sat 3 Oct, Madrid. 2 artists on the bill: Lucien and Posada. House and Acid. Preview the line-up and save it on soundcheck.
+Gusano Club at Sala Siroco on Sat 3 Oct, Madrid. 2 artists: Lucien and Posada. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

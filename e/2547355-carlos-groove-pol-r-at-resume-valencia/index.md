@@ -1,6 +1,6 @@
 # CARLOS GROOVE, Pol R at Resume Valencia
 
-CARLOS GROOVE, Pol R at Resume Valencia on Fri 9 Oct, Valencia. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+CARLOS GROOVE, Pol R at Resume Valencia on Fri 9 Oct, Valencia. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

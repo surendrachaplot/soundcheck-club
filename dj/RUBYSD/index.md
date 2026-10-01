@@ -1,8 +1,8 @@
 # Ruby SD
 
-Ruby SD is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
+Ruby SD is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 30 Oct 2026.
 
-Ruby SD is an electro and techno artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Birmingham, Bristol, Hamburg and Leeds and 2 more. Often billed alongside Son of Paul, Birrell and Bunney. Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
+Ruby SD is an electro and techno artist based in United Kingdom, with 46 gigs on soundcheck across Birmingham, Bristol, Hamburg and Leeds and 2 more. Often billed alongside Son of Paul, Birrell and Bunney. Next up: NUMBER 90 LONDON, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ruby SD is an electro and techno artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- NDR2 Red Room, London — Fri, 18 Sept 2026
-- Ballroom at Palais, London — Sat, 16 May 2026
-- Crate Brewery, London — Sat, 25 Apr 2026
-- Low Profile Studios, London — Fri, 20 Mar 2026
-- The Love Inn, Bristol — Wed, 18 Mar 2026
-- Next Door Records Two, London — Fri, 13 Mar 2026
-- M.O.T, London — Fri, 6 Mar 2026
-- Next Door Records Two, London — Sat, 14 Feb 2026
+- NDR2 Red Room, London · Fri, 18 Sept 2026
+- Ballroom at Palais, London · Sat, 16 May 2026
+- Crate Brewery, London · Sat, 25 Apr 2026
+- Low Profile Studios, London · Fri, 20 Mar 2026
+- The Love Inn, Bristol · Wed, 18 Mar 2026
+- Next Door Records Two, London · Fri, 13 Mar 2026
+- M.O.T, London · Fri, 6 Mar 2026
+- Next Door Records Two, London · Sat, 14 Feb 2026
 
 ## Shares bills with
 

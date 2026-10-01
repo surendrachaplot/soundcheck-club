@@ -1,8 +1,8 @@
 # SKIYE
 
-SKIYE is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
+SKIYE is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
 
-SKIYE is a drum & bass and techno artist based in Austria, tracked on soundcheck, with 2 sets logged across Oberhausen and Riga. Often billed alongside Aphrodite, Blooom and ESKEI83. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
+SKIYE is a drum & bass and techno artist based in Austria, with 2 gigs on soundcheck across Oberhausen and Riga. Often billed alongside Aphrodite, Blooom and ESKEI83. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
 
 ## Upcoming shows
 

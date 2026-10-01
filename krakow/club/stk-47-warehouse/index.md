@@ -1,8 +1,8 @@
 # STK 47 WAREHOUSE
 
-STK 47 WAREHOUSE is a music venue in Krakow with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Open Decks Thursdays" on Thu, 1 Oct 2026.
+STK 47 WAREHOUSE is a music venue in Krakow with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Open Decks Thursdays" on Thu, 1 Oct 2026.
 
-STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 8 upcoming gigs, with line-ups including C Razey, DOMEL, Forest (PL) and KRZ (PL) and 2 more. Browse upcoming dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
+STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 8 upcoming gigs, with line-ups including C Razey, DOMEL, Forest (PL) and KRZ (PL) and 2 more. See dates, start times and who's playing. Kraków, 30-727, Pana Tadeusza 6, Poland.
 
 ## What's on
 
@@ -11,7 +11,7 @@ STK 47 WAREHOUSE is a music venue in Krakow listed on soundcheck. 8 upcoming gig
 | Thu, 1 Oct 2026 | Open Decks Thursdays | Yōsta |
 | Fri, 2 Oct 2026 | Art Groove 02.10 KRAKOW MILA, LARIN, DAYTONA, HELLIS, 0402 |  |
 | Sat, 3 Oct 2026 | WAREHOUSE TAKEOVER: VINYL ONLY | DOMEL, MRV (1), RAJZ, max whatever |
-| Fri, 9 Oct 2026 | Nachtwerk #003  | C Razey, Mordeaux, Tving Stage Design, Vi (PL), outta_8 |
+| Fri, 9 Oct 2026 | Nachtwerk #003 / 09.10.2026 // STK47 WAREHOUSE  | C Razey, Mordeaux, Tving Stage Design, Vi (PL), outta_8 |
 | Fri, 9 Oct 2026 | nachtwerk #003 | C Razey, Mordeaux, Tving Stage Design, Vi (PL), outta_8 |
 | Fri, 16 Oct 2026 | 4SOME INVITES - MERVH |  |
 | Fri, 23 Oct 2026 | VAN DER WIESE - HardWanted x TribeDistrict - KRK | KRZ (PL) |

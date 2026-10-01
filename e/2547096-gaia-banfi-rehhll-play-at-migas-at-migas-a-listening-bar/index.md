@@ -1,6 +1,6 @@
 # Gaia Banfi & rehhll play at migas at migas, a listening bar
 
-Gaia Banfi & rehhll play at migas at migas, a listening bar on Thu 8 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Gaia Banfi & rehhll play at migas at migas, a listening bar on Thu 8 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

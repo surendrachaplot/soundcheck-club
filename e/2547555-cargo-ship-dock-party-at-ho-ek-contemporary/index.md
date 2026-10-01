@@ -1,6 +1,6 @@
 # Cargo Ship Dock Party at Hošek Contemporary
 
-Cargo Ship Dock Party at Hošek Contemporary on Sat 3 Oct, Berlin. 3 artists on the bill: Beqqi, charli/e and ferrari rot. House and Tech House. Preview the line-up and save it on soundcheck.
+Cargo Ship Dock Party at Hošek Contemporary on Sat 3 Oct, Berlin. 3 artists: Beqqi, charli/e and ferrari rot. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

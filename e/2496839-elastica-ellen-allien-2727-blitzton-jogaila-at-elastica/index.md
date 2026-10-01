@@ -1,6 +1,6 @@
 # Elastica: Ellen Allien ❚ 2727 ❚ BLITZTON ❚ Jogaila at Elastica
 
-Elastica: Ellen Allien ❚ 2727 ❚ BLITZTON ❚ Jogaila on Fri 2 Oct, Vilnius. 4 artists on the bill: 2727, blitzton, Ellen Allien and Jogaila. Preview the line-up and save it on soundcheck.
+Elastica: Ellen Allien ❚ 2727 ❚ BLITZTON ❚ Jogaila on Fri 2 Oct, Vilnius. 4 artists: 2727, blitzton, Ellen Allien and Jogaila. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

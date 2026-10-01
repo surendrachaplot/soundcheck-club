@@ -1,6 +1,6 @@
 # Benidorm con JODER PILAR + lebollet + ALWA + Kamboya at Muller Bar
 
-Benidorm con JODER PILAR + lebollet + ALWA + Kamboya at Muller Bar on Fri 2 Oct, Madrid. 3 artists on the bill: alalwa, Kamboya and lebollet. House and Disco. Preview the line-up and save it on soundcheck.
+Benidorm con JODER PILAR + lebollet + ALWA + Kamboya at Muller Bar on Fri 2 Oct, Madrid. 3 artists: alalwa, Kamboya and lebollet. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

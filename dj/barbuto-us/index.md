@@ -1,8 +1,8 @@
 # Barbuto
 
-Barbuto is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Civic Underground, Sydney on Sat, 10 Oct 2026.
+Barbuto is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Civic Underground, Sydney on Sat, 10 Oct 2026.
 
-Barbuto is a techno and tech house artist based in United States of America, tracked on soundcheck, with 24 sets logged across Melbourne, San Diego and Sydney. Often billed alongside Nick Reverse, PAPCO and Trent Hadid. Next up: Civic Underground, Sydney on Sat 10 Oct.
+Barbuto is a techno and tech house artist based in United States of America, with 24 gigs on soundcheck across Melbourne, San Diego and Sydney. Often billed alongside Nick Reverse, PAPCO and Trent Hadid. Next up: Civic Underground, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Barbuto is a techno and tech house artist based in United States of America, tra
 
 ## Recently played
 
-- The Greenwood Hotel, Sydney — Sat, 21 Feb 2026
-- Aura Nightclub, Sydney — Sun, 25 Jan 2026
-- Home The Venue, Sydney — Fri, 21 Nov 2025
-- Tokyo Sing Song, Sydney — Sat, 15 Nov 2025
-- Aura Nightclub, Sydney — Fri, 11 Jul 2025
-- Aura Nightclub, Sydney — Sat, 14 Jun 2025
-- Oxford Art Factory, Sydney — Fri, 16 May 2025
-- 231 Sydney, Sydney — Sat, 22 Mar 2025
+- The Greenwood Hotel, Sydney · Sat, 21 Feb 2026
+- Aura Nightclub, Sydney · Sun, 25 Jan 2026
+- Home The Venue, Sydney · Fri, 21 Nov 2025
+- Tokyo Sing Song, Sydney · Sat, 15 Nov 2025
+- Aura Nightclub, Sydney · Fri, 11 Jul 2025
+- Aura Nightclub, Sydney · Sat, 14 Jun 2025
+- Oxford Art Factory, Sydney · Fri, 16 May 2025
+- 231 Sydney, Sydney · Sat, 22 Mar 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Dave Clarke, DeFeKT - Live & Kaycee at Centre Point
 
-Dave Clarke, DeFeKT - Live & Kaycee at Centre Point on Sat 28 Nov, Dublin. 3 artists on the bill: Dave Clarke, DeFeKT and Kaycee. Techno and Electro. Preview the line-up and save it on soundcheck.
+Dave Clarke, DeFeKT - Live & Kaycee at Centre Point on Sat 28 Nov, Dublin. 3 artists: Dave Clarke, DeFeKT and Kaycee. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Stereo33: Dystecha, Kaierchen, Medux, Namaar at The Chemist
 
-Stereo33: Dystecha, Kaierchen, Medux, Namaar at The Chemist on Fri 16 Oct, Boston. 1 artist on the bill: Medux. House and Deep House. Preview the line-up and save it on soundcheck.
+Stereo33: Dystecha, Kaierchen, Medux, Namaar at The Chemist on Fri 16 Oct, Boston. 1 artist: Medux. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

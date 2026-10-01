@@ -1,6 +1,6 @@
 # Friends In High Places feat. Liva K at Westlight Rooftop at The William Vale
 
-Friends In High Places feat. Liva K at Westlight Rooftop at The William Vale on Fri 9 Oct, New York City. 1 artist on the bill: Liva K. Afro House. Preview the line-up and save it on soundcheck.
+Friends In High Places feat. Liva K at Westlight Rooftop at The William Vale on Fri 9 Oct, New York City. 1 artist: Liva K. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

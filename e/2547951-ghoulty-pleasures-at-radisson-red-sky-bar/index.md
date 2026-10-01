@@ -1,6 +1,6 @@
 # Ghoulty Pleasures at Radisson Red Sky Bar
 
-Ghoulty Pleasures at Radisson Red Sky Bar on Fri 30 Oct, Glasgow. House. Preview the line-up and save it on soundcheck.
+Ghoulty Pleasures at Radisson Red Sky Bar on Fri 30 Oct, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # honestav - The Sweet American Boy Tour MIAMI at Midline
 
-honestav - The Sweet American Boy Tour MIAMI at Midline on Fri 13 Nov, Miami. Hip-Hop. Preview the line-up and save it on soundcheck.
+honestav - The Sweet American Boy Tour MIAMI at Midline on Fri 13 Nov, Miami. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

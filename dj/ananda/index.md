@@ -1,8 +1,8 @@
 # Ananda (BR)
 
-Ananda (BR) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
+Ananda (BR) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Komplexo Tempo, Sao Paulo on Sun, 11 Oct 2026.
 
-Ananda (BR) is a techno and house artist based in Brazil, tracked on soundcheck, with 54 sets logged across Berlin, Brussels, Lisbon and London and 3 more. Often billed alongside Kontronatura, Victin and Cashu. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
+Ananda (BR) is a techno and house artist based in Brazil, with 54 gigs on soundcheck across Berlin, Brussels, Lisbon and London and 3 more. Often billed alongside Kontronatura, Victin and Cashu. Next up: Komplexo Tempo, Sao Paulo on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Ananda (BR) is a techno and house artist based in Brazil, tracked on soundcheck,
 
 ## Recently played
 
-- TBA, Sao Paulo — Fri, 25 Sept 2026
-- Central 1926, Sao Paulo — Sat, 5 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 22 Aug 2026
-- Marmorbar, Berlin — Sat, 8 Aug 2026
-- Unité.22, Marseille — Sat, 1 Aug 2026
-- Distillery N17, London — Fri, 31 Jul 2026
-- Fabriketa, Sao Paulo — Fri, 19 Jun 2026
-- TBA, Sao Paulo — Sat, 16 May 2026
+- TBA, Sao Paulo · Fri, 25 Sept 2026
+- Central 1926, Sao Paulo · Sat, 5 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 22 Aug 2026
+- Marmorbar, Berlin · Sat, 8 Aug 2026
+- Unité.22, Marseille · Sat, 1 Aug 2026
+- Distillery N17, London · Fri, 31 Jul 2026
+- Fabriketa, Sao Paulo · Fri, 19 Jun 2026
+- TBA, Sao Paulo · Sat, 16 May 2026
 
 ## Shares bills with
 

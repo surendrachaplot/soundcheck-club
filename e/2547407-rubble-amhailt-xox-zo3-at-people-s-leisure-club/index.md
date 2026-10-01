@@ -1,6 +1,6 @@
 # RUBBLE // amhailt.xox, zo3 at People's Leisure Club
 
-RUBBLE // amhailt.xox, zo3 at People's Leisure Club on Tue 6 Oct, Edinburgh. 2 artists on the bill: amhailt.xox and ZO3. Hardcore and Pop. Preview the line-up and save it on soundcheck.
+RUBBLE // amhailt.xox, zo3 at People's Leisure Club on Tue 6 Oct, Edinburgh. 2 artists: amhailt.xox and ZO3. Hardcore and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

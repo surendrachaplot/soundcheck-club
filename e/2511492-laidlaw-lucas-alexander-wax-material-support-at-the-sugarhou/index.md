@@ -1,6 +1,6 @@
 # Laidlaw, Lucas Alexander, Wax Material + support at The Sugarhouse
 
-Laidlaw, Lucas Alexander, Wax Material + support at The Sugarhouse on Sat 17 Oct, North. 3 artists on the bill: Laidlaw, Lucas Alexander and Wax Material. Preview the line-up and save it on soundcheck.
+Laidlaw, Lucas Alexander, Wax Material + support at The Sugarhouse on Sat 17 Oct, North. 3 artists: Laidlaw, Lucas Alexander and Wax Material. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

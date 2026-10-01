@@ -1,8 +1,8 @@
 # Kollision
 
-Kollision is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depo Klub, Zagreb on Sat, 3 Oct 2026.
+Kollision is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depo Klub, Zagreb on Sat, 3 Oct 2026.
 
-Kollision is a techno and trance artist based in India, tracked on soundcheck, with 12 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Lady Maru, PULSES (NL) and ANDRØMEDA. Next up: Depo Klub, Zagreb on Sat 3 Oct.
+Kollision is a techno and trance artist based in India, with 12 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 7 more. Often billed alongside Lady Maru, PULSES (NL) and ANDRØMEDA. Next up: Depo Klub, Zagreb on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kollision is a techno and trance artist based in India, tracked on soundcheck, w
 
 ## Recently played
 
-- Zoo, Geneva — Sat, 26 Sept 2026
-- TBA - Sunburn Union, Amsterdam — Fri, 2 May 2025
-- Kømplex Lisbon, Lisbon — Sat, 15 Mar 2025
-- FOLD, London — Sat, 8 Mar 2025
-- OXI, Berlin — Tue, 4 Mar 2025
-- Moog Club, Barcelona — Thu, 20 Feb 2025
-- Pistil, Seoul — Sat, 19 Oct 2024
-- Club Under, Osaka — Sat, 12 Oct 2024
+- Zoo, Geneva · Sat, 26 Sept 2026
+- TBA - Sunburn Union, Amsterdam · Fri, 2 May 2025
+- Kømplex Lisbon, Lisbon · Sat, 15 Mar 2025
+- FOLD, London · Sat, 8 Mar 2025
+- OXI, Berlin · Tue, 4 Mar 2025
+- Moog Club, Barcelona · Thu, 20 Feb 2025
+- Pistil, Seoul · Sat, 19 Oct 2024
+- Club Under, Osaka · Sat, 12 Oct 2024
 
 ## Shares bills with
 

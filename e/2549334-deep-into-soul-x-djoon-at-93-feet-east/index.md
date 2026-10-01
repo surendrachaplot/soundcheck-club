@@ -1,6 +1,6 @@
 # Deep Into Soul x Djoon at 93 Feet East
 
-Deep Into Soul x Djoon at 93 Feet East on Sat 14 Nov, London. 4 artists on the bill: Afshin, Kapela, Neil Pierce and Sy Sez. House and Deep House. Preview the line-up and save it on soundcheck.
+Deep Into Soul x Djoon at 93 Feet East on Sat 14 Nov, London. 4 artists: Afshin, Kapela, Neil Pierce and Sy Sez. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

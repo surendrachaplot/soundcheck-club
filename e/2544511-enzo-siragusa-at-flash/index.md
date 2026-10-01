@@ -1,6 +1,6 @@
 # Enzo Siragusa at Flash
 
-Enzo Siragusa at Flash on Fri 13 Nov, Washington DC. 2 artists on the bill: DURFY and Enzo Siragusa. House and Tech House. Preview the line-up and save it on soundcheck.
+Enzo Siragusa at Flash on Fri 13 Nov, Washington DC. 2 artists: DURFY and Enzo Siragusa. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

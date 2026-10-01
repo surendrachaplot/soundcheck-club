@@ -1,6 +1,6 @@
 # DNIT: Actress (Live) + Phran (DJ Set) at Caixaforum
 
-DNIT: Actress (Live) + Phran (DJ Set) at Caixaforum on Fri 30 Oct, Barcelona. 2 artists on the bill: Actress and Phran. Preview the line-up and save it on soundcheck.
+DNIT: Actress (Live) + Phran (DJ Set) at Caixaforum on Fri 30 Oct, Barcelona. 2 artists: Actress and Phran. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CEM YILDIZ live at A38
 
-CEM YILDIZ live at A38 on Sat 17 Oct, Budapest. Techno and Acid. Preview the line-up and save it on soundcheck.
+CEM YILDIZ live at A38 on Sat 17 Oct, Budapest. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

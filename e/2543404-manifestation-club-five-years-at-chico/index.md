@@ -1,6 +1,6 @@
 # Manifestation Club [Five Years] at CHICO
 
-Manifestation Club [Five Years] at CHICO on Sat 3 Oct, Mexico City. 10 artists on the bill: Andre VII, Baby Mango, Bluecommand and Cybebe and 6 more. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Manifestation Club [Five Years] at CHICO on Sat 3 Oct, Mexico City. 10 artists: Andre VII, Baby Mango, Bluecommand and Cybebe and 6 more. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

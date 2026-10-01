@@ -1,6 +1,6 @@
 # Underground House at 110.Club
 
-Underground House at 110.Club on Fri 2 Oct, Lyon. 1 artist on the bill: MacManus. House and Deep House. Preview the line-up and save it on soundcheck.
+Underground House at 110.Club on Fri 2 Oct, Lyon. 1 artist: MacManus. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

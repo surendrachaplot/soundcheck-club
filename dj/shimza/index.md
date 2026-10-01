@@ -1,8 +1,8 @@
 # Shimza
 
-Shimza is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hï Ibiza, Ibiza on Mon, 5 Oct 2026.
+Shimza is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hï Ibiza, Ibiza on Mon, 5 Oct 2026.
 
-Shimza is an afro house and house artist based in South Africa, tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Hï Ibiza, Ibiza on Mon 5 Oct.
+Shimza is an afro house and house artist based in South Africa, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside ARODES, Andrea Oliva and Mahmut Orhan. Next up: Hï Ibiza, Ibiza on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Shimza is an afro house and house artist based in South Africa, tracked on sound
 
 ## Recently played
 
-- Reframe Studios Indoors, Los Angeles — Sat, 19 Sept 2026
-- Olympic Athletic Center of Athens, Athens — Fri, 4 Sept 2026
-- Jevremovac Botanical Garden, Belgrade — Wed, 2 Sept 2026
-- Parque da Cidade, Porto — Sat, 29 Aug 2026
-- Chinois Ibiza, Ibiza — Wed, 26 Aug 2026
-- Hï Ibiza, Ibiza — Mon, 10 Aug 2026
-- Millennium Háza, Budapest — Fri, 7 Aug 2026
-- Hï Ibiza, Ibiza — Sat, 25 Jul 2026
+- Reframe Studios Indoors, Los Angeles · Sat, 19 Sept 2026
+- Olympic Athletic Center of Athens, Athens · Fri, 4 Sept 2026
+- Jevremovac Botanical Garden, Belgrade · Wed, 2 Sept 2026
+- Parque da Cidade, Porto · Sat, 29 Aug 2026
+- Chinois Ibiza, Ibiza · Wed, 26 Aug 2026
+- Hï Ibiza, Ibiza · Mon, 10 Aug 2026
+- Millennium Háza, Budapest · Fri, 7 Aug 2026
+- Hï Ibiza, Ibiza · Sat, 25 Jul 2026
 
 ## Shares bills with
 

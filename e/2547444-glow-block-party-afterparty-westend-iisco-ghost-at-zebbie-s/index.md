@@ -1,6 +1,6 @@
 # GLOW Block Party Afterparty: Westend, IISCO, Ghost at Zebbie's Garden
 
-GLOW Block Party Afterparty: Westend, IISCO, Ghost at Zebbie's Garden on Sat 3 Oct, Washington DC. House and Tech House. Preview the line-up and save it on soundcheck.
+GLOW Block Party Afterparty: Westend, IISCO, Ghost at Zebbie's Garden on Sat 3 Oct, Washington DC. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

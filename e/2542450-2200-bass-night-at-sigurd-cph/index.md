@@ -1,6 +1,6 @@
 # 2200! Bass Night at Sigurd CPH
 
-2200! Bass Night at Sigurd CPH on Fri 23 Oct, Copenhagen. House and Garage. Preview the line-up and save it on soundcheck.
+2200! Bass Night at Sigurd CPH on Fri 23 Oct, Copenhagen. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

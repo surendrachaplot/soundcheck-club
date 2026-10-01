@@ -1,8 +1,8 @@
 # Andrés Sancho
 
-Andrés Sancho is a Electronica and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Doggy Klœb, Malaga on Sat, 31 Oct 2026.
+Andrés Sancho is a Electronica and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Doggy Klœb, Malaga on Sat, 31 Oct 2026.
 
-Andrés Sancho is an electronica and electro artist based in Spain, tracked on soundcheck, with 20 sets logged across Barcelona and Malaga. Often billed alongside Unreal Vibes, Jorgge Decar and rubbio. Next up: Doggy Klœb, Malaga on Sat 31 Oct.
+Andrés Sancho is an electronica and electro artist based in Spain, with 20 gigs on soundcheck across Barcelona and Malaga. Often billed alongside Unreal Vibes, Jorgge Decar and rubbio. Next up: Doggy Klœb, Malaga on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Andrés Sancho is an electronica and electro artist based in Spain, tracked on s
 
 ## Recently played
 
-- Doggy Klœb, Malaga — Thu, 27 Aug 2026
-- Doggy Klœb, Malaga — Sat, 15 Aug 2026
-- Doggy Klœb, Malaga — Sat, 4 Apr 2026
-- Doggy Klœb, Malaga — Fri, 6 Feb 2026
-- Doggy Klœb, Malaga — Sat, 17 Jan 2026
-- Doggy Klœb, Malaga — Sat, 20 Dec 2025
-- Doggy Klœb, Malaga — Sat, 9 Aug 2025
-- Doggy Klœb, Malaga — Sat, 28 Jun 2025
+- Doggy Klœb, Malaga · Thu, 27 Aug 2026
+- Doggy Klœb, Malaga · Sat, 15 Aug 2026
+- Doggy Klœb, Malaga · Sat, 4 Apr 2026
+- Doggy Klœb, Malaga · Fri, 6 Feb 2026
+- Doggy Klœb, Malaga · Sat, 17 Jan 2026
+- Doggy Klœb, Malaga · Sat, 20 Dec 2025
+- Doggy Klœb, Malaga · Sat, 9 Aug 2025
+- Doggy Klœb, Malaga · Sat, 28 Jun 2025
 
 ## Shares bills with
 

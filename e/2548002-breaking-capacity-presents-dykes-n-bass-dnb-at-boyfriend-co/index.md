@@ -1,6 +1,6 @@
 # Breaking Capacity presents: Dykes n' Bass (DNB) at Boyfriend co-op
 
-Breaking Capacity presents: Dykes n' Bass (DNB) at Boyfriend co-op on Thu 29 Oct, New York City. 3 artists on the bill: Janus Rose, PlayPlay and Simisola. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
+Breaking Capacity presents: Dykes n' Bass (DNB) at Boyfriend co-op on Thu 29 Oct, New York City. 3 artists: Janus Rose, PlayPlay and Simisola. Breakbeat and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

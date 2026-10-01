@@ -1,6 +1,6 @@
 # No Art ADE Festival 2026 at Taets Art & Event Park
 
-No Art ADE Festival 2026 at Taets Art & Event Park on Sat 24 Oct, Amsterdam. 13 artists on the bill: Alci, Aline Umber, ANOTR and Brunello and 9 more. Preview the line-up and save it on soundcheck.
+No Art ADE Festival 2026 at Taets Art & Event Park on Sat 24 Oct, Amsterdam. 13 artists: Alci, Aline Umber, ANOTR and Brunello and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

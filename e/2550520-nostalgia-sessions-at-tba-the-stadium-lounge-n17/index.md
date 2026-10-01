@@ -1,6 +1,6 @@
 # Nostalgia Sessions at TBA - The Stadium Lounge N17
 
-Nostalgia Sessions at TBA - The Stadium Lounge N17 on Fri 2 Oct, London. Funk / Soul and Dancehall. Preview the line-up and save it on soundcheck.
+Nostalgia Sessions at TBA - The Stadium Lounge N17 on Fri 2 Oct, London. Funk / Soul and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

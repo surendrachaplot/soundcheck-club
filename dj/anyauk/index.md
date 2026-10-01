@@ -1,8 +1,8 @@
 # Anya (UK)
 
-Anya (UK) is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Cross, London on Fri, 2 Oct 2026.
+Anya (UK) is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cross, London on Fri, 2 Oct 2026.
 
-Anya (UK) is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across Copenhagen and London. Often billed alongside DASHA (UK), DEFAM and DJ Spice. Next up: The Cross, London on Fri 2 Oct.
+Anya (UK) is a deep house and house artist based in United Kingdom, with 3 gigs on soundcheck across Copenhagen and London. Often billed alongside DASHA (UK), DEFAM and DJ Spice. Next up: The Cross, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ Anya (UK) is a deep house and house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- The Purple Owl, London — Sun, 2 Aug 2026
+- The Purple Owl, London · Sun, 2 Aug 2026
 
 ## Shares bills with
 

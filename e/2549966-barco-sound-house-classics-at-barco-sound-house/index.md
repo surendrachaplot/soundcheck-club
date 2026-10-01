@@ -1,6 +1,6 @@
 # Barco Sound House Classics at Barco Sound House
 
-Barco Sound House Classics on Fri 2 Oct, Madrid. 4 artists on the bill: Gijonne, Hugo Carter, Jay Luna and The Flying Robin. House and Disco. Preview the line-up and save it on soundcheck.
+Barco Sound House Classics on Fri 2 Oct, Madrid. 4 artists: Gijonne, Hugo Carter, Jay Luna and The Flying Robin. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DC Dupont Circle's Boos on the Block Part 3 Halloween Block Party 10/31 at TBA - TOP VENUES TBD
 
-DC Dupont Circle's Boos on the Block Part 3 Halloween Block Party 10/31 at TBA - TOP VENUES TBD on Sat 31 Oct, Philadelphia. Pop and Club. Preview the line-up and save it on soundcheck.
+DC Dupont Circle's Boos on the Block Part 3 Halloween Block Party 10/31 at TBA - TOP VENUES TBD on Sat 31 Oct, Philadelphia. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BORIS CLUB presents MOUSSE T at BORIS CLUB
 
-BORIS CLUB presents MOUSSE T on Fri 20 Nov, Barcelona. 1 artist on the bill: Mousse T.. House and Disco. Preview the line-up and save it on soundcheck.
+BORIS CLUB presents MOUSSE T on Fri 20 Nov, Barcelona. 1 artist: Mousse T.. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

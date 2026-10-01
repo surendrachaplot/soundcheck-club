@@ -1,8 +1,8 @@
 # Gabrielle Kwarteng
 
-Gabrielle Kwarteng is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Headrow House, Leeds on Fri, 2 Oct 2026.
+Gabrielle Kwarteng is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Headrow House, Leeds on Fri, 2 Oct 2026.
 
-Gabrielle Kwarteng is a house and techno artist based in United States of America, tracked on soundcheck, with 250 sets logged across Amsterdam, Antwerp, Auckland and Bali and 61 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Headrow House, Leeds on Fri 2 Oct.
+Gabrielle Kwarteng is a house and techno artist based in United States of America, with 250 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 61 more. Often billed alongside BASHKKA, Peach and Sedef Adasï. Next up: Headrow House, Leeds on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Gabrielle Kwarteng is a house and techno artist based in United States of Americ
 
 ## Recently played
 
-- DC-10, Ibiza — Mon, 28 Sept 2026
-- Jasna 1, Warsaw — Fri, 25 Sept 2026
-- Flash, Washington DC — Sun, 20 Sept 2026
-- BASEMENT, New York City — Fri, 18 Sept 2026
-- Sunday Sunday, Mexico City — Sun, 13 Sept 2026
-- Westhafen, Leipzig — Sat, 5 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 5 Sept 2026
-- Skatecafe, Amsterdam — Fri, 4 Sept 2026
+- DC-10, Ibiza · Mon, 28 Sept 2026
+- Jasna 1, Warsaw · Fri, 25 Sept 2026
+- Flash, Washington DC · Sun, 20 Sept 2026
+- BASEMENT, New York City · Fri, 18 Sept 2026
+- Sunday Sunday, Mexico City · Sun, 13 Sept 2026
+- Westhafen, Leipzig · Sat, 5 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 5 Sept 2026
+- Skatecafe, Amsterdam · Fri, 4 Sept 2026
 
 ## Shares bills with
 

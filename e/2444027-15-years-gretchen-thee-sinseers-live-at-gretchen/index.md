@@ -1,6 +1,6 @@
 # 15 Years Gretchen: THEE SINSEERS *live at Gretchen
 
-15 Years Gretchen: THEE SINSEERS *live on Wed 7 Oct, Berlin. Funk / Soul. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: THEE SINSEERS *live on Wed 7 Oct, Berlin. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

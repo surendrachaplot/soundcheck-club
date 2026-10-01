@@ -1,6 +1,6 @@
 # Luminosity - Day time at Panama
 
-Luminosity - Day time at Panama on Fri 23 Oct, Amsterdam. Trance. Preview the line-up and save it on soundcheck.
+Luminosity - Day time at Panama on Fri 23 Oct, Amsterdam. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

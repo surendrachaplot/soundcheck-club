@@ -1,6 +1,6 @@
 # Missing People 10th Birthday at The Rossi Bar
 
-Missing People 10th Birthday at The Rossi Bar on Sat 12 Dec, Brighton. Techno and House. Preview the line-up and save it on soundcheck.
+Missing People 10th Birthday at The Rossi Bar on Sat 12 Dec, Brighton. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Rampe 70
 
-Rampe 70 is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ECSTATIC DANCE DESCENT INTO ECSTASY" on Sat, 3 Oct 2026.
+Rampe 70 is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ECSTATIC DANCE DESCENT INTO ECSTASY" on Sat, 3 Oct 2026.
 
-Rampe 70 is a music venue in Zurich listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. Hermetschloostrasse 70, 8048 Zürich, Switzerland.
+Rampe 70 is a music venue in Zurich listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Hermetschloostrasse 70, 8048 Zürich, Switzerland.
 
 ## What's on
 

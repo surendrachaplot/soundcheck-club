@@ -1,6 +1,6 @@
 # FOR THE LOVE - DJ CAPITAL J, KRINJAH, RAVE ALARM at Seescape
 
-FOR THE LOVE - DJ CAPITAL J, KRINJAH, RAVE ALARM at Seescape on Sat 24 Oct, Toronto. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+FOR THE LOVE - DJ CAPITAL J, KRINJAH, RAVE ALARM at Seescape on Sat 24 Oct, Toronto. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

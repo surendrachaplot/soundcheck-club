@@ -1,8 +1,8 @@
 # LUKAS (4)
 
-LUKAS (4) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Avant Garten, Buenos Aires on Fri, 20 Nov 2026.
+LUKAS (4) is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Avant Garten, Buenos Aires on Fri, 20 Nov 2026.
 
-LUKAS is a house and electro artist based in Argentina, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Brussels and Buenos Aires and 3 more. Often billed alongside Manu Oubiña, Guile and Anabel. Next up: Avant Garten, Buenos Aires on Fri 20 Nov.
+LUKAS is a house and electro artist based in Argentina, with 54 gigs on soundcheck across Barcelona, Berlin, Brussels and Buenos Aires and 3 more. Often billed alongside Manu Oubiña, Guile and Anabel. Next up: Avant Garten, Buenos Aires on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ LUKAS is a house and electro artist based in Argentina, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 19 Sept 2026
-- TBA - Tanzform - Weserstr. 166, 12045, Berlin — Sat, 12 Sept 2026
-- Urban Spree, Berlin — Fri, 28 Aug 2026
-- Avant Garten, Buenos Aires — Wed, 8 Jul 2026
-- Under Club, Buenos Aires — Fri, 15 May 2026
-- Under Club, Buenos Aires — Mon, 23 Mar 2026
-- Casa Futuro, Buenos Aires — Sun, 22 Mar 2026
-- Colonia, Buenos Aires — Sat, 22 Nov 2025
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 19 Sept 2026
+- TBA - Tanzform - Weserstr. 166, 12045, Berlin · Sat, 12 Sept 2026
+- Urban Spree, Berlin · Fri, 28 Aug 2026
+- Avant Garten, Buenos Aires · Wed, 8 Jul 2026
+- Under Club, Buenos Aires · Fri, 15 May 2026
+- Under Club, Buenos Aires · Mon, 23 Mar 2026
+- Casa Futuro, Buenos Aires · Sun, 22 Mar 2026
+- Colonia, Buenos Aires · Sat, 22 Nov 2025
 
 ## Shares bills with
 

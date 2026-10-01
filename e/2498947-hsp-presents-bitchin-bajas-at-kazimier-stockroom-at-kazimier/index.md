@@ -1,6 +1,6 @@
 # HSP Presents: Bitchin Bajas at Kazimier Stockroom at Kazimier Stockroom
 
-HSP Presents: Bitchin Bajas at Kazimier Stockroom on Tue 20 Oct, Liverpool. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+HSP Presents: Bitchin Bajas at Kazimier Stockroom on Tue 20 Oct, Liverpool. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

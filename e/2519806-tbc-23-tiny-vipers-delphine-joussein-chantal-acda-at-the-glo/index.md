@@ -1,6 +1,6 @@
 # TBC#23: Tiny Vipers + Delphine Joussein + Chantal Acda at The Globe, Glossop
 
-TBC#23: Tiny Vipers + Delphine Joussein + Chantal Acda at The Globe, Glossop on Sat 17 Oct, Manchester. Preview the line-up and save it on soundcheck.
+TBC#23: Tiny Vipers + Delphine Joussein + Chantal Acda at The Globe, Glossop on Sat 17 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

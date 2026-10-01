@@ -1,8 +1,8 @@
 # Pacha Ibiza
 
-Pacha Ibiza is a music venue in Ibiza with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Purple Disco Machine - PURE PACHA - CLOSING PARTY" on Thu, 1 Oct 2026.
+Pacha Ibiza is a music venue in Ibiza with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Purple Disco Machine - PURE PACHA - CLOSING PARTY" on Thu, 1 Oct 2026.
 
-Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 8 upcoming gigs, with line-ups including Adriatique, Alle Farben, Breakbot and Busy P and 2 more. Browse upcoming dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
+Pacha Ibiza is a music venue in Ibiza listed on soundcheck. 8 upcoming gigs, with line-ups including Adriatique, Alle Farben, Breakbot and Busy P and 2 more. See dates, start times and who's playing. Avenida 8 De Agosto, Ibiza Town, 07800 Ibiza, Islas Baleares, Spain.
 
 ## What's on
 

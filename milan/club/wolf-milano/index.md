@@ -1,8 +1,8 @@
 # Wolf Milano
 
-Wolf Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sonica showcase at Wolf" on Thu, 1 Oct 2026.
+Wolf Milano is a music venue in Milan with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sonica showcase at Wolf" on Thu, 1 Oct 2026.
 
-Wolf Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Griso and Ilya Blinkov. Browse upcoming dates, start times and who's playing. Via Luigi Canonica, 13, 20154 Milano MI, Italy.
+Wolf Milano is a music venue in Milan listed on soundcheck. 2 upcoming gigs, with line-ups including Griso and Ilya Blinkov. See dates, start times and who's playing. Via Luigi Canonica, 13, 20154 Milano MI, Italy.
 
 ## What's on
 

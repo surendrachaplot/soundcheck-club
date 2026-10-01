@@ -1,6 +1,6 @@
 # 11/6 Otoconia House Music Social - DJ's Treehead, Joey Phatone, & Kristian Haas at Crystal Lounge
 
-11/6 Otoconia House Music Social - DJ's Treehead, Joey Phatone, & Kristian Haas at Crystal Lounge on Fri 6 Nov, Seattle. House. Preview the line-up and save it on soundcheck.
+11/6 Otoconia House Music Social - DJ's Treehead, Joey Phatone, & Kristian Haas at Crystal Lounge on Fri 6 Nov, Seattle. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

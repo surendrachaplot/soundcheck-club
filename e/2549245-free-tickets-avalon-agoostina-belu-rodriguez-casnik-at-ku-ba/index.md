@@ -1,6 +1,6 @@
 # FREE Tickets AVALON: Agoostina, Belu Rodriguez, Casnik at Ku Barcelona
 
-FREE Tickets AVALON: Agoostina, Belu Rodriguez, Casnik at Ku Barcelona on Fri 2 Oct, Barcelona. 2 artists on the bill: Agoostina and Belu Rodriguez. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+FREE Tickets AVALON: Agoostina, Belu Rodriguez, Casnik at Ku Barcelona on Fri 2 Oct, Barcelona. 2 artists: Agoostina and Belu Rodriguez. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

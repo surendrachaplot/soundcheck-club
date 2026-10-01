@@ -1,8 +1,8 @@
 # SAIKA
 
-SAIKA is a Techno and Hardcore artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ANTIA, Netherlands on Fri, 2 Oct 2026.
+SAIKA is a Techno and Hardcore artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ANTIA, Netherlands on Fri, 2 Oct 2026.
 
-SAIKA is a techno and hardcore artist based in Germany, tracked on soundcheck, with 24 sets logged across Basel, Berlin, Freiburg and Hamburg and 7 more. Often billed alongside DJ Cringey, ANDATA and Charlie Sparks. Next up: ANTIA, Netherlands on Fri 2 Oct.
+SAIKA is a techno and hardcore artist based in Germany, with 24 gigs on soundcheck across Basel, Berlin, Freiburg and Hamburg and 7 more. Often billed alongside DJ Cringey, ANDATA and Charlie Sparks. Next up: ANTIA, Netherlands on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ SAIKA is a techno and hardcore artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- Edelfettwerk, Hamburg — Sat, 8 Aug 2026
-- OST, Berlin — Fri, 26 Jun 2026
-- Lehmann Club, Stuttgart — Thu, 30 Apr 2026
-- E-Werk Kulturzentrum, Nürnberg — Sat, 18 Apr 2026
-- OST, Berlin — Fri, 17 Apr 2026
-- Edelfettwerk, Hamburg — Sat, 4 Apr 2026
-- DNA Club, Munich — Sat, 31 Jan 2026
-- RSO.BERLIN, Berlin — Fri, 19 Dec 2025
+- Edelfettwerk, Hamburg · Sat, 8 Aug 2026
+- OST, Berlin · Fri, 26 Jun 2026
+- Lehmann Club, Stuttgart · Thu, 30 Apr 2026
+- E-Werk Kulturzentrum, Nürnberg · Sat, 18 Apr 2026
+- OST, Berlin · Fri, 17 Apr 2026
+- Edelfettwerk, Hamburg · Sat, 4 Apr 2026
+- DNA Club, Munich · Sat, 31 Jan 2026
+- RSO.BERLIN, Berlin · Fri, 19 Dec 2025
 
 ## Shares bills with
 

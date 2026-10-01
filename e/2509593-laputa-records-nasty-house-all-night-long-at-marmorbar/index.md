@@ -1,6 +1,6 @@
 # LaPuta Records: Nasty House All Night Long at Marmorbar
 
-LaPuta Records: Nasty House All Night Long at Marmorbar on Fri 9 Oct, Berlin. 3 artists on the bill: Culo Sucio, Daniel Jaramillo and DAZA. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+LaPuta Records: Nasty House All Night Long at Marmorbar on Fri 9 Oct, Berlin. 3 artists: Culo Sucio, Daniel Jaramillo and DAZA. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rampa - LILLY'S PARIS FASHION WEEK at Lilly''s Club Paris
 
-Rampa - LILLY'S PARIS FASHION WEEK at Lilly''s Club Paris on Sat 3 Oct, Paris. 1 artist on the bill: Rampa. Electro and Deep House. Preview the line-up and save it on soundcheck.
+Rampa - LILLY'S PARIS FASHION WEEK at Lilly''s Club Paris on Sat 3 Oct, Paris. 1 artist: Rampa. Electro and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

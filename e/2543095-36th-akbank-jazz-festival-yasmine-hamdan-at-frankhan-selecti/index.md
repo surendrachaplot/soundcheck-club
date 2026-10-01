@@ -1,6 +1,6 @@
 # 36th Akbank Jazz Festival: Yasmine Hamdan at Frankhan Selectist
 
-36th Akbank Jazz Festival: Yasmine Hamdan at Frankhan Selectist on Sat 10 Oct, Istanbul. Preview the line-up and save it on soundcheck.
+36th Akbank Jazz Festival: Yasmine Hamdan at Frankhan Selectist on Sat 10 Oct, Istanbul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

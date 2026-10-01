@@ -1,8 +1,8 @@
 # TBA - Velours 323 Ontario Est Montréal 
 
-TBA - Velours 323 Ontario Est Montréal  is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SOULSHINE" on Fri, 2 Oct 2026.
+TBA - Velours 323 Ontario Est Montréal  is a music venue in Montreal with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SOULSHINE" on Fri, 2 Oct 2026.
 
-TBA - Velours 323 Ontario Est Montréal  is a music venue in Montreal listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
+TBA - Velours 323 Ontario Est Montréal  is a music venue in Montreal listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 

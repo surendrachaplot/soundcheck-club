@@ -1,6 +1,6 @@
 # ADE: TraTraTrax with  b2b Pariah • Gabrielle Kwarteng • Jesse G at Radio Radio
 
-ADE: TraTraTrax with  b2b Pariah • Gabrielle Kwarteng • Jesse G at Radio Radio on Sat 24 Oct, Amsterdam. 3 artists on the bill: Gabrielle Kwarteng, Jesse G and Pariah. Preview the line-up and save it on soundcheck.
+ADE: TraTraTrax with  b2b Pariah • Gabrielle Kwarteng • Jesse G at Radio Radio on Sat 24 Oct, Amsterdam. 3 artists: Gabrielle Kwarteng, Jesse G and Pariah. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

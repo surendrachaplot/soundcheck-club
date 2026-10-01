@@ -1,6 +1,6 @@
 # Hardcore For The Headstrong (Scotland Edition) at Slay
 
-Hardcore For The Headstrong (Scotland Edition) at Slay on Sat 21 Nov, Glasgow. Hardcore. Preview the line-up and save it on soundcheck.
+Hardcore For The Headstrong (Scotland Edition) at Slay on Sat 21 Nov, Glasgow. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

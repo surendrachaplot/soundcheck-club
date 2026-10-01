@@ -1,6 +1,6 @@
 # CAMU CAMU at ESC
 
-CAMU CAMU at ESC on Sat 17 Oct, Montreal. 3 artists on the bill: CrisseMarqueur, Lou Celsius and MIASALAV. Bass and Dub Techno. Preview the line-up and save it on soundcheck.
+CAMU CAMU at ESC on Sat 17 Oct, Montreal. 3 artists: CrisseMarqueur, Lou Celsius and MIASALAV. Bass and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Steven Julien 808 PRINCE ALBUM LAUNCH PARTY at radial
 
-Steven Julien 808 PRINCE ALBUM LAUNCH PARTY at radial on Fri 16 Oct, London. 1 artist on the bill: Steven Julien. House and Electro. Preview the line-up and save it on soundcheck.
+Steven Julien 808 PRINCE ALBUM LAUNCH PARTY at radial on Fri 16 Oct, London. 1 artist: Steven Julien. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

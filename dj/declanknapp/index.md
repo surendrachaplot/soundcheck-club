@@ -1,8 +1,8 @@
 # Declan Knapp
 
-Declan Knapp is a Garage and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Four Quarters, London on Fri, 27 Nov 2026.
+Declan Knapp is a Garage and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Four Quarters, London on Fri, 27 Nov 2026.
 
-Declan Knapp is a garage and drum & bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Birmingham, Leeds and London. Often billed alongside Fish56Octagon, Freestylers and Jem Haynes. Next up: Four Quarters, London on Fri 27 Nov.
+Declan Knapp is a garage and drum & bass artist based in United Kingdom, with 6 gigs on soundcheck across Birmingham, Leeds and London. Often billed alongside Fish56Octagon, Freestylers and Jem Haynes. Next up: Four Quarters, London on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Declan Knapp is a garage and drum & bass artist based in United Kingdom, tracked
 
 ## Recently played
 
-- TBA - Camden High Street, London — Sat, 25 Apr 2026
-- Ministry Of Sound, London — Sat, 1 Nov 2025
-- Digbeth Arena, Birmingham — Sat, 31 May 2025
-- The Steel Yard, London — Sat, 29 Mar 2025
-- Beaver Works, Leeds — Fri, 21 Mar 2025
+- TBA - Camden High Street, London · Sat, 25 Apr 2026
+- Ministry Of Sound, London · Sat, 1 Nov 2025
+- Digbeth Arena, Birmingham · Sat, 31 May 2025
+- The Steel Yard, London · Sat, 29 Mar 2025
+- Beaver Works, Leeds · Fri, 21 Mar 2025
 
 ## Shares bills with
 

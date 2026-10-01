@@ -1,8 +1,8 @@
 # Sol (HN)
 
-Sol (HN) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Subcero Club, Madrid on Sat, 31 Oct 2026.
+Sol (HN) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Subcero Club, Madrid on Sat, 31 Oct 2026.
 
-Sol (HN) is a house and disco artist based in Honduras, tracked on soundcheck, with 15 sets logged across Ibiza, London, Lyon and Madrid and 5 more. Often billed alongside ARINI, AUKA and AUS10. Next up: Subcero Club, Madrid on Sat 31 Oct.
+Sol (HN) is a house and disco artist based in Honduras, with 15 gigs on soundcheck across Ibiza, London, Lyon and Madrid and 5 more. Often billed alongside ARINI, AUKA and AUS10. Next up: Subcero Club, Madrid on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sol (HN) is a house and disco artist based in Honduras, tracked on soundcheck, w
 
 ## Recently played
 
-- The Hibernia Bank Vault, San Francisco/Oakland — Mon, 16 Jun 2025
-- Stoked&stoned, Seoul — Fri, 13 Jun 2025
-- Formosa SP, Sao Paulo — Fri, 23 May 2025
-- Péniche Antipode, Paris — Fri, 11 Apr 2025
-- Stoked&stoned, Seoul — Fri, 14 Mar 2025
-- Channel 1969, Seoul — Sat, 21 Sept 2024
-- BBCB: Beton Brut+Concrete Bar, Seoul — Sat, 31 Aug 2024
-- Electrowerkz, London — Fri, 7 Jun 2024
+- The Hibernia Bank Vault, San Francisco/Oakland · Mon, 16 Jun 2025
+- Stoked&stoned, Seoul · Fri, 13 Jun 2025
+- Formosa SP, Sao Paulo · Fri, 23 May 2025
+- Péniche Antipode, Paris · Fri, 11 Apr 2025
+- Stoked&stoned, Seoul · Fri, 14 Mar 2025
+- Channel 1969, Seoul · Sat, 21 Sept 2024
+- BBCB: Beton Brut+Concrete Bar, Seoul · Sat, 31 Aug 2024
+- Electrowerkz, London · Fri, 7 Jun 2024
 
 ## Shares bills with
 

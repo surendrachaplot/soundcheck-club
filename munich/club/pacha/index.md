@@ -1,8 +1,8 @@
 # Pacha
 
-Pacha is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "World League with Deep Dish" on Fri, 2 Oct 2026.
+Pacha is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "World League with Deep Dish" on Fri, 2 Oct 2026.
 
-Pacha is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including André Hommen, Deep Dish, Kevin de Vries and Sven Vath. Browse upcoming dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
+Pacha is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including André Hommen, Deep Dish, Kevin de Vries and Sven Vath. See dates, start times and who's playing. Maximiliansplatz 5; 80333 Munich; Germany.
 
 ## What's on
 

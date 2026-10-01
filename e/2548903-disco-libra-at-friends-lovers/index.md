@@ -1,6 +1,6 @@
 # Disco Libra at Friends & Lovers
 
-Disco Libra at Friends & Lovers on Sat 3 Oct, New York City. 1 artist on the bill: Myyuh. Disco and Club. Preview the line-up and save it on soundcheck.
+Disco Libra at Friends & Lovers on Sat 3 Oct, New York City. 1 artist: Myyuh. Disco and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

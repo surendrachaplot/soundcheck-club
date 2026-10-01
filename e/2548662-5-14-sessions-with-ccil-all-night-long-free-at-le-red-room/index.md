@@ -1,6 +1,6 @@
 # 5:14 Sessions with ccil [All Night Long - Free] at Le Red Room
 
-5:14 Sessions with ccil [All Night Long - Free] at Le Red Room on Tue 27 Oct, Montreal. 1 artist on the bill: ccil. Trance and Techno. Preview the line-up and save it on soundcheck.
+5:14 Sessions with ccil [All Night Long - Free] at Le Red Room on Tue 27 Oct, Montreal. 1 artist: ccil. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Homesick at Cinetol
 
-The Homesick at Cinetol on Thu 8 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+The Homesick at Cinetol on Thu 8 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

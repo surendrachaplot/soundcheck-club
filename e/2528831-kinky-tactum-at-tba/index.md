@@ -1,6 +1,6 @@
 # Kinky Tactum at TBA
 
-Kinky Tactum at TBA on Fri 20 Nov, Munster. Trance and Techno. Preview the line-up and save it on soundcheck.
+Kinky Tactum at TBA on Fri 20 Nov, Munster. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

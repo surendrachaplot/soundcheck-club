@@ -1,6 +1,6 @@
 # BONNIE X CLYDE at Q Nightclub
 
-BONNIE X CLYDE at Q Nightclub on Fri 30 Oct, Seattle. Preview the line-up and save it on soundcheck.
+BONNIE X CLYDE at Q Nightclub on Fri 30 Oct, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Loud Session #1 at Brasserie Gallia
 
-Loud Session #1 at Brasserie Gallia on Fri 9 Oct, Paris. 1 artist on the bill: logxlogxlogx. EBM and IDM. Preview the line-up and save it on soundcheck.
+Loud Session #1 at Brasserie Gallia on Fri 9 Oct, Paris. 1 artist: logxlogxlogx. EBM and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

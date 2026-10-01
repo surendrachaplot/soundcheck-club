@@ -1,6 +1,6 @@
 # DJ D2B ALL NIGHT LONG - GAMBETTA CLUB at Le Gambetta Club
 
-DJ D2B ALL NIGHT LONG - GAMBETTA CLUB at Le Gambetta Club on Sat 10 Oct, Paris. 1 artist on the bill: Gratuit. Techno and House. Preview the line-up and save it on soundcheck.
+DJ D2B ALL NIGHT LONG - GAMBETTA CLUB at Le Gambetta Club on Sat 10 Oct, Paris. 1 artist: Gratuit. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Poté invite Broodoo Ramses at Djoon
 
-Poté invite Broodoo Ramses at Djoon on Sat 3 Oct, Paris. 2 artists on the bill: Broodoo Ramses and Poté. House and Electro. Preview the line-up and save it on soundcheck.
+Poté invite Broodoo Ramses at Djoon on Sat 3 Oct, Paris. 2 artists: Broodoo Ramses and Poté. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

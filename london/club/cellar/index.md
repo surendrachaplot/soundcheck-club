@@ -1,8 +1,8 @@
 # Cellar
 
-Cellar is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "[CANCELLED] The Coven Vol.5 with Dea, Maybe Laura and Free Zing" on Sat, 3 Oct 2026.
+Cellar is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "[CANCELLED] The Coven Vol.5 with Dea, Maybe Laura and Free Zing" on Sat, 3 Oct 2026.
 
-Cellar is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Calla, Daniel Pereira, Dea and Elias Sternin and 2 more. Browse upcoming dates, start times and who's playing.
+Cellar is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Calla, Daniel Pereira, Dea and Elias Sternin and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

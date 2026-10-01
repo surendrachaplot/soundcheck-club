@@ -1,6 +1,6 @@
 # Echoes of the Upper World at IT Athens
 
-Echoes of the Upper World at IT Athens on Sat 24 Oct, Athens. Preview the line-up and save it on soundcheck.
+Echoes of the Upper World at IT Athens on Sat 24 Oct, Athens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

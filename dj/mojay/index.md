@@ -1,8 +1,8 @@
 # Mojay
 
-Mojay is a Drum & Bass and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Vittoria Wharf Studio, London on Thu, 29 Oct 2026.
+Mojay is a Drum & Bass and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Vittoria Wharf Studio, London on Thu, 29 Oct 2026.
 
-Mojay is a drum & bass and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol and London. Often billed alongside Kaizah, Mollie Collins and Rene LaVice. Next up: Vittoria Wharf Studio, London on Thu 29 Oct.
+Mojay is a drum & bass and house artist based in United Kingdom, with 8 gigs on soundcheck across Bristol and London. Often billed alongside Kaizah, Mollie Collins and Rene LaVice. Next up: Vittoria Wharf Studio, London on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -13,12 +13,12 @@ Mojay is a drum & bass and house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Planet Wax, London — Thu, 22 Jan 2026
-- The Lower Third, London — Fri, 10 Oct 2025
-- Moor Beer Vaults, London — Sat, 22 Mar 2025
-- Basement 45, Bristol — Sat, 14 Oct 2023
-- TBA - Brixx Bar, Brixton, London — Sun, 12 Mar 2023
-- Basement 45, Bristol — Sat, 7 Jan 2023
+- Planet Wax, London · Thu, 22 Jan 2026
+- The Lower Third, London · Fri, 10 Oct 2025
+- Moor Beer Vaults, London · Sat, 22 Mar 2025
+- Basement 45, Bristol · Sat, 14 Oct 2023
+- TBA - Brixx Bar, Brixton, London · Sun, 12 Mar 2023
+- Basement 45, Bristol · Sat, 7 Jan 2023
 
 ## Shares bills with
 

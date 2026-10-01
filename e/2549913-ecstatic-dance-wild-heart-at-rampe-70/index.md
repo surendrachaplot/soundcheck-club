@@ -1,6 +1,6 @@
 # ECSTATIC DANCE WILD HEART at Rampe 70
 
-ECSTATIC DANCE WILD HEART at Rampe 70 on Sat 17 Oct, Zurich. Preview the line-up and save it on soundcheck.
+ECSTATIC DANCE WILD HEART at Rampe 70 on Sat 17 Oct, Zurich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

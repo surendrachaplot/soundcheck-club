@@ -1,6 +1,6 @@
 # Archie, Bagvs, Dita, Gero, Seabass at Klymax Discotheque
 
-Archie, Bagvs, Dita, Gero, Seabass at Klymax Discotheque on Fri 9 Oct, Bali. 3 artists on the bill: Archie Dennis, Bagvs and DITA (ID). Preview the line-up and save it on soundcheck.
+Archie, Bagvs, Dita, Gero, Seabass at Klymax Discotheque on Fri 9 Oct, Bali. 3 artists: Archie Dennis, Bagvs and DITA (ID). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

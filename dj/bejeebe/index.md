@@ -1,8 +1,8 @@
 # bejeebe
 
-bejeebe is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Katsute100 Brick Lane & Bun House Disco, London on Fri, 23 Oct 2026.
+bejeebe is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Katsute100 Brick Lane & Bun House Disco, London on Fri, 23 Oct 2026.
 
-bejeebe is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across London. Often billed alongside Daunder, classtraitor and Auntie Klockwise. Next up: Katsute100 Brick Lane & Bun House Disco, London on Fri 23 Oct.
+bejeebe is a techno and electro artist based in United Kingdom, with 22 gigs on soundcheck across London. Often billed alongside Daunder, classtraitor and Auntie Klockwise. Next up: Katsute100 Brick Lane & Bun House Disco, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ bejeebe is a techno and electro artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Aaja Basement, London — Fri, 29 May 2026
-- The Glove That Fits, London — Sat, 11 Apr 2026
-- Bun House Disco, London — Fri, 28 Nov 2025
-- The Glove That Fits, London — Fri, 17 Oct 2025
-- Katsute100 Brick Lane & Bun House Disco, London — Sat, 20 Sept 2025
-- The Waiting Room, London — Sat, 16 Aug 2025
-- Hoxton Cabin, London — Fri, 4 Jul 2025
-- The George Tavern, London — Sat, 14 Jun 2025
+- Aaja Basement, London · Fri, 29 May 2026
+- The Glove That Fits, London · Sat, 11 Apr 2026
+- Bun House Disco, London · Fri, 28 Nov 2025
+- The Glove That Fits, London · Fri, 17 Oct 2025
+- Katsute100 Brick Lane & Bun House Disco, London · Sat, 20 Sept 2025
+- The Waiting Room, London · Sat, 16 Aug 2025
+- Hoxton Cabin, London · Fri, 4 Jul 2025
+- The George Tavern, London · Sat, 14 Jun 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # NEW WAVE LOUNGE at Cafe&diner ｽﾀｼﾞｵ
 
-NEW WAVE LOUNGE at Cafe&diner ｽﾀｼﾞｵ on Mon 5 Oct, Tokyo. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+NEW WAVE LOUNGE at Cafe&diner ｽﾀｼﾞｵ on Mon 5 Oct, Tokyo. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

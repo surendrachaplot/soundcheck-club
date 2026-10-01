@@ -1,6 +1,6 @@
 # KNTRLVRLST, DVAID B2B HUMAN ERROR, NYCO, TANJA MIJU, SZG at Gotec
 
-KNTRLVRLST, DVAID B2B HUMAN ERROR, NYCO, TANJA MIJU, SZG at Gotec on Sat 10 Oct, Karlsruhe. 8 artists on the bill: BIIANCO, DVAID, HUMAN ERROR and KNTRLVRLST and 4 more. Preview the line-up and save it on soundcheck.
+KNTRLVRLST, DVAID B2B HUMAN ERROR, NYCO, TANJA MIJU, SZG at Gotec on Sat 10 Oct, Karlsruhe. 8 artists: BIIANCO, DVAID, HUMAN ERROR and KNTRLVRLST and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

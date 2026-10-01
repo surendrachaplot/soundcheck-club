@@ -1,6 +1,6 @@
 # Big Fat Rave: Bakey, Samurai Breaks, Napes, Manga Saint Hilare, ESC & More at Beaver Works
 
-Big Fat Rave: Bakey, Samurai Breaks, Napes, Manga Saint Hilare, ESC & More at Beaver Works on Fri 16 Oct, Leeds. 8 artists on the bill: Bakey, ESC, Fonzo (UK) and Manga Saint Hilare and 4 more. Garage and Jungle. Preview the line-up and save it on soundcheck.
+Big Fat Rave: Bakey, Samurai Breaks, Napes, Manga Saint Hilare, ESC & More at Beaver Works on Fri 16 Oct, Leeds. 8 artists: Bakey, ESC, Fonzo (UK) and Manga Saint Hilare and 4 more. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

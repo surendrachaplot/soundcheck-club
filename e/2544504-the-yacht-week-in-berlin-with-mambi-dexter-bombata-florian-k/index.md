@@ -1,6 +1,6 @@
 # The Yacht Week in Berlin with Mambi Dexter, Bombata & Florian Kepler at Tausend
 
-The Yacht Week in Berlin with Mambi Dexter, Bombata & Florian Kepler at Tausend on Fri 23 Oct, Berlin. 2 artists on the bill: Bombata and Mambi Dexter. House and Tech House. Preview the line-up and save it on soundcheck.
+The Yacht Week in Berlin with Mambi Dexter, Bombata & Florian Kepler at Tausend on Fri 23 Oct, Berlin. 2 artists: Bombata and Mambi Dexter. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

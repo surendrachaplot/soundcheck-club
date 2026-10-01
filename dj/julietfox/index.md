@@ -1,8 +1,8 @@
 # Juliet Fox
 
-Juliet Fox is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
+Juliet Fox is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Oosterbar, Amsterdam on Sat, 24 Oct 2026.
 
-Juliet Fox is a techno and house artist based in Germany, tracked on soundcheck, with 112 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 39 more. Often billed alongside Adam Beyer, Joyhauser and Layton Giordani. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
+Juliet Fox is a techno and house artist based in Germany, with 112 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 39 more. Often billed alongside Adam Beyer, Joyhauser and Layton Giordani. Next up: Oosterbar, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Juliet Fox is a techno and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Akvárium Klub, Budapest — Sat, 19 Sept 2026
-- Amnesia Ibiza, Ibiza — Wed, 16 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 23 Aug 2026
-- TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- Spazio Cavea, Rome — Sat, 25 Jul 2026
-- Fabrik, Madrid — Sat, 27 Jun 2026
-- Lokschuppen Berlin, Berlin — Sat, 13 Jun 2026
+- Akvárium Klub, Budapest · Sat, 19 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 16 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 23 Aug 2026
+- TBA - Straße des 17. Juni & Großer Stern, Berlin · Sat, 15 Aug 2026
+- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
+- Spazio Cavea, Rome · Sat, 25 Jul 2026
+- Fabrik, Madrid · Sat, 27 Jun 2026
+- Lokschuppen Berlin, Berlin · Sat, 13 Jun 2026
 
 ## Shares bills with
 

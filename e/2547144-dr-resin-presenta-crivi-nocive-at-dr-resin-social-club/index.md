@@ -1,6 +1,6 @@
 # Dr. Resin presenta Crivi & Nocive at Dr. Resin Social Club
 
-Dr. Resin presenta Crivi & Nocive at Dr. Resin Social Club on Sat 3 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Dr. Resin presenta Crivi & Nocive at Dr. Resin Social Club on Sat 3 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

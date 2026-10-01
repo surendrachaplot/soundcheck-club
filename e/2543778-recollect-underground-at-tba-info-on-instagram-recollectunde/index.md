@@ -1,6 +1,6 @@
 # RECOLLECT UNDERGROUND at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND
 
-RECOLLECT UNDERGROUND at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND on Thu 1 Oct, Los Angeles. 2 artists on the bill: Matt Egbert and sumkind. House. Preview the line-up and save it on soundcheck.
+RECOLLECT UNDERGROUND at TBA - INFO ON INSTAGRAM @RECOLLECTUNDERGROUND on Thu 1 Oct, Los Angeles. 2 artists: Matt Egbert and sumkind. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

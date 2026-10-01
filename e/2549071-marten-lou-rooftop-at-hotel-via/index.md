@@ -1,6 +1,6 @@
 # Marten Lou Rooftop at Hotel Via
 
-Marten Lou Rooftop at Hotel Via on Sun 13 Dec, San Francisco/Oakland. 1 artist on the bill: Marten Lou. Afro House. Preview the line-up and save it on soundcheck.
+Marten Lou Rooftop at Hotel Via on Sun 13 Dec, San Francisco/Oakland. 1 artist: Marten Lou. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

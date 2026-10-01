@@ -1,6 +1,6 @@
 # Bae Blade at KALT
 
-Bae Blade at KALT on Sat 7 Nov, Strasbourg. 1 artist on the bill: Bae Blade. Preview the line-up and save it on soundcheck.
+Bae Blade at KALT on Sat 7 Nov, Strasbourg. 1 artist: Bae Blade. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

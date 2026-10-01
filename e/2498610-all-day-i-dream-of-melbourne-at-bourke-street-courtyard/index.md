@@ -1,6 +1,6 @@
 # All Day I Dream of Melbourne at Bourke Street Courtyard
 
-All Day I Dream of Melbourne at Bourke Street Courtyard on Sun 29 Nov, Melbourne. 3 artists on the bill: Double Touch, Lee Burridge and Lost Desert. House and Deep House. Preview the line-up and save it on soundcheck.
+All Day I Dream of Melbourne at Bourke Street Courtyard on Sun 29 Nov, Melbourne. 3 artists: Double Touch, Lee Burridge and Lost Desert. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

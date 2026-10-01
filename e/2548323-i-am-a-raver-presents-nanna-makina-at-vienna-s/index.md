@@ -1,6 +1,6 @@
 # I Am a Raver presents Nanna Makina at Vienna's
 
-I Am a Raver presents Nanna Makina at Vienna's on Fri 13 Nov, Glasgow. Electro and Club. Preview the line-up and save it on soundcheck.
+I Am a Raver presents Nanna Makina at Vienna's on Fri 13 Nov, Glasgow. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

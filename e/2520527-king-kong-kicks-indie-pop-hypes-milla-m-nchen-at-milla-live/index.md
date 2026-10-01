@@ -1,6 +1,6 @@
 # King Kong Kicks • Indie Pop & Hypes • Milla München at Milla - Live Club
 
-King Kong Kicks • Indie Pop & Hypes • Milla München at Milla - Live Club on Sat 12 Dec, Munich. Pop. Preview the line-up and save it on soundcheck.
+King Kong Kicks • Indie Pop & Hypes • Milla München at Milla - Live Club on Sat 12 Dec, Munich. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

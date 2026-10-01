@@ -1,8 +1,8 @@
 # Distillery
 
-Distillery is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "FAT BEMME X Boundless Beatz" on Fri, 2 Oct 2026.
+Distillery is a music venue in Leipzig with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FAT BEMME X Boundless Beatz" on Fri, 2 Oct 2026.
 
-Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, with line-ups including audite, Bephål, bertziherzi and BIGALKE and 2 more. Browse upcoming dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
+Distillery is a music venue in Leipzig listed on soundcheck. 11 upcoming gigs, with line-ups including audite, Bephål, bertziherzi and BIGALKE and 2 more. See dates, start times and who's playing. Eggebrechtstraße 2, 04103 Leipzig, Germany.
 
 ## What's on
 

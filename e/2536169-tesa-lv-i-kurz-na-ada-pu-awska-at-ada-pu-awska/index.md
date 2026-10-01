@@ -1,6 +1,6 @@
 # TESA (LV) i KURZ na Ada Puławska at Ada Puławska
 
-TESA (LV) i KURZ na Ada Puławska on Fri 2 Oct, Warsaw. Experimental and Noise. Preview the line-up and save it on soundcheck.
+TESA (LV) i KURZ na Ada Puławska on Fri 2 Oct, Warsaw. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

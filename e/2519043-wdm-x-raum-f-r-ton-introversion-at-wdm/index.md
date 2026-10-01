@@ -1,6 +1,6 @@
 # WDM x Raum für Ton: Introversion at WDM
 
-WDM x Raum für Ton: Introversion on Sat 6 Feb, Hannover. 5 artists on the bill: DJ Sonnenbrand, Introversion, Leskus and Ponygirl and 1 more. Preview the line-up and save it on soundcheck.
+WDM x Raum für Ton: Introversion on Sat 6 Feb, Hannover. 5 artists: DJ Sonnenbrand, Introversion, Leskus and Ponygirl and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

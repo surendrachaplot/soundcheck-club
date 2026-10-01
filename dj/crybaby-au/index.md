@@ -1,8 +1,8 @@
 # Crybaby
 
-Crybaby is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Crybaby is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Crybaby is a techno and house artist based in Australia, tracked on soundcheck, with 56 sets logged across Bangkok, Brisbane, London and Melbourne and 5 more. Often billed alongside JUPiTA, Shampain and Caucasian Opportunities. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Crybaby is a techno and house artist based in Australia, with 56 gigs on soundcheck across Bangkok, Brisbane, London and Melbourne and 5 more. Often billed alongside JUPiTA, Shampain and Caucasian Opportunities. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Crybaby is a techno and house artist based in Australia, tracked on soundcheck, 
 
 ## Recently played
 
-- The Carpet Shop, London — Fri, 28 Aug 2026
-- The Cause, London — Sun, 26 Jul 2026
-- The Haggerston, London — Fri, 17 Jul 2026
-- Badaboum, Paris — Sat, 27 Jun 2026
-- The Ivy, Sydney — Sun, 7 Jun 2026
-- The Vanguard, Sydney — Sat, 6 Jun 2026
-- Miscellania, Melbourne — Fri, 5 Jun 2026
-- Miscellania, Melbourne — Fri, 5 Jun 2026
+- The Carpet Shop, London · Fri, 28 Aug 2026
+- The Cause, London · Sun, 26 Jul 2026
+- The Haggerston, London · Fri, 17 Jul 2026
+- Badaboum, Paris · Sat, 27 Jun 2026
+- The Ivy, Sydney · Sun, 7 Jun 2026
+- The Vanguard, Sydney · Sat, 6 Jun 2026
+- Miscellania, Melbourne · Fri, 5 Jun 2026
+- Miscellania, Melbourne · Fri, 5 Jun 2026
 
 ## Shares bills with
 

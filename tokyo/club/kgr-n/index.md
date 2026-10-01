@@ -1,8 +1,8 @@
 # KGR(n)
 
-KGR(n) is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Marionette x KGRn TOKYO" on Fri, 2 Oct 2026.
+KGR(n) is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Marionette x KGRn TOKYO" on Fri, 2 Oct 2026.
 
-KGR(n) is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including Ario, C-KAY, Compuma and Grimwig and 2 more. Browse upcoming dates, start times and who's playing. 6-48 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825 Japan.
+KGR(n) is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including Ario, C-KAY, Compuma and Grimwig and 2 more. See dates, start times and who's playing. 6-48 Kagurazaka, Shinjuku-ku, Tokyo, 162-0825 Japan.
 
 ## What's on
 

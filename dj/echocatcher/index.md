@@ -1,8 +1,8 @@
 # echocatcher
 
-echocatcher is a Bass and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Forestlimit, Tokyo on Fri, 9 Oct 2026.
+echocatcher is a Bass and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Forestlimit, Tokyo on Fri, 9 Oct 2026.
 
-echocatcher is a bass and club artist based in China, tracked on soundcheck, with 14 sets logged across Kyoto, London, Osaka and Shanghai and 2 more. Often billed alongside DJ EBP, FEIYI and Illsee. Next up: Forestlimit, Tokyo on Fri 9 Oct.
+echocatcher is a bass and club artist based in China, with 14 gigs on soundcheck across Kyoto, London, Osaka and Shanghai and 2 more. Often billed alongside DJ EBP, FEIYI and Illsee. Next up: Forestlimit, Tokyo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ echocatcher is a bass and club artist based in China, tracked on soundcheck, wit
 
 ## Recently played
 
-- Reactor Shanghai, Shanghai — Fri, 29 May 2026
-- TBA - No. 535, Jinqiao Road, Pudong New Area, Shanghai, Shanghai — Sat, 23 May 2026
-- EXIT, Shanghai — Sun, 3 May 2026
-- TBA - Room M101, No. 462, Changle Road, Huangpu District, Shanghai, Shanghai — Sat, 2 May 2026
-- OIL Club, Shenzhen — Fri, 26 Dec 2025
-- OIL Club, Shenzhen — Fri, 31 Oct 2025
-- West Harlem, Kyoto — Sat, 29 Mar 2025
-- WOMB, Tokyo — Fri, 28 Mar 2025
+- Reactor Shanghai, Shanghai · Fri, 29 May 2026
+- TBA - No. 535, Jinqiao Road, Pudong New Area, Shanghai, Shanghai · Sat, 23 May 2026
+- EXIT, Shanghai · Sun, 3 May 2026
+- TBA - Room M101, No. 462, Changle Road, Huangpu District, Shanghai, Shanghai · Sat, 2 May 2026
+- OIL Club, Shenzhen · Fri, 26 Dec 2025
+- OIL Club, Shenzhen · Fri, 31 Oct 2025
+- West Harlem, Kyoto · Sat, 29 Mar 2025
+- WOMB, Tokyo · Fri, 28 Mar 2025
 
 ## Shares bills with
 

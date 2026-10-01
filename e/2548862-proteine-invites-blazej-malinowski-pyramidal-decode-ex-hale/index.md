@@ -1,6 +1,6 @@
 # PROTEINE invites: Blazej Malinowski, Pyramidal Decode, Ex.Hale, SVR at Duel Club
 
-PROTEINE invites: Blazej Malinowski, Pyramidal Decode, Ex.Hale, SVR at Duel Club on Sat 3 Oct, Naples. 3 artists on the bill: Blazej Malinowski, Ex.Hale and Pyramidal Decode. Techno and Club. Preview the line-up and save it on soundcheck.
+PROTEINE invites: Blazej Malinowski, Pyramidal Decode, Ex.Hale, SVR at Duel Club on Sat 3 Oct, Naples. 3 artists: Blazej Malinowski, Ex.Hale and Pyramidal Decode. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Woo York (Live) - San Francisco at The Great Northern
 
-Woo York (Live) - San Francisco at The Great Northern on Fri 9 Oct, San Francisco/Oakland. 1 artist on the bill: Woo York. Techno. Preview the line-up and save it on soundcheck.
+Woo York (Live) - San Francisco at The Great Northern on Fri 9 Oct, San Francisco/Oakland. 1 artist: Woo York. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

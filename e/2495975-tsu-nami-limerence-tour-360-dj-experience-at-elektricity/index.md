@@ -1,6 +1,6 @@
 # TSU NAMI: LIMERENCE TOUR (360° DJ EXPERIENCE) at Elektricity
 
-TSU NAMI: LIMERENCE TOUR (360° DJ EXPERIENCE) at Elektricity on Fri 16 Oct, Detroit. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+TSU NAMI: LIMERENCE TOUR (360° DJ EXPERIENCE) at Elektricity on Fri 16 Oct, Detroit. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

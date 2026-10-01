@@ -1,8 +1,8 @@
 # sovblkpssy
 
-sovblkpssy is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Sydney on Sat, 17 Oct 2026.
+sovblkpssy is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Sydney on Sat, 17 Oct 2026.
 
-sovblkpssy is a club and bass artist based in Australia, tracked on soundcheck, with 31 sets logged across Melbourne and Sydney. Often billed alongside Rydeen (AU), Kuya Neil and Crescendoll (AU). Next up: TBA, Sydney on Sat 17 Oct.
+sovblkpssy is a club and bass artist based in Australia, with 31 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Rydeen (AU), Kuya Neil and Crescendoll (AU). Next up: TBA, Sydney on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ sovblkpssy is a club and bass artist based in Australia, tracked on soundcheck, 
 
 ## Recently played
 
-- Miscellania, Melbourne — Fri, 18 Sept 2026
-- TBA, Sydney — Fri, 11 Sept 2026
-- Club 77, Sydney — Sun, 6 Sept 2026
-- Miscellania, Melbourne — Sat, 8 Aug 2026
-- Club 77, Sydney — Thu, 30 Jul 2026
-- Kines, Melbourne — Wed, 8 Jul 2026
-- The Red Rattler, Sydney — Sat, 13 Jun 2026
-- TBA - Heaps Normal Health Club, Sydney — Fri, 12 Jun 2026
+- Miscellania, Melbourne · Fri, 18 Sept 2026
+- TBA, Sydney · Fri, 11 Sept 2026
+- Club 77, Sydney · Sun, 6 Sept 2026
+- Miscellania, Melbourne · Sat, 8 Aug 2026
+- Club 77, Sydney · Thu, 30 Jul 2026
+- Kines, Melbourne · Wed, 8 Jul 2026
+- The Red Rattler, Sydney · Sat, 13 Jun 2026
+- TBA - Heaps Normal Health Club, Sydney · Fri, 12 Jun 2026
 
 ## Shares bills with
 

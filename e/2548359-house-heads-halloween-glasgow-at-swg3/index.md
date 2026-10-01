@@ -1,6 +1,6 @@
 # House Heads Halloween - Glasgow at SWG3
 
-House Heads Halloween - Glasgow at SWG3 on Sat 31 Oct, Glasgow. 5 artists on the bill: Archie Hamilton, Carmen Baía, Gaskin and Papa Nugs and 1 more. House. Preview the line-up and save it on soundcheck.
+House Heads Halloween - Glasgow at SWG3 on Sat 31 Oct, Glasgow. 5 artists: Archie Hamilton, Carmen Baía, Gaskin and Papa Nugs and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

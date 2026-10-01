@@ -1,6 +1,6 @@
 # LOVE FREQUENCY: TBA at TBA
 
-LOVE FREQUENCY: TBA on Sat 19 Dec, Dublin. Preview the line-up and save it on soundcheck.
+LOVE FREQUENCY: TBA on Sat 19 Dec, Dublin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

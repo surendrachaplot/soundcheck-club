@@ -1,6 +1,6 @@
 # The Latest Edition at Stage and Radio
 
-The Latest Edition at Stage and Radio on Fri 4 Dec, Manchester. Bass and Grime. Preview the line-up and save it on soundcheck.
+The Latest Edition at Stage and Radio on Fri 4 Dec, Manchester. Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

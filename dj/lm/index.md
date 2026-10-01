@@ -1,8 +1,8 @@
 # LM
 
-LM is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Carrer de Sant Pere Més Alt, 31, Barcelona on Fri, 2 Oct 2026.
+LM is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Carrer de Sant Pere Més Alt, 31, Barcelona on Fri, 2 Oct 2026.
 
-LM is a house and tech house artist based in Venezuela, tracked on soundcheck, with 147 sets logged across Bangkok, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Brieela, Baffa and ildec. Next up: TBA - Carrer de Sant Pere Més Alt, 31, Barcelona on Fri 2 Oct.
+LM is a house and tech house artist based in Venezuela, with 147 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Brieela, Baffa and ildec. Next up: TBA - Carrer de Sant Pere Més Alt, 31, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ LM is a house and tech house artist based in Venezuela, tracked on soundcheck, w
 
 ## Recently played
 
-- Macarena Club, Barcelona — Fri, 18 Sept 2026
-- Macarena Club, Barcelona — Fri, 18 Sept 2026
-- Base Porto, Porto — Sat, 12 Sept 2026
-- Resume Valencia, Valencia — Fri, 11 Sept 2026
-- 303 Audiophile Bar, Barcelona — Thu, 10 Sept 2026
-- Sunseabar Beach Club, Barcelona — Fri, 4 Sept 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Thu, 3 Sept 2026
-- HOTEL PULITZER BARCELONA, Barcelona — Sun, 19 Jul 2026
+- Macarena Club, Barcelona · Fri, 18 Sept 2026
+- Macarena Club, Barcelona · Fri, 18 Sept 2026
+- Base Porto, Porto · Sat, 12 Sept 2026
+- Resume Valencia, Valencia · Fri, 11 Sept 2026
+- 303 Audiophile Bar, Barcelona · Thu, 10 Sept 2026
+- Sunseabar Beach Club, Barcelona · Fri, 4 Sept 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Thu, 3 Sept 2026
+- HOTEL PULITZER BARCELONA, Barcelona · Sun, 19 Jul 2026
 
 ## Shares bills with
 

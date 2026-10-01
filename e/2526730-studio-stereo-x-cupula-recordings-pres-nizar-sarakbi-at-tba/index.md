@@ -1,6 +1,6 @@
 # Studio Stereo x Cupula Recordings pres. Nizar Sarakbi at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Cupula Recordings pres. Nizar Sarakbi at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 23 Oct, Barcelona. 4 artists on the bill: Adria (ES), Nizar Sarakbi, Pau Rosés and Priorat. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Cupula Recordings pres. Nizar Sarakbi at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 23 Oct, Barcelona. 4 artists: Adria (ES), Nizar Sarakbi, Pau Rosés and Priorat. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

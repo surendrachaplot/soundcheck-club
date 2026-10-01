@@ -1,6 +1,6 @@
 # No Sundays Without Techno at John Doe
 
-No Sundays Without Techno at John Doe on Sun 4 Oct, Amsterdam. 1 artist on the bill: Alex Sharp. Techno and Deep House. Preview the line-up and save it on soundcheck.
+No Sundays Without Techno at John Doe on Sun 4 Oct, Amsterdam. 1 artist: Alex Sharp. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

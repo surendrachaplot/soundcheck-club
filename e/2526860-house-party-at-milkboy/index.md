@@ -1,6 +1,6 @@
 # House Party at Milkboy
 
-House Party at Milkboy on Fri 9 Oct, Philadelphia. House and Garage. Preview the line-up and save it on soundcheck.
+House Party at Milkboy on Fri 9 Oct, Philadelphia. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

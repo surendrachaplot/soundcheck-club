@@ -1,8 +1,8 @@
 # Toffler
 
-Toffler is a music venue in Rotterdam with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Toffler presents BASSJACKERS - All night long" on Fri, 2 Oct 2026.
+Toffler is a music venue in Rotterdam with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Toffler presents BASSJACKERS - All night long" on Fri, 2 Oct 2026.
 
-Toffler is a music venue in Rotterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AIS, Chess, Divasi and GWELD and 2 more. Browse upcoming dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
+Toffler is a music venue in Rotterdam listed on soundcheck. 13 upcoming gigs, with line-ups including AIS, Chess, Divasi and GWELD and 2 more. See dates, start times and who's playing. Weena-Zuid 33, 3012 NH, Rotterdam, Netherlands.
 
 ## What's on
 

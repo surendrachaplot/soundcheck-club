@@ -1,6 +1,6 @@
 # Oldies & Trash Night 90s&Y2K Female Edition at Fundbureau
 
-Oldies & Trash Night 90s&Y2K Female Edition at Fundbureau on Sat 10 Oct, Hamburg. Trance and Techno. Preview the line-up and save it on soundcheck.
+Oldies & Trash Night 90s&Y2K Female Edition at Fundbureau on Sat 10 Oct, Hamburg. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

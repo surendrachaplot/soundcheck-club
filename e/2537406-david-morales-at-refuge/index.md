@@ -1,6 +1,6 @@
 # David Morales at Refuge
 
-David Morales at Refuge on Thu 26 Nov, New York City. 1 artist on the bill: David Morales. Preview the line-up and save it on soundcheck.
+David Morales at Refuge on Thu 26 Nov, New York City. 1 artist: David Morales. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

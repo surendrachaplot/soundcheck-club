@@ -1,6 +1,6 @@
 # Coil Invites: DJ Kiti, Norm De Plume, DJ MBq at Coil
 
-Coil Invites: DJ Kiti, Norm De Plume, DJ MBq on Fri 2 Oct, Melbourne. 3 artists on the bill: DJ Kiti, DJ MBq and Norm De Plume. Trance and Techno. Preview the line-up and save it on soundcheck.
+Coil Invites: DJ Kiti, Norm De Plume, DJ MBq on Fri 2 Oct, Melbourne. 3 artists: DJ Kiti, DJ MBq and Norm De Plume. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

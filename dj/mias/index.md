@@ -1,8 +1,8 @@
 # miAs
 
-miAs is a House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+miAs is a House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
 
-miAs is a house and downtempo artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Basel, Berlin and Hamburg. Often billed alongside Peter Schumann, Sascha Cawa and Sven Dohse. Next up: Kater, Berlin on Fri 9 Oct.
+miAs is a house and downtempo artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Basel, Berlin and Hamburg. Often billed alongside Peter Schumann, Sascha Cawa and Sven Dohse. Next up: Kater, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ miAs is a house and downtempo artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Kater, Berlin — Sat, 23 May 2026
-- Kater, Berlin — Sat, 4 Apr 2026
-- Kater, Berlin — Fri, 6 Feb 2026
-- Kater, Berlin — Wed, 31 Dec 2025
-- Kaschemme Basel, Basel — Sat, 20 Dec 2025
-- Kater, Berlin — Thu, 2 Oct 2025
-- Kante Nkln, Berlin — Sun, 31 Aug 2025
-- Kater, Berlin — Fri, 22 Aug 2025
+- Kater, Berlin · Sat, 23 May 2026
+- Kater, Berlin · Sat, 4 Apr 2026
+- Kater, Berlin · Fri, 6 Feb 2026
+- Kater, Berlin · Wed, 31 Dec 2025
+- Kaschemme Basel, Basel · Sat, 20 Dec 2025
+- Kater, Berlin · Thu, 2 Oct 2025
+- Kante Nkln, Berlin · Sun, 31 Aug 2025
+- Kater, Berlin · Fri, 22 Aug 2025
 
 ## Shares bills with
 

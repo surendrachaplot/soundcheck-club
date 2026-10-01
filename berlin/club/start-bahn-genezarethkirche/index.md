@@ -1,8 +1,8 @@
 # Start.Bahn - Genezarethkirche
 
-Start.Bahn - Genezarethkirche is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Walls Will Fall: The 28 Trumpets of Jericho / Beirut Birds" on Mon, 12 Oct 2026.
+Start.Bahn - Genezarethkirche is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Walls Will Fall: The 28 Trumpets of Jericho / Beirut Birds" on Mon, 12 Oct 2026.
 
-Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including APRS, Luigi Tozzi, Midwife and Nour Sokhon and 2 more. Browse upcoming dates, start times and who's playing. Herrfurthplatz 14, 12049 Berlin.
+Start.Bahn - Genezarethkirche is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including APRS, Luigi Tozzi, Midwife and Nour Sokhon and 2 more. See dates, start times and who's playing. Herrfurthplatz 14, 12049 Berlin.
 
 ## What's on
 

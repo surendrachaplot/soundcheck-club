@@ -1,8 +1,8 @@
 # Chaos In The CBD
 
-Chaos In The CBD is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at UMI, Brussels on Sat, 3 Oct 2026.
+Chaos In The CBD is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UMI, Brussels on Sat, 3 Oct 2026.
 
-Chaos In The CBD is a house and techno artist based in New Zealand, tracked on soundcheck, with 218 sets logged across Amsterdam, Antwerp, Auckland and Bali and 57 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: UMI, Brussels on Sat 3 Oct.
+Chaos In The CBD is a house and techno artist based in New Zealand, with 218 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bali and 57 more. Often billed alongside Sally C, Seth Troxler and Ben UFO. Next up: UMI, Brussels on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ Chaos In The CBD is a house and techno artist based in New Zealand, tracked on s
 
 ## Recently played
 
-- 528 Ibiza, Ibiza — Tue, 29 Sept 2026
-- smartbar, Chicago — Sun, 6 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Knockdown Center, New York City — Sat, 29 Aug 2026
-- Hackney Bridge, London — Sat, 22 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- Hï Ibiza, Ibiza — Fri, 7 Aug 2026
-- Queen's Park Arena, Glasgow — Sat, 1 Aug 2026
+- 528 Ibiza, Ibiza · Tue, 29 Sept 2026
+- smartbar, Chicago · Sun, 6 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Knockdown Center, New York City · Sat, 29 Aug 2026
+- Hackney Bridge, London · Sat, 22 Aug 2026
+- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
+- Hï Ibiza, Ibiza · Fri, 7 Aug 2026
+- Queen's Park Arena, Glasgow · Sat, 1 Aug 2026
 
 ## Shares bills with
 

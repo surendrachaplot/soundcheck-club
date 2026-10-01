@@ -1,6 +1,6 @@
 # Carl0ta, SAMIA & Sandra Vandall X Say No More at Say No More Madrid
 
-Carl0ta, SAMIA & Sandra Vandall X Say No More at Say No More Madrid on Fri 2 Oct, Madrid. 2 artists on the bill: ANDREA VANDALL and SAMIA. Latin Bass and Afro House. Preview the line-up and save it on soundcheck.
+Carl0ta, SAMIA & Sandra Vandall X Say No More at Say No More Madrid on Fri 2 Oct, Madrid. 2 artists: ANDREA VANDALL and SAMIA. Latin Bass and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Zonzo
 
-Zonzo is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
+Zonzo is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - secret location, Barcelona on Sat, 3 Oct 2026.
 
-Zonzo is a disco and house artist based in Italy, tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Mallorca and Malta and 3 more. Often billed alongside Deckard, Sonido Tupinamba and Josep Xortó. Next up: TBA - secret location, Barcelona on Sat 3 Oct.
+Zonzo is a disco and house artist based in Italy, with 59 gigs on soundcheck across Barcelona, Berlin, Mallorca and Malta and 3 more. Often billed alongside Deckard, Sonido Tupinamba and Josep Xortó. Next up: TBA - secret location, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Zonzo is a disco and house artist based in Italy, tracked on soundcheck, with 59
 
 ## Recently played
 
-- TBA - Jardi Dels Tarongers, El Raval, Barcelona — Sat, 11 Jul 2026
-- IT- Italian Tratoria, Barcelona — Wed, 17 Jun 2026
-- La Paloma, Barcelona — Sat, 13 Jun 2026
-- Village Underground Barcelona, Barcelona — Sat, 30 May 2026
-- La Deskomunal, Barcelona — Fri, 22 May 2026
-- TBA - Mansion Near Plaza Catalunya, Barcelona — Sun, 12 Apr 2026
-- La Paloma, Barcelona — Sat, 4 Apr 2026
-- La Paloma, Barcelona — Sat, 14 Feb 2026
+- TBA - Jardi Dels Tarongers, El Raval, Barcelona · Sat, 11 Jul 2026
+- IT- Italian Tratoria, Barcelona · Wed, 17 Jun 2026
+- La Paloma, Barcelona · Sat, 13 Jun 2026
+- Village Underground Barcelona, Barcelona · Sat, 30 May 2026
+- La Deskomunal, Barcelona · Fri, 22 May 2026
+- TBA - Mansion Near Plaza Catalunya, Barcelona · Sun, 12 Apr 2026
+- La Paloma, Barcelona · Sat, 4 Apr 2026
+- La Paloma, Barcelona · Sat, 14 Feb 2026
 
 ## Shares bills with
 

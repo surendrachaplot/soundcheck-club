@@ -1,6 +1,6 @@
 # Morph Kollektiv at TAM TAM Treppenbar
 
-Morph Kollektiv at TAM TAM Treppenbar on Thu 1 Oct, Munich. 1 artist on the bill: aufleguan. Trance and Techno. Preview the line-up and save it on soundcheck.
+Morph Kollektiv at TAM TAM Treppenbar on Thu 1 Oct, Munich. 1 artist: aufleguan. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

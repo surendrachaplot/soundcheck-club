@@ -1,8 +1,8 @@
 # Alousea
 
-Alousea is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ouseburn Garden, Newcastle on Fri, 2 Oct 2026.
+Alousea is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ouseburn Garden, Newcastle on Fri, 2 Oct 2026.
 
-Alousea is a disco and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Newcastle. Often billed alongside Socialness, PHJ.WAV and FroD. Next up: Ouseburn Garden, Newcastle on Fri 2 Oct.
+Alousea is a disco and house artist based in United Kingdom, with 19 gigs on soundcheck across Newcastle. Often billed alongside Socialness, PHJ.WAV and FroD. Next up: Ouseburn Garden, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Alousea is a disco and house artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- Ernest, Newcastle — Thu, 17 Sept 2026
-- Oxygenic, Newcastle — Sat, 5 Sept 2026
-- Ernest, Newcastle — Fri, 28 Aug 2026
-- Ernest, Newcastle — Tue, 18 Aug 2026
-- Oxygenic, Newcastle — Sat, 8 Aug 2026
-- Ouseburn Garden, Newcastle — Sat, 1 Aug 2026
-- Ernest, Newcastle — Sat, 25 Jul 2026
-- Oxygenic, Newcastle — Sat, 18 Jul 2026
+- Ernest, Newcastle · Thu, 17 Sept 2026
+- Oxygenic, Newcastle · Sat, 5 Sept 2026
+- Ernest, Newcastle · Fri, 28 Aug 2026
+- Ernest, Newcastle · Tue, 18 Aug 2026
+- Oxygenic, Newcastle · Sat, 8 Aug 2026
+- Ouseburn Garden, Newcastle · Sat, 1 Aug 2026
+- Ernest, Newcastle · Sat, 25 Jul 2026
+- Oxygenic, Newcastle · Sat, 18 Jul 2026
 
 ## Shares bills with
 

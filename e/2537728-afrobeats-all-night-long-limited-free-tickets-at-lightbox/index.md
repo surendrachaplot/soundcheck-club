@@ -1,6 +1,6 @@
 # Afrobeats All Night Long - Limited Free Tickets at Lightbox
 
-Afrobeats All Night Long - Limited Free Tickets at Lightbox on Fri 9 Oct, London. Afrobeats. Preview the line-up and save it on soundcheck.
+Afrobeats All Night Long - Limited Free Tickets at Lightbox on Fri 9 Oct, London. Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

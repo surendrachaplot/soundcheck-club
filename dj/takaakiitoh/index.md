@@ -1,8 +1,8 @@
 # Takaaki Itoh
 
-Takaaki Itoh is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fever, Bilbao on Fri, 2 Oct 2026.
+Takaaki Itoh is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fever, Bilbao on Fri, 2 Oct 2026.
 
-Takaaki Itoh is a techno and house artist based in Japan, tracked on soundcheck, with 111 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: Fever, Bilbao on Fri 2 Oct.
+Takaaki Itoh is a techno and house artist based in Japan, with 111 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside DANA NADA, DANDAN and Vulkanski. Next up: Fever, Bilbao on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Takaaki Itoh is a techno and house artist based in Japan, tracked on soundcheck,
 
 ## Recently played
 
-- TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin — Sat, 26 Sept 2026
-- TBA - Los Angeles, Los Angeles — Sat, 12 Sept 2026
-- Mariano Escobedo 494, Mexico City — Fri, 11 Sept 2026
-- BASEMENT, New York City — Fri, 4 Sept 2026
-- TBA, Boston — Sat, 29 Aug 2026
-- HVEN, Tokyo — Sat, 22 Aug 2026
-- Z Maruyama, Tokyo — Sat, 8 Aug 2026
-- TBA - Powered by: Void Acoustics, Madrid — Sat, 18 Jul 2026
+- TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin · Sat, 26 Sept 2026
+- TBA - Los Angeles, Los Angeles · Sat, 12 Sept 2026
+- Mariano Escobedo 494, Mexico City · Fri, 11 Sept 2026
+- BASEMENT, New York City · Fri, 4 Sept 2026
+- TBA, Boston · Sat, 29 Aug 2026
+- HVEN, Tokyo · Sat, 22 Aug 2026
+- Z Maruyama, Tokyo · Sat, 8 Aug 2026
+- TBA - Powered by: Void Acoustics, Madrid · Sat, 18 Jul 2026
 
 ## Shares bills with
 

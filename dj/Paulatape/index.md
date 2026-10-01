@@ -1,8 +1,8 @@
 # Paula Tape
 
-Paula Tape is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Apollo Club Milano, Milan on Fri, 9 Oct 2026.
+Paula Tape is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Apollo Club Milano, Milan on Fri, 9 Oct 2026.
 
-Paula Tape is a house and techno artist based in Chile, tracked on soundcheck, with 166 sets logged across Amsterdam, Athens, Bali and Bangkok and 50 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Apollo Club Milano, Milan on Fri 9 Oct.
+Paula Tape is a house and techno artist based in Chile, with 166 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 50 more. Often billed alongside Avalon Emerson, Bonobo and Bradley Zero. Next up: Apollo Club Milano, Milan on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Paula Tape is a house and techno artist based in Chile, tracked on soundcheck, w
 
 ## Recently played
 
-- Circolo Amelia, Milan — Sun, 27 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- H0L0, New York City — Fri, 18 Sept 2026
-- smartbar, Chicago — Sun, 13 Sept 2026
-- public records, New York City — Sat, 12 Sept 2026
-- 528 Ibiza, Ibiza — Sat, 5 Sept 2026
-- The White Hotel, Manchester — Fri, 4 Sept 2026
-- Rex Club, Paris — Fri, 28 Aug 2026
+- Circolo Amelia, Milan · Sun, 27 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- H0L0, New York City · Fri, 18 Sept 2026
+- smartbar, Chicago · Sun, 13 Sept 2026
+- public records, New York City · Sat, 12 Sept 2026
+- 528 Ibiza, Ibiza · Sat, 5 Sept 2026
+- The White Hotel, Manchester · Fri, 4 Sept 2026
+- Rex Club, Paris · Fri, 28 Aug 2026
 
 ## Shares bills with
 

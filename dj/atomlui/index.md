@@ -1,8 +1,8 @@
 # Atomlui
 
-Atomlui is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Frappant, Hamburg on Sat, 3 Oct 2026.
+Atomlui is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Frappant, Hamburg on Sat, 3 Oct 2026.
 
-Atomlui is a techno and house artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Hamburg. Often billed alongside Antoine Baiser, Bombe and John Joses. Next up: Frappant, Hamburg on Sat 3 Oct.
+Atomlui is a techno and house artist based in Germany, with 17 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Antoine Baiser, Bombe and John Joses. Next up: Frappant, Hamburg on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Atomlui is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Renate, Berlin — Thu, 27 Aug 2026
-- Golden Pudel Club, Hamburg — Fri, 12 Jun 2026
-- Hafenbahnhof, Hamburg — Sat, 9 May 2026
-- Südpol, Hamburg — Sat, 4 Apr 2026
-- Remoto Records, Hamburg — Fri, 20 Mar 2026
-- TBA - Locke + Pudel, St Pauli Fischmarkt 27, 20359 Hamburg, Hamburg — Sat, 14 Mar 2026
-- Fabrique im Gängeviertel, Hamburg — Sat, 14 Mar 2026
-- Golden Pudel Club, Hamburg — Sat, 24 Jan 2026
+- Renate, Berlin · Thu, 27 Aug 2026
+- Golden Pudel Club, Hamburg · Fri, 12 Jun 2026
+- Hafenbahnhof, Hamburg · Sat, 9 May 2026
+- Südpol, Hamburg · Sat, 4 Apr 2026
+- Remoto Records, Hamburg · Fri, 20 Mar 2026
+- TBA - Locke + Pudel, St Pauli Fischmarkt 27, 20359 Hamburg, Hamburg · Sat, 14 Mar 2026
+- Fabrique im Gängeviertel, Hamburg · Sat, 14 Mar 2026
+- Golden Pudel Club, Hamburg · Sat, 24 Jan 2026
 
 ## Shares bills with
 

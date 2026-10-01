@@ -1,6 +1,6 @@
 # Big Fish Little Fish LEEDS Halloween Family Rave! Sun 25th October 1-3pm at Belgrave Music Hall
 
-Big Fish Little Fish LEEDS Halloween Family Rave! Sun 25th October 1-3pm at Belgrave Music Hall on Sun 25 Oct, Leeds. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Big Fish Little Fish LEEDS Halloween Family Rave! Sun 25th October 1-3pm at Belgrave Music Hall on Sun 25 Oct, Leeds. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

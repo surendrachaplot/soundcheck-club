@@ -1,6 +1,6 @@
 # Nia Archives at Uber Eats Music Hall
 
-Nia Archives at Uber Eats Music Hall on Tue 1 Dec, Berlin. 1 artist on the bill: Nia Archives. Preview the line-up and save it on soundcheck.
+Nia Archives at Uber Eats Music Hall on Tue 1 Dec, Berlin. 1 artist: Nia Archives. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

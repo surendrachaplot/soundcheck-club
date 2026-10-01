@@ -1,6 +1,6 @@
 # XOK Xi at Neue Zukunft
 
-XOK Xi at Neue Zukunft on Thu 1 Oct, Berlin. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+XOK Xi at Neue Zukunft on Thu 1 Oct, Berlin. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

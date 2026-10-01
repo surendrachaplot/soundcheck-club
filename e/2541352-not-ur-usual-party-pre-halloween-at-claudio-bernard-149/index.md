@@ -1,6 +1,6 @@
 # NOT UR USUAL PARTY [PRE-HALLOWEEN] at Claudio Bernard 149
 
-NOT UR USUAL PARTY [PRE-HALLOWEEN] at Claudio Bernard 149 on Sat 24 Oct, Mexico City. 2 artists on the bill: Ali X x Ximena and Diego Walle. Techno and House. Preview the line-up and save it on soundcheck.
+NOT UR USUAL PARTY [PRE-HALLOWEEN] at Claudio Bernard 149 on Sat 24 Oct, Mexico City. 2 artists: Ali X x Ximena and Diego Walle. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

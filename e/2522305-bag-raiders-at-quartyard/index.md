@@ -1,6 +1,6 @@
 # Bag Raiders at Quartyard
 
-Bag Raiders at Quartyard on Sun 8 Nov, San Diego. 1 artist on the bill: Bag Raiders. Preview the line-up and save it on soundcheck.
+Bag Raiders at Quartyard on Sun 8 Nov, San Diego. 1 artist: Bag Raiders. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

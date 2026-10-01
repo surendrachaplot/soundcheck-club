@@ -1,8 +1,8 @@
 # Sleeparchive
 
-Sleeparchive is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
+Sleeparchive is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
 
-Sleeparchive is a techno and electro artist based in Germany, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Birmingham and Brussels and 3 more. Often billed alongside DJ Pete, Developer and HGR. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
+Sleeparchive is a techno and electro artist based in Germany, with 18 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Brussels and 3 more. Often billed alongside DJ Pete, Developer and HGR. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sleeparchive is a techno and electro artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- Paloma, Berlin — Sat, 10 Jan 2026
-- Tresor / Globus, Berlin — Fri, 3 Oct 2025
-- Paloma, Berlin — Sat, 12 Apr 2025
-- Tresor / Globus, Berlin — Fri, 3 Jan 2025
-- Tresor / Globus, Berlin — Mon, 30 Dec 2024
-- RADION, Amsterdam — Sat, 30 Nov 2024
-- RSO.BERLIN, Berlin — Sat, 28 Sept 2024
-- ://about blank, Berlin — Fri, 26 Apr 2024
+- Paloma, Berlin · Sat, 10 Jan 2026
+- Tresor / Globus, Berlin · Fri, 3 Oct 2025
+- Paloma, Berlin · Sat, 12 Apr 2025
+- Tresor / Globus, Berlin · Fri, 3 Jan 2025
+- Tresor / Globus, Berlin · Mon, 30 Dec 2024
+- RADION, Amsterdam · Sat, 30 Nov 2024
+- RSO.BERLIN, Berlin · Sat, 28 Sept 2024
+- ://about blank, Berlin · Fri, 26 Apr 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # DNG & Nari at DJ Bar Bridge
 
-DNG & Nari at DJ Bar Bridge on Sat 24 Oct, Tokyo. 2 artists on the bill: DNG and Nari. House. Preview the line-up and save it on soundcheck.
+DNG & Nari at DJ Bar Bridge on Sat 24 Oct, Tokyo. 2 artists: DNG and Nari. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

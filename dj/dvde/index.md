@@ -1,8 +1,8 @@
 # DVDE
 
-DVDE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mitsuki, Tokyo on Thu, 1 Oct 2026.
+DVDE is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mitsuki, Tokyo on Thu, 1 Oct 2026.
 
-DVDE is a house and techno artist based in France, tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 17 more. Often billed alongside Maison Blanche, CL Beats and Cinthie. Next up: Mitsuki, Tokyo on Thu 1 Oct.
+DVDE is a house and techno artist based in France, with 109 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 17 more. Often billed alongside Maison Blanche, CL Beats and Cinthie. Next up: Mitsuki, Tokyo on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DVDE is a house and techno artist based in France, tracked on soundcheck, with 1
 
 ## Recently played
 
-- The Back Room, Bali — Sat, 19 Sept 2026
-- Elsewhere, Bangkok — Sat, 12 Sept 2026
-- Macadam, Nantes — Sat, 29 Aug 2026
-- Quinta Mira Rio, Lisbon — Wed, 12 Aug 2026
-- AURA, Lisbon — Sat, 1 Aug 2026
-- Lux Fragil, Lisbon — Thu, 16 Jul 2026
-- Ministerium Club, Lisbon — Sat, 4 Jul 2026
-- La Javelle (Bercy), Paris — Sat, 30 May 2026
+- The Back Room, Bali · Sat, 19 Sept 2026
+- Elsewhere, Bangkok · Sat, 12 Sept 2026
+- Macadam, Nantes · Sat, 29 Aug 2026
+- Quinta Mira Rio, Lisbon · Wed, 12 Aug 2026
+- AURA, Lisbon · Sat, 1 Aug 2026
+- Lux Fragil, Lisbon · Thu, 16 Jul 2026
+- Ministerium Club, Lisbon · Sat, 4 Jul 2026
+- La Javelle (Bercy), Paris · Sat, 30 May 2026
 
 ## Shares bills with
 

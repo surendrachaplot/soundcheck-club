@@ -1,6 +1,6 @@
 # RIO FUNK at Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar
 
-RIO FUNK at Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar on Sat 10 Oct, Auckland. Rio Funk. Preview the line-up and save it on soundcheck.
+RIO FUNK at Commercial Bay - Kemuri Hi-Fi, Reign & Pour, Dos Donkey and Public Bar on Sat 10 Oct, Auckland. Rio Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

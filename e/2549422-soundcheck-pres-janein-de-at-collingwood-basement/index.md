@@ -1,6 +1,6 @@
 # SoundCheck pres. JANEIN (DE) at Collingwood Basement
 
-SoundCheck pres. JANEIN (DE) at Collingwood Basement on Fri 13 Nov, Melbourne. 3 artists on the bill: Ivan Kyrov, JANEIN and Yulia Kasa. Techno. Preview the line-up and save it on soundcheck.
+SoundCheck pres. JANEIN (DE) at Collingwood Basement on Fri 13 Nov, Melbourne. 3 artists: Ivan Kyrov, JANEIN and Yulia Kasa. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

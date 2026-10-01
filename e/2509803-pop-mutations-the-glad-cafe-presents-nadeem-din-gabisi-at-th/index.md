@@ -1,6 +1,6 @@
 # Pop Mutations & The Glad Cafe presents: Nadeem Din-Gabisi at The Glad Cafe
 
-Pop Mutations & The Glad Cafe presents: Nadeem Din-Gabisi on Fri 23 Oct, Glasgow. Electronica. Preview the line-up and save it on soundcheck.
+Pop Mutations & The Glad Cafe presents: Nadeem Din-Gabisi on Fri 23 Oct, Glasgow. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

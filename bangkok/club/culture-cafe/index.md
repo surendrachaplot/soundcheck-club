@@ -1,8 +1,8 @@
 # Culture Cafe
 
-Culture Cafe is a music venue in Bangkok with 27 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star" on Thu, 1 Oct 2026.
+Culture Cafe is a music venue in Bangkok with 27 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FIRST DAZE BEATS by Krit Su presents Bangkok Vinyl Junkies All Star" on Thu, 1 Oct 2026.
 
-Culture Cafe is a music venue in Bangkok listed on soundcheck. 27 upcoming gigs, with line-ups including Damon Rider, DJ Krit Morton, djmoca and Giantsiam and 2 more. Browse upcoming dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
+Culture Cafe is a music venue in Bangkok listed on soundcheck. 27 upcoming gigs, with line-ups including Damon Rider, DJ Krit Morton, djmoca and Giantsiam and 2 more. See dates, start times and who's playing. 249 Thanon Samsen, Wat Sam Phraya, Phra Nakorn, Bangkok, Thailand, Bangkok.
 
 ## What's on
 

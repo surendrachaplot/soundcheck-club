@@ -1,6 +1,6 @@
 # 19:26 at Resident Denver
 
-19:26 at Resident Denver on Fri 9 Oct, Denver. 1 artist on the bill: 19:26. House. Preview the line-up and save it on soundcheck.
+19:26 at Resident Denver on Fri 9 Oct, Denver. 1 artist: 19:26. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

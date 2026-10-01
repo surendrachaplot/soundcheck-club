@@ -1,8 +1,8 @@
 # MOVIN.KR
 
-MOVIN.KR is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Shelter, Seoul on Sat, 3 Oct 2026.
+MOVIN.KR is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Shelter, Seoul on Sat, 3 Oct 2026.
 
-MOVIN.KR is a techno and electro artist based in South Korea, tracked on soundcheck, with 151 sets logged across Seoul. Often billed alongside Honn, X2C and bumv. Next up: Shelter, Seoul on Sat 3 Oct.
+MOVIN.KR is a techno and electro artist based in South Korea, with 151 gigs on soundcheck across Seoul. Often billed alongside Honn, X2C and bumv. Next up: Shelter, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MOVIN.KR is a techno and electro artist based in South Korea, tracked on soundch
 
 ## Recently played
 
-- Shelter, Seoul — Sat, 26 Sept 2026
-- Shelter, Seoul — Sat, 12 Sept 2026
-- Shelter, Seoul — Sat, 29 Aug 2026
-- Shelter, Seoul — Sat, 8 Aug 2026
-- Shelter, Seoul — Sat, 1 Aug 2026
-- Shelter, Seoul — Sat, 25 Jul 2026
-- Shelter, Seoul — Sat, 18 Jul 2026
-- Shelter, Seoul — Sat, 11 Jul 2026
+- Shelter, Seoul · Sat, 26 Sept 2026
+- Shelter, Seoul · Sat, 12 Sept 2026
+- Shelter, Seoul · Sat, 29 Aug 2026
+- Shelter, Seoul · Sat, 8 Aug 2026
+- Shelter, Seoul · Sat, 1 Aug 2026
+- Shelter, Seoul · Sat, 25 Jul 2026
+- Shelter, Seoul · Sat, 18 Jul 2026
+- Shelter, Seoul · Sat, 11 Jul 2026
 
 ## Shares bills with
 

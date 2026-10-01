@@ -1,8 +1,8 @@
 # TBA - private location in Barcelona, tba to guests via email 48h before the event
 
-TBA - private location in Barcelona, tba to guests via email 48h before the event is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sex-Positive Party // Halloween Big Edition" on Fri, 30 Oct 2026.
+TBA - private location in Barcelona, tba to guests via email 48h before the event is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sex-Positive Party // Halloween Big Edition" on Fri, 30 Oct 2026.
 
-TBA - private location in Barcelona, tba to guests via email 48h before the event is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+TBA - private location in Barcelona, tba to guests via email 48h before the event is a music venue in Barcelona listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

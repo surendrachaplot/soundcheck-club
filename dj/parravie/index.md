@@ -1,8 +1,8 @@
 # Parra Vie
 
-Parra Vie is a Progressive House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Maya Marylebone, London on Sat, 10 Oct 2026.
+Parra Vie is a Progressive House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Maya Marylebone, London on Sat, 10 Oct 2026.
 
-Parra Vie is a progressive house and afro house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across London. Often billed alongside 2Doters, Ebz and Altayef. Next up: Maya Marylebone, London on Sat 10 Oct.
+Parra Vie is a progressive house and afro house artist based in United Kingdom, with 21 gigs on soundcheck across London. Often billed alongside 2Doters, Ebz and Altayef. Next up: Maya Marylebone, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Parra Vie is a progressive house and afro house artist based in United Kingdom, 
 
 ## Recently played
 
-- The Purple Owl, London — Sun, 2 Aug 2026
-- The Rum House at Jim & Tonic East, London — Sat, 18 Jul 2026
-- TBA -  Maya Marylebone, 60 Wigmore St, London W1U 2RZ, London — Sat, 27 Jun 2026
-- Elephant and Castle Pub, London — Sat, 20 Jun 2026
-- TBA -  Maya Marylebone, 60 Wigmore St, London W1U 2RZ, London — Sat, 9 May 2026
-- 45 London, London — Fri, 8 May 2026
-- TBA - United Creative HUB, London — Sat, 28 Mar 2026
-- Lower Deck, London — Sat, 24 Jan 2026
+- The Purple Owl, London · Sun, 2 Aug 2026
+- The Rum House at Jim & Tonic East, London · Sat, 18 Jul 2026
+- TBA -  Maya Marylebone, 60 Wigmore St, London W1U 2RZ, London · Sat, 27 Jun 2026
+- Elephant and Castle Pub, London · Sat, 20 Jun 2026
+- TBA -  Maya Marylebone, 60 Wigmore St, London W1U 2RZ, London · Sat, 9 May 2026
+- 45 London, London · Fri, 8 May 2026
+- TBA - United Creative HUB, London · Sat, 28 Mar 2026
+- Lower Deck, London · Sat, 24 Jan 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # FABRICLIVE x Hospital Records: Hospital30 at fabric
 
-FABRICLIVE x Hospital Records: Hospital30 at fabric on Sat 12 Dec, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+FABRICLIVE x Hospital Records: Hospital30 at fabric on Sat 12 Dec, London. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

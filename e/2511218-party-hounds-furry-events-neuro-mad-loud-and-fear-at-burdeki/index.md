@@ -1,6 +1,6 @@
 # Party Hounds & Furry Events: Neuro Mad: Loud and Fear at Burdekin Hotel
 
-Party Hounds & Furry Events: Neuro Mad: Loud and Fear at Burdekin Hotel on Sat 12 Dec, Sydney. Bass. Preview the line-up and save it on soundcheck.
+Party Hounds & Furry Events: Neuro Mad: Loud and Fear at Burdekin Hotel on Sat 12 Dec, Sydney. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

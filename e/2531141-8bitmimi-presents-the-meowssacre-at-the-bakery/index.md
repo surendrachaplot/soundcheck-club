@@ -1,6 +1,6 @@
 # 8bitmimi presents: The Meowssacre at The Bakery
 
-8bitmimi presents: The Meowssacre at The Bakery on Sat 24 Oct, Liverpool. 2 artists on the bill: ØC and Rich G. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+8bitmimi presents: The Meowssacre at The Bakery on Sat 24 Oct, Liverpool. 2 artists: ØC and Rich G. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

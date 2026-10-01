@@ -1,8 +1,8 @@
 # LaFHomme
 
-LaFHomme is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at ESC, Montreal on Sat, 17 Oct 2026.
+LaFHomme is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ESC, Montreal on Sat, 17 Oct 2026.
 
-LaFHomme is a techno and house artist based in Canada, tracked on soundcheck, with 28 sets logged across Montreal and New York City. Often billed alongside Syana, h1bou and Ekitwanda. Next up: ESC, Montreal on Sat 17 Oct.
+LaFHomme is a techno and house artist based in Canada, with 28 gigs on soundcheck across Montreal and New York City. Often billed alongside Syana, h1bou and Ekitwanda. Next up: ESC, Montreal on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ LaFHomme is a techno and house artist based in Canada, tracked on soundcheck, wi
 
 ## Recently played
 
-- Mood Ring, New York City — Thu, 3 Sept 2026
-- Bossa Nova Civic Club, New York City — Sun, 23 Aug 2026
-- Honey's, New York City — Sat, 11 Jul 2026
-- Mood Ring, New York City — Thu, 18 Jun 2026
-- Newspeak, Montreal — Fri, 6 Mar 2026
-- TBA - Montreal, Montreal — Fri, 8 Aug 2025
-- Bossa Nova Civic Club, New York City — Thu, 26 Jun 2025
-- TBA - Montreal, Montreal — Sat, 7 Jun 2025
+- Mood Ring, New York City · Thu, 3 Sept 2026
+- Bossa Nova Civic Club, New York City · Sun, 23 Aug 2026
+- Honey's, New York City · Sat, 11 Jul 2026
+- Mood Ring, New York City · Thu, 18 Jun 2026
+- Newspeak, Montreal · Fri, 6 Mar 2026
+- TBA - Montreal, Montreal · Fri, 8 Aug 2025
+- Bossa Nova Civic Club, New York City · Thu, 26 Jun 2025
+- TBA - Montreal, Montreal · Sat, 7 Jun 2025
 
 ## Shares bills with
 

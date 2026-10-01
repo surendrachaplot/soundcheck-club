@@ -1,6 +1,6 @@
 # DJ SOULARREAL on the Hotel Patio! at Hotel Vegas
 
-DJ SOULARREAL on the Hotel Patio! at Hotel Vegas on Fri 2 Oct, Austin. Preview the line-up and save it on soundcheck.
+DJ SOULARREAL on the Hotel Patio! at Hotel Vegas on Fri 2 Oct, Austin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

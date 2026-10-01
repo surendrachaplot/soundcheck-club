@@ -1,6 +1,6 @@
 # NICK HAKIM at Gretchen
 
-NICK HAKIM at Gretchen on Wed 11 Nov, Berlin. Jazz and R&B. Preview the line-up and save it on soundcheck.
+NICK HAKIM at Gretchen on Wed 11 Nov, Berlin. Jazz and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

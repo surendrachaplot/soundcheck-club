@@ -1,6 +1,6 @@
 # CODE 23 Anniversary: La Trilogía [Part III] at Fabrik
 
-CODE 23 Anniversary: La Trilogía [Part III] at Fabrik on Sat 5 Dec, Madrid. 1 artist on the bill: Cloudy. Techno. Preview the line-up and save it on soundcheck.
+CODE 23 Anniversary: La Trilogía [Part III] at Fabrik on Sat 5 Dec, Madrid. 1 artist: Cloudy. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

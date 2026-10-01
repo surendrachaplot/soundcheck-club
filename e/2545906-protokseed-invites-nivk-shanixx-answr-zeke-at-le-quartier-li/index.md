@@ -1,6 +1,6 @@
 # Protokseed INVITES - NIVK · Shanixx · ANSWR · ZEKE at Le Quartier Libre de Rouen
 
-Protokseed INVITES - NIVK · Shanixx · ANSWR · ZEKE at Le Quartier Libre de Rouen on Sat 3 Oct, North. 3 artists on the bill: ANSWR, Protokseed and Shanixx. Preview the line-up and save it on soundcheck.
+Protokseed INVITES - NIVK · Shanixx · ANSWR · ZEKE at Le Quartier Libre de Rouen on Sat 3 Oct, North. 3 artists: ANSWR, Protokseed and Shanixx. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ninetoes - The Paradise Now at The Paradise Now
 
-Ninetoes - The Paradise Now on Sat 14 Nov, Düsseldorf. 1 artist on the bill: Ninetoes. House. Preview the line-up and save it on soundcheck.
+Ninetoes - The Paradise Now on Sat 14 Nov, Düsseldorf. 1 artist: Ninetoes. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

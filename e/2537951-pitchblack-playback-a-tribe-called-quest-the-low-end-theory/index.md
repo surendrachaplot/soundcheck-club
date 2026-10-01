@@ -1,6 +1,6 @@
 # Pitchblack Playback: A Tribe Called Quest 'The Low End Theory' (35th Anniversary) at We The Curious Planetarium
 
-Pitchblack Playback: A Tribe Called Quest 'The Low End Theory' (35th Anniversary) at We The Curious Planetarium on Tue 13 Oct, Bristol. Hip-Hop. Preview the line-up and save it on soundcheck.
+Pitchblack Playback: A Tribe Called Quest 'The Low End Theory' (35th Anniversary) at We The Curious Planetarium on Tue 13 Oct, Bristol. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

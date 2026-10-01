@@ -1,6 +1,6 @@
 # ABYSS X Overflow at TBA
 
-ABYSS X Overflow at TBA on Sun 1 Nov, Berlin. Bass and Downtempo. Preview the line-up and save it on soundcheck.
+ABYSS X Overflow at TBA on Sun 1 Nov, Berlin. Bass and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

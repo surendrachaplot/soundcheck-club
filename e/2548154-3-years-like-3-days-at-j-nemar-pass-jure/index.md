@@ -1,6 +1,6 @@
 # 3 YEARS like 3 DAYS at Jènemar Passéjure
 
-3 YEARS like 3 DAYS at Jènemar Passéjure on Fri 9 Oct, Prague. 9 artists on the bill: 3TB, abecko, De Mode and duboisi and 5 more. House and EBM. Preview the line-up and save it on soundcheck.
+3 YEARS like 3 DAYS at Jènemar Passéjure on Fri 9 Oct, Prague. 9 artists: 3TB, abecko, De Mode and duboisi and 5 more. House and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

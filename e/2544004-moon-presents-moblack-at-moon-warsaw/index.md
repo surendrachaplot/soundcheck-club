@@ -1,6 +1,6 @@
 # MOON PRESENTS: MoBlack at Moon Warsaw
 
-MOON PRESENTS: MoBlack at Moon Warsaw on Sat 10 Oct, Warsaw. 1 artist on the bill: MoBlack. House and Afro House. Preview the line-up and save it on soundcheck.
+MOON PRESENTS: MoBlack at Moon Warsaw on Sat 10 Oct, Warsaw. 1 artist: MoBlack. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DESORDRE + JACQUELINE + TOUCCAN at Toï Toï, Le Zinc
 
-DESORDRE + JACQUELINE + TOUCCAN at Toï Toï, Le Zinc on Fri 2 Oct, Lyon. Preview the line-up and save it on soundcheck.
+DESORDRE + JACQUELINE + TOUCCAN at Toï Toï, Le Zinc on Fri 2 Oct, Lyon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

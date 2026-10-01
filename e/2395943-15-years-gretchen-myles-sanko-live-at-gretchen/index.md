@@ -1,6 +1,6 @@
 # 15 Years Gretchen: MYLES SANKO *live at Gretchen
 
-15 Years Gretchen: MYLES SANKO *live on Thu 29 Oct, Berlin. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: MYLES SANKO *live on Thu 29 Oct, Berlin. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

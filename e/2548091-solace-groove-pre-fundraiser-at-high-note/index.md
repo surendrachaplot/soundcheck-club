@@ -1,6 +1,6 @@
 # Solace Groove Pre-Fundraiser at High Note
 
-Solace Groove Pre-Fundraiser at High Note on Sun 11 Oct, Melbourne. 2 artists on the bill: Midnight Tenderness and RAH. Preview the line-up and save it on soundcheck.
+Solace Groove Pre-Fundraiser at High Note on Sun 11 Oct, Melbourne. 2 artists: Midnight Tenderness and RAH. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

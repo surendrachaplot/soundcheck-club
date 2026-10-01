@@ -1,8 +1,8 @@
 # MAX PELA
 
-MAX PELA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Casablanca Namba Riverside, Osaka on Sun, 11 Oct 2026.
+MAX PELA is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Casablanca Namba Riverside, Osaka on Sun, 11 Oct 2026.
 
-MAX PELA is a house and tech house artist based in Dominican Republic, tracked on soundcheck, with 74 sets logged across Kyoto, Osaka, Rome and Singapore. Often billed alongside DMITRI ABSINTHE, YUUKI YOSHIYAMA and Nao Nomura. Next up: Casablanca Namba Riverside, Osaka on Sun 11 Oct.
+MAX PELA is a house and tech house artist based in Dominican Republic, with 74 gigs on soundcheck across Kyoto, Osaka, Rome and Singapore. Often billed alongside DMITRI ABSINTHE, YUUKI YOSHIYAMA and Nao Nomura. Next up: Casablanca Namba Riverside, Osaka on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ MAX PELA is a house and tech house artist based in Dominican Republic, tracked o
 
 ## Recently played
 
-- Club Metro, Kyoto — Sat, 26 Sept 2026
-- W Osaka, Osaka — Fri, 25 Sept 2026
-- Ohama Park Pool / 大浜公園プール, Osaka — Sun, 13 Sept 2026
-- Towerland, Kyoto — Sat, 12 Sept 2026
-- rake?raka?, Osaka — Sat, 29 Aug 2026
-- W Osaka, Osaka — Sat, 22 Aug 2026
-- Area51 / 17map Minami, Osaka — Sat, 22 Aug 2026
-- The V, Osaka — Wed, 5 Aug 2026
+- Club Metro, Kyoto · Sat, 26 Sept 2026
+- W Osaka, Osaka · Fri, 25 Sept 2026
+- Ohama Park Pool / 大浜公園プール, Osaka · Sun, 13 Sept 2026
+- Towerland, Kyoto · Sat, 12 Sept 2026
+- rake?raka?, Osaka · Sat, 29 Aug 2026
+- W Osaka, Osaka · Sat, 22 Aug 2026
+- Area51 / 17map Minami, Osaka · Sat, 22 Aug 2026
+- The V, Osaka · Wed, 5 Aug 2026
 
 ## Shares bills with
 

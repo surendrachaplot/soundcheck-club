@@ -1,8 +1,8 @@
 # Kiko
 
-Kiko is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
+Kiko is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Het Sieraad, Amsterdam on Thu, 22 Oct 2026.
 
-Kiko is a house and techno artist based in France, tracked on soundcheck, with 23 sets logged across Amsterdam, Athens, Berlin and Frankfurt and 9 more. Often billed alongside Darin Epsilon, La Forêt and Miss Monique. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
+Kiko is a house and techno artist based in France, with 23 gigs on soundcheck across Amsterdam, Athens, Berlin and Frankfurt and 9 more. Often billed alongside Darin Epsilon, La Forêt and Miss Monique. Next up: Het Sieraad, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kiko is a house and techno artist based in France, tracked on soundcheck, with 2
 
 ## Recently played
 
-- TBA - LE YACHT, Lyon — Sat, 5 Sept 2026
-- Hï Ibiza, Ibiza — Thu, 13 Aug 2026
-- K39, Frankfurt — Sat, 4 Jul 2026
-- Audio Club, Geneva — Thu, 1 Jan 2026
-- 50:Hertz, Amsterdam — Sat, 25 Oct 2025
-- Night We Met, Nashville — Sat, 13 Sept 2025
-- Hï Ibiza, Ibiza — Thu, 11 Sept 2025
-- Audio Club, Geneva — Sat, 21 Jun 2025
+- TBA - LE YACHT, Lyon · Sat, 5 Sept 2026
+- Hï Ibiza, Ibiza · Thu, 13 Aug 2026
+- K39, Frankfurt · Sat, 4 Jul 2026
+- Audio Club, Geneva · Thu, 1 Jan 2026
+- 50:Hertz, Amsterdam · Sat, 25 Oct 2025
+- Night We Met, Nashville · Sat, 13 Sept 2025
+- Hï Ibiza, Ibiza · Thu, 11 Sept 2025
+- Audio Club, Geneva · Sat, 21 Jun 2025
 
 ## Shares bills with
 

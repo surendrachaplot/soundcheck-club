@@ -1,6 +1,6 @@
 # One Last Sin - UTOPIA at Playa Soleil Ibiza
 
-One Last Sin - UTOPIA at Playa Soleil Ibiza on Thu 15 Oct, Ibiza. 3 artists on the bill: Defex, Moana and The Organism. Techno and Tech House. Preview the line-up and save it on soundcheck.
+One Last Sin - UTOPIA at Playa Soleil Ibiza on Thu 15 Oct, Ibiza. 3 artists: Defex, Moana and The Organism. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

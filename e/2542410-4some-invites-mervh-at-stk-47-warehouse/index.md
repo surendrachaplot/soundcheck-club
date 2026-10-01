@@ -1,6 +1,6 @@
 # 4SOME INVITES - MERVH at STK 47 WAREHOUSE
 
-4SOME INVITES - MERVH at STK 47 WAREHOUSE on Fri 16 Oct, Krakow. Techno and Industrial. Preview the line-up and save it on soundcheck.
+4SOME INVITES - MERVH at STK 47 WAREHOUSE on Fri 16 Oct, Krakow. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

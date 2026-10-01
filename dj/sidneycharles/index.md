@@ -1,8 +1,8 @@
 # Sidney Charles
 
-Sidney Charles is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Sidney Charles is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Sidney Charles is a house and tech house artist based in Germany, tracked on soundcheck, with 222 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 40 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Sidney Charles is a house and tech house artist based in Germany, with 222 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 40 more. Often billed alongside Prunk, ALISHA and Gaskin. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Sidney Charles is a house and tech house artist based in Germany, tracked on sou
 
 ## Recently played
 
-- 528 Ibiza, Ibiza — Sun, 27 Sept 2026
-- Steelyard Kelham, Sheffield — Sat, 26 Sept 2026
-- Binks Yard, Nottingham — Sat, 26 Sept 2026
-- BRET, Amsterdam — Fri, 25 Sept 2026
-- TBA - Estadio Nacional, Ezeiza, Buenos Aires — Sun, 20 Sept 2026
-- [UNVRS], Ibiza — Wed, 16 Sept 2026
-- fabric, London — Fri, 11 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 6 Sept 2026
+- 528 Ibiza, Ibiza · Sun, 27 Sept 2026
+- Steelyard Kelham, Sheffield · Sat, 26 Sept 2026
+- Binks Yard, Nottingham · Sat, 26 Sept 2026
+- BRET, Amsterdam · Fri, 25 Sept 2026
+- TBA - Estadio Nacional, Ezeiza, Buenos Aires · Sun, 20 Sept 2026
+- [UNVRS], Ibiza · Wed, 16 Sept 2026
+- fabric, London · Fri, 11 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 6 Sept 2026
 
 ## Shares bills with
 

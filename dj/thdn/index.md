@@ -1,8 +1,8 @@
 # THD+N
 
-THD+N is a Techno and Hard Drum artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gaswerk Augsburg, Augsburg on Fri, 30 Oct 2026.
+THD+N is a Techno and Hard Drum artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gaswerk Augsburg, Augsburg on Fri, 30 Oct 2026.
 
-THD+N is a techno and hard drum artist based in Argentina, tracked on soundcheck, with 2 sets logged across Augsburg and Buenos Aires. Often billed alongside Cloudy, DJ Achim Feuervogel and I Hate Models. Next up: Gaswerk Augsburg, Augsburg on Fri 30 Oct.
+THD+N is a techno and hard drum artist based in Argentina, with 2 gigs on soundcheck across Augsburg and Buenos Aires. Often billed alongside Cloudy, DJ Achim Feuervogel and I Hate Models. Next up: Gaswerk Augsburg, Augsburg on Fri 30 Oct.
 
 ## Upcoming shows
 

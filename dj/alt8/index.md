@@ -1,8 +1,8 @@
 # ALT8
 
-ALT8 is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Superior Ingredients, New York City on Fri, 2 Oct 2026.
+ALT8 is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Superior Ingredients, New York City on Fri, 2 Oct 2026.
 
-ALT8 is a techno and trance artist based in Ireland, tracked on soundcheck, with 143 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 49 more. Often billed alongside Sara Landry, OGUZ and 999999999. Next up: Superior Ingredients, New York City on Fri 2 Oct.
+ALT8 is a techno and trance artist based in Ireland, with 143 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Barcelona and 49 more. Often billed alongside Sara Landry, OGUZ and 999999999. Next up: Superior Ingredients, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ ALT8 is a techno and trance artist based in Ireland, tracked on soundcheck, with
 
 ## Recently played
 
-- Fuse, Brussels — Fri, 11 Sept 2026
-- Quinta Mira Rio, Lisbon — Sun, 6 Sept 2026
-- OST, Berlin — Fri, 4 Sept 2026
-- Kilomètre25, Paris — Fri, 21 Aug 2026
-- TBA - Secret Location, London — Thu, 20 Aug 2026
-- 821 Runnymede Rd, Toronto — Sat, 8 Aug 2026
-- BERHTA, Washington DC — Sat, 1 Aug 2026
-- Under the K Bridge, New York City — Fri, 31 Jul 2026
+- Fuse, Brussels · Fri, 11 Sept 2026
+- Quinta Mira Rio, Lisbon · Sun, 6 Sept 2026
+- OST, Berlin · Fri, 4 Sept 2026
+- Kilomètre25, Paris · Fri, 21 Aug 2026
+- TBA - Secret Location, London · Thu, 20 Aug 2026
+- 821 Runnymede Rd, Toronto · Sat, 8 Aug 2026
+- BERHTA, Washington DC · Sat, 1 Aug 2026
+- Under the K Bridge, New York City · Fri, 31 Jul 2026
 
 ## Shares bills with
 

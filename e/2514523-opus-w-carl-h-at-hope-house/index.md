@@ -1,6 +1,6 @@
 # Opus w/ Carl H at Hope House
 
-Opus w/ Carl H at Hope House on Fri 23 Oct, Leeds. 2 artists on the bill: Carl H and Chin. Preview the line-up and save it on soundcheck.
+Opus w/ Carl H at Hope House on Fri 23 Oct, Leeds. 2 artists: Carl H and Chin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

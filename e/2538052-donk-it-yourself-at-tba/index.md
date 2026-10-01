@@ -1,6 +1,6 @@
 # Donk It Yourself at TBA
 
-Donk It Yourself at TBA on Sat 3 Oct, Dublin. 3 artists on the bill: Bull Horris, Jimbo Jones and JWY. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Donk It Yourself at TBA on Sat 3 Oct, Dublin. 3 artists: Bull Horris, Jimbo Jones and JWY. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Adam Beyer
 
-Adam Beyer is a Techno and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore, Singapore on Sun, 4 Oct 2026.
+Adam Beyer is a Techno and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore, Singapore on Sun, 4 Oct 2026.
 
-Adam Beyer is a techno and tech house artist based in Sweden, tracked on soundcheck, with 191 sets logged across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore, Singapore on Sun 4 Oct.
+Adam Beyer is a techno and tech house artist based in Sweden, with 191 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 49 more. Often billed alongside Eric Prydz, Bart Skils and Patrick Topping. Next up: TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore, Singapore on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Adam Beyer is a techno and tech house artist based in Sweden, tracked on soundch
 
 ## Recently played
 
-- Bolivar Beach Bar, Athens — Sat, 26 Sept 2026
-- Etko, Cyprus — Fri, 25 Sept 2026
-- Hï Ibiza, Ibiza — Thu, 24 Sept 2026
-- Amnesia Ibiza, Ibiza — Wed, 16 Sept 2026
-- Amnesia Ibiza, Ibiza — Wed, 9 Sept 2026
-- Flava Beach, Naples — Sat, 5 Sept 2026
-- Flava Beach, Naples — Sat, 5 Sept 2026
-- Amnesia Ibiza, Ibiza — Wed, 2 Sept 2026
+- Bolivar Beach Bar, Athens · Sat, 26 Sept 2026
+- Etko, Cyprus · Fri, 25 Sept 2026
+- Hï Ibiza, Ibiza · Thu, 24 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 16 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 9 Sept 2026
+- Flava Beach, Naples · Sat, 5 Sept 2026
+- Flava Beach, Naples · Sat, 5 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 2 Sept 2026
 
 ## Shares bills with
 

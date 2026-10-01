@@ -1,6 +1,6 @@
 # MILES NAUTU at Wax Music Lounge
 
-MILES NAUTU at Wax Music Lounge on Thu 17 Dec, Melbourne. Hip-Hop. Preview the line-up and save it on soundcheck.
+MILES NAUTU at Wax Music Lounge on Thu 17 Dec, Melbourne. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

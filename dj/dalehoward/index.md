@@ -1,8 +1,8 @@
 # Dale Howard
 
-Dale Howard is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Il Mercato Centrale, Melbourne on Fri, 2 Oct 2026.
+Dale Howard is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Il Mercato Centrale, Melbourne on Fri, 2 Oct 2026.
 
-Dale Howard is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Amsterdam, Austin, Barcelona and Chicago and 7 more. Often billed alongside Anthony Attalla, Archie Hamilton and Ardio Zemog. Next up: TBA - Il Mercato Centrale, Melbourne on Fri 2 Oct.
+Dale Howard is a tech house and house artist based in United Kingdom, with 14 gigs on soundcheck across Amsterdam, Austin, Barcelona and Chicago and 7 more. Often billed alongside Anthony Attalla, Archie Hamilton and Ardio Zemog. Next up: TBA - Il Mercato Centrale, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dale Howard is a tech house and house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Tue, 14 Jul 2026
-- The Midway, San Francisco/Oakland — Fri, 10 Jul 2026
-- Cova Santa, Ibiza — Thu, 11 Jun 2026
-- The Concourse Project, Austin — Fri, 29 May 2026
-- Hana House, New York City — Sat, 2 May 2026
-- The Bunker, Liverpool — Fri, 19 Dec 2025
-- Prysm Nightclub, Chicago — Sat, 21 Jun 2025
-- WestWeelde, Amsterdam — Tue, 31 Dec 2024
+- Hï Ibiza, Ibiza · Tue, 14 Jul 2026
+- The Midway, San Francisco/Oakland · Fri, 10 Jul 2026
+- Cova Santa, Ibiza · Thu, 11 Jun 2026
+- The Concourse Project, Austin · Fri, 29 May 2026
+- Hana House, New York City · Sat, 2 May 2026
+- The Bunker, Liverpool · Fri, 19 Dec 2025
+- Prysm Nightclub, Chicago · Sat, 21 Jun 2025
+- WestWeelde, Amsterdam · Tue, 31 Dec 2024
 
 ## Shares bills with
 

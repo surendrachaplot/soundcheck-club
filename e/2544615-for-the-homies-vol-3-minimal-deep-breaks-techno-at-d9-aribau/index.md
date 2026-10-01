@@ -1,6 +1,6 @@
 # For the Homies (Vol. 3) // Minimal+Deep+Breaks+Techno at D9 Aribau
 
-For the Homies (Vol. 3) // Minimal+Deep+Breaks+Techno at D9 Aribau on Sat 10 Oct, Barcelona. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+For the Homies (Vol. 3) // Minimal+Deep+Breaks+Techno at D9 Aribau on Sat 10 Oct, Barcelona. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

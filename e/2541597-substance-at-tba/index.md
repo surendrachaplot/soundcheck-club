@@ -1,6 +1,6 @@
 # Substance at TBA
 
-Substance at TBA on Fri 16 Oct, London. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Substance at TBA on Fri 16 Oct, London. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

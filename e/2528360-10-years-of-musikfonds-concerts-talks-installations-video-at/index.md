@@ -1,6 +1,6 @@
 # 10 Years of Musikfonds: Concerts, talks, installations, video at Silent Green
 
-10 Years of Musikfonds: Concerts, talks, installations, video at Silent Green on Tue 13 Oct, Berlin. Experimental. Preview the line-up and save it on soundcheck.
+10 Years of Musikfonds: Concerts, talks, installations, video at Silent Green on Tue 13 Oct, Berlin. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

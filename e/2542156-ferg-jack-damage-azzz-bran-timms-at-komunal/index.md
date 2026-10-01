@@ -1,6 +1,6 @@
 # Ferg, Jack Damage, Azzz + Bran Timms at komunal
 
-Ferg, Jack Damage, Azzz + Bran Timms at komunal on Fri 2 Oct, Birmingham. Minimal and Acid. Preview the line-up and save it on soundcheck.
+Ferg, Jack Damage, Azzz + Bran Timms at komunal on Fri 2 Oct, Birmingham. Minimal and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

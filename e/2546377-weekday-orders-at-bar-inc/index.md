@@ -1,6 +1,6 @@
 # WEEKDAY ORDERS at BAR Inc
 
-WEEKDAY ORDERS at BAR Inc on Tue 20 Oct, Osaka. 2 artists on the bill: echocatcher and ZHUO. House. Preview the line-up and save it on soundcheck.
+WEEKDAY ORDERS at BAR Inc on Tue 20 Oct, Osaka. 2 artists: echocatcher and ZHUO. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Lanificio 159
 
-Lanificio 159 is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Reveries X Martelive - Lo Spettacolo Totale" on Fri, 2 Oct 2026.
+Lanificio 159 is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Reveries X Martelive - Lo Spettacolo Totale" on Fri, 2 Oct 2026.
 
-Lanificio 159 is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Enrico Vivaldi, Her Nice Too, Ninos Du Brasil and SBTRKT and 2 more. Browse upcoming dates, start times and who's playing. Via di Pietralata 159A, 00158 Roma (RM).
+Lanificio 159 is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Enrico Vivaldi, Her Nice Too, Ninos Du Brasil and SBTRKT and 2 more. See dates, start times and who's playing. Via di Pietralata 159A, 00158 Roma (RM).
 
 ## What's on
 

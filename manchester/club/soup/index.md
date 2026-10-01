@@ -1,8 +1,8 @@
 # Soup
 
-Soup is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "BANJAX // Soup" on Thu, 1 Oct 2026.
+Soup is a music venue in Manchester with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BANJAX // Soup" on Thu, 1 Oct 2026.
 
-Soup is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including Abby Harris, atalaya, Ayy Den and Baba Sketch and 2 more. Browse upcoming dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
+Soup is a music venue in Manchester listed on soundcheck. 13 upcoming gigs, with line-ups including Abby Harris, atalaya, Ayy Den and Baba Sketch and 2 more. See dates, start times and who's playing. 31-33 Spear Street, Manchester, M1 1DF, United Kingdom.
 
 ## What's on
 

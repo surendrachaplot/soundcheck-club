@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 18 Nov, Berlin. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 18 Nov, Berlin. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

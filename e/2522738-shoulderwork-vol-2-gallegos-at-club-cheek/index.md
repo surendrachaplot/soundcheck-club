@@ -1,6 +1,6 @@
 # Shoulderwork Vol. 2 - Gallegos at Club Cheek
 
-Shoulderwork Vol. 2 - Gallegos at Club Cheek on Fri 16 Oct, London. 2 artists on the bill: EEBEE and Gallegos. House and Electro. Preview the line-up and save it on soundcheck.
+Shoulderwork Vol. 2 - Gallegos at Club Cheek on Fri 16 Oct, London. 2 artists: EEBEE and Gallegos. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

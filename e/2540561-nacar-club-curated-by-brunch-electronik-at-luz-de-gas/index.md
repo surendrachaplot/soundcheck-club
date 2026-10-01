@@ -1,6 +1,6 @@
 # Nacar Club curated by Brunch Electronik / at Luz De Gas
 
-Nacar Club curated by Brunch Electronik / at Luz De Gas on Sat 5 Dec, Barcelona. Electronica. Preview the line-up and save it on soundcheck.
+Nacar Club curated by Brunch Electronik / at Luz De Gas on Sat 5 Dec, Barcelona. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Express Love Boat (FR) & FOWLR at Bar v Krymský
 
-Express Love Boat (FR) & FOWLR at Bar v Krymský on Thu 29 Oct, Prague. Deep House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Express Love Boat (FR) & FOWLR at Bar v Krymský on Thu 29 Oct, Prague. Deep House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

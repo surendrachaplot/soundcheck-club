@@ -1,6 +1,6 @@
 # Post Bar — Mallamáret, Bobi De Oro, 2THEMAX at Post Bar
 
-Post Bar — Mallamáret, Bobi De Oro, 2THEMAX on Fri 16 Oct, Helsinki. 1 artist on the bill: 2THEMAX. Preview the line-up and save it on soundcheck.
+Post Bar — Mallamáret, Bobi De Oro, 2THEMAX on Fri 16 Oct, Helsinki. 1 artist: 2THEMAX. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

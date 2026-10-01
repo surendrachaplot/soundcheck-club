@@ -1,6 +1,6 @@
 # SB (4 Hour Set) at Populus Cafe
 
-SB (4 Hour Set) at Populus Cafe on Sat 10 Oct, Edinburgh. House and Ambient. Preview the line-up and save it on soundcheck.
+SB (4 Hour Set) at Populus Cafe on Sat 10 Oct, Edinburgh. House and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

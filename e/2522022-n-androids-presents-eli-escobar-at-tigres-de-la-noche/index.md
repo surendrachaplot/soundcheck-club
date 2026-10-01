@@ -1,6 +1,6 @@
 # Nü Androids presents: Eli Escobar at Tigres de la Noche
 
-Nü Androids presents: Eli Escobar at Tigres de la Noche on Fri 23 Oct, Washington DC. 1 artist on the bill: Eli Escobar. House and Disco. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Eli Escobar at Tigres de la Noche on Fri 23 Oct, Washington DC. 1 artist: Eli Escobar. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

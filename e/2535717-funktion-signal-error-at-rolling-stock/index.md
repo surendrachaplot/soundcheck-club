@@ -1,6 +1,6 @@
 # Funktion Signal Error at Rolling Stock
 
-Funktion Signal Error at Rolling Stock on Fri 13 Nov, London. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Funktion Signal Error at Rolling Stock on Fri 13 Nov, London. Tech House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

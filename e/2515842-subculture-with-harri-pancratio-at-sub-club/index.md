@@ -1,6 +1,6 @@
 # Subculture with Harri + Pancratio at Sub Club
 
-Subculture with Harri + Pancratio at Sub Club on Sat 14 Nov, Glasgow. 2 artists on the bill: DJ Harri and Pancratio. Preview the line-up and save it on soundcheck.
+Subculture with Harri + Pancratio at Sub Club on Sat 14 Nov, Glasgow. 2 artists: DJ Harri and Pancratio. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

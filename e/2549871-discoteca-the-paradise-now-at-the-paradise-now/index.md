@@ -1,6 +1,6 @@
 # DISCOTECA - The Paradise Now at The Paradise Now
 
-DISCOTECA - The Paradise Now on Fri 20 Nov, Düsseldorf. 2 artists on the bill: JANE RYSE and Josef Schumacher. House and Afro House. Preview the line-up and save it on soundcheck.
+DISCOTECA - The Paradise Now on Fri 20 Nov, Düsseldorf. 2 artists: JANE RYSE and Josef Schumacher. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

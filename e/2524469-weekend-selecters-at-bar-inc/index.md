@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Fri 30 Oct, Osaka. 2 artists on the bill: Eric Duncan and Kenji Takimi. House and Disco. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Fri 30 Oct, Osaka. 2 artists: Eric Duncan and Kenji Takimi. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

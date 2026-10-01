@@ -1,6 +1,6 @@
 # LIKE THIS #029 Ft DANCE REGULAR at People's Leisure Club
 
-LIKE THIS #029 Ft DANCE REGULAR at People's Leisure Club on Sat 17 Oct, Edinburgh. 2 artists on the bill: EVM128 and Marti-Time!. Breakbeat and House. Preview the line-up and save it on soundcheck.
+LIKE THIS #029 Ft DANCE REGULAR at People's Leisure Club on Sat 17 Oct, Edinburgh. 2 artists: EVM128 and Marti-Time!. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

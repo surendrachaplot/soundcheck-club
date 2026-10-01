@@ -1,6 +1,6 @@
 # Duende at TBA
 
-Duende at TBA on Thu 1 Oct, Rome. Preview the line-up and save it on soundcheck.
+Duende at TBA on Thu 1 Oct, Rome. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

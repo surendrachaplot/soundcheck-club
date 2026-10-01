@@ -1,6 +1,6 @@
 # 'るん'….. ゑ … at Socore Factory
 
-'るん'….. ゑ … at Socore Factory on Sat 3 Oct, Osaka. 3 artists on the bill: Junki Akutagawa, Lhinen and Meg. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+'るん'….. ゑ … at Socore Factory on Sat 3 Oct, Osaka. 3 artists: Junki Akutagawa, Lhinen and Meg. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

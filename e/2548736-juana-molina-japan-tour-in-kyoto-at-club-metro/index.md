@@ -1,6 +1,6 @@
 # Juana Molina Japan Tour in Kyoto at Club Metro
 
-Juana Molina Japan Tour in Kyoto at Club Metro on Mon 2 Nov, Kyoto. Preview the line-up and save it on soundcheck.
+Juana Molina Japan Tour in Kyoto at Club Metro on Mon 2 Nov, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

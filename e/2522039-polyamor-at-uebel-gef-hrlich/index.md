@@ -1,6 +1,6 @@
 # polyamor at Uebel & Gefährlich
 
-polyamor at Uebel & Gefährlich on Fri 9 Oct, Hamburg. 6 artists on the bill: BNZN, Cleopard2000, DJ Babyblade and Elotrance and 2 more. Preview the line-up and save it on soundcheck.
+polyamor at Uebel & Gefährlich on Fri 9 Oct, Hamburg. 6 artists: BNZN, Cleopard2000, DJ Babyblade and Elotrance and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

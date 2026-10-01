@@ -1,8 +1,8 @@
 # Hannah D
 
-Hannah D is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sub Club Melbourne, Melbourne on Fri, 9 Oct 2026.
+Hannah D is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club Melbourne, Melbourne on Fri, 9 Oct 2026.
 
-Hannah D is a house and techno artist based in Australia, tracked on soundcheck, with 158 sets logged across Amsterdam, Auckland, Berlin and Brisbane and 13 more. Often billed alongside DJ Luv You, suki and Mabel. Next up: Sub Club Melbourne, Melbourne on Fri 9 Oct.
+Hannah D is a house and techno artist based in Australia, with 158 gigs on soundcheck across Amsterdam, Auckland, Berlin and Brisbane and 13 more. Often billed alongside DJ Luv You, suki and Mabel. Next up: Sub Club Melbourne, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Hannah D is a house and techno artist based in Australia, tracked on soundcheck,
 
 ## Recently played
 
-- Second Story Studios, Melbourne — Fri, 25 Sept 2026
-- Dr Morse, Melbourne — Fri, 25 Sept 2026
-- TBA, Melbourne — Fri, 18 Sept 2026
-- Angel Music Bar, Melbourne — Fri, 4 Sept 2026
-- Angel Music Bar, Melbourne — Fri, 4 Sept 2026
-- Coil, Melbourne — Fri, 14 Aug 2026
-- Solace, Melbourne — Sat, 25 Jul 2026
-- TBA, Copenhagen — Sat, 18 Jul 2026
+- Second Story Studios, Melbourne · Fri, 25 Sept 2026
+- Dr Morse, Melbourne · Fri, 25 Sept 2026
+- TBA, Melbourne · Fri, 18 Sept 2026
+- Angel Music Bar, Melbourne · Fri, 4 Sept 2026
+- Angel Music Bar, Melbourne · Fri, 4 Sept 2026
+- Coil, Melbourne · Fri, 14 Aug 2026
+- Solace, Melbourne · Sat, 25 Jul 2026
+- TBA, Copenhagen · Sat, 18 Jul 2026
 
 ## Shares bills with
 

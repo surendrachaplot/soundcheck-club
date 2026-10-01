@@ -1,6 +1,6 @@
 # FUJI|||||||||||TA at Pilar - VUB
 
-FUJI|||||||||||TA at Pilar - VUB on Tue 10 Nov, Brussels. Preview the line-up and save it on soundcheck.
+FUJI|||||||||||TA at Pilar - VUB on Tue 10 Nov, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

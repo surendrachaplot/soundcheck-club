@@ -1,6 +1,6 @@
 # ReSolute ADE w/ Raresh & Cap at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam
 
-ReSolute ADE w/ Raresh & Cap at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam on Thu 22 Oct, Amsterdam. 3 artists on the bill: Cap, Mari.te and Raresh. Techno and House. Preview the line-up and save it on soundcheck.
+ReSolute ADE w/ Raresh & Cap at TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam on Thu 22 Oct, Amsterdam. 3 artists: Cap, Mari.te and Raresh. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

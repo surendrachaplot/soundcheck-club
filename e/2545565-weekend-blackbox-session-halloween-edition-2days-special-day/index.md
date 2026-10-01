@@ -1,6 +1,6 @@
 # WEEKEND BLACKBOX SESSION - HALLOWEEN EDITION 2DAYS SPECIAL - DAY1: DAY OF THE DEAD at W Osaka
 
-WEEKEND BLACKBOX SESSION - HALLOWEEN EDITION 2DAYS SPECIAL - DAY1: DAY OF THE DEAD at W Osaka on Fri 30 Oct, Osaka. 3 artists on the bill: DMITRI ABSINTHE, MAX PELA and YUUKI YOSHIYAMA. House and Tech House. Preview the line-up and save it on soundcheck.
+WEEKEND BLACKBOX SESSION - HALLOWEEN EDITION 2DAYS SPECIAL - DAY1: DAY OF THE DEAD at W Osaka on Fri 30 Oct, Osaka. 3 artists: DMITRI ABSINTHE, MAX PELA and YUUKI YOSHIYAMA. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

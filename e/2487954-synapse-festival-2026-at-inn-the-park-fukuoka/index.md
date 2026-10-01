@@ -1,6 +1,6 @@
 # Synapse Festival 2026 at INN The Park Fukuoka
 
-Synapse Festival 2026 at INN The Park Fukuoka on Fri 2 Oct, Kyushu. 15 artists on the bill: DJ FUMI, DJ SO, Doltz and Ge-ology and 11 more. Preview the line-up and save it on soundcheck.
+Synapse Festival 2026 at INN The Park Fukuoka on Fri 2 Oct, Kyushu. 15 artists: DJ FUMI, DJ SO, Doltz and Ge-ology and 11 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

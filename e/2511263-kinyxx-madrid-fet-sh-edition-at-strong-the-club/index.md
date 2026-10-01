@@ -1,6 +1,6 @@
 # KINYXX Madrid - Fet!sh Edition at Strong the Club
 
-KINYXX Madrid - Fet!sh Edition at Strong the Club on Fri 2 Oct, Madrid. Techno and House. Preview the line-up and save it on soundcheck.
+KINYXX Madrid - Fet!sh Edition at Strong the Club on Fri 2 Oct, Madrid. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

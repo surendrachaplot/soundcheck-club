@@ -1,6 +1,6 @@
 # DMT Disco / Kunanon / MOODYBOOM at Elsewhere
 
-DMT Disco / Kunanon / MOODYBOOM at Elsewhere on Sat 3 Oct, Bangkok. 3 artists on the bill: DMT Disco, Kunanon and MOODYBOOM. Techno and House. Preview the line-up and save it on soundcheck.
+DMT Disco / Kunanon / MOODYBOOM at Elsewhere on Sat 3 Oct, Bangkok. 3 artists: DMT Disco, Kunanon and MOODYBOOM. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

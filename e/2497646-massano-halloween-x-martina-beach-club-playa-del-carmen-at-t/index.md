@@ -1,6 +1,6 @@
 # Massano, Halloween x Martina Beach Club, Playa del Carmen at TBA - Martina Beach, Playa del Carmen
 
-Massano, Halloween x Martina Beach Club, Playa del Carmen at TBA - Martina Beach, Playa del Carmen on Sat 31 Oct, Yuc Tan. 2 artists on the bill: Agnia and Massano. Preview the line-up and save it on soundcheck.
+Massano, Halloween x Martina Beach Club, Playa del Carmen at TBA - Martina Beach, Playa del Carmen on Sat 31 Oct, Yuc Tan. 2 artists: Agnia and Massano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

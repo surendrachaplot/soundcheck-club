@@ -1,6 +1,6 @@
 # +Mezcafé at Rincón de Segovia
 
-+Mezcafé at Rincón de Segovia on Sat 3 Oct, Morelos. 3 artists on the bill: 3AM, DJ SET (Uk) and Nudisco. Preview the line-up and save it on soundcheck.
++Mezcafé at Rincón de Segovia on Sat 3 Oct, Morelos. 3 artists: 3AM, DJ SET (Uk) and Nudisco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ME GUSTA Collective: New Year's Eve Special at Band on the Wall
 
-ME GUSTA Collective: New Year's Eve Special at Band on the Wall on Thu 31 Dec, Manchester. 2 artists on the bill: Atiké and Obeka. Preview the line-up and save it on soundcheck.
+ME GUSTA Collective: New Year's Eve Special at Band on the Wall on Thu 31 Dec, Manchester. 2 artists: Atiké and Obeka. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

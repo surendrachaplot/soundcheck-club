@@ -1,6 +1,6 @@
 # Heat House: Fahlberg at SILO
 
-Heat House: Fahlberg at SILO on Fri 13 Nov, New York City. 2 artists on the bill: Fahlberg and WEMI. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Heat House: Fahlberg at SILO on Fri 13 Nov, New York City. 2 artists: Fahlberg and WEMI. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

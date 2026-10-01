@@ -1,6 +1,6 @@
 # Dead Bob (ex NoMeansNo) at Hydrozagadka
 
-Dead Bob (ex NoMeansNo) at Hydrozagadka on Fri 16 Oct, Warsaw. Post-Punk. Preview the line-up and save it on soundcheck.
+Dead Bob (ex NoMeansNo) at Hydrozagadka on Fri 16 Oct, Warsaw. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

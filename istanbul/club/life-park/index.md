@@ -1,8 +1,8 @@
 # Life Park
 
-Life Park is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "MAYAN WARRIOR ISTANBUL 2026" on Sat, 10 Oct 2026.
+Life Park is a music venue in Istanbul with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "MAYAN WARRIOR ISTANBUL 2026" on Sat, 10 Oct 2026.
 
-Life Park is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Damian Lazarus, GiZ, Holder and Mandrake and 1 more. Browse upcoming dates, start times and who's playing. Kazımkarabekir DISC. Bahcekoy Cad. No: 114 Bahcekoy / Sariyer.
+Life Park is a music venue in Istanbul listed on soundcheck. 1 upcoming gig, with line-ups including Damian Lazarus, GiZ, Holder and Mandrake and 1 more. See dates, start times and who's playing. Kazımkarabekir DISC. Bahcekoy Cad. No: 114 Bahcekoy / Sariyer.
 
 ## What's on
 

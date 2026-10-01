@@ -1,6 +1,6 @@
 # ANӘMӘ'LISTIK at Spkrbox
 
-ANӘMӘ'LISTIK at Spkrbox on Thu 29 Oct, Detroit. 3 artists on the bill: .hisham, Liminal and Tylr. Techno and House. Preview the line-up and save it on soundcheck.
+ANӘMӘ'LISTIK at Spkrbox on Thu 29 Oct, Detroit. 3 artists: .hisham, Liminal and Tylr. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

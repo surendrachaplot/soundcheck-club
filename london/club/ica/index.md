@@ -1,8 +1,8 @@
 # ICA
 
-ICA is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Hydra presents In the Round: Shane Parish – 'Autechre Guitar'" on Sun, 25 Oct 2026.
+ICA is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Hydra presents In the Round: Shane Parish – 'Autechre Guitar'" on Sun, 25 Oct 2026.
 
-ICA is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Client_03, Gold Panda and TYGAPAW. Browse upcoming dates, start times and who's playing. 12 Carlton House Terrace; The Mall; St. James's; London SW1Y 5AH; United Kingdom.
+ICA is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Client_03, Gold Panda and TYGAPAW. See dates, start times and who's playing. 12 Carlton House Terrace; The Mall; St. James's; London SW1Y 5AH; United Kingdom.
 
 ## What's on
 

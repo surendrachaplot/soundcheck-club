@@ -1,6 +1,6 @@
 # Nothing Feels Real presents Praise Japan Tour 2026 at Socrates
 
-Nothing Feels Real presents Praise Japan Tour 2026 at Socrates on Fri 9 Oct, Kyoto. Hardcore. Preview the line-up and save it on soundcheck.
+Nothing Feels Real presents Praise Japan Tour 2026 at Socrates on Fri 9 Oct, Kyoto. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

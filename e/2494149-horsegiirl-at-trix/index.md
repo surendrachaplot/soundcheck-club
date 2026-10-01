@@ -1,6 +1,6 @@
 # horsegiirL at Trix
 
-horsegiirL at Trix on Mon 30 Nov, Antwerp. 1 artist on the bill: horsegiirL. Preview the line-up and save it on soundcheck.
+horsegiirL at Trix on Mon 30 Nov, Antwerp. 1 artist: horsegiirL. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

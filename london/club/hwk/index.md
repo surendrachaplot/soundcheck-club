@@ -1,8 +1,8 @@
 # HWK
 
-HWK is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SAMBA HAS LANDED" on Sat, 3 Oct 2026.
+HWK is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SAMBA HAS LANDED" on Sat, 3 Oct 2026.
 
-HWK is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including C4LYPSO, DATGRUVEE and J.Müller. Browse upcoming dates, start times and who's playing. 29 White Post Lane, E9 5EN.
+HWK is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including C4LYPSO, DATGRUVEE and J.Müller. See dates, start times and who's playing. 29 White Post Lane, E9 5EN.
 
 ## What's on
 

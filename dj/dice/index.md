@@ -1,8 +1,8 @@
 # DICE
 
-DICE is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
+DICE is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Artheater, Cologne on Fri, 2 Oct 2026.
 
-DICE is a techno and trance artist based in Germany, tracked on soundcheck, with 51 sets logged across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside DETOXX, Amøn and DALJAE. Next up: Artheater, Cologne on Fri 2 Oct.
+DICE is a techno and trance artist based in Germany, with 51 gigs on soundcheck across Amsterdam, Basel, Berlin and Cologne and 12 more. Often billed alongside DETOXX, Amøn and DALJAE. Next up: Artheater, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ DICE is a techno and trance artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
-- The Yard Vienna, Vienna — Sat, 12 Sept 2026
-- ://about blank, Berlin — Fri, 28 Aug 2026
-- Lehmann Club, Stuttgart — Fri, 28 Aug 2026
-- OST, Berlin — Thu, 27 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- Lokschuppen Berlin, Berlin — Sun, 2 Aug 2026
-- Lokschuppen Berlin, Berlin — Fri, 3 Jul 2026
-- TBA, Cologne — Sat, 6 Jun 2026
+- The Yard Vienna, Vienna · Sat, 12 Sept 2026
+- ://about blank, Berlin · Fri, 28 Aug 2026
+- Lehmann Club, Stuttgart · Fri, 28 Aug 2026
+- OST, Berlin · Thu, 27 Aug 2026
+- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
+- Lokschuppen Berlin, Berlin · Sun, 2 Aug 2026
+- Lokschuppen Berlin, Berlin · Fri, 3 Jul 2026
+- TBA, Cologne · Sat, 6 Jun 2026
 
 ## Shares bills with
 

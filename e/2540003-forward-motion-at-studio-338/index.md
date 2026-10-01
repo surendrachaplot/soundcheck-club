@@ -1,6 +1,6 @@
 # Forward Motion at Studio 338
 
-Forward Motion at Studio 338 on Sat 21 Nov, London. Deep House. Preview the line-up and save it on soundcheck.
+Forward Motion at Studio 338 on Sat 21 Nov, London. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Absolute Amy - Amy Winehouse Tribute at Basing House
 
-Absolute Amy - Amy Winehouse Tribute at Basing House on Sun 4 Oct, London. Funk / Soul and Pop. Preview the line-up and save it on soundcheck.
+Absolute Amy - Amy Winehouse Tribute at Basing House on Sun 4 Oct, London. Funk / Soul and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

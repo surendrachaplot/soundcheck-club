@@ -1,6 +1,6 @@
 # Tom Peters (DE) at POTENT
 
-Tom Peters (DE) at POTENT on Thu 1 Oct, Shanghai. 3 artists on the bill: 10000 (CN), DJ EBP and Tom Peters. Preview the line-up and save it on soundcheck.
+Tom Peters (DE) at POTENT on Thu 1 Oct, Shanghai. 3 artists: 10000 (CN), DJ EBP and Tom Peters. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

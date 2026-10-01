@@ -1,6 +1,6 @@
 # MOAB at Duro Club with Daniel Avery, Burden b2b secret guest (UK), Leena at DURO
 
-MOAB at Duro Club with Daniel Avery, Burden b2b secret guest (UK), Leena at DURO on Sat 10 Oct, Milan. 3 artists on the bill: Burden, Daniel Avery and Leena. Techno and House. Preview the line-up and save it on soundcheck.
+MOAB at Duro Club with Daniel Avery, Burden b2b secret guest (UK), Leena at DURO on Sat 10 Oct, Milan. 3 artists: Burden, Daniel Avery and Leena. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

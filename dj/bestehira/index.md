@@ -1,8 +1,8 @@
 # Beste Hira
 
-Beste Hira is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+Beste Hira is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
 
-Beste Hira is a techno and house artist based in Netherlands, tracked on soundcheck, with 184 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Rødhåd, Freddy K and Lobster (NL). Next up: Gotec, Karlsruhe on Sat 3 Oct.
+Beste Hira is a techno and house artist based in Netherlands, with 184 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Rødhåd, Freddy K and Lobster (NL). Next up: Gotec, Karlsruhe on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Beste Hira is a techno and house artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 26 Sept 2026
-- Gewölbe, Cologne — Fri, 25 Sept 2026
-- TBA - Los Angeles, Los Angeles — Sat, 12 Sept 2026
-- Fvtvr, Paris — Sat, 5 Sept 2026
-- Open Ground, Wuppertal — Fri, 4 Sept 2026
-- BASEMENT, New York City — Sat, 29 Aug 2026
-- FOLD, London — Fri, 7 Aug 2026
-- Lehmann Club, Stuttgart — Sat, 1 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
+- Gewölbe, Cologne · Fri, 25 Sept 2026
+- TBA - Los Angeles, Los Angeles · Sat, 12 Sept 2026
+- Fvtvr, Paris · Sat, 5 Sept 2026
+- Open Ground, Wuppertal · Fri, 4 Sept 2026
+- BASEMENT, New York City · Sat, 29 Aug 2026
+- FOLD, London · Fri, 7 Aug 2026
+- Lehmann Club, Stuttgart · Sat, 1 Aug 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Bunker
 
-Bunker is a music venue in Turin with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Devozioni pres: Eternal Love @Bunker - Turin" on Fri, 2 Oct 2026.
+Bunker is a music venue in Turin with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Devozioni pres: Eternal Love @Bunker - Turin" on Fri, 2 Oct 2026.
 
-Bunker is a music venue in Turin listed on soundcheck. 7 upcoming gigs, with line-ups including ANNĒ, BLACK CROW, Daniele Baldelli and Danny Wabbit and 2 more. Browse upcoming dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
+Bunker is a music venue in Turin listed on soundcheck. 7 upcoming gigs, with line-ups including ANNĒ, BLACK CROW, Daniele Baldelli and Danny Wabbit and 2 more. See dates, start times and who's playing. Via Niccolò Paganini, 0/200, 10154 Torino TO, Italy.
 
 ## What's on
 

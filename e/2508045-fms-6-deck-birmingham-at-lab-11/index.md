@@ -1,6 +1,6 @@
 # FMS 6 Deck - Birmingham at Lab 11
 
-FMS 6 Deck - Birmingham at Lab 11 on Fri 2 Oct, Birmingham. Drum & Bass. Preview the line-up and save it on soundcheck.
+FMS 6 Deck - Birmingham at Lab 11 on Fri 2 Oct, Birmingham. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

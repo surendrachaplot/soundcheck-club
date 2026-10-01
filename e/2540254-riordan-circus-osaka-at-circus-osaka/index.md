@@ -1,6 +1,6 @@
 # Riordan CIRCUS Osaka at Circus Osaka
 
-Riordan CIRCUS Osaka at Circus Osaka on Fri 2 Oct, Osaka. 1 artist on the bill: Riordan. House and Garage. Preview the line-up and save it on soundcheck.
+Riordan CIRCUS Osaka at Circus Osaka on Fri 2 Oct, Osaka. 1 artist: Riordan. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # High Velocity at Slay
 
-High Velocity at Slay on Fri 23 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+High Velocity at Slay on Fri 23 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

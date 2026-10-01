@@ -1,8 +1,8 @@
 # Unveiled
 
-Unveiled is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "After Dark: Nacho Isa , Santelises" on Sat, 3 Oct 2026.
+Unveiled is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "After Dark: Nacho Isa , Santelises" on Sat, 3 Oct 2026.
 
-Unveiled is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including ASMOT, Dangerous Rose, Luna Mar and Memphy and 2 more. Browse upcoming dates, start times and who's playing. 94 n 13th st, brooklyn, NY 11249.
+Unveiled is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including ASMOT, Dangerous Rose, Luna Mar and Memphy and 2 more. See dates, start times and who's playing. 94 n 13th st, brooklyn, NY 11249.
 
 ## What's on
 

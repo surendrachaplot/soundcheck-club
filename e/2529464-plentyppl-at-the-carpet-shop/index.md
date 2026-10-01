@@ -1,6 +1,6 @@
 # plentyppl at The Carpet Shop
 
-plentyppl at The Carpet Shop on Sat 10 Oct, London. 4 artists on the bill: Alex Phountzi, CasuallyClued, IG Culture and Marvin Jupiter. House and Broken Beat. Preview the line-up and save it on soundcheck.
+plentyppl at The Carpet Shop on Sat 10 Oct, London. 4 artists: Alex Phountzi, CasuallyClued, IG Culture and Marvin Jupiter. House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

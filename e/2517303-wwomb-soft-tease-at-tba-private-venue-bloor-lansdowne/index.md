@@ -1,6 +1,6 @@
 # WWOMB: Soft Tease at TBA - Private Venue (Bloor & Lansdowne)
 
-WWOMB: Soft Tease at TBA - Private Venue (Bloor & Lansdowne) on Sat 21 Nov, Toronto. 4 artists on the bill: fongkikid, Jeska, MMXXI and Stella Maise. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+WWOMB: Soft Tease at TBA - Private Venue (Bloor & Lansdowne) on Sat 21 Nov, Toronto. 4 artists: fongkikid, Jeska, MMXXI and Stella Maise. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

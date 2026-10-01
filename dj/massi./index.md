@@ -1,8 +1,8 @@
 # MASSI.
 
-MASSI. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at ark (Melb), Melbourne on Sat, 7 Nov 2026.
+MASSI. is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ark (Melb), Melbourne on Sat, 7 Nov 2026.
 
-MASSI. is a techno and house artist based in Australia, tracked on soundcheck, with 36 sets logged across Melbourne and Sydney. Often billed alongside DAYZZI, 6 SENSE and Harry Connell. Next up: ark (Melb), Melbourne on Sat 7 Nov.
+MASSI. is a techno and house artist based in Australia, with 36 gigs on soundcheck across Melbourne and Sydney. Often billed alongside DAYZZI, 6 SENSE and Harry Connell. Next up: ark (Melb), Melbourne on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MASSI. is a techno and house artist based in Australia, tracked on soundcheck, w
 
 ## Recently played
 
-- Chinese Laundry, Sydney — Fri, 31 Jul 2026
-- Carriageworks, Sydney — Fri, 2 Jan 2026
-- TBA - 2.5hrs north from Sydney, Sydney — Fri, 12 Dec 2025
-- Carousel Bar & Ballroom, Sydney — Fri, 12 Dec 2025
-- Plaza Hotel Sydney, Sydney — Sat, 29 Nov 2025
-- Glamorama, Melbourne — Fri, 19 Sept 2025
-- The Metro Theatre, Sydney — Fri, 12 Sept 2025
-- Xe54, Melbourne — Sat, 10 May 2025
+- Chinese Laundry, Sydney · Fri, 31 Jul 2026
+- Carriageworks, Sydney · Fri, 2 Jan 2026
+- TBA - 2.5hrs north from Sydney, Sydney · Fri, 12 Dec 2025
+- Carousel Bar & Ballroom, Sydney · Fri, 12 Dec 2025
+- Plaza Hotel Sydney, Sydney · Sat, 29 Nov 2025
+- Glamorama, Melbourne · Fri, 19 Sept 2025
+- The Metro Theatre, Sydney · Fri, 12 Sept 2025
+- Xe54, Melbourne · Sat, 10 May 2025
 
 ## Shares bills with
 

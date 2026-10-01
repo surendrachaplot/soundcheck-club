@@ -1,8 +1,8 @@
 # CITIZEN
 
-CITIZEN is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Fri, 9 Oct 2026.
+CITIZEN is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Fri, 9 Oct 2026.
 
-CITIZEN is a garage and breakbeat artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Liverpool, London and Melbourne. Often billed alongside INSECT CRUSHA, OS:MAN and A.N.T. Next up: M.O.T, London on Fri 9 Oct.
+CITIZEN is a garage and breakbeat artist based in United Kingdom, with 57 gigs on soundcheck across Liverpool, London and Melbourne. Often billed alongside INSECT CRUSHA, OS:MAN and A.N.T. Next up: M.O.T, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ CITIZEN is a garage and breakbeat artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Next Door Records Two, London — Fri, 28 Aug 2026
-- The Carpet Shop, London — Sat, 22 Aug 2026
-- Hackney Bridge, London — Sat, 25 Apr 2026
-- XOYO, London — Thu, 23 Apr 2026
-- Basing House, London — Sat, 11 Apr 2026
-- The Haggerston, London — Sat, 4 Apr 2026
-- Planet Wax, London — Thu, 19 Mar 2026
-- Club Cheek, London — Sat, 14 Feb 2026
+- Next Door Records Two, London · Fri, 28 Aug 2026
+- The Carpet Shop, London · Sat, 22 Aug 2026
+- Hackney Bridge, London · Sat, 25 Apr 2026
+- XOYO, London · Thu, 23 Apr 2026
+- Basing House, London · Sat, 11 Apr 2026
+- The Haggerston, London · Sat, 4 Apr 2026
+- Planet Wax, London · Thu, 19 Mar 2026
+- Club Cheek, London · Sat, 14 Feb 2026
 
 ## Shares bills with
 

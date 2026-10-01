@@ -1,8 +1,8 @@
 # 10cust
 
-10cust is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Echostage, Washington DC on Fri, 13 Nov 2026.
+10cust is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Echostage, Washington DC on Fri, 13 Nov 2026.
 
-10cust is a techno and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Barcelona, Berlin, Boston and Chicago and 9 more. Often billed alongside Ali RQ, Frost Children and MCR-T. Next up: Echostage, Washington DC on Fri 13 Nov.
+10cust is a techno and club artist based in United States of America, with 26 gigs on soundcheck across Barcelona, Berlin, Boston and Chicago and 9 more. Often billed alongside Ali RQ, Frost Children and MCR-T. Next up: Echostage, Washington DC on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@
 
 ## Recently played
 
-- Cafeteria, Toronto — Fri, 21 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- ESC, Montreal — Sat, 25 Jul 2026
-- TBA, Paris — Sun, 21 Jun 2026
-- DSTRKT Club Berlin, Berlin — Sat, 20 Jun 2026
-- EartH, London — Fri, 19 Jun 2026
-- Nitsa Club, Barcelona — Thu, 18 Jun 2026
-- Nitsa Club, Barcelona — Thu, 18 Jun 2026
+- Cafeteria, Toronto · Fri, 21 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- ESC, Montreal · Sat, 25 Jul 2026
+- TBA, Paris · Sun, 21 Jun 2026
+- DSTRKT Club Berlin, Berlin · Sat, 20 Jun 2026
+- EartH, London · Fri, 19 Jun 2026
+- Nitsa Club, Barcelona · Thu, 18 Jun 2026
+- Nitsa Club, Barcelona · Thu, 18 Jun 2026
 
 ## Shares bills with
 

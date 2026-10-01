@@ -1,6 +1,6 @@
 # TRANCE STATION at Romy S.
 
-TRANCE STATION at Romy S. on Sat 3 Oct, Stuttgart. Trance and Techno. Preview the line-up and save it on soundcheck.
+TRANCE STATION at Romy S. on Sat 3 Oct, Stuttgart. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

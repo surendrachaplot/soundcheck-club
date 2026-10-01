@@ -1,6 +1,6 @@
 # HAiiNES presents We Are Strangers at The Glove That Fits
 
-HAiiNES presents We Are Strangers at The Glove That Fits on Thu 15 Oct, London. House and Deep House. Preview the line-up and save it on soundcheck.
+HAiiNES presents We Are Strangers at The Glove That Fits on Thu 15 Oct, London. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

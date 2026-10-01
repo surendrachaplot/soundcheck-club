@@ -1,8 +1,8 @@
 # Wijnhuis.Amsterdam
 
-Wijnhuis.Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Soulful Sessions x Wijnhuis.Amsterdam - ADE" on Sat, 24 Oct 2026.
+Wijnhuis.Amsterdam is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Soulful Sessions x Wijnhuis.Amsterdam - ADE" on Sat, 24 Oct 2026.
 
-Wijnhuis.Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Funcadafi, Geheimzinnig Soundsystem and Larry Masmero. Browse upcoming dates, start times and who's playing. Koninginneweg 255, 1075 CV Amsterdam, Nederland.
+Wijnhuis.Amsterdam is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Funcadafi, Geheimzinnig Soundsystem and Larry Masmero. See dates, start times and who's playing. Koninginneweg 255, 1075 CV Amsterdam, Nederland.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Fragment at TBA
 
-Fragment at TBA on Sun 20 Dec, London. Techno. Preview the line-up and save it on soundcheck.
+Fragment at TBA on Sun 20 Dec, London. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

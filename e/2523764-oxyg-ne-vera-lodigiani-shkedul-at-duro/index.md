@@ -1,6 +1,6 @@
 # OXYGÈNE - Vera Lodigiani - Shkedul at DURO
 
-OXYGÈNE - Vera Lodigiani - Shkedul at DURO on Sat 7 Nov, Milan. 1 artist on the bill: Shkedul. Preview the line-up and save it on soundcheck.
+OXYGÈNE - Vera Lodigiani - Shkedul at DURO on Sat 7 Nov, Milan. 1 artist: Shkedul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

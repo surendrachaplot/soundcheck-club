@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS -Darker Than Wax 15th Anniv.- at BAR Inc
 
-WEEKEND SELECTERS -Darker Than Wax 15th Anniv.- at BAR Inc on Sat 7 Nov, Osaka. 3 artists on the bill: Daryl Knows, Dexter Colt and Marco Weibel. House and Deep House. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS -Darker Than Wax 15th Anniv.- at BAR Inc on Sat 7 Nov, Osaka. 3 artists: Daryl Knows, Dexter Colt and Marco Weibel. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

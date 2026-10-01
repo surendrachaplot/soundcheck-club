@@ -1,6 +1,6 @@
 # Dombresky (Extended Set) at The Concourse Project
 
-Dombresky (Extended Set) at The Concourse Project on Fri 30 Oct, Austin. 1 artist on the bill: Dombresky. Preview the line-up and save it on soundcheck.
+Dombresky (Extended Set) at The Concourse Project on Fri 30 Oct, Austin. 1 artist: Dombresky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

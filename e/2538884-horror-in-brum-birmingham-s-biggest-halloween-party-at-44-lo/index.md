@@ -1,6 +1,6 @@
 # HORROR IN BRUM - BIRMINGHAM's biggest Halloween party at 44 Lounge
 
-HORROR IN BRUM - BIRMINGHAM's biggest Halloween party at 44 Lounge on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+HORROR IN BRUM - BIRMINGHAM's biggest Halloween party at 44 Lounge on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 正反合 at ZUBAR
 
-正反合 at ZUBAR on Wed 7 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+正反合 at ZUBAR on Wed 7 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

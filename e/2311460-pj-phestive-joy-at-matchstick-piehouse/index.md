@@ -1,6 +1,6 @@
 # PJ: Phestive Joy at Matchstick Piehouse
 
-PJ: Phestive Joy at Matchstick Piehouse on Thu 5 Nov, London. 1 artist on the bill: Rhi Spect. Breakbeat and Acid. Preview the line-up and save it on soundcheck.
+PJ: Phestive Joy at Matchstick Piehouse on Thu 5 Nov, London. 1 artist: Rhi Spect. Breakbeat and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

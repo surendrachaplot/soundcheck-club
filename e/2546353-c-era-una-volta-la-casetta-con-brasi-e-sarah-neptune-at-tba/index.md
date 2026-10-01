@@ -1,6 +1,6 @@
 # C'era una volta La Casetta con Brasi e Sarah Neptune at TBA - Il Casale Dell'Arte
 
-C'era una volta La Casetta con Brasi e Sarah Neptune at TBA - Il Casale Dell'Arte on Fri 2 Oct, Sicily. 1 artist on the bill: Brasi. Preview the line-up and save it on soundcheck.
+C'era una volta La Casetta con Brasi e Sarah Neptune at TBA - Il Casale Dell'Arte on Fri 2 Oct, Sicily. 1 artist: Brasi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

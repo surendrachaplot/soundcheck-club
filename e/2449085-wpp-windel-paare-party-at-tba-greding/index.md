@@ -1,6 +1,6 @@
 # WPP Windel Paare Party at TBA - Greding
 
-WPP Windel Paare Party at TBA - Greding on Sat 24 Oct, Munich. Disco and Club. Preview the line-up and save it on soundcheck.
+WPP Windel Paare Party at TBA - Greding on Sat 24 Oct, Munich. Disco and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PRIMAL DUB at DJ Bar Bridge Shinjuku
 
-PRIMAL DUB at DJ Bar Bridge Shinjuku on Mon 16 Nov, Tokyo. 2 artists on the bill: Dictionally and Kyohei Tanaka. House and R&B. Preview the line-up and save it on soundcheck.
+PRIMAL DUB at DJ Bar Bridge Shinjuku on Mon 16 Nov, Tokyo. 2 artists: Dictionally and Kyohei Tanaka. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

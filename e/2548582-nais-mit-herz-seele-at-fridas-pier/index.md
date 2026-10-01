@@ -1,6 +1,6 @@
 # NAIS mit HERZ & SEELE at Fridas Pier
 
-NAIS mit HERZ & SEELE at Fridas Pier on Sat 28 Nov, Stuttgart. 2 artists on the bill: Domenic D'Agnelli and Moonbootica. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+NAIS mit HERZ & SEELE at Fridas Pier on Sat 28 Nov, Stuttgart. 2 artists: Domenic D'Agnelli and Moonbootica. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

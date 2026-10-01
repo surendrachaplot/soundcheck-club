@@ -1,6 +1,6 @@
 # Nido local - Victor Mantel at Nido Marseille
 
-Nido local - Victor Mantel at Nido Marseille on Fri 23 Oct, Marseille. Preview the line-up and save it on soundcheck.
+Nido local - Victor Mantel at Nido Marseille on Fri 23 Oct, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

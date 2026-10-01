@@ -1,6 +1,6 @@
 # Lil Meesh & Friends free party at The Horse & Groom
 
-Lil Meesh & Friends free party at The Horse & Groom on Sat 24 Oct, London. 3 artists on the bill: Lil Meesh, Malcolm WeLove and Mikey DJ. House. Preview the line-up and save it on soundcheck.
+Lil Meesh & Friends free party at The Horse & Groom on Sat 24 Oct, London. 3 artists: Lil Meesh, Malcolm WeLove and Mikey DJ. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

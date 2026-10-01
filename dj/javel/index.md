@@ -1,8 +1,8 @@
 # Javel
 
-Javel is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Javel is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
-Javel is a house and electronica artist based in Lithuania, tracked on soundcheck, with 11 sets logged across Oslo and Riga. Often billed alongside Franko, Aydin Imani and Alfred Czital. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
+Javel is a house and electronica artist based in Lithuania, with 11 gigs on soundcheck across Oslo and Riga. Often billed alongside Franko, Aydin Imani and Alfred Czital. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Javel is a house and electronica artist based in Lithuania, tracked on soundchec
 
 ## Recently played
 
-- TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga — Fri, 24 Jul 2026
-- Gehør, Oslo — Fri, 29 May 2026
-- Tað, Oslo — Sat, 14 Feb 2026
-- Gehør, Oslo — Sat, 29 Nov 2025
-- Salt, Oslo — Sat, 9 Aug 2025
-- TBA - Norwegian woods, Oslo — Fri, 13 Jun 2025
-- Gehør, Oslo — Fri, 14 Mar 2025
-- The Villa, Oslo — Fri, 28 Feb 2025
+- TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga · Fri, 24 Jul 2026
+- Gehør, Oslo · Fri, 29 May 2026
+- Tað, Oslo · Sat, 14 Feb 2026
+- Gehør, Oslo · Sat, 29 Nov 2025
+- Salt, Oslo · Sat, 9 Aug 2025
+- TBA - Norwegian woods, Oslo · Fri, 13 Jun 2025
+- Gehør, Oslo · Fri, 14 Mar 2025
+- The Villa, Oslo · Fri, 28 Feb 2025
 
 ## Shares bills with
 

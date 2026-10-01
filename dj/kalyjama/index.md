@@ -1,8 +1,8 @@
 # Kalyjama
 
-Kalyjama is a Electro and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Kalyjama is a Electro and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Kalyjama is an electro and acid artist based in Greece, tracked on soundcheck, with 24 sets logged across Athens, Greece and Munich. Often billed alongside RNO, Useless Co. and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Kalyjama is an electro and acid artist based in Greece, with 24 gigs on soundcheck across Athens, Greece and Munich. Often billed alongside RNO, Useless Co. and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kalyjama is an electro and acid artist based in Greece, tracked on soundcheck, w
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Romantso, Athens — Fri, 19 Jun 2026
-- Klakaz, Athens — Sun, 7 Jun 2026
-- Klakaz, Athens — Sat, 6 Jun 2026
-- Aura Rooftop, Athens — Thu, 21 May 2026
-- Aura Rooftop, Athens — Thu, 14 May 2026
-- B side Athens, Athens — Thu, 14 May 2026
-- B side Athens, Athens — Wed, 18 Feb 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Romantso, Athens · Fri, 19 Jun 2026
+- Klakaz, Athens · Sun, 7 Jun 2026
+- Klakaz, Athens · Sat, 6 Jun 2026
+- Aura Rooftop, Athens · Thu, 21 May 2026
+- Aura Rooftop, Athens · Thu, 14 May 2026
+- B side Athens, Athens · Thu, 14 May 2026
+- B side Athens, Athens · Wed, 18 Feb 2026
 
 ## Shares bills with
 

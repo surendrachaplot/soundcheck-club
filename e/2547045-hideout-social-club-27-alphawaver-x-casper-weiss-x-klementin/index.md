@@ -1,6 +1,6 @@
 # HIDEOUT SOCIAL CLUB #27 || ALPHAWAVER x Casper Weiss x KLEMENTINI at Smolna
 
-HIDEOUT SOCIAL CLUB #27 || ALPHAWAVER x Casper Weiss x KLEMENTINI at Smolna on Wed 14 Oct, Warsaw. 1 artist on the bill: Casper Weiss. House and Tech House. Preview the line-up and save it on soundcheck.
+HIDEOUT SOCIAL CLUB #27 || ALPHAWAVER x Casper Weiss x KLEMENTINI at Smolna on Wed 14 Oct, Warsaw. 1 artist: Casper Weiss. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

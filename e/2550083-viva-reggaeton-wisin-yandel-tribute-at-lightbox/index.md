@@ -1,6 +1,6 @@
 # VIVA Reggaeton - Wisin & Yandel Tribute at Lightbox
 
-VIVA Reggaeton - Wisin & Yandel Tribute at Lightbox on Sat 10 Oct, London. Reggaeton. Preview the line-up and save it on soundcheck.
+VIVA Reggaeton - Wisin & Yandel Tribute at Lightbox on Sat 10 Oct, London. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mimm presents: Mr Scruff at The Brickworks
 
-Mimm presents: Mr Scruff at The Brickworks on Fri 16 Oct, Nottingham. 1 artist on the bill: Mr Scruff. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Mimm presents: Mr Scruff at The Brickworks on Fri 16 Oct, Nottingham. 1 artist: Mr Scruff. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

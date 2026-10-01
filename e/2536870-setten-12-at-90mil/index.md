@@ -1,6 +1,6 @@
 # setten #12 at 90mil
 
-setten #12 at 90mil on Thu 12 Nov, Berlin. Experimental and Noise. Preview the line-up and save it on soundcheck.
+setten #12 at 90mil on Thu 12 Nov, Berlin. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

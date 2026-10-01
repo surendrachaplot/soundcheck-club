@@ -1,6 +1,6 @@
 # Ruman at ANFANG at Cadavra
 
-Ruman at ANFANG at Cadavra on Thu 29 Oct, Madrid. 2 artists on the bill: Ruman and Unkle Fon. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Ruman at ANFANG at Cadavra on Thu 29 Oct, Madrid. 2 artists: Ruman and Unkle Fon. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ANCESTORZ WINTER FEST - XOYO at XOYO
 
-ANCESTORZ WINTER FEST - XOYO on Sun 27 Dec, London. UK Funky and Afro House. Preview the line-up and save it on soundcheck.
+ANCESTORZ WINTER FEST - XOYO on Sun 27 Dec, London. UK Funky and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dazed Muzic presents: Oh My Rosh & Friends at Thekla
 
-Dazed Muzic presents: Oh My Rosh & Friends at Thekla on Fri 9 Oct, Bristol. House and Garage. Preview the line-up and save it on soundcheck.
+Dazed Muzic presents: Oh My Rosh & Friends at Thekla on Fri 9 Oct, Bristol. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

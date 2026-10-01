@@ -1,6 +1,6 @@
 # Cultura Club: Unreal Vibes All Night Long at Doggy Klœb
 
-Cultura Club: Unreal Vibes All Night Long at Doggy Klœb on Fri 16 Oct, Malaga. 1 artist on the bill: Unreal Vibes. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Cultura Club: Unreal Vibes All Night Long at Doggy Klœb on Fri 16 Oct, Malaga. 1 artist: Unreal Vibes. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

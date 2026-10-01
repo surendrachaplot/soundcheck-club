@@ -1,6 +1,6 @@
 # All About The day Rave The Camden at The Camden
 
-All About The day Rave The Camden on Sat 17 Oct, London. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+All About The day Rave The Camden on Sat 17 Oct, London. Breakbeat and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

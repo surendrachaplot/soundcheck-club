@@ -1,8 +1,8 @@
 # Kaleb Marshall
 
-Kaleb Marshall is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Blipsy Bar, Los Angeles on Fri, 30 Oct 2026.
+Kaleb Marshall is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Blipsy Bar, Los Angeles on Fri, 30 Oct 2026.
 
-Kaleb Marshall is a techno and experimental artist based in United States of America, tracked on soundcheck, with 9 sets logged across Los Angeles and New York City. Often billed alongside Luke Mele, Max Ellington and agraybé. Next up: Blipsy Bar, Los Angeles on Fri 30 Oct.
+Kaleb Marshall is a techno and experimental artist based in United States of America, with 9 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Luke Mele, Max Ellington and agraybé. Next up: Blipsy Bar, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kaleb Marshall is a techno and experimental artist based in United States of Ame
 
 ## Recently played
 
-- Baby Battista, Los Angeles — Fri, 1 May 2026
-- TBA - Johnson Valley, Los Angeles — Fri, 24 Apr 2026
-- Blipsy Bar, Los Angeles — Sat, 24 Jan 2026
-- TBA - Johnson Valley, Los Angeles — Fri, 25 Apr 2025
-- Mansions, New York City — Thu, 4 Jul 2024
-- TBA - Johnson Valley, Los Angeles — Fri, 26 Apr 2024
-- TBA - Studio near Silver Lake, Los Angeles — Sat, 20 Jan 2024
-- TBA - Johnson Valley, Los Angeles — Fri, 14 Apr 2023
+- Baby Battista, Los Angeles · Fri, 1 May 2026
+- TBA - Johnson Valley, Los Angeles · Fri, 24 Apr 2026
+- Blipsy Bar, Los Angeles · Sat, 24 Jan 2026
+- TBA - Johnson Valley, Los Angeles · Fri, 25 Apr 2025
+- Mansions, New York City · Thu, 4 Jul 2024
+- TBA - Johnson Valley, Los Angeles · Fri, 26 Apr 2024
+- TBA - Studio near Silver Lake, Los Angeles · Sat, 20 Jan 2024
+- TBA - Johnson Valley, Los Angeles · Fri, 14 Apr 2023
 
 ## Shares bills with
 

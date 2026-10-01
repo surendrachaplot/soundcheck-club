@@ -1,6 +1,6 @@
 # Empowering women with a sonic adventure at TBA - secret location on a boat 
 
-Empowering women with a sonic adventure at TBA - secret location on a boat  on Sat 17 Oct, London. Breakbeat and Minimal Techno. Preview the line-up and save it on soundcheck.
+Empowering women with a sonic adventure at TBA - secret location on a boat  on Sat 17 Oct, London. Breakbeat and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

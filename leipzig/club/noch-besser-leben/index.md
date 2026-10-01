@@ -1,8 +1,8 @@
 # Noch Besser Leben
 
-Noch Besser Leben is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "BASSALICIOUS(001)" on Sat, 10 Oct 2026.
+Noch Besser Leben is a music venue in Leipzig with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "BASSALICIOUS(001)" on Sat, 10 Oct 2026.
 
-Noch Besser Leben is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line-ups including slim_aguilera. Browse upcoming dates, start times and who's playing. Merseburger Str. 25, 04229 Leipzig.
+Noch Besser Leben is a music venue in Leipzig listed on soundcheck. 1 upcoming gig, with line-ups including slim_aguilera. See dates, start times and who's playing. Merseburger Str. 25, 04229 Leipzig.
 
 ## What's on
 

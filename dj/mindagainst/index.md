@@ -1,8 +1,8 @@
 # Mind Against
 
-Mind Against is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Public Works, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mind Against is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Mind Against is a techno and house artist based in Italy, tracked on soundcheck, with 158 sets logged across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Adriatique, sideral and Dyzen. Next up: Public Works, San Francisco/Oakland on Fri 2 Oct.
+Mind Against is a techno and house artist based in Italy, with 158 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 43 more. Often billed alongside Adriatique, sideral and Dyzen. Next up: Public Works, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Mind Against is a techno and house artist based in Italy, tracked on soundcheck,
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Wed, 16 Sept 2026
-- Olympic Athletic Center of Athens, Athens — Sat, 5 Sept 2026
-- 528 Ibiza, Ibiza — Sun, 30 Aug 2026
-- Budai Vár - Oroszlános Udvar, Budapest — Fri, 28 Aug 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- Seehaus Hamburg, Hamburg — Wed, 15 Jul 2026
-- Lakefront Green, Chicago — Sun, 5 Jul 2026
+- Amnesia Ibiza, Ibiza · Wed, 16 Sept 2026
+- Olympic Athletic Center of Athens, Athens · Sat, 5 Sept 2026
+- 528 Ibiza, Ibiza · Sun, 30 Aug 2026
+- Budai Vár - Oroszlános Udvar, Budapest · Fri, 28 Aug 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
+- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
+- Seehaus Hamburg, Hamburg · Wed, 15 Jul 2026
+- Lakefront Green, Chicago · Sun, 5 Jul 2026
 
 ## Shares bills with
 

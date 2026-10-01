@@ -1,8 +1,8 @@
 # DYEN
 
-DYEN is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
+DYEN is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
 
-DYEN is a techno and house artist based in Netherlands, tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 55 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
+DYEN is a techno and house artist based in Netherlands, with 202 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 55 more. Often billed alongside Shlømo, Nico Moreno and I Hate Models. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ DYEN is a techno and house artist based in Netherlands, tracked on soundcheck, w
 
 ## Recently played
 
-- E1, London — Fri, 25 Sept 2026
-- Garage Klub, Antwerp — Fri, 18 Sept 2026
-- Boucher Road Fields, Belfast — Sun, 30 Aug 2026
-- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
-- Club Phoenix - Gianpula Village, Malta — Sat, 1 Aug 2026
-- Flava Beach, Naples — Sat, 18 Jul 2026
-- Fabrik, Madrid — Sat, 11 Jul 2026
-- Eden, Ibiza — Tue, 7 Jul 2026
+- E1, London · Fri, 25 Sept 2026
+- Garage Klub, Antwerp · Fri, 18 Sept 2026
+- Boucher Road Fields, Belfast · Sun, 30 Aug 2026
+- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
+- Club Phoenix - Gianpula Village, Malta · Sat, 1 Aug 2026
+- Flava Beach, Naples · Sat, 18 Jul 2026
+- Fabrik, Madrid · Sat, 11 Jul 2026
+- Eden, Ibiza · Tue, 7 Jul 2026
 
 ## Shares bills with
 

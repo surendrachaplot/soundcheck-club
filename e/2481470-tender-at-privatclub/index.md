@@ -1,6 +1,6 @@
 # TENDER at Privatclub
 
-TENDER at Privatclub on Tue 6 Oct, Berlin. Pop. Preview the line-up and save it on soundcheck.
+TENDER at Privatclub on Tue 6 Oct, Berlin. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

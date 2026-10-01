@@ -1,6 +1,6 @@
 # Rave like it's '93 Warsaw at Kaskada
 
-Rave like it's '93 Warsaw at Kaskada on Sat 3 Oct, Warsaw. 3 artists on the bill: Jurek Przezdziecki, MATRIX3K and Mikouaj Rejw / Wixapol S.A.. Techno and Acid. Preview the line-up and save it on soundcheck.
+Rave like it's '93 Warsaw at Kaskada on Sat 3 Oct, Warsaw. 3 artists: Jurek Przezdziecki, MATRIX3K and Mikouaj Rejw / Wixapol S.A.. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

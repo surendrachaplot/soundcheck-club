@@ -1,6 +1,6 @@
 # Porkroll: Ourfest with Derrick Carter at broad hall.
 
-Porkroll: Ourfest with Derrick Carter at broad hall. on Fri 9 Oct, Philadelphia. 3 artists on the bill: Derrick Carter, Redevil and Tommy Cornelis. House. Preview the line-up and save it on soundcheck.
+Porkroll: Ourfest with Derrick Carter at broad hall. on Fri 9 Oct, Philadelphia. 3 artists: Derrick Carter, Redevil and Tommy Cornelis. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

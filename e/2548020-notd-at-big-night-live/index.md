@@ -1,6 +1,6 @@
 # NOTD at Big Night Live
 
-NOTD at Big Night Live on Fri 2 Oct, Boston. House and Pop. Preview the line-up and save it on soundcheck.
+NOTD at Big Night Live on Fri 2 Oct, Boston. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

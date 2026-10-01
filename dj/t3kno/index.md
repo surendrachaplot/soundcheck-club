@@ -1,8 +1,8 @@
 # T3KNO
 
-T3KNO is a Guaracha and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 818-724-7836, Los Angeles on Sat, 17 Oct 2026.
+T3KNO is a Guaracha and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 818-724-7836, Los Angeles on Sat, 17 Oct 2026.
 
-T3KNO is a guaracha and techno artist based in United States of America, tracked on soundcheck, with 46 sets logged across Los Angeles and San Francisco/Oakland. Often billed alongside BL4ZE, 4LOKA and Cardopusher. Next up: TBA - 818-724-7836, Los Angeles on Sat 17 Oct.
+T3KNO is a guaracha and techno artist based in United States of America, with 46 gigs on soundcheck across Los Angeles and San Francisco/Oakland. Often billed alongside BL4ZE, 4LOKA and Cardopusher. Next up: TBA - 818-724-7836, Los Angeles on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ T3KNO is a guaracha and techno artist based in United States of America, tracked
 
 ## Recently played
 
-- TBA - DTLA, Los Angeles — Fri, 4 Sept 2026
-- Silverlake Lounge, Los Angeles — Wed, 24 Jun 2026
-- Fountain LA, Los Angeles — Sat, 13 Jun 2026
-- TBA - Flat Factory, Los Angeles — Fri, 12 Jun 2026
-- Bluff Park, Los Angeles — Sun, 17 May 2026
-- TBA - Los Angeles, Los Angeles — Sat, 4 Apr 2026
-- TBA - (818) 724-7836, Los Angeles — Sat, 13 Dec 2025
-- Que Sera, Los Angeles — Fri, 14 Nov 2025
+- TBA - DTLA, Los Angeles · Fri, 4 Sept 2026
+- Silverlake Lounge, Los Angeles · Wed, 24 Jun 2026
+- Fountain LA, Los Angeles · Sat, 13 Jun 2026
+- TBA - Flat Factory, Los Angeles · Fri, 12 Jun 2026
+- Bluff Park, Los Angeles · Sun, 17 May 2026
+- TBA - Los Angeles, Los Angeles · Sat, 4 Apr 2026
+- TBA - (818) 724-7836, Los Angeles · Sat, 13 Dec 2025
+- Que Sera, Los Angeles · Fri, 14 Nov 2025
 
 ## Shares bills with
 

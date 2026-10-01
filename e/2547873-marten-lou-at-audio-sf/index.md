@@ -1,6 +1,6 @@
 # Marten Lou at Audio SF
 
-Marten Lou at Audio SF on Sat 12 Dec, San Francisco/Oakland. 1 artist on the bill: Marten Lou. Preview the line-up and save it on soundcheck.
+Marten Lou at Audio SF on Sat 12 Dec, San Francisco/Oakland. 1 artist: Marten Lou. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

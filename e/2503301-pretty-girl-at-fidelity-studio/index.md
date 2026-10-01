@@ -1,6 +1,6 @@
 # Pretty Girl at Fidelity Studio
 
-Pretty Girl at Fidelity Studio on Fri 16 Oct, Dublin. 1 artist on the bill: Pretty Girl. Preview the line-up and save it on soundcheck.
+Pretty Girl at Fidelity Studio on Fri 16 Oct, Dublin. 1 artist: Pretty Girl. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

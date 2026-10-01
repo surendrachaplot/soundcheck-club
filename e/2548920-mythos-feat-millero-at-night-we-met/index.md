@@ -1,6 +1,6 @@
 # Mythos feat. Millero at Night We Met
 
-Mythos feat. Millero at Night We Met on Sat 7 Nov, Nashville. 1 artist on the bill: Merchant. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Mythos feat. Millero at Night We Met on Sat 7 Nov, Nashville. 1 artist: Merchant. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

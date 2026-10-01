@@ -1,8 +1,8 @@
 # Cristobal Pesce
 
-Cristobal Pesce is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Brooklyn, New York City on Fri, 9 Oct 2026.
+Cristobal Pesce is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Brooklyn, New York City on Fri, 9 Oct 2026.
 
-Cristobal Pesce is a techno and trance artist based in Chile, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Clara Cuvé, 999999999 and Indira Paganotto. Next up: TBA - Brooklyn, New York City on Fri 9 Oct.
+Cristobal Pesce is a techno and trance artist based in Chile, with 73 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 25 more. Often billed alongside Clara Cuvé, 999999999 and Indira Paganotto. Next up: TBA - Brooklyn, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Cristobal Pesce is a techno and trance artist based in Chile, tracked on soundch
 
 ## Recently played
 
-- Kømplex Lisbon, Lisbon — Fri, 14 Aug 2026
-- Kilomètre25, Paris — Sat, 8 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona — Thu, 30 Jul 2026
-- E1, London — Fri, 10 Jul 2026
-- Nordstern, Basel — Fri, 26 Jun 2026
-- MTW, Frankfurt — Fri, 12 Jun 2026
-- 74 Hall, Istanbul — Fri, 15 May 2026
-- Neo Química Arena, Sao Paulo — Fri, 1 May 2026
+- Kømplex Lisbon, Lisbon · Fri, 14 Aug 2026
+- Kilomètre25, Paris · Sat, 8 Aug 2026
+- INPUT High Fidelity Dance Club, Barcelona · Thu, 30 Jul 2026
+- E1, London · Fri, 10 Jul 2026
+- Nordstern, Basel · Fri, 26 Jun 2026
+- MTW, Frankfurt · Fri, 12 Jun 2026
+- 74 Hall, Istanbul · Fri, 15 May 2026
+- Neo Química Arena, Sao Paulo · Fri, 1 May 2026
 
 ## Shares bills with
 

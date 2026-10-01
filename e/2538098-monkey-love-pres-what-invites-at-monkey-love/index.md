@@ -1,6 +1,6 @@
 # MONKEY LOVE pres. WHAT INVITES at MONKEY LOVE
 
-MONKEY LOVE pres. WHAT INVITES on Sat 10 Oct, Warsaw. 2 artists on the bill: espoff and MROZ. House. Preview the line-up and save it on soundcheck.
+MONKEY LOVE pres. WHAT INVITES on Sat 10 Oct, Warsaw. 2 artists: espoff and MROZ. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 60 juno at Headrow House
 
-60 juno at Headrow House on Fri 13 Nov, Leeds. Post-Punk. Preview the line-up and save it on soundcheck.
+60 juno at Headrow House on Fri 13 Nov, Leeds. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VEKTOR OPENING - SOAKIN' GROOVE: Sicion (FR), AGA2L, Daniel Moritz, Rovizz, THIRD 2HIFT at Vektor - The Klub
 
-VEKTOR OPENING - SOAKIN' GROOVE: Sicion (FR), AGA2L, Daniel Moritz, Rovizz, THIRD 2HIFT at Vektor - The Klub on Fri 16 Oct, Budapest. 5 artists on the bill: AGA2L, Daniel Moritz, Rovizz and Sicion and 1 more. Techno. Preview the line-up and save it on soundcheck.
+VEKTOR OPENING - SOAKIN' GROOVE: Sicion (FR), AGA2L, Daniel Moritz, Rovizz, THIRD 2HIFT at Vektor - The Klub on Fri 16 Oct, Budapest. 5 artists: AGA2L, Daniel Moritz, Rovizz and Sicion and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

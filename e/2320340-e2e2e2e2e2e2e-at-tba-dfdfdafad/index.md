@@ -1,6 +1,6 @@
 # e2e2e2e2e2e2e at TBA - dfdfdafad
 
-e2e2e2e2e2e2e at TBA - dfdfdafad on Sun 6 Dec, London. Acid. Preview the line-up and save it on soundcheck.
+e2e2e2e2e2e2e at TBA - dfdfdafad on Sun 6 Dec, London. Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

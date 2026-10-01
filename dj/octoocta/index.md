@@ -1,8 +1,8 @@
 # Octo Octa
 
-Octo Octa is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Warehouse, Denver on Fri, 2 Oct 2026.
+Octo Octa is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Warehouse, Denver on Fri, 2 Oct 2026.
 
-Octo Octa is a house and techno artist based in United States of America, tracked on soundcheck, with 208 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: TBA - Warehouse, Denver on Fri 2 Oct.
+Octo Octa is a house and techno artist based in United States of America, with 208 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 60 more. Often billed alongside Eris Drew, ISAbella and CCL. Next up: TBA - Warehouse, Denver on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Octo Octa is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- 528 Ibiza, Ibiza — Tue, 1 Sept 2026
-- Southwark Park, London — Sun, 30 Aug 2026
-- Haus der Visionäre, Berlin — Sun, 9 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- 528 Ibiza, Ibiza · Tue, 1 Sept 2026
+- Southwark Park, London · Sun, 30 Aug 2026
+- Haus der Visionäre, Berlin · Sun, 9 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sun, 2 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 
 ## Shares bills with
 

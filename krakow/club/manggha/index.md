@@ -1,8 +1,8 @@
 # Manggha
 
-Manggha is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Unsound Kraków 2026: FIGMENT - BNNT & Radwan Ghazi Moumneh / feeo / Milan W" on Sat, 10 Oct 2026.
+Manggha is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Unsound Kraków 2026: FIGMENT - BNNT & Radwan Ghazi Moumneh / feeo / Milan W" on Sat, 10 Oct 2026.
 
-Manggha is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including feeo, Milan W., Mourad Bncr and Ryoichi Kurokawa. Browse upcoming dates, start times and who's playing. ul. Marii Konopnickiej 26, 30-302 Kraków, Poland.
+Manggha is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including feeo, Milan W., Mourad Bncr and Ryoichi Kurokawa. See dates, start times and who's playing. ul. Marii Konopnickiej 26, 30-302 Kraków, Poland.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Koipinoxia Vibration at Brighton Electric
 
-Koipinoxia Vibration at Brighton Electric on Sat 24 Oct, Brighton. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Koipinoxia Vibration at Brighton Electric on Sat 24 Oct, Brighton. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

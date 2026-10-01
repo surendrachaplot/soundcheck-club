@@ -1,6 +1,6 @@
 # Resonate at The Model
 
-Resonate at The Model on Sat 3 Oct, Nottingham. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Resonate at The Model on Sat 3 Oct, Nottingham. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Club Roto - Halloween at Lofi
 
-Club Roto - Halloween at Lofi on Sat 31 Oct, Amsterdam. 6 artists on the bill: Dennis Quin, Job de Jong, jWave and Michel de Hey and 2 more. House. Preview the line-up and save it on soundcheck.
+Club Roto - Halloween at Lofi on Sat 31 Oct, Amsterdam. 6 artists: Dennis Quin, Job de Jong, jWave and Michel de Hey and 2 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Daft Disko Halloween: Miami at Edge Miami
 
-Daft Disko Halloween: Miami at Edge Miami on Sat 31 Oct, Miami. House and Disco. Preview the line-up and save it on soundcheck.
+Daft Disko Halloween: Miami at Edge Miami on Sat 31 Oct, Miami. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

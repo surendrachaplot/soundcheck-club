@@ -1,6 +1,6 @@
 # ELECTRO ROCKS at Electrowerkz
 
-ELECTRO ROCKS at Electrowerkz on Fri 2 Oct, London. Preview the line-up and save it on soundcheck.
+ELECTRO ROCKS at Electrowerkz on Fri 2 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

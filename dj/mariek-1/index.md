@@ -1,8 +1,8 @@
 # Marie K (1)
 
-Marie K (1) is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at FOLD, London on Sat, 3 Oct 2026.
+Marie K (1) is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Sat, 3 Oct 2026.
 
-Marie K is a techno and house artist based in Netherlands, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: FOLD, London on Sat 3 Oct.
+Marie K is a techno and house artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Eversines, Caim and Pieter Jansen. Next up: FOLD, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Marie K is a techno and house artist based in Netherlands, tracked on soundcheck
 
 ## Recently played
 
-- Phono Lake, Amsterdam — Sat, 12 Sept 2026
-- Renate, Berlin — Sat, 22 Aug 2026
-- Illegaal, Brussels — Sun, 19 Jul 2026
-- Skatecafe, Amsterdam — Sun, 28 Jun 2026
-- Brutus, Rotterdam — Sat, 27 Jun 2026
-- Ormside Projects, London — Fri, 5 Jun 2026
-- export, Rotterdam — Fri, 10 Apr 2026
-- Radio Radio, Amsterdam — Sat, 4 Apr 2026
+- Phono Lake, Amsterdam · Sat, 12 Sept 2026
+- Renate, Berlin · Sat, 22 Aug 2026
+- Illegaal, Brussels · Sun, 19 Jul 2026
+- Skatecafe, Amsterdam · Sun, 28 Jun 2026
+- Brutus, Rotterdam · Sat, 27 Jun 2026
+- Ormside Projects, London · Fri, 5 Jun 2026
+- export, Rotterdam · Fri, 10 Apr 2026
+- Radio Radio, Amsterdam · Sat, 4 Apr 2026
 
 ## Shares bills with
 

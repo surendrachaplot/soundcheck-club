@@ -1,6 +1,6 @@
 # Riot Starter at Complex Maastricht
 
-Riot Starter at Complex Maastricht on Fri 2 Oct, Netherlands. 3 artists on the bill: Kili, Pinotello and The Dark Horror. Preview the line-up and save it on soundcheck.
+Riot Starter at Complex Maastricht on Fri 2 Oct, Netherlands. 3 artists: Kili, Pinotello and The Dark Horror. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

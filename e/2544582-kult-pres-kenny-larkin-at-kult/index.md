@@ -1,6 +1,6 @@
 # KULT pres. KENNY LARKIN at Kult
 
-KULT pres. KENNY LARKIN at Kult on Sat 14 Nov, Belgrade. Techno and House. Preview the line-up and save it on soundcheck.
+KULT pres. KENNY LARKIN at Kult on Sat 14 Nov, Belgrade. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OCTOV Halloween with DAX J at Les 7 Doigts de la Main
 
-OCTOV Halloween with DAX J at Les 7 Doigts de la Main on Sat 31 Oct, Montreal. 4 artists on the bill: Badgalquirit, DAX J, Esse Ran and Kris Tin. Techno. Preview the line-up and save it on soundcheck.
+OCTOV Halloween with DAX J at Les 7 Doigts de la Main on Sat 31 Oct, Montreal. 4 artists: Badgalquirit, DAX J, Esse Ran and Kris Tin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

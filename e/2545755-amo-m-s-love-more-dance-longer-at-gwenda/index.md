@@ -1,6 +1,6 @@
 # AMO MÁS Love More. Dance Longer at Gwenda
 
-AMO MÁS Love More. Dance Longer at Gwenda on Sun 18 Oct, London. 1 artist on the bill: Johnny Fiore. Preview the line-up and save it on soundcheck.
+AMO MÁS Love More. Dance Longer at Gwenda on Sun 18 Oct, London. 1 artist: Johnny Fiore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

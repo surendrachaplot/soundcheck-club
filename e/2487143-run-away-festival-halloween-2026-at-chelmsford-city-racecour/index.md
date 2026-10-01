@@ -1,6 +1,6 @@
 # Run Away Festival Halloween 2026 at Chelmsford City Racecourse
 
-Run Away Festival Halloween 2026 at Chelmsford City Racecourse on Sat 31 Oct, London. House and Minimal. Preview the line-up and save it on soundcheck.
+Run Away Festival Halloween 2026 at Chelmsford City Racecourse on Sat 31 Oct, London. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SPACE GROOVE: HALLOWEEN PARTY at TBA - XO GREEK
 
-SPACE GROOVE: HALLOWEEN PARTY at TBA - XO GREEK on Fri 23 Oct, London. Preview the line-up and save it on soundcheck.
+SPACE GROOVE: HALLOWEEN PARTY at TBA - XO GREEK on Fri 23 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

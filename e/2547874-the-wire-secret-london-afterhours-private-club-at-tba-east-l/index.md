@@ -1,6 +1,6 @@
 # THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE CLUB at TBA - EAST LONDON - Announced to ticket holders on the day
 
-THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE CLUB at TBA - EAST LONDON - Announced to ticket holders on the day on Fri 2 Oct, London. 4 artists on the bill: Jai Baisden, Moonz, Phåro and Reeno. House and Electro. Preview the line-up and save it on soundcheck.
+THE WIRE: SECRET LONDON AFTERHOURS - PRIVATE CLUB at TBA - EAST LONDON - Announced to ticket holders on the day on Fri 2 Oct, London. 4 artists: Jai Baisden, Moonz, Phåro and Reeno. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

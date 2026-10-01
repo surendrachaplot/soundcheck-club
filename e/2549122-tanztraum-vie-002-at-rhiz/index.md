@@ -1,6 +1,6 @@
 # TANZTRAUM VIE 002 at Rhiz
 
-TANZTRAUM VIE 002 at Rhiz on Fri 9 Oct, Vienna. 1 artist on the bill: Malounadou. Techno. Preview the line-up and save it on soundcheck.
+TANZTRAUM VIE 002 at Rhiz on Fri 9 Oct, Vienna. 1 artist: Malounadou. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

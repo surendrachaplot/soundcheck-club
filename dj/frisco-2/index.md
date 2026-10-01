@@ -1,8 +1,8 @@
 # FRISCO (AUS)
 
-FRISCO (AUS) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OneSixOne, Melbourne on Fri, 16 Oct 2026.
+FRISCO (AUS) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OneSixOne, Melbourne on Fri, 16 Oct 2026.
 
-FRISCO (AUS) is a house and deep house artist based in Australia, tracked on soundcheck, with 23 sets logged across Melbourne. Often billed alongside Adam Trace, Jay Ramon and Amber Ferraro. Next up: OneSixOne, Melbourne on Fri 16 Oct.
+FRISCO (AUS) is a house and deep house artist based in Australia, with 23 gigs on soundcheck across Melbourne. Often billed alongside Adam Trace, Jay Ramon and Amber Ferraro. Next up: OneSixOne, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ FRISCO (AUS) is a house and deep house artist based in Australia, tracked on sou
 
 ## Recently played
 
-- OneSixOne, Melbourne — Fri, 11 Sept 2026
-- OneSixOne, Melbourne — Fri, 7 Aug 2026
-- OneSixOne, Melbourne — Fri, 17 Jul 2026
-- OneSixOne, Melbourne — Fri, 26 Jun 2026
-- OneSixOne, Melbourne — Sun, 7 Jun 2026
-- OneSixOne, Melbourne — Thu, 4 Jun 2026
-- The Toff in Town, Melbourne — Fri, 20 Mar 2026
-- OneSixOne, Melbourne — Fri, 6 Mar 2026
+- OneSixOne, Melbourne · Fri, 11 Sept 2026
+- OneSixOne, Melbourne · Fri, 7 Aug 2026
+- OneSixOne, Melbourne · Fri, 17 Jul 2026
+- OneSixOne, Melbourne · Fri, 26 Jun 2026
+- OneSixOne, Melbourne · Sun, 7 Jun 2026
+- OneSixOne, Melbourne · Thu, 4 Jun 2026
+- The Toff in Town, Melbourne · Fri, 20 Mar 2026
+- OneSixOne, Melbourne · Fri, 6 Mar 2026
 
 ## Shares bills with
 

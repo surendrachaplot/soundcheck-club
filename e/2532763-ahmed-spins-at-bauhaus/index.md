@@ -1,6 +1,6 @@
 # AHMED SPINS at Bauhaus
 
-AHMED SPINS at Bauhaus on Sat 28 Nov, Houston. Techno and House. Preview the line-up and save it on soundcheck.
+AHMED SPINS at Bauhaus on Sat 28 Nov, Houston. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

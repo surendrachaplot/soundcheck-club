@@ -1,6 +1,6 @@
 # Flowers at How Much Studios
 
-Flowers at How Much Studios on Sat 24 Oct, Austin. House and Deep House. Preview the line-up and save it on soundcheck.
+Flowers at How Much Studios on Sat 24 Oct, Austin. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

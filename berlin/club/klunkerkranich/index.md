@@ -1,8 +1,8 @@
 # Klunkerkranich
 
-Klunkerkranich is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "HOUSE OF VENUS x Klunkerkranich w. Ivana, Lola Brennt, Kumatai, Dark Zenith, IZA, Agem" on Thu, 1 Oct 2026.
+Klunkerkranich is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HOUSE OF VENUS x Klunkerkranich w. Ivana, Lola Brennt, Kumatai, Dark Zenith, IZA, Agem" on Thu, 1 Oct 2026.
 
-Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Agem, Anna Lazer, aqwapi and Baerbel and 2 more. Browse upcoming dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
+Klunkerkranich is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Agem, Anna Lazer, aqwapi and Baerbel and 2 more. See dates, start times and who's playing. Karl-Marx-Straße 66, 12043 Berlin.
 
 ## What's on
 

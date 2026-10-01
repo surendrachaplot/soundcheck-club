@@ -1,6 +1,6 @@
 # 2Passo // Tino & … at The Berkeley Suite
 
-2Passo // Tino & … at The Berkeley Suite on Thu 19 Nov, Glasgow. House. Preview the line-up and save it on soundcheck.
+2Passo // Tino & … at The Berkeley Suite on Thu 19 Nov, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

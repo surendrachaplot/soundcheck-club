@@ -1,8 +1,8 @@
 # The Puppet Theatre Barge
 
-The Puppet Theatre Barge is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "selthe, elvira del rocío, es.cher ~ two nights at The Puppet Theatre Barge" on Thu, 15 Oct 2026.
+The Puppet Theatre Barge is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "selthe, elvira del rocío, es.cher ~ two nights at The Puppet Theatre Barge" on Thu, 15 Oct 2026.
 
-The Puppet Theatre Barge is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including es.cher and Selthe. Browse upcoming dates, start times and who's playing. The Puppet Theatre Barge,  Blomfield Road (opposite 35),  Little Venice, London W9 2PF.
+The Puppet Theatre Barge is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including es.cher and Selthe. See dates, start times and who's playing. The Puppet Theatre Barge,  Blomfield Road (opposite 35),  Little Venice, London W9 2PF.
 
 ## What's on
 

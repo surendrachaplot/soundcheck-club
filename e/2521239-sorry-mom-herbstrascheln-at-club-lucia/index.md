@@ -1,6 +1,6 @@
 # SORRY MOM herbstrascheln at Club Lucia
 
-SORRY MOM herbstrascheln at Club Lucia on Fri 6 Nov, Vienna. Techno. Preview the line-up and save it on soundcheck.
+SORRY MOM herbstrascheln at Club Lucia on Fri 6 Nov, Vienna. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Simon Simono
 
-Simon Simono is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+Simon Simono is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
 
-Simon Simono is a house and electronica artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin. Often billed alongside Cleos, Benjie Bäm and CHIEF TORKEL. Next up: Kater, Berlin on Fri 9 Oct.
+Simon Simono is a house and electronica artist based in Germany, with 9 gigs on soundcheck across Berlin. Often billed alongside Cleos, Benjie Bäm and CHIEF TORKEL. Next up: Kater, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Simon Simono is a house and electronica artist based in Germany, tracked on soun
 
 ## Recently played
 
-- Klunkerkranich, Berlin — Sat, 29 Aug 2026
-- gART.n, Berlin — Sat, 13 Jun 2026
-- Beate Uwe, Berlin — Sat, 20 Dec 2025
-- Birgit, Berlin — Fri, 19 Sept 2025
-- Monarch, Berlin — Sat, 21 Jun 2025
-- Kater, Berlin — Sat, 31 May 2025
-- M01, Berlin — Thu, 17 Apr 2025
-- Renate, Berlin — Thu, 28 Nov 2024
+- Klunkerkranich, Berlin · Sat, 29 Aug 2026
+- gART.n, Berlin · Sat, 13 Jun 2026
+- Beate Uwe, Berlin · Sat, 20 Dec 2025
+- Birgit, Berlin · Fri, 19 Sept 2025
+- Monarch, Berlin · Sat, 21 Jun 2025
+- Kater, Berlin · Sat, 31 May 2025
+- M01, Berlin · Thu, 17 Apr 2025
+- Renate, Berlin · Thu, 28 Nov 2024
 
 ## Shares bills with
 

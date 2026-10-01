@@ -1,6 +1,6 @@
 # Stoop World + Ariiineversrry present: NO STANDING at Friends & Lovers
 
-Stoop World + Ariiineversrry present: NO STANDING at Friends & Lovers on Fri 2 Oct, New York City. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
+Stoop World + Ariiineversrry present: NO STANDING at Friends & Lovers on Fri 2 Oct, New York City. Hip-Hop and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Myriam Bleau
 
-Myriam Bleau is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Usine C, Montreal on Wed, 21 Oct 2026.
+Myriam Bleau is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Usine C, Montreal on Wed, 21 Oct 2026.
 
-Myriam Bleau is an experimental and techno artist based in Canada, tracked on soundcheck, with 12 sets logged across Barcelona, Basel, Madrid and Mexico City and 3 more. Often billed alongside Aïsha Devi, Akazie and Alessandra Leone. Next up: Usine C, Montreal on Wed 21 Oct.
+Myriam Bleau is an experimental and techno artist based in Canada, with 12 gigs on soundcheck across Barcelona, Basel, Madrid and Mexico City and 3 more. Often billed alongside Aïsha Devi, Akazie and Alessandra Leone. Next up: Usine C, Montreal on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Myriam Bleau is an experimental and techno artist based in Canada, tracked on so
 
 ## Recently played
 
-- Société des arts technologiques, Montreal — Fri, 8 May 2026
-- Kaserne Basel, Basel — Thu, 2 Oct 2025
-- Matadero Madrid, Madrid — Thu, 18 Sept 2025
-- T3 Bayside, Toronto — Sat, 6 Sept 2025
-- Eastern Bloc, Montreal — Thu, 27 Mar 2025
-- Veletrzni Palac Prague, Prague — Mon, 23 Sept 2024
-- Théâtre Maisonneuve, Montreal — Fri, 23 Aug 2024
-- Quartier Des Spectacles, Montreal — Tue, 20 Aug 2024
+- Société des arts technologiques, Montreal · Fri, 8 May 2026
+- Kaserne Basel, Basel · Thu, 2 Oct 2025
+- Matadero Madrid, Madrid · Thu, 18 Sept 2025
+- T3 Bayside, Toronto · Sat, 6 Sept 2025
+- Eastern Bloc, Montreal · Thu, 27 Mar 2025
+- Veletrzni Palac Prague, Prague · Mon, 23 Sept 2024
+- Théâtre Maisonneuve, Montreal · Fri, 23 Aug 2024
+- Quartier Des Spectacles, Montreal · Tue, 20 Aug 2024
 
 ## Shares bills with
 

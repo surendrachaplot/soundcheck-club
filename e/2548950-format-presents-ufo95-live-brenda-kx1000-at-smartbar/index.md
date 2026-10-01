@@ -1,6 +1,6 @@
 # Format presents UFO95 (Live) - Brenda - KX1000 at smartbar
 
-Format presents UFO95 (Live) - Brenda - KX1000 at smartbar on Sat 7 Nov, Chicago. 3 artists on the bill: Brenda, KX1000 and UFO95. Techno and Acid. Preview the line-up and save it on soundcheck.
+Format presents UFO95 (Live) - Brenda - KX1000 at smartbar on Sat 7 Nov, Chicago. 3 artists: Brenda, KX1000 and UFO95. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

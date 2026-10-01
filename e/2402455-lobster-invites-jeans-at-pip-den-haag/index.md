@@ -1,6 +1,6 @@
 # Lobster invites JEANS at PIP Den Haag
 
-Lobster invites JEANS at PIP Den Haag on Sat 10 Oct, The Hague. 2 artists on the bill: Jeans (NL) and Lobster (NL). Techno and House. Preview the line-up and save it on soundcheck.
+Lobster invites JEANS at PIP Den Haag on Sat 10 Oct, The Hague. 2 artists: Jeans (NL) and Lobster (NL). Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

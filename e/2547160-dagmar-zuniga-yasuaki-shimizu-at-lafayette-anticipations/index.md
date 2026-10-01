@@ -1,6 +1,6 @@
 # Dagmar Zuniga + Yasuaki Shimizu at Lafayette Anticipations
 
-Dagmar Zuniga + Yasuaki Shimizu at Lafayette Anticipations on Tue 3 Nov, Paris. Preview the line-up and save it on soundcheck.
+Dagmar Zuniga + Yasuaki Shimizu at Lafayette Anticipations on Tue 3 Nov, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CLUB 909: Model Hz & GOTIS at La Gare / Le Gore
 
-CLUB 909: Model Hz & GOTIS at La Gare / Le Gore on Sun 27 Sept, Paris. 2 artists on the bill: GOTIS and Model Hz. Techno. Preview the line-up and save it on soundcheck.
+CLUB 909: Model Hz & GOTIS at La Gare / Le Gore on Sun 27 Sept, Paris. 2 artists: GOTIS and Model Hz. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

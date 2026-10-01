@@ -1,6 +1,6 @@
 # Know Good w. Moceans, Terminal 6 at BERHTA
 
-Know Good w. Moceans, Terminal 6 at BERHTA on Fri 4 Dec, Washington DC. Electronica. Preview the line-up and save it on soundcheck.
+Know Good w. Moceans, Terminal 6 at BERHTA on Fri 4 Dec, Washington DC. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

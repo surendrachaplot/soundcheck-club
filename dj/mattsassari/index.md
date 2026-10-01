@@ -1,8 +1,8 @@
 # Matt Sassari
 
-Matt Sassari is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at It'll Do, Dallas-fort-worth on Sat, 3 Oct 2026.
+Matt Sassari is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at It'll Do, Dallas-fort-worth on Sat, 3 Oct 2026.
 
-Matt Sassari is a techno and tech house artist based in France, tracked on soundcheck, with 73 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 35 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: It'll Do, Dallas Fort Worth on Sat 3 Oct.
+Matt Sassari is a techno and tech house artist based in France, with 73 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 35 more. Often billed alongside Kygo, David Guetta and Nicole Moudaber. Next up: It'll Do, Dallas Fort Worth on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Matt Sassari is a techno and tech house artist based in France, tracked on sound
 
 ## Recently played
 
-- Lion Super Club, Seoul — Sat, 19 Sept 2026
-- Pacha, Munich — Sat, 5 Sept 2026
-- [UNVRS], Ibiza — Fri, 4 Sept 2026
-- La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
-- Bauhaus, Houston — Fri, 31 Jul 2026
-- Ushuaïa Ibiza, Ibiza — Thu, 23 Jul 2026
-- Ushuaïa Ibiza, Ibiza — Mon, 29 Jun 2026
-- Club Vinyl, Denver — Sat, 30 May 2026
+- Lion Super Club, Seoul · Sat, 19 Sept 2026
+- Pacha, Munich · Sat, 5 Sept 2026
+- [UNVRS], Ibiza · Fri, 4 Sept 2026
+- La Pinilla Ski Resort, Madrid · Mon, 10 Aug 2026
+- Bauhaus, Houston · Fri, 31 Jul 2026
+- Ushuaïa Ibiza, Ibiza · Thu, 23 Jul 2026
+- Ushuaïa Ibiza, Ibiza · Mon, 29 Jun 2026
+- Club Vinyl, Denver · Sat, 30 May 2026
 
 ## Shares bills with
 

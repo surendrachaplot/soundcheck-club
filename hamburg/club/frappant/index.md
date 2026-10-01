@@ -1,8 +1,8 @@
 # Frappant
 
-Frappant is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "former outsiders" on Sat, 3 Oct 2026.
+Frappant is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "former outsiders" on Sat, 3 Oct 2026.
 
-Frappant is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including ATEQ and Atomlui. Browse upcoming dates, start times and who's playing. Bodenstedtstraße 16, 22765 Hamburg, Germany.
+Frappant is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including ATEQ and Atomlui. See dates, start times and who's playing. Bodenstedtstraße 16, 22765 Hamburg, Germany.
 
 ## What's on
 

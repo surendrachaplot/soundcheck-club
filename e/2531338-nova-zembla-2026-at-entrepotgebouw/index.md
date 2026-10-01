@@ -1,6 +1,6 @@
 # Nova Zembla 2026 at Entrepotgebouw
 
-Nova Zembla 2026 at Entrepotgebouw on Sat 14 Nov, Netherlands. 1 artist on the bill: Pan-Pot. Preview the line-up and save it on soundcheck.
+Nova Zembla 2026 at Entrepotgebouw on Sat 14 Nov, Netherlands. 1 artist: Pan-Pot. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

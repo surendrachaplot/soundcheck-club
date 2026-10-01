@@ -1,8 +1,8 @@
 # Dave Aju
 
-Dave Aju is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Yamashiro Hollywood, Los Angeles on Sat, 31 Oct 2026.
+Dave Aju is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yamashiro Hollywood, Los Angeles on Sat, 31 Oct 2026.
 
-Dave Aju is a house and disco artist based in United States of America, tracked on soundcheck, with 26 sets logged across Berlin, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Tavish, SONNS and Nomadico. Next up: Yamashiro Hollywood, Los Angeles on Sat 31 Oct.
+Dave Aju is a house and disco artist based in United States of America, with 26 gigs on soundcheck across Berlin, Los Angeles, San Diego and San Francisco/Oakland. Often billed alongside Tavish, SONNS and Nomadico. Next up: Yamashiro Hollywood, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dave Aju is a house and disco artist based in United States of America, tracked 
 
 ## Recently played
 
-- Lost and Found, Los Angeles — Fri, 31 Jul 2026
-- Sound by the Sea, San Diego — Sat, 11 Apr 2026
-- TBA, Los Angeles — Fri, 6 Mar 2026
-- TBA - SV STUDIOS, Los Angeles — Sat, 31 Jan 2026
-- Yamashiro Hollywood, Los Angeles — Fri, 31 Oct 2025
-- TBA - 555 Pico Ave, Long Beach CA 90802, Los Angeles — Sat, 27 Sept 2025
-- Neuehouse Hollywood, Los Angeles — Sat, 31 May 2025
-- On Maritime Records - Melrose, Los Angeles — Sat, 17 May 2025
+- Lost and Found, Los Angeles · Fri, 31 Jul 2026
+- Sound by the Sea, San Diego · Sat, 11 Apr 2026
+- TBA, Los Angeles · Fri, 6 Mar 2026
+- TBA - SV STUDIOS, Los Angeles · Sat, 31 Jan 2026
+- Yamashiro Hollywood, Los Angeles · Fri, 31 Oct 2025
+- TBA - 555 Pico Ave, Long Beach CA 90802, Los Angeles · Sat, 27 Sept 2025
+- Neuehouse Hollywood, Los Angeles · Sat, 31 May 2025
+- On Maritime Records - Melrose, Los Angeles · Sat, 17 May 2025
 
 ## Shares bills with
 

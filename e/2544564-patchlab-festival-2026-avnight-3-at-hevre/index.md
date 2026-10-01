@@ -1,6 +1,6 @@
 # Patchlab Festival 2026: AVnight 3 at Hevre
 
-Patchlab Festival 2026: AVnight 3 at Hevre on Sat 17 Oct, Krakow. 1 artist on the bill: Guillaume & The Coutu Dumonts. Electro. Preview the line-up and save it on soundcheck.
+Patchlab Festival 2026: AVnight 3 at Hevre on Sat 17 Oct, Krakow. 1 artist: Guillaume & The Coutu Dumonts. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Command Strange
 
-Command Strange is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at fabric, London on Sat, 14 Nov 2026.
+Command Strange is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Sat, 14 Nov 2026.
 
-Command Strange is a drum & bass artist based in Kazakhstan, tracked on soundcheck, with 15 sets logged across Amsterdam, Antwerp, Brighton and Bristol and 2 more. Often billed alongside Bryan Gee, Jumping Jack Frost and Bladerunner. Next up: fabric, London on Sat 14 Nov.
+Command Strange is a drum & bass artist based in Kazakhstan, with 15 gigs on soundcheck across Amsterdam, Antwerp, Brighton and Bristol and 2 more. Often billed alongside Bryan Gee, Jumping Jack Frost and Bladerunner. Next up: fabric, London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Command Strange is a drum & bass artist based in Kazakhstan, tracked on soundche
 
 ## Recently played
 
-- Concorde 2, Brighton — Sat, 29 Aug 2026
-- Electric Ballroom, London — Sat, 25 Jul 2026
-- Ampere, Antwerp — Fri, 19 Jun 2026
-- Planet Wax, London — Sat, 20 Dec 2025
-- The Art School, Glasgow — Sat, 22 Nov 2025
-- fabric, London — Sat, 15 Nov 2025
-- OT301, Amsterdam — Fri, 19 Sept 2025
-- Peckham Audio, London — Sat, 5 Jul 2025
+- Concorde 2, Brighton · Sat, 29 Aug 2026
+- Electric Ballroom, London · Sat, 25 Jul 2026
+- Ampere, Antwerp · Fri, 19 Jun 2026
+- Planet Wax, London · Sat, 20 Dec 2025
+- The Art School, Glasgow · Sat, 22 Nov 2025
+- fabric, London · Sat, 15 Nov 2025
+- OT301, Amsterdam · Fri, 19 Sept 2025
+- Peckham Audio, London · Sat, 5 Jul 2025
 
 ## Shares bills with
 

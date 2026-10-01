@@ -1,6 +1,6 @@
 # AFROTRONIQUE at TBA - Álvaro Obregón 291
 
-AFROTRONIQUE at TBA - Álvaro Obregón 291 on Fri 16 Oct, Mexico City. 3 artists on the bill: Dj Dizam, Tchakomi and Tonga Conga. Amapiano and Afro Tech. Preview the line-up and save it on soundcheck.
+AFROTRONIQUE at TBA - Álvaro Obregón 291 on Fri 16 Oct, Mexico City. 3 artists: Dj Dizam, Tchakomi and Tonga Conga. Amapiano and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

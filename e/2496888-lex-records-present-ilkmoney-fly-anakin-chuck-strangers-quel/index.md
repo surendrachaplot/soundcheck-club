@@ -1,6 +1,6 @@
 # Lex Records present $ilkMoney + Fly Anakin + Chuck Strangers + Quelle Chris at The Institute of Contemporary Arts London
 
-Lex Records present $ilkMoney + Fly Anakin + Chuck Strangers + Quelle Chris at The Institute of Contemporary Arts London on Fri 20 Nov, London. Hip-Hop. Preview the line-up and save it on soundcheck.
+Lex Records present $ilkMoney + Fly Anakin + Chuck Strangers + Quelle Chris at The Institute of Contemporary Arts London on Fri 20 Nov, London. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

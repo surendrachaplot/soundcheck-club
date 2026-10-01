@@ -1,8 +1,8 @@
 # Cité du Cinéma
 
-Cité du Cinéma is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Hugel, Agoria, Guy Gerber, Chambord, Kate Zubok @ Paris Fashion week" on Thu, 1 Oct 2026.
+Cité du Cinéma is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Hugel, Agoria, Guy Gerber, Chambord, Kate Zubok @ Paris Fashion week" on Thu, 1 Oct 2026.
 
-Cité du Cinéma is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Agoria, Chambord, Guy Gerber and Hugel and 2 more. Browse upcoming dates, start times and who's playing. 20 rue Ampère 93413 Saint Denis Cedex.
+Cité du Cinéma is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Agoria, Chambord, Guy Gerber and Hugel and 2 more. See dates, start times and who's playing. 20 rue Ampère 93413 Saint Denis Cedex.
 
 ## What's on
 

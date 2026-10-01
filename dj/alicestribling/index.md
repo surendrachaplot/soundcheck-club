@@ -1,8 +1,8 @@
 # ALICE STRIBLING
 
-ALICE STRIBLING is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Underground SF, San Francisco/Oakland on Fri, 30 Oct 2026.
+ALICE STRIBLING is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-ALICE STRIBLING is an electronica and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across San Francisco/Oakland. Often billed alongside Charles Hawthorne, Bored Lord and Del. Next up: Underground SF, San Francisco/Oakland on Fri 30 Oct.
+ALICE STRIBLING is an electronica and house artist based in United States of America, with 11 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Charles Hawthorne, Bored Lord and Del. Next up: Underground SF, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ALICE STRIBLING is an electronica and house artist based in United States of Ame
 
 ## Recently played
 
-- El Rio, San Francisco/Oakland — Fri, 25 Sept 2026
-- The Stud, San Francisco/Oakland — Fri, 4 Sept 2026
-- El Rio, San Francisco/Oakland — Fri, 28 Aug 2026
-- Underground SF, San Francisco/Oakland — Thu, 27 Aug 2026
-- The Stud, San Francisco/Oakland — Fri, 7 Aug 2026
-- Underground SF, San Francisco/Oakland — Thu, 23 Jul 2026
-- Underground SF, San Francisco/Oakland — Thu, 25 Jun 2026
-- F8 1192 Folsom, San Francisco/Oakland — Sat, 28 Mar 2026
+- El Rio, San Francisco/Oakland · Fri, 25 Sept 2026
+- The Stud, San Francisco/Oakland · Fri, 4 Sept 2026
+- El Rio, San Francisco/Oakland · Fri, 28 Aug 2026
+- Underground SF, San Francisco/Oakland · Thu, 27 Aug 2026
+- The Stud, San Francisco/Oakland · Fri, 7 Aug 2026
+- Underground SF, San Francisco/Oakland · Thu, 23 Jul 2026
+- Underground SF, San Francisco/Oakland · Thu, 25 Jun 2026
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 28 Mar 2026
 
 ## Shares bills with
 

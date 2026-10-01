@@ -1,6 +1,6 @@
 # Jawani 4eva at LDN East
 
-Jawani 4eva at LDN East on Sat 10 Oct, London. Garage and UK Funky. Preview the line-up and save it on soundcheck.
+Jawani 4eva at LDN East on Sat 10 Oct, London. Garage and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

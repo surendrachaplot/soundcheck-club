@@ -1,6 +1,6 @@
 # JakoJako - MYLAH at Under Club
 
-JakoJako - MYLAH at Under Club on Sat 3 Oct, Buenos Aires. 2 artists on the bill: JakoJako and MYLAH. Techno. Preview the line-up and save it on soundcheck.
+JakoJako - MYLAH at Under Club on Sat 3 Oct, Buenos Aires. 2 artists: JakoJako and MYLAH. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sub-liminal Recordings: Wiley (Jungle Set) at Volks
 
-Sub-liminal Recordings: Wiley (Jungle Set) at Volks on Fri 20 Nov, Brighton. 4 artists on the bill: DJ Brockie, Funsta, Heist and Wiley. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Sub-liminal Recordings: Wiley (Jungle Set) at Volks on Fri 20 Nov, Brighton. 4 artists: DJ Brockie, Funsta, Heist and Wiley. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

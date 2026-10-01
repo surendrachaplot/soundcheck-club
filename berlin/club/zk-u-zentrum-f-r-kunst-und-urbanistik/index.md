@@ -1,8 +1,8 @@
 # ZK/U (Zentrum für Kunst und Urbanistik)
 
-ZK/U (Zentrum für Kunst und Urbanistik) is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "AUTONOMA INDUSTRIALE" on Fri, 23 Oct 2026.
+ZK/U (Zentrum für Kunst und Urbanistik) is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "AUTONOMA INDUSTRIALE" on Fri, 23 Oct 2026.
 
-ZK/U (Zentrum für Kunst und Urbanistik) is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Lezza. Browse upcoming dates, start times and who's playing. Siemensstraße 27, 10551 Berlin, Germany.
+ZK/U (Zentrum für Kunst und Urbanistik) is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Lezza. See dates, start times and who's playing. Siemensstraße 27, 10551 Berlin, Germany.
 
 ## What's on
 

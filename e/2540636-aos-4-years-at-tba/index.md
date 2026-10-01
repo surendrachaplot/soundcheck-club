@@ -1,6 +1,6 @@
 # AOS 4 YEARS at TBA
 
-AOS 4 YEARS at TBA on Fri 4 Dec, Hamburg. Techno and House. Preview the line-up and save it on soundcheck.
+AOS 4 YEARS at TBA on Fri 4 Dec, Hamburg. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

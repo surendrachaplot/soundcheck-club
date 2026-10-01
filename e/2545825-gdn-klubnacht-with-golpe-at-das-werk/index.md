@@ -1,6 +1,6 @@
 # GDN KLUBNACHT with Golpe at Das Werk
 
-GDN KLUBNACHT with Golpe at Das Werk on Fri 2 Oct, Vienna. 6 artists on the bill: Anatol, AUDIO303, Comrade Martin and Dj Wifi and 2 more. Techno. Preview the line-up and save it on soundcheck.
+GDN KLUBNACHT with Golpe at Das Werk on Fri 2 Oct, Vienna. 6 artists: Anatol, AUDIO303, Comrade Martin and Dj Wifi and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

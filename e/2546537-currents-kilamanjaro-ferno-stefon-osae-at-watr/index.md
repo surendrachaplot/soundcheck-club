@@ -1,6 +1,6 @@
 # Currents: Kilamanjaro/Ferno/Stefon Osae at Watr
 
-Currents: Kilamanjaro/Ferno/Stefon Osae at Watr on Sun 4 Oct, Austin. 2 artists on the bill: DJ FERNO and KILIMANJARO. House and Afro House. Preview the line-up and save it on soundcheck.
+Currents: Kilamanjaro/Ferno/Stefon Osae at Watr on Sun 4 Oct, Austin. 2 artists: DJ FERNO and KILIMANJARO. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tilt Shift Wednesdays — Circuit Breaker Takeover at Revolver Upstairs
 
-Tilt Shift Wednesdays — Circuit Breaker Takeover at Revolver Upstairs on Wed 28 Oct, Melbourne. 1 artist on the bill: ADMINISTRATOR. Preview the line-up and save it on soundcheck.
+Tilt Shift Wednesdays — Circuit Breaker Takeover at Revolver Upstairs on Wed 28 Oct, Melbourne. 1 artist: ADMINISTRATOR. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

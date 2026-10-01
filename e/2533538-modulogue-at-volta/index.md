@@ -1,6 +1,6 @@
 # Modulogue at Volta
 
-Modulogue at Volta on Wed 21 Oct, Amsterdam. 3 artists on the bill: Paul Ray, PERAMORE and Vera Grace. Techno. Preview the line-up and save it on soundcheck.
+Modulogue at Volta on Wed 21 Oct, Amsterdam. 3 artists: Paul Ray, PERAMORE and Vera Grace. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

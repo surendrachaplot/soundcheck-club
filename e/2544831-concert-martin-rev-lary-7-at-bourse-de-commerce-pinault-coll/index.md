@@ -1,6 +1,6 @@
 # Concert : Martin Rev + Lary 7 at Bourse de Commerce — Pinault Collection
 
-Concert : Martin Rev + Lary 7 at Bourse de Commerce — Pinault Collection on Fri 23 Oct, Paris. Preview the line-up and save it on soundcheck.
+Concert : Martin Rev + Lary 7 at Bourse de Commerce — Pinault Collection on Fri 23 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ULTRASOUND 31.10.2026 at TBA - FREQUENZA 79
 
-ULTRASOUND 31.10.2026 at TBA - FREQUENZA 79 on Sat 31 Oct, Naples. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+ULTRASOUND 31.10.2026 at TBA - FREQUENZA 79 on Sat 31 Oct, Naples. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RAZZCLUBS: Rivvaa Live + Lucca Dj Set + Elli Acula + Yushh at Razzmatazz
 
-RAZZCLUBS: Rivvaa Live + Lucca Dj Set + Elli Acula + Yushh at Razzmatazz on Sat 10 Oct, Barcelona. 9 artists on the bill: BLANKA, Brus Equation, Carlota and DJ2D2 and 5 more. Preview the line-up and save it on soundcheck.
+RAZZCLUBS: Rivvaa Live + Lucca Dj Set + Elli Acula + Yushh at Razzmatazz on Sat 10 Oct, Barcelona. 9 artists: BLANKA, Brus Equation, Carlota and DJ2D2 and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

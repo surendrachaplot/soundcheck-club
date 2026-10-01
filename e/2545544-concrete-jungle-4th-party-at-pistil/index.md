@@ -1,6 +1,6 @@
 # Concrete Jungle: 4th Party at Pistil
 
-Concrete Jungle: 4th Party at Pistil on Sat 3 Oct, Seoul. 4 artists on the bill: konbu, Moon! go America, Nif Salute and Sejung. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Concrete Jungle: 4th Party at Pistil on Sat 3 Oct, Seoul. 4 artists: konbu, Moon! go America, Nif Salute and Sejung. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

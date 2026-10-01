@@ -1,6 +1,6 @@
 # Sunday Sessions LA (Vinyl Only) Open Air at Apotheke
 
-Sunday Sessions LA (Vinyl Only) Open Air at Apotheke on Sun 4 Oct, Los Angeles. 2 artists on the bill: Jordan Bernardo and Patrick Loda. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Sessions LA (Vinyl Only) Open Air at Apotheke on Sun 4 Oct, Los Angeles. 2 artists: Jordan Bernardo and Patrick Loda. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

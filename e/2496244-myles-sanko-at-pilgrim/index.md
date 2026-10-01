@@ -1,6 +1,6 @@
 # Myles Sanko at Pilgrim
 
-Myles Sanko at Pilgrim on Thu 8 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Myles Sanko at Pilgrim on Thu 8 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

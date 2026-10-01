@@ -1,8 +1,8 @@
 # Club Guesthouse
 
-Club Guesthouse is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Impulse #5" on Fri, 2 Oct 2026.
+Club Guesthouse is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Impulse #5" on Fri, 2 Oct 2026.
 
-Club Guesthouse is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs, with line-ups including Autechre, dj sweet6teen, Dyed Soundorom and Killa P and 2 more. Browse upcoming dates, start times and who's playing. Splaiul Unirii 160, Bucharest, Romania.
+Club Guesthouse is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs, with line-ups including Autechre, dj sweet6teen, Dyed Soundorom and Killa P and 2 more. See dates, start times and who's playing. Splaiul Unirii 160, Bucharest, Romania.
 
 ## What's on
 

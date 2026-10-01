@@ -1,6 +1,6 @@
 # CROSS SQUARE with DEATHCHANT (USA) at Cross Club
 
-CROSS SQUARE with DEATHCHANT (USA) at Cross Club on Fri 9 Oct, Prague. Preview the line-up and save it on soundcheck.
+CROSS SQUARE with DEATHCHANT (USA) at Cross Club on Fri 9 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Blank Disc Club: Cuffing Season at Pamenar Café
 
-Blank Disc Club: Cuffing Season at Pamenar Café on Wed 7 Oct, Toronto. 1 artist on the bill: SAWIFROMSPACE. Downtempo. Preview the line-up and save it on soundcheck.
+Blank Disc Club: Cuffing Season at Pamenar Café on Wed 7 Oct, Toronto. 1 artist: SAWIFROMSPACE. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

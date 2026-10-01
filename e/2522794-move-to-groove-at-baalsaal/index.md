@@ -1,6 +1,6 @@
 # Move to Groove at Baalsaal
 
-Move to Groove at Baalsaal on Sat 21 Nov, Hamburg. Techno and House. Preview the line-up and save it on soundcheck.
+Move to Groove at Baalsaal on Sat 21 Nov, Hamburg. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

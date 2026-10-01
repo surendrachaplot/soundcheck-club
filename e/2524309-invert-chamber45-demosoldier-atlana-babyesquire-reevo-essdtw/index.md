@@ -1,6 +1,6 @@
 # INVERT - CHAMBER45, demosoldier, Atlana, babyesquire, reevo, essdtwothousand at The Glove That Fits
 
-INVERT - CHAMBER45, demosoldier, Atlana, babyesquire, reevo, essdtwothousand at The Glove That Fits on Thu 22 Oct, London. Bass and Footwork. Preview the line-up and save it on soundcheck.
+INVERT - CHAMBER45, demosoldier, Atlana, babyesquire, reevo, essdtwothousand at The Glove That Fits on Thu 22 Oct, London. Bass and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

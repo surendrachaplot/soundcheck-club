@@ -1,6 +1,6 @@
 # Drum & Beer #43: Gobs Bday Bash with Bop at Paramour
 
-Drum & Beer #43: Gobs Bday Bash with Bop at Paramour on Fri 9 Oct, Brussels. 4 artists on the bill: Bop, Cellarman, Hiraeth and VIKI. Drum & Bass. Preview the line-up and save it on soundcheck.
+Drum & Beer #43: Gobs Bday Bash with Bop at Paramour on Fri 9 Oct, Brussels. 4 artists: Bop, Cellarman, Hiraeth and VIKI. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

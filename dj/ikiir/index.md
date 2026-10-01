@@ -1,8 +1,8 @@
 # IKIIR
 
-IKIIR is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 10 Oct 2026.
+IKIIR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NAMA - Nuovo Anfiteatro Martesana, Milan on Sat, 10 Oct 2026.
 
-IKIIR is a techno and house artist based in Italy, tracked on soundcheck, with 37 sets logged across London and Milan. Often billed alongside ARMANDO, Hertz Collision and Luca Armando. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 10 Oct.
+IKIIR is a techno and house artist based in Italy, with 37 gigs on soundcheck across London and Milan. Often billed alongside ARMANDO, Hertz Collision and Luca Armando. Next up: NAMA - Nuovo Anfiteatro Martesana, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ IKIIR is a techno and house artist based in Italy, tracked on soundcheck, with 3
 
 ## Recently played
 
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 12 Sept 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 27 Jun 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 13 Jun 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 11 Apr 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 14 Mar 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 14 Feb 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 10 Jan 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 6 Dec 2025
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 12 Sept 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 27 Jun 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 13 Jun 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 11 Apr 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 14 Mar 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 14 Feb 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 10 Jan 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 6 Dec 2025
 
 ## Shares bills with
 

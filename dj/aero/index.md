@@ -1,8 +1,8 @@
 # Aero (1)
 
-Aero (1) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Tue, 6 Oct 2026.
+Aero (1) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Tue, 6 Oct 2026.
 
-Aero is a techno and house artist based in Ireland, tracked on soundcheck, with 49 sets logged across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside Ayolxi, Cailín and MEJMI. Next up: OXI, Berlin on Tue 6 Oct.
+Aero is a techno and house artist based in Ireland, with 49 gigs on soundcheck across Belfast, Berlin, Cork and Dublin and 4 more. Often billed alongside Ayolxi, Cailín and MEJMI. Next up: OXI, Berlin on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Aero is a techno and house artist based in Ireland, tracked on soundcheck, with 
 
 ## Recently played
 
-- The Glove That Fits, London — Sat, 8 Aug 2026
-- M01, Berlin — Fri, 17 Jul 2026
-- Pawn Shop, Dublin — Fri, 26 Jun 2026
-- Electric Galway, Galway — Sat, 20 Jun 2026
-- Wigwam, Dublin — Tue, 28 Apr 2026
-- OXI, Berlin — Tue, 24 Mar 2026
-- block., Dublin — Sat, 31 Jan 2026
-- The DBA, Manchester — Thu, 1 Jan 2026
+- The Glove That Fits, London · Sat, 8 Aug 2026
+- M01, Berlin · Fri, 17 Jul 2026
+- Pawn Shop, Dublin · Fri, 26 Jun 2026
+- Electric Galway, Galway · Sat, 20 Jun 2026
+- Wigwam, Dublin · Tue, 28 Apr 2026
+- OXI, Berlin · Tue, 24 Mar 2026
+- block., Dublin · Sat, 31 Jan 2026
+- The DBA, Manchester · Thu, 1 Jan 2026
 
 ## Shares bills with
 

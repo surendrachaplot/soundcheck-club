@@ -1,6 +1,6 @@
 # SKIN MISA: FRAN GALAN + Reitze + THE M at Skin Club
 
-SKIN MISA: FRAN GALAN + Reitze + THE M at Skin Club on Sun 25 Oct, Madrid. 1 artist on the bill: Reitze. Preview the line-up and save it on soundcheck.
+SKIN MISA: FRAN GALAN + Reitze + THE M at Skin Club on Sun 25 Oct, Madrid. 1 artist: Reitze. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

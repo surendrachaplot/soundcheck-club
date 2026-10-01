@@ -1,6 +1,6 @@
 # HYBRID: SZG at Sala Cocó
 
-HYBRID: SZG at Sala Cocó on Sat 31 Oct, Madrid. 2 artists on the bill: RODS (ES) and SZG. Techno. Preview the line-up and save it on soundcheck.
+HYBRID: SZG at Sala Cocó on Sat 31 Oct, Madrid. 2 artists: RODS (ES) and SZG. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

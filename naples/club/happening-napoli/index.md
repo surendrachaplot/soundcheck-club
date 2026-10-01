@@ -1,8 +1,8 @@
 # Happening Napoli
 
-Happening Napoli is a music venue in Naples with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Club House" on Thu, 1 Oct 2026.
+Happening Napoli is a music venue in Naples with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Club House" on Thu, 1 Oct 2026.
 
-Happening Napoli is a music venue in Naples listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Napoli, 80121, Via Bisignano, 2 , Italy.
+Happening Napoli is a music venue in Naples listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Napoli, 80121, Via Bisignano, 2 , Italy.
 
 ## What's on
 

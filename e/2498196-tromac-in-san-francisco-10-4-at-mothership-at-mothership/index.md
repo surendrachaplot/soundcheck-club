@@ -1,6 +1,6 @@
 # Tromac in San Francisco 10/4 at Mothership at Mothership
 
-Tromac in San Francisco 10/4 at Mothership on Sun 4 Oct, San Francisco/Oakland. 4 artists on the bill: ECTO, FINISHHER, møod ring and Tromac. Bass and Club. Preview the line-up and save it on soundcheck.
+Tromac in San Francisco 10/4 at Mothership on Sun 4 Oct, San Francisco/Oakland. 4 artists: ECTO, FINISHHER, møod ring and Tromac. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

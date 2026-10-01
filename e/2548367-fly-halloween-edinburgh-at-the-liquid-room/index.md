@@ -1,6 +1,6 @@
 # FLY Halloween - Edinburgh at The Liquid Room
 
-FLY Halloween - Edinburgh at The Liquid Room on Sat 31 Oct, Edinburgh. 7 artists on the bill: ARWEN, Club Angel, Gaskin and Laidlaw and 3 more. House and Garage. Preview the line-up and save it on soundcheck.
+FLY Halloween - Edinburgh at The Liquid Room on Sat 31 Oct, Edinburgh. 7 artists: ARWEN, Club Angel, Gaskin and Laidlaw and 3 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

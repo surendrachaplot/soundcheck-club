@@ -1,6 +1,6 @@
 # Dead or Alive with Pan-Pot at Club Guatemala
 
-Dead or Alive with Pan-Pot at Club Guatemala on Sat 31 Oct, Guatemala. 1 artist on the bill: Pan-Pot. Preview the line-up and save it on soundcheck.
+Dead or Alive with Pan-Pot at Club Guatemala on Sat 31 Oct, Guatemala. 1 artist: Pan-Pot. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

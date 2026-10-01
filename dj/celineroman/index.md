@@ -1,8 +1,8 @@
 # Celine Roman
 
-Celine Roman is a Deep House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
+Celine Roman is a Deep House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
 
-Celine Roman is a deep house and minimal artist based in Romania, tracked on soundcheck, with 17 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 1 more. Often billed alongside Alex Sharp, Andrey Pushkarev and Lola Palmer. Next up: Noorderlicht Café, Amsterdam on Sun 25 Oct.
+Celine Roman is a deep house and minimal artist based in Romania, with 17 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 1 more. Often billed alongside Alex Sharp, Andrey Pushkarev and Lola Palmer. Next up: Noorderlicht Café, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Celine Roman is a deep house and minimal artist based in Romania, tracked on sou
 
 ## Recently played
 
-- TBA - Domeniul Strehan, Dealu Mare, Bucharest — Sat, 27 Jun 2026
-- Hola Club Sitges (Cala Vallcarca), Barcelona — Sun, 21 Jun 2026
-- CONTACT, Amsterdam — Sun, 26 Apr 2026
-- Goya Social Club, Madrid — Sat, 7 Mar 2026
-- Yellow House, Amsterdam — Fri, 21 Nov 2025
-- B. Rooftop, Amsterdam — Fri, 24 Oct 2025
-- Der Hintergarten, Amsterdam — Fri, 3 Oct 2025
-- Yellow House, Amsterdam — Fri, 5 Sept 2025
+- TBA - Domeniul Strehan, Dealu Mare, Bucharest · Sat, 27 Jun 2026
+- Hola Club Sitges (Cala Vallcarca), Barcelona · Sun, 21 Jun 2026
+- CONTACT, Amsterdam · Sun, 26 Apr 2026
+- Goya Social Club, Madrid · Sat, 7 Mar 2026
+- Yellow House, Amsterdam · Fri, 21 Nov 2025
+- B. Rooftop, Amsterdam · Fri, 24 Oct 2025
+- Der Hintergarten, Amsterdam · Fri, 3 Oct 2025
+- Yellow House, Amsterdam · Fri, 5 Sept 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Keepin' It Movin' - Eric Yaz, SPCL.K at Eighteenth Street Lounge (ESL)
 
-Keepin' It Movin' - Eric Yaz, SPCL.K at Eighteenth Street Lounge (ESL) on Sat 3 Oct, Washington DC. 2 artists on the bill: Eric Yaz and SPCL.K. House and Deep House. Preview the line-up and save it on soundcheck.
+Keepin' It Movin' - Eric Yaz, SPCL.K at Eighteenth Street Lounge (ESL) on Sat 3 Oct, Washington DC. 2 artists: Eric Yaz and SPCL.K. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

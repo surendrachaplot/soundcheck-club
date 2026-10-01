@@ -1,8 +1,8 @@
 # GIN_
 
-GIN_ is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at So36, Berlin on Fri, 2 Oct 2026.
+GIN_ is a House and Broken Beat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at So36, Berlin on Fri, 2 Oct 2026.
 
-GIN_ is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin and London. Often billed alongside Josh Caffé, Mica Coca and Donnie Sunshine. Next up: So36, Berlin on Fri 2 Oct.
+GIN_ is a house and broken beat artist based in United Kingdom, with 10 gigs on soundcheck across Berlin and London. Often billed alongside Josh Caffé, Mica Coca and Donnie Sunshine. Next up: So36, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ GIN_ is a house and broken beat artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Dalston Superstore, London — Fri, 11 Apr 2025
-- fabric, London — Fri, 29 Mar 2024
-- The Haggerston, London — Fri, 22 Mar 2024
-- fabric, London — Sat, 14 Oct 2023
-- Body Movements Box Office, London — Sat, 29 Jul 2023
-- fabric, London — Sat, 1 Jul 2023
-- TBA - TAM (Dalston), London — Sat, 17 Jun 2023
-- Unit 58, London — Fri, 24 Mar 2023
+- Dalston Superstore, London · Fri, 11 Apr 2025
+- fabric, London · Fri, 29 Mar 2024
+- The Haggerston, London · Fri, 22 Mar 2024
+- fabric, London · Sat, 14 Oct 2023
+- Body Movements Box Office, London · Sat, 29 Jul 2023
+- fabric, London · Sat, 1 Jul 2023
+- TBA - TAM (Dalston), London · Sat, 17 Jun 2023
+- Unit 58, London · Fri, 24 Mar 2023
 
 ## Shares bills with
 

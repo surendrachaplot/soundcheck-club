@@ -1,6 +1,6 @@
 # The Cure's Disintegration Listening Session with Andi at Silence Please
 
-The Cure's Disintegration Listening Session with Andi at Silence Please on Thu 29 Oct, New York City. 1 artist on the bill: Andi. Post-Punk. Preview the line-up and save it on soundcheck.
+The Cure's Disintegration Listening Session with Andi at Silence Please on Thu 29 Oct, New York City. 1 artist: Andi. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

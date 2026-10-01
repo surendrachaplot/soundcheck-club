@@ -1,6 +1,6 @@
 # Modular Wednesday × acidplex at Shibuya OTO
 
-Modular Wednesday × acidplex at Shibuya OTO on Wed 25 Nov, Tokyo. 1 artist on the bill: Acidclank. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Modular Wednesday × acidplex at Shibuya OTO on Wed 25 Nov, Tokyo. 1 artist: Acidclank. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

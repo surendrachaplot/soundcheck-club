@@ -1,6 +1,6 @@
 # KILIMANJARO Live at La Boule Noire
 
-KILIMANJARO Live at La Boule Noire on Fri 13 Nov, Paris. 1 artist on the bill: KILIMANJARO. House and Afro House. Preview the line-up and save it on soundcheck.
+KILIMANJARO Live at La Boule Noire on Fri 13 Nov, Paris. 1 artist: KILIMANJARO. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

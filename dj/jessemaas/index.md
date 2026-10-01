@@ -1,8 +1,8 @@
 # Jesse Maas
 
-Jesse Maas is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mono, Rotterdam on Fri, 16 Oct 2026.
+Jesse Maas is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mono, Rotterdam on Fri, 16 Oct 2026.
 
-Jesse Maas is a house and tech house artist based in Netherlands, tracked on soundcheck, with 77 sets logged across Amsterdam, Auckland, Barcelona and Dublin and 11 more. Often billed alongside Benny Rodrigues, Boss Priester and Dennis Quin. Next up: Mono, Rotterdam on Fri 16 Oct.
+Jesse Maas is a house and tech house artist based in Netherlands, with 77 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Dublin and 11 more. Often billed alongside Benny Rodrigues, Boss Priester and Dennis Quin. Next up: Mono, Rotterdam on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Jesse Maas is a house and tech house artist based in Netherlands, tracked on sou
 
 ## Recently played
 
-- Thuishaven, Amsterdam — Sun, 20 Sept 2026
-- Toffler, Rotterdam — Sat, 19 Sept 2026
-- Whitehouse, The Hague — Sat, 5 Sept 2026
-- Shelter Amsterdam, Amsterdam — Fri, 28 Aug 2026
-- Het Sieraad, Amsterdam — Sat, 25 Jul 2026
-- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
-- 528 Ibiza, Ibiza — Sun, 5 Jul 2026
-- BRET, Amsterdam — Sat, 4 Jul 2026
+- Thuishaven, Amsterdam · Sun, 20 Sept 2026
+- Toffler, Rotterdam · Sat, 19 Sept 2026
+- Whitehouse, The Hague · Sat, 5 Sept 2026
+- Shelter Amsterdam, Amsterdam · Fri, 28 Aug 2026
+- Het Sieraad, Amsterdam · Sat, 25 Jul 2026
+- Hembrugterrein, Amsterdam · Sat, 11 Jul 2026
+- 528 Ibiza, Ibiza · Sun, 5 Jul 2026
+- BRET, Amsterdam · Sat, 4 Jul 2026
 
 ## Shares bills with
 

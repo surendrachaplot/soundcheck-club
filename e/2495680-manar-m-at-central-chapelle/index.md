@@ -1,6 +1,6 @@
 # MANARËM at Central Chapelle
 
-MANARËM at Central Chapelle on Thu 1 Oct, Paris. Electro. Preview the line-up and save it on soundcheck.
+MANARËM at Central Chapelle on Thu 1 Oct, Paris. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

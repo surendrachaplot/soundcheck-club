@@ -1,8 +1,8 @@
 # Olivia Lauren
 
-Olivia Lauren is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Monarch, San Francisco/Oakland on Sat, 24 Oct 2026.
+Olivia Lauren is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Monarch, San Francisco/Oakland on Sat, 24 Oct 2026.
 
-Olivia Lauren is a club and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across San Francisco/Oakland. Often billed alongside arktoi, ANDYLAND and ELA MENTAL. Next up: Monarch, San Francisco/Oakland on Sat 24 Oct.
+Olivia Lauren is a club and techno artist based in United States of America, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside arktoi, ANDYLAND and ELA MENTAL. Next up: Monarch, San Francisco/Oakland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Olivia Lauren is a club and techno artist based in United States of America, tra
 
 ## Recently played
 
-- The Stud, San Francisco/Oakland — Thu, 24 Sept 2026
-- Monarch, San Francisco/Oakland — Sat, 5 Sept 2026
-- The Cafe, San Francisco/Oakland — Thu, 20 Aug 2026
-- The Stud, San Francisco/Oakland — Thu, 30 Jul 2026
-- Public Works, San Francisco/Oakland — Fri, 12 Jun 2026
-- The Stud, San Francisco/Oakland — Thu, 4 Jun 2026
-- Monarch, San Francisco/Oakland — Fri, 29 May 2026
-- The Stud, San Francisco/Oakland — Sat, 9 May 2026
+- The Stud, San Francisco/Oakland · Thu, 24 Sept 2026
+- Monarch, San Francisco/Oakland · Sat, 5 Sept 2026
+- The Cafe, San Francisco/Oakland · Thu, 20 Aug 2026
+- The Stud, San Francisco/Oakland · Thu, 30 Jul 2026
+- Public Works, San Francisco/Oakland · Fri, 12 Jun 2026
+- The Stud, San Francisco/Oakland · Thu, 4 Jun 2026
+- Monarch, San Francisco/Oakland · Fri, 29 May 2026
+- The Stud, San Francisco/Oakland · Sat, 9 May 2026
 
 ## Shares bills with
 

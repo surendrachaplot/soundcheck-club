@@ -1,6 +1,6 @@
 # :Arctic groove connections: at Keith Bar
 
-:Arctic groove connections: at Keith Bar on Fri 2 Oct, Berlin. 1 artist on the bill: Robert Kalb. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+:Arctic groove connections: at Keith Bar on Fri 2 Oct, Berlin. 1 artist: Robert Kalb. Deep House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

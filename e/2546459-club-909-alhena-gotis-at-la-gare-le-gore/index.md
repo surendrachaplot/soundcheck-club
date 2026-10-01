@@ -1,6 +1,6 @@
 # CLUB 909: ALHENA & GOTIS at La Gare / Le Gore
 
-CLUB 909: ALHENA & GOTIS at La Gare / Le Gore on Sun 11 Oct, Paris. 2 artists on the bill: Alhena_ and GOTIS. Techno. Preview the line-up and save it on soundcheck.
+CLUB 909: ALHENA & GOTIS at La Gare / Le Gore on Sun 11 Oct, Paris. 2 artists: Alhena_ and GOTIS. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Grey Lantern presents: Maria BC at Yes
 
-Grey Lantern presents: Maria BC at Yes on Wed 4 Nov, Manchester. Ambient and Pop. Preview the line-up and save it on soundcheck.
+Grey Lantern presents: Maria BC at Yes on Wed 4 Nov, Manchester. Ambient and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

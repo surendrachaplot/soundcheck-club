@@ -1,8 +1,8 @@
 # Gforty
 
-Gforty is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Banja Luka, Berlin on Fri, 9 Oct 2026.
+Gforty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Banja Luka, Berlin on Fri, 9 Oct 2026.
 
-Gforty is a techno and house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside Guido Iacovitti, Bconscious and Jezero. Next up: Banja Luka, Berlin on Fri 9 Oct.
+Gforty is a techno and house artist based in Germany, with 20 gigs on soundcheck across Berlin. Often billed alongside Guido Iacovitti, Bconscious and Jezero. Next up: Banja Luka, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Gforty is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Banja Luka, Berlin — Sun, 21 Jun 2026
-- Crack Bellmer, Berlin — Fri, 12 Jun 2026
-- Marmorbar, Berlin — Sat, 16 May 2026
-- Renate, Berlin — Fri, 12 Dec 2025
-- Renate, Berlin — Fri, 5 Sept 2025
-- M01, Berlin — Fri, 5 Sept 2025
-- Crack Bellmer, Berlin — Sat, 28 Jun 2025
-- M01, Berlin — Fri, 4 Apr 2025
+- Banja Luka, Berlin · Sun, 21 Jun 2026
+- Crack Bellmer, Berlin · Fri, 12 Jun 2026
+- Marmorbar, Berlin · Sat, 16 May 2026
+- Renate, Berlin · Fri, 12 Dec 2025
+- Renate, Berlin · Fri, 5 Sept 2025
+- M01, Berlin · Fri, 5 Sept 2025
+- Crack Bellmer, Berlin · Sat, 28 Jun 2025
+- M01, Berlin · Fri, 4 Apr 2025
 
 ## Shares bills with
 

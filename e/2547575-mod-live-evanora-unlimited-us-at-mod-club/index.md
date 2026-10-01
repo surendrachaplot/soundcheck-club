@@ -1,6 +1,6 @@
 # MOD LIVE: EVANORA:UNLIMITED [US] at MOD Club
 
-MOD LIVE: EVANORA:UNLIMITED [US] at MOD Club on Sun 22 Nov, Tallinn. 1 artist on the bill: Evanora Unlimited. Preview the line-up and save it on soundcheck.
+MOD LIVE: EVANORA:UNLIMITED [US] at MOD Club on Sun 22 Nov, Tallinn. 1 artist: Evanora Unlimited. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

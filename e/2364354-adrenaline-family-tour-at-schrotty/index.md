@@ -1,6 +1,6 @@
 # Adrenaline Family Tour at Schrotty
 
-Adrenaline Family Tour at Schrotty on Fri 2 Oct, Cologne. 3 artists on the bill: Adrian Mills, Cloudy and KUKO. Techno. Preview the line-up and save it on soundcheck.
+Adrenaline Family Tour at Schrotty on Fri 2 Oct, Cologne. 3 artists: Adrian Mills, Cloudy and KUKO. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

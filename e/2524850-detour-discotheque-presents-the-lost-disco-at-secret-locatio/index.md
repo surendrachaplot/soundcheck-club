@@ -1,6 +1,6 @@
 # Detour Discotheque presents… The Lost Disco at Secret Location
 
-Detour Discotheque presents… The Lost Disco at Secret Location on Fri 30 Oct, London. Disco. Preview the line-up and save it on soundcheck.
+Detour Discotheque presents… The Lost Disco at Secret Location on Fri 30 Oct, London. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

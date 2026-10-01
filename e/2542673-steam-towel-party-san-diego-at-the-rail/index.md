@@ -1,6 +1,6 @@
 # STEAM Towel Party San Diego at The Rail
 
-STEAM Towel Party San Diego at The Rail on Fri 25 Dec, San Diego. Deep House and Disco. Preview the line-up and save it on soundcheck.
+STEAM Towel Party San Diego at The Rail on Fri 25 Dec, San Diego. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

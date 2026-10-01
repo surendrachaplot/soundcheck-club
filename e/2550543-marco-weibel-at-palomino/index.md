@@ -1,6 +1,6 @@
 # Marco Weibel at Palomino
 
-Marco Weibel at Palomino on Fri 2 Oct, Los Angeles. 1 artist on the bill: Marco Weibel. House and Disco. Preview the line-up and save it on soundcheck.
+Marco Weibel at Palomino on Fri 2 Oct, Los Angeles. 1 artist: Marco Weibel. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

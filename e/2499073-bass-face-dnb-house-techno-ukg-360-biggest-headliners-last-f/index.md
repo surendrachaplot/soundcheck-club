@@ -1,6 +1,6 @@
 # Bass Face // DNB, HOUSE:TECHNO, UKG // 360° *BIGGEST HEADLINERS*! LAST FREE TICKETS +FREE DRINK at Egg London
 
-Bass Face // DNB, HOUSE:TECHNO, UKG // 360° *BIGGEST HEADLINERS*! LAST FREE TICKETS +FREE DRINK at Egg London on Sat 17 Oct, London. Drum & Bass and Tech House. Preview the line-up and save it on soundcheck.
+Bass Face // DNB, HOUSE:TECHNO, UKG // 360° *BIGGEST HEADLINERS*! LAST FREE TICKETS +FREE DRINK at Egg London on Sat 17 Oct, London. Drum & Bass and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Maria BC + Brána at TBA - Alfred ve Dvoře
 
-Maria BC + Brána at TBA - Alfred ve Dvoře on Thu 19 Nov, Prague. Preview the line-up and save it on soundcheck.
+Maria BC + Brána at TBA - Alfred ve Dvoře on Thu 19 Nov, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

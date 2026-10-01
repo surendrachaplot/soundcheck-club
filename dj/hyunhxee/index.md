@@ -1,8 +1,8 @@
 # HYUNHXEE
 
-HYUNHXEE is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cakeshop, Seoul on Fri, 2 Oct 2026.
+HYUNHXEE is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cakeshop, Seoul on Fri, 2 Oct 2026.
 
-HYUNHXEE is a techno and electro artist based in South Korea, tracked on soundcheck, with 89 sets logged across Seoul and Tokyo. Often billed alongside Honn, DJ Co.kr and KIKOH. Next up: Cakeshop, Seoul on Fri 2 Oct.
+HYUNHXEE is a techno and electro artist based in South Korea, with 89 gigs on soundcheck across Seoul and Tokyo. Often billed alongside Honn, DJ Co.kr and KIKOH. Next up: Cakeshop, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ HYUNHXEE is a techno and electro artist based in South Korea, tracked on soundch
 
 ## Recently played
 
-- Bolero, Seoul — Fri, 25 Sept 2026
-- Bolero, Seoul — Fri, 25 Sept 2026
-- J.J. Mahoney's Bar, Seoul — Sat, 5 Sept 2026
-- Modeci, Seoul — Sat, 15 Aug 2026
-- Grain Haus, Seoul — Sat, 25 Jul 2026
-- Shelter, Seoul — Sat, 4 Jul 2026
-- Bolero, Seoul — Sat, 20 Jun 2026
-- Bolero, Seoul — Sat, 20 Jun 2026
+- Bolero, Seoul · Fri, 25 Sept 2026
+- Bolero, Seoul · Fri, 25 Sept 2026
+- J.J. Mahoney's Bar, Seoul · Sat, 5 Sept 2026
+- Modeci, Seoul · Sat, 15 Aug 2026
+- Grain Haus, Seoul · Sat, 25 Jul 2026
+- Shelter, Seoul · Sat, 4 Jul 2026
+- Bolero, Seoul · Sat, 20 Jun 2026
+- Bolero, Seoul · Sat, 20 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # We Are Not Brothers at LAUT
 
-We Are Not Brothers at LAUT on Sat 28 Nov, Barcelona. 1 artist on the bill: We Are Not Brothers. Industrial and Electronica. Preview the line-up and save it on soundcheck.
+We Are Not Brothers at LAUT on Sat 28 Nov, Barcelona. 1 artist: We Are Not Brothers. Industrial and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

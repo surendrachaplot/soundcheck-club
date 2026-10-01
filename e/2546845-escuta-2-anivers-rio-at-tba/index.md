@@ -1,6 +1,6 @@
 # à escuta - 2º aniversário at TBA
 
-à escuta - 2º aniversário at TBA on Sun 11 Oct, Lisbon. 1 artist on the bill: SALTI. Ambient and Jazz. Preview the line-up and save it on soundcheck.
+à escuta - 2º aniversário at TBA on Sun 11 Oct, Lisbon. 1 artist: SALTI. Ambient and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

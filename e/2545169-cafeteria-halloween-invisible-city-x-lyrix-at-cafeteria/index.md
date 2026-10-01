@@ -1,6 +1,6 @@
 # Cafeteria Halloween: Invisible City x LYRIX at Cafeteria
 
-Cafeteria Halloween: Invisible City x LYRIX on Sat 31 Oct, Toronto. Preview the line-up and save it on soundcheck.
+Cafeteria Halloween: Invisible City x LYRIX on Sat 31 Oct, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

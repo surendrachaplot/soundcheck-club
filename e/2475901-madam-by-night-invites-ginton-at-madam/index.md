@@ -1,6 +1,6 @@
 # Madam by Night invites: Ginton at Madam
 
-Madam by Night invites: Ginton on Sat 21 Nov, Amsterdam. Afro House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: Ginton on Sat 21 Nov, Amsterdam. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

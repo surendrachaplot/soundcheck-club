@@ -1,6 +1,6 @@
 # Renate's Halloween Klubnacht at Renate
 
-Renate's Halloween Klubnacht on Sat 31 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Renate's Halloween Klubnacht on Sat 31 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

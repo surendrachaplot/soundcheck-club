@@ -1,8 +1,8 @@
 # blo rida
 
-blo rida is a Bass and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Stage and Radio, Manchester on Sat, 3 Oct 2026.
+blo rida is a Bass and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stage and Radio, Manchester on Sat, 3 Oct 2026.
 
-blo rida is a bass and trance artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Bristol and Manchester. Often billed alongside Club Penguin, Ali Roche and MEMP3. Next up: Stage and Radio, Manchester on Sat 3 Oct.
+blo rida is a bass and trance artist based in United Kingdom, with 22 gigs on soundcheck across Bristol and Manchester. Often billed alongside Club Penguin, Ali Roche and MEMP3. Next up: Stage and Radio, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ blo rida is a bass and trance artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Thekla, Bristol — Fri, 11 Sept 2026
-- The DBA, Manchester — Sun, 30 Aug 2026
-- The DBA, Manchester — Fri, 21 Aug 2026
-- Stage and Radio, Manchester — Sat, 18 Jul 2026
-- Off The Square, Manchester — Thu, 11 Jun 2026
-- The Carlton Club, Manchester — Sat, 30 May 2026
-- The DBA, Manchester — Sat, 4 Apr 2026
-- Yes, Manchester — Sat, 7 Feb 2026
+- Thekla, Bristol · Fri, 11 Sept 2026
+- The DBA, Manchester · Sun, 30 Aug 2026
+- The DBA, Manchester · Fri, 21 Aug 2026
+- Stage and Radio, Manchester · Sat, 18 Jul 2026
+- Off The Square, Manchester · Thu, 11 Jun 2026
+- The Carlton Club, Manchester · Sat, 30 May 2026
+- The DBA, Manchester · Sat, 4 Apr 2026
+- Yes, Manchester · Sat, 7 Feb 2026
 
 ## Shares bills with
 

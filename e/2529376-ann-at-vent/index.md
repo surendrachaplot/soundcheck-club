@@ -1,6 +1,6 @@
 # ANNĒ at VENT
 
-ANNĒ at VENT on Fri 25 Dec, Tokyo. 1 artist on the bill: ANNĒ. Techno. Preview the line-up and save it on soundcheck.
+ANNĒ at VENT on Fri 25 Dec, Tokyo. 1 artist: ANNĒ. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

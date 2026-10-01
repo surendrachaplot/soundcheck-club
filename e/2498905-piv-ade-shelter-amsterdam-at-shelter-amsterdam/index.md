@@ -1,6 +1,6 @@
 # PIV ADE - Shelter Amsterdam at Shelter Amsterdam
 
-PIV ADE - Shelter Amsterdam on Thu 22 Oct, Amsterdam. 7 artists on the bill: Anil Aras, Cinthie, Daughter In Law and Julian Anthony and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+PIV ADE - Shelter Amsterdam on Thu 22 Oct, Amsterdam. 7 artists: Anil Aras, Cinthie, Daughter In Law and Julian Anthony and 3 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

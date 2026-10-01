@@ -1,8 +1,8 @@
 # The Globe, Glossop
 
-The Globe, Glossop is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "T.A.G.C. (Adi Newton // Clock DVA) at The Globe Glossop + SATØRI + COLOSSLOTH + LLYN Y CWN" on Sat, 3 Oct 2026.
+The Globe, Glossop is a music venue in Manchester with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "T.A.G.C. (Adi Newton // Clock DVA) at The Globe Glossop + SATØRI + COLOSSLOTH + LLYN Y CWN" on Sat, 3 Oct 2026.
 
-The Globe, Glossop is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Chilly (LDN), Conor Thomas, Faux Naif and Kode9. Browse upcoming dates, start times and who's playing. The Globe, 144 High St W, Glossop SK13 8HJ.
+The Globe, Glossop is a music venue in Manchester listed on soundcheck. 7 upcoming gigs, with line-ups including Chilly (LDN), Conor Thomas, Faux Naif and Kode9. See dates, start times and who's playing. The Globe, 144 High St W, Glossop SK13 8HJ.
 
 ## What's on
 

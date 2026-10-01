@@ -1,6 +1,6 @@
 # Matriarch Music Compilation Album Release Party at The Black Box
 
-Matriarch Music Compilation Album Release Party at The Black Box on Thu 29 Oct, Denver. Garage and Dubstep. Preview the line-up and save it on soundcheck.
+Matriarch Music Compilation Album Release Party at The Black Box on Thu 29 Oct, Denver. Garage and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

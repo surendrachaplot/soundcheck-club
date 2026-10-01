@@ -1,8 +1,8 @@
 # Acid Pauli
 
-Acid Pauli is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nordstern, Basel on Sat, 17 Oct 2026.
+Acid Pauli is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nordstern, Basel on Sat, 17 Oct 2026.
 
-Acid Pauli is a house and techno artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Nordstern, Basel on Sat 17 Oct.
+Acid Pauli is a house and techno artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Viken Arman, Damian Lazarus and Jonathan Kaspar. Next up: Nordstern, Basel on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Acid Pauli is a house and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Holdenweid, Basel — Fri, 4 Sept 2026
-- Studio Zürich, Zurich — Fri, 4 Sept 2026
-- Hangaren, Copenhagen — Thu, 27 Aug 2026
-- Chinois Ibiza, Ibiza — Sun, 23 Aug 2026
-- Fridas Pier, Stuttgart — Sat, 22 Aug 2026
-- Budapest Park, Budapest — Sat, 1 Aug 2026
-- Parque da Pasteleira, Porto — Fri, 3 Jul 2026
-- 3fifty Terrace, Detroit — Mon, 25 May 2026
+- Holdenweid, Basel · Fri, 4 Sept 2026
+- Studio Zürich, Zurich · Fri, 4 Sept 2026
+- Hangaren, Copenhagen · Thu, 27 Aug 2026
+- Chinois Ibiza, Ibiza · Sun, 23 Aug 2026
+- Fridas Pier, Stuttgart · Sat, 22 Aug 2026
+- Budapest Park, Budapest · Sat, 1 Aug 2026
+- Parque da Pasteleira, Porto · Fri, 3 Jul 2026
+- 3fifty Terrace, Detroit · Mon, 25 May 2026
 
 ## Shares bills with
 

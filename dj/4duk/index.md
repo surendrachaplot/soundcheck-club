@@ -1,8 +1,8 @@
 # 4D (UK)
 
-4D (UK) is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
+4D (UK) is a Electro and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kazimier Garden, Liverpool on Sat, 31 Oct 2026.
 
-4D (UK) is an electro and house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Aerofunk, Aly P and Kirwan. Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
+4D (UK) is an electro and house artist based in United Kingdom, with 33 gigs on soundcheck across Leeds, Liverpool, London and Manchester and 1 more. Often billed alongside Aerofunk, Aly P and Kirwan. Next up: Kazimier Garden, Liverpool on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@
 
 ## Recently played
 
-- Commune, Liverpool — Sat, 25 Jul 2026
-- Kapsule, Liverpool — Sat, 11 Jul 2026
-- TBA - FABRIC STUDIOS , Liverpool — Sat, 20 Jun 2026
-- All My Friends, London — Thu, 23 Apr 2026
-- Kapsule, Liverpool — Fri, 10 Apr 2026
-- TBA - Home Club - Quinze de Novembro 317 - 4º Andar - Centro Histórico de São Paulo, Sao Paulo — Sat, 21 Feb 2026
-- The DBA, Manchester — Sat, 6 Dec 2025
-- Parkinsons Books, Liverpool — Sat, 1 Nov 2025
+- Commune, Liverpool · Sat, 25 Jul 2026
+- Kapsule, Liverpool · Sat, 11 Jul 2026
+- TBA - FABRIC STUDIOS , Liverpool · Sat, 20 Jun 2026
+- All My Friends, London · Thu, 23 Apr 2026
+- Kapsule, Liverpool · Fri, 10 Apr 2026
+- TBA - Home Club - Quinze de Novembro 317 - 4º Andar - Centro Histórico de São Paulo, Sao Paulo · Sat, 21 Feb 2026
+- The DBA, Manchester · Sat, 6 Dec 2025
+- Parkinsons Books, Liverpool · Sat, 1 Nov 2025
 
 ## Shares bills with
 

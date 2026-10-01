@@ -1,6 +1,6 @@
 # Lara Sinclair at The Doghouse
 
-Lara Sinclair at The Doghouse on Fri 2 Oct, Edinburgh. 1 artist on the bill: Lara Sinclair. Bass. Preview the line-up and save it on soundcheck.
+Lara Sinclair at The Doghouse on Fri 2 Oct, Edinburgh. 1 artist: Lara Sinclair. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

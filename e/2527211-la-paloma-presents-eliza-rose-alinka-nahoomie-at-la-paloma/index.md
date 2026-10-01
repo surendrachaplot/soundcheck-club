@@ -1,6 +1,6 @@
 # La Paloma presents: Eliza Rose + Alinka + Nahoomie at La Paloma
 
-La Paloma presents: Eliza Rose + Alinka + Nahoomie on Fri 16 Oct, Barcelona. 3 artists on the bill: Alinka, Eliza Rose and Nahoomie. House and Disco. Preview the line-up and save it on soundcheck.
+La Paloma presents: Eliza Rose + Alinka + Nahoomie on Fri 16 Oct, Barcelona. 3 artists: Alinka, Eliza Rose and Nahoomie. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

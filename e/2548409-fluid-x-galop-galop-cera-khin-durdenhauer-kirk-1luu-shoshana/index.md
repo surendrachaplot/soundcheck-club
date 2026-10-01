@@ -1,6 +1,6 @@
 # FLUID x GALOP GALOP: Cera Khin, DURDENHAUER, Kirk, 1luu, Shoshana at Mia Mao
 
-FLUID x GALOP GALOP: Cera Khin, DURDENHAUER, Kirk, 1luu, Shoshana at Mia Mao on Sat 14 Nov, Paris. 3 artists on the bill: Cera Khin, DURDENHAUER and Kirk (US). Preview the line-up and save it on soundcheck.
+FLUID x GALOP GALOP: Cera Khin, DURDENHAUER, Kirk, 1luu, Shoshana at Mia Mao on Sat 14 Nov, Paris. 3 artists: Cera Khin, DURDENHAUER and Kirk (US). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

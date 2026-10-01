@@ -1,6 +1,6 @@
 # Selecta 039 at Sound Machine
 
-Selecta 039 at Sound Machine on Thu 22 Oct, Toronto. 1 artist on the bill: Shazami Rami. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Selecta 039 at Sound Machine on Thu 22 Oct, Toronto. 1 artist: Shazami Rami. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

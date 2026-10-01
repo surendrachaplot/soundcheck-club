@@ -1,6 +1,6 @@
 # Tommy Barlow at Headrow House
 
-Tommy Barlow at Headrow House on Thu 15 Oct, Leeds. Preview the line-up and save it on soundcheck.
+Tommy Barlow at Headrow House on Thu 15 Oct, Leeds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

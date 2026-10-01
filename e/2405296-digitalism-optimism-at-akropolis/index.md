@@ -1,6 +1,6 @@
 # Digitalism: Optimism at Akropolis
 
-Digitalism: Optimism at Akropolis on Sat 10 Oct, Prague. 1 artist on the bill: Digitalism. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Digitalism: Optimism at Akropolis on Sat 10 Oct, Prague. 1 artist: Digitalism. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

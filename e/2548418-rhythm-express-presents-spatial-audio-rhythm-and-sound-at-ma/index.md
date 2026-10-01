@@ -1,6 +1,6 @@
 # RHYTHM EXPRESS presents: Spatial Audio, Rhythm and Sound at Marmorbar
 
-RHYTHM EXPRESS presents: Spatial Audio, Rhythm and Sound at Marmorbar on Sat 10 Oct, Berlin. 4 artists on the bill: CBR (Berlin), KAT:10, Somme Farris and Viénce. House. Preview the line-up and save it on soundcheck.
+RHYTHM EXPRESS presents: Spatial Audio, Rhythm and Sound at Marmorbar on Sat 10 Oct, Berlin. 4 artists: CBR (Berlin), KAT:10, Somme Farris and Viénce. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

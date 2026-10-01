@@ -1,6 +1,6 @@
 # KlangKuenstler at Multiversum Schwechat
 
-KlangKuenstler at Multiversum Schwechat on Sat 12 Dec, Vienna. 4 artists on the bill: KAROLINA, KlangKuenstler, SHDW and Svetec. Techno. Preview the line-up and save it on soundcheck.
+KlangKuenstler at Multiversum Schwechat on Sat 12 Dec, Vienna. 4 artists: KAROLINA, KlangKuenstler, SHDW and Svetec. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

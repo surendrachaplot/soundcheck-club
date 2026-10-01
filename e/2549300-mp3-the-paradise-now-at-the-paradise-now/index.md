@@ -1,6 +1,6 @@
 # MP3 - The Paradise Now at The Paradise Now
 
-MP3 - The Paradise Now on Sat 3 Oct, Düsseldorf. House. Preview the line-up and save it on soundcheck.
+MP3 - The Paradise Now on Sat 3 Oct, Düsseldorf. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

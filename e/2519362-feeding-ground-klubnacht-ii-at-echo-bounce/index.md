@@ -1,6 +1,6 @@
 # Feeding Ground Klubnacht II at Echo & Bounce
 
-Feeding Ground Klubnacht II at Echo & Bounce on Sun 4 Oct, Brisbane. 2 artists on the bill: Josh Heywood and Public Nuisance. Techno. Preview the line-up and save it on soundcheck.
+Feeding Ground Klubnacht II at Echo & Bounce on Sun 4 Oct, Brisbane. 2 artists: Josh Heywood and Public Nuisance. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

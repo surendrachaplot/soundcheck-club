@@ -1,6 +1,6 @@
 # Heures ouvrables 006 - Amir day club at Amir Mont-Royal
 
-Heures ouvrables 006 - Amir day club at Amir Mont-Royal on Sat 17 Oct, Montreal. 2 artists on the bill: Arielle Roberge and Lex Ferenda. Preview the line-up and save it on soundcheck.
+Heures ouvrables 006 - Amir day club at Amir Mont-Royal on Sat 17 Oct, Montreal. 2 artists: Arielle Roberge and Lex Ferenda. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

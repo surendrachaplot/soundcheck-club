@@ -1,6 +1,6 @@
 # GOOSEBUMPS LDN - London's Craziest Halloween Party at The Cornershop Bar
 
-GOOSEBUMPS LDN - London's Craziest Halloween Party at The Cornershop Bar on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+GOOSEBUMPS LDN - London's Craziest Halloween Party at The Cornershop Bar on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

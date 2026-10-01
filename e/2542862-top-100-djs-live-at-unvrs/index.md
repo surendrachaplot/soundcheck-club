@@ -1,6 +1,6 @@
 # TOP 100 DJS LIVE at [UNVRS]
 
-TOP 100 DJS LIVE at [UNVRS] on Tue 6 Oct, Ibiza. 5 artists on the bill: Anastazja, Charlotte de Witte, Gordo and Korolova and 1 more. Preview the line-up and save it on soundcheck.
+TOP 100 DJS LIVE at [UNVRS] on Tue 6 Oct, Ibiza. 5 artists: Anastazja, Charlotte de Witte, Gordo and Korolova and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

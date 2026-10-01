@@ -1,6 +1,6 @@
 # Trax x Vice Experience at La Commune
 
-Trax x Vice Experience at La Commune on Thu 1 Oct, Lyon. 1 artist on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
+Trax x Vice Experience at La Commune on Thu 1 Oct, Lyon. 1 artist: Vice Experience. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

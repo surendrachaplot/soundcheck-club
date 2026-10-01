@@ -1,6 +1,6 @@
 # KULT pres. Derrick May at Kult
 
-KULT pres. Derrick May at Kult on Fri 16 Oct, Belgrade. 2 artists on the bill: Derrick May and Marko Milosavljevic. Techno and House. Preview the line-up and save it on soundcheck.
+KULT pres. Derrick May at Kult on Fri 16 Oct, Belgrade. 2 artists: Derrick May and Marko Milosavljevic. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

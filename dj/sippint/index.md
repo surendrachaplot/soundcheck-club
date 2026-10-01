@@ -1,8 +1,8 @@
 # Sippin' T
 
-Sippin' T is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ninety One, London on Sat, 3 Oct 2026.
+Sippin' T is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ninety One, London on Sat, 3 Oct 2026.
 
-Sippin' T is a techno and club artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Berlin, London, New York City and Sydney. Often billed alongside TEDESCO, THEMPRESS and GIDEÖN. Next up: Ninety One, London on Sat 3 Oct.
+Sippin' T is a techno and club artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, London, New York City and Sydney. Often billed alongside TEDESCO, THEMPRESS and GIDEÖN. Next up: Ninety One, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sippin' T is a techno and club artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- 83 Rivington Street, London — Thu, 17 Sept 2026
-- Hackney Bridge, London — Sun, 6 Sept 2026
-- Southwark Park, London — Sun, 30 Aug 2026
-- Jumbi, London — Thu, 6 Aug 2026
-- TBA - The Common Press Dalston, 97 Stoke Newington Road, London,  N16 8BX, London — Sun, 28 Jun 2026
-- Paragon, New York City — Sat, 9 May 2026
-- Manning Bar, Sydney — Sat, 28 Feb 2026
-- The Standard, London, London — Fri, 31 Oct 2025
+- 83 Rivington Street, London · Thu, 17 Sept 2026
+- Hackney Bridge, London · Sun, 6 Sept 2026
+- Southwark Park, London · Sun, 30 Aug 2026
+- Jumbi, London · Thu, 6 Aug 2026
+- TBA - The Common Press Dalston, 97 Stoke Newington Road, London,  N16 8BX, London · Sun, 28 Jun 2026
+- Paragon, New York City · Sat, 9 May 2026
+- Manning Bar, Sydney · Sat, 28 Feb 2026
+- The Standard, London, London · Fri, 31 Oct 2025
 
 ## Shares bills with
 

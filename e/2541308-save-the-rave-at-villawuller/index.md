@@ -1,6 +1,6 @@
 # Save the Rave at villaWuller
 
-Save the Rave at villaWuller on Sat 17 Oct, Rhineland Palatinate. 1 artist on the bill: Cryptofauna. Preview the line-up and save it on soundcheck.
+Save the Rave at villaWuller on Sat 17 Oct, Rhineland Palatinate. 1 artist: Cryptofauna. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Pily (2)
 
-Pily (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Pily (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Pily is a house and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Berlin, Chicago, Greece and Los Angeles and 4 more. Often billed alongside Dana Ruh, Steingold and Alex Dima. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Pily is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Berlin, Chicago, Greece and Los Angeles and 4 more. Often billed alongside Dana Ruh, Steingold and Alex Dima. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Pily is a house and techno artist based in United States of America, tracked on 
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Club der Visionaere, Berlin — Sat, 19 Sept 2026
-- Bar Franca, Los Angeles — Fri, 17 Jul 2026
-- Bar Franca, Los Angeles — Thu, 16 Jul 2026
-- TBA - Arts District, Los Angeles — Fri, 22 May 2026
-- TBA - Secret Location, Los Angeles — Sat, 28 Feb 2026
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 14 Feb 2026
-- TBA, Los Angeles — Fri, 7 Nov 2025
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Club der Visionaere, Berlin · Sat, 19 Sept 2026
+- Bar Franca, Los Angeles · Fri, 17 Jul 2026
+- Bar Franca, Los Angeles · Thu, 16 Jul 2026
+- TBA - Arts District, Los Angeles · Fri, 22 May 2026
+- TBA - Secret Location, Los Angeles · Sat, 28 Feb 2026
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 14 Feb 2026
+- TBA, Los Angeles · Fri, 7 Nov 2025
 
 ## Shares bills with
 

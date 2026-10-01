@@ -1,6 +1,6 @@
 # Hell On Earth - Massive 3YR Anniversary at Massive
 
-Hell On Earth - Massive 3YR Anniversary on Fri 30 Oct, Seattle. 3 artists on the bill: ACHAMA, estoc and Only Fire. Techno and Acid. Preview the line-up and save it on soundcheck.
+Hell On Earth - Massive 3YR Anniversary on Fri 30 Oct, Seattle. 3 artists: ACHAMA, estoc and Only Fire. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

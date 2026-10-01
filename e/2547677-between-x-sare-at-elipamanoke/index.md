@@ -1,6 +1,6 @@
 # between x SARE at elipamanoke
 
-between x SARE at elipamanoke on Wed 7 Oct, Leipzig. 1 artist on the bill: Finster. Techno. Preview the line-up and save it on soundcheck.
+between x SARE at elipamanoke on Wed 7 Oct, Leipzig. 1 artist: Finster. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

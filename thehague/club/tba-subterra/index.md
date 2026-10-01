@@ -1,8 +1,8 @@
 # TBA - Subterra
 
-TBA - Subterra is a music venue in The Hague with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Contact / spacelunch showcase" on Sat, 3 Oct 2026.
+TBA - Subterra is a music venue in The Hague with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Contact / spacelunch showcase" on Sat, 3 Oct 2026.
 
-TBA - Subterra is a music venue in The Hague listed on soundcheck. 1 upcoming gig, with line-ups including Kooscha, Noumena and Vinylkite aka Nicolò. Browse upcoming dates, start times and who's playing.
+TBA - Subterra is a music venue in The Hague listed on soundcheck. 1 upcoming gig, with line-ups including Kooscha, Noumena and Vinylkite aka Nicolò. See dates, start times and who's playing.
 
 ## What's on
 

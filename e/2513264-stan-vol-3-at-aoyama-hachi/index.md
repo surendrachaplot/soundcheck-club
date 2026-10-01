@@ -1,6 +1,6 @@
 # STAN vol.3 at Aoyama Hachi
 
-STAN vol.3 at Aoyama Hachi on Sat 3 Oct, Tokyo. Hip-Hop. Preview the line-up and save it on soundcheck.
+STAN vol.3 at Aoyama Hachi on Sat 3 Oct, Tokyo. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

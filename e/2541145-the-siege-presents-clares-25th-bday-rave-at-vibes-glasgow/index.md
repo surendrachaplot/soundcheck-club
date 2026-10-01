@@ -1,6 +1,6 @@
 # THE SIEGE : Presents - CLARES 25TH BDAY RAVE at Vibes Glasgow
 
-THE SIEGE : Presents - CLARES 25TH BDAY RAVE at Vibes Glasgow on Fri 9 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+THE SIEGE : Presents - CLARES 25TH BDAY RAVE at Vibes Glasgow on Fri 9 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

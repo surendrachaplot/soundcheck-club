@@ -1,6 +1,6 @@
 # All The Way Down with Nine of Wands at The Sound Lounge at Percy
 
-All The Way Down with Nine of Wands at The Sound Lounge at Percy on Fri 9 Oct, Philadelphia. 1 artist on the bill: Nine of Wands. Experimental. Preview the line-up and save it on soundcheck.
+All The Way Down with Nine of Wands at The Sound Lounge at Percy on Fri 9 Oct, Philadelphia. 1 artist: Nine of Wands. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

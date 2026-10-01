@@ -1,6 +1,6 @@
 # Global Based: Halloween II at TBA - Union Pine
 
-Global Based: Halloween II at TBA - Union Pine on Sat 31 Oct, Portland. 2 artists on the bill: BADSISTA and Brenda.. Baile Funk and Latin Bass. Preview the line-up and save it on soundcheck.
+Global Based: Halloween II at TBA - Union Pine on Sat 31 Oct, Portland. 2 artists: BADSISTA and Brenda.. Baile Funk and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

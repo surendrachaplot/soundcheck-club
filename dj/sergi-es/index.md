@@ -1,8 +1,8 @@
 # Sergi (ES)
 
-Sergi (ES) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
+Sergi (ES) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
 
-Sergi (ES) is a house and techno artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, Dublin and London and 1 more. Often billed alongside Demofather, LAUCY and Tamborero. Next up: TBA - Tibidabo Area, Barcelona on Sat 17 Oct.
+Sergi (ES) is a house and techno artist based in Spain, with 45 gigs on soundcheck across Barcelona, Berlin, Dublin and London and 1 more. Often billed alongside Demofather, LAUCY and Tamborero. Next up: TBA - Tibidabo Area, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sergi (ES) is a house and techno artist based in Spain, tracked on soundcheck, w
 
 ## Recently played
 
-- Heave Festival, Madrid — Fri, 25 Sept 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Thu, 28 May 2026
-- TBA - Caves Vilarnau, Sant Sadurní d'Anoia (30 min drive from BCN) / Bus Shuttle Available Soon, Barcelona — Sat, 11 Apr 2026
-- TBA - VRABA, Barcelona — Fri, 19 Dec 2025
-- Buena Onda Social Club, Barcelona — Sat, 26 Jul 2025
-- Les Enfants Brillants, Barcelona — Fri, 4 Jul 2025
-- TBA - SECRET OFF BEACH OASIS, Barcelona — Fri, 13 Jun 2025
-- Orlagh House, Dublin — Sat, 7 Jun 2025
+- Heave Festival, Madrid · Fri, 25 Sept 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Thu, 28 May 2026
+- TBA - Caves Vilarnau, Sant Sadurní d'Anoia (30 min drive from BCN) / Bus Shuttle Available Soon, Barcelona · Sat, 11 Apr 2026
+- TBA - VRABA, Barcelona · Fri, 19 Dec 2025
+- Buena Onda Social Club, Barcelona · Sat, 26 Jul 2025
+- Les Enfants Brillants, Barcelona · Fri, 4 Jul 2025
+- TBA - SECRET OFF BEACH OASIS, Barcelona · Fri, 13 Jun 2025
+- Orlagh House, Dublin · Sat, 7 Jun 2025
 
 ## Shares bills with
 

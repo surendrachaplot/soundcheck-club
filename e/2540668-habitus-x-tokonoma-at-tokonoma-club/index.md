@@ -1,6 +1,6 @@
 # HABITUS x TOKONOMA at Tokonoma Club
 
-HABITUS x TOKONOMA at Tokonoma Club on Fri 9 Oct, Frankfurt. 8 artists on the bill: ELSA (DE), Ignez, Mara Menace and Preta and 4 more. Techno. Preview the line-up and save it on soundcheck.
+HABITUS x TOKONOMA at Tokonoma Club on Fri 9 Oct, Frankfurt. 8 artists: ELSA (DE), Ignez, Mara Menace and Preta and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

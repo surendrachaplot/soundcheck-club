@@ -1,6 +1,6 @@
 # Mind Against at Savaya Bali
 
-Mind Against at Savaya Bali on Sat 5 Dec, Bali. 1 artist on the bill: Mind Against. House. Preview the line-up and save it on soundcheck.
+Mind Against at Savaya Bali on Sat 5 Dec, Bali. 1 artist: Mind Against. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

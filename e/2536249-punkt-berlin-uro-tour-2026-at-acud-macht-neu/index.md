@@ -1,6 +1,6 @@
 # punktò - BERLIN (€URO TOUR 2026) at Acud Macht NEU
 
-punktò - BERLIN (€URO TOUR 2026) at Acud Macht NEU on Thu 12 Nov, Berlin. New Wave and Electronica. Preview the line-up and save it on soundcheck.
+punktò - BERLIN (€URO TOUR 2026) at Acud Macht NEU on Thu 12 Nov, Berlin. New Wave and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

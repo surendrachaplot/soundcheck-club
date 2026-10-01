@@ -1,6 +1,6 @@
 # Project Nowhere 2026: Container + Lee Paradise + ONTARIO HOSPITAL + TWIN MASK at Bsmt 254
 
-Project Nowhere 2026: Container + Lee Paradise + ONTARIO HOSPITAL + TWIN MASK at Bsmt 254 on Sat 3 Oct, Toronto. 2 artists on the bill: Container and Lee Paradise. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Project Nowhere 2026: Container + Lee Paradise + ONTARIO HOSPITAL + TWIN MASK at Bsmt 254 on Sat 3 Oct, Toronto. 2 artists: Container and Lee Paradise. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

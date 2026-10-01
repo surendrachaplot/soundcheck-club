@@ -1,6 +1,6 @@
 # Sound Department 10 October with Ben Techy and Quest at Sound Department
 
-Sound Department 10 October with Ben Techy and Quest on Sat 10 Oct, South. 4 artists on the bill: Ben Techy, Fisherman, Quest and SELICATO. Preview the line-up and save it on soundcheck.
+Sound Department 10 October with Ben Techy and Quest on Sat 10 Oct, South. 4 artists: Ben Techy, Fisherman, Quest and SELICATO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

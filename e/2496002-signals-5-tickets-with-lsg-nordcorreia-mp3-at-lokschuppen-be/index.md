@@ -1,6 +1,6 @@
 # SIGNALS - 5€ Tickets - with LSG & nordcorreia.mp3 at Lokschuppen Berlin
 
-SIGNALS - 5€ Tickets - with LSG & nordcorreia.mp3 at Lokschuppen Berlin on Wed 16 Dec, Berlin. 2 artists on the bill: LSG and nordcorreia.mp3. Trance and Techno. Preview the line-up and save it on soundcheck.
+SIGNALS - 5€ Tickets - with LSG & nordcorreia.mp3 at Lokschuppen Berlin on Wed 16 Dec, Berlin. 2 artists: LSG and nordcorreia.mp3. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

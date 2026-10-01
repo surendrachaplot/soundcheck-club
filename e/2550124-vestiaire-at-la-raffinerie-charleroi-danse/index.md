@@ -1,6 +1,6 @@
 # Vestiaire at La Raffinerie / Charleroi danse
 
-Vestiaire at La Raffinerie / Charleroi danse on Sat 14 Nov, Brussels. Preview the line-up and save it on soundcheck.
+Vestiaire at La Raffinerie / Charleroi danse on Sat 14 Nov, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

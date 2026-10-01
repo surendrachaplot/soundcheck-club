@@ -1,6 +1,6 @@
 # The Bausa - ADE at Parallel
 
-The Bausa - ADE at Parallel on Wed 21 Oct, Amsterdam. House and Electronica. Preview the line-up and save it on soundcheck.
+The Bausa - ADE at Parallel on Wed 21 Oct, Amsterdam. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

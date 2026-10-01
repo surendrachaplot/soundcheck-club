@@ -1,6 +1,6 @@
 # LIBRA RISING: Aluna, Darling Cool, Niara Sterling at House of Yes
 
-LIBRA RISING: Aluna, Darling Cool, Niara Sterling at House of Yes on Sat 10 Oct, New York City. 3 artists on the bill: Aluna, Darling Cool and Niara Sterling. House and Deep House. Preview the line-up and save it on soundcheck.
+LIBRA RISING: Aluna, Darling Cool, Niara Sterling at House of Yes on Sat 10 Oct, New York City. 3 artists: Aluna, Darling Cool and Niara Sterling. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

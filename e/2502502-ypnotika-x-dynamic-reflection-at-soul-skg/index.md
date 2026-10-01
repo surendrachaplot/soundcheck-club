@@ -1,6 +1,6 @@
 # Ypnotika x Dynamic Reflection at Soul SKG
 
-Ypnotika x Dynamic Reflection at Soul SKG on Fri 30 Oct, Thessaloniki. 6 artists on the bill: Abstract Division, ASEC, Augusto Taito and Celestia and 2 more. Preview the line-up and save it on soundcheck.
+Ypnotika x Dynamic Reflection at Soul SKG on Fri 30 Oct, Thessaloniki. 6 artists: Abstract Division, ASEC, Augusto Taito and Celestia and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden at BASEMENT
 
-Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden at BASEMENT on Fri 9 Oct, New York City. 4 artists on the bill: ISAbella, Meilgaarden, Subb-an and Wata Igarashi. Preview the line-up and save it on soundcheck.
+Wata Igarashi all night long / ISAbella / Subb-an / Meilgaarden at BASEMENT on Fri 9 Oct, New York City. 4 artists: ISAbella, Meilgaarden, Subb-an and Wata Igarashi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

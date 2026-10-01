@@ -1,6 +1,6 @@
 # Seazed x Synpathy | Bounce, Hardtechno & Trance Night (2 Floors) at Void Club
 
-Seazed x Synpathy | Bounce, Hardtechno & Trance Night (2 Floors) at Void Club on Fri 9 Oct, Berlin. 12 artists on the bill: bbymeister, Brizze, cee_ohh and dööskopp and 8 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Seazed x Synpathy | Bounce, Hardtechno & Trance Night (2 Floors) at Void Club on Fri 9 Oct, Berlin. 12 artists: bbymeister, Brizze, cee_ohh and dööskopp and 8 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

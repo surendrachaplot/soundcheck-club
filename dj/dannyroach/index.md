@@ -1,8 +1,8 @@
 # Danny Roach
 
-Danny Roach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at AMT, Berlin on Fri, 13 Nov 2026.
+Danny Roach is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at AMT, Berlin on Fri, 13 Nov 2026.
 
-Danny Roach is a techno and house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Berlin, London and Manchester. Often billed alongside Deventi, INLIMEN and jardabpm. Next up: AMT, Berlin on Fri 13 Nov.
+Danny Roach is a techno and house artist based in United Kingdom, with 42 gigs on soundcheck across Berlin, London and Manchester. Often billed alongside Deventi, INLIMEN and jardabpm. Next up: AMT, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Danny Roach is a techno and house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Amber's, Manchester — Fri, 18 Sept 2026
-- Colour Factory, London — Sat, 12 Sept 2026
-- AMT, Berlin — Fri, 11 Sept 2026
-- The DBA, Manchester — Sat, 5 Sept 2026
-- The Star and Garter, Manchester — Sun, 30 Aug 2026
-- The DBA, Manchester — Sat, 22 Aug 2026
-- The DBA, Manchester — Sat, 8 Aug 2026
-- OXI, Berlin — Sat, 25 Jul 2026
+- Amber's, Manchester · Fri, 18 Sept 2026
+- Colour Factory, London · Sat, 12 Sept 2026
+- AMT, Berlin · Fri, 11 Sept 2026
+- The DBA, Manchester · Sat, 5 Sept 2026
+- The Star and Garter, Manchester · Sun, 30 Aug 2026
+- The DBA, Manchester · Sat, 22 Aug 2026
+- The DBA, Manchester · Sat, 8 Aug 2026
+- OXI, Berlin · Sat, 25 Jul 2026
 
 ## Shares bills with
 

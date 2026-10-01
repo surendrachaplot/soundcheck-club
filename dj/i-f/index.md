@@ -1,8 +1,8 @@
 # I-F
 
-I-F is a Disco and Italo Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Rachdingue, Barcelona on Sat, 10 Oct 2026.
+I-F is a Disco and Italo Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Rachdingue, Barcelona on Sat, 10 Oct 2026.
 
-I-F is a disco and italo disco artist based in Netherlands, tracked on soundcheck, with 90 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 16 more. Often billed alongside Intergalactic Gary, Marsman and Esther Dune. Next up: Rachdingue, Barcelona on Sat 10 Oct.
+I-F is a disco and italo disco artist based in Netherlands, with 90 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 16 more. Often billed alongside Intergalactic Gary, Marsman and Esther Dune. Next up: Rachdingue, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ I-F is a disco and italo disco artist based in Netherlands, tracked on soundchec
 
 ## Recently played
 
-- Inter-City, The Hague — Sat, 26 Sept 2026
-- Het Sieraad, Amsterdam — Fri, 25 Sept 2026
-- Lux Fragil, Lisbon — Fri, 18 Sept 2026
-- Sameheads, Berlin — Sat, 5 Sept 2026
-- Sameheads, Berlin — Sat, 5 Sept 2026
-- Phono Lake, Amsterdam — Sat, 18 Jul 2026
-- Beachclub Indigo, The Hague — Sat, 18 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 17 Jul 2026
+- Inter-City, The Hague · Sat, 26 Sept 2026
+- Het Sieraad, Amsterdam · Fri, 25 Sept 2026
+- Lux Fragil, Lisbon · Fri, 18 Sept 2026
+- Sameheads, Berlin · Sat, 5 Sept 2026
+- Sameheads, Berlin · Sat, 5 Sept 2026
+- Phono Lake, Amsterdam · Sat, 18 Jul 2026
+- Beachclub Indigo, The Hague · Sat, 18 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 17 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # BULTO TOY STORE - 24 OCT at TBA - Secret Location
 
-BULTO TOY STORE - 24 OCT at TBA - Secret Location on Sat 24 Oct, Bogot. 7 artists on the bill: Jose BB, LOLSNAKE, lost echoes (CO) and Moritz III and 3 more. Preview the line-up and save it on soundcheck.
+BULTO TOY STORE - 24 OCT at TBA - Secret Location on Sat 24 Oct, Bogot. 7 artists: Jose BB, LOLSNAKE, lost echoes (CO) and Moritz III and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

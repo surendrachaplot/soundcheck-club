@@ -1,6 +1,6 @@
 # RENDITIONS: A Night of Sade at XOYO
 
-RENDITIONS: A Night of Sade at XOYO on Sat 19 Dec, London. Funk / Soul. Preview the line-up and save it on soundcheck.
+RENDITIONS: A Night of Sade at XOYO on Sat 19 Dec, London. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

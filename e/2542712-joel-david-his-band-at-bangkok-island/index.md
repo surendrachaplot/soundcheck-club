@@ -1,6 +1,6 @@
 # JOEL DAVID & HIS BAND at Bangkok Island
 
-JOEL DAVID & HIS BAND at Bangkok Island on Sun 8 Nov, Bangkok. Preview the line-up and save it on soundcheck.
+JOEL DAVID & HIS BAND at Bangkok Island on Sun 8 Nov, Bangkok. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

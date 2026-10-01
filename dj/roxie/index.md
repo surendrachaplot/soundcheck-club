@@ -1,8 +1,8 @@
 # Roxie
 
-Roxie is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at CÉ LA VI, London on Sat, 3 Oct 2026.
+Roxie is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at CÉ LA VI, London on Sat, 3 Oct 2026.
 
-Roxie is a techno and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across London. Often billed alongside Roxie Li, Innerstice and Redfreya. Next up: CÉ LA VI, London on Sat 3 Oct.
+Roxie is a techno and house artist based in United Kingdom, with 25 gigs on soundcheck across London. Often billed alongside Roxie Li, Innerstice and Redfreya. Next up: CÉ LA VI, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Roxie is a techno and house artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- Lock Inn Camden, London — Sat, 6 Jun 2026
-- Gallery, London — Thu, 4 Jun 2026
-- E1, London — Fri, 22 May 2026
-- Selene | Helios, London — Sat, 13 Sept 2025
-- LA-YAM Rooftop, London — Sat, 2 Aug 2025
-- E1, London — Fri, 13 Jun 2025
-- High Lights - Barking Park, London — Fri, 6 Jun 2025
-- TBA, London — Fri, 14 Feb 2025
+- Lock Inn Camden, London · Sat, 6 Jun 2026
+- Gallery, London · Thu, 4 Jun 2026
+- E1, London · Fri, 22 May 2026
+- Selene | Helios, London · Sat, 13 Sept 2025
+- LA-YAM Rooftop, London · Sat, 2 Aug 2025
+- E1, London · Fri, 13 Jun 2025
+- High Lights - Barking Park, London · Fri, 6 Jun 2025
+- TBA, London · Fri, 14 Feb 2025
 
 ## Shares bills with
 

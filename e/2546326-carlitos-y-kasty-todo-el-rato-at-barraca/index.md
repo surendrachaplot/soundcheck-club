@@ -1,6 +1,6 @@
 # Carlitos y Kasty - Todo el rato at Barraca
 
-Carlitos y Kasty - Todo el rato at Barraca on Sat 23 Jan, Valencia. 5 artists on the bill: Carlos Pérez, Domen, K-Style and Lucas Cabello and 1 more. Preview the line-up and save it on soundcheck.
+Carlitos y Kasty - Todo el rato at Barraca on Sat 23 Jan, Valencia. 5 artists: Carlos Pérez, Domen, K-Style and Lucas Cabello and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

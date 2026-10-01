@@ -1,8 +1,8 @@
 # Forty Cats
 
-Forty Cats is a Progressive House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+Forty Cats is a Progressive House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
-Forty Cats is a progressive house and tech house artist based in Russia, tracked on soundcheck, with 5 sets logged across Amsterdam, Leeds, Mexico City and Tokyo. Often billed alongside AEMI, ATT and Anthony Pappa. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
+Forty Cats is a progressive house and tech house artist based in Russia, with 5 gigs on soundcheck across Amsterdam, Leeds, Mexico City and Tokyo. Often billed alongside AEMI, ATT and Anthony Pappa. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -13,9 +13,9 @@ Forty Cats is a progressive house and tech house artist based in Russia, tracked
 
 ## Recently played
 
-- R Lounge, Tokyo — Sat, 27 Jun 2026
-- La Marquesa, Mexico City — Sat, 2 May 2026
-- The Fibre Penthouse, Leeds — Fri, 10 Apr 2026
+- R Lounge, Tokyo · Sat, 27 Jun 2026
+- La Marquesa, Mexico City · Sat, 2 May 2026
+- The Fibre Penthouse, Leeds · Fri, 10 Apr 2026
 
 ## Shares bills with
 

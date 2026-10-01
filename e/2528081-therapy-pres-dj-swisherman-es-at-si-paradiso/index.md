@@ -1,6 +1,6 @@
 # Therapy pres. DJ SWISHERMAN [ES] at Si Paradiso
 
-Therapy pres. DJ SWISHERMAN [ES] at Si Paradiso on Fri 2 Oct, Perth. 1 artist on the bill: DJ SWISHERMAN. Preview the line-up and save it on soundcheck.
+Therapy pres. DJ SWISHERMAN [ES] at Si Paradiso on Fri 2 Oct, Perth. 1 artist: DJ SWISHERMAN. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Ploy
 
-Ploy is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Radio Radio, Amsterdam on Sat, 17 Oct 2026.
+Ploy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Radio Radio, Amsterdam on Sat, 17 Oct 2026.
 
-Ploy is a techno and house artist based in United Kingdom, tracked on soundcheck, with 128 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Batu, Parris and Ayesha. Next up: Radio Radio, Amsterdam on Sat 17 Oct.
+Ploy is a techno and house artist based in United Kingdom, with 128 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 32 more. Often billed alongside Batu, Parris and Ayesha. Next up: Radio Radio, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Ploy is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- TILLATEC, Amsterdam — Sat, 19 Sept 2026
-- FOLD, London — Fri, 18 Sept 2026
-- TILLATEC, Amsterdam — Sat, 29 Aug 2026
-- M.O.T, London — Fri, 14 Aug 2026
-- Strange Brew, Bristol — Sat, 8 Aug 2026
-- Sub Club, Glasgow — Fri, 19 Jun 2026
-- NDSM Docklands, Amsterdam — Sun, 14 Jun 2026
-- H0L0, New York City — Sat, 6 Jun 2026
+- TILLATEC, Amsterdam · Sat, 19 Sept 2026
+- FOLD, London · Fri, 18 Sept 2026
+- TILLATEC, Amsterdam · Sat, 29 Aug 2026
+- M.O.T, London · Fri, 14 Aug 2026
+- Strange Brew, Bristol · Sat, 8 Aug 2026
+- Sub Club, Glasgow · Fri, 19 Jun 2026
+- NDSM Docklands, Amsterdam · Sun, 14 Jun 2026
+- H0L0, New York City · Sat, 6 Jun 2026
 
 ## Shares bills with
 

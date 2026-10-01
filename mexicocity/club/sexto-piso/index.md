@@ -1,8 +1,8 @@
 # Sexto Piso
 
-Sexto Piso is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "CERDOS: PELONES Y RAPADOS" on Sat, 17 Oct 2026.
+Sexto Piso is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "CERDOS: PELONES Y RAPADOS" on Sat, 17 Oct 2026.
 
-Sexto Piso is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Benji Vega, Marc Homer and Skyshaker. Browse upcoming dates, start times and who's playing. Eje Central Lázaro Cárdenas 123, sexto piso, Centro, CDMX, 06000.
+Sexto Piso is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Benji Vega, Marc Homer and Skyshaker. See dates, start times and who's playing. Eje Central Lázaro Cárdenas 123, sexto piso, Centro, CDMX, 06000.
 
 ## What's on
 

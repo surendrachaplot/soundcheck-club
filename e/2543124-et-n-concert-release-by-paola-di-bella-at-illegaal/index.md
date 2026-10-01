@@ -1,6 +1,6 @@
 # ET_NÀ - Concert Release by Paola Di Bella at Illegaal
 
-ET_NÀ - Concert Release by Paola Di Bella at Illegaal on Fri 2 Oct, Brussels. Preview the line-up and save it on soundcheck.
+ET_NÀ - Concert Release by Paola Di Bella at Illegaal on Fri 2 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

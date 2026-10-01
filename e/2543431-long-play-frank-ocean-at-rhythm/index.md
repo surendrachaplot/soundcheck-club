@@ -1,6 +1,6 @@
 # Long Play: Frank Ocean at Rhythm
 
-Long Play: Frank Ocean at Rhythm on Thu 8 Oct, Toronto. Preview the line-up and save it on soundcheck.
+Long Play: Frank Ocean at Rhythm on Thu 8 Oct, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

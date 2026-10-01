@@ -1,6 +1,6 @@
 # Naked Grapes with Dimensionless Unity at Orangerie Neukölln
 
-Naked Grapes with Dimensionless Unity at Orangerie Neukölln on Thu 29 Oct, Berlin. House and Disco. Preview the line-up and save it on soundcheck.
+Naked Grapes with Dimensionless Unity at Orangerie Neukölln on Thu 29 Oct, Berlin. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Scareo x Boo Yourself: Danny Tenaglia at Stereo
 
-Scareo x Boo Yourself: Danny Tenaglia at Stereo on Sat 31 Oct, Montreal. 1 artist on the bill: Danny Tenaglia. Preview the line-up and save it on soundcheck.
+Scareo x Boo Yourself: Danny Tenaglia at Stereo on Sat 31 Oct, Montreal. 1 artist: Danny Tenaglia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

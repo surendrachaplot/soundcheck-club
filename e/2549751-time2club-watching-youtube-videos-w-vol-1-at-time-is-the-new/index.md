@@ -1,6 +1,6 @@
 # TIME2CLUB – WATCHING YOUTUBE VIDEOS W/ … [VOL. 1] at Time is the new space
 
-TIME2CLUB – WATCHING YOUTUBE VIDEOS W/ … [VOL. 1] at Time is the new space on Fri 9 Oct, Rotterdam. 2 artists on the bill: Helmond Lang and Rick Baguette. Preview the line-up and save it on soundcheck.
+TIME2CLUB – WATCHING YOUTUBE VIDEOS W/ … [VOL. 1] at Time is the new space on Fri 9 Oct, Rotterdam. 2 artists: Helmond Lang and Rick Baguette. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

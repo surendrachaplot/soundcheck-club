@@ -1,8 +1,8 @@
 # Südstern
 
-Südstern is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
+Südstern is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
 
-Südstern is a house and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Vienna. Often billed alongside Pilar Jordan, Lisatrix and MELLA MARA. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
+Südstern is a house and techno artist based in Germany, with 11 gigs on soundcheck across Berlin and Vienna. Often billed alongside Pilar Jordan, Lisatrix and MELLA MARA. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Südstern is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Humboldthain Club, Berlin — Fri, 11 Sept 2026
-- Klunkerkranich, Berlin — Fri, 3 Apr 2026
-- Badehaus Berlin, Berlin — Fri, 13 Mar 2026
-- ://about blank, Berlin — Sat, 7 Feb 2026
-- ://about blank, Berlin — Wed, 14 May 2025
-- Süss War Gestern, Berlin — Fri, 21 Mar 2025
-- Der Ponyhof, Vienna — Sat, 20 Jan 2024
-- FLUCC, Vienna — Thu, 11 Jan 2024
+- Humboldthain Club, Berlin · Fri, 11 Sept 2026
+- Klunkerkranich, Berlin · Fri, 3 Apr 2026
+- Badehaus Berlin, Berlin · Fri, 13 Mar 2026
+- ://about blank, Berlin · Sat, 7 Feb 2026
+- ://about blank, Berlin · Wed, 14 May 2025
+- Süss War Gestern, Berlin · Fri, 21 Mar 2025
+- Der Ponyhof, Vienna · Sat, 20 Jan 2024
+- FLUCC, Vienna · Thu, 11 Jan 2024
 
 ## Shares bills with
 

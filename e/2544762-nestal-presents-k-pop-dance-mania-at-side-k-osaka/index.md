@@ -1,6 +1,6 @@
 # NESTAL presents K-POP DANCE MANIA at Side:K Osaka
 
-NESTAL presents K-POP DANCE MANIA at Side:K Osaka on Sat 24 Oct, Osaka. House and Pop. Preview the line-up and save it on soundcheck.
+NESTAL presents K-POP DANCE MANIA at Side:K Osaka on Sat 24 Oct, Osaka. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Halloween 2026 at MÄX
 
-Halloween 2026 at MÄX on Sat 31 Oct, Zurich. Pop. Preview the line-up and save it on soundcheck.
+Halloween 2026 at MÄX on Sat 31 Oct, Zurich. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

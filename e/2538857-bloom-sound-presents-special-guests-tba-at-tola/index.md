@@ -1,6 +1,6 @@
 # Bloom Sound presents: Special Guests TBA at Tola
 
-Bloom Sound presents: Special Guests TBA at Tola on Sat 7 Nov, London. 4 artists on the bill: Brandon Tourle, Diego Gee, Jaden Pace and Wes Colstock. Tech House. Preview the line-up and save it on soundcheck.
+Bloom Sound presents: Special Guests TBA at Tola on Sat 7 Nov, London. 4 artists: Brandon Tourle, Diego Gee, Jaden Pace and Wes Colstock. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

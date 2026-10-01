@@ -1,8 +1,8 @@
 # Amowia
 
-Amowia is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KREUZWERK, Berlin on Sun, 11 Oct 2026.
+Amowia is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KREUZWERK, Berlin on Sun, 11 Oct 2026.
 
-Amowia is a house and techno artist based in Germany, tracked on soundcheck, with 27 sets logged across Berlin, Hamburg and Leipzig. Often billed alongside LIL RISK, Hanaby and Sparkly Pony. Next up: KREUZWERK, Berlin on Sun 11 Oct.
+Amowia is a house and techno artist based in Germany, with 27 gigs on soundcheck across Berlin, Hamburg and Leipzig. Often billed alongside LIL RISK, Hanaby and Sparkly Pony. Next up: KREUZWERK, Berlin on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Amowia is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Renate, Berlin — Fri, 25 Sept 2026
-- Georgia Bar, Berlin — Sat, 29 Aug 2026
-- ÆDEN x MARMORBAR: Fields & Spaces, Berlin — Sat, 25 Jul 2026
-- Refuge Worldwide / Niemetzstraße, Berlin — Wed, 15 Jul 2026
-- OXI, Berlin — Sat, 13 Jun 2026
-- Maaya, Berlin — Fri, 8 May 2026
-- YSY, Berlin — Thu, 2 Apr 2026
-- Slot, Hamburg — Sat, 28 Mar 2026
+- Renate, Berlin · Fri, 25 Sept 2026
+- Georgia Bar, Berlin · Sat, 29 Aug 2026
+- ÆDEN x MARMORBAR: Fields & Spaces, Berlin · Sat, 25 Jul 2026
+- Refuge Worldwide / Niemetzstraße, Berlin · Wed, 15 Jul 2026
+- OXI, Berlin · Sat, 13 Jun 2026
+- Maaya, Berlin · Fri, 8 May 2026
+- YSY, Berlin · Thu, 2 Apr 2026
+- Slot, Hamburg · Sat, 28 Mar 2026
 
 ## Shares bills with
 

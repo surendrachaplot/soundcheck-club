@@ -1,6 +1,6 @@
 # PlAN Z at Shibuya Club Ball
 
-PlAN Z at Shibuya Club Ball on Thu 8 Oct, Tokyo. 2 artists on the bill: AN and Oshi. House and Dub. Preview the line-up and save it on soundcheck.
+PlAN Z at Shibuya Club Ball on Thu 8 Oct, Tokyo. 2 artists: AN and Oshi. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

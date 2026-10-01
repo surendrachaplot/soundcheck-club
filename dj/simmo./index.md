@@ -1,8 +1,8 @@
 # Simmo.
 
-Simmo. is a Jungle and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gorilla, Manchester on Sat, 17 Oct 2026.
+Simmo. is a Jungle and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gorilla, Manchester on Sat, 17 Oct 2026.
 
-Simmo. is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Manchester. Often billed alongside Amelia Leigh, Sweetly and DAIZ. Next up: Gorilla, Manchester on Sat 17 Oct.
+Simmo. is a jungle and bass artist based in United Kingdom, with 7 gigs on soundcheck across Manchester. Often billed alongside Amelia Leigh, Sweetly and DAIZ. Next up: Gorilla, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -14,10 +14,10 @@ Simmo. is a jungle and bass artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- Amber's, Manchester — Fri, 25 Sept 2026
-- The Rose & Monkey, Manchester — Sat, 18 Jul 2026
-- The Bag Factory, Manchester — Fri, 19 Jun 2026
-- Stage and Radio, Manchester — Thu, 7 May 2026
+- Amber's, Manchester · Fri, 25 Sept 2026
+- The Rose & Monkey, Manchester · Sat, 18 Jul 2026
+- The Bag Factory, Manchester · Fri, 19 Jun 2026
+- Stage and Radio, Manchester · Thu, 7 May 2026
 
 ## Shares bills with
 

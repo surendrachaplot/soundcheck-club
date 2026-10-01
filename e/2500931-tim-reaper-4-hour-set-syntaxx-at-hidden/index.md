@@ -1,6 +1,6 @@
 # Tim Reaper (4 Hour Set) + Syntaxx at Hidden
 
-Tim Reaper (4 Hour Set) + Syntaxx at Hidden on Sat 17 Oct, Manchester. 1 artist on the bill: Tim Reaper. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Tim Reaper (4 Hour Set) + Syntaxx at Hidden on Sat 17 Oct, Manchester. 1 artist: Tim Reaper. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AG presents... Ziggy, Crossdresser, DJ Banjaxx, Space Candy and LUNAx3 at Space Studios
 
-AG presents... Ziggy, Crossdresser, DJ Banjaxx, Space Candy and LUNAx3 at Space Studios on Fri 9 Oct, South East. 2 artists on the bill: LUNAx3 and Space Candy. Preview the line-up and save it on soundcheck.
+AG presents... Ziggy, Crossdresser, DJ Banjaxx, Space Candy and LUNAx3 at Space Studios on Fri 9 Oct, South East. 2 artists: LUNAx3 and Space Candy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

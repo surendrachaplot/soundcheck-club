@@ -1,6 +1,6 @@
 # Sounds Like London: azz Grime at Ninety One
 
-Sounds Like London: azz Grime at Ninety One on Sat 14 Nov, London. 4 artists on the bill: Lily London, limi, NikNak and SI*BL. Grime and Jazz. Preview the line-up and save it on soundcheck.
+Sounds Like London: azz Grime at Ninety One on Sat 14 Nov, London. 4 artists: Lily London, limi, NikNak and SI*BL. Grime and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SV|BS presents EBM & Witch House I at Radio Bar
 
-SV|BS presents EBM & Witch House I at Radio Bar on Fri 16 Oct, Melbourne. EBM. Preview the line-up and save it on soundcheck.
+SV|BS presents EBM & Witch House I at Radio Bar on Fri 16 Oct, Melbourne. EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

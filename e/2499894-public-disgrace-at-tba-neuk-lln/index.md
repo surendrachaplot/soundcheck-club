@@ -1,6 +1,6 @@
 # Public Disgrace at TBA - Neukölln
 
-Public Disgrace at TBA - Neukölln on Sun 18 Oct, Berlin. 5 artists on the bill: DJ STRAIGHT GIRL, Ká (DE), NiKi K and SXCL and 1 more. Bass and Electro. Preview the line-up and save it on soundcheck.
+Public Disgrace at TBA - Neukölln on Sun 18 Oct, Berlin. 5 artists: DJ STRAIGHT GIRL, Ká (DE), NiKi K and SXCL and 1 more. Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

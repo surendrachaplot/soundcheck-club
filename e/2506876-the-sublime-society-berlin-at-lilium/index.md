@@ -1,6 +1,6 @@
 # The Sublime Society Berlin at LILIUM
 
-The Sublime Society Berlin at LILIUM on Wed 7 Oct, Berlin. Preview the line-up and save it on soundcheck.
+The Sublime Society Berlin at LILIUM on Wed 7 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

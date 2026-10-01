@@ -1,6 +1,6 @@
 # Birthday Groove by Natanael Megersa mit Casimir von Oettingen at Bahnwärter Thiel
 
-Birthday Groove by Natanael Megersa mit Casimir von Oettingen at Bahnwärter Thiel on Sat 10 Oct, Munich. 3 artists on the bill: Casimir von Oettingen, fuxia and Pascal Rudert. Preview the line-up and save it on soundcheck.
+Birthday Groove by Natanael Megersa mit Casimir von Oettingen at Bahnwärter Thiel on Sat 10 Oct, Munich. 3 artists: Casimir von Oettingen, fuxia and Pascal Rudert. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EN1GMACLUB HALLOWEEN at TBA - ENTITY powered by VOID ACOUSTCS
 
-EN1GMACLUB HALLOWEEN at TBA - ENTITY powered by VOID ACOUSTCS on Fri 30 Oct, Madrid. 7 artists on the bill: CH3LO, DISTORT (ES), Groovemami and HERMETICA and 3 more. Preview the line-up and save it on soundcheck.
+EN1GMACLUB HALLOWEEN at TBA - ENTITY powered by VOID ACOUSTCS on Fri 30 Oct, Madrid. 7 artists: CH3LO, DISTORT (ES), Groovemami and HERMETICA and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

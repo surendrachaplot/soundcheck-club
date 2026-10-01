@@ -1,6 +1,6 @@
 # La Parade at La Marquise
 
-La Parade at La Marquise on Wed 18 Nov, Lyon. Pop. Preview the line-up and save it on soundcheck.
+La Parade at La Marquise on Wed 18 Nov, Lyon. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # R&B On A Saturday - Shoreditch Free RnB Party at The Cornershop Bar
 
-R&B On A Saturday - Shoreditch Free RnB Party at The Cornershop Bar on Sat 10 Oct, London. Preview the line-up and save it on soundcheck.
+R&B On A Saturday - Shoreditch Free RnB Party at The Cornershop Bar on Sat 10 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

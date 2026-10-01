@@ -1,6 +1,6 @@
 # LATE SHIFT LAUNCHING PARTY at Parlay E18
 
-LATE SHIFT LAUNCHING PARTY at Parlay E18 on Sat 28 Nov, London. House and Tech House. Preview the line-up and save it on soundcheck.
+LATE SHIFT LAUNCHING PARTY at Parlay E18 on Sat 28 Nov, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # rogergoon at Botanique
 
-rogergoon at Botanique on Thu 8 Oct, Brussels. Electro. Preview the line-up and save it on soundcheck.
+rogergoon at Botanique on Thu 8 Oct, Brussels. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

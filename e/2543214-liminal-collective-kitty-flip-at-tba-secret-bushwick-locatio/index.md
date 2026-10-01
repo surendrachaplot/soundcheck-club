@@ -1,6 +1,6 @@
 # Liminal Collective: Kitty Flip at TBA - Secret Bushwick Location 
 
-Liminal Collective: Kitty Flip at TBA - Secret Bushwick Location  on Sat 5 Dec, New York City. 3 artists on the bill: ACIDMOM, baby-g and Chillosophy. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Liminal Collective: Kitty Flip at TBA - Secret Bushwick Location  on Sat 5 Dec, New York City. 3 artists: ACIDMOM, baby-g and Chillosophy. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

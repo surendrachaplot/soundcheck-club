@@ -1,6 +1,6 @@
 # Suwannee Hulaween 2026 - Passcode RAVEFAM at Spirit of the Suwannee Music Park
 
-Suwannee Hulaween 2026 - Passcode RAVEFAM at Spirit of the Suwannee Music Park on Thu 22 Oct, Jacksonville. 29 artists on the bill: AK SPORTS, Baalti, Ben Böhmer and Big Gigantic and 25 more. Preview the line-up and save it on soundcheck.
+Suwannee Hulaween 2026 - Passcode RAVEFAM at Spirit of the Suwannee Music Park on Thu 22 Oct, Jacksonville. 29 artists: AK SPORTS, Baalti, Ben Böhmer and Big Gigantic and 25 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

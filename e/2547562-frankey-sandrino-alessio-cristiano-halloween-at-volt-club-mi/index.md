@@ -1,6 +1,6 @@
 # Frankey & Sandrino + Alessio Cristiano (HALLOWEEN) at Volt Club Milano
 
-Frankey & Sandrino + Alessio Cristiano (HALLOWEEN) at Volt Club Milano on Sat 31 Oct, Milan. 2 artists on the bill: Alessio Cristiano and Frankey & Sandrino. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Frankey & Sandrino + Alessio Cristiano (HALLOWEEN) at Volt Club Milano on Sat 31 Oct, Milan. 2 artists: Alessio Cristiano and Frankey & Sandrino. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

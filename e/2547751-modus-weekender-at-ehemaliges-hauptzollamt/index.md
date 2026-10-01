@@ -1,6 +1,6 @@
 # Modus Weekender at Ehemaliges Hauptzollamt
 
-Modus Weekender at Ehemaliges Hauptzollamt on Fri 30 Oct, Hamburg. 11 artists on the bill: Britta Arnold, Convinzed, Denis Horvat and Innellea and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+Modus Weekender at Ehemaliges Hauptzollamt on Fri 30 Oct, Hamburg. 11 artists: Britta Arnold, Convinzed, Denis Horvat and Innellea and 7 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

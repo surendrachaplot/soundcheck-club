@@ -1,6 +1,6 @@
 # Rave Princess - Another Year of Reign at Stage and Radio
 
-Rave Princess - Another Year of Reign at Stage and Radio on Sat 10 Oct, Manchester. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Rave Princess - Another Year of Reign at Stage and Radio on Sat 10 Oct, Manchester. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

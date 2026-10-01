@@ -1,6 +1,6 @@
 # PROJECT PLAYLIST × AIRTIME at Celeste
 
-PROJECT PLAYLIST × AIRTIME at Celeste on Fri 16 Oct, Vienna. 3 artists on the bill: Altroy Jerome, Malounadou and Nick Hanzo. Preview the line-up and save it on soundcheck.
+PROJECT PLAYLIST × AIRTIME at Celeste on Fri 16 Oct, Vienna. 3 artists: Altroy Jerome, Malounadou and Nick Hanzo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

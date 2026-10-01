@@ -1,6 +1,6 @@
 # KOKO Electronic x The Moment: WhoMadeWho (Sat 28th, Hybrid DJ Set) at KOKO
 
-KOKO Electronic x The Moment: WhoMadeWho (Sat 28th, Hybrid DJ Set) on Sat 28 Nov, London. 1 artist on the bill: WhoMadeWho. Preview the line-up and save it on soundcheck.
+KOKO Electronic x The Moment: WhoMadeWho (Sat 28th, Hybrid DJ Set) on Sat 28 Nov, London. 1 artist: WhoMadeWho. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Manic.Monday with Fineberg at Minimal Bar
 
-Manic.Monday with Fineberg at Minimal Bar on Mon 19 Oct, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Manic.Monday with Fineberg at Minimal Bar on Mon 19 Oct, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

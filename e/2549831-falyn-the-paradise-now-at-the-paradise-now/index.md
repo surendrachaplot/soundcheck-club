@@ -1,6 +1,6 @@
 # FALYN - The Paradise Now at The Paradise Now
 
-FALYN - The Paradise Now on Sat 24 Oct, Düsseldorf. 2 artists on the bill: David Christopher and FALYN. House and Afro House. Preview the line-up and save it on soundcheck.
+FALYN - The Paradise Now on Sat 24 Oct, Düsseldorf. 2 artists: David Christopher and FALYN. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Luch (All Night Long) at Stereo
 
-Luch (All Night Long) at Stereo on Sat 24 Oct, Montreal. Preview the line-up and save it on soundcheck.
+Luch (All Night Long) at Stereo on Sat 24 Oct, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

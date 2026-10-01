@@ -1,6 +1,6 @@
 # KVLT presents: Kode9 (Hyperdub) at The Globe, Glossop
 
-KVLT presents: Kode9 (Hyperdub) at The Globe, Glossop on Fri 23 Oct, Manchester. 1 artist on the bill: Kode9. Experimental and Footwork. Preview the line-up and save it on soundcheck.
+KVLT presents: Kode9 (Hyperdub) at The Globe, Glossop on Fri 23 Oct, Manchester. 1 artist: Kode9. Experimental and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

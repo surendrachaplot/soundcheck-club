@@ -1,6 +1,6 @@
 # Sounds Like London: UK Jazz Dance Special w/ Tim Garcia at Ninety One
 
-Sounds Like London: UK Jazz Dance Special w/ Tim Garcia at Ninety One on Sat 21 Nov, London. 2 artists on the bill: candice a.m and Tim Garcia. Jazz. Preview the line-up and save it on soundcheck.
+Sounds Like London: UK Jazz Dance Special w/ Tim Garcia at Ninety One on Sat 21 Nov, London. 2 artists: candice a.m and Tim Garcia. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

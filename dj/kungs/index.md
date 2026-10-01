@@ -1,8 +1,8 @@
 # Kungs
 
-Kungs is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 9 Oct 2026.
+Kungs is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Fri, 9 Oct 2026.
 
-Kungs is a house and disco artist based in France, tracked on soundcheck, with 28 sets logged across Austin, Barcelona, Berlin and Chicago and 13 more. Often billed alongside CHRIS STASSY, Isa Rojas and Purple Disco Machine. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 9 Oct.
+Kungs is a house and disco artist based in France, with 28 gigs on soundcheck across Austin, Barcelona, Berlin and Chicago and 13 more. Often billed alongside CHRIS STASSY, Isa Rojas and Purple Disco Machine. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kungs is a house and disco artist based in France, tracked on soundcheck, with 2
 
 ## Recently played
 
-- Pacha Ibiza, Ibiza — Thu, 27 Aug 2026
-- Frontón Bucareli, Mexico City — Fri, 26 Jun 2026
-- Ritter Butzke, Berlin — Fri, 14 Nov 2025
-- Nitsa Club, Barcelona — Sat, 1 Nov 2025
-- TBA - Fiducial Astéria, Lyon — Thu, 30 Oct 2025
-- UNLOCKED, London — Sat, 11 Oct 2025
-- Hippodrome de Vincennes, Paris — Sat, 4 Oct 2025
-- Parc del Fòrum, Barcelona — Thu, 7 Aug 2025
+- Pacha Ibiza, Ibiza · Thu, 27 Aug 2026
+- Frontón Bucareli, Mexico City · Fri, 26 Jun 2026
+- Ritter Butzke, Berlin · Fri, 14 Nov 2025
+- Nitsa Club, Barcelona · Sat, 1 Nov 2025
+- TBA - Fiducial Astéria, Lyon · Thu, 30 Oct 2025
+- UNLOCKED, London · Sat, 11 Oct 2025
+- Hippodrome de Vincennes, Paris · Sat, 4 Oct 2025
+- Parc del Fòrum, Barcelona · Thu, 7 Aug 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Loose Sessions at Eastern Bloc Records
 
-Loose Sessions at Eastern Bloc Records on Sat 17 Oct, Manchester. House and Tech House. Preview the line-up and save it on soundcheck.
+Loose Sessions at Eastern Bloc Records on Sat 17 Oct, Manchester. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

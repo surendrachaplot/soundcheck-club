@@ -1,8 +1,8 @@
 # The Corner
 
-The Corner is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Night Shift" on Fri, 2 Oct 2026.
+The Corner is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Night Shift" on Fri, 2 Oct 2026.
 
-The Corner is a music venue in Miami listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1035 N Miami Ave, Miami, FL 33136, United States.
+The Corner is a music venue in Miami listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1035 N Miami Ave, Miami, FL 33136, United States.
 
 ## What's on
 

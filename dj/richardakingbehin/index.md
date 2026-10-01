@@ -1,8 +1,8 @@
 # Richard Akingbehin
 
-Richard Akingbehin is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gaffe, London on Fri, 16 Oct 2026.
+Richard Akingbehin is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gaffe, London on Fri, 16 Oct 2026.
 
-Richard Akingbehin is a techno and house artist based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Tikiman, Fadi Mohem and livwutang. Next up: Gaffe, London on Fri 16 Oct.
+Richard Akingbehin is a techno and house artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 28 more. Often billed alongside Tikiman, Fadi Mohem and livwutang. Next up: Gaffe, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Richard Akingbehin is a techno and house artist based in United Kingdom, tracked
 
 ## Recently played
 
-- Open Ground, Wuppertal — Sat, 26 Sept 2026
-- OHM, Berlin — Fri, 25 Sept 2026
-- TBA, Montreal — Sun, 20 Sept 2026
-- UMI, Brussels — Fri, 11 Sept 2026
-- Barragem da Queimadela, Porto — Thu, 10 Sept 2026
-- Blå, Oslo — Sat, 22 Aug 2026
-- Blå, Oslo — Sat, 22 Aug 2026
-- Palais, London — Sat, 8 Aug 2026
+- Open Ground, Wuppertal · Sat, 26 Sept 2026
+- OHM, Berlin · Fri, 25 Sept 2026
+- TBA, Montreal · Sun, 20 Sept 2026
+- UMI, Brussels · Fri, 11 Sept 2026
+- Barragem da Queimadela, Porto · Thu, 10 Sept 2026
+- Blå, Oslo · Sat, 22 Aug 2026
+- Blå, Oslo · Sat, 22 Aug 2026
+- Palais, London · Sat, 8 Aug 2026
 
 ## Shares bills with
 

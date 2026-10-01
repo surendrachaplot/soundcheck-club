@@ -1,6 +1,6 @@
 # Zen plays at migas at migas, a listening bar
 
-Zen plays at migas at migas, a listening bar on Fri 9 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Zen plays at migas at migas, a listening bar on Fri 9 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

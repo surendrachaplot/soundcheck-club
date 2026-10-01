@@ -1,6 +1,6 @@
 # ABOVE feat. GUDFELLA — November 14 at The Ivy
 
-ABOVE feat. GUDFELLA — November 14 at The Ivy on Sat 14 Nov, Sydney. Preview the line-up and save it on soundcheck.
+ABOVE feat. GUDFELLA — November 14 at The Ivy on Sat 14 Nov, Sydney. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

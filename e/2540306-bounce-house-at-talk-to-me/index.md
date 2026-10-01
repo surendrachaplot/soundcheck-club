@@ -1,6 +1,6 @@
 # Bounce House at Talk to Me
 
-Bounce House at Talk to Me on Fri 16 Oct, Melbourne. Club and Minimal Techno. Preview the line-up and save it on soundcheck.
+Bounce House at Talk to Me on Fri 16 Oct, Melbourne. Club and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

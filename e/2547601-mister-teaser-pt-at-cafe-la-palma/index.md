@@ -1,6 +1,6 @@
 # Mister Teaser (PT) at Cafe La Palma
 
-Mister Teaser (PT) at Cafe La Palma on Thu 5 Nov, Madrid. 1 artist on the bill: Mister Teaser. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Mister Teaser (PT) at Cafe La Palma on Thu 5 Nov, Madrid. 1 artist: Mister Teaser. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

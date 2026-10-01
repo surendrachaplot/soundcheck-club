@@ -1,6 +1,6 @@
 # Space Cadet DRS, DJ Flight, Anile, SL8R at Hare & Hounds
 
-Space Cadet DRS, DJ Flight, Anile, SL8R at Hare & Hounds on Sat 3 Oct, Birmingham. 3 artists on the bill: DJ Flight, DRS and SL8R. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Space Cadet DRS, DJ Flight, Anile, SL8R at Hare & Hounds on Sat 3 Oct, Birmingham. 3 artists: DJ Flight, DRS and SL8R. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

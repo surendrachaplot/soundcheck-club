@@ -1,6 +1,6 @@
 # Vinyl Euphoria meets Digital Damage and Launches Psyphoria at Basing House
 
-Vinyl Euphoria meets Digital Damage and Launches Psyphoria at Basing House on Sat 3 Oct, London. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+Vinyl Euphoria meets Digital Damage and Launches Psyphoria at Basing House on Sat 3 Oct, London. Trance and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

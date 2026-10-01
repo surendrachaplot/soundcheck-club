@@ -1,6 +1,6 @@
 # SUBSTRATA -HALLOWEEN EDITION - at DJ Bar Bridge Shinjuku
 
-SUBSTRATA -HALLOWEEN EDITION - at DJ Bar Bridge Shinjuku on Fri 30 Oct, Tokyo. 3 artists on the bill: 1-DRINK, Maryisonacid and MAYUDEPTH. House. Preview the line-up and save it on soundcheck.
+SUBSTRATA -HALLOWEEN EDITION - at DJ Bar Bridge Shinjuku on Fri 30 Oct, Tokyo. 3 artists: 1-DRINK, Maryisonacid and MAYUDEPTH. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

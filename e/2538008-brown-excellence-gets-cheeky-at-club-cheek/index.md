@@ -1,6 +1,6 @@
 # Brown Excellence gets Cheeky at Club Cheek
 
-Brown Excellence gets Cheeky at Club Cheek on Fri 9 Oct, London. Funk / Soul and Hard Drum. Preview the line-up and save it on soundcheck.
+Brown Excellence gets Cheeky at Club Cheek on Fri 9 Oct, London. Funk / Soul and Hard Drum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # SP:MC
 
-SP:MC is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+SP:MC is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-SP:MC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Auckland and Basel and 22 more. Often billed alongside Skeptical, Alix Perez and Breakage. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+SP:MC is a drum & bass and jungle artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Basel and 22 more. Often billed alongside Skeptical, Alix Perez and Breakage. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ SP:MC is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- EartH, London — Fri, 25 Sept 2026
-- Colour Factory, London — Fri, 11 Sept 2026
-- Open Ground, Wuppertal — Sat, 5 Sept 2026
-- Outernet Live, London — Fri, 4 Sept 2026
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- Club Colette, Birmingham — Fri, 28 Aug 2026
-- A38, Budapest — Wed, 19 Aug 2026
-- TRAUM, Antwerp — Fri, 14 Aug 2026
+- EartH, London · Fri, 25 Sept 2026
+- Colour Factory, London · Fri, 11 Sept 2026
+- Open Ground, Wuppertal · Sat, 5 Sept 2026
+- Outernet Live, London · Fri, 4 Sept 2026
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- Club Colette, Birmingham · Fri, 28 Aug 2026
+- A38, Budapest · Wed, 19 Aug 2026
+- TRAUM, Antwerp · Fri, 14 Aug 2026
 
 ## Shares bills with
 

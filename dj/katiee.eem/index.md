@@ -1,8 +1,8 @@
 # Katiee.eem
 
-Katiee.eem is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Oh Yeah Centre, Belfast on Sat, 31 Oct 2026.
+Katiee.eem is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Oh Yeah Centre, Belfast on Sat, 31 Oct 2026.
 
-Katiee.eem is a house and trance artist based in Ireland, tracked on soundcheck, with 16 sets logged across Belfast, Berlin and Glasgow. Often billed alongside Popper Cherry, T4T B2B and Bonzai Bonner. Next up: The Oh Yeah Centre, Belfast on Sat 31 Oct.
+Katiee.eem is a house and trance artist based in Ireland, with 16 gigs on soundcheck across Belfast, Berlin and Glasgow. Often billed alongside Popper Cherry, T4T B2B and Bonzai Bonner. Next up: The Oh Yeah Centre, Belfast on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Katiee.eem is a house and trance artist based in Ireland, tracked on soundcheck,
 
 ## Recently played
 
-- The Ulster Sports Club, Belfast — Sat, 12 Sept 2026
-- Oh Yeah Music Centre, Belfast — Sat, 5 Sept 2026
-- The Oh Yeah Centre, Belfast — Sat, 25 Jul 2026
-- The Berkeley Suite, Glasgow — Sat, 18 Jul 2026
-- TBA - SECRET LOCATION, Belfast — Sat, 18 Apr 2026
-- The Oh Yeah Centre, Belfast — Sat, 14 Feb 2026
-- TBA - Belfast, Belfast — Sat, 29 Nov 2025
-- The Berkeley Suite, Glasgow — Sat, 15 Nov 2025
+- The Ulster Sports Club, Belfast · Sat, 12 Sept 2026
+- Oh Yeah Music Centre, Belfast · Sat, 5 Sept 2026
+- The Oh Yeah Centre, Belfast · Sat, 25 Jul 2026
+- The Berkeley Suite, Glasgow · Sat, 18 Jul 2026
+- TBA - SECRET LOCATION, Belfast · Sat, 18 Apr 2026
+- The Oh Yeah Centre, Belfast · Sat, 14 Feb 2026
+- TBA - Belfast, Belfast · Sat, 29 Nov 2025
+- The Berkeley Suite, Glasgow · Sat, 15 Nov 2025
 
 ## Shares bills with
 

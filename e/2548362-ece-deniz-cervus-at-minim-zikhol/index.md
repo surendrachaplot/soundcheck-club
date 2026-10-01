@@ -1,6 +1,6 @@
 # Ece Deniz / Cervus at Minimüzikhol
 
-Ece Deniz / Cervus at Minimüzikhol on Sat 3 Oct, Istanbul. 1 artist on the bill: Subsky. Preview the line-up and save it on soundcheck.
+Ece Deniz / Cervus at Minimüzikhol on Sat 3 Oct, Istanbul. 1 artist: Subsky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

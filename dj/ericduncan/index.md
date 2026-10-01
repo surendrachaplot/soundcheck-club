@@ -1,8 +1,8 @@
 # Eric Duncan
 
-Eric Duncan is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Siwilai Radical Club, Bangkok on Fri, 2 Oct 2026.
+Eric Duncan is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Siwilai Radical Club, Bangkok on Fri, 2 Oct 2026.
 
-Eric Duncan is a house and disco artist based in United States of America, tracked on soundcheck, with 56 sets logged across Athens, Bangkok, Belgrade and Berlin and 18 more. Often billed alongside FFAN, Monkey Timers and YOSHIHAARAA. Next up: Siwilai Radical Club, Bangkok on Fri 2 Oct.
+Eric Duncan is a house and disco artist based in United States of America, with 56 gigs on soundcheck across Athens, Bangkok, Belgrade and Berlin and 18 more. Often billed alongside FFAN, Monkey Timers and YOSHIHAARAA. Next up: Siwilai Radical Club, Bangkok on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Eric Duncan is a house and disco artist based in United States of America, track
 
 ## Recently played
 
-- The Eagle, London — Sun, 2 Aug 2026
-- Karmakoma, Belgrade — Sat, 18 Jul 2026
-- Kater, Berlin — Fri, 26 Jun 2026
-- Sunshine Grove, Miami — Thu, 19 Mar 2026
-- Kiku Room, San Diego — Thu, 12 Mar 2026
-- MiMi Discoteque, Mexico City — Wed, 18 Feb 2026
-- ROCA HIFI, Mexico City — Wed, 11 Feb 2026
-- Departamento, Mexico City — Wed, 11 Feb 2026
+- The Eagle, London · Sun, 2 Aug 2026
+- Karmakoma, Belgrade · Sat, 18 Jul 2026
+- Kater, Berlin · Fri, 26 Jun 2026
+- Sunshine Grove, Miami · Thu, 19 Mar 2026
+- Kiku Room, San Diego · Thu, 12 Mar 2026
+- MiMi Discoteque, Mexico City · Wed, 18 Feb 2026
+- ROCA HIFI, Mexico City · Wed, 11 Feb 2026
+- Departamento, Mexico City · Wed, 11 Feb 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Baile Do Gato! 09/10 at Kat Klub São Paulo
 
-Baile Do Gato! 09/10 at Kat Klub São Paulo on Fri 9 Oct, Sao Paulo. 2 artists on the bill: FRESHPRINCEDABAHIA and TH4YS. Baile Funk. Preview the line-up and save it on soundcheck.
+Baile Do Gato! 09/10 at Kat Klub São Paulo on Fri 9 Oct, Sao Paulo. 2 artists: FRESHPRINCEDABAHIA and TH4YS. Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

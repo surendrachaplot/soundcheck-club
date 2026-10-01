@@ -1,8 +1,8 @@
 # Heaps Normal Health Club
 
-Heaps Normal Health Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "clipp.art presents Never Dull [USA]" on Sat, 31 Oct 2026.
+Heaps Normal Health Club is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "clipp.art presents Never Dull [USA]" on Sat, 31 Oct 2026.
 
-Heaps Normal Health Club is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Acid Jacks, Cliff Colada, Jack N Jerk and Jerk Boy and 2 more. Browse upcoming dates, start times and who's playing.
+Heaps Normal Health Club is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Acid Jacks, Cliff Colada, Jack N Jerk and Jerk Boy and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

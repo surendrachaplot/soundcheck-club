@@ -1,6 +1,6 @@
 # Angels vs Devils at TBA
 
-Angels vs Devils at TBA on Sat 31 Oct, Manchester. House and Baile Funk. Preview the line-up and save it on soundcheck.
+Angels vs Devils at TBA on Sat 31 Oct, Manchester. House and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

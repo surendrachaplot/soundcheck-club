@@ -1,6 +1,6 @@
 # MAZE X & AURA909 - HALLOWEEN NIGHT at The Racket Space
 
-MAZE X & AURA909 - HALLOWEEN NIGHT at The Racket Space on Sat 31 Oct, Dublin. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+MAZE X & AURA909 - HALLOWEEN NIGHT at The Racket Space on Sat 31 Oct, Dublin. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

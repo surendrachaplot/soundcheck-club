@@ -1,6 +1,6 @@
 # Los Amigos Invisibles at ZeyZey
 
-Los Amigos Invisibles at ZeyZey on Fri 11 Dec, Miami. Funk / Soul. Preview the line-up and save it on soundcheck.
+Los Amigos Invisibles at ZeyZey on Fri 11 Dec, Miami. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

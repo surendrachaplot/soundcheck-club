@@ -1,6 +1,6 @@
 # Indo Warehouse at Magazine London
 
-Indo Warehouse at Magazine London on Sat 28 Nov, London. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Indo Warehouse at Magazine London on Sat 28 Nov, London. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

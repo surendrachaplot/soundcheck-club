@@ -1,8 +1,8 @@
 # Claude VonStroke
 
-Claude VonStroke is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
+Claude VonStroke is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Arts District Los Angeles, Los Angeles on Sat, 31 Oct 2026.
 
-Claude VonStroke is a house and tech house artist based in United States of America, tracked on soundcheck, with 59 sets logged across Amsterdam, Austin, Berlin and Bristol and 21 more. Often billed alongside Green Velvet, Ardalan and Boys Noize. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
+Claude VonStroke is a house and tech house artist based in United States of America, with 59 gigs on soundcheck across Amsterdam, Austin, Berlin and Bristol and 21 more. Often billed alongside Green Velvet, Ardalan and Boys Noize. Next up: TBA - Arts District Los Angeles, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Claude VonStroke is a house and tech house artist based in United States of Amer
 
 ## Recently played
 
-- The Bentway, Toronto — Sat, 19 Sept 2026
-- StereoBar, Montreal — Fri, 18 Sept 2026
-- Lokschuppen Berlin, Berlin — Sun, 16 Aug 2026
-- Knockdown Center, New York City — Fri, 7 Aug 2026
-- TBA - 624 S Anderson St, Los Angeles, CA 90023, Los Angeles — Sun, 12 Jul 2026
-- Academy LA, Los Angeles — Sat, 20 Jun 2026
-- Academy LA, Los Angeles — Thu, 11 Jun 2026
-- Lincoln Factory, Detroit — Sat, 23 May 2026
+- The Bentway, Toronto · Sat, 19 Sept 2026
+- StereoBar, Montreal · Fri, 18 Sept 2026
+- Lokschuppen Berlin, Berlin · Sun, 16 Aug 2026
+- Knockdown Center, New York City · Fri, 7 Aug 2026
+- TBA - 624 S Anderson St, Los Angeles, CA 90023, Los Angeles · Sun, 12 Jul 2026
+- Academy LA, Los Angeles · Sat, 20 Jun 2026
+- Academy LA, Los Angeles · Thu, 11 Jun 2026
+- Lincoln Factory, Detroit · Sat, 23 May 2026
 
 ## Shares bills with
 

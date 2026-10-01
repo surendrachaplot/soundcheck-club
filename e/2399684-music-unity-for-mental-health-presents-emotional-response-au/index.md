@@ -1,6 +1,6 @@
 # Music Unity For Mental Health presents Emotional Response Autumn Daytime Trance Party at The Star Of Kings
 
-Music Unity For Mental Health presents Emotional Response Autumn Daytime Trance Party at The Star Of Kings on Sat 10 Oct, London. Trance. Preview the line-up and save it on soundcheck.
+Music Unity For Mental Health presents Emotional Response Autumn Daytime Trance Party at The Star Of Kings on Sat 10 Oct, London. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

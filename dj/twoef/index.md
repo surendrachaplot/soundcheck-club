@@ -1,8 +1,8 @@
 # TWOEF
 
-TWOEF is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
+TWOEF is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
 
-TWOEF is a tech house and house artist based in Italy, tracked on soundcheck, with 4 sets logged across Amsterdam. Often billed alongside MR. SKIN, Bianchetti and Camilo Do Santos. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
+TWOEF is a tech house and house artist based in Italy, with 4 gigs on soundcheck across Amsterdam. Often billed alongside MR. SKIN, Bianchetti and Camilo Do Santos. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,7 +14,7 @@ TWOEF is a tech house and house artist based in Italy, tracked on soundcheck, wi
 
 ## Recently played
 
-- Bar Twenty Two, Amsterdam — Sun, 26 Oct 2025
+- Bar Twenty Two, Amsterdam · Sun, 26 Oct 2025
 
 ## Shares bills with
 

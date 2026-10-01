@@ -1,6 +1,6 @@
 # Kid Francescoli - Tour 2026 at La Madeleine
 
-Kid Francescoli - Tour 2026 at La Madeleine on Sat 17 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Kid Francescoli - Tour 2026 at La Madeleine on Sat 17 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

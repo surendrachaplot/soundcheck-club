@@ -1,8 +1,8 @@
 # Simon Scott
 
-Simon Scott is a Downtempo and Ambient artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Outlaws Yacht Club, Leeds on Fri, 2 Oct 2026.
+Simon Scott is a Downtempo and Ambient artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outlaws Yacht Club, Leeds on Fri, 2 Oct 2026.
 
-Simon Scott is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 125 sets logged across Belgrade, Brighton, Leeds and London and 2 more. Often billed alongside Mike BC, Iration Steppas and Slacky [Space Ritual]. Next up: Outlaws Yacht Club, Leeds on Fri 2 Oct.
+Simon Scott is a downtempo and ambient artist based in United Kingdom, with 125 gigs on soundcheck across Belgrade, Brighton, Leeds and London and 2 more. Often billed alongside Mike BC, Iration Steppas and Slacky [Space Ritual]. Next up: Outlaws Yacht Club, Leeds on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Simon Scott is a downtempo and ambient artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- The Hifi Club, Leeds — Thu, 24 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- Outlaws Yacht Club, Leeds — Sat, 18 Jul 2026
-- Cu, London — Wed, 1 Jul 2026
-- The Doghouse bar & Record Store, Leeds — Sat, 20 Jun 2026
-- Outlaws Yacht Club, Leeds — Thu, 18 Jun 2026
-- Outlaws Yacht Club, Leeds — Sun, 7 Jun 2026
-- Outlaws Yacht Club, Leeds — Fri, 22 May 2026
+- The Hifi Club, Leeds · Thu, 24 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Outlaws Yacht Club, Leeds · Sat, 18 Jul 2026
+- Cu, London · Wed, 1 Jul 2026
+- The Doghouse bar & Record Store, Leeds · Sat, 20 Jun 2026
+- Outlaws Yacht Club, Leeds · Thu, 18 Jun 2026
+- Outlaws Yacht Club, Leeds · Sun, 7 Jun 2026
+- Outlaws Yacht Club, Leeds · Fri, 22 May 2026
 
 ## Shares bills with
 

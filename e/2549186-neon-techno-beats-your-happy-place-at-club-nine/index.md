@@ -1,6 +1,6 @@
 # NEON TECHNO BEATS — YOUR HAPPY PLACE at Club Nine
 
-NEON TECHNO BEATS — YOUR HAPPY PLACE at Club Nine on Fri 9 Oct, Tallinn. 1 artist on the bill: DJ Krazy-9. Techno and Acid. Preview the line-up and save it on soundcheck.
+NEON TECHNO BEATS — YOUR HAPPY PLACE at Club Nine on Fri 9 Oct, Tallinn. 1 artist: DJ Krazy-9. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

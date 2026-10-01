@@ -1,6 +1,6 @@
 # HouseU Party Amsterdam ADE at Grand Café Heineken Hoek
 
-HouseU Party Amsterdam ADE at Grand Café Heineken Hoek on Fri 23 Oct, Amsterdam. House and Tech House. Preview the line-up and save it on soundcheck.
+HouseU Party Amsterdam ADE at Grand Café Heineken Hoek on Fri 23 Oct, Amsterdam. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

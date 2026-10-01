@@ -1,6 +1,6 @@
 # Avalon Emerson & The Charm at Music Hall of Williamsburg
 
-Avalon Emerson & The Charm at Music Hall of Williamsburg on Thu 5 Nov, New York City. 1 artist on the bill: Avalon Emerson. Dancehall and Electronica. Preview the line-up and save it on soundcheck.
+Avalon Emerson & The Charm at Music Hall of Williamsburg on Thu 5 Nov, New York City. 1 artist: Avalon Emerson. Dancehall and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

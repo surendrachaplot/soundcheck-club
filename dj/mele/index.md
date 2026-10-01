@@ -1,8 +1,8 @@
 # Melé
 
-Melé is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cabaret Sauvage, Paris on Fri, 2 Oct 2026.
+Melé is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret Sauvage, Paris on Fri, 2 Oct 2026.
 
-Melé is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Cabaret Sauvage, Paris on Fri 2 Oct.
+Melé is a house and tech house artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Bali, Barcelona and Bristol and 29 more. Often billed alongside Sam Divine, Eats Everything and Olive F. Next up: Cabaret Sauvage, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Melé is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- TBA - 30 Maud Street, Toronto — Sat, 19 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 10 Sept 2026
-- Refuge, New York City — Sun, 23 Aug 2026
-- Tigres de la Noche, Washington DC — Fri, 21 Aug 2026
-- Chinois Ibiza, Ibiza — Thu, 13 Aug 2026
-- UNO MALTA, Malta — Sat, 8 Aug 2026
-- [UNVRS], Ibiza — Sat, 25 Jul 2026
-- Hï Ibiza, Ibiza — Thu, 16 Jul 2026
+- TBA - 30 Maud Street, Toronto · Sat, 19 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 10 Sept 2026
+- Refuge, New York City · Sun, 23 Aug 2026
+- Tigres de la Noche, Washington DC · Fri, 21 Aug 2026
+- Chinois Ibiza, Ibiza · Thu, 13 Aug 2026
+- UNO MALTA, Malta · Sat, 8 Aug 2026
+- [UNVRS], Ibiza · Sat, 25 Jul 2026
+- Hï Ibiza, Ibiza · Thu, 16 Jul 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Glamorama
 
-Glamorama is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Interval - Papa Nugs [UK] (4 Hours)" on Fri, 2 Oct 2026.
+Glamorama is a music venue in Melbourne with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Interval - Papa Nugs [UK] (4 Hours)" on Fri, 2 Oct 2026.
 
-Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Acid Jacks, BETHANY, Body Clinic and CHARBINKS and 2 more. Browse upcoming dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
+Glamorama is a music venue in Melbourne listed on soundcheck. 9 upcoming gigs, with line-ups including Acid Jacks, BETHANY, Body Clinic and CHARBINKS and 2 more. See dates, start times and who's playing. 393 Brunswick street, Fitzroy, Victoria 3065.
 
 ## What's on
 

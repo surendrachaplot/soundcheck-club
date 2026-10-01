@@ -1,6 +1,6 @@
 # Klang.Friday with D A Z A & freunde at Minimal Bar
 
-Klang.Friday with D A Z A & freunde at Minimal Bar on Sat 5 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Klang.Friday with D A Z A & freunde at Minimal Bar on Sat 5 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

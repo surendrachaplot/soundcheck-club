@@ -1,6 +1,6 @@
 # FLY - M-High & Anil Aras - Edinburgh at Cabaret Voltaire
 
-FLY - M-High & Anil Aras - Edinburgh at Cabaret Voltaire on Fri 2 Oct, Edinburgh. 3 artists on the bill: Anil Aras, M-High and Sally Swan. House. Preview the line-up and save it on soundcheck.
+FLY - M-High & Anil Aras - Edinburgh at Cabaret Voltaire on Fri 2 Oct, Edinburgh. 3 artists: Anil Aras, M-High and Sally Swan. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # JIXDE PRESENTS ES CUBELLS at Paloma
 
-JIXDE PRESENTS ES CUBELLS at Paloma on Fri 16 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+JIXDE PRESENTS ES CUBELLS at Paloma on Fri 16 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

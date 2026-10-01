@@ -1,8 +1,8 @@
 # Nosedrip
 
-Nosedrip is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Love Inn, Bristol on Sat, 10 Oct 2026.
+Nosedrip is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Love Inn, Bristol on Sat, 10 Oct 2026.
 
-Nosedrip is a techno and house artist based in Belgium, tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 36 more. Often billed alongside OKO DJ, CJ Bolland and Vlada. Next up: The Love Inn, Bristol on Sat 10 Oct.
+Nosedrip is a techno and house artist based in Belgium, with 132 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 36 more. Often billed alongside OKO DJ, CJ Bolland and Vlada. Next up: The Love Inn, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Nosedrip is a techno and house artist based in Belgium, tracked on soundcheck, w
 
 ## Recently played
 
-- TILLATEC, Amsterdam — Sat, 19 Sept 2026
-- M.O.T, London — Sat, 12 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- Ruiterijcomplex, Brussels — Sat, 22 Aug 2026
-- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
-- Tones Teatro Natura, Milan — Thu, 16 Jul 2026
-- Soffio Fregene, Rome — Sun, 12 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
+- TILLATEC, Amsterdam · Sat, 19 Sept 2026
+- M.O.T, London · Sat, 12 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- Ruiterijcomplex, Brussels · Sat, 22 Aug 2026
+- Parc Nou. El Prat de Llobregat, Barcelona · Fri, 17 Jul 2026
+- Tones Teatro Natura, Milan · Thu, 16 Jul 2026
+- Soffio Fregene, Rome · Sun, 12 Jul 2026
+- Parco Dora, Turin · Fri, 3 Jul 2026
 
 ## Shares bills with
 

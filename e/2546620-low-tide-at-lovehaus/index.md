@@ -1,6 +1,6 @@
 # LOW TIDE at Lovehaus
 
-LOW TIDE at Lovehaus on Sun 27 Sept, Seoul. 2 artists on the bill: COOK SWEET and Small Crab. Bass and Jazz. Preview the line-up and save it on soundcheck.
+LOW TIDE at Lovehaus on Sun 27 Sept, Seoul. 2 artists: COOK SWEET and Small Crab. Bass and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

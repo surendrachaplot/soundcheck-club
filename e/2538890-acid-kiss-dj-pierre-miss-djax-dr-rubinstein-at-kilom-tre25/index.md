@@ -1,6 +1,6 @@
 # ACID KISS: DJ Pierre, Miss Djax, DR RUBINSTEIN at Kilomètre25
 
-ACID KISS: DJ Pierre, Miss Djax, DR RUBINSTEIN at Kilomètre25 on Sat 24 Oct, Paris. 4 artists on the bill: DJ Jee, DJ Pierre, Miss Djax and Sarah Sommers. Acid. Preview the line-up and save it on soundcheck.
+ACID KISS: DJ Pierre, Miss Djax, DR RUBINSTEIN at Kilomètre25 on Sat 24 Oct, Paris. 4 artists: DJ Jee, DJ Pierre, Miss Djax and Sarah Sommers. Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

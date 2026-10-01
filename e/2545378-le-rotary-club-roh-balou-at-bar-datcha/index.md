@@ -1,6 +1,6 @@
 # Le Rotary Club, ROH, Balou at Bar Datcha
 
-Le Rotary Club, ROH, Balou at Bar Datcha on Fri 30 Oct, Montreal. 1 artist on the bill: Le Rotary Club. Preview the line-up and save it on soundcheck.
+Le Rotary Club, ROH, Balou at Bar Datcha on Fri 30 Oct, Montreal. 1 artist: Le Rotary Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

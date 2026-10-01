@@ -1,6 +1,6 @@
 # Shangri-La presents: Obskür at Depot
 
-Shangri-La presents: Obskür at Depot on Sat 3 Oct, Cardiff. 1 artist on the bill: Obskur. Preview the line-up and save it on soundcheck.
+Shangri-La presents: Obskür at Depot on Sat 3 Oct, Cardiff. 1 artist: Obskur. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

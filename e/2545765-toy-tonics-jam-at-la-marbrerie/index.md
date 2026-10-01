@@ -1,6 +1,6 @@
 # Toy Tonics Jam at La Marbrerie
 
-Toy Tonics Jam at La Marbrerie on Fri 4 Dec, Paris. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics Jam at La Marbrerie on Fri 4 Dec, Paris. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

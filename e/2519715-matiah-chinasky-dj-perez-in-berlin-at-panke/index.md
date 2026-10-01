@@ -1,6 +1,6 @@
 # Matiah Chinasky&Dj Perez in Berlin at Panke
 
-Matiah Chinasky&Dj Perez in Berlin at Panke on Thu 1 Oct, Berlin. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
+Matiah Chinasky&Dj Perez in Berlin at Panke on Thu 1 Oct, Berlin. Hip-Hop and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

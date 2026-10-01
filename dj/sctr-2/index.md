@@ -1,8 +1,8 @@
 # SCTR (2)
 
-SCTR (2) is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Oddity Club, Athens on Sat, 10 Oct 2026.
+SCTR (2) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Oddity Club, Athens on Sat, 10 Oct 2026.
 
-SCTR is a techno and psytrance artist based in Greece, tracked on soundcheck, with 14 sets logged across Athens. Often billed alongside Tanison, Deherian and Christian Cambas. Next up: Oddity Club, Athens on Sat 10 Oct.
+SCTR is a techno and psytrance artist based in Greece, with 14 gigs on soundcheck across Athens. Often billed alongside Tanison, Deherian and Christian Cambas. Next up: Oddity Club, Athens on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SCTR is a techno and psytrance artist based in Greece, tracked on soundcheck, wi
 
 ## Recently played
 
-- BÒTOXE Club Athens, Athens — Sat, 19 Sept 2026
-- Gazi View, Athens — Sat, 1 Aug 2026
-- Gazi View, Athens — Fri, 12 Jun 2026
-- BÒTOXE Club Athens, Athens — Sat, 23 May 2026
-- Gazi View, Athens — Fri, 24 Apr 2026
-- TBA - SECRET BEACH, Athens — Sun, 13 Jul 2025
-- TBA - Triptolemou 35 Athens, Athens — Sat, 14 Jun 2025
-- Pulse Night Club, Athens — Fri, 6 Jun 2025
+- BÒTOXE Club Athens, Athens · Sat, 19 Sept 2026
+- Gazi View, Athens · Sat, 1 Aug 2026
+- Gazi View, Athens · Fri, 12 Jun 2026
+- BÒTOXE Club Athens, Athens · Sat, 23 May 2026
+- Gazi View, Athens · Fri, 24 Apr 2026
+- TBA - SECRET BEACH, Athens · Sun, 13 Jul 2025
+- TBA - Triptolemou 35 Athens, Athens · Sat, 14 Jun 2025
+- Pulse Night Club, Athens · Fri, 6 Jun 2025
 
 ## Shares bills with
 

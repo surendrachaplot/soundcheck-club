@@ -1,6 +1,6 @@
 # Block: John Digweed at block.
 
-Block: John Digweed at block. on Sat 28 Nov, Dublin. 1 artist on the bill: John Digweed. Electronica. Preview the line-up and save it on soundcheck.
+Block: John Digweed at block. on Sat 28 Nov, Dublin. 1 artist: John Digweed. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

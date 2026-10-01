@@ -1,6 +1,6 @@
 # EZ at DJ Bar Bridge
 
-EZ at DJ Bar Bridge on Tue 27 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+EZ at DJ Bar Bridge on Tue 27 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

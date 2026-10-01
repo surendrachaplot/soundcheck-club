@@ -1,6 +1,6 @@
 # Defected Melbourne 2026 at Northcote Theatre
 
-Defected Melbourne 2026 at Northcote Theatre on Fri 11 Dec, Melbourne. 4 artists on the bill: David Penn, Murphy's Law, Nick Curly and Sam Divine. House. Preview the line-up and save it on soundcheck.
+Defected Melbourne 2026 at Northcote Theatre on Fri 11 Dec, Melbourne. 4 artists: David Penn, Murphy's Law, Nick Curly and Sam Divine. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

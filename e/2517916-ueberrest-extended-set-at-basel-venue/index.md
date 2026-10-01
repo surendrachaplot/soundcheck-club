@@ -1,6 +1,6 @@
 # Ueberrest (Extended Set) at Basel Venue
 
-Ueberrest (Extended Set) at Basel Venue on Thu 29 Oct, Santiago. 1 artist on the bill: Ueberrest. Preview the line-up and save it on soundcheck.
+Ueberrest (Extended Set) at Basel Venue on Thu 29 Oct, Santiago. 1 artist: Ueberrest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

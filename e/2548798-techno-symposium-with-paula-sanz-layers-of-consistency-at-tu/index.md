@@ -1,6 +1,6 @@
 # TECHNO SYMPOSIUM WITH PAULA SANZ – LAYERS OF CONSISTENCY at Turbina
 
-TECHNO SYMPOSIUM WITH PAULA SANZ – LAYERS OF CONSISTENCY at Turbina on Thu 8 Oct, Budapest. 1 artist on the bill: Paula Sanz. Techno. Preview the line-up and save it on soundcheck.
+TECHNO SYMPOSIUM WITH PAULA SANZ – LAYERS OF CONSISTENCY at Turbina on Thu 8 Oct, Budapest. 1 artist: Paula Sanz. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

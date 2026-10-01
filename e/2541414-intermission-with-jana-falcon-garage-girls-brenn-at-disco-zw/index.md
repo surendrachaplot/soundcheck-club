@@ -1,6 +1,6 @@
 # Intermission with Jana Falcon (Garage Girls/BRENN.) at Disco Zwei
 
-Intermission with Jana Falcon (Garage Girls/BRENN.) at Disco Zwei on Fri 9 Oct, Mannheim. 1 artist on the bill: Jana Falcon. Preview the line-up and save it on soundcheck.
+Intermission with Jana Falcon (Garage Girls/BRENN.) at Disco Zwei on Fri 9 Oct, Mannheim. 1 artist: Jana Falcon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

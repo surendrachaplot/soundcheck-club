@@ -1,6 +1,6 @@
 # 15 YEARS ANNIVERSARY at Charlie
 
-15 YEARS ANNIVERSARY at Charlie on Sat 24 Oct, Munich. House and Deep House. Preview the line-up and save it on soundcheck.
+15 YEARS ANNIVERSARY at Charlie on Sat 24 Oct, Munich. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

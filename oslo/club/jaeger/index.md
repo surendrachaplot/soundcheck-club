@@ -1,8 +1,8 @@
 # Jaeger
 
-Jaeger is a music venue in Oslo with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Frædag x MUD X SSO: Kevin Sanderson + Waajeed + R-ZO " on Fri, 2 Oct 2026.
+Jaeger is a music venue in Oslo with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Frædag x MUD X SSO: Kevin Sanderson + Waajeed + R-ZO " on Fri, 2 Oct 2026.
 
-Jaeger is a music venue in Oslo listed on soundcheck. 15 upcoming gigs, with line-ups including Anthea, Chris Solaris, Einmusik and Finnebassen and 2 more. Browse upcoming dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
+Jaeger is a music venue in Oslo listed on soundcheck. 15 upcoming gigs, with line-ups including Anthea, Chris Solaris, Einmusik and Finnebassen and 2 more. See dates, start times and who's playing. Grensen 9; 0159 Oslo; Norway,.
 
 ## What's on
 

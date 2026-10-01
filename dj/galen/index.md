@@ -1,8 +1,8 @@
 # Galen
 
-Galen is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
+Galen is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at San Francisco Belle Hornblower, San Francisco/Oakland on Sun, 25 Oct 2026.
 
-Galen is a house and disco artist based in United States of America, tracked on soundcheck, with 71 sets logged across Amsterdam, California, Los Angeles and New York City and 4 more. Often billed alongside Solar, DJ M3 and Anthony Mansfield. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
+Galen is a house and disco artist based in United States of America, with 71 gigs on soundcheck across Amsterdam, California, Los Angeles and New York City and 4 more. Often billed alongside Solar, DJ M3 and Anthony Mansfield. Next up: San Francisco Belle Hornblower, San Francisco/Oakland on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Galen is a house and disco artist based in United States of America, tracked on 
 
 ## Recently played
 
-- Benelux BAR, Amsterdam — Sun, 20 Sept 2026
-- Flash, Washington DC — Sun, 26 Jul 2026
-- F8 1192 Folsom, San Francisco/Oakland — Wed, 1 Jul 2026
-- Gateway Mendocino, San Francisco/Oakland — Thu, 18 Jun 2026
-- Benelux BAR, Amsterdam — Sun, 7 Jun 2026
-- TBA - 701 Mission St, Third and Fourth Streets, San Francisco, CA 94103, San Francisco/Oakland — Sun, 19 Apr 2026
-- Huis van Iemand Anders, Amsterdam — Sat, 4 Apr 2026
-- Onder Hans, Amsterdam — Fri, 13 Mar 2026
+- Benelux BAR, Amsterdam · Sun, 20 Sept 2026
+- Flash, Washington DC · Sun, 26 Jul 2026
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 1 Jul 2026
+- Gateway Mendocino, San Francisco/Oakland · Thu, 18 Jun 2026
+- Benelux BAR, Amsterdam · Sun, 7 Jun 2026
+- TBA - 701 Mission St, Third and Fourth Streets, San Francisco, CA 94103, San Francisco/Oakland · Sun, 19 Apr 2026
+- Huis van Iemand Anders, Amsterdam · Sat, 4 Apr 2026
+- Onder Hans, Amsterdam · Fri, 13 Mar 2026
 
 ## Shares bills with
 

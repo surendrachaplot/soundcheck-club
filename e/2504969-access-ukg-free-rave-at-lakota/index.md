@@ -1,6 +1,6 @@
 # ACCESS: UKG Free Rave at Lakota
 
-ACCESS: UKG Free Rave at Lakota on Sat 24 Oct, Bristol. Garage. Preview the line-up and save it on soundcheck.
+ACCESS: UKG Free Rave at Lakota on Sat 24 Oct, Bristol. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CANCELLED - OBXENE at ÆDEN
 
-CANCELLED - OBXENE at ÆDEN on Thu 26 Nov, Berlin. Preview the line-up and save it on soundcheck.
+CANCELLED - OBXENE at ÆDEN on Thu 26 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

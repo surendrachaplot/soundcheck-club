@@ -1,6 +1,6 @@
 # VANTEK: DJ SWISHA at TBA
 
-VANTEK: DJ SWISHA at TBA on Fri 13 Nov, Vancouver. 1 artist on the bill: DJ SWISHA. Preview the line-up and save it on soundcheck.
+VANTEK: DJ SWISHA at TBA on Fri 13 Nov, Vancouver. 1 artist: DJ SWISHA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

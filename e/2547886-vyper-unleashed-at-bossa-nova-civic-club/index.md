@@ -1,6 +1,6 @@
 # VYPER: UNLEASHED at Bossa Nova Civic Club
 
-VYPER: UNLEASHED at Bossa Nova Civic Club on Fri 30 Oct, New York City. 1 artist on the bill: Vyper. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+VYPER: UNLEASHED at Bossa Nova Civic Club on Fri 30 Oct, New York City. 1 artist: Vyper. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

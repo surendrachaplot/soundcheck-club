@@ -1,6 +1,6 @@
 # Tokyo Decadance Halloween at S Nightclub
 
-Tokyo Decadance Halloween at S Nightclub on Sat 24 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+Tokyo Decadance Halloween at S Nightclub on Sat 24 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

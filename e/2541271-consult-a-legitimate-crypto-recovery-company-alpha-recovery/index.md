@@ -1,6 +1,6 @@
 # Consult A Legitimate Crypto Recovery Company – Alpha Recovery Experts at TBA
 
-Consult A Legitimate Crypto Recovery Company – Alpha Recovery Experts at TBA on Fri 9 Oct, London. Preview the line-up and save it on soundcheck.
+Consult A Legitimate Crypto Recovery Company – Alpha Recovery Experts at TBA on Fri 9 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

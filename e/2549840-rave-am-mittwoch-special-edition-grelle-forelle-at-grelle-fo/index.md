@@ -1,6 +1,6 @@
 # RAVE AM MITTWOCH // SPECIAL EDITION // Grelle Forelle at Grelle Forelle
 
-RAVE AM MITTWOCH // SPECIAL EDITION // Grelle Forelle on Sat 24 Oct, Vienna. Trance and Techno. Preview the line-up and save it on soundcheck.
+RAVE AM MITTWOCH // SPECIAL EDITION // Grelle Forelle on Sat 24 Oct, Vienna. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Vnssa
 
-Vnssa is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Celine Orlando, Orlando on Fri, 16 Oct 2026.
+Vnssa is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Celine Orlando, Orlando on Fri, 16 Oct 2026.
 
-Vnssa is a house and tech house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Arkansas, Austin, Chicago and Denver and 10 more. Often billed alongside Walker & Royce, Nala and Justin Martin. Next up: Celine Orlando, Orlando on Fri 16 Oct.
+Vnssa is a house and tech house artist based in United States of America, with 57 gigs on soundcheck across Arkansas, Austin, Chicago and Denver and 10 more. Often billed alongside Walker & Royce, Nala and Justin Martin. Next up: Celine Orlando, Orlando on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Vnssa is a house and tech house artist based in United States of America, tracke
 
 ## Recently played
 
-- BERHTA, Washington DC — Fri, 11 Sept 2026
-- Cooks Valley Campground, San Francisco/Oakland — Fri, 17 Jul 2026
-- Flash, Washington DC — Thu, 18 Jun 2026
-- Flash, Washington DC — Thu, 18 Jun 2026
-- The Concourse Project, Austin — Sat, 13 Jun 2026
-- The Globe Theatre, Los Angeles — Sat, 28 Mar 2026
-- Spybar, Chicago — Sat, 7 Mar 2026
-- Superior Ingredients, New York City — Fri, 6 Mar 2026
+- BERHTA, Washington DC · Fri, 11 Sept 2026
+- Cooks Valley Campground, San Francisco/Oakland · Fri, 17 Jul 2026
+- Flash, Washington DC · Thu, 18 Jun 2026
+- Flash, Washington DC · Thu, 18 Jun 2026
+- The Concourse Project, Austin · Sat, 13 Jun 2026
+- The Globe Theatre, Los Angeles · Sat, 28 Mar 2026
+- Spybar, Chicago · Sat, 7 Mar 2026
+- Superior Ingredients, New York City · Fri, 6 Mar 2026
 
 ## Shares bills with
 

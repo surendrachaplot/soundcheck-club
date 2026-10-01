@@ -1,6 +1,6 @@
 # Felsmann + Tiley at Purcell Room
 
-Felsmann + Tiley at Purcell Room on Sun 22 Nov, London. Classical and Electronica. Preview the line-up and save it on soundcheck.
+Felsmann + Tiley at Purcell Room on Sun 22 Nov, London. Classical and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

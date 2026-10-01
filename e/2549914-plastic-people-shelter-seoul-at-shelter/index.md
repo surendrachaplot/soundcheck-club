@@ -1,6 +1,6 @@
 # Plastic People_Shelter Seoul at Shelter
 
-Plastic People_Shelter Seoul on Fri 2 Oct, Seoul. 2 artists on the bill: Apachi and NO.LINK. Techno and Electro. Preview the line-up and save it on soundcheck.
+Plastic People_Shelter Seoul on Fri 2 Oct, Seoul. 2 artists: Apachi and NO.LINK. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Rabella
 
-Rabella is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Beate Uwe, Berlin on Sat, 17 Oct 2026.
+Rabella is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beate Uwe, Berlin on Sat, 17 Oct 2026.
 
-Rabella is a house and disco artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside AWSM, Anne Hou and Dompe. Next up: Beate Uwe, Berlin on Sat 17 Oct.
+Rabella is a house and disco artist based in Germany, with 16 gigs on soundcheck across Berlin. Often billed alongside AWSM, Anne Hou and Dompe. Next up: Beate Uwe, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Rabella is a house and disco artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Cassiopeia, Berlin — Sat, 25 Oct 2025
-- Beate Uwe, Berlin — Sat, 18 Oct 2025
-- Berndhain, Berlin — Sat, 13 Sept 2025
-- Berndhain, Berlin — Sat, 13 Sept 2025
-- Cassiopeia, Berlin — Sat, 24 May 2025
-- Bulbul Berlin, Berlin — Fri, 9 May 2025
-- Der Weiße Hase, Berlin — Sat, 8 Mar 2025
-- Klunkerkranich, Berlin — Thu, 6 Mar 2025
+- Cassiopeia, Berlin · Sat, 25 Oct 2025
+- Beate Uwe, Berlin · Sat, 18 Oct 2025
+- Berndhain, Berlin · Sat, 13 Sept 2025
+- Berndhain, Berlin · Sat, 13 Sept 2025
+- Cassiopeia, Berlin · Sat, 24 May 2025
+- Bulbul Berlin, Berlin · Fri, 9 May 2025
+- Der Weiße Hase, Berlin · Sat, 8 Mar 2025
+- Klunkerkranich, Berlin · Thu, 6 Mar 2025
 
 ## Shares bills with
 

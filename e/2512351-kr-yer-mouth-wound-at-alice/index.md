@@ -1,6 +1,6 @@
 # Krøyer + Mouth Wound at ALICE
 
-Krøyer + Mouth Wound at ALICE on Thu 8 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+Krøyer + Mouth Wound at ALICE on Thu 8 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # H15 Scene & Studio
 
-H15 Scene & Studio is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Bass Weight 10 Years Revival" on Sat, 3 Oct 2026.
+H15 Scene & Studio is a music venue in Copenhagen with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bass Weight 10 Years Revival" on Sat, 3 Oct 2026.
 
-H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including Daniel Kaarill, DBADJO, Disco Freaks and Fergus Murphy and 2 more. Browse upcoming dates, start times and who's playing. Halmtorvet 15, 1715, Copenhagen.
+H15 Scene & Studio is a music venue in Copenhagen listed on soundcheck. 6 upcoming gigs, with line-ups including Daniel Kaarill, DBADJO, Disco Freaks and Fergus Murphy and 2 more. See dates, start times and who's playing. Halmtorvet 15, 1715, Copenhagen.
 
 ## What's on
 

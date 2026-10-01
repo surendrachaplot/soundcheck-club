@@ -1,8 +1,8 @@
 # assena
 
-assena is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at K39, Frankfurt on Fri, 2 Oct 2026.
+assena is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at K39, Frankfurt on Fri, 2 Oct 2026.
 
-assena is a trance and techno artist tracked on soundcheck, with 7 sets logged across Frankfurt, Mainz and Rhineland Palatinate. Often billed alongside A.T.E.K, DJ 069 and PAU. Next up: K39, Frankfurt on Fri 2 Oct.
+assena is a trance and techno artist, with 7 gigs on soundcheck across Frankfurt, Mainz and Rhineland Palatinate. Often billed alongside A.T.E.K, DJ 069 and PAU. Next up: K39, Frankfurt on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,9 +15,9 @@ assena is a trance and techno artist tracked on soundcheck, with 7 sets logged a
 
 ## Recently played
 
-- Tanzhaus West, Frankfurt — Fri, 18 Sept 2026
-- MTW, Frankfurt — Sat, 13 Jun 2026
-- K39, Frankfurt — Wed, 13 May 2026
+- Tanzhaus West, Frankfurt · Fri, 18 Sept 2026
+- MTW, Frankfurt · Sat, 13 Jun 2026
+- K39, Frankfurt · Wed, 13 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Mietze Conte at Hole44
 
-Mietze Conte at Hole44 on Thu 5 Nov, Berlin. 1 artist on the bill: Mietze Conte. Pop and Club. Preview the line-up and save it on soundcheck.
+Mietze Conte at Hole44 on Thu 5 Nov, Berlin. 1 artist: Mietze Conte. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

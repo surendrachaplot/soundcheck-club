@@ -1,8 +1,8 @@
 # Boundless (1)
 
-Boundless (1) is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Boundless (1) is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-Boundless is a techno and tech house artist based in Portugal, tracked on soundcheck, with 20 sets logged across Berlin, Copenhagen, Lisbon and London and 4 more. Often billed alongside Ben Jammin, George Ellis and Jorge Martins. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Boundless is a techno and tech house artist based in Portugal, with 20 gigs on soundcheck across Berlin, Copenhagen, Lisbon and London and 4 more. Often billed alongside Ben Jammin, George Ellis and Jorge Martins. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Boundless is a techno and tech house artist based in Portugal, tracked on soundc
 
 ## Recently played
 
-- Tapada da Ajuda, Lisbon — Sat, 29 Aug 2026
-- Village Underground Lisboa, Lisbon — Fri, 21 Aug 2026
-- Zinkbad Eventhalle, Zurich — Fri, 1 May 2026
-- Culture Box, Copenhagen — Fri, 1 May 2026
-- Zinkbad Eventhalle, Zurich — Fri, 1 May 2026
-- Village Underground Lisboa, Lisbon — Sat, 25 Apr 2026
-- Village Underground Lisboa, Lisbon — Sat, 28 Feb 2026
-- Riverwood Downs Mountain Valley Resort, Sydney — Fri, 5 Dec 2025
+- Tapada da Ajuda, Lisbon · Sat, 29 Aug 2026
+- Village Underground Lisboa, Lisbon · Fri, 21 Aug 2026
+- Zinkbad Eventhalle, Zurich · Fri, 1 May 2026
+- Culture Box, Copenhagen · Fri, 1 May 2026
+- Zinkbad Eventhalle, Zurich · Fri, 1 May 2026
+- Village Underground Lisboa, Lisbon · Sat, 25 Apr 2026
+- Village Underground Lisboa, Lisbon · Sat, 28 Feb 2026
+- Riverwood Downs Mountain Valley Resort, Sydney · Fri, 5 Dec 2025
 
 ## Shares bills with
 

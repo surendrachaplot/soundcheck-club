@@ -1,6 +1,6 @@
 # Dissident x Miss Dreamz at Fitzroy
 
-Dissident x Miss Dreamz at Fitzroy on Sun 18 Oct, Berlin. 9 artists on the bill: Akua, Carly Zeng, Lixi and Ojos de miel and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
+Dissident x Miss Dreamz at Fitzroy on Sun 18 Oct, Berlin. 9 artists: Akua, Carly Zeng, Lixi and Ojos de miel and 5 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

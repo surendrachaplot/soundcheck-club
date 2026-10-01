@@ -1,8 +1,8 @@
 # IDEMI
 
-IDEMI is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Berkeley Suite, Glasgow on Thu, 15 Oct 2026.
+IDEMI is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Berkeley Suite, Glasgow on Thu, 15 Oct 2026.
 
-IDEMI is a house and techno artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Aberdeen, Amsterdam, Austin and Brisbane and 15 more. Often billed alongside Marsolo, CHRIS STASSY and DJ Gigola. Next up: The Berkeley Suite, Glasgow on Thu 15 Oct.
+IDEMI is a house and techno artist based in United Kingdom, with 25 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Brisbane and 15 more. Often billed alongside Marsolo, CHRIS STASSY and DJ Gigola. Next up: The Berkeley Suite, Glasgow on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ IDEMI is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- StereoBar, Montreal — Sat, 5 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Radius, Chicago — Fri, 4 Sept 2026
-- Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
-- Tigres de la Noche, Washington DC — Fri, 26 Jun 2026
-- SILO, New York City — Sat, 20 Jun 2026
+- StereoBar, Montreal · Sat, 5 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Radius, Chicago · Fri, 4 Sept 2026
+- Van Nelle Fabriek, Rotterdam · Sat, 29 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
+- Tigres de la Noche, Washington DC · Fri, 26 Jun 2026
+- SILO, New York City · Sat, 20 Jun 2026
 
 ## Shares bills with
 

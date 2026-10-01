@@ -1,6 +1,6 @@
 # Destiny Hope Tiara ONE NIGHT ONLY LIVE SHOW 2026 at Spread
 
-Destiny Hope Tiara ONE NIGHT ONLY LIVE SHOW 2026 at Spread on Sat 7 Nov, Tokyo. Preview the line-up and save it on soundcheck.
+Destiny Hope Tiara ONE NIGHT ONLY LIVE SHOW 2026 at Spread on Sat 7 Nov, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

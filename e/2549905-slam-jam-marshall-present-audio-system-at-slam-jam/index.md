@@ -1,6 +1,6 @@
 # Slam Jam & Marshall present AUDIO SYSTEM at Slam Jam
 
-Slam Jam & Marshall present AUDIO SYSTEM on Thu 1 Oct, Milan. Preview the line-up and save it on soundcheck.
+Slam Jam & Marshall present AUDIO SYSTEM on Thu 1 Oct, Milan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

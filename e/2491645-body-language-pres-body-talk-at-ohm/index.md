@@ -1,6 +1,6 @@
 # Body Language pres. Body Talk at OHM
 
-Body Language pres. Body Talk at OHM on Fri 4 Dec, Berlin. Preview the line-up and save it on soundcheck.
+Body Language pres. Body Talk at OHM on Fri 4 Dec, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

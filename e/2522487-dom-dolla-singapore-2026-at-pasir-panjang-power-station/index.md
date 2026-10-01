@@ -1,6 +1,6 @@
 # Dom Dolla - Singapore 2026 at Pasir Panjang Power Station
 
-Dom Dolla - Singapore 2026 at Pasir Panjang Power Station on Fri 27 Nov, Singapore. 1 artist on the bill: Dom Dolla. Tech House. Preview the line-up and save it on soundcheck.
+Dom Dolla - Singapore 2026 at Pasir Panjang Power Station on Fri 27 Nov, Singapore. 1 artist: Dom Dolla. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

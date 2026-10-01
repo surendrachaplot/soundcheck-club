@@ -1,6 +1,6 @@
 # MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell at Hoppetosse
 
-MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell at Hoppetosse on Fri 13 Nov, Berlin. 4 artists on the bill: Andrei Ciubuc, Maik Yells, Robin Ordell and The Pushamann. House and Minimal. Preview the line-up and save it on soundcheck.
+MovetoneWax & N.o.N Music presents Andrei Ciubuc & Robin Ordell at Hoppetosse on Fri 13 Nov, Berlin. 4 artists: Andrei Ciubuc, Maik Yells, Robin Ordell and The Pushamann. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

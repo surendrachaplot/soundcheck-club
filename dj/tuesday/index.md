@@ -1,8 +1,8 @@
 # TUESDAY
 
-TUESDAY is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 宀 Club, Hong Kong on Fri, 9 Oct 2026.
+TUESDAY is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 9 Oct 2026.
 
-TUESDAY is a techno and bass artist based in China, tracked on soundcheck, with 29 sets logged across Barcelona, Hong Kong, San Francisco/Oakland and Shenzhen. Often billed alongside YUEMING, Oscar Days and adam.. Next up: 宀 Club, Hong Kong on Fri 9 Oct.
+TUESDAY is a techno and bass artist based in China, with 29 gigs on soundcheck across Barcelona, Hong Kong, San Francisco/Oakland and Shenzhen. Often billed alongside YUEMING, Oscar Days and adam.. Next up: 宀 Club, Hong Kong on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ TUESDAY is a techno and bass artist based in China, tracked on soundcheck, with 
 
 ## Recently played
 
-- Soho House Hong Kong, Hong Kong — Tue, 30 Jun 2026
-- TBA, Hong Kong — Fri, 3 Apr 2026
-- TAI Tong Ecopark, Hong Kong — Sat, 21 Mar 2026
-- OMA, Hong Kong — Wed, 18 Feb 2026
-- Casa Dao, Hong Kong — Fri, 30 Jan 2026
-- TBA - Secret Rooftop in Gracia, Barcelona — Wed, 31 Dec 2025
-- OIL Club, Shenzhen — Fri, 12 Dec 2025
-- Social Room, Hong Kong — Fri, 5 Dec 2025
+- Soho House Hong Kong, Hong Kong · Tue, 30 Jun 2026
+- TBA, Hong Kong · Fri, 3 Apr 2026
+- TAI Tong Ecopark, Hong Kong · Sat, 21 Mar 2026
+- OMA, Hong Kong · Wed, 18 Feb 2026
+- Casa Dao, Hong Kong · Fri, 30 Jan 2026
+- TBA - Secret Rooftop in Gracia, Barcelona · Wed, 31 Dec 2025
+- OIL Club, Shenzhen · Fri, 12 Dec 2025
+- Social Room, Hong Kong · Fri, 5 Dec 2025
 
 ## Shares bills with
 

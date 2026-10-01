@@ -1,8 +1,8 @@
 # Vladimir Cauchemar
 
-Vladimir Cauchemar is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Warehouse, Nantes on Fri, 30 Oct 2026.
+Vladimir Cauchemar is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Warehouse, Nantes on Fri, 30 Oct 2026.
 
-Vladimir Cauchemar is a techno and electro artist based in France, tracked on soundcheck, with 41 sets logged across Barcelona, Brussels, Geneva and Ghent and 8 more. Often billed alongside LESSSS, billx and Angerfist. Next up: Warehouse, Nantes on Fri 30 Oct.
+Vladimir Cauchemar is a techno and electro artist based in France, with 41 gigs on soundcheck across Barcelona, Brussels, Geneva and Ghent and 8 more. Often billed alongside LESSSS, billx and Angerfist. Next up: Warehouse, Nantes on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Vladimir Cauchemar is a techno and electro artist based in France, tracked on so
 
 ## Recently played
 
-- TBA - Grand Parc Miribel Jonage, Lyon — Sat, 12 Sept 2026
-- Paléo Festival, Geneva — Tue, 21 Jul 2026
-- Hippodrome De Longchamp, Paris — Fri, 26 Jun 2026
-- TBA - ÎLE DES LOISIRS, 5 Parking du temps Libre, 34300 Agde, France, Paris — Thu, 18 Jun 2026
-- Quai de L'horloge, Montreal — Sun, 14 Jun 2026
-- Monte Kristo Estates, Malta — Sat, 11 Apr 2026
-- Palais 12 / Paleis 12 (ING Arena), Brussels — Fri, 3 Apr 2026
-- E1, London — Fri, 3 Apr 2026
+- TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
+- Paléo Festival, Geneva · Tue, 21 Jul 2026
+- Hippodrome De Longchamp, Paris · Fri, 26 Jun 2026
+- TBA - ÎLE DES LOISIRS, 5 Parking du temps Libre, 34300 Agde, France, Paris · Thu, 18 Jun 2026
+- Quai de L'horloge, Montreal · Sun, 14 Jun 2026
+- Monte Kristo Estates, Malta · Sat, 11 Apr 2026
+- Palais 12 / Paleis 12 (ING Arena), Brussels · Fri, 3 Apr 2026
+- E1, London · Fri, 3 Apr 2026
 
 ## Shares bills with
 

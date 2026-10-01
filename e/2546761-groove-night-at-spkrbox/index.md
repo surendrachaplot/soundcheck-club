@@ -1,6 +1,6 @@
 # Groove Night at Spkrbox
 
-Groove Night at Spkrbox on Thu 1 Oct, Detroit. Techno and House. Preview the line-up and save it on soundcheck.
+Groove Night at Spkrbox on Thu 1 Oct, Detroit. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

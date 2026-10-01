@@ -1,8 +1,8 @@
 # ELLA
 
-ELLA is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Golden Gate, Berlin on Thu, 8 Oct 2026.
+ELLA is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Golden Gate, Berlin on Thu, 8 Oct 2026.
 
-ELLA is a techno and tech house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Berlin, Hamburg, Los Angeles and Miami and 2 more. Often billed alongside Aleroj, Barbara Alvarez and Beverly Chills. Next up: Golden Gate, Berlin on Thu 8 Oct.
+ELLA is a techno and tech house artist based in United States of America, with 7 gigs on soundcheck across Berlin, Hamburg, Los Angeles and Miami and 2 more. Often billed alongside Aleroj, Barbara Alvarez and Beverly Chills. Next up: Golden Gate, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ ELLA is a techno and tech house artist based in United States of America, tracke
 
 ## Recently played
 
-- Sensorium, Berlin — Sun, 5 Jul 2026
-- TBA - DTLA, Los Angeles — Sat, 13 Jun 2026
-- Chop Suey, Seattle — Fri, 24 Apr 2026
-- Coyo Taco, Miami — Fri, 27 Mar 2026
-- Sonoris Sound Studios, Hamburg — Fri, 19 Dec 2025
-- DNA Lounge, San Francisco/Oakland — Sat, 6 Sept 2025
+- Sensorium, Berlin · Sun, 5 Jul 2026
+- TBA - DTLA, Los Angeles · Sat, 13 Jun 2026
+- Chop Suey, Seattle · Fri, 24 Apr 2026
+- Coyo Taco, Miami · Fri, 27 Mar 2026
+- Sonoris Sound Studios, Hamburg · Fri, 19 Dec 2025
+- DNA Lounge, San Francisco/Oakland · Sat, 6 Sept 2025
 
 ## Shares bills with
 

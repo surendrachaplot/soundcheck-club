@@ -1,6 +1,6 @@
 # Subculture with Harri + Ryan Elliott at Sub Club
 
-Subculture with Harri + Ryan Elliott at Sub Club on Sat 12 Dec, Glasgow. 2 artists on the bill: DJ Harri and Ryan Elliott. Preview the line-up and save it on soundcheck.
+Subculture with Harri + Ryan Elliott at Sub Club on Sat 12 Dec, Glasgow. 2 artists: DJ Harri and Ryan Elliott. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

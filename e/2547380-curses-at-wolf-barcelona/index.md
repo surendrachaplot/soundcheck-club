@@ -1,6 +1,6 @@
 # Curses at WOLF Barcelona
 
-Curses at WOLF Barcelona on Thu 5 Nov, Barcelona. 1 artist on the bill: Curses. Preview the line-up and save it on soundcheck.
+Curses at WOLF Barcelona on Thu 5 Nov, Barcelona. 1 artist: Curses. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

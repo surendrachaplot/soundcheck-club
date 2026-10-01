@@ -1,6 +1,6 @@
 # Ella Knight's House Party at Village Underground
 
-Ella Knight's House Party at Village Underground on Sat 28 Nov, London. 1 artist on the bill: Ella Knight. House and Garage. Preview the line-up and save it on soundcheck.
+Ella Knight's House Party at Village Underground on Sat 28 Nov, London. 1 artist: Ella Knight. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

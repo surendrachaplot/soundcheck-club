@@ -1,8 +1,8 @@
 # ABADIR
 
-ABADIR is a Experimental and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hafenklang, Hamburg on Thu, 1 Oct 2026.
+ABADIR is a Experimental and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hafenklang, Hamburg on Thu, 1 Oct 2026.
 
-ABADIR is an experimental and club artist based in Egypt, tracked on soundcheck, with 66 sets logged across Amsterdam, Belgrade, Berlin and Bristol and 22 more. Often billed alongside Sara Persico, Assyouti and Zoë Mc Pherson. Next up: Hafenklang, Hamburg on Thu 1 Oct.
+ABADIR is an experimental and club artist based in Egypt, with 66 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 22 more. Often billed alongside Sara Persico, Assyouti and Zoë Mc Pherson. Next up: Hafenklang, Hamburg on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ ABADIR is an experimental and club artist based in Egypt, tracked on soundcheck,
 
 ## Recently played
 
-- Mono, Rotterdam — Sat, 26 Sept 2026
-- The White Hotel, Manchester — Fri, 25 Sept 2026
-- Richten25, Berlin — Sun, 5 Jul 2026
-- Kraftwerk Berlin, Berlin — Sat, 30 May 2026
-- Kraftwerk Berlin, Berlin — Sat, 30 May 2026
-- TBA - kwia / maybachufer 16 , Berlin — Thu, 30 Apr 2026
-- The Loco Klub, Bristol — Sat, 18 Apr 2026
-- ALICE, Copenhagen — Fri, 17 Apr 2026
+- Mono, Rotterdam · Sat, 26 Sept 2026
+- The White Hotel, Manchester · Fri, 25 Sept 2026
+- Richten25, Berlin · Sun, 5 Jul 2026
+- Kraftwerk Berlin, Berlin · Sat, 30 May 2026
+- Kraftwerk Berlin, Berlin · Sat, 30 May 2026
+- TBA - kwia / maybachufer 16 , Berlin · Thu, 30 Apr 2026
+- The Loco Klub, Bristol · Sat, 18 Apr 2026
+- ALICE, Copenhagen · Fri, 17 Apr 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Vinyl Fantasy 3.0. The Third Dimension Birthday Party at SWG3
 
-Vinyl Fantasy 3.0. The Third Dimension Birthday Party at SWG3 on Sat 17 Oct, Glasgow. Trance. Preview the line-up and save it on soundcheck.
+Vinyl Fantasy 3.0. The Third Dimension Birthday Party at SWG3 on Sat 17 Oct, Glasgow. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

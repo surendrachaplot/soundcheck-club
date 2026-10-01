@@ -1,6 +1,6 @@
 # SXM Festival 10TH YEAR ANNIVERSARY - MARCH 17-21, 2027 at Happy Bay Beach
 
-SXM Festival 10TH YEAR ANNIVERSARY - MARCH 17-21, 2027 at Happy Bay Beach on Wed 17 Mar, Saint Martin. 24 artists on the bill: Bob Sinclar, Brunello, Chelina Manuhutu and Claptone and 20 more. Preview the line-up and save it on soundcheck.
+SXM Festival 10TH YEAR ANNIVERSARY - MARCH 17-21, 2027 at Happy Bay Beach on Wed 17 Mar, Saint Martin. 24 artists: Bob Sinclar, Brunello, Chelina Manuhutu and Claptone and 20 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

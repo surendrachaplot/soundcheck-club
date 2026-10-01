@@ -1,6 +1,6 @@
 # Seqta at Mtkvarze
 
-Seqta at Mtkvarze on Sat 3 Oct, Tbilisi. Techno and Afro Tech. Preview the line-up and save it on soundcheck.
+Seqta at Mtkvarze on Sat 3 Oct, Tbilisi. Techno and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

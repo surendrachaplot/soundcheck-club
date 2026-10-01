@@ -1,6 +1,6 @@
 # Rubber Ducky Records x Mdnt at Mdnt
 
-Rubber Ducky Records x Mdnt on Fri 9 Oct, Manchester. 1 artist on the bill: Myles Greenwood. Electronica. Preview the line-up and save it on soundcheck.
+Rubber Ducky Records x Mdnt on Fri 9 Oct, Manchester. 1 artist: Myles Greenwood. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

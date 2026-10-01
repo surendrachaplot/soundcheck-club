@@ -1,6 +1,6 @@
 # IRM: Halloween 2026 at Deptford Junction
 
-IRM: Halloween 2026 at Deptford Junction on Sat 31 Oct, London. 3 artists on the bill: calan, Pigeon Steve and Proteus. Preview the line-up and save it on soundcheck.
+IRM: Halloween 2026 at Deptford Junction on Sat 31 Oct, London. 3 artists: calan, Pigeon Steve and Proteus. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

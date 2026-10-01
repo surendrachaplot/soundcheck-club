@@ -1,6 +1,6 @@
 # OBSIDIA w / DJ DRECKISCH at Lokschuppen Berlin
 
-OBSIDIA w / DJ DRECKISCH at Lokschuppen Berlin on Fri 19 Feb, Berlin. 5 artists on the bill: BIJI ON DECKS, DJ DRECKISCH, KARISH and kichererbsenstampf and 1 more. Preview the line-up and save it on soundcheck.
+OBSIDIA w / DJ DRECKISCH at Lokschuppen Berlin on Fri 19 Feb, Berlin. 5 artists: BIJI ON DECKS, DJ DRECKISCH, KARISH and kichererbsenstampf and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

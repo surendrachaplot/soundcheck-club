@@ -1,6 +1,6 @@
 # INTER 4TH ANNIVERSARY EDITION at WOMB
 
-INTER 4TH ANNIVERSARY EDITION at WOMB on Fri 23 Oct, Tokyo. 8 artists on the bill: DJ Emma, KUNPEI, LogicBeat and MUSCLE ∞ BROTHERS and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+INTER 4TH ANNIVERSARY EDITION at WOMB on Fri 23 Oct, Tokyo. 8 artists: DJ Emma, KUNPEI, LogicBeat and MUSCLE ∞ BROTHERS and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

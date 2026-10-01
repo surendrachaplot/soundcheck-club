@@ -1,6 +1,6 @@
 # ZHU × GENIX: The Austin Grand Prix F1 Experience Along with An F1 Racing team at Austin Garden & Studio
 
-ZHU × GENIX: The Austin Grand Prix F1 Experience Along with An F1 Racing team at Austin Garden & Studio on Fri 23 Oct, Austin. Trance and Deep House. Preview the line-up and save it on soundcheck.
+ZHU × GENIX: The Austin Grand Prix F1 Experience Along with An F1 Racing team at Austin Garden & Studio on Fri 23 Oct, Austin. Trance and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

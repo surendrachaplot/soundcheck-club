@@ -1,6 +1,6 @@
 # NEBULA × OTO × BLACK NOIR at Joule
 
-NEBULA × OTO × BLACK NOIR at Joule on Sat 10 Oct, Osaka. 4 artists on the bill: EMILIO, I-SO, O-MAN and STRATAH. Techno. Preview the line-up and save it on soundcheck.
+NEBULA × OTO × BLACK NOIR at Joule on Sat 10 Oct, Osaka. 4 artists: EMILIO, I-SO, O-MAN and STRATAH. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

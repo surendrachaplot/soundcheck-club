@@ -1,6 +1,6 @@
 # The GRID Lima: Clara Cuvé, Azyr & más at Club Cultural Lima
 
-The GRID Lima: Clara Cuvé, Azyr & más at Club Cultural Lima on Fri 13 Nov, Peru. 2 artists on the bill: Azyr and Clara Cuvé. Preview the line-up and save it on soundcheck.
+The GRID Lima: Clara Cuvé, Azyr & más at Club Cultural Lima on Fri 13 Nov, Peru. 2 artists: Azyr and Clara Cuvé. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

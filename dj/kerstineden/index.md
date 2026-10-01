@@ -1,8 +1,8 @@
 # Kerstin Eden
 
-Kerstin Eden is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
+Kerstin Eden is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Fri, 16 Oct 2026.
 
-Kerstin Eden is a techno and progressive house artist based in Germany, tracked on soundcheck, with 16 sets logged across Austria, Berlin, Cologne and Düsseldorf and 2 more. Often billed alongside Cloudy, Enaly and Felix Kröcher. Next up: Schrotty, Cologne on Fri 16 Oct.
+Kerstin Eden is a techno and progressive house artist based in Germany, with 16 gigs on soundcheck across Austria, Berlin, Cologne and Düsseldorf and 2 more. Often billed alongside Cloudy, Enaly and Felix Kröcher. Next up: Schrotty, Cologne on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kerstin Eden is a techno and progressive house artist based in Germany, tracked 
 
 ## Recently played
 
-- Odonien, Cologne — Sat, 27 Jun 2026
-- Odonien, Cologne — Sat, 30 Aug 2025
-- Dürener Badesee, Cologne — Fri, 22 Aug 2025
-- Die Rakete, Nürnberg — Sat, 31 May 2025
-- Malzfabrik, Berlin — Sat, 10 May 2025
-- Odonien, Cologne — Wed, 16 Apr 2025
-- Airport Würzburg, Nürnberg — Sat, 21 Dec 2024
-- Odonien, Cologne — Wed, 17 Jul 2024
+- Odonien, Cologne · Sat, 27 Jun 2026
+- Odonien, Cologne · Sat, 30 Aug 2025
+- Dürener Badesee, Cologne · Fri, 22 Aug 2025
+- Die Rakete, Nürnberg · Sat, 31 May 2025
+- Malzfabrik, Berlin · Sat, 10 May 2025
+- Odonien, Cologne · Wed, 16 Apr 2025
+- Airport Würzburg, Nürnberg · Sat, 21 Dec 2024
+- Odonien, Cologne · Wed, 17 Jul 2024
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Reformist
 
-Reformist is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Thu, 1 Oct 2026.
+Reformist is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Thu, 1 Oct 2026.
 
-Reformist is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Aberdeen, Brighton, Bristol and Edinburgh and 4 more. Often billed alongside HARLØW, FITS ME FUNNY and Atoxyl. Next up: M.O.T, London on Thu 1 Oct.
+Reformist is a techno and trance artist based in United Kingdom, with 22 gigs on soundcheck across Aberdeen, Brighton, Bristol and Edinburgh and 4 more. Often billed alongside HARLØW, FITS ME FUNNY and Atoxyl. Next up: M.O.T, London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Reformist is a techno and trance artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- The Glove That Fits, London — Sun, 20 Sept 2026
-- NUMBER 90 LONDON, London — Fri, 5 Jun 2026
-- Stage and Radio, Manchester — Fri, 10 Apr 2026
-- Planet Wax, London — Thu, 12 Mar 2026
-- Electrowerkz, London — Tue, 3 Feb 2026
-- A L P H A B E T, Brighton — Sat, 13 Dec 2025
-- The Mash House, Edinburgh — Sat, 20 Sept 2025
-- WaterBear Venue, Brighton — Fri, 25 Jul 2025
+- The Glove That Fits, London · Sun, 20 Sept 2026
+- NUMBER 90 LONDON, London · Fri, 5 Jun 2026
+- Stage and Radio, Manchester · Fri, 10 Apr 2026
+- Planet Wax, London · Thu, 12 Mar 2026
+- Electrowerkz, London · Tue, 3 Feb 2026
+- A L P H A B E T, Brighton · Sat, 13 Dec 2025
+- The Mash House, Edinburgh · Sat, 20 Sept 2025
+- WaterBear Venue, Brighton · Fri, 25 Jul 2025
 
 ## Shares bills with
 

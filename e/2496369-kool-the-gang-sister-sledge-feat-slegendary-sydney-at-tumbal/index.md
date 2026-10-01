@@ -1,6 +1,6 @@
 # Kool & The Gang + Sister Sledge feat. Slegendary [Sydney] at Tumbalong Park
 
-Kool & The Gang + Sister Sledge feat. Slegendary [Sydney] at Tumbalong Park on Fri 27 Nov, Sydney. Preview the line-up and save it on soundcheck.
+Kool & The Gang + Sister Sledge feat. Slegendary [Sydney] at Tumbalong Park on Fri 27 Nov, Sydney. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

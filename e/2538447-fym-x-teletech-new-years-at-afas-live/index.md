@@ -1,6 +1,6 @@
 # FYM x Teletech New Years at Afas Live
 
-FYM x Teletech New Years at Afas Live on Thu 31 Dec, Amsterdam. 15 artists on the bill: A.N.I., DYEN, Kander and KIRSTY and 11 more. Preview the line-up and save it on soundcheck.
+FYM x Teletech New Years at Afas Live on Thu 31 Dec, Amsterdam. 15 artists: A.N.I., DYEN, Kander and KIRSTY and 11 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sound Canteen with VictorDiscos at Orangerie Neukölln
 
-Sound Canteen with VictorDiscos at Orangerie Neukölln on Fri 23 Oct, Berlin. Funk / Soul. Preview the line-up and save it on soundcheck.
+Sound Canteen with VictorDiscos at Orangerie Neukölln on Fri 23 Oct, Berlin. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

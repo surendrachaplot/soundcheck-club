@@ -1,6 +1,6 @@
 # Zenati at Hootananny Brixton
 
-Zenati at Hootananny Brixton on Mon 12 Oct, London. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
+Zenati at Hootananny Brixton on Mon 12 Oct, London. Hip-Hop and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

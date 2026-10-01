@@ -1,6 +1,6 @@
 # PURGATORY: Sunday Daytime with Serge Devant + Vanjee at Refuge
 
-PURGATORY: Sunday Daytime with Serge Devant + Vanjee at Refuge on Sun 1 Nov, New York City. 2 artists on the bill: Serge Devant and Vanjee. Preview the line-up and save it on soundcheck.
+PURGATORY: Sunday Daytime with Serge Devant + Vanjee at Refuge on Sun 1 Nov, New York City. 2 artists: Serge Devant and Vanjee. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

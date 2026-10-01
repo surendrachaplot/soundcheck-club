@@ -1,8 +1,8 @@
 # BASE Milano
 
-BASE Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "DISCO FORTISSIMA with Kirollus, François K & Daniele Baldelli" on Sat, 10 Oct 2026.
+BASE Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "DISCO FORTISSIMA with Kirollus, François K & Daniele Baldelli" on Sat, 10 Oct 2026.
 
-BASE Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Daniele Baldelli, Francois K and Kirollus. Browse upcoming dates, start times and who's playing. via Bergognone, 34 20144 Milan, Italy.
+BASE Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Daniele Baldelli, Francois K and Kirollus. See dates, start times and who's playing. via Bergognone, 34 20144 Milan, Italy.
 
 ## What's on
 

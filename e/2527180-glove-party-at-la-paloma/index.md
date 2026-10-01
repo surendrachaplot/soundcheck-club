@@ -1,6 +1,6 @@
 # GLOVE PARTY at La Paloma
 
-GLOVE PARTY at La Paloma on Sat 3 Oct, Barcelona. 1 artist on the bill: Zonzo. House and Disco. Preview the line-up and save it on soundcheck.
+GLOVE PARTY at La Paloma on Sat 3 Oct, Barcelona. 1 artist: Zonzo. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

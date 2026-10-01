@@ -1,6 +1,6 @@
 # 𝐒𝐏𝐄𝐄𝐃 𝐅𝐑𝐈𝐄𝐍𝐃𝐈𝐍𝐆 at Prozak 2.0
 
-𝐒𝐏𝐄𝐄𝐃 𝐅𝐑𝐈𝐄𝐍𝐃𝐈𝐍𝐆 at Prozak 2.0 on Thu 8 Oct, Krakow. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+𝐒𝐏𝐄𝐄𝐃 𝐅𝐑𝐈𝐄𝐍𝐃𝐈𝐍𝐆 at Prozak 2.0 on Thu 8 Oct, Krakow. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

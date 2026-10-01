@@ -1,6 +1,6 @@
 # MODUL'AIR — Daytime Warehouse Show at De Flesjesfabriek
 
-MODUL'AIR — Daytime Warehouse Show at De Flesjesfabriek on Sat 17 Oct, Ghent. 7 artists on the bill: CALLUSH, EMILIJA, FJUSHA and Part Time Killer and 3 more. Preview the line-up and save it on soundcheck.
+MODUL'AIR — Daytime Warehouse Show at De Flesjesfabriek on Sat 17 Oct, Ghent. 7 artists: CALLUSH, EMILIJA, FJUSHA and Part Time Killer and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

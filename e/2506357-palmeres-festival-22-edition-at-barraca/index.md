@@ -1,6 +1,6 @@
 # Palmeres Festival 22ºEdition at Barraca
 
-Palmeres Festival 22ºEdition at Barraca on Sat 3 Oct, Valencia. 5 artists on the bill: Domen, Lucas Cabello, Planetary Assault Systems and relajadita and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Palmeres Festival 22ºEdition at Barraca on Sat 3 Oct, Valencia. 5 artists: Domen, Lucas Cabello, Planetary Assault Systems and relajadita and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

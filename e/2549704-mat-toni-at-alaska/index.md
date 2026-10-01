@@ -1,6 +1,6 @@
 # mat|toni at Alaska
 
-mat|toni at Alaska on Fri 2 Oct, Athens. Preview the line-up and save it on soundcheck.
+mat|toni at Alaska on Fri 2 Oct, Athens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

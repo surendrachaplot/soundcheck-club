@@ -1,8 +1,8 @@
 # Project House
 
-Project House is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "nimino" on Fri, 9 Oct 2026.
+Project House is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "nimino" on Fri, 9 Oct 2026.
 
-Project House is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including nimino. Browse upcoming dates, start times and who's playing. Project House, Armley Rd, Leeds LS12 2DR.
+Project House is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including nimino. See dates, start times and who's playing. Project House, Armley Rd, Leeds LS12 2DR.
 
 ## What's on
 

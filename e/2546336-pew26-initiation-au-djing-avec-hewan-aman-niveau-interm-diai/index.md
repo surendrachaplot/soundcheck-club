@@ -1,6 +1,6 @@
 # PEW26 - Initiation au DJing avec Hewan Aman *niveau intermédiaire & confirmé at Mains D'œuvres
 
-PEW26 - Initiation au DJing avec Hewan Aman *niveau intermédiaire & confirmé at Mains D'œuvres on Fri 2 Oct, Paris. 1 artist on the bill: Hewan Aman. Preview the line-up and save it on soundcheck.
+PEW26 - Initiation au DJing avec Hewan Aman *niveau intermédiaire & confirmé at Mains D'œuvres on Fri 2 Oct, Paris. 1 artist: Hewan Aman. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

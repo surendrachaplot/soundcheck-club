@@ -1,6 +1,6 @@
 # &A_immersive at UTOPIA / DYSTOPIA
 
-&A_immersive at UTOPIA / DYSTOPIA on Thu 1 Oct, Tokyo. 2 artists on the bill: hidemi and MOTOKA. Techno. Preview the line-up and save it on soundcheck.
+&A_immersive at UTOPIA / DYSTOPIA on Thu 1 Oct, Tokyo. 2 artists: hidemi and MOTOKA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

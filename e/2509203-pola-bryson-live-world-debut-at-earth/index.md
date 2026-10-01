@@ -1,6 +1,6 @@
 # Pola & Bryson Live (World Debut) at EartH
 
-Pola & Bryson Live (World Debut) at EartH on Sat 14 Nov, London. 1 artist on the bill: Pola & Bryson. Drum & Bass. Preview the line-up and save it on soundcheck.
+Pola & Bryson Live (World Debut) at EartH on Sat 14 Nov, London. 1 artist: Pola & Bryson. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

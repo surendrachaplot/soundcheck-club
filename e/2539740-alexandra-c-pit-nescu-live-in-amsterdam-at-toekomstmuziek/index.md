@@ -1,6 +1,6 @@
 # Alexandra Căpitănescu live in Amsterdam at Toekomstmuziek
 
-Alexandra Căpitănescu live in Amsterdam at Toekomstmuziek on Fri 16 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Alexandra Căpitănescu live in Amsterdam at Toekomstmuziek on Fri 16 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

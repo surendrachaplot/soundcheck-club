@@ -1,6 +1,6 @@
 # Secrets of the third planet / Mechanica sound club at Mechanica.Club
 
-Secrets of the third planet / Mechanica sound club at Mechanica.Club on Fri 27 Nov, Tbilisi. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Secrets of the third planet / Mechanica sound club at Mechanica.Club on Fri 27 Nov, Tbilisi. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

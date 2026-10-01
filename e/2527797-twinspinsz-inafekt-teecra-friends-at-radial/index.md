@@ -1,6 +1,6 @@
 # Twinspinsz ˚⟡˖ ࣪ Inafekt, Teecra & Friends at radial
 
-Twinspinsz ˚⟡˖ ࣪ Inafekt, Teecra & Friends at radial on Fri 13 Nov, London. 5 artists on the bill: ADHDj (UK), FITS ME FUNNY, Inafekt and pearl and 1 more. Progressive House and House. Preview the line-up and save it on soundcheck.
+Twinspinsz ˚⟡˖ ࣪ Inafekt, Teecra & Friends at radial on Fri 13 Nov, London. 5 artists: ADHDj (UK), FITS ME FUNNY, Inafekt and pearl and 1 more. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

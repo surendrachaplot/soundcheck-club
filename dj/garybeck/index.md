@@ -1,8 +1,8 @@
 # Gary Beck
 
-Gary Beck is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Gary Beck is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-Gary Beck is a techno and house artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Aberdeen, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Co-Accused, Frazi.er and Dave Clarke. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Gary Beck is a techno and house artist based in United Kingdom, with 41 gigs on soundcheck across Aberdeen, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Co-Accused, Frazi.er and Dave Clarke. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Gary Beck is a techno and house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
-- The Old Fruitmarket, Glasgow — Sat, 1 Aug 2026
-- La Cheetah Club, Glasgow — Sat, 1 Aug 2026
-- District Cardiff, Cardiff — Fri, 24 Jul 2026
-- Moonfield, Antwerp — Fri, 10 Jul 2026
-- The Bongo Club, Edinburgh — Fri, 5 Jun 2026
-- De Vierde Zaal, Ghent — Sat, 25 Apr 2026
-- Kassa Boat, Budapest — Fri, 17 Apr 2026
+- TBA - Straße des 17. Juni & Großer Stern, Berlin · Sat, 15 Aug 2026
+- The Old Fruitmarket, Glasgow · Sat, 1 Aug 2026
+- La Cheetah Club, Glasgow · Sat, 1 Aug 2026
+- District Cardiff, Cardiff · Fri, 24 Jul 2026
+- Moonfield, Antwerp · Fri, 10 Jul 2026
+- The Bongo Club, Edinburgh · Fri, 5 Jun 2026
+- De Vierde Zaal, Ghent · Sat, 25 Apr 2026
+- Kassa Boat, Budapest · Fri, 17 Apr 2026
 
 ## Shares bills with
 

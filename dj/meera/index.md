@@ -1,8 +1,8 @@
 # meera
 
-meera is a Afro House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lux Fragil, Lisbon on Sat, 10 Oct 2026.
+meera is a Afro House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 10 Oct 2026.
 
-meera is an afro house and techno artist based in Norway, tracked on soundcheck, with 20 sets logged across Amsterdam, Copenhagen, Frankfurt and Ibiza and 8 more. Often billed alongside Damian Lazarus, Jimi Jules and Black Coffee. Next up: Lux Fragil, Lisbon on Sat 10 Oct.
+meera is an afro house and techno artist based in Norway, with 20 gigs on soundcheck across Amsterdam, Copenhagen, Frankfurt and Ibiza and 8 more. Often billed alongside Damian Lazarus, Jimi Jules and Black Coffee. Next up: Lux Fragil, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ meera is an afro house and techno artist based in Norway, tracked on soundcheck,
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Fri, 4 Sept 2026
-- Hï Ibiza, Ibiza — Mon, 17 Aug 2026
-- Galopprennbahn, Munich — Sat, 1 Aug 2026
-- Cova Santa, Ibiza — Fri, 31 Jul 2026
-- Hï Ibiza, Ibiza — Sat, 4 Jul 2026
-- Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
-- Smelteverket, Oslo — Sat, 21 Mar 2026
-- Ziggo Dome, Amsterdam — Fri, 24 Oct 2025
+- Hï Ibiza, Ibiza · Fri, 4 Sept 2026
+- Hï Ibiza, Ibiza · Mon, 17 Aug 2026
+- Galopprennbahn, Munich · Sat, 1 Aug 2026
+- Cova Santa, Ibiza · Fri, 31 Jul 2026
+- Hï Ibiza, Ibiza · Sat, 4 Jul 2026
+- Musée de l'Air et de l'Espace, Paris · Fri, 22 May 2026
+- Smelteverket, Oslo · Sat, 21 Mar 2026
+- Ziggo Dome, Amsterdam · Fri, 24 Oct 2025
 
 ## Shares bills with
 

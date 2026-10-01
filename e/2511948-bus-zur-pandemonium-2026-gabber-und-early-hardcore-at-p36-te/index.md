@@ -1,6 +1,6 @@
 # Bus zur Pandemonium 2026 (Gabber und Early Hardcore) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-Bus zur Pandemonium 2026 (Gabber und Early Hardcore) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 24 Oct, Frankfurt. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Bus zur Pandemonium 2026 (Gabber und Early Hardcore) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 24 Oct, Frankfurt. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

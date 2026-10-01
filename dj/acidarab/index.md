@@ -1,8 +1,8 @@
 # Acid Arab
 
-Acid Arab is a Electro and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at control, Bucharest on Fri, 2 Oct 2026.
+Acid Arab is a Electro and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at control, Bucharest on Fri, 2 Oct 2026.
 
-Acid Arab is an electro and techno artist based in France, tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: control, Bucharest on Fri 2 Oct.
+Acid Arab is an electro and techno artist based in France, with 94 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: control, Bucharest on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Acid Arab is an electro and techno artist based in France, tracked on soundcheck
 
 ## Recently played
 
-- Praia Irmão, Lisbon — Sat, 15 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- fabric, London — Sat, 20 Jun 2026
-- TBA - Swissotel The Bosphorus, Istanbul — Sat, 13 Jun 2026
-- Cova Santa, Ibiza — Sat, 6 Jun 2026
-- Fuse, Brussels — Fri, 5 Jun 2026
-- Gazebo, Stockholm — Thu, 14 May 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
+- Praia Irmão, Lisbon · Sat, 15 Aug 2026
+- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
+- fabric, London · Sat, 20 Jun 2026
+- TBA - Swissotel The Bosphorus, Istanbul · Sat, 13 Jun 2026
+- Cova Santa, Ibiza · Sat, 6 Jun 2026
+- Fuse, Brussels · Fri, 5 Jun 2026
+- Gazebo, Stockholm · Thu, 14 May 2026
+- TBA - Les Grandes Locos , Lyon · Wed, 13 May 2026
 
 ## Shares bills with
 

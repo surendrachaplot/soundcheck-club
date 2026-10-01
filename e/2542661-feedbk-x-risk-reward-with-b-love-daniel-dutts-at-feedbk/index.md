@@ -1,6 +1,6 @@
 # feedbk x risk reward with B.Love, Daniel Dutts at feedbk
 
-feedbk x risk reward with B.Love, Daniel Dutts on Thu 8 Oct, New York City. 2 artists on the bill: B.Love and Daniel Dutts. House and Tech House. Preview the line-up and save it on soundcheck.
+feedbk x risk reward with B.Love, Daniel Dutts on Thu 8 Oct, New York City. 2 artists: B.Love and Daniel Dutts. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

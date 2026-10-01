@@ -1,6 +1,6 @@
 # SB – Concert with indek (live A/V), Nixtrove live, irpat live, reae live, moonwhore live at SB – Space Between
 
-SB – Concert with indek (live A/V), Nixtrove live, irpat live, reae live, moonwhore live at SB – Space Between on Fri 2 Oct, Nürnberg. 2 artists on the bill: indek and Nixtrove. Experimental and IDM. Preview the line-up and save it on soundcheck.
+SB – Concert with indek (live A/V), Nixtrove live, irpat live, reae live, moonwhore live at SB – Space Between on Fri 2 Oct, Nürnberg. 2 artists: indek and Nixtrove. Experimental and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

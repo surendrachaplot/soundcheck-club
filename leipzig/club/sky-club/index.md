@@ -1,8 +1,8 @@
 # Sky Club
 
-Sky Club is a music venue in Leipzig with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "HALLOWEEN 2026" on Fri, 30 Oct 2026.
+Sky Club is a music venue in Leipzig with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HALLOWEEN 2026" on Fri, 30 Oct 2026.
 
-Sky Club is a music venue in Leipzig listed on soundcheck. 2 upcoming gigs, with line-ups including Abzocka, AMBAM, Ave (DE) and B-TUR and 2 more. Browse upcoming dates, start times and who's playing. Riesaer Str. 56-64, 04328 Leipzig.
+Sky Club is a music venue in Leipzig listed on soundcheck. 2 upcoming gigs, with line-ups including Abzocka, AMBAM, Ave (DE) and B-TUR and 2 more. See dates, start times and who's playing. Riesaer Str. 56-64, 04328 Leipzig.
 
 ## What's on
 

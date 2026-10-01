@@ -1,8 +1,8 @@
 # The Dutch Master
 
-The Dutch Master is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Moonbeam Boat" on Sat, 24 Oct 2026.
+The Dutch Master is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Moonbeam Boat" on Sat, 24 Oct 2026.
 
-The Dutch Master is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Sancho Panza and Smokin Jo. Browse upcoming dates, start times and who's playing. Tower Millennium Pier, Lower Thames St, London EC3N 4DT, United Kingdom.
+The Dutch Master is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Sancho Panza and Smokin Jo. See dates, start times and who's playing. Tower Millennium Pier, Lower Thames St, London EC3N 4DT, United Kingdom.
 
 ## What's on
 

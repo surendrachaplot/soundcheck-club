@@ -1,6 +1,6 @@
 # FRILLER FRIDAY: A HALLOWEEN SPECIAL at STEREO
 
-FRILLER FRIDAY: A HALLOWEEN SPECIAL at STEREO on Fri 30 Oct, London. Pop. Preview the line-up and save it on soundcheck.
+FRILLER FRIDAY: A HALLOWEEN SPECIAL at STEREO on Fri 30 Oct, London. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

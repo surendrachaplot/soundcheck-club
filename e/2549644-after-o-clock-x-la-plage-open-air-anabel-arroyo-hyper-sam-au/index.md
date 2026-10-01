@@ -1,6 +1,6 @@
 # After O'Clock X La Plage Open Air: Anabel Arroyo, Hyper Sam, Aude M at Glazart
 
-After O'Clock X La Plage Open Air: Anabel Arroyo, Hyper Sam, Aude M at Glazart on Sun 11 Oct, Paris. 2 artists on the bill: Anabel Arroyo and Hyper Sam. Techno. Preview the line-up and save it on soundcheck.
+After O'Clock X La Plage Open Air: Anabel Arroyo, Hyper Sam, Aude M at Glazart on Sun 11 Oct, Paris. 2 artists: Anabel Arroyo and Hyper Sam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Sacre Coeur Prague
 
-Sacre Coeur Prague is a music venue in Prague with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DNB[SPACE] with S.P.Y & QZB" on Fri, 23 Oct 2026.
+Sacre Coeur Prague is a music venue in Prague with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DNB[SPACE] with S.P.Y & QZB" on Fri, 23 Oct 2026.
 
-Sacre Coeur Prague is a music venue in Prague listed on soundcheck. 4 upcoming gigs, with line-ups including Broken Robot, Eska, Golpe and Ketacaos and 2 more. Browse upcoming dates, start times and who's playing. Holečkova 31, Praha 5, 15000, Czech Republic.
+Sacre Coeur Prague is a music venue in Prague listed on soundcheck. 4 upcoming gigs, with line-ups including Broken Robot, Eska, Golpe and Ketacaos and 2 more. See dates, start times and who's playing. Holečkova 31, Praha 5, 15000, Czech Republic.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Shangri-La presents: Girls Don't Sync & Benwal at Depot
 
-Shangri-La presents: Girls Don't Sync & Benwal at Depot on Sat 10 Oct, Cardiff. 2 artists on the bill: Benwal and Girls Don't Sync. Preview the line-up and save it on soundcheck.
+Shangri-La presents: Girls Don't Sync & Benwal at Depot on Sat 10 Oct, Cardiff. 2 artists: Benwal and Girls Don't Sync. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Devin Gray Quartet at Donau115
 
-Devin Gray Quartet at Donau115 on Sat 10 Oct, Berlin. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+Devin Gray Quartet at Donau115 on Sat 10 Oct, Berlin. Experimental and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

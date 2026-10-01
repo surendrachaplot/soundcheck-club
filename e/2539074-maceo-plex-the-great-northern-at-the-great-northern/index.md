@@ -1,6 +1,6 @@
 # Maceo Plex - The Great Northern at The Great Northern
 
-Maceo Plex - The Great Northern on Fri 13 Nov, San Francisco/Oakland. 1 artist on the bill: Maceo Plex. Techno and House. Preview the line-up and save it on soundcheck.
+Maceo Plex - The Great Northern on Fri 13 Nov, San Francisco/Oakland. 1 artist: Maceo Plex. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

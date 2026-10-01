@@ -1,6 +1,6 @@
 # Strut SF and F8 present Papa Lu at F8 1192 Folsom
 
-Strut SF and F8 present Papa Lu at F8 1192 Folsom on Wed 7 Oct, San Francisco/Oakland. 4 artists on the bill: LEDET, Papa Lu, Torie and Tyrel Williams. House and Acid. Preview the line-up and save it on soundcheck.
+Strut SF and F8 present Papa Lu at F8 1192 Folsom on Wed 7 Oct, San Francisco/Oakland. 4 artists: LEDET, Papa Lu, Torie and Tyrel Williams. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

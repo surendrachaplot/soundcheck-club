@@ -1,6 +1,6 @@
 # Mittendrin with Deacon Frost Jr. & Freunde at Minimal Bar
 
-Mittendrin with Deacon Frost Jr. & Freunde at Minimal Bar on Wed 21 Oct, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Mittendrin with Deacon Frost Jr. & Freunde at Minimal Bar on Wed 21 Oct, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

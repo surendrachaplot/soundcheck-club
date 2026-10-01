@@ -1,6 +1,6 @@
 # KLAP at Fonoteek
 
-KLAP at Fonoteek on Sat 17 Oct, Tallinn. 1 artist on the bill: QSLAP. Club. Preview the line-up and save it on soundcheck.
+KLAP at Fonoteek on Sat 17 Oct, Tallinn. 1 artist: QSLAP. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

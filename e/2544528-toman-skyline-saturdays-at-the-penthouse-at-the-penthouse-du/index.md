@@ -1,6 +1,6 @@
 # Toman - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai
 
-Toman - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai on Sat 10 Oct, Dubai. 1 artist on the bill: Toman. Preview the line-up and save it on soundcheck.
+Toman - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai on Sat 10 Oct, Dubai. 1 artist: Toman. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

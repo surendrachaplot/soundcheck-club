@@ -1,6 +1,6 @@
 # Block x Omni: Boss Priester at block.
 
-Block x Omni: Boss Priester at block. on Sun 25 Oct, Dublin. 1 artist on the bill: Boss Priester. Electronica. Preview the line-up and save it on soundcheck.
+Block x Omni: Boss Priester at block. on Sun 25 Oct, Dublin. 1 artist: Boss Priester. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

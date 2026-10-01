@@ -1,6 +1,6 @@
 # Late Night Funk Club: Brass Junkies + Black Wax Solution at The Lanes
 
-Late Night Funk Club: Brass Junkies + Black Wax Solution at The Lanes on Sat 10 Oct, Bristol. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Late Night Funk Club: Brass Junkies + Black Wax Solution at The Lanes on Sat 10 Oct, Bristol. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # STUDIO 17 pres. THE HORROR LOFT at Heaven0711
 
-STUDIO 17 pres. THE HORROR LOFT at Heaven0711 on Sat 31 Oct, Stuttgart. 2 artists on the bill: Coppola (DE) and JULEZ JK. House and Acid. Preview the line-up and save it on soundcheck.
+STUDIO 17 pres. THE HORROR LOFT at Heaven0711 on Sat 31 Oct, Stuttgart. 2 artists: Coppola (DE) and JULEZ JK. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

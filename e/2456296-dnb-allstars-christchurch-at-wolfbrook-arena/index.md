@@ -1,6 +1,6 @@
 # DnB Allstars (Christchurch) at Wolfbrook Arena
 
-DnB Allstars (Christchurch) at Wolfbrook Arena on Fri 2 Oct, Christchurch. 4 artists on the bill: Camo & Krooked, Crossy, Disrupta and Kanine. Preview the line-up and save it on soundcheck.
+DnB Allstars (Christchurch) at Wolfbrook Arena on Fri 2 Oct, Christchurch. 4 artists: Camo & Krooked, Crossy, Disrupta and Kanine. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

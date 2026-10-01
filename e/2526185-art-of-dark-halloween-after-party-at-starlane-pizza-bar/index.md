@@ -1,6 +1,6 @@
 # Art Of Dark - Halloween After Party at Starlane Pizza Bar
 
-Art Of Dark - Halloween After Party at Starlane Pizza Bar on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+Art Of Dark - Halloween After Party at Starlane Pizza Bar on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # SF Fudge
 
-SF Fudge is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Prince Consort, Brisbane on Fri, 16 Oct 2026.
+SF Fudge is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prince Consort, Brisbane on Fri, 16 Oct 2026.
 
-SF Fudge is a techno and trance artist based in Australia, tracked on soundcheck, with 9 sets logged across Brisbane. Often billed alongside Public Nuisance, Alan Fitzpatrick and BLADEXC. Next up: The Prince Consort, Brisbane on Fri 16 Oct.
+SF Fudge is a techno and trance artist based in Australia, with 9 gigs on soundcheck across Brisbane. Often billed alongside Public Nuisance, Alan Fitzpatrick and BLADEXC. Next up: The Prince Consort, Brisbane on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SF Fudge is a techno and trance artist based in Australia, tracked on soundcheck
 
 ## Recently played
 
-- Warehouse 25, Brisbane — Fri, 25 Sept 2026
-- Greaser Garage, Brisbane — Fri, 10 Jul 2026
-- La La Land, Brisbane — Sat, 24 Jan 2026
-- La La Land, Brisbane — Fri, 12 Dec 2025
-- La La Land, Brisbane — Sat, 29 Nov 2025
-- Prohibition Brisbane, Brisbane — Fri, 31 Oct 2025
-- La La Land Brisbane, Brisbane — Fri, 17 Oct 2025
-- TBA - Soapbox Beer, Fortitude Valley, Brisbane — Fri, 13 Jun 2025
+- Warehouse 25, Brisbane · Fri, 25 Sept 2026
+- Greaser Garage, Brisbane · Fri, 10 Jul 2026
+- La La Land, Brisbane · Sat, 24 Jan 2026
+- La La Land, Brisbane · Fri, 12 Dec 2025
+- La La Land, Brisbane · Sat, 29 Nov 2025
+- Prohibition Brisbane, Brisbane · Fri, 31 Oct 2025
+- La La Land Brisbane, Brisbane · Fri, 17 Oct 2025
+- TBA - Soapbox Beer, Fortitude Valley, Brisbane · Fri, 13 Jun 2025
 
 ## Shares bills with
 

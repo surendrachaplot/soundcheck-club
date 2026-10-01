@@ -1,8 +1,8 @@
 # Wild im West
 
-Wild im West is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Wild Gemischt Festival #1" on Sat, 3 Oct 2026.
+Wild im West is a music venue in Vienna with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Wild Gemischt Festival #1" on Sat, 3 Oct 2026.
 
-Wild im West is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Lila Gold and NHOAH. Browse upcoming dates, start times and who's playing. Karl-Farkas Gasse 1 , 1030.
+Wild im West is a music venue in Vienna listed on soundcheck. 1 upcoming gig, with line-ups including Lila Gold and NHOAH. See dates, start times and who's playing. Karl-Farkas Gasse 1 , 1030.
 
 ## What's on
 

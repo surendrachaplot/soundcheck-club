@@ -1,8 +1,8 @@
 # sintaro fujita (2)
 
-sintaro fujita (2) is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at BAR Inc, Osaka on Wed, 7 Oct 2026.
+sintaro fujita (2) is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BAR Inc, Osaka on Wed, 7 Oct 2026.
 
-sintaro fujita is a techno and bass artist based in Japan, tracked on soundcheck, with 19 sets logged across Kyoto and Osaka. Often billed alongside Naco, ykah and Ascalypso. Next up: BAR Inc, Osaka on Wed 7 Oct.
+sintaro fujita is a techno and bass artist based in Japan, with 19 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Naco, ykah and Ascalypso. Next up: BAR Inc, Osaka on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ sintaro fujita is a techno and bass artist based in Japan, tracked on soundcheck
 
 ## Recently played
 
-- BAR Inc, Osaka — Wed, 2 Sept 2026
-- BAR Inc, Osaka — Wed, 12 Aug 2026
-- BAR Inc, Osaka — Wed, 15 Jul 2026
-- Club Daphnia, Osaka — Sat, 20 Jun 2026
-- BAR Inc, Osaka — Wed, 10 Jun 2026
-- BAR Inc, Osaka — Wed, 13 May 2026
-- Circus Osaka, Osaka — Fri, 8 May 2026
-- BAR Inc, Osaka — Sat, 18 Apr 2026
+- BAR Inc, Osaka · Wed, 2 Sept 2026
+- BAR Inc, Osaka · Wed, 12 Aug 2026
+- BAR Inc, Osaka · Wed, 15 Jul 2026
+- Club Daphnia, Osaka · Sat, 20 Jun 2026
+- BAR Inc, Osaka · Wed, 10 Jun 2026
+- BAR Inc, Osaka · Wed, 13 May 2026
+- Circus Osaka, Osaka · Fri, 8 May 2026
+- BAR Inc, Osaka · Sat, 18 Apr 2026
 
 ## Shares bills with
 

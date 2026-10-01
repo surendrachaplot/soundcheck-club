@@ -1,6 +1,6 @@
 # Dark Entries Night: Darkvolt & The Ordure at Muziekcentrum Kinky Star
 
-Dark Entries Night: Darkvolt & The Ordure at Muziekcentrum Kinky Star on Sat 7 Nov, Ghent. Preview the line-up and save it on soundcheck.
+Dark Entries Night: Darkvolt & The Ordure at Muziekcentrum Kinky Star on Sat 7 Nov, Ghent. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

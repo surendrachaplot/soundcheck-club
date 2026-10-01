@@ -1,6 +1,6 @@
 # ZVocal vol.67 at Socore Factory
 
-ZVocal vol.67 at Socore Factory on Mon 5 Oct, Osaka. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
+ZVocal vol.67 at Socore Factory on Mon 5 Oct, Osaka. Hip-Hop and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

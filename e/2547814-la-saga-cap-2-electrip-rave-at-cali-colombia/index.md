@@ -1,6 +1,6 @@
 # La Saga Cap. 2 Electrip Rave at Cali Colombia
 
-La Saga Cap. 2 Electrip Rave at Cali Colombia on Sat 21 Nov, Cali. 2 artists on the bill: Ben Sims and Truncate. Preview the line-up and save it on soundcheck.
+La Saga Cap. 2 Electrip Rave at Cali Colombia on Sat 21 Nov, Cali. 2 artists: Ben Sims and Truncate. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

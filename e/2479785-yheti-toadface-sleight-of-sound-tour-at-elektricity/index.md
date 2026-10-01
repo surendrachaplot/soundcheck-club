@@ -1,6 +1,6 @@
 # YHETI & TOADFACE: SLEIGHT OF SOUND TOUR at Elektricity
 
-YHETI & TOADFACE: SLEIGHT OF SOUND TOUR at Elektricity on Sat 3 Oct, Detroit. Downtempo and Dubstep. Preview the line-up and save it on soundcheck.
+YHETI & TOADFACE: SLEIGHT OF SOUND TOUR at Elektricity on Sat 3 Oct, Detroit. Downtempo and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NO NAME at Lula Club
 
-NO NAME at Lula Club on Thu 8 Oct, Madrid. Preview the line-up and save it on soundcheck.
+NO NAME at Lula Club on Thu 8 Oct, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

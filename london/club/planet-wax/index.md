@@ -1,8 +1,8 @@
 # Planet Wax
 
-Planet Wax is a music venue in London with 36 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "HOT GIRLS LOVE BASS" on Thu, 1 Oct 2026.
+Planet Wax is a music venue in London with 36 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HOT GIRLS LOVE BASS" on Thu, 1 Oct 2026.
 
-Planet Wax is a music venue in London listed on soundcheck. 36 upcoming gigs, with line-ups including Amy  B, Andy Foundations, andz and Aura and 2 more. Browse upcoming dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
+Planet Wax is a music venue in London listed on soundcheck. 36 upcoming gigs, with line-ups including Amy  B, Andy Foundations, andz and Aura and 2 more. See dates, start times and who's playing. 318 NEW CROSS ROAD LONDON SE14 6AF.
 
 ## What's on
 

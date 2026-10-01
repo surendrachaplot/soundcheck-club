@@ -1,6 +1,6 @@
 # M.A.D Records 7th BIRTHDAY at NUMBER 90 LONDON
 
-M.A.D Records 7th BIRTHDAY at NUMBER 90 LONDON on Sat 21 Nov, London. 3 artists on the bill: Ellie Anderson, Make A Dance and Tino. House. Preview the line-up and save it on soundcheck.
+M.A.D Records 7th BIRTHDAY at NUMBER 90 LONDON on Sat 21 Nov, London. 3 artists: Ellie Anderson, Make A Dance and Tino. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

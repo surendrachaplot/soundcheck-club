@@ -1,6 +1,6 @@
 # Lunatixx invades Athens at TBA - Ελασιδών 6 , Γκάζι
 
-Lunatixx invades Athens at TBA - Ελασιδών 6 , Γκάζι on Sat 24 Oct, Athens. Trance and Techno. Preview the line-up and save it on soundcheck.
+Lunatixx invades Athens at TBA - Ελασιδών 6 , Γκάζι on Sat 24 Oct, Athens. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

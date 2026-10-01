@@ -1,6 +1,6 @@
 # RAVERZZ present: Psychedelic Chronicles with Inner Sphere (CH/IR) at Chapeau Rouge
 
-RAVERZZ present: Psychedelic Chronicles with Inner Sphere (CH/IR) at Chapeau Rouge on Fri 9 Oct, Prague. Psytrance. Preview the line-up and save it on soundcheck.
+RAVERZZ present: Psychedelic Chronicles with Inner Sphere (CH/IR) at Chapeau Rouge on Fri 9 Oct, Prague. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

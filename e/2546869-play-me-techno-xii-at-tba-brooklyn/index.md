@@ -1,6 +1,6 @@
 # PLAY ME TECHNO XII at TBA - Brooklyn
 
-PLAY ME TECHNO XII at TBA - Brooklyn on Sat 17 Oct, New York City. Techno and Electro. Preview the line-up and save it on soundcheck.
+PLAY ME TECHNO XII at TBA - Brooklyn on Sat 17 Oct, New York City. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

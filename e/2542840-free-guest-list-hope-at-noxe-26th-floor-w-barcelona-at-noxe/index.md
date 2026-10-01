@@ -1,6 +1,6 @@
 # FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona on Thu 22 Oct, Barcelona. 2 artists on the bill: Drunk At Vogue and Pau Grima. House. Preview the line-up and save it on soundcheck.
+FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona on Thu 22 Oct, Barcelona. 2 artists: Drunk At Vogue and Pau Grima. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

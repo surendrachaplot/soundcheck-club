@@ -1,6 +1,6 @@
 # Lekkerfaces pres. Hyper & The Dark Horror at Docks
 
-Lekkerfaces pres. Hyper & The Dark Horror at Docks on Fri 23 Oct, Hamburg. 3 artists on the bill: Lekkerfaces, The Dark Horror and Yoshiko. Preview the line-up and save it on soundcheck.
+Lekkerfaces pres. Hyper & The Dark Horror at Docks on Fri 23 Oct, Hamburg. 3 artists: Lekkerfaces, The Dark Horror and Yoshiko. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

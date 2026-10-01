@@ -1,6 +1,6 @@
 # King Kong Kicks • IndiePop&Hypes + RaveIsKing• Uebel & Gefährlich • Hamburg at Uebel & Gefährlich
 
-King Kong Kicks • IndiePop&Hypes + RaveIsKing• Uebel & Gefährlich • Hamburg on Fri 2 Oct, Hamburg. Pop. Preview the line-up and save it on soundcheck.
+King Kong Kicks • IndiePop&Hypes + RaveIsKing• Uebel & Gefährlich • Hamburg on Fri 2 Oct, Hamburg. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

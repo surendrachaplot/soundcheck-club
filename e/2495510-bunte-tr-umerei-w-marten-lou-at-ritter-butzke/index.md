@@ -1,6 +1,6 @@
 # Bunte Träumerei w/ Marten Lou at Ritter Butzke
 
-Bunte Träumerei w/ Marten Lou at Ritter Butzke on Fri 13 Nov, Berlin. 2 artists on the bill: MARC WERNER and Marten Lou. Techno. Preview the line-up and save it on soundcheck.
+Bunte Träumerei w/ Marten Lou at Ritter Butzke on Fri 13 Nov, Berlin. 2 artists: MARC WERNER and Marten Lou. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

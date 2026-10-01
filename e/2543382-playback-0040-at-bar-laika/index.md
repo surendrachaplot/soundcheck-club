@@ -1,6 +1,6 @@
 # Playback 0040 at Bar Laika
 
-Playback 0040 at Bar Laika on Tue 17 Nov, New York City. 1 artist on the bill: Chantal Michelle. Experimental. Preview the line-up and save it on soundcheck.
+Playback 0040 at Bar Laika on Tue 17 Nov, New York City. 1 artist: Chantal Michelle. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

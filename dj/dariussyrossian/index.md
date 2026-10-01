@@ -1,8 +1,8 @@
 # Darius Syrossian
 
-Darius Syrossian is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Darius Syrossian is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Darius Syrossian is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 196 sets logged across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Darius Syrossian is a house and tech house artist based in United Kingdom, with 196 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Birmingham and 25 more. Often billed alongside Olive F, Prunk and GW Harrison. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Darius Syrossian is a house and tech house artist based in United Kingdom, track
 
 ## Recently played
 
-- IDRA, Manchester — Sat, 26 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 17 Sept 2026
-- Amnesia Milano, Milan — Sat, 12 Sept 2026
-- TBA - Secret location announced only to ticket holders, Ibiza — Fri, 11 Sept 2026
-- Cova Santa, Ibiza — Tue, 8 Sept 2026
-- 77, London — Sat, 5 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 27 Aug 2026
-- Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 22 Aug 2026
+- IDRA, Manchester · Sat, 26 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 17 Sept 2026
+- Amnesia Milano, Milan · Sat, 12 Sept 2026
+- TBA - Secret location announced only to ticket holders, Ibiza · Fri, 11 Sept 2026
+- Cova Santa, Ibiza · Tue, 8 Sept 2026
+- 77, London · Sat, 5 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 27 Aug 2026
+- Hola Club Sitges (Cala Vallcarca), Barcelona · Sat, 22 Aug 2026
 
 ## Shares bills with
 

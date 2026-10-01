@@ -1,6 +1,6 @@
 # Mariano Mellino - PERTH at The River
 
-Mariano Mellino - PERTH at The River on Sun 11 Oct, Perth. 1 artist on the bill: Mariano Mellino. Preview the line-up and save it on soundcheck.
+Mariano Mellino - PERTH at The River on Sun 11 Oct, Perth. 1 artist: Mariano Mellino. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

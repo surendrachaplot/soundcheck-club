@@ -1,6 +1,6 @@
 # BANTU MOVEMENT: The Listening Party at High Note
 
-BANTU MOVEMENT: The Listening Party at High Note on Wed 21 Oct, Melbourne. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+BANTU MOVEMENT: The Listening Party at High Note on Wed 21 Oct, Melbourne. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

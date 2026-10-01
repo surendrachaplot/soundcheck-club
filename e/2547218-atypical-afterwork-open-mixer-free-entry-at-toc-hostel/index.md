@@ -1,6 +1,6 @@
 # ATYPICAL: Afterwork + Open Mixer (Free Entry) at TOC Hostel
 
-ATYPICAL: Afterwork + Open Mixer (Free Entry) at TOC Hostel on Fri 2 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+ATYPICAL: Afterwork + Open Mixer (Free Entry) at TOC Hostel on Fri 2 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Take It Easy Halloween Night at Arca
 
-Take It Easy Halloween Night at Arca on Sat 31 Oct, Milan. Techno and House. Preview the line-up and save it on soundcheck.
+Take It Easy Halloween Night at Arca on Sat 31 Oct, Milan. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

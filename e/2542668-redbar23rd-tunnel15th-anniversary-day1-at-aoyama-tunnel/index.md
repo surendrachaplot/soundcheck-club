@@ -1,6 +1,6 @@
 # REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY1 at Aoyama Tunnel
 
-REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY1 at Aoyama Tunnel on Fri 2 Oct, Tokyo. 3 artists on the bill: DNG, Max Essa and RIHO ASAEDA. Techno and House. Preview the line-up and save it on soundcheck.
+REDBAR23rd & TUNNEL15th ANNIVERSARY - DAY1 at Aoyama Tunnel on Fri 2 Oct, Tokyo. 3 artists: DNG, Max Essa and RIHO ASAEDA. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CLASSIX OF HOUSE BY FRAN ARES at Lula Club
 
-CLASSIX OF HOUSE BY FRAN ARES at Lula Club on Sat 24 Oct, Madrid. Preview the line-up and save it on soundcheck.
+CLASSIX OF HOUSE BY FRAN ARES at Lula Club on Sat 24 Oct, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # reane: ZÈYLA & Una Lee at renae
 
-reane: ZÈYLA & Una Lee at renae on Fri 2 Oct, Manchester. Preview the line-up and save it on soundcheck.
+reane: ZÈYLA & Una Lee at renae on Fri 2 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EA THE SOUND OF RETRO at La Nau
 
-EA THE SOUND OF RETRO at La Nau on Fri 9 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+EA THE SOUND OF RETRO at La Nau on Fri 9 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Apollo Studio presents at Apollo Studio
 
-Apollo Studio presents on Sat 14 Nov, New York City. Preview the line-up and save it on soundcheck.
+Apollo Studio presents on Sat 14 Nov, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

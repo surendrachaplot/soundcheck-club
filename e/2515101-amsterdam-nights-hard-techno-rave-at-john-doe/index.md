@@ -1,6 +1,6 @@
 # Amsterdam Nights: Hard Techno Rave at John Doe
 
-Amsterdam Nights: Hard Techno Rave at John Doe on Sat 28 Nov, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Nights: Hard Techno Rave at John Doe on Sat 28 Nov, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

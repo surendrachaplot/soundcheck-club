@@ -1,6 +1,6 @@
 # Crunch Fest Berlin: Sonic Death, Shaemless, Mud Grief, Dusk Saffron, Etsamoe, slowraw at Cassiopeia
 
-Crunch Fest Berlin: Sonic Death, Shaemless, Mud Grief, Dusk Saffron, Etsamoe, slowraw at Cassiopeia on Sun 11 Oct, Berlin. Noise and Post-Punk. Preview the line-up and save it on soundcheck.
+Crunch Fest Berlin: Sonic Death, Shaemless, Mud Grief, Dusk Saffron, Etsamoe, slowraw at Cassiopeia on Sun 11 Oct, Berlin. Noise and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

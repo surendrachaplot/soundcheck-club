@@ -1,8 +1,8 @@
 # A.Paul
 
-A.Paul is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at NADA Lisbon, Lisbon on Sat, 17 Oct 2026.
+A.Paul is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NADA Lisbon, Lisbon on Sat, 17 Oct 2026.
 
-A.Paul is a techno and hardcore artist based in Portugal, tracked on soundcheck, with 12 sets logged across Amsterdam, Leeds, Lisbon and Malta. Often billed alongside Dkult, Black Lotus and DJ Dextro. Next up: NADA Lisbon, Lisbon on Sat 17 Oct.
+A.Paul is a techno and hardcore artist based in Portugal, with 12 gigs on soundcheck across Amsterdam, Leeds, Lisbon and Malta. Often billed alongside Dkult, Black Lotus and DJ Dextro. Next up: NADA Lisbon, Lisbon on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ A.Paul is a techno and hardcore artist based in Portugal, tracked on soundcheck,
 
 ## Recently played
 
-- Liquid Club, Malta — Sat, 29 Aug 2026
-- NADA Lisbon, Lisbon — Fri, 26 Jun 2026
-- John Doe, Amsterdam — Thu, 7 May 2026
-- Beaver Works, Leeds — Sat, 13 Sept 2025
-- Beaver Works, Leeds — Sat, 8 Feb 2025
-- Ginjal Terrasse, Lisbon — Sat, 11 Nov 2023
-- Kømplex Lisbon, Lisbon — Sat, 30 Sept 2023
-- Infinity Club- Lisboa, Lisbon — Sat, 23 Sept 2023
+- Liquid Club, Malta · Sat, 29 Aug 2026
+- NADA Lisbon, Lisbon · Fri, 26 Jun 2026
+- John Doe, Amsterdam · Thu, 7 May 2026
+- Beaver Works, Leeds · Sat, 13 Sept 2025
+- Beaver Works, Leeds · Sat, 8 Feb 2025
+- Ginjal Terrasse, Lisbon · Sat, 11 Nov 2023
+- Kømplex Lisbon, Lisbon · Sat, 30 Sept 2023
+- Infinity Club- Lisboa, Lisbon · Sat, 23 Sept 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Tropiloco Halloween at The Social Club
 
-Tropiloco Halloween at The Social Club on Sat 31 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Tropiloco Halloween at The Social Club on Sat 31 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

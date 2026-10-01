@@ -1,6 +1,6 @@
 # Sankeys Saturdays at Sankeys
 
-Sankeys Saturdays on Sat 5 Dec, Manchester. 3 artists on the bill: Rossko, Seb Zito and Tom Shorterz. House. Preview the line-up and save it on soundcheck.
+Sankeys Saturdays on Sat 5 Dec, Manchester. 3 artists: Rossko, Seb Zito and Tom Shorterz. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

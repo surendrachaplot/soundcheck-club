@@ -1,6 +1,6 @@
 # Progressivu, Doni Kis at Lux Fragil
 
-Progressivu, Doni Kis at Lux Fragil on Thu 29 Oct, Lisbon. 2 artists on the bill: Doni Kis and Progressivu. Preview the line-up and save it on soundcheck.
+Progressivu, Doni Kis at Lux Fragil on Thu 29 Oct, Lisbon. 2 artists: Doni Kis and Progressivu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

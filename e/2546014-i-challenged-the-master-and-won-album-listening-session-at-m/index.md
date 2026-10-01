@@ -1,6 +1,6 @@
 # I Challenged The Master and Won Album Listening Session at Moondog Hifi
 
-I Challenged The Master and Won Album Listening Session at Moondog Hifi on Thu 1 Oct, New York City. Preview the line-up and save it on soundcheck.
+I Challenged The Master and Won Album Listening Session at Moondog Hifi on Thu 1 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

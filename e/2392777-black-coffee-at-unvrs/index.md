@@ -1,6 +1,6 @@
 # Black Coffee at [UNVRS]
 
-Black Coffee at [UNVRS] on Thu 1 Oct, Ibiza. 1 artist on the bill: Black Coffee. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Black Coffee at [UNVRS] on Thu 1 Oct, Ibiza. 1 artist: Black Coffee. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

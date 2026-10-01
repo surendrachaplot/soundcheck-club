@@ -1,6 +1,6 @@
 # Sendebibu - FORSA ANSESTRAL at Mono
 
-Sendebibu - FORSA ANSESTRAL at Mono on Fri 2 Oct, Rotterdam. 1 artist on the bill: Tera Kòrá. Kuduro. Preview the line-up and save it on soundcheck.
+Sendebibu - FORSA ANSESTRAL at Mono on Fri 2 Oct, Rotterdam. 1 artist: Tera Kòrá. Kuduro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

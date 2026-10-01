@@ -1,8 +1,8 @@
 # Société des arts technologiques
 
-Société des arts technologiques is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Making Time x SAT 2026" on Sat, 3 Oct 2026.
+Société des arts technologiques is a music venue in Montreal with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Making Time x SAT 2026" on Sat, 3 Oct 2026.
 
-Société des arts technologiques is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including 3Phaz, Adrian Sherwood, Aurora Halal and Bambii and 2 more. Browse upcoming dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
+Société des arts technologiques is a music venue in Montreal listed on soundcheck. 7 upcoming gigs, with line-ups including 3Phaz, Adrian Sherwood, Aurora Halal and Bambii and 2 more. See dates, start times and who's playing. 1201 Boulevard Saint-Laurent; Montréal, QC H2X 2S6; Canada.
 
 ## What's on
 

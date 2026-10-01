@@ -1,6 +1,6 @@
 # Floating Audacious Ed. 8 at TBA - in the Red Sea
 
-Floating Audacious Ed. 8 at TBA - in the Red Sea on Fri 7 May, Egypt. 2 artists on the bill: AMARE and Caspar (BE). Preview the line-up and save it on soundcheck.
+Floating Audacious Ed. 8 at TBA - in the Red Sea on Fri 7 May, Egypt. 2 artists: AMARE and Caspar (BE). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

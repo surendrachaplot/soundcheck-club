@@ -1,6 +1,6 @@
 # SETH DAVID at Q Nightclub
 
-SETH DAVID at Q Nightclub on Sat 12 Dec, Seattle. Preview the line-up and save it on soundcheck.
+SETH DAVID at Q Nightclub on Sat 12 Dec, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

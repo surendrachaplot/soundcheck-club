@@ -1,6 +1,6 @@
 # SIGNAL4YR at TBA
 
-SIGNAL4YR at TBA on Fri 13 Nov, Los Angeles. Preview the line-up and save it on soundcheck.
+SIGNAL4YR at TBA on Fri 13 Nov, Los Angeles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

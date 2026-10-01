@@ -1,6 +1,6 @@
 # Zenyth X Euphoria at Blindspot*
 
-Zenyth X Euphoria at Blindspot* on Sat 10 Oct, Bucharest. 3 artists on the bill: Kanghu, Michael Ius and Synthetica. Acid and Industrial. Preview the line-up and save it on soundcheck.
+Zenyth X Euphoria at Blindspot* on Sat 10 Oct, Bucharest. 3 artists: Kanghu, Michael Ius and Synthetica. Acid and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

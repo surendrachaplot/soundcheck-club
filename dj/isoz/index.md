@@ -1,8 +1,8 @@
 # Isoz
 
-Isoz is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Edge Seoul, Seoul on Fri, 2 Oct 2026.
+Isoz is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Edge Seoul, Seoul on Fri, 2 Oct 2026.
 
-Isoz is a house and club artist based in South Korea, tracked on soundcheck, with 35 sets logged across Seoul. Often billed alongside J.U.N.E, aso and Shinyoung. Next up: The Edge Seoul, Seoul on Fri 2 Oct.
+Isoz is a house and club artist based in South Korea, with 35 gigs on soundcheck across Seoul. Often billed alongside J.U.N.E, aso and Shinyoung. Next up: The Edge Seoul, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Isoz is a house and club artist based in South Korea, tracked on soundcheck, wit
 
 ## Recently played
 
-- Evening, Seoul — Sat, 19 Sept 2026
-- Modeci, Seoul — Fri, 28 Aug 2026
-- Nué Seoul, Seoul — Fri, 14 Aug 2026
-- Kockiri, Seoul — Wed, 12 Aug 2026
-- Evening, Seoul — Fri, 31 Jul 2026
-- The Edge Seoul, Seoul — Sat, 18 Jul 2026
-- Nyapi, Seoul — Thu, 9 Jul 2026
-- The Edge Seoul, Seoul — Sat, 4 Jul 2026
+- Evening, Seoul · Sat, 19 Sept 2026
+- Modeci, Seoul · Fri, 28 Aug 2026
+- Nué Seoul, Seoul · Fri, 14 Aug 2026
+- Kockiri, Seoul · Wed, 12 Aug 2026
+- Evening, Seoul · Fri, 31 Jul 2026
+- The Edge Seoul, Seoul · Sat, 18 Jul 2026
+- Nyapi, Seoul · Thu, 9 Jul 2026
+- The Edge Seoul, Seoul · Sat, 4 Jul 2026
 
 ## Shares bills with
 

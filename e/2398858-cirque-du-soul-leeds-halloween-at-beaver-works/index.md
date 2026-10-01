@@ -1,6 +1,6 @@
 # Cirque Du Soul: Leeds // Halloween at Beaver Works
 
-Cirque Du Soul: Leeds // Halloween at Beaver Works on Fri 30 Oct, Leeds. 2 artists on the bill: Badger (UK) and IsGwan. House and Garage. Preview the line-up and save it on soundcheck.
+Cirque Du Soul: Leeds // Halloween at Beaver Works on Fri 30 Oct, Leeds. 2 artists: Badger (UK) and IsGwan. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

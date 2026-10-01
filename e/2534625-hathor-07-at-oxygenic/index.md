@@ -1,6 +1,6 @@
 # Hathor 07 at Oxygenic
 
-Hathor 07 at Oxygenic on Sat 19 Dec, Newcastle. Preview the line-up and save it on soundcheck.
+Hathor 07 at Oxygenic on Sat 19 Dec, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

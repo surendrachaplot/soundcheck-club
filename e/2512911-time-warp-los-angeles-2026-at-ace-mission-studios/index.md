@@ -1,6 +1,6 @@
 # Time Warp Los Angeles 2026 at Ace*Mission Studios
 
-Time Warp Los Angeles 2026 at Ace*Mission Studios on Fri 27 Nov, Los Angeles. 38 artists on the bill: Ben Klock, Blawan, Chlär and Cloudy and 34 more. Techno and House. Preview the line-up and save it on soundcheck.
+Time Warp Los Angeles 2026 at Ace*Mission Studios on Fri 27 Nov, Los Angeles. 38 artists: Ben Klock, Blawan, Chlär and Cloudy and 34 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Alok
 
-Alok is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Alok is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Alok is a house and electronica artist based in Brazil, tracked on soundcheck, with 39 sets logged across Bali, Barcelona, Boston and Budapest and 17 more. Often billed alongside Dimitri Vegas & Like Mike, Korolova and Steve Aoki. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Alok is a house and electronica artist based in Brazil, with 39 gigs on soundcheck across Bali, Barcelona, Boston and Budapest and 17 more. Often billed alongside Dimitri Vegas & Like Mike, Korolova and Steve Aoki. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Alok is a house and electronica artist based in Brazil, tracked on soundcheck, w
 
 ## Recently played
 
-- Medusa Beach, Valencia — Thu, 13 Aug 2026
-- Cavo Paradiso, Mykonos — Sun, 9 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Wed, 5 Aug 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 5 Aug 2026
-- Pacha New York, New York City — Sat, 1 Aug 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 22 Jul 2026
-- Ushuaïa Ibiza, Ibiza — Wed, 1 Jul 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 10 Jun 2026
+- Medusa Beach, Valencia · Thu, 13 Aug 2026
+- Cavo Paradiso, Mykonos · Sun, 9 Aug 2026
+- Ushuaïa Ibiza, Ibiza · Wed, 5 Aug 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Wed, 5 Aug 2026
+- Pacha New York, New York City · Sat, 1 Aug 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Wed, 22 Jul 2026
+- Ushuaïa Ibiza, Ibiza · Wed, 1 Jul 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Wed, 10 Jun 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Break (2)
 
-Break (2) is a Drum & Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Break (2) is a Drum & Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Break is a drum & bass and garage artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Bristol, London, Malta and Manchester. Often billed alongside Duskee, Halogenix and SP:MC. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Break is a drum & bass and garage artist based in United Kingdom, with 4 gigs on soundcheck across Bristol, London, Malta and Manchester. Often billed alongside Duskee, Halogenix and SP:MC. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,8 @@ Break is a drum & bass and garage artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- Sawmills, Bristol — Sat, 7 Feb 2026
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- Sawmills, Bristol · Sat, 7 Feb 2026
 
 ## Shares bills with
 

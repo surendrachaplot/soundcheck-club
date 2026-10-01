@@ -1,6 +1,6 @@
 # Abercrombie Pres. BASHKKA [DE] & JakoJako [DE] at Abercrombie Hotel
 
-Abercrombie Pres. BASHKKA [DE] & JakoJako [DE] at Abercrombie Hotel on Fri 27 Nov, Sydney. 2 artists on the bill: BASHKKA and JakoJako. Techno and Electro. Preview the line-up and save it on soundcheck.
+Abercrombie Pres. BASHKKA [DE] & JakoJako [DE] at Abercrombie Hotel on Fri 27 Nov, Sydney. 2 artists: BASHKKA and JakoJako. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

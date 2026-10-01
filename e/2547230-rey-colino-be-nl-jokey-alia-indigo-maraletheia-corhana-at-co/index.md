@@ -1,6 +1,6 @@
 # Rey Colino [BE/NL], Jokey!, alia indigo, Maraletheia & Corhana at control
 
-Rey Colino [BE/NL], Jokey!, alia indigo, Maraletheia & Corhana at control on Fri 9 Oct, Bucharest. 2 artists on the bill: alia indigo and Rey Colino. Techno and Electro. Preview the line-up and save it on soundcheck.
+Rey Colino [BE/NL], Jokey!, alia indigo, Maraletheia & Corhana at control on Fri 9 Oct, Bucharest. 2 artists: alia indigo and Rey Colino. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

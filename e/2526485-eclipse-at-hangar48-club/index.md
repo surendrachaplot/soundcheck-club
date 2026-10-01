@@ -1,6 +1,6 @@
 # ECLIPSE at Hangar48 Club
 
-ECLIPSE at Hangar48 Club on Fri 2 Oct, Madrid. Techno. Preview the line-up and save it on soundcheck.
+ECLIPSE at Hangar48 Club on Fri 2 Oct, Madrid. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

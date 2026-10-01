@@ -1,6 +1,6 @@
 # ://sektgarten [free entry & open air] at ://about blank
 
-://sektgarten [free entry & open air] at ://about blank on Thu 1 Oct, Berlin. House and Disco. Preview the line-up and save it on soundcheck.
+://sektgarten [free entry & open air] at ://about blank on Thu 1 Oct, Berlin. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

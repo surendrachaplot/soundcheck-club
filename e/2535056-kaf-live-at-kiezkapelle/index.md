@@ -1,6 +1,6 @@
 # KAF Live at Kiezkapelle
 
-KAF Live at Kiezkapelle on Thu 1 Oct, Berlin. Experimental and Pop. Preview the line-up and save it on soundcheck.
+KAF Live at Kiezkapelle on Thu 1 Oct, Berlin. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

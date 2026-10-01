@@ -1,8 +1,8 @@
 # Kirilski
 
-Kirilski is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
+Kirilski is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Wed, 21 Oct 2026.
 
-Kirilski is a house and techno artist based in Ukraine, tracked on soundcheck, with 89 sets logged across Amsterdam, Barcelona, London and Miami and 1 more. Often billed alongside Pura Pachanga, Snooz and Emma Champagne Queen. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
+Kirilski is a house and techno artist based in Ukraine, with 89 gigs on soundcheck across Amsterdam, Barcelona, London and Miami and 1 more. Often billed alongside Pura Pachanga, Snooz and Emma Champagne Queen. Next up: Grand Café Heineken Hoek, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Kirilski is a house and techno artist based in Ukraine, tracked on soundcheck, w
 
 ## Recently played
 
-- Sportpark Riekerhaven, Amsterdam — Sat, 12 Sept 2026
-- Yellow House, Amsterdam — Fri, 11 Sept 2026
-- Loop51, Amsterdam — Fri, 4 Sept 2026
-- Db55, Amsterdam — Fri, 28 Aug 2026
-- Madam, Amsterdam — Fri, 7 Aug 2026
-- Supperclub, Amsterdam — Thu, 6 Aug 2026
-- Club NYX, Amsterdam — Wed, 29 Jul 2026
-- TBA - DAM SQUARE / VONDELPARK after 14:00, Amsterdam — Sat, 25 Jul 2026
+- Sportpark Riekerhaven, Amsterdam · Sat, 12 Sept 2026
+- Yellow House, Amsterdam · Fri, 11 Sept 2026
+- Loop51, Amsterdam · Fri, 4 Sept 2026
+- Db55, Amsterdam · Fri, 28 Aug 2026
+- Madam, Amsterdam · Fri, 7 Aug 2026
+- Supperclub, Amsterdam · Thu, 6 Aug 2026
+- Club NYX, Amsterdam · Wed, 29 Jul 2026
+- TBA - DAM SQUARE / VONDELPARK after 14:00, Amsterdam · Sat, 25 Jul 2026
 
 ## Shares bills with
 

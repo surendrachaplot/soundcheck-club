@@ -1,6 +1,6 @@
 # RISE: Trance Thursday Nightclub - Data Drain at Spin
 
-RISE: Trance Thursday Nightclub - Data Drain at Spin on Thu 15 Oct, San Diego. Trance. Preview the line-up and save it on soundcheck.
+RISE: Trance Thursday Nightclub - Data Drain at Spin on Thu 15 Oct, San Diego. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

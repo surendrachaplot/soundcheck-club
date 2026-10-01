@@ -1,8 +1,8 @@
 # I:Cube
 
-I:Cube is a House and Krautrock artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at FOLD, London on Sat, 17 Oct 2026.
+I:Cube is a House and Krautrock artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
-I:Cube is a house and krautrock artist based in France, tracked on soundcheck, with 8 sets logged across Amsterdam, London, Paris and Strasbourg. Often billed alongside Ivan Smagghe, Bufiman and Gilb'R. Next up: FOLD, London on Sat 17 Oct.
+I:Cube is a house and krautrock artist based in France, with 8 gigs on soundcheck across Amsterdam, London, Paris and Strasbourg. Often billed alongside Ivan Smagghe, Bufiman and Gilb'R. Next up: FOLD, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ I:Cube is a house and krautrock artist based in France, tracked on soundcheck, w
 
 ## Recently played
 
-- La Station - Gare des Mines, Paris — Thu, 9 Jul 2026
-- Lithium Paris, Paris — Sat, 22 Nov 2025
-- Yoyaku Record Store, Paris — Wed, 17 Jul 2024
-- Les Studios du Rhin, Strasbourg — Fri, 14 Jun 2024
-- TBA - Various venues, Strasbourg — Wed, 12 Jun 2024
-- La Nuit, Paris — Fri, 1 Sept 2023
-- Het Twiske, Amsterdam — Sat, 27 May 2023
+- La Station - Gare des Mines, Paris · Thu, 9 Jul 2026
+- Lithium Paris, Paris · Sat, 22 Nov 2025
+- Yoyaku Record Store, Paris · Wed, 17 Jul 2024
+- Les Studios du Rhin, Strasbourg · Fri, 14 Jun 2024
+- TBA - Various venues, Strasbourg · Wed, 12 Jun 2024
+- La Nuit, Paris · Fri, 1 Sept 2023
+- Het Twiske, Amsterdam · Sat, 27 May 2023
 
 ## Shares bills with
 

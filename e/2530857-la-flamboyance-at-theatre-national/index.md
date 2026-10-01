@@ -1,6 +1,6 @@
 # LA FLAMBOYANCE at Theatre National
 
-LA FLAMBOYANCE at Theatre National on Fri 9 Oct, Brussels. R&B and Afro House. Preview the line-up and save it on soundcheck.
+LA FLAMBOYANCE at Theatre National on Fri 9 Oct, Brussels. R&B and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LIVID: HARD TECHNO HALLOWEEN at TBA - WAREHOUSE
 
-LIVID: HARD TECHNO HALLOWEEN at TBA - WAREHOUSE on Sat 31 Oct, Vancouver. Techno and Industrial. Preview the line-up and save it on soundcheck.
+LIVID: HARD TECHNO HALLOWEEN at TBA - WAREHOUSE on Sat 31 Oct, Vancouver. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

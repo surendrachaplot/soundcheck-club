@@ -1,6 +1,6 @@
 # DIVA • Night Session • DART ~ HEDDA ~ Maï-Linh ~ Matilda ~ mita (live) at Macadam
 
-DIVA • Night Session • DART ~ HEDDA ~ Maï-Linh ~ Matilda ~ mita (live) at Macadam on Tue 10 Nov, Nantes. 4 artists on the bill: DART, HEDDA, Maï-Linh and matilda. Trance and Techno. Preview the line-up and save it on soundcheck.
+DIVA • Night Session • DART ~ HEDDA ~ Maï-Linh ~ Matilda ~ mita (live) at Macadam on Tue 10 Nov, Nantes. 4 artists: DART, HEDDA, Maï-Linh and matilda. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

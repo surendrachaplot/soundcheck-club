@@ -1,8 +1,8 @@
 # Notting Hill Arts Club
 
-Notting Hill Arts Club is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "House of Moom with Hifi Sean" on Fri, 23 Oct 2026.
+Notting Hill Arts Club is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "House of Moom with Hifi Sean" on Fri, 23 Oct 2026.
 
-Notting Hill Arts Club is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Hifi Sean and Midge (UK). Browse upcoming dates, start times and who's playing. 21 Notting Hill Gate; Notting Hill; London W11 3JQ; United Kingdom.
+Notting Hill Arts Club is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Hifi Sean and Midge (UK). See dates, start times and who's playing. 21 Notting Hill Gate; Notting Hill; London W11 3JQ; United Kingdom.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # LIBERI LIVE - FALL DANCE at Jo & Joe Rooftop
 
-LIBERI LIVE - FALL DANCE at Jo & Joe Rooftop on Sat 3 Oct, Vienna. House and Afro House. Preview the line-up and save it on soundcheck.
+LIBERI LIVE - FALL DANCE at Jo & Joe Rooftop on Sat 3 Oct, Vienna. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # West Germany
 
-West Germany is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Your Disco Needs You" on Sat, 3 Oct 2026.
+West Germany is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Your Disco Needs You" on Sat, 3 Oct 2026.
 
-West Germany is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Skalitzer Strasse 133; Kreuzberg; 10999 Berlin; Germany.
+West Germany is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Skalitzer Strasse 133; Kreuzberg; 10999 Berlin; Germany.
 
 ## What's on
 

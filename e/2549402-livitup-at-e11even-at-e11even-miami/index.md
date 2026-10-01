@@ -1,6 +1,6 @@
 # Livitup at E11EVEN at E11EVEN MIAMI
 
-Livitup at E11EVEN at E11EVEN MIAMI on Sun 4 Oct, Miami. Preview the line-up and save it on soundcheck.
+Livitup at E11EVEN at E11EVEN MIAMI on Sun 4 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

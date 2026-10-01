@@ -1,8 +1,8 @@
 # Fire
 
-Fire is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "A:M After Hours" on Sat, 3 Oct 2026.
+Fire is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "A:M After Hours" on Sat, 3 Oct 2026.
 
-Fire is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Stu From Somewhere. Browse upcoming dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
+Fire is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Stu From Somewhere. See dates, start times and who's playing. 39 Parry Street, South Lambeth Road, London, SW8 1RT.
 
 ## What's on
 

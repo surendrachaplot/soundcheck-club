@@ -1,8 +1,8 @@
 # HEMPTOTE
 
-HEMPTOTE is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Gate Milano, Milan on Sat, 14 Nov 2026.
+HEMPTOTE is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gate Milano, Milan on Sat, 14 Nov 2026.
 
-HEMPTOTE is an electronic artist based in Italy, tracked on soundcheck, with 45 sets logged across Berlin, Bristol and Milan. Often billed alongside Pura Solenne, LELE INOS and KREATHVRE. Next up: Gate Milano, Milan on Sat 14 Nov.
+HEMPTOTE is an electronic artist based in Italy, with 45 gigs on soundcheck across Berlin, Bristol and Milan. Often billed alongside Pura Solenne, LELE INOS and KREATHVRE. Next up: Gate Milano, Milan on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ HEMPTOTE is an electronic artist based in Italy, tracked on soundcheck, with 45 
 
 ## Recently played
 
-- Gate Milano, Milan — Fri, 25 Sept 2026
-- Gate Milano, Milan — Sat, 5 Sept 2026
-- Gate Milano, Milan — Fri, 22 May 2026
-- Gate Milano, Milan — Fri, 17 Apr 2026
-- Gate Milano, Milan — Fri, 10 Apr 2026
-- Gate Milano, Milan — Sat, 28 Mar 2026
-- Gate Milano, Milan — Sat, 21 Feb 2026
-- Gate Milano, Milan — Fri, 23 Jan 2026
+- Gate Milano, Milan · Fri, 25 Sept 2026
+- Gate Milano, Milan · Sat, 5 Sept 2026
+- Gate Milano, Milan · Fri, 22 May 2026
+- Gate Milano, Milan · Fri, 17 Apr 2026
+- Gate Milano, Milan · Fri, 10 Apr 2026
+- Gate Milano, Milan · Sat, 28 Mar 2026
+- Gate Milano, Milan · Sat, 21 Feb 2026
+- Gate Milano, Milan · Fri, 23 Jan 2026
 
 ## Shares bills with
 

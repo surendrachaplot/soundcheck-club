@@ -1,6 +1,6 @@
 # Kameliia - Sina XX - Cité Fertile - THEME 009: Fast Delivery at La Cité Fertile
 
-Kameliia - Sina XX - Cité Fertile - THEME 009: Fast Delivery at La Cité Fertile on Sat 17 Oct, Paris. 2 artists on the bill: Kameliia and Sina XX. Techno. Preview the line-up and save it on soundcheck.
+Kameliia - Sina XX - Cité Fertile - THEME 009: Fast Delivery at La Cité Fertile on Sat 17 Oct, Paris. 2 artists: Kameliia and Sina XX. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

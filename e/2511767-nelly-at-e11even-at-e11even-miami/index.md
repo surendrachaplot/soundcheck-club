@@ -1,6 +1,6 @@
 # Nelly at E11EVEN at E11EVEN MIAMI
 
-Nelly at E11EVEN at E11EVEN MIAMI on Fri 2 Oct, Miami. Preview the line-up and save it on soundcheck.
+Nelly at E11EVEN at E11EVEN MIAMI on Fri 2 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

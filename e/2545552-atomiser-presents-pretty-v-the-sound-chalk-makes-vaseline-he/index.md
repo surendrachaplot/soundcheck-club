@@ -1,6 +1,6 @@
 # Atomiser presents: Pretty V, the sound chalk makes, Vaseline, heavensouls, Asandia at IKLECTIK
 
-Atomiser presents: Pretty V, the sound chalk makes, Vaseline, heavensouls, Asandia at IKLECTIK on Fri 23 Oct, London. 1 artist on the bill: Voldy Moyo. Preview the line-up and save it on soundcheck.
+Atomiser presents: Pretty V, the sound chalk makes, Vaseline, heavensouls, Asandia at IKLECTIK on Fri 23 Oct, London. 1 artist: Voldy Moyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

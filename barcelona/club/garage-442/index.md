@@ -1,8 +1,8 @@
 # Garage 442
 
-Garage 442 is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Wednesnight with Julio Barrabino, Fio Cannata, Will, Keyblow" on Wed, 7 Oct 2026.
+Garage 442 is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Wednesnight with Julio Barrabino, Fio Cannata, Will, Keyblow" on Wed, 7 Oct 2026.
 
-Garage 442 is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Alen, Keyblow and Will (ES). Browse upcoming dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
+Garage 442 is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including DJ Alen, Keyblow and Will (ES). See dates, start times and who's playing. Avinguda Diagonal, 442, 08037 Barcelona.
 
 ## What's on
 

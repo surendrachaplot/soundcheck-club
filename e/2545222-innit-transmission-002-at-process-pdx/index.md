@@ -1,6 +1,6 @@
 # INNIT Transmission 002 at Process PDX
 
-INNIT Transmission 002 at Process PDX on Thu 22 Oct, Portland. Bass and Jungle. Preview the line-up and save it on soundcheck.
+INNIT Transmission 002 at Process PDX on Thu 22 Oct, Portland. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

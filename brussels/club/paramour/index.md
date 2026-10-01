@@ -1,8 +1,8 @@
 # Paramour
 
-Paramour is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "KRMS x Paramour #3" on Sat, 3 Oct 2026.
+Paramour is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "KRMS x Paramour #3" on Sat, 3 Oct 2026.
 
-Paramour is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Bo Meng, Bop, Camiflage and Cellarman and 2 more. Browse upcoming dates, start times and who's playing. 104 Rue d'Arlon, 1000 Buxelles.
+Paramour is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Bo Meng, Bop, Camiflage and Cellarman and 2 more. See dates, start times and who's playing. 104 Rue d'Arlon, 1000 Buxelles.
 
 ## What's on
 

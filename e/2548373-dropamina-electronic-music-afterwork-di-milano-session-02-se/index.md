@@ -1,6 +1,6 @@
 # DROPAMINA - Electronic Music Afterwork di Milano - SESSION 02 - SEASON 01 at 55 Milano
 
-DROPAMINA - Electronic Music Afterwork di Milano - SESSION 02 - SEASON 01 at 55 Milano on Wed 21 Oct, Milan. House and Tech House. Preview the line-up and save it on soundcheck.
+DROPAMINA - Electronic Music Afterwork di Milano - SESSION 02 - SEASON 01 at 55 Milano on Wed 21 Oct, Milan. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

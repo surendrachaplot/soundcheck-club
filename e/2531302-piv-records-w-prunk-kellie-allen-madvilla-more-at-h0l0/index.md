@@ -1,6 +1,6 @@
 # PIV Records w. Prunk + Kellie Allen, MADVILLA, & More at H0L0
 
-PIV Records w. Prunk + Kellie Allen, MADVILLA, & More at H0L0 on Sat 7 Nov, New York City. 7 artists on the bill: Armii1n, Bea Trinidad, Kellie Allen and Lauren Ritter and 3 more. House. Preview the line-up and save it on soundcheck.
+PIV Records w. Prunk + Kellie Allen, MADVILLA, & More at H0L0 on Sat 7 Nov, New York City. 7 artists: Armii1n, Bea Trinidad, Kellie Allen and Lauren Ritter and 3 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

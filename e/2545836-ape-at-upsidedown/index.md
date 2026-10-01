@@ -1,6 +1,6 @@
 # ape at Upsidedown
 
-ape at Upsidedown on Fri 2 Oct, Osaka. 2 artists on the bill: OSHALEY and TENO. Techno. Preview the line-up and save it on soundcheck.
+ape at Upsidedown on Fri 2 Oct, Osaka. 2 artists: OSHALEY and TENO. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

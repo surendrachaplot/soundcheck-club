@@ -1,6 +1,6 @@
 # D3CøD3D at Audio
 
-D3CøD3D at Audio on Sat 17 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+D3CøD3D at Audio on Sat 17 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

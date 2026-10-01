@@ -1,6 +1,6 @@
 # Hip Hop culture day/Hip hop Kulturtag at Humboldthain Club
 
-Hip Hop culture day/Hip hop Kulturtag at Humboldthain Club on Sat 17 Oct, Berlin. Hip-Hop and Afro House. Preview the line-up and save it on soundcheck.
+Hip Hop culture day/Hip hop Kulturtag at Humboldthain Club on Sat 17 Oct, Berlin. Hip-Hop and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

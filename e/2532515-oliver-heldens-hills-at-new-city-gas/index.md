@@ -1,6 +1,6 @@
 # Oliver Heldens, HILLS at New City Gas
 
-Oliver Heldens, HILLS at New City Gas on Sat 10 Oct, Montreal. 1 artist on the bill: Oliver Heldens. Preview the line-up and save it on soundcheck.
+Oliver Heldens, HILLS at New City Gas on Sat 10 Oct, Montreal. 1 artist: Oliver Heldens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

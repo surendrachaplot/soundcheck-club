@@ -1,8 +1,8 @@
 # Emma 2000
 
-Emma 2000 is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Emma 2000 is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Emma 2000 is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Joss Dean, Obskur and Boss Priester. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Emma 2000 is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Bristol, Ibiza and Leeds and 7 more. Often billed alongside Joss Dean, Obskur and Boss Priester. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Emma 2000 is a house and tech house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Steelyard Kelham, Sheffield — Sat, 26 Sept 2026
-- Colorado Charlie, The Hague — Fri, 25 Sept 2026
-- Gallery, London — Thu, 20 Aug 2026
-- Ouseburn Garden, Newcastle — Sat, 15 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 1 Aug 2026
-- Mint Warehouse, Leeds — Sat, 18 Jul 2026
-- Amnesia Ibiza, Ibiza — Tue, 23 Jun 2026
-- Cova Santa, Ibiza — Tue, 16 Jun 2026
+- Steelyard Kelham, Sheffield · Sat, 26 Sept 2026
+- Colorado Charlie, The Hague · Fri, 25 Sept 2026
+- Gallery, London · Thu, 20 Aug 2026
+- Ouseburn Garden, Newcastle · Sat, 15 Aug 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 1 Aug 2026
+- Mint Warehouse, Leeds · Sat, 18 Jul 2026
+- Amnesia Ibiza, Ibiza · Tue, 23 Jun 2026
+- Cova Santa, Ibiza · Tue, 16 Jun 2026
 
 ## Shares bills with
 

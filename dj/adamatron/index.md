@@ -1,8 +1,8 @@
 # Adamatron
 
-Adamatron is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bukanyr Boat, Prague on Fri, 2 Oct 2026.
+Adamatron is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bukanyr Boat, Prague on Fri, 2 Oct 2026.
 
-Adamatron is a techno and house artist based in Czech Republic, tracked on soundcheck, with 42 sets logged across Prague. Often billed alongside Pink Concrete, aláya and Fake Agent. Next up: Bukanyr Boat, Prague on Fri 2 Oct.
+Adamatron is a techno and house artist based in Czech Republic, with 42 gigs on soundcheck across Prague. Often billed alongside Pink Concrete, aláya and Fake Agent. Next up: Bukanyr Boat, Prague on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Adamatron is a techno and house artist based in Czech Republic, tracked on sound
 
 ## Recently played
 
-- Fuchs2, Prague — Sat, 19 Sept 2026
-- Altenburg 1964, Prague — Fri, 14 Aug 2026
-- Fuchs2, Prague — Sat, 8 Aug 2026
-- Holešovická Tržnice, Prague — Sat, 1 Aug 2026
-- Altenburg 1964, Prague — Fri, 10 Jul 2026
-- Bike Jesus, Prague — Fri, 19 Jun 2026
-- Ankali & Planeta Za, Prague — Fri, 1 May 2026
-- Le Clan, Prague — Sat, 25 Apr 2026
+- Fuchs2, Prague · Sat, 19 Sept 2026
+- Altenburg 1964, Prague · Fri, 14 Aug 2026
+- Fuchs2, Prague · Sat, 8 Aug 2026
+- Holešovická Tržnice, Prague · Sat, 1 Aug 2026
+- Altenburg 1964, Prague · Fri, 10 Jul 2026
+- Bike Jesus, Prague · Fri, 19 Jun 2026
+- Ankali & Planeta Za, Prague · Fri, 1 May 2026
+- Le Clan, Prague · Sat, 25 Apr 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Dämonenball at Der Weiße Hase
 
-Dämonenball at Der Weiße Hase on Sat 3 Oct, Berlin. EBM and Industrial. Preview the line-up and save it on soundcheck.
+Dämonenball at Der Weiße Hase on Sat 3 Oct, Berlin. EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Darwin
 
-Darwin is a Techno and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Darwin is a Techno and Bass artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Darwin is a techno and bass artist based in Germany, tracked on soundcheck, with 168 sets logged across Amsterdam, Barcelona, Basel and Berlin and 45 more. Often billed alongside Esposito, Carré and CCL. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+Darwin is a techno and bass artist based in Germany, with 168 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 45 more. Often billed alongside Esposito, Carré and CCL. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Darwin is a techno and bass artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
-- Cabaret Sauvage, Paris — Sat, 26 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- The White Hotel, Manchester — Sat, 12 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 21 Aug 2026
-- TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 18 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 27 Jun 2026
-- CLUB RAUM, Amsterdam — Fri, 19 Jun 2026
+- Cabaret Sauvage, Paris · Sat, 26 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- The White Hotel, Manchester · Sat, 12 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 21 Aug 2026
+- TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 18 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 27 Jun 2026
+- CLUB RAUM, Amsterdam · Fri, 19 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Club 77 NYE: Barney in the Tunnel, Reenie x P47 x DJ Penthouse, Precious Metal at Club 77
 
-Club 77 NYE: Barney in the Tunnel, Reenie x P47 x DJ Penthouse, Precious Metal on Thu 31 Dec, Sydney. 2 artists on the bill: DJ Penthouse and Reenie. Preview the line-up and save it on soundcheck.
+Club 77 NYE: Barney in the Tunnel, Reenie x P47 x DJ Penthouse, Precious Metal on Thu 31 Dec, Sydney. 2 artists: DJ Penthouse and Reenie. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ADE Opening Concert: KYBBA & Metropole Orkest + special guests (Sold Out) at Melkweg
 
-ADE Opening Concert: KYBBA & Metropole Orkest + special guests (Sold Out) at Melkweg on Wed 21 Oct, Amsterdam. Dancehall. Preview the line-up and save it on soundcheck.
+ADE Opening Concert: KYBBA & Metropole Orkest + special guests (Sold Out) at Melkweg on Wed 21 Oct, Amsterdam. Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

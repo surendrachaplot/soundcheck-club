@@ -1,6 +1,6 @@
 # OOIOO (YoshimiO // Boredoms) at Quarry
 
-OOIOO (YoshimiO // Boredoms) at Quarry on Wed 4 Nov, Liverpool. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+OOIOO (YoshimiO // Boredoms) at Quarry on Wed 4 Nov, Liverpool. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

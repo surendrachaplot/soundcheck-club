@@ -1,6 +1,6 @@
 # Sekta Selekta: Pola Konsola, K3RZC, mad struct at Sekta Selekta
 
-Sekta Selekta: Pola Konsola, K3RZC, mad struct on Thu 1 Oct, Krakow. 1 artist on the bill: K3RZC. Electro and Minimal. Preview the line-up and save it on soundcheck.
+Sekta Selekta: Pola Konsola, K3RZC, mad struct on Thu 1 Oct, Krakow. 1 artist: K3RZC. Electro and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

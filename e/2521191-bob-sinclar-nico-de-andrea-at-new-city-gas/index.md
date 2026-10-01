@@ -1,6 +1,6 @@
 # Bob Sinclar, Nico de Andrea at New City Gas
 
-Bob Sinclar, Nico de Andrea at New City Gas on Fri 30 Oct, Montreal. 1 artist on the bill: Bob Sinclar. Preview the line-up and save it on soundcheck.
+Bob Sinclar, Nico de Andrea at New City Gas on Fri 30 Oct, Montreal. 1 artist: Bob Sinclar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

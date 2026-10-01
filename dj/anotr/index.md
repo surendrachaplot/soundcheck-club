@@ -1,8 +1,8 @@
 # ANOTR
 
-ANOTR is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Central on Fri, 2 Oct 2026.
+ANOTR is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
-ANOTR is a house and tech house artist based in Netherlands, tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 35 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: TBA, Central on Fri 2 Oct.
+ANOTR is a house and tech house artist based in Netherlands, with 158 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 35 more. Often billed alongside Seth Troxler, Dennis Cruz and Toman. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ ANOTR is a house and tech house artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- [UNVRS], Ibiza — Tue, 29 Sept 2026
-- Volt Club Milano, Milan — Fri, 25 Sept 2026
-- Hï Ibiza, Ibiza — Sat, 19 Sept 2026
-- Alexandra Palace, London — Fri, 18 Sept 2026
-- Alexandra Palace, London — Thu, 17 Sept 2026
-- Universidad Autónoma de Madrid (UAM), Madrid — Sat, 12 Sept 2026
-- DC-10, Ibiza — Mon, 24 Aug 2026
-- Fitz Mallorca, Mallorca — Sun, 23 Aug 2026
+- [UNVRS], Ibiza · Tue, 29 Sept 2026
+- Volt Club Milano, Milan · Fri, 25 Sept 2026
+- Hï Ibiza, Ibiza · Sat, 19 Sept 2026
+- Alexandra Palace, London · Fri, 18 Sept 2026
+- Alexandra Palace, London · Thu, 17 Sept 2026
+- Universidad Autónoma de Madrid (UAM), Madrid · Sat, 12 Sept 2026
+- DC-10, Ibiza · Mon, 24 Aug 2026
+- Fitz Mallorca, Mallorca · Sun, 23 Aug 2026
 
 ## Shares bills with
 

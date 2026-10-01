@@ -1,6 +1,6 @@
 # Horse Meat Disco • São Paulo at Cine Jussara
 
-Horse Meat Disco • São Paulo at Cine Jussara on Sat 14 Nov, Sao Paulo. 5 artists on the bill: Benjamin Ferreira, Etcetera, Garage Disco and Horse Meat Disco and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+Horse Meat Disco • São Paulo at Cine Jussara on Sat 14 Nov, Sao Paulo. 5 artists: Benjamin Ferreira, Etcetera, Garage Disco and Horse Meat Disco and 1 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Lauren Hansom
 
-Lauren Hansom is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Lauren Hansom is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
-Lauren Hansom is a house and club artist based in Australia, tracked on soundcheck, with 24 sets logged across Auckland, Brisbane, Melbourne and New York City and 2 more. Often billed alongside HanSom, Wax'o Paradiso and DJ PGZ. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
+Lauren Hansom is a house and club artist based in Australia, with 24 gigs on soundcheck across Auckland, Brisbane, Melbourne and New York City and 2 more. Often billed alongside HanSom, Wax'o Paradiso and DJ PGZ. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Lauren Hansom is a house and club artist based in Australia, tracked on soundche
 
 ## Recently played
 
-- TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne — Fri, 11 Sept 2026
-- Second Story Studios, Melbourne — Sat, 30 May 2026
-- Poor Toms Oltra, Sydney — Sun, 22 Feb 2026
-- TBA - The Servo - Port Kembla, Sydney — Sat, 14 Feb 2026
-- Collingwood Yards, Melbourne — Sun, 14 Dec 2025
-- Fraser Park, Sydney — Sat, 16 Nov 2024
-- The Night Cat, Melbourne — Fri, 15 Nov 2024
-- Bar Part Time, San Francisco/Oakland — Fri, 30 Aug 2024
+- TBA - Tanswell's Hotel, 50 Ford St, Beechworth VIC 3747, Melbourne · Fri, 11 Sept 2026
+- Second Story Studios, Melbourne · Sat, 30 May 2026
+- Poor Toms Oltra, Sydney · Sun, 22 Feb 2026
+- TBA - The Servo - Port Kembla, Sydney · Sat, 14 Feb 2026
+- Collingwood Yards, Melbourne · Sun, 14 Dec 2025
+- Fraser Park, Sydney · Sat, 16 Nov 2024
+- The Night Cat, Melbourne · Fri, 15 Nov 2024
+- Bar Part Time, San Francisco/Oakland · Fri, 30 Aug 2024
 
 ## Shares bills with
 

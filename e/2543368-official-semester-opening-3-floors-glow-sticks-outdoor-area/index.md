@@ -1,6 +1,6 @@
 # Official Semester Opening | 3 Floors | Glow Sticks | Outdoor Area at Festsaal Kreuzberg
 
-Official Semester Opening | 3 Floors | Glow Sticks | Outdoor Area at Festsaal Kreuzberg on Fri 9 Oct, Berlin. Techno and Club. Preview the line-up and save it on soundcheck.
+Official Semester Opening | 3 Floors | Glow Sticks | Outdoor Area at Festsaal Kreuzberg on Fri 9 Oct, Berlin. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

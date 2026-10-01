@@ -1,6 +1,6 @@
 # patch_t41b at Vespers Club
 
-patch_t41b at Vespers Club on Wed 11 Nov, London. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+patch_t41b at Vespers Club on Wed 11 Nov, London. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

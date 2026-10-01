@@ -1,8 +1,8 @@
 # Lotusoph
 
-Lotusoph is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Lotusoph is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Lotusoph is a house and deep house artist based in United States of America, tracked on soundcheck, with 54 sets logged across Denver, Mexico City, Miami and New York City and 1 more. Often billed alongside CHAOS!, Milo Ziro and Bort. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Lotusoph is a house and deep house artist based in United States of America, with 54 gigs on soundcheck across Denver, Mexico City, Miami and New York City and 1 more. Often billed alongside CHAOS!, Milo Ziro and Bort. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lotusoph is a house and deep house artist based in United States of America, tra
 
 ## Recently played
 
-- Zoko Collective, Miami — Sat, 26 Sept 2026
-- Jolene Downtown Miami, Miami — Thu, 2 Jul 2026
-- Jolene Downtown Miami, Miami — Thu, 28 May 2026
-- Floyd, Miami — Sat, 16 May 2026
-- Shelborne Wyndham Grand South Beach, Miami — Sat, 25 Apr 2026
-- Factory Town, Miami — Sat, 18 Apr 2026
-- Dante's HiFi, Miami — Fri, 10 Apr 2026
-- The Ground at Club Space, Miami — Sun, 29 Mar 2026
+- Zoko Collective, Miami · Sat, 26 Sept 2026
+- Jolene Downtown Miami, Miami · Thu, 2 Jul 2026
+- Jolene Downtown Miami, Miami · Thu, 28 May 2026
+- Floyd, Miami · Sat, 16 May 2026
+- Shelborne Wyndham Grand South Beach, Miami · Sat, 25 Apr 2026
+- Factory Town, Miami · Sat, 18 Apr 2026
+- Dante's HiFi, Miami · Fri, 10 Apr 2026
+- The Ground at Club Space, Miami · Sun, 29 Mar 2026
 
 ## Shares bills with
 

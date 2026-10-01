@@ -1,6 +1,6 @@
 # [NoctamBar] Kay Rubenz at La Gravière
 
-[NoctamBar] Kay Rubenz at La Gravière on Thu 29 Oct, Geneva. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+[NoctamBar] Kay Rubenz at La Gravière on Thu 29 Oct, Geneva. Hip-Hop and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

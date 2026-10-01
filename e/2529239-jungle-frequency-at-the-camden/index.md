@@ -1,6 +1,6 @@
 # Jungle Frequency at The Camden
 
-Jungle Frequency at The Camden on Sat 10 Oct, London. Jungle. Preview the line-up and save it on soundcheck.
+Jungle Frequency at The Camden on Sat 10 Oct, London. Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

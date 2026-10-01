@@ -1,6 +1,6 @@
 # Subcero x NotRave at Subcero Club
 
-Subcero x NotRave at Subcero Club on Sat 24 Oct, Madrid. 1 artist on the bill: Not A Lex. Electronica. Preview the line-up and save it on soundcheck.
+Subcero x NotRave at Subcero Club on Sat 24 Oct, Madrid. 1 artist: Not A Lex. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

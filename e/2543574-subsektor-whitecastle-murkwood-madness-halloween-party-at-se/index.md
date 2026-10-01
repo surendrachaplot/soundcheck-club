@@ -1,6 +1,6 @@
 # Subsektor & Whitecastle: Murkwood Madness HALLOWEEN PARTY at Secret Location (Stockholm)
 
-Subsektor & Whitecastle: Murkwood Madness HALLOWEEN PARTY at Secret Location (Stockholm) on Sat 24 Oct, Stockholm. 1 artist on the bill: Seba. Drum & Bass and Psytrance. Preview the line-up and save it on soundcheck.
+Subsektor & Whitecastle: Murkwood Madness HALLOWEEN PARTY at Secret Location (Stockholm) on Sat 24 Oct, Stockholm. 1 artist: Seba. Drum & Bass and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

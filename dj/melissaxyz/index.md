@@ -1,8 +1,8 @@
 # Melissa XYZ
 
-Melissa XYZ is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+Melissa XYZ is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-Melissa XYZ is a house and deep house artist based in United States of America, tracked on soundcheck, with 17 sets logged across New York City. Often billed alongside 19:26, Rïa Mehta and SunrYse. Next up: Knockdown Center, New York City on Fri 2 Oct.
+Melissa XYZ is a house and deep house artist based in United States of America, with 17 gigs on soundcheck across New York City. Often billed alongside 19:26, Rïa Mehta and SunrYse. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Melissa XYZ is a house and deep house artist based in United States of America, 
 
 ## Recently played
 
-- Pier 78 at Hudson River Park, New York City — Sat, 20 Jun 2026
-- 99 Scott Ave, New York City — Sat, 17 Jan 2026
-- Superior Ingredients, New York City — Fri, 10 Oct 2025
-- Superior Ingredients, New York City — Sun, 31 Aug 2025
-- SILO, New York City — Sat, 5 Jul 2025
-- SILO, New York City — Fri, 27 Dec 2024
-- Musica Club NYC, New York City — Fri, 8 Nov 2024
-- Threes Brewing, New York City — Sat, 10 Aug 2024
+- Pier 78 at Hudson River Park, New York City · Sat, 20 Jun 2026
+- 99 Scott Ave, New York City · Sat, 17 Jan 2026
+- Superior Ingredients, New York City · Fri, 10 Oct 2025
+- Superior Ingredients, New York City · Sun, 31 Aug 2025
+- SILO, New York City · Sat, 5 Jul 2025
+- SILO, New York City · Fri, 27 Dec 2024
+- Musica Club NYC, New York City · Fri, 8 Nov 2024
+- Threes Brewing, New York City · Sat, 10 Aug 2024
 
 ## Shares bills with
 

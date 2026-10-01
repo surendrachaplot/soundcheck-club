@@ -1,6 +1,6 @@
 # R'n'B LDN Day Party x House Party Soho at House Party
 
-R'n'B LDN Day Party x House Party Soho on Sat 17 Oct, London. R&B. Preview the line-up and save it on soundcheck.
+R'n'B LDN Day Party x House Party Soho on Sat 17 Oct, London. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

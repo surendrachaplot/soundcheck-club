@@ -1,6 +1,6 @@
 # Groove LDN x Mercato Metropolitano [FREE ENTRY] at Mercato Metropolitano
 
-Groove LDN x Mercato Metropolitano [FREE ENTRY] on Fri 9 Oct, London. 4 artists on the bill: DJ ELMER, Kishan, Komanche and manj. Garage and UK Funky. Preview the line-up and save it on soundcheck.
+Groove LDN x Mercato Metropolitano [FREE ENTRY] on Fri 9 Oct, London. 4 artists: DJ ELMER, Kishan, Komanche and manj. Garage and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

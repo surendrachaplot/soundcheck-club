@@ -1,8 +1,8 @@
 # Cucumelo
 
-Cucumelo is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Absenta del Raval, Barcelona on Fri, 16 Oct 2026.
+Cucumelo is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Absenta del Raval, Barcelona on Fri, 16 Oct 2026.
 
-Cucumelo is a house and techno artist based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona, Buenos Aires and Paris. Often billed alongside Franco Brida, Lautaro Deem and Merlina P. Next up: Absenta del Raval, Barcelona on Fri 16 Oct.
+Cucumelo is a house and techno artist based in Spain, with 21 gigs on soundcheck across Barcelona, Buenos Aires and Paris. Often billed alongside Franco Brida, Lautaro Deem and Merlina P. Next up: Absenta del Raval, Barcelona on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Cucumelo is a house and techno artist based in Spain, tracked on soundcheck, wit
 
 ## Recently played
 
-- TBA - Digital Village Paris, Paris — Thu, 30 Jul 2026
-- Born 2B Music Bar, Barcelona — Thu, 23 Jul 2026
-- TBA - secret location, Barcelona — Sat, 6 Jun 2026
-- TBA, Barcelona — Thu, 16 Oct 2025
-- Absenta del Raval, Barcelona — Fri, 23 May 2025
-- Can Luis, Barcelona — Fri, 16 May 2025
-- Absenta del Raval, Barcelona — Fri, 2 May 2025
-- Can Luis, Barcelona — Thu, 27 Mar 2025
+- TBA - Digital Village Paris, Paris · Thu, 30 Jul 2026
+- Born 2B Music Bar, Barcelona · Thu, 23 Jul 2026
+- TBA - secret location, Barcelona · Sat, 6 Jun 2026
+- TBA, Barcelona · Thu, 16 Oct 2025
+- Absenta del Raval, Barcelona · Fri, 23 May 2025
+- Can Luis, Barcelona · Fri, 16 May 2025
+- Absenta del Raval, Barcelona · Fri, 2 May 2025
+- Can Luis, Barcelona · Thu, 27 Mar 2025
 
 ## Shares bills with
 

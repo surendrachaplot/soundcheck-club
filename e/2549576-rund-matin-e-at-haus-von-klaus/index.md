@@ -1,6 +1,6 @@
 # RUND Matinée at Haus von Klaus
 
-RUND Matinée at Haus von Klaus on Sat 17 Oct, Zurich. 1 artist on the bill: Natch. Preview the line-up and save it on soundcheck.
+RUND Matinée at Haus von Klaus on Sat 17 Oct, Zurich. 1 artist: Natch. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

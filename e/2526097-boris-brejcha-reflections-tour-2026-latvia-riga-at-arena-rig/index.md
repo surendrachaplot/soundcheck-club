@@ -1,6 +1,6 @@
 # Boris Brejcha REFLECTIONS TOUR 2026 - LATVIA, RIGA at Arena Riga
 
-Boris Brejcha REFLECTIONS TOUR 2026 - LATVIA, RIGA at Arena Riga on Fri 23 Oct, Latvia. 2 artists on the bill: Ann Clue and Boris Brejcha. Preview the line-up and save it on soundcheck.
+Boris Brejcha REFLECTIONS TOUR 2026 - LATVIA, RIGA at Arena Riga on Fri 23 Oct, Latvia. 2 artists: Ann Clue and Boris Brejcha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

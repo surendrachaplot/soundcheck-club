@@ -1,6 +1,6 @@
 # Minitelle Xeroxe - Votre Chazam at Un Peu
 
-Minitelle Xeroxe - Votre Chazam at Un Peu on Sat 3 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Minitelle Xeroxe - Votre Chazam at Un Peu on Sat 3 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

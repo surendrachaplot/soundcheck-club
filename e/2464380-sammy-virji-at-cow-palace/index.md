@@ -1,6 +1,6 @@
 # Sammy Virji at Cow Palace
 
-Sammy Virji at Cow Palace on Fri 13 Nov, San Francisco/Oakland. 3 artists on the bill: Saint Ludo, Sam Gellaitry and Sammy Virji. Preview the line-up and save it on soundcheck.
+Sammy Virji at Cow Palace on Fri 13 Nov, San Francisco/Oakland. 3 artists: Saint Ludo, Sam Gellaitry and Sammy Virji. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

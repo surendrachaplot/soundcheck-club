@@ -1,8 +1,8 @@
 # Logan D
 
-Logan D is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Clock Factory, Bristol on Sat, 3 Oct 2026.
+Logan D is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Clock Factory, Bristol on Sat, 3 Oct 2026.
 
-Logan D is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Auckland and Bangkok and 9 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: The Clock Factory, Bristol on Sat 3 Oct.
+Logan D is a drum & bass and jungle artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Bangkok and 9 more. Often billed alongside Eksman, Harry Shotta and Majistrate. Next up: The Clock Factory, Bristol on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Logan D is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Eutopia Whs, London — Sat, 5 Sept 2026
-- Planet Wax, London — Thu, 3 Sept 2026
-- Antwerp Expo, Antwerp — Sat, 22 Aug 2026
-- Boston Manor Park, London — Fri, 24 Jul 2026
-- M.O.T, London — Sat, 11 Jul 2026
-- The Camden, London — Fri, 26 Jun 2026
-- The Clock Factory, Bristol — Sat, 6 Jun 2026
-- Beaver Works, Leeds — Sat, 16 May 2026
+- Eutopia Whs, London · Sat, 5 Sept 2026
+- Planet Wax, London · Thu, 3 Sept 2026
+- Antwerp Expo, Antwerp · Sat, 22 Aug 2026
+- Boston Manor Park, London · Fri, 24 Jul 2026
+- M.O.T, London · Sat, 11 Jul 2026
+- The Camden, London · Fri, 26 Jun 2026
+- The Clock Factory, Bristol · Sat, 6 Jun 2026
+- Beaver Works, Leeds · Sat, 16 May 2026
 
 ## Shares bills with
 

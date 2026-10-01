@@ -1,6 +1,6 @@
 # synts presents: Mietze Conte at Circus Osaka
 
-synts presents: Mietze Conte at Circus Osaka on Fri 16 Oct, Osaka. Experimental and Club. Preview the line-up and save it on soundcheck.
+synts presents: Mietze Conte at Circus Osaka on Fri 16 Oct, Osaka. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

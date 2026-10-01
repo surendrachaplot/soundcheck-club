@@ -1,6 +1,6 @@
 # Two & Half Cats at Club Space Miami
 
-Two & Half Cats at Club Space Miami on Sat 28 Nov, Miami. Techno and House. Preview the line-up and save it on soundcheck.
+Two & Half Cats at Club Space Miami on Sat 28 Nov, Miami. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

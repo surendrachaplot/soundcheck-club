@@ -1,6 +1,6 @@
 # VIVA Reggaeton The 5th Birthday at Lightbox
 
-VIVA Reggaeton The 5th Birthday at Lightbox on Sat 3 Oct, London. Reggaeton. Preview the line-up and save it on soundcheck.
+VIVA Reggaeton The 5th Birthday at Lightbox on Sat 3 Oct, London. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # JakoJako - Live, Americhord - Live & Mode_1 at Wigwam
 
-JakoJako - Live, Americhord - Live & Mode_1 at Wigwam on Sat 7 Nov, Dublin. 2 artists on the bill: JakoJako and Mode_1. Techno. Preview the line-up and save it on soundcheck.
+JakoJako - Live, Americhord - Live & Mode_1 at Wigwam on Sat 7 Nov, Dublin. 2 artists: JakoJako and Mode_1. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
+DJ Minx is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at House of Yes, New York City on Sat, 3 Oct 2026.
 
-DJ Minx is a house and techno artist based in United States of America, tracked on soundcheck, with 181 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: House of Yes, New York City on Sat 3 Oct.
+DJ Minx is a house and techno artist based in United States of America, with 181 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: House of Yes, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ DJ Minx is a house and techno artist based in United States of America, tracked 
 
 ## Recently played
 
-- TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle — Sat, 26 Sept 2026
-- Los Globos, Los Angeles — Fri, 25 Sept 2026
-- Südpol, Hamburg — Sat, 12 Sept 2026
-- Südpol, Hamburg — Fri, 11 Sept 2026
-- Under the K Bridge, New York City — Sat, 29 Aug 2026
-- Runnymede Hall, Toronto — Sat, 22 Aug 2026
-- Shoreline Aquatic Park, Los Angeles — Sat, 18 Jul 2026
-- Cooks Valley Campground, San Francisco/Oakland — Fri, 17 Jul 2026
+- TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle · Sat, 26 Sept 2026
+- Los Globos, Los Angeles · Fri, 25 Sept 2026
+- Südpol, Hamburg · Sat, 12 Sept 2026
+- Südpol, Hamburg · Fri, 11 Sept 2026
+- Under the K Bridge, New York City · Sat, 29 Aug 2026
+- Runnymede Hall, Toronto · Sat, 22 Aug 2026
+- Shoreline Aquatic Park, Los Angeles · Sat, 18 Jul 2026
+- Cooks Valley Campground, San Francisco/Oakland · Fri, 17 Jul 2026
 
 ## Shares bills with
 

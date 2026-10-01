@@ -1,6 +1,6 @@
 # Back to the 90's R&B/HipHop at BRAND SHIBUYA
 
-Back to the 90's R&B/HipHop at BRAND SHIBUYA on Thu 1 Oct, Tokyo. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Back to the 90's R&B/HipHop at BRAND SHIBUYA on Thu 1 Oct, Tokyo. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

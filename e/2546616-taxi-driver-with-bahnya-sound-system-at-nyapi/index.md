@@ -1,6 +1,6 @@
 # Taxi Driver with Bahnya Sound System at Nyapi
 
-Taxi Driver with Bahnya Sound System at Nyapi on Fri 2 Oct, Seoul. 3 artists on the bill: BAHNYASOUND, Cozyhoon and Youknowsong. Preview the line-up and save it on soundcheck.
+Taxi Driver with Bahnya Sound System at Nyapi on Fri 2 Oct, Seoul. 3 artists: BAHNYASOUND, Cozyhoon and Youknowsong. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

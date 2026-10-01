@@ -1,6 +1,6 @@
 # Vroeg Pieken at Charlatan
 
-Vroeg Pieken at Charlatan on Sat 3 Oct, Ghent. Preview the line-up and save it on soundcheck.
+Vroeg Pieken at Charlatan on Sat 3 Oct, Ghent. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

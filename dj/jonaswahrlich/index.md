@@ -1,8 +1,8 @@
 # Jonas Wahrlich
 
-Jonas Wahrlich is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Jonas Wahrlich is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
-Jonas Wahrlich is an electronic artist based in Germany, tracked on soundcheck, with 8 sets logged across Hamburg. Often billed alongside Antoine Baiser, Marco Baskind and Xenaia. Next up: Südpol, Hamburg on Fri 2 Oct.
+Jonas Wahrlich is an electronic artist based in Germany, with 8 gigs on soundcheck across Hamburg. Often billed alongside Antoine Baiser, Marco Baskind and Xenaia. Next up: Südpol, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Jonas Wahrlich is an electronic artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Südpol, Hamburg — Fri, 1 May 2026
-- Südpol, Hamburg — Fri, 5 Sept 2025
-- MS Artville, Hamburg — Sat, 19 Jul 2025
-- MS Artville, Hamburg — Sat, 20 Jul 2024
-- Südpol, Hamburg — Fri, 3 May 2024
-- Südpol, Hamburg — Fri, 3 Nov 2023
-- Südpol, Hamburg — Fri, 17 Feb 2023
+- Südpol, Hamburg · Fri, 1 May 2026
+- Südpol, Hamburg · Fri, 5 Sept 2025
+- MS Artville, Hamburg · Sat, 19 Jul 2025
+- MS Artville, Hamburg · Sat, 20 Jul 2024
+- Südpol, Hamburg · Fri, 3 May 2024
+- Südpol, Hamburg · Fri, 3 Nov 2023
+- Südpol, Hamburg · Fri, 17 Feb 2023
 
 ## Shares bills with
 

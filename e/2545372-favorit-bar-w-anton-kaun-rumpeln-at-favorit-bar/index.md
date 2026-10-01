@@ -1,6 +1,6 @@
 # Favorit Bar w/ Anton Kaun (Rumpeln) at Favorit Bar
 
-Favorit Bar w/ Anton Kaun (Rumpeln) on Fri 2 Oct, Munich. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Favorit Bar w/ Anton Kaun (Rumpeln) on Fri 2 Oct, Munich. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Techno Yoga with Kate Zubok at Teja House
 
-Techno Yoga with Kate Zubok at Teja House on Wed 14 Oct, Lisbon. Preview the line-up and save it on soundcheck.
+Techno Yoga with Kate Zubok at Teja House on Wed 14 Oct, Lisbon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Metaman ft. Irene Dendi & Tsolimon at Klakaz
 
-Metaman ft. Irene Dendi & Tsolimon at Klakaz on Fri 2 Oct, Athens. 2 artists on the bill: METAMAN and Tsolimon. Preview the line-up and save it on soundcheck.
+Metaman ft. Irene Dendi & Tsolimon at Klakaz on Fri 2 Oct, Athens. 2 artists: METAMAN and Tsolimon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

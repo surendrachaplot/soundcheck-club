@@ -1,6 +1,6 @@
 # Apuliart x ADE at Grand Café Heineken Hoek
 
-Apuliart x ADE at Grand Café Heineken Hoek on Thu 22 Oct, Amsterdam. House and Club. Preview the line-up and save it on soundcheck.
+Apuliart x ADE at Grand Café Heineken Hoek on Thu 22 Oct, Amsterdam. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

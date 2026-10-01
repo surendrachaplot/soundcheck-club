@@ -1,6 +1,6 @@
 # Known Artist X BEZDNA at Drugstore Beograd
 
-Known Artist X BEZDNA at Drugstore Beograd on Fri 16 Oct, Belgrade. 4 artists on the bill: Cosmic G, KACANSKY, KnownArtist and Stony C. Techno and Club. Preview the line-up and save it on soundcheck.
+Known Artist X BEZDNA at Drugstore Beograd on Fri 16 Oct, Belgrade. 4 artists: Cosmic G, KACANSKY, KnownArtist and Stony C. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

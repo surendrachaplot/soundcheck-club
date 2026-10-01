@@ -1,8 +1,8 @@
 # Pilar Jordan
 
-Pilar Jordan is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
+Pilar Jordan is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Klunkerkranich, Berlin on Thu, 8 Oct 2026.
 
-Pilar Jordan is a house and techno artist based in Chile, tracked on soundcheck, with 75 sets logged across Berlin and Düsseldorf. Often billed alongside Dorsch, MELLA MARA and Lisatrix. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
+Pilar Jordan is a house and techno artist based in Chile, with 75 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Dorsch, MELLA MARA and Lisatrix. Next up: Klunkerkranich, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Pilar Jordan is a house and techno artist based in Chile, tracked on soundcheck,
 
 ## Recently played
 
-- Kater, Berlin — Sat, 19 Sept 2026
-- OXI, Berlin — Fri, 21 Aug 2026
-- ://about blank, Berlin — Sat, 4 Jul 2026
-- Ritter Butzke, Berlin — Fri, 19 Jun 2026
-- ://about blank, Berlin — Thu, 11 Jun 2026
-- Beate Uwe, Berlin — Sat, 23 May 2026
-- OXI, Berlin — Fri, 1 May 2026
-- Crack Bellmer, Berlin — Sun, 26 Apr 2026
+- Kater, Berlin · Sat, 19 Sept 2026
+- OXI, Berlin · Fri, 21 Aug 2026
+- ://about blank, Berlin · Sat, 4 Jul 2026
+- Ritter Butzke, Berlin · Fri, 19 Jun 2026
+- ://about blank, Berlin · Thu, 11 Jun 2026
+- Beate Uwe, Berlin · Sat, 23 May 2026
+- OXI, Berlin · Fri, 1 May 2026
+- Crack Bellmer, Berlin · Sun, 26 Apr 2026
 
 ## Shares bills with
 

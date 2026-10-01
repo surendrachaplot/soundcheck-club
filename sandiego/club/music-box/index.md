@@ -1,8 +1,8 @@
 # Music Box
 
-Music Box is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "EVAN GIIA" on Sat, 10 Oct 2026.
+Music Box is a music venue in San Diego with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "EVAN GIIA" on Sat, 10 Oct 2026.
 
-Music Box is a music venue in San Diego listed on soundcheck. 5 upcoming gigs, with line-ups including Paul Oakenfold, O'Flynn, Takuya Nakamura and The Crystal Method. Browse upcoming dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
+Music Box is a music venue in San Diego listed on soundcheck. 5 upcoming gigs, with line-ups including Paul Oakenfold, O'Flynn, Takuya Nakamura and The Crystal Method. See dates, start times and who's playing. 1337 India St, San Diego, CA 92101.
 
 ## What's on
 

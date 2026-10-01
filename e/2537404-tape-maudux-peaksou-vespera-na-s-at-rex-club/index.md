@@ -1,6 +1,6 @@
 # Tape: Maudux, PEAKSOU, Vespera, Naïs at Rex Club
 
-Tape: Maudux, PEAKSOU, Vespera, Naïs at Rex Club on Wed 7 Oct, Paris. 3 artists on the bill: Maudux, Naïs and PEAKSOU. Trance. Preview the line-up and save it on soundcheck.
+Tape: Maudux, PEAKSOU, Vespera, Naïs at Rex Club on Wed 7 Oct, Paris. 3 artists: Maudux, Naïs and PEAKSOU. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

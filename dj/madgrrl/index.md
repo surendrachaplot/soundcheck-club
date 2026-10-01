@@ -1,8 +1,8 @@
 # MADGRRL
 
-MADGRRL is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Warehouse on Watts, Philadelphia on Fri, 2 Oct 2026.
+MADGRRL is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Warehouse on Watts, Philadelphia on Fri, 2 Oct 2026.
 
-MADGRRL is a techno and industrial artist based in United States of America, tracked on soundcheck, with 18 sets logged across Dallas Fort Worth, Denver, Los Angeles and Miami and 6 more. Often billed alongside I Hate Models, Azyr and Chris Lake. Next up: Warehouse on Watts, Philadelphia on Fri 2 Oct.
+MADGRRL is a techno and industrial artist based in United States of America, with 18 gigs on soundcheck across Dallas Fort Worth, Denver, Los Angeles and Miami and 6 more. Often billed alongside I Hate Models, Azyr and Chris Lake. Next up: Warehouse on Watts, Philadelphia on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ MADGRRL is a techno and industrial artist based in United States of America, tra
 
 ## Recently played
 
-- Spin, San Diego — Sat, 1 Aug 2026
-- Domicile, Miami — Sat, 30 May 2026
-- Enso, Vancouver — Sat, 25 Apr 2026
-- The Echoplex, Los Angeles — Sat, 14 Mar 2026
-- The Foundry, San Francisco/Oakland — Sat, 28 Feb 2026
-- EQ San Diego, San Diego — Sat, 28 Jun 2025
-- TBA, Miami — Fri, 16 May 2025
-- TBA - SECRET SF LOCATION, San Francisco/Oakland — Sat, 19 Apr 2025
+- Spin, San Diego · Sat, 1 Aug 2026
+- Domicile, Miami · Sat, 30 May 2026
+- Enso, Vancouver · Sat, 25 Apr 2026
+- The Echoplex, Los Angeles · Sat, 14 Mar 2026
+- The Foundry, San Francisco/Oakland · Sat, 28 Feb 2026
+- EQ San Diego, San Diego · Sat, 28 Jun 2025
+- TBA, Miami · Fri, 16 May 2025
+- TBA - SECRET SF LOCATION, San Francisco/Oakland · Sat, 19 Apr 2025
 
 ## Shares bills with
 

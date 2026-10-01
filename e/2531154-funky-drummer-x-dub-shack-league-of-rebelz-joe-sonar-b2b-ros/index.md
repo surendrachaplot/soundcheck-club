@@ -1,6 +1,6 @@
 # Funky Drummer x Dub Shack: League Of Rebelz, Joe Sonar B2B Rose Holland, Sufi Rebel at Yellow Arch Studios
 
-Funky Drummer x Dub Shack: League Of Rebelz, Joe Sonar B2B Rose Holland, Sufi Rebel at Yellow Arch Studios on Sat 3 Oct, Sheffield. Preview the line-up and save it on soundcheck.
+Funky Drummer x Dub Shack: League Of Rebelz, Joe Sonar B2B Rose Holland, Sufi Rebel at Yellow Arch Studios on Sat 3 Oct, Sheffield. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

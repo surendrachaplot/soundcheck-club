@@ -1,6 +1,6 @@
 # Ekko Festival 2026 at Østre
 
-Ekko Festival 2026 at Østre on Thu 29 Oct, Bergen. 18 artists on the bill: Alif Hilal, Carmen Villain, Danilo Plessow and Devon Rexi and 14 more. Preview the line-up and save it on soundcheck.
+Ekko Festival 2026 at Østre on Thu 29 Oct, Bergen. 18 artists: Alif Hilal, Carmen Villain, Danilo Plessow and Devon Rexi and 14 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Influence x Centre Point: Halloween Special at Centre Point
 
-Influence x Centre Point: Halloween Special on Sat 31 Oct, Dublin. Techno. Preview the line-up and save it on soundcheck.
+Influence x Centre Point: Halloween Special on Sat 31 Oct, Dublin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

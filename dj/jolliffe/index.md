@@ -1,8 +1,8 @@
 # Jolliffe
 
-Jolliffe is a Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Onyx (E1), London on Sat, 14 Nov 2026.
+Jolliffe is a Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onyx (E1), London on Sat, 14 Nov 2026.
 
-Jolliffe is a drum & bass artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol and London. Often billed alongside Camo & Krooked, DREAD MC and LSB. Next up: Onyx (E1), London on Sat 14 Nov.
+Jolliffe is a drum & bass artist based in United Kingdom, with 8 gigs on soundcheck across Bristol and London. Often billed alongside Camo & Krooked, DREAD MC and LSB. Next up: Onyx (E1), London on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Jolliffe is a drum & bass artist based in United Kingdom, tracked on soundcheck,
 
 ## Recently played
 
-- High Lights - Barking Park, London — Sun, 31 May 2026
-- Last Arch, London — Sat, 23 May 2026
-- Document, Bristol — Sat, 31 Jan 2026
-- Notting Hill Arts Club, London — Sat, 12 Apr 2025
-- The Fox and Firkin, London — Fri, 7 Mar 2025
-- Rum Bar Camden, London — Sun, 9 Feb 2025
-- XOYO, London — Fri, 5 Jan 2024
+- High Lights - Barking Park, London · Sun, 31 May 2026
+- Last Arch, London · Sat, 23 May 2026
+- Document, Bristol · Sat, 31 Jan 2026
+- Notting Hill Arts Club, London · Sat, 12 Apr 2025
+- The Fox and Firkin, London · Fri, 7 Mar 2025
+- Rum Bar Camden, London · Sun, 9 Feb 2025
+- XOYO, London · Fri, 5 Jan 2024
 
 ## Shares bills with
 

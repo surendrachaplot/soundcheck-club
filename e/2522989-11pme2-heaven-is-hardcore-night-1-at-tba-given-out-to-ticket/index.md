@@ -1,6 +1,6 @@
 # 11PME2: HEAVEN IS HARDCORE NIGHT 1 at TBA - given out to ticket holders day before
 
-11PME2: HEAVEN IS HARDCORE NIGHT 1 at TBA - given out to ticket holders day before on Fri 13 Nov, Toronto. 1 artist on the bill: HomeSick. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+11PME2: HEAVEN IS HARDCORE NIGHT 1 at TBA - given out to ticket holders day before on Fri 13 Nov, Toronto. 1 artist: HomeSick. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

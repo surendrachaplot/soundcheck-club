@@ -1,6 +1,6 @@
 # Spin Twist Night w Fabio Fusco & Audiomatic at Akvárium Klub
 
-Spin Twist Night w Fabio Fusco & Audiomatic at Akvárium Klub on Fri 23 Oct, Budapest. Electronica and Psytrance. Preview the line-up and save it on soundcheck.
+Spin Twist Night w Fabio Fusco & Audiomatic at Akvárium Klub on Fri 23 Oct, Budapest. Electronica and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Source x Archive at Supperclub
 
-Source x Archive at Supperclub on Thu 1 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Source x Archive at Supperclub on Thu 1 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

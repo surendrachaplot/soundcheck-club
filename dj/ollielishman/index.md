@@ -1,8 +1,8 @@
 # Ollie Lishman
 
-Ollie Lishman is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
+Ollie Lishman is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
 
-Ollie Lishman is a techno and trance artist based in Australia, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Mondo Open Air, Madrid on Sat 3 Oct.
+Ollie Lishman is a techno and trance artist based in Australia, with 129 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 35 more. Often billed alongside Bad Boombox, Janis Zielinski and Mischluft. Next up: Mondo Open Air, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Ollie Lishman is a techno and trance artist based in Australia, tracked on sound
 
 ## Recently played
 
-- 888 Garage, San Francisco/Oakland — Sun, 13 Sept 2026
-- Avalon Hollywood, Los Angeles — Sat, 12 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- Else, Berlin — Sun, 30 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- Lofi, Amsterdam — Sat, 1 Aug 2026
-- Hangaren, Copenhagen — Fri, 31 Jul 2026
-- frachtkante, Berlin — Sat, 11 Jul 2026
+- 888 Garage, San Francisco/Oakland · Sun, 13 Sept 2026
+- Avalon Hollywood, Los Angeles · Sat, 12 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- Else, Berlin · Sun, 30 Aug 2026
+- Gianpula Village, Malta · Wed, 12 Aug 2026
+- Lofi, Amsterdam · Sat, 1 Aug 2026
+- Hangaren, Copenhagen · Fri, 31 Jul 2026
+- frachtkante, Berlin · Sat, 11 Jul 2026
 
 ## Shares bills with
 

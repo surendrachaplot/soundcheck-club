@@ -1,6 +1,6 @@
 # Rui Vargas & Zé Salvador, Petrvs at Gare Porto
 
-Rui Vargas & Zé Salvador, Petrvs at Gare Porto on Sat 3 Oct, Porto. 2 artists on the bill: Petrvs and Rui Vargas. Techno and House. Preview the line-up and save it on soundcheck.
+Rui Vargas & Zé Salvador, Petrvs at Gare Porto on Sat 3 Oct, Porto. 2 artists: Petrvs and Rui Vargas. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

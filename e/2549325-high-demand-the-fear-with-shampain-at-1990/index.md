@@ -1,6 +1,6 @@
 # High Demand: THE FEAR with Shampain at 1990
 
-High Demand: THE FEAR with Shampain at 1990 on Fri 30 Oct, Glasgow. 2 artists on the bill: F Kay and Shampain. Techno and Ghetto Tech. Preview the line-up and save it on soundcheck.
+High Demand: THE FEAR with Shampain at 1990 on Fri 30 Oct, Glasgow. 2 artists: F Kay and Shampain. Techno and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

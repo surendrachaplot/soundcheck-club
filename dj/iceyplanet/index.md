@@ -1,8 +1,8 @@
 # Icey Planet
 
-Icey Planet is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tempio del Futuro Perduto, Milan on Fri, 9 Oct 2026.
+Icey Planet is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Fri, 9 Oct 2026.
 
-Icey Planet is a techno and house artist based in China, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin and Milan. Often billed alongside Dexon, .JKM and A.R.T.. Next up: Tempio del Futuro Perduto, Milan on Fri 9 Oct.
+Icey Planet is a techno and house artist based in China, with 8 gigs on soundcheck across Amsterdam, Berlin and Milan. Often billed alongside Dexon, .JKM and A.R.T.. Next up: Tempio del Futuro Perduto, Milan on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,12 +13,12 @@ Icey Planet is a techno and house artist based in China, tracked on soundcheck, 
 
 ## Recently played
 
-- ÆDEN, Berlin — Fri, 17 Jul 2026
-- Melkweg, Amsterdam — Tue, 30 Jun 2026
-- Else, Berlin — Thu, 28 May 2026
-- Melkweg, Amsterdam — Tue, 9 Dec 2025
-- Melkweg, Amsterdam — Tue, 21 Oct 2025
-- Zitadelle Spandau, Berlin — Sat, 28 Jun 2025
+- ÆDEN, Berlin · Fri, 17 Jul 2026
+- Melkweg, Amsterdam · Tue, 30 Jun 2026
+- Else, Berlin · Thu, 28 May 2026
+- Melkweg, Amsterdam · Tue, 9 Dec 2025
+- Melkweg, Amsterdam · Tue, 21 Oct 2025
+- Zitadelle Spandau, Berlin · Sat, 28 Jun 2025
 
 ## Shares bills with
 

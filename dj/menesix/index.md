@@ -1,8 +1,8 @@
 # MENESIX
 
-MENESIX is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TivoliVredenburg, Utrecht on Sat, 21 Nov 2026.
+MENESIX is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TivoliVredenburg, Utrecht on Sat, 21 Nov 2026.
 
-MENESIX is a house and tech house artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Ibiza, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Karim Soliman and Rayzir. Next up: TivoliVredenburg, Utrecht on Sat 21 Nov.
+MENESIX is a house and tech house artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Ibiza, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Karim Soliman and Rayzir. Next up: TivoliVredenburg, Utrecht on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MENESIX is a house and tech house artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
-- Thuishaven, Amsterdam — Sun, 13 Sept 2026
-- Kralingse Bos, Rotterdam — Sat, 12 Sept 2026
-- [UNVRS], Ibiza — Sat, 5 Sept 2026
-- Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
-- RAI Amsterdam, Amsterdam — Mon, 27 Apr 2026
-- Thuishaven, Amsterdam — Sat, 21 Mar 2026
-- TBA - Laurenskerk Rotterdam, Rotterdam — Fri, 13 Mar 2026
-- TBA - Grand Hotel Amrâth Kurhau, The Hague — Sat, 7 Feb 2026
+- Thuishaven, Amsterdam · Sun, 13 Sept 2026
+- Kralingse Bos, Rotterdam · Sat, 12 Sept 2026
+- [UNVRS], Ibiza · Sat, 5 Sept 2026
+- Recreatiegebied Middelwaard, Utrecht · Sat, 4 Jul 2026
+- RAI Amsterdam, Amsterdam · Mon, 27 Apr 2026
+- Thuishaven, Amsterdam · Sat, 21 Mar 2026
+- TBA - Laurenskerk Rotterdam, Rotterdam · Fri, 13 Mar 2026
+- TBA - Grand Hotel Amrâth Kurhau, The Hague · Sat, 7 Feb 2026
 
 ## Shares bills with
 

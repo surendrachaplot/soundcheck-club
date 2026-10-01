@@ -1,6 +1,6 @@
 # Heat Takeover (OPEN DECKS) ***MOVED TO SATURDAY OCTOBER 3RD*** at The Chemist
 
-Heat Takeover (OPEN DECKS) ***MOVED TO SATURDAY OCTOBER 3RD*** at The Chemist on Thu 1 Oct, Boston. House and Tech House. Preview the line-up and save it on soundcheck.
+Heat Takeover (OPEN DECKS) ***MOVED TO SATURDAY OCTOBER 3RD*** at The Chemist on Thu 1 Oct, Boston. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

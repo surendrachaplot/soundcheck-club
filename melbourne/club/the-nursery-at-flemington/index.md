@@ -1,8 +1,8 @@
 # The Nursery At Flemington
 
-The Nursery At Flemington is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "LTECNYD 2027" on Fri, 1 Jan 2027.
+The Nursery At Flemington is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "LTECNYD 2027" on Fri, 1 Jan 2027.
 
-The Nursery At Flemington is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Anetha, Boys Noize, C.FRIM and Chaos In The CBD and 2 more. Browse upcoming dates, start times and who's playing.
+The Nursery At Flemington is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Anetha, Boys Noize, C.FRIM and Chaos In The CBD and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

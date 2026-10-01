@@ -1,8 +1,8 @@
 # Evanora Unlimited
 
-Evanora Unlimited is a Experimental and Industrial artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Danforth Music Hall, Toronto on Wed, 30 Sept 2026.
+Evanora Unlimited is a Experimental and Industrial artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Danforth Music Hall, Toronto on Wed, 30 Sept 2026.
 
-Evanora Unlimited is an experimental and industrial artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Basel, Belgrade and Berlin and 18 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: Danforth Music Hall, Toronto on Wed 30 Sept.
+Evanora Unlimited is an experimental and industrial artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Basel, Belgrade and Berlin and 18 more. Often billed alongside Taraneh, Heartcoregirl and Oatmilkandcodeine. Next up: Danforth Music Hall, Toronto on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Evanora Unlimited is an experimental and industrial artist based in United Kingd
 
 ## Recently played
 
-- Danforth Music Hall, Toronto — Wed, 30 Sept 2026
-- MTELUS, Montreal — Tue, 29 Sept 2026
-- Tagada, Vienna — Sat, 15 Aug 2026
-- Vespers Club, London — Sat, 8 Aug 2026
-- Klub Mechanik, Warsaw — Fri, 7 Aug 2026
-- Verein Llos, Basel — Fri, 19 Jun 2026
-- Xanadu, New York City — Thu, 7 May 2026
-- Mivida, Los Angeles — Fri, 9 Jan 2026
+- Danforth Music Hall, Toronto · Wed, 30 Sept 2026
+- MTELUS, Montreal · Tue, 29 Sept 2026
+- Tagada, Vienna · Sat, 15 Aug 2026
+- Vespers Club, London · Sat, 8 Aug 2026
+- Klub Mechanik, Warsaw · Fri, 7 Aug 2026
+- Verein Llos, Basel · Fri, 19 Jun 2026
+- Xanadu, New York City · Thu, 7 May 2026
+- Mivida, Los Angeles · Fri, 9 Jan 2026
 
 ## Shares bills with
 

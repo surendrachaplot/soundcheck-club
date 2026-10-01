@@ -1,6 +1,6 @@
 # Give It To Me Old'School at Wiggle Room
 
-Give It To Me Old'School at Wiggle Room on Sat 24 Oct, Toronto. House and Tech House. Preview the line-up and save it on soundcheck.
+Give It To Me Old'School at Wiggle Room on Sat 24 Oct, Toronto. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

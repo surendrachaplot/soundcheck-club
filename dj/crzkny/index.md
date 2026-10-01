@@ -1,8 +1,8 @@
 # CRZKNY
 
-CRZKNY is a Footwork and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Conpass, Osaka on Fri, 2 Oct 2026.
+CRZKNY is a Footwork and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Conpass, Osaka on Fri, 2 Oct 2026.
 
-CRZKNY is a footwork and bass artist based in Japan, tracked on soundcheck, with 8 sets logged across Osaka and Tokyo. Often billed alongside D.J.Fulltono, hOLysHiT and v.o.c tokyo. Next up: Conpass, Osaka on Fri 2 Oct.
+CRZKNY is a footwork and bass artist based in Japan, with 8 gigs on soundcheck across Osaka and Tokyo. Often billed alongside D.J.Fulltono, hOLysHiT and v.o.c tokyo. Next up: Conpass, Osaka on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ CRZKNY is a footwork and bass artist based in Japan, tracked on soundcheck, with
 
 ## Recently played
 
-- Upsidedown, Osaka — Mon, 22 Sept 2025
-- MIDNIGHT EAST, Tokyo — Fri, 22 Aug 2025
-- Shinjuku Duusraa, Tokyo — Sat, 30 Nov 2024
-- Roppongi Cube, Tokyo — Sat, 30 Nov 2024
-- clubasia, Tokyo — Sat, 28 Sept 2024
-- Live Haus, Tokyo — Fri, 27 Sept 2024
-- Conpass, Osaka — Mon, 24 Jul 2023
+- Upsidedown, Osaka · Mon, 22 Sept 2025
+- MIDNIGHT EAST, Tokyo · Fri, 22 Aug 2025
+- Shinjuku Duusraa, Tokyo · Sat, 30 Nov 2024
+- Roppongi Cube, Tokyo · Sat, 30 Nov 2024
+- clubasia, Tokyo · Sat, 28 Sept 2024
+- Live Haus, Tokyo · Fri, 27 Sept 2024
+- Conpass, Osaka · Mon, 24 Jul 2023
 
 ## Shares bills with
 

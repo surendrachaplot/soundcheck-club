@@ -1,6 +1,6 @@
 # COCAG-003 12' VINYL RELEASE PARTY at MIDNIGHT EAST
 
-COCAG-003 12' VINYL RELEASE PARTY at MIDNIGHT EAST on Fri 16 Oct, Tokyo. 6 artists on the bill: DNG, Genki Tanaka, KUBOTA and Shimpei Watanabe and 2 more. Preview the line-up and save it on soundcheck.
+COCAG-003 12' VINYL RELEASE PARTY at MIDNIGHT EAST on Fri 16 Oct, Tokyo. 6 artists: DNG, Genki Tanaka, KUBOTA and Shimpei Watanabe and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

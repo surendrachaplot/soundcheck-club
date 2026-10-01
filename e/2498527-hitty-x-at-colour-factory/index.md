@@ -1,6 +1,6 @@
 # Hitty-X at Colour Factory
 
-Hitty-X at Colour Factory on Sat 3 Oct, London. 1 artist on the bill: hitty. House and Tech House. Preview the line-up and save it on soundcheck.
+Hitty-X at Colour Factory on Sat 3 Oct, London. 1 artist: hitty. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

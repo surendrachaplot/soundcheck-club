@@ -1,6 +1,6 @@
 # SUBVERSIVE at Podlasie Club
 
-SUBVERSIVE at Podlasie Club on Thu 15 Oct, Chicago. 1 artist on the bill: Choirgirl. Preview the line-up and save it on soundcheck.
+SUBVERSIVE at Podlasie Club on Thu 15 Oct, Chicago. 1 artist: Choirgirl. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

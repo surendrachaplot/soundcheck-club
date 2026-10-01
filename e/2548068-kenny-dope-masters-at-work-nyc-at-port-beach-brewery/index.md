@@ -1,6 +1,6 @@
 # Kenny Dope - Masters At Work (NYC) at Port Beach Brewery
 
-Kenny Dope - Masters At Work (NYC) at Port Beach Brewery on Fri 5 Mar, Perth. 1 artist on the bill: Kenny Dope. Preview the line-up and save it on soundcheck.
+Kenny Dope - Masters At Work (NYC) at Port Beach Brewery on Fri 5 Mar, Perth. 1 artist: Kenny Dope. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DUMP at Ficken 3000
 
-DUMP at Ficken 3000 on Fri 9 Oct, Berlin. 4 artists on the bill: ANNARA, Dirty Daddy Don, lealucifer and Majdolen. Techno and House. Preview the line-up and save it on soundcheck.
+DUMP at Ficken 3000 on Fri 9 Oct, Berlin. 4 artists: ANNARA, Dirty Daddy Don, lealucifer and Majdolen. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

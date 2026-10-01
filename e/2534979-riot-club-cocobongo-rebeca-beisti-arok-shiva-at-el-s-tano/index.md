@@ -1,6 +1,6 @@
 # RIOT CLUB: Cocobongo, Rebeca Beisti, Arok Shiva at EL SÓTANO
 
-RIOT CLUB: Cocobongo, Rebeca Beisti, Arok Shiva at EL SÓTANO on Sun 4 Oct, Madrid. 1 artist on the bill: Arok Shiva. Trance and Techno. Preview the line-up and save it on soundcheck.
+RIOT CLUB: Cocobongo, Rebeca Beisti, Arok Shiva at EL SÓTANO on Sun 4 Oct, Madrid. 1 artist: Arok Shiva. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Cloud 11 Hall
 
-Cloud 11 Hall is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "DIAGE 2026" on Sat, 31 Oct 2026.
+Cloud 11 Hall is a music venue in Bangkok with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "DIAGE 2026" on Sat, 31 Oct 2026.
 
-Cloud 11 Hall is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line-ups including ahivar, Club Mascot, DJ Dragon and DJ Praw and 2 more. Browse upcoming dates, start times and who's playing.
+Cloud 11 Hall is a music venue in Bangkok listed on soundcheck. 1 upcoming gig, with line-ups including ahivar, Club Mascot, DJ Dragon and DJ Praw and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

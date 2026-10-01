@@ -1,6 +1,6 @@
 # BEECHY & FRIENDS with Fairhurst at Freeze HiFi
 
-BEECHY & FRIENDS with Fairhurst at Freeze HiFi on Tue 6 Oct, Liverpool. 2 artists on the bill: Beechy and Fairhurst. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+BEECHY & FRIENDS with Fairhurst at Freeze HiFi on Tue 6 Oct, Liverpool. 2 artists: Beechy and Fairhurst. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

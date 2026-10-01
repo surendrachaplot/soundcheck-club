@@ -1,6 +1,6 @@
 # Ring — 10 October 2026 at Ring
 
-Ring — 10 October 2026 on Sat 10 Oct, Seoul. 2 artists on the bill: Antwork and Magico.. Techno and Electro. Preview the line-up and save it on soundcheck.
+Ring — 10 October 2026 on Sat 10 Oct, Seoul. 2 artists: Antwork and Magico.. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

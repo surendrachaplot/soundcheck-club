@@ -1,6 +1,6 @@
 # Hands On Your Hips at Detour Los Angeles
 
-Hands On Your Hips at Detour Los Angeles on Sat 3 Oct, Los Angeles. 2 artists on the bill: SJAYY and VICTORIA MOURA. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+Hands On Your Hips at Detour Los Angeles on Sat 3 Oct, Los Angeles. 2 artists: SJAYY and VICTORIA MOURA. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

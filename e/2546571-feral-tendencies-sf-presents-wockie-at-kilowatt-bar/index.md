@@ -1,6 +1,6 @@
 # Feral Tendencies SF presents: WOCKIE at Kilowatt Bar
 
-Feral Tendencies SF presents: WOCKIE at Kilowatt Bar on Fri 2 Oct, San Francisco/Oakland. 2 artists on the bill: DJBstone and WOCKIE. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Feral Tendencies SF presents: WOCKIE at Kilowatt Bar on Fri 2 Oct, San Francisco/Oakland. 2 artists: DJBstone and WOCKIE. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

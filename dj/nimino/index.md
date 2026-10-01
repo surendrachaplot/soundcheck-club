@@ -1,8 +1,8 @@
 # nimino
 
-nimino is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Project House, Leeds on Fri, 9 Oct 2026.
+nimino is a House and Electronica artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Project House, Leeds on Fri, 9 Oct 2026.
 
-nimino is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Lane 8, Boys Noize and Elderbrook. Next up: Project House, Leeds on Fri 9 Oct.
+nimino is a house and electronica artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Lane 8, Boys Noize and Elderbrook. Next up: Project House, Leeds on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ nimino is a house and electronica artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Outset, Chicago — Sat, 5 Sept 2026
-- Finsbury Park, London — Sat, 1 Aug 2026
-- Fira Gran Via, Barcelona — Mon, 15 Jun 2026
-- Brockwell Park, London — Sat, 23 May 2026
-- Musée de l'Air et de l'Espace, Paris — Fri, 22 May 2026
-- Circolo Magnolia, Milan — Sat, 16 May 2026
-- The Rail, San Diego — Sun, 15 Mar 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Outset, Chicago · Sat, 5 Sept 2026
+- Finsbury Park, London · Sat, 1 Aug 2026
+- Fira Gran Via, Barcelona · Mon, 15 Jun 2026
+- Brockwell Park, London · Sat, 23 May 2026
+- Musée de l'Air et de l'Espace, Paris · Fri, 22 May 2026
+- Circolo Magnolia, Milan · Sat, 16 May 2026
+- The Rail, San Diego · Sun, 15 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # MGNA Crrrta at Cinetol
 
-MGNA Crrrta at Cinetol on Mon 2 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+MGNA Crrrta at Cinetol on Mon 2 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dos Santos with Los Duendes at The American
 
-Dos Santos with Los Duendes at The American on Sun 18 Oct, Vancouver. Jazz. Preview the line-up and save it on soundcheck.
+Dos Santos with Los Duendes at The American on Sun 18 Oct, Vancouver. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

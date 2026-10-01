@@ -1,8 +1,8 @@
 # Floyd Lavine
 
-Floyd Lavine is a Afro House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Bunker @ The Rolling Stock, London on Fri, 2 Oct 2026.
+Floyd Lavine is a Afro House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bunker @ The Rolling Stock, London on Fri, 2 Oct 2026.
 
-Floyd Lavine is an afro house and house artist based in South Africa, tracked on soundcheck, with 68 sets logged across Amsterdam, Athens, Bali and Barcelona and 21 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: The Bunker @ The Rolling Stock, London on Fri 2 Oct.
+Floyd Lavine is an afro house and house artist based in South Africa, with 68 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 21 more. Often billed alongside Black Coffee, Damian Lazarus and Paul Reynolds. Next up: The Bunker @ The Rolling Stock, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Floyd Lavine is an afro house and house artist based in South Africa, tracked on
 
 ## Recently played
 
-- Village Underground Barcelona, Barcelona — Sat, 26 Sept 2026
-- Chinois Ibiza, Ibiza — Fri, 31 Jul 2026
-- Kastel, Istanbul — Fri, 17 Jul 2026
-- SAGE, Berlin — Sat, 11 Jul 2026
-- Savaya Bali, Bali — Sun, 28 Jun 2026
-- Hï Ibiza, Ibiza — Sun, 21 Jun 2026
-- BORIS CLUB, Barcelona — Tue, 16 Jun 2026
-- Hï Ibiza, Ibiza — Sat, 30 May 2026
+- Village Underground Barcelona, Barcelona · Sat, 26 Sept 2026
+- Chinois Ibiza, Ibiza · Fri, 31 Jul 2026
+- Kastel, Istanbul · Fri, 17 Jul 2026
+- SAGE, Berlin · Sat, 11 Jul 2026
+- Savaya Bali, Bali · Sun, 28 Jun 2026
+- Hï Ibiza, Ibiza · Sun, 21 Jun 2026
+- BORIS CLUB, Barcelona · Tue, 16 Jun 2026
+- Hï Ibiza, Ibiza · Sat, 30 May 2026
 
 ## Shares bills with
 

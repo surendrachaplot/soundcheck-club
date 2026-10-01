@@ -1,8 +1,8 @@
 # 19:26
 
-19:26 is a Techno and Electronica artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+19:26 is a Techno and Electronica artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-19:26 is a techno and electronica artist based in Italy, tracked on soundcheck, with 69 sets logged across Amsterdam, Bali, Barcelona and Basel and 24 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: Knockdown Center, New York City on Fri 2 Oct.
+19:26 is a techno and electronica artist based in Italy, with 69 gigs on soundcheck across Amsterdam, Bali, Barcelona and Basel and 24 more. Often billed alongside Tale Of Us, Chris Avantgarde and Kevin de Vries. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@
 
 ## Recently played
 
-- Klein Phönix, Istanbul — Fri, 18 Sept 2026
-- Klein Phönix, Istanbul — Fri, 18 Sept 2026
-- TBA - AMK Club, Almagro, Buenos Aires — Sat, 22 Aug 2026
-- Club Space Miami, Miami — Fri, 24 Jul 2026
-- [UNVRS], Ibiza — Tue, 21 Jul 2026
-- Luz De Gas, Barcelona — Sat, 27 Jun 2026
-- TBA - Chacra El Descanso, La Plata, Buenos Aires — Sat, 30 May 2026
-- Viertel, Basel — Sat, 23 May 2026
+- Klein Phönix, Istanbul · Fri, 18 Sept 2026
+- Klein Phönix, Istanbul · Fri, 18 Sept 2026
+- TBA - AMK Club, Almagro, Buenos Aires · Sat, 22 Aug 2026
+- Club Space Miami, Miami · Fri, 24 Jul 2026
+- [UNVRS], Ibiza · Tue, 21 Jul 2026
+- Luz De Gas, Barcelona · Sat, 27 Jun 2026
+- TBA - Chacra El Descanso, La Plata, Buenos Aires · Sat, 30 May 2026
+- Viertel, Basel · Sat, 23 May 2026
 
 ## Shares bills with
 

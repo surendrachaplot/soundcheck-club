@@ -1,8 +1,8 @@
 # Sydney Glass Island
 
-Sydney Glass Island is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Chris Luno - Sydney, Sunset Cruise (Public Holiday Eve)" on Sun, 4 Oct 2026.
+Sydney Glass Island is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Chris Luno - Sydney, Sunset Cruise (Public Holiday Eve)" on Sun, 4 Oct 2026.
 
-Sydney Glass Island is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including A.Well, Chris Luno, Chris Stevo and Miliard. Browse upcoming dates, start times and who's playing. 37 Bank St, Pyrmont NSW 2009.
+Sydney Glass Island is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including A.Well, Chris Luno, Chris Stevo and Miliard. See dates, start times and who's playing. 37 Bank St, Pyrmont NSW 2009.
 
 ## What's on
 

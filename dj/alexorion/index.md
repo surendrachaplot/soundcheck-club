@@ -1,8 +1,8 @@
 # Alex O'Rion
 
-Alex O'Rion is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
+Alex O'Rion is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Akhnaton, Amsterdam on Thu, 22 Oct 2026.
 
-Alex O'Rion is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Bristol and Budapest and 17 more. Often billed alongside Alain Pauwels, Guy J and Around Us. Next up: Akhnaton, Amsterdam on Thu 22 Oct.
+Alex O'Rion is a progressive house and deep house artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Antwerp, Bristol and Budapest and 17 more. Often billed alongside Alain Pauwels, Guy J and Around Us. Next up: Akhnaton, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Alex O'Rion is a progressive house and deep house artist based in Netherlands, t
 
 ## Recently played
 
-- Bridge Gardens, Glasgow — Sat, 26 Sept 2026
-- TBA - La Biblioteca, San Telmo, Buenos Aires — Sat, 12 Sept 2026
-- Joyt, Antwerp — Sun, 30 Aug 2026
-- Public Works Oddjob Loft, San Francisco/Oakland — Sat, 18 Jul 2026
-- Houtbaar Haarlem, Amsterdam — Fri, 10 Jul 2026
-- The Fibre Penthouse, Leeds — Sat, 20 Jun 2026
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sun, 31 May 2026
-- Ohjo Bldg, Tokyo — Sat, 30 May 2026
+- Bridge Gardens, Glasgow · Sat, 26 Sept 2026
+- TBA - La Biblioteca, San Telmo, Buenos Aires · Sat, 12 Sept 2026
+- Joyt, Antwerp · Sun, 30 Aug 2026
+- Public Works Oddjob Loft, San Francisco/Oakland · Sat, 18 Jul 2026
+- Houtbaar Haarlem, Amsterdam · Fri, 10 Jul 2026
+- The Fibre Penthouse, Leeds · Sat, 20 Jun 2026
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sun, 31 May 2026
+- Ohjo Bldg, Tokyo · Sat, 30 May 2026
 
 ## Shares bills with
 

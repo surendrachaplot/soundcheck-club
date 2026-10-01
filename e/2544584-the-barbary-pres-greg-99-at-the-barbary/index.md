@@ -1,6 +1,6 @@
 # The Barbary pres. GREG 99 at The Barbary
 
-The Barbary pres. GREG 99 on Fri 13 Nov, Philadelphia. House and Tech House. Preview the line-up and save it on soundcheck.
+The Barbary pres. GREG 99 on Fri 13 Nov, Philadelphia. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # XL XtraLrge (Vlc) at TBA - XL XtraLrge (Vlc)
 
-XL XtraLrge (Vlc) at TBA - XL XtraLrge (Vlc) on Fri 23 Oct, Valencia. 1 artist on the bill: Maadraassoo. Pop. Preview the line-up and save it on soundcheck.
+XL XtraLrge (Vlc) at TBA - XL XtraLrge (Vlc) on Fri 23 Oct, Valencia. 1 artist: Maadraassoo. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

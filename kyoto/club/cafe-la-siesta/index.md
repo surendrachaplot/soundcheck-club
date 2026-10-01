@@ -1,8 +1,8 @@
 # Cafe la Siesta
 
-Cafe la Siesta is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Lo-bit Stance" on Sun, 4 Oct 2026.
+Cafe la Siesta is a music venue in Kyoto with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Lo-bit Stance" on Sun, 4 Oct 2026.
 
-Cafe la Siesta is a music venue in Kyoto listed on soundcheck. 1 upcoming gig, with line-ups including DJ Master Kohta. Browse upcoming dates, start times and who's playing. 366 Kamiyacho, Kiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, 604-8024 Japan.
+Cafe la Siesta is a music venue in Kyoto listed on soundcheck. 1 upcoming gig, with line-ups including DJ Master Kohta. See dates, start times and who's playing. 366 Kamiyacho, Kiyacho, Nakagyo-ku, Kyoto-shi, Kyoto, 604-8024 Japan.
 
 ## What's on
 

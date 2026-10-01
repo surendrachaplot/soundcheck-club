@@ -1,6 +1,6 @@
 # Igloofest MTL #6: Ninajirachi & Frost Children (DJ set) at Igloofest
 
-Igloofest MTL #6: Ninajirachi & Frost Children (DJ set) on Sat 23 Jan, Montreal. 3 artists on the bill: Frost Children, Isla Den and Ninajirachi. Preview the line-up and save it on soundcheck.
+Igloofest MTL #6: Ninajirachi & Frost Children (DJ set) on Sat 23 Jan, Montreal. 3 artists: Frost Children, Isla Den and Ninajirachi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

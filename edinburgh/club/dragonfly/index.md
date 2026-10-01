@@ -1,8 +1,8 @@
 # Dragonfly
 
-Dragonfly is a music venue in Edinburgh with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Open Decks Social presents: Femme DJ Workshop and Social" on Sun, 4 Oct 2026.
+Dragonfly is a music venue in Edinburgh with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Open Decks Social presents: Femme DJ Workshop and Social" on Sun, 4 Oct 2026.
 
-Dragonfly is a music venue in Edinburgh listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. 52 West port, Old Town, Edinburgh, EH1 2LD.
+Dragonfly is a music venue in Edinburgh listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 52 West port, Old Town, Edinburgh, EH1 2LD.
 
 ## What's on
 

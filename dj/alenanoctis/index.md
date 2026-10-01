@@ -1,8 +1,8 @@
 # Alena Noctis
 
-Alena Noctis is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Alena Noctis is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Alena Noctis is a techno and acid artist based in Austria, tracked on soundcheck, with 29 sets logged across Amsterdam, Budapest, Munich and Vienna. Often billed alongside Relinquo, Patrik Pagan and DANBERG. Next up: Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam, Amsterdam on Thu 22 Oct.
+Alena Noctis is a techno and acid artist based in Austria, with 29 gigs on soundcheck across Amsterdam, Budapest, Munich and Vienna. Often billed alongside Relinquo, Patrik Pagan and DANBERG. Next up: Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Alena Noctis is a techno and acid artist based in Austria, tracked on soundcheck
 
 ## Recently played
 
-- Kramladen, Vienna — Sat, 22 Aug 2026
-- Kramladen, Vienna — Sat, 1 Aug 2026
-- Kramladen, Vienna — Fri, 5 Jun 2026
-- Kramladen, Vienna — Fri, 10 Apr 2026
-- FLUCC, Vienna — Fri, 3 Apr 2026
-- Palazzo Permanens, Budapest — Sat, 21 Mar 2026
-- Palais, Munich — Sun, 15 Mar 2026
-- Kramladen, Vienna — Sat, 28 Feb 2026
+- Kramladen, Vienna · Sat, 22 Aug 2026
+- Kramladen, Vienna · Sat, 1 Aug 2026
+- Kramladen, Vienna · Fri, 5 Jun 2026
+- Kramladen, Vienna · Fri, 10 Apr 2026
+- FLUCC, Vienna · Fri, 3 Apr 2026
+- Palazzo Permanens, Budapest · Sat, 21 Mar 2026
+- Palais, Munich · Sun, 15 Mar 2026
+- Kramladen, Vienna · Sat, 28 Feb 2026
 
 ## Shares bills with
 

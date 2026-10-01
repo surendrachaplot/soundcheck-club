@@ -1,6 +1,6 @@
 # PRAXIS at The DBA
 
-PRAXIS at The DBA on Wed 28 Oct, Manchester. Trance and Techno. Preview the line-up and save it on soundcheck.
+PRAXIS at The DBA on Wed 28 Oct, Manchester. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

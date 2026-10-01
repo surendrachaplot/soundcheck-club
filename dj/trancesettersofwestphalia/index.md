@@ -1,8 +1,8 @@
 # Trancesetters of Westphalia
 
-Trancesetters of Westphalia is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Fri, 6 Nov 2026.
+Trancesetters of Westphalia is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Fri, 6 Nov 2026.
 
-Trancesetters of Westphalia is a trance and techno artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin, Brussels, Cologne and Copenhagen and 8 more. Often billed alongside GNMR, S.O.N.S and Bambi (FR). Next up: Kater, Berlin on Fri 6 Nov.
+Trancesetters of Westphalia is a trance and techno artist based in Germany, with 49 gigs on soundcheck across Berlin, Brussels, Cologne and Copenhagen and 8 more. Often billed alongside GNMR, S.O.N.S and Bambi (FR). Next up: Kater, Berlin on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Trancesetters of Westphalia is a trance and techno artist based in Germany, trac
 
 ## Recently played
 
-- TBA, Rome — Sat, 19 Sept 2026
-- Hoppetosse, Berlin — Fri, 4 Sept 2026
-- FOLD, London — Sat, 22 Aug 2026
-- TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
-- Circle Park, Brussels — Sat, 8 Aug 2026
-- Salon des Amateurs, Düsseldorf — Fri, 19 Jun 2026
-- TBA, Oslo — Fri, 12 Jun 2026
-- Sameheads, Berlin — Fri, 8 May 2026
+- TBA, Rome · Sat, 19 Sept 2026
+- Hoppetosse, Berlin · Fri, 4 Sept 2026
+- FOLD, London · Sat, 22 Aug 2026
+- TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
+- Circle Park, Brussels · Sat, 8 Aug 2026
+- Salon des Amateurs, Düsseldorf · Fri, 19 Jun 2026
+- TBA, Oslo · Fri, 12 Jun 2026
+- Sameheads, Berlin · Fri, 8 May 2026
 
 ## Shares bills with
 

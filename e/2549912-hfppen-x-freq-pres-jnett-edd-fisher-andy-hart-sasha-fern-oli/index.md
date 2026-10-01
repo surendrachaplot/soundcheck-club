@@ -1,6 +1,6 @@
 # HFppen X Freq. pres: JNETT, Edd Fisher & Andy Hart, Sasha Fern & Oli James, Nass at Coil
 
-HFppen X Freq. pres: JNETT, Edd Fisher & Andy Hart, Sasha Fern & Oli James, Nass at Coil on Sun 4 Oct, Melbourne. 3 artists on the bill: Andy Hart, DJ JNETT and Edd Fisher. Techno and Tech House. Preview the line-up and save it on soundcheck.
+HFppen X Freq. pres: JNETT, Edd Fisher & Andy Hart, Sasha Fern & Oli James, Nass at Coil on Sun 4 Oct, Melbourne. 3 artists: Andy Hart, DJ JNETT and Edd Fisher. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

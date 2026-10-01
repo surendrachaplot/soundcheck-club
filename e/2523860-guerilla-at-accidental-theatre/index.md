@@ -1,6 +1,6 @@
 # Guerilla at Accidental Theatre
 
-Guerilla at Accidental Theatre on Sat 3 Oct, Belfast. Techno and House. Preview the line-up and save it on soundcheck.
+Guerilla at Accidental Theatre on Sat 3 Oct, Belfast. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

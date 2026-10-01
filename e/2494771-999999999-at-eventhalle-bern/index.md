@@ -1,6 +1,6 @@
 # 999999999 at Eventhalle Bern
 
-999999999 at Eventhalle Bern on Sat 24 Oct, Bern. 2 artists on the bill: 999999999 and AKKI (DE). Preview the line-up and save it on soundcheck.
+999999999 at Eventhalle Bern on Sat 24 Oct, Bern. 2 artists: 999999999 and AKKI (DE). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ⌭ IceMorph ⌬ - CloudCore takeover at The Carpet Shop
 
-⌭ IceMorph ⌬ - CloudCore takeover at The Carpet Shop on Sat 17 Oct, London. 1 artist on the bill: IceMorph. Preview the line-up and save it on soundcheck.
+⌭ IceMorph ⌬ - CloudCore takeover at The Carpet Shop on Sat 17 Oct, London. 1 artist: IceMorph. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

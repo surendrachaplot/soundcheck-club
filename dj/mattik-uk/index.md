@@ -1,8 +1,8 @@
 # Mattik (UK)
 
-Mattik (UK) is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Paloma, Berlin on Fri, 16 Oct 2026.
+Mattik (UK) is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Fri, 16 Oct 2026.
 
-Mattik (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Amsterdam, Antwerp, Bangkok and Berlin and 11 more. Often billed alongside Mattik UK, Seb Skint and Rich Reason. Next up: Paloma, Berlin on Fri 16 Oct.
+Mattik (UK) is a garage and bass artist based in United Kingdom, with 59 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Berlin and 11 more. Often billed alongside Mattik UK, Seb Skint and Rich Reason. Next up: Paloma, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Mattik (UK) is a garage and bass artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- The Blues Kitchen Manchester, Manchester — Sun, 30 Aug 2026
-- Freight Island, Manchester — Sun, 5 Jul 2026
-- Hidden, Manchester — Sat, 23 May 2026
-- Off The Square, Manchester — Fri, 15 May 2026
-- Niamos, Manchester — Fri, 20 Mar 2026
-- Eastern Bloc Records, Manchester — Sun, 1 Mar 2026
-- Cupra City Garage Manchester, Manchester — Fri, 27 Feb 2026
-- Ramona, Manchester — Sun, 30 Nov 2025
+- The Blues Kitchen Manchester, Manchester · Sun, 30 Aug 2026
+- Freight Island, Manchester · Sun, 5 Jul 2026
+- Hidden, Manchester · Sat, 23 May 2026
+- Off The Square, Manchester · Fri, 15 May 2026
+- Niamos, Manchester · Fri, 20 Mar 2026
+- Eastern Bloc Records, Manchester · Sun, 1 Mar 2026
+- Cupra City Garage Manchester, Manchester · Fri, 27 Feb 2026
+- Ramona, Manchester · Sun, 30 Nov 2025
 
 ## Shares bills with
 

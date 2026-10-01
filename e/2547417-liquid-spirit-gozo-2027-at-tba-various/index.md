@@ -1,6 +1,6 @@
 # Liquid Spirit Gozo 2027 at TBA - VARIOUS
 
-Liquid Spirit Gozo 2027 at TBA - VARIOUS on Thu 16 Sept, Malta. 10 artists on the bill: Ace Shyllon, Danny T, Ethan Gray and Karlainthemix and 6 more. Preview the line-up and save it on soundcheck.
+Liquid Spirit Gozo 2027 at TBA - VARIOUS on Thu 16 Sept, Malta. 10 artists: Ace Shyllon, Danny T, Ethan Gray and Karlainthemix and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Voice Actor live + visuals at Klub Żak
 
-Voice Actor live + visuals at Klub Żak on Sat 10 Oct, Gdansk. 1 artist on the bill: Voice Actor. Preview the line-up and save it on soundcheck.
+Voice Actor live + visuals at Klub Żak on Sat 10 Oct, Gdansk. 1 artist: Voice Actor. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

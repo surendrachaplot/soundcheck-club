@@ -1,6 +1,6 @@
 # Dee Diggs, TYLERFROMWHERE, Kilopatrah Jones, Barangay + Friends - Dead Letter No.9 at Dead Letter No. 9
 
-Dee Diggs, TYLERFROMWHERE, Kilopatrah Jones, Barangay + Friends - Dead Letter No.9 at Dead Letter No. 9 on Sat 3 Oct, New York City. 3 artists on the bill: Dee Diggs, Kilopatrah Jones and TYLERFROMWHERE. Techno and House. Preview the line-up and save it on soundcheck.
+Dee Diggs, TYLERFROMWHERE, Kilopatrah Jones, Barangay + Friends - Dead Letter No.9 at Dead Letter No. 9 on Sat 3 Oct, New York City. 3 artists: Dee Diggs, Kilopatrah Jones and TYLERFROMWHERE. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

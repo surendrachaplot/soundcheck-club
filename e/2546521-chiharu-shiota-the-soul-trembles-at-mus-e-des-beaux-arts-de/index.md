@@ -1,6 +1,6 @@
 # Chiharu Shiota: The Soul Trembles at Musée des beaux-arts de Montréal
 
-Chiharu Shiota: The Soul Trembles at Musée des beaux-arts de Montréal on Sun 27 Sept, Montreal. 1 artist on the bill: Stefan Goldmann. Experimental. Preview the line-up and save it on soundcheck.
+Chiharu Shiota: The Soul Trembles at Musée des beaux-arts de Montréal on Sun 27 Sept, Montreal. 1 artist: Stefan Goldmann. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

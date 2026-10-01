@@ -1,8 +1,8 @@
 # CLEO
 
-CLEO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at elipamanoke, Leipzig on Fri, 9 Oct 2026.
+CLEO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at elipamanoke, Leipzig on Fri, 9 Oct 2026.
 
-CLEO is a techno and house artist based in France, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Leipzig and 3 more. Often billed alongside Cleo (AU), Cleo SNK and EROS IN FURS. Next up: elipamanoke, Leipzig on Fri 9 Oct.
+CLEO is a techno and house artist based in France, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leipzig and 3 more. Often billed alongside Cleo (AU), Cleo SNK and EROS IN FURS. Next up: elipamanoke, Leipzig on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ CLEO is a techno and house artist based in France, tracked on soundcheck, with 4
 
 ## Recently played
 
-- Fitzroy, Berlin — Fri, 11 Sept 2026
-- Wanderlust, Paris — Thu, 3 Sept 2026
-- Giri, Berlin — Fri, 7 Aug 2026
-- ÆDEN, Berlin — Fri, 31 Jul 2026
-- ÆDEN, Berlin — Thu, 23 Jul 2026
-- Tresor / Globus, Berlin — Wed, 22 Jul 2026
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
-- Yellow House, Amsterdam — Sun, 14 Jun 2026
+- Fitzroy, Berlin · Fri, 11 Sept 2026
+- Wanderlust, Paris · Thu, 3 Sept 2026
+- Giri, Berlin · Fri, 7 Aug 2026
+- ÆDEN, Berlin · Fri, 31 Jul 2026
+- ÆDEN, Berlin · Thu, 23 Jul 2026
+- Tresor / Globus, Berlin · Wed, 22 Jul 2026
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
+- Yellow House, Amsterdam · Sun, 14 Jun 2026
 
 ## Shares bills with
 

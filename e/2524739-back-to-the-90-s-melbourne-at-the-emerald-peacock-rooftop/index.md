@@ -1,6 +1,6 @@
 # Back to the 90's - Melbourne at The Emerald Peacock Rooftop
 
-Back to the 90's - Melbourne at The Emerald Peacock Rooftop on Sat 10 Oct, Melbourne. House. Preview the line-up and save it on soundcheck.
+Back to the 90's - Melbourne at The Emerald Peacock Rooftop on Sat 10 Oct, Melbourne. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Ely Oaks
 
-Ely Oaks is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Trix, Antwerp on Thu, 1 Oct 2026.
+Ely Oaks is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Trix, Antwerp on Thu, 1 Oct 2026.
 
-Ely Oaks is a techno and house artist based in Austria, tracked on soundcheck, with 46 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 27 more. Often billed alongside Space 92, DAX J and HNTR. Next up: Trix, Antwerp on Thu 1 Oct.
+Ely Oaks is a techno and house artist based in Austria, with 46 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 27 more. Often billed alongside Space 92, DAX J and HNTR. Next up: Trix, Antwerp on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Ely Oaks is a techno and house artist based in Austria, tracked on soundcheck, w
 
 ## Recently played
 
-- Glen Helen Regional Park, Los Angeles — Sat, 19 Sept 2026
-- Circolo Magnolia, Milan — Fri, 4 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona — Fri, 28 Aug 2026
-- CÉ LA VI Tokyo, Tokyo — Sat, 22 Aug 2026
-- Ritter Butzke, Berlin — Sat, 11 Jul 2026
-- TBA - Mercedes Benz Museum , Stuttgart — Fri, 10 Jul 2026
-- Donauinsel, Vienna — Fri, 3 Jul 2026
+- Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
+- Circolo Magnolia, Milan · Fri, 4 Sept 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- INPUT High Fidelity Dance Club, Barcelona · Fri, 28 Aug 2026
+- CÉ LA VI Tokyo, Tokyo · Sat, 22 Aug 2026
+- Ritter Butzke, Berlin · Sat, 11 Jul 2026
+- TBA - Mercedes Benz Museum , Stuttgart · Fri, 10 Jul 2026
+- Donauinsel, Vienna · Fri, 3 Jul 2026
 
 ## Shares bills with
 

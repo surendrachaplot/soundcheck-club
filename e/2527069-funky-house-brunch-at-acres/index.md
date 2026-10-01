@@ -1,6 +1,6 @@
 # Funky House Brunch at Acres
 
-Funky House Brunch at Acres on Sat 24 Oct, London. House and R&B. Preview the line-up and save it on soundcheck.
+Funky House Brunch at Acres on Sat 24 Oct, London. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

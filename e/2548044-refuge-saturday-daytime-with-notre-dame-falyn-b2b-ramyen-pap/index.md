@@ -1,6 +1,6 @@
 # Refuge Saturday Daytime with Notre Dame, FALYN B2B Ramyen, Papyon at Refuge
 
-Refuge Saturday Daytime with Notre Dame, FALYN B2B Ramyen, Papyon on Sat 17 Oct, New York City. 4 artists on the bill: FALYN, Notre Dame, Papyon and Ramyen. Preview the line-up and save it on soundcheck.
+Refuge Saturday Daytime with Notre Dame, FALYN B2B Ramyen, Papyon on Sat 17 Oct, New York City. 4 artists: FALYN, Notre Dame, Papyon and Ramyen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

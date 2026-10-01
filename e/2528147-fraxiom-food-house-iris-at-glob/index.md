@@ -1,6 +1,6 @@
 # Fraxiom (Food House) / Iris at Glob
 
-Fraxiom (Food House) / Iris at Glob on Tue 1 Dec, Denver. Hardcore and Breakcore. Preview the line-up and save it on soundcheck.
+Fraxiom (Food House) / Iris at Glob on Tue 1 Dec, Denver. Hardcore and Breakcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

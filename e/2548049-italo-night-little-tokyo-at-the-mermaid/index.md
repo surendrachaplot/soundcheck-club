@@ -1,6 +1,6 @@
 # Italo-Night Little Tokyo at The Mermaid
 
-Italo-Night Little Tokyo at The Mermaid on Sat 3 Oct, Los Angeles. Italo Disco and Electronica. Preview the line-up and save it on soundcheck.
+Italo-Night Little Tokyo at The Mermaid on Sat 3 Oct, Los Angeles. Italo Disco and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

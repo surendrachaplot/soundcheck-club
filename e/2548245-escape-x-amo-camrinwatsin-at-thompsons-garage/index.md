@@ -1,6 +1,6 @@
 # ESCAPE X AMO CAMRINWATSIN at Thompsons Garage
 
-ESCAPE X AMO CAMRINWATSIN at Thompsons Garage on Fri 30 Oct, Belfast. Progressive House and House. Preview the line-up and save it on soundcheck.
+ESCAPE X AMO CAMRINWATSIN at Thompsons Garage on Fri 30 Oct, Belfast. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

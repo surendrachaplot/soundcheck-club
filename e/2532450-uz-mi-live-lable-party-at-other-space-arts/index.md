@@ -1,6 +1,6 @@
 # UZ MI LIVE / LABLE PARTY at Other Space Arts
 
-UZ MI LIVE / LABLE PARTY at Other Space Arts on Sat 17 Oct, South East. 4 artists on the bill: James Vernon, Juliana Branco, Leonardo Cruz DJ and Rick Silver. Preview the line-up and save it on soundcheck.
+UZ MI LIVE / LABLE PARTY at Other Space Arts on Sat 17 Oct, South East. 4 artists: James Vernon, Juliana Branco, Leonardo Cruz DJ and Rick Silver. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

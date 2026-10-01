@@ -1,6 +1,6 @@
 # Current State at The High Dive
 
-Current State at The High Dive on Fri 2 Oct, Detroit. 2 artists on the bill: caitlin c. harvey and Colliding Pins. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Current State at The High Dive on Fri 2 Oct, Detroit. 2 artists: caitlin c. harvey and Colliding Pins. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

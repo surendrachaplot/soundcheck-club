@@ -1,6 +1,6 @@
 # THURSDAY - SINGLES LOVE TECHNO at Pracht with DJ LUNIS at Pracht
 
-THURSDAY - SINGLES LOVE TECHNO at Pracht with DJ LUNIS on Thu 8 Oct, Frankfurt. Techno. Preview the line-up and save it on soundcheck.
+THURSDAY - SINGLES LOVE TECHNO at Pracht with DJ LUNIS on Thu 8 Oct, Frankfurt. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

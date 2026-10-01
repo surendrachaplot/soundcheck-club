@@ -1,6 +1,6 @@
 # FRO PLUS at Club Metro
 
-FRO PLUS at Club Metro on Sat 10 Oct, Kyoto. Hip-Hop and Reggaeton. Preview the line-up and save it on soundcheck.
+FRO PLUS at Club Metro on Sat 10 Oct, Kyoto. Hip-Hop and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

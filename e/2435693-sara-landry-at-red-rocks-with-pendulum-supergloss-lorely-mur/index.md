@@ -1,6 +1,6 @@
 # Sara Landry at Red Rocks with Pendulum, Supergloss, & Lorely Mur at Red Rocks Amphitheatre
 
-Sara Landry at Red Rocks with Pendulum, Supergloss, & Lorely Mur at Red Rocks Amphitheatre on Sat 10 Oct, Colorado. 4 artists on the bill: Lorely Mur, Pendulum, Sara Landry and Supergloss. Preview the line-up and save it on soundcheck.
+Sara Landry at Red Rocks with Pendulum, Supergloss, & Lorely Mur at Red Rocks Amphitheatre on Sat 10 Oct, Colorado. 4 artists: Lorely Mur, Pendulum, Sara Landry and Supergloss. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

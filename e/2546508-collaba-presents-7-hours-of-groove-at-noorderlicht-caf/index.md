@@ -1,6 +1,6 @@
 # collaba presents: 7 HOURS OF GROOVE at Noorderlicht Café
 
-collaba presents: 7 HOURS OF GROOVE at Noorderlicht Café on Wed 21 Oct, Amsterdam. 4 artists on the bill: Khun, Magic Flowers, Mees Mattern and Vanille. Garage and Tech House. Preview the line-up and save it on soundcheck.
+collaba presents: 7 HOURS OF GROOVE at Noorderlicht Café on Wed 21 Oct, Amsterdam. 4 artists: Khun, Magic Flowers, Mees Mattern and Vanille. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

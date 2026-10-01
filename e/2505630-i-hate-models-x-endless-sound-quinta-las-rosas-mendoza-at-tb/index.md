@@ -1,6 +1,6 @@
 # I Hate Models x Endless Sound, Quinta Las Rosas Mendoza at TBA - Quinta Las Rosas, Mendoza
 
-I Hate Models x Endless Sound, Quinta Las Rosas Mendoza at TBA - Quinta Las Rosas, Mendoza on Sun 22 Nov, Argentina. 2 artists on the bill: Descoqueo and I Hate Models. Preview the line-up and save it on soundcheck.
+I Hate Models x Endless Sound, Quinta Las Rosas Mendoza at TBA - Quinta Las Rosas, Mendoza on Sun 22 Nov, Argentina. 2 artists: Descoqueo and I Hate Models. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

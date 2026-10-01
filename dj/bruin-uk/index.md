@@ -1,8 +1,8 @@
 # BRUIN (UK)
 
-BRUIN (UK) is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Two More Years, London on Sat, 10 Oct 2026.
+BRUIN (UK) is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Two More Years, London on Sat, 10 Oct 2026.
 
-BRUIN (UK) is a disco and house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Birmingham, Liverpool and London. Often billed alongside Haruka (UK), T!SCO and Another George. Next up: Two More Years, London on Sat 10 Oct.
+BRUIN (UK) is a disco and house artist based in United Kingdom, with 12 gigs on soundcheck across Birmingham, Liverpool and London. Often billed alongside Haruka (UK), T!SCO and Another George. Next up: Two More Years, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ BRUIN (UK) is a disco and house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Two More Years, London — Sat, 25 Jul 2026
-- Mama Roux, Birmingham — Sat, 6 Jun 2026
-- The BBE Store, London — Fri, 17 Apr 2026
-- The Experience Cocktail Bar Liverpool, Liverpool — Sat, 28 Mar 2026
-- Mama Roux, Birmingham — Sat, 20 Dec 2025
-- Two More Years, London — Sat, 4 Oct 2025
-- Two Tribes CAMPFIRE, London — Sat, 20 Sept 2025
-- Basing House, London — Sat, 16 Aug 2025
+- Two More Years, London · Sat, 25 Jul 2026
+- Mama Roux, Birmingham · Sat, 6 Jun 2026
+- The BBE Store, London · Fri, 17 Apr 2026
+- The Experience Cocktail Bar Liverpool, Liverpool · Sat, 28 Mar 2026
+- Mama Roux, Birmingham · Sat, 20 Dec 2025
+- Two More Years, London · Sat, 4 Oct 2025
+- Two Tribes CAMPFIRE, London · Sat, 20 Sept 2025
+- Basing House, London · Sat, 16 Aug 2025
 
 ## Shares bills with
 

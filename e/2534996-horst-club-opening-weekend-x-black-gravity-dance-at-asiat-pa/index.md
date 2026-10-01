@@ -1,6 +1,6 @@
 # Horst Club Opening weekend x Black Gravity Dance at ASIAT Park
 
-Horst Club Opening weekend x Black Gravity Dance at ASIAT Park on Sat 17 Oct, Brussels. 14 artists on the bill: Akua, Chris Ferreira, DTM Funk and Egna and 10 more. Preview the line-up and save it on soundcheck.
+Horst Club Opening weekend x Black Gravity Dance at ASIAT Park on Sat 17 Oct, Brussels. 14 artists: Akua, Chris Ferreira, DTM Funk and Egna and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

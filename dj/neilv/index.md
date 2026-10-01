@@ -1,8 +1,8 @@
 # Neil V
 
-Neil V is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+Neil V is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
-Neil V is a techno and house artist based in United States of America, tracked on soundcheck, with 13 sets logged across Amsterdam and Detroit. Often billed alongside T.Linder, DJ Roach and DJ Seoul. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
+Neil V is a techno and house artist based in United States of America, with 13 gigs on soundcheck across Amsterdam and Detroit. Often billed alongside T.Linder, DJ Roach and DJ Seoul. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Neil V is a techno and house artist based in United States of America, tracked o
 
 ## Recently played
 
-- HALO DETROIT, Detroit — Sat, 23 May 2026
-- Bookies, Detroit — Fri, 22 May 2026
-- HALO DETROIT, Detroit — Wed, 31 Dec 2025
-- HALO DETROIT, Detroit — Fri, 14 Nov 2025
-- Bookies, Detroit — Fri, 23 May 2025
-- Spkrbox, Detroit — Sat, 29 Mar 2025
-- Marble Bar, Detroit — Fri, 29 Nov 2024
-- Marble Bar, Detroit — Fri, 15 Nov 2024
+- HALO DETROIT, Detroit · Sat, 23 May 2026
+- Bookies, Detroit · Fri, 22 May 2026
+- HALO DETROIT, Detroit · Wed, 31 Dec 2025
+- HALO DETROIT, Detroit · Fri, 14 Nov 2025
+- Bookies, Detroit · Fri, 23 May 2025
+- Spkrbox, Detroit · Sat, 29 Mar 2025
+- Marble Bar, Detroit · Fri, 29 Nov 2024
+- Marble Bar, Detroit · Fri, 15 Nov 2024
 
 ## Shares bills with
 

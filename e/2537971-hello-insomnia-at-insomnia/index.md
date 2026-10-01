@@ -1,6 +1,6 @@
 # Hello Insomnia at Insomnia
 
-Hello Insomnia on Wed 14 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Hello Insomnia on Wed 14 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

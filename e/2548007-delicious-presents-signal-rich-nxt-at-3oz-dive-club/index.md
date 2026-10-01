@@ -1,6 +1,6 @@
 # DELICIOUS PRESENTS: SIGNAL- Rich NXT at 3oz Dive Club
 
-DELICIOUS PRESENTS: SIGNAL- Rich NXT at 3oz Dive Club on Thu 1 Oct, San Diego. 1 artist on the bill: Rich NXT. Preview the line-up and save it on soundcheck.
+DELICIOUS PRESENTS: SIGNAL- Rich NXT at 3oz Dive Club on Thu 1 Oct, San Diego. 1 artist: Rich NXT. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

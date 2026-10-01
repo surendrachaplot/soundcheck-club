@@ -1,6 +1,6 @@
 # ARTERIA CLUB at Ya'sta Club
 
-ARTERIA CLUB at Ya'sta Club on Fri 16 Oct, Madrid. Techno and Electronica. Preview the line-up and save it on soundcheck.
+ARTERIA CLUB at Ya'sta Club on Fri 16 Oct, Madrid. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

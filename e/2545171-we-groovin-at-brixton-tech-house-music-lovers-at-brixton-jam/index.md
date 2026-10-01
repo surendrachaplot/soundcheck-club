@@ -1,6 +1,6 @@
 # WE GROOVIN at BRIXTON • TECH HOUSE MUSIC LOVERS at Brixton Jamm
 
-WE GROOVIN at BRIXTON • TECH HOUSE MUSIC LOVERS at Brixton Jamm on Fri 2 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+WE GROOVIN at BRIXTON • TECH HOUSE MUSIC LOVERS at Brixton Jamm on Fri 2 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

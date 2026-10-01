@@ -1,6 +1,6 @@
 # Nuno Lopes at Plano B
 
-Nuno Lopes at Plano B on Sat 24 Oct, Porto. 1 artist on the bill: Dupplo. Club and Electronica. Preview the line-up and save it on soundcheck.
+Nuno Lopes at Plano B on Sat 24 Oct, Porto. 1 artist: Dupplo. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

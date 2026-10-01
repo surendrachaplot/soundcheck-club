@@ -1,6 +1,6 @@
 # Turkish Pop Night at Yan Gastro
 
-Turkish Pop Night at Yan Gastro on Thu 1 Oct, Istanbul. Pop. Preview the line-up and save it on soundcheck.
+Turkish Pop Night at Yan Gastro on Thu 1 Oct, Istanbul. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [selected] with Cleopard2000, Cali Caracho, FLACCO at Amp
 
-[selected] with Cleopard2000, Cali Caracho, FLACCO at Amp on Sat 17 Oct, Munster. 3 artists on the bill: Cali Caracho, Cleopard2000 and FLACCO. Trance and Techno. Preview the line-up and save it on soundcheck.
+[selected] with Cleopard2000, Cali Caracho, FLACCO at Amp on Sat 17 Oct, Munster. 3 artists: Cali Caracho, Cleopard2000 and FLACCO. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

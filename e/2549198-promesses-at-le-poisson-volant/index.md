@@ -1,6 +1,6 @@
 # Promesses at Le Poisson Volant
 
-Promesses at Le Poisson Volant on Sat 31 Oct, Paris. 1 artist on the bill: Promesses. Preview the line-up and save it on soundcheck.
+Promesses at Le Poisson Volant on Sat 31 Oct, Paris. 1 artist: Promesses. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Azul Drama presents: Vésper Drama at Lote
 
-Azul Drama presents: Vésper Drama at Lote on Sun 4 Oct, Sao Paulo. 2 artists on the bill: Encanto and Transvegana. House and Dub. Preview the line-up and save it on soundcheck.
+Azul Drama presents: Vésper Drama at Lote on Sun 4 Oct, Sao Paulo. 2 artists: Encanto and Transvegana. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

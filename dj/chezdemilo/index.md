@@ -1,26 +1,27 @@
 # Chez de Milo
 
-Chez de Milo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gaffe, London on Fri, 9 Oct 2026.
+Chez de Milo is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gaffe, London on Fri, 9 Oct 2026.
 
-Chez de Milo is a house and techno artist based in United Kingdom, tracked on soundcheck, with 128 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 20 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: Gaffe, London on Fri 9 Oct.
+Chez de Milo is a house and techno artist based in United Kingdom, with 129 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 21 more. Often billed alongside Ellie Stokes, Dave Harvey and Ivan Smagghe. Next up: Gaffe, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Gaffe | London |
+| Sat, 10 Oct 2026 | Brewing Brothers Courtyard | South-east |
 | Sat, 31 Oct 2026 | TBA | West-wales |
 
 ## Recently played
 
-- The Cause, London — Sat, 12 Sept 2026
-- Strange Brew, Bristol — Fri, 11 Sept 2026
-- Hoppetosse, Berlin — Fri, 4 Sept 2026
-- Gaffe, London — Sun, 30 Aug 2026
-- Strange Brew, Bristol — Sat, 1 Aug 2026
-- The Carpet Shop, London — Fri, 31 Jul 2026
-- The Love Inn, Bristol — Fri, 3 Jul 2026
-- FOLD, London — Fri, 26 Jun 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Strange Brew, Bristol · Fri, 11 Sept 2026
+- Hoppetosse, Berlin · Fri, 4 Sept 2026
+- Gaffe, London · Sun, 30 Aug 2026
+- Strange Brew, Bristol · Sat, 1 Aug 2026
+- The Carpet Shop, London · Fri, 31 Jul 2026
+- The Love Inn, Bristol · Fri, 3 Jul 2026
+- FOLD, London · Fri, 26 Jun 2026
 
 ## Shares bills with
 

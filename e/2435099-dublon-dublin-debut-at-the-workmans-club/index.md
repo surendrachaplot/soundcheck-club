@@ -1,6 +1,6 @@
 # dublon - Dublin Debut at The Workmans Club
 
-dublon - Dublin Debut at The Workmans Club on Fri 6 Nov, Dublin. Electro and Jazz. Preview the line-up and save it on soundcheck.
+dublon - Dublin Debut at The Workmans Club on Fri 6 Nov, Dublin. Electro and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

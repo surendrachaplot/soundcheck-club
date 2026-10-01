@@ -1,6 +1,6 @@
 # DANTZ Point Hipódromo at Hipódromo de San Sebastián
 
-DANTZ Point Hipódromo at Hipódromo de San Sebastián on Sat 3 Oct, North. 3 artists on the bill: JOAQUIN LLEDO, Magda and Piek. Preview the line-up and save it on soundcheck.
+DANTZ Point Hipódromo at Hipódromo de San Sebastián on Sat 3 Oct, North. 3 artists: JOAQUIN LLEDO, Magda and Piek. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

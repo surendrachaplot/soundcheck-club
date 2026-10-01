@@ -1,6 +1,6 @@
 # The Mirror Dance 9th Birthday: Make A Dance at Sneaky Pete's
 
-The Mirror Dance 9th Birthday: Make A Dance at Sneaky Pete's on Sat 10 Oct, Edinburgh. 1 artist on the bill: Make A Dance. Preview the line-up and save it on soundcheck.
+The Mirror Dance 9th Birthday: Make A Dance at Sneaky Pete's on Sat 10 Oct, Edinburgh. 1 artist: Make A Dance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Menendez Brothers & Friends (04th Dec) at E1
 
-The Menendez Brothers & Friends (04th Dec) at E1 on Fri 4 Dec, London. 1 artist on the bill: The Menendez Brothers. House and Tech House. Preview the line-up and save it on soundcheck.
+The Menendez Brothers & Friends (04th Dec) at E1 on Fri 4 Dec, London. 1 artist: The Menendez Brothers. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

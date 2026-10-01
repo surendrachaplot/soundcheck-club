@@ -1,6 +1,6 @@
 # Tengu presents: Haseeb Iqbal, T-Woc & Hewan at Yamamori Tengu
 
-Tengu presents: Haseeb Iqbal, T-Woc & Hewan at Yamamori Tengu on Sat 17 Oct, Dublin. 1 artist on the bill: Haseeb Iqbal. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Tengu presents: Haseeb Iqbal, T-Woc & Hewan at Yamamori Tengu on Sat 17 Oct, Dublin. 1 artist: Haseeb Iqbal. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

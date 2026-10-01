@@ -1,8 +1,8 @@
 # Marc.
 
-Marc. is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Marc. is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Marc. is an electronic artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Greece, Munich and Rome. Often billed alongside Elia Nafzger, Jules (DE) and Alexia. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Marc. is an electronic artist based in Germany, with 8 gigs on soundcheck across Berlin, Greece, Munich and Rome. Often billed alongside Elia Nafzger, Jules (DE) and Alexia. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Marc. is an electronic artist based in Germany, tracked on soundcheck, with 8 se
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Club der Visionaere, Berlin — Sun, 5 Jul 2026
-- Circolo dei Cerchi, Rome — Sat, 4 Oct 2025
-- DSTRKT Club Berlin, Berlin — Fri, 22 Aug 2025
-- Club der Visionaere, Berlin — Mon, 30 Jun 2025
-- Legal, Munich — Sat, 10 May 2025
-- DSTRKT Club Berlin, Berlin — Fri, 5 Jul 2024
-- Kiekebusch Open Air, Berlin — Fri, 14 Jul 2023
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Club der Visionaere, Berlin · Sun, 5 Jul 2026
+- Circolo dei Cerchi, Rome · Sat, 4 Oct 2025
+- DSTRKT Club Berlin, Berlin · Fri, 22 Aug 2025
+- Club der Visionaere, Berlin · Mon, 30 Jun 2025
+- Legal, Munich · Sat, 10 May 2025
+- DSTRKT Club Berlin, Berlin · Fri, 5 Jul 2024
+- Kiekebusch Open Air, Berlin · Fri, 14 Jul 2023
 
 ## Shares bills with
 

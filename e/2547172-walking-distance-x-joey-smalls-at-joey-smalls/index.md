@@ -1,6 +1,6 @@
 # Walking Distance x Joey Smalls at Joey Smalls
 
-Walking Distance x Joey Smalls on Sat 3 Oct, Melbourne. House and Electronica. Preview the line-up and save it on soundcheck.
+Walking Distance x Joey Smalls on Sat 3 Oct, Melbourne. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

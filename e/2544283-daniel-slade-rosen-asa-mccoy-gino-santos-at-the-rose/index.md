@@ -1,6 +1,6 @@
 # Daniel Slade Rosen , Asa McCoy , Gino Santos at The Rose
 
-Daniel Slade Rosen , Asa McCoy , Gino Santos at The Rose on Tue 3 Nov, New York City. 1 artist on the bill: Gino Santos. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Daniel Slade Rosen , Asa McCoy , Gino Santos at The Rose on Tue 3 Nov, New York City. 1 artist: Gino Santos. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

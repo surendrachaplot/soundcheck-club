@@ -1,6 +1,6 @@
 # Gay Christmas: A Queer FLINTA* Halloween Party at Crack Bellmer
 
-Gay Christmas: A Queer FLINTA* Halloween Party at Crack Bellmer on Sun 1 Nov, Berlin. Techno and Pop. Preview the line-up and save it on soundcheck.
+Gay Christmas: A Queer FLINTA* Halloween Party at Crack Bellmer on Sun 1 Nov, Berlin. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

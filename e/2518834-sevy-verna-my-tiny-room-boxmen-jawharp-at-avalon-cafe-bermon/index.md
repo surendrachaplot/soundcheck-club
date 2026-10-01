@@ -1,6 +1,6 @@
 # Sevy Verna, My Tiny Room, Boxmen, Jawharp at Avalon Cafe Bermondsey
 
-Sevy Verna, My Tiny Room, Boxmen, Jawharp at Avalon Cafe Bermondsey on Thu 8 Oct, London. Post-Punk. Preview the line-up and save it on soundcheck.
+Sevy Verna, My Tiny Room, Boxmen, Jawharp at Avalon Cafe Bermondsey on Thu 8 Oct, London. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Heavenphetamine + Accident Machine - McChuills Glasgow at McChuills Music Bar
 
-Heavenphetamine + Accident Machine - McChuills Glasgow at McChuills Music Bar on Sun 1 Nov, Glasgow. 1 artist on the bill: Accident Machine. Acid and Post-Punk. Preview the line-up and save it on soundcheck.
+Heavenphetamine + Accident Machine - McChuills Glasgow at McChuills Music Bar on Sun 1 Nov, Glasgow. 1 artist: Accident Machine. Acid and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

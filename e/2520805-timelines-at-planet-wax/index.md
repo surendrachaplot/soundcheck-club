@@ -1,6 +1,6 @@
 # TIMELINES at Planet Wax
 
-TIMELINES at Planet Wax on Sat 3 Oct, London. 2 artists on the bill: Ben Repertoire and LMajor. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+TIMELINES at Planet Wax on Sat 3 Oct, London. 2 artists: Ben Repertoire and LMajor. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

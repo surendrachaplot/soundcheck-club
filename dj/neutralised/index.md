@@ -1,8 +1,8 @@
 # Neutralised
 
-Neutralised is a Bass and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Blue Velvet, Berlin on Fri, 2 Oct 2026.
+Neutralised is a Bass and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Blue Velvet, Berlin on Fri, 2 Oct 2026.
 
-Neutralised is a bass and hardcore artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin and Bristol. Often billed alongside Baxua, Dr. Dickey and FoxMind. Next up: Blue Velvet, Berlin on Fri 2 Oct.
+Neutralised is a bass and hardcore artist based in Germany, with 10 gigs on soundcheck across Berlin and Bristol. Often billed alongside Baxua, Dr. Dickey and FoxMind. Next up: Blue Velvet, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Neutralised is a bass and hardcore artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Blue Velvet, Berlin — Sun, 2 Aug 2026
-- Drugstore im Rockhaus, Berlin — Fri, 5 Dec 2025
-- TBA - Dean Lane, Bedminster, Bristol — Thu, 13 Nov 2025
-- Blue Velvet, Berlin — Sat, 1 Jun 2024
-- Sameheads, Berlin — Thu, 18 Jan 2024
-- Storkower Straße 121, Berlin — Sun, 31 Dec 2023
-- Renate, Berlin — Fri, 24 Mar 2023
-- Sameheads, Berlin — Thu, 23 Feb 2023
+- Blue Velvet, Berlin · Sun, 2 Aug 2026
+- Drugstore im Rockhaus, Berlin · Fri, 5 Dec 2025
+- TBA - Dean Lane, Bedminster, Bristol · Thu, 13 Nov 2025
+- Blue Velvet, Berlin · Sat, 1 Jun 2024
+- Sameheads, Berlin · Thu, 18 Jan 2024
+- Storkower Straße 121, Berlin · Sun, 31 Dec 2023
+- Renate, Berlin · Fri, 24 Mar 2023
+- Sameheads, Berlin · Thu, 23 Feb 2023
 
 ## Shares bills with
 

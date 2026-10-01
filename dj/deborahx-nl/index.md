@@ -1,8 +1,8 @@
 # Deborah X
 
-Deborah X is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at EKKO, Utrecht on Sat, 17 Oct 2026.
+Deborah X is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at EKKO, Utrecht on Sat, 17 Oct 2026.
 
-Deborah X is a techno and house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Copenhagen, Rotterdam and The Hague and 1 more. Often billed alongside Bella Hall, Soft Break and Afra. Next up: EKKO, Utrecht on Sat 17 Oct.
+Deborah X is a techno and house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Copenhagen, Rotterdam and The Hague and 1 more. Often billed alongside Bella Hall, Soft Break and Afra. Next up: EKKO, Utrecht on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Deborah X is a techno and house artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- Time is the new space, Rotterdam — Fri, 28 Nov 2025
-- Koda, Rotterdam — Sun, 1 Jun 2025
-- Worm, Rotterdam — Fri, 23 May 2025
-- PIP Den Haag, The Hague — Sat, 1 Mar 2025
-- MODULE, Copenhagen — Sat, 20 Jul 2024
-- De School, Amsterdam — Sat, 30 Sept 2023
-- Ruigenhoek, Utrecht — Sat, 20 May 2023
-- Thuishaven, Amsterdam — Sat, 8 Apr 2023
+- Time is the new space, Rotterdam · Fri, 28 Nov 2025
+- Koda, Rotterdam · Sun, 1 Jun 2025
+- Worm, Rotterdam · Fri, 23 May 2025
+- PIP Den Haag, The Hague · Sat, 1 Mar 2025
+- MODULE, Copenhagen · Sat, 20 Jul 2024
+- De School, Amsterdam · Sat, 30 Sept 2023
+- Ruigenhoek, Utrecht · Sat, 20 May 2023
+- Thuishaven, Amsterdam · Sat, 8 Apr 2023
 
 ## Shares bills with
 

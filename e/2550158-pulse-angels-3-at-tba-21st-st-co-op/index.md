@@ -1,6 +1,6 @@
 # PULSE ANGELS 3 at TBA - 21st St Co-Op
 
-PULSE ANGELS 3 at TBA - 21st St Co-Op on Sat 3 Oct, Austin. 2 artists on the bill: Feathervane and SIXFOOTFIVE. Techno and Industrial. Preview the line-up and save it on soundcheck.
+PULSE ANGELS 3 at TBA - 21st St Co-Op on Sat 3 Oct, Austin. 2 artists: Feathervane and SIXFOOTFIVE. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

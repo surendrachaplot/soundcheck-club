@@ -1,8 +1,8 @@
 # Cristian Marras
 
-Cristian Marras is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fuchs2, Prague on Sat, 3 Oct 2026.
+Cristian Marras is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuchs2, Prague on Sat, 3 Oct 2026.
 
-Cristian Marras is a techno and house artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Bangkok, Berlin and Brussels and 16 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: Fuchs2, Prague on Sat 3 Oct.
+Cristian Marras is a techno and house artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brussels and 16 more. Often billed alongside Mar/us, Metaraph and OCD. Next up: Fuchs2, Prague on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Cristian Marras is a techno and house artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Life Club Milano, Milan — Fri, 18 Sept 2026
-- ÆDEN, Berlin — Sat, 29 Aug 2026
-- KitKatClub, Berlin — Sun, 26 Jul 2026
-- Komplex Berlin, Berlin — Sat, 25 Jul 2026
-- TBA - Klingelhöferstr 3, 10785 Berlin, Berlin — Sat, 25 Jul 2026
-- Ääniwalli, Helsinki — Sun, 28 Jun 2026
-- TBA - 34, rue du Départ 75015 PARIS, Paris — Sat, 27 Jun 2026
-- KitKatClub, Berlin — Fri, 5 Jun 2026
+- Life Club Milano, Milan · Fri, 18 Sept 2026
+- ÆDEN, Berlin · Sat, 29 Aug 2026
+- KitKatClub, Berlin · Sun, 26 Jul 2026
+- Komplex Berlin, Berlin · Sat, 25 Jul 2026
+- TBA - Klingelhöferstr 3, 10785 Berlin, Berlin · Sat, 25 Jul 2026
+- Ääniwalli, Helsinki · Sun, 28 Jun 2026
+- TBA - 34, rue du Départ 75015 PARIS, Paris · Sat, 27 Jun 2026
+- KitKatClub, Berlin · Fri, 5 Jun 2026
 
 ## Shares bills with
 

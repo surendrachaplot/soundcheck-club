@@ -1,8 +1,8 @@
 # TBA - 4211 Todd Ln Suite A
 
-TBA - 4211 Todd Ln Suite A is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Nerve Damage x SERAPHIM" on Fri, 9 Oct 2026.
+TBA - 4211 Todd Ln Suite A is a music venue in Austin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Nerve Damage x SERAPHIM" on Fri, 9 Oct 2026.
 
-TBA - 4211 Todd Ln Suite A is a music venue in Austin listed on soundcheck. 1 upcoming gig, with line-ups including DJ TOOL, estro and Yazzus. Browse upcoming dates, start times and who's playing.
+TBA - 4211 Todd Ln Suite A is a music venue in Austin listed on soundcheck. 1 upcoming gig, with line-ups including DJ TOOL, estro and Yazzus. See dates, start times and who's playing.
 
 ## What's on
 

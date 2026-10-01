@@ -1,6 +1,6 @@
 # James Lavelle (Unkle / Mo'Wax) at Komedia Brighton
 
-James Lavelle (Unkle / Mo'Wax) at Komedia Brighton on Tue 29 Dec, Brighton. 1 artist on the bill: James Lavelle. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+James Lavelle (Unkle / Mo'Wax) at Komedia Brighton on Tue 29 Dec, Brighton. 1 artist: James Lavelle. Hip-Hop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

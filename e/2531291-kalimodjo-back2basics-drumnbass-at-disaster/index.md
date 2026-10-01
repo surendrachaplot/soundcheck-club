@@ -1,6 +1,6 @@
 # KALIMODJO BACK2BASICS DRUMNBASS at Disaster
 
-KALIMODJO BACK2BASICS DRUMNBASS at Disaster on Fri 20 Nov, Lisbon. 3 artists on the bill: 911 Request, DJ Hybrid and Ruim. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+KALIMODJO BACK2BASICS DRUMNBASS at Disaster on Fri 20 Nov, Lisbon. 3 artists: 911 Request, DJ Hybrid and Ruim. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

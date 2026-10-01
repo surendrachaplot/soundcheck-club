@@ -1,6 +1,6 @@
 # TURN OFF THE LIGHTS AND DANCE — IF YOU DARE - HALLOWEEN at Charlie
 
-TURN OFF THE LIGHTS AND DANCE — IF YOU DARE - HALLOWEEN at Charlie on Sat 31 Oct, Munich. House. Preview the line-up and save it on soundcheck.
+TURN OFF THE LIGHTS AND DANCE — IF YOU DARE - HALLOWEEN at Charlie on Sat 31 Oct, Munich. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

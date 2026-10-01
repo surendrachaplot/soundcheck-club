@@ -1,6 +1,6 @@
 # Sputnik Sound with Marsman (Pinkman) at 440
 
-Sputnik Sound with Marsman (Pinkman) at 440 on Sat 10 Oct, Midlands. 2 artists on the bill: Marsman and No Caller ID. Preview the line-up and save it on soundcheck.
+Sputnik Sound with Marsman (Pinkman) at 440 on Sat 10 Oct, Midlands. 2 artists: Marsman and No Caller ID. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

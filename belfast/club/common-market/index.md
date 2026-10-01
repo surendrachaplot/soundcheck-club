@@ -1,8 +1,8 @@
 # Common Market
 
-Common Market is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "RECKLESS RAVES: THE WARE-HOUSE XL [HALLOWEEN SPECIAL]" on Fri, 30 Oct 2026.
+Common Market is a music venue in Belfast with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "RECKLESS RAVES: THE WARE-HOUSE XL [HALLOWEEN SPECIAL]" on Fri, 30 Oct 2026.
 
-Common Market is a music venue in Belfast listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 16-20 Dunbar Street, Belfast. BT1 2HL.
+Common Market is a music venue in Belfast listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 16-20 Dunbar Street, Belfast. BT1 2HL.
 
 ## What's on
 

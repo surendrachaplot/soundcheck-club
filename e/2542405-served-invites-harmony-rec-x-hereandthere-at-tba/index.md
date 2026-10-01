@@ -1,6 +1,6 @@
 # served invites Harmony Rec. x hereandthere at TBA
 
-served invites Harmony Rec. x hereandthere at TBA on Sat 7 Nov, Vienna. Techno and House. Preview the line-up and save it on soundcheck.
+served invites Harmony Rec. x hereandthere at TBA on Sat 7 Nov, Vienna. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

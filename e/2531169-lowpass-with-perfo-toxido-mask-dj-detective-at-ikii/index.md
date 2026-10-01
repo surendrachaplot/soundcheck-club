@@ -1,6 +1,6 @@
 # lowpass with Perfo, Toxido Mask, DJ Detective at Ikii
 
-lowpass with Perfo, Toxido Mask, DJ Detective at Ikii on Tue 6 Oct, Berlin. 3 artists on the bill: DJ Detective, Perfo and Toxido Mask. Ambient. Preview the line-up and save it on soundcheck.
+lowpass with Perfo, Toxido Mask, DJ Detective at Ikii on Tue 6 Oct, Berlin. 3 artists: DJ Detective, Perfo and Toxido Mask. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

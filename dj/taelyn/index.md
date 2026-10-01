@@ -1,8 +1,8 @@
 # Taelyn
 
-Taelyn is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Edge Seoul, Seoul on Sat, 3 Oct 2026.
+Taelyn is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Edge Seoul, Seoul on Sat, 3 Oct 2026.
 
-Taelyn is a house and techno artist based in South Korea, tracked on soundcheck, with 75 sets logged across Seoul. Often billed alongside Juncheol, Sunday Lee and Chae. Next up: The Edge Seoul, Seoul on Sat 3 Oct.
+Taelyn is a house and techno artist based in South Korea, with 75 gigs on soundcheck across Seoul. Often billed alongside Juncheol, Sunday Lee and Chae. Next up: The Edge Seoul, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Taelyn is a house and techno artist based in South Korea, tracked on soundcheck,
 
 ## Recently played
 
-- Kockiri, Seoul — Wed, 19 Aug 2026
-- Bar Piment, Seoul — Sat, 8 Aug 2026
-- Evening, Seoul — Sat, 1 Aug 2026
-- Modeci, Seoul — Fri, 19 Jun 2026
-- Modeci, Seoul — Sat, 25 Apr 2026
-- Stoked&stoned, Seoul — Fri, 3 Apr 2026
-- Stoked&stoned, Seoul — Mon, 30 Mar 2026
-- Bar Piment, Seoul — Sat, 28 Mar 2026
+- Kockiri, Seoul · Wed, 19 Aug 2026
+- Bar Piment, Seoul · Sat, 8 Aug 2026
+- Evening, Seoul · Sat, 1 Aug 2026
+- Modeci, Seoul · Fri, 19 Jun 2026
+- Modeci, Seoul · Sat, 25 Apr 2026
+- Stoked&stoned, Seoul · Fri, 3 Apr 2026
+- Stoked&stoned, Seoul · Mon, 30 Mar 2026
+- Bar Piment, Seoul · Sat, 28 Mar 2026
 
 ## Shares bills with
 

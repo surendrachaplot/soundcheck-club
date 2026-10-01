@@ -1,6 +1,6 @@
 # Hertz 헤르츠 meets: Hertz Meets John Talabot (Hivern Discs, ES) at Hertz
 
-Hertz 헤르츠 meets: Hertz Meets John Talabot (Hivern Discs, ES) on Sun 4 Oct, Seoul. 3 artists on the bill: Acidwork, John Talabot and Soyo. Dub and Club. Preview the line-up and save it on soundcheck.
+Hertz 헤르츠 meets: Hertz Meets John Talabot (Hivern Discs, ES) on Sun 4 Oct, Seoul. 3 artists: Acidwork, John Talabot and Soyo. Dub and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shingo Nakamura day party - 620 Jones Terrace at 620 Jones
 
-Shingo Nakamura day party - 620 Jones Terrace on Sat 3 Oct, San Francisco/Oakland. 2 artists on the bill: MYRNE and Shingo Nakamura. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Shingo Nakamura day party - 620 Jones Terrace on Sat 3 Oct, San Francisco/Oakland. 2 artists: MYRNE and Shingo Nakamura. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

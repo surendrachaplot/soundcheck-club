@@ -1,6 +1,6 @@
 # Nü Androids presents: AEREA at Tigres de la Noche
 
-Nü Androids presents: AEREA at Tigres de la Noche on Thu 12 Nov, Washington DC. 1 artist on the bill: AEREA. Techno. Preview the line-up and save it on soundcheck.
+Nü Androids presents: AEREA at Tigres de la Noche on Thu 12 Nov, Washington DC. 1 artist: AEREA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

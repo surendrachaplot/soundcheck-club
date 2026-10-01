@@ -1,6 +1,6 @@
 # NOKTURNA: MERMAID · MAR K · GUBI · GLOCK at The Club (Málaga)
 
-NOKTURNA: MERMAID · MAR K · GUBI · GLOCK at The Club (Málaga) on Sat 3 Oct, Malaga. Techno and Electronica. Preview the line-up and save it on soundcheck.
+NOKTURNA: MERMAID · MAR K · GUBI · GLOCK at The Club (Málaga) on Sat 3 Oct, Malaga. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

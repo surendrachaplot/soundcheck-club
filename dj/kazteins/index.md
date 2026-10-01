@@ -1,8 +1,8 @@
 # Kazteins
 
-Kazteins is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Astron Club, Athens on Fri, 9 Oct 2026.
+Kazteins is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Astron Club, Athens on Fri, 9 Oct 2026.
 
-Kazteins is an electro and techno artist based in Germany, tracked on soundcheck, with 26 sets logged across Athens and Berlin. Often billed alongside Datalogs, IMPVLSIV and Maaantz. Next up: Astron Club, Athens on Fri 9 Oct.
+Kazteins is an electro and techno artist based in Germany, with 26 gigs on soundcheck across Athens and Berlin. Often billed alongside Datalogs, IMPVLSIV and Maaantz. Next up: Astron Club, Athens on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kazteins is an electro and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- B side Athens, Athens — Thu, 3 Sept 2026
-- Skull Bar, Athens — Sun, 19 Jul 2026
-- Astron Club, Athens — Sat, 20 Jun 2026
-- Astron Club, Athens — Fri, 12 Jun 2026
-- TBA - B side Athens & SkullBar, Athens — Sat, 6 Jun 2026
-- Patision65, Athens — Sat, 30 May 2026
-- B side Athens, Athens — Sun, 24 May 2026
-- Astron Club, Athens — Sat, 23 May 2026
+- B side Athens, Athens · Thu, 3 Sept 2026
+- Skull Bar, Athens · Sun, 19 Jul 2026
+- Astron Club, Athens · Sat, 20 Jun 2026
+- Astron Club, Athens · Fri, 12 Jun 2026
+- TBA - B side Athens & SkullBar, Athens · Sat, 6 Jun 2026
+- Patision65, Athens · Sat, 30 May 2026
+- B side Athens, Athens · Sun, 24 May 2026
+- Astron Club, Athens · Sat, 23 May 2026
 
 ## Shares bills with
 

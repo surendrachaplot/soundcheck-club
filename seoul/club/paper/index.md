@@ -1,8 +1,8 @@
 # Paper
 
-Paper is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Plastic People_Paper Seoul" on Fri, 2 Oct 2026.
+Paper is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Plastic People_Paper Seoul" on Fri, 2 Oct 2026.
 
-Paper is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including Daul, DJ Wow, givogi and Jesse You and 2 more. Browse upcoming dates, start times and who's playing. Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350.
+Paper is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including Daul, DJ Wow, givogi and Jesse You and 2 more. See dates, start times and who's playing. Seoul, Itaewon-dong 119-8, Rooftop, Post Code : 04350.
 
 ## What's on
 

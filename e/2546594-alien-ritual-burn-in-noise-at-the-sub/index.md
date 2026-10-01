@@ -1,6 +1,6 @@
 # Alien Ritual - Burn in Noise at The Sub
 
-Alien Ritual - Burn in Noise at The Sub on Sun 22 Nov, Buenos Aires. Psytrance. Preview the line-up and save it on soundcheck.
+Alien Ritual - Burn in Noise at The Sub on Sun 22 Nov, Buenos Aires. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Release Day Party Winter Edition at 12th Knot Rooftop Bar
 
-Release Day Party Winter Edition at 12th Knot Rooftop Bar on Sun 29 Nov, London. 1 artist on the bill: Teaser DJ. House and Afro House. Preview the line-up and save it on soundcheck.
+Release Day Party Winter Edition at 12th Knot Rooftop Bar on Sun 29 Nov, London. 1 artist: Teaser DJ. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

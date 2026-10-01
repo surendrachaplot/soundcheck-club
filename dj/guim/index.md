@@ -1,8 +1,8 @@
 # Guim
 
-Guim is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+Guim is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
 
-Guim is an electronica and house artist based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona and Madrid. Often billed alongside Nile Fee, J.P. Sunshine and John Heaven. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
+Guim is an electronica and house artist based in Spain, with 21 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Nile Fee, J.P. Sunshine and John Heaven. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Guim is an electronica and house artist based in Spain, tracked on soundcheck, w
 
 ## Recently played
 
-- Club Malasaña, Madrid — Thu, 21 May 2026
-- Nitsa Club, Barcelona — Fri, 8 May 2026
-- Club Malasaña, Madrid — Sat, 31 Jan 2026
-- Club Malasaña, Madrid — Fri, 5 Dec 2025
-- Club Malasaña, Madrid — Fri, 31 Oct 2025
-- Club Malasaña, Madrid — Fri, 12 Sept 2025
-- La Terrrazza, Barcelona — Wed, 10 Sept 2025
-- Club Malasaña, Madrid — Fri, 4 Apr 2025
+- Club Malasaña, Madrid · Thu, 21 May 2026
+- Nitsa Club, Barcelona · Fri, 8 May 2026
+- Club Malasaña, Madrid · Sat, 31 Jan 2026
+- Club Malasaña, Madrid · Fri, 5 Dec 2025
+- Club Malasaña, Madrid · Fri, 31 Oct 2025
+- Club Malasaña, Madrid · Fri, 12 Sept 2025
+- La Terrrazza, Barcelona · Wed, 10 Sept 2025
+- Club Malasaña, Madrid · Fri, 4 Apr 2025
 
 ## Shares bills with
 

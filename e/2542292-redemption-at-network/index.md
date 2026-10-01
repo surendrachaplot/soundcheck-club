@@ -1,6 +1,6 @@
 # Redemption at Network
 
-Redemption at Network on Sat 3 Oct, Sheffield. Preview the line-up and save it on soundcheck.
+Redemption at Network on Sat 3 Oct, Sheffield. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

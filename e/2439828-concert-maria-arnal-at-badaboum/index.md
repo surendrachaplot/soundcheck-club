@@ -1,6 +1,6 @@
 # Concert — Maria Arnal at Badaboum
 
-Concert — Maria Arnal at Badaboum on Thu 19 Nov, Paris. Electro and Pop. Preview the line-up and save it on soundcheck.
+Concert — Maria Arnal at Badaboum on Thu 19 Nov, Paris. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

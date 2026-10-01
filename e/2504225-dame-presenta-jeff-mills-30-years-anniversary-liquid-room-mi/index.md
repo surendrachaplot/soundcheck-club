@@ -1,6 +1,6 @@
 # DAME presenta Jeff Mills - 30 Years anniversary Liquid Room Mix at Basel Venue
 
-DAME presenta Jeff Mills - 30 Years anniversary Liquid Room Mix at Basel Venue on Fri 20 Nov, Santiago. 1 artist on the bill: Jeff Mills. Preview the line-up and save it on soundcheck.
+DAME presenta Jeff Mills - 30 Years anniversary Liquid Room Mix at Basel Venue on Fri 20 Nov, Santiago. 1 artist: Jeff Mills. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

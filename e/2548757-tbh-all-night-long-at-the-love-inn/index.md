@@ -1,6 +1,6 @@
 # TBH [all night long] at The Love Inn
 
-TBH [all night long] at The Love Inn on Wed 7 Oct, Bristol. 1 artist on the bill: Tully. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TBH [all night long] at The Love Inn on Wed 7 Oct, Bristol. 1 artist: Tully. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

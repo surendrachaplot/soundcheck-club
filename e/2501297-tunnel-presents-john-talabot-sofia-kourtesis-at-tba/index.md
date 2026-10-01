@@ -1,6 +1,6 @@
 # TUNNEL presents John Talabot & Sofia Kourtesis at TBA
 
-TUNNEL presents John Talabot & Sofia Kourtesis at TBA on Sat 10 Oct, Greece. 2 artists on the bill: John Talabot and Sofia Kourtesis. Preview the line-up and save it on soundcheck.
+TUNNEL presents John Talabot & Sofia Kourtesis at TBA on Sat 10 Oct, Greece. 2 artists: John Talabot and Sofia Kourtesis. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

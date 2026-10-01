@@ -1,8 +1,8 @@
 # Ben Kim
 
-Ben Kim is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Bulldog Palace, Amsterdam on Thu, 22 Oct 2026.
+Ben Kim is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bulldog Palace, Amsterdam on Thu, 22 Oct 2026.
 
-Ben Kim is a house and tech house artist based in Italy, tracked on soundcheck, with 8 sets logged across Amsterdam, London, Los Angeles and New York City and 2 more. Often billed alongside Addiy, Alex Von Martin and Benny Benassi. Next up: The Bulldog Palace, Amsterdam on Thu 22 Oct.
+Ben Kim is a house and tech house artist based in Italy, with 8 gigs on soundcheck across Amsterdam, London, Los Angeles and New York City and 2 more. Often billed alongside Addiy, Alex Von Martin and Benny Benassi. Next up: The Bulldog Palace, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Ben Kim is a house and tech house artist based in Italy, tracked on soundcheck, 
 
 ## Recently played
 
-- SILO, New York City — Thu, 19 Mar 2026
-- Halcyon, San Francisco/Oakland — Fri, 6 Mar 2026
-- TBA, Los Angeles — Fri, 3 Oct 2025
-- Jungla London, London — Fri, 11 Apr 2025
-- Basing House, London — Fri, 28 Feb 2025
-- Ministry Of Sound, London — Fri, 29 Nov 2024
-- Audiodrome, Turin — Sat, 23 Mar 2024
+- SILO, New York City · Thu, 19 Mar 2026
+- Halcyon, San Francisco/Oakland · Fri, 6 Mar 2026
+- TBA, Los Angeles · Fri, 3 Oct 2025
+- Jungla London, London · Fri, 11 Apr 2025
+- Basing House, London · Fri, 28 Feb 2025
+- Ministry Of Sound, London · Fri, 29 Nov 2024
+- Audiodrome, Turin · Sat, 23 Mar 2024
 
 ## Shares bills with
 

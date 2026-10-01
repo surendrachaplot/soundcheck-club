@@ -1,6 +1,6 @@
 # Sazón con CoCo, La Sazón et Grupo Los CoCos live au Toïtoï at Toï Toï, Le Zinc
 
-Sazón con CoCo, La Sazón et Grupo Los CoCos live au Toïtoï at Toï Toï, Le Zinc on Sat 10 Oct, Lyon. Preview the line-up and save it on soundcheck.
+Sazón con CoCo, La Sazón et Grupo Los CoCos live au Toïtoï at Toï Toï, Le Zinc on Sat 10 Oct, Lyon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SW ♡ IBIZA CLOSING OCTOBER 7 at Playa Soleil Ibiza
 
-SW ♡ IBIZA CLOSING OCTOBER 7 at Playa Soleil Ibiza on Wed 7 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+SW ♡ IBIZA CLOSING OCTOBER 7 at Playa Soleil Ibiza on Wed 7 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

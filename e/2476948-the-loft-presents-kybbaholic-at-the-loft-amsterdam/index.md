@@ -1,6 +1,6 @@
 # The Loft presents: Kybbaholic at The Loft Amsterdam
 
-The Loft presents: Kybbaholic at The Loft Amsterdam on Fri 27 Nov, Amsterdam. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
+The Loft presents: Kybbaholic at The Loft Amsterdam on Fri 27 Nov, Amsterdam. Afrobeat and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

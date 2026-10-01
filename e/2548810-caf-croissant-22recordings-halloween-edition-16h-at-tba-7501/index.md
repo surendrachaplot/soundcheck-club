@@ -1,6 +1,6 @@
 # Café Croissant & 22recordings - Halloween Edition (16h) at TBA - 75013
 
-Café Croissant & 22recordings - Halloween Edition (16h) at TBA - 75013 on Sat 31 Oct, Paris. 4 artists on the bill: Alyhas, C.ru.z, Dizzy and Taieb Chékir. House and Electro. Preview the line-up and save it on soundcheck.
+Café Croissant & 22recordings - Halloween Edition (16h) at TBA - 75013 on Sat 31 Oct, Paris. 4 artists: Alyhas, C.ru.z, Dizzy and Taieb Chékir. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

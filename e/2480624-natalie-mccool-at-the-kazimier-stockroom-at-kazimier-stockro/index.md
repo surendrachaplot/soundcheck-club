@@ -1,6 +1,6 @@
 # Natalie McCool at The Kazimier Stockroom at Kazimier Stockroom
 
-Natalie McCool at The Kazimier Stockroom on Fri 9 Oct, Liverpool. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Natalie McCool at The Kazimier Stockroom on Fri 9 Oct, Liverpool. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Sard
 
-Sard is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ferguson Station, Hamilton on Thu, 1 Oct 2026.
+Sard is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ferguson Station, Hamilton on Thu, 1 Oct 2026.
 
-Sard is a techno and acid artist tracked on soundcheck, with 45 sets logged across Chicago, Denver, Detroit and Hamilton and 6 more. Often billed alongside Amino, Dretraxx and Miguel Cisne. Next up: Ferguson Station, Hamilton on Thu 1 Oct.
+Sard is a techno and acid artist, with 45 gigs on soundcheck across Chicago, Denver, Detroit and Hamilton and 6 more. Often billed alongside Amino, Dretraxx and Miguel Cisne. Next up: Ferguson Station, Hamilton on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sard is a techno and acid artist tracked on soundcheck, with 45 sets logged acro
 
 ## Recently played
 
-- NWHR, Montreal — Sat, 29 Aug 2026
-- The Strays, Detroit — Wed, 12 Aug 2026
-- F8 1192 Folsom, San Francisco/Oakland — Sat, 1 Aug 2026
-- TRANSMISSION DC, Washington DC — Sat, 18 Jul 2026
-- smartbar, Chicago — Sat, 11 Jul 2026
-- Lincoln Factory, Detroit — Fri, 10 Jul 2026
-- Temple Bar, Detroit — Sat, 20 Jun 2026
-- Marble Bar, Detroit — Sat, 20 Jun 2026
+- NWHR, Montreal · Sat, 29 Aug 2026
+- The Strays, Detroit · Wed, 12 Aug 2026
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 1 Aug 2026
+- TRANSMISSION DC, Washington DC · Sat, 18 Jul 2026
+- smartbar, Chicago · Sat, 11 Jul 2026
+- Lincoln Factory, Detroit · Fri, 10 Jul 2026
+- Temple Bar, Detroit · Sat, 20 Jun 2026
+- Marble Bar, Detroit · Sat, 20 Jun 2026
 
 ## Shares bills with
 

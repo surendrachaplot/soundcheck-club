@@ -1,6 +1,6 @@
 # Culture Box NEW YEAR'S EVE at Culture Box
 
-Culture Box NEW YEAR'S EVE on Thu 31 Dec, Copenhagen. 10 artists on the bill: Aja Gulris, Ana Karla, Arto and GÆO and 6 more. Preview the line-up and save it on soundcheck.
+Culture Box NEW YEAR'S EVE on Thu 31 Dec, Copenhagen. 10 artists: Aja Gulris, Ana Karla, Arto and GÆO and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

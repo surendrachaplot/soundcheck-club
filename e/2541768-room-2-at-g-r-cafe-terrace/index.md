@@ -1,6 +1,6 @@
 # Room 2 at G.R Cafe Terrace
 
-Room 2 at G.R Cafe Terrace on Thu 15 Oct, Osaka. Drum & Bass. Preview the line-up and save it on soundcheck.
+Room 2 at G.R Cafe Terrace on Thu 15 Oct, Osaka. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

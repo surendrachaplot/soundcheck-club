@@ -1,6 +1,6 @@
 # Kungs at It'll Do
 
-Kungs at It'll Do on Fri 30 Oct, Dallas Fort Worth. 1 artist on the bill: Kungs. Preview the line-up and save it on soundcheck.
+Kungs at It'll Do on Fri 30 Oct, Dallas Fort Worth. 1 artist: Kungs. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

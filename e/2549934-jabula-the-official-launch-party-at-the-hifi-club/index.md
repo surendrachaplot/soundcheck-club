@@ -1,6 +1,6 @@
 # Jabula: The Official Launch Party at The Hifi Club
 
-Jabula: The Official Launch Party at The Hifi Club on Sat 3 Oct, Leeds. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
+Jabula: The Official Launch Party at The Hifi Club on Sat 3 Oct, Leeds. Afrobeat and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

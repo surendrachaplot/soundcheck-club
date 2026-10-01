@@ -1,8 +1,8 @@
 # Studio dB
 
-Studio dB is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "HOUSE OF PLAMORË - SALON SERIES 2" on Tue, 6 Oct 2026.
+Studio dB is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "HOUSE OF PLAMORË - SALON SERIES 2" on Tue, 6 Oct 2026.
 
-Studio dB is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including EROS IN FURS and Justin Shaffer. Browse upcoming dates, start times and who's playing. Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin.
+Studio dB is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including EROS IN FURS and Justin Shaffer. See dates, start times and who's playing. Studio dB - Uferstrasse 8-11, Studio A14 - 13357 Berlin.
 
 ## What's on
 

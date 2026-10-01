@@ -1,6 +1,6 @@
 # O'Flynn at Fidelity Studio
 
-O'Flynn at Fidelity Studio on Sat 3 Oct, Dublin. 1 artist on the bill: O'Flynn. Preview the line-up and save it on soundcheck.
+O'Flynn at Fidelity Studio on Sat 3 Oct, Dublin. 1 artist: O'Flynn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

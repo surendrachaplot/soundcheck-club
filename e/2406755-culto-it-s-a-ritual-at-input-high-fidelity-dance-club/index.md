@@ -1,6 +1,6 @@
 # CULTO. It´s A Ritual at INPUT High Fidelity Dance Club
 
-CULTO. It´s A Ritual at INPUT High Fidelity Dance Club on Sat 24 Oct, Barcelona. Techno and Tech House. Preview the line-up and save it on soundcheck.
+CULTO. It´s A Ritual at INPUT High Fidelity Dance Club on Sat 24 Oct, Barcelona. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

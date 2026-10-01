@@ -1,6 +1,6 @@
 # Uni Do! vol.5 at Club Metro
 
-Uni Do! vol.5 at Club Metro on Sat 3 Oct, Kyoto. 2 artists on the bill: IYO and TENTENKO. House and Experimental. Preview the line-up and save it on soundcheck.
+Uni Do! vol.5 at Club Metro on Sat 3 Oct, Kyoto. 2 artists: IYO and TENTENKO. House and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

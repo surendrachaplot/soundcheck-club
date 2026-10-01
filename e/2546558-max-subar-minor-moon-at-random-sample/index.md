@@ -1,6 +1,6 @@
 # Max Subar / Minor moon at Random Sample
 
-Max Subar / Minor moon at Random Sample on Wed 21 Oct, Nashville. Preview the line-up and save it on soundcheck.
+Max Subar / Minor moon at Random Sample on Wed 21 Oct, Nashville. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

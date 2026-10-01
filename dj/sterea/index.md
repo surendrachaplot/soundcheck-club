@@ -1,8 +1,8 @@
 # Sterea
 
-Sterea is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Grey Space In The Middle, The Hague on Sat, 24 Oct 2026.
+Sterea is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Grey Space In The Middle, The Hague on Sat, 24 Oct 2026.
 
-Sterea is a techno and hip-hop artist based in Hungary, tracked on soundcheck, with 6 sets logged across Budapest, London and The Hague. Often billed alongside DELARA, Engineer (Live) and Joseph Wood. Next up: The Grey Space In The Middle, The Hague on Sat 24 Oct.
+Sterea is a techno and hip-hop artist based in Hungary, with 6 gigs on soundcheck across Budapest, London and The Hague. Often billed alongside DELARA, Engineer (Live) and Joseph Wood. Next up: The Grey Space In The Middle, The Hague on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Sterea is a techno and hip-hop artist based in Hungary, tracked on soundcheck, w
 
 ## Recently played
 
-- Aaja Basement, London — Fri, 12 Jun 2026
-- Aaja Basement, London — Sat, 14 Feb 2026
-- TBA - Secret Location, Budapest — Sun, 28 Dec 2025
-- Kazi, Budapest — Fri, 27 Dec 2024
-- Four Quarters, London — Tue, 29 Oct 2024
+- Aaja Basement, London · Fri, 12 Jun 2026
+- Aaja Basement, London · Sat, 14 Feb 2026
+- TBA - Secret Location, Budapest · Sun, 28 Dec 2025
+- Kazi, Budapest · Fri, 27 Dec 2024
+- Four Quarters, London · Tue, 29 Oct 2024
 
 ## Shares bills with
 

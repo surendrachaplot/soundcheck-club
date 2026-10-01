@@ -1,8 +1,8 @@
 # Fairfield Amphitheatre
 
-Fairfield Amphitheatre is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "A Day Party at Fairfield Amphitheater: Kamma & Masalo" on Sat, 14 Nov 2026.
+Fairfield Amphitheatre is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "A Day Party at Fairfield Amphitheater: Kamma & Masalo" on Sat, 14 Nov 2026.
 
-Fairfield Amphitheatre is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Frizzy, IN2POL, Kamma and Masalo. Browse upcoming dates, start times and who's playing. Fairfield Park Dr, Fairfield VIC 3078.
+Fairfield Amphitheatre is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Frizzy, IN2POL, Kamma and Masalo. See dates, start times and who's playing. Fairfield Park Dr, Fairfield VIC 3078.
 
 ## What's on
 

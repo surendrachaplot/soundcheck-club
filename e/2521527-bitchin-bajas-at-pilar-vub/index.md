@@ -1,6 +1,6 @@
 # Bitchin Bajas at Pilar - VUB
 
-Bitchin Bajas at Pilar - VUB on Tue 27 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Bitchin Bajas at Pilar - VUB on Tue 27 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

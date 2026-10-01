@@ -1,6 +1,6 @@
 # hybokh at Alaska
 
-hybokh at Alaska on Sat 3 Oct, Athens. 1 artist on the bill: Hybokh. Preview the line-up and save it on soundcheck.
+hybokh at Alaska on Sat 3 Oct, Athens. 1 artist: Hybokh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

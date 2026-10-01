@@ -1,8 +1,8 @@
 # Irazu
 
-Irazu is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cadavra, Madrid on Thu, 15 Oct 2026.
+Irazu is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cadavra, Madrid on Thu, 15 Oct 2026.
 
-Irazu is a techno and industrial artist based in Spain, tracked on soundcheck, with 54 sets logged across Barcelona, Berlin, Madrid and Porto and 1 more. Often billed alongside Neurite, TKNS and HCOR. Next up: Cadavra, Madrid on Thu 15 Oct.
+Irazu is a techno and industrial artist based in Spain, with 54 gigs on soundcheck across Barcelona, Berlin, Madrid and Porto and 1 more. Often billed alongside Neurite, TKNS and HCOR. Next up: Cadavra, Madrid on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Irazu is a techno and industrial artist based in Spain, tracked on soundcheck, w
 
 ## Recently played
 
-- Cadavra, Madrid — Thu, 3 Sept 2026
-- Cadavra, Madrid — Thu, 30 Jul 2026
-- Sala Muv, Madrid — Sat, 20 Jun 2026
-- Cadavra, Madrid — Thu, 4 Jun 2026
-- TBA, Madrid — Sat, 23 May 2026
-- Cadavra, Madrid — Thu, 7 May 2026
-- Cadavra, Madrid — Thu, 23 Apr 2026
-- Gare Porto, Porto — Sat, 4 Apr 2026
+- Cadavra, Madrid · Thu, 3 Sept 2026
+- Cadavra, Madrid · Thu, 30 Jul 2026
+- Sala Muv, Madrid · Sat, 20 Jun 2026
+- Cadavra, Madrid · Thu, 4 Jun 2026
+- TBA, Madrid · Sat, 23 May 2026
+- Cadavra, Madrid · Thu, 7 May 2026
+- Cadavra, Madrid · Thu, 23 Apr 2026
+- Gare Porto, Porto · Sat, 4 Apr 2026
 
 ## Shares bills with
 

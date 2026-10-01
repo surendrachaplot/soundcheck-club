@@ -1,6 +1,6 @@
 # KABUKICHO MENHERA NIGHT VOL.15 at Decabar Super
 
-KABUKICHO MENHERA NIGHT VOL.15 at Decabar Super on Sat 10 Oct, Tokyo. Pop and Club. Preview the line-up and save it on soundcheck.
+KABUKICHO MENHERA NIGHT VOL.15 at Decabar Super on Sat 10 Oct, Tokyo. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

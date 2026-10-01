@@ -1,8 +1,8 @@
 # H93 (KR)
 
-H93 (KR) is a Club and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Waikiki Utopia, South-korea on Fri, 2 Oct 2026.
+H93 (KR) is a Club and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Waikiki Utopia, South-korea on Fri, 2 Oct 2026.
 
-H93 (KR) is a club and electro artist based in South Korea, tracked on soundcheck, with 53 sets logged across Seoul and South Korea. Often billed alongside TERRA (KR), AVEN (KR) and STAN MYLOR. Next up: Waikiki Utopia, South Korea on Fri 2 Oct.
+H93 (KR) is a club and electro artist based in South Korea, with 53 gigs on soundcheck across Seoul and South Korea. Often billed alongside TERRA (KR), AVEN (KR) and STAN MYLOR. Next up: Waikiki Utopia, South Korea on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ H93 (KR) is a club and electro artist based in South Korea, tracked on soundchec
 
 ## Recently played
 
-- UNDERCITY, Seoul — Sat, 5 Sept 2026
-- Waikiki Club Utopia, Seoul — Sat, 11 Jul 2026
-- Lion Super Club, Seoul — Sat, 16 May 2026
-- Waikiki Club Utopia, Seoul — Sat, 18 Apr 2026
-- Waikiki Club Utopia, Seoul — Fri, 17 Apr 2026
-- Waikiki Club Utopia, Seoul — Sat, 11 Apr 2026
-- Waikiki Club Utopia, Seoul — Fri, 10 Apr 2026
-- Waikiki Club Utopia, Seoul — Fri, 27 Mar 2026
+- UNDERCITY, Seoul · Sat, 5 Sept 2026
+- Waikiki Club Utopia, Seoul · Sat, 11 Jul 2026
+- Lion Super Club, Seoul · Sat, 16 May 2026
+- Waikiki Club Utopia, Seoul · Sat, 18 Apr 2026
+- Waikiki Club Utopia, Seoul · Fri, 17 Apr 2026
+- Waikiki Club Utopia, Seoul · Sat, 11 Apr 2026
+- Waikiki Club Utopia, Seoul · Fri, 10 Apr 2026
+- Waikiki Club Utopia, Seoul · Fri, 27 Mar 2026
 
 ## Shares bills with
 

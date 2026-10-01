@@ -1,6 +1,6 @@
 # Rap Jam at Lccm
 
-Rap Jam at Lccm on Thu 8 Oct, London. Preview the line-up and save it on soundcheck.
+Rap Jam at Lccm on Thu 8 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

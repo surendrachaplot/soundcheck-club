@@ -1,6 +1,6 @@
 # DISCO FELINA: Stella Zekri, Futuro Tropicale, Naydiaa, Butch Haynes b2b M.Brunetti at Tempio del Futuro Perduto
 
-DISCO FELINA: Stella Zekri, Futuro Tropicale, Naydiaa, Butch Haynes b2b M.Brunetti at Tempio del Futuro Perduto on Sat 17 Oct, Milan. 3 artists on the bill: Futuro Tropicale, Naydiaa and Stella Zekri. Preview the line-up and save it on soundcheck.
+DISCO FELINA: Stella Zekri, Futuro Tropicale, Naydiaa, Butch Haynes b2b M.Brunetti at Tempio del Futuro Perduto on Sat 17 Oct, Milan. 3 artists: Futuro Tropicale, Naydiaa and Stella Zekri. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # NAMA - Nuovo Anfiteatro Martesana
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ALZAYA SEASON OPENING AT NAMA with D-Leria, Lumière, Domenico Rosa, Sanna Munn, Rosa Calix" on Fri, 2 Oct 2026.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ALZAYA SEASON OPENING AT NAMA with D-Leria, Lumière, Domenico Rosa, Sanna Munn, Rosa Calix" on Fri, 2 Oct 2026.
 
-NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with line-ups including Andromeda\Unchained, ARMANDO, Aton and biased and 2 more. Browse upcoming dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
+NAMA - Nuovo Anfiteatro Martesana is a music venue in Milan listed on soundcheck. 7 upcoming gigs, with line-ups including Andromeda\Unchained, ARMANDO, Aton and biased and 2 more. See dates, start times and who's playing. Parco Martiri della Libertà Iracheni Vittime del Terrorismo 1, 20127 Milano MI Italia.
 
 ## What's on
 

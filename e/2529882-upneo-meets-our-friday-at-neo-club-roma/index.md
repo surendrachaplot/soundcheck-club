@@ -1,6 +1,6 @@
 # UPNEO meets OUR FRIDAY at NEO CLUB ROMA
 
-UPNEO meets OUR FRIDAY at NEO CLUB ROMA on Fri 2 Oct, Rome. 2 artists on the bill: Flavio Rago and Marco Rea. House and Club. Preview the line-up and save it on soundcheck.
+UPNEO meets OUR FRIDAY at NEO CLUB ROMA on Fri 2 Oct, Rome. 2 artists: Flavio Rago and Marco Rea. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DEAN TURNLEY at Coda
 
-DEAN TURNLEY at Coda on Fri 2 Oct, Toronto. Preview the line-up and save it on soundcheck.
+DEAN TURNLEY at Coda on Fri 2 Oct, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

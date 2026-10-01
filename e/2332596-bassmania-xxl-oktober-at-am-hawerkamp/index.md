@@ -1,6 +1,6 @@
 # Bassmania XXL Oktober at Am Hawerkamp
 
-Bassmania XXL Oktober at Am Hawerkamp on Fri 9 Oct, Munster. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Bassmania XXL Oktober at Am Hawerkamp on Fri 9 Oct, Munster. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

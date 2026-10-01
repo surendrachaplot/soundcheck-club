@@ -1,6 +1,6 @@
 # Luca Agnelli - Onlynumbers at Terminal 1
 
-Luca Agnelli - Onlynumbers at Terminal 1 on Sat 3 Oct, Central. 2 artists on the bill: Luca Agnelli and Onlynumbers. Preview the line-up and save it on soundcheck.
+Luca Agnelli - Onlynumbers at Terminal 1 on Sat 3 Oct, Central. 2 artists: Luca Agnelli and Onlynumbers. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

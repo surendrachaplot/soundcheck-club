@@ -1,6 +1,6 @@
 # REGGAETON MEXA vs. REGGAETON PR at Monarch
 
-REGGAETON MEXA vs. REGGAETON PR at Monarch on Sat 17 Oct, San Francisco/Oakland. 1 artist on the bill: EarthAngel. Club and Reggaeton. Preview the line-up and save it on soundcheck.
+REGGAETON MEXA vs. REGGAETON PR at Monarch on Sat 17 Oct, San Francisco/Oakland. 1 artist: EarthAngel. Club and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

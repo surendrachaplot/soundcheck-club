@@ -1,6 +1,6 @@
 # TRINA After Dark at Lark
 
-TRINA After Dark at Lark on Sat 14 Nov, Berlin. 5 artists on the bill: BAMBI (UK), Miss Parker, MONEYAMA and Sherryaeri and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+TRINA After Dark at Lark on Sat 14 Nov, Berlin. 5 artists: BAMBI (UK), Miss Parker, MONEYAMA and Sherryaeri and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

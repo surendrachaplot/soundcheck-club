@@ -1,6 +1,6 @@
 # Esoniq at Teritorija
 
-Esoniq at Teritorija on Sat 31 Oct, Riga. 1 artist on the bill: Esoniq. House. Preview the line-up and save it on soundcheck.
+Esoniq at Teritorija on Sat 31 Oct, Riga. 1 artist: Esoniq. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

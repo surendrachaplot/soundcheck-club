@@ -1,6 +1,6 @@
 # Ring invites Z@p at Ring
 
-Ring invites Z@p on Fri 23 Oct, Seoul. 3 artists on the bill: .2ndfloor, Minkyu and Z@p. Techno and Electro. Preview the line-up and save it on soundcheck.
+Ring invites Z@p on Fri 23 Oct, Seoul. 3 artists: .2ndfloor, Minkyu and Z@p. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

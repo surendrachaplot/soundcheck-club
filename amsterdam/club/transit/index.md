@@ -1,8 +1,8 @@
 # Transit
 
-Transit is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Paesaggi Records Autunno Minitour #1" on Fri, 2 Oct 2026.
+Transit is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Paesaggi Records Autunno Minitour #1" on Fri, 2 Oct 2026.
 
-Transit is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Black Loops, Drabes, Elina Tapio and Fouk and 2 more. Browse upcoming dates, start times and who's playing. Aambeeldstraat 38, 1021 KB Amsterdam.
+Transit is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Black Loops, Drabes, Elina Tapio and Fouk and 2 more. See dates, start times and who's playing. Aambeeldstraat 38, 1021 KB Amsterdam.
 
 ## What's on
 

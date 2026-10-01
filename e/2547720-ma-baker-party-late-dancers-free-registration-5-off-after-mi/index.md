@@ -1,6 +1,6 @@
 # MA BAKER Party ✪ Late Dancers Free Registration - €5 Off After Midnight ✪ at Silverwings Club
 
-MA BAKER Party ✪ Late Dancers Free Registration - €5 Off After Midnight ✪ at Silverwings Club on Sat 3 Oct, Berlin. Disco and Classical. Preview the line-up and save it on soundcheck.
+MA BAKER Party ✪ Late Dancers Free Registration - €5 Off After Midnight ✪ at Silverwings Club on Sat 3 Oct, Berlin. Disco and Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

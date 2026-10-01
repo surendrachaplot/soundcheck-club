@@ -1,8 +1,8 @@
 # Goblin
 
-Goblin is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Alphabethead, Grecco Romank, Guardian Singles And Living Perfection" on Fri, 2 Oct 2026.
+Goblin is a music venue in Auckland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Alphabethead, Grecco Romank, Guardian Singles And Living Perfection" on Fri, 2 Oct 2026.
 
-Goblin is a music venue in Auckland listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 134 Ponsonby Road, Grey Lynn, Auckland 1011.
+Goblin is a music venue in Auckland listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 134 Ponsonby Road, Grey Lynn, Auckland 1011.
 
 ## What's on
 

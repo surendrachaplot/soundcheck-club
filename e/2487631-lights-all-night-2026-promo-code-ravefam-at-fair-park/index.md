@@ -1,6 +1,6 @@
 # Lights All Night 2026 - Promo Code 'RAVEFAM' at Fair Park
 
-Lights All Night 2026 - Promo Code 'RAVEFAM' at Fair Park on Wed 30 Dec, Dallas Fort Worth. 17 artists on the bill: Azyr, Chris Lake, Conrad Taylor and DJ MANDY and 13 more. Preview the line-up and save it on soundcheck.
+Lights All Night 2026 - Promo Code 'RAVEFAM' at Fair Park on Wed 30 Dec, Dallas Fort Worth. 17 artists: Azyr, Chris Lake, Conrad Taylor and DJ MANDY and 13 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

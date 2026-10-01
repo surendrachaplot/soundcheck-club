@@ -1,8 +1,8 @@
 # De León
 
-De León is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Launderette Records, Philadelphia on Sat, 10 Oct 2026.
+De León is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Launderette Records, Philadelphia on Sat, 10 Oct 2026.
 
-De León is a techno and house artist based in United States of America, tracked on soundcheck, with 25 sets logged across Amsterdam, Detroit and Philadelphia. Often billed alongside JFK (USA), ANDi MANDi and DJ Kalin. Next up: Launderette Records, Philadelphia on Sat 10 Oct.
+De León is a techno and house artist based in United States of America, with 25 gigs on soundcheck across Amsterdam, Detroit and Philadelphia. Often billed alongside JFK (USA), ANDi MANDi and DJ Kalin. Next up: Launderette Records, Philadelphia on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ De León is a techno and house artist based in United States of America, tracked
 
 ## Recently played
 
-- Ground Floor, Philadelphia — Sat, 18 Jul 2026
-- Bookies, Detroit — Fri, 22 May 2026
-- Warehouse on Watts, Philadelphia — Sat, 28 Feb 2026
-- Warehouse on Watts, Philadelphia — Sat, 31 Jan 2026
-- Upstairs at the 700, Philadelphia — Sat, 20 Dec 2025
-- Warehouse on Watts, Philadelphia — Fri, 12 Dec 2025
-- Upstairs at the 700, Philadelphia — Sun, 12 Oct 2025
-- Warehouse on Watts, Philadelphia — Sat, 4 Oct 2025
+- Ground Floor, Philadelphia · Sat, 18 Jul 2026
+- Bookies, Detroit · Fri, 22 May 2026
+- Warehouse on Watts, Philadelphia · Sat, 28 Feb 2026
+- Warehouse on Watts, Philadelphia · Sat, 31 Jan 2026
+- Upstairs at the 700, Philadelphia · Sat, 20 Dec 2025
+- Warehouse on Watts, Philadelphia · Fri, 12 Dec 2025
+- Upstairs at the 700, Philadelphia · Sun, 12 Oct 2025
+- Warehouse on Watts, Philadelphia · Sat, 4 Oct 2025
 
 ## Shares bills with
 

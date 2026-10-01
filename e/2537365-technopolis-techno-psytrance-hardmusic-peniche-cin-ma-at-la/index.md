@@ -1,6 +1,6 @@
 # Technopolis - Techno, Psytrance & Hardmusic - Peniche Cinéma at La Péniche Cinéma
 
-Technopolis - Techno, Psytrance & Hardmusic - Peniche Cinéma at La Péniche Cinéma on Sat 10 Oct, Paris. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Technopolis - Techno, Psytrance & Hardmusic - Peniche Cinéma at La Péniche Cinéma on Sat 10 Oct, Paris. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

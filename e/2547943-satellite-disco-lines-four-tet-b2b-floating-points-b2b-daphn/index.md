@@ -1,6 +1,6 @@
 # Satellite: Disco Lines, Four Tet B2B Floating Points B2B Daphni, horsegiirL, KETTAMA + MORE at Club Space Miami
 
-Satellite: Disco Lines, Four Tet B2B Floating Points B2B Daphni, horsegiirL, KETTAMA + MORE at Club Space Miami on Sat 17 Oct, Miami. 8 artists on the bill: Daphni, Floating Points, Four Tet and horsegiirL and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Satellite: Disco Lines, Four Tet B2B Floating Points B2B Daphni, horsegiirL, KETTAMA + MORE at Club Space Miami on Sat 17 Oct, Miami. 8 artists: Daphni, Floating Points, Four Tet and horsegiirL and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

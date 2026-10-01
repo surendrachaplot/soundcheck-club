@@ -1,6 +1,6 @@
 # Nü Androids x Para present: MPH at A.i Warehouse
 
-Nü Androids x Para present: MPH at A.i Warehouse on Fri 13 Nov, Washington DC. 1 artist on the bill: MPH. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Nü Androids x Para present: MPH at A.i Warehouse on Fri 13 Nov, Washington DC. 1 artist: MPH. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

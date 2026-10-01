@@ -1,6 +1,6 @@
 # made2fade [secret lineup; 10€ entry] at elipamanoke
 
-made2fade [secret lineup; 10€ entry] at elipamanoke on Fri 2 Oct, Leipzig. Preview the line-up and save it on soundcheck.
+made2fade [secret lineup; 10€ entry] at elipamanoke on Fri 2 Oct, Leipzig. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

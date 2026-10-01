@@ -1,6 +1,6 @@
 # INCOGNITO presents A HALLOWEEN DnB Rave with Bryan Gee, Reid Speed, Nightstalker at TBA - Los Angeles (Warehouse)
 
-INCOGNITO presents A HALLOWEEN DnB Rave with Bryan Gee, Reid Speed, Nightstalker at TBA - Los Angeles (Warehouse) on Fri 30 Oct, Los Angeles. 2 artists on the bill: Bryan Gee and Ruminate. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+INCOGNITO presents A HALLOWEEN DnB Rave with Bryan Gee, Reid Speed, Nightstalker at TBA - Los Angeles (Warehouse) on Fri 30 Oct, Los Angeles. 2 artists: Bryan Gee and Ruminate. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

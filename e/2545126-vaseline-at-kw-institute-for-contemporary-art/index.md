@@ -1,6 +1,6 @@
 # Vaseline at KW Institute for Contemporary Art
 
-Vaseline at KW Institute for Contemporary Art on Wed 21 Oct, Berlin. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Vaseline at KW Institute for Contemporary Art on Wed 21 Oct, Berlin. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

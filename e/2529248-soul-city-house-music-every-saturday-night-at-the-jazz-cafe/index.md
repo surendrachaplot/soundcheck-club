@@ -1,6 +1,6 @@
 # Soul City: House Music Every Saturday Night at The Jazz Cafe
 
-Soul City: House Music Every Saturday Night at The Jazz Cafe on Sat 14 Nov, London. House. Preview the line-up and save it on soundcheck.
+Soul City: House Music Every Saturday Night at The Jazz Cafe on Sat 14 Nov, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

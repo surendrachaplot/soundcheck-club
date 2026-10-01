@@ -1,6 +1,6 @@
 # HENNYWEEN at Post Bar
 
-HENNYWEEN at Post Bar on Fri 30 Oct, Helsinki. Hip-Hop. Preview the line-up and save it on soundcheck.
+HENNYWEEN at Post Bar on Fri 30 Oct, Helsinki. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

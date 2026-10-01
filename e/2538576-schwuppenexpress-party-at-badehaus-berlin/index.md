@@ -1,6 +1,6 @@
 # Schwuppenexpress Party at Badehaus Berlin
 
-Schwuppenexpress Party at Badehaus Berlin on Fri 9 Oct, Berlin. Pop. Preview the line-up and save it on soundcheck.
+Schwuppenexpress Party at Badehaus Berlin on Fri 9 Oct, Berlin. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

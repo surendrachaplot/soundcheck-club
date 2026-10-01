@@ -1,6 +1,6 @@
 # 3 Evenings: Sunday at Wapping Hydraulic Power Station
 
-3 Evenings: Sunday at Wapping Hydraulic Power Station on Sun 18 Oct, London. Experimental. Preview the line-up and save it on soundcheck.
+3 Evenings: Sunday at Wapping Hydraulic Power Station on Sun 18 Oct, London. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

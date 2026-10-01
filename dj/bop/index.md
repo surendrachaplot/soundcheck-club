@@ -1,8 +1,8 @@
 # Bop
 
-Bop is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paramour, Brussels on Fri, 9 Oct 2026.
+Bop is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paramour, Brussels on Fri, 9 Oct 2026.
 
-Bop is a drum & bass and jungle artist based in Russia, tracked on soundcheck, with 27 sets logged across Amsterdam, Berlin, Brighton and Brussels and 2 more. Often billed alongside Synkro, London Elektricity and Nu:Tone. Next up: Paramour, Brussels on Fri 9 Oct.
+Bop is a drum & bass and jungle artist based in Russia, with 27 gigs on soundcheck across Amsterdam, Berlin, Brighton and Brussels and 2 more. Often billed alongside Synkro, London Elektricity and Nu:Tone. Next up: Paramour, Brussels on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Bop is a drum & bass and jungle artist based in Russia, tracked on soundcheck, w
 
 ## Recently played
 
-- Bruk, Manchester — Sat, 19 Sept 2026
-- Bruk, Manchester — Sat, 15 Aug 2026
-- Hackney Wick Multiple Venues, London — Sat, 1 Aug 2026
-- Aaja Basement, London — Sat, 11 Jul 2026
-- Bruk, Manchester — Sun, 10 May 2026
-- Volks, Brighton — Fri, 3 Apr 2026
-- Bruk, Manchester — Sat, 21 Feb 2026
-- Bruk, Manchester — Fri, 12 Dec 2025
+- Bruk, Manchester · Sat, 19 Sept 2026
+- Bruk, Manchester · Sat, 15 Aug 2026
+- Hackney Wick Multiple Venues, London · Sat, 1 Aug 2026
+- Aaja Basement, London · Sat, 11 Jul 2026
+- Bruk, Manchester · Sun, 10 May 2026
+- Volks, Brighton · Fri, 3 Apr 2026
+- Bruk, Manchester · Sat, 21 Feb 2026
+- Bruk, Manchester · Fri, 12 Dec 2025
 
 ## Shares bills with
 

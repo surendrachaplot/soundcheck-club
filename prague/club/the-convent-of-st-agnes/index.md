@@ -1,8 +1,8 @@
 # The Convent of St. Agnes
 
-The Convent of St. Agnes is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Lunchmeat presents Kara-Lis Coverdale live" on Sun, 8 Nov 2026.
+The Convent of St. Agnes is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Lunchmeat presents Kara-Lis Coverdale live" on Sun, 8 Nov 2026.
 
-The Convent of St. Agnes is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Kara-Lis Coverdale. Browse upcoming dates, start times and who's playing.
+The Convent of St. Agnes is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Kara-Lis Coverdale. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Gemeinsam Feiern - Secret Rave at Waldspielplatz Plänterwald
 
-Gemeinsam Feiern - Secret Rave at Waldspielplatz Plänterwald on Fri 16 Oct, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+Gemeinsam Feiern - Secret Rave at Waldspielplatz Plänterwald on Fri 16 Oct, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

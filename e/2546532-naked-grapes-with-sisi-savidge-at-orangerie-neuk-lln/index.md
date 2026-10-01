@@ -1,6 +1,6 @@
 # Naked Grapes with Sisi Savidge at Orangerie Neukölln
 
-Naked Grapes with Sisi Savidge at Orangerie Neukölln on Thu 15 Oct, Berlin. House and R&B. Preview the line-up and save it on soundcheck.
+Naked Grapes with Sisi Savidge at Orangerie Neukölln on Thu 15 Oct, Berlin. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

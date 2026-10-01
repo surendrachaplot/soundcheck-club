@@ -1,8 +1,8 @@
 # Villa Park Warehouse
 
-Villa Park Warehouse is a music venue in Birmingham with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Don't F**k with Disco, Halloween in Birmingham" on Sat, 31 Oct 2026.
+Villa Park Warehouse is a music venue in Birmingham with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Don't F**k with Disco, Halloween in Birmingham" on Sat, 31 Oct 2026.
 
-Villa Park Warehouse is a music venue in Birmingham listed on soundcheck. 1 upcoming gig, with line-ups including Don't F**k with Disco. Browse upcoming dates, start times and who's playing.
+Villa Park Warehouse is a music venue in Birmingham listed on soundcheck. 1 upcoming gig, with line-ups including Don't F**k with Disco. See dates, start times and who's playing.
 
 ## What's on
 

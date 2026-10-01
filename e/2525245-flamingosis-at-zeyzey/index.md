@@ -1,6 +1,6 @@
 # Flamingosis at ZeyZey
 
-Flamingosis at ZeyZey on Fri 2 Oct, Miami. Hip-Hop and Funk / Soul. Preview the line-up and save it on soundcheck.
+Flamingosis at ZeyZey on Fri 2 Oct, Miami. Hip-Hop and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

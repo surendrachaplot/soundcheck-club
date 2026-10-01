@@ -1,6 +1,6 @@
 # We Want the Grooves at Chancellor Room
 
-We Want the Grooves at Chancellor Room on Sat 3 Oct, Philadelphia. House. Preview the line-up and save it on soundcheck.
+We Want the Grooves at Chancellor Room on Sat 3 Oct, Philadelphia. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

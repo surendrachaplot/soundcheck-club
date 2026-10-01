@@ -1,6 +1,6 @@
 # Pontoon Bookings 5-Year Anniversary at Time is the new space
 
-Pontoon Bookings 5-Year Anniversary at Time is the new space on Sat 10 Oct, Rotterdam. Preview the line-up and save it on soundcheck.
+Pontoon Bookings 5-Year Anniversary at Time is the new space on Sat 10 Oct, Rotterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

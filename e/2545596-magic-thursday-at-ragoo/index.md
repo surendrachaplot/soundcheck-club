@@ -1,6 +1,6 @@
 # MAGIC THURSDAY at Ragoo
 
-MAGIC THURSDAY at Ragoo on Thu 5 Nov, Milan. Preview the line-up and save it on soundcheck.
+MAGIC THURSDAY at Ragoo on Thu 5 Nov, Milan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

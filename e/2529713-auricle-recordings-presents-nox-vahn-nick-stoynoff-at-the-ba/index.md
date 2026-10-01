@@ -1,6 +1,6 @@
 # Auricle Recordings presents: Nox Vahn, Nick Stoynoff at THE BATHS
 
-Auricle Recordings presents: Nox Vahn, Nick Stoynoff at THE BATHS on Fri 16 Oct, Austin. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Auricle Recordings presents: Nox Vahn, Nick Stoynoff at THE BATHS on Fri 16 Oct, Austin. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

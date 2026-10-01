@@ -1,6 +1,6 @@
 # FLOWER BOMB at Club Bellevue
 
-FLOWER BOMB at Club Bellevue on Fri 16 Oct, Zurich. 1 artist on the bill: P.Young. House. Preview the line-up and save it on soundcheck.
+FLOWER BOMB at Club Bellevue on Fri 16 Oct, Zurich. 1 artist: P.Young. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

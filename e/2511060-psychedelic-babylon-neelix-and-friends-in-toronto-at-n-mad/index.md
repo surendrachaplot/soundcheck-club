@@ -1,6 +1,6 @@
 # Psychedelic Babylon: NEELIX and Friends in Toronto at NØMAD
 
-Psychedelic Babylon: NEELIX and Friends in Toronto at NØMAD on Sat 21 Nov, Toronto. Psytrance and Minimal Techno. Preview the line-up and save it on soundcheck.
+Psychedelic Babylon: NEELIX and Friends in Toronto at NØMAD on Sat 21 Nov, Toronto. Psytrance and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FEED with P4 / Em-J / Jorgium at Horn
 
-FEED with P4 / Em-J / Jorgium at Horn on Thu 1 Oct, Bangkok. 2 artists on the bill: Em-J and Jorgium. Techno. Preview the line-up and save it on soundcheck.
+FEED with P4 / Em-J / Jorgium at Horn on Thu 1 Oct, Bangkok. 2 artists: Em-J and Jorgium. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

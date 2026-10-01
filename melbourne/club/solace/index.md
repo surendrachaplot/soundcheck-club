@@ -1,8 +1,8 @@
 # Solace
 
-Solace is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Solace Invites W/ Beltrac, GWEEDUS, marlene, Miki, Pjenné" on Fri, 2 Oct 2026.
+Solace is a music venue in Melbourne with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Solace Invites W/ Beltrac, GWEEDUS, marlene, Miki, Pjenné" on Fri, 2 Oct 2026.
 
-Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Beltrac, Cousin, DJ Possum and James Pepper and 2 more. Browse upcoming dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
+Solace is a music venue in Melbourne listed on soundcheck. 10 upcoming gigs, with line-ups including Beltrac, Cousin, DJ Possum and James Pepper and 2 more. See dates, start times and who's playing. 21-25 Croft Alley, Melbourne, 3000.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # CIRCUITO ELÉCTRICO con DISHER + Kamboya + Sarcophago at Sala Siroco
 
-CIRCUITO ELÉCTRICO con DISHER + Kamboya + Sarcophago at Sala Siroco on Thu 1 Oct, Madrid. 2 artists on the bill: Kamboya and Sarcophago. Techno and EBM. Preview the line-up and save it on soundcheck.
+CIRCUITO ELÉCTRICO con DISHER + Kamboya + Sarcophago at Sala Siroco on Thu 1 Oct, Madrid. 2 artists: Kamboya and Sarcophago. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

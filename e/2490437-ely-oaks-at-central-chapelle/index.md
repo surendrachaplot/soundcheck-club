@@ -1,6 +1,6 @@
 # Ely Oaks at Central Chapelle
 
-Ely Oaks at Central Chapelle on Wed 28 Oct, Paris. 1 artist on the bill: Ely Oaks. Preview the line-up and save it on soundcheck.
+Ely Oaks at Central Chapelle on Wed 28 Oct, Paris. 1 artist: Ely Oaks. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

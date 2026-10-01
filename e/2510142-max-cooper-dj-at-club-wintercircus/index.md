@@ -1,6 +1,6 @@
 # Max Cooper: DJ at Club Wintercircus
 
-Max Cooper: DJ at Club Wintercircus on Sat 14 Nov, Ghent. 1 artist on the bill: Max Cooper. Preview the line-up and save it on soundcheck.
+Max Cooper: DJ at Club Wintercircus on Sat 14 Nov, Ghent. 1 artist: Max Cooper. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

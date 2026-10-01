@@ -1,8 +1,8 @@
 # Thomas Ankersmit
 
-Thomas Ankersmit is a Experimental and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Thomas Ankersmit is a Experimental and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
-Thomas Ankersmit is an experimental and electro artist based in Germany, tracked on soundcheck, with 16 sets logged across Basel, Berlin, Glasgow and Hamburg and 7 more. Often billed alongside Deena Abdelwahed, Actress and Batu. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
+Thomas Ankersmit is an experimental and electro artist based in Germany, with 16 gigs on soundcheck across Basel, Berlin, Glasgow and Hamburg and 7 more. Often billed alongside Deena Abdelwahed, Actress and Batu. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Thomas Ankersmit is an experimental and electro artist based in Germany, tracked
 
 ## Recently played
 
-- The Listening House | Pollok House, Glasgow — Sun, 27 Sept 2026
-- Venues Across Glasgow, Glasgow — Thu, 24 Sept 2026
-- Kaserne Basel, Basel — Thu, 17 Sept 2026
-- ZiMMT, Leipzig — Sat, 30 May 2026
-- TBA - Multiple Venues , The Hague — Thu, 9 Apr 2026
-- Thila Ground, Seoul — Sat, 15 Nov 2025
-- Silent Green, Berlin — Thu, 18 Sept 2025
-- Centrocentro, Madrid — Sat, 21 Jun 2025
+- The Listening House | Pollok House, Glasgow · Sun, 27 Sept 2026
+- Venues Across Glasgow, Glasgow · Thu, 24 Sept 2026
+- Kaserne Basel, Basel · Thu, 17 Sept 2026
+- ZiMMT, Leipzig · Sat, 30 May 2026
+- TBA - Multiple Venues , The Hague · Thu, 9 Apr 2026
+- Thila Ground, Seoul · Sat, 15 Nov 2025
+- Silent Green, Berlin · Thu, 18 Sept 2025
+- Centrocentro, Madrid · Sat, 21 Jun 2025
 
 ## Shares bills with
 

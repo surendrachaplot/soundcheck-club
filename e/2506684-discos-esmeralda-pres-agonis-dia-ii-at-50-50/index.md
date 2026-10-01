@@ -1,6 +1,6 @@
 # Discos Esmeralda pres. Agonis (Dia II) at 50 | 50
 
-Discos Esmeralda pres. Agonis (Dia II) at 50 | 50 on Sat 3 Oct, Medellin. 4 artists on the bill: Agonis, Klavier, Merino and saradélica. Preview the line-up and save it on soundcheck.
+Discos Esmeralda pres. Agonis (Dia II) at 50 | 50 on Sat 3 Oct, Medellin. 4 artists: Agonis, Klavier, Merino and saradélica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

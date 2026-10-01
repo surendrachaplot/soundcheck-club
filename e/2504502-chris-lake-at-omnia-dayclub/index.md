@@ -1,6 +1,6 @@
 # Chris Lake at OMNIA Dayclub
 
-Chris Lake at OMNIA Dayclub on Sat 3 Oct, Las Vegas. 1 artist on the bill: Chris Lake. Preview the line-up and save it on soundcheck.
+Chris Lake at OMNIA Dayclub on Sat 3 Oct, Las Vegas. 1 artist: Chris Lake. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

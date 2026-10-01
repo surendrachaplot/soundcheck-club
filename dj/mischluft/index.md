@@ -1,8 +1,8 @@
 # Mischluft
 
-Mischluft is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Mischluft is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Mischluft is a techno and trance artist based in Germany, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Mischluft is a techno and trance artist based in Germany, with 193 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 52 more. Often billed alongside Bad Boombox, Janis Zielinski and Ollie Lishman. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Mischluft is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- Avalon Hollywood, Los Angeles — Sat, 12 Sept 2026
-- Echostage, Washington DC — Fri, 11 Sept 2026
-- Factory Town, Miami — Sun, 6 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Else, Berlin — Sun, 30 Aug 2026
-- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- Avalon Hollywood, Los Angeles · Sat, 12 Sept 2026
+- Echostage, Washington DC · Fri, 11 Sept 2026
+- Factory Town, Miami · Sun, 6 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Else, Berlin · Sun, 30 Aug 2026
+- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 

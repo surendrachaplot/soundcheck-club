@@ -1,6 +1,6 @@
 # CallBackSami • RITMO LOGICO at Super7
 
-CallBackSami • RITMO LOGICO at Super7 on Sun 4 Oct, Lyon. 1 artist on the bill: CallBackSami. Preview the line-up and save it on soundcheck.
+CallBackSami • RITMO LOGICO at Super7 on Sun 4 Oct, Lyon. 1 artist: CallBackSami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

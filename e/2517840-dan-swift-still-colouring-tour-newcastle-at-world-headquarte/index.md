@@ -1,6 +1,6 @@
 # Dan Swift - Still Colouring Tour - Newcastle at World Headquarters
 
-Dan Swift - Still Colouring Tour - Newcastle at World Headquarters on Sat 17 Oct, Newcastle. Hip-Hop and Garage. Preview the line-up and save it on soundcheck.
+Dan Swift - Still Colouring Tour - Newcastle at World Headquarters on Sat 17 Oct, Newcastle. Hip-Hop and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

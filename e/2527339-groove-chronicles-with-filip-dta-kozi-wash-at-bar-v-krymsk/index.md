@@ -1,6 +1,6 @@
 # Groove Chronicles with Filip DTA, Kozi, Wash at Bar v Krymský
 
-Groove Chronicles with Filip DTA, Kozi, Wash at Bar v Krymský on Fri 9 Oct, Prague. 1 artist on the bill: Dj Wash!. Garage. Preview the line-up and save it on soundcheck.
+Groove Chronicles with Filip DTA, Kozi, Wash at Bar v Krymský on Fri 9 Oct, Prague. 1 artist: Dj Wash!. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

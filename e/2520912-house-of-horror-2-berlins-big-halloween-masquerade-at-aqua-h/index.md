@@ -1,6 +1,6 @@
 # House of Horror #2 - Berlins Big Halloween Masquerade at Aqua-Höfe
 
-House of Horror #2 - Berlins Big Halloween Masquerade at Aqua-Höfe on Sat 31 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
+House of Horror #2 - Berlins Big Halloween Masquerade at Aqua-Höfe on Sat 31 Oct, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VENNA - SYDNEY - Oxford Art Factory at Oxford Art Factory
 
-VENNA - SYDNEY - Oxford Art Factory on Thu 19 Nov, Sydney. Preview the line-up and save it on soundcheck.
+VENNA - SYDNEY - Oxford Art Factory on Thu 19 Nov, Sydney. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

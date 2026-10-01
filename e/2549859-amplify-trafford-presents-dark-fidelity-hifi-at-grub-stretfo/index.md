@@ -1,6 +1,6 @@
 # Amplify Trafford presents: Dark Fidelity HiFi at Grub Stretford
 
-Amplify Trafford presents: Dark Fidelity HiFi at Grub Stretford on Fri 2 Oct, Manchester. 1 artist on the bill: Dark Fidelity HiFi. Acid and Electronica. Preview the line-up and save it on soundcheck.
+Amplify Trafford presents: Dark Fidelity HiFi at Grub Stretford on Fri 2 Oct, Manchester. 1 artist: Dark Fidelity HiFi. Acid and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

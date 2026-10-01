@@ -1,6 +1,6 @@
 # One22 Pres. 6 SENSE at One22
 
-One22 Pres. 6 SENSE on Fri 16 Oct, Canberra. 1 artist on the bill: 6 SENSE. Preview the line-up and save it on soundcheck.
+One22 Pres. 6 SENSE on Fri 16 Oct, Canberra. 1 artist: 6 SENSE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

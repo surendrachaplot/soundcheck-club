@@ -1,6 +1,6 @@
 # CHICHARRON: Last Tony Montuno Show at Toï Toï, Le Zinc
 
-CHICHARRON: Last Tony Montuno Show at Toï Toï, Le Zinc on Fri 16 Oct, Lyon. Preview the line-up and save it on soundcheck.
+CHICHARRON: Last Tony Montuno Show at Toï Toï, Le Zinc on Fri 16 Oct, Lyon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

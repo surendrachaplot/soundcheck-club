@@ -1,6 +1,6 @@
 # GoldFish - ADE at Melkweg
 
-GoldFish - ADE at Melkweg on Sat 24 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+GoldFish - ADE at Melkweg on Sat 24 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

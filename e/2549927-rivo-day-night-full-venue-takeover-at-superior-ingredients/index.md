@@ -1,6 +1,6 @@
 # Rivo Day & Night Full Venue Takeover at Superior Ingredients
 
-Rivo Day & Night Full Venue Takeover at Superior Ingredients on Fri 30 Oct, New York City. 1 artist on the bill: Rivo. House. Preview the line-up and save it on soundcheck.
+Rivo Day & Night Full Venue Takeover at Superior Ingredients on Fri 30 Oct, New York City. 1 artist: Rivo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

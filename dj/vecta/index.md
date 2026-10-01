@@ -1,8 +1,8 @@
 # VECTA
 
-VECTA is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Tranzit, Hamburg on Fri, 9 Oct 2026.
+VECTA is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tranzit, Hamburg on Fri, 9 Oct 2026.
 
-VECTA is a techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Hamburg. Often billed alongside 333CXT, UMKA BEGOVIC and Yung Lucy. Next up: Tranzit, Hamburg on Fri 9 Oct.
+VECTA is a techno artist based in Germany, with 18 gigs on soundcheck across Hamburg. Often billed alongside 333CXT, UMKA BEGOVIC and Yung Lucy. Next up: Tranzit, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ VECTA is a techno artist based in Germany, tracked on soundcheck, with 18 sets l
 
 ## Recently played
 
-- OZM AIR, Hamburg — Sat, 9 May 2026
-- Tranzit, Hamburg — Fri, 10 Apr 2026
-- Tranzit, Hamburg — Sat, 17 Jan 2026
-- Tranzit, Hamburg — Sat, 15 Nov 2025
-- Uebel & Gefährlich, Hamburg — Thu, 2 Oct 2025
-- Tranzit, Hamburg — Fri, 12 Sept 2025
-- TBA - Große Elbstraße, Hamburg — Sat, 30 Aug 2025
-- TBA, Hamburg — Sat, 19 Jul 2025
+- OZM AIR, Hamburg · Sat, 9 May 2026
+- Tranzit, Hamburg · Fri, 10 Apr 2026
+- Tranzit, Hamburg · Sat, 17 Jan 2026
+- Tranzit, Hamburg · Sat, 15 Nov 2025
+- Uebel & Gefährlich, Hamburg · Thu, 2 Oct 2025
+- Tranzit, Hamburg · Fri, 12 Sept 2025
+- TBA - Große Elbstraße, Hamburg · Sat, 30 Aug 2025
+- TBA, Hamburg · Sat, 19 Jul 2025
 
 ## Shares bills with
 

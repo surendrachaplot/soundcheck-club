@@ -1,6 +1,6 @@
 # G7 presents: HALLOWEEN VILLAGE 2026 at Gianpula Main Room
 
-G7 presents: HALLOWEEN VILLAGE 2026 at Gianpula Main Room on Fri 30 Oct, Malta. Club. Preview the line-up and save it on soundcheck.
+G7 presents: HALLOWEEN VILLAGE 2026 at Gianpula Main Room on Fri 30 Oct, Malta. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

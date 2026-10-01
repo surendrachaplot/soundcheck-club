@@ -1,6 +1,6 @@
 # Levels with Jan Blomqvist at Marina Navegantes São João
 
-Levels with Jan Blomqvist at Marina Navegantes São João on Sun 11 Oct, Brazil. 3 artists on the bill: DJ ZAC, Jan Blomqvist and Mau Maioli. Preview the line-up and save it on soundcheck.
+Levels with Jan Blomqvist at Marina Navegantes São João on Sun 11 Oct, Brazil. 3 artists: DJ ZAC, Jan Blomqvist and Mau Maioli. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

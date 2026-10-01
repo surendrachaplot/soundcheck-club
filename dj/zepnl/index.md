@@ -1,8 +1,8 @@
 # ZEP (NL)
 
-ZEP (NL) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+ZEP (NL) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-ZEP (NL) is a techno and house artist based in Netherlands, tracked on soundcheck, with 17 sets logged across Amsterdam, Athens, Berlin and Istanbul and 6 more. Often billed alongside Franky Sticks, Gyatso and Bastienne. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+ZEP (NL) is a techno and house artist based in Netherlands, with 17 gigs on soundcheck across Amsterdam, Athens, Berlin and Istanbul and 6 more. Often billed alongside Franky Sticks, Gyatso and Bastienne. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ZEP (NL) is a techno and house artist based in Netherlands, tracked on soundchec
 
 ## Recently played
 
-- Yan Gastro, Istanbul — Sat, 5 Sept 2026
-- Skatecafe, Amsterdam — Thu, 21 May 2026
-- POP Club, Marseille — Fri, 27 Feb 2026
-- Oddity Club, Athens — Fri, 30 Jan 2026
-- TBA, Amsterdam — Fri, 11 Jul 2025
-- Mono, Rotterdam — Fri, 9 May 2025
-- Worm, Rotterdam — Fri, 18 Apr 2025
-- Circolo Magnolia, Milan — Fri, 7 Mar 2025
+- Yan Gastro, Istanbul · Sat, 5 Sept 2026
+- Skatecafe, Amsterdam · Thu, 21 May 2026
+- POP Club, Marseille · Fri, 27 Feb 2026
+- Oddity Club, Athens · Fri, 30 Jan 2026
+- TBA, Amsterdam · Fri, 11 Jul 2025
+- Mono, Rotterdam · Fri, 9 May 2025
+- Worm, Rotterdam · Fri, 18 Apr 2025
+- Circolo Magnolia, Milan · Fri, 7 Mar 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # GhettoMusick at Umbria Arts
 
-GhettoMusick at Umbria Arts on Sat 31 Oct, Philadelphia. 4 artists on the bill: ALLNATUREL, CalvoMusic, DJ Reezey and DJ-SUN. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+GhettoMusick at Umbria Arts on Sat 31 Oct, Philadelphia. 4 artists: ALLNATUREL, CalvoMusic, DJ Reezey and DJ-SUN. Club and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

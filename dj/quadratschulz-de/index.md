@@ -1,8 +1,8 @@
 # Quadratschulz
 
-Quadratschulz is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Le Sucre, Lyon on Fri, 16 Oct 2026.
+Quadratschulz is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Sucre, Lyon on Fri, 16 Oct 2026.
 
-Quadratschulz is an acid and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Hamburg and Lyon. Often billed alongside Fasme, Rüftata110 and Superdefekt. Next up: Le Sucre, Lyon on Fri 16 Oct.
+Quadratschulz is an acid and techno artist based in Germany, with 6 gigs on soundcheck across Hamburg and Lyon. Often billed alongside Fasme, Rüftata110 and Superdefekt. Next up: Le Sucre, Lyon on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Quadratschulz is an acid and techno artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Golden Pudel Club, Hamburg — Sun, 16 Nov 2025
-- Locke, Hamburg — Wed, 5 Mar 2025
-- Golden Pudel Club, Hamburg — Sun, 19 May 2024
-- Locke, Hamburg — Wed, 10 Apr 2024
-- Golden Pudel Club, Hamburg — Sun, 19 Mar 2023
+- Golden Pudel Club, Hamburg · Sun, 16 Nov 2025
+- Locke, Hamburg · Wed, 5 Mar 2025
+- Golden Pudel Club, Hamburg · Sun, 19 May 2024
+- Locke, Hamburg · Wed, 10 Apr 2024
+- Golden Pudel Club, Hamburg · Sun, 19 Mar 2023
 
 ## Shares bills with
 

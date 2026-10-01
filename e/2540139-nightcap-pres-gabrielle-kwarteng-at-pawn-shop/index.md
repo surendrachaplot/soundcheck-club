@@ -1,6 +1,6 @@
 # Nightcap pres. Gabrielle Kwarteng at Pawn Shop
 
-Nightcap pres. Gabrielle Kwarteng at Pawn Shop on Sat 3 Oct, Dublin. 4 artists on the bill: Gabrielle Kwarteng, Jamie Behan, Sahana and Shannen Blessing. Techno and House. Preview the line-up and save it on soundcheck.
+Nightcap pres. Gabrielle Kwarteng at Pawn Shop on Sat 3 Oct, Dublin. 4 artists: Gabrielle Kwarteng, Jamie Behan, Sahana and Shannen Blessing. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

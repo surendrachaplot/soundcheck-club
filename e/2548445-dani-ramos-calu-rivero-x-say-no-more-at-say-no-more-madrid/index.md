@@ -1,6 +1,6 @@
 # Dani Ramos & Calu Rivero X Say No More at Say No More Madrid
 
-Dani Ramos & Calu Rivero X Say No More at Say No More Madrid on Thu 1 Oct, Madrid. 1 artist on the bill: Dani Ramos. House and Tech House. Preview the line-up and save it on soundcheck.
+Dani Ramos & Calu Rivero X Say No More at Say No More Madrid on Thu 1 Oct, Madrid. 1 artist: Dani Ramos. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

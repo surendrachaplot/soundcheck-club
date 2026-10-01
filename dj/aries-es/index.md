@@ -1,8 +1,8 @@
 # Ari (ES)
 
-Ari (ES) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Barraca, Valencia on Fri, 2 Oct 2026.
+Ari (ES) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Barraca, Valencia on Fri, 2 Oct 2026.
 
-Ari (ES) is a trance and techno artist based in Spain, tracked on soundcheck, with 4 sets logged across Basel, Berlin, Munich and Valencia. Often billed alongside Feldberg, mogli and @n3opapi. Next up: Barraca, Valencia on Fri 2 Oct.
+Ari (ES) is a trance and techno artist based in Spain, with 4 gigs on soundcheck across Basel, Berlin, Munich and Valencia. Often billed alongside Feldberg, mogli and @n3opapi. Next up: Barraca, Valencia on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,8 @@ Ari (ES) is a trance and techno artist based in Spain, tracked on soundcheck, wi
 
 ## Recently played
 
-- Phantom Bar Berlin, Berlin — Sat, 19 Sept 2026
-- Corleone, Munich — Fri, 18 Sept 2026
+- Phantom Bar Berlin, Berlin · Sat, 19 Sept 2026
+- Corleone, Munich · Fri, 18 Sept 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # FUTURE: DJ Games (UKG / DNB / 140 / Techno / Jungle) at Club Makossa
 
-FUTURE: DJ Games (UKG / DNB / 140 / Techno / Jungle) at Club Makossa on Thu 29 Oct, London. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+FUTURE: DJ Games (UKG / DNB / 140 / Techno / Jungle) at Club Makossa on Thu 29 Oct, London. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

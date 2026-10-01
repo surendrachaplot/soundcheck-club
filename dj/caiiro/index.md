@@ -1,8 +1,8 @@
 # Caiiro
 
-Caiiro is a Afro House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at CÉ LA VI, Singapore on Sat, 10 Oct 2026.
+Caiiro is a Afro House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at CÉ LA VI, Singapore on Sat, 10 Oct 2026.
 
-Caiiro is an afro house and house artist based in South Africa, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Athens and Bali and 22 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: CÉ LA VI, Singapore on Sat 10 Oct.
+Caiiro is an afro house and house artist based in South Africa, with 74 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 22 more. Often billed alongside Enoo Napa, Da Capo and Van Zand. Next up: CÉ LA VI, Singapore on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Caiiro is an afro house and house artist based in South Africa, tracked on sound
 
 ## Recently played
 
-- Brooklyn Roots Collective, New York City — Sat, 26 Sept 2026
-- Brooklyn Roots Collective, New York City — Sat, 26 Sept 2026
-- Bolivar Beach Bar, Athens — Fri, 28 Aug 2026
-- Escala25, Lisbon — Sat, 18 Jul 2026
-- Bolivar Beach Bar, Athens — Thu, 25 Jun 2026
-- Hï Ibiza, Ibiza — Mon, 22 Jun 2026
-- Industry City, New York City — Sun, 14 Jun 2026
-- Audio Club, Geneva — Sat, 23 May 2026
+- Brooklyn Roots Collective, New York City · Sat, 26 Sept 2026
+- Brooklyn Roots Collective, New York City · Sat, 26 Sept 2026
+- Bolivar Beach Bar, Athens · Fri, 28 Aug 2026
+- Escala25, Lisbon · Sat, 18 Jul 2026
+- Bolivar Beach Bar, Athens · Thu, 25 Jun 2026
+- Hï Ibiza, Ibiza · Mon, 22 Jun 2026
+- Industry City, New York City · Sun, 14 Jun 2026
+- Audio Club, Geneva · Sat, 23 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Another Excuse at TBA - SECRET LOCATION
 
-Another Excuse at TBA - SECRET LOCATION on Sat 24 Oct, Belfast. House and Disco. Preview the line-up and save it on soundcheck.
+Another Excuse at TBA - SECRET LOCATION on Sat 24 Oct, Belfast. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

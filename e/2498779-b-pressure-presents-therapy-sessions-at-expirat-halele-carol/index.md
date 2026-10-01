@@ -1,6 +1,6 @@
 # B:pressure presents: Therapy Sessions at Expirat Halele Carol
 
-B:pressure presents: Therapy Sessions at Expirat Halele Carol on Thu 8 Oct, Bucharest. Drum & Bass. Preview the line-up and save it on soundcheck.
+B:pressure presents: Therapy Sessions at Expirat Halele Carol on Thu 8 Oct, Bucharest. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

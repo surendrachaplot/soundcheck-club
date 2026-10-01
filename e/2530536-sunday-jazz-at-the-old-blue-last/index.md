@@ -1,6 +1,6 @@
 # Sunday Jazz at The Old Blue Last
 
-Sunday Jazz at The Old Blue Last on Sun 18 Oct, London. Jazz. Preview the line-up and save it on soundcheck.
+Sunday Jazz at The Old Blue Last on Sun 18 Oct, London. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

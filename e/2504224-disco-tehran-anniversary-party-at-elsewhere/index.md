@@ -1,6 +1,6 @@
 # Disco Tehran Anniversary Party at Elsewhere
 
-Disco Tehran Anniversary Party at Elsewhere on Sun 4 Oct, New York City. 5 artists on the bill: Arjun Shah, Marco Weibel, MIRZA and Omer Mil and 1 more. Preview the line-up and save it on soundcheck.
+Disco Tehran Anniversary Party at Elsewhere on Sun 4 Oct, New York City. 5 artists: Arjun Shah, Marco Weibel, MIRZA and Omer Mil and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

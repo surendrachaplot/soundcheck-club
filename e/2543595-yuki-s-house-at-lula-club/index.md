@@ -1,6 +1,6 @@
 # YUKI'S HOUSE at Lula Club
 
-YUKI'S HOUSE at Lula Club on Sat 10 Oct, Madrid. Preview the line-up and save it on soundcheck.
+YUKI'S HOUSE at Lula Club on Sat 10 Oct, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

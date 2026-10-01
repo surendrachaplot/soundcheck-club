@@ -1,6 +1,6 @@
 # Feuchte Träume at Grelle Forelle
 
-Feuchte Träume at Grelle Forelle on Sat 3 Oct, Vienna. Techno. Preview the line-up and save it on soundcheck.
+Feuchte Träume at Grelle Forelle on Sat 3 Oct, Vienna. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

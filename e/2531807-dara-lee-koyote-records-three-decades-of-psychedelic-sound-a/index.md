@@ -1,6 +1,6 @@
 # DARA-LEE KOYOTE RECORDS THREE DECADES OF PSYCHEDELIC SOUND at IT Athens
 
-DARA-LEE KOYOTE RECORDS THREE DECADES OF PSYCHEDELIC SOUND at IT Athens on Sat 17 Oct, Athens. Preview the line-up and save it on soundcheck.
+DARA-LEE KOYOTE RECORDS THREE DECADES OF PSYCHEDELIC SOUND at IT Athens on Sat 17 Oct, Athens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

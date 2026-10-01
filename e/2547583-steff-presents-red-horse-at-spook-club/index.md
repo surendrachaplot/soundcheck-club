@@ -1,6 +1,6 @@
 # STEFF presents: Red Horse at Spook Club
 
-STEFF presents: Red Horse at Spook Club on Sat 24 Oct, Valencia. House and Electronica. Preview the line-up and save it on soundcheck.
+STEFF presents: Red Horse at Spook Club on Sat 24 Oct, Valencia. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

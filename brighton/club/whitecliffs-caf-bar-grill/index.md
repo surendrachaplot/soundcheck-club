@@ -1,8 +1,8 @@
 # Whitecliffs Café, Bar & Grill
 
-Whitecliffs Café, Bar & Grill is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Kuudos Sound System Launch - DJ OMC B2B Dj Dharma 900" on Sat, 7 Nov 2026.
+Whitecliffs Café, Bar & Grill is a music venue in Brighton with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Kuudos Sound System Launch - DJ OMC B2B Dj Dharma 900" on Sat, 7 Nov 2026.
 
-Whitecliffs Café, Bar & Grill is a music venue in Brighton listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Marine Drive, Saltdean Brighton BN2 8SQ, United Kingdom.
+Whitecliffs Café, Bar & Grill is a music venue in Brighton listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Marine Drive, Saltdean Brighton BN2 8SQ, United Kingdom.
 
 ## What's on
 

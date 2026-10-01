@@ -1,6 +1,6 @@
 # RECKLESS RAVES: THE WARE-HOUSE XL [HALLOWEEN SPECIAL] at Common Market
 
-RECKLESS RAVES: THE WARE-HOUSE XL [HALLOWEEN SPECIAL] at Common Market on Fri 30 Oct, Belfast. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+RECKLESS RAVES: THE WARE-HOUSE XL [HALLOWEEN SPECIAL] at Common Market on Fri 30 Oct, Belfast. Hardcore and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

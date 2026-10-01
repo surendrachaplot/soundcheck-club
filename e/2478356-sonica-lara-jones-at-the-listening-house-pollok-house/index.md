@@ -1,6 +1,6 @@
 # Sonica: Lara Jones at The Listening House | Pollok House
 
-Sonica: Lara Jones at The Listening House | Pollok House on Sat 3 Oct, Glasgow. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Sonica: Lara Jones at The Listening House | Pollok House on Sat 3 Oct, Glasgow. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

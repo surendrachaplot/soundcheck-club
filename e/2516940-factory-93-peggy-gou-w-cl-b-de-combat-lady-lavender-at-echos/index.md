@@ -1,6 +1,6 @@
 # Factory 93: Peggy Gou w/ Clüb De Combat, lady lavender at Echostage
 
-Factory 93: Peggy Gou w/ Clüb De Combat, lady lavender at Echostage on Fri 2 Oct, Washington DC. 2 artists on the bill: lady lavender and Peggy Gou. Techno and House. Preview the line-up and save it on soundcheck.
+Factory 93: Peggy Gou w/ Clüb De Combat, lady lavender at Echostage on Fri 2 Oct, Washington DC. 2 artists: lady lavender and Peggy Gou. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

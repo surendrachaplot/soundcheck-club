@@ -1,6 +1,6 @@
 # SurfBeatzUK Ibiza Pop Up at TBA - Pop My Cherry, San An, Ibiza
 
-SurfBeatzUK Ibiza Pop Up at TBA - Pop My Cherry, San An, Ibiza on Sat 3 Oct, Ibiza. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+SurfBeatzUK Ibiza Pop Up at TBA - Pop My Cherry, San An, Ibiza on Sat 3 Oct, Ibiza. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

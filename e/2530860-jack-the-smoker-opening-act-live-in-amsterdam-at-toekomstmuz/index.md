@@ -1,6 +1,6 @@
 # JACK THE SMOKER + OPENING ACT LIVE IN AMSTERDAM at Toekomstmuziek
 
-JACK THE SMOKER + OPENING ACT LIVE IN AMSTERDAM at Toekomstmuziek on Thu 8 Oct, Amsterdam. Hip-Hop. Preview the line-up and save it on soundcheck.
+JACK THE SMOKER + OPENING ACT LIVE IN AMSTERDAM at Toekomstmuziek on Thu 8 Oct, Amsterdam. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Sandwell District
 
-Sandwell District is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Signal, New York City on Fri, 9 Oct 2026.
+Sandwell District is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Signal, New York City on Fri, 9 Oct 2026.
 
-Sandwell District is a techno and dub techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Regis, Function and mad miran. Next up: Signal, New York City on Fri 9 Oct.
+Sandwell District is a techno and dub techno artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Regis, Function and mad miran. Next up: Signal, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sandwell District is a techno and dub techno artist based in Germany, tracked on
 
 ## Recently played
 
-- Jasna 1, Warsaw — Sat, 26 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Hamburger Bahnhof - Museum für Gegenwart, Berlin — Thu, 20 Aug 2026
-- Port del Comte, Barcelona — Fri, 24 Jul 2026
-- TBA - Brooklyn, New York City — Fri, 27 Mar 2026
-- Tresor / Globus, Berlin — Fri, 2 Jan 2026
-- Night Tales Loft, London — Thu, 11 Dec 2025
+- Jasna 1, Warsaw · Sat, 26 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Hamburger Bahnhof - Museum für Gegenwart, Berlin · Thu, 20 Aug 2026
+- Port del Comte, Barcelona · Fri, 24 Jul 2026
+- TBA - Brooklyn, New York City · Fri, 27 Mar 2026
+- Tresor / Globus, Berlin · Fri, 2 Jan 2026
+- Night Tales Loft, London · Thu, 11 Dec 2025
 
 ## Shares bills with
 

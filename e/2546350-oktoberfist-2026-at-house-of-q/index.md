@@ -1,6 +1,6 @@
 # OKTOBERFIST 2026 at House of Q
 
-OKTOBERFIST 2026 at House of Q on Sat 24 Oct, Stockholm. 4 artists on the bill: Only Fire, SXCL, The Dreamer and Wes Baggaley. Preview the line-up and save it on soundcheck.
+OKTOBERFIST 2026 at House of Q on Sat 24 Oct, Stockholm. 4 artists: Only Fire, SXCL, The Dreamer and Wes Baggaley. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

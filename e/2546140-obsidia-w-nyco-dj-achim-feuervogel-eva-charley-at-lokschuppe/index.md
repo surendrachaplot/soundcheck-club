@@ -1,6 +1,6 @@
 # OBSIDIA w / NYCO, DJ Achim Feuervogel, Eva Charley at Lokschuppen Berlin
 
-OBSIDIA w / NYCO, DJ Achim Feuervogel, Eva Charley at Lokschuppen Berlin on Sat 3 Jul, Berlin. 4 artists on the bill: DJ Achim Feuervogel, Eva Charley, NYCO (NL) and Sodabass. Preview the line-up and save it on soundcheck.
+OBSIDIA w / NYCO, DJ Achim Feuervogel, Eva Charley at Lokschuppen Berlin on Sat 3 Jul, Berlin. 4 artists: DJ Achim Feuervogel, Eva Charley, NYCO (NL) and Sodabass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

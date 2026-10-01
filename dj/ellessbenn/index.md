@@ -1,8 +1,8 @@
 # Elless & Benn
 
-Elless & Benn is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 5A, Lisbon on Sat, 31 Oct 2026.
+Elless & Benn is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 5A, Lisbon on Sat, 31 Oct 2026.
 
-Elless & Benn are a techno and electronica duo based in Portugal, tracked on soundcheck, with 55 sets logged across Lisbon and Stockholm. Often billed alongside Mary B, Guigas and Solid-Funk. Next up: 5A, Lisbon on Sat 31 Oct.
+Elless & Benn are a techno and electronica duo based in Portugal, with 55 gigs on soundcheck across Lisbon and Stockholm. Often billed alongside Mary B, Guigas and Solid-Funk. Next up: 5A, Lisbon on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Elless & Benn are a techno and electronica duo based in Portugal, tracked on sou
 
 ## Recently played
 
-- Collect LX Factory, Lisbon — Sat, 26 Sept 2026
-- Lisa, Lisbon — Sat, 12 Sept 2026
-- Ministerium Club, Lisbon — Sat, 22 Aug 2026
-- Collect LX Factory, Lisbon — Fri, 21 Aug 2026
-- Collect LX Factory, Lisbon — Sat, 25 Jul 2026
-- Collect LX Factory, Lisbon — Thu, 23 Jul 2026
-- Desterro, Lisbon — Sat, 18 Jul 2026
-- Lisa, Lisbon — Fri, 10 Jul 2026
+- Collect LX Factory, Lisbon · Sat, 26 Sept 2026
+- Lisa, Lisbon · Sat, 12 Sept 2026
+- Ministerium Club, Lisbon · Sat, 22 Aug 2026
+- Collect LX Factory, Lisbon · Fri, 21 Aug 2026
+- Collect LX Factory, Lisbon · Sat, 25 Jul 2026
+- Collect LX Factory, Lisbon · Thu, 23 Jul 2026
+- Desterro, Lisbon · Sat, 18 Jul 2026
+- Lisa, Lisbon · Fri, 10 Jul 2026
 
 ## Shares bills with
 

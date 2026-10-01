@@ -1,6 +1,6 @@
 # Movement Recordings ADE XXX Showcase at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam
 
-Movement Recordings ADE XXX Showcase at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam on Sat 24 Oct, Amsterdam. 11 artists on the bill: Aubrey Fry, Gai Barone, Hicky & Kalo and M.O.S. and 7 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Movement Recordings ADE XXX Showcase at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam on Sat 24 Oct, Amsterdam. 11 artists: Aubrey Fry, Gai Barone, Hicky & Kalo and M.O.S. and 7 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Exit Reality with Ginger, Nocturnal & sho&tell at Exit Reality
 
-Exit Reality with Ginger, Nocturnal & sho&tell on Fri 2 Oct, Singapore. 3 artists on the bill: Ginger (KR), Nocturnal (KR) and sho&tell. Techno and House. Preview the line-up and save it on soundcheck.
+Exit Reality with Ginger, Nocturnal & sho&tell on Fri 2 Oct, Singapore. 3 artists: Ginger (KR), Nocturnal (KR) and sho&tell. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Maccaroni Radio at Freedonia
 
-Maccaroni Radio at Freedonia on Sat 10 Oct, Barcelona. 3 artists on the bill: Mat Spiaggi, PAZ WAZ HERE and Telexketch. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Maccaroni Radio at Freedonia on Sat 10 Oct, Barcelona. 3 artists: Mat Spiaggi, PAZ WAZ HERE and Telexketch. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

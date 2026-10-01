@@ -1,8 +1,8 @@
 # Area Manchester
 
-Area Manchester is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "TARON Techno Manchester" on Fri, 2 Oct 2026.
+Area Manchester is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TARON Techno Manchester" on Fri, 2 Oct 2026.
 
-Area Manchester is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including D'joozt, MAD Beats and Warren Scott. Browse upcoming dates, start times and who's playing. 50 Sackville St, Manchester M1 3WF.
+Area Manchester is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including D'joozt, MAD Beats and Warren Scott. See dates, start times and who's playing. 50 Sackville St, Manchester M1 3WF.
 
 ## What's on
 

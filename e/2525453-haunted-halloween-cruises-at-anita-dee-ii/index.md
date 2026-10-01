@@ -1,6 +1,6 @@
 # HAUNTED HALLOWEEN CRUISES at Anita Dee II
 
-HAUNTED HALLOWEEN CRUISES at Anita Dee II on Fri 30 Oct, Chicago. Preview the line-up and save it on soundcheck.
+HAUNTED HALLOWEEN CRUISES at Anita Dee II on Fri 30 Oct, Chicago. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Halo Varga [ H Foundation / Muted Noise] at Do Not Sit On The Furniture
 
-Halo Varga [ H Foundation / Muted Noise] at Do Not Sit On The Furniture on Fri 20 Nov, Miami. 1 artist on the bill: Halo Varga. House and Deep House. Preview the line-up and save it on soundcheck.
+Halo Varga [ H Foundation / Muted Noise] at Do Not Sit On The Furniture on Fri 20 Nov, Miami. 1 artist: Halo Varga. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

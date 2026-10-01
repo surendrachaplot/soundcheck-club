@@ -1,6 +1,6 @@
 # GOSPELWERKZ: THE BEGINNING at TBA
 
-GOSPELWERKZ: THE BEGINNING at TBA on Sun 11 Oct, Berlin. House. Preview the line-up and save it on soundcheck.
+GOSPELWERKZ: THE BEGINNING at TBA on Sun 11 Oct, Berlin. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

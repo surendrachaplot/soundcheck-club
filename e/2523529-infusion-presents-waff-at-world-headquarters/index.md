@@ -1,6 +1,6 @@
 # Infusion presents wAFF at World Headquarters
 
-Infusion presents wAFF at World Headquarters on Sat 24 Oct, Newcastle. 1 artist on the bill: wAFF. House and Tech House. Preview the line-up and save it on soundcheck.
+Infusion presents wAFF at World Headquarters on Sat 24 Oct, Newcastle. 1 artist: wAFF. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

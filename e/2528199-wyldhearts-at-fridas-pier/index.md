@@ -1,6 +1,6 @@
 # WYLDHEARTS at Fridas Pier
 
-WYLDHEARTS at Fridas Pier on Fri 16 Oct, Stuttgart. 3 artists on the bill: BabaBass3000, DjRundfunk and Nachtwasser. Trance. Preview the line-up and save it on soundcheck.
+WYLDHEARTS at Fridas Pier on Fri 16 Oct, Stuttgart. 3 artists: BabaBass3000, DjRundfunk and Nachtwasser. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

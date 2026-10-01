@@ -1,6 +1,6 @@
 # TUCKWILD: Elly DJ, Miss Woman The Woman, De De-Lite, SLUTZ, Giovanni Luciano, DJ Delish at Bossa Nova Civic Club
 
-TUCKWILD: Elly DJ, Miss Woman The Woman, De De-Lite, SLUTZ, Giovanni Luciano, DJ Delish at Bossa Nova Civic Club on Wed 14 Oct, New York City. 3 artists on the bill: DJ Delish, Elly DJ and SLUTZ. Club. Preview the line-up and save it on soundcheck.
+TUCKWILD: Elly DJ, Miss Woman The Woman, De De-Lite, SLUTZ, Giovanni Luciano, DJ Delish at Bossa Nova Civic Club on Wed 14 Oct, New York City. 3 artists: DJ Delish, Elly DJ and SLUTZ. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

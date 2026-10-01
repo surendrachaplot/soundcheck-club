@@ -1,6 +1,6 @@
 # Night Trip LA: TOBEHONEST, Gabss B2B Moontalk, InntRaw at Academy LA
 
-Night Trip LA: TOBEHONEST, Gabss B2B Moontalk, InntRaw at Academy LA on Sat 10 Oct, Los Angeles. 1 artist on the bill: TOBEHONEST. House. Preview the line-up and save it on soundcheck.
+Night Trip LA: TOBEHONEST, Gabss B2B Moontalk, InntRaw at Academy LA on Sat 10 Oct, Los Angeles. 1 artist: TOBEHONEST. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

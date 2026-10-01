@@ -1,6 +1,6 @@
 # LOS TEKKENOS at Cross Club
 
-LOS TEKKENOS at Cross Club on Mon 5 Oct, Prague. Preview the line-up and save it on soundcheck.
+LOS TEKKENOS at Cross Club on Mon 5 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

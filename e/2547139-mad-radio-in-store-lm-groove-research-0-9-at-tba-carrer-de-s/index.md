@@ -1,6 +1,6 @@
 # Mad Radio IN-STORE: LM, Groove Research, 0.9 at TBA - Carrer de Sant Pere Més Alt, 31
 
-Mad Radio IN-STORE: LM, Groove Research, 0.9 at TBA - Carrer de Sant Pere Més Alt, 31 on Fri 2 Oct, Barcelona. 2 artists on the bill: Groove Research and LM. Tech House and Dub. Preview the line-up and save it on soundcheck.
+Mad Radio IN-STORE: LM, Groove Research, 0.9 at TBA - Carrer de Sant Pere Més Alt, 31 on Fri 2 Oct, Barcelona. 2 artists: Groove Research and LM. Tech House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

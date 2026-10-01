@@ -1,6 +1,6 @@
 # Terrakroma's POP-UP Ft. Quantaloop & Bartek Industries at TBA
 
-Terrakroma's POP-UP Ft. Quantaloop & Bartek Industries at TBA on Sun 4 Oct, Los Angeles. 5 artists on the bill: Bartek Industries, Musashi, Odalfer Daquees and Quantaloop and 1 more. Acid. Preview the line-up and save it on soundcheck.
+Terrakroma's POP-UP Ft. Quantaloop & Bartek Industries at TBA on Sun 4 Oct, Los Angeles. 5 artists: Bartek Industries, Musashi, Odalfer Daquees and Quantaloop and 1 more. Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

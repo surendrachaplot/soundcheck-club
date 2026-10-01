@@ -1,6 +1,6 @@
 # Front Street Clash at The Sound Lounge at Percy
 
-Front Street Clash at The Sound Lounge at Percy on Sat 3 Oct, Philadelphia. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+Front Street Clash at The Sound Lounge at Percy on Sat 3 Oct, Philadelphia. Dub and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

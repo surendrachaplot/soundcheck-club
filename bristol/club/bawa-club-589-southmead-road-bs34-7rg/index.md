@@ -1,8 +1,8 @@
 # Bawa Club, 589 Southmead Road, Bs34 7RG
 
-Bawa Club, 589 Southmead Road, Bs34 7RG is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Big People Dance All White Edition PT2" on Sat, 3 Oct 2026.
+Bawa Club, 589 Southmead Road, Bs34 7RG is a music venue in Bristol with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Big People Dance All White Edition PT2" on Sat, 3 Oct 2026.
 
-Bawa Club, 589 Southmead Road, Bs34 7RG is a music venue in Bristol listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 589 southmead road, BS34 7RG.
+Bawa Club, 589 Southmead Road, Bs34 7RG is a music venue in Bristol listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 589 southmead road, BS34 7RG.
 
 ## What's on
 

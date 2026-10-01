@@ -1,6 +1,6 @@
 # EARLY BIRDZ Flight 013: Airship Morning Rave @ Pluto Penthouse at Pluto
 
-EARLY BIRDZ Flight 013: Airship Morning Rave @ Pluto Penthouse on Sun 4 Oct, Los Angeles. 1 artist on the bill: NORO VIBES. House and Afro House. Preview the line-up and save it on soundcheck.
+EARLY BIRDZ Flight 013: Airship Morning Rave @ Pluto Penthouse on Sun 4 Oct, Los Angeles. 1 artist: NORO VIBES. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

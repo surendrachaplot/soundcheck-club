@@ -1,6 +1,6 @@
 # Cloud 9 Sound System (Outdoors Summer Closing Party!) at TBA - Outdoors Garden (30 Mins From Bcn)
 
-Cloud 9 Sound System (Outdoors Summer Closing Party!) at TBA - Outdoors Garden (30 Mins From Bcn) on Sat 10 Oct, Barcelona. 4 artists on the bill: Breixo Martinez, Jaayology, Pierre Antoine and Ricky Gamez. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Cloud 9 Sound System (Outdoors Summer Closing Party!) at TBA - Outdoors Garden (30 Mins From Bcn) on Sat 10 Oct, Barcelona. 4 artists: Breixo Martinez, Jaayology, Pierre Antoine and Ricky Gamez. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

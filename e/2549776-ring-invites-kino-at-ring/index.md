@@ -1,6 +1,6 @@
 # Ring invites Kino at Ring
 
-Ring invites Kino on Sat 3 Oct, Seoul. 2 artists on the bill: KINO (UY) and Minkyu. Techno and Electro. Preview the line-up and save it on soundcheck.
+Ring invites Kino on Sat 3 Oct, Seoul. 2 artists: KINO (UY) and Minkyu. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

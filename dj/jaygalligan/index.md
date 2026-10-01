@@ -1,8 +1,8 @@
 # Jay Galligan
 
-Jay Galligan is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+Jay Galligan is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
-Jay Galligan is a techno and electro artist based in Ireland, tracked on soundcheck, with 16 sets logged across Bristol, Cork, Dublin and London and 2 more. Often billed alongside Ario, Lynne and RS Tangent. Next up: Bonobo, Tokyo on Sat 3 Oct.
+Jay Galligan is a techno and electro artist based in Ireland, with 16 gigs on soundcheck across Bristol, Cork, Dublin and London and 2 more. Often billed alongside Ario, Lynne and RS Tangent. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Jay Galligan is a techno and electro artist based in Ireland, tracked on soundch
 
 ## Recently played
 
-- Cosies, Bristol — Fri, 25 Sept 2026
-- The Island, Bristol — Sat, 12 Sept 2026
-- FOLD, London — Sat, 15 Aug 2026
-- vurt., Seoul — Sat, 11 Jul 2026
-- Sherkin Island, Cork — Thu, 28 May 2026
-- The Island, Bristol — Fri, 17 Apr 2026
-- The Love Inn, Bristol — Thu, 5 Mar 2026
-- Strange Brew, Bristol — Fri, 19 Dec 2025
+- Cosies, Bristol · Fri, 25 Sept 2026
+- The Island, Bristol · Sat, 12 Sept 2026
+- FOLD, London · Sat, 15 Aug 2026
+- vurt., Seoul · Sat, 11 Jul 2026
+- Sherkin Island, Cork · Thu, 28 May 2026
+- The Island, Bristol · Fri, 17 Apr 2026
+- The Love Inn, Bristol · Thu, 5 Mar 2026
+- Strange Brew, Bristol · Fri, 19 Dec 2025
 
 ## Shares bills with
 

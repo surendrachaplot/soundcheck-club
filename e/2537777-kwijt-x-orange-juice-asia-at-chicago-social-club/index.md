@@ -1,6 +1,6 @@
 # KWIJT x Orange Juice Asia at Chicago Social Club
 
-KWIJT x Orange Juice Asia at Chicago Social Club on Fri 23 Oct, Amsterdam. Club. Preview the line-up and save it on soundcheck.
+KWIJT x Orange Juice Asia at Chicago Social Club on Fri 23 Oct, Amsterdam. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

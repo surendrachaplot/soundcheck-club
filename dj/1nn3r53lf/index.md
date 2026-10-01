@@ -1,8 +1,8 @@
 # 1NN3R53LF
 
-1NN3R53LF is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Revolver Upstairs, Melbourne on Fri, 9 Oct 2026.
+1NN3R53LF is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Revolver Upstairs, Melbourne on Fri, 9 Oct 2026.
 
-1NN3R53LF is a club and techno artist based in Australia, tracked on soundcheck, with 7 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Doss, Ninajirachi and AKEYLAH. Next up: Revolver Upstairs, Melbourne on Fri 9 Oct.
+1NN3R53LF is a club and techno artist based in Australia, with 7 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Doss, Ninajirachi and AKEYLAH. Next up: Revolver Upstairs, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@
 
 ## Recently played
 
-- Xe54, Melbourne — Sat, 22 Feb 2025
-- Xe54, Melbourne — Sat, 2 Nov 2024
-- Factory Theatre, Sydney — Sat, 1 Jun 2024
-- Max Watt's, Melbourne — Fri, 31 May 2024
-- The Brightside, Brisbane — Thu, 30 May 2024
-- Inception Boat, Sydney — Sat, 20 Jan 2024
+- Xe54, Melbourne · Sat, 22 Feb 2025
+- Xe54, Melbourne · Sat, 2 Nov 2024
+- Factory Theatre, Sydney · Sat, 1 Jun 2024
+- Max Watt's, Melbourne · Fri, 31 May 2024
+- The Brightside, Brisbane · Thu, 30 May 2024
+- Inception Boat, Sydney · Sat, 20 Jan 2024
 
 ## Shares bills with
 

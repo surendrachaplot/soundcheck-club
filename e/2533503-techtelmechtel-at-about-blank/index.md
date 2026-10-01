@@ -1,6 +1,6 @@
 # techtelmechtel at ://about blank
 
-techtelmechtel at ://about blank on Fri 27 Nov, Berlin. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+techtelmechtel at ://about blank on Fri 27 Nov, Berlin. Trance and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

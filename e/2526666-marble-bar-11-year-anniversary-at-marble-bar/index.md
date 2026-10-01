@@ -1,6 +1,6 @@
 # Marble Bar 11 Year Anniversary at Marble Bar
 
-Marble Bar 11 Year Anniversary on Sat 3 Oct, Detroit. 7 artists on the bill: A Guy Called Gerald, Black Rave Culture, Glenn Underground and Huey Mnemonic and 3 more. Preview the line-up and save it on soundcheck.
+Marble Bar 11 Year Anniversary on Sat 3 Oct, Detroit. 7 artists: A Guy Called Gerald, Black Rave Culture, Glenn Underground and Huey Mnemonic and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

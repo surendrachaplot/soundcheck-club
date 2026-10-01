@@ -1,6 +1,6 @@
 # Saturday Stoked&stoned at Stoked&stoned
 
-Saturday Stoked&stoned on Sat 3 Oct, Seoul. 4 artists on the bill: bumv, Coolrnch, Haemin Kim and Sebibadboy. Techno and House. Preview the line-up and save it on soundcheck.
+Saturday Stoked&stoned on Sat 3 Oct, Seoul. 4 artists: bumv, Coolrnch, Haemin Kim and Sebibadboy. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

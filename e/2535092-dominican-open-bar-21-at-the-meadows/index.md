@@ -1,6 +1,6 @@
 # DOMINICAN OPEN BAR (21+) at The Meadows
 
-DOMINICAN OPEN BAR (21+) at The Meadows on Fri 9 Oct, New York City. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+DOMINICAN OPEN BAR (21+) at The Meadows on Fri 9 Oct, New York City. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

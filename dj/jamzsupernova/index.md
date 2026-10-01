@@ -1,8 +1,8 @@
 # Jamz Supernova
 
-Jamz Supernova is a House and Funk / Soul artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at QUIVR, Brisbane on Fri, 2 Oct 2026.
+Jamz Supernova is a House and Funk / Soul artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at QUIVR, Brisbane on Fri, 2 Oct 2026.
 
-Jamz Supernova is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Tash LC, Ezra Collective and Gilles Peterson. Next up: QUIVR, Brisbane on Fri 2 Oct.
+Jamz Supernova is a house and funk / soul artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 24 more. Often billed alongside Tash LC, Ezra Collective and Gilles Peterson. Next up: QUIVR, Brisbane on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Jamz Supernova is a house and funk / soul artist based in United Kingdom, tracke
 
 ## Recently played
 
-- Various Venues, London — Thu, 24 Sept 2026
-- Dahlia Stereo, Manchester — Thu, 24 Sept 2026
-- Colour Factory, London — Thu, 17 Sept 2026
-- Hackney Bridge, London — Sat, 29 Aug 2026
-- The Downs, Bristol, Bristol — Sat, 29 Aug 2026
-- SWG3, Glasgow — Sun, 26 Jul 2026
-- Jumbi, London — Sat, 18 Jul 2026
-- Queen Elizabeth Olympic Park, London — Sat, 11 Jul 2026
+- Various Venues, London · Thu, 24 Sept 2026
+- Dahlia Stereo, Manchester · Thu, 24 Sept 2026
+- Colour Factory, London · Thu, 17 Sept 2026
+- Hackney Bridge, London · Sat, 29 Aug 2026
+- The Downs, Bristol, Bristol · Sat, 29 Aug 2026
+- SWG3, Glasgow · Sun, 26 Jul 2026
+- Jumbi, London · Sat, 18 Jul 2026
+- Queen Elizabeth Olympic Park, London · Sat, 11 Jul 2026
 
 ## Shares bills with
 

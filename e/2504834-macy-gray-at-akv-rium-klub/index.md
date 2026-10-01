@@ -1,6 +1,6 @@
 # Macy Gray at Akvárium Klub
 
-Macy Gray at Akvárium Klub on Mon 30 Nov, Budapest. R&B. Preview the line-up and save it on soundcheck.
+Macy Gray at Akvárium Klub on Mon 30 Nov, Budapest. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

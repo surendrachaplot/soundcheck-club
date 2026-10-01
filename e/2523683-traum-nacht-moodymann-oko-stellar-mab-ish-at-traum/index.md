@@ -1,6 +1,6 @@
 # Traum Nacht: Moodymann, Oko Stellar, Mab'ish at TRAUM
 
-Traum Nacht: Moodymann, Oko Stellar, Mab'ish at TRAUM on Fri 9 Oct, Antwerp. 3 artists on the bill: Mab'ish, Moodymann and Oko Stellar. House. Preview the line-up and save it on soundcheck.
+Traum Nacht: Moodymann, Oko Stellar, Mab'ish at TRAUM on Fri 9 Oct, Antwerp. 3 artists: Mab'ish, Moodymann and Oko Stellar. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Fideles: TORONTO at Demo Room
 
-Fideles: TORONTO at Demo Room on Sat 7 Nov, Toronto. 1 artist on the bill: Fideles. Techno and Afro House. Preview the line-up and save it on soundcheck.
+Fideles: TORONTO at Demo Room on Sat 7 Nov, Toronto. 1 artist: Fideles. Techno and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

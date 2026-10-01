@@ -1,8 +1,8 @@
 # alterum
 
-alterum is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gorilla, Manchester on Sat, 24 Oct 2026.
+alterum is a Hardcore and Gabber artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gorilla, Manchester on Sat, 24 Oct 2026.
 
-alterum is a hardcore and gabber artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Berlin, Birmingham, Brighton and Bristol and 6 more. Often billed alongside 3DMA, pissxie and Holly Warcup. Next up: Gorilla, Manchester on Sat 24 Oct.
+alterum is a hardcore and gabber artist based in United Kingdom, with 63 gigs on soundcheck across Berlin, Birmingham, Brighton and Bristol and 6 more. Often billed alongside 3DMA, pissxie and Holly Warcup. Next up: Gorilla, Manchester on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ alterum is a hardcore and gabber artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- The Drop inn, Birmingham — Sat, 26 Sept 2026
-- Plot 22, Sheffield — Fri, 18 Sept 2026
-- Club360, London — Fri, 11 Sept 2026
-- Vauxhall Arches, London — Fri, 31 Jul 2026
-- M.O.T, London — Fri, 24 Jul 2026
-- Arts Club, Liverpool — Fri, 17 Jul 2026
-- Arts Club, Liverpool — Fri, 17 Jul 2026
-- Volks, Brighton — Fri, 3 Jul 2026
+- The Drop inn, Birmingham · Sat, 26 Sept 2026
+- Plot 22, Sheffield · Fri, 18 Sept 2026
+- Club360, London · Fri, 11 Sept 2026
+- Vauxhall Arches, London · Fri, 31 Jul 2026
+- M.O.T, London · Fri, 24 Jul 2026
+- Arts Club, Liverpool · Fri, 17 Jul 2026
+- Arts Club, Liverpool · Fri, 17 Jul 2026
+- Volks, Brighton · Fri, 3 Jul 2026
 
 ## Shares bills with
 

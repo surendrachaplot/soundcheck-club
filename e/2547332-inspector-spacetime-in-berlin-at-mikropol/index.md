@@ -1,6 +1,6 @@
 # Inspector Spacetime in Berlin at Mikropol
 
-Inspector Spacetime in Berlin at Mikropol on Fri 9 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Inspector Spacetime in Berlin at Mikropol on Fri 9 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

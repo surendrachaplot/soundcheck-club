@@ -1,6 +1,6 @@
 # NightVision at Kulturlounge
 
-NightVision at Kulturlounge on Fri 27 Nov, Leipzig. Techno. Preview the line-up and save it on soundcheck.
+NightVision at Kulturlounge on Fri 27 Nov, Leipzig. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dan Molinari at Old Savings Bank
 
-Dan Molinari at Old Savings Bank on Sat 31 Oct, New York City. House. Preview the line-up and save it on soundcheck.
+Dan Molinari at Old Savings Bank on Sat 31 Oct, New York City. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

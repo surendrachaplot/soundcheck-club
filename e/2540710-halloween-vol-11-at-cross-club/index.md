@@ -1,6 +1,6 @@
 # HALLOWEEN Vol. 11 at Cross Club
 
-HALLOWEEN Vol. 11 at Cross Club on Sat 24 Oct, Prague. Preview the line-up and save it on soundcheck.
+HALLOWEEN Vol. 11 at Cross Club on Sat 24 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

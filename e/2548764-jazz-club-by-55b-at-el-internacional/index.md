@@ -1,6 +1,6 @@
 # Jazz Club by 55b at El Internacional
 
-Jazz Club by 55b at El Internacional on Thu 1 Oct, Madrid. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Jazz Club by 55b at El Internacional on Thu 1 Oct, Madrid. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

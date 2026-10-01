@@ -1,6 +1,6 @@
 # AWRB AFTERHOURS X SOLASTA SESSIONS at Nicensleazy
 
-AWRB AFTERHOURS X SOLASTA SESSIONS at Nicensleazy on Thu 26 Nov, Glasgow. House. Preview the line-up and save it on soundcheck.
+AWRB AFTERHOURS X SOLASTA SESSIONS at Nicensleazy on Thu 26 Nov, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

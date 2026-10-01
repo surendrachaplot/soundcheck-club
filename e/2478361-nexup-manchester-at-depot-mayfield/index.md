@@ -1,6 +1,6 @@
 # NeXup, Manchester at Depot Mayfield
 
-NeXup, Manchester at Depot Mayfield on Sat 31 Oct, Manchester. House and Tech House. Preview the line-up and save it on soundcheck.
+NeXup, Manchester at Depot Mayfield on Sat 31 Oct, Manchester. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

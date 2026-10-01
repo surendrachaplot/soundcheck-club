@@ -1,6 +1,6 @@
 # Subverted x Mutant Modality at TBA - Secret Location
 
-Subverted x Mutant Modality at TBA - Secret Location on Fri 27 Nov, Berlin. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Subverted x Mutant Modality at TBA - Secret Location on Fri 27 Nov, Berlin. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

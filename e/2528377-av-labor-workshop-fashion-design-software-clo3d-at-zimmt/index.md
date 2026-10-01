@@ -1,6 +1,6 @@
 # AV- Labor (Workshop Fashion Design Software Clo3D) at ZiMMT
 
-AV- Labor (Workshop Fashion Design Software Clo3D) at ZiMMT on Mon 5 Oct, Leipzig. Preview the line-up and save it on soundcheck.
+AV- Labor (Workshop Fashion Design Software Clo3D) at ZiMMT on Mon 5 Oct, Leipzig. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

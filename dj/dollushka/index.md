@@ -1,8 +1,8 @@
 # Dollushka
 
-Dollushka is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
+Dollushka is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed, 30 Dec 2026.
 
-Dollushka is a techno and house artist tracked on soundcheck, with 20 sets logged across Berlin and Vienna. Often billed alongside GEN97, LARSUS and ZELIA. Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
+Dollushka is a techno and trance artist, with 20 gigs on soundcheck across Berlin and Vienna. Often billed alongside GEN97, LARSUS and ZELIA. Next up: RAW- Lokschuppen + Astra Kulturhaus, Berlin on Wed 30 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dollushka is a techno and house artist tracked on soundcheck, with 20 sets logge
 
 ## Recently played
 
-- OST, Berlin — Sat, 5 Sept 2026
-- ÆDEN, Berlin — Fri, 31 Jul 2026
-- OST, Berlin — Fri, 12 Jun 2026
-- ÆDEN, Berlin — Sat, 30 May 2026
-- Aktionshaus, Berlin — Sat, 30 May 2026
-- ÆDEN, Berlin — Wed, 13 May 2026
-- ÆDEN, Berlin — Fri, 1 May 2026
-- ÆDEN, Berlin — Sun, 5 Apr 2026
+- OST, Berlin · Sat, 5 Sept 2026
+- ÆDEN, Berlin · Fri, 31 Jul 2026
+- OST, Berlin · Fri, 12 Jun 2026
+- ÆDEN, Berlin · Sat, 30 May 2026
+- Aktionshaus, Berlin · Sat, 30 May 2026
+- ÆDEN, Berlin · Wed, 13 May 2026
+- ÆDEN, Berlin · Fri, 1 May 2026
+- ÆDEN, Berlin · Sun, 5 Apr 2026
 
 ## Shares bills with
 

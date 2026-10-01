@@ -1,8 +1,8 @@
 # Carabetta
 
-Carabetta is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
+Carabetta is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Oosterbar, Amsterdam on Thu, 22 Oct 2026.
 
-Carabetta is a tech house and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Amsterdam, Boston and Toronto. Often billed alongside Carlo Lio, Manzone & Strong and Tyler Hill. Next up: Oosterbar, Amsterdam on Thu 22 Oct.
+Carabetta is a tech house and house artist based in United States of America, with 7 gigs on soundcheck across Amsterdam, Boston and Toronto. Often billed alongside Carlo Lio, Manzone & Strong and Tyler Hill. Next up: Oosterbar, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Carabetta is a tech house and house artist based in United States of America, tr
 
 ## Recently played
 
-- Wiggle Room, Toronto — Fri, 21 Aug 2026
-- Wiggle Room, Toronto — Sun, 8 Feb 2026
-- Wiggle Room, Toronto — Sat, 23 Aug 2025
-- Wiggle Room, Toronto — Sun, 9 Feb 2025
-- The Comfort Zone, Toronto — Sat, 21 Dec 2024
-- Dx, Boston — Sat, 4 May 2024
+- Wiggle Room, Toronto · Fri, 21 Aug 2026
+- Wiggle Room, Toronto · Sun, 8 Feb 2026
+- Wiggle Room, Toronto · Sat, 23 Aug 2025
+- Wiggle Room, Toronto · Sun, 9 Feb 2025
+- The Comfort Zone, Toronto · Sat, 21 Dec 2024
+- Dx, Boston · Sat, 4 May 2024
 
 ## Shares bills with
 

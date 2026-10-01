@@ -1,6 +1,6 @@
 # OKTOBERFAST Festival at Department 184
 
-OKTOBERFAST Festival at Department 184 on Fri 9 Oct, Milan. Preview the line-up and save it on soundcheck.
+OKTOBERFAST Festival at Department 184 on Fri 9 Oct, Milan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

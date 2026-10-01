@@ -1,6 +1,6 @@
 # Open mic at Labüsch-Bar, Winterthur
 
-Open mic at Labüsch-Bar, Winterthur on Thu 22 Oct, Zurich. House and R&B. Preview the line-up and save it on soundcheck.
+Open mic at Labüsch-Bar, Winterthur on Thu 22 Oct, Zurich. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CACAO at Basement (Amsterdam)
 
-CACAO at Basement (Amsterdam) on Sun 25 Oct, Amsterdam. 3 artists on the bill: Anthony Godfather, Rayzir and TWENTY SIX. House and Tech House. Preview the line-up and save it on soundcheck.
+CACAO at Basement (Amsterdam) on Sun 25 Oct, Amsterdam. 3 artists: Anthony Godfather, Rayzir and TWENTY SIX. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

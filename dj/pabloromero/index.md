@@ -1,8 +1,8 @@
 # Pablo Romero
 
-Pablo Romero is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Outer Heaven, New York City on Thu, 1 Oct 2026.
+Pablo Romero is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outer Heaven, New York City on Thu, 1 Oct 2026.
 
-Pablo Romero is a house and techno artist based in United States of America, tracked on soundcheck, with 133 sets logged across Amsterdam, Boston, Colombia and Frankfurt and 8 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: Outer Heaven, New York City on Thu 1 Oct.
+Pablo Romero is a house and techno artist based in United States of America, with 133 gigs on soundcheck across Amsterdam, Boston, Colombia and Frankfurt and 8 more. Often billed alongside Daniel Dutts, Jean-Paul and mink. Next up: Outer Heaven, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Pablo Romero is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
-- Bossa Nova Civic Club, New York City — Mon, 21 Sept 2026
-- MAD Radio NYC, New York City — Fri, 18 Sept 2026
-- H0L0, New York City — Thu, 10 Sept 2026
-- Outer Heaven, New York City — Wed, 9 Sept 2026
-- Roof Terrace BK, New York City — Fri, 4 Sept 2026
-- Roof Terrace BK, New York City — Fri, 4 Sept 2026
-- Signal, New York City — Thu, 3 Sept 2026
-- Roof Terrace BK, New York City — Sun, 30 Aug 2026
+- Bossa Nova Civic Club, New York City · Mon, 21 Sept 2026
+- MAD Radio NYC, New York City · Fri, 18 Sept 2026
+- H0L0, New York City · Thu, 10 Sept 2026
+- Outer Heaven, New York City · Wed, 9 Sept 2026
+- Roof Terrace BK, New York City · Fri, 4 Sept 2026
+- Roof Terrace BK, New York City · Fri, 4 Sept 2026
+- Signal, New York City · Thu, 3 Sept 2026
+- Roof Terrace BK, New York City · Sun, 30 Aug 2026
 
 ## Shares bills with
 

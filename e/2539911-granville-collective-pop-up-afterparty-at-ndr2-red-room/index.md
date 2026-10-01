@@ -1,6 +1,6 @@
 # Granville Collective - Pop-up + Afterparty at NDR2 Red Room
 
-Granville Collective - Pop-up + Afterparty at NDR2 Red Room on Fri 16 Oct, Newcastle. 3 artists on the bill: JYE., LEN. and Tempz. Electro and Downtempo. Preview the line-up and save it on soundcheck.
+Granville Collective - Pop-up + Afterparty at NDR2 Red Room on Fri 16 Oct, Newcastle. 3 artists: JYE., LEN. and Tempz. Electro and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

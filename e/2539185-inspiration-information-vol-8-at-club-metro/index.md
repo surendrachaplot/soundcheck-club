@@ -1,6 +1,6 @@
 # INSPIRATION INFORMATION Vol.8 at Club Metro
 
-INSPIRATION INFORMATION Vol.8 at Club Metro on Thu 8 Oct, Kyoto. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
+INSPIRATION INFORMATION Vol.8 at Club Metro on Thu 8 Oct, Kyoto. Hip-Hop and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Vera Moro
 
-Vera Moro is a Techno and Latin Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at C12, Brussels on Sat, 17 Oct 2026.
+Vera Moro is a Techno and Latin Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at C12, Brussels on Sat, 17 Oct 2026.
 
-Vera Moro is a techno and latin bass artist based in Belgium, tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside NMSS, Stanislawa and Ricky Corazón. Next up: C12, Brussels on Sat 17 Oct.
+Vera Moro is a techno and latin bass artist based in Belgium, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 12 more. Often billed alongside NMSS, Stanislawa and Ricky Corazón. Next up: C12, Brussels on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Vera Moro is a techno and latin bass artist based in Belgium, tracked on soundch
 
 ## Recently played
 
-- Les Halles de Schaerbeek, Brussels — Sat, 26 Sept 2026
-- Circle Park, Brussels — Sun, 20 Sept 2026
-- Virage, Paris — Fri, 7 Aug 2026
-- Lavallée, Brussels — Fri, 24 Jul 2026
-- La Gravière, Geneva — Fri, 17 Jul 2026
-- TBA - 140b rue de Stalle, bâtiment D, Brussels, Belgium 1180 Uccle, Brussels — Thu, 9 Jul 2026
-- Quai D'été - Zomerkaai, Brussels — Tue, 7 Jul 2026
-- Helios37, Cologne — Sat, 4 Jul 2026
+- Les Halles de Schaerbeek, Brussels · Sat, 26 Sept 2026
+- Circle Park, Brussels · Sun, 20 Sept 2026
+- Virage, Paris · Fri, 7 Aug 2026
+- Lavallée, Brussels · Fri, 24 Jul 2026
+- La Gravière, Geneva · Fri, 17 Jul 2026
+- TBA - 140b rue de Stalle, bâtiment D, Brussels, Belgium 1180 Uccle, Brussels · Thu, 9 Jul 2026
+- Quai D'été - Zomerkaai, Brussels · Tue, 7 Jul 2026
+- Helios37, Cologne · Sat, 4 Jul 2026
 
 ## Shares bills with
 

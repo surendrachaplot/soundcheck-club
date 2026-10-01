@@ -1,6 +1,6 @@
 # Elysium x Adam Riese Frankfurt with MR TECHNO & BISHALBACHT at Adam Riese
 
-Elysium x Adam Riese Frankfurt with MR TECHNO & BISHALBACHT on Fri 9 Oct, Frankfurt. 2 artists on the bill: ADAN and Calamity. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Elysium x Adam Riese Frankfurt with MR TECHNO & BISHALBACHT on Fri 9 Oct, Frankfurt. 2 artists: ADAN and Calamity. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

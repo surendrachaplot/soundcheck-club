@@ -1,6 +1,6 @@
 # EDUCAZIONE TECHNO SESSUALE: LA NOTTE DELLE ANIME VIVE at Tempio del Futuro Perduto
 
-EDUCAZIONE TECHNO SESSUALE: LA NOTTE DELLE ANIME VIVE at Tempio del Futuro Perduto on Sat 31 Oct, Milan. Preview the line-up and save it on soundcheck.
+EDUCAZIONE TECHNO SESSUALE: LA NOTTE DELLE ANIME VIVE at Tempio del Futuro Perduto on Sat 31 Oct, Milan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Umor Rex Showcase: XX Aniversario at CHICO
 
-Umor Rex Showcase: XX Aniversario at CHICO on Fri 13 Nov, Mexico City. 2 artists on the bill: Concepción Huerta and Sol Oosel. Preview the line-up and save it on soundcheck.
+Umor Rex Showcase: XX Aniversario at CHICO on Fri 13 Nov, Mexico City. 2 artists: Concepción Huerta and Sol Oosel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DIEGO SAN DIEGO
 
-DIEGO SAN DIEGO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chinois Ibiza, Ibiza on Sat, 3 Oct 2026.
+DIEGO SAN DIEGO is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chinois Ibiza, Ibiza on Sat, 3 Oct 2026.
 
-DIEGO SAN DIEGO is a house and tech house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin, Düsseldorf, Hamburg and Ibiza and 3 more. Often billed alongside Claptone, Nora En Pure and Dimitri From Paris. Next up: Chinois Ibiza, Ibiza on Sat 3 Oct.
+DIEGO SAN DIEGO is a house and tech house artist based in Germany, with 19 gigs on soundcheck across Berlin, Düsseldorf, Hamburg and Ibiza and 3 more. Often billed alongside Claptone, Nora En Pure and Dimitri From Paris. Next up: Chinois Ibiza, Ibiza on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DIEGO SAN DIEGO is a house and tech house artist based in Germany, tracked on so
 
 ## Recently played
 
-- Chinois Ibiza, Ibiza — Sat, 27 Jun 2026
-- Chinois Ibiza, Ibiza — Sat, 30 May 2026
-- SAGE, Berlin — Sat, 16 May 2026
-- Docks, Hamburg — Fri, 8 May 2026
-- Exhibition London, London — Sat, 2 May 2026
-- Roxy, Prague — Fri, 17 Apr 2026
-- Chinois Ibiza, Ibiza — Sat, 27 Sept 2025
-- Chinois Ibiza, Ibiza — Sat, 20 Sept 2025
+- Chinois Ibiza, Ibiza · Sat, 27 Jun 2026
+- Chinois Ibiza, Ibiza · Sat, 30 May 2026
+- SAGE, Berlin · Sat, 16 May 2026
+- Docks, Hamburg · Fri, 8 May 2026
+- Exhibition London, London · Sat, 2 May 2026
+- Roxy, Prague · Fri, 17 Apr 2026
+- Chinois Ibiza, Ibiza · Sat, 27 Sept 2025
+- Chinois Ibiza, Ibiza · Sat, 20 Sept 2025
 
 ## Shares bills with
 

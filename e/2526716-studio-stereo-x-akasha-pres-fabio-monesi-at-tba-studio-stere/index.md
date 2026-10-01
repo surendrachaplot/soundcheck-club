@@ -1,6 +1,6 @@
 # Studio Stereo x Akasha pres. Fabio Monesi at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Akasha pres. Fabio Monesi at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 10 Oct, Barcelona. 2 artists on the bill: Fabio Monesi and Mati Espina. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Akasha pres. Fabio Monesi at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 10 Oct, Barcelona. 2 artists: Fabio Monesi and Mati Espina. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

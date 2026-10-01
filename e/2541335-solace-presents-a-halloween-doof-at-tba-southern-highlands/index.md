@@ -1,6 +1,6 @@
 # Solace Presents: A Halloween Doof at TBA - Southern Highlands
 
-Solace Presents: A Halloween Doof at TBA - Southern Highlands on Sat 31 Oct, Sydney. Techno. Preview the line-up and save it on soundcheck.
+Solace Presents: A Halloween Doof at TBA - Southern Highlands on Sat 31 Oct, Sydney. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Plaaaato LIVE at Hydrozagadka
 
-Plaaaato LIVE at Hydrozagadka on Sat 17 Oct, Warsaw. New Wave and Noise. Preview the line-up and save it on soundcheck.
+Plaaaato LIVE at Hydrozagadka on Sat 17 Oct, Warsaw. New Wave and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

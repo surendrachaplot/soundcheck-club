@@ -1,6 +1,6 @@
 # Momentous Music & Arts Festival at The Momentary
 
-Momentous Music & Arts Festival at The Momentary on Fri 6 Nov, Arkansas. 9 artists on the bill: ANTIMATTER, Channel Tres, Cut Copy and Hiroko Yamamura and 5 more. Preview the line-up and save it on soundcheck.
+Momentous Music & Arts Festival at The Momentary on Fri 6 Nov, Arkansas. 9 artists: ANTIMATTER, Channel Tres, Cut Copy and Hiroko Yamamura and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

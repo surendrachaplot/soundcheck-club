@@ -1,6 +1,6 @@
 # Max Styler + CALLIOPE at Volt Club Milano
 
-Max Styler + CALLIOPE at Volt Club Milano on Thu 22 Oct, Milan. 1 artist on the bill: Max Styler. Techno and House. Preview the line-up and save it on soundcheck.
+Max Styler + CALLIOPE at Volt Club Milano on Thu 22 Oct, Milan. 1 artist: Max Styler. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

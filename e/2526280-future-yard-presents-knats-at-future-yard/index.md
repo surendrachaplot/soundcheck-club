@@ -1,6 +1,6 @@
 # Future Yard presents Knats at Future Yard
 
-Future Yard presents Knats on Sat 21 Nov, Liverpool. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+Future Yard presents Knats on Sat 21 Nov, Liverpool. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

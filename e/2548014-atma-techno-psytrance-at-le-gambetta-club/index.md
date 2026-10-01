@@ -1,6 +1,6 @@
 # ATMA - TECHNO · PSYTRANCE at Le Gambetta Club
 
-ATMA - TECHNO · PSYTRANCE at Le Gambetta Club on Fri 16 Oct, Paris. 2 artists on the bill: AFLOT and Gredine. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+ATMA - TECHNO · PSYTRANCE at Le Gambetta Club on Fri 16 Oct, Paris. 2 artists: AFLOT and Gredine. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

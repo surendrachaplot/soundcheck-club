@@ -1,8 +1,8 @@
 # jojoj
 
-jojoj is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Laak, The Hague on Fri, 2 Oct 2026.
+jojoj is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Laak, The Hague on Fri, 2 Oct 2026.
 
-jojoj is a techno and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Paris and The Hague. Often billed alongside 751, Amaliah and BASHKKA. Next up: Laak, The Hague on Fri 2 Oct.
+jojoj is a techno and house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Paris and The Hague. Often billed alongside 751, Amaliah and BASHKKA. Next up: Laak, The Hague on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ jojoj is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 ## Recently played
 
-- Dokzaal, Amsterdam — Sat, 9 May 2026
-- Café Katoen, Amsterdam — Thu, 26 Feb 2026
-- Laak, The Hague — Thu, 1 Jan 2026
-- PIP Den Haag, The Hague — Sat, 15 Nov 2025
-- PIP Den Haag, The Hague — Sat, 27 Sept 2025
-- Doka, Amsterdam — Fri, 20 Dec 2024
-- La Péniche Cinéma, Paris — Sun, 10 Mar 2024
+- Dokzaal, Amsterdam · Sat, 9 May 2026
+- Café Katoen, Amsterdam · Thu, 26 Feb 2026
+- Laak, The Hague · Thu, 1 Jan 2026
+- PIP Den Haag, The Hague · Sat, 15 Nov 2025
+- PIP Den Haag, The Hague · Sat, 27 Sept 2025
+- Doka, Amsterdam · Fri, 20 Dec 2024
+- La Péniche Cinéma, Paris · Sun, 10 Mar 2024
 
 ## Shares bills with
 

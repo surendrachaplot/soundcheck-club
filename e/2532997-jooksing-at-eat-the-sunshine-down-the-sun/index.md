@@ -1,6 +1,6 @@
 # JOOKSING at Eat the Sunshine Down the Sun
 
-JOOKSING at Eat the Sunshine Down the Sun on Thu 12 Nov, London. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+JOOKSING at Eat the Sunshine Down the Sun on Thu 12 Nov, London. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WHALES: DANGEROUS WATERS TOUR at Elektricity
 
-WHALES: DANGEROUS WATERS TOUR at Elektricity on Sat 21 Nov, Detroit. Dubstep. Preview the line-up and save it on soundcheck.
+WHALES: DANGEROUS WATERS TOUR at Elektricity on Sat 21 Nov, Detroit. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

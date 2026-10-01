@@ -1,6 +1,6 @@
 # Curated Listening Tour of with Femke Dekker at The Listening House | Pollok House
 
-Curated Listening Tour of with Femke Dekker at The Listening House | Pollok House on Sat 3 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+Curated Listening Tour of with Femke Dekker at The Listening House | Pollok House on Sat 3 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

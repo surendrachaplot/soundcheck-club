@@ -1,6 +1,6 @@
 # HIDEOUT SOCIAL CLUB #26 || TCBRX x SAYURI x Tuchowsky at Smolna
 
-HIDEOUT SOCIAL CLUB #26 || TCBRX x SAYURI x Tuchowsky at Smolna on Wed 7 Oct, Warsaw. 2 artists on the bill: Sayuri and Tuchowsky. House and Tech House. Preview the line-up and save it on soundcheck.
+HIDEOUT SOCIAL CLUB #26 || TCBRX x SAYURI x Tuchowsky at Smolna on Wed 7 Oct, Warsaw. 2 artists: Sayuri and Tuchowsky. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

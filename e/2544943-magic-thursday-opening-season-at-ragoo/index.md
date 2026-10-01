@@ -1,6 +1,6 @@
 # MAGIC THURSDAY - OPENING SEASON at Ragoo
 
-MAGIC THURSDAY - OPENING SEASON at Ragoo on Thu 22 Oct, Milan. 2 artists on the bill: HYLO (IT) and Y-DAPT. House. Preview the line-up and save it on soundcheck.
+MAGIC THURSDAY - OPENING SEASON at Ragoo on Thu 22 Oct, Milan. 2 artists: HYLO (IT) and Y-DAPT. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

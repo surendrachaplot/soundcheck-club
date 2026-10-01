@@ -1,8 +1,8 @@
 # Dimanté
 
-Dimanté is a Techno and Progressive House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Dear Darling, London on Fri, 2 Oct 2026.
+Dimanté is a Techno and Progressive House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dear Darling, London on Fri, 2 Oct 2026.
 
-Dimanté is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Moonz, Any Koh and Picep. Next up: Dear Darling, London on Fri 2 Oct.
+Dimanté is a techno and progressive house artist based in Ukraine, with 11 gigs on soundcheck across London. Often billed alongside Moonz, Any Koh and Picep. Next up: Dear Darling, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,13 +15,13 @@ Dimanté is a techno and progressive house artist based in Ukraine, tracked on s
 
 ## Recently played
 
-- Dalston Den, London — Sat, 26 Sept 2026
-- The Cross, London — Fri, 25 Sept 2026
-- Brixton Radio, London — Sat, 19 Sept 2026
-- TBA - EAST LONDON - Announced to ticket holders on the day, London — Fri, 18 Sept 2026
-- Union Club, Vauxhall, London — Fri, 4 Sept 2026
-- Mimosa, London — Sat, 22 Aug 2026
-- TBA - EAST LONDON - Announced to ticket holders on the day, London — Fri, 7 Aug 2026
+- Dalston Den, London · Sat, 26 Sept 2026
+- The Cross, London · Fri, 25 Sept 2026
+- Brixton Radio, London · Sat, 19 Sept 2026
+- TBA - EAST LONDON - Announced to ticket holders on the day, London · Fri, 18 Sept 2026
+- Union Club, Vauxhall, London · Fri, 4 Sept 2026
+- Mimosa, London · Sat, 22 Aug 2026
+- TBA - EAST LONDON - Announced to ticket holders on the day, London · Fri, 7 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # UNSHAMED Kinky Rave with MARC DEAL, SPAM, FRANK LEDER, Timeless Moments at Club Frau Holle
 
-UNSHAMED Kinky Rave with MARC DEAL, SPAM, FRANK LEDER, Timeless Moments at Club Frau Holle on Fri 2 Oct, Hamburg. 2 artists on the bill: 18+ and Timeless Moments. Techno and House. Preview the line-up and save it on soundcheck.
+UNSHAMED Kinky Rave with MARC DEAL, SPAM, FRANK LEDER, Timeless Moments at Club Frau Holle on Fri 2 Oct, Hamburg. 2 artists: 18+ and Timeless Moments. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

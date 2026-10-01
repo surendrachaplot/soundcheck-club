@@ -1,8 +1,8 @@
 # TBA - Outdoor Gathering
 
-TBA - Outdoor Gathering is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Information: Kuba'97 (US Debut) + Amelia Holt + Jek b2b djfix + Screeb" on Sat, 10 Oct 2026.
+TBA - Outdoor Gathering is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Information: Kuba'97 (US Debut) + Amelia Holt + Jek b2b djfix + Screeb" on Sat, 10 Oct 2026.
 
-TBA - Outdoor Gathering is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Amelia Holt, djfix, Jek (US) and Kuba'97 and 1 more. Browse upcoming dates, start times and who's playing.
+TBA - Outdoor Gathering is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Amelia Holt, djfix, Jek (US) and Kuba'97 and 1 more. See dates, start times and who's playing.
 
 ## What's on
 

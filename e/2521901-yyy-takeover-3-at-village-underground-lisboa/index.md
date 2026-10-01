@@ -1,6 +1,6 @@
 # YYY Takeover #3 at Village Underground Lisboa
 
-YYY Takeover #3 at Village Underground Lisboa on Sat 10 Oct, Lisbon. 3 artists on the bill: Laura Hasagun, Miguel Peres and Phil Berg. Techno. Preview the line-up and save it on soundcheck.
+YYY Takeover #3 at Village Underground Lisboa on Sat 10 Oct, Lisbon. 3 artists: Laura Hasagun, Miguel Peres and Phil Berg. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # control
 
-control is a music venue in Bucharest with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ctrl x ICHIGO: Roger Rabbit with Suze Ijó [NL], ill kid drei" on Thu, 1 Oct 2026.
+control is a music venue in Bucharest with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ctrl x ICHIGO: Roger Rabbit with Suze Ijó [NL], ill kid drei" on Thu, 1 Oct 2026.
 
-control is a music venue in Bucharest listed on soundcheck. 10 upcoming gigs, with line-ups including Acid Arab, alia indigo, Bianca Oblivion and Damon Jee and 2 more. Browse upcoming dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
+control is a music venue in Bucharest listed on soundcheck. 10 upcoming gigs, with line-ups including Acid Arab, alia indigo, Bianca Oblivion and Damon Jee and 2 more. See dates, start times and who's playing. Str. Constantin Mille, nr. 4, 010142 Bucharest, Romania.
 
 ## What's on
 

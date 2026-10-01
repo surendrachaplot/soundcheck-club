@@ -1,6 +1,6 @@
 # FOGO // NO // CU at BABY01
 
-FOGO // NO // CU at BABY01 on Sat 10 Oct, Berlin. 6 artists on the bill: boyyyish, caipora, iZZie and MADDYY and 2 more. House and Electronica. Preview the line-up and save it on soundcheck.
+FOGO // NO // CU at BABY01 on Sat 10 Oct, Berlin. 6 artists: boyyyish, caipora, iZZie and MADDYY and 2 more. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

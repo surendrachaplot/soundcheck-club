@@ -1,6 +1,6 @@
 # ONLY BY US: Skin x Skin x Skin at Low Profile Studios
 
-ONLY BY US: Skin x Skin x Skin at Low Profile Studios on Fri 23 Oct, London. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+ONLY BY US: Skin x Skin x Skin at Low Profile Studios on Fri 23 Oct, London. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

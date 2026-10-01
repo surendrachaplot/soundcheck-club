@@ -1,6 +1,6 @@
 # DILE: Don Omar Concert After Party Reggaeton Bar at San Antonios
 
-DILE: Don Omar Concert After Party Reggaeton Bar at San Antonios on Sat 10 Oct, New York City. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
+DILE: Don Omar Concert After Party Reggaeton Bar at San Antonios on Sat 10 Oct, New York City. Hip-Hop and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

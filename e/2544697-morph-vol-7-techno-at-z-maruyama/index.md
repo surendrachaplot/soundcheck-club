@@ -1,6 +1,6 @@
 # morph vol.7 (TECHNO) at Z Maruyama
 
-morph vol.7 (TECHNO) at Z Maruyama on Fri 16 Oct, Tokyo. 2 artists on the bill: DJ MARIA. and Yuoto Saito. Techno. Preview the line-up and save it on soundcheck.
+morph vol.7 (TECHNO) at Z Maruyama on Fri 16 Oct, Tokyo. 2 artists: DJ MARIA. and Yuoto Saito. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

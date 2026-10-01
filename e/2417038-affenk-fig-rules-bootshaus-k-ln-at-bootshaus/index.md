@@ -1,6 +1,6 @@
 # AFFENKÄFIG RULES // Bootshaus KÖLN at Bootshaus
 
-AFFENKÄFIG RULES // Bootshaus KÖLN on Fri 23 Oct, Cologne. 5 artists on the bill: KØZLØV, Mødze, Part Time Killer and Rosilicious and 1 more. Techno. Preview the line-up and save it on soundcheck.
+AFFENKÄFIG RULES // Bootshaus KÖLN on Fri 23 Oct, Cologne. 5 artists: KØZLØV, Mødze, Part Time Killer and Rosilicious and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

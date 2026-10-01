@@ -1,6 +1,6 @@
 # Proper People at Ramses
 
-Proper People at Ramses on Thu 1 Oct, Madrid. Techno and House. Preview the line-up and save it on soundcheck.
+Proper People at Ramses on Thu 1 Oct, Madrid. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

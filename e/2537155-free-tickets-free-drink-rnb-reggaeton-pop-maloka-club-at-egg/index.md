@@ -1,6 +1,6 @@
 # FREE TICKETS + FREE DRINK – RNB, REGGAETON, POP – MALOKA CLUB at Egg London
 
-FREE TICKETS + FREE DRINK – RNB, REGGAETON, POP – MALOKA CLUB at Egg London on Fri 9 Oct, London. R&B and Reggaeton. Preview the line-up and save it on soundcheck.
+FREE TICKETS + FREE DRINK – RNB, REGGAETON, POP – MALOKA CLUB at Egg London on Fri 9 Oct, London. R&B and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

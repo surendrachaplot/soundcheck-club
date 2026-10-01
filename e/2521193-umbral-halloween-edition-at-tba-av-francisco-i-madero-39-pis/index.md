@@ -1,6 +1,6 @@
 # UMBRAL (halloween edition) at TBA - Av Francisco I. Madero 39-Piso 2-B Centro Histórico, CDMX
 
-UMBRAL (halloween edition) at TBA - Av Francisco I. Madero 39-Piso 2-B Centro Histórico, CDMX on Sat 24 Oct, Mexico City. Techno and Electronica. Preview the line-up and save it on soundcheck.
+UMBRAL (halloween edition) at TBA - Av Francisco I. Madero 39-Piso 2-B Centro Histórico, CDMX on Sat 24 Oct, Mexico City. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

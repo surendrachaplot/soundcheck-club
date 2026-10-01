@@ -1,8 +1,8 @@
 # Green Velvet
 
-Green Velvet is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Green Velvet is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Green Velvet is a house and techno artist based in United States of America, tracked on soundcheck, with 114 sets logged across Austin, Boston, Buenos Aires and Chicago and 24 more. Often billed alongside Patrick Topping, Layton Giordani and Dom Dolla. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Green Velvet is a house and techno artist based in United States of America, with 114 gigs on soundcheck across Austin, Boston, Buenos Aires and Chicago and 24 more. Often billed alongside Patrick Topping, Layton Giordani and Dom Dolla. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Green Velvet is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
-- Glen Helen Regional Park, Los Angeles — Sat, 19 Sept 2026
-- Level 1 @ Cannonball Arts, Seattle — Fri, 18 Sept 2026
-- TBA, Toronto — Sat, 5 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- [UNVRS], Ibiza — Wed, 19 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 8 Aug 2026
-- Sable Miami, Miami — Sat, 13 Jun 2026
-- Bauhaus, Houston — Fri, 12 Jun 2026
+- Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
+- Level 1 @ Cannonball Arts, Seattle · Fri, 18 Sept 2026
+- TBA, Toronto · Sat, 5 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- [UNVRS], Ibiza · Wed, 19 Aug 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 8 Aug 2026
+- Sable Miami, Miami · Sat, 13 Jun 2026
+- Bauhaus, Houston · Fri, 12 Jun 2026
 
 ## Shares bills with
 

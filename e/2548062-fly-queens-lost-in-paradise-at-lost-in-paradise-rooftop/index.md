@@ -1,6 +1,6 @@
 # FLY Queens - Lost in Paradise at Lost in Paradise Rooftop
 
-FLY Queens - Lost in Paradise at Lost in Paradise Rooftop on Sun 4 Oct, New York City. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+FLY Queens - Lost in Paradise at Lost in Paradise Rooftop on Sun 4 Oct, New York City. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

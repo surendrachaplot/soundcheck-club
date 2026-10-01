@@ -1,6 +1,6 @@
 # Semiotic Research Institute at Sameheads
 
-Semiotic Research Institute at Sameheads on Thu 1 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Semiotic Research Institute at Sameheads on Thu 1 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

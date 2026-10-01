@@ -1,6 +1,6 @@
 # For The Love- Marcus Visionary, Krinjah, Rave Alarm at Seescape
 
-For The Love- Marcus Visionary, Krinjah, Rave Alarm at Seescape on Fri 23 Oct, Toronto. 1 artist on the bill: Marcus Visionary. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+For The Love- Marcus Visionary, Krinjah, Rave Alarm at Seescape on Fri 23 Oct, Toronto. 1 artist: Marcus Visionary. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

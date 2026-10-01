@@ -1,6 +1,6 @@
 # imakinn records presents Texas Is The Reason Japan Tour 2026 at Socore Factory
 
-imakinn records presents Texas Is The Reason Japan Tour 2026 at Socore Factory on Sun 8 Nov, Osaka. Hardcore. Preview the line-up and save it on soundcheck.
+imakinn records presents Texas Is The Reason Japan Tour 2026 at Socore Factory on Sun 8 Nov, Osaka. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

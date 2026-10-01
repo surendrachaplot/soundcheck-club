@@ -1,6 +1,6 @@
 # Dub Club Chicago 28 at TBA
 
-Dub Club Chicago 28 at TBA on Thu 8 Oct, Chicago. 1 artist on the bill: Selectress Kinky P. Dub and Dubstep. Preview the line-up and save it on soundcheck.
+Dub Club Chicago 28 at TBA on Thu 8 Oct, Chicago. 1 artist: Selectress Kinky P. Dub and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

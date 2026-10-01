@@ -1,6 +1,6 @@
 # Riordan CIRCUS Tokyo at Circus Tokyo
 
-Riordan CIRCUS Tokyo at Circus Tokyo on Thu 1 Oct, Tokyo. 1 artist on the bill: Riordan. House and Garage. Preview the line-up and save it on soundcheck.
+Riordan CIRCUS Tokyo at Circus Tokyo on Thu 1 Oct, Tokyo. 1 artist: Riordan. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

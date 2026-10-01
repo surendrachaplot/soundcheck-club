@@ -1,6 +1,6 @@
 # Parra for Cuva at Akropolis
 
-Parra for Cuva at Akropolis on Thu 8 Oct, Prague. 1 artist on the bill: Parra for Cuva. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Parra for Cuva at Akropolis on Thu 8 Oct, Prague. 1 artist: Parra for Cuva. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

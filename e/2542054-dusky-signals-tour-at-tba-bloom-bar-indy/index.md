@@ -1,6 +1,6 @@
 # Dusky: Signals Tour at TBA - Bloom Bar Indy
 
-Dusky: Signals Tour at TBA - Bloom Bar Indy on Sun 4 Oct, Indiana. 2 artists on the bill: Dusky and Sweater Disco. Preview the line-up and save it on soundcheck.
+Dusky: Signals Tour at TBA - Bloom Bar Indy on Sun 4 Oct, Indiana. 2 artists: Dusky and Sweater Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

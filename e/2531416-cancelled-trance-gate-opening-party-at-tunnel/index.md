@@ -1,6 +1,6 @@
 # [CANCELLED] TRANCE GATE – OPENING PARTY at Tunnel
 
-[CANCELLED] TRANCE GATE – OPENING PARTY at Tunnel on Sat 3 Oct, Milan. 1 artist on the bill: Andrew Rayel. Trance. Preview the line-up and save it on soundcheck.
+[CANCELLED] TRANCE GATE – OPENING PARTY at Tunnel on Sat 3 Oct, Milan. 1 artist: Andrew Rayel. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

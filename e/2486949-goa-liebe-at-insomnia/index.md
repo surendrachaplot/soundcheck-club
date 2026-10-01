@@ -1,6 +1,6 @@
 # Goa Liebe at Insomnia
 
-Goa Liebe at Insomnia on Sat 3 Oct, Berlin. Club and Psytrance. Preview the line-up and save it on soundcheck.
+Goa Liebe at Insomnia on Sat 3 Oct, Berlin. Club and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

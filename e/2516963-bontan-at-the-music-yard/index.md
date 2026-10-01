@@ -1,6 +1,6 @@
 # Bontan at The Music Yard
 
-Bontan at The Music Yard on Fri 9 Oct, Charlotte. 1 artist on the bill: Bontan. Preview the line-up and save it on soundcheck.
+Bontan at The Music Yard on Fri 9 Oct, Charlotte. 1 artist: Bontan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

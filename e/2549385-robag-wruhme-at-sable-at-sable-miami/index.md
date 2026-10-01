@@ -1,6 +1,6 @@
 # Robag Wruhme at Sable at Sable Miami
 
-Robag Wruhme at Sable at Sable Miami on Sat 3 Oct, Miami. 1 artist on the bill: Robag Wruhme. House and Deep House. Preview the line-up and save it on soundcheck.
+Robag Wruhme at Sable at Sable Miami on Sat 3 Oct, Miami. 1 artist: Robag Wruhme. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

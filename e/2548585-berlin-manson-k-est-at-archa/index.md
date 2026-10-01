@@ -1,6 +1,6 @@
 # Berlin Manson křest at Archa+
 
-Berlin Manson křest at Archa+ on Thu 29 Oct, Prague. Preview the line-up and save it on soundcheck.
+Berlin Manson křest at Archa+ on Thu 29 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

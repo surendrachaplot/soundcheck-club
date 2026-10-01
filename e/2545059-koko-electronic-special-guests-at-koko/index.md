@@ -1,6 +1,6 @@
 # KOKO Electronic: Special Guests at KOKO
 
-KOKO Electronic: Special Guests on Fri 18 Dec, London. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Special Guests on Fri 18 Dec, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

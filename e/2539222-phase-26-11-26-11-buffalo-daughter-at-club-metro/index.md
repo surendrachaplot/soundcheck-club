@@ -1,6 +1,6 @@
 # PHASE 26:11 (フェーズ26時11分） ーBuffalo Daughter シングルリリースパーティー at Club Metro
 
-PHASE 26:11 (フェーズ26時11分） ーBuffalo Daughter シングルリリースパーティー at Club Metro on Thu 12 Nov, Kyoto. Preview the line-up and save it on soundcheck.
+PHASE 26:11 (フェーズ26時11分） ーBuffalo Daughter シングルリリースパーティー at Club Metro on Thu 12 Nov, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

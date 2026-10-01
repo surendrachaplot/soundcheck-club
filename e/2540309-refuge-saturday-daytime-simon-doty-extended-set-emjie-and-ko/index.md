@@ -1,6 +1,6 @@
 # Refuge Saturday Daytime: Simon Doty [Extended Set], EMJIE and koumby at Refuge
 
-Refuge Saturday Daytime: Simon Doty [Extended Set], EMJIE and koumby on Sat 3 Oct, New York City. 2 artists on the bill: EMJIE and Simon Doty. Preview the line-up and save it on soundcheck.
+Refuge Saturday Daytime: Simon Doty [Extended Set], EMJIE and koumby on Sat 3 Oct, New York City. 2 artists: EMJIE and Simon Doty. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Bausa at Central Chapelle
 
-The Bausa at Central Chapelle on Thu 22 Oct, Paris. House and Electro. Preview the line-up and save it on soundcheck.
+The Bausa at Central Chapelle on Thu 22 Oct, Paris. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

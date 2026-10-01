@@ -1,6 +1,6 @@
 # Emancipator at Substation
 
-Emancipator at Substation on Sat 21 Nov, Seattle. Downtempo. Preview the line-up and save it on soundcheck.
+Emancipator at Substation on Sat 21 Nov, Seattle. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PLAID (live AV) + NIKNAK (live AV) at Hangr
 
-PLAID (live AV) + NIKNAK (live AV) at Hangr on Fri 23 Oct, Sheffield. Electro and Electronica. Preview the line-up and save it on soundcheck.
+PLAID (live AV) + NIKNAK (live AV) at Hangr on Fri 23 Oct, Sheffield. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

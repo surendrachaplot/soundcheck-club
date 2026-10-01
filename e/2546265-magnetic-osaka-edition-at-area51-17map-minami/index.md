@@ -1,6 +1,6 @@
 # MAGNETiC Osaka Edition at Area51 / 17map Minami
 
-MAGNETiC Osaka Edition at Area51 / 17map Minami on Sun 11 Oct, Osaka. 3 artists on the bill: Kyoto Jazz Massive, Yoshihiro Okino and Yukari BB. Disco and Jazz. Preview the line-up and save it on soundcheck.
+MAGNETiC Osaka Edition at Area51 / 17map Minami on Sun 11 Oct, Osaka. 3 artists: Kyoto Jazz Massive, Yoshihiro Okino and Yukari BB. Disco and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

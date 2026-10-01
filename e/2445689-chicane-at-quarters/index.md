@@ -1,6 +1,6 @@
 # Chicane at Quarters
 
-Chicane at Quarters on Sat 3 Oct, Brighton. 1 artist on the bill: Chicane. Progressive House and House. Preview the line-up and save it on soundcheck.
+Chicane at Quarters on Sat 3 Oct, Brighton. 1 artist: Chicane. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

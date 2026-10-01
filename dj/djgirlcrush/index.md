@@ -1,8 +1,8 @@
 # DJ girlcrush
 
-DJ girlcrush is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Selva NYC, New York City on Tue, 6 Oct 2026.
+DJ girlcrush is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Selva NYC, New York City on Tue, 6 Oct 2026.
 
-DJ girlcrush is a techno and house artist based in United States of America, tracked on soundcheck, with 46 sets logged across New York City. Often billed alongside Kristen London, Cryostatik and CMD+JAZMINE. Next up: Selva NYC, New York City on Tue 6 Oct.
+DJ girlcrush is a techno and house artist based in United States of America, with 46 gigs on soundcheck across New York City. Often billed alongside Kristen London, Cryostatik and CMD+JAZMINE. Next up: Selva NYC, New York City on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ DJ girlcrush is a techno and house artist based in United States of America, tra
 
 ## Recently played
 
-- Jupiter Disco, New York City — Sat, 19 Sept 2026
-- Bossa Nova Civic Club, New York City — Thu, 3 Sept 2026
-- Selva NYC, New York City — Tue, 1 Sept 2026
-- Jade, New York City — Fri, 28 Aug 2026
-- Wonderville, New York City — Sat, 22 Aug 2026
-- Honey's, New York City — Sat, 8 Aug 2026
-- Honey's, New York City — Wed, 5 Aug 2026
-- Jupiter Disco, New York City — Sat, 20 Jun 2026
+- Jupiter Disco, New York City · Sat, 19 Sept 2026
+- Bossa Nova Civic Club, New York City · Thu, 3 Sept 2026
+- Selva NYC, New York City · Tue, 1 Sept 2026
+- Jade, New York City · Fri, 28 Aug 2026
+- Wonderville, New York City · Sat, 22 Aug 2026
+- Honey's, New York City · Sat, 8 Aug 2026
+- Honey's, New York City · Wed, 5 Aug 2026
+- Jupiter Disco, New York City · Sat, 20 Jun 2026
 
 ## Shares bills with
 

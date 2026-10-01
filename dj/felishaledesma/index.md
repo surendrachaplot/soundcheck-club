@@ -1,8 +1,8 @@
 # Felisha Ledesma
 
-Felisha Ledesma is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Silent Green, Berlin on Thu, 1 Oct 2026.
+Felisha Ledesma is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Silent Green, Berlin on Thu, 1 Oct 2026.
 
-Felisha Ledesma is an experimental and electronica artist based in Sweden, tracked on soundcheck, with 6 sets logged across Berlin, Copenhagen, Lisbon and Manchester and 1 more. Often billed alongside Amelia Holt, Angelo Harmsworth and Ben Vince. Next up: Silent Green, Berlin on Thu 1 Oct.
+Felisha Ledesma is an experimental and electronica artist based in Sweden, with 6 gigs on soundcheck across Berlin, Copenhagen, Lisbon and Manchester and 1 more. Often billed alongside Amelia Holt, Angelo Harmsworth and Ben Vince. Next up: Silent Green, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Felisha Ledesma is an experimental and electronica artist based in Sweden, track
 
 ## Recently played
 
-- Kildevæld Kulturcenter, Copenhagen — Thu, 24 Sept 2026
-- Christianshavns Beboerhus, Copenhagen — Wed, 17 Sept 2025
-- Octubre Centre de Cultura Contemporània, Valencia — Fri, 24 May 2024
-- Cosmos Campolide, Lisbon — Thu, 21 Mar 2024
-- The White Hotel, Manchester — Thu, 26 Jan 2023
+- Kildevæld Kulturcenter, Copenhagen · Thu, 24 Sept 2026
+- Christianshavns Beboerhus, Copenhagen · Wed, 17 Sept 2025
+- Octubre Centre de Cultura Contemporània, Valencia · Fri, 24 May 2024
+- Cosmos Campolide, Lisbon · Thu, 21 Mar 2024
+- The White Hotel, Manchester · Thu, 26 Jan 2023
 
 ## Shares bills with
 

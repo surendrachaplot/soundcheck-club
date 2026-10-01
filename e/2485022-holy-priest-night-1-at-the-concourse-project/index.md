@@ -1,6 +1,6 @@
 # Holy Priest (Night 1) at The Concourse Project
 
-Holy Priest (Night 1) at The Concourse Project on Sat 10 Oct, Austin. 2 artists on the bill: COLOR K!D and Holy Priest. Preview the line-up and save it on soundcheck.
+Holy Priest (Night 1) at The Concourse Project on Sat 10 Oct, Austin. 2 artists: COLOR K!D and Holy Priest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

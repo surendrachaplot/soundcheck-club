@@ -1,6 +1,6 @@
 # CALYX - Halloween Hell Raiser pt.II: Lineup TBA at The Mash House
 
-CALYX - Halloween Hell Raiser pt.II: Lineup TBA at The Mash House on Fri 30 Oct, Edinburgh. Techno and Electro. Preview the line-up and save it on soundcheck.
+CALYX - Halloween Hell Raiser pt.II: Lineup TBA at The Mash House on Fri 30 Oct, Edinburgh. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

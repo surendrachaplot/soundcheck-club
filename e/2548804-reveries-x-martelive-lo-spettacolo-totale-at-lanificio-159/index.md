@@ -1,6 +1,6 @@
 # Reveries X Martelive - Lo Spettacolo Totale at Lanificio 159
 
-Reveries X Martelive - Lo Spettacolo Totale at Lanificio 159 on Fri 2 Oct, Rome. 6 artists on the bill: Her Nice Too, Ninos Du Brasil, SBTRKT and Shigeto and 2 more. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Reveries X Martelive - Lo Spettacolo Totale at Lanificio 159 on Fri 2 Oct, Rome. 6 artists: Her Nice Too, Ninos Du Brasil, SBTRKT and Shigeto and 2 more. Bass and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

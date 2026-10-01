@@ -1,6 +1,6 @@
 # Ott Yarris presents 'Yearning for the Sky' at Spread
 
-Ott Yarris presents 'Yearning for the Sky' at Spread on Mon 12 Oct, Tokyo. 4 artists on the bill: Bby Eco, sudden star, Vís and yodel. Ambient and Pop. Preview the line-up and save it on soundcheck.
+Ott Yarris presents 'Yearning for the Sky' at Spread on Mon 12 Oct, Tokyo. 4 artists: Bby Eco, sudden star, Vís and yodel. Ambient and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

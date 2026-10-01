@@ -1,6 +1,6 @@
 # Extended PARTYBAR 3000 ∞ LETZTE WIESE at Hoppetosse
 
-Extended PARTYBAR 3000 ∞ LETZTE WIESE at Hoppetosse on Fri 6 Nov, Berlin. 1 artist on the bill: Schlecksi. House and Disco. Preview the line-up and save it on soundcheck.
+Extended PARTYBAR 3000 ∞ LETZTE WIESE at Hoppetosse on Fri 6 Nov, Berlin. 1 artist: Schlecksi. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

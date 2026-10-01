@@ -1,8 +1,8 @@
 # DIØR
 
-DIØR is a Hardcore and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
+DIØR is a Hardcore and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Akvárium Klub, Budapest on Sat, 28 Nov 2026.
 
-DIØR is a hardcore and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Berlin, Budapest, Glasgow and Warsaw. Often billed alongside Gibby, ALT8 and Andrew Cairns. Next up: Akvárium Klub, Budapest on Sat 28 Nov.
+DIØR is a hardcore and techno artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Budapest, Glasgow and Warsaw. Often billed alongside Gibby, ALT8 and Andrew Cairns. Next up: Akvárium Klub, Budapest on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DIØR is a hardcore and techno artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- DSTRKT Club Berlin, Berlin — Fri, 3 Apr 2026
-- Club 69, Glasgow — Sat, 13 Dec 2025
-- Club 69, Glasgow — Sat, 28 Jun 2025
-- Club 69, Glasgow — Sat, 19 Apr 2025
-- Przychodnia Skłot, Warsaw — Fri, 21 Mar 2025
-- The Art School, Glasgow — Fri, 14 Feb 2025
-- Nice N Sleazy, Glasgow — Thu, 9 Jan 2025
-- Nice N Sleazy, Glasgow — Sun, 19 May 2024
+- DSTRKT Club Berlin, Berlin · Fri, 3 Apr 2026
+- Club 69, Glasgow · Sat, 13 Dec 2025
+- Club 69, Glasgow · Sat, 28 Jun 2025
+- Club 69, Glasgow · Sat, 19 Apr 2025
+- Przychodnia Skłot, Warsaw · Fri, 21 Mar 2025
+- The Art School, Glasgow · Fri, 14 Feb 2025
+- Nice N Sleazy, Glasgow · Thu, 9 Jan 2025
+- Nice N Sleazy, Glasgow · Sun, 19 May 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # DARK ROOM at Selva Club
 
-DARK ROOM at Selva Club on Sat 7 Nov, East. 2 artists on the bill: Grace Dahl and JOANØLIVER. Preview the line-up and save it on soundcheck.
+DARK ROOM at Selva Club on Sat 7 Nov, East. 2 artists: Grace Dahl and JOANØLIVER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

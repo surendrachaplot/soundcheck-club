@@ -1,6 +1,6 @@
 # Cosmic Sleazecake at A L P H A B E T
 
-Cosmic Sleazecake at A L P H A B E T on Sat 19 Dec, Brighton. House and Disco. Preview the line-up and save it on soundcheck.
+Cosmic Sleazecake at A L P H A B E T on Sat 19 Dec, Brighton. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

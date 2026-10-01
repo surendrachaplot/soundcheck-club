@@ -1,6 +1,6 @@
 # The Common x Refugee Community Kitchen Takeover at The Fox and Firkin
 
-The Common x Refugee Community Kitchen Takeover at The Fox and Firkin on Sat 17 Oct, London. Bass and Deep House. Preview the line-up and save it on soundcheck.
+The Common x Refugee Community Kitchen Takeover at The Fox and Firkin on Sat 17 Oct, London. Bass and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

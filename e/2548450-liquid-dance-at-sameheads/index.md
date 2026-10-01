@@ -1,6 +1,6 @@
 # Liquid Dance at Sameheads
 
-Liquid Dance at Sameheads on Fri 23 Oct, Berlin. 3 artists on the bill: Esther Dune, Hara Katsiki and Rena Volvo. Preview the line-up and save it on soundcheck.
+Liquid Dance at Sameheads on Fri 23 Oct, Berlin. 3 artists: Esther Dune, Hara Katsiki and Rena Volvo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

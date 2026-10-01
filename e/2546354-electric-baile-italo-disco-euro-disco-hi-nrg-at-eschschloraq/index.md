@@ -1,6 +1,6 @@
 # Electric Baile (Italo Disco - Euro Disco - Hi NRG) at Eschschloraque at Eschschloraque
 
-Electric Baile (Italo Disco - Euro Disco - Hi NRG) at Eschschloraque on Sat 17 Oct, Berlin. 2 artists on the bill: Lancer and Robot Girl. Electro and Italo Disco. Preview the line-up and save it on soundcheck.
+Electric Baile (Italo Disco - Euro Disco - Hi NRG) at Eschschloraque on Sat 17 Oct, Berlin. 2 artists: Lancer and Robot Girl. Electro and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

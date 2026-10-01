@@ -1,8 +1,8 @@
 # Remy Unger
 
-Remy Unger is a Techno and Acid artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
+Remy Unger is a Techno and Acid artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
 
-Remy Unger is a techno and acid artist based in Netherlands, tracked on soundcheck, with 58 sets logged across Amsterdam, Belgium, Ghent and Netherlands and 3 more. Often billed alongside Alexander Koning, Lucien Foort and Erick E. Next up: Maassilo, Rotterdam on Sat 3 Oct.
+Remy Unger is a techno and acid artist based in Netherlands, with 58 gigs on soundcheck across Amsterdam, Belgium, Ghent and Netherlands and 3 more. Often billed alongside Alexander Koning, Lucien Foort and Erick E. Next up: Maassilo, Rotterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Remy Unger is a techno and acid artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- Strandpaviljoen De Staat, The Hague — Sat, 26 Sept 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 29 Aug 2026
-- Thuishaven, Amsterdam — Sat, 4 Jul 2026
-- PIP Den Haag, The Hague — Sat, 4 Jul 2026
-- PIP Den Haag, The Hague — Mon, 27 Apr 2026
-- Thuishaven, Amsterdam — Sat, 11 Apr 2026
-- Thuishaven, Amsterdam — Sat, 7 Mar 2026
-- Het Sieraad, Amsterdam — Sat, 7 Feb 2026
+- Strandpaviljoen De Staat, The Hague · Sat, 26 Sept 2026
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
+- Thuishaven, Amsterdam · Sat, 4 Jul 2026
+- PIP Den Haag, The Hague · Sat, 4 Jul 2026
+- PIP Den Haag, The Hague · Mon, 27 Apr 2026
+- Thuishaven, Amsterdam · Sat, 11 Apr 2026
+- Thuishaven, Amsterdam · Sat, 7 Mar 2026
+- Het Sieraad, Amsterdam · Sat, 7 Feb 2026
 
 ## Shares bills with
 

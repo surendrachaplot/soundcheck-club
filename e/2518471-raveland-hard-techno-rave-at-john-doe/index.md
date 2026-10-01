@@ -1,6 +1,6 @@
 # RAVELAND: Hard Techno Rave at John Doe
 
-RAVELAND: Hard Techno Rave at John Doe on Wed 28 Oct, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+RAVELAND: Hard Techno Rave at John Doe on Wed 28 Oct, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

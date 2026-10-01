@@ -1,8 +1,8 @@
 # Mez Monty
 
-Mez Monty is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Los Angeles on Fri, 9 Oct 2026.
+Mez Monty is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Los Angeles on Fri, 9 Oct 2026.
 
-Mez Monty is a house and techno artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Berlin, Chicago and Lisbon and 12 more. Often billed alongside Shane Thomas, Sevyn and Eli Escobar. Next up: TBA, Los Angeles on Fri 9 Oct.
+Mez Monty is a house and techno artist based in United States of America, with 92 gigs on soundcheck across Amsterdam, Berlin, Chicago and Lisbon and 12 more. Often billed alongside Shane Thomas, Sevyn and Eli Escobar. Next up: TBA, Los Angeles on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Mez Monty is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
-- Los Globos, Los Angeles — Thu, 24 Sept 2026
-- TBA - Downtown, Los Angeles — Fri, 11 Sept 2026
-- Placita Olvera, Los Angeles — Sun, 30 Aug 2026
-- ANIMAL LA, Los Angeles — Sat, 22 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- TBA, Los Angeles — Sat, 25 Jul 2026
-- The Bridge, Los Angeles — Sat, 20 Jun 2026
-- TBA - Downtown, Los Angeles — Sat, 13 Jun 2026
+- Los Globos, Los Angeles · Thu, 24 Sept 2026
+- TBA - Downtown, Los Angeles · Fri, 11 Sept 2026
+- Placita Olvera, Los Angeles · Sun, 30 Aug 2026
+- ANIMAL LA, Los Angeles · Sat, 22 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- TBA, Los Angeles · Sat, 25 Jul 2026
+- The Bridge, Los Angeles · Sat, 20 Jun 2026
+- TBA - Downtown, Los Angeles · Sat, 13 Jun 2026
 
 ## Shares bills with
 

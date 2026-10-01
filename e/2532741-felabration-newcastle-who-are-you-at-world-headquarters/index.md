@@ -1,6 +1,6 @@
 # Felabration Newcastle: WHO ARE YOU at World Headquarters
 
-Felabration Newcastle: WHO ARE YOU at World Headquarters on Sat 17 Oct, Newcastle. Afrobeat and Afrobeats. Preview the line-up and save it on soundcheck.
+Felabration Newcastle: WHO ARE YOU at World Headquarters on Sat 17 Oct, Newcastle. Afrobeat and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

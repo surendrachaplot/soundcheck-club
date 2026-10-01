@@ -1,6 +1,6 @@
 # BRINGING SEXY BACK at The Loading Dock
 
-BRINGING SEXY BACK at The Loading Dock on Sat 3 Oct, Austin. Techno and Acid. Preview the line-up and save it on soundcheck.
+BRINGING SEXY BACK at The Loading Dock on Sat 3 Oct, Austin. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

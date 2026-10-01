@@ -1,8 +1,8 @@
 # Nadav Vee
 
-Nadav Vee is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Knockdown Center, New York City on Fri, 2 Oct 2026.
+Nadav Vee is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Fri, 2 Oct 2026.
 
-Nadav Vee is a house and deep house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Miami and New York City. Often billed alongside Guy Mantzur, Roy Rosenfeld and Tamir Regev. Next up: Knockdown Center, New York City on Fri 2 Oct.
+Nadav Vee is a house and deep house artist based in United States of America, with 8 gigs on soundcheck across Miami and New York City. Often billed alongside Guy Mantzur, Roy Rosenfeld and Tamir Regev. Next up: Knockdown Center, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Nadav Vee is a house and deep house artist based in United States of America, tr
 
 ## Recently played
 
-- Public Arts, New York City — Sat, 8 Aug 2026
-- Lion's Den, Miami — Fri, 8 May 2026
-- Do Not Sit On The Furniture, Miami — Sat, 22 Nov 2025
-- Do Not Sit On The Furniture, Miami — Sat, 9 Aug 2025
-- Superior Ingredients, New York City — Sun, 15 Jun 2025
-- Superior Ingredients, New York City — Sun, 22 Sept 2024
-- Superior Ingredients, New York City — Sun, 8 Oct 2023
+- Public Arts, New York City · Sat, 8 Aug 2026
+- Lion's Den, Miami · Fri, 8 May 2026
+- Do Not Sit On The Furniture, Miami · Sat, 22 Nov 2025
+- Do Not Sit On The Furniture, Miami · Sat, 9 Aug 2025
+- Superior Ingredients, New York City · Sun, 15 Jun 2025
+- Superior Ingredients, New York City · Sun, 22 Sept 2024
+- Superior Ingredients, New York City · Sun, 8 Oct 2023
 
 ## Shares bills with
 

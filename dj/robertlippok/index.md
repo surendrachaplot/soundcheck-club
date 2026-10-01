@@ -1,8 +1,8 @@
 # Robert Lippok
 
-Robert Lippok is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
+Robert Lippok is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
 
-Robert Lippok is an experimental and electronica artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Buenos Aires, Düsseldorf and Leipzig and 4 more. Often billed alongside Daito Manabe, Ali M. Demirel and Alva Noto. Next up: MoN Takanawa: The Museum of Narratives, Tokyo on Fri 20 Nov.
+Robert Lippok is an experimental and electronica artist based in Germany, with 10 gigs on soundcheck across Berlin, Buenos Aires, Düsseldorf and Leipzig and 4 more. Often billed alongside Daito Manabe, Ali M. Demirel and Alva Noto. Next up: MoN Takanawa: The Museum of Narratives, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Robert Lippok is an experimental and electronica artist based in Germany, tracke
 
 ## Recently played
 
-- TBA - Rees/Haldern, Düsseldorf — Wed, 5 Aug 2026
-- Silent Green, Berlin — Sun, 31 May 2026
-- ZiMMT, Leipzig — Sat, 30 May 2026
-- Planetario Galileo Galilei, Buenos Aires — Sun, 5 Oct 2025
-- TBA - Multiple Venues, Buenos Aires — Wed, 1 Oct 2025
-- TBA, Mexico City — Fri, 18 Oct 2024
-- TBA - Various Locations CDMX, Mexico City — Mon, 7 Oct 2024
-- Umbo, Zurich — Fri, 31 Mar 2023
+- TBA - Rees/Haldern, Düsseldorf · Wed, 5 Aug 2026
+- Silent Green, Berlin · Sun, 31 May 2026
+- ZiMMT, Leipzig · Sat, 30 May 2026
+- Planetario Galileo Galilei, Buenos Aires · Sun, 5 Oct 2025
+- TBA - Multiple Venues, Buenos Aires · Wed, 1 Oct 2025
+- TBA, Mexico City · Fri, 18 Oct 2024
+- TBA - Various Locations CDMX, Mexico City · Mon, 7 Oct 2024
+- Umbo, Zurich · Fri, 31 Mar 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Naked Grapes with Aalia at Orangerie Neukölln
 
-Naked Grapes with Aalia at Orangerie Neukölln on Thu 1 Oct, Berlin. Ambient and Jazz. Preview the line-up and save it on soundcheck.
+Naked Grapes with Aalia at Orangerie Neukölln on Thu 1 Oct, Berlin. Ambient and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

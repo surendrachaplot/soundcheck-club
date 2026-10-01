@@ -1,6 +1,6 @@
 # The Hall pres. Roy Rosenfeld at Upside
 
-The Hall pres. Roy Rosenfeld at Upside on Fri 13 Nov, Florida. 2 artists on the bill: Nico Moon and Roy Rosenfeld. Preview the line-up and save it on soundcheck.
+The Hall pres. Roy Rosenfeld at Upside on Fri 13 Nov, Florida. 2 artists: Nico Moon and Roy Rosenfeld. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

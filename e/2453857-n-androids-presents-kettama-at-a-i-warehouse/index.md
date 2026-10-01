@@ -1,6 +1,6 @@
 # Nü Androids presents: Kettama at A.i Warehouse
 
-Nü Androids presents: Kettama at A.i Warehouse on Fri 16 Oct, Washington DC. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Kettama at A.i Warehouse on Fri 16 Oct, Washington DC. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

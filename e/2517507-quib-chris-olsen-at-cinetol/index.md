@@ -1,6 +1,6 @@
 # $quib + Chris Olsen at Cinetol
 
-$quib + Chris Olsen at Cinetol on Mon 19 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+$quib + Chris Olsen at Cinetol on Mon 19 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

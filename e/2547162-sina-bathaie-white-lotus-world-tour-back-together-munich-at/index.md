@@ -1,6 +1,6 @@
 # Sina Bathaie — White Lotus World Tour: Back Together - Munich at Backstage
 
-Sina Bathaie — White Lotus World Tour: Back Together - Munich at Backstage on Sun 29 Nov, Munich. 1 artist on the bill: Sina Bathaie. Downtempo. Preview the line-up and save it on soundcheck.
+Sina Bathaie — White Lotus World Tour: Back Together - Munich at Backstage on Sun 29 Nov, Munich. 1 artist: Sina Bathaie. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shoes Off in the Living Room 01 at Honey Street Studio
 
-Shoes Off in the Living Room 01 at Honey Street Studio on Fri 23 Oct, Manchester. 3 artists on the bill: Abby Harris, BAY-BUSH-KA and Navigate.. House and Disco. Preview the line-up and save it on soundcheck.
+Shoes Off in the Living Room 01 at Honey Street Studio on Fri 23 Oct, Manchester. 3 artists: Abby Harris, BAY-BUSH-KA and Navigate.. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

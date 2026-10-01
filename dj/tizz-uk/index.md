@@ -1,8 +1,8 @@
 # Tizz
 
-Tizz is a Deep House and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Shredenhams, Bristol on Sat, 10 Oct 2026.
+Tizz is a Deep House and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Shredenhams, Bristol on Sat, 10 Oct 2026.
 
-Tizz is a deep house and hardcore artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Bristol and Milan. Often billed alongside Cap, Count Donkula and Mihnea Rog. Next up: Shredenhams, Bristol on Sat 10 Oct.
+Tizz is a deep house and hardcore artist based in United Kingdom, with 2 gigs on soundcheck across Bristol and Milan. Often billed alongside Cap, Count Donkula and Mihnea Rog. Next up: Shredenhams, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 

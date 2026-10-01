@@ -1,8 +1,8 @@
 # Art of Tones
 
-Art of Tones is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Le 211, Paris on Sat, 7 Nov 2026.
+Art of Tones is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Le 211, Paris on Sat, 7 Nov 2026.
 
-Art of Tones is a house and disco artist based in France, tracked on soundcheck, with 15 sets logged across Barcelona, London, Madrid and Marseille and 6 more. Often billed alongside Basile de Suresnes, Ten Fingerz and BAB MUSIQUE. Next up: Le 211, Paris on Sat 7 Nov.
+Art of Tones is a house and disco artist based in France, with 15 gigs on soundcheck across Barcelona, London, Madrid and Marseille and 6 more. Often billed alongside Basile de Suresnes, Ten Fingerz and BAB MUSIQUE. Next up: Le 211, Paris on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Art of Tones is a house and disco artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- Cabaret Sauvage, Paris — Sat, 19 Sept 2026
-- Purobeach Barcelona, Barcelona — Sat, 15 Aug 2026
-- Tempo, Madrid — Sat, 31 Jan 2026
-- Alcazar Live, Rome — Sat, 10 Jan 2026
-- Brixton Jamm, London — Sat, 6 Dec 2025
-- MiMi Discoteque, Mexico City — Fri, 5 Sept 2025
-- TBA - Sun Peaks Resort at Sun Peaks, BC (45km from Kamloops), Vancouver — Fri, 8 Aug 2025
-- Cabaret Sauvage, Paris — Sat, 12 Jul 2025
+- Cabaret Sauvage, Paris · Sat, 19 Sept 2026
+- Purobeach Barcelona, Barcelona · Sat, 15 Aug 2026
+- Tempo, Madrid · Sat, 31 Jan 2026
+- Alcazar Live, Rome · Sat, 10 Jan 2026
+- Brixton Jamm, London · Sat, 6 Dec 2025
+- MiMi Discoteque, Mexico City · Fri, 5 Sept 2025
+- TBA - Sun Peaks Resort at Sun Peaks, BC (45km from Kamloops), Vancouver · Fri, 8 Aug 2025
+- Cabaret Sauvage, Paris · Sat, 12 Jul 2025
 
 ## Shares bills with
 

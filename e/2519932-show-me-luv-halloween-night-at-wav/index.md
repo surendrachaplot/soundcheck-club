@@ -1,6 +1,6 @@
 # SHOW ME LUV: Halloween Night at WaV
 
-SHOW ME LUV: Halloween Night at WaV on Sat 31 Oct, Liverpool. House and Tech House. Preview the line-up and save it on soundcheck.
+SHOW ME LUV: Halloween Night at WaV on Sat 31 Oct, Liverpool. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

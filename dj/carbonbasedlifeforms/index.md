@@ -1,8 +1,8 @@
 # Carbon Based Lifeforms
 
-Carbon Based Lifeforms is a Ambient and Electronica artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Classic Grand, Glasgow on Thu, 1 Oct 2026.
+Carbon Based Lifeforms is a Ambient and Electronica artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Classic Grand, Glasgow on Thu, 1 Oct 2026.
 
-Carbon Based Lifeforms is an ambient and electronica artist based in Sweden, tracked on soundcheck, with 20 sets logged across Amsterdam, Athens, Belgrade and Bristol and 11 more. Often billed alongside Aes Dana, Banco De Gaia and Shunt Voltage. Next up: The Classic Grand, Glasgow on Thu 1 Oct.
+Carbon Based Lifeforms is an ambient and electronica artist based in Sweden, with 20 gigs on soundcheck across Amsterdam, Athens, Belgrade and Bristol and 11 more. Often billed alongside Aes Dana, Banco De Gaia and Shunt Voltage. Next up: The Classic Grand, Glasgow on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Carbon Based Lifeforms is an ambient and electronica artist based in Sweden, tra
 
 ## Recently played
 
-- The Trinity Centre, Bristol — Sat, 16 May 2026
-- The Trinity Centre, Bristol — Sat, 16 May 2026
-- Belgrave Music Hall, Leeds — Thu, 14 May 2026
-- Liquid Club, Malta — Sat, 2 May 2026
-- La Marbrerie, Paris — Thu, 9 Apr 2026
-- Le Ferrailleur, Nantes — Wed, 8 Apr 2026
-- THE OTHER SIDE, Amsterdam — Fri, 9 May 2025
-- The Yard, Manchester — Sat, 26 Apr 2025
+- The Trinity Centre, Bristol · Sat, 16 May 2026
+- The Trinity Centre, Bristol · Sat, 16 May 2026
+- Belgrave Music Hall, Leeds · Thu, 14 May 2026
+- Liquid Club, Malta · Sat, 2 May 2026
+- La Marbrerie, Paris · Thu, 9 Apr 2026
+- Le Ferrailleur, Nantes · Wed, 8 Apr 2026
+- THE OTHER SIDE, Amsterdam · Fri, 9 May 2025
+- The Yard, Manchester · Sat, 26 Apr 2025
 
 ## Shares bills with
 

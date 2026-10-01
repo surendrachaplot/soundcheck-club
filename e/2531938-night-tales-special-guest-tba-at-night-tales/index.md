@@ -1,6 +1,6 @@
 # Night Tales: Special Guest TBA at Night Tales
 
-Night Tales: Special Guest TBA on Sat 5 Dec, London. House. Preview the line-up and save it on soundcheck.
+Night Tales: Special Guest TBA on Sat 5 Dec, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

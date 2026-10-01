@@ -1,6 +1,6 @@
 # Max Dean & Wavy present: NEXUP [ADE] at Taets Art and Event Park
 
-Max Dean & Wavy present: NEXUP [ADE] at Taets Art and Event Park on Fri 23 Oct, Netherlands. 1 artist on the bill: Max Dean. Preview the line-up and save it on soundcheck.
+Max Dean & Wavy present: NEXUP [ADE] at Taets Art and Event Park on Fri 23 Oct, Netherlands. 1 artist: Max Dean. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

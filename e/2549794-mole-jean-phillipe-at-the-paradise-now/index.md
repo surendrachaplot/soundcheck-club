@@ -1,6 +1,6 @@
 # MOLE & JEAN PHILLIPE at The Paradise Now
 
-MOLE & JEAN PHILLIPE at The Paradise Now on Sat 17 Oct, Düsseldorf. 1 artist on the bill: Jean Philippe. House and Afro House. Preview the line-up and save it on soundcheck.
+MOLE & JEAN PHILLIPE at The Paradise Now on Sat 17 Oct, Düsseldorf. 1 artist: Jean Philippe. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

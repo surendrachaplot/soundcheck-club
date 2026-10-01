@@ -1,8 +1,8 @@
 # Liou
 
-Liou is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Liou is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Liou is a house and techno artist based in Greece, tracked on soundcheck, with 66 sets logged across Athens, Berlin, Greece and Krakow. Often billed alongside DjGus, Nausicaä and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Liou is a house and techno artist based in Greece, with 66 gigs on soundcheck across Athens, Berlin, Greece and Krakow. Often billed alongside DjGus, Nausicaä and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Liou is a house and techno artist based in Greece, tracked on soundcheck, with 6
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- B side Athens, Athens — Thu, 3 Sept 2026
-- B side Athens, Athens — Thu, 30 Jul 2026
-- Club der Visionaere, Berlin — Sat, 30 May 2026
-- B side Athens, Athens — Fri, 22 May 2026
-- TBA - ATHarea, Athens — Sun, 17 May 2026
-- TBA - ΑΤΗarea, Athens — Sun, 26 Apr 2026
-- Skull Bar, Athens — Sun, 22 Mar 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- B side Athens, Athens · Thu, 3 Sept 2026
+- B side Athens, Athens · Thu, 30 Jul 2026
+- Club der Visionaere, Berlin · Sat, 30 May 2026
+- B side Athens, Athens · Fri, 22 May 2026
+- TBA - ATHarea, Athens · Sun, 17 May 2026
+- TBA - ΑΤΗarea, Athens · Sun, 26 Apr 2026
+- Skull Bar, Athens · Sun, 22 Mar 2026
 
 ## Shares bills with
 

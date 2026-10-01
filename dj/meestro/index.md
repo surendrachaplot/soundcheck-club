@@ -1,8 +1,8 @@
 # Meestro
 
-Meestro is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Toekomstmuziek, Amsterdam on Fri, 2 Oct 2026.
+Meestro is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Toekomstmuziek, Amsterdam on Fri, 2 Oct 2026.
 
-Meestro is a house and disco artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, The Hague and Utrecht. Often billed alongside AIS De La Montagne, Androm and Demi Drabe. Next up: Toekomstmuziek, Amsterdam on Fri 2 Oct.
+Meestro is a house and disco artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, The Hague and Utrecht. Often billed alongside AIS De La Montagne, Androm and Demi Drabe. Next up: Toekomstmuziek, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Meestro is a house and disco artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- TBA - Basisweg 63, Amsterdam — Fri, 9 May 2025
-- TBA - De Zon Bodegraven, Utrecht — Sat, 5 Apr 2025
-- iNN Amsterdam, Amsterdam — Thu, 12 Dec 2024
-- TBA -  De Zon Bodegraven, The Hague — Sat, 2 Nov 2024
-- BASIS, Utrecht — Fri, 19 May 2023
+- TBA - Basisweg 63, Amsterdam · Fri, 9 May 2025
+- TBA - De Zon Bodegraven, Utrecht · Sat, 5 Apr 2025
+- iNN Amsterdam, Amsterdam · Thu, 12 Dec 2024
+- TBA -  De Zon Bodegraven, The Hague · Sat, 2 Nov 2024
+- BASIS, Utrecht · Fri, 19 May 2023
 
 ## Shares bills with
 

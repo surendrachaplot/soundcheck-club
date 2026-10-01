@@ -1,8 +1,8 @@
 # Kollektiv Turmstrasse
 
-Kollektiv Turmstrasse is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Smolna, Warsaw on Fri, 9 Oct 2026.
+Kollektiv Turmstrasse is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Smolna, Warsaw on Fri, 9 Oct 2026.
 
-Kollektiv Turmstrasse is a house and techno artist based in Germany, tracked on soundcheck, with 97 sets logged across Amsterdam, Antwerp, Basel and Belgrade and 31 more. Often billed alongside Jonathan Kaspar, Miura and Biesmans. Next up: Smolna, Warsaw on Fri 9 Oct.
+Kollektiv Turmstrasse is a house and techno artist based in Germany, with 97 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belgrade and 31 more. Often billed alongside Jonathan Kaspar, Miura and Biesmans. Next up: Smolna, Warsaw on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Kollektiv Turmstrasse is a house and techno artist based in Germany, tracked on 
 
 ## Recently played
 
-- Fridas Pier, Stuttgart — Sat, 5 Sept 2026
-- Thuishaven, Amsterdam — Sat, 22 Aug 2026
-- Sparta Schwimmclub, Frankfurt — Sat, 8 Aug 2026
-- Bevegemse Vijvers, Ghent — Fri, 10 Jul 2026
-- Airport Düsseldorf, Düsseldorf — Sat, 6 Jun 2026
-- Bikini Beach, Cologne — Fri, 1 May 2026
-- UNLOCKED, London — Fri, 17 Apr 2026
-- Hangaren, Copenhagen — Fri, 20 Feb 2026
+- Fridas Pier, Stuttgart · Sat, 5 Sept 2026
+- Thuishaven, Amsterdam · Sat, 22 Aug 2026
+- Sparta Schwimmclub, Frankfurt · Sat, 8 Aug 2026
+- Bevegemse Vijvers, Ghent · Fri, 10 Jul 2026
+- Airport Düsseldorf, Düsseldorf · Sat, 6 Jun 2026
+- Bikini Beach, Cologne · Fri, 1 May 2026
+- UNLOCKED, London · Fri, 17 Apr 2026
+- Hangaren, Copenhagen · Fri, 20 Feb 2026
 
 ## Shares bills with
 

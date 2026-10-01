@@ -1,6 +1,6 @@
 # Rotations Finale at Statera Cellars
 
-Rotations Finale at Statera Cellars on Fri 16 Oct, Portland. 2 artists on the bill: DJ Kemit and Luum. Deep House and Broken Beat. Preview the line-up and save it on soundcheck.
+Rotations Finale at Statera Cellars on Fri 16 Oct, Portland. 2 artists: DJ Kemit and Luum. Deep House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

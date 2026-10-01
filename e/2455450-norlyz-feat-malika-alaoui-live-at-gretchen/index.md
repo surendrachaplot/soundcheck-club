@@ -1,6 +1,6 @@
 # NORLYZ feat. MALIKA ALAOUI *live at Gretchen
 
-NORLYZ feat. MALIKA ALAOUI *live at Gretchen on Fri 6 Nov, Berlin. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+NORLYZ feat. MALIKA ALAOUI *live at Gretchen on Fri 6 Nov, Berlin. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

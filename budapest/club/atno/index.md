@@ -1,8 +1,8 @@
 # Atno
 
-Atno is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Quasar II: Hubble Into The Void" on Fri, 2 Oct 2026.
+Atno is a music venue in Budapest with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Quasar II: Hubble Into The Void" on Fri, 2 Oct 2026.
 
-Atno is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including Aikatherina, Benc, Blackeye MC and BLZS and 2 more. Browse upcoming dates, start times and who's playing. 1044, Zsilip utca 17..
+Atno is a music venue in Budapest listed on soundcheck. 6 upcoming gigs, with line-ups including Aikatherina, Benc, Blackeye MC and BLZS and 2 more. See dates, start times and who's playing. 1044, Zsilip utca 17..
 
 ## What's on
 

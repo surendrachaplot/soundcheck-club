@@ -1,6 +1,6 @@
 # Smerz (NO) + [support: Felicity J Lord] // VEGA at VEGA
 
-Smerz (NO) + [support: Felicity J Lord] // VEGA on Sun 22 Nov, Copenhagen. 1 artist on the bill: Smerz. Preview the line-up and save it on soundcheck.
+Smerz (NO) + [support: Felicity J Lord] // VEGA on Sun 22 Nov, Copenhagen. 1 artist: Smerz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

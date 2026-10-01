@@ -1,6 +1,6 @@
 # Aircraft (Live) in Riga. Club Depo. Support: Vecera, Muuzis at TBA - Depo
 
-Aircraft (Live) in Riga. Club Depo. Support: Vecera, Muuzis at TBA - Depo on Fri 27 Nov, Riga. 1 artist on the bill: Aircraft. New Wave and Electronica. Preview the line-up and save it on soundcheck.
+Aircraft (Live) in Riga. Club Depo. Support: Vecera, Muuzis at TBA - Depo on Fri 27 Nov, Riga. 1 artist: Aircraft. New Wave and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

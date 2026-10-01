@@ -1,8 +1,8 @@
 # DJ Bar Bridge
 
-DJ Bar Bridge is a music venue in Tokyo with 50 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "HOUSE-TEX" on Thu, 1 Oct 2026.
+DJ Bar Bridge is a music venue in Tokyo with 50 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HOUSE-TEX" on Thu, 1 Oct 2026.
 
-DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 50 upcoming gigs, with line-ups including Anthony Parasole, DJ Emma, DJ Fire and DJ Nori and 2 more. Browse upcoming dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
+DJ Bar Bridge is a music venue in Tokyo listed on soundcheck. 50 upcoming gigs, with line-ups including Anthony Parasole, DJ Emma, DJ Fire and DJ Nori and 2 more. See dates, start times and who's playing. Park Side Kyoudou Bldg.10F, 1-25-6 Shibuya, Shibuya-ku, Tokyo, 150-0002, Japan.
 
 ## What's on
 

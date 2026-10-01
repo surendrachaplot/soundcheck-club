@@ -1,6 +1,6 @@
 # Pastorale - concerto e picnic nell'oasi naturale at Oasi Ca' Granda
 
-Pastorale - concerto e picnic nell'oasi naturale at Oasi Ca' Granda on Sat 3 Oct, Milan. Classical and Electronica. Preview the line-up and save it on soundcheck.
+Pastorale - concerto e picnic nell'oasi naturale at Oasi Ca' Granda on Sat 3 Oct, Milan. Classical and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

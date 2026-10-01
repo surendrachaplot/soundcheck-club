@@ -1,6 +1,6 @@
 # Ezequiel Arias at NUMBER 90 LONDON
 
-Ezequiel Arias at NUMBER 90 LONDON on Fri 20 Nov, London. 1 artist on the bill: Ezequiel Arias. Progressive House and House. Preview the line-up and save it on soundcheck.
+Ezequiel Arias at NUMBER 90 LONDON on Fri 20 Nov, London. 1 artist: Ezequiel Arias. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

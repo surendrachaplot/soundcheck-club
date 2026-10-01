@@ -1,6 +1,6 @@
 # SKIN MISA: Modesto + Reitze + RUHE at Skin Club
 
-SKIN MISA: Modesto + Reitze + RUHE at Skin Club on Sun 11 Oct, Madrid. 2 artists on the bill: Modesto and Reitze. Preview the line-up and save it on soundcheck.
+SKIN MISA: Modesto + Reitze + RUHE at Skin Club on Sun 11 Oct, Madrid. 2 artists: Modesto and Reitze. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Moxy Annual Halloween Party at Nalen
 
-Moxy Annual Halloween Party at Nalen on Sat 31 Oct, Stockholm. Pop and Club. Preview the line-up and save it on soundcheck.
+Moxy Annual Halloween Party at Nalen on Sat 31 Oct, Stockholm. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

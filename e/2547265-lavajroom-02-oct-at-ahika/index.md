@@ -1,6 +1,6 @@
 # LAVAJROOM 02 OCT at Şahika
 
-LAVAJROOM 02 OCT at Şahika on Fri 2 Oct, Istanbul. 3 artists on the bill: Nots, Panooc and Yasha. Techno and Acid. Preview the line-up and save it on soundcheck.
+LAVAJROOM 02 OCT at Şahika on Fri 2 Oct, Istanbul. 3 artists: Nots, Panooc and Yasha. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

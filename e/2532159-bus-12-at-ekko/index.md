@@ -1,6 +1,6 @@
 # BUS 12 at EKKO
 
-BUS 12 at EKKO on Thu 1 Oct, Utrecht. Pop and Electronica. Preview the line-up and save it on soundcheck.
+BUS 12 at EKKO on Thu 1 Oct, Utrecht. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

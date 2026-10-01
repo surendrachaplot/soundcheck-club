@@ -1,8 +1,8 @@
 # oskar med k
 
-oskar med k is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fonda Theatre, Los Angeles on Wed, 7 Oct 2026.
+oskar med k is a House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fonda Theatre, Los Angeles on Wed, 7 Oct 2026.
 
-oskar med k is a house and deep house artist based in Norway, tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Budapest and Chicago and 16 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Fonda Theatre, Los Angeles on Wed 7 Oct.
+oskar med k is a house and deep house artist based in Norway, with 22 gigs on soundcheck across Barcelona, Berlin, Budapest and Chicago and 16 more. Often billed alongside Boys Noize, Dean Turnley and Skepta. Next up: Fonda Theatre, Los Angeles on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ oskar med k is a house and deep house artist based in Norway, tracked on soundch
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Cervantes' Masterpiece Ballroom, Denver — Fri, 25 Sept 2026
-- Terminal 5, New York City — Sat, 19 Sept 2026
-- Radius, Chicago — Sat, 12 Sept 2026
-- Majestic Theater, Detroit — Fri, 11 Sept 2026
-- Obudai Island, Budapest — Tue, 11 Aug 2026
-- fabric, London — Fri, 19 Jun 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Cervantes' Masterpiece Ballroom, Denver · Fri, 25 Sept 2026
+- Terminal 5, New York City · Sat, 19 Sept 2026
+- Radius, Chicago · Sat, 12 Sept 2026
+- Majestic Theater, Detroit · Fri, 11 Sept 2026
+- Obudai Island, Budapest · Tue, 11 Aug 2026
+- fabric, London · Fri, 19 Jun 2026
 
 ## Shares bills with
 

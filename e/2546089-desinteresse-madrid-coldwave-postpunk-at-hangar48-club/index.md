@@ -1,6 +1,6 @@
 # Desinteresse_Madrid_Coldwave_Postpunk at Hangar48 Club
 
-Desinteresse_Madrid_Coldwave_Postpunk at Hangar48 Club on Sat 28 Nov, Madrid. Post-Punk. Preview the line-up and save it on soundcheck.
+Desinteresse_Madrid_Coldwave_Postpunk at Hangar48 Club on Sat 28 Nov, Madrid. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

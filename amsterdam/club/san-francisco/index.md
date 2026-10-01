@@ -1,8 +1,8 @@
 # San Francisco
 
-San Francisco is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RA25: Amsterdam - Greenhouse Sessions live" on Thu, 22 Oct 2026.
+San Francisco is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RA25: Amsterdam - Greenhouse Sessions live" on Thu, 22 Oct 2026.
 
-San Francisco is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Paula Tape, Antal, BASHKKA and Budino and 2 more. Browse upcoming dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
+San Francisco is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Paula Tape, Antal, BASHKKA and Budino and 2 more. See dates, start times and who's playing. Zeedijk 40, Amsterdam, Netherlands 1012 AZ.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Subsume at Low Profile Studios
 
-Subsume at Low Profile Studios on Sat 28 Nov, London. 4 artists on the bill: AKnight, ANNX, Heavy Skin and Horston. Trance and Techno. Preview the line-up and save it on soundcheck.
+Subsume at Low Profile Studios on Sat 28 Nov, London. 4 artists: AKnight, ANNX, Heavy Skin and Horston. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shannen SP + LaMia Mari + Makeda at Dabadaba
 
-Shannen SP + LaMia Mari + Makeda at Dabadaba on Fri 23 Oct, North. 3 artists on the bill: LaMia Mari, Makeda and Shannen SP. Preview the line-up and save it on soundcheck.
+Shannen SP + LaMia Mari + Makeda at Dabadaba on Fri 23 Oct, North. 3 artists: LaMia Mari, Makeda and Shannen SP. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

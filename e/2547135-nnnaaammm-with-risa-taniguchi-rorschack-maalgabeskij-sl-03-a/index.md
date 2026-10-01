@@ -1,6 +1,6 @@
 # NNNAAAMMM with Risa Taniguchi, Rorschack, Maalgabeskij, SL/03 at TANKclub
 
-NNNAAAMMM with Risa Taniguchi, Rorschack, Maalgabeskij, SL/03 at TANKclub on Sat 24 Oct, Bologna. 2 artists on the bill: Risa Taniguchi and Rorschack. Preview the line-up and save it on soundcheck.
+NNNAAAMMM with Risa Taniguchi, Rorschack, Maalgabeskij, SL/03 at TANKclub on Sat 24 Oct, Bologna. 2 artists: Risa Taniguchi and Rorschack. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

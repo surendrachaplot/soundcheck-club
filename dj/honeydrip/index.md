@@ -1,8 +1,8 @@
 # Honeydrip
 
-Honeydrip is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at SFU Goldcorp Centre for the Arts, Vancouver on Fri, 2 Oct 2026.
+Honeydrip is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SFU Goldcorp Centre for the Arts, Vancouver on Fri, 2 Oct 2026.
 
-Honeydrip is a bass and techno artist based in Canada, tracked on soundcheck, with 69 sets logged across Barcelona, Berlin, Bristol and Brussels and 15 more. Often billed alongside Deadbeat, Jen Cardini and Mossy Mugler. Next up: SFU Goldcorp Centre for the Arts, Vancouver on Fri 2 Oct.
+Honeydrip is a bass and techno artist based in Canada, with 69 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 15 more. Often billed alongside Deadbeat, Jen Cardini and Mossy Mugler. Next up: SFU Goldcorp Centre for the Arts, Vancouver on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Honeydrip is a bass and techno artist based in Canada, tracked on soundcheck, wi
 
 ## Recently played
 
-- Allan Gardens Conservatory, Toronto — Sat, 19 Sept 2026
-- Système, Montreal — Sat, 12 Sept 2026
-- Société des arts technologiques, Montreal — Fri, 28 Aug 2026
-- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
-- Village au Pied-du-Courant, Montreal — Sun, 16 Aug 2026
-- La Sotterenea, Montreal — Mon, 20 Jul 2026
-- The Love Inn, Bristol — Thu, 18 Jun 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Fri, 12 Jun 2026
+- Allan Gardens Conservatory, Toronto · Sat, 19 Sept 2026
+- Système, Montreal · Sat, 12 Sept 2026
+- Société des arts technologiques, Montreal · Fri, 28 Aug 2026
+- Quartier Des Spectacles, Montreal · Tue, 25 Aug 2026
+- Village au Pied-du-Courant, Montreal · Sun, 16 Aug 2026
+- La Sotterenea, Montreal · Mon, 20 Jul 2026
+- The Love Inn, Bristol · Thu, 18 Jun 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Fri, 12 Jun 2026
 
 ## Shares bills with
 

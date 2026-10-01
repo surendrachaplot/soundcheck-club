@@ -1,6 +1,6 @@
 # FRESHERS Jungle, 140, Garage, DnB with Hendy and Betsy Mae of Sexy Lady Massive at Quarters
 
-FRESHERS Jungle, 140, Garage, DnB with Hendy and Betsy Mae of Sexy Lady Massive at Quarters on Thu 1 Oct, Brighton. Garage and Jungle. Preview the line-up and save it on soundcheck.
+FRESHERS Jungle, 140, Garage, DnB with Hendy and Betsy Mae of Sexy Lady Massive at Quarters on Thu 1 Oct, Brighton. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

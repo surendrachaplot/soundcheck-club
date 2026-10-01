@@ -1,6 +1,6 @@
 # ADSIDERA SEMPER FESTIVAL 2026 at LA Coralina Island House OF AD Sidera
 
-ADSIDERA SEMPER FESTIVAL 2026 at LA Coralina Island House OF AD Sidera on Fri 30 Oct, Panama. 6 artists on the bill: ANNA, Christian Rojas, Deer Jade and Oriol Calvo and 2 more. Preview the line-up and save it on soundcheck.
+ADSIDERA SEMPER FESTIVAL 2026 at LA Coralina Island House OF AD Sidera on Fri 30 Oct, Panama. 6 artists: ANNA, Christian Rojas, Deer Jade and Oriol Calvo and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

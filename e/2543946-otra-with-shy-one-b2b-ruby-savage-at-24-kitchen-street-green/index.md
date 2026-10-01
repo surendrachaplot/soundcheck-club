@@ -1,6 +1,6 @@
 # Otra with Shy One b2b Ruby Savage at 24 Kitchen Street Green Room
 
-Otra with Shy One b2b Ruby Savage at 24 Kitchen Street Green Room on Sat 7 Nov, Liverpool. 3 artists on the bill: Dharma Collective, Ruby Savage and Shy One. House and Broken Beat. Preview the line-up and save it on soundcheck.
+Otra with Shy One b2b Ruby Savage at 24 Kitchen Street Green Room on Sat 7 Nov, Liverpool. 3 artists: Dharma Collective, Ruby Savage and Shy One. House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

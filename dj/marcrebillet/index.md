@@ -1,8 +1,8 @@
 # Marc Rebillet
 
-Marc Rebillet is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Union Market, Washington DC on Sat, 3 Oct 2026.
+Marc Rebillet is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Union Market, Washington DC on Sat, 3 Oct 2026.
 
-Marc Rebillet is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Bali, Barcelona, Budapest and Dublin and 12 more. Often billed alongside WhoMadeWho, I Hate Models and Anyma. Next up: Union Market, Washington DC on Sat 3 Oct.
+Marc Rebillet is a house and deep house artist based in United States of America, with 20 gigs on soundcheck across Bali, Barcelona, Budapest and Dublin and 12 more. Often billed alongside WhoMadeWho, I Hate Models and Anyma. Next up: Union Market, Washington DC on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Marc Rebillet is a house and deep house artist based in United States of America
 
 ## Recently played
 
-- Mission Beach, San Diego — Sat, 21 Mar 2026
-- Carriageworks, Sydney — Sun, 4 Jan 2026
-- Glenworth Valley, Sydney — Sun, 28 Dec 2025
-- Domaine National de Saint-Cloud, Paris — Fri, 22 Aug 2025
-- Domaine National de Saint-Cloud, Paris — Wed, 20 Aug 2025
-- Carriage House NY, New York City — Thu, 24 Jul 2025
-- Heaton Park, Manchester — Sat, 14 Jun 2025
-- Glendalough Estate, Dublin — Fri, 13 Jun 2025
+- Mission Beach, San Diego · Sat, 21 Mar 2026
+- Carriageworks, Sydney · Sun, 4 Jan 2026
+- Glenworth Valley, Sydney · Sun, 28 Dec 2025
+- Domaine National de Saint-Cloud, Paris · Fri, 22 Aug 2025
+- Domaine National de Saint-Cloud, Paris · Wed, 20 Aug 2025
+- Carriage House NY, New York City · Thu, 24 Jul 2025
+- Heaton Park, Manchester · Sat, 14 Jun 2025
+- Glendalough Estate, Dublin · Fri, 13 Jun 2025
 
 ## Shares bills with
 

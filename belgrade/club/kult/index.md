@@ -1,8 +1,8 @@
 # Kult
 
-Kult is a music venue in Belgrade with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "KULT pres. DumitrEscu" on Sat, 3 Oct 2026.
+Kult is a music venue in Belgrade with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "KULT pres. DumitrEscu" on Sat, 3 Oct 2026.
 
-Kult is a music venue in Belgrade listed on soundcheck. 3 upcoming gigs, with line-ups including Dakman, Derrick May, DumitrEscu and Marko Milosavljevic and 1 more. Browse upcoming dates, start times and who's playing. Čumićevo sokače 3, 11000 Belgrade, Serbia.
+Kult is a music venue in Belgrade listed on soundcheck. 3 upcoming gigs, with line-ups including Dakman, Derrick May, DumitrEscu and Marko Milosavljevic and 1 more. See dates, start times and who's playing. Čumićevo sokače 3, 11000 Belgrade, Serbia.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Bronka + Manuka Honey at New Century Locker
 
-Bronka + Manuka Honey at New Century Locker on Fri 9 Oct, Manchester. 2 artists on the bill: Bronka and Manuka Honey. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+Bronka + Manuka Honey at New Century Locker on Fri 9 Oct, Manchester. 2 artists: Bronka and Manuka Honey. Baile Funk and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

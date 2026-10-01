@@ -1,6 +1,6 @@
 # House Religion x Paloma at Paloma
 
-House Religion x Paloma on Fri 27 Nov, London. Afro House. Preview the line-up and save it on soundcheck.
+House Religion x Paloma on Fri 27 Nov, London. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

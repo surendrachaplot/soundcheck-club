@@ -1,8 +1,8 @@
 # P61 Gallery
 
-P61 Gallery is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Reflected Radio [REC006]" on Fri, 30 Oct 2026.
+P61 Gallery is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Reflected Radio [REC006]" on Fri, 30 Oct 2026.
 
-P61 Gallery is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Potsdamer Str. 61, 10785 Berlin, Germany.
+P61 Gallery is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Potsdamer Str. 61, 10785 Berlin, Germany.
 
 ## What's on
 

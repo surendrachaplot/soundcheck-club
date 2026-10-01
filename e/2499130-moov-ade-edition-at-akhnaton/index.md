@@ -1,6 +1,6 @@
 # MOOV - ADE Edition at Akhnaton
 
-MOOV - ADE Edition at Akhnaton on Fri 23 Oct, Amsterdam. 9 artists on the bill: Aubrey Fry, Kebin van Reeken, Miss Dominguez and Nicholas Van Orton and 5 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+MOOV - ADE Edition at Akhnaton on Fri 23 Oct, Amsterdam. 9 artists: Aubrey Fry, Kebin van Reeken, Miss Dominguez and Nicholas Van Orton and 5 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

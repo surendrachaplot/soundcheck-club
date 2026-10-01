@@ -1,6 +1,6 @@
 # RASPOUTINE presents: RCKSLVR + SPECIAL GUEST at Raspoutine Los Angeles
 
-RASPOUTINE presents: RCKSLVR + SPECIAL GUEST at Raspoutine Los Angeles on Fri 2 Oct, Los Angeles. 1 artist on the bill: RCKSLVR. Preview the line-up and save it on soundcheck.
+RASPOUTINE presents: RCKSLVR + SPECIAL GUEST at Raspoutine Los Angeles on Fri 2 Oct, Los Angeles. 1 artist: RCKSLVR. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

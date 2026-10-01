@@ -1,6 +1,6 @@
 # Fiesta Atomic - Halloween - Parallel 63 (Bcn) at TBA - Parallel 62
 
-Fiesta Atomic - Halloween - Parallel 63 (Bcn) at TBA - Parallel 62 on Sat 31 Oct, Barcelona. 1 artist on the bill: Maadraassoo. Pop. Preview the line-up and save it on soundcheck.
+Fiesta Atomic - Halloween - Parallel 63 (Bcn) at TBA - Parallel 62 on Sat 31 Oct, Barcelona. 1 artist: Maadraassoo. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

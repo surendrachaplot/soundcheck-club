@@ -1,6 +1,6 @@
 # UNÁNIME TECHNO NIGHT at La Gata del Born
 
-UNÁNIME TECHNO NIGHT at La Gata del Born on Fri 2 Oct, Barcelona. 2 artists on the bill: KRYTE and Pullär. Techno. Preview the line-up and save it on soundcheck.
+UNÁNIME TECHNO NIGHT at La Gata del Born on Fri 2 Oct, Barcelona. 2 artists: KRYTE and Pullär. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bus zur Frenchcore S'il Vous Plaît (Club Rodenburg) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-Bus zur Frenchcore S'il Vous Plaît (Club Rodenburg) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 31 Oct, Frankfurt. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Bus zur Frenchcore S'il Vous Plaît (Club Rodenburg) at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 31 Oct, Frankfurt. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

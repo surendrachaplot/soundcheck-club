@@ -1,6 +1,6 @@
 # The Bausa at La Nau
 
-The Bausa at La Nau on Mon 19 Oct, Barcelona. House and Pop. Preview the line-up and save it on soundcheck.
+The Bausa at La Nau on Mon 19 Oct, Barcelona. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

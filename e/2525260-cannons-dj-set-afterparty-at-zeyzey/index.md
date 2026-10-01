@@ -1,6 +1,6 @@
 # Cannons DJ Set Afterparty at ZeyZey
 
-Cannons DJ Set Afterparty at ZeyZey on Sat 10 Oct, Miami. Pop. Preview the line-up and save it on soundcheck.
+Cannons DJ Set Afterparty at ZeyZey on Sat 10 Oct, Miami. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

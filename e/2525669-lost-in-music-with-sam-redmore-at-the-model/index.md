@@ -1,6 +1,6 @@
 # Lost In Music with SAM REDMORE at The Model
 
-Lost In Music with SAM REDMORE at The Model on Sat 17 Oct, Nottingham. 1 artist on the bill: Sam Redmore. House and Disco. Preview the line-up and save it on soundcheck.
+Lost In Music with SAM REDMORE at The Model on Sat 17 Oct, Nottingham. 1 artist: Sam Redmore. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

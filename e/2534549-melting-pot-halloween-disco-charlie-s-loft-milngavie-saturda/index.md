@@ -1,6 +1,6 @@
 # Melting Pot Halloween Disco ⨳ Charlie's Loft, Milngavie ⨳ Saturday 31st October ⨳ 8pm-2am ⨳ at Charlies Loft
 
-Melting Pot Halloween Disco ⨳ Charlie's Loft, Milngavie ⨳ Saturday 31st October ⨳ 8pm-2am ⨳ at Charlies Loft on Sat 31 Oct, Glasgow. House and Disco. Preview the line-up and save it on soundcheck.
+Melting Pot Halloween Disco ⨳ Charlie's Loft, Milngavie ⨳ Saturday 31st October ⨳ 8pm-2am ⨳ at Charlies Loft on Sat 31 Oct, Glasgow. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

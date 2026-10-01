@@ -1,6 +1,6 @@
 # Paddock in the Sky feat Nakadia at Marini's On 57
 
-Paddock in the Sky feat Nakadia at Marini's On 57 on Fri 2 Oct, Kuala Lumpur. 1 artist on the bill: Nakadia. Disco and Club. Preview the line-up and save it on soundcheck.
+Paddock in the Sky feat Nakadia at Marini's On 57 on Fri 2 Oct, Kuala Lumpur. 1 artist: Nakadia. Disco and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

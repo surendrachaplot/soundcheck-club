@@ -1,6 +1,6 @@
 # PURGATORY: Friday Night with Jayda G + Suze Ijó at Refuge
 
-PURGATORY: Friday Night with Jayda G + Suze Ijó at Refuge on Fri 30 Oct, New York City. 2 artists on the bill: Jayda G and Suze Ijó. Preview the line-up and save it on soundcheck.
+PURGATORY: Friday Night with Jayda G + Suze Ijó at Refuge on Fri 30 Oct, New York City. 2 artists: Jayda G and Suze Ijó. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

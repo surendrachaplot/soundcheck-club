@@ -1,6 +1,6 @@
 # 9HRS of ESCAPISM ft Octave One Live + Denis Horvat + Prom Night + Sakena at Den Anden Side
 
-9HRS of ESCAPISM ft Octave One Live + Denis Horvat + Prom Night + Sakena at Den Anden Side on Fri 6 Nov, Copenhagen. 4 artists on the bill: Denis Horvat, Octave One, Prom Night and Sakena Ali. Techno and House. Preview the line-up and save it on soundcheck.
+9HRS of ESCAPISM ft Octave One Live + Denis Horvat + Prom Night + Sakena at Den Anden Side on Fri 6 Nov, Copenhagen. 4 artists: Denis Horvat, Octave One, Prom Night and Sakena Ali. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

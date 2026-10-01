@@ -1,6 +1,6 @@
 # Lyumin & givogi at Nyapi
 
-Lyumin & givogi at Nyapi on Thu 22 Oct, Seoul. 2 artists on the bill: givogi and Lyumin. Preview the line-up and save it on soundcheck.
+Lyumin & givogi at Nyapi on Thu 22 Oct, Seoul. 2 artists: givogi and Lyumin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

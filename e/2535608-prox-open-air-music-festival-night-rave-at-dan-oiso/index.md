@@ -1,6 +1,6 @@
 # PROX — Open-Air Music Festival & Night Rave at DAN Oiso
 
-PROX — Open-Air Music Festival & Night Rave at DAN Oiso on Sat 7 Nov, Kanto. 4 artists on the bill: BANANA-CHAN, Dazzle Drums, Sunga and Yuki Kawamura. Preview the line-up and save it on soundcheck.
+PROX — Open-Air Music Festival & Night Rave at DAN Oiso on Sat 7 Nov, Kanto. 4 artists: BANANA-CHAN, Dazzle Drums, Sunga and Yuki Kawamura. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

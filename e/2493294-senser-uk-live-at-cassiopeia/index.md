@@ -1,6 +1,6 @@
 # Senser (UK / Live) at Cassiopeia
 
-Senser (UK / Live) at Cassiopeia on Sun 6 Dec, Berlin. Preview the line-up and save it on soundcheck.
+Senser (UK / Live) at Cassiopeia on Sun 6 Dec, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

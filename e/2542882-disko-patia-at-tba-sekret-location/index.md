@@ -1,6 +1,6 @@
 # Disko.patia at TBA - Sekret location
 
-Disko.patia at TBA - Sekret location on Sun 4 Oct, Rome. Trance and Techno. Preview the line-up and save it on soundcheck.
+Disko.patia at TBA - Sekret location on Sun 4 Oct, Rome. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

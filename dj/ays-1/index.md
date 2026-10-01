@@ -1,8 +1,8 @@
 # Ays (NL)
 
-Ays (NL) is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 2 Oct 2026.
+Ays (NL) is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 2 Oct 2026.
 
-Ays (NL) is a house and disco artist based in Netherlands, tracked on soundcheck, with 67 sets logged across Amsterdam, Antwerp, Brussels and Helsinki and 8 more. Often billed alongside Kuriosa, Antal and Charmaine. Next up: SISSI'S Amsterdam, Amsterdam on Fri 2 Oct.
+Ays (NL) is a house and disco artist based in Netherlands, with 67 gigs on soundcheck across Amsterdam, Antwerp, Brussels and Helsinki and 8 more. Often billed alongside Kuriosa, Antal and Charmaine. Next up: SISSI'S Amsterdam, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Ays (NL) is a house and disco artist based in Netherlands, tracked on soundcheck
 
 ## Recently played
 
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- Cult=us, Rotterdam — Fri, 11 Sept 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Koda, Rotterdam — Sat, 20 Jun 2026
-- Ndsm x Helling, Amsterdam — Sat, 6 Jun 2026
-- Keilecafe, Rotterdam — Sat, 30 May 2026
-- The Loft Amsterdam, Amsterdam — Fri, 15 May 2026
-- Cult=us, Rotterdam — Fri, 15 May 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- Cult=us, Rotterdam · Fri, 11 Sept 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- Koda, Rotterdam · Sat, 20 Jun 2026
+- Ndsm x Helling, Amsterdam · Sat, 6 Jun 2026
+- Keilecafe, Rotterdam · Sat, 30 May 2026
+- The Loft Amsterdam, Amsterdam · Fri, 15 May 2026
+- Cult=us, Rotterdam · Fri, 15 May 2026
 
 ## Shares bills with
 

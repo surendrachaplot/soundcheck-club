@@ -1,6 +1,6 @@
 # House Money at Freeplay Toronto Retro Arcade Bar
 
-House Money at Freeplay Toronto Retro Arcade Bar on Thu 15 Oct, Toronto. House and Disco. Preview the line-up and save it on soundcheck.
+House Money at Freeplay Toronto Retro Arcade Bar on Thu 15 Oct, Toronto. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

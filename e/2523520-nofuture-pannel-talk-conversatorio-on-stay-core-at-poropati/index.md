@@ -1,6 +1,6 @@
 # NOFUTURE  PANNEL TALK / CONVERSATORIO on STAY CORE at Poropati
 
-NOFUTURE  PANNEL TALK / CONVERSATORIO on STAY CORE at Poropati on Tue 6 Oct, Berlin. Bass and Reggaeton. Preview the line-up and save it on soundcheck.
+NOFUTURE  PANNEL TALK / CONVERSATORIO on STAY CORE at Poropati on Tue 6 Oct, Berlin. Bass and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

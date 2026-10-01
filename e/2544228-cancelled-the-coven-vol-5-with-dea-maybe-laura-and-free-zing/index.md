@@ -1,6 +1,6 @@
 # [CANCELLED] The Coven Vol.5 with Dea, Maybe Laura and Free Zing at Cellar
 
-[CANCELLED] The Coven Vol.5 with Dea, Maybe Laura and Free Zing at Cellar on Sat 3 Oct, London. 3 artists on the bill: Dea, Free Zing and Maybe Laura. Techno and Electronica. Preview the line-up and save it on soundcheck.
+[CANCELLED] The Coven Vol.5 with Dea, Maybe Laura and Free Zing at Cellar on Sat 3 Oct, London. 3 artists: Dea, Free Zing and Maybe Laura. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

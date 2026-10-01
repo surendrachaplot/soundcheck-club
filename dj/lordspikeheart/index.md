@@ -1,8 +1,8 @@
 # Lord Spikeheart
 
-Lord Spikeheart is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Zentralwäscherei, Zurich on Thu, 5 Nov 2026.
+Lord Spikeheart is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Zentralwäscherei, Zurich on Thu, 5 Nov 2026.
 
-Lord Spikeheart is an experimental and electronica artist based in Kenya, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Bristol and Brussels and 17 more. Often billed alongside bela, Abul Mogard and Bill Kouligas. Next up: Zentralwäscherei, Zurich on Thu 5 Nov.
+Lord Spikeheart is an experimental and electronica artist based in Kenya, with 33 gigs on soundcheck across Barcelona, Berlin, Bristol and Brussels and 17 more. Often billed alongside bela, Abul Mogard and Bill Kouligas. Next up: Zentralwäscherei, Zurich on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Lord Spikeheart is an experimental and electronica artist based in Kenya, tracke
 
 ## Recently played
 
-- Cascina Falchera, Turin — Fri, 29 May 2026
-- Invisible Wind Factory, Liverpool — Sat, 23 May 2026
-- ICA, London — Fri, 22 May 2026
-- Import Export, Munich — Fri, 3 Apr 2026
-- AB Box (Ancienne Belgique), Brussels — Fri, 3 Apr 2026
-- ALICE, Copenhagen — Thu, 26 Mar 2026
-- Gretchen, Berlin — Sat, 21 Mar 2026
-- TBA - Barreiro, Lisbon — Thu, 2 Oct 2025
+- Cascina Falchera, Turin · Fri, 29 May 2026
+- Invisible Wind Factory, Liverpool · Sat, 23 May 2026
+- ICA, London · Fri, 22 May 2026
+- Import Export, Munich · Fri, 3 Apr 2026
+- AB Box (Ancienne Belgique), Brussels · Fri, 3 Apr 2026
+- ALICE, Copenhagen · Thu, 26 Mar 2026
+- Gretchen, Berlin · Sat, 21 Mar 2026
+- TBA - Barreiro, Lisbon · Thu, 2 Oct 2025
 
 ## Shares bills with
 

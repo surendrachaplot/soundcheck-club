@@ -1,6 +1,6 @@
 # SOUNDSET SERIES : DJ Plead at Centro Cultural Conde Duque
 
-SOUNDSET SERIES : DJ Plead at Centro Cultural Conde Duque on Fri 30 Oct, Madrid. 1 artist on the bill: DJ Plead. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+SOUNDSET SERIES : DJ Plead at Centro Cultural Conde Duque on Fri 30 Oct, Madrid. 1 artist: DJ Plead. Downtempo and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kinktastisch! Techno. Kink. Play at Insomnia
 
-Kinktastisch! Techno. Kink. Play at Insomnia on Sat 10 Oct, Berlin. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Kinktastisch! Techno. Kink. Play at Insomnia on Sat 10 Oct, Berlin. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

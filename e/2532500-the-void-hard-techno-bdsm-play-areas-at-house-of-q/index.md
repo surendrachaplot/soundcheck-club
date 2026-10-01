@@ -1,6 +1,6 @@
 # The Void - Hard Techno + BDSM play areas at House of Q
 
-The Void - Hard Techno + BDSM play areas at House of Q on Sat 7 Nov, Stockholm. 1 artist on the bill: Mira Iranpour. Techno. Preview the line-up and save it on soundcheck.
+The Void - Hard Techno + BDSM play areas at House of Q on Sat 7 Nov, Stockholm. 1 artist: Mira Iranpour. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

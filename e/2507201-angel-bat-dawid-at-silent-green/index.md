@@ -1,6 +1,6 @@
 # Angel Bat Dawid at Silent Green
 
-Angel Bat Dawid at Silent Green on Tue 24 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Angel Bat Dawid at Silent Green on Tue 24 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

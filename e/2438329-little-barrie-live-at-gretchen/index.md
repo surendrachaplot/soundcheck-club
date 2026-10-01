@@ -1,6 +1,6 @@
 # LITTLE BARRIE *live at Gretchen
 
-LITTLE BARRIE *live at Gretchen on Fri 20 Nov, Berlin. Preview the line-up and save it on soundcheck.
+LITTLE BARRIE *live at Gretchen on Fri 20 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

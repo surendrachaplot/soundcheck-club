@@ -1,8 +1,8 @@
 # Honey Street Studio
 
-Honey Street Studio is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Jaded Audio presents - Harley D & Kaz (Dnb & Jungle)" on Fri, 2 Oct 2026.
+Honey Street Studio is a music venue in Manchester with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Jaded Audio presents - Harley D & Kaz (Dnb & Jungle)" on Fri, 2 Oct 2026.
 
-Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Abby Harris, Abena, Allius and Amelia Leigh and 2 more. Browse upcoming dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
+Honey Street Studio is a music venue in Manchester listed on soundcheck. 11 upcoming gigs, with line-ups including Abby Harris, Abena, Allius and Amelia Leigh and 2 more. See dates, start times and who's playing. Honey St, Cheetham Hill, Manchester M8 8RG.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Striptopia at Melkweg
 
-Striptopia at Melkweg on Wed 21 Oct, Amsterdam. House and Electronica. Preview the line-up and save it on soundcheck.
+Striptopia at Melkweg on Wed 21 Oct, Amsterdam. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Big Fat Rave: Halloween 2026 / Warehouse Sessions at Warehouse 34
 
-Big Fat Rave: Halloween 2026 / Warehouse Sessions at Warehouse 34 on Sat 31 Oct, Newcastle. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+Big Fat Rave: Halloween 2026 / Warehouse Sessions at Warehouse 34 on Sat 31 Oct, Newcastle. Hardcore and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

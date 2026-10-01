@@ -1,6 +1,6 @@
 # Life Imitates Art: Live in London with DJ Lucas, Papo2oo4, Subjxct 5 at Vittoria Wharf Studio
 
-Life Imitates Art: Live in London with DJ Lucas, Papo2oo4, Subjxct 5 at Vittoria Wharf Studio on Tue 6 Oct, London. Hip-Hop. Preview the line-up and save it on soundcheck.
+Life Imitates Art: Live in London with DJ Lucas, Papo2oo4, Subjxct 5 at Vittoria Wharf Studio on Tue 6 Oct, London. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

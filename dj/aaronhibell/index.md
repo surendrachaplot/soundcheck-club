@@ -1,8 +1,8 @@
 # Aaron Hibell
 
-Aaron Hibell is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at fabric, London on Sat, 10 Oct 2026.
+Aaron Hibell is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Sat, 10 Oct 2026.
 
-Aaron Hibell is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Basel and Berlin and 23 more. Often billed alongside Kotiēr, Adam Beyer and Charlie Sparks. Next up: fabric, London on Sat 10 Oct.
+Aaron Hibell is a techno and trance artist based in United Kingdom, with 44 gigs on soundcheck across Amsterdam, Antwerp, Basel and Berlin and 23 more. Often billed alongside Kotiēr, Adam Beyer and Charlie Sparks. Next up: fabric, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Aaron Hibell is a techno and trance artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Boston Manor Park, London — Sun, 26 Jul 2026
-- Outset, Chicago — Sun, 12 Jul 2026
-- The Regency Ballroom, San Francisco/Oakland — Sat, 27 Jun 2026
-- Fonda Theatre, Los Angeles — Thu, 25 Jun 2026
-- Music Box, San Diego — Wed, 24 Jun 2026
-- Magic Stick, Detroit — Sat, 13 Jun 2026
-- Cervantes' Masterpiece Ballroom, Denver — Tue, 9 Jun 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Boston Manor Park, London · Sun, 26 Jul 2026
+- Outset, Chicago · Sun, 12 Jul 2026
+- The Regency Ballroom, San Francisco/Oakland · Sat, 27 Jun 2026
+- Fonda Theatre, Los Angeles · Thu, 25 Jun 2026
+- Music Box, San Diego · Wed, 24 Jun 2026
+- Magic Stick, Detroit · Sat, 13 Jun 2026
+- Cervantes' Masterpiece Ballroom, Denver · Tue, 9 Jun 2026
 
 ## Shares bills with
 

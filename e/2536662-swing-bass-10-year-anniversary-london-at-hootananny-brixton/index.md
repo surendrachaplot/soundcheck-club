@@ -1,6 +1,6 @@
 # Swing & Bass: 10 Year Anniversary (London) at Hootananny Brixton
 
-Swing & Bass: 10 Year Anniversary (London) at Hootananny Brixton on Fri 20 Nov, London. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Swing & Bass: 10 Year Anniversary (London) at Hootananny Brixton on Fri 20 Nov, London. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

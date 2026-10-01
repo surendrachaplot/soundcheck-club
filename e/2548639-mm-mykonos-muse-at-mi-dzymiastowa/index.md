@@ -1,6 +1,6 @@
 # MM: MYKONOS MUSE at Międzymiastowa
 
-MM: MYKONOS MUSE at Międzymiastowa on Sat 17 Oct, Krakow. Techno. Preview the line-up and save it on soundcheck.
+MM: MYKONOS MUSE at Międzymiastowa on Sat 17 Oct, Krakow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

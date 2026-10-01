@@ -1,8 +1,8 @@
 # KAVARI
 
-KAVARI is a Experimental and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+KAVARI is a Experimental and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-KAVARI is an experimental and techno artist based in United Kingdom, tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Austin and Austria and 35 more. Often billed alongside Blood of Aza, gyrofield and Blawan. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+KAVARI is an experimental and techno artist based in United Kingdom, with 109 gigs on soundcheck across Amsterdam, Auckland, Austin and Austria and 35 more. Often billed alongside Blood of Aza, gyrofield and Blawan. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ KAVARI is an experimental and techno artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- The White Hotel, Manchester — Sat, 22 Aug 2026
-- Wigwam, Dublin — Sat, 25 Jul 2026
-- Ostrov Štvanice, Prague — Fri, 10 Jul 2026
-- TBA - SAFEHOUSE 1, 139 COPELAND RD SE15 3SN, London — Fri, 10 Jul 2026
-- Cakeshop, Seoul — Sat, 27 Jun 2026
-- Miscellania, Melbourne — Fri, 19 Jun 2026
-- Whammy Bar, Auckland — Fri, 19 Jun 2026
-- Oxford Art Factory, Sydney — Sun, 14 Jun 2026
+- The White Hotel, Manchester · Sat, 22 Aug 2026
+- Wigwam, Dublin · Sat, 25 Jul 2026
+- Ostrov Štvanice, Prague · Fri, 10 Jul 2026
+- TBA - SAFEHOUSE 1, 139 COPELAND RD SE15 3SN, London · Fri, 10 Jul 2026
+- Cakeshop, Seoul · Sat, 27 Jun 2026
+- Miscellania, Melbourne · Fri, 19 Jun 2026
+- Whammy Bar, Auckland · Fri, 19 Jun 2026
+- Oxford Art Factory, Sydney · Sun, 14 Jun 2026
 
 ## Shares bills with
 

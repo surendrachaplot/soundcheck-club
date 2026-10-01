@@ -1,8 +1,8 @@
 # STOFFELA
 
-STOFFELA is a Afro House and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
+STOFFELA is a Afro House and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NDSM Scheepsbouwloods, Amsterdam on Sat, 24 Oct 2026.
 
-STOFFELA is an afro house and r&b artist based in South Africa, tracked on soundcheck, with 10 sets logged across Amsterdam, Barcelona, Cyprus and Ibiza and 4 more. Often billed alongside Shimza, ARODES and AWEN. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
+STOFFELA is an afro house and r&b artist based in South Africa, with 10 gigs on soundcheck across Amsterdam, Barcelona, Cyprus and Ibiza and 4 more. Often billed alongside Shimza, ARODES and AWEN. Next up: NDSM Scheepsbouwloods, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ STOFFELA is an afro house and r&b artist based in South Africa, tracked on sound
 
 ## Recently played
 
-- Etko, Cyprus — Fri, 25 Sept 2026
-- Donauinsel, Vienna — Fri, 3 Jul 2026
-- Pacha Ibiza, Ibiza — Thu, 14 May 2026
-- The Roundhouse, London — Fri, 23 Jan 2026
-- Pavilhão Carlos Lopes, Lisbon — Sat, 22 Nov 2025
-- Onderzeebootloods, Rotterdam — Sat, 15 Nov 2025
-- La Terrrazza, Barcelona — Thu, 12 Jun 2025
-- High Lights - Barking Park, London — Sat, 7 Jun 2025
+- Etko, Cyprus · Fri, 25 Sept 2026
+- Donauinsel, Vienna · Fri, 3 Jul 2026
+- Pacha Ibiza, Ibiza · Thu, 14 May 2026
+- The Roundhouse, London · Fri, 23 Jan 2026
+- Pavilhão Carlos Lopes, Lisbon · Sat, 22 Nov 2025
+- Onderzeebootloods, Rotterdam · Sat, 15 Nov 2025
+- La Terrrazza, Barcelona · Thu, 12 Jun 2025
+- High Lights - Barking Park, London · Sat, 7 Jun 2025
 
 ## Shares bills with
 

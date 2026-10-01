@@ -1,6 +1,6 @@
 # KONCERT I KULISSEN: PORTAL PETS at Aveny-T
 
-KONCERT I KULISSEN: PORTAL PETS at Aveny-T on Fri 16 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+KONCERT I KULISSEN: PORTAL PETS at Aveny-T on Fri 16 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

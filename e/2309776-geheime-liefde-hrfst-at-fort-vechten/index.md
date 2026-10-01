@@ -1,6 +1,6 @@
 # Geheime Liefde, HRFST at Fort Vechten
 
-Geheime Liefde, HRFST at Fort Vechten on Sat 3 Oct, Utrecht. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Geheime Liefde, HRFST at Fort Vechten on Sat 3 Oct, Utrecht. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

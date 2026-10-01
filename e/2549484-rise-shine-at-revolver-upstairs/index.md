@@ -1,6 +1,6 @@
 # Rise & Shine at Revolver Upstairs
 
-Rise & Shine at Revolver Upstairs on Sat 3 Oct, Melbourne. 1 artist on the bill: Sunshine. Techno and House. Preview the line-up and save it on soundcheck.
+Rise & Shine at Revolver Upstairs on Sat 3 Oct, Melbourne. 1 artist: Sunshine. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

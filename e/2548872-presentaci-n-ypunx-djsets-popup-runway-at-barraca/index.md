@@ -1,6 +1,6 @@
 # presentación YPUNX! - DJSETS + POPUP + RUNWAY at Barraca
 
-presentación YPUNX! - DJSETS + POPUP + RUNWAY at Barraca on Fri 2 Oct, Valencia. 7 artists on the bill: @n3opapi, ANTU, Ari (ES) and FAG HAG and 3 more. Trance and Club. Preview the line-up and save it on soundcheck.
+presentación YPUNX! - DJSETS + POPUP + RUNWAY at Barraca on Fri 2 Oct, Valencia. 7 artists: @n3opapi, ANTU, Ari (ES) and FAG HAG and 3 more. Trance and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

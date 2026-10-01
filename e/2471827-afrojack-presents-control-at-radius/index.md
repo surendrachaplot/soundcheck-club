@@ -1,6 +1,6 @@
 # Afrojack presents Control at Radius
 
-Afrojack presents Control at Radius on Fri 9 Oct, Chicago. 1 artist on the bill: Afrojack. House. Preview the line-up and save it on soundcheck.
+Afrojack presents Control at Radius on Fri 9 Oct, Chicago. 1 artist: Afrojack. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

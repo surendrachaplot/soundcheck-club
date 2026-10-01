@@ -1,6 +1,6 @@
 # RESONANCE LDN at Basing House
 
-RESONANCE LDN at Basing House on Sat 24 Oct, London. House and Afro House. Preview the line-up and save it on soundcheck.
+RESONANCE LDN at Basing House on Sat 24 Oct, London. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

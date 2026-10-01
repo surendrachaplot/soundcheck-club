@@ -1,6 +1,6 @@
 # SUNWAVE HALLOWEEN: NIGHT AT THE MUSEUM at Museum Of Vancouver
 
-SUNWAVE HALLOWEEN: NIGHT AT THE MUSEUM at Museum Of Vancouver on Sat 31 Oct, Vancouver. Preview the line-up and save it on soundcheck.
+SUNWAVE HALLOWEEN: NIGHT AT THE MUSEUM at Museum Of Vancouver on Sat 31 Oct, Vancouver. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

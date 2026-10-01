@@ -1,6 +1,6 @@
 # REWIND PRESENTS GFA B2B HANNAH at The Ulster Sports Club
 
-REWIND PRESENTS GFA B2B HANNAH at The Ulster Sports Club on Fri 23 Oct, Belfast. 2 artists on the bill: GFA and IndeniaL. Techno. Preview the line-up and save it on soundcheck.
+REWIND PRESENTS GFA B2B HANNAH at The Ulster Sports Club on Fri 23 Oct, Belfast. 2 artists: GFA and IndeniaL. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

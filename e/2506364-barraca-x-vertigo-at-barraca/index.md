@@ -1,6 +1,6 @@
 # Barraca x Vertigo at Barraca
 
-Barraca x Vertigo on Sat 24 Oct, Valencia. 6 artists on the bill: Brenda Serna, Domen, Lilly Palmer and Lucas Cabello and 2 more. Preview the line-up and save it on soundcheck.
+Barraca x Vertigo on Sat 24 Oct, Valencia. 6 artists: Brenda Serna, Domen, Lilly Palmer and Lucas Cabello and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

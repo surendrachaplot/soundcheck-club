@@ -1,6 +1,6 @@
 # Bianca Lexis, Zoya, Mishka at Bar Part Time
 
-Bianca Lexis, Zoya, Mishka at Bar Part Time on Fri 2 Oct, San Francisco/Oakland. 3 artists on the bill: Bianca Lexis, Mishka and Zoya. Preview the line-up and save it on soundcheck.
+Bianca Lexis, Zoya, Mishka at Bar Part Time on Fri 2 Oct, San Francisco/Oakland. 3 artists: Bianca Lexis, Mishka and Zoya. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

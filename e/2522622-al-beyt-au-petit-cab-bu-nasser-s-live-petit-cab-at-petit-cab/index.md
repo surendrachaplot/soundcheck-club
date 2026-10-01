@@ -1,6 +1,6 @@
 # Al Beyt au Petit CAB: Bu Nasser's live @ Petit Cab at Petit CAB
 
-Al Beyt au Petit CAB: Bu Nasser's live @ Petit Cab on Fri 9 Oct, Marseille. Preview the line-up and save it on soundcheck.
+Al Beyt au Petit CAB: Bu Nasser's live @ Petit Cab on Fri 9 Oct, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

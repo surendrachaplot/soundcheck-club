@@ -1,6 +1,6 @@
 # AADE: Subject Sue – EP Release Details In The Dark at OT301
 
-AADE: Subject Sue – EP Release Details In The Dark at OT301 on Wed 21 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+AADE: Subject Sue – EP Release Details In The Dark at OT301 on Wed 21 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

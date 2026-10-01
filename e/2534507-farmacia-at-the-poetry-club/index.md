@@ -1,6 +1,6 @@
 # Farmacia at The Poetry Club
 
-Farmacia at The Poetry Club on Fri 2 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+Farmacia at The Poetry Club on Fri 2 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

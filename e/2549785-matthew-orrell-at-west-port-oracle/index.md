@@ -1,6 +1,6 @@
 # Matthew Orrell at West Port Oracle
 
-Matthew Orrell at West Port Oracle on Sat 3 Oct, Edinburgh. Preview the line-up and save it on soundcheck.
+Matthew Orrell at West Port Oracle on Sat 3 Oct, Edinburgh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

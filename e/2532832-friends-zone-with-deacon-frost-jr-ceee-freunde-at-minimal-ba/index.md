@@ -1,6 +1,6 @@
 # Friends.zone with Deacon Frost Jr. & CEEE & Freunde at Minimal Bar
 
-Friends.zone with Deacon Frost Jr. & CEEE & Freunde at Minimal Bar on Sat 28 Nov, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Friends.zone with Deacon Frost Jr. & CEEE & Freunde at Minimal Bar on Sat 28 Nov, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Giolì & Assia (live) at Ritter Butzke
 
-Giolì & Assia (live) at Ritter Butzke on Sat 17 Oct, Berlin. 2 artists on the bill: AVA Irandoost and Giolì & Assia. Techno. Preview the line-up and save it on soundcheck.
+Giolì & Assia (live) at Ritter Butzke on Sat 17 Oct, Berlin. 2 artists: AVA Irandoost and Giolì & Assia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

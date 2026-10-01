@@ -1,6 +1,6 @@
 # VERKNIPT ADE SPECIAL at Afas Live
 
-VERKNIPT ADE SPECIAL at Afas Live on Sat 24 Oct, Amsterdam. 1 artist on the bill: KARAH. Preview the line-up and save it on soundcheck.
+VERKNIPT ADE SPECIAL at Afas Live on Sat 24 Oct, Amsterdam. 1 artist: KARAH. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # A*S*Y*S (2)
 
-A*S*Y*S (2) is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Schrotty, Cologne on Fri, 16 Oct 2026.
+A*S*Y*S (2) is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Fri, 16 Oct 2026.
 
-A*S*Y*S is a techno and acid artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Birmingham, Cologne and Frankfurt and 8 more. Often billed alongside T78, Bartu and Behrad Tehrani. Next up: Schrotty, Cologne on Fri 16 Oct.
+A*S*Y*S is a techno and acid artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Birmingham, Cologne and Frankfurt and 8 more. Often billed alongside T78, Bartu and Behrad Tehrani. Next up: Schrotty, Cologne on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ A*S*Y*S is a techno and acid artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Tunnel Club, Birmingham — Fri, 25 Sept 2026
-- Kilomètre25, Paris — Sat, 1 Aug 2026
-- Schrotty, Cologne — Sat, 13 Jun 2026
-- NØMAD, Toronto — Sat, 31 Jan 2026
-- TBA, Vancouver — Fri, 30 Jan 2026
-- Mia Mao, Paris — Thu, 15 Jan 2026
-- SILO, New York City — Sat, 1 Nov 2025
-- Veronica Schip, Amsterdam — Sat, 25 Oct 2025
+- Tunnel Club, Birmingham · Fri, 25 Sept 2026
+- Kilomètre25, Paris · Sat, 1 Aug 2026
+- Schrotty, Cologne · Sat, 13 Jun 2026
+- NØMAD, Toronto · Sat, 31 Jan 2026
+- TBA, Vancouver · Fri, 30 Jan 2026
+- Mia Mao, Paris · Thu, 15 Jan 2026
+- SILO, New York City · Sat, 1 Nov 2025
+- Veronica Schip, Amsterdam · Sat, 25 Oct 2025
 
 ## Shares bills with
 

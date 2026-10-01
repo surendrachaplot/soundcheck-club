@@ -1,6 +1,6 @@
 # Elephant Stone at Hyde Park Book Club
 
-Elephant Stone at Hyde Park Book Club on Tue 17 Nov, Leeds. Preview the line-up and save it on soundcheck.
+Elephant Stone at Hyde Park Book Club on Tue 17 Nov, Leeds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

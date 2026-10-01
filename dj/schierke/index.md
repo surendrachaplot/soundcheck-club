@@ -1,8 +1,8 @@
 # Schierke
 
-Schierke is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Turbina, Budapest on Sat, 3 Oct 2026.
+Schierke is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Turbina, Budapest on Sat, 3 Oct 2026.
 
-Schierke is a techno and trance artist based in Spain, tracked on soundcheck, with 4 sets logged across Barcelona, Berlin and Budapest. Often billed alongside SLYM, szoliver and Adlas. Next up: Turbina, Budapest on Sat 3 Oct.
+Schierke is a techno and trance artist based in Spain, with 4 gigs on soundcheck across Barcelona, Berlin and Budapest. Often billed alongside SLYM, szoliver and Adlas. Next up: Turbina, Budapest on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,8 @@ Schierke is a techno and trance artist based in Spain, tracked on soundcheck, wi
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Sat, 14 Mar 2026
-- Sala Upload Barcelona, Barcelona — Fri, 13 Feb 2026
+- RSO.BERLIN, Berlin · Sat, 14 Mar 2026
+- Sala Upload Barcelona, Barcelona · Fri, 13 Feb 2026
 
 ## Shares bills with
 

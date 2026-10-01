@@ -1,6 +1,6 @@
 # AWAKING THE UNKNOWN at Blvck Water
 
-AWAKING THE UNKNOWN at Blvck Water on Thu 15 Oct, Osaka. Psytrance. Preview the line-up and save it on soundcheck.
+AWAKING THE UNKNOWN at Blvck Water on Thu 15 Oct, Osaka. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

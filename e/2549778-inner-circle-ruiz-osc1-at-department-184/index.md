@@ -1,6 +1,6 @@
 # INNER CIRCLE - | RUIZ OSC1 at Department 184
 
-INNER CIRCLE - | RUIZ OSC1 at Department 184 on Fri 16 Oct, Milan. 4 artists on the bill: FRANCESCO GUZZO, MISERIA, Münich and RUIZ OSC1. Techno. Preview the line-up and save it on soundcheck.
+INNER CIRCLE - | RUIZ OSC1 at Department 184 on Fri 16 Oct, Milan. 4 artists: FRANCESCO GUZZO, MISERIA, Münich and RUIZ OSC1. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bass Face // DNB, BASS, 140, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS at Gorilla
 
-Bass Face // DNB, BASS, 140, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS at Gorilla on Fri 23 Oct, Manchester. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Bass Face // DNB, BASS, 140, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS at Gorilla on Fri 23 Oct, Manchester. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

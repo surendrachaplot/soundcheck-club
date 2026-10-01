@@ -1,6 +1,6 @@
 # Ultimate Throw Back Boat Cruise: 80s, 90s & 2000s at Inception Boat
 
-Ultimate Throw Back Boat Cruise: 80s, 90s & 2000s at Inception Boat on Sat 3 Oct, Sydney. Pop and R&B. Preview the line-up and save it on soundcheck.
+Ultimate Throw Back Boat Cruise: 80s, 90s & 2000s at Inception Boat on Sat 3 Oct, Sydney. Pop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

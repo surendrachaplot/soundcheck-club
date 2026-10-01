@@ -1,6 +1,6 @@
 # Other People's Leisure (live) x I.Sleptt.In (DJ) at Sneaky Pete's
 
-Other People's Leisure (live) x I.Sleptt.In (DJ) at Sneaky Pete's on Thu 22 Oct, Edinburgh. Breakbeat and Electronica. Preview the line-up and save it on soundcheck.
+Other People's Leisure (live) x I.Sleptt.In (DJ) at Sneaky Pete's on Thu 22 Oct, Edinburgh. Breakbeat and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

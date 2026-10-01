@@ -1,6 +1,6 @@
 # Roots of Darkness - Season Opening at MS Stubnitz
 
-Roots of Darkness - Season Opening at MS Stubnitz on Sat 10 Oct, Hamburg. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+Roots of Darkness - Season Opening at MS Stubnitz on Sat 10 Oct, Hamburg. Trance and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

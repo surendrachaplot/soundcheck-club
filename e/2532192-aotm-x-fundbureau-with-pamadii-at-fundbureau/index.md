@@ -1,6 +1,6 @@
 # AOTM X Fundbureau with Pamadii at Fundbureau
 
-AOTM X Fundbureau with Pamadii on Sat 3 Oct, Hamburg. 1 artist on the bill: Pamadii. Techno and House. Preview the line-up and save it on soundcheck.
+AOTM X Fundbureau with Pamadii on Sat 3 Oct, Hamburg. 1 artist: Pamadii. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

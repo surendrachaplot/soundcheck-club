@@ -1,6 +1,6 @@
 # Club Curated: Open decks & Social at The Bag Factory
 
-Club Curated: Open decks & Social at The Bag Factory on Thu 1 Oct, Manchester. Bass. Preview the line-up and save it on soundcheck.
+Club Curated: Open decks & Social at The Bag Factory on Thu 1 Oct, Manchester. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

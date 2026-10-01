@@ -1,6 +1,6 @@
 # NIIKO X SWAE at Elektricity
 
-NIIKO X SWAE at Elektricity on Fri 2 Oct, Detroit. 2 artists on the bill: ARCS and Johnny Malek. Bass and Tech House. Preview the line-up and save it on soundcheck.
+NIIKO X SWAE at Elektricity on Fri 2 Oct, Detroit. 2 artists: ARCS and Johnny Malek. Bass and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

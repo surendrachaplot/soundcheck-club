@@ -1,6 +1,6 @@
 # MADROOM  ～Bizarre Rendezvous～ at TBA
 
-MADROOM  ～Bizarre Rendezvous～ at TBA on Sat 7 Nov, Osaka. Techno and EBM. Preview the line-up and save it on soundcheck.
+MADROOM  ～Bizarre Rendezvous～ at TBA on Sat 7 Nov, Osaka. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

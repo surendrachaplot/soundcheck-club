@@ -1,8 +1,8 @@
 # Ministry Of Sound
 
-Ministry Of Sound is a music venue in London with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "MoS 35: Andy C - 3-Hour Extended Set" on Fri, 2 Oct 2026.
+Ministry Of Sound is a music venue in London with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MoS 35: Andy C - 3-Hour Extended Set" on Fri, 2 Oct 2026.
 
-Ministry Of Sound is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Alastair Lane, Amtrac, Anderdox and Andy C and 2 more. Browse upcoming dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
+Ministry Of Sound is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Alastair Lane, Amtrac, Anderdox and Andy C and 2 more. See dates, start times and who's playing. 103 Gaunt St, London SE1 6DP.
 
 ## What's on
 

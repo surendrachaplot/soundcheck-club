@@ -1,8 +1,8 @@
 # Colaps
 
-Colaps is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, London on Fri, 2 Oct 2026.
+Colaps is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, London on Fri, 2 Oct 2026.
 
-Colaps is a house and techno artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Gefra, Jo Cruz and Dom James U.K. Next up: TBA, London on Fri 2 Oct.
+Colaps is a house and techno artist based in United Kingdom, with 41 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 2 more. Often billed alongside Gefra, Jo Cruz and Dom James U.K. Next up: TBA, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Colaps is a house and techno artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- Starlane Pizza Bar, London — Sun, 30 Aug 2026
-- Square Studio Lab, London — Sat, 15 Aug 2026
-- Starlane Pizza Bar, London — Sat, 6 Jun 2026
-- TBA - Klandestino Ibiza (Santa Eulalia del Río), Ibiza — Sat, 18 Apr 2026
-- 93 Feet East, London — Sat, 11 Apr 2026
-- Rolling Stock, London — Fri, 3 Apr 2026
-- MOS' > Mystery of Sound, Naples — Thu, 18 Dec 2025
-- Angel and Crown E2, London — Sun, 7 Dec 2025
+- Starlane Pizza Bar, London · Sun, 30 Aug 2026
+- Square Studio Lab, London · Sat, 15 Aug 2026
+- Starlane Pizza Bar, London · Sat, 6 Jun 2026
+- TBA - Klandestino Ibiza (Santa Eulalia del Río), Ibiza · Sat, 18 Apr 2026
+- 93 Feet East, London · Sat, 11 Apr 2026
+- Rolling Stock, London · Fri, 3 Apr 2026
+- MOS' > Mystery of Sound, Naples · Thu, 18 Dec 2025
+- Angel and Crown E2, London · Sun, 7 Dec 2025
 
 ## Shares bills with
 

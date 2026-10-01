@@ -1,6 +1,6 @@
 # Jazz Club ADE 26 at Stretch and Fold
 
-Jazz Club ADE 26 at Stretch and Fold on Sat 24 Oct, Amsterdam. House and Jazz. Preview the line-up and save it on soundcheck.
+Jazz Club ADE 26 at Stretch and Fold on Sat 24 Oct, Amsterdam. House and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EPiKA: 28.11.26 TBA at The Bongo Club
 
-EPiKA: 28.11.26 TBA at The Bongo Club on Sat 28 Nov, Edinburgh. Techno and Electro. Preview the line-up and save it on soundcheck.
+EPiKA: 28.11.26 TBA at The Bongo Club on Sat 28 Nov, Edinburgh. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

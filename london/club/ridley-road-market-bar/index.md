@@ -1,8 +1,8 @@
 # Ridley Road Market Bar
 
-Ridley Road Market Bar is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Juicy" on Thu, 1 Oct 2026.
+Ridley Road Market Bar is a music venue in London with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Juicy" on Thu, 1 Oct 2026.
 
-Ridley Road Market Bar is a music venue in London listed on soundcheck. 17 upcoming gigs. Browse upcoming dates, start times and who's playing. 49 Ridley Road; London E8 2NP; United Kingdom.
+Ridley Road Market Bar is a music venue in London listed on soundcheck. 17 upcoming gigs. See dates, start times and who's playing. 49 Ridley Road; London E8 2NP; United Kingdom.
 
 ## What's on
 

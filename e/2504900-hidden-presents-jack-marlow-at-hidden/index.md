@@ -1,6 +1,6 @@
 # Hidden presents: Jack Marlow at Hidden
 
-Hidden presents: Jack Marlow on Sat 21 Nov, Manchester. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Hidden presents: Jack Marlow on Sat 21 Nov, Manchester. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

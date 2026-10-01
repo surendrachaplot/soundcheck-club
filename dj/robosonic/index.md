@@ -1,8 +1,8 @@
 # Robosonic
 
-Robosonic is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Hoppetosse, Berlin on Sun, 11 Oct 2026.
+Robosonic is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hoppetosse, Berlin on Sun, 11 Oct 2026.
 
-Robosonic is a house and tech house artist based in Germany, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Ibiza and Mexico City. Often billed alongside B. Clarke, Kristina Sheli and Rob La. Next up: Hoppetosse, Berlin on Sun 11 Oct.
+Robosonic is a house and tech house artist based in Germany, with 19 gigs on soundcheck across Barcelona, Berlin, Ibiza and Mexico City. Often billed alongside B. Clarke, Kristina Sheli and Rob La. Next up: Hoppetosse, Berlin on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Robosonic is a house and tech house artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- TBA - Roter Rabe, Berlin — Fri, 1 May 2026
-- Ritter Butzke, Berlin — Fri, 27 Mar 2026
-- Ritter Butzke, Berlin — Sat, 14 Mar 2026
-- Tausend, Berlin — Sat, 14 Feb 2026
-- Ritter Butzke, Berlin — Sat, 10 Jan 2026
-- Ritter Butzke, Berlin — Sat, 29 Nov 2025
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 16 Aug 2025
-- Aqua-Höfe, Berlin — Sat, 10 May 2025
+- TBA - Roter Rabe, Berlin · Fri, 1 May 2026
+- Ritter Butzke, Berlin · Fri, 27 Mar 2026
+- Ritter Butzke, Berlin · Sat, 14 Mar 2026
+- Tausend, Berlin · Sat, 14 Feb 2026
+- Ritter Butzke, Berlin · Sat, 10 Jan 2026
+- Ritter Butzke, Berlin · Sat, 29 Nov 2025
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 16 Aug 2025
+- Aqua-Höfe, Berlin · Sat, 10 May 2025
 
 ## Shares bills with
 

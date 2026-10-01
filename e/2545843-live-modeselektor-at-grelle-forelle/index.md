@@ -1,6 +1,6 @@
 # LIVE Modeselektor at Grelle Forelle
 
-LIVE Modeselektor at Grelle Forelle on Sun 11 Oct, Vienna. Electro and IDM. Preview the line-up and save it on soundcheck.
+LIVE Modeselektor at Grelle Forelle on Sun 11 Oct, Vienna. Electro and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

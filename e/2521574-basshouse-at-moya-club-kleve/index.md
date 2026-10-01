@@ -1,6 +1,6 @@
 # Basshouse at Moya Club Kleve
 
-Basshouse at Moya Club Kleve on Sat 3 Oct, Kleve. Techno and Acid. Preview the line-up and save it on soundcheck.
+Basshouse at Moya Club Kleve on Sat 3 Oct, Kleve. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

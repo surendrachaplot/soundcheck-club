@@ -1,6 +1,6 @@
 # Not For Nothing Vol. 2 at Hail Mary
 
-Not For Nothing Vol. 2 at Hail Mary on Sat 17 Oct, Toronto. House and Tech House. Preview the line-up and save it on soundcheck.
+Not For Nothing Vol. 2 at Hail Mary on Sat 17 Oct, Toronto. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

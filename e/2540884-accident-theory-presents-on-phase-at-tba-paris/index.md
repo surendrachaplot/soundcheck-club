@@ -1,6 +1,6 @@
 # ACCIDENT THEORY presents: ON/PHASE at TBA - Paris
 
-ACCIDENT THEORY presents: ON/PHASE at TBA - Paris on Fri 9 Oct, Paris. 4 artists on the bill: A.Pringle, Axel Blanc, DJ Steaw and Gunnter. Techno and House. Preview the line-up and save it on soundcheck.
+ACCIDENT THEORY presents: ON/PHASE at TBA - Paris on Fri 9 Oct, Paris. 4 artists: A.Pringle, Axel Blanc, DJ Steaw and Gunnter. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

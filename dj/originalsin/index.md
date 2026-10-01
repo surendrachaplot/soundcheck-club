@@ -1,8 +1,8 @@
 # Original Sin
 
-Original Sin is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Art School, Glasgow on Fri, 9 Oct 2026.
+Original Sin is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Art School, Glasgow on Fri, 9 Oct 2026.
 
-Original Sin is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Brighton, Bristol, Geneva and Glasgow and 8 more. Often billed alongside IC3, Eksman and Majistrate. Next up: The Art School, Glasgow on Fri 9 Oct.
+Original Sin is a drum & bass and jungle artist based in United Kingdom, with 25 gigs on soundcheck across Brighton, Bristol, Geneva and Glasgow and 8 more. Often billed alongside IC3, Eksman and Majistrate. Next up: The Art School, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Original Sin is a drum & bass and jungle artist based in United Kingdom, tracked
 
 ## Recently played
 
-- The Clock Factory, Bristol — Fri, 14 Aug 2026
-- The Clock Factory, Bristol — Fri, 14 Aug 2026
-- Jumunjy Bar, London — Sat, 20 Jun 2026
-- Edelfettwerk, Hamburg — Sat, 30 May 2026
-- The Clock Factory, Bristol — Sat, 9 May 2026
-- Night Tales, London — Thu, 2 Apr 2026
-- Onyx (E1), London — Fri, 6 Mar 2026
-- Volks, Brighton — Fri, 20 Feb 2026
+- The Clock Factory, Bristol · Fri, 14 Aug 2026
+- The Clock Factory, Bristol · Fri, 14 Aug 2026
+- Jumunjy Bar, London · Sat, 20 Jun 2026
+- Edelfettwerk, Hamburg · Sat, 30 May 2026
+- The Clock Factory, Bristol · Sat, 9 May 2026
+- Night Tales, London · Thu, 2 Apr 2026
+- Onyx (E1), London · Fri, 6 Mar 2026
+- Volks, Brighton · Fri, 20 Feb 2026
 
 ## Shares bills with
 

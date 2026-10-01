@@ -1,6 +1,6 @@
 # Seqta at Bassiani
 
-Seqta at Bassiani on Fri 2 Oct, Tbilisi. Techno and Afro Tech. Preview the line-up and save it on soundcheck.
+Seqta at Bassiani on Fri 2 Oct, Tbilisi. Techno and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

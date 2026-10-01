@@ -1,6 +1,6 @@
 # SPICED: SUPERSTITION at Low Profile Studios
 
-SPICED: SUPERSTITION at Low Profile Studios on Fri 13 Nov, London. House and Electronica. Preview the line-up and save it on soundcheck.
+SPICED: SUPERSTITION at Low Profile Studios on Fri 13 Nov, London. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

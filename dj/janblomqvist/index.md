@@ -1,8 +1,8 @@
 # Jan Blomqvist
 
-Jan Blomqvist is a Deep House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
+Jan Blomqvist is a Deep House and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cova Santa, Ibiza on Fri, 2 Oct 2026.
 
-Jan Blomqvist is a deep house and house artist based in Germany, tracked on soundcheck, with 134 sets logged across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Bedouin, WhoMadeWho and Colyn. Next up: Cova Santa, Ibiza on Fri 2 Oct.
+Jan Blomqvist is a deep house and house artist based in Germany, with 134 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 40 more. Often billed alongside Bedouin, WhoMadeWho and Colyn. Next up: Cova Santa, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Jan Blomqvist is a deep house and house artist based in Germany, tracked on soun
 
 ## Recently played
 
-- Etko, Cyprus — Fri, 25 Sept 2026
-- Chinois Ibiza, Ibiza — Sun, 13 Sept 2026
-- Forbindelsehallen, Stockholm — Sat, 12 Sept 2026
-- Colorado Charlie, The Hague — Sat, 22 Aug 2026
-- Cova Santa, Ibiza — Fri, 7 Aug 2026
-- TBA - Theater Augusta Raurica, Basel — Fri, 24 Jul 2026
-- Wanderlust, Paris — Sun, 5 Jul 2026
-- 528 Ibiza, Ibiza — Wed, 1 Jul 2026
+- Etko, Cyprus · Fri, 25 Sept 2026
+- Chinois Ibiza, Ibiza · Sun, 13 Sept 2026
+- Forbindelsehallen, Stockholm · Sat, 12 Sept 2026
+- Colorado Charlie, The Hague · Sat, 22 Aug 2026
+- Cova Santa, Ibiza · Fri, 7 Aug 2026
+- TBA - Theater Augusta Raurica, Basel · Fri, 24 Jul 2026
+- Wanderlust, Paris · Sun, 5 Jul 2026
+- 528 Ibiza, Ibiza · Wed, 1 Jul 2026
 
 ## Shares bills with
 

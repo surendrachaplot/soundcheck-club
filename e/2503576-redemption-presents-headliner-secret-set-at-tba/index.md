@@ -1,6 +1,6 @@
 # REDEMPTION presents HEADLINER SECRET SET at TBA
 
-REDEMPTION presents HEADLINER SECRET SET at TBA on Mon 16 Nov, Edinburgh. House and Tech House. Preview the line-up and save it on soundcheck.
+REDEMPTION presents HEADLINER SECRET SET at TBA on Mon 16 Nov, Edinburgh. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

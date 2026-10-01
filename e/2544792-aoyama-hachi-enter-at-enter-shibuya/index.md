@@ -1,6 +1,6 @@
 # 青山蜂 - Aoyama Hachi - × ENTER at Enter Shibuya
 
-青山蜂 - Aoyama Hachi - × ENTER at Enter Shibuya on Tue 6 Oct, Tokyo. 5 artists on the bill: KUNPEI, LEFTOLD, r1ku and Sunga and 1 more. House. Preview the line-up and save it on soundcheck.
+青山蜂 - Aoyama Hachi - × ENTER at Enter Shibuya on Tue 6 Oct, Tokyo. 5 artists: KUNPEI, LEFTOLD, r1ku and Sunga and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

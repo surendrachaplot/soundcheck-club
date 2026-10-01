@@ -1,6 +1,6 @@
 # BALOCCO at Z Maruyama
 
-BALOCCO at Z Maruyama on Fri 30 Oct, Tokyo. 3 artists on the bill: MARK MILA, Nari and r1ku. House. Preview the line-up and save it on soundcheck.
+BALOCCO at Z Maruyama on Fri 30 Oct, Tokyo. 3 artists: MARK MILA, Nari and r1ku. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Siggatunez
 
-Siggatunez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
+Siggatunez is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
 
-Siggatunez is a house and disco artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Cologne and Düsseldorf and 3 more. Often billed alongside Quadrakey, Eva Crystaltips and Luca Olivotto. Next up: OXI, Berlin on Sat 3 Oct.
+Siggatunez is a house and disco artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 3 more. Often billed alongside Quadrakey, Eva Crystaltips and Luca Olivotto. Next up: OXI, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Siggatunez is a house and disco artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- OXI, Berlin — Sat, 5 Sept 2026
-- Kater, Berlin — Sat, 8 Aug 2026
-- OXI, Berlin — Sat, 1 Aug 2026
-- OXI, Berlin — Sat, 4 Jul 2026
-- Club der Visionaere, Berlin — Wed, 17 Jun 2026
-- OXI, Berlin — Sat, 6 Jun 2026
-- Zum Scheuen Reh, Cologne — Sat, 9 May 2026
-- OXI, Berlin — Fri, 1 May 2026
+- OXI, Berlin · Sat, 5 Sept 2026
+- Kater, Berlin · Sat, 8 Aug 2026
+- OXI, Berlin · Sat, 1 Aug 2026
+- OXI, Berlin · Sat, 4 Jul 2026
+- Club der Visionaere, Berlin · Wed, 17 Jun 2026
+- OXI, Berlin · Sat, 6 Jun 2026
+- Zum Scheuen Reh, Cologne · Sat, 9 May 2026
+- OXI, Berlin · Fri, 1 May 2026
 
 ## Shares bills with
 

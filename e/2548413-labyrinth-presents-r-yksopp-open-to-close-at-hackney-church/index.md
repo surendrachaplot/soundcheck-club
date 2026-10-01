@@ -1,6 +1,6 @@
 # Labyrinth presents: Röyksopp Open to Close at Hackney Church
 
-Labyrinth presents: Röyksopp Open to Close at Hackney Church on Fri 4 Dec, London. 1 artist on the bill: Royksopp. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Röyksopp Open to Close at Hackney Church on Fri 4 Dec, London. 1 artist: Royksopp. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

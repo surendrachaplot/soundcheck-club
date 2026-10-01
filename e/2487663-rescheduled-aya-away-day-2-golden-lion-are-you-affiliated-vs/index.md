@@ -1,6 +1,6 @@
 # [RESCHEDULED] AYA Away Day 2. Golden Lion. Are You Affiliated vs Shoulda Known Better at The Golden Lion
 
-[RESCHEDULED] AYA Away Day 2. Golden Lion. Are You Affiliated vs Shoulda Known Better at The Golden Lion on Sat 12 Dec, Manchester. 2 artists on the bill: Iain Mac and Man Power. Preview the line-up and save it on soundcheck.
+[RESCHEDULED] AYA Away Day 2. Golden Lion. Are You Affiliated vs Shoulda Known Better at The Golden Lion on Sat 12 Dec, Manchester. 2 artists: Iain Mac and Man Power. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

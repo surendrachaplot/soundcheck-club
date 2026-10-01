@@ -1,6 +1,6 @@
 # Area 51 30 Year Reunion at Vatican Gift Shop
 
-Area 51 30 Year Reunion at Vatican Gift Shop on Thu 29 Oct, Toronto. Trance and Techno. Preview the line-up and save it on soundcheck.
+Area 51 30 Year Reunion at Vatican Gift Shop on Thu 29 Oct, Toronto. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Adrián Mills B2B Cloudy [All Night Long] at The OVO Hydro
 
-Adrián Mills B2B Cloudy [All Night Long] at The OVO Hydro on Sun 27 Dec, Glasgow. 1 artist on the bill: Cloudy. Techno. Preview the line-up and save it on soundcheck.
+Adrián Mills B2B Cloudy [All Night Long] at The OVO Hydro on Sun 27 Dec, Glasgow. 1 artist: Cloudy. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

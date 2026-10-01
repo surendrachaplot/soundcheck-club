@@ -1,8 +1,8 @@
 # Salem X
 
-Salem X is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bajo Circuito, Mexico City on Thu, 22 Oct 2026.
+Salem X is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bajo Circuito, Mexico City on Thu, 22 Oct 2026.
 
-Salem X is a techno and industrial artist based in Mexico, tracked on soundcheck, with 25 sets logged across Mexico City. Often billed alongside JHAXIE, Ironick and Kid Gloss. Next up: Bajo Circuito, Mexico City on Thu 22 Oct.
+Salem X is a techno and industrial artist based in Mexico, with 25 gigs on soundcheck across Mexico City. Often billed alongside JHAXIE, Ironick and Kid Gloss. Next up: Bajo Circuito, Mexico City on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Salem X is a techno and industrial artist based in Mexico, tracked on soundcheck
 
 ## Recently played
 
-- Foro Normandie, Mexico City — Fri, 3 Jul 2026
-- Foro EX Normandie, Mexico City — Fri, 8 May 2026
-- Foro Normandie, Mexico City — Fri, 27 Mar 2026
-- Claudio Bernard 149, Mexico City — Sat, 14 Feb 2026
-- López 15, Mexico City — Fri, 19 Dec 2025
-- Antiguo Hotel Reforma, Mexico City — Sat, 29 Nov 2025
-- Foro Normandie, Mexico City — Fri, 31 Oct 2025
-- Foro Normandie, Mexico City — Fri, 5 Sept 2025
+- Foro Normandie, Mexico City · Fri, 3 Jul 2026
+- Foro EX Normandie, Mexico City · Fri, 8 May 2026
+- Foro Normandie, Mexico City · Fri, 27 Mar 2026
+- Claudio Bernard 149, Mexico City · Sat, 14 Feb 2026
+- López 15, Mexico City · Fri, 19 Dec 2025
+- Antiguo Hotel Reforma, Mexico City · Sat, 29 Nov 2025
+- Foro Normandie, Mexico City · Fri, 31 Oct 2025
+- Foro Normandie, Mexico City · Fri, 5 Sept 2025
 
 ## Shares bills with
 

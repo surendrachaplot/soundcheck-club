@@ -1,6 +1,6 @@
 # Libra Esterlina x Stereo: JASSS & Josey Rebelle at Stereo
 
-Libra Esterlina x Stereo: JASSS & Josey Rebelle on Fri 6 Nov, Glasgow. 2 artists on the bill: Acido Cielo and Libra Esterlina. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Libra Esterlina x Stereo: JASSS & Josey Rebelle on Fri 6 Nov, Glasgow. 2 artists: Acido Cielo and Libra Esterlina. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

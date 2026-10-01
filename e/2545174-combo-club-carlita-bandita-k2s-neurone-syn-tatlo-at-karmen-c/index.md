@@ -1,6 +1,6 @@
 # COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)] at Karmen Camina
 
-COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)] at Karmen Camina on Thu 15 Oct, Strasbourg. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+COMBO CLUB [Carlita Bandita • K2S • Neurone (Syn & Tatlo)] at Karmen Camina on Thu 15 Oct, Strasbourg. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

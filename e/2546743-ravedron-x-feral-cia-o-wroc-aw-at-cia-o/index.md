@@ -1,6 +1,6 @@
 # RAVEDRON X FERAL - Ciało WROCŁAW at Ciało
 
-RAVEDRON X FERAL - Ciało WROCŁAW on Sat 10 Oct, Wroclaw. 6 artists on the bill: Dark Matter, FØSS, IGDA and Rich and 2 more. Preview the line-up and save it on soundcheck.
+RAVEDRON X FERAL - Ciało WROCŁAW on Sat 10 Oct, Wroclaw. 6 artists: Dark Matter, FØSS, IGDA and Rich and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

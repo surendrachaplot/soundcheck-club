@@ -1,6 +1,6 @@
 # CONFUSION /// HALLOWEEN Bass NIGTH at TBA
 
-CONFUSION /// HALLOWEEN Bass NIGTH at TBA on Fri 30 Oct, Bogot. 1 artist on the bill: Bass. Preview the line-up and save it on soundcheck.
+CONFUSION /// HALLOWEEN Bass NIGTH at TBA on Fri 30 Oct, Bogot. 1 artist: Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

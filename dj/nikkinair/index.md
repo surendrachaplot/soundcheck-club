@@ -1,8 +1,8 @@
 # Nikki Nair
 
-Nikki Nair is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Nikki Nair is a Techno and Bass artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Nikki Nair is a techno and bass artist based in United States of America, tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Auckland and Austin and 49 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
+Nikki Nair is a techno and bass artist based in United States of America, with 171 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 49 more. Often billed alongside Hudson Mohawke, DJ ADHD and Chloé Robinson. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Nikki Nair is a techno and bass artist based in United States of America, tracke
 
 ## Recently played
 
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 5 Sept 2026
-- Process PDX, Portland — Thu, 3 Sept 2026
-- TBA - Downtown Los Angeles, Los Angeles — Fri, 7 Aug 2026
-- Cakeshop, Seoul — Sat, 1 Aug 2026
-- Circus Tokyo, Tokyo — Fri, 31 Jul 2026
-- Tresor / Globus, Berlin — Fri, 17 Jul 2026
-- House of Yes, New York City — Fri, 12 Jun 2026
-- Colour Factory, London — Fri, 15 May 2026
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 5 Sept 2026
+- Process PDX, Portland · Thu, 3 Sept 2026
+- TBA - Downtown Los Angeles, Los Angeles · Fri, 7 Aug 2026
+- Cakeshop, Seoul · Sat, 1 Aug 2026
+- Circus Tokyo, Tokyo · Fri, 31 Jul 2026
+- Tresor / Globus, Berlin · Fri, 17 Jul 2026
+- House of Yes, New York City · Fri, 12 Jun 2026
+- Colour Factory, London · Fri, 15 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # reshape - Skee Mask b2b Vlada - all night long at essaim
 
-reshape - Skee Mask b2b Vlada - all night long at essaim on Sat 21 Nov, Paris. 2 artists on the bill: Skee Mask and Vlada. Techno. Preview the line-up and save it on soundcheck.
+reshape - Skee Mask b2b Vlada - all night long at essaim on Sat 21 Nov, Paris. 2 artists: Skee Mask and Vlada. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

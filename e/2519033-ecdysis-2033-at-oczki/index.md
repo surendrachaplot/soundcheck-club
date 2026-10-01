@@ -1,6 +1,6 @@
 # Ecdysis: 2033 at OCZKI
 
-Ecdysis: 2033 at OCZKI on Sat 12 Dec, Warsaw. 12 artists on the bill: Amnesia Scanner, DiV4, dj neurospicy and Donija and 8 more. Bass and Reggaeton. Preview the line-up and save it on soundcheck.
+Ecdysis: 2033 at OCZKI on Sat 12 Dec, Warsaw. 12 artists: Amnesia Scanner, DiV4, dj neurospicy and Donija and 8 more. Bass and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

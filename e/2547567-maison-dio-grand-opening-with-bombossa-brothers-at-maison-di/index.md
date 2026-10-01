@@ -1,6 +1,6 @@
 # MAISON DIO GRAND OPENING with BOMBOSSA BROTHERS at Maison Dio Tallinn
 
-MAISON DIO GRAND OPENING with BOMBOSSA BROTHERS at Maison Dio Tallinn on Sat 3 Oct, Tallinn. Preview the line-up and save it on soundcheck.
+MAISON DIO GRAND OPENING with BOMBOSSA BROTHERS at Maison Dio Tallinn on Sat 3 Oct, Tallinn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

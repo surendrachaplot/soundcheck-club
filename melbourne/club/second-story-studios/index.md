@@ -1,8 +1,8 @@
 # Second Story Studios
 
-Second Story Studios is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "CLUB SAUNA" on Fri, 13 Nov 2026.
+Second Story Studios is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "CLUB SAUNA" on Fri, 13 Nov 2026.
 
-Second Story Studios is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. A/222 Johnston St, Collingwood VIC 3066.
+Second Story Studios is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. A/222 Johnston St, Collingwood VIC 3066.
 
 ## What's on
 

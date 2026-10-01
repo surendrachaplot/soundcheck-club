@@ -1,6 +1,6 @@
 # Hannah Wants x counter culture - the last dance at Distrikt
 
-Hannah Wants x counter culture - the last dance at Distrikt on Fri 30 Oct, Leeds. 1 artist on the bill: Hannah Wants. House and Minimal. Preview the line-up and save it on soundcheck.
+Hannah Wants x counter culture - the last dance at Distrikt on Fri 30 Oct, Leeds. 1 artist: Hannah Wants. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

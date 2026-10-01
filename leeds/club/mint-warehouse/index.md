@@ -1,8 +1,8 @@
 # Mint Warehouse
 
-Mint Warehouse is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Mint presents Kitty Hall" on Fri, 2 Oct 2026.
+Mint Warehouse is a music venue in Leeds with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mint presents Kitty Hall" on Fri, 2 Oct 2026.
 
-Mint Warehouse is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, with line-ups including Kepler, Alec Falconer, Arty (UK) and Boss Priester and 2 more. Browse upcoming dates, start times and who's playing. Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom.
+Mint Warehouse is a music venue in Leeds listed on soundcheck. 6 upcoming gigs, with line-ups including Kepler, Alec Falconer, Arty (UK) and Boss Priester and 2 more. See dates, start times and who's playing. Aquatite House; Water Lane; Leeds; LS11 9UD; United Kingdom.
 
 ## What's on
 

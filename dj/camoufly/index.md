@@ -1,8 +1,8 @@
 # camoufly
 
-camoufly is a House and Garage artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Village Studios, Vancouver on Sat, 3 Oct 2026.
+camoufly is a House and Garage artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Village Studios, Vancouver on Sat, 3 Oct 2026.
 
-camoufly is a house and garage artist based in Italy, tracked on soundcheck, with 58 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: Village Studios, Vancouver on Sat 3 Oct.
+camoufly is a house and garage artist based in Italy, with 58 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Oppidan, ATRIP and Arthi. Next up: Village Studios, Vancouver on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ camoufly is a house and garage artist based in Italy, tracked on soundcheck, wit
 
 ## Recently played
 
-- Night We Met, Nashville — Sat, 19 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Outset, Chicago — Fri, 4 Sept 2026
-- The Great Northern, San Francisco/Oakland — Sat, 8 Aug 2026
-- Q Nightclub, Seattle — Thu, 6 Aug 2026
-- Document, Bristol — Sat, 11 Jul 2026
-- Culture, Washington DC — Fri, 26 Jun 2026
-- Circus Tokyo, Tokyo — Fri, 12 Jun 2026
+- Night We Met, Nashville · Sat, 19 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Outset, Chicago · Fri, 4 Sept 2026
+- The Great Northern, San Francisco/Oakland · Sat, 8 Aug 2026
+- Q Nightclub, Seattle · Thu, 6 Aug 2026
+- Document, Bristol · Sat, 11 Jul 2026
+- Culture, Washington DC · Fri, 26 Jun 2026
+- Circus Tokyo, Tokyo · Fri, 12 Jun 2026
 
 ## Shares bills with
 

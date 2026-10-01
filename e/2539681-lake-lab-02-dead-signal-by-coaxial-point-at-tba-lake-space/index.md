@@ -1,6 +1,6 @@
 # Lake Lab 02: Dead Signal by Coaxial Point at TBA - Lake Space
 
-Lake Lab 02: Dead Signal by Coaxial Point at TBA - Lake Space on Fri 9 Oct, London. Experimental. Preview the line-up and save it on soundcheck.
+Lake Lab 02: Dead Signal by Coaxial Point at TBA - Lake Space on Fri 9 Oct, London. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

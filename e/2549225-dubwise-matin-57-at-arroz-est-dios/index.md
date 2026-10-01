@@ -1,6 +1,6 @@
 # Dubwise Matiné #57 at Arroz Estúdios
 
-Dubwise Matiné #57 at Arroz Estúdios on Sun 11 Oct, Lisbon. Dub. Preview the line-up and save it on soundcheck.
+Dubwise Matiné #57 at Arroz Estúdios on Sun 11 Oct, Lisbon. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

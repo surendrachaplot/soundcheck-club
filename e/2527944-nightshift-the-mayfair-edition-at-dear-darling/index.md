@@ -1,6 +1,6 @@
 # NIGHTSHIFT: The Mayfair Edition at Dear Darling
 
-NIGHTSHIFT: The Mayfair Edition at Dear Darling on Thu 1 Oct, London. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT: The Mayfair Edition at Dear Darling on Thu 1 Oct, London. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

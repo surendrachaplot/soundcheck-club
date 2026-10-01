@@ -1,6 +1,6 @@
 # Rhadoo {from start till finish} ~ DAY at The White Hotel
 
-Rhadoo {from start till finish} ~ DAY at The White Hotel on Sun 1 Nov, Manchester. 1 artist on the bill: Rhadoo. Minimal. Preview the line-up and save it on soundcheck.
+Rhadoo {from start till finish} ~ DAY at The White Hotel on Sun 1 Nov, Manchester. 1 artist: Rhadoo. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

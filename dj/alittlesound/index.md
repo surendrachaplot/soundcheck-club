@@ -1,8 +1,8 @@
 # A Little Sound
 
-A Little Sound is a Drum & Bass and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Aladin Music Hall, Bremen on Fri, 2 Oct 2026.
+A Little Sound is a Drum & Bass and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Aladin Music Hall, Bremen on Fri, 2 Oct 2026.
 
-A Little Sound is a drum & bass and house artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Birmingham and Bremen and 25 more. Often billed alongside Wilkinson, Hybrid Minds and Bou (UK). Next up: Aladin Music Hall, Bremen on Fri 2 Oct.
+A Little Sound is a drum & bass and house artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Bremen and 25 more. Often billed alongside Wilkinson, Hybrid Minds and Bou (UK). Next up: Aladin Music Hall, Bremen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ A Little Sound is a drum & bass and house artist based in United Kingdom, tracke
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- Tägi, Zurich — Fri, 10 Jul 2026
-- Bootshaus, Cologne — Sun, 24 May 2026
-- LAB theCLUB, Madrid — Fri, 1 May 2026
-- Melkweg, Amsterdam — Fri, 13 Feb 2026
-- Epic Prague, Prague — Sat, 24 Jan 2026
-- Concourse at Depot Mayfield, Manchester — Fri, 5 Dec 2025
-- Eatons Hill Hotel and Function Centre, Brisbane — Fri, 26 Sept 2025
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- Tägi, Zurich · Fri, 10 Jul 2026
+- Bootshaus, Cologne · Sun, 24 May 2026
+- LAB theCLUB, Madrid · Fri, 1 May 2026
+- Melkweg, Amsterdam · Fri, 13 Feb 2026
+- Epic Prague, Prague · Sat, 24 Jan 2026
+- Concourse at Depot Mayfield, Manchester · Fri, 5 Dec 2025
+- Eatons Hill Hotel and Function Centre, Brisbane · Fri, 26 Sept 2025
 
 ## Shares bills with
 

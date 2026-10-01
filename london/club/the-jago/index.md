@@ -1,8 +1,8 @@
 # The Jago
 
-The Jago is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Persian Love presents 'Gher in Dalston: Milli (MEHMOONI LDN) All Night Long'" on Fri, 2 Oct 2026.
+The Jago is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Persian Love presents 'Gher in Dalston: Milli (MEHMOONI LDN) All Night Long'" on Fri, 2 Oct 2026.
 
-The Jago is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Ernesto Chahoud, Milli and Natalie Shooter. Browse upcoming dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
+The Jago is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Ernesto Chahoud, Milli and Natalie Shooter. See dates, start times and who's playing. 440 Kingsland Road, E8 4AA London, United Kingdom.
 
 ## What's on
 

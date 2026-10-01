@@ -1,6 +1,6 @@
 # Studio X Structone at Studio Club Malaga
 
-Studio X Structone at Studio Club Malaga on Fri 23 Oct, Malaga. 2 artists on the bill: FENIM0RE and Stojche. Preview the line-up and save it on soundcheck.
+Studio X Structone at Studio Club Malaga on Fri 23 Oct, Malaga. 2 artists: FENIM0RE and Stojche. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

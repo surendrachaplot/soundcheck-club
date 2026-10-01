@@ -1,6 +1,6 @@
 # Ciel [Canada] at Abercrombie Hotel
 
-Ciel [Canada] at Abercrombie Hotel on Fri 13 Nov, Sydney. 1 artist on the bill: Ciel. Techno and House. Preview the line-up and save it on soundcheck.
+Ciel [Canada] at Abercrombie Hotel on Fri 13 Nov, Sydney. 1 artist: Ciel. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

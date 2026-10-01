@@ -1,8 +1,8 @@
 # HALO DETROIT
 
-HALO DETROIT is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RADIANT presents The Masquerade Party" on Sat, 3 Oct 2026.
+HALO DETROIT is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RADIANT presents The Masquerade Party" on Sat, 3 Oct 2026.
 
-HALO DETROIT is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Darryl G, Hazmat Live and Stacey Hotwaxx Hale. Browse upcoming dates, start times and who's playing. 8070 Greenfield Rd, Detroit, MI 48228, United States.
+HALO DETROIT is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including Darryl G, Hazmat Live and Stacey Hotwaxx Hale. See dates, start times and who's playing. 8070 Greenfield Rd, Detroit, MI 48228, United States.
 
 ## What's on
 

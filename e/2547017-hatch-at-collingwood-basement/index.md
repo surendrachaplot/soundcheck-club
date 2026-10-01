@@ -1,6 +1,6 @@
 # Hatch at Collingwood Basement
 
-Hatch at Collingwood Basement on Thu 1 Oct, Melbourne. Techno and Amapiano. Preview the line-up and save it on soundcheck.
+Hatch at Collingwood Basement on Thu 1 Oct, Melbourne. Techno and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

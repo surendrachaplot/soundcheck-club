@@ -1,8 +1,8 @@
 # KLIO
 
-KLIO is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at QQQ ST. Park, Melbourne on Fri, 2 Oct 2026.
+KLIO is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at QQQ ST. Park, Melbourne on Fri, 2 Oct 2026.
 
-KLIO is a techno and tech house artist based in Australia, tracked on soundcheck, with 11 sets logged across Melbourne. Often billed alongside Arktic, ALIEN-A and CAITY WATSON. Next up: QQQ ST. Park, Melbourne on Fri 2 Oct.
+KLIO is a techno and tech house artist based in Australia, with 11 gigs on soundcheck across Melbourne. Often billed alongside Arktic, ALIEN-A and CAITY WATSON. Next up: QQQ ST. Park, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ KLIO is a techno and tech house artist based in Australia, tracked on soundcheck
 
 ## Recently played
 
-- My Aeon, Melbourne — Fri, 3 Jul 2026
-- My Aeon, Melbourne — Fri, 3 Jul 2026
-- New Guernica, Melbourne — Sat, 28 Feb 2026
-- +Six12, Melbourne — Sat, 25 Oct 2025
-- Continuum, Melbourne — Fri, 24 Oct 2025
-- My Aeon, Melbourne — Fri, 26 Sept 2025
-- New Guernica, Melbourne — Sat, 21 Jun 2025
-- Solace, Melbourne — Sat, 14 Jun 2025
+- My Aeon, Melbourne · Fri, 3 Jul 2026
+- My Aeon, Melbourne · Fri, 3 Jul 2026
+- New Guernica, Melbourne · Sat, 28 Feb 2026
+- +Six12, Melbourne · Sat, 25 Oct 2025
+- Continuum, Melbourne · Fri, 24 Oct 2025
+- My Aeon, Melbourne · Fri, 26 Sept 2025
+- New Guernica, Melbourne · Sat, 21 Jun 2025
+- Solace, Melbourne · Sat, 14 Jun 2025
 
 ## Shares bills with
 

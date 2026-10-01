@@ -1,6 +1,6 @@
 # ELECTRIC SOL HALLOWEEN at TBA - Secret Chinatown Warehouse Location
 
-ELECTRIC SOL HALLOWEEN at TBA - Secret Chinatown Warehouse Location on Fri 30 Oct, Philadelphia. 2 artists on the bill: Ben Arsenal and Shadow Walker. Progressive House and House. Preview the line-up and save it on soundcheck.
+ELECTRIC SOL HALLOWEEN at TBA - Secret Chinatown Warehouse Location on Fri 30 Oct, Philadelphia. 2 artists: Ben Arsenal and Shadow Walker. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

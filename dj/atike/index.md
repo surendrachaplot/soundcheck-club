@@ -1,8 +1,8 @@
 # Atiké
 
-Atiké is a Baile Funk and Reggaeton artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The DBA, Manchester on Sat, 28 Nov 2026.
+Atiké is a Baile Funk and Reggaeton artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The DBA, Manchester on Sat, 28 Nov 2026.
 
-Atiké is a baile funk and reggaeton artist tracked on soundcheck, with 67 sets logged across London, Manchester and Sheffield. Often billed alongside Obeka, Zuri and atalaya. Next up: The DBA, Manchester on Sat 28 Nov.
+Atiké is a baile funk and reggaeton artist, with 67 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Obeka, Zuri and atalaya. Next up: The DBA, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Atiké is a baile funk and reggaeton artist tracked on soundcheck, with 67 sets 
 
 ## Recently played
 
-- Soup, Manchester — Fri, 28 Aug 2026
-- renae, Manchester — Sat, 20 Jun 2026
-- Sidney & Matilda, Sheffield — Fri, 12 Jun 2026
-- TBA - Multiple venues, Sheffield — Fri, 12 Jun 2026
-- Stage and Radio, Manchester — Tue, 9 Jun 2026
-- The Carlton Club, Manchester — Sat, 30 May 2026
-- Redlight, Manchester — Sat, 18 Apr 2026
-- The Golden Lion, Manchester — Sat, 11 Apr 2026
+- Soup, Manchester · Fri, 28 Aug 2026
+- renae, Manchester · Sat, 20 Jun 2026
+- Sidney & Matilda, Sheffield · Fri, 12 Jun 2026
+- TBA - Multiple venues, Sheffield · Fri, 12 Jun 2026
+- Stage and Radio, Manchester · Tue, 9 Jun 2026
+- The Carlton Club, Manchester · Sat, 30 May 2026
+- Redlight, Manchester · Sat, 18 Apr 2026
+- The Golden Lion, Manchester · Sat, 11 Apr 2026
 
 ## Shares bills with
 

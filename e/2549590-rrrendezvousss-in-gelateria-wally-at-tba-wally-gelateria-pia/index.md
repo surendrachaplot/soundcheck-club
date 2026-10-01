@@ -1,6 +1,6 @@
 # Rrrendezvousss in Gelateria Wally at TBA - Wally Gelateria, Piazzale Lavater, Milano
 
-Rrrendezvousss in Gelateria Wally at TBA - Wally Gelateria, Piazzale Lavater, Milano on Sat 10 Oct, Milan. 2 artists on the bill: Filippo Castiglioni and Larry Masmero. House. Preview the line-up and save it on soundcheck.
+Rrrendezvousss in Gelateria Wally at TBA - Wally Gelateria, Piazzale Lavater, Milano on Sat 10 Oct, Milan. 2 artists: Filippo Castiglioni and Larry Masmero. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

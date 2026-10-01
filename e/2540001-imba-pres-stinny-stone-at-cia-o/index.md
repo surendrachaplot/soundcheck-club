@@ -1,6 +1,6 @@
 # IMBA pres. Stinny Stone at Ciało
 
-IMBA pres. Stinny Stone at Ciało on Fri 16 Oct, Wroclaw. 7 artists on the bill: acheless, core-d, HOELA$ and Maryolkah and 3 more. Preview the line-up and save it on soundcheck.
+IMBA pres. Stinny Stone at Ciało on Fri 16 Oct, Wroclaw. 7 artists: acheless, core-d, HOELA$ and Maryolkah and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

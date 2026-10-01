@@ -1,8 +1,8 @@
 # Jason Lindner
 
-Jason Lindner is a House and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at public records, New York City on Thu, 15 Oct 2026.
+Jason Lindner is a House and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Thu, 15 Oct 2026.
 
-Jason Lindner is a house and experimental artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, Boston, Detroit and New York City. Often billed alongside JKriv, Aaron Dae and Disgonuts. Next up: public records, New York City on Thu 15 Oct.
+Jason Lindner is a house and experimental artist based in United States of America, with 35 gigs on soundcheck across Berlin, Boston, Detroit and New York City. Often billed alongside JKriv, Aaron Dae and Disgonuts. Next up: public records, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jason Lindner is a house and experimental artist based in United States of Ameri
 
 ## Recently played
 
-- Nightmoves, New York City — Thu, 10 Sept 2026
-- H0L0, New York City — Sat, 30 May 2026
-- The Siren Hotel, Detroit — Sat, 23 May 2026
-- MotorCity Wine, Detroit — Fri, 22 May 2026
-- Spot Lite Detroit, Detroit — Thu, 21 May 2026
-- Good Room, New York City — Sat, 21 Mar 2026
-- Sonnenraum, Berlin — Sat, 14 Mar 2026
-- Green Room NYC, New York City — Thu, 29 Jan 2026
+- Nightmoves, New York City · Thu, 10 Sept 2026
+- H0L0, New York City · Sat, 30 May 2026
+- The Siren Hotel, Detroit · Sat, 23 May 2026
+- MotorCity Wine, Detroit · Fri, 22 May 2026
+- Spot Lite Detroit, Detroit · Thu, 21 May 2026
+- Good Room, New York City · Sat, 21 Mar 2026
+- Sonnenraum, Berlin · Sat, 14 Mar 2026
+- Green Room NYC, New York City · Thu, 29 Jan 2026
 
 ## Shares bills with
 

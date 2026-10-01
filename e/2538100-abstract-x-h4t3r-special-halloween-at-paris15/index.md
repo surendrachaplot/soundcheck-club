@@ -1,6 +1,6 @@
 # ABSTRACT x H4T3R: SPECIAL HALLOWEEN at Paris15
 
-ABSTRACT x H4T3R: SPECIAL HALLOWEEN at Paris15 on Sat 31 Oct, Malaga. 4 artists on the bill: CLTX, Daniella da Silva, GNRØ and Nico Bondi. Techno. Preview the line-up and save it on soundcheck.
+ABSTRACT x H4T3R: SPECIAL HALLOWEEN at Paris15 on Sat 31 Oct, Malaga. 4 artists: CLTX, Daniella da Silva, GNRØ and Nico Bondi. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

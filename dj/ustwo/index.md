@@ -1,8 +1,8 @@
 # Us Two
 
-Us Two is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 528 Ibiza, Ibiza on Fri, 2 Oct 2026.
+Us Two is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 528 Ibiza, Ibiza on Fri, 2 Oct 2026.
 
-Us Two is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Ilario Alicante, Max Dean and East End Dubs. Next up: 528 Ibiza, Ibiza on Fri 2 Oct.
+Us Two is a tech house and house artist based in United Kingdom, with 64 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Ilario Alicante, Max Dean and East End Dubs. Next up: 528 Ibiza, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Us Two is a tech house and house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Document, Bristol — Fri, 25 Sept 2026
-- The Loft, Manchester — Thu, 17 Sept 2026
-- [UNVRS], Ibiza — Sat, 5 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- [UNVRS], Ibiza — Sat, 22 Aug 2026
-- Cabaret Voltaire, Edinburgh — Fri, 7 Aug 2026
-- [UNVRS], Ibiza — Sat, 1 Aug 2026
-- Distrikt, Leeds — Sat, 25 Jul 2026
+- Document, Bristol · Fri, 25 Sept 2026
+- The Loft, Manchester · Thu, 17 Sept 2026
+- [UNVRS], Ibiza · Sat, 5 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- [UNVRS], Ibiza · Sat, 22 Aug 2026
+- Cabaret Voltaire, Edinburgh · Fri, 7 Aug 2026
+- [UNVRS], Ibiza · Sat, 1 Aug 2026
+- Distrikt, Leeds · Sat, 25 Jul 2026
 
 ## Shares bills with
 

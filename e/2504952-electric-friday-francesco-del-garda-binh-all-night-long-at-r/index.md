@@ -1,6 +1,6 @@
 # Electric Friday / Francesco Del Garda / Binh - all night long at Robert Johnson
 
-Electric Friday / Francesco Del Garda / Binh - all night long at Robert Johnson on Fri 4 Dec, Hesse. 2 artists on the bill: Binh and Francesco Del Garda. Preview the line-up and save it on soundcheck.
+Electric Friday / Francesco Del Garda / Binh - all night long at Robert Johnson on Fri 4 Dec, Hesse. 2 artists: Binh and Francesco Del Garda. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

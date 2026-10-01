@@ -1,6 +1,6 @@
 # Foreplay: Soul Mass Transit System (2hr), Sulphur,  Lu.Re at Kapsule
 
-Foreplay: Soul Mass Transit System (2hr), Sulphur,  Lu.Re at Kapsule on Sat 14 Nov, Liverpool. 3 artists on the bill: Lu.Re, Soul Mass Transit System and Sulphur. House and Garage. Preview the line-up and save it on soundcheck.
+Foreplay: Soul Mass Transit System (2hr), Sulphur,  Lu.Re at Kapsule on Sat 14 Nov, Liverpool. 3 artists: Lu.Re, Soul Mass Transit System and Sulphur. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

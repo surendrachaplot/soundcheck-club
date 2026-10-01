@@ -1,6 +1,6 @@
 # Bronka HATES HAMBURG at Café Schöne Aussichten (CSA)
 
-Bronka HATES HAMBURG at Café Schöne Aussichten (CSA) on Fri 20 Nov, Hamburg. 1 artist on the bill: Bronka. Breakbeat and Baile Funk. Preview the line-up and save it on soundcheck.
+Bronka HATES HAMBURG at Café Schöne Aussichten (CSA) on Fri 20 Nov, Hamburg. 1 artist: Bronka. Breakbeat and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

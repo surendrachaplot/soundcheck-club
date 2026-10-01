@@ -1,6 +1,6 @@
 # Musumeci by UKOKO at UKOKO CLUB
 
-Musumeci by UKOKO at UKOKO CLUB on Sat 3 Oct, Costa Rica. 1 artist on the bill: Musumeci. Preview the line-up and save it on soundcheck.
+Musumeci by UKOKO at UKOKO CLUB on Sat 3 Oct, Costa Rica. 1 artist: Musumeci. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Abibi
 
-Abibi is a Breakbeat and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Renate, Berlin on Thu, 8 Oct 2026.
+Abibi is a Breakbeat and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Thu, 8 Oct 2026.
 
-Abibi is a breakbeat and bass artist based in Pakistan, tracked on soundcheck, with 17 sets logged across Berlin and London. Often billed alongside Gavsborg, Marylou and Perera Elsewhere. Next up: Renate, Berlin on Thu 8 Oct.
+Abibi is a breakbeat and bass artist based in Pakistan, with 17 gigs on soundcheck across Berlin and London. Often billed alongside Gavsborg, Marylou and Perera Elsewhere. Next up: Renate, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Abibi is a breakbeat and bass artist based in Pakistan, tracked on soundcheck, w
 
 ## Recently played
 
-- MaHalla, Berlin — Thu, 28 May 2026
-- 90mil, Berlin — Sat, 2 May 2026
-- 90mil, Berlin — Fri, 1 May 2026
-- TBA - Secret Location, Berlin — Sun, 14 Dec 2025
-- MaHalla, Berlin — Sat, 18 Oct 2025
-- Refuge Worldwide / Oona Bar, Berlin — Sat, 30 Aug 2025
-- TBA, London — Wed, 18 Jun 2025
-- Fitzroy, Berlin — Sat, 13 Apr 2024
+- MaHalla, Berlin · Thu, 28 May 2026
+- 90mil, Berlin · Sat, 2 May 2026
+- 90mil, Berlin · Fri, 1 May 2026
+- TBA - Secret Location, Berlin · Sun, 14 Dec 2025
+- MaHalla, Berlin · Sat, 18 Oct 2025
+- Refuge Worldwide / Oona Bar, Berlin · Sat, 30 Aug 2025
+- TBA, London · Wed, 18 Jun 2025
+- Fitzroy, Berlin · Sat, 13 Apr 2024
 
 ## Shares bills with
 

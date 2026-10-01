@@ -1,6 +1,6 @@
 # Banoffee Pies presents: Music, Medicine, Antidote with DJ Autumn & How Du (live) at Ikii
 
-Banoffee Pies presents: Music, Medicine, Antidote with DJ Autumn & How Du (live) at Ikii on Fri 9 Oct, Berlin. 1 artist on the bill: DJ Autumn. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Banoffee Pies presents: Music, Medicine, Antidote with DJ Autumn & How Du (live) at Ikii on Fri 9 Oct, Berlin. 1 artist: DJ Autumn. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

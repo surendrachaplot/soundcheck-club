@@ -1,6 +1,6 @@
 # Degs, Craze & Shinobi b2b Stereotype at ZeyZey
 
-Degs, Craze & Shinobi b2b Stereotype at ZeyZey on Thu 8 Oct, Miami. 3 artists on the bill: Craze, Degs and Shinobi. Drum & Bass. Preview the line-up and save it on soundcheck.
+Degs, Craze & Shinobi b2b Stereotype at ZeyZey on Thu 8 Oct, Miami. 3 artists: Craze, Degs and Shinobi. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

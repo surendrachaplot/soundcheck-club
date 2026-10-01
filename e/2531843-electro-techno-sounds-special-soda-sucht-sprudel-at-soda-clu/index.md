@@ -1,6 +1,6 @@
 # Electro & Techno Sounds - Special Soda sucht Sprudel at Soda Club
 
-Electro & Techno Sounds - Special Soda sucht Sprudel at Soda Club on Sat 3 Oct, Berlin. Techno and Electro. Preview the line-up and save it on soundcheck.
+Electro & Techno Sounds - Special Soda sucht Sprudel at Soda Club on Sat 3 Oct, Berlin. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Voidborn at De Helling
 
-Voidborn at De Helling on Fri 13 Nov, Utrecht. Psytrance. Preview the line-up and save it on soundcheck.
+Voidborn at De Helling on Fri 13 Nov, Utrecht. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

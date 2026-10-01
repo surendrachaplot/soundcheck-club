@@ -1,6 +1,6 @@
 # Solace Invites W/ Beltrac, GWEEDUS, marlene, Miki, Pjenné at Solace
 
-Solace Invites W/ Beltrac, GWEEDUS, marlene, Miki, Pjenné on Fri 2 Oct, Melbourne. 2 artists on the bill: Beltrac and Miki. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Solace Invites W/ Beltrac, GWEEDUS, marlene, Miki, Pjenné on Fri 2 Oct, Melbourne. 2 artists: Beltrac and Miki. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

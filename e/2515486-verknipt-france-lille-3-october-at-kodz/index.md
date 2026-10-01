@@ -1,6 +1,6 @@
 # VERKNIPT France - Lille - 3 October at Kodz
 
-VERKNIPT France - Lille - 3 October at Kodz on Sat 3 Oct, Lille. 5 artists on the bill: BLNK, LIEKS, LS41 and TiTi and 1 more. Preview the line-up and save it on soundcheck.
+VERKNIPT France - Lille - 3 October at Kodz on Sat 3 Oct, Lille. 5 artists: BLNK, LIEKS, LS41 and TiTi and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

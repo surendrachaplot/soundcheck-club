@@ -1,6 +1,6 @@
 # KOKO Electronic: Andrea Oliva at KOKO
 
-KOKO Electronic: Andrea Oliva on Fri 13 Nov, London. 2 artists on the bill: Andrea Oliva and Argia. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Andrea Oliva on Fri 13 Nov, London. 2 artists: Andrea Oliva and Argia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

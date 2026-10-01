@@ -1,8 +1,8 @@
 # Knotice
 
-Knotice is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 3oz Dive Club, San Diego on Wed, 14 Oct 2026.
+Knotice is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 3oz Dive Club, San Diego on Wed, 14 Oct 2026.
 
-Knotice is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 10 sets logged across San Diego. Often billed alongside BCee, Degs and JoshtheBear. Next up: 3oz Dive Club, San Diego on Wed 14 Oct.
+Knotice is a drum & bass and jungle artist based in United States of America, with 10 gigs on soundcheck across San Diego. Often billed alongside BCee, Degs and JoshtheBear. Next up: 3oz Dive Club, San Diego on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Knotice is a drum & bass and jungle artist based in United States of America, tr
 
 ## Recently played
 
-- EQ San Diego, San Diego — Tue, 19 May 2026
-- EQ San Diego, San Diego — Tue, 3 Mar 2026
-- EQ San Diego, San Diego — Tue, 18 Nov 2025
-- EQ San Diego, San Diego — Tue, 8 Jul 2025
-- EQ San Diego, San Diego — Tue, 10 Jun 2025
-- EQ San Diego, San Diego — Wed, 7 May 2025
-- EQ San Diego, San Diego — Wed, 7 Aug 2024
-- EQ San Diego, San Diego — Wed, 17 Jul 2024
+- EQ San Diego, San Diego · Tue, 19 May 2026
+- EQ San Diego, San Diego · Tue, 3 Mar 2026
+- EQ San Diego, San Diego · Tue, 18 Nov 2025
+- EQ San Diego, San Diego · Tue, 8 Jul 2025
+- EQ San Diego, San Diego · Tue, 10 Jun 2025
+- EQ San Diego, San Diego · Wed, 7 May 2025
+- EQ San Diego, San Diego · Wed, 7 Aug 2024
+- EQ San Diego, San Diego · Wed, 17 Jul 2024
 
 ## Shares bills with
 

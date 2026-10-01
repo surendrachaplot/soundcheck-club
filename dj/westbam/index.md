@@ -1,8 +1,8 @@
 # Westbam
 
-Westbam is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fridas Pier, Stuttgart on Sat, 12 Dec 2026.
+Westbam is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 12 Dec 2026.
 
-Westbam is a techno and house artist based in Germany, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Cologne and Düsseldorf and 5 more. Often billed alongside K-Paul, Dr. Motte and Hardy Hard. Next up: Fridas Pier, Stuttgart on Sat 12 Dec.
+Westbam is a techno and house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 5 more. Often billed alongside K-Paul, Dr. Motte and Hardy Hard. Next up: Fridas Pier, Stuttgart on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Westbam is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
-- Waschhaus, Berlin — Fri, 7 Aug 2026
-- Gewölbe, Cologne — Sat, 1 Aug 2026
-- Joule, Osaka — Sat, 13 Jun 2026
-- Bootshaus, Cologne — Sat, 30 May 2026
-- Rathenau Hallen Berlin, Berlin — Sat, 18 Oct 2025
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 6 Sept 2025
-- Waschhaus, Berlin — Fri, 15 Aug 2025
+- TBA - Straße des 17. Juni & Großer Stern, Berlin · Sat, 15 Aug 2026
+- Waschhaus, Berlin · Fri, 7 Aug 2026
+- Gewölbe, Cologne · Sat, 1 Aug 2026
+- Joule, Osaka · Sat, 13 Jun 2026
+- Bootshaus, Cologne · Sat, 30 May 2026
+- Rathenau Hallen Berlin, Berlin · Sat, 18 Oct 2025
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 6 Sept 2025
+- Waschhaus, Berlin · Fri, 15 Aug 2025
 
 ## Shares bills with
 

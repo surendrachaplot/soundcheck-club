@@ -1,6 +1,6 @@
 # Milkshake Brighton - The Freshers Moving In Rave at Horizon at Horizon, Brighton
 
-Milkshake Brighton - The Freshers Moving In Rave at Horizon at Horizon, Brighton on Thu 1 Oct, Brighton. Preview the line-up and save it on soundcheck.
+Milkshake Brighton - The Freshers Moving In Rave at Horizon at Horizon, Brighton on Thu 1 Oct, Brighton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

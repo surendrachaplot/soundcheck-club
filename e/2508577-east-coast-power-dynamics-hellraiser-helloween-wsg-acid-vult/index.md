@@ -1,6 +1,6 @@
 # EAST COAST POWER DYNAMICS HELLRAISER HELLOWEEN WSG ACID VULTURE at Upstairs at the 700
 
-EAST COAST POWER DYNAMICS HELLRAISER HELLOWEEN WSG ACID VULTURE at Upstairs at the 700 on Thu 29 Oct, Philadelphia. EBM and Industrial. Preview the line-up and save it on soundcheck.
+EAST COAST POWER DYNAMICS HELLRAISER HELLOWEEN WSG ACID VULTURE at Upstairs at the 700 on Thu 29 Oct, Philadelphia. EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

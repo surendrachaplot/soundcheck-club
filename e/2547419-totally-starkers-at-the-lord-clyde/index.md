@@ -1,6 +1,6 @@
 # Totally Starkers at The Lord Clyde
 
-Totally Starkers at The Lord Clyde on Thu 15 Oct, London. House and Club. Preview the line-up and save it on soundcheck.
+Totally Starkers at The Lord Clyde on Thu 15 Oct, London. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

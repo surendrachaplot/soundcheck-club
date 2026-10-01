@@ -1,8 +1,8 @@
 # STYLOPHONIC
 
-STYLOPHONIC is a Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ex Macello, Milan on Sat, 3 Oct 2026.
+STYLOPHONIC is a Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ex Macello, Milan on Sat, 3 Oct 2026.
 
-STYLOPHONIC is a tech house artist based in Italy, tracked on soundcheck, with 10 sets logged across Milan. Often billed alongside Y-DAPT, MAGNVM! and Gumbelly. Next up: Ex Macello, Milan on Sat 3 Oct.
+STYLOPHONIC is a tech house artist based in Italy, with 10 gigs on soundcheck across Milan. Often billed alongside Y-DAPT, MAGNVM! and Gumbelly. Next up: Ex Macello, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ STYLOPHONIC is a tech house artist based in Italy, tracked on soundcheck, with 1
 
 ## Recently played
 
-- Anfiteatro Monte Stella, Milan — Sat, 12 Sept 2026
-- Tunnel, Milan — Sat, 25 Apr 2026
-- Detune, Milan — Sat, 11 Apr 2026
-- Detune, Milan — Sat, 28 Mar 2026
-- Detune, Milan — Sat, 14 Feb 2026
-- Plastic, Milan — Fri, 30 May 2025
-- TBA - TBA, Milan — Wed, 30 Apr 2025
-- Plastic, Milan — Fri, 4 Apr 2025
+- Anfiteatro Monte Stella, Milan · Sat, 12 Sept 2026
+- Tunnel, Milan · Sat, 25 Apr 2026
+- Detune, Milan · Sat, 11 Apr 2026
+- Detune, Milan · Sat, 28 Mar 2026
+- Detune, Milan · Sat, 14 Feb 2026
+- Plastic, Milan · Fri, 30 May 2025
+- TBA - TBA, Milan · Wed, 30 Apr 2025
+- Plastic, Milan · Fri, 4 Apr 2025
 
 ## Shares bills with
 

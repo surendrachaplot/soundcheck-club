@@ -1,8 +1,8 @@
 # YO.AN
 
-YO.AN is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Red Bar, Tokyo on Sat, 3 Oct 2026.
+YO.AN is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Red Bar, Tokyo on Sat, 3 Oct 2026.
 
-YO.AN is a house and techno artist based in Japan, tracked on soundcheck, with 192 sets logged across Kyoto and Tokyo. Often billed alongside Fushiming, Mamazu and Sunga. Next up: Red Bar, Tokyo on Sat 3 Oct.
+YO.AN is a house and techno artist based in Japan, with 192 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Fushiming, Mamazu and Sunga. Next up: Red Bar, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ YO.AN is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 ## Recently played
 
-- DJ Bar Bridge, Tokyo — Sat, 26 Sept 2026
-- Aoyama Hachi, Tokyo — Sat, 19 Sept 2026
-- DJ Bar Bridge Shinjuku, Tokyo — Fri, 11 Sept 2026
-- Red Bar, Tokyo — Sat, 5 Sept 2026
-- Débris, Tokyo — Wed, 26 Aug 2026
-- DJ Bar Bridge Shinjuku, Tokyo — Fri, 14 Aug 2026
-- Red Bar, Tokyo — Sat, 1 Aug 2026
-- Oath, Tokyo — Sat, 25 Jul 2026
+- DJ Bar Bridge, Tokyo · Sat, 26 Sept 2026
+- Aoyama Hachi, Tokyo · Sat, 19 Sept 2026
+- DJ Bar Bridge Shinjuku, Tokyo · Fri, 11 Sept 2026
+- Red Bar, Tokyo · Sat, 5 Sept 2026
+- Débris, Tokyo · Wed, 26 Aug 2026
+- DJ Bar Bridge Shinjuku, Tokyo · Fri, 14 Aug 2026
+- Red Bar, Tokyo · Sat, 1 Aug 2026
+- Oath, Tokyo · Sat, 25 Jul 2026
 
 ## Shares bills with
 

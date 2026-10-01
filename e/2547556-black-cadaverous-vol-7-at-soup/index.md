@@ -1,6 +1,6 @@
 # Black Cadaverous vol. 7 at Soup
 
-Black Cadaverous vol. 7 at Soup on Sun 11 Oct, Tokyo. 2 artists on the bill: Cal Lyall and DJ MEMAI. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Black Cadaverous vol. 7 at Soup on Sun 11 Oct, Tokyo. 2 artists: Cal Lyall and DJ MEMAI. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

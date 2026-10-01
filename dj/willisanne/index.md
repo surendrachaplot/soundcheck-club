@@ -1,8 +1,8 @@
 # Willis Anne
 
-Willis Anne is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Willis Anne is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
-Willis Anne is a house and techno artist based in France, tracked on soundcheck, with 40 sets logged across Berlin, Melbourne, Osaka and Strasbourg and 2 more. Often billed alongside Kate Miller, Rakhi and DJ Possum. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
+Willis Anne is a house and techno artist based in France, with 40 gigs on soundcheck across Berlin, Melbourne, Osaka and Strasbourg and 2 more. Often billed alongside Kate Miller, Rakhi and DJ Possum. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Willis Anne is a house and techno artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- QQQ ST. Park, Melbourne — Sat, 29 Aug 2026
-- QQQ ST. Park, Melbourne — Sat, 29 Aug 2026
-- Collingwood Basement, Melbourne — Fri, 28 Aug 2026
-- Angel Music Bar, Melbourne — Fri, 12 Jun 2026
-- New Guernica, Melbourne — Fri, 22 May 2026
-- Solace, Melbourne — Thu, 7 May 2026
-- Miscellania, Melbourne — Fri, 20 Mar 2026
-- Angel Music Bar, Melbourne — Sat, 3 Jan 2026
+- QQQ ST. Park, Melbourne · Sat, 29 Aug 2026
+- QQQ ST. Park, Melbourne · Sat, 29 Aug 2026
+- Collingwood Basement, Melbourne · Fri, 28 Aug 2026
+- Angel Music Bar, Melbourne · Fri, 12 Jun 2026
+- New Guernica, Melbourne · Fri, 22 May 2026
+- Solace, Melbourne · Thu, 7 May 2026
+- Miscellania, Melbourne · Fri, 20 Mar 2026
+- Angel Music Bar, Melbourne · Sat, 3 Jan 2026
 
 ## Shares bills with
 

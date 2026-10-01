@@ -1,8 +1,8 @@
 # Tortoise
 
-Tortoise is a Experimental and Jazz artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
+Tortoise is a Experimental and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TivoliVredenburg, Utrecht on Thu, 5 Nov 2026.
 
-Tortoise is an experimental and jazz artist based in United States of America, tracked on soundcheck, with 5 sets logged across Barcelona, Los Angeles, The Hague and Tokyo and 1 more. Often billed alongside Chinnamasta, Devon Rexi and Eiko Ishibashi. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
+Tortoise is an experimental and jazz artist based in United States of America, with 5 gigs on soundcheck across Barcelona, Los Angeles, The Hague and Tokyo and 1 more. Often billed alongside Chinnamasta, Devon Rexi and Eiko Ishibashi. Next up: TivoliVredenburg, Utrecht on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -13,9 +13,9 @@ Tortoise is an experimental and jazz artist based in United States of America, t
 
 ## Recently played
 
-- TBA - Multiple Venues , The Hague — Thu, 9 Apr 2026
-- The Let's Go! Disco, Los Angeles — Thu, 19 Feb 2026
-- Tachikawa Stage Garden, Tokyo — Sat, 14 Jun 2025
+- TBA - Multiple Venues , The Hague · Thu, 9 Apr 2026
+- The Let's Go! Disco, Los Angeles · Thu, 19 Feb 2026
+- Tachikawa Stage Garden, Tokyo · Sat, 14 Jun 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Rushing To Paradise - A Night Of Alt. Disco, Post Punk & Leftield House FREE ENTRY at Club Makossa
 
-Rushing To Paradise - A Night Of Alt. Disco, Post Punk & Leftield House FREE ENTRY at Club Makossa on Thu 8 Oct, London. 1 artist on the bill: DAMO. House and Disco. Preview the line-up and save it on soundcheck.
+Rushing To Paradise - A Night Of Alt. Disco, Post Punk & Leftield House FREE ENTRY at Club Makossa on Thu 8 Oct, London. 1 artist: DAMO. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

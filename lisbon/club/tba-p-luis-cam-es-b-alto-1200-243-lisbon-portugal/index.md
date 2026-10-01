@@ -1,8 +1,8 @@
 # TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal
 
-TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "OctobeFest Pub Crawl in Lisbon" on Thu, 1 Oct 2026.
+TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "OctobeFest Pub Crawl in Lisbon" on Thu, 1 Oct 2026.
 
-TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing.
+TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal is a music venue in Lisbon listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Midnight Elevator Presents: GiGi FM at TBA - Warehouse
 
-Midnight Elevator Presents: GiGi FM at TBA - Warehouse on Sat 10 Oct, Perth. 2 artists on the bill: GiGi FM and PTMC. Preview the line-up and save it on soundcheck.
+Midnight Elevator Presents: GiGi FM at TBA - Warehouse on Sat 10 Oct, Perth. 2 artists: GiGi FM and PTMC. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

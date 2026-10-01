@@ -1,6 +1,6 @@
 # Turtur bittet zur Bar & Wollmäuse Stammtisch at Turtur
 
-Turtur bittet zur Bar & Wollmäuse Stammtisch on Thu 1 Oct, Hamburg. House. Preview the line-up and save it on soundcheck.
+Turtur bittet zur Bar & Wollmäuse Stammtisch on Thu 1 Oct, Hamburg. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

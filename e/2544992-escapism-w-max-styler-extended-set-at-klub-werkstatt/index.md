@@ -1,6 +1,6 @@
 # ESCAPISM w/ Max Styler – Extended Set at Klub Werkstatt
 
-ESCAPISM w/ Max Styler – Extended Set at Klub Werkstatt on Sat 7 Nov, Copenhagen. 4 artists on the bill: Eski, Max Styler, NILU and tadoh. Tech House and Electro. Preview the line-up and save it on soundcheck.
+ESCAPISM w/ Max Styler – Extended Set at Klub Werkstatt on Sat 7 Nov, Copenhagen. 4 artists: Eski, Max Styler, NILU and tadoh. Tech House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

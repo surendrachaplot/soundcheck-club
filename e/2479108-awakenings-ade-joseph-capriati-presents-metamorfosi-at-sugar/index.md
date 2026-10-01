@@ -1,6 +1,6 @@
 # Awakenings ADE - Joseph Capriati presents Metamorfosi at Sugarfactory
 
-Awakenings ADE - Joseph Capriati presents Metamorfosi at Sugarfactory on Fri 23 Oct, Amsterdam. 5 artists on the bill: AAT (NL), Cloonee, Joseph Capriati and Simon Kidzoo and 1 more. House. Preview the line-up and save it on soundcheck.
+Awakenings ADE - Joseph Capriati presents Metamorfosi at Sugarfactory on Fri 23 Oct, Amsterdam. 5 artists: AAT (NL), Cloonee, Joseph Capriati and Simon Kidzoo and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

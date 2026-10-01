@@ -1,6 +1,6 @@
 # Cosmo Maker + Collen "Cosmo" Murphy at Dante's HiFi
 
-Cosmo Maker + Collen "Cosmo" Murphy at Dante's HiFi on Fri 2 Oct, Miami. Preview the line-up and save it on soundcheck.
+Cosmo Maker + Collen "Cosmo" Murphy at Dante's HiFi on Fri 2 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Club Vaag invites DROS & GO$PEL at Club Vaag
 
-Club Vaag invites DROS & GO$PEL on Fri 16 Oct, Antwerp. Preview the line-up and save it on soundcheck.
+Club Vaag invites DROS & GO$PEL on Fri 16 Oct, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # weed420 + Tufi at Silent Green
 
-weed420 + Tufi at Silent Green on Tue 6 Oct, Berlin. Experimental. Preview the line-up and save it on soundcheck.
+weed420 + Tufi at Silent Green on Tue 6 Oct, Berlin. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

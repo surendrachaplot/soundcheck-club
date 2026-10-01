@@ -1,8 +1,8 @@
 # szoliver
 
-szoliver is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Turbina, Budapest on Sat, 3 Oct 2026.
+szoliver is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Turbina, Budapest on Sat, 3 Oct 2026.
 
-szoliver is a techno and trance artist based in Hungary, tracked on soundcheck, with 105 sets logged across Bangkok, Basel, Berlin and Budapest and 4 more. Often billed alongside SLYM, Akác and Technokool. Next up: Turbina, Budapest on Sat 3 Oct.
+szoliver is a techno and trance artist based in Hungary, with 105 gigs on soundcheck across Bangkok, Basel, Berlin and Budapest and 4 more. Often billed alongside SLYM, Akác and Technokool. Next up: Turbina, Budapest on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ szoliver is a techno and trance artist based in Hungary, tracked on soundcheck, 
 
 ## Recently played
 
-- Toldi Klub, Budapest — Fri, 25 Sept 2026
-- Pontoon Budapest, Budapest — Thu, 17 Sept 2026
-- Turbina, Budapest — Sat, 22 Aug 2026
-- TBA - Nomád Bár, Budapest — Sat, 15 Aug 2026
-- Turbina, Budapest — Fri, 17 Jul 2026
-- TBA - Rebel Beach, Budapest — Fri, 12 Jun 2026
-- Turbina, Budapest — Sat, 16 May 2026
-- Aether Club Budapest, Budapest — Fri, 15 May 2026
+- Toldi Klub, Budapest · Fri, 25 Sept 2026
+- Pontoon Budapest, Budapest · Thu, 17 Sept 2026
+- Turbina, Budapest · Sat, 22 Aug 2026
+- TBA - Nomád Bár, Budapest · Sat, 15 Aug 2026
+- Turbina, Budapest · Fri, 17 Jul 2026
+- TBA - Rebel Beach, Budapest · Fri, 12 Jun 2026
+- Turbina, Budapest · Sat, 16 May 2026
+- Aether Club Budapest, Budapest · Fri, 15 May 2026
 
 ## Shares bills with
 

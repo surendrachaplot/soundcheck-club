@@ -1,8 +1,8 @@
 # The Lubber Fiend
 
-The Lubber Fiend is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Cassini presents: Noizar " on Sat, 3 Oct 2026.
+The Lubber Fiend is a music venue in Newcastle with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Cassini presents: Noizar " on Sat, 3 Oct 2026.
 
-The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Al Bradley, DJ Marcelle, Jon Cornbill and Jubei and 2 more. Browse upcoming dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
+The Lubber Fiend is a music venue in Newcastle listed on soundcheck. 6 upcoming gigs, with line-ups including Al Bradley, DJ Marcelle, Jon Cornbill and Jubei and 2 more. See dates, start times and who's playing. 81 Blandford St., Newcastle upon Tyne NE1 3PZ.
 
 ## What's on
 

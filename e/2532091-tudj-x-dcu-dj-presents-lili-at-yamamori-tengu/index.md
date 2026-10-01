@@ -1,6 +1,6 @@
 # TUDJ x DCU DJ presents: LILI at Yamamori Tengu
 
-TUDJ x DCU DJ presents: LILI at Yamamori Tengu on Thu 8 Oct, Dublin. Preview the line-up and save it on soundcheck.
+TUDJ x DCU DJ presents: LILI at Yamamori Tengu on Thu 8 Oct, Dublin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Future Yard presents Xzibit at Future Yard
 
-Future Yard presents Xzibit on Sun 22 Nov, Liverpool. Hip-Hop. Preview the line-up and save it on soundcheck.
+Future Yard presents Xzibit on Sun 22 Nov, Liverpool. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

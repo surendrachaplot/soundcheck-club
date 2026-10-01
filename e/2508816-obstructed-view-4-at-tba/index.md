@@ -1,6 +1,6 @@
 # Obstructed View 4 at TBA
 
-Obstructed View 4 at TBA on Fri 2 Oct, Vancouver. 2 artists on the bill: NAP (MX) and Slim Media Player. Balearic. Preview the line-up and save it on soundcheck.
+Obstructed View 4 at TBA on Fri 2 Oct, Vancouver. 2 artists: NAP (MX) and Slim Media Player. Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

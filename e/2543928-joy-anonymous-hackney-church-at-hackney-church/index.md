@@ -1,6 +1,6 @@
 # JOY (Anonymous) - Hackney Church at Hackney Church
 
-JOY (Anonymous) - Hackney Church on Sat 24 Oct, London. Preview the line-up and save it on soundcheck.
+JOY (Anonymous) - Hackney Church on Sat 24 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

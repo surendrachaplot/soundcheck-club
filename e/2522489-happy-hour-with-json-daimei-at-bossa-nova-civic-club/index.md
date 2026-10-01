@@ -1,6 +1,6 @@
 # happy hour with .json & daimei at Bossa Nova Civic Club
 
-happy hour with .json & daimei at Bossa Nova Civic Club on Wed 14 Oct, New York City. 1 artist on the bill: .json. House and Minimal. Preview the line-up and save it on soundcheck.
+happy hour with .json & daimei at Bossa Nova Civic Club on Wed 14 Oct, New York City. 1 artist: .json. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

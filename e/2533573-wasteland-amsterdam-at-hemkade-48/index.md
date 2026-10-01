@@ -1,6 +1,6 @@
 # Wasteland Amsterdam at Hemkade 48
 
-Wasteland Amsterdam at Hemkade 48 on Sat 28 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+Wasteland Amsterdam at Hemkade 48 on Sat 28 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

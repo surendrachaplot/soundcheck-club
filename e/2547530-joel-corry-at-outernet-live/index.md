@@ -1,6 +1,6 @@
 # Joel Corry at Outernet Live
 
-Joel Corry at Outernet Live on Sat 12 Dec, London. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Joel Corry at Outernet Live on Sat 12 Dec, London. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

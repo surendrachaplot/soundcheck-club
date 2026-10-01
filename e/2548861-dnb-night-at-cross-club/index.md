@@ -1,6 +1,6 @@
 # DNB NIGHT at Cross Club
 
-DNB NIGHT at Cross Club on Tue 13 Oct, Prague. Preview the line-up and save it on soundcheck.
+DNB NIGHT at Cross Club on Tue 13 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Township Rebellion Im Freudentaumel at FLUCC
 
-Township Rebellion Im Freudentaumel at FLUCC on Sat 3 Oct, Vienna. 3 artists on the bill: Kollektiv Sheesh, Township Rebellion and Vanessa Sa. Techno. Preview the line-up and save it on soundcheck.
+Township Rebellion Im Freudentaumel at FLUCC on Sat 3 Oct, Vienna. 3 artists: Kollektiv Sheesh, Township Rebellion and Vanessa Sa. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

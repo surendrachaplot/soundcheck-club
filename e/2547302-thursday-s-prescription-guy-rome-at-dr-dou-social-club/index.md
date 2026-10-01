@@ -1,6 +1,6 @@
 # Thursday's Prescription - Guy Rome at Dr. Dou Social Club
 
-Thursday's Prescription - Guy Rome at Dr. Dou Social Club on Thu 1 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Thursday's Prescription - Guy Rome at Dr. Dou Social Club on Thu 1 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Daniel Weirdo's GROOVE THE CREW at Kassa Boat
 
-Daniel Weirdo's GROOVE THE CREW at Kassa Boat on Sat 3 Oct, Budapest. Techno. Preview the line-up and save it on soundcheck.
+Daniel Weirdo's GROOVE THE CREW at Kassa Boat on Sat 3 Oct, Budapest. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

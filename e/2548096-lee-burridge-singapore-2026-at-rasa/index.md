@@ -1,6 +1,6 @@
 # Lee Burridge - Singapore 2026 at RASA
 
-Lee Burridge - Singapore 2026 at RASA on Sat 7 Nov, Singapore. 1 artist on the bill: Lee Burridge. Techno and House. Preview the line-up and save it on soundcheck.
+Lee Burridge - Singapore 2026 at RASA on Sat 7 Nov, Singapore. 1 artist: Lee Burridge. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

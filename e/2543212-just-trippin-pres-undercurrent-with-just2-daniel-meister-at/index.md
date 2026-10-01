@@ -1,6 +1,6 @@
 # JUST TRIPPIN pres. UNDERCURRENT with JUST2 / Daniel Meister / at TBA - LUBLIN
 
-JUST TRIPPIN pres. UNDERCURRENT with JUST2 / Daniel Meister / at TBA - LUBLIN on Sat 17 Oct, Poland. 4 artists on the bill: CONCEPTUAL, Joseph Capriati, Monika Kruse and Oscar Aguilera. Preview the line-up and save it on soundcheck.
+JUST TRIPPIN pres. UNDERCURRENT with JUST2 / Daniel Meister / at TBA - LUBLIN on Sat 17 Oct, Poland. 4 artists: CONCEPTUAL, Joseph Capriati, Monika Kruse and Oscar Aguilera. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

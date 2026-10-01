@@ -1,8 +1,8 @@
 # Rennie Pilgrem
 
-Rennie Pilgrem is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Rennie Pilgrem is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-Rennie Pilgrem is an electronic artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across South. Often billed alongside A.N.I., C-System and Chris Liebing. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Rennie Pilgrem is an electronic artist based in United Kingdom, with 2 gigs on soundcheck across South. Often billed alongside A.N.I., C-System and Chris Liebing. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 

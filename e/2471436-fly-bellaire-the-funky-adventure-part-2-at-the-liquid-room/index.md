@@ -1,6 +1,6 @@
 # FLY - Bellaire - The Funky Adventure Part 2 at The Liquid Room
 
-FLY - Bellaire - The Funky Adventure Part 2 at The Liquid Room on Fri 13 Nov, Edinburgh. 1 artist on the bill: Bellaire. House and Disco. Preview the line-up and save it on soundcheck.
+FLY - Bellaire - The Funky Adventure Part 2 at The Liquid Room on Fri 13 Nov, Edinburgh. 1 artist: Bellaire. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

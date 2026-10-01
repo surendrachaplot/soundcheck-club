@@ -1,6 +1,6 @@
 # Adult DVD at The Grove
 
-Adult DVD at The Grove on Sat 24 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Adult DVD at The Grove on Sat 24 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

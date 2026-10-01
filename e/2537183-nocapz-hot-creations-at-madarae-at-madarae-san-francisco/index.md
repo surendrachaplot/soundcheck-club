@@ -1,6 +1,6 @@
 # Nocapz (Hot Creations,) at MadaRae at Madarae San Francisco
 
-Nocapz (Hot Creations,) at MadaRae at Madarae San Francisco on Sat 14 Nov, San Francisco/Oakland. 1 artist on the bill: nocapz.. Preview the line-up and save it on soundcheck.
+Nocapz (Hot Creations,) at MadaRae at Madarae San Francisco on Sat 14 Nov, San Francisco/Oakland. 1 artist: nocapz.. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

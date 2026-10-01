@@ -1,6 +1,6 @@
 # Vino Disco FRIDAY at Vino Disco
 
-Vino Disco FRIDAY on Fri 9 Oct, Montreal. 2 artists on the bill: Akpossoul and Don Barbarino. House and Afro House. Preview the line-up and save it on soundcheck.
+Vino Disco FRIDAY on Fri 9 Oct, Montreal. 2 artists: Akpossoul and Don Barbarino. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

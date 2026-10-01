@@ -1,6 +1,6 @@
 # DJ Snake - ADE at Paradiso
 
-DJ Snake - ADE at Paradiso on Wed 21 Oct, Amsterdam. 1 artist on the bill: DJ Snake. Pop and Club. Preview the line-up and save it on soundcheck.
+DJ Snake - ADE at Paradiso on Wed 21 Oct, Amsterdam. 1 artist: DJ Snake. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

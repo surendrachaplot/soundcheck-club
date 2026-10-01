@@ -1,8 +1,8 @@
 # LILIUM
 
-LILIUM is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Sublime Society Berlin" on Wed, 7 Oct 2026.
+LILIUM is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Sublime Society Berlin" on Wed, 7 Oct 2026.
 
-LILIUM is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Pfuelstraße 5, 10997 Berlin.
+LILIUM is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Pfuelstraße 5, 10997 Berlin.
 
 ## What's on
 

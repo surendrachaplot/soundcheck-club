@@ -1,8 +1,8 @@
 # Ampere
 
-Ampere is a music venue in Antwerp with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Bad Bunny Party (Antwerp)" on Fri, 2 Oct 2026.
+Ampere is a music venue in Antwerp with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bad Bunny Party (Antwerp)" on Fri, 2 Oct 2026.
 
-Ampere is a music venue in Antwerp listed on soundcheck. 5 upcoming gigs, with line-ups including BAVR, DJ SWISHA, DRS and DTM Funk and 2 more. Browse upcoming dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
+Ampere is a music venue in Antwerp listed on soundcheck. 5 upcoming gigs, with line-ups including BAVR, DJ SWISHA, DRS and DTM Funk and 2 more. See dates, start times and who's playing. Simonsstraat 21, 2018 Antwerp, BE.
 
 ## What's on
 

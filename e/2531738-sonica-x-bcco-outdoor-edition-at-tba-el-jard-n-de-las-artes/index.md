@@ -1,6 +1,6 @@
 # Sonica x BCCO: Outdoor Edition at TBA - El Jardín de las Artes, Zaragoza
 
-Sonica x BCCO: Outdoor Edition at TBA - El Jardín de las Artes, Zaragoza on Sun 11 Oct, North. 4 artists on the bill: Afem Syko, Alycia Bezgo, Dibison and ESE UVE. Preview the line-up and save it on soundcheck.
+Sonica x BCCO: Outdoor Edition at TBA - El Jardín de las Artes, Zaragoza on Sun 11 Oct, North. 4 artists: Afem Syko, Alycia Bezgo, Dibison and ESE UVE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

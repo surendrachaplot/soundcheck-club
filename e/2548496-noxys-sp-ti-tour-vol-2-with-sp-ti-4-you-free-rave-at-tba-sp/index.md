@@ -1,6 +1,6 @@
 # NOXYS Späti Tour VOL. 2 with Späti 4 You - FREE RAVE at TBA - Späti 4 You - Schillerstrasse 65, 10627 Berlin
 
-NOXYS Späti Tour VOL. 2 with Späti 4 You - FREE RAVE at TBA - Späti 4 You - Schillerstrasse 65, 10627 Berlin on Sat 24 Oct, Berlin. 5 artists on the bill: Armaville, Dr.Waumiau, F O R E S I G H T and FAballert and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+NOXYS Späti Tour VOL. 2 with Späti 4 You - FREE RAVE at TBA - Späti 4 You - Schillerstrasse 65, 10627 Berlin on Sat 24 Oct, Berlin. 5 artists: Armaville, Dr.Waumiau, F O R E S I G H T and FAballert and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

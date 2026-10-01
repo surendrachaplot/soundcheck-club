@@ -1,8 +1,8 @@
 # Puritan
 
-Puritan is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Left Bank, Tbilisi on Sat, 3 Oct 2026.
+Puritan is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Left Bank, Tbilisi on Sat, 3 Oct 2026.
 
-Puritan is a techno and house artist based in Georgia, tracked on soundcheck, with 64 sets logged across Athens, Berlin, London and Strasbourg and 1 more. Often billed alongside Boyd Schidt, Frequency Shifter and Liza Rivs. Next up: Left Bank, Tbilisi on Sat 3 Oct.
+Puritan is a techno and house artist based in Georgia, with 64 gigs on soundcheck across Athens, Berlin, London and Strasbourg and 1 more. Often billed alongside Boyd Schidt, Frequency Shifter and Liza Rivs. Next up: Left Bank, Tbilisi on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Puritan is a techno and house artist based in Georgia, tracked on soundcheck, wi
 
 ## Recently played
 
-- KHIDI, Tbilisi — Fri, 3 Jul 2026
-- KHIDI, Tbilisi — Fri, 19 Jun 2026
-- KHIDI, Tbilisi — Fri, 5 Jun 2026
-- KHIDI, Tbilisi — Fri, 3 Apr 2026
-- KHIDI, Tbilisi — Fri, 13 Mar 2026
-- KHIDI, Tbilisi — Fri, 6 Feb 2026
-- KHIDI, Tbilisi — Fri, 2 Jan 2026
-- KHIDI, Tbilisi — Wed, 31 Dec 2025
+- KHIDI, Tbilisi · Fri, 3 Jul 2026
+- KHIDI, Tbilisi · Fri, 19 Jun 2026
+- KHIDI, Tbilisi · Fri, 5 Jun 2026
+- KHIDI, Tbilisi · Fri, 3 Apr 2026
+- KHIDI, Tbilisi · Fri, 13 Mar 2026
+- KHIDI, Tbilisi · Fri, 6 Feb 2026
+- KHIDI, Tbilisi · Fri, 2 Jan 2026
+- KHIDI, Tbilisi · Wed, 31 Dec 2025
 
 ## Shares bills with
 

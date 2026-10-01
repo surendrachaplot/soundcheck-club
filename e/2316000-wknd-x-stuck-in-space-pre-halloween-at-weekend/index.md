@@ -1,6 +1,6 @@
 # WKND X STUCK IN SPACE - PRE HALLOWEEN at Weekend
 
-WKND X STUCK IN SPACE - PRE HALLOWEEN at Weekend on Fri 30 Oct, Berlin. House and Electro. Preview the line-up and save it on soundcheck.
+WKND X STUCK IN SPACE - PRE HALLOWEEN at Weekend on Fri 30 Oct, Berlin. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

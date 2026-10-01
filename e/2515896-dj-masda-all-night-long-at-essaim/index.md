@@ -1,6 +1,6 @@
 # DJ Masda - all night long at essaim
 
-DJ Masda - all night long at essaim on Sat 10 Oct, Paris. 1 artist on the bill: DJ Masda. Techno. Preview the line-up and save it on soundcheck.
+DJ Masda - all night long at essaim on Sat 10 Oct, Paris. 1 artist: DJ Masda. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

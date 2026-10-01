@@ -1,6 +1,6 @@
 # The beast 002 at Sala Independance Club
 
-The beast 002 at Sala Independance Club on Sat 3 Oct, Madrid. 2 artists on the bill: Hector MAD and Ricardo Morales. Techno. Preview the line-up and save it on soundcheck.
+The beast 002 at Sala Independance Club on Sat 3 Oct, Madrid. 2 artists: Hector MAD and Ricardo Morales. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # The Yard
 
-The Yard is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Resonate Mcr pres. 30 Years of Freerange" on Sat, 10 Oct 2026.
+The Yard is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Resonate Mcr pres. 30 Years of Freerange" on Sat, 10 Oct 2026.
 
-The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including 13Ø4, Adam Freeland, Alex Q and Black Loops and 2 more. Browse upcoming dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
+The Yard is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including 13Ø4, Adam Freeland, Alex Q and Black Loops and 2 more. See dates, start times and who's playing. 11 Bent Street, Manchester M8 8NF.
 
 ## What's on
 

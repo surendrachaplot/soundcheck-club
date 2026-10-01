@@ -1,8 +1,8 @@
 # Alex Wann
 
-Alex Wann is a Afro House and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Zumana Bali, Bali on Fri, 2 Oct 2026.
+Alex Wann is a Afro House and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Zumana Bali, Bali on Fri, 2 Oct 2026.
 
-Alex Wann is an afro house and house artist based in France, tracked on soundcheck, with 147 sets logged across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Notre Dame, Andrea Oliva and Francis Mercier. Next up: Zumana Bali, Bali on Fri 2 Oct.
+Alex Wann is an afro house and house artist based in France, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 42 more. Often billed alongside Notre Dame, Andrea Oliva and Francis Mercier. Next up: Zumana Bali, Bali on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Alex Wann is an afro house and house artist based in France, tracked on soundche
 
 ## Recently played
 
-- Kaufleuten, Zurich — Sat, 26 Sept 2026
-- Moon Warsaw, Warsaw — Sat, 12 Sept 2026
-- Shelter Amsterdam, Amsterdam — Fri, 11 Sept 2026
-- Fitz Mallorca, Mallorca — Fri, 4 Sept 2026
-- L'orangerie, Paris — Fri, 28 Aug 2026
-- TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto — Sat, 15 Aug 2026
-- Hï Ibiza, Ibiza — Mon, 27 Jul 2026
-- Hï Ibiza, Ibiza — Mon, 27 Jul 2026
+- Kaufleuten, Zurich · Sat, 26 Sept 2026
+- Moon Warsaw, Warsaw · Sat, 12 Sept 2026
+- Shelter Amsterdam, Amsterdam · Fri, 11 Sept 2026
+- Fitz Mallorca, Mallorca · Fri, 4 Sept 2026
+- L'orangerie, Paris · Fri, 28 Aug 2026
+- TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto · Sat, 15 Aug 2026
+- Hï Ibiza, Ibiza · Mon, 27 Jul 2026
+- Hï Ibiza, Ibiza · Mon, 27 Jul 2026
 
 ## Shares bills with
 

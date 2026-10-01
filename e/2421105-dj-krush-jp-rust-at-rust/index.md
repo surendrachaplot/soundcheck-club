@@ -1,6 +1,6 @@
 # DJ Krush (JP) // RUST at RUST
 
-DJ Krush (JP) // RUST on Thu 29 Oct, Copenhagen. 1 artist on the bill: DJ Krush. Preview the line-up and save it on soundcheck.
+DJ Krush (JP) // RUST on Thu 29 Oct, Copenhagen. 1 artist: DJ Krush. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

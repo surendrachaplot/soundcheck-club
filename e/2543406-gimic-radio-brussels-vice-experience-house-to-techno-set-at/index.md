@@ -1,6 +1,6 @@
 # GIMIC radio Brussels: Vice Experience (house to techno set) at GIMIC
 
-GIMIC radio Brussels: Vice Experience (house to techno set) on Sun 1 Nov, Brussels. 1 artist on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
+GIMIC radio Brussels: Vice Experience (house to techno set) on Sun 1 Nov, Brussels. 1 artist: Vice Experience. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

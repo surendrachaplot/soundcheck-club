@@ -1,8 +1,8 @@
 # Süss War Gestern
 
-Süss War Gestern is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "◈ Cosmic Thursday's ◈" on Thu, 1 Oct 2026.
+Süss War Gestern is a music venue in Berlin with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "◈ Cosmic Thursday's ◈" on Thu, 1 Oct 2026.
 
-Süss War Gestern is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Better Call Paul, Bruder Jakob, Doron and Freudenthal and 2 more. Browse upcoming dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
+Süss War Gestern is a music venue in Berlin listed on soundcheck. 4 upcoming gigs, with line-ups including Better Call Paul, Bruder Jakob, Doron and Freudenthal and 2 more. See dates, start times and who's playing. Wühlischstraße 43, 10245 Berlin.
 
 ## What's on
 

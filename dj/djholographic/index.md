@@ -1,8 +1,8 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Detroit on Fri, 2 Oct 2026.
+DJ Holographic is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Detroit on Fri, 2 Oct 2026.
 
-DJ Holographic is a house and techno artist based in United States of America, tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: TBA, Detroit on Fri 2 Oct.
+DJ Holographic is a house and techno artist based in United States of America, with 212 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: TBA, Detroit on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ DJ Holographic is a house and techno artist based in United States of America, t
 
 ## Recently played
 
-- TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle — Sat, 26 Sept 2026
-- Los Globos, Los Angeles — Fri, 25 Sept 2026
-- Studio Club Malaga, Malaga — Sat, 12 Sept 2026
-- Palais, London — Fri, 11 Sept 2026
-- The Midway, San Francisco/Oakland — Sat, 5 Sept 2026
-- The Midway, San Francisco/Oakland — Sat, 5 Sept 2026
-- Under the K Bridge, New York City — Sat, 29 Aug 2026
-- TBA - Bat Country, Portland — Fri, 7 Aug 2026
+- TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle · Sat, 26 Sept 2026
+- Los Globos, Los Angeles · Fri, 25 Sept 2026
+- Studio Club Malaga, Malaga · Sat, 12 Sept 2026
+- Palais, London · Fri, 11 Sept 2026
+- The Midway, San Francisco/Oakland · Sat, 5 Sept 2026
+- The Midway, San Francisco/Oakland · Sat, 5 Sept 2026
+- Under the K Bridge, New York City · Sat, 29 Aug 2026
+- TBA - Bat Country, Portland · Fri, 7 Aug 2026
 
 ## Shares bills with
 

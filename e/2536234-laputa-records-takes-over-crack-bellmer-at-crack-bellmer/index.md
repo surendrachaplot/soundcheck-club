@@ -1,6 +1,6 @@
 # LaPuta Records Takes Over Crack Bellmer at Crack Bellmer
 
-LaPuta Records Takes Over Crack Bellmer on Thu 22 Oct, Berlin. 1 artist on the bill: Culo Sucio. House and Tech House. Preview the line-up and save it on soundcheck.
+LaPuta Records Takes Over Crack Bellmer on Thu 22 Oct, Berlin. 1 artist: Culo Sucio. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

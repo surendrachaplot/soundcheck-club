@@ -1,6 +1,6 @@
 # JIM (Live) + Thought Leadership at Yes
 
-JIM (Live) + Thought Leadership at Yes on Sun 4 Oct, Manchester. Balearic and Krautrock. Preview the line-up and save it on soundcheck.
+JIM (Live) + Thought Leadership at Yes on Sun 4 Oct, Manchester. Balearic and Krautrock. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Maria Callapez
 
-Maria Callapez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Gare Porto, Porto on Fri, 23 Oct 2026.
+Maria Callapez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gare Porto, Porto on Fri, 23 Oct 2026.
 
-Maria Callapez is a techno and house artist tracked on soundcheck, with 66 sets logged across Barcelona, Lisbon, Madrid and Porto. Often billed alongside Amulador, Kokeshi and Hypnotic Black Magic. Next up: Gare Porto, Porto on Fri 23 Oct.
+Maria Callapez is a techno and house artist, with 66 gigs on soundcheck across Barcelona, Lisbon, Madrid and Porto. Often billed alongside Amulador, Kokeshi and Hypnotic Black Magic. Next up: Gare Porto, Porto on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Maria Callapez is a techno and house artist tracked on soundcheck, with 66 sets 
 
 ## Recently played
 
-- Ministerium Club, Lisbon — Fri, 4 Sept 2026
-- Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
-- Gare Porto, Porto — Sat, 13 Jun 2026
-- Escala25, Lisbon — Sat, 6 Jun 2026
-- Ministerium Club, Lisbon — Sat, 30 May 2026
-- Plano B, Porto — Fri, 8 May 2026
-- LAUT, Barcelona — Sat, 21 Feb 2026
-- Fabrica Braço De Prata, Lisbon — Sat, 7 Feb 2026
+- Ministerium Club, Lisbon · Fri, 4 Sept 2026
+- Parque Eduardo VII, Lisbon · Fri, 3 Jul 2026
+- Gare Porto, Porto · Sat, 13 Jun 2026
+- Escala25, Lisbon · Sat, 6 Jun 2026
+- Ministerium Club, Lisbon · Sat, 30 May 2026
+- Plano B, Porto · Fri, 8 May 2026
+- LAUT, Barcelona · Sat, 21 Feb 2026
+- Fabrica Braço De Prata, Lisbon · Sat, 7 Feb 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # So Special at Evangeline
 
-So Special at Evangeline on Fri 23 Oct, Toronto. 1 artist on the bill: Just Jenneh. Preview the line-up and save it on soundcheck.
+So Special at Evangeline on Fri 23 Oct, Toronto. 1 artist: Just Jenneh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

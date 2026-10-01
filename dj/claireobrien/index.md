@@ -1,8 +1,8 @@
 # Claire O'Brien
 
-Claire O'Brien is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+Claire O'Brien is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
-Claire O'Brien is a techno and house artist based in Australia, tracked on soundcheck, with 40 sets logged across Amsterdam, Bristol, Galway and Hobart and 4 more. Often billed alongside ATARANGI, Effy and Prizefight. Next up: Carriageworks, Sydney on Sat 10 Oct.
+Claire O'Brien is a techno and house artist based in Australia, with 40 gigs on soundcheck across Amsterdam, Bristol, Galway and Hobart and 4 more. Often billed alongside ATARANGI, Effy and Prizefight. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Claire O'Brien is a techno and house artist based in Australia, tracked on sound
 
 ## Recently played
 
-- Second Story Studios, Melbourne — Fri, 25 Sept 2026
-- ark (Melb), Melbourne — Sat, 19 Sept 2026
-- New Guernica, Melbourne — Fri, 21 Aug 2026
-- Boston Manor Park, London — Fri, 31 Jul 2026
-- Angel Music Bar, Melbourne — Thu, 11 Jun 2026
-- Miscellania, Melbourne — Fri, 27 Mar 2026
-- Miscellania, Melbourne — Fri, 27 Feb 2026
-- The Grand Poobah, Hobart — Sat, 31 Jan 2026
+- Second Story Studios, Melbourne · Fri, 25 Sept 2026
+- ark (Melb), Melbourne · Sat, 19 Sept 2026
+- New Guernica, Melbourne · Fri, 21 Aug 2026
+- Boston Manor Park, London · Fri, 31 Jul 2026
+- Angel Music Bar, Melbourne · Thu, 11 Jun 2026
+- Miscellania, Melbourne · Fri, 27 Mar 2026
+- Miscellania, Melbourne · Fri, 27 Feb 2026
+- The Grand Poobah, Hobart · Sat, 31 Jan 2026
 
 ## Shares bills with
 

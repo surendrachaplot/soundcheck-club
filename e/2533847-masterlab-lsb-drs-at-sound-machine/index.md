@@ -1,6 +1,6 @@
 # masterlab - LSB & DRS at Sound Machine
 
-masterlab - LSB & DRS at Sound Machine on Sat 17 Oct, Toronto. 3 artists on the bill: DRS, LSB and Pachelle. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+masterlab - LSB & DRS at Sound Machine on Sat 17 Oct, Toronto. 3 artists: DRS, LSB and Pachelle. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

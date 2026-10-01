@@ -1,6 +1,6 @@
 # … at BASIS
 
-… at BASIS on Sun 8 Nov, Utrecht. 4 artists on the bill: ARAKAZA, DRKNGHTS, Mvcoko and Yves B Golden. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+… at BASIS on Sun 8 Nov, Utrecht. 4 artists: ARAKAZA, DRKNGHTS, Mvcoko and Yves B Golden. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

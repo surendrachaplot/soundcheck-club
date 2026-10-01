@@ -1,6 +1,6 @@
 # Brighton Sundae with WheelUP at Patterns
 
-Brighton Sundae with WheelUP at Patterns on Sun 4 Oct, Brighton. 1 artist on the bill: WheelUP. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
+Brighton Sundae with WheelUP at Patterns on Sun 4 Oct, Brighton. 1 artist: WheelUP. Funk / Soul and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

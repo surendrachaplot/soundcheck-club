@@ -1,6 +1,6 @@
 # Fvtvr presents LASTER again 30H UNDER THE RED LIGHT at Fvtvr
 
-Fvtvr presents LASTER again 30H UNDER THE RED LIGHT on Fri 11 Dec, Paris. Techno and House. Preview the line-up and save it on soundcheck.
+Fvtvr presents LASTER again 30H UNDER THE RED LIGHT on Fri 11 Dec, Paris. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

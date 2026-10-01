@@ -1,6 +1,6 @@
 # Shine: Rithma, Mark Quark, & Mimi Raza at Quartyard
 
-Shine: Rithma, Mark Quark, & Mimi Raza at Quartyard on Sun 4 Oct, San Diego. 2 artists on the bill: Mark E Quark and Mimi Raza. House. Preview the line-up and save it on soundcheck.
+Shine: Rithma, Mark Quark, & Mimi Raza at Quartyard on Sun 4 Oct, San Diego. 2 artists: Mark E Quark and Mimi Raza. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

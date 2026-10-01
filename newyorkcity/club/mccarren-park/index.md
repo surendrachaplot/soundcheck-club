@@ -1,8 +1,8 @@
 # McCarren Park
 
-McCarren Park is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Family Affair - Hot Honey Sundays, Moving Company, nyc rave girls, Third Floor Sounds, Vin.yl" on Sun, 4 Oct 2026.
+McCarren Park is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Family Affair - Hot Honey Sundays, Moving Company, nyc rave girls, Third Floor Sounds, Vin.yl" on Sun, 4 Oct 2026.
 
-McCarren Park is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Anna Collecta, Atilla Ural, Deo'jorge and DJ Ultra Violet and 2 more. Browse upcoming dates, start times and who's playing. 776 Lorimer St, Brooklyn, NY 11222.
+McCarren Park is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Anna Collecta, Atilla Ural, Deo'jorge and DJ Ultra Violet and 2 more. See dates, start times and who's playing. 776 Lorimer St, Brooklyn, NY 11222.
 
 ## What's on
 

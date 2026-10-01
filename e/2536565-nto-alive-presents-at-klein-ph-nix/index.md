@@ -1,6 +1,6 @@
 # NTO // Alive presents at Klein Phönix
 
-NTO // Alive presents at Klein Phönix on Sat 19 Dec, Istanbul. 1 artist on the bill: NTO. Preview the line-up and save it on soundcheck.
+NTO // Alive presents at Klein Phönix on Sat 19 Dec, Istanbul. 1 artist: NTO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

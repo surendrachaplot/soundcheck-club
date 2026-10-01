@@ -1,6 +1,6 @@
 # SPILVE RAVE x Platz fur Tanz: Anabel Arroyo (ES) at Spilve Airport
 
-SPILVE RAVE x Platz fur Tanz: Anabel Arroyo (ES) at Spilve Airport on Fri 2 Oct, Riga. 4 artists on the bill: Anabel Arroyo, Aniri Chan, KAGATE and Ksenia Kamikaza. Techno and Broken Beat. Preview the line-up and save it on soundcheck.
+SPILVE RAVE x Platz fur Tanz: Anabel Arroyo (ES) at Spilve Airport on Fri 2 Oct, Riga. 4 artists: Anabel Arroyo, Aniri Chan, KAGATE and Ksenia Kamikaza. Techno and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

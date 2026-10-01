@@ -1,6 +1,6 @@
 # Pure Space with Scotia, Headphones Girl, CYCLO BONETTE at Bossa Nova Civic Club
 
-Pure Space with Scotia, Headphones Girl, CYCLO BONETTE at Bossa Nova Civic Club on Sun 25 Oct, New York City. 3 artists on the bill: CYCLO BONETTE, Headphones Girl and Scotia. House and Acid. Preview the line-up and save it on soundcheck.
+Pure Space with Scotia, Headphones Girl, CYCLO BONETTE at Bossa Nova Civic Club on Sun 25 Oct, New York City. 3 artists: CYCLO BONETTE, Headphones Girl and Scotia. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

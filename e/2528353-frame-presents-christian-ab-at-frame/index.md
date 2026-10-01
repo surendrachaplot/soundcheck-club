@@ -1,6 +1,6 @@
 # Frame presents: Christian AB at Frame
 
-Frame presents: Christian AB on Fri 2 Oct, Dublin. 1 artist on the bill: Christian AB. Preview the line-up and save it on soundcheck.
+Frame presents: Christian AB on Fri 2 Oct, Dublin. 1 artist: Christian AB. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

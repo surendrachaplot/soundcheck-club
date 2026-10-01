@@ -1,6 +1,6 @@
 # WHP & TELETECH PRESENT DOOF at TBA
 
-WHP & TELETECH PRESENT DOOF at TBA on Fri 16 Oct, Manchester. Preview the line-up and save it on soundcheck.
+WHP & TELETECH PRESENT DOOF at TBA on Fri 16 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

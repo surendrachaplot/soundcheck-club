@@ -1,6 +1,6 @@
 # Ambient Pillow at 5.6
 
-Ambient Pillow at 5.6 on Sat 28 Nov, Osaka. Ambient. Preview the line-up and save it on soundcheck.
+Ambient Pillow at 5.6 on Sat 28 Nov, Osaka. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LUCIANO ALIVE Concerts x LOVELAND at Mediahaven - Minervahaven
 
-LUCIANO ALIVE Concerts x LOVELAND at Mediahaven - Minervahaven on Thu 22 Oct, Amsterdam. Tech House. Preview the line-up and save it on soundcheck.
+LUCIANO ALIVE Concerts x LOVELAND at Mediahaven - Minervahaven on Thu 22 Oct, Amsterdam. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

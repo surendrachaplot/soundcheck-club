@@ -1,6 +1,6 @@
 # Tangent Afterparty at Jonny Knüppel
 
-Tangent Afterparty at Jonny Knüppel on Fri 9 Oct, Berlin. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Tangent Afterparty at Jonny Knüppel on Fri 9 Oct, Berlin. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

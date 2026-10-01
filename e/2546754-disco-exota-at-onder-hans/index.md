@@ -1,6 +1,6 @@
 # Disco Exota at Onder Hans
 
-Disco Exota at Onder Hans on Fri 27 Nov, Amsterdam. 3 artists on the bill: Aroy Dee, Funknoir and G-String. House and Acid. Preview the line-up and save it on soundcheck.
+Disco Exota at Onder Hans on Fri 27 Nov, Amsterdam. 3 artists: Aroy Dee, Funknoir and G-String. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

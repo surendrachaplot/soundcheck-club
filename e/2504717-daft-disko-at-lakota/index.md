@@ -1,6 +1,6 @@
 # Daft Disko at Lakota
 
-Daft Disko at Lakota on Fri 13 Nov, Bristol. House and Disco. Preview the line-up and save it on soundcheck.
+Daft Disko at Lakota on Fri 13 Nov, Bristol. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

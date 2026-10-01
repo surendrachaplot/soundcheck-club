@@ -1,6 +1,6 @@
 # Break it Down pres. Mycelium #1 at Feierwerk
 
-Break it Down pres. Mycelium #1 at Feierwerk on Fri 16 Oct, Munich. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Break it Down pres. Mycelium #1 at Feierwerk on Fri 16 Oct, Munich. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

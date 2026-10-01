@@ -1,6 +1,6 @@
 # AMAYA FESTIVAL at TBA - BBBANK WILDPARK 
 
-AMAYA FESTIVAL at TBA - BBBANK WILDPARK  on Sat 3 Oct, Karlsruhe. 3 artists on the bill: Alan Fitzpatrick, Nastia and Pan-Pot. Preview the line-up and save it on soundcheck.
+AMAYA FESTIVAL at TBA - BBBANK WILDPARK  on Sat 3 Oct, Karlsruhe. 3 artists: Alan Fitzpatrick, Nastia and Pan-Pot. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

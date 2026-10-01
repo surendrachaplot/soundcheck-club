@@ -1,6 +1,6 @@
 # De Sluwe Vos at Mezz
 
-De Sluwe Vos at Mezz on Sat 31 Oct, Netherlands. 1 artist on the bill: De Sluwe Vos. Preview the line-up and save it on soundcheck.
+De Sluwe Vos at Mezz on Sat 31 Oct, Netherlands. 1 artist: De Sluwe Vos. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

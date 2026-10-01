@@ -1,6 +1,6 @@
 # CHINOOVO at Panic Room
 
-CHINOOVO at Panic Room on Fri 9 Oct, Paris. House and Minimal. Preview the line-up and save it on soundcheck.
+CHINOOVO at Panic Room on Fri 9 Oct, Paris. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # A.N.I.
 
-A.N.I. is a Techno and Trance artist with 16 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MÄX, Zurich on Fri, 2 Oct 2026.
+A.N.I. is a Techno and Trance artist with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MÄX, Zurich on Fri, 2 Oct 2026.
 
-A.N.I. is a techno and trance artist based in Germany, tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: MÄX, Zurich on Fri 2 Oct.
+A.N.I. is a techno and trance artist based in Germany, with 197 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 39 more. Often billed alongside SaltySis, DJ Jordan and IGDA. Next up: MÄX, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ A.N.I. is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Circuit de Barcelona - Catalunya, Barcelona — Fri, 11 Sept 2026
-- Mia Mao, Paris — Fri, 11 Sept 2026
-- Marienbergpark, Nürnberg — Sat, 29 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Waschhaus, Berlin — Fri, 7 Aug 2026
-- Electrisize, Düsseldorf — Fri, 7 Aug 2026
-- Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
-- Donauinsel, Vienna — Sat, 1 Aug 2026
+- Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
+- Mia Mao, Paris · Fri, 11 Sept 2026
+- Marienbergpark, Nürnberg · Sat, 29 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Waschhaus, Berlin · Fri, 7 Aug 2026
+- Electrisize, Düsseldorf · Fri, 7 Aug 2026
+- Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
+- Donauinsel, Vienna · Sat, 1 Aug 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Hosoi
 
-Hosoi is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Teen Daze (aka Pacific Coliseum)" on Fri, 2 Oct 2026.
+Hosoi is a music venue in Stockholm with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Teen Daze (aka Pacific Coliseum)" on Fri, 2 Oct 2026.
 
-Hosoi is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, with line-ups including ell.iot and Teen Daze. Browse upcoming dates, start times and who's playing. Hallvägen 9, 121 61 Johanneshov.
+Hosoi is a music venue in Stockholm listed on soundcheck. 4 upcoming gigs, with line-ups including ell.iot and Teen Daze. See dates, start times and who's playing. Hallvägen 9, 121 61 Johanneshov.
 
 ## What's on
 

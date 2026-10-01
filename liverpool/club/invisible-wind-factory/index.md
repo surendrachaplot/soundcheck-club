@@ -1,8 +1,8 @@
 # Invisible Wind Factory
 
-Invisible Wind Factory is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Annie Mac - Before Midnight - Liverpool" on Fri, 16 Oct 2026.
+Invisible Wind Factory is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Annie Mac - Before Midnight - Liverpool" on Fri, 16 Oct 2026.
 
-Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Annie Mac, Benji King, blvk.velvet and Bridge (NY) and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Rd, Liverpool L3 7DS, United Kingdom.
+Invisible Wind Factory is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Annie Mac, Benji King, blvk.velvet and Bridge (NY) and 2 more. See dates, start times and who's playing. 3 Regent Rd, Liverpool L3 7DS, United Kingdom.
 
 ## What's on
 

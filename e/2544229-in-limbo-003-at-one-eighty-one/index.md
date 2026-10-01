@@ -1,6 +1,6 @@
 # In Limbo #003 at One Eighty One
 
-In Limbo #003 at One Eighty One on Sun 18 Oct, London. Jazz and Krautrock. Preview the line-up and save it on soundcheck.
+In Limbo #003 at One Eighty One on Sun 18 Oct, London. Jazz and Krautrock. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

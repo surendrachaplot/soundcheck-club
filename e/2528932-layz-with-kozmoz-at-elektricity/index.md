@@ -1,6 +1,6 @@
 # LAYZ with KOZMOZ at Elektricity
 
-LAYZ with KOZMOZ at Elektricity on Fri 4 Dec, Detroit. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+LAYZ with KOZMOZ at Elektricity on Fri 4 Dec, Detroit. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

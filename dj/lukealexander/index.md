@@ -1,8 +1,8 @@
 # Luke Alexander
 
-Luke Alexander is a House and Electro artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Q Nightclub, Seattle on Fri, 2 Oct 2026.
+Luke Alexander is a House and Electro artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Q Nightclub, Seattle on Fri, 2 Oct 2026.
 
-Luke Alexander is a house and electro artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Boston, Chicago, Detroit and Houston and 4 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: Q Nightclub, Seattle on Fri 2 Oct.
+Luke Alexander is a house and electro artist based in United Kingdom, with 18 gigs on soundcheck across Boston, Chicago, Detroit and Houston and 4 more. Often billed alongside Eli Brown, Kaskade and Lane 8. Next up: Q Nightclub, Seattle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Luke Alexander is a house and electro artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Brooklyn Army Terminal, New York City — Fri, 19 Jun 2026
-- TBA - Park City Southie (411 Dorchester Ave, Boston, MA), Boston — Sun, 31 May 2026
-- Arlo Williamsburg, New York City — Sun, 26 Apr 2026
-- Echostage, Washington DC — Fri, 24 Apr 2026
-- Arlo Williamsburg, New York City — Sat, 26 Oct 2024
-- Nebula, New York City — Fri, 12 Jul 2024
-- Nebula, New York City — Fri, 3 Nov 2023
-- Sony Hall, New York City — Sat, 28 Oct 2023
+- Brooklyn Army Terminal, New York City · Fri, 19 Jun 2026
+- TBA - Park City Southie (411 Dorchester Ave, Boston, MA), Boston · Sun, 31 May 2026
+- Arlo Williamsburg, New York City · Sun, 26 Apr 2026
+- Echostage, Washington DC · Fri, 24 Apr 2026
+- Arlo Williamsburg, New York City · Sat, 26 Oct 2024
+- Nebula, New York City · Fri, 12 Jul 2024
+- Nebula, New York City · Fri, 3 Nov 2023
+- Sony Hall, New York City · Sat, 28 Oct 2023
 
 ## Shares bills with
 

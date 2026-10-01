@@ -1,6 +1,6 @@
 # THURSDAY TECH on Wax Mayhem' Pres; Numlabs & Co at Culture Cafe
 
-THURSDAY TECH on Wax Mayhem' Pres; Numlabs & Co at Culture Cafe on Thu 15 Oct, Bangkok. 1 artist on the bill: Numlabs. Techno and Tech House. Preview the line-up and save it on soundcheck.
+THURSDAY TECH on Wax Mayhem' Pres; Numlabs & Co at Culture Cafe on Thu 15 Oct, Bangkok. 1 artist: Numlabs. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

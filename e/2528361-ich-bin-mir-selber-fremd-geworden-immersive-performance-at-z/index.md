@@ -1,6 +1,6 @@
 # Ich bin mir selber fremd geworden (immersive Performance) at ZiMMT
 
-Ich bin mir selber fremd geworden (immersive Performance) at ZiMMT on Sat 3 Oct, Leipzig. Preview the line-up and save it on soundcheck.
+Ich bin mir selber fremd geworden (immersive Performance) at ZiMMT on Sat 3 Oct, Leipzig. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

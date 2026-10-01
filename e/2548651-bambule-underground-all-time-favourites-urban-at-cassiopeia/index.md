@@ -1,6 +1,6 @@
 # Bambule (Underground, All Time Favourites, Urban) at Cassiopeia
 
-Bambule (Underground, All Time Favourites, Urban) at Cassiopeia on Sat 24 Oct, Berlin. 4 artists on the bill: Bekka, BUTTCHIN, Nikklaas and Thomas Haak. House and Pop. Preview the line-up and save it on soundcheck.
+Bambule (Underground, All Time Favourites, Urban) at Cassiopeia on Sat 24 Oct, Berlin. 4 artists: Bekka, BUTTCHIN, Nikklaas and Thomas Haak. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

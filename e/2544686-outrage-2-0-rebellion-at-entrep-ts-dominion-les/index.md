@@ -1,6 +1,6 @@
 # OUTRAGE 2.0 - REBELLION at Entrepôts Dominion, Les
 
-OUTRAGE 2.0 - REBELLION at Entrepôts Dominion, Les on Fri 6 Nov, Montreal. 3 artists on the bill: 333CXT, 7AZ and FennX. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+OUTRAGE 2.0 - REBELLION at Entrepôts Dominion, Les on Fri 6 Nov, Montreal. 3 artists: 333CXT, 7AZ and FennX. Hardcore and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

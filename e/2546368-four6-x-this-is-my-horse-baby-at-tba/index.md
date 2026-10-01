@@ -1,6 +1,6 @@
 # FOUR6 x THIS IS MY HORSE BABY at TBA
 
-FOUR6 x THIS IS MY HORSE BABY at TBA on Fri 16 Oct, Stockholm. 3 artists on the bill: GT7, LAMACHINE and Nihad Tule. Techno. Preview the line-up and save it on soundcheck.
+FOUR6 x THIS IS MY HORSE BABY at TBA on Fri 16 Oct, Stockholm. 3 artists: GT7, LAMACHINE and Nihad Tule. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

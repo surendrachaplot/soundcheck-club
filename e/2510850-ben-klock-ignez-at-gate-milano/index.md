@@ -1,6 +1,6 @@
 # Ben Klock & Ignez at Gate Milano
 
-Ben Klock & Ignez at Gate Milano on Fri 18 Dec, Milan. 3 artists on the bill: ARMANDO, Ben Klock and Ignez. Preview the line-up and save it on soundcheck.
+Ben Klock & Ignez at Gate Milano on Fri 18 Dec, Milan. 3 artists: ARMANDO, Ben Klock and Ignez. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

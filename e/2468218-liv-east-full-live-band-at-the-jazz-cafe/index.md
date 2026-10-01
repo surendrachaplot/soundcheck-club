@@ -1,6 +1,6 @@
 # Liv East (Full Live Band) at The Jazz Cafe
 
-Liv East (Full Live Band) at The Jazz Cafe on Thu 8 Oct, London. Funk / Soul and R&B. Preview the line-up and save it on soundcheck.
+Liv East (Full Live Band) at The Jazz Cafe on Thu 8 Oct, London. Funk / Soul and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

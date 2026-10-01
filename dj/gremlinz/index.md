@@ -1,8 +1,8 @@
 # Gremlinz
 
-Gremlinz is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
+Gremlinz is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tunnel Club, Birmingham on Fri, 2 Oct 2026.
 
-Gremlinz is a drum & bass and jungle artist based in Canada, tracked on soundcheck, with 45 sets logged across Amsterdam, Birmingham, Bristol and Denver and 10 more. Often billed alongside Jesta, Rumbleton and Rhythmo. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
+Gremlinz is a drum & bass and jungle artist based in Canada, with 45 gigs on soundcheck across Amsterdam, Birmingham, Bristol and Denver and 10 more. Often billed alongside Jesta, Rumbleton and Rhythmo. Next up: Tunnel Club, Birmingham on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Gremlinz is a drum & bass and jungle artist based in Canada, tracked on soundche
 
 ## Recently played
 
-- EXIT Glasgow, Glasgow — Sat, 26 Sept 2026
-- Wharf Chambers, Leeds — Fri, 25 Sept 2026
-- M.O.T, London — Sat, 19 Sept 2026
-- TBA, Toronto — Sat, 12 Sept 2026
-- Junction Underground, Toronto — Fri, 21 Aug 2026
-- Bsmt 254, Toronto — Sat, 15 Aug 2026
-- Boogie, Toronto — Sat, 1 Aug 2026
-- Sublunar Art Space - Toronto, Toronto — Fri, 12 Jun 2026
+- EXIT Glasgow, Glasgow · Sat, 26 Sept 2026
+- Wharf Chambers, Leeds · Fri, 25 Sept 2026
+- M.O.T, London · Sat, 19 Sept 2026
+- TBA, Toronto · Sat, 12 Sept 2026
+- Junction Underground, Toronto · Fri, 21 Aug 2026
+- Bsmt 254, Toronto · Sat, 15 Aug 2026
+- Boogie, Toronto · Sat, 1 Aug 2026
+- Sublunar Art Space - Toronto, Toronto · Fri, 12 Jun 2026
 
 ## Shares bills with
 

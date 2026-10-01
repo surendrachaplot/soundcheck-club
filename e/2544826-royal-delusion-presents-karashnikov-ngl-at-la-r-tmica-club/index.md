@@ -1,6 +1,6 @@
 # Royal Delusion presents: Karashnikov, Ngl at LA Rítmica Club
 
-Royal Delusion presents: Karashnikov, Ngl at LA Rítmica Club on Fri 2 Oct, Valencia. 4 artists on the bill: Karashnikov, KICKREY, Marí Kozlovska and NGL (NL). Techno and Industrial. Preview the line-up and save it on soundcheck.
+Royal Delusion presents: Karashnikov, Ngl at LA Rítmica Club on Fri 2 Oct, Valencia. 4 artists: Karashnikov, KICKREY, Marí Kozlovska and NGL (NL). Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

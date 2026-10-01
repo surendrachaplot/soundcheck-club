@@ -1,8 +1,8 @@
 # Silva Bumpa
 
-Silva Bumpa is a Garage and House artist with 19 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
+Silva Bumpa is a Garage and House artist with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Silva Bumpa is a garage and house artist based in United Kingdom, tracked on soundcheck, with 217 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
+Silva Bumpa is a garage and house artist based in United Kingdom, with 217 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Soul Mass Transit System, Prozak (IRL) and Main Phase. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Silva Bumpa is a garage and house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- The Chocolate Factory, New York City — Sat, 26 Sept 2026
-- SILO, New York City — Fri, 25 Sept 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 5 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Radius, Chicago — Fri, 4 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- Amnesia Ibiza, Ibiza — Thu, 20 Aug 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- The Chocolate Factory, New York City · Sat, 26 Sept 2026
+- SILO, New York City · Fri, 25 Sept 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sat, 5 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Radius, Chicago · Fri, 4 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- Amnesia Ibiza, Ibiza · Thu, 20 Aug 2026
 
 ## Shares bills with
 

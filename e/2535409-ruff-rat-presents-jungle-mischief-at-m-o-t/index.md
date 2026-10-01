@@ -1,6 +1,6 @@
 # RUFF RAT presents: JUNGLE MISCHIEF at M.O.T
 
-RUFF RAT presents: JUNGLE MISCHIEF at M.O.T on Fri 16 Oct, London. Dubstep and Jungle. Preview the line-up and save it on soundcheck.
+RUFF RAT presents: JUNGLE MISCHIEF at M.O.T on Fri 16 Oct, London. Dubstep and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

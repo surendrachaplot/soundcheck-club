@@ -1,6 +1,6 @@
 # Tye Turner at Club Vinyl
 
-Tye Turner at Club Vinyl on Fri 23 Oct, Denver. 1 artist on the bill: Tye Turner. Experimental and UK Funky. Preview the line-up and save it on soundcheck.
+Tye Turner at Club Vinyl on Fri 23 Oct, Denver. 1 artist: Tye Turner. Experimental and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

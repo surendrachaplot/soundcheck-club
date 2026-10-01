@@ -1,6 +1,6 @@
 # Halloween Haunts: Lisbon Pub Crawl Experience at TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal
 
-Halloween Haunts: Lisbon Pub Crawl Experience at TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal on Sat 31 Oct, Lisbon. Club. Preview the line-up and save it on soundcheck.
+Halloween Haunts: Lisbon Pub Crawl Experience at TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal on Sat 31 Oct, Lisbon. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

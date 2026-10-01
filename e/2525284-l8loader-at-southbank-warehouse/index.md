@@ -1,6 +1,6 @@
 # L8LOADER at Southbank Warehouse
 
-L8LOADER at Southbank Warehouse on Fri 9 Oct, Sheffield. Garage and Jungle. Preview the line-up and save it on soundcheck.
+L8LOADER at Southbank Warehouse on Fri 9 Oct, Sheffield. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

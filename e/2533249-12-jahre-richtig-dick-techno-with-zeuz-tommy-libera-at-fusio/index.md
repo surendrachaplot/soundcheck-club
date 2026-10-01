@@ -1,6 +1,6 @@
 # 12 Jahre Richtig DICK Techno! with Zeuz, Tommy Libera at Fusion Club
 
-12 Jahre Richtig DICK Techno! with Zeuz, Tommy Libera at Fusion Club on Sat 17 Oct, Munster. 1 artist on the bill: ZEUS. Techno. Preview the line-up and save it on soundcheck.
+12 Jahre Richtig DICK Techno! with Zeuz, Tommy Libera at Fusion Club on Sat 17 Oct, Munster. 1 artist: ZEUS. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # No Art Lisbon 2026 at TBA - Passeio Marítimo de Algés, Portugal
 
-No Art Lisbon 2026 at TBA - Passeio Marítimo de Algés, Portugal on Sat 10 Oct, Lisbon. 6 artists on the bill: ANOTR, Franky Rizardo, Jennifer Loveless and Klin Klop and 2 more. Afro House. Preview the line-up and save it on soundcheck.
+No Art Lisbon 2026 at TBA - Passeio Marítimo de Algés, Portugal on Sat 10 Oct, Lisbon. 6 artists: ANOTR, Franky Rizardo, Jennifer Loveless and Klin Klop and 2 more. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

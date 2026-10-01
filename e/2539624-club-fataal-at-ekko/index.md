@@ -1,6 +1,6 @@
 # Club Fataal at EKKO
 
-Club Fataal at EKKO on Sat 24 Oct, Utrecht. Pop and Club. Preview the line-up and save it on soundcheck.
+Club Fataal at EKKO on Sat 24 Oct, Utrecht. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

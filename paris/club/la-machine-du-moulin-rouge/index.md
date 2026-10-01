@@ -1,8 +1,8 @@
 # La Machine Du Moulin Rouge
 
-La Machine Du Moulin Rouge is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ZSONGO LA GOUMBE EDITION" on Fri, 2 Oct 2026.
+La Machine Du Moulin Rouge is a music venue in Paris with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ZSONGO LA GOUMBE EDITION" on Fri, 2 Oct 2026.
 
-La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including AMAYO, amne, Blood of Aza and Chris Collins and 2 more. Browse upcoming dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
+La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 9 upcoming gigs, with line-ups including AMAYO, amne, Blood of Aza and Chris Collins and 2 more. See dates, start times and who's playing. 90 boulevard de Clichy; 75018; Paris; France.
 
 ## What's on
 
@@ -11,7 +11,7 @@ La Machine Du Moulin Rouge is a music venue in Paris listed on soundcheck. 9 upc
 | Fri, 2 Oct 2026 | ZSONGO LA GOUMBE EDITION | Chris Collins |
 | Sat, 3 Oct 2026 | Lolita Pride Edition |  |
 | Sat, 3 Oct 2026 | CLUB YAOI x grandefille présentent CLUB YURI | Kenzzza, Meli Mena, encore une autre |
-| Sat, 10 Oct 2026 | HEAT CLUB by Saturation Collective & 100°C | AMAYO, Karenine |
+| Sat, 10 Oct 2026 | HEAT CLUB by Saturation Collective & 100°C | AMAYO, Erna (FR), Karenine, RONI |
 | Sat, 10 Oct 2026 | tear club is back ★ | Blood of Aza, Golce, Lisa More, PLEUR, TTristana, amne, fetva |
 | Mon, 12 Oct 2026 | DJ KRUSH + DJ Low Cut |  |
 | Sat, 31 Oct 2026 | FLUID Halloween [Hard Edition] Lolalita, KimberlaID | In Furcht, KimberlaID, Lolalita |

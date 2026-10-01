@@ -1,8 +1,8 @@
 # Cole Knight
 
-Cole Knight is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Rouge Room, Las-vegas on Fri, 9 Oct 2026.
+Cole Knight is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Rouge Room, Las-vegas on Fri, 9 Oct 2026.
 
-Cole Knight is a house and techno artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: Rouge Room, Las Vegas on Fri 9 Oct.
+Cole Knight is a house and techno artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 19 more. Often billed alongside Jamie Jones, Ben Sterling and Ms. Mada. Next up: Rouge Room, Las Vegas on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Cole Knight is a house and techno artist based in United States of America, trac
 
 ## Recently played
 
-- Floyd, Miami — Sun, 27 Sept 2026
-- Club Space Miami, Miami — Fri, 11 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Floyd, Miami — Sun, 14 Jun 2026
-- [UNVRS], Ibiza — Mon, 1 Jun 2026
-- PNE Forum, Vancouver — Sat, 16 May 2026
-- Celebrities Night Club, Vancouver — Sat, 16 May 2026
-- Luz De Gas, Barcelona — Sat, 2 May 2026
+- Floyd, Miami · Sun, 27 Sept 2026
+- Club Space Miami, Miami · Fri, 11 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Floyd, Miami · Sun, 14 Jun 2026
+- [UNVRS], Ibiza · Mon, 1 Jun 2026
+- PNE Forum, Vancouver · Sat, 16 May 2026
+- Celebrities Night Club, Vancouver · Sat, 16 May 2026
+- Luz De Gas, Barcelona · Sat, 2 May 2026
 
 ## Shares bills with
 

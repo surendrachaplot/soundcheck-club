@@ -1,8 +1,8 @@
 # Hudson Mohawke
 
-Hudson Mohawke is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Factory Town, Miami on Fri, 30 Oct 2026.
+Hudson Mohawke is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Factory Town, Miami on Fri, 30 Oct 2026.
 
-Hudson Mohawke is a house and techno artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Nikki Nair, Nia Archives and Tiga. Next up: Factory Town, Miami on Fri 30 Oct.
+Hudson Mohawke is a house and techno artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside Nikki Nair, Nia Archives and Tiga. Next up: Factory Town, Miami on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Hudson Mohawke is a house and techno artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- TBA - Downtown LA, Los Angeles — Fri, 3 Apr 2026
-- The Berkeley Suite, Glasgow — Sun, 28 Dec 2025
-- Teragram Ballroom, Los Angeles — Wed, 17 Dec 2025
-- Very Special LA, Los Angeles — Sat, 6 Dec 2025
-- Namura Zosenjo Atochi / Creative Center Osaka, Osaka — Sun, 6 Jul 2025
-- ZERO-SITE, Tokyo — Sat, 5 Jul 2025
-- M.O.T, London — Sat, 14 Jun 2025
-- The Art School, Glasgow — Sat, 24 May 2025
+- TBA - Downtown LA, Los Angeles · Fri, 3 Apr 2026
+- The Berkeley Suite, Glasgow · Sun, 28 Dec 2025
+- Teragram Ballroom, Los Angeles · Wed, 17 Dec 2025
+- Very Special LA, Los Angeles · Sat, 6 Dec 2025
+- Namura Zosenjo Atochi / Creative Center Osaka, Osaka · Sun, 6 Jul 2025
+- ZERO-SITE, Tokyo · Sat, 5 Jul 2025
+- M.O.T, London · Sat, 14 Jun 2025
+- The Art School, Glasgow · Sat, 24 May 2025
 
 ## Shares bills with
 

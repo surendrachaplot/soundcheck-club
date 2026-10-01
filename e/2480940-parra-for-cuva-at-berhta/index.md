@@ -1,6 +1,6 @@
 # Parra for Cuva at BERHTA
 
-Parra for Cuva at BERHTA on Sat 7 Nov, Washington DC. 1 artist on the bill: Parra for Cuva. Electronica. Preview the line-up and save it on soundcheck.
+Parra for Cuva at BERHTA on Sat 7 Nov, Washington DC. 1 artist: Parra for Cuva. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

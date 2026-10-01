@@ -1,6 +1,6 @@
 # Fair Electronica x Visible Panic at Pan-Pan
 
-Fair Electronica x Visible Panic at Pan-Pan on Sat 3 Oct, Birmingham. 3 artists on the bill: Alex Downey, Sharnie and Will Penn. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Fair Electronica x Visible Panic at Pan-Pan on Sat 3 Oct, Birmingham. 3 artists: Alex Downey, Sharnie and Will Penn. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

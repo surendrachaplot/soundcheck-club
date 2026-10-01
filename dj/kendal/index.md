@@ -1,8 +1,8 @@
 # Kendal
 
-Kendal is a Italo Disco and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cabaret Sauvage, Paris on Sat, 10 Oct 2026.
+Kendal is a Italo Disco and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret Sauvage, Paris on Sat, 10 Oct 2026.
 
-Kendal is an italo disco and techno artist based in France, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Miguel De Bois and Belaria. Next up: Cabaret Sauvage, Paris on Sat 10 Oct.
+Kendal is an italo disco and techno artist based in France, with 107 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 26 more. Often billed alongside Andi, Miguel De Bois and Belaria. Next up: Cabaret Sauvage, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Kendal is an italo disco and techno artist based in France, tracked on soundchec
 
 ## Recently played
 
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- Virage, Paris — Fri, 21 Aug 2026
-- Colorado Charlie, The Hague — Sun, 16 Aug 2026
-- Liberty Point, Philadelphia — Sun, 9 Aug 2026
-- Karmen Camina, Strasbourg — Sat, 25 Jul 2026
-- Paléo Festival, Geneva — Tue, 21 Jul 2026
-- Le Transbordeur, Lyon — Sat, 18 Jul 2026
-- Lofi, Amsterdam — Sat, 20 Jun 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- Virage, Paris · Fri, 21 Aug 2026
+- Colorado Charlie, The Hague · Sun, 16 Aug 2026
+- Liberty Point, Philadelphia · Sun, 9 Aug 2026
+- Karmen Camina, Strasbourg · Sat, 25 Jul 2026
+- Paléo Festival, Geneva · Tue, 21 Jul 2026
+- Le Transbordeur, Lyon · Sat, 18 Jul 2026
+- Lofi, Amsterdam · Sat, 20 Jun 2026
 
 ## Shares bills with
 

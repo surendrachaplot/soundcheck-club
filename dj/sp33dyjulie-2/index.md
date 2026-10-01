@@ -1,8 +1,8 @@
 # Sp33dy Julie (2)
 
-Sp33dy Julie (2) is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Sp33dy Julie (2) is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Sp33dy Julie is an electro and techno artist based in Greece, tracked on soundcheck, with 12 sets logged across Athens, Brussels and Greece. Often billed alongside Ayshel, Liou and Merve. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Sp33dy Julie is an electro and techno artist based in Greece, with 12 gigs on soundcheck across Athens, Brussels and Greece. Often billed alongside Ayshel, Liou and Merve. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sp33dy Julie is an electro and techno artist based in Greece, tracked on soundch
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Astron Club, Athens — Fri, 12 Jun 2026
-- Recyclart, Brussels — Fri, 31 Oct 2025
-- Astron Club, Athens — Fri, 25 Jul 2025
-- SMUT Athens, Athens — Sat, 12 Jul 2025
-- TBA, Athens — Sun, 23 Mar 2025
-- SMUT Athens, Athens — Sat, 28 Dec 2024
-- SMUT Athens, Athens — Sat, 16 Nov 2024
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Astron Club, Athens · Fri, 12 Jun 2026
+- Recyclart, Brussels · Fri, 31 Oct 2025
+- Astron Club, Athens · Fri, 25 Jul 2025
+- SMUT Athens, Athens · Sat, 12 Jul 2025
+- TBA, Athens · Sun, 23 Mar 2025
+- SMUT Athens, Athens · Sat, 28 Dec 2024
+- SMUT Athens, Athens · Sat, 16 Nov 2024
 
 ## Shares bills with
 

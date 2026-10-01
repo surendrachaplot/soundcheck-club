@@ -1,6 +1,6 @@
 # in the blue shirt meets LAUSBUB at Club Metro
 
-in the blue shirt meets LAUSBUB at Club Metro on Sat 12 Dec, Kyoto. Techno and Electro. Preview the line-up and save it on soundcheck.
+in the blue shirt meets LAUSBUB at Club Metro on Sat 12 Dec, Kyoto. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

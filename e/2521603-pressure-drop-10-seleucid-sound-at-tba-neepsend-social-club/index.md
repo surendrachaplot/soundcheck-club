@@ -1,6 +1,6 @@
 # PRESSURE DROP #10 (Seleucid Sound) at TBA - Neepsend Social Club
 
-PRESSURE DROP #10 (Seleucid Sound) at TBA - Neepsend Social Club on Thu 1 Oct, Sheffield. Dub. Preview the line-up and save it on soundcheck.
+PRESSURE DROP #10 (Seleucid Sound) at TBA - Neepsend Social Club on Thu 1 Oct, Sheffield. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

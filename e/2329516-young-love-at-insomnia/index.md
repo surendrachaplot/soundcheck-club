@@ -1,6 +1,6 @@
 # YOUNG LOVE at Insomnia
 
-YOUNG LOVE at Insomnia on Fri 9 Oct, Berlin. 1 artist on the bill: Monty. Techno and Tech House. Preview the line-up and save it on soundcheck.
+YOUNG LOVE at Insomnia on Fri 9 Oct, Berlin. 1 artist: Monty. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

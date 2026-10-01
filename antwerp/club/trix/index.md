@@ -1,8 +1,8 @@
 # Trix
 
-Trix is a music venue in Antwerp with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Ely Oaks" on Thu, 1 Oct 2026.
+Trix is a music venue in Antwerp with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ely Oaks" on Thu, 1 Oct 2026.
 
-Trix is a music venue in Antwerp listed on soundcheck. 9 upcoming gigs, with line-ups including Bellaire, DJNO, DOUBLE P and Drazzit and 2 more. Browse upcoming dates, start times and who's playing. Noordersingel 28/30, 2140 Antwerpen, Belgium.
+Trix is a music venue in Antwerp listed on soundcheck. 9 upcoming gigs, with line-ups including Bellaire, DJNO, DOUBLE P and Drazzit and 2 more. See dates, start times and who's playing. Noordersingel 28/30, 2140 Antwerpen, Belgium.
 
 ## What's on
 

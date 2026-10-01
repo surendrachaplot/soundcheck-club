@@ -1,6 +1,6 @@
 # Tempa at OHM
 
-Tempa at OHM on Fri 23 Oct, Berlin. 5 artists on the bill: Beatrice M., Horsepower Productions, Jan Loup and K-LONE and 1 more. Dubstep and Electronica. Preview the line-up and save it on soundcheck.
+Tempa at OHM on Fri 23 Oct, Berlin. 5 artists: Beatrice M., Horsepower Productions, Jan Loup and K-LONE and 1 more. Dubstep and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

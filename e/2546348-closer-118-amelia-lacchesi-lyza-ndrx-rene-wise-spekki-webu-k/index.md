@@ -1,6 +1,6 @@
 # Closer #118 Amelia /// Lacchesi - LYZA - Ndrx - Rene Wise - Spekki Webu - Known Artist at Circolo Amelia
 
-Closer #118 Amelia /// Lacchesi - LYZA - Ndrx - Rene Wise - Spekki Webu - Known Artist at Circolo Amelia on Sat 17 Oct, Milan. 7 artists on the bill: Functional Disorder, Known Artist, Lacchesi and LYZA and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Closer #118 Amelia /// Lacchesi - LYZA - Ndrx - Rene Wise - Spekki Webu - Known Artist at Circolo Amelia on Sat 17 Oct, Milan. 7 artists: Functional Disorder, Known Artist, Lacchesi and LYZA and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

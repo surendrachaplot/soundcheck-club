@@ -1,8 +1,8 @@
 # Pangaea
 
-Pangaea is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BASEMENT, New York City on Fri, 2 Oct 2026.
+Pangaea is a Techno and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BASEMENT, New York City on Fri, 2 Oct 2026.
 
-Pangaea is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Amsterdam, Auckland, Austin and Bali and 50 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: BASEMENT, New York City on Fri 2 Oct.
+Pangaea is a techno and bass artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 50 more. Often billed alongside Ben UFO, Pearson Sound and Amaliah. Next up: BASEMENT, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Pangaea is a techno and bass artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- The White Hotel, Manchester — Fri, 18 Sept 2026
-- Fünk, Mexico City — Fri, 28 Aug 2026
-- FOLD, London — Fri, 14 Aug 2026
-- Fira Gran Via, Barcelona — Thu, 18 Jun 2026
-- Fira Gran Via, Barcelona — Mon, 15 Jun 2026
-- Strange Brew, Bristol — Sat, 6 Jun 2026
-- Kaiku, Helsinki — Sat, 2 May 2026
-- Radio Radio, Amsterdam — Fri, 1 May 2026
+- The White Hotel, Manchester · Fri, 18 Sept 2026
+- Fünk, Mexico City · Fri, 28 Aug 2026
+- FOLD, London · Fri, 14 Aug 2026
+- Fira Gran Via, Barcelona · Thu, 18 Jun 2026
+- Fira Gran Via, Barcelona · Mon, 15 Jun 2026
+- Strange Brew, Bristol · Sat, 6 Jun 2026
+- Kaiku, Helsinki · Sat, 2 May 2026
+- Radio Radio, Amsterdam · Fri, 1 May 2026
 
 ## Shares bills with
 

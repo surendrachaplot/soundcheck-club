@@ -1,8 +1,8 @@
 # GAY RAGE
 
-GAY RAGE is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Cause, London on Fri, 6 Nov 2026.
+GAY RAGE is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cause, London on Fri, 6 Nov 2026.
 
-GAY RAGE is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside LUNAUR.AA, Nick Clev and Perverse Cowboy. Next up: The Cause, London on Fri 6 Nov.
+GAY RAGE is a techno and electro artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside LUNAUR.AA, Nick Clev and Perverse Cowboy. Next up: The Cause, London on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ GAY RAGE is a techno and electro artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Bureau of Silly Ideas, London — Sat, 20 Jun 2026
-- TBA - Secret N London Location, Revealed to Ticket Holders on Day, London — Sat, 30 May 2026
-- Club Makossa, London — Wed, 25 Mar 2026
-- TBA - Venue Emailed to Ticket Holders on the day, London — Sat, 21 Feb 2026
-- Dalston Superstore, London — Sat, 20 Dec 2025
-- TBA - Secret East London Location, Ticket Holders to be Contacted, London — Sat, 18 Oct 2025
-- Plantroom, London — Thu, 1 May 2025
-- Dalston Superstore, London — Thu, 13 Feb 2025
+- Bureau of Silly Ideas, London · Sat, 20 Jun 2026
+- TBA - Secret N London Location, Revealed to Ticket Holders on Day, London · Sat, 30 May 2026
+- Club Makossa, London · Wed, 25 Mar 2026
+- TBA - Venue Emailed to Ticket Holders on the day, London · Sat, 21 Feb 2026
+- Dalston Superstore, London · Sat, 20 Dec 2025
+- TBA - Secret East London Location, Ticket Holders to be Contacted, London · Sat, 18 Oct 2025
+- Plantroom, London · Thu, 1 May 2025
+- Dalston Superstore, London · Thu, 13 Feb 2025
 
 ## Shares bills with
 

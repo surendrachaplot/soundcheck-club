@@ -1,6 +1,6 @@
 # Flash Cocotte Halloween Edition at Wanderlust
 
-Flash Cocotte Halloween Edition at Wanderlust on Sat 31 Oct, Paris. Techno and Electro. Preview the line-up and save it on soundcheck.
+Flash Cocotte Halloween Edition at Wanderlust on Sat 31 Oct, Paris. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

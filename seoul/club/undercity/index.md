@@ -1,8 +1,8 @@
 # UNDERCITY
 
-UNDERCITY is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "UNDERCITY presents Bart Skils" on Fri, 16 Oct 2026.
+UNDERCITY is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "UNDERCITY presents Bart Skils" on Fri, 16 Oct 2026.
 
-UNDERCITY is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including Bagagee Viphex13, Bart Skils, Friction and JAMIEST and 2 more. Browse upcoming dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
+UNDERCITY is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including Bagagee Viphex13, Bart Skils, Friction and JAMIEST and 2 more. See dates, start times and who's playing. Basement, 61 Seongsui-ro 22-gil, Seongdong-gu, Seoul.
 
 ## What's on
 

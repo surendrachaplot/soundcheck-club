@@ -1,6 +1,6 @@
 # Flowers Of Romance at Supamolly
 
-Flowers Of Romance at Supamolly on Sat 17 Oct, Berlin. Electro and New Wave. Preview the line-up and save it on soundcheck.
+Flowers Of Romance at Supamolly on Sat 17 Oct, Berlin. Electro and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

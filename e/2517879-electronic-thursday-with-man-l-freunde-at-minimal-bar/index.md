@@ -1,6 +1,6 @@
 # Electronic.thursday with Man-L & Freunde at Minimal Bar
 
-Electronic.thursday with Man-L & Freunde at Minimal Bar on Thu 22 Oct, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Electronic.thursday with Man-L & Freunde at Minimal Bar on Thu 22 Oct, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

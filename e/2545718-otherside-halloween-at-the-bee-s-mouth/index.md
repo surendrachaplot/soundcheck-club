@@ -1,6 +1,6 @@
 # Otherside Halloween at The Bee's Mouth
 
-Otherside Halloween at The Bee's Mouth on Sat 31 Oct, Brighton. House and Electro. Preview the line-up and save it on soundcheck.
+Otherside Halloween at The Bee's Mouth on Sat 31 Oct, Brighton. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VIPER ROOM - Day to Night: DJ KAT IS BACK at Club Pandora
 
-VIPER ROOM - Day to Night: DJ KAT IS BACK at Club Pandora on Sat 3 Oct, Melbourne. Trance and Techno. Preview the line-up and save it on soundcheck.
+VIPER ROOM - Day to Night: DJ KAT IS BACK at Club Pandora on Sat 3 Oct, Melbourne. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

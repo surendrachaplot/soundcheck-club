@@ -1,6 +1,6 @@
 # Roma Realm presents: Progressive X Trance at The Bunker
 
-Roma Realm presents: Progressive X Trance at The Bunker on Sat 17 Oct, Liverpool. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Roma Realm presents: Progressive X Trance at The Bunker on Sat 17 Oct, Liverpool. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

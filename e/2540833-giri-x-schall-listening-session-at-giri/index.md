@@ -1,6 +1,6 @@
 # Giri x SCHALL, listening session at Giri
 
-Giri x SCHALL, listening session on Wed 4 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Giri x SCHALL, listening session on Wed 4 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

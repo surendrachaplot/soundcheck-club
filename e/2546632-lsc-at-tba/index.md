@@ -1,6 +1,6 @@
 # Lsc at TBA
 
-Lsc at TBA on Sat 17 Oct, Bristol. House and Disco. Preview the line-up and save it on soundcheck.
+Lsc at TBA on Sat 17 Oct, Bristol. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

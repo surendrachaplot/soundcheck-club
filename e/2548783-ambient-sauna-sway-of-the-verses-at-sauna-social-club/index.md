@@ -1,6 +1,6 @@
 # Ambient Sauna • Sway Of The Verses at Sauna Social Club
 
-Ambient Sauna • Sway Of The Verses at Sauna Social Club on Fri 9 Oct, London. 1 artist on the bill: Sway Of The Verses. Dub and Jazz. Preview the line-up and save it on soundcheck.
+Ambient Sauna • Sway Of The Verses at Sauna Social Club on Fri 9 Oct, London. 1 artist: Sway Of The Verses. Dub and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

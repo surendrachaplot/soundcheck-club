@@ -1,25 +1,26 @@
 # Georgie Riot
 
-Georgie Riot is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
+Georgie Riot is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Dresden, Barcelona on Fri, 2 Oct 2026.
 
-Georgie Riot is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Auckland, Barcelona and Bristol and 10 more. Often billed alongside Anaïs, Benny L and Benny Page. Next up: Sala Dresden, Barcelona on Fri 2 Oct.
+Georgie Riot is a drum & bass and jungle artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Bristol and 11 more. Often billed alongside Anaïs, Benny L and Benny Page. Next up: Sala Dresden, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Sala Dresden | Barcelona |
+| Sat, 3 Oct 2026 | Mia Mao | Paris |
 
 ## Recently played
 
-- fabric, London — Fri, 4 Sept 2026
-- The Brooklyn Monarch, New York City — Fri, 14 Aug 2026
-- Spin, San Diego — Fri, 24 Jul 2026
-- The Meadows, New York City — Sat, 23 Aug 2025
-- Laundry, Melbourne — Fri, 21 Mar 2025
-- Pointers, Auckland — Sat, 15 Mar 2025
-- Gare Porto, Porto — Fri, 14 Feb 2025
-- Gunnersbury Park, London — Sun, 15 Sept 2024
+- fabric, London · Fri, 4 Sept 2026
+- The Brooklyn Monarch, New York City · Fri, 14 Aug 2026
+- Spin, San Diego · Fri, 24 Jul 2026
+- The Meadows, New York City · Sat, 23 Aug 2025
+- Laundry, Melbourne · Fri, 21 Mar 2025
+- Pointers, Auckland · Sat, 15 Mar 2025
+- Gare Porto, Porto · Fri, 14 Feb 2025
+- Gunnersbury Park, London · Sun, 15 Sept 2024
 
 ## Shares bills with
 

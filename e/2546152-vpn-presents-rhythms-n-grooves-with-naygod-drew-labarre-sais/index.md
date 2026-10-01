@@ -1,6 +1,6 @@
 # VPN presents: Rhythms *n* Grooves with NAYGOD, Drew Labarre, Saish K at Baby Battista @ Nico's
 
-VPN presents: Rhythms *n* Grooves with NAYGOD, Drew Labarre, Saish K at Baby Battista @ Nico's on Sat 3 Oct, Los Angeles. 2 artists on the bill: NAYGOD and Saish K.. House and Disco. Preview the line-up and save it on soundcheck.
+VPN presents: Rhythms *n* Grooves with NAYGOD, Drew Labarre, Saish K at Baby Battista @ Nico's on Sat 3 Oct, Los Angeles. 2 artists: NAYGOD and Saish K.. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

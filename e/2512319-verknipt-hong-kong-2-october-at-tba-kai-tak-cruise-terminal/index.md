@@ -1,6 +1,6 @@
 # VERKNIPT Hong Kong - 2 October at TBA - Kai Tak Cruise Terminal Waiting Hall A
 
-VERKNIPT Hong Kong - 2 October at TBA - Kai Tak Cruise Terminal Waiting Hall A on Fri 2 Oct, Hong Kong. 3 artists on the bill: Athena, Marie Vaunt and OMAKS. Techno and Industrial. Preview the line-up and save it on soundcheck.
+VERKNIPT Hong Kong - 2 October at TBA - Kai Tak Cruise Terminal Waiting Hall A on Fri 2 Oct, Hong Kong. 3 artists: Athena, Marie Vaunt and OMAKS. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

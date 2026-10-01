@@ -1,8 +1,8 @@
 # karete bu
 
-karete bu is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery, Leipzig on Sat, 3 Oct 2026.
+karete bu is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Sat, 3 Oct 2026.
 
-karete bu is a house and techno artist based in Germany, tracked on soundcheck, with 89 sets logged across Amsterdam, Berlin, Brussels and Cologne and 7 more. Often billed alongside fr. JPLA, Jessamine and V:SONNTAG. Next up: Distillery, Leipzig on Sat 3 Oct.
+karete bu is a house and techno artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 7 more. Often billed alongside fr. JPLA, Jessamine and V:SONNTAG. Next up: Distillery, Leipzig on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,17 +13,18 @@ karete bu is a house and techno artist based in Germany, tracked on soundcheck, 
 | Fri, 16 Oct 2026 | JAKI | Cologne |
 | Sun, 18 Oct 2026 | Paloma | Berlin |
 | Fri, 30 Oct 2026 | Kater | Berlin |
+| Fri, 6 Nov 2026 | Beate Uwe | Berlin |
 
 ## Recently played
 
-- Bassiani, Tbilisi — Fri, 25 Sept 2026
-- Kater, Berlin — Fri, 21 Aug 2026
-- frachtkante, Berlin — Sat, 1 Aug 2026
-- ://about blank, Berlin — Fri, 24 Jul 2026
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
-- ://about blank, Berlin — Sat, 20 Jun 2026
-- Flughafen Tegel, Berlin — Sat, 6 Jun 2026
-- Südpol, Hamburg — Fri, 5 Jun 2026
+- Bassiani, Tbilisi · Fri, 25 Sept 2026
+- Kater, Berlin · Fri, 21 Aug 2026
+- frachtkante, Berlin · Sat, 1 Aug 2026
+- ://about blank, Berlin · Fri, 24 Jul 2026
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
+- ://about blank, Berlin · Sat, 20 Jun 2026
+- Flughafen Tegel, Berlin · Sat, 6 Jun 2026
+- Südpol, Hamburg · Fri, 5 Jun 2026
 
 ## Shares bills with
 

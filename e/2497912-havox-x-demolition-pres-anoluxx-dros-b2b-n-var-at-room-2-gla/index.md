@@ -1,6 +1,6 @@
 # Havox x Demolition Pres: Anoluxx & Dros b2b Nøvar at Room 2 Glasgow
 
-Havox x Demolition Pres: Anoluxx & Dros b2b Nøvar at Room 2 Glasgow on Sat 10 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+Havox x Demolition Pres: Anoluxx & Dros b2b Nøvar at Room 2 Glasgow on Sat 10 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

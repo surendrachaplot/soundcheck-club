@@ -1,8 +1,8 @@
 # Certain People
 
-Certain People is a Electronica and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Core, Madrid on Fri, 2 Oct 2026.
+Certain People is a Electronica and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Core, Madrid on Fri, 2 Oct 2026.
 
-Certain People is an electronica and house artist based in Spain, tracked on soundcheck, with 61 sets logged across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Fuentes-Guerra, Javi Redondo and Emi Koto. Next up: Core, Madrid on Fri 2 Oct.
+Certain People is an electronica and house artist based in Spain, with 61 gigs on soundcheck across Barcelona, Ibiza, London and Madrid and 3 more. Often billed alongside Fuentes-Guerra, Javi Redondo and Emi Koto. Next up: Core, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Certain People is an electronica and house artist based in Spain, tracked on sou
 
 ## Recently played
 
-- Doggy Klœb, Malaga — Fri, 25 Sept 2026
-- Cadavra, Madrid — Sat, 12 Sept 2026
-- Cadavra, Madrid — Fri, 21 Aug 2026
-- La Terrrazza, Barcelona — Sat, 25 Jul 2026
-- Colour Factory, London — Sat, 27 Jun 2026
-- TBA - Casas de Fez, Foz (Porto) (door nr 627), Porto — Sat, 13 Jun 2026
-- Cadavra, Madrid — Sat, 23 May 2026
-- Sunday Sunday, Mexico City — Sun, 10 May 2026
+- Doggy Klœb, Malaga · Fri, 25 Sept 2026
+- Cadavra, Madrid · Sat, 12 Sept 2026
+- Cadavra, Madrid · Fri, 21 Aug 2026
+- La Terrrazza, Barcelona · Sat, 25 Jul 2026
+- Colour Factory, London · Sat, 27 Jun 2026
+- TBA - Casas de Fez, Foz (Porto) (door nr 627), Porto · Sat, 13 Jun 2026
+- Cadavra, Madrid · Sat, 23 May 2026
+- Sunday Sunday, Mexico City · Sun, 10 May 2026
 
 ## Shares bills with
 

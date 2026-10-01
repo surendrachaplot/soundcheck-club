@@ -1,6 +1,6 @@
 # Big Fish Little Fish Halloween Family Rave - Hackney at Night Tales
 
-Big Fish Little Fish Halloween Family Rave - Hackney at Night Tales on Sat 31 Oct, London. 1 artist on the bill: Louise Plus One. Techno and Acid. Preview the line-up and save it on soundcheck.
+Big Fish Little Fish Halloween Family Rave - Hackney at Night Tales on Sat 31 Oct, London. 1 artist: Louise Plus One. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

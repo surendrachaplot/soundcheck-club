@@ -1,8 +1,8 @@
 # De La Playa Records & Leisure
 
-De La Playa Records & Leisure is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Shane Sato and Burnin' Chancla at Pasaporte Records in Highland Park" on Fri, 2 Oct 2026.
+De La Playa Records & Leisure is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Shane Sato and Burnin' Chancla at Pasaporte Records in Highland Park" on Fri, 2 Oct 2026.
 
-De La Playa Records & Leisure is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Bobbyy, DJ Earl, DJ Strawberry and Lastword and 1 more. Browse upcoming dates, start times and who's playing. 110 S Ave 56, Los Angeles, California 90042.
+De La Playa Records & Leisure is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Bobbyy, DJ Earl, DJ Strawberry and Lastword and 1 more. See dates, start times and who's playing. 110 S Ave 56, Los Angeles, California 90042.
 
 ## What's on
 

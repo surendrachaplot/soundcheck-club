@@ -1,6 +1,6 @@
 # Day Time Disco: Dave 'Love' Lee - Joshua Brooks Manchester at Joshua Brooks
 
-Day Time Disco: Dave 'Love' Lee - Joshua Brooks Manchester on Sat 19 Dec, Manchester. 1 artist on the bill: Dave Lee. House and Disco. Preview the line-up and save it on soundcheck.
+Day Time Disco: Dave 'Love' Lee - Joshua Brooks Manchester on Sat 19 Dec, Manchester. 1 artist: Dave Lee. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

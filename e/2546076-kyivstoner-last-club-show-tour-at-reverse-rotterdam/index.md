@@ -1,6 +1,6 @@
 # KYIVSTONER - LAST CLUB SHOW TOUR at Reverse Rotterdam
 
-KYIVSTONER - LAST CLUB SHOW TOUR at Reverse Rotterdam on Fri 16 Oct, Rotterdam. Pop and Club. Preview the line-up and save it on soundcheck.
+KYIVSTONER - LAST CLUB SHOW TOUR at Reverse Rotterdam on Fri 16 Oct, Rotterdam. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

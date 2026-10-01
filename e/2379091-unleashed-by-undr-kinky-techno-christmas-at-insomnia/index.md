@@ -1,6 +1,6 @@
 # UNLEASHED by UNDR - Kinky Techno Christmas at Insomnia
 
-UNLEASHED by UNDR - Kinky Techno Christmas at Insomnia on Sat 26 Dec, Berlin. Techno. Preview the line-up and save it on soundcheck.
+UNLEASHED by UNDR - Kinky Techno Christmas at Insomnia on Sat 26 Dec, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

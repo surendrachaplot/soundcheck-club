@@ -1,8 +1,8 @@
 # Concentio
 
-Concentio is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bulbul Berlin, Berlin on Sat, 10 Oct 2026.
+Concentio is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bulbul Berlin, Berlin on Sat, 10 Oct 2026.
 
-Concentio is a techno and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin. Often billed alongside Confred, Marius Holm and Pajüh. Next up: Bulbul Berlin, Berlin on Sat 10 Oct.
+Concentio is a techno and house artist based in Germany, with 38 gigs on soundcheck across Berlin. Often billed alongside Confred, Marius Holm and Pajüh. Next up: Bulbul Berlin, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Concentio is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Ritter Butzke, Berlin — Fri, 28 Aug 2026
-- Ritter Butzke, Berlin — Fri, 26 Jun 2026
-- Weekend, Berlin — Fri, 5 Jun 2026
-- Ritter Butzke, Berlin — Fri, 24 Apr 2026
-- Mom's Limousine Service, Berlin — Sat, 11 Apr 2026
-- Ritter Butzke, Berlin — Fri, 27 Feb 2026
-- Bulbul Berlin, Berlin — Fri, 6 Feb 2026
-- Bulbul Berlin, Berlin — Fri, 19 Dec 2025
+- Ritter Butzke, Berlin · Fri, 28 Aug 2026
+- Ritter Butzke, Berlin · Fri, 26 Jun 2026
+- Weekend, Berlin · Fri, 5 Jun 2026
+- Ritter Butzke, Berlin · Fri, 24 Apr 2026
+- Mom's Limousine Service, Berlin · Sat, 11 Apr 2026
+- Ritter Butzke, Berlin · Fri, 27 Feb 2026
+- Bulbul Berlin, Berlin · Fri, 6 Feb 2026
+- Bulbul Berlin, Berlin · Fri, 19 Dec 2025
 
 ## Shares bills with
 

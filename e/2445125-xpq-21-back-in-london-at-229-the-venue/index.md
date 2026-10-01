@@ -1,6 +1,6 @@
 # XPQ-21 back in London at 229 The Venue
 
-XPQ-21 back in London at 229 The Venue on Sat 17 Oct, London. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
+XPQ-21 back in London at 229 The Venue on Sat 17 Oct, London. Industrial and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

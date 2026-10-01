@@ -1,6 +1,6 @@
 # Raise The Bar and RLD Records presents: Leaf Dog + Bva with DJ Jazz T at Brixton Jamm
 
-Raise The Bar and RLD Records presents: Leaf Dog + Bva with DJ Jazz T at Brixton Jamm on Thu 22 Oct, London. Hip-Hop. Preview the line-up and save it on soundcheck.
+Raise The Bar and RLD Records presents: Leaf Dog + Bva with DJ Jazz T at Brixton Jamm on Thu 22 Oct, London. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

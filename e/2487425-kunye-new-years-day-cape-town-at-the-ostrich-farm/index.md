@@ -1,6 +1,6 @@
 # KUNYE New Years Day - CAPE TOWN at The Ostrich Farm
 
-KUNYE New Years Day - CAPE TOWN at The Ostrich Farm on Fri 1 Jan, Cape Town. 1 artist on the bill: Shimza. Preview the line-up and save it on soundcheck.
+KUNYE New Years Day - CAPE TOWN at The Ostrich Farm on Fri 1 Jan, Cape Town. 1 artist: Shimza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

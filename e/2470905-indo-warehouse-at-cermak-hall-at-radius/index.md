@@ -1,6 +1,6 @@
 # Indo Warehouse at Cermak Hall at Radius
 
-Indo Warehouse at Cermak Hall at Radius on Fri 2 Oct, Chicago. Techno and House. Preview the line-up and save it on soundcheck.
+Indo Warehouse at Cermak Hall at Radius on Fri 2 Oct, Chicago. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

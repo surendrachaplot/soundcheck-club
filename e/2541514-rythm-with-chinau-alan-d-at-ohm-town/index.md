@@ -1,6 +1,6 @@
 # Rythm with Chinau & Alan.D ❈ at OHM Town
 
-Rythm with Chinau & Alan.D ❈ at OHM Town on Sat 10 Oct, Nantes. 2 artists on the bill: Alan.D and Chinau. House. Preview the line-up and save it on soundcheck.
+Rythm with Chinau & Alan.D ❈ at OHM Town on Sat 10 Oct, Nantes. 2 artists: Alan.D and Chinau. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

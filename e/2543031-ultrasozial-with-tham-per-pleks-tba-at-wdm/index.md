@@ -1,6 +1,6 @@
 # ULTRASOZIAL with Tham, Per Pleks, tba at WDM
 
-ULTRASOZIAL with Tham, Per Pleks, tba at WDM on Sat 31 Oct, Hannover. 2 artists on the bill: Per Pleks and Tham. Preview the line-up and save it on soundcheck.
+ULTRASOZIAL with Tham, Per Pleks, tba at WDM on Sat 31 Oct, Hannover. 2 artists: Per Pleks and Tham. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

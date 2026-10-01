@@ -1,6 +1,6 @@
 # RIOT at Q Nightclub
 
-RIOT at Q Nightclub on Fri 20 Nov, Seattle. Preview the line-up and save it on soundcheck.
+RIOT at Q Nightclub on Fri 20 Nov, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

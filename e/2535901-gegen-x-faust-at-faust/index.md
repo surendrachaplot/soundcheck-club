@@ -1,6 +1,6 @@
 # GEGEN x Faust at Faust
 
-GEGEN x Faust on Fri 23 Oct, Seoul. 2 artists on the bill: Cristian Marras and Mar/us. Preview the line-up and save it on soundcheck.
+GEGEN x Faust on Fri 23 Oct, Seoul. 2 artists: Cristian Marras and Mar/us. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

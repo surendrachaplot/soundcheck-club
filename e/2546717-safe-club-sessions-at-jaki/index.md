@@ -1,6 +1,6 @@
 # SAFE CLUB SESSIONS at JAKI
 
-SAFE CLUB SESSIONS at JAKI on Fri 9 Oct, Cologne. 1 artist on the bill: Cora Lee. House and Electronica. Preview the line-up and save it on soundcheck.
+SAFE CLUB SESSIONS at JAKI on Fri 9 Oct, Cologne. 1 artist: Cora Lee. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

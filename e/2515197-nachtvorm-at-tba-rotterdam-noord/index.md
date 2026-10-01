@@ -1,6 +1,6 @@
 # NACHTVORM at TBA - Rotterdam Noord
 
-NACHTVORM at TBA - Rotterdam Noord on Sat 17 Oct, Rotterdam. Techno. Preview the line-up and save it on soundcheck.
+NACHTVORM at TBA - Rotterdam Noord on Sat 17 Oct, Rotterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

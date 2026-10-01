@@ -1,8 +1,8 @@
 # Tom McRae
 
-Tom McRae is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Arch 14, London on Sat, 17 Oct 2026.
+Tom McRae is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Arch 14, London on Sat, 17 Oct 2026.
 
-Tom McRae is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Ibiza and London. Often billed alongside Curby, Dan Anderson and Mitch Barclay. Next up: Arch 14, London on Sat 17 Oct.
+Tom McRae is a house and deep house artist based in United Kingdom, with 11 gigs on soundcheck across Ibiza and London. Often billed alongside Curby, Dan Anderson and Mitch Barclay. Next up: Arch 14, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Tom McRae is a house and deep house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Tomorrowland Store Ibiza, Ibiza — Thu, 4 Jun 2026
-- Next Door Records Two, London — Sat, 20 Dec 2025
-- All My Friends, London — Sat, 1 Nov 2025
-- Crate Brewery, London — Sat, 7 Jun 2025
-- Dalston Den, London — Sat, 3 Aug 2024
-- Secret Location, London — Fri, 31 May 2024
-- 93 Feet East, London — Thu, 28 Mar 2024
-- Dream Bags Jaguar Shoes, London — Sat, 3 Feb 2024
+- Tomorrowland Store Ibiza, Ibiza · Thu, 4 Jun 2026
+- Next Door Records Two, London · Sat, 20 Dec 2025
+- All My Friends, London · Sat, 1 Nov 2025
+- Crate Brewery, London · Sat, 7 Jun 2025
+- Dalston Den, London · Sat, 3 Aug 2024
+- Secret Location, London · Fri, 31 May 2024
+- 93 Feet East, London · Thu, 28 Mar 2024
+- Dream Bags Jaguar Shoes, London · Sat, 3 Feb 2024
 
 ## Shares bills with
 

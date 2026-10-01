@@ -1,6 +1,6 @@
 # MU/SICK MINI FESTIVAL II at Urban Spree
 
-MU/SICK MINI FESTIVAL II at Urban Spree on Sat 10 Oct, Berlin. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+MU/SICK MINI FESTIVAL II at Urban Spree on Sat 10 Oct, Berlin. EBM and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

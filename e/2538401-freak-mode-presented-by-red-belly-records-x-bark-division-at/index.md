@@ -1,6 +1,6 @@
 # Freak-Mode presented By Red Belly Records x Bark Division at TBA - Indoor Inner-west location
 
-Freak-Mode presented By Red Belly Records x Bark Division at TBA - Indoor Inner-west location on Sat 17 Oct, Sydney. 3 artists on the bill: Digi Doll, Shani and SILLYBITCHESDIE. Techno. Preview the line-up and save it on soundcheck.
+Freak-Mode presented By Red Belly Records x Bark Division at TBA - Indoor Inner-west location on Sat 17 Oct, Sydney. 3 artists: Digi Doll, Shani and SILLYBITCHESDIE. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

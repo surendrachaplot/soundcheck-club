@@ -1,6 +1,6 @@
 # El Internacional Club at El Internacional
 
-El Internacional Club on Fri 2 Oct, Madrid. 2 artists on the bill: Nachine and Varo (ES). House and Electronica. Preview the line-up and save it on soundcheck.
+El Internacional Club on Fri 2 Oct, Madrid. 2 artists: Nachine and Varo (ES). House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

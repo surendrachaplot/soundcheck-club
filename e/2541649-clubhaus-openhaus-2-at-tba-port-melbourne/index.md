@@ -1,6 +1,6 @@
 # CLUBHAUS OPENHAUS 2 at TBA - PORT MELBOURNE
 
-CLUBHAUS OPENHAUS 2 at TBA - PORT MELBOURNE on Sat 5 Dec, Melbourne. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+CLUBHAUS OPENHAUS 2 at TBA - PORT MELBOURNE on Sat 5 Dec, Melbourne. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sounds of Nazar at Bangkok Island
 
-Sounds of Nazar at Bangkok Island on Sat 3 Oct, Bangkok. House and Tech House. Preview the line-up and save it on soundcheck.
+Sounds of Nazar at Bangkok Island on Sat 3 Oct, Bangkok. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

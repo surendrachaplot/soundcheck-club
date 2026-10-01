@@ -1,6 +1,6 @@
 # Jozzy: Get Her Back Tour at SOBs
 
-Jozzy: Get Her Back Tour at SOBs on Thu 1 Oct, New York City. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Jozzy: Get Her Back Tour at SOBs on Thu 1 Oct, New York City. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

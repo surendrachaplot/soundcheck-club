@@ -1,6 +1,6 @@
 # L.P. Rhythm Glasgow Weekender - La Cheetah at La Cheetah Club
 
-L.P. Rhythm Glasgow Weekender - La Cheetah at La Cheetah Club on Sat 7 Nov, Glasgow. 1 artist on the bill: L.P. Rhythm. Preview the line-up and save it on soundcheck.
+L.P. Rhythm Glasgow Weekender - La Cheetah at La Cheetah Club on Sat 7 Nov, Glasgow. 1 artist: L.P. Rhythm. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

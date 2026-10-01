@@ -1,8 +1,8 @@
 # Ruimte 59.61
 
-Ruimte 59.61 is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "PRODUCHERTZ ADE POP-UP SHOWCASE" on Fri, 23 Oct 2026.
+Ruimte 59.61 is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "PRODUCHERTZ ADE POP-UP SHOWCASE" on Fri, 23 Oct 2026.
 
-Ruimte 59.61 is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Alex Micca, AELVA K, Caterina Carrera and DA SEYKO and 2 more. Browse upcoming dates, start times and who's playing. Laurierstraat 59, 61, 1016 PH Amsterdam, Paesi Bassi.
+Ruimte 59.61 is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Alex Micca, AELVA K, Caterina Carrera and DA SEYKO and 2 more. See dates, start times and who's playing. Laurierstraat 59, 61, 1016 PH Amsterdam, Paesi Bassi.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # TBA - Rogers Park Chicago
 
-TBA - Rogers Park Chicago is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Xtasy 12: Feral presented by Tara Dikhof (bi/pansexual kink rave)" on Sun, 11 Oct 2026.
+TBA - Rogers Park Chicago is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Xtasy 12: Feral presented by Tara Dikhof (bi/pansexual kink rave)" on Sun, 11 Oct 2026.
 
-TBA - Rogers Park Chicago is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including JAXX., Jon McCray, PIP3DR3AM and R°sha and 1 more. Browse upcoming dates, start times and who's playing.
+TBA - Rogers Park Chicago is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including JAXX., Jon McCray, PIP3DR3AM and R°sha and 1 more. See dates, start times and who's playing.
 
 ## What's on
 

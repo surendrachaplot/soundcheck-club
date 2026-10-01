@@ -1,6 +1,6 @@
 # horsegiirL - NATURE IS HEALING TOUR at The Fillmore
 
-horsegiirL - NATURE IS HEALING TOUR at The Fillmore on Fri 23 Oct, Philadelphia. 1 artist on the bill: horsegiirL. Techno. Preview the line-up and save it on soundcheck.
+horsegiirL - NATURE IS HEALING TOUR at The Fillmore on Fri 23 Oct, Philadelphia. 1 artist: horsegiirL. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

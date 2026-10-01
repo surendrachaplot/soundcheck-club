@@ -1,8 +1,8 @@
 # Small Face
 
-Small Face is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Triangle, Osaka on Sun, 11 Oct 2026.
+Small Face is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Triangle, Osaka on Sun, 11 Oct 2026.
 
-Small Face is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 17 sets logged across Osaka. Often billed alongside kakepon, yu-more and matres. Next up: Triangle, Osaka on Sun 11 Oct.
+Small Face is a drum & bass and jungle artist based in United States of America, with 17 gigs on soundcheck across Osaka. Often billed alongside kakepon, yu-more and matres. Next up: Triangle, Osaka on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Small Face is a drum & bass and jungle artist based in United States of America,
 
 ## Recently played
 
-- Triangle, Osaka — Wed, 9 Sept 2026
-- Triangle, Osaka — Fri, 17 Apr 2026
-- EN Music BAR, Osaka — Sat, 4 Apr 2026
-- Triangle, Osaka — Thu, 19 Mar 2026
-- Area_osaka, Osaka — Sat, 14 Mar 2026
-- Circus Osaka, Osaka — Fri, 17 Oct 2025
-- Triangle, Osaka — Sat, 21 Jun 2025
-- EN Music BAR, Osaka — Sat, 7 Jun 2025
+- Triangle, Osaka · Wed, 9 Sept 2026
+- Triangle, Osaka · Fri, 17 Apr 2026
+- EN Music BAR, Osaka · Sat, 4 Apr 2026
+- Triangle, Osaka · Thu, 19 Mar 2026
+- Area_osaka, Osaka · Sat, 14 Mar 2026
+- Circus Osaka, Osaka · Fri, 17 Oct 2025
+- Triangle, Osaka · Sat, 21 Jun 2025
+- EN Music BAR, Osaka · Sat, 7 Jun 2025
 
 ## Shares bills with
 

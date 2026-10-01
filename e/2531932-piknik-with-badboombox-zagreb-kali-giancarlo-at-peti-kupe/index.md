@@ -1,6 +1,6 @@
 # Piknik with Badboombox Zagreb / Kali/ Giancarlo at Peti Kupe
 
-Piknik with Badboombox Zagreb / Kali/ Giancarlo at Peti Kupe on Sat 3 Oct, Zagreb. 1 artist on the bill: Bad Boombox. Preview the line-up and save it on soundcheck.
+Piknik with Badboombox Zagreb / Kali/ Giancarlo at Peti Kupe on Sat 3 Oct, Zagreb. 1 artist: Bad Boombox. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

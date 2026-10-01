@@ -1,6 +1,6 @@
 # SHIFT COLLECTIVE // FREE LAUNCH PARTY at The Malborough
 
-SHIFT COLLECTIVE // FREE LAUNCH PARTY at The Malborough on Sat 3 Oct, Glasgow. House and Garage. Preview the line-up and save it on soundcheck.
+SHIFT COLLECTIVE // FREE LAUNCH PARTY at The Malborough on Sat 3 Oct, Glasgow. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

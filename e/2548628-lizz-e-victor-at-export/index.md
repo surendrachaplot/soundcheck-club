@@ -1,6 +1,6 @@
 # lizz.e, victor at export
 
-lizz.e, victor at export on Fri 9 Oct, Rotterdam. 2 artists on the bill: lizz.e and Victor (DE). House. Preview the line-up and save it on soundcheck.
+lizz.e, victor at export on Fri 9 Oct, Rotterdam. 2 artists: lizz.e and Victor (DE). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

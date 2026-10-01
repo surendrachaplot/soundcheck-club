@@ -1,6 +1,6 @@
 # Sarahtonin - All Night Long at The Carpet Shop
 
-Sarahtonin - All Night Long at The Carpet Shop on Sat 21 Nov, London. 1 artist on the bill: Sarahtonin. Preview the line-up and save it on soundcheck.
+Sarahtonin - All Night Long at The Carpet Shop on Sat 21 Nov, London. 1 artist: Sarahtonin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

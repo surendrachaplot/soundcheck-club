@@ -1,6 +1,6 @@
 # Faster Horses (Extended Set) at Village Underground
 
-Faster Horses (Extended Set) at Village Underground on Fri 9 Oct, London. 3 artists on the bill: Faster Horses, Lola So and Vivace (UK). Trance and House. Preview the line-up and save it on soundcheck.
+Faster Horses (Extended Set) at Village Underground on Fri 9 Oct, London. 3 artists: Faster Horses, Lola So and Vivace (UK). Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

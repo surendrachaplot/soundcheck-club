@@ -1,6 +1,6 @@
 # Sunday Sunday CDMX: 04.10.26 at Sunday Sunday
 
-Sunday Sunday CDMX: 04.10.26 on Sun 4 Oct, Mexico City. 3 artists on the bill: Fernanda Arrau, Rafatel and Soul Of Hex. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Sunday Sunday CDMX: 04.10.26 on Sun 4 Oct, Mexico City. 3 artists: Fernanda Arrau, Rafatel and Soul Of Hex. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

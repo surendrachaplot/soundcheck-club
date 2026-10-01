@@ -1,6 +1,6 @@
 # HEAT X OGUZ SCHRANZ SESH at Adam Riese
 
-HEAT X OGUZ SCHRANZ SESH at Adam Riese on Fri 20 Nov, Frankfurt. Techno. Preview the line-up and save it on soundcheck.
+HEAT X OGUZ SCHRANZ SESH at Adam Riese on Fri 20 Nov, Frankfurt. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

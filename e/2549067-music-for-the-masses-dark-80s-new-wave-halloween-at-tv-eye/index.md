@@ -1,6 +1,6 @@
 # MUSIC FOR THE MASSES [DARK '80s NEW WAVE HALLOWEEN] at TV EYE
 
-MUSIC FOR THE MASSES [DARK '80s NEW WAVE HALLOWEEN] at TV EYE on Sat 24 Oct, New York City. New Wave. Preview the line-up and save it on soundcheck.
+MUSIC FOR THE MASSES [DARK '80s NEW WAVE HALLOWEEN] at TV EYE on Sat 24 Oct, New York City. New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

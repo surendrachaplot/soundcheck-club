@@ -1,6 +1,6 @@
 # Halloween Rave with Andy C, SOTA, [IVY] + more at Cardiff Students' Union - The Great Hall
 
-Halloween Rave with Andy C, SOTA, [IVY] + more at Cardiff Students' Union - The Great Hall on Sat 31 Oct, Cardiff. 2 artists on the bill: Andy C and SOTA. Preview the line-up and save it on soundcheck.
+Halloween Rave with Andy C, SOTA, [IVY] + more at Cardiff Students' Union - The Great Hall on Sat 31 Oct, Cardiff. 2 artists: Andy C and SOTA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Family Affair at Marble Bar
 
-Family Affair at Marble Bar on Fri 2 Oct, Detroit. 10 artists on the bill: Andrés, Ashton Swinton, clairvoyant and COOPER CRANK and 6 more. Preview the line-up and save it on soundcheck.
+Family Affair at Marble Bar on Fri 2 Oct, Detroit. 10 artists: Andrés, Ashton Swinton, clairvoyant and COOPER CRANK and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

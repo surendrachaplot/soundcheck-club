@@ -1,6 +1,6 @@
 # 5th Anniversary Party07- MARCS (UK) at Djbar Lollapalooza
 
-5th Anniversary Party07- MARCS (UK) at Djbar Lollapalooza on Thu 8 Oct, Osaka. Techno and Club. Preview the line-up and save it on soundcheck.
+5th Anniversary Party07- MARCS (UK) at Djbar Lollapalooza on Thu 8 Oct, Osaka. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

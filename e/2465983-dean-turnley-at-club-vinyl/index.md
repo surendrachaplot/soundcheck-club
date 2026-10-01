@@ -1,6 +1,6 @@
 # Dean Turnley at Club Vinyl
 
-Dean Turnley at Club Vinyl on Sat 3 Oct, Denver. House. Preview the line-up and save it on soundcheck.
+Dean Turnley at Club Vinyl on Sat 3 Oct, Denver. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

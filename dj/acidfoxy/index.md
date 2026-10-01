@@ -1,8 +1,8 @@
 # Acid Foxy
 
-Acid Foxy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at MUENZE, Berlin on Sat, 24 Oct 2026.
+Acid Foxy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MUENZE, Berlin on Sat, 24 Oct 2026.
 
-Acid Foxy is a house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin, Nürnberg and Stuttgart. Often billed alongside Mømentum, Pussy Paradise and Ligal Tamir. Next up: MUENZE, Berlin on Sat 24 Oct.
+Acid Foxy is a house and techno artist based in Germany, with 20 gigs on soundcheck across Berlin, Nürnberg and Stuttgart. Often billed alongside Mømentum, Pussy Paradise and Ligal Tamir. Next up: MUENZE, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Acid Foxy is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- KitKatClub, Berlin — Fri, 31 Jul 2026
-- Die Rakete, Nürnberg — Fri, 24 Jul 2026
-- Prisma, Berlin — Fri, 19 Jun 2026
-- Die Rakete, Nürnberg — Fri, 26 Dec 2025
-- Renate, Berlin — Sat, 15 Mar 2025
-- KitKatClub, Berlin — Fri, 7 Mar 2025
-- Climax-Institutes, Stuttgart — Thu, 9 Jan 2025
-- ://about blank, Berlin — Fri, 26 Jan 2024
+- KitKatClub, Berlin · Fri, 31 Jul 2026
+- Die Rakete, Nürnberg · Fri, 24 Jul 2026
+- Prisma, Berlin · Fri, 19 Jun 2026
+- Die Rakete, Nürnberg · Fri, 26 Dec 2025
+- Renate, Berlin · Sat, 15 Mar 2025
+- KitKatClub, Berlin · Fri, 7 Mar 2025
+- Climax-Institutes, Stuttgart · Thu, 9 Jan 2025
+- ://about blank, Berlin · Fri, 26 Jan 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # ZAPRAVKA for OVER PARTY at Audiodrome
 
-ZAPRAVKA for OVER PARTY at Audiodrome on Fri 2 Oct, Turin. 2 artists on the bill: Gandalf and Mirko Motta. Techno. Preview the line-up and save it on soundcheck.
+ZAPRAVKA for OVER PARTY at Audiodrome on Fri 2 Oct, Turin. 2 artists: Gandalf and Mirko Motta. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

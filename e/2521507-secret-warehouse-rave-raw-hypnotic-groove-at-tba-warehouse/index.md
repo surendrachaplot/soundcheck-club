@@ -1,6 +1,6 @@
 # Secret Warehouse Rave: Raw - Hypnotic - Groove at TBA - warehouse
 
-Secret Warehouse Rave: Raw - Hypnotic - Groove at TBA - warehouse on Fri 9 Oct, Berlin. 4 artists on the bill: beta_phase, Blachord, DJ Marviosi and TommyB. Techno. Preview the line-up and save it on soundcheck.
+Secret Warehouse Rave: Raw - Hypnotic - Groove at TBA - warehouse on Fri 9 Oct, Berlin. 4 artists: beta_phase, Blachord, DJ Marviosi and TommyB. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

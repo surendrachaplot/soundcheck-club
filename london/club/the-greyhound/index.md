@@ -1,8 +1,8 @@
 # The Greyhound
 
-The Greyhound is a music venue in London with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Labyrinth presents: X-Coast All Night Long" on Fri, 2 Oct 2026.
+The Greyhound is a music venue in London with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Labyrinth presents: X-Coast All Night Long" on Fri, 2 Oct 2026.
 
-The Greyhound is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. Browse upcoming dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
+The Greyhound is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including A.L.F, Alex Wilcox, Anna Kost and Awedinary and 2 more. See dates, start times and who's playing. 109 Peckham High St, London SE15 5SE.
 
 ## What's on
 

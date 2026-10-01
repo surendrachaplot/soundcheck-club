@@ -1,6 +1,6 @@
 # NEGITIV for OVER PARTY at Audiodrome
 
-NEGITIV for OVER PARTY at Audiodrome on Sat 10 Oct, Turin. 1 artist on the bill: NEGITIV. Techno. Preview the line-up and save it on soundcheck.
+NEGITIV for OVER PARTY at Audiodrome on Sat 10 Oct, Turin. 1 artist: NEGITIV. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

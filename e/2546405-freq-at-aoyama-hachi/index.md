@@ -1,6 +1,6 @@
 # FREQ at Aoyama Hachi
 
-FREQ at Aoyama Hachi on Fri 16 Oct, Tokyo. 3 artists on the bill: arow, Hayato and michika. House. Preview the line-up and save it on soundcheck.
+FREQ at Aoyama Hachi on Fri 16 Oct, Tokyo. 3 artists: arow, Hayato and michika. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

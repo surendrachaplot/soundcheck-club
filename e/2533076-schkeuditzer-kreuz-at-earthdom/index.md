@@ -1,6 +1,6 @@
 # Schkeuditzer Kreuz at Earthdom
 
-Schkeuditzer Kreuz at Earthdom on Fri 2 Oct, Tokyo. IDM and Industrial. Preview the line-up and save it on soundcheck.
+Schkeuditzer Kreuz at Earthdom on Fri 2 Oct, Tokyo. IDM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

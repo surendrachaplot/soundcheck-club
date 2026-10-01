@@ -1,6 +1,6 @@
 # RÛVEYDA - A RITUAL OF VOICE at Atemporal
 
-RÛVEYDA - A RITUAL OF VOICE at Atemporal on Fri 16 Oct, Berlin. Preview the line-up and save it on soundcheck.
+RÛVEYDA - A RITUAL OF VOICE at Atemporal on Fri 16 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

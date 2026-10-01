@@ -1,8 +1,8 @@
 # KAS:ST
 
-KAS:ST is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at UNLOCKED, London on Fri, 2 Oct 2026.
+KAS:ST is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UNLOCKED, London on Fri, 2 Oct 2026.
 
-KAS:ST is a techno and house artist based in France, tracked on soundcheck, with 91 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Mathame, Henri Bergmann and Enrico Sangiuliano. Next up: UNLOCKED, London on Fri 2 Oct.
+KAS:ST is a techno and house artist based in France, with 91 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside Mathame, Henri Bergmann and Enrico Sangiuliano. Next up: UNLOCKED, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ KAS:ST is a techno and house artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- Bauhaus, Houston — Sat, 26 Sept 2026
-- Story Toronto, Toronto — Fri, 11 Sept 2026
-- [UNVRS], Ibiza — Tue, 8 Sept 2026
-- Nitsa Club, Barcelona — Sat, 5 Sept 2026
-- Bolivar Beach Bar, Athens — Fri, 24 Jul 2026
-- Silverworks Island, London — Sat, 27 Jun 2026
-- Burning Beach, Nürnberg — Fri, 19 Jun 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- Bauhaus, Houston · Sat, 26 Sept 2026
+- Story Toronto, Toronto · Fri, 11 Sept 2026
+- [UNVRS], Ibiza · Tue, 8 Sept 2026
+- Nitsa Club, Barcelona · Sat, 5 Sept 2026
+- Bolivar Beach Bar, Athens · Fri, 24 Jul 2026
+- Silverworks Island, London · Sat, 27 Jun 2026
+- Burning Beach, Nürnberg · Fri, 19 Jun 2026
 
 ## Shares bills with
 

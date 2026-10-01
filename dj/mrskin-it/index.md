@@ -1,8 +1,8 @@
 # MR. SKIN
 
-MR. SKIN is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
+MR. SKIN is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
 
-MR. SKIN is a house and tech house artist based in Italy, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside TWOEF, ADEZ and Angelo Ferreri. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
+MR. SKIN is a house and tech house artist based in Italy, with 3 gigs on soundcheck across Amsterdam. Often billed alongside TWOEF, ADEZ and Angelo Ferreri. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 

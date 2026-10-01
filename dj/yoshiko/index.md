@@ -1,8 +1,8 @@
 # Yoshiko
 
-Yoshiko is a Techno and Hardcore artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
+Yoshiko is a Techno and Hardcore artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Airport Würzburg, Nürnberg on Fri, 16 Oct 2026.
 
-Yoshiko is a techno and hardcore artist based in Italy, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Austria and Barcelona and 23 more. Often billed alongside Dimitri K, KLOFAMA and Onlynumbers. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
+Yoshiko is a techno and hardcore artist based in Italy, with 40 gigs on soundcheck across Amsterdam, Antwerp, Austria and Barcelona and 23 more. Often billed alongside Dimitri K, KLOFAMA and Onlynumbers. Next up: Airport Würzburg, Nürnberg on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Yoshiko is a techno and hardcore artist based in Italy, tracked on soundcheck, w
 
 ## Recently played
 
-- Hangar 34, Liverpool — Sat, 12 Sept 2026
-- Bootshaus, Cologne — Fri, 11 Sept 2026
-- The Classic Grand, Glasgow — Sat, 29 Aug 2026
-- TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur — Sat, 22 Aug 2026
-- Electrisize, Düsseldorf — Fri, 7 Aug 2026
-- Le Kilowatt, Paris — Sat, 25 Jul 2026
-- Amnesia Ibiza, Ibiza — Thu, 18 Jun 2026
-- Deutsche Bank Park, Frankfurt — Fri, 5 Jun 2026
+- Hangar 34, Liverpool · Sat, 12 Sept 2026
+- Bootshaus, Cologne · Fri, 11 Sept 2026
+- The Classic Grand, Glasgow · Sat, 29 Aug 2026
+- TBA - XOX Arena, ARCH GALERIES, Kuala Lumpur · Sat, 22 Aug 2026
+- Electrisize, Düsseldorf · Fri, 7 Aug 2026
+- Le Kilowatt, Paris · Sat, 25 Jul 2026
+- Amnesia Ibiza, Ibiza · Thu, 18 Jun 2026
+- Deutsche Bank Park, Frankfurt · Fri, 5 Jun 2026
 
 ## Shares bills with
 

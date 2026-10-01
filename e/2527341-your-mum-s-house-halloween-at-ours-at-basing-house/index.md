@@ -1,6 +1,6 @@
 # YOUR MUM'S HOUSE: HALLOWEEN AT OURS at Basing House
 
-YOUR MUM'S HOUSE: HALLOWEEN AT OURS at Basing House on Thu 29 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+YOUR MUM'S HOUSE: HALLOWEEN AT OURS at Basing House on Thu 29 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

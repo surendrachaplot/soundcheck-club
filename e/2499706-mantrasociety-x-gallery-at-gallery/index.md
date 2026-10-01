@@ -1,6 +1,6 @@
 # Mantrasociety X Gallery at Gallery
 
-Mantrasociety X Gallery on Sat 10 Oct, London. House. Preview the line-up and save it on soundcheck.
+Mantrasociety X Gallery on Sat 10 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

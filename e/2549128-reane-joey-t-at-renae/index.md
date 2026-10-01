@@ -1,6 +1,6 @@
 # reane: Joey T at renae
 
-reane: Joey T at renae on Thu 1 Oct, Manchester. 1 artist on the bill: Joey T. Preview the line-up and save it on soundcheck.
+reane: Joey T at renae on Thu 1 Oct, Manchester. 1 artist: Joey T. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

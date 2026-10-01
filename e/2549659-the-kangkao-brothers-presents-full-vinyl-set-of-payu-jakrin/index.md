@@ -1,6 +1,6 @@
 # The Kangkao brothers presents; Full Vinyl Set Of Payu & JAKRIN at Culture Cafe
 
-The Kangkao brothers presents; Full Vinyl Set Of Payu & JAKRIN at Culture Cafe on Thu 29 Oct, Bangkok. 2 artists on the bill: JAKRIN and Payu. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+The Kangkao brothers presents; Full Vinyl Set Of Payu & JAKRIN at Culture Cafe on Thu 29 Oct, Bangkok. 2 artists: JAKRIN and Payu. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

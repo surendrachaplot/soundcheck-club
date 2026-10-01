@@ -1,6 +1,6 @@
 # Rêves x J&A at Botanique
 
-Rêves x J&A at Botanique on Thu 8 Oct, Brussels. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
+Rêves x J&A at Botanique on Thu 8 Oct, Brussels. Hip-Hop and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

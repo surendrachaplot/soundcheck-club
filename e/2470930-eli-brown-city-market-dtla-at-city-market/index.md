@@ -1,6 +1,6 @@
 # Eli Brown @ City Market DTLA at City Market
 
-Eli Brown @ City Market DTLA on Sat 14 Nov, Los Angeles. 4 artists on the bill: Eli Brown, HNTR, LEISAN and Linska. Techno. Preview the line-up and save it on soundcheck.
+Eli Brown @ City Market DTLA on Sat 14 Nov, Los Angeles. 4 artists: Eli Brown, HNTR, LEISAN and Linska. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

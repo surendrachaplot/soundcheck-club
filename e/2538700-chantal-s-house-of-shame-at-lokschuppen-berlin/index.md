@@ -1,6 +1,6 @@
 # Chantal's House of Shame at Lokschuppen Berlin
 
-Chantal's House of Shame at Lokschuppen Berlin on Thu 15 Oct, Berlin. Techno and Pop. Preview the line-up and save it on soundcheck.
+Chantal's House of Shame at Lokschuppen Berlin on Thu 15 Oct, Berlin. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

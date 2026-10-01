@@ -1,6 +1,6 @@
 # audacity × dj reezm at Kauz
 
-audacity × dj reezm at Kauz on Sat 3 Oct, Zurich. Preview the line-up and save it on soundcheck.
+audacity × dj reezm at Kauz on Sat 3 Oct, Zurich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

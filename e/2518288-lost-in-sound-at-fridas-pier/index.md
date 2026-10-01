@@ -1,6 +1,6 @@
 # LOST IN SOUND at Fridas Pier
 
-LOST IN SOUND at Fridas Pier on Fri 30 Oct, Stuttgart. 2 artists on the bill: Goos and Masedia. Minimal. Preview the line-up and save it on soundcheck.
+LOST IN SOUND at Fridas Pier on Fri 30 Oct, Stuttgart. 2 artists: Goos and Masedia. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Setaoc Mass
 
-Setaoc Mass is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mõss Club Valladolid, North on Fri, 2 Oct 2026.
+Setaoc Mass is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mõss Club Valladolid, North on Fri, 2 Oct 2026.
 
-Setaoc Mass is a techno and house artist based in United Kingdom, tracked on soundcheck, with 183 sets logged across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside Philippa Pacho, Altinbas and Phara. Next up: Mõss Club Valladolid, North on Fri 2 Oct.
+Setaoc Mass is a techno and house artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 58 more. Often billed alongside Philippa Pacho, Altinbas and Phara. Next up: Mõss Club Valladolid, North on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Setaoc Mass is a techno and house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Under Club, Buenos Aires — Sun, 27 Sept 2026
-- Fabrica Abandonada, Sao Paulo — Sat, 26 Sept 2026
-- Lofi, Amsterdam — Sat, 19 Sept 2026
-- TBA - Los Angeles, Los Angeles — Sat, 29 Aug 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
-- Rote Sonne, Munich — Fri, 14 Aug 2026
-- RSO.BERLIN, Berlin — Thu, 13 Aug 2026
-- Spook Club, Valencia — Sat, 1 Aug 2026
+- Under Club, Buenos Aires · Sun, 27 Sept 2026
+- Fabrica Abandonada, Sao Paulo · Sat, 26 Sept 2026
+- Lofi, Amsterdam · Sat, 19 Sept 2026
+- TBA - Los Angeles, Los Angeles · Sat, 29 Aug 2026
+- Parc des Etangs/Vijverspark, Brussels · Fri, 14 Aug 2026
+- Rote Sonne, Munich · Fri, 14 Aug 2026
+- RSO.BERLIN, Berlin · Thu, 13 Aug 2026
+- Spook Club, Valencia · Sat, 1 Aug 2026
 
 ## Shares bills with
 

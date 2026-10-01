@@ -1,6 +1,6 @@
 # Club Baile ft: Lil Zé, Papi Weli, Powla at Pianos
 
-Club Baile ft: Lil Zé, Papi Weli, Powla at Pianos on Tue 3 Nov, New York City. 2 artists on the bill: Lil Zé and Papi Weli. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+Club Baile ft: Lil Zé, Papi Weli, Powla at Pianos on Tue 3 Nov, New York City. 2 artists: Lil Zé and Papi Weli. Baile Funk and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

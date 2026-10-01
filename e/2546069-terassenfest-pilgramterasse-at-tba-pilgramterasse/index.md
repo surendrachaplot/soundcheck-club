@@ -1,6 +1,6 @@
 # Terassenfest Pilgramterasse at TBA - Pilgramterasse
 
-Terassenfest Pilgramterasse at TBA - Pilgramterasse on Fri 2 Oct, Vienna. Preview the line-up and save it on soundcheck.
+Terassenfest Pilgramterasse at TBA - Pilgramterasse on Fri 2 Oct, Vienna. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

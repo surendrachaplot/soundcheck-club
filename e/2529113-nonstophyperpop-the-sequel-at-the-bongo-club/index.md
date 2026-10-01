@@ -1,6 +1,6 @@
 # NonStopHyperpop✰ The Sequel at The Bongo Club
 
-NonStopHyperpop✰ The Sequel at The Bongo Club on Fri 2 Oct, Edinburgh. Hardcore and Pop. Preview the line-up and save it on soundcheck.
+NonStopHyperpop✰ The Sequel at The Bongo Club on Fri 2 Oct, Edinburgh. Hardcore and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

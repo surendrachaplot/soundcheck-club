@@ -1,8 +1,8 @@
 # Deaf Toucan
 
-Deaf Toucan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Carousel Bar & Ballroom, Sydney on Sat, 3 Oct 2026.
+Deaf Toucan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Carousel Bar & Ballroom, Sydney on Sat, 3 Oct 2026.
 
-Deaf Toucan is a techno and trance artist based in Australia, tracked on soundcheck, with 15 sets logged across Aberdeen, Melbourne and Sydney. Often billed alongside EFESIAN, Eva Charley and GMOZ. Next up: Carousel Bar & Ballroom, Sydney on Sat 3 Oct.
+Deaf Toucan is a techno and trance artist based in Australia, with 15 gigs on soundcheck across Aberdeen, Melbourne and Sydney. Often billed alongside EFESIAN, Eva Charley and GMOZ. Next up: Carousel Bar & Ballroom, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Deaf Toucan is a techno and trance artist based in Australia, tracked on soundch
 
 ## Recently played
 
-- Glamorama, Melbourne — Fri, 11 Sept 2026
-- TBA - Chinatown Rooftop Carpark, Melbourne — Sat, 16 May 2026
-- Carousel Bar & Ballroom, Sydney — Fri, 13 Feb 2026
-- Manning Bar, Sydney — Fri, 23 Jan 2026
-- Oxford Art Factory, Sydney — Sat, 21 Jun 2025
-- TBA - Collingwood Warehouse, Melbourne — Sat, 7 Jun 2025
-- Civic Underground, Sydney — Fri, 13 Dec 2024
-- D2, Aberdeen — Sat, 16 Nov 2024
+- Glamorama, Melbourne · Fri, 11 Sept 2026
+- TBA - Chinatown Rooftop Carpark, Melbourne · Sat, 16 May 2026
+- Carousel Bar & Ballroom, Sydney · Fri, 13 Feb 2026
+- Manning Bar, Sydney · Fri, 23 Jan 2026
+- Oxford Art Factory, Sydney · Sat, 21 Jun 2025
+- TBA - Collingwood Warehouse, Melbourne · Sat, 7 Jun 2025
+- Civic Underground, Sydney · Fri, 13 Dec 2024
+- D2, Aberdeen · Sat, 16 Nov 2024
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Spillestedet Stengade
 
-Spillestedet Stengade is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Alice Ai" on Sat, 24 Oct 2026.
+Spillestedet Stengade is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Alice Ai" on Sat, 24 Oct 2026.
 
-Spillestedet Stengade is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Stengade 18; Copenhagen N. 2200; Denmark.
+Spillestedet Stengade is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Stengade 18; Copenhagen N. 2200; Denmark.
 
 ## What's on
 

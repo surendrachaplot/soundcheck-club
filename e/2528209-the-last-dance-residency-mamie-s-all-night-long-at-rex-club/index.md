@@ -1,6 +1,6 @@
 # The Last Dance Residency: Mamie's all night long at Rex Club
 
-The Last Dance Residency: Mamie's all night long at Rex Club on Fri 9 Oct, Paris. 1 artist on the bill: Mamie's. House. Preview the line-up and save it on soundcheck.
+The Last Dance Residency: Mamie's all night long at Rex Club on Fri 9 Oct, Paris. 1 artist: Mamie's. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

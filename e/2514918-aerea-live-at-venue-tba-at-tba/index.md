@@ -1,6 +1,6 @@
 # AEREA (live) at VENUE TBA at TBA
 
-AEREA (live) at VENUE TBA on Sat 21 Nov, Toronto. 1 artist on the bill: AEREA. Techno. Preview the line-up and save it on soundcheck.
+AEREA (live) at VENUE TBA on Sat 21 Nov, Toronto. 1 artist: AEREA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

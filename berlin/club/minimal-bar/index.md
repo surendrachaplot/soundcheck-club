@@ -1,8 +1,8 @@
 # Minimal Bar
 
-Minimal Bar is a music venue in Berlin with 86 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "U10247: The Swamp (feat maniac&me)" on Thu, 1 Oct 2026.
+Minimal Bar is a music venue in Berlin with 87 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "U10247: The Swamp (feat maniac&me)" on Thu, 1 Oct 2026.
 
-Minimal Bar is a music venue in Berlin listed on soundcheck. 86 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Bruno Bleckmann and CEEE and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
+Minimal Bar is a music venue in Berlin listed on soundcheck. 87 upcoming gigs, with line-ups including Andi de Luxe, Beshy, Bruno Bleckmann and CEEE and 2 more. See dates, start times and who's playing. Rigaer Strasse 31; Friedrichshain; 10247 Berlin; Germany.
 
 ## What's on
 

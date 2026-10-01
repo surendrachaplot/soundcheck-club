@@ -1,6 +1,6 @@
 # Wuki at Future Nightlife
 
-Wuki at Future Nightlife on Fri 2 Oct, Toronto. 1 artist on the bill: Wuki. Preview the line-up and save it on soundcheck.
+Wuki at Future Nightlife on Fri 2 Oct, Toronto. 1 artist: Wuki. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

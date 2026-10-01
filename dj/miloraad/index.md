@@ -1,8 +1,8 @@
 # Milo Raad
 
-Milo Raad is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bsmt 254, Toronto on Fri, 23 Oct 2026.
+Milo Raad is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bsmt 254, Toronto on Fri, 23 Oct 2026.
 
-Milo Raad is a techno and industrial artist based in Serbia, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Belgrade and Berlin and 14 more. Often billed alongside Filip Xavi, Dexon and KATALINA. Next up: Bsmt 254, Toronto on Fri 23 Oct.
+Milo Raad is a techno and industrial artist based in Serbia, with 40 gigs on soundcheck across Amsterdam, Athens, Belgrade and Berlin and 14 more. Often billed alongside Filip Xavi, Dexon and KATALINA. Next up: Bsmt 254, Toronto on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Milo Raad is a techno and industrial artist based in Serbia, tracked on soundche
 
 ## Recently played
 
-- Garagen, Cologne — Wed, 9 Sept 2026
-- KPTM, Belgrade — Sat, 29 Aug 2026
-- Drugstore Beograd, Belgrade — Fri, 1 May 2026
-- Para Klub Beograd, Belgrade — Sun, 29 Mar 2026
-- Drugstore Beograd, Belgrade — Fri, 23 Jan 2026
-- Kafe Hærverk, Oslo — Sat, 17 Jan 2026
-- Kafe Hærverk, Oslo — Sat, 17 Jan 2026
-- Para Klub Beograd, Belgrade — Sun, 28 Dec 2025
+- Garagen, Cologne · Wed, 9 Sept 2026
+- KPTM, Belgrade · Sat, 29 Aug 2026
+- Drugstore Beograd, Belgrade · Fri, 1 May 2026
+- Para Klub Beograd, Belgrade · Sun, 29 Mar 2026
+- Drugstore Beograd, Belgrade · Fri, 23 Jan 2026
+- Kafe Hærverk, Oslo · Sat, 17 Jan 2026
+- Kafe Hærverk, Oslo · Sat, 17 Jan 2026
+- Para Klub Beograd, Belgrade · Sun, 28 Dec 2025
 
 ## Shares bills with
 

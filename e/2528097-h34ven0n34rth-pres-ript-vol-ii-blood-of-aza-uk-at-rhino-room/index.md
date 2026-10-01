@@ -1,6 +1,6 @@
 # H34VEN0N34RTH pres. RIPT VOL II: Blood of Aza [UK] at Rhino Room
 
-H34VEN0N34RTH pres. RIPT VOL II: Blood of Aza [UK] at Rhino Room on Thu 1 Oct, Adelaide. 1 artist on the bill: Blood of Aza. Preview the line-up and save it on soundcheck.
+H34VEN0N34RTH pres. RIPT VOL II: Blood of Aza [UK] at Rhino Room on Thu 1 Oct, Adelaide. 1 artist: Blood of Aza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

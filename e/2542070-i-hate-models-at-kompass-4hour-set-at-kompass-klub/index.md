@@ -1,6 +1,6 @@
 # I Hate Models at Kompass (4HOUR SET) at Kompass Klub
 
-I Hate Models at Kompass (4HOUR SET) at Kompass Klub on Sat 28 Nov, Ghent. 4 artists on the bill: I Hate Models, myu:sa, SOYA and Swarobski. Techno and EBM. Preview the line-up and save it on soundcheck.
+I Hate Models at Kompass (4HOUR SET) at Kompass Klub on Sat 28 Nov, Ghent. 4 artists: I Hate Models, myu:sa, SOYA and Swarobski. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

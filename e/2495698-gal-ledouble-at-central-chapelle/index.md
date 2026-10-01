@@ -1,6 +1,6 @@
 # Gal + Ledouble at Central Chapelle
 
-Gal + Ledouble at Central Chapelle on Thu 8 Oct, Paris. Preview the line-up and save it on soundcheck.
+Gal + Ledouble at Central Chapelle on Thu 8 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

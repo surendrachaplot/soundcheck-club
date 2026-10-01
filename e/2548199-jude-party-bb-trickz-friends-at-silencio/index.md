@@ -1,6 +1,6 @@
 # JUDE PARTY: BB TRICKZ & FRIENDS at Silencio
 
-JUDE PARTY: BB TRICKZ & FRIENDS at Silencio on Sun 4 Oct, Paris. Preview the line-up and save it on soundcheck.
+JUDE PARTY: BB TRICKZ & FRIENDS at Silencio on Sun 4 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

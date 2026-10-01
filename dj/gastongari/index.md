@@ -1,8 +1,8 @@
 # Gaston Gari
 
-Gaston Gari is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brown Alley, Melbourne on Fri, 16 Oct 2026.
+Gaston Gari is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Brown Alley, Melbourne on Fri, 16 Oct 2026.
 
-Gaston Gari is a deep house and house artist based in Australia, tracked on soundcheck, with 2 sets logged across Melbourne and Sydney. Often billed alongside Kamilo Sanclemente, Aaiste and INFINITY. Next up: Brown Alley, Melbourne on Fri 16 Oct.
+Gaston Gari is a deep house and house artist based in Australia, with 2 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Kamilo Sanclemente, Aaiste and INFINITY. Next up: Brown Alley, Melbourne on Fri 16 Oct.
 
 ## Upcoming shows
 

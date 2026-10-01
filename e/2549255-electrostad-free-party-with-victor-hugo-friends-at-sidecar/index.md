@@ -1,6 +1,6 @@
 # Electrostad: FREE PARTY with Victor Hugo & friends at Sidecar
 
-Electrostad: FREE PARTY with Victor Hugo & friends at Sidecar on Sun 1 Nov, Barcelona. 1 artist on the bill: Victor Hugo. House and Electronica. Preview the line-up and save it on soundcheck.
+Electrostad: FREE PARTY with Victor Hugo & friends at Sidecar on Sun 1 Nov, Barcelona. 1 artist: Victor Hugo. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

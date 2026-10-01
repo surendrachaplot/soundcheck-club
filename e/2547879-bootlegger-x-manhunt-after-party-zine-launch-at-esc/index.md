@@ -1,6 +1,6 @@
 # Bootlegger x MANHUNT After Party + Zine Launch at ESC
 
-Bootlegger x MANHUNT After Party + Zine Launch at ESC on Fri 16 Oct, Montreal. 3 artists on the bill: Badgalquirit, Casa Kobrae and DJ Pacifier. Breakcore and Reggaeton. Preview the line-up and save it on soundcheck.
+Bootlegger x MANHUNT After Party + Zine Launch at ESC on Fri 16 Oct, Montreal. 3 artists: Badgalquirit, Casa Kobrae and DJ Pacifier. Breakcore and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

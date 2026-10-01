@@ -1,6 +1,6 @@
 # 1tbsp at TRANSMISSION DC
 
-1tbsp at TRANSMISSION DC on Sat 24 Oct, Washington DC. 1 artist on the bill: 1tbsp. Preview the line-up and save it on soundcheck.
+1tbsp at TRANSMISSION DC on Sat 24 Oct, Washington DC. 1 artist: 1tbsp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

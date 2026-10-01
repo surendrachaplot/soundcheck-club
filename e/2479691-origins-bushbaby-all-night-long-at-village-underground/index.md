@@ -1,6 +1,6 @@
 # Origins: Bushbaby [All Night Long] at Village Underground
 
-Origins: Bushbaby [All Night Long] at Village Underground on Sat 3 Oct, London. 1 artist on the bill: Bushbaby. House and Garage. Preview the line-up and save it on soundcheck.
+Origins: Bushbaby [All Night Long] at Village Underground on Sat 3 Oct, London. 1 artist: Bushbaby. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

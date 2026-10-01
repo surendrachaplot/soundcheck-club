@@ -1,6 +1,6 @@
 # Liminal Hour at R Lounge
 
-Liminal Hour at R Lounge on Fri 16 Oct, Tokyo. 1 artist on the bill: tech-nas. House and Garage. Preview the line-up and save it on soundcheck.
+Liminal Hour at R Lounge on Fri 16 Oct, Tokyo. 1 artist: tech-nas. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

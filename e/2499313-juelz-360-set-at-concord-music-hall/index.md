@@ -1,6 +1,6 @@
 # JUELZ (360° SET) at Concord Music Hall
 
-JUELZ (360° SET) at Concord Music Hall on Sat 7 Nov, Chicago. Bass. Preview the line-up and save it on soundcheck.
+JUELZ (360° SET) at Concord Music Hall on Sat 7 Nov, Chicago. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

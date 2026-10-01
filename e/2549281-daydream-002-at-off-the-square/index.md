@@ -1,6 +1,6 @@
 # DAYDREAM 002 at Off The Square
 
-DAYDREAM 002 at Off The Square on Sun 18 Oct, Manchester. Preview the line-up and save it on soundcheck.
+DAYDREAM 002 at Off The Square on Sun 18 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

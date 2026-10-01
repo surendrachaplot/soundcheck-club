@@ -1,6 +1,6 @@
 # X-Club at KALT
 
-X-Club at KALT on Sat 3 Oct, Strasbourg. 4 artists on the bill: Dimë, Perruche, STU (FR) and X CLUB.. Preview the line-up and save it on soundcheck.
+X-Club at KALT on Sat 3 Oct, Strasbourg. 4 artists: Dimë, Perruche, STU (FR) and X CLUB.. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

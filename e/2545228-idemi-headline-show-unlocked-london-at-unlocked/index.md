@@ -1,6 +1,6 @@
 # IDEMI - Headline Show - UNLOCKED, London at UNLOCKED
 
-IDEMI - Headline Show - UNLOCKED, London on Fri 27 Nov, London. 1 artist on the bill: IDEMI. House and Garage. Preview the line-up and save it on soundcheck.
+IDEMI - Headline Show - UNLOCKED, London on Fri 27 Nov, London. 1 artist: IDEMI. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

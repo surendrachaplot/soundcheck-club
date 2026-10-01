@@ -1,6 +1,6 @@
 # Open Call For Artists at Culture Box
 
-Open Call For Artists at Culture Box on Sat 26 Dec, Copenhagen. Techno and House. Preview the line-up and save it on soundcheck.
+Open Call For Artists at Culture Box on Sat 26 Dec, Copenhagen. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Novocaine+: Neon Graveyard at Gate Milano
 
-Novocaine+: Neon Graveyard at Gate Milano on Sat 24 Oct, Milan. 2 artists on the bill: Alex Akashi and Neon Graveyard. Preview the line-up and save it on soundcheck.
+Novocaine+: Neon Graveyard at Gate Milano on Sat 24 Oct, Milan. 2 artists: Alex Akashi and Neon Graveyard. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Louis The Child (US) at The Night Cat
 
-Louis The Child (US) at The Night Cat on Sat 21 Nov, Melbourne. House and Pop. Preview the line-up and save it on soundcheck.
+Louis The Child (US) at The Night Cat on Sat 21 Nov, Melbourne. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

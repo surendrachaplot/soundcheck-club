@@ -1,6 +1,6 @@
 # Love Hub — Week #4 at Life Club Milano
 
-Love Hub — Week #4 at Life Club Milano on Fri 2 Oct, Milan. 3 artists on the bill: AllaDerivaLontano, Andrea Ratti and BOYCA. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Love Hub — Week #4 at Life Club Milano on Fri 2 Oct, Milan. 3 artists: AllaDerivaLontano, Andrea Ratti and BOYCA. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

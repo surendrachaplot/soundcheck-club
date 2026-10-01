@@ -1,6 +1,6 @@
 # Bpm - Pulse at Cabaret Voltaire
 
-Bpm - Pulse at Cabaret Voltaire on Thu 8 Oct, Edinburgh. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Bpm - Pulse at Cabaret Voltaire on Thu 8 Oct, Edinburgh. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BUSI WAKA NANGA DANSI - MARRØN ALL NIGHT at De Fik Garden
 
-BUSI WAKA NANGA DANSI - MARRØN ALL NIGHT at De Fik Garden on Sun 25 Oct, Amsterdam. 1 artist on the bill: MARRØN. Techno. Preview the line-up and save it on soundcheck.
+BUSI WAKA NANGA DANSI - MARRØN ALL NIGHT at De Fik Garden on Sun 25 Oct, Amsterdam. 1 artist: MARRØN. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

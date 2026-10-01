@@ -1,6 +1,6 @@
 # DC Dupont Circle's Boos on the Block Part 1 Halloween Block Party 10/31 at TBA - Onyx
 
-DC Dupont Circle's Boos on the Block Part 1 Halloween Block Party 10/31 at TBA - Onyx on Sat 31 Oct, Washington DC. Pop and Club. Preview the line-up and save it on soundcheck.
+DC Dupont Circle's Boos on the Block Part 1 Halloween Block Party 10/31 at TBA - Onyx on Sat 31 Oct, Washington DC. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

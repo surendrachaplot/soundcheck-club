@@ -1,6 +1,6 @@
 # Homegrown - Amsterdam at Phono Lake
 
-Homegrown - Amsterdam at Phono Lake on Sat 24 Oct, Amsterdam. Bass and Club. Preview the line-up and save it on soundcheck.
+Homegrown - Amsterdam at Phono Lake on Sat 24 Oct, Amsterdam. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

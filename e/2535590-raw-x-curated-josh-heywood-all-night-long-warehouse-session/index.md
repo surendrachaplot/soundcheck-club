@@ -1,6 +1,6 @@
 # RAW x Curated ⌖ Josh Heywood - All Night Long ⌖ Warehouse Session at TBA - Inner North Location
 
-RAW x Curated ⌖ Josh Heywood - All Night Long ⌖ Warehouse Session at TBA - Inner North Location on Sat 10 Oct, Melbourne. 1 artist on the bill: Josh Heywood. Techno. Preview the line-up and save it on soundcheck.
+RAW x Curated ⌖ Josh Heywood - All Night Long ⌖ Warehouse Session at TBA - Inner North Location on Sat 10 Oct, Melbourne. 1 artist: Josh Heywood. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

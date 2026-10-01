@@ -1,6 +1,6 @@
 # DANCEHOLE: COUCOU CHLOÉ, Petit, POVOA, TOCCORORO & SURPRISE GUEST at Silencio
 
-DANCEHOLE: COUCOU CHLOÉ, Petit, POVOA, TOCCORORO & SURPRISE GUEST at Silencio on Sat 3 Oct, Paris. 3 artists on the bill: COUCOU CHLOE, Petit and TOCCORORO. Preview the line-up and save it on soundcheck.
+DANCEHOLE: COUCOU CHLOÉ, Petit, POVOA, TOCCORORO & SURPRISE GUEST at Silencio on Sat 3 Oct, Paris. 3 artists: COUCOU CHLOE, Petit and TOCCORORO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

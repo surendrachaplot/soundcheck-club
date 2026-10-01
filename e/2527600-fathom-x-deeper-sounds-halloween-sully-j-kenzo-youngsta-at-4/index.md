@@ -1,6 +1,6 @@
 # FATHOM X Deeper Sounds HALLOWEEN (Sully/J:Kenzo/Youngsta) at 440
 
-FATHOM X Deeper Sounds HALLOWEEN (Sully/J:Kenzo/Youngsta) at 440 on Sat 31 Oct, Midlands. 3 artists on the bill: J:Kenzo, Sully and Youngsta. Preview the line-up and save it on soundcheck.
+FATHOM X Deeper Sounds HALLOWEEN (Sully/J:Kenzo/Youngsta) at 440 on Sat 31 Oct, Midlands. 3 artists: J:Kenzo, Sully and Youngsta. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

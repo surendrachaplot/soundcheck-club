@@ -1,6 +1,6 @@
 # Marco Carola B2B Dennis Cruz - Open Park, Punta del Este - ALLMusicParties at TBA - Open Park, Punta del Este
 
-Marco Carola B2B Dennis Cruz - Open Park, Punta del Este - ALLMusicParties at TBA - Open Park, Punta del Este on Sat 2 Jan, Uruguay. 5 artists on the bill: ANTO ZAGU, Dennis Cruz, Frank Storm and Marco Carola and 1 more. Preview the line-up and save it on soundcheck.
+Marco Carola B2B Dennis Cruz - Open Park, Punta del Este - ALLMusicParties at TBA - Open Park, Punta del Este on Sat 2 Jan, Uruguay. 5 artists: ANTO ZAGU, Dennis Cruz, Frank Storm and Marco Carola and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

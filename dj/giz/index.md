@@ -1,8 +1,8 @@
 # GiZ
 
-GiZ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Life Park, Istanbul on Sat, 10 Oct 2026.
+GiZ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Life Park, Istanbul on Sat, 10 Oct 2026.
 
-GiZ is a house and techno artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Berlin, Ghent and Hamburg and 14 more. Often billed alongside Oliver Koletzki, TOOKER and Fabian Krooss. Next up: Life Park, Istanbul on Sat 10 Oct.
+GiZ is a house and techno artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Berlin, Ghent and Hamburg and 14 more. Often billed alongside Oliver Koletzki, TOOKER and Fabian Krooss. Next up: Life Park, Istanbul on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ GiZ is a house and techno artist based in Germany, tracked on soundcheck, with 4
 
 ## Recently played
 
-- Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 2 Sept 2026
-- ZeyZey, Miami — Sat, 29 Aug 2026
-- Kater, Berlin — Fri, 7 Aug 2026
-- Club Six, San Francisco/Oakland — Sat, 18 Jul 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Wed, 10 Jun 2026
-- Buena Vista Lake, Los Angeles — Wed, 20 May 2026
-- Do Not Sit On The Furniture, Miami — Fri, 5 Sept 2025
-- Public Works, San Francisco/Oakland — Fri, 15 Aug 2025
+- Akasha Las Dalias Club - Ibiza, Ibiza · Wed, 2 Sept 2026
+- ZeyZey, Miami · Sat, 29 Aug 2026
+- Kater, Berlin · Fri, 7 Aug 2026
+- Club Six, San Francisco/Oakland · Sat, 18 Jul 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Wed, 10 Jun 2026
+- Buena Vista Lake, Los Angeles · Wed, 20 May 2026
+- Do Not Sit On The Furniture, Miami · Fri, 5 Sept 2025
+- Public Works, San Francisco/Oakland · Fri, 15 Aug 2025
 
 ## Shares bills with
 

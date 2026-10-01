@@ -1,6 +1,6 @@
 # Meduza at Melkweg
 
-Meduza at Melkweg on Thu 22 Oct, Amsterdam. 1 artist on the bill: Meduza. House. Preview the line-up and save it on soundcheck.
+Meduza at Melkweg on Thu 22 Oct, Amsterdam. 1 artist: Meduza. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

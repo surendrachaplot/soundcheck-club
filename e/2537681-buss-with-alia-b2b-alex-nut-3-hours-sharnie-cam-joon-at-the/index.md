@@ -1,6 +1,6 @@
 # Buss with AliA b2b Alex Nut (3 hours), Sharnie & Cam Joon at The Carpet Shop
 
-Buss with AliA b2b Alex Nut (3 hours), Sharnie & Cam Joon at The Carpet Shop on Sat 31 Oct, London. 4 artists on the bill: Alexander Nut, AliA, Cam Joon and Sharnie. House and Bass. Preview the line-up and save it on soundcheck.
+Buss with AliA b2b Alex Nut (3 hours), Sharnie & Cam Joon at The Carpet Shop on Sat 31 Oct, London. 4 artists: Alexander Nut, AliA, Cam Joon and Sharnie. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

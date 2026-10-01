@@ -1,8 +1,8 @@
 # Chitei 地底
 
-Chitei 地底 is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sea of Trees vol.6" on Sun, 4 Oct 2026.
+Chitei 地底 is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sea of Trees vol.6" on Sun, 4 Oct 2026.
 
-Chitei 地底 is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including AISHA, FECROMASS, Moli and Ottoman Grüw and 1 more. Browse upcoming dates, start times and who's playing. Tokyo Otsuka Building B1, 1-14-6, Kitaotsuka, Toshima-ku, Tokyo, 170-0004, Japan.
+Chitei 地底 is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including AISHA, FECROMASS, Moli and Ottoman Grüw and 1 more. See dates, start times and who's playing. Tokyo Otsuka Building B1, 1-14-6, Kitaotsuka, Toshima-ku, Tokyo, 170-0004, Japan.
 
 ## What's on
 

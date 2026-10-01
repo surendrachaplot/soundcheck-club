@@ -1,6 +1,6 @@
 # Anders with Alfert, Mercedes Jens, Timo Turner, Semi at Orangerie Neukölln
 
-Anders with Alfert, Mercedes Jens, Timo Turner, Semi at Orangerie Neukölln on Sat 3 Oct, Berlin. House and Disco. Preview the line-up and save it on soundcheck.
+Anders with Alfert, Mercedes Jens, Timo Turner, Semi at Orangerie Neukölln on Sat 3 Oct, Berlin. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

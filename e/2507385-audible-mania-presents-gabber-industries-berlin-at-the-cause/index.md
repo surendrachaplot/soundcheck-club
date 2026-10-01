@@ -1,6 +1,6 @@
 # Audible Mania presents: Gabber Industries Berlin at The Cause
 
-Audible Mania presents: Gabber Industries Berlin at The Cause on Fri 6 Nov, London. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Audible Mania presents: Gabber Industries Berlin at The Cause on Fri 6 Nov, London. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

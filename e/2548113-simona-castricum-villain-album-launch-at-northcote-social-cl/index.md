@@ -1,6 +1,6 @@
 # Simona Castricum 'Villain' Album Launch at Northcote Social Club
 
-Simona Castricum 'Villain' Album Launch at Northcote Social Club on Fri 2 Oct, Melbourne. 1 artist on the bill: Simona Castricum. Preview the line-up and save it on soundcheck.
+Simona Castricum 'Villain' Album Launch at Northcote Social Club on Fri 2 Oct, Melbourne. 1 artist: Simona Castricum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

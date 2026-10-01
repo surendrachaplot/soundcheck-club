@@ -1,6 +1,6 @@
 # Trobi presents: Kameleon in Concert at Melkweg
 
-Trobi presents: Kameleon in Concert at Melkweg on Thu 26 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+Trobi presents: Kameleon in Concert at Melkweg on Thu 26 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

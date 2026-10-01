@@ -1,6 +1,6 @@
 # BODYCLOCK - TECHNO Feliciana Silvestre, Miss Kleio, Zola at The Piston
 
-BODYCLOCK - TECHNO Feliciana Silvestre, Miss Kleio, Zola at The Piston on Thu 1 Oct, Toronto. 3 artists on the bill: Feliciana Silvestre, Miss Kleio and Zola (TRM). Techno. Preview the line-up and save it on soundcheck.
+BODYCLOCK - TECHNO Feliciana Silvestre, Miss Kleio, Zola at The Piston on Thu 1 Oct, Toronto. 3 artists: Feliciana Silvestre, Miss Kleio and Zola (TRM). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

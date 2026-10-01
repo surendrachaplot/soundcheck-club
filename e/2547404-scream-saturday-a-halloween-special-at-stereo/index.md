@@ -1,6 +1,6 @@
 # SCREAM SATURDAY:  A HALLOWEEN SPECIAL at STEREO
 
-SCREAM SATURDAY:  A HALLOWEEN SPECIAL at STEREO on Sat 31 Oct, London. 3 artists on the bill: Giacomo Moras, Mr Doris and The Menendez Brothers. House and Tech House. Preview the line-up and save it on soundcheck.
+SCREAM SATURDAY:  A HALLOWEEN SPECIAL at STEREO on Sat 31 Oct, London. 3 artists: Giacomo Moras, Mr Doris and The Menendez Brothers. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

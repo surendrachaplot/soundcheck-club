@@ -1,6 +1,6 @@
 # Factor B x Theatre of the Mind: Meeting of the Minds – Melkweg at Melkweg
 
-Factor B x Theatre of the Mind: Meeting of the Minds – Melkweg on Sat 14 Nov, Amsterdam. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Factor B x Theatre of the Mind: Meeting of the Minds – Melkweg on Sat 14 Nov, Amsterdam. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

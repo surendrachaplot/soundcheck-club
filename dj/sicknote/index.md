@@ -1,8 +1,8 @@
 # Sicknote
 
-Sicknote is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Social, London on Sat, 7 Nov 2026.
+Sicknote is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Social, London on Sat, 7 Nov 2026.
 
-Sicknote is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Denver, London, Los Angeles and Miami and 3 more. Often billed alongside Dexta, Uncle G and Hughesee. Next up: The Social, London on Sat 7 Nov.
+Sicknote is a jungle and drum & bass artist based in United Kingdom, with 41 gigs on soundcheck across Denver, London, Los Angeles and Miami and 3 more. Often billed alongside Dexta, Uncle G and Hughesee. Next up: The Social, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sicknote is a jungle and drum & bass artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- M.O.T, London — Sat, 14 Mar 2026
-- Club Cheek, London — Fri, 27 Feb 2026
-- Four Quarters, London — Fri, 20 Feb 2026
-- Cu, London — Sat, 10 May 2025
-- Fire, London — Sun, 4 May 2025
-- F8 1192 Folsom, San Francisco/Oakland — Sun, 19 Jan 2025
-- Planet Wax, London — Fri, 8 Nov 2024
-- M.O.T, London — Fri, 18 Oct 2024
+- M.O.T, London · Sat, 14 Mar 2026
+- Club Cheek, London · Fri, 27 Feb 2026
+- Four Quarters, London · Fri, 20 Feb 2026
+- Cu, London · Sat, 10 May 2025
+- Fire, London · Sun, 4 May 2025
+- F8 1192 Folsom, San Francisco/Oakland · Sun, 19 Jan 2025
+- Planet Wax, London · Fri, 8 Nov 2024
+- M.O.T, London · Fri, 18 Oct 2024
 
 ## Shares bills with
 

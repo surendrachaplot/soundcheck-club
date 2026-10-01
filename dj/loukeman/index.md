@@ -1,8 +1,8 @@
 # Loukeman
 
-Loukeman is a House and Electronica artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Smoke & Mirrors, Chicago on Thu, 1 Oct 2026.
+Loukeman is a House and Electronica artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Smoke & Mirrors, Chicago on Thu, 1 Oct 2026.
 
-Loukeman is a house and electronica artist based in Canada, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Bristol and Brussels and 11 more. Often billed alongside Lis Dalton, Marie Davidson and Nick León. Next up: Smoke & Mirrors, Chicago on Thu 1 Oct.
+Loukeman is a house and electronica artist based in Canada, with 34 gigs on soundcheck across Amsterdam, Berlin, Bristol and Brussels and 11 more. Often billed alongside Lis Dalton, Marie Davidson and Nick León. Next up: Smoke & Mirrors, Chicago on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Loukeman is a house and electronica artist based in Canada, tracked on soundchec
 
 ## Recently played
 
-- TBA, Toronto — Fri, 11 Sept 2026
-- Hito Scheveningen, The Hague — Sat, 8 Aug 2026
-- Old Royal Naval College, London — Fri, 7 Aug 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Fri, 26 Jun 2026
-- Carriageworks, Sydney — Fri, 12 Jun 2026
-- Carriageworks, Sydney — Fri, 12 Jun 2026
-- M.O.T, London — Thu, 4 Jun 2026
-- TBA, Los Angeles — Thu, 14 May 2026
+- TBA, Toronto · Fri, 11 Sept 2026
+- Hito Scheveningen, The Hague · Sat, 8 Aug 2026
+- Old Royal Naval College, London · Fri, 7 Aug 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Fri, 26 Jun 2026
+- Carriageworks, Sydney · Fri, 12 Jun 2026
+- Carriageworks, Sydney · Fri, 12 Jun 2026
+- M.O.T, London · Thu, 4 Jun 2026
+- TBA, Los Angeles · Thu, 14 May 2026
 
 ## Shares bills with
 

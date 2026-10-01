@@ -1,6 +1,6 @@
 # HSP presents Two Blinks, I Love You & CJ Pandit at Quarry
 
-HSP presents Two Blinks, I Love You & CJ Pandit at Quarry on Fri 6 Nov, Liverpool. Pop and Electronica. Preview the line-up and save it on soundcheck.
+HSP presents Two Blinks, I Love You & CJ Pandit at Quarry on Fri 6 Nov, Liverpool. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

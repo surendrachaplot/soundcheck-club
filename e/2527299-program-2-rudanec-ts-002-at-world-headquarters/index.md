@@ -1,6 +1,6 @@
 # Program 2 // RUDANEC // TS-002 at World Headquarters
 
-Program 2 // RUDANEC // TS-002 at World Headquarters on Fri 16 Oct, Newcastle. House and Garage. Preview the line-up and save it on soundcheck.
+Program 2 // RUDANEC // TS-002 at World Headquarters on Fri 16 Oct, Newcastle. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

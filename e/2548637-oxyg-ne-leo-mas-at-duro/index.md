@@ -1,6 +1,6 @@
 # OXYGÈNE - Leo Mas at DURO
 
-OXYGÈNE - Leo Mas at DURO on Sat 3 Oct, Milan. 2 artists on the bill: Cristian Croce and Leo Mas. Techno and House. Preview the line-up and save it on soundcheck.
+OXYGÈNE - Leo Mas at DURO on Sat 3 Oct, Milan. 2 artists: Cristian Croce and Leo Mas. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

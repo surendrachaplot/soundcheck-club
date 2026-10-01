@@ -1,8 +1,8 @@
 # Egyptian Lover
 
-Egyptian Lover is a Electro and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
+Egyptian Lover is a Electro and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garden Shinkiba Factory, Tokyo on Sat, 3 Oct 2026.
 
-Egyptian Lover is an electro and house artist based in United States of America, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside DJ Godfather, Binh and DJ Business. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
+Egyptian Lover is an electro and house artist based in United States of America, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 37 more. Often billed alongside DJ Godfather, Binh and DJ Business. Next up: Garden Shinkiba Factory, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Egyptian Lover is an electro and house artist based in United States of America,
 
 ## Recently played
 
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 27 Sept 2026
-- Hidden, Manchester — Fri, 25 Sept 2026
-- Bunker, Turin — Sat, 12 Sept 2026
-- Blå, Oslo — Fri, 28 Aug 2026
-- Hangaren, Copenhagen — Thu, 27 Aug 2026
-- House of Yes, New York City — Sat, 15 Aug 2026
-- Floyd, Miami — Sat, 8 Aug 2026
-- Fünk, Mexico City — Sat, 1 Aug 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 27 Sept 2026
+- Hidden, Manchester · Fri, 25 Sept 2026
+- Bunker, Turin · Sat, 12 Sept 2026
+- Blå, Oslo · Fri, 28 Aug 2026
+- Hangaren, Copenhagen · Thu, 27 Aug 2026
+- House of Yes, New York City · Sat, 15 Aug 2026
+- Floyd, Miami · Sat, 8 Aug 2026
+- Fünk, Mexico City · Sat, 1 Aug 2026
 
 ## Shares bills with
 

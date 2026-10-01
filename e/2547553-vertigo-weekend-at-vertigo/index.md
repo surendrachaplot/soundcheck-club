@@ -1,6 +1,6 @@
 # Vertigo Weekend at Vertigo
 
-Vertigo Weekend on Fri 2 Oct, Toronto. 5 artists on the bill: Addy, Kiinjo, MERS and Nambeh and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Vertigo Weekend on Fri 2 Oct, Toronto. 5 artists: Addy, Kiinjo, MERS and Nambeh and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

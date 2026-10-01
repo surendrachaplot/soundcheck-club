@@ -1,6 +1,6 @@
 # Dance Club presents WANNABE at DC9
 
-Dance Club presents WANNABE at DC9 on Sat 10 Oct, Washington DC. 3 artists on the bill: Joyce Lim, Tommy Cornelis and WANNABE. Techno and House. Preview the line-up and save it on soundcheck.
+Dance Club presents WANNABE at DC9 on Sat 10 Oct, Washington DC. 3 artists: Joyce Lim, Tommy Cornelis and WANNABE. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

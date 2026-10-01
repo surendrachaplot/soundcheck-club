@@ -1,6 +1,6 @@
 # Vocal Improvisation Workshop with Dali de Saint Paul at St. Ninian's Church
 
-Vocal Improvisation Workshop with Dali de Saint Paul at St. Ninian's Church on Fri 2 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+Vocal Improvisation Workshop with Dali de Saint Paul at St. Ninian's Church on Fri 2 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

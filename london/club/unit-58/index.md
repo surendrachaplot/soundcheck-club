@@ -1,8 +1,8 @@
 # Unit 58
 
-Unit 58 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "FLINTASY" on Sat, 3 Oct 2026.
+Unit 58 is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FLINTASY" on Sat, 3 Oct 2026.
 
-Unit 58 is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including acidhousewife3000, Al Gray, Apsara and BJ Holy and 2 more. Browse upcoming dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
+Unit 58 is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including acidhousewife3000, Al Gray, Apsara and BJ Holy and 2 more. See dates, start times and who's playing. Unit 58, Millmead Industrial Estate, Mill Mead Road, London, N17 9QU, UK.
 
 ## What's on
 

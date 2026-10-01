@@ -1,6 +1,6 @@
 # Velocity Made Good at Cinetol
 
-Velocity Made Good at Cinetol on Wed 28 Oct, Amsterdam. 1 artist on the bill: Velocity Made Good. Preview the line-up and save it on soundcheck.
+Velocity Made Good at Cinetol on Wed 28 Oct, Amsterdam. 1 artist: Velocity Made Good. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

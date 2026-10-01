@@ -1,6 +1,6 @@
 # deep gleens, ilzxc, phemto, astrospherian at TBA - Revealed to ticket holders day of show
 
-deep gleens, ilzxc, phemto, astrospherian at TBA - Revealed to ticket holders day of show on Mon 12 Oct, Seattle. 1 artist on the bill: deep glens. Downtempo and IDM. Preview the line-up and save it on soundcheck.
+deep gleens, ilzxc, phemto, astrospherian at TBA - Revealed to ticket holders day of show on Mon 12 Oct, Seattle. 1 artist: deep glens. Downtempo and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

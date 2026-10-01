@@ -1,6 +1,6 @@
 # Kings Turntable: Foshay [03.10.26] at Kings Arms E2
 
-Kings Turntable: Foshay [03.10.26] at Kings Arms E2 on Sat 3 Oct, London. 1 artist on the bill: Foshay. House and Disco. Preview the line-up and save it on soundcheck.
+Kings Turntable: Foshay [03.10.26] at Kings Arms E2 on Sat 3 Oct, London. 1 artist: Foshay. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

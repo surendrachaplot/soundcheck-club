@@ -1,8 +1,8 @@
 # ARGOT
 
-ARGOT is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
+ARGOT is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 4 Dec 2026.
 
-ARGOT is a trance and techno artist based in France, tracked on soundcheck, with 5 sets logged across Berlin and Paris. Often billed alongside DJ DRECKISCH, ADB (FR) and ANDATA. Next up: Lokschuppen Berlin, Berlin on Fri 4 Dec.
+ARGOT is a trance and techno artist based in France, with 5 gigs on soundcheck across Berlin and Paris. Often billed alongside DJ DRECKISCH, ADB (FR) and ANDATA. Next up: Lokschuppen Berlin, Berlin on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -12,10 +12,10 @@ ARGOT is a trance and techno artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
-- OST, Berlin — Sat, 12 Sept 2026
-- Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
-- Kilomètre25, Paris — Thu, 23 Jul 2026
-- Rex Club, Paris — Wed, 18 Feb 2026
+- OST, Berlin · Sat, 12 Sept 2026
+- Lokschuppen Berlin, Berlin · Sat, 15 Aug 2026
+- Kilomètre25, Paris · Thu, 23 Jul 2026
+- Rex Club, Paris · Wed, 18 Feb 2026
 
 ## Shares bills with
 

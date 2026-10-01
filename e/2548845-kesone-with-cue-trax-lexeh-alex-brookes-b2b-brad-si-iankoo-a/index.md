@@ -1,6 +1,6 @@
 # Kesone with Cue Trax, Lexeh, Alex Brookes b2b Brad Si + Iankoo at komunal
 
-Kesone with Cue Trax, Lexeh, Alex Brookes b2b Brad Si + Iankoo at komunal on Sat 17 Oct, Birmingham. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Kesone with Cue Trax, Lexeh, Alex Brookes b2b Brad Si + Iankoo at komunal on Sat 17 Oct, Birmingham. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

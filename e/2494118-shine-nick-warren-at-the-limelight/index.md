@@ -1,6 +1,6 @@
 # SHINE -- Nick Warren at The Limelight
 
-SHINE -- Nick Warren at The Limelight on Fri 2 Oct, Belfast. 1 artist on the bill: Nick Warren. Preview the line-up and save it on soundcheck.
+SHINE -- Nick Warren at The Limelight on Fri 2 Oct, Belfast. 1 artist: Nick Warren. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

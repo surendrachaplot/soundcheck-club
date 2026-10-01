@@ -1,6 +1,6 @@
 # 150 with Dimitri Vegas in Fabrik at Fabrik
 
-150 with Dimitri Vegas in Fabrik on Sat 21 Nov, Madrid. Preview the line-up and save it on soundcheck.
+150 with Dimitri Vegas in Fabrik on Sat 21 Nov, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

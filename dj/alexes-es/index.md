@@ -1,8 +1,8 @@
 # Alex (ES)
 
-Alex (ES) is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
+Alex (ES) is a Minimal and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Sun, 25 Oct 2026.
 
-Alex (ES) is a minimal and house artist based in Spain, tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 4 more. Often billed alongside Hitch, Sampol and De La Swing. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
+Alex (ES) is a minimal and house artist based in Spain, with 100 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 4 more. Often billed alongside Hitch, Sampol and De La Swing. Next up: THE OTHER SIDE, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Alex (ES) is a minimal and house artist based in Spain, tracked on soundcheck, w
 
 ## Recently played
 
-- 303 Audiophile Bar, Barcelona — Sun, 27 Sept 2026
-- Sunseabar Beach Club, Barcelona — Sat, 26 Sept 2026
-- Spook Club, Valencia — Sat, 19 Sept 2026
-- Sunseabar Beach Club, Barcelona — Sat, 12 Sept 2026
-- Les Enfants Brillants, Barcelona — Sat, 5 Sept 2026
-- Seaseaclub Barcelona, Barcelona — Sun, 23 Aug 2026
-- Sunseabar Beach Club, Barcelona — Sat, 15 Aug 2026
-- Hola Club Sitges (Cala Vallcarca), Barcelona — Sat, 1 Aug 2026
+- 303 Audiophile Bar, Barcelona · Sun, 27 Sept 2026
+- Sunseabar Beach Club, Barcelona · Sat, 26 Sept 2026
+- Spook Club, Valencia · Sat, 19 Sept 2026
+- Sunseabar Beach Club, Barcelona · Sat, 12 Sept 2026
+- Les Enfants Brillants, Barcelona · Sat, 5 Sept 2026
+- Seaseaclub Barcelona, Barcelona · Sun, 23 Aug 2026
+- Sunseabar Beach Club, Barcelona · Sat, 15 Aug 2026
+- Hola Club Sitges (Cala Vallcarca), Barcelona · Sat, 1 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # DOMINGO 18 OUT - ITSROBBEN / BLACKJAPO / GABI / PSY2BASS at Era uma vez no Porto
 
-DOMINGO 18 OUT - ITSROBBEN / BLACKJAPO / GABI / PSY2BASS at Era uma vez no Porto on Sun 18 Oct, Porto. Techno. Preview the line-up and save it on soundcheck.
+DOMINGO 18 OUT - ITSROBBEN / BLACKJAPO / GABI / PSY2BASS at Era uma vez no Porto on Sun 18 Oct, Porto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

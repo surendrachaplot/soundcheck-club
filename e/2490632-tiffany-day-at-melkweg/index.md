@@ -1,6 +1,6 @@
 # Tiffany Day at Melkweg
 
-Tiffany Day at Melkweg on Fri 4 Dec, Amsterdam. Pop and EBM. Preview the line-up and save it on soundcheck.
+Tiffany Day at Melkweg on Fri 4 Dec, Amsterdam. Pop and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

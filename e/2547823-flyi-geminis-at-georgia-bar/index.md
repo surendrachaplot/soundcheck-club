@@ -1,6 +1,6 @@
 # FLYI & Geminis at Georgia Bar
 
-FLYI & Geminis at Georgia Bar on Sat 3 Oct, Berlin. 1 artist on the bill: Geminis. Tech House. Preview the line-up and save it on soundcheck.
+FLYI & Geminis at Georgia Bar on Sat 3 Oct, Berlin. 1 artist: Geminis. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

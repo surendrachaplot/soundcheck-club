@@ -1,6 +1,6 @@
 # The Flipsyde at Den Aalmoezenier
 
-The Flipsyde at Den Aalmoezenier on Sat 31 Oct, Antwerp. Preview the line-up and save it on soundcheck.
+The Flipsyde at Den Aalmoezenier on Sat 31 Oct, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

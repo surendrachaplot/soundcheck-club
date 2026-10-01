@@ -1,6 +1,6 @@
 # Madwrrld at Warehouse on Watts
 
-Madwrrld at Warehouse on Watts on Fri 2 Oct, Philadelphia. 1 artist on the bill: MADGRRL. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Madwrrld at Warehouse on Watts on Fri 2 Oct, Philadelphia. 1 artist: MADGRRL. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

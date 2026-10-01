@@ -1,6 +1,6 @@
 # NIGHTSHIFT - Miguel Seabra + Iku at Plano B
 
-NIGHTSHIFT - Miguel Seabra + Iku at Plano B on Thu 1 Oct, Porto. 1 artist on the bill: Miguel Seabra. Techno and House. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT - Miguel Seabra + Iku at Plano B on Thu 1 Oct, Porto. 1 artist: Miguel Seabra. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

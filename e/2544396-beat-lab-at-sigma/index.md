@@ -1,6 +1,6 @@
 # Beat Lab at Sigma
 
-Beat Lab at Sigma on Thu 1 Oct, Ibiza. Techno and House. Preview the line-up and save it on soundcheck.
+Beat Lab at Sigma on Thu 1 Oct, Ibiza. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

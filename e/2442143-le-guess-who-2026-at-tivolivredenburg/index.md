@@ -1,6 +1,6 @@
 # Le Guess Who? 2026 at TivoliVredenburg
 
-Le Guess Who? 2026 at TivoliVredenburg on Thu 5 Nov, Utrecht. 55 artists on the bill: Aba Shanti-I, Aho Ssan, Ambu Bambu and Ana Roxanne and 51 more. Dub. Preview the line-up and save it on soundcheck.
+Le Guess Who? 2026 at TivoliVredenburg on Thu 5 Nov, Utrecht. 55 artists: Aba Shanti-I, Aho Ssan, Ambu Bambu and Ana Roxanne and 51 more. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

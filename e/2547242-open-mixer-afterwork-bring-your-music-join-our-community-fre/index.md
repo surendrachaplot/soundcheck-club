@@ -1,6 +1,6 @@
 # Open Mixer + AFTERWORK (Bring your music & join our community) Free Entry at TOC Hostel
 
-Open Mixer + AFTERWORK (Bring your music & join our community) Free Entry at TOC Hostel on Tue 27 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Open Mixer + AFTERWORK (Bring your music & join our community) Free Entry at TOC Hostel on Tue 27 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

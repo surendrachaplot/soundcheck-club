@@ -1,6 +1,6 @@
 # Aleksi Perälä Fireside Chat XD Network x ikii at Ikii
 
-Aleksi Perälä Fireside Chat XD Network x ikii at Ikii on Thu 15 Oct, Berlin. 2 artists on the bill: Aleksi Perälä and Kyle Toole. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Aleksi Perälä Fireside Chat XD Network x ikii at Ikii on Thu 15 Oct, Berlin. 2 artists: Aleksi Perälä and Kyle Toole. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

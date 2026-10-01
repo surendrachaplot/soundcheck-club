@@ -1,6 +1,6 @@
 # Rossi. at The Concourse Project
 
-Rossi. at The Concourse Project on Fri 11 Dec, Austin. Preview the line-up and save it on soundcheck.
+Rossi. at The Concourse Project on Fri 11 Dec, Austin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

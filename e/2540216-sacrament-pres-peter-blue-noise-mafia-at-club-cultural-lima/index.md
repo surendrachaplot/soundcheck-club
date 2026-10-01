@@ -1,6 +1,6 @@
 # Sacrament pres. Peter Blue & Noise Mafia at Club Cultural Lima
 
-Sacrament pres. Peter Blue & Noise Mafia at Club Cultural Lima on Wed 7 Oct, Peru. 2 artists on the bill: Noise Mafia and PETERBLUE. Preview the line-up and save it on soundcheck.
+Sacrament pres. Peter Blue & Noise Mafia at Club Cultural Lima on Wed 7 Oct, Peru. 2 artists: Noise Mafia and PETERBLUE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Rhyzine
 
-Rhyzine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
+Rhyzine is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pawn Shop, Dublin on Fri, 23 Oct 2026.
 
-Rhyzine is a techno and house artist based in Ireland, tracked on soundcheck, with 83 sets logged across Belfast, Dublin, Galway and Glasgow and 2 more. Often billed alongside Lúnasa, DJ Baby Tee and E The Artist. Next up: Pawn Shop, Dublin on Fri 23 Oct.
+Rhyzine is a techno and house artist based in Ireland, with 83 gigs on soundcheck across Belfast, Dublin, Galway and Glasgow and 2 more. Often billed alongside Lúnasa, DJ Baby Tee and E The Artist. Next up: Pawn Shop, Dublin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Rhyzine is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 ## Recently played
 
-- Electric Garden, Dublin — Sat, 8 Aug 2026
-- The Ulster Sports Club, Belfast — Fri, 7 Aug 2026
-- Fidelity Studio, Dublin — Fri, 7 Aug 2026
-- Fidelity Studio, Dublin — Sat, 4 Jul 2026
-- Wigwam, Dublin — Sat, 27 Jun 2026
-- Yamamori Tengu, Dublin — Fri, 19 Jun 2026
-- Fidelity Studio, Dublin — Fri, 5 Jun 2026
-- The Grand Social, Dublin — Sat, 16 May 2026
+- Electric Garden, Dublin · Sat, 8 Aug 2026
+- The Ulster Sports Club, Belfast · Fri, 7 Aug 2026
+- Fidelity Studio, Dublin · Fri, 7 Aug 2026
+- Fidelity Studio, Dublin · Sat, 4 Jul 2026
+- Wigwam, Dublin · Sat, 27 Jun 2026
+- Yamamori Tengu, Dublin · Fri, 19 Jun 2026
+- Fidelity Studio, Dublin · Fri, 5 Jun 2026
+- The Grand Social, Dublin · Sat, 16 May 2026
 
 ## Shares bills with
 

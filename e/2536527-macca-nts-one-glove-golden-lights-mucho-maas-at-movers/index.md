@@ -1,6 +1,6 @@
 # Macca [NTS, One Glove], Golden Lights & Mucho Maas at Movers
 
-Macca [NTS, One Glove], Golden Lights & Mucho Maas at Movers on Sat 17 Oct, Nottingham. 2 artists on the bill: Golden Lights and Macca.. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Macca [NTS, One Glove], Golden Lights & Mucho Maas at Movers on Sat 17 Oct, Nottingham. 2 artists: Golden Lights and Macca.. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

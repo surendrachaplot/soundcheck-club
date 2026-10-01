@@ -1,8 +1,8 @@
 # Speed.FM
 
-Speed.FM is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Philadelphia on Sat, 10 Oct 2026.
+Speed.FM is a Club and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Philadelphia on Sat, 10 Oct 2026.
 
-Speed.FM is a club and experimental artist based in United States of America, tracked on soundcheck, with 10 sets logged across Philadelphia, Vancouver and Washington DC. Often billed alongside Obreezy Beats, RESONATE.JPEG and WILHELMINA. Next up: TBA, Philadelphia on Sat 10 Oct.
+Speed.FM is a club and experimental artist based in United States of America, with 10 gigs on soundcheck across Philadelphia, Vancouver and Washington DC. Often billed alongside Obreezy Beats, RESONATE.JPEG and WILHELMINA. Next up: TBA, Philadelphia on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Speed.FM is a club and experimental artist based in United States of America, tr
 
 ## Recently played
 
-- Schuylkill Banks Lawn, Philadelphia — Sun, 13 Sept 2026
-- Red Gate Arts Society, Vancouver — Sat, 1 Aug 2026
-- Penn Treaty Park, Philadelphia — Sun, 7 Jun 2026
-- The Barbary, Philadelphia — Sat, 4 Apr 2026
-- TBA - North Philly Warehouse, Philadelphia — Sat, 17 Jan 2026
-- Ulana's, Philadelphia — Sat, 13 Dec 2025
-- The Dolphin, Philadelphia — Fri, 12 Dec 2025
-- Front & Palmer, Philadelphia — Sat, 28 Jun 2025
+- Schuylkill Banks Lawn, Philadelphia · Sun, 13 Sept 2026
+- Red Gate Arts Society, Vancouver · Sat, 1 Aug 2026
+- Penn Treaty Park, Philadelphia · Sun, 7 Jun 2026
+- The Barbary, Philadelphia · Sat, 4 Apr 2026
+- TBA - North Philly Warehouse, Philadelphia · Sat, 17 Jan 2026
+- Ulana's, Philadelphia · Sat, 13 Dec 2025
+- The Dolphin, Philadelphia · Fri, 12 Dec 2025
+- Front & Palmer, Philadelphia · Sat, 28 Jun 2025
 
 ## Shares bills with
 

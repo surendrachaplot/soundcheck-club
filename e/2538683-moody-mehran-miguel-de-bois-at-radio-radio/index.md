@@ -1,6 +1,6 @@
 # Moody Mehran • Miguel De Bois at Radio Radio
 
-Moody Mehran • Miguel De Bois at Radio Radio on Fri 30 Oct, Amsterdam. 2 artists on the bill: Miguel De Bois and Moody Mehran. House. Preview the line-up and save it on soundcheck.
+Moody Mehran • Miguel De Bois at Radio Radio on Fri 30 Oct, Amsterdam. 2 artists: Miguel De Bois and Moody Mehran. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

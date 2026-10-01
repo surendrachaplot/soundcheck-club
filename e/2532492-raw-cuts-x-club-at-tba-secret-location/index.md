@@ -1,6 +1,6 @@
 # RAW CUTS: X CLUB at TBA - Secret Location
 
-RAW CUTS: X CLUB at TBA - Secret Location on Thu 29 Oct, New York City. 5 artists on the bill: duco, Lana Vese, Michelle Kay and X CLUB. and 1 more. Techno. Preview the line-up and save it on soundcheck.
+RAW CUTS: X CLUB at TBA - Secret Location on Thu 29 Oct, New York City. 5 artists: duco, Lana Vese, Michelle Kay and X CLUB. and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

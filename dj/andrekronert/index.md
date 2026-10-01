@@ -1,8 +1,8 @@
 # Andre Kronert
 
-Andre Kronert is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
+Andre Kronert is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sun, 25 Oct 2026.
 
-Andre Kronert is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Berlin, Cologne and Detroit and 4 more. Often billed alongside Claus Bachor, Edgar Peng and 909 RACING TEAM. Next up: Noorderlicht Café, Amsterdam on Sun 25 Oct.
+Andre Kronert is a techno and house artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Berlin, Cologne and Detroit and 4 more. Often billed alongside Claus Bachor, Edgar Peng and 909 RACING TEAM. Next up: Noorderlicht Café, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Andre Kronert is a techno and house artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Library Square Public House, Vancouver — Fri, 25 Sept 2026
-- Cumberland Masonic Hall, Vancouver — Sat, 19 Sept 2026
-- TBA - Berlin, Berlin — Sat, 29 Aug 2026
-- ciao ciao Bar, Berlin — Fri, 28 Aug 2026
-- Südpol, Hamburg — Fri, 14 Aug 2026
-- TBA -  Fühlinger See, Cologne — Thu, 4 Jun 2026
-- Westhafen, Leipzig — Fri, 1 May 2026
-- The Bassment, Detroit — Fri, 23 May 2025
+- Library Square Public House, Vancouver · Fri, 25 Sept 2026
+- Cumberland Masonic Hall, Vancouver · Sat, 19 Sept 2026
+- TBA - Berlin, Berlin · Sat, 29 Aug 2026
+- ciao ciao Bar, Berlin · Fri, 28 Aug 2026
+- Südpol, Hamburg · Fri, 14 Aug 2026
+- TBA -  Fühlinger See, Cologne · Thu, 4 Jun 2026
+- Westhafen, Leipzig · Fri, 1 May 2026
+- The Bassment, Detroit · Fri, 23 May 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # SUNDAY at Mastak
 
-SUNDAY at Mastak on Sun 4 Oct, Warsaw. 1 artist on the bill: Terminal Sync. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+SUNDAY at Mastak on Sun 4 Oct, Warsaw. 1 artist: Terminal Sync. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MIXELADA at Silbergold
 
-MIXELADA at Silbergold on Fri 2 Oct, Frankfurt. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+MIXELADA at Silbergold on Fri 2 Oct, Frankfurt. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

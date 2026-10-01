@@ -1,8 +1,8 @@
 # Sarica
 
-Sarica is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Sarica is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Sarica is a techno and house artist based in Croatia, tracked on soundcheck, with 75 sets logged across Amsterdam, Belgrade, Berlin and Hong Kong and 9 more. Often billed alongside RIØ (DE), Sub.Vision and Rosan. Next up: The Hoxton Amsterdam, Amsterdam on Fri 23 Oct.
+Sarica is a techno and house artist based in Croatia, with 75 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Hong Kong and 9 more. Often billed alongside RIØ (DE), Sub.Vision and Rosan. Next up: The Hoxton Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sarica is a techno and house artist based in Croatia, tracked on soundcheck, wit
 
 ## Recently played
 
-- Grelle Forelle, Vienna — Sat, 26 Sept 2026
-- Bahnwärter Thiel, Munich — Thu, 17 Sept 2026
-- Lieberscholli, Munich — Fri, 7 Aug 2026
-- Lieberscholli, Munich — Sat, 25 Jul 2026
-- Bahnwärter Thiel, Munich — Thu, 2 Jul 2026
-- Bahnwärter Thiel, Munich — Thu, 4 Dec 2025
-- TBA - TFIF, Hong Kong — Fri, 21 Nov 2025
-- Crane Hotel Faralda, Amsterdam — Thu, 23 Oct 2025
+- Grelle Forelle, Vienna · Sat, 26 Sept 2026
+- Bahnwärter Thiel, Munich · Thu, 17 Sept 2026
+- Lieberscholli, Munich · Fri, 7 Aug 2026
+- Lieberscholli, Munich · Sat, 25 Jul 2026
+- Bahnwärter Thiel, Munich · Thu, 2 Jul 2026
+- Bahnwärter Thiel, Munich · Thu, 4 Dec 2025
+- TBA - TFIF, Hong Kong · Fri, 21 Nov 2025
+- Crane Hotel Faralda, Amsterdam · Thu, 23 Oct 2025
 
 ## Shares bills with
 

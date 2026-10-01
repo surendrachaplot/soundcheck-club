@@ -1,6 +1,6 @@
 # Thx4Crying at La Marquise
 
-Thx4Crying at La Marquise on Thu 8 Oct, Lyon. Pop and Club. Preview the line-up and save it on soundcheck.
+Thx4Crying at La Marquise on Thu 8 Oct, Lyon. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

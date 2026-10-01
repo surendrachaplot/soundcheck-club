@@ -1,6 +1,6 @@
 # Witching Hour at Three Dollar Bill
 
-Witching Hour at Three Dollar Bill on Sat 24 Oct, Toronto. 1 artist on the bill: Momocita. Latin Bass and Afrobeats. Preview the line-up and save it on soundcheck.
+Witching Hour at Three Dollar Bill on Sat 24 Oct, Toronto. 1 artist: Momocita. Latin Bass and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Dr Meaker
 
-Dr Meaker is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Soup, Manchester on Sat, 10 Oct 2026.
+Dr Meaker is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Soup, Manchester on Sat, 10 Oct 2026.
 
-Dr Meaker is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Brighton, Bristol and Copenhagen and 5 more. Often billed alongside Inja, Jazzheadchronic and ALIBI. Next up: Soup, Manchester on Sat 10 Oct.
+Dr Meaker is a drum & bass and jungle artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Brighton, Bristol and Copenhagen and 5 more. Often billed alongside Inja, Jazzheadchronic and ALIBI. Next up: Soup, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Dr Meaker is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Ashton Court Estate, Bristol — Wed, 31 Dec 2025
-- Volks, Brighton — Fri, 12 Sept 2025
-- Whitebottom Farm, Etherow Country Park, Manchester — Fri, 13 Jun 2025
-- Ta’ Qali National Park, Malta — Fri, 30 May 2025
-- The Cluny, Newcastle — Fri, 25 Apr 2025
-- Hootananny Brixton, London — Sat, 12 Apr 2025
-- Peckham Levels, London — Sat, 30 Nov 2024
-- H15 Scene & Studio, Copenhagen — Sat, 23 Nov 2024
+- Ashton Court Estate, Bristol · Wed, 31 Dec 2025
+- Volks, Brighton · Fri, 12 Sept 2025
+- Whitebottom Farm, Etherow Country Park, Manchester · Fri, 13 Jun 2025
+- Ta’ Qali National Park, Malta · Fri, 30 May 2025
+- The Cluny, Newcastle · Fri, 25 Apr 2025
+- Hootananny Brixton, London · Sat, 12 Apr 2025
+- Peckham Levels, London · Sat, 30 Nov 2024
+- H15 Scene & Studio, Copenhagen · Sat, 23 Nov 2024
 
 ## Shares bills with
 

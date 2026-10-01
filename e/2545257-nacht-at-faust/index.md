@@ -1,6 +1,6 @@
 # nacht at Faust
 
-nacht at Faust on Sat 3 Oct, Seoul. 6 artists on the bill: hv9 (KR), Kim Bo Yeon, Minish and NOVA ANIMUS and 2 more. Preview the line-up and save it on soundcheck.
+nacht at Faust on Sat 3 Oct, Seoul. 6 artists: hv9 (KR), Kim Bo Yeon, Minish and NOVA ANIMUS and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hoochie House at El Rio
 
-Hoochie House at El Rio on Sat 31 Oct, San Francisco/Oakland. 2 artists on the bill: Dj Nico and ECTO. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Hoochie House at El Rio on Sat 31 Oct, San Francisco/Oakland. 2 artists: Dj Nico and ECTO. Club and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

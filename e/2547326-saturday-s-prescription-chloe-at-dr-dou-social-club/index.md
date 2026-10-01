@@ -1,6 +1,6 @@
 # Saturday's Prescription - Chloe at Dr. Dou Social Club
 
-Saturday's Prescription - Chloe at Dr. Dou Social Club on Sat 10 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Saturday's Prescription - Chloe at Dr. Dou Social Club on Sat 10 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

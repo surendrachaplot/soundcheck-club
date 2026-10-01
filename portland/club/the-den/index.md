@@ -1,8 +1,8 @@
 # The Den
 
-The Den is a music venue in Portland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "ear [live] with cranes & Asa Smiles" on Thu, 8 Oct 2026.
+The Den is a music venue in Portland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ear [live] with cranes & Asa Smiles" on Thu, 8 Oct 2026.
 
-The Den is a music venue in Portland listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 116 SE Yamhill St, Portland, OR 97217, United States.
+The Den is a music venue in Portland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 116 SE Yamhill St, Portland, OR 97217, United States.
 
 ## What's on
 

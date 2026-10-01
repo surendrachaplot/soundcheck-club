@@ -1,6 +1,6 @@
 # NAIRA: Afro Electronic Freedom at Jolene Sound Room Brooklyn
 
-NAIRA: Afro Electronic Freedom at Jolene Sound Room Brooklyn on Fri 23 Oct, New York City. 2 artists on the bill: SAY3 and SYDNI LUV. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+NAIRA: Afro Electronic Freedom at Jolene Sound Room Brooklyn on Fri 23 Oct, New York City. 2 artists: SAY3 and SYDNI LUV. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

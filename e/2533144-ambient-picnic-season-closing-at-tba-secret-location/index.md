@@ -1,6 +1,6 @@
 # Ambient Picnic — Season Closing at TBA - Secret Location
 
-Ambient Picnic — Season Closing at TBA - Secret Location on Sun 4 Oct, Berlin. 5 artists on the bill: AXT, Bungalovv, Triš and Xenia Reaper and 1 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Ambient Picnic — Season Closing at TBA - Secret Location on Sun 4 Oct, Berlin. 5 artists: AXT, Bungalovv, Triš and Xenia Reaper and 1 more. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

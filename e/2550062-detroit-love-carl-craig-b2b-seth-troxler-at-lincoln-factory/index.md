@@ -1,6 +1,6 @@
 # Detroit Love - Carl Craig b2b Seth Troxler at Lincoln Factory
 
-Detroit Love - Carl Craig b2b Seth Troxler at Lincoln Factory on Sat 28 Nov, Detroit. 3 artists on the bill: Carl Craig, Seth Troxler and Silverdome Boyz. Techno and House. Preview the line-up and save it on soundcheck.
+Detroit Love - Carl Craig b2b Seth Troxler at Lincoln Factory on Sat 28 Nov, Detroit. 3 artists: Carl Craig, Seth Troxler and Silverdome Boyz. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Nitsa Club
 
-Nitsa Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Pegassi · Pau Grima / Ignez · Shed Live · Dj Fra" on Fri, 2 Oct 2026.
+Nitsa Club is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Pegassi · Pau Grima / Ignez · Shed Live · Dj Fra" on Fri, 2 Oct 2026.
 
-Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Paula Tape, Alvva, Anetha and Answer Code Request and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
+Nitsa Club is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Paula Tape, Alvva, Anetha and Answer Code Request and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 113; 08004 Barcelona; Spain.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Halloween: Safe Zone 49 at Octave Rooftop Lounge & Bar
 
-Halloween: Safe Zone 49 at Octave Rooftop Lounge & Bar on Sat 31 Oct, Bangkok. 2 artists on the bill: Cameron Glasgow and Makasi. Preview the line-up and save it on soundcheck.
+Halloween: Safe Zone 49 at Octave Rooftop Lounge & Bar on Sat 31 Oct, Bangkok. 2 artists: Cameron Glasgow and Makasi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

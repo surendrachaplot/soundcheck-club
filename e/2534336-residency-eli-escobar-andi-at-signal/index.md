@@ -1,6 +1,6 @@
 # RESIDENCY: Eli Escobar, Andi at Signal
 
-RESIDENCY: Eli Escobar, Andi at Signal on Sat 10 Oct, New York City. 2 artists on the bill: Andi and Eli Escobar. Preview the line-up and save it on soundcheck.
+RESIDENCY: Eli Escobar, Andi at Signal on Sat 10 Oct, New York City. 2 artists: Andi and Eli Escobar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

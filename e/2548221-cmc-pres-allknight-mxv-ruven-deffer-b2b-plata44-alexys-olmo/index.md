@@ -1,6 +1,6 @@
 # CMC pres. ALLKNIGHT, MXV, RUVEN, Deffer b2b Plata44, Alexys Olmo at Cafe La Palma
 
-CMC pres. ALLKNIGHT, MXV, RUVEN, Deffer b2b Plata44, Alexys Olmo at Cafe La Palma on Sat 7 Nov, Madrid. 3 artists on the bill: ALLKNIGHT, MXV (UK) and RUVEN. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+CMC pres. ALLKNIGHT, MXV, RUVEN, Deffer b2b Plata44, Alexys Olmo at Cafe La Palma on Sat 7 Nov, Madrid. 3 artists: ALLKNIGHT, MXV (UK) and RUVEN. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

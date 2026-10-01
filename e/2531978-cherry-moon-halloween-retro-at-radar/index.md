@@ -1,6 +1,6 @@
 # Cherry Moon Halloween Retro at Radar
 
-Cherry Moon Halloween Retro at Radar on Sat 31 Oct, Belgium. 6 artists on the bill: Alexander Koning, Dimitri Cooman, DJ Ghost and Dr. Lektroluv and 2 more. Preview the line-up and save it on soundcheck.
+Cherry Moon Halloween Retro at Radar on Sat 31 Oct, Belgium. 6 artists: Alexander Koning, Dimitri Cooman, DJ Ghost and Dr. Lektroluv and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

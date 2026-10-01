@@ -1,8 +1,8 @@
 # Natural Goofy
 
-Natural Goofy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Wed, 28 Oct 2026.
+Natural Goofy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Wed, 28 Oct 2026.
 
-Natural Goofy is a house and techno artist tracked on soundcheck, with 31 sets logged across Barcelona, Berlin, Hamburg and Lisbon and 5 more. Often billed alongside Comik Sans, Arista and Cortazar. Next up: Tresor / Globus, Berlin on Wed 28 Oct.
+Natural Goofy is a house and techno artist, with 31 gigs on soundcheck across Barcelona, Berlin, Hamburg and Lisbon and 5 more. Often billed alongside Comik Sans, Arista and Cortazar. Next up: Tresor / Globus, Berlin on Wed 28 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Natural Goofy is a house and techno artist tracked on soundcheck, with 31 sets l
 
 ## Recently played
 
-- Ministerium Club, Lisbon — Sat, 19 Sept 2026
-- Collect LX Factory, Lisbon — Fri, 18 Sept 2026
-- Golden Pudel Club, Hamburg — Fri, 19 Jun 2026
-- Specka, Madrid — Sat, 13 Jun 2026
-- Lasociaciøn, Madrid — Fri, 22 May 2026
-- Südpol, Hamburg — Fri, 17 Apr 2026
-- Green Room, New York City — Sun, 22 Mar 2026
-- 7833 Soundlab, Barcelona — Sat, 17 Jan 2026
+- Ministerium Club, Lisbon · Sat, 19 Sept 2026
+- Collect LX Factory, Lisbon · Fri, 18 Sept 2026
+- Golden Pudel Club, Hamburg · Fri, 19 Jun 2026
+- Specka, Madrid · Sat, 13 Jun 2026
+- Lasociaciøn, Madrid · Fri, 22 May 2026
+- Südpol, Hamburg · Fri, 17 Apr 2026
+- Green Room, New York City · Sun, 22 Mar 2026
+- 7833 Soundlab, Barcelona · Sat, 17 Jan 2026
 
 ## Shares bills with
 

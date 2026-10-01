@@ -1,8 +1,8 @@
 # Laidlaw
 
-Laidlaw is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
+Laidlaw is a House and Tech House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Laidlaw is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 200 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 34 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
+Laidlaw is a house and tech house artist based in United Kingdom, with 200 gigs on soundcheck across Aberdeen, Amsterdam, Bali and Barcelona and 34 more. Often billed alongside Enzo Siragusa, Dr Banana and Julian Anthony. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ Laidlaw is a house and tech house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Cova Santa, Ibiza — Tue, 29 Sept 2026
-- Mint XL, Leeds — Fri, 25 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 22 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- Fvtvr, Paris — Sat, 12 Sept 2026
-- Ouseburn Garden, Newcastle — Sat, 5 Sept 2026
-- Amnesia Ibiza, Ibiza — Thu, 3 Sept 2026
-- The Nest, Nottingham — Sun, 30 Aug 2026
+- Cova Santa, Ibiza · Tue, 29 Sept 2026
+- Mint XL, Leeds · Fri, 25 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 22 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- Fvtvr, Paris · Sat, 12 Sept 2026
+- Ouseburn Garden, Newcastle · Sat, 5 Sept 2026
+- Amnesia Ibiza, Ibiza · Thu, 3 Sept 2026
+- The Nest, Nottingham · Sun, 30 Aug 2026
 
 ## Shares bills with
 

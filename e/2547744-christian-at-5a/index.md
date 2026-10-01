@@ -1,6 +1,6 @@
 # Christian at 5A
 
-Christian at 5A on Fri 2 Oct, Lisbon. Preview the line-up and save it on soundcheck.
+Christian at 5A on Fri 2 Oct, Lisbon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

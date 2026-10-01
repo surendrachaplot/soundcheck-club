@@ -1,8 +1,8 @@
 # Basstronauten
 
-Basstronauten is a Techno and Psytrance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Cloud, Berlin on Fri, 9 Oct 2026.
+Basstronauten is a Techno and Psytrance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cloud, Berlin on Fri, 9 Oct 2026.
 
-Basstronauten is a techno and psytrance artist based in Germany, tracked on soundcheck, with 62 sets logged across Berlin. Often billed alongside Daniel Boon, LORD of Psychedelics and DAZA. Next up: The Cloud, Berlin on Fri 9 Oct.
+Basstronauten is a techno and psytrance artist based in Germany, with 62 gigs on soundcheck across Berlin. Often billed alongside Daniel Boon, LORD of Psychedelics and DAZA. Next up: The Cloud, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Basstronauten is a techno and psytrance artist based in Germany, tracked on soun
 
 ## Recently played
 
-- RAW Gelände, Berlin — Sat, 29 Aug 2026
-- Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
-- M-BIA, Berlin — Sat, 15 Aug 2026
-- M-BIA, Berlin — Sat, 4 Apr 2026
-- M-BIA, Berlin — Sat, 21 Mar 2026
-- M-BIA, Berlin — Sat, 21 Feb 2026
-- M-BIA, Berlin — Wed, 31 Dec 2025
-- M-BIA, Berlin — Sat, 6 Dec 2025
+- RAW Gelände, Berlin · Sat, 29 Aug 2026
+- Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
+- M-BIA, Berlin · Sat, 15 Aug 2026
+- M-BIA, Berlin · Sat, 4 Apr 2026
+- M-BIA, Berlin · Sat, 21 Mar 2026
+- M-BIA, Berlin · Sat, 21 Feb 2026
+- M-BIA, Berlin · Wed, 31 Dec 2025
+- M-BIA, Berlin · Sat, 6 Dec 2025
 
 ## Shares bills with
 

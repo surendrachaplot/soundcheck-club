@@ -1,8 +1,8 @@
 # SHADEV
 
-SHADEV is a Garage and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gorilla, Manchester on Thu, 1 Oct 2026.
+SHADEV is a Garage and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gorilla, Manchester on Thu, 1 Oct 2026.
 
-SHADEV is a garage and house artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 3 more. Often billed alongside Rich Reason, T-Man (UK) and LARISHKA (UK). Next up: Gorilla, Manchester on Thu 1 Oct.
+SHADEV is a garage and house artist based in United Kingdom, with 70 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 3 more. Often billed alongside Rich Reason, T-Man (UK) and LARISHKA (UK). Next up: Gorilla, Manchester on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ SHADEV is a garage and house artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- Ramona, Manchester — Sat, 29 Aug 2026
-- Cupra City Garage Manchester, Manchester — Fri, 21 Aug 2026
-- Heaton Park, Manchester — Sat, 20 Jun 2026
-- Hidden, Manchester — Sat, 30 May 2026
-- The Loft, Manchester — Sat, 23 May 2026
-- Hidden, Manchester — Sat, 23 May 2026
-- Mint Warehouse, Leeds — Sat, 16 May 2026
-- The Bag Factory, Manchester — Fri, 15 May 2026
+- Ramona, Manchester · Sat, 29 Aug 2026
+- Cupra City Garage Manchester, Manchester · Fri, 21 Aug 2026
+- Heaton Park, Manchester · Sat, 20 Jun 2026
+- Hidden, Manchester · Sat, 30 May 2026
+- The Loft, Manchester · Sat, 23 May 2026
+- Hidden, Manchester · Sat, 23 May 2026
+- Mint Warehouse, Leeds · Sat, 16 May 2026
+- The Bag Factory, Manchester · Fri, 15 May 2026
 
 ## Shares bills with
 

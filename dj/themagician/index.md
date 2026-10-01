@@ -1,8 +1,8 @@
 # The Magician
 
-The Magician is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at BCM, Mallorca on Sat, 3 Oct 2026.
+The Magician is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BCM, Mallorca on Sat, 3 Oct 2026.
 
-The Magician is a house and disco artist based in Belgium, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Barcelona and Brussels and 13 more. Often billed alongside A-Trak, Martin Garrix and HAI-LIFE. Next up: BCM, Mallorca on Sat 3 Oct.
+The Magician is a house and disco artist based in Belgium, with 45 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brussels and 13 more. Often billed alongside A-Trak, Martin Garrix and HAI-LIFE. Next up: BCM, Mallorca on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ The Magician is a house and disco artist based in Belgium, tracked on soundcheck
 
 ## Recently played
 
-- Silencio, Paris — Wed, 30 Sept 2026
-- Society, Brussels — Fri, 18 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Thu, 17 Sept 2026
-- Vin de Syrah, San Diego — Sat, 14 Mar 2026
-- Sasazuka Bowl, Tokyo — Sat, 21 Feb 2026
-- Enter Shibuya, Tokyo — Sat, 7 Feb 2026
-- Audio SF, San Francisco/Oakland — Fri, 24 Oct 2025
-- Faunna Rooftop, Mexico City — Fri, 24 Oct 2025
+- Silencio, Paris · Wed, 30 Sept 2026
+- Society, Brussels · Fri, 18 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Thu, 17 Sept 2026
+- Vin de Syrah, San Diego · Sat, 14 Mar 2026
+- Sasazuka Bowl, Tokyo · Sat, 21 Feb 2026
+- Enter Shibuya, Tokyo · Sat, 7 Feb 2026
+- Audio SF, San Francisco/Oakland · Fri, 24 Oct 2025
+- Faunna Rooftop, Mexico City · Fri, 24 Oct 2025
 
 ## Shares bills with
 

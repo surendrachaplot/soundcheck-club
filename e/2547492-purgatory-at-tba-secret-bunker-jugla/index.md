@@ -1,6 +1,6 @@
 # PURGATORY at TBA - Secret Bunker, Jugla
 
-PURGATORY at TBA - Secret Bunker, Jugla on Sat 31 Oct, Riga. 2 artists on the bill: Sagatxgod and XSYNC19. IDM and Electronica. Preview the line-up and save it on soundcheck.
+PURGATORY at TBA - Secret Bunker, Jugla on Sat 31 Oct, Riga. 2 artists: Sagatxgod and XSYNC19. IDM and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

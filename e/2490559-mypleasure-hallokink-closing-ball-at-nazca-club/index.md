@@ -1,6 +1,6 @@
 # MyPleasure // HALLOKINK // Closing Ball at Nazca Club
 
-MyPleasure // HALLOKINK // Closing Ball at Nazca Club on Sun 1 Nov, Madrid. 2 artists on the bill: Confidential Recipe and Decius. Techno and House. Preview the line-up and save it on soundcheck.
+MyPleasure // HALLOKINK // Closing Ball at Nazca Club on Sun 1 Nov, Madrid. 2 artists: Confidential Recipe and Decius. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

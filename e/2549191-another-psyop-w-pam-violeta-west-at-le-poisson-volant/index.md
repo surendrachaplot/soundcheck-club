@@ -1,6 +1,6 @@
 # another psyop w/ pam & Violeta West at Le Poisson Volant
 
-another psyop w/ pam & Violeta West at Le Poisson Volant on Fri 9 Oct, Paris. 2 artists on the bill: pam (unofficial) and Violeta West. Preview the line-up and save it on soundcheck.
+another psyop w/ pam & Violeta West at Le Poisson Volant on Fri 9 Oct, Paris. 2 artists: pam (unofficial) and Violeta West. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

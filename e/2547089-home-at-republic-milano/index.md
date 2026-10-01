@@ -1,6 +1,6 @@
 # HOME at Republic Milano
 
-HOME at Republic Milano on Tue 6 Oct, Milan. House and Tech House. Preview the line-up and save it on soundcheck.
+HOME at Republic Milano on Tue 6 Oct, Milan. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

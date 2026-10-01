@@ -1,6 +1,6 @@
 # Hubert. & prawy brzeg - sei porobilo...TOUR - Szczecin at TBA - Słowianin
 
-Hubert. & prawy brzeg - sei porobilo...TOUR - Szczecin at TBA - Słowianin on Thu 17 Dec, Warsaw. Hip-Hop. Preview the line-up and save it on soundcheck.
+Hubert. & prawy brzeg - sei porobilo...TOUR - Szczecin at TBA - Słowianin on Thu 17 Dec, Warsaw. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

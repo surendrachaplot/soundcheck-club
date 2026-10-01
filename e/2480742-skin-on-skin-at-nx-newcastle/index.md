@@ -1,6 +1,6 @@
 # Skin On Skin at NX Newcastle
 
-Skin On Skin at NX Newcastle on Sat 17 Oct, Newcastle. 4 artists on the bill: Bella Claxton, Ben Prophet, Faster Horses and Skin On Skin. Techno and House. Preview the line-up and save it on soundcheck.
+Skin On Skin at NX Newcastle on Sat 17 Oct, Newcastle. 4 artists: Bella Claxton, Ben Prophet, Faster Horses and Skin On Skin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

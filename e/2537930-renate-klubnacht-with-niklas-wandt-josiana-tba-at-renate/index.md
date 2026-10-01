@@ -1,6 +1,6 @@
 # Renate Klubnacht with Niklas Wandt, Josiana tba at Renate
 
-Renate Klubnacht with Niklas Wandt, Josiana tba on Fri 23 Oct, Berlin. 3 artists on the bill: Josiane, Luce Clandestina and Niklas Wandt. House and Disco. Preview the line-up and save it on soundcheck.
+Renate Klubnacht with Niklas Wandt, Josiana tba on Fri 23 Oct, Berlin. 3 artists: Josiane, Luce Clandestina and Niklas Wandt. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

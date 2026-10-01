@@ -1,6 +1,6 @@
 # Krit Morton Invites Bangkok vinyl junkie presents; 6 hours of his solo vinyl set at Culture Cafe
 
-Krit Morton Invites Bangkok vinyl junkie presents; 6 hours of his solo vinyl set at Culture Cafe on Sat 24 Oct, Bangkok. 1 artist on the bill: DJ Krit Morton. Techno and Electro. Preview the line-up and save it on soundcheck.
+Krit Morton Invites Bangkok vinyl junkie presents; 6 hours of his solo vinyl set at Culture Cafe on Sat 24 Oct, Bangkok. 1 artist: DJ Krit Morton. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Toribio: Halloween at Loso
 
-Toribio: Halloween at Loso on Sat 31 Oct, Richmond. 1 artist on the bill: Toribio. Preview the line-up and save it on soundcheck.
+Toribio: Halloween at Loso on Sat 31 Oct, Richmond. 1 artist: Toribio. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

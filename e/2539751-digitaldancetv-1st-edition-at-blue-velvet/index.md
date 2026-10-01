@@ -1,6 +1,6 @@
 # DigitalDanceTV  | 1st Edition at Blue Velvet
 
-DigitalDanceTV  | 1st Edition at Blue Velvet on Sun 4 Oct, Berlin. 3 artists on the bill: Plattenlieferant, RaverPik and The Jakob Sister. Trance and Techno. Preview the line-up and save it on soundcheck.
+DigitalDanceTV  | 1st Edition at Blue Velvet on Sun 4 Oct, Berlin. 3 artists: Plattenlieferant, RaverPik and The Jakob Sister. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DHERMIDA
 
-DHERMIDA is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at berlinClub, Madrid on Fri, 2 Oct 2026.
+DHERMIDA is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at berlinClub, Madrid on Fri, 2 Oct 2026.
 
-DHERMIDA is a house and electronica artist based in Brazil, tracked on soundcheck, with 75 sets logged across Madrid. Often billed alongside Raisa, Tucu (Tucu) and Fer Xplosion. Next up: berlinClub, Madrid on Fri 2 Oct.
+DHERMIDA is a house and electronica artist based in Brazil, with 75 gigs on soundcheck across Madrid. Often billed alongside Raisa, Tucu (Tucu) and Fer Xplosion. Next up: berlinClub, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DHERMIDA is a house and electronica artist based in Brazil, tracked on soundchec
 
 ## Recently played
 
-- El Internacional, Madrid — Sat, 5 Sept 2026
-- Subcero Club, Madrid — Sat, 11 Jul 2026
-- Club Malasaña, Madrid — Thu, 9 Jul 2026
-- Subcero Club, Madrid — Thu, 18 Jun 2026
-- El Internacional, Madrid — Sat, 13 Jun 2026
-- Cadavra, Madrid — Fri, 12 Jun 2026
-- Club Malasaña, Madrid — Thu, 4 Jun 2026
-- Goya Social Club, Madrid — Sat, 23 May 2026
+- El Internacional, Madrid · Sat, 5 Sept 2026
+- Subcero Club, Madrid · Sat, 11 Jul 2026
+- Club Malasaña, Madrid · Thu, 9 Jul 2026
+- Subcero Club, Madrid · Thu, 18 Jun 2026
+- El Internacional, Madrid · Sat, 13 Jun 2026
+- Cadavra, Madrid · Fri, 12 Jun 2026
+- Club Malasaña, Madrid · Thu, 4 Jun 2026
+- Goya Social Club, Madrid · Sat, 23 May 2026
 
 ## Shares bills with
 

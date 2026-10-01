@@ -1,6 +1,6 @@
 # KØLPØS, Centrific, Castrø at Gare Porto
 
-KØLPØS, Centrific, Castrø at Gare Porto on Fri 9 Oct, Porto. 3 artists on the bill: Castrø, Centrific and KØLPØS. Techno and Electronica. Preview the line-up and save it on soundcheck.
+KØLPØS, Centrific, Castrø at Gare Porto on Fri 9 Oct, Porto. 3 artists: Castrø, Centrific and KØLPØS. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

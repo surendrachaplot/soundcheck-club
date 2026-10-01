@@ -1,8 +1,8 @@
 # fetva
 
-fetva is a Experimental and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
+fetva is a Experimental and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
 
-fetva is an experimental and electro artist based in France, tracked on soundcheck, with 42 sets logged across Athens, Berlin, Brussels and London and 3 more. Often billed alongside Golce, DJ Music and Lisa More. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
+fetva is an experimental and electro artist based in France, with 42 gigs on soundcheck across Athens, Berlin, Brussels and London and 3 more. Often billed alongside Golce, DJ Music and Lisa More. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ fetva is an experimental and electro artist based in France, tracked on soundche
 
 ## Recently played
 
-- Eglise Saint-Remi, Brussels — Sat, 12 Sept 2026
-- TBA - Marseille, Marseille — Fri, 7 Aug 2026
-- TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris — Wed, 29 Jul 2026
-- TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris — Wed, 29 Jul 2026
-- La Station - Gare des Mines, Paris — Fri, 17 Jul 2026
-- TBA - Le Cornichon, Paris — Sun, 21 Jun 2026
-- TBA - 44, boulevard du Temple, Paris, Paris — Sun, 21 Jun 2026
-- Antenne 47, Paris — Sun, 21 Jun 2026
+- Eglise Saint-Remi, Brussels · Sat, 12 Sept 2026
+- TBA - Marseille, Marseille · Fri, 7 Aug 2026
+- TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris · Wed, 29 Jul 2026
+- TBA - Rose Bakery, 35-37 rue des Francs-Bourgeois, 75004 Paris, Paris · Wed, 29 Jul 2026
+- La Station - Gare des Mines, Paris · Fri, 17 Jul 2026
+- TBA - Le Cornichon, Paris · Sun, 21 Jun 2026
+- TBA - 44, boulevard du Temple, Paris, Paris · Sun, 21 Jun 2026
+- Antenne 47, Paris · Sun, 21 Jun 2026
 
 ## Shares bills with
 

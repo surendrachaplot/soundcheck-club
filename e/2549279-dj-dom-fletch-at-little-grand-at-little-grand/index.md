@@ -1,6 +1,6 @@
 # DJ Dom Fletch at Little Grand at Little Grand
 
-DJ Dom Fletch at Little Grand on Sat 3 Oct, New York City. 1 artist on the bill: DJ Dom Fletch. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+DJ Dom Fletch at Little Grand on Sat 3 Oct, New York City. 1 artist: DJ Dom Fletch. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

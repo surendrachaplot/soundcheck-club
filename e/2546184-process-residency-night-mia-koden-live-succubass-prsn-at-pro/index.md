@@ -1,6 +1,6 @@
 # Process Residency Night - Mia Koden (live), Succubass, PRSN at Process PDX
 
-Process Residency Night - Mia Koden (live), Succubass, PRSN at Process PDX on Fri 9 Oct, Portland. 3 artists on the bill: Mia Koden, PRSN and Succubass. Bass and Dub. Preview the line-up and save it on soundcheck.
+Process Residency Night - Mia Koden (live), Succubass, PRSN at Process PDX on Fri 9 Oct, Portland. 3 artists: Mia Koden, PRSN and Succubass. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Efdemin , Mod.1 at VENT
 
-Efdemin , Mod.1 at VENT on Fri 2 Oct, Tokyo. 5 artists on the bill: DANA NADA, Efdemin, Junya Yamamura and Kengo Yuasa and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Efdemin , Mod.1 at VENT on Fri 2 Oct, Tokyo. 5 artists: DANA NADA, Efdemin, Junya Yamamura and Kengo Yuasa and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

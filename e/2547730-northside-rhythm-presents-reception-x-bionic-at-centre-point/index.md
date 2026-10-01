@@ -1,6 +1,6 @@
 # Northside Rhythm presents: Reception x Bionic at Centre Point
 
-Northside Rhythm presents: Reception x Bionic at Centre Point on Sun 25 Oct, Dublin. 1 artist on the bill: TYGE. House. Preview the line-up and save it on soundcheck.
+Northside Rhythm presents: Reception x Bionic at Centre Point on Sun 25 Oct, Dublin. 1 artist: TYGE. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

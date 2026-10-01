@@ -1,6 +1,6 @@
 # INFIERNO at Que Sera
 
-INFIERNO at Que Sera on Sat 3 Oct, Los Angeles. 1 artist on the bill: Diablito. Neo Perreo. Preview the line-up and save it on soundcheck.
+INFIERNO at Que Sera on Sat 3 Oct, Los Angeles. 1 artist: Diablito. Neo Perreo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

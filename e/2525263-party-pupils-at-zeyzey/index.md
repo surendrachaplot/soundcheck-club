@@ -1,6 +1,6 @@
 # Party Pupils at ZeyZey
 
-Party Pupils at ZeyZey on Fri 16 Oct, Miami. House and Disco. Preview the line-up and save it on soundcheck.
+Party Pupils at ZeyZey on Fri 16 Oct, Miami. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

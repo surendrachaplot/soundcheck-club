@@ -1,8 +1,8 @@
 # Le Studio TD
 
-Le Studio TD is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Tinzo + Jojo's Dark Library - Montreal" on Sat, 7 Nov 2026.
+Le Studio TD is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Tinzo + Jojo's Dark Library - Montreal" on Sat, 7 Nov 2026.
 
-Le Studio TD is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Jojo Lorenzo and Tinzo. Browse upcoming dates, start times and who's playing. 305 Rue Sainte-Catherine Ouest, L'Astral, Montréal, QC H2X 2A3, Canada.
+Le Studio TD is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Jojo Lorenzo and Tinzo. See dates, start times and who's playing. 305 Rue Sainte-Catherine Ouest, L'Astral, Montréal, QC H2X 2A3, Canada.
 
 ## What's on
 

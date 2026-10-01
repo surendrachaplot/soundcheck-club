@@ -1,6 +1,6 @@
 # FLUIDS - XDB at DURO
 
-FLUIDS - XDB at DURO on Fri 2 Oct, Milan. 1 artist on the bill: XDB. House. Preview the line-up and save it on soundcheck.
+FLUIDS - XDB at DURO on Fri 2 Oct, Milan. 1 artist: XDB. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

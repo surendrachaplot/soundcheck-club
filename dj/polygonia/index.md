@@ -1,8 +1,8 @@
 # Polygonia
 
-Polygonia is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Levenslang Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Polygonia is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Levenslang Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
-Polygonia is a techno and house artist based in Germany, tracked on soundcheck, with 232 sets logged across Amsterdam, Athens, Bali and Barcelona and 60 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Levenslang Amsterdam, Amsterdam on Thu 22 Oct.
+Polygonia is a techno and house artist based in Germany, with 232 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 60 more. Often billed alongside GiGi FM, BASHKKA and Efdemin. Next up: Levenslang Amsterdam, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Polygonia is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Green Room NYC, New York City — Sat, 29 Aug 2026
-- MTELUS, Montreal — Fri, 28 Aug 2026
-- Esplanade Tranquille, Montreal — Thu, 27 Aug 2026
-- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
-- Ääniwalli, Helsinki — Fri, 14 Aug 2026
-- RSO.BERLIN, Berlin — Thu, 13 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
-- Virage, Paris — Sat, 1 Aug 2026
+- Green Room NYC, New York City · Sat, 29 Aug 2026
+- MTELUS, Montreal · Fri, 28 Aug 2026
+- Esplanade Tranquille, Montreal · Thu, 27 Aug 2026
+- Quartier Des Spectacles, Montreal · Tue, 25 Aug 2026
+- Ääniwalli, Helsinki · Fri, 14 Aug 2026
+- RSO.BERLIN, Berlin · Thu, 13 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
+- Virage, Paris · Sat, 1 Aug 2026
 
 ## Shares bills with
 

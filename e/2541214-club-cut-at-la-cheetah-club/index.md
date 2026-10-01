@@ -1,6 +1,6 @@
 # CLUB CUT at La Cheetah Club
 
-CLUB CUT at La Cheetah Club on Tue 13 Oct, Glasgow. 2 artists on the bill: Danse Atmos and PASO. House. Preview the line-up and save it on soundcheck.
+CLUB CUT at La Cheetah Club on Tue 13 Oct, Glasgow. 2 artists: Danse Atmos and PASO. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # INFLUENCE PRESENTS: XXX & XXXXX at The Sound House
 
-INFLUENCE PRESENTS: XXX & XXXXX at The Sound House on Sat 19 Dec, Dublin. Techno. Preview the line-up and save it on soundcheck.
+INFLUENCE PRESENTS: XXX & XXXXX at The Sound House on Sat 19 Dec, Dublin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

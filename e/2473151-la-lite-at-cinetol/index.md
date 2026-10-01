@@ -1,6 +1,6 @@
 # LA ÉLITE at Cinetol
 
-LA ÉLITE at Cinetol on Sat 28 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+LA ÉLITE at Cinetol on Sat 28 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

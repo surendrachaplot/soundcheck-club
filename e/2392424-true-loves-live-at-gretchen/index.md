@@ -1,6 +1,6 @@
 # TRUE LOVES *live at Gretchen
 
-TRUE LOVES *live at Gretchen on Tue 10 Nov, Berlin. Funk / Soul. Preview the line-up and save it on soundcheck.
+TRUE LOVES *live at Gretchen on Tue 10 Nov, Berlin. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

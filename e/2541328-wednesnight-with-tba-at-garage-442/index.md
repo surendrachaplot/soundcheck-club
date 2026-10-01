@@ -1,6 +1,6 @@
 # Wednesnight with TBA at Garage 442
 
-Wednesnight with TBA at Garage 442 on Wed 21 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Wednesnight with TBA at Garage 442 on Wed 21 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

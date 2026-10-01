@@ -1,6 +1,6 @@
 # SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!) at Chop Suey
 
-SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!) at Chop Suey on Fri 9 Oct, Seattle. Preview the line-up and save it on soundcheck.
+SORRY FOR PARTY ROCKING (2010-2015 Pop & EDM All Night Long!) at Chop Suey on Fri 9 Oct, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

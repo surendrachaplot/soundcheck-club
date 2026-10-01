@@ -1,6 +1,6 @@
 # Kai Reesu - Kompromat Vol II Launch at The Rum Shack
 
-Kai Reesu - Kompromat Vol II Launch at The Rum Shack on Fri 13 Nov, Glasgow. Jazz and R&B. Preview the line-up and save it on soundcheck.
+Kai Reesu - Kompromat Vol II Launch at The Rum Shack on Fri 13 Nov, Glasgow. Jazz and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

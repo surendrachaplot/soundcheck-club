@@ -1,6 +1,6 @@
 # Breakaway: Autumn Residency Closing Party - Jungle / Drum & Bass at Dalston Den
 
-Breakaway: Autumn Residency Closing Party - Jungle / Drum & Bass at Dalston Den on Fri 27 Nov, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Breakaway: Autumn Residency Closing Party - Jungle / Drum & Bass at Dalston Den on Fri 27 Nov, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

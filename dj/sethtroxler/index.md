@@ -1,8 +1,8 @@
 # Seth Troxler
 
-Seth Troxler is a House and Techno artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at T7 Paris, Paris on Fri, 2 Oct 2026.
+Seth Troxler is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at T7 Paris, Paris on Fri, 2 Oct 2026.
 
-Seth Troxler is a house and techno artist based in United States of America, tracked on soundcheck, with 319 sets logged across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: T7 Paris, Paris on Fri 2 Oct.
+Seth Troxler is a house and techno artist based in United States of America, with 319 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 51 more. Often billed alongside DJ Tennis, Sossa and Prospa. Next up: T7 Paris, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Seth Troxler is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
-- TBA - Quai De Heembeek, Brussels — Tue, 29 Sept 2026
-- DC-10, Ibiza — Mon, 28 Sept 2026
-- Volt Club Milano, Milan — Sat, 26 Sept 2026
-- Pacha Ibiza, Ibiza — Fri, 25 Sept 2026
-- Sophie Festival, Malaga — Sat, 19 Sept 2026
-- TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto — Fri, 18 Sept 2026
-- NDSM Docklands, Amsterdam — Sun, 13 Sept 2026
-- Skatecafe, Amsterdam — Thu, 10 Sept 2026
+- TBA - Quai De Heembeek, Brussels · Tue, 29 Sept 2026
+- DC-10, Ibiza · Mon, 28 Sept 2026
+- Volt Club Milano, Milan · Sat, 26 Sept 2026
+- Pacha Ibiza, Ibiza · Fri, 25 Sept 2026
+- Sophie Festival, Malaga · Sat, 19 Sept 2026
+- TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto · Fri, 18 Sept 2026
+- NDSM Docklands, Amsterdam · Sun, 13 Sept 2026
+- Skatecafe, Amsterdam · Thu, 10 Sept 2026
 
 ## Shares bills with
 

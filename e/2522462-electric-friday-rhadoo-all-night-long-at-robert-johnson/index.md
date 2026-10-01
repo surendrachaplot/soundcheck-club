@@ -1,6 +1,6 @@
 # Electric Friday / Rhadoo - all night long at Robert Johnson
 
-Electric Friday / Rhadoo - all night long at Robert Johnson on Fri 13 Nov, Hesse. 1 artist on the bill: Rhadoo. Preview the line-up and save it on soundcheck.
+Electric Friday / Rhadoo - all night long at Robert Johnson on Fri 13 Nov, Hesse. 1 artist: Rhadoo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

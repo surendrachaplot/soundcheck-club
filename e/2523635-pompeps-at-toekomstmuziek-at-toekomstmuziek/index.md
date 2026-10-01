@@ -1,6 +1,6 @@
 # PomPEPS at Toekomstmuziek at Toekomstmuziek
 
-PomPEPS at Toekomstmuziek on Sat 28 Nov, Amsterdam. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+PomPEPS at Toekomstmuziek on Sat 28 Nov, Amsterdam. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

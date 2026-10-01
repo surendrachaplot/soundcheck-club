@@ -1,6 +1,6 @@
 # Nyege Nyege - London Takeover at Jazz Cafe at The Jazz Cafe
 
-Nyege Nyege - London Takeover at Jazz Cafe at The Jazz Cafe on Fri 13 Nov, London. Preview the line-up and save it on soundcheck.
+Nyege Nyege - London Takeover at Jazz Cafe at The Jazz Cafe on Fri 13 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

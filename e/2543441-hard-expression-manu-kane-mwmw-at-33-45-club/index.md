@@ -1,6 +1,6 @@
 # HARD EXPRESSION - MANU KANE, MWMW at 33/45 Club
 
-HARD EXPRESSION - MANU KANE, MWMW at 33/45 Club on Fri 2 Oct, Valencia. Techno. Preview the line-up and save it on soundcheck.
+HARD EXPRESSION - MANU KANE, MWMW at 33/45 Club on Fri 2 Oct, Valencia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cue at Enter Shibuya
 
-Cue at Enter Shibuya on Thu 1 Oct, Tokyo. 2 artists on the bill: S.H.V and SAMO (JP). Techno and Electronica. Preview the line-up and save it on soundcheck.
+Cue at Enter Shibuya on Thu 1 Oct, Tokyo. 2 artists: S.H.V and SAMO (JP). Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

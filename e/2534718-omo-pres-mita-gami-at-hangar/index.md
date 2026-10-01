@@ -1,6 +1,6 @@
 # ØOMO pres. Mita Gami at Hangar
 
-ØOMO pres. Mita Gami at Hangar on Sat 10 Oct, Belgrade. 2 artists on the bill: Mita Gami and Tom Zeta. House and Tech House. Preview the line-up and save it on soundcheck.
+ØOMO pres. Mita Gami at Hangar on Sat 10 Oct, Belgrade. 2 artists: Mita Gami and Tom Zeta. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

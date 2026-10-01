@@ -1,6 +1,6 @@
 # INVADERS 'TRIP TO JAPAN' at Spook Club
 
-INVADERS 'TRIP TO JAPAN' at Spook Club on Sat 28 Nov, Valencia. Hardcore and Psytrance. Preview the line-up and save it on soundcheck.
+INVADERS 'TRIP TO JAPAN' at Spook Club on Sat 28 Nov, Valencia. Hardcore and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LAST FREE TICKETS + FREE DRINK: FRESHERS 2026 – House & Disco ALL NIGHT LONG at Egg London
 
-LAST FREE TICKETS + FREE DRINK: FRESHERS 2026 – House & Disco ALL NIGHT LONG at Egg London on Sat 7 Nov, London. House and Disco. Preview the line-up and save it on soundcheck.
+LAST FREE TICKETS + FREE DRINK: FRESHERS 2026 – House & Disco ALL NIGHT LONG at Egg London on Sat 7 Nov, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

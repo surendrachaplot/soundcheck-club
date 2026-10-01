@@ -1,8 +1,8 @@
 # Jolie
 
-Jolie is a Afro House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Krudttønden, Copenhagen on Fri, 2 Oct 2026.
+Jolie is a Afro House and Garage artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Krudttønden, Copenhagen on Fri, 2 Oct 2026.
 
-Jolie is an afro house and garage artist based in Tanzania, tracked on soundcheck, with 43 sets logged across Copenhagen, London, Manchester and New York City and 1 more. Often billed alongside MABINTI, Billy Daniel Bunter and Craze. Next up: Krudttønden, Copenhagen on Fri 2 Oct.
+Jolie is an afro house and garage artist based in Tanzania, with 43 gigs on soundcheck across Copenhagen, London, Manchester and New York City and 1 more. Often billed alongside MABINTI, Billy Daniel Bunter and Craze. Next up: Krudttønden, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Jolie is an afro house and garage artist based in Tanzania, tracked on soundchec
 
 ## Recently played
 
-- Den Anden Side, Copenhagen — Fri, 11 Sept 2026
-- Udonno Store Vesterbro, Copenhagen — Sat, 15 Aug 2026
-- Sigurd CPH, Copenhagen — Sat, 6 Jun 2026
-- Udonno Store Vesterbro, Copenhagen — Thu, 4 Jun 2026
-- 93 Feet East, London — Sat, 2 May 2026
-- KOKO, London — Sat, 14 Feb 2026
-- Fire & Lightbox, London — Sat, 1 Nov 2025
-- RUST Natklub, Copenhagen — Sat, 1 Nov 2025
+- Den Anden Side, Copenhagen · Fri, 11 Sept 2026
+- Udonno Store Vesterbro, Copenhagen · Sat, 15 Aug 2026
+- Sigurd CPH, Copenhagen · Sat, 6 Jun 2026
+- Udonno Store Vesterbro, Copenhagen · Thu, 4 Jun 2026
+- 93 Feet East, London · Sat, 2 May 2026
+- KOKO, London · Sat, 14 Feb 2026
+- Fire & Lightbox, London · Sat, 1 Nov 2025
+- RUST Natklub, Copenhagen · Sat, 1 Nov 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # OMAH LAY x AFROBRUNCH BARCELONA WORLD TOUR at TBA - Hyatt Regency Barcelona Tower
 
-OMAH LAY x AFROBRUNCH BARCELONA WORLD TOUR at TBA - Hyatt Regency Barcelona Tower on Sun 22 Nov, Barcelona. Preview the line-up and save it on soundcheck.
+OMAH LAY x AFROBRUNCH BARCELONA WORLD TOUR at TBA - Hyatt Regency Barcelona Tower on Sun 22 Nov, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

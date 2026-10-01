@@ -1,6 +1,6 @@
 # Mascarada Barcelona at Plaza Mayor de El Poble Espanyol
 
-Mascarada Barcelona at Plaza Mayor de El Poble Espanyol on Sat 31 Oct, Barcelona. Pop and Reggaeton. Preview the line-up and save it on soundcheck.
+Mascarada Barcelona at Plaza Mayor de El Poble Espanyol on Sat 31 Oct, Barcelona. Pop and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Noizu at Bauhaus
 
-Noizu at Bauhaus on Sat 10 Oct, Houston. Techno and House. Preview the line-up and save it on soundcheck.
+Noizu at Bauhaus on Sat 10 Oct, Houston. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

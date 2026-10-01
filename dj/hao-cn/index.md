@@ -1,8 +1,8 @@
 # HAO (CN)
 
-HAO (CN) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+HAO (CN) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
-HAO (CN) is a techno and trance artist based in China, tracked on soundcheck, with 41 sets logged across Athens, Berlin, Copenhagen and Hong Kong and 8 more. Often billed alongside Cora (CN), DJ TOOL and DJB (CN). Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
+HAO (CN) is a techno and trance artist based in China, with 41 gigs on soundcheck across Athens, Berlin, Copenhagen and Hong Kong and 8 more. Often billed alongside Cora (CN), DJ TOOL and DJB (CN). Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ HAO (CN) is a techno and trance artist based in China, tracked on soundcheck, wi
 
 ## Recently played
 
-- Mood Ring, New York City — Fri, 28 Aug 2026
-- Lux Fragil, Lisbon — Wed, 3 Jun 2026
-- M01, Berlin — Sat, 25 Apr 2026
-- RSO.BERLIN, Berlin — Sun, 19 Apr 2026
-- OIL Club, Shenzhen — Sat, 7 Mar 2026
-- Maaya, Berlin — Sat, 13 Dec 2025
-- OIL Club, Shenzhen — Fri, 17 Oct 2025
-- FOLD, London — Sat, 6 Sept 2025
+- Mood Ring, New York City · Fri, 28 Aug 2026
+- Lux Fragil, Lisbon · Wed, 3 Jun 2026
+- M01, Berlin · Sat, 25 Apr 2026
+- RSO.BERLIN, Berlin · Sun, 19 Apr 2026
+- OIL Club, Shenzhen · Sat, 7 Mar 2026
+- Maaya, Berlin · Sat, 13 Dec 2025
+- OIL Club, Shenzhen · Fri, 17 Oct 2025
+- FOLD, London · Sat, 6 Sept 2025
 
 ## Shares bills with
 

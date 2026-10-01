@@ -1,8 +1,8 @@
 # BRAD WATTS
 
-BRAD WATTS is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Lucky Cat, Sydney on Sun, 4 Oct 2026.
+BRAD WATTS is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Lucky Cat, Sydney on Sun, 4 Oct 2026.
 
-BRAD WATTS is a house and deep house artist based in Australia, tracked on soundcheck, with 34 sets logged across Bali, Indonesia, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Ben Nott. Next up: The Lucky Cat, Sydney on Sun 4 Oct.
+BRAD WATTS is a house and deep house artist based in Australia, with 34 gigs on soundcheck across Bali, Indonesia, Melbourne and Sydney. Often billed alongside SOHAIL, Rowen Clark and Ben Nott. Next up: The Lucky Cat, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ BRAD WATTS is a house and deep house artist based in Australia, tracked on sound
 
 ## Recently played
 
-- Desa Kitsuné, Indonesia — Sat, 26 Sept 2026
-- TBA - SPICE CELLAR SYDNEY CITY, Sydney — Sat, 19 Sept 2026
-- Zumana Bali, Bali — Sat, 5 Sept 2026
-- The Shady Pig Uluwatu, Bali — Sat, 15 Aug 2026
-- Luna Beach Club Bali, Bali — Fri, 7 Aug 2026
-- TBA - TABU, Bali — Sat, 30 May 2026
-- TBA - PELICANO, Sydney — Sat, 23 May 2026
-- Sussudio, Sydney — Fri, 10 Apr 2026
+- Desa Kitsuné, Indonesia · Sat, 26 Sept 2026
+- TBA - SPICE CELLAR SYDNEY CITY, Sydney · Sat, 19 Sept 2026
+- Zumana Bali, Bali · Sat, 5 Sept 2026
+- The Shady Pig Uluwatu, Bali · Sat, 15 Aug 2026
+- Luna Beach Club Bali, Bali · Fri, 7 Aug 2026
+- TBA - TABU, Bali · Sat, 30 May 2026
+- TBA - PELICANO, Sydney · Sat, 23 May 2026
+- Sussudio, Sydney · Fri, 10 Apr 2026
 
 ## Shares bills with
 

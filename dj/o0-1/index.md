@@ -1,8 +1,8 @@
 # o0 (1)
 
-o0 (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OIL Club, Shenzhen on Sun, 4 Oct 2026.
+o0 (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OIL Club, Shenzhen on Sun, 4 Oct 2026.
 
-o0 is a techno and house artist based in China, tracked on soundcheck, with 30 sets logged across Hong Kong, San Francisco/Oakland and Shenzhen. Often billed alongside Jascer, mingo and Alion. Next up: OIL Club, Shenzhen on Sun 4 Oct.
+o0 is a techno and house artist based in China, with 30 gigs on soundcheck across Hong Kong, San Francisco/Oakland and Shenzhen. Often billed alongside Jascer, mingo and Alion. Next up: OIL Club, Shenzhen on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ o0 is a techno and house artist based in China, tracked on soundcheck, with 30 s
 
 ## Recently played
 
-- OIL Club, Shenzhen — Thu, 24 Sept 2026
-- OIL Club, Shenzhen — Fri, 11 Sept 2026
-- OIL Club, Shenzhen — Sat, 29 Aug 2026
-- OIL Club, Shenzhen — Thu, 27 Aug 2026
-- OIL Club, Shenzhen — Thu, 16 Jul 2026
-- OIL Club, Shenzhen — Fri, 10 Jul 2026
-- OIL Club, Shenzhen — Sat, 20 Jun 2026
-- OIL Club, Shenzhen — Fri, 15 May 2026
+- OIL Club, Shenzhen · Thu, 24 Sept 2026
+- OIL Club, Shenzhen · Fri, 11 Sept 2026
+- OIL Club, Shenzhen · Sat, 29 Aug 2026
+- OIL Club, Shenzhen · Thu, 27 Aug 2026
+- OIL Club, Shenzhen · Thu, 16 Jul 2026
+- OIL Club, Shenzhen · Fri, 10 Jul 2026
+- OIL Club, Shenzhen · Sat, 20 Jun 2026
+- OIL Club, Shenzhen · Fri, 15 May 2026
 
 ## Shares bills with
 

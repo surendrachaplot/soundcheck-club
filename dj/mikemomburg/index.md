@@ -1,8 +1,8 @@
 # Mike Momburg
 
-Mike Momburg is a House and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
+Mike Momburg is a House and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Thuishaven, Amsterdam on Fri, 23 Oct 2026.
 
-Mike Momburg is a house and trance artist based in Germany, tracked on soundcheck, with 90 sets logged across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Domenik Deckert, DAVINA and Carl Bergé. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
+Mike Momburg is a house and trance artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 8 more. Often billed alongside Domenik Deckert, DAVINA and Carl Bergé. Next up: Thuishaven, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Mike Momburg is a house and trance artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Gewölbe, Cologne — Sat, 12 Sept 2026
-- Schrotty, Cologne — Sat, 8 Aug 2026
-- Mondo, Madrid — Sat, 1 Aug 2026
-- Odonien, Cologne — Fri, 31 Jul 2026
-- TBA - Galopprennbahn Freudenau, Vienna, Vienna — Sat, 20 Jun 2026
-- Sneaky Pete's, Edinburgh — Wed, 17 Jun 2026
-- Revierpark Wischlingen, Dortmund, Cologne — Sun, 24 May 2026
-- fi, Cologne — Fri, 22 May 2026
+- Gewölbe, Cologne · Sat, 12 Sept 2026
+- Schrotty, Cologne · Sat, 8 Aug 2026
+- Mondo, Madrid · Sat, 1 Aug 2026
+- Odonien, Cologne · Fri, 31 Jul 2026
+- TBA - Galopprennbahn Freudenau, Vienna, Vienna · Sat, 20 Jun 2026
+- Sneaky Pete's, Edinburgh · Wed, 17 Jun 2026
+- Revierpark Wischlingen, Dortmund, Cologne · Sun, 24 May 2026
+- fi, Cologne · Fri, 22 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Quest at Das Zimmer
 
-Quest at Das Zimmer on Sat 3 Oct, Mannheim. 2 artists on the bill: Quest and Tino Machauer. Preview the line-up and save it on soundcheck.
+Quest at Das Zimmer on Sat 3 Oct, Mannheim. 2 artists: Quest and Tino Machauer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

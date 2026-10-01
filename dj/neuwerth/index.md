@@ -1,8 +1,8 @@
 # NEUWERTH
 
-NEUWERTH is a Techno and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Distrikt, Prague on Sat, 24 Oct 2026.
+NEUWERTH is a Techno and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distrikt, Prague on Sat, 24 Oct 2026.
 
-NEUWERTH is a techno and gabber artist based in Czech Republic, tracked on soundcheck, with 25 sets logged across Prague. Often billed alongside Nøteleks, 2NDRA and NONSENSE (CZ). Next up: Distrikt, Prague on Sat 24 Oct.
+NEUWERTH is a techno and gabber artist based in Czech Republic, with 25 gigs on soundcheck across Prague. Often billed alongside Nøteleks, 2NDRA and NONSENSE (CZ). Next up: Distrikt, Prague on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ NEUWERTH is a techno and gabber artist based in Czech Republic, tracked on sound
 
 ## Recently played
 
-- Husitská 22, Prague — Fri, 11 Sept 2026
-- Parník Tyrš, Prague — Sat, 8 Aug 2026
-- Altenburg 1964, Prague — Sat, 30 May 2026
-- Roxy, Prague — Sat, 16 May 2026
-- Altenburg 1964, Prague — Fri, 8 May 2026
-- Bike Jesus, Prague — Sat, 4 Apr 2026
-- Centrála, Prague — Fri, 13 Mar 2026
-- Roxy, Prague — Fri, 27 Feb 2026
+- Husitská 22, Prague · Fri, 11 Sept 2026
+- Parník Tyrš, Prague · Sat, 8 Aug 2026
+- Altenburg 1964, Prague · Sat, 30 May 2026
+- Roxy, Prague · Sat, 16 May 2026
+- Altenburg 1964, Prague · Fri, 8 May 2026
+- Bike Jesus, Prague · Sat, 4 Apr 2026
+- Centrála, Prague · Fri, 13 Mar 2026
+- Roxy, Prague · Fri, 27 Feb 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Laolu · ENAH · TWOFORALL at Audio Club
 
-Laolu · ENAH · TWOFORALL at Audio Club on Fri 23 Oct, Geneva. 1 artist on the bill: Laolu. Preview the line-up and save it on soundcheck.
+Laolu · ENAH · TWOFORALL at Audio Club on Fri 23 Oct, Geneva. 1 artist: Laolu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

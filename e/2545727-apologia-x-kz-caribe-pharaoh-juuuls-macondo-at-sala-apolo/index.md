@@ -1,6 +1,6 @@
 # Apologia X Kz Caribe: Pharaoh + Juuuls + Macondo at Sala Apolo
 
-Apologia X Kz Caribe: Pharaoh + Juuuls + Macondo at Sala Apolo on Sat 10 Oct, Barcelona. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+Apologia X Kz Caribe: Pharaoh + Juuuls + Macondo at Sala Apolo on Sat 10 Oct, Barcelona. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

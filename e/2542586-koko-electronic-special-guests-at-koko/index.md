@@ -1,6 +1,6 @@
 # KOKO Electronic: Special Guests at KOKO
 
-KOKO Electronic: Special Guests on Sat 10 Oct, London. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Special Guests on Sat 10 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

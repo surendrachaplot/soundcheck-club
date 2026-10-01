@@ -1,6 +1,6 @@
 # MELOKO – Sounds of Soluna with Kill Them with Colour at Soluna
 
-MELOKO – Sounds of Soluna with Kill Them with Colour on Fri 2 Oct, Toronto. 2 artists on the bill: Kill Them With Colour and Melokolektiv. Preview the line-up and save it on soundcheck.
+MELOKO – Sounds of Soluna with Kill Them with Colour on Fri 2 Oct, Toronto. 2 artists: Kill Them With Colour and Melokolektiv. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

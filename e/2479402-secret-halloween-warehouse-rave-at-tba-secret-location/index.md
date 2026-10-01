@@ -1,6 +1,6 @@
 # Secret Halloween Warehouse Rave at TBA - Secret Location
 
-Secret Halloween Warehouse Rave at TBA - Secret Location on Sat 31 Oct, London. Bass and Jungle. Preview the line-up and save it on soundcheck.
+Secret Halloween Warehouse Rave at TBA - Secret Location on Sat 31 Oct, London. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mad Radio Night at Macarena Club
 
-Mad Radio Night at Macarena Club on Thu 22 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Mad Radio Night at Macarena Club on Thu 22 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MINDGAME x MULTINOTES present: Birds of Mind & Lehar at The Crane - ADE 2026 at Crane Hotel Faralda
 
-MINDGAME x MULTINOTES present: Birds of Mind & Lehar at The Crane - ADE 2026 at Crane Hotel Faralda on Fri 23 Oct, Amsterdam. 7 artists on the bill: Amine K, Birds of Mind, Collé and Kanykei and 3 more. House and Club. Preview the line-up and save it on soundcheck.
+MINDGAME x MULTINOTES present: Birds of Mind & Lehar at The Crane - ADE 2026 at Crane Hotel Faralda on Fri 23 Oct, Amsterdam. 7 artists: Amine K, Birds of Mind, Collé and Kanykei and 3 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

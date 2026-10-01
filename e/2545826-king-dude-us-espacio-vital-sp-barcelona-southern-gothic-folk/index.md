@@ -1,6 +1,6 @@
 # King Dude (US) + Espacio Vital (SP)_Barcelona_Southern Gothic_Folk at LAUT
 
-King Dude (US) + Espacio Vital (SP)_Barcelona_Southern Gothic_Folk at LAUT on Sun 18 Oct, Barcelona. Post-Punk. Preview the line-up and save it on soundcheck.
+King Dude (US) + Espacio Vital (SP)_Barcelona_Southern Gothic_Folk at LAUT on Sun 18 Oct, Barcelona. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

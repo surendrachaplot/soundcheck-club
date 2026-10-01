@@ -1,6 +1,6 @@
 # HALLOWEEN DISKO AFRIKA at Desa Kitsune
 
-HALLOWEEN DISKO AFRIKA at Desa Kitsune on Sat 31 Oct, Bali. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
+HALLOWEEN DISKO AFRIKA at Desa Kitsune on Sat 31 Oct, Bali. Amapiano and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

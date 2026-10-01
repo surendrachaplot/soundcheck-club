@@ -1,8 +1,8 @@
 # Jamie xx
 
-Jamie xx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Nowadays, New York City on Thu, 1 Oct 2026.
+Jamie xx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nowadays, New York City on Thu, 1 Oct 2026.
 
-Jamie xx is a house and techno artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Austin, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Chloé Caillet, DJ Tennis and Honey Dijon. Next up: Nowadays, New York City on Thu 1 Oct.
+Jamie xx is a house and techno artist based in United Kingdom, with 52 gigs on soundcheck across Austin, Bali, Bangkok and Barcelona and 27 more. Often billed alongside Chloé Caillet, DJ Tennis and Honey Dijon. Next up: Nowadays, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jamie xx is a house and techno artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Pacha Ibiza, Ibiza — Sun, 12 Jul 2026
-- Teez Bar, London — Sat, 6 Jun 2026
-- Sunday Sunday, Mexico City — Sat, 4 Apr 2026
-- Corsica Studios, London — Fri, 20 Feb 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 31 Oct 2025
-- Union Park, Chicago — Fri, 29 Aug 2025
-- Domaine National de Saint-Cloud, Paris — Sat, 23 Aug 2025
-- Domaine National de Saint-Cloud, Paris — Wed, 20 Aug 2025
+- Pacha Ibiza, Ibiza · Sun, 12 Jul 2026
+- Teez Bar, London · Sat, 6 Jun 2026
+- Sunday Sunday, Mexico City · Sat, 4 Apr 2026
+- Corsica Studios, London · Fri, 20 Feb 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 31 Oct 2025
+- Union Park, Chicago · Fri, 29 Aug 2025
+- Domaine National de Saint-Cloud, Paris · Sat, 23 Aug 2025
+- Domaine National de Saint-Cloud, Paris · Wed, 20 Aug 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Jai Wolf [10 Year Anniversary Tour] at Concord Music Hall
 
-Jai Wolf [10 Year Anniversary Tour] at Concord Music Hall on Fri 6 Nov, Chicago. Preview the line-up and save it on soundcheck.
+Jai Wolf [10 Year Anniversary Tour] at Concord Music Hall on Fri 6 Nov, Chicago. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

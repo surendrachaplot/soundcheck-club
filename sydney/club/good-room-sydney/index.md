@@ -1,8 +1,8 @@
 # Good Room Sydney
 
-Good Room Sydney is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "GOOD ROOM X RSquared" on Sat, 3 Oct 2026.
+Good Room Sydney is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "GOOD ROOM X RSquared" on Sat, 3 Oct 2026.
 
-Good Room Sydney is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Aidan Bega, Joel Cantone and RSquared. Browse upcoming dates, start times and who's playing. 33 Darlinghurst Rd; Kings Cross, NSW 2011; Australia.
+Good Room Sydney is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Aidan Bega, Joel Cantone and RSquared. See dates, start times and who's playing. 33 Darlinghurst Rd; Kings Cross, NSW 2011; Australia.
 
 ## What's on
 

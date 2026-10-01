@@ -1,8 +1,8 @@
 # Alexis Taylor
 
-Alexis Taylor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Alexis Taylor is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-Alexis Taylor is a house and disco artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Barcelona, Berlin, Brighton and Cork and 12 more. Often billed alongside Erol Alkan, Hot Chip and Mike Simonetti. Next up: DRUMSHEDS, London on Sat 10 Oct.
+Alexis Taylor is a house and disco artist based in United Kingdom, with 47 gigs on soundcheck across Barcelona, Berlin, Brighton and Cork and 12 more. Often billed alongside Erol Alkan, Hot Chip and Mike Simonetti. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Alexis Taylor is a house and disco artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Sneaky Pete's, Edinburgh — Sat, 19 Sept 2026
-- ICA, London — Thu, 3 Sept 2026
-- Signature Brew Blackhorse Road, London — Sat, 1 Aug 2026
-- TBA - Site Archéologique d'Olbia, Marseille — Fri, 24 Jul 2026
-- Hidden Grooves, London — Tue, 2 Jun 2026
-- TBA - The Devlin, 117-119 Ranelagh D06 WY50 Dublin 6, Dublin — Sat, 23 May 2026
-- Kelham Island & Neepsend - Various Venues, Sheffield — Sat, 16 May 2026
-- Zebulon, Los Angeles — Sun, 10 May 2026
+- Sneaky Pete's, Edinburgh · Sat, 19 Sept 2026
+- ICA, London · Thu, 3 Sept 2026
+- Signature Brew Blackhorse Road, London · Sat, 1 Aug 2026
+- TBA - Site Archéologique d'Olbia, Marseille · Fri, 24 Jul 2026
+- Hidden Grooves, London · Tue, 2 Jun 2026
+- TBA - The Devlin, 117-119 Ranelagh D06 WY50 Dublin 6, Dublin · Sat, 23 May 2026
+- Kelham Island & Neepsend - Various Venues, Sheffield · Sat, 16 May 2026
+- Zebulon, Los Angeles · Sun, 10 May 2026
 
 ## Shares bills with
 

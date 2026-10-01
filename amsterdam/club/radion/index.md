@@ -1,8 +1,8 @@
 # RADION
 
-RADION is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "LUBE4VRIENDJES" on Fri, 2 Oct 2026.
+RADION is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "LUBE4VRIENDJES" on Fri, 2 Oct 2026.
 
-RADION is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, with line-ups including 36framez, 42nd Avenue, Justine Perry and ADHDJ and 2 more. Browse upcoming dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
+RADION is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, with line-ups including 36framez, 42nd Avenue, Justine Perry and ADHDJ and 2 more. See dates, start times and who's playing. Louwesweg 1 ,1066 EA Amsterdam.
 
 ## What's on
 

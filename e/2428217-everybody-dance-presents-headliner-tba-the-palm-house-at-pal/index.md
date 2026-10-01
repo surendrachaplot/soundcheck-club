@@ -1,6 +1,6 @@
 # Everybody Dance Presents: Headliner TBA @ The Palm House at Palm House
 
-Everybody Dance Presents: Headliner TBA @ The Palm House on Sat 14 Nov, Liverpool. House and Disco. Preview the line-up and save it on soundcheck.
+Everybody Dance Presents: Headliner TBA @ The Palm House on Sat 14 Nov, Liverpool. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

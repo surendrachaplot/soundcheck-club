@@ -1,6 +1,6 @@
 # Horror Hi-Fi at Kiku Room
 
-Horror Hi-Fi at Kiku Room on Fri 23 Oct, San Diego. 2 artists on the bill: Alex Oxley and Roxanne Roll. Electro and Italo Disco. Preview the line-up and save it on soundcheck.
+Horror Hi-Fi at Kiku Room on Fri 23 Oct, San Diego. 2 artists: Alex Oxley and Roxanne Roll. Electro and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

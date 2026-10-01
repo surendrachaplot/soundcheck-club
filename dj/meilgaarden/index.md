@@ -1,8 +1,8 @@
 # Meilgaarden
 
-Meilgaarden is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BASEMENT, New York City on Fri, 9 Oct 2026.
+Meilgaarden is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BASEMENT, New York City on Fri, 9 Oct 2026.
 
-Meilgaarden is a techno and house artist based in Sweden, tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Boston and Chicago and 9 more. Often billed alongside Ian Crane, x3butterfly and LYDO. Next up: BASEMENT, New York City on Fri 9 Oct.
+Meilgaarden is a techno and house artist based in Sweden, with 93 gigs on soundcheck across Amsterdam, Berlin, Boston and Chicago and 9 more. Often billed alongside Ian Crane, x3butterfly and LYDO. Next up: BASEMENT, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Meilgaarden is a techno and house artist based in Sweden, tracked on soundcheck,
 
 ## Recently played
 
-- Fucine Vulcano, Milan — Sat, 5 Sept 2026
-- Hangaren, Copenhagen — Sat, 29 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 22 Aug 2026
-- Vittoria Wharf Studio, London — Sat, 15 Aug 2026
-- ÆDEN, Berlin — Sat, 4 Jul 2026
-- Peckham Rye Park, London — Fri, 22 May 2026
-- The White Hotel, Manchester — Fri, 22 May 2026
-- public records, New York City — Sat, 2 May 2026
+- Fucine Vulcano, Milan · Sat, 5 Sept 2026
+- Hangaren, Copenhagen · Sat, 29 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 22 Aug 2026
+- Vittoria Wharf Studio, London · Sat, 15 Aug 2026
+- ÆDEN, Berlin · Sat, 4 Jul 2026
+- Peckham Rye Park, London · Fri, 22 May 2026
+- The White Hotel, Manchester · Fri, 22 May 2026
+- public records, New York City · Sat, 2 May 2026
 
 ## Shares bills with
 

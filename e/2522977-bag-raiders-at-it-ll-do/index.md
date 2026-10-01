@@ -1,6 +1,6 @@
 # Bag Raiders at It'll Do
 
-Bag Raiders at It'll Do on Fri 27 Nov, Dallas Fort Worth. 1 artist on the bill: Bag Raiders. Preview the line-up and save it on soundcheck.
+Bag Raiders at It'll Do on Fri 27 Nov, Dallas Fort Worth. 1 artist: Bag Raiders. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

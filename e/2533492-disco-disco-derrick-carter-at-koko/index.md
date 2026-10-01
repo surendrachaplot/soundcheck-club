@@ -1,6 +1,6 @@
 # Disco Disco: Derrick Carter at KOKO
 
-Disco Disco: Derrick Carter at KOKO on Sat 5 Dec, London. 1 artist on the bill: Derrick Carter. Preview the line-up and save it on soundcheck.
+Disco Disco: Derrick Carter at KOKO on Sat 5 Dec, London. 1 artist: Derrick Carter. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

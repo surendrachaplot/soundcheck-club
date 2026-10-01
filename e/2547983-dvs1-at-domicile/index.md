@@ -1,6 +1,6 @@
 # DVS1 at Domicile
 
-DVS1 at Domicile on Fri 9 Oct, Miami. 1 artist on the bill: DVS1. Techno. Preview the line-up and save it on soundcheck.
+DVS1 at Domicile on Fri 9 Oct, Miami. 1 artist: DVS1. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

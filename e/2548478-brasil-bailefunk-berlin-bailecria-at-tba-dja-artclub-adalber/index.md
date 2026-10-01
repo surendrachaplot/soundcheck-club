@@ -1,6 +1,6 @@
 # BRASIL BAILEFUNK - BERLIN BAILECRIA at TBA - DJA ARTCLUB - ADALBERTSTR 98 KOTTI
 
-BRASIL BAILEFUNK - BERLIN BAILECRIA at TBA - DJA ARTCLUB - ADALBERTSTR 98 KOTTI on Sat 17 Oct, Berlin. Baile Funk and Afro Tech. Preview the line-up and save it on soundcheck.
+BRASIL BAILEFUNK - BERLIN BAILECRIA at TBA - DJA ARTCLUB - ADALBERTSTR 98 KOTTI on Sat 17 Oct, Berlin. Baile Funk and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

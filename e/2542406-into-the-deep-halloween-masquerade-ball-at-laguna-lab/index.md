@@ -1,6 +1,6 @@
 # Into The Deep - Halloween Masquerade Ball at Laguna Lab
 
-Into The Deep - Halloween Masquerade Ball at Laguna Lab on Sat 31 Oct, California. 4 artists on the bill: 40 Thieves, Doc Martin, Galen and Shiny Objects. Preview the line-up and save it on soundcheck.
+Into The Deep - Halloween Masquerade Ball at Laguna Lab on Sat 31 Oct, California. 4 artists: 40 Thieves, Doc Martin, Galen and Shiny Objects. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

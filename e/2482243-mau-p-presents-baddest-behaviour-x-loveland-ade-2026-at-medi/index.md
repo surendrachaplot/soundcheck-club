@@ -1,6 +1,6 @@
 # Mau P presents Baddest Behaviour x Loveland - ADE 2026 at Mediahaven - Minervahaven
 
-Mau P presents Baddest Behaviour x Loveland - ADE 2026 at Mediahaven - Minervahaven on Thu 22 Oct, Amsterdam. 1 artist on the bill: Mau P. House. Preview the line-up and save it on soundcheck.
+Mau P presents Baddest Behaviour x Loveland - ADE 2026 at Mediahaven - Minervahaven on Thu 22 Oct, Amsterdam. 1 artist: Mau P. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ Ant (US)
 
-DJ Ant (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mood Ring, New York City on Sat, 3 Oct 2026.
+DJ Ant (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Sat, 3 Oct 2026.
 
-DJ Ant (US) is a techno and club artist based in United States of America, tracked on soundcheck, with 18 sets logged across New York City and Seattle. Often billed alongside BUNZ, Peregrine (US) and egavas. Next up: Mood Ring, New York City on Sat 3 Oct.
+DJ Ant (US) is a techno and club artist based in United States of America, with 18 gigs on soundcheck across New York City and Seattle. Often billed alongside BUNZ, Peregrine (US) and egavas. Next up: Mood Ring, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Ant (US) is a techno and club artist based in United States of America, track
 
 ## Recently played
 
-- Mood Ring, New York City — Sat, 12 Sept 2026
-- Bossa Nova Civic Club, New York City — Mon, 26 Jan 2026
-- Jupiter Disco, New York City — Thu, 2 Oct 2025
-- Mood Ring, New York City — Sat, 23 Aug 2025
-- Bossa Nova Civic Club, New York City — Wed, 26 Mar 2025
-- Otherworld, Seattle — Sat, 15 Mar 2025
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 14 Mar 2025
-- Rash, New York City — Sun, 15 Dec 2024
+- Mood Ring, New York City · Sat, 12 Sept 2026
+- Bossa Nova Civic Club, New York City · Mon, 26 Jan 2026
+- Jupiter Disco, New York City · Thu, 2 Oct 2025
+- Mood Ring, New York City · Sat, 23 Aug 2025
+- Bossa Nova Civic Club, New York City · Wed, 26 Mar 2025
+- Otherworld, Seattle · Sat, 15 Mar 2025
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 14 Mar 2025
+- Rash, New York City · Sun, 15 Dec 2024
 
 ## Shares bills with
 

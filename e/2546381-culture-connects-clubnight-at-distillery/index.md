@@ -1,6 +1,6 @@
 # Culture Connects Clubnight at Distillery
 
-Culture Connects Clubnight at Distillery on Fri 9 Oct, Leipzig. Garage and Acid. Preview the line-up and save it on soundcheck.
+Culture Connects Clubnight at Distillery on Fri 9 Oct, Leipzig. Garage and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

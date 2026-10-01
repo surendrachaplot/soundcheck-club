@@ -1,6 +1,6 @@
 # Tokyo After Dark: ZIPANG at Blend XL
 
-Tokyo After Dark: ZIPANG at Blend XL on Fri 23 Oct, Amsterdam. 2 artists on the bill: JEEN SEIGO and You Liang. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Tokyo After Dark: ZIPANG at Blend XL on Fri 23 Oct, Amsterdam. 2 artists: JEEN SEIGO and You Liang. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

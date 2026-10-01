@@ -1,6 +1,6 @@
 # Kinktopya Helloween Special at Geheimclub
 
-Kinktopya Helloween Special at Geheimclub on Fri 30 Oct, Saxony Anhalt. 10 artists on the bill: Early Bird, FREIGEISTER, GOLD and Hexen and 6 more. Preview the line-up and save it on soundcheck.
+Kinktopya Helloween Special at Geheimclub on Fri 30 Oct, Saxony Anhalt. 10 artists: Early Bird, FREIGEISTER, GOLD and Hexen and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

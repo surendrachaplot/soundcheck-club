@@ -1,6 +1,6 @@
 # RITES OF NOISE (10th Edition) at Het Bos
 
-RITES OF NOISE (10th Edition) at Het Bos on Wed 7 Oct, Antwerp. Preview the line-up and save it on soundcheck.
+RITES OF NOISE (10th Edition) at Het Bos on Wed 7 Oct, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

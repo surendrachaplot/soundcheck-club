@@ -1,6 +1,6 @@
 # Parable: Eli & Fur, Eynka, NOHR + more at Ministry Of Sound
 
-Parable: Eli & Fur, Eynka, NOHR + more at Ministry Of Sound on Fri 9 Oct, London. 7 artists on the bill: Asch Pintura, Eli & Fur, Eynka and Innerstice and 3 more. House. Preview the line-up and save it on soundcheck.
+Parable: Eli & Fur, Eynka, NOHR + more at Ministry Of Sound on Fri 9 Oct, London. 7 artists: Asch Pintura, Eli & Fur, Eynka and Innerstice and 3 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

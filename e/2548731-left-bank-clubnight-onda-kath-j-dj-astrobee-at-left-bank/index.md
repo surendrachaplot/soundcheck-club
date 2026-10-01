@@ -1,6 +1,6 @@
 # Left Bank Clubnight: Onda • Kath J • DJ Astrobee at Left Bank
 
-Left Bank Clubnight: Onda • Kath J • DJ Astrobee on Fri 2 Oct, Tbilisi. 3 artists on the bill: Kath J, Lila Turanga and Onda. Preview the line-up and save it on soundcheck.
+Left Bank Clubnight: Onda • Kath J • DJ Astrobee on Fri 2 Oct, Tbilisi. 3 artists: Kath J, Lila Turanga and Onda. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

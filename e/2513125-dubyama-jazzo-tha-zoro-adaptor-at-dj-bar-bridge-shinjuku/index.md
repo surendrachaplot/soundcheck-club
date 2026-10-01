@@ -1,6 +1,6 @@
 # Dubyama Jazzo, THA ZORO & Adaptor at DJ Bar Bridge Shinjuku
 
-Dubyama Jazzo, THA ZORO & Adaptor at DJ Bar Bridge Shinjuku on Thu 8 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+Dubyama Jazzo, THA ZORO & Adaptor at DJ Bar Bridge Shinjuku on Thu 8 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

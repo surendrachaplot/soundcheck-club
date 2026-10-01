@@ -1,6 +1,6 @@
 # What's Golden - True School Hip Hop with DJ Robert Smith, Marc Hype & Frank Popp at Lido Berlin
 
-What's Golden - True School Hip Hop with DJ Robert Smith, Marc Hype & Frank Popp at Lido Berlin on Fri 23 Oct, Berlin. Hip-Hop and Funk / Soul. Preview the line-up and save it on soundcheck.
+What's Golden - True School Hip Hop with DJ Robert Smith, Marc Hype & Frank Popp at Lido Berlin on Fri 23 Oct, Berlin. Hip-Hop and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

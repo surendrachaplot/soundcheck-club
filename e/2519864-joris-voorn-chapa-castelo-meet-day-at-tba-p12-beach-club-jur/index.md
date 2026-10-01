@@ -1,6 +1,6 @@
 # Joris Voorn, Chapa & Castelo, Meet Day at TBA - P12 Beach Club, Jurerê, Florianopolis
 
-Joris Voorn, Chapa & Castelo, Meet Day at TBA - P12 Beach Club, Jurerê, Florianopolis on Fri 15 Jan, Brazil. 3 artists on the bill: Bob Tosh, Chapa & Castelo and Joris Voorn. Preview the line-up and save it on soundcheck.
+Joris Voorn, Chapa & Castelo, Meet Day at TBA - P12 Beach Club, Jurerê, Florianopolis on Fri 15 Jan, Brazil. 3 artists: Bob Tosh, Chapa & Castelo and Joris Voorn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

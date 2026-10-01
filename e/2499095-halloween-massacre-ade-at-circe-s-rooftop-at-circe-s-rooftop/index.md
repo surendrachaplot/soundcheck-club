@@ -1,6 +1,6 @@
 # HALLOWEEN MASSACRE-ADE AT CIRCE'S ROOFTOP at Circe’S Rooftop
 
-HALLOWEEN MASSACRE-ADE AT CIRCE'S ROOFTOP at Circe’S Rooftop on Sat 31 Oct, London. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+HALLOWEEN MASSACRE-ADE AT CIRCE'S ROOFTOP at Circe’S Rooftop on Sat 31 Oct, London. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

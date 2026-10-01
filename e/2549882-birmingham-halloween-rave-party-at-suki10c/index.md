@@ -1,6 +1,6 @@
 # Birmingham Halloween Rave Party at Suki10c
 
-Birmingham Halloween Rave Party at Suki10c on Fri 30 Oct, Birmingham. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Birmingham Halloween Rave Party at Suki10c on Fri 30 Oct, Birmingham. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Galère sucrée au Lieu Unique at Le Lieu Unique / Nantes
 
-Galère sucrée au Lieu Unique at Le Lieu Unique / Nantes on Sat 17 Oct, Nantes. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Galère sucrée au Lieu Unique at Le Lieu Unique / Nantes on Sat 17 Oct, Nantes. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

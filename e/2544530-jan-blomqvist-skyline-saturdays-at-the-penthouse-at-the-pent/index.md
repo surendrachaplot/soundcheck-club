@@ -1,6 +1,6 @@
 # Jan Blomqvist - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai
 
-Jan Blomqvist - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai on Sat 24 Oct, Dubai. 1 artist on the bill: Jan Blomqvist. Preview the line-up and save it on soundcheck.
+Jan Blomqvist - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai on Sat 24 Oct, Dubai. 1 artist: Jan Blomqvist. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

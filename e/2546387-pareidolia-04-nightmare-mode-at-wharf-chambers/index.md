@@ -1,6 +1,6 @@
 # Pareidolia:04 - Nightmare Mode at Wharf Chambers
 
-Pareidolia:04 - Nightmare Mode at Wharf Chambers on Fri 30 Oct, Leeds. 3 artists on the bill: Blood of Aza, Princess Elf Bar and Stolen Velour. Hardcore and Experimental. Preview the line-up and save it on soundcheck.
+Pareidolia:04 - Nightmare Mode at Wharf Chambers on Fri 30 Oct, Leeds. 3 artists: Blood of Aza, Princess Elf Bar and Stolen Velour. Hardcore and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

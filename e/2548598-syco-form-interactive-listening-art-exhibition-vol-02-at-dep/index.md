@@ -1,6 +1,6 @@
 # SYCO+FORM: Interactive Listening & Art Exhibition Vol.02 at Department.en
 
-SYCO+FORM: Interactive Listening & Art Exhibition Vol.02 at Department.en on Sat 17 Oct, Seoul. 3 artists on the bill: dguru, DJ SIN and Mogwaa. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+SYCO+FORM: Interactive Listening & Art Exhibition Vol.02 at Department.en on Sat 17 Oct, Seoul. 3 artists: dguru, DJ SIN and Mogwaa. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

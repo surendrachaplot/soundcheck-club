@@ -1,6 +1,6 @@
 # Spook conection + Special K at Spook Club
 
-Spook conection + Special K at Spook Club on Sat 21 Nov, Valencia. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Spook conection + Special K at Spook Club on Sat 21 Nov, Valencia. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

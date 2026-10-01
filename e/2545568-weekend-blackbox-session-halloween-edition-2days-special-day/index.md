@@ -1,6 +1,6 @@
 # WEEKEND BLACKBOX SESSION - HALLOWEEN EDITION 2DAYS SPECIAL DAY2:YOKAI NIGHT -SPIRITS OF JAPAN- at W Osaka
 
-WEEKEND BLACKBOX SESSION - HALLOWEEN EDITION 2DAYS SPECIAL DAY2:YOKAI NIGHT -SPIRITS OF JAPAN- at W Osaka on Sat 31 Oct, Osaka. 6 artists on the bill: DMITRI ABSINTHE, idiotYuuka, MAX PELA and Nanako Yamane and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+WEEKEND BLACKBOX SESSION - HALLOWEEN EDITION 2DAYS SPECIAL DAY2:YOKAI NIGHT -SPIRITS OF JAPAN- at W Osaka on Sat 31 Oct, Osaka. 6 artists: DMITRI ABSINTHE, idiotYuuka, MAX PELA and Nanako Yamane and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

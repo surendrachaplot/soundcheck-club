@@ -1,6 +1,6 @@
 # playground sound system at Taproomx
 
-playground sound system at Taproomx on Sat 3 Oct, Istanbul. House and Broken Beat. Preview the line-up and save it on soundcheck.
+playground sound system at Taproomx on Sat 3 Oct, Istanbul. House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

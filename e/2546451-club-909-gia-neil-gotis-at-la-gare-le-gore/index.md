@@ -1,6 +1,6 @@
 # CLUB 909: GIA NEIL & GOTIS at La Gare / Le Gore
 
-CLUB 909: GIA NEIL & GOTIS at La Gare / Le Gore on Sun 4 Oct, Paris. 1 artist on the bill: GOTIS. Techno. Preview the line-up and save it on soundcheck.
+CLUB 909: GIA NEIL & GOTIS at La Gare / Le Gore on Sun 4 Oct, Paris. 1 artist: GOTIS. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

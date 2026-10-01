@@ -1,6 +1,6 @@
 # FAM JAM PRESENTS: Punky and the Brain at Last Arch
 
-FAM JAM PRESENTS: Punky and the Brain at Last Arch on Fri 13 Nov, London. 5 artists on the bill: Calla, LEWY, OTIS and Paul Lution and 1 more. Techno and Experimental. Preview the line-up and save it on soundcheck.
+FAM JAM PRESENTS: Punky and the Brain at Last Arch on Fri 13 Nov, London. 5 artists: Calla, LEWY, OTIS and Paul Lution and 1 more. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Lost Signal My Aeon at My Aeon
 
-Lost Signal My Aeon on Fri 16 Oct, Melbourne. Psytrance. Preview the line-up and save it on soundcheck.
+Lost Signal My Aeon on Fri 16 Oct, Melbourne. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

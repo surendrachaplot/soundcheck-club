@@ -1,6 +1,6 @@
 # The Beirut Groove Collective Club-night at The Jago
 
-The Beirut Groove Collective Club-night at The Jago on Fri 9 Oct, London. 2 artists on the bill: Ernesto Chahoud and Natalie Shooter. Disco and Club. Preview the line-up and save it on soundcheck.
+The Beirut Groove Collective Club-night at The Jago on Fri 9 Oct, London. 2 artists: Ernesto Chahoud and Natalie Shooter. Disco and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

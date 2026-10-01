@@ -1,6 +1,6 @@
 # SLPFNK X Yoyaku ADE at Klaproos
 
-SLPFNK X Yoyaku ADE at Klaproos on Sat 24 Oct, Amsterdam. 8 artists on the bill: Alexander Skancke, DJ Senc, Magda and Mari.te and 4 more. Preview the line-up and save it on soundcheck.
+SLPFNK X Yoyaku ADE at Klaproos on Sat 24 Oct, Amsterdam. 8 artists: Alexander Skancke, DJ Senc, Magda and Mari.te and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

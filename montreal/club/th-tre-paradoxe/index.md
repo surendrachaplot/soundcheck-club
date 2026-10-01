@@ -1,8 +1,8 @@
 # Théâtre Paradoxe
 
-Théâtre Paradoxe is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Cirque De Boudoir presents: BLACK MASS HALLOWEEN 2026 - 20th Anniversary" on Sat, 31 Oct 2026.
+Théâtre Paradoxe is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Cirque De Boudoir presents: BLACK MASS HALLOWEEN 2026 - 20th Anniversary" on Sat, 31 Oct 2026.
 
-Théâtre Paradoxe is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including DJ Davidé and Omni. Browse upcoming dates, start times and who's playing. 5959 Monk Boulevard, Montréal, QC H4E 3H5.
+Théâtre Paradoxe is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including DJ Davidé and Omni. See dates, start times and who's playing. 5959 Monk Boulevard, Montréal, QC H4E 3H5.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Origins: The Ghost (All Day Long) at FOLD
 
-Origins: The Ghost (All Day Long) at FOLD on Sat 31 Oct, London. 1 artist on the bill: The Ghost. House and Deep House. Preview the line-up and save it on soundcheck.
+Origins: The Ghost (All Day Long) at FOLD on Sat 31 Oct, London. 1 artist: The Ghost. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

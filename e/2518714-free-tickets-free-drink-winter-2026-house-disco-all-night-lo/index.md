@@ -1,6 +1,6 @@
 # FREE TICKETS + FREE DRINK: WINTER 2026 – House & Disco ALL NIGHT LONG at The Steel Yard
 
-FREE TICKETS + FREE DRINK: WINTER 2026 – House & Disco ALL NIGHT LONG at The Steel Yard on Fri 13 Nov, London. House and Disco. Preview the line-up and save it on soundcheck.
+FREE TICKETS + FREE DRINK: WINTER 2026 – House & Disco ALL NIGHT LONG at The Steel Yard on Fri 13 Nov, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

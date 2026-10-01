@@ -1,6 +1,6 @@
 # Jamboree - 4th Birthday with Lora Mipsum, Yela, Jenson & Robbo at Club Cheek
 
-Jamboree - 4th Birthday with Lora Mipsum, Yela, Jenson & Robbo at Club Cheek on Sat 19 Dec, London. 4 artists on the bill: Jenson., Lora Mipsum, Robbo and Yela. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Jamboree - 4th Birthday with Lora Mipsum, Yela, Jenson & Robbo at Club Cheek on Sat 19 Dec, London. 4 artists: Jenson., Lora Mipsum, Robbo and Yela. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

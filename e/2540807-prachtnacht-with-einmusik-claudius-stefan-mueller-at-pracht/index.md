@@ -1,6 +1,6 @@
 # PrachtNACHT with Einmusik, Claudius, stefan mueller // ᴛɪᴄᴋᴇᴛꜱ ᴏɴ ꜱᴀʟᴇ ɴᴏᴡ at Pracht
 
-PrachtNACHT with Einmusik, Claudius, stefan mueller // ᴛɪᴄᴋᴇᴛꜱ ᴏɴ ꜱᴀʟᴇ ɴᴏᴡ on Sat 17 Oct, Frankfurt. 3 artists on the bill: Claudius (DE), Einmusik and stefan mueller. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+PrachtNACHT with Einmusik, Claudius, stefan mueller // ᴛɪᴄᴋᴇᴛꜱ ᴏɴ ꜱᴀʟᴇ ɴᴏᴡ on Sat 17 Oct, Frankfurt. 3 artists: Claudius (DE), Einmusik and stefan mueller. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

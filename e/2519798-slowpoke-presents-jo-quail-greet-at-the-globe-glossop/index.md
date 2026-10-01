@@ -1,6 +1,6 @@
 # Slowpoke presents: Jo Quail + Greet at The Globe, Glossop
 
-Slowpoke presents: Jo Quail + Greet at The Globe, Glossop on Thu 22 Oct, Manchester. Preview the line-up and save it on soundcheck.
+Slowpoke presents: Jo Quail + Greet at The Globe, Glossop on Thu 22 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

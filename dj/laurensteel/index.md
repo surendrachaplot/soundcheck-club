@@ -1,8 +1,8 @@
 # Lauren Steel
 
-Lauren Steel is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Club Up, Amsterdam on Thu, 22 Oct 2026.
+Lauren Steel is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Up, Amsterdam on Thu, 22 Oct 2026.
 
-Lauren Steel is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam, Brighton and London. Often billed alongside Danny Snowden, Ethan Jenner and GUEST (UK). Next up: Club Up, Amsterdam on Thu 22 Oct.
+Lauren Steel is a house and deep house artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam, Brighton and London. Often billed alongside Danny Snowden, Ethan Jenner and GUEST (UK). Next up: Club Up, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -14,10 +14,10 @@ Lauren Steel is a house and deep house artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- DRUMSHEDS, London — Fri, 27 Feb 2026
-- Arcadia Loungebar, Bexleyheath, London — Fri, 7 Nov 2025
-- Concorde 2, Brighton — Sat, 8 Jun 2024
-- Oculist, Brighton — Sat, 5 Aug 2023
+- DRUMSHEDS, London · Fri, 27 Feb 2026
+- Arcadia Loungebar, Bexleyheath, London · Fri, 7 Nov 2025
+- Concorde 2, Brighton · Sat, 8 Jun 2024
+- Oculist, Brighton · Sat, 5 Aug 2023
 
 ## Shares bills with
 

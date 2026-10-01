@@ -1,6 +1,6 @@
 # ORBITAL RECORDINGS X MEZZANINE PT2 at Mezzanine - Tooting
 
-ORBITAL RECORDINGS X MEZZANINE PT2 at Mezzanine - Tooting on Sat 28 Nov, London. 2 artists on the bill: Counter Culture and Shaddows. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+ORBITAL RECORDINGS X MEZZANINE PT2 at Mezzanine - Tooting on Sat 28 Nov, London. 2 artists: Counter Culture and Shaddows. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

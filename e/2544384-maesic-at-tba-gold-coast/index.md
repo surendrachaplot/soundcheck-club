@@ -1,6 +1,6 @@
 # Maesic at TBA - Gold Coast
 
-Maesic at TBA - Gold Coast on Sat 17 Oct, Chicago. House and Afro House. Preview the line-up and save it on soundcheck.
+Maesic at TBA - Gold Coast on Sat 17 Oct, Chicago. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

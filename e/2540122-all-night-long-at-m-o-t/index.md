@@ -1,6 +1,6 @@
 # ????????? all night long at M.O.T
 
-????????? all night long at M.O.T on Fri 4 Dec, London. Techno and Electro. Preview the line-up and save it on soundcheck.
+????????? all night long at M.O.T on Fri 4 Dec, London. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

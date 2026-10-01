@@ -1,8 +1,8 @@
 # Sven Weisemann
 
-Sven Weisemann is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paloma, Berlin on Fri, 30 Oct 2026.
+Sven Weisemann is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Fri, 30 Oct 2026.
 
-Sven Weisemann is a house and techno artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin, Hamburg, Leipzig and New York City. Often billed alongside Luca Olivotto, Nephews and Eva Crystaltips. Next up: Paloma, Berlin on Fri 30 Oct.
+Sven Weisemann is a house and techno artist based in Germany, with 54 gigs on soundcheck across Berlin, Hamburg, Leipzig and New York City. Often billed alongside Luca Olivotto, Nephews and Eva Crystaltips. Next up: Paloma, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sven Weisemann is a house and techno artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- ://about blank, Berlin — Sat, 26 Sept 2026
-- OXI, Berlin — Sat, 15 Aug 2026
-- MS Artville, Hamburg — Sat, 18 Jul 2026
-- Jonny Knüppel, Berlin — Sat, 30 May 2026
-- OXI, Berlin — Fri, 1 May 2026
-- KitKatClub, Berlin — Fri, 3 Apr 2026
-- Golden Gate, Berlin — Fri, 13 Mar 2026
-- Südpol, Hamburg — Fri, 13 Mar 2026
+- ://about blank, Berlin · Sat, 26 Sept 2026
+- OXI, Berlin · Sat, 15 Aug 2026
+- MS Artville, Hamburg · Sat, 18 Jul 2026
+- Jonny Knüppel, Berlin · Sat, 30 May 2026
+- OXI, Berlin · Fri, 1 May 2026
+- KitKatClub, Berlin · Fri, 3 Apr 2026
+- Golden Gate, Berlin · Fri, 13 Mar 2026
+- Südpol, Hamburg · Fri, 13 Mar 2026
 
 ## Shares bills with
 

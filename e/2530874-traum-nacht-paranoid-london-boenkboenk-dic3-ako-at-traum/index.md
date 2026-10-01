@@ -1,6 +1,6 @@
 # Traum Nacht: Paranoid London, BoenkBoenk, DIC3, Ako at TRAUM
 
-Traum Nacht: Paranoid London, BoenkBoenk, DIC3, Ako at TRAUM on Fri 23 Oct, Antwerp. 1 artist on the bill: Paranoid London. Acid and Electronica. Preview the line-up and save it on soundcheck.
+Traum Nacht: Paranoid London, BoenkBoenk, DIC3, Ako at TRAUM on Fri 23 Oct, Antwerp. 1 artist: Paranoid London. Acid and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

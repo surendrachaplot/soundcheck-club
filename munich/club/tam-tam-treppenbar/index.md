@@ -1,8 +1,8 @@
 # TAM TAM Treppenbar
 
-TAM TAM Treppenbar is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Morph Kollektiv" on Thu, 1 Oct 2026.
+TAM TAM Treppenbar is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Morph Kollektiv" on Thu, 1 Oct 2026.
 
-TAM TAM Treppenbar is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including aufleguan. Browse upcoming dates, start times and who's playing. Hildegardstraße 1, 80539 München.
+TAM TAM Treppenbar is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including aufleguan. See dates, start times and who's playing. Hildegardstraße 1, 80539 München.
 
 ## What's on
 

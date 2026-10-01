@@ -1,8 +1,8 @@
 # Drinkss
 
-Drinkss is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
+Drinkss is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ooba Camping Village, Tokyo on Fri, 16 Oct 2026.
 
-Drinkss is a techno and house artist based in Japan, tracked on soundcheck, with 25 sets logged across Tokyo. Often billed alongside uuu7, Anapol and SuperUser. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
+Drinkss is a techno and house artist based in Japan, with 25 gigs on soundcheck across Tokyo. Often billed alongside uuu7, Anapol and SuperUser. Next up: Ooba Camping Village, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Drinkss is a techno and house artist based in Japan, tracked on soundcheck, with
 
 ## Recently played
 
-- UTOPIA / DYSTOPIA, Tokyo — Fri, 24 Jul 2026
-- Secret Venue in Minatoku-Nishiazabu, Tokyo — Sat, 4 Jul 2026
-- Utopia/Dystopia, Tokyo — Fri, 5 Jun 2026
-- VENT, Tokyo — Fri, 22 May 2026
-- VENT, Tokyo — Fri, 22 May 2026
-- Z Maruyama, Tokyo — Tue, 28 Apr 2026
-- Garden Shinkiba Factory, Tokyo — Fri, 24 Apr 2026
-- Secret Venue in Minatoku-Nishiazabu, Tokyo — Sat, 11 Apr 2026
+- UTOPIA / DYSTOPIA, Tokyo · Fri, 24 Jul 2026
+- Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 4 Jul 2026
+- Utopia/Dystopia, Tokyo · Fri, 5 Jun 2026
+- VENT, Tokyo · Fri, 22 May 2026
+- VENT, Tokyo · Fri, 22 May 2026
+- Z Maruyama, Tokyo · Tue, 28 Apr 2026
+- Garden Shinkiba Factory, Tokyo · Fri, 24 Apr 2026
+- Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 11 Apr 2026
 
 ## Shares bills with
 

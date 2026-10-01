@@ -1,6 +1,6 @@
 # Under Current 10 oct at Bangkok Island
 
-Under Current 10 oct at Bangkok Island on Sat 10 Oct, Bangkok. Minimal. Preview the line-up and save it on soundcheck.
+Under Current 10 oct at Bangkok Island on Sat 10 Oct, Bangkok. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

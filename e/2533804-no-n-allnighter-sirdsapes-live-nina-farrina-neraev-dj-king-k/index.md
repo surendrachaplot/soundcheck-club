@@ -1,6 +1,6 @@
 # Nočná: AllNighter – SIRDSAPES live + Nina Farrina + Neraev + DJ King Kobra at Nova Cvernovka
 
-Nočná: AllNighter – SIRDSAPES live + Nina Farrina + Neraev + DJ King Kobra at Nova Cvernovka on Fri 16 Oct, Bratislava. 3 artists on the bill: DJ KING KOBRA, Nina Farrina and SIRDSAPES. Preview the line-up and save it on soundcheck.
+Nočná: AllNighter – SIRDSAPES live + Nina Farrina + Neraev + DJ King Kobra at Nova Cvernovka on Fri 16 Oct, Bratislava. 3 artists: DJ KING KOBRA, Nina Farrina and SIRDSAPES. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

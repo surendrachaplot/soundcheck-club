@@ -1,8 +1,8 @@
 # STUKES
 
-STUKES is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+STUKES is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
-STUKES is a techno and house artist based in United States of America, tracked on soundcheck, with 36 sets logged across Detroit, Los Angeles, New York City and San Francisco/Oakland and 1 more. Often billed alongside B_X_R_N_X_R_D, Xav (US) and DAIYAH. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+STUKES is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Detroit, Los Angeles, New York City and San Francisco/Oakland and 1 more. Often billed alongside B_X_R_N_X_R_D, Xav (US) and DAIYAH. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ STUKES is a techno and house artist based in United States of America, tracked o
 
 ## Recently played
 
-- Neptune Room, Washington DC — Sun, 16 Aug 2026
-- TRANSMISSION DC, Washington DC — Sat, 1 Aug 2026
-- La Fabrica, Washington DC — Sat, 25 Jul 2026
-- Northern Lights Lounge, Detroit — Sun, 24 May 2026
-- TBA - 7824 Mount Elliott St, Detroit , Detroit — Fri, 22 May 2026
-- TBA - 1124 Congress St NE, 2nd Floor - Fabrica, Washington DC — Sat, 14 Mar 2026
-- Neptune Room, Washington DC — Sun, 14 Dec 2025
-- Flash, Washington DC — Fri, 3 Oct 2025
+- Neptune Room, Washington DC · Sun, 16 Aug 2026
+- TRANSMISSION DC, Washington DC · Sat, 1 Aug 2026
+- La Fabrica, Washington DC · Sat, 25 Jul 2026
+- Northern Lights Lounge, Detroit · Sun, 24 May 2026
+- TBA - 7824 Mount Elliott St, Detroit , Detroit · Fri, 22 May 2026
+- TBA - 1124 Congress St NE, 2nd Floor - Fabrica, Washington DC · Sat, 14 Mar 2026
+- Neptune Room, Washington DC · Sun, 14 Dec 2025
+- Flash, Washington DC · Fri, 3 Oct 2025
 
 ## Shares bills with
 

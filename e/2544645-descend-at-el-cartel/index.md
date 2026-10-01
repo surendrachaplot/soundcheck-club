@@ -1,6 +1,6 @@
 # DESCEND at El Cartel
 
-DESCEND at El Cartel on Fri 16 Oct, New York City. Techno. Preview the line-up and save it on soundcheck.
+DESCEND at El Cartel on Fri 16 Oct, New York City. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

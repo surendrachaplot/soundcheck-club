@@ -1,8 +1,8 @@
 # Altinbas
 
-Altinbas is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tokonoma Club, Frankfurt on Sat, 3 Oct 2026.
+Altinbas is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tokonoma Club, Frankfurt on Sat, 3 Oct 2026.
 
-Altinbas is a techno and house artist based in Belgium, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Tokonoma Club, Frankfurt on Sat 3 Oct.
+Altinbas is a techno and house artist based in Belgium, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside GiGi FM, Phara and Marie-Julie. Next up: Tokonoma Club, Frankfurt on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Altinbas is a techno and house artist based in Belgium, tracked on soundcheck, w
 
 ## Recently played
 
-- Open Ground, Wuppertal — Sat, 26 Sept 2026
-- Nitsa Club, Barcelona — Fri, 25 Sept 2026
-- CLUB RAUM, Amsterdam — Sat, 22 Aug 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
-- Holešovická Tržnice, Prague — Sat, 1 Aug 2026
-- BASEMENT, New York City — Sat, 25 Jul 2026
-- Artheater, Cologne — Fri, 17 Jul 2026
+- Open Ground, Wuppertal · Sat, 26 Sept 2026
+- Nitsa Club, Barcelona · Fri, 25 Sept 2026
+- CLUB RAUM, Amsterdam · Sat, 22 Aug 2026
+- Parc des Etangs/Vijverspark, Brussels · Fri, 14 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 8 Aug 2026
+- Holešovická Tržnice, Prague · Sat, 1 Aug 2026
+- BASEMENT, New York City · Sat, 25 Jul 2026
+- Artheater, Cologne · Fri, 17 Jul 2026
 
 ## Shares bills with
 

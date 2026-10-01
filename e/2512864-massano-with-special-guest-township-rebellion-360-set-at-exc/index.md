@@ -1,6 +1,6 @@
 # Massano with Special Guest: Township Rebellion [360° Set] at Exchange LA
 
-Massano with Special Guest: Township Rebellion [360° Set] at Exchange LA on Sat 14 Nov, Los Angeles. 2 artists on the bill: Massano and Township Rebellion. Techno and House. Preview the line-up and save it on soundcheck.
+Massano with Special Guest: Township Rebellion [360° Set] at Exchange LA on Sat 14 Nov, Los Angeles. 2 artists: Massano and Township Rebellion. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

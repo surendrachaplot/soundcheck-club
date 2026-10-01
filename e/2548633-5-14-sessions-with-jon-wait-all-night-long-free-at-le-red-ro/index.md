@@ -1,6 +1,6 @@
 # 5:14 Sessions with Jon Wait [All Night Long - Free] at Le Red Room
 
-5:14 Sessions with Jon Wait [All Night Long - Free] at Le Red Room on Tue 13 Oct, Montreal. 1 artist on the bill: InFiltr. Techno. Preview the line-up and save it on soundcheck.
+5:14 Sessions with Jon Wait [All Night Long - Free] at Le Red Room on Tue 13 Oct, Montreal. 1 artist: InFiltr. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

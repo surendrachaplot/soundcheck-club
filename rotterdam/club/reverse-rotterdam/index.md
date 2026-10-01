@@ -1,8 +1,8 @@
 # Reverse Rotterdam
 
-Reverse Rotterdam is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "KYIVSTONER - LAST CLUB SHOW TOUR" on Fri, 16 Oct 2026.
+Reverse Rotterdam is a music venue in Rotterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "KYIVSTONER - LAST CLUB SHOW TOUR" on Fri, 16 Oct 2026.
 
-Reverse Rotterdam is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Schiestraat 40 , 3013 AG Rotterdam.
+Reverse Rotterdam is a music venue in Rotterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Schiestraat 40 , 3013 AG Rotterdam.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Jody Wisternoff
 
-Jody Wisternoff is a Progressive House and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Thugshop Warehouse, Singapore on Sat, 3 Oct 2026.
+Jody Wisternoff is a Progressive House and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Thugshop Warehouse, Singapore on Sat, 3 Oct 2026.
 
-Jody Wisternoff is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Amsterdam, Auckland, Austin and Barcelona and 35 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: Thugshop Warehouse, Singapore on Sat 3 Oct.
+Jody Wisternoff is a progressive house and house artist based in United Kingdom, with 106 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 35 more. Often billed alongside Marsh, Nicky Elisabeth and Dosem. Next up: Thugshop Warehouse, Singapore on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ Jody Wisternoff is a progressive house and house artist based in United Kingdom,
 
 ## Recently played
 
-- R Lounge, Tokyo — Wed, 30 Sept 2026
-- or, Tokyo — Sat, 26 Sept 2026
-- TBA, London — Sat, 5 Sept 2026
-- TBA - La Biblioteca, San Telmo, Buenos Aires — Sat, 15 Aug 2026
-- Old Royal Naval College, London — Sun, 9 Aug 2026
-- Life Park, Istanbul — Sat, 1 Aug 2026
-- Level 8 DTLA, Los Angeles — Sat, 25 Jul 2026
-- Bauhaus, Houston — Sat, 11 Jul 2026
+- R Lounge, Tokyo · Wed, 30 Sept 2026
+- or, Tokyo · Sat, 26 Sept 2026
+- TBA, London · Sat, 5 Sept 2026
+- TBA - La Biblioteca, San Telmo, Buenos Aires · Sat, 15 Aug 2026
+- Old Royal Naval College, London · Sun, 9 Aug 2026
+- Life Park, Istanbul · Sat, 1 Aug 2026
+- Level 8 DTLA, Los Angeles · Sat, 25 Jul 2026
+- Bauhaus, Houston · Sat, 11 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # New Horizon: Takeover Planet Wax at Planet Wax
 
-New Horizon: Takeover Planet Wax on Fri 27 Nov, London. 4 artists on the bill: Andy Foundations, EN.VEE, Joe Joiner and Nicky B. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+New Horizon: Takeover Planet Wax on Fri 27 Nov, London. 4 artists: Andy Foundations, EN.VEE, Joe Joiner and Nicky B. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

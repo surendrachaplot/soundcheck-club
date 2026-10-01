@@ -1,8 +1,8 @@
 # Luke Solomon
 
-Luke Solomon is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Luke Solomon is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
-Luke Solomon is a house and disco artist based in United Kingdom, tracked on soundcheck, with 73 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Honey Dijon, Horse Meat Disco and The Shapeshifters. Next up: UNO MALTA, Malta on Thu 1 Oct.
+Luke Solomon is a house and disco artist based in United Kingdom, with 73 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 15 more. Often billed alongside Honey Dijon, Horse Meat Disco and The Shapeshifters. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Luke Solomon is a house and disco artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Fri, 25 Sept 2026
-- Patterns, Brighton — Fri, 28 Aug 2026
-- Steelyard Kelham, Sheffield — Sat, 1 Aug 2026
-- Space, Leeds — Sat, 18 Jul 2026
-- KOKO, London — Fri, 10 Jul 2026
-- The Eagle, London — Sun, 17 May 2026
-- Cabaret Voltaire, Edinburgh — Sat, 16 May 2026
-- Gibus Club, Paris — Sat, 28 Mar 2026
+- Amnesia Ibiza, Ibiza · Fri, 25 Sept 2026
+- Patterns, Brighton · Fri, 28 Aug 2026
+- Steelyard Kelham, Sheffield · Sat, 1 Aug 2026
+- Space, Leeds · Sat, 18 Jul 2026
+- KOKO, London · Fri, 10 Jul 2026
+- The Eagle, London · Sun, 17 May 2026
+- Cabaret Voltaire, Edinburgh · Sat, 16 May 2026
+- Gibus Club, Paris · Sat, 28 Mar 2026
 
 ## Shares bills with
 

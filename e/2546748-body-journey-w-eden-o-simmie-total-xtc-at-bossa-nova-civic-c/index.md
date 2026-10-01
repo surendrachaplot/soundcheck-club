@@ -1,6 +1,6 @@
 # Body Journey w/ EDEN, O'SIMMIE & Total XTC at Bossa Nova Civic Club
 
-Body Journey w/ EDEN, O'SIMMIE & Total XTC at Bossa Nova Civic Club on Sat 10 Oct, New York City. 3 artists on the bill: EDEN BEKELE, O'SIMMIE and Total XTC. Bass and Club. Preview the line-up and save it on soundcheck.
+Body Journey w/ EDEN, O'SIMMIE & Total XTC at Bossa Nova Civic Club on Sat 10 Oct, New York City. 3 artists: EDEN BEKELE, O'SIMMIE and Total XTC. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

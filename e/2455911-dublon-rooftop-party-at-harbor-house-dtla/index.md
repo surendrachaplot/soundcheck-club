@@ -1,6 +1,6 @@
 # Dublon [rooftop party] at Harbor House DTLA
 
-Dublon [rooftop party] at Harbor House DTLA on Fri 9 Oct, Los Angeles. 3 artists on the bill: Dublon, Mayari and Xica Soul. House and Jazz. Preview the line-up and save it on soundcheck.
+Dublon [rooftop party] at Harbor House DTLA on Fri 9 Oct, Los Angeles. 3 artists: Dublon, Mayari and Xica Soul. House and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

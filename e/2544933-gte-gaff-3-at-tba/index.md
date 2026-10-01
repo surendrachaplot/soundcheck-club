@@ -1,6 +1,6 @@
 # GTE GAFF 3 at TBA
 
-GTE GAFF 3 at TBA on Thu 5 Nov, Glasgow. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
+GTE GAFF 3 at TBA on Thu 5 Nov, Glasgow. Hip-Hop and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

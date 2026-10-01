@@ -1,8 +1,8 @@
 # ABOUT SOFIYA
 
-ABOUT SOFIYA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Melkweg, Amsterdam on Fri, 2 Oct 2026.
+ABOUT SOFIYA is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Melkweg, Amsterdam on Fri, 2 Oct 2026.
 
-ABOUT SOFIYA is a techno and tech house artist based in Japan, tracked on soundcheck, with 24 sets logged across Amsterdam and Tokyo. Often billed alongside Secret Cinema, Stephane K and THE RATA. Next up: Melkweg, Amsterdam on Fri 2 Oct.
+ABOUT SOFIYA is a techno and tech house artist based in Japan, with 24 gigs on soundcheck across Amsterdam and Tokyo. Often billed alongside Secret Cinema, Stephane K and THE RATA. Next up: Melkweg, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ ABOUT SOFIYA is a techno and tech house artist based in Japan, tracked on soundc
 
 ## Recently played
 
-- T Adresss, Amsterdam — Sat, 6 Jun 2026
-- TBA - Secret location in Nishi Azabu, Tokyo — Tue, 5 May 2026
-- Enter Shibuya, Tokyo — Wed, 29 Apr 2026
-- WOMB, Tokyo — Thu, 23 Apr 2026
-- Daikanyama ORD., Tokyo — Sat, 21 Mar 2026
-- Yellow House, Amsterdam — Sat, 20 Dec 2025
-- WOMB, Tokyo — Thu, 4 Dec 2025
-- VENT, Tokyo — Sun, 23 Nov 2025
+- T Adresss, Amsterdam · Sat, 6 Jun 2026
+- TBA - Secret location in Nishi Azabu, Tokyo · Tue, 5 May 2026
+- Enter Shibuya, Tokyo · Wed, 29 Apr 2026
+- WOMB, Tokyo · Thu, 23 Apr 2026
+- Daikanyama ORD., Tokyo · Sat, 21 Mar 2026
+- Yellow House, Amsterdam · Sat, 20 Dec 2025
+- WOMB, Tokyo · Thu, 4 Dec 2025
+- VENT, Tokyo · Sun, 23 Nov 2025
 
 ## Shares bills with
 

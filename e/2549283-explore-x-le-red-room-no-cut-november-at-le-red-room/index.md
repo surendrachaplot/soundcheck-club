@@ -1,6 +1,6 @@
 # Explore x Le Red Room - No Cut November at Le Red Room
 
-Explore x Le Red Room - No Cut November on Thu 26 Nov, Montreal. Techno and Gabber. Preview the line-up and save it on soundcheck.
+Explore x Le Red Room - No Cut November on Thu 26 Nov, Montreal. Techno and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

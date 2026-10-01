@@ -1,6 +1,6 @@
 # FANTASM [All Night Long] at The OVO Hydro
 
-FANTASM [All Night Long] at The OVO Hydro on Fri 26 Feb, Glasgow. 1 artist on the bill: Fantasm. Preview the line-up and save it on soundcheck.
+FANTASM [All Night Long] at The OVO Hydro on Fri 26 Feb, Glasgow. 1 artist: Fantasm. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

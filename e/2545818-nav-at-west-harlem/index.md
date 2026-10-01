@@ -1,6 +1,6 @@
 # Nav at West Harlem
 
-Nav at West Harlem on Wed 7 Oct, Kyoto. 3 artists on the bill: Ryogo, Tui and Vís. Techno and House. Preview the line-up and save it on soundcheck.
+Nav at West Harlem on Wed 7 Oct, Kyoto. 3 artists: Ryogo, Tui and Vís. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

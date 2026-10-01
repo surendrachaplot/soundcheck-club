@@ -1,6 +1,6 @@
 # Invites Dan Andrei at teller
 
-Invites Dan Andrei at teller on Sat 3 Oct, Seoul. 3 artists on the bill: Dan Andrei, Kibum and Oho.. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Invites Dan Andrei at teller on Sat 3 Oct, Seoul. 3 artists: Dan Andrei, Kibum and Oho.. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

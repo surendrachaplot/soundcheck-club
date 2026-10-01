@@ -1,6 +1,6 @@
 # Full Circle Antwerp at TBA
 
-Full Circle Antwerp at TBA on Tue 10 Nov, Antwerp. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Full Circle Antwerp at TBA on Tue 10 Nov, Antwerp. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

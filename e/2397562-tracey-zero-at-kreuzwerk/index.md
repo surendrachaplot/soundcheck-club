@@ -1,6 +1,6 @@
 # tracey zero at KREUZWERK
 
-tracey zero at KREUZWERK on Sun 11 Oct, Berlin. 8 artists on the bill: ADAM MUNNINGS, Amowia, Daniel Berj and DJ Petite and 4 more. Preview the line-up and save it on soundcheck.
+tracey zero at KREUZWERK on Sun 11 Oct, Berlin. 8 artists: ADAM MUNNINGS, Amowia, Daniel Berj and DJ Petite and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Leon Vynehall & Yu Su at Fidelity Studio
 
-Leon Vynehall & Yu Su at Fidelity Studio on Sat 17 Oct, Dublin. 2 artists on the bill: Leon Vynehall and Yu Su. Preview the line-up and save it on soundcheck.
+Leon Vynehall & Yu Su at Fidelity Studio on Sat 17 Oct, Dublin. 2 artists: Leon Vynehall and Yu Su. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ISR PRESENTS ØRPHIC B2B ANL at The Sound House
 
-ISR PRESENTS ØRPHIC B2B ANL at The Sound House on Fri 16 Oct, Dublin. Techno. Preview the line-up and save it on soundcheck.
+ISR PRESENTS ØRPHIC B2B ANL at The Sound House on Fri 16 Oct, Dublin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

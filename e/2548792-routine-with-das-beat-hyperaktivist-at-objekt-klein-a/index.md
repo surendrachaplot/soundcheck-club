@@ -1,6 +1,6 @@
 # ROUTINE with Das Beat & Hyperaktivist at objekt klein a
 
-ROUTINE with Das Beat & Hyperaktivist at objekt klein a on Sat 3 Oct, Dresden. 4 artists on the bill: Desperate House Guy, DJ Frank, hardi and Hyperaktivist. Preview the line-up and save it on soundcheck.
+ROUTINE with Das Beat & Hyperaktivist at objekt klein a on Sat 3 Oct, Dresden. 4 artists: Desperate House Guy, DJ Frank, hardi and Hyperaktivist. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "BAPHO" on Thu, 1 Oct 2026.
+R Lounge is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BAPHO" on Thu, 1 Oct 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including --- mr ---, 雷庵(RYan), AKIRAM EN and ASSIGN and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including --- mr ---, 雷庵(RYan), AKIRAM EN and ASSIGN and 2 more. See dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 

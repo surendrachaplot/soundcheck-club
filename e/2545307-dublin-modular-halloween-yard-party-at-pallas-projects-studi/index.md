@@ -1,6 +1,6 @@
 # Dublin Modular Halloween Yard Party at Pallas Projects Studios
 
-Dublin Modular Halloween Yard Party at Pallas Projects Studios on Sat 31 Oct, Dublin. 3 artists on the bill: Alba, Síofra and Tadhg K. Progressive House and House. Preview the line-up and save it on soundcheck.
+Dublin Modular Halloween Yard Party at Pallas Projects Studios on Sat 31 Oct, Dublin. 3 artists: Alba, Síofra and Tadhg K. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

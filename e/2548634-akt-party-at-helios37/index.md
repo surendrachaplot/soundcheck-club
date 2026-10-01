@@ -1,6 +1,6 @@
 # akt Party at Helios37
 
-akt Party at Helios37 on Fri 6 Nov, Cologne. 2 artists on the bill: Meg10 and no:elia. Tech House and Reggaeton. Preview the line-up and save it on soundcheck.
+akt Party at Helios37 on Fri 6 Nov, Cologne. 2 artists: Meg10 and no:elia. Tech House and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

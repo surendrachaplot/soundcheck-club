@@ -1,6 +1,6 @@
 # BEATE WIRD ZWÖLF at Beate Uwe
 
-BEATE WIRD ZWÖLF at Beate Uwe on Sat 7 Nov, Berlin. 4 artists on the bill: Kon Faber, Ligal Tamir, Nora Wolkenstein and Pauli Pocket. Techno and House. Preview the line-up and save it on soundcheck.
+BEATE WIRD ZWÖLF at Beate Uwe on Sat 7 Nov, Berlin. 4 artists: Kon Faber, Ligal Tamir, Nora Wolkenstein and Pauli Pocket. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Night Market Thursdays at Night Market
 
-Night Market Thursdays on Thu 1 Oct, Milan. 1 artist on the bill: CRHERZ. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
+Night Market Thursdays on Thu 1 Oct, Milan. 1 artist: CRHERZ. Italo Disco and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

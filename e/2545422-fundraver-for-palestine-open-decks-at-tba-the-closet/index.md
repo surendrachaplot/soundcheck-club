@@ -1,6 +1,6 @@
 # FundRaver for Palestine: Open Decks at TBA - The Closet
 
-FundRaver for Palestine: Open Decks at TBA - The Closet on Fri 2 Oct, Vancouver. Preview the line-up and save it on soundcheck.
+FundRaver for Palestine: Open Decks at TBA - The Closet on Fri 2 Oct, Vancouver. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

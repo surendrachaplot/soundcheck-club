@@ -1,8 +1,8 @@
 # Mandrake
 
-Mandrake is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Life Park, Istanbul on Sat, 10 Oct 2026.
+Mandrake is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Life Park, Istanbul on Sat, 10 Oct 2026.
 
-Mandrake is a house and deep house artist based in Mexico, tracked on soundcheck, with 42 sets logged across Berlin, Buenos Aires, Istanbul and London and 10 more. Often billed alongside Chris Schwarzwälder, Mira and Britta Arnold. Next up: Life Park, Istanbul on Sat 10 Oct.
+Mandrake is a house and deep house artist based in Mexico, with 42 gigs on soundcheck across Berlin, Buenos Aires, Istanbul and London and 10 more. Often billed alongside Chris Schwarzwälder, Mira and Britta Arnold. Next up: Life Park, Istanbul on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Mandrake is a house and deep house artist based in Mexico, tracked on soundcheck
 
 ## Recently played
 
-- Do Not Sit On The Furniture, Miami — Sat, 8 Aug 2026
-- The Onyx Room at House of Yes, New York City — Fri, 7 Aug 2026
-- Kater, Berlin — Fri, 3 Jul 2026
-- Lion's Den, Miami — Sat, 9 May 2026
-- M.N.Roy, Mexico City — Sat, 18 Apr 2026
-- Fünk, Mexico City — Sat, 28 Mar 2026
-- TBA, Mexico City — Fri, 13 Mar 2026
-- M.N.Roy, Mexico City — Thu, 5 Feb 2026
+- Do Not Sit On The Furniture, Miami · Sat, 8 Aug 2026
+- The Onyx Room at House of Yes, New York City · Fri, 7 Aug 2026
+- Kater, Berlin · Fri, 3 Jul 2026
+- Lion's Den, Miami · Sat, 9 May 2026
+- M.N.Roy, Mexico City · Sat, 18 Apr 2026
+- Fünk, Mexico City · Sat, 28 Mar 2026
+- TBA, Mexico City · Fri, 13 Mar 2026
+- M.N.Roy, Mexico City · Thu, 5 Feb 2026
 
 ## Shares bills with
 

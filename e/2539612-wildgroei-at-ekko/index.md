@@ -1,6 +1,6 @@
 # Wildgroei at EKKO
 
-Wildgroei at EKKO on Fri 16 Oct, Utrecht. Electro and Pop. Preview the line-up and save it on soundcheck.
+Wildgroei at EKKO on Fri 16 Oct, Utrecht. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

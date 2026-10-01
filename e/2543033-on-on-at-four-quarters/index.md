@@ -1,6 +1,6 @@
 # On&on at Four Quarters
 
-On&on at Four Quarters on Sat 17 Oct, London. House and Deep House. Preview the line-up and save it on soundcheck.
+On&on at Four Quarters on Sat 17 Oct, London. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

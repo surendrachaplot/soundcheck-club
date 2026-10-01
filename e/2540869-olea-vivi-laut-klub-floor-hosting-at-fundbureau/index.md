@@ -1,6 +1,6 @@
 # OLEA // vivi // LAUT KLUB FLOOR HOSTING at Fundbureau
 
-OLEA // vivi // LAUT KLUB FLOOR HOSTING at Fundbureau on Sat 17 Oct, Hamburg. 2 artists on the bill: OLEA and vivi. Techno and Tech House. Preview the line-up and save it on soundcheck.
+OLEA // vivi // LAUT KLUB FLOOR HOSTING at Fundbureau on Sat 17 Oct, Hamburg. 2 artists: OLEA and vivi. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Antonio Vendone
 
-Antonio Vendone is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mssng Pieces, London on Sat, 3 Oct 2026.
+Antonio Vendone is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mssng Pieces, London on Sat, 3 Oct 2026.
 
-Antonio Vendone is a disco and house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London and Nottingham. Often billed alongside Atjazz, Faro and Ian McArthur. Next up: Mssng Pieces, London on Sat 3 Oct.
+Antonio Vendone is a disco and house artist based in United Kingdom, with 3 gigs on soundcheck across London and Nottingham. Often billed alongside Atjazz, Faro and Ian McArthur. Next up: Mssng Pieces, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ Antonio Vendone is a disco and house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Suede Bar, Nottingham — Sat, 15 Jul 2023
+- Suede Bar, Nottingham · Sat, 15 Jul 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Warmth TBA at Ormside Projects
 
-Warmth TBA at Ormside Projects on Sat 24 Oct, London. Club. Preview the line-up and save it on soundcheck.
+Warmth TBA at Ormside Projects on Sat 24 Oct, London. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

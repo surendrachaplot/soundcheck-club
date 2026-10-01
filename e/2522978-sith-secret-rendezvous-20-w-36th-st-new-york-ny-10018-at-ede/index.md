@@ -1,6 +1,6 @@
 # SITH: SECRET RENDEZVOUS - 20 W 36th St., New York, NY 10018 at Eden NYC
 
-SITH: SECRET RENDEZVOUS - 20 W 36th St., New York, NY 10018 at Eden NYC on Fri 2 Oct, New York City. 5 artists on the bill: Ashley Younniä, Baronhawk Poitier, Brett Dancer and Karizma and 1 more. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+SITH: SECRET RENDEZVOUS - 20 W 36th St., New York, NY 10018 at Eden NYC on Fri 2 Oct, New York City. 5 artists: Ashley Younniä, Baronhawk Poitier, Brett Dancer and Karizma and 1 more. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

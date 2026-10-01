@@ -1,6 +1,6 @@
 # African Head Charge 45th Anniversary at Future Yard
 
-African Head Charge 45th Anniversary at Future Yard on Sat 7 Nov, Liverpool. 1 artist on the bill: African Head Charge. Preview the line-up and save it on soundcheck.
+African Head Charge 45th Anniversary at Future Yard on Sat 7 Nov, Liverpool. 1 artist: African Head Charge. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

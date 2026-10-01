@@ -1,6 +1,6 @@
 # Twinspinsz ↠ Kassian, Special Guest & Dual Monitor at Phonox
 
-Twinspinsz ↠ Kassian, Special Guest & Dual Monitor at Phonox on Thu 10 Dec, London. 2 artists on the bill: Dual Monitor and Kassian. House and Bass. Preview the line-up and save it on soundcheck.
+Twinspinsz ↠ Kassian, Special Guest & Dual Monitor at Phonox on Thu 10 Dec, London. 2 artists: Dual Monitor and Kassian. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

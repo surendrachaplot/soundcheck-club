@@ -1,6 +1,6 @@
 # Brother Strut at Pilgrim
 
-Brother Strut at Pilgrim on Thu 22 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Brother Strut at Pilgrim on Thu 22 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

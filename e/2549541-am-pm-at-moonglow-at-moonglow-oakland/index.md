@@ -1,6 +1,6 @@
 # AM:PM at Moonglow at Moonglow Oakland
 
-AM:PM at Moonglow at Moonglow Oakland on Thu 1 Oct, San Francisco/Oakland. House and Electronica. Preview the line-up and save it on soundcheck.
+AM:PM at Moonglow at Moonglow Oakland on Thu 1 Oct, San Francisco/Oakland. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

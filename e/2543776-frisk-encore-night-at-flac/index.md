@@ -1,6 +1,6 @@
 # FRISK: Encore night at Flac
 
-FRISK: Encore night at Flac on Sun 4 Oct, Seoul. 4 artists on the bill: Davico, Demuk, Departs and Sudowoo. House and Tech House. Preview the line-up and save it on soundcheck.
+FRISK: Encore night at Flac on Sun 4 Oct, Seoul. 4 artists: Davico, Demuk, Departs and Sudowoo. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

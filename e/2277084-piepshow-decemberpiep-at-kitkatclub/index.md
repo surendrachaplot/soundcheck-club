@@ -1,6 +1,6 @@
 # PiepShow - DecemberPiep at KitKatClub
 
-PiepShow - DecemberPiep at KitKatClub on Fri 18 Dec, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+PiepShow - DecemberPiep at KitKatClub on Fri 18 Dec, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

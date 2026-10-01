@@ -1,6 +1,6 @@
 # TÕ YÕ + Daisy Confused // B.L.O. Kantine Berlin at B.L.O-Ateliers
 
-TÕ YÕ + Daisy Confused // B.L.O. Kantine Berlin at B.L.O-Ateliers on Sun 8 Nov, Berlin. Preview the line-up and save it on soundcheck.
+TÕ YÕ + Daisy Confused // B.L.O. Kantine Berlin at B.L.O-Ateliers on Sun 8 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

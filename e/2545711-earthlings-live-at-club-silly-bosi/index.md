@@ -1,6 +1,6 @@
 # Earthlings Live at Club Silly (Bosi)
 
-Earthlings Live at Club Silly (Bosi) on Sat 7 Nov, London. Preview the line-up and save it on soundcheck.
+Earthlings Live at Club Silly (Bosi) on Sat 7 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

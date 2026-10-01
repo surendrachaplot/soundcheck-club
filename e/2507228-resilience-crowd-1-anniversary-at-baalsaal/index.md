@@ -1,6 +1,6 @@
 # RESILIENCE CROWD #1 ANNIVERSARY at Baalsaal
 
-RESILIENCE CROWD #1 ANNIVERSARY at Baalsaal on Sat 7 Nov, Hamburg. Techno. Preview the line-up and save it on soundcheck.
+RESILIENCE CROWD #1 ANNIVERSARY at Baalsaal on Sat 7 Nov, Hamburg. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

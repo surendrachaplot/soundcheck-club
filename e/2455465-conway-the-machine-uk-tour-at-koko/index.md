@@ -1,6 +1,6 @@
 # Conway the Machine UK Tour at KOKO
 
-Conway the Machine UK Tour at KOKO on Wed 28 Oct, London. Hip-Hop. Preview the line-up and save it on soundcheck.
+Conway the Machine UK Tour at KOKO on Wed 28 Oct, London. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NOTION at The Roundhouse at The Roundhouse
 
-NOTION at The Roundhouse on Sat 28 Nov, London. Preview the line-up and save it on soundcheck.
+NOTION at The Roundhouse on Sat 28 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

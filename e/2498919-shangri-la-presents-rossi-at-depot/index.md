@@ -1,6 +1,6 @@
 # Shangri-La presents: Rossi at Depot
 
-Shangri-La presents: Rossi at Depot on Fri 9 Oct, Cardiff. 1 artist on the bill: Rossi. Preview the line-up and save it on soundcheck.
+Shangri-La presents: Rossi at Depot on Fri 9 Oct, Cardiff. 1 artist: Rossi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

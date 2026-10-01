@@ -1,8 +1,8 @@
 # Nat SuPrise
 
-Nat SuPrise is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+Nat SuPrise is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
-Nat SuPrise is a techno and house artist based in Germany, tracked on soundcheck, with 88 sets logged across Berlin. Often billed alongside Sika Akis, Kaminka Merel and Mijk van Dijk. Next up: KitKatClub, Berlin on Fri 2 Oct.
+Nat SuPrise is a techno and house artist based in Germany, with 88 gigs on soundcheck across Berlin. Often billed alongside Sika Akis, Kaminka Merel and Mijk van Dijk. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Nat SuPrise is a techno and house artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Der Weiße Hase, Berlin — Fri, 18 Sept 2026
-- Spindler & Klatt, Berlin — Sat, 12 Sept 2026
-- SAGE, Berlin — Sun, 30 Aug 2026
-- Ritter Butzke, Berlin — Sat, 29 Aug 2026
-- Ritter Butzke, Berlin — Sat, 29 Aug 2026
-- Der Weiße Hase, Berlin — Fri, 21 Aug 2026
-- Der Weiße Hase, Berlin — Fri, 14 Aug 2026
-- Der Weiße Hase, Berlin — Fri, 24 Jul 2026
+- Der Weiße Hase, Berlin · Fri, 18 Sept 2026
+- Spindler & Klatt, Berlin · Sat, 12 Sept 2026
+- SAGE, Berlin · Sun, 30 Aug 2026
+- Ritter Butzke, Berlin · Sat, 29 Aug 2026
+- Ritter Butzke, Berlin · Sat, 29 Aug 2026
+- Der Weiße Hase, Berlin · Fri, 21 Aug 2026
+- Der Weiße Hase, Berlin · Fri, 14 Aug 2026
+- Der Weiße Hase, Berlin · Fri, 24 Jul 2026
 
 ## Shares bills with
 

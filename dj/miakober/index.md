@@ -1,8 +1,8 @@
 # Mia Kober
 
-Mia Kober is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Beate Uwe, Berlin on Sun, 4 Oct 2026.
+Mia Kober is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beate Uwe, Berlin on Sun, 4 Oct 2026.
 
-Mia Kober is a house and techno artist based in New Zealand, tracked on soundcheck, with 35 sets logged across Auckland, Berlin, Copenhagen and Munich. Often billed alongside DirdyGerdi, Dylan C and Sanoi. Next up: Beate Uwe, Berlin on Sun 4 Oct.
+Mia Kober is a house and techno artist based in New Zealand, with 35 gigs on soundcheck across Auckland, Berlin, Copenhagen and Munich. Often billed alongside DirdyGerdi, Dylan C and Sanoi. Next up: Beate Uwe, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mia Kober is a house and techno artist based in New Zealand, tracked on soundche
 
 ## Recently played
 
-- Klunkerkranich, Berlin — Thu, 24 Sept 2026
-- Hangaren, Copenhagen — Thu, 27 Aug 2026
-- gART.n, Berlin — Sun, 12 Jul 2026
-- Klunkerkranich, Berlin — Fri, 12 Jun 2026
-- Silent Studios, Auckland — Sat, 25 Apr 2026
-- The Tuning Fork, Auckland — Thu, 26 Mar 2026
-- The Tuning Fork, Auckland — Sat, 14 Mar 2026
-- Saint Leonards Brewing, Auckland — Sun, 8 Mar 2026
+- Klunkerkranich, Berlin · Thu, 24 Sept 2026
+- Hangaren, Copenhagen · Thu, 27 Aug 2026
+- gART.n, Berlin · Sun, 12 Jul 2026
+- Klunkerkranich, Berlin · Fri, 12 Jun 2026
+- Silent Studios, Auckland · Sat, 25 Apr 2026
+- The Tuning Fork, Auckland · Thu, 26 Mar 2026
+- The Tuning Fork, Auckland · Sat, 14 Mar 2026
+- Saint Leonards Brewing, Auckland · Sun, 8 Mar 2026
 
 ## Shares bills with
 

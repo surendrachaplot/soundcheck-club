@@ -1,6 +1,6 @@
 # Paradise (Space Basel 2026) at Club Space Miami
 
-Paradise (Space Basel 2026) at Club Space Miami on Thu 3 Dec, Miami. 1 artist on the bill: Jamie Jones. Techno and House. Preview the line-up and save it on soundcheck.
+Paradise (Space Basel 2026) at Club Space Miami on Thu 3 Dec, Miami. 1 artist: Jamie Jones. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

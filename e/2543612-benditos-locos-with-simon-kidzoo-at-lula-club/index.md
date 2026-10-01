@@ -1,6 +1,6 @@
 # Benditos Locos with Simon Kidzoo at Lula Club
 
-Benditos Locos with Simon Kidzoo at Lula Club on Thu 22 Oct, Madrid. 1 artist on the bill: Simon Kidzoo. Preview the line-up and save it on soundcheck.
+Benditos Locos with Simon Kidzoo at Lula Club on Thu 22 Oct, Madrid. 1 artist: Simon Kidzoo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

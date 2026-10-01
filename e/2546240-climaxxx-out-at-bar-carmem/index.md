@@ -1,6 +1,6 @@
 # Climaxxx Out at Bar Carmem
 
-Climaxxx Out at Bar Carmem on Fri 2 Oct, Sao Paulo. 1 artist on the bill: Jerônimo Sodré. Acid and EBM. Preview the line-up and save it on soundcheck.
+Climaxxx Out at Bar Carmem on Fri 2 Oct, Sao Paulo. 1 artist: Jerônimo Sodré. Acid and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

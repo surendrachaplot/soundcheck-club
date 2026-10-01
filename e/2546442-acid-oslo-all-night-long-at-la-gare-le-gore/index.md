@@ -1,6 +1,6 @@
 # Acid Oslo ALL NIGHT LONG at La Gare / Le Gore
 
-Acid Oslo ALL NIGHT LONG at La Gare / Le Gore on Mon 28 Sept, Paris. 1 artist on the bill: Acid Oslo. Techno. Preview the line-up and save it on soundcheck.
+Acid Oslo ALL NIGHT LONG at La Gare / Le Gore on Mon 28 Sept, Paris. 1 artist: Acid Oslo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

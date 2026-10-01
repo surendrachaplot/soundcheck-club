@@ -1,6 +1,6 @@
 # Planet Zogg Halloween Ball at Yellow Arch Studios
 
-Planet Zogg Halloween Ball at Yellow Arch Studios on Fri 30 Oct, Sheffield. Drum & Bass and Psytrance. Preview the line-up and save it on soundcheck.
+Planet Zogg Halloween Ball at Yellow Arch Studios on Fri 30 Oct, Sheffield. Drum & Bass and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

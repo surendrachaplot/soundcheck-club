@@ -1,6 +1,6 @@
 # Manuva with blissy e, Donsurf b2b Last Nubian at The Fox and Firkin
 
-Manuva with blissy e, Donsurf b2b Last Nubian at The Fox and Firkin on Sat 10 Oct, London. 2 artists on the bill: blissy e and Last Nubian. Breakbeat and Funk / Soul. Preview the line-up and save it on soundcheck.
+Manuva with blissy e, Donsurf b2b Last Nubian at The Fox and Firkin on Sat 10 Oct, London. 2 artists: blissy e and Last Nubian. Breakbeat and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

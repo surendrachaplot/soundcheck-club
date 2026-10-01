@@ -1,6 +1,6 @@
 # HOUSE OF GARDEN at rake?raka?
 
-HOUSE OF GARDEN at rake?raka? on Fri 2 Oct, Osaka. 2 artists on the bill: fb5 and Tokumoto. House and Tech House. Preview the line-up and save it on soundcheck.
+HOUSE OF GARDEN at rake?raka? on Fri 2 Oct, Osaka. 2 artists: fb5 and Tokumoto. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

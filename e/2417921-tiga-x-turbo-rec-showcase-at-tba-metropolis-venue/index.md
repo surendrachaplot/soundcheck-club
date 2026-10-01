@@ -1,6 +1,6 @@
 # Tiga x Turbo Rec. Showcase at TBA - Metropolis Venue
 
-Tiga x Turbo Rec. Showcase at TBA - Metropolis Venue on Sat 10 Oct, Lithuania. 3 artists on the bill: DJ JM, Tiga and VHS Library. Preview the line-up and save it on soundcheck.
+Tiga x Turbo Rec. Showcase at TBA - Metropolis Venue on Sat 10 Oct, Lithuania. 3 artists: DJ JM, Tiga and VHS Library. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

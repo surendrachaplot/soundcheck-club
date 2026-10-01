@@ -1,6 +1,6 @@
 # Juicy Gang Meets Explorers at Tokonoma Club
 
-Juicy Gang Meets Explorers at Tokonoma Club on Fri 30 Oct, Frankfurt. 9 artists on the bill: Alas, Back2Bass, Bitter Babe and DJ MELL G and 5 more. Preview the line-up and save it on soundcheck.
+Juicy Gang Meets Explorers at Tokonoma Club on Fri 30 Oct, Frankfurt. 9 artists: Alas, Back2Bass, Bitter Babe and DJ MELL G and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

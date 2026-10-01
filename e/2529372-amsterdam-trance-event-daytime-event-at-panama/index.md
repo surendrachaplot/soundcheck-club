@@ -1,6 +1,6 @@
 # Amsterdam Trance Event - Daytime Event at Panama
 
-Amsterdam Trance Event - Daytime Event at Panama on Sat 24 Oct, Amsterdam. 2 artists on the bill: Mark Wilks and Nathia Kate. Trance. Preview the line-up and save it on soundcheck.
+Amsterdam Trance Event - Daytime Event at Panama on Sat 24 Oct, Amsterdam. 2 artists: Mark Wilks and Nathia Kate. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

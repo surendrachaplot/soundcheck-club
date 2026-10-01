@@ -1,8 +1,8 @@
 # Inafekt
 
-Inafekt is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
+Inafekt is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Mash House, Edinburgh on Sat, 10 Oct 2026.
 
-Inafekt is a house and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 15 more. Often billed alongside Kyle Starkey, Entasia and DART. Next up: The Mash House, Edinburgh on Sat 10 Oct.
+Inafekt is a house and techno artist based in United Kingdom, with 57 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Bali and 15 more. Often billed alongside Kyle Starkey, Entasia and DART. Next up: The Mash House, Edinburgh on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Inafekt is a house and techno artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Night Tales Loft, London — Sat, 26 Sept 2026
-- Club Vaag, Antwerp — Sat, 15 Aug 2026
-- Colorado Charlie, The Hague — Fri, 24 Jul 2026
-- Curveball, Dublin — Sat, 18 Jul 2026
-- Strijkviertel, Utrecht — Sat, 6 Jun 2026
-- Ruigenhoek, Utrecht — Sat, 30 May 2026
-- High Lights - Barking Park, London — Sat, 23 May 2026
-- Antwerp Expo, Antwerp — Sat, 18 Apr 2026
+- Night Tales Loft, London · Sat, 26 Sept 2026
+- Club Vaag, Antwerp · Sat, 15 Aug 2026
+- Colorado Charlie, The Hague · Fri, 24 Jul 2026
+- Curveball, Dublin · Sat, 18 Jul 2026
+- Strijkviertel, Utrecht · Sat, 6 Jun 2026
+- Ruigenhoek, Utrecht · Sat, 30 May 2026
+- High Lights - Barking Park, London · Sat, 23 May 2026
+- Antwerp Expo, Antwerp · Sat, 18 Apr 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Lillie
 
-Lillie is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Toekomstmuziek, Amsterdam on Fri, 23 Oct 2026.
+Lillie is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Toekomstmuziek, Amsterdam on Fri, 23 Oct 2026.
 
-Lillie is a trance and techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Amsterdam, Berlin, Brussels and Cologne and 2 more. Often billed alongside DJ Parabolspiegel, EZA (DE) and Flohmarkt. Next up: Toekomstmuziek, Amsterdam on Fri 23 Oct.
+Lillie is a trance and techno artist based in Germany, with 9 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 2 more. Often billed alongside DJ Parabolspiegel, EZA (DE) and Flohmarkt. Next up: Toekomstmuziek, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lillie is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Nashaz, Brussels — Sat, 29 Aug 2026
-- Circle Park, Brussels — Sat, 16 May 2026
-- Saloon, Tokyo — Sat, 18 Apr 2026
-- Void Club, Berlin — Sat, 11 Apr 2026
-- Liquid Club, Malta — Fri, 20 Mar 2026
-- Void Club, Berlin — Sat, 21 Feb 2026
-- Reineke Fuchs, Cologne — Fri, 30 Jan 2026
-- Open Air Gelände vom Wellenwerk, Berlin — Sat, 25 May 2024
+- Nashaz, Brussels · Sat, 29 Aug 2026
+- Circle Park, Brussels · Sat, 16 May 2026
+- Saloon, Tokyo · Sat, 18 Apr 2026
+- Void Club, Berlin · Sat, 11 Apr 2026
+- Liquid Club, Malta · Fri, 20 Mar 2026
+- Void Club, Berlin · Sat, 21 Feb 2026
+- Reineke Fuchs, Cologne · Fri, 30 Jan 2026
+- Open Air Gelände vom Wellenwerk, Berlin · Sat, 25 May 2024
 
 ## Shares bills with
 

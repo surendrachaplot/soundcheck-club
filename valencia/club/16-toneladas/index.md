@@ -1,8 +1,8 @@
 # 16 Toneladas
 
-16 Toneladas is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is " Volumens Closing Party: DJ Marcelle (3 hour set) , Saint Abdullah & Eomac (live) more tba" on Sat, 17 Oct 2026.
+16 Toneladas is a music venue in Valencia with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is " Volumens Closing Party: DJ Marcelle (3 hour set) , Saint Abdullah & Eomac (live) more tba" on Sat, 17 Oct 2026.
 
-16 Toneladas is a music venue in Valencia listed on soundcheck. 1 upcoming gig, with line-ups including DJ Marcelle and Eomac. Browse upcoming dates, start times and who's playing. C/ de Ricardo Micó, 3, Campanar, 46009 València.
+16 Toneladas is a music venue in Valencia listed on soundcheck. 1 upcoming gig, with line-ups including DJ Marcelle and Eomac. See dates, start times and who's playing. C/ de Ricardo Micó, 3, Campanar, 46009 València.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Curves presents: Jubei, Tyrone, + residents at The Lubber Fiend
 
-Curves presents: Jubei, Tyrone, + residents at The Lubber Fiend on Sat 14 Nov, Newcastle. 1 artist on the bill: Jubei. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Curves presents: Jubei, Tyrone, + residents at The Lubber Fiend on Sat 14 Nov, Newcastle. 1 artist: Jubei. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

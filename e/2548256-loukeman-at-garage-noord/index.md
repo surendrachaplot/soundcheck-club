@@ -1,6 +1,6 @@
 # Loukeman at Garage Noord
 
-Loukeman at Garage Noord on Fri 6 Nov, Amsterdam. 1 artist on the bill: Loukeman. Preview the line-up and save it on soundcheck.
+Loukeman at Garage Noord on Fri 6 Nov, Amsterdam. 1 artist: Loukeman. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

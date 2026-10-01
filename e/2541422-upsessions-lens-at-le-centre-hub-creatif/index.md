@@ -1,6 +1,6 @@
 # Upsessions: Lens at Le Centre: Hub Creatif
 
-Upsessions: Lens at Le Centre: Hub Creatif on Sat 5 Dec, Quebec City. 1 artist on the bill: Lens. Preview the line-up and save it on soundcheck.
+Upsessions: Lens at Le Centre: Hub Creatif on Sat 5 Dec, Quebec City. 1 artist: Lens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

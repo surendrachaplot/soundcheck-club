@@ -1,6 +1,6 @@
 # Dismantle b2b Fold at Headrow House
 
-Dismantle b2b Fold at Headrow House on Fri 16 Oct, Leeds. Bass and Jungle. Preview the line-up and save it on soundcheck.
+Dismantle b2b Fold at Headrow House on Fri 16 Oct, Leeds. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

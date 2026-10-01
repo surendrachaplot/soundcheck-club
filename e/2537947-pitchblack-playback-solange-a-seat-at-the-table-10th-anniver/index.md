@@ -1,6 +1,6 @@
 # Pitchblack Playback: Solange 'A Seat At The Table' (10th Anniversary) at We The Curious Planetarium
 
-Pitchblack Playback: Solange 'A Seat At The Table' (10th Anniversary) at We The Curious Planetarium on Tue 13 Oct, Bristol. R&B. Preview the line-up and save it on soundcheck.
+Pitchblack Playback: Solange 'A Seat At The Table' (10th Anniversary) at We The Curious Planetarium on Tue 13 Oct, Bristol. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

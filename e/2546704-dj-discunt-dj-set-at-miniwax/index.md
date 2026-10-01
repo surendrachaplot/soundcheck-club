@@ -1,6 +1,6 @@
 # DJ discunt DJ set at Miniwax
 
-DJ discunt DJ set at Miniwax on Fri 2 Oct, Paris. Electro. Preview the line-up and save it on soundcheck.
+DJ discunt DJ set at Miniwax on Fri 2 Oct, Paris. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

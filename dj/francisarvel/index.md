@@ -1,8 +1,8 @@
 # Francis Arvel
 
-Francis Arvel is a Techno and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Main Club, Milan on Thu, 1 Oct 2026.
+Francis Arvel is a Techno and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Main Club, Milan on Thu, 1 Oct 2026.
 
-Francis Arvel is a techno and downtempo artist based in Italy, tracked on soundcheck, with 23 sets logged across Milan. Often billed alongside Richey V, Massi Rocket and Andrea Isella. Next up: Main Club, Milan on Thu 1 Oct.
+Francis Arvel is a techno and downtempo artist based in Italy, with 23 gigs on soundcheck across Milan. Often billed alongside Richey V, Massi Rocket and Andrea Isella. Next up: Main Club, Milan on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Francis Arvel is a techno and downtempo artist based in Italy, tracked on soundc
 
 ## Recently played
 
-- Main Club, Milan — Thu, 17 Sept 2026
-- Circolo Magnolia, Milan — Thu, 25 Jun 2026
-- Circolo Magnolia, Milan — Fri, 13 Feb 2026
-- Barrio's Live, Milan — Sun, 25 Jan 2026
-- Circolo Magnolia, Milan — Fri, 17 Oct 2025
-- Circolo Magnolia, Milan — Fri, 1 Aug 2025
-- The Rocket Club, Milan — Wed, 30 Apr 2025
-- The Rocket Club, Milan — Thu, 13 Mar 2025
+- Main Club, Milan · Thu, 17 Sept 2026
+- Circolo Magnolia, Milan · Thu, 25 Jun 2026
+- Circolo Magnolia, Milan · Fri, 13 Feb 2026
+- Barrio's Live, Milan · Sun, 25 Jan 2026
+- Circolo Magnolia, Milan · Fri, 17 Oct 2025
+- Circolo Magnolia, Milan · Fri, 1 Aug 2025
+- The Rocket Club, Milan · Wed, 30 Apr 2025
+- The Rocket Club, Milan · Thu, 13 Mar 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Tonic Walter at Central Chapelle
 
-Tonic Walter at Central Chapelle on Fri 11 Dec, Paris. 1 artist on the bill: Tonic Walter. Techno and House. Preview the line-up and save it on soundcheck.
+Tonic Walter at Central Chapelle on Fri 11 Dec, Paris. 1 artist: Tonic Walter. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

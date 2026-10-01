@@ -1,6 +1,6 @@
 # Tumbling Down with Beatnik and DTCC at 1520
 
-Tumbling Down with Beatnik and DTCC at 1520 on Sun 4 Oct, Manchester. 5 artists on the bill: AdomasLP, Emora, Northworks and Ruf Dug and 1 more. Downtempo and Dub Techno. Preview the line-up and save it on soundcheck.
+Tumbling Down with Beatnik and DTCC at 1520 on Sun 4 Oct, Manchester. 5 artists: AdomasLP, Emora, Northworks and Ruf Dug and 1 more. Downtempo and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

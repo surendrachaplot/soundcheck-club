@@ -1,6 +1,6 @@
 # CIRCADIAN RHYTHMS at Wax Music Lounge
 
-CIRCADIAN RHYTHMS at Wax Music Lounge on Mon 30 Nov, Melbourne. Jazz. Preview the line-up and save it on soundcheck.
+CIRCADIAN RHYTHMS at Wax Music Lounge on Mon 30 Nov, Melbourne. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

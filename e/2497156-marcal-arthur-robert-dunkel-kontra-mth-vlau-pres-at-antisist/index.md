@@ -1,6 +1,6 @@
 # Marcal + Arthur Robert (DUNKEL / Kontra / MTH / Vlau Pres.) at Antisistema
 
-Marcal + Arthur Robert (DUNKEL / Kontra / MTH / Vlau Pres.) at Antisistema on Sat 3 Oct, Bogot. 5 artists on the bill: Arthur Robert, Bimol, Confidential Recipe and Marcal and 1 more. Preview the line-up and save it on soundcheck.
+Marcal + Arthur Robert (DUNKEL / Kontra / MTH / Vlau Pres.) at Antisistema on Sat 3 Oct, Bogot. 5 artists: Arthur Robert, Bimol, Confidential Recipe and Marcal and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

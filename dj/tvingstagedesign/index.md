@@ -1,8 +1,8 @@
 # Tving Stage Design
 
-Tving Stage Design is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at STK 47 WAREHOUSE, Krakow on Fri, 9 Oct 2026.
+Tving Stage Design is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at STK 47 WAREHOUSE, Krakow on Fri, 9 Oct 2026.
 
-Tving Stage Design is a techno artist based in Poland, tracked on soundcheck, with 4 sets logged across Barcelona and Krakow. Often billed alongside Vi (PL), C Razey and Mordeaux. Next up: STK 47 WAREHOUSE, Krakow on Fri 9 Oct.
+Tving Stage Design is a techno artist based in Poland, with 4 gigs on soundcheck across Barcelona and Krakow. Often billed alongside Vi (PL), C Razey and Mordeaux. Next up: STK 47 WAREHOUSE, Krakow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,8 @@ Tving Stage Design is a techno artist based in Poland, tracked on soundcheck, wi
 
 ## Recently played
 
-- Centre Cívic Convent de Sant Agustí, Barcelona — Thu, 18 Sept 2025
-- Hype Park, Krakow — Thu, 28 Aug 2025
+- Centre Cívic Convent de Sant Agustí, Barcelona · Thu, 18 Sept 2025
+- Hype Park, Krakow · Thu, 28 Aug 2025
 
 ## Shares bills with
 

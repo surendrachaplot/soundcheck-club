@@ -1,6 +1,6 @@
 # Ceremony Fest 2026 - Promo Code 'RAVEFAM' at Row One at Cannery Hall
 
-Ceremony Fest 2026 - Promo Code 'RAVEFAM' at Row One at Cannery Hall on Sat 17 Oct, Nashville. Preview the line-up and save it on soundcheck.
+Ceremony Fest 2026 - Promo Code 'RAVEFAM' at Row One at Cannery Hall on Sat 17 Oct, Nashville. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

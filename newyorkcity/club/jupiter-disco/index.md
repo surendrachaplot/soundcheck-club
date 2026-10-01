@@ -1,8 +1,8 @@
 # Jupiter Disco
 
-Jupiter Disco is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, ZIGGGY" on Thu, 1 Oct 2026.
+Jupiter Disco is a music venue in New York City with 22 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "People You may Know: Ash, Han G, Jake From State Pharm, RICK E, Soggymilktoast, ZIGGGY" on Thu, 1 Oct 2026.
 
-Jupiter Disco is a music venue in New York City listed on soundcheck. 22 upcoming gigs, with line-ups including Alpaca_, Ardio Zemog, Arjun Shah and Balam and 2 more. Browse upcoming dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
+Jupiter Disco is a music venue in New York City listed on soundcheck. 22 upcoming gigs, with line-ups including Alpaca_, Ardio Zemog, Arjun Shah and Balam and 2 more. See dates, start times and who's playing. 1237 Flushing Avenue, Brooklyn, NY 11237, USA.
 
 ## What's on
 

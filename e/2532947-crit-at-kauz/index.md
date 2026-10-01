@@ -1,6 +1,6 @@
 # CRIT at Kauz
 
-CRIT at Kauz on Sat 10 Oct, Zurich. 5 artists on the bill: DJ Real Madrid, Exkursion, Radiant and Reptant and 1 more. Breakbeat and House. Preview the line-up and save it on soundcheck.
+CRIT at Kauz on Sat 10 Oct, Zurich. 5 artists: DJ Real Madrid, Exkursion, Radiant and Reptant and 1 more. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

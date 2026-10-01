@@ -1,6 +1,6 @@
 # LISERGIA at Sala Siroco
 
-LISERGIA at Sala Siroco on Thu 1 Oct, Madrid. House and Acid. Preview the line-up and save it on soundcheck.
+LISERGIA at Sala Siroco on Thu 1 Oct, Madrid. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

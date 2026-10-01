@@ -1,6 +1,6 @@
 # Rui at TBA
 
-Rui at TBA on Sat 3 Oct, Tokyo. Afrobeats. Preview the line-up and save it on soundcheck.
+Rui at TBA on Sat 3 Oct, Tokyo. Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

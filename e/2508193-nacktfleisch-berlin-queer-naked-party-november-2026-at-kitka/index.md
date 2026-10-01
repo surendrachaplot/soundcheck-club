@@ -1,6 +1,6 @@
 # Nacktfleisch - Berlin Queer Naked Party November 2026 at KitKatClub
 
-Nacktfleisch - Berlin Queer Naked Party November 2026 at KitKatClub on Sun 15 Nov, Berlin. 4 artists on the bill: K-H1, SIMZ (DE), Sina XX and Spikey Lee. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Nacktfleisch - Berlin Queer Naked Party November 2026 at KitKatClub on Sun 15 Nov, Berlin. 4 artists: K-H1, SIMZ (DE), Sina XX and Spikey Lee. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

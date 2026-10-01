@@ -1,6 +1,6 @@
 # Casto at The Mezzanine at Mezzanine - Tooting
 
-Casto at The Mezzanine at Mezzanine - Tooting on Fri 9 Oct, London. House and Garage. Preview the line-up and save it on soundcheck.
+Casto at The Mezzanine at Mezzanine - Tooting on Fri 9 Oct, London. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

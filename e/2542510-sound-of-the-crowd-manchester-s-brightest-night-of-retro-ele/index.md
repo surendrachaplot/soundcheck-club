@@ -1,6 +1,6 @@
 # Sound Of The Crowd: Manchester's Brightest Night Of Retro Electro at The Peer Hat
 
-Sound Of The Crowd: Manchester's Brightest Night Of Retro Electro at The Peer Hat on Sat 10 Oct, Manchester. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
+Sound Of The Crowd: Manchester's Brightest Night Of Retro Electro at The Peer Hat on Sat 10 Oct, Manchester. Italo Disco and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

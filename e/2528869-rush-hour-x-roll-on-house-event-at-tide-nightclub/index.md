@@ -1,6 +1,6 @@
 # Rush Hour X Roll On - House event at Tide Nightclub
 
-Rush Hour X Roll On - House event at Tide Nightclub on Sat 10 Oct, Brighton. House and Tech House. Preview the line-up and save it on soundcheck.
+Rush Hour X Roll On - House event at Tide Nightclub on Sat 10 Oct, Brighton. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

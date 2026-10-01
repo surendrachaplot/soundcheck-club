@@ -1,6 +1,6 @@
 # unmixed Panel: Music, Copyright & AI at Signal
 
-unmixed Panel: Music, Copyright & AI at Signal on Fri 16 Oct, New York City. Preview the line-up and save it on soundcheck.
+unmixed Panel: Music, Copyright & AI at Signal on Fri 16 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

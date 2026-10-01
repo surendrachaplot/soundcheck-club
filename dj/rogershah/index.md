@@ -1,8 +1,8 @@
 # Roger Shah
 
-Roger Shah is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
+Roger Shah is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Steelyard Kelham, Sheffield on Sat, 12 Jun 2027.
 
-Roger Shah is a trance and progressive house artist tracked on soundcheck, with 8 sets logged across Chicago, Los Angeles, Miami and Portland and 3 more. Often billed alongside John O'Callaghan, Paul Thomas and Aly & Fila. Next up: Steelyard Kelham, Sheffield on Sat 12 Jun.
+Roger Shah is a trance and progressive house artist, with 8 gigs on soundcheck across Chicago, Los Angeles, Miami and Portland and 3 more. Often billed alongside John O'Callaghan, Paul Thomas and Aly & Fila. Next up: Steelyard Kelham, Sheffield on Sat 12 Jun.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Roger Shah is a trance and progressive house artist tracked on soundcheck, with 
 
 ## Recently played
 
-- Madarae San Francisco, San Francisco/Oakland — Fri, 23 May 2025
-- C-Level Rooftop Terrace, Miami — Fri, 28 Mar 2025
-- The Queen Mary, Los Angeles — Fri, 22 Nov 2024
-- Cockatoo Island, Sydney — Sat, 10 Feb 2024
-- Opaline, Portland — Sat, 2 Dec 2023
-- Primary, Chicago — Sat, 16 Sept 2023
-- C-Level Rooftop Terrace, Miami — Fri, 24 Mar 2023
+- Madarae San Francisco, San Francisco/Oakland · Fri, 23 May 2025
+- C-Level Rooftop Terrace, Miami · Fri, 28 Mar 2025
+- The Queen Mary, Los Angeles · Fri, 22 Nov 2024
+- Cockatoo Island, Sydney · Sat, 10 Feb 2024
+- Opaline, Portland · Sat, 2 Dec 2023
+- Primary, Chicago · Sat, 16 Sept 2023
+- C-Level Rooftop Terrace, Miami · Fri, 24 Mar 2023
 
 ## Shares bills with
 

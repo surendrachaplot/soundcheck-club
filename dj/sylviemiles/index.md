@@ -1,8 +1,8 @@
 # Sylvie Miles
 
-Sylvie Miles is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+Sylvie Miles is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
 
-Sylvie Miles is a techno and house artist based in Germany, tracked on soundcheck, with 41 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Mark Dekoda, Klanglos and Prismode. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
+Sylvie Miles is a techno and house artist based in Germany, with 41 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 3 more. Often billed alongside Mark Dekoda, Klanglos and Prismode. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Sylvie Miles is a techno and house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- TBA - Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
-- Ritter Butzke, Berlin — Sat, 15 Aug 2026
-- Edelfettwerk, Hamburg — Sat, 8 Aug 2026
-- Boat - MS Lex / Boat Terminal: Mercedes-Benz Arena, Berlin — Sat, 4 Jul 2026
-- Edelfettwerk, Hamburg — Sat, 23 May 2026
-- Tanzhaus West, Frankfurt — Fri, 6 Feb 2026
-- Proton the Club, Stuttgart — Sat, 24 Jan 2026
-- Ritter Butzke, Berlin — Wed, 31 Dec 2025
+- TBA - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
+- Ritter Butzke, Berlin · Sat, 15 Aug 2026
+- Edelfettwerk, Hamburg · Sat, 8 Aug 2026
+- Boat - MS Lex / Boat Terminal: Mercedes-Benz Arena, Berlin · Sat, 4 Jul 2026
+- Edelfettwerk, Hamburg · Sat, 23 May 2026
+- Tanzhaus West, Frankfurt · Fri, 6 Feb 2026
+- Proton the Club, Stuttgart · Sat, 24 Jan 2026
+- Ritter Butzke, Berlin · Wed, 31 Dec 2025
 
 ## Shares bills with
 

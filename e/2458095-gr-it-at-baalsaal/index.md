@@ -1,6 +1,6 @@
 # GR:IT at Baalsaal
 
-GR:IT at Baalsaal on Fri 13 Nov, Hamburg. Preview the line-up and save it on soundcheck.
+GR:IT at Baalsaal on Fri 13 Nov, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

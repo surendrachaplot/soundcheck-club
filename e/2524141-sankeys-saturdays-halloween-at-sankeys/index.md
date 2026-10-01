@@ -1,6 +1,6 @@
 # Sankeys Saturdays - Halloween at Sankeys
 
-Sankeys Saturdays - Halloween on Sat 31 Oct, Manchester. 2 artists on the bill: Miguel Campbell and Pirate Copy. House. Preview the line-up and save it on soundcheck.
+Sankeys Saturdays - Halloween on Sat 31 Oct, Manchester. 2 artists: Miguel Campbell and Pirate Copy. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

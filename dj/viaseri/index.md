@@ -1,0 +1,28 @@
+# Via Seri
+
+Via Seri is a Amapiano and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bread and Butter, London on Tue, 13 Oct 2026.
+
+Via Seri is an amapiano and afro house artist, with 53 gigs on soundcheck across Berlin, Birmingham, London and Paris and 1 more. Often billed alongside Supa D, Shenin Amara and Jerome Six. Next up: Bread and Butter, London on Tue 13 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Tue, 13 Oct 2026 | Bread and Butter | London |
+
+## Recently played
+
+- 77, London · Sat, 12 Sept 2026
+- Setlist @ Somerset House, London · Sat, 8 Aug 2026
+- Eutopia Warehouse, London · Sat, 4 Jul 2026
+- The Steel Yard, London · Sat, 13 Jun 2026
+- Gallery, London · Thu, 4 Jun 2026
+- La Machine Du Moulin Rouge, Paris · Sat, 9 May 2026
+- The Steel Yard, London · Fri, 17 Apr 2026
+- The Steel Yard, London · Sat, 14 Feb 2026
+
+## Shares bills with
+
+Supa D, Shenin Amara, Jerome Six
+
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viaseri/)*

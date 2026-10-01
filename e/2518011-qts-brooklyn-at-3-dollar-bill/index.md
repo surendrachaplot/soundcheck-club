@@ -1,6 +1,6 @@
 # QTS: Brooklyn at 3 Dollar Bill
 
-QTS: Brooklyn at 3 Dollar Bill on Sat 17 Oct, New York City. 1 artist on the bill: Farius. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+QTS: Brooklyn at 3 Dollar Bill on Sat 17 Oct, New York City. 1 artist: Farius. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

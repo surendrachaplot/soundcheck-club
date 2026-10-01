@@ -1,6 +1,6 @@
 # Party at Heyday Eatery
 
-Party at Heyday Eatery on Fri 9 Oct, Chicago. House. Preview the line-up and save it on soundcheck.
+Party at Heyday Eatery on Fri 9 Oct, Chicago. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

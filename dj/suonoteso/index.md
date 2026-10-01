@@ -1,8 +1,8 @@
 # Suonoteso
 
-Suonoteso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
+Suonoteso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Tibidabo Area, Barcelona on Sat, 17 Oct 2026.
 
-Suonoteso is a techno and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Barcelona. Often billed alongside Elia Tebaldi, Thomas Kick and Ale Hope. Next up: TBA - Tibidabo Area, Barcelona on Sat 17 Oct.
+Suonoteso is a techno and house artist based in Italy, with 13 gigs on soundcheck across Barcelona. Often billed alongside Elia Tebaldi, Thomas Kick and Ale Hope. Next up: TBA - Tibidabo Area, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Suonoteso is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 ## Recently played
 
-- Absenta del Raval, Barcelona — Thu, 11 Jun 2026
-- Absenta del Raval, Barcelona — Fri, 19 Dec 2025
-- Absenta del Raval, Barcelona — Sat, 1 Nov 2025
-- TBA - secret location, Barcelona — Sat, 27 Sept 2025
-- Casa Rojo, Barcelona — Sat, 5 Jul 2025
-- Absenta del Raval, Barcelona — Sat, 14 Jun 2025
-- Absenta del Raval, Barcelona — Sat, 12 Apr 2025
-- Absenta del Raval, Barcelona — Fri, 24 Jan 2025
+- Absenta del Raval, Barcelona · Thu, 11 Jun 2026
+- Absenta del Raval, Barcelona · Fri, 19 Dec 2025
+- Absenta del Raval, Barcelona · Sat, 1 Nov 2025
+- TBA - secret location, Barcelona · Sat, 27 Sept 2025
+- Casa Rojo, Barcelona · Sat, 5 Jul 2025
+- Absenta del Raval, Barcelona · Sat, 14 Jun 2025
+- Absenta del Raval, Barcelona · Sat, 12 Apr 2025
+- Absenta del Raval, Barcelona · Fri, 24 Jan 2025
 
 ## Shares bills with
 

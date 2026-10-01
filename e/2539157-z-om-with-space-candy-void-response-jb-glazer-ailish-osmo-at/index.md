@@ -1,6 +1,6 @@
 # Złom with Space Candy, Void Response, jb glazer, Ailish, osmo at Spanners
 
-Złom with Space Candy, Void Response, jb glazer, Ailish, osmo at Spanners on Fri 16 Oct, London. 2 artists on the bill: Ailish and Space Candy. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Złom with Space Candy, Void Response, jb glazer, Ailish, osmo at Spanners on Fri 16 Oct, London. 2 artists: Ailish and Space Candy. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # U.22 X La Culottée: Rachel Noon, Feroui B2b Trusspe at Unité.22
 
-U.22 X La Culottée: Rachel Noon, Feroui B2b Trusspe at Unité.22 on Fri 23 Oct, Marseille. 2 artists on the bill: Feroui and Rachel Noon. House and Acid. Preview the line-up and save it on soundcheck.
+U.22 X La Culottée: Rachel Noon, Feroui B2b Trusspe at Unité.22 on Fri 23 Oct, Marseille. 2 artists: Feroui and Rachel Noon. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

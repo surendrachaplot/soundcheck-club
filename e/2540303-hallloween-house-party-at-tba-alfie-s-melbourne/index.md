@@ -1,6 +1,6 @@
 # Hallloween House Party at TBA - Alfie's Melbourne
 
-Hallloween House Party at TBA - Alfie's Melbourne on Sat 31 Oct, Melbourne. House. Preview the line-up and save it on soundcheck.
+Hallloween House Party at TBA - Alfie's Melbourne on Sat 31 Oct, Melbourne. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

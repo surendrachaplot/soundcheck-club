@@ -1,6 +1,6 @@
 # RAVE the subculture at Liquid Club
 
-RAVE the subculture at Liquid Club on Fri 16 Oct, Malta. Techno and Acid. Preview the line-up and save it on soundcheck.
+RAVE the subculture at Liquid Club on Fri 16 Oct, Malta. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

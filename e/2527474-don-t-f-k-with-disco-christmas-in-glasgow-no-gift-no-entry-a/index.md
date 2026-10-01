@@ -1,6 +1,6 @@
 # Don't F**k with Disco - Christmas in Glasgow. NO GIFT, NO ENTRY at SWG3
 
-Don't F**k with Disco - Christmas in Glasgow. NO GIFT, NO ENTRY at SWG3 on Fri 11 Dec, Glasgow. 1 artist on the bill: Don't F**k with Disco. House and Disco. Preview the line-up and save it on soundcheck.
+Don't F**k with Disco - Christmas in Glasgow. NO GIFT, NO ENTRY at SWG3 on Fri 11 Dec, Glasgow. 1 artist: Don't F**k with Disco. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

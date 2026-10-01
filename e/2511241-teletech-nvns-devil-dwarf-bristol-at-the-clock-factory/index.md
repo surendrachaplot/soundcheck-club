@@ -1,6 +1,6 @@
 # Teletech: NVNS & Devil Dwarf [Bristol] at The Clock Factory
 
-Teletech: NVNS & Devil Dwarf [Bristol] at The Clock Factory on Fri 9 Oct, Bristol. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Teletech: NVNS & Devil Dwarf [Bristol] at The Clock Factory on Fri 9 Oct, Bristol. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

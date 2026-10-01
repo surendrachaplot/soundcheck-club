@@ -1,6 +1,6 @@
 # Euphoria x Infernum Festival at TBA - Tirana
 
-Euphoria x Infernum Festival at TBA - Tirana on Fri 30 Oct, Tirana. 13 artists on the bill: 6EJOU, ARZY, Doruksen and Elen Payne and 9 more. Preview the line-up and save it on soundcheck.
+Euphoria x Infernum Festival at TBA - Tirana on Fri 30 Oct, Tirana. 13 artists: 6EJOU, ARZY, Doruksen and Elen Payne and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

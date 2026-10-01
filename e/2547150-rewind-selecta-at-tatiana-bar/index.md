@@ -1,6 +1,6 @@
 # Rewind Selecta at Tatiana Bar
 
-Rewind Selecta at Tatiana Bar on Fri 9 Oct, Melbourne. House and Garage. Preview the line-up and save it on soundcheck.
+Rewind Selecta at Tatiana Bar on Fri 9 Oct, Melbourne. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

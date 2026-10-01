@@ -1,6 +1,6 @@
 # Paradiso: Ultra Naté, Kilopatrah Jones, Karim Olen Ash + Saia, RATONC1T0 at Paragon
 
-Paradiso: Ultra Naté, Kilopatrah Jones, Karim Olen Ash + Saia, RATONC1T0 at Paragon on Fri 23 Oct, New York City. 5 artists on the bill: Karim Olen Ash, Kilopatrah Jones, RATONC1T0 and Saia and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Paradiso: Ultra Naté, Kilopatrah Jones, Karim Olen Ash + Saia, RATONC1T0 at Paragon on Fri 23 Oct, New York City. 5 artists: Karim Olen Ash, Kilopatrah Jones, RATONC1T0 and Saia and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

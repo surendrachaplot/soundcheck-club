@@ -1,8 +1,8 @@
 # Mascha Roth
 
-Mascha Roth is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
+Mascha Roth is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
-Mascha Roth is a techno and trance artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Leipzig. Often billed alongside BIGALKE, DUSTNER and Skurrben. Next up: Distillery, Leipzig on Fri 16 Oct.
+Mascha Roth is a techno and trance artist based in Germany, with 7 gigs on soundcheck across Berlin and Leipzig. Often billed alongside BIGALKE, DUSTNER and Skurrben. Next up: Distillery, Leipzig on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Mascha Roth is a techno and trance artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- elipamanoke, Leipzig — Sat, 25 Jul 2026
-- elipamanoke, Leipzig — Wed, 29 Apr 2026
-- elipamanoke, Leipzig — Wed, 11 Mar 2026
-- Humboldthain Club, Berlin — Sat, 28 Feb 2026
-- elipamanoke, Leipzig — Fri, 5 Dec 2025
-- elipamanoke, Leipzig — Wed, 16 Apr 2025
+- elipamanoke, Leipzig · Sat, 25 Jul 2026
+- elipamanoke, Leipzig · Wed, 29 Apr 2026
+- elipamanoke, Leipzig · Wed, 11 Mar 2026
+- Humboldthain Club, Berlin · Sat, 28 Feb 2026
+- elipamanoke, Leipzig · Fri, 5 Dec 2025
+- elipamanoke, Leipzig · Wed, 16 Apr 2025
 
 ## Shares bills with
 

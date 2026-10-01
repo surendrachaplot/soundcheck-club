@@ -1,6 +1,6 @@
 # 2Passo X Diaries Creative // Pop Up Party at TBA - Secret Location
 
-2Passo X Diaries Creative // Pop Up Party at TBA - Secret Location on Sat 17 Oct, Glasgow. House. Preview the line-up and save it on soundcheck.
+2Passo X Diaries Creative // Pop Up Party at TBA - Secret Location on Sat 17 Oct, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

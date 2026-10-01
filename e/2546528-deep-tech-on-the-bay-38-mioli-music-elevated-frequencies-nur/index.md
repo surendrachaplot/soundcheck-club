@@ -1,6 +1,6 @@
 # Deep Tech on the Bay 38: Mioli Music, Elevated Frequencies, Nurture, Who Cares? Productions at The Ohana
 
-Deep Tech on the Bay 38: Mioli Music, Elevated Frequencies, Nurture, Who Cares? Productions at The Ohana on Sat 10 Oct, San Diego. 1 artist on the bill: Emanate. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Deep Tech on the Bay 38: Mioli Music, Elevated Frequencies, Nurture, Who Cares? Productions at The Ohana on Sat 10 Oct, San Diego. 1 artist: Emanate. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

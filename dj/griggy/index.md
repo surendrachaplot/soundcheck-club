@@ -1,8 +1,8 @@
 # GRIGGY
 
-GRIGGY is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Stage and Radio, Manchester on Sat, 17 Oct 2026.
+GRIGGY is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stage and Radio, Manchester on Sat, 17 Oct 2026.
 
-GRIGGY is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Liverpool, London, Manchester and Melbourne. Often billed alongside Beno Garcia, Adam Trace and Amber Ferraro. Next up: Stage and Radio, Manchester on Sat 17 Oct.
+GRIGGY is a house and deep house artist based in United Kingdom, with 15 gigs on soundcheck across Liverpool, London, Manchester and Melbourne. Often billed alongside Beno Garcia, Adam Trace and Amber Ferraro. Next up: Stage and Radio, Manchester on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ GRIGGY is a house and deep house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Stage and Radio, Manchester — Sat, 4 Jul 2026
-- OneSixOne, Melbourne — Fri, 28 Nov 2025
-- Collingwood Children's Farm, Melbourne — Sun, 2 Nov 2025
-- OneSixOne, Melbourne — Fri, 24 Oct 2025
-- OneSixOne, Melbourne — Fri, 26 Sept 2025
-- Metrocola, Liverpool — Fri, 15 Aug 2025
-- Upper East, London — Sat, 1 Mar 2025
-- OneSixOne, Melbourne — Sat, 8 Feb 2025
+- Stage and Radio, Manchester · Sat, 4 Jul 2026
+- OneSixOne, Melbourne · Fri, 28 Nov 2025
+- Collingwood Children's Farm, Melbourne · Sun, 2 Nov 2025
+- OneSixOne, Melbourne · Fri, 24 Oct 2025
+- OneSixOne, Melbourne · Fri, 26 Sept 2025
+- Metrocola, Liverpool · Fri, 15 Aug 2025
+- Upper East, London · Sat, 1 Mar 2025
+- OneSixOne, Melbourne · Sat, 8 Feb 2025
 
 ## Shares bills with
 

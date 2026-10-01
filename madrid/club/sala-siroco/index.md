@@ -1,8 +1,8 @@
 # Sala Siroco
 
-Sala Siroco is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "LISERGIA" on Thu, 1 Oct 2026.
+Sala Siroco is a music venue in Madrid with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "LISERGIA" on Thu, 1 Oct 2026.
 
-Sala Siroco is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Ana Sant, Betamax_, Buraye and Chris Gorrie and 2 more. Browse upcoming dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
+Sala Siroco is a music venue in Madrid listed on soundcheck. 13 upcoming gigs, with line-ups including Ana Sant, Betamax_, Buraye and Chris Gorrie and 2 more. See dates, start times and who's playing. Calle San Dimas, 3, 28015 Madrid, Spain.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Sunset New Zealand presents: Candy Perreo Latin Party — Auckland at The Mothership
 
-Sunset New Zealand presents: Candy Perreo Latin Party — Auckland at The Mothership on Sat 10 Oct, Auckland. Reggaeton. Preview the line-up and save it on soundcheck.
+Sunset New Zealand presents: Candy Perreo Latin Party — Auckland at The Mothership on Sat 10 Oct, Auckland. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

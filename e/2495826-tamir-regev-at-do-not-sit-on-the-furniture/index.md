@@ -1,6 +1,6 @@
 # Tamir Regev at Do Not Sit On The Furniture
 
-Tamir Regev at Do Not Sit On The Furniture on Sat 3 Oct, Miami. 2 artists on the bill: Jessy Nimni and Tamir Regev. House and Deep House. Preview the line-up and save it on soundcheck.
+Tamir Regev at Do Not Sit On The Furniture on Sat 3 Oct, Miami. 2 artists: Jessy Nimni and Tamir Regev. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

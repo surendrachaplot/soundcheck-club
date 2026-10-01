@@ -1,8 +1,8 @@
 # C-System
 
-C-System is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+C-System is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-C-System is a techno and electro artist tracked on soundcheck, with 6 sets logged across Barcelona, Madrid, Naples and South. Often billed alongside A.N.I., Chris Liebing and DJ Rolando. Next up: Complejo Embrujo, South on Sat 3 Oct.
+C-System is a techno and electro artist, with 6 gigs on soundcheck across Barcelona, Madrid, Naples and South. Often billed alongside A.N.I., Chris Liebing and DJ Rolando. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,10 +13,10 @@ C-System is a techno and electro artist tracked on soundcheck, with 6 sets logge
 
 ## Recently played
 
-- Sala Muv, Madrid — Fri, 7 Nov 2025
-- Moog Club, Barcelona — Wed, 8 Jan 2025
-- TBA - Vallekas , Madrid — Sat, 25 May 2024
-- TBA - Area Pic Nic Sant'Agata, Naples — Sat, 22 Jul 2023
+- Sala Muv, Madrid · Fri, 7 Nov 2025
+- Moog Club, Barcelona · Wed, 8 Jan 2025
+- TBA - Vallekas , Madrid · Sat, 25 May 2024
+- TBA - Area Pic Nic Sant'Agata, Naples · Sat, 22 Jul 2023
 
 ## Shares bills with
 

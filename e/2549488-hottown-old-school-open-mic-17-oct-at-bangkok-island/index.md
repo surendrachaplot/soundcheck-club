@@ -1,6 +1,6 @@
 # Hottown old school open mic 17 Oct at Bangkok Island
 
-Hottown old school open mic 17 Oct at Bangkok Island on Sat 17 Oct, Bangkok. 2 artists on the bill: More and SM. Hip-Hop. Preview the line-up and save it on soundcheck.
+Hottown old school open mic 17 Oct at Bangkok Island on Sat 17 Oct, Bangkok. 2 artists: More and SM. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

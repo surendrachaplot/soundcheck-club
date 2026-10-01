@@ -1,6 +1,6 @@
 # Magnolia presents: Cassius Club with Eternal Love + Davide Dev at Circolo Magnolia
 
-Magnolia presents: Cassius Club with Eternal Love + Davide Dev at Circolo Magnolia on Fri 23 Oct, Milan. 3 artists on the bill: Cassius, Davide Dev and Eternal Love. House and Club. Preview the line-up and save it on soundcheck.
+Magnolia presents: Cassius Club with Eternal Love + Davide Dev at Circolo Magnolia on Fri 23 Oct, Milan. 3 artists: Cassius, Davide Dev and Eternal Love. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

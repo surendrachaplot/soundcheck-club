@@ -1,6 +1,6 @@
 # Elless & Benn at 5A
 
-Elless & Benn at 5A on Sat 31 Oct, Lisbon. 1 artist on the bill: Elless & Benn. Preview the line-up and save it on soundcheck.
+Elless & Benn at 5A on Sat 31 Oct, Lisbon. 1 artist: Elless & Benn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

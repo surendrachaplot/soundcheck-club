@@ -1,8 +1,8 @@
 # Toma Kami
 
-Toma Kami is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hafenklang, Hamburg on Sat, 3 Oct 2026.
+Toma Kami is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hafenklang, Hamburg on Sat, 3 Oct 2026.
 
-Toma Kami is a techno and bass artist based in France, tracked on soundcheck, with 93 sets logged across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside ojoo, Ehua and re:ni. Next up: Hafenklang, Hamburg on Sat 3 Oct.
+Toma Kami is a techno and bass artist based in France, with 93 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 31 more. Often billed alongside ojoo, Ehua and re:ni. Next up: Hafenklang, Hamburg on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Toma Kami is a techno and bass artist based in France, tracked on soundcheck, wi
 
 ## Recently played
 
-- TBA - Ming Lounge, Portland — Sat, 1 Aug 2026
-- TRANSMISSION DC, Washington DC — Fri, 31 Jul 2026
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 24 Jul 2026
-- Rukatunturi, Helsinki — Thu, 18 Jun 2026
-- Kraftwerk Berlin, Berlin — Sun, 31 May 2026
-- Club Malasaña, Madrid — Sat, 30 May 2026
-- Kraftwerk Berlin, Berlin — Sat, 30 May 2026
-- Club Malasaña, Madrid — Sat, 30 May 2026
+- TBA - Ming Lounge, Portland · Sat, 1 Aug 2026
+- TRANSMISSION DC, Washington DC · Fri, 31 Jul 2026
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 24 Jul 2026
+- Rukatunturi, Helsinki · Thu, 18 Jun 2026
+- Kraftwerk Berlin, Berlin · Sun, 31 May 2026
+- Club Malasaña, Madrid · Sat, 30 May 2026
+- Kraftwerk Berlin, Berlin · Sat, 30 May 2026
+- Club Malasaña, Madrid · Sat, 30 May 2026
 
 ## Shares bills with
 

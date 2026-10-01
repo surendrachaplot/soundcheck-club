@@ -1,6 +1,6 @@
 # JARRERA WEEKENDER FESTIVAL PASS 2026 at Fever
 
-JARRERA WEEKENDER FESTIVAL PASS 2026 at Fever on Fri 9 Oct, Bilbao. 1 artist on the bill: Dub Elements. Preview the line-up and save it on soundcheck.
+JARRERA WEEKENDER FESTIVAL PASS 2026 at Fever on Fri 9 Oct, Bilbao. 1 artist: Dub Elements. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

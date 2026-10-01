@@ -1,8 +1,8 @@
 # The American
 
-The American is a music venue in Vancouver with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Derya Yildirim & Grup Şimşek & Thee Marloes with Special Guests" on Wed, 14 Oct 2026.
+The American is a music venue in Vancouver with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Derya Yildirim & Grup Şimşek & Thee Marloes with Special Guests" on Wed, 14 Oct 2026.
 
-The American is a music venue in Vancouver listed on soundcheck. 6 upcoming gigs. Browse upcoming dates, start times and who's playing. 926 Main St, Vancouver, BC V6A 2W1.
+The American is a music venue in Vancouver listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 926 Main St, Vancouver, BC V6A 2W1.
 
 ## What's on
 

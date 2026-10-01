@@ -1,8 +1,8 @@
 # Emika
 
-Emika is a Electronica and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cinema Room, All is Joy, London on Mon, 26 Oct 2026.
+Emika is a Electronica and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cinema Room, All is Joy, London on Mon, 26 Oct 2026.
 
-Emika is an electronica and experimental artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Leipzig, Liverpool and London and 1 more. Often billed alongside Chloe Lula, Eomac and Schlindwein. Next up: Cinema Room, All is Joy, London on Mon 26 Oct.
+Emika is an electronica and experimental artist based in Germany, with 7 gigs on soundcheck across Berlin, Leipzig, Liverpool and London and 1 more. Often billed alongside Chloe Lula, Eomac and Schlindwein. Next up: Cinema Room, All is Joy, London on Mon 26 Oct.
 
 ## Upcoming shows
 
@@ -14,10 +14,10 @@ Emika is an electronica and experimental artist based in Germany, tracked on sou
 
 ## Recently played
 
-- Gretchen, Berlin — Thu, 3 Apr 2025
-- ZiMMT, Leipzig — Wed, 2 Apr 2025
-- Kazimier Stockroom, Liverpool — Thu, 24 Oct 2024
-- RSO.BERLIN, Berlin — Thu, 29 Jun 2023
+- Gretchen, Berlin · Thu, 3 Apr 2025
+- ZiMMT, Leipzig · Wed, 2 Apr 2025
+- Kazimier Stockroom, Liverpool · Thu, 24 Oct 2024
+- RSO.BERLIN, Berlin · Thu, 29 Jun 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Megatronic + KEKURA at Volt Club Milano
 
-Megatronic + KEKURA at Volt Club Milano on Fri 9 Oct, Milan. 2 artists on the bill: KEKURA and Megatronic. House and Tech House. Preview the line-up and save it on soundcheck.
+Megatronic + KEKURA at Volt Club Milano on Fri 9 Oct, Milan. 2 artists: KEKURA and Megatronic. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

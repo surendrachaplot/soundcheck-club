@@ -1,6 +1,6 @@
 # Kool & The Gang + Sister Sledge feat. Slegendary [Melbourne] at Festival Hall
 
-Kool & The Gang + Sister Sledge feat. Slegendary [Melbourne] at Festival Hall on Sat 28 Nov, Melbourne. Preview the line-up and save it on soundcheck.
+Kool & The Gang + Sister Sledge feat. Slegendary [Melbourne] at Festival Hall on Sat 28 Nov, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

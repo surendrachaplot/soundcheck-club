@@ -1,6 +1,6 @@
 # Solace x Weaver pres. ANON - Vol. I at Solace
 
-Solace x Weaver pres. ANON - Vol. I on Sat 3 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+Solace x Weaver pres. ANON - Vol. I on Sat 3 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

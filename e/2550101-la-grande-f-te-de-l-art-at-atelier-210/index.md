@@ -1,6 +1,6 @@
 # La grande fête de l'art at Atelier 210
 
-La grande fête de l'art at Atelier 210 on Thu 1 Oct, Brussels. Preview the line-up and save it on soundcheck.
+La grande fête de l'art at Atelier 210 on Thu 1 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

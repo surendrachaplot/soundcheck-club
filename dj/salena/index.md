@@ -1,8 +1,8 @@
 # Salena
 
-Salena is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Unit 58, London on Fri, 9 Oct 2026.
+Salena is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Unit 58, London on Fri, 9 Oct 2026.
 
-Salena is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Berlin, Bristol and London. Often billed alongside Exilee, Hovsep (AM) and acidhousewife3000. Next up: Unit 58, London on Fri 9 Oct.
+Salena is an experimental and electronica artist based in United Kingdom, with 6 gigs on soundcheck across Berlin, Bristol and London. Often billed alongside Exilee, Hovsep (AM) and acidhousewife3000. Next up: Unit 58, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Salena is an experimental and electronica artist based in United Kingdom, tracke
 
 ## Recently played
 
-- TBA - Warschauer Pl. 18, 10245 Berlin, Berlin — Sat, 15 Aug 2026
-- The Marquee Moon, London — Fri, 6 Mar 2026
-- Vespers Club, London — Thu, 13 Nov 2025
-- Strange Brew, Bristol — Fri, 27 Jun 2025
-- Peckham Audio, London — Thu, 23 Jan 2025
+- TBA - Warschauer Pl. 18, 10245 Berlin, Berlin · Sat, 15 Aug 2026
+- The Marquee Moon, London · Fri, 6 Mar 2026
+- Vespers Club, London · Thu, 13 Nov 2025
+- Strange Brew, Bristol · Fri, 27 Jun 2025
+- Peckham Audio, London · Thu, 23 Jan 2025
 
 ## Shares bills with
 

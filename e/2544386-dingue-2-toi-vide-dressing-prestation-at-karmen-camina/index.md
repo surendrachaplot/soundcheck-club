@@ -1,6 +1,6 @@
 # DINGUE 2 TOI • VIDE DRESSING & PRESTATION at Karmen Camina
 
-DINGUE 2 TOI • VIDE DRESSING & PRESTATION at Karmen Camina on Sun 4 Oct, Strasbourg. Preview the line-up and save it on soundcheck.
+DINGUE 2 TOI • VIDE DRESSING & PRESTATION at Karmen Camina on Sun 4 Oct, Strasbourg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bashment & Afrobeats - Halloween Party at Grand Empire
 
-Bashment & Afrobeats - Halloween Party at Grand Empire on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+Bashment & Afrobeats - Halloween Party at Grand Empire on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

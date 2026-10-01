@@ -1,6 +1,6 @@
 # ONE HEALTH FREQUENCIES at Heat Lyon
 
-ONE HEALTH FREQUENCIES at Heat Lyon on Fri 9 Oct, Lyon. Techno and Electronica. Preview the line-up and save it on soundcheck.
+ONE HEALTH FREQUENCIES at Heat Lyon on Fri 9 Oct, Lyon. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

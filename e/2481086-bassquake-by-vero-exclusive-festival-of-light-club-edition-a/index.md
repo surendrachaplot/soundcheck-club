@@ -1,6 +1,6 @@
 # Bassquake by Vero + exclusive Festival of Light Club Edition at M-BIA
 
-Bassquake by Vero + exclusive Festival of Light Club Edition at M-BIA on Fri 16 Oct, Berlin. 3 artists on the bill: Gaya Carmeli, TANZBAER and Vero_. Trance and Techno. Preview the line-up and save it on soundcheck.
+Bassquake by Vero + exclusive Festival of Light Club Edition at M-BIA on Fri 16 Oct, Berlin. 3 artists: Gaya Carmeli, TANZBAER and Vero_. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

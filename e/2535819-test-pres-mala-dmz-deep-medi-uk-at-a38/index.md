@@ -1,6 +1,6 @@
 # TEST pres. Mala (DMZ, Deep Medi . UK) at A38
 
-TEST pres. Mala (DMZ, Deep Medi . UK) at A38 on Sat 28 Nov, Budapest. Dubstep. Preview the line-up and save it on soundcheck.
+TEST pres. Mala (DMZ, Deep Medi . UK) at A38 on Sat 28 Nov, Budapest. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

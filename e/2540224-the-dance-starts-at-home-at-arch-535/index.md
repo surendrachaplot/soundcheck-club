@@ -1,6 +1,6 @@
 # The Dance Starts At Home at Arch 535
 
-The Dance Starts At Home at Arch 535 on Thu 8 Oct, London. Broken Beat and Jungle. Preview the line-up and save it on soundcheck.
+The Dance Starts At Home at Arch 535 on Thu 8 Oct, London. Broken Beat and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

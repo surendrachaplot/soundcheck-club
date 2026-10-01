@@ -1,6 +1,6 @@
 # NOVAMONDO @ XOYO | Jordan Peak, Ejeca, Alex Culross, Ryan Nicholls, Ryan Arnold, BTAY, Emzie at XOYO
 
-NOVAMONDO @ XOYO | Jordan Peak, Ejeca, Alex Culross, Ryan Nicholls, Ryan Arnold, BTAY, Emzie on Sat 3 Oct, London. 6 artists on the bill: Alex Culross, BTAY, Ejeca and Jordan Peak and 2 more. House and Tech House. Preview the line-up and save it on soundcheck.
+NOVAMONDO @ XOYO | Jordan Peak, Ejeca, Alex Culross, Ryan Nicholls, Ryan Arnold, BTAY, Emzie on Sat 3 Oct, London. 6 artists: Alex Culross, BTAY, Ejeca and Jordan Peak and 2 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

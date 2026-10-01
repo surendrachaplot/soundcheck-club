@@ -1,8 +1,8 @@
 # Sound Metaphors Djs
 
-Sound Metaphors Djs is a House and Disco artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Better Tomorrow, Los Angeles on Sun, 4 Oct 2026.
+Sound Metaphors Djs is a House and Disco artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Better Tomorrow, Los Angeles on Sun, 4 Oct 2026.
 
-Sound Metaphors Djs is a house and disco artist based in Germany, tracked on soundcheck, with 135 sets logged across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Castro Moore, David Fogarty and Tornado Wallace. Next up: Better Tomorrow, Los Angeles on Sun 4 Oct.
+Sound Metaphors Djs is a house and disco artist based in Germany, with 135 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 47 more. Often billed alongside Castro Moore, David Fogarty and Tornado Wallace. Next up: Better Tomorrow, Los Angeles on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Sound Metaphors Djs is a house and disco artist based in Germany, tracked on sou
 
 ## Recently played
 
-- Apollo Club Milano, Milan — Sat, 19 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- TBA - Near S+U Jannowitzbrücke, Berlin — Thu, 17 Sept 2026
-- Sonnenraum, Berlin — Sun, 30 Aug 2026
-- Neue Nationalgalerie, Berlin — Thu, 20 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 17 Jul 2026
-- Neue Nationalgalerie, Berlin — Thu, 16 Jul 2026
-- Motel Campo, Geneva — Sat, 4 Jul 2026
+- Apollo Club Milano, Milan · Sat, 19 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- TBA - Near S+U Jannowitzbrücke, Berlin · Thu, 17 Sept 2026
+- Sonnenraum, Berlin · Sun, 30 Aug 2026
+- Neue Nationalgalerie, Berlin · Thu, 20 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 17 Jul 2026
+- Neue Nationalgalerie, Berlin · Thu, 16 Jul 2026
+- Motel Campo, Geneva · Sat, 4 Jul 2026
 
 ## Shares bills with
 

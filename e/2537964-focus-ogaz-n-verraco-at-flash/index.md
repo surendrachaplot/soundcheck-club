@@ -1,6 +1,6 @@
 # FOCUS: Ogazón - Verraco at Flash
 
-FOCUS: Ogazón - Verraco at Flash on Sat 21 Nov, Washington DC. 2 artists on the bill: Ogazón and Verraco. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+FOCUS: Ogazón - Verraco at Flash on Sat 21 Nov, Washington DC. 2 artists: Ogazón and Verraco. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

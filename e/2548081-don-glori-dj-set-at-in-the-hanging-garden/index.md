@@ -1,6 +1,6 @@
 # Don Glori (DJ SET) at In The Hanging Garden
 
-Don Glori (DJ SET) at In The Hanging Garden on Fri 23 Oct, Hobart. House. Preview the line-up and save it on soundcheck.
+Don Glori (DJ SET) at In The Hanging Garden on Fri 23 Oct, Hobart. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

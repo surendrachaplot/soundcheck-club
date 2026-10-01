@@ -1,8 +1,8 @@
 # House Twelve
 
-House Twelve is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Flash, Washington DC on Sat, 17 Oct 2026.
+House Twelve is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flash, Washington DC on Sat, 17 Oct 2026.
 
-House Twelve is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Washington DC. Often billed alongside Apollo Dust, BE EZY and Sneakers in the Dryer. Next up: Flash, Washington DC on Sat 17 Oct.
+House Twelve is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Washington DC. Often billed alongside Apollo Dust, BE EZY and Sneakers in the Dryer. Next up: Flash, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ House Twelve is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
-- Flash, Washington DC — Fri, 21 Aug 2026
-- Flash, Washington DC — Sun, 9 Aug 2026
-- Vagabond, Washington DC — Fri, 31 Jul 2026
-- Vagabond, Washington DC — Sat, 25 Jul 2026
-- El Secreto De Rosita, Washington DC — Sat, 27 Jun 2026
-- Eighteenth Street Lounge (ESL), Washington DC — Sun, 24 May 2026
-- Eighteenth Street Lounge (ESL), Washington DC — Thu, 12 Mar 2026
-- Rendezvous, Washington DC — Sat, 6 Dec 2025
+- Flash, Washington DC · Fri, 21 Aug 2026
+- Flash, Washington DC · Sun, 9 Aug 2026
+- Vagabond, Washington DC · Fri, 31 Jul 2026
+- Vagabond, Washington DC · Sat, 25 Jul 2026
+- El Secreto De Rosita, Washington DC · Sat, 27 Jun 2026
+- Eighteenth Street Lounge (ESL), Washington DC · Sun, 24 May 2026
+- Eighteenth Street Lounge (ESL), Washington DC · Thu, 12 Mar 2026
+- Rendezvous, Washington DC · Sat, 6 Dec 2025
 
 ## Shares bills with
 

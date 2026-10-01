@@ -1,6 +1,6 @@
 # Szpila at K! Uberpünx at TBA - K! Uberpünx
 
-Szpila at K! Uberpünx at TBA - K! Uberpünx on Fri 2 Oct, Berlin. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Szpila at K! Uberpünx at TBA - K! Uberpünx on Fri 2 Oct, Berlin. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

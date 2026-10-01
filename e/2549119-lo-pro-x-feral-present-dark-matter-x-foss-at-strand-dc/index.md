@@ -1,6 +1,6 @@
 # LO PRO x FERAL present: Dark Matter x FOSS at Strand DC
 
-LO PRO x FERAL present: Dark Matter x FOSS at Strand DC on Fri 27 Nov, Washington DC. 2 artists on the bill: Dark Matter and FØSS. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+LO PRO x FERAL present: Dark Matter x FOSS at Strand DC on Fri 27 Nov, Washington DC. 2 artists: Dark Matter and FØSS. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

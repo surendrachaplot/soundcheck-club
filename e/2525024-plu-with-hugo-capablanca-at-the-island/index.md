@@ -1,6 +1,6 @@
 # PLU with Hugo Capablanca at The Island
 
-PLU with Hugo Capablanca at The Island on Sat 10 Oct, Bristol. House and Electronica. Preview the line-up and save it on soundcheck.
+PLU with Hugo Capablanca at The Island on Sat 10 Oct, Bristol. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

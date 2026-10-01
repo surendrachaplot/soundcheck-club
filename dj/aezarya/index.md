@@ -1,8 +1,8 @@
 # AEZARYA
 
-AEZARYA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at De Sering, Amsterdam on Wed, 21 Oct 2026.
+AEZARYA is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at De Sering, Amsterdam on Wed, 21 Oct 2026.
 
-AEZARYA is a techno and hardcore artist based in Germany, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin and Leipzig. Often billed alongside Scrappy Coco, Gigi Spears and Richie Rollin. Next up: De Sering, Amsterdam on Wed 21 Oct.
+AEZARYA is a techno and hardcore artist based in Germany, with 14 gigs on soundcheck across Amsterdam, Berlin and Leipzig. Often billed alongside Scrappy Coco, Gigi Spears and Richie Rollin. Next up: De Sering, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ AEZARYA is a techno and hardcore artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Panama, Amsterdam — Fri, 4 Sept 2026
-- nachbar, Amsterdam — Wed, 19 Aug 2026
-- Coco Boule, Berlin — Sat, 29 Nov 2025
-- elipamanoke, Leipzig — Sat, 18 Jan 2025
-- elipamanoke, Leipzig — Sat, 14 Sept 2024
-- elipamanoke, Leipzig — Sat, 3 Aug 2024
-- elipamanoke, Leipzig — Sat, 29 Jun 2024
-- elipamanoke, Leipzig — Sat, 4 May 2024
+- Panama, Amsterdam · Fri, 4 Sept 2026
+- nachbar, Amsterdam · Wed, 19 Aug 2026
+- Coco Boule, Berlin · Sat, 29 Nov 2025
+- elipamanoke, Leipzig · Sat, 18 Jan 2025
+- elipamanoke, Leipzig · Sat, 14 Sept 2024
+- elipamanoke, Leipzig · Sat, 3 Aug 2024
+- elipamanoke, Leipzig · Sat, 29 Jun 2024
+- elipamanoke, Leipzig · Sat, 4 May 2024
 
 ## Shares bills with
 

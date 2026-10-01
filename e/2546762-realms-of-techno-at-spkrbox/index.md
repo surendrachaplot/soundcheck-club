@@ -1,6 +1,6 @@
 # Realms of Techno at Spkrbox
 
-Realms of Techno at Spkrbox on Thu 1 Oct, Detroit. Techno. Preview the line-up and save it on soundcheck.
+Realms of Techno at Spkrbox on Thu 1 Oct, Detroit. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

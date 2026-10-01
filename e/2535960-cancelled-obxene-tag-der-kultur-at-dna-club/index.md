@@ -1,6 +1,6 @@
 # Cancelled OBXENE TAG DER KULTUR at DNA. CLUB
 
-Cancelled OBXENE TAG DER KULTUR at DNA. CLUB on Fri 9 Oct, Berlin. 3 artists on the bill: La Rod's, Nothing Left and VNVK. Techno. Preview the line-up and save it on soundcheck.
+Cancelled OBXENE TAG DER KULTUR at DNA. CLUB on Fri 9 Oct, Berlin. 3 artists: La Rod's, Nothing Left and VNVK. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

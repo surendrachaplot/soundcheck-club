@@ -1,6 +1,6 @@
 # Unsound Warszawa 2026: Tianzhuo Chen (ASIANDOPEBOYS) & Siko Setyanto present Moyang & Seaman at Pawilon tańca i innych sztuk performatywnych
 
-Unsound Warszawa 2026: Tianzhuo Chen (ASIANDOPEBOYS) & Siko Setyanto present Moyang & Seaman at Pawilon tańca i innych sztuk performatywnych on Fri 2 Oct, Warsaw. Preview the line-up and save it on soundcheck.
+Unsound Warszawa 2026: Tianzhuo Chen (ASIANDOPEBOYS) & Siko Setyanto present Moyang & Seaman at Pawilon tańca i innych sztuk performatywnych on Fri 2 Oct, Warsaw. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

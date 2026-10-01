@@ -1,8 +1,8 @@
 # Thomas Kick (2)
 
-Thomas Kick (2) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at LAUT, Barcelona on Sat, 10 Oct 2026.
+Thomas Kick (2) is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at LAUT, Barcelona on Sat, 10 Oct 2026.
 
-Thomas Kick is a house and club artist based in Spain, tracked on soundcheck, with 36 sets logged across Barcelona, London, Madrid and Milan. Often billed alongside Adria (ES), Pau Rosés and Perro Jimbo. Next up: LAUT, Barcelona on Sat 10 Oct.
+Thomas Kick is a house and club artist based in Spain, with 36 gigs on soundcheck across Barcelona, London, Madrid and Milan. Often billed alongside Adria (ES), Pau Rosés and Perro Jimbo. Next up: LAUT, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Thomas Kick is a house and club artist based in Spain, tracked on soundcheck, wi
 
 ## Recently played
 
-- TBA - Secret Location (Madrid), Madrid — Sat, 12 Sept 2026
-- TBA - SECRET LOCATION 45 min from BCN , Barcelona — Fri, 10 Jul 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 10 Apr 2026
-- G Spot Club, Barcelona — Sat, 31 Jan 2026
-- Les Enfants Brillants, Barcelona — Sat, 29 Nov 2025
-- Switch Bar, Barcelona — Sat, 18 Oct 2025
-- La Terrrazza, Barcelona — Thu, 11 Sept 2025
-- G Spot Club, Barcelona — Thu, 10 Jul 2025
+- TBA - Secret Location (Madrid), Madrid · Sat, 12 Sept 2026
+- TBA - SECRET LOCATION 45 min from BCN , Barcelona · Fri, 10 Jul 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 10 Apr 2026
+- G Spot Club, Barcelona · Sat, 31 Jan 2026
+- Les Enfants Brillants, Barcelona · Sat, 29 Nov 2025
+- Switch Bar, Barcelona · Sat, 18 Oct 2025
+- La Terrrazza, Barcelona · Thu, 11 Sept 2025
+- G Spot Club, Barcelona · Thu, 10 Jul 2025
 
 ## Shares bills with
 

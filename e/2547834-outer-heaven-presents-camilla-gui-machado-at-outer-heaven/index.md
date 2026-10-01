@@ -1,6 +1,6 @@
 # Outer Heaven presents: CAMILLA - Gui Machado at Outer Heaven
 
-Outer Heaven presents: CAMILLA - Gui Machado on Sat 3 Oct, New York City. 2 artists on the bill: CAMILLA and Gui Machado. House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: CAMILLA - Gui Machado on Sat 3 Oct, New York City. 2 artists: CAMILLA and Gui Machado. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

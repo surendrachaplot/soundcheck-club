@@ -1,6 +1,6 @@
 # Rhythm Workshop Series: Effects Pedals in Electronic Music - presented by Fairfield Circuitry at Rhythm
 
-Rhythm Workshop Series: Effects Pedals in Electronic Music - presented by Fairfield Circuitry on Wed 14 Oct, Toronto. 1 artist on the bill: Tony Price. Preview the line-up and save it on soundcheck.
+Rhythm Workshop Series: Effects Pedals in Electronic Music - presented by Fairfield Circuitry on Wed 14 Oct, Toronto. 1 artist: Tony Price. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Decimal
 
-Decimal is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Egg London, London on Sat, 10 Oct 2026.
+Decimal is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Egg London, London on Sat, 10 Oct 2026.
 
-Decimal is an afro house and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across London. Often billed alongside Supa D, Pioneer and Beezo. Next up: Egg London, London on Sat 10 Oct.
+Decimal is an afro house and house artist based in United States of America, with 11 gigs on soundcheck across London. Often billed alongside Supa D, Pioneer and Beezo. Next up: Egg London, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Decimal is an afro house and house artist based in United States of America, tra
 
 ## Recently played
 
-- Egg London, London — Fri, 28 Aug 2026
-- E1, London — Sat, 4 Apr 2026
-- E1, London — Sat, 14 Feb 2026
-- E1, London — Sat, 23 Aug 2025
-- Energy, London — Sat, 5 Jul 2025
-- Egg London, London — Sat, 19 Apr 2025
-- 26 Leake Street, London — Sun, 1 Sept 2024
-- 26 Leake Street, London — Sun, 9 Jun 2024
+- Egg London, London · Fri, 28 Aug 2026
+- E1, London · Sat, 4 Apr 2026
+- E1, London · Sat, 14 Feb 2026
+- E1, London · Sat, 23 Aug 2025
+- Energy, London · Sat, 5 Jul 2025
+- Egg London, London · Sat, 19 Apr 2025
+- 26 Leake Street, London · Sun, 1 Sept 2024
+- 26 Leake Street, London · Sun, 9 Jun 2024
 
 ## Shares bills with
 

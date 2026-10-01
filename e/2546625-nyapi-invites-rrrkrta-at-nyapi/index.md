@@ -1,6 +1,6 @@
 # Nyapi invites RRRKRTA at Nyapi
 
-Nyapi invites RRRKRTA on Sat 17 Oct, Seoul. 5 artists on the bill: ASIANPAYDAY, Hender, Kugel and RRRKRTA and 1 more. Preview the line-up and save it on soundcheck.
+Nyapi invites RRRKRTA on Sat 17 Oct, Seoul. 5 artists: ASIANPAYDAY, Hender, Kugel and RRRKRTA and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Coco & Breezy
 
-Coco & Breezy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
+Coco & Breezy is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
 
-Coco & Breezy are a house and techno duo based in United States of America, tracked on soundcheck, with 87 sets logged across Austin, Boston, Chicago and Copenhagen and 22 more. Often billed alongside Aluna, Breezy and Eric Prydz. Next up: Amnesia Ibiza, Ibiza on Fri 2 Oct.
+Coco & Breezy are a house and techno duo based in United States of America, with 87 gigs on soundcheck across Austin, Boston, Chicago and Copenhagen and 22 more. Often billed alongside Aluna, Breezy and Eric Prydz. Next up: Amnesia Ibiza, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Coco & Breezy are a house and techno duo based in United States of America, trac
 
 ## Recently played
 
-- TBA, Los Angeles — Sun, 27 Sept 2026
-- Chinois Ibiza, Ibiza — Fri, 4 Sept 2026
-- Søpavillonen, Copenhagen — Sat, 22 Aug 2026
-- Hï Ibiza, Ibiza — Wed, 12 Aug 2026
-- LA-YAM Rooftop, London — Sat, 8 Aug 2026
-- Celebrities Night Club, Vancouver — Fri, 31 Jul 2026
-- Q Nightclub, Seattle — Sat, 4 Jul 2026
-- Barbara Hall Park, Toronto — Sat, 27 Jun 2026
+- TBA, Los Angeles · Sun, 27 Sept 2026
+- Chinois Ibiza, Ibiza · Fri, 4 Sept 2026
+- Søpavillonen, Copenhagen · Sat, 22 Aug 2026
+- Hï Ibiza, Ibiza · Wed, 12 Aug 2026
+- LA-YAM Rooftop, London · Sat, 8 Aug 2026
+- Celebrities Night Club, Vancouver · Fri, 31 Jul 2026
+- Q Nightclub, Seattle · Sat, 4 Jul 2026
+- Barbara Hall Park, Toronto · Sat, 27 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # 90s and Noughties Halloween party at The Old Crown
 
-90s and Noughties Halloween party at The Old Crown on Sat 31 Oct, Birmingham. Funk / Soul and Pop. Preview the line-up and save it on soundcheck.
+90s and Noughties Halloween party at The Old Crown on Sat 31 Oct, Birmingham. Funk / Soul and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

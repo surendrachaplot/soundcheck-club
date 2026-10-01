@@ -1,6 +1,6 @@
 # Deep Transmission IX - 909 Push The Tempo at WaterBear Venue
 
-Deep Transmission IX - 909 Push The Tempo at WaterBear Venue on Fri 16 Oct, Brighton. 2 artists on the bill: Matt Bird aka Birdman and Sp.oon. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Deep Transmission IX - 909 Push The Tempo at WaterBear Venue on Fri 16 Oct, Brighton. 2 artists: Matt Bird aka Birdman and Sp.oon. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

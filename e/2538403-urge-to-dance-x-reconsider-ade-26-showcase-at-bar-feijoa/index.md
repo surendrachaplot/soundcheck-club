@@ -1,6 +1,6 @@
 # Urge To Dance x Reconsider: ADE '26 Showcase at Bar Feijoa
 
-Urge To Dance x Reconsider: ADE '26 Showcase at Bar Feijoa on Sun 25 Oct, Amsterdam. Techno and House. Preview the line-up and save it on soundcheck.
+Urge To Dance x Reconsider: ADE '26 Showcase at Bar Feijoa on Sun 25 Oct, Amsterdam. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

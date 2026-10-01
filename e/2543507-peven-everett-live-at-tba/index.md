@@ -1,6 +1,6 @@
 # Peven Everett *live* at TBA
 
-Peven Everett *live* at TBA on Sun 25 Oct, Berlin. 3 artists on the bill: Femdelic, Peven Everett and Xubii. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Peven Everett *live* at TBA on Sun 25 Oct, Berlin. 3 artists: Femdelic, Peven Everett and Xubii. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

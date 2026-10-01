@@ -1,6 +1,6 @@
 # Tinlicker at House of Blues
 
-Tinlicker at House of Blues on Thu 1 Oct, Houston. Preview the line-up and save it on soundcheck.
+Tinlicker at House of Blues on Thu 1 Oct, Houston. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Smiff
 
-Smiff is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
+Smiff is a Bass and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
 
-Smiff is a bass and breakbeat artist based in United Kingdom, tracked on soundcheck, with 140 sets logged across Aberdeen, Athens, Berlin and Bristol and 3 more. Often billed alongside JI_2001, Wrisk and Sea Urchin. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
+Smiff is a bass and breakbeat artist based in United Kingdom, with 140 gigs on soundcheck across Aberdeen, Athens, Berlin and Bristol and 3 more. Often billed alongside JI_2001, Wrisk and Sea Urchin. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Smiff is a bass and breakbeat artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Jupiter Artland, Edinburgh — Sat, 5 Sept 2026
-- The Mash House, Edinburgh — Fri, 7 Aug 2026
-- Sneaky Pete's, Edinburgh — Mon, 8 Jun 2026
-- Hackney Wick Multiple Venues, London — Sat, 2 May 2026
-- Sneaky Pete's, Edinburgh — Sun, 5 Apr 2026
-- The Croft, Bristol — Fri, 30 Jan 2026
-- The Mash House, Edinburgh — Thu, 25 Dec 2025
-- Planet Wax, London — Thu, 18 Dec 2025
+- Jupiter Artland, Edinburgh · Sat, 5 Sept 2026
+- The Mash House, Edinburgh · Fri, 7 Aug 2026
+- Sneaky Pete's, Edinburgh · Mon, 8 Jun 2026
+- Hackney Wick Multiple Venues, London · Sat, 2 May 2026
+- Sneaky Pete's, Edinburgh · Sun, 5 Apr 2026
+- The Croft, Bristol · Fri, 30 Jan 2026
+- The Mash House, Edinburgh · Thu, 25 Dec 2025
+- Planet Wax, London · Thu, 18 Dec 2025
 
 ## Shares bills with
 

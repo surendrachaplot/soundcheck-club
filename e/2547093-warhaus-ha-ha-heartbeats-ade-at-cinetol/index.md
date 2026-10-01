@@ -1,6 +1,6 @@
 # Warhaus - Ha Ha Heartbeats - ADE at Cinetol
 
-Warhaus - Ha Ha Heartbeats - ADE at Cinetol on Fri 23 Oct, Amsterdam. 1 artist on the bill: Warhaus. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Warhaus - Ha Ha Heartbeats - ADE at Cinetol on Fri 23 Oct, Amsterdam. 1 artist: Warhaus. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

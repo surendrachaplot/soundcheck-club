@@ -1,6 +1,6 @@
 # Neue Welle presents: DJ Stingray at Neue Welle
 
-Neue Welle presents: DJ Stingray on Fri 16 Oct, Leipzig. 5 artists on the bill: Credit 00, DJ Stingray 313, F.R. Fels and Interviews and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Neue Welle presents: DJ Stingray on Fri 16 Oct, Leipzig. 5 artists: Credit 00, DJ Stingray 313, F.R. Fels and Interviews and 1 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

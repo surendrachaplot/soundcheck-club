@@ -1,6 +1,6 @@
 # Step Forward pres. Shoki at Grelle Forelle
 
-Step Forward pres. Shoki at Grelle Forelle on Fri 30 Oct, Vienna. 5 artists on the bill: Aleta, Anna Ullrich, DizzyDray and pengg and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Step Forward pres. Shoki at Grelle Forelle on Fri 30 Oct, Vienna. 5 artists: Aleta, Anna Ullrich, DizzyDray and pengg and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rani's Room Happy Hour at Mood Ring
 
-Rani's Room Happy Hour at Mood Ring on Fri 9 Oct, New York City. 1 artist on the bill: rahuvia. Preview the line-up and save it on soundcheck.
+Rani's Room Happy Hour at Mood Ring on Fri 9 Oct, New York City. 1 artist: rahuvia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tropiz Insituut invites Mr Critical at Café des Arts
 
-Tropiz Insituut invites Mr Critical at Café des Arts on Sat 10 Oct, Antwerp. Funk / Soul and Afrobeat. Preview the line-up and save it on soundcheck.
+Tropiz Insituut invites Mr Critical at Café des Arts on Sat 10 Oct, Antwerp. Funk / Soul and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

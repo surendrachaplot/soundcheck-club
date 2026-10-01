@@ -1,8 +1,8 @@
 # Krystal Kostee
 
-Krystal Kostee is a Electronica and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Onda Listening Bar, Milan on Sat, 3 Oct 2026.
+Krystal Kostee is a Electronica and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onda Listening Bar, Milan on Sat, 3 Oct 2026.
 
-Krystal Kostee is an electronica and garage artist tracked on soundcheck, with 22 sets logged across Milan, Naples and Rome. Often billed alongside SARABAMBA, Satoru and brandonlivio. Next up: Onda Listening Bar, Milan on Sat 3 Oct.
+Krystal Kostee is an electronica and garage artist, with 22 gigs on soundcheck across Milan, Naples and Rome. Often billed alongside SARABAMBA, Satoru and brandonlivio. Next up: Onda Listening Bar, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Krystal Kostee is an electronica and garage artist tracked on soundcheck, with 2
 
 ## Recently played
 
-- Angelo Mai, Rome — Sat, 25 Oct 2025
-- Forte Antenne, Rome — Sat, 14 Jun 2025
-- Altrove, Milan — Sat, 10 May 2025
-- Circolo dei Cerchi, Rome — Thu, 27 Mar 2025
-- La Redazione di Scomodo, Rome — Sat, 25 Jan 2025
-- La Redazione di Scomodo, Rome — Fri, 6 Dec 2024
-- La Redazione di Scomodo, Rome — Sat, 23 Nov 2024
-- La Redazione di Scomodo, Rome — Sat, 26 Oct 2024
+- Angelo Mai, Rome · Sat, 25 Oct 2025
+- Forte Antenne, Rome · Sat, 14 Jun 2025
+- Altrove, Milan · Sat, 10 May 2025
+- Circolo dei Cerchi, Rome · Thu, 27 Mar 2025
+- La Redazione di Scomodo, Rome · Sat, 25 Jan 2025
+- La Redazione di Scomodo, Rome · Fri, 6 Dec 2024
+- La Redazione di Scomodo, Rome · Sat, 23 Nov 2024
+- La Redazione di Scomodo, Rome · Sat, 26 Oct 2024
 
 ## Shares bills with
 

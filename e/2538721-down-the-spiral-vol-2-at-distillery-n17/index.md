@@ -1,6 +1,6 @@
 # Down The Spiral Vol.2 at Distillery N17
 
-Down The Spiral Vol.2 at Distillery N17 on Sat 21 Nov, London. 2 artists on the bill: Chris Liberator and Jerome Hill. Techno. Preview the line-up and save it on soundcheck.
+Down The Spiral Vol.2 at Distillery N17 on Sat 21 Nov, London. 2 artists: Chris Liberator and Jerome Hill. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

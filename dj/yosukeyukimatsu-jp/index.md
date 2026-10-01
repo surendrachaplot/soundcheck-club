@@ -1,8 +1,8 @@
 # ¥ØU$UK€ ¥UK1MAT$U
 
-¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+¥ØU$UK€ ¥UK1MAT$U is a Techno and Experimental artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist based in Japan, tracked on soundcheck, with 173 sets logged across Amsterdam, Athens, Bali and Bangkok and 51 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+¥ØU$UK€ ¥UK1MAT$U is a techno and experimental artist based in Japan, with 173 gigs on soundcheck across Amsterdam, Athens, Bali and Bangkok and 51 more. Often billed alongside Blawan, DJ Gigola and Interplanetary Criminal. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@
 
 ## Recently played
 
-- Live From Wythenshawe Park, Manchester — Sun, 30 Aug 2026
-- Royal Highland Centre, Edinburgh — Sat, 29 Aug 2026
-- Haus der Visionäre, Berlin — Thu, 20 Aug 2026
-- 1015 Folsom, San Francisco/Oakland — Thu, 6 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- Downsview Park, Toronto — Fri, 31 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Bolivar Beach Bar, Athens — Fri, 26 Jun 2026
+- Live From Wythenshawe Park, Manchester · Sun, 30 Aug 2026
+- Royal Highland Centre, Edinburgh · Sat, 29 Aug 2026
+- Haus der Visionäre, Berlin · Thu, 20 Aug 2026
+- 1015 Folsom, San Francisco/Oakland · Thu, 6 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- Downsview Park, Toronto · Fri, 31 Jul 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- Bolivar Beach Bar, Athens · Fri, 26 Jun 2026
 
 ## Shares bills with
 

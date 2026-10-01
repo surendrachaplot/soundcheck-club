@@ -1,6 +1,6 @@
 # TECHNO MITTWOCH at Sensorium
 
-TECHNO MITTWOCH at Sensorium on Wed 28 Oct, Berlin. 3 artists on the bill: Bee Lincoln, pink-panther and Samo Rane. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TECHNO MITTWOCH at Sensorium on Wed 28 Oct, Berlin. 3 artists: Bee Lincoln, pink-panther and Samo Rane. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

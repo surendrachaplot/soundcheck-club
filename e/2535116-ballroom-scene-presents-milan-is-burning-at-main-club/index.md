@@ -1,6 +1,6 @@
 # Ballroom Scene presents MILAN IS BURNING! at Main Club
 
-Ballroom Scene presents MILAN IS BURNING! at Main Club on Sun 11 Oct, Milan. Preview the line-up and save it on soundcheck.
+Ballroom Scene presents MILAN IS BURNING! at Main Club on Sun 11 Oct, Milan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

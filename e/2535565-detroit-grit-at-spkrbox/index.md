@@ -1,6 +1,6 @@
 # Detroit Grit at Spkrbox
 
-Detroit Grit at Spkrbox on Wed 7 Oct, Detroit. 3 artists on the bill: A. Garcia, Brent Shay and Keith Tucker. Techno and Electro. Preview the line-up and save it on soundcheck.
+Detroit Grit at Spkrbox on Wed 7 Oct, Detroit. 3 artists: A. Garcia, Brent Shay and Keith Tucker. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

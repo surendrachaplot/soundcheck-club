@@ -1,6 +1,6 @@
 # SUPERNOVA x Halloween at Akasha Las Dalias Club - Ibiza
 
-SUPERNOVA x Halloween at Akasha Las Dalias Club - Ibiza on Sat 31 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+SUPERNOVA x Halloween at Akasha Las Dalias Club - Ibiza on Sat 31 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

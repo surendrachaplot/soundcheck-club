@@ -1,6 +1,6 @@
 # Creature Kin's Horror Show at Panke
 
-Creature Kin's Horror Show at Panke on Sat 31 Oct, Berlin. 2 artists on the bill: malicedeejay and Moreno. Breakbeat and Hardcore. Preview the line-up and save it on soundcheck.
+Creature Kin's Horror Show at Panke on Sat 31 Oct, Berlin. 2 artists: malicedeejay and Moreno. Breakbeat and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

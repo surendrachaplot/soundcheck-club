@@ -1,6 +1,6 @@
 # Mya HiFi meets Shere Khan Sound System at Brook House FC
 
-Mya HiFi meets Shere Khan Sound System at Brook House FC on Fri 23 Oct, London. Dub. Preview the line-up and save it on soundcheck.
+Mya HiFi meets Shere Khan Sound System at Brook House FC on Fri 23 Oct, London. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

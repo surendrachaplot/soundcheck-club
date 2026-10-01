@@ -1,8 +1,8 @@
 # Craic Feen
 
-Craic Feen is a Bass and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at H0L0, New York City on Sat, 3 Oct 2026.
+Craic Feen is a Bass and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Sat, 3 Oct 2026.
 
-Craic Feen is a bass and club artist based in Ireland, tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside Don-Ri, onlytom and Babypufff. Next up: H0L0, New York City on Sat 3 Oct.
+Craic Feen is a bass and club artist based in Ireland, with 8 gigs on soundcheck across New York City. Often billed alongside Don-Ri, onlytom and Babypufff. Next up: H0L0, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,12 +13,12 @@ Craic Feen is a bass and club artist based in Ireland, tracked on soundcheck, wi
 
 ## Recently played
 
-- Trans-Pecos, New York City — Sat, 8 Aug 2026
-- Bossa Nova Civic Club, New York City — Tue, 17 Mar 2026
-- TBA - Secret Location, New York City — Sat, 14 Mar 2026
-- Trans-Pecos, New York City — Sat, 22 Nov 2025
-- Mood Ring, New York City — Thu, 7 Aug 2025
-- Mood Ring, New York City — Wed, 11 Jun 2025
+- Trans-Pecos, New York City · Sat, 8 Aug 2026
+- Bossa Nova Civic Club, New York City · Tue, 17 Mar 2026
+- TBA - Secret Location, New York City · Sat, 14 Mar 2026
+- Trans-Pecos, New York City · Sat, 22 Nov 2025
+- Mood Ring, New York City · Thu, 7 Aug 2025
+- Mood Ring, New York City · Wed, 11 Jun 2025
 
 ## Shares bills with
 

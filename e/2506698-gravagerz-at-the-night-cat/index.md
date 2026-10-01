@@ -1,6 +1,6 @@
 # Gravagerz at The Night Cat
 
-Gravagerz at The Night Cat on Fri 6 Nov, Melbourne. 1 artist on the bill: Gravagerz. House and Garage. Preview the line-up and save it on soundcheck.
+Gravagerz at The Night Cat on Fri 6 Nov, Melbourne. 1 artist: Gravagerz. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle at Aoyama Hachi
 
-Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle at Aoyama Hachi on Fri 27 Nov, Tokyo. 3 artists on the bill: Gara, Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jazz'N'Bass -Drum'n'Bass174/87 & Jazzy Jungle at Aoyama Hachi on Fri 27 Nov, Tokyo. 3 artists: Gara, Kenta Tominaga and vinylDJ Eiji Takehana. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

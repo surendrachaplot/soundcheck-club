@@ -1,8 +1,8 @@
 # RaverPik
 
-RaverPik is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+RaverPik is a Trance and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
-RaverPik is a trance and techno artist based in Germany, tracked on soundcheck, with 94 sets logged across Amsterdam, Berlin, Budapest and Cologne and 14 more. Often billed alongside Sabu!, The Jakob Sister and Blame the Booker. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+RaverPik is a trance and techno artist based in Germany, with 94 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 14 more. Often billed alongside Sabu!, The Jakob Sister and Blame the Booker. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ RaverPik is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Şahika, Istanbul — Fri, 25 Sept 2026
-- elipamanoke, Leipzig — Fri, 18 Sept 2026
-- ://about blank, Berlin — Fri, 28 Aug 2026
-- Containerhafen, Berlin — Sun, 19 Jul 2026
-- Rote Sonne, Munich — Fri, 19 Jun 2026
-- ://about blank, Berlin — Fri, 29 May 2026
-- Fabrique im Gängeviertel, Hamburg — Fri, 22 May 2026
-- Moritzbastei, Leipzig — Sat, 16 May 2026
+- Şahika, Istanbul · Fri, 25 Sept 2026
+- elipamanoke, Leipzig · Fri, 18 Sept 2026
+- ://about blank, Berlin · Fri, 28 Aug 2026
+- Containerhafen, Berlin · Sun, 19 Jul 2026
+- Rote Sonne, Munich · Fri, 19 Jun 2026
+- ://about blank, Berlin · Fri, 29 May 2026
+- Fabrique im Gängeviertel, Hamburg · Fri, 22 May 2026
+- Moritzbastei, Leipzig · Sat, 16 May 2026
 
 ## Shares bills with
 

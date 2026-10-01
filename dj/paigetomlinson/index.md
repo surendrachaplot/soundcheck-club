@@ -1,8 +1,8 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 16 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Digital, Newcastle on Fri, 2 Oct 2026.
+Paige Tomlinson is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
 
-Paige Tomlinson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 167 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: Digital, Newcastle on Fri 2 Oct.
+Paige Tomlinson is a house and techno artist based in United Kingdom, with 167 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: Digital, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Paige Tomlinson is a house and techno artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Mon, 28 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- Laagravense Plas, Utrecht — Sat, 12 Sept 2026
-- Amnesia Ibiza, Ibiza — Mon, 7 Sept 2026
-- [UNVRS], Ibiza — Mon, 24 Aug 2026
-- Palmerstown House Estate, Dublin — Sun, 2 Aug 2026
-- Index, Dublin — Sun, 2 Aug 2026
-- Mondo, Madrid — Sat, 1 Aug 2026
+- Amnesia Ibiza, Ibiza · Mon, 28 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
+- Amnesia Ibiza, Ibiza · Mon, 7 Sept 2026
+- [UNVRS], Ibiza · Mon, 24 Aug 2026
+- Palmerstown House Estate, Dublin · Sun, 2 Aug 2026
+- Index, Dublin · Sun, 2 Aug 2026
+- Mondo, Madrid · Sat, 1 Aug 2026
 
 ## Shares bills with
 

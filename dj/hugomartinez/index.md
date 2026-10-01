@@ -1,8 +1,8 @@
 # Hugo Martinez
 
-Hugo Martinez is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Esbirra Ibiza, Ibiza on Sat, 31 Oct 2026.
+Hugo Martinez is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Esbirra Ibiza, Ibiza on Sat, 31 Oct 2026.
 
-Hugo Martinez is a house and minimal artist based in Spain, tracked on soundcheck, with 79 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Esbirra Ibiza, Ibiza on Sat 31 Oct.
+Hugo Martinez is a house and minimal artist based in Spain, with 79 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 12 more. Often billed alongside Pol K, Nuzzo and Carlos Vila. Next up: Esbirra Ibiza, Ibiza on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Hugo Martinez is a house and minimal artist based in Spain, tracked on soundchec
 
 ## Recently played
 
-- Esbirra Ibiza, Ibiza — Sat, 19 Sept 2026
-- Cadavra, Madrid — Fri, 31 Jul 2026
-- Esbirra Ibiza, Ibiza — Sat, 25 Jul 2026
-- Parc de la Trinitat, Barcelona — Sun, 19 Jul 2026
-- Pikes Ibiza, Ibiza — Sun, 12 Jul 2026
-- TBA - Secret Villa , Barcelona — Sat, 4 Jul 2026
-- Hola Club Sitges (Cala Vallcarca), Barcelona — Fri, 19 Jun 2026
-- Tipic., Ibiza — Sat, 13 Jun 2026
+- Esbirra Ibiza, Ibiza · Sat, 19 Sept 2026
+- Cadavra, Madrid · Fri, 31 Jul 2026
+- Esbirra Ibiza, Ibiza · Sat, 25 Jul 2026
+- Parc de la Trinitat, Barcelona · Sun, 19 Jul 2026
+- Pikes Ibiza, Ibiza · Sun, 12 Jul 2026
+- TBA - Secret Villa , Barcelona · Sat, 4 Jul 2026
+- Hola Club Sitges (Cala Vallcarca), Barcelona · Fri, 19 Jun 2026
+- Tipic., Ibiza · Sat, 13 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Minimalista Records / ASSEMBLAGE001 Release Party , Barcelona at Seawolf Records Barcelona
 
-Minimalista Records / ASSEMBLAGE001 Release Party , Barcelona at Seawolf Records Barcelona on Fri 9 Oct, Barcelona. 2 artists on the bill: C.I.S.C.O and MURI. House and Minimal. Preview the line-up and save it on soundcheck.
+Minimalista Records / ASSEMBLAGE001 Release Party , Barcelona at Seawolf Records Barcelona on Fri 9 Oct, Barcelona. 2 artists: C.I.S.C.O and MURI. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

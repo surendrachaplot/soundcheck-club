@@ -1,8 +1,8 @@
 # AUDIO303
 
-AUDIO303 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Das Werk, Vienna on Fri, 2 Oct 2026.
+AUDIO303 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Das Werk, Vienna on Fri, 2 Oct 2026.
 
-AUDIO303 is a techno and trance artist tracked on soundcheck, with 24 sets logged across Vienna and Zurich. Often billed alongside SCHMU, LUZZT and Trugbild. Next up: Das Werk, Vienna on Fri 2 Oct.
+AUDIO303 is a techno and trance artist, with 24 gigs on soundcheck across Vienna and Zurich. Often billed alongside SCHMU, LUZZT and Trugbild. Next up: Das Werk, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ AUDIO303 is a techno and trance artist tracked on soundcheck, with 24 sets logge
 
 ## Recently played
 
-- Das Werk, Vienna — Fri, 4 Sept 2026
-- FLUCC, Vienna — Sat, 23 May 2026
-- Das Werk, Vienna — Sat, 22 Nov 2025
-- Celeste, Vienna — Fri, 4 Jul 2025
-- Grelle Forelle, Vienna — Fri, 6 Jun 2025
-- Das Werk, Vienna — Fri, 23 May 2025
-- Das Werk, Vienna — Fri, 25 Apr 2025
-- Das Werk, Vienna — Fri, 24 Jan 2025
+- Das Werk, Vienna · Fri, 4 Sept 2026
+- FLUCC, Vienna · Sat, 23 May 2026
+- Das Werk, Vienna · Sat, 22 Nov 2025
+- Celeste, Vienna · Fri, 4 Jul 2025
+- Grelle Forelle, Vienna · Fri, 6 Jun 2025
+- Das Werk, Vienna · Fri, 23 May 2025
+- Das Werk, Vienna · Fri, 25 Apr 2025
+- Das Werk, Vienna · Fri, 24 Jan 2025
 
 ## Shares bills with
 

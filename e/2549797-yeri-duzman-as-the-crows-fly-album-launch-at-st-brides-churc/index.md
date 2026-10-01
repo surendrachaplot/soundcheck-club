@@ -1,6 +1,6 @@
 # yeri duzman 'as the crows fly' album launch at St Brides Church Liverpool
 
-yeri duzman 'as the crows fly' album launch at St Brides Church Liverpool on Fri 13 Nov, Liverpool. 1 artist on the bill: yeri. Club and IDM. Preview the line-up and save it on soundcheck.
+yeri duzman 'as the crows fly' album launch at St Brides Church Liverpool on Fri 13 Nov, Liverpool. 1 artist: yeri. Club and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

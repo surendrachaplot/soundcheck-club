@@ -1,8 +1,8 @@
 # Sander Kleinenberg
 
-Sander Kleinenberg is a House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wiggle Room, Toronto on Sun, 18 Oct 2026.
+Sander Kleinenberg is a House and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wiggle Room, Toronto on Sun, 18 Oct 2026.
 
-Sander Kleinenberg is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Brighton, Detroit and Ibiza and 7 more. Often billed alongside Alexander Koning, Dimitri and Erick E. Next up: Wiggle Room, Toronto on Sun 18 Oct.
+Sander Kleinenberg is a house and progressive house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Brighton, Detroit and Ibiza and 7 more. Often billed alongside Alexander Koning, Dimitri and Erick E. Next up: Wiggle Room, Toronto on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Sander Kleinenberg is a house and progressive house artist based in Netherlands,
 
 ## Recently played
 
-- Paal69, Amsterdam — Sat, 26 Sept 2026
-- Paal69, Amsterdam — Sat, 20 Jun 2026
-- Houtbaar Haarlem, Amsterdam — Sun, 24 May 2026
-- Thuishaven, Amsterdam — Sat, 7 Mar 2026
-- Onder Hans, Amsterdam — Fri, 16 Jan 2026
-- Thuishaven, Amsterdam — Sat, 8 Nov 2025
-- Panama, Amsterdam — Fri, 17 Oct 2025
-- Maassilo, Rotterdam — Sat, 4 Oct 2025
+- Paal69, Amsterdam · Sat, 26 Sept 2026
+- Paal69, Amsterdam · Sat, 20 Jun 2026
+- Houtbaar Haarlem, Amsterdam · Sun, 24 May 2026
+- Thuishaven, Amsterdam · Sat, 7 Mar 2026
+- Onder Hans, Amsterdam · Fri, 16 Jan 2026
+- Thuishaven, Amsterdam · Sat, 8 Nov 2025
+- Panama, Amsterdam · Fri, 17 Oct 2025
+- Maassilo, Rotterdam · Sat, 4 Oct 2025
 
 ## Shares bills with
 

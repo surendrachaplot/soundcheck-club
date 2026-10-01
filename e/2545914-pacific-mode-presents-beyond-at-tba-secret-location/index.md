@@ -1,6 +1,6 @@
 # PACIFIC MODE presents Beyond at TBA - Secret Location
 
-PACIFIC MODE presents Beyond at TBA - Secret Location on Fri 20 Nov, New York City. 2 artists on the bill: Daniel Bell and Significant Other. Deep House and Experimental. Preview the line-up and save it on soundcheck.
+PACIFIC MODE presents Beyond at TBA - Secret Location on Fri 20 Nov, New York City. 2 artists: Daniel Bell and Significant Other. Deep House and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

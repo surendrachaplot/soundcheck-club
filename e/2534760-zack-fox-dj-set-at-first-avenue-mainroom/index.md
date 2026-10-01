@@ -1,6 +1,6 @@
 # Zack Fox (DJ Set) at First Avenue Mainroom
 
-Zack Fox (DJ Set) at First Avenue Mainroom on Thu 15 Oct, Minneapolis St Paul. 1 artist on the bill: Zack Fox. Preview the line-up and save it on soundcheck.
+Zack Fox (DJ Set) at First Avenue Mainroom on Thu 15 Oct, Minneapolis St Paul. 1 artist: Zack Fox. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Manda Moor
 
-Manda Moor is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ironworks, London on Sat, 3 Oct 2026.
+Manda Moor is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ironworks, London on Sat, 3 Oct 2026.
 
-Manda Moor is a tech house and house artist based in France, tracked on soundcheck, with 174 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Jamie Jones, Sirus Hood and Loco Dice. Next up: Ironworks, London on Sat 3 Oct.
+Manda Moor is a tech house and house artist based in France, with 174 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Jamie Jones, Sirus Hood and Loco Dice. Next up: Ironworks, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Manda Moor is a tech house and house artist based in France, tracked on soundche
 
 ## Recently played
 
-- Playa Soleil Ibiza, Ibiza — Wed, 30 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 19 Sept 2026
-- Ku Barcelona, Barcelona — Sun, 6 Sept 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Lofi, Amsterdam — Sat, 8 Aug 2026
-- [UNVRS], Ibiza — Wed, 5 Aug 2026
-- [UNVRS], Ibiza — Sat, 18 Jul 2026
-- SAGE, Berlin — Sat, 11 Jul 2026
+- Playa Soleil Ibiza, Ibiza · Wed, 30 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 19 Sept 2026
+- Ku Barcelona, Barcelona · Sun, 6 Sept 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
+- Lofi, Amsterdam · Sat, 8 Aug 2026
+- [UNVRS], Ibiza · Wed, 5 Aug 2026
+- [UNVRS], Ibiza · Sat, 18 Jul 2026
+- SAGE, Berlin · Sat, 11 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Minzi Roberta, Isa Boom & Noel at Bar Datcha
 
-Minzi Roberta, Isa Boom & Noel at Bar Datcha on Thu 1 Oct, Montreal. 1 artist on the bill: Isa Boom. Preview the line-up and save it on soundcheck.
+Minzi Roberta, Isa Boom & Noel at Bar Datcha on Thu 1 Oct, Montreal. 1 artist: Isa Boom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

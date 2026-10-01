@@ -1,6 +1,6 @@
 # TECHNO/TRANCE Classics - 1st Festival of Lights Clubnight at PKH Warehouse
 
-TECHNO/TRANCE Classics - 1st Festival of Lights Clubnight at PKH Warehouse on Fri 9 Oct, Berlin. Trance and Techno. Preview the line-up and save it on soundcheck.
+TECHNO/TRANCE Classics - 1st Festival of Lights Clubnight at PKH Warehouse on Fri 9 Oct, Berlin. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Antrieb 46 W/ Tiefundton + VBR Residents at Der Weiße Hase
 
-Antrieb 46 W/ Tiefundton + VBR Residents at Der Weiße Hase on Fri 4 Dec, Berlin. 7 artists on the bill: DarK LiZZ, Felix Reichelt, Kaminka Merel and Marcus Meya and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Antrieb 46 W/ Tiefundton + VBR Residents at Der Weiße Hase on Fri 4 Dec, Berlin. 7 artists: DarK LiZZ, Felix Reichelt, Kaminka Merel and Marcus Meya and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

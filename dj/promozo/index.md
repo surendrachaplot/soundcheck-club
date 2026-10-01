@@ -1,8 +1,8 @@
 # Promo ZO
 
-Promo ZO is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Croft, Bristol on Sat, 24 Oct 2026.
+Promo ZO is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Croft, Bristol on Sat, 24 Oct 2026.
 
-Promo ZO is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Bristol, London and Malta. Often billed alongside Bryan Gee, Moose and Jumping Jack Frost. Next up: The Croft, Bristol on Sat 24 Oct.
+Promo ZO is a drum & bass and jungle artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, London and Malta. Often billed alongside Bryan Gee, Moose and Jumping Jack Frost. Next up: The Croft, Bristol on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Promo ZO is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- XOYO, London — Sat, 25 Jul 2026
-- UNLOCKED, London — Sat, 28 Mar 2026
-- NUMBER 90 LONDON, London — Sat, 28 Mar 2026
-- EartH, London — Sat, 28 Feb 2026
-- fabric, London — Fri, 13 Feb 2026
-- Hootananny Brixton, London — Fri, 13 Feb 2026
-- fabric, London — Sat, 15 Nov 2025
-- Boxpark Shoreditch, London — Sun, 2 Nov 2025
+- XOYO, London · Sat, 25 Jul 2026
+- UNLOCKED, London · Sat, 28 Mar 2026
+- NUMBER 90 LONDON, London · Sat, 28 Mar 2026
+- EartH, London · Sat, 28 Feb 2026
+- fabric, London · Fri, 13 Feb 2026
+- Hootananny Brixton, London · Fri, 13 Feb 2026
+- fabric, London · Sat, 15 Nov 2025
+- Boxpark Shoreditch, London · Sun, 2 Nov 2025
 
 ## Shares bills with
 

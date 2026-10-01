@@ -1,6 +1,6 @@
 # Rave im Kloster - one last time with RIKHTER live at Kloster Anrode
 
-Rave im Kloster - one last time with RIKHTER live at Kloster Anrode on Sat 24 Oct, Thuringia. 1 artist on the bill: RIKHTER. Preview the line-up and save it on soundcheck.
+Rave im Kloster - one last time with RIKHTER live at Kloster Anrode on Sat 24 Oct, Thuringia. 1 artist: RIKHTER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

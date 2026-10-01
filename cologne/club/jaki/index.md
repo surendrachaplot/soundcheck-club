@@ -1,8 +1,8 @@
 # JAKI
 
-JAKI is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "E.P.I.Q Nights: 5th Birthday Special" on Fri, 2 Oct 2026.
+JAKI is a music venue in Cologne with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "E.P.I.Q Nights: 5th Birthday Special" on Fri, 2 Oct 2026.
 
-JAKI is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including AMSL, Anna Cainelli, Back2Bass and BUTTMONEY and 2 more. Browse upcoming dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
+JAKI is a music venue in Cologne listed on soundcheck. 6 upcoming gigs, with line-ups including AMSL, Anna Cainelli, Back2Bass and BUTTMONEY and 2 more. See dates, start times and who's playing. Venloer Str. 40,  50672 Cologne.
 
 ## What's on
 

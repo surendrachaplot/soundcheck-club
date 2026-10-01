@@ -1,6 +1,6 @@
 # 5th Anniversary Party05- 位置情報 at Djbar Lollapalooza
 
-5th Anniversary Party05- 位置情報 at Djbar Lollapalooza on Tue 6 Oct, Osaka. Club. Preview the line-up and save it on soundcheck.
+5th Anniversary Party05- 位置情報 at Djbar Lollapalooza on Tue 6 Oct, Osaka. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

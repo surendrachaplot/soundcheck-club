@@ -1,8 +1,8 @@
 # Ryan Sadorus
 
-Ryan Sadorus is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Per Ankh Detroit Entheogenic Church, Detroit on Sat, 3 Oct 2026.
+Ryan Sadorus is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Per Ankh Detroit Entheogenic Church, Detroit on Sat, 3 Oct 2026.
 
-Ryan Sadorus is a house and deep house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Detroit. Often billed alongside Gregboi, Marcus NF Harris and Brian Kage. Next up: Per Ankh Detroit Entheogenic Church, Detroit on Sat 3 Oct.
+Ryan Sadorus is a house and deep house artist based in United States of America, with 66 gigs on soundcheck across Detroit. Often billed alongside Gregboi, Marcus NF Harris and Brian Kage. Next up: Per Ankh Detroit Entheogenic Church, Detroit on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Ryan Sadorus is a house and deep house artist based in United States of America,
 
 ## Recently played
 
-- TBA - Roar Brewing, Detroit — Sat, 26 Sept 2026
-- Spkrbox, Detroit — Sat, 12 Sept 2026
-- TV Lounge, Detroit — Sat, 15 Aug 2026
-- Roar Brewing (Detroit), Detroit — Sat, 15 Aug 2026
-- TV Lounge, Detroit — Thu, 13 Aug 2026
-- Tangent Gallery, Detroit — Thu, 13 Aug 2026
-- Spkrbox, Detroit — Sat, 8 Aug 2026
-- Spkrbox, Detroit — Sat, 8 Aug 2026
+- TBA - Roar Brewing, Detroit · Sat, 26 Sept 2026
+- Spkrbox, Detroit · Sat, 12 Sept 2026
+- TV Lounge, Detroit · Sat, 15 Aug 2026
+- Roar Brewing (Detroit), Detroit · Sat, 15 Aug 2026
+- TV Lounge, Detroit · Thu, 13 Aug 2026
+- Tangent Gallery, Detroit · Thu, 13 Aug 2026
+- Spkrbox, Detroit · Sat, 8 Aug 2026
+- Spkrbox, Detroit · Sat, 8 Aug 2026
 
 ## Shares bills with
 

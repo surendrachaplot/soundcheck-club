@@ -1,6 +1,6 @@
 # polyamor at Kesselhaus Augsburg
 
-polyamor at Kesselhaus Augsburg on Fri 20 Nov, Augsburg. 3 artists on the bill: 2HOT2PLAY, Cleopard2000 and Mika Heggemann. Preview the line-up and save it on soundcheck.
+polyamor at Kesselhaus Augsburg on Fri 20 Nov, Augsburg. 3 artists: 2HOT2PLAY, Cleopard2000 and Mika Heggemann. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

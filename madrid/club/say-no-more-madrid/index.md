@@ -1,8 +1,8 @@
 # Say No More Madrid
 
-Say No More Madrid is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dani Ramos & Calu Rivero X Say No More" on Thu, 1 Oct 2026.
+Say No More Madrid is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dani Ramos & Calu Rivero X Say No More" on Thu, 1 Oct 2026.
 
-Say No More Madrid is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including ANDREA VANDALL, Dani Ramos, David August and SAMIA. Browse upcoming dates, start times and who's playing. Gran Vía, 11, Centro, 28013 Madrid.
+Say No More Madrid is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including ANDREA VANDALL, Dani Ramos, David August and SAMIA. See dates, start times and who's playing. Gran Vía, 11, Centro, 28013 Madrid.
 
 ## What's on
 

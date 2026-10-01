@@ -1,6 +1,6 @@
 # Main Phase at 1015 Folsom
 
-Main Phase at 1015 Folsom on Fri 6 Nov, San Francisco/Oakland. 1 artist on the bill: Main Phase. Garage. Preview the line-up and save it on soundcheck.
+Main Phase at 1015 Folsom on Fri 6 Nov, San Francisco/Oakland. 1 artist: Main Phase. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Darude - Hype Tour at La Otra Wynwood
 
-Darude - Hype Tour at La Otra Wynwood on Fri 20 Nov, Miami. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Darude - Hype Tour at La Otra Wynwood on Fri 20 Nov, Miami. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

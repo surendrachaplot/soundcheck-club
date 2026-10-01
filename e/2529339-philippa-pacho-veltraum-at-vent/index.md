@@ -1,6 +1,6 @@
 # Philippa Pacho / VELTRAUM at VENT
 
-Philippa Pacho / VELTRAUM at VENT on Sat 21 Nov, Tokyo. 1 artist on the bill: Philippa Pacho. Techno. Preview the line-up and save it on soundcheck.
+Philippa Pacho / VELTRAUM at VENT on Sat 21 Nov, Tokyo. 1 artist: Philippa Pacho. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

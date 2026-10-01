@@ -1,6 +1,6 @@
 # CHOPPED SATURDAY at The Model
 
-CHOPPED SATURDAY at The Model on Sat 10 Oct, Nottingham. Techno and Pop. Preview the line-up and save it on soundcheck.
+CHOPPED SATURDAY at The Model on Sat 10 Oct, Nottingham. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

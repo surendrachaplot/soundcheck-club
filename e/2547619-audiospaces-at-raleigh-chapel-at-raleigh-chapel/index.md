@@ -1,6 +1,6 @@
 # AudioSpaces at Raleigh Chapel at Raleigh Chapel
 
-AudioSpaces at Raleigh Chapel on Sat 24 Oct, London. Experimental. Preview the line-up and save it on soundcheck.
+AudioSpaces at Raleigh Chapel on Sat 24 Oct, London. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

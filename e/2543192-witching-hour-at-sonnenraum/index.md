@@ -1,6 +1,6 @@
 # Witching Hour at Sonnenraum
 
-Witching Hour at Sonnenraum on Sun 11 Oct, Berlin. 3 artists on the bill: Dragana, Justin Shaffer and Margaret Dygas. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Witching Hour at Sonnenraum on Sun 11 Oct, Berlin. 3 artists: Dragana, Justin Shaffer and Margaret Dygas. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EDITH x NOVA — Djáno / Eva Sorbonne b2b Dj Last Night / Dj Reload at Edith
 
-EDITH x NOVA — Djáno / Eva Sorbonne b2b Dj Last Night / Dj Reload at Edith on Thu 1 Oct, Budapest. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+EDITH x NOVA — Djáno / Eva Sorbonne b2b Dj Last Night / Dj Reload at Edith on Thu 1 Oct, Budapest. Minimal and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

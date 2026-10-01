@@ -1,6 +1,6 @@
 # HDC 3-YEAR ANNIVERSARY (NIGHT ONE) at TBA
 
-HDC 3-YEAR ANNIVERSARY (NIGHT ONE) at TBA on Fri 11 Dec, Washington DC. Preview the line-up and save it on soundcheck.
+HDC 3-YEAR ANNIVERSARY (NIGHT ONE) at TBA on Fri 11 Dec, Washington DC. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ Henk
 
-DJ Henk is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Wed, 7 Oct 2026.
+DJ Henk is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Wed, 7 Oct 2026.
 
-DJ Henk is a trance and techno artist based in Germany, tracked on soundcheck, with 142 sets logged across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside get no, $EITAN777 and KLING&KLANG. Next up: Lokschuppen Berlin, Berlin on Wed 7 Oct.
+DJ Henk is a trance and techno artist based in Germany, with 142 gigs on soundcheck across Amsterdam, Berlin, Budapest and Cologne and 6 more. Often billed alongside get no, $EITAN777 and KLING&KLANG. Next up: Lokschuppen Berlin, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ DJ Henk is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Fri, 25 Sept 2026
-- KitKatClub, Berlin — Thu, 17 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 11 Sept 2026
-- Lokschuppen Berlin, Berlin — Sun, 6 Sept 2026
-- Lokschuppen Berlin, Berlin — Sun, 23 Aug 2026
-- Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
-- KitKatClub, Berlin — Thu, 13 Aug 2026
-- KitKatClub, Berlin — Thu, 16 Jul 2026
+- Lokschuppen Berlin, Berlin · Fri, 25 Sept 2026
+- KitKatClub, Berlin · Thu, 17 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 11 Sept 2026
+- Lokschuppen Berlin, Berlin · Sun, 6 Sept 2026
+- Lokschuppen Berlin, Berlin · Sun, 23 Aug 2026
+- Lokschuppen Berlin, Berlin · Sat, 15 Aug 2026
+- KitKatClub, Berlin · Thu, 13 Aug 2026
+- KitKatClub, Berlin · Thu, 16 Jul 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # rrao
 
-rrao is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Good Room, New York City on Thu, 1 Oct 2026.
+rrao is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Good Room, New York City on Thu, 1 Oct 2026.
 
-rrao is a techno and bass artist based in United States of America, tracked on soundcheck, with 33 sets logged across New York City, Portland and Tokyo. Often billed alongside Enayet, Simisea and K Wata. Next up: Good Room, New York City on Thu 1 Oct.
+rrao is a techno and bass artist based in United States of America, with 33 gigs on soundcheck across New York City, Portland and Tokyo. Often billed alongside Enayet, Simisea and K Wata. Next up: Good Room, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ rrao is a techno and bass artist based in United States of America, tracked on s
 
 ## Recently played
 
-- Mood Ring, New York City — Sat, 5 Sept 2026
-- 314 Scholes, New York City — Sat, 11 Jul 2026
-- Nowadays, New York City — Sat, 2 May 2026
-- Paragon, New York City — Sat, 11 Oct 2025
-- TBA - Out n About Treesort, Portland — Thu, 25 Sept 2025
-- Nowadays, New York City — Sat, 16 Aug 2025
-- H0L0, New York City — Sat, 21 Jun 2025
-- Under the K Bridge, New York City — Sat, 17 May 2025
+- Mood Ring, New York City · Sat, 5 Sept 2026
+- 314 Scholes, New York City · Sat, 11 Jul 2026
+- Nowadays, New York City · Sat, 2 May 2026
+- Paragon, New York City · Sat, 11 Oct 2025
+- TBA - Out n About Treesort, Portland · Thu, 25 Sept 2025
+- Nowadays, New York City · Sat, 16 Aug 2025
+- H0L0, New York City · Sat, 21 Jun 2025
+- Under the K Bridge, New York City · Sat, 17 May 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Hell On Earth - A Massive Halloween at Massive
 
-Hell On Earth - A Massive Halloween on Sat 31 Oct, Seattle. 2 artists on the bill: Jacob Meehan and Prosumer. House and Acid. Preview the line-up and save it on soundcheck.
+Hell On Earth - A Massive Halloween on Sat 31 Oct, Seattle. 2 artists: Jacob Meehan and Prosumer. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

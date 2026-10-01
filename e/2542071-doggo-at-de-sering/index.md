@@ -1,6 +1,6 @@
 # DOGGO at De Sering
 
-DOGGO at De Sering on Sat 17 Oct, Amsterdam. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+DOGGO at De Sering on Sat 17 Oct, Amsterdam. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

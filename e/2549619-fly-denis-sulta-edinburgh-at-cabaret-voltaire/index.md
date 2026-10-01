@@ -1,6 +1,6 @@
 # FLY - Denis Sulta - Edinburgh at Cabaret Voltaire
 
-FLY - Denis Sulta - Edinburgh at Cabaret Voltaire on Fri 27 Nov, Edinburgh. 1 artist on the bill: Denis Sulta. Preview the line-up and save it on soundcheck.
+FLY - Denis Sulta - Edinburgh at Cabaret Voltaire on Fri 27 Nov, Edinburgh. 1 artist: Denis Sulta. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

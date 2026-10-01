@@ -1,8 +1,8 @@
 # Lehar
 
-Lehar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Klein Phönix, Istanbul on Sat, 10 Oct 2026.
+Lehar is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Klein Phönix, Istanbul on Sat, 10 Oct 2026.
 
-Lehar is a house and techno artist based in Italy, tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Musumeci, Denis Horvat and CENKK. Next up: Klein Phönix, Istanbul on Sat 10 Oct.
+Lehar is a house and techno artist based in Italy, with 71 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 27 more. Often billed alongside Musumeci, Denis Horvat and CENKK. Next up: Klein Phönix, Istanbul on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Lehar is a house and techno artist based in Italy, tracked on soundcheck, with 7
 
 ## Recently played
 
-- TBA - Powered by: Void Acoustics, Madrid — Fri, 11 Sept 2026
-- TBA - MAERA, Mykonos — Fri, 28 Aug 2026
-- Barco Sound House, Madrid — Fri, 17 Jul 2026
-- Playa Soleil Ibiza, Ibiza — Tue, 14 Jul 2026
-- Barco Sound House, Madrid — Sat, 20 Jun 2026
-- BORIS CLUB, Barcelona — Fri, 19 Jun 2026
-- E1, London — Sat, 30 May 2026
-- Chinois Ibiza, Ibiza — Fri, 22 May 2026
+- TBA - Powered by: Void Acoustics, Madrid · Fri, 11 Sept 2026
+- TBA - MAERA, Mykonos · Fri, 28 Aug 2026
+- Barco Sound House, Madrid · Fri, 17 Jul 2026
+- Playa Soleil Ibiza, Ibiza · Tue, 14 Jul 2026
+- Barco Sound House, Madrid · Sat, 20 Jun 2026
+- BORIS CLUB, Barcelona · Fri, 19 Jun 2026
+- E1, London · Sat, 30 May 2026
+- Chinois Ibiza, Ibiza · Fri, 22 May 2026
 
 ## Shares bills with
 

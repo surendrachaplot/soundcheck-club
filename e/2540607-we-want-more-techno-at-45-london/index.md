@@ -1,6 +1,6 @@
 # WE WANT MORE TECHNO at 45 London
 
-WE WANT MORE TECHNO at 45 London on Fri 4 Dec, London. Techno and Acid. Preview the line-up and save it on soundcheck.
+WE WANT MORE TECHNO at 45 London on Fri 4 Dec, London. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

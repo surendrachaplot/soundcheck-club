@@ -1,6 +1,6 @@
 # Naschen at K39
 
-Naschen at K39 on Sat 24 Oct, Frankfurt. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Naschen at K39 on Sat 24 Oct, Frankfurt. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

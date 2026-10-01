@@ -1,6 +1,6 @@
 # FAMÍLIA at Wilder als Erwartet
 
-FAMÍLIA at Wilder als Erwartet on Thu 1 Oct, Berlin. 2 artists on the bill: D[NOWHERE]J and gugol maps. Baile Funk and Gqom. Preview the line-up and save it on soundcheck.
+FAMÍLIA at Wilder als Erwartet on Thu 1 Oct, Berlin. 2 artists: D[NOWHERE]J and gugol maps. Baile Funk and Gqom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

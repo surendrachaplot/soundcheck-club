@@ -1,8 +1,8 @@
 # Brasi
 
-Brasi is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Il Casale Dell'Arte, Sicily on Fri, 2 Oct 2026.
+Brasi is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Il Casale Dell'Arte, Sicily on Fri, 2 Oct 2026.
 
-Brasi is a techno and house artist based in Italy, tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 33 more. Often billed alongside Niff, Jane Fitz and Alexia Glensy. Next up: TBA - Il Casale Dell'Arte, Sicily on Fri 2 Oct.
+Brasi is a techno and house artist based in Italy, with 137 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 33 more. Often billed alongside Niff, Jane Fitz and Alexia Glensy. Next up: TBA - Il Casale Dell'Arte, Sicily on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Brasi is a techno and house artist based in Italy, tracked on soundcheck, with 1
 
 ## Recently played
 
-- THE MAGICK BAR, Rome — Sat, 26 Sept 2026
-- Bunker, Turin — Sat, 12 Sept 2026
-- Villa Ricotti - La Valera, Milan — Sat, 5 Sept 2026
-- THE MAGICK BAR, Rome — Fri, 4 Sept 2026
-- Soffio Fregene, Rome — Sun, 23 Aug 2026
-- TBA - Secret Location, London — Sun, 2 Aug 2026
-- THE MAGICK BAR, Rome — Sat, 1 Aug 2026
-- Sunseabar Beach Club, Barcelona — Sun, 26 Jul 2026
+- THE MAGICK BAR, Rome · Sat, 26 Sept 2026
+- Bunker, Turin · Sat, 12 Sept 2026
+- Villa Ricotti - La Valera, Milan · Sat, 5 Sept 2026
+- THE MAGICK BAR, Rome · Fri, 4 Sept 2026
+- Soffio Fregene, Rome · Sun, 23 Aug 2026
+- TBA - Secret Location, London · Sun, 2 Aug 2026
+- THE MAGICK BAR, Rome · Sat, 1 Aug 2026
+- Sunseabar Beach Club, Barcelona · Sun, 26 Jul 2026
 
 ## Shares bills with
 

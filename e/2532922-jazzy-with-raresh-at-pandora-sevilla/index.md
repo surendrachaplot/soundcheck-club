@@ -1,6 +1,6 @@
 # Jazzy with Raresh at Pandora Sevilla
 
-Jazzy with Raresh at Pandora Sevilla on Sat 10 Oct, South. 4 artists on the bill: Alvaro Medina, Enzo Leep, Jordi Castell and Raresh. Preview the line-up and save it on soundcheck.
+Jazzy with Raresh at Pandora Sevilla on Sat 10 Oct, South. 4 artists: Alvaro Medina, Enzo Leep, Jordi Castell and Raresh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

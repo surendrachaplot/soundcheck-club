@@ -1,6 +1,6 @@
 # Ø[Phase] - Holden Federico - Jėck - Lincoln Factory at Lincoln Factory
 
-Ø[Phase] - Holden Federico - Jėck - Lincoln Factory on Sat 3 Oct, Detroit. 3 artists on the bill: Holden Federico, Jėck and Ø [Phase]. Techno. Preview the line-up and save it on soundcheck.
+Ø[Phase] - Holden Federico - Jėck - Lincoln Factory on Sat 3 Oct, Detroit. 3 artists: Holden Federico, Jėck and Ø [Phase]. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

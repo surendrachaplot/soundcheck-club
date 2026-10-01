@@ -1,8 +1,8 @@
 # zerka
 
-zerka is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Minimal Bar, Berlin on Wed, 4 Nov 2026.
+zerka is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Minimal Bar, Berlin on Wed, 4 Nov 2026.
 
-zerka is an electronic artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Cleemente, Kat_Es and Linnh. Next up: Minimal Bar, Berlin on Wed 4 Nov.
+zerka is an electronic artist based in Germany, with 8 gigs on soundcheck across Berlin. Often billed alongside Cleemente, Kat_Es and Linnh. Next up: Minimal Bar, Berlin on Wed 4 Nov.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ zerka is an electronic artist based in Germany, tracked on soundcheck, with 8 se
 
 ## Recently played
 
-- Minimal Bar, Berlin — Sun, 8 Mar 2026
-- Minimal Bar, Berlin — Fri, 5 Sept 2025
-- Minimal Bar, Berlin — Fri, 1 Aug 2025
-- Minimal Bar, Berlin — Wed, 4 Jun 2025
-- B-Part am Gleisdreieck, Berlin — Fri, 2 May 2025
-- Minimal Bar, Berlin — Fri, 1 Nov 2024
-- Minimal Bar, Berlin — Mon, 8 Jul 2024
+- Minimal Bar, Berlin · Sun, 8 Mar 2026
+- Minimal Bar, Berlin · Fri, 5 Sept 2025
+- Minimal Bar, Berlin · Fri, 1 Aug 2025
+- Minimal Bar, Berlin · Wed, 4 Jun 2025
+- B-Part am Gleisdreieck, Berlin · Fri, 2 May 2025
+- Minimal Bar, Berlin · Fri, 1 Nov 2024
+- Minimal Bar, Berlin · Mon, 8 Jul 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Infra presents: Anthony Rother, Profiler, & m.j. powers at The Lower Level
 
-Infra presents: Anthony Rother, Profiler, & m.j. powers at The Lower Level on Sat 24 Oct, Boston. 1 artist on the bill: Anthony Rother. Techno. Preview the line-up and save it on soundcheck.
+Infra presents: Anthony Rother, Profiler, & m.j. powers at The Lower Level on Sat 24 Oct, Boston. 1 artist: Anthony Rother. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

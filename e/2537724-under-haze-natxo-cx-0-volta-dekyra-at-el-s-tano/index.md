@@ -1,6 +1,6 @@
 # UNDER HAZE: Natxo, CX-0, VOLTA DEKYRA at EL SÓTANO
 
-UNDER HAZE: Natxo, CX-0, VOLTA DEKYRA at EL SÓTANO on Thu 29 Oct, Madrid. 1 artist on the bill: Natxo. Trance and Techno. Preview the line-up and save it on soundcheck.
+UNDER HAZE: Natxo, CX-0, VOLTA DEKYRA at EL SÓTANO on Thu 29 Oct, Madrid. 1 artist: Natxo. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

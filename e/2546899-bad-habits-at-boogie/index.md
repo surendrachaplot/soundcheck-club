@@ -1,6 +1,6 @@
 # bad habits at Boogie
 
-bad habits at Boogie on Thu 1 Oct, Toronto. 2 artists on the bill: Maves and Nehir. Electronica. Preview the line-up and save it on soundcheck.
+bad habits at Boogie on Thu 1 Oct, Toronto. 2 artists: Maves and Nehir. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

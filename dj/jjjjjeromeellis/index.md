@@ -1,8 +1,8 @@
 # JJJJJerome Ellis
 
-JJJJJerome Ellis is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Strange Brew, Bristol on Wed, 7 Oct 2026.
+JJJJJerome Ellis is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Strange Brew, Bristol on Wed, 7 Oct 2026.
 
-JJJJJerome Ellis is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 11 sets logged across Athens, Berlin, Bristol and Frankfurt and 4 more. Often billed alongside Yu Su, Batu and Buttechno. Next up: Strange Brew, Bristol on Wed 7 Oct.
+JJJJJerome Ellis is an experimental and ambient artist based in United States of America, with 11 gigs on soundcheck across Athens, Berlin, Bristol and Frankfurt and 4 more. Often billed alongside Yu Su, Batu and Buttechno. Next up: Strange Brew, Bristol on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ JJJJJerome Ellis is an experimental and ambient artist based in United States of
 
 ## Recently played
 
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- TBA - Multiple Venues , The Hague — Thu, 9 Apr 2026
-- TBA, Berlin — Wed, 1 Oct 2025
-- Onassis Stegi, Athens — Sun, 28 Apr 2024
-- Silent Green, Berlin — Thu, 2 Nov 2023
-- Willy-Brandt-Platz, Frankfurt — Fri, 22 Sept 2023
-- The Getty Center, Los Angeles — Sun, 17 Sept 2023
-- Nowadays, New York City — Thu, 23 Feb 2023
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- TBA - Multiple Venues , The Hague · Thu, 9 Apr 2026
+- TBA, Berlin · Wed, 1 Oct 2025
+- Onassis Stegi, Athens · Sun, 28 Apr 2024
+- Silent Green, Berlin · Thu, 2 Nov 2023
+- Willy-Brandt-Platz, Frankfurt · Fri, 22 Sept 2023
+- The Getty Center, Los Angeles · Sun, 17 Sept 2023
+- Nowadays, New York City · Thu, 23 Feb 2023
 
 ## Shares bills with
 

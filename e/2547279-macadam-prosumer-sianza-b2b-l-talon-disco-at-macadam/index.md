@@ -1,6 +1,6 @@
 # Macadam • Prosumer ~ sianza B2B L'Étalon Disco at Macadam
 
-Macadam • Prosumer ~ sianza B2B L'Étalon Disco on Fri 13 Nov, Nantes. 2 artists on the bill: Prosumer and sianza. House and Disco. Preview the line-up and save it on soundcheck.
+Macadam • Prosumer ~ sianza B2B L'Étalon Disco on Fri 13 Nov, Nantes. 2 artists: Prosumer and sianza. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FLY - Cam Stockman - Glasgow at Sub Club
 
-FLY - Cam Stockman - Glasgow at Sub Club on Thu 15 Oct, Glasgow. 1 artist on the bill: Cam Stockman. House. Preview the line-up and save it on soundcheck.
+FLY - Cam Stockman - Glasgow at Sub Club on Thu 15 Oct, Glasgow. 1 artist: Cam Stockman. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

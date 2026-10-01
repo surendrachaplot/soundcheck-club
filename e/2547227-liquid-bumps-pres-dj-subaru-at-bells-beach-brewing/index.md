@@ -1,6 +1,6 @@
 # Liquid Bumps pres. DJ Subaru at Bells Beach Brewing
 
-Liquid Bumps pres. DJ Subaru at Bells Beach Brewing on Fri 13 Nov, Victoria. 1 artist on the bill: DJ Subaru. Preview the line-up and save it on soundcheck.
+Liquid Bumps pres. DJ Subaru at Bells Beach Brewing on Fri 13 Nov, Victoria. 1 artist: DJ Subaru. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

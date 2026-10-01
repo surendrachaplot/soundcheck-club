@@ -1,6 +1,6 @@
 # Greyborn, Oda et L'Orchidée cosmique au Klub at Le Klub
 
-Greyborn, Oda et L'Orchidée cosmique au Klub at Le Klub on Sun 29 Nov, Paris. Noise. Preview the line-up and save it on soundcheck.
+Greyborn, Oda et L'Orchidée cosmique au Klub at Le Klub on Sun 29 Nov, Paris. Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

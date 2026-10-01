@@ -1,6 +1,6 @@
 # Halloween Extended Tricks by Quinoa, 99PN, Wonderkids & Baguette Magique at TBA - LFO
 
-Halloween Extended Tricks by Quinoa, 99PN, Wonderkids & Baguette Magique at TBA - LFO on Sat 31 Oct, Madrid. 5 artists on the bill: Chris Gorrie, Le Nomad, Moulin and Taxi Drivers and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Halloween Extended Tricks by Quinoa, 99PN, Wonderkids & Baguette Magique at TBA - LFO on Sat 31 Oct, Madrid. 5 artists: Chris Gorrie, Le Nomad, Moulin and Taxi Drivers and 1 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

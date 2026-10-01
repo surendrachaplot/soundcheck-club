@@ -1,6 +1,6 @@
 # Complex Halloween with Ferreck Dawn / Ammé / Max Kilian / The Drift System at Complex Maastricht
 
-Complex Halloween with Ferreck Dawn / Ammé / Max Kilian / The Drift System at Complex Maastricht on Sat 31 Oct, Netherlands. 2 artists on the bill: Ammé and Ferreck Dawn. Preview the line-up and save it on soundcheck.
+Complex Halloween with Ferreck Dawn / Ammé / Max Kilian / The Drift System at Complex Maastricht on Sat 31 Oct, Netherlands. 2 artists: Ammé and Ferreck Dawn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

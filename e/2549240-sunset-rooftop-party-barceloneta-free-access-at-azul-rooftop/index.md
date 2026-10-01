@@ -1,6 +1,6 @@
 # Sunset Rooftop Party - Barceloneta [Free Access] at Azul Rooftop Barceloneta
 
-Sunset Rooftop Party - Barceloneta [Free Access] at Azul Rooftop Barceloneta on Sun 4 Oct, Barcelona. 4 artists on the bill: Chichöl, Dimarziio, Mhauro and Vaninajaz.. House. Preview the line-up and save it on soundcheck.
+Sunset Rooftop Party - Barceloneta [Free Access] at Azul Rooftop Barceloneta on Sun 4 Oct, Barcelona. 4 artists: Chichöl, Dimarziio, Mhauro and Vaninajaz.. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

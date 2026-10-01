@@ -1,8 +1,8 @@
 # BEN GERRANS
 
-BEN GERRANS is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Thekla, Bristol on Fri, 2 Oct 2026.
+BEN GERRANS is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Thekla, Bristol on Fri, 2 Oct 2026.
 
-BEN GERRANS is a house and garage artist based in Australia, tracked on soundcheck, with 24 sets logged across Auckland, Bali, Berlin and Bristol and 6 more. Often billed alongside Cleopard2000, Little Fritter and MCMILLAN TWINS. Next up: Thekla, Bristol on Fri 2 Oct.
+BEN GERRANS is a house and garage artist based in Australia, with 24 gigs on soundcheck across Auckland, Bali, Berlin and Bristol and 6 more. Often billed alongside Cleopard2000, Little Fritter and MCMILLAN TWINS. Next up: Thekla, Bristol on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ BEN GERRANS is a house and garage artist based in Australia, tracked on soundche
 
 ## Recently played
 
-- Club Wintercircus, Ghent — Fri, 18 Sept 2026
-- The Cause, London — Sat, 18 Jul 2026
-- UNLOCKED, London — Thu, 7 May 2026
-- Hackney Wick Multiple Venues, London — Sat, 2 May 2026
-- Glasshouse Morningside, Auckland — Fri, 23 Jan 2026
-- Distrikt, Leeds — Tue, 9 Dec 2025
-- Last Arch, London — Sat, 29 Nov 2025
-- Last Arch, London — Sat, 6 Sept 2025
+- Club Wintercircus, Ghent · Fri, 18 Sept 2026
+- The Cause, London · Sat, 18 Jul 2026
+- UNLOCKED, London · Thu, 7 May 2026
+- Hackney Wick Multiple Venues, London · Sat, 2 May 2026
+- Glasshouse Morningside, Auckland · Fri, 23 Jan 2026
+- Distrikt, Leeds · Tue, 9 Dec 2025
+- Last Arch, London · Sat, 29 Nov 2025
+- Last Arch, London · Sat, 6 Sept 2025
 
 ## Shares bills with
 

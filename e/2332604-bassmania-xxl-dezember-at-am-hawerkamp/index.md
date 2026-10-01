@@ -1,6 +1,6 @@
 # Bassmania XXL Dezember at Am Hawerkamp
 
-Bassmania XXL Dezember at Am Hawerkamp on Fri 11 Dec, Munster. Techno and Electro. Preview the line-up and save it on soundcheck.
+Bassmania XXL Dezember at Am Hawerkamp on Fri 11 Dec, Munster. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

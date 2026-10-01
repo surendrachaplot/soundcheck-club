@@ -1,8 +1,8 @@
 # Alma Linda
 
-Alma Linda is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
+Alma Linda is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 30 Oct 2026.
 
-Alma Linda is a house and deep house artist based in Chile, tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Copenhagen and Hamburg and 5 more. Often billed alongside ELIZEN THE EMPEROR, Britta Arnold and Chris Schwarzwälder. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 30 Oct.
+Alma Linda is a house and deep house artist based in Chile, with 73 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Hamburg and 5 more. Often billed alongside ELIZEN THE EMPEROR, Britta Arnold and Chris Schwarzwälder. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Alma Linda is a house and deep house artist based in Chile, tracked on soundchec
 
 ## Recently played
 
-- Kater, Berlin — Fri, 21 Aug 2026
-- Zuckerzauber, Berlin — Fri, 10 Jul 2026
-- Turtur, Hamburg — Sat, 13 Jun 2026
-- Südpol, Hamburg — Fri, 5 Jun 2026
-- gART.n, Berlin — Sun, 31 May 2026
-- Zuckerzauber, Berlin — Fri, 8 May 2026
-- Departamento, Mexico City — Wed, 18 Feb 2026
-- Kater, Berlin — Sat, 29 Nov 2025
+- Kater, Berlin · Fri, 21 Aug 2026
+- Zuckerzauber, Berlin · Fri, 10 Jul 2026
+- Turtur, Hamburg · Sat, 13 Jun 2026
+- Südpol, Hamburg · Fri, 5 Jun 2026
+- gART.n, Berlin · Sun, 31 May 2026
+- Zuckerzauber, Berlin · Fri, 8 May 2026
+- Departamento, Mexico City · Wed, 18 Feb 2026
+- Kater, Berlin · Sat, 29 Nov 2025
 
 ## Shares bills with
 

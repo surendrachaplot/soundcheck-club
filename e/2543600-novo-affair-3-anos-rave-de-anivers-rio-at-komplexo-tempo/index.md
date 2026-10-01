@@ -1,6 +1,6 @@
 # Novo Affair - 3 anos (Rave de Aniversário) at Komplexo Tempo
 
-Novo Affair - 3 anos (Rave de Aniversário) at Komplexo Tempo on Sun 11 Oct, Sao Paulo. 16 artists on the bill: Amanda Mussi, Ananda (BR), Bitter Babe and Boris and 12 more. Techno and House. Preview the line-up and save it on soundcheck.
+Novo Affair - 3 anos (Rave de Aniversário) at Komplexo Tempo on Sun 11 Oct, Sao Paulo. 16 artists: Amanda Mussi, Ananda (BR), Bitter Babe and Boris and 12 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

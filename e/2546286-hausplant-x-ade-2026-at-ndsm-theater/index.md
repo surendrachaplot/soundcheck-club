@@ -1,6 +1,6 @@
 # HAUSPLANT x ADE 2026 at Ndsm Theater
 
-HAUSPLANT x ADE 2026 at Ndsm Theater on Sat 24 Oct, Amsterdam. 5 artists on the bill: Emvae, Faedro, LYLO (NL) and Maysa Chahbari and 1 more. House and Club. Preview the line-up and save it on soundcheck.
+HAUSPLANT x ADE 2026 at Ndsm Theater on Sat 24 Oct, Amsterdam. 5 artists: Emvae, Faedro, LYLO (NL) and Maysa Chahbari and 1 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

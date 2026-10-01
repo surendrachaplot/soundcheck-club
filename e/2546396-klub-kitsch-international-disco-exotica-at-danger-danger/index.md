@@ -1,6 +1,6 @@
 # Klub Kitsch International, Disco Exotica at Danger Danger
 
-Klub Kitsch International, Disco Exotica at Danger Danger on Fri 25 Sept, New York City. Disco and Electronica. Preview the line-up and save it on soundcheck.
+Klub Kitsch International, Disco Exotica at Danger Danger on Fri 25 Sept, New York City. Disco and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

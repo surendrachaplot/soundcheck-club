@@ -1,6 +1,6 @@
 # Latent Darkness at Mõss Club Valladolid
 
-Latent Darkness at Mõss Club Valladolid on Fri 2 Oct, North. 2 artists on the bill: Setaoc Mass and Shadow Hrym (ES). Preview the line-up and save it on soundcheck.
+Latent Darkness at Mõss Club Valladolid on Fri 2 Oct, North. 2 artists: Setaoc Mass and Shadow Hrym (ES). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

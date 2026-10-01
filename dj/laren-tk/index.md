@@ -1,8 +1,8 @@
 # Laren
 
-Laren is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
+Laren is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 2 Oct 2026.
 
-Laren is a techno and trance artist based in Turkey, tracked on soundcheck, with 24 sets logged across Berlin and Istanbul. Often billed alongside DJ HOTMAIL, MATT. and 4NOUK. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
+Laren is a techno and trance artist based in Turkey, with 24 gigs on soundcheck across Berlin and Istanbul. Often billed alongside DJ HOTMAIL, MATT. and 4NOUK. Next up: Lokschuppen Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Laren is a techno and trance artist based in Turkey, tracked on soundcheck, with
 
 ## Recently played
 
-- TBA - Kreuzberg, Berlin — Fri, 1 May 2026
-- Lokschuppen Berlin, Berlin — Sun, 5 Apr 2026
-- ÆDEN, Berlin — Sat, 31 Jan 2026
-- Lokschuppen Berlin, Berlin — Sun, 21 Dec 2025
-- Lokschuppen Berlin, Berlin — Fri, 5 Sept 2025
-- TBA - Secret Location, Istanbul — Sat, 23 Aug 2025
-- Şahika, Istanbul — Fri, 6 Jun 2025
-- Suma Han, Istanbul — Sat, 3 May 2025
+- TBA - Kreuzberg, Berlin · Fri, 1 May 2026
+- Lokschuppen Berlin, Berlin · Sun, 5 Apr 2026
+- ÆDEN, Berlin · Sat, 31 Jan 2026
+- Lokschuppen Berlin, Berlin · Sun, 21 Dec 2025
+- Lokschuppen Berlin, Berlin · Fri, 5 Sept 2025
+- TBA - Secret Location, Istanbul · Sat, 23 Aug 2025
+- Şahika, Istanbul · Fri, 6 Jun 2025
+- Suma Han, Istanbul · Sat, 3 May 2025
 
 ## Shares bills with
 

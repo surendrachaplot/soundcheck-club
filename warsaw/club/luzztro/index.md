@@ -1,8 +1,8 @@
 # Luzztro
 
-Luzztro is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "RSVP pres. Øntold, David Bucka" on Sat, 17 Oct 2026.
+Luzztro is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "RSVP pres. Øntold, David Bucka" on Sat, 17 Oct 2026.
 
-Luzztro is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including David Bucka, HANICZ, Mabu and Øntold. Browse upcoming dates, start times and who's playing. aleje Jerozolimskie 6, 00-374 Warszawa.
+Luzztro is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including David Bucka, HANICZ, Mabu and Øntold. See dates, start times and who's playing. aleje Jerozolimskie 6, 00-374 Warszawa.
 
 ## What's on
 

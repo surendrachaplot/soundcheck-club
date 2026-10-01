@@ -1,6 +1,6 @@
 # PULSE FICTION at Blvck Water
 
-PULSE FICTION at Blvck Water on Sat 31 Oct, Osaka. 2 artists on the bill: MARIHO and MASOI. Psytrance. Preview the line-up and save it on soundcheck.
+PULSE FICTION at Blvck Water on Sat 31 Oct, Osaka. 2 artists: MARIHO and MASOI. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

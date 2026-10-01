@@ -1,6 +1,6 @@
 # Future Yard presents Yumi And The Weather + So, Reverie + Golden Toad at Future Yard
 
-Future Yard presents Yumi And The Weather + So, Reverie + Golden Toad on Tue 20 Oct, Liverpool. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Future Yard presents Yumi And The Weather + So, Reverie + Golden Toad on Tue 20 Oct, Liverpool. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

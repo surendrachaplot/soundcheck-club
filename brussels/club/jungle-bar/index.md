@@ -1,8 +1,8 @@
 # Jungle Bar
 
-Jungle Bar is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "LMR EVENT 17/10/2026" on Sat, 17 Oct 2026.
+Jungle Bar is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "LMR EVENT 17/10/2026" on Sat, 17 Oct 2026.
 
-Jungle Bar is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Backlight, LRDB, Luna Temmerman and TeaOtim. Browse upcoming dates, start times and who's playing. Brussel, 1000, Steenstraat 52.
+Jungle Bar is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Backlight, LRDB, Luna Temmerman and TeaOtim. See dates, start times and who's playing. Brussel, 1000, Steenstraat 52.
 
 ## What's on
 

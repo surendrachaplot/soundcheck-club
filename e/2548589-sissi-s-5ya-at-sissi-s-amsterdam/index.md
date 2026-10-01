@@ -1,6 +1,6 @@
 # Sissi's 5YA at SISSI'S Amsterdam
 
-Sissi's 5YA at SISSI'S Amsterdam on Sat 28 Nov, Amsterdam. House and Club. Preview the line-up and save it on soundcheck.
+Sissi's 5YA at SISSI'S Amsterdam on Sat 28 Nov, Amsterdam. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

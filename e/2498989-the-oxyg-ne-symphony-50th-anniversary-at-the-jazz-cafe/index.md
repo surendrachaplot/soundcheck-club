@@ -1,6 +1,6 @@
 # The Oxygène Symphony (50th Anniversary) at The Jazz Cafe
 
-The Oxygène Symphony (50th Anniversary) at The Jazz Cafe on Wed 7 Oct, London. Ambient. Preview the line-up and save it on soundcheck.
+The Oxygène Symphony (50th Anniversary) at The Jazz Cafe on Wed 7 Oct, London. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

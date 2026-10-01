@@ -1,6 +1,6 @@
 # Confetti x Khel at The Sultan Room
 
-Confetti x Khel at The Sultan Room on Thu 8 Oct, New York City. Pop. Preview the line-up and save it on soundcheck.
+Confetti x Khel at The Sultan Room on Thu 8 Oct, New York City. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

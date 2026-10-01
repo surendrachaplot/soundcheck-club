@@ -1,6 +1,6 @@
 # Frost Children at Radius
 
-Frost Children at Radius on Thu 12 Nov, Chicago. 1 artist on the bill: Frost Children. Electro. Preview the line-up and save it on soundcheck.
+Frost Children at Radius on Thu 12 Nov, Chicago. 1 artist: Frost Children. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

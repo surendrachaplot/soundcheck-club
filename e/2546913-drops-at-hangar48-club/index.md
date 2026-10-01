@@ -1,6 +1,6 @@
 # DROPS at Hangar48 Club
 
-DROPS at Hangar48 Club on Sat 3 Oct, Madrid. Tech House. Preview the line-up and save it on soundcheck.
+DROPS at Hangar48 Club on Sat 3 Oct, Madrid. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

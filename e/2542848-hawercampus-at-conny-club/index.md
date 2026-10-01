@@ -1,6 +1,6 @@
 # Hawercampus at Conny Club
 
-Hawercampus at Conny Club on Tue 6 Oct, Munster. Techno and House. Preview the line-up and save it on soundcheck.
+Hawercampus at Conny Club on Tue 6 Oct, Munster. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

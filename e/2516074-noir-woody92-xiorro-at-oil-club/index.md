@@ -1,6 +1,6 @@
 # NOIR: Woody92 + Xiorro at OIL Club
 
-NOIR: Woody92 + Xiorro at OIL Club on Thu 1 Oct, Shenzhen. 3 artists on the bill: Sulk, Woody92 and Xiorro. Techno. Preview the line-up and save it on soundcheck.
+NOIR: Woody92 + Xiorro at OIL Club on Thu 1 Oct, Shenzhen. 3 artists: Sulk, Woody92 and Xiorro. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

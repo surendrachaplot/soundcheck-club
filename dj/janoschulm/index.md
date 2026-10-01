@@ -1,8 +1,8 @@
 # Janosch Ulm
 
-Janosch Ulm is a Deep House and Downtempo artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Beate Uwe, Berlin on Fri, 2 Oct 2026.
+Janosch Ulm is a Deep House and Downtempo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Beate Uwe, Berlin on Fri, 2 Oct 2026.
 
-Janosch Ulm is a deep house and downtempo artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Milan. Often billed alongside Soso Klein, Avikal and Chris Schwarzwälder. Next up: Beate Uwe, Berlin on Fri 2 Oct.
+Janosch Ulm is a deep house and downtempo artist based in Germany, with 6 gigs on soundcheck across Berlin and Milan. Often billed alongside Soso Klein, Avikal and Chris Schwarzwälder. Next up: Beate Uwe, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Janosch Ulm is a deep house and downtempo artist based in Germany, tracked on so
 
 ## Recently played
 
-- Beate Uwe, Berlin — Sun, 24 May 2026
-- Beate Uwe, Berlin — Sun, 19 Oct 2025
-- Acud Macht NEU, Berlin — Sat, 12 Jul 2025
-- Circolo Amelia, Milan — Sat, 25 Feb 2023
-- Mensch Meier, Berlin — Fri, 17 Feb 2023
+- Beate Uwe, Berlin · Sun, 24 May 2026
+- Beate Uwe, Berlin · Sun, 19 Oct 2025
+- Acud Macht NEU, Berlin · Sat, 12 Jul 2025
+- Circolo Amelia, Milan · Sat, 25 Feb 2023
+- Mensch Meier, Berlin · Fri, 17 Feb 2023
 
 ## Shares bills with
 

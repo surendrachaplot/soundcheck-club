@@ -1,8 +1,8 @@
 # Jared
 
-Jared is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Dalston Superstore, London on Sat, 24 Oct 2026.
+Jared is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dalston Superstore, London on Sat, 24 Oct 2026.
 
-Jared is a techno and house artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across London. Often billed alongside Ms.G, CHEZA LUCINA and Ivicore. Next up: Dalston Superstore, London on Sat 24 Oct.
+Jared is a techno and house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside Ms.G, CHEZA LUCINA and Ivicore. Next up: Dalston Superstore, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Jared is a techno and house artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- radial, London — Sun, 13 Sept 2026
-- Ballroom at Palais, London — Fri, 10 Jul 2026
-- Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
-- Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
-- Gaffe, London — Sun, 5 Apr 2026
-- FOLD, London — Fri, 27 Mar 2026
+- radial, London · Sun, 13 Sept 2026
+- Ballroom at Palais, London · Fri, 10 Jul 2026
+- Hackney Wick Multiple Venues, London · Sat, 4 Jul 2026
+- Hackney Wick Multiple Venues, London · Sat, 27 Jun 2026
+- Gaffe, London · Sun, 5 Apr 2026
+- FOLD, London · Fri, 27 Mar 2026
 
 ## Shares bills with
 

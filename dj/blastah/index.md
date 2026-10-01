@@ -1,8 +1,8 @@
 # blastah
 
-blastah is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+blastah is a Experimental and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-blastah is an experimental and club artist based in Portugal, tracked on soundcheck, with 30 sets logged across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Eleftheria, Chickenmilk dot com and Madjestic Kasual. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+blastah is an experimental and club artist based in Portugal, with 30 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 11 more. Often billed alongside Eleftheria, Chickenmilk dot com and Madjestic Kasual. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ blastah is an experimental and club artist based in Portugal, tracked on soundch
 
 ## Recently played
 
-- Casa Capitão, Lisbon — Sat, 29 Aug 2026
-- Ostrov Štvanice, Prague — Fri, 10 Jul 2026
-- Garage Noord, Amsterdam — Sat, 4 Jul 2026
-- Kauz, Zurich — Fri, 26 Jun 2026
-- Kauz, Zurich — Fri, 26 Jun 2026
-- Vespers Club, London — Sat, 16 May 2026
-- Meteoro, Barcelona — Sat, 9 May 2026
-- Romantso, Athens — Sat, 6 Dec 2025
+- Casa Capitão, Lisbon · Sat, 29 Aug 2026
+- Ostrov Štvanice, Prague · Fri, 10 Jul 2026
+- Garage Noord, Amsterdam · Sat, 4 Jul 2026
+- Kauz, Zurich · Fri, 26 Jun 2026
+- Kauz, Zurich · Fri, 26 Jun 2026
+- Vespers Club, London · Sat, 16 May 2026
+- Meteoro, Barcelona · Sat, 9 May 2026
+- Romantso, Athens · Sat, 6 Dec 2025
 
 ## Shares bills with
 

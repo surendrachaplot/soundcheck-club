@@ -1,6 +1,6 @@
 # Volnost Night at Volnost
 
-Volnost Night on Sat 24 Oct, Seoul. 3 artists on the bill: Deekay, KYVU and WEEUN KIM. Techno and Electro. Preview the line-up and save it on soundcheck.
+Volnost Night on Sat 24 Oct, Seoul. 3 artists: Deekay, KYVU and WEEUN KIM. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

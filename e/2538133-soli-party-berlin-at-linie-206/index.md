@@ -1,6 +1,6 @@
 # Soli Party Berlin at Linie 206
 
-Soli Party Berlin at Linie 206 on Sat 3 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Soli Party Berlin at Linie 206 on Sat 3 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

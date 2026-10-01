@@ -1,6 +1,6 @@
 # VIVA Reggaeton Halloween at Lightbox
 
-VIVA Reggaeton Halloween at Lightbox on Sat 31 Oct, London. Reggaeton. Preview the line-up and save it on soundcheck.
+VIVA Reggaeton Halloween at Lightbox on Sat 31 Oct, London. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

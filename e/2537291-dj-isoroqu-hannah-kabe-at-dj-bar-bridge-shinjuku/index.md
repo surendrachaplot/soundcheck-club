@@ -1,6 +1,6 @@
 # DJ ISOROQU, HannaH & Kabe at DJ Bar Bridge Shinjuku
 
-DJ ISOROQU, HannaH & Kabe at DJ Bar Bridge Shinjuku on Thu 19 Nov, Tokyo. House. Preview the line-up and save it on soundcheck.
+DJ ISOROQU, HannaH & Kabe at DJ Bar Bridge Shinjuku on Thu 19 Nov, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

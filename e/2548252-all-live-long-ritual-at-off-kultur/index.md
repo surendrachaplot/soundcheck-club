@@ -1,6 +1,6 @@
 # ALL LIVE LONG RITUAL at OFF Kultur
 
-ALL LIVE LONG RITUAL at OFF Kultur on Sat 3 Oct, Budapest. 4 artists on the bill: BSLS, GWELD, KASSIS and Mzperx. Techno and Industrial. Preview the line-up and save it on soundcheck.
+ALL LIVE LONG RITUAL at OFF Kultur on Sat 3 Oct, Budapest. 4 artists: BSLS, GWELD, KASSIS and Mzperx. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

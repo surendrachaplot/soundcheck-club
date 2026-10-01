@@ -1,8 +1,8 @@
 # JUST RAJ
 
-JUST RAJ is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Jupiter Disco, New York City on Sat, 10 Oct 2026.
+JUST RAJ is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jupiter Disco, New York City on Sat, 10 Oct 2026.
 
-JUST RAJ is a deep house and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across New York City. Often billed alongside Bea Trinidad, HeartWerk and KAITO. Next up: Jupiter Disco, New York City on Sat 10 Oct.
+JUST RAJ is a deep house and house artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Bea Trinidad, HeartWerk and KAITO. Next up: Jupiter Disco, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ JUST RAJ is a deep house and house artist based in United States of America, tra
 
 ## Recently played
 
-- Jupiter Disco, New York City — Fri, 27 Mar 2026
-- Jupiter Disco, New York City — Thu, 11 Dec 2025
-- TBA - Berlin, New York City — Sat, 24 May 2025
-- Jupiter Disco, New York City — Thu, 8 May 2025
-- Earthly Delights, New York City — Mon, 31 Mar 2025
-- Jupiter Disco, New York City — Wed, 26 Mar 2025
+- Jupiter Disco, New York City · Fri, 27 Mar 2026
+- Jupiter Disco, New York City · Thu, 11 Dec 2025
+- TBA - Berlin, New York City · Sat, 24 May 2025
+- Jupiter Disco, New York City · Thu, 8 May 2025
+- Earthly Delights, New York City · Mon, 31 Mar 2025
+- Jupiter Disco, New York City · Wed, 26 Mar 2025
 
 ## Shares bills with
 

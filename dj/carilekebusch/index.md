@@ -1,8 +1,8 @@
 # Cari Lekebusch
 
-Cari Lekebusch is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Art School, Glasgow on Fri, 2 Oct 2026.
+Cari Lekebusch is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Art School, Glasgow on Fri, 2 Oct 2026.
 
-Cari Lekebusch is a techno and acid artist based in Sweden, tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Christian AB, Olof Dreijer and Polygonia. Next up: The Art School, Glasgow on Fri 2 Oct.
+Cari Lekebusch is a techno and acid artist based in Sweden, with 15 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside Christian AB, Olof Dreijer and Polygonia. Next up: The Art School, Glasgow on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Cari Lekebusch is a techno and acid artist based in Sweden, tracked on soundchec
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Sat, 22 Aug 2026
-- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Den Anden Side, Copenhagen — Fri, 1 May 2026
-- Under Bron, Stockholm — Wed, 31 Dec 2025
-- Perron, Rotterdam — Fri, 31 Oct 2025
-- Razzmatazz, Barcelona — Sat, 23 Aug 2025
-- Frihamnen, Stockholm — Fri, 6 Jun 2025
+- RSO.BERLIN, Berlin · Sat, 22 Aug 2026
+- Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- Den Anden Side, Copenhagen · Fri, 1 May 2026
+- Under Bron, Stockholm · Wed, 31 Dec 2025
+- Perron, Rotterdam · Fri, 31 Oct 2025
+- Razzmatazz, Barcelona · Sat, 23 Aug 2025
+- Frihamnen, Stockholm · Fri, 6 Jun 2025
 
 ## Shares bills with
 

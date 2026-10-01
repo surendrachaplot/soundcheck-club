@@ -1,8 +1,8 @@
 # DRIIA
 
-DRIIA is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Depot, Cardiff on Fri, 16 Oct 2026.
+DRIIA is a Garage and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot, Cardiff on Fri, 16 Oct 2026.
 
-DRIIA is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Bristol, Cardiff, Ibiza and London and 4 more. Often billed alongside Silva Bumpa, SICARIA and Sully. Next up: Depot, Cardiff on Fri 16 Oct.
+DRIIA is a garage and jungle artist based in United Kingdom, with 48 gigs on soundcheck across Bristol, Cardiff, Ibiza and London and 4 more. Often billed alongside Silva Bumpa, SICARIA and Sully. Next up: Depot, Cardiff on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DRIIA is a garage and jungle artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- Outernet Live, London — Sat, 26 Sept 2026
-- Sacré, Paris — Sat, 16 May 2026
-- Notting Hill Arts Club, London — Sun, 5 Apr 2026
-- Planet Wax, London — Thu, 5 Mar 2026
-- Document, Bristol — Sat, 31 Jan 2026
-- World Headquarters, Newcastle — Sat, 27 Sept 2025
-- Rotterdam Centre, Rotterdam — Fri, 12 Sept 2025
-- Worm, Rotterdam — Fri, 12 Sept 2025
+- Outernet Live, London · Sat, 26 Sept 2026
+- Sacré, Paris · Sat, 16 May 2026
+- Notting Hill Arts Club, London · Sun, 5 Apr 2026
+- Planet Wax, London · Thu, 5 Mar 2026
+- Document, Bristol · Sat, 31 Jan 2026
+- World Headquarters, Newcastle · Sat, 27 Sept 2025
+- Rotterdam Centre, Rotterdam · Fri, 12 Sept 2025
+- Worm, Rotterdam · Fri, 12 Sept 2025
 
 ## Shares bills with
 

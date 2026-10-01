@@ -1,8 +1,8 @@
 # Rainy Miller
 
-Rainy Miller is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
+Rainy Miller is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Muziekgebouw aan t' IJ, Amsterdam on Wed, 21 Oct 2026.
 
-Rainy Miller is an experimental and electronica artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Brussels and Cologne and 14 more. Often billed alongside 2K88, Bianca Scout and aya. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
+Rainy Miller is an experimental and electronica artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Berlin, Brussels and Cologne and 14 more. Often billed alongside 2K88, Bianca Scout and aya. Next up: Muziekgebouw aan t' IJ, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Rainy Miller is an experimental and electronica artist based in United Kingdom, 
 
 ## Recently played
 
-- Eglise Saint-Remi, Brussels — Sat, 12 Sept 2026
-- TBA - Waidmarkt, Cologne — Sat, 29 Aug 2026
-- TBA - Raketenstation Hombroich, Cologne — Fri, 28 Aug 2026
-- The Rooftop at One Hundred Shoreditch, London — Sun, 23 Aug 2026
-- Oxford Art Factory, Sydney — Sun, 12 Jul 2026
-- Miscellania, Melbourne — Thu, 9 Jul 2026
-- The White Hotel, Manchester — Sat, 4 Jul 2026
-- Future Yard, Liverpool — Sat, 13 Jun 2026
+- Eglise Saint-Remi, Brussels · Sat, 12 Sept 2026
+- TBA - Waidmarkt, Cologne · Sat, 29 Aug 2026
+- TBA - Raketenstation Hombroich, Cologne · Fri, 28 Aug 2026
+- The Rooftop at One Hundred Shoreditch, London · Sun, 23 Aug 2026
+- Oxford Art Factory, Sydney · Sun, 12 Jul 2026
+- Miscellania, Melbourne · Thu, 9 Jul 2026
+- The White Hotel, Manchester · Sat, 4 Jul 2026
+- Future Yard, Liverpool · Sat, 13 Jun 2026
 
 ## Shares bills with
 

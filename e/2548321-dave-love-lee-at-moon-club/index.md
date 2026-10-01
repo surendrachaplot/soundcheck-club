@@ -1,6 +1,6 @@
 # Dave 'Love' Lee at Moon Club
 
-Dave 'Love' Lee at Moon Club on Sat 21 Nov, Bristol. 1 artist on the bill: Dave Lee. House. Preview the line-up and save it on soundcheck.
+Dave 'Love' Lee at Moon Club on Sat 21 Nov, Bristol. 1 artist: Dave Lee. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

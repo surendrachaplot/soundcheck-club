@@ -1,6 +1,6 @@
 # Takuya Nakamura at Subterrannean
 
-Takuya Nakamura at Subterrannean on Sat 28 Nov, Chicago. 1 artist on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura at Subterrannean on Sat 28 Nov, Chicago. 1 artist: Takuya Nakamura. Jazz and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

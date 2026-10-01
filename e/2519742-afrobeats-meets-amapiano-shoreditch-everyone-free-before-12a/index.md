@@ -1,6 +1,6 @@
 # Afrobeats Meets Amapiano Shoreditch – Everyone Free Before 12AM at The Cornershop Bar
 
-Afrobeats Meets Amapiano Shoreditch – Everyone Free Before 12AM at The Cornershop Bar on Fri 9 Oct, London. Preview the line-up and save it on soundcheck.
+Afrobeats Meets Amapiano Shoreditch – Everyone Free Before 12AM at The Cornershop Bar on Fri 9 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

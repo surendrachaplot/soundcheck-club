@@ -1,6 +1,6 @@
 # Outer Heaven presents: Demi Riquisimo at Outer Heaven
 
-Outer Heaven presents: Demi Riquisimo on Sat 10 Oct, New York City. 3 artists on the bill: Demi Riquisimo, Jack Mulqueen and Tolga. House and Tech House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Demi Riquisimo on Sat 10 Oct, New York City. 3 artists: Demi Riquisimo, Jack Mulqueen and Tolga. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

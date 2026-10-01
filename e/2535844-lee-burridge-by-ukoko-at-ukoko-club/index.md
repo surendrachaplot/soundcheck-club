@@ -1,6 +1,6 @@
 # Lee Burridge by UKOKO at UKOKO CLUB
 
-Lee Burridge by UKOKO at UKOKO CLUB on Sat 10 Oct, Costa Rica. 1 artist on the bill: Lee Burridge. Preview the line-up and save it on soundcheck.
+Lee Burridge by UKOKO at UKOKO CLUB on Sat 10 Oct, Costa Rica. 1 artist: Lee Burridge. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

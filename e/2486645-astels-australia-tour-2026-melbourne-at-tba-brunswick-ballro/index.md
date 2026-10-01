@@ -1,6 +1,6 @@
 # ASTELS AUSTRALIA TOUR 2026 - Melbourne at TBA - Brunswick Ballroom
 
-ASTELS AUSTRALIA TOUR 2026 - Melbourne at TBA - Brunswick Ballroom on Sun 1 Nov, Melbourne. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+ASTELS AUSTRALIA TOUR 2026 - Melbourne at TBA - Brunswick Ballroom on Sun 1 Nov, Melbourne. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

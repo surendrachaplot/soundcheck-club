@@ -1,6 +1,6 @@
 # Chris Liebing // 09.10.2026 // Kran at Kran Beograd
 
-Chris Liebing // 09.10.2026 // Kran at Kran Beograd on Fri 9 Oct, Belgrade. 5 artists on the bill: .Paragon, Balša, Chris Liebing and Dažbog and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Chris Liebing // 09.10.2026 // Kran at Kran Beograd on Fri 9 Oct, Belgrade. 5 artists: .Paragon, Balša, Chris Liebing and Dažbog and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Halloweek: Emo Nite at The Ground at Club Space
 
-Halloweek: Emo Nite at The Ground at Club Space on Fri 30 Oct, Miami. Post-Punk. Preview the line-up and save it on soundcheck.
+Halloweek: Emo Nite at The Ground at Club Space on Fri 30 Oct, Miami. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

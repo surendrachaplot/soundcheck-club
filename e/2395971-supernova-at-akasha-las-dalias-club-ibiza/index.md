@@ -1,6 +1,6 @@
 # SUPERNOVA at Akasha Las Dalias Club - Ibiza
 
-SUPERNOVA at Akasha Las Dalias Club - Ibiza on Sat 17 Oct, Ibiza. 5 artists on the bill: BOHEM, ETNA, Rampue and Rayco Santos and 1 more. Preview the line-up and save it on soundcheck.
+SUPERNOVA at Akasha Las Dalias Club - Ibiza on Sat 17 Oct, Ibiza. 5 artists: BOHEM, ETNA, Rampue and Rayco Santos and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

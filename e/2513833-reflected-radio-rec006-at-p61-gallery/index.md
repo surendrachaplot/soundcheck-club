@@ -1,6 +1,6 @@
 # Reflected Radio [REC006] at P61 Gallery
 
-Reflected Radio [REC006] at P61 Gallery on Fri 30 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Reflected Radio [REC006] at P61 Gallery on Fri 30 Oct, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nightvision presents: Kyle Starkey, STÜM & Vivace // Aberdeen at Unit 51
 
-Nightvision presents: Kyle Starkey, STÜM & Vivace // Aberdeen at Unit 51 on Fri 16 Oct, Aberdeen. 3 artists on the bill: Kyle Starkey, STÜM and Vivace (UK). Preview the line-up and save it on soundcheck.
+Nightvision presents: Kyle Starkey, STÜM & Vivace // Aberdeen at Unit 51 on Fri 16 Oct, Aberdeen. 3 artists: Kyle Starkey, STÜM and Vivace (UK). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

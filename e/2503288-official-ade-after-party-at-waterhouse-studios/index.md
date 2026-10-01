@@ -1,6 +1,6 @@
 # Official ADE After Party at Waterhouse Studios
 
-Official ADE After Party at Waterhouse Studios on Sun 25 Oct, Amsterdam. 3 artists on the bill: Alex Pi, DJ Pierre and Joe Smooth. Techno and House. Preview the line-up and save it on soundcheck.
+Official ADE After Party at Waterhouse Studios on Sun 25 Oct, Amsterdam. 3 artists: Alex Pi, DJ Pierre and Joe Smooth. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

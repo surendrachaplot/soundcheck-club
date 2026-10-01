@@ -1,6 +1,6 @@
 # DOT at FS.
 
-DOT at FS. on Sat 24 Oct, Tokyo. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+DOT at FS. on Sat 24 Oct, Tokyo. Hip-Hop and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

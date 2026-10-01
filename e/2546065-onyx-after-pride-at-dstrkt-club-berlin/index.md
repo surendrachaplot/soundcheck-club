@@ -1,6 +1,6 @@
 # ONYX 'AFTER PRIDE' at DSTRKT Club Berlin
 
-ONYX 'AFTER PRIDE' at DSTRKT Club Berlin on Sat 24 Jul, Berlin. 4 artists on the bill: Dj Schnake, DJ SUSI, HANÀ and Paraçek. Preview the line-up and save it on soundcheck.
+ONYX 'AFTER PRIDE' at DSTRKT Club Berlin on Sat 24 Jul, Berlin. 4 artists: Dj Schnake, DJ SUSI, HANÀ and Paraçek. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

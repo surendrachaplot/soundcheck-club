@@ -1,8 +1,8 @@
 # Sinistarr
 
-Sinistarr is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Black Box, Denver on Sat, 10 Oct 2026.
+Sinistarr is a Drum & Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Black Box, Denver on Sat, 10 Oct 2026.
 
-Sinistarr is a drum & bass and techno artist based in United States of America, tracked on soundcheck, with 85 sets logged across Denver, Detroit, London and Miami and 6 more. Often billed alongside Sheefy McFly, JMT and AK (US). Next up: The Black Box, Denver on Sat 10 Oct.
+Sinistarr is a drum & bass and techno artist based in United States of America, with 85 gigs on soundcheck across Denver, Detroit, London and Miami and 6 more. Often billed alongside Sheefy McFly, JMT and AK (US). Next up: The Black Box, Denver on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sinistarr is a drum & bass and techno artist based in United States of America, 
 
 ## Recently played
 
-- The Black Box, Denver — Fri, 25 Sept 2026
-- TBA - 1st AVE & KALAMATH ST, DENVER, Denver — Sun, 30 Aug 2026
-- The Matchbox, Denver — Sat, 8 Aug 2026
-- Hizz Lounge, Detroit — Sat, 1 Aug 2026
-- Spkrbox, Detroit — Mon, 20 Jul 2026
-- TBA - warehouse location , Detroit — Fri, 17 Jul 2026
-- Lincoln Factory, Detroit — Thu, 9 Jul 2026
-- TBA, Denver — Sat, 13 Jun 2026
+- The Black Box, Denver · Fri, 25 Sept 2026
+- TBA - 1st AVE & KALAMATH ST, DENVER, Denver · Sun, 30 Aug 2026
+- The Matchbox, Denver · Sat, 8 Aug 2026
+- Hizz Lounge, Detroit · Sat, 1 Aug 2026
+- Spkrbox, Detroit · Mon, 20 Jul 2026
+- TBA - warehouse location , Detroit · Fri, 17 Jul 2026
+- Lincoln Factory, Detroit · Thu, 9 Jul 2026
+- TBA, Denver · Sat, 13 Jun 2026
 
 ## Shares bills with
 

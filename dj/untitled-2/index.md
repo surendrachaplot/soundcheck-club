@@ -1,8 +1,8 @@
 # untitled (2)
 
-untitled (2) is a Club and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tola, London on Thu, 1 Oct 2026.
+untitled (2) is a Club and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tola, London on Thu, 1 Oct 2026.
 
-untitled is a club and bass artist based in South Korea, tracked on soundcheck, with 53 sets logged across Hong Kong, London, Seoul and Shenzhen. Often billed alongside Hyejin, Shins and MOONICE. Next up: Tola, London on Thu 1 Oct.
+untitled is a club and bass artist based in South Korea, with 53 gigs on soundcheck across Hong Kong, London, Seoul and Shenzhen. Often billed alongside Hyejin, Shins and MOONICE. Next up: Tola, London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ untitled is a club and bass artist based in South Korea, tracked on soundcheck, 
 
 ## Recently played
 
-- Soap Seoul., Seoul — Fri, 18 Sept 2026
-- Kote, Seoul — Sat, 5 Sept 2026
-- Bolero, Seoul — Sat, 29 Aug 2026
-- Cakeshop, Seoul — Fri, 3 Jul 2026
-- Cakeshop, Seoul — Fri, 29 May 2026
-- Modeci, Seoul — Sat, 16 May 2026
-- Soap Seoul., Seoul — Fri, 17 Apr 2026
-- Bolero, Seoul — Thu, 26 Mar 2026
+- Soap Seoul., Seoul · Fri, 18 Sept 2026
+- Kote, Seoul · Sat, 5 Sept 2026
+- Bolero, Seoul · Sat, 29 Aug 2026
+- Cakeshop, Seoul · Fri, 3 Jul 2026
+- Cakeshop, Seoul · Fri, 29 May 2026
+- Modeci, Seoul · Sat, 16 May 2026
+- Soap Seoul., Seoul · Fri, 17 Apr 2026
+- Bolero, Seoul · Thu, 26 Mar 2026
 
 ## Shares bills with
 

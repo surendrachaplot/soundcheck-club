@@ -1,6 +1,6 @@
 # Intercell Papierfabriek at De Papierfabriek
 
-Intercell Papierfabriek at De Papierfabriek on Sat 3 Oct, Nijmegen. 5 artists on the bill: Byron Yeates, Lucky Done Gone, MALUGI and Marie Montexier and 1 more. Preview the line-up and save it on soundcheck.
+Intercell Papierfabriek at De Papierfabriek on Sat 3 Oct, Nijmegen. 5 artists: Byron Yeates, Lucky Done Gone, MALUGI and Marie Montexier and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

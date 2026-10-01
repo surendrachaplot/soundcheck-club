@@ -1,6 +1,6 @@
 # 333 House × Sudden Logic present: Charlotte at TBA - 333
 
-333 House × Sudden Logic present: Charlotte at TBA - 333 on Fri 16 Oct, New York City. 4 artists on the bill: Black Pomade, CAMILLA, Charlotte (FR) and Joiah. House and Minimal. Preview the line-up and save it on soundcheck.
+333 House × Sudden Logic present: Charlotte at TBA - 333 on Fri 16 Oct, New York City. 4 artists: Black Pomade, CAMILLA, Charlotte (FR) and Joiah. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

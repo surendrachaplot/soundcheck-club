@@ -1,6 +1,6 @@
 # Joachim Pastor, Joris Delacroix, Teho present: PACT at Het Sieraad
 
-Joachim Pastor, Joris Delacroix, Teho present: PACT at Het Sieraad on Sat 23 Jan, Amsterdam. 3 artists on the bill: Joachim Pastor, Joris Delacroix and Teho. Preview the line-up and save it on soundcheck.
+Joachim Pastor, Joris Delacroix, Teho present: PACT at Het Sieraad on Sat 23 Jan, Amsterdam. 3 artists: Joachim Pastor, Joris Delacroix and Teho. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

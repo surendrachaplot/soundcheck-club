@@ -1,6 +1,6 @@
 # SOUNDBOY PRESENTS: THE STORY OF DUBSTEP at Eastern Bloc Records
 
-SOUNDBOY PRESENTS: THE STORY OF DUBSTEP at Eastern Bloc Records on Sat 24 Oct, Manchester. Dubstep. Preview the line-up and save it on soundcheck.
+SOUNDBOY PRESENTS: THE STORY OF DUBSTEP at Eastern Bloc Records on Sat 24 Oct, Manchester. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

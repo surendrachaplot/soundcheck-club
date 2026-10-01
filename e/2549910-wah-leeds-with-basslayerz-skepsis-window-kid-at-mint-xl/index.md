@@ -1,6 +1,6 @@
 # WAH Leeds with BassLayerz, Skepsis, Window Kid at Mint XL
 
-WAH Leeds with BassLayerz, Skepsis, Window Kid at Mint XL on Fri 2 Oct, Leeds. 7 artists on the bill: BassLayerz, GEOMETRIKK, Mandidextrous and Mylania and 3 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+WAH Leeds with BassLayerz, Skepsis, Window Kid at Mint XL on Fri 2 Oct, Leeds. 7 artists: BassLayerz, GEOMETRIKK, Mandidextrous and Mylania and 3 more. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

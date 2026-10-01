@@ -1,6 +1,6 @@
 # SPIRIT OF ZION SKA to REGGAE at Socore Factory
 
-SPIRIT OF ZION SKA to REGGAE at Socore Factory on Sat 14 Nov, Osaka. Dub. Preview the line-up and save it on soundcheck.
+SPIRIT OF ZION SKA to REGGAE at Socore Factory on Sat 14 Nov, Osaka. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

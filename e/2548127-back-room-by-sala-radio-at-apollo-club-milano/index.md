@@ -1,6 +1,6 @@
 # BACK ROOM by SALA RADIO at Apollo Club Milano
 
-BACK ROOM by SALA RADIO at Apollo Club Milano on Fri 2 Oct, Milan. House and Deep House. Preview the line-up and save it on soundcheck.
+BACK ROOM by SALA RADIO at Apollo Club Milano on Fri 2 Oct, Milan. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

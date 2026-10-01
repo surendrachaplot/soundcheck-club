@@ -1,8 +1,8 @@
 # Schwefelgelb
 
-Schwefelgelb is a Techno and EBM artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
+Schwefelgelb is a Techno and EBM artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
 
-Schwefelgelb is a techno and ebm artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
+Schwefelgelb is a techno and ebm artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 23 more. Often billed alongside Ancient Methods, OTHR and Parrish Smith. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Schwefelgelb is a techno and ebm artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- OXI, Berlin — Tue, 15 Sept 2026
-- Skatehalle Berlin, Berlin — Sat, 4 Jul 2026
-- BASEMENT, New York City — Sat, 14 Mar 2026
-- RSO.BERLIN, Berlin — Sat, 7 Feb 2026
-- The Grey Space In The Middle, The Hague — Fri, 6 Feb 2026
-- Lehmann Club, Stuttgart — Sat, 31 Jan 2026
-- KALT, Strasbourg — Sat, 13 Dec 2025
-- Paragon, New York City — Sat, 29 Nov 2025
+- OXI, Berlin · Tue, 15 Sept 2026
+- Skatehalle Berlin, Berlin · Sat, 4 Jul 2026
+- BASEMENT, New York City · Sat, 14 Mar 2026
+- RSO.BERLIN, Berlin · Sat, 7 Feb 2026
+- The Grey Space In The Middle, The Hague · Fri, 6 Feb 2026
+- Lehmann Club, Stuttgart · Sat, 31 Jan 2026
+- KALT, Strasbourg · Sat, 13 Dec 2025
+- Paragon, New York City · Sat, 29 Nov 2025
 
 ## Shares bills with
 

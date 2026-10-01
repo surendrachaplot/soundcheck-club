@@ -1,8 +1,8 @@
 # CAMILLA
 
-CAMILLA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Outer Heaven, New-york-city on Sat, 3 Oct 2026.
+CAMILLA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outer Heaven, New-york-city on Sat, 3 Oct 2026.
 
-CAMILLA is a house and techno artist based in Italy, tracked on soundcheck, with 143 sets logged across Berlin, Boston, Chicago and Lisbon and 6 more. Often billed alongside Joiah, Black Pomade and Shvili. Next up: Outer Heaven, New York City on Sat 3 Oct.
+CAMILLA is a house and techno artist based in Italy, with 143 gigs on soundcheck across Berlin, Boston, Chicago and Lisbon and 6 more. Often billed alongside Joiah, Black Pomade and Shvili. Next up: Outer Heaven, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ CAMILLA is a house and techno artist based in Italy, tracked on soundcheck, with
 
 ## Recently played
 
-- feedbk, New York City — Sat, 26 Sept 2026
-- Outer Heaven, New York City — Thu, 24 Sept 2026
-- Dead Letter No. 9, New York City — Thu, 10 Sept 2026
-- BARDO, Milan — Fri, 4 Sept 2026
-- Bassiani, Tbilisi — Sat, 29 Aug 2026
-- public records, New York City — Fri, 7 Aug 2026
-- Mansions, New York City — Sat, 1 Aug 2026
-- Outer Heaven, New York City — Thu, 30 Jul 2026
+- feedbk, New York City · Sat, 26 Sept 2026
+- Outer Heaven, New York City · Thu, 24 Sept 2026
+- Dead Letter No. 9, New York City · Thu, 10 Sept 2026
+- BARDO, Milan · Fri, 4 Sept 2026
+- Bassiani, Tbilisi · Sat, 29 Aug 2026
+- public records, New York City · Fri, 7 Aug 2026
+- Mansions, New York City · Sat, 1 Aug 2026
+- Outer Heaven, New York City · Thu, 30 Jul 2026
 
 ## Shares bills with
 

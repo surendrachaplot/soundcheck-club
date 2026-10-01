@@ -1,6 +1,6 @@
 # Cosmic Gate at Ritter Butzke
 
-Cosmic Gate at Ritter Butzke on Sat 28 Nov, Berlin. 2 artists on the bill: Cosmic Gate and Malouna. Techno. Preview the line-up and save it on soundcheck.
+Cosmic Gate at Ritter Butzke on Sat 28 Nov, Berlin. 2 artists: Cosmic Gate and Malouna. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

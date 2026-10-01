@@ -1,8 +1,8 @@
 # D.Dan
 
-D.Dan is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+D.Dan is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-D.Dan is a techno and house artist based in United States of America, tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Austin and Barcelona and 61 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+D.Dan is a techno and house artist based in United States of America, with 204 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 61 more. Often billed alongside DJ TOOL, Hyperaktivist and Yazzus. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ D.Dan is a techno and house artist based in United States of America, tracked on
 
 ## Recently played
 
-- TBA, Montreal — Sun, 20 Sept 2026
-- BASEMENT, New York City — Sat, 19 Sept 2026
-- Domicile, Miami — Fri, 18 Sept 2026
-- TBA - Los Angeles, Los Angeles — Fri, 11 Sept 2026
-- 1015 Folsom, San Francisco/Oakland — Thu, 10 Sept 2026
-- INPUT High Fidelity Dance Club, Barcelona — Fri, 4 Sept 2026
-- Karmakoma, Belgrade — Fri, 28 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 22 Aug 2026
+- TBA, Montreal · Sun, 20 Sept 2026
+- BASEMENT, New York City · Sat, 19 Sept 2026
+- Domicile, Miami · Fri, 18 Sept 2026
+- TBA - Los Angeles, Los Angeles · Fri, 11 Sept 2026
+- 1015 Folsom, San Francisco/Oakland · Thu, 10 Sept 2026
+- INPUT High Fidelity Dance Club, Barcelona · Fri, 4 Sept 2026
+- Karmakoma, Belgrade · Fri, 28 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Egg LDN Pres: Freshers Closing party at Egg London
 
-Egg LDN Pres: Freshers Closing party at Egg London on Fri 2 Oct, London. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Egg LDN Pres: Freshers Closing party at Egg London on Fri 2 Oct, London. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

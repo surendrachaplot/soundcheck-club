@@ -1,8 +1,8 @@
 # 98dots
 
-98dots is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+98dots is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
-98dots is a techno and house artist based in Georgia, tracked on soundcheck, with 73 sets logged across Antwerp, Belgrade, Berlin and Boston and 12 more. Often billed alongside Amelia Holt, Zitto and Kancheli. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+98dots is a techno and house artist based in Georgia, with 73 gigs on soundcheck across Antwerp, Belgrade, Berlin and Boston and 12 more. Often billed alongside Amelia Holt, Zitto and Kancheli. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@
 
 ## Recently played
 
-- Signal, New York City — Fri, 18 Sept 2026
-- TBA - East Williamsburg, New York City — Fri, 4 Sept 2026
-- The Dolphin, Philadelphia — Sat, 29 Aug 2026
-- Roof Terrace BK, New York City — Sun, 16 Aug 2026
-- Bassiani, Tbilisi — Fri, 31 Jul 2026
-- Cherry Beach, Toronto — Sun, 19 Jul 2026
-- TBA, Boston — Fri, 17 Jul 2026
-- Signal, New York City — Sat, 11 Jul 2026
+- Signal, New York City · Fri, 18 Sept 2026
+- TBA - East Williamsburg, New York City · Fri, 4 Sept 2026
+- The Dolphin, Philadelphia · Sat, 29 Aug 2026
+- Roof Terrace BK, New York City · Sun, 16 Aug 2026
+- Bassiani, Tbilisi · Fri, 31 Jul 2026
+- Cherry Beach, Toronto · Sun, 19 Jul 2026
+- TBA, Boston · Fri, 17 Jul 2026
+- Signal, New York City · Sat, 11 Jul 2026
 
 ## Shares bills with
 

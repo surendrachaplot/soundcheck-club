@@ -1,8 +1,8 @@
 # Jek (US)
 
-Jek (US) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Outdoor Gathering, New York City on Sat, 10 Oct 2026.
+Jek (US) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Outdoor Gathering, New York City on Sat, 10 Oct 2026.
 
-Jek (US) is a techno and house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Amsterdam, Berlin, Buenos Aires and Copenhagen and 14 more. Often billed alongside djfix, Matas and adobeprincess. Next up: TBA - Outdoor Gathering, New York City on Sat 10 Oct.
+Jek (US) is a techno and house artist based in United States of America, with 69 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Copenhagen and 14 more. Often billed alongside djfix, Matas and adobeprincess. Next up: TBA - Outdoor Gathering, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Jek (US) is a techno and house artist based in United States of America, tracked
 
 ## Recently played
 
-- Signal, New York City — Fri, 25 Sept 2026
-- BASEMENT, New York City — Fri, 18 Sept 2026
-- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
-- Jolene, Copenhagen — Sat, 25 Jul 2026
-- Hotel Butterfly, Rome — Thu, 23 Jul 2026
-- Club der Visionaere, Berlin — Wed, 8 Jul 2026
-- FOLD, London — Sat, 27 Jun 2026
-- Bassiani, Tbilisi — Fri, 5 Jun 2026
+- Signal, New York City · Fri, 25 Sept 2026
+- BASEMENT, New York City · Fri, 18 Sept 2026
+- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
+- Jolene, Copenhagen · Sat, 25 Jul 2026
+- Hotel Butterfly, Rome · Thu, 23 Jul 2026
+- Club der Visionaere, Berlin · Wed, 8 Jul 2026
+- FOLD, London · Sat, 27 Jun 2026
+- Bassiani, Tbilisi · Fri, 5 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Art Bei Ton x Resonance: from Berlin to Tokyo #3 at TBA - somewhere in nishiazabu
 
-Art Bei Ton x Resonance: from Berlin to Tokyo #3 at TBA - somewhere in nishiazabu on Sat 24 Oct, Tokyo. 5 artists on the bill: age, Gojitmal, Hypnotic Black Magic and LiaRako and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Art Bei Ton x Resonance: from Berlin to Tokyo #3 at TBA - somewhere in nishiazabu on Sat 24 Oct, Tokyo. 5 artists: age, Gojitmal, Hypnotic Black Magic and LiaRako and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FRESHERS TRAFFIC LIGHT PARTY - HOSTED BY HUGE LOVE ISLAND 2026 STARS at FABRIC at Private Hire at fabric
 
-FRESHERS TRAFFIC LIGHT PARTY - HOSTED BY HUGE LOVE ISLAND 2026 STARS at FABRIC at Private Hire at fabric on Thu 1 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+FRESHERS TRAFFIC LIGHT PARTY - HOSTED BY HUGE LOVE ISLAND 2026 STARS at FABRIC at Private Hire at fabric on Thu 1 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

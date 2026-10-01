@@ -1,6 +1,6 @@
 # Teletech: JOWI [ALL NIGHT LONG] - Liverpool at Arts Club
 
-Teletech: JOWI [ALL NIGHT LONG] - Liverpool at Arts Club on Fri 9 Oct, Liverpool. Trance and Techno. Preview the line-up and save it on soundcheck.
+Teletech: JOWI [ALL NIGHT LONG] - Liverpool at Arts Club on Fri 9 Oct, Liverpool. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

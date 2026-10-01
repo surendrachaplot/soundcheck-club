@@ -1,6 +1,6 @@
 # clockwork: dj ladle, dj fynn, corchuelo, something good at Cu
 
-clockwork: dj ladle, dj fynn, corchuelo, something good at Cu on Sat 24 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+clockwork: dj ladle, dj fynn, corchuelo, something good at Cu on Sat 24 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

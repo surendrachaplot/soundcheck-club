@@ -1,8 +1,8 @@
 # it_dont_Matt.er
 
-it_dont_Matt.er is a Breakcore and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Vespers Club, London on Fri, 20 Nov 2026.
+it_dont_Matt.er is a Breakcore and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Vespers Club, London on Fri, 20 Nov 2026.
 
-it_dont_Matt.er is a breakcore and club artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Cardiff and London. Often billed alongside AC (dot robot), Takenbymarshall and alterum. Next up: Vespers Club, London on Fri 20 Nov.
+it_dont_Matt.er is a breakcore and club artist based in United Kingdom, with 35 gigs on soundcheck across Cardiff and London. Often billed alongside AC (dot robot), Takenbymarshall and alterum. Next up: Vespers Club, London on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ it_dont_Matt.er is a breakcore and club artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- Club360, London — Fri, 11 Sept 2026
-- M.O.T, London — Sat, 5 Sept 2026
-- Vauxhall Arches, London — Fri, 31 Jul 2026
-- Vespers Club, London — Sat, 18 Jul 2026
-- Leake Street Tunnels, London — Sat, 18 Jul 2026
-- TBA - Secret Location - WAREHOUSE RAVE , London — Fri, 29 May 2026
-- Vale Warehouse, Cardiff — Sat, 2 May 2026
-- Egg London, London — Fri, 24 Apr 2026
+- Club360, London · Fri, 11 Sept 2026
+- M.O.T, London · Sat, 5 Sept 2026
+- Vauxhall Arches, London · Fri, 31 Jul 2026
+- Vespers Club, London · Sat, 18 Jul 2026
+- Leake Street Tunnels, London · Sat, 18 Jul 2026
+- TBA - Secret Location - WAREHOUSE RAVE , London · Fri, 29 May 2026
+- Vale Warehouse, Cardiff · Sat, 2 May 2026
+- Egg London, London · Fri, 24 Apr 2026
 
 ## Shares bills with
 

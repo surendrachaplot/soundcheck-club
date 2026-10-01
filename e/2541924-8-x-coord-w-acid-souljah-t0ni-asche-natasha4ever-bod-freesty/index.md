@@ -1,6 +1,6 @@
 # [8] x COORD: w/ Acid Souljah, t0ni, ASCHE, Natasha4ever, bod [包家巷], Freestyler & co [3 STAGES] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-[8] x COORD: w/ Acid Souljah, t0ni, ASCHE, Natasha4ever, bod [包家巷], Freestyler & co [3 STAGES] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Sat 17 Oct, Berlin. 7 artists on the bill: Acid Souljah, Anthracene, auto_timer and bod [包家巷] and 3 more. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+[8] x COORD: w/ Acid Souljah, t0ni, ASCHE, Natasha4ever, bod [包家巷], Freestyler & co [3 STAGES] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Sat 17 Oct, Berlin. 7 artists: Acid Souljah, Anthracene, auto_timer and bod [包家巷] and 3 more. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

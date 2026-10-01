@@ -1,8 +1,8 @@
 # Adam Bartas
 
-Adam Bartas is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Arena Joondalup, Perth on Fri, 15 Jan 2027.
+Adam Bartas is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Arena Joondalup, Perth on Fri, 15 Jan 2027.
 
-Adam Bartas is a techno and house artist tracked on soundcheck, with 6 sets logged across Brisbane, Melbourne, Perth and Sydney. Often billed alongside ASLO, Boris Brejcha and Claptone. Next up: Arena Joondalup, Perth on Fri 15 Jan.
+Adam Bartas is a techno and house artist, with 6 gigs on soundcheck across Brisbane, Melbourne, Perth and Sydney. Often billed alongside ASLO, Boris Brejcha and Claptone. Next up: Arena Joondalup, Perth on Fri 15 Jan.
 
 ## Upcoming shows
 
@@ -14,9 +14,9 @@ Adam Bartas is a techno and house artist tracked on soundcheck, with 6 sets logg
 
 ## Recently played
 
-- TBA - Il Mercato Centrale, Melbourne — Sat, 6 Jun 2026
-- Riviera Beach Club, Melbourne — Wed, 31 Dec 2025
-- Revolver Upstairs, Melbourne — Sat, 13 Dec 2025
+- TBA - Il Mercato Centrale, Melbourne · Sat, 6 Jun 2026
+- Riviera Beach Club, Melbourne · Wed, 31 Dec 2025
+- Revolver Upstairs, Melbourne · Sat, 13 Dec 2025
 
 ## Shares bills with
 

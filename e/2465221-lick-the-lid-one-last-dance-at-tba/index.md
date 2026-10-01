@@ -1,6 +1,6 @@
 # Lick The Lid: One Last Dance at TBA
 
-Lick The Lid: One Last Dance at TBA on Sat 28 Nov, London. Preview the line-up and save it on soundcheck.
+Lick The Lid: One Last Dance at TBA on Sat 28 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

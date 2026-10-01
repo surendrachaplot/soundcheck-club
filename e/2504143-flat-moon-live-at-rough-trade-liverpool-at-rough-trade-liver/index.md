@@ -1,6 +1,6 @@
 # Flat Moon Live at Rough Trade Liverpool at Rough Trade Liverpool
 
-Flat Moon Live at Rough Trade Liverpool on Wed 28 Oct, Liverpool. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Flat Moon Live at Rough Trade Liverpool on Wed 28 Oct, Liverpool. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

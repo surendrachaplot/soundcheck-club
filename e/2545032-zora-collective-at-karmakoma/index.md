@@ -1,6 +1,6 @@
 # Zora Collective at Karmakoma
 
-Zora Collective at Karmakoma on Sat 3 Oct, Belgrade. Preview the line-up and save it on soundcheck.
+Zora Collective at Karmakoma on Sat 3 Oct, Belgrade. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

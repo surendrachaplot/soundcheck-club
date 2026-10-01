@@ -1,6 +1,6 @@
 # Kirollus at Electric Bristol
 
-Kirollus at Electric Bristol on Sat 5 Dec, Bristol. 1 artist on the bill: Kirollus. House and Disco. Preview the line-up and save it on soundcheck.
+Kirollus at Electric Bristol on Sat 5 Dec, Bristol. 1 artist: Kirollus. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

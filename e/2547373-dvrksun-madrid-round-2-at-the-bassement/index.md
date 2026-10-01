@@ -1,6 +1,6 @@
 # DVRKSUN MADRID ROUND 2 at The Bassement
 
-DVRKSUN MADRID ROUND 2 at The Bassement on Thu 15 Oct, Madrid. 3 artists on the bill: Daniella da Silva, Parsa Jafari and RIKHTER. Techno and Industrial. Preview the line-up and save it on soundcheck.
+DVRKSUN MADRID ROUND 2 at The Bassement on Thu 15 Oct, Madrid. 3 artists: Daniella da Silva, Parsa Jafari and RIKHTER. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

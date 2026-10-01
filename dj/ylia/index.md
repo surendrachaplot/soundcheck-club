@@ -1,8 +1,8 @@
 # Ylia
 
-Ylia is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Ylia is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-Ylia is a house and disco artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona, Madrid, Malaga and Rome and 3 more. Often billed alongside Lucient, Phran and Jeff Mills. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Ylia is a house and disco artist based in Spain, with 28 gigs on soundcheck across Barcelona, Madrid, Malaga and Rome and 3 more. Often billed alongside Lucient, Phran and Jeff Mills. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Ylia is a house and disco artist based in Spain, tracked on soundcheck, with 28 
 
 ## Recently played
 
-- TBA - Pratdip (Tarragona, Spain), Barcelona — Fri, 21 Aug 2026
-- TBA, Sao Paulo — Sat, 8 Aug 2026
-- Dr. Banana Club, Sao Paulo — Sat, 1 Aug 2026
-- Bar Carmem, Sao Paulo — Fri, 12 Jun 2026
-- Ephigenia, Sao Paulo — Fri, 29 May 2026
-- Doggy Klœb, Malaga — Sat, 23 May 2026
-- Caracol Bar, Sao Paulo — Sat, 9 May 2026
-- LAUT, Barcelona — Fri, 24 Apr 2026
+- TBA - Pratdip (Tarragona, Spain), Barcelona · Fri, 21 Aug 2026
+- TBA, Sao Paulo · Sat, 8 Aug 2026
+- Dr. Banana Club, Sao Paulo · Sat, 1 Aug 2026
+- Bar Carmem, Sao Paulo · Fri, 12 Jun 2026
+- Ephigenia, Sao Paulo · Fri, 29 May 2026
+- Doggy Klœb, Malaga · Sat, 23 May 2026
+- Caracol Bar, Sao Paulo · Sat, 9 May 2026
+- LAUT, Barcelona · Fri, 24 Apr 2026
 
 ## Shares bills with
 

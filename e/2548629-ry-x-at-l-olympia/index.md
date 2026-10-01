@@ -1,6 +1,6 @@
 # RY X at L'Olympia
 
-RY X at L'Olympia on Sat 10 Apr, Paris. 1 artist on the bill: RY X. Preview the line-up and save it on soundcheck.
+RY X at L'Olympia on Sat 10 Apr, Paris. 1 artist: RY X. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

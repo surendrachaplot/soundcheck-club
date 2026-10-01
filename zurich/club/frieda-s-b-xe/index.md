@@ -1,8 +1,8 @@
 # Frieda's Büxe
 
-Frieda's Büxe is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "16 JAHRE FRIEDA'S BÜXE" on Fri, 2 Oct 2026.
+Frieda's Büxe is a music venue in Zurich with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "16 JAHRE FRIEDA'S BÜXE" on Fri, 2 Oct 2026.
 
-Frieda's Büxe is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including And Hazel, Andreas Ramos, Aron (CH) and Capt'n and 2 more. Browse upcoming dates, start times and who's playing. Friedaustrasse 23; 8003, Zürich; Switzerland.
+Frieda's Büxe is a music venue in Zurich listed on soundcheck. 4 upcoming gigs, with line-ups including And Hazel, Andreas Ramos, Aron (CH) and Capt'n and 2 more. See dates, start times and who's playing. Friedaustrasse 23; 8003, Zürich; Switzerland.
 
 ## What's on
 

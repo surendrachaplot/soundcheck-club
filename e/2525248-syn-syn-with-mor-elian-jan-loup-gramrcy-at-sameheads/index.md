@@ -1,6 +1,6 @@
 # syn syn with Mor Elian, Jan Loup & Gramrcy at Sameheads
 
-syn syn with Mor Elian, Jan Loup & Gramrcy at Sameheads on Fri 2 Oct, Berlin. 3 artists on the bill: Gramrcy, Jan Loup and Mor Elian. Preview the line-up and save it on soundcheck.
+syn syn with Mor Elian, Jan Loup & Gramrcy at Sameheads on Fri 2 Oct, Berlin. 3 artists: Gramrcy, Jan Loup and Mor Elian. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hertz 헤르츠: *Nuveam* with Francesco Carvetta (Signature, IT) at Hertz
 
-Hertz 헤르츠: *Nuveam* with Francesco Carvetta (Signature, IT) on Sat 3 Oct, Seoul. 3 artists on the bill: Francesco Carvetta, Hakim. and Jimin. House and Club. Preview the line-up and save it on soundcheck.
+Hertz 헤르츠: *Nuveam* with Francesco Carvetta (Signature, IT) on Sat 3 Oct, Seoul. 3 artists: Francesco Carvetta, Hakim. and Jimin. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

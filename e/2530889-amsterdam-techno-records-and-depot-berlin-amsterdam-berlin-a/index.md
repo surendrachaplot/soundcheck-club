@@ -1,6 +1,6 @@
 # Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] at ://about blank
 
-Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] at ://about blank on Sat 12 Dec, Berlin. 9 artists on the bill: Bokaric, Dave Mech, DEN!SE and Jasmin Giovanazzi and 5 more. Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Techno Records and DEPOT BERLIN [Amsterdam & Berlin] at ://about blank on Sat 12 Dec, Berlin. 9 artists: Bokaric, Dave Mech, DEN!SE and Jasmin Giovanazzi and 5 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

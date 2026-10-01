@@ -1,6 +1,6 @@
 # Jaded Sounds: Halloween Party at The Star Of Kings
 
-Jaded Sounds: Halloween Party at The Star Of Kings on Sat 31 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Jaded Sounds: Halloween Party at The Star Of Kings on Sat 31 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

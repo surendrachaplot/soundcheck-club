@@ -1,6 +1,6 @@
 # Boy Harsher presents Nude Club feat. Augustus Muller - Justin Aulis Long - Miss Twink USA at smartbar
 
-Boy Harsher presents Nude Club feat. Augustus Muller - Justin Aulis Long - Miss Twink USA at smartbar on Fri 2 Oct, Chicago. 3 artists on the bill: Augustus Muller, Justin Aulis Long and Miss Twink USA. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Boy Harsher presents Nude Club feat. Augustus Muller - Justin Aulis Long - Miss Twink USA at smartbar on Fri 2 Oct, Chicago. 3 artists: Augustus Muller, Justin Aulis Long and Miss Twink USA. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

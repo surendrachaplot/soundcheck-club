@@ -1,6 +1,6 @@
 # Entropy 熵 with Ottoman Grüw (Mutant Modality, Brussels) at 宀 Club
 
-Entropy 熵 with Ottoman Grüw (Mutant Modality, Brussels) at 宀 Club on Fri 23 Oct, Hong Kong. 2 artists on the bill: Nanogram and Ottoman Grüw. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Entropy 熵 with Ottoman Grüw (Mutant Modality, Brussels) at 宀 Club on Fri 23 Oct, Hong Kong. 2 artists: Nanogram and Ottoman Grüw. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

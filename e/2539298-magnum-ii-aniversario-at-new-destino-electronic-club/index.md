@@ -1,6 +1,6 @@
 # MAGNUM II ANIVERSARIO at New Destino Electronic Club
 
-MAGNUM II ANIVERSARIO at New Destino Electronic Club on Sat 17 Oct, Madrid. Techno and Industrial. Preview the line-up and save it on soundcheck.
+MAGNUM II ANIVERSARIO at New Destino Electronic Club on Sat 17 Oct, Madrid. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

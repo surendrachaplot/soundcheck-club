@@ -1,6 +1,6 @@
 # MoS 35: URGE: Loco Dice at Ministry Of Sound
 
-MoS 35: URGE: Loco Dice at Ministry Of Sound on Sat 3 Oct, London. 2 artists on the bill: Joëlla Jackson and Loco Dice. House and Tech House. Preview the line-up and save it on soundcheck.
+MoS 35: URGE: Loco Dice at Ministry Of Sound on Sat 3 Oct, London. 2 artists: Joëlla Jackson and Loco Dice. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

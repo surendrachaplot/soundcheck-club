@@ -1,6 +1,6 @@
 # Navidad Edition x Mushroom, Estadio Nacional Ezeiza at TBA - Estadio Nacional, Ezeiza
 
-Navidad Edition x Mushroom, Estadio Nacional Ezeiza at TBA - Estadio Nacional, Ezeiza on Fri 25 Dec, Buenos Aires. Electronica. Preview the line-up and save it on soundcheck.
+Navidad Edition x Mushroom, Estadio Nacional Ezeiza at TBA - Estadio Nacional, Ezeiza on Fri 25 Dec, Buenos Aires. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

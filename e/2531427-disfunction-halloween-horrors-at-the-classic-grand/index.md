@@ -1,6 +1,6 @@
 # Disfunction: Halloween Horrors at The Classic Grand
 
-Disfunction: Halloween Horrors at The Classic Grand on Sat 31 Oct, Glasgow. 2 artists on the bill: OGUZ and Russian Village Boys. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Disfunction: Halloween Horrors at The Classic Grand on Sat 31 Oct, Glasgow. 2 artists: OGUZ and Russian Village Boys. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

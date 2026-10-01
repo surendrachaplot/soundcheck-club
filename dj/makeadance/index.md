@@ -1,8 +1,8 @@
 # Make A Dance
 
-Make A Dance is a House and Disco artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
+Make A Dance is a House and Disco artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
 
-Make A Dance is a house and disco artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Amsterdam, Auckland, Bali and Bangkok and 30 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
+Make A Dance is a house and disco artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Auckland, Bali and Bangkok and 30 more. Often billed alongside Paula Tape, Tash LC and Thom Parris. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Make A Dance is a house and disco artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 26 Sept 2026
-- Hope House, Leeds — Fri, 25 Sept 2026
-- La Terrrazza, Barcelona — Wed, 23 Sept 2026
-- Gingerino's Pizza, Newcastle — Sat, 19 Sept 2026
-- Palais, London — Fri, 28 Aug 2026
-- Rumore Nightclub Capri, Naples — Sat, 8 Aug 2026
-- Patterns, Brighton — Sat, 25 Jul 2026
-- BRET, Amsterdam — Fri, 3 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
+- Hope House, Leeds · Fri, 25 Sept 2026
+- La Terrrazza, Barcelona · Wed, 23 Sept 2026
+- Gingerino's Pizza, Newcastle · Sat, 19 Sept 2026
+- Palais, London · Fri, 28 Aug 2026
+- Rumore Nightclub Capri, Naples · Sat, 8 Aug 2026
+- Patterns, Brighton · Sat, 25 Jul 2026
+- BRET, Amsterdam · Fri, 3 Jul 2026
 
 ## Shares bills with
 

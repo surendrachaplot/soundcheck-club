@@ -1,6 +1,6 @@
 # subvert presents GiGi FM (Berlin) at Ancient World
 
-subvert presents GiGi FM (Berlin) at Ancient World on Fri 9 Oct, Adelaide. 1 artist on the bill: GiGi FM. Preview the line-up and save it on soundcheck.
+subvert presents GiGi FM (Berlin) at Ancient World on Fri 9 Oct, Adelaide. 1 artist: GiGi FM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

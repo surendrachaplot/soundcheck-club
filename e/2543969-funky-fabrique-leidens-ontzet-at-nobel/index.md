@@ -1,6 +1,6 @@
 # Funky Fabrique - Leidens Ontzet at Nobel
 
-Funky Fabrique - Leidens Ontzet at Nobel on Fri 2 Oct, Netherlands. 1 artist on the bill: NewTone. Preview the line-up and save it on soundcheck.
+Funky Fabrique - Leidens Ontzet at Nobel on Fri 2 Oct, Netherlands. 1 artist: NewTone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

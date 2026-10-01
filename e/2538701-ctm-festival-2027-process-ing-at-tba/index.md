@@ -1,6 +1,6 @@
 # CTM Festival 2027 »Process...ing« at TBA
 
-CTM Festival 2027 »Process...ing« at TBA on Fri 22 Jan, Berlin. 18 artists on the bill: 96 Back, A.N.I., aya and Debit and 14 more. Preview the line-up and save it on soundcheck.
+CTM Festival 2027 »Process...ing« at TBA on Fri 22 Jan, Berlin. 18 artists: 96 Back, A.N.I., aya and Debit and 14 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

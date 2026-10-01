@@ -1,8 +1,8 @@
 # Fidelity Studio
 
-Fidelity Studio is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SOLD OUT Horse Meat Disco (All Night Long)" on Fri, 2 Oct 2026.
+Fidelity Studio is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SOLD OUT Horse Meat Disco (All Night Long)" on Fri, 2 Oct 2026.
 
-Fidelity Studio is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Bridge (NY), Dr Banana, Gerd Janson and Horse Meat Disco and 2 more. Browse upcoming dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
+Fidelity Studio is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including Bridge (NY), Dr Banana, Gerd Janson and Horse Meat Disco and 2 more. See dates, start times and who's playing. 79 Queen Street, Smithfield, Dublin 7, D07 DW3R.
 
 ## What's on
 

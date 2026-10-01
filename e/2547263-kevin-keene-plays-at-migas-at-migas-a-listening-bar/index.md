@@ -1,6 +1,6 @@
 # Kevin Keene plays at migas at migas, a listening bar
 
-Kevin Keene plays at migas at migas, a listening bar on Sat 24 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Kevin Keene plays at migas at migas, a listening bar on Sat 24 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

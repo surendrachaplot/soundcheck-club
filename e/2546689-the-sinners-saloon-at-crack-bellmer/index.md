@@ -1,6 +1,6 @@
 # The Sinners Saloon at Crack Bellmer
 
-The Sinners Saloon at Crack Bellmer on Sun 4 Oct, Berlin. Preview the line-up and save it on soundcheck.
+The Sinners Saloon at Crack Bellmer on Sun 4 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

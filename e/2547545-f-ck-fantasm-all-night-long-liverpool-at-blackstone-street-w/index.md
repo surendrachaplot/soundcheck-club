@@ -1,6 +1,6 @@
 # F*CK FANTASM - All Night Long, Liverpool at Blackstone Street Warehouse
 
-F*CK FANTASM - All Night Long, Liverpool at Blackstone Street Warehouse on Sat 6 Feb, Liverpool. 1 artist on the bill: Fantasm. Preview the line-up and save it on soundcheck.
+F*CK FANTASM - All Night Long, Liverpool at Blackstone Street Warehouse on Sat 6 Feb, Liverpool. 1 artist: Fantasm. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

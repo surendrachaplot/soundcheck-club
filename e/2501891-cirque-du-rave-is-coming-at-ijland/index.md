@@ -1,6 +1,6 @@
 # Cirque Du Rave Is Coming at Ijland
 
-Cirque Du Rave Is Coming at Ijland on Sat 17 Oct, Amsterdam. Trance and Techno. Preview the line-up and save it on soundcheck.
+Cirque Du Rave Is Coming at Ijland on Sat 17 Oct, Amsterdam. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

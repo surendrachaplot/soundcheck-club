@@ -1,6 +1,6 @@
 # The Floozies at ZeyZey
 
-The Floozies at ZeyZey on Thu 5 Nov, Miami. Funk / Soul. Preview the line-up and save it on soundcheck.
+The Floozies at ZeyZey on Thu 5 Nov, Miami. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

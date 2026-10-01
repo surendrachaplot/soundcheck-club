@@ -1,6 +1,6 @@
 # Sweely presented by OTR x Disqo at TBA
 
-Sweely presented by OTR x Disqo at TBA on Fri 30 Oct, Toronto. 6 artists on the bill: Blkvirgo, me, myself &i, Sakiko Nagai and Shen and 2 more. Deep House. Preview the line-up and save it on soundcheck.
+Sweely presented by OTR x Disqo at TBA on Fri 30 Oct, Toronto. 6 artists: Blkvirgo, me, myself &i, Sakiko Nagai and Shen and 2 more. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

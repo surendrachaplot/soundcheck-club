@@ -1,8 +1,8 @@
 # Krackk
 
-Krackk is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Dockland, Munster on Sat, 3 Oct 2026.
+Krackk is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dockland, Munster on Sat, 3 Oct 2026.
 
-Krackk is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Berlin, Cologne, Dortmund Essen and Düsseldorf and 8 more. Often billed alongside Robin Tasi, Justin Tinderdate and Mika Heggemann. Next up: Dockland, Munster on Sat 3 Oct.
+Krackk is a techno and house artist based in Germany, with 53 gigs on soundcheck across Berlin, Cologne, Dortmund Essen and Düsseldorf and 8 more. Often billed alongside Robin Tasi, Justin Tinderdate and Mika Heggemann. Next up: Dockland, Munster on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Krackk is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- FOUND, Berlin — Fri, 25 Sept 2026
-- Junkyard Dortmund, Dortmund-essen — Sat, 12 Sept 2026
-- Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
-- Else, Berlin — Fri, 31 Jul 2026
-- Westhafen, Leipzig — Sat, 25 Jul 2026
-- Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
-- fi, Cologne — Fri, 22 May 2026
-- Artheater, Cologne — Sat, 4 Apr 2026
+- FOUND, Berlin · Fri, 25 Sept 2026
+- Junkyard Dortmund, Dortmund-essen · Sat, 12 Sept 2026
+- Junkyard Dortmund, Dortmund-essen · Sat, 5 Sept 2026
+- Else, Berlin · Fri, 31 Jul 2026
+- Westhafen, Leipzig · Sat, 25 Jul 2026
+- Hackney Wick Multiple Venues, London · Sat, 4 Jul 2026
+- fi, Cologne · Fri, 22 May 2026
+- Artheater, Cologne · Sat, 4 Apr 2026
 
 ## Shares bills with
 

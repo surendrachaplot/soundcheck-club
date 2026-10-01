@@ -1,6 +1,6 @@
 # ebb n flow #0: intro & open decks - liquid focus at The Bag Factory
 
-ebb n flow #0: intro & open decks - liquid focus at The Bag Factory on Thu 22 Oct, Manchester. Drum & Bass. Preview the line-up and save it on soundcheck.
+ebb n flow #0: intro & open decks - liquid focus at The Bag Factory on Thu 22 Oct, Manchester. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

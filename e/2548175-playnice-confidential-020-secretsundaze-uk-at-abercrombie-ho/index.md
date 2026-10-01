@@ -1,6 +1,6 @@
 # PLAYNICE CONFIDENTIAL 020 - Secretsundaze [UK] at Abercrombie Hotel
 
-PLAYNICE CONFIDENTIAL 020 - Secretsundaze [UK] at Abercrombie Hotel on Sat 24 Oct, Sydney. 1 artist on the bill: Secretsundaze. House and Club. Preview the line-up and save it on soundcheck.
+PLAYNICE CONFIDENTIAL 020 - Secretsundaze [UK] at Abercrombie Hotel on Sat 24 Oct, Sydney. 1 artist: Secretsundaze. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

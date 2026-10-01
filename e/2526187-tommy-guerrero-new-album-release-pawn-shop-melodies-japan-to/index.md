@@ -1,6 +1,6 @@
 # TOMMY GUERRERO NEW ALBUM RELEASE 'PAWN SHOP MELODIES' JAPAN TOUR 2026 in TOKYO *FINAL at clubasia
 
-TOMMY GUERRERO NEW ALBUM RELEASE 'PAWN SHOP MELODIES' JAPAN TOUR 2026 in TOKYO *FINAL at clubasia on Mon 19 Oct, Tokyo. 1 artist on the bill: Bass. Funk / Soul and Club. Preview the line-up and save it on soundcheck.
+TOMMY GUERRERO NEW ALBUM RELEASE 'PAWN SHOP MELODIES' JAPAN TOUR 2026 in TOKYO *FINAL at clubasia on Mon 19 Oct, Tokyo. 1 artist: Bass. Funk / Soul and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

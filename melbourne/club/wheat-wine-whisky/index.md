@@ -1,8 +1,8 @@
 # Wheat, Wine & Whisky
 
-Wheat, Wine & Whisky is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Gay Roberto All Night Long" on Sat, 3 Oct 2026.
+Wheat, Wine & Whisky is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Gay Roberto All Night Long" on Sat, 3 Oct 2026.
 
-Wheat, Wine & Whisky is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 284 Smith St, Collingwood, VIC 3066, AUS.
+Wheat, Wine & Whisky is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 284 Smith St, Collingwood, VIC 3066, AUS.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Mobilat Club
 
-Mobilat Club is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "3 YEARS FIGHTNIGHT W/ Felix Kröcher" on Sat, 3 Oct 2026.
+Mobilat Club is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "3 YEARS FIGHTNIGHT W/ Felix Kröcher" on Sat, 3 Oct 2026.
 
-Mobilat Club is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, with line-ups including Felix Kröcher. Browse upcoming dates, start times and who's playing. Salzstrasse 27; 74076 Heilbronn.
+Mobilat Club is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, with line-ups including Felix Kröcher. See dates, start times and who's playing. Salzstrasse 27; 74076 Heilbronn.
 
 ## What's on
 

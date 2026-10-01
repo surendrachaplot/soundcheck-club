@@ -1,6 +1,6 @@
 # / /: Aedes Groove Sessions: \ \ ___ Birthday Club Edition ___ at Aedes Bar
 
-/ /: Aedes Groove Sessions: \ \ ___ Birthday Club Edition ___ at Aedes Bar on Fri 9 Oct, Berlin. 6 artists on the bill: Club Suave, Domovnika, Emilion Dollar Baby and Flor Coto and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+/ /: Aedes Groove Sessions: \ \ ___ Birthday Club Edition ___ at Aedes Bar on Fri 9 Oct, Berlin. 6 artists: Club Suave, Domovnika, Emilion Dollar Baby and Flor Coto and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

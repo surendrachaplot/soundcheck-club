@@ -1,6 +1,6 @@
 # Music On - Destino Closing Party at Destino Ibiza
 
-Music On - Destino Closing Party at Destino Ibiza on Sun 11 Oct, Ibiza. House and Tech House. Preview the line-up and save it on soundcheck.
+Music On - Destino Closing Party at Destino Ibiza on Sun 11 Oct, Ibiza. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

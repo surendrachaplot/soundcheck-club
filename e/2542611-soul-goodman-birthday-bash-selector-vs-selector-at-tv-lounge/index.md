@@ -1,6 +1,6 @@
 # Soul Goodman Birthday Bash • Selector vs Selector at TV Lounge
 
-Soul Goodman Birthday Bash • Selector vs Selector at TV Lounge on Sat 3 Oct, Detroit. 3 artists on the bill: Aboudi Issa, ERNO (US) and Soul Goodman. Techno and House. Preview the line-up and save it on soundcheck.
+Soul Goodman Birthday Bash • Selector vs Selector at TV Lounge on Sat 3 Oct, Detroit. 3 artists: Aboudi Issa, ERNO (US) and Soul Goodman. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

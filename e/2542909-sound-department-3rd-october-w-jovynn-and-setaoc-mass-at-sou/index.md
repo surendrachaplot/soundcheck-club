@@ -1,6 +1,6 @@
 # Sound Department 3RD October w/Jovynn and Setaoc Mass at Sound Department
 
-Sound Department 3RD October w/Jovynn and Setaoc Mass on Sat 3 Oct, South. 4 artists on the bill: Cosimo Colella, SELICATO, Setaoc Mass and YORG. Preview the line-up and save it on soundcheck.
+Sound Department 3RD October w/Jovynn and Setaoc Mass on Sat 3 Oct, South. 4 artists: Cosimo Colella, SELICATO, Setaoc Mass and YORG. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

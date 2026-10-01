@@ -1,8 +1,8 @@
 # Mayari
 
-Mayari is a Deep House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Harbor House DTLA, Los Angeles on Fri, 9 Oct 2026.
+Mayari is a Deep House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Harbor House DTLA, Los Angeles on Fri, 9 Oct 2026.
 
-Mayari is a deep house and house artist based in United States of America, tracked on soundcheck, with 14 sets logged across London, Los Angeles and Melbourne. Often billed alongside Claudine Mayari, Massio and Eddie Salavati. Next up: Harbor House DTLA, Los Angeles on Fri 9 Oct.
+Mayari is a deep house and house artist based in United States of America, with 14 gigs on soundcheck across London, Los Angeles and Melbourne. Often billed alongside Claudine Mayari, Massio and Eddie Salavati. Next up: Harbor House DTLA, Los Angeles on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mayari is a deep house and house artist based in United States of America, track
 
 ## Recently played
 
-- The Rose Room, Los Angeles — Sat, 16 May 2026
-- Miscellania, Melbourne — Sat, 31 Jan 2026
-- Belmont Veterans Memorial Pier, Los Angeles — Sun, 12 Oct 2025
-- Massilia, Los Angeles — Sat, 27 Sept 2025
-- Massilia, Los Angeles — Sat, 15 Mar 2025
-- Massilia, Los Angeles — Sat, 22 Feb 2025
-- Massilia, Los Angeles — Tue, 31 Dec 2024
-- Zinque Venice, Los Angeles — Sat, 24 Feb 2024
+- The Rose Room, Los Angeles · Sat, 16 May 2026
+- Miscellania, Melbourne · Sat, 31 Jan 2026
+- Belmont Veterans Memorial Pier, Los Angeles · Sun, 12 Oct 2025
+- Massilia, Los Angeles · Sat, 27 Sept 2025
+- Massilia, Los Angeles · Sat, 15 Mar 2025
+- Massilia, Los Angeles · Sat, 22 Feb 2025
+- Massilia, Los Angeles · Tue, 31 Dec 2024
+- Zinque Venice, Los Angeles · Sat, 24 Feb 2024
 
 ## Shares bills with
 

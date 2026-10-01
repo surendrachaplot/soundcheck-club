@@ -1,6 +1,6 @@
 # Fischio presents Mino Luchena at Fischio
 
-Fischio presents Mino Luchena on Sat 17 Oct, Rome. Preview the line-up and save it on soundcheck.
+Fischio presents Mino Luchena on Sat 17 Oct, Rome. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

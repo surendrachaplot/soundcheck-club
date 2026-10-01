@@ -1,6 +1,6 @@
 # Fridays at 77 x Love Message: Alex Diwa, Shoop DJs at Club 77
 
-Fridays at 77 x Love Message: Alex Diwa, Shoop DJs at Club 77 on Fri 16 Oct, Sydney. 1 artist on the bill: Alex Diwa. Techno and House. Preview the line-up and save it on soundcheck.
+Fridays at 77 x Love Message: Alex Diwa, Shoop DJs at Club 77 on Fri 16 Oct, Sydney. 1 artist: Alex Diwa. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

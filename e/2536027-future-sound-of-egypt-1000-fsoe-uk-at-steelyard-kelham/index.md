@@ -1,6 +1,6 @@
 # Future Sound Of Egypt 1000 [FSOE] - UK at Steelyard Kelham
 
-Future Sound Of Egypt 1000 [FSOE] - UK at Steelyard Kelham on Sat 12 Jun, Sheffield. 13 artists on the bill: Aly & Fila, Ciaran McAuley, Daxson and Doppenberg and 9 more. Preview the line-up and save it on soundcheck.
+Future Sound Of Egypt 1000 [FSOE] - UK at Steelyard Kelham on Sat 12 Jun, Sheffield. 13 artists: Aly & Fila, Ciaran McAuley, Daxson and Doppenberg and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

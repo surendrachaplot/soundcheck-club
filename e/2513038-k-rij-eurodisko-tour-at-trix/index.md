@@ -1,6 +1,6 @@
 # Käärijä EURODISKO TOUR at Trix
 
-Käärijä EURODISKO TOUR at Trix on Thu 15 Oct, Antwerp. Preview the line-up and save it on soundcheck.
+Käärijä EURODISKO TOUR at Trix on Thu 15 Oct, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

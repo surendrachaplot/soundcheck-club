@@ -1,6 +1,6 @@
 # Sandunga ADE at Lotti's in The Hoxton Hotel Amsterdam at The Hoxton Amsterdam
 
-Sandunga ADE at Lotti's in The Hoxton Hotel Amsterdam at The Hoxton Amsterdam on Fri 23 Oct, Amsterdam. 8 artists on the bill: Luca Garcia, Marvin Aloys, NICI NICE and Niklas Becher and 4 more. House. Preview the line-up and save it on soundcheck.
+Sandunga ADE at Lotti's in The Hoxton Hotel Amsterdam at The Hoxton Amsterdam on Fri 23 Oct, Amsterdam. 8 artists: Luca Garcia, Marvin Aloys, NICI NICE and Niklas Becher and 4 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

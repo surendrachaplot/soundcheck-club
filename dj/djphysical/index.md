@@ -1,8 +1,8 @@
 # DJ Physical
 
-DJ Physical is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Virage, Paris on Sat, 10 Oct 2026.
+DJ Physical is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Virage, Paris on Sat, 10 Oct 2026.
 
-DJ Physical is a techno and trance artist based in France, tracked on soundcheck, with 71 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside The Chronics, Arabian Panther and JKS. Next up: Virage, Paris on Sat 10 Oct.
+DJ Physical is a techno and trance artist based in France, with 71 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside The Chronics, Arabian Panther and JKS. Next up: Virage, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Physical is a techno and trance artist based in France, tracked on soundcheck
 
 ## Recently played
 
-- Le Sucre, Lyon — Sat, 26 Sept 2026
-- Badaboum, Paris — Fri, 4 Sept 2026
-- OXI, Berlin — Fri, 17 Jul 2026
-- Kilomètre25, Paris — Fri, 3 Jul 2026
-- Badaboum, Paris — Fri, 19 Jun 2026
-- 104 CENTQUATRE, Paris — Sat, 25 Apr 2026
-- Badaboum, Paris — Sat, 14 Feb 2026
-- Perron, Rotterdam — Fri, 30 Jan 2026
+- Le Sucre, Lyon · Sat, 26 Sept 2026
+- Badaboum, Paris · Fri, 4 Sept 2026
+- OXI, Berlin · Fri, 17 Jul 2026
+- Kilomètre25, Paris · Fri, 3 Jul 2026
+- Badaboum, Paris · Fri, 19 Jun 2026
+- 104 CENTQUATRE, Paris · Sat, 25 Apr 2026
+- Badaboum, Paris · Sat, 14 Feb 2026
+- Perron, Rotterdam · Fri, 30 Jan 2026
 
 ## Shares bills with
 

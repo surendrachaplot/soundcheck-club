@@ -1,6 +1,6 @@
 # ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween' at ZEROTOKYO
 
-ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween' on Sat 31 Oct, Tokyo. 3 artists on the bill: DA BOOK, KATIMI AI and ShioriyBradshaw. Pop. Preview the line-up and save it on soundcheck.
+ZEROTOKYO HALLOWEEN DAY2 'NEON STARS Supported by Veuve Clicquot Yelloween' on Sat 31 Oct, Tokyo. 3 artists: DA BOOK, KATIMI AI and ShioriyBradshaw. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

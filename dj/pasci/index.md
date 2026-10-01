@@ -1,8 +1,8 @@
 # pasci
 
-pasci is a Breakbeat and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
+pasci is a Breakbeat and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Frieda's Büxe, Zurich on Sat, 3 Oct 2026.
 
-pasci is a breakbeat and house artist based in Switzerland, tracked on soundcheck, with 15 sets logged across Basel, Marseille, Milan and New York City and 3 more. Often billed alongside Valentino, Viiaan and Amor Satyr. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
+pasci is a breakbeat and house artist based in Switzerland, with 15 gigs on soundcheck across Basel, Marseille, Milan and New York City and 3 more. Often billed alongside Valentino, Viiaan and Amor Satyr. Next up: Frieda's Büxe, Zurich on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ pasci is a breakbeat and house artist based in Switzerland, tracked on soundchec
 
 ## Recently played
 
-- Umbo, Zurich — Sat, 12 Sept 2026
-- Landesmuseum, Zurich — Mon, 27 Jul 2026
-- Kuppel, Basel — Sat, 18 Apr 2026
-- Supermarket, Zurich — Sat, 21 Feb 2026
-- Circolo Magnolia, Milan — Sat, 12 Jul 2025
-- Kauz, Zurich — Sat, 15 Mar 2025
-- Circolo dei Cerchi, Rome — Fri, 14 Feb 2025
-- La Rotonde Stalingrad, Paris — Fri, 9 Aug 2024
+- Umbo, Zurich · Sat, 12 Sept 2026
+- Landesmuseum, Zurich · Mon, 27 Jul 2026
+- Kuppel, Basel · Sat, 18 Apr 2026
+- Supermarket, Zurich · Sat, 21 Feb 2026
+- Circolo Magnolia, Milan · Sat, 12 Jul 2025
+- Kauz, Zurich · Sat, 15 Mar 2025
+- Circolo dei Cerchi, Rome · Fri, 14 Feb 2025
+- La Rotonde Stalingrad, Paris · Fri, 9 Aug 2024
 
 ## Shares bills with
 

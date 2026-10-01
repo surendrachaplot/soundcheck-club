@@ -1,6 +1,6 @@
 # We Call it Dance Weekender at Butlin's Skegness Resort
 
-We Call it Dance Weekender at Butlin's Skegness Resort on Fri 6 Nov, Midlands. 13 artists on the bill: Artful Dodger, Carly Wilford, Claptone and Ferreck Dawn and 9 more. Preview the line-up and save it on soundcheck.
+We Call it Dance Weekender at Butlin's Skegness Resort on Fri 6 Nov, Midlands. 13 artists: Artful Dodger, Carly Wilford, Claptone and Ferreck Dawn and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

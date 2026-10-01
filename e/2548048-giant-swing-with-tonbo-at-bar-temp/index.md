@@ -1,6 +1,6 @@
 # GIANT SWING with Tonbo at Bar Temp.
 
-GIANT SWING with Tonbo at Bar Temp. on Sat 17 Oct, Bangkok. 3 artists on the bill: GAOLAO, NK Chan and Tonbo. Techno and House. Preview the line-up and save it on soundcheck.
+GIANT SWING with Tonbo at Bar Temp. on Sat 17 Oct, Bangkok. 3 artists: GAOLAO, NK Chan and Tonbo. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

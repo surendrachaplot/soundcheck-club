@@ -1,8 +1,8 @@
 # Mille (DE)
 
-Mille (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Giselle, Düsseldorf on Sat, 5 Dec 2026.
+Mille (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Giselle, Düsseldorf on Sat, 5 Dec 2026.
 
-Mille (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Düsseldorf and Hamburg. Often billed alongside MILLE, DJ MILLE and Alec Dienaar. Next up: Giselle, Düsseldorf on Sat 5 Dec.
+Mille (DE) is a house and techno artist based in Germany, with 6 gigs on soundcheck across Berlin, Düsseldorf and Hamburg. Often billed alongside MILLE, DJ MILLE and Alec Dienaar. Next up: Giselle, Düsseldorf on Sat 5 Dec.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Mille (DE) is a house and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Fitzroy, Berlin — Sun, 20 Sept 2026
-- Südpol, Hamburg — Sat, 5 Sept 2026
-- Edelfettwerk, Hamburg — Sat, 29 Aug 2026
-- Else, Berlin — Sun, 2 Aug 2026
-- 45hertz, Hamburg — Sun, 5 Jul 2026
+- Fitzroy, Berlin · Sun, 20 Sept 2026
+- Südpol, Hamburg · Sat, 5 Sept 2026
+- Edelfettwerk, Hamburg · Sat, 29 Aug 2026
+- Else, Berlin · Sun, 2 Aug 2026
+- 45hertz, Hamburg · Sun, 5 Jul 2026
 
 ## Shares bills with
 

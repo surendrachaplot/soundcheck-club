@@ -1,6 +1,6 @@
 # Subculture w/ Domenic Cappello + Jane Fitz at Sub Club
 
-Subculture w/ Domenic Cappello + Jane Fitz at Sub Club on Sat 10 Oct, Glasgow. 2 artists on the bill: Domenic Cappello and Jane Fitz. Preview the line-up and save it on soundcheck.
+Subculture w/ Domenic Cappello + Jane Fitz at Sub Club on Sat 10 Oct, Glasgow. 2 artists: Domenic Cappello and Jane Fitz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

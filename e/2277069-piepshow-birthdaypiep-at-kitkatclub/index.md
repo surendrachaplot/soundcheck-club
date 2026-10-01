@@ -1,6 +1,6 @@
 # PiepShow - BirthdayPiep at KitKatClub
 
-PiepShow - BirthdayPiep at KitKatClub on Fri 27 Nov, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+PiepShow - BirthdayPiep at KitKatClub on Fri 27 Nov, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

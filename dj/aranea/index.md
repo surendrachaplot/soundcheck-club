@@ -1,8 +1,8 @@
 # ARANEA
 
-ARANEA is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
+ARANEA is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Eventhuset, Stockholm on Sat, 28 Nov 2026.
 
-ARANEA is a techno and industrial artist based in Sweden, tracked on soundcheck, with 24 sets logged across Amsterdam, Berlin, Copenhagen and Malta and 1 more. Often billed alongside DJ Zeb, Kardinal Bertram and ASTA MARI. Next up: Eventhuset, Stockholm on Sat 28 Nov.
+ARANEA is a techno and industrial artist based in Sweden, with 24 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Malta and 1 more. Often billed alongside DJ Zeb, Billie Jo and Kardinal Bertram. Next up: Eventhuset, Stockholm on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,17 +13,17 @@ ARANEA is a techno and industrial artist based in Sweden, tracked on soundcheck,
 
 ## Recently played
 
-- MODULE, Copenhagen — Fri, 25 Sept 2026
-- Bar15, Stockholm — Fri, 28 Aug 2026
-- Liquid Club, Malta — Sat, 11 Jul 2026
-- TBA - SECRET LOCATION - The exact location will be sent to your email on the day of the event, Stockholm — Fri, 19 Jun 2026
-- Bar15, Stockholm — Fri, 29 May 2026
-- Poolen, Copenhagen — Fri, 1 May 2026
-- MODULE, Copenhagen — Sat, 28 Feb 2026
-- Slakthuset, Stockholm — Thu, 25 Dec 2025
+- MODULE, Copenhagen · Fri, 25 Sept 2026
+- Bar15, Stockholm · Fri, 28 Aug 2026
+- Liquid Club, Malta · Sat, 11 Jul 2026
+- TBA - SECRET LOCATION - The exact location will be sent to your email on the day of the event, Stockholm · Fri, 19 Jun 2026
+- Bar15, Stockholm · Fri, 29 May 2026
+- Poolen, Copenhagen · Fri, 1 May 2026
+- MODULE, Copenhagen · Sat, 28 Feb 2026
+- Slakthuset, Stockholm · Thu, 25 Dec 2025
 
 ## Shares bills with
 
-DJ Zeb, Kardinal Bertram, ASTA MARI
+DJ Zeb, Billie Jo, Kardinal Bertram
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aranea/)*

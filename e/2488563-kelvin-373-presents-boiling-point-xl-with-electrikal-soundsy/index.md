@@ -1,6 +1,6 @@
 # Kelvin 373 presents: Boiling Point XL with Electrikal Soundsystem at Sawmills
 
-Kelvin 373 presents: Boiling Point XL with Electrikal Soundsystem at Sawmills on Sat 10 Oct, Bristol. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Kelvin 373 presents: Boiling Point XL with Electrikal Soundsystem at Sawmills on Sat 10 Oct, Bristol. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Scintii
 
-Scintii is a Electronica and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Replika Teatro, Madrid on Sat, 3 Oct 2026.
+Scintii is a Electronica and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Replika Teatro, Madrid on Sat, 3 Oct 2026.
 
-Scintii is an electronica and experimental artist based in China, tracked on soundcheck, with 7 sets logged across Barcelona, London, Madrid and Melbourne and 2 more. Often billed alongside CORIN, Sabiwa and Sonia Calico. Next up: Replika Teatro, Madrid on Sat 3 Oct.
+Scintii is an electronica and experimental artist based in China, with 7 gigs on soundcheck across Barcelona, London, Madrid and Melbourne and 2 more. Often billed alongside CORIN, Sabiwa and Sonia Calico. Next up: Replika Teatro, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ Scintii is an electronica and experimental artist based in China, tracked on sou
 
 ## Recently played
 
-- OIL Club, Shenzhen — Fri, 21 Mar 2025
-- QQQ ST. Park, Melbourne — Fri, 31 May 2024
-- Oxford Underground, Sydney — Sat, 25 May 2024
-- Phoenix Central Park, Sydney — Thu, 23 May 2024
-- The Social, London — Wed, 27 Mar 2024
+- OIL Club, Shenzhen · Fri, 21 Mar 2025
+- QQQ ST. Park, Melbourne · Fri, 31 May 2024
+- Oxford Underground, Sydney · Sat, 25 May 2024
+- Phoenix Central Park, Sydney · Thu, 23 May 2024
+- The Social, London · Wed, 27 Mar 2024
 
 ## Shares bills with
 

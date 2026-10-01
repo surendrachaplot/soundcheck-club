@@ -1,8 +1,8 @@
 # 5euroGoldi
 
-5euroGoldi is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Südpol, Hamburg on Fri, 20 Nov 2026.
+5euroGoldi is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Südpol, Hamburg on Fri, 20 Nov 2026.
 
-5euroGoldi is a trance and techno artist based in Germany, tracked on soundcheck, with 41 sets logged across Berlin, Cologne, Hamburg and Hannover and 1 more. Often billed alongside CARGO (DE), DJ Local B and Melushka. Next up: Südpol, Hamburg on Fri 20 Nov.
+5euroGoldi is a trance and techno artist based in Germany, with 41 gigs on soundcheck across Berlin, Cologne, Hamburg and Hannover and 1 more. Often billed alongside CARGO (DE), DJ Local B and Melushka. Next up: Südpol, Hamburg on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@
 
 ## Recently played
 
-- ://about blank, Berlin — Sat, 19 Sept 2026
-- ://about blank, Berlin — Sat, 18 Jul 2026
-- ÆDEN, Berlin — Sat, 16 May 2026
-- bUm - Raum für Solidarisches Miteinander, Berlin — Fri, 15 May 2026
-- Lokschuppen Berlin, Berlin — Wed, 22 Apr 2026
-- All Club, Berlin — Sat, 28 Feb 2026
-- ÆDEN, Berlin — Sat, 31 Jan 2026
-- Lokschuppen Berlin, Berlin — Sat, 27 Dec 2025
+- ://about blank, Berlin · Sat, 19 Sept 2026
+- ://about blank, Berlin · Sat, 18 Jul 2026
+- ÆDEN, Berlin · Sat, 16 May 2026
+- bUm - Raum für Solidarisches Miteinander, Berlin · Fri, 15 May 2026
+- Lokschuppen Berlin, Berlin · Wed, 22 Apr 2026
+- All Club, Berlin · Sat, 28 Feb 2026
+- ÆDEN, Berlin · Sat, 31 Jan 2026
+- Lokschuppen Berlin, Berlin · Sat, 27 Dec 2025
 
 ## Shares bills with
 

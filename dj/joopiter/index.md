@@ -1,8 +1,8 @@
 # Joopiter
 
-Joopiter is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
+Joopiter is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 10 Oct 2026.
 
-Joopiter is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across New York City and Vancouver. Often billed alongside Amber Valentine, The Illustrious Blacks and Bodegaparty. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
+Joopiter is a house and techno artist based in United States of America, with 48 gigs on soundcheck across New York City and Vancouver. Often billed alongside Amber Valentine, The Illustrious Blacks and Bodegaparty. Next up: Dead Letter No. 9, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Joopiter is a house and techno artist based in United States of America, tracked
 
 ## Recently played
 
-- Industry City, New York City — Sat, 26 Sept 2026
-- Dead Letter No. 9, New York City — Sun, 6 Sept 2026
-- Museum of Sex - NYC, New York City — Fri, 24 Jul 2026
-- Dead Letter No. 9, New York City — Sat, 11 Jul 2026
-- Under the K Bridge, New York City — Sat, 27 Jun 2026
-- Dead Letter No. 9, New York City — Sat, 30 May 2026
-- Jupiter Disco, New York City — Wed, 13 May 2026
-- Dead Letter No. 9, New York City — Fri, 3 Apr 2026
+- Industry City, New York City · Sat, 26 Sept 2026
+- Dead Letter No. 9, New York City · Sun, 6 Sept 2026
+- Museum of Sex - NYC, New York City · Fri, 24 Jul 2026
+- Dead Letter No. 9, New York City · Sat, 11 Jul 2026
+- Under the K Bridge, New York City · Sat, 27 Jun 2026
+- Dead Letter No. 9, New York City · Sat, 30 May 2026
+- Jupiter Disco, New York City · Wed, 13 May 2026
+- Dead Letter No. 9, New York City · Fri, 3 Apr 2026
 
 ## Shares bills with
 

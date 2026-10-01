@@ -1,6 +1,6 @@
 # PYGMENTS: PROPOLYS & In-Tan at La Gare / Le Gore
 
-PYGMENTS: PROPOLYS & In-Tan at La Gare / Le Gore on Wed 7 Oct, Paris. 1 artist on the bill: In-Tan. Techno. Preview the line-up and save it on soundcheck.
+PYGMENTS: PROPOLYS & In-Tan at La Gare / Le Gore on Wed 7 Oct, Paris. 1 artist: In-Tan. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

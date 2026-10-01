@@ -1,8 +1,8 @@
 # Wax'o Paradiso
 
-Wax'o Paradiso is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+Wax'o Paradiso is a House and Balearic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
-Wax'o Paradiso is a house and balearic artist based in Australia, tracked on soundcheck, with 53 sets logged across Bali, Bangkok, Berlin and Brisbane and 6 more. Often billed alongside Lauren Hansom, Bradley Zero and DAWS. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
+Wax'o Paradiso is a house and balearic artist based in Australia, with 53 gigs on soundcheck across Bali, Bangkok, Berlin and Brisbane and 6 more. Often billed alongside Lauren Hansom, Bradley Zero and DAWS. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Wax'o Paradiso is a house and balearic artist based in Australia, tracked on sou
 
 ## Recently played
 
-- The Field Across Teletech Park, Singapore — Sat, 25 Jul 2026
-- Tender, Melbourne — Fri, 10 Jul 2026
-- La Brisa, Bali — Sat, 23 May 2026
-- Second Story Studios, Melbourne — Sat, 9 May 2026
-- Miscellania, Melbourne — Sun, 19 Apr 2026
-- Fairfield Amphitheatre, Melbourne — Sat, 28 Mar 2026
-- Poor Toms Oltra, Sydney — Sun, 22 Feb 2026
-- Collingwood Children's Farm, Melbourne — Sun, 15 Feb 2026
+- The Field Across Teletech Park, Singapore · Sat, 25 Jul 2026
+- Tender, Melbourne · Fri, 10 Jul 2026
+- La Brisa, Bali · Sat, 23 May 2026
+- Second Story Studios, Melbourne · Sat, 9 May 2026
+- Miscellania, Melbourne · Sun, 19 Apr 2026
+- Fairfield Amphitheatre, Melbourne · Sat, 28 Mar 2026
+- Poor Toms Oltra, Sydney · Sun, 22 Feb 2026
+- Collingwood Children's Farm, Melbourne · Sun, 15 Feb 2026
 
 ## Shares bills with
 

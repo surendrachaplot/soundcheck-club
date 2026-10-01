@@ -1,6 +1,6 @@
 # VELVET Lounge -Afro House- at TBA - VELVET Lounge
 
-VELVET Lounge -Afro House- at TBA - VELVET Lounge on Mon 5 Oct, Tokyo. Techno and Afro House. Preview the line-up and save it on soundcheck.
+VELVET Lounge -Afro House- at TBA - VELVET Lounge on Mon 5 Oct, Tokyo. Techno and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

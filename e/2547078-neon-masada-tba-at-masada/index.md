@@ -1,6 +1,6 @@
 # Neon_Masada // TBA at Masada
 
-Neon_Masada // TBA on Sat 31 Oct, Milan. Trance and Electro. Preview the line-up and save it on soundcheck.
+Neon_Masada // TBA on Sat 31 Oct, Milan. Trance and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

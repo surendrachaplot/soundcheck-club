@@ -1,8 +1,8 @@
 # David Löhlein
 
-David Löhlein is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hafen 49, Mannheim on Sat, 3 Oct 2026.
+David Löhlein is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hafen 49, Mannheim on Sat, 3 Oct 2026.
 
-David Löhlein is a techno and trance artist based in Germany, tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Raphael Dincsoy, Rove Ranger and AHURA. Next up: Hafen 49, Mannheim on Sat 3 Oct.
+David Löhlein is a techno and trance artist based in Germany, with 155 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 46 more. Often billed alongside Raphael Dincsoy, Rove Ranger and AHURA. Next up: Hafen 49, Mannheim on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ David Löhlein is a techno and trance artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Echostage, Washington DC — Fri, 11 Sept 2026
-- Refuge, New York City — Mon, 7 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- Zoo, Geneva — Fri, 28 Aug 2026
-- UNO MALTA, Malta — Sat, 8 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- Concord Music Hall, Chicago — Thu, 30 Jul 2026
-- Rebstockpark, Frankfurt — Sat, 25 Jul 2026
+- Echostage, Washington DC · Fri, 11 Sept 2026
+- Refuge, New York City · Mon, 7 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- Zoo, Geneva · Fri, 28 Aug 2026
+- UNO MALTA, Malta · Sat, 8 Aug 2026
+- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
+- Concord Music Hall, Chicago · Thu, 30 Jul 2026
+- Rebstockpark, Frankfurt · Sat, 25 Jul 2026
 
 ## Shares bills with
 

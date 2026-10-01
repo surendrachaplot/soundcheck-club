@@ -1,6 +1,6 @@
 # Kater on THE OTHER SIDE at THE OTHER SIDE
 
-Kater on THE OTHER SIDE on Fri 23 Oct, Amsterdam. 8 artists on the bill: Aron Friedman, Borella, Britta Arnold and Caleesi and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Kater on THE OTHER SIDE on Fri 23 Oct, Amsterdam. 8 artists: Aron Friedman, Borella, Britta Arnold and Caleesi and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

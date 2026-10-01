@@ -1,6 +1,6 @@
 # Index: Vendex at Index
 
-Index: Vendex on Fri 9 Oct, Dublin. 2 artists on the bill: Vendex and Victor Krum. Electronica. Preview the line-up and save it on soundcheck.
+Index: Vendex on Fri 9 Oct, Dublin. 2 artists: Vendex and Victor Krum. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AUTONOMA INDUSTRIALE at ZK/U (Zentrum für Kunst und Urbanistik)
 
-AUTONOMA INDUSTRIALE at ZK/U (Zentrum für Kunst und Urbanistik) on Fri 23 Oct, Berlin. Techno and Noise. Preview the line-up and save it on soundcheck.
+AUTONOMA INDUSTRIALE at ZK/U (Zentrum für Kunst und Urbanistik) on Fri 23 Oct, Berlin. Techno and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

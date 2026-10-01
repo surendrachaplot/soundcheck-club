@@ -1,6 +1,6 @@
 # Klub Verboten x BERLIN at ROSA
 
-Klub Verboten x BERLIN at ROSA on Sat 3 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Klub Verboten x BERLIN at ROSA on Sat 3 Oct, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

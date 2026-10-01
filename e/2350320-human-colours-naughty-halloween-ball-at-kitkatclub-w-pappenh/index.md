@@ -1,6 +1,6 @@
 # Human Colours 'Naughty Halloween Ball at KitKatClub w/ Pappenheimer - Ānna Meā - Somaphon at KitKatClub
 
-Human Colours 'Naughty Halloween Ball at KitKatClub w/ Pappenheimer - Ānna Meā - Somaphon on Thu 29 Oct, Berlin. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Human Colours 'Naughty Halloween Ball at KitKatClub w/ Pappenheimer - Ānna Meā - Somaphon on Thu 29 Oct, Berlin. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

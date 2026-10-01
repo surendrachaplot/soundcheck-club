@@ -1,6 +1,6 @@
 # DECOY at OXI
 
-DECOY at OXI on Fri 20 Nov, Berlin. Techno. Preview the line-up and save it on soundcheck.
+DECOY at OXI on Fri 20 Nov, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

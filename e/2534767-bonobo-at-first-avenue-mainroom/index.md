@@ -1,6 +1,6 @@
 # Bonobo at First Avenue Mainroom
 
-Bonobo at First Avenue Mainroom on Tue 24 Nov, Minneapolis St Paul. 1 artist on the bill: Bonobo. Preview the line-up and save it on soundcheck.
+Bonobo at First Avenue Mainroom on Tue 24 Nov, Minneapolis St Paul. 1 artist: Bonobo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # History of House Breda at Mezz
 
-History of House Breda at Mezz on Sat 7 Nov, Netherlands. 4 artists on the bill: Erick E, Funkerman, Housequake and ROOG. Preview the line-up and save it on soundcheck.
+History of House Breda at Mezz on Sat 7 Nov, Netherlands. 4 artists: Erick E, Funkerman, Housequake and ROOG. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # REES
 
-REES is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Outlaws Yacht Club, Leeds on Sun, 11 Oct 2026.
+REES is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Outlaws Yacht Club, Leeds on Sun, 11 Oct 2026.
 
-REES is an italo disco and techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Berlin, Geneva, Leeds and London and 4 more. Often billed alongside Abdul Raeva, Jon Cornbill and Megan Leo. Next up: Outlaws Yacht Club, Leeds on Sun 11 Oct.
+REES is an italo disco and techno artist based in United Kingdom, with 15 gigs on soundcheck across Berlin, Geneva, Leeds and London and 4 more. Often billed alongside Abdul Raeva, Jon Cornbill and Megan Leo. Next up: Outlaws Yacht Club, Leeds on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ REES is an italo disco and techno artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- The Lubber Fiend, Newcastle — Fri, 16 May 2025
-- Gingerino's Pizza, Newcastle — Sat, 29 Mar 2025
-- The Lubber Fiend, Newcastle — Tue, 31 Dec 2024
-- The Lubber Fiend, Newcastle — Sat, 13 Apr 2024
-- à la Folie Paris, Paris — Sat, 9 Mar 2024
-- The Lubber Fiend, Newcastle — Fri, 26 Jan 2024
-- OXI, Berlin — Fri, 22 Sept 2023
-- Macadam, Nantes — Sun, 3 Sept 2023
+- The Lubber Fiend, Newcastle · Fri, 16 May 2025
+- Gingerino's Pizza, Newcastle · Sat, 29 Mar 2025
+- The Lubber Fiend, Newcastle · Tue, 31 Dec 2024
+- The Lubber Fiend, Newcastle · Sat, 13 Apr 2024
+- à la Folie Paris, Paris · Sat, 9 Mar 2024
+- The Lubber Fiend, Newcastle · Fri, 26 Jan 2024
+- OXI, Berlin · Fri, 22 Sept 2023
+- Macadam, Nantes · Sun, 3 Sept 2023
 
 ## Shares bills with
 

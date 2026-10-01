@@ -1,6 +1,6 @@
 # Kumata x New World Dysorder at Garage Noord
 
-Kumata x New World Dysorder at Garage Noord on Sat 31 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Kumata x New World Dysorder at Garage Noord on Sat 31 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MLLM - DJ Competition 2026 at The Classic Grand
 
-MLLM - DJ Competition 2026 at The Classic Grand on Sun 25 Oct, Glasgow. Trance. Preview the line-up and save it on soundcheck.
+MLLM - DJ Competition 2026 at The Classic Grand on Sun 25 Oct, Glasgow. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

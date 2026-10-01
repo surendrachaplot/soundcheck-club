@@ -1,8 +1,8 @@
 # Kanykei
 
-Kanykei is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Knockdown Center, New York City on Fri, 16 Oct 2026.
+Kanykei is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Fri, 16 Oct 2026.
 
-Kanykei is a house and deep house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Miami and New York City and 2 more. Often billed alongside Niconé, Dirty Doering and Acid Alien. Next up: Knockdown Center, New York City on Fri 16 Oct.
+Kanykei is a house and deep house artist based in United States of America, with 61 gigs on soundcheck across Amsterdam, Berlin, Miami and New York City and 2 more. Often billed alongside Niconé, Dirty Doering and Acid Alien. Next up: Knockdown Center, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kanykei is a house and deep house artist based in United States of America, trac
 
 ## Recently played
 
-- Elsewhere, New York City — Fri, 24 Jul 2026
-- MODE Downtown Miami, Miami — Fri, 12 Jun 2026
-- Knockdown Center, New York City — Fri, 5 Jun 2026
-- Lion's Den, Miami — Sat, 23 May 2026
-- The 1896, New York City — Sat, 25 Apr 2026
-- Sunset Park Rooftop, New York City — Sat, 23 Aug 2025
-- Ritter Butzke, Berlin — Sat, 21 Jun 2025
-- Moon Warsaw, Warsaw — Sat, 14 Jun 2025
+- Elsewhere, New York City · Fri, 24 Jul 2026
+- MODE Downtown Miami, Miami · Fri, 12 Jun 2026
+- Knockdown Center, New York City · Fri, 5 Jun 2026
+- Lion's Den, Miami · Sat, 23 May 2026
+- The 1896, New York City · Sat, 25 Apr 2026
+- Sunset Park Rooftop, New York City · Sat, 23 Aug 2025
+- Ritter Butzke, Berlin · Sat, 21 Jun 2025
+- Moon Warsaw, Warsaw · Sat, 14 Jun 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Beats N Brunch featuring ZigE and Flapjaques at Cafe Mustache
 
-Beats N Brunch featuring ZigE and Flapjaques at Cafe Mustache on Sun 4 Oct, Chicago. Techno and House. Preview the line-up and save it on soundcheck.
+Beats N Brunch featuring ZigE and Flapjaques at Cafe Mustache on Sun 4 Oct, Chicago. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

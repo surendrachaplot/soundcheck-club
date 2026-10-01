@@ -1,6 +1,6 @@
 # Mercury Prize Fringe 2026: Ōdio bar presents Santa Leticia & Lovellious at Miso
 
-Mercury Prize Fringe 2026: Ōdio bar presents Santa Leticia & Lovellious at Miso on Fri 16 Oct, Newcastle. 2 artists on the bill: Lovellious and Santa Leticia. Preview the line-up and save it on soundcheck.
+Mercury Prize Fringe 2026: Ōdio bar presents Santa Leticia & Lovellious at Miso on Fri 16 Oct, Newcastle. 2 artists: Lovellious and Santa Leticia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Hania Rani
 
-Hania Rani is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
+Hania Rani is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MoN Takanawa: The Museum of Narratives, Tokyo on Fri, 20 Nov 2026.
 
-Hania Rani is an experimental and electronica artist based in Poland, tracked on soundcheck, with 16 sets logged across Austin, Berlin, Bristol and Istanbul and 8 more. Often billed alongside 2K88, Arooj Aftab and Hashtag Ensemble. Next up: MoN Takanawa: The Museum of Narratives, Tokyo on Fri 20 Nov.
+Hania Rani is an experimental and electronica artist based in Poland, with 16 gigs on soundcheck across Austin, Berlin, Bristol and Istanbul and 8 more. Often billed alongside 2K88, Arooj Aftab and Hashtag Ensemble. Next up: MoN Takanawa: The Museum of Narratives, Tokyo on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Hania Rani is an experimental and electronica artist based in Poland, tracked on
 
 ## Recently played
 
-- różne lokalizacje / various venues, Warsaw — Mon, 8 Jun 2026
-- Teatr Wielki - Opera Narodowa, Warsaw — Mon, 8 Jun 2026
-- Kraftwerk Berlin, Berlin — Tue, 12 May 2026
-- TivoliVredenburg, Utrecht — Thu, 6 Nov 2025
-- TBA - Various Venues , Osaka — Fri, 5 Sept 2025
-- Neue Nationalgalerie, Berlin — Thu, 28 Aug 2025
-- Neue Nationalgalerie, Berlin — Wed, 27 Aug 2025
-- Expo Santa Fe, Mexico City — Sat, 26 Apr 2025
+- różne lokalizacje / various venues, Warsaw · Mon, 8 Jun 2026
+- Teatr Wielki - Opera Narodowa, Warsaw · Mon, 8 Jun 2026
+- Kraftwerk Berlin, Berlin · Tue, 12 May 2026
+- TivoliVredenburg, Utrecht · Thu, 6 Nov 2025
+- TBA - Various Venues , Osaka · Fri, 5 Sept 2025
+- Neue Nationalgalerie, Berlin · Thu, 28 Aug 2025
+- Neue Nationalgalerie, Berlin · Wed, 27 Aug 2025
+- Expo Santa Fe, Mexico City · Sat, 26 Apr 2025
 
 ## Shares bills with
 

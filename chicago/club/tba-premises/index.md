@@ -1,8 +1,8 @@
 # TBA - Premises
 
-TBA - Premises is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "First Electric, easygoingtech, SJOD, naturalblkinvention" on Thu, 1 Oct 2026.
+TBA - Premises is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "First Electric, easygoingtech, SJOD, naturalblkinvention" on Thu, 1 Oct 2026.
 
-TBA - Premises is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Bambi (FR), Brendan Lemkin, easygoingtech and Heavee and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Premises is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Bambi (FR), Brendan Lemkin, easygoingtech and Heavee and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

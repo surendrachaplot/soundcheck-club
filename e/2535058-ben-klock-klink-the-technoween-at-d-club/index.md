@@ -1,6 +1,6 @@
 # Ben Klock, KLINK => The technoween at D! Club
 
-Ben Klock, KLINK => The technoween at D! Club on Fri 30 Oct, Lausanne. 1 artist on the bill: Ben Klock. Preview the line-up and save it on soundcheck.
+Ben Klock, KLINK => The technoween at D! Club on Fri 30 Oct, Lausanne. 1 artist: Ben Klock. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

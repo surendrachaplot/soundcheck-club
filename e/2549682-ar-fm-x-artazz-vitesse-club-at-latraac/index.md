@@ -1,6 +1,6 @@
 # AR/FM x ARTAZZ VITESSE CLUB at Latraac
 
-AR/FM x ARTAZZ VITESSE CLUB at Latraac on Fri 2 Oct, Athens. Preview the line-up and save it on soundcheck.
+AR/FM x ARTAZZ VITESSE CLUB at Latraac on Fri 2 Oct, Athens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

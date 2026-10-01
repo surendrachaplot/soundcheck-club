@@ -1,8 +1,8 @@
 # Cabaret Berlin
 
-Cabaret Berlin is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "BERLIN TECHNO - THANKSGIVING EDITION 2026" on Sun, 11 Oct 2026.
+Cabaret Berlin is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "BERLIN TECHNO - THANKSGIVING EDITION 2026" on Sun, 11 Oct 2026.
 
-Cabaret Berlin is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including DJ Davidé and DJ Mushin. Browse upcoming dates, start times and who's playing. 1982 Ste-Catherine East, H2K 2H7.
+Cabaret Berlin is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including DJ Davidé and DJ Mushin. See dates, start times and who's playing. 1982 Ste-Catherine East, H2K 2H7.
 
 ## What's on
 

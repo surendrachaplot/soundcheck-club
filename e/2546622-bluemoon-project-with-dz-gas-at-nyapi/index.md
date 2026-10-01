@@ -1,6 +1,6 @@
 # Bluemoon Project with DZ GAS at Nyapi
 
-Bluemoon Project with DZ GAS at Nyapi on Fri 9 Oct, Seoul. 4 artists on the bill: DZ GAS, GaGi, Mimiq and Yeonju. Preview the line-up and save it on soundcheck.
+Bluemoon Project with DZ GAS at Nyapi on Fri 9 Oct, Seoul. 4 artists: DZ GAS, GaGi, Mimiq and Yeonju. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

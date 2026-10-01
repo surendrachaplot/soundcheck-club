@@ -1,6 +1,6 @@
 # Walfisch / Oldschool Party / Exil at Der Weiße Hase
 
-Walfisch / Oldschool Party / Exil at Der Weiße Hase on Sat 14 Nov, Berlin. 6 artists on the bill: Bassdee, Der Würfler, Dole & Kom and Henriko S. Sagert and 2 more. Techno and Acid. Preview the line-up and save it on soundcheck.
+Walfisch / Oldschool Party / Exil at Der Weiße Hase on Sat 14 Nov, Berlin. 6 artists: Bassdee, Der Würfler, Dole & Kom and Henriko S. Sagert and 2 more. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

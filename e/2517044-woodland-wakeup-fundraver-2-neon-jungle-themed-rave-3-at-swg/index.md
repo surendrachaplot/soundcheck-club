@@ -1,6 +1,6 @@
 # Woodland Wakeup Fundraver#2 - NEON JUNGLE THEMED RAVE <3 at SWG3
 
-Woodland Wakeup Fundraver#2 - NEON JUNGLE THEMED RAVE <3 at SWG3 on Sat 3 Oct, Glasgow. Techno and House. Preview the line-up and save it on soundcheck.
+Woodland Wakeup Fundraver#2 - NEON JUNGLE THEMED RAVE <3 at SWG3 on Sat 3 Oct, Glasgow. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Gift -14th anniversary- at Club Metro
 
-Gift -14th anniversary- at Club Metro on Sun 15 Nov, Kyoto. Preview the line-up and save it on soundcheck.
+Gift -14th anniversary- at Club Metro on Sun 15 Nov, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

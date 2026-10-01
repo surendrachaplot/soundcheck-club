@@ -1,6 +1,6 @@
 # The Quiet Office presents: Dirty History at Le Bikini
 
-The Quiet Office presents: Dirty History at Le Bikini on Fri 2 Oct, South West. 5 artists on the bill: Dillinja, DJ Hype, Ed Rush and Optical and 1 more. Preview the line-up and save it on soundcheck.
+The Quiet Office presents: Dirty History at Le Bikini on Fri 2 Oct, South West. 5 artists: Dillinja, DJ Hype, Ed Rush and Optical and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

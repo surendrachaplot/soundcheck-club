@@ -1,6 +1,6 @@
 # Factory 93: Eli Brown with Massano (360° SetS) at Echostage
 
-Factory 93: Eli Brown with Massano (360° SetS) at Echostage on Fri 30 Oct, Washington DC. 2 artists on the bill: Eli Brown and Massano. Techno. Preview the line-up and save it on soundcheck.
+Factory 93: Eli Brown with Massano (360° SetS) at Echostage on Fri 30 Oct, Washington DC. 2 artists: Eli Brown and Massano. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

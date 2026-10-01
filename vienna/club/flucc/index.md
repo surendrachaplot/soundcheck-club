@@ -1,8 +1,8 @@
 # FLUCC
 
-FLUCC is a music venue in Vienna with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Art Attech - Special Edition #15 - Kunst küsst Techno" on Fri, 2 Oct 2026.
+FLUCC is a music venue in Vienna with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Art Attech - Special Edition #15 - Kunst küsst Techno" on Fri, 2 Oct 2026.
 
-FLUCC is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with line-ups including Altroy Jerome, AMOVV, anxxxious_t and Authentically Plastic and 2 more. Browse upcoming dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
+FLUCC is a music venue in Vienna listed on soundcheck. 15 upcoming gigs, with line-ups including Altroy Jerome, AMOVV, anxxxious_t and Authentically Plastic and 2 more. See dates, start times and who's playing. Praterstern 5; Vienna 1020; Austria.
 
 ## What's on
 
@@ -17,7 +17,7 @@ FLUCC is a music venue in Vienna listed on soundcheck. 13 upcoming gigs, with li
 | Thu, 15 Oct 2026 | Palazzo Night |  |
 | Fri, 16 Oct 2026 | KISSEN | Authentically Plastic, Shepperd, anxxxious_t, zey |
 | Sat, 17 Oct 2026 | A party called JACK | Altroy Jerome, JP Bechamel |
-| Fri, 23 Oct 2026 | KONZEPT | Dcascallana, REIKA_DJ, Techflex |
+| Sun, 18 Oct 2026 | Augend&Addend presents: Fred Moten & Brandon López and sucre sucre |  |
 
 ## Address
 

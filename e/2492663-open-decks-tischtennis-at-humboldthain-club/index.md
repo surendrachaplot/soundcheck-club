@@ -1,6 +1,6 @@
 # Open Decks & Tischtennis at Humboldthain Club
 
-Open Decks & Tischtennis at Humboldthain Club on Tue 1 Dec, Berlin. Preview the line-up and save it on soundcheck.
+Open Decks & Tischtennis at Humboldthain Club on Tue 1 Dec, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

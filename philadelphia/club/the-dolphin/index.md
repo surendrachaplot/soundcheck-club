@@ -1,8 +1,8 @@
 # The Dolphin
 
-The Dolphin is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RHYTHM OF THE NIGHT [90'S HOUSE/UKG/TRANCE]" on Fri, 2 Oct 2026.
+The Dolphin is a music venue in Philadelphia with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RHYTHM OF THE NIGHT [90'S HOUSE/UKG/TRANCE]" on Fri, 2 Oct 2026.
 
-The Dolphin is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including 4AM NYC, America Loves Me, Caiya and Dave Tidey and 2 more. Browse upcoming dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
+The Dolphin is a music venue in Philadelphia listed on soundcheck. 6 upcoming gigs, with line-ups including 4AM NYC, America Loves Me, Caiya and Dave Tidey and 2 more. See dates, start times and who's playing. 1539 S Broad St, Philadelphia, PA 19147.
 
 ## What's on
 

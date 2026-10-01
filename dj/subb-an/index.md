@@ -1,8 +1,8 @@
 # Subb-an
 
-Subb-an is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BASEMENT, New York City on Fri, 9 Oct 2026.
+Subb-an is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BASEMENT, New York City on Fri, 9 Oct 2026.
 
-Subb-an is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Anika Kunst, Bunny and Croft. Next up: BASEMENT, New York City on Fri 9 Oct.
+Subb-an is a house and tech house artist based in United Kingdom, with 57 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 24 more. Often billed alongside Anika Kunst, Bunny and Croft. Next up: BASEMENT, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Subb-an is a house and tech house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 12 Sept 2026
-- The Carpet Shop, London — Sat, 15 Aug 2026
-- Sophie Festival, Malaga — Sat, 25 Jul 2026
-- TBA - ESPARGO MACCARESE, Rome — Sat, 27 Jun 2026
-- Ouseburn Garden, Newcastle — Sat, 2 May 2026
-- Carousel Bar & Ballroom, Sydney — Sun, 26 Apr 2026
-- Silent Studios, Auckland — Sat, 25 Apr 2026
-- Killing Time, Melbourne — Fri, 24 Apr 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 12 Sept 2026
+- The Carpet Shop, London · Sat, 15 Aug 2026
+- Sophie Festival, Malaga · Sat, 25 Jul 2026
+- TBA - ESPARGO MACCARESE, Rome · Sat, 27 Jun 2026
+- Ouseburn Garden, Newcastle · Sat, 2 May 2026
+- Carousel Bar & Ballroom, Sydney · Sun, 26 Apr 2026
+- Silent Studios, Auckland · Sat, 25 Apr 2026
+- Killing Time, Melbourne · Fri, 24 Apr 2026
 
 ## Shares bills with
 

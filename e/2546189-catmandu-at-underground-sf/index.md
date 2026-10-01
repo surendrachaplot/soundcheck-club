@@ -1,6 +1,6 @@
 # Catmandu at Underground SF
 
-Catmandu at Underground SF on Sat 3 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
+Catmandu at Underground SF on Sat 3 Oct, San Francisco/Oakland. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

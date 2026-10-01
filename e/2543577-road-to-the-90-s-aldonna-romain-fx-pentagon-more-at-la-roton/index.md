@@ -1,6 +1,6 @@
 # Road To The 90'S: Aldonna, Romain Fx, Pentagon & More at La Rotonde Stalingrad
 
-Road To The 90'S: Aldonna, Romain Fx, Pentagon & More at La Rotonde Stalingrad on Sat 3 Oct, Paris. 7 artists on the bill: Aï Smash, Aldonna, Black Truffle and Donna Gibson and 3 more. House and Electro. Preview the line-up and save it on soundcheck.
+Road To The 90'S: Aldonna, Romain Fx, Pentagon & More at La Rotonde Stalingrad on Sat 3 Oct, Paris. 7 artists: Aï Smash, Aldonna, Black Truffle and Donna Gibson and 3 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

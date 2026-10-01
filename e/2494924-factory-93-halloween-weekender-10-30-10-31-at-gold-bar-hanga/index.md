@@ -1,6 +1,6 @@
 # Factory 93: Halloween Weekender (10/30 + 10/31) at Gold Bar Hangar at Gold Bar Hangar
 
-Factory 93: Halloween Weekender (10/30 + 10/31) at Gold Bar Hangar on Fri 30 Oct, California. 12 artists on the bill: 999999999, Adra, Boys Noize and Franky Rizardo and 8 more. Preview the line-up and save it on soundcheck.
+Factory 93: Halloween Weekender (10/30 + 10/31) at Gold Bar Hangar on Fri 30 Oct, California. 12 artists: 999999999, Adra, Boys Noize and Franky Rizardo and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

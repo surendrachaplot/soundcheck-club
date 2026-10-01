@@ -1,6 +1,6 @@
 # D&B Against Racism at The Fox and Firkin
 
-D&B Against Racism at The Fox and Firkin on Fri 20 Nov, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+D&B Against Racism at The Fox and Firkin on Fri 20 Nov, London. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

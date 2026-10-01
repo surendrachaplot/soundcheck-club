@@ -1,6 +1,6 @@
 # Elevat3 at Red Dog Saloon
 
-Elevat3 at Red Dog Saloon on Sat 24 Oct, London. House. Preview the line-up and save it on soundcheck.
+Elevat3 at Red Dog Saloon on Sat 24 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

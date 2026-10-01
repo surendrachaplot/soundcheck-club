@@ -1,8 +1,8 @@
 # NIA (4)
 
-NIA (4) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
+NIA (4) is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Artheater, Cologne on Fri, 2 Oct 2026.
 
-NIA is a trance and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Cologne, Leipzig and Munich. Often billed alongside Amøn, Benleh and CARGO (DE). Next up: Artheater, Cologne on Fri 2 Oct.
+NIA is a trance and techno artist based in Germany, with 11 gigs on soundcheck across Berlin, Cologne, Leipzig and Munich. Often billed alongside Amøn, Benleh and CARGO (DE). Next up: Artheater, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ NIA is a trance and techno artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
-- Lieberscholli, Munich — Sat, 5 Sept 2026
-- OST, Berlin — Fri, 10 Jul 2026
-- Lokschuppen Berlin, Berlin — Fri, 22 May 2026
-- Rote Sonne, Munich — Sat, 16 May 2026
-- Westhafen, Leipzig — Sat, 9 May 2026
-- DNA Club, Munich — Thu, 30 Apr 2026
-- OST, Berlin — Fri, 24 Apr 2026
-- OST, Berlin — Wed, 24 Dec 2025
+- Lieberscholli, Munich · Sat, 5 Sept 2026
+- OST, Berlin · Fri, 10 Jul 2026
+- Lokschuppen Berlin, Berlin · Fri, 22 May 2026
+- Rote Sonne, Munich · Sat, 16 May 2026
+- Westhafen, Leipzig · Sat, 9 May 2026
+- DNA Club, Munich · Thu, 30 Apr 2026
+- OST, Berlin · Fri, 24 Apr 2026
+- OST, Berlin · Wed, 24 Dec 2025
 
 ## Shares bills with
 

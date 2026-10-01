@@ -1,8 +1,8 @@
 # Norman Nodge
 
-Norman Nodge is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery, Leipzig on Sat, 10 Oct 2026.
+Norman Nodge is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Sat, 10 Oct 2026.
 
-Norman Nodge is a techno and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin, Leipzig, Malaga and Seoul and 3 more. Often billed alongside Amanda Mussi, Franziska Berns and 3MZY. Next up: Distillery, Leipzig on Sat 10 Oct.
+Norman Nodge is a techno and house artist based in Germany, with 11 gigs on soundcheck across Berlin, Leipzig, Malaga and Seoul and 3 more. Often billed alongside Amanda Mussi, Franziska Berns and 3MZY. Next up: Distillery, Leipzig on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Norman Nodge is a techno and house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Studio Club Malaga, Malaga — Fri, 28 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 22 Aug 2026
-- Else, Berlin — Sun, 7 Jun 2026
-- Tuff Club, Singapore — Sat, 6 Jun 2026
-- POTENT, Shanghai — Sat, 30 May 2026
-- Faust, Seoul — Fri, 29 May 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 2 May 2026
-- not|or|ius Club, Turin — Sat, 11 Apr 2026
+- Studio Club Malaga, Malaga · Fri, 28 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
+- Else, Berlin · Sun, 7 Jun 2026
+- Tuff Club, Singapore · Sat, 6 Jun 2026
+- POTENT, Shanghai · Sat, 30 May 2026
+- Faust, Seoul · Fri, 29 May 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 2 May 2026
+- not|or|ius Club, Turin · Sat, 11 Apr 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Maara
 
-Maara is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
+Maara is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bryggeriet Scene, Norway on Wed, 14 Oct 2026.
 
-Maara is a techno and house artist based in Canada, tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
+Maara is a techno and house artist based in Canada, with 168 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 52 more. Often billed alongside Angel D'lite, Roza Terenzi and D. Tiffany. Next up: Bryggeriet Scene, Norway on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Maara is a techno and house artist based in Canada, tracked on soundcheck, with 
 
 ## Recently played
 
-- Green Room NYC, New York City — Sat, 26 Sept 2026
-- Xuxa, Austin — Fri, 25 Sept 2026
-- Warehouse on Watts, Philadelphia — Sun, 20 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Cabaret Sauvage, Paris — Sat, 12 Sept 2026
-- Artheater, Cologne — Sat, 5 Sept 2026
-- Den Anden Side, Copenhagen — Fri, 4 Sept 2026
-- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
+- Green Room NYC, New York City · Sat, 26 Sept 2026
+- Xuxa, Austin · Fri, 25 Sept 2026
+- Warehouse on Watts, Philadelphia · Sun, 20 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Cabaret Sauvage, Paris · Sat, 12 Sept 2026
+- Artheater, Cologne · Sat, 5 Sept 2026
+- Den Anden Side, Copenhagen · Fri, 4 Sept 2026
+- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
 
 ## Shares bills with
 

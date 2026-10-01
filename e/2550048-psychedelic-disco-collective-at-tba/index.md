@@ -1,6 +1,6 @@
 # psychedelic disco collective at TBA
 
-psychedelic disco collective at TBA on Fri 2 Oct, Buenos Aires. 1 artist on the bill: Odopt. House and Disco. Preview the line-up and save it on soundcheck.
+psychedelic disco collective at TBA on Fri 2 Oct, Buenos Aires. 1 artist: Odopt. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

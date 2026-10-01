@@ -1,6 +1,6 @@
 # BEYOND at Copyhouse
 
-BEYOND at Copyhouse on Sun 18 Oct, Osaka. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+BEYOND at Copyhouse on Sun 18 Oct, Osaka. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

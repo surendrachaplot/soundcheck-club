@@ -1,8 +1,8 @@
 # Nia Archives
 
-Nia Archives is a Jungle and Drum & Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brookside at the Rose Bowl, Los Angeles on Sat, 7 Nov 2026.
+Nia Archives is a Jungle and Drum & Bass artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Brookside at the Rose Bowl, Los Angeles on Sat, 7 Nov 2026.
 
-Nia Archives is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Auckland, Bangkok and Barcelona and 34 more. Often billed alongside Overmono, SHERELLE and Oppidan. Next up: Brookside at the Rose Bowl, Los Angeles on Sat 7 Nov.
+Nia Archives is a jungle and drum & bass artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Auckland, Bangkok and Barcelona and 34 more. Often billed alongside Overmono, SHERELLE and Oppidan. Next up: Brookside at the Rose Bowl, Los Angeles on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Nia Archives is a jungle and drum & bass artist based in United Kingdom, tracked
 
 ## Recently played
 
-- FS., Tokyo — Fri, 18 Sept 2026
-- Unit, Tokyo — Sat, 12 Sept 2026
-- Saloon, Tokyo — Sat, 12 Sept 2026
-- Fonda Theatre, Los Angeles — Sat, 12 Sept 2026
-- Zepp Shinjuku, Tokyo — Thu, 10 Sept 2026
-- Yogibo Meta Valley, Osaka — Wed, 9 Sept 2026
-- TBA, Miami — Sat, 5 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
+- FS., Tokyo · Fri, 18 Sept 2026
+- Unit, Tokyo · Sat, 12 Sept 2026
+- Saloon, Tokyo · Sat, 12 Sept 2026
+- Fonda Theatre, Los Angeles · Sat, 12 Sept 2026
+- Zepp Shinjuku, Tokyo · Thu, 10 Sept 2026
+- Yogibo Meta Valley, Osaka · Wed, 9 Sept 2026
+- TBA, Miami · Sat, 5 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
 
 ## Shares bills with
 

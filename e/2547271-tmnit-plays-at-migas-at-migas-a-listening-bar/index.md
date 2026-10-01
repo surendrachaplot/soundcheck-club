@@ -1,6 +1,6 @@
 # Tmnit plays at migas at migas, a listening bar
 
-Tmnit plays at migas at migas, a listening bar on Fri 30 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Tmnit plays at migas at migas, a listening bar on Fri 30 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

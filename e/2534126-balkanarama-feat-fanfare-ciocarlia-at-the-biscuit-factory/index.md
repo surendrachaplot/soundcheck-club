@@ -1,6 +1,6 @@
 # Balkanarama feat FANFARE CIOCARLIA at The Biscuit Factory
 
-Balkanarama feat FANFARE CIOCARLIA at The Biscuit Factory on Sat 10 Oct, Edinburgh. Preview the line-up and save it on soundcheck.
+Balkanarama feat FANFARE CIOCARLIA at The Biscuit Factory on Sat 10 Oct, Edinburgh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # House of Disco - A Night of Classic Disco & Modern House Anthems at Holocene
 
-House of Disco - A Night of Classic Disco & Modern House Anthems at Holocene on Fri 16 Oct, Portland. Preview the line-up and save it on soundcheck.
+House of Disco - A Night of Classic Disco & Modern House Anthems at Holocene on Fri 16 Oct, Portland. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

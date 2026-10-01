@@ -1,6 +1,6 @@
 # BUNTER HUND AM SONNTAG MIT VIKAMIN & OSROW at Romantica
 
-BUNTER HUND AM SONNTAG MIT VIKAMIN & OSROW at Romantica on Sun 4 Oct, Stuttgart. Techno and House. Preview the line-up and save it on soundcheck.
+BUNTER HUND AM SONNTAG MIT VIKAMIN & OSROW at Romantica on Sun 4 Oct, Stuttgart. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

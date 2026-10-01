@@ -1,6 +1,6 @@
 # Teksupport: Volkoder (all night long) at The Chocolate Factory
 
-Teksupport: Volkoder (all night long) at The Chocolate Factory on Fri 6 Nov, New York City. 1 artist on the bill: Volkoder. Progressive House and House. Preview the line-up and save it on soundcheck.
+Teksupport: Volkoder (all night long) at The Chocolate Factory on Fri 6 Nov, New York City. 1 artist: Volkoder. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

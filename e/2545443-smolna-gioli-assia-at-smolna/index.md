@@ -1,6 +1,6 @@
 # Smolna: Gioli & Assia at Smolna
 
-Smolna: Gioli & Assia on Sat 14 Nov, Warsaw. 1 artist on the bill: Giolì & Assia. Techno. Preview the line-up and save it on soundcheck.
+Smolna: Gioli & Assia on Sat 14 Nov, Warsaw. 1 artist: Giolì & Assia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

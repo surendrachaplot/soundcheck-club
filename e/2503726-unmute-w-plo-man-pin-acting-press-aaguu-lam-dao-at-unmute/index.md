@@ -1,6 +1,6 @@
 # Unmute W/ PLO Man (Pin/ Acting Press), AAGUU, Lam Dao at Unmute
 
-Unmute W/ PLO Man (Pin/ Acting Press), AAGUU, Lam Dao on Sat 3 Oct, Hanoi. 3 artists on the bill: AAGUU, Lam Dao and PLO Man. Preview the line-up and save it on soundcheck.
+Unmute W/ PLO Man (Pin/ Acting Press), AAGUU, Lam Dao on Sat 3 Oct, Hanoi. 3 artists: AAGUU, Lam Dao and PLO Man. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Adam Port (KEINEMUSIK) (3 Hour Set) at The Concourse Project at The Concourse Project
 
-Adam Port (KEINEMUSIK) (3 Hour Set) at The Concourse Project on Fri 16 Oct, Austin. 1 artist on the bill: Adam Port. Preview the line-up and save it on soundcheck.
+Adam Port (KEINEMUSIK) (3 Hour Set) at The Concourse Project on Fri 16 Oct, Austin. 1 artist: Adam Port. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

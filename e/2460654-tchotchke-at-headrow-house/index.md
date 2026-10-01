@@ -1,6 +1,6 @@
 # Tchotchke at Headrow House
 
-Tchotchke at Headrow House on Fri 2 Oct, Leeds. Pop. Preview the line-up and save it on soundcheck.
+Tchotchke at Headrow House on Fri 2 Oct, Leeds. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

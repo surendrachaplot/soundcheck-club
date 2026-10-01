@@ -1,6 +1,6 @@
 # TOMAS TULPE at Mikropol
 
-TOMAS TULPE at Mikropol on Sat 14 Nov, Berlin. Electro. Preview the line-up and save it on soundcheck.
+TOMAS TULPE at Mikropol on Sat 14 Nov, Berlin. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

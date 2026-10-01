@@ -1,8 +1,8 @@
 # La Comédie De Genève
 
-La Comédie De Genève is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Electron at LA COMÉDIE: ART & MUSIC" on Sat, 17 Oct 2026.
+La Comédie De Genève is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Electron at LA COMÉDIE: ART & MUSIC" on Sat, 17 Oct 2026.
 
-La Comédie De Genève is a music venue in Geneva listed on soundcheck. 1 upcoming gig, with line-ups including Chlär, Dasha Rush and DJ SUN (CH/DE). Browse upcoming dates, start times and who's playing. 6 BD des Philosophes; 1205, Genève; Switzerland.
+La Comédie De Genève is a music venue in Geneva listed on soundcheck. 1 upcoming gig, with line-ups including Chlär, Dasha Rush and DJ SUN (CH/DE). See dates, start times and who's playing. 6 BD des Philosophes; 1205, Genève; Switzerland.
 
 ## What's on
 

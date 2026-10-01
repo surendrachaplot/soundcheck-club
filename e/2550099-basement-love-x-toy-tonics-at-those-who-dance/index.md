@@ -1,6 +1,6 @@
 # Basement Love x Toy Tonics at Those Who Dance
 
-Basement Love x Toy Tonics at Those Who Dance on Fri 6 Nov, Lisbon. House and Disco. Preview the line-up and save it on soundcheck.
+Basement Love x Toy Tonics at Those Who Dance on Fri 6 Nov, Lisbon. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

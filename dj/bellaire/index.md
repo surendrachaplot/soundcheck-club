@@ -1,8 +1,8 @@
 # Bellaire
 
-Bellaire is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Cigale, Paris on Thu, 8 Oct 2026.
+Bellaire is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Cigale, Paris on Thu, 8 Oct 2026.
 
-Bellaire is a house and disco artist based in France, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Brighton and Bristol and 19 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: La Cigale, Paris on Thu 8 Oct.
+Bellaire is a house and disco artist based in France, with 53 gigs on soundcheck across Amsterdam, Antwerp, Brighton and Bristol and 19 more. Often billed alongside Contrecoeur, Armand Van Helden and Breakbot. Next up: La Cigale, Paris on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Bellaire is a house and disco artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
-- Smelteverket, Oslo — Sat, 19 Sept 2026
-- The Roundhouse, London — Sat, 12 Sept 2026
-- Amnesia Ibiza, Ibiza — Fri, 24 Jul 2026
-- Patterns, Brighton — Sat, 30 May 2026
-- Joshua Brooks, Manchester — Fri, 29 May 2026
-- The Wardrobe, Leeds — Thu, 28 May 2026
-- Cabaret Voltaire, Edinburgh — Fri, 15 May 2026
-- The Berkeley Suite, Glasgow — Thu, 14 May 2026
+- Smelteverket, Oslo · Sat, 19 Sept 2026
+- The Roundhouse, London · Sat, 12 Sept 2026
+- Amnesia Ibiza, Ibiza · Fri, 24 Jul 2026
+- Patterns, Brighton · Sat, 30 May 2026
+- Joshua Brooks, Manchester · Fri, 29 May 2026
+- The Wardrobe, Leeds · Thu, 28 May 2026
+- Cabaret Voltaire, Edinburgh · Fri, 15 May 2026
+- The Berkeley Suite, Glasgow · Thu, 14 May 2026
 
 ## Shares bills with
 

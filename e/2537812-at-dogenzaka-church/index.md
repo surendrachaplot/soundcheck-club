@@ -1,6 +1,6 @@
 # どうげんざか懺悔室 at Dogenzaka Church
 
-どうげんざか懺悔室 at Dogenzaka Church on Fri 2 Oct, Tokyo. 2 artists on the bill: AMANE and ReFuCafé. Drum & Bass. Preview the line-up and save it on soundcheck.
+どうげんざか懺悔室 at Dogenzaka Church on Fri 2 Oct, Tokyo. 2 artists: AMANE and ReFuCafé. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

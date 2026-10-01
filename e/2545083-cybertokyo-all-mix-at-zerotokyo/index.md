@@ -1,6 +1,6 @@
 # Cybertokyo - ALL MIX - at ZEROTOKYO
 
-Cybertokyo - ALL MIX - at ZEROTOKYO on Fri 6 Nov, Tokyo. 1 artist on the bill: HEAVEN'S GATE CREW. Pop. Preview the line-up and save it on soundcheck.
+Cybertokyo - ALL MIX - at ZEROTOKYO on Fri 6 Nov, Tokyo. 1 artist: HEAVEN'S GATE CREW. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

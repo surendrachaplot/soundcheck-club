@@ -1,6 +1,6 @@
 # [ROOMTOO] 打码 Black out at OIL Club
 
-[ROOMTOO] 打码 Black out at OIL Club on Sat 10 Oct, Shenzhen. Techno. Preview the line-up and save it on soundcheck.
+[ROOMTOO] 打码 Black out at OIL Club on Sat 10 Oct, Shenzhen. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

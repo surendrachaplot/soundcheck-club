@@ -1,6 +1,6 @@
 # Devozioni pres: Eternal Love @Bunker - Turin at Bunker
 
-Devozioni pres: Eternal Love @Bunker - Turin on Fri 2 Oct, Turin. 2 artists on the bill: Eternal Love and Mike Bove. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Devozioni pres: Eternal Love @Bunker - Turin on Fri 2 Oct, Turin. 2 artists: Eternal Love and Mike Bove. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

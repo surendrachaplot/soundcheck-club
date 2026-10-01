@@ -1,8 +1,8 @@
 # Munster Munch
 
-Munster Munch is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "NOT A SPACE RAVE X Metanoia" on Sat, 3 Oct 2026.
+Munster Munch is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NOT A SPACE RAVE X Metanoia" on Sat, 3 Oct 2026.
 
-Munster Munch is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Areeb Abbasi, Auseeb, Blink Twice and calypso and 2 more. Browse upcoming dates, start times and who's playing. 18 Bear Street, London, WC2H 7AX, United Kingdom.
+Munster Munch is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Areeb Abbasi, Auseeb, Blink Twice and calypso and 2 more. See dates, start times and who's playing. 18 Bear Street, London, WC2H 7AX, United Kingdom.
 
 ## What's on
 

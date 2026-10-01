@@ -1,6 +1,6 @@
 # Proper Tings Takeover — The Late Show at Revolver Upstairs
 
-Proper Tings Takeover — The Late Show at Revolver Upstairs on Sat 3 Oct, Melbourne. 2 artists on the bill: Gay Roberto and KJONES. House and Garage. Preview the line-up and save it on soundcheck.
+Proper Tings Takeover — The Late Show at Revolver Upstairs on Sat 3 Oct, Melbourne. 2 artists: Gay Roberto and KJONES. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

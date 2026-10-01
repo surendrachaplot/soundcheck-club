@@ -1,6 +1,6 @@
 # Sissi's Halloween by Slimradio at SISSI'S Amsterdam
 
-Sissi's Halloween by Slimradio at SISSI'S Amsterdam on Sat 31 Oct, Amsterdam. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Sissi's Halloween by Slimradio at SISSI'S Amsterdam on Sat 31 Oct, Amsterdam. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

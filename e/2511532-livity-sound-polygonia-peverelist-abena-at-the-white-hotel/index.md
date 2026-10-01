@@ -1,6 +1,6 @@
 # Livity Sound: Polygonia / Peverelist / Abena at The White Hotel
 
-Livity Sound: Polygonia / Peverelist / Abena at The White Hotel on Fri 6 Nov, Manchester. 3 artists on the bill: Abena, Peverelist and Polygonia. Preview the line-up and save it on soundcheck.
+Livity Sound: Polygonia / Peverelist / Abena at The White Hotel on Fri 6 Nov, Manchester. 3 artists: Abena, Peverelist and Polygonia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

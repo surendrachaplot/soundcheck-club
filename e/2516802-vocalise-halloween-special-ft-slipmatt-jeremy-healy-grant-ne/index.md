@@ -1,6 +1,6 @@
 # Vocalise Halloween Special Ft. Slipmatt // Jeremy Healy // Grant Nelson at Alrewas Hayes
 
-Vocalise Halloween Special Ft. Slipmatt // Jeremy Healy // Grant Nelson at Alrewas Hayes on Sat 31 Oct, Midlands. 3 artists on the bill: Grant Nelson, Jeremy Healy and Slipmatt. Preview the line-up and save it on soundcheck.
+Vocalise Halloween Special Ft. Slipmatt // Jeremy Healy // Grant Nelson at Alrewas Hayes on Sat 31 Oct, Midlands. 3 artists: Grant Nelson, Jeremy Healy and Slipmatt. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

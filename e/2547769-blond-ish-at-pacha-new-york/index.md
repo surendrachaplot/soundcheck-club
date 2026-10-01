@@ -1,6 +1,6 @@
 # BLOND:ISH at Pacha New York
 
-BLOND:ISH at Pacha New York on Sat 3 Oct, New York City. 1 artist on the bill: BLOND:ISH. House. Preview the line-up and save it on soundcheck.
+BLOND:ISH at Pacha New York on Sat 3 Oct, New York City. 1 artist: BLOND:ISH. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

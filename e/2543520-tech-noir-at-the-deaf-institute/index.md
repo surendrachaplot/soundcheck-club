@@ -1,6 +1,6 @@
 # TECH-NOIR at The Deaf Institute
 
-TECH-NOIR at The Deaf Institute on Fri 9 Oct, Manchester. 2 artists on the bill: Astra and ProSonus. Techno and House. Preview the line-up and save it on soundcheck.
+TECH-NOIR at The Deaf Institute on Fri 9 Oct, Manchester. 1 artist: Astra. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ TECH-NOIR at The Deaf Institute on Fri 9 Oct, Manchester. 2 artists on the bill:
 ## Line-up
 
 - Astra (7)
-- ProSonus
 
 *Source: [soundcheck](https://soundcheck.club/e/2543520-tech-noir-at-the-deaf-institute/)*

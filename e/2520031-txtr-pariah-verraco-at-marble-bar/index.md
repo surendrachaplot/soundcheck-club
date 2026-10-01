@@ -1,6 +1,6 @@
 # TXTR : Pariah & Verraco at Marble Bar
 
-TXTR : Pariah & Verraco at Marble Bar on Fri 6 Nov, Detroit. 3 artists on the bill: Green River Haze, Pariah and Verraco. Preview the line-up and save it on soundcheck.
+TXTR : Pariah & Verraco at Marble Bar on Fri 6 Nov, Detroit. 3 artists: Green River Haze, Pariah and Verraco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

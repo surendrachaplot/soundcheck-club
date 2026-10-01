@@ -1,6 +1,6 @@
 # ATRIP at OCZKI
 
-ATRIP at OCZKI on Sat 7 Nov, Warsaw. Breakbeat and House. Preview the line-up and save it on soundcheck.
+ATRIP at OCZKI on Sat 7 Nov, Warsaw. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

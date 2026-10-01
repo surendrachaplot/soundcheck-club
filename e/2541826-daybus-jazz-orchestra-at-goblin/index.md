@@ -1,6 +1,6 @@
 # DAYBUS Jazz Orchestra at Goblin
 
-DAYBUS Jazz Orchestra at Goblin on Sun 4 Oct, Auckland. Jazz. Preview the line-up and save it on soundcheck.
+DAYBUS Jazz Orchestra at Goblin on Sun 4 Oct, Auckland. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

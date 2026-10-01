@@ -1,6 +1,6 @@
 # London Concrete at Club Silly (Bosi)
 
-London Concrete at Club Silly (Bosi) on Thu 19 Nov, London. Experimental and R&B. Preview the line-up and save it on soundcheck.
+London Concrete at Club Silly (Bosi) on Thu 19 Nov, London. Experimental and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

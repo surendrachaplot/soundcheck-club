@@ -1,6 +1,6 @@
 # Grve Movement / Stage & Radio at Stage and Radio
 
-Grve Movement / Stage & Radio at Stage and Radio on Fri 16 Oct, Manchester. House and Garage. Preview the line-up and save it on soundcheck.
+Grve Movement / Stage & Radio at Stage and Radio on Fri 16 Oct, Manchester. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Lauantaijatkot Stidilässä – Haikkakommando & VRA at Stidilä
 
-Lauantaijatkot Stidilässä – Haikkakommando & VRA on Sun 11 Oct, Helsinki. Preview the line-up and save it on soundcheck.
+Lauantaijatkot Stidilässä – Haikkakommando & VRA on Sun 11 Oct, Helsinki. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

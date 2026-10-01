@@ -1,6 +1,6 @@
 # EXTENDED IN THE PUB  PRESENT (SUNDAY ROAST) at The Greyhound
 
-EXTENDED IN THE PUB  PRESENT (SUNDAY ROAST) at The Greyhound on Sun 4 Oct, London. 2 artists on the bill: Azire and Vlad Ioachimescu. House and Minimal. Preview the line-up and save it on soundcheck.
+EXTENDED IN THE PUB  PRESENT (SUNDAY ROAST) at The Greyhound on Sun 4 Oct, London. 2 artists: Azire and Vlad Ioachimescu. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

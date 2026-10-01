@@ -1,6 +1,6 @@
 # HOUSE152 & Friends / ADE edition at TBA
 
-HOUSE152 & Friends / ADE edition at TBA on Fri 23 Oct, Amsterdam. Techno and House. Preview the line-up and save it on soundcheck.
+HOUSE152 & Friends / ADE edition at TBA on Fri 23 Oct, Amsterdam. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Troxy
 
-Troxy is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Trance Sanctuary presents Kearnage X" on Sat, 7 Nov 2026.
+Troxy is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Trance Sanctuary presents Kearnage X" on Sat, 7 Nov 2026.
 
-Troxy is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 490 Commercial Road, London E1 0HX.
+Troxy is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 490 Commercial Road, London E1 0HX.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Juicy Romance
 
-Juicy Romance is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Warehouse, Leeds on Sat, 3 Oct 2026.
+Juicy Romance is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Warehouse, Leeds on Sat, 3 Oct 2026.
 
-Juicy Romance is a techno and house artist based in Australia, tracked on soundcheck, with 148 sets logged across Aberdeen, Amsterdam, Barcelona and Belfast and 48 more. Often billed alongside Partiboi69, Mischluft and KETTAMA. Next up: The Warehouse, Leeds on Sat 3 Oct.
+Juicy Romance is a techno and house artist based in Australia, with 148 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Belfast and 48 more. Often billed alongside Partiboi69, Mischluft and KETTAMA. Next up: The Warehouse, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Juicy Romance is a techno and house artist based in Australia, tracked on soundc
 
 ## Recently played
 
-- TBA - Fohrstraat, 9000 Gent, België, Ghent — Sat, 26 Sept 2026
-- Virage, Paris — Sat, 26 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- Else, Berlin — Sun, 30 Aug 2026
-- Ääniwalli, Helsinki — Sun, 9 Aug 2026
-- Palmerstown House Estate, Dublin — Fri, 7 Aug 2026
-- Amnesia Ibiza, Ibiza — Mon, 20 Jul 2026
-- Trädgården, Stockholm — Thu, 16 Jul 2026
+- TBA - Fohrstraat, 9000 Gent, België, Ghent · Sat, 26 Sept 2026
+- Virage, Paris · Sat, 26 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- Else, Berlin · Sun, 30 Aug 2026
+- Ääniwalli, Helsinki · Sun, 9 Aug 2026
+- Palmerstown House Estate, Dublin · Fri, 7 Aug 2026
+- Amnesia Ibiza, Ibiza · Mon, 20 Jul 2026
+- Trädgården, Stockholm · Thu, 16 Jul 2026
 
 ## Shares bills with
 

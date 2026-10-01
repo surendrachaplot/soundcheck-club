@@ -1,6 +1,6 @@
 # One Eye Witness - ADE Friday at Ingang
 
-One Eye Witness - ADE Friday at Ingang on Fri 23 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+One Eye Witness - ADE Friday at Ingang on Fri 23 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

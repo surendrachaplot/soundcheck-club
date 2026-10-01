@@ -1,6 +1,6 @@
 # SUBKULTŪRA #12 at TBA - Riga
 
-SUBKULTŪRA #12 at TBA - Riga on Fri 6 Nov, Riga. Dub and Dubstep. Preview the line-up and save it on soundcheck.
+SUBKULTŪRA #12 at TBA - Riga on Fri 6 Nov, Riga. Dub and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Parc del Fòrum
 
-Parc del Fòrum is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "KINYXX Open Air Halloween [Balla Barcelona Festival]" on Fri, 30 Oct 2026.
+Parc del Fòrum is a music venue in Barcelona with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "KINYXX Open Air Halloween [Balla Barcelona Festival]" on Fri, 30 Oct 2026.
 
-Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including 6EJOU, AARON SEVILLA, ANJELIKA SAHAKIAN and Claptone and 2 more. Browse upcoming dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
+Parc del Fòrum is a music venue in Barcelona listed on soundcheck. 7 upcoming gigs, with line-ups including 6EJOU, AARON SEVILLA, ANJELIKA SAHAKIAN and Claptone and 2 more. See dates, start times and who's playing. Rambla Prim, 2-4; 08019 Barcelona; Spain.
 
 ## What's on
 

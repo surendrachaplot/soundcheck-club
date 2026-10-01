@@ -1,8 +1,8 @@
 # Nestor
 
-Nestor is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The White Hotel, Manchester on Sun, 11 Oct 2026.
+Nestor is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The White Hotel, Manchester on Sun, 11 Oct 2026.
 
-Nestor is a tech house and house artist based in Ukraine, tracked on soundcheck, with 11 sets logged across Los Angeles, Manchester, Philadelphia and Valencia. Often billed alongside ELi, DJ Xtina and Dentadura. Next up: The White Hotel, Manchester on Sun 11 Oct.
+Nestor is a tech house and house artist based in Ukraine, with 11 gigs on soundcheck across Los Angeles, Manchester, Philadelphia and Valencia. Often billed alongside ELi, DJ Xtina and Dentadura. Next up: The White Hotel, Manchester on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Nestor is a tech house and house artist based in Ukraine, tracked on soundcheck,
 
 ## Recently played
 
-- Oven Club, Valencia — Sat, 4 Apr 2026
-- Oven Club, Valencia — Thu, 4 Sept 2025
-- Hidden, Manchester — Fri, 9 May 2025
-- TBA, Los Angeles — Fri, 24 Jan 2025
-- Oven Club, Valencia — Thu, 28 Nov 2024
-- Oven Club, Valencia — Thu, 24 Oct 2024
-- Oven Club, Valencia — Wed, 11 Sept 2024
-- Stage and Radio, Manchester — Thu, 18 Apr 2024
+- Oven Club, Valencia · Sat, 4 Apr 2026
+- Oven Club, Valencia · Thu, 4 Sept 2025
+- Hidden, Manchester · Fri, 9 May 2025
+- TBA, Los Angeles · Fri, 24 Jan 2025
+- Oven Club, Valencia · Thu, 28 Nov 2024
+- Oven Club, Valencia · Thu, 24 Oct 2024
+- Oven Club, Valencia · Wed, 11 Sept 2024
+- Stage and Radio, Manchester · Thu, 18 Apr 2024
 
 ## Shares bills with
 

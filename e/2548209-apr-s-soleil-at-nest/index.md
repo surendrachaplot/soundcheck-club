@@ -1,6 +1,6 @@
 # Aprés Soleil at Nest
 
-Aprés Soleil at Nest on Sat 10 Oct, Basel. House and Tech House. Preview the line-up and save it on soundcheck.
+Aprés Soleil at Nest on Sat 10 Oct, Basel. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

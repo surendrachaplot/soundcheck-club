@@ -1,8 +1,8 @@
 # Jorg Kuning
 
-Jorg Kuning is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Shelter Amsterdam, Amsterdam on Sun, 25 Oct 2026.
+Jorg Kuning is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sun, 25 Oct 2026.
 
-Jorg Kuning is a house and techno artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Athens, Berlin and Bristol and 14 more. Often billed alongside Bitzer Maloney, Daisy Moon and K-LONE. Next up: Shelter Amsterdam, Amsterdam on Sun 25 Oct.
+Jorg Kuning is a house and techno artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Athens, Berlin and Bristol and 14 more. Often billed alongside Bitzer Maloney, Daisy Moon and K-LONE. Next up: Shelter Amsterdam, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Jorg Kuning is a house and techno artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Gaffe, London — Sat, 19 Sept 2026
-- The White Hotel, Manchester — Fri, 11 Sept 2026
-- Macadam, Nantes — Sat, 29 Aug 2026
-- Phonica Records, London — Thu, 16 Jul 2026
-- The Carpet Shop, London — Sat, 4 Jul 2026
-- Randall Street, Sheffield, S2 4SJ, Sheffield — Sat, 27 Jun 2026
-- Two Tribes CAMPFIRE, London — Sat, 30 May 2026
-- The Island, Bristol — Fri, 29 May 2026
+- Gaffe, London · Sat, 19 Sept 2026
+- The White Hotel, Manchester · Fri, 11 Sept 2026
+- Macadam, Nantes · Sat, 29 Aug 2026
+- Phonica Records, London · Thu, 16 Jul 2026
+- The Carpet Shop, London · Sat, 4 Jul 2026
+- Randall Street, Sheffield, S2 4SJ, Sheffield · Sat, 27 Jun 2026
+- Two Tribes CAMPFIRE, London · Sat, 30 May 2026
+- The Island, Bristol · Fri, 29 May 2026
 
 ## Shares bills with
 

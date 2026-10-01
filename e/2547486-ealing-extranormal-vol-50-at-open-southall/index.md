@@ -1,6 +1,6 @@
 # Ealing Extranormal Vol.50 at Open Southall
 
-Ealing Extranormal Vol.50 at Open Southall on Sat 17 Oct, London. Experimental. Preview the line-up and save it on soundcheck.
+Ealing Extranormal Vol.50 at Open Southall on Sat 17 Oct, London. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

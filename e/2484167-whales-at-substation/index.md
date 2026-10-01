@@ -1,6 +1,6 @@
 # Whales at Substation
 
-Whales at Substation on Thu 12 Nov, Seattle. Dubstep. Preview the line-up and save it on soundcheck.
+Whales at Substation on Thu 12 Nov, Seattle. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

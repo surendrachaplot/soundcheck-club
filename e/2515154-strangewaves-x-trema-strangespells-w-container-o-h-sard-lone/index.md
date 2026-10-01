@@ -1,6 +1,6 @@
 # Strangewaves x TREMA: Strangespells w/ Container, O/H, Sard, Lonefront, and Geneva (FREE) at TBA
 
-Strangewaves x TREMA: Strangespells w/ Container, O/H, Sard, Lonefront, and Geneva (FREE) at TBA on Fri 2 Oct, Hamilton. 5 artists on the bill: Container, Geneva, Lonefront and Orphx and 1 more. Preview the line-up and save it on soundcheck.
+Strangewaves x TREMA: Strangespells w/ Container, O/H, Sard, Lonefront, and Geneva (FREE) at TBA on Fri 2 Oct, Hamilton. 5 artists: Container, Geneva, Lonefront and Orphx and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

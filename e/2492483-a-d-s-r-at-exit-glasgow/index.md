@@ -1,6 +1,6 @@
 # A.D.S.R at EXIT Glasgow
 
-A.D.S.R at EXIT Glasgow on Fri 20 Nov, Glasgow. Techno and Industrial. Preview the line-up and save it on soundcheck.
+A.D.S.R at EXIT Glasgow on Fri 20 Nov, Glasgow. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

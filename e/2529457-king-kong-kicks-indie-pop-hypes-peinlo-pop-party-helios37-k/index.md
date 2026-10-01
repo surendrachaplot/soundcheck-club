@@ -1,6 +1,6 @@
 # King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party • Helios37 • Köln at Helios37
 
-King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party • Helios37 • Köln on Fri 27 Nov, Cologne. Pop. Preview the line-up and save it on soundcheck.
+King Kong Kicks • Indie Pop & Hypes + Peinlo Pop Party • Helios37 • Köln on Fri 27 Nov, Cologne. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

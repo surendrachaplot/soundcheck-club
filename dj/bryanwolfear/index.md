@@ -1,8 +1,8 @@
 # Bryan Wolf Ear
 
-Bryan Wolf Ear is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
+Bryan Wolf Ear is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
 
-Bryan Wolf Ear is a progressive house and electronica artist based in Canada, tracked on soundcheck, with 7 sets logged across Amsterdam and Montreal. Often billed alongside Kostya Outta, Alísha and Pedro Mercado. Next up: The Flying Dutchman Café, Amsterdam on Fri 23 Oct.
+Bryan Wolf Ear is a progressive house and electronica artist based in Canada, with 7 gigs on soundcheck across Amsterdam and Montreal. Often billed alongside Kostya Outta, Alísha and Pedro Mercado. Next up: The Flying Dutchman Café, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Bryan Wolf Ear is a progressive house and electronica artist based in Canada, tr
 
 ## Recently played
 
-- Waterfront #4, Montreal — Fri, 18 Sept 2026
-- Salon Daomé, Montreal — Thu, 10 Sept 2026
-- Newspeak, Montreal — Sat, 14 Mar 2026
-- The Flying Dutchman Café, Amsterdam — Fri, 24 Oct 2025
-- Fairmount Theatre, Montreal — Thu, 6 Jun 2024
-- Le Red Room, Montreal — Fri, 24 May 2024
+- Waterfront #4, Montreal · Fri, 18 Sept 2026
+- Salon Daomé, Montreal · Thu, 10 Sept 2026
+- Newspeak, Montreal · Sat, 14 Mar 2026
+- The Flying Dutchman Café, Amsterdam · Fri, 24 Oct 2025
+- Fairmount Theatre, Montreal · Thu, 6 Jun 2024
+- Le Red Room, Montreal · Fri, 24 May 2024
 
 ## Shares bills with
 

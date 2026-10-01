@@ -1,6 +1,6 @@
 # Cirque Du Soul: Nottingham // Halloween at TBA
 
-Cirque Du Soul: Nottingham // Halloween at TBA on Fri 30 Oct, Nottingham. 2 artists on the bill: Fish56Octagon and HOLL3. House and Garage. Preview the line-up and save it on soundcheck.
+Cirque Du Soul: Nottingham // Halloween at TBA on Fri 30 Oct, Nottingham. 2 artists: Fish56Octagon and HOLL3. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

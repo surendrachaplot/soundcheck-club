@@ -1,6 +1,6 @@
 # Lake Live 02: Missing Music by Suren Seneviratne at TBA - Lake Space
 
-Lake Live 02: Missing Music by Suren Seneviratne at TBA - Lake Space on Sat 24 Oct, London. Experimental. Preview the line-up and save it on soundcheck.
+Lake Live 02: Missing Music by Suren Seneviratne at TBA - Lake Space on Sat 24 Oct, London. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

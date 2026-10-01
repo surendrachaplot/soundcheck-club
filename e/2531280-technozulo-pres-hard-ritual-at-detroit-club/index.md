@@ -1,6 +1,6 @@
 # TechnoZulo pres. HARD RITUAL at DETROIT CLUB
 
-TechnoZulo pres. HARD RITUAL at DETROIT CLUB on Sat 3 Oct, Barcelona. Techno and Industrial. Preview the line-up and save it on soundcheck.
+TechnoZulo pres. HARD RITUAL at DETROIT CLUB on Sat 3 Oct, Barcelona. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

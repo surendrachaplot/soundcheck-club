@@ -1,6 +1,6 @@
 # Ibiza Anthems Brunch House Party in London at House Party
 
-Ibiza Anthems Brunch House Party in London on Sat 7 Nov, London. House. Preview the line-up and save it on soundcheck.
+Ibiza Anthems Brunch House Party in London on Sat 7 Nov, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

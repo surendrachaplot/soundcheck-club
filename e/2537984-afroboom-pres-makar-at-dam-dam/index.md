@@ -1,6 +1,6 @@
 # AFROBOOM pres. MAKAR at DAM / DAM
 
-AFROBOOM pres. MAKAR at DAM / DAM on Sun 25 Oct, Vienna. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+AFROBOOM pres. MAKAR at DAM / DAM on Sun 25 Oct, Vienna. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

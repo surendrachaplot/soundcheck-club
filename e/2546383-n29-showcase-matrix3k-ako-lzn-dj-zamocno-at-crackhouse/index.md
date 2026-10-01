@@ -1,6 +1,6 @@
 # N29 SHOWCASE: MATRIX3K, AKO, LZN, DJ ZAMOCNO at Crackhouse
 
-N29 SHOWCASE: MATRIX3K, AKO, LZN, DJ ZAMOCNO at Crackhouse on Sat 17 Oct, Gdansk. 3 artists on the bill: AKOMPANIAMENT, LZN (PL) and MATRIX3K. Preview the line-up and save it on soundcheck.
+N29 SHOWCASE: MATRIX3K, AKO, LZN, DJ ZAMOCNO at Crackhouse on Sat 17 Oct, Gdansk. 3 artists: AKOMPANIAMENT, LZN (PL) and MATRIX3K. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

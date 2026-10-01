@@ -1,8 +1,8 @@
 # Bootshaus
 
-Bootshaus is a music venue in Cologne with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "NIBIRII pres. Ely Oaks" on Fri, 2 Oct 2026.
+Bootshaus is a music venue in Cologne with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NIBIRII pres. Ely Oaks" on Fri, 2 Oct 2026.
 
-Bootshaus is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Alle Farben and 2 more. Browse upcoming dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
+Bootshaus is a music venue in Cologne listed on soundcheck. 17 upcoming gigs, with line-ups including 2HOT2PLAY, 333CXT, ADEMES and Alle Farben and 2 more. See dates, start times and who's playing. Auenweg 173; 51063 Cologne; Germany.
 
 ## What's on
 

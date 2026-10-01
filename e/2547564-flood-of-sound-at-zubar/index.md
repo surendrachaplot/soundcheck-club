@@ -1,6 +1,6 @@
 # FLOOD OF SOUND at ZUBAR
 
-FLOOD OF SOUND at ZUBAR on Fri 30 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+FLOOD OF SOUND at ZUBAR on Fri 30 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EUPHORIK pres. KNTRLVRLST, Franky B, Paul Wolf, NIKKI030 & KUSCHI at Lokschuppen Berlin
 
-EUPHORIK pres. KNTRLVRLST, Franky B, Paul Wolf, NIKKI030 & KUSCHI at Lokschuppen Berlin on Sat 14 Nov, Berlin. 10 artists on the bill: DTEXX, Filialleiter, Franky-B and Jude Bradshaw and 6 more. Preview the line-up and save it on soundcheck.
+EUPHORIK pres. KNTRLVRLST, Franky B, Paul Wolf, NIKKI030 & KUSCHI at Lokschuppen Berlin on Sat 14 Nov, Berlin. 10 artists: DTEXX, Filialleiter, Franky-B and Jude Bradshaw and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

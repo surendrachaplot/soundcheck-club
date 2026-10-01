@@ -1,8 +1,8 @@
 # Syd Gris
 
-Syd Gris is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
+Syd Gris is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Midway, San Francisco/Oakland on Sat, 10 Oct 2026.
 
-Syd Gris is a house and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across Austin, Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside Emanate, Major Trouble and Marie Posa. Next up: The Midway, San Francisco/Oakland on Sat 10 Oct.
+Syd Gris is a house and techno artist based in United States of America, with 35 gigs on soundcheck across Austin, Los Angeles, San Francisco/Oakland and Seattle. Often billed alongside Emanate, Major Trouble and Marie Posa. Next up: The Midway, San Francisco/Oakland on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Syd Gris is a house and techno artist based in United States of America, tracked
 
 ## Recently played
 
-- Madarae San Francisco, San Francisco/Oakland — Fri, 18 Sept 2026
-- The Great Northern, San Francisco/Oakland — Sat, 25 Jul 2026
-- TBA - 1145 Folsom Street San Francisco, CA 94103, San Francisco/Oakland — Thu, 28 May 2026
-- Roma, Austin — Sat, 16 May 2026
-- The Lawn on Treasure Island, San Francisco/Oakland — Sat, 2 May 2026
-- The Monkey Loft, Seattle — Fri, 24 Apr 2026
-- Public Works, San Francisco/Oakland — Sat, 21 Mar 2026
-- Public Works, San Francisco/Oakland — Sat, 24 Jan 2026
+- Madarae San Francisco, San Francisco/Oakland · Fri, 18 Sept 2026
+- The Great Northern, San Francisco/Oakland · Sat, 25 Jul 2026
+- TBA - 1145 Folsom Street San Francisco, CA 94103, San Francisco/Oakland · Thu, 28 May 2026
+- Roma, Austin · Sat, 16 May 2026
+- The Lawn on Treasure Island, San Francisco/Oakland · Sat, 2 May 2026
+- The Monkey Loft, Seattle · Fri, 24 Apr 2026
+- Public Works, San Francisco/Oakland · Sat, 21 Mar 2026
+- Public Works, San Francisco/Oakland · Sat, 24 Jan 2026
 
 ## Shares bills with
 

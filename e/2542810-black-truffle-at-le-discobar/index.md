@@ -1,6 +1,6 @@
 # Black Truffle at Le Discobar
 
-Black Truffle at Le Discobar on Fri 2 Oct, Paris. 1 artist on the bill: Black Truffle. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Black Truffle at Le Discobar on Fri 2 Oct, Paris. 1 artist: Black Truffle. Disco and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Afro Slush at Club Up
 
-Afro Slush at Club Up on Fri 2 Oct, Amsterdam. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+Afro Slush at Club Up on Fri 2 Oct, Amsterdam. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Raner Baumgartner
 
-Raner Baumgartner is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sala Cocó, Madrid on Sat, 10 Oct 2026.
+Raner Baumgartner is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Cocó, Madrid on Sat, 10 Oct 2026.
 
-Raner Baumgartner is a techno and trance artist based in Spain, tracked on soundcheck, with 12 sets logged across Madrid. Often billed alongside Groovemami, KITAE and Køni. Next up: Sala Cocó, Madrid on Sat 10 Oct.
+Raner Baumgartner is a techno and trance artist based in Spain, with 12 gigs on soundcheck across Madrid. Often billed alongside Groovemami, KITAE and Køni. Next up: Sala Cocó, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Raner Baumgartner is a techno and trance artist based in Spain, tracked on sound
 
 ## Recently played
 
-- Skin Club, Madrid — Sat, 26 Sept 2026
-- Skin Club, Madrid — Sat, 26 Sept 2026
-- Sala El Sol, Madrid — Sat, 15 Aug 2026
-- Skin Club, Madrid — Sat, 27 Jun 2026
-- Zull The Club, Madrid — Fri, 17 Apr 2026
-- Next Clubbing, Madrid — Sat, 7 Mar 2026
-- Skin, Madrid — Sat, 31 Jan 2026
-- Araña Club, Madrid — Fri, 31 Oct 2025
+- Skin Club, Madrid · Sat, 26 Sept 2026
+- Skin Club, Madrid · Sat, 26 Sept 2026
+- Sala El Sol, Madrid · Sat, 15 Aug 2026
+- Skin Club, Madrid · Sat, 27 Jun 2026
+- Zull The Club, Madrid · Fri, 17 Apr 2026
+- Next Clubbing, Madrid · Sat, 7 Mar 2026
+- Skin, Madrid · Sat, 31 Jan 2026
+- Araña Club, Madrid · Fri, 31 Oct 2025
 
 ## Shares bills with
 

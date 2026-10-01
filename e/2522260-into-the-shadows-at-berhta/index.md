@@ -1,6 +1,6 @@
 # Into the Shadows at BERHTA
 
-Into the Shadows at BERHTA on Sat 31 Oct, Washington DC. 3 artists on the bill: 100 gecs, Danny L Harle and yaego. Electronica. Preview the line-up and save it on soundcheck.
+Into the Shadows at BERHTA on Sat 31 Oct, Washington DC. 3 artists: 100 gecs, Danny L Harle and yaego. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

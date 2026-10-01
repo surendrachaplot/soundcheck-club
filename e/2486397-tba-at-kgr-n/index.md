@@ -1,6 +1,6 @@
 # TBA at KGR(n)
 
-TBA at KGR(n) on Sat 28 Nov, Tokyo. Experimental. Preview the line-up and save it on soundcheck.
+TBA at KGR(n) on Sat 28 Nov, Tokyo. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

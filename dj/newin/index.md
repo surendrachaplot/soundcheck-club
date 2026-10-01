@@ -1,8 +1,8 @@
 # NEWIN
 
-NEWIN is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at La Java, Paris on Fri, 23 Oct 2026.
+NEWIN is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Java, Paris on Fri, 23 Oct 2026.
 
-NEWIN is a techno and electro artist based in France, tracked on soundcheck, with 15 sets logged across Paris. Often billed alongside Acid Oslo, Ben Manson and Mr Cozzo. Next up: La Java, Paris on Fri 23 Oct.
+NEWIN is a techno and electro artist based in France, with 15 gigs on soundcheck across Paris. Often billed alongside Acid Oslo, Ben Manson and Mr Cozzo. Next up: La Java, Paris on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ NEWIN is a techno and electro artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
-- La Java, Paris — Thu, 9 Jul 2026
-- Wanderlust, Paris — Thu, 7 May 2026
-- Nouveau Casino, Paris — Sat, 28 Feb 2026
-- Le Klub, Paris — Fri, 20 Feb 2026
-- Panic Room, Paris — Sat, 14 Feb 2026
-- La Gare / Le Gore, Paris — Mon, 12 Jan 2026
-- Kilomètre25, Paris — Sat, 18 Oct 2025
-- Nouveau Casino, Paris — Sat, 28 Jun 2025
+- La Java, Paris · Thu, 9 Jul 2026
+- Wanderlust, Paris · Thu, 7 May 2026
+- Nouveau Casino, Paris · Sat, 28 Feb 2026
+- Le Klub, Paris · Fri, 20 Feb 2026
+- Panic Room, Paris · Sat, 14 Feb 2026
+- La Gare / Le Gore, Paris · Mon, 12 Jan 2026
+- Kilomètre25, Paris · Sat, 18 Oct 2025
+- Nouveau Casino, Paris · Sat, 28 Jun 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Stuck In The Scene presents Saqib and bawab at Foundation Room - House Of Blues
 
-Stuck In The Scene presents Saqib and bawab at Foundation Room - House Of Blues on Sat 3 Oct, Chicago. 2 artists on the bill: bawab and Saqib. House and Tech House. Preview the line-up and save it on soundcheck.
+Stuck In The Scene presents Saqib and bawab at Foundation Room - House Of Blues on Sat 3 Oct, Chicago. 2 artists: bawab and Saqib. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

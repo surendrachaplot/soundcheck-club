@@ -1,6 +1,6 @@
 # TIGERS JAW JAPAN 2026 WITH COUNTRY YARD at Club Metro
 
-TIGERS JAW JAPAN 2026 WITH COUNTRY YARD at Club Metro on Sat 21 Nov, Kyoto. Preview the line-up and save it on soundcheck.
+TIGERS JAW JAPAN 2026 WITH COUNTRY YARD at Club Metro on Sat 21 Nov, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

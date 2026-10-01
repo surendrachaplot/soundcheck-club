@@ -1,6 +1,6 @@
 # Wave Techno - The Bunker at Moustache Bar
 
-Wave Techno - The Bunker at Moustache Bar on Fri 4 Dec, London. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Wave Techno - The Bunker at Moustache Bar on Fri 4 Dec, London. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

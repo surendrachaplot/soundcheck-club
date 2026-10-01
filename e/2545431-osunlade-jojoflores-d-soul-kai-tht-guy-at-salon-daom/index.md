@@ -1,6 +1,6 @@
 # Osunlade, Jojoflores, D*soul, Kai Tht Guy at Salon Daomé
 
-Osunlade, Jojoflores, D*soul, Kai Tht Guy at Salon Daomé on Fri 6 Nov, Montreal. 2 artists on the bill: Jojoflores and Osunlade. House. Preview the line-up and save it on soundcheck.
+Osunlade, Jojoflores, D*soul, Kai Tht Guy at Salon Daomé on Fri 6 Nov, Montreal. 2 artists: Jojoflores and Osunlade. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

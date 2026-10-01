@@ -1,6 +1,6 @@
 # Phil Hartnoll (Orbital) at Sidney & Matilda
 
-Phil Hartnoll (Orbital) at Sidney & Matilda on Sat 10 Oct, Sheffield. Techno and IDM. Preview the line-up and save it on soundcheck.
+Phil Hartnoll (Orbital) at Sidney & Matilda on Sat 10 Oct, Sheffield. Techno and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

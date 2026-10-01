@@ -1,8 +1,8 @@
 # Puma Käfig Berlin
 
-Puma Käfig Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "TECHNOAMT PRESENT SEMESTER OPENING PARTY" on Fri, 2 Oct 2026.
+Puma Käfig Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TECHNOAMT PRESENT SEMESTER OPENING PARTY" on Fri, 2 Oct 2026.
 
-Puma Käfig Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Friday, Alviker, Amorelie and Andreas Florin and 2 more. Browse upcoming dates, start times and who's playing. Motzener Str. 5, 12277 Berlin-Bezirk Tempelhof-Schöneberg.
+Puma Käfig Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Friday, Alviker, Amorelie and Andreas Florin and 2 more. See dates, start times and who's playing. Motzener Str. 5, 12277 Berlin-Bezirk Tempelhof-Schöneberg.
 
 ## What's on
 

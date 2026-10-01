@@ -1,6 +1,6 @@
 # Downtempo Collage Café / Sami J at Cobalt Studios
 
-Downtempo Collage Café / Sami J at Cobalt Studios on Wed 11 Nov, Newcastle. Downtempo and Experimental. Preview the line-up and save it on soundcheck.
+Downtempo Collage Café / Sami J at Cobalt Studios on Wed 11 Nov, Newcastle. Downtempo and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

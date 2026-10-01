@@ -1,6 +1,6 @@
 # Sturmfrei with Oaky & Andi De Luxe at Minimal Bar
 
-Sturmfrei with Oaky & Andi De Luxe at Minimal Bar on Fri 11 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Sturmfrei with Oaky & Andi De Luxe at Minimal Bar on Fri 11 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 422:Mass Season Opening & 2 Years Anniversary  Saturday, 3 October — AUX Club at AUX Club
 
-422:Mass Season Opening & 2 Years Anniversary  Saturday, 3 October — AUX Club on Sat 3 Oct, Athens. 3 artists on the bill: Imperium, MATEA and siasios. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+422:Mass Season Opening & 2 Years Anniversary  Saturday, 3 October — AUX Club on Sat 3 Oct, Athens. 3 artists: Imperium, MATEA and siasios. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

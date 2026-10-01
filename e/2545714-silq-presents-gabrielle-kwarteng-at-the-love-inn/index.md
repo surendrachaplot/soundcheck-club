@@ -1,6 +1,6 @@
 # SILQ. presents: Gabrielle Kwarteng at The Love Inn
 
-SILQ. presents: Gabrielle Kwarteng at The Love Inn on Fri 16 Oct, Bristol. 4 artists on the bill: AVA, Azumei, DASHY and Gabrielle Kwarteng. House and Club. Preview the line-up and save it on soundcheck.
+SILQ. presents: Gabrielle Kwarteng at The Love Inn on Fri 16 Oct, Bristol. 4 artists: AVA, Azumei, DASHY and Gabrielle Kwarteng. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

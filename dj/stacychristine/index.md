@@ -1,8 +1,8 @@
 # Stacy Christine
 
-Stacy Christine is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Stacy Christine is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
-Stacy Christine is a house and disco artist based in United States of America, tracked on soundcheck, with 121 sets logged across Barcelona, Detroit, London and Los Angeles and 4 more. Often billed alongside Bears In Space, Perfect Lovers and Heidi Lawden. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+Stacy Christine is a house and disco artist based in United States of America, with 121 gigs on soundcheck across Barcelona, Detroit, London and Los Angeles and 4 more. Often billed alongside Bears In Space, Perfect Lovers and Heidi Lawden. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Stacy Christine is a house and disco artist based in United States of America, t
 
 ## Recently played
 
-- General Lee's Cocktail House, Los Angeles — Thu, 10 Sept 2026
-- Akbar, Los Angeles — Sun, 6 Sept 2026
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 5 Sept 2026
-- Club Tee Gee, Los Angeles — Thu, 3 Sept 2026
-- Akbar, Los Angeles — Sun, 9 Aug 2026
-- The Bridge, Los Angeles — Sat, 18 Jul 2026
-- TBA - Rave DEN, Los Angeles — Sat, 27 Jun 2026
-- Akbar, Los Angeles — Sun, 14 Jun 2026
+- General Lee's Cocktail House, Los Angeles · Thu, 10 Sept 2026
+- Akbar, Los Angeles · Sun, 6 Sept 2026
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 5 Sept 2026
+- Club Tee Gee, Los Angeles · Thu, 3 Sept 2026
+- Akbar, Los Angeles · Sun, 9 Aug 2026
+- The Bridge, Los Angeles · Sat, 18 Jul 2026
+- TBA - Rave DEN, Los Angeles · Sat, 27 Jun 2026
+- Akbar, Los Angeles · Sun, 14 Jun 2026
 
 ## Shares bills with
 

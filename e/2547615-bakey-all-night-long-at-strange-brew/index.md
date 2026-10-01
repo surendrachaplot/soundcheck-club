@@ -1,6 +1,6 @@
 # Bakey (All Night Long) at Strange Brew
 
-Bakey (All Night Long) at Strange Brew on Fri 23 Oct, Bristol. 1 artist on the bill: Bakey. Bass and Garage. Preview the line-up and save it on soundcheck.
+Bakey (All Night Long) at Strange Brew on Fri 23 Oct, Bristol. 1 artist: Bakey. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

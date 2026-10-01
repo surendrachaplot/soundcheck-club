@@ -1,8 +1,8 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Digital, Newcastle on Fri, 2 Oct 2026.
+Club Angel is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
 
-Club Angel is a garage and house artist based in Australia, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Digital, Newcastle on Fri 2 Oct.
+Club Angel is a garage and house artist based in Australia, with 103 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Digital, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Club Angel is a garage and house artist based in Australia, tracked on soundchec
 
 ## Recently played
 
-- Night Tales Loft, London — Sat, 26 Sept 2026
-- Tivoli, Brisbane — Sat, 5 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Thuishaven, Amsterdam — Sun, 9 Aug 2026
-- Finsbury Park, London — Fri, 7 Aug 2026
-- Club Vaag, Antwerp — Sat, 1 Aug 2026
-- Razzmatazz, Barcelona — Sat, 25 Jul 2026
-- High Lights - Barking Park, London — Sat, 23 May 2026
+- Night Tales Loft, London · Sat, 26 Sept 2026
+- Tivoli, Brisbane · Sat, 5 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Thuishaven, Amsterdam · Sun, 9 Aug 2026
+- Finsbury Park, London · Fri, 7 Aug 2026
+- Club Vaag, Antwerp · Sat, 1 Aug 2026
+- Razzmatazz, Barcelona · Sat, 25 Jul 2026
+- High Lights - Barking Park, London · Sat, 23 May 2026
 
 ## Shares bills with
 

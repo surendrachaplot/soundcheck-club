@@ -1,6 +1,6 @@
 # The Sound at Telford Arena & Rechabite Concert Hall
 
-The Sound at Telford Arena & Rechabite Concert Hall on Sat 3 Oct, Midlands. 7 artists on the bill: DJ MJ, Guido Nemola, Joe Smooth and John Norman and 3 more. Preview the line-up and save it on soundcheck.
+The Sound at Telford Arena & Rechabite Concert Hall on Sat 3 Oct, Midlands. 7 artists: DJ MJ, Guido Nemola, Joe Smooth and John Norman and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

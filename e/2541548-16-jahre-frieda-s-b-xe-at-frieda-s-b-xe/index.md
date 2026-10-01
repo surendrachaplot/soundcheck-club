@@ -1,6 +1,6 @@
 # 16 JAHRE FRIEDA'S BÜXE at Frieda's Büxe
 
-16 JAHRE FRIEDA'S BÜXE at Frieda's Büxe on Sat 3 Oct, Zurich. 10 artists on the bill: Andreas Ramos, Capt'n, Cristi Cons and DIKKA and 6 more. Preview the line-up and save it on soundcheck.
+16 JAHRE FRIEDA'S BÜXE at Frieda's Büxe on Sat 3 Oct, Zurich. 10 artists: Andreas Ramos, Capt'n, Cristi Cons and DIKKA and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

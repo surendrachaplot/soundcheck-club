@@ -1,6 +1,6 @@
 # Alpha Maid + Dylan Kerr & Madeline Stepien at Silent Green
 
-Alpha Maid + Dylan Kerr & Madeline Stepien at Silent Green on Wed 14 Oct, Berlin. 1 artist on the bill: Dylan Kerr. Experimental. Preview the line-up and save it on soundcheck.
+Alpha Maid + Dylan Kerr & Madeline Stepien at Silent Green on Wed 14 Oct, Berlin. 1 artist: Dylan Kerr. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

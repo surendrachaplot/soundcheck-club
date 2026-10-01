@@ -1,8 +1,8 @@
 # Phantom Bar Berlin
 
-Phantom Bar Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Garage Girls x Phantom Bar" on Sat, 3 Oct 2026.
+Phantom Bar Berlin is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Garage Girls x Phantom Bar" on Sat, 3 Oct 2026.
 
-Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Cleopard2000, DJ GUESTLIST, Elotrance and Mika Heggemann and 2 more. Browse upcoming dates, start times and who's playing. Torstraße 231, 10115 Berlin Germany.
+Phantom Bar Berlin is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Cleopard2000, DJ GUESTLIST, Elotrance and Mika Heggemann and 2 more. See dates, start times and who's playing. Torstraße 231, 10115 Berlin Germany.
 
 ## What's on
 

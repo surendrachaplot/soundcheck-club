@@ -1,8 +1,8 @@
 # M7 Warehouse
 
-M7 Warehouse is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "HÖR ON TOUR: Australia Weekender - Melbourne" on Fri, 9 Oct 2026.
+M7 Warehouse is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "HÖR ON TOUR: Australia Weekender - Melbourne" on Fri, 9 Oct 2026.
 
-M7 Warehouse is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including IKKIMEL, Luke Hovey and Mija. Browse upcoming dates, start times and who's playing.
+M7 Warehouse is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including IKKIMEL, Luke Hovey and Mija. See dates, start times and who's playing.
 
 ## What's on
 

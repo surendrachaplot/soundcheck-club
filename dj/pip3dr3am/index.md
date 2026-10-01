@@ -1,8 +1,8 @@
 # PIP3DR3AM
 
-PIP3DR3AM is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Rogers Park Chicago, Chicago on Sun, 11 Oct 2026.
+PIP3DR3AM is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Rogers Park Chicago, Chicago on Sun, 11 Oct 2026.
 
-PIP3DR3AM is a techno and hardcore artist based in United States of America, tracked on soundcheck, with 29 sets logged across Chicago. Often billed alongside AMAYAH, hhunter and Elarm. Next up: TBA - Rogers Park Chicago, Chicago on Sun 11 Oct.
+PIP3DR3AM is a techno and hardcore artist based in United States of America, with 29 gigs on soundcheck across Chicago. Often billed alongside AMAYAH, hhunter and Elarm. Next up: TBA - Rogers Park Chicago, Chicago on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ PIP3DR3AM is a techno and hardcore artist based in United States of America, tra
 
 ## Recently played
 
-- Bottom Lounge, Chicago — Mon, 7 Sept 2026
-- Ping Tom Memorial Park, Chicago — Sat, 29 Aug 2026
-- Ping Tom Memorial Park, Chicago — Sun, 19 Jul 2026
-- Bodega Taqueria y Tequila, Chicago — Sun, 21 Jun 2026
-- Bourbon On Division, Chicago — Sat, 20 Jun 2026
-- TBA, Chicago — Tue, 17 Mar 2026
-- TBA, Chicago — Sat, 14 Mar 2026
-- Bourbon On Division, Chicago — Fri, 13 Feb 2026
+- Bottom Lounge, Chicago · Mon, 7 Sept 2026
+- Ping Tom Memorial Park, Chicago · Sat, 29 Aug 2026
+- Ping Tom Memorial Park, Chicago · Sun, 19 Jul 2026
+- Bodega Taqueria y Tequila, Chicago · Sun, 21 Jun 2026
+- Bourbon On Division, Chicago · Sat, 20 Jun 2026
+- TBA, Chicago · Tue, 17 Mar 2026
+- TBA, Chicago · Sat, 14 Mar 2026
+- Bourbon On Division, Chicago · Fri, 13 Feb 2026
 
 ## Shares bills with
 

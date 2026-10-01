@@ -1,6 +1,6 @@
 # Dick & Dom In Da Haunted Bungalow at O2 Academy Bristol
 
-Dick & Dom In Da Haunted Bungalow at O2 Academy Bristol on Sat 31 Oct, Bristol. Drum & Bass and Club. Preview the line-up and save it on soundcheck.
+Dick & Dom In Da Haunted Bungalow at O2 Academy Bristol on Sat 31 Oct, Bristol. Drum & Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

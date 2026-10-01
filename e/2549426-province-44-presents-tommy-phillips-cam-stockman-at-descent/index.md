@@ -1,6 +1,6 @@
 # PROVINCE 44 presents Tommy Phillips + Cam Stockman at Descent
 
-PROVINCE 44 presents Tommy Phillips + Cam Stockman at Descent on Sat 5 Dec, Boston. 2 artists on the bill: Cam Stockman and Tommy Phillips. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+PROVINCE 44 presents Tommy Phillips + Cam Stockman at Descent on Sat 5 Dec, Boston. 2 artists: Cam Stockman and Tommy Phillips. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

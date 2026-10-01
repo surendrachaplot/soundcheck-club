@@ -1,6 +1,6 @@
 # Break Fast || Malaga Sin Ciy at Malaga Sin City
 
-Break Fast || Malaga Sin Ciy at Malaga Sin City on Thu 1 Oct, Milan. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Break Fast || Malaga Sin Ciy at Malaga Sin City on Thu 1 Oct, Milan. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

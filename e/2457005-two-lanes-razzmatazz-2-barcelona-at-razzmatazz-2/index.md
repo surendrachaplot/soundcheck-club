@@ -1,6 +1,6 @@
 # TWO LANES - Razzmatazz 2, Barcelona at Razzmatazz 2
 
-TWO LANES - Razzmatazz 2, Barcelona on Wed 14 Oct, Barcelona. 1 artist on the bill: TWO LANES. Electronica. Preview the line-up and save it on soundcheck.
+TWO LANES - Razzmatazz 2, Barcelona on Wed 14 Oct, Barcelona. 1 artist: TWO LANES. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

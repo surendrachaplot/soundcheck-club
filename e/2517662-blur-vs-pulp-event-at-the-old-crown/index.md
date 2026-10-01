@@ -1,6 +1,6 @@
 # Blur vs Pulp event at The Old Crown
 
-Blur vs Pulp event at The Old Crown on Fri 16 Oct, Birmingham. Funk / Soul and Pop. Preview the line-up and save it on soundcheck.
+Blur vs Pulp event at The Old Crown on Fri 16 Oct, Birmingham. Funk / Soul and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

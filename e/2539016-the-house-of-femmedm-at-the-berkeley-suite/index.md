@@ -1,6 +1,6 @@
 # THE HOUSE OF FemmeDM at The Berkeley Suite
 
-THE HOUSE OF FemmeDM at The Berkeley Suite on Thu 29 Oct, Glasgow. 2 artists on the bill: Princess Elf Bar and Rebekah Abdeen. Techno and Electro. Preview the line-up and save it on soundcheck.
+THE HOUSE OF FemmeDM at The Berkeley Suite on Thu 29 Oct, Glasgow. 2 artists: Princess Elf Bar and Rebekah Abdeen. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

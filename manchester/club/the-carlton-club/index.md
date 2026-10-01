@@ -1,8 +1,8 @@
 # The Carlton Club
 
-The Carlton Club is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "HALLOWEEN! w babyschön & Zmatsutsi [Live]" on Sat, 31 Oct 2026.
+The Carlton Club is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HALLOWEEN! w babyschön & Zmatsutsi [Live]" on Sat, 31 Oct 2026.
 
-The Carlton Club is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including babyschön, Musaji, Saytek and Semi Peppered and 1 more. Browse upcoming dates, start times and who's playing. Rowan Lodge, 113 Carlton Rd, Whalley Range, Manchester M16 8BE.
+The Carlton Club is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including babyschön, Musaji, Saytek and Semi Peppered and 1 more. See dates, start times and who's playing. Rowan Lodge, 113 Carlton Rd, Whalley Range, Manchester M16 8BE.
 
 ## What's on
 

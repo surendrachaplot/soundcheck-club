@@ -1,6 +1,6 @@
 # Oh1538 x XLR [B.Y.O.B] at XLR
 
-Oh1538 x XLR [B.Y.O.B] on Sat 17 Oct, Manchester. House and Garage. Preview the line-up and save it on soundcheck.
+Oh1538 x XLR [B.Y.O.B] on Sat 17 Oct, Manchester. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

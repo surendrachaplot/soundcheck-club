@@ -1,6 +1,6 @@
 # John Summit - CTRL ESCAPE ARENA TOUR at United Center
 
-John Summit - CTRL ESCAPE ARENA TOUR at United Center on Tue 24 Nov, Chicago. 1 artist on the bill: John Summit. House. Preview the line-up and save it on soundcheck.
+John Summit - CTRL ESCAPE ARENA TOUR at United Center on Tue 24 Nov, Chicago. 1 artist: John Summit. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

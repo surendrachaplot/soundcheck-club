@@ -1,6 +1,6 @@
 # IDEMI at Smoke & Mirrors
 
-IDEMI at Smoke & Mirrors on Sat 7 Nov, Chicago. 1 artist on the bill: IDEMI. House and Minimal. Preview the line-up and save it on soundcheck.
+IDEMI at Smoke & Mirrors on Sat 7 Nov, Chicago. 1 artist: IDEMI. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

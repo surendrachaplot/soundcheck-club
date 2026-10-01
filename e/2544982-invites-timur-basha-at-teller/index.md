@@ -1,6 +1,6 @@
 # Invites Timur Basha at teller
 
-Invites Timur Basha at teller on Fri 16 Oct, Seoul. 1 artist on the bill: Timur Basha. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Invites Timur Basha at teller on Fri 16 Oct, Seoul. 1 artist: Timur Basha. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

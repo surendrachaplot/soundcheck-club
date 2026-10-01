@@ -1,8 +1,8 @@
 # Thompsons Garage
 
-Thompsons Garage is a music venue in Belfast with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Misfit: Fridays: Thompsons" on Fri, 2 Oct 2026.
+Thompsons Garage is a music venue in Belfast with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Misfit: Fridays: Thompsons" on Fri, 2 Oct 2026.
 
-Thompsons Garage is a music venue in Belfast listed on soundcheck. 6 upcoming gigs, with line-ups including Misfit DJs. Browse upcoming dates, start times and who's playing. 3 Patterson’s Place; Belfast BT1 4HW; United Kingdom.
+Thompsons Garage is a music venue in Belfast listed on soundcheck. 6 upcoming gigs, with line-ups including Misfit DJs. See dates, start times and who's playing. 3 Patterson’s Place; Belfast BT1 4HW; United Kingdom.
 
 ## What's on
 

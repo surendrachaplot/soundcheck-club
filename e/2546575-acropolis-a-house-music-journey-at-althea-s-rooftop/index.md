@@ -1,6 +1,6 @@
 # Acropolis - A House Music Journey at Althea's Rooftop
 
-Acropolis - A House Music Journey at Althea's Rooftop on Fri 2 Oct, New York City. 1 artist on the bill: GIO (AR). House and Afro House. Preview the line-up and save it on soundcheck.
+Acropolis - A House Music Journey at Althea's Rooftop on Fri 2 Oct, New York City. 1 artist: GIO (AR). House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

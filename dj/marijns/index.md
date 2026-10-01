@@ -1,8 +1,8 @@
 # Marijn S
 
-Marijn S is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
+Marijn S is a Electro and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Noord, Amsterdam on Sat, 17 Oct 2026.
 
-Marijn S is an electro and breakbeat artist based in Netherlands, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Glasgow and London and 5 more. Often billed alongside Emilio Arias, Acidgigi and RDS. Next up: Garage Noord, Amsterdam on Sat 17 Oct.
+Marijn S is an electro and breakbeat artist based in Netherlands, with 51 gigs on soundcheck across Amsterdam, Barcelona, Glasgow and London and 5 more. Often billed alongside Emilio Arias, Acidgigi and RDS. Next up: Garage Noord, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Marijn S is an electro and breakbeat artist based in Netherlands, tracked on sou
 
 ## Recently played
 
-- dubble, Amsterdam — Sat, 19 Sept 2026
-- ISOamsterdam, Amsterdam — Sat, 12 Sept 2026
-- Garage Noord, Amsterdam — Fri, 7 Aug 2026
-- San Francisco, Amsterdam — Sat, 27 Jun 2026
-- San Francisco, Amsterdam — Fri, 22 May 2026
-- Time is the new space, Rotterdam — Sat, 9 May 2026
-- San Francisco, Amsterdam — Sun, 22 Mar 2026
-- Garage Noord, Amsterdam — Sat, 14 Mar 2026
+- dubble, Amsterdam · Sat, 19 Sept 2026
+- ISOamsterdam, Amsterdam · Sat, 12 Sept 2026
+- Garage Noord, Amsterdam · Fri, 7 Aug 2026
+- San Francisco, Amsterdam · Sat, 27 Jun 2026
+- San Francisco, Amsterdam · Fri, 22 May 2026
+- Time is the new space, Rotterdam · Sat, 9 May 2026
+- San Francisco, Amsterdam · Sun, 22 Mar 2026
+- Garage Noord, Amsterdam · Sat, 14 Mar 2026
 
 ## Shares bills with
 

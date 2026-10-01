@@ -1,8 +1,8 @@
 # Koven
 
-Koven is a Drum & Bass and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Koven is a Drum & Bass and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Koven is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Auckland and Brisbane and 22 more. Often billed alongside Hybrid Minds, Camo & Krooked and Circadian. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Koven is a drum & bass and bass artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Brisbane and 22 more. Often billed alongside Hybrid Minds, Camo & Krooked and Circadian. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Koven is a drum & bass and bass artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Lakota, Bristol — Sat, 19 Sept 2026
-- fabric, London — Fri, 4 Sept 2026
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- Tägi, Zurich — Fri, 10 Jul 2026
-- Ashton Court Estate, Bristol — Sat, 23 May 2026
-- Brussels Expo, Brussels — Tue, 30 Dec 2025
-- Akvárium Klub, Budapest — Fri, 5 Dec 2025
-- TBA - Rua Barra Funda, 973 - Barra Funda, São Paulo - SP, 01152-000, Brazil, Sao Paulo — Fri, 5 Dec 2025
+- Lakota, Bristol · Sat, 19 Sept 2026
+- fabric, London · Fri, 4 Sept 2026
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- Tägi, Zurich · Fri, 10 Jul 2026
+- Ashton Court Estate, Bristol · Sat, 23 May 2026
+- Brussels Expo, Brussels · Tue, 30 Dec 2025
+- Akvárium Klub, Budapest · Fri, 5 Dec 2025
+- TBA - Rua Barra Funda, 973 - Barra Funda, São Paulo - SP, 01152-000, Brazil, Sao Paulo · Fri, 5 Dec 2025
 
 ## Shares bills with
 

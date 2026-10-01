@@ -1,6 +1,6 @@
 # EVEPHY pres. 岩汐6.0：界中界 at OIL Club
 
-EVEPHY pres. 岩汐6.0：界中界 at OIL Club on Sun 8 Nov, Shenzhen. Preview the line-up and save it on soundcheck.
+EVEPHY pres. 岩汐6.0：界中界 at OIL Club on Sun 8 Nov, Shenzhen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

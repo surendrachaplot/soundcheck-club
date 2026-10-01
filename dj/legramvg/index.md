@@ -1,8 +1,8 @@
 # LEGRAM VG
 
-LEGRAM VG is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Warehouse Location, Boston on Sat, 10 Oct 2026.
+LEGRAM VG is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Warehouse Location, Boston on Sat, 10 Oct 2026.
 
-LEGRAM VG is a house and electro artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Barcelona, Berlin, Boston and Brussels and 18 more. Often billed alongside Anaïs Liro, Oscar VG and Lumbago. Next up: TBA - Secret Warehouse Location, Boston on Sat 10 Oct.
+LEGRAM VG is a house and electro artist based in United Kingdom, with 63 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 18 more. Often billed alongside Anaïs Liro, Oscar VG and Lumbago. Next up: TBA - Secret Warehouse Location, Boston on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ LEGRAM VG is a house and electro artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Le Sucre, Lyon — Sat, 26 Sept 2026
-- Le Trabendo, Paris — Fri, 11 Sept 2026
-- TBA - INTIMATE VENUE / LIMITED CAP, Lyon — Sat, 18 Jul 2026
-- Le point fort d'Aubervilliers, Paris — Sat, 11 Jul 2026
-- TBA - SECRET LOCATION 45 min from BCN , Barcelona — Fri, 10 Jul 2026
-- TBA - CHATEAU DE TILLOLOY, 80700 TILLOLOY, FRANCE, Paris — Fri, 5 Jun 2026
-- TBA - Vaise, Lyon — Thu, 14 May 2026
-- TBA - Marseille 13014, Marseille — Sat, 2 May 2026
+- Le Sucre, Lyon · Sat, 26 Sept 2026
+- Le Trabendo, Paris · Fri, 11 Sept 2026
+- TBA - INTIMATE VENUE / LIMITED CAP, Lyon · Sat, 18 Jul 2026
+- Le point fort d'Aubervilliers, Paris · Sat, 11 Jul 2026
+- TBA - SECRET LOCATION 45 min from BCN , Barcelona · Fri, 10 Jul 2026
+- TBA - CHATEAU DE TILLOLOY, 80700 TILLOLOY, FRANCE, Paris · Fri, 5 Jun 2026
+- TBA - Vaise, Lyon · Thu, 14 May 2026
+- TBA - Marseille 13014, Marseille · Sat, 2 May 2026
 
 ## Shares bills with
 

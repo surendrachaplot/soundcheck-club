@@ -1,6 +1,6 @@
 # 賽音 -Sci-On- at 88block
 
-賽音 -Sci-On- at 88block on Sun 4 Oct, Tokyo. 1 artist on the bill: Diceman. Bass and Dub. Preview the line-up and save it on soundcheck.
+賽音 -Sci-On- at 88block on Sun 4 Oct, Tokyo. 1 artist: Diceman. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

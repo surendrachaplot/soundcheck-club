@@ -1,6 +1,6 @@
 # HERNAN CATTANEO at Martina Beach
 
-HERNAN CATTANEO at Martina Beach on Wed 28 Oct, Mexico City. Progressive House. Preview the line-up and save it on soundcheck.
+HERNAN CATTANEO at Martina Beach on Wed 28 Oct, Mexico City. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

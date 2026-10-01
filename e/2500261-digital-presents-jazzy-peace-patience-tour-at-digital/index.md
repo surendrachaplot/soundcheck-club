@@ -1,6 +1,6 @@
 # DIGITAL Presents Jazzy: Peace & Patience Tour at Digital
 
-DIGITAL Presents Jazzy: Peace & Patience Tour at Digital on Sat 21 Nov, Newcastle. Preview the line-up and save it on soundcheck.
+DIGITAL Presents Jazzy: Peace & Patience Tour at Digital on Sat 21 Nov, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Obskur
 
-Obskur is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot, Cardiff on Sat, 3 Oct 2026.
+Obskur is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot, Cardiff on Sat, 3 Oct 2026.
 
-Obskur is a house and tech house artist tracked on soundcheck, with 157 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 38 more. Often billed alongside East End Dubs, Max Dean and Jamback. Next up: Depot, Cardiff on Sat 3 Oct.
+Obskur is a house and tech house artist, with 157 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 38 more. Often billed alongside East End Dubs, Max Dean and Jamback. Next up: Depot, Cardiff on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Obskur is a house and tech house artist tracked on soundcheck, with 157 sets log
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Sun, 27 Sept 2026
-- Blackstone Street Warehouse, Liverpool — Sat, 26 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 22 Sept 2026
-- Brisa Open Air, Barcelona — Sun, 20 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- [UNVRS], Ibiza — Wed, 9 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
+- Amnesia Ibiza, Ibiza · Sun, 27 Sept 2026
+- Blackstone Street Warehouse, Liverpool · Sat, 26 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 22 Sept 2026
+- Brisa Open Air, Barcelona · Sun, 20 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- [UNVRS], Ibiza · Wed, 9 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- Van Nelle Fabriek, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 

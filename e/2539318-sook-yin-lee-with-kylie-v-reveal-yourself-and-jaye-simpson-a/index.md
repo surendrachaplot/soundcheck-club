@@ -1,6 +1,6 @@
 # Sook-Yin Lee with Kylie V, Reveal Yourself, and jaye simpson at Red Gate Arts Society
 
-Sook-Yin Lee with Kylie V, Reveal Yourself, and jaye simpson at Red Gate Arts Society on Fri 23 Oct, Vancouver. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+Sook-Yin Lee with Kylie V, Reveal Yourself, and jaye simpson at Red Gate Arts Society on Fri 23 Oct, Vancouver. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

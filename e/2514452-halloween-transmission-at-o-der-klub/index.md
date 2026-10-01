@@ -1,6 +1,6 @@
 # HALLOWEEN TRANSMISSION at O der Klub
 
-HALLOWEEN TRANSMISSION at O der Klub on Sat 31 Oct, Vienna. Club. Preview the line-up and save it on soundcheck.
+HALLOWEEN TRANSMISSION at O der Klub on Sat 31 Oct, Vienna. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

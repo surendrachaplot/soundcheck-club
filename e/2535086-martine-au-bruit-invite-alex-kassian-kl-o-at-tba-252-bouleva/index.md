@@ -1,6 +1,6 @@
 # Martine Au Bruit invite Alex Kassian & Kléo at TBA - 252 boulevard Victor Hugo, Lille
 
-Martine Au Bruit invite Alex Kassian & Kléo at TBA - 252 boulevard Victor Hugo, Lille on Sat 10 Oct, North. 4 artists on the bill: Alex Kassian, Brunzi, Donov and Kléo. Preview the line-up and save it on soundcheck.
+Martine Au Bruit invite Alex Kassian & Kléo at TBA - 252 boulevard Victor Hugo, Lille on Sat 10 Oct, North. 4 artists: Alex Kassian, Brunzi, Donov and Kléo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

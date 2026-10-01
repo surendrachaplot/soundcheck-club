@@ -1,6 +1,6 @@
 # ROVR at Mitsuki
 
-ROVR at Mitsuki on Sun 4 Oct, Tokyo. Techno and House. Preview the line-up and save it on soundcheck.
+ROVR at Mitsuki on Sun 4 Oct, Tokyo. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

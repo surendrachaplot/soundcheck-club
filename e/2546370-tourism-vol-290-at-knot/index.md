@@ -1,6 +1,6 @@
 # TOURISM vol.290 at Knot
 
-TOURISM vol.290 at Knot on Thu 1 Oct, Tokyo. 1 artist on the bill: Homma Honganji. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+TOURISM vol.290 at Knot on Thu 1 Oct, Tokyo. 1 artist: Homma Honganji. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

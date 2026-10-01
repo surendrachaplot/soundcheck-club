@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus (Newcastle Debut) at World Headquarters
 
-Kylie Wears Berghaus (Newcastle Debut) at World Headquarters on Fri 20 Nov, Newcastle. 3 artists on the bill: Alousea, Kylie Wears Berghaus and Princess Elf Bar. Techno and House. Preview the line-up and save it on soundcheck.
+Kylie Wears Berghaus (Newcastle Debut) at World Headquarters on Fri 20 Nov, Newcastle. 3 artists: Alousea, Kylie Wears Berghaus and Princess Elf Bar. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

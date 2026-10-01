@@ -1,8 +1,8 @@
 # Charlie Sparks
 
-Charlie Sparks is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
+Charlie Sparks is a Techno and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Great Pyramids OF Giza, Egypt on Fri, 9 Oct 2026.
 
-Charlie Sparks is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 264 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 67 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
+Charlie Sparks is a techno and trance artist based in United Kingdom, with 264 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 67 more. Often billed alongside 999999999, Parfait and I Hate Models. Next up: The Great Pyramids OF Giza, Egypt on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Charlie Sparks is a techno and trance artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Sun, 20 Sept 2026
-- Matrez - Warehouse, Belgrade — Sat, 12 Sept 2026
-- Parc de la Serra de Mollerussa (Lérida), Barcelona — Sat, 5 Sept 2026
-- Kilomètre25, Paris — Fri, 4 Sept 2026
-- Boucher Road Fields, Belfast — Sat, 29 Aug 2026
-- The Telegraph Building, Belfast — Sat, 29 Aug 2026
-- Eden, Ibiza — Tue, 25 Aug 2026
-- Hï Ibiza, Ibiza — Sun, 16 Aug 2026
+- Amnesia Ibiza, Ibiza · Sun, 20 Sept 2026
+- Matrez - Warehouse, Belgrade · Sat, 12 Sept 2026
+- Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
+- Kilomètre25, Paris · Fri, 4 Sept 2026
+- Boucher Road Fields, Belfast · Sat, 29 Aug 2026
+- The Telegraph Building, Belfast · Sat, 29 Aug 2026
+- Eden, Ibiza · Tue, 25 Aug 2026
+- Hï Ibiza, Ibiza · Sun, 16 Aug 2026
 
 ## Shares bills with
 

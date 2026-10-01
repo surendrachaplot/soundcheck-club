@@ -1,6 +1,6 @@
 # AMSTERAW by RAWTHENTIC  - HOUSE & TECHNO at Oosterbar
 
-AMSTERAW by RAWTHENTIC  - HOUSE & TECHNO at Oosterbar on Thu 22 Oct, Amsterdam. 6 artists on the bill: Carabetta, Carlo Lio, Donnerstag and Joris Turenhout and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+AMSTERAW by RAWTHENTIC  - HOUSE & TECHNO at Oosterbar on Thu 22 Oct, Amsterdam. 6 artists: Carabetta, Carlo Lio, Donnerstag and Joris Turenhout and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

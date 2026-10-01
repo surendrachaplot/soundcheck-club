@@ -1,6 +1,6 @@
 # Steel City Dance Discs | X CLUB., Tommy Holohan, Clouds + more at SWG3
 
-Steel City Dance Discs | X CLUB., Tommy Holohan, Clouds + more at SWG3 on Sat 28 Nov, Glasgow. 4 artists on the bill: Clouds, Jenn Gunn, Tommy Holohan and X CLUB.. Trance and Techno. Preview the line-up and save it on soundcheck.
+Steel City Dance Discs | X CLUB., Tommy Holohan, Clouds + more at SWG3 on Sat 28 Nov, Glasgow. 4 artists: Clouds, Jenn Gunn, Tommy Holohan and X CLUB.. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

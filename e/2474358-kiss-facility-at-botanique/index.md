@@ -1,6 +1,6 @@
 # Kiss Facility at Botanique
 
-Kiss Facility at Botanique on Fri 9 Oct, Brussels. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Kiss Facility at Botanique on Fri 9 Oct, Brussels. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

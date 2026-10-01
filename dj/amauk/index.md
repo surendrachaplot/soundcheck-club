@@ -1,8 +1,8 @@
 # Ama (UK)
 
-Ama (UK) is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Onyx (E1), London on Fri, 23 Oct 2026.
+Ama (UK) is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onyx (E1), London on Fri, 23 Oct 2026.
 
-Ama (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Bali, Birmingham and Brighton and 10 more. Often billed alongside Grooverider, Hybrid Minds and Voltage. Next up: Onyx (E1), London on Fri 23 Oct.
+Ama (UK) is a drum & bass and jungle artist based in United Kingdom, with 45 gigs on soundcheck across Amsterdam, Bali, Birmingham and Brighton and 10 more. Often billed alongside Grooverider, Hybrid Minds and Voltage. Next up: Onyx (E1), London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ama (UK) is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- High Lights - Barking Park, London — Sun, 31 May 2026
-- Brixton Jamm, London — Thu, 9 Apr 2026
-- Planet Wax, London — Thu, 5 Mar 2026
-- Hootananny Brixton, London — Sat, 13 Dec 2025
-- Hootananny Brixton, London — Sat, 13 Dec 2025
-- Quarters, Brighton — Fri, 28 Nov 2025
-- Distillery, Leipzig — Fri, 26 Sept 2025
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- High Lights - Barking Park, London · Sun, 31 May 2026
+- Brixton Jamm, London · Thu, 9 Apr 2026
+- Planet Wax, London · Thu, 5 Mar 2026
+- Hootananny Brixton, London · Sat, 13 Dec 2025
+- Hootananny Brixton, London · Sat, 13 Dec 2025
+- Quarters, Brighton · Fri, 28 Nov 2025
+- Distillery, Leipzig · Fri, 26 Sept 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Hippie New Year at Ritter Butzke
 
-Hippie New Year at Ritter Butzke on Thu 31 Dec, Berlin. 7 artists on the bill: Aaron Hibell, Dominik Eulberg, Einmusik and Malouna and 3 more. Preview the line-up and save it on soundcheck.
+Hippie New Year at Ritter Butzke on Thu 31 Dec, Berlin. 7 artists: Aaron Hibell, Dominik Eulberg, Einmusik and Malouna and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

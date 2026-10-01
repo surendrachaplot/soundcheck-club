@@ -1,6 +1,6 @@
 # TECHNOBULL: Connor Wall (Moving Pressure, Phorum, WSNWG /AUS) Allegretti, Mikes at Astoria
 
-TECHNOBULL: Connor Wall (Moving Pressure, Phorum, WSNWG /AUS) Allegretti, Mikes at Astoria on Fri 2 Oct, Turin. 3 artists on the bill: Allegretti, Connor Wall and Mike Esse. Techno. Preview the line-up and save it on soundcheck.
+TECHNOBULL: Connor Wall (Moving Pressure, Phorum, WSNWG /AUS) Allegretti, Mikes at Astoria on Fri 2 Oct, Turin. 3 artists: Allegretti, Connor Wall and Mike Esse. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

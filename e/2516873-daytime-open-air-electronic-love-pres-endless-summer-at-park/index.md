@@ -1,6 +1,6 @@
 # DAYTIME OPEN AIR * electronic love pres. ENDLESS SUMMER at Park.Cologne
 
-DAYTIME OPEN AIR * electronic love pres. ENDLESS SUMMER at Park.Cologne on Sat 3 Oct, Cologne. 1 artist on the bill: CRITICAL ERROR 404. Trance. Preview the line-up and save it on soundcheck.
+DAYTIME OPEN AIR * electronic love pres. ENDLESS SUMMER at Park.Cologne on Sat 3 Oct, Cologne. 1 artist: CRITICAL ERROR 404. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

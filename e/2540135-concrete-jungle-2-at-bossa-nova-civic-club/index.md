@@ -1,6 +1,6 @@
 # CONCRETE JUNGLE #2 at Bossa Nova Civic Club
 
-CONCRETE JUNGLE #2 at Bossa Nova Civic Club on Thu 8 Oct, New York City. 5 artists on the bill: Ayanna Heaven, Honey Bun, shekdash and XXHARDBIT3S and 1 more. Jungle. Preview the line-up and save it on soundcheck.
+CONCRETE JUNGLE #2 at Bossa Nova Civic Club on Thu 8 Oct, New York City. 5 artists: Ayanna Heaven, Honey Bun, shekdash and XXHARDBIT3S and 1 more. Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

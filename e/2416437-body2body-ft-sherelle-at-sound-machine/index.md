@@ -1,6 +1,6 @@
 # body2body ft. SHERELLE at Sound Machine
 
-body2body ft. SHERELLE at Sound Machine on Fri 9 Oct, Toronto. 5 artists on the bill: Chinelo, Jamvvis, Marcus Visionary and Raf Reza and 1 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
+body2body ft. SHERELLE at Sound Machine on Fri 9 Oct, Toronto. 5 artists: Chinelo, Jamvvis, Marcus Visionary and Raf Reza and 1 more. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

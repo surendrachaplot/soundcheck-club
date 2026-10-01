@@ -1,8 +1,8 @@
 # bertziherzi
 
-bertziherzi is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery, Leipzig on Fri, 30 Oct 2026.
+bertziherzi is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Fri, 30 Oct 2026.
 
-bertziherzi is a trance and techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin and Leipzig. Often billed alongside Limoncello, BENITO (DE) and DJ KAMMERFLIMMERN. Next up: Distillery, Leipzig on Fri 30 Oct.
+bertziherzi is a trance and techno artist based in Germany, with 8 gigs on soundcheck across Berlin and Leipzig. Often billed alongside Limoncello, BENITO (DE) and DJ KAMMERFLIMMERN. Next up: Distillery, Leipzig on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ bertziherzi is a trance and techno artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Absturz, Leipzig — Fri, 11 Sept 2026
-- elipamanoke, Leipzig — Sat, 4 Jul 2026
-- Lokschuppen Berlin, Berlin — Sun, 3 May 2026
-- Westhafen, Leipzig — Sat, 28 Mar 2026
-- ÆDEN, Berlin — Fri, 20 Mar 2026
-- Void Club, Berlin — Fri, 27 Feb 2026
-- ://about blank, Berlin — Sat, 7 Feb 2026
+- Absturz, Leipzig · Fri, 11 Sept 2026
+- elipamanoke, Leipzig · Sat, 4 Jul 2026
+- Lokschuppen Berlin, Berlin · Sun, 3 May 2026
+- Westhafen, Leipzig · Sat, 28 Mar 2026
+- ÆDEN, Berlin · Fri, 20 Mar 2026
+- Void Club, Berlin · Fri, 27 Feb 2026
+- ://about blank, Berlin · Sat, 7 Feb 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Terrazzza at Supermarket
 
-Terrazzza at Supermarket on Sat 3 Oct, Zurich. 3 artists on the bill: Alex Kennon, And Hazel and Kantarik. House and Tech House. Preview the line-up and save it on soundcheck.
+Terrazzza at Supermarket on Sat 3 Oct, Zurich. 3 artists: Alex Kennon, And Hazel and Kantarik. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

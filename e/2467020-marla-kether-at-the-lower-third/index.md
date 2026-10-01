@@ -1,6 +1,6 @@
 # Marla Kether at The Lower Third
 
-Marla Kether at The Lower Third on Mon 9 Nov, London. Preview the line-up and save it on soundcheck.
+Marla Kether at The Lower Third on Mon 9 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

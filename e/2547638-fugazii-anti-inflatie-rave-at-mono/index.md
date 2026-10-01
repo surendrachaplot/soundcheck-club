@@ -1,6 +1,6 @@
 # Fugazii - Anti Inflatie Rave at Mono
 
-Fugazii - Anti Inflatie Rave at Mono on Sat 3 Oct, Rotterdam. 3 artists on the bill: Franky Sticks, Jewel and Shinshan Salazar. Bass and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Fugazii - Anti Inflatie Rave at Mono on Sat 3 Oct, Rotterdam. 3 artists: Franky Sticks, Jewel and Shinshan Salazar. Bass and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

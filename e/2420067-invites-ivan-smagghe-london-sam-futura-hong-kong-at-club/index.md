@@ -1,6 +1,6 @@
 # 宀 Invites Ivan Smagghe (London) + SAM Futura. (宀, Hong Kong) at 宀 Club
 
-宀 Invites Ivan Smagghe (London) + SAM Futura. (宀, Hong Kong) at 宀 Club on Sat 7 Nov, Hong Kong. 2 artists on the bill: Ivan Smagghe and SAM Futura.. House. Preview the line-up and save it on soundcheck.
+宀 Invites Ivan Smagghe (London) + SAM Futura. (宀, Hong Kong) at 宀 Club on Sat 7 Nov, Hong Kong. 2 artists: Ivan Smagghe and SAM Futura.. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

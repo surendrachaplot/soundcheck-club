@@ -1,6 +1,6 @@
 # Elastica: KITTIN ❚ Homemade Explosives ❚ Interiors ❚ MARIJUS KLIMAITIS at Elastica
 
-Elastica: KITTIN ❚ Homemade Explosives ❚ Interiors ❚ MARIJUS KLIMAITIS on Fri 16 Oct, Vilnius. 3 artists on the bill: Homemade Explosives, Interiors and Miss Kittin. Preview the line-up and save it on soundcheck.
+Elastica: KITTIN ❚ Homemade Explosives ❚ Interiors ❚ MARIJUS KLIMAITIS on Fri 16 Oct, Vilnius. 3 artists: Homemade Explosives, Interiors and Miss Kittin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

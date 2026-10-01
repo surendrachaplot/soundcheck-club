@@ -1,6 +1,6 @@
 # Full Fat Leeds at Under The Arches
 
-Full Fat Leeds at Under The Arches on Sat 14 Nov, Leeds. 1 artist on the bill: Fat Tony. House and Disco. Preview the line-up and save it on soundcheck.
+Full Fat Leeds at Under The Arches on Sat 14 Nov, Leeds. 1 artist: Fat Tony. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

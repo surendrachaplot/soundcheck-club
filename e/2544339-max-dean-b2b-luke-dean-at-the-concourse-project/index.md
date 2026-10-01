@@ -1,6 +1,6 @@
 # Max Dean b2b Luke Dean at The Concourse Project
 
-Max Dean b2b Luke Dean at The Concourse Project on Sat 2 Jan, Austin. 1 artist on the bill: Max Dean. Preview the line-up and save it on soundcheck.
+Max Dean b2b Luke Dean at The Concourse Project on Sat 2 Jan, Austin. 1 artist: Max Dean. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

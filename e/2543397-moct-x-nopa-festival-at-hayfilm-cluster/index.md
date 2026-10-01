@@ -1,6 +1,6 @@
 # MOCT x NOPA Festival at Hayfilm Cluster
 
-MOCT x NOPA Festival at Hayfilm Cluster on Sat 3 Oct, Armenia. 9 artists on the bill: Animistic Beliefs, ÉLÉKTRA, kamunts and Kogeno and 5 more. Preview the line-up and save it on soundcheck.
+MOCT x NOPA Festival at Hayfilm Cluster on Sat 3 Oct, Armenia. 9 artists: Animistic Beliefs, ÉLÉKTRA, kamunts and Kogeno and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

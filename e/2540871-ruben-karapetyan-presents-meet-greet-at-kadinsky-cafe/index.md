@@ -1,6 +1,6 @@
 # Ruben Karapetyan presents Meet & Greet at Kadinsky Cafe
 
-Ruben Karapetyan presents Meet & Greet at Kadinsky Cafe on Sat 24 Oct, Amsterdam. 4 artists on the bill: Abity, ALISHA, Dowden and Not Demure. Progressive House. Preview the line-up and save it on soundcheck.
+Ruben Karapetyan presents Meet & Greet at Kadinsky Cafe on Sat 24 Oct, Amsterdam. 4 artists: Abity, ALISHA, Dowden and Not Demure. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

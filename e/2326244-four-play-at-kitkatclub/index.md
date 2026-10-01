@@ -1,6 +1,6 @@
 # Four Play at KitKatClub
 
-Four Play at KitKatClub on Fri 2 Oct, Berlin. 16 artists on the bill: Bonnie Ford, Burnhard, digitalsteak and Don Andres and 12 more. Techno and House. Preview the line-up and save it on soundcheck.
+Four Play at KitKatClub on Fri 2 Oct, Berlin. 16 artists: Bonnie Ford, Burnhard, digitalsteak and Don Andres and 12 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

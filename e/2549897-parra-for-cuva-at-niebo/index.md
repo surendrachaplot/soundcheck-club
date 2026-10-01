@@ -1,6 +1,6 @@
 # PARRA FOR CUVA at NIEBO
 
-PARRA FOR CUVA at NIEBO on Fri 9 Oct, Warsaw. 1 artist on the bill: Parra for Cuva. Afro House and Electronica. Preview the line-up and save it on soundcheck.
+PARRA FOR CUVA at NIEBO on Fri 9 Oct, Warsaw. 1 artist: Parra for Cuva. Afro House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

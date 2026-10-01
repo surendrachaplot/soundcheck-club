@@ -1,8 +1,8 @@
 # Shannen SP
 
-Shannen SP is a Amapiano and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hotel Forum, Krakow on Fri, 9 Oct 2026.
+Shannen SP is a Amapiano and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Forum, Krakow on Fri, 9 Oct 2026.
 
-Shannen SP is an amapiano and club artist based in United Kingdom, tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: Hotel Forum, Krakow on Fri 9 Oct.
+Shannen SP is an amapiano and club artist based in United Kingdom, with 63 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 19 more. Often billed alongside Bok Bok, Ikonika and Nico Adomako. Next up: Hotel Forum, Krakow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Shannen SP is an amapiano and club artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Ääniwalli, Helsinki — Sat, 26 Sept 2026
-- M.O.T, London — Sat, 29 Aug 2026
-- The Carpet Shop, London — Fri, 14 Aug 2026
-- Abercrombie Hotel, Sydney — Fri, 17 Jul 2026
-- OHM, Berlin — Fri, 26 Jun 2026
-- Badaboum, Paris — Sun, 21 Jun 2026
-- Peckham Rye Park, London — Fri, 22 May 2026
-- Palais, London — Fri, 22 May 2026
+- Ääniwalli, Helsinki · Sat, 26 Sept 2026
+- M.O.T, London · Sat, 29 Aug 2026
+- The Carpet Shop, London · Fri, 14 Aug 2026
+- Abercrombie Hotel, Sydney · Fri, 17 Jul 2026
+- OHM, Berlin · Fri, 26 Jun 2026
+- Badaboum, Paris · Sun, 21 Jun 2026
+- Peckham Rye Park, London · Fri, 22 May 2026
+- Palais, London · Fri, 22 May 2026
 
 ## Shares bills with
 

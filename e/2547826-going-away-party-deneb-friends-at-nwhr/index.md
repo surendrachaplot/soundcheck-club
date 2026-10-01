@@ -1,6 +1,6 @@
 # Going Away Party: Deneb & Friends at NWHR
 
-Going Away Party: Deneb & Friends at NWHR on Sun 11 Oct, Montreal. 1 artist on the bill: Deneb. Preview the line-up and save it on soundcheck.
+Going Away Party: Deneb & Friends at NWHR on Sun 11 Oct, Montreal. 1 artist: Deneb. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

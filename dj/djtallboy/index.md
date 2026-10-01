@@ -1,8 +1,8 @@
 # DJ Tallboy
 
-DJ Tallboy is a Trance and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ansgarikirchhof Bremen, Bremen on Fri, 2 Oct 2026.
+DJ Tallboy is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ansgarikirchhof Bremen, Bremen on Fri, 2 Oct 2026.
 
-DJ Tallboy is a trance and techno artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin, Bremen, Cologne and Hamburg and 10 more. Often billed alongside DJ Discostoff, Rosilicious and 4NOUK. Next up: Ansgarikirchhof Bremen, Bremen on Fri 2 Oct.
+DJ Tallboy is a trance and techno artist based in Germany, with 63 gigs on soundcheck across Berlin, Bremen, Cologne and Hamburg and 10 more. Often billed alongside DJ Discostoff, Rosilicious and 4NOUK. Next up: Ansgarikirchhof Bremen, Bremen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ DJ Tallboy is a trance and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Fri, 18 Sept 2026
-- Humboldthain Club, Berlin — Fri, 4 Sept 2026
-- Lokschuppen Berlin, Berlin — Sat, 1 Aug 2026
-- TBA - Peißnitzinsel Halle, Leipzig — Sat, 1 Aug 2026
-- ://about blank, Berlin — Sat, 18 Jul 2026
-- Bootshaus, Cologne — Thu, 2 Jul 2026
-- Odonien, Cologne — Sat, 27 Jun 2026
-- Lokschuppen Berlin, Berlin — Fri, 26 Jun 2026
+- Lokschuppen Berlin, Berlin · Fri, 18 Sept 2026
+- Humboldthain Club, Berlin · Fri, 4 Sept 2026
+- Lokschuppen Berlin, Berlin · Sat, 1 Aug 2026
+- TBA - Peißnitzinsel Halle, Leipzig · Sat, 1 Aug 2026
+- ://about blank, Berlin · Sat, 18 Jul 2026
+- Bootshaus, Cologne · Thu, 2 Jul 2026
+- Odonien, Cologne · Sat, 27 Jun 2026
+- Lokschuppen Berlin, Berlin · Fri, 26 Jun 2026
 
 ## Shares bills with
 

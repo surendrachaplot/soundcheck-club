@@ -1,6 +1,6 @@
 # FRISK Picnic at Objktt Record Bar
 
-FRISK Picnic at Objktt Record Bar on Sat 10 Oct, Seoul. 4 artists on the bill: Demuk, Departs, Silly Silky and Sudowoo. House. Preview the line-up and save it on soundcheck.
+FRISK Picnic at Objktt Record Bar on Sat 10 Oct, Seoul. 4 artists: Demuk, Departs, Silly Silky and Sudowoo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

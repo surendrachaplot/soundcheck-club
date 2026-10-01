@@ -1,6 +1,6 @@
 # Brigado Crew at La Cantera, Cordoba - Argentina at TBA
 
-Brigado Crew at La Cantera, Cordoba - Argentina at TBA on Sun 11 Oct, Argentina. 1 artist on the bill: Brigado Crew. Preview the line-up and save it on soundcheck.
+Brigado Crew at La Cantera, Cordoba - Argentina at TBA on Sun 11 Oct, Argentina. 1 artist: Brigado Crew. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

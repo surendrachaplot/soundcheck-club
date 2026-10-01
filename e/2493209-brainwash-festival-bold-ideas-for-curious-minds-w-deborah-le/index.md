@@ -1,6 +1,6 @@
 # Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy at Skatecafe
 
-Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy at Skatecafe on Thu 29 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Brainwash Festival: Bold Ideas For Curious Minds w/ Deborah Levy at Skatecafe on Thu 29 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

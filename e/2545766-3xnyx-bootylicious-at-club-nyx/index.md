@@ -1,6 +1,6 @@
 # 3xNYX: Bootylicious at Club NYX
 
-3xNYX: Bootylicious at Club NYX on Sat 14 Nov, Amsterdam. 3 artists on the bill: Babs op de beat, MeRas and MXV. Dancehall and R&B. Preview the line-up and save it on soundcheck.
+3xNYX: Bootylicious at Club NYX on Sat 14 Nov, Amsterdam. 3 artists: Babs op de beat, MeRas and MXV. Dancehall and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

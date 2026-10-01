@@ -1,6 +1,6 @@
 # 𝗬𝗢𝗞 𝗬𝗢𝗞 𝗘𝗗𝗘𝗡 𝗦𝗨𝗠𝗠𝗘𝗥 𝗖𝗟𝗢𝗦𝗜𝗡𝗚 with Gregor Tresher & Chris Wood at TBA - Yok Yok EDEN, Wiesenhüttenplatz, Frankfurt
 
-𝗬𝗢𝗞 𝗬𝗢𝗞 𝗘𝗗𝗘𝗡 𝗦𝗨𝗠𝗠𝗘𝗥 𝗖𝗟𝗢𝗦𝗜𝗡𝗚 with Gregor Tresher & Chris Wood at TBA - Yok Yok EDEN, Wiesenhüttenplatz, Frankfurt on Fri 2 Oct, Frankfurt. 2 artists on the bill: Chris Wood and Gregor Tresher. House and Electronica. Preview the line-up and save it on soundcheck.
+𝗬𝗢𝗞 𝗬𝗢𝗞 𝗘𝗗𝗘𝗡 𝗦𝗨𝗠𝗠𝗘𝗥 𝗖𝗟𝗢𝗦𝗜𝗡𝗚 with Gregor Tresher & Chris Wood at TBA - Yok Yok EDEN, Wiesenhüttenplatz, Frankfurt on Fri 2 Oct, Frankfurt. 2 artists: Chris Wood and Gregor Tresher. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

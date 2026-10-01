@@ -1,6 +1,6 @@
 # ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax at DSTRKT Club Berlin
 
-ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax at DSTRKT Club Berlin on Sat 7 Nov, Berlin. Acid and Psytrance. Preview the line-up and save it on soundcheck.
+ELYSIUM - Fungus Funk - Rawar - Djantrix - Bombax at DSTRKT Club Berlin on Sat 7 Nov, Berlin. Acid and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

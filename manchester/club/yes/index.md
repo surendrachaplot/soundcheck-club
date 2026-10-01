@@ -1,8 +1,8 @@
 # Yes
 
-Yes is a music venue in Manchester with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "JIM (Live) + Thought Leadership" on Sun, 4 Oct 2026.
+Yes is a music venue in Manchester with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "JIM (Live) + Thought Leadership" on Sun, 4 Oct 2026.
 
-Yes is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with line-ups including Digitalism, Girls of the Internet, Harry Hayes and KD22LR and 2 more. Browse upcoming dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
+Yes is a music venue in Manchester listed on soundcheck. 15 upcoming gigs, with line-ups including Digitalism, Girls of the Internet, Harry Hayes and KD22LR and 2 more. See dates, start times and who's playing. 38 Charles Street Manchester, M1 7BD, United Kingdom.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Yes is a music venue in Manchester listed on soundcheck. 14 upcoming gigs, with 
 | Sat, 10 Oct 2026 | Harry Hayes - at Yes Manchester | Harry Hayes |
 | Fri, 16 Oct 2026 | Seb Wildblood + Sonnee | Seb Wildblood, Sonnee |
 | Sat, 17 Oct 2026 | Deptford Northern Soul Club |  |
+| Fri, 23 Oct 2026 | 3 YEARS OF HOUSE RULES COLLECTIVE |  |
 | Wed, 4 Nov 2026 | Grey Lantern presents: Maria BC |  |
 | Fri, 13 Nov 2026 | Reek0 - Hybrid Live and Extended DJ Set | Kusasa |
 | Sat, 21 Nov 2026 | 10 Years of Deptford Northern Soul Club |  |
-| Tue, 24 Nov 2026 | System Olympia (Live) | System Olympia |
 
 ## Address
 

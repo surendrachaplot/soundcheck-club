@@ -1,8 +1,8 @@
 # Mia Lund
 
-Mia Lund is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
+Mia Lund is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at De Fik Garden, Amsterdam on Sat, 24 Oct 2026.
 
-Mia Lund is a techno and trance artist based in Denmark, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin and Copenhagen. Often billed alongside LUCKY4U, Goldmund.99 and vSto. Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
+Mia Lund is a techno and trance artist based in Denmark, with 18 gigs on soundcheck across Amsterdam, Berlin and Copenhagen. Often billed alongside LUCKY4U, Goldmund.99 and vSto. Next up: De Fik Garden, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mia Lund is a techno and trance artist based in Denmark, tracked on soundcheck, 
 
 ## Recently played
 
-- Den Anden Side, Copenhagen — Sat, 22 Aug 2026
-- Jonny Knüppel, Berlin — Sat, 18 Jul 2026
-- OXI, Berlin — Thu, 16 Jul 2026
-- Void Club, Berlin — Fri, 5 Jun 2026
-- Hangaren, Copenhagen — Sun, 3 May 2026
-- TBA - Secret Location, Berlin — Fri, 1 May 2026
-- Block1, Berlin — Sun, 8 Mar 2026
-- TBA - Secret location Neukölln, Berlin — Fri, 23 Jan 2026
+- Den Anden Side, Copenhagen · Sat, 22 Aug 2026
+- Jonny Knüppel, Berlin · Sat, 18 Jul 2026
+- OXI, Berlin · Thu, 16 Jul 2026
+- Void Club, Berlin · Fri, 5 Jun 2026
+- Hangaren, Copenhagen · Sun, 3 May 2026
+- TBA - Secret Location, Berlin · Fri, 1 May 2026
+- Block1, Berlin · Sun, 8 Mar 2026
+- TBA - Secret location Neukölln, Berlin · Fri, 23 Jan 2026
 
 ## Shares bills with
 

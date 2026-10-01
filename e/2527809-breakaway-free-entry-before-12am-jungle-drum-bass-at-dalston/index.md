@@ -1,6 +1,6 @@
 # Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den
 
-Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den on Fri 16 Oct, London. Preview the line-up and save it on soundcheck.
+Breakaway: Free Entry Before 12am - Jungle / Drum & Bass at Dalston Den on Fri 16 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # All Kindza Madness - The Rave at Eutopia Whs
 
-All Kindza Madness - The Rave at Eutopia Whs on Fri 23 Oct, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+All Kindza Madness - The Rave at Eutopia Whs on Fri 23 Oct, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

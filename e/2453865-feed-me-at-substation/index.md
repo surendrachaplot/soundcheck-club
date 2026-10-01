@@ -1,6 +1,6 @@
 # Feed Me at Substation
 
-Feed Me at Substation on Fri 27 Nov, Seattle. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Feed Me at Substation on Fri 27 Nov, Seattle. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

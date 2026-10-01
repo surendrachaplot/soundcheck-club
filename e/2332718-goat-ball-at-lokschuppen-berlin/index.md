@@ -1,6 +1,6 @@
 # GOAT BALL at Lokschuppen Berlin
 
-GOAT BALL at Lokschuppen Berlin on Sat 19 Dec, Berlin. 7 artists on the bill: ANDATA, Cobb Douglas, Lola Cerise and SaltySis and 3 more. Preview the line-up and save it on soundcheck.
+GOAT BALL at Lokschuppen Berlin on Sat 19 Dec, Berlin. 7 artists: ANDATA, Cobb Douglas, Lola Cerise and SaltySis and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

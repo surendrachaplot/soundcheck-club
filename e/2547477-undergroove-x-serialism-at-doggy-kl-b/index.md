@@ -1,6 +1,6 @@
 # Undergroove x Serialism at Doggy Klœb
 
-Undergroove x Serialism at Doggy Klœb on Sat 17 Oct, Malaga. 2 artists on the bill: Arval and Cesare vs Disorder. Minimal and Electronica. Preview the line-up and save it on soundcheck.
+Undergroove x Serialism at Doggy Klœb on Sat 17 Oct, Malaga. 2 artists: Arval and Cesare vs Disorder. Minimal and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

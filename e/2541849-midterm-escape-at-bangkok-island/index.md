@@ -1,6 +1,6 @@
 # MIDTERM ESCAPE at Bangkok Island
 
-MIDTERM ESCAPE at Bangkok Island on Thu 8 Oct, Bangkok. Preview the line-up and save it on soundcheck.
+MIDTERM ESCAPE at Bangkok Island on Thu 8 Oct, Bangkok. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

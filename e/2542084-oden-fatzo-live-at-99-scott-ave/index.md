@@ -1,6 +1,6 @@
 # Oden & Fatzo Live at 99 Scott Ave
 
-Oden & Fatzo Live at 99 Scott Ave on Fri 11 Dec, New York City. House. Preview the line-up and save it on soundcheck.
+Oden & Fatzo Live at 99 Scott Ave on Fri 11 Dec, New York City. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

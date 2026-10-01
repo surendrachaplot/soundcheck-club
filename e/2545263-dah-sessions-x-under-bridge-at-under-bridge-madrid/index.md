@@ -1,6 +1,6 @@
 # DaH! Sessions x Under Bridge at Under Bridge Madrid
 
-DaH! Sessions x Under Bridge at Under Bridge Madrid on Sat 10 Oct, Madrid. 3 artists on the bill: Diego Merino, Giulia Mad and Jobe1811. Preview the line-up and save it on soundcheck.
+DaH! Sessions x Under Bridge at Under Bridge Madrid on Sat 10 Oct, Madrid. 3 artists: Diego Merino, Giulia Mad and Jobe1811. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

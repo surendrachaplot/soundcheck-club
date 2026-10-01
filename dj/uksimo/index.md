@@ -1,8 +1,8 @@
 # Uksimo
 
-Uksimo is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Waterhouse Studios, Amsterdam on Sat, 3 Oct 2026.
+Uksimo is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sat, 3 Oct 2026.
 
-Uksimo is a techno and house artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam. Often billed alongside Leen, MINNIEMEN and 42nd Avenue. Next up: Waterhouse Studios, Amsterdam on Sat 3 Oct.
+Uksimo is a techno and house artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam. Often billed alongside Leen, MINNIEMEN and 42nd Avenue. Next up: Waterhouse Studios, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Uksimo is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- Paradiso Noord / Tolhuistuin, Amsterdam — Sun, 23 Aug 2026
-- SISSI'S Amsterdam, Amsterdam — Fri, 13 Feb 2026
-- SISSI'S Amsterdam, Amsterdam — Sat, 17 Jan 2026
-- Der Hintergarten, Amsterdam — Sat, 6 Dec 2025
-- De Fik Garden, Amsterdam — Thu, 23 Oct 2025
-- TBA - HAL 25, Amsterdam — Sat, 20 Sept 2025
-- TBA - Waterhouse Studios (Read Description), Amsterdam — Sat, 13 Sept 2025
-- Noordspace, Amsterdam — Fri, 11 Jul 2025
+- Paradiso Noord / Tolhuistuin, Amsterdam · Sun, 23 Aug 2026
+- SISSI'S Amsterdam, Amsterdam · Fri, 13 Feb 2026
+- SISSI'S Amsterdam, Amsterdam · Sat, 17 Jan 2026
+- Der Hintergarten, Amsterdam · Sat, 6 Dec 2025
+- De Fik Garden, Amsterdam · Thu, 23 Oct 2025
+- TBA - HAL 25, Amsterdam · Sat, 20 Sept 2025
+- TBA - Waterhouse Studios (Read Description), Amsterdam · Sat, 13 Sept 2025
+- Noordspace, Amsterdam · Fri, 11 Jul 2025
 
 ## Shares bills with
 

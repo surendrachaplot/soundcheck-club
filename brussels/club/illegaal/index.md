@@ -1,8 +1,8 @@
 # Illegaal
 
-Illegaal is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ET_NÀ - Concert Release by Paola Di Bella" on Fri, 2 Oct 2026.
+Illegaal is a music venue in Brussels with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ET_NÀ - Concert Release by Paola Di Bella" on Fri, 2 Oct 2026.
 
-Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including Blazin' Bomzai, Godero, HypoGeo and Kathleen C and 2 more. Browse upcoming dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
+Illegaal is a music venue in Brussels listed on soundcheck. 7 upcoming gigs, with line-ups including Blazin' Bomzai, Godero, HypoGeo and Kathleen C and 2 more. See dates, start times and who's playing. Rue Bollinckx 300, 1190 Forest.
 
 ## What's on
 

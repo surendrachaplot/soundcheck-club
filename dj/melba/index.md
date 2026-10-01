@@ -1,8 +1,8 @@
 # melba
 
-melba is a Jungle and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
+melba is a Jungle and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 16 Oct 2026.
 
-melba is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Auckland, Berlin, Edinburgh and London and 5 more. Often billed alongside Nectax, e-kitty and Sketchy Rida. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
+melba is a jungle and bass artist based in United Kingdom, with 49 gigs on soundcheck across Auckland, Berlin, Edinburgh and London and 5 more. Often billed alongside Nectax, e-kitty and Sketchy Rida. Next up: NUMBER 90 LONDON, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ melba is a jungle and bass artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- The Clayshed, Newcastle — Sat, 26 Sept 2026
-- World Headquarters, Newcastle — Sat, 26 Sept 2026
-- Distillery N17, London — Fri, 14 Aug 2026
-- Sneaky Pete's, Edinburgh — Fri, 10 Jul 2026
-- Soup, Manchester — Sat, 23 May 2026
-- TBA - Melbourne, Melbourne — Sat, 25 Apr 2026
-- Neck of the Woods, Auckland — Sat, 18 Apr 2026
-- Section 8, Melbourne — Sat, 31 Jan 2026
+- The Clayshed, Newcastle · Sat, 26 Sept 2026
+- World Headquarters, Newcastle · Sat, 26 Sept 2026
+- Distillery N17, London · Fri, 14 Aug 2026
+- Sneaky Pete's, Edinburgh · Fri, 10 Jul 2026
+- Soup, Manchester · Sat, 23 May 2026
+- TBA - Melbourne, Melbourne · Sat, 25 Apr 2026
+- Neck of the Woods, Auckland · Sat, 18 Apr 2026
+- Section 8, Melbourne · Sat, 31 Jan 2026
 
 ## Shares bills with
 

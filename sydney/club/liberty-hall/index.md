@@ -1,8 +1,8 @@
 # Liberty Hall
 
-Liberty Hall is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Audioholics Sydney: Mariano Mellino, GMJ, Matter" on Sun, 4 Oct 2026.
+Liberty Hall is a music venue in Sydney with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Audioholics Sydney: Mariano Mellino, GMJ, Matter" on Sun, 4 Oct 2026.
 
-Liberty Hall is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including Bria, Caucasian Opportunities, Gilles Peterson and Jane Decks and 2 more. Browse upcoming dates, start times and who's playing. Entertainment Quarter, Building 220, The, Lang Rd, Moore Park NSW 2021.
+Liberty Hall is a music venue in Sydney listed on soundcheck. 8 upcoming gigs, with line-ups including Bria, Caucasian Opportunities, Gilles Peterson and Jane Decks and 2 more. See dates, start times and who's playing. Entertainment Quarter, Building 220, The, Lang Rd, Moore Park NSW 2021.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # TRAUMTÄNZER at Palais
 
-TRAUMTÄNZER at Palais on Sat 3 Oct, Munich. 1 artist on the bill: MARC WERNER. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TRAUMTÄNZER at Palais on Sat 3 Oct, Munich. 1 artist: MARC WERNER. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

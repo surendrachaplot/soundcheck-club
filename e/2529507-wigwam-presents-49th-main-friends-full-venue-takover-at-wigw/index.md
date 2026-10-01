@@ -1,6 +1,6 @@
 # Wigwam presents: 49th & Main & Friends (Full Venue Takover) at Wigwam
 
-Wigwam presents: 49th & Main & Friends (Full Venue Takover) on Sat 10 Oct, Dublin. Deep House. Preview the line-up and save it on soundcheck.
+Wigwam presents: 49th & Main & Friends (Full Venue Takover) on Sat 10 Oct, Dublin. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

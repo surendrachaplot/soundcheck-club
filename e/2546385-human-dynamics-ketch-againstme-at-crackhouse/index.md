@@ -1,6 +1,6 @@
 # HUMAN DYNAMICS: KETCH & AgainstMe at Crackhouse
 
-HUMAN DYNAMICS: KETCH & AgainstMe at Crackhouse on Sat 10 Oct, Gdansk. 3 artists on the bill: AgainstMe, G_ssus and KETCH. Preview the line-up and save it on soundcheck.
+HUMAN DYNAMICS: KETCH & AgainstMe at Crackhouse on Sat 10 Oct, Gdansk. 3 artists: AgainstMe, G_ssus and KETCH. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

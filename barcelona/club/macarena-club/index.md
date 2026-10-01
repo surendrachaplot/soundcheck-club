@@ -1,8 +1,8 @@
 # Macarena Club
 
-Macarena Club is a music venue in Barcelona with 31 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dissonanza" on Thu, 1 Oct 2026.
+Macarena Club is a music venue in Barcelona with 31 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dissonanza" on Thu, 1 Oct 2026.
 
-Macarena Club is a music venue in Barcelona listed on soundcheck. 31 upcoming gigs, with line-ups including Jo-Sie, Amadori, Arval and August Artier and 2 more. Browse upcoming dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
+Macarena Club is a music venue in Barcelona listed on soundcheck. 31 upcoming gigs, with line-ups including Jo-Sie, Amadori, Arval and August Artier and 2 more. See dates, start times and who's playing. Carrer Nou de Sant Francesc, 5; 08002 Barcelona; Spain.
 
 ## What's on
 

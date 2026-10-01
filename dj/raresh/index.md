@@ -1,8 +1,8 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
+Raresh is a House and Minimal artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
 
-Raresh is a house and minimal artist based in Romania, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Amnesia Ibiza, Ibiza on Sun 4 Oct.
+Raresh is a house and minimal artist based in Romania, with 196 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Amnesia Ibiza, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Raresh is a house and minimal artist based in Romania, tracked on soundcheck, wi
 
 ## Recently played
 
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- Balagan Roma, Rome — Sun, 13 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
-- DC-10, Ibiza — Mon, 7 Sept 2026
-- TBA - Boschetti Reali Monza , Milan — Thu, 3 Sept 2026
-- NUMBER 90 LONDON, London — Sat, 29 Aug 2026
-- Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- Balagan Roma, Rome · Sun, 13 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
+- DC-10, Ibiza · Mon, 7 Sept 2026
+- TBA - Boschetti Reali Monza , Milan · Thu, 3 Sept 2026
+- NUMBER 90 LONDON, London · Sat, 29 Aug 2026
+- Amnesia Ibiza, Ibiza · Sun, 16 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Bug Teeth & Friendz at Belgrave Music Hall
 
-Bug Teeth & Friendz at Belgrave Music Hall on Wed 2 Dec, Leeds. Preview the line-up and save it on soundcheck.
+Bug Teeth & Friendz at Belgrave Music Hall on Wed 2 Dec, Leeds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

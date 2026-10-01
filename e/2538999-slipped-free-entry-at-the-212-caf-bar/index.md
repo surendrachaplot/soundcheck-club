@@ -1,6 +1,6 @@
 # Slipped - Free Entry at The 212 Café & Bar
 
-Slipped - Free Entry at The 212 Café & Bar on Sat 17 Oct, Leeds. 2 artists on the bill: Roya Brehl and Simon Scott. House and Tech House. Preview the line-up and save it on soundcheck.
+Slipped - Free Entry at The 212 Café & Bar on Sat 17 Oct, Leeds. 2 artists: Roya Brehl and Simon Scott. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VERKNIPT Bulgaria - Sofia - 16 October at Inter Expo Centre
 
-VERKNIPT Bulgaria - Sofia - 16 October at Inter Expo Centre on Fri 16 Oct, Sofia. 4 artists on the bill: Fantasm, KLOFAMA, LIEKS and Vorick. Preview the line-up and save it on soundcheck.
+VERKNIPT Bulgaria - Sofia - 16 October at Inter Expo Centre on Fri 16 Oct, Sofia. 4 artists: Fantasm, KLOFAMA, LIEKS and Vorick. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

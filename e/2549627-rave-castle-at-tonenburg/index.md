@@ -1,6 +1,6 @@
 # RAVE CASTLE at Tonenburg
 
-RAVE CASTLE at Tonenburg on Sat 31 Oct, Hoxter. Trance and Techno. Preview the line-up and save it on soundcheck.
+RAVE CASTLE at Tonenburg on Sat 31 Oct, Hoxter. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

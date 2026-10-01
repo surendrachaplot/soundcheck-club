@@ -1,6 +1,6 @@
 # Bad Bunny Party (Antwerp) at Ampere
 
-Bad Bunny Party (Antwerp) at Ampere on Fri 2 Oct, Antwerp. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+Bad Bunny Party (Antwerp) at Ampere on Fri 2 Oct, Antwerp. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

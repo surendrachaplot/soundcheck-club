@@ -1,6 +1,6 @@
 # Jornada Electrònica at Konvent de Cal Rosal
 
-Jornada Electrònica at Konvent de Cal Rosal on Sat 31 Oct, Barcelona. 5 artists on the bill: ABSIS, Bennet (DE), Dulce and Kenya Arakama and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Jornada Electrònica at Konvent de Cal Rosal on Sat 31 Oct, Barcelona. 5 artists: ABSIS, Bennet (DE), Dulce and Kenya Arakama and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

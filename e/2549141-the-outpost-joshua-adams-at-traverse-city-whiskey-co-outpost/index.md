@@ -1,6 +1,6 @@
 # The Outpost: Joshua Adams at Traverse City Whiskey Co. Outpost
 
-The Outpost: Joshua Adams at Traverse City Whiskey Co. Outpost on Sat 3 Oct, Detroit. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+The Outpost: Joshua Adams at Traverse City Whiskey Co. Outpost on Sat 3 Oct, Detroit. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

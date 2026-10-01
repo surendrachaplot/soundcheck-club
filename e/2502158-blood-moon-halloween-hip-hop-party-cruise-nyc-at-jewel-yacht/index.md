@@ -1,6 +1,6 @@
 # Blood Moon Halloween Hip-Hop Party Cruise NYC at Jewel Yacht
 
-Blood Moon Halloween Hip-Hop Party Cruise NYC at Jewel Yacht on Sat 31 Oct, New York City. Hip-Hop and Reggaeton. Preview the line-up and save it on soundcheck.
+Blood Moon Halloween Hip-Hop Party Cruise NYC at Jewel Yacht on Sat 31 Oct, New York City. Hip-Hop and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

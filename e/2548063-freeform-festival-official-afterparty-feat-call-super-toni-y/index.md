@@ -1,6 +1,6 @@
 # Freeform Festival Official Afterparty feat. Call Super, Toni Yotzi, Moopie at Miscellania
 
-Freeform Festival Official Afterparty feat. Call Super, Toni Yotzi, Moopie at Miscellania on Sat 3 Oct, Melbourne. 3 artists on the bill: Call Super, Moopie and Toni Yotzi. Preview the line-up and save it on soundcheck.
+Freeform Festival Official Afterparty feat. Call Super, Toni Yotzi, Moopie at Miscellania on Sat 3 Oct, Melbourne. 3 artists: Call Super, Moopie and Toni Yotzi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

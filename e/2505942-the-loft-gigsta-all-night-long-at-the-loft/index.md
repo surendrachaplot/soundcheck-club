@@ -1,6 +1,6 @@
 # The Loft: Gigsta (All Night Long) at The Loft
 
-The Loft: Gigsta (All Night Long) on Thu 1 Oct, Manchester. Preview the line-up and save it on soundcheck.
+The Loft: Gigsta (All Night Long) on Thu 1 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

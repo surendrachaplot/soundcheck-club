@@ -1,6 +1,6 @@
 # Grey Lantern presents: Youthmovies / Zac Clowe at Soup
 
-Grey Lantern presents: Youthmovies / Zac Clowe at Soup on Fri 2 Oct, Manchester. Post-Punk. Preview the line-up and save it on soundcheck.
+Grey Lantern presents: Youthmovies / Zac Clowe at Soup on Fri 2 Oct, Manchester. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

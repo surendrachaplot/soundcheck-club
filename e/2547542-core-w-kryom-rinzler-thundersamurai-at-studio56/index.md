@@ -1,6 +1,6 @@
 # Core W/ Kryom , Rinzler , Thundersamurai at Studio56
 
-Core W/ Kryom , Rinzler , Thundersamurai at Studio56 on Mon 28 Sept, Paris. Preview the line-up and save it on soundcheck.
+Core W/ Kryom , Rinzler , Thundersamurai at Studio56 on Mon 28 Sept, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

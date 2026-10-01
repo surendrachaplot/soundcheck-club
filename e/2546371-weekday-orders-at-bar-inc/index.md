@@ -1,6 +1,6 @@
 # WEEKDAY ORDERS at BAR Inc
 
-WEEKDAY ORDERS at BAR Inc on Wed 7 Oct, Osaka. 2 artists on the bill: Naco and sintaro fujita. Techno and Downtempo. Preview the line-up and save it on soundcheck.
+WEEKDAY ORDERS at BAR Inc on Wed 7 Oct, Osaka. 2 artists: Naco and sintaro fujita. Techno and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

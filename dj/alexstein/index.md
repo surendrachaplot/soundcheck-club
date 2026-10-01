@@ -1,8 +1,8 @@
 # Alex Stein
 
-Alex Stein is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
+Alex Stein is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Fri, 23 Oct 2026.
 
-Alex Stein is a techno and tech house artist based in Germany, tracked on soundcheck, with 66 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Victor Ruiz, Maurice Mino and AM.I. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
+Alex Stein is a techno and tech house artist based in Germany, with 66 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Victor Ruiz, Maurice Mino and AM.I. Next up: Crane Hotel Faralda, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Alex Stein is a techno and tech house artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Culture Box, Copenhagen — Sat, 26 Sept 2026
-- Die Rakete, Nürnberg — Fri, 25 Sept 2026
-- TBA - La Biblioteca, San Telmo, Buenos Aires — Fri, 11 Sept 2026
-- Westhafen, Leipzig — Sat, 18 Jul 2026
-- SILO, New York City — Sat, 13 Jun 2026
-- Fundbureau, Hamburg — Fri, 15 May 2026
-- TBA - Secret Warehouse Location, Denver — Fri, 20 Mar 2026
-- 821 Runnymede Rd, Toronto — Fri, 13 Mar 2026
+- Culture Box, Copenhagen · Sat, 26 Sept 2026
+- Die Rakete, Nürnberg · Fri, 25 Sept 2026
+- TBA - La Biblioteca, San Telmo, Buenos Aires · Fri, 11 Sept 2026
+- Westhafen, Leipzig · Sat, 18 Jul 2026
+- SILO, New York City · Sat, 13 Jun 2026
+- Fundbureau, Hamburg · Fri, 15 May 2026
+- TBA - Secret Warehouse Location, Denver · Fri, 20 Mar 2026
+- 821 Runnymede Rd, Toronto · Fri, 13 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # ROSA & TEMI'S TAKEOVER - pres. by DJ Thursday at Basement 45
 
-ROSA & TEMI'S TAKEOVER - pres. by DJ Thursday at Basement 45 on Thu 8 Oct, Bristol. Garage and Jungle. Preview the line-up and save it on soundcheck.
+ROSA & TEMI'S TAKEOVER - pres. by DJ Thursday at Basement 45 on Thu 8 Oct, Bristol. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Paradigm Night at 12 x 12
 
-Paradigm Night at 12 x 12 on Fri 2 Oct, Bangkok. 1 artist on the bill: Shinfish. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Paradigm Night at 12 x 12 on Fri 2 Oct, Bangkok. 1 artist: Shinfish. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

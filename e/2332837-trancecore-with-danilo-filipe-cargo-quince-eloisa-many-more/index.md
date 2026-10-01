@@ -1,6 +1,6 @@
 # Trancecore with Danilo Filipe, CARGO, Quince, ELOISA & many more at Lokschuppen Berlin
 
-Trancecore with Danilo Filipe, CARGO, Quince, ELOISA & many more at Lokschuppen Berlin on Sat 12 Dec, Berlin. 13 artists on the bill: ANXHELA, CARGO, Cobb Douglas and Danilo Filipe and 9 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Trancecore with Danilo Filipe, CARGO, Quince, ELOISA & many more at Lokschuppen Berlin on Sat 12 Dec, Berlin. 13 artists: ANXHELA, CARGO, Cobb Douglas and Danilo Filipe and 9 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shonky, Union Nautique Marseillaisse at TBA - Union Nautique de Marseille
 
-Shonky, Union Nautique Marseillaisse at TBA - Union Nautique de Marseille on Fri 16 Oct, Marseille. 1 artist on the bill: Shonky. House and Minimal. Preview the line-up and save it on soundcheck.
+Shonky, Union Nautique Marseillaisse at TBA - Union Nautique de Marseille on Fri 16 Oct, Marseille. 1 artist: Shonky. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

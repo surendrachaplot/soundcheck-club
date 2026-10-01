@@ -1,6 +1,6 @@
 # ATYPICAL feat. Lost in Translation by Worldpackers: Afterwork + Open Mixer + Boiler Session at TOC Hostel
 
-ATYPICAL feat. Lost in Translation by Worldpackers: Afterwork + Open Mixer + Boiler Session at TOC Hostel on Fri 16 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+ATYPICAL feat. Lost in Translation by Worldpackers: Afterwork + Open Mixer + Boiler Session at TOC Hostel on Fri 16 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

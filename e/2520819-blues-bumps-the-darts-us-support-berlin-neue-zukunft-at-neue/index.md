@@ -1,6 +1,6 @@
 # BLUES BUMPS: THE DARTS (US) + support // Berlin Neue Zukunft at Neue Zukunft
 
-BLUES BUMPS: THE DARTS (US) + support // Berlin Neue Zukunft on Fri 27 Nov, Berlin. Garage and Post-Punk. Preview the line-up and save it on soundcheck.
+BLUES BUMPS: THE DARTS (US) + support // Berlin Neue Zukunft on Fri 27 Nov, Berlin. Garage and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

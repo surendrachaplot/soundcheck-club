@@ -1,6 +1,6 @@
 # The Pickle at The Pickle
 
-The Pickle on Wed 25 Nov, Miami. Preview the line-up and save it on soundcheck.
+The Pickle on Wed 25 Nov, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

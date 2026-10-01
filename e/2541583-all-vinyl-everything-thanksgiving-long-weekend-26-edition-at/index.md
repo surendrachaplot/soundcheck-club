@@ -1,6 +1,6 @@
 # All Vinyl Everything - Thanksgiving Long Weekend '26 Edition at The Drake Hotel
 
-All Vinyl Everything - Thanksgiving Long Weekend '26 Edition at The Drake Hotel on Sun 11 Oct, Toronto. House and R&B. Preview the line-up and save it on soundcheck.
+All Vinyl Everything - Thanksgiving Long Weekend '26 Edition at The Drake Hotel on Sun 11 Oct, Toronto. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

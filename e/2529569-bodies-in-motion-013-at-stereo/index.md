@@ -1,6 +1,6 @@
 # Bodies In Motion 013: ***** ****** at Stereo
 
-Bodies In Motion 013: ***** ****** at Stereo on Sat 28 Nov, Glasgow. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Bodies In Motion 013: ***** ****** at Stereo on Sat 28 Nov, Glasgow. Tech House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

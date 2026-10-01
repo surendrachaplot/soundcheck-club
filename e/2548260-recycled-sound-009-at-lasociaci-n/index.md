@@ -1,6 +1,6 @@
 # Recycled Sound 009 at Lasociaciøn
 
-Recycled Sound 009 at Lasociaciøn on Sat 10 Oct, Madrid. 3 artists on the bill: Hd Substance, Hector MAD and Ricardo Morales. Techno. Preview the line-up and save it on soundcheck.
+Recycled Sound 009 at Lasociaciøn on Sat 10 Oct, Madrid. 3 artists: Hd Substance, Hector MAD and Ricardo Morales. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

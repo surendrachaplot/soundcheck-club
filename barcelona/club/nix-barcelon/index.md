@@ -1,8 +1,8 @@
 # NIX Barcelon
 
-NIX Barcelon is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "OPENING with Olivia Bass & Zamoras at Nix" on Fri, 9 Oct 2026.
+NIX Barcelon is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "OPENING with Olivia Bass & Zamoras at Nix" on Fri, 9 Oct 2026.
 
-NIX Barcelon is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Calussa, DIROS, Freddy Bello and Jay de Lys and 2 more. Browse upcoming dates, start times and who's playing. Diputacion 92, Barcelona.
+NIX Barcelon is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs, with line-ups including Calussa, DIROS, Freddy Bello and Jay de Lys and 2 more. See dates, start times and who's playing. Diputacion 92, Barcelona.
 
 ## What's on
 

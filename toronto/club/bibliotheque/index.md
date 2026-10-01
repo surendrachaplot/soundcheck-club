@@ -1,8 +1,8 @@
 # Bibliotheque
 
-Bibliotheque is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Late Replies" on Sun, 11 Oct 2026.
+Bibliotheque is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Late Replies" on Sun, 11 Oct 2026.
 
-Bibliotheque is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Ky William, Late Replies and Simon Jain. Browse upcoming dates, start times and who's playing. 225 Richmond Street West.
+Bibliotheque is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Ky William, Late Replies and Simon Jain. See dates, start times and who's playing. 225 Richmond Street West.
 
 ## What's on
 

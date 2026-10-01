@@ -1,6 +1,6 @@
 # OMBRAR 'The Stairs' - Listening Party + live sets at The Love Inn
 
-OMBRAR 'The Stairs' - Listening Party + live sets at The Love Inn on Fri 20 Nov, Bristol. 2 artists on the bill: Field Case and OMBRAR. Techno and Experimental. Preview the line-up and save it on soundcheck.
+OMBRAR 'The Stairs' - Listening Party + live sets at The Love Inn on Fri 20 Nov, Bristol. 2 artists: Field Case and OMBRAR. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

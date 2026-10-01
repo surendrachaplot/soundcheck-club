@@ -1,8 +1,8 @@
 # keks
 
-keks is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
+keks is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
 
-keks is a house and garage artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London and Newcastle. Often billed alongside Molly Sinnott, PHJ.WAV and FroD. Next up: Ouseburn Garden, Newcastle on Sat 24 Oct.
+keks is a house and garage artist based in United Kingdom, with 16 gigs on soundcheck across London and Newcastle. Often billed alongside Molly Sinnott, PHJ.WAV and FroD. Next up: Ouseburn Garden, Newcastle on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ keks is a house and garage artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- Ernest, Newcastle — Mon, 14 Sept 2026
-- Ernest, Newcastle — Wed, 19 Aug 2026
-- Ouseburn Garden, Newcastle — Sat, 1 Aug 2026
-- Ernest, Newcastle — Wed, 29 Jul 2026
-- Tokyo Bar, Newcastle — Sat, 28 Mar 2026
-- Hidden Heights Creative Studio, Newcastle — Sat, 7 Mar 2026
-- Ernest, Newcastle — Mon, 2 Mar 2026
-- NX Newcastle, Newcastle — Fri, 13 Feb 2026
+- Ernest, Newcastle · Mon, 14 Sept 2026
+- Ernest, Newcastle · Wed, 19 Aug 2026
+- Ouseburn Garden, Newcastle · Sat, 1 Aug 2026
+- Ernest, Newcastle · Wed, 29 Jul 2026
+- Tokyo Bar, Newcastle · Sat, 28 Mar 2026
+- Hidden Heights Creative Studio, Newcastle · Sat, 7 Mar 2026
+- Ernest, Newcastle · Mon, 2 Mar 2026
+- NX Newcastle, Newcastle · Fri, 13 Feb 2026
 
 ## Shares bills with
 

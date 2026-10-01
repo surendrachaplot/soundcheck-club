@@ -1,8 +1,8 @@
 # Outer Heaven
 
-Outer Heaven is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Outer Heaven presents: Dragoş Ilici - Pablo Romero - Bruno Gervais" on Thu, 1 Oct 2026.
+Outer Heaven is a music venue in New York City with 33 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Outer Heaven presents: Dragoş Ilici - Pablo Romero - Bruno Gervais" on Thu, 1 Oct 2026.
 
-Outer Heaven is a music venue in New York City listed on soundcheck. 33 upcoming gigs, with line-ups including A.Wild, Amelia Holt, Armii1n and Bella Mutino and 2 more. Browse upcoming dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
+Outer Heaven is a music venue in New York City listed on soundcheck. 33 upcoming gigs, with line-ups including A.Wild, Amelia Holt, Armii1n and Bella Mutino and 2 more. See dates, start times and who's playing. 191 Chrystie Street, New York, NY 10002.
 
 ## What's on
 

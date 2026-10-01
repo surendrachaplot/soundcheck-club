@@ -1,6 +1,6 @@
 # Chase & Status Live - World Tour at UFO im Velodrom
 
-Chase & Status Live - World Tour at UFO im Velodrom on Sat 20 Feb, Berlin. 1 artist on the bill: Chase & Status. Preview the line-up and save it on soundcheck.
+Chase & Status Live - World Tour at UFO im Velodrom on Sat 20 Feb, Berlin. 1 artist: Chase & Status. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

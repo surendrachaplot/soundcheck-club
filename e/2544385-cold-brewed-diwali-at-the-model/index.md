@@ -1,6 +1,6 @@
 # Cold Brewed Diwali at The Model
 
-Cold Brewed Diwali at The Model on Fri 6 Nov, Nottingham. Techno and Bass. Preview the line-up and save it on soundcheck.
+Cold Brewed Diwali at The Model on Fri 6 Nov, Nottingham. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

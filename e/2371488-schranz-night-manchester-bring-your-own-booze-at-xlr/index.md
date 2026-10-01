@@ -1,6 +1,6 @@
 # SCHRANZ NIGHT MANCHESTER Bring Your Own Booze at XLR
 
-SCHRANZ NIGHT MANCHESTER Bring Your Own Booze at XLR on Sat 10 Oct, Manchester. 2 artists on the bill: Kami Lee and Zeleste Rokatechno. Techno. Preview the line-up and save it on soundcheck.
+SCHRANZ NIGHT MANCHESTER Bring Your Own Booze at XLR on Sat 10 Oct, Manchester. 2 artists: Kami Lee and Zeleste Rokatechno. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

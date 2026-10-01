@@ -1,6 +1,6 @@
 # Mad Rey b2b Mezigue [All Night Long] @ Petit Cab at Petit CAB
 
-Mad Rey b2b Mezigue [All Night Long] @ Petit Cab at Petit CAB on Fri 18 Dec, Marseille. 2 artists on the bill: Mad Rey and Mézigue. House and Electro. Preview the line-up and save it on soundcheck.
+Mad Rey b2b Mezigue [All Night Long] @ Petit Cab at Petit CAB on Fri 18 Dec, Marseille. 2 artists: Mad Rey and Mézigue. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

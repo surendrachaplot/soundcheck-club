@@ -1,6 +1,6 @@
 # APOKOLYPSE96 at Klub Under
 
-APOKOLYPSE96 at Klub Under on Fri 23 Oct, Belgrade. Techno and Industrial. Preview the line-up and save it on soundcheck.
+APOKOLYPSE96 at Klub Under on Fri 23 Oct, Belgrade. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

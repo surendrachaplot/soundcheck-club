@@ -1,6 +1,6 @@
 # HOUSE OF GOD HALLOWEEN 2026 at Tunnel Club
 
-HOUSE OF GOD HALLOWEEN 2026 at Tunnel Club on Fri 30 Oct, Birmingham. Techno and House. Preview the line-up and save it on soundcheck.
+HOUSE OF GOD HALLOWEEN 2026 at Tunnel Club on Fri 30 Oct, Birmingham. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

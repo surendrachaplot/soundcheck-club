@@ -1,6 +1,6 @@
 # Ritmo Fatale: Kendal, Maï-Linh, Miguel De Bois at Cabaret Sauvage
 
-Ritmo Fatale: Kendal, Maï-Linh, Miguel De Bois at Cabaret Sauvage on Sat 10 Oct, Paris. 3 artists on the bill: Kendal, Maï-Linh and Miguel De Bois. Trance and Italo Disco. Preview the line-up and save it on soundcheck.
+Ritmo Fatale: Kendal, Maï-Linh, Miguel De Bois at Cabaret Sauvage on Sat 10 Oct, Paris. 3 artists: Kendal, Maï-Linh and Miguel De Bois. Trance and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

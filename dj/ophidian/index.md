@@ -1,8 +1,8 @@
 # Ophidian
 
-Ophidian is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
+Ophidian is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Maassilo, Rotterdam on Sat, 24 Oct 2026.
 
-Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 28 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Drokz, Anime and Art of Fighters. Next up: Maassilo, Rotterdam on Sat 24 Oct.
+Ophidian is a hardcore and techno artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 10 more. Often billed alongside Drokz, Anime and Art of Fighters. Next up: Maassilo, Rotterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Ophidian is a hardcore and techno artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
-- Parc de la Serra de Mollerussa (Lérida), Barcelona — Sat, 5 Sept 2026
-- Zappa, Antwerp — Sat, 5 Sept 2026
-- Warehouse, Nantes — Fri, 4 Sept 2026
-- Kilomètre25, Paris — Sat, 22 Aug 2026
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 15 Aug 2026
-- TBA - Vienna, Vienna — Sat, 14 Feb 2026
-- Fabrik, Madrid — Sat, 20 Dec 2025
-- Maassilo, Rotterdam — Sat, 29 Nov 2025
+- Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
+- Zappa, Antwerp · Sat, 5 Sept 2026
+- Warehouse, Nantes · Fri, 4 Sept 2026
+- Kilomètre25, Paris · Sat, 22 Aug 2026
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 15 Aug 2026
+- TBA - Vienna, Vienna · Sat, 14 Feb 2026
+- Fabrik, Madrid · Sat, 20 Dec 2025
+- Maassilo, Rotterdam · Sat, 29 Nov 2025
 
 ## Shares bills with
 

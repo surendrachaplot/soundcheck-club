@@ -1,8 +1,8 @@
 # Mad.Again (2)
 
-Mad.Again (2) is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Mad.Again (2) is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Mad.Again is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: DRUMSHEDS, London on Sat 3 Oct.
+Mad.Again is a house and tech house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 13 more. Often billed alongside Locky, Liam Palmer and Elliot Schooling. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Mad.Again is a house and tech house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- [UNVRS], Ibiza — Wed, 2 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- World Headquarters, Newcastle — Sat, 22 Aug 2026
-- [UNVRS], Ibiza — Wed, 12 Aug 2026
-- Distrikt, Leeds — Sat, 8 Aug 2026
-- Eden, Ibiza — Sun, 2 Aug 2026
-- Cova Santa, Ibiza — Tue, 21 Jul 2026
-- Thuishaven, Amsterdam — Sun, 12 Jul 2026
+- [UNVRS], Ibiza · Wed, 2 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- World Headquarters, Newcastle · Sat, 22 Aug 2026
+- [UNVRS], Ibiza · Wed, 12 Aug 2026
+- Distrikt, Leeds · Sat, 8 Aug 2026
+- Eden, Ibiza · Sun, 2 Aug 2026
+- Cova Santa, Ibiza · Tue, 21 Jul 2026
+- Thuishaven, Amsterdam · Sun, 12 Jul 2026
 
 ## Shares bills with
 

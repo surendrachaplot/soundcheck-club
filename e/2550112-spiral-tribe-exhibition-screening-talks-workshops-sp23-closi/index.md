@@ -1,6 +1,6 @@
 # SPIRAL TRIBE : exhibition - screening - talks - workshops - SP23 closing rave at TBA - Near Jannowitzbrücke
 
-SPIRAL TRIBE : exhibition - screening - talks - workshops - SP23 closing rave at TBA - Near Jannowitzbrücke on Fri 27 Nov, Berlin. Techno. Preview the line-up and save it on soundcheck.
+SPIRAL TRIBE : exhibition - screening - talks - workshops - SP23 closing rave at TBA - Near Jannowitzbrücke on Fri 27 Nov, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

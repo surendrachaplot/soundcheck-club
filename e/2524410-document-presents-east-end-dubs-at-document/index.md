@@ -1,6 +1,6 @@
 # Document presents: East End Dubs at Document
 
-Document presents: East End Dubs on Sat 14 Nov, Bristol. 1 artist on the bill: East End Dubs. House and Tech House. Preview the line-up and save it on soundcheck.
+Document presents: East End Dubs on Sat 14 Nov, Bristol. 1 artist: East End Dubs. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

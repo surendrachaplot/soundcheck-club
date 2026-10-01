@@ -1,6 +1,6 @@
 # Suzanne Ciani: A Masterclass in Modular Synthesis at Gloss/5 Florence Street
 
-Suzanne Ciani: A Masterclass in Modular Synthesis at Gloss/5 Florence Street on Mon 5 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+Suzanne Ciani: A Masterclass in Modular Synthesis at Gloss/5 Florence Street on Mon 5 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

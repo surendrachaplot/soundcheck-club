@@ -1,6 +1,6 @@
 # Mystic Garden at Blank Site
 
-Mystic Garden at Blank Site on Sat 3 Oct, Seoul. 2 artists on the bill: CHICHI (KR) and JAMIEST. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Mystic Garden at Blank Site on Sat 3 Oct, Seoul. 2 artists: CHICHI (KR) and JAMIEST. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

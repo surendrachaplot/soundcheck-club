@@ -1,8 +1,8 @@
 # Klub 20/44
 
-Klub 20/44 is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "FRØM" on Thu, 1 Oct 2026.
+Klub 20/44 is a music venue in Belgrade with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FRØM" on Thu, 1 Oct 2026.
 
-Klub 20/44 is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Derrick May. Browse upcoming dates, start times and who's playing. Karađorđeva 44 Belgrade, Serbia.
+Klub 20/44 is a music venue in Belgrade listed on soundcheck. 2 upcoming gigs, with line-ups including Derrick May. See dates, start times and who's playing. Karađorđeva 44 Belgrade, Serbia.
 
 ## What's on
 

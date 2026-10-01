@@ -1,6 +1,6 @@
 # Naked Grapes with juan and only at Orangerie Neukölln
 
-Naked Grapes with juan and only at Orangerie Neukölln on Thu 5 Nov, Berlin. Minimal and Dub. Preview the line-up and save it on soundcheck.
+Naked Grapes with juan and only at Orangerie Neukölln on Thu 5 Nov, Berlin. Minimal and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HEALING INTENT with Chinapoet, Hymn, Egoseed, Connect the Dots at Ki Smith Gallery
 
-HEALING INTENT with Chinapoet, Hymn, Egoseed, Connect the Dots at Ki Smith Gallery on Sat 3 Oct, New York City. 1 artist on the bill: Battygyal. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+HEALING INTENT with Chinapoet, Hymn, Egoseed, Connect the Dots at Ki Smith Gallery on Sat 3 Oct, New York City. 1 artist: Battygyal. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Futuro at EKKO
 
-Futuro at EKKO on Fri 27 Nov, Utrecht. 1 artist on the bill: David Vunk. Club and Electronica. Preview the line-up and save it on soundcheck.
+Futuro at EKKO on Fri 27 Nov, Utrecht. 1 artist: David Vunk. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

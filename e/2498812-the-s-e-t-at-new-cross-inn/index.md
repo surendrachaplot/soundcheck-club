@@ -1,6 +1,6 @@
 # The S.E.T at New Cross Inn
 
-The S.E.T at New Cross Inn on Mon 16 Nov, London. Hardcore. Preview the line-up and save it on soundcheck.
+The S.E.T at New Cross Inn on Mon 16 Nov, London. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

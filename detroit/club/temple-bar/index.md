@@ -1,8 +1,8 @@
 # Temple Bar
 
-Temple Bar is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Eur Haus" on Sat, 3 Oct 2026.
+Temple Bar is a music venue in Detroit with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Eur Haus" on Sat, 3 Oct 2026.
 
-Temple Bar is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including CONFLICT BUREAU, Dretraxx, Ginger Snap and Loading... (US) and 1 more. Browse upcoming dates, start times and who's playing. 2906 Cass Avenue. Detroit, MI 48201-2636.
+Temple Bar is a music venue in Detroit listed on soundcheck. 2 upcoming gigs, with line-ups including CONFLICT BUREAU, Dretraxx, Ginger Snap and Loading... (US) and 1 more. See dates, start times and who's playing. 2906 Cass Avenue. Detroit, MI 48201-2636.
 
 ## What's on
 

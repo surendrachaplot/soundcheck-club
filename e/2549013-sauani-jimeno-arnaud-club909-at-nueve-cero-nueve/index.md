@@ -1,6 +1,6 @@
 # SAUANI, Jimeno Arnaud [club909] at nueve cero nueve
 
-SAUANI, Jimeno Arnaud [club909] at nueve cero nueve on Sat 3 Oct, Mexico City. 2 artists on the bill: Jimeno Arnaud and SAUANI. Preview the line-up and save it on soundcheck.
+SAUANI, Jimeno Arnaud [club909] at nueve cero nueve on Sat 3 Oct, Mexico City. 2 artists: Jimeno Arnaud and SAUANI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

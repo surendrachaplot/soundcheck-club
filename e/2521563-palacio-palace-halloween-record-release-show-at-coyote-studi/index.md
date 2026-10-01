@@ -1,6 +1,6 @@
 # palacio palace Halloween/ record release  show at Coyote Studios
 
-palacio palace Halloween/ record release  show at Coyote Studios on Sat 31 Oct, Los Angeles. 5 artists on the bill: C.R.T.R., DISKQ, DJ LIGMA and DJ Manny and 1 more. Hardcore and IDM. Preview the line-up and save it on soundcheck.
+palacio palace Halloween/ record release  show at Coyote Studios on Sat 31 Oct, Los Angeles. 5 artists: C.R.T.R., DISKQ, DJ LIGMA and DJ Manny and 1 more. Hardcore and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

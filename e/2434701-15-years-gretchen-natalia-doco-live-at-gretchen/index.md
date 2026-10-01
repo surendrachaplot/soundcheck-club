@@ -1,6 +1,6 @@
 # 15 Years Gretchen: NATALIA DOCO *live at Gretchen
 
-15 Years Gretchen: NATALIA DOCO *live on Thu 1 Oct, Berlin. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: NATALIA DOCO *live on Thu 1 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

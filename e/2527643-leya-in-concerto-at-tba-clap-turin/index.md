@@ -1,6 +1,6 @@
 # LEYA in concerto at TBA - Clap, Turin
 
-LEYA in concerto at TBA - Clap, Turin on Sun 11 Oct, North. 1 artist on the bill: LEYA. Preview the line-up and save it on soundcheck.
+LEYA in concerto at TBA - Clap, Turin on Sun 11 Oct, North. 1 artist: LEYA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

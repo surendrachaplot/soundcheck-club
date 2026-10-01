@@ -1,6 +1,6 @@
 # Rio Hostel presents: a:ritmi:a showcase at El Rio Hostel
 
-Rio Hostel presents: a:ritmi:a showcase at El Rio Hostel on Thu 8 Oct, Colombia. 3 artists on the bill: Benny (El Rio Hostel), Marthinez and pecqeo. Preview the line-up and save it on soundcheck.
+Rio Hostel presents: a:ritmi:a showcase at El Rio Hostel on Thu 8 Oct, Colombia. 3 artists: Benny (El Rio Hostel), Marthinez and pecqeo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

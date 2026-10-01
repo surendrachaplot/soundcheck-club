@@ -1,6 +1,6 @@
 # HIPHOP NIGHT: NAMEBRANDSMITH & DJBJ 3525 (CLUB BANGERS ALL NIGHT) at Big Pink
 
-HIPHOP NIGHT: NAMEBRANDSMITH & DJBJ 3525 (CLUB BANGERS ALL NIGHT) at Big Pink on Sat 3 Oct, Detroit. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+HIPHOP NIGHT: NAMEBRANDSMITH & DJBJ 3525 (CLUB BANGERS ALL NIGHT) at Big Pink on Sat 3 Oct, Detroit. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # STAUB at ://about blank
 
-STAUB at ://about blank on Sat 10 Oct, Berlin. Preview the line-up and save it on soundcheck.
+STAUB at ://about blank on Sat 10 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # T U R B O at Prozak 2.0
 
-T U R B O at Prozak 2.0 on Fri 9 Oct, Krakow. Trance and Techno. Preview the line-up and save it on soundcheck.
+T U R B O at Prozak 2.0 on Fri 9 Oct, Krakow. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

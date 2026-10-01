@@ -1,6 +1,6 @@
 # INNA MIAMI at Midline
 
-INNA MIAMI at Midline on Wed 25 Nov, Miami. Preview the line-up and save it on soundcheck.
+INNA MIAMI at Midline on Wed 25 Nov, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

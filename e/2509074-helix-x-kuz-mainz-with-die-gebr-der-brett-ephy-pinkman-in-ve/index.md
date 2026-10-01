@@ -1,6 +1,6 @@
 # HELIX x KUZ Mainz - with Die Gebrüder Brett, Ephy Pinkman & In Verruf at KUZ - Kulturzentrum Mainz
 
-HELIX x KUZ Mainz - with Die Gebrüder Brett, Ephy Pinkman & In Verruf at KUZ - Kulturzentrum Mainz on Fri 16 Oct, Mainz. 4 artists on the bill: AMVN, assena, Ephy Pinkman and In Verruf. Preview the line-up and save it on soundcheck.
+HELIX x KUZ Mainz - with Die Gebrüder Brett, Ephy Pinkman & In Verruf at KUZ - Kulturzentrum Mainz on Fri 16 Oct, Mainz. 4 artists: AMVN, assena, Ephy Pinkman and In Verruf. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Nicky Blackmarket
 
-Nicky Blackmarket is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+Nicky Blackmarket is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
-Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 141 sets logged across Amsterdam, Bangkok, Berlin and Birmingham and 11 more. Often billed alongside Nicky B, Kenny Ken and Ray Keith. Next up: NOWHERE, Manchester on Sat 3 Oct.
+Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, with 141 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Birmingham and 11 more. Often billed alongside Nicky B, Kenny Ken and Ray Keith. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Nicky Blackmarket is a drum & bass and jungle artist based in United Kingdom, tr
 
 ## Recently played
 
-- Studio 338, London — Sat, 26 Sept 2026
-- Eutopia Whs, London — Sat, 5 Sept 2026
-- Planet Wax, London — Thu, 3 Sept 2026
-- Brixton Jamm, London — Fri, 14 Aug 2026
-- The Clock Factory, Bristol — Fri, 3 Jul 2026
-- The Clock Factory, Bristol — Fri, 3 Jul 2026
-- The Cause, London — Sun, 14 Jun 2026
-- Club Makossa, London — Fri, 5 Jun 2026
+- Studio 338, London · Sat, 26 Sept 2026
+- Eutopia Whs, London · Sat, 5 Sept 2026
+- Planet Wax, London · Thu, 3 Sept 2026
+- Brixton Jamm, London · Fri, 14 Aug 2026
+- The Clock Factory, Bristol · Fri, 3 Jul 2026
+- The Clock Factory, Bristol · Fri, 3 Jul 2026
+- The Cause, London · Sun, 14 Jun 2026
+- Club Makossa, London · Fri, 5 Jun 2026
 
 ## Shares bills with
 

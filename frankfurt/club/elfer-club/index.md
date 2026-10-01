@@ -1,8 +1,8 @@
 # Elfer Club
 
-Elfer Club is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Aircraft — Frankfurt am Main / Elfer Club, support: LEBENSHILFE" on Sat, 5 Dec 2026.
+Elfer Club is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Aircraft — Frankfurt am Main / Elfer Club, support: LEBENSHILFE" on Sat, 5 Dec 2026.
 
-Elfer Club is a music venue in Frankfurt listed on soundcheck. 1 upcoming gig, with line-ups including Aircraft. Browse upcoming dates, start times and who's playing. Kleine Rittergasse 14-20, 60594 Frankfurt am Main, Germany.
+Elfer Club is a music venue in Frankfurt listed on soundcheck. 1 upcoming gig, with line-ups including Aircraft. See dates, start times and who's playing. Kleine Rittergasse 14-20, 60594 Frankfurt am Main, Germany.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Strokes Temple 30 years anniversary at Loftas
 
-Strokes Temple 30 years anniversary at Loftas on Fri 16 Oct, Vilnius. 4 artists on the bill: Aries, Benua, Legion and Moon Disco. Preview the line-up and save it on soundcheck.
+Strokes Temple 30 years anniversary at Loftas on Fri 16 Oct, Vilnius. 4 artists: Aries, Benua, Legion and Moon Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

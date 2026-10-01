@@ -1,8 +1,8 @@
 # Junction Underground
 
-Junction Underground is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Harbour Nights" on Fri, 2 Oct 2026.
+Junction Underground is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Harbour Nights" on Fri, 2 Oct 2026.
 
-Junction Underground is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including CRISTI:ANA and Jonnix. Browse upcoming dates, start times and who's playing. 2907 Dundas Street west, Toronto, Ontario M6P 1Z1.
+Junction Underground is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including CRISTI:ANA and Jonnix. See dates, start times and who's playing. 2907 Dundas Street west, Toronto, Ontario M6P 1Z1.
 
 ## What's on
 

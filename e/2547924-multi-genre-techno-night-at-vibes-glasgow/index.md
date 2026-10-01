@@ -1,6 +1,6 @@
 # Multi Genre Techno Night at Vibes Glasgow
 
-Multi Genre Techno Night at Vibes Glasgow on Sat 10 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+Multi Genre Techno Night at Vibes Glasgow on Sat 10 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

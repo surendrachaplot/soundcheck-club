@@ -1,6 +1,6 @@
 # GASHOUDER presents: Josh Baker [Sold Out] at GASHOUDER
 
-GASHOUDER presents: Josh Baker [Sold Out] on Sun 25 Oct, Amsterdam. 4 artists on the bill: Alexandria, Josh Baker, Marie Montexier and Marsolo. House. Preview the line-up and save it on soundcheck.
+GASHOUDER presents: Josh Baker [Sold Out] on Sun 25 Oct, Amsterdam. 4 artists: Alexandria, Josh Baker, Marie Montexier and Marsolo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

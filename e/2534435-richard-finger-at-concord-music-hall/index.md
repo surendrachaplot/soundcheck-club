@@ -1,6 +1,6 @@
 # RICHARD FINGER at Concord Music Hall
 
-RICHARD FINGER at Concord Music Hall on Fri 11 Dec, Chicago. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+RICHARD FINGER at Concord Music Hall on Fri 11 Dec, Chicago. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

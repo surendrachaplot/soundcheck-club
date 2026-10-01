@@ -1,6 +1,6 @@
 # WE ARE ONE x BLOODMOON - K39 - 4 Floors - 3 Etagen at K39
 
-WE ARE ONE x BLOODMOON - K39 - 4 Floors - 3 Etagen on Sat 21 Nov, Frankfurt. Trance and Techno. Preview the line-up and save it on soundcheck.
+WE ARE ONE x BLOODMOON - K39 - 4 Floors - 3 Etagen on Sat 21 Nov, Frankfurt. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Halloween at Pyg with Dave Lee [Joey Negro] at Pygmalion
 
-Halloween at Pyg with Dave Lee [Joey Negro] at Pygmalion on Sat 31 Oct, Dublin. House. Preview the line-up and save it on soundcheck.
+Halloween at Pyg with Dave Lee [Joey Negro] at Pygmalion on Sat 31 Oct, Dublin. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

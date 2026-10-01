@@ -1,6 +1,6 @@
 # SG Lewis - Bristol at Sawmills
 
-SG Lewis - Bristol at Sawmills on Sat 12 Dec, Bristol. 3 artists on the bill: ATRIP, Milly on Air and SG Lewis. House. Preview the line-up and save it on soundcheck.
+SG Lewis - Bristol at Sawmills on Sat 12 Dec, Bristol. 3 artists: ATRIP, Milly on Air and SG Lewis. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

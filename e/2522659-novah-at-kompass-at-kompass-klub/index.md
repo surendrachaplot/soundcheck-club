@@ -1,6 +1,6 @@
 # NOVAH at Kompass at Kompass Klub
 
-NOVAH at Kompass at Kompass Klub on Fri 2 Oct, Ghent. 7 artists on the bill: BOY&GIRL, Jane Muss, Kompass Traxx and Lola Cerise and 3 more. Preview the line-up and save it on soundcheck.
+NOVAH at Kompass at Kompass Klub on Fri 2 Oct, Ghent. 7 artists: BOY&GIRL, Jane Muss, Kompass Traxx and Lola Cerise and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

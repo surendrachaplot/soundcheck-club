@@ -1,6 +1,6 @@
 # HOUSE LOVERS: HATT.D & More at Bulbul Berlin
 
-HOUSE LOVERS: HATT.D & More at Bulbul Berlin on Sat 24 Oct, Berlin. House and Club. Preview the line-up and save it on soundcheck.
+HOUSE LOVERS: HATT.D & More at Bulbul Berlin on Sat 24 Oct, Berlin. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

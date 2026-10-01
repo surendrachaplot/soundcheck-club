@@ -1,8 +1,8 @@
 # Katze Storno
 
-Katze Storno is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Spartacus Potsdam, Berlin on Sat, 3 Oct 2026.
+Katze Storno is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Spartacus Potsdam, Berlin on Sat, 3 Oct 2026.
 
-Katze Storno is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin and Hamburg. Often billed alongside SñRFlores, Anne-Lu and Carluschka. Next up: Spartacus Potsdam, Berlin on Sat 3 Oct.
+Katze Storno is a house and techno artist based in Germany, with 7 gigs on soundcheck across Berlin and Hamburg. Often billed alongside SñRFlores, Anne-Lu and Carluschka. Next up: Spartacus Potsdam, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Katze Storno is a house and techno artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Rote Flora, Hamburg — Sat, 24 Jan 2026
-- TBA - Große Elbstraße, Hamburg — Sat, 30 Aug 2025
-- Fischmarkt, Hamburg — Fri, 9 May 2025
-- Uebel & Gefährlich, Hamburg — Fri, 11 Apr 2025
-- Rote Flora, Hamburg — Sat, 25 Jan 2025
-- Gängeviertel, Hamburg — Fri, 8 Mar 2024
+- Rote Flora, Hamburg · Sat, 24 Jan 2026
+- TBA - Große Elbstraße, Hamburg · Sat, 30 Aug 2025
+- Fischmarkt, Hamburg · Fri, 9 May 2025
+- Uebel & Gefährlich, Hamburg · Fri, 11 Apr 2025
+- Rote Flora, Hamburg · Sat, 25 Jan 2025
+- Gängeviertel, Hamburg · Fri, 8 Mar 2024
 
 ## Shares bills with
 

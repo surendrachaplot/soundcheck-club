@@ -1,6 +1,6 @@
 # Regard at Bauhaus
 
-Regard at Bauhaus on Fri 30 Oct, Houston. Techno and House. Preview the line-up and save it on soundcheck.
+Regard at Bauhaus on Fri 30 Oct, Houston. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

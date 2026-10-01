@@ -1,8 +1,8 @@
 # Acid Jacks
 
-Acid Jacks is a Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
+Acid Jacks is a Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
 
-Acid Jacks is a hip-hop artist based in Australia, tracked on soundcheck, with 5 sets logged across Leipzig, Melbourne and Sydney. Often billed alongside Jack N Jerk, Never Dull and Byron The Aquarius. Next up: Heaps Normal Health Club, Sydney on Sat 31 Oct.
+Acid Jacks is a hip-hop artist based in Australia, with 5 gigs on soundcheck across Leipzig, Melbourne and Sydney. Often billed alongside Jack N Jerk, Never Dull and Byron The Aquarius. Next up: Heaps Normal Health Club, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,9 +13,9 @@ Acid Jacks is a hip-hop artist based in Australia, tracked on soundcheck, with 5
 
 ## Recently played
 
-- Absturz, Leipzig — Sat, 19 Sept 2026
-- Abercrombie Hotel, Sydney — Sat, 30 May 2026
-- Abercrombie Hotel, Sydney — Fri, 20 Feb 2026
+- Absturz, Leipzig · Sat, 19 Sept 2026
+- Abercrombie Hotel, Sydney · Sat, 30 May 2026
+- Abercrombie Hotel, Sydney · Fri, 20 Feb 2026
 
 ## Shares bills with
 

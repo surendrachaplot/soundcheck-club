@@ -1,6 +1,6 @@
 # Bassvictim - White Flag Tour '26 at Union Transfer
 
-Bassvictim - White Flag Tour '26 at Union Transfer on Tue 27 Oct, Philadelphia. 2 artists on the bill: Bassvictim and Thoom. Preview the line-up and save it on soundcheck.
+Bassvictim - White Flag Tour '26 at Union Transfer on Tue 27 Oct, Philadelphia. 2 artists: Bassvictim and Thoom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

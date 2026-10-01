@@ -1,8 +1,8 @@
 # G.E.N.E.
 
-G.E.N.E. is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Flash, Washington DC on Sat, 31 Oct 2026.
+G.E.N.E. is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flash, Washington DC on Sat, 31 Oct 2026.
 
-G.E.N.E. is a house and deep house artist based in United States of America, tracked on soundcheck, with 34 sets logged across New York City and Washington DC. Often billed alongside KayLaSoul, Edo and MAXIMILIANO (US). Next up: Flash, Washington DC on Sat 31 Oct.
+G.E.N.E. is a house and deep house artist based in United States of America, with 34 gigs on soundcheck across New York City and Washington DC. Often billed alongside KayLaSoul, Edo and MAXIMILIANO (US). Next up: Flash, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ G.E.N.E. is a house and deep house artist based in United States of America, tra
 
 ## Recently played
 
-- Flash, Washington DC — Fri, 18 Sept 2026
-- Flash, Washington DC — Sat, 25 Jul 2026
-- Flash, Washington DC — Sat, 21 Mar 2026
-- Eighteenth Street Lounge (ESL), Washington DC — Sun, 18 Jan 2026
-- La Fabrica, Washington DC — Sat, 10 Jan 2026
-- Flash, Washington DC — Sat, 22 Nov 2025
-- Flash, Washington DC — Sat, 13 Sept 2025
-- Eighteenth Street Lounge (ESL), Washington DC — Sun, 6 Jul 2025
+- Flash, Washington DC · Fri, 18 Sept 2026
+- Flash, Washington DC · Sat, 25 Jul 2026
+- Flash, Washington DC · Sat, 21 Mar 2026
+- Eighteenth Street Lounge (ESL), Washington DC · Sun, 18 Jan 2026
+- La Fabrica, Washington DC · Sat, 10 Jan 2026
+- Flash, Washington DC · Sat, 22 Nov 2025
+- Flash, Washington DC · Sat, 13 Sept 2025
+- Eighteenth Street Lounge (ESL), Washington DC · Sun, 6 Jul 2025
 
 ## Shares bills with
 

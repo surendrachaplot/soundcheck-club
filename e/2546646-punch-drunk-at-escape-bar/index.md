@@ -1,6 +1,6 @@
 # PUNCH DRUNK at Escape_bar
 
-PUNCH DRUNK at Escape_bar on Sat 24 Oct, Seoul. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+PUNCH DRUNK at Escape_bar on Sat 24 Oct, Seoul. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

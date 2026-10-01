@@ -1,8 +1,8 @@
 # DJ Spinn
 
-DJ Spinn is a Footwork and Ghetto Tech artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+DJ Spinn is a Footwork and Ghetto Tech artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-DJ Spinn is a footwork and ghetto tech artist based in United States of America, tracked on soundcheck, with 65 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Traxman, RP Boo and Kode9. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+DJ Spinn is a footwork and ghetto tech artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 22 more. Often billed alongside Traxman, RP Boo and Kode9. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ DJ Spinn is a footwork and ghetto tech artist based in United States of America,
 
 ## Recently played
 
-- Rotterdam Centre, Rotterdam — Fri, 11 Sept 2026
-- Lincoln Factory, Detroit — Fri, 28 Aug 2026
-- Soup, Manchester — Fri, 7 Aug 2026
-- M.O.T, London — Sun, 2 Aug 2026
-- Stereo, Glasgow — Fri, 31 Jul 2026
-- TBA - Apiro, Marche IT, Milan — Thu, 30 Jul 2026
-- Sneaky Pete's, Edinburgh — Fri, 17 Jul 2026
-- TBA, Detroit — Sat, 23 May 2026
+- Rotterdam Centre, Rotterdam · Fri, 11 Sept 2026
+- Lincoln Factory, Detroit · Fri, 28 Aug 2026
+- Soup, Manchester · Fri, 7 Aug 2026
+- M.O.T, London · Sun, 2 Aug 2026
+- Stereo, Glasgow · Fri, 31 Jul 2026
+- TBA - Apiro, Marche IT, Milan · Thu, 30 Jul 2026
+- Sneaky Pete's, Edinburgh · Fri, 17 Jul 2026
+- TBA, Detroit · Sat, 23 May 2026
 
 ## Shares bills with
 

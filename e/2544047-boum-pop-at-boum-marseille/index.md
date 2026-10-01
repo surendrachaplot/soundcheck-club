@@ -1,6 +1,6 @@
 # BOUM POP at BOUM MARSEILLE
 
-BOUM POP at BOUM MARSEILLE on Fri 2 Oct, Marseille. Electro and Pop. Preview the line-up and save it on soundcheck.
+BOUM POP at BOUM MARSEILLE on Fri 2 Oct, Marseille. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Halloween Warehouse Rave 2026 at The Cause
 
-The Halloween Warehouse Rave 2026 at The Cause on Thu 29 Oct, London. Preview the line-up and save it on soundcheck.
+The Halloween Warehouse Rave 2026 at The Cause on Thu 29 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

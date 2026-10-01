@@ -1,6 +1,6 @@
 # Elements at Gut Level
 
-Elements at Gut Level on Fri 23 Oct, Sheffield. 2 artists on the bill: Phoebe Niamh and VERA SACRA. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Elements at Gut Level on Fri 23 Oct, Sheffield. 2 artists: Phoebe Niamh and VERA SACRA. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

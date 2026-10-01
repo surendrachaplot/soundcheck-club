@@ -1,6 +1,6 @@
 # Anjunadeep Manchester at NOWHERE
 
-Anjunadeep Manchester at NOWHERE on Sat 21 Nov, Manchester. 4 artists on the bill: 16BL, Ezequiel Arias, Kloyd and Rezident. Preview the line-up and save it on soundcheck.
+Anjunadeep Manchester at NOWHERE on Sat 21 Nov, Manchester. 4 artists: 16BL, Ezequiel Arias, Kloyd and Rezident. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

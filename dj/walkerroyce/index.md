@@ -1,8 +1,8 @@
 # Walker & Royce
 
-Walker & Royce is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Music Yard, Charlotte on Fri, 2 Oct 2026.
+Walker & Royce is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Music Yard, Charlotte on Fri, 2 Oct 2026.
 
-Walker & Royce are a house and tech house duo based in United States of America, tracked on soundcheck, with 83 sets logged across Austin, Boston, Charlotte and Chicago and 14 more. Often billed alongside Vnssa, Kyle Watson and Sara Landry. Next up: The Music Yard, Charlotte on Fri 2 Oct.
+Walker & Royce are a house and tech house duo based in United States of America, with 83 gigs on soundcheck across Austin, Boston, Charlotte and Chicago and 14 more. Often billed alongside Vnssa, Kyle Watson and Sara Landry. Next up: The Music Yard, Charlotte on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Walker & Royce are a house and tech house duo based in United States of America,
 
 ## Recently played
 
-- Glen Helen Regional Park, Los Angeles — Sat, 19 Sept 2026
-- Academy LA, Los Angeles — Fri, 18 Sept 2026
-- BERHTA, Washington DC — Fri, 11 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Beach House San Diego, San Diego — Sun, 26 Jul 2026
-- Cooks Valley Campground, San Francisco/Oakland — Fri, 17 Jul 2026
-- The Concourse Project, Austin — Sat, 13 Jun 2026
-- BK Backyard, New York City — Fri, 12 Jun 2026
+- Glen Helen Regional Park, Los Angeles · Sat, 19 Sept 2026
+- Academy LA, Los Angeles · Fri, 18 Sept 2026
+- BERHTA, Washington DC · Fri, 11 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Beach House San Diego, San Diego · Sun, 26 Jul 2026
+- Cooks Valley Campground, San Francisco/Oakland · Fri, 17 Jul 2026
+- The Concourse Project, Austin · Sat, 13 Jun 2026
+- BK Backyard, New York City · Fri, 12 Jun 2026
 
 ## Shares bills with
 

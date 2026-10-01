@@ -1,8 +1,8 @@
 # Zentralwäscherei
 
-Zentralwäscherei is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ZW-CONCERT : COSEY MUELLER / EGGS AND TIARAS" on Fri, 2 Oct 2026.
+Zentralwäscherei is a music venue in Zurich with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ZW-CONCERT : COSEY MUELLER / EGGS AND TIARAS" on Fri, 2 Oct 2026.
 
-Zentralwäscherei is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including CRi, F1-PV, Lord Spikeheart and ojoo and 2 more. Browse upcoming dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
+Zentralwäscherei is a music venue in Zurich listed on soundcheck. 5 upcoming gigs, with line-ups including CRi, F1-PV, Lord Spikeheart and ojoo and 2 more. See dates, start times and who's playing. Neue Hard 12, Verein Zentralwaescherei, 8005 Zurich.
 
 ## What's on
 

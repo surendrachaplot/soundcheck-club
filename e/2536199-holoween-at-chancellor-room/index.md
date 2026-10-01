@@ -1,6 +1,6 @@
 # HOLOween at Chancellor Room
 
-HOLOween at Chancellor Room on Fri 23 Oct, Philadelphia. Progressive House and Electro. Preview the line-up and save it on soundcheck.
+HOLOween at Chancellor Room on Fri 23 Oct, Philadelphia. Progressive House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

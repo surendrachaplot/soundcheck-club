@@ -1,6 +1,6 @@
 # Calypta at QQQ ST. Park
 
-Calypta at QQQ ST. Park on Fri 9 Oct, Melbourne. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Calypta at QQQ ST. Park on Fri 9 Oct, Melbourne. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

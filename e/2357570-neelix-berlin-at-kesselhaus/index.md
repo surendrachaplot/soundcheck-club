@@ -1,6 +1,6 @@
 # NEELIX Berlin at Kesselhaus
 
-NEELIX Berlin at Kesselhaus on Sat 19 Dec, Berlin. Techno. Preview the line-up and save it on soundcheck.
+NEELIX Berlin at Kesselhaus on Sat 19 Dec, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

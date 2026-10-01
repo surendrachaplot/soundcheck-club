@@ -1,8 +1,8 @@
 # Tommy Craig
 
-Tommy Craig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Stanley's, Sydney on Sat, 3 Oct 2026.
+Tommy Craig is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stanley's, Sydney on Sat, 3 Oct 2026.
 
-Tommy Craig is a techno and house artist based in Australia, tracked on soundcheck, with 72 sets logged across Melbourne and Sydney. Often billed alongside HAUSWiFE, JOVE and Joey Coco. Next up: Stanley's, Sydney on Sat 3 Oct.
+Tommy Craig is a techno and house artist based in Australia, with 72 gigs on soundcheck across Melbourne and Sydney. Often billed alongside HAUSWiFE, JOVE and Joey Coco. Next up: Stanley's, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Tommy Craig is a techno and house artist based in Australia, tracked on soundche
 
 ## Recently played
 
-- QQQ ST. Park, Melbourne — Sat, 19 Sept 2026
-- Section 8, Melbourne — Thu, 13 Aug 2026
-- The Evelyn Hotel, Melbourne — Fri, 26 Jun 2026
-- Revolver Upstairs, Melbourne — Wed, 3 Jun 2026
-- Bodriggy, Melbourne — Fri, 24 Apr 2026
-- New Guernica, Melbourne — Thu, 29 Jan 2026
-- Howler, Melbourne — Sun, 25 Jan 2026
-- New Guernica, Melbourne — Thu, 15 Jan 2026
+- QQQ ST. Park, Melbourne · Sat, 19 Sept 2026
+- Section 8, Melbourne · Thu, 13 Aug 2026
+- The Evelyn Hotel, Melbourne · Fri, 26 Jun 2026
+- Revolver Upstairs, Melbourne · Wed, 3 Jun 2026
+- Bodriggy, Melbourne · Fri, 24 Apr 2026
+- New Guernica, Melbourne · Thu, 29 Jan 2026
+- Howler, Melbourne · Sun, 25 Jan 2026
+- New Guernica, Melbourne · Thu, 15 Jan 2026
 
 ## Shares bills with
 

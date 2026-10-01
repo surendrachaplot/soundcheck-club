@@ -1,6 +1,6 @@
 # Focal Point at Gaffe
 
-Focal Point at Gaffe on Fri 9 Oct, London. Techno and Electro. Preview the line-up and save it on soundcheck.
+Focal Point at Gaffe on Fri 9 Oct, London. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

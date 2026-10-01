@@ -1,6 +1,6 @@
 # Tuesday's Prescription - Mato at Dr. Dou Social Club
 
-Tuesday's Prescription - Mato at Dr. Dou Social Club on Tue 6 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Tuesday's Prescription - Mato at Dr. Dou Social Club on Tue 6 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

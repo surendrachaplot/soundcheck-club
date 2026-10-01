@@ -1,6 +1,6 @@
 # Macadam • Manfredas ~ Amor Leone ~ Ottäkam at Macadam
 
-Macadam • Manfredas ~ Amor Leone ~ Ottäkam on Fri 20 Nov, Nantes. 2 artists on the bill: Manfredas and Ottäkam. EBM. Preview the line-up and save it on soundcheck.
+Macadam • Manfredas ~ Amor Leone ~ Ottäkam on Fri 20 Nov, Nantes. 2 artists: Manfredas and Ottäkam. EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

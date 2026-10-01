@@ -1,6 +1,6 @@
 # Latence & Zoezo at Jalousy
 
-Latence & Zoezo at Jalousy on Sat 3 Oct, Brussels. 2 artists on the bill: Latence and ZoéZo. House. Preview the line-up and save it on soundcheck.
+Latence & Zoezo at Jalousy on Sat 3 Oct, Brussels. 2 artists: Latence and ZoéZo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

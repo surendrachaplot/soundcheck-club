@@ -1,6 +1,6 @@
 # Revamp 9th Birthday at Piccadilly Central
 
-Revamp 9th Birthday at Piccadilly Central on Fri 27 Nov, Manchester. Preview the line-up and save it on soundcheck.
+Revamp 9th Birthday at Piccadilly Central on Fri 27 Nov, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

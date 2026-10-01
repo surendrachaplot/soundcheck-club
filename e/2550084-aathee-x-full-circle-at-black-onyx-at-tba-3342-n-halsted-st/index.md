@@ -1,6 +1,6 @@
 # Aathee x Full Circle at Black Onyx at TBA - 3342 N Halsted St
 
-Aathee x Full Circle at Black Onyx at TBA - 3342 N Halsted St on Sat 10 Oct, Chicago. 1 artist on the bill: Ilana Ariella. House and Deep House. Preview the line-up and save it on soundcheck.
+Aathee x Full Circle at Black Onyx at TBA - 3342 N Halsted St on Sat 10 Oct, Chicago. 1 artist: Ilana Ariella. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

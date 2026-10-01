@@ -1,6 +1,6 @@
 # Showcase Tropical Nomads Athens at IT Athens
 
-Showcase Tropical Nomads Athens at IT Athens on Sat 3 Oct, Athens. Psytrance. Preview the line-up and save it on soundcheck.
+Showcase Tropical Nomads Athens at IT Athens on Sat 3 Oct, Athens. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Labyrinth presents: camoufly Extended Set at Colour Factory
 
-Labyrinth presents: camoufly Extended Set at Colour Factory on Fri 27 Nov, London. 1 artist on the bill: camoufly. Garage and Tech House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: camoufly Extended Set at Colour Factory on Fri 27 Nov, London. 1 artist: camoufly. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Kaskada
 
-Kaskada is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Rave like it's '93 Warsaw" on Sat, 3 Oct 2026.
+Kaskada is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Rave like it's '93 Warsaw" on Sat, 3 Oct 2026.
 
-Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including BROTHER TIM, Jurek Przezdziecki, MATRIX3K and Mikouaj Rejw / Wixapol S.A. and 2 more. Browse upcoming dates, start times and who's playing. Wybrzeże Kościuszkowskie 2, 00-390 Warszawa.
+Kaskada is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including BROTHER TIM, Jurek Przezdziecki, MATRIX3K and Mikouaj Rejw / Wixapol S.A. and 2 more. See dates, start times and who's playing. Wybrzeże Kościuszkowskie 2, 00-390 Warszawa.
 
 ## What's on
 

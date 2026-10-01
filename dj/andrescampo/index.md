@@ -1,8 +1,8 @@
 # Andres Campo
 
-Andres Campo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
+Andres Campo is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mondo Open Air, Madrid on Sat, 3 Oct 2026.
 
-Andres Campo is a techno and tech house artist based in Spain, tracked on soundcheck, with 79 sets logged across Amsterdam, Bali, Barcelona and Buenos Aires and 15 more. Often billed alongside Fatima Hajji, Luca Donzelli and Luxi Villar. Next up: Mondo Open Air, Madrid on Sat 3 Oct.
+Andres Campo is a techno and tech house artist based in Spain, with 79 gigs on soundcheck across Amsterdam, Bali, Barcelona and Buenos Aires and 15 more. Often billed alongside Fatima Hajji, Luca Donzelli and Luxi Villar. Next up: Mondo Open Air, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Andres Campo is a techno and tech house artist based in Spain, tracked on soundc
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Sun, 20 Sept 2026
-- IFEMA, Madrid — Fri, 18 Sept 2026
-- IFEMA, Madrid — Fri, 18 Sept 2026
-- Eden, Ibiza — Tue, 1 Sept 2026
-- [UNVRS], Ibiza — Sat, 29 Aug 2026
-- Moog Club, Barcelona — Wed, 19 Aug 2026
-- Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
-- Amnesia Ibiza, Ibiza — Sun, 2 Aug 2026
+- Amnesia Ibiza, Ibiza · Sun, 20 Sept 2026
+- IFEMA, Madrid · Fri, 18 Sept 2026
+- IFEMA, Madrid · Fri, 18 Sept 2026
+- Eden, Ibiza · Tue, 1 Sept 2026
+- [UNVRS], Ibiza · Sat, 29 Aug 2026
+- Moog Club, Barcelona · Wed, 19 Aug 2026
+- Amnesia Ibiza, Ibiza · Sun, 16 Aug 2026
+- Amnesia Ibiza, Ibiza · Sun, 2 Aug 2026
 
 ## Shares bills with
 

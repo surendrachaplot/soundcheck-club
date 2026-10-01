@@ -1,6 +1,6 @@
 # KINSESIS x CONCRETE JUNGLE at Patision65
 
-KINSESIS x CONCRETE JUNGLE at Patision65 on Fri 2 Oct, Athens. 1 artist on the bill: D A S. Preview the line-up and save it on soundcheck.
+KINSESIS x CONCRETE JUNGLE at Patision65 on Fri 2 Oct, Athens. 1 artist: D A S. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

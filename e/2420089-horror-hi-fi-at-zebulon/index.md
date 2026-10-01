@@ -1,6 +1,6 @@
 # Horror Hi-Fi at Zebulon
 
-Horror Hi-Fi at Zebulon on Sat 24 Oct, Los Angeles. 2 artists on the bill: Alex Oxley and Roxanne Roll. EBM and Italo Disco. Preview the line-up and save it on soundcheck.
+Horror Hi-Fi at Zebulon on Sat 24 Oct, Los Angeles. 2 artists: Alex Oxley and Roxanne Roll. EBM and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # JADA MORAES
 
-JADA MORAES is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Badehaus Berlin, Berlin on Fri, 2 Oct 2026.
+JADA MORAES is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Badehaus Berlin, Berlin on Fri, 2 Oct 2026.
 
-JADA MORAES is a house and techno artist based in Germany, tracked on soundcheck, with 189 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside DJ Soulscape, SKiiDA and ANDOW. Next up: Badehaus Berlin, Berlin on Fri 2 Oct.
+JADA MORAES is a house and techno artist based in Germany, with 189 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 12 more. Often billed alongside DJ Soulscape, SKiiDA and ANDOW. Next up: Badehaus Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ JADA MORAES is a house and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Phantom Bar Berlin, Berlin — Sat, 12 Sept 2026
-- Sigurd CPH, Copenhagen — Sat, 5 Sept 2026
-- Beach Neukölln, Berlin — Sun, 30 Aug 2026
-- Kampnagel, Hamburg — Fri, 14 Aug 2026
-- Fitzroy, Berlin — Sat, 18 Jul 2026
-- Phantom Bar Berlin, Berlin — Sat, 13 Jun 2026
-- DSTRKT Club Berlin, Berlin — Fri, 12 Jun 2026
-- Golden Pudel Club, Hamburg — Thu, 11 Jun 2026
+- Phantom Bar Berlin, Berlin · Sat, 12 Sept 2026
+- Sigurd CPH, Copenhagen · Sat, 5 Sept 2026
+- Beach Neukölln, Berlin · Sun, 30 Aug 2026
+- Kampnagel, Hamburg · Fri, 14 Aug 2026
+- Fitzroy, Berlin · Sat, 18 Jul 2026
+- Phantom Bar Berlin, Berlin · Sat, 13 Jun 2026
+- DSTRKT Club Berlin, Berlin · Fri, 12 Jun 2026
+- Golden Pudel Club, Hamburg · Thu, 11 Jun 2026
 
 ## Shares bills with
 

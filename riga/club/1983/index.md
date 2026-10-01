@@ -1,8 +1,8 @@
 # 1983
 
-1983 is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "klik klak DIGIPLANTCORE" on Fri, 2 Oct 2026.
+1983 is a music venue in Riga with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "klik klak DIGIPLANTCORE" on Fri, 2 Oct 2026.
 
-1983 is a music venue in Riga listed on soundcheck. 1 upcoming gig, with line-ups including Marss The Person and Waterflower. Browse upcoming dates, start times and who's playing. Vagonu 21, Riga, Latvia LV-1009.
+1983 is a music venue in Riga listed on soundcheck. 1 upcoming gig, with line-ups including Marss The Person and Waterflower. See dates, start times and who's playing. Vagonu 21, Riga, Latvia LV-1009.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # JAMBALAYA
 
-JAMBALAYA is a Ghetto Tech and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mood Ring, New York City on Fri, 2 Oct 2026.
+JAMBALAYA is a Ghetto Tech and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Fri, 2 Oct 2026.
 
-JAMBALAYA is a ghetto tech and club artist based in United States of America, tracked on soundcheck, with 3 sets logged across New York City and San Francisco/Oakland. Often billed alongside Joogmac, Darling Cool and MARCHANTE. Next up: Mood Ring, New York City on Fri 2 Oct.
+JAMBALAYA is a ghetto tech and club artist based in United States of America, with 3 gigs on soundcheck across New York City and San Francisco/Oakland. Often billed alongside Joogmac, Darling Cool and MARCHANTE. Next up: Mood Ring, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ JAMBALAYA is a ghetto tech and club artist based in United States of America, tr
 
 ## Recently played
 
-- Mood Ring, New York City — Fri, 14 Aug 2026
+- Mood Ring, New York City · Fri, 14 Aug 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Laumee
 
-Laumee is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at E1, London on Sat, 28 Nov 2026.
+Laumee is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Sat, 28 Nov 2026.
 
-Laumee is a minimal and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across London. Often billed alongside Ciccio (IT), UNAI (ES) and George Morteanu. Next up: E1, London on Sat 28 Nov.
+Laumee is a minimal and house artist based in United Kingdom, with 18 gigs on soundcheck across London. Often billed alongside Ciccio (IT), UNAI (ES) and George Morteanu. Next up: E1, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Laumee is a minimal and house artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- E1, London — Sat, 29 Nov 2025
-- TBA, London — Sat, 30 Nov 2024
-- 93 Feet East, London — Fri, 27 Sept 2024
-- 93 Feet East, London — Fri, 23 Aug 2024
-- TBA, London — Fri, 12 Jul 2024
-- 93 Feet East, London — Sat, 22 Jun 2024
-- 93 Feet East, London — Sat, 11 May 2024
-- 93 Feet East, London — Sat, 30 Mar 2024
+- E1, London · Sat, 29 Nov 2025
+- TBA, London · Sat, 30 Nov 2024
+- 93 Feet East, London · Fri, 27 Sept 2024
+- 93 Feet East, London · Fri, 23 Aug 2024
+- TBA, London · Fri, 12 Jul 2024
+- 93 Feet East, London · Sat, 22 Jun 2024
+- 93 Feet East, London · Sat, 11 May 2024
+- 93 Feet East, London · Sat, 30 Mar 2024
 
 ## Shares bills with
 

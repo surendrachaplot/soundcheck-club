@@ -1,6 +1,6 @@
 # Groovity Berlin: Andrew Xas, Ivan Le Mutant, Mia Bergmann, MAIROS at Bulbul Berlin
 
-Groovity Berlin: Andrew Xas, Ivan Le Mutant, Mia Bergmann, MAIROS at Bulbul Berlin on Fri 23 Oct, Berlin. 2 artists on the bill: MAIROS and Mia Bergmann. House and Club. Preview the line-up and save it on soundcheck.
+Groovity Berlin: Andrew Xas, Ivan Le Mutant, Mia Bergmann, MAIROS at Bulbul Berlin on Fri 23 Oct, Berlin. 2 artists: MAIROS and Mia Bergmann. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

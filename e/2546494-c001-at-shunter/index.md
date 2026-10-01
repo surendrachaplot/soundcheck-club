@@ -1,6 +1,6 @@
 # C001 at Shunter
 
-C001 at Shunter on Sat 31 Oct, Rotterdam. 3 artists on the bill: deep creep, Marie K and Neska. Techno and House. Preview the line-up and save it on soundcheck.
+C001 at Shunter on Sat 31 Oct, Rotterdam. 3 artists: deep creep, Marie K and Neska. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

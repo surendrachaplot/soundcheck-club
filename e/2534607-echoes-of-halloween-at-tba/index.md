@@ -1,6 +1,6 @@
 # Echoes of Halloween at TBA
 
-Echoes of Halloween at TBA on Sat 24 Oct, Ankara. 2 artists on the bill: EGE363 and Orbi. Preview the line-up and save it on soundcheck.
+Echoes of Halloween at TBA on Sat 24 Oct, Ankara. 2 artists: EGE363 and Orbi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KŌDŌ at Lio Ibiza
 
-KŌDŌ at Lio Ibiza on Sat 3 Oct, Ibiza. House and Tech House. Preview the line-up and save it on soundcheck.
+KŌDŌ at Lio Ibiza on Sat 3 Oct, Ibiza. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

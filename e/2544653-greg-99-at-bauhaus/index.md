@@ -1,6 +1,6 @@
 # GREG 99 at Bauhaus
 
-GREG 99 at Bauhaus on Fri 6 Nov, Houston. Techno and House. Preview the line-up and save it on soundcheck.
+GREG 99 at Bauhaus on Fri 6 Nov, Houston. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

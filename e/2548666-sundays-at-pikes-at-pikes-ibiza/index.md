@@ -1,6 +1,6 @@
 # Sundays at Pikes at Pikes Ibiza
 
-Sundays at Pikes at Pikes Ibiza on Sun 4 Oct, Ibiza. 9 artists on the bill: begin, Chez Damier, Dave Seaman and Il Bosco and 5 more. Balearic and Electronica. Preview the line-up and save it on soundcheck.
+Sundays at Pikes at Pikes Ibiza on Sun 4 Oct, Ibiza. 9 artists: begin, Chez Damier, Dave Seaman and Il Bosco and 5 more. Balearic and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

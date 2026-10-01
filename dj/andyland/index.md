@@ -1,8 +1,8 @@
 # ANDYLAND
 
-ANDYLAND is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 888 Garage, San Francisco/Oakland on Sat, 31 Oct 2026.
+ANDYLAND is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 888 Garage, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-ANDYLAND is a techno and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across San Francisco/Oakland. Often billed alongside MALICIEL, felipe d and QUEENIE (US). Next up: 888 Garage, San Francisco/Oakland on Sat 31 Oct.
+ANDYLAND is a techno and club artist based in United States of America, with 10 gigs on soundcheck across San Francisco/Oakland. Often billed alongside MALICIEL, felipe d and QUEENIE (US). Next up: 888 Garage, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ANDYLAND is a techno and club artist based in United States of America, tracked 
 
 ## Recently played
 
-- F8 1192 Folsom, San Francisco/Oakland — Sat, 5 Sept 2026
-- Monarch, San Francisco/Oakland — Fri, 28 Aug 2026
-- The Great Northern, San Francisco/Oakland — Sat, 15 Aug 2026
-- The Great Northern, San Francisco/Oakland — Fri, 7 Aug 2026
-- The Stud, San Francisco/Oakland — Thu, 30 Jul 2026
-- The San Francisco Mint, San Francisco/Oakland — Sun, 26 Jul 2026
-- The Stud, San Francisco/Oakland — Thu, 25 Jun 2026
-- F8 1192 Folsom, San Francisco/Oakland — Sat, 23 May 2026
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 5 Sept 2026
+- Monarch, San Francisco/Oakland · Fri, 28 Aug 2026
+- The Great Northern, San Francisco/Oakland · Sat, 15 Aug 2026
+- The Great Northern, San Francisco/Oakland · Fri, 7 Aug 2026
+- The Stud, San Francisco/Oakland · Thu, 30 Jul 2026
+- The San Francisco Mint, San Francisco/Oakland · Sun, 26 Jul 2026
+- The Stud, San Francisco/Oakland · Thu, 25 Jun 2026
+- F8 1192 Folsom, San Francisco/Oakland · Sat, 23 May 2026
 
 ## Shares bills with
 

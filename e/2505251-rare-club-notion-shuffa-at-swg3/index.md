@@ -1,6 +1,6 @@
 # RARE Club // Notion + SHUFFA at SWG3
 
-RARE Club // Notion + SHUFFA at SWG3 on Fri 9 Oct, Glasgow. 4 artists on the bill: F Kay, Notion, Orla Halligan and SHUFFA. House and Garage. Preview the line-up and save it on soundcheck.
+RARE Club // Notion + SHUFFA at SWG3 on Fri 9 Oct, Glasgow. 4 artists: F Kay, Notion, Orla Halligan and SHUFFA. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

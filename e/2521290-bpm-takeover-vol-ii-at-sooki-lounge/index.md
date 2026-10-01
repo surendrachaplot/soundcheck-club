@@ -1,6 +1,6 @@
 # BPM TAKEOVER VOL II at Sooki Lounge
 
-BPM TAKEOVER VOL II at Sooki Lounge on Sat 24 Oct, Melbourne. House and Garage. Preview the line-up and save it on soundcheck.
+BPM TAKEOVER VOL II at Sooki Lounge on Sat 24 Oct, Melbourne. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

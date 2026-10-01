@@ -1,6 +1,6 @@
 # NOXYS Späti Tour VOL. 3 with Späti 4 You - FREE RAVE (Halloween Edition) at Späti 4 You
 
-NOXYS Späti Tour VOL. 3 with Späti 4 You - FREE RAVE (Halloween Edition) on Sat 31 Oct, Berlin. 8 artists on the bill: Armaville, Calcifer, DJ Dios and Dr.Waumiau and 4 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+NOXYS Späti Tour VOL. 3 with Späti 4 You - FREE RAVE (Halloween Edition) on Sat 31 Oct, Berlin. 8 artists: Armaville, Calcifer, DJ Dios and Dr.Waumiau and 4 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

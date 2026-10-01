@@ -1,6 +1,6 @@
 # SHØCC pres. Karamustan + exclusive Festival of Light Club Edition at M-BIA
 
-SHØCC pres. Karamustan + exclusive Festival of Light Club Edition at M-BIA on Fri 9 Oct, Berlin. 4 artists on the bill: Karamustan, MØABEAT, NYXEA and Støffwechsel. Trance and Techno. Preview the line-up and save it on soundcheck.
+SHØCC pres. Karamustan + exclusive Festival of Light Club Edition at M-BIA on Fri 9 Oct, Berlin. 4 artists: Karamustan, MØABEAT, NYXEA and Støffwechsel. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

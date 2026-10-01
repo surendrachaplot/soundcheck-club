@@ -1,6 +1,6 @@
 # Barely Alive, Dion Timmer at Royale
 
-Barely Alive, Dion Timmer at Royale on Fri 18 Dec, Boston. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Barely Alive, Dion Timmer at Royale on Fri 18 Dec, Boston. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

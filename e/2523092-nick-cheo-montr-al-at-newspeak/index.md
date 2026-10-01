@@ -1,6 +1,6 @@
 # Nick Cheo - Montréal at Newspeak
 
-Nick Cheo - Montréal at Newspeak on Sat 24 Oct, Montreal. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+Nick Cheo - Montréal at Newspeak on Sat 24 Oct, Montreal. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

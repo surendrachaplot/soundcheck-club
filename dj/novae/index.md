@@ -1,8 +1,8 @@
 # nøvae
 
-nøvae is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+nøvae is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-nøvae is a techno and house artist based in Germany, tracked on soundcheck, with 60 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Rn86, Simon Phil.ter and Ri0D.. Next up: Renate, Berlin on Fri 16 Oct.
+nøvae is a techno and house artist based in Germany, with 60 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Rn86, Simon Phil.ter and Ri0D.. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ nøvae is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Westhafen, Leipzig — Sat, 18 Jul 2026
-- Bahnwärter Thiel, Munich — Fri, 19 Jun 2026
-- Klunkerkranich, Berlin — Thu, 18 Jun 2026
-- elipamanoke, Leipzig — Sat, 6 Jun 2026
-- Westhafen, Leipzig — Sat, 6 Jun 2026
-- SASS Music Club, Vienna — Sun, 26 Apr 2026
-- elipamanoke, Leipzig — Fri, 10 Apr 2026
-- Nachtigall, Cologne — Fri, 27 Mar 2026
+- Westhafen, Leipzig · Sat, 18 Jul 2026
+- Bahnwärter Thiel, Munich · Fri, 19 Jun 2026
+- Klunkerkranich, Berlin · Thu, 18 Jun 2026
+- elipamanoke, Leipzig · Sat, 6 Jun 2026
+- Westhafen, Leipzig · Sat, 6 Jun 2026
+- SASS Music Club, Vienna · Sun, 26 Apr 2026
+- elipamanoke, Leipzig · Fri, 10 Apr 2026
+- Nachtigall, Cologne · Fri, 27 Mar 2026
 
 ## Shares bills with
 

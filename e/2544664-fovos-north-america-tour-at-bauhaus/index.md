@@ -1,6 +1,6 @@
 # FOVOS: North America Tour at Bauhaus
 
-FOVOS: North America Tour at Bauhaus on Sat 5 Dec, Houston. Techno and House. Preview the line-up and save it on soundcheck.
+FOVOS: North America Tour at Bauhaus on Sat 5 Dec, Houston. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

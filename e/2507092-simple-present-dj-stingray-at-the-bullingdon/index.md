@@ -1,6 +1,6 @@
 # Simple present Dj Stingray at The Bullingdon
 
-Simple present Dj Stingray at The Bullingdon on Sat 5 Dec, South East. 1 artist on the bill: DJ Stingray 313. Preview the line-up and save it on soundcheck.
+Simple present Dj Stingray at The Bullingdon on Sat 5 Dec, South East. 1 artist: DJ Stingray 313. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

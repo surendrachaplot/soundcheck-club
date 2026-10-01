@@ -1,6 +1,6 @@
 # Vendex + invitados at Spook Club
 
-Vendex + invitados at Spook Club on Sat 14 Nov, Valencia. 1 artist on the bill: Vendex. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Vendex + invitados at Spook Club on Sat 14 Nov, Valencia. 1 artist: Vendex. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

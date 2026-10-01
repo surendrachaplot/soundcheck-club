@@ -1,6 +1,6 @@
 # Jam City at Substation
 
-Jam City at Substation on Sat 3 Oct, Seattle. Breakbeat. Preview the line-up and save it on soundcheck.
+Jam City at Substation on Sat 3 Oct, Seattle. Breakbeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

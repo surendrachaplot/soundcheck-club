@@ -1,8 +1,8 @@
 # Emvae
 
-Emvae is a House and Progressive House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Emvae is a House and Progressive House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
-Emvae is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 75 sets logged across Amsterdam, Berlin, Ibiza and Netherlands and 2 more. Often billed alongside Moxes, SAIDAH and Doppelgang. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
+Emvae is a house and progressive house artist based in Netherlands, with 75 gigs on soundcheck across Amsterdam, Berlin, Ibiza and Netherlands and 2 more. Often billed alongside Moxes, SAIDAH and Doppelgang. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Emvae is a house and progressive house artist based in Netherlands, tracked on s
 
 ## Recently played
 
-- nachbar, Amsterdam — Sat, 19 Sept 2026
-- Radio Radio, Amsterdam — Fri, 11 Sept 2026
-- Skatecafe, Amsterdam — Thu, 10 Sept 2026
-- BRET, Amsterdam — Sat, 5 Sept 2026
-- Tuinen van West, Amsterdam — Sat, 29 Aug 2026
-- Cova Santa, Ibiza — Tue, 11 Aug 2026
-- Ijburg, Amsterdam — Sun, 9 Aug 2026
-- Lofi, Amsterdam — Sat, 25 Jul 2026
+- nachbar, Amsterdam · Sat, 19 Sept 2026
+- Radio Radio, Amsterdam · Fri, 11 Sept 2026
+- Skatecafe, Amsterdam · Thu, 10 Sept 2026
+- BRET, Amsterdam · Sat, 5 Sept 2026
+- Tuinen van West, Amsterdam · Sat, 29 Aug 2026
+- Cova Santa, Ibiza · Tue, 11 Aug 2026
+- Ijburg, Amsterdam · Sun, 9 Aug 2026
+- Lofi, Amsterdam · Sat, 25 Jul 2026
 
 ## Shares bills with
 

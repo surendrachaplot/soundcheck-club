@@ -1,6 +1,6 @@
 # BASIS/ Rebekah all night long at BASIS
 
-BASIS/ Rebekah all night long on Sat 17 Oct, Utrecht. 1 artist on the bill: Rebekah. Techno and Industrial. Preview the line-up and save it on soundcheck.
+BASIS/ Rebekah all night long on Sat 17 Oct, Utrecht. 1 artist: Rebekah. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

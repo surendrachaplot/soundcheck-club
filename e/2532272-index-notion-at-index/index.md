@@ -1,6 +1,6 @@
 # Index: Notion at Index
 
-Index: Notion on Fri 16 Oct, Dublin. 1 artist on the bill: Notion. Electronica. Preview the line-up and save it on soundcheck.
+Index: Notion on Fri 16 Oct, Dublin. 1 artist: Notion. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

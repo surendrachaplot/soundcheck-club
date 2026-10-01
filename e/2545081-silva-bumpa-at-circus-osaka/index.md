@@ -1,6 +1,6 @@
 # Silva Bumpa at Circus Osaka
 
-Silva Bumpa at Circus Osaka on Fri 27 Nov, Osaka. 1 artist on the bill: Silva Bumpa. Bass and Garage. Preview the line-up and save it on soundcheck.
+Silva Bumpa at Circus Osaka on Fri 27 Nov, Osaka. 1 artist: Silva Bumpa. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

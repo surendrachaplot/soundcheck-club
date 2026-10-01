@@ -1,6 +1,6 @@
 # BAR TIME BGM at Area_osaka
 
-BAR TIME BGM at Area_osaka on Thu 1 Oct, Osaka. Techno. Preview the line-up and save it on soundcheck.
+BAR TIME BGM at Area_osaka on Thu 1 Oct, Osaka. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

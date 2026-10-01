@@ -1,6 +1,6 @@
 # RAW CUTS Records: JT Donaldson at Green Room NYC
 
-RAW CUTS Records: JT Donaldson at Green Room NYC on Sat 17 Oct, New York City. 8 artists on the bill: Jack Mulqueen, JT Donaldson, La Vega and MANE (IN) and 4 more. House. Preview the line-up and save it on soundcheck.
+RAW CUTS Records: JT Donaldson at Green Room NYC on Sat 17 Oct, New York City. 8 artists: Jack Mulqueen, JT Donaldson, La Vega and MANE (IN) and 4 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

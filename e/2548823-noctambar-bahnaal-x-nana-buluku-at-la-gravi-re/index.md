@@ -1,6 +1,6 @@
 # [NoctamBar] Bahnaal x Nana Buluku at La Gravière
 
-[NoctamBar] Bahnaal x Nana Buluku at La Gravière on Thu 22 Oct, Geneva. Baile Funk and Afrobeats. Preview the line-up and save it on soundcheck.
+[NoctamBar] Bahnaal x Nana Buluku at La Gravière on Thu 22 Oct, Geneva. Baile Funk and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

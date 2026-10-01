@@ -1,6 +1,6 @@
 # Downtempo City Funk at Social Praga at The Social Praga
 
-Downtempo City Funk at Social Praga at The Social Praga on Sat 24 Oct, Warsaw. House and Deep House. Preview the line-up and save it on soundcheck.
+Downtempo City Funk at Social Praga at The Social Praga on Sat 24 Oct, Warsaw. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Antidoto Club: Paralich + Klandestina at Club Magno
 
-Antidoto Club: Paralich + Klandestina at Club Magno on Thu 22 Oct, Madrid. 4 artists on the bill: Atrâm, Klandestina, Paralich and Quka. Hardcore and Guaracha. Preview the line-up and save it on soundcheck.
+Antidoto Club: Paralich + Klandestina at Club Magno on Thu 22 Oct, Madrid. 4 artists: Atrâm, Klandestina, Paralich and Quka. Hardcore and Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SHIBUYA FREE BOOTH at BRAND SHIBUYA
 
-SHIBUYA FREE BOOTH at BRAND SHIBUYA on Mon 5 Oct, Tokyo. Club. Preview the line-up and save it on soundcheck.
+SHIBUYA FREE BOOTH at BRAND SHIBUYA on Mon 5 Oct, Tokyo. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

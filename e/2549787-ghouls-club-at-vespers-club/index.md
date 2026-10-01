@@ -1,6 +1,6 @@
 # Ghouls Club at Vespers Club
 
-Ghouls Club at Vespers Club on Sat 3 Oct, London. 2 artists on the bill: goreshit and Lil Kevo 303. Breakcore and Gabber. Preview the line-up and save it on soundcheck.
+Ghouls Club at Vespers Club on Sat 3 Oct, London. 2 artists: goreshit and Lil Kevo 303. Breakcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

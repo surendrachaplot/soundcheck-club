@@ -1,6 +1,6 @@
 # Trinix at Kollektivet Livet Bar & Scen
 
-Trinix at Kollektivet Livet Bar & Scen on Fri 20 Nov, Stockholm. House and Afro House. Preview the line-up and save it on soundcheck.
+Trinix at Kollektivet Livet Bar & Scen on Fri 20 Nov, Stockholm. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

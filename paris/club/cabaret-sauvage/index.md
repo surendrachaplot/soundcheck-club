@@ -1,8 +1,8 @@
 # Cabaret Sauvage
 
-Cabaret Sauvage is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Planète House: Boston Bun, Selena Faider, Melé [Booth 360°]" on Fri, 2 Oct 2026.
+Cabaret Sauvage is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Planète House: Boston Bun, Selena Faider, Melé [Booth 360°]" on Fri, 2 Oct 2026.
 
-Cabaret Sauvage is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including BAB MUSIQUE, Basile de Suresnes, Boston Bun and Chinau and 2 more. Browse upcoming dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
+Cabaret Sauvage is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including BAB MUSIQUE, Basile de Suresnes, Boston Bun and Chinau and 2 more. See dates, start times and who's playing. 211 Avenue Jean Jaurès; 75019; Paris; France.
 
 ## What's on
 

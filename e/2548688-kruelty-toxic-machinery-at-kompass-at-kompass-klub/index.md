@@ -1,6 +1,6 @@
 # KRUELTY, Toxic Machinery at Kompass at Kompass Klub
 
-KRUELTY, Toxic Machinery at Kompass at Kompass Klub on Fri 27 Nov, Ghent. 3 artists on the bill: Jane Muss, KRUELTY and SLVL. Industrial. Preview the line-up and save it on soundcheck.
+KRUELTY, Toxic Machinery at Kompass at Kompass Klub on Fri 27 Nov, Ghent. 3 artists: Jane Muss, KRUELTY and SLVL. Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

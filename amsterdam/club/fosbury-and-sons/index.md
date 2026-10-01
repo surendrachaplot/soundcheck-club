@@ -1,8 +1,8 @@
 # Fosbury and Sons
 
-Fosbury and Sons is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "ATARASHI ADE with DJ Tennis, Saraga & More" on Fri, 23 Oct 2026.
+Fosbury and Sons is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ATARASHI ADE with DJ Tennis, Saraga & More" on Fri, 23 Oct 2026.
 
-Fosbury and Sons is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including DJ Tennis, II FACES, Ramyen and Saraga. Browse upcoming dates, start times and who's playing. Prinsengracht 769, 1017 JZ Amsterdam.
+Fosbury and Sons is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including DJ Tennis, II FACES, Ramyen and Saraga. See dates, start times and who's playing. Prinsengracht 769, 1017 JZ Amsterdam.
 
 ## What's on
 

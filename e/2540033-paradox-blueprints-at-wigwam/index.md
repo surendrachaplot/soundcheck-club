@@ -1,6 +1,6 @@
 # Paradox : Blueprints at Wigwam
 
-Paradox : Blueprints at Wigwam on Sat 7 Nov, Dublin. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Paradox : Blueprints at Wigwam on Sat 7 Nov, Dublin. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

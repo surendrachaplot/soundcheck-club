@@ -1,6 +1,6 @@
 # Pon DI Box at The Boombox
 
-Pon DI Box at The Boombox on Sun 4 Oct, Miami. 4 artists on the bill: Aphex Twink, GRUE5OME, Lady Narcisse and SUCIA!. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+Pon DI Box at The Boombox on Sun 4 Oct, Miami. 4 artists: Aphex Twink, GRUE5OME, Lady Narcisse and SUCIA!. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Lauantaijatkot Stidilässä – Monokromatiko & una at Stidilä
 
-Lauantaijatkot Stidilässä – Monokromatiko & una on Sun 25 Oct, Helsinki. 1 artist on the bill: una. Preview the line-up and save it on soundcheck.
+Lauantaijatkot Stidilässä – Monokromatiko & una on Sun 25 Oct, Helsinki. 1 artist: una. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

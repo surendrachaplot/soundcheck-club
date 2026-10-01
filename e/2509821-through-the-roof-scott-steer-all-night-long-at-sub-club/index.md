@@ -1,6 +1,6 @@
 # Through The Roof // Scott Steer [All Night Long] at Sub Club
 
-Through The Roof // Scott Steer [All Night Long] at Sub Club on Sun 8 Nov, Glasgow. House and Minimal. Preview the line-up and save it on soundcheck.
+Through The Roof // Scott Steer [All Night Long] at Sub Club on Sun 8 Nov, Glasgow. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

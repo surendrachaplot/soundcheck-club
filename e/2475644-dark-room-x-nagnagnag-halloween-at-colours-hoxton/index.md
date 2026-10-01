@@ -1,6 +1,6 @@
 # DARK ROOM x NAGNAGNAG HALLOWEEN at Colours Hoxton
 
-DARK ROOM x NAGNAGNAG HALLOWEEN at Colours Hoxton on Sat 31 Oct, London. 6 artists on the bill: Dina Summer, Dj Malefica, Elander Ziggy and Kalipo and 2 more. Electro and EBM. Preview the line-up and save it on soundcheck.
+DARK ROOM x NAGNAGNAG HALLOWEEN at Colours Hoxton on Sat 31 Oct, London. 6 artists: Dina Summer, Dj Malefica, Elander Ziggy and Kalipo and 2 more. Electro and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

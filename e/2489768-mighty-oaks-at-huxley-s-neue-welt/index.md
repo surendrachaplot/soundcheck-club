@@ -1,6 +1,6 @@
 # Mighty Oaks at Huxley's Neue Welt
 
-Mighty Oaks at Huxley's Neue Welt on Wed 9 Dec, Berlin. Preview the line-up and save it on soundcheck.
+Mighty Oaks at Huxley's Neue Welt on Wed 9 Dec, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

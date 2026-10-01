@@ -1,6 +1,6 @@
 # ▀▄▀▄THE MAZE - V2 ▄▀▄▀ at 1201 Franklin St
 
-▀▄▀▄THE MAZE - V2 ▄▀▄▀ at 1201 Franklin St on Sat 3 Oct, Vancouver. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+▀▄▀▄THE MAZE - V2 ▄▀▄▀ at 1201 Franklin St on Sat 3 Oct, Vancouver. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

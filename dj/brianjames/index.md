@@ -1,8 +1,8 @@
 # Brian James
 
-Brian James is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Liquid Club, Malta on Fri, 16 Oct 2026.
+Brian James is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Liquid Club, Malta on Fri, 16 Oct 2026.
 
-Brian James is a techno and house artist based in Malta, tracked on soundcheck, with 5 sets logged across Malta. Often billed alongside Owen Jay, Anthea and BENGY. Next up: Liquid Club, Malta on Fri 16 Oct.
+Brian James is a techno and house artist based in Malta, with 5 gigs on soundcheck across Malta. Often billed alongside Owen Jay, Anthea and BENGY. Next up: Liquid Club, Malta on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,10 +12,10 @@ Brian James is a techno and house artist based in Malta, tracked on soundcheck, 
 
 ## Recently played
 
-- Liquid Club, Malta — Sat, 3 May 2025
-- UNO MALTA, Malta — Fri, 17 May 2024
-- Beach Haven, Malta — Sat, 1 Jul 2023
-- Paradise Bay Resort Hotel, Malta — Sat, 25 Mar 2023
+- Liquid Club, Malta · Sat, 3 May 2025
+- UNO MALTA, Malta · Fri, 17 May 2024
+- Beach Haven, Malta · Sat, 1 Jul 2023
+- Paradise Bay Resort Hotel, Malta · Sat, 25 Mar 2023
 
 ## Shares bills with
 

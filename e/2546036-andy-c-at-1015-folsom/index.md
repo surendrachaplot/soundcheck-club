@@ -1,6 +1,6 @@
 # Andy C at 1015 Folsom
 
-Andy C at 1015 Folsom on Wed 25 Nov, San Francisco/Oakland. 1 artist on the bill: Andy C. Drum & Bass. Preview the line-up and save it on soundcheck.
+Andy C at 1015 Folsom on Wed 25 Nov, San Francisco/Oakland. 1 artist: Andy C. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Teen Daze (aka Pacific Coliseum) at Hosoi
 
-Teen Daze (aka Pacific Coliseum) at Hosoi on Fri 2 Oct, Stockholm. 1 artist on the bill: Teen Daze. Preview the line-up and save it on soundcheck.
+Teen Daze (aka Pacific Coliseum) at Hosoi on Fri 2 Oct, Stockholm. 1 artist: Teen Daze. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

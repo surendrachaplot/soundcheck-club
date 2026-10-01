@@ -1,6 +1,6 @@
 # ÀBÁSE  *live at Gretchen
 
-ÀBÁSE  *live at Gretchen on Thu 5 Nov, Berlin. 1 artist on the bill: Àbáse. Jazz and Afrobeat. Preview the line-up and save it on soundcheck.
+ÀBÁSE  *live at Gretchen on Thu 5 Nov, Berlin. 1 artist: Àbáse. Jazz and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Cinthie
 
-Cinthie is a House and Techno artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Cinthie is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Cinthie is a house and techno artist based in Germany, tracked on soundcheck, with 290 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Dan Shake and Gabrielle Kwarteng. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Cinthie is a house and techno artist based in Germany, with 291 gigs on soundcheck across Amsterdam, Austin, Bangkok and Barcelona and 55 more. Often billed alongside Meat, Dan Shake and Gabrielle Kwarteng. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,23 +14,23 @@ Cinthie is a house and techno artist based in Germany, tracked on soundcheck, wi
 | Sun, 4 Oct 2026 | Sonnenraum | Berlin |
 | Fri, 16 Oct 2026 | Fuse | Brussels |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
+| Wed, 21 Oct 2026 | Basement Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Sat, 24 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 24 Oct 2026 | Yellow House | Amsterdam |
 | Fri, 30 Oct 2026 | Nitsa Club | Barcelona |
-| Fri, 13 Nov 2026 | Sala Villanos | Madrid |
 
 ## Recently played
 
-- The Cause, London — Sat, 26 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 19 Sept 2026
-- Fidelity Studio, Dublin — Fri, 18 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 17 Sept 2026
-- Lofi, Amsterdam — Sat, 12 Sept 2026
-- Artheater, Cologne — Fri, 11 Sept 2026
-- Cova Santa, Ibiza — Tue, 8 Sept 2026
-- Tempelhof Airport, Berlin — Sat, 22 Aug 2026
+- The Cause, London · Sat, 26 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
+- Fidelity Studio, Dublin · Fri, 18 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 17 Sept 2026
+- Lofi, Amsterdam · Sat, 12 Sept 2026
+- Artheater, Cologne · Fri, 11 Sept 2026
+- Cova Santa, Ibiza · Tue, 8 Sept 2026
+- Tempelhof Airport, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 

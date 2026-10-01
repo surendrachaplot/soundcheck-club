@@ -1,6 +1,6 @@
 # FWEAKY - 3rd Birthday / Halloween Ball at NUMBER 90 LONDON
 
-FWEAKY - 3rd Birthday / Halloween Ball at NUMBER 90 LONDON on Fri 30 Oct, London. Breakbeat and House. Preview the line-up and save it on soundcheck.
+FWEAKY - 3rd Birthday / Halloween Ball at NUMBER 90 LONDON on Fri 30 Oct, London. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

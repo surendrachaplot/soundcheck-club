@@ -1,8 +1,8 @@
 # Crevette Records
 
-Crevette Records is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "CREVETTE RECORDS - 10 YEAR ANNIVERSARY - INSTORE SESSIONS" on Wed, 4 Nov 2026.
+Crevette Records is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "CREVETTE RECORDS - 10 YEAR ANNIVERSARY - INSTORE SESSIONS" on Wed, 4 Nov 2026.
 
-Crevette Records is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Adi, Aroh, Bon Public and Celz and 2 more. Browse upcoming dates, start times and who's playing.
+Crevette Records is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Adi, Aroh, Bon Public and Celz and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # LOW LIFE presents THE WITCHES OF EAST WICK at NUMBER 90 LONDON
 
-LOW LIFE presents THE WITCHES OF EAST WICK at NUMBER 90 LONDON on Sat 31 Oct, London. 4 artists on the bill: Bill Brewster, Frank Broughton, Sarahtonin and Zakia. Deep House and Disco. Preview the line-up and save it on soundcheck.
+LOW LIFE presents THE WITCHES OF EAST WICK at NUMBER 90 LONDON on Sat 31 Oct, London. 4 artists: Bill Brewster, Frank Broughton, Sarahtonin and Zakia. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

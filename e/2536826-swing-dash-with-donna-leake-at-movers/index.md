@@ -1,6 +1,6 @@
 # Swing Dash with Donna Leake at Movers
 
-Swing Dash with Donna Leake at Movers on Sat 7 Nov, Nottingham. 1 artist on the bill: Donna Leake. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Swing Dash with Donna Leake at Movers on Sat 7 Nov, Nottingham. 1 artist: Donna Leake. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

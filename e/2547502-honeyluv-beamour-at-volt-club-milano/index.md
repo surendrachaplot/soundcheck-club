@@ -1,6 +1,6 @@
 # HoneyLuv + BEAMOUR at Volt Club Milano
 
-HoneyLuv + BEAMOUR at Volt Club Milano on Thu 8 Oct, Milan. 1 artist on the bill: HoneyLuv. Techno and House. Preview the line-up and save it on soundcheck.
+HoneyLuv + BEAMOUR at Volt Club Milano on Thu 8 Oct, Milan. 1 artist: HoneyLuv. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LA BEAT SOUL CLUB at People's Leisure Club
 
-LA BEAT SOUL CLUB at People's Leisure Club on Fri 9 Oct, Edinburgh. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+LA BEAT SOUL CLUB at People's Leisure Club on Fri 9 Oct, Edinburgh. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

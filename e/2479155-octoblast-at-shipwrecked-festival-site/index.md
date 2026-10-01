@@ -1,6 +1,6 @@
 # OCTOBLAST at Shipwrecked Festival Site
 
-OCTOBLAST at Shipwrecked Festival Site on Fri 23 Oct, Auckland. Bass and Psytrance. Preview the line-up and save it on soundcheck.
+OCTOBLAST at Shipwrecked Festival Site on Fri 23 Oct, Auckland. Bass and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

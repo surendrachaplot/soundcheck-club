@@ -1,6 +1,6 @@
 # Soul Motive - TBA at People's Leisure Club
 
-Soul Motive - TBA at People's Leisure Club on Fri 6 Nov, Edinburgh. House and Acid. Preview the line-up and save it on soundcheck.
+Soul Motive - TBA at People's Leisure Club on Fri 6 Nov, Edinburgh. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

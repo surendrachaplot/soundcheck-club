@@ -1,6 +1,6 @@
 # MILAN'S ECHO with Andy's Echo (Live), Hylo, Purple Tape, Niko Nash at Malaga Sin City
 
-MILAN'S ECHO with Andy's Echo (Live), Hylo, Purple Tape, Niko Nash at Malaga Sin City on Fri 9 Oct, Milan. 3 artists on the bill: Andy's Echo, HYLO (IT) and Purple Tape. House and Electronica. Preview the line-up and save it on soundcheck.
+MILAN'S ECHO with Andy's Echo (Live), Hylo, Purple Tape, Niko Nash at Malaga Sin City on Fri 9 Oct, Milan. 3 artists: Andy's Echo, HYLO (IT) and Purple Tape. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

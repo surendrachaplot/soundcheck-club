@@ -1,6 +1,6 @@
 # ElBassline at 303 at 303 Audiophile Bar
 
-ElBassline at 303 at 303 Audiophile Bar on Fri 16 Oct, Barcelona. 1 artist on the bill: Fedo (UA). House. Preview the line-up and save it on soundcheck.
+ElBassline at 303 at 303 Audiophile Bar on Fri 16 Oct, Barcelona. 1 artist: Fedo (UA). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

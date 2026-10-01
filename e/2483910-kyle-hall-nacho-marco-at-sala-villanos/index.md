@@ -1,6 +1,6 @@
 # Kyle Hall + Nacho Marco at Sala Villanos
 
-Kyle Hall + Nacho Marco at Sala Villanos on Sat 12 Dec, Madrid. 2 artists on the bill: Kyle Hall and Nacho Marco. Electronica. Preview the line-up and save it on soundcheck.
+Kyle Hall + Nacho Marco at Sala Villanos on Sat 12 Dec, Madrid. 2 artists: Kyle Hall and Nacho Marco. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

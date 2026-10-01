@@ -1,6 +1,6 @@
 # Book of Bass: Chapter 7 ft. Bommer at Warehouse on Watts
 
-Book of Bass: Chapter 7 ft. Bommer at Warehouse on Watts on Fri 6 Nov, Philadelphia. Bass. Preview the line-up and save it on soundcheck.
+Book of Bass: Chapter 7 ft. Bommer at Warehouse on Watts on Fri 6 Nov, Philadelphia. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

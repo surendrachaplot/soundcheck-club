@@ -1,6 +1,6 @@
 # Tiempo at Lio Ibiza
 
-Tiempo at Lio Ibiza on Thu 1 Oct, Ibiza. Afro House. Preview the line-up and save it on soundcheck.
+Tiempo at Lio Ibiza on Thu 1 Oct, Ibiza. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rave Rabbit Birthday Party at The Timber Loft
 
-Rave Rabbit Birthday Party at The Timber Loft on Sun 20 Dec, London. Preview the line-up and save it on soundcheck.
+Rave Rabbit Birthday Party at The Timber Loft on Sun 20 Dec, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

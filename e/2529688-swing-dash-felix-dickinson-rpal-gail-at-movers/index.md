@@ -1,6 +1,6 @@
 # Swing Dash: Felix Dickinson, rPal + Gail at Movers
 
-Swing Dash: Felix Dickinson, rPal + Gail at Movers on Sat 3 Oct, Nottingham. 2 artists on the bill: Felix Dickinson and rPal. House and Tech House. Preview the line-up and save it on soundcheck.
+Swing Dash: Felix Dickinson, rPal + Gail at Movers on Sat 3 Oct, Nottingham. 2 artists: Felix Dickinson and rPal. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

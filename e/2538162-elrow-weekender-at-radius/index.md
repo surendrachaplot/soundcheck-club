@@ -1,6 +1,6 @@
 # Elrow Weekender at Radius
 
-Elrow Weekender at Radius on Fri 11 Dec, Chicago. House. Preview the line-up and save it on soundcheck.
+Elrow Weekender at Radius on Fri 11 Dec, Chicago. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

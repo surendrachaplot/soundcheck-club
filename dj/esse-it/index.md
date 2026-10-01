@@ -1,8 +1,8 @@
 # Essē (IT)
 
-Essē (IT) is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Circolo Amelia, Milan on Fri, 6 Nov 2026.
+Essē (IT) is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Circolo Amelia, Milan on Fri, 6 Nov 2026.
 
-Essē (IT) is a techno and electronica artist based in Italy, tracked on soundcheck, with 10 sets logged across Milan. Often billed alongside Enrico Vivaldi, Lady Goccia and Marc Anthony Bowen. Next up: Circolo Amelia, Milan on Fri 6 Nov.
+Essē (IT) is a techno and electronica artist based in Italy, with 10 gigs on soundcheck across Milan. Often billed alongside Enrico Vivaldi, Lady Goccia and Marc Anthony Bowen. Next up: Circolo Amelia, Milan on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Essē (IT) is a techno and electronica artist based in Italy, tracked on soundch
 
 ## Recently played
 
-- Circolo Amelia, Milan — Fri, 22 May 2026
-- Circolo Amelia, Milan — Fri, 7 Feb 2025
-- Q Club, Milan — Fri, 29 Nov 2024
-- Spazio Diaz, Milan — Fri, 26 Apr 2024
-- Tempio del Futuro Perduto, Milan — Sat, 23 Mar 2024
-- Main Club, Milan — Fri, 20 Oct 2023
-- Godot Milano, Milan — Tue, 25 Jul 2023
-- Asd Laghi Carcana, Milan — Sat, 15 Jul 2023
+- Circolo Amelia, Milan · Fri, 22 May 2026
+- Circolo Amelia, Milan · Fri, 7 Feb 2025
+- Q Club, Milan · Fri, 29 Nov 2024
+- Spazio Diaz, Milan · Fri, 26 Apr 2024
+- Tempio del Futuro Perduto, Milan · Sat, 23 Mar 2024
+- Main Club, Milan · Fri, 20 Oct 2023
+- Godot Milano, Milan · Tue, 25 Jul 2023
+- Asd Laghi Carcana, Milan · Sat, 15 Jul 2023
 
 ## Shares bills with
 

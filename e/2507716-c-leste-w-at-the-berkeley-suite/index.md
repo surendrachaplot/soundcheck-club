@@ -1,6 +1,6 @@
 # Céleste W/ ***** at The Berkeley Suite
 
-Céleste W/ ***** at The Berkeley Suite on Fri 27 Nov, Glasgow. Preview the line-up and save it on soundcheck.
+Céleste W/ ***** at The Berkeley Suite on Fri 27 Nov, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

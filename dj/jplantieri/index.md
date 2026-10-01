@@ -1,8 +1,8 @@
 # JP Lantieri
 
-JP Lantieri is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+JP Lantieri is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bears Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-JP Lantieri is a house and progressive house artist based in France, tracked on soundcheck, with 6 sets logged across Amsterdam, London and Paris. Often billed alongside Eddy Tango, 6RAJ and AMYMI MUSICA. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
+JP Lantieri is a house and progressive house artist based in France, with 6 gigs on soundcheck across Amsterdam, London and Paris. Often billed alongside Eddy Tango, 6RAJ and AMYMI MUSICA. Next up: Bears Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,10 +13,10 @@ JP Lantieri is a house and progressive house artist based in France, tracked on 
 
 ## Recently played
 
-- TBA - Soly, 52 Rue Saint-Sébastien, 75011, Paris, Paris — Thu, 16 Apr 2026
-- Supperclub Cruise, Amsterdam — Sun, 26 Oct 2025
-- Akhnaton, Amsterdam — Sat, 11 Oct 2025
-- Basing House, London — Sat, 20 Apr 2024
+- TBA - Soly, 52 Rue Saint-Sébastien, 75011, Paris, Paris · Thu, 16 Apr 2026
+- Supperclub Cruise, Amsterdam · Sun, 26 Oct 2025
+- Akhnaton, Amsterdam · Sat, 11 Oct 2025
+- Basing House, London · Sat, 20 Apr 2024
 
 ## Shares bills with
 

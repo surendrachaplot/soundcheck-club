@@ -1,6 +1,6 @@
 # Intergalactic FM presents Acid Bunker at Hall of Fame
 
-Intergalactic FM presents Acid Bunker at Hall of Fame on Fri 6 Nov, Netherlands. 3 artists on the bill: Esther Dune, I-F and Marsman. Preview the line-up and save it on soundcheck.
+Intergalactic FM presents Acid Bunker at Hall of Fame on Fri 6 Nov, Netherlands. 3 artists: Esther Dune, I-F and Marsman. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

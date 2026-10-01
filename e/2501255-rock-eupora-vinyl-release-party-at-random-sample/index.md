@@ -1,6 +1,6 @@
 # Rock Eupora // Vinyl Release Party at Random Sample
 
-Rock Eupora // Vinyl Release Party at Random Sample on Sat 7 Nov, Nashville. Pop. Preview the line-up and save it on soundcheck.
+Rock Eupora // Vinyl Release Party at Random Sample on Sat 7 Nov, Nashville. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

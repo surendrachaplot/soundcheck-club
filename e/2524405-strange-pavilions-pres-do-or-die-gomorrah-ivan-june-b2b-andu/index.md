@@ -1,6 +1,6 @@
 # strange pavilions pres. DO/OR/DIE, GOMORRAH, IVAN, JUNE B2B ANDU at TBA - Secret Location
 
-strange pavilions pres. DO/OR/DIE, GOMORRAH, IVAN, JUNE B2B ANDU at TBA - Secret Location on Sat 24 Oct, Amsterdam. Techno and Electro. Preview the line-up and save it on soundcheck.
+strange pavilions pres. DO/OR/DIE, GOMORRAH, IVAN, JUNE B2B ANDU at TBA - Secret Location on Sat 24 Oct, Amsterdam. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

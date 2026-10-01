@@ -1,6 +1,6 @@
 # ! work party at The Peer Hat
 
-! work party at The Peer Hat on Sat 24 Oct, Manchester. House and Disco. Preview the line-up and save it on soundcheck.
+! work party at The Peer Hat on Sat 24 Oct, Manchester. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

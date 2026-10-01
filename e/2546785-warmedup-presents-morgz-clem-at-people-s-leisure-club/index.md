@@ -1,6 +1,6 @@
 # WarmedUp presents: Morgz & CLEM at People's Leisure Club
 
-WarmedUp presents: Morgz & CLEM at People's Leisure Club on Thu 12 Nov, Edinburgh. 2 artists on the bill: CIem and Morgz. House and Tech House. Preview the line-up and save it on soundcheck.
+WarmedUp presents: Morgz & CLEM at People's Leisure Club on Thu 12 Nov, Edinburgh. 2 artists: CIem and Morgz. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

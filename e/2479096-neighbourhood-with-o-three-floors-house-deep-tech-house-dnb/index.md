@@ -1,6 +1,6 @@
 # Neighbourhood with :o)? - three floors: house, deep & tech house, dnb at Chapeau Rouge
 
-Neighbourhood with :o)? - three floors: house, deep & tech house, dnb at Chapeau Rouge on Fri 13 Nov, Prague. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Neighbourhood with :o)? - three floors: house, deep & tech house, dnb at Chapeau Rouge on Fri 13 Nov, Prague. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

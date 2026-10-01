@@ -1,8 +1,8 @@
 # Ezra Collective
 
-Ezra Collective is a Jazz and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Ezra Collective is a Jazz and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
-Ezra Collective is a jazz and funk / soul artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Birmingham, Brisbane and Bristol and 9 more. Often billed alongside Jamz Supernova, Goldie and Kokoroko. Next up: Carriageworks, Sydney on Sat 3 Oct.
+Ezra Collective is a jazz and funk / soul artist based in United Kingdom, with 17 gigs on soundcheck across Berlin, Birmingham, Brisbane and Bristol and 9 more. Often billed alongside Jamz Supernova, Goldie and Kokoroko. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Ezra Collective is a jazz and funk / soul artist based in United Kingdom, tracke
 
 ## Recently played
 
-- Jacaranda Baltic, Liverpool — Thu, 17 Sept 2026
-- Moseley Park, Birmingham — Fri, 11 Jul 2025
-- Glendalough Estate, Dublin — Fri, 13 Jun 2025
-- Whitebottom Farm, Etherow Country Park, Manchester — Fri, 13 Jun 2025
-- Princess Theatre, Brisbane — Sun, 1 Jun 2025
-- TBA - Forrum, Melbourne — Thu, 29 May 2025
-- Brockwell Park, London — Sun, 25 May 2025
-- Amager Bio, Copenhagen — Fri, 18 Oct 2024
+- Jacaranda Baltic, Liverpool · Thu, 17 Sept 2026
+- Moseley Park, Birmingham · Fri, 11 Jul 2025
+- Glendalough Estate, Dublin · Fri, 13 Jun 2025
+- Whitebottom Farm, Etherow Country Park, Manchester · Fri, 13 Jun 2025
+- Princess Theatre, Brisbane · Sun, 1 Jun 2025
+- TBA - Forrum, Melbourne · Thu, 29 May 2025
+- Brockwell Park, London · Sun, 25 May 2025
+- Amager Bio, Copenhagen · Fri, 18 Oct 2024
 
 ## Shares bills with
 

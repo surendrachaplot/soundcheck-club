@@ -1,6 +1,6 @@
 # Sound Garden at Space Orbit
 
-Sound Garden at Space Orbit on Thu 8 Oct, Tokyo. 3 artists on the bill: Chris SSG, David Dicembre and Delta Funktionen. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Sound Garden at Space Orbit on Thu 8 Oct, Tokyo. 3 artists: Chris SSG, David Dicembre and Delta Funktionen. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

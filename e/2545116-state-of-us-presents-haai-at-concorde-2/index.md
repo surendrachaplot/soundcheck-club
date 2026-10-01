@@ -1,6 +1,6 @@
 # State of Us presents HAAi at Concorde 2
 
-State of Us presents HAAi at Concorde 2 on Fri 20 Nov, Brighton. 2 artists on the bill: HAAi and Planningtorock. Techno and House. Preview the line-up and save it on soundcheck.
+State of Us presents HAAi at Concorde 2 on Fri 20 Nov, Brighton. 2 artists: HAAi and Planningtorock. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

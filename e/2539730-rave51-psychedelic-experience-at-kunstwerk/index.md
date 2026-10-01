@@ -1,6 +1,6 @@
 # Rave51 - Psychedelic Experience at Kunstwerk
 
-Rave51 - Psychedelic Experience at Kunstwerk on Fri 16 Oct, Cologne. Psytrance. Preview the line-up and save it on soundcheck.
+Rave51 - Psychedelic Experience at Kunstwerk on Fri 16 Oct, Cologne. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Lukas & Frank live in Edinburgh at The Liquid Room
 
-Lukas & Frank live in Edinburgh at The Liquid Room on Wed 25 Nov, Edinburgh. 1 artist on the bill: LUKAS & FRANK. Afro House. Preview the line-up and save it on soundcheck.
+Lukas & Frank live in Edinburgh at The Liquid Room on Wed 25 Nov, Edinburgh. 1 artist: LUKAS & FRANK. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CA: Maik Miroux at Casa Amante Club
 
-CA: Maik Miroux at Casa Amante Club on Thu 1 Oct, Madrid. 1 artist on the bill: Maik Miroux. House. Preview the line-up and save it on soundcheck.
+CA: Maik Miroux at Casa Amante Club on Thu 1 Oct, Madrid. 1 artist: Maik Miroux. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

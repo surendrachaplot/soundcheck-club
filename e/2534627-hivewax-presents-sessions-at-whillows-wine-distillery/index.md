@@ -1,6 +1,6 @@
 # HiVEWAX presents SESSIONS at Whillows Wine Distillery
 
-HiVEWAX presents SESSIONS at Whillows Wine Distillery on Fri 2 Oct, Manchester. Electro and Deep House. Preview the line-up and save it on soundcheck.
+HiVEWAX presents SESSIONS at Whillows Wine Distillery on Fri 2 Oct, Manchester. Electro and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

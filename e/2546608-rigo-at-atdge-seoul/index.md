@@ -1,6 +1,6 @@
 # RIGO at Atdge Seoul
 
-RIGO at Atdge Seoul on Wed 7 Oct, Seoul. 2 artists on the bill: Haemi Park and RIGO. Trance and Minimal. Preview the line-up and save it on soundcheck.
+RIGO at Atdge Seoul on Wed 7 Oct, Seoul. 2 artists: Haemi Park and RIGO. Trance and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

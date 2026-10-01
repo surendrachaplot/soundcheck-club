@@ -1,6 +1,6 @@
 # TRIBQU pres. Zjoso, Seki, Kenfo & Sekuru at Abercrombie Hotel
 
-TRIBQU pres. Zjoso, Seki, Kenfo & Sekuru at Abercrombie Hotel on Fri 16 Oct, Sydney. 3 artists on the bill: Kenfo, Seki and Zjoso. House and Bass. Preview the line-up and save it on soundcheck.
+TRIBQU pres. Zjoso, Seki, Kenfo & Sekuru at Abercrombie Hotel on Fri 16 Oct, Sydney. 3 artists: Kenfo, Seki and Zjoso. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

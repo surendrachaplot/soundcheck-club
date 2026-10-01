@@ -1,8 +1,8 @@
 # Grum
 
-Grum is a Progressive House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Gaswrx Birmingham, London on Sat, 24 Oct 2026.
+Grum is a Progressive House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gaswrx Birmingham, London on Sat, 24 Oct 2026.
 
-Grum is a progressive house and trance artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Chicago, Glasgow, London and Los Angeles and 6 more. Often billed alongside Above & Beyond, Leena Punks and Paul Van Dyk. Next up: Gaswrx Birmingham, London on Sat 24 Oct.
+Grum is a progressive house and trance artist based in United Kingdom, with 19 gigs on soundcheck across Chicago, Glasgow, London and Los Angeles and 6 more. Often billed alongside Above & Beyond, Leena Punks and Paul Van Dyk. Next up: Gaswrx Birmingham, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Grum is a progressive house and trance artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Aura Cocina & Bar, New York City — Sun, 20 Sept 2026
-- Level 8 DTLA, Los Angeles — Sun, 6 Sept 2026
-- Silverworks Island, London — Fri, 3 Jul 2026
-- fabric, London — Fri, 3 Jul 2026
-- fabric, London — Sat, 21 Feb 2026
-- The Brooklyn Monarch, New York City — Sat, 7 Feb 2026
-- Mazuma, Miami — Sat, 17 Jan 2026
-- Ozmozis, Toronto — Fri, 16 Jan 2026
+- Aura Cocina & Bar, New York City · Sun, 20 Sept 2026
+- Level 8 DTLA, Los Angeles · Sun, 6 Sept 2026
+- Silverworks Island, London · Fri, 3 Jul 2026
+- fabric, London · Fri, 3 Jul 2026
+- fabric, London · Sat, 21 Feb 2026
+- The Brooklyn Monarch, New York City · Sat, 7 Feb 2026
+- Mazuma, Miami · Sat, 17 Jan 2026
+- Ozmozis, Toronto · Fri, 16 Jan 2026
 
 ## Shares bills with
 

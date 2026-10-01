@@ -1,8 +1,8 @@
 # DJ Hannah
 
-DJ Hannah is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
+DJ Hannah is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Shipyards Waterfront, Vancouver on Sat, 3 Oct 2026.
 
-DJ Hannah is a house and techno artist based in Canada, tracked on soundcheck, with 14 sets logged across Amsterdam, Berlin, New York City and Tokyo and 1 more. Often billed alongside AWood, Dose. and INNEZZ. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
+DJ Hannah is a house and techno artist based in Canada, with 14 gigs on soundcheck across Amsterdam, Berlin, New York City and Tokyo and 1 more. Often billed alongside AWood, Dose. and INNEZZ. Next up: TBA - Shipyards Waterfront, Vancouver on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ Hannah is a house and techno artist based in Canada, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA - Shipyards North Vancouver, Vancouver — Sat, 18 Jul 2026
-- Celebrities Night Club, Vancouver — Sat, 23 May 2026
-- TBA - Near Nelson BC, Vancouver — Sat, 16 May 2026
-- TBA - CANCELED , Vancouver — Fri, 23 Jan 2026
-- Ohjo Bldg, Tokyo — Fri, 9 Jan 2026
-- TBA - Pangea, Vancouver — Fri, 31 Oct 2025
-- Straße des 17. Juni, Berlin — Sat, 26 Jul 2025
-- The Birdhouse, Vancouver — Sat, 9 Nov 2024
+- TBA - Shipyards North Vancouver, Vancouver · Sat, 18 Jul 2026
+- Celebrities Night Club, Vancouver · Sat, 23 May 2026
+- TBA - Near Nelson BC, Vancouver · Sat, 16 May 2026
+- TBA - CANCELED , Vancouver · Fri, 23 Jan 2026
+- Ohjo Bldg, Tokyo · Fri, 9 Jan 2026
+- TBA - Pangea, Vancouver · Fri, 31 Oct 2025
+- Straße des 17. Juni, Berlin · Sat, 26 Jul 2025
+- The Birdhouse, Vancouver · Sat, 9 Nov 2024
 
 ## Shares bills with
 

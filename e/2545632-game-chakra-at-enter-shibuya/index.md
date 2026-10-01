@@ -1,6 +1,6 @@
 # Game Chakra at Enter Shibuya
 
-Game Chakra at Enter Shibuya on Wed 14 Oct, Tokyo. 2 artists on the bill: Foodman and Taigen Kawabe. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Game Chakra at Enter Shibuya on Wed 14 Oct, Tokyo. 2 artists: Foodman and Taigen Kawabe. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

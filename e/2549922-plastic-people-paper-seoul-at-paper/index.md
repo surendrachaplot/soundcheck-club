@@ -1,6 +1,6 @@
 # Plastic People_Paper Seoul at Paper
 
-Plastic People_Paper Seoul on Fri 2 Oct, Seoul. 3 artists on the bill: Daul, DJ Wow and TRUEUNSOL. House. Preview the line-up and save it on soundcheck.
+Plastic People_Paper Seoul on Fri 2 Oct, Seoul. 3 artists: Daul, DJ Wow and TRUEUNSOL. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

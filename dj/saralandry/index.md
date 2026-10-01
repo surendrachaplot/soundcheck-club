@@ -1,8 +1,8 @@
 # Sara Landry
 
-Sara Landry is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Red Rocks Amphitheatre, Colorado on Sat, 10 Oct 2026.
+Sara Landry is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Red Rocks Amphitheatre, Colorado on Sat, 10 Oct 2026.
 
-Sara Landry is a techno and house artist based in United States of America, tracked on soundcheck, with 202 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside Nico Moreno, Trym and Azyr. Next up: Red Rocks Amphitheatre, Colorado on Sat 10 Oct.
+Sara Landry is a techno and house artist based in United States of America, with 202 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 61 more. Often billed alongside Nico Moreno, Trym and Azyr. Next up: Red Rocks Amphitheatre, Colorado on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Sara Landry is a techno and house artist based in United States of America, trac
 
 ## Recently played
 
-- WOMB, Tokyo — Sun, 20 Sept 2026
-- Factory Town, Miami — Sun, 6 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 23 Aug 2026
-- Magazine Open–Air, London — Fri, 21 Aug 2026
-- TBA - Secret Location, London — Thu, 20 Aug 2026
-- Life Park, Istanbul — Sat, 15 Aug 2026
-- Medusa Beach, Valencia — Thu, 13 Aug 2026
+- WOMB, Tokyo · Sun, 20 Sept 2026
+- Factory Town, Miami · Sun, 6 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 23 Aug 2026
+- Magazine Open–Air, London · Fri, 21 Aug 2026
+- TBA - Secret Location, London · Thu, 20 Aug 2026
+- Life Park, Istanbul · Sat, 15 Aug 2026
+- Medusa Beach, Valencia · Thu, 13 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # RAZZCLUBS: DJ Godfather + Natural Language + Bas Mooy + Kaiser + David Elimelech at Razzmatazz
 
-RAZZCLUBS: DJ Godfather + Natural Language + Bas Mooy + Kaiser + David Elimelech at Razzmatazz on Sat 24 Oct, Barcelona. 12 artists on the bill: Bas Mooy, David Elimelech, DJ Godfather and DJ KETAFLUSH and 8 more. Preview the line-up and save it on soundcheck.
+RAZZCLUBS: DJ Godfather + Natural Language + Bas Mooy + Kaiser + David Elimelech at Razzmatazz on Sat 24 Oct, Barcelona. 12 artists: Bas Mooy, David Elimelech, DJ Godfather and DJ KETAFLUSH and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

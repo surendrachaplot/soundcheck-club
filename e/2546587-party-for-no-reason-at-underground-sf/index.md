@@ -1,6 +1,6 @@
 # Party for No Reason at Underground SF
 
-Party for No Reason at Underground SF on Fri 6 Nov, San Francisco/Oakland. UK Funky and Electronica. Preview the line-up and save it on soundcheck.
+Party for No Reason at Underground SF on Fri 6 Nov, San Francisco/Oakland. UK Funky and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

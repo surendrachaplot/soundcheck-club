@@ -1,6 +1,6 @@
 # Marco Miro b2b Vic Bovet at Salon Daomé
 
-Marco Miro b2b Vic Bovet at Salon Daomé on Sun 4 Oct, Montreal. Preview the line-up and save it on soundcheck.
+Marco Miro b2b Vic Bovet at Salon Daomé on Sun 4 Oct, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

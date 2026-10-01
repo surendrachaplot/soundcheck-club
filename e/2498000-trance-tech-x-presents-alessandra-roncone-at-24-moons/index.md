@@ -1,6 +1,6 @@
 # Trance Tech X presents Alessandra Roncone at 24 Moons
 
-Trance Tech X presents Alessandra Roncone at 24 Moons on Sat 10 Oct, Melbourne. Trance and Techno. Preview the line-up and save it on soundcheck.
+Trance Tech X presents Alessandra Roncone at 24 Moons on Sat 10 Oct, Melbourne. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

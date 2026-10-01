@@ -1,6 +1,6 @@
 # Lola x Rinse FM ADE at KIT Royal Tropical Institute
 
-Lola x Rinse FM ADE at KIT Royal Tropical Institute on Thu 22 Oct, Amsterdam. 9 artists on the bill: Alec Dienaar, Bellaire, Bibi Seck and Drabes and 5 more. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Lola x Rinse FM ADE at KIT Royal Tropical Institute on Thu 22 Oct, Amsterdam. 9 artists: Alec Dienaar, Bellaire, Bibi Seck and Drabes and 5 more. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ＝ADVENTURE＝ - DINO PSARAS / Shanti - TRANCE - at ZEROTOKYO
 
-＝ADVENTURE＝ - DINO PSARAS / Shanti - TRANCE - at ZEROTOKYO on Sat 17 Oct, Tokyo. 3 artists on the bill: HK., PONTA and WATARU. Trance. Preview the line-up and save it on soundcheck.
+＝ADVENTURE＝ - DINO PSARAS / Shanti - TRANCE - at ZEROTOKYO on Sat 17 Oct, Tokyo. 3 artists: HK., PONTA and WATARU. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

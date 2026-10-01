@@ -1,6 +1,6 @@
 # Digital presents: Kmotionz, Conducta & Flowdan (Live) at Digital
 
-Digital presents: Kmotionz, Conducta & Flowdan (Live) on Fri 20 Nov, Newcastle. 4 artists on the bill: Conducta, Flowdan, K Motionz and keks. Preview the line-up and save it on soundcheck.
+Digital presents: Kmotionz, Conducta & Flowdan (Live) on Fri 20 Nov, Newcastle. 4 artists: Conducta, Flowdan, K Motionz and keks. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

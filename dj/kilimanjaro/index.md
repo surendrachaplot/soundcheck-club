@@ -1,8 +1,8 @@
 # KILIMANJARO
 
-KILIMANJARO is a House and Afro House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Watr, Austin on Sun, 4 Oct 2026.
+KILIMANJARO is a House and Afro House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Watr, Austin on Sun, 4 Oct 2026.
 
-KILIMANJARO is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 139 sets logged across Amsterdam, Austin, Barcelona and Berlin and 37 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: Watr, Austin on Sun 4 Oct.
+KILIMANJARO is a house and afro house artist based in United Kingdom, with 139 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 37 more. Often billed alongside Eliza Rose, TSHA and AMÉMÉ. Next up: Watr, Austin on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ KILIMANJARO is a house and afro house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Commodore Ballroom, Vancouver — Wed, 30 Sept 2026
-- Hï Ibiza, Ibiza — Mon, 14 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 20 Aug 2026
-- Luz De Gas, Barcelona — Sat, 1 Aug 2026
-- Cova Santa, Ibiza — Thu, 30 Jul 2026
-- Silverworks Island, London — Sat, 11 Jul 2026
-- Razzmatazz, Barcelona — Sat, 4 Jul 2026
-- [UNVRS], Ibiza — Mon, 29 Jun 2026
+- Commodore Ballroom, Vancouver · Wed, 30 Sept 2026
+- Hï Ibiza, Ibiza · Mon, 14 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 20 Aug 2026
+- Luz De Gas, Barcelona · Sat, 1 Aug 2026
+- Cova Santa, Ibiza · Thu, 30 Jul 2026
+- Silverworks Island, London · Sat, 11 Jul 2026
+- Razzmatazz, Barcelona · Sat, 4 Jul 2026
+- [UNVRS], Ibiza · Mon, 29 Jun 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Emanate
 
-Emanate is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Great Northern, San Francisco/Oakland on Fri, 9 Oct 2026.
+Emanate is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 9 Oct 2026.
 
-Emanate is a techno and tech house artist based in United States of America, tracked on soundcheck, with 139 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside HIDRA, IZIK and Damienn. Next up: The Great Northern, San Francisco/Oakland on Fri 9 Oct.
+Emanate is a techno and tech house artist based in United States of America, with 139 gigs on soundcheck across Amsterdam, Berlin, Chicago and Copenhagen and 5 more. Often billed alongside HIDRA, IZIK and Damienn. Next up: The Great Northern, San Francisco/Oakland on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Emanate is a techno and tech house artist based in United States of America, tra
 
 ## Recently played
 
-- The Great Northern, San Francisco/Oakland — Sat, 12 Sept 2026
-- The Great Northern, San Francisco/Oakland — Sat, 12 Sept 2026
-- Hawthorn, San Francisco/Oakland — Fri, 28 Aug 2026
-- TBA - UNDISCLOSED LOCATION, San Francisco/Oakland — Fri, 21 Aug 2026
-- TBA - San Francisco, San Francisco/Oakland — Sat, 15 Aug 2026
-- The Great Northern, San Francisco/Oakland — Sat, 25 Jul 2026
-- TBA - Sierra Mountains (3hrs from San Francisco / 1.5hrs from Sacramento), San Francisco/Oakland — Fri, 3 Jul 2026
-- The Great Northern, San Francisco/Oakland — Fri, 19 Jun 2026
+- The Great Northern, San Francisco/Oakland · Sat, 12 Sept 2026
+- The Great Northern, San Francisco/Oakland · Sat, 12 Sept 2026
+- Hawthorn, San Francisco/Oakland · Fri, 28 Aug 2026
+- TBA - UNDISCLOSED LOCATION, San Francisco/Oakland · Fri, 21 Aug 2026
+- TBA - San Francisco, San Francisco/Oakland · Sat, 15 Aug 2026
+- The Great Northern, San Francisco/Oakland · Sat, 25 Jul 2026
+- TBA - Sierra Mountains (3hrs from San Francisco / 1.5hrs from Sacramento), San Francisco/Oakland · Fri, 3 Jul 2026
+- The Great Northern, San Francisco/Oakland · Fri, 19 Jun 2026
 
 ## Shares bills with
 

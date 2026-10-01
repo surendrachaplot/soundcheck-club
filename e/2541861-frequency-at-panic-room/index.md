@@ -1,6 +1,6 @@
 # FREQUENCY at Panic Room
 
-FREQUENCY at Panic Room on Wed 7 Oct, Paris. House and Tech House. Preview the line-up and save it on soundcheck.
+FREQUENCY at Panic Room on Wed 7 Oct, Paris. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

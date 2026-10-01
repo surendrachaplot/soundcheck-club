@@ -1,6 +1,6 @@
 # DUO ECHO DEL TEMPO at Cave Marignac
 
-DUO ECHO DEL TEMPO at Cave Marignac on Fri 9 Oct, Geneva. Preview the line-up and save it on soundcheck.
+DUO ECHO DEL TEMPO at Cave Marignac on Fri 9 Oct, Geneva. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

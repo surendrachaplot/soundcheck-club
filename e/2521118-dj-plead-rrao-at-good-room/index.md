@@ -1,6 +1,6 @@
 # DJ Plead, rrao at Good Room
 
-DJ Plead, rrao at Good Room on Thu 1 Oct, New York City. 2 artists on the bill: DJ Plead and rrao. Preview the line-up and save it on soundcheck.
+DJ Plead, rrao at Good Room on Thu 1 Oct, New York City. 2 artists: DJ Plead and rrao. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jochen Pash
 
-Jochen Pash is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kowalski, Stuttgart on Sat, 3 Oct 2026.
+Jochen Pash is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kowalski, Stuttgart on Sat, 3 Oct 2026.
 
-Jochen Pash is a house and afro house artist tracked on soundcheck, with 15 sets logged across Munich and Stuttgart. Often billed alongside Merissa Mahilaa, AMÉMÉ and Loli. Next up: Kowalski, Stuttgart on Sat 3 Oct.
+Jochen Pash is a house and afro house artist, with 15 gigs on soundcheck across Munich and Stuttgart. Often billed alongside Merissa Mahilaa, AMÉMÉ and Loli. Next up: Kowalski, Stuttgart on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Jochen Pash is a house and afro house artist tracked on soundcheck, with 15 sets
 
 ## Recently played
 
-- Kowalski, Stuttgart — Sun, 13 Sept 2026
-- Pacha, Munich — Sat, 12 Sept 2026
-- Kowalski, Stuttgart — Sat, 5 Sept 2026
-- Kowalski, Stuttgart — Sat, 15 Aug 2026
-- Kowalski, Stuttgart — Sat, 11 Jul 2026
-- Kowalski, Stuttgart — Sun, 14 Jun 2026
-- Kowalski, Stuttgart — Sat, 23 May 2026
-- Kowalski, Stuttgart — Sat, 28 Mar 2026
+- Kowalski, Stuttgart · Sun, 13 Sept 2026
+- Pacha, Munich · Sat, 12 Sept 2026
+- Kowalski, Stuttgart · Sat, 5 Sept 2026
+- Kowalski, Stuttgart · Sat, 15 Aug 2026
+- Kowalski, Stuttgart · Sat, 11 Jul 2026
+- Kowalski, Stuttgart · Sun, 14 Jun 2026
+- Kowalski, Stuttgart · Sat, 23 May 2026
+- Kowalski, Stuttgart · Sat, 28 Mar 2026
 
 ## Shares bills with
 

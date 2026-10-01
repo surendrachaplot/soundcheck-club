@@ -1,6 +1,6 @@
 # Linska at Night We Met
 
-Linska at Night We Met on Fri 23 Oct, Nashville. 1 artist on the bill: Linska. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Linska at Night We Met on Fri 23 Oct, Nashville. 1 artist: Linska. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

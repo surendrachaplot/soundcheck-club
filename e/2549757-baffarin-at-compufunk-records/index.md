@@ -1,6 +1,6 @@
 # BAFFARIN at Compufunk Records
 
-BAFFARIN at Compufunk Records on Thu 1 Oct, Osaka. House and Tech House. Preview the line-up and save it on soundcheck.
+BAFFARIN at Compufunk Records on Thu 1 Oct, Osaka. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

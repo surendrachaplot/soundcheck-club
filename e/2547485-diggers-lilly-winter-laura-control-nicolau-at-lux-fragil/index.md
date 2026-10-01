@@ -1,6 +1,6 @@
 # DIGGERS: Lilly Winter, Laura Control, Nicolau at Lux Fragil
 
-DIGGERS: Lilly Winter, Laura Control, Nicolau at Lux Fragil on Thu 22 Oct, Lisbon. 1 artist on the bill: Lilly Winter. Preview the line-up and save it on soundcheck.
+DIGGERS: Lilly Winter, Laura Control, Nicolau at Lux Fragil on Thu 22 Oct, Lisbon. 1 artist: Lilly Winter. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

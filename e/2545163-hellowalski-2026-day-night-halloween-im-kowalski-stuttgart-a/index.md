@@ -1,6 +1,6 @@
 # HELLOWALSKI 2026 • Day & Night Halloween im Kowalski Stuttgart at Kowalski
 
-HELLOWALSKI 2026 • Day & Night Halloween im Kowalski Stuttgart on Sat 31 Oct, Stuttgart. 1 artist on the bill: Jochen Pash. House. Preview the line-up and save it on soundcheck.
+HELLOWALSKI 2026 • Day & Night Halloween im Kowalski Stuttgart on Sat 31 Oct, Stuttgart. 1 artist: Jochen Pash. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

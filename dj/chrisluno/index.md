@@ -1,8 +1,8 @@
 # Chris Luno
 
-Chris Luno is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Prince Consort, Brisbane on Fri, 2 Oct 2026.
+Chris Luno is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prince Consort, Brisbane on Fri, 2 Oct 2026.
 
-Chris Luno is a house and deep house artist based in Germany, tracked on soundcheck, with 78 sets logged across Amsterdam, Bali, Basel and Berlin and 35 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: The Prince Consort, Brisbane on Fri 2 Oct.
+Chris Luno is a house and deep house artist based in Germany, with 78 gigs on soundcheck across Amsterdam, Bali, Basel and Berlin and 35 more. Often billed alongside dj poolboi, sunflwr and Aliska. Next up: The Prince Consort, Brisbane on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Chris Luno is a house and deep house artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- Loo Loo, Mexico City — Thu, 17 Sept 2026
-- Loo Loo, Mexico City — Thu, 17 Sept 2026
-- Westlight Rooftop at The William Vale, New York City — Fri, 4 Sept 2026
-- Open Aera, Toronto — Thu, 3 Sept 2026
-- Hangar Meco, Lisbon — Sat, 29 Aug 2026
-- Castaways, Chicago — Sun, 9 Aug 2026
-- Quartyard, San Diego — Sat, 8 Aug 2026
-- 620 Jones, San Francisco/Oakland — Sat, 1 Aug 2026
+- Loo Loo, Mexico City · Thu, 17 Sept 2026
+- Loo Loo, Mexico City · Thu, 17 Sept 2026
+- Westlight Rooftop at The William Vale, New York City · Fri, 4 Sept 2026
+- Open Aera, Toronto · Thu, 3 Sept 2026
+- Hangar Meco, Lisbon · Sat, 29 Aug 2026
+- Castaways, Chicago · Sun, 9 Aug 2026
+- Quartyard, San Diego · Sat, 8 Aug 2026
+- 620 Jones, San Francisco/Oakland · Sat, 1 Aug 2026
 
 ## Shares bills with
 

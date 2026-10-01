@@ -1,6 +1,6 @@
 # DISTRICT 909 at Chateau Motel
 
-DISTRICT 909 at Chateau Motel on Sat 3 Oct, Copenhagen. 1 artist on the bill: 7 Levels. House and Tech House. Preview the line-up and save it on soundcheck.
+DISTRICT 909 at Chateau Motel on Sat 3 Oct, Copenhagen. 1 artist: 7 Levels. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

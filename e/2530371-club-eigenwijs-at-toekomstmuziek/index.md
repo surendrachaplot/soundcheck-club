@@ -1,6 +1,6 @@
 # Club Eigenwijs at Toekomstmuziek
 
-Club Eigenwijs at Toekomstmuziek on Sat 10 Oct, Amsterdam. House and Disco. Preview the line-up and save it on soundcheck.
+Club Eigenwijs at Toekomstmuziek on Sat 10 Oct, Amsterdam. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

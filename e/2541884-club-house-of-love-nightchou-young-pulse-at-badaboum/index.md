@@ -1,6 +1,6 @@
 # Club — House of Love: Nightchou & Young Pulse at Badaboum
 
-Club — House of Love: Nightchou & Young Pulse at Badaboum on Sat 3 Oct, Paris. 2 artists on the bill: Nightchou and Young Pulse. House. Preview the line-up and save it on soundcheck.
+Club — House of Love: Nightchou & Young Pulse at Badaboum on Sat 3 Oct, Paris. 2 artists: Nightchou and Young Pulse. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Velocity
 
-Velocity is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
+Velocity is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Oba Camp Village, Tokyo on Sat, 7 Nov 2026.
 
-Velocity is a drum & bass and bass artist based in Japan, tracked on soundcheck, with 64 sets logged across Osaka and Tokyo. Often billed alongside KEiTA, Aya ( Human Elements ) and Zusan. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
+Velocity is a drum & bass and bass artist based in Japan, with 64 gigs on soundcheck across Osaka and Tokyo. Often billed alongside KEiTA, Aya ( Human Elements ) and Zusan. Next up: Oba Camp Village, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Velocity is a drum & bass and bass artist based in Japan, tracked on soundcheck,
 
 ## Recently played
 
-- Sabaco Music & Cafe, Tokyo — Wed, 23 Sept 2026
-- UTOPIA / DYSTOPIA, Tokyo — Sat, 29 Aug 2026
-- Saloon, Tokyo — Sat, 22 Aug 2026
-- TBA - RECORD CITY SHOP, Tokyo — Fri, 7 Aug 2026
-- WOMB, Tokyo — Sun, 19 Jul 2026
-- Z Maruyama, Tokyo — Sat, 18 Jul 2026
-- Theaterguild Daikanyama, Tokyo — Fri, 3 Jul 2026
-- Saloon, Tokyo — Fri, 12 Jun 2026
+- Sabaco Music & Cafe, Tokyo · Wed, 23 Sept 2026
+- UTOPIA / DYSTOPIA, Tokyo · Sat, 29 Aug 2026
+- Saloon, Tokyo · Sat, 22 Aug 2026
+- TBA - RECORD CITY SHOP, Tokyo · Fri, 7 Aug 2026
+- WOMB, Tokyo · Sun, 19 Jul 2026
+- Z Maruyama, Tokyo · Sat, 18 Jul 2026
+- Theaterguild Daikanyama, Tokyo · Fri, 3 Jul 2026
+- Saloon, Tokyo · Fri, 12 Jun 2026
 
 ## Shares bills with
 

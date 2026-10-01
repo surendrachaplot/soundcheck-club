@@ -1,8 +1,8 @@
 # Omer Mil
 
-Omer Mil is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Elsewhere, New York City on Sun, 4 Oct 2026.
+Omer Mil is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Elsewhere, New York City on Sun, 4 Oct 2026.
 
-Omer Mil is a house and techno artist based in United States of America, tracked on soundcheck, with 81 sets logged across Mexico City, Naples and New York City. Often billed alongside Morgan, Kiyoshi and Disgonuts. Next up: Elsewhere, New York City on Sun 4 Oct.
+Omer Mil is a house and techno artist based in United States of America, with 81 gigs on soundcheck across Mexico City, Naples and New York City. Often billed alongside Morgan, Kiyoshi and Disgonuts. Next up: Elsewhere, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Omer Mil is a house and techno artist based in United States of America, tracked
 
 ## Recently played
 
-- Dead Letter No. 9, New York City — Sat, 12 Sept 2026
-- Green Room NYC, New York City — Fri, 11 Sept 2026
-- Athens Square, New York City — Sat, 15 Aug 2026
-- Green Room NYC, New York City — Sat, 15 Aug 2026
-- Dead Letter No. 9, New York City — Sat, 8 Aug 2026
-- Green Room NYC, New York City — Sat, 25 Jul 2026
-- TBA - East Williamsburg, New York City — Sat, 4 Jul 2026
-- Green Room NYC, New York City — Sat, 25 Apr 2026
+- Dead Letter No. 9, New York City · Sat, 12 Sept 2026
+- Green Room NYC, New York City · Fri, 11 Sept 2026
+- Athens Square, New York City · Sat, 15 Aug 2026
+- Green Room NYC, New York City · Sat, 15 Aug 2026
+- Dead Letter No. 9, New York City · Sat, 8 Aug 2026
+- Green Room NYC, New York City · Sat, 25 Jul 2026
+- TBA - East Williamsburg, New York City · Sat, 4 Jul 2026
+- Green Room NYC, New York City · Sat, 25 Apr 2026
 
 ## Shares bills with
 

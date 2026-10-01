@@ -1,8 +1,8 @@
 # Francesco Del Garda
 
-Francesco Del Garda is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nowadays, New York City on Sat, 3 Oct 2026.
+Francesco Del Garda is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nowadays, New York City on Sat, 3 Oct 2026.
 
-Francesco Del Garda is a house and techno artist based in Italy, tracked on soundcheck, with 222 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: Nowadays, New York City on Sat 3 Oct.
+Francesco Del Garda is a house and techno artist based in Italy, with 222 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 42 more. Often billed alongside Christian AB, Craig Richards and Quest (IT). Next up: Nowadays, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Francesco Del Garda is a house and techno artist based in Italy, tracked on soun
 
 ## Recently played
 
-- DC-10, Ibiza — Mon, 28 Sept 2026
-- Mint XL, Leeds — Fri, 25 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 19 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- UNO MALTA, Malta — Thu, 17 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 13 Sept 2026
-- Bunker, Turin — Sat, 12 Sept 2026
-- Hotel Butterfly, Rome — Thu, 3 Sept 2026
+- DC-10, Ibiza · Mon, 28 Sept 2026
+- Mint XL, Leeds · Fri, 25 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- UNO MALTA, Malta · Thu, 17 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 13 Sept 2026
+- Bunker, Turin · Sat, 12 Sept 2026
+- Hotel Butterfly, Rome · Thu, 3 Sept 2026
 
 ## Shares bills with
 

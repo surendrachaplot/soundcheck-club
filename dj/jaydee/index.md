@@ -1,8 +1,8 @@
 # Jay Dee
 
-Jay Dee is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
+Jay Dee is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Maassilo, Rotterdam on Sat, 3 Oct 2026.
 
-Jay Dee is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Ghent and New York City and 2 more. Often billed alongside Alexander Koning, Remy Unger and Dimitri. Next up: Maassilo, Rotterdam on Sat 3 Oct.
+Jay Dee is a house and techno artist based in United States of America, with 16 gigs on soundcheck across Amsterdam, Berlin, Ghent and New York City and 2 more. Often billed alongside Alexander Koning, Remy Unger and Dimitri. Next up: Maassilo, Rotterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Jay Dee is a house and techno artist based in United States of America, tracked 
 
 ## Recently played
 
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 29 Aug 2026
-- AMT, Berlin — Sat, 15 Aug 2026
-- TBA - The Ba11room, San Diego — Fri, 19 Jun 2026
-- Thuishaven, Amsterdam — Sat, 7 Mar 2026
-- Thuishaven, Amsterdam — Sat, 8 Nov 2025
-- Maassilo, Rotterdam — Sat, 4 Oct 2025
-- Althea's Rooftop, New York City — Fri, 27 Jun 2025
-- Het Sieraad, Amsterdam — Sat, 19 Apr 2025
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
+- AMT, Berlin · Sat, 15 Aug 2026
+- TBA - The Ba11room, San Diego · Fri, 19 Jun 2026
+- Thuishaven, Amsterdam · Sat, 7 Mar 2026
+- Thuishaven, Amsterdam · Sat, 8 Nov 2025
+- Maassilo, Rotterdam · Sat, 4 Oct 2025
+- Althea's Rooftop, New York City · Fri, 27 Jun 2025
+- Het Sieraad, Amsterdam · Sat, 19 Apr 2025
 
 ## Shares bills with
 

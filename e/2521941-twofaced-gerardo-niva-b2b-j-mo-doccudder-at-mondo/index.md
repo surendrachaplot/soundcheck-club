@@ -1,6 +1,6 @@
 # TWOFACED / Gerardo Niva B2B JÄMO / doccudder at Mondo
 
-TWOFACED / Gerardo Niva B2B JÄMO / doccudder at Mondo on Sat 17 Oct, Madrid. 3 artists on the bill: doccudder, Gerardo Niva and JÄMO. Preview the line-up and save it on soundcheck.
+TWOFACED / Gerardo Niva B2B JÄMO / doccudder at Mondo on Sat 17 Oct, Madrid. 3 artists: doccudder, Gerardo Niva and JÄMO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

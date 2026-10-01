@@ -1,6 +1,6 @@
 # RUM & BASHMENT - London's Wildest Bashment Party at Trapeze Bar
 
-RUM & BASHMENT - London's Wildest Bashment Party at Trapeze Bar on Fri 2 Oct, London. Dancehall. Preview the line-up and save it on soundcheck.
+RUM & BASHMENT - London's Wildest Bashment Party at Trapeze Bar on Fri 2 Oct, London. Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ULTRA SOZIAL at OST
 
-ULTRA SOZIAL at OST on Fri 4 Dec, Berlin. Techno. Preview the line-up and save it on soundcheck.
+ULTRA SOZIAL at OST on Fri 4 Dec, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Vault Sessions x Mutual Rytm ADE at TILLATEC
 
-Vault Sessions x Mutual Rytm ADE at TILLATEC on Thu 22 Oct, Amsterdam. 10 artists on the bill: ANNĒ, Disguised, Human Safari and Hyden and 6 more. Techno. Preview the line-up and save it on soundcheck.
+Vault Sessions x Mutual Rytm ADE at TILLATEC on Thu 22 Oct, Amsterdam. 10 artists: ANNĒ, Disguised, Human Safari and Hyden and 6 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

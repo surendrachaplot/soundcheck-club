@@ -1,6 +1,6 @@
 # Juan Atkins at KALT
 
-Juan Atkins at KALT on Sat 17 Oct, Strasbourg. 4 artists on the bill: Juan Atkins, Rachel Noon, STU (FR) and Zhar. Preview the line-up and save it on soundcheck.
+Juan Atkins at KALT on Sat 17 Oct, Strasbourg. 4 artists: Juan Atkins, Rachel Noon, STU (FR) and Zhar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

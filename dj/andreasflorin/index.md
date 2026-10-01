@@ -1,8 +1,8 @@
 # Andreas Florin
 
-Andreas Florin is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Andreas Florin is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-Andreas Florin is a techno and trance artist based in Germany, tracked on soundcheck, with 2 sets logged across Berlin. Often billed alongside Alviker, Calcifer and Milchgeld. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+Andreas Florin is a techno and trance artist based in Germany, with 2 gigs on soundcheck across Berlin. Often billed alongside Alviker, Calcifer and Milchgeld. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 

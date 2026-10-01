@@ -1,6 +1,6 @@
 # Space Talk presents : ST05 Release Party at Gaffe at Gaffe
 
-Space Talk presents : ST05 Release Party at Gaffe on Sat 3 Oct, London. Club. Preview the line-up and save it on soundcheck.
+Space Talk presents : ST05 Release Party at Gaffe on Sat 3 Oct, London. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

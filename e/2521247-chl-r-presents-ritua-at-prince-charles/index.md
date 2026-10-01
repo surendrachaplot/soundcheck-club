@@ -1,6 +1,6 @@
 # Chlär presents: Ritua at Prince Charles
 
-Chlär presents: Ritua at Prince Charles on Fri 13 Nov, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Chlär presents: Ritua at Prince Charles on Fri 13 Nov, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

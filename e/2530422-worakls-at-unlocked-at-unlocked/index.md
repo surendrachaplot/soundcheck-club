@@ -1,6 +1,6 @@
 # Worakls at UNLOCKED at UNLOCKED
 
-Worakls at UNLOCKED on Fri 4 Dec, London. 1 artist on the bill: Worakls. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Worakls at UNLOCKED on Fri 4 Dec, London. 1 artist: Worakls. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

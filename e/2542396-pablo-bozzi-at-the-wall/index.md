@@ -1,6 +1,6 @@
 # Pablo Bozzi at The Wall
 
-Pablo Bozzi at The Wall on Fri 9 Oct, El Paso. 1 artist on the bill: Pablo Bozzi. Preview the line-up and save it on soundcheck.
+Pablo Bozzi at The Wall on Fri 9 Oct, El Paso. 1 artist: Pablo Bozzi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

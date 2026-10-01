@@ -1,6 +1,6 @@
 # feedbk - grand opening with Gwenan, Dragos Illici, Kian OK, Rasho & More at feedbk
 
-feedbk - grand opening with Gwenan, Dragos Illici, Kian OK, Rasho & More on Sat 3 Oct, New York City. 10 artists on the bill: ADREE, Dragos Ilici, Grem (IT) and Gwenan and 6 more. House and Tech House. Preview the line-up and save it on soundcheck.
+feedbk - grand opening with Gwenan, Dragos Illici, Kian OK, Rasho & More on Sat 3 Oct, New York City. 10 artists: ADREE, Dragos Ilici, Grem (IT) and Gwenan and 6 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # EM2K
 
-EM2K is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
+EM2K is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
 
-EM2K is a house and techno artist based in Mexico, tracked on soundcheck, with 70 sets logged across Mexico City. Often billed alongside AGSULO, allangrank and Bluecommand. Next up: TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat 3 Oct.
+EM2K is a house and techno artist based in Mexico, with 70 gigs on soundcheck across Mexico City. Often billed alongside AGSULO, allangrank and Bluecommand. Next up: TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ EM2K is a house and techno artist based in Mexico, tracked on soundcheck, with 7
 
 ## Recently played
 
-- TBA, Mexico City — Sat, 19 Sept 2026
-- La Vista, Mexico City — Wed, 12 Aug 2026
-- TBA - La dirección de la fiesta será enviada el 18/07 a las 12 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City — Sat, 18 Jul 2026
-- TBA, Mexico City — Sat, 18 Jul 2026
-- YuYu Cine Club, Mexico City — Fri, 10 Jul 2026
-- Drama Radio Bar, Mexico City — Tue, 7 Jul 2026
-- Fünk, Mexico City — Sat, 4 Jul 2026
-- Drama Radio Bar, Mexico City — Tue, 16 Jun 2026
+- TBA, Mexico City · Sat, 19 Sept 2026
+- La Vista, Mexico City · Wed, 12 Aug 2026
+- TBA - La dirección de la fiesta será enviada el 18/07 a las 12 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City · Sat, 18 Jul 2026
+- TBA, Mexico City · Sat, 18 Jul 2026
+- YuYu Cine Club, Mexico City · Fri, 10 Jul 2026
+- Drama Radio Bar, Mexico City · Tue, 7 Jul 2026
+- Fünk, Mexico City · Sat, 4 Jul 2026
+- Drama Radio Bar, Mexico City · Tue, 16 Jun 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Dresden
 
-Dresden is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lofi, Amsterdam on Fri, 23 Oct 2026.
+Dresden is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lofi, Amsterdam on Fri, 23 Oct 2026.
 
-Dresden is a techno and house artist based in Spain, tracked on soundcheck, with 18 sets logged across Amsterdam, Brussels, Liverpool and London and 6 more. Often billed alongside Ivan Smagghe, Manfredas and Christian AB. Next up: Lofi, Amsterdam on Fri 23 Oct.
+Dresden is a techno and house artist based in Spain, with 18 gigs on soundcheck across Amsterdam, Brussels, Liverpool and London and 6 more. Often billed alongside Ivan Smagghe, Manfredas and Christian AB. Next up: Lofi, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Dresden is a techno and house artist based in Spain, tracked on soundcheck, with
 
 ## Recently played
 
-- Jasna 1, Warsaw — Fri, 25 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- Islington Assembly Hall, London — Sat, 1 Aug 2026
-- Brutus, Rotterdam — Sat, 27 Jun 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- essaim, Paris — Sat, 23 May 2026
-- The Cause, London — Sat, 16 May 2026
-- Arca, Milan — Fri, 15 May 2026
+- Jasna 1, Warsaw · Fri, 25 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Islington Assembly Hall, London · Sat, 1 Aug 2026
+- Brutus, Rotterdam · Sat, 27 Jun 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- essaim, Paris · Sat, 23 May 2026
+- The Cause, London · Sat, 16 May 2026
+- Arca, Milan · Fri, 15 May 2026
 
 ## Shares bills with
 

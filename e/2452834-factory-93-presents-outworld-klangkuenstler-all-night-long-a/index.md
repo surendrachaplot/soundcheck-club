@@ -1,6 +1,6 @@
 # Factory 93 presents: OUTWORLD: KlangKuenstler All Night Long at The Forum
 
-Factory 93 presents: OUTWORLD: KlangKuenstler All Night Long at The Forum on Sat 3 Oct, Los Angeles. 1 artist on the bill: KlangKuenstler. Techno. Preview the line-up and save it on soundcheck.
+Factory 93 presents: OUTWORLD: KlangKuenstler All Night Long at The Forum on Sat 3 Oct, Los Angeles. 1 artist: KlangKuenstler. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

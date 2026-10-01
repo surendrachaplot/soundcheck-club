@@ -1,6 +1,6 @@
 # CURRENTS at Alffo Records
 
-CURRENTS at Alffo Records on Sat 17 Oct, Osaka. Pop and Club. Preview the line-up and save it on soundcheck.
+CURRENTS at Alffo Records on Sat 17 Oct, Osaka. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

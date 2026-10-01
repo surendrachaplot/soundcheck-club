@@ -1,8 +1,8 @@
 # T. Jacques
 
-T. Jacques is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Marquee Moon, London on Fri, 2 Oct 2026.
+T. Jacques is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Marquee Moon, London on Fri, 2 Oct 2026.
 
-T. Jacques is a house and garage artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Barcelona, Brussels and Edinburgh and 7 more. Often billed alongside Jive Talk, Penzik & Burns and Adam Chapman. Next up: The Marquee Moon, London on Fri 2 Oct.
+T. Jacques is a house and garage artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Edinburgh and 7 more. Often billed alongside Jive Talk, Penzik & Burns and Adam Chapman. Next up: The Marquee Moon, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ T. Jacques is a house and garage artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Pikes Ibiza, Ibiza — Sun, 28 Jun 2026
-- All My Friends, London — Fri, 5 Jun 2026
-- NUMBER 90 LONDON, London — Sat, 30 May 2026
-- TBA, London — Sat, 9 May 2026
-- Distrikt, Leeds — Fri, 8 May 2026
-- Apollo Studio, New York City — Fri, 3 Apr 2026
-- TBA - Dalston, London — Fri, 20 Mar 2026
-- The Timber Loft, London — Sun, 15 Feb 2026
+- Pikes Ibiza, Ibiza · Sun, 28 Jun 2026
+- All My Friends, London · Fri, 5 Jun 2026
+- NUMBER 90 LONDON, London · Sat, 30 May 2026
+- TBA, London · Sat, 9 May 2026
+- Distrikt, Leeds · Fri, 8 May 2026
+- Apollo Studio, New York City · Fri, 3 Apr 2026
+- TBA - Dalston, London · Fri, 20 Mar 2026
+- The Timber Loft, London · Sun, 15 Feb 2026
 
 ## Shares bills with
 

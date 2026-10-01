@@ -1,6 +1,6 @@
 # Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee at Elsewhere
 
-Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee at Elsewhere on Fri 16 Oct, New York City. 3 artists on the bill: JACK MARLOW, Marsolo and Natalia Roth. Preview the line-up and save it on soundcheck.
+Marsolo, JACK MARLOW, Natalia Roth, Blaise Bracic, cutback! + friends: LILLE, Dylan Rhee at Elsewhere on Fri 16 Oct, New York City. 3 artists: JACK MARLOW, Marsolo and Natalia Roth. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

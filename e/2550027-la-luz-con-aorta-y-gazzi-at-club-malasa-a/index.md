@@ -1,6 +1,6 @@
 # La Luz con aorta y Gazzi at Club Malasaña
 
-La Luz con aorta y Gazzi at Club Malasaña on Thu 1 Oct, Madrid. 1 artist on the bill: Gazzi. House and Electronica. Preview the line-up and save it on soundcheck.
+La Luz con aorta y Gazzi at Club Malasaña on Thu 1 Oct, Madrid. 1 artist: Gazzi. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

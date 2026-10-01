@@ -1,6 +1,6 @@
 # Sweet 'n Sinful for Queer Women - FLINTA* at Kink Bar & Restaurant
 
-Sweet 'n Sinful for Queer Women - FLINTA* at Kink Bar & Restaurant on Sat 31 Oct, Berlin. House and Deep House. Preview the line-up and save it on soundcheck.
+Sweet 'n Sinful for Queer Women - FLINTA* at Kink Bar & Restaurant on Sat 31 Oct, Berlin. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

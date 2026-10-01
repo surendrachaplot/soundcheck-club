@@ -1,8 +1,8 @@
 # TBA - LFO
 
-TBA - LFO is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Mediums" on Fri, 2 Oct 2026.
+TBA - LFO is a music venue in Madrid with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mediums" on Fri, 2 Oct 2026.
 
-TBA - LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Abdulla A., Alinka, Alputo and Amphia and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - LFO is a music venue in Madrid listed on soundcheck. 6 upcoming gigs, with line-ups including Abdulla A., Alinka, Alputo and Amphia and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

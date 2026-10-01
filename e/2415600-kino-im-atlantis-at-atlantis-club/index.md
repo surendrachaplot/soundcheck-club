@@ -1,6 +1,6 @@
 # Kino im Atlantis at Atlantis Club
 
-Kino im Atlantis at Atlantis Club on Tue 20 Oct, Basel. Preview the line-up and save it on soundcheck.
+Kino im Atlantis at Atlantis Club on Tue 20 Oct, Basel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

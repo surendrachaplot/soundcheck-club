@@ -1,6 +1,6 @@
 # Danny Tenaglia presents Boo Yourself at Superior Ingredients
 
-Danny Tenaglia presents Boo Yourself at Superior Ingredients on Sat 24 Oct, New York City. 1 artist on the bill: Danny Tenaglia. House. Preview the line-up and save it on soundcheck.
+Danny Tenaglia presents Boo Yourself at Superior Ingredients on Sat 24 Oct, New York City. 1 artist: Danny Tenaglia. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

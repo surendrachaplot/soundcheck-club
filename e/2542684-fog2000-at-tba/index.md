@@ -1,6 +1,6 @@
 # FOG2000 at TBA
 
-FOG2000 at TBA on Sat 17 Oct, Sydney. 2 artists on the bill: Rydeen (AU) and sovblkpssy. Breakcore and Footwork. Preview the line-up and save it on soundcheck.
+FOG2000 at TBA on Sat 17 Oct, Sydney. 2 artists: Rydeen (AU) and sovblkpssy. Breakcore and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

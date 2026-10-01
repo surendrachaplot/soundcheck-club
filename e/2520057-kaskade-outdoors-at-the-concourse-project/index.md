@@ -1,6 +1,6 @@
 # Kaskade (Outdoors) at The Concourse Project
 
-Kaskade (Outdoors) at The Concourse Project on Fri 20 Nov, Austin. 1 artist on the bill: Kaskade. Preview the line-up and save it on soundcheck.
+Kaskade (Outdoors) at The Concourse Project on Fri 20 Nov, Austin. 1 artist: Kaskade. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

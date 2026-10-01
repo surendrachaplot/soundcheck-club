@@ -1,6 +1,6 @@
 # MUTATE: Charlie Sparks at Exchange LA
 
-MUTATE: Charlie Sparks at Exchange LA on Sat 24 Oct, Los Angeles. Techno. Preview the line-up and save it on soundcheck.
+MUTATE: Charlie Sparks at Exchange LA on Sat 24 Oct, Los Angeles. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

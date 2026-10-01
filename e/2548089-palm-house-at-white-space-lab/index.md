@@ -1,6 +1,6 @@
 # PALM HOUSE at White Space Lab
 
-PALM HOUSE at White Space Lab on Fri 2 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+PALM HOUSE at White Space Lab on Fri 2 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

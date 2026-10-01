@@ -1,6 +1,6 @@
 # Noce Krk: URODZINY NOCY - 2 Sceny - 14 DJS at Noce KRK
 
-Noce Krk: URODZINY NOCY - 2 Sceny - 14 DJS at Noce KRK on Fri 23 Oct, Krakow. 7 artists on the bill: Aetha, CRANZ, Gabi Bury and Hellix and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Noce Krk: URODZINY NOCY - 2 Sceny - 14 DJS at Noce KRK on Fri 23 Oct, Krakow. 7 artists: Aetha, CRANZ, Gabi Bury and Hellix and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

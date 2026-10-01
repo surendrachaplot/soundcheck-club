@@ -1,6 +1,6 @@
 # LAERZ at Substation
 
-LAERZ at Substation on Thu 22 Oct, Seattle. Progressive House and House. Preview the line-up and save it on soundcheck.
+LAERZ at Substation on Thu 22 Oct, Seattle. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

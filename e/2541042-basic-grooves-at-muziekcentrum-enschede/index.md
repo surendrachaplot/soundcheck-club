@@ -1,6 +1,6 @@
 # Basic Grooves at Muziekcentrum Enschede
 
-Basic Grooves at Muziekcentrum Enschede on Sat 7 Nov, Netherlands. 2 artists on the bill: HUJUS and ÜBERKIKZ. Preview the line-up and save it on soundcheck.
+Basic Grooves at Muziekcentrum Enschede on Sat 7 Nov, Netherlands. 2 artists: HUJUS and ÜBERKIKZ. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

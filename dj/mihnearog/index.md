@@ -1,8 +1,8 @@
 # Mihnea Rog
 
-Mihnea Rog is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Mihnea Rog is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Mihnea Rog is a techno and house artist based in Romania, tracked on soundcheck, with 20 sets logged across Bucharest, Greece, London and Milan and 1 more. Often billed alongside Cap, DumitrEscu and BILA. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Mihnea Rog is a techno and house artist based in Romania, with 20 gigs on soundcheck across Bucharest, Greece, London and Milan and 1 more. Often billed alongside Cap, DumitrEscu and BILA. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Mihnea Rog is a techno and house artist based in Romania, tracked on soundcheck,
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Scânteia +, Bucharest — Fri, 21 Aug 2026
-- Platforma Wolff, Bucharest — Sat, 1 Aug 2026
-- Club Guesthouse, Bucharest — Sat, 13 Jun 2026
-- Platforma Wolff, Bucharest — Fri, 6 Mar 2026
-- Platforma Wolff, Bucharest — Fri, 16 Jan 2026
-- Club Guesthouse, Bucharest — Fri, 7 Nov 2025
-- Platforma Wolff, Bucharest — Fri, 19 Sept 2025
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Scânteia +, Bucharest · Fri, 21 Aug 2026
+- Platforma Wolff, Bucharest · Sat, 1 Aug 2026
+- Club Guesthouse, Bucharest · Sat, 13 Jun 2026
+- Platforma Wolff, Bucharest · Fri, 6 Mar 2026
+- Platforma Wolff, Bucharest · Fri, 16 Jan 2026
+- Club Guesthouse, Bucharest · Fri, 7 Nov 2025
+- Platforma Wolff, Bucharest · Fri, 19 Sept 2025
 
 ## Shares bills with
 

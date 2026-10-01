@@ -1,6 +1,6 @@
 # [NoctamBar] Hyperfiak at La Gravière
 
-[NoctamBar] Hyperfiak at La Gravière on Thu 1 Oct, Geneva. Bass and Reggaeton. Preview the line-up and save it on soundcheck.
+[NoctamBar] Hyperfiak at La Gravière on Thu 1 Oct, Geneva. Bass and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

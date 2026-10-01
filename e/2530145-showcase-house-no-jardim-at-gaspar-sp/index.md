@@ -1,6 +1,6 @@
 # Showcase House no Jardim at Gaspar SP
 
-Showcase House no Jardim at Gaspar SP on Sat 14 Nov, Sao Paulo. 1 artist on the bill: Gustavo Bezzi. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Showcase House no Jardim at Gaspar SP on Sat 14 Nov, Sao Paulo. 1 artist: Gustavo Bezzi. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

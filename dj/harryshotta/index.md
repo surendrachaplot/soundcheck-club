@@ -1,8 +1,8 @@
 # Harry Shotta
 
-Harry Shotta is a Drum & Bass and Jungle artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Albert Hall, Manchester on Sat, 14 Nov 2026.
+Harry Shotta is a Drum & Bass and Jungle artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Albert Hall, Manchester on Sat, 14 Nov 2026.
 
-Harry Shotta is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 6 more. Often billed alongside IC3, Logan D and Eksman. Next up: Albert Hall, Manchester on Sat 14 Nov.
+Harry Shotta is a drum & bass and jungle artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 6 more. Often billed alongside IC3, Logan D and Eksman. Next up: Albert Hall, Manchester on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Harry Shotta is a drum & bass and jungle artist based in United Kingdom, tracked
 
 ## Recently played
 
-- Fire, London — Sat, 26 Sept 2026
-- Sawmills, Bristol — Sat, 12 Sept 2026
-- Eutopia Whs, London — Sat, 5 Sept 2026
-- Brixton Jamm, London — Sat, 1 Aug 2026
-- M.O.T, London — Sat, 11 Jul 2026
-- 93 Feet East, London — Fri, 29 May 2026
-- Dunnings 2, London — Sat, 9 May 2026
-- Melkweg, Amsterdam — Fri, 24 Apr 2026
+- Fire, London · Sat, 26 Sept 2026
+- Sawmills, Bristol · Sat, 12 Sept 2026
+- Eutopia Whs, London · Sat, 5 Sept 2026
+- Brixton Jamm, London · Sat, 1 Aug 2026
+- M.O.T, London · Sat, 11 Jul 2026
+- 93 Feet East, London · Fri, 29 May 2026
+- Dunnings 2, London · Sat, 9 May 2026
+- Melkweg, Amsterdam · Fri, 24 Apr 2026
 
 ## Shares bills with
 

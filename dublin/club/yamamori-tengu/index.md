@@ -1,8 +1,8 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 25 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "MAZE X - TENGU TAKEOVER" on Thu, 1 Oct 2026.
+Yamamori Tengu is a music venue in Dublin with 25 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MAZE X - TENGU TAKEOVER" on Thu, 1 Oct 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 25 upcoming gigs, with line-ups including 2manycolours, A For Alpha, Alba and Batu and 2 more. Browse upcoming dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 25 upcoming gigs, with line-ups including 2manycolours, A For Alpha, Alba and Batu and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 

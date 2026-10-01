@@ -1,8 +1,8 @@
 # annna (2)
 
-annna (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
+annna (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - a chapel in neukölln, Berlin on Sun, 4 Oct 2026.
 
-annna is a house and techno artist based in Bulgaria, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Frankfurt and London and 1 more. Often billed alongside DJ TEETH, E-Talking and New Members. Next up: TBA - a chapel in neukölln, Berlin on Sun 4 Oct.
+annna is a house and techno artist based in Bulgaria, with 21 gigs on soundcheck across Barcelona, Berlin, Frankfurt and London and 1 more. Often billed alongside DJ TEETH, E-Talking and New Members. Next up: TBA - a chapel in neukölln, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ annna is a house and techno artist based in Bulgaria, tracked on soundcheck, wit
 
 ## Recently played
 
-- Twist Bar, Prague — Fri, 11 Sept 2026
-- Tokonoma Club, Frankfurt — Sat, 22 Aug 2026
-- Amphitheatre by Circadian, Berlin — Sat, 4 Jul 2026
-- Amphitheatre by Circadian, Berlin — Sat, 23 May 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 9 May 2026
-- Ikii, Berlin — Sat, 28 Mar 2026
-- Beate Uwe, Berlin — Fri, 20 Mar 2026
-- TBA, Berlin — Fri, 6 Mar 2026
+- Twist Bar, Prague · Fri, 11 Sept 2026
+- Tokonoma Club, Frankfurt · Sat, 22 Aug 2026
+- Amphitheatre by Circadian, Berlin · Sat, 4 Jul 2026
+- Amphitheatre by Circadian, Berlin · Sat, 23 May 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 9 May 2026
+- Ikii, Berlin · Sat, 28 Mar 2026
+- Beate Uwe, Berlin · Fri, 20 Mar 2026
+- TBA, Berlin · Fri, 6 Mar 2026
 
 ## Shares bills with
 

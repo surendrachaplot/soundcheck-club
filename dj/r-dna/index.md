@@ -1,8 +1,8 @@
 # R-DNA
 
-R-DNA is a Techno and Baile Funk artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Reforesters Laboratory, New York City on Sat, 10 Oct 2026.
+R-DNA is a Techno and Baile Funk artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Reforesters Laboratory, New York City on Sat, 10 Oct 2026.
 
-R-DNA is a techno and baile funk artist based in Ukraine, tracked on soundcheck, with 29 sets logged across New York City. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: Reforesters Laboratory, New York City on Sat 10 Oct.
+R-DNA is a techno and baile funk artist based in Ukraine, with 29 gigs on soundcheck across New York City. Often billed alongside masha latte, 1ol1v1a and SEDENTARY. Next up: Reforesters Laboratory, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ R-DNA is a techno and baile funk artist based in Ukraine, tracked on soundcheck,
 
 ## Recently played
 
-- Bogart House, New York City — Sat, 12 Sept 2026
-- Mood Ring, New York City — Thu, 27 Aug 2026
-- Honey's, New York City — Sun, 23 Aug 2026
-- Newtown Radio, New York City — Fri, 21 Aug 2026
-- Mood Ring, New York City — Wed, 19 Aug 2026
-- TBA - Brooklyn, New York City — Sat, 15 Aug 2026
-- Honey's, New York City — Sat, 8 Aug 2026
-- SILO, New York City — Thu, 30 Jul 2026
+- Bogart House, New York City · Sat, 12 Sept 2026
+- Mood Ring, New York City · Thu, 27 Aug 2026
+- Honey's, New York City · Sun, 23 Aug 2026
+- Newtown Radio, New York City · Fri, 21 Aug 2026
+- Mood Ring, New York City · Wed, 19 Aug 2026
+- TBA - Brooklyn, New York City · Sat, 15 Aug 2026
+- Honey's, New York City · Sat, 8 Aug 2026
+- SILO, New York City · Thu, 30 Jul 2026
 
 ## Shares bills with
 

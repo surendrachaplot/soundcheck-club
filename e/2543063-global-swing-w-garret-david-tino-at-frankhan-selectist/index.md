@@ -1,6 +1,6 @@
 # Global Swing w/ Garret David + Tino at Frankhan Selectist
 
-Global Swing w/ Garret David + Tino at Frankhan Selectist on Sat 10 Oct, Istanbul. 2 artists on the bill: Garrett David and Tino. Preview the line-up and save it on soundcheck.
+Global Swing w/ Garret David + Tino at Frankhan Selectist on Sat 10 Oct, Istanbul. 2 artists: Garrett David and Tino. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

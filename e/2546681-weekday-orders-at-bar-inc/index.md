@@ -1,6 +1,6 @@
 # WEEKDAY ORDERS at BAR Inc
 
-WEEKDAY ORDERS at BAR Inc on Wed 14 Oct, Osaka. 2 artists on the bill: Jeremy Cheung and Marco Yanes. Techno and House. Preview the line-up and save it on soundcheck.
+WEEKDAY ORDERS at BAR Inc on Wed 14 Oct, Osaka. 2 artists: Jeremy Cheung and Marco Yanes. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

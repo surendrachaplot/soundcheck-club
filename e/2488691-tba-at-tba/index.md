@@ -1,6 +1,6 @@
 # tba at TBA
 
-tba at TBA on Fri 2 Apr, Sheffield. 4 artists on the bill: Adi (CO), Diamin, Jane Fitz and Melina Serser. Acid. Preview the line-up and save it on soundcheck.
+tba at TBA on Fri 2 Apr, Sheffield. 4 artists: Adi (CO), Diamin, Jane Fitz and Melina Serser. Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

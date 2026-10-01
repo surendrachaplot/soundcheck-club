@@ -1,6 +1,6 @@
 # ART 8 HOUSE at Andy Arts
 
-ART 8 HOUSE at Andy Arts on Sat 7 Nov, Detroit. House and Deep House. Preview the line-up and save it on soundcheck.
+ART 8 HOUSE at Andy Arts on Sat 7 Nov, Detroit. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

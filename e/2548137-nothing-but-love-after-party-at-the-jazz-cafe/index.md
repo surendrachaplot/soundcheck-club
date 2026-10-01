@@ -1,6 +1,6 @@
 # Nothing But Love. (After Party) at The Jazz Cafe
 
-Nothing But Love. (After Party) at The Jazz Cafe on Sat 3 Oct, London. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Nothing But Love. (After Party) at The Jazz Cafe on Sat 3 Oct, London. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # VIK B
 
-VIK B is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
+VIK B is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OFF Kultur, Budapest on Sat, 24 Oct 2026.
 
-VIK B is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Birmingham, Budapest and Sheffield. Often billed alongside INLIMEN, DUGASZ and GØBLIN. Next up: OFF Kultur, Budapest on Sat 24 Oct.
+VIK B is a techno and industrial artist based in United Kingdom, with 10 gigs on soundcheck across Birmingham, Budapest and Sheffield. Often billed alongside INLIMEN, DUGASZ and GØBLIN. Next up: OFF Kultur, Budapest on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ VIK B is a techno and industrial artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Suki10c, Birmingham — Sat, 9 May 2026
-- Suki10c, Birmingham — Sat, 8 Nov 2025
-- Suki10c, Birmingham — Sat, 5 Apr 2025
-- Suki10c, Birmingham — Sat, 15 Mar 2025
-- Hope Works, Sheffield — Fri, 14 Feb 2025
-- Plot 22, Sheffield — Fri, 15 Nov 2024
-- Suki10c, Birmingham — Sat, 22 Jun 2024
-- FORGE, Sheffield — Fri, 3 May 2024
+- Suki10c, Birmingham · Sat, 9 May 2026
+- Suki10c, Birmingham · Sat, 8 Nov 2025
+- Suki10c, Birmingham · Sat, 5 Apr 2025
+- Suki10c, Birmingham · Sat, 15 Mar 2025
+- Hope Works, Sheffield · Fri, 14 Feb 2025
+- Plot 22, Sheffield · Fri, 15 Nov 2024
+- Suki10c, Birmingham · Sat, 22 Jun 2024
+- FORGE, Sheffield · Fri, 3 May 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # 59 BEL RECORDS: SILV4RE & TSIEG at La Gare / Le Gore
 
-59 BEL RECORDS: SILV4RE & TSIEG at La Gare / Le Gore on Thu 8 Oct, Paris. Techno. Preview the line-up and save it on soundcheck.
+59 BEL RECORDS: SILV4RE & TSIEG at La Gare / Le Gore on Thu 8 Oct, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

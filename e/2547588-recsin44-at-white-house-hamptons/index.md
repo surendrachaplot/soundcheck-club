@@ -1,6 +1,6 @@
 # Recsin44 at White House Hamptons
 
-Recsin44 at White House Hamptons on Sat 3 Oct, New York City. Ambient and Baile Funk. Preview the line-up and save it on soundcheck.
+Recsin44 at White House Hamptons on Sat 3 Oct, New York City. Ambient and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

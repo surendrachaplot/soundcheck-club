@@ -1,6 +1,6 @@
 # Crushed Now—After Turning // Beyond Presence at Funkhaus Berlin
 
-Crushed Now—After Turning // Beyond Presence at Funkhaus Berlin on Sun 18 Oct, Berlin. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Crushed Now—After Turning // Beyond Presence at Funkhaus Berlin on Sun 18 Oct, Berlin. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

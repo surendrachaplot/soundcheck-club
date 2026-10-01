@@ -1,8 +1,8 @@
 # The Model
 
-The Model is a music venue in Nottingham with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Ten Twenty Vision presents: Sam Girling" on Fri, 2 Oct 2026.
+The Model is a music venue in Nottingham with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ten Twenty Vision presents: Sam Girling" on Fri, 2 Oct 2026.
 
-The Model is a music venue in Nottingham listed on soundcheck. 14 upcoming gigs, with line-ups including Anna Wall, Brad Bradley, Burly Chassis and CONFLICT BUREAU and 2 more. Browse upcoming dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
+The Model is a music venue in Nottingham listed on soundcheck. 14 upcoming gigs, with line-ups including Anna Wall, Brad Bradley, Burly Chassis and CONFLICT BUREAU and 2 more. See dates, start times and who's playing. 23 Goose Gate, Nottingham, NG1 3FE.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Renan Inquerito - TIREOIDE - European tour at The Cloud
 
-Renan Inquerito - TIREOIDE - European tour at The Cloud on Sat 7 Nov, Berlin. Hip-Hop. Preview the line-up and save it on soundcheck.
+Renan Inquerito - TIREOIDE - European tour at The Cloud on Sat 7 Nov, Berlin. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

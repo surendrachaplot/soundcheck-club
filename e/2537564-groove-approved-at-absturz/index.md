@@ -1,6 +1,6 @@
 # GROOVE APPROVED at Absturz
 
-GROOVE APPROVED at Absturz on Fri 9 Oct, Leipzig. Trance and Techno. Preview the line-up and save it on soundcheck.
+GROOVE APPROVED at Absturz on Fri 9 Oct, Leipzig. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

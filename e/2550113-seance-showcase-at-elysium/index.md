@@ -1,6 +1,6 @@
 # SEANCE SHOWCASE at Elysium
 
-SEANCE SHOWCASE at Elysium on Thu 1 Oct, Austin. 1 artist on the bill: Tears Of Eros. Industrial. Preview the line-up and save it on soundcheck.
+SEANCE SHOWCASE at Elysium on Thu 1 Oct, Austin. 1 artist: Tears Of Eros. Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

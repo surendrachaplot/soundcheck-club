@@ -1,6 +1,6 @@
 # Cirque de Nuit - 1001 Nights at The Lucky Cat
 
-Cirque de Nuit - 1001 Nights at The Lucky Cat on Sat 10 Oct, Sydney. Techno and House. Preview the line-up and save it on soundcheck.
+Cirque de Nuit - 1001 Nights at The Lucky Cat on Sat 10 Oct, Sydney. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

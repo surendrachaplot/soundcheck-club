@@ -1,6 +1,6 @@
 # Jackies Open Air Daytime w/ Jayda G at La Terrrazza
 
-Jackies Open Air Daytime w/ Jayda G at La Terrrazza on Sat 3 Oct, Barcelona. 4 artists on the bill: GIVIO, Jayda G, Piem and The Checkup. House. Preview the line-up and save it on soundcheck.
+Jackies Open Air Daytime w/ Jayda G at La Terrrazza on Sat 3 Oct, Barcelona. 4 artists: GIVIO, Jayda G, Piem and The Checkup. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

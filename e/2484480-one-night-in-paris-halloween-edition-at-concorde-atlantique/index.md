@@ -1,6 +1,6 @@
 # One Night In Paris - Halloween Edition at Concorde Atlantique
 
-One Night In Paris - Halloween Edition at Concorde Atlantique on Fri 23 Oct, Paris. Preview the line-up and save it on soundcheck.
+One Night In Paris - Halloween Edition at Concorde Atlantique on Fri 23 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

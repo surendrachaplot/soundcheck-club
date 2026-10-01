@@ -1,6 +1,6 @@
 # Jazz For Lovers: Autumn in New York at SOBs
 
-Jazz For Lovers: Autumn in New York at SOBs on Thu 8 Oct, New York City. Jazz. Preview the line-up and save it on soundcheck.
+Jazz For Lovers: Autumn in New York at SOBs on Thu 8 Oct, New York City. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

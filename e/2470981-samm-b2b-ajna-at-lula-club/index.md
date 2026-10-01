@@ -1,6 +1,6 @@
 # Samm B2B AJNA at Lula Club
 
-Samm B2B AJNA at Lula Club on Fri 2 Oct, Madrid. 2 artists on the bill: AJNA and Samm (BE). Preview the line-up and save it on soundcheck.
+Samm B2B AJNA at Lula Club on Fri 2 Oct, Madrid. 2 artists: AJNA and Samm (BE). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

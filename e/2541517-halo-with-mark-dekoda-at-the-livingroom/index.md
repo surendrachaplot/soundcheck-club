@@ -1,6 +1,6 @@
 # HALO with Mark Dekoda at The Livingroom
 
-HALO with Mark Dekoda at The Livingroom on Sat 17 Oct, Lower Saxony. 3 artists on the bill: Arman John, Mark Dekoda and Tom Nihil. Preview the line-up and save it on soundcheck.
+HALO with Mark Dekoda at The Livingroom on Sat 17 Oct, Lower Saxony. 3 artists: Arman John, Mark Dekoda and Tom Nihil. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PKH Warehouse Opening Event with Trancecore, Sachsentrance, BPM, Anechoic, 44 Hertz uvm at PKH Warehouse
 
-PKH Warehouse Opening Event with Trancecore, Sachsentrance, BPM, Anechoic, 44 Hertz uvm on Fri 2 Oct, Berlin. 22 artists on the bill: Amøn, Anechoic, Asem Shama and August Kind and 18 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+PKH Warehouse Opening Event with Trancecore, Sachsentrance, BPM, Anechoic, 44 Hertz uvm on Fri 2 Oct, Berlin. 22 artists: Amøn, Anechoic, Asem Shama and August Kind and 18 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

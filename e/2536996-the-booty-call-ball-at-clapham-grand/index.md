@@ -1,6 +1,6 @@
 # The Booty Call Ball at Clapham Grand
 
-The Booty Call Ball at Clapham Grand on Fri 23 Oct, London. Disco and Pop. Preview the line-up and save it on soundcheck.
+The Booty Call Ball at Clapham Grand on Fri 23 Oct, London. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

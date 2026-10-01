@@ -1,6 +1,6 @@
 # Adventures In Dub #17 at Bureau of Silly Ideas
 
-Adventures In Dub #17 at Bureau of Silly Ideas on Thu 1 Oct, London. 2 artists on the bill: DJ Snuff and Slick N Bobby. Dub and Jazz. Preview the line-up and save it on soundcheck.
+Adventures In Dub #17 at Bureau of Silly Ideas on Thu 1 Oct, London. 2 artists: DJ Snuff and Slick N Bobby. Dub and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

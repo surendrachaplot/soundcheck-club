@@ -1,6 +1,6 @@
 # aryy ONE-MAN SHOW at Socore Factory
 
-aryy ONE-MAN SHOW at Socore Factory on Thu 5 Nov, Osaka. Electro. Preview the line-up and save it on soundcheck.
+aryy ONE-MAN SHOW at Socore Factory on Thu 5 Nov, Osaka. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

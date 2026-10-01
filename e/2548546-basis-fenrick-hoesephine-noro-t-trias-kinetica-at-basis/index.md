@@ -1,6 +1,6 @@
 # BASIS/ Fenrick/ HOESEPHINE/ NORO$T/ Trias Kinetica at BASIS
 
-BASIS/ Fenrick/ HOESEPHINE/ NORO$T/ Trias Kinetica on Sat 21 Nov, Utrecht. 4 artists on the bill: Fenrick, HOESEPHINE, NORO$T and Trias Kinetica. Trance and Techno. Preview the line-up and save it on soundcheck.
+BASIS/ Fenrick/ HOESEPHINE/ NORO$T/ Trias Kinetica on Sat 21 Nov, Utrecht. 4 artists: Fenrick, HOESEPHINE, NORO$T and Trias Kinetica. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

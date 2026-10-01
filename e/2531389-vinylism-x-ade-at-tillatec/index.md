@@ -1,6 +1,6 @@
 # Vinylism x ADE at TILLATEC
 
-Vinylism x ADE at TILLATEC on Fri 23 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Vinylism x ADE at TILLATEC on Fri 23 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

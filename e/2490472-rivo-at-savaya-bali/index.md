@@ -1,6 +1,6 @@
 # Rivo at Savaya Bali
 
-Rivo at Savaya Bali on Sat 10 Oct, Bali. 1 artist on the bill: Rivo. Afro House. Preview the line-up and save it on soundcheck.
+Rivo at Savaya Bali on Sat 10 Oct, Bali. 1 artist: Rivo. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

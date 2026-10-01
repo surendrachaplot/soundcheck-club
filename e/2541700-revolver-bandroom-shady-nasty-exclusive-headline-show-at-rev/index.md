@@ -1,6 +1,6 @@
 # REVOLVER BANDROOM: SHADY NASTY — EXCLUSIVE HEADLINE SHOW at Revolver Upstairs
 
-REVOLVER BANDROOM: SHADY NASTY — EXCLUSIVE HEADLINE SHOW at Revolver Upstairs on Fri 13 Nov, Melbourne. Preview the line-up and save it on soundcheck.
+REVOLVER BANDROOM: SHADY NASTY — EXCLUSIVE HEADLINE SHOW at Revolver Upstairs on Fri 13 Nov, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

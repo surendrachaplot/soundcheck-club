@@ -1,6 +1,6 @@
 # Séance at C12
 
-Séance at C12 on Fri 20 Nov, Brussels. House and Club. Preview the line-up and save it on soundcheck.
+Séance at C12 on Fri 20 Nov, Brussels. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

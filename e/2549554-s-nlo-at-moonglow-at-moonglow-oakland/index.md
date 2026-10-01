@@ -1,6 +1,6 @@
 # Sánlo at Moonglow at Moonglow Oakland
 
-Sánlo at Moonglow at Moonglow Oakland on Sat 3 Oct, San Francisco/Oakland. 1 artist on the bill: Sánlo. Bass and Deep House. Preview the line-up and save it on soundcheck.
+Sánlo at Moonglow at Moonglow Oakland on Sat 3 Oct, San Francisco/Oakland. 1 artist: Sánlo. Bass and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

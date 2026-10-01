@@ -1,6 +1,6 @@
 # MetroTek at Branded Saloon
 
-MetroTek at Branded Saloon on Sat 3 Oct, New York City. House and Disco. Preview the line-up and save it on soundcheck.
+MetroTek at Branded Saloon on Sat 3 Oct, New York City. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Noladnb presents LENS - New Orleans at The Crypt (New Orleans)
 
-Noladnb presents LENS - New Orleans at The Crypt (New Orleans) on Sat 3 Oct, New Orleans. 1 artist on the bill: Lens. Preview the line-up and save it on soundcheck.
+Noladnb presents LENS - New Orleans at The Crypt (New Orleans) on Sat 3 Oct, New Orleans. 1 artist: Lens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

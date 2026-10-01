@@ -1,6 +1,6 @@
 # NYMPHO presents: ATARANGI All Night Long at Miscellania
 
-NYMPHO presents: ATARANGI All Night Long at Miscellania on Fri 9 Oct, Melbourne. 1 artist on the bill: ATARANGI. Club and Hard Drum. Preview the line-up and save it on soundcheck.
+NYMPHO presents: ATARANGI All Night Long at Miscellania on Fri 9 Oct, Melbourne. 1 artist: ATARANGI. Club and Hard Drum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DAVE Festival: Beyond the Club - TWO LANES *live, SIA MOAN *live, Dominic Kießling *live AV at Martin-Luther-Kirche
 
-DAVE Festival: Beyond the Club - TWO LANES *live, SIA MOAN *live, Dominic Kießling *live AV at Martin-Luther-Kirche on Sun 8 Nov, Dresden. 2 artists on the bill: SIA MOAN and TWO LANES. Preview the line-up and save it on soundcheck.
+DAVE Festival: Beyond the Club - TWO LANES *live, SIA MOAN *live, Dominic Kießling *live AV at Martin-Luther-Kirche on Sun 8 Nov, Dresden. 2 artists: SIA MOAN and TWO LANES. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

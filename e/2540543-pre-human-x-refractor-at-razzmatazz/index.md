@@ -1,6 +1,6 @@
 # Pre-human x Refractor at Razzmatazz
 
-Pre-human x Refractor at Razzmatazz on Sat 21 Nov, Barcelona. 3 artists on the bill: Andrae Durden, Convoluted Mental Mirror and Malesa. Preview the line-up and save it on soundcheck.
+Pre-human x Refractor at Razzmatazz on Sat 21 Nov, Barcelona. 3 artists: Andrae Durden, Convoluted Mental Mirror and Malesa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

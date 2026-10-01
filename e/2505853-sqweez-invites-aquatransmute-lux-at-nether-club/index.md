@@ -1,6 +1,6 @@
 # Sqweez! invites Aquatransmute (LUX) at Nether Club
 
-Sqweez! invites Aquatransmute (LUX) at Nether Club on Fri 23 Oct, Bucharest. 4 artists on the bill: DANCE DIVINE, ESME, FAUST and Føggeist. Trance and Techno. Preview the line-up and save it on soundcheck.
+Sqweez! invites Aquatransmute (LUX) at Nether Club on Fri 23 Oct, Bucharest. 4 artists: DANCE DIVINE, ESME, FAUST and Føggeist. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Dan Costello
 
-Dan Costello is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
+Dan Costello is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Toekomstmuziek, Amsterdam on Sun, 25 Oct 2026.
 
-Dan Costello is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Ibiza, London and Manchester and 1 more. Often billed alongside Mike Morrisey, Luke Welsh and MPhilly. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
+Dan Costello is a tech house and house artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Ibiza, London and Manchester and 1 more. Often billed alongside Mike Morrisey, Luke Welsh and MPhilly. Next up: Toekomstmuziek, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Dan Costello is a tech house and house artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Tantra Bar Ibiza, Ibiza — Sat, 29 Aug 2026
-- Madam, Amsterdam — Sat, 18 Jul 2026
-- Tantra Bar Ibiza, Ibiza — Sun, 28 Jun 2026
-- The Trip, Miami — Sun, 29 Mar 2026
-- Hidden, Manchester — Fri, 19 Dec 2025
-- Amber's, Manchester — Fri, 3 Oct 2025
-- Joshua Brooks, Manchester — Sat, 17 Aug 2024
-- XLR, Manchester — Thu, 18 Apr 2024
+- Tantra Bar Ibiza, Ibiza · Sat, 29 Aug 2026
+- Madam, Amsterdam · Sat, 18 Jul 2026
+- Tantra Bar Ibiza, Ibiza · Sun, 28 Jun 2026
+- The Trip, Miami · Sun, 29 Mar 2026
+- Hidden, Manchester · Fri, 19 Dec 2025
+- Amber's, Manchester · Fri, 3 Oct 2025
+- Joshua Brooks, Manchester · Sat, 17 Aug 2024
+- XLR, Manchester · Thu, 18 Apr 2024
 
 ## Shares bills with
 

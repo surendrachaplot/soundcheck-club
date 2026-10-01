@@ -1,8 +1,8 @@
 # Eats Everything
 
-Eats Everything is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Eats Everything is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Eats Everything is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 179 sets logged across Amsterdam, Bali, Barcelona and Belfast and 33 more. Often billed alongside EATS, Sam Divine and Melé. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Eats Everything is a house and tech house artist based in United Kingdom, with 179 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 33 more. Often billed alongside EATS, Sam Divine and Melé. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Eats Everything is a house and tech house artist based in United Kingdom, tracke
 
 ## Recently played
 
-- TBA - Gloria's Liverpool, Liverpool — Sat, 26 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 24 Sept 2026
-- DRUMSHEDS, London — Sat, 19 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Fri, 18 Sept 2026
-- Amnesia Ibiza, Ibiza — Fri, 11 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 3 Sept 2026
-- Pacha Ibiza, Ibiza — Mon, 24 Aug 2026
-- [UNVRS], Ibiza — Sat, 15 Aug 2026
+- TBA - Gloria's Liverpool, Liverpool · Sat, 26 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 24 Sept 2026
+- DRUMSHEDS, London · Sat, 19 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Fri, 18 Sept 2026
+- Amnesia Ibiza, Ibiza · Fri, 11 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 3 Sept 2026
+- Pacha Ibiza, Ibiza · Mon, 24 Aug 2026
+- [UNVRS], Ibiza · Sat, 15 Aug 2026
 
 ## Shares bills with
 

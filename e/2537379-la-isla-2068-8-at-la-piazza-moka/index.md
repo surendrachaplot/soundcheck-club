@@ -1,6 +1,6 @@
 # LA ISLA 2068 #8 at La Piazza, Moka
 
-LA ISLA 2068 #8 at La Piazza, Moka on Fri 9 Oct, Mauritius. 3 artists on the bill: Greg, Mad Rey and Nathan Fake. Preview the line-up and save it on soundcheck.
+LA ISLA 2068 #8 at La Piazza, Moka on Fri 9 Oct, Mauritius. 3 artists: Greg, Mad Rey and Nathan Fake. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

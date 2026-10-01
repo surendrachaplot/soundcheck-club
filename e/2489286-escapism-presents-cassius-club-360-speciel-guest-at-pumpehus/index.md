@@ -1,6 +1,6 @@
 # ESCAPISM presents: Cassius Club 360° + Speciel Guest at Pumpehuset
 
-ESCAPISM presents: Cassius Club 360° + Speciel Guest at Pumpehuset on Fri 30 Oct, Copenhagen. 3 artists on the bill: Cassius, Fedty and Myd. Preview the line-up and save it on soundcheck.
+ESCAPISM presents: Cassius Club 360° + Speciel Guest at Pumpehuset on Fri 30 Oct, Copenhagen. 3 artists: Cassius, Fedty and Myd. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

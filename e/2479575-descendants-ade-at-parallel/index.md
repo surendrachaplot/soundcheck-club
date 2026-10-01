@@ -1,6 +1,6 @@
 # DESCENDANTS - ADE at Parallel
 
-DESCENDANTS - ADE at Parallel on Sat 24 Oct, Amsterdam. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+DESCENDANTS - ADE at Parallel on Sat 24 Oct, Amsterdam. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

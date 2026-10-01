@@ -1,6 +1,6 @@
 # DJ EZ, Donae'o, Slimzee & Roll Deep, Kenny Ken - Soundz of London at Electric Brixton
 
-DJ EZ, Donae'o, Slimzee & Roll Deep, Kenny Ken - Soundz of London at Electric Brixton on Sat 14 Nov, London. 5 artists on the bill: DJ EZ, Donae'o, Kenny Ken and Roll Deep and 1 more. Bass and Garage. Preview the line-up and save it on soundcheck.
+DJ EZ, Donae'o, Slimzee & Roll Deep, Kenny Ken - Soundz of London at Electric Brixton on Sat 14 Nov, London. 5 artists: DJ EZ, Donae'o, Kenny Ken and Roll Deep and 1 more. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Uzak Taraf // Qatifa at Toï Toï, Le Zinc
 
-Uzak Taraf // Qatifa at Toï Toï, Le Zinc on Thu 1 Oct, Lyon. Preview the line-up and save it on soundcheck.
+Uzak Taraf // Qatifa at Toï Toï, Le Zinc on Thu 1 Oct, Lyon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

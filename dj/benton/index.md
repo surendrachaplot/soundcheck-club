@@ -1,8 +1,8 @@
 # Benton (UK)
 
-Benton (UK) is a Jungle and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
+Benton (UK) is a Jungle and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
 
-Benton (UK) is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Bristol, London, Newcastle and Vienna. Often billed alongside Chinese Daughter, CICELY and Klose One. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
+Benton (UK) is a jungle and bass artist based in United Kingdom, with 39 gigs on soundcheck across Bristol, London, Newcastle and Vienna. Often billed alongside Chinese Daughter, CICELY and Klose One. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Benton (UK) is a jungle and bass artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- M.O.T, London — Fri, 3 Jul 2026
-- The Glove That Fits, London — Sun, 28 Jun 2026
-- Tola, London — Sat, 20 Jun 2026
-- The Fox and Firkin, London — Sat, 9 May 2026
-- FLUCC, Vienna — Fri, 24 Apr 2026
-- The Fox and Firkin, London — Wed, 31 Dec 2025
-- Corsica Studios, London — Sat, 20 Dec 2025
-- Peckham Levels, London — Sat, 13 Dec 2025
+- M.O.T, London · Fri, 3 Jul 2026
+- The Glove That Fits, London · Sun, 28 Jun 2026
+- Tola, London · Sat, 20 Jun 2026
+- The Fox and Firkin, London · Sat, 9 May 2026
+- FLUCC, Vienna · Fri, 24 Apr 2026
+- The Fox and Firkin, London · Wed, 31 Dec 2025
+- Corsica Studios, London · Sat, 20 Dec 2025
+- Peckham Levels, London · Sat, 13 Dec 2025
 
 ## Shares bills with
 

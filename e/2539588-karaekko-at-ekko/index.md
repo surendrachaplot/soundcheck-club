@@ -1,6 +1,6 @@
 # karaEKKO at EKKO
 
-karaEKKO on Thu 15 Oct, Utrecht. Pop and Club. Preview the line-up and save it on soundcheck.
+karaEKKO on Thu 15 Oct, Utrecht. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Chicane
 
-Chicane is a Trance and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Quarters, Brighton on Sat, 3 Oct 2026.
+Chicane is a Trance and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Quarters, Brighton on Sat, 3 Oct 2026.
 
-Chicane is a trance and house artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Belfast, Brighton, Brisbane and Bristol and 10 more. Often billed alongside Leena Punks, Seb Fontaine and Amy Wiles. Next up: Quarters, Brighton on Sat 3 Oct.
+Chicane is a trance and house artist based in United Kingdom, with 24 gigs on soundcheck across Belfast, Brighton, Brisbane and Bristol and 10 more. Often billed alongside Leena Punks, Seb Fontaine and Amy Wiles. Next up: Quarters, Brighton on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Chicane is a trance and house artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Wed, 24 Jun 2026
-- Liverpool Pier Head, Liverpool — Sat, 20 Jun 2026
-- The Limelight, Belfast — Sat, 13 Jun 2026
-- Amnesia Ibiza, Ibiza — Wed, 3 Jun 2026
-- NX Newcastle, Newcastle — Sat, 25 Apr 2026
-- The Steel Yard, London — Sat, 18 Apr 2026
-- Electric Bristol, Bristol — Sat, 11 Apr 2026
-- Index, Dublin — Sun, 5 Apr 2026
+- Amnesia Ibiza, Ibiza · Wed, 24 Jun 2026
+- Liverpool Pier Head, Liverpool · Sat, 20 Jun 2026
+- The Limelight, Belfast · Sat, 13 Jun 2026
+- Amnesia Ibiza, Ibiza · Wed, 3 Jun 2026
+- NX Newcastle, Newcastle · Sat, 25 Apr 2026
+- The Steel Yard, London · Sat, 18 Apr 2026
+- Electric Bristol, Bristol · Sat, 11 Apr 2026
+- Index, Dublin · Sun, 5 Apr 2026
 
 ## Shares bills with
 

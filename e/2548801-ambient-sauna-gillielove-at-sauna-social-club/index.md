@@ -1,6 +1,6 @@
 # Ambient Sauna • Gillielove at Sauna Social Club
 
-Ambient Sauna • Gillielove at Sauna Social Club on Sat 10 Oct, London. 1 artist on the bill: Gillielove. Ambient and Dub. Preview the line-up and save it on soundcheck.
+Ambient Sauna • Gillielove at Sauna Social Club on Sat 10 Oct, London. 1 artist: Gillielove. Ambient and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

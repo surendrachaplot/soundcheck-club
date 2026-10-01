@@ -1,6 +1,6 @@
 # TRANSGRESS FESTIVAL at TBA - Zamora las acenas de cabanales
 
-TRANSGRESS FESTIVAL at TBA - Zamora las acenas de cabanales on Sat 3 Oct, Madrid. 1 artist on the bill: Marta Paradise. Italo Disco and Electronica. Preview the line-up and save it on soundcheck.
+TRANSGRESS FESTIVAL at TBA - Zamora las acenas de cabanales on Sat 3 Oct, Madrid. 1 artist: Marta Paradise. Italo Disco and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

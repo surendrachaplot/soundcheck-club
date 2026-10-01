@@ -1,6 +1,6 @@
 # Late Replies at Bibliotheque
 
-Late Replies at Bibliotheque on Sun 11 Oct, Toronto. 2 artists on the bill: Late Replies and Simon Jain. House. Preview the line-up and save it on soundcheck.
+Late Replies at Bibliotheque on Sun 11 Oct, Toronto. 2 artists: Late Replies and Simon Jain. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

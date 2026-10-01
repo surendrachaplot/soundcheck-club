@@ -1,6 +1,6 @@
 # Superfan + Special Guests at Quarry
 
-Superfan + Special Guests at Quarry on Sun 8 Nov, Liverpool. Pop and Noise. Preview the line-up and save it on soundcheck.
+Superfan + Special Guests at Quarry on Sun 8 Nov, Liverpool. Pop and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

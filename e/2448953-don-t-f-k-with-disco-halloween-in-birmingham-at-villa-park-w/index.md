@@ -1,6 +1,6 @@
 # Don't F**k with Disco, Halloween in Birmingham at Villa Park Warehouse
 
-Don't F**k with Disco, Halloween in Birmingham at Villa Park Warehouse on Sat 31 Oct, Birmingham. 1 artist on the bill: Don't F**k with Disco. House and Disco. Preview the line-up and save it on soundcheck.
+Don't F**k with Disco, Halloween in Birmingham at Villa Park Warehouse on Sat 31 Oct, Birmingham. 1 artist: Don't F**k with Disco. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

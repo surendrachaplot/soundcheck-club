@@ -1,6 +1,6 @@
 # HOOKED - Babelfish Launch Party at H15 Scene & Studio
 
-HOOKED - Babelfish Launch Party at H15 Scene & Studio on Sat 10 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+HOOKED - Babelfish Launch Party at H15 Scene & Studio on Sat 10 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

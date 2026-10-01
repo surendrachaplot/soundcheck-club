@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: Yentl, Daniel Alanis, Stezza at YuYu Cine Club
 
-Yu Yu Cine Club: Yentl, Daniel Alanis, Stezza at YuYu Cine Club on Sat 24 Oct, Mexico City. 2 artists on the bill: Daniel Alanís and Yentl.. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: Yentl, Daniel Alanis, Stezza at YuYu Cine Club on Sat 24 Oct, Mexico City. 2 artists: Daniel Alanís and Yentl.. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

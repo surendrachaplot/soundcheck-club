@@ -1,6 +1,6 @@
 # Mucho Flow 2026 at TBA - Various Venues, Guimarães, PT
 
-Mucho Flow 2026 at TBA - Various Venues, Guimarães, PT on Thu 29 Oct, Portugal. 6 artists on the bill: gyrofield, KAVARI, Lorenzo Senni and Microplastics and 2 more. Preview the line-up and save it on soundcheck.
+Mucho Flow 2026 at TBA - Various Venues, Guimarães, PT on Thu 29 Oct, Portugal. 6 artists: gyrofield, KAVARI, Lorenzo Senni and Microplastics and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

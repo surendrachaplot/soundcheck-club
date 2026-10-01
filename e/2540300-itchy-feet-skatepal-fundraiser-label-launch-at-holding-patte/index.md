@@ -1,6 +1,6 @@
 # Itchy Feet: Skatepal Fundraiser & Label Launch at Holding Patterns
 
-Itchy Feet: Skatepal Fundraiser & Label Launch at Holding Patterns on Sat 3 Oct, Leeds. House and Disco. Preview the line-up and save it on soundcheck.
+Itchy Feet: Skatepal Fundraiser & Label Launch at Holding Patterns on Sat 3 Oct, Leeds. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

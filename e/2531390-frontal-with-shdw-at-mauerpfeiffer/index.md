@@ -1,6 +1,6 @@
 # FRONTAL with SHDW at Mauerpfeiffer
 
-FRONTAL with SHDW at Mauerpfeiffer on Sat 10 Oct, Saarland. 3 artists on the bill: Louisa Pitz, SHDW and Tino Machauer. Preview the line-up and save it on soundcheck.
+FRONTAL with SHDW at Mauerpfeiffer on Sat 10 Oct, Saarland. 3 artists: Louisa Pitz, SHDW and Tino Machauer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Official Karan Aujla Concert After Party - Studio 338 at Studio 338
 
-The Official Karan Aujla Concert After Party - Studio 338 on Sun 4 Oct, London. Preview the line-up and save it on soundcheck.
+The Official Karan Aujla Concert After Party - Studio 338 on Sun 4 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

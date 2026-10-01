@@ -1,6 +1,6 @@
 # Maceo Plex, Native Beach Club, Cardales Buenos Aires at TBA - Native Beach Club, Cardales
 
-Maceo Plex, Native Beach Club, Cardales Buenos Aires at TBA - Native Beach Club, Cardales on Fri 16 Oct, Buenos Aires. 2 artists on the bill: Maceo Plex and Waltervelt. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Maceo Plex, Native Beach Club, Cardales Buenos Aires at TBA - Native Beach Club, Cardales on Fri 16 Oct, Buenos Aires. 2 artists: Maceo Plex and Waltervelt. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Colours House Party Presents Sasha at SWG3
 
-Colours House Party Presents Sasha at SWG3 on Fri 27 Nov, Glasgow. 2 artists on the bill: Lloyd Barwood and Sasha. Progressive House. Preview the line-up and save it on soundcheck.
+Colours House Party Presents Sasha at SWG3 on Fri 27 Nov, Glasgow. 2 artists: Lloyd Barwood and Sasha. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

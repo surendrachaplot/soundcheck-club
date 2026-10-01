@@ -1,6 +1,6 @@
 # Funk Tribu at The Concourse Project
 
-Funk Tribu at The Concourse Project on Thu 15 Oct, Austin. 1 artist on the bill: Funk Tribu. Preview the line-up and save it on soundcheck.
+Funk Tribu at The Concourse Project on Thu 15 Oct, Austin. 1 artist: Funk Tribu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

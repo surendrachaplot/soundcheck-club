@@ -1,8 +1,8 @@
 # T A K A
 
-T A K A is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at ZUBAR, Tokyo on Wed, 21 Oct 2026.
+T A K A is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZUBAR, Tokyo on Wed, 21 Oct 2026.
 
-T A K A is a house and techno artist based in Poland, tracked on soundcheck, with 9 sets logged across New York City and Tokyo. Often billed alongside A Space for Sound, Daisuke Pak and Do Shock Booze. Next up: ZUBAR, Tokyo on Wed 21 Oct.
+T A K A is a house and techno artist based in Poland, with 9 gigs on soundcheck across New York City and Tokyo. Often billed alongside A Space for Sound, Daisuke Pak and Do Shock Booze. Next up: ZUBAR, Tokyo on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ T A K A is a house and techno artist based in Poland, tracked on soundcheck, wit
 
 ## Recently played
 
-- SHeLTeR, Tokyo — Tue, 28 Apr 2026
-- Débris, Tokyo — Thu, 12 Mar 2026
-- Débris, Tokyo — Thu, 20 Nov 2025
-- Débris, Tokyo — Thu, 2 Oct 2025
-- Débris, Tokyo — Thu, 22 May 2025
-- clubasia, Tokyo — Tue, 25 Jun 2024
-- public records, New York City — Fri, 23 Feb 2024
-- Bonobo, Tokyo — Sat, 8 Jul 2023
+- SHeLTeR, Tokyo · Tue, 28 Apr 2026
+- Débris, Tokyo · Thu, 12 Mar 2026
+- Débris, Tokyo · Thu, 20 Nov 2025
+- Débris, Tokyo · Thu, 2 Oct 2025
+- Débris, Tokyo · Thu, 22 May 2025
+- clubasia, Tokyo · Tue, 25 Jun 2024
+- public records, New York City · Fri, 23 Feb 2024
+- Bonobo, Tokyo · Sat, 8 Jul 2023
 
 ## Shares bills with
 

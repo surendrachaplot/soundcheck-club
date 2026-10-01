@@ -1,8 +1,8 @@
 # Ammo Avenue
 
-Ammo Avenue is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Timber Loft, London on Fri, 23 Oct 2026.
+Ammo Avenue is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Timber Loft, London on Fri, 23 Oct 2026.
 
-Ammo Avenue is a tech house and house artist based in Peru, tracked on soundcheck, with 19 sets logged across Barcelona, Ibiza, London and Malaga and 6 more. Often billed alongside Hector Couto, Pirate Copy and East End Dubs. Next up: The Timber Loft, London on Fri 23 Oct.
+Ammo Avenue is a tech house and house artist based in Peru, with 19 gigs on soundcheck across Barcelona, Ibiza, London and Malaga and 6 more. Often billed alongside Hector Couto, Pirate Copy and East End Dubs. Next up: The Timber Loft, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ammo Avenue is a tech house and house artist based in Peru, tracked on soundchec
 
 ## Recently played
 
-- DRUMSHEDS, London — Sat, 19 Sept 2026
-- Knockdown Center, New York City — Fri, 14 Aug 2026
-- Floyd, Miami — Fri, 14 Aug 2026
-- Hï Ibiza, Ibiza — Tue, 11 Aug 2026
-- Flac, Seoul — Sat, 18 Jul 2026
-- Malaga Forum, Malaga — Sun, 28 Jun 2026
-- Bikini Club, Barcelona — Fri, 19 Jun 2026
-- Infinity Room Inside Future, Toronto — Sat, 6 Jun 2026
+- DRUMSHEDS, London · Sat, 19 Sept 2026
+- Knockdown Center, New York City · Fri, 14 Aug 2026
+- Floyd, Miami · Fri, 14 Aug 2026
+- Hï Ibiza, Ibiza · Tue, 11 Aug 2026
+- Flac, Seoul · Sat, 18 Jul 2026
+- Malaga Forum, Malaga · Sun, 28 Jun 2026
+- Bikini Club, Barcelona · Fri, 19 Jun 2026
+- Infinity Room Inside Future, Toronto · Sat, 6 Jun 2026
 
 ## Shares bills with
 

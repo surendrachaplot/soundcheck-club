@@ -1,8 +1,8 @@
 # Ranjit Nijjer
 
-Ranjit Nijjer is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sooki Lounge, Melbourne on Sat, 10 Oct 2026.
+Ranjit Nijjer is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sooki Lounge, Melbourne on Sat, 10 Oct 2026.
 
-Ranjit Nijjer is a techno and house artist based in Australia, tracked on soundcheck, with 14 sets logged across Melbourne. Often billed alongside Simon Slieker, Andrew Till and ALIEN-A. Next up: Sooki Lounge, Melbourne on Sat 10 Oct.
+Ranjit Nijjer is a techno and house artist based in Australia, with 14 gigs on soundcheck across Melbourne. Often billed alongside Simon Slieker, Andrew Till and ALIEN-A. Next up: Sooki Lounge, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Ranjit Nijjer is a techno and house artist based in Australia, tracked on soundc
 
 ## Recently played
 
-- Collingwood Basement, Melbourne — Sat, 12 Sept 2026
-- Howler, Melbourne — Sun, 7 Jun 2026
-- New Guernica, Melbourne — Thu, 25 Dec 2025
-- New Guernica, Melbourne — Wed, 25 Dec 2024
-- My Aeon, Melbourne — Sat, 24 Aug 2024
-- Howler, Melbourne — Sat, 13 Jul 2024
-- Sub Club Melbourne, Melbourne — Mon, 25 Dec 2023
-- My Aeon, Melbourne — Sat, 7 Oct 2023
+- Collingwood Basement, Melbourne · Sat, 12 Sept 2026
+- Howler, Melbourne · Sun, 7 Jun 2026
+- New Guernica, Melbourne · Thu, 25 Dec 2025
+- New Guernica, Melbourne · Wed, 25 Dec 2024
+- My Aeon, Melbourne · Sat, 24 Aug 2024
+- Howler, Melbourne · Sat, 13 Jul 2024
+- Sub Club Melbourne, Melbourne · Mon, 25 Dec 2023
+- My Aeon, Melbourne · Sat, 7 Oct 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # RITMO3000 at DNA. CLUB
 
-RITMO3000 at DNA. CLUB on Sat 24 Oct, Berlin. Electro and Italo Disco. Preview the line-up and save it on soundcheck.
+RITMO3000 at DNA. CLUB on Sat 24 Oct, Berlin. Electro and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

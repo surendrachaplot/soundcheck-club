@@ -1,6 +1,6 @@
 # IN DA ISLAND: CAMILO CUBILLAS · ALBY · MAURO TORRETTA · MARIO BANTÚ at The Club (Málaga)
 
-IN DA ISLAND: CAMILO CUBILLAS · ALBY · MAURO TORRETTA · MARIO BANTÚ at The Club (Málaga) on Fri 9 Oct, Malaga. House and Electronica. Preview the line-up and save it on soundcheck.
+IN DA ISLAND: CAMILO CUBILLAS · ALBY · MAURO TORRETTA · MARIO BANTÚ at The Club (Málaga) on Fri 9 Oct, Malaga. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

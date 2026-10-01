@@ -1,8 +1,8 @@
 # Day Cart
 
-Day Cart is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Jupiter Disco, New York City on Thu, 8 Oct 2026.
+Day Cart is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jupiter Disco, New York City on Thu, 8 Oct 2026.
 
-Day Cart is a techno and house artist based in United States of America, tracked on soundcheck, with 40 sets logged across New York City. Often billed alongside Wig-Wam, Devoye and IMOGEN. Next up: Jupiter Disco, New York City on Thu 8 Oct.
+Day Cart is a techno and house artist based in United States of America, with 40 gigs on soundcheck across New York City. Often billed alongside Wig-Wam, Devoye and IMOGEN. Next up: Jupiter Disco, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Day Cart is a techno and house artist based in United States of America, tracked
 
 ## Recently played
 
-- Good Room, New York City — Thu, 10 Sept 2026
-- Good Room, New York City — Fri, 29 May 2026
-- Jupiter Disco, New York City — Fri, 3 Apr 2026
-- Good Room, New York City — Fri, 6 Feb 2026
-- Good Room, New York City — Sat, 6 Dec 2025
-- Good Room, New York City — Fri, 24 Oct 2025
-- Jupiter Disco, New York City — Fri, 26 Sept 2025
-- Jupiter Disco, New York City — Fri, 29 Aug 2025
+- Good Room, New York City · Thu, 10 Sept 2026
+- Good Room, New York City · Fri, 29 May 2026
+- Jupiter Disco, New York City · Fri, 3 Apr 2026
+- Good Room, New York City · Fri, 6 Feb 2026
+- Good Room, New York City · Sat, 6 Dec 2025
+- Good Room, New York City · Fri, 24 Oct 2025
+- Jupiter Disco, New York City · Fri, 26 Sept 2025
+- Jupiter Disco, New York City · Fri, 29 Aug 2025
 
 ## Shares bills with
 

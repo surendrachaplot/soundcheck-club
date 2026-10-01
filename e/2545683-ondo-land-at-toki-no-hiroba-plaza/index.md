@@ -1,6 +1,6 @@
 # ONDO LAND at Toki No Hiroba Plaza
 
-ONDO LAND at Toki No Hiroba Plaza on Mon 12 Oct, Osaka. 4 artists on the bill: Daito Manabe, Foodman, Kuniyuki and machìna. Techno and Experimental. Preview the line-up and save it on soundcheck.
+ONDO LAND at Toki No Hiroba Plaza on Mon 12 Oct, Osaka. 4 artists: Daito Manabe, Foodman, Kuniyuki and machìna. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

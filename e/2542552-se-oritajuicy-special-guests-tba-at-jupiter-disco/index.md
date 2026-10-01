@@ -1,6 +1,6 @@
 # señoritajuicy + Special Guests TBA at Jupiter Disco
 
-señoritajuicy + Special Guests TBA at Jupiter Disco on Sun 25 Oct, New York City. Preview the line-up and save it on soundcheck.
+señoritajuicy + Special Guests TBA at Jupiter Disco on Sun 25 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

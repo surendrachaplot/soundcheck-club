@@ -1,6 +1,6 @@
 # PEAK HILL RECORDS: 'TRANSMITTING FROM THE CITY' Double Release Party at Planet Wax
 
-PEAK HILL RECORDS: 'TRANSMITTING FROM THE CITY' Double Release Party at Planet Wax on Fri 13 Nov, London. House and Garage. Preview the line-up and save it on soundcheck.
+PEAK HILL RECORDS: 'TRANSMITTING FROM THE CITY' Double Release Party at Planet Wax on Fri 13 Nov, London. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

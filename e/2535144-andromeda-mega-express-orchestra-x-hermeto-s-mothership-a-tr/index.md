@@ -1,6 +1,6 @@
 # Andromeda Mega Express Orchestra X Hermeto's Mothership (A Tribute To Hermeto Pascoal) at Haus Der Kulturen Der Welt
 
-Andromeda Mega Express Orchestra X Hermeto's Mothership (A Tribute To Hermeto Pascoal) at Haus Der Kulturen Der Welt on Wed 11 Nov, Berlin. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+Andromeda Mega Express Orchestra X Hermeto's Mothership (A Tribute To Hermeto Pascoal) at Haus Der Kulturen Der Welt on Wed 11 Nov, Berlin. Experimental and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

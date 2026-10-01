@@ -1,6 +1,6 @@
 # Vino Disco SATURDAY at Vino Disco
 
-Vino Disco SATURDAY on Sat 10 Oct, Montreal. 2 artists on the bill: Ultreme and VIBRAN. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Vino Disco SATURDAY on Sat 10 Oct, Montreal. 2 artists: Ultreme and VIBRAN. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

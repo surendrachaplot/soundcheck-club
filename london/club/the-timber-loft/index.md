@@ -1,8 +1,8 @@
 # The Timber Loft
 
-The Timber Loft is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Tufty Club's Spaced Out" on Sat, 3 Oct 2026.
+The Timber Loft is a music venue in London with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Tufty Club's Spaced Out" on Sat, 3 Oct 2026.
 
-The Timber Loft is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alexis Raphael, AMBRR, Ammo Avenue and Antss and 2 more. Browse upcoming dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
+The Timber Loft is a music venue in London listed on soundcheck. 16 upcoming gigs, with line-ups including Alexis Raphael, AMBRR, Ammo Avenue and Antss and 2 more. See dates, start times and who's playing. 233 Shoreditch High St, London E1 6PJ.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # House of Chic x GYM: ABV LDN at Beatfabriek
 
-House of Chic x GYM: ABV LDN at Beatfabriek on Fri 23 Oct, Amsterdam. 13 artists on the bill: Bear Winder, CHANNE, Dante Tom and GraceBones and 9 more. House and Garage. Preview the line-up and save it on soundcheck.
+House of Chic x GYM: ABV LDN at Beatfabriek on Fri 23 Oct, Amsterdam. 13 artists: Bear Winder, CHANNE, Dante Tom and GraceBones and 9 more. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

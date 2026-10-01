@@ -1,6 +1,6 @@
 # DAYTIME DISCO w/ GOK WAN / ELLIE SAX Live at Times Square, Newcastle
 
-DAYTIME DISCO w/ GOK WAN / ELLIE SAX Live at Times Square, Newcastle on Sat 31 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+DAYTIME DISCO w/ GOK WAN / ELLIE SAX Live at Times Square, Newcastle on Sat 31 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

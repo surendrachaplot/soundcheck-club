@@ -1,6 +1,6 @@
 # UKG Brunch 'Returns To KOKO' - ALL DAY RAVE at KOKO
 
-UKG Brunch 'Returns To KOKO' - ALL DAY RAVE on Sat 10 Oct, London. Garage and Club. Preview the line-up and save it on soundcheck.
+UKG Brunch 'Returns To KOKO' - ALL DAY RAVE on Sat 10 Oct, London. Garage and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

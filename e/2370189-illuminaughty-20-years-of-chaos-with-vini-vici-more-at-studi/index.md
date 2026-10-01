@@ -1,6 +1,6 @@
 # IllumiNaughty: 20 Years Of Chaos, with Vini Vici & More at Studio 338
 
-IllumiNaughty: 20 Years Of Chaos, with Vini Vici & More at Studio 338 on Sat 7 Nov, London. 5 artists on the bill: DELTA LABS, Kling, Miss Lightbeam and Multiverse and 1 more. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+IllumiNaughty: 20 Years Of Chaos, with Vini Vici & More at Studio 338 on Sat 7 Nov, London. 5 artists: DELTA LABS, Kling, Miss Lightbeam and Multiverse and 1 more. Trance and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

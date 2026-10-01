@@ -1,8 +1,8 @@
 # TBA - Tokyo Club, Costanera
 
-TBA - Tokyo Club, Costanera is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Mai Iachetti - Not Welcome, Tokyo Club - ALLMusicParties" on Sat, 3 Oct 2026.
+TBA - Tokyo Club, Costanera is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mai Iachetti - Not Welcome, Tokyo Club - ALLMusicParties" on Sat, 3 Oct 2026.
 
-TBA - Tokyo Club, Costanera is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including Mai iachetti. Browse upcoming dates, start times and who's playing.
+TBA - Tokyo Club, Costanera is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig, with line-ups including Mai iachetti. See dates, start times and who's playing.
 
 ## What's on
 

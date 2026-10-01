@@ -1,6 +1,6 @@
 # Do Not Sit On Halloween feat. Viken Arman at Do Not Sit On The Furniture
 
-Do Not Sit On Halloween feat. Viken Arman at Do Not Sit On The Furniture on Thu 29 Oct, Miami. 1 artist on the bill: Viken Arman. House and Deep House. Preview the line-up and save it on soundcheck.
+Do Not Sit On Halloween feat. Viken Arman at Do Not Sit On The Furniture on Thu 29 Oct, Miami. 1 artist: Viken Arman. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

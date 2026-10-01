@@ -1,6 +1,6 @@
 # Koenji Cave presents Gravity Vol.22 ft. 天元加速 at Koenji Cave
 
-Koenji Cave presents Gravity Vol.22 ft. 天元加速 on Sat 3 Oct, Tokyo. 1 artist on the bill: Nost. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Koenji Cave presents Gravity Vol.22 ft. 天元加速 on Sat 3 Oct, Tokyo. 1 artist: Nost. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

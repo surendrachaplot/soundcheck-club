@@ -1,8 +1,8 @@
 # KAZIA
 
-KAZIA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
+KAZIA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Starlane Pizza Bar, London on Sat, 10 Oct 2026.
 
-KAZIA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Ibiza, London and Manchester. Often billed alongside Geo DJ, Sho (UK) and KREED.. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
+KAZIA is a house and tech house artist based in United Kingdom, with 42 gigs on soundcheck across Ibiza, London and Manchester. Often billed alongside Geo DJ, Sho (UK) and KREED.. Next up: Starlane Pizza Bar, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ KAZIA is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- [LOADING BAY], London — Thu, 24 Sept 2026
-- Starlane Pizza Bar, London — Sat, 22 Aug 2026
-- Upper East, London — Sun, 16 Aug 2026
-- TBA - Shoreditch venue announced 3pm on event day, London — Thu, 13 Aug 2026
-- renae, Manchester — Fri, 7 Aug 2026
-- E1, London — Fri, 24 Jul 2026
-- HWK, London — Sat, 27 Jun 2026
-- Cova Santa, Ibiza — Tue, 2 Jun 2026
+- [LOADING BAY], London · Thu, 24 Sept 2026
+- Starlane Pizza Bar, London · Sat, 22 Aug 2026
+- Upper East, London · Sun, 16 Aug 2026
+- TBA - Shoreditch venue announced 3pm on event day, London · Thu, 13 Aug 2026
+- renae, Manchester · Fri, 7 Aug 2026
+- E1, London · Fri, 24 Jul 2026
+- HWK, London · Sat, 27 Jun 2026
+- Cova Santa, Ibiza · Tue, 2 Jun 2026
 
 ## Shares bills with
 

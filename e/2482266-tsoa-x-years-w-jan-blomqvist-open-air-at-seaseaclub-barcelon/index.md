@@ -1,6 +1,6 @@
 # TSOA: X Years w. Jan Blomqvist (Open Air) at Seaseaclub Barcelona
 
-TSOA: X Years w. Jan Blomqvist (Open Air) at Seaseaclub Barcelona on Sun 8 Nov, Barcelona. 3 artists on the bill: Agatha Pher, Brizas and Jan Blomqvist. Progressive House. Preview the line-up and save it on soundcheck.
+TSOA: X Years w. Jan Blomqvist (Open Air) at Seaseaclub Barcelona on Sun 8 Nov, Barcelona. 3 artists: Agatha Pher, Brizas and Jan Blomqvist. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

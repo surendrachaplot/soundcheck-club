@@ -1,6 +1,6 @@
 # KOKO Electronic: Oscar Mbo at KOKO
 
-KOKO Electronic: Oscar Mbo on Sat 3 Oct, London. 2 artists on the bill: Shamiso and Thakzin. Afro House. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Oscar Mbo on Sat 3 Oct, London. 2 artists: Shamiso and Thakzin. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

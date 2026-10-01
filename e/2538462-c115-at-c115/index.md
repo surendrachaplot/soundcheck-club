@@ -1,6 +1,6 @@
 # C115 at C115
 
-C115 on Sat 14 Nov, Berlin. Preview the line-up and save it on soundcheck.
+C115 on Sat 14 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

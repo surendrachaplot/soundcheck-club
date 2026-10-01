@@ -1,6 +1,6 @@
 # Utopia presents Dialed Records: Jay Tripwire, B.Love at Utopia
 
-Utopia presents Dialed Records: Jay Tripwire, B.Love on Fri 2 Oct, Los Angeles. 2 artists on the bill: B.Love and Jay Tripwire. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Utopia presents Dialed Records: Jay Tripwire, B.Love on Fri 2 Oct, Los Angeles. 2 artists: B.Love and Jay Tripwire. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

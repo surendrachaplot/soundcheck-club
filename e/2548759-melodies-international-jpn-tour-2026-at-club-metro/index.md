@@ -1,6 +1,6 @@
 # Melodies International JPN Tour 2026 at Club Metro
 
-Melodies International JPN Tour 2026 at Club Metro on Sun 8 Nov, Kyoto. 3 artists on the bill: Theo Terev, Viet and Yukari BB. House and Disco. Preview the line-up and save it on soundcheck.
+Melodies International JPN Tour 2026 at Club Metro on Sun 8 Nov, Kyoto. 3 artists: Theo Terev, Viet and Yukari BB. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # QUERCIA at Grandangolo
 
-QUERCIA at Grandangolo on Sat 3 Oct, Rome. 2 artists on the bill: Ale Bi and Marzano. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+QUERCIA at Grandangolo on Sat 3 Oct, Rome. 2 artists: Ale Bi and Marzano. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

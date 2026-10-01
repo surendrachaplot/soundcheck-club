@@ -1,6 +1,6 @@
 # CHOCOLATE CITY 2ND ANNIVERSARY WITH 2WOBUNNIES at Sutton Barcelona
 
-CHOCOLATE CITY 2ND ANNIVERSARY WITH 2WOBUNNIES at Sutton Barcelona on Sun 11 Oct, Barcelona. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
+CHOCOLATE CITY 2ND ANNIVERSARY WITH 2WOBUNNIES at Sutton Barcelona on Sun 11 Oct, Barcelona. Amapiano and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

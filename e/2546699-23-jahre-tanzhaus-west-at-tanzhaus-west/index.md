@@ -1,6 +1,6 @@
 # 23 JAHRE Tanzhaus West at Tanzhaus West
 
-23 JAHRE Tanzhaus West on Sat 28 Nov, Frankfurt. 9 artists on the bill: assena, Concussion, DJ 069 and Fabe and 5 more. Preview the line-up and save it on soundcheck.
+23 JAHRE Tanzhaus West on Sat 28 Nov, Frankfurt. 9 artists: assena, Concussion, DJ 069 and Fabe and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

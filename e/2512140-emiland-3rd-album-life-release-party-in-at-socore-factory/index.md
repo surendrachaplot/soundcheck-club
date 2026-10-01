@@ -1,6 +1,6 @@
 # [ EMILAND 3rd Album 「LIFE」Release Party in大阪 at Socore Factory
 
-[ EMILAND 3rd Album 「LIFE」Release Party in大阪 at Socore Factory on Sat 17 Oct, Osaka. Funk / Soul. Preview the line-up and save it on soundcheck.
+[ EMILAND 3rd Album 「LIFE」Release Party in大阪 at Socore Factory on Sat 17 Oct, Osaka. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

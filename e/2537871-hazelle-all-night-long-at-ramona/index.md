@@ -1,6 +1,6 @@
 # hazelle All Night Long at Ramona
 
-hazelle All Night Long at Ramona on Fri 2 Oct, Manchester. House and Garage. Preview the line-up and save it on soundcheck.
+hazelle All Night Long at Ramona on Fri 2 Oct, Manchester. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

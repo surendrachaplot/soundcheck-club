@@ -1,6 +1,6 @@
 # Trance Sanctuary presents Kearnage X at Troxy
 
-Trance Sanctuary presents Kearnage X at Troxy on Sat 7 Nov, London. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Trance Sanctuary presents Kearnage X at Troxy on Sat 7 Nov, London. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Simone Zino
 
-Simone Zino is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Culture Box, Copenhagen on Fri, 20 Nov 2026.
+Simone Zino is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Culture Box, Copenhagen on Fri, 20 Nov 2026.
 
-Simone Zino is a techno and tech house artist based in Italy, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside R.Korner, Joseph Capriati and Mik&Ale. Next up: Culture Box, Copenhagen on Fri 20 Nov.
+Simone Zino is a techno and tech house artist based in Italy, with 25 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 4 more. Often billed alongside R.Korner, Joseph Capriati and Mik&Ale. Next up: Culture Box, Copenhagen on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Simone Zino is a techno and tech house artist based in Italy, tracked on soundch
 
 ## Recently played
 
-- MAD Milano, Milan — Sat, 26 Sept 2026
-- fabric, London — Sat, 19 Sept 2026
-- Hï Ibiza, Ibiza — Sun, 6 Sept 2026
-- UNDERCITY, Seoul — Sat, 15 Aug 2026
-- Amnesia Ibiza, Ibiza — Tue, 7 Jul 2026
-- Super Club, Milan — Sat, 28 Mar 2026
-- Gate Milano, Milan — Sat, 14 Feb 2026
-- Tunnel, Milan — Sat, 17 Jan 2026
+- MAD Milano, Milan · Sat, 26 Sept 2026
+- fabric, London · Sat, 19 Sept 2026
+- Hï Ibiza, Ibiza · Sun, 6 Sept 2026
+- UNDERCITY, Seoul · Sat, 15 Aug 2026
+- Amnesia Ibiza, Ibiza · Tue, 7 Jul 2026
+- Super Club, Milan · Sat, 28 Mar 2026
+- Gate Milano, Milan · Sat, 14 Feb 2026
+- Tunnel, Milan · Sat, 17 Jan 2026
 
 ## Shares bills with
 

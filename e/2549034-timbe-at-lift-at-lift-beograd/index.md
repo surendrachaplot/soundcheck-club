@@ -1,6 +1,6 @@
 # Timbe at LIFT at Lift Beograd
 
-Timbe at LIFT at Lift Beograd on Sat 10 Oct, Belgrade. Hip-Hop. Preview the line-up and save it on soundcheck.
+Timbe at LIFT at Lift Beograd on Sat 10 Oct, Belgrade. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

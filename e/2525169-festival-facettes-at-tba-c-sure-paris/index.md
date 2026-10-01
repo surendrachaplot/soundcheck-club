@@ -1,6 +1,6 @@
 # Festival Facettes at TBA - Césure Paris
 
-Festival Facettes at TBA - Césure Paris on Sat 17 Oct, Paris. 1 artist on the bill: Vice Experience. Techno and House. Preview the line-up and save it on soundcheck.
+Festival Facettes at TBA - Césure Paris on Sat 17 Oct, Paris. 1 artist: Vice Experience. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

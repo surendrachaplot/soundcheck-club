@@ -1,6 +1,6 @@
 # evilspa 10 at Forestlimit
 
-evilspa 10 at Forestlimit on Fri 23 Oct, Tokyo. 10 artists on the bill: dj cookie boy, egomania, Glico and Hënkį and 6 more. Bass. Preview the line-up and save it on soundcheck.
+evilspa 10 at Forestlimit on Fri 23 Oct, Tokyo. 10 artists: dj cookie boy, egomania, Glico and Hënkį and 6 more. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

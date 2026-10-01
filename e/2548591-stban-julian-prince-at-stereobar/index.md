@@ -1,6 +1,6 @@
 # Stban - Julian Prince at StereoBar
 
-Stban - Julian Prince at StereoBar on Fri 9 Oct, Montreal. 1 artist on the bill: Julian Prince. Preview the line-up and save it on soundcheck.
+Stban - Julian Prince at StereoBar on Fri 9 Oct, Montreal. 1 artist: Julian Prince. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

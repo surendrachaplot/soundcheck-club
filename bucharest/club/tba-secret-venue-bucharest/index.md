@@ -1,8 +1,8 @@
 # TBA - Secret Venue, Bucharest
 
-TBA - Secret Venue, Bucharest is a music venue in Bucharest with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Supersanity invites Colin Benders (live modular)" on Sat, 17 Oct 2026.
+TBA - Secret Venue, Bucharest is a music venue in Bucharest with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Supersanity invites Colin Benders (live modular)" on Sat, 17 Oct 2026.
 
-TBA - Secret Venue, Bucharest is a music venue in Bucharest listed on soundcheck. 1 upcoming gig, with line-ups including Ada Kaleh and Colin Benders. Browse upcoming dates, start times and who's playing.
+TBA - Secret Venue, Bucharest is a music venue in Bucharest listed on soundcheck. 1 upcoming gig, with line-ups including Ada Kaleh and Colin Benders. See dates, start times and who's playing.
 
 ## What's on
 

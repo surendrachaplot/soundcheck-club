@@ -1,6 +1,6 @@
 # INPUT pres OGAZON at INPUT High Fidelity Dance Club
 
-INPUT pres OGAZON at INPUT High Fidelity Dance Club on Fri 16 Oct, Barcelona. 2 artists on the bill: Francesco Carvetta and Ogazón. Techno and House. Preview the line-up and save it on soundcheck.
+INPUT pres OGAZON at INPUT High Fidelity Dance Club on Fri 16 Oct, Barcelona. 2 artists: Francesco Carvetta and Ogazón. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

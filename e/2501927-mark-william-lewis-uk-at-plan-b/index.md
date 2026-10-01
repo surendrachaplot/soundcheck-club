@@ -1,6 +1,6 @@
 # Mark William Lewis (UK) at Plan B
 
-Mark William Lewis (UK) at Plan B on Wed 21 Oct, Malmo. 1 artist on the bill: Mark William Lewis. Preview the line-up and save it on soundcheck.
+Mark William Lewis (UK) at Plan B on Wed 21 Oct, Malmo. 1 artist: Mark William Lewis. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DEAR MONDAY, vol.306 at rake?raka?
 
-DEAR MONDAY, vol.306 at rake?raka? on Mon 5 Oct, Osaka. 3 artists on the bill: fýsia, HSC and Taigen Kawabe. Techno and Experimental. Preview the line-up and save it on soundcheck.
+DEAR MONDAY, vol.306 at rake?raka? on Mon 5 Oct, Osaka. 3 artists: fýsia, HSC and Taigen Kawabe. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

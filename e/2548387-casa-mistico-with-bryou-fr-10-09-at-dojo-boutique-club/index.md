@@ -1,6 +1,6 @@
 # CASA MISTICO with BRYOU (FR) - 10.09 at Dojo Boutique Club
 
-CASA MISTICO with BRYOU (FR) - 10.09 at Dojo Boutique Club on Fri 9 Oct, Budapest. House. Preview the line-up and save it on soundcheck.
+CASA MISTICO with BRYOU (FR) - 10.09 at Dojo Boutique Club on Fri 9 Oct, Budapest. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

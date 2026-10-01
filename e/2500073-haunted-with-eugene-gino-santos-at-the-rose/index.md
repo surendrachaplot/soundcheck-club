@@ -1,6 +1,6 @@
 # HauntED with Eugene 'Gino' Santos at The Rose
 
-HauntED with Eugene 'Gino' Santos at The Rose on Mon 26 Oct, New York City. 1 artist on the bill: Gino Santos. Techno and House. Preview the line-up and save it on soundcheck.
+HauntED with Eugene 'Gino' Santos at The Rose on Mon 26 Oct, New York City. 1 artist: Gino Santos. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

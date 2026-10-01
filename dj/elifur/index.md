@@ -1,8 +1,8 @@
 # Eli & Fur
 
-Eli & Fur is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bauhaus, Houston on Fri, 2 Oct 2026.
+Eli & Fur is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bauhaus, Houston on Fri, 2 Oct 2026.
 
-Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundcheck, with 115 sets logged across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: Bauhaus, Houston on Fri 2 Oct.
+Eli & Fur are a house and techno duo based in United Kingdom, with 115 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 32 more. Often billed alongside Jody Wisternoff, CRi and Marsh. Next up: Bauhaus, Houston on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Eli & Fur are a house and techno duo based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- ZeyZey, Miami — Sat, 19 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- TBA, Los Angeles — Sat, 22 Aug 2026
-- Old Royal Naval College, London — Sun, 9 Aug 2026
-- Ritter Butzke, Berlin — Sat, 8 Aug 2026
-- Life Park, Istanbul — Sat, 1 Aug 2026
-- The Barbary, Philadelphia — Sat, 25 Jul 2026
-- Hï Ibiza, Ibiza — Wed, 1 Jul 2026
+- ZeyZey, Miami · Sat, 19 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- TBA, Los Angeles · Sat, 22 Aug 2026
+- Old Royal Naval College, London · Sun, 9 Aug 2026
+- Ritter Butzke, Berlin · Sat, 8 Aug 2026
+- Life Park, Istanbul · Sat, 1 Aug 2026
+- The Barbary, Philadelphia · Sat, 25 Jul 2026
+- Hï Ibiza, Ibiza · Wed, 1 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Junction 1 at West Port Oracle
 
-Junction 1 at West Port Oracle on Sat 17 Oct, Edinburgh. Preview the line-up and save it on soundcheck.
+Junction 1 at West Port Oracle on Sat 17 Oct, Edinburgh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

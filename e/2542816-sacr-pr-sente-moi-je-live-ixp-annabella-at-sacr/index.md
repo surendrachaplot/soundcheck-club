@@ -1,6 +1,6 @@
 # Sacré présente: Moi Je Live + Ixpé + Annabella at Sacré
 
-Sacré présente: Moi Je Live + Ixpé + Annabella on Sat 17 Oct, Paris. House. Preview the line-up and save it on soundcheck.
+Sacré présente: Moi Je Live + Ixpé + Annabella on Sat 17 Oct, Paris. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

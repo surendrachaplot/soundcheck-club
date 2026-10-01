@@ -1,6 +1,6 @@
 # Interplanetary Criminal, bullet tooth, Cobrastrk at BERHTA
 
-Interplanetary Criminal, bullet tooth, Cobrastrk at BERHTA on Sat 7 Nov, Washington DC. 3 artists on the bill: bullet tooth, Cobrastrk and Interplanetary Criminal. House and Garage. Preview the line-up and save it on soundcheck.
+Interplanetary Criminal, bullet tooth, Cobrastrk at BERHTA on Sat 7 Nov, Washington DC. 3 artists: bullet tooth, Cobrastrk and Interplanetary Criminal. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

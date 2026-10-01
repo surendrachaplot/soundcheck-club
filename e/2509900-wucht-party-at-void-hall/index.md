@@ -1,6 +1,6 @@
 # WUCHT Party at Void Hall
 
-WUCHT Party at Void Hall on Fri 2 Oct, Berlin. 3 artists on the bill: Esterne Moog, fr. JPLA and Koromoto. Techno. Preview the line-up and save it on soundcheck.
+WUCHT Party at Void Hall on Fri 2 Oct, Berlin. 3 artists: Esterne Moog, fr. JPLA and Koromoto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Drivin': Navider at Slow Club
 
-Drivin': Navider at Slow Club on Sat 10 Oct, Barcelona. 1 artist on the bill: Navider. Techno and House. Preview the line-up and save it on soundcheck.
+Drivin': Navider at Slow Club on Sat 10 Oct, Barcelona. 1 artist: Navider. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

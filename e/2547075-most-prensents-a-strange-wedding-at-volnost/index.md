@@ -1,6 +1,6 @@
 # MOST prensents 'A Strange Wedding' at Volnost
 
-MOST prensents 'A Strange Wedding' at Volnost on Fri 2 Oct, Seoul. 3 artists on the bill: A Strange Wedding, Haeterna and mizae lim. Techno. Preview the line-up and save it on soundcheck.
+MOST prensents 'A Strange Wedding' at Volnost on Fri 2 Oct, Seoul. 3 artists: A Strange Wedding, Haeterna and mizae lim. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

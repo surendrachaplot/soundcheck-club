@@ -1,6 +1,6 @@
 # freaky friday with T.I.T.S. & MESSY at Système
 
-freaky friday with T.I.T.S. & MESSY at Système on Fri 30 Oct, Montreal. 3 artists on the bill: Corinita, Meen Moreen and venus in bed. Preview the line-up and save it on soundcheck.
+freaky friday with T.I.T.S. & MESSY at Système on Fri 30 Oct, Montreal. 3 artists: Corinita, Meen Moreen and venus in bed. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

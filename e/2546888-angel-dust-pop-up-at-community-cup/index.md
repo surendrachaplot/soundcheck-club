@@ -1,6 +1,6 @@
 # Angel Dust POP-UP at Community Cup
 
-Angel Dust POP-UP at Community Cup on Fri 9 Oct, Warsaw. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Angel Dust POP-UP at Community Cup on Fri 9 Oct, Warsaw. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

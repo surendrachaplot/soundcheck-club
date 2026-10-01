@@ -1,6 +1,6 @@
 # Torture the Artist pres. eDEMi with Swin (Magic Carpet, Canny Records / UK) at Haus73
 
-Torture the Artist pres. eDEMi with Swin (Magic Carpet, Canny Records / UK) at Haus73 on Sat 3 Oct, Hamburg. 2 artists on the bill: G-Lamour and Swin. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Torture the Artist pres. eDEMi with Swin (Magic Carpet, Canny Records / UK) at Haus73 on Sat 3 Oct, Hamburg. 2 artists: G-Lamour and Swin. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

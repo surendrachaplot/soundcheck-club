@@ -1,6 +1,6 @@
 # Jimpong SHIFT Event at TBA
 
-Jimpong SHIFT Event at TBA on Fri 20 Aug, London. 1 artist on the bill: Jimpong. Preview the line-up and save it on soundcheck.
+Jimpong SHIFT Event at TBA on Fri 20 Aug, London. 1 artist: Jimpong. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

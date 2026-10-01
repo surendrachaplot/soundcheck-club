@@ -1,8 +1,8 @@
 # Boy Harsher
 
-Boy Harsher is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Danforth Music Hall, Toronto on Wed, 30 Sept 2026.
+Boy Harsher is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Danforth Music Hall, Toronto on Wed, 30 Sept 2026.
 
-Boy Harsher is a techno and industrial artist based in United States of America, tracked on soundcheck, with 33 sets logged across Auckland, Austin, Brisbane and Chicago and 15 more. Often billed alongside Augustus Muller, Andi and Conducta. Next up: Danforth Music Hall, Toronto on Wed 30 Sept.
+Boy Harsher is a techno and industrial artist based in United States of America, with 33 gigs on soundcheck across Auckland, Austin, Brisbane and Chicago and 15 more. Often billed alongside Augustus Muller, Andi and Conducta. Next up: Danforth Music Hall, Toronto on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Boy Harsher is a techno and industrial artist based in United States of America,
 
 ## Recently played
 
-- Danforth Music Hall, Toronto — Wed, 30 Sept 2026
-- MTELUS, Montreal — Tue, 29 Sept 2026
-- Paragon, New York City — Sat, 25 Jul 2026
-- 1015 Folsom, San Francisco/Oakland — Fri, 26 Jun 2026
-- Paragon, New York City — Wed, 31 Dec 2025
-- Mana Wynwood, Miami — Fri, 17 Oct 2025
-- Fort Mifflin, Philadelphia — Fri, 19 Sept 2025
-- Paragon, New York City — Fri, 8 Aug 2025
+- Danforth Music Hall, Toronto · Wed, 30 Sept 2026
+- MTELUS, Montreal · Tue, 29 Sept 2026
+- Paragon, New York City · Sat, 25 Jul 2026
+- 1015 Folsom, San Francisco/Oakland · Fri, 26 Jun 2026
+- Paragon, New York City · Wed, 31 Dec 2025
+- Mana Wynwood, Miami · Fri, 17 Oct 2025
+- Fort Mifflin, Philadelphia · Fri, 19 Sept 2025
+- Paragon, New York City · Fri, 8 Aug 2025
 
 ## Shares bills with
 

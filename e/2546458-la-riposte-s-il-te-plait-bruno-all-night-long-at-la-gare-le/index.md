@@ -1,6 +1,6 @@
 # LA RIPOSTE: S'il Te Plait Bruno ALL NIGHT LONG at La Gare / Le Gore
 
-LA RIPOSTE: S'il Te Plait Bruno ALL NIGHT LONG at La Gare / Le Gore on Sat 10 Oct, Paris. 1 artist on the bill: S'il Te Plait Bruno. Techno. Preview the line-up and save it on soundcheck.
+LA RIPOSTE: S'il Te Plait Bruno ALL NIGHT LONG at La Gare / Le Gore on Sat 10 Oct, Paris. 1 artist: S'il Te Plait Bruno. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

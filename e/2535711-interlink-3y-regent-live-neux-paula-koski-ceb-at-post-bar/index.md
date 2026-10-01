@@ -1,6 +1,6 @@
 # INTERLINK 3Y: Regent (live), NEUX, Paula Koski, CEB at Post Bar
 
-INTERLINK 3Y: Regent (live), NEUX, Paula Koski, CEB at Post Bar on Fri 2 Oct, Helsinki. 4 artists on the bill: CEB (FI), NEUX, Paula Koski and Regent. Techno. Preview the line-up and save it on soundcheck.
+INTERLINK 3Y: Regent (live), NEUX, Paula Koski, CEB at Post Bar on Fri 2 Oct, Helsinki. 4 artists: CEB (FI), NEUX, Paula Koski and Regent. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Origins: Christian AB [All Night Long] at Night Tales
 
-Origins: Christian AB [All Night Long] at Night Tales on Fri 5 Feb, London. 1 artist on the bill: Christian AB. Preview the line-up and save it on soundcheck.
+Origins: Christian AB [All Night Long] at Night Tales on Fri 5 Feb, London. 1 artist: Christian AB. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

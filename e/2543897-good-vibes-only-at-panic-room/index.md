@@ -1,6 +1,6 @@
 # GOOD VIBES ONLY at Panic Room
 
-GOOD VIBES ONLY at Panic Room on Thu 15 Oct, Paris. Techno and House. Preview the line-up and save it on soundcheck.
+GOOD VIBES ONLY at Panic Room on Thu 15 Oct, Paris. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

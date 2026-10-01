@@ -1,6 +1,6 @@
 # Gratitude at SHeLTeR
 
-Gratitude at SHeLTeR on Thu 1 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+Gratitude at SHeLTeR on Thu 1 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

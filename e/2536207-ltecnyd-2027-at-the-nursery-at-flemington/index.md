@@ -1,6 +1,6 @@
 # LTECNYD 2027 at The Nursery At Flemington
 
-LTECNYD 2027 at The Nursery At Flemington on Fri 1 Jan, Melbourne. 20 artists on the bill: Anetha, Boys Noize, C.FRIM and Chaos In The CBD and 16 more. Preview the line-up and save it on soundcheck.
+LTECNYD 2027 at The Nursery At Flemington on Fri 1 Jan, Melbourne. 20 artists: Anetha, Boys Noize, C.FRIM and Chaos In The CBD and 16 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

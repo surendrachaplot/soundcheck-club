@@ -1,8 +1,8 @@
 # Arroz Estúdios
 
-Arroz Estúdios is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dubwise Matiné #57" on Sun, 11 Oct 2026.
+Arroz Estúdios is a music venue in Lisbon with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dubwise Matiné #57" on Sun, 11 Oct 2026.
 
-Arroz Estúdios is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
+Arroz Estúdios is a music venue in Lisbon listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 

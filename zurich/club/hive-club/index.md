@@ -1,8 +1,8 @@
 # Hive Club
 
-Hive Club is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "HANAA II Carla Schmitt" on Fri, 2 Oct 2026.
+Hive Club is a music venue in Zurich with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HANAA II Carla Schmitt" on Fri, 2 Oct 2026.
 
-Hive Club is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including 1luu, ACID FLORA, Alex Belluscio and Animal Trainer and 2 more. Browse upcoming dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
+Hive Club is a music venue in Zurich listed on soundcheck. 11 upcoming gigs, with line-ups including 1luu, ACID FLORA, Alex Belluscio and Animal Trainer and 2 more. See dates, start times and who's playing. Geroldstrasse 5; 8005, Zurich; Switzerland.
 
 ## What's on
 

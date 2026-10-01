@@ -1,8 +1,8 @@
 # Demarkus Lewis
 
-Demarkus Lewis is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at How Much Studios, Austin on Sat, 24 Oct 2026.
+Demarkus Lewis is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at How Much Studios, Austin on Sat, 24 Oct 2026.
 
-Demarkus Lewis is a house and acid artist based in United States of America, tracked on soundcheck, with 11 sets logged across Austin, Denver, Detroit and Miami and 3 more. Often billed alongside Brett Johnson, Alex DL and Alton Miller. Next up: How Much Studios, Austin on Sat 24 Oct.
+Demarkus Lewis is a house and acid artist based in United States of America, with 11 gigs on soundcheck across Austin, Denver, Detroit and Miami and 3 more. Often billed alongside Brett Johnson, Alex DL and Alton Miller. Next up: How Much Studios, Austin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Demarkus Lewis is a house and acid artist based in United States of America, tra
 
 ## Recently played
 
-- MAD Radio NYC, New York City — Fri, 28 Aug 2026
-- Mad Radio Miami, Miami — Fri, 3 Jul 2026
-- The Air Conditioned Lounge, San Diego — Fri, 27 Jun 2025
-- Neon Grotto, Austin — Sat, 12 Apr 2025
-- The Monkey Loft, Seattle — Sat, 21 Sept 2024
-- Stay Tuned, Denver — Fri, 28 Jun 2024
-- Mad Radio Miami, Miami — Sat, 15 Jun 2024
-- The Monkey Loft, Seattle — Sat, 21 Oct 2023
+- MAD Radio NYC, New York City · Fri, 28 Aug 2026
+- Mad Radio Miami, Miami · Fri, 3 Jul 2026
+- The Air Conditioned Lounge, San Diego · Fri, 27 Jun 2025
+- Neon Grotto, Austin · Sat, 12 Apr 2025
+- The Monkey Loft, Seattle · Sat, 21 Sept 2024
+- Stay Tuned, Denver · Fri, 28 Jun 2024
+- Mad Radio Miami, Miami · Sat, 15 Jun 2024
+- The Monkey Loft, Seattle · Sat, 21 Oct 2023
 
 ## Shares bills with
 

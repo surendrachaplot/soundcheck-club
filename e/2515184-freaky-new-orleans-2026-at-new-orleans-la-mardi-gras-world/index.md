@@ -1,6 +1,6 @@
 # Freaky New Orleans 2026 at New Orleans, LA, Mardi Gras World
 
-Freaky New Orleans 2026 at New Orleans, LA, Mardi Gras World on Fri 30 Oct, New Orleans. 8 artists on the bill: bradeazy, Chris Lorenzo, Dabin and FISHER and 4 more. Preview the line-up and save it on soundcheck.
+Freaky New Orleans 2026 at New Orleans, LA, Mardi Gras World on Fri 30 Oct, New Orleans. 8 artists: bradeazy, Chris Lorenzo, Dabin and FISHER and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

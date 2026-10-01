@@ -1,8 +1,8 @@
 # SNAXX
 
-SNAXX is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
+SNAXX is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat, 17 Oct 2026.
 
-SNAXX is a house and techno artist based in Australia, tracked on soundcheck, with 43 sets logged across Melbourne and Sydney. Often billed alongside Gumm, Andrew88 and Steve Bleas. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
+SNAXX is a house and techno artist based in Australia, with 43 gigs on soundcheck across Melbourne and Sydney. Often billed alongside Gumm, Andrew88 and Steve Bleas. Next up: Pica (Port Melbourne Industrial Centre for the Arts), Melbourne on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ SNAXX is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 ## Recently played
 
-- Howler, Melbourne — Sun, 8 Feb 2026
-- Lardner Park, Melbourne — Fri, 28 Nov 2025
-- ELECTRIC BAR, Melbourne — Sun, 1 Jun 2025
-- New Guernica, Melbourne — Sat, 3 May 2025
-- The Gasometer Hotel, Melbourne — Sat, 8 Feb 2025
-- New Guernica, Melbourne — Sat, 1 Feb 2025
-- Sub Club Melbourne, Melbourne — Sat, 7 Dec 2024
-- ELECTRIC BAR, Melbourne — Sun, 3 Nov 2024
+- Howler, Melbourne · Sun, 8 Feb 2026
+- Lardner Park, Melbourne · Fri, 28 Nov 2025
+- ELECTRIC BAR, Melbourne · Sun, 1 Jun 2025
+- New Guernica, Melbourne · Sat, 3 May 2025
+- The Gasometer Hotel, Melbourne · Sat, 8 Feb 2025
+- New Guernica, Melbourne · Sat, 1 Feb 2025
+- Sub Club Melbourne, Melbourne · Sat, 7 Dec 2024
+- ELECTRIC BAR, Melbourne · Sun, 3 Nov 2024
 
 ## Shares bills with
 

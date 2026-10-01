@@ -1,6 +1,6 @@
 # HYPNOFAZE // CLUB NIGHT #8 at Jungle Bar
 
-HYPNOFAZE // CLUB NIGHT #8 at Jungle Bar on Sat 21 Nov, Brussels. Techno. Preview the line-up and save it on soundcheck.
+HYPNOFAZE // CLUB NIGHT #8 at Jungle Bar on Sat 21 Nov, Brussels. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Diablada: Frente Cumbiero + Indus + Julieta Garay + Hija de la Coca at Sala Apolo
 
-Diablada: Frente Cumbiero + Indus + Julieta Garay + Hija de la Coca at Sala Apolo on Wed 21 Oct, Barcelona. 1 artist on the bill: indus. Reggaeton and Guaracha. Preview the line-up and save it on soundcheck.
+Diablada: Frente Cumbiero + Indus + Julieta Garay + Hija de la Coca at Sala Apolo on Wed 21 Oct, Barcelona. 1 artist: indus. Reggaeton and Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

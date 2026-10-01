@@ -1,6 +1,6 @@
 # Derrick Gee's Radio Hour at Lindsay Family Stage At Granville Island
 
-Derrick Gee's Radio Hour at Lindsay Family Stage At Granville Island on Wed 7 Oct, Vancouver. Preview the line-up and save it on soundcheck.
+Derrick Gee's Radio Hour at Lindsay Family Stage At Granville Island on Wed 7 Oct, Vancouver. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

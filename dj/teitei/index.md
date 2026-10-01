@@ -1,8 +1,8 @@
 # TEI TEI
 
-TEI TEI is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
+TEI TEI is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
 
-TEI TEI is a techno and trance artist based in China, tracked on soundcheck, with 139 sets logged across Hong Kong, Osaka, Shenzhen and Tokyo. Often billed alongside DANDAN, the2$ and XINOVI. Next up: Circus Tokyo, Tokyo on Sun 11 Oct.
+TEI TEI is a techno and trance artist based in China, with 139 gigs on soundcheck across Hong Kong, Osaka, Shenzhen and Tokyo. Often billed alongside DANDAN, the2$ and XINOVI. Next up: Circus Tokyo, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ TEI TEI is a techno and trance artist based in China, tracked on soundcheck, wit
 
 ## Recently played
 
-- UTOPIA / DYSTOPIA, Tokyo — Sat, 26 Sept 2026
-- Mitsuki, Tokyo — Sat, 12 Sept 2026
-- MIDNIGHT EAST, Tokyo — Sat, 29 Aug 2026
-- Azumaya, Tokyo — Thu, 27 Aug 2026
-- Forestlimit, Tokyo — Fri, 21 Aug 2026
-- TBA - Secret location in Nishiazabu, Tokyo — Sat, 15 Aug 2026
-- ZEROTOKYO, Tokyo — Mon, 10 Aug 2026
-- Area_osaka, Osaka — Fri, 24 Jul 2026
+- UTOPIA / DYSTOPIA, Tokyo · Sat, 26 Sept 2026
+- Mitsuki, Tokyo · Sat, 12 Sept 2026
+- MIDNIGHT EAST, Tokyo · Sat, 29 Aug 2026
+- Azumaya, Tokyo · Thu, 27 Aug 2026
+- Forestlimit, Tokyo · Fri, 21 Aug 2026
+- TBA - Secret location in Nishiazabu, Tokyo · Sat, 15 Aug 2026
+- ZEROTOKYO, Tokyo · Mon, 10 Aug 2026
+- Area_osaka, Osaka · Fri, 24 Jul 2026
 
 ## Shares bills with
 

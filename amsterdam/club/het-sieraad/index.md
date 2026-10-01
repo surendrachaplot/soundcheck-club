@@ -1,8 +1,8 @@
 # Het Sieraad
 
-Het Sieraad is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SLAPPED Amsterdam" on Fri, 2 Oct 2026.
+Het Sieraad is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SLAPPED Amsterdam" on Fri, 2 Oct 2026.
 
-Het Sieraad is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Adam Ten, Adapter, Alexander Koning and Anthony Middleton and 2 more. Browse upcoming dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
+Het Sieraad is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Adam Ten, Adapter, Alexander Koning and Anthony Middleton and 2 more. See dates, start times and who's playing. Postjesweg 1, 1057 DT Amsterdam.
 
 ## What's on
 

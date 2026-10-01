@@ -1,6 +1,6 @@
 # Joris Voorn - Trip to Galaxy Tour at The Chocolate Factory
 
-Joris Voorn - Trip to Galaxy Tour at The Chocolate Factory on Fri 2 Oct, New York City. 1 artist on the bill: Joris Voorn. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Joris Voorn - Trip to Galaxy Tour at The Chocolate Factory on Fri 2 Oct, New York City. 1 artist: Joris Voorn. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

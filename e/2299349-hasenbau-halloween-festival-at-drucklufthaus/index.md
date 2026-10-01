@@ -1,6 +1,6 @@
 # Hasenbau Halloween Festival at Drucklufthaus
 
-Hasenbau Halloween Festival at Drucklufthaus on Sat 31 Oct, Cologne. Techno and House. Preview the line-up and save it on soundcheck.
+Hasenbau Halloween Festival at Drucklufthaus on Sat 31 Oct, Cologne. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

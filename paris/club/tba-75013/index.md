@@ -1,8 +1,8 @@
 # TBA - 75013
 
-TBA - 75013 is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Extended Sessions 001: DJ Rino, Nicky Macha, Josepha" on Sat, 17 Oct 2026.
+TBA - 75013 is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Extended Sessions 001: DJ Rino, Nicky Macha, Josepha" on Sat, 17 Oct 2026.
 
-TBA - 75013 is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Alyhas, C.ru.z, Dizzy and DJ Rino and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - 75013 is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Alyhas, C.ru.z, Dizzy and DJ Rino and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

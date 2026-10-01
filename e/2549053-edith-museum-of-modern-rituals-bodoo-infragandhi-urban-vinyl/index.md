@@ -1,6 +1,6 @@
 # Edith — Museum of Modern Rituals — Bodoo / Infragandhi / Urban Vinyl at Edith
 
-Edith — Museum of Modern Rituals — Bodoo / Infragandhi / Urban Vinyl on Sat 3 Oct, Budapest. 1 artist on the bill: Infragandhi. Techno and Afro House. Preview the line-up and save it on soundcheck.
+Edith — Museum of Modern Rituals — Bodoo / Infragandhi / Urban Vinyl on Sat 3 Oct, Budapest. 1 artist: Infragandhi. Techno and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

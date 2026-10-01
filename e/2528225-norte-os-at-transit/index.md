@@ -1,6 +1,6 @@
 # Norteños at Transit
 
-Norteños at Transit on Sat 24 Oct, Amsterdam. 2 artists on the bill: Gropina and Spiritual Embassy. Balearic and Dancehall. Preview the line-up and save it on soundcheck.
+Norteños at Transit on Sat 24 Oct, Amsterdam. 2 artists: Gropina and Spiritual Embassy. Balearic and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

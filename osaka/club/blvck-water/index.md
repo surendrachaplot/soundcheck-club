@@ -1,8 +1,8 @@
 # Blvck Water
 
-Blvck Water is a music venue in Osaka with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "AWAKING THE UNKNOWN" on Thu, 1 Oct 2026.
+Blvck Water is a music venue in Osaka with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "AWAKING THE UNKNOWN" on Thu, 1 Oct 2026.
 
-Blvck Water is a music venue in Osaka listed on soundcheck. 15 upcoming gigs, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and dyn (JP) and 2 more. Browse upcoming dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
+Blvck Water is a music venue in Osaka listed on soundcheck. 15 upcoming gigs, with line-ups including 死者蘇生CH, _goodbyeforever_, amor (JP) and dyn (JP) and 2 more. See dates, start times and who's playing. B1F Grace Soemoncho Bldg., 7-6 Soemoncho, Chuo-ku, Osaka.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # ADE PRE PARTY SEND OFF For TRAX RECORDS, I LOVE SUNDAZE & FRESCA RECORDS at TBA -   HEY HEY SOCIAL - Broadway news lot 
 
-ADE PRE PARTY SEND OFF For TRAX RECORDS, I LOVE SUNDAZE & FRESCA RECORDS at TBA -   HEY HEY SOCIAL - Broadway news lot  on Sat 17 Oct, San Antonio. 2 artists on the bill: Curtis Bledsoe and Eric Ross. Preview the line-up and save it on soundcheck.
+ADE PRE PARTY SEND OFF For TRAX RECORDS, I LOVE SUNDAZE & FRESCA RECORDS at TBA -   HEY HEY SOCIAL - Broadway news lot  on Sat 17 Oct, San Antonio. 2 artists: Curtis Bledsoe and Eric Ross. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

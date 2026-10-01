@@ -1,6 +1,6 @@
 # RENDITIONS: The Fleetwood Mac Experience at XOYO
 
-RENDITIONS: The Fleetwood Mac Experience at XOYO on Fri 27 Nov, London. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+RENDITIONS: The Fleetwood Mac Experience at XOYO on Fri 27 Nov, London. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

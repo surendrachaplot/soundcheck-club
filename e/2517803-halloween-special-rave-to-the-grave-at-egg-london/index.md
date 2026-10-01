@@ -1,6 +1,6 @@
 # Halloween Special - Rave To The Grave at Egg London
 
-Halloween Special - Rave To The Grave at Egg London on Sat 31 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+Halloween Special - Rave To The Grave at Egg London on Sat 31 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

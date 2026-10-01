@@ -1,8 +1,8 @@
 # Kana Hishiya
 
-Kana Hishiya is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Kana Hishiya is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Kana Hishiya is a house and techno artist based in Japan, tracked on soundcheck, with 58 sets logged across Detroit, Los Angeles, New York City and San Diego and 2 more. Often billed alongside Artur (US), Enzo Muro and H.U.D.L. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Kana Hishiya is a house and techno artist based in Japan, with 58 gigs on soundcheck across Detroit, Los Angeles, New York City and San Diego and 2 more. Often billed alongside Artur (US), Enzo Muro and H.U.D.L. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kana Hishiya is a house and techno artist based in Japan, tracked on soundcheck,
 
 ## Recently played
 
-- Apotheke, Los Angeles — Sun, 27 Sept 2026
-- TBA - DTLA, Los Angeles — Sat, 19 Sept 2026
-- Apotheke, Los Angeles — Fri, 11 Sept 2026
-- TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles — Thu, 10 Sept 2026
-- Better Tomorrow, Los Angeles — Thu, 30 Jul 2026
-- TBA, Los Angeles — Sat, 18 Jul 2026
-- Bar Franca, Los Angeles — Fri, 17 Jul 2026
-- Bar Franca, Los Angeles — Thu, 16 Jul 2026
+- Apotheke, Los Angeles · Sun, 27 Sept 2026
+- TBA - DTLA, Los Angeles · Sat, 19 Sept 2026
+- Apotheke, Los Angeles · Fri, 11 Sept 2026
+- TBA - Location Link in Bio on Instagram @recollectunderground, Los Angeles · Thu, 10 Sept 2026
+- Better Tomorrow, Los Angeles · Thu, 30 Jul 2026
+- TBA, Los Angeles · Sat, 18 Jul 2026
+- Bar Franca, Los Angeles · Fri, 17 Jul 2026
+- Bar Franca, Los Angeles · Thu, 16 Jul 2026
 
 ## Shares bills with
 

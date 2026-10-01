@@ -1,6 +1,6 @@
 # Ye Gods w/Zac Clowes at Quarry
 
-Ye Gods w/Zac Clowes at Quarry on Fri 23 Oct, Liverpool. Experimental and Noise. Preview the line-up and save it on soundcheck.
+Ye Gods w/Zac Clowes at Quarry on Fri 23 Oct, Liverpool. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

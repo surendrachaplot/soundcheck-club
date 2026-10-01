@@ -1,6 +1,6 @@
 # Le Labo Divagation x Furium at Le Labokube
 
-Le Labo Divagation x Furium at Le Labokube on Fri 2 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Le Labo Divagation x Furium at Le Labokube on Fri 2 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

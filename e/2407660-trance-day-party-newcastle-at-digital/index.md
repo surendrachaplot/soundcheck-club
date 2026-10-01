@@ -1,6 +1,6 @@
 # Trance Day Party: Newcastle at Digital
 
-Trance Day Party: Newcastle at Digital on Sat 24 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Trance Day Party: Newcastle at Digital on Sat 24 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

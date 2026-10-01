@@ -1,6 +1,6 @@
 # Valentino Khan at Lincoln Factory
 
-Valentino Khan at Lincoln Factory on Fri 2 Oct, Detroit. Preview the line-up and save it on soundcheck.
+Valentino Khan at Lincoln Factory on Fri 2 Oct, Detroit. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

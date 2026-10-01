@@ -1,6 +1,6 @@
 # The Dreamer at Big Bar at TBA - Big Bar Athens
 
-The Dreamer at Big Bar at TBA - Big Bar Athens on Fri 2 Oct, Athens. 1 artist on the bill: The Dreamer. House. Preview the line-up and save it on soundcheck.
+The Dreamer at Big Bar at TBA - Big Bar Athens on Fri 2 Oct, Athens. 1 artist: The Dreamer. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

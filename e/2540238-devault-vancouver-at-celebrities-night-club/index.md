@@ -1,6 +1,6 @@
 # Devault (Vancouver) at Celebrities Night Club
 
-Devault (Vancouver) at Celebrities Night Club on Sat 24 Oct, Vancouver. House and Tech House. Preview the line-up and save it on soundcheck.
+Devault (Vancouver) at Celebrities Night Club on Sat 24 Oct, Vancouver. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

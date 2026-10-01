@@ -1,8 +1,8 @@
 # vandàla
 
-vandàla is a Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
+vandàla is a Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Iter Tenerife, Canary-islands on Fri, 16 Oct 2026.
 
-vandàla is an electronica artist tracked on soundcheck, with 6 sets logged across Barcelona, Canary Islands and Madrid. Often billed alongside Amor Satyr, Anetha and BOTHER. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
+vandàla is an electronica artist, with 6 gigs on soundcheck across Barcelona, Canary Islands and Madrid. Often billed alongside Amor Satyr, Anetha and BOTHER. Next up: Iter Tenerife, Canary Islands on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ vandàla is an electronica artist tracked on soundcheck, with 6 sets logged acro
 
 ## Recently played
 
-- Club Malasaña, Madrid — Sat, 16 May 2026
-- Sala Siroco, Madrid — Fri, 17 May 2024
-- Cadavra, Madrid — Sat, 16 Mar 2024
-- TBA - Madrid, Madrid — Fri, 15 Sept 2023
-- Nitsa Club, Barcelona — Fri, 7 Apr 2023
+- Club Malasaña, Madrid · Sat, 16 May 2026
+- Sala Siroco, Madrid · Fri, 17 May 2024
+- Cadavra, Madrid · Sat, 16 Mar 2024
+- TBA - Madrid, Madrid · Fri, 15 Sept 2023
+- Nitsa Club, Barcelona · Fri, 7 Apr 2023
 
 ## Shares bills with
 

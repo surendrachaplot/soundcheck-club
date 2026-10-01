@@ -1,6 +1,6 @@
 # Playhaus Studio ADE at Loop51
 
-Playhaus Studio ADE at Loop51 on Fri 23 Oct, Amsterdam. 6 artists on the bill: Bridontknow, JenTen, Ko-La and Terrakin and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Playhaus Studio ADE at Loop51 on Fri 23 Oct, Amsterdam. 6 artists: Bridontknow, JenTen, Ko-La and Terrakin and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

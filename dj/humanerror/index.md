@@ -1,8 +1,8 @@
 # HUMAN ERROR
 
-HUMAN ERROR is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gotec, Karlsruhe on Sat, 10 Oct 2026.
+HUMAN ERROR is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gotec, Karlsruhe on Sat, 10 Oct 2026.
 
-HUMAN ERROR is a techno and trance artist based in Germany, tracked on soundcheck, with 48 sets logged across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside DVAID, WILDERÍCH and zwilling.. Next up: Gotec, Karlsruhe on Sat 10 Oct.
+HUMAN ERROR is a techno and trance artist based in Germany, with 48 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 19 more. Often billed alongside DVAID, WILDERÍCH and zwilling.. Next up: Gotec, Karlsruhe on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ HUMAN ERROR is a techno and trance artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- TBA - Peißnitzinsel Halle, Leipzig — Sat, 1 Aug 2026
-- Z-Bau, Nürnberg — Sat, 18 Jul 2026
-- Kilomètre25, Paris — Sat, 11 Jul 2026
-- Lokschuppen Berlin, Berlin — Sat, 6 Jun 2026
-- Amfiteatre del Parc Catalunya, Barcelona — Sat, 30 May 2026
-- Audiodrome, Turin — Sat, 23 May 2026
-- Artheater, Cologne — Fri, 15 May 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- TBA - Peißnitzinsel Halle, Leipzig · Sat, 1 Aug 2026
+- Z-Bau, Nürnberg · Sat, 18 Jul 2026
+- Kilomètre25, Paris · Sat, 11 Jul 2026
+- Lokschuppen Berlin, Berlin · Sat, 6 Jun 2026
+- Amfiteatre del Parc Catalunya, Barcelona · Sat, 30 May 2026
+- Audiodrome, Turin · Sat, 23 May 2026
+- Artheater, Cologne · Fri, 15 May 2026
 
 ## Shares bills with
 

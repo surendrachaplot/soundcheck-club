@@ -1,8 +1,8 @@
 # Danforth Music Hall
 
-Danforth Music Hall is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Not Dead Yet presents Boy Harsher" on Wed, 30 Sept 2026.
+Danforth Music Hall is a music venue in Toronto with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Not Dead Yet presents Boy Harsher" on Wed, 30 Sept 2026.
 
-Danforth Music Hall is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Boy Harsher, Evanora Unlimited and Slash Need. Browse upcoming dates, start times and who's playing. 147 Danforth Avenue; Toronto, ON M4K 1N2; Canada.
+Danforth Music Hall is a music venue in Toronto listed on soundcheck. 1 upcoming gig, with line-ups including Boy Harsher, Evanora Unlimited and Slash Need. See dates, start times and who's playing. 147 Danforth Avenue; Toronto, ON M4K 1N2; Canada.
 
 ## What's on
 

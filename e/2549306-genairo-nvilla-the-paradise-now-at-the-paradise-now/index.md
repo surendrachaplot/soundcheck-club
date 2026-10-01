@@ -1,6 +1,6 @@
 # GENAIRO NVILLA - The Paradise Now at The Paradise Now
 
-GENAIRO NVILLA - The Paradise Now on Sat 10 Oct, Düsseldorf. House and Afro House. Preview the line-up and save it on soundcheck.
+GENAIRO NVILLA - The Paradise Now on Sat 10 Oct, Düsseldorf. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

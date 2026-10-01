@@ -1,6 +1,6 @@
 # Bohemia presents Jan Blomqvist at Bohemia Beach Club
 
-Bohemia presents Jan Blomqvist at Bohemia Beach Club on Sat 24 Oct, Dubai. 2 artists on the bill: Jan Blomqvist and Nicolas Sasson. Preview the line-up and save it on soundcheck.
+Bohemia presents Jan Blomqvist at Bohemia Beach Club on Sat 24 Oct, Dubai. 2 artists: Jan Blomqvist and Nicolas Sasson. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

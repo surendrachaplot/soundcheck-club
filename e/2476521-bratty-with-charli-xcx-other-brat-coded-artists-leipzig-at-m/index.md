@@ -1,6 +1,6 @@
 # bratty • with charli xcx & other brat coded artists • leipzig at Moritzbastei
 
-bratty • with charli xcx & other brat coded artists • leipzig at Moritzbastei on Sat 7 Nov, Leipzig. Electro and Pop. Preview the line-up and save it on soundcheck.
+bratty • with charli xcx & other brat coded artists • leipzig at Moritzbastei on Sat 7 Nov, Leipzig. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

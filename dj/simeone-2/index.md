@@ -1,8 +1,8 @@
 # Simeone (2)
 
-Simeone (2) is a Bass and Dub artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bike Jesus, Prague on Fri, 23 Oct 2026.
+Simeone (2) is a Bass and Dub artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bike Jesus, Prague on Fri, 23 Oct 2026.
 
-Simeone is a bass and dub artist tracked on soundcheck, with 6 sets logged across Prague. Often billed alongside Meldaboi, SMB and Silverbo1. Next up: Bike Jesus, Prague on Fri 23 Oct.
+Simeone is a bass and dub artist, with 6 gigs on soundcheck across Prague. Often billed alongside Meldaboi, SMB and Silverbo1. Next up: Bike Jesus, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Simeone is a bass and dub artist tracked on soundcheck, with 6 sets logged acros
 
 ## Recently played
 
-- Altenburg 1964, Prague — Thu, 21 May 2026
-- Gabriel Loci, Prague — Wed, 31 Dec 2025
-- Bike Jesus, Prague — Fri, 31 Oct 2025
-- Altenburg 1964, Prague — Fri, 18 Jul 2025
-- Stalin, Prague — Thu, 22 May 2025
+- Altenburg 1964, Prague · Thu, 21 May 2026
+- Gabriel Loci, Prague · Wed, 31 Dec 2025
+- Bike Jesus, Prague · Fri, 31 Oct 2025
+- Altenburg 1964, Prague · Fri, 18 Jul 2025
+- Stalin, Prague · Thu, 22 May 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # R'n'B LDN Day Party: HERE at Outernet with Rampage at Outernet Live
 
-R'n'B LDN Day Party: HERE at Outernet with Rampage at Outernet Live on Sat 12 Dec, London. 6 artists on the bill: AALIYAH, Ciara, Confetti and EVE and 2 more. R&B. Preview the line-up and save it on soundcheck.
+R'n'B LDN Day Party: HERE at Outernet with Rampage at Outernet Live on Sat 12 Dec, London. 6 artists: AALIYAH, Ciara, Confetti and EVE and 2 more. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

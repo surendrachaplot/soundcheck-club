@@ -1,6 +1,6 @@
 # Haunted Shoreditch - Everyone Free Before 12AM at The Lighthouse Club
 
-Haunted Shoreditch - Everyone Free Before 12AM at The Lighthouse Club on Fri 30 Oct, London. Preview the line-up and save it on soundcheck.
+Haunted Shoreditch - Everyone Free Before 12AM at The Lighthouse Club on Fri 30 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

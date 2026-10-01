@@ -1,8 +1,8 @@
 # Genoe
 
-Genoe is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
+Genoe is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
 
-Genoe is a bass and dubstep artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin and Prague. Often billed alongside KaraKara, Comf and Forward Sisters. Next up: Lauschangriff, Berlin on Thu 1 Oct.
+Genoe is a bass and dubstep artist based in Germany, with 25 gigs on soundcheck across Berlin and Prague. Often billed alongside KaraKara, Comf and Forward Sisters. Next up: Lauschangriff, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Genoe is a bass and dubstep artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
-- Alte Feuerwache THF, Berlin — Fri, 11 Sept 2026
-- Malzfabrik, Berlin — Sat, 5 Sept 2026
-- Crack Bellmer, Berlin — Thu, 27 Aug 2026
-- Gretchen, Berlin — Sat, 8 Aug 2026
-- TBA - Secret Location near Jannowitzbrücke, Berlin — Fri, 7 Aug 2026
-- TBA - Bistro KuBar, Prague — Sat, 18 Jul 2026
-- Renate, Berlin — Fri, 19 Jun 2026
-- MaHalla, Berlin — Thu, 28 May 2026
+- Alte Feuerwache THF, Berlin · Fri, 11 Sept 2026
+- Malzfabrik, Berlin · Sat, 5 Sept 2026
+- Crack Bellmer, Berlin · Thu, 27 Aug 2026
+- Gretchen, Berlin · Sat, 8 Aug 2026
+- TBA - Secret Location near Jannowitzbrücke, Berlin · Fri, 7 Aug 2026
+- TBA - Bistro KuBar, Prague · Sat, 18 Jul 2026
+- Renate, Berlin · Fri, 19 Jun 2026
+- MaHalla, Berlin · Thu, 28 May 2026
 
 ## Shares bills with
 

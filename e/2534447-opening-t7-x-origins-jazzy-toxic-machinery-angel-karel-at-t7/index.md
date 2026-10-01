@@ -1,6 +1,6 @@
 # Opening T7 x Origins: JAZZY, TOXIC MACHINERY, Angel Karel at T7 Paris
 
-Opening T7 x Origins: JAZZY, TOXIC MACHINERY, Angel Karel at T7 Paris on Sat 3 Oct, Paris. 3 artists on the bill: Angel Karel, JAZZY and Nightowl. Techno. Preview the line-up and save it on soundcheck.
+Opening T7 x Origins: JAZZY, TOXIC MACHINERY, Angel Karel at T7 Paris on Sat 3 Oct, Paris. 3 artists: Angel Karel, JAZZY and Nightowl. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

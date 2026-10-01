@@ -1,6 +1,6 @@
 # Before Ambientalny at Wrocławski Klub Formaty
 
-Before Ambientalny at Wrocławski Klub Formaty on Sat 3 Oct, Wroclaw. 2 artists on the bill: Concepción Huerta and Lawrence English. Preview the line-up and save it on soundcheck.
+Before Ambientalny at Wrocławski Klub Formaty on Sat 3 Oct, Wroclaw. 2 artists: Concepción Huerta and Lawrence English. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

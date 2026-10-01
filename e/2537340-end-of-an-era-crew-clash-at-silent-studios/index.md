@@ -1,6 +1,6 @@
 # End Of An Era: Crew Clash at Silent Studios
 
-End Of An Era: Crew Clash at Silent Studios on Fri 30 Oct, Auckland. Tech House. Preview the line-up and save it on soundcheck.
+End Of An Era: Crew Clash at Silent Studios on Fri 30 Oct, Auckland. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

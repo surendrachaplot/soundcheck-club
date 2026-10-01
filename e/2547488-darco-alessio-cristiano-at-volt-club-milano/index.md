@@ -1,6 +1,6 @@
 # Darco + Alessio Cristiano at Volt Club Milano
 
-Darco + Alessio Cristiano at Volt Club Milano on Fri 2 Oct, Milan. 2 artists on the bill: Alessio Cristiano and Darco. Techno and House. Preview the line-up and save it on soundcheck.
+Darco + Alessio Cristiano at Volt Club Milano on Fri 2 Oct, Milan. 2 artists: Alessio Cristiano and Darco. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

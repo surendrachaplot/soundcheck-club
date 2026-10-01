@@ -1,6 +1,6 @@
 # ESCAPISM with Chris Luno & More at Hotel Cecil
 
-ESCAPISM with Chris Luno & More at Hotel Cecil on Fri 16 Oct, Copenhagen. 4 artists on the bill: Chris Luno, joa picaro, Rexie Lex and ULDΛLL. House and Deep House. Preview the line-up and save it on soundcheck.
+ESCAPISM with Chris Luno & More at Hotel Cecil on Fri 16 Oct, Copenhagen. 4 artists: Chris Luno, joa picaro, Rexie Lex and ULDΛLL. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

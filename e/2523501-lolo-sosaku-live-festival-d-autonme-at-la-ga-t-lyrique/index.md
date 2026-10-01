@@ -1,6 +1,6 @@
 # Lolo & Sosaku (Live) Festival d'Autonme at La Gaîté Lyrique
 
-Lolo & Sosaku (Live) Festival d'Autonme at La Gaîté Lyrique on Thu 22 Oct, Paris. Experimental and Noise. Preview the line-up and save it on soundcheck.
+Lolo & Sosaku (Live) Festival d'Autonme at La Gaîté Lyrique on Thu 22 Oct, Paris. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

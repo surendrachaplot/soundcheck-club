@@ -1,6 +1,6 @@
 # Wigwam x Mystify: KHIDI Showcase with Pablo Bozzi at Wigwam
 
-Wigwam x Mystify: KHIDI Showcase with Pablo Bozzi on Sat 14 Nov, Dublin. 5 artists on the bill: Boyd Schidt, Dual Pistols, F.HOLLOW and Pablo Bozzi and 1 more. Techno and EBM. Preview the line-up and save it on soundcheck.
+Wigwam x Mystify: KHIDI Showcase with Pablo Bozzi on Sat 14 Nov, Dublin. 5 artists: Boyd Schidt, Dual Pistols, F.HOLLOW and Pablo Bozzi and 1 more. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

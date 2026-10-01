@@ -1,8 +1,8 @@
 # Dance No Evil
 
-Dance No Evil is a Acid and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret North London Location, London on Sat, 24 Oct 2026.
+Dance No Evil is a Acid and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret North London Location, London on Sat, 24 Oct 2026.
 
-Dance No Evil is an acid and deep house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Dundee, Glasgow and London. Often billed alongside Brewboy, Lewis Robertson and Speki C. Next up: TBA - Secret North London Location, London on Sat 24 Oct.
+Dance No Evil is an acid and deep house artist based in United Kingdom, with 17 gigs on soundcheck across Dundee, Glasgow and London. Often billed alongside Brewboy, Lewis Robertson and Speki C. Next up: TBA - Secret North London Location, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dance No Evil is an acid and deep house artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- The Berkeley Suite, Glasgow — Thu, 26 Feb 2026
-- The Berkeley Suite, Glasgow — Thu, 5 Feb 2026
-- Bananamoon bar, Glasgow — Thu, 4 Dec 2025
-- Sub Club, Glasgow — Wed, 29 Oct 2025
-- The Buff Club, Glasgow — Fri, 3 Oct 2025
-- CANVAS, Dundee — Sat, 20 Sept 2025
-- Stereo, Glasgow — Thu, 18 Sept 2025
-- La Cheetah Club, Glasgow — Thu, 1 May 2025
+- The Berkeley Suite, Glasgow · Thu, 26 Feb 2026
+- The Berkeley Suite, Glasgow · Thu, 5 Feb 2026
+- Bananamoon bar, Glasgow · Thu, 4 Dec 2025
+- Sub Club, Glasgow · Wed, 29 Oct 2025
+- The Buff Club, Glasgow · Fri, 3 Oct 2025
+- CANVAS, Dundee · Sat, 20 Sept 2025
+- Stereo, Glasgow · Thu, 18 Sept 2025
+- La Cheetah Club, Glasgow · Thu, 1 May 2025
 
 ## Shares bills with
 

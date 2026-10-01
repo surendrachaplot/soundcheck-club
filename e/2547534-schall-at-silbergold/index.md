@@ -1,6 +1,6 @@
 # SCHALL at Silbergold
 
-SCHALL at Silbergold on Sat 3 Oct, Frankfurt. 1 artist on the bill: Paul Pahn. Trance and Techno. Preview the line-up and save it on soundcheck.
+SCHALL at Silbergold on Sat 3 Oct, Frankfurt. 1 artist: Paul Pahn. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

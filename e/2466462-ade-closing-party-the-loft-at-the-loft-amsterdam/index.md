@@ -1,6 +1,6 @@
 # ADE Closing Party - The Loft at The Loft Amsterdam
 
-ADE Closing Party - The Loft at The Loft Amsterdam on Mon 26 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+ADE Closing Party - The Loft at The Loft Amsterdam on Mon 26 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # INTO SOLA at TBA
 
-INTO SOLA at TBA on Sat 5 Dec, Glasgow. Techno and House. Preview the line-up and save it on soundcheck.
+INTO SOLA at TBA on Sat 5 Dec, Glasgow. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

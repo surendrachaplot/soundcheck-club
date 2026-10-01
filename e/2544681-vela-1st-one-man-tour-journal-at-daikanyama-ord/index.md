@@ -1,6 +1,6 @@
 # Vela 1st One-Man Tour『Journal』 at Daikanyama ORD.
 
-Vela 1st One-Man Tour『Journal』 at Daikanyama ORD. on Sun 18 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+Vela 1st One-Man Tour『Journal』 at Daikanyama ORD. on Sun 18 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

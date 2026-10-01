@@ -1,6 +1,6 @@
 # GROOVE MONGERS at Tola
 
-GROOVE MONGERS at Tola on Sat 17 Oct, London. 4 artists on the bill: Cristian Sirica, Earnshaw, John's and Marco Savo. House and Tech House. Preview the line-up and save it on soundcheck.
+GROOVE MONGERS at Tola on Sat 17 Oct, London. 4 artists: Cristian Sirica, Earnshaw, John's and Marco Savo. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

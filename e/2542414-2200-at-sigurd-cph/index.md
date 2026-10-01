@@ -1,6 +1,6 @@
 # 2200 at Sigurd CPH
 
-2200 at Sigurd CPH on Fri 2 Oct, Copenhagen. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+2200 at Sigurd CPH on Fri 2 Oct, Copenhagen. Hip-Hop and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

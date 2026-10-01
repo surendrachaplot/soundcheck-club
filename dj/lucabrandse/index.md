@@ -1,8 +1,8 @@
 # Luca Brandse
 
-Luca Brandse is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Madam, Amsterdam on Sat, 17 Oct 2026.
+Luca Brandse is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Madam, Amsterdam on Sat, 17 Oct 2026.
 
-Luca Brandse is a deep house and tech house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam. Often billed alongside Silven, Neo (NL) and Affani. Next up: Madam, Amsterdam on Sat 17 Oct.
+Luca Brandse is a deep house and tech house artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam. Often billed alongside Silven, Neo (NL) and Affani. Next up: Madam, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Luca Brandse is a deep house and tech house artist based in Netherlands, tracked
 
 ## Recently played
 
-- Madam, Amsterdam — Sun, 26 Apr 2026
-- Madam, Amsterdam — Wed, 31 Dec 2025
-- Crane Hotel Faralda, Amsterdam — Sat, 13 Dec 2025
-- Madam, Amsterdam — Fri, 31 Oct 2025
-- Madam, Amsterdam — Sat, 18 Oct 2025
-- Madam, Amsterdam — Wed, 20 Aug 2025
-- Madam, Amsterdam — Fri, 15 Aug 2025
-- Madam, Amsterdam — Sat, 19 Jul 2025
+- Madam, Amsterdam · Sun, 26 Apr 2026
+- Madam, Amsterdam · Wed, 31 Dec 2025
+- Crane Hotel Faralda, Amsterdam · Sat, 13 Dec 2025
+- Madam, Amsterdam · Fri, 31 Oct 2025
+- Madam, Amsterdam · Sat, 18 Oct 2025
+- Madam, Amsterdam · Wed, 20 Aug 2025
+- Madam, Amsterdam · Fri, 15 Aug 2025
+- Madam, Amsterdam · Sat, 19 Jul 2025
 
 ## Shares bills with
 

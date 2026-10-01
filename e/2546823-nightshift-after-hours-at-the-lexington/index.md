@@ -1,6 +1,6 @@
 # NIGHTSHIFT AFTER HOURS at The Lexington
 
-NIGHTSHIFT AFTER HOURS at The Lexington on Tue 6 Oct, Los Angeles. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT AFTER HOURS at The Lexington on Tue 6 Oct, Los Angeles. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

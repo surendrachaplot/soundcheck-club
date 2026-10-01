@@ -1,8 +1,8 @@
 # MEAKIN
 
-MEAKIN is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+MEAKIN is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Eighty-Four Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-MEAKIN is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam and London. Often billed alongside MARIUS SEBASTIAN, MAXYM and I-DA. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
+MEAKIN is a techno and trance artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam and London. Often billed alongside MARIUS SEBASTIAN, MAXYM and I-DA. Next up: Eighty-Four Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ MEAKIN is a techno and trance artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Basing House, London — Fri, 11 Sept 2026
-- Groovetank Live, London — Fri, 1 May 2026
-- U9, London — Sat, 11 Apr 2026
-- U9, London — Sat, 11 Apr 2026
-- E1, London — Fri, 27 Feb 2026
-- Basing House, London — Fri, 6 Feb 2026
-- Union Club, Vauxhall, London — Sat, 10 Jan 2026
-- Folklore, London — Sat, 22 Nov 2025
+- Basing House, London · Fri, 11 Sept 2026
+- Groovetank Live, London · Fri, 1 May 2026
+- U9, London · Sat, 11 Apr 2026
+- U9, London · Sat, 11 Apr 2026
+- E1, London · Fri, 27 Feb 2026
+- Basing House, London · Fri, 6 Feb 2026
+- Union Club, Vauxhall, London · Sat, 10 Jan 2026
+- Folklore, London · Sat, 22 Nov 2025
 
 ## Shares bills with
 

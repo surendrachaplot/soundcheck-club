@@ -1,8 +1,8 @@
 # Cris-H
 
-Cris-H is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Zum Barbarossa, Amsterdam on Wed, 21 Oct 2026.
+Cris-H is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Zum Barbarossa, Amsterdam on Wed, 21 Oct 2026.
 
-Cris-H is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Paul Sparkes, Prismode and Solvane. Next up: Zum Barbarossa, Amsterdam on Wed 21 Oct.
+Cris-H is a progressive house and deep house artist based in United Kingdom, with 56 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 3 more. Often billed alongside Paul Sparkes, Prismode and Solvane. Next up: Zum Barbarossa, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Cris-H is a progressive house and deep house artist based in United Kingdom, tra
 
 ## Recently played
 
-- Senang - Hoek van Holland, The Hague — Sat, 5 Sept 2026
-- Manii Beach, Amsterdam — Sat, 29 Aug 2026
-- Blue Summer Ibiza Boat, Ibiza — Sun, 16 Aug 2026
-- Paal69, Amsterdam — Sat, 15 Aug 2026
-- Supperclub Cruise, Amsterdam — Sat, 1 Aug 2026
-- Hyde Club, Barcelona — Sat, 13 Jun 2026
-- Paal69, Amsterdam — Fri, 29 May 2026
-- Loods 12, Amsterdam — Fri, 22 May 2026
+- Senang - Hoek van Holland, The Hague · Sat, 5 Sept 2026
+- Manii Beach, Amsterdam · Sat, 29 Aug 2026
+- Blue Summer Ibiza Boat, Ibiza · Sun, 16 Aug 2026
+- Paal69, Amsterdam · Sat, 15 Aug 2026
+- Supperclub Cruise, Amsterdam · Sat, 1 Aug 2026
+- Hyde Club, Barcelona · Sat, 13 Jun 2026
+- Paal69, Amsterdam · Fri, 29 May 2026
+- Loods 12, Amsterdam · Fri, 22 May 2026
 
 ## Shares bills with
 

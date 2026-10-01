@@ -1,8 +1,8 @@
 # Harry Romero
 
-Harry Romero is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Harry Romero is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Harry Romero is a house and tech house artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside Nic Fanciulli, Danny Howard and Darius Syrossian. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Harry Romero is a house and tech house artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 16 more. Often billed alongside Nic Fanciulli, Danny Howard and Darius Syrossian. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Harry Romero is a house and tech house artist based in United States of America,
 
 ## Recently played
 
-- Chinois Ibiza, Ibiza — Mon, 28 Sept 2026
-- Kater, Berlin — Sat, 26 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 17 Sept 2026
-- Superior Ingredients, New York City — Sun, 2 Aug 2026
-- Club Vinyl, Denver — Sat, 25 Jul 2026
-- Catch One, Los Angeles — Sat, 6 Jun 2026
-- F8 1192 Folsom, San Francisco/Oakland — Wed, 3 Jun 2026
-- ZeyZey, Miami — Sat, 2 May 2026
+- Chinois Ibiza, Ibiza · Mon, 28 Sept 2026
+- Kater, Berlin · Sat, 26 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 17 Sept 2026
+- Superior Ingredients, New York City · Sun, 2 Aug 2026
+- Club Vinyl, Denver · Sat, 25 Jul 2026
+- Catch One, Los Angeles · Sat, 6 Jun 2026
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 3 Jun 2026
+- ZeyZey, Miami · Sat, 2 May 2026
 
 ## Shares bills with
 

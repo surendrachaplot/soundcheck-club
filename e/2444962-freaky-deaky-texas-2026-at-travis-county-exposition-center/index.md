@@ -1,6 +1,6 @@
 # Freaky Deaky Texas 2026 at Travis County Exposition Center
 
-Freaky Deaky Texas 2026 at Travis County Exposition Center on Fri 30 Oct, Austin. 19 artists on the bill: BLONDEX, Bonnie, Clyde and Costa (FR) and 15 more. Preview the line-up and save it on soundcheck.
+Freaky Deaky Texas 2026 at Travis County Exposition Center on Fri 30 Oct, Austin. 19 artists: BLONDEX, Bonnie, Clyde and Costa (FR) and 15 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Information: Que Sakamoto + Bambi + Screeb at TBA - Goo People
 
-Information: Que Sakamoto + Bambi + Screeb at TBA - Goo People on Fri 16 Oct, Los Angeles. 3 artists on the bill: Bambi (FR), Que Sakamoto and Screeb. Trance and Dub Techno. Preview the line-up and save it on soundcheck.
+Information: Que Sakamoto + Bambi + Screeb at TBA - Goo People on Fri 16 Oct, Los Angeles. 3 artists: Bambi (FR), Que Sakamoto and Screeb. Trance and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

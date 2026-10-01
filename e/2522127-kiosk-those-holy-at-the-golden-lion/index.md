@@ -1,6 +1,6 @@
 # KIOSK + THOSE HOLY at The Golden Lion
 
-KIOSK + THOSE HOLY at The Golden Lion on Thu 1 Oct, Manchester. New Wave and Electronica. Preview the line-up and save it on soundcheck.
+KIOSK + THOSE HOLY at The Golden Lion on Thu 1 Oct, Manchester. New Wave and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

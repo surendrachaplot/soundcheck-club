@@ -1,6 +1,6 @@
 # SA - 24.10.2026 | KitKatClub at Bootshaus
 
-SA - 24.10.2026 | KitKatClub at Bootshaus on Sat 24 Oct, Cologne. Preview the line-up and save it on soundcheck.
+SA - 24.10.2026 | KitKatClub at Bootshaus on Sat 24 Oct, Cologne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Underground Legends #3 The Link at Folies Pigalle
 
-Underground Legends #3 The Link at Folies Pigalle on Fri 2 Oct, Paris. 2 artists on the bill: Karl Jefferson and MOON. House and Deep House. Preview the line-up and save it on soundcheck.
+Underground Legends #3 The Link at Folies Pigalle on Fri 2 Oct, Paris. 2 artists: Karl Jefferson and MOON. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

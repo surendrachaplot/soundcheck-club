@@ -1,8 +1,8 @@
 # Myd
 
-Myd is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lux Fragil, Lisbon on Sat, 3 Oct 2026.
+Myd is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 3 Oct 2026.
 
-Myd is a house and electro artist based in France, tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Lux Fragil, Lisbon on Sat 3 Oct.
+Myd is a house and electro artist based in France, with 111 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 28 more. Often billed alongside Busy P, Breakbot and Cassius. Next up: Lux Fragil, Lisbon on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Myd is a house and electro artist based in France, tracked on soundcheck, with 1
 
 ## Recently played
 
-- ZeyZey, Miami — Thu, 27 Aug 2026
-- Los Globos, Los Angeles — Sat, 22 Aug 2026
-- Le Bain, New York City — Fri, 21 Aug 2026
-- Cova Santa, Ibiza — Sat, 8 Aug 2026
-- Amnesia Ibiza, Ibiza — Fri, 31 Jul 2026
-- TBA - Mairie de Marseille / Vieux port, Marseille — Sat, 11 Jul 2026
-- Chinois Ibiza, Ibiza — Sat, 4 Jul 2026
-- berlinClub, Madrid — Fri, 3 Jul 2026
+- ZeyZey, Miami · Thu, 27 Aug 2026
+- Los Globos, Los Angeles · Sat, 22 Aug 2026
+- Le Bain, New York City · Fri, 21 Aug 2026
+- Cova Santa, Ibiza · Sat, 8 Aug 2026
+- Amnesia Ibiza, Ibiza · Fri, 31 Jul 2026
+- TBA - Mairie de Marseille / Vieux port, Marseille · Sat, 11 Jul 2026
+- Chinois Ibiza, Ibiza · Sat, 4 Jul 2026
+- berlinClub, Madrid · Fri, 3 Jul 2026
 
 ## Shares bills with
 

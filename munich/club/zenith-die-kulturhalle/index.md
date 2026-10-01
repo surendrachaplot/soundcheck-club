@@ -1,8 +1,8 @@
 # Zenith - Die Kulturhalle
 
-Zenith - Die Kulturhalle is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Hardshift" on Fri, 4 Dec 2026.
+Zenith - Die Kulturhalle is a music venue in Munich with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Hardshift" on Fri, 4 Dec 2026.
 
-Zenith - Die Kulturhalle is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including 2HOT2PLAY, Alarico, Angerfist and A.N.I. and 2 more. Browse upcoming dates, start times and who's playing. Lilienthalallee 80939 Munich, Germany.
+Zenith - Die Kulturhalle is a music venue in Munich listed on soundcheck. 2 upcoming gigs, with line-ups including 2HOT2PLAY, Alarico, Angerfist and A.N.I. and 2 more. See dates, start times and who's playing. Lilienthalallee 80939 Munich, Germany.
 
 ## What's on
 

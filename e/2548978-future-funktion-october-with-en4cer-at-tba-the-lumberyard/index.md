@@ -1,6 +1,6 @@
 # Future Funktion - October with En4cer at TBA - The Lumberyard
 
-Future Funktion - October with En4cer at TBA - The Lumberyard on Sat 17 Oct, Seattle. 1 artist on the bill: Drawbird. Disco and Electronica. Preview the line-up and save it on soundcheck.
+Future Funktion - October with En4cer at TBA - The Lumberyard on Sat 17 Oct, Seattle. 1 artist: Drawbird. Disco and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

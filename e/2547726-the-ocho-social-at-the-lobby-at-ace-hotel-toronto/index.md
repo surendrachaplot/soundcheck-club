@@ -1,6 +1,6 @@
 # The Ocho Social at The Lobby at Ace Hotel Toronto
 
-The Ocho Social at The Lobby at Ace Hotel Toronto on Fri 23 Oct, Toronto. Preview the line-up and save it on soundcheck.
+The Ocho Social at The Lobby at Ace Hotel Toronto on Fri 23 Oct, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

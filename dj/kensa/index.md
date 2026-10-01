@@ -1,8 +1,8 @@
 # Kensa
 
-Kensa is a Electro and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+Kensa is a Electro and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
 
-Kensa is an electro and house artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Barcelona, Berlin, Boston and Brussels and 8 more. Often billed alongside Nicky Macha, Timoti and Jayar. Next up: Buda BXL, Brussels on Sat 10 Oct.
+Kensa is an electro and house artist based in United Kingdom, with 59 gigs on soundcheck across Barcelona, Berlin, Boston and Brussels and 8 more. Often billed alongside Nicky Macha, Timoti and Jayar. Next up: Buda BXL, Brussels on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kensa is an electro and house artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Babour Sauvage, Paris — Sat, 26 Sept 2026
-- Starlane Pizza Bar, London — Fri, 18 Sept 2026
-- Les Enfants Brillants, Barcelona — Sat, 25 Jul 2026
-- FOLD, London — Sat, 23 May 2026
-- Hidden, Manchester — Fri, 15 May 2026
-- Buda BXL, Brussels — Fri, 17 Apr 2026
-- Starlane Pizza Bar, London — Fri, 17 Apr 2026
-- The Lion and Lamb, London — Fri, 10 Apr 2026
+- Babour Sauvage, Paris · Sat, 26 Sept 2026
+- Starlane Pizza Bar, London · Fri, 18 Sept 2026
+- Les Enfants Brillants, Barcelona · Sat, 25 Jul 2026
+- FOLD, London · Sat, 23 May 2026
+- Hidden, Manchester · Fri, 15 May 2026
+- Buda BXL, Brussels · Fri, 17 Apr 2026
+- Starlane Pizza Bar, London · Fri, 17 Apr 2026
+- The Lion and Lamb, London · Fri, 10 Apr 2026
 
 ## Shares bills with
 

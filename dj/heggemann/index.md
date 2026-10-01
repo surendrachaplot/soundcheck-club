@@ -1,8 +1,8 @@
 # Mika Heggemann
 
-Mika Heggemann is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
+Mika Heggemann is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Phantom Bar Berlin, Berlin on Wed, 7 Oct 2026.
 
-Mika Heggemann is a techno and trance artist based in Germany, tracked on soundcheck, with 172 sets logged across Amsterdam, Antwerp, Augsburg and Barcelona and 35 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
+Mika Heggemann is a techno and trance artist based in Germany, with 172 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 35 more. Often billed alongside Cleopard2000, Trancemaster Krause and davyboi. Next up: Phantom Bar Berlin, Berlin on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Mika Heggemann is a techno and trance artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Bootshaus, Cologne — Fri, 18 Sept 2026
-- Bootshaus, Cologne — Fri, 18 Sept 2026
-- TBA, Melbourne — Sat, 5 Sept 2026
-- Home The Venue, Sydney — Fri, 4 Sept 2026
-- Colorado Charlie, The Hague — Sun, 30 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
-- Escala25, Lisbon — Sun, 16 Aug 2026
+- Bootshaus, Cologne · Fri, 18 Sept 2026
+- Bootshaus, Cologne · Fri, 18 Sept 2026
+- TBA, Melbourne · Sat, 5 Sept 2026
+- Home The Venue, Sydney · Fri, 4 Sept 2026
+- Colorado Charlie, The Hague · Sun, 30 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Lokschuppen Berlin, Berlin · Fri, 21 Aug 2026
+- Escala25, Lisbon · Sun, 16 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # BLAST//OFF: Ignition Sequence at Bogart House
 
-BLAST//OFF: Ignition Sequence at Bogart House on Sun 18 Oct, New York City. 3 artists on the bill: Kidbrother, Mannie Petty and Mike Schreder. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+BLAST//OFF: Ignition Sequence at Bogart House on Sun 18 Oct, New York City. 3 artists: Kidbrother, Mannie Petty and Mike Schreder. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

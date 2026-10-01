@@ -1,6 +1,6 @@
 # ops:x with The Pharcyde at 170 Russell
 
-ops:x with The Pharcyde at 170 Russell on Sat 5 Dec, Melbourne. Hip-Hop. Preview the line-up and save it on soundcheck.
+ops:x with The Pharcyde at 170 Russell on Sat 5 Dec, Melbourne. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

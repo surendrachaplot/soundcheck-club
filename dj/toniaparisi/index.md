@@ -1,8 +1,8 @@
 # Toni Aparisi
 
-Toni Aparisi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sala Villanos, Madrid on Sat, 10 Oct 2026.
+Toni Aparisi is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Villanos, Madrid on Sat, 10 Oct 2026.
 
-Toni Aparisi is a house and tech house artist based in Spain, tracked on soundcheck, with 52 sets logged across Barcelona, Berlin, Ibiza and Madrid and 3 more. Often billed alongside lebollet, Arnau Obiols and DIGUES. Next up: Sala Villanos, Madrid on Sat 10 Oct.
+Toni Aparisi is a house and tech house artist based in Spain, with 52 gigs on soundcheck across Barcelona, Berlin, Ibiza and Madrid and 3 more. Often billed alongside lebollet, Arnau Obiols and DIGUES. Next up: Sala Villanos, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Toni Aparisi is a house and tech house artist based in Spain, tracked on soundch
 
 ## Recently played
 
-- Say No More Madrid, Madrid — Fri, 11 Sept 2026
-- Say No More Madrid, Philadelphia — Sat, 5 Sept 2026
-- Say No More Madrid, Madrid — Sat, 29 Aug 2026
-- Say No More Madrid, Madrid — Sat, 20 Jun 2026
-- Barco Sound House, Madrid — Sat, 16 May 2026
-- Gilda Club, Madrid — Fri, 13 Mar 2026
-- Gilda Club, Madrid — Sat, 21 Feb 2026
-- Sala Villanos, Madrid — Fri, 13 Feb 2026
+- Say No More Madrid, Madrid · Fri, 11 Sept 2026
+- Say No More Madrid, Philadelphia · Sat, 5 Sept 2026
+- Say No More Madrid, Madrid · Sat, 29 Aug 2026
+- Say No More Madrid, Madrid · Sat, 20 Jun 2026
+- Barco Sound House, Madrid · Sat, 16 May 2026
+- Gilda Club, Madrid · Fri, 13 Mar 2026
+- Gilda Club, Madrid · Sat, 21 Feb 2026
+- Sala Villanos, Madrid · Fri, 13 Feb 2026
 
 ## Shares bills with
 

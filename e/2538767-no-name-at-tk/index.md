@@ -1,6 +1,6 @@
 # NO NAME at TK
 
-NO NAME at TK on Sun 11 Oct, Tokyo. Techno and Electro. Preview the line-up and save it on soundcheck.
+NO NAME at TK on Sun 11 Oct, Tokyo. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

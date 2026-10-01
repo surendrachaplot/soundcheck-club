@@ -1,6 +1,6 @@
 # Above Oak Fields × Hizuo presents 'Parabéns!' at Club Metro
 
-Above Oak Fields × Hizuo presents 'Parabéns!' at Club Metro on Sun 4 Oct, Kyoto. Preview the line-up and save it on soundcheck.
+Above Oak Fields × Hizuo presents 'Parabéns!' at Club Metro on Sun 4 Oct, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

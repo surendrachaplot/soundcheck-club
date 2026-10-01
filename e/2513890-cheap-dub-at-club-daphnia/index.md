@@ -1,6 +1,6 @@
 # cheap dub at Club Daphnia
 
-cheap dub at Club Daphnia on Wed 14 Oct, Osaka. Downtempo. Preview the line-up and save it on soundcheck.
+cheap dub at Club Daphnia on Wed 14 Oct, Osaka. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

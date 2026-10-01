@@ -1,6 +1,6 @@
 # CHRØNOS at clubasia
 
-CHRØNOS at clubasia on Fri 23 Oct, Tokyo. 5 artists on the bill: DALJAE, egomania, EVE and Sonia Lagoon and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+CHRØNOS at clubasia on Fri 23 Oct, Tokyo. 5 artists: DALJAE, egomania, EVE and Sonia Lagoon and 1 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nico De Andrea at Savaya Bali
 
-Nico De Andrea at Savaya Bali on Sun 25 Oct, Bali. House. Preview the line-up and save it on soundcheck.
+Nico De Andrea at Savaya Bali on Sun 25 Oct, Bali. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

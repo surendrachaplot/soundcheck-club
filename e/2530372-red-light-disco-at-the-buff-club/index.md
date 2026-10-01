@@ -1,6 +1,6 @@
 # Red Light Disco at The Buff Club
 
-Red Light Disco at The Buff Club on Fri 2 Oct, Glasgow. 2 artists on the bill: Daniel Hive and Shaka Loves You. House and Disco. Preview the line-up and save it on soundcheck.
+Red Light Disco at The Buff Club on Fri 2 Oct, Glasgow. 2 artists: Daniel Hive and Shaka Loves You. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

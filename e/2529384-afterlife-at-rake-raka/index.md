@@ -1,6 +1,6 @@
 # AfterLife at rake?raka?
 
-AfterLife at rake?raka? on Sat 24 Oct, Osaka. 2 artists on the bill: Aleyum and Kensuke IWANO. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+AfterLife at rake?raka? on Sat 24 Oct, Osaka. 2 artists: Aleyum and Kensuke IWANO. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

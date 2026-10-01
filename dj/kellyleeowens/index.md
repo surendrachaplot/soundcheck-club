@@ -1,8 +1,8 @@
 # Kelly Lee Owens
 
-Kelly Lee Owens is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pier 48's Shed A, San Francisco/Oakland on Sat, 31 Oct 2026.
+Kelly Lee Owens is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pier 48's Shed A, San Francisco/Oakland on Sat, 31 Oct 2026.
 
-Kelly Lee Owens is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Barcelona, Brighton, Bristol and Budapest and 19 more. Often billed alongside George Daniel, Oscar Farrell and Leon Vynehall. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 31 Oct.
+Kelly Lee Owens is a techno and electro artist based in United Kingdom, with 52 gigs on soundcheck across Barcelona, Brighton, Bristol and Budapest and 19 more. Often billed alongside George Daniel, Oscar Farrell and Leon Vynehall. Next up: Pier 48's Shed A, San Francisco/Oakland on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kelly Lee Owens is a techno and electro artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
-- Old Royal Naval College, London — Sun, 2 Aug 2026
-- UNDERCITY, Seoul — Fri, 24 Jul 2026
-- fabric, London — Thu, 9 Jul 2026
-- Concorde 2, Brighton — Fri, 12 Jun 2026
-- Akvárium Klub, Budapest — Sat, 11 Apr 2026
-- DRUMSHEDS, London — Fri, 5 Dec 2025
-- Sneaky Pete's, Edinburgh — Sun, 23 Nov 2025
+- Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
+- Old Royal Naval College, London · Sun, 2 Aug 2026
+- UNDERCITY, Seoul · Fri, 24 Jul 2026
+- fabric, London · Thu, 9 Jul 2026
+- Concorde 2, Brighton · Fri, 12 Jun 2026
+- Akvárium Klub, Budapest · Sat, 11 Apr 2026
+- DRUMSHEDS, London · Fri, 5 Dec 2025
+- Sneaky Pete's, Edinburgh · Sun, 23 Nov 2025
 
 ## Shares bills with
 

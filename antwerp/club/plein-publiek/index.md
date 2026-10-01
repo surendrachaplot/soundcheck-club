@@ -1,8 +1,8 @@
 # Plein Publiek
 
-Plein Publiek is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "LA FÊTE — Rooftop Session" on Sat, 3 Oct 2026.
+Plein Publiek is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "LA FÊTE — Rooftop Session" on Sat, 3 Oct 2026.
 
-Plein Publiek is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, with line-ups including GuyOhm. Browse upcoming dates, start times and who's playing. Zonnestroomstraat 2A, 2020 Antwerpen, België.
+Plein Publiek is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, with line-ups including GuyOhm. See dates, start times and who's playing. Zonnestroomstraat 2A, 2020 Antwerpen, België.
 
 ## What's on
 

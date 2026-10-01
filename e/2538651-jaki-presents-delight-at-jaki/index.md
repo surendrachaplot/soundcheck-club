@@ -1,6 +1,6 @@
 # JAKI presents: Delight at JAKI
 
-JAKI presents: Delight on Fri 16 Oct, Cologne. 3 artists on the bill: da:sypoda, karete bu and Slippy G.. House. Preview the line-up and save it on soundcheck.
+JAKI presents: Delight on Fri 16 Oct, Cologne. 3 artists: da:sypoda, karete bu and Slippy G.. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

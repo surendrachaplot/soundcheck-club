@@ -1,6 +1,6 @@
 # NIMINO - ADE at Melkweg
 
-NIMINO - ADE at Melkweg on Thu 22 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+NIMINO - ADE at Melkweg on Thu 22 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

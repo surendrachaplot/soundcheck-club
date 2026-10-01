@@ -1,6 +1,6 @@
 # HYBRID: WarinD at Sala Cocó
 
-HYBRID: WarinD at Sala Cocó on Sat 17 Oct, Madrid. 3 artists on the bill: M.I.XX.I, RODS (ES) and WarinD. Techno. Preview the line-up and save it on soundcheck.
+HYBRID: WarinD at Sala Cocó on Sat 17 Oct, Madrid. 3 artists: M.I.XX.I, RODS (ES) and WarinD. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

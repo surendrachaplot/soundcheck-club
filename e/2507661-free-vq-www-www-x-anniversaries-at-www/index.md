@@ -1,6 +1,6 @@
 # free vq WWW & WWW X Anniversaries at WWW
 
-free vq WWW & WWW X Anniversaries on Mon 5 Oct, Tokyo. Electro and Experimental. Preview the line-up and save it on soundcheck.
+free vq WWW & WWW X Anniversaries on Mon 5 Oct, Tokyo. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

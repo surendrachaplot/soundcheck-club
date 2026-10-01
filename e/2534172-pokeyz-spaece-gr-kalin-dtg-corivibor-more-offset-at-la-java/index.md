@@ -1,6 +1,6 @@
 # Pokeyz, Spaece, Grökalin Dtg, Corivibor & More: Offset at La Java
 
-Pokeyz, Spaece, Grökalin Dtg, Corivibor & More: Offset at La Java on Fri 9 Oct, Paris. Techno and Electro. Preview the line-up and save it on soundcheck.
+Pokeyz, Spaece, Grökalin Dtg, Corivibor & More: Offset at La Java on Fri 9 Oct, Paris. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

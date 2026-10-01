@@ -1,6 +1,6 @@
 # KLUENGEL im Artheater with DJ SEXSTASY at Artheater
 
-KLUENGEL im Artheater with DJ SEXSTASY on Fri 9 Oct, Cologne. 8 artists on the bill: DJ SEXSTASY, FLACCO, Gianni and JaeS and 4 more. Techno. Preview the line-up and save it on soundcheck.
+KLUENGEL im Artheater with DJ SEXSTASY on Fri 9 Oct, Cologne. 8 artists: DJ SEXSTASY, FLACCO, Gianni and JaeS and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Blink After Party 2026 at TBA
 
-Blink After Party 2026 at TBA on Sat 10 Oct, Detroit. Techno and House. Preview the line-up and save it on soundcheck.
+Blink After Party 2026 at TBA on Sat 10 Oct, Detroit. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

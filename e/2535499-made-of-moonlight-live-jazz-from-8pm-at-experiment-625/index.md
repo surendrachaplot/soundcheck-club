@@ -1,6 +1,6 @@
 # Made of Moonlight - Live Jazz from 8pm at Experiment 625
 
-Made of Moonlight - Live Jazz from 8pm at Experiment 625 on Thu 29 Oct, Liverpool. Jazz. Preview the line-up and save it on soundcheck.
+Made of Moonlight - Live Jazz from 8pm at Experiment 625 on Thu 29 Oct, Liverpool. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

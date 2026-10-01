@@ -1,6 +1,6 @@
 # DJ Khaled at LIV Nightclub Miami
 
-DJ Khaled at LIV Nightclub Miami on Fri 23 Oct, Miami. Preview the line-up and save it on soundcheck.
+DJ Khaled at LIV Nightclub Miami on Fri 23 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

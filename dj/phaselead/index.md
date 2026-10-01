@@ -1,8 +1,8 @@
 # PhaseLead
 
-PhaseLead is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Atdge Seoul, Seoul on Fri, 2 Oct 2026.
+PhaseLead is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Atdge Seoul, Seoul on Fri, 2 Oct 2026.
 
-PhaseLead is a techno and trance artist based in South Korea, tracked on soundcheck, with 31 sets logged across Seoul. Often billed alongside m.bience, Alan Jéon and Dextune. Next up: Atdge Seoul, Seoul on Fri 2 Oct.
+PhaseLead is a techno and trance artist based in South Korea, with 31 gigs on soundcheck across Seoul. Often billed alongside m.bience, Alan Jéon and Dextune. Next up: Atdge Seoul, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ PhaseLead is a techno and trance artist based in South Korea, tracked on soundch
 
 ## Recently played
 
-- Atdge Seoul, Seoul — Wed, 16 Sept 2026
-- Atdge Seoul, Seoul — Fri, 11 Sept 2026
-- Atdge Seoul, Seoul — Wed, 19 Aug 2026
-- Atdge Seoul, Seoul — Sat, 25 Jul 2026
-- Atdge Seoul, Seoul — Sat, 4 Jul 2026
-- Atdge Seoul, Seoul — Sat, 13 Jun 2026
-- Atdge Seoul, Seoul — Fri, 24 Apr 2026
-- Atdge Seoul, Seoul — Sat, 28 Mar 2026
+- Atdge Seoul, Seoul · Wed, 16 Sept 2026
+- Atdge Seoul, Seoul · Fri, 11 Sept 2026
+- Atdge Seoul, Seoul · Wed, 19 Aug 2026
+- Atdge Seoul, Seoul · Sat, 25 Jul 2026
+- Atdge Seoul, Seoul · Sat, 4 Jul 2026
+- Atdge Seoul, Seoul · Sat, 13 Jun 2026
+- Atdge Seoul, Seoul · Fri, 24 Apr 2026
+- Atdge Seoul, Seoul · Sat, 28 Mar 2026
 
 ## Shares bills with
 

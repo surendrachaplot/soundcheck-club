@@ -1,8 +1,8 @@
 # Razzmatazz 3
 
-Razzmatazz 3 is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dublon (live with band) en microdosis - Razzmatazz 3, BCN" on Wed, 28 Oct 2026.
+Razzmatazz 3 is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dublon (live with band) en microdosis - Razzmatazz 3, BCN" on Wed, 28 Oct 2026.
 
-Razzmatazz 3 is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Dublon and Jafunk. Browse upcoming dates, start times and who's playing. Calle Pamplona 88 Barcelona.
+Razzmatazz 3 is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Dublon and Jafunk. See dates, start times and who's playing. Calle Pamplona 88 Barcelona.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Sholim Eso
 
-Sholim Eso is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
+Sholim Eso is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-Sholim Eso is a techno and house artist based in Montenegro, tracked on soundcheck, with 30 sets logged across Mexico City and San Francisco/Oakland. Often billed alongside Fawks, Jumpr and likeholywine. Next up: The Great Northern, San Francisco/Oakland on Fri 30 Oct.
+Sholim Eso is a techno and house artist based in Montenegro, with 30 gigs on soundcheck across Mexico City and San Francisco/Oakland. Often billed alongside Fawks, Jumpr and likeholywine. Next up: The Great Northern, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sholim Eso is a techno and house artist based in Montenegro, tracked on soundche
 
 ## Recently played
 
-- The Foundry, San Francisco/Oakland — Sun, 27 Sept 2026
-- F8 1192 Folsom, San Francisco/Oakland — Fri, 7 Aug 2026
-- The Great Northern, San Francisco/Oakland — Fri, 29 May 2026
-- TBA - Eje Central Lázaro Cárdenas 123, Sexto Piso, CDMX, Mexico City — Sun, 1 Feb 2026
-- Club Six, San Francisco/Oakland — Fri, 21 Nov 2025
-- F8 1192 Folsom, San Francisco/Oakland — Fri, 14 Nov 2025
-- F8 1192 Folsom, San Francisco/Oakland — Fri, 31 Oct 2025
-- The San Francisco Mint, San Francisco/Oakland — Fri, 26 Sept 2025
+- The Foundry, San Francisco/Oakland · Sun, 27 Sept 2026
+- F8 1192 Folsom, San Francisco/Oakland · Fri, 7 Aug 2026
+- The Great Northern, San Francisco/Oakland · Fri, 29 May 2026
+- TBA - Eje Central Lázaro Cárdenas 123, Sexto Piso, CDMX, Mexico City · Sun, 1 Feb 2026
+- Club Six, San Francisco/Oakland · Fri, 21 Nov 2025
+- F8 1192 Folsom, San Francisco/Oakland · Fri, 14 Nov 2025
+- F8 1192 Folsom, San Francisco/Oakland · Fri, 31 Oct 2025
+- The San Francisco Mint, San Francisco/Oakland · Fri, 26 Sept 2025
 
 ## Shares bills with
 

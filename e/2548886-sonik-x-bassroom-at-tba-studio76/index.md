@@ -1,6 +1,6 @@
 # SONIK x BASSROOM at TBA - Studio76
 
-SONIK x BASSROOM at TBA - Studio76 on Sat 24 Oct, Madrid. Preview the line-up and save it on soundcheck.
+SONIK x BASSROOM at TBA - Studio76 on Sat 24 Oct, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

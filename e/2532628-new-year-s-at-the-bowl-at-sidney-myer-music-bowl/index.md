@@ -1,6 +1,6 @@
 # New Year's At The Bowl at Sidney Myer Music Bowl
 
-New Year's At The Bowl at Sidney Myer Music Bowl on Thu 31 Dec, Melbourne. 11 artists on the bill: Adriana, CC:DISCO!, Claire O'Brien and DJ Seinfeld and 7 more. Preview the line-up and save it on soundcheck.
+New Year's At The Bowl at Sidney Myer Music Bowl on Thu 31 Dec, Melbourne. 11 artists: Adriana, CC:DISCO!, Claire O'Brien and DJ Seinfeld and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

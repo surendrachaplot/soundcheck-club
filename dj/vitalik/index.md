@@ -1,8 +1,8 @@
 # Vitalik
 
-Vitalik is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Vitalik is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
-Vitalik is a techno and trance artist based in United States of America, tracked on soundcheck, with 15 sets logged across Austin, Ibiza, New York City and Washington DC. Often billed alongside Homotopies, Lucía Beyond and Matthew Cha. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+Vitalik is a techno and trance artist based in United States of America, with 15 gigs on soundcheck across Austin, Ibiza, New York City and Washington DC. Often billed alongside Homotopies, Lucía Beyond and Matthew Cha. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Vitalik is a techno and trance artist based in United States of America, tracked
 
 ## Recently played
 
-- Honey's, New York City — Sun, 23 Aug 2026
-- Bossa Nova Civic Club, New York City — Sat, 27 Jun 2026
-- TBA - 1124 Congress St NE, 2nd Floor - Fabrica, Washington DC — Sat, 28 Feb 2026
-- 528 Ibiza, Ibiza — Tue, 12 Aug 2025
-- TBA, Austin — Tue, 31 Dec 2024
-- Club Eternal, Austin — Sat, 28 Dec 2024
-- Highland Lounge, Austin — Fri, 15 Nov 2024
-- Club Eternal, Austin — Sat, 19 Oct 2024
+- Honey's, New York City · Sun, 23 Aug 2026
+- Bossa Nova Civic Club, New York City · Sat, 27 Jun 2026
+- TBA - 1124 Congress St NE, 2nd Floor - Fabrica, Washington DC · Sat, 28 Feb 2026
+- 528 Ibiza, Ibiza · Tue, 12 Aug 2025
+- TBA, Austin · Tue, 31 Dec 2024
+- Club Eternal, Austin · Sat, 28 Dec 2024
+- Highland Lounge, Austin · Fri, 15 Nov 2024
+- Club Eternal, Austin · Sat, 19 Oct 2024
 
 ## Shares bills with
 

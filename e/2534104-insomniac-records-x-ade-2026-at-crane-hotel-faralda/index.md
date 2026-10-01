@@ -1,6 +1,6 @@
 # Insomniac Records x ADE 2026 at Crane Hotel Faralda
 
-Insomniac Records x ADE 2026 at Crane Hotel Faralda on Thu 22 Oct, Amsterdam. House and Tech House. Preview the line-up and save it on soundcheck.
+Insomniac Records x ADE 2026 at Crane Hotel Faralda on Thu 22 Oct, Amsterdam. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

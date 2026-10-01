@@ -1,6 +1,6 @@
 # Index: Eddie Halliwell & Mauro Picotto at Index
 
-Index: Eddie Halliwell & Mauro Picotto on Fri 6 Nov, Dublin. 2 artists on the bill: Eddie Halliwell and Mauro Picotto. Electronica. Preview the line-up and save it on soundcheck.
+Index: Eddie Halliwell & Mauro Picotto on Fri 6 Nov, Dublin. 2 artists: Eddie Halliwell and Mauro Picotto. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sasha & John Digweed at Frontón Bucareli
 
-Sasha & John Digweed at Frontón Bucareli on Fri 2 Oct, Mexico City. 2 artists on the bill: John Digweed and Sasha. Progressive House and House. Preview the line-up and save it on soundcheck.
+Sasha & John Digweed at Frontón Bucareli on Fri 2 Oct, Mexico City. 2 artists: John Digweed and Sasha. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

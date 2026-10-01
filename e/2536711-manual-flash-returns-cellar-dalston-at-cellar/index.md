@@ -1,6 +1,6 @@
 # Manual Flash Returns @ Cellar Dalston at Cellar
 
-Manual Flash Returns @ Cellar Dalston on Sat 7 Nov, London. 3 artists on the bill: Daniel Pereira, Mr. Freeze and Sparky (AU). House. Preview the line-up and save it on soundcheck.
+Manual Flash Returns @ Cellar Dalston on Sat 7 Nov, London. 3 artists: Daniel Pereira, Mr. Freeze and Sparky (AU). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

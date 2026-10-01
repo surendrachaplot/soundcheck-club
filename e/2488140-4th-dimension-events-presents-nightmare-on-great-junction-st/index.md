@@ -1,6 +1,6 @@
 # 4TH DIMENSION EVENTS PRESENTS NIGHTMARE ON GREAT JUNCTION STREET 3.0 at Sketchy Beats Cafe
 
-4TH DIMENSION EVENTS PRESENTS NIGHTMARE ON GREAT JUNCTION STREET 3.0 at Sketchy Beats Cafe on Sat 31 Oct, Edinburgh. Trance and Techno. Preview the line-up and save it on soundcheck.
+4TH DIMENSION EVENTS PRESENTS NIGHTMARE ON GREAT JUNCTION STREET 3.0 at Sketchy Beats Cafe on Sat 31 Oct, Edinburgh. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

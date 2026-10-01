@@ -1,6 +1,6 @@
 # CRIMEWAVE at Bar Le Ritz PDB
 
-CRIMEWAVE at Bar Le Ritz PDB on Fri 23 Oct, Montreal. Preview the line-up and save it on soundcheck.
+CRIMEWAVE at Bar Le Ritz PDB on Fri 23 Oct, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jaimee Sips
 
-Jaimee Sips is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "WNDRHS DAY RAVE MONTREAL 001" on Sun, 4 Oct 2026.
+Jaimee Sips is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "WNDRHS DAY RAVE MONTREAL 001" on Sun, 4 Oct 2026.
 
-Jaimee Sips is a music venue in Montreal listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1051 rue Bernard Outremont, Montreal, Quebec H2V 1V2.
+Jaimee Sips is a music venue in Montreal listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1051 rue Bernard Outremont, Montreal, Quebec H2V 1V2.
 
 ## What's on
 

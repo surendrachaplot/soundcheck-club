@@ -1,6 +1,6 @@
 # GUCHUK presents: [ABOPF - Delusion Single Release Showcase] at vurt.
 
-GUCHUK presents: [ABOPF - Delusion Single Release Showcase] at vurt. on Fri 9 Oct, Seoul. 4 artists on the bill: ABOPF, Einox, Inger and ROXY. Techno and Experimental. Preview the line-up and save it on soundcheck.
+GUCHUK presents: [ABOPF - Delusion Single Release Showcase] at vurt. on Fri 9 Oct, Seoul. 4 artists: ABOPF, Einox, Inger and ROXY. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

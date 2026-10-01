@@ -1,8 +1,8 @@
 # Lisa Loud
 
-Lisa Loud is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at People's Leisure Club, Edinburgh on Sat, 14 Nov 2026.
+Lisa Loud is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at People's Leisure Club, Edinburgh on Sat, 14 Nov 2026.
 
-Lisa Loud is a house and disco artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Brighton, Edinburgh, Glasgow and London and 2 more. Often billed alongside Terry Farley, Nancy Noise and Dicky Trisco. Next up: People's Leisure Club, Edinburgh on Sat 14 Nov.
+Lisa Loud is a house and disco artist based in United Kingdom, with 26 gigs on soundcheck across Brighton, Edinburgh, Glasgow and London and 2 more. Often billed alongside Terry Farley, Nancy Noise and Dicky Trisco. Next up: People's Leisure Club, Edinburgh on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lisa Loud is a house and disco artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Patterns, Brighton — Sat, 12 Sept 2026
-- TBA - address sent to all ticket holders , London — Thu, 23 Jul 2026
-- 93 Feet East, London — Sat, 11 Jul 2026
-- Freight Brixton, London — Fri, 3 Jul 2026
-- The Hammer & Pincers, Newcastle — Fri, 15 May 2026
-- NUMBER 90 LONDON, London — Sat, 7 Mar 2026
-- Sub Club, Glasgow — Sun, 28 Dec 2025
-- The Magic Garden, London — Fri, 24 Oct 2025
+- Patterns, Brighton · Sat, 12 Sept 2026
+- TBA - address sent to all ticket holders , London · Thu, 23 Jul 2026
+- 93 Feet East, London · Sat, 11 Jul 2026
+- Freight Brixton, London · Fri, 3 Jul 2026
+- The Hammer & Pincers, Newcastle · Fri, 15 May 2026
+- NUMBER 90 LONDON, London · Sat, 7 Mar 2026
+- Sub Club, Glasgow · Sun, 28 Dec 2025
+- The Magic Garden, London · Fri, 24 Oct 2025
 
 ## Shares bills with
 

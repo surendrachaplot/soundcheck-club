@@ -1,6 +1,6 @@
 # MODULE X INNUENDO at MODULE
 
-MODULE X INNUENDO on Fri 2 Oct, Copenhagen. 5 artists on the bill: Danza Mortale, Nick Søe, Selderv and sore point and 1 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+MODULE X INNUENDO on Fri 2 Oct, Copenhagen. 5 artists: Danza Mortale, Nick Søe, Selderv and sore point and 1 more. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

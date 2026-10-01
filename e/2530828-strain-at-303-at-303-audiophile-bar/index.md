@@ -1,6 +1,6 @@
 # Strain at 303 at 303 Audiophile Bar
 
-Strain at 303 at 303 Audiophile Bar on Fri 30 Oct, Barcelona. House and Electro. Preview the line-up and save it on soundcheck.
+Strain at 303 at 303 Audiophile Bar on Fri 30 Oct, Barcelona. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

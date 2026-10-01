@@ -1,6 +1,6 @@
 # OPIOID at Enter Shibuya
 
-OPIOID at Enter Shibuya on Sat 17 Oct, Tokyo. 4 artists on the bill: Blackship, imus, Katsu Arai and KIMNA. Techno. Preview the line-up and save it on soundcheck.
+OPIOID at Enter Shibuya on Sat 17 Oct, Tokyo. 4 artists: Blackship, imus, Katsu Arai and KIMNA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

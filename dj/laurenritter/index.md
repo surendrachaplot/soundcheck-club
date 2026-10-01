@@ -1,8 +1,8 @@
 # Lauren Ritter
 
-Lauren Ritter is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at H0L0, New York City on Sat, 7 Nov 2026.
+Lauren Ritter is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Sat, 7 Nov 2026.
 
-Lauren Ritter is a house and deep house artist tracked on soundcheck, with 59 sets logged across Ibiza, Miami, New York City and San Francisco/Oakland and 1 more. Often billed alongside Maksim, Connie and Asha Jasz. Next up: H0L0, New York City on Sat 7 Nov.
+Lauren Ritter is a house and deep house artist, with 59 gigs on soundcheck across Ibiza, Miami, New York City and San Francisco/Oakland and 1 more. Often billed alongside Maksim, Connie and Asha Jasz. Next up: H0L0, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lauren Ritter is a house and deep house artist tracked on soundcheck, with 59 se
 
 ## Recently played
 
-- Moondog Hifi, New York City — Sat, 19 Sept 2026
-- Refuge, New York City — Fri, 11 Sept 2026
-- Elsewhere, New York City — Sat, 5 Sept 2026
-- Under the K Bridge, New York City — Sat, 15 Aug 2026
-- Refuge, New York City — Sat, 1 Aug 2026
-- Apollo Studio, New York City — Fri, 24 Jul 2026
-- Knockdown Center, New York City — Fri, 10 Jul 2026
-- MAD Radio NYC, New York City — Sat, 20 Jun 2026
+- Moondog Hifi, New York City · Sat, 19 Sept 2026
+- Refuge, New York City · Fri, 11 Sept 2026
+- Elsewhere, New York City · Sat, 5 Sept 2026
+- Under the K Bridge, New York City · Sat, 15 Aug 2026
+- Refuge, New York City · Sat, 1 Aug 2026
+- Apollo Studio, New York City · Fri, 24 Jul 2026
+- Knockdown Center, New York City · Fri, 10 Jul 2026
+- MAD Radio NYC, New York City · Sat, 20 Jun 2026
 
 ## Shares bills with
 

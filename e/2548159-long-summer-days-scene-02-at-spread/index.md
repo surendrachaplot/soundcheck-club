@@ -1,6 +1,6 @@
 # LONG SUMMER DAYS SCENE 02 at Spread
 
-LONG SUMMER DAYS SCENE 02 at Spread on Fri 2 Oct, Tokyo. 2 artists on the bill: Kijta and ultramantra. Techno. Preview the line-up and save it on soundcheck.
+LONG SUMMER DAYS SCENE 02 at Spread on Fri 2 Oct, Tokyo. 2 artists: Kijta and ultramantra. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

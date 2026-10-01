@@ -1,6 +1,6 @@
 # Smolna: Cristobal Pesce, Garage Girls at Smolna
 
-Smolna: Cristobal Pesce, Garage Girls on Sat 7 Nov, Warsaw. 5 artists on the bill: Cristobal Pesce, Immy, Jana Falcon and KENZA and 1 more. Techno and Garage. Preview the line-up and save it on soundcheck.
+Smolna: Cristobal Pesce, Garage Girls on Sat 7 Nov, Warsaw. 5 artists: Cristobal Pesce, Immy, Jana Falcon and KENZA and 1 more. Techno and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

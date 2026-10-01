@@ -1,6 +1,6 @@
 # Underground Event at TBA - Underground Event (sign up link in description)
 
-Underground Event at TBA - Underground Event (sign up link in description) on Sat 24 Oct, New York City. 1 artist on the bill: David Hohme. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Underground Event at TBA - Underground Event (sign up link in description) on Sat 24 Oct, New York City. 1 artist: David Hohme. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

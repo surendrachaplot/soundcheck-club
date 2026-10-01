@@ -1,6 +1,6 @@
 # MM: PARADISO at Międzymiastowa
 
-MM: PARADISO at Międzymiastowa on Sat 24 Oct, Krakow. Tech House. Preview the line-up and save it on soundcheck.
+MM: PARADISO at Międzymiastowa on Sat 24 Oct, Krakow. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

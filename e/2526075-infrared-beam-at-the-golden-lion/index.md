@@ -1,6 +1,6 @@
 # Infrared Beam at The Golden Lion
 
-Infrared Beam at The Golden Lion on Sat 3 Oct, Manchester. Trance and EBM. Preview the line-up and save it on soundcheck.
+Infrared Beam at The Golden Lion on Sat 3 Oct, Manchester. Trance and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

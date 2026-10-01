@@ -1,8 +1,8 @@
 # Vi (PL)
 
-Vi (PL) is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Vi (PL) is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Vi (PL) is a techno and house artist based in Poland, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Krakow and London and 3 more. Often billed alongside ANDRØMEDA, Tving Stage Design and Mordeaux. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Vi (PL) is a techno and house artist based in Poland, with 24 gigs on soundcheck across Barcelona, Berlin, Krakow and London and 3 more. Often billed alongside ANDRØMEDA, Tving Stage Design and Mordeaux. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Vi (PL) is a techno and house artist based in Poland, tracked on soundcheck, wit
 
 ## Recently played
 
-- Jasna 1, Warsaw — Sat, 21 Mar 2026
-- K-Bar Powiśle, Warsaw — Sat, 7 Mar 2026
-- Noce KRK, Krakow — Fri, 31 Oct 2025
-- Jasna 1, Warsaw — Fri, 10 Oct 2025
-- DETROIT CLUB, Barcelona — Fri, 19 Sept 2025
-- Centre Cívic Convent de Sant Agustí, Barcelona — Thu, 18 Sept 2025
-- Hype Park, Krakow — Thu, 28 Aug 2025
-- Jasna 1, Warsaw — Sat, 28 Jun 2025
+- Jasna 1, Warsaw · Sat, 21 Mar 2026
+- K-Bar Powiśle, Warsaw · Sat, 7 Mar 2026
+- Noce KRK, Krakow · Fri, 31 Oct 2025
+- Jasna 1, Warsaw · Fri, 10 Oct 2025
+- DETROIT CLUB, Barcelona · Fri, 19 Sept 2025
+- Centre Cívic Convent de Sant Agustí, Barcelona · Thu, 18 Sept 2025
+- Hype Park, Krakow · Thu, 28 Aug 2025
+- Jasna 1, Warsaw · Sat, 28 Jun 2025
 
 ## Shares bills with
 

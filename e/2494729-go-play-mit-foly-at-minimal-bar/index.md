@@ -1,6 +1,6 @@
 # go.play mit Foly at Minimal Bar
 
-go.play mit Foly at Minimal Bar on Tue 6 Oct, Berlin. 1 artist on the bill: Foly. Preview the line-up and save it on soundcheck.
+go.play mit Foly at Minimal Bar on Tue 6 Oct, Berlin. 1 artist: Foly. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Do Not Go Quiet at Love Shack LDN
 
-Do Not Go Quiet at Love Shack LDN on Fri 13 Nov, London. Trance and Techno. Preview the line-up and save it on soundcheck.
+Do Not Go Quiet at Love Shack LDN on Fri 13 Nov, London. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

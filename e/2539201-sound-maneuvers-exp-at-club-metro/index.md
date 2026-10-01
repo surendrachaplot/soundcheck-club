@@ -1,6 +1,6 @@
 # Sound Maneuvers×EXP at Club Metro
 
-Sound Maneuvers×EXP at Club Metro on Mon 12 Oct, Kyoto. 2 artists on the bill: CH.0 and DJ Mitsu The Beats. Hip-Hop. Preview the line-up and save it on soundcheck.
+Sound Maneuvers×EXP at Club Metro on Mon 12 Oct, Kyoto. 2 artists: CH.0 and DJ Mitsu The Beats. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Attention to Detail 002 at The System
 
-Attention to Detail 002 at The System on Fri 20 Nov, Sheffield. 1 artist on the bill: JustElliot. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Attention to Detail 002 at The System on Fri 20 Nov, Sheffield. 1 artist: JustElliot. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

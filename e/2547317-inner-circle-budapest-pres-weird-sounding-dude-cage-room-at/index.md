@@ -1,6 +1,6 @@
 # Inner Circle Budapest pres. Weird Sounding Dude, Cage Room at Kassa Boat
 
-Inner Circle Budapest pres. Weird Sounding Dude, Cage Room at Kassa Boat on Thu 22 Oct, Budapest. Progressive House and House. Preview the line-up and save it on soundcheck.
+Inner Circle Budapest pres. Weird Sounding Dude, Cage Room at Kassa Boat on Thu 22 Oct, Budapest. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

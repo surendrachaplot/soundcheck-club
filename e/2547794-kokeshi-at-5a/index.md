@@ -1,6 +1,6 @@
 # Kokeshi at 5A
 
-Kokeshi at 5A on Fri 23 Oct, Lisbon. 1 artist on the bill: Kokeshi. Preview the line-up and save it on soundcheck.
+Kokeshi at 5A on Fri 23 Oct, Lisbon. 1 artist: Kokeshi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

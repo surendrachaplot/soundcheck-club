@@ -1,8 +1,8 @@
 # Toyroom Malta
 
-Toyroom Malta is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "PLAYROOM - BIGGEST HALLOWEEN EVENT MALTA" on Fri, 30 Oct 2026.
+Toyroom Malta is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "PLAYROOM - BIGGEST HALLOWEEN EVENT MALTA" on Fri, 30 Oct 2026.
 
-Toyroom Malta is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including MIZAK. Browse upcoming dates, start times and who's playing. St George's Road, St Julian's STJ 3200.
+Toyroom Malta is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including MIZAK. See dates, start times and who's playing. St George's Road, St Julian's STJ 3200.
 
 ## What's on
 

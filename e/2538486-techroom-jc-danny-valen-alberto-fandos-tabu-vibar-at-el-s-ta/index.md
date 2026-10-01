@@ -1,6 +1,6 @@
 # TECHROOM: JC, Danny Valen, Alberto Fandos, Tabu Vibar at EL SÓTANO
 
-TECHROOM: JC, Danny Valen, Alberto Fandos, Tabu Vibar at EL SÓTANO on Thu 8 Oct, Madrid. House and Tech House. Preview the line-up and save it on soundcheck.
+TECHROOM: JC, Danny Valen, Alberto Fandos, Tabu Vibar at EL SÓTANO on Thu 8 Oct, Madrid. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

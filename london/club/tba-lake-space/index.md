@@ -1,8 +1,8 @@
 # TBA - Lake Space
 
-TBA - Lake Space is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Lake Lab 02: Dead Signal by Coaxial Point" on Fri, 9 Oct 2026.
+TBA - Lake Space is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Lake Lab 02: Dead Signal by Coaxial Point" on Fri, 9 Oct 2026.
 
-TBA - Lake Space is a music venue in London listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
+TBA - Lake Space is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 

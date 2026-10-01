@@ -1,6 +1,6 @@
 # CRUSH (FR) at Sigurd CPH
 
-CRUSH (FR) at Sigurd CPH on Sat 24 Oct, Copenhagen. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+CRUSH (FR) at Sigurd CPH on Sat 24 Oct, Copenhagen. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # La Cova Loca at La Cova
 
-La Cova Loca on Sat 17 Oct, Hamburg. 1 artist on the bill: AH-N!CE. Techno. Preview the line-up and save it on soundcheck.
+La Cova Loca on Sat 17 Oct, Hamburg. 1 artist: AH-N!CE. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Microdose 002 at The Bunker @ The Rolling Stock
 
-Microdose 002 at The Bunker @ The Rolling Stock on Fri 9 Oct, London. 2 artists on the bill: Marcelina Wick and Neha. House and Minimal. Preview the line-up and save it on soundcheck.
+Microdose 002 at The Bunker @ The Rolling Stock on Fri 9 Oct, London. 2 artists: Marcelina Wick and Neha. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

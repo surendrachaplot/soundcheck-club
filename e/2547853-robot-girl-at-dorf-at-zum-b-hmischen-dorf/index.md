@@ -1,6 +1,6 @@
 # Robot Girl at Dorf at Zum Böhmischen Dorf
 
-Robot Girl at Dorf at Zum Böhmischen Dorf on Sat 3 Oct, Berlin. 1 artist on the bill: Robot Girl. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Robot Girl at Dorf at Zum Böhmischen Dorf on Sat 3 Oct, Berlin. 1 artist: Robot Girl. Disco and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

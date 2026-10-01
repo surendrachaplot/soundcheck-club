@@ -1,6 +1,6 @@
 # Mas Que Nada (Halloween Party) at The Jazz Cafe
 
-Mas Que Nada (Halloween Party) at The Jazz Cafe on Sat 31 Oct, London. 1 artist on the bill: Mas Que Nada Brothers. House and Disco. Preview the line-up and save it on soundcheck.
+Mas Que Nada (Halloween Party) at The Jazz Cafe on Sat 31 Oct, London. 1 artist: Mas Que Nada Brothers. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

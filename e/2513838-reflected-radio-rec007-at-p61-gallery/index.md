@@ -1,6 +1,6 @@
 # Reflected Radio [REC007] at P61 Gallery
 
-Reflected Radio [REC007] at P61 Gallery on Fri 18 Dec, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Reflected Radio [REC007] at P61 Gallery on Fri 18 Dec, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

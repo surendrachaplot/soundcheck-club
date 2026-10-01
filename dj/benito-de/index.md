@@ -1,8 +1,8 @@
 # BENITO (DE)
 
-BENITO (DE) is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+BENITO (DE) is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
-BENITO (DE) is a trance and techno artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside Limoncello, BRTLGR and Bruno Brero. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+BENITO (DE) is a trance and techno artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Hamburg and Leipzig and 1 more. Often billed alongside Limoncello, BRTLGR and Bruno Brero. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ BENITO (DE) is a trance and techno artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Fundbureau, Hamburg — Sat, 5 Sept 2026
-- Skatecafe, Amsterdam — Sat, 29 Aug 2026
-- OST, Berlin — Sat, 22 Aug 2026
-- TBA - Leipzig Neue Messe, Leipzig — Sat, 18 Jul 2026
-- Absturz, Leipzig — Fri, 17 Jul 2026
-- Lokschuppen Berlin, Berlin — Sun, 12 Jul 2026
-- Lokschuppen Berlin, Berlin — Fri, 10 Jul 2026
-- Strandbad Erkner, Berlin — Sat, 30 May 2026
+- Fundbureau, Hamburg · Sat, 5 Sept 2026
+- Skatecafe, Amsterdam · Sat, 29 Aug 2026
+- OST, Berlin · Sat, 22 Aug 2026
+- TBA - Leipzig Neue Messe, Leipzig · Sat, 18 Jul 2026
+- Absturz, Leipzig · Fri, 17 Jul 2026
+- Lokschuppen Berlin, Berlin · Sun, 12 Jul 2026
+- Lokschuppen Berlin, Berlin · Fri, 10 Jul 2026
+- Strandbad Erkner, Berlin · Sat, 30 May 2026
 
 ## Shares bills with
 

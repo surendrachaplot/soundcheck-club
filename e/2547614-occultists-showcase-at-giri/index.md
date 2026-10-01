@@ -1,6 +1,6 @@
 # Occultists Showcase at Giri
 
-Occultists Showcase at Giri on Wed 28 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Occultists Showcase at Giri on Wed 28 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

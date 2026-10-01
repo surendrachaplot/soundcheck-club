@@ -1,6 +1,6 @@
 # RARE 5 Years at Amp
 
-RARE 5 Years at Amp on Fri 2 Oct, Munster. 4 artists on the bill: DJ YARAK, dylliboi_91, Luzinka and Plattenlieferant. Trance and Techno. Preview the line-up and save it on soundcheck.
+RARE 5 Years at Amp on Fri 2 Oct, Munster. 4 artists: DJ YARAK, dylliboi_91, Luzinka and Plattenlieferant. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

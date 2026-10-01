@@ -1,8 +1,8 @@
 # BrthrMidnyt
 
-BrthrMidnyt is a EBM and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Golden Pudel Club, Hamburg on Sat, 3 Oct 2026.
+BrthrMidnyt is a EBM and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Golden Pudel Club, Hamburg on Sat, 3 Oct 2026.
 
-BrthrMidnyt is an ebm and electro artist based in United States of America, tracked on soundcheck, with 9 sets logged across Berlin and Hamburg. Often billed alongside Bézier, La Carpio and cristian zanotti. Next up: Golden Pudel Club, Hamburg on Sat 3 Oct.
+BrthrMidnyt is an ebm and electro artist based in United States of America, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Bézier, La Carpio and cristian zanotti. Next up: Golden Pudel Club, Hamburg on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ BrthrMidnyt is an ebm and electro artist based in United States of America, trac
 
 ## Recently played
 
-- TBA, Berlin — Fri, 11 Sept 2026
-- Beate Uwe, Berlin — Sat, 25 Jul 2026
-- TBA - Secret Location, Berlin — Fri, 17 Jul 2026
-- Ficken 3000, Berlin — Sun, 19 Apr 2026
-- Zur Klappe, Berlin — Sat, 25 Oct 2025
-- Golden Pudel Club, Hamburg — Fri, 3 Oct 2025
-- Lark, Berlin — Sat, 30 Aug 2025
-- Zur Klappe, Berlin — Sat, 17 May 2025
+- TBA, Berlin · Fri, 11 Sept 2026
+- Beate Uwe, Berlin · Sat, 25 Jul 2026
+- TBA - Secret Location, Berlin · Fri, 17 Jul 2026
+- Ficken 3000, Berlin · Sun, 19 Apr 2026
+- Zur Klappe, Berlin · Sat, 25 Oct 2025
+- Golden Pudel Club, Hamburg · Fri, 3 Oct 2025
+- Lark, Berlin · Sat, 30 Aug 2025
+- Zur Klappe, Berlin · Sat, 17 May 2025
 
 ## Shares bills with
 

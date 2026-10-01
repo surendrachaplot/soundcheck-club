@@ -1,6 +1,6 @@
 # temp_001 at YSY
 
-temp_001 at YSY on Sun 18 Oct, Berlin. 3 artists on the bill: Alfieri, Dr. Sud and Funken. Downtempo and Dub. Preview the line-up and save it on soundcheck.
+temp_001 at YSY on Sun 18 Oct, Berlin. 3 artists: Alfieri, Dr. Sud and Funken. Downtempo and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Field of Frogs - After Dark #1 at TBA - Members will be informed
 
-Field of Frogs - After Dark #1 at TBA - Members will be informed on Fri 6 Nov, London. Club and Electronica. Preview the line-up and save it on soundcheck.
+Field of Frogs - After Dark #1 at TBA - Members will be informed on Fri 6 Nov, London. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

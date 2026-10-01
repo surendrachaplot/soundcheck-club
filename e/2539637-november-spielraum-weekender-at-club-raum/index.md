@@ -1,6 +1,6 @@
 # November SPIELRAUM Weekender at CLUB RAUM
 
-November SPIELRAUM Weekender at CLUB RAUM on Fri 13 Nov, Amsterdam. 15 artists on the bill: DJ Masda, Efdemin, GiGi FM and John Talabot and 11 more. Preview the line-up and save it on soundcheck.
+November SPIELRAUM Weekender at CLUB RAUM on Fri 13 Nov, Amsterdam. 15 artists: DJ Masda, Efdemin, GiGi FM and John Talabot and 11 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

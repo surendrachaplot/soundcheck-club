@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Tue 6 Oct, Milan. Drum & Bass and Experimental. Preview the line-up and save it on soundcheck.
+BARDO on Tue 6 Oct, Milan. Drum & Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

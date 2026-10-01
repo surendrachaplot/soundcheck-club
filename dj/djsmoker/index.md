@@ -1,8 +1,8 @@
 # DJ Smoker
 
-DJ Smoker is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Berkeley Suite, Glasgow on Fri, 2 Oct 2026.
+DJ Smoker is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Berkeley Suite, Glasgow on Fri, 2 Oct 2026.
 
-DJ Smoker is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Edinburgh and Glasgow. Often billed alongside Lovejoy, Andy Barton and Craigen. Next up: The Berkeley Suite, Glasgow on Fri 2 Oct.
+DJ Smoker is a techno and trance artist based in United Kingdom, with 49 gigs on soundcheck across Edinburgh and Glasgow. Often billed alongside Lovejoy, Andy Barton and Craigen. Next up: The Berkeley Suite, Glasgow on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Smoker is a techno and trance artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Argyle Arcade (Buchanan Street Entrance), Glasgow — Sat, 19 Sept 2026
-- The Berkeley Suite, Glasgow — Fri, 7 Aug 2026
-- The Berkeley Suite, Glasgow — Fri, 5 Jun 2026
-- The Berkeley Suite, Glasgow — Fri, 3 Apr 2026
-- The Berkeley Suite, Glasgow — Fri, 6 Feb 2026
-- The Mash House, Edinburgh — Sat, 27 Dec 2025
-- The Berkeley Suite, Glasgow — Fri, 3 Oct 2025
-- The Berkeley Suite, Glasgow — Fri, 5 Sept 2025
+- Argyle Arcade (Buchanan Street Entrance), Glasgow · Sat, 19 Sept 2026
+- The Berkeley Suite, Glasgow · Fri, 7 Aug 2026
+- The Berkeley Suite, Glasgow · Fri, 5 Jun 2026
+- The Berkeley Suite, Glasgow · Fri, 3 Apr 2026
+- The Berkeley Suite, Glasgow · Fri, 6 Feb 2026
+- The Mash House, Edinburgh · Sat, 27 Dec 2025
+- The Berkeley Suite, Glasgow · Fri, 3 Oct 2025
+- The Berkeley Suite, Glasgow · Fri, 5 Sept 2025
 
 ## Shares bills with
 

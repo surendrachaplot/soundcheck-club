@@ -1,6 +1,6 @@
 # Stamina at Bar du Matin
 
-Stamina at Bar du Matin on Fri 2 Oct, Brussels. 2 artists on the bill: Kriika and WHYDANCING. Preview the line-up and save it on soundcheck.
+Stamina at Bar du Matin on Fri 2 Oct, Brussels. 2 artists: Kriika and WHYDANCING. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

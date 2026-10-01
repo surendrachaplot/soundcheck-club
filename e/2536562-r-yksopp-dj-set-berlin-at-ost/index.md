@@ -1,6 +1,6 @@
 # RÖYKSOPP DJ Set | Berlin at OST
 
-RÖYKSOPP DJ Set | Berlin at OST on Sat 24 Oct, Berlin. House and Downtempo. Preview the line-up and save it on soundcheck.
+RÖYKSOPP DJ Set | Berlin at OST on Sat 24 Oct, Berlin. House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

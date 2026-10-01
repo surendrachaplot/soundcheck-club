@@ -1,6 +1,6 @@
 # GATE - Mystic Dream at TBA
 
-GATE - Mystic Dream at TBA on Fri 6 Nov, Berlin. 1 artist on the bill: August Kind. Trance. Preview the line-up and save it on soundcheck.
+GATE - Mystic Dream at TBA on Fri 6 Nov, Berlin. 1 artist: August Kind. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

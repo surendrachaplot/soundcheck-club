@@ -1,6 +1,6 @@
 # Theo Parrish at Frankhan Selectist
 
-Theo Parrish at Frankhan Selectist on Sat 7 Nov, Istanbul. 1 artist on the bill: Theo Parrish. Preview the line-up and save it on soundcheck.
+Theo Parrish at Frankhan Selectist on Sat 7 Nov, Istanbul. 1 artist: Theo Parrish. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

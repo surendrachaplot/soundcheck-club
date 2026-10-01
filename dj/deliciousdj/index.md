@@ -1,8 +1,8 @@
 # Delicious DJ
 
-Delicious DJ is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
+Delicious DJ is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
 
-Delicious DJ is a house and disco artist based in Canada, tracked on soundcheck, with 28 sets logged across Toronto. Often billed alongside DR 4SKYN, Prince Batrick and XANGA. Next up: 131 Mccormack St, Toronto on Sat 3 Oct.
+Delicious DJ is a house and disco artist based in Canada, with 28 gigs on soundcheck across Toronto. Often billed alongside DR 4SKYN, Prince Batrick and XANGA. Next up: 131 Mccormack St, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Delicious DJ is a house and disco artist based in Canada, tracked on soundcheck,
 
 ## Recently played
 
-- Buddies in Bad Times, Toronto — Fri, 11 Sept 2026
-- Standard Time, Toronto — Sat, 8 Aug 2026
-- Standard Time, Toronto — Sat, 27 Jun 2026
-- TBA - North DJ Riser (Isabella and Church St), Toronto — Fri, 26 Jun 2026
-- TBA - Toronto - DUNBAT PARK Kensington, Toronto — Sun, 21 Jun 2026
-- Complex19, Toronto — Sat, 20 Jun 2026
-- Crews & Tangos, Toronto — Sat, 30 May 2026
-- Buddies in Bad Times, Toronto — Sat, 9 May 2026
+- Buddies in Bad Times, Toronto · Fri, 11 Sept 2026
+- Standard Time, Toronto · Sat, 8 Aug 2026
+- Standard Time, Toronto · Sat, 27 Jun 2026
+- TBA - North DJ Riser (Isabella and Church St), Toronto · Fri, 26 Jun 2026
+- TBA - Toronto - DUNBAT PARK Kensington, Toronto · Sun, 21 Jun 2026
+- Complex19, Toronto · Sat, 20 Jun 2026
+- Crews & Tangos, Toronto · Sat, 30 May 2026
+- Buddies in Bad Times, Toronto · Sat, 9 May 2026
 
 ## Shares bills with
 

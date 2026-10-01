@@ -1,6 +1,6 @@
 # ITALO GHETTO FREE PARTY: PSYKEDELIA, Keira Meier, Wasco at Tempio del Futuro Perduto
 
-ITALO GHETTO FREE PARTY: PSYKEDELIA, Keira Meier, Wasco at Tempio del Futuro Perduto on Sat 24 Oct, Milan. 2 artists on the bill: Keira Meier and PSYKEDELIA. Preview the line-up and save it on soundcheck.
+ITALO GHETTO FREE PARTY: PSYKEDELIA, Keira Meier, Wasco at Tempio del Futuro Perduto on Sat 24 Oct, Milan. 2 artists: Keira Meier and PSYKEDELIA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

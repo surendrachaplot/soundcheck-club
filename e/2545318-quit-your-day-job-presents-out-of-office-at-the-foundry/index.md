@@ -1,6 +1,6 @@
 # Quit Your Day Job presents: OUT OF OFFICE at The Foundry
 
-Quit Your Day Job presents: OUT OF OFFICE at The Foundry on Fri 2 Oct, San Francisco/Oakland. 3 artists on the bill: natebytheway, Phil Spank and Wax on Oak. Preview the line-up and save it on soundcheck.
+Quit Your Day Job presents: OUT OF OFFICE at The Foundry on Fri 2 Oct, San Francisco/Oakland. 3 artists: natebytheway, Phil Spank and Wax on Oak. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

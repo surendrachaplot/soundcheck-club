@@ -1,8 +1,8 @@
 # adobeprincess
 
-adobeprincess is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Good Room, New York City on Fri, 9 Oct 2026.
+adobeprincess is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Good Room, New York City on Fri, 9 Oct 2026.
 
-adobeprincess is a techno and house artist tracked on soundcheck, with 61 sets logged across Berlin, Brussels, Dublin and London and 9 more. Often billed alongside Jek (US), deep creep and djfix. Next up: Good Room, New York City on Fri 9 Oct.
+adobeprincess is a techno and house artist, with 61 gigs on soundcheck across Berlin, Brussels, Dublin and London and 9 more. Often billed alongside Jek (US), deep creep and djfix. Next up: Good Room, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ adobeprincess is a techno and house artist tracked on soundcheck, with 61 sets l
 
 ## Recently played
 
-- Signal, New York City — Fri, 25 Sept 2026
-- Knockdown Center, New York City — Sun, 6 Sept 2026
-- FOLD, London — Sat, 29 Aug 2026
-- OHM, Berlin — Sat, 22 Aug 2026
-- Backsteinboot, Berlin — Sat, 15 Aug 2026
-- TBA - Secret Location, New York City — Sat, 1 Aug 2026
-- Mansions, New York City — Thu, 11 Jun 2026
-- Nowadays, New York City — Sat, 23 May 2026
+- Signal, New York City · Fri, 25 Sept 2026
+- Knockdown Center, New York City · Sun, 6 Sept 2026
+- FOLD, London · Sat, 29 Aug 2026
+- OHM, Berlin · Sat, 22 Aug 2026
+- Backsteinboot, Berlin · Sat, 15 Aug 2026
+- TBA - Secret Location, New York City · Sat, 1 Aug 2026
+- Mansions, New York City · Thu, 11 Jun 2026
+- Nowadays, New York City · Sat, 23 May 2026
 
 ## Shares bills with
 

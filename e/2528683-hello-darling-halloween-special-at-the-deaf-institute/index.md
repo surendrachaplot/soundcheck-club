@@ -1,6 +1,6 @@
 # Hello Darling - Halloween Special at The Deaf Institute
 
-Hello Darling - Halloween Special at The Deaf Institute on Sat 24 Oct, Manchester. 2 artists on the bill: DJ Scissher and Treble Gemini. House and Disco. Preview the line-up and save it on soundcheck.
+Hello Darling - Halloween Special at The Deaf Institute on Sat 24 Oct, Manchester. 2 artists: DJ Scissher and Treble Gemini. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

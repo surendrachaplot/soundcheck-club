@@ -1,6 +1,6 @@
 # SILOWEEN: Asylum II feat. Xenia at SILO
 
-SILOWEEN: Asylum II feat. Xenia on Sat 31 Oct, New York City. 2 artists on the bill: Firebunny and STEEN. Techno and Industrial. Preview the line-up and save it on soundcheck.
+SILOWEEN: Asylum II feat. Xenia on Sat 31 Oct, New York City. 2 artists: Firebunny and STEEN. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

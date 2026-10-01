@@ -1,6 +1,6 @@
 # WTW (TECHNO) at WOMB
 
-WTW (TECHNO) at WOMB on Wed 7 Oct, Tokyo. 2 artists on the bill: JURI HOSHINO and Monochrome. Techno. Preview the line-up and save it on soundcheck.
+WTW (TECHNO) at WOMB on Wed 7 Oct, Tokyo. 2 artists: JURI HOSHINO and Monochrome. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

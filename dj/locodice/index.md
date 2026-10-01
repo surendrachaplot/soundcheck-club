@@ -1,8 +1,8 @@
 # Loco Dice
 
-Loco Dice is a Tech House and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ministry Of Sound, London on Sat, 3 Oct 2026.
+Loco Dice is a Tech House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Sat, 3 Oct 2026.
 
-Loco Dice is a tech house and house artist based in Tunisia, tracked on soundcheck, with 207 sets logged across Amsterdam, Austin, Bali and Bangkok and 44 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Ministry Of Sound, London on Sat 3 Oct.
+Loco Dice is a tech house and house artist based in Tunisia, with 207 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 44 more. Often billed alongside Jamie Jones, Marco Carola and Seth Troxler. Next up: Ministry Of Sound, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Loco Dice is a tech house and house artist based in Tunisia, tracked on soundche
 
 ## Recently played
 
-- [UNVRS], Ibiza — Wed, 30 Sept 2026
-- Blackstone Street Warehouse, Liverpool — Sat, 26 Sept 2026
-- [UNVRS], Ibiza — Sun, 20 Sept 2026
-- Carroponte, Milan — Sat, 19 Sept 2026
-- IFEMA, Madrid — Fri, 18 Sept 2026
-- IFEMA, Madrid — Fri, 18 Sept 2026
-- The Bassement, Madrid — Fri, 11 Sept 2026
-- Parque Papa Francisco - Bobadela , Loures, Lisbon — Sat, 5 Sept 2026
+- [UNVRS], Ibiza · Wed, 30 Sept 2026
+- Blackstone Street Warehouse, Liverpool · Sat, 26 Sept 2026
+- [UNVRS], Ibiza · Sun, 20 Sept 2026
+- Carroponte, Milan · Sat, 19 Sept 2026
+- IFEMA, Madrid · Fri, 18 Sept 2026
+- IFEMA, Madrid · Fri, 18 Sept 2026
+- The Bassement, Madrid · Fri, 11 Sept 2026
+- Parque Papa Francisco - Bobadela , Loures, Lisbon · Sat, 5 Sept 2026
 
 ## Shares bills with
 

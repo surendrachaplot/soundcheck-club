@@ -1,6 +1,6 @@
 # KONCERT & AIR CROSS TECHNO with Kryzha & HOUSE STAGE at Cross Club
 
-KONCERT & AIR CROSS TECHNO with Kryzha & HOUSE STAGE at Cross Club on Sat 3 Oct, Prague. 5 artists on the bill: Daniel Neighbour, Kryzha, Lillou and MINI S and 1 more. Preview the line-up and save it on soundcheck.
+KONCERT & AIR CROSS TECHNO with Kryzha & HOUSE STAGE at Cross Club on Sat 3 Oct, Prague. 5 artists: Daniel Neighbour, Kryzha, Lillou and MINI S and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

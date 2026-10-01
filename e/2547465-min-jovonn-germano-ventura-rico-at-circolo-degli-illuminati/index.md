@@ -1,6 +1,6 @@
 # MINÛ: Jovonn, Germano Ventura & Rico at Circolo degli Illuminati
 
-MINÛ: Jovonn, Germano Ventura & Rico at Circolo degli Illuminati on Sat 24 Oct, Rome. 3 artists on the bill: Germano Ventura, Jovonn and Ricomusic. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+MINÛ: Jovonn, Germano Ventura & Rico at Circolo degli Illuminati on Sat 24 Oct, Rome. 3 artists: Germano Ventura, Jovonn and Ricomusic. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

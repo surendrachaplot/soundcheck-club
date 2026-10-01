@@ -1,8 +1,8 @@
 # Juli Lee
 
-Juli Lee is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
+Juli Lee is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
 
-Juli Lee is a house and electronica artist based in Switzerland, tracked on soundcheck, with 70 sets logged across Basel, Berlin, Geneva and Hamburg and 3 more. Often billed alongside fabulus, Nici Faerber and Playlove. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
+Juli Lee is a house and electronica artist based in Switzerland, with 70 gigs on soundcheck across Basel, Berlin, Geneva and Hamburg and 3 more. Often billed alongside fabulus, Nici Faerber and Playlove. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Juli Lee is a house and electronica artist based in Switzerland, tracked on soun
 
 ## Recently played
 
-- Studio Zürich, Zurich — Fri, 4 Sept 2026
-- Kauz, Zurich — Sat, 29 Aug 2026
-- Klunkerkranich, Berlin — Fri, 14 Aug 2026
-- Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
-- Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
-- Zürich - Various Venues, Zurich — Mon, 3 Aug 2026
-- Kaschemme Basel, Basel — Sat, 25 Jul 2026
-- Landesmuseum, Zurich — Mon, 20 Jul 2026
+- Studio Zürich, Zurich · Fri, 4 Sept 2026
+- Kauz, Zurich · Sat, 29 Aug 2026
+- Klunkerkranich, Berlin · Fri, 14 Aug 2026
+- Zürich - Various Venues, Zurich · Mon, 3 Aug 2026
+- Zürich - Various Venues, Zurich · Mon, 3 Aug 2026
+- Zürich - Various Venues, Zurich · Mon, 3 Aug 2026
+- Kaschemme Basel, Basel · Sat, 25 Jul 2026
+- Landesmuseum, Zurich · Mon, 20 Jul 2026
 
 ## Shares bills with
 

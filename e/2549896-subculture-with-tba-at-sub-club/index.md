@@ -1,6 +1,6 @@
 # Subculture with TBA at Sub Club
 
-Subculture with TBA at Sub Club on Sat 21 Nov, Glasgow. Preview the line-up and save it on soundcheck.
+Subculture with TBA at Sub Club on Sat 21 Nov, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

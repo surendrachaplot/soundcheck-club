@@ -1,8 +1,8 @@
 # G-Lamour
 
-G-Lamour is a Electronica and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Haus73, Hamburg on Sat, 3 Oct 2026.
+G-Lamour is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Haus73, Hamburg on Sat, 3 Oct 2026.
 
-G-Lamour is an electronica and trance artist based in Germany, tracked on soundcheck, with 11 sets logged across Hamburg. Often billed alongside DJ MILLE, KLARYOKO and Muffel. Next up: Haus73, Hamburg on Sat 3 Oct.
+G-Lamour is an electronica and trance artist based in Germany, with 11 gigs on soundcheck across Hamburg. Often billed alongside DJ MILLE, KLARYOKO and Muffel. Next up: Haus73, Hamburg on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ G-Lamour is an electronica and trance artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Frappant, Hamburg — Fri, 4 Sept 2026
-- Haus73, Hamburg — Sat, 8 Aug 2026
-- Haus73, Hamburg — Fri, 5 Dec 2025
-- Haus73, Hamburg — Thu, 21 Aug 2025
-- MS Stubnitz, Hamburg — Sat, 22 Mar 2025
-- Golden Pudel Club, Hamburg — Thu, 21 Nov 2024
-- Golden Pudel Club, Hamburg — Sat, 24 Feb 2024
-- Uebel & Gefährlich, Hamburg — Sun, 31 Dec 2023
+- Frappant, Hamburg · Fri, 4 Sept 2026
+- Haus73, Hamburg · Sat, 8 Aug 2026
+- Haus73, Hamburg · Fri, 5 Dec 2025
+- Haus73, Hamburg · Thu, 21 Aug 2025
+- MS Stubnitz, Hamburg · Sat, 22 Mar 2025
+- Golden Pudel Club, Hamburg · Thu, 21 Nov 2024
+- Golden Pudel Club, Hamburg · Sat, 24 Feb 2024
+- Uebel & Gefährlich, Hamburg · Sun, 31 Dec 2023
 
 ## Shares bills with
 

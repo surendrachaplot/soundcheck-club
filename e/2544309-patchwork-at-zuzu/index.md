@@ -1,6 +1,6 @@
 # Patchwork at Zuzu
 
-Patchwork at Zuzu on Thu 1 Oct, Boston. 1 artist on the bill: Noizcode. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Patchwork at Zuzu on Thu 1 Oct, Boston. 1 artist: Noizcode. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

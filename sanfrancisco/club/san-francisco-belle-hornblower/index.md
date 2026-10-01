@@ -1,8 +1,8 @@
 # San Francisco Belle Hornblower
 
-San Francisco Belle Hornblower is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sunset Sound System Halloween Costume Boat + After-Party 2026" on Sun, 25 Oct 2026.
+San Francisco Belle Hornblower is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sunset Sound System Halloween Costume Boat + After-Party 2026" on Sun, 25 Oct 2026.
 
-San Francisco Belle Hornblower is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Galen and Solar. Browse upcoming dates, start times and who's playing. TBA.
+San Francisco Belle Hornblower is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig, with line-ups including Galen and Solar. See dates, start times and who's playing. TBA.
 
 ## What's on
 

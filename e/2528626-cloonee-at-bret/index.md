@@ -1,6 +1,6 @@
 # Cloonee at BRET
 
-Cloonee at BRET on Fri 6 Nov, Amsterdam. 1 artist on the bill: Cloonee. House. Preview the line-up and save it on soundcheck.
+Cloonee at BRET on Fri 6 Nov, Amsterdam. 1 artist: Cloonee. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

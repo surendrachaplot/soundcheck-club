@@ -1,8 +1,8 @@
 # BCee
 
-BCee is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Planet Wax, London on Sat, 7 Nov 2026.
+BCee is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Sat, 7 Nov 2026.
 
-BCee is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Austin, Boston and Brighton and 11 more. Often billed alongside BassLayerz, Bryan Gee and Dillinja. Next up: Planet Wax, London on Sat 7 Nov.
+BCee is a drum & bass and jungle artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Austin, Boston and Brighton and 11 more. Often billed alongside BassLayerz, Bryan Gee and Dillinja. Next up: Planet Wax, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ BCee is a drum & bass and jungle artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- fabric, London — Fri, 4 Sept 2026
-- Phoenix Landing, Boston — Thu, 12 Mar 2026
-- Jungle Hollywood, Los Angeles — Fri, 6 Mar 2026
-- EQ San Diego, San Diego — Tue, 3 Mar 2026
-- F8 1192 Folsom, San Francisco/Oakland — Sun, 1 Mar 2026
-- TBA - The Attic, 20 Meadow Street, New York City — Fri, 27 Feb 2026
-- Flash, Washington DC — Sat, 10 Jan 2026
-- MÄX, Zurich — Sat, 20 Dec 2025
+- fabric, London · Fri, 4 Sept 2026
+- Phoenix Landing, Boston · Thu, 12 Mar 2026
+- Jungle Hollywood, Los Angeles · Fri, 6 Mar 2026
+- EQ San Diego, San Diego · Tue, 3 Mar 2026
+- F8 1192 Folsom, San Francisco/Oakland · Sun, 1 Mar 2026
+- TBA - The Attic, 20 Meadow Street, New York City · Fri, 27 Feb 2026
+- Flash, Washington DC · Sat, 10 Jan 2026
+- MÄX, Zurich · Sat, 20 Dec 2025
 
 ## Shares bills with
 

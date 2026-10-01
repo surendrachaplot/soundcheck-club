@@ -1,6 +1,6 @@
 # Fine Art - Session One at TAC (Tottenham Arts Collective)
 
-Fine Art - Session One at TAC (Tottenham Arts Collective) on Sat 12 Dec, London. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Fine Art - Session One at TAC (Tottenham Arts Collective) on Sat 12 Dec, London. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

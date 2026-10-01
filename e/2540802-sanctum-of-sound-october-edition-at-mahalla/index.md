@@ -1,6 +1,6 @@
 # SANCTUM OF SOUND - OCTOBER EDITION at MaHalla
 
-SANCTUM OF SOUND - OCTOBER EDITION at MaHalla on Sun 4 Oct, Berlin. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+SANCTUM OF SOUND - OCTOBER EDITION at MaHalla on Sun 4 Oct, Berlin. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

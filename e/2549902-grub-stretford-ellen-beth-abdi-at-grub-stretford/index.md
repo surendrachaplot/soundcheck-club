@@ -1,6 +1,6 @@
 # GRUB Stretford: Ellen Beth Abdi at Grub Stretford
 
-GRUB Stretford: Ellen Beth Abdi at Grub Stretford on Sat 3 Oct, Manchester. 1 artist on the bill: Ellen Beth Abdi. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
+GRUB Stretford: Ellen Beth Abdi at Grub Stretford on Sat 3 Oct, Manchester. 1 artist: Ellen Beth Abdi. Funk / Soul and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

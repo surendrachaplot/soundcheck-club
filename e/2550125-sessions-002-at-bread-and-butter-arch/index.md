@@ -1,6 +1,6 @@
 # Sessions: 002 at Bread and Butter Arch
 
-Sessions: 002 at Bread and Butter Arch on Thu 8 Oct, London. 1 artist on the bill: Steeziskey. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Sessions: 002 at Bread and Butter Arch on Thu 8 Oct, London. 1 artist: Steeziskey. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

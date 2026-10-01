@@ -1,8 +1,8 @@
 # U-Khan
 
-U-Khan is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sub Club Melbourne, Melbourne on Sat, 3 Oct 2026.
+U-Khan is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club Melbourne, Melbourne on Sat, 3 Oct 2026.
 
-U-Khan is a techno and house artist based in New Zealand, tracked on soundcheck, with 27 sets logged across Melbourne and Sydney. Often billed alongside DJ Stingray 313, Garth Linton and Modulor. Next up: Sub Club Melbourne, Melbourne on Sat 3 Oct.
+U-Khan is a techno and house artist based in New Zealand, with 27 gigs on soundcheck across Melbourne and Sydney. Often billed alongside DJ Stingray 313, Garth Linton and Modulor. Next up: Sub Club Melbourne, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ U-Khan is a techno and house artist based in New Zealand, tracked on soundcheck,
 
 ## Recently played
 
-- Sub Club Melbourne, Melbourne — Sat, 10 Jan 2026
-- Chinese Laundry, Sydney — Sat, 5 Jul 2025
-- Chinese Laundry, Sydney — Sat, 7 Jun 2025
-- Sub Club Melbourne, Melbourne — Sat, 10 May 2025
-- Sub Club Melbourne, Melbourne — Sat, 29 Mar 2025
-- Chinese Laundry, Sydney — Fri, 28 Mar 2025
-- Sub Club Melbourne, Melbourne — Fri, 7 Feb 2025
-- Sub Club Melbourne, Melbourne — Fri, 7 Feb 2025
+- Sub Club Melbourne, Melbourne · Sat, 10 Jan 2026
+- Chinese Laundry, Sydney · Sat, 5 Jul 2025
+- Chinese Laundry, Sydney · Sat, 7 Jun 2025
+- Sub Club Melbourne, Melbourne · Sat, 10 May 2025
+- Sub Club Melbourne, Melbourne · Sat, 29 Mar 2025
+- Chinese Laundry, Sydney · Fri, 28 Mar 2025
+- Sub Club Melbourne, Melbourne · Fri, 7 Feb 2025
+- Sub Club Melbourne, Melbourne · Fri, 7 Feb 2025
 
 ## Shares bills with
 

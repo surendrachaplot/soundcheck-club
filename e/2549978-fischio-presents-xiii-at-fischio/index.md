@@ -1,6 +1,6 @@
 # Fischio presents XIII at Fischio
 
-Fischio presents XIII on Sat 10 Oct, Rome. 1 artist on the bill: XIII. Preview the line-up and save it on soundcheck.
+Fischio presents XIII on Sat 10 Oct, Rome. 1 artist: XIII. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Chichöl
 
-Chichöl is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Azul Rooftop Barceloneta, Barcelona on Sun, 4 Oct 2026.
+Chichöl is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Azul Rooftop Barceloneta, Barcelona on Sun, 4 Oct 2026.
 
-Chichöl is a house and electronica artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Mhauro, Misla and Angel Mellado. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 4 Oct.
+Chichöl is a house and electronica artist based in Spain, with 29 gigs on soundcheck across Barcelona, Berlin and Madrid. Often billed alongside Mhauro, Misla and Angel Mellado. Next up: Azul Rooftop Barceloneta, Barcelona on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Chichöl is a house and electronica artist based in Spain, tracked on soundcheck
 
 ## Recently played
 
-- Almar Beach Club, Barcelona — Sun, 9 Aug 2026
-- berlinClub, Madrid — Fri, 24 Jul 2026
-- Macarena Club, Barcelona — Mon, 8 Jun 2026
-- TBA - Almar Beach Club / Sant Adrià de Besòs , Barcelona — Sat, 2 May 2026
-- Bulbul Berlin, Berlin — Sat, 4 Apr 2026
-- TBA - private rooftop (marina metro station), Barcelona — Sat, 21 Feb 2026
-- The Supermercat Raval, Barcelona — Sun, 8 Feb 2026
-- The Supermercat Gotico, Barcelona — Thu, 8 Jan 2026
+- Almar Beach Club, Barcelona · Sun, 9 Aug 2026
+- berlinClub, Madrid · Fri, 24 Jul 2026
+- Macarena Club, Barcelona · Mon, 8 Jun 2026
+- TBA - Almar Beach Club / Sant Adrià de Besòs , Barcelona · Sat, 2 May 2026
+- Bulbul Berlin, Berlin · Sat, 4 Apr 2026
+- TBA - private rooftop (marina metro station), Barcelona · Sat, 21 Feb 2026
+- The Supermercat Raval, Barcelona · Sun, 8 Feb 2026
+- The Supermercat Gotico, Barcelona · Thu, 8 Jan 2026
 
 ## Shares bills with
 

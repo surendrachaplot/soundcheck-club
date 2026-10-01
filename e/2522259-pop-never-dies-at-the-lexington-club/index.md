@@ -1,6 +1,6 @@
 # Pop Never Dies at The Lexington Club
 
-Pop Never Dies at The Lexington Club on Fri 25 Dec, London. Pop. Preview the line-up and save it on soundcheck.
+Pop Never Dies at The Lexington Club on Fri 25 Dec, London. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

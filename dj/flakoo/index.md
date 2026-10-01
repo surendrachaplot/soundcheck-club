@@ -1,8 +1,8 @@
 # FLAKOO
 
-FLAKOO is a Acid and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Summum, Ibiza on Fri, 16 Oct 2026.
+FLAKOO is a Acid and Neo Perreo artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Summum, Ibiza on Fri, 16 Oct 2026.
 
-FLAKOO is an acid and neo perreo artist based in Spain, tracked on soundcheck, with 18 sets logged across Ibiza and Madrid. Often billed alongside AntZ, Trenzark and Adam Ghoneim. Next up: Summum, Ibiza on Fri 16 Oct.
+FLAKOO is an acid and neo perreo artist based in Spain, with 18 gigs on soundcheck across Ibiza and Madrid. Often billed alongside AntZ, Trenzark and Adam Ghoneim. Next up: Summum, Ibiza on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ FLAKOO is an acid and neo perreo artist based in Spain, tracked on soundcheck, w
 
 ## Recently played
 
-- Summum, Ibiza — Fri, 11 Sept 2026
-- Summum, Ibiza — Fri, 10 Jul 2026
-- Summum, Ibiza — Fri, 5 Jun 2026
-- TBA, Ibiza — Fri, 29 May 2026
-- Summum, Ibiza — Fri, 22 May 2026
-- TBA, Ibiza — Fri, 15 May 2026
-- Summum, Ibiza — Sat, 25 Apr 2026
-- TBA, Ibiza — Fri, 24 Apr 2026
+- Summum, Ibiza · Fri, 11 Sept 2026
+- Summum, Ibiza · Fri, 10 Jul 2026
+- Summum, Ibiza · Fri, 5 Jun 2026
+- TBA, Ibiza · Fri, 29 May 2026
+- Summum, Ibiza · Fri, 22 May 2026
+- TBA, Ibiza · Fri, 15 May 2026
+- Summum, Ibiza · Sat, 25 Apr 2026
+- TBA, Ibiza · Fri, 24 Apr 2026
 
 ## Shares bills with
 

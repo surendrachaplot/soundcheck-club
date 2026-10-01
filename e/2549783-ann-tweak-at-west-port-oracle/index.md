@@ -1,6 +1,6 @@
 # Ann Tweak at West Port Oracle
 
-Ann Tweak at West Port Oracle on Fri 2 Oct, Edinburgh. 1 artist on the bill: Ann Tweak. Disco. Preview the line-up and save it on soundcheck.
+Ann Tweak at West Port Oracle on Fri 2 Oct, Edinburgh. 1 artist: Ann Tweak. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

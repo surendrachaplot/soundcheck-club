@@ -1,8 +1,8 @@
 # NIKOLINA_
 
-NIKOLINA_ is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
+NIKOLINA_ is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E-Werk Kulturzentrum, Nürnberg on Sat, 17 Oct 2026.
 
-NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, with 53 sets logged across Amsterdam, Berlin, Brussels and Budapest and 24 more. Often billed alongside A.N.I., 6EJOU and ALT8. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
+NIKOLINA_ is a techno and house artist based in Germany, with 53 gigs on soundcheck across Amsterdam, Berlin, Brussels and Budapest and 24 more. Often billed alongside A.N.I., 6EJOU and ALT8. Next up: E-Werk Kulturzentrum, Nürnberg on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ NIKOLINA_ is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Tanzhaus West, Frankfurt — Fri, 25 Sept 2026
-- TBA - Grand Parc Miribel Jonage, Lyon — Sat, 12 Sept 2026
-- Laagravense Plas, Utrecht — Sat, 12 Sept 2026
-- Zenith - Die Kulturhalle, Munich — Sat, 12 Sept 2026
-- Fuse, Brussels — Fri, 4 Sept 2026
-- Marienbergpark, Nürnberg — Sat, 29 Aug 2026
-- Warehouse, Nantes — Fri, 28 Aug 2026
-- Plage De Torcy, Paris — Sat, 23 May 2026
+- Tanzhaus West, Frankfurt · Fri, 25 Sept 2026
+- TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
+- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
+- Zenith - Die Kulturhalle, Munich · Sat, 12 Sept 2026
+- Fuse, Brussels · Fri, 4 Sept 2026
+- Marienbergpark, Nürnberg · Sat, 29 Aug 2026
+- Warehouse, Nantes · Fri, 28 Aug 2026
+- Plage De Torcy, Paris · Sat, 23 May 2026
 
 ## Shares bills with
 

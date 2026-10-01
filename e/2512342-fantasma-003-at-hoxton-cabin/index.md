@@ -1,6 +1,6 @@
 # Fantasma 003 at Hoxton Cabin
 
-Fantasma 003 at Hoxton Cabin on Sat 3 Oct, London. 1 artist on the bill: Jordan K Joseph. Preview the line-up and save it on soundcheck.
+Fantasma 003 at Hoxton Cabin on Sat 3 Oct, London. 1 artist: Jordan K Joseph. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

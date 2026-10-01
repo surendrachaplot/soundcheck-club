@@ -1,6 +1,6 @@
 # Bussdown Baddies at Mood Ring
 
-Bussdown Baddies at Mood Ring on Fri 2 Oct, New York City. 3 artists on the bill: Darling Cool, JAMBALAYA and Joogmac. Preview the line-up and save it on soundcheck.
+Bussdown Baddies at Mood Ring on Fri 2 Oct, New York City. 3 artists: Darling Cool, JAMBALAYA and Joogmac. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

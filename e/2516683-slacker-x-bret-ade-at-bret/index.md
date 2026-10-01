@@ -1,6 +1,6 @@
 # SLACKER x BRET - ADE at BRET
 
-SLACKER x BRET - ADE on Thu 22 Oct, Amsterdam. 8 artists on the bill: Gaiser, Marc Houle, Olive F and Rio Tashan and 4 more. House. Preview the line-up and save it on soundcheck.
+SLACKER x BRET - ADE on Thu 22 Oct, Amsterdam. 8 artists: Gaiser, Marc Houle, Olive F and Rio Tashan and 4 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

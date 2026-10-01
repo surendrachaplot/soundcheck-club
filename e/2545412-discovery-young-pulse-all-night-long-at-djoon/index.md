@@ -1,6 +1,6 @@
 # DISCOvery: Young Pulse All Night Long at Djoon
 
-DISCOvery: Young Pulse All Night Long at Djoon on Sat 10 Oct, Paris. 1 artist on the bill: Young Pulse. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+DISCOvery: Young Pulse All Night Long at Djoon on Sat 10 Oct, Paris. 1 artist: Young Pulse. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Sound Machine
 
-Sound Machine is a music venue in Toronto with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Selecta 036" on Thu, 1 Oct 2026.
+Sound Machine is a music venue in Toronto with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Selecta 036" on Thu, 1 Oct 2026.
 
-Sound Machine is a music venue in Toronto listed on soundcheck. 11 upcoming gigs, with line-ups including Chinelo, Dino and Terry, DRS and hadis and 2 more. Browse upcoming dates, start times and who's playing. 178 Bathurst Street.
+Sound Machine is a music venue in Toronto listed on soundcheck. 11 upcoming gigs, with line-ups including Chinelo, Dino and Terry, DRS and hadis and 2 more. See dates, start times and who's playing. 178 Bathurst Street.
 
 ## What's on
 

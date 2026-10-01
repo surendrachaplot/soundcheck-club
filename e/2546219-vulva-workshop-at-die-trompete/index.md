@@ -1,6 +1,6 @@
 # Vulva Workshop at Die Trompete
 
-Vulva Workshop at Die Trompete on Thu 19 Nov, Bochum. Pop. Preview the line-up and save it on soundcheck.
+Vulva Workshop at Die Trompete on Thu 19 Nov, Bochum. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

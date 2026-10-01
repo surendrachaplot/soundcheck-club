@@ -1,6 +1,6 @@
 # Rooléh + Alessio Cristiano at Volt Club Milano
 
-Rooléh + Alessio Cristiano at Volt Club Milano on Thu 1 Oct, Milan. 2 artists on the bill: Alessio Cristiano and Rooléh. House and Tech House. Preview the line-up and save it on soundcheck.
+Rooléh + Alessio Cristiano at Volt Club Milano on Thu 1 Oct, Milan. 2 artists: Alessio Cristiano and Rooléh. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

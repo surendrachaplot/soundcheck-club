@@ -1,6 +1,6 @@
 # Tresor meets WIGS at Tresor / Globus
 
-Tresor meets WIGS at Tresor / Globus on Fri 16 Oct, Berlin. 7 artists on the bill: Afra, Cari Lekebusch, CEM3340 and IMOGEN and 3 more. Preview the line-up and save it on soundcheck.
+Tresor meets WIGS at Tresor / Globus on Fri 16 Oct, Berlin. 7 artists: Afra, Cari Lekebusch, CEM3340 and IMOGEN and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

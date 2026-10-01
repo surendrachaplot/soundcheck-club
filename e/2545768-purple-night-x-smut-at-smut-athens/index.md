@@ -1,6 +1,6 @@
 # Purple Night x SMUT at SMUT Athens
 
-Purple Night x SMUT at SMUT Athens on Fri 9 Oct, Athens. 2 artists on the bill: The Dreamer and WrappeD In PlastiC. Techno and House. Preview the line-up and save it on soundcheck.
+Purple Night x SMUT at SMUT Athens on Fri 9 Oct, Athens. 2 artists: The Dreamer and WrappeD In PlastiC. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ATOM at TBA - Vivero Club 
 
-ATOM at TBA - Vivero Club  on Sat 31 Oct, Buenos Aires. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+ATOM at TBA - Vivero Club  on Sat 31 Oct, Buenos Aires. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

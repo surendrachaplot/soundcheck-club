@@ -1,6 +1,6 @@
 # Wax Museum at Experiment 625
 
-Wax Museum at Experiment 625 on Sat 3 Oct, Liverpool. Drum & Bass and Hip-Hop. Preview the line-up and save it on soundcheck.
+Wax Museum at Experiment 625 on Sat 3 Oct, Liverpool. Drum & Bass and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VASOPRESSION at Panic Room
 
-VASOPRESSION at Panic Room on Wed 21 Oct, Paris. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+VASOPRESSION at Panic Room on Wed 21 Oct, Paris. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

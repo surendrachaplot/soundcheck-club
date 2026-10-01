@@ -1,6 +1,6 @@
 # 77 x Control: Camp Minister, Ellie D at Club 77
 
-77 x Control: Camp Minister, Ellie D at Club 77 on Sun 18 Oct, Sydney. Techno and House. Preview the line-up and save it on soundcheck.
+77 x Control: Camp Minister, Ellie D at Club 77 on Sun 18 Oct, Sydney. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

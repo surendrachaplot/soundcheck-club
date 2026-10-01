@@ -1,6 +1,6 @@
 # Hybrid Minds at BERHTA
 
-Hybrid Minds at BERHTA on Sat 3 Oct, Washington DC. 1 artist on the bill: Hybrid Minds. Drum & Bass. Preview the line-up and save it on soundcheck.
+Hybrid Minds at BERHTA on Sat 3 Oct, Washington DC. 1 artist: Hybrid Minds. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

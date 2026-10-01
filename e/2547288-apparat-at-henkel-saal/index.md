@@ -1,6 +1,6 @@
 # Apparat at Henkel-Saal
 
-Apparat at Henkel-Saal on Wed 7 Oct, Düsseldorf. Electro. Preview the line-up and save it on soundcheck.
+Apparat at Henkel-Saal on Wed 7 Oct, Düsseldorf. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

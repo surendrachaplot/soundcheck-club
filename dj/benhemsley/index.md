@@ -1,8 +1,8 @@
 # Ben Hemsley
 
-Ben Hemsley is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Index, Dublin on Sat, 10 Oct 2026.
+Ben Hemsley is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Index, Dublin on Sat, 10 Oct 2026.
 
-Ben Hemsley is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 170 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside KETTAMA, Hannah Laing and Kyle Starkey. Next up: Index, Dublin on Sat 10 Oct.
+Ben Hemsley is a techno and trance artist based in United Kingdom, with 170 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 37 more. Often billed alongside KETTAMA, Hannah Laing and Kyle Starkey. Next up: Index, Dublin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Ben Hemsley is a techno and trance artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Mon, 28 Sept 2026
-- Amnesia Ibiza, Ibiza — Wed, 23 Sept 2026
-- Amnesia Ibiza, Ibiza — Mon, 21 Sept 2026
-- The Warehouse, Leeds — Sat, 19 Sept 2026
-- Amnesia Ibiza, Ibiza — Mon, 14 Sept 2026
-- Amnesia Ibiza, Ibiza — Mon, 7 Sept 2026
-- Amnesia Ibiza, Ibiza — Mon, 31 Aug 2026
-- Amnesia Ibiza, Ibiza — Mon, 24 Aug 2026
+- Amnesia Ibiza, Ibiza · Mon, 28 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 23 Sept 2026
+- Amnesia Ibiza, Ibiza · Mon, 21 Sept 2026
+- The Warehouse, Leeds · Sat, 19 Sept 2026
+- Amnesia Ibiza, Ibiza · Mon, 14 Sept 2026
+- Amnesia Ibiza, Ibiza · Mon, 7 Sept 2026
+- Amnesia Ibiza, Ibiza · Mon, 31 Aug 2026
+- Amnesia Ibiza, Ibiza · Mon, 24 Aug 2026
 
 ## Shares bills with
 

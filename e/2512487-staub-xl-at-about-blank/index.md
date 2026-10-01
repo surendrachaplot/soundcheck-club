@@ -1,6 +1,6 @@
 # STAUB XL at ://about blank
 
-STAUB XL at ://about blank on Sat 14 Nov, Berlin. Techno and Experimental. Preview the line-up and save it on soundcheck.
+STAUB XL at ://about blank on Sat 14 Nov, Berlin. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

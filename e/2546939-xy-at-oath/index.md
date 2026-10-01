@@ -1,6 +1,6 @@
 # XY at Oath
 
-XY at Oath on Sat 3 Oct, Tokyo. 4 artists on the bill: ANZU, HiTOMi, RIHO ASAEDA and Yamariki. Techno and House. Preview the line-up and save it on soundcheck.
+XY at Oath on Sat 3 Oct, Tokyo. 4 artists: ANZU, HiTOMi, RIHO ASAEDA and Yamariki. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

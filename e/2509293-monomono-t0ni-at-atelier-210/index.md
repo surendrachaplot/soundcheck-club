@@ -1,6 +1,6 @@
 # Monomono + t0ni at Atelier 210
 
-Monomono + t0ni at Atelier 210 on Thu 5 Nov, Brussels. 1 artist on the bill: t0ni. Preview the line-up and save it on soundcheck.
+Monomono + t0ni at Atelier 210 on Thu 5 Nov, Brussels. 1 artist: t0ni. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

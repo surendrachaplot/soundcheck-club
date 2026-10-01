@@ -1,8 +1,8 @@
 # Skee Mask
 
-Skee Mask is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Skee Mask is a Techno and Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Skee Mask is a techno and bass artist based in Germany, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+Skee Mask is a techno and bass artist based in Germany, with 162 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 42 more. Often billed alongside Zenker Brothers, DjRUM and Mia Koden. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Skee Mask is a techno and bass artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- St. Bartholomew's Church, New York City — Sat, 26 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- TRANSMISSION DC, Washington DC — Fri, 18 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- Hall, Tallinn — Sat, 5 Sept 2026
-- Kulturcampus Frankfurt, Frankfurt — Thu, 13 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
+- St. Bartholomew's Church, New York City · Sat, 26 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- TRANSMISSION DC, Washington DC · Fri, 18 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Hall, Tallinn · Sat, 5 Sept 2026
+- Kulturcampus Frankfurt, Frankfurt · Thu, 13 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
 
 ## Shares bills with
 

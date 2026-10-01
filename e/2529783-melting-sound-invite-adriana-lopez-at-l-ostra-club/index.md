@@ -1,6 +1,6 @@
 # MELTING SOUND invite Adriana Lopez at L'Ostra Club
 
-MELTING SOUND invite Adriana Lopez at L'Ostra Club on Sat 17 Oct, East. 2 artists on the bill: Adriana Lopez and Imecka. Preview the line-up and save it on soundcheck.
+MELTING SOUND invite Adriana Lopez at L'Ostra Club on Sat 17 Oct, East. 2 artists: Adriana Lopez and Imecka. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

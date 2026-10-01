@@ -1,6 +1,6 @@
 # Cheeky Monday: Onderhans at Onder Hans
 
-Cheeky Monday: Onderhans at Onder Hans on Mon 26 Oct, Amsterdam. 2 artists on the bill: Gibbo and Insom. Drum & Bass. Preview the line-up and save it on soundcheck.
+Cheeky Monday: Onderhans at Onder Hans on Mon 26 Oct, Amsterdam. 2 artists: Gibbo and Insom. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

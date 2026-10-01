@@ -1,6 +1,6 @@
 # WDM x Raum für Ton: ANNĒ, Alex Hall, co:co, Leskus, Tarkan at WDM
 
-WDM x Raum für Ton: ANNĒ, Alex Hall, co:co, Leskus, Tarkan on Sat 17 Oct, Hannover. 7 artists on the bill: ANNĒ, co:co, DJ GARGA and filapa and 3 more. Preview the line-up and save it on soundcheck.
+WDM x Raum für Ton: ANNĒ, Alex Hall, co:co, Leskus, Tarkan on Sat 17 Oct, Hannover. 7 artists: ANNĒ, co:co, DJ GARGA and filapa and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

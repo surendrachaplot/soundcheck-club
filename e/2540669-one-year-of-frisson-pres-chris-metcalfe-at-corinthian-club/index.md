@@ -1,6 +1,6 @@
 # One Year Of Frisson pres. Chris Metcalfe at Corinthian Club
 
-One Year Of Frisson pres. Chris Metcalfe at Corinthian Club on Tue 29 Dec, Glasgow. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+One Year Of Frisson pres. Chris Metcalfe at Corinthian Club on Tue 29 Dec, Glasgow. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

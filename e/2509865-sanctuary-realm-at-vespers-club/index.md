@@ -1,6 +1,6 @@
 # Sanctuary Realm at Vespers Club
 
-Sanctuary Realm at Vespers Club on Fri 13 Nov, London. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Sanctuary Realm at Vespers Club on Fri 13 Nov, London. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

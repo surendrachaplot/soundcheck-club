@@ -1,6 +1,6 @@
 # WKND X DON'T TELL ANYONE at Weekend
 
-WKND X DON'T TELL ANYONE at Weekend on Fri 6 Nov, Berlin. 1 artist on the bill: BOHO. Techno and House. Preview the line-up and save it on soundcheck.
+WKND X DON'T TELL ANYONE at Weekend on Fri 6 Nov, Berlin. 1 artist: BOHO. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

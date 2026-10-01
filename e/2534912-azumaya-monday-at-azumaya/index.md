@@ -1,6 +1,6 @@
 # Azumaya -Monday- at Azumaya
 
-Azumaya -Monday- on Mon 5 Oct, Tokyo. 1 artist on the bill: ryuu. House. Preview the line-up and save it on soundcheck.
+Azumaya -Monday- on Mon 5 Oct, Tokyo. 1 artist: ryuu. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

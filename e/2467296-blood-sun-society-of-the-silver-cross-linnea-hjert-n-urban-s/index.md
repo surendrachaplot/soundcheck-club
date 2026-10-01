@@ -1,6 +1,6 @@
 # Blood & Sun + Society Of The Silver Cross + Linnea Hjertén // Urban Spree, Berlin at Urban Spree
 
-Blood & Sun + Society Of The Silver Cross + Linnea Hjertén // Urban Spree, Berlin on Sun 22 Nov, Berlin. Ambient and Post-Punk. Preview the line-up and save it on soundcheck.
+Blood & Sun + Society Of The Silver Cross + Linnea Hjertén // Urban Spree, Berlin on Sun 22 Nov, Berlin. Ambient and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

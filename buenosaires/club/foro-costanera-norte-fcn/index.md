@@ -1,8 +1,8 @@
 # Foro Costanera Norte (FCN)
 
-Foro Costanera Norte (FCN) is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Blondish pres. Abracadabra at FCN by Hïst Entertainment" on Sat, 10 Oct 2026.
+Foro Costanera Norte (FCN) is a music venue in Buenos Aires with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Blondish pres. Abracadabra at FCN by Hïst Entertainment" on Sat, 10 Oct 2026.
 
-Foro Costanera Norte (FCN) is a music venue in Buenos Aires listed on soundcheck. 2 upcoming gigs, with line-ups including BLOND:ISH and Korolova. Browse upcoming dates, start times and who's playing.
+Foro Costanera Norte (FCN) is a music venue in Buenos Aires listed on soundcheck. 2 upcoming gigs, with line-ups including BLOND:ISH and Korolova. See dates, start times and who's playing.
 
 ## What's on
 

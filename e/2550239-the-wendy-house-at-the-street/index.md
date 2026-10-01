@@ -1,6 +1,6 @@
 # The Wendy House at The Street
 
-The Wendy House at The Street on Fri 2 Oct, Edinburgh. 1 artist on the bill: Trendy Wendy. House and Disco. Preview the line-up and save it on soundcheck.
+The Wendy House at The Street on Fri 2 Oct, Edinburgh. 1 artist: Trendy Wendy. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

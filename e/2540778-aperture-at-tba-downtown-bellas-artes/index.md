@@ -1,6 +1,6 @@
 # Aperture at TBA - Downtown Bellas Artes
 
-Aperture at TBA - Downtown Bellas Artes on Sun 4 Oct, Mexico City. 3 artists on the bill: a landscape, Daniel Alanís and Ursula Prawn. Preview the line-up and save it on soundcheck.
+Aperture at TBA - Downtown Bellas Artes on Sun 4 Oct, Mexico City. 3 artists: a landscape, Daniel Alanís and Ursula Prawn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BARREL at Aoyama Hachi
 
-BARREL at Aoyama Hachi on Wed 14 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+BARREL at Aoyama Hachi on Wed 14 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

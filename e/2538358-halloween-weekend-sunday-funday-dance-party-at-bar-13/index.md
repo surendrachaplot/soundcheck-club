@@ -1,6 +1,6 @@
 # Halloween Weekend Sunday Funday Dance Party at Bar 13
 
-Halloween Weekend Sunday Funday Dance Party at Bar 13 on Sun 1 Nov, New York City. 1 artist on the bill: DJ E.M.. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Halloween Weekend Sunday Funday Dance Party at Bar 13 on Sun 1 Nov, New York City. 1 artist: DJ E.M.. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

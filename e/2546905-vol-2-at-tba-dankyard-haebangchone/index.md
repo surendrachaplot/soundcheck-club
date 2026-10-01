@@ -1,6 +1,6 @@
 # 해방촌을 마셔라! 아홉잔의 밤 vol.2 at TBA - DANKYARD HAEBANGCHONE
 
-해방촌을 마셔라! 아홉잔의 밤 vol.2 at TBA - DANKYARD HAEBANGCHONE on Fri 2 Oct, Seoul. House and Disco. Preview the line-up and save it on soundcheck.
+해방촌을 마셔라! 아홉잔의 밤 vol.2 at TBA - DANKYARD HAEBANGCHONE on Fri 2 Oct, Seoul. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

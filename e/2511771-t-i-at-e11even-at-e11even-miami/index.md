@@ -1,6 +1,6 @@
 # T.I. at E11EVEN at E11EVEN MIAMI
 
-T.I. at E11EVEN at E11EVEN MIAMI on Sat 3 Oct, Miami. Preview the line-up and save it on soundcheck.
+T.I. at E11EVEN at E11EVEN MIAMI on Sat 3 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

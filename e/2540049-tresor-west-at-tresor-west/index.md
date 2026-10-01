@@ -1,6 +1,6 @@
 # Tresor.West at Tresor.West
 
-Tresor.West on Sat 3 Oct, Dortmund Essen. 4 artists on the bill: Element5, Frontspin, Paul Claude and Tommy Four Seven. Preview the line-up and save it on soundcheck.
+Tresor.West on Sat 3 Oct, Dortmund Essen. 4 artists: Element5, Frontspin, Paul Claude and Tommy Four Seven. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

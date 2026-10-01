@@ -1,6 +1,6 @@
 # [CANCELLED] at TBA
 
-[CANCELLED] at TBA on Fri 30 Oct, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+[CANCELLED] at TBA on Fri 30 Oct, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

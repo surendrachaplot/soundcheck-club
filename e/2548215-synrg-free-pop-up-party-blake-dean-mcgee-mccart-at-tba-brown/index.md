@@ -1,6 +1,6 @@
 # SYNRG Free Pop Up Party: Blake, Dean McGee, McCart at TBA - Brown Sugar Coffee & Records
 
-SYNRG Free Pop Up Party: Blake, Dean McGee, McCart at TBA - Brown Sugar Coffee & Records on Sat 10 Oct, Glasgow. Electro and Minimal. Preview the line-up and save it on soundcheck.
+SYNRG Free Pop Up Party: Blake, Dean McGee, McCart at TBA - Brown Sugar Coffee & Records on Sat 10 Oct, Glasgow. Electro and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

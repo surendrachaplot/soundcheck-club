@@ -1,6 +1,6 @@
 # Black Hause at Warehouse on Watts
 
-Black Hause at Warehouse on Watts on Sat 10 Oct, Philadelphia. 2 artists on the bill: KINGSPY and Ohlei. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Black Hause at Warehouse on Watts on Sat 10 Oct, Philadelphia. 2 artists: KINGSPY and Ohlei. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # MIZAK
 
-MIZAK is a Afro House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Toyroom Malta, Malta on Fri, 30 Oct 2026.
+MIZAK is a Afro House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Toyroom Malta, Malta on Fri, 30 Oct 2026.
 
-MIZAK is an afro house and house artist based in Malta, tracked on soundcheck, with 10 sets logged across Malta. Often billed alongside ANT Mifsud, Carl Bee and Daniel Blade. Next up: Toyroom Malta, Malta on Fri 30 Oct.
+MIZAK is an afro house and house artist based in Malta, with 10 gigs on soundcheck across Malta. Often billed alongside ANT Mifsud, Carl Bee and Daniel Blade. Next up: Toyroom Malta, Malta on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MIZAK is an afro house and house artist based in Malta, tracked on soundcheck, w
 
 ## Recently played
 
-- Treehaus, Uno Malta, Malta — Fri, 21 Aug 2026
-- Treehaus, Uno Malta, Malta — Fri, 17 Jul 2026
-- Café del Mar Malta, Malta — Sat, 23 May 2026
-- TBA - TORTUGA ARMIER MALTA, Malta — Sun, 17 May 2026
-- TBA - TORTUGA ARMIER MALTA, Malta — Sun, 17 May 2026
-- Surfside, Malta — Mon, 11 May 2026
-- Surfside, Malta — Fri, 10 Apr 2026
-- TBA, Malta — Sat, 19 Apr 2025
+- Treehaus, Uno Malta, Malta · Fri, 21 Aug 2026
+- Treehaus, Uno Malta, Malta · Fri, 17 Jul 2026
+- Café del Mar Malta, Malta · Sat, 23 May 2026
+- TBA - TORTUGA ARMIER MALTA, Malta · Sun, 17 May 2026
+- TBA - TORTUGA ARMIER MALTA, Malta · Sun, 17 May 2026
+- Surfside, Malta · Mon, 11 May 2026
+- Surfside, Malta · Fri, 10 Apr 2026
+- TBA, Malta · Sat, 19 Apr 2025
 
 ## Shares bills with
 

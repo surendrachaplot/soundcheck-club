@@ -1,6 +1,6 @@
 # RAVE INVADERS 3 at Zombie Games Cafe & BAR
 
-RAVE INVADERS 3 at Zombie Games Cafe & BAR on Sat 24 Oct, London. Drum & Bass and Grime. Preview the line-up and save it on soundcheck.
+RAVE INVADERS 3 at Zombie Games Cafe & BAR on Sat 24 Oct, London. Drum & Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

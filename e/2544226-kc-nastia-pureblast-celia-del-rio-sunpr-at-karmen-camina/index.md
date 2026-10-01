@@ -1,6 +1,6 @@
 # KC [Nastia • Pureblast • Celia Del Rio •  Sunpr] at Karmen Camina
 
-KC [Nastia • Pureblast • Celia Del Rio •  Sunpr] at Karmen Camina on Sat 3 Oct, Strasbourg. 3 artists on the bill: Nastia, Pureblast and Sunpr. Techno and Industrial. Preview the line-up and save it on soundcheck.
+KC [Nastia • Pureblast • Celia Del Rio •  Sunpr] at Karmen Camina on Sat 3 Oct, Strasbourg. 3 artists: Nastia, Pureblast and Sunpr. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

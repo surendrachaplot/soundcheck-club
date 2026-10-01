@@ -1,8 +1,8 @@
 # The Lower Level
 
-The Lower Level is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Infra presents: Lady Starlight & LOLAXVA" on Sat, 17 Oct 2026.
+The Lower Level is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Infra presents: Lady Starlight & LOLAXVA" on Sat, 17 Oct 2026.
 
-The Lower Level is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including Anthony Rother, Lady Starlight, LOLAXVA and Meschwitz and 1 more. Browse upcoming dates, start times and who's playing. 55 Bishop Allen Dr, Cambridge, MA 02139, USA.
+The Lower Level is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including Anthony Rother, Lady Starlight, LOLAXVA and Meschwitz and 1 more. See dates, start times and who's playing. 55 Bishop Allen Dr, Cambridge, MA 02139, USA.
 
 ## What's on
 

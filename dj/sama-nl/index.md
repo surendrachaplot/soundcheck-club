@@ -1,8 +1,8 @@
 # SAMA (NL)
 
-SAMA (NL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
+SAMA (NL) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at De Thomaskerk, Amsterdam on Fri, 23 Oct 2026.
 
-SAMA (NL) is a techno and house artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Ibiza, London and Madrid and 5 more. Often billed alongside Vera Grace, SHE/HER and Delano Legito. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
+SAMA (NL) is a techno and house artist based in Netherlands, with 36 gigs on soundcheck across Amsterdam, Ibiza, London and Madrid and 5 more. Often billed alongside Vera Grace, SHE/HER and Delano Legito. Next up: De Thomaskerk, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ SAMA (NL) is a techno and house artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- Chinois Ibiza, Ibiza — Fri, 18 Sept 2026
-- TILLATEC, Amsterdam — Sun, 13 Sept 2026
-- Bar Dancing Multipla, Amsterdam — Fri, 26 Jun 2026
-- RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
-- CLUB RAUM, Amsterdam — Fri, 15 May 2026
-- Lofi, Amsterdam — Sat, 2 May 2026
-- Gut Level, Sheffield — Sat, 11 Apr 2026
-- De Fik Garden, Amsterdam — Sat, 6 Dec 2025
+- Chinois Ibiza, Ibiza · Fri, 18 Sept 2026
+- TILLATEC, Amsterdam · Sun, 13 Sept 2026
+- Bar Dancing Multipla, Amsterdam · Fri, 26 Jun 2026
+- RFK Stadium Memorial Stadium, Washington DC · Sat, 30 May 2026
+- CLUB RAUM, Amsterdam · Fri, 15 May 2026
+- Lofi, Amsterdam · Sat, 2 May 2026
+- Gut Level, Sheffield · Sat, 11 Apr 2026
+- De Fik Garden, Amsterdam · Sat, 6 Dec 2025
 
 ## Shares bills with
 

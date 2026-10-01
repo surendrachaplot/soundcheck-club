@@ -1,6 +1,6 @@
 # PIP HALLOWEEN II at PIP Den Haag
 
-PIP HALLOWEEN II at PIP Den Haag on Sat 31 Oct, The Hague. 4 artists on the bill: Boudi, brAque, DJ VamPire and Falhaber. Techno and House. Preview the line-up and save it on soundcheck.
+PIP HALLOWEEN II at PIP Den Haag on Sat 31 Oct, The Hague. 4 artists: Boudi, brAque, DJ VamPire and Falhaber. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

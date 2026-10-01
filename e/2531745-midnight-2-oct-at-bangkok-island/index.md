@@ -1,6 +1,6 @@
 # Midnight - 2 oct at Bangkok Island
 
-Midnight - 2 oct at Bangkok Island on Fri 2 Oct, Bangkok. Hip-Hop. Preview the line-up and save it on soundcheck.
+Midnight - 2 oct at Bangkok Island on Fri 2 Oct, Bangkok. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Acoustic at SHeLTeR
 
-Acoustic at SHeLTeR on Thu 8 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+Acoustic at SHeLTeR on Thu 8 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

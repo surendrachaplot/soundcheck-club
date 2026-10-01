@@ -1,6 +1,6 @@
 # Cord Room x Interzeak x Noxpax x Hostile Takeover - Studio Room at Panama
 
-Cord Room x Interzeak x Noxpax x Hostile Takeover - Studio Room at Panama on Wed 21 Oct, Amsterdam. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Cord Room x Interzeak x Noxpax x Hostile Takeover - Studio Room at Panama on Wed 21 Oct, Amsterdam. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

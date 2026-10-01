@@ -1,6 +1,6 @@
 # KOKO Electronic: THEMBA at KOKO
 
-KOKO Electronic: THEMBA on Fri 23 Oct, London. 1 artist on the bill: THEMBA. Afro House. Preview the line-up and save it on soundcheck.
+KOKO Electronic: THEMBA on Fri 23 Oct, London. 1 artist: THEMBA. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

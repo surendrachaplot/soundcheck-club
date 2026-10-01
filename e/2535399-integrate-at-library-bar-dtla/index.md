@@ -1,6 +1,6 @@
 # Integrate at Library Bar Dtla
 
-Integrate at Library Bar Dtla on Fri 9 Oct, Los Angeles. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Integrate at Library Bar Dtla on Fri 9 Oct, Los Angeles. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

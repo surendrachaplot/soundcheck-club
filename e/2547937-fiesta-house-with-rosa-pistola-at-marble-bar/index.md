@@ -1,6 +1,6 @@
 # Fiesta House with Rosa Pistola at Marble Bar
 
-Fiesta House with Rosa Pistola at Marble Bar on Sat 31 Oct, Detroit. 1 artist on the bill: Rosa Pistola. Preview the line-up and save it on soundcheck.
+Fiesta House with Rosa Pistola at Marble Bar on Sat 31 Oct, Detroit. 1 artist: Rosa Pistola. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

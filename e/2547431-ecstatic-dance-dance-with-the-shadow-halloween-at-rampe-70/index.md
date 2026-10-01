@@ -1,6 +1,6 @@
 # ECSTATIC DANCE DANCE WITH THE SHADOW HALLOWEEN at Rampe 70
 
-ECSTATIC DANCE DANCE WITH THE SHADOW HALLOWEEN at Rampe 70 on Sat 31 Oct, Zurich. Preview the line-up and save it on soundcheck.
+ECSTATIC DANCE DANCE WITH THE SHADOW HALLOWEEN at Rampe 70 on Sat 31 Oct, Zurich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # StepTwice presents: BLUMITSU at Strange Brew
 
-StepTwice presents: BLUMITSU at Strange Brew on Fri 6 Nov, Bristol. 3 artists on the bill: Berwick, BLUMITSU and YSL (Young Saucy Lovers). Techno and Electro. Preview the line-up and save it on soundcheck.
+StepTwice presents: BLUMITSU at Strange Brew on Fri 6 Nov, Bristol. 3 artists: Berwick, BLUMITSU and YSL (Young Saucy Lovers). Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

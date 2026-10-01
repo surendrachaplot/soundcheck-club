@@ -1,8 +1,8 @@
 # Angelo Cortines
 
-Angelo Cortines is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 3 Oct 2026.
+Angelo Cortines is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat, 3 Oct 2026.
 
-Angelo Cortines is a house and electro artist based in Dominican Republic, tracked on soundcheck, with 38 sets logged across Barcelona. Often billed alongside max brachais, Zedlav and Alice Youngling. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 3 Oct.
+Angelo Cortines is a house and electro artist based in Dominican Republic, with 38 gigs on soundcheck across Barcelona. Often billed alongside max brachais, Zedlav and Alice Youngling. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Angelo Cortines is a house and electro artist based in Dominican Republic, track
 
 ## Recently played
 
-- Switch Bar, Barcelona — Sat, 5 Sept 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 28 Aug 2026
-- Studio Stereo, Barcelona — Sat, 4 Jul 2026
-- TBA - Backstage - Carrer Casp, 33, Barcelona — Fri, 12 Jun 2026
-- Switch Bar, Barcelona — Sun, 24 May 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Fri, 17 Apr 2026
-- TBA - private rooftop (marina metro station), Barcelona — Sat, 21 Feb 2026
-- 303 Audiophile Bar, Barcelona — Sat, 27 Dec 2025
+- Switch Bar, Barcelona · Sat, 5 Sept 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Fri, 28 Aug 2026
+- Studio Stereo, Barcelona · Sat, 4 Jul 2026
+- TBA - Backstage - Carrer Casp, 33, Barcelona · Fri, 12 Jun 2026
+- Switch Bar, Barcelona · Sun, 24 May 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Fri, 17 Apr 2026
+- TBA - private rooftop (marina metro station), Barcelona · Sat, 21 Feb 2026
+- 303 Audiophile Bar, Barcelona · Sat, 27 Dec 2025
 
 ## Shares bills with
 

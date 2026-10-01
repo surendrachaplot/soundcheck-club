@@ -1,6 +1,6 @@
 # Sex-Positive Party // Winter Ball Big Edition at Levenslang Amsterdam
 
-Sex-Positive Party // Winter Ball Big Edition at Levenslang Amsterdam on Sat 5 Dec, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+Sex-Positive Party // Winter Ball Big Edition at Levenslang Amsterdam on Sat 5 Dec, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

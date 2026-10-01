@@ -1,6 +1,6 @@
 # The Bausa at Chango
 
-The Bausa at Chango on Sun 18 Oct, Madrid. House and Pop. Preview the line-up and save it on soundcheck.
+The Bausa at Chango on Sun 18 Oct, Madrid. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

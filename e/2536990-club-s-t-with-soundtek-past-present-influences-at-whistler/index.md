@@ -1,6 +1,6 @@
 # CLUB S**T with Soundtek (Past.present.Influences.) at Whistler
 
-CLUB S**T with Soundtek (Past.present.Influences.) at Whistler on Fri 2 Oct, Chicago. Bass and Club. Preview the line-up and save it on soundcheck.
+CLUB S**T with Soundtek (Past.present.Influences.) at Whistler on Fri 2 Oct, Chicago. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

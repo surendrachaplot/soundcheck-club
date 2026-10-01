@@ -1,8 +1,8 @@
 # Nicole Moudaber
 
-Nicole Moudaber is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at E1, London on Sat, 3 Oct 2026.
+Nicole Moudaber is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Sat, 3 Oct 2026.
 
-Nicole Moudaber is a techno and house artist based in United Kingdom, tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: E1, London on Sat 3 Oct.
+Nicole Moudaber is a techno and house artist based in United Kingdom, with 133 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 38 more. Often billed alongside Paco Osuna, Jamie Jones and Ilario Alicante. Next up: E1, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Nicole Moudaber is a techno and house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- [UNVRS], Ibiza — Sun, 27 Sept 2026
-- Amnesia Ibiza, Ibiza — Wed, 16 Sept 2026
-- [UNVRS], Ibiza — Wed, 9 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 18 Aug 2026
-- TBA - Straße des 17. Juni & Großer Stern, Berlin — Sat, 15 Aug 2026
-- Ritter Butzke, Berlin — Sat, 15 Aug 2026
-- La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
+- [UNVRS], Ibiza · Sun, 27 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 16 Sept 2026
+- [UNVRS], Ibiza · Wed, 9 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 18 Aug 2026
+- TBA - Straße des 17. Juni & Großer Stern, Berlin · Sat, 15 Aug 2026
+- Ritter Butzke, Berlin · Sat, 15 Aug 2026
+- La Pinilla Ski Resort, Madrid · Mon, 10 Aug 2026
 
 ## Shares bills with
 

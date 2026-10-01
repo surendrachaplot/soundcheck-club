@@ -1,6 +1,6 @@
 # Trancy Vibes Vol.2 at Chinastraat
 
-Trancy Vibes Vol.2 at Chinastraat on Sat 3 Oct, Ghent. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+Trancy Vibes Vol.2 at Chinastraat on Sat 3 Oct, Ghent. Trance and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rinse Out - Retrospect + Friends [SECRET LOCATION] at TBA - Secret Location
 
-Rinse Out - Retrospect + Friends [SECRET LOCATION] at TBA - Secret Location on Fri 16 Oct, Brighton. 2 artists on the bill: Esspee and Retrospect. Progressive House and Garage. Preview the line-up and save it on soundcheck.
+Rinse Out - Retrospect + Friends [SECRET LOCATION] at TBA - Secret Location on Fri 16 Oct, Brighton. 2 artists: Esspee and Retrospect. Progressive House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

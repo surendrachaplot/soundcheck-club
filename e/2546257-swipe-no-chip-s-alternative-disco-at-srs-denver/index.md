@@ -1,6 +1,6 @@
 # Swipe No Chip's Alternative Disco at SRS Denver
 
-Swipe No Chip's Alternative Disco at SRS Denver on Fri 13 Nov, Denver. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Swipe No Chip's Alternative Disco at SRS Denver on Fri 13 Nov, Denver. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

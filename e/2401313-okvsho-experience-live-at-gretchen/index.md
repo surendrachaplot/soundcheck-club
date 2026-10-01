@@ -1,6 +1,6 @@
 # OKVSHO +experience *live at Gretchen
 
-OKVSHO +experience *live at Gretchen on Mon 30 Nov, Berlin. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+OKVSHO +experience *live at Gretchen on Mon 30 Nov, Berlin. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

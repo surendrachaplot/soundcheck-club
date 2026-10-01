@@ -1,6 +1,6 @@
 # HELHEIM 3rd F2F EDITION at TBA - Revolution
 
-HELHEIM 3rd F2F EDITION at TBA - Revolution on Sat 3 Oct, Tbilisi. Techno and Industrial. Preview the line-up and save it on soundcheck.
+HELHEIM 3rd F2F EDITION at TBA - Revolution on Sat 3 Oct, Tbilisi. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

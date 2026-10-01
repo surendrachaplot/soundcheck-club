@@ -1,6 +1,6 @@
 # Ankaval // Belledonne at TBA - Fontenay-sous-Bois
 
-Ankaval // Belledonne at TBA - Fontenay-sous-Bois on Sat 10 Oct, Paris. Preview the line-up and save it on soundcheck.
+Ankaval // Belledonne at TBA - Fontenay-sous-Bois on Sat 10 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

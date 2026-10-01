@@ -1,6 +1,6 @@
 # Urban Spree KLUBNACHT (Albert Kraft, MNR) at Urban Spree
 
-Urban Spree KLUBNACHT (Albert Kraft, MNR) on Fri 23 Oct, Berlin. 2 artists on the bill: Albert Kraft and MNR. Techno. Preview the line-up and save it on soundcheck.
+Urban Spree KLUBNACHT (Albert Kraft, MNR) on Fri 23 Oct, Berlin. 2 artists: Albert Kraft and MNR. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

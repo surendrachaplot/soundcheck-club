@@ -1,6 +1,6 @@
 # The Vampire Rave (On the River) at American Legion Marsh Post #442
 
-The Vampire Rave (On the River) at American Legion Marsh Post #442 on Fri 30 Oct, Boston. Techno and Tech House. Preview the line-up and save it on soundcheck.
+The Vampire Rave (On the River) at American Legion Marsh Post #442 on Fri 30 Oct, Boston. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

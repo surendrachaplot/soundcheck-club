@@ -1,6 +1,6 @@
 # Nicolino, Jonny Leibs at Lion's Den
 
-Nicolino, Jonny Leibs at Lion's Den on Fri 2 Oct, Miami. Preview the line-up and save it on soundcheck.
+Nicolino, Jonny Leibs at Lion's Den on Fri 2 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

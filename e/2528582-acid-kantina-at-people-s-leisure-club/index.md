@@ -1,6 +1,6 @@
 # Acid Kantina at People's Leisure Club
 
-Acid Kantina at People's Leisure Club on Sat 24 Oct, Edinburgh. House and Acid. Preview the line-up and save it on soundcheck.
+Acid Kantina at People's Leisure Club on Sat 24 Oct, Edinburgh. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EhrenKlub in Odonien #30 mit RAGETRAIN, JO3Y3T uvm at Odonien
 
-EhrenKlub in Odonien #30 mit RAGETRAIN, JO3Y3T uvm on Fri 9 Oct, Cologne. 3 artists on the bill: Belasto, Danilo Filipe and Kamäleon. Trance and Techno. Preview the line-up and save it on soundcheck.
+EhrenKlub in Odonien #30 mit RAGETRAIN, JO3Y3T uvm on Fri 9 Oct, Cologne. 3 artists: Belasto, Danilo Filipe and Kamäleon. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # cute boys
 
-cute boys is a Trance and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mood Ring, New York City on Sat, 3 Oct 2026.
+cute boys is a Trance and Pop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Sat, 3 Oct 2026.
 
-cute boys is a trance and pop artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside ASTER (DJ), Tasheff and Lilflower. Next up: Mood Ring, New York City on Sat 3 Oct.
+cute boys is a trance and pop artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside ASTER (DJ), Tasheff and Lilflower. Next up: Mood Ring, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ cute boys is a trance and pop artist based in United States of America, tracked 
 
 ## Recently played
 
-- Amma Cafe, New York City — Fri, 4 Sept 2026
-- Bossa Nova Civic Club, New York City — Wed, 19 Aug 2026
-- Beverly's NYC, New York City — Wed, 24 Jun 2026
-- Happyfun Hideaway, New York City — Wed, 10 Jun 2026
-- The Deep End, New York City — Fri, 5 Jun 2026
-- Mood Ring, New York City — Sat, 9 May 2026
-- Beverly's NYC, New York City — Wed, 22 Apr 2026
-- Metropolitan Bar, New York City — Fri, 16 Jan 2026
+- Amma Cafe, New York City · Fri, 4 Sept 2026
+- Bossa Nova Civic Club, New York City · Wed, 19 Aug 2026
+- Beverly's NYC, New York City · Wed, 24 Jun 2026
+- Happyfun Hideaway, New York City · Wed, 10 Jun 2026
+- The Deep End, New York City · Fri, 5 Jun 2026
+- Mood Ring, New York City · Sat, 9 May 2026
+- Beverly's NYC, New York City · Wed, 22 Apr 2026
+- Metropolitan Bar, New York City · Fri, 16 Jan 2026
 
 ## Shares bills with
 

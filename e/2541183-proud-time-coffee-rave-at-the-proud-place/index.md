@@ -1,6 +1,6 @@
 # Proud Time - Coffee Rave at The Proud Place
 
-Proud Time - Coffee Rave at The Proud Place on Sat 3 Oct, Manchester. 1 artist on the bill: Hello From Ben. House and Disco. Preview the line-up and save it on soundcheck.
+Proud Time - Coffee Rave at The Proud Place on Sat 3 Oct, Manchester. 1 artist: Hello From Ben. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

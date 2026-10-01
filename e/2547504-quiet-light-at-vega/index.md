@@ -1,6 +1,6 @@
 # Quiet Light at VEGA
 
-Quiet Light at VEGA on Tue 3 Nov, Copenhagen. Preview the line-up and save it on soundcheck.
+Quiet Light at VEGA on Tue 3 Nov, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LE CLUB HOUSE at Panic Room
 
-LE CLUB HOUSE at Panic Room on Fri 16 Oct, Paris. House and Tech House. Preview the line-up and save it on soundcheck.
+LE CLUB HOUSE at Panic Room on Fri 16 Oct, Paris. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

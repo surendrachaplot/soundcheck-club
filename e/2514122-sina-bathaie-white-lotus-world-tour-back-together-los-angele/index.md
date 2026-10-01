@@ -1,6 +1,6 @@
 # Sina Bathaie — White Lotus World Tour: Back Together | Los Angeles at The Vermont Hollywood
 
-Sina Bathaie — White Lotus World Tour: Back Together | Los Angeles at The Vermont Hollywood on Thu 12 Nov, Los Angeles. 1 artist on the bill: Sina Bathaie. Downtempo. Preview the line-up and save it on soundcheck.
+Sina Bathaie — White Lotus World Tour: Back Together | Los Angeles at The Vermont Hollywood on Thu 12 Nov, Los Angeles. 1 artist: Sina Bathaie. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

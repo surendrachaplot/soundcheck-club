@@ -1,6 +1,6 @@
 # Above & Beyond in HK at Tides
 
-Above & Beyond in HK at Tides on Fri 27 Nov, Hong Kong. 1 artist on the bill: Above & Beyond. Trance. Preview the line-up and save it on soundcheck.
+Above & Beyond in HK at Tides on Fri 27 Nov, Hong Kong. 1 artist: Above & Beyond. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

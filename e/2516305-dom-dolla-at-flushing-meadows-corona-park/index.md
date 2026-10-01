@@ -1,6 +1,6 @@
 # Dom Dolla at Flushing Meadows Corona Park
 
-Dom Dolla at Flushing Meadows Corona Park on Sat 3 Oct, New York City. 3 artists on the bill: Basement Jaxx, Dom Dolla and Peggy Gou. House and Tech House. Preview the line-up and save it on soundcheck.
+Dom Dolla at Flushing Meadows Corona Park on Sat 3 Oct, New York City. 3 artists: Basement Jaxx, Dom Dolla and Peggy Gou. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

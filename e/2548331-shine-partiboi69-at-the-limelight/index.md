@@ -1,6 +1,6 @@
 # SHINE -- Partiboi69 at The Limelight
 
-SHINE -- Partiboi69 at The Limelight on Fri 13 Nov, Belfast. 1 artist on the bill: Partiboi69. Preview the line-up and save it on soundcheck.
+SHINE -- Partiboi69 at The Limelight on Fri 13 Nov, Belfast. 1 artist: Partiboi69. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

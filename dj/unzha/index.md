@@ -1,8 +1,8 @@
 # UNZHA
 
-UNZHA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Hafenklang, Hamburg on Fri, 9 Oct 2026.
+UNZHA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hafenklang, Hamburg on Fri, 9 Oct 2026.
 
-UNZHA is a house and techno artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin, Frankfurt, Hamburg and Prague. Often billed alongside DJ SOURCE, Tana and yamagucci42. Next up: Hafenklang, Hamburg on Fri 9 Oct.
+UNZHA is a house and techno artist based in Germany, with 55 gigs on soundcheck across Berlin, Frankfurt, Hamburg and Prague. Often billed alongside DJ SOURCE, Tana and yamagucci42. Next up: Hafenklang, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ UNZHA is a house and techno artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
-- Golden Pudel Club, Hamburg — Thu, 24 Sept 2026
-- Jonny Knüppel, Berlin — Fri, 4 Sept 2026
-- Kampnagel, Hamburg — Sat, 15 Aug 2026
-- Kampnagel, Hamburg — Sat, 15 Aug 2026
-- Slot, Hamburg — Sat, 25 Jul 2026
-- Slot, Hamburg — Sat, 25 Jul 2026
-- Golden Pudel Club, Hamburg — Thu, 23 Jul 2026
-- Locke, Hamburg — Fri, 17 Jul 2026
+- Golden Pudel Club, Hamburg · Thu, 24 Sept 2026
+- Jonny Knüppel, Berlin · Fri, 4 Sept 2026
+- Kampnagel, Hamburg · Sat, 15 Aug 2026
+- Kampnagel, Hamburg · Sat, 15 Aug 2026
+- Slot, Hamburg · Sat, 25 Jul 2026
+- Slot, Hamburg · Sat, 25 Jul 2026
+- Golden Pudel Club, Hamburg · Thu, 23 Jul 2026
+- Locke, Hamburg · Fri, 17 Jul 2026
 
 ## Shares bills with
 

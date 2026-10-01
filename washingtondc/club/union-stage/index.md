@@ -1,8 +1,8 @@
 # Union Stage
 
-Union Stage is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "CLUB K-POP (K-POP Hits & K-EDM All Night Long!)" on Sat, 3 Oct 2026.
+Union Stage is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CLUB K-POP (K-POP Hits & K-EDM All Night Long!)" on Sat, 3 Oct 2026.
 
-Union Stage is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 740 Water St SW.
+Union Stage is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 740 Water St SW.
 
 ## What's on
 

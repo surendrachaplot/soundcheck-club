@@ -1,6 +1,6 @@
 # Les Enfants pres. Dorian Paic b2b Alexander Skancke at Les Enfants Brillants
 
-Les Enfants pres. Dorian Paic b2b Alexander Skancke at Les Enfants Brillants on Sat 17 Oct, Barcelona. 2 artists on the bill: Alexander Skancke and Dorian Paic. Preview the line-up and save it on soundcheck.
+Les Enfants pres. Dorian Paic b2b Alexander Skancke at Les Enfants Brillants on Sat 17 Oct, Barcelona. 2 artists: Alexander Skancke and Dorian Paic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

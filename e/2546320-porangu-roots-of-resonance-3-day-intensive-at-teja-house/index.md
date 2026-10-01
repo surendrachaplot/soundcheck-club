@@ -1,6 +1,6 @@
 # Poranguí: Roots of Resonance, 3-Day Intensive at Teja House
 
-Poranguí: Roots of Resonance, 3-Day Intensive at Teja House on Fri 20 Nov, Lisbon. Preview the line-up and save it on soundcheck.
+Poranguí: Roots of Resonance, 3-Day Intensive at Teja House on Fri 20 Nov, Lisbon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

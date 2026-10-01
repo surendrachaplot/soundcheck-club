@@ -1,6 +1,6 @@
 # 「lotura」en Siroco at Sala Siroco
 
-「lotura」en Siroco at Sala Siroco on Sat 21 Nov, Madrid. Club. Preview the line-up and save it on soundcheck.
+「lotura」en Siroco at Sala Siroco on Sat 21 Nov, Madrid. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

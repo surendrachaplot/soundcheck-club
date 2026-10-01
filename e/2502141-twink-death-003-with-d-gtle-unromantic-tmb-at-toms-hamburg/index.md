@@ -1,6 +1,6 @@
 # Twink Death 003 with D.GTLE, Unromantic, TMB at Toms Hamburg
 
-Twink Death 003 with D.GTLE, Unromantic, TMB at Toms Hamburg on Sat 12 Dec, Hamburg. 3 artists on the bill: D.GTLE, TMB and Unromantic. Techno and Electro. Preview the line-up and save it on soundcheck.
+Twink Death 003 with D.GTLE, Unromantic, TMB at Toms Hamburg on Sat 12 Dec, Hamburg. 3 artists: D.GTLE, TMB and Unromantic. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

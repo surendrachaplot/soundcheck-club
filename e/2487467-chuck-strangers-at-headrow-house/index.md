@@ -1,6 +1,6 @@
 # Chuck Strangers at Headrow House
 
-Chuck Strangers at Headrow House on Tue 24 Nov, Leeds. Hip-Hop. Preview the line-up and save it on soundcheck.
+Chuck Strangers at Headrow House on Tue 24 Nov, Leeds. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

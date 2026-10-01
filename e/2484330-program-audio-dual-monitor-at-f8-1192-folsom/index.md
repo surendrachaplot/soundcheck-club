@@ -1,6 +1,6 @@
 # program audio: Dual Monitor at F8 1192 Folsom
 
-program audio: Dual Monitor at F8 1192 Folsom on Sat 24 Oct, San Francisco/Oakland. 1 artist on the bill: Dual Monitor. Bass and Club. Preview the line-up and save it on soundcheck.
+program audio: Dual Monitor at F8 1192 Folsom on Sat 24 Oct, San Francisco/Oakland. 1 artist: Dual Monitor. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

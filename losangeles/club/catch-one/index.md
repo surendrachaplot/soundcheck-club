@@ -1,8 +1,8 @@
 # Catch One
 
-Catch One is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Das Bunker 30th Anniversary: Combichrist with The Treasury" on Fri, 2 Oct 2026.
+Catch One is a music venue in Los Angeles with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Das Bunker 30th Anniversary: Combichrist with The Treasury" on Fri, 2 Oct 2026.
 
-Catch One is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Cali. Browse upcoming dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
+Catch One is a music venue in Los Angeles listed on soundcheck. 4 upcoming gigs, with line-ups including Cali. See dates, start times and who's playing. 4067 W Pico Blvd, Los Angeles, CA 90019.
 
 ## What's on
 

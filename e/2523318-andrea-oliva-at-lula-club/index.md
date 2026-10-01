@@ -1,6 +1,6 @@
 # Andrea Oliva at Lula Club
 
-Andrea Oliva at Lula Club on Fri 9 Oct, Madrid. 1 artist on the bill: Andrea Oliva. Preview the line-up and save it on soundcheck.
+Andrea Oliva at Lula Club on Fri 9 Oct, Madrid. 1 artist: Andrea Oliva. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

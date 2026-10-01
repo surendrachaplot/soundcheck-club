@@ -1,8 +1,8 @@
 # ChaseWest
 
-ChaseWest is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ZeyZey, Miami on Thu, 15 Oct 2026.
+ChaseWest is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ZeyZey, Miami on Thu, 15 Oct 2026.
 
-ChaseWest is a house and tech house artist based in United States of America, tracked on soundcheck, with 50 sets logged across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: ZeyZey, Miami on Thu 15 Oct.
+ChaseWest is a house and tech house artist based in United States of America, with 50 gigs on soundcheck across Austin, Boston, Chicago and Denver and 12 more. Often billed alongside Beltran, KinAhau and Max Dean. Next up: ZeyZey, Miami on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ ChaseWest is a house and tech house artist based in United States of America, tr
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- 1015 Folsom, San Francisco/Oakland — Fri, 28 Aug 2026
-- Radius, Chicago — Sun, 16 Aug 2026
-- Coda, Toronto — Fri, 17 Jul 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 11 Jul 2026
-- KOKO, London — Fri, 26 Jun 2026
-- Los Angeles State Historic Park, Los Angeles — Sun, 31 May 2026
-- RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- 1015 Folsom, San Francisco/Oakland · Fri, 28 Aug 2026
+- Radius, Chicago · Sun, 16 Aug 2026
+- Coda, Toronto · Fri, 17 Jul 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sat, 11 Jul 2026
+- KOKO, London · Fri, 26 Jun 2026
+- Los Angeles State Historic Park, Los Angeles · Sun, 31 May 2026
+- RFK Stadium Memorial Stadium, Washington DC · Sat, 30 May 2026
 
 ## Shares bills with
 

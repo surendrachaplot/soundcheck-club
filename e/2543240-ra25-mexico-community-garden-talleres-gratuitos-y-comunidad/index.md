@@ -1,6 +1,6 @@
 # RA25: Mexico Community Garden / Talleres Gratuitos y Comunidad at Luzy
 
-RA25: Mexico Community Garden / Talleres Gratuitos y Comunidad at Luzy on Sat 17 Oct, Mexico City. 2 artists on the bill: constanza and fka phaedra. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+RA25: Mexico Community Garden / Talleres Gratuitos y Comunidad at Luzy on Sat 17 Oct, Mexico City. 2 artists: constanza and fka phaedra. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

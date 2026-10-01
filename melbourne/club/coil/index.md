@@ -1,8 +1,8 @@
 # Coil
 
-Coil is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Progressive Naarm X Coil" on Thu, 1 Oct 2026.
+Coil is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Progressive Naarm X Coil" on Thu, 1 Oct 2026.
 
-Coil is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Andy Hart, DJ JNETT, DJ Kiti and DJ MBq and 2 more. Browse upcoming dates, start times and who's playing.
+Coil is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Andy Hart, DJ JNETT, DJ Kiti and DJ MBq and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

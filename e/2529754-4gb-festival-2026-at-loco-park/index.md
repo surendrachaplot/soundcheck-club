@@ -1,6 +1,6 @@
 # 4GB Festival - 2026 at Loco Park
 
-4GB Festival - 2026 at Loco Park on Fri 2 Oct, Tbilisi. 40 artists on the bill: 3AM, 98dots, Ada and Astrobee and 36 more. Preview the line-up and save it on soundcheck.
+4GB Festival - 2026 at Loco Park on Fri 2 Oct, Tbilisi. 40 artists: 3AM, 98dots, Ada and Astrobee and 36 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

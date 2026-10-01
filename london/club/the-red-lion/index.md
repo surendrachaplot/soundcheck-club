@@ -1,8 +1,8 @@
 # The Red Lion
 
-The Red Lion is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Aftershock: The Seismic Impact of Dubstep" on Fri, 16 Oct 2026.
+The Red Lion is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Aftershock: The Seismic Impact of Dubstep" on Fri, 16 Oct 2026.
 
-The Red Lion is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Benny Ill. Browse upcoming dates, start times and who's playing. 41 Hoxton Street, London, N1 6NH.
+The Red Lion is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Benny Ill. See dates, start times and who's playing. 41 Hoxton Street, London, N1 6NH.
 
 ## What's on
 

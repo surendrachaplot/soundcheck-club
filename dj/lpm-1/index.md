@@ -1,8 +1,8 @@
 # LPM (1)
 
-LPM (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Racket Space, Dublin on Sat, 17 Oct 2026.
+LPM (1) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Racket Space, Dublin on Sat, 17 Oct 2026.
 
-LPM is a techno and house artist based in Ireland, tracked on soundcheck, with 14 sets logged across Detroit and Dublin. Often billed alongside Derv, JWY and JUSTDYL. Next up: The Racket Space, Dublin on Sat 17 Oct.
+LPM is a techno and house artist based in Ireland, with 14 gigs on soundcheck across Detroit and Dublin. Often billed alongside Derv, JWY and JUSTDYL. Next up: The Racket Space, Dublin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ LPM is a techno and house artist based in Ireland, tracked on soundcheck, with 1
 
 ## Recently played
 
-- The High Dive, Detroit — Fri, 17 Jul 2026
-- The Sound House, Dublin — Fri, 26 Dec 2025
-- Pawn Shop, Dublin — Sun, 20 Apr 2025
-- Wigwam, Dublin — Sat, 28 Dec 2024
-- The Racket Space, Dublin — Thu, 26 Dec 2024
-- Twenty Two, Dublin — Sat, 7 Dec 2024
-- Pawn Shop, Dublin — Thu, 28 Nov 2024
-- JUNO, Dublin — Sat, 19 Oct 2024
+- The High Dive, Detroit · Fri, 17 Jul 2026
+- The Sound House, Dublin · Fri, 26 Dec 2025
+- Pawn Shop, Dublin · Sun, 20 Apr 2025
+- Wigwam, Dublin · Sat, 28 Dec 2024
+- The Racket Space, Dublin · Thu, 26 Dec 2024
+- Twenty Two, Dublin · Sat, 7 Dec 2024
+- Pawn Shop, Dublin · Thu, 28 Nov 2024
+- JUNO, Dublin · Sat, 19 Oct 2024
 
 ## Shares bills with
 

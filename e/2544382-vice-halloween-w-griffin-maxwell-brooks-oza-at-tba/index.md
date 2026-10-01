@@ -1,6 +1,6 @@
 # VICE HALLOWEEN w Griffin Maxwell Brooks, OZA at TBA
 
-VICE HALLOWEEN w Griffin Maxwell Brooks, OZA at TBA on Sat 24 Oct, Los Angeles. 4 artists on the bill: Flabbergast (LA), Griffin Maxwell Brooks, Josh Peace and OZA. Techno and House. Preview the line-up and save it on soundcheck.
+VICE HALLOWEEN w Griffin Maxwell Brooks, OZA at TBA on Sat 24 Oct, Los Angeles. 4 artists: Flabbergast (LA), Griffin Maxwell Brooks, Josh Peace and OZA. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

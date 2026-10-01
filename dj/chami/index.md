@@ -1,8 +1,8 @@
 # Chami
 
-Chami is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Chami is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-Chami is a techno and house artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Barcelona and Basel and 26 more. Often billed alongside Olivia Mendez, OPH and Blasha & Allatt. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Chami is a techno and house artist based in Germany, with 114 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 26 more. Often billed alongside Olivia Mendez, OPH and Blasha & Allatt. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Chami is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
-- Else, Berlin — Sun, 20 Sept 2026
-- Masada, Milan — Sat, 19 Sept 2026
-- Fvtvr, Paris — Fri, 18 Sept 2026
-- FOLD, London — Sat, 12 Sept 2026
-- OHM, Berlin — Sat, 5 Sept 2026
-- De Fik Garden, Amsterdam — Sun, 30 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 29 Aug 2026
-- BLITZ, Munich — Fri, 31 Jul 2026
+- Else, Berlin · Sun, 20 Sept 2026
+- Masada, Milan · Sat, 19 Sept 2026
+- Fvtvr, Paris · Fri, 18 Sept 2026
+- FOLD, London · Sat, 12 Sept 2026
+- OHM, Berlin · Sat, 5 Sept 2026
+- De Fik Garden, Amsterdam · Sun, 30 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 29 Aug 2026
+- BLITZ, Munich · Fri, 31 Jul 2026
 
 ## Shares bills with
 

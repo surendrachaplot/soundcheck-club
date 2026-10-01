@@ -1,6 +1,6 @@
 # Disco Descendants Halloween Family Rave at The Piston
 
-Disco Descendants Halloween Family Rave at The Piston on Sun 25 Oct, Toronto. 1 artist on the bill: Cyclist. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Descendants Halloween Family Rave at The Piston on Sun 25 Oct, Toronto. 1 artist: Cyclist. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

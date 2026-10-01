@@ -1,6 +1,6 @@
 # Run The Numbers presents 4am Kru at Oxford Art Factory
 
-Run The Numbers presents 4am Kru at Oxford Art Factory on Fri 8 Jan, Sydney. 4 artists on the bill: 4am Kru, Fashionably Late, Ninyo (AU) and swisherman. Preview the line-up and save it on soundcheck.
+Run The Numbers presents 4am Kru at Oxford Art Factory on Fri 8 Jan, Sydney. 4 artists: 4am Kru, Fashionably Late, Ninyo (AU) and swisherman. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

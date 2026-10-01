@@ -1,6 +1,6 @@
 # ADULT. & A Place To Bury Strangers at Black Cat
 
-ADULT. & A Place To Bury Strangers at Black Cat on Wed 11 Nov, Washington DC. 1 artist on the bill: ADULT.. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
+ADULT. & A Place To Bury Strangers at Black Cat on Wed 11 Nov, Washington DC. 1 artist: ADULT.. Electro and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

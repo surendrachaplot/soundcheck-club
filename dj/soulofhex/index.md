@@ -1,8 +1,8 @@
 # Soul Of Hex
 
-Soul Of Hex is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sunday Sunday, Mexico City on Sun, 4 Oct 2026.
+Soul Of Hex is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sunday Sunday, Mexico City on Sun, 4 Oct 2026.
 
-Soul Of Hex is a house and techno artist based in Mexico, tracked on soundcheck, with 30 sets logged across Los Angeles, Mexico City, Paris and San Diego and 2 more. Often billed alongside Alena Vox, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: Sunday Sunday, Mexico City on Sun 4 Oct.
+Soul Of Hex is a house and techno artist based in Mexico, with 30 gigs on soundcheck across Los Angeles, Mexico City, Paris and San Diego and 2 more. Often billed alongside Alena Vox, Duke Skylocker (Disco Dust) and Miss Voltaghe. Next up: Sunday Sunday, Mexico City on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Soul Of Hex is a house and techno artist based in Mexico, tracked on soundcheck,
 
 ## Recently played
 
-- Fünk, Mexico City — Sat, 15 Aug 2026
-- Belltown Yacht Club, Seattle — Fri, 17 Jul 2026
-- Fünk, Mexico City — Sat, 7 Mar 2026
-- Departamento, Mexico City — Sat, 25 Oct 2025
-- Departamento, Mexico City — Wed, 22 Oct 2025
-- Fünk, Mexico City — Sat, 20 Sept 2025
-- Spin, San Diego — Sun, 7 Sept 2025
-- Departamento, Mexico City — Sat, 2 Aug 2025
+- Fünk, Mexico City · Sat, 15 Aug 2026
+- Belltown Yacht Club, Seattle · Fri, 17 Jul 2026
+- Fünk, Mexico City · Sat, 7 Mar 2026
+- Departamento, Mexico City · Sat, 25 Oct 2025
+- Departamento, Mexico City · Wed, 22 Oct 2025
+- Fünk, Mexico City · Sat, 20 Sept 2025
+- Spin, San Diego · Sun, 7 Sept 2025
+- Departamento, Mexico City · Sat, 2 Aug 2025
 
 ## Shares bills with
 

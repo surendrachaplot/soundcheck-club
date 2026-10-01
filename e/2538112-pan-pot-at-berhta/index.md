@@ -1,6 +1,6 @@
 # Pan-Pot at BERHTA
 
-Pan-Pot at BERHTA on Fri 30 Oct, Washington DC. 1 artist on the bill: Pan-Pot. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Pan-Pot at BERHTA on Fri 30 Oct, Washington DC. 1 artist: Pan-Pot. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

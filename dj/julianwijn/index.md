@@ -1,27 +1,28 @@
 # Julian Wijn
 
-Julian Wijn is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
+Julian Wijn is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Basement Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
-Julian Wijn is a house and deep house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Paris and Utrecht. Often billed alongside Ive Lovers, Lasse Top and Laura Meester. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
+Julian Wijn is a house and deep house artist based in Netherlands, with 31 gigs on soundcheck across Amsterdam, Paris and Utrecht. Often billed alongside Ive Lovers, Lasse Top and Laura Meester. Next up: Basement Amsterdam, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Basement Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Fri, 23 Oct 2026 | Ijver | Amsterdam |
 
 ## Recently played
 
-- Club Up, Amsterdam — Sat, 19 Sept 2026
-- Shelter Amsterdam, Amsterdam — Sat, 4 Jul 2026
-- Sloterpark, Amsterdam — Sat, 20 Jun 2026
-- TILLATEC, Amsterdam — Sat, 13 Jun 2026
-- Ijburg, Amsterdam — Sun, 24 May 2026
-- Thuishaven, Amsterdam — Sun, 24 May 2026
-- Basement, Amsterdam — Sat, 23 May 2026
-- Yellow House, Amsterdam — Sat, 9 May 2026
+- Club Up, Amsterdam · Sat, 19 Sept 2026
+- Shelter Amsterdam, Amsterdam · Sat, 4 Jul 2026
+- Sloterpark, Amsterdam · Sat, 20 Jun 2026
+- TILLATEC, Amsterdam · Sat, 13 Jun 2026
+- Ijburg, Amsterdam · Sun, 24 May 2026
+- Thuishaven, Amsterdam · Sun, 24 May 2026
+- Basement, Amsterdam · Sat, 23 May 2026
+- Yellow House, Amsterdam · Sat, 9 May 2026
 
 ## Shares bills with
 

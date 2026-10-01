@@ -1,8 +1,8 @@
 # Miss T Delight
 
-Miss T Delight is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Point Ephémère, Paris on Fri, 2 Oct 2026.
+Miss T Delight is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Point Ephémère, Paris on Fri, 2 Oct 2026.
 
-Miss T Delight is a techno and electro artist based in Turkey, tracked on soundcheck, with 24 sets logged across Berlin and Paris. Often billed alongside hi.fí, Kiar Oscuro and 4M4R. Next up: Point Ephémère, Paris on Fri 2 Oct.
+Miss T Delight is a techno and electro artist based in Turkey, with 24 gigs on soundcheck across Berlin and Paris. Often billed alongside hi.fí, Kiar Oscuro and 4M4R. Next up: Point Ephémère, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Miss T Delight is a techno and electro artist based in Turkey, tracked on soundc
 
 ## Recently played
 
-- TBA, Berlin — Sun, 20 Sept 2026
-- Else, Berlin — Sat, 22 Aug 2026
-- OXI, Berlin — Fri, 31 Jul 2026
-- Badehaus Berlin, Berlin — Sat, 25 Jul 2026
-- THF Radio / Torhaus, Berlin — Sat, 11 Jul 2026
-- OXI, Berlin — Sun, 14 Jun 2026
-- Crack Bellmer, Berlin — Thu, 21 May 2026
-- Renate, Berlin — Fri, 24 Apr 2026
+- TBA, Berlin · Sun, 20 Sept 2026
+- Else, Berlin · Sat, 22 Aug 2026
+- OXI, Berlin · Fri, 31 Jul 2026
+- Badehaus Berlin, Berlin · Sat, 25 Jul 2026
+- THF Radio / Torhaus, Berlin · Sat, 11 Jul 2026
+- OXI, Berlin · Sun, 14 Jun 2026
+- Crack Bellmer, Berlin · Thu, 21 May 2026
+- Renate, Berlin · Fri, 24 Apr 2026
 
 ## Shares bills with
 

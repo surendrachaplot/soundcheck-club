@@ -1,6 +1,6 @@
 # Contratempos Clubbing at Lux Fragil
 
-Contratempos Clubbing at Lux Fragil on Thu 8 Oct, Lisbon. 1 artist on the bill: Delikwe. Drum & Bass. Preview the line-up and save it on soundcheck.
+Contratempos Clubbing at Lux Fragil on Thu 8 Oct, Lisbon. 1 artist: Delikwe. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Thomas Dexter at Groove Bar
 
-Thomas Dexter at Groove Bar on Sat 3 Oct, Prague. House and Electronica. Preview the line-up and save it on soundcheck.
+Thomas Dexter at Groove Bar on Sat 3 Oct, Prague. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

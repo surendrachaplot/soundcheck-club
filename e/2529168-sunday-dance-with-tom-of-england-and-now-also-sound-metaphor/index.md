@@ -1,6 +1,6 @@
 # Sunday Dance with Tom of England and now also SOUND METAPHORS DJ'S at Better Tomorrow
 
-Sunday Dance with Tom of England and now also SOUND METAPHORS DJ'S at Better Tomorrow on Sun 4 Oct, Los Angeles. 4 artists on the bill: Juniör, Sound Metaphors Djs, Tom of England and Warehouse Preservation Society. House. Preview the line-up and save it on soundcheck.
+Sunday Dance with Tom of England and now also SOUND METAPHORS DJ'S at Better Tomorrow on Sun 4 Oct, Los Angeles. 4 artists: Juniör, Sound Metaphors Djs, Tom of England and Warehouse Preservation Society. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

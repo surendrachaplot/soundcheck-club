@@ -1,8 +1,8 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wibar, Netherlands on Sat, 3 Oct 2026.
+BASHKKA is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wibar, Netherlands on Sat, 3 Oct 2026.
 
-BASHKKA is a techno and house artist based in Germany, tracked on soundcheck, with 310 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Wibar, Netherlands on Sat 3 Oct.
+BASHKKA is a techno and house artist based in Germany, with 310 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Wibar, Netherlands on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ BASHKKA is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Fvtvr, Paris — Wed, 30 Sept 2026
-- Depot Mayfield, Manchester — Sat, 26 Sept 2026
-- Azimut Club, Turin — Fri, 25 Sept 2026
-- Flash, Washington DC — Sun, 20 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- BASEMENT, New York City — Fri, 11 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Southwark Park, London — Sun, 30 Aug 2026
+- Fvtvr, Paris · Wed, 30 Sept 2026
+- Depot Mayfield, Manchester · Sat, 26 Sept 2026
+- Azimut Club, Turin · Fri, 25 Sept 2026
+- Flash, Washington DC · Sun, 20 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- BASEMENT, New York City · Fri, 11 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Southwark Park, London · Sun, 30 Aug 2026
 
 ## Shares bills with
 

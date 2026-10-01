@@ -1,8 +1,8 @@
 # Mark Knight
 
-Mark Knight is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at fabric, London on Sat, 24 Oct 2026.
+Mark Knight is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Sat, 24 Oct 2026.
 
-Mark Knight is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Amsterdam, Austin, Barcelona and Chicago and 22 more. Often billed alongside Martin Ikin, Gene Farris and CASSIMM. Next up: fabric, London on Sat 24 Oct.
+Mark Knight is a house and tech house artist based in United Kingdom, with 77 gigs on soundcheck across Amsterdam, Austin, Barcelona and Chicago and 22 more. Often billed alongside Martin Ikin, Gene Farris and CASSIMM. Next up: fabric, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mark Knight is a house and tech house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Revolver Upstairs, Melbourne — Sun, 13 Sept 2026
-- Pacha Ibiza, Ibiza — Sat, 5 Sept 2026
-- Pacha Ibiza, Ibiza — Sat, 5 Sept 2026
-- Sunnyside Pavilion, Toronto — Sat, 29 Aug 2026
-- House of Noa, Amsterdam — Sat, 11 Jul 2026
-- Chinois Ibiza, Ibiza — Mon, 8 Jun 2026
-- Fabrik, Madrid — Sat, 6 Jun 2026
-- Spybar, Chicago — Sat, 30 May 2026
+- Revolver Upstairs, Melbourne · Sun, 13 Sept 2026
+- Pacha Ibiza, Ibiza · Sat, 5 Sept 2026
+- Pacha Ibiza, Ibiza · Sat, 5 Sept 2026
+- Sunnyside Pavilion, Toronto · Sat, 29 Aug 2026
+- House of Noa, Amsterdam · Sat, 11 Jul 2026
+- Chinois Ibiza, Ibiza · Mon, 8 Jun 2026
+- Fabrik, Madrid · Sat, 6 Jun 2026
+- Spybar, Chicago · Sat, 30 May 2026
 
 ## Shares bills with
 

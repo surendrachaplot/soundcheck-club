@@ -1,6 +1,6 @@
 # Alan Power: A Night in Tennessee at Frankhan Selectist
 
-Alan Power: A Night in Tennessee at Frankhan Selectist on Fri 16 Oct, Istanbul. Preview the line-up and save it on soundcheck.
+Alan Power: A Night in Tennessee at Frankhan Selectist on Fri 16 Oct, Istanbul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

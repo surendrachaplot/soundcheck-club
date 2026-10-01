@@ -1,8 +1,8 @@
 # WOMB
 
-WOMB is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "WTW -秋場所- (TECH HOUSE)" on Thu, 1 Oct 2026.
+WOMB is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WTW -秋場所- (TECH HOUSE)" on Thu, 1 Oct 2026.
 
-WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including AHREUM, Akie, Akua and ASIN and 2 more. Browse upcoming dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
+WOMB is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including AHREUM, Akie, Akua and ASIN and 2 more. See dates, start times and who's playing. 2-16 Maruyamacho Shibuya, Tokyo 150-0044 Japan.
 
 ## What's on
 

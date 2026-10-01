@@ -1,6 +1,6 @@
 # Midwife (US) & Devin Shaffer (US) — Live at the church at Start.Bahn - Genezarethkirche
 
-Midwife (US) & Devin Shaffer (US) — Live at the church at Start.Bahn - Genezarethkirche on Wed 11 Nov, Berlin. 1 artist on the bill: Midwife. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Midwife (US) & Devin Shaffer (US) — Live at the church at Start.Bahn - Genezarethkirche on Wed 11 Nov, Berlin. 1 artist: Midwife. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

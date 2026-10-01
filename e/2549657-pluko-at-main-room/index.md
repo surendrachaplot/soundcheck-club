@@ -1,6 +1,6 @@
 # Pluko at main room
 
-Pluko at main room on Thu 29 Oct, Paris. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Pluko at main room on Thu 29 Oct, Paris. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

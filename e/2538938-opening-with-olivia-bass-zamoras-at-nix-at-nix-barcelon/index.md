@@ -1,6 +1,6 @@
 # OPENING with Olivia Bass & Zamoras at Nix at NIX Barcelon
 
-OPENING with Olivia Bass & Zamoras at Nix at NIX Barcelon on Fri 9 Oct, Barcelona. 1 artist on the bill: Sebastián Peña. Tech House. Preview the line-up and save it on soundcheck.
+OPENING with Olivia Bass & Zamoras at Nix at NIX Barcelon on Fri 9 Oct, Barcelona. 1 artist: Sebastián Peña. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

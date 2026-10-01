@@ -1,6 +1,6 @@
 # Altar: Space Ravers at Bread and Butter
 
-Altar: Space Ravers at Bread and Butter on Sat 24 Oct, London. 1 artist on the bill: Le Don. House and Acid. Preview the line-up and save it on soundcheck.
+Altar: Space Ravers at Bread and Butter on Sat 24 Oct, London. 1 artist: Le Don. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

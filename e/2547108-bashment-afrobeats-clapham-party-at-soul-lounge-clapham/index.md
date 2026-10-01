@@ -1,6 +1,6 @@
 # Bashment & Afrobeats Clapham Party at Soul Lounge Clapham
 
-Bashment & Afrobeats Clapham Party at Soul Lounge Clapham on Fri 16 Oct, London. Preview the line-up and save it on soundcheck.
+Bashment & Afrobeats Clapham Party at Soul Lounge Clapham on Fri 16 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

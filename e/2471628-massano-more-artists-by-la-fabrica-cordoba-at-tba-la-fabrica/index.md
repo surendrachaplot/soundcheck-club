@@ -1,6 +1,6 @@
 # Massano & MORE ARTISTS - by LA FABRICA, CORDOBA at TBA - La Fabrica, Cordoba
 
-Massano & MORE ARTISTS - by LA FABRICA, CORDOBA at TBA - La Fabrica, Cordoba on Sat 28 Nov, Argentina. 1 artist on the bill: Massano. Preview the line-up and save it on soundcheck.
+Massano & MORE ARTISTS - by LA FABRICA, CORDOBA at TBA - La Fabrica, Cordoba on Sat 28 Nov, Argentina. 1 artist: Massano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

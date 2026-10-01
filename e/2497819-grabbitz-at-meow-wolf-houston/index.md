@@ -1,6 +1,6 @@
 # Grabbitz at Meow Wolf Houston
 
-Grabbitz at Meow Wolf Houston on Sat 7 Nov, Houston. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Grabbitz at Meow Wolf Houston on Sat 7 Nov, Houston. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

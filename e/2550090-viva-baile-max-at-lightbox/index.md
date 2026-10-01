@@ -1,6 +1,6 @@
 # VIVA BAILE MAX at Lightbox
 
-VIVA BAILE MAX at Lightbox on Sat 10 Oct, London. Baile Funk. Preview the line-up and save it on soundcheck.
+VIVA BAILE MAX at Lightbox on Sat 10 Oct, London. Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

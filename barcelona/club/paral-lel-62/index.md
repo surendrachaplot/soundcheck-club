@@ -1,8 +1,8 @@
 # Paral•lel 62
 
-Paral•lel 62 is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "She Makes Noise x Taiwán" on Fri, 9 Oct 2026.
+Paral•lel 62 is a music venue in Barcelona with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "She Makes Noise x Taiwán" on Fri, 9 Oct 2026.
 
-Paral•lel 62 is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Sabiwa, Scintii and Sonia Calico. Browse upcoming dates, start times and who's playing. Av. del Paral·lel, 62, 08001 Barcelona.
+Paral•lel 62 is a music venue in Barcelona listed on soundcheck. 1 upcoming gig, with line-ups including Sabiwa, Scintii and Sonia Calico. See dates, start times and who's playing. Av. del Paral·lel, 62, 08001 Barcelona.
 
 ## What's on
 

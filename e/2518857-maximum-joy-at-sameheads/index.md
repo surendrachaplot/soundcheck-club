@@ -1,6 +1,6 @@
 # MAXIMUM JOY at Sameheads
 
-MAXIMUM JOY at Sameheads on Sat 3 Oct, Berlin. 3 artists on the bill: Luigi Di Venere, Maneta and Roberta Deflorio. Preview the line-up and save it on soundcheck.
+MAXIMUM JOY at Sameheads on Sat 3 Oct, Berlin. 3 artists: Luigi Di Venere, Maneta and Roberta Deflorio. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

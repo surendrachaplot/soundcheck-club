@@ -1,6 +1,6 @@
 # MOLDIVE with 5ive -13th Anniversary Special- at Noon + Cafe
 
-MOLDIVE with 5ive -13th Anniversary Special- at Noon + Cafe on Sat 10 Oct, Osaka. 2 artists on the bill: 5ive and KAITO.. Techno and House. Preview the line-up and save it on soundcheck.
+MOLDIVE with 5ive -13th Anniversary Special- at Noon + Cafe on Sat 10 Oct, Osaka. 2 artists: 5ive and KAITO.. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

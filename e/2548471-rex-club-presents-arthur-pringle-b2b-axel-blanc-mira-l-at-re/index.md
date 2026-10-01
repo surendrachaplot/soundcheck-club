@@ -1,6 +1,6 @@
 # Rex Club presents: Arthur Pringle b2b Axel Blanc, Mira Ló at Rex Club
 
-Rex Club presents: Arthur Pringle b2b Axel Blanc, Mira Ló on Sat 31 Oct, Paris. 2 artists on the bill: Axel Blanc and Mira Ló. House and Tech House. Preview the line-up and save it on soundcheck.
+Rex Club presents: Arthur Pringle b2b Axel Blanc, Mira Ló on Sat 31 Oct, Paris. 2 artists: Axel Blanc and Mira Ló. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

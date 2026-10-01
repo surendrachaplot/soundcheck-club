@@ -1,8 +1,8 @@
 # Israfil
 
-Israfil is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
+Israfil is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mains D'œuvres, Paris on Fri, 2 Oct 2026.
 
-Israfil is a techno and trance artist based in France, tracked on soundcheck, with 27 sets logged across Berlin, Copenhagen, Geneva and Lisbon and 6 more. Often billed alongside Shlagga, BNZ and VEL (MA). Next up: Mains D'œuvres, Paris on Fri 2 Oct.
+Israfil is a techno and trance artist based in France, with 27 gigs on soundcheck across Berlin, Copenhagen, Geneva and Lisbon and 6 more. Often billed alongside Shlagga, BNZ and VEL (MA). Next up: Mains D'œuvres, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Israfil is a techno and trance artist based in France, tracked on soundcheck, wi
 
 ## Recently played
 
-- Friche Belle de Mai, Marseille — Fri, 22 May 2026
-- La Cité Fertile, Paris — Sat, 9 May 2026
-- Petit CAB, Marseille — Fri, 13 Feb 2026
-- La Station - Gare des Mines, Paris — Fri, 6 Feb 2026
-- PIP Den Haag, The Hague — Fri, 5 Dec 2025
-- Petit CAB, Marseille — Sat, 4 Oct 2025
-- Hangaren, Copenhagen — Sat, 20 Sept 2025
-- essaim, Paris — Sat, 31 May 2025
+- Friche Belle de Mai, Marseille · Fri, 22 May 2026
+- La Cité Fertile, Paris · Sat, 9 May 2026
+- Petit CAB, Marseille · Fri, 13 Feb 2026
+- La Station - Gare des Mines, Paris · Fri, 6 Feb 2026
+- PIP Den Haag, The Hague · Fri, 5 Dec 2025
+- Petit CAB, Marseille · Sat, 4 Oct 2025
+- Hangaren, Copenhagen · Sat, 20 Sept 2025
+- essaim, Paris · Sat, 31 May 2025
 
 ## Shares bills with
 

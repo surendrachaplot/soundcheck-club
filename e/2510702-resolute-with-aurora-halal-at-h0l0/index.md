@@ -1,6 +1,6 @@
 # ReSolute with Aurora Halal at H0L0
 
-ReSolute with Aurora Halal at H0L0 on Fri 9 Oct, New York City. 7 artists on the bill: Amelia Holt, Aurora Halal, Dio Garcia and Joiah and 3 more. Electro and Experimental. Preview the line-up and save it on soundcheck.
+ReSolute with Aurora Halal at H0L0 on Fri 9 Oct, New York City. 7 artists: Amelia Holt, Aurora Halal, Dio Garcia and Joiah and 3 more. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

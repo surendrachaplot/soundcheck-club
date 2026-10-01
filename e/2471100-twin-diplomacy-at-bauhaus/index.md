@@ -1,6 +1,6 @@
 # TWIN DIPLOMACY at Bauhaus
 
-TWIN DIPLOMACY at Bauhaus on Sat 17 Oct, Houston. Techno and House. Preview the line-up and save it on soundcheck.
+TWIN DIPLOMACY at Bauhaus on Sat 17 Oct, Houston. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

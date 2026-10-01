@@ -1,6 +1,6 @@
 # SYSTEM OLYMPIA *live at Gretchen
 
-SYSTEM OLYMPIA *live at Gretchen on Sun 6 Dec, Berlin. Electronica. Preview the line-up and save it on soundcheck.
+SYSTEM OLYMPIA *live at Gretchen on Sun 6 Dec, Berlin. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

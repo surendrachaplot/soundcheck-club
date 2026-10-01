@@ -1,8 +1,8 @@
 # Love Shack LDN
 
-Love Shack LDN is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sacred Rhythm" on Sat, 10 Oct 2026.
+Love Shack LDN is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sacred Rhythm" on Sat, 10 Oct 2026.
 
-Love Shack LDN is a music venue in London listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Arch 298-299 Cambridge Heath Road London, United Kingdom E2 9HA.
+Love Shack LDN is a music venue in London listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Arch 298-299 Cambridge Heath Road London, United Kingdom E2 9HA.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # ESL: Bad Decisions on Wednesday - Open Decks Sessions / Maximiliano Live at Eighteenth Street Lounge (ESL)
 
-ESL: Bad Decisions on Wednesday - Open Decks Sessions / Maximiliano Live at Eighteenth Street Lounge (ESL) on Wed 7 Oct, Washington DC. 1 artist on the bill: MAXIMILIANO (US). House. Preview the line-up and save it on soundcheck.
+ESL: Bad Decisions on Wednesday - Open Decks Sessions / Maximiliano Live at Eighteenth Street Lounge (ESL) on Wed 7 Oct, Washington DC. 1 artist: MAXIMILIANO (US). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

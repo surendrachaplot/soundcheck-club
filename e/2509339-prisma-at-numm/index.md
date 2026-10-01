@@ -1,6 +1,6 @@
 # Prisma at Numm
 
-Prisma at Numm on Sun 11 Oct, Tokyo. 2 artists on the bill: Dazzle Drums and MINAMI. House and Disco. Preview the line-up and save it on soundcheck.
+Prisma at Numm on Sun 11 Oct, Tokyo. 2 artists: Dazzle Drums and MINAMI. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

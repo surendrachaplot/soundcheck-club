@@ -1,6 +1,6 @@
 # [EXTRA DATE ADDED] SHINE -- Jamie Fielding at The Telegraph Building
 
-[EXTRA DATE ADDED] SHINE -- Jamie Fielding at The Telegraph Building on Thu 12 Nov, Belfast. 1 artist on the bill: Jamie Fielding. Preview the line-up and save it on soundcheck.
+[EXTRA DATE ADDED] SHINE -- Jamie Fielding at The Telegraph Building on Thu 12 Nov, Belfast. 1 artist: Jamie Fielding. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

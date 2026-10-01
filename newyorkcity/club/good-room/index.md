@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DJ Plead, rrao" on Thu, 1 Oct 2026.
+Good Room is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DJ Plead, rrao" on Thu, 1 Oct 2026.
 
-Good Room is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Arvin T and Baalti and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Arvin T and Baalti and 2 more. See dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 

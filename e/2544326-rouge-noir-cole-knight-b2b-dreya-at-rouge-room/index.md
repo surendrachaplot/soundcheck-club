@@ -1,6 +1,6 @@
 # Rouge Noir: Cole Knight b2b Dreya at Rouge Room
 
-Rouge Noir: Cole Knight b2b Dreya at Rouge Room on Fri 9 Oct, Las Vegas. 1 artist on the bill: Cole Knight. Preview the line-up and save it on soundcheck.
+Rouge Noir: Cole Knight b2b Dreya at Rouge Room on Fri 9 Oct, Las Vegas. 1 artist: Cole Knight. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

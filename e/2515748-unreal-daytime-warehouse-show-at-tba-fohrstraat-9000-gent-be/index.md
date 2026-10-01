@@ -1,6 +1,6 @@
 # Unreal — Daytime Warehouse Show at TBA - Fohrstraat, 9000 Gent, België
 
-Unreal — Daytime Warehouse Show at TBA - Fohrstraat, 9000 Gent, België on Fri 30 Oct, Belgium. 7 artists on the bill: Afem Syko, BISOUX, Cara Elizabeth and Charlie Sparks and 3 more. Preview the line-up and save it on soundcheck.
+Unreal — Daytime Warehouse Show at TBA - Fohrstraat, 9000 Gent, België on Fri 30 Oct, Belgium. 7 artists: Afem Syko, BISOUX, Cara Elizabeth and Charlie Sparks and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

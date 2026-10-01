@@ -1,6 +1,6 @@
 # YGM x Stereo Bar at Stereo
 
-YGM x Stereo Bar on Fri 23 Oct, Montreal. 3 artists on the bill: Dust-E-1, Matt Brancatella and Metizo. Minimal Techno. Preview the line-up and save it on soundcheck.
+YGM x Stereo Bar on Fri 23 Oct, Montreal. 3 artists: Dust-E-1, Matt Brancatella and Metizo. Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

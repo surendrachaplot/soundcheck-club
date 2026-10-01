@@ -1,6 +1,6 @@
 # Eric Prydz at Pier 48's Shed A
 
-Eric Prydz at Pier 48's Shed A on Sat 31 Oct, San Francisco/Oakland. 3 artists on the bill: Eric Prydz, Kelly Lee Owens and Tiga. Preview the line-up and save it on soundcheck.
+Eric Prydz at Pier 48's Shed A on Sat 31 Oct, San Francisco/Oakland. 3 artists: Eric Prydz, Kelly Lee Owens and Tiga. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

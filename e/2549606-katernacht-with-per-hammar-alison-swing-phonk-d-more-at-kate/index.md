@@ -1,6 +1,6 @@
 # Katernacht with Per Hammar, Alison Swing, Phonk D + more at Kater
 
-Katernacht with Per Hammar, Alison Swing, Phonk D + more on Sat 21 Nov, Berlin. 9 artists on the bill: Alison Swing, Kotelett, Per Hammar and Phonk D and 5 more. House and Disco. Preview the line-up and save it on soundcheck.
+Katernacht with Per Hammar, Alison Swing, Phonk D + more on Sat 21 Nov, Berlin. 10 artists: Alison Swing, Hanna Baertig, Kotelett and Per Hammar and 6 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Katernacht with Per Hammar, Alison Swing, Phonk D + more on Sat 21 Nov, Berlin. 
 ## Line-up
 
 - Alison Swing
+- Hanna Baertig
 - Kotelett
 - Per Hammar
 - Phonk D

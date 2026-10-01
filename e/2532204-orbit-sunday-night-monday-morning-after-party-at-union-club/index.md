@@ -1,6 +1,6 @@
 # Orbit Sunday night / Monday morning after party at Union Club, Vauxhall
 
-Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 25 Oct, London. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 25 Oct, London. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

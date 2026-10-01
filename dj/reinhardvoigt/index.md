@@ -1,8 +1,8 @@
 # Reinhard Voigt
 
-Reinhard Voigt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Reinhard Voigt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
-Reinhard Voigt is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Cologne and Tbilisi. Often billed alongside Michael Mayer, Denis Stockhausen and Robag Wruhme. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+Reinhard Voigt is a techno and house artist based in Germany, with 9 gigs on soundcheck across Barcelona, Berlin, Cologne and Tbilisi. Often billed alongside Michael Mayer, Denis Stockhausen and Robag Wruhme. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Reinhard Voigt is a techno and house artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- fi, Cologne — Fri, 25 Sept 2026
-- fi, Cologne — Fri, 10 Oct 2025
-- TBA - Kölnischer Kunstverein - Hahnenstrasse 6, 50667 Köln, Cologne — Fri, 23 May 2025
-- fi, Cologne — Sat, 7 Sept 2024
-- Rachdingue, Barcelona — Sat, 31 Aug 2024
-- Südbrücke, Cologne — Sat, 2 Sept 2023
-- Ritter Butzke, Berlin — Fri, 11 Aug 2023
-- Institute of Space Structures - 4GB, Tbilisi — Thu, 25 May 2023
+- fi, Cologne · Fri, 25 Sept 2026
+- fi, Cologne · Fri, 10 Oct 2025
+- TBA - Kölnischer Kunstverein - Hahnenstrasse 6, 50667 Köln, Cologne · Fri, 23 May 2025
+- fi, Cologne · Sat, 7 Sept 2024
+- Rachdingue, Barcelona · Sat, 31 Aug 2024
+- Südbrücke, Cologne · Sat, 2 Sept 2023
+- Ritter Butzke, Berlin · Fri, 11 Aug 2023
+- Institute of Space Structures - 4GB, Tbilisi · Thu, 25 May 2023
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Eternal Soul
 
-Eternal Soul is a Psytrance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Burdekin Hotel, Sydney on Sat, 3 Oct 2026.
+Eternal Soul is a Psytrance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Burdekin Hotel, Sydney on Sat, 3 Oct 2026.
 
-Eternal Soul is a psytrance and techno artist based in Australia, tracked on soundcheck, with 12 sets logged across Sydney. Often billed alongside Zompsy, Bryan Ro and Glacial. Next up: Burdekin Hotel, Sydney on Sat 3 Oct.
+Eternal Soul is a psytrance and techno artist based in Australia, with 12 gigs on soundcheck across Sydney. Often billed alongside Zompsy, Bryan Ro and Glacial. Next up: Burdekin Hotel, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Eternal Soul is a psytrance and techno artist based in Australia, tracked on sou
 
 ## Recently played
 
-- Burdekin Hotel, Sydney — Sat, 20 Jun 2026
-- Burdekin Hotel, Sydney — Sat, 2 May 2026
-- Burdekin Hotel, Sydney — Sat, 14 Mar 2026
-- TBA - Property Near Sydney, Sydney — Fri, 23 Jan 2026
-- Burdekin Hotel, Sydney — Sat, 27 Dec 2025
-- Burdekin Hotel, Sydney — Sat, 22 Nov 2025
-- Burdekin Hotel, Sydney — Sat, 18 Oct 2025
-- TBA - 2 Hours from Sydney, Sydney — Fri, 10 Oct 2025
+- Burdekin Hotel, Sydney · Sat, 20 Jun 2026
+- Burdekin Hotel, Sydney · Sat, 2 May 2026
+- Burdekin Hotel, Sydney · Sat, 14 Mar 2026
+- TBA - Property Near Sydney, Sydney · Fri, 23 Jan 2026
+- Burdekin Hotel, Sydney · Sat, 27 Dec 2025
+- Burdekin Hotel, Sydney · Sat, 22 Nov 2025
+- Burdekin Hotel, Sydney · Sat, 18 Oct 2025
+- TBA - 2 Hours from Sydney, Sydney · Fri, 10 Oct 2025
 
 ## Shares bills with
 

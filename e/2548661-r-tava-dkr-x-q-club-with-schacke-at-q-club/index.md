@@ -1,6 +1,6 @@
 # RÀTAVA - dkr X Q club with Schacke at Q Club
 
-RÀTAVA - dkr X Q club with Schacke at Q Club on Fri 16 Oct, Milan. 3 artists on the bill: Galilea, Lady Goccia and Schacke. Techno. Preview the line-up and save it on soundcheck.
+RÀTAVA - dkr X Q club with Schacke at Q Club on Fri 16 Oct, Milan. 3 artists: Galilea, Lady Goccia and Schacke. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Lolita Pride Edition at La Machine Du Moulin Rouge
 
-Lolita Pride Edition at La Machine Du Moulin Rouge on Sat 3 Oct, Paris. Pop and Club. Preview the line-up and save it on soundcheck.
+Lolita Pride Edition at La Machine Du Moulin Rouge on Sat 3 Oct, Paris. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

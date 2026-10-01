@@ -1,6 +1,6 @@
 # Vnssa at Celine Orlando
 
-Vnssa at Celine Orlando on Fri 16 Oct, Orlando. 1 artist on the bill: Vnssa. Preview the line-up and save it on soundcheck.
+Vnssa at Celine Orlando on Fri 16 Oct, Orlando. 1 artist: Vnssa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

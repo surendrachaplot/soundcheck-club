@@ -1,6 +1,6 @@
 # Smoke Machine Night: Dr. Rubinstein at Pawnshop
 
-Smoke Machine Night: Dr. Rubinstein at Pawnshop on Fri 13 Nov, Taipei. 1 artist on the bill: Dr. Rubinstein. Preview the line-up and save it on soundcheck.
+Smoke Machine Night: Dr. Rubinstein at Pawnshop on Fri 13 Nov, Taipei. 1 artist: Dr. Rubinstein. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

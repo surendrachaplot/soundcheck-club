@@ -1,8 +1,8 @@
 # Julie Desire
 
-Julie Desire is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
+Julie Desire is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at RAWFACTORY, Amsterdam on Thu, 22 Oct 2026.
 
-Julie Desire is a techno and house artist based in France, tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
+Julie Desire is a techno and house artist based in France, with 112 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 21 more. Often billed alongside Cheriii, Mars O10C and A-440. Next up: RAWFACTORY, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Julie Desire is a techno and house artist based in France, tracked on soundcheck
 
 ## Recently played
 
-- OXI, Berlin — Sun, 27 Sept 2026
-- La Station - Gare des Mines, Paris — Sat, 5 Sept 2026
-- Le Sucre, Lyon — Fri, 4 Sept 2026
-- The White Hotel, Manchester — Sat, 29 Aug 2026
-- La Station - Gare des Mines, Paris — Fri, 21 Aug 2026
-- ÆDEN x MARMORBAR: Fields & Spaces, Berlin — Sat, 25 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
-- ÆDEN, Berlin — Sat, 4 Jul 2026
+- OXI, Berlin · Sun, 27 Sept 2026
+- La Station - Gare des Mines, Paris · Sat, 5 Sept 2026
+- Le Sucre, Lyon · Fri, 4 Sept 2026
+- The White Hotel, Manchester · Sat, 29 Aug 2026
+- La Station - Gare des Mines, Paris · Fri, 21 Aug 2026
+- ÆDEN x MARMORBAR: Fields & Spaces, Berlin · Sat, 25 Jul 2026
+- Ferropolis, Leipzig · Fri, 17 Jul 2026
+- ÆDEN, Berlin · Sat, 4 Jul 2026
 
 ## Shares bills with
 

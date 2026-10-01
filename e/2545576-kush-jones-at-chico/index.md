@@ -1,6 +1,6 @@
 # Kush Jones at CHICO
 
-Kush Jones at CHICO on Fri 2 Oct, Mexico City. 1 artist on the bill: Kush Jones. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Kush Jones at CHICO on Fri 2 Oct, Mexico City. 1 artist: Kush Jones. Footwork and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

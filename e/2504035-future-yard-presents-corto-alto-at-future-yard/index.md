@@ -1,6 +1,6 @@
 # Future Yard presents corto.alto at Future Yard
 
-Future Yard presents corto.alto on Wed 18 Nov, Liverpool. 1 artist on the bill: corto.alto. Jazz. Preview the line-up and save it on soundcheck.
+Future Yard presents corto.alto on Wed 18 Nov, Liverpool. 1 artist: corto.alto. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

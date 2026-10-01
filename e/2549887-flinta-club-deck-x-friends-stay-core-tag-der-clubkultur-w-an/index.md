@@ -1,6 +1,6 @@
 # FLINTA* CLUB DECK x Friends – STAY CORE - TAG DER CLUBKULTUR w. anamorphotic, aqwapi, cee_ohh at Klunkerkranich
 
-FLINTA* CLUB DECK x Friends – STAY CORE - TAG DER CLUBKULTUR w. anamorphotic, aqwapi, cee_ohh at Klunkerkranich on Thu 8 Oct, Berlin. Preview the line-up and save it on soundcheck.
+FLINTA* CLUB DECK x Friends – STAY CORE - TAG DER CLUBKULTUR w. anamorphotic, aqwapi, cee_ohh at Klunkerkranich on Thu 8 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

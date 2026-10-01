@@ -1,6 +1,6 @@
 # Hub. with Mikey D.O.N at Factory Floor
 
-Hub. with Mikey D.O.N at Factory Floor on Sat 3 Oct, Sheffield. Hip-Hop and Deep House. Preview the line-up and save it on soundcheck.
+Hub. with Mikey D.O.N at Factory Floor on Sat 3 Oct, Sheffield. Hip-Hop and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

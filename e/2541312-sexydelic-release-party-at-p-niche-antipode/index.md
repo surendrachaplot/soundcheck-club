@@ -1,6 +1,6 @@
 # SEXYDELIC RELEASE PARTY at Péniche Antipode
 
-SEXYDELIC RELEASE PARTY at Péniche Antipode on Mon 19 Oct, Paris. Jazz and R&B. Preview the line-up and save it on soundcheck.
+SEXYDELIC RELEASE PARTY at Péniche Antipode on Mon 19 Oct, Paris. Jazz and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

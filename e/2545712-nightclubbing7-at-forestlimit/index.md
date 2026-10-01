@@ -1,6 +1,6 @@
 # 'Nightclubbing7' at Forestlimit
 
-'Nightclubbing7' at Forestlimit on Sat 10 Oct, Tokyo. 4 artists on the bill: Acidclank, Big Animal Theory, HINOTO and Lewo Chyba. Bass. Preview the line-up and save it on soundcheck.
+'Nightclubbing7' at Forestlimit on Sat 10 Oct, Tokyo. 4 artists: Acidclank, Big Animal Theory, HINOTO and Lewo Chyba. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

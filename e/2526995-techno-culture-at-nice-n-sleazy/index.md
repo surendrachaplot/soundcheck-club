@@ -1,6 +1,6 @@
 # Techno Culture at Nice N Sleazy
 
-Techno Culture at Nice N Sleazy on Sat 3 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+Techno Culture at Nice N Sleazy on Sat 3 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

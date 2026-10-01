@@ -1,6 +1,6 @@
 # Bachatta Techno Factory – 35 Aniversario at LAB theCLUB
 
-Bachatta Techno Factory – 35 Aniversario at LAB theCLUB on Sat 10 Oct, Madrid. Preview the line-up and save it on soundcheck.
+Bachatta Techno Factory – 35 Aniversario at LAB theCLUB on Sat 10 Oct, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

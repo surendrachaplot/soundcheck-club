@@ -1,8 +1,8 @@
 # Radio Nacional
 
-Radio Nacional is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sol Ritmo Takeover Radio Nacional" on Sat, 3 Oct 2026.
+Radio Nacional is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sol Ritmo Takeover Radio Nacional" on Sat, 3 Oct 2026.
 
-Radio Nacional is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including From the Tropics and Roja. Browse upcoming dates, start times and who's playing.
+Radio Nacional is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including From the Tropics and Roja. See dates, start times and who's playing.
 
 ## What's on
 

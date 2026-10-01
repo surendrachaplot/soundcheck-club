@@ -1,6 +1,6 @@
 # Free Saturdays: Arnii • Chloe Battelle • Reshio at Left Bank
 
-Free Saturdays: Arnii • Chloe Battelle • Reshio at Left Bank on Sat 3 Oct, Tbilisi. 4 artists on the bill: Arnii, Chloe Battelle, Puritan and Reshio. Preview the line-up and save it on soundcheck.
+Free Saturdays: Arnii • Chloe Battelle • Reshio at Left Bank on Sat 3 Oct, Tbilisi. 4 artists: Arnii, Chloe Battelle, Puritan and Reshio. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

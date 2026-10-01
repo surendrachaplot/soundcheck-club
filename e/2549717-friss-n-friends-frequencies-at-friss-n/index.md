@@ -1,6 +1,6 @@
 # Frissón Friends Frequencies at Frissón
 
-Frissón Friends Frequencies on Fri 2 Oct, Rome. 1 artist on the bill: BabyBass. Preview the line-up and save it on soundcheck.
+Frissón Friends Frequencies on Fri 2 Oct, Rome. 1 artist: BabyBass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

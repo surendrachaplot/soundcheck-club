@@ -1,6 +1,6 @@
 # Mothership at Lisboa Rio
 
-Mothership at Lisboa Rio on Wed 21 Oct, Lisbon. Trance. Preview the line-up and save it on soundcheck.
+Mothership at Lisboa Rio on Wed 21 Oct, Lisbon. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

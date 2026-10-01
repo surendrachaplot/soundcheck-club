@@ -1,6 +1,6 @@
 # Fluids // XDB at DURO
 
-Fluids // XDB at DURO on Fri 2 Oct, Milan. 3 artists on the bill: Deeetro, The Robinson and XDB. Techno and House. Preview the line-up and save it on soundcheck.
+Fluids // XDB at DURO on Fri 2 Oct, Milan. 3 artists: Deeetro, The Robinson and XDB. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

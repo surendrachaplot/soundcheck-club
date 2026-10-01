@@ -1,6 +1,6 @@
 # Nazka Sundown Mestizo Bites & Cuts at Nazka
 
-Nazka Sundown Mestizo Bites & Cuts on Thu 22 Oct, Amsterdam. Dub and Funk / Soul. Preview the line-up and save it on soundcheck.
+Nazka Sundown Mestizo Bites & Cuts on Thu 22 Oct, Amsterdam. Dub and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

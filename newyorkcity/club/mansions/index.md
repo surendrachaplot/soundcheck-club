@@ -1,8 +1,8 @@
 # Mansions
 
-Mansions is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "KYRUH All Night Long" on Fri, 2 Oct 2026.
+Mansions is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "KYRUH All Night Long" on Fri, 2 Oct 2026.
 
-Mansions is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including KYRUH. Browse upcoming dates, start times and who's playing. 46-63 Metropolitan Ave, Queens, NY, 11385, USA.
+Mansions is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including KYRUH. See dates, start times and who's playing. 46-63 Metropolitan Ave, Queens, NY, 11385, USA.
 
 ## What's on
 

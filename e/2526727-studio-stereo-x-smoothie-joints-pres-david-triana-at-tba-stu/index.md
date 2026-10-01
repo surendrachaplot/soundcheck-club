@@ -1,6 +1,6 @@
 # Studio Stereo x Smoothie Joints pres. David Triana at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Smoothie Joints pres. David Triana at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 17 Oct, Barcelona. 3 artists on the bill: David Triana, MostWanted and Santacreu. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Smoothie Joints pres. David Triana at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 17 Oct, Barcelona. 3 artists: David Triana, MostWanted and Santacreu. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

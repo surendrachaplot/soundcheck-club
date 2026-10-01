@@ -1,6 +1,6 @@
 # HYPERSONIC MELBOURNE at Melbourne Showgrounds
 
-HYPERSONIC MELBOURNE at Melbourne Showgrounds on Fri 20 Nov, Melbourne. Preview the line-up and save it on soundcheck.
+HYPERSONIC MELBOURNE at Melbourne Showgrounds on Fri 20 Nov, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

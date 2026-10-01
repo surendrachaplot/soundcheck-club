@@ -1,6 +1,6 @@
 # Unbound: Rebel Bunnie + Gabriel Arango + Euforia + Bapho999 at TBA - L2 Sant Martí
 
-Unbound: Rebel Bunnie + Gabriel Arango + Euforia + Bapho999 at TBA - L2 Sant Martí on Sat 3 Oct, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+Unbound: Rebel Bunnie + Gabriel Arango + Euforia + Bapho999 at TBA - L2 Sant Martí on Sat 3 Oct, Barcelona. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TOGAther // SORRY MOM x TANZ ODER GAR NICHT at Kramladen
 
-TOGAther // SORRY MOM x TANZ ODER GAR NICHT at Kramladen on Sat 3 Oct, Vienna. Techno. Preview the line-up and save it on soundcheck.
+TOGAther // SORRY MOM x TANZ ODER GAR NICHT at Kramladen on Sat 3 Oct, Vienna. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

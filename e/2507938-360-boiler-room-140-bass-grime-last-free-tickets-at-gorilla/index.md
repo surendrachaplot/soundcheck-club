@@ -1,6 +1,6 @@
 # 360° BOILER ROOM // 140, BASS, GRIME // LAST FREE TICKETS at Gorilla
 
-360° BOILER ROOM // 140, BASS, GRIME // LAST FREE TICKETS at Gorilla on Sat 3 Oct, Manchester. Bass and Grime. Preview the line-up and save it on soundcheck.
+360° BOILER ROOM // 140, BASS, GRIME // LAST FREE TICKETS at Gorilla on Sat 3 Oct, Manchester. Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

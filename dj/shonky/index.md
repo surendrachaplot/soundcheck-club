@@ -1,8 +1,8 @@
 # Shonky
 
-Shonky is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Shonky is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
-Shonky is a house and tech house artist based in France, tracked on soundcheck, with 231 sets logged across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
+Shonky is a house and tech house artist based in France, with 231 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Dyed Soundorom, Dan Ghenacia and Apollonia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Shonky is a house and tech house artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- Nowadays, New York City — Sat, 26 Sept 2026
-- Marble Bar, Detroit — Sat, 26 Sept 2026
-- Floyd, Miami — Fri, 25 Sept 2026
-- Ouseburn Garden, Newcastle — Fri, 11 Sept 2026
-- Rex Club, Paris — Sat, 29 Aug 2026
-- Buda BXL, Brussels — Sat, 22 Aug 2026
-- Lux Fragil, Lisbon — Sat, 22 Aug 2026
-- TBA - DTLA, Los Angeles — Sun, 9 Aug 2026
+- Nowadays, New York City · Sat, 26 Sept 2026
+- Marble Bar, Detroit · Sat, 26 Sept 2026
+- Floyd, Miami · Fri, 25 Sept 2026
+- Ouseburn Garden, Newcastle · Fri, 11 Sept 2026
+- Rex Club, Paris · Sat, 29 Aug 2026
+- Buda BXL, Brussels · Sat, 22 Aug 2026
+- Lux Fragil, Lisbon · Sat, 22 Aug 2026
+- TBA - DTLA, Los Angeles · Sun, 9 Aug 2026
 
 ## Shares bills with
 

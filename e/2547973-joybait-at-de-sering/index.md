@@ -1,6 +1,6 @@
 # Joybait at De Sering
 
-Joybait at De Sering on Sat 10 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Joybait at De Sering on Sat 10 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Nido curated - Galette Records - Suspect, John Steed, Riddle Lina (V) at Nido Marseille
 
-Nido curated - Galette Records - Suspect, John Steed, Riddle Lina (V) at Nido Marseille on Sat 10 Oct, Marseille. Preview the line-up and save it on soundcheck.
+Nido curated - Galette Records - Suspect, John Steed, Riddle Lina (V) at Nido Marseille on Sat 10 Oct, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

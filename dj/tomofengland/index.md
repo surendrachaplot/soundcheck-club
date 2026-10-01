@@ -1,8 +1,8 @@
 # Tom of England
 
-Tom of England is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Better Tomorrow, Los Angeles on Sun, 4 Oct 2026.
+Tom of England is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Better Tomorrow, Los Angeles on Sun, 4 Oct 2026.
 
-Tom of England is a house and disco artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Athens, Bali, Berlin and Bristol and 10 more. Often billed alongside Paul Nickerson, Capablanca and DJ M3. Next up: Better Tomorrow, Los Angeles on Sun 4 Oct.
+Tom of England is a house and disco artist based in United Kingdom, with 35 gigs on soundcheck across Athens, Bali, Berlin and Bristol and 10 more. Often billed alongside Paul Nickerson, Capablanca and DJ M3. Next up: Better Tomorrow, Los Angeles on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Tom of England is a house and disco artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- public records, New York City — Sat, 15 Aug 2026
-- Locust Grove, New York City — Fri, 31 Jul 2026
-- Glob, Denver — Sat, 18 Jul 2026
-- 53 Scott Ave, New York City — Fri, 30 Jan 2026
-- The Foundry, San Francisco/Oakland — Sat, 20 Dec 2025
-- Loft 6, Berlin — Sat, 15 Nov 2025
-- public records, New York City — Sat, 25 Oct 2025
-- TBA - Williamsburg , New York City — Fri, 24 Oct 2025
+- public records, New York City · Sat, 15 Aug 2026
+- Locust Grove, New York City · Fri, 31 Jul 2026
+- Glob, Denver · Sat, 18 Jul 2026
+- 53 Scott Ave, New York City · Fri, 30 Jan 2026
+- The Foundry, San Francisco/Oakland · Sat, 20 Dec 2025
+- Loft 6, Berlin · Sat, 15 Nov 2025
+- public records, New York City · Sat, 25 Oct 2025
+- TBA - Williamsburg , New York City · Fri, 24 Oct 2025
 
 ## Shares bills with
 

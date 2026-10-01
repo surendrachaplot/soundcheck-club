@@ -1,6 +1,6 @@
 # Hillhead Spookclub Halloween at Hillhead Bookclub
 
-Hillhead Spookclub Halloween at Hillhead Bookclub on Sat 31 Oct, Glasgow. House. Preview the line-up and save it on soundcheck.
+Hillhead Spookclub Halloween at Hillhead Bookclub on Sat 31 Oct, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

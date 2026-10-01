@@ -1,6 +1,6 @@
 # Odeology at Krftwrk
 
-Odeology at Krftwrk on Sat 10 Oct, Odense. 4 artists on the bill: Benjamin Damage, Lacchesi, Merkula and SONYDIAM. Preview the line-up and save it on soundcheck.
+Odeology at Krftwrk on Sat 10 Oct, Odense. 4 artists: Benjamin Damage, Lacchesi, Merkula and SONYDIAM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

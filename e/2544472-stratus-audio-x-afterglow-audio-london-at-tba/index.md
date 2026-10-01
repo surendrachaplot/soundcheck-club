@@ -1,6 +1,6 @@
 # stratus audio x afterglow audio: london at TBA
 
-stratus audio x afterglow audio: london at TBA on Sat 31 Oct, London. 1 artist on the bill: Cersy. House and Minimal. Preview the line-up and save it on soundcheck.
+stratus audio x afterglow audio: london at TBA on Sat 31 Oct, London. 1 artist: Cersy. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

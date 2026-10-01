@@ -1,8 +1,8 @@
 # Butane
 
-Butane is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at WOMB, Tokyo on Thu, 5 Nov 2026.
+Butane is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Thu, 5 Nov 2026.
 
-Butane is a tech house and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Melbourne, Sydney, Tokyo and Washington DC. Often billed alongside Andy Garvey, Cousin and DJ Yogurt. Next up: WOMB, Tokyo on Thu 5 Nov.
+Butane is a tech house and techno artist based in United States of America, with 6 gigs on soundcheck across Melbourne, Sydney, Tokyo and Washington DC. Often billed alongside Andy Garvey, Cousin and DJ Yogurt. Next up: WOMB, Tokyo on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -13,10 +13,10 @@ Butane is a tech house and techno artist based in United States of America, trac
 
 ## Recently played
 
-- Revolver Upstairs, Melbourne — Fri, 15 Dec 2023
-- Riverwood Downs Mountain Valley Resort, Sydney — Fri, 8 Dec 2023
-- Riverwood Downs Mountain Valley Resort, Sydney — Thu, 7 Dec 2023
-- Flash, Washington DC — Sun, 23 Jul 2023
+- Revolver Upstairs, Melbourne · Fri, 15 Dec 2023
+- Riverwood Downs Mountain Valley Resort, Sydney · Fri, 8 Dec 2023
+- Riverwood Downs Mountain Valley Resort, Sydney · Thu, 7 Dec 2023
+- Flash, Washington DC · Sun, 23 Jul 2023
 
 ## Shares bills with
 

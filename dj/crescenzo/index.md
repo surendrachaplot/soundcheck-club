@@ -1,8 +1,8 @@
 # Crescenzo
 
-Crescenzo is a House and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at StereoBar, Montreal on Fri, 16 Oct 2026.
+Crescenzo is a House and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at StereoBar, Montreal on Fri, 16 Oct 2026.
 
-Crescenzo is a house and dub techno artist tracked on soundcheck, with 32 sets logged across Amsterdam and Montreal. Often billed alongside FAMÜ, Jino K and Brian Cuta. Next up: StereoBar, Montreal on Fri 16 Oct.
+Crescenzo is a house and dub techno artist, with 32 gigs on soundcheck across Amsterdam and Montreal. Often billed alongside FAMÜ, Jino K and Brian Cuta. Next up: StereoBar, Montreal on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Crescenzo is a house and dub techno artist tracked on soundcheck, with 32 sets l
 
 ## Recently played
 
-- NWHR, Montreal — Fri, 21 Aug 2026
-- Entrepôts Dominion, Les, Montreal — Fri, 24 Jul 2026
-- Multi Culti Space Garage, Montreal — Sun, 12 Jul 2026
-- Stereo, Montreal — Fri, 12 Jun 2026
-- NWHR, Montreal — Fri, 6 Mar 2026
-- Sanctuary, Montreal — Sat, 17 Jan 2026
-- StereoBar, Montreal — Wed, 31 Dec 2025
-- Escape, Amsterdam — Thu, 23 Oct 2025
+- NWHR, Montreal · Fri, 21 Aug 2026
+- Entrepôts Dominion, Les, Montreal · Fri, 24 Jul 2026
+- Multi Culti Space Garage, Montreal · Sun, 12 Jul 2026
+- Stereo, Montreal · Fri, 12 Jun 2026
+- NWHR, Montreal · Fri, 6 Mar 2026
+- Sanctuary, Montreal · Sat, 17 Jan 2026
+- StereoBar, Montreal · Wed, 31 Dec 2025
+- Escape, Amsterdam · Thu, 23 Oct 2025
 
 ## Shares bills with
 

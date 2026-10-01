@@ -1,8 +1,8 @@
 # John Vincent
 
-John Vincent is a Afrobeats and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sigurd CPH, Copenhagen on Fri, 9 Oct 2026.
+John Vincent is a Afrobeats and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sigurd CPH, Copenhagen on Fri, 9 Oct 2026.
 
-John Vincent is an afrobeats and hip-hop artist based in Denmark, tracked on soundcheck, with 35 sets logged across Copenhagen. Often billed alongside ¡Harty!, Kaddi Sawaneh and Ruth Belai. Next up: Sigurd CPH, Copenhagen on Fri 9 Oct.
+John Vincent is an afrobeats and hip-hop artist based in Denmark, with 35 gigs on soundcheck across Copenhagen. Often billed alongside ¡Harty!, Kaddi Sawaneh and Ruth Belai. Next up: Sigurd CPH, Copenhagen on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ John Vincent is an afrobeats and hip-hop artist based in Denmark, tracked on sou
 
 ## Recently played
 
-- Sigurd CPH, Copenhagen — Fri, 21 Aug 2026
-- Sigurd CPH, Copenhagen — Sat, 25 Jul 2026
-- Sigurd CPH, Copenhagen — Thu, 21 May 2026
-- Sigurd CPH, Copenhagen — Fri, 1 May 2026
-- Sigurd CPH, Copenhagen — Sat, 21 Mar 2026
-- Sigurd CPH, Copenhagen — Sat, 7 Mar 2026
-- Sigurd CPH, Copenhagen — Fri, 27 Feb 2026
-- Sigurd CPH, Copenhagen — Sat, 14 Feb 2026
+- Sigurd CPH, Copenhagen · Fri, 21 Aug 2026
+- Sigurd CPH, Copenhagen · Sat, 25 Jul 2026
+- Sigurd CPH, Copenhagen · Thu, 21 May 2026
+- Sigurd CPH, Copenhagen · Fri, 1 May 2026
+- Sigurd CPH, Copenhagen · Sat, 21 Mar 2026
+- Sigurd CPH, Copenhagen · Sat, 7 Mar 2026
+- Sigurd CPH, Copenhagen · Fri, 27 Feb 2026
+- Sigurd CPH, Copenhagen · Sat, 14 Feb 2026
 
 ## Shares bills with
 

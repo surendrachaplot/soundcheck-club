@@ -1,6 +1,6 @@
 # Untz Baby Untz - Open Air at Gleis19
 
-Untz Baby Untz - Open Air at Gleis19 on Sun 11 Oct, Vienna. 2 artists on the bill: Rosa Rosen and SHIZZLE. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Untz Baby Untz - Open Air at Gleis19 on Sun 11 Oct, Vienna. 2 artists: Rosa Rosen and SHIZZLE. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

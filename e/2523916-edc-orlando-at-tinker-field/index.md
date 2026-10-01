@@ -1,6 +1,6 @@
 # EDC Orlando at Tinker Field
 
-EDC Orlando at Tinker Field on Fri 6 Nov, Orlando. 30 artists on the bill: Adventure Club, Alesso, ALVES (PT) and Azzecca and 26 more. Preview the line-up and save it on soundcheck.
+EDC Orlando at Tinker Field on Fri 6 Nov, Orlando. 30 artists: Adventure Club, Alesso, ALVES (PT) and Azzecca and 26 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

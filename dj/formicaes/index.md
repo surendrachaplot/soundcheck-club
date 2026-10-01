@@ -1,8 +1,8 @@
 # formica (ES)
 
-formica (ES) is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lasociaciøn, Madrid on Sun, 11 Oct 2026.
+formica (ES) is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lasociaciøn, Madrid on Sun, 11 Oct 2026.
 
-formica (ES) is an electro and techno artist based in Spain, tracked on soundcheck, with 3 sets logged across Barcelona and Madrid. Often billed alongside Sugar Free, Axis Mundi and Baldman. Next up: Lasociaciøn, Madrid on Sun 11 Oct.
+formica (ES) is an electro and techno artist based in Spain, with 3 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Sugar Free, Axis Mundi and Baldman. Next up: Lasociaciøn, Madrid on Sun 11 Oct.
 
 ## Upcoming shows
 

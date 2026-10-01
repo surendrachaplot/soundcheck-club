@@ -1,6 +1,6 @@
 # fi x Brutalism x Waidmarkt at fi
 
-fi x Brutalism x Waidmarkt on Sat 24 Oct, Cologne. 5 artists on the bill: Dornen, Function, Grim and lomi and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+fi x Brutalism x Waidmarkt on Sat 24 Oct, Cologne. 5 artists: Dornen, Function, Grim and lomi and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

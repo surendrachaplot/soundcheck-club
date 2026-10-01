@@ -1,6 +1,6 @@
 # ARKIVE presents: A.N.D - Dean Mac - KV at The Backroom Balloch
 
-ARKIVE presents: A.N.D - Dean Mac - KV at The Backroom Balloch on Fri 23 Oct, Glasgow. Trance and House. Preview the line-up and save it on soundcheck.
+ARKIVE presents: A.N.D - Dean Mac - KV at The Backroom Balloch on Fri 23 Oct, Glasgow. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

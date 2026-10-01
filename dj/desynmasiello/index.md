@@ -1,8 +1,8 @@
 # Desyn
 
-Desyn is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Masada, Milan on Sat, 10 Oct 2026.
+Desyn is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Masada, Milan on Sat, 10 Oct 2026.
 
-Desyn is a house and techno artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Tom Morgan, Faciendo Soundsystem and Rama NYC. Next up: Masada, Milan on Sat 10 Oct.
+Desyn is a house and techno artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Tom Morgan, Faciendo Soundsystem and Rama NYC. Next up: Masada, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Desyn is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- Stade Fontainieu, Marseille — Sat, 19 Sept 2026
-- Refuge, New York City — Sat, 22 Aug 2026
-- Last Arch, London — Fri, 31 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 3 Jul 2026
-- TBA - secret location, Barcelona — Thu, 18 Jun 2026
-- Platforma Wolff, Bucharest — Fri, 12 Jun 2026
-- H0L0, New York City — Sat, 30 May 2026
-- The Lion and Lamb, London — Fri, 22 May 2026
+- Stade Fontainieu, Marseille · Sat, 19 Sept 2026
+- Refuge, New York City · Sat, 22 Aug 2026
+- Last Arch, London · Fri, 31 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 3 Jul 2026
+- TBA - secret location, Barcelona · Thu, 18 Jun 2026
+- Platforma Wolff, Bucharest · Fri, 12 Jun 2026
+- H0L0, New York City · Sat, 30 May 2026
+- The Lion and Lamb, London · Fri, 22 May 2026
 
 ## Shares bills with
 

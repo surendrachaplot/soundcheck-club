@@ -1,6 +1,6 @@
 # FOLYA: Sandrien, Yan, Feenicks, Dash, CEREAL, LuLu at Bike Jesus
 
-FOLYA: Sandrien, Yan, Feenicks, Dash, CEREAL, LuLu at Bike Jesus on Fri 2 Oct, Prague. 6 artists on the bill: CEREAL, Dash (CZ), Feenicks and LULU and 2 more. Techno. Preview the line-up and save it on soundcheck.
+FOLYA: Sandrien, Yan, Feenicks, Dash, CEREAL, LuLu at Bike Jesus on Fri 2 Oct, Prague. 6 artists: CEREAL, Dash (CZ), Feenicks and LULU and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

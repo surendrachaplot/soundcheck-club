@@ -1,6 +1,6 @@
 # Beaverworks presents KURUPT FM - Fri 2nd Oct at Beaver Works
 
-Beaverworks presents KURUPT FM - Fri 2nd Oct at Beaver Works on Fri 2 Oct, Leeds. Bass and Garage. Preview the line-up and save it on soundcheck.
+Beaverworks presents KURUPT FM - Fri 2nd Oct at Beaver Works on Fri 2 Oct, Leeds. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

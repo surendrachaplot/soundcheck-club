@@ -1,8 +1,8 @@
 # Klub Progresja
 
-Klub Progresja is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SCHISSMA PRES.: Vieze Asbak – 03.10.2026, WARSAW" on Sat, 3 Oct 2026.
+Klub Progresja is a music venue in Warsaw with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SCHISSMA PRES.: Vieze Asbak – 03.10.2026, WARSAW" on Sat, 3 Oct 2026.
 
-Klub Progresja is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with line-ups including BLANKA, ERNST (UA), HI-LO and Józef Keuner and 2 more. Browse upcoming dates, start times and who's playing. Fort Wola 22, 01-258 Warszawa.
+Klub Progresja is a music venue in Warsaw listed on soundcheck. 5 upcoming gigs, with line-ups including BLANKA, ERNST (UA), HI-LO and Józef Keuner and 2 more. See dates, start times and who's playing. Fort Wola 22, 01-258 Warszawa.
 
 ## What's on
 

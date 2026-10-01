@@ -1,8 +1,8 @@
 # renae
 
-renae is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Persona - Gabriel Rai b2b Ethan. (7hrs ANL)" on Thu, 1 Oct 2026.
+renae is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Persona - Gabriel Rai b2b Ethan. (7hrs ANL)" on Thu, 1 Oct 2026.
 
-renae is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Chunky and Coel Haines and 2 more. Browse upcoming dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
+renae is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Bruno Bellissimo, Camilla Reghenzi, Chunky and Coel Haines and 2 more. See dates, start times and who's playing. 45-47 Thomas St, Manchester M4 1NA.
 
 ## What's on
 

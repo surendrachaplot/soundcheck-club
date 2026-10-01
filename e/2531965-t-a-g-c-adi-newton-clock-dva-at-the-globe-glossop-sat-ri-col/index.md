@@ -1,6 +1,6 @@
 # T.A.G.C. (Adi Newton // Clock DVA) at The Globe Glossop + SATØRI + COLOSSLOTH + LLYN Y CWN at The Globe, Glossop
 
-T.A.G.C. (Adi Newton // Clock DVA) at The Globe Glossop + SATØRI + COLOSSLOTH + LLYN Y CWN at The Globe, Glossop on Sat 3 Oct, Manchester. Drone and Industrial. Preview the line-up and save it on soundcheck.
+T.A.G.C. (Adi Newton // Clock DVA) at The Globe Glossop + SATØRI + COLOSSLOTH + LLYN Y CWN at The Globe, Glossop on Sat 3 Oct, Manchester. Drone and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

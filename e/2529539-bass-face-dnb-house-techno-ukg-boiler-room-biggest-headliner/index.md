@@ -1,6 +1,6 @@
 # Bass Face // DNB, HOUSE:TECHNO, UKG // BOILER ROOM +*BIGGEST HEADLINERS YET* LAST FREE TICKETS at E1
 
-Bass Face // DNB, HOUSE:TECHNO, UKG // BOILER ROOM +*BIGGEST HEADLINERS YET* LAST FREE TICKETS at E1 on Fri 9 Oct, London. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Bass Face // DNB, HOUSE:TECHNO, UKG // BOILER ROOM +*BIGGEST HEADLINERS YET* LAST FREE TICKETS at E1 on Fri 9 Oct, London. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

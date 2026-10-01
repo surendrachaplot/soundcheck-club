@@ -1,6 +1,6 @@
 # TWOFACED - London at Village Underground
 
-TWOFACED - London at Village Underground on Fri 16 Oct, London. House and Garage. Preview the line-up and save it on soundcheck.
+TWOFACED - London at Village Underground on Fri 16 Oct, London. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

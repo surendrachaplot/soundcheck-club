@@ -1,8 +1,8 @@
 # Secret Location - North London
 
-Secret Location - North London is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Rhythm Labs 7th Birthday W/ MADVILLA - Secret North London Location" on Fri, 4 Dec 2026.
+Secret Location - North London is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Rhythm Labs 7th Birthday W/ MADVILLA - Secret North London Location" on Fri, 4 Dec 2026.
 
-Secret Location - North London is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including MADVILLA and Nicou Nejad. Browse upcoming dates, start times and who's playing.
+Secret Location - North London is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including MADVILLA and Nicou Nejad. See dates, start times and who's playing.
 
 ## What's on
 

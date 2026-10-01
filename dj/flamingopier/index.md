@@ -1,8 +1,8 @@
 # Flamingo Pier
 
-Flamingo Pier is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Hollywood Avondale, Auckland on Sat, 10 Oct 2026.
+Flamingo Pier is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Hollywood Avondale, Auckland on Sat, 10 Oct 2026.
 
-Flamingo Pier is a disco and house artist based in New Zealand, tracked on soundcheck, with 25 sets logged across Auckland, Detroit, Leeds and London and 9 more. Often billed alongside Frank Booker, JKriv and Make A Dance. Next up: The Hollywood Avondale, Auckland on Sat 10 Oct.
+Flamingo Pier is a disco and house artist based in New Zealand, with 25 gigs on soundcheck across Auckland, Detroit, Leeds and London and 9 more. Often billed alongside Frank Booker, JKriv and Make A Dance. Next up: The Hollywood Avondale, Auckland on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Flamingo Pier is a disco and house artist based in New Zealand, tracked on sound
 
 ## Recently played
 
-- The Cause, London — Sat, 18 Jul 2026
-- Leightons Farm, Auckland — Tue, 30 Dec 2025
-- Albert Park Precinct, Auckland — Sat, 15 Nov 2025
-- The Night Cat, Melbourne — Sat, 6 Sept 2025
-- The Cause, London — Fri, 18 Jul 2025
-- TBA - 10 Ocean View Road, Auckland — Sat, 8 Feb 2025
-- Whammy Bar, Auckland — Fri, 20 Dec 2024
-- DC9, Washington DC — Tue, 6 Aug 2024
+- The Cause, London · Sat, 18 Jul 2026
+- Leightons Farm, Auckland · Tue, 30 Dec 2025
+- Albert Park Precinct, Auckland · Sat, 15 Nov 2025
+- The Night Cat, Melbourne · Sat, 6 Sept 2025
+- The Cause, London · Fri, 18 Jul 2025
+- TBA - 10 Ocean View Road, Auckland · Sat, 8 Feb 2025
+- Whammy Bar, Auckland · Fri, 20 Dec 2024
+- DC9, Washington DC · Tue, 6 Aug 2024
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Gate Milano
 
-Gate Milano is a music venue in Milan with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RAW: ANNĒ & Elli Acula & Inox Traxx & LPV" on Fri, 2 Oct 2026.
+Gate Milano is a music venue in Milan with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RAW: ANNĒ & Elli Acula & Inox Traxx & LPV" on Fri, 2 Oct 2026.
 
-Gate Milano is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line-ups including Alex Akashi, ANEM1, ANNĒ and ARMANDO and 2 more. Browse upcoming dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
+Gate Milano is a music venue in Milan listed on soundcheck. 20 upcoming gigs, with line-ups including Alex Akashi, ANEM1, ANNĒ and ARMANDO and 2 more. See dates, start times and who's playing. Via Valtellina, 21, 20159 Milano MI.
 
 ## What's on
 

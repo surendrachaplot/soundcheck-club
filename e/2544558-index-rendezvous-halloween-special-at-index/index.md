@@ -1,6 +1,6 @@
 # Index: Rendezvous Halloween Special at Index
 
-Index: Rendezvous Halloween Special on Fri 30 Oct, Dublin. Electronica. Preview the line-up and save it on soundcheck.
+Index: Rendezvous Halloween Special on Fri 30 Oct, Dublin. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

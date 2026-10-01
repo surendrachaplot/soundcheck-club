@@ -1,6 +1,6 @@
 # Estella Boersma at RAW at Wigwam
 
-Estella Boersma at RAW at Wigwam on Fri 13 Nov, Dublin. 3 artists on the bill: Estella Boersma, NILAAA and Phil Bass. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Estella Boersma at RAW at Wigwam on Fri 13 Nov, Dublin. 3 artists: Estella Boersma, NILAAA and Phil Bass. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

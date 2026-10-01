@@ -1,8 +1,8 @@
 # Edge Miami
 
-Edge Miami is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "El Hormiguero at EDGE" on Sat, 3 Oct 2026.
+Edge Miami is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "El Hormiguero at EDGE" on Sat, 3 Oct 2026.
 
-Edge Miami is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including TRIIPEL. Browse upcoming dates, start times and who's playing. 114 NE 20th Terrace Miami, FL 33137.
+Edge Miami is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including TRIIPEL. See dates, start times and who's playing. 114 NE 20th Terrace Miami, FL 33137.
 
 ## What's on
 

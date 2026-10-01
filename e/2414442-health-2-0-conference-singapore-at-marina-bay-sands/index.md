@@ -1,6 +1,6 @@
 # Health 2.0 Conference Singapore at Marina Bay Sands
 
-Health 2.0 Conference Singapore at Marina Bay Sands on Wed 2 Dec, Singapore. Preview the line-up and save it on soundcheck.
+Health 2.0 Conference Singapore at Marina Bay Sands on Wed 2 Dec, Singapore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

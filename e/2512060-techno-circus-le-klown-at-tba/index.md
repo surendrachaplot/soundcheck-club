@@ -1,6 +1,6 @@
 # TECHNO CIRCUS - LE KLOWN at TBA
 
-TECHNO CIRCUS - LE KLOWN at TBA on Fri 30 Oct, Toronto. Techno. Preview the line-up and save it on soundcheck.
+TECHNO CIRCUS - LE KLOWN at TBA on Fri 30 Oct, Toronto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

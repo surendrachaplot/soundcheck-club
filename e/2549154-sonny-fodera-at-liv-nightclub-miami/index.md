@@ -1,6 +1,6 @@
 # Sonny Fodera at LIV Nightclub Miami
 
-Sonny Fodera at LIV Nightclub Miami on Sat 12 Dec, Miami. Preview the line-up and save it on soundcheck.
+Sonny Fodera at LIV Nightclub Miami on Sat 12 Dec, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

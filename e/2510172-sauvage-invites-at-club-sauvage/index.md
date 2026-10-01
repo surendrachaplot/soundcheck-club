@@ -1,6 +1,6 @@
 # SAUVAGE invites... at Club Sauvage
 
-SAUVAGE invites... at Club Sauvage on Fri 2 Oct, Ghent. Preview the line-up and save it on soundcheck.
+SAUVAGE invites... at Club Sauvage on Fri 2 Oct, Ghent. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

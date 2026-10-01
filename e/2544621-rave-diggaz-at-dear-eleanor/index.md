@@ -1,6 +1,6 @@
 # Rave Diggaz at Dear Eleanor
 
-Rave Diggaz at Dear Eleanor on Fri 13 Nov, Miami. Minimal and Acid. Preview the line-up and save it on soundcheck.
+Rave Diggaz at Dear Eleanor on Fri 13 Nov, Miami. Minimal and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

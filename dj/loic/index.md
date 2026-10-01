@@ -1,8 +1,8 @@
 # Loïc
 
-Loïc is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
+Loïc is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat, 14 Nov 2026.
 
-Loïc is a house and techno artist based in France, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Pato Mallet, Signo and Dobao. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
+Loïc is a house and techno artist based in France, with 34 gigs on soundcheck across Barcelona, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Pato Mallet, Signo and Dobao. Next up: TBA - Parque de la Ciudad, CABA, Buenos Aires on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Loïc is a house and techno artist based in France, tracked on soundcheck, with 
 
 ## Recently played
 
-- BARdzo bardzo, Warsaw — Fri, 11 Sept 2026
-- TBA, Buenos Aires — Fri, 4 Sept 2026
-- Saldias Arena, Buenos Aires — Sat, 29 Aug 2026
-- Artlab, Buenos Aires — Sat, 23 May 2026
-- TBA - ESPACIO, Buenos Aires — Sat, 16 May 2026
-- Avant Garten, Buenos Aires — Wed, 13 May 2026
-- Artlab, Buenos Aires — Sat, 18 Apr 2026
-- Artlab, Buenos Aires — Fri, 20 Mar 2026
+- BARdzo bardzo, Warsaw · Fri, 11 Sept 2026
+- TBA, Buenos Aires · Fri, 4 Sept 2026
+- Saldias Arena, Buenos Aires · Sat, 29 Aug 2026
+- Artlab, Buenos Aires · Sat, 23 May 2026
+- TBA - ESPACIO, Buenos Aires · Sat, 16 May 2026
+- Avant Garten, Buenos Aires · Wed, 13 May 2026
+- Artlab, Buenos Aires · Sat, 18 Apr 2026
+- Artlab, Buenos Aires · Fri, 20 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # 35 years of Smokescreen Soundsystem with X-press 2 at The Brickworks
 
-35 years of Smokescreen Soundsystem with X-press 2 at The Brickworks on Fri 9 Oct, Nottingham. 1 artist on the bill: Frandanski. House and Acid. Preview the line-up and save it on soundcheck.
+35 years of Smokescreen Soundsystem with X-press 2 at The Brickworks on Fri 9 Oct, Nottingham. 1 artist: Frandanski. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

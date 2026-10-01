@@ -1,8 +1,8 @@
 # R4TS
 
-R4TS is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 821 Runnymede Rd, Toronto on Sat, 3 Oct 2026.
+R4TS is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 821 Runnymede Rd, Toronto on Sat, 3 Oct 2026.
 
-R4TS is a techno and hardcore artist based in Canada, tracked on soundcheck, with 28 sets logged across Toronto. Often billed alongside KILL 9 1, MVCHE and Maul. Next up: 821 Runnymede Rd, Toronto on Sat 3 Oct.
+R4TS is a techno and hardcore artist based in Canada, with 28 gigs on soundcheck across Toronto. Often billed alongside KILL 9 1, MVCHE and Maul. Next up: 821 Runnymede Rd, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ R4TS is a techno and hardcore artist based in Canada, tracked on soundcheck, wit
 
 ## Recently played
 
-- Story Toronto, Toronto — Fri, 18 Sept 2026
-- TBA, Toronto — Sat, 29 Aug 2026
-- The Comfort Zone, Toronto — Fri, 28 Aug 2026
-- The Comfort Zone, Toronto — Fri, 31 Jul 2026
-- TBA, Toronto — Fri, 31 Jul 2026
-- 821 Runnymede Rd, Toronto — Sat, 30 May 2026
-- The Comfort Zone, Toronto — Fri, 1 May 2026
-- The Comfort Zone, Toronto — Fri, 24 Apr 2026
+- Story Toronto, Toronto · Fri, 18 Sept 2026
+- TBA, Toronto · Sat, 29 Aug 2026
+- The Comfort Zone, Toronto · Fri, 28 Aug 2026
+- The Comfort Zone, Toronto · Fri, 31 Jul 2026
+- TBA, Toronto · Fri, 31 Jul 2026
+- 821 Runnymede Rd, Toronto · Sat, 30 May 2026
+- The Comfort Zone, Toronto · Fri, 1 May 2026
+- The Comfort Zone, Toronto · Fri, 24 Apr 2026
 
 ## Shares bills with
 

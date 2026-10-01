@@ -1,6 +1,6 @@
 # 𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝔹𝔸ℂ𝕂 + 𝐎𝐏𝐄𝐍 𝐁𝐀𝐑 at Prozak 2.0
 
-𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝔹𝔸ℂ𝕂 + 𝐎𝐏𝐄𝐍 𝐁𝐀𝐑 at Prozak 2.0 on Thu 1 Oct, Krakow. R&B. Preview the line-up and save it on soundcheck.
+𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝔹𝔸ℂ𝕂 + 𝐎𝐏𝐄𝐍 𝐁𝐀𝐑 at Prozak 2.0 on Thu 1 Oct, Krakow. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

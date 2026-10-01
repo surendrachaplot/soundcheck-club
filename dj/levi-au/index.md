@@ -1,8 +1,8 @@
 # Levi (AU)
 
-Levi (AU) is a Afro House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Filmcasino, Munich on Fri, 2 Oct 2026.
+Levi (AU) is a Afro House and Deep House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Filmcasino, Munich on Fri, 2 Oct 2026.
 
-Levi (AU) is an afro house and deep house artist based in Australia, tracked on soundcheck, with 94 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 35 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: Filmcasino, Munich on Fri 2 Oct.
+Levi (AU) is an afro house and deep house artist based in Australia, with 94 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 35 more. Often billed alongside AJ Christou, Freddy Bello and SARA AFSHAR. Next up: Filmcasino, Munich on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Levi (AU) is an afro house and deep house artist based in Australia, tracked on 
 
 ## Recently played
 
-- Ushuaïa Ibiza, Ibiza — Mon, 28 Sept 2026
-- Ištar, Madrid — Fri, 25 Sept 2026
-- Seehaus Hamburg, Hamburg — Wed, 23 Sept 2026
-- TBA, Nashville — Sun, 6 Sept 2026
-- Pier 17, New York City — Sat, 29 Aug 2026
-- Boat Cruise Summer Series, Boston — Fri, 28 Aug 2026
-- The San Francisco Mint, San Francisco/Oakland — Sat, 22 Aug 2026
-- The Midway, San Francisco/Oakland — Sat, 22 Aug 2026
+- Ushuaïa Ibiza, Ibiza · Mon, 28 Sept 2026
+- Ištar, Madrid · Fri, 25 Sept 2026
+- Seehaus Hamburg, Hamburg · Wed, 23 Sept 2026
+- TBA, Nashville · Sun, 6 Sept 2026
+- Pier 17, New York City · Sat, 29 Aug 2026
+- Boat Cruise Summer Series, Boston · Fri, 28 Aug 2026
+- The San Francisco Mint, San Francisco/Oakland · Sat, 22 Aug 2026
+- The Midway, San Francisco/Oakland · Sat, 22 Aug 2026
 
 ## Shares bills with
 

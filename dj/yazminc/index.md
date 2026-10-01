@@ -1,8 +1,8 @@
 # YazminC
 
-YazminC is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Meraki, Liverpool on Fri, 2 Oct 2026.
+YazminC is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Meraki, Liverpool on Fri, 2 Oct 2026.
 
-YazminC is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Bristol, Leeds, Liverpool and Manchester. Often billed alongside Pablo, Seeka and Chimpo. Next up: Meraki, Liverpool on Fri 2 Oct.
+YazminC is a drum & bass and jungle artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, Leeds, Liverpool and Manchester. Often billed alongside Pablo, Seeka and Chimpo. Next up: Meraki, Liverpool on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ YazminC is a drum & bass and jungle artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- The Clock Factory, Bristol — Fri, 17 Jul 2026
-- Rebellion, Manchester — Fri, 17 Apr 2026
-- The Bag Factory, Manchester — Sun, 22 Feb 2026
-- The Radio Room @ Stage & Radio, Manchester — Fri, 9 Jan 2026
-- Kable Club, Manchester — Fri, 4 Apr 2025
-- The Hifi Club, Leeds — Fri, 20 Sept 2024
-- The Crown, Bristol — Wed, 17 Apr 2024
-- The Klondyke, Manchester — Sat, 2 Mar 2024
+- The Clock Factory, Bristol · Fri, 17 Jul 2026
+- Rebellion, Manchester · Fri, 17 Apr 2026
+- The Bag Factory, Manchester · Sun, 22 Feb 2026
+- The Radio Room @ Stage & Radio, Manchester · Fri, 9 Jan 2026
+- Kable Club, Manchester · Fri, 4 Apr 2025
+- The Hifi Club, Leeds · Fri, 20 Sept 2024
+- The Crown, Bristol · Wed, 17 Apr 2024
+- The Klondyke, Manchester · Sat, 2 Mar 2024
 
 ## Shares bills with
 

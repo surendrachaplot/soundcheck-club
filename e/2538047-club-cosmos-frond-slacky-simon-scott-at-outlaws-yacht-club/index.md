@@ -1,6 +1,6 @@
 # Club Cosmos - FROND, Slacky & Simon Scott at Outlaws Yacht Club
 
-Club Cosmos - FROND, Slacky & Simon Scott at Outlaws Yacht Club on Sun 1 Nov, Leeds. 3 artists on the bill: FROND, Simon Scott and Slacky [Space Ritual]. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Club Cosmos - FROND, Slacky & Simon Scott at Outlaws Yacht Club on Sun 1 Nov, Leeds. 3 artists: FROND, Simon Scott and Slacky [Space Ritual]. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

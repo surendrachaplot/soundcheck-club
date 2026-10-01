@@ -1,8 +1,8 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Restricted is a Techno and Hardcore artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Restricted is a techno and hardcore artist based in Australia, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Arizona and Athens and 47 more. Often billed alongside Azyr, Vieze Asbak and JAZZY. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Restricted is a techno and hardcore artist based in Australia, with 81 gigs on soundcheck across Amsterdam, Antwerp, Arizona and Athens and 47 more. Often billed alongside Azyr, Vieze Asbak and JAZZY. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Restricted is a techno and hardcore artist based in Australia, tracked on soundc
 
 ## Recently played
 
-- Revolver Upstairs, Melbourne — Sun, 20 Sept 2026
-- Brooklyn Storehouse, New York City — Sun, 6 Sept 2026
-- Boucher Road Fields, Belfast — Sun, 30 Aug 2026
-- UNO MALTA, Malta — Sat, 29 Aug 2026
-- Arzenal, Budapest — Wed, 19 Aug 2026
-- Munich Beach Resort, Munich — Sat, 8 Aug 2026
-- MÄX, Zurich — Sat, 8 Aug 2026
-- Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
+- Revolver Upstairs, Melbourne · Sun, 20 Sept 2026
+- Brooklyn Storehouse, New York City · Sun, 6 Sept 2026
+- Boucher Road Fields, Belfast · Sun, 30 Aug 2026
+- UNO MALTA, Malta · Sat, 29 Aug 2026
+- Arzenal, Budapest · Wed, 19 Aug 2026
+- Munich Beach Resort, Munich · Sat, 8 Aug 2026
+- MÄX, Zurich · Sat, 8 Aug 2026
+- Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
 
 ## Shares bills with
 

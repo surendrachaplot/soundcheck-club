@@ -1,8 +1,8 @@
 # Graziano Raffa
 
-Graziano Raffa is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Salon Amador, Medellin on Sat, 3 Oct 2026.
+Graziano Raffa is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Salon Amador, Medellin on Sat, 3 Oct 2026.
 
-Graziano Raffa is a progressive house and techno artist based in Italy, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Brisbane and Buenos Aires and 7 more. Often billed alongside Hernan Cattaneo, Danny Howells and Simply City. Next up: Salon Amador, Medellin on Sat 3 Oct.
+Graziano Raffa is a progressive house and techno artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Barcelona, Brisbane and Buenos Aires and 7 more. Often billed alongside Hernan Cattaneo, Danny Howells and Simply City. Next up: Salon Amador, Medellin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Graziano Raffa is a progressive house and techno artist based in Italy, tracked 
 
 ## Recently played
 
-- CDLC Barcelona, Barcelona — Sat, 15 Aug 2026
-- TBA - Casa Blanca, Microcentro, Buenos Aires — Sat, 13 Jun 2026
-- CDLC Barcelona, Barcelona — Sat, 7 Mar 2026
-- Crobar - Buenos Aires, Buenos Aires — Sat, 17 Jan 2026
-- TBA - La Biblioteca, San Telmo, Buenos Aires — Sat, 15 Nov 2025
-- UNSW Roundhouse, Sydney — Sat, 1 Nov 2025
-- TBA - Hotel Eatons Hill, Brisbane — Fri, 31 Oct 2025
-- Watt Events Boat Party, Amsterdam — Fri, 24 Oct 2025
+- CDLC Barcelona, Barcelona · Sat, 15 Aug 2026
+- TBA - Casa Blanca, Microcentro, Buenos Aires · Sat, 13 Jun 2026
+- CDLC Barcelona, Barcelona · Sat, 7 Mar 2026
+- Crobar - Buenos Aires, Buenos Aires · Sat, 17 Jan 2026
+- TBA - La Biblioteca, San Telmo, Buenos Aires · Sat, 15 Nov 2025
+- UNSW Roundhouse, Sydney · Sat, 1 Nov 2025
+- TBA - Hotel Eatons Hill, Brisbane · Fri, 31 Oct 2025
+- Watt Events Boat Party, Amsterdam · Fri, 24 Oct 2025
 
 ## Shares bills with
 

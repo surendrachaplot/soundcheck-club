@@ -1,6 +1,6 @@
 # Juan Atkins: The Godfather of Techno at Frankhan Selectist
 
-Juan Atkins: The Godfather of Techno at Frankhan Selectist on Fri 9 Oct, Istanbul. 1 artist on the bill: Juan Atkins. Preview the line-up and save it on soundcheck.
+Juan Atkins: The Godfather of Techno at Frankhan Selectist on Fri 9 Oct, Istanbul. 1 artist: Juan Atkins. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

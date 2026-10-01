@@ -1,6 +1,6 @@
 # Yasuaki Shimizu + Merma Suelo at Silent Green
 
-Yasuaki Shimizu + Merma Suelo at Silent Green on Fri 13 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Yasuaki Shimizu + Merma Suelo at Silent Green on Fri 13 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

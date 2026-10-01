@@ -1,8 +1,8 @@
 # Paris15
 
-Paris15 is a music venue in Malaga with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "ABSTRACT x H4T3R: SPECIAL HALLOWEEN" on Sat, 31 Oct 2026.
+Paris15 is a music venue in Malaga with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ABSTRACT x H4T3R: SPECIAL HALLOWEEN" on Sat, 31 Oct 2026.
 
-Paris15 is a music venue in Malaga listed on soundcheck. 1 upcoming gig, with line-ups including CLTX, Daniella da Silva, GNRØ and Nico Bondi. Browse upcoming dates, start times and who's playing. C. La Orotava, 27, 29006 Málaga.
+Paris15 is a music venue in Malaga listed on soundcheck. 1 upcoming gig, with line-ups including CLTX, Daniella da Silva, GNRØ and Nico Bondi. See dates, start times and who's playing. C. La Orotava, 27, 29006 Málaga.
 
 ## What's on
 

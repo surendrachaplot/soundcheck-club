@@ -1,8 +1,8 @@
 # Yves Deruyter
 
-Yves Deruyter is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sala Groove, Madrid on Sat, 21 Nov 2026.
+Yves Deruyter is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Groove, Madrid on Sat, 21 Nov 2026.
 
-Yves Deruyter is a techno and electronica artist based in Belgium, tracked on soundcheck, with 16 sets logged across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Bibi Seck, John Noseda and Lolalita. Next up: Sala Groove, Madrid on Sat 21 Nov.
+Yves Deruyter is a techno and electronica artist based in Belgium, with 16 gigs on soundcheck across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Bibi Seck, John Noseda and Lolalita. Next up: Sala Groove, Madrid on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Yves Deruyter is a techno and electronica artist based in Belgium, tracked on so
 
 ## Recently played
 
-- VIERNULVIER, Ghent — Thu, 30 Apr 2026
-- TBA - Ghent, Ghent — Fri, 20 Feb 2026
-- TBA, Ghent — Fri, 20 Feb 2026
-- Club Vaag, Antwerp — Fri, 19 Dec 2025
-- TBA - More than 45 locations across Antwerp, Antwerp — Fri, 7 Nov 2025
-- Rathenau Hallen Berlin, Berlin — Sat, 18 Oct 2025
-- Plein Publiek, Antwerp — Fri, 15 Aug 2025
-- Kasteel van Ooidonk, Ghent — Sat, 5 Jul 2025
+- VIERNULVIER, Ghent · Thu, 30 Apr 2026
+- TBA - Ghent, Ghent · Fri, 20 Feb 2026
+- TBA, Ghent · Fri, 20 Feb 2026
+- Club Vaag, Antwerp · Fri, 19 Dec 2025
+- TBA - More than 45 locations across Antwerp, Antwerp · Fri, 7 Nov 2025
+- Rathenau Hallen Berlin, Berlin · Sat, 18 Oct 2025
+- Plein Publiek, Antwerp · Fri, 15 Aug 2025
+- Kasteel van Ooidonk, Ghent · Sat, 5 Jul 2025
 
 ## Shares bills with
 

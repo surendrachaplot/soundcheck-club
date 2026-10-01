@@ -1,8 +1,8 @@
 # AKEYLAH
 
-AKEYLAH is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at New Guernica, Melbourne on Thu, 8 Oct 2026.
+AKEYLAH is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at New Guernica, Melbourne on Thu, 8 Oct 2026.
 
-AKEYLAH is a techno and house artist based in Australia, tracked on soundcheck, with 50 sets logged across Melbourne, Sydney and Victoria. Often billed alongside 3LOAR, Brent Honey and OnlyWithYou. Next up: New Guernica, Melbourne on Thu 8 Oct.
+AKEYLAH is a techno and house artist based in Australia, with 50 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside 3LOAR, Brent Honey and OnlyWithYou. Next up: New Guernica, Melbourne on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ AKEYLAH is a techno and house artist based in Australia, tracked on soundcheck, 
 
 ## Recently played
 
-- TBA, Melbourne — Sat, 5 Sept 2026
-- Glamorama, Melbourne — Fri, 31 Jul 2026
-- Continuum, Melbourne — Sat, 2 May 2026
-- Sub Club Melbourne, Melbourne — Sat, 21 Mar 2026
-- Glamorama, Melbourne — Fri, 27 Feb 2026
-- Collingwood Yards, Melbourne — Sun, 11 Jan 2026
-- Glamorama, Melbourne — Thu, 1 Jan 2026
-- The Third Day, Melbourne — Sat, 6 Dec 2025
+- TBA, Melbourne · Sat, 5 Sept 2026
+- Glamorama, Melbourne · Fri, 31 Jul 2026
+- Continuum, Melbourne · Sat, 2 May 2026
+- Sub Club Melbourne, Melbourne · Sat, 21 Mar 2026
+- Glamorama, Melbourne · Fri, 27 Feb 2026
+- Collingwood Yards, Melbourne · Sun, 11 Jan 2026
+- Glamorama, Melbourne · Thu, 1 Jan 2026
+- The Third Day, Melbourne · Sat, 6 Dec 2025
 
 ## Shares bills with
 

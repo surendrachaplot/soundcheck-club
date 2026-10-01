@@ -1,8 +1,8 @@
 # Mikalah Watego
 
-Mikalah Watego is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Mikalah Watego is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Mikalah Watego is a techno and house artist based in Australia, tracked on soundcheck, with 37 sets logged across Brisbane, Melbourne and Sydney. Often billed alongside Ed Kent, Hasvat Informant and Moopie. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Mikalah Watego is a techno and house artist based in Australia, with 37 gigs on soundcheck across Brisbane, Melbourne and Sydney. Often billed alongside Ed Kent, Hasvat Informant and Moopie. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Mikalah Watego is a techno and house artist based in Australia, tracked on sound
 
 ## Recently played
 
-- Miscellania, Melbourne — Sat, 5 Sept 2026
-- Angel Music Bar, Melbourne — Fri, 21 Aug 2026
-- Collingwood Basement, Melbourne — Fri, 14 Aug 2026
-- Coil, Melbourne — Sat, 25 Jul 2026
-- TBA - Under The Bridge, Fish Lane, Brisbane — Sat, 27 Jun 2026
-- TBA - Inner West Warehouse, Sydney — Sat, 6 Jun 2026
-- Miscellania, Melbourne — Fri, 15 May 2026
-- Second Story Studios, Melbourne — Sat, 9 May 2026
+- Miscellania, Melbourne · Sat, 5 Sept 2026
+- Angel Music Bar, Melbourne · Fri, 21 Aug 2026
+- Collingwood Basement, Melbourne · Fri, 14 Aug 2026
+- Coil, Melbourne · Sat, 25 Jul 2026
+- TBA - Under The Bridge, Fish Lane, Brisbane · Sat, 27 Jun 2026
+- TBA - Inner West Warehouse, Sydney · Sat, 6 Jun 2026
+- Miscellania, Melbourne · Fri, 15 May 2026
+- Second Story Studios, Melbourne · Sat, 9 May 2026
 
 ## Shares bills with
 

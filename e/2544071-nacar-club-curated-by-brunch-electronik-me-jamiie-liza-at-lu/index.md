@@ -1,6 +1,6 @@
 # Nacar Club curated by Brunch Electronik / Âme, JAMIIE & Liza at Luz De Gas
 
-Nacar Club curated by Brunch Electronik / Âme, JAMIIE & Liza at Luz De Gas on Sat 28 Nov, Barcelona. 3 artists on the bill: Âme, JAMIIE and LIZA.. Electronica. Preview the line-up and save it on soundcheck.
+Nacar Club curated by Brunch Electronik / Âme, JAMIIE & Liza at Luz De Gas on Sat 28 Nov, Barcelona. 3 artists: Âme, JAMIIE and LIZA.. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

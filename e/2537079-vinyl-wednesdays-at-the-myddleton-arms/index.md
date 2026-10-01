@@ -1,6 +1,6 @@
 # Vinyl Wednesdays at The Myddleton Arms
 
-Vinyl Wednesdays at The Myddleton Arms on Wed 14 Oct, London. House. Preview the line-up and save it on soundcheck.
+Vinyl Wednesdays at The Myddleton Arms on Wed 14 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

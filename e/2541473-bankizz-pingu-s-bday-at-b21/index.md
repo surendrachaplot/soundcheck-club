@@ -1,6 +1,6 @@
 # BANKIZZ Pingu's Bday at B21
 
-BANKIZZ Pingu's Bday at B21 on Sat 24 Oct, Brussels. Drum & Bass and Breakcore. Preview the line-up and save it on soundcheck.
+BANKIZZ Pingu's Bday at B21 on Sat 24 Oct, Brussels. Drum & Bass and Breakcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

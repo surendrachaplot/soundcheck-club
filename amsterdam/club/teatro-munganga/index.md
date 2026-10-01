@@ -1,8 +1,8 @@
 # Teatro Munganga
 
-Teatro Munganga is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Butoh Festival Amsterdam" on Fri, 2 Oct 2026.
+Teatro Munganga is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Butoh Festival Amsterdam" on Fri, 2 Oct 2026.
 
-Teatro Munganga is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Schinkelhavenstraat 27-HS, 1075 VP Amsterdam, Netherlands.
+Teatro Munganga is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Schinkelhavenstraat 27-HS, 1075 VP Amsterdam, Netherlands.
 
 ## What's on
 

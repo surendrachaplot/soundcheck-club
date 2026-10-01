@@ -1,6 +1,6 @@
 # KLASTR at Worm
 
-KLASTR at Worm on Fri 9 Oct, Rotterdam. 4 artists on the bill: Candy Coup, DJ Shahmaran, EVER and Himera. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+KLASTR at Worm on Fri 9 Oct, Rotterdam. 4 artists: Candy Coup, DJ Shahmaran, EVER and Himera. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

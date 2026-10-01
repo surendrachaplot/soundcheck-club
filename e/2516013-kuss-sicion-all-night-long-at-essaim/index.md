@@ -1,6 +1,6 @@
 # KUSS & Sicion - all night long at essaim
 
-KUSS & Sicion - all night long at essaim on Tue 10 Nov, Paris. 2 artists on the bill: KUSS and Sicion. Techno. Preview the line-up and save it on soundcheck.
+KUSS & Sicion - all night long at essaim on Tue 10 Nov, Paris. 2 artists: KUSS and Sicion. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

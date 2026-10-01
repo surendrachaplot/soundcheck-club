@@ -1,8 +1,8 @@
 # Nosh
 
-Nosh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 18 Oct 2026.
+Nosh is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun, 18 Oct 2026.
 
-Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 21 sets logged across Montreal, Tbilisi, Tokyo and Toronto. Often billed alongside dawny, SOBAKA and Fate. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 18 Oct.
+Nosh is a house and techno artist based in Canada, with 21 gigs on soundcheck across Montreal, Tbilisi, Tokyo and Toronto. Often billed alongside dawny, SOBAKA and Fate. Next up: Yodo Groove (Yodobashi Ikebukuro), Tokyo on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Nosh is a house and techno artist based in Canada, tracked on soundcheck, with 2
 
 ## Recently played
 
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sat, 12 Sept 2026
-- Bar Datcha, Montreal — Fri, 4 Sept 2026
-- TBA - Secret Location, Toronto — Fri, 28 Aug 2026
-- TBA - Outdoor Location, Montreal — Fri, 28 Aug 2026
-- TBA, Montreal — Sat, 8 Aug 2026
-- Royal Lounge, Tokyo — Tue, 28 Jul 2026
-- Bar Datcha, Montreal — Sat, 25 Jul 2026
-- Multi Culti Space Garage, Montreal — Sat, 27 Jun 2026
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sat, 12 Sept 2026
+- Bar Datcha, Montreal · Fri, 4 Sept 2026
+- TBA - Secret Location, Toronto · Fri, 28 Aug 2026
+- TBA - Outdoor Location, Montreal · Fri, 28 Aug 2026
+- TBA, Montreal · Sat, 8 Aug 2026
+- Royal Lounge, Tokyo · Tue, 28 Jul 2026
+- Bar Datcha, Montreal · Sat, 25 Jul 2026
+- Multi Culti Space Garage, Montreal · Sat, 27 Jun 2026
 
 ## Shares bills with
 

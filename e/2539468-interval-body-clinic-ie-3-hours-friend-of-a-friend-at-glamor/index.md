@@ -1,6 +1,6 @@
 # Interval - Body Clinic [IE] (3 Hours) + Friend Of A Friend at Glamorama
 
-Interval - Body Clinic [IE] (3 Hours) + Friend Of A Friend at Glamorama on Fri 6 Nov, Melbourne. 2 artists on the bill: Body Clinic and FriendofaFriend. Progressive House and House. Preview the line-up and save it on soundcheck.
+Interval - Body Clinic [IE] (3 Hours) + Friend Of A Friend at Glamorama on Fri 6 Nov, Melbourne. 2 artists: Body Clinic and FriendofaFriend. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

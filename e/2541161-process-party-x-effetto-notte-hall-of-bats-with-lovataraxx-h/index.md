@@ -1,6 +1,6 @@
 # Process Party x Effetto Notte: Hall of Bats with Lovataraxx, Hysteric Helen, Olgha at Urban Spree
 
-Process Party x Effetto Notte: Hall of Bats with Lovataraxx, Hysteric Helen, Olgha at Urban Spree on Fri 20 Nov, Berlin. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Process Party x Effetto Notte: Hall of Bats with Lovataraxx, Hysteric Helen, Olgha at Urban Spree on Fri 20 Nov, Berlin. EBM and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

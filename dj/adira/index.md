@@ -1,8 +1,8 @@
 # ADIRA
 
-ADIRA is a Pop and Latin Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
+ADIRA is a Pop and Latin Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA -  VARIOUS, Berlin on Fri, 2 Oct 2026.
 
-ADIRA is a pop and latin bass artist based in Germany, tracked on soundcheck, with 12 sets logged across Antwerp, Berlin, Brussels and Vienna. Often billed alongside Hassandra, T4NIT and ABADIR. Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
+ADIRA is a pop and latin bass artist based in Germany, with 12 gigs on soundcheck across Antwerp, Berlin, Brussels and Vienna. Often billed alongside Hassandra, T4NIT and ABADIR. Next up: TBA -  VARIOUS, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ADIRA is a pop and latin bass artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- FLUCC, Vienna — Sun, 2 Aug 2026
-- Badeschiff, Vienna — Sat, 16 May 2026
-- Vaux-Hall, Brussels — Sat, 30 Aug 2025
-- TBA - Congrès / Vaux Hall / Jean Rey /  SpanjePlein / De Brouckère / Poelaert , Brussels — Sat, 30 Aug 2025
-- Extra City Kunsthal, Antwerp — Sat, 28 Jun 2025
-- Badehaus Berlin, Berlin — Fri, 4 Apr 2025
-- Acud Macht NEU, Berlin — Thu, 3 Oct 2024
-- OST, Berlin — Fri, 31 May 2024
+- FLUCC, Vienna · Sun, 2 Aug 2026
+- Badeschiff, Vienna · Sat, 16 May 2026
+- Vaux-Hall, Brussels · Sat, 30 Aug 2025
+- TBA - Congrès / Vaux Hall / Jean Rey /  SpanjePlein / De Brouckère / Poelaert , Brussels · Sat, 30 Aug 2025
+- Extra City Kunsthal, Antwerp · Sat, 28 Jun 2025
+- Badehaus Berlin, Berlin · Fri, 4 Apr 2025
+- Acud Macht NEU, Berlin · Thu, 3 Oct 2024
+- OST, Berlin · Fri, 31 May 2024
 
 ## Shares bills with
 

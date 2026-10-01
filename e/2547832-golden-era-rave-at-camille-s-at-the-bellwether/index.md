@@ -1,6 +1,6 @@
 # Golden Era Rave at Camille's at The Bellwether
 
-Golden Era Rave at Camille's at The Bellwether on Fri 9 Oct, Los Angeles. Pop. Preview the line-up and save it on soundcheck.
+Golden Era Rave at Camille's at The Bellwether on Fri 9 Oct, Los Angeles. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

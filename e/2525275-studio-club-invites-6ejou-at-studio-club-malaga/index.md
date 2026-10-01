@@ -1,6 +1,6 @@
 # Studio Club Invites: 6EJOU at Studio Club Malaga
 
-Studio Club Invites: 6EJOU at Studio Club Malaga on Fri 9 Oct, Malaga. 1 artist on the bill: 6EJOU. Preview the line-up and save it on soundcheck.
+Studio Club Invites: 6EJOU at Studio Club Malaga on Fri 9 Oct, Malaga. 1 artist: 6EJOU. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

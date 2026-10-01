@@ -1,6 +1,6 @@
 # Lo-bit Stance at Cafe la Siesta
 
-Lo-bit Stance at Cafe la Siesta on Sun 4 Oct, Kyoto. 1 artist on the bill: DJ Master Kohta. IDM and Vaporwave. Preview the line-up and save it on soundcheck.
+Lo-bit Stance at Cafe la Siesta on Sun 4 Oct, Kyoto. 1 artist: DJ Master Kohta. IDM and Vaporwave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

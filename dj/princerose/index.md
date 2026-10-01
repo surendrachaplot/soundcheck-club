@@ -1,8 +1,8 @@
 # Prince Rose
 
-Prince Rose is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Good Room, New York City on Sat, 10 Oct 2026.
+Prince Rose is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Good Room, New York City on Sat, 10 Oct 2026.
 
-Prince Rose is a house and techno artist based in United States of America, tracked on soundcheck, with 31 sets logged across New York City and Washington DC. Often billed alongside Gail Force One, PWRPUFF and Joann Fabrixx. Next up: Good Room, New York City on Sat 10 Oct.
+Prince Rose is a house and techno artist based in United States of America, with 31 gigs on soundcheck across New York City and Washington DC. Often billed alongside Gail Force One, PWRPUFF and Joann Fabrixx. Next up: Good Room, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Prince Rose is a house and techno artist based in United States of America, trac
 
 ## Recently played
 
-- Club Rawhide, New York City — Sat, 12 Sept 2026
-- Bossa Nova Civic Club, New York City — Sun, 2 Aug 2026
-- Animal, New York City — Sat, 18 Jul 2026
-- C'mon Everybody, New York City — Fri, 17 Jul 2026
-- C'mon Everybody, New York City — Fri, 17 Jul 2026
-- Zebbie's Garden, Washington DC — Sun, 21 Jun 2026
-- Le Bain, New York City — Thu, 11 Jun 2026
-- C'mon Everybody, New York City — Fri, 5 Jun 2026
+- Club Rawhide, New York City · Sat, 12 Sept 2026
+- Bossa Nova Civic Club, New York City · Sun, 2 Aug 2026
+- Animal, New York City · Sat, 18 Jul 2026
+- C'mon Everybody, New York City · Fri, 17 Jul 2026
+- C'mon Everybody, New York City · Fri, 17 Jul 2026
+- Zebbie's Garden, Washington DC · Sun, 21 Jun 2026
+- Le Bain, New York City · Thu, 11 Jun 2026
+- C'mon Everybody, New York City · Fri, 5 Jun 2026
 
 ## Shares bills with
 

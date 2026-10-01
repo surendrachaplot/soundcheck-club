@@ -1,6 +1,6 @@
 # Daine x The Machine at Warehouse on Watts
 
-Daine x The Machine at Warehouse on Watts on Sat 5 Dec, Philadelphia. Preview the line-up and save it on soundcheck.
+Daine x The Machine at Warehouse on Watts on Sat 5 Dec, Philadelphia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Asteroid No.4 (US), Acid Rooster at Neue Zukunft
 
-The Asteroid No.4 (US), Acid Rooster at Neue Zukunft on Mon 5 Oct, Berlin. Krautrock and Post-Punk. Preview the line-up and save it on soundcheck.
+The Asteroid No.4 (US), Acid Rooster at Neue Zukunft on Mon 5 Oct, Berlin. Krautrock and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

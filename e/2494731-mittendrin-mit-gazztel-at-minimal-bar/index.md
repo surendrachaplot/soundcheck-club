@@ -1,6 +1,6 @@
 # mittendrin mit Gazztel at Minimal Bar
 
-mittendrin mit Gazztel at Minimal Bar on Wed 7 Oct, Berlin. Preview the line-up and save it on soundcheck.
+mittendrin mit Gazztel at Minimal Bar on Wed 7 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

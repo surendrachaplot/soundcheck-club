@@ -1,8 +1,8 @@
 # Hevre
 
-Hevre is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Patchlab Festival 2026: AVnight 2" on Fri, 16 Oct 2026.
+Hevre is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Patchlab Festival 2026: AVnight 2" on Fri, 16 Oct 2026.
 
-Hevre is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including Guillaume & The Coutu Dumonts, Manoid and Natan Kryszk. Browse upcoming dates, start times and who's playing. Meiselsa 18, Kraków, Poland.
+Hevre is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including Guillaume & The Coutu Dumonts, Manoid and Natan Kryszk. See dates, start times and who's playing. Meiselsa 18, Kraków, Poland.
 
 ## What's on
 

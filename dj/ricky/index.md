@@ -1,8 +1,8 @@
 # RICKY
 
-RICKY is a Techno and Gabber artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Traffic, Tokyo on Sat, 3 Oct 2026.
+RICKY is a Techno and Gabber artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Traffic, Tokyo on Sat, 3 Oct 2026.
 
-RICKY is a techno and gabber artist based in Japan, tracked on soundcheck, with 45 sets logged across London, Osaka, San Francisco/Oakland and Seoul and 1 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: Traffic, Tokyo on Sat 3 Oct.
+RICKY is a techno and gabber artist based in Japan, with 45 gigs on soundcheck across London, Osaka, San Francisco/Oakland and Seoul and 1 more. Often billed alongside KYLE MIKASA, KAMIKAZE and egomania. Next up: Traffic, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ RICKY is a techno and gabber artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- UTOPIA / DYSTOPIA, Tokyo — Sat, 26 Sept 2026
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sun, 20 Sept 2026
-- Socore Factory, Osaka — Sun, 13 Sept 2026
-- TBA - Nishiazabu, Tokyo — Fri, 11 Sept 2026
-- Fire & Lightbox, London — Sun, 30 Aug 2026
-- Decabar Super, Tokyo — Sat, 29 Aug 2026
-- Circus Tokyo, Tokyo — Sat, 8 Aug 2026
-- Bolero, Seoul — Thu, 23 Jul 2026
+- UTOPIA / DYSTOPIA, Tokyo · Sat, 26 Sept 2026
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sun, 20 Sept 2026
+- Socore Factory, Osaka · Sun, 13 Sept 2026
+- TBA - Nishiazabu, Tokyo · Fri, 11 Sept 2026
+- Fire & Lightbox, London · Sun, 30 Aug 2026
+- Decabar Super, Tokyo · Sat, 29 Aug 2026
+- Circus Tokyo, Tokyo · Sat, 8 Aug 2026
+- Bolero, Seoul · Thu, 23 Jul 2026
 
 ## Shares bills with
 

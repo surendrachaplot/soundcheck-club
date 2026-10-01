@@ -1,6 +1,6 @@
 # Mutate PRESENTS: Restricted at SOMA
 
-Mutate PRESENTS: Restricted at SOMA on Fri 23 Oct, San Diego. 1 artist on the bill: Restricted. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Mutate PRESENTS: Restricted at SOMA on Fri 23 Oct, San Diego. 1 artist: Restricted. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

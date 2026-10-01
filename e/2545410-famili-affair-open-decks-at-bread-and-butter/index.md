@@ -1,6 +1,6 @@
 # Famili Affair Open Decks at Bread and Butter
 
-Famili Affair Open Decks at Bread and Butter on Fri 2 Oct, London. Preview the line-up and save it on soundcheck.
+Famili Affair Open Decks at Bread and Butter on Fri 2 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

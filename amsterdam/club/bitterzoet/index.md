@@ -1,8 +1,8 @@
 # Bitterzoet
 
-Bitterzoet is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dripped" on Sat, 3 Oct 2026.
+Bitterzoet is a music venue in Amsterdam with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dripped" on Sat, 3 Oct 2026.
 
-Bitterzoet is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Mietze Conte. Browse upcoming dates, start times and who's playing. Spuistraat 2; 1012 Binnenstad; Amsterdam; Netherlands.
+Bitterzoet is a music venue in Amsterdam listed on soundcheck. 3 upcoming gigs, with line-ups including Mietze Conte. See dates, start times and who's playing. Spuistraat 2; 1012 Binnenstad; Amsterdam; Netherlands.
 
 ## What's on
 

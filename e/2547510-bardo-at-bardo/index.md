@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Thu 1 Oct, Milan. Dub and Electronica. Preview the line-up and save it on soundcheck.
+BARDO on Thu 1 Oct, Milan. Dub and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

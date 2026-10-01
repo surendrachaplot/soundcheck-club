@@ -1,6 +1,6 @@
 # Be Home /// Ninze & Niju (live), Camillenfee b2b alefala at Beate Uwe
 
-Be Home /// Ninze & Niju (live), Camillenfee b2b alefala at Beate Uwe on Thu 22 Oct, Berlin. 2 artists on the bill: Niju and Ninze. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+Be Home /// Ninze & Niju (live), Camillenfee b2b alefala at Beate Uwe on Thu 22 Oct, Berlin. 2 artists: Niju and Ninze. Deep House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

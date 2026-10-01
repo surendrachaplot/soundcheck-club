@@ -1,8 +1,8 @@
 # 90mil
 
-90mil is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Salon of Coincidence: Vol 05" on Sat, 10 Oct 2026.
+90mil is a music venue in Berlin with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Salon of Coincidence: Vol 05" on Sat, 10 Oct 2026.
 
-90mil is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including abstraqt, Alex Jenkin, CuCiCuCi and Different Shades and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 19-23, 10243 Berlin.
+90mil is a music venue in Berlin listed on soundcheck. 7 upcoming gigs, with line-ups including abstraqt, Alex Jenkin, CuCiCuCi and Different Shades and 2 more. See dates, start times and who's playing. Holzmarktstrasse 19-23, 10243 Berlin.
 
 ## What's on
 

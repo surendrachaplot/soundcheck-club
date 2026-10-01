@@ -1,6 +1,6 @@
 # Dissonans One Year Anniversary at Southside Gallery
 
-Dissonans One Year Anniversary at Southside Gallery on Fri 2 Oct, Stockholm. 2 artists on the bill: Jin Mustafa and Josephine Moriko. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+Dissonans One Year Anniversary at Southside Gallery on Fri 2 Oct, Stockholm. 2 artists: Jin Mustafa and Josephine Moriko. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

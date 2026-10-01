@@ -1,8 +1,8 @@
 # Runde
 
-Runde is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Motel Campo, Geneva on Sat, 3 Oct 2026.
+Runde is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Motel Campo, Geneva on Sat, 3 Oct 2026.
 
-Runde is a techno and house artist based in Switzerland, tracked on soundcheck, with 4 sets logged across Geneva and Lausanne. Often billed alongside Gioski, Hatari! and Idealist. Next up: Motel Campo, Geneva on Sat 3 Oct.
+Runde is a techno and house artist based in Switzerland, with 4 gigs on soundcheck across Geneva and Lausanne. Often billed alongside Gioski, Hatari! and Idealist. Next up: Motel Campo, Geneva on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,7 +14,7 @@ Runde is a techno and house artist based in Switzerland, tracked on soundcheck, 
 
 ## Recently played
 
-- Motel Campo, Geneva — Sat, 11 Jul 2026
+- Motel Campo, Geneva · Sat, 11 Jul 2026
 
 ## Shares bills with
 

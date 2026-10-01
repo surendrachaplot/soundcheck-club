@@ -1,6 +1,6 @@
 # Deep Dish at It'll Do
 
-Deep Dish at It'll Do on Sat 5 Dec, Dallas Fort Worth. 1 artist on the bill: Deep Dish. Preview the line-up and save it on soundcheck.
+Deep Dish at It'll Do on Sat 5 Dec, Dallas Fort Worth. 1 artist: Deep Dish. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

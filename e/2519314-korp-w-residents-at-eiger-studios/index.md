@@ -1,6 +1,6 @@
 # KORP w / residents at Eiger Studios
 
-KORP w / residents at Eiger Studios on Fri 16 Oct, Leeds. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+KORP w / residents at Eiger Studios on Fri 16 Oct, Leeds. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

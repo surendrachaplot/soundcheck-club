@@ -1,8 +1,8 @@
 # Manuel Moreno
 
-Manuel Moreno is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
+Manuel Moreno is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Frieda's Büxe, Zurich on Fri, 6 Nov 2026.
 
-Manuel Moreno is a house and deep house artist based in Switzerland, tracked on soundcheck, with 21 sets logged across Amsterdam, Basel, Berlin and Zurich. Often billed alongside Caromelle, AANN and Felix E. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
+Manuel Moreno is a house and deep house artist based in Switzerland, with 21 gigs on soundcheck across Amsterdam, Basel, Berlin and Zurich. Often billed alongside Caromelle, AANN and Felix E. Next up: Frieda's Büxe, Zurich on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Manuel Moreno is a house and deep house artist based in Switzerland, tracked on 
 
 ## Recently played
 
-- Frau Gerolds Garten, Zurich — Sat, 19 Sept 2026
-- Landesmuseum, Zurich — Mon, 17 Aug 2026
-- Hive Club, Zurich — Sat, 8 Aug 2026
-- Hive Club, Zurich — Sat, 11 Jul 2026
-- Werft Wollishofen, Zurich — Sat, 4 Jul 2026
-- TBA - Engros Markt Aargauerstrasse 1, 8048 Zürich, Zurich — Sat, 13 Jun 2026
-- Hive Club, Zurich — Sat, 13 Jun 2026
-- Kauz, Zurich — Sat, 16 May 2026
+- Frau Gerolds Garten, Zurich · Sat, 19 Sept 2026
+- Landesmuseum, Zurich · Mon, 17 Aug 2026
+- Hive Club, Zurich · Sat, 8 Aug 2026
+- Hive Club, Zurich · Sat, 11 Jul 2026
+- Werft Wollishofen, Zurich · Sat, 4 Jul 2026
+- TBA - Engros Markt Aargauerstrasse 1, 8048 Zürich, Zurich · Sat, 13 Jun 2026
+- Hive Club, Zurich · Sat, 13 Jun 2026
+- Kauz, Zurich · Sat, 16 May 2026
 
 ## Shares bills with
 

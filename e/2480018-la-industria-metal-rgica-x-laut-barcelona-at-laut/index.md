@@ -1,6 +1,6 @@
 # La Industria Metalúrgica x LAUT Barcelona at LAUT
 
-La Industria Metalúrgica x LAUT Barcelona on Sat 12 Dec, Barcelona. Electro and Electronica. Preview the line-up and save it on soundcheck.
+La Industria Metalúrgica x LAUT Barcelona on Sat 12 Dec, Barcelona. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

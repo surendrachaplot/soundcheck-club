@@ -1,6 +1,6 @@
 # Frekuence — MASCHA / XHORXHO / TURBULL at Frekuence
 
-Frekuence — MASCHA / XHORXHO / TURBULL on Fri 16 Oct, Tirana. 1 artist on the bill: MASCHA. Preview the line-up and save it on soundcheck.
+Frekuence — MASCHA / XHORXHO / TURBULL on Fri 16 Oct, Tirana. 1 artist: MASCHA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Paul Oakenfold & The Crystal Method at Racket NY
 
-Paul Oakenfold & The Crystal Method at Racket NY on Sat 31 Oct, New York City. 3 artists on the bill: Liquid Todd, Paul Oakenfold and The Crystal Method. House and Deep House. Preview the line-up and save it on soundcheck.
+Paul Oakenfold & The Crystal Method at Racket NY on Sat 31 Oct, New York City. 3 artists: Liquid Todd, Paul Oakenfold and The Crystal Method. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

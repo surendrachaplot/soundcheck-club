@@ -1,6 +1,6 @@
 # Bontan at Q Nightclub
 
-Bontan at Q Nightclub on Sat 14 Nov, Seattle. 1 artist on the bill: Bontan. Preview the line-up and save it on soundcheck.
+Bontan at Q Nightclub on Sat 14 Nov, Seattle. 1 artist: Bontan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

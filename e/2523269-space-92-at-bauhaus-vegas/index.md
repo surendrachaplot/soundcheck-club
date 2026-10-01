@@ -1,6 +1,6 @@
 # Space 92 at Bauhaus Vegas
 
-Space 92 at Bauhaus Vegas on Sat 3 Oct, Las Vegas. 1 artist on the bill: Space 92. Preview the line-up and save it on soundcheck.
+Space 92 at Bauhaus Vegas on Sat 3 Oct, Las Vegas. 1 artist: Space 92. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

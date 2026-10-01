@@ -1,8 +1,8 @@
 # DJ Noir
 
-DJ Noir is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 3 Oct 2026.
+DJ Noir is a Club and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Los Angeles (Warehouse), Los Angeles on Sat, 3 Oct 2026.
 
-DJ Noir is a club and house artist based in United States of America, tracked on soundcheck, with 49 sets logged across Los Angeles, New York City, San Diego and Seattle. Often billed alongside JAE JBW, Alleygorgon and TR-666. Next up: TBA - Los Angeles (Warehouse), Los Angeles on Sat 3 Oct.
+DJ Noir is a club and house artist based in United States of America, with 49 gigs on soundcheck across Los Angeles, New York City, San Diego and Seattle. Often billed alongside JAE JBW, Alleygorgon and TR-666. Next up: TBA - Los Angeles (Warehouse), Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Noir is a club and house artist based in United States of America, tracked on
 
 ## Recently played
 
-- Nowadays, New York City — Sat, 15 Aug 2026
-- The Airliner, Los Angeles — Sat, 18 Jul 2026
-- The Airliner, Los Angeles — Thu, 2 Jul 2026
-- 3oz Dive Club, San Diego — Fri, 1 May 2026
-- Bossa Nova Civic Club, New York City — Sat, 25 Apr 2026
-- TBA, Los Angeles — Sat, 11 Apr 2026
-- TBA, Los Angeles — Fri, 20 Feb 2026
-- The Love Song, Los Angeles — Fri, 26 Dec 2025
+- Nowadays, New York City · Sat, 15 Aug 2026
+- The Airliner, Los Angeles · Sat, 18 Jul 2026
+- The Airliner, Los Angeles · Thu, 2 Jul 2026
+- 3oz Dive Club, San Diego · Fri, 1 May 2026
+- Bossa Nova Civic Club, New York City · Sat, 25 Apr 2026
+- TBA, Los Angeles · Sat, 11 Apr 2026
+- TBA, Los Angeles · Fri, 20 Feb 2026
+- The Love Song, Los Angeles · Fri, 26 Dec 2025
 
 ## Shares bills with
 

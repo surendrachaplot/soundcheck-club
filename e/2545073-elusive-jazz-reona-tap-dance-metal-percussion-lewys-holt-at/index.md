@@ -1,6 +1,6 @@
 # Elusive Jazz: Reona (Tap dance, Metal percussion) + Lewys Holt at Impiety Hour
 
-Elusive Jazz: Reona (Tap dance, Metal percussion) + Lewys Holt at Impiety Hour on Sun 4 Oct, Manchester. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+Elusive Jazz: Reona (Tap dance, Metal percussion) + Lewys Holt at Impiety Hour on Sun 4 Oct, Manchester. Experimental and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

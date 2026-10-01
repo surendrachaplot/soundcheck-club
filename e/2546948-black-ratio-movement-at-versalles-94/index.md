@@ -1,6 +1,6 @@
 # Black Ratio Movement at Versalles 94
 
-Black Ratio Movement at Versalles 94 on Fri 16 Oct, Mexico City. 2 artists on the bill: Neukila and Redeker. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Black Ratio Movement at Versalles 94 on Fri 16 Oct, Mexico City. 2 artists: Neukila and Redeker. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

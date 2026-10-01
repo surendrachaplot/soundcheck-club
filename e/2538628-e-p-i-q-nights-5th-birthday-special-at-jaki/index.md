@@ -1,6 +1,6 @@
 # E.P.I.Q Nights: 5th Birthday Special at JAKI
 
-E.P.I.Q Nights: 5th Birthday Special at JAKI on Fri 2 Oct, Cologne. 5 artists on the bill: AMSL, Anna Cainelli, Nikity and Savsannah and 1 more. House and Dancehall. Preview the line-up and save it on soundcheck.
+E.P.I.Q Nights: 5th Birthday Special at JAKI on Fri 2 Oct, Cologne. 5 artists: AMSL, Anna Cainelli, Nikity and Savsannah and 1 more. House and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

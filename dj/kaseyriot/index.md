@@ -1,8 +1,8 @@
 # Kasey Riot
 
-Kasey Riot is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Kasey Riot is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
-Kasey Riot is a techno and industrial artist based in Canada, tracked on soundcheck, with 59 sets logged across Montreal, Toronto and Vancouver. Often billed alongside DJ Hockey, Fisher Bryce and Sam Steele. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
+Kasey Riot is a techno and industrial artist based in Canada, with 59 gigs on soundcheck across Montreal, Toronto and Vancouver. Often billed alongside DJ Hockey, Fisher Bryce and Sam Steele. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kasey Riot is a techno and industrial artist based in Canada, tracked on soundch
 
 ## Recently played
 
-- Catacombs Cabaret, Toronto — Sat, 26 Sept 2026
-- The Painted Lady, Toronto — Thu, 17 Sept 2026
-- Catacombs Cabaret, Toronto — Sat, 5 Sept 2026
-- IDK Social BAR, Toronto — Sat, 29 Aug 2026
-- Catacombs Cabaret, Toronto — Sat, 22 Aug 2026
-- TBA - near Main St. Skytrain Station, Vancouver — Sun, 2 Aug 2026
-- The Well Studios, Vancouver — Sat, 1 Aug 2026
-- Gorg-O-Mish, Vancouver — Fri, 31 Jul 2026
+- Catacombs Cabaret, Toronto · Sat, 26 Sept 2026
+- The Painted Lady, Toronto · Thu, 17 Sept 2026
+- Catacombs Cabaret, Toronto · Sat, 5 Sept 2026
+- IDK Social BAR, Toronto · Sat, 29 Aug 2026
+- Catacombs Cabaret, Toronto · Sat, 22 Aug 2026
+- TBA - near Main St. Skytrain Station, Vancouver · Sun, 2 Aug 2026
+- The Well Studios, Vancouver · Sat, 1 Aug 2026
+- Gorg-O-Mish, Vancouver · Fri, 31 Jul 2026
 
 ## Shares bills with
 

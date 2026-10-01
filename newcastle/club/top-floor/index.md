@@ -1,8 +1,8 @@
 # Top Floor
 
-Top Floor is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Balance presents Blasha & Allatt" on Fri, 2 Oct 2026.
+Top Floor is a music venue in Newcastle with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Balance presents Blasha & Allatt" on Fri, 2 Oct 2026.
 
-Top Floor is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, with line-ups including B.Love and Blasha & Allatt. Browse upcoming dates, start times and who's playing. 13 Bigg Market NE1 1SU.
+Top Floor is a music venue in Newcastle listed on soundcheck. 3 upcoming gigs, with line-ups including B.Love and Blasha & Allatt. See dates, start times and who's playing. 13 Bigg Market NE1 1SU.
 
 ## What's on
 

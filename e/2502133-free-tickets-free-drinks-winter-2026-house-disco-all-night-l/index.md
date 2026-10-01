@@ -1,6 +1,6 @@
 # FREE TICKETS + FREE DRINKS: WINTER 2026 – House & Disco ALL NIGHT LONG at Egg London
 
-FREE TICKETS + FREE DRINKS: WINTER 2026 – House & Disco ALL NIGHT LONG at Egg London on Sat 17 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+FREE TICKETS + FREE DRINKS: WINTER 2026 – House & Disco ALL NIGHT LONG at Egg London on Sat 17 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

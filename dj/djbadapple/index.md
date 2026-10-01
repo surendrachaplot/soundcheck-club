@@ -1,8 +1,8 @@
 # DJ BAD APPLE
 
-DJ BAD APPLE is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Xuxa, Austin on Fri, 2 Oct 2026.
+DJ BAD APPLE is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Xuxa, Austin on Fri, 2 Oct 2026.
 
-DJ BAD APPLE is a house and club artist based in United States of America, tracked on soundcheck, with 107 sets logged across Austin. Often billed alongside MAJESTYOFDIVINITY, Al V Dam and Hip Stir. Next up: Xuxa, Austin on Fri 2 Oct.
+DJ BAD APPLE is a house and club artist based in United States of America, with 107 gigs on soundcheck across Austin. Often billed alongside MAJESTYOFDIVINITY, Al V Dam and Hip Stir. Next up: Xuxa, Austin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ BAD APPLE is a house and club artist based in United States of America, track
 
 ## Recently played
 
-- The Line Hotel, Austin — Sun, 30 Aug 2026
-- THE BATHS, Austin — Sat, 22 Aug 2026
-- W Austin, Austin — Sat, 4 Jul 2026
-- The Concourse Project, Austin — Thu, 25 Jun 2026
-- TBA -  Moody Amphitheater, Austin — Fri, 19 Jun 2026
-- The Volstead Lounge, Austin — Sat, 6 Jun 2026
-- TBA - Radio/East, Austin — Thu, 21 May 2026
-- The Volstead Lounge, Austin — Sat, 2 May 2026
+- The Line Hotel, Austin · Sun, 30 Aug 2026
+- THE BATHS, Austin · Sat, 22 Aug 2026
+- W Austin, Austin · Sat, 4 Jul 2026
+- The Concourse Project, Austin · Thu, 25 Jun 2026
+- TBA -  Moody Amphitheater, Austin · Fri, 19 Jun 2026
+- The Volstead Lounge, Austin · Sat, 6 Jun 2026
+- TBA - Radio/East, Austin · Thu, 21 May 2026
+- The Volstead Lounge, Austin · Sat, 2 May 2026
 
 ## Shares bills with
 

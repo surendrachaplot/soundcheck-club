@@ -1,6 +1,6 @@
 # Yung Prado All Night Long / Somoslas: Erol Alkan · Jonjo Jury · Ferdiyei at Nitsa Club
 
-Yung Prado All Night Long / Somoslas: Erol Alkan · Jonjo Jury · Ferdiyei at Nitsa Club on Sat 24 Oct, Barcelona. 3 artists on the bill: Erol Alkan, Ferdiyei and Yung Prado. Techno and House. Preview the line-up and save it on soundcheck.
+Yung Prado All Night Long / Somoslas: Erol Alkan · Jonjo Jury · Ferdiyei at Nitsa Club on Sat 24 Oct, Barcelona. 3 artists: Erol Alkan, Ferdiyei and Yung Prado. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

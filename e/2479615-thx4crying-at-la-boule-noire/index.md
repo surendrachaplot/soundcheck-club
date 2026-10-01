@@ -1,6 +1,6 @@
 # Thx4Crying at La Boule Noire
 
-Thx4Crying at La Boule Noire on Wed 25 Nov, Paris. Pop and Club. Preview the line-up and save it on soundcheck.
+Thx4Crying at La Boule Noire on Wed 25 Nov, Paris. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

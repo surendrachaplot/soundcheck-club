@@ -1,6 +1,6 @@
 # BBeatz at Knüppel at Jonny Knüppel
 
-BBeatz at Knüppel at Jonny Knüppel on Sat 24 Oct, Berlin. Preview the line-up and save it on soundcheck.
+BBeatz at Knüppel at Jonny Knüppel on Sat 24 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

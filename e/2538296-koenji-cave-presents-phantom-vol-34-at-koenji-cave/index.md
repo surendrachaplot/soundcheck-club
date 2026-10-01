@@ -1,6 +1,6 @@
 # Koenji Cave presents ◎PHANTOM◎ Vol.34 at Koenji Cave
 
-Koenji Cave presents ◎PHANTOM◎ Vol.34 on Fri 16 Oct, Tokyo. 5 artists on the bill: BERLINER KINDL, CyberMoripy, Frank S and RAPHAËL and 1 more. Acid and Psytrance. Preview the line-up and save it on soundcheck.
+Koenji Cave presents ◎PHANTOM◎ Vol.34 on Fri 16 Oct, Tokyo. 5 artists: BERLINER KINDL, CyberMoripy, Frank S and RAPHAËL and 1 more. Acid and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

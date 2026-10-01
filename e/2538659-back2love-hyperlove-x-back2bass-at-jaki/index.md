@@ -1,6 +1,6 @@
 # Back2Love: Hyperlove x Back2Bass at JAKI
 
-Back2Love: Hyperlove x Back2Bass at JAKI on Fri 23 Oct, Cologne. 5 artists on the bill: Back2Bass, BUTTMONEY, DJ ASS TITS and juno.j and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Back2Love: Hyperlove x Back2Bass at JAKI on Fri 23 Oct, Cologne. 5 artists: Back2Bass, BUTTMONEY, DJ ASS TITS and juno.j and 1 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

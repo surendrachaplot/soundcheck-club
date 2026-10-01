@@ -1,8 +1,8 @@
 # Arman John
 
-Arman John is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Thuishaven, Amsterdam on Sun, 4 Oct 2026.
+Arman John is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 4 Oct 2026.
 
-Arman John is a trance and techno artist based in Germany, tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Basel and Belfast and 29 more. Often billed alongside Kø:lab, BNZN and Cara Elizabeth. Next up: Thuishaven, Amsterdam on Sun 4 Oct.
+Arman John is a trance and techno artist based in Germany, with 113 gigs on soundcheck across Amsterdam, Antwerp, Basel and Belfast and 29 more. Often billed alongside Kø:lab, BNZN and Cara Elizabeth. Next up: Thuishaven, Amsterdam on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Arman John is a trance and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- OST, Berlin — Sat, 26 Sept 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- Lokschuppen Berlin, Berlin — Fri, 31 Jul 2026
-- Mia Mao, Paris — Mon, 13 Jul 2026
-- Belvedere du Centre Des Sciences de Montréal, Montreal — Sat, 11 Jul 2026
-- Club 69, Glasgow — Sat, 2 May 2026
-- Zoo, Geneva — Fri, 10 Apr 2026
-- Edelfettwerk, Hamburg — Thu, 2 Apr 2026
+- OST, Berlin · Sat, 26 Sept 2026
+- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
+- Lokschuppen Berlin, Berlin · Fri, 31 Jul 2026
+- Mia Mao, Paris · Mon, 13 Jul 2026
+- Belvedere du Centre Des Sciences de Montréal, Montreal · Sat, 11 Jul 2026
+- Club 69, Glasgow · Sat, 2 May 2026
+- Zoo, Geneva · Fri, 10 Apr 2026
+- Edelfettwerk, Hamburg · Thu, 2 Apr 2026
 
 ## Shares bills with
 

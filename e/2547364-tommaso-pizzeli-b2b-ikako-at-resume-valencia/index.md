@@ -1,6 +1,6 @@
 # TOMMASO PIZZELI B2B IKAKO at Resume Valencia
 
-TOMMASO PIZZELI B2B IKAKO at Resume Valencia on Fri 16 Oct, Valencia. 2 artists on the bill: IKAKO and Tommaso Pizzelli. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+TOMMASO PIZZELI B2B IKAKO at Resume Valencia on Fri 16 Oct, Valencia. 2 artists: IKAKO and Tommaso Pizzelli. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

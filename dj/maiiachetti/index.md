@@ -1,8 +1,8 @@
 # Mai iachetti
 
-Mai iachetti is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
+Mai iachetti is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
 
-Mai iachetti is a house and tech house artist based in United States of America, tracked on soundcheck, with 132 sets logged across Boston, Buenos Aires, Chicago and Denver and 9 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: TBA - Tokyo Club, Costanera, Buenos Aires on Sat 3 Oct.
+Mai iachetti is a house and tech house artist based in United States of America, with 132 gigs on soundcheck across Boston, Buenos Aires, Chicago and Denver and 9 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: TBA - Tokyo Club, Costanera, Buenos Aires on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Mai iachetti is a house and tech house artist based in United States of America,
 
 ## Recently played
 
-- Utopia, Los Angeles — Fri, 4 Sept 2026
-- Sunset Park Rooftop, New York City — Fri, 21 Aug 2026
-- Floyd, Miami — Sat, 15 Aug 2026
-- Fooq's Miami, Miami — Sat, 18 Jul 2026
-- Mad Radio Miami, Miami — Fri, 17 Jul 2026
-- Club Space Miami, Miami — Sat, 11 Jul 2026
-- Blue Summer Ibiza Boat, Ibiza — Sun, 5 Jul 2026
-- Blue Marlin Ibiza, Ibiza — Wed, 1 Jul 2026
+- Utopia, Los Angeles · Fri, 4 Sept 2026
+- Sunset Park Rooftop, New York City · Fri, 21 Aug 2026
+- Floyd, Miami · Sat, 15 Aug 2026
+- Fooq's Miami, Miami · Sat, 18 Jul 2026
+- Mad Radio Miami, Miami · Fri, 17 Jul 2026
+- Club Space Miami, Miami · Sat, 11 Jul 2026
+- Blue Summer Ibiza Boat, Ibiza · Sun, 5 Jul 2026
+- Blue Marlin Ibiza, Ibiza · Wed, 1 Jul 2026
 
 ## Shares bills with
 

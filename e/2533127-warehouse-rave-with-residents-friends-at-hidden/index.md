@@ -1,6 +1,6 @@
 # Warehouse Rave with Residents & Friends at Hidden
 
-Warehouse Rave with Residents & Friends at Hidden on Fri 2 Oct, Manchester. Bass and Garage. Preview the line-up and save it on soundcheck.
+Warehouse Rave with Residents & Friends at Hidden on Fri 2 Oct, Manchester. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

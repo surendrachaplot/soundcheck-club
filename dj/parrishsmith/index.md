@@ -1,8 +1,8 @@
 # Parrish Smith
 
-Parrish Smith is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Parrish Smith is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Parrish Smith is a techno and electro artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Mila V, Camy Huot and Phase Fatale. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Parrish Smith is a techno and electro artist based in Netherlands, with 88 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Camy Huot, Mila V and Phase Fatale. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,22 +10,23 @@ Parrish Smith is a techno and electro artist based in Netherlands, tracked on so
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Fri, 23 Oct 2026 | OT301 | Amsterdam |
+| Fri, 23 Oct 2026 | OT301 | Amsterdam |
 | Sat, 31 Oct 2026 | KHIDI | Tbilisi |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
 
 ## Recently played
 
-- Garage Noord, Amsterdam — Fri, 4 Sept 2026
-- Time is the new space, Rotterdam — Sat, 27 Jun 2026
-- RADION, Amsterdam — Fri, 19 Jun 2026
-- CLUB RAUM, Amsterdam — Sat, 9 May 2026
-- TILLATEC, Amsterdam — Sun, 22 Mar 2026
-- KHIDI, Tbilisi — Fri, 2 Jan 2026
-- Paradiso, Amsterdam — Sat, 29 Nov 2025
-- Fuchs2, Prague — Fri, 21 Nov 2025
+- Garage Noord, Amsterdam · Fri, 4 Sept 2026
+- Time is the new space, Rotterdam · Sat, 27 Jun 2026
+- RADION, Amsterdam · Fri, 19 Jun 2026
+- CLUB RAUM, Amsterdam · Sat, 9 May 2026
+- TILLATEC, Amsterdam · Sun, 22 Mar 2026
+- KHIDI, Tbilisi · Fri, 2 Jan 2026
+- Paradiso, Amsterdam · Sat, 29 Nov 2025
+- Fuchs2, Prague · Fri, 21 Nov 2025
 
 ## Shares bills with
 
-Mila V, Camy Huot, Phase Fatale
+Camy Huot, Mila V, Phase Fatale
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parrishsmith/)*

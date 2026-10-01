@@ -1,6 +1,6 @@
 # Chezidek at The Jazz Cafe
 
-Chezidek at The Jazz Cafe on Mon 26 Oct, London. Preview the line-up and save it on soundcheck.
+Chezidek at The Jazz Cafe on Mon 26 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

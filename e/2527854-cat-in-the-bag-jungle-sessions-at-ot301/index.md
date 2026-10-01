@@ -1,6 +1,6 @@
 # CAT IN THE BAG JUNGLE SESSIONS at OT301
 
-CAT IN THE BAG JUNGLE SESSIONS at OT301 on Fri 2 Oct, Amsterdam. 2 artists on the bill: FFF (NL) and Tommy The Cat. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+CAT IN THE BAG JUNGLE SESSIONS at OT301 on Fri 2 Oct, Amsterdam. 2 artists: FFF (NL) and Tommy The Cat. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

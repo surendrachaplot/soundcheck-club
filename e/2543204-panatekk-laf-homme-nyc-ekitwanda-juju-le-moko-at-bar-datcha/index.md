@@ -1,6 +1,6 @@
 # Panatekk: Laf Homme (NYC), Ekitwanda, Juju le Moko at Bar Datcha
 
-Panatekk: Laf Homme (NYC), Ekitwanda, Juju le Moko at Bar Datcha on Thu 15 Oct, Montreal. 2 artists on the bill: Ekitwanda and Juju le Moko. Preview the line-up and save it on soundcheck.
+Panatekk: Laf Homme (NYC), Ekitwanda, Juju le Moko at Bar Datcha on Thu 15 Oct, Montreal. 2 artists: Ekitwanda and Juju le Moko. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

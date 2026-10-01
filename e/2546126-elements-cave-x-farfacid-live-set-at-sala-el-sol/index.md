@@ -1,6 +1,6 @@
 # Elements Cave x FARFACID (Live Set) at Sala El Sol
 
-Elements Cave x FARFACID (Live Set) at Sala El Sol on Fri 16 Oct, Madrid. 3 artists on the bill: Pulpix, Tori and Trenzark. Techno and Acid. Preview the line-up and save it on soundcheck.
+Elements Cave x FARFACID (Live Set) at Sala El Sol on Fri 16 Oct, Madrid. 3 artists: Pulpix, Tori and Trenzark. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

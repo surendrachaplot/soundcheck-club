@@ -1,6 +1,6 @@
 # PROTEGO x kerakai presents AERAE and Ocyra at MIDNIGHT EAST
 
-PROTEGO x kerakai presents AERAE and Ocyra at MIDNIGHT EAST on Fri 9 Oct, Tokyo. 7 artists on the bill: AERAE, Astma, comm and Dawn Ever and 3 more. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+PROTEGO x kerakai presents AERAE and Ocyra at MIDNIGHT EAST on Fri 9 Oct, Tokyo. 7 artists: AERAE, Astma, comm and Dawn Ever and 3 more. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

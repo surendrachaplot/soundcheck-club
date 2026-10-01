@@ -1,6 +1,6 @@
 # LARA-RA & FRIENDS with TBA at Freeze HiFi
 
-LARA-RA & FRIENDS with TBA at Freeze HiFi on Tue 24 Nov, Liverpool. 1 artist on the bill: LARA-RA. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+LARA-RA & FRIENDS with TBA at Freeze HiFi on Tue 24 Nov, Liverpool. 1 artist: LARA-RA. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

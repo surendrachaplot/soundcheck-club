@@ -1,8 +1,8 @@
 # Secret Location
 
-Secret Location is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "VYU: Revelations" on Sat, 10 Oct 2026.
+Secret Location is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "VYU: Revelations" on Sat, 10 Oct 2026.
 
-Secret Location is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Andelet3, James Shinra, Kakura and N1NJA and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced.
+Secret Location is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Andelet3, James Shinra, Kakura and N1NJA and 2 more. See dates, start times and who's playing. To Be Announced.
 
 ## What's on
 

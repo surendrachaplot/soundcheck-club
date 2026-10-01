@@ -1,8 +1,8 @@
 # Fabrizio Mammarella
 
-Fabrizio Mammarella is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BARDO, Milan on Fri, 2 Oct 2026.
+Fabrizio Mammarella is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BARDO, Milan on Fri, 2 Oct 2026.
 
-Fabrizio Mammarella is a house and techno artist based in Italy, tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 21 more. Often billed alongside Giulia Gutterer, Franz Scala and Charlie. Next up: BARDO, Milan on Fri 2 Oct.
+Fabrizio Mammarella is a house and techno artist based in Italy, with 90 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 21 more. Often billed alongside Giulia Gutterer, Franz Scala and Charlie. Next up: BARDO, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Fabrizio Mammarella is a house and techno artist based in Italy, tracked on soun
 
 ## Recently played
 
-- Kater, Berlin — Fri, 21 Aug 2026
-- OXI, Berlin — Sun, 2 Aug 2026
-- La Paloma, Barcelona — Fri, 10 Jul 2026
-- control, Bucharest — Fri, 12 Jun 2026
-- The Glove That Fits, London — Sat, 30 May 2026
-- Masada, Milan — Sun, 24 May 2026
-- The White Hotel, Manchester — Sat, 23 May 2026
-- BASEMENT, New York City — Sat, 16 May 2026
+- Kater, Berlin · Fri, 21 Aug 2026
+- OXI, Berlin · Sun, 2 Aug 2026
+- La Paloma, Barcelona · Fri, 10 Jul 2026
+- control, Bucharest · Fri, 12 Jun 2026
+- The Glove That Fits, London · Sat, 30 May 2026
+- Masada, Milan · Sun, 24 May 2026
+- The White Hotel, Manchester · Sat, 23 May 2026
+- BASEMENT, New York City · Sat, 16 May 2026
 
 ## Shares bills with
 

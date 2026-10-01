@@ -1,8 +1,8 @@
 # Captain Planet
 
-Captain Planet is a Disco and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Airliner, Los Angeles on Fri, 16 Oct 2026.
+Captain Planet is a Disco and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Airliner, Los Angeles on Fri, 16 Oct 2026.
 
-Captain Planet is a disco and afro house artist based in United States of America, tracked on soundcheck, with 46 sets logged across London, Los Angeles, Mexico City and New York City and 3 more. Often billed alongside Jeremy Sole, Mysticism and Alena Vox. Next up: The Airliner, Los Angeles on Fri 16 Oct.
+Captain Planet is a disco and afro house artist based in United States of America, with 46 gigs on soundcheck across London, Los Angeles, Mexico City and New York City and 3 more. Often billed alongside Jeremy Sole, Mysticism and Alena Vox. Next up: The Airliner, Los Angeles on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Captain Planet is a disco and afro house artist based in United States of Americ
 
 ## Recently played
 
-- The Airliner, Los Angeles — Fri, 11 Sept 2026
-- The Airliner, Los Angeles — Fri, 14 Aug 2026
-- The Airliner, Los Angeles — Fri, 12 Jun 2026
-- Departamento, Mexico City — Wed, 13 May 2026
-- The Airliner, Los Angeles — Fri, 8 May 2026
-- The Airliner, Los Angeles — Fri, 17 Apr 2026
-- Trinity@22nd, Philadelphia — Fri, 6 Mar 2026
-- Bardot Hollywood, Los Angeles — Sat, 7 Feb 2026
+- The Airliner, Los Angeles · Fri, 11 Sept 2026
+- The Airliner, Los Angeles · Fri, 14 Aug 2026
+- The Airliner, Los Angeles · Fri, 12 Jun 2026
+- Departamento, Mexico City · Wed, 13 May 2026
+- The Airliner, Los Angeles · Fri, 8 May 2026
+- The Airliner, Los Angeles · Fri, 17 Apr 2026
+- Trinity@22nd, Philadelphia · Fri, 6 Mar 2026
+- Bardot Hollywood, Los Angeles · Sat, 7 Feb 2026
 
 ## Shares bills with
 

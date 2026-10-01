@@ -1,8 +1,8 @@
 # HUJUS
 
-HUJUS is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sugarfactory, Amsterdam on Wed, 21 Oct 2026.
+HUJUS is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sugarfactory, Amsterdam on Wed, 21 Oct 2026.
 
-HUJUS is a techno and trance artist based in Netherlands, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside Adrian Mills, Fran LF and Serafina. Next up: Sugarfactory, Amsterdam on Wed 21 Oct.
+HUJUS is a techno and trance artist based in Netherlands, with 49 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 7 more. Often billed alongside Adrian Mills, Fran LF and Serafina. Next up: Sugarfactory, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ HUJUS is a techno and trance artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- La Cité Fertile, Paris — Sun, 20 Sept 2026
-- Else, Berlin — Fri, 18 Sept 2026
-- TILLATEC, Amsterdam — Sat, 12 Sept 2026
-- Laagravense Plas, Utrecht — Sat, 12 Sept 2026
-- OXI, Berlin — Fri, 28 Aug 2026
-- La Cité Fertile, Paris — Sun, 5 Jul 2026
-- Recreatiegebied Middelwaard, Utrecht — Sat, 4 Jul 2026
-- Bosc Tancat / Diverbosc, Barcelona — Fri, 19 Jun 2026
+- La Cité Fertile, Paris · Sun, 20 Sept 2026
+- Else, Berlin · Fri, 18 Sept 2026
+- TILLATEC, Amsterdam · Sat, 12 Sept 2026
+- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
+- OXI, Berlin · Fri, 28 Aug 2026
+- La Cité Fertile, Paris · Sun, 5 Jul 2026
+- Recreatiegebied Middelwaard, Utrecht · Sat, 4 Jul 2026
+- Bosc Tancat / Diverbosc, Barcelona · Fri, 19 Jun 2026
 
 ## Shares bills with
 

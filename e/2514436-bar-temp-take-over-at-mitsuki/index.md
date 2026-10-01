@@ -1,6 +1,6 @@
 # Bar Temp Take Over at Mitsuki
 
-Bar Temp Take Over at Mitsuki on Sat 24 Oct, Tokyo. 5 artists on the bill: Jirus (MELA), Kova O' Sarin, levolant and Sarayu and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Bar Temp Take Over at Mitsuki on Sat 24 Oct, Tokyo. 5 artists: Jirus (MELA), Kova O' Sarin, levolant and Sarayu and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

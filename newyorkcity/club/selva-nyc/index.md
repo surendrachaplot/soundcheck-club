@@ -1,8 +1,8 @@
 # Selva NYC
 
-Selva NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Swallowed Open Decks" on Tue, 6 Oct 2026.
+Selva NYC is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Swallowed Open Decks" on Tue, 6 Oct 2026.
 
-Selva NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including DJ girlcrush and Lezzie. Browse upcoming dates, start times and who's playing. 1329 WILLOUGHBY AVE BROOKLYN, NY 11237, USA.
+Selva NYC is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including DJ girlcrush and Lezzie. See dates, start times and who's playing. 1329 WILLOUGHBY AVE BROOKLYN, NY 11237, USA.
 
 ## What's on
 

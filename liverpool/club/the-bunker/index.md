@@ -1,8 +1,8 @@
 # The Bunker
 
-The Bunker is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RESONANZ: Descent" on Sat, 10 Oct 2026.
+The Bunker is a music venue in Liverpool with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RESONANZ: Descent" on Sat, 10 Oct 2026.
 
-The Bunker is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 13 Seel Street, Liverpool, L1 4AU.
+The Bunker is a music venue in Liverpool listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 13 Seel Street, Liverpool, L1 4AU.
 
 ## What's on
 

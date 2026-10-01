@@ -1,6 +1,6 @@
 # Kuudos Sound System Launch - DJ OMC B2B Dj Dharma 900 at Whitecliffs Café, Bar & Grill
 
-Kuudos Sound System Launch - DJ OMC B2B Dj Dharma 900 at Whitecliffs Café, Bar & Grill on Sat 7 Nov, Brighton. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Kuudos Sound System Launch - DJ OMC B2B Dj Dharma 900 at Whitecliffs Café, Bar & Grill on Sat 7 Nov, Brighton. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

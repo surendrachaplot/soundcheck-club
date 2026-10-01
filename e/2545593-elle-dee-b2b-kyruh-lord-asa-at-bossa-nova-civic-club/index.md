@@ -1,6 +1,6 @@
 # Elle Dee b2b KYRUH & LORD ASA at Bossa Nova Civic Club
 
-Elle Dee b2b KYRUH & LORD ASA at Bossa Nova Civic Club on Wed 7 Oct, New York City. 3 artists on the bill: Elle Dee, KYRUH and LORD ASA. Techno. Preview the line-up and save it on soundcheck.
+Elle Dee b2b KYRUH & LORD ASA at Bossa Nova Civic Club on Wed 7 Oct, New York City. 3 artists: Elle Dee, KYRUH and LORD ASA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

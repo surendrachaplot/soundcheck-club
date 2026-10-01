@@ -1,6 +1,6 @@
 # [CANCELLED] SOUNDTRACKS - A Movie Themed Day Party at The Phoenix
 
-[CANCELLED] SOUNDTRACKS - A Movie Themed Day Party at The Phoenix on Sat 10 Oct, London. 1 artist on the bill: That Perfect Fumble. Pop and Club. Preview the line-up and save it on soundcheck.
+[CANCELLED] SOUNDTRACKS - A Movie Themed Day Party at The Phoenix on Sat 10 Oct, London. 1 artist: That Perfect Fumble. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Oktoberfest by Heineken & Erdinger at Supperclub Cruise
 
-Oktoberfest by Heineken & Erdinger at Supperclub Cruise on Fri 2 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Oktoberfest by Heineken & Erdinger at Supperclub Cruise on Fri 2 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

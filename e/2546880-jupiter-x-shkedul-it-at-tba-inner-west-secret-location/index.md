@@ -1,6 +1,6 @@
 # Jupiter-X ↹ Shkedul (IT) at TBA - Inner West Secret Location
 
-Jupiter-X ↹ Shkedul (IT) at TBA - Inner West Secret Location on Fri 27 Nov, Sydney. 4 artists on the bill: Accent', Shkedul, Stizz and Symplicit. Techno and Electro. Preview the line-up and save it on soundcheck.
+Jupiter-X ↹ Shkedul (IT) at TBA - Inner West Secret Location on Fri 27 Nov, Sydney. 4 artists: Accent', Shkedul, Stizz and Symplicit. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

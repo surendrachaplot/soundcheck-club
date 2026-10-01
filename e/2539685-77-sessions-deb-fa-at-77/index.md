@@ -1,6 +1,6 @@
 # 77 SESSIONS: DEB FA at 77
 
-77 SESSIONS: DEB FA on Fri 23 Oct, London. 1 artist on the bill: Kidflo. Afro House. Preview the line-up and save it on soundcheck.
+77 SESSIONS: DEB FA on Fri 23 Oct, London. 1 artist: Kidflo. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

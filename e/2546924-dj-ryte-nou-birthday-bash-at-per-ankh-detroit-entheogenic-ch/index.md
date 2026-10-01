@@ -1,6 +1,6 @@
 # Dj Ryte Nou BIRTHDAY BASH at Per Ankh Detroit Entheogenic Church
 
-Dj Ryte Nou BIRTHDAY BASH at Per Ankh Detroit Entheogenic Church on Sat 3 Oct, Detroit. 4 artists on the bill: Dj Ryte Nou, Marcus NF Harris, Mike Agent X Clark and Ryan Sadorus. House and Deep House. Preview the line-up and save it on soundcheck.
+Dj Ryte Nou BIRTHDAY BASH at Per Ankh Detroit Entheogenic Church on Sat 3 Oct, Detroit. 4 artists: Dj Ryte Nou, Marcus NF Harris, Mike Agent X Clark and Ryan Sadorus. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

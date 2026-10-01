@@ -1,6 +1,6 @@
 # Volumens at Bombas Gens (Day 3) at Bombas Gens Centre d’Arts Digitals
 
-Volumens at Bombas Gens (Day 3) at Bombas Gens Centre d’Arts Digitals on Fri 16 Oct, Valencia. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Volumens at Bombas Gens (Day 3) at Bombas Gens Centre d’Arts Digitals on Fri 16 Oct, Valencia. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

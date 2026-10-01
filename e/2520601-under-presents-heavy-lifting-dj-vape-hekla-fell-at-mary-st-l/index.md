@@ -1,6 +1,6 @@
 # Under presents, Heavy Lifting, DJ Vape, Hekla Fell at Mary St Live
 
-Under presents, Heavy Lifting, DJ Vape, Hekla Fell at Mary St Live on Sun 4 Oct, Sheffield. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Under presents, Heavy Lifting, DJ Vape, Hekla Fell at Mary St Live on Sun 4 Oct, Sheffield. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

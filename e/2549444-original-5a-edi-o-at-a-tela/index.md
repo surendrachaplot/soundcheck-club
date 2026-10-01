@@ -1,6 +1,6 @@
 # Original - 5a Edição at A.Tela
 
-Original - 5a Edição at A.Tela on Sat 17 Oct, Sao Paulo. 2 artists on the bill: Paulete Lindacelva and PR.A.DO. House. Preview the line-up and save it on soundcheck.
+Original - 5a Edição at A.Tela on Sat 17 Oct, Sao Paulo. 2 artists: Paulete Lindacelva and PR.A.DO. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

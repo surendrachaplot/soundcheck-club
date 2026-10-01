@@ -1,6 +1,6 @@
 # Shoot Your Shot presents ITALOWEEN at The Berkeley Suite
 
-Shoot Your Shot presents ITALOWEEN at The Berkeley Suite on Sat 31 Oct, Glasgow. 2 artists on the bill: Katiee.eem and LEZZER QUEST. Italo Disco. Preview the line-up and save it on soundcheck.
+Shoot Your Shot presents ITALOWEEN at The Berkeley Suite on Sat 31 Oct, Glasgow. 2 artists: Katiee.eem and LEZZER QUEST. Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Rexie Lex
 
-Rexie Lex is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
+Rexie Lex is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
 
-Rexie Lex is a house and techno artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Tim Andresen, NILU and joa picaro. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
+Rexie Lex is a house and techno artist based in Denmark, with 6 gigs on soundcheck across Copenhagen. Often billed alongside Tim Andresen, NILU and joa picaro. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,7 +16,7 @@ Rexie Lex is a house and techno artist based in Denmark, tracked on soundcheck, 
 
 ## Recently played
 
-- Culture Box, Copenhagen — Sat, 19 Sept 2026
+- Culture Box, Copenhagen · Sat, 19 Sept 2026
 
 ## Shares bills with
 

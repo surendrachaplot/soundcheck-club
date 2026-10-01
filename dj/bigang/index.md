@@ -1,8 +1,8 @@
 # Big Ang
 
-Big Ang is a Bass and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mint XL, Leeds on Sat, 3 Oct 2026.
+Big Ang is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
 
-Big Ang is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Bristol, Leeds, London and Manchester and 3 more. Often billed alongside Jamie Duggan, Phatworld and Silva Bumpa. Next up: Mint XL, Leeds on Sat 3 Oct.
+Big Ang is a bass and garage artist based in United Kingdom, with 50 gigs on soundcheck across Bristol, Leeds, London and Manchester and 3 more. Often billed alongside Jamie Duggan, Phatworld and Silva Bumpa. Next up: Mint XL, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Big Ang is a bass and garage artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- TBA - The Brick Yard, Sheffield — Sat, 22 Aug 2026
-- Burgess Park, London — Fri, 31 Jul 2026
-- Phonox, London — Fri, 31 Jul 2026
-- Sawmills, Bristol — Sat, 11 Jul 2026
-- Beaver Works, Leeds — Sat, 21 Mar 2026
-- Dalston Superstore, London — Fri, 9 Jan 2026
-- Tank, Sheffield — Wed, 31 Dec 2025
-- The Love Inn, Bristol — Sat, 13 Dec 2025
+- TBA - The Brick Yard, Sheffield · Sat, 22 Aug 2026
+- Burgess Park, London · Fri, 31 Jul 2026
+- Phonox, London · Fri, 31 Jul 2026
+- Sawmills, Bristol · Sat, 11 Jul 2026
+- Beaver Works, Leeds · Sat, 21 Mar 2026
+- Dalston Superstore, London · Fri, 9 Jan 2026
+- Tank, Sheffield · Wed, 31 Dec 2025
+- The Love Inn, Bristol · Sat, 13 Dec 2025
 
 ## Shares bills with
 

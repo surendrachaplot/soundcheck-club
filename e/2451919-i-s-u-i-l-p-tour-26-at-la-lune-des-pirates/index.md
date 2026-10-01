@@ -1,6 +1,6 @@
 # I.S.U.I.L.P TOUR 26 at La Lune des Pirates
 
-I.S.U.I.L.P TOUR 26 at La Lune des Pirates on Sat 31 Oct, North. 1 artist on the bill: Kabeaushé. Preview the line-up and save it on soundcheck.
+I.S.U.I.L.P TOUR 26 at La Lune des Pirates on Sat 31 Oct, North. 1 artist: Kabeaushé. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

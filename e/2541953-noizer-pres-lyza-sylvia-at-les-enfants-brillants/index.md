@@ -1,6 +1,6 @@
 # Noizer pres. LYZA + Sylvia at Les Enfants Brillants
 
-Noizer pres. LYZA + Sylvia at Les Enfants Brillants on Thu 29 Oct, Barcelona. 2 artists on the bill: LYZA and Sylvia (ES). Preview the line-up and save it on soundcheck.
+Noizer pres. LYZA + Sylvia at Les Enfants Brillants on Thu 29 Oct, Barcelona. 2 artists: LYZA and Sylvia (ES). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

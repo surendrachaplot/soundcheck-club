@@ -1,8 +1,8 @@
 # CalvoMusic
 
-CalvoMusic is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+CalvoMusic is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-CalvoMusic is a club and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Chicago, Glasgow, London and New York City and 2 more. Often billed alongside Kade Young, DJ-SUN and Syd (US). Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
+CalvoMusic is a club and techno artist based in United States of America, with 24 gigs on soundcheck across Chicago, Glasgow, London and New York City and 2 more. Often billed alongside Kade Young, DJ-SUN and Syd (US). Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ CalvoMusic is a club and techno artist based in United States of America, tracke
 
 ## Recently played
 
-- Trans-Pecos, New York City — Sat, 8 Aug 2026
-- Dead Letter No. 9, New York City — Thu, 18 Jun 2026
-- Onyx (E1), London — Sat, 13 Dec 2025
-- Vespers Club, London — Fri, 12 Dec 2025
-- Ormside Projects, London — Fri, 5 Dec 2025
-- Tola, London — Sat, 22 Nov 2025
-- EXIT Glasgow, Glasgow — Fri, 21 Nov 2025
-- Good Room, New York City — Sat, 5 Jul 2025
+- Trans-Pecos, New York City · Sat, 8 Aug 2026
+- Dead Letter No. 9, New York City · Thu, 18 Jun 2026
+- Onyx (E1), London · Sat, 13 Dec 2025
+- Vespers Club, London · Fri, 12 Dec 2025
+- Ormside Projects, London · Fri, 5 Dec 2025
+- Tola, London · Sat, 22 Nov 2025
+- EXIT Glasgow, Glasgow · Fri, 21 Nov 2025
+- Good Room, New York City · Sat, 5 Jul 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Sun 4 Oct, Milan. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+BARDO on Sun 4 Oct, Milan. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

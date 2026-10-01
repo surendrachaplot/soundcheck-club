@@ -1,6 +1,6 @@
 # Flight Mode at Bears Amsterdam
 
-Flight Mode at Bears Amsterdam on Fri 23 Oct, Amsterdam. 1 artist on the bill: Sebastiaan Hooft. Techno. Preview the line-up and save it on soundcheck.
+Flight Mode at Bears Amsterdam on Fri 23 Oct, Amsterdam. 1 artist: Sebastiaan Hooft. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

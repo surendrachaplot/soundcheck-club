@@ -1,6 +1,6 @@
 # AJ McLean of Backstreet Boys presents Alexander James: The Better Man Tour at Royale
 
-AJ McLean of Backstreet Boys presents Alexander James: The Better Man Tour at Royale on Tue 3 Nov, Boston. Pop. Preview the line-up and save it on soundcheck.
+AJ McLean of Backstreet Boys presents Alexander James: The Better Man Tour at Royale on Tue 3 Nov, Boston. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

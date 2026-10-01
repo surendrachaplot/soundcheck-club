@@ -1,6 +1,6 @@
 # ISAKAMI Nights — The Return at TBA - Baccarat
 
-ISAKAMI Nights — The Return at TBA - Baccarat on Sat 17 Oct, Bangkok. Afro House. Preview the line-up and save it on soundcheck.
+ISAKAMI Nights — The Return at TBA - Baccarat on Sat 17 Oct, Bangkok. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

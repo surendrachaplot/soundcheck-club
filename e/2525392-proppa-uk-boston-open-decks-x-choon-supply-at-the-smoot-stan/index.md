@@ -1,6 +1,6 @@
 # Proppa UK (Boston Open Decks X Choon Supply) at The Smoot Standard
 
-Proppa UK (Boston Open Decks X Choon Supply) at The Smoot Standard on Sat 17 Oct, Boston. 1 artist on the bill: ASHACK. Garage and UK Funky. Preview the line-up and save it on soundcheck.
+Proppa UK (Boston Open Decks X Choon Supply) at The Smoot Standard on Sat 17 Oct, Boston. 1 artist: ASHACK. Garage and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

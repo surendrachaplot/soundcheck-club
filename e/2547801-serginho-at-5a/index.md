@@ -1,6 +1,6 @@
 # Serginho at 5A
 
-Serginho at 5A on Fri 30 Oct, Lisbon. 1 artist on the bill: Serginho. Preview the line-up and save it on soundcheck.
+Serginho at 5A on Fri 30 Oct, Lisbon. 1 artist: Serginho. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

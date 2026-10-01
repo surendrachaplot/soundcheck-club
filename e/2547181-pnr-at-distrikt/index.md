@@ -1,6 +1,6 @@
 # PNR at Distrikt
 
-PNR at Distrikt on Fri 9 Oct, Leeds. 3 artists on the bill: Cadence, Carli Jayne and Moody. Preview the line-up and save it on soundcheck.
+PNR at Distrikt on Fri 9 Oct, Leeds. 3 artists: Cadence, Carli Jayne and Moody. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

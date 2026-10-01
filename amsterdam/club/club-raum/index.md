@@ -1,8 +1,8 @@
 # CLUB RAUM
 
-CLUB RAUM is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RAUM invites ORPHIC" on Fri, 2 Oct 2026.
+CLUB RAUM is a music venue in Amsterdam with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RAUM invites ORPHIC" on Fri, 2 Oct 2026.
 
-CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. Browse upcoming dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
+CLUB RAUM is a music venue in Amsterdam listed on soundcheck. 14 upcoming gigs, with line-ups including Abstract Division, Afra, Aldonna and Alex Kassian and 2 more. See dates, start times and who's playing. Humberweg 3, 1043 AC Amsterdam.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Selected x Fluid at RSO.BERLIN
 
-Selected x Fluid at RSO.BERLIN on Fri 27 Nov, Berlin. 3 artists on the bill: CAIVA, Frederic. and Keyklau. Preview the line-up and save it on soundcheck.
+Selected x Fluid at RSO.BERLIN on Fri 27 Nov, Berlin. 3 artists: CAIVA, Frederic. and Keyklau. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

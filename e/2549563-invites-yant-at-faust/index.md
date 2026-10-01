@@ -1,6 +1,6 @@
 # INVITES: YANT at Faust
 
-INVITES: YANT at Faust on Sat 17 Oct, Seoul. 5 artists on the bill: Marcus L, Sol (KR), Suman and Yantan Ministry and 1 more. Preview the line-up and save it on soundcheck.
+INVITES: YANT at Faust on Sat 17 Oct, Seoul. 5 artists: Marcus L, Sol (KR), Suman and Yantan Ministry and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

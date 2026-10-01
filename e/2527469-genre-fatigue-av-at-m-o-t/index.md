@@ -1,6 +1,6 @@
 # genre[fatigue] - AV at M.O.T
 
-genre[fatigue] - AV at M.O.T on Thu 8 Oct, London. 3 artists on the bill: m-onz, m̶a̶h̶[alias] and SYNTƏL8. Club and IDM. Preview the line-up and save it on soundcheck.
+genre[fatigue] - AV at M.O.T on Thu 8 Oct, London. 3 artists: m-onz, m̶a̶h̶[alias] and SYNTƏL8. Club and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

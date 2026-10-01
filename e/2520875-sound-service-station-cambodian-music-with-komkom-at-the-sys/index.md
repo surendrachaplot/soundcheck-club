@@ -1,6 +1,6 @@
 # Sound Service Station: Cambodian Music with KomKom at The System
 
-Sound Service Station: Cambodian Music with KomKom at The System on Thu 22 Oct, Sheffield. Preview the line-up and save it on soundcheck.
+Sound Service Station: Cambodian Music with KomKom at The System on Thu 22 Oct, Sheffield. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

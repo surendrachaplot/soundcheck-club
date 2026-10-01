@@ -1,6 +1,6 @@
 # Groove Chronicles vol. V at Gehør
 
-Groove Chronicles vol. V at Gehør on Sat 10 Oct, Oslo. 2 artists on the bill: Bellicose and SJ Yellow. Techno. Preview the line-up and save it on soundcheck.
+Groove Chronicles vol. V at Gehør on Sat 10 Oct, Oslo. 2 artists: Bellicose and SJ Yellow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

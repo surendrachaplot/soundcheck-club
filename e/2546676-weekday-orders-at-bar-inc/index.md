@@ -1,6 +1,6 @@
 # WEEKDAY ORDERS at BAR Inc
 
-WEEKDAY ORDERS at BAR Inc on Thu 8 Oct, Osaka. 1 artist on the bill: John Agesilas. House and Deep House. Preview the line-up and save it on soundcheck.
+WEEKDAY ORDERS at BAR Inc on Thu 8 Oct, Osaka. 1 artist: John Agesilas. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

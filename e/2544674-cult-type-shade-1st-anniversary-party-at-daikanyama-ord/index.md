@@ -1,6 +1,6 @@
 # CULT -TYPE SHADE 1st Anniversary Party- at Daikanyama ORD.
 
-CULT -TYPE SHADE 1st Anniversary Party- at Daikanyama ORD. on Sun 11 Oct, Tokyo. 3 artists on the bill: ban, DJ B2B and RIN. Preview the line-up and save it on soundcheck.
+CULT -TYPE SHADE 1st Anniversary Party- at Daikanyama ORD. on Sun 11 Oct, Tokyo. 3 artists: ban, DJ B2B and RIN. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Evanora Unlimited at Botanique
 
-Evanora Unlimited at Botanique on Tue 1 Dec, Brussels. 1 artist on the bill: Evanora Unlimited. Experimental. Preview the line-up and save it on soundcheck.
+Evanora Unlimited at Botanique on Tue 1 Dec, Brussels. 1 artist: Evanora Unlimited. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

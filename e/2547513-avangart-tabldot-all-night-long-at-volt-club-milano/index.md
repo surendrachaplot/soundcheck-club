@@ -1,6 +1,6 @@
 # Avangart Tabldot — ALL NIGHT LONG at Volt Club Milano
 
-Avangart Tabldot — ALL NIGHT LONG at Volt Club Milano on Sat 10 Oct, Milan. 1 artist on the bill: Avangart Tabldot. Techno and House. Preview the line-up and save it on soundcheck.
+Avangart Tabldot — ALL NIGHT LONG at Volt Club Milano on Sat 10 Oct, Milan. 1 artist: Avangart Tabldot. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

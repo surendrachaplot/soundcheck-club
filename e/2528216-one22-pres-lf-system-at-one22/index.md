@@ -1,6 +1,6 @@
 # One22 Pres. LF SYSTEM at One22
 
-One22 Pres. LF SYSTEM on Fri 4 Dec, Canberra. 1 artist on the bill: LF SYSTEM. Preview the line-up and save it on soundcheck.
+One22 Pres. LF SYSTEM on Fri 4 Dec, Canberra. 1 artist: LF SYSTEM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

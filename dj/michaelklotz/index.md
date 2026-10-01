@@ -1,8 +1,8 @@
 # Michael Klotz
 
-Michael Klotz is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OST, Berlin on Fri, 2 Oct 2026.
+Michael Klotz is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OST, Berlin on Fri, 2 Oct 2026.
 
-Michael Klotz is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Dresden, Frankfurt and Stuttgart. Often billed alongside A.T.E.K, An Chen and Cube. Next up: OST, Berlin on Fri 2 Oct.
+Michael Klotz is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin, Dresden, Frankfurt and Stuttgart. Often billed alongside A.T.E.K, An Chen and Cube. Next up: OST, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,7 +14,7 @@ Michael Klotz is a techno and trance artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- Mobilat Club, Stuttgart — Sat, 12 Sept 2026
+- Mobilat Club, Stuttgart · Sat, 12 Sept 2026
 
 ## Shares bills with
 

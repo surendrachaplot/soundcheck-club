@@ -1,6 +1,6 @@
 # Skream + ALDAVE at Volt Club Milano
 
-Skream + ALDAVE at Volt Club Milano on Thu 15 Oct, Milan. 2 artists on the bill: ALDAVE and Skream. House and Tech House. Preview the line-up and save it on soundcheck.
+Skream + ALDAVE at Volt Club Milano on Thu 15 Oct, Milan. 2 artists: ALDAVE and Skream. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

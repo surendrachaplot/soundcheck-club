@@ -1,6 +1,6 @@
 # Eliana Glass at Bimhuis
 
-Eliana Glass at Bimhuis on Sun 22 Nov, Amsterdam. Pop. Preview the line-up and save it on soundcheck.
+Eliana Glass at Bimhuis on Sun 22 Nov, Amsterdam. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

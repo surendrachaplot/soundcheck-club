@@ -1,6 +1,6 @@
 # Grey Lantern presents: Garefowl [AD93] at The Globe, Glossop
 
-Grey Lantern presents: Garefowl [AD93] at The Globe, Glossop on Wed 28 Oct, Manchester. Experimental. Preview the line-up and save it on soundcheck.
+Grey Lantern presents: Garefowl [AD93] at The Globe, Glossop on Wed 28 Oct, Manchester. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

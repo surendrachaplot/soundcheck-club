@@ -1,6 +1,6 @@
 # 𝐖𝐀𝐈𝐊𝐈𝐊𝐈 𝐔𝐓𝐎𝐏𝐈𝐀 𝐆𝐀𝐄𝐂𝐇𝐄𝐎𝐍𝐉𝐄𝐎𝐋 at Waikiki Utopia
 
-𝐖𝐀𝐈𝐊𝐈𝐊𝐈 𝐔𝐓𝐎𝐏𝐈𝐀 𝐆𝐀𝐄𝐂𝐇𝐄𝐎𝐍𝐉𝐄𝐎𝐋 at Waikiki Utopia on Sun 4 Oct, South Korea. 6 artists on the bill: H93 (KR), HADO (KR), NEO KR and ROX (KR) and 2 more. Preview the line-up and save it on soundcheck.
+𝐖𝐀𝐈𝐊𝐈𝐊𝐈 𝐔𝐓𝐎𝐏𝐈𝐀 𝐆𝐀𝐄𝐂𝐇𝐄𝐎𝐍𝐉𝐄𝐎𝐋 at Waikiki Utopia on Sun 4 Oct, South Korea. 6 artists: H93 (KR), HADO (KR), NEO KR and ROX (KR) and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

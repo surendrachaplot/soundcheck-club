@@ -1,6 +1,6 @@
 # Squadra Phonica x TRESCEROTRES at TBA
 
-Squadra Phonica x TRESCEROTRES at TBA on Fri 16 Oct, Buenos Aires. 3 artists on the bill: Ajdos, Istvan Roux and Kito. Trance and Electro. Preview the line-up and save it on soundcheck.
+Squadra Phonica x TRESCEROTRES at TBA on Fri 16 Oct, Buenos Aires. 3 artists: Ajdos, Istvan Roux and Kito. Trance and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

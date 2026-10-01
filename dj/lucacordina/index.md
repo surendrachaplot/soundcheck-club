@@ -1,8 +1,8 @@
 # Luca Cordina
 
-Luca Cordina is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Tortuga Beach, Malta on Sat, 10 Oct 2026.
+Luca Cordina is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tortuga Beach, Malta on Sat, 10 Oct 2026.
 
-Luca Cordina is a house and techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Malta. Often billed alongside MATO, BENGY and Doudou MD. Next up: Tortuga Beach, Malta on Sat 10 Oct.
+Luca Cordina is a house and techno artist based in United Kingdom, with 7 gigs on soundcheck across Malta. Often billed alongside MATO, BENGY and Doudou MD. Next up: Tortuga Beach, Malta on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Luca Cordina is a house and techno artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- La Grotta, Malta — Sat, 13 Jun 2026
-- UNO MALTA, Malta — Thu, 14 May 2026
-- UNO MALTA, Malta — Fri, 16 May 2025
-- UNO MALTA, Malta — Fri, 17 May 2024
-- Razzett L-Ahmar, Malta — Sat, 20 Apr 2024
-- The Cisk Tap, Malta — Sat, 11 Feb 2023
+- La Grotta, Malta · Sat, 13 Jun 2026
+- UNO MALTA, Malta · Thu, 14 May 2026
+- UNO MALTA, Malta · Fri, 16 May 2025
+- UNO MALTA, Malta · Fri, 17 May 2024
+- Razzett L-Ahmar, Malta · Sat, 20 Apr 2024
+- The Cisk Tap, Malta · Sat, 11 Feb 2023
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # HunnyBunny
 
-HunnyBunny is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Jupiter Disco, New York City on Sat, 17 Oct 2026.
+HunnyBunny is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jupiter Disco, New York City on Sat, 17 Oct 2026.
 
-HunnyBunny is a house and disco artist based in United States of America, tracked on soundcheck, with 35 sets logged across New York City. Often billed alongside Blvck Truffle, Tim Lucent and Bendito. Next up: Jupiter Disco, New York City on Sat 17 Oct.
+HunnyBunny is a house and disco artist based in United States of America, with 35 gigs on soundcheck across New York City. Often billed alongside Blvck Truffle, Tim Lucent and Bendito. Next up: Jupiter Disco, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ HunnyBunny is a house and disco artist based in United States of America, tracke
 
 ## Recently played
 
-- Eavesdrop, New York City — Sat, 29 Aug 2026
-- Jupiter Disco, New York City — Sat, 27 Jun 2026
-- Roberta's, New York City — Sat, 6 Jun 2026
-- Moondog Hifi, New York City — Sat, 16 May 2026
-- Nightmoves, New York City — Sat, 2 May 2026
-- Jupiter Disco, New York City — Fri, 13 Mar 2026
-- Jupiter Disco, New York City — Fri, 13 Mar 2026
-- Eavesdrop, New York City — Fri, 30 Jan 2026
+- Eavesdrop, New York City · Sat, 29 Aug 2026
+- Jupiter Disco, New York City · Sat, 27 Jun 2026
+- Roberta's, New York City · Sat, 6 Jun 2026
+- Moondog Hifi, New York City · Sat, 16 May 2026
+- Nightmoves, New York City · Sat, 2 May 2026
+- Jupiter Disco, New York City · Fri, 13 Mar 2026
+- Jupiter Disco, New York City · Fri, 13 Mar 2026
+- Eavesdrop, New York City · Fri, 30 Jan 2026
 
 ## Shares bills with
 

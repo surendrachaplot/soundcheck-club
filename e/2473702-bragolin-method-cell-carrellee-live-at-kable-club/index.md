@@ -1,6 +1,6 @@
 # Bragolin, Method Cell & Carrellee live at Kable Club
 
-Bragolin, Method Cell & Carrellee live at Kable Club on Sat 14 Nov, Manchester. Minimal and Post-Punk. Preview the line-up and save it on soundcheck.
+Bragolin, Method Cell & Carrellee live at Kable Club on Sat 14 Nov, Manchester. Minimal and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

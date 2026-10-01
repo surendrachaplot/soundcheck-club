@@ -1,6 +1,6 @@
 # The Eminem Experience in Bristol at Lakota
 
-The Eminem Experience in Bristol at Lakota on Sat 24 Oct, Bristol. Hip-Hop. Preview the line-up and save it on soundcheck.
+The Eminem Experience in Bristol at Lakota on Sat 24 Oct, Bristol. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

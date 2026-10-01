@@ -1,6 +1,6 @@
 # Charlie season OPENING at Charlie
 
-Charlie season OPENING on Sat 10 Oct, Munich. House. Preview the line-up and save it on soundcheck.
+Charlie season OPENING on Sat 10 Oct, Munich. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

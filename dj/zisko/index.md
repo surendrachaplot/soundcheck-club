@@ -1,8 +1,8 @@
 # Zisko
 
-Zisko is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Dune Park, Buenos Aires on Sun, 11 Oct 2026.
+Zisko is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dune Park, Buenos Aires on Sun, 11 Oct 2026.
 
-Zisko is a techno and house artist based in Argentina, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside Blasha & Allatt, Marcal and Ogazón. Next up: Dune Park, Buenos Aires on Sun 11 Oct.
+Zisko is a techno and house artist based in Argentina, with 87 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 29 more. Often billed alongside Blasha & Allatt, Marcal and Ogazón. Next up: Dune Park, Buenos Aires on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Zisko is a techno and house artist based in Argentina, tracked on soundcheck, wi
 
 ## Recently played
 
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 15 Aug 2026
-- Spook Club, Valencia — Sat, 8 Aug 2026
-- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 18 Jul 2026
-- Mia Mao, Paris — Sat, 11 Jul 2026
-- Bassiani, Tbilisi — Fri, 3 Jul 2026
-- The Bassement, Madrid — Sat, 27 Jun 2026
-- Dune Park, Buenos Aires — Sat, 13 Jun 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sat, 15 Aug 2026
+- Spook Club, Valencia · Sat, 8 Aug 2026
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 18 Jul 2026
+- Mia Mao, Paris · Sat, 11 Jul 2026
+- Bassiani, Tbilisi · Fri, 3 Jul 2026
+- The Bassement, Madrid · Sat, 27 Jun 2026
+- Dune Park, Buenos Aires · Sat, 13 Jun 2026
 
 ## Shares bills with
 

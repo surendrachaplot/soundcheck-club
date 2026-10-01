@@ -1,6 +1,6 @@
 # SIR pres. RATED R! ft. Ben Manson (FRA) [Tāmaki/AKL] at Whammy Bar
 
-SIR pres. RATED R! ft. Ben Manson (FRA) [Tāmaki/AKL] at Whammy Bar on Sat 3 Oct, Auckland. 2 artists on the bill: Ben Manson and Concussion. Techno. Preview the line-up and save it on soundcheck.
+SIR pres. RATED R! ft. Ben Manson (FRA) [Tāmaki/AKL] at Whammy Bar on Sat 3 Oct, Auckland. 2 artists: Ben Manson and Concussion. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Soul City: House Music Every Saturday Night (Christmas Special) at The Jazz Cafe
 
-Soul City: House Music Every Saturday Night (Christmas Special) at The Jazz Cafe on Sat 19 Dec, London. House. Preview the line-up and save it on soundcheck.
+Soul City: House Music Every Saturday Night (Christmas Special) at The Jazz Cafe on Sat 19 Dec, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

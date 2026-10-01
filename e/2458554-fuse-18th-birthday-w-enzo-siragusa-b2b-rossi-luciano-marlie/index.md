@@ -1,6 +1,6 @@
 # FUSE 18th Birthday w/ Enzo Siragusa b2b Rossi., Luciano, Marlie b2b Natalia Roth, Marsolo at DRUMSHEDS
 
-FUSE 18th Birthday w/ Enzo Siragusa b2b Rossi., Luciano, Marlie b2b Natalia Roth, Marsolo at DRUMSHEDS on Sat 28 Nov, London. 27 artists on the bill: ADMNTi, Apollonia, Boss Priester and Brawther and 23 more. Tech House. Preview the line-up and save it on soundcheck.
+FUSE 18th Birthday w/ Enzo Siragusa b2b Rossi., Luciano, Marlie b2b Natalia Roth, Marsolo at DRUMSHEDS on Sat 28 Nov, London. 27 artists: ADMNTi, Apollonia, Boss Priester and Brawther and 23 more. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

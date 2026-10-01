@@ -1,6 +1,6 @@
 # ONE YEAR OF Mono COFFEEBAR at Mono
 
-ONE YEAR OF Mono COFFEEBAR on Sun 4 Oct, Rotterdam. 1 artist on the bill: Shinshan Salazar. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
+ONE YEAR OF Mono COFFEEBAR on Sun 4 Oct, Rotterdam. 1 artist: Shinshan Salazar. Afrobeat and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

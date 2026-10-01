@@ -1,8 +1,8 @@
 # Toobris
 
-Toobris is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ciało, Wroclaw on Fri, 2 Oct 2026.
+Toobris is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ciało, Wroclaw on Fri, 2 Oct 2026.
 
-Toobris is a techno and house artist based in Germany, tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Ciało, Wroclaw on Fri 2 Oct.
+Toobris is a techno and house artist based in Germany, with 59 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Freddy K, Alarico and Ignez. Next up: Ciało, Wroclaw on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Toobris is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Lofi, Amsterdam — Sat, 19 Sept 2026
-- DETROIT CLUB, Barcelona — Sat, 19 Sept 2026
-- Hidden, Manchester — Sat, 12 Sept 2026
-- Wigwam, Dublin — Sat, 5 Sept 2026
-- Open Ground, Wuppertal — Fri, 4 Sept 2026
-- Rote Sonne, Munich — Fri, 14 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- Else, Berlin — Sat, 1 Aug 2026
+- Lofi, Amsterdam · Sat, 19 Sept 2026
+- DETROIT CLUB, Barcelona · Sat, 19 Sept 2026
+- Hidden, Manchester · Sat, 12 Sept 2026
+- Wigwam, Dublin · Sat, 5 Sept 2026
+- Open Ground, Wuppertal · Fri, 4 Sept 2026
+- Rote Sonne, Munich · Fri, 14 Aug 2026
+- Gianpula Village, Malta · Wed, 12 Aug 2026
+- Else, Berlin · Sat, 1 Aug 2026
 
 ## Shares bills with
 

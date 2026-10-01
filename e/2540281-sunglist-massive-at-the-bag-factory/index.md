@@ -1,6 +1,6 @@
 # Sunglist Massive at The Bag Factory
 
-Sunglist Massive at The Bag Factory on Fri 9 Oct, Manchester. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+Sunglist Massive at The Bag Factory on Fri 9 Oct, Manchester. Hardcore and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

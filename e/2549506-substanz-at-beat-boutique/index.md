@@ -1,6 +1,6 @@
 # SubsTanz at Beat Boutique
 
-SubsTanz at Beat Boutique on Sat 10 Oct, Hamburg. Preview the line-up and save it on soundcheck.
+SubsTanz at Beat Boutique on Sat 10 Oct, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

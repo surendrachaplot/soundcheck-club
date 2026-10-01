@@ -1,6 +1,6 @@
 # PROSPA presents Prophecy at Radius
 
-PROSPA presents Prophecy at Radius on Fri 20 Nov, Chicago. House and Tech House. Preview the line-up and save it on soundcheck.
+PROSPA presents Prophecy at Radius on Fri 20 Nov, Chicago. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

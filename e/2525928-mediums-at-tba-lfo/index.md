@@ -1,6 +1,6 @@
 # Mediums at TBA - LFO
 
-Mediums at TBA - LFO on Fri 2 Oct, Madrid. 4 artists on the bill: Abdulla A., Avo (ES), Deceit and Jorge Padilla. House and Electronica. Preview the line-up and save it on soundcheck.
+Mediums at TBA - LFO on Fri 2 Oct, Madrid. 4 artists: Abdulla A., Avo (ES), Deceit and Jorge Padilla. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

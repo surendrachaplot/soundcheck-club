@@ -1,6 +1,6 @@
 # NEOJUICE - Day & Night (14h) at Fitzroy
 
-NEOJUICE - Day & Night (14h) at Fitzroy on Sat 10 Oct, Berlin. 8 artists on the bill: AGILY, CHOREOPHILA, MATHILDA and Rosa Kante and 4 more. Trance and House. Preview the line-up and save it on soundcheck.
+NEOJUICE - Day & Night (14h) at Fitzroy on Sat 10 Oct, Berlin. 8 artists: AGILY, CHOREOPHILA, MATHILDA and Rosa Kante and 4 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

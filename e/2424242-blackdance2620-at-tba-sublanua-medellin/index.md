@@ -1,6 +1,6 @@
 # ∴ ∴ ∴ ∴ ∴ BLACKDANCE2620— — ∴ — ⌇ — ∴ at TBA - SUBLANUA MEDELLIN
 
-∴ ∴ ∴ ∴ ∴ BLACKDANCE2620— — ∴ — ⌇ — ∴ at TBA - SUBLANUA MEDELLIN on Fri 18 Dec, Colombia. 4 artists on the bill: Alexander Kowalski, Oliver Ho, Regis and VCI. Preview the line-up and save it on soundcheck.
+∴ ∴ ∴ ∴ ∴ BLACKDANCE2620— — ∴ — ⌇ — ∴ at TBA - SUBLANUA MEDELLIN on Fri 18 Dec, Colombia. 4 artists: Alexander Kowalski, Oliver Ho, Regis and VCI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

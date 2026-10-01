@@ -1,6 +1,6 @@
 # Simple in the jungle presents 4am Kru at O2 Academy Oxford
 
-Simple in the jungle presents 4am Kru at O2 Academy Oxford on Fri 20 Nov, South East. 1 artist on the bill: 4am Kru. Preview the line-up and save it on soundcheck.
+Simple in the jungle presents 4am Kru at O2 Academy Oxford on Fri 20 Nov, South East. 1 artist: 4am Kru. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Starjunk 95 at Heaven
 
-Starjunk 95 at Heaven on Sat 17 Oct, London. Electronica. Preview the line-up and save it on soundcheck.
+Starjunk 95 at Heaven on Sat 17 Oct, London. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

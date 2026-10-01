@@ -1,6 +1,6 @@
 # Melio Records x 93 Feet East at 93 Feet East
 
-Melio Records x 93 Feet East on Sat 17 Oct, London. House and Garage. Preview the line-up and save it on soundcheck.
+Melio Records x 93 Feet East on Sat 17 Oct, London. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

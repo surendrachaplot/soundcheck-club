@@ -1,8 +1,8 @@
 # Hiba
 
-Hiba is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at La Cheetah Club, Glasgow on Fri, 30 Oct 2026.
+Hiba is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Cheetah Club, Glasgow on Fri, 30 Oct 2026.
 
-Hiba is a house and club artist based in Lebanon, tracked on soundcheck, with 24 sets logged across Edinburgh, Glasgow, London and Marseille. Often billed alongside ISO YSO, Hu-Sane and Salam Kitty. Next up: La Cheetah Club, Glasgow on Fri 30 Oct.
+Hiba is a house and club artist based in Lebanon, with 24 gigs on soundcheck across Edinburgh, Glasgow, London and Marseille. Often billed alongside ISO YSO, Hu-Sane and Salam Kitty. Next up: La Cheetah Club, Glasgow on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Hiba is a house and club artist based in Lebanon, tracked on soundcheck, with 24
 
 ## Recently played
 
-- The Clydeside Halls Briggait, Glasgow — Sat, 25 Jul 2026
-- People's Leisure Club, Edinburgh — Fri, 10 Apr 2026
-- Petit CAB, Marseille — Fri, 27 Feb 2026
-- The Wee Red Bar, Edinburgh — Sat, 21 Feb 2026
-- Sneaky Pete's, Edinburgh — Thu, 20 Nov 2025
-- Stereo, Glasgow — Sat, 15 Nov 2025
-- Stereo, Glasgow — Sat, 3 May 2025
-- The Flying Duck, Glasgow — Sat, 5 Apr 2025
+- The Clydeside Halls Briggait, Glasgow · Sat, 25 Jul 2026
+- People's Leisure Club, Edinburgh · Fri, 10 Apr 2026
+- Petit CAB, Marseille · Fri, 27 Feb 2026
+- The Wee Red Bar, Edinburgh · Sat, 21 Feb 2026
+- Sneaky Pete's, Edinburgh · Thu, 20 Nov 2025
+- Stereo, Glasgow · Sat, 15 Nov 2025
+- Stereo, Glasgow · Sat, 3 May 2025
+- The Flying Duck, Glasgow · Sat, 5 Apr 2025
 
 ## Shares bills with
 

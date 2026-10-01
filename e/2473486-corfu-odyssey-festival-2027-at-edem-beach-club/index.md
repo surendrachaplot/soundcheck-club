@@ -1,6 +1,6 @@
 # Corfu Odyssey Festival 2027 at Edem Beach Club
 
-Corfu Odyssey Festival 2027 at Edem Beach Club on Wed 26 May, Greece. 8 artists on the bill: AKA AKA, Andreas Henneberg, Beth Lydi and Eleou and 4 more. Preview the line-up and save it on soundcheck.
+Corfu Odyssey Festival 2027 at Edem Beach Club on Wed 26 May, Greece. 8 artists: AKA AKA, Andreas Henneberg, Beth Lydi and Eleou and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

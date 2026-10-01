@@ -1,6 +1,6 @@
 # Candyflip pres. HARDCORE CHRISTMAS at Lokschuppen Berlin
 
-Candyflip pres. HARDCORE CHRISTMAS at Lokschuppen Berlin on Sun 27 Dec, Berlin. Hardcore. Preview the line-up and save it on soundcheck.
+Candyflip pres. HARDCORE CHRISTMAS at Lokschuppen Berlin on Sun 27 Dec, Berlin. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

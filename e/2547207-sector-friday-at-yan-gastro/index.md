@@ -1,6 +1,6 @@
 # Sector Friday at Yan Gastro
 
-Sector Friday at Yan Gastro on Fri 2 Oct, Istanbul. 1 artist on the bill: Emre Senol. House. Preview the line-up and save it on soundcheck.
+Sector Friday at Yan Gastro on Fri 2 Oct, Istanbul. 1 artist: Emre Senol. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

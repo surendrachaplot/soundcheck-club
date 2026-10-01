@@ -1,6 +1,6 @@
 # Andromeda Returns: IZP Vol.2 at Sneaky Pete's
 
-Andromeda Returns: IZP Vol.2 at Sneaky Pete's on Wed 7 Oct, Edinburgh. 2 artists on the bill: Caspar and IZP. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Andromeda Returns: IZP Vol.2 at Sneaky Pete's on Wed 7 Oct, Edinburgh. 2 artists: Caspar and IZP. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

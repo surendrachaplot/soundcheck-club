@@ -1,6 +1,6 @@
 # PANORAMA with Mat Eclair, Valeby, Klara K at Amp
 
-PANORAMA with Mat Eclair, Valeby, Klara K at Amp on Sat 3 Oct, Munster. 2 artists on the bill: Mat Eclair and Valeby. House. Preview the line-up and save it on soundcheck.
+PANORAMA with Mat Eclair, Valeby, Klara K at Amp on Sat 3 Oct, Munster. 2 artists: Mat Eclair and Valeby. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

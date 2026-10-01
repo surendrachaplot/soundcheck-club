@@ -1,6 +1,6 @@
 # Jacuzzi General at Paradise Palms
 
-Jacuzzi General at Paradise Palms on Fri 2 Oct, Edinburgh. 1 artist on the bill: Jacuzzi General. House and Balearic. Preview the line-up and save it on soundcheck.
+Jacuzzi General at Paradise Palms on Fri 2 Oct, Edinburgh. 1 artist: Jacuzzi General. House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

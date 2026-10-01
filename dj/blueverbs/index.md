@@ -1,8 +1,8 @@
 # Blueverbs
 
-Blueverbs is a Techno and Footwork artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
+Blueverbs is a Techno and Footwork artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
 
-Blueverbs is a techno and footwork artist based in United States of America, tracked on soundcheck, with 12 sets logged across Philadelphia. Often billed alongside Caiya, GorpoPap and Alien Body. Next up: Ulana's, Philadelphia on Sat 17 Oct.
+Blueverbs is a techno and footwork artist based in United States of America, with 12 gigs on soundcheck across Philadelphia. Often billed alongside Caiya, GorpoPap and Alien Body. Next up: Ulana's, Philadelphia on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Blueverbs is a techno and footwork artist based in United States of America, tra
 
 ## Recently played
 
-- Ulana's, Philadelphia — Fri, 7 Aug 2026
-- Ulana's, Philadelphia — Fri, 10 Jul 2026
-- Ulana's, Philadelphia — Fri, 13 Mar 2026
-- Ulana's, Philadelphia — Fri, 6 Feb 2026
-- The Vat, Philadelphia — Fri, 23 Jan 2026
-- Ulana's, Philadelphia — Sat, 4 Oct 2025
-- Umbria Arts, Philadelphia — Sat, 17 May 2025
-- TBA, Philadelphia — Sat, 1 Mar 2025
+- Ulana's, Philadelphia · Fri, 7 Aug 2026
+- Ulana's, Philadelphia · Fri, 10 Jul 2026
+- Ulana's, Philadelphia · Fri, 13 Mar 2026
+- Ulana's, Philadelphia · Fri, 6 Feb 2026
+- The Vat, Philadelphia · Fri, 23 Jan 2026
+- Ulana's, Philadelphia · Sat, 4 Oct 2025
+- Umbria Arts, Philadelphia · Sat, 17 May 2025
+- TBA, Philadelphia · Sat, 1 Mar 2025
 
 ## Shares bills with
 

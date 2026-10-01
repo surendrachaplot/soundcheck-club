@@ -1,6 +1,6 @@
 # Sync & Sink at Gallery
 
-Sync & Sink at Gallery on Sat 24 Oct, London. Deep House and Latin Bass. Preview the line-up and save it on soundcheck.
+Sync & Sink at Gallery on Sat 24 Oct, London. Deep House and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

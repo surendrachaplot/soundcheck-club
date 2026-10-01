@@ -1,6 +1,6 @@
 # EXIT CLUB at EXIT Glasgow
 
-EXIT CLUB at EXIT Glasgow on Sat 28 Nov, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+EXIT CLUB at EXIT Glasgow on Sat 28 Nov, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

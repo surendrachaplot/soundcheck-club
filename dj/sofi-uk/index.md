@@ -1,8 +1,8 @@
 # Sofi.
 
-Sofi. is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at NUMBER 90 LONDON, London on Sun, 1 Nov 2026.
+Sofi. is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Sun, 1 Nov 2026.
 
-Sofi. is a techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Leeds, London and Manchester. Often billed alongside Slumber, Livid (UK) and VENT. Next up: NUMBER 90 LONDON, London on Sun 1 Nov.
+Sofi. is a techno artist based in United Kingdom, with 15 gigs on soundcheck across Leeds, London and Manchester. Often billed alongside Slumber, Livid (UK) and VENT. Next up: NUMBER 90 LONDON, London on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sofi. is a techno artist based in United Kingdom, tracked on soundcheck, with 15
 
 ## Recently played
 
-- NUMBER 90 LONDON, London — Sun, 23 Aug 2026
-- Secret Location, London — Sat, 16 May 2026
-- Club Cheek, London — Sat, 4 Apr 2026
-- The DBA, Manchester — Fri, 6 Mar 2026
-- FOLD, London — Fri, 20 Feb 2026
-- fabric, London — Sat, 7 Feb 2026
-- The Glove That Fits, London — Sun, 25 Jan 2026
-- Corsica Studios, London — Thu, 1 Jan 2026
+- NUMBER 90 LONDON, London · Sun, 23 Aug 2026
+- Secret Location, London · Sat, 16 May 2026
+- Club Cheek, London · Sat, 4 Apr 2026
+- The DBA, Manchester · Fri, 6 Mar 2026
+- FOLD, London · Fri, 20 Feb 2026
+- fabric, London · Sat, 7 Feb 2026
+- The Glove That Fits, London · Sun, 25 Jan 2026
+- Corsica Studios, London · Thu, 1 Jan 2026
 
 ## Shares bills with
 

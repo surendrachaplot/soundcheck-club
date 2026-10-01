@@ -1,8 +1,8 @@
 # Ebru Al
 
-Ebru Al is a Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery N17, London on Sat, 17 Oct 2026.
+Ebru Al is a Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery N17, London on Sat, 17 Oct 2026.
 
-Ebru Al is a psytrance artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Antwerp and London. Often billed alongside EARPRINT, Mensih and R4VF. Next up: Distillery N17, London on Sat 17 Oct.
+Ebru Al is a psytrance artist based in United Kingdom, with 10 gigs on soundcheck across Antwerp and London. Often billed alongside EARPRINT, Mensih and R4VF. Next up: Distillery N17, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ebru Al is a psytrance artist based in United Kingdom, tracked on soundcheck, wi
 
 ## Recently played
 
-- Arch 535, London — Fri, 24 Apr 2026
-- Arch535, London — Sat, 27 Sept 2025
-- Haar, Antwerp — Sat, 13 Sept 2025
-- Bar A Bar, London — Fri, 12 Sept 2025
-- Sui Generis, London — Sat, 14 Jun 2025
-- Arch535, London — Sat, 16 Nov 2024
-- Arch535, London — Sat, 16 Nov 2024
-- Starlane Pizza Bar, London — Sat, 12 Oct 2024
+- Arch 535, London · Fri, 24 Apr 2026
+- Arch535, London · Sat, 27 Sept 2025
+- Haar, Antwerp · Sat, 13 Sept 2025
+- Bar A Bar, London · Fri, 12 Sept 2025
+- Sui Generis, London · Sat, 14 Jun 2025
+- Arch535, London · Sat, 16 Nov 2024
+- Arch535, London · Sat, 16 Nov 2024
+- Starlane Pizza Bar, London · Sat, 12 Oct 2024
 
 ## Shares bills with
 

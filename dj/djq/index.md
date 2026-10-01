@@ -1,8 +1,8 @@
 # DJ Q
 
-DJ Q is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Nest, Nottingham on Sat, 17 Oct 2026.
+DJ Q is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Nest, Nottingham on Sat, 17 Oct 2026.
 
-DJ Q is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 18 more. Often billed alongside Jamie Duggan, Flava D and Chad Harrison. Next up: The Nest, Nottingham on Sat 17 Oct.
+DJ Q is a garage and bass artist based in United Kingdom, with 86 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 18 more. Often billed alongside Jamie Duggan, Flava D and Chad Harrison. Next up: The Nest, Nottingham on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ DJ Q is a garage and bass artist based in United Kingdom, tracked on soundcheck,
 
 ## Recently played
 
-- The Clock Factory, Bristol — Fri, 11 Sept 2026
-- The Old Queens Head, London — Fri, 4 Sept 2026
-- Tank, Sheffield — Sat, 25 Jul 2026
-- Freight Island, Manchester — Sun, 5 Jul 2026
-- Tank, Sheffield — Sat, 4 Jul 2026
-- Night Tales Loft, London — Sun, 24 May 2026
-- Springwell - North Brewing, Leeds — Sat, 23 May 2026
-- Drama Radio Bar, Mexico City — Tue, 14 Apr 2026
+- The Clock Factory, Bristol · Fri, 11 Sept 2026
+- The Old Queens Head, London · Fri, 4 Sept 2026
+- Tank, Sheffield · Sat, 25 Jul 2026
+- Freight Island, Manchester · Sun, 5 Jul 2026
+- Tank, Sheffield · Sat, 4 Jul 2026
+- Night Tales Loft, London · Sun, 24 May 2026
+- Springwell - North Brewing, Leeds · Sat, 23 May 2026
+- Drama Radio Bar, Mexico City · Tue, 14 Apr 2026
 
 ## Shares bills with
 

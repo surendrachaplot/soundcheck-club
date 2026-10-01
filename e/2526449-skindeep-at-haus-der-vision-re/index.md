@@ -1,6 +1,6 @@
 # SKINDEEP at Haus der Visionäre
 
-SKINDEEP at Haus der Visionäre on Thu 1 Oct, Berlin. 1 artist on the bill: Buttechno. Minimal and Experimental. Preview the line-up and save it on soundcheck.
+SKINDEEP at Haus der Visionäre on Thu 1 Oct, Berlin. 1 artist: Buttechno. Minimal and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

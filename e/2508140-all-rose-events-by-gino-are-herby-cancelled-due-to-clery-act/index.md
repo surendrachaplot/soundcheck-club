@@ -1,6 +1,6 @@
 # All Rose Events by Gino are Herby Cancelled due to Clery Act Concerns at The Rose
 
-All Rose Events by Gino are Herby Cancelled due to Clery Act Concerns at The Rose on Fri 25 Dec, New York City. 1 artist on the bill: Gino Santos. House. Preview the line-up and save it on soundcheck.
+All Rose Events by Gino are Herby Cancelled due to Clery Act Concerns at The Rose on Fri 25 Dec, New York City. 1 artist: Gino Santos. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

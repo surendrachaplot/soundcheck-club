@@ -1,6 +1,6 @@
 # SUBSTRATE: Shed at TRANSMISSION DC
 
-SUBSTRATE: Shed at TRANSMISSION DC on Thu 15 Oct, Washington DC. 1 artist on the bill: Shed. Techno. Preview the line-up and save it on soundcheck.
+SUBSTRATE: Shed at TRANSMISSION DC on Thu 15 Oct, Washington DC. 1 artist: Shed. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

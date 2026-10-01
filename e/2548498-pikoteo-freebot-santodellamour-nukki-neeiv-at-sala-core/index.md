@@ -1,6 +1,6 @@
 # PIKOTEO: Freebot + SANTODELLAMOUR + Nukki + Neeiv at Sala Core
 
-PIKOTEO: Freebot + SANTODELLAMOUR + Nukki + Neeiv at Sala Core on Sat 10 Oct, Malaga. 3 artists on the bill: Freebot, Neeiv and Nukki. Club and Electronica. Preview the line-up and save it on soundcheck.
+PIKOTEO: Freebot + SANTODELLAMOUR + Nukki + Neeiv at Sala Core on Sat 10 Oct, Malaga. 3 artists: Freebot, Neeiv and Nukki. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

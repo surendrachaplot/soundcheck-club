@@ -1,6 +1,6 @@
 # MAGMA KULTURE & ClublÄrm  >> at Esbirra Ibiza
 
-MAGMA KULTURE & ClublÄrm  >> at Esbirra Ibiza on Fri 2 Oct, Ibiza. 3 artists on the bill: ADRI.G, Greick Jhøzsu and Tensal. Techno. Preview the line-up and save it on soundcheck.
+MAGMA KULTURE & ClublÄrm  >> at Esbirra Ibiza on Fri 2 Oct, Ibiza. 3 artists: ADRI.G, Greick Jhøzsu and Tensal. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

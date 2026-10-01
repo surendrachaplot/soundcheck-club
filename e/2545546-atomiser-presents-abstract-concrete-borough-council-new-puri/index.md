@@ -1,6 +1,6 @@
 # Atomiser presents: Abstract Concrete, Borough Council, New Puritan Appeal, PopStar at IKLECTIK
 
-Atomiser presents: Abstract Concrete, Borough Council, New Puritan Appeal, PopStar at IKLECTIK on Thu 22 Oct, London. Preview the line-up and save it on soundcheck.
+Atomiser presents: Abstract Concrete, Borough Council, New Puritan Appeal, PopStar at IKLECTIK on Thu 22 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

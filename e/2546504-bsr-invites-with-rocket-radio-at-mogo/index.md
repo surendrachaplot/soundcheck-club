@@ -1,6 +1,6 @@
 # BSR Invites with Rocket Radio at MOGO
 
-BSR Invites with Rocket Radio at MOGO on Thu 22 Oct, Milan. 2 artists on the bill: Acidgigi and Riccardo BHI. Electronica. Preview the line-up and save it on soundcheck.
+BSR Invites with Rocket Radio at MOGO on Thu 22 Oct, Milan. 2 artists: Acidgigi and Riccardo BHI. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

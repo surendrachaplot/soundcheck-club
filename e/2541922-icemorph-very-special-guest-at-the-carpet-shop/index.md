@@ -1,6 +1,6 @@
 # ⌭ IceMorph ⌬ + VERY SPECIAL GUEST at The Carpet Shop
 
-⌭ IceMorph ⌬ + VERY SPECIAL GUEST at The Carpet Shop on Fri 11 Dec, London. 1 artist on the bill: IceMorph. Preview the line-up and save it on soundcheck.
+⌭ IceMorph ⌬ + VERY SPECIAL GUEST at The Carpet Shop on Fri 11 Dec, London. 1 artist: IceMorph. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Virage
 
-Virage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Hard Fist x La Culottée: Erol Alkan, Alex Wilcox " on Fri, 2 Oct 2026.
+Virage is a music venue in Paris with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Hard Fist x La Culottée: Erol Alkan, Alex Wilcox " on Fri, 2 Oct 2026.
 
-Virage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Wilcox, Bella Claxton, Cannonbar and Ceyda Yagiz and 2 more. Browse upcoming dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
+Virage is a music venue in Paris listed on soundcheck. 6 upcoming gigs, with line-ups including Alex Wilcox, Bella Claxton, Cannonbar and Ceyda Yagiz and 2 more. See dates, start times and who's playing. 26 rue Hélène-et-François Missoffe.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Giri x AVNL at Giri
 
-Giri x AVNL on Thu 5 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Giri x AVNL on Thu 5 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MGMT (DJ Set) at The Concourse Project
 
-MGMT (DJ Set) at The Concourse Project on Sat 17 Oct, Austin. Preview the line-up and save it on soundcheck.
+MGMT (DJ Set) at The Concourse Project on Sat 17 Oct, Austin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

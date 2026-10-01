@@ -1,6 +1,6 @@
 # Funksmack - Halloween Party at The Big Romance
 
-Funksmack - Halloween Party at The Big Romance on Sat 31 Oct, Dublin. 1 artist on the bill: funksmack. House and Disco. Preview the line-up and save it on soundcheck.
+Funksmack - Halloween Party at The Big Romance on Sat 31 Oct, Dublin. 1 artist: funksmack. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

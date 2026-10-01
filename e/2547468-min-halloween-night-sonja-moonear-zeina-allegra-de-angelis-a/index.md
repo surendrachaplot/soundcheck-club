@@ -1,6 +1,6 @@
 # MINÛ HALLOWEEN NIGHT: Sonja Moonear, Zeina & Allegra De Angelis at Circolo degli Illuminati
 
-MINÛ HALLOWEEN NIGHT: Sonja Moonear, Zeina & Allegra De Angelis at Circolo degli Illuminati on Sat 31 Oct, Rome. 3 artists on the bill: Allegra De Angelis, Sonja Moonear and Zeina. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+MINÛ HALLOWEEN NIGHT: Sonja Moonear, Zeina & Allegra De Angelis at Circolo degli Illuminati on Sat 31 Oct, Rome. 3 artists: Allegra De Angelis, Sonja Moonear and Zeina. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

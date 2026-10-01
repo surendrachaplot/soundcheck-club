@@ -1,6 +1,6 @@
 # [CANCELLED] ESC. _ United Labels _ End. Shift. Conect at Albura
 
-[CANCELLED] ESC. _ United Labels _ End. Shift. Conect at Albura on Fri 2 Oct, Barcelona. 1 artist on the bill: Matale. House and Tech House. Preview the line-up and save it on soundcheck.
+[CANCELLED] ESC. _ United Labels _ End. Shift. Conect at Albura on Fri 2 Oct, Barcelona. 1 artist: Matale. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

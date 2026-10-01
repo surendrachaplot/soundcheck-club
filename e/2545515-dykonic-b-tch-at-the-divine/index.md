@@ -1,6 +1,6 @@
 # DYKONIC B*TCH at The Divine
 
-DYKONIC B*TCH at The Divine on Fri 6 Nov, London. Preview the line-up and save it on soundcheck.
+DYKONIC B*TCH at The Divine on Fri 6 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LAB NIGHTS – SESSION 008: Rik Laren x Drip Curl at Zu Mir Oder Zu Dir
 
-LAB NIGHTS – SESSION 008: Rik Laren x Drip Curl at Zu Mir Oder Zu Dir on Thu 1 Oct, Berlin. House. Preview the line-up and save it on soundcheck.
+LAB NIGHTS – SESSION 008: Rik Laren x Drip Curl at Zu Mir Oder Zu Dir on Thu 1 Oct, Berlin. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

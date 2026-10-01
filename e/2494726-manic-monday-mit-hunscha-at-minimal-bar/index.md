@@ -1,6 +1,6 @@
 # manic.monday mit Hunscha at Minimal Bar
 
-manic.monday mit Hunscha at Minimal Bar on Mon 5 Oct, Berlin. Preview the line-up and save it on soundcheck.
+manic.monday mit Hunscha at Minimal Bar on Mon 5 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

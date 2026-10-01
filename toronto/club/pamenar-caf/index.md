@@ -1,8 +1,8 @@
 # Pamenar Café
 
-Pamenar Café is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Blank Disc Club: Cuffing Season" on Wed, 7 Oct 2026.
+Pamenar Café is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Blank Disc Club: Cuffing Season" on Wed, 7 Oct 2026.
 
-Pamenar Café is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including ROU-H, Sandwavv and SAWIFROMSPACE. Browse upcoming dates, start times and who's playing. 307 Augusta Ave, Toronto, ON M5T 2M2, Canada.
+Pamenar Café is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including ROU-H, Sandwavv and SAWIFROMSPACE. See dates, start times and who's playing. 307 Augusta Ave, Toronto, ON M5T 2M2, Canada.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Martial Canterel
 
-Martial Canterel is a Minimal and New Wave artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Red Roof Church, Montreal on Sat, 31 Oct 2026.
+Martial Canterel is a Minimal and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Red Roof Church, Montreal on Sat, 31 Oct 2026.
 
-Martial Canterel is a minimal and new wave artist based in United States of America, tracked on soundcheck, with 11 sets logged across Austin, Berlin, Leipzig and Montreal and 4 more. Often billed alongside Xeno & Oaklander, L.Sangre and Collin Crowe. Next up: Red Roof Church, Montreal on Sat 31 Oct.
+Martial Canterel is a minimal and new wave artist based in United States of America, with 11 gigs on soundcheck across Austin, Berlin, Leipzig and Montreal and 4 more. Often billed alongside Xeno & Oaklander, L.Sangre and Collin Crowe. Next up: Red Roof Church, Montreal on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Martial Canterel is a minimal and new wave artist based in United States of Amer
 
 ## Recently played
 
-- ÆDEN, Berlin — Fri, 11 Sept 2026
-- TBA, Leipzig — Thu, 10 Sept 2026
-- FLUCC, Vienna — Fri, 24 Apr 2026
-- Selva NYC, New York City — Thu, 13 Nov 2025
-- Johnny Brenda's, Philadelphia — Tue, 14 Oct 2025
-- FLUCC, Vienna — Fri, 19 Sept 2025
-- Red Roof Church, Montreal — Sat, 20 Apr 2024
-- So36, Berlin — Thu, 10 Aug 2023
+- ÆDEN, Berlin · Fri, 11 Sept 2026
+- TBA, Leipzig · Thu, 10 Sept 2026
+- FLUCC, Vienna · Fri, 24 Apr 2026
+- Selva NYC, New York City · Thu, 13 Nov 2025
+- Johnny Brenda's, Philadelphia · Tue, 14 Oct 2025
+- FLUCC, Vienna · Fri, 19 Sept 2025
+- Red Roof Church, Montreal · Sat, 20 Apr 2024
+- So36, Berlin · Thu, 10 Aug 2023
 
 ## Shares bills with
 

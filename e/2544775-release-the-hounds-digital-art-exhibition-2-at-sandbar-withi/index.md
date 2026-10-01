@@ -1,6 +1,6 @@
 # Release The Hounds: Digital art exhibition 2 at Sandbar Withington
 
-Release The Hounds: Digital art exhibition 2 at Sandbar Withington on Fri 16 Oct, Manchester. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Release The Hounds: Digital art exhibition 2 at Sandbar Withington on Fri 16 Oct, Manchester. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

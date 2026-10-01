@@ -1,6 +1,6 @@
 # Clubnight - Josey Rebelle, Robert Bergman (live), ROD, Mogol Soundsystem at Open Ground
 
-Clubnight - Josey Rebelle, Robert Bergman (live), ROD, Mogol Soundsystem at Open Ground on Sat 28 Nov, Wuppertal. 4 artists on the bill: Ghost Dubs, Josey Rebelle, Robert Bergman and ROD. Preview the line-up and save it on soundcheck.
+Clubnight - Josey Rebelle, Robert Bergman (live), ROD, Mogol Soundsystem at Open Ground on Sat 28 Nov, Wuppertal. 4 artists: Ghost Dubs, Josey Rebelle, Robert Bergman and ROD. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

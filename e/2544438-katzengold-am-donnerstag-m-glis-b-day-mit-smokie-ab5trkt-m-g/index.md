@@ -1,6 +1,6 @@
 # KATZENGOLD AM DONNERSTAG - 'MØGLIS B-DAY' MIT SMOKIE, AB5TRKT & MØGLI at Romantica
 
-KATZENGOLD AM DONNERSTAG - 'MØGLIS B-DAY' MIT SMOKIE, AB5TRKT & MØGLI at Romantica on Thu 1 Oct, Stuttgart. Techno. Preview the line-up and save it on soundcheck.
+KATZENGOLD AM DONNERSTAG - 'MØGLIS B-DAY' MIT SMOKIE, AB5TRKT & MØGLI at Romantica on Thu 1 Oct, Stuttgart. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

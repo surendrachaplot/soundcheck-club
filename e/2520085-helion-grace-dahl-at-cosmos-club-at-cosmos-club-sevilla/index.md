@@ -1,6 +1,6 @@
 # HELION - Grace Dahl at COSMOS CLUB at Cosmos Club Sevilla
 
-HELION - Grace Dahl at COSMOS CLUB at Cosmos Club Sevilla on Fri 2 Oct, South. 1 artist on the bill: Grace Dahl. Preview the line-up and save it on soundcheck.
+HELION - Grace Dahl at COSMOS CLUB at Cosmos Club Sevilla on Fri 2 Oct, South. 1 artist: Grace Dahl. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

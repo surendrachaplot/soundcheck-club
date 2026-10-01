@@ -1,6 +1,6 @@
 # Project Nowhere 2026: HYSTERIA + Alan Harman + DJ CRAIGSLIST + MR. MATTHEWS at Bambi's
 
-Project Nowhere 2026: HYSTERIA + Alan Harman + DJ CRAIGSLIST + MR. MATTHEWS at Bambi's on Thu 1 Oct, Toronto. 1 artist on the bill: Alan Harman. EBM and Industrial. Preview the line-up and save it on soundcheck.
+Project Nowhere 2026: HYSTERIA + Alan Harman + DJ CRAIGSLIST + MR. MATTHEWS at Bambi's on Thu 1 Oct, Toronto. 1 artist: Alan Harman. EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

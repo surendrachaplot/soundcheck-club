@@ -1,6 +1,6 @@
 # Through the Veil at Zombie Games Cafe & BAR
 
-Through the Veil at Zombie Games Cafe & BAR on Fri 30 Oct, London. 1 artist on the bill: NK47. Dubstep and Jungle. Preview the line-up and save it on soundcheck.
+Through the Veil at Zombie Games Cafe & BAR on Fri 30 Oct, London. 2 artists: Anphib and NK47. Dubstep and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Through the Veil at Zombie Games Cafe & BAR on Fri 30 Oct, London. 1 artist on t
 
 ## Line-up
 
+- Anphib
 - NK47
 
 *Source: [soundcheck](https://soundcheck.club/e/2527558-through-the-veil-at-zombie-games-cafe-bar/)*

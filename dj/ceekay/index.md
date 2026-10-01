@@ -1,8 +1,8 @@
 # CEEKAY
 
-CEEKAY is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Joshua Brooks, Manchester on Fri, 6 Nov 2026.
+CEEKAY is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Joshua Brooks, Manchester on Fri, 6 Nov 2026.
 
-CEEKAY is a techno and dub techno artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Liverpool and Manchester. Often billed alongside MAD Beats, Zoe Azad and DJ Elsie. Next up: Joshua Brooks, Manchester on Fri 6 Nov.
+CEEKAY is a techno and dub techno artist based in United Kingdom, with 27 gigs on soundcheck across Liverpool and Manchester. Often billed alongside MAD Beats, Zoe Azad and DJ Elsie. Next up: Joshua Brooks, Manchester on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ CEEKAY is a techno and dub techno artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- The DBA, Manchester — Sat, 15 Aug 2026
-- Cupra City Garage Manchester, Manchester — Sat, 4 Jul 2026
-- TBA - New Mills Market Hall, Manchester — Sat, 2 May 2026
-- Six Trees Bar And Kitchen Manchester, Manchester — Fri, 12 Dec 2025
-- Six Trees Bar And Kitchen Manchester, Manchester — Sat, 13 Sept 2025
-- The DBA, Manchester — Fri, 25 Jul 2025
-- Six Trees Bar And Kitchen Manchester, Manchester — Sat, 19 Jul 2025
-- TBA, Manchester — Sat, 5 Jul 2025
+- The DBA, Manchester · Sat, 15 Aug 2026
+- Cupra City Garage Manchester, Manchester · Sat, 4 Jul 2026
+- TBA - New Mills Market Hall, Manchester · Sat, 2 May 2026
+- Six Trees Bar And Kitchen Manchester, Manchester · Fri, 12 Dec 2025
+- Six Trees Bar And Kitchen Manchester, Manchester · Sat, 13 Sept 2025
+- The DBA, Manchester · Fri, 25 Jul 2025
+- Six Trees Bar And Kitchen Manchester, Manchester · Sat, 19 Jul 2025
+- TBA, Manchester · Sat, 5 Jul 2025
 
 ## Shares bills with
 

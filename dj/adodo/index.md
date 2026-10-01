@@ -1,8 +1,8 @@
 # adodo
 
-adodo is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paloma, Berlin on Fri, 2 Oct 2026.
+adodo is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Fri, 2 Oct 2026.
 
-adodo is an electronic artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Cologne. Often billed alongside shayan, Black Mirror Park and bb:fm. Next up: Paloma, Berlin on Fri 2 Oct.
+adodo is an electronic artist based in Germany, with 11 gigs on soundcheck across Berlin and Cologne. Often billed alongside shayan, Black Mirror Park and bb:fm. Next up: Paloma, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ adodo is an electronic artist based in Germany, tracked on soundcheck, with 11 s
 
 ## Recently played
 
-- Phantom Bar Berlin, Berlin — Fri, 15 May 2026
-- TBA -  not so secret location, Berlin — Fri, 24 Apr 2026
-- Paloma, Berlin — Sat, 21 Mar 2026
-- Phantom Bar Berlin, Berlin — Fri, 16 Jan 2026
-- TBA - Secret Location, Berlin — Fri, 25 Jul 2025
-- TBA, Berlin — Sun, 3 Nov 2024
-- Repeat, Berlin — Thu, 25 Jul 2024
-- ://about blank, Berlin — Fri, 19 Jul 2024
+- Phantom Bar Berlin, Berlin · Fri, 15 May 2026
+- TBA -  not so secret location, Berlin · Fri, 24 Apr 2026
+- Paloma, Berlin · Sat, 21 Mar 2026
+- Phantom Bar Berlin, Berlin · Fri, 16 Jan 2026
+- TBA - Secret Location, Berlin · Fri, 25 Jul 2025
+- TBA, Berlin · Sun, 3 Nov 2024
+- Repeat, Berlin · Thu, 25 Jul 2024
+- ://about blank, Berlin · Fri, 19 Jul 2024
 
 ## Shares bills with
 

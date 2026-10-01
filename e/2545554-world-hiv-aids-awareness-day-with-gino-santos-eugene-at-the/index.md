@@ -1,6 +1,6 @@
 # World HIV & Aids Awareness Day with Gino Santos (Eugene) at The Rose
 
-World HIV & Aids Awareness Day with Gino Santos (Eugene) at The Rose on Tue 1 Dec, New York City. 1 artist on the bill: Gino Santos. House and Disco. Preview the line-up and save it on soundcheck.
+World HIV & Aids Awareness Day with Gino Santos (Eugene) at The Rose on Tue 1 Dec, New York City. 1 artist: Gino Santos. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

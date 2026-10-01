@@ -1,8 +1,8 @@
 # Studio76 Club
 
-Studio76 Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Red Moon V - Vinyl, Techno & Hard Groove" on Fri, 30 Oct 2026.
+Studio76 Club is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Red Moon V - Vinyl, Techno & Hard Groove" on Fri, 30 Oct 2026.
 
-Studio76 Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Biorc, CH3LO, CVRLXS CA and DISTORT (ES) and 2 more. Browse upcoming dates, start times and who's playing. Calle Cerámica, 76. Madrid, Spain.
+Studio76 Club is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Biorc, CH3LO, CVRLXS CA and DISTORT (ES) and 2 more. See dates, start times and who's playing. Calle Cerámica, 76. Madrid, Spain.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Haram Haram: Hu-Sane + Hiba + Amizl at La Cheetah Club
 
-Haram Haram: Hu-Sane + Hiba + Amizl at La Cheetah Club on Fri 30 Oct, Glasgow. 3 artists on the bill: Amizl, Hiba and Hu-Sane. Bass and Hard Drum. Preview the line-up and save it on soundcheck.
+Haram Haram: Hu-Sane + Hiba + Amizl at La Cheetah Club on Fri 30 Oct, Glasgow. 3 artists: Amizl, Hiba and Hu-Sane. Bass and Hard Drum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CROSS CELLAR at Club Metro
 
-CROSS CELLAR at Club Metro on Thu 1 Oct, Kyoto. Hip-Hop and Dub. Preview the line-up and save it on soundcheck.
+CROSS CELLAR at Club Metro on Thu 1 Oct, Kyoto. Hip-Hop and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

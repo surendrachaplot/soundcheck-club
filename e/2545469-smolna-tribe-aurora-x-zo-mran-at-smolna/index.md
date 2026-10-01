@@ -1,6 +1,6 @@
 # Smolna Tribe: Aurora x Zo.mran at Smolna
 
-Smolna Tribe: Aurora x Zo.mran on Thu 29 Oct, Warsaw. Afro House. Preview the line-up and save it on soundcheck.
+Smolna Tribe: Aurora x Zo.mran on Thu 29 Oct, Warsaw. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

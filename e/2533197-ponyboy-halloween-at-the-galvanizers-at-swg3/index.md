@@ -1,6 +1,6 @@
 # Ponyboy Halloween at the Galvanizers at SWG3
 
-Ponyboy Halloween at the Galvanizers at SWG3 on Fri 30 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+Ponyboy Halloween at the Galvanizers at SWG3 on Fri 30 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

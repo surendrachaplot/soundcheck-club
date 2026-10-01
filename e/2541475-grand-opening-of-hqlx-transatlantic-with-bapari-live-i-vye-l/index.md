@@ -1,6 +1,6 @@
 # Grand Opening of hqLX – Transatlantic with Bapari (live), i-vye (live), Freestyler at hqLX
 
-Grand Opening of hqLX – Transatlantic with Bapari (live), i-vye (live), Freestyler on Thu 1 Oct, Luxembourg. 2 artists on the bill: Bapari and Freestyler. Preview the line-up and save it on soundcheck.
+Grand Opening of hqLX – Transatlantic with Bapari (live), i-vye (live), Freestyler on Thu 1 Oct, Luxembourg. 2 artists: Bapari and Freestyler. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

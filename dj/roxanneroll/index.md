@@ -1,8 +1,8 @@
 # Roxanne Roll
 
-Roxanne Roll is a Disco and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kiku Room, San Diego on Fri, 23 Oct 2026.
+Roxanne Roll is a Disco and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kiku Room, San Diego on Fri, 23 Oct 2026.
 
-Roxanne Roll is a disco and house artist based in United States of America, tracked on soundcheck, with 97 sets logged across Amsterdam, Auckland, Austin and Bali and 32 more. Often billed alongside Fleetmac Wood, Alex Oxley and Horror Hi-Fi. Next up: Kiku Room, San Diego on Fri 23 Oct.
+Roxanne Roll is a disco and house artist based in United States of America, with 97 gigs on soundcheck across Amsterdam, Auckland, Austin and Bali and 32 more. Often billed alongside Fleetmac Wood, Alex Oxley and Horror Hi-Fi. Next up: Kiku Room, San Diego on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Roxanne Roll is a disco and house artist based in United States of America, trac
 
 ## Recently played
 
-- The Social, London — Fri, 25 Sept 2026
-- 528 Ibiza, Ibiza — Thu, 2 Jul 2026
-- The Social, London — Fri, 26 Jun 2026
-- TBA - 1566 Carroll Ave, San Francisco, CA 94124, San Francisco/Oakland — Sat, 6 Jun 2026
-- Gold Diggers, Los Angeles — Thu, 28 May 2026
-- Club Tee Gee, Los Angeles — Fri, 8 May 2026
-- Club Tee Gee, Los Angeles — Fri, 10 Apr 2026
-- The Regency, San Francisco/Oakland — Sat, 14 Feb 2026
+- The Social, London · Fri, 25 Sept 2026
+- 528 Ibiza, Ibiza · Thu, 2 Jul 2026
+- The Social, London · Fri, 26 Jun 2026
+- TBA - 1566 Carroll Ave, San Francisco, CA 94124, San Francisco/Oakland · Sat, 6 Jun 2026
+- Gold Diggers, Los Angeles · Thu, 28 May 2026
+- Club Tee Gee, Los Angeles · Fri, 8 May 2026
+- Club Tee Gee, Los Angeles · Fri, 10 Apr 2026
+- The Regency, San Francisco/Oakland · Sat, 14 Feb 2026
 
 ## Shares bills with
 

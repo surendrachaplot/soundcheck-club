@@ -1,8 +1,8 @@
 # Oxygenic
 
-Oxygenic is a music venue in Newcastle with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ATMOS returns // Oxygenic" on Sat, 3 Oct 2026.
+Oxygenic is a music venue in Newcastle with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ATMOS returns // Oxygenic" on Sat, 3 Oct 2026.
 
-Oxygenic is a music venue in Newcastle listed on soundcheck. 5 upcoming gigs, with line-ups including Alousea, Holly Lester and Moose In The Wild. Browse upcoming dates, start times and who's playing. 169/171 Whitley Road, Whitley Bay, NE25 4BJ. UK..
+Oxygenic is a music venue in Newcastle listed on soundcheck. 5 upcoming gigs, with line-ups including Alousea, Holly Lester and Moose In The Wild. See dates, start times and who's playing. 169/171 Whitley Road, Whitley Bay, NE25 4BJ. UK..
 
 ## What's on
 

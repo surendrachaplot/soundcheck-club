@@ -1,6 +1,6 @@
 # MOLODOST TUSA MILANO at Superlove
 
-MOLODOST TUSA MILANO at Superlove on Fri 30 Oct, Milan. Pop and R&B. Preview the line-up and save it on soundcheck.
+MOLODOST TUSA MILANO at Superlove on Fri 30 Oct, Milan. Pop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

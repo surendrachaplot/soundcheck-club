@@ -1,6 +1,6 @@
 # Solar at Club 45 @ Blackfriars
 
-Solar at Club 45 @ Blackfriars on Sat 12 Dec, Glasgow. Trance. Preview the line-up and save it on soundcheck.
+Solar at Club 45 @ Blackfriars on Sat 12 Dec, Glasgow. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

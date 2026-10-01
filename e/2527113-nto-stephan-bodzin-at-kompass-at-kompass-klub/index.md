@@ -1,6 +1,6 @@
 # NTO & Stephan Bodzin at Kompass at Kompass Klub
 
-NTO & Stephan Bodzin at Kompass at Kompass Klub on Sat 17 Oct, Ghent. 5 artists on the bill: Dominik Eulberg, JUWLZ, Maxim Lany and NTO and 1 more. Preview the line-up and save it on soundcheck.
+NTO & Stephan Bodzin at Kompass at Kompass Klub on Sat 17 Oct, Ghent. 5 artists: Dominik Eulberg, JUWLZ, Maxim Lany and NTO and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

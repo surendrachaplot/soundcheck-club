@@ -1,8 +1,8 @@
 # Clwds
 
-Clwds is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "RAVE TO THE GRAVE" on Fri, 9 Oct 2026.
+Clwds is a music venue in Tallinn with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "RAVE TO THE GRAVE" on Fri, 9 Oct 2026.
 
-Clwds is a music venue in Tallinn listed on soundcheck. 1 upcoming gig, with line-ups including Airborn. Browse upcoming dates, start times and who's playing.
+Clwds is a music venue in Tallinn listed on soundcheck. 1 upcoming gig, with line-ups including Airborn. See dates, start times and who's playing.
 
 ## What's on
 

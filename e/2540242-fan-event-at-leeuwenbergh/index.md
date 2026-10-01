@@ -1,6 +1,6 @@
 # FAN Event at Leeuwenbergh
 
-FAN Event at Leeuwenbergh on Sat 17 Oct, Utrecht. House and Minimal. Preview the line-up and save it on soundcheck.
+FAN Event at Leeuwenbergh on Sat 17 Oct, Utrecht. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

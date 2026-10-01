@@ -1,6 +1,6 @@
 # RSVP pres. Øntold, David Bucka at Luzztro
 
-RSVP pres. Øntold, David Bucka at Luzztro on Sat 17 Oct, Warsaw. 4 artists on the bill: David Bucka, HANICZ, Mabu and Øntold. Techno and Tech House. Preview the line-up and save it on soundcheck.
+RSVP pres. Øntold, David Bucka at Luzztro on Sat 17 Oct, Warsaw. 4 artists: David Bucka, HANICZ, Mabu and Øntold. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

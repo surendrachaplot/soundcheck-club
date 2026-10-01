@@ -1,6 +1,6 @@
 # SOULEXPRESS • John Talabot + ThanksMate at Basic Club
 
-SOULEXPRESS • John Talabot + ThanksMate at Basic Club on Sat 17 Oct, Naples. 2 artists on the bill: John Talabot and ThanksMate. Preview the line-up and save it on soundcheck.
+SOULEXPRESS • John Talabot + ThanksMate at Basic Club on Sat 17 Oct, Naples. 2 artists: John Talabot and ThanksMate. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

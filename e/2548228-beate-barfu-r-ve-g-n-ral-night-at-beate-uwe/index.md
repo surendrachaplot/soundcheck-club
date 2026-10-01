@@ -1,6 +1,6 @@
 # Beate Barfuß /// Rêve Général Night at Beate Uwe
 
-Beate Barfuß /// Rêve Général Night at Beate Uwe on Sun 25 Oct, Berlin. 3 artists on the bill: Ektoplast, EXZ and Kid A. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+Beate Barfuß /// Rêve Général Night at Beate Uwe on Sun 25 Oct, Berlin. 3 artists: Ektoplast, EXZ and Kid A. Deep House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

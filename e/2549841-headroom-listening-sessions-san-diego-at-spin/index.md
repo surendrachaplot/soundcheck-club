@@ -1,6 +1,6 @@
 # Headroom Listening Sessions: San Diego at Spin
 
-Headroom Listening Sessions: San Diego at Spin on Thu 15 Oct, San Diego. Preview the line-up and save it on soundcheck.
+Headroom Listening Sessions: San Diego at Spin on Thu 15 Oct, San Diego. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

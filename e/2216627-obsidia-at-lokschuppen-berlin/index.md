@@ -1,6 +1,6 @@
 # OBSIDIA at Lokschuppen Berlin
 
-OBSIDIA at Lokschuppen Berlin on Fri 11 Dec, Berlin. Trance and Techno. Preview the line-up and save it on soundcheck.
+OBSIDIA at Lokschuppen Berlin on Fri 11 Dec, Berlin. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

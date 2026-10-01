@@ -1,6 +1,6 @@
 # SWIM N°5 — Uncertain Velocity x ZiMMT at ZiMMT
 
-SWIM N°5 — Uncertain Velocity x ZiMMT on Sat 31 Oct, Leipzig. Experimental. Preview the line-up and save it on soundcheck.
+SWIM N°5 — Uncertain Velocity x ZiMMT on Sat 31 Oct, Leipzig. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

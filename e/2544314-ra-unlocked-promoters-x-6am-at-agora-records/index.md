@@ -1,6 +1,6 @@
 # RA UNLOCKED Promoters x 6am at Agora Records
 
-RA UNLOCKED Promoters x 6am at Agora Records on Sat 5 Dec, Los Angeles. Preview the line-up and save it on soundcheck.
+RA UNLOCKED Promoters x 6am at Agora Records on Sat 5 Dec, Los Angeles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

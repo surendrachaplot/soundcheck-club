@@ -1,6 +1,6 @@
 # Maintenant Festival 2026 at Théâtre du Vieux St-Étienne
 
-Maintenant Festival 2026 at Théâtre du Vieux St-Étienne on Thu 1 Oct, Rennes. 7 artists on the bill: Antilogic, Blood of Aza, CWTCH and Katarina Gryvul and 3 more. Preview the line-up and save it on soundcheck.
+Maintenant Festival 2026 at Théâtre du Vieux St-Étienne on Thu 1 Oct, Rennes. 7 artists: Antilogic, Blood of Aza, CWTCH and Katarina Gryvul and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

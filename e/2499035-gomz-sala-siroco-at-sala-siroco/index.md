@@ -1,6 +1,6 @@
 # GOMZ - Sala Siroco at Sala Siroco
 
-GOMZ - Sala Siroco on Thu 26 Nov, Madrid. Preview the line-up and save it on soundcheck.
+GOMZ - Sala Siroco on Thu 26 Nov, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

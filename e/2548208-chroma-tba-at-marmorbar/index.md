@@ -1,6 +1,6 @@
 # CHROMA - tba at Marmorbar
 
-CHROMA - tba at Marmorbar on Sat 24 Oct, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+CHROMA - tba at Marmorbar on Sat 24 Oct, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

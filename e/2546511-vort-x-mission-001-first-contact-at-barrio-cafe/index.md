@@ -1,6 +1,6 @@
 # Vort-x Mission 001 First Contact at Barrio Cafe
 
-Vort-x Mission 001 First Contact at Barrio Cafe on Sat 17 Oct, Brussels. 1 artist on the bill: Buday. Techno and Electro. Preview the line-up and save it on soundcheck.
+Vort-x Mission 001 First Contact at Barrio Cafe on Sat 17 Oct, Brussels. 1 artist: Buday. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

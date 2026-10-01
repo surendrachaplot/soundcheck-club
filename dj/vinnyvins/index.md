@@ -1,8 +1,8 @@
 # Vinny Vins
 
-Vinny Vins is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gingerino's Pizza, Newcastle on Sat, 10 Oct 2026.
+Vinny Vins is a Disco and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gingerino's Pizza, Newcastle on Sat, 10 Oct 2026.
 
-Vinny Vins is a disco and house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Newcastle. Often billed alongside Diz Jockey, Bill Brewster and Santa Leticia. Next up: Gingerino's Pizza, Newcastle on Sat 10 Oct.
+Vinny Vins is a disco and house artist based in United Kingdom, with 42 gigs on soundcheck across Newcastle. Often billed alongside Diz Jockey, Bill Brewster and Santa Leticia. Next up: Gingerino's Pizza, Newcastle on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Vinny Vins is a disco and house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Gingerino's Pizza, Newcastle — Sat, 19 Sept 2026
-- Gingerino's Pizza, Newcastle — Fri, 31 Jul 2026
-- Gingerino's Pizza, Newcastle — Sat, 25 Jul 2026
-- Gingerino's Pizza, Newcastle — Sat, 11 Jul 2026
-- Gingerino's Pizza, Newcastle — Sat, 4 Jul 2026
-- Gingerino's Pizza, Newcastle — Fri, 26 Jun 2026
-- Gingerino's Pizza, Newcastle — Sat, 20 Jun 2026
-- Gingerino's Pizza, Newcastle — Fri, 12 Jun 2026
+- Gingerino's Pizza, Newcastle · Sat, 19 Sept 2026
+- Gingerino's Pizza, Newcastle · Fri, 31 Jul 2026
+- Gingerino's Pizza, Newcastle · Sat, 25 Jul 2026
+- Gingerino's Pizza, Newcastle · Sat, 11 Jul 2026
+- Gingerino's Pizza, Newcastle · Sat, 4 Jul 2026
+- Gingerino's Pizza, Newcastle · Fri, 26 Jun 2026
+- Gingerino's Pizza, Newcastle · Sat, 20 Jun 2026
+- Gingerino's Pizza, Newcastle · Fri, 12 Jun 2026
 
 ## Shares bills with
 

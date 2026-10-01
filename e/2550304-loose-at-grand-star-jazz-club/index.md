@@ -1,6 +1,6 @@
 # Loose at Grand Star Jazz Club
 
-Loose at Grand Star Jazz Club on Fri 2 Oct, Los Angeles. 2 artists on the bill: deesco and Rob Aquino. House and Club. Preview the line-up and save it on soundcheck.
+Loose at Grand Star Jazz Club on Fri 2 Oct, Los Angeles. 2 artists: deesco and Rob Aquino. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

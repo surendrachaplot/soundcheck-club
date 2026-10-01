@@ -1,6 +1,6 @@
 # Swnstudios X Kkoletivo at NADA Lisbon
 
-Swnstudios X Kkoletivo at NADA Lisbon on Fri 9 Oct, Lisbon. Preview the line-up and save it on soundcheck.
+Swnstudios X Kkoletivo at NADA Lisbon on Fri 9 Oct, Lisbon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

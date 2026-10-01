@@ -1,8 +1,8 @@
 # Alex Garcia (2)
 
-Alex Garcia (2) is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 303 Audiophile Bar, Barcelona on Sat, 24 Oct 2026.
+Alex Garcia (2) is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Sat, 24 Oct 2026.
 
-Alex Garcia is a house and electro artist based in Spain, tracked on soundcheck, with 44 sets logged across Barcelona. Often billed alongside Vince Void, Adria (ES) and Pau Rosés. Next up: 303 Audiophile Bar, Barcelona on Sat 24 Oct.
+Alex Garcia is a house and electro artist based in Spain, with 44 gigs on soundcheck across Barcelona. Often billed alongside Vince Void, Adria (ES) and Pau Rosés. Next up: 303 Audiophile Bar, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Alex Garcia is a house and electro artist based in Spain, tracked on soundcheck,
 
 ## Recently played
 
-- G Spot Club, Barcelona — Sat, 11 Jul 2026
-- Studio Stereo, Barcelona — Fri, 10 Jul 2026
-- Sunseabar Beach Club, Barcelona — Fri, 3 Jul 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 20 Jun 2026
-- TBA - Alt Penedès, Barcelona — Fri, 12 Jun 2026
-- 303 Audiophile Bar, Barcelona — Fri, 5 Jun 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sun, 5 Apr 2026
-- 303 Audiophile Bar, Barcelona — Fri, 20 Feb 2026
+- G Spot Club, Barcelona · Sat, 11 Jul 2026
+- Studio Stereo, Barcelona · Fri, 10 Jul 2026
+- Sunseabar Beach Club, Barcelona · Fri, 3 Jul 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 20 Jun 2026
+- TBA - Alt Penedès, Barcelona · Fri, 12 Jun 2026
+- 303 Audiophile Bar, Barcelona · Fri, 5 Jun 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sun, 5 Apr 2026
+- 303 Audiophile Bar, Barcelona · Fri, 20 Feb 2026
 
 ## Shares bills with
 

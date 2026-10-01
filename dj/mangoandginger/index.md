@@ -1,8 +1,8 @@
 # Mango and Ginger
 
-Mango and Ginger is a Baile Funk and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Mango and Ginger is a Baile Funk and Reggaeton artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Mango and Ginger are a baile funk and reggaeton duo based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Berlin, Chicago and Los Angeles and 6 more. Often billed alongside Cquestt, Bianca Maieli and DINABN. Next up: SISSI'S Amsterdam, Amsterdam on Fri 23 Oct.
+Mango and Ginger are a baile funk and reggaeton duo based in United States of America, with 44 gigs on soundcheck across Amsterdam, Berlin, Chicago and Los Angeles and 6 more. Often billed alongside Cquestt, Bianca Maieli and DINABN. Next up: SISSI'S Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mango and Ginger are a baile funk and reggaeton duo based in United States of Am
 
 ## Recently played
 
-- TBA - DTLA Warehouse, Los Angeles — Fri, 18 Sept 2026
-- TRANSMISSION DC, Washington DC — Sat, 22 Aug 2026
-- La Machine Du Moulin Rouge, Paris — Fri, 26 Jun 2026
-- OXI, Berlin — Sat, 13 Jun 2026
-- The Observatory North Park, San Diego — Sat, 31 Jan 2026
-- Catch One, Los Angeles — Sat, 24 Jan 2026
-- Dave & Buster's Hollywood, Los Angeles — Fri, 24 Oct 2025
-- 1015 Folsom, San Francisco/Oakland — Fri, 17 Oct 2025
+- TBA - DTLA Warehouse, Los Angeles · Fri, 18 Sept 2026
+- TRANSMISSION DC, Washington DC · Sat, 22 Aug 2026
+- La Machine Du Moulin Rouge, Paris · Fri, 26 Jun 2026
+- OXI, Berlin · Sat, 13 Jun 2026
+- The Observatory North Park, San Diego · Sat, 31 Jan 2026
+- Catch One, Los Angeles · Sat, 24 Jan 2026
+- Dave & Buster's Hollywood, Los Angeles · Fri, 24 Oct 2025
+- 1015 Folsom, San Francisco/Oakland · Fri, 17 Oct 2025
 
 ## Shares bills with
 

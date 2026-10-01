@@ -1,6 +1,6 @@
 # Gravagerz at Elsewhere
 
-Gravagerz at Elsewhere on Sun 15 Nov, Gold Coast. 1 artist on the bill: Gravagerz. Preview the line-up and save it on soundcheck.
+Gravagerz at Elsewhere on Sun 15 Nov, Gold Coast. 1 artist: Gravagerz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PartyKadaver & Basti Rauch at Roody Tanzcafe Giesing
 
-PartyKadaver & Basti Rauch at Roody Tanzcafe Giesing on Sat 10 Oct, Munich. 1 artist on the bill: Basti Rauch. House and Electronica. Preview the line-up and save it on soundcheck.
+PartyKadaver & Basti Rauch at Roody Tanzcafe Giesing on Sat 10 Oct, Munich. 1 artist: Basti Rauch. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

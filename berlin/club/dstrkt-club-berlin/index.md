@@ -1,8 +1,8 @@
 # DSTRKT Club Berlin
 
-DSTRKT Club Berlin is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sequenced Minds at DSTRKT" on Fri, 9 Oct 2026.
+DSTRKT Club Berlin is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sequenced Minds at DSTRKT" on Fri, 9 Oct 2026.
 
-DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 2HOT2PLAY, Andreas Henneberg, André Galluzzi and AREA ØNE and 2 more. Browse upcoming dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
+DSTRKT Club Berlin is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including 2HOT2PLAY, Andreas Henneberg, André Galluzzi and AREA ØNE and 2 more. See dates, start times and who's playing. Storkower Straße 123, 10407 Berlin, Deutschland.
 
 ## What's on
 

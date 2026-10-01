@@ -1,8 +1,8 @@
 # Naone
 
-Naone is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Fri, 23 Oct 2026.
+Naone is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Fri, 23 Oct 2026.
 
-Naone is a techno and house artist based in South Korea, tracked on soundcheck, with 183 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 33 more. Often billed alongside Iggy P, Sansibar and mad miran. Next up: OXI, Berlin on Fri 23 Oct.
+Naone is a techno and house artist based in South Korea, with 183 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 33 more. Often billed alongside Iggy P, Sansibar and mad miran. Next up: OXI, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Naone is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 ## Recently played
 
-- La Cité Fertile, Paris — Sat, 26 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Signal, New York City — Fri, 18 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Gaffe, London — Sun, 6 Sept 2026
-- Tuinen van West, Amsterdam — Sat, 29 Aug 2026
-- Backsteinboot, Berlin — Sat, 15 Aug 2026
-- TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
+- La Cité Fertile, Paris · Sat, 26 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Signal, New York City · Fri, 18 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Gaffe, London · Sun, 6 Sept 2026
+- Tuinen van West, Amsterdam · Sat, 29 Aug 2026
+- Backsteinboot, Berlin · Sat, 15 Aug 2026
+- TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
 
 ## Shares bills with
 

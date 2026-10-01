@@ -1,6 +1,6 @@
 # Bendita Locura x Connect at Lula Club
 
-Bendita Locura x Connect at Lula Club on Sat 14 Nov, Madrid. Preview the line-up and save it on soundcheck.
+Bendita Locura x Connect at Lula Club on Sat 14 Nov, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

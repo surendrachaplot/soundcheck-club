@@ -1,6 +1,6 @@
 # ∴ ∴ ∴ ∴ ∴ Joseph Capriati — — VIMUKTI — — ∴ — ⌇ — ∴ at Plaza Mayor Medellin
 
-∴ ∴ ∴ ∴ ∴ Joseph Capriati — — VIMUKTI — — ∴ — ⌇ — ∴ at Plaza Mayor Medellin on Sat 12 Dec, Medellin. 1 artist on the bill: Joseph Capriati. Preview the line-up and save it on soundcheck.
+∴ ∴ ∴ ∴ ∴ Joseph Capriati — — VIMUKTI — — ∴ — ⌇ — ∴ at Plaza Mayor Medellin on Sat 12 Dec, Medellin. 1 artist: Joseph Capriati. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

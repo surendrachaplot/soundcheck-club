@@ -1,6 +1,6 @@
 # Selectors Club at Distillery
 
-Selectors Club at Distillery on Sat 31 Oct, Leipzig. 6 artists on the bill: Costanza, grandmalheur, Gwenan and Kassem Mosse and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Selectors Club at Distillery on Sat 31 Oct, Leipzig. 6 artists: Costanza, grandmalheur, Gwenan and Kassem Mosse and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

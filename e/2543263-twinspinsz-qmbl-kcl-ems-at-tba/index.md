@@ -1,6 +1,6 @@
 # Twinspinsz ˚.⋆꒰১ ໒꒱⋆.˚ qmbl, kcl & ems at TBA
 
-Twinspinsz ˚.⋆꒰১ ໒꒱⋆.˚ qmbl, kcl & ems at TBA on Thu 19 Nov, London. Techno and House. Preview the line-up and save it on soundcheck.
+Twinspinsz ˚.⋆꒰১ ໒꒱⋆.˚ qmbl, kcl & ems at TBA on Thu 19 Nov, London. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

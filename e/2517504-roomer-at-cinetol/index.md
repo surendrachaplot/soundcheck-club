@@ -1,6 +1,6 @@
 # Roomer at Cinetol
 
-Roomer at Cinetol on Wed 14 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Roomer at Cinetol on Wed 14 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

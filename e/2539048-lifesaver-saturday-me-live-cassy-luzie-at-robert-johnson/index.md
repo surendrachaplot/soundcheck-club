@@ -1,6 +1,6 @@
 # Lifesaver Saturday / Âme live / Cassy / Luzie at Robert Johnson
 
-Lifesaver Saturday / Âme live / Cassy / Luzie at Robert Johnson on Sat 28 Nov, Hesse. 3 artists on the bill: Âme, Cassy and Frank Wiedemann. Preview the line-up and save it on soundcheck.
+Lifesaver Saturday / Âme live / Cassy / Luzie at Robert Johnson on Sat 28 Nov, Hesse. 3 artists: Âme, Cassy and Frank Wiedemann. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

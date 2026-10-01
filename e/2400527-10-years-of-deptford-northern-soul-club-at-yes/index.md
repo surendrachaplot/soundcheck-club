@@ -1,6 +1,6 @@
 # 10 Years of Deptford Northern Soul Club at Yes
 
-10 Years of Deptford Northern Soul Club at Yes on Sat 21 Nov, Manchester. Funk / Soul. Preview the line-up and save it on soundcheck.
+10 Years of Deptford Northern Soul Club at Yes on Sat 21 Nov, Manchester. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

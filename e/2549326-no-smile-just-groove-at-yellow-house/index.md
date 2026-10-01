@@ -1,6 +1,6 @@
 # NO SMILE JUST GROOVE at Yellow House
 
-NO SMILE JUST GROOVE at Yellow House on Fri 2 Oct, Amsterdam. 3 artists on the bill: Be Lion, Hris East and Ìngryd Gobbo. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+NO SMILE JUST GROOVE at Yellow House on Fri 2 Oct, Amsterdam. 3 artists: Be Lion, Hris East and Ìngryd Gobbo. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

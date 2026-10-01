@@ -1,6 +1,6 @@
 # NEVER GROW UP at Ilses Erika
 
-NEVER GROW UP at Ilses Erika on Sat 17 Oct, Leipzig. Italo Disco. Preview the line-up and save it on soundcheck.
+NEVER GROW UP at Ilses Erika on Sat 17 Oct, Leipzig. Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

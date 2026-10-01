@@ -1,6 +1,6 @@
 # O FORNO [Rosa Pistola, +TBA] at Karmen Camina
 
-O FORNO [Rosa Pistola, +TBA] at Karmen Camina on Fri 11 Dec, Strasbourg. 1 artist on the bill: Rosa Pistola. Dancehall and Guaracha. Preview the line-up and save it on soundcheck.
+O FORNO [Rosa Pistola, +TBA] at Karmen Camina on Fri 11 Dec, Strasbourg. 1 artist: Rosa Pistola. Dancehall and Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

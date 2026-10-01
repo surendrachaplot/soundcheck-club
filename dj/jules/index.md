@@ -1,8 +1,8 @@
 # julës jay
 
-julës jay is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mojo, Hamburg on Sat, 31 Oct 2026.
+julës jay is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
 
-julës jay is a house and minimal artist based in Germany, tracked on soundcheck, with 81 sets logged across Hamburg, Munich and Vienna. Often billed alongside KITI ARSA, Vincent Lang and Ede. Next up: Mojo, Hamburg on Sat 31 Oct.
+julës jay is a house and minimal artist based in Germany, with 81 gigs on soundcheck across Hamburg, Munich and Vienna. Often billed alongside KITI ARSA, Vincent Lang and Ede. Next up: Mojo, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ julës jay is a house and minimal artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Goldener Reiter, Munich — Sat, 12 Sept 2026
-- Amari Bar, Munich — Sat, 15 Aug 2026
-- Praterinsel, Munich — Sat, 25 Jul 2026
-- Aahhh Rooftop, Munich — Sat, 13 Jun 2026
-- Lieberscholli, Munich — Thu, 4 Jun 2026
-- Goldener Reiter, Munich — Fri, 29 May 2026
-- TBA - SKATEHALLE / Dachauer Str. 110, Munich — Sat, 23 May 2026
-- Alte Utting, Munich — Fri, 1 May 2026
+- Goldener Reiter, Munich · Sat, 12 Sept 2026
+- Amari Bar, Munich · Sat, 15 Aug 2026
+- Praterinsel, Munich · Sat, 25 Jul 2026
+- Aahhh Rooftop, Munich · Sat, 13 Jun 2026
+- Lieberscholli, Munich · Thu, 4 Jun 2026
+- Goldener Reiter, Munich · Fri, 29 May 2026
+- TBA - SKATEHALLE / Dachauer Str. 110, Munich · Sat, 23 May 2026
+- Alte Utting, Munich · Fri, 1 May 2026
 
 ## Shares bills with
 

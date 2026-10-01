@@ -1,8 +1,8 @@
 # Chiara Fucci
 
-Chiara Fucci is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
+Chiara Fucci is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
 
-Chiara Fucci is a techno and house artist based in Germany, tracked on soundcheck, with 6 sets logged across Basel, Berlin, Freiburg and Stuttgart. Often billed alongside DJ PayPaul, FLEXTASY and KEN (DE). Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
+Chiara Fucci is a techno and house artist based in Germany, with 6 gigs on soundcheck across Basel, Berlin, Freiburg and Stuttgart. Often billed alongside DJ PayPaul, FLEXTASY and KEN (DE). Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,9 +14,9 @@ Chiara Fucci is a techno and house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- KitKatClub, Berlin — Fri, 24 Apr 2026
-- Proton the Club, Stuttgart — Fri, 13 Mar 2026
-- OST, Berlin — Sat, 3 Jan 2026
+- KitKatClub, Berlin · Fri, 24 Apr 2026
+- Proton the Club, Stuttgart · Fri, 13 Mar 2026
+- OST, Berlin · Sat, 3 Jan 2026
 
 ## Shares bills with
 

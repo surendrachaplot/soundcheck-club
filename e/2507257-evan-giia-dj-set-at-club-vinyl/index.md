@@ -1,6 +1,6 @@
 # Evan Giia (DJ Set) at Club Vinyl
 
-Evan Giia (DJ Set) at Club Vinyl on Fri 9 Oct, Denver. House and Pop. Preview the line-up and save it on soundcheck.
+Evan Giia (DJ Set) at Club Vinyl on Fri 9 Oct, Denver. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

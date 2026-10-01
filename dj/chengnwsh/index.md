@@ -1,8 +1,8 @@
 # cheng nwsh
 
-cheng nwsh is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OHM, Berlin on Fri, 9 Oct 2026.
+cheng nwsh is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OHM, Berlin on Fri, 9 Oct 2026.
 
-cheng nwsh is a bass and techno artist based in China, tracked on soundcheck, with 39 sets logged across Berlin, Copenhagen, Leipzig and Melbourne. Often billed alongside DJ Carlita, Ben Sleia and Low End Activist. Next up: OHM, Berlin on Fri 9 Oct.
+cheng nwsh is a bass and techno artist based in China, with 39 gigs on soundcheck across Berlin, Copenhagen, Leipzig and Melbourne. Often billed alongside DJ Carlita, Ben Sleia and Low End Activist. Next up: OHM, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ cheng nwsh is a bass and techno artist based in China, tracked on soundcheck, wi
 
 ## Recently played
 
-- Giri, Berlin — Fri, 31 Jul 2026
-- OHM, Berlin — Fri, 6 Feb 2026
-- OHM, Berlin — Sat, 6 Dec 2025
-- Tresor / Globus, Berlin — Wed, 12 Nov 2025
-- Solid, Berlin — Sat, 4 Oct 2025
-- Tresor / Globus, Berlin — Wed, 25 Jun 2025
-- Tresor / Globus, Berlin — Wed, 28 May 2025
-- Fitzroy, Berlin — Thu, 1 May 2025
+- Giri, Berlin · Fri, 31 Jul 2026
+- OHM, Berlin · Fri, 6 Feb 2026
+- OHM, Berlin · Sat, 6 Dec 2025
+- Tresor / Globus, Berlin · Wed, 12 Nov 2025
+- Solid, Berlin · Sat, 4 Oct 2025
+- Tresor / Globus, Berlin · Wed, 25 Jun 2025
+- Tresor / Globus, Berlin · Wed, 28 May 2025
+- Fitzroy, Berlin · Thu, 1 May 2025
 
 ## Shares bills with
 

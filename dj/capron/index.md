@@ -1,8 +1,8 @@
 # Capron
 
-Capron is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat, 24 Oct 2026.
+Capron is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat, 24 Oct 2026.
 
-Capron is a house and tech house artist based in Netherlands, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, London and Rotterdam and 1 more. Often billed alongside Stef Davidse, AAT (NL) and ACA (YU). Next up: TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat 24 Oct.
+Capron is a house and tech house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Barcelona, London and Rotterdam and 1 more. Often billed alongside Stef Davidse, AAT (NL) and ACA (YU). Next up: TBA - AMSTERDAM BARBER COMPANY, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Capron is a house and tech house artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
-- Toffler, Rotterdam — Sat, 5 Sept 2026
-- Yellow House, Amsterdam — Fri, 4 Sept 2026
-- E1, London — Fri, 21 Aug 2026
-- Thuishaven, Amsterdam — Sun, 16 Aug 2026
-- Shelter Amsterdam, Amsterdam — Fri, 14 Aug 2026
-- Hembrugterrein, Amsterdam — Sat, 11 Jul 2026
-- Atlantic Club, Barcelona — Thu, 18 Jun 2026
-- Basement, Amsterdam — Sat, 6 Jun 2026
+- Toffler, Rotterdam · Sat, 5 Sept 2026
+- Yellow House, Amsterdam · Fri, 4 Sept 2026
+- E1, London · Fri, 21 Aug 2026
+- Thuishaven, Amsterdam · Sun, 16 Aug 2026
+- Shelter Amsterdam, Amsterdam · Fri, 14 Aug 2026
+- Hembrugterrein, Amsterdam · Sat, 11 Jul 2026
+- Atlantic Club, Barcelona · Thu, 18 Jun 2026
+- Basement, Amsterdam · Sat, 6 Jun 2026
 
 ## Shares bills with
 

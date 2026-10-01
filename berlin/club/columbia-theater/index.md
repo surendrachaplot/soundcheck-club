@@ -1,8 +1,8 @@
 # Columbia Theater
 
-Columbia Theater is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "TWO LANES" on Fri, 2 Oct 2026.
+Columbia Theater is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TWO LANES" on Fri, 2 Oct 2026.
 
-Columbia Theater is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including TWO LANES. Browse upcoming dates, start times and who's playing. Columbiadamm 9-11, 10965 Berlin, Germany.
+Columbia Theater is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including TWO LANES. See dates, start times and who's playing. Columbiadamm 9-11, 10965 Berlin, Germany.
 
 ## What's on
 

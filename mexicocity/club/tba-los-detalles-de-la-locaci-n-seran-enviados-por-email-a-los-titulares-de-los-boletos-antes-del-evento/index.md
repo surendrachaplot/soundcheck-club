@@ -1,8 +1,8 @@
 # TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento
 
-TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "DAAT - Satoshi Tomiie & Friends" on Sun, 4 Oct 2026.
+TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "DAAT - Satoshi Tomiie & Friends" on Sun, 4 Oct 2026.
 
-TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Gallō, Louie Fresco, Mejia and Phanta and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Gallō, Louie Fresco, Mejia and Phanta and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

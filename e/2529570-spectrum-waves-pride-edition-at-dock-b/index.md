@@ -1,6 +1,6 @@
 # Spectrum Waves: Pride edition at DOCK B
 
-Spectrum Waves: Pride edition at DOCK B on Sat 3 Oct, Paris. Techno and House. Preview the line-up and save it on soundcheck.
+Spectrum Waves: Pride edition at DOCK B on Sat 3 Oct, Paris. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

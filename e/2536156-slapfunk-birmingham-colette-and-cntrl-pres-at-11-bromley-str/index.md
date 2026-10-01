@@ -1,6 +1,6 @@
 # Slapfunk Birmingham - Colette and CNTRL Pres at 11 Bromley Street
 
-Slapfunk Birmingham - Colette and CNTRL Pres at 11 Bromley Street on Sat 12 Dec, Birmingham. House and Minimal. Preview the line-up and save it on soundcheck.
+Slapfunk Birmingham - Colette and CNTRL Pres at 11 Bromley Street on Sat 12 Dec, Birmingham. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VENJENT ∞ ROXY Prague at Roxy
 
-VENJENT ∞ ROXY Prague at Roxy on Mon 23 Nov, Prague. Drum & Bass. Preview the line-up and save it on soundcheck.
+VENJENT ∞ ROXY Prague at Roxy on Mon 23 Nov, Prague. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

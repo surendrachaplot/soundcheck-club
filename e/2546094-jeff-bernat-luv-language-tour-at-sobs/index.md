@@ -1,6 +1,6 @@
 # Jeff Bernat - Luv Language Tour at SOBs
 
-Jeff Bernat - Luv Language Tour at SOBs on Tue 6 Oct, New York City. R&B. Preview the line-up and save it on soundcheck.
+Jeff Bernat - Luv Language Tour at SOBs on Tue 6 Oct, New York City. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

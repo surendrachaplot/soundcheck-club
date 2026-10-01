@@ -1,6 +1,6 @@
 # Halloween Party at Motorista Studio
 
-Halloween Party at Motorista Studio on Sat 31 Oct, Toronto. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Halloween Party at Motorista Studio on Sat 31 Oct, Toronto. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

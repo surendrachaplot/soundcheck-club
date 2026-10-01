@@ -1,6 +1,6 @@
 # Invited with Nikiija , Matt Blue , Cosmokat , Timeless Moments at Club Frau Holle
 
-Invited with Nikiija , Matt Blue , Cosmokat , Timeless Moments at Club Frau Holle on Sat 3 Oct, Hamburg. 4 artists on the bill: Cosmokat, DIESEN, Nikiija and Timeless Moments. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Invited with Nikiija , Matt Blue , Cosmokat , Timeless Moments at Club Frau Holle on Sat 3 Oct, Hamburg. 4 artists: Cosmokat, DIESEN, Nikiija and Timeless Moments. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

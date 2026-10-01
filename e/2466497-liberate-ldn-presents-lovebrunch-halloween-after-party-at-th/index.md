@@ -1,6 +1,6 @@
 # Liberate LDN presents: Lovebrunch Halloween After Party at The North Pole Greenwich
 
-Liberate LDN presents: Lovebrunch Halloween After Party at The North Pole Greenwich on Sat 31 Oct, London. House. Preview the line-up and save it on soundcheck.
+Liberate LDN presents: Lovebrunch Halloween After Party at The North Pole Greenwich on Sat 31 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

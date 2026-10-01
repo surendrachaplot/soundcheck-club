@@ -1,8 +1,8 @@
 # Damiano von Erckert
 
-Damiano von Erckert is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Sat, 7 Nov 2026.
+Damiano von Erckert is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 7 Nov 2026.
 
-Damiano von Erckert is a house and techno artist based in Germany, tracked on soundcheck, with 43 sets logged across Barcelona, Berlin, Cologne and Düsseldorf and 12 more. Often billed alongside Sven Vath, Maurizio Schmitz and Ana Molina. Next up: OXI, Berlin on Sat 7 Nov.
+Damiano von Erckert is a house and techno artist based in Germany, with 43 gigs on soundcheck across Barcelona, Berlin, Cologne and Düsseldorf and 12 more. Often billed alongside Sven Vath, Maurizio Schmitz and Ana Molina. Next up: OXI, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Damiano von Erckert is a house and techno artist based in Germany, tracked on so
 
 ## Recently played
 
-- Studio 1111, Berlin — Wed, 9 Sept 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Thu, 25 Jun 2026
-- Prince Charles, Berlin — Fri, 1 May 2026
-- Supermarket, Zurich — Wed, 31 Dec 2025
-- JAKI, Cologne — Sat, 20 Dec 2025
-- Studio1111, Berlin — Sat, 22 Nov 2025
-- Gewölbe, Cologne — Sat, 11 Oct 2025
-- King Size Bar, Berlin — Sat, 20 Sept 2025
+- Studio 1111, Berlin · Wed, 9 Sept 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Thu, 25 Jun 2026
+- Prince Charles, Berlin · Fri, 1 May 2026
+- Supermarket, Zurich · Wed, 31 Dec 2025
+- JAKI, Cologne · Sat, 20 Dec 2025
+- Studio1111, Berlin · Sat, 22 Nov 2025
+- Gewölbe, Cologne · Sat, 11 Oct 2025
+- King Size Bar, Berlin · Sat, 20 Sept 2025
 
 ## Shares bills with
 

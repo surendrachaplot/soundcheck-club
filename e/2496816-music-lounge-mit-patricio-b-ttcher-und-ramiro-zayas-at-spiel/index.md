@@ -1,6 +1,6 @@
 # Music Lounge mit Patricio Böttcher und Ramiro Zayas at Spielbank Berlin am Potsdamer Platz
 
-Music Lounge mit Patricio Böttcher und Ramiro Zayas at Spielbank Berlin am Potsdamer Platz on Wed 28 Oct, Berlin. Jazz and Pop. Preview the line-up and save it on soundcheck.
+Music Lounge mit Patricio Böttcher und Ramiro Zayas at Spielbank Berlin am Potsdamer Platz on Wed 28 Oct, Berlin. Jazz and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

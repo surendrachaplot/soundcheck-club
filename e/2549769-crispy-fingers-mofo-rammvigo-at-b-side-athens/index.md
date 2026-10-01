@@ -1,6 +1,6 @@
 # crispy fingers / MoFo /Rammvigo at B side Athens
 
-crispy fingers / MoFo /Rammvigo at B side Athens on Fri 2 Oct, Athens. 2 artists on the bill: crispy fingers and Rammvigo. Preview the line-up and save it on soundcheck.
+crispy fingers / MoFo /Rammvigo at B side Athens on Fri 2 Oct, Athens. 2 artists: crispy fingers and Rammvigo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

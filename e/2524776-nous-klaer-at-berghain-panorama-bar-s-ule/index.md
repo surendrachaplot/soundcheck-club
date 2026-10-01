@@ -1,6 +1,6 @@
 # Nous'klaer at Berghain | Panorama Bar | Säule
 
-Nous'klaer at Berghain | Panorama Bar | Säule on Thu 22 Oct, Berlin. 3 artists on the bill: Nikos (live), Oberman and Thaïs (FR). Preview the line-up and save it on soundcheck.
+Nous'klaer at Berghain | Panorama Bar | Säule on Thu 22 Oct, Berlin. 3 artists: Nikos (live), Oberman and Thaïs (FR). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

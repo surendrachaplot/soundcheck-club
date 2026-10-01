@@ -1,6 +1,6 @@
 # aya & Ikonika & Kode9 at Karlstorbahnhof
 
-aya & Ikonika & Kode9 at Karlstorbahnhof on Fri 16 Oct, Heidelberg. 3 artists on the bill: aya, Ikonika and Kode9. Preview the line-up and save it on soundcheck.
+aya & Ikonika & Kode9 at Karlstorbahnhof on Fri 16 Oct, Heidelberg. 3 artists: aya, Ikonika and Kode9. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

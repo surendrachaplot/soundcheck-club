@@ -1,6 +1,6 @@
 # Celebration of Life at Trix
 
-Celebration of Life at Trix on Sat 10 Oct, Antwerp. 8 artists on the bill: DJNO, DOUBLE P, Drazzit and I. JORDAN and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Celebration of Life at Trix on Sat 10 Oct, Antwerp. 8 artists: DJNO, DOUBLE P, Drazzit and I. JORDAN and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # oksional: Tyler Ross at Mothership
 
-oksional: Tyler Ross at Mothership on Thu 5 Nov, San Francisco/Oakland. House and Disco. Preview the line-up and save it on soundcheck.
+oksional: Tyler Ross at Mothership on Thu 5 Nov, San Francisco/Oakland. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

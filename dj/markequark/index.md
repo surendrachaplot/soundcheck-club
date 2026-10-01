@@ -1,8 +1,8 @@
 # Mark E Quark
 
-Mark E Quark is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Quartyard, San Diego on Sun, 4 Oct 2026.
+Mark E Quark is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Quartyard, San Diego on Sun, 4 Oct 2026.
 
-Mark E Quark is a house and disco artist based in United States of America, tracked on soundcheck, with 21 sets logged across New York City, San Diego, San Francisco/Oakland and Seattle. Often billed alongside Eric Leonardis, Matthew Brian and starfari. Next up: Quartyard, San Diego on Sun 4 Oct.
+Mark E Quark is a house and disco artist based in United States of America, with 21 gigs on soundcheck across New York City, San Diego, San Francisco/Oakland and Seattle. Often billed alongside Eric Leonardis, Matthew Brian and starfari. Next up: Quartyard, San Diego on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mark E Quark is a house and disco artist based in United States of America, trac
 
 ## Recently played
 
-- The Air Conditioned Lounge, San Diego — Fri, 10 Jul 2026
-- Signal, New York City — Thu, 30 Apr 2026
-- Office Bar, San Diego — Wed, 25 Mar 2026
-- Kiku Room, San Diego — Sat, 14 Mar 2026
-- Kiku Room, San Diego — Sat, 14 Feb 2026
-- Vin de Syrah, San Diego — Sat, 8 Nov 2025
-- The Air Conditioned Lounge, San Diego — Fri, 31 Oct 2025
-- F8 1192 Folsom, San Francisco/Oakland — Wed, 22 Oct 2025
+- The Air Conditioned Lounge, San Diego · Fri, 10 Jul 2026
+- Signal, New York City · Thu, 30 Apr 2026
+- Office Bar, San Diego · Wed, 25 Mar 2026
+- Kiku Room, San Diego · Sat, 14 Mar 2026
+- Kiku Room, San Diego · Sat, 14 Feb 2026
+- Vin de Syrah, San Diego · Sat, 8 Nov 2025
+- The Air Conditioned Lounge, San Diego · Fri, 31 Oct 2025
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 22 Oct 2025
 
 ## Shares bills with
 

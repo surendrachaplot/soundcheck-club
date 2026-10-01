@@ -1,6 +1,6 @@
 # CircoLoco Ibiza - Week 24 at DC-10
 
-CircoLoco Ibiza - Week 24 at DC-10 on Mon 5 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+CircoLoco Ibiza - Week 24 at DC-10 on Mon 5 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

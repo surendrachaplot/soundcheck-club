@@ -1,6 +1,6 @@
 # NOKTURN at Mastak
 
-NOKTURN at Mastak on Sat 7 Nov, Warsaw. 5 artists on the bill: Inhaberin, Pean, Salat and sporra and 1 more. Techno. Preview the line-up and save it on soundcheck.
+NOKTURN at Mastak on Sat 7 Nov, Warsaw. 5 artists: Inhaberin, Pean, Salat and sporra and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # TBA - SECRET DOWNTOWN LOCATION
 
-TBA - SECRET DOWNTOWN LOCATION is a music venue in Porto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SUMMER GONE FRIDAY 2ND" on Fri, 2 Oct 2026.
+TBA - SECRET DOWNTOWN LOCATION is a music venue in Porto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SUMMER GONE FRIDAY 2ND" on Fri, 2 Oct 2026.
 
-TBA - SECRET DOWNTOWN LOCATION is a music venue in Porto listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
+TBA - SECRET DOWNTOWN LOCATION is a music venue in Porto listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Sankeys Saturdays at Sankeys
 
-Sankeys Saturdays on Sat 21 Nov, Manchester. 2 artists on the bill: Jaden Thompson and Pirate Copy. House. Preview the line-up and save it on soundcheck.
+Sankeys Saturdays on Sat 21 Nov, Manchester. 2 artists: Jaden Thompson and Pirate Copy. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

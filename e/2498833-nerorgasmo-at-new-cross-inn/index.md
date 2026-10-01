@@ -1,6 +1,6 @@
 # Nerorgasmo at New Cross Inn
 
-Nerorgasmo at New Cross Inn on Fri 23 Oct, London. Hardcore. Preview the line-up and save it on soundcheck.
+Nerorgasmo at New Cross Inn on Fri 23 Oct, London. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

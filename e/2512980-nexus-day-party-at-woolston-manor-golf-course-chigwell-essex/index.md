@@ -1,6 +1,6 @@
 # NEXUS DAY PARTY at Woolston Manor Golf Course Chigwell Essex IG7 6BX
 
-NEXUS DAY PARTY at Woolston Manor Golf Course Chigwell Essex IG7 6BX on Sun 18 Oct, London. House and R&B. Preview the line-up and save it on soundcheck.
+NEXUS DAY PARTY at Woolston Manor Golf Course Chigwell Essex IG7 6BX on Sun 18 Oct, London. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

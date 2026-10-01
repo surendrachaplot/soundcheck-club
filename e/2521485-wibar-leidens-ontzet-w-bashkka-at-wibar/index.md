@@ -1,6 +1,6 @@
 # Wibar Leidens Ontzet w/BASHKKA at Wibar
 
-Wibar Leidens Ontzet w/BASHKKA on Sat 3 Oct, Netherlands. 3 artists on the bill: angelboy, BASHKKA and Valody. Preview the line-up and save it on soundcheck.
+Wibar Leidens Ontzet w/BASHKKA on Sat 3 Oct, Netherlands. 3 artists: angelboy, BASHKKA and Valody. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FMS 6 Deck - London at Phonox
 
-FMS 6 Deck - London at Phonox on Sat 31 Oct, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+FMS 6 Deck - London at Phonox on Sat 31 Oct, London. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

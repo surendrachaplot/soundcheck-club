@@ -1,8 +1,8 @@
 # Speaker Music
 
-Speaker Music is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Viff Centre, Vancouver on Fri, 2 Oct 2026.
+Speaker Music is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Viff Centre, Vancouver on Fri, 2 Oct 2026.
 
-Speaker Music is an experimental and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across London, Los Angeles, Manchester and New York City and 4 more. Often billed alongside Endgame, Kode9 and MIIIA. Next up: Viff Centre, Vancouver on Fri 2 Oct.
+Speaker Music is an experimental and techno artist based in United States of America, with 13 gigs on soundcheck across London, Los Angeles, Manchester and New York City and 4 more. Often billed alongside Endgame, Kode9 and MIIIA. Next up: Viff Centre, Vancouver on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Speaker Music is an experimental and techno artist based in United States of Ame
 
 ## Recently played
 
-- KW Studios, Vancouver — Sat, 22 Aug 2026
-- TBA - Multiple Venues , The Hague — Thu, 9 Apr 2026
-- TBA - Various Venues, Vancouver — Wed, 19 Nov 2025
-- Dublab, Los Angeles — Wed, 18 Jun 2025
-- KW Studios, Vancouver — Sat, 16 Nov 2024
-- Phoenix Central Park, Sydney — Wed, 28 Aug 2024
-- TBA - Vancouver, Vancouver — Fri, 5 Jul 2024
-- N/OM, Manchester — Thu, 18 Jan 2024
+- KW Studios, Vancouver · Sat, 22 Aug 2026
+- TBA - Multiple Venues , The Hague · Thu, 9 Apr 2026
+- TBA - Various Venues, Vancouver · Wed, 19 Nov 2025
+- Dublab, Los Angeles · Wed, 18 Jun 2025
+- KW Studios, Vancouver · Sat, 16 Nov 2024
+- Phoenix Central Park, Sydney · Wed, 28 Aug 2024
+- TBA - Vancouver, Vancouver · Fri, 5 Jul 2024
+- N/OM, Manchester · Thu, 18 Jan 2024
 
 ## Shares bills with
 

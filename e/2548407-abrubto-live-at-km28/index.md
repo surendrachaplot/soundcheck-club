@@ -1,6 +1,6 @@
 # Abrubto live at KM28
 
-Abrubto live at KM28 on Wed 7 Oct, Berlin. Experimental. Preview the line-up and save it on soundcheck.
+Abrubto live at KM28 on Wed 7 Oct, Berlin. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

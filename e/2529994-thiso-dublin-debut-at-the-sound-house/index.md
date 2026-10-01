@@ -1,6 +1,6 @@
 # THISO - DUBLIN DEBUT at The Sound House
 
-THISO - DUBLIN DEBUT at The Sound House on Sat 3 Oct, Dublin. 1 artist on the bill: THISO. Trance and Techno. Preview the line-up and save it on soundcheck.
+THISO - DUBLIN DEBUT at The Sound House on Sat 3 Oct, Dublin. 1 artist: THISO. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CIAO. Discoteca Italiana at Apollo Club Milano
 
-CIAO. Discoteca Italiana at Apollo Club Milano on Fri 2 Oct, Milan. Italo Disco. Preview the line-up and save it on soundcheck.
+CIAO. Discoteca Italiana at Apollo Club Milano on Fri 2 Oct, Milan. Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

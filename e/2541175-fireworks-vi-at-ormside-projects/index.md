@@ -1,6 +1,6 @@
 # FIREWORKS VI at Ormside Projects
 
-FIREWORKS VI at Ormside Projects on Sun 8 Nov, London. Preview the line-up and save it on soundcheck.
+FIREWORKS VI at Ormside Projects on Sun 8 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

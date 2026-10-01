@@ -1,6 +1,6 @@
 # Fi Di Gyal Dem at Parallel
 
-Fi Di Gyal Dem at Parallel on Fri 30 Oct, Amsterdam. Dancehall and Dembow. Preview the line-up and save it on soundcheck.
+Fi Di Gyal Dem at Parallel on Fri 30 Oct, Amsterdam. Dancehall and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

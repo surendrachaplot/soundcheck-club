@@ -1,6 +1,6 @@
 # Balkana x Mirano at Mirano
 
-Balkana x Mirano on Fri 2 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Balkana x Mirano on Fri 2 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

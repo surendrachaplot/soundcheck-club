@@ -1,8 +1,8 @@
 # Yagi(1)
 
-Yagi(1) is a Hardcore and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
+Yagi(1) is a Hardcore and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Ankara on Sat, 3 Oct 2026.
 
-Yagi(1) is a hardcore and techno artist tracked on soundcheck, with 3 sets logged across Ankara and Istanbul. Often billed alongside KCGZ, Afem Syko and BIIANCO. Next up: TBA, Ankara on Sat 3 Oct.
+Yagi(1) is a hardcore and techno artist, with 3 gigs on soundcheck across Ankara and Istanbul. Often billed alongside KCGZ, Afem Syko and BIIANCO. Next up: TBA, Ankara on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ Yagi(1) is a hardcore and techno artist tracked on soundcheck, with 3 sets logge
 
 ## Recently played
 
-- 74 Hall, Istanbul — Wed, 22 Apr 2026
+- 74 Hall, Istanbul · Wed, 22 Apr 2026
 
 ## Shares bills with
 

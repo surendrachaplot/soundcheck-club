@@ -1,6 +1,6 @@
 # SOUL HEAVEN at O Beach
 
-SOUL HEAVEN at O Beach on Sat 3 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+SOUL HEAVEN at O Beach on Sat 3 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

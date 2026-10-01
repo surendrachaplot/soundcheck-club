@@ -1,8 +1,8 @@
 # ZARE
 
-ZARE is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+ZARE is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-ZARE is a house and tech house artist based in Germany, tracked on soundcheck, with 25 sets logged across Amsterdam, Cologne, Lisbon and Munich and 2 more. Often billed alongside Black Box, Unseen. and Papi Joe. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+ZARE is a house and tech house artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Cologne, Lisbon and Munich and 2 more. Often billed alongside Black Box, Unseen. and Papi Joe. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ ZARE is a house and tech house artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- Park Café München, Munich — Thu, 24 Sept 2026
-- Gasteig, Munich — Sat, 12 Sept 2026
-- Lieberscholli, Munich — Fri, 28 Aug 2026
-- Lieberscholli, Munich — Thu, 25 Jun 2026
-- Lieberscholli, Munich — Sun, 14 Jun 2026
-- Schrotty, Cologne — Fri, 1 May 2026
-- Knock, Tokyo — Sat, 7 Feb 2026
-- Amsterdam Central Station, Amsterdam — Sat, 25 Oct 2025
+- Park Café München, Munich · Thu, 24 Sept 2026
+- Gasteig, Munich · Sat, 12 Sept 2026
+- Lieberscholli, Munich · Fri, 28 Aug 2026
+- Lieberscholli, Munich · Thu, 25 Jun 2026
+- Lieberscholli, Munich · Sun, 14 Jun 2026
+- Schrotty, Cologne · Fri, 1 May 2026
+- Knock, Tokyo · Sat, 7 Feb 2026
+- Amsterdam Central Station, Amsterdam · Sat, 25 Oct 2025
 
 ## Shares bills with
 

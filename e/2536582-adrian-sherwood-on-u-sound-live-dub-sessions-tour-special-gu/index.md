@@ -1,6 +1,6 @@
 # Adrian Sherwood (On-U Sound) Live Dub Sessions Tour + Special Guests at Standard Time
 
-Adrian Sherwood (On-U Sound) Live Dub Sessions Tour + Special Guests at Standard Time on Sun 4 Apr, Toronto. 1 artist on the bill: Adrian Sherwood. Preview the line-up and save it on soundcheck.
+Adrian Sherwood (On-U Sound) Live Dub Sessions Tour + Special Guests at Standard Time on Sun 4 Apr, Toronto. 1 artist: Adrian Sherwood. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

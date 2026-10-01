@@ -1,6 +1,6 @@
 # MAQUINA. (Fuzz Club / live) at Urban Spree
 
-MAQUINA. (Fuzz Club / live) at Urban Spree on Tue 20 Oct, Berlin. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+MAQUINA. (Fuzz Club / live) at Urban Spree on Tue 20 Oct, Berlin. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

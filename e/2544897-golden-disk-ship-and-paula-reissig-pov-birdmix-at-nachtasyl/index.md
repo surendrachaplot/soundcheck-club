@@ -1,6 +1,6 @@
 # Golden Diskó Ship and Paula Reissig: POV:BirdMix at Nachtasyl
 
-Golden Diskó Ship and Paula Reissig: POV:BirdMix at Nachtasyl on Thu 3 Dec, Hamburg. Pop. Preview the line-up and save it on soundcheck.
+Golden Diskó Ship and Paula Reissig: POV:BirdMix at Nachtasyl on Thu 3 Dec, Hamburg. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

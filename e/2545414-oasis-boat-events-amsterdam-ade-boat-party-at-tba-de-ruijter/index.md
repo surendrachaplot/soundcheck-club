@@ -1,6 +1,6 @@
 # Oasis Boat Events - Amsterdam ADE Boat Party at TBA - De Ruijterkade 14, Amsterdam 
 
-Oasis Boat Events - Amsterdam ADE Boat Party at TBA - De Ruijterkade 14, Amsterdam  on Sun 25 Oct, Amsterdam. 3 artists on the bill: charuso, NoMore and Sunday Soulman. House and Deep House. Preview the line-up and save it on soundcheck.
+Oasis Boat Events - Amsterdam ADE Boat Party at TBA - De Ruijterkade 14, Amsterdam  on Sun 25 Oct, Amsterdam. 3 artists: charuso, NoMore and Sunday Soulman. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

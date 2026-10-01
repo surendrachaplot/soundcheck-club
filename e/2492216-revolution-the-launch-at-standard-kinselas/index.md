@@ -1,6 +1,6 @@
 # Revolution - The Launch at Standard, Kinselas
 
-Revolution - The Launch at Standard, Kinselas on Sat 10 Oct, Sydney. Trance. Preview the line-up and save it on soundcheck.
+Revolution - The Launch at Standard, Kinselas on Sat 10 Oct, Sydney. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

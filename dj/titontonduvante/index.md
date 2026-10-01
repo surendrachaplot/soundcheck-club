@@ -1,8 +1,8 @@
 # Titonton Duvanté
 
-Titonton Duvanté is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Flash, Washington DC on Fri, 2 Oct 2026.
+Titonton Duvanté is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Flash, Washington DC on Fri, 2 Oct 2026.
 
-Titonton Duvanté is a house and techno artist based in United States of America, tracked on soundcheck, with 32 sets logged across Austin, Bangkok, Berlin and Boston and 10 more. Often billed alongside Mike Servito, Bryan Kasenic and DJ Stingray 313. Next up: Flash, Washington DC on Fri 2 Oct.
+Titonton Duvanté is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Austin, Bangkok, Berlin and Boston and 10 more. Often billed alongside Mike Servito, Bryan Kasenic and DJ Stingray 313. Next up: Flash, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Titonton Duvanté is a house and techno artist based in United States of America
 
 ## Recently played
 
-- Good Room, New York City — Thu, 20 Aug 2026
-- Club der Visionaere, Berlin — Fri, 7 Aug 2026
-- The Loading Dock, Austin — Sat, 18 Apr 2026
-- Compufunk Records, Osaka — Sat, 14 Mar 2026
-- Bar Temp., Bangkok — Sat, 7 Mar 2026
-- Elsewhere, Bangkok — Sat, 7 Mar 2026
-- TBA - void, Philadelphia — Sat, 15 Nov 2025
-- Bossa Nova Civic Club, New York City — Fri, 14 Nov 2025
+- Good Room, New York City · Thu, 20 Aug 2026
+- Club der Visionaere, Berlin · Fri, 7 Aug 2026
+- The Loading Dock, Austin · Sat, 18 Apr 2026
+- Compufunk Records, Osaka · Sat, 14 Mar 2026
+- Bar Temp., Bangkok · Sat, 7 Mar 2026
+- Elsewhere, Bangkok · Sat, 7 Mar 2026
+- TBA - void, Philadelphia · Sat, 15 Nov 2025
+- Bossa Nova Civic Club, New York City · Fri, 14 Nov 2025
 
 ## Shares bills with
 

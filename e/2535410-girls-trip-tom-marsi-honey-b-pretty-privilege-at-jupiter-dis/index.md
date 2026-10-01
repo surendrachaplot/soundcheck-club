@@ -1,6 +1,6 @@
 # GIRLS TRIP: Tom Marsi, HONEY B, Pretty Privilege at Jupiter Disco
 
-GIRLS TRIP: Tom Marsi, HONEY B, Pretty Privilege at Jupiter Disco on Fri 9 Oct, New York City. 3 artists on the bill: HONEY B, Pretty Privilege and Tom Marsi. Preview the line-up and save it on soundcheck.
+GIRLS TRIP: Tom Marsi, HONEY B, Pretty Privilege at Jupiter Disco on Fri 9 Oct, New York City. 3 artists: HONEY B, Pretty Privilege and Tom Marsi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

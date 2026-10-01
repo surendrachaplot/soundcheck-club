@@ -1,6 +1,6 @@
 # Saturdaze at Bulbul Berlin
 
-Saturdaze at Bulbul Berlin on Sat 31 Oct, Berlin. House and Club. Preview the line-up and save it on soundcheck.
+Saturdaze at Bulbul Berlin on Sat 31 Oct, Berlin. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

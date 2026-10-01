@@ -1,6 +1,6 @@
 # SOTTOSUONO: Gene On Earth x DURO (1st Anniversary) at DURO
 
-SOTTOSUONO: Gene On Earth x DURO (1st Anniversary) on Fri 16 Oct, Milan. 3 artists on the bill: DJ Octopus, FilippoDiGiorno and Gene On Earth. House. Preview the line-up and save it on soundcheck.
+SOTTOSUONO: Gene On Earth x DURO (1st Anniversary) on Fri 16 Oct, Milan. 3 artists: DJ Octopus, FilippoDiGiorno and Gene On Earth. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

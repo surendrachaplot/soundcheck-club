@@ -1,6 +1,6 @@
 # Pop Mutations presents: Born At Midnite at The Glad Cafe
 
-Pop Mutations presents: Born At Midnite at The Glad Cafe on Thu 8 Oct, Glasgow. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Pop Mutations presents: Born At Midnite at The Glad Cafe on Thu 8 Oct, Glasgow. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

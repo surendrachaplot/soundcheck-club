@@ -1,6 +1,6 @@
 # ARMANA KHAN + Meg10 + Von Di + Saint Caboclo [03.10] Digital Destiny - LISBON at Moon Club
 
-ARMANA KHAN + Meg10 + Von Di + Saint Caboclo [03.10] Digital Destiny - LISBON at Moon Club on Sat 3 Oct, Lisbon. 6 artists on the bill: ARMANA KHAN, Meg10, Saint Caboclo and Sinnotsin and 2 more. Techno and Club. Preview the line-up and save it on soundcheck.
+ARMANA KHAN + Meg10 + Von Di + Saint Caboclo [03.10] Digital Destiny - LISBON at Moon Club on Sat 3 Oct, Lisbon. 6 artists: ARMANA KHAN, Meg10, Saint Caboclo and Sinnotsin and 2 more. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

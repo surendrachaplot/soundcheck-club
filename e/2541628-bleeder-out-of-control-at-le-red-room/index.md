@@ -1,6 +1,6 @@
 # BLEEDER: OUT OF CONTROL at Le Red Room
 
-BLEEDER: OUT OF CONTROL at Le Red Room on Sat 10 Oct, Montreal. Hardcore and Dubstep. Preview the line-up and save it on soundcheck.
+BLEEDER: OUT OF CONTROL at Le Red Room on Sat 10 Oct, Montreal. Hardcore and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

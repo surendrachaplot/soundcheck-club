@@ -1,8 +1,8 @@
 # Anatta Sound
 
-Anatta Sound is a Dub and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Rock n Roll Circus, Leeds on Sat, 31 Oct 2026.
+Anatta Sound is a Dub and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Rock n Roll Circus, Leeds on Sat, 31 Oct 2026.
 
-Anatta Sound is a dub and dubstep artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Leeds. Often billed alongside Buckley (UK), Being One and Gimme A Break. Next up: Rock n Roll Circus, Leeds on Sat 31 Oct.
+Anatta Sound is a dub and dubstep artist based in United Kingdom, with 9 gigs on soundcheck across Leeds. Often billed alongside Buckley (UK), Being One and Gimme A Break. Next up: Rock n Roll Circus, Leeds on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Anatta Sound is a dub and dubstep artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- The Hifi Club, Leeds — Thu, 24 Sept 2026
-- The Vinyl Whistle, Leeds — Sat, 19 Sept 2026
-- The Vinyl Whistle, Leeds — Sat, 14 Mar 2026
-- The Fenton, Leeds — Fri, 28 Feb 2025
-- The Old Red Bus Station, Leeds — Sat, 18 Jan 2025
-- The Old Red Bus Station, Leeds — Sat, 20 Apr 2024
-- The Old Red Bus Station, Leeds — Sat, 9 Sept 2023
-- The Old Red Bus Station, Leeds — Sat, 1 Jul 2023
+- The Hifi Club, Leeds · Thu, 24 Sept 2026
+- The Vinyl Whistle, Leeds · Sat, 19 Sept 2026
+- The Vinyl Whistle, Leeds · Sat, 14 Mar 2026
+- The Fenton, Leeds · Fri, 28 Feb 2025
+- The Old Red Bus Station, Leeds · Sat, 18 Jan 2025
+- The Old Red Bus Station, Leeds · Sat, 20 Apr 2024
+- The Old Red Bus Station, Leeds · Sat, 9 Sept 2023
+- The Old Red Bus Station, Leeds · Sat, 1 Jul 2023
 
 ## Shares bills with
 

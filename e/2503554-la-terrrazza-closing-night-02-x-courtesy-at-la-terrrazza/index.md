@@ -1,6 +1,6 @@
 # La Terrrazza Closing Night 02 x Courtesy at La Terrrazza
 
-La Terrrazza Closing Night 02 x Courtesy on Sat 10 Oct, Barcelona. 1 artist on the bill: Courtesy. Club and Electronica. Preview the line-up and save it on soundcheck.
+La Terrrazza Closing Night 02 x Courtesy on Sat 10 Oct, Barcelona. 1 artist: Courtesy. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

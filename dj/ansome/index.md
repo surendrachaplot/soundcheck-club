@@ -1,8 +1,8 @@
 # Ansome
 
-Ansome is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Sat, 7 Nov 2026.
+Ansome is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Sat, 7 Nov 2026.
 
-Ansome is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 8 more. Often billed alongside Perc, Somniac One and AnD. Next up: M.O.T, London on Sat 7 Nov.
+Ansome is a techno and industrial artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 8 more. Often billed alongside Perc, Somniac One and AnD. Next up: M.O.T, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ansome is a techno and industrial artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Levenslang Amsterdam, Amsterdam — Sat, 1 Aug 2026
-- BASIS, Utrecht — Fri, 19 Dec 2025
-- Tresor / Globus, Berlin — Sat, 12 Jul 2025
-- TBA, Glasgow — Fri, 13 Jun 2025
-- RADION, Amsterdam — Sat, 21 Sept 2024
-- VIERNULVIER, Ghent — Fri, 17 May 2024
-- Circolo Amelia, Milan — Sat, 23 Mar 2024
-- RADION, Amsterdam — Fri, 8 Mar 2024
+- Levenslang Amsterdam, Amsterdam · Sat, 1 Aug 2026
+- BASIS, Utrecht · Fri, 19 Dec 2025
+- Tresor / Globus, Berlin · Sat, 12 Jul 2025
+- TBA, Glasgow · Fri, 13 Jun 2025
+- RADION, Amsterdam · Sat, 21 Sept 2024
+- VIERNULVIER, Ghent · Fri, 17 May 2024
+- Circolo Amelia, Milan · Sat, 23 Mar 2024
+- RADION, Amsterdam · Fri, 8 Mar 2024
 
 ## Shares bills with
 

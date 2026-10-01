@@ -1,6 +1,6 @@
 # AESTHETIC X HYPERRAVE at Garagen
 
-AESTHETIC X HYPERRAVE at Garagen on Fri 20 Nov, Cologne. Techno. Preview the line-up and save it on soundcheck.
+AESTHETIC X HYPERRAVE at Garagen on Fri 20 Nov, Cologne. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

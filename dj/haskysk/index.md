@@ -1,8 +1,8 @@
 # Hasky (SK)
 
-Hasky (SK) is a Psytrance and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Radost Music Club, Bratislava on Fri, 2 Oct 2026.
+Hasky (SK) is a Psytrance and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Radost Music Club, Bratislava on Fri, 2 Oct 2026.
 
-Hasky (SK) is a psytrance and house artist based in Slovakia, tracked on soundcheck, with 5 sets logged across Bratislava and Prague. Often billed alongside Majsko, Ansea and Arturo Legorreta. Next up: Radost Music Club, Bratislava on Fri 2 Oct.
+Hasky (SK) is a psytrance and house artist based in Slovakia, with 5 gigs on soundcheck across Bratislava and Prague. Often billed alongside Majsko, Ansea and Arturo Legorreta. Next up: Radost Music Club, Bratislava on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,9 +13,9 @@ Hasky (SK) is a psytrance and house artist based in Slovakia, tracked on soundch
 
 ## Recently played
 
-- Roxy, Prague — Sat, 30 Aug 2025
-- Roxy, Prague — Sat, 22 Feb 2025
-- Storm Club, Prague — Fri, 16 Feb 2024
+- Roxy, Prague · Sat, 30 Aug 2025
+- Roxy, Prague · Sat, 22 Feb 2025
+- Storm Club, Prague · Fri, 16 Feb 2024
 
 ## Shares bills with
 

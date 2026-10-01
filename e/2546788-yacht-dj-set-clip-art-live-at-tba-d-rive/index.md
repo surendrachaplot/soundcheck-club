@@ -1,6 +1,6 @@
 # YACHT (DJ set) + Clip Art (live) at TBA - DÉRIVE
 
-YACHT (DJ set) + Clip Art (live) at TBA - DÉRIVE on Thu 8 Oct, Brussels. 1 artist on the bill: YACHT. Disco and New Wave. Preview the line-up and save it on soundcheck.
+YACHT (DJ set) + Clip Art (live) at TBA - DÉRIVE on Thu 8 Oct, Brussels. 1 artist: YACHT. Disco and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Toy Tonics Jam at Aahhh Rooftop
 
-Toy Tonics Jam at Aahhh Rooftop on Sat 24 Oct, Munich. 2 artists on the bill: Davide Dev and DJ Lolo. House and Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics Jam at Aahhh Rooftop on Sat 24 Oct, Munich. 2 artists: Davide Dev and DJ Lolo. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

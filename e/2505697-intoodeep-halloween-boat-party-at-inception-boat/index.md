@@ -1,6 +1,6 @@
 # InTooDeep - HALLOWEEN Boat Party at Inception Boat
 
-InTooDeep - HALLOWEEN Boat Party at Inception Boat on Sat 31 Oct, Sydney. House and Deep House. Preview the line-up and save it on soundcheck.
+InTooDeep - HALLOWEEN Boat Party at Inception Boat on Sat 31 Oct, Sydney. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

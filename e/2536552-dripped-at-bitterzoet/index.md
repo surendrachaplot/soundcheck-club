@@ -1,6 +1,6 @@
 # Dripped at Bitterzoet
 
-Dripped at Bitterzoet on Sat 3 Oct, Amsterdam. Baile Funk and Dancehall. Preview the line-up and save it on soundcheck.
+Dripped at Bitterzoet on Sat 3 Oct, Amsterdam. Baile Funk and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

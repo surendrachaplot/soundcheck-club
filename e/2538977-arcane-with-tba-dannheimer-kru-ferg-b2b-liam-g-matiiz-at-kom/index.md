@@ -1,6 +1,6 @@
 # Arcane with tba, Dannheimer [kru], Ferg b2b Liam G + Matiiz at komunal
 
-Arcane with tba, Dannheimer [kru], Ferg b2b Liam G + Matiiz at komunal on Sat 31 Oct, Birmingham. Electro and Acid. Preview the line-up and save it on soundcheck.
+Arcane with tba, Dannheimer [kru], Ferg b2b Liam G + Matiiz at komunal on Sat 31 Oct, Birmingham. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

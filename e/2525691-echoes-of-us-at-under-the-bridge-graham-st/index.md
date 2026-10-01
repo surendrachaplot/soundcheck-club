@@ -1,6 +1,6 @@
 # Echoes of Us at Under The Bridge, Graham ST
 
-Echoes of Us at Under The Bridge, Graham ST on Sat 7 Nov, Melbourne. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Echoes of Us at Under The Bridge, Graham ST on Sat 7 Nov, Melbourne. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

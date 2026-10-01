@@ -1,6 +1,6 @@
 # After Stand High Patrol : Mac Gyver SHP + Hmenou @ Petit Cab at Petit CAB
 
-After Stand High Patrol : Mac Gyver SHP + Hmenou @ Petit Cab at Petit CAB on Sun 4 Oct, Marseille. House and Dub. Preview the line-up and save it on soundcheck.
+After Stand High Patrol : Mac Gyver SHP + Hmenou @ Petit Cab at Petit CAB on Sun 4 Oct, Marseille. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

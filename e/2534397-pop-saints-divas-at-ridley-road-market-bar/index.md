@@ -1,6 +1,6 @@
 # POP SAINTS: DIVAS at Ridley Road Market Bar
 
-POP SAINTS: DIVAS at Ridley Road Market Bar on Thu 22 Oct, London. Disco and Pop. Preview the line-up and save it on soundcheck.
+POP SAINTS: DIVAS at Ridley Road Market Bar on Thu 22 Oct, London. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # #round2 – Nyokabi Kariũki at Kölner Philharmonie
 
-#round2 – Nyokabi Kariũki at Kölner Philharmonie on Thu 26 Nov, Cologne. 1 artist on the bill: Nyokabi Kariũki. Experimental. Preview the line-up and save it on soundcheck.
+#round2 – Nyokabi Kariũki at Kölner Philharmonie on Thu 26 Nov, Cologne. 1 artist: Nyokabi Kariũki. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

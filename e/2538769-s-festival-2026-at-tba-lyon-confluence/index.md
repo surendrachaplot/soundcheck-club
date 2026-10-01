@@ -1,6 +1,6 @@
 # S festival 2026 at TBA - Lyon - Confluence
 
-S festival 2026 at TBA - Lyon - Confluence on Wed 9 Dec, Lyon. 23 artists on the bill: Cassius, Chuimix, David August and Dj Babatr and 19 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+S festival 2026 at TBA - Lyon - Confluence on Wed 9 Dec, Lyon. 23 artists: Cassius, Chuimix, David August and Dj Babatr and 19 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Pawlowski at Strand DC
 
-Pawlowski at Strand DC on Sat 3 Oct, Washington DC. 1 artist on the bill: Pawlowski. Techno. Preview the line-up and save it on soundcheck.
+Pawlowski at Strand DC on Sat 3 Oct, Washington DC. 1 artist: Pawlowski. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

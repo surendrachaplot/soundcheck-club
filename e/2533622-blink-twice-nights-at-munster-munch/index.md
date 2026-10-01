@@ -1,6 +1,6 @@
 # Blink Twice Nights at Munster Munch
 
-Blink Twice Nights at Munster Munch on Sat 24 Oct, London. 3 artists on the bill: Blink Twice, Houdinyx and Picep. House and Tech House. Preview the line-up and save it on soundcheck.
+Blink Twice Nights at Munster Munch on Sat 24 Oct, London. 3 artists: Blink Twice, Houdinyx and Picep. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

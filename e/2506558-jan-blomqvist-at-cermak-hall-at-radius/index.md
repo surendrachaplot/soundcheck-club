@@ -1,6 +1,6 @@
 # Jan Blomqvist at Cermak Hall at Radius
 
-Jan Blomqvist at Cermak Hall at Radius on Sat 17 Oct, Chicago. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Jan Blomqvist at Cermak Hall at Radius on Sat 17 Oct, Chicago. Deep House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

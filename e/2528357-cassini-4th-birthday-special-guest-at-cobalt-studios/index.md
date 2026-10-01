@@ -1,6 +1,6 @@
 # Cassini 4th Birthday + Special Guest at Cobalt Studios
 
-Cassini 4th Birthday + Special Guest at Cobalt Studios on Sat 28 Nov, Newcastle. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Cassini 4th Birthday + Special Guest at Cobalt Studios on Sat 28 Nov, Newcastle. Tech House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

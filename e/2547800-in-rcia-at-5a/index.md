@@ -1,6 +1,6 @@
 # Inércia at 5A
 
-Inércia at 5A on Thu 29 Oct, Lisbon. 2 artists on the bill: Nibius and Pitcho. Preview the line-up and save it on soundcheck.
+Inércia at 5A on Thu 29 Oct, Lisbon. 2 artists: Nibius and Pitcho. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

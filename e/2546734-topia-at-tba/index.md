@@ -1,6 +1,6 @@
 # Topia at TBA - シークレットロケーション 千葉県外房
 
-Topia at TBA - シークレットロケーション 千葉県外房 on Sat 24 Oct, Tokyo. 4 artists on the bill: Evian Christ, FELINE (JP), Pointhope and Vís. Trance and Techno. Preview the line-up and save it on soundcheck.
+Topia at TBA - シークレットロケーション 千葉県外房 on Sat 24 Oct, Tokyo. 4 artists: Evian Christ, FELINE (JP), Pointhope and Vís. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

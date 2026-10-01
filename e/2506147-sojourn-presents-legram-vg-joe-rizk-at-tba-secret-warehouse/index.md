@@ -1,6 +1,6 @@
 # Sojourn presents: LEGRAM VG & Joe Rizk at TBA - Secret Warehouse Location
 
-Sojourn presents: LEGRAM VG & Joe Rizk at TBA - Secret Warehouse Location on Sat 10 Oct, Boston. 2 artists on the bill: Joe Rizk and LEGRAM VG. Techno and House. Preview the line-up and save it on soundcheck.
+Sojourn presents: LEGRAM VG & Joe Rizk at TBA - Secret Warehouse Location on Sat 10 Oct, Boston. 2 artists: Joe Rizk and LEGRAM VG. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

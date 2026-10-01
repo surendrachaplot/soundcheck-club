@@ -1,6 +1,6 @@
 # Micelio Sound - 10 hours Montagnetta Open Air at Anfiteatro Monte Stella
 
-Micelio Sound - 10 hours Montagnetta Open Air at Anfiteatro Monte Stella on Sat 3 Oct, Milan. 4 artists on the bill: Cristian Comes, Dogs I Know, Known Artist and RTGL. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Micelio Sound - 10 hours Montagnetta Open Air at Anfiteatro Monte Stella on Sat 3 Oct, Milan. 4 artists: Cristian Comes, Dogs I Know, Known Artist and RTGL. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # SHERELLE
 
-SHERELLE is a Jungle and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Process PDX, Portland on Thu, 1 Oct 2026.
+SHERELLE is a Jungle and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Process PDX, Portland on Thu, 1 Oct 2026.
 
-SHERELLE is a jungle and techno artist based in United Kingdom, tracked on soundcheck, with 184 sets logged across Aberdeen, Amsterdam, Antwerp and Atlanta and 54 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Process PDX, Portland on Thu 1 Oct.
+SHERELLE is a jungle and techno artist based in United Kingdom, with 184 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Atlanta and 54 more. Often billed alongside I. JORDAN, Special Request and Job Jobse. Next up: Process PDX, Portland on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ SHERELLE is a jungle and techno artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- The Ground at Club Space, Miami — Fri, 25 Sept 2026
-- Le Molodoi, Strasbourg — Fri, 11 Sept 2026
-- The Carpet Shop, London — Thu, 10 Sept 2026
-- The White Hotel, Manchester — Sat, 5 Sept 2026
-- Burgess Park, London — Sat, 15 Aug 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
-- Burgess Park, London — Sat, 8 Aug 2026
-- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
+- The Ground at Club Space, Miami · Fri, 25 Sept 2026
+- Le Molodoi, Strasbourg · Fri, 11 Sept 2026
+- The Carpet Shop, London · Thu, 10 Sept 2026
+- The White Hotel, Manchester · Sat, 5 Sept 2026
+- Burgess Park, London · Sat, 15 Aug 2026
+- Parc des Etangs/Vijverspark, Brussels · Fri, 14 Aug 2026
+- Burgess Park, London · Sat, 8 Aug 2026
+- Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
 
 ## Shares bills with
 

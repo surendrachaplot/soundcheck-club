@@ -1,6 +1,6 @@
 # Beverly Glenn-Copeland at Valkoinen sali
 
-Beverly Glenn-Copeland at Valkoinen sali on Mon 26 Oct, Helsinki. 1 artist on the bill: Beverly Glenn-Copeland. Jazz and Pop. Preview the line-up and save it on soundcheck.
+Beverly Glenn-Copeland at Valkoinen sali on Mon 26 Oct, Helsinki. 1 artist: Beverly Glenn-Copeland. Jazz and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

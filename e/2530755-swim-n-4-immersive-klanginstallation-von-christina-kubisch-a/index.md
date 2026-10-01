@@ -1,6 +1,6 @@
 # SWIM N°4 immersive Klanginstallation von Christina Kubisch at ZiMMT
 
-SWIM N°4 immersive Klanginstallation von Christina Kubisch at ZiMMT on Tue 13 Oct, Leipzig. Preview the line-up and save it on soundcheck.
+SWIM N°4 immersive Klanginstallation von Christina Kubisch at ZiMMT on Tue 13 Oct, Leipzig. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

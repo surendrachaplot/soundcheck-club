@@ -1,6 +1,6 @@
 # E L I X I R • DR. Disko Dust • 9th Circle at Northern Lights Lounge
 
-E L I X I R • DR. Disko Dust • 9th Circle at Northern Lights Lounge on Thu 1 Oct, Detroit. 1 artist on the bill: DR. Disko Dust. Techno and Disco. Preview the line-up and save it on soundcheck.
+E L I X I R • DR. Disko Dust • 9th Circle at Northern Lights Lounge on Thu 1 Oct, Detroit. 1 artist: DR. Disko Dust. Techno and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

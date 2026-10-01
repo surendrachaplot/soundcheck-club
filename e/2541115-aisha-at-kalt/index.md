@@ -1,6 +1,6 @@
 # AISHA at KALT
 
-AISHA at KALT on Sat 28 Nov, Strasbourg. 1 artist on the bill: AISHA. Preview the line-up and save it on soundcheck.
+AISHA at KALT on Sat 28 Nov, Strasbourg. 1 artist: AISHA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # No Phone Zone with TANTRON at Radost FX
 
-No Phone Zone with TANTRON at Radost FX on Fri 9 Oct, Prague. Drum & Bass. Preview the line-up and save it on soundcheck.
+No Phone Zone with TANTRON at Radost FX on Fri 9 Oct, Prague. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

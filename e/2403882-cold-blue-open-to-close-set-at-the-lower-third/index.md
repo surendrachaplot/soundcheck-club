@@ -1,6 +1,6 @@
 # Cold Blue Open to close set at The Lower Third
 
-Cold Blue Open to close set at The Lower Third on Sat 3 Oct, London. Trance. Preview the line-up and save it on soundcheck.
+Cold Blue Open to close set at The Lower Third on Sat 3 Oct, London. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

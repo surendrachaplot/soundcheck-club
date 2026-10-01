@@ -1,6 +1,6 @@
 # SYSTEM at TBA - East Williamsburg
 
-SYSTEM at TBA - East Williamsburg on Fri 13 Nov, New York City. Techno and House. Preview the line-up and save it on soundcheck.
+SYSTEM at TBA - East Williamsburg on Fri 13 Nov, New York City. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

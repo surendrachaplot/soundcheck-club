@@ -1,8 +1,8 @@
 # The Space Between
 
-The Space Between is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Ingar Zach / Eimear Reidy" on Sat, 3 Oct 2026.
+The Space Between is a music venue in Dublin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ingar Zach / Eimear Reidy" on Sat, 3 Oct 2026.
 
-The Space Between is a music venue in Dublin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+The Space Between is a music venue in Dublin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

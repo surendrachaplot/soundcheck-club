@@ -1,6 +1,6 @@
 # Hyperbot.exe at H15 Scene & Studio
 
-Hyperbot.exe at H15 Scene & Studio on Sat 31 Oct, Copenhagen. Bass and Breakcore. Preview the line-up and save it on soundcheck.
+Hyperbot.exe at H15 Scene & Studio on Sat 31 Oct, Copenhagen. Bass and Breakcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

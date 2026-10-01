@@ -1,6 +1,6 @@
 # RIRIA at Pisces
 
-RIRIA at Pisces on Thu 1 Oct, Atlanta. 1 artist on the bill: RIRIA. Preview the line-up and save it on soundcheck.
+RIRIA at Pisces on Thu 1 Oct, Atlanta. 1 artist: RIRIA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

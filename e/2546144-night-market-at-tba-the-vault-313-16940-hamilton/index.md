@@ -1,6 +1,6 @@
 # NIGHT MARKET at TBA - The Vault 313 (16940 Hamilton)
 
-NIGHT MARKET at TBA - The Vault 313 (16940 Hamilton) on Sat 17 Oct, Detroit. 3 artists on the bill: James Connor, JANSØ and mira. Techno. Preview the line-up and save it on soundcheck.
+NIGHT MARKET at TBA - The Vault 313 (16940 Hamilton) on Sat 17 Oct, Detroit. 3 artists: James Connor, JANSØ and mira. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

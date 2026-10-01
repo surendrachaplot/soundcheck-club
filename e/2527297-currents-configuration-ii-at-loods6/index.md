@@ -1,6 +1,6 @@
 # Currents - Configuration II at Loods6
 
-Currents - Configuration II at Loods6 on Fri 23 Oct, Amsterdam. 5 artists on the bill: Nadia Struiwigh, OK EG, State OFFF and Wata Igarashi and 1 more. Preview the line-up and save it on soundcheck.
+Currents - Configuration II at Loods6 on Fri 23 Oct, Amsterdam. 5 artists: Nadia Struiwigh, OK EG, State OFFF and Wata Igarashi and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

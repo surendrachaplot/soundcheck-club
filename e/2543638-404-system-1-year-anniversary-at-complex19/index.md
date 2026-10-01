@@ -1,6 +1,6 @@
 # 404: system 1 YEAR ANNIVERSARY at Complex19
 
-404: system 1 YEAR ANNIVERSARY at Complex19 on Sat 7 Nov, Toronto. Trance and Techno. Preview the line-up and save it on soundcheck.
+404: system 1 YEAR ANNIVERSARY at Complex19 on Sat 7 Nov, Toronto. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

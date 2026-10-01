@@ -1,8 +1,8 @@
 # Delilah
 
-Delilah is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Delilah is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Delilah is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Berlin, Bristol, Brussels and Dublin and 8 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Delilah is a house and tech house artist based in United Kingdom, with 40 gigs on soundcheck across Berlin, Bristol, Brussels and Dublin and 8 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Delilah is a house and tech house artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Camp and Furnace, Liverpool — Sat, 12 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- Milandia, Zurich — Sat, 5 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 1 Sept 2026
-- [UNVRS], Ibiza — Wed, 26 Aug 2026
-- Old Royal Naval College, London — Sun, 16 Aug 2026
-- Night Tales Loft, London — Sat, 25 Jul 2026
-- Heaton Park, Manchester — Sat, 20 Jun 2026
+- Camp and Furnace, Liverpool · Sat, 12 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- Milandia, Zurich · Sat, 5 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 1 Sept 2026
+- [UNVRS], Ibiza · Wed, 26 Aug 2026
+- Old Royal Naval College, London · Sun, 16 Aug 2026
+- Night Tales Loft, London · Sat, 25 Jul 2026
+- Heaton Park, Manchester · Sat, 20 Jun 2026
 
 ## Shares bills with
 

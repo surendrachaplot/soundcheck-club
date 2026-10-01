@@ -1,6 +1,6 @@
 # NOTHING HITS HARDER at 142b Lounge
 
-NOTHING HITS HARDER at 142b Lounge on Sat 17 Oct, Glasgow. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
+NOTHING HITS HARDER at 142b Lounge on Sat 17 Oct, Glasgow. Amapiano and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Disorder presents: Bryan Gee & Freddy B [JUNGLE AND DRUM & BASS] at The Bongo Club
 
-Disorder presents: Bryan Gee & Freddy B [JUNGLE AND DRUM & BASS] at The Bongo Club on Fri 9 Oct, Edinburgh. 2 artists on the bill: Bryan Gee and Harry Jackson. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Disorder presents: Bryan Gee & Freddy B [JUNGLE AND DRUM & BASS] at The Bongo Club on Fri 9 Oct, Edinburgh. 2 artists: Bryan Gee and Harry Jackson. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

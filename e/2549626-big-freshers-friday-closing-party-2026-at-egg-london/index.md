@@ -1,6 +1,6 @@
 # BIG FRESHERS FRIDAY - CLOSING PARTY 2026 at Egg London
 
-BIG FRESHERS FRIDAY - CLOSING PARTY 2026 at Egg London on Fri 2 Oct, London. Preview the line-up and save it on soundcheck.
+BIG FRESHERS FRIDAY - CLOSING PARTY 2026 at Egg London on Fri 2 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

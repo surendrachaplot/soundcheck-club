@@ -1,6 +1,6 @@
 # miaw (DK/NL) at PHONO
 
-miaw (DK/NL) at PHONO on Sat 31 Oct, Aarhus. 1 artist on the bill: miaw. Preview the line-up and save it on soundcheck.
+miaw (DK/NL) at PHONO on Sat 31 Oct, Aarhus. 1 artist: miaw. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

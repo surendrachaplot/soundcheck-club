@@ -1,8 +1,8 @@
 # Mickey Perez
 
-Mickey Perez is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Six Coasts by Smorgasburg, New York City on Sat, 17 Oct 2026.
+Mickey Perez is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Six Coasts by Smorgasburg, New York City on Sat, 17 Oct 2026.
 
-Mickey Perez is a house and disco artist based in United States of America, tracked on soundcheck, with 105 sets logged across Detroit, Mexico City, Miami and Montreal and 3 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Six Coasts by Smorgasburg, New York City on Sat 17 Oct.
+Mickey Perez is a house and disco artist based in United States of America, with 105 gigs on soundcheck across Detroit, Mexico City, Miami and Montreal and 3 more. Often billed alongside Toribio, Deon Jamar and Guthrie. Next up: Six Coasts by Smorgasburg, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mickey Perez is a house and disco artist based in United States of America, trac
 
 ## Recently played
 
-- Mr Melo, New York City — Thu, 24 Sept 2026
-- MAD Radio NYC, New York City — Fri, 18 Sept 2026
-- Danger Danger, New York City — Fri, 4 Sept 2026
-- Jupiter Disco, New York City — Sat, 22 Aug 2026
-- Jupiter Disco, New York City — Fri, 24 Jul 2026
-- Liberty Point, Philadelphia — Sun, 19 Jul 2026
-- Nowadays, New York City — Sat, 18 Jul 2026
-- Foley Square Park, New York City — Fri, 17 Jul 2026
+- Mr Melo, New York City · Thu, 24 Sept 2026
+- MAD Radio NYC, New York City · Fri, 18 Sept 2026
+- Danger Danger, New York City · Fri, 4 Sept 2026
+- Jupiter Disco, New York City · Sat, 22 Aug 2026
+- Jupiter Disco, New York City · Fri, 24 Jul 2026
+- Liberty Point, Philadelphia · Sun, 19 Jul 2026
+- Nowadays, New York City · Sat, 18 Jul 2026
+- Foley Square Park, New York City · Fri, 17 Jul 2026
 
 ## Shares bills with
 

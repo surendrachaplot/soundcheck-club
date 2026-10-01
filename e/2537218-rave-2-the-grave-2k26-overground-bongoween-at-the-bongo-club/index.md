@@ -1,6 +1,6 @@
 # ♰ Rave 2 The Grave 2K26 ♰ OVERGROUND ♰ Bongoween ♰ at The Bongo Club
 
-♰ Rave 2 The Grave 2K26 ♰ OVERGROUND ♰ Bongoween ♰ at The Bongo Club on Fri 30 Oct, Edinburgh. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+♰ Rave 2 The Grave 2K26 ♰ OVERGROUND ♰ Bongoween ♰ at The Bongo Club on Fri 30 Oct, Edinburgh. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

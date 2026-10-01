@@ -1,6 +1,6 @@
 # Celyn Of Gwent 'Dying and Rising' AV Show at New River Studios
 
-Celyn Of Gwent 'Dying and Rising' AV Show at New River Studios on Sat 10 Oct, London. Experimental and New Wave. Preview the line-up and save it on soundcheck.
+Celyn Of Gwent 'Dying and Rising' AV Show at New River Studios on Sat 10 Oct, London. Experimental and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

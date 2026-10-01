@@ -1,8 +1,8 @@
 # Fran LF
 
-Fran LF is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Refuge, New York City on Fri, 16 Oct 2026.
+Fran LF is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Refuge, New York City on Fri, 16 Oct 2026.
 
-Fran LF is a techno and trance artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Athens, Berlin and Istanbul and 10 more. Often billed alongside Sinergy, Bours? and HUJUS. Next up: Refuge, New York City on Fri 16 Oct.
+Fran LF is a techno and trance artist based in Netherlands, with 39 gigs on soundcheck across Amsterdam, Athens, Berlin and Istanbul and 10 more. Often billed alongside Sinergy, Bours? and HUJUS. Next up: Refuge, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Fran LF is a techno and trance artist based in Netherlands, tracked on soundchec
 
 ## Recently played
 
-- AUX Club, Athens — Fri, 25 Sept 2026
-- Klein, Istanbul — Fri, 4 Sept 2026
-- OXI, Berlin — Fri, 28 Aug 2026
-- Airport Würzburg, Nürnberg — Thu, 30 Apr 2026
-- AUX Club, Athens — Fri, 3 Apr 2026
-- KABUL à GoGo, Utrecht — Sat, 21 Feb 2026
-- Bike Jesus, Prague — Fri, 20 Feb 2026
-- TBA - Warehouse, Paris — Sat, 14 Feb 2026
+- AUX Club, Athens · Fri, 25 Sept 2026
+- Klein, Istanbul · Fri, 4 Sept 2026
+- OXI, Berlin · Fri, 28 Aug 2026
+- Airport Würzburg, Nürnberg · Thu, 30 Apr 2026
+- AUX Club, Athens · Fri, 3 Apr 2026
+- KABUL à GoGo, Utrecht · Sat, 21 Feb 2026
+- Bike Jesus, Prague · Fri, 20 Feb 2026
+- TBA - Warehouse, Paris · Sat, 14 Feb 2026
 
 ## Shares bills with
 

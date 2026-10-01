@@ -1,6 +1,6 @@
 # Gioli & Assia + Bittermind + Fratello at Klein Phönix
 
-Gioli & Assia + Bittermind + Fratello at Klein Phönix on Fri 16 Oct, Istanbul. 2 artists on the bill: Fratello and Giolì & Assia. Preview the line-up and save it on soundcheck.
+Gioli & Assia + Bittermind + Fratello at Klein Phönix on Fri 16 Oct, Istanbul. 2 artists: Fratello and Giolì & Assia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

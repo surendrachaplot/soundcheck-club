@@ -1,6 +1,6 @@
 # FACE 2 FACE: ZURICH at Zinkbad Eventhalle
 
-FACE 2 FACE: ZURICH at Zinkbad Eventhalle on Sat 14 Nov, Zurich. 10 artists on the bill: DJ DRECKISCH, DJ Hyperdrive, HiTMiLØW and HUMAN ERROR and 6 more. Techno. Preview the line-up and save it on soundcheck.
+FACE 2 FACE: ZURICH at Zinkbad Eventhalle on Sat 14 Nov, Zurich. 10 artists: DJ DRECKISCH, DJ Hyperdrive, HiTMiLØW and HUMAN ERROR and 6 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

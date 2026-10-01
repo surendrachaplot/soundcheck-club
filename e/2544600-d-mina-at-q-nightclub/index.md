@@ -1,6 +1,6 @@
 # DØMINA at Q Nightclub
 
-DØMINA at Q Nightclub on Fri 13 Nov, Seattle. Preview the line-up and save it on soundcheck.
+DØMINA at Q Nightclub on Fri 13 Nov, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

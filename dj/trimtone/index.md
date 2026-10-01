@@ -1,8 +1,8 @@
 # Trimtone
 
-Trimtone is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Grand Café Heineken Hoek, Amsterdam on Thu, 22 Oct 2026.
+Trimtone is a House and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Grand Café Heineken Hoek, Amsterdam on Thu, 22 Oct 2026.
 
-Trimtone is a house and club artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Amsterdam, Chicago, Ibiza and Leeds and 6 more. Often billed alongside David Penn, Marshall Jefferson and Sam Divine. Next up: Grand Café Heineken Hoek, Amsterdam on Thu 22 Oct.
+Trimtone is a house and club artist based in United Kingdom, with 23 gigs on soundcheck across Amsterdam, Chicago, Ibiza and Leeds and 6 more. Often billed alongside David Penn, Marshall Jefferson and Sam Divine. Next up: Grand Café Heineken Hoek, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Trimtone is a house and club artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- TBA - THE STRAY, HARROGATE, Leeds — Sat, 5 Sept 2026
-- Steelyard Kelham, Sheffield — Sun, 24 May 2026
-- Mint Warehouse, Leeds — Sat, 13 Dec 2025
-- TBA - THE STRAY, HARROGATE, Leeds — Sat, 6 Sept 2025
-- The Yard, Manchester — Sat, 9 Aug 2025
-- 528 Ibiza, Ibiza — Sat, 12 Jul 2025
-- FORGE, Sheffield — Sun, 25 May 2025
-- Ministry Of Sound, London — Thu, 15 May 2025
+- TBA - THE STRAY, HARROGATE, Leeds · Sat, 5 Sept 2026
+- Steelyard Kelham, Sheffield · Sun, 24 May 2026
+- Mint Warehouse, Leeds · Sat, 13 Dec 2025
+- TBA - THE STRAY, HARROGATE, Leeds · Sat, 6 Sept 2025
+- The Yard, Manchester · Sat, 9 Aug 2025
+- 528 Ibiza, Ibiza · Sat, 12 Jul 2025
+- FORGE, Sheffield · Sun, 25 May 2025
+- Ministry Of Sound, London · Thu, 15 May 2025
 
 ## Shares bills with
 

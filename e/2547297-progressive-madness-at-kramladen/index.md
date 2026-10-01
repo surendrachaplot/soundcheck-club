@@ -1,6 +1,6 @@
 # Progressive Madness at Kramladen
 
-Progressive Madness at Kramladen on Fri 16 Oct, Vienna. 2 artists on the bill: Fede Frostl and Groefer. Progressive House. Preview the line-up and save it on soundcheck.
+Progressive Madness at Kramladen on Fri 16 Oct, Vienna. 2 artists: Fede Frostl and Groefer. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

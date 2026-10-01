@@ -1,6 +1,6 @@
 # FRAXIOM//DATACATS at The Dolphin
 
-FRAXIOM//DATACATS at The Dolphin on Wed 14 Oct, Philadelphia. Experimental and Pop. Preview the line-up and save it on soundcheck.
+FRAXIOM//DATACATS at The Dolphin on Wed 14 Oct, Philadelphia. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

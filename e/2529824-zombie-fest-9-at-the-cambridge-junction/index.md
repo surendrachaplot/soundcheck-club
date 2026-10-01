@@ -1,6 +1,6 @@
 # Zombie Fest 9 at The Cambridge Junction
 
-Zombie Fest 9 at The Cambridge Junction on Sat 31 Oct, South East. 13 artists on the bill: Dub Pistols, Grooverider, Jaguar Skills and Lisa Pinup and 9 more. Preview the line-up and save it on soundcheck.
+Zombie Fest 9 at The Cambridge Junction on Sat 31 Oct, South East. 13 artists: Dub Pistols, Grooverider, Jaguar Skills and Lisa Pinup and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

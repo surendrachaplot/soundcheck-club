@@ -1,6 +1,6 @@
 # Tektite: Time 2 Rush & Karl Radox at The Bongo Club
 
-Tektite: Time 2 Rush & Karl Radox at The Bongo Club on Fri 16 Oct, Edinburgh. 2 artists on the bill: FOLIE (UK) and Rodent. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+Tektite: Time 2 Rush & Karl Radox at The Bongo Club on Fri 16 Oct, Edinburgh. 2 artists: FOLIE (UK) and Rodent. Hardcore and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

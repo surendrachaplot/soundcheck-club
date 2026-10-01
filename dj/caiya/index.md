@@ -1,8 +1,8 @@
 # Caiya
 
-Caiya is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
+Caiya is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ulana's, Philadelphia on Sat, 17 Oct 2026.
 
-Caiya is a techno and club artist based in United States of America, tracked on soundcheck, with 18 sets logged across Paris, Philadelphia and Washington DC. Often billed alongside Blueverbs, GorpoPap and Alien Body. Next up: Ulana's, Philadelphia on Sat 17 Oct.
+Caiya is a techno and club artist based in United States of America, with 18 gigs on soundcheck across Paris, Philadelphia and Washington DC. Often billed alongside Blueverbs, GorpoPap and Alien Body. Next up: Ulana's, Philadelphia on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Caiya is a techno and club artist based in United States of America, tracked on 
 
 ## Recently played
 
-- Warehouse on Watts, Philadelphia — Sat, 12 Sept 2026
-- Ulana's, Philadelphia — Fri, 7 Aug 2026
-- Ulana's, Philadelphia — Fri, 10 Jul 2026
-- TBA, Philadelphia — Sat, 11 Apr 2026
-- El Secreto De Rosita, Washington DC — Fri, 3 Apr 2026
-- Ulana's, Philadelphia — Fri, 20 Mar 2026
-- Ulana's, Philadelphia — Fri, 13 Mar 2026
-- TBA - ADDRESS EMAILED TO TICKETHOLDERS DAY OF SHOW [DM @CAPITALCITYSOUNDSYSTEM on instagram for questions], Philadelphia — Fri, 27 Feb 2026
+- Warehouse on Watts, Philadelphia · Sat, 12 Sept 2026
+- Ulana's, Philadelphia · Fri, 7 Aug 2026
+- Ulana's, Philadelphia · Fri, 10 Jul 2026
+- TBA, Philadelphia · Sat, 11 Apr 2026
+- El Secreto De Rosita, Washington DC · Fri, 3 Apr 2026
+- Ulana's, Philadelphia · Fri, 20 Mar 2026
+- Ulana's, Philadelphia · Fri, 13 Mar 2026
+- TBA - ADDRESS EMAILED TO TICKETHOLDERS DAY OF SHOW [DM @CAPITALCITYSOUNDSYSTEM on instagram for questions], Philadelphia · Fri, 27 Feb 2026
 
 ## Shares bills with
 

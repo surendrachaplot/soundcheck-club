@@ -1,6 +1,6 @@
 # New Year's Eve: Gravagerz at SILO
 
-New Year's Eve: Gravagerz at SILO on Thu 31 Dec, New York City. 1 artist on the bill: Gravagerz. Preview the line-up and save it on soundcheck.
+New Year's Eve: Gravagerz at SILO on Thu 31 Dec, New York City. 1 artist: Gravagerz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

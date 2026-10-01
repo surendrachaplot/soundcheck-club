@@ -1,6 +1,6 @@
 # ONYX 'MAYDAY' at DSTRKT Club Berlin
 
-ONYX 'MAYDAY' at DSTRKT Club Berlin on Sat 1 May, Berlin. 1 artist on the bill: DJ DRECKISCH. Preview the line-up and save it on soundcheck.
+ONYX 'MAYDAY' at DSTRKT Club Berlin on Sat 1 May, Berlin. 1 artist: DJ DRECKISCH. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

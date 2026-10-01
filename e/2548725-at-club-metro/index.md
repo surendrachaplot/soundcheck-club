@@ -1,6 +1,6 @@
 # 舞 at Club Metro
 
-舞 at Club Metro on Tue 27 Oct, Kyoto. 1 artist on the bill: TAIHEI. Techno and House. Preview the line-up and save it on soundcheck.
+舞 at Club Metro on Tue 27 Oct, Kyoto. 1 artist: TAIHEI. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

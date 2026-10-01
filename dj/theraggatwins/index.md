@@ -1,8 +1,8 @@
 # The Ragga Twins
 
-The Ragga Twins is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+The Ragga Twins is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
-The Ragga Twins is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 84 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside DJ Brockie, Uncle Dugs and Nicky Blackmarket. Next up: NOWHERE, Manchester on Sat 3 Oct.
+The Ragga Twins is a drum & bass and jungle artist based in United Kingdom, with 84 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside DJ Brockie, Uncle Dugs and Nicky Blackmarket. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ The Ragga Twins is a drum & bass and jungle artist based in United Kingdom, trac
 
 ## Recently played
 
-- Outernet Live, London — Sat, 29 Aug 2026
-- Brixton Jamm, London — Fri, 14 Aug 2026
-- Basing House, London — Sat, 8 Aug 2026
-- Brixton Jamm, London — Sat, 1 Aug 2026
-- Hootananny, London — Fri, 24 Jul 2026
-- Eutopia Warehouse, London — Sat, 18 Jul 2026
-- E1, London — Fri, 17 Jul 2026
-- Brixton Jamm, London — Sat, 4 Jul 2026
+- Outernet Live, London · Sat, 29 Aug 2026
+- Brixton Jamm, London · Fri, 14 Aug 2026
+- Basing House, London · Sat, 8 Aug 2026
+- Brixton Jamm, London · Sat, 1 Aug 2026
+- Hootananny, London · Fri, 24 Jul 2026
+- Eutopia Warehouse, London · Sat, 18 Jul 2026
+- E1, London · Fri, 17 Jul 2026
+- Brixton Jamm, London · Sat, 4 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Guaba ReunIoN Closing Fiesta at Guaba Beach Bar
 
-Guaba ReunIoN Closing Fiesta at Guaba Beach Bar on Sun 25 Oct, Cyprus. 3 artists on the bill: Alfandi, Dave Seaman and IoN. Preview the line-up and save it on soundcheck.
+Guaba ReunIoN Closing Fiesta at Guaba Beach Bar on Sun 25 Oct, Cyprus. 3 artists: Alfandi, Dave Seaman and IoN. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

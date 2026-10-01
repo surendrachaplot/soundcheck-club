@@ -1,6 +1,6 @@
 # Paul Van Dyk at Stromwerk Dresden
 
-Paul Van Dyk at Stromwerk Dresden on Fri 2 Oct, Dresden. 1 artist on the bill: Paul Van Dyk. Preview the line-up and save it on soundcheck.
+Paul Van Dyk at Stromwerk Dresden on Fri 2 Oct, Dresden. 1 artist: Paul Van Dyk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

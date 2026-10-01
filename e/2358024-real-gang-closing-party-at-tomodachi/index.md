@@ -1,6 +1,6 @@
 # Real Gang • CLOSING PARTY • at Tomodachi
 
-Real Gang • CLOSING PARTY • at Tomodachi on Tue 6 Oct, Ibiza. House and Minimal. Preview the line-up and save it on soundcheck.
+Real Gang • CLOSING PARTY • at Tomodachi on Tue 6 Oct, Ibiza. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DONNIE ISSUE 5 / RELEASE PARTY at Shelter Antwerp
 
-DONNIE ISSUE 5 / RELEASE PARTY at Shelter Antwerp on Fri 2 Oct, Antwerp. Preview the line-up and save it on soundcheck.
+DONNIE ISSUE 5 / RELEASE PARTY at Shelter Antwerp on Fri 2 Oct, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ritter Butzke in Oslo at Jaeger
 
-Ritter Butzke in Oslo at Jaeger on Fri 27 Nov, Oslo. 5 artists on the bill: G-HA, Olanskii, Prismode and Solvane and 1 more. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Ritter Butzke in Oslo at Jaeger on Fri 27 Nov, Oslo. 5 artists: G-HA, Olanskii, Prismode and Solvane and 1 more. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Chaos In The CBD presents.. The In Dust We Trust Tour - Bristol at The Trinity Centre
 
-Chaos In The CBD presents.. The In Dust We Trust Tour - Bristol at The Trinity Centre on Fri 23 Oct, Bristol. Techno and House. Preview the line-up and save it on soundcheck.
+Chaos In The CBD presents.. The In Dust We Trust Tour - Bristol at The Trinity Centre on Fri 23 Oct, Bristol. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

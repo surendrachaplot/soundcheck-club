@@ -1,8 +1,8 @@
 # adamoandiamo
 
-adamoandiamo is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Neue Welle, Leipzig on Sat, 7 Nov 2026.
+adamoandiamo is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Neue Welle, Leipzig on Sat, 7 Nov 2026.
 
-adamoandiamo is a trance and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Leipzig. Often billed alongside gin (DE), VALENTIN FRAIS and LUNA.le. Next up: Neue Welle, Leipzig on Sat 7 Nov.
+adamoandiamo is a trance and techno artist based in Germany, with 10 gigs on soundcheck across Leipzig. Often billed alongside gin (DE), VALENTIN FRAIS and LUNA.le. Next up: Neue Welle, Leipzig on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ adamoandiamo is a trance and techno artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- elipamanoke, Leipzig — Fri, 25 Sept 2026
-- Westhafen, Leipzig — Sat, 19 Sept 2026
-- elipamanoke, Leipzig — Thu, 30 Apr 2026
-- elipamanoke, Leipzig — Fri, 9 Jan 2026
-- elipamanoke, Leipzig — Wed, 4 Jun 2025
-- Kulturlounge, Leipzig — Sat, 12 Apr 2025
-- Neues Schauspiel Leipzig, Leipzig — Fri, 4 Apr 2025
-- Ilses Erika, Leipzig — Fri, 24 Jan 2025
+- elipamanoke, Leipzig · Fri, 25 Sept 2026
+- Westhafen, Leipzig · Sat, 19 Sept 2026
+- elipamanoke, Leipzig · Thu, 30 Apr 2026
+- elipamanoke, Leipzig · Fri, 9 Jan 2026
+- elipamanoke, Leipzig · Wed, 4 Jun 2025
+- Kulturlounge, Leipzig · Sat, 12 Apr 2025
+- Neues Schauspiel Leipzig, Leipzig · Fri, 4 Apr 2025
+- Ilses Erika, Leipzig · Fri, 24 Jan 2025
 
 ## Shares bills with
 

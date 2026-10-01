@@ -1,6 +1,6 @@
 # Fender Bender Halloween: ANNĒ at TBA - Address sent out to ticket holders at 6pm on 10/31
 
-Fender Bender Halloween: ANNĒ at TBA - Address sent out to ticket holders at 6pm on 10/31 on Sat 31 Oct, Philadelphia. 3 artists on the bill: ANNĒ, PHIL TY and Shaba. Techno and House. Preview the line-up and save it on soundcheck.
+Fender Bender Halloween: ANNĒ at TBA - Address sent out to ticket holders at 6pm on 10/31 on Sat 31 Oct, Philadelphia. 3 artists: ANNĒ, PHIL TY and Shaba. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

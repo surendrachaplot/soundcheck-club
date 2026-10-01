@@ -1,8 +1,8 @@
 # Flex
 
-Flex is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "BIONIC RITUAL" on Fri, 2 Oct 2026.
+Flex is a music venue in Vienna with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BIONIC RITUAL" on Fri, 2 Oct 2026.
 
-Flex is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including DJ DIAMOND, ephemer, esti.d and hapuk and 2 more. Browse upcoming dates, start times and who's playing. Abgang Augartenbruecke; 1010 Vienna; Austria.
+Flex is a music venue in Vienna listed on soundcheck. 2 upcoming gigs, with line-ups including DJ DIAMOND, ephemer, esti.d and hapuk and 2 more. See dates, start times and who's playing. Abgang Augartenbruecke; 1010 Vienna; Austria.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Markus Schulz, Istanbul, Razzle Dazzle at Sudatur
 
-Markus Schulz, Istanbul, Razzle Dazzle at Sudatur on Sun 27 Jun, Istanbul. 2 artists on the bill: Markus Schulz and Vedi Kerem. Preview the line-up and save it on soundcheck.
+Markus Schulz, Istanbul, Razzle Dazzle at Sudatur on Sun 27 Jun, Istanbul. 2 artists: Markus Schulz and Vedi Kerem. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

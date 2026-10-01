@@ -1,6 +1,6 @@
 # A LOVE FROM OUTER SPACE (All Day Long) at Phonox
 
-A LOVE FROM OUTER SPACE (All Day Long) at Phonox on Sat 17 Oct, London. 2 artists on the bill: A LOVE FROM OUTER SPACE and Sean Johnston. Downtempo and Experimental. Preview the line-up and save it on soundcheck.
+A LOVE FROM OUTER SPACE (All Day Long) at Phonox on Sat 17 Oct, London. 2 artists: A LOVE FROM OUTER SPACE and Sean Johnston. Downtempo and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

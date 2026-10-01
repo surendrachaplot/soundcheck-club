@@ -1,6 +1,6 @@
 # Dylan Thom - Chicago House Show at TBA - announced day of show
 
-Dylan Thom - Chicago House Show at TBA - announced day of show on Sat 14 Nov, Chicago. Preview the line-up and save it on soundcheck.
+Dylan Thom - Chicago House Show at TBA - announced day of show on Sat 14 Nov, Chicago. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

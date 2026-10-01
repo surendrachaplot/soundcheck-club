@@ -1,6 +1,6 @@
 # GROOVADELIC: Luis M. • Rhabia • Psyberpunk • Alma Deya • Argønaut at Zoo
 
-GROOVADELIC: Luis M. • Rhabia • Psyberpunk • Alma Deya • Argønaut at Zoo on Sat 17 Oct, Geneva. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+GROOVADELIC: Luis M. • Rhabia • Psyberpunk • Alma Deya • Argønaut at Zoo on Sat 17 Oct, Geneva. Trance and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 1 at Eighty-Four Amsterdam
 
-ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 1 at Eighty-Four Amsterdam on Wed 21 Oct, Amsterdam. 5 artists on the bill: Cast Lov, David Gravell, Florenzo Hiäät and Krevix and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+ADE x MYSTRA x EIGHTY FOUR AMSTERDAM PART 1 at Eighty-Four Amsterdam on Wed 21 Oct, Amsterdam. 5 artists: Cast Lov, David Gravell, Florenzo Hiäät and Krevix and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FEED with LM / Pattwaste / PPOINT at Horn
 
-FEED with LM / Pattwaste / PPOINT at Horn on Thu 22 Oct, Bangkok. 1 artist on the bill: PPOINT. Techno. Preview the line-up and save it on soundcheck.
+FEED with LM / Pattwaste / PPOINT at Horn on Thu 22 Oct, Bangkok. 1 artist: PPOINT. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

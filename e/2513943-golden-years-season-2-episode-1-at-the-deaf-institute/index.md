@@ -1,6 +1,6 @@
 # Golden Years Season 2 Episode 1 at The Deaf Institute
 
-Golden Years Season 2 Episode 1 at The Deaf Institute on Fri 9 Oct, Manchester. Acid and UK Funky. Preview the line-up and save it on soundcheck.
+Golden Years Season 2 Episode 1 at The Deaf Institute on Fri 9 Oct, Manchester. Acid and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

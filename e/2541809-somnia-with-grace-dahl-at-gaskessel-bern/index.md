@@ -1,6 +1,6 @@
 # SOMNIA with Grace Dahl at Gaskessel Bern
 
-SOMNIA with Grace Dahl at Gaskessel Bern on Sat 21 Nov, Bern. 5 artists on the bill: Annina Frey, David Kawka, Dee Jota and Grace Dahl and 1 more. Preview the line-up and save it on soundcheck.
+SOMNIA with Grace Dahl at Gaskessel Bern on Sat 21 Nov, Bern. 5 artists: Annina Frey, David Kawka, Dee Jota and Grace Dahl and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

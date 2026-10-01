@@ -1,6 +1,6 @@
 # MANDORA X Move Infinity POLTERGST & Mødze at Zinkbad Eventhalle
 
-MANDORA X Move Infinity POLTERGST & Mødze at Zinkbad Eventhalle on Sat 30 Jan, Zurich. 5 artists on the bill: Mad Fusion, Mødze, mvdi and Nhū and 1 more. Preview the line-up and save it on soundcheck.
+MANDORA X Move Infinity POLTERGST & Mødze at Zinkbad Eventhalle on Sat 30 Jan, Zurich. 5 artists: Mad Fusion, Mødze, mvdi and Nhū and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

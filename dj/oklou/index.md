@@ -1,8 +1,8 @@
 # Oklou
 
-Oklou is a Experimental and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
+Oklou is a Experimental and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
 
-Oklou is an experimental and pop artist based in France, tracked on soundcheck, with 34 sets logged across Amsterdam, Bristol, Brussels and Chicago and 16 more. Often billed alongside Erika de Casier, james K and Nick León. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
+Oklou is an experimental and pop artist based in France, with 34 gigs on soundcheck across Amsterdam, Bristol, Brussels and Chicago and 16 more. Often billed alongside Erika de Casier, james K and Nick León. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Oklou is an experimental and pop artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- Various Venues, London — Thu, 24 Sept 2026
-- The Downs, Bristol, Bristol — Sat, 29 Aug 2026
-- Victoria Park, London — Sat, 22 Aug 2026
-- Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
-- AB Club (Ancienne Belgique), Brussels — Sat, 20 Jun 2026
-- Bois de Vincennes, Paris — Fri, 5 Jun 2026
-- La Station - Gare des Mines, Paris — Fri, 27 Feb 2026
-- Northcote Theatre, Melbourne — Thu, 12 Feb 2026
+- Various Venues, London · Thu, 24 Sept 2026
+- The Downs, Bristol, Bristol · Sat, 29 Aug 2026
+- Victoria Park, London · Sat, 22 Aug 2026
+- Suvilahti Power Plant, Helsinki · Fri, 14 Aug 2026
+- AB Club (Ancienne Belgique), Brussels · Sat, 20 Jun 2026
+- Bois de Vincennes, Paris · Fri, 5 Jun 2026
+- La Station - Gare des Mines, Paris · Fri, 27 Feb 2026
+- Northcote Theatre, Melbourne · Thu, 12 Feb 2026
 
 ## Shares bills with
 

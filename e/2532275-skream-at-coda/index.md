@@ -1,6 +1,6 @@
 # Skream at Coda
 
-Skream at Coda on Fri 6 Nov, Toronto. 1 artist on the bill: Skream. Preview the line-up and save it on soundcheck.
+Skream at Coda on Fri 6 Nov, Toronto. 1 artist: Skream. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

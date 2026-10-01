@@ -1,8 +1,8 @@
 # Di Chiara Brothers
 
-Di Chiara Brothers is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Di Chiara Brothers is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
-Di Chiara Brothers is a house and tech house artist based in Italy, tracked on soundcheck, with 29 sets logged across Amsterdam, Barcelona, Birmingham and Buenos Aires and 12 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
+Di Chiara Brothers is a house and tech house artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Buenos Aires and 12 more. Often billed alongside Chiara B, East End Dubs and RUZE. Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Di Chiara Brothers is a house and tech house artist based in Italy, tracked on s
 
 ## Recently played
 
-- Electric Studios, Sheffield — Sat, 19 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 21 Jul 2026
-- Cova Santa, Ibiza — Tue, 14 Jul 2026
-- Amok Club, Mallorca — Sun, 28 Jun 2026
-- Hï Ibiza, Ibiza — Tue, 23 Jun 2026
-- Castell de BEN Viure, Barcelona — Thu, 18 Jun 2026
-- Toffler, Rotterdam — Sat, 30 May 2026
-- Cova Santa, Ibiza — Thu, 28 May 2026
+- Electric Studios, Sheffield · Sat, 19 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 21 Jul 2026
+- Cova Santa, Ibiza · Tue, 14 Jul 2026
+- Amok Club, Mallorca · Sun, 28 Jun 2026
+- Hï Ibiza, Ibiza · Tue, 23 Jun 2026
+- Castell de BEN Viure, Barcelona · Thu, 18 Jun 2026
+- Toffler, Rotterdam · Sat, 30 May 2026
+- Cova Santa, Ibiza · Thu, 28 May 2026
 
 ## Shares bills with
 

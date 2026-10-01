@@ -1,6 +1,6 @@
 # ADE | PATTA X KEEP HUSH W/ TBA at Skatecafe
 
-ADE | PATTA X KEEP HUSH W/ TBA at Skatecafe on Sat 24 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+ADE | PATTA X KEEP HUSH W/ TBA at Skatecafe on Sat 24 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WetWare presents Aurora Halal (live) at Aisle 5
 
-WetWare presents Aurora Halal (live) at Aisle 5 on Sat 17 Oct, Atlanta. 1 artist on the bill: Aurora Halal. Preview the line-up and save it on soundcheck.
+WetWare presents Aurora Halal (live) at Aisle 5 on Sat 17 Oct, Atlanta. 1 artist: Aurora Halal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

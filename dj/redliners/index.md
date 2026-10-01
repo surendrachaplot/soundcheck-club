@@ -1,8 +1,8 @@
 # REDLINERS
 
-REDLINERS is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - DTLA, Los Angeles on Sat, 17 Oct 2026.
+REDLINERS is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - DTLA, Los Angeles on Sat, 17 Oct 2026.
 
-REDLINERS is a techno and club artist based in Canada, tracked on soundcheck, with 25 sets logged across Leipzig, Los Angeles, Montreal and San Francisco/Oakland and 1 more. Often billed alongside Chippy Nonstop, Karim Olen Ash and HVN. Next up: TBA - DTLA, Los Angeles on Sat 17 Oct.
+REDLINERS is a techno and club artist based in Canada, with 25 gigs on soundcheck across Leipzig, Los Angeles, Montreal and San Francisco/Oakland and 1 more. Often billed alongside Chippy Nonstop, Karim Olen Ash and HVN. Next up: TBA - DTLA, Los Angeles on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ REDLINERS is a techno and club artist based in Canada, tracked on soundcheck, wi
 
 ## Recently played
 
-- Buddies in Bad Times, Toronto — Fri, 13 Feb 2026
-- TBA - Toronto, Toronto — Sat, 13 Sept 2025
-- TBA - Toronto, Toronto — Sat, 23 Aug 2025
-- Lot 613, Los Angeles — Sat, 21 Jun 2025
-- 131 Mccormack St, Toronto — Fri, 6 Jun 2025
-- Cafeteria, Toronto — Fri, 9 May 2025
-- Ace Hotel Toronto, Toronto — Sat, 12 Apr 2025
-- Cafeteria, Toronto — Sat, 5 Apr 2025
+- Buddies in Bad Times, Toronto · Fri, 13 Feb 2026
+- TBA - Toronto, Toronto · Sat, 13 Sept 2025
+- TBA - Toronto, Toronto · Sat, 23 Aug 2025
+- Lot 613, Los Angeles · Sat, 21 Jun 2025
+- 131 Mccormack St, Toronto · Fri, 6 Jun 2025
+- Cafeteria, Toronto · Fri, 9 May 2025
+- Ace Hotel Toronto, Toronto · Sat, 12 Apr 2025
+- Cafeteria, Toronto · Sat, 5 Apr 2025
 
 ## Shares bills with
 

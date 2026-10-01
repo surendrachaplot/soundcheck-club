@@ -1,6 +1,6 @@
 # Bogen 43 listening sessions at Bogen 43
 
-Bogen 43 listening sessions on Sun 6 Dec, Berlin. 1 artist on the bill: miszo. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Bogen 43 listening sessions on Sun 6 Dec, Berlin. 1 artist: miszo. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # 1520
 
-1520 is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "BEATNIK with Bunney and Bitzer" on Sat, 3 Oct 2026.
+1520 is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BEATNIK with Bunney and Bitzer" on Sat, 3 Oct 2026.
 
-1520 is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including AdomasLP, April (UK), Bitzer Maloney and Bunney and 2 more. Browse upcoming dates, start times and who's playing. 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY.
+1520 is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including AdomasLP, April (UK), Bitzer Maloney and Bunney and 2 more. See dates, start times and who's playing. 19 Cheetham Hill Rd, Cheetham Hill, Manchester, M4 4FY.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # AmberSol Vol. II An Indian Summer at Wylam Brewery
 
-AmberSol Vol. II An Indian Summer at Wylam Brewery on Mon 12 Oct, Newcastle. House and Jazz. Preview the line-up and save it on soundcheck.
+AmberSol Vol. II An Indian Summer at Wylam Brewery on Mon 12 Oct, Newcastle. House and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

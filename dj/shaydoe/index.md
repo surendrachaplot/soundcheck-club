@@ -1,8 +1,8 @@
 # SHAY DOE
 
-SHAY DOE is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sooki Lounge, Melbourne on Sat, 10 Oct 2026.
+SHAY DOE is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sooki Lounge, Melbourne on Sat, 10 Oct 2026.
 
-SHAY DOE is a techno and industrial artist based in Germany, tracked on soundcheck, with 30 sets logged across Detroit, Melbourne and New York City. Often billed alongside CAITY WATSON, Mr. Rachele and Lincoln J. K. Webber. Next up: Sooki Lounge, Melbourne on Sat 10 Oct.
+SHAY DOE is a techno and industrial artist based in Germany, with 30 gigs on soundcheck across Detroit, Melbourne and New York City. Often billed alongside CAITY WATSON, Mr. Rachele and Lincoln J. K. Webber. Next up: Sooki Lounge, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SHAY DOE is a techno and industrial artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- My Aeon, Melbourne — Fri, 4 Sept 2026
-- Radio Bar, Melbourne — Sat, 14 Mar 2026
-- My Aeon, Melbourne — Fri, 6 Feb 2026
-- TBA, Melbourne — Sat, 20 Dec 2025
-- Brunswick Artists Bar, Melbourne — Sat, 18 Oct 2025
-- Sub Club Melbourne, Melbourne — Fri, 5 Sept 2025
-- Sub Club Melbourne, Melbourne — Fri, 22 Aug 2025
-- Brunswick Artists Bar, Melbourne — Sat, 7 Jun 2025
+- My Aeon, Melbourne · Fri, 4 Sept 2026
+- Radio Bar, Melbourne · Sat, 14 Mar 2026
+- My Aeon, Melbourne · Fri, 6 Feb 2026
+- TBA, Melbourne · Sat, 20 Dec 2025
+- Brunswick Artists Bar, Melbourne · Sat, 18 Oct 2025
+- Sub Club Melbourne, Melbourne · Fri, 5 Sept 2025
+- Sub Club Melbourne, Melbourne · Fri, 22 Aug 2025
+- Brunswick Artists Bar, Melbourne · Sat, 7 Jun 2025
 
 ## Shares bills with
 

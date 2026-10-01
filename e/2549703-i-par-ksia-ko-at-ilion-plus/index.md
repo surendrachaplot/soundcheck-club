@@ -1,6 +1,6 @@
 # I.par.ksia.ko at Ilion Plus
 
-I.par.ksia.ko at Ilion Plus on Thu 15 Oct, Athens. 1 artist on the bill: VASSIŁINA. Preview the line-up and save it on soundcheck.
+I.par.ksia.ko at Ilion Plus on Thu 15 Oct, Athens. 1 artist: VASSIŁINA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

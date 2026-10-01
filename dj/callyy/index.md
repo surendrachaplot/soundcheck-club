@@ -1,8 +1,8 @@
 # Callyy
 
-Callyy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Callyy is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
-Callyy is a house and disco artist based in Australia, tracked on soundcheck, with 56 sets logged across London and Sydney. Often billed alongside Mixed Methods, Bella Backe and Said Dami. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
+Callyy is a house and disco artist based in Australia, with 56 gigs on soundcheck across London and Sydney. Often billed alongside Mixed Methods, Bella Backe and Said Dami. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Callyy is a house and disco artist based in Australia, tracked on soundcheck, wi
 
 ## Recently played
 
-- E1, London — Sat, 5 Sept 2026
-- Chinese Laundry, Sydney — Fri, 22 May 2026
-- The Ivy, Sydney — Sat, 28 Feb 2026
-- The Ivy, Sydney — Sat, 1 Nov 2025
-- Carousel Bar & Ballroom, Sydney — Sat, 25 Oct 2025
-- Home The Venue, Sydney — Sun, 21 Sept 2025
-- Chinese Laundry, Sydney — Fri, 5 Sept 2025
-- Plaza Hotel Sydney, Sydney — Sat, 28 Jun 2025
+- E1, London · Sat, 5 Sept 2026
+- Chinese Laundry, Sydney · Fri, 22 May 2026
+- The Ivy, Sydney · Sat, 28 Feb 2026
+- The Ivy, Sydney · Sat, 1 Nov 2025
+- Carousel Bar & Ballroom, Sydney · Sat, 25 Oct 2025
+- Home The Venue, Sydney · Sun, 21 Sept 2025
+- Chinese Laundry, Sydney · Fri, 5 Sept 2025
+- Plaza Hotel Sydney, Sydney · Sat, 28 Jun 2025
 
 ## Shares bills with
 

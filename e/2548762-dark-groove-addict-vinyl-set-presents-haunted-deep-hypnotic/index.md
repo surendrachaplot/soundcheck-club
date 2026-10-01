@@ -1,6 +1,6 @@
 # DARK GROOVE ADDICT Vinyl Set presents: Haunted Deep hypnotic Techno Halloween at Culture Cafe
 
-DARK GROOVE ADDICT Vinyl Set presents: Haunted Deep hypnotic Techno Halloween at Culture Cafe on Fri 30 Oct, Bangkok. 2 artists on the bill: djmoca and Kanabis Stoned. Techno and Deep House. Preview the line-up and save it on soundcheck.
+DARK GROOVE ADDICT Vinyl Set presents: Haunted Deep hypnotic Techno Halloween at Culture Cafe on Fri 30 Oct, Bangkok. 2 artists: djmoca and Kanabis Stoned. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

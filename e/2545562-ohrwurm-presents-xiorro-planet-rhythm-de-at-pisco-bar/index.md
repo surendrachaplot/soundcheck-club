@@ -1,6 +1,6 @@
 # Ohrwurm presents Xiorro (Planet Rhythm, DE) at Pisco Bar
 
-Ohrwurm presents Xiorro (Planet Rhythm, DE) at Pisco Bar on Sat 3 Oct, Kuala Lumpur. 2 artists on the bill: Alam and Xiorro. Techno. Preview the line-up and save it on soundcheck.
+Ohrwurm presents Xiorro (Planet Rhythm, DE) at Pisco Bar on Sat 3 Oct, Kuala Lumpur. 2 artists: Alam and Xiorro. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

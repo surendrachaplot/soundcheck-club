@@ -1,6 +1,6 @@
 # Fernweh OPENING SEASON at TBA - LFO
 
-Fernweh OPENING SEASON at TBA - LFO on Fri 16 Oct, Madrid. 3 artists on the bill: Alputo, Amphia and Groovemami. Techno and House. Preview the line-up and save it on soundcheck.
+Fernweh OPENING SEASON at TBA - LFO on Fri 16 Oct, Madrid. 3 artists: Alputo, Amphia and Groovemami. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

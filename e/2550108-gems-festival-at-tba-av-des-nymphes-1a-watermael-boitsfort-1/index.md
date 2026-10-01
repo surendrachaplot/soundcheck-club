@@ -1,6 +1,6 @@
 # ~gems Festival~ at TBA - Av. des Nymphes 1A Watermael-Boitsfort, 1170 Bruxelles
 
-~gems Festival~ at TBA - Av. des Nymphes 1A Watermael-Boitsfort, 1170 Bruxelles on Sat 3 Oct, Brussels. Preview the line-up and save it on soundcheck.
+~gems Festival~ at TBA - Av. des Nymphes 1A Watermael-Boitsfort, 1170 Bruxelles on Sat 3 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

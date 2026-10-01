@@ -1,8 +1,8 @@
 # Downwell
 
-Downwell is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Brussels on Fri, 9 Oct 2026.
+Downwell is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Brussels on Fri, 9 Oct 2026.
 
-Downwell is a techno and ebm artist based in Georgia, tracked on soundcheck, with 30 sets logged across Berlin, Brussels, Budapest and Tbilisi. Often billed alongside Puritan, Nitsa. and Ancient Methods. Next up: TBA, Brussels on Fri 9 Oct.
+Downwell is a techno and ebm artist based in Georgia, with 30 gigs on soundcheck across Berlin, Brussels, Budapest and Tbilisi. Often billed alongside Puritan, Nitsa. and Ancient Methods. Next up: TBA, Brussels on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Downwell is a techno and ebm artist based in Georgia, tracked on soundcheck, wit
 
 ## Recently played
 
-- KHIDI, Tbilisi — Fri, 11 Sept 2026
-- KHIDI, Tbilisi — Fri, 17 Jul 2026
-- KHIDI, Tbilisi — Fri, 19 Jun 2026
-- KHIDI, Tbilisi — Fri, 5 Jun 2026
-- KHIDI, Tbilisi — Sat, 9 May 2026
-- KHIDI, Tbilisi — Fri, 3 Apr 2026
-- KHIDI, Tbilisi — Sat, 10 Jan 2026
-- KHIDI, Tbilisi — Fri, 2 Jan 2026
+- KHIDI, Tbilisi · Fri, 11 Sept 2026
+- KHIDI, Tbilisi · Fri, 17 Jul 2026
+- KHIDI, Tbilisi · Fri, 19 Jun 2026
+- KHIDI, Tbilisi · Fri, 5 Jun 2026
+- KHIDI, Tbilisi · Sat, 9 May 2026
+- KHIDI, Tbilisi · Fri, 3 Apr 2026
+- KHIDI, Tbilisi · Sat, 10 Jan 2026
+- KHIDI, Tbilisi · Fri, 2 Jan 2026
 
 ## Shares bills with
 

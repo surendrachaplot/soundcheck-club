@@ -1,6 +1,6 @@
 # Purrfection X LuchiSveta Label Showcase at Kadinsky Cafe
 
-Purrfection X LuchiSveta Label Showcase at Kadinsky Cafe on Wed 21 Oct, Amsterdam. 3 artists on the bill: Forty Cats, SisterSweet and Zehv. Progressive House. Preview the line-up and save it on soundcheck.
+Purrfection X LuchiSveta Label Showcase at Kadinsky Cafe on Wed 21 Oct, Amsterdam. 3 artists: Forty Cats, SisterSweet and Zehv. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

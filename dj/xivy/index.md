@@ -1,8 +1,8 @@
 # X & Ivy
 
-X & Ivy is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+X & Ivy is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
-X & Ivy are a house and techno duo tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Berlin and Leeds and 6 more. Often billed alongside Jojo Lorenzo, Tinzo and D Stone. Next up: Barunah Plains, Victoria on Mon 28 Dec.
+X & Ivy are a house and techno duo, with 28 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Leeds and 6 more. Often billed alongside Jojo Lorenzo, Tinzo and D Stone. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ X & Ivy are a house and techno duo tracked on soundcheck, with 28 sets logged ac
 
 ## Recently played
 
-- The Cause, London — Fri, 18 Sept 2026
-- The Cause, London — Sat, 20 Jun 2026
-- Balkenhaven, Amsterdam — Sat, 13 Jun 2026
-- Phantom Bar Berlin, Berlin — Fri, 22 May 2026
-- La Terrrazza, Barcelona — Sat, 9 May 2026
-- Palais, London — Fri, 24 Apr 2026
-- Ballroom at Palais, London — Fri, 24 Apr 2026
-- The Greyhound, London — Thu, 26 Mar 2026
+- The Cause, London · Fri, 18 Sept 2026
+- The Cause, London · Sat, 20 Jun 2026
+- Balkenhaven, Amsterdam · Sat, 13 Jun 2026
+- Phantom Bar Berlin, Berlin · Fri, 22 May 2026
+- La Terrrazza, Barcelona · Sat, 9 May 2026
+- Palais, London · Fri, 24 Apr 2026
+- Ballroom at Palais, London · Fri, 24 Apr 2026
+- The Greyhound, London · Thu, 26 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Phantom : Vieze Asbak All Night Long at Phantom, Paris
 
-Phantom : Vieze Asbak All Night Long at Phantom, Paris on Fri 13 Nov, Paris. 1 artist on the bill: Vieze Asbak. Preview the line-up and save it on soundcheck.
+Phantom : Vieze Asbak All Night Long at Phantom, Paris on Fri 13 Nov, Paris. 1 artist: Vieze Asbak. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

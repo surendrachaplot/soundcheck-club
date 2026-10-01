@@ -1,6 +1,6 @@
 # Mr.Disco Kid at DJ Bar Bridge Shinjuku
 
-Mr.Disco Kid at DJ Bar Bridge Shinjuku on Wed 11 Nov, Tokyo. 1 artist on the bill: Mr. Disco Kid. House. Preview the line-up and save it on soundcheck.
+Mr.Disco Kid at DJ Bar Bridge Shinjuku on Wed 11 Nov, Tokyo. 1 artist: Mr. Disco Kid. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Egyptian Lover + Love Supreme at DNA Lounge
 
-Egyptian Lover + Love Supreme at DNA Lounge on Sun 11 Oct, San Francisco/Oakland. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
+Egyptian Lover + Love Supreme at DNA Lounge on Sun 11 Oct, San Francisco/Oakland. Hip-Hop and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

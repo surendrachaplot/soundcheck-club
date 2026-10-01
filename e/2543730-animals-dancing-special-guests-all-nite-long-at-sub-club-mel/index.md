@@ -1,6 +1,6 @@
 # Animals Dancing: Special Guests (All Nite Long) at Sub Club Melbourne
 
-Animals Dancing: Special Guests (All Nite Long) at Sub Club Melbourne on Fri 16 Oct, Melbourne. Techno and House. Preview the line-up and save it on soundcheck.
+Animals Dancing: Special Guests (All Nite Long) at Sub Club Melbourne on Fri 16 Oct, Melbourne. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

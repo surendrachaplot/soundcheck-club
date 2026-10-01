@@ -1,6 +1,6 @@
 # Disco Pastrami: Acid Sauce at Ragoo
 
-Disco Pastrami: Acid Sauce at Ragoo on Thu 26 Nov, Milan. Bass and Acid. Preview the line-up and save it on soundcheck.
+Disco Pastrami: Acid Sauce at Ragoo on Thu 26 Nov, Milan. Bass and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

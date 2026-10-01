@@ -1,6 +1,6 @@
 # Proper NYE 26/27 at Petco Park
 
-Proper NYE 26/27 at Petco Park on Thu 31 Dec, San Diego. 32 artists on the bill: ¥ØU$UK€ ¥UK1MAT$U, Beltran, Ben Sterling and canary yellow and 28 more. Preview the line-up and save it on soundcheck.
+Proper NYE 26/27 at Petco Park on Thu 31 Dec, San Diego. 32 artists: ¥ØU$UK€ ¥UK1MAT$U, Beltran, Ben Sterling and canary yellow and 28 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

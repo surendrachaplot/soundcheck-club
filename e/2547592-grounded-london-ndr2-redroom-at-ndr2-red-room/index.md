@@ -1,6 +1,6 @@
 # Grounded London: NDR2 RedRoom at NDR2 Red Room
 
-Grounded London: NDR2 RedRoom at NDR2 Red Room on Sat 7 Nov, London. 4 artists on the bill: Aaron Burr, Martel (UK), Myles Apps and Rhys Dyer. Progressive House and Electro. Preview the line-up and save it on soundcheck.
+Grounded London: NDR2 RedRoom at NDR2 Red Room on Sat 7 Nov, London. 4 artists: Aaron Burr, Martel (UK), Myles Apps and Rhys Dyer. Progressive House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Detlef
 
-Detlef is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrik, Madrid on Sat, 31 Oct 2026.
+Detlef is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrik, Madrid on Sat, 31 Oct 2026.
 
-Detlef is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Athens, Austin, Barcelona and Brighton and 22 more. Often billed alongside Joey Daniel, Late Replies and Latmun. Next up: Fabrik, Madrid on Sat 31 Oct.
+Detlef is a tech house and house artist based in United Kingdom, with 79 gigs on soundcheck across Athens, Austin, Barcelona and Brighton and 22 more. Often billed alongside Joey Daniel, Late Replies and Latmun. Next up: Fabrik, Madrid on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Detlef is a tech house and house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Cova Santa, Ibiza — Sun, 27 Sept 2026
-- TBA - Plateia Olypiakis Aeroporias Elliniko , Athens — Sun, 6 Sept 2026
-- TBA - The Ba11room, San Diego — Fri, 22 May 2026
-- Prysm Nightclub, Chicago — Fri, 13 Mar 2026
-- Dybbuk, Athens — Sat, 17 Jan 2026
-- TBA, Naples — Sat, 10 Jan 2026
-- Cozmo Athens, Athens — Sun, 7 Dec 2025
-- Supermarket, Zurich — Fri, 24 Oct 2025
+- Cova Santa, Ibiza · Sun, 27 Sept 2026
+- TBA - Plateia Olypiakis Aeroporias Elliniko , Athens · Sun, 6 Sept 2026
+- TBA - The Ba11room, San Diego · Fri, 22 May 2026
+- Prysm Nightclub, Chicago · Fri, 13 Mar 2026
+- Dybbuk, Athens · Sat, 17 Jan 2026
+- TBA, Naples · Sat, 10 Jan 2026
+- Cozmo Athens, Athens · Sun, 7 Dec 2025
+- Supermarket, Zurich · Fri, 24 Oct 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Partisan 10th Birthday: Part 1 at TBA
 
-Partisan 10th Birthday: Part 1 at TBA on Fri 6 Nov, Manchester. House and Bass. Preview the line-up and save it on soundcheck.
+Partisan 10th Birthday: Part 1 at TBA on Fri 6 Nov, Manchester. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ClubReal³ Welcome: AV Workshop and Party at Off The Cuff
 
-ClubReal³ Welcome: AV Workshop and Party at Off The Cuff on Fri 9 Oct, London. 3 artists on the bill: Scar XL, Takenbymarshall and trainsbopping. Trance and Hardcore. Preview the line-up and save it on soundcheck.
+ClubReal³ Welcome: AV Workshop and Party at Off The Cuff on Fri 9 Oct, London. 3 artists: Scar XL, Takenbymarshall and trainsbopping. Trance and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

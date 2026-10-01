@@ -1,8 +1,8 @@
 # EZE RAMIREZ
 
-EZE RAMIREZ is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at SILO, New York City on Sat, 17 Oct 2026.
+EZE RAMIREZ is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at SILO, New York City on Sat, 17 Oct 2026.
 
-EZE RAMIREZ is a techno and progressive house artist based in Argentina, tracked on soundcheck, with 16 sets logged across Amsterdam, Buenos Aires, Copenhagen and New York City. Often billed alongside Bob Tosh, Dist and Greta Meier. Next up: SILO, New York City on Sat 17 Oct.
+EZE RAMIREZ is a techno and progressive house artist based in Argentina, with 16 gigs on soundcheck across Amsterdam, Buenos Aires, Copenhagen and New York City. Often billed alongside Bob Tosh, Dist and Greta Meier. Next up: SILO, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ EZE RAMIREZ is a techno and progressive house artist based in Argentina, tracked
 
 ## Recently played
 
-- TBA - Grand Hall, La Plata, Buenos Aires — Sat, 18 Jul 2026
-- TBA - Parque de la Ciudad, Villa Soldati, Buenos Aires — Sat, 14 Feb 2026
-- 50:Hertz, Amsterdam — Thu, 23 Oct 2025
-- The Bow, Buenos Aires — Sat, 27 Sept 2025
-- TBA - A CONFIRMAR, La Plata, Buenos Aires — Sat, 5 Jul 2025
-- TBA - Parque de la Ciudad, Villa Soldati, Buenos Aires — Fri, 18 Apr 2025
-- TBA - Circus, La Plata, Buenos Aires — Tue, 24 Dec 2024
-- Supperclub Cruise, Amsterdam — Fri, 18 Oct 2024
+- TBA - Grand Hall, La Plata, Buenos Aires · Sat, 18 Jul 2026
+- TBA - Parque de la Ciudad, Villa Soldati, Buenos Aires · Sat, 14 Feb 2026
+- 50:Hertz, Amsterdam · Thu, 23 Oct 2025
+- The Bow, Buenos Aires · Sat, 27 Sept 2025
+- TBA - A CONFIRMAR, La Plata, Buenos Aires · Sat, 5 Jul 2025
+- TBA - Parque de la Ciudad, Villa Soldati, Buenos Aires · Fri, 18 Apr 2025
+- TBA - Circus, La Plata, Buenos Aires · Tue, 24 Dec 2024
+- Supperclub Cruise, Amsterdam · Fri, 18 Oct 2024
 
 ## Shares bills with
 

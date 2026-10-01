@@ -1,8 +1,8 @@
 # Mesmé
 
-Mesmé is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Los Angeles on Sun, 4 Oct 2026.
+Mesmé is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Los Angeles on Sun, 4 Oct 2026.
 
-Mesmé is a techno and house artist based in Singapore, tracked on soundcheck, with 50 sets logged across Chicago, Detroit, Los Angeles and New York City and 3 more. Often billed alongside Maheras, X CLUB. and Etari. Next up: TBA, Los Angeles on Sun 4 Oct.
+Mesmé is a techno and house artist based in Singapore, with 50 gigs on soundcheck across Chicago, Detroit, Los Angeles and New York City and 3 more. Often billed alongside Maheras, X CLUB. and Etari. Next up: TBA, Los Angeles on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Mesmé is a techno and house artist based in Singapore, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA - IYKYK , Los Angeles — Sat, 26 Sept 2026
-- Hollywood Palladium, Los Angeles — Fri, 25 Sept 2026
-- Apotheke, Los Angeles — Sun, 20 Sept 2026
-- Lodge Room, Los Angeles — Fri, 21 Aug 2026
-- Jungle Hollywood, Los Angeles — Wed, 19 Aug 2026
-- Silverlake Lounge, Los Angeles — Thu, 13 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- public records, New York City — Sat, 20 Jun 2026
+- TBA - IYKYK , Los Angeles · Sat, 26 Sept 2026
+- Hollywood Palladium, Los Angeles · Fri, 25 Sept 2026
+- Apotheke, Los Angeles · Sun, 20 Sept 2026
+- Lodge Room, Los Angeles · Fri, 21 Aug 2026
+- Jungle Hollywood, Los Angeles · Wed, 19 Aug 2026
+- Silverlake Lounge, Los Angeles · Thu, 13 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- public records, New York City · Sat, 20 Jun 2026
 
 ## Shares bills with
 

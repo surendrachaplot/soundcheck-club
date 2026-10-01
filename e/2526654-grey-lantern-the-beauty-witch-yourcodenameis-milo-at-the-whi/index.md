@@ -1,6 +1,6 @@
 # Grey Lantern & The Beauty Witch: YOURCODENAMEIS:MILO at The White Hotel
 
-Grey Lantern & The Beauty Witch: YOURCODENAMEIS:MILO at The White Hotel on Sat 12 Dec, Manchester. Post-Punk. Preview the line-up and save it on soundcheck.
+Grey Lantern & The Beauty Witch: YOURCODENAMEIS:MILO at The White Hotel on Sat 12 Dec, Manchester. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

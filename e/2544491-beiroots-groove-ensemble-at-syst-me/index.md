@@ -1,6 +1,6 @@
 # Beiroots Groove Ensemble at Système
 
-Beiroots Groove Ensemble at Système on Sun 25 Oct, Montreal. Preview the line-up and save it on soundcheck.
+Beiroots Groove Ensemble at Système on Sun 25 Oct, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

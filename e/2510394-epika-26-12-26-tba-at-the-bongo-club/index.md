@@ -1,6 +1,6 @@
 # EPiKA: 26.12.26 TBA at The Bongo Club
 
-EPiKA: 26.12.26 TBA at The Bongo Club on Sat 26 Dec, Edinburgh. Techno. Preview the line-up and save it on soundcheck.
+EPiKA: 26.12.26 TBA at The Bongo Club on Sat 26 Dec, Edinburgh. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

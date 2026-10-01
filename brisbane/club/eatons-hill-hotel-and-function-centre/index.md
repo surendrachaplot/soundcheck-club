@@ -1,8 +1,8 @@
 # Eatons Hill Hotel and Function Centre
 
-Eatons Hill Hotel and Function Centre is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dangerous Goods XXL Festival - Brisbane 2027" on Fri, 22 Jan 2027.
+Eatons Hill Hotel and Function Centre is a music venue in Brisbane with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dangerous Goods XXL Festival - Brisbane 2027" on Fri, 22 Jan 2027.
 
-Eatons Hill Hotel and Function Centre is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including Adam Bartas, ASLO, Boris Brejcha and Claptone and 2 more. Browse upcoming dates, start times and who's playing. 646 S Pine Rd, Brendale QLD 4500, Australia.
+Eatons Hill Hotel and Function Centre is a music venue in Brisbane listed on soundcheck. 1 upcoming gig, with line-ups including Adam Bartas, ASLO, Boris Brejcha and Claptone and 2 more. See dates, start times and who's playing. 646 S Pine Rd, Brendale QLD 4500, Australia.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle] at Cu
 
-Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle] at Cu on Sat 17 Oct, London. 4 artists on the bill: Bisect, ETHICS, Hickey and Merlin. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Grooves #17: Propulsion, Hickey, Tombs, Merlin, Renfer, Bisect [turntable-only, DnB & jungle] at Cu on Sat 17 Oct, London. 4 artists: Bisect, ETHICS, Hickey and Merlin. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

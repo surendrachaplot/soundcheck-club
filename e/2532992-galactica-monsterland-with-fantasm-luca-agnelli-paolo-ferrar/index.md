@@ -1,6 +1,6 @@
 # Galactica Monsterland with Fantasm, Luca Agnelli, Paolo Ferrara, SANTØS, Winson at TBA - Autodromo di Imola
 
-Galactica Monsterland with Fantasm, Luca Agnelli, Paolo Ferrara, SANTØS, Winson at TBA - Autodromo di Imola on Sat 31 Oct, Central. 7 artists on the bill: Fantasm, Gianni Di Bernardo, Luca Agnelli and Paolo Ferrara and 3 more. Preview the line-up and save it on soundcheck.
+Galactica Monsterland with Fantasm, Luca Agnelli, Paolo Ferrara, SANTØS, Winson at TBA - Autodromo di Imola on Sat 31 Oct, Central. 7 artists: Fantasm, Gianni Di Bernardo, Luca Agnelli and Paolo Ferrara and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # 2VIBES
 
-2VIBES is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Link, Bologna on Sat, 10 Oct 2026.
+2VIBES is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Link, Bologna on Sat, 10 Oct 2026.
 
-2VIBES is an electronica and techno artist based in Spain, tracked on soundcheck, with 5 sets logged across Barcelona, Bologna, Naples and Paris and 1 more. Often billed alongside Rond, Flavio Deff and Gio.. Next up: Link, Bologna on Sat 10 Oct.
+2VIBES is an electronica and techno artist based in Spain, with 5 gigs on soundcheck across Barcelona, Bologna, Naples and Paris and 1 more. Often billed alongside Rond, Flavio Deff and Gio.. Next up: Link, Bologna on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,10 +12,10 @@
 
 ## Recently played
 
-- TBA - TIERRA VERDE BIOCULTURA , Barcelona — Sat, 20 Jun 2026
-- THE MAGICK BAR, Rome — Sat, 23 Aug 2025
-- TBA - Vesuvio Secret Location, Naples — Sat, 5 Apr 2025
-- Le Duplex Paris, Paris — Thu, 12 Dec 2024
+- TBA - TIERRA VERDE BIOCULTURA , Barcelona · Sat, 20 Jun 2026
+- THE MAGICK BAR, Rome · Sat, 23 Aug 2025
+- TBA - Vesuvio Secret Location, Naples · Sat, 5 Apr 2025
+- Le Duplex Paris, Paris · Thu, 12 Dec 2024
 
 ## Shares bills with
 

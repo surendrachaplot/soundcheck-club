@@ -1,6 +1,6 @@
 # Free Your Funk présente Theo Parrish All Night Long at La Bellevilloise
 
-Free Your Funk présente Theo Parrish All Night Long at La Bellevilloise on Sat 17 Oct, Paris. 2 artists on the bill: Theo Parrish and Wolff. House and Disco. Preview the line-up and save it on soundcheck.
+Free Your Funk présente Theo Parrish All Night Long at La Bellevilloise on Sat 17 Oct, Paris. 2 artists: Theo Parrish and Wolff. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

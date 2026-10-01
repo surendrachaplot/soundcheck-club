@@ -1,6 +1,6 @@
 # [SOLD OUT] SubHarmonic: Jungle & Jazz at Stage and Radio
 
-[SOLD OUT] SubHarmonic: Jungle & Jazz at Stage and Radio on Sat 10 Oct, Manchester. 3 artists on the bill: adamine, simmo and Sweetly. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+[SOLD OUT] SubHarmonic: Jungle & Jazz at Stage and Radio on Sat 10 Oct, Manchester. 3 artists: adamine, simmo and Sweetly. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SOUZVUK #2 at Bike Jesus
 
-SOUZVUK #2 at Bike Jesus on Sat 17 Oct, Prague. 3 artists on the bill: Andrea Dare, Ghandi and Saku. Tech House and Dub Techno. Preview the line-up and save it on soundcheck.
+SOUZVUK #2 at Bike Jesus on Sat 17 Oct, Prague. 3 artists: Andrea Dare, Ghandi and Saku. Tech House and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

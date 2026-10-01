@@ -1,6 +1,6 @@
 # TENTACLES at 33/45 Club
 
-TENTACLES at 33/45 Club on Fri 9 Oct, Valencia. 4 artists on the bill: buuo, CIKTRIZ, Neonexus and OKTAY. Techno. Preview the line-up and save it on soundcheck.
+TENTACLES at 33/45 Club on Fri 9 Oct, Valencia. 4 artists: buuo, CIKTRIZ, Neonexus and OKTAY. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

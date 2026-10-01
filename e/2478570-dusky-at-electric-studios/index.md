@@ -1,6 +1,6 @@
 # Dusky at Electric Studios
 
-Dusky at Electric Studios on Fri 16 Oct, Sheffield. 3 artists on the bill: Amy Dabbs, Denham Audio and Dusky. Techno and House. Preview the line-up and save it on soundcheck.
+Dusky at Electric Studios on Fri 16 Oct, Sheffield. 3 artists: Amy Dabbs, Denham Audio and Dusky. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

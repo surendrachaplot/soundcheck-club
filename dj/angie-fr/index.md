@@ -1,8 +1,8 @@
 # Angie (FR)
 
-Angie (FR) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ijver, Amsterdam on Sat, 24 Oct 2026.
+Angie (FR) is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ijver, Amsterdam on Sat, 24 Oct 2026.
 
-Angie (FR) is a techno and trance artist based in France, tracked on soundcheck, with 40 sets logged across Amsterdam, Athens, Cologne and Cyprus and 3 more. Often billed alongside In-Tan, Alpha Tracks and Paralich. Next up: Ijver, Amsterdam on Sat 24 Oct.
+Angie (FR) is a techno and trance artist based in France, with 40 gigs on soundcheck across Amsterdam, Athens, Cologne and Cyprus and 3 more. Often billed alongside In-Tan, Alpha Tracks and Paralich. Next up: Ijver, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Angie (FR) is a techno and trance artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- Etko, Cyprus — Fri, 25 Sept 2026
-- Kilomètre25, Paris — Fri, 11 Sept 2026
-- Odonien, Cologne — Fri, 21 Aug 2026
-- Le Trabendo, Paris — Sat, 2 May 2026
-- Petit Bain, Paris — Fri, 3 Apr 2026
-- Mia Mao, Paris — Sat, 7 Mar 2026
-- The Greenwood Hotel, Sydney — Sat, 21 Feb 2026
-- Mia Mao, Paris — Thu, 16 Oct 2025
+- Etko, Cyprus · Fri, 25 Sept 2026
+- Kilomètre25, Paris · Fri, 11 Sept 2026
+- Odonien, Cologne · Fri, 21 Aug 2026
+- Le Trabendo, Paris · Sat, 2 May 2026
+- Petit Bain, Paris · Fri, 3 Apr 2026
+- Mia Mao, Paris · Sat, 7 Mar 2026
+- The Greenwood Hotel, Sydney · Sat, 21 Feb 2026
+- Mia Mao, Paris · Thu, 16 Oct 2025
 
 ## Shares bills with
 

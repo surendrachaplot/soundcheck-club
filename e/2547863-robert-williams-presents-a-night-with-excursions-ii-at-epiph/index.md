@@ -1,6 +1,6 @@
 # Robert Williams presents: A Night with Excursions II at Epiphany Center for the Arts
 
-Robert Williams presents: A Night with Excursions II at Epiphany Center for the Arts on Sat 24 Oct, Chicago. 3 artists on the bill: Cordell Johnson, DJ Celeste Alexander and James Vincent. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Robert Williams presents: A Night with Excursions II at Epiphany Center for the Arts on Sat 24 Oct, Chicago. 3 artists: Cordell Johnson, DJ Celeste Alexander and James Vincent. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kobosil at Akvárium Klub
 
-Kobosil at Akvárium Klub on Fri 2 Oct, Budapest. 1 artist on the bill: Kobosil. Techno. Preview the line-up and save it on soundcheck.
+Kobosil at Akvárium Klub on Fri 2 Oct, Budapest. 1 artist: Kobosil. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

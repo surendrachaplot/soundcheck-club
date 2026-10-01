@@ -1,6 +1,6 @@
 # TECHNO - SCHRZØ EXTENDED MODULAR LIVE - NICOLAS CETINA at DETROIT CLUB
 
-TECHNO - SCHRZØ EXTENDED MODULAR LIVE - NICOLAS CETINA at DETROIT CLUB on Sat 10 Oct, Barcelona. 2 artists on the bill: Nicolas Cetina. and SCHRZØ. Techno and Experimental. Preview the line-up and save it on soundcheck.
+TECHNO - SCHRZØ EXTENDED MODULAR LIVE - NICOLAS CETINA at DETROIT CLUB on Sat 10 Oct, Barcelona. 2 artists: Nicolas Cetina. and SCHRZØ. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ross From Friends & Cameo Blush: 4 Fridays at Phonox (Opening Party) at Phonox
 
-Ross From Friends & Cameo Blush: 4 Fridays at Phonox (Opening Party) on Fri 6 Nov, London. 2 artists on the bill: Cameo Blush and Ross From Friends. House. Preview the line-up and save it on soundcheck.
+Ross From Friends & Cameo Blush: 4 Fridays at Phonox (Opening Party) on Fri 6 Nov, London. 2 artists: Cameo Blush and Ross From Friends. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

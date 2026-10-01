@@ -1,6 +1,6 @@
 # End Of An Era: Hidden Reef at Silent Studios
 
-End Of An Era: Hidden Reef at Silent Studios on Fri 9 Oct, Auckland. 1 artist on the bill: Dylan C. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+End Of An Era: Hidden Reef at Silent Studios on Fri 9 Oct, Auckland. 1 artist: Dylan C. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

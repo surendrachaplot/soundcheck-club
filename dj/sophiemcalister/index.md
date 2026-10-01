@@ -1,8 +1,8 @@
 # Sophie McAlister
 
-Sophie McAlister is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Night Tales Loft, London on Sat, 12 Dec 2026.
+Sophie McAlister is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Tales Loft, London on Sat, 12 Dec 2026.
 
-Sophie McAlister is a house and techno artist based in Australia, tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Berlin and Brisbane and 5 more. Often billed alongside Bertie, Bradley Zero and Moopie. Next up: Night Tales Loft, London on Sat 12 Dec.
+Sophie McAlister is a house and techno artist based in Australia, with 73 gigs on soundcheck across Amsterdam, Bali, Berlin and Brisbane and 5 more. Often billed alongside Bertie, Bradley Zero and Moopie. Next up: Night Tales Loft, London on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sophie McAlister is a house and techno artist based in Australia, tracked on sou
 
 ## Recently played
 
-- TBA - Hon’s BBQ (Queen’s Yard) , London — Sun, 26 Jul 2026
-- The Cause, London — Sat, 25 Jul 2026
-- M.O.T, London — Fri, 26 Jun 2026
-- The Carpet Shop, London — Sat, 23 May 2026
-- Peckham Rye Park, London — Fri, 22 May 2026
-- TBA, London — Thu, 21 May 2026
-- Club Cheek, London — Fri, 8 May 2026
-- Palais, London — Fri, 10 Apr 2026
+- TBA - Hon’s BBQ (Queen’s Yard) , London · Sun, 26 Jul 2026
+- The Cause, London · Sat, 25 Jul 2026
+- M.O.T, London · Fri, 26 Jun 2026
+- The Carpet Shop, London · Sat, 23 May 2026
+- Peckham Rye Park, London · Fri, 22 May 2026
+- TBA, London · Thu, 21 May 2026
+- Club Cheek, London · Fri, 8 May 2026
+- Palais, London · Fri, 10 Apr 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # La Wo dj set spécial halloween at Le Makeda
 
-La Wo dj set spécial halloween at Le Makeda on Sat 31 Oct, Marseille. Techno and Acid. Preview the line-up and save it on soundcheck.
+La Wo dj set spécial halloween at Le Makeda on Sat 31 Oct, Marseille. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

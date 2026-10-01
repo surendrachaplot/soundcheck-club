@@ -1,6 +1,6 @@
 # Dynamite Disco: Disco, Funk + Soul Explosion at Hootananny Brixton
 
-Dynamite Disco: Disco, Funk + Soul Explosion at Hootananny Brixton on Sat 10 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+Dynamite Disco: Disco, Funk + Soul Explosion at Hootananny Brixton on Sat 10 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

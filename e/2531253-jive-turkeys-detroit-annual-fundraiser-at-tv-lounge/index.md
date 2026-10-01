@@ -1,6 +1,6 @@
 # Jive Turkeys Detroit annual fundraiser at TV Lounge
 
-Jive Turkeys Detroit annual fundraiser at TV Lounge on Sun 4 Oct, Detroit. 19 artists on the bill: Al Ester, Ashton Swinton, Ataxia and Bruce Bailey and 15 more. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Jive Turkeys Detroit annual fundraiser at TV Lounge on Sun 4 Oct, Detroit. 19 artists: Al Ester, Ashton Swinton, Ataxia and Bruce Bailey and 15 more. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

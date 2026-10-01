@@ -1,6 +1,6 @@
 # (after) hours 001 at TBA
 
-(after) hours 001 at TBA on Fri 9 Oct, London. House and Afro House. Preview the line-up and save it on soundcheck.
+(after) hours 001 at TBA on Fri 9 Oct, London. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

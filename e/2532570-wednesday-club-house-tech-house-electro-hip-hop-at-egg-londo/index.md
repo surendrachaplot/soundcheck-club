@@ -1,6 +1,6 @@
 # Wednesday Club: House, Tech House, Electro & Hip Hop at Egg London
 
-Wednesday Club: House, Tech House, Electro & Hip Hop at Egg London on Wed 7 Oct, London. House and Pop. Preview the line-up and save it on soundcheck.
+Wednesday Club: House, Tech House, Electro & Hip Hop at Egg London on Wed 7 Oct, London. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Steve Angello - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau
 
-Steve Angello - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau on Fri 16 Oct, Montreal. 3 artists on the bill: Paskal Daze, SHEE and Steve Angello. Electro. Preview the line-up and save it on soundcheck.
+Steve Angello - Parc Jean-Drapeau at Piknic Électronik / Parc Jean Drapeau on Fri 16 Oct, Montreal. 3 artists: Paskal Daze, SHEE and Steve Angello. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

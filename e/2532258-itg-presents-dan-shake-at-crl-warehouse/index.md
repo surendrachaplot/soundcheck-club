@@ -1,6 +1,6 @@
 # ITG presents: Dan Shake at CRL Warehouse
 
-ITG presents: Dan Shake at CRL Warehouse on Sat 3 Oct, North. 1 artist on the bill: Dan Shake. Preview the line-up and save it on soundcheck.
+ITG presents: Dan Shake at CRL Warehouse on Sat 3 Oct, North. 1 artist: Dan Shake. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

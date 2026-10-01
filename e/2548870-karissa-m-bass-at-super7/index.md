@@ -1,6 +1,6 @@
 # KARISSA • M. BASS at Super7
 
-KARISSA • M. BASS at Super7 on Thu 1 Oct, Lyon. Preview the line-up and save it on soundcheck.
+KARISSA • M. BASS at Super7 on Thu 1 Oct, Lyon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

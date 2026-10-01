@@ -1,6 +1,6 @@
 # SECRETRAVES // HALLOWEEN SPECIAL at TBA - SECRET WAREHOUSE
 
-SECRETRAVES // HALLOWEEN SPECIAL at TBA - SECRET WAREHOUSE on Sat 31 Oct, Cologne. Techno. Preview the line-up and save it on soundcheck.
+SECRETRAVES // HALLOWEEN SPECIAL at TBA - SECRET WAREHOUSE on Sat 31 Oct, Cologne. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

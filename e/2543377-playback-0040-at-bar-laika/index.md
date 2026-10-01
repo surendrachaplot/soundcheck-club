@@ -1,6 +1,6 @@
 # Playback 0040 at Bar Laika
 
-Playback 0040 at Bar Laika on Wed 21 Oct, New York City. 1 artist on the bill: Solpara. Downtempo. Preview the line-up and save it on soundcheck.
+Playback 0040 at Bar Laika on Wed 21 Oct, New York City. 1 artist: Solpara. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

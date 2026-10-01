@@ -1,6 +1,6 @@
 # goodie no.157: Rob Paine, Bridget B at The Barbary
 
-goodie no.157: Rob Paine, Bridget B at The Barbary on Sat 3 Oct, Philadelphia. 2 artists on the bill: Bridget B and Rob Paine. House and Tech House. Preview the line-up and save it on soundcheck.
+goodie no.157: Rob Paine, Bridget B at The Barbary on Sat 3 Oct, Philadelphia. 2 artists: Bridget B and Rob Paine. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

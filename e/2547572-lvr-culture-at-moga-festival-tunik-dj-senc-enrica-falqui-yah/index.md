@@ -1,6 +1,6 @@
 # LVR CULTURE at MOGA FESTIVAL: Tunik, DJ Senc, Enrica Falqui, YAHYA, OUSSEKI at Sofitel Essaouira Mogador
 
-LVR CULTURE at MOGA FESTIVAL: Tunik, DJ Senc, Enrica Falqui, YAHYA, OUSSEKI at Sofitel Essaouira Mogador on Sun 4 Oct, Morocco. 4 artists on the bill: DJ Senc, Enrica Falqui, Tunik and Yahya. Preview the line-up and save it on soundcheck.
+LVR CULTURE at MOGA FESTIVAL: Tunik, DJ Senc, Enrica Falqui, YAHYA, OUSSEKI at Sofitel Essaouira Mogador on Sun 4 Oct, Morocco. 4 artists: DJ Senc, Enrica Falqui, Tunik and Yahya. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

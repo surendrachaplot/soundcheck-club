@@ -1,6 +1,6 @@
 # STROBE THERAPY at Prozak 2.0
 
-STROBE THERAPY at Prozak 2.0 on Fri 2 Oct, Krakow. Electro. Preview the line-up and save it on soundcheck.
+STROBE THERAPY at Prozak 2.0 on Fri 2 Oct, Krakow. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

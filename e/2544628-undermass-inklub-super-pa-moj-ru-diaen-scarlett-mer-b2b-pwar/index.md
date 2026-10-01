@@ -1,6 +1,6 @@
 # UNDERMASS INKLUB ||| SUPER PA • MOJÜRU • DIAEN • SCARLETT • MER B2B PWARS at Inklub Madrid
 
-UNDERMASS INKLUB ||| SUPER PA • MOJÜRU • DIAEN • SCARLETT • MER B2B PWARS at Inklub Madrid on Sun 11 Oct, Madrid. 2 artists on the bill: DIAEN and Súper Pä. Techno. Preview the line-up and save it on soundcheck.
+UNDERMASS INKLUB ||| SUPER PA • MOJÜRU • DIAEN • SCARLETT • MER B2B PWARS at Inklub Madrid on Sun 11 Oct, Madrid. 2 artists: DIAEN and Súper Pä. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

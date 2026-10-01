@@ -1,6 +1,6 @@
 # Genesis "Lost Frequency" at WaV
 
-Genesis "Lost Frequency" at WaV on Sat 12 Dec, Liverpool. 2 artists on the bill: Aidyscape and Daxson. Trance. Preview the line-up and save it on soundcheck.
+Genesis "Lost Frequency" at WaV on Sat 12 Dec, Liverpool. 2 artists: Aidyscape and Daxson. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

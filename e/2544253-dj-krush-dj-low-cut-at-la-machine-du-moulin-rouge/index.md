@@ -1,6 +1,6 @@
 # DJ KRUSH + DJ Low Cut at La Machine Du Moulin Rouge
 
-DJ KRUSH + DJ Low Cut at La Machine Du Moulin Rouge on Mon 12 Oct, Paris. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+DJ KRUSH + DJ Low Cut at La Machine Du Moulin Rouge on Mon 12 Oct, Paris. Hip-Hop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

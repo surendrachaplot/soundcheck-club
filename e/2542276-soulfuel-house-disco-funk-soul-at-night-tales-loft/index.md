@@ -1,6 +1,6 @@
 # SOULFUEL: House, Disco, Funk, Soul at Night Tales Loft
 
-SOULFUEL: House, Disco, Funk, Soul at Night Tales Loft on Fri 11 Dec, London. Preview the line-up and save it on soundcheck.
+SOULFUEL: House, Disco, Funk, Soul at Night Tales Loft on Fri 11 Dec, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

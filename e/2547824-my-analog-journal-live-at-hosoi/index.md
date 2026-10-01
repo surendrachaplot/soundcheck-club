@@ -1,6 +1,6 @@
 # My Analog Journal (Live) at Hosoi
 
-My Analog Journal (Live) at Hosoi on Thu 8 Oct, Stockholm. Preview the line-up and save it on soundcheck.
+My Analog Journal (Live) at Hosoi on Thu 8 Oct, Stockholm. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

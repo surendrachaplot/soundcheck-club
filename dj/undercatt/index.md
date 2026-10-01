@@ -1,8 +1,8 @@
 # Undercatt
 
-Undercatt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Apophis Club, Milan on Sat, 17 Oct 2026.
+Undercatt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Apophis Club, Milan on Sat, 17 Oct 2026.
 
-Undercatt is a techno and house artist based in Italy, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Amiti, Axel Haube and Brian Cid. Next up: Apophis Club, Milan on Sat 17 Oct.
+Undercatt is a techno and house artist based in Italy, with 48 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 23 more. Often billed alongside Amiti, Axel Haube and Brian Cid. Next up: Apophis Club, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Undercatt is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 ## Recently played
 
-- Society, Brussels — Sat, 26 Sept 2026
-- Kastel, Istanbul — Wed, 20 May 2026
-- Luz De Gas, Barcelona — Sat, 9 May 2026
-- Audio Club, Geneva — Fri, 27 Feb 2026
-- Bikini Club, Barcelona — Sat, 3 Jan 2026
-- Klein Phönix, Istanbul — Sat, 20 Dec 2025
-- Klein, Istanbul — Sat, 1 Nov 2025
-- Society, Brussels — Sat, 25 Oct 2025
+- Society, Brussels · Sat, 26 Sept 2026
+- Kastel, Istanbul · Wed, 20 May 2026
+- Luz De Gas, Barcelona · Sat, 9 May 2026
+- Audio Club, Geneva · Fri, 27 Feb 2026
+- Bikini Club, Barcelona · Sat, 3 Jan 2026
+- Klein Phönix, Istanbul · Sat, 20 Dec 2025
+- Klein, Istanbul · Sat, 1 Nov 2025
+- Society, Brussels · Sat, 25 Oct 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Wonderful Days - The Classic Rave Festival VOL X at Bootshaus
 
-Wonderful Days - The Classic Rave Festival VOL X at Bootshaus on Sat 14 Nov, Cologne. 7 artists on the bill: Da Hool, DJ Falk, DJ Sammy and Eric Sneo and 3 more. Preview the line-up and save it on soundcheck.
+Wonderful Days - The Classic Rave Festival VOL X at Bootshaus on Sat 14 Nov, Cologne. 7 artists: Da Hool, DJ Falk, DJ Sammy and Eric Sneo and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

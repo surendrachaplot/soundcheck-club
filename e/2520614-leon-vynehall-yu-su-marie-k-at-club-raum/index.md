@@ -1,6 +1,6 @@
 # Leon Vynehall, Yu Su, Marie K at CLUB RAUM
 
-Leon Vynehall, Yu Su, Marie K at CLUB RAUM on Fri 9 Oct, Amsterdam. 3 artists on the bill: Leon Vynehall, Marie K and Yu Su. Preview the line-up and save it on soundcheck.
+Leon Vynehall, Yu Su, Marie K at CLUB RAUM on Fri 9 Oct, Amsterdam. 3 artists: Leon Vynehall, Marie K and Yu Su. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

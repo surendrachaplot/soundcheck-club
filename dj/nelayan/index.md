@@ -1,8 +1,8 @@
 # Nelayan
 
-Nelayan is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Amsterdam Central Station, Amsterdam on Sun, 25 Oct 2026.
+Nelayan is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sun, 25 Oct 2026.
 
-Nelayan is a techno and club artist based in France, tracked on soundcheck, with 6 sets logged across Amsterdam and Barcelona. Often billed alongside Julian Ess, AELVA K and Albin Brezlan. Next up: Amsterdam Central Station, Amsterdam on Sun 25 Oct.
+Nelayan is a techno and club artist based in France, with 6 gigs on soundcheck across Amsterdam and Barcelona. Often billed alongside Julian Ess, AELVA K and Albin Brezlan. Next up: Amsterdam Central Station, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Nelayan is a techno and club artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
-- Rachdingue, Barcelona — Sat, 22 Aug 2026
-- Rachdingue, Barcelona — Sat, 9 May 2026
-- Rachdingue, Barcelona — Sat, 7 Mar 2026
-- Rachdingue, Barcelona — Sat, 23 Aug 2025
-- Rachdingue, Barcelona — Sat, 17 May 2025
+- Rachdingue, Barcelona · Sat, 22 Aug 2026
+- Rachdingue, Barcelona · Sat, 9 May 2026
+- Rachdingue, Barcelona · Sat, 7 Mar 2026
+- Rachdingue, Barcelona · Sat, 23 Aug 2025
+- Rachdingue, Barcelona · Sat, 17 May 2025
 
 ## Shares bills with
 

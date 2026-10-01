@@ -1,6 +1,6 @@
 # Park Nights 2026: Shala Miller at Serpentine Galleries
 
-Park Nights 2026: Shala Miller at Serpentine Galleries on Fri 2 Oct, London. Experimental and Classical. Preview the line-up and save it on soundcheck.
+Park Nights 2026: Shala Miller at Serpentine Galleries on Fri 2 Oct, London. Experimental and Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

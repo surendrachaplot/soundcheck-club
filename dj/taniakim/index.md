@@ -1,8 +1,8 @@
 # Tania Kim
 
-Tania Kim is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OT301, Amsterdam on Sat, 24 Oct 2026.
+Tania Kim is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OT301, Amsterdam on Sat, 24 Oct 2026.
 
-Tania Kim is a techno and club artist based in Italy, tracked on soundcheck, with 22 sets logged across Amsterdam, Milan and Rome. Often billed alongside Waldo, DRUM THE SYSTEM live and Atmosphreal. Next up: OT301, Amsterdam on Sat 24 Oct.
+Tania Kim is a techno and club artist based in Italy, with 22 gigs on soundcheck across Amsterdam, Milan and Rome. Often billed alongside Waldo, DRUM THE SYSTEM live and Atmosphreal. Next up: OT301, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Tania Kim is a techno and club artist based in Italy, tracked on soundcheck, wit
 
 ## Recently played
 
-- Tempio del Futuro Perduto, Milan — Sat, 12 Sept 2026
-- Tempio del Futuro Perduto, Milan — Sat, 1 Aug 2026
-- Tempio del Futuro Perduto, Milan — Sat, 4 Jul 2026
-- Spazio Cavea, Rome — Sat, 20 Jun 2026
-- Tempio del Futuro Perduto, Milan — Sat, 13 Jun 2026
-- Tempio del Futuro Perduto, Milan — Sat, 23 May 2026
-- Tempio del Futuro Perduto, Milan — Sat, 9 May 2026
-- Tempio del Futuro Perduto, Milan — Sat, 25 Apr 2026
+- Tempio del Futuro Perduto, Milan · Sat, 12 Sept 2026
+- Tempio del Futuro Perduto, Milan · Sat, 1 Aug 2026
+- Tempio del Futuro Perduto, Milan · Sat, 4 Jul 2026
+- Spazio Cavea, Rome · Sat, 20 Jun 2026
+- Tempio del Futuro Perduto, Milan · Sat, 13 Jun 2026
+- Tempio del Futuro Perduto, Milan · Sat, 23 May 2026
+- Tempio del Futuro Perduto, Milan · Sat, 9 May 2026
+- Tempio del Futuro Perduto, Milan · Sat, 25 Apr 2026
 
 ## Shares bills with
 

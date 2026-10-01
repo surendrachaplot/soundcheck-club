@@ -1,6 +1,6 @@
 # Dazed Muzic presents: Badger at Thekla
 
-Dazed Muzic presents: Badger at Thekla on Fri 2 Oct, Bristol. 2 artists on the bill: Badger (UK) and BEN GERRANS. Bass and Garage. Preview the line-up and save it on soundcheck.
+Dazed Muzic presents: Badger at Thekla on Fri 2 Oct, Bristol. 2 artists: Badger (UK) and BEN GERRANS. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

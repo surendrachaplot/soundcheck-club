@@ -1,8 +1,8 @@
 # Byter
 
-Byter is a EBM and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at F8 1192 Folsom, San Francisco/Oakland on Tue, 6 Oct 2026.
+Byter is a EBM and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at F8 1192 Folsom, San Francisco/Oakland on Tue, 6 Oct 2026.
 
-Byter is an ebm and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across San Francisco/Oakland. Often billed alongside Hex Embrace, Hopelesss and ERINYES. Next up: F8 1192 Folsom, San Francisco/Oakland on Tue 6 Oct.
+Byter is an ebm and club artist based in United States of America, with 10 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Hex Embrace, Hopelesss and ERINYES. Next up: F8 1192 Folsom, San Francisco/Oakland on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Byter is an ebm and club artist based in United States of America, tracked on so
 
 ## Recently played
 
-- F8 1192 Folsom, San Francisco/Oakland — Tue, 22 Sept 2026
-- F8 1192 Folsom, San Francisco/Oakland — Tue, 15 Sept 2026
-- F8 1192 Folsom, San Francisco/Oakland — Tue, 25 Aug 2026
-- F8 1192 Folsom, San Francisco/Oakland — Tue, 18 Aug 2026
-- F8 1192 Folsom, San Francisco/Oakland — Tue, 11 Aug 2026
-- F8 1192 Folsom, San Francisco/Oakland — Tue, 4 Aug 2026
-- F8 1192 Folsom, San Francisco/Oakland — Tue, 28 Jul 2026
-- F8 1192 Folsom, San Francisco/Oakland — Tue, 14 Jul 2026
+- F8 1192 Folsom, San Francisco/Oakland · Tue, 22 Sept 2026
+- F8 1192 Folsom, San Francisco/Oakland · Tue, 15 Sept 2026
+- F8 1192 Folsom, San Francisco/Oakland · Tue, 25 Aug 2026
+- F8 1192 Folsom, San Francisco/Oakland · Tue, 18 Aug 2026
+- F8 1192 Folsom, San Francisco/Oakland · Tue, 11 Aug 2026
+- F8 1192 Folsom, San Francisco/Oakland · Tue, 4 Aug 2026
+- F8 1192 Folsom, San Francisco/Oakland · Tue, 28 Jul 2026
+- F8 1192 Folsom, San Francisco/Oakland · Tue, 14 Jul 2026
 
 ## Shares bills with
 

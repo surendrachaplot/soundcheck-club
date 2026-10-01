@@ -1,8 +1,8 @@
 # Noct Club
 
-Noct Club is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Onesh HORROR STORY" on Sat, 31 Oct 2026.
+Noct Club is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Onesh HORROR STORY" on Sat, 31 Oct 2026.
 
-Noct Club is a music venue in Paris listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 100 Avenue du Général Leclerc, 93500 Pantin, France.
+Noct Club is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 100 Avenue du Général Leclerc, 93500 Pantin, France.
 
 ## What's on
 

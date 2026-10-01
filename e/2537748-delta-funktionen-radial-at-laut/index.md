@@ -1,6 +1,6 @@
 # Delta Funktionen + Radial at LAUT
 
-Delta Funktionen + Radial at LAUT on Fri 2 Oct, Barcelona. 2 artists on the bill: Delta Funktionen and Radial. Techno. Preview the line-up and save it on soundcheck.
+Delta Funktionen + Radial at LAUT on Fri 2 Oct, Barcelona. 2 artists: Delta Funktionen and Radial. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

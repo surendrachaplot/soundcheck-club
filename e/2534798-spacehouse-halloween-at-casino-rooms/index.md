@@ -1,6 +1,6 @@
 # SPACEHOUSE HALLOWEEN at Casino Rooms
 
-SPACEHOUSE HALLOWEEN at Casino Rooms on Fri 30 Oct, South East. 2 artists on the bill: Kellie Allen and RSquared. Preview the line-up and save it on soundcheck.
+SPACEHOUSE HALLOWEEN at Casino Rooms on Fri 30 Oct, South East. 2 artists: Kellie Allen and RSquared. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

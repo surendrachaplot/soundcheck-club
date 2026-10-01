@@ -1,8 +1,8 @@
 # TBA - Secret Location (Madrid)
 
-TBA - Secret Location (Madrid) is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Off-Beat x Margarita" on Sat, 3 Oct 2026.
+TBA - Secret Location (Madrid) is a music venue in Madrid with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Off-Beat x Margarita" on Sat, 3 Oct 2026.
 
-TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including berta (ES), Butter.Jim, Cristal Roto and Dana Kuehr and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location (Madrid) is a music venue in Madrid listed on soundcheck. 9 upcoming gigs, with line-ups including berta (ES), Butter.Jim, Cristal Roto and Dana Kuehr and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

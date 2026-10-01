@@ -1,6 +1,6 @@
 # T2 MONDAY at T2 Shinjuku
 
-T2 MONDAY at T2 Shinjuku on Mon 26 Oct, Tokyo. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+T2 MONDAY at T2 Shinjuku on Mon 26 Oct, Tokyo. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

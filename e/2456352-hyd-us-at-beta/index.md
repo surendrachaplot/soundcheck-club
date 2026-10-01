@@ -1,6 +1,6 @@
 # Hyd (US) at Beta
 
-Hyd (US) at Beta on Tue 27 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+Hyd (US) at Beta on Tue 27 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

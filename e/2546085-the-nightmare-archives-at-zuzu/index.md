@@ -1,6 +1,6 @@
 # THE NIGHTMARE ARCHIVES at Zuzu
 
-THE NIGHTMARE ARCHIVES at Zuzu on Fri 30 Oct, Boston. Club and Footwork. Preview the line-up and save it on soundcheck.
+THE NIGHTMARE ARCHIVES at Zuzu on Fri 30 Oct, Boston. Club and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

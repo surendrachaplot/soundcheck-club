@@ -1,6 +1,6 @@
 # Bashment & Afrobeats - Shoreditch Party at The Lighthouse Club
 
-Bashment & Afrobeats - Shoreditch Party at The Lighthouse Club on Fri 2 Oct, London. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+Bashment & Afrobeats - Shoreditch Party at The Lighthouse Club on Fri 2 Oct, London. Hip-Hop and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

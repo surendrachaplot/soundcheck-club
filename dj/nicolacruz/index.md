@@ -1,8 +1,8 @@
 # Nicola Cruz
 
-Nicola Cruz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nowadays, New York City on Sat, 17 Oct 2026.
+Nicola Cruz is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nowadays, New York City on Sat, 17 Oct 2026.
 
-Nicola Cruz is a techno and house artist based in Ecuador, tracked on soundcheck, with 100 sets logged across Bali, Bangkok, Barcelona and Belgrade and 38 more. Often billed alongside Shvili, Cosmic JD and Juncheol. Next up: Nowadays, New York City on Sat 17 Oct.
+Nicola Cruz is a techno and house artist based in Ecuador, with 100 gigs on soundcheck across Bali, Bangkok, Barcelona and Belgrade and 38 more. Often billed alongside Shvili, Cosmic JD and Juncheol. Next up: Nowadays, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Nicola Cruz is a techno and house artist based in Ecuador, tracked on soundcheck
 
 ## Recently played
 
-- Deseo BS AS, Buenos Aires — Sat, 26 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 22 Aug 2026
-- Kaiku, Helsinki — Fri, 21 Aug 2026
-- Le Sucre, Lyon — Sun, 16 Aug 2026
-- essaim, Paris — Sat, 15 Aug 2026
-- FOLD, London — Sat, 8 Aug 2026
-- The Loft, Manchester — Fri, 7 Aug 2026
-- Lux Fragil, Lisbon — Sat, 25 Jul 2026
+- Deseo BS AS, Buenos Aires · Sat, 26 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
+- Kaiku, Helsinki · Fri, 21 Aug 2026
+- Le Sucre, Lyon · Sun, 16 Aug 2026
+- essaim, Paris · Sat, 15 Aug 2026
+- FOLD, London · Sat, 8 Aug 2026
+- The Loft, Manchester · Fri, 7 Aug 2026
+- Lux Fragil, Lisbon · Sat, 25 Jul 2026
 
 ## Shares bills with
 

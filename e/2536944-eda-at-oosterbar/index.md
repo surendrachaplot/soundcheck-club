@@ -1,6 +1,6 @@
 # EDA at Oosterbar
 
-EDA at Oosterbar on Fri 4 Dec, Amsterdam. 1 artist on the bill: Honingdas. Techno and House. Preview the line-up and save it on soundcheck.
+EDA at Oosterbar on Fri 4 Dec, Amsterdam. 1 artist: Honingdas. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

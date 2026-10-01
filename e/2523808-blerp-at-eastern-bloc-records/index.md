@@ -1,6 +1,6 @@
 # BLERP at Eastern Bloc Records
 
-BLERP at Eastern Bloc Records on Fri 20 Nov, Manchester. House. Preview the line-up and save it on soundcheck.
+BLERP at Eastern Bloc Records on Fri 20 Nov, Manchester. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

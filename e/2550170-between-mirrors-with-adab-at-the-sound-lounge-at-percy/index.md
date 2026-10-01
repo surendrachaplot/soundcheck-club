@@ -1,6 +1,6 @@
 # Between Mirrors with ADAB at The Sound Lounge at Percy
 
-Between Mirrors with ADAB at The Sound Lounge at Percy on Fri 30 Oct, Philadelphia. 1 artist on the bill: ADAB. Dub and Experimental. Preview the line-up and save it on soundcheck.
+Between Mirrors with ADAB at The Sound Lounge at Percy on Fri 30 Oct, Philadelphia. 1 artist: ADAB. Dub and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

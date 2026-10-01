@@ -1,6 +1,6 @@
 # Drink n Draw at Système
 
-Drink n Draw at Système on Thu 22 Oct, Montreal. Preview the line-up and save it on soundcheck.
+Drink n Draw at Système on Thu 22 Oct, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Joe Rolét
 
-Joe Rolét is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Joe Rolét is a Tech House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Joe Rolét is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Dublin and Ibiza and 7 more. Often billed alongside Fleur Shore, Max Dean and Olive F. Next up: DRUMSHEDS, London on Sat 3 Oct.
+Joe Rolét is a tech house and house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam, Berlin, Dublin and Ibiza and 7 more. Often billed alongside Fleur Shore, Max Dean and Olive F. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Joe Rolét is a tech house and house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- IDRA, Manchester — Sat, 26 Sept 2026
-- Mint Warehouse, Leeds — Sun, 30 Aug 2026
-- Mint Warehouse, Leeds — Sun, 30 Aug 2026
-- [UNVRS], Ibiza — Wed, 5 Aug 2026
-- Binks Yard, Nottingham — Sat, 25 Jul 2026
-- Hï Ibiza, Ibiza — Sat, 11 Jul 2026
-- 77, London — Fri, 10 Jul 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 20 Jun 2026
+- IDRA, Manchester · Sat, 26 Sept 2026
+- Mint Warehouse, Leeds · Sun, 30 Aug 2026
+- Mint Warehouse, Leeds · Sun, 30 Aug 2026
+- [UNVRS], Ibiza · Wed, 5 Aug 2026
+- Binks Yard, Nottingham · Sat, 25 Jul 2026
+- Hï Ibiza, Ibiza · Sat, 11 Jul 2026
+- 77, London · Fri, 10 Jul 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 20 Jun 2026
 
 ## Shares bills with
 

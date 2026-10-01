@@ -1,6 +1,6 @@
 # DISCOTECA 002 at TBA - Private Location
 
-DISCOTECA 002 at TBA - Private Location on Sat 3 Oct, San Diego. 1 artist on the bill: Jesusdapnk. Deep House and Disco. Preview the line-up and save it on soundcheck.
+DISCOTECA 002 at TBA - Private Location on Sat 3 Oct, San Diego. 1 artist: Jesusdapnk. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

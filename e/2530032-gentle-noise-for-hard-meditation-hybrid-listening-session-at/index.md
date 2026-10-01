@@ -1,6 +1,6 @@
 # Gentle Noise for Hard Meditation- Hybrid Listening Session at Atemporal
 
-Gentle Noise for Hard Meditation- Hybrid Listening Session at Atemporal on Mon 5 Oct, Berlin. Ambient and Drone. Preview the line-up and save it on soundcheck.
+Gentle Noise for Hard Meditation- Hybrid Listening Session at Atemporal on Mon 5 Oct, Berlin. Ambient and Drone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

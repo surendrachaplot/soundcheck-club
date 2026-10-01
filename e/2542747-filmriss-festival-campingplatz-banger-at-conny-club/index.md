@@ -1,6 +1,6 @@
 # FILMRISS • Festival-Campingplatz-Banger at Conny Club
 
-FILMRISS • Festival-Campingplatz-Banger at Conny Club on Sat 3 Oct, Munster. Pop. Preview the line-up and save it on soundcheck.
+FILMRISS • Festival-Campingplatz-Banger at Conny Club on Sat 3 Oct, Munster. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

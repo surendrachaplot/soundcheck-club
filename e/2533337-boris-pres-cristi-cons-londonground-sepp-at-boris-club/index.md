@@ -1,6 +1,6 @@
 # Boris pres. Cristi Cons, LondonGround, Sepp at BORIS CLUB
 
-Boris pres. Cristi Cons, LondonGround, Sepp at BORIS CLUB on Fri 2 Oct, Barcelona. 3 artists on the bill: Cristi Cons, LondonGround and Sepp. House. Preview the line-up and save it on soundcheck.
+Boris pres. Cristi Cons, LondonGround, Sepp at BORIS CLUB on Fri 2 Oct, Barcelona. 3 artists: Cristi Cons, LondonGround and Sepp. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

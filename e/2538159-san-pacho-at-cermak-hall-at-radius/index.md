@@ -1,6 +1,6 @@
 # San Pacho at Cermak Hall at Radius
 
-San Pacho at Cermak Hall at Radius on Sat 24 Oct, Chicago. Tech House. Preview the line-up and save it on soundcheck.
+San Pacho at Cermak Hall at Radius on Sat 24 Oct, Chicago. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

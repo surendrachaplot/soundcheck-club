@@ -1,6 +1,6 @@
 # Paris Electronic Week - Pass vendredi at Mains D'œuvres
 
-Paris Electronic Week - Pass vendredi at Mains D'œuvres on Fri 2 Oct, Paris. Preview the line-up and save it on soundcheck.
+Paris Electronic Week - Pass vendredi at Mains D'œuvres on Fri 2 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

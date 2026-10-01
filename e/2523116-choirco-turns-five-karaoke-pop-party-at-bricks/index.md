@@ -1,6 +1,6 @@
 # ChoirCo Turns Five: Karaoke & Pop Party at Bricks
 
-ChoirCo Turns Five: Karaoke & Pop Party at Bricks on Fri 16 Oct, London. Pop and R&B. Preview the line-up and save it on soundcheck.
+ChoirCo Turns Five: Karaoke & Pop Party at Bricks on Fri 16 Oct, London. Pop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

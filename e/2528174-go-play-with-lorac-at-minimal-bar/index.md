@@ -1,6 +1,6 @@
 # Go.Play with Lorac at Minimal Bar
 
-Go.Play with Lorac at Minimal Bar on Tue 8 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Go.Play with Lorac at Minimal Bar on Tue 8 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

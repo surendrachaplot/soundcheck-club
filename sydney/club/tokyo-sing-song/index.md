@@ -1,8 +1,8 @@
 # Tokyo Sing Song
 
-Tokyo Sing Song is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "LUCKY YOU" on Thu, 15 Oct 2026.
+Tokyo Sing Song is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "LUCKY YOU" on Thu, 15 Oct 2026.
 
-Tokyo Sing Song is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including hazboy. Browse upcoming dates, start times and who's playing. 145 King Street, Newtown NSW 2043, Australia.
+Tokyo Sing Song is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including hazboy. See dates, start times and who's playing. 145 King Street, Newtown NSW 2043, Australia.
 
 ## What's on
 

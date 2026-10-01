@@ -1,6 +1,6 @@
 # Tierra de los Muertos: El Reencuentro with Mestiza, Sebastien Leger, Roy Rosenfeld, Joezi at Ex Hacienda de San Pablo de Enmedio
 
-Tierra de los Muertos: El Reencuentro with Mestiza, Sebastien Leger, Roy Rosenfeld, Joezi at Ex Hacienda de San Pablo de Enmedio on Fri 16 Oct, Mexico City. 5 artists on the bill: Alan Dixon, MËSTIZA, Roderic and Roy Rosenfeld and 1 more. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Tierra de los Muertos: El Reencuentro with Mestiza, Sebastien Leger, Roy Rosenfeld, Joezi at Ex Hacienda de San Pablo de Enmedio on Fri 16 Oct, Mexico City. 5 artists: Alan Dixon, MËSTIZA, Roderic and Roy Rosenfeld and 1 more. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

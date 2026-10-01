@@ -1,6 +1,6 @@
 # Weighted My Hand: Thea Grant, Reality, Evitceles, Henry Wilson, A Rebours, Silver Waves - at Cube Microplex
 
-Weighted My Hand: Thea Grant, Reality, Evitceles, Henry Wilson, A Rebours, Silver Waves - at Cube Microplex on Thu 8 Oct, Bristol. 1 artist on the bill: Evitceles. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Weighted My Hand: Thea Grant, Reality, Evitceles, Henry Wilson, A Rebours, Silver Waves - at Cube Microplex on Thu 8 Oct, Bristol. 1 artist: Evitceles. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

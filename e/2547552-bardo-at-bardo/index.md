@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Fri 2 Oct, Milan. 1 artist on the bill: Fabrizio Mammarella. Techno and Electronica. Preview the line-up and save it on soundcheck.
+BARDO on Fri 2 Oct, Milan. 1 artist: Fabrizio Mammarella. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

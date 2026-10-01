@@ -1,6 +1,6 @@
 # AFTER:DARK - A HIGHCLASS KINKY RAVE at Bollwerk Cologne
 
-AFTER:DARK - A HIGHCLASS KINKY RAVE at Bollwerk Cologne on Sat 3 Oct, Cologne. Techno. Preview the line-up and save it on soundcheck.
+AFTER:DARK - A HIGHCLASS KINKY RAVE at Bollwerk Cologne on Sat 3 Oct, Cologne. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

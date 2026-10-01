@@ -1,6 +1,6 @@
 # Plynyl presents - Daddy G at The Golden Lion
 
-Plynyl presents - Daddy G at The Golden Lion on Fri 20 Nov, Manchester. Downtempo and Dub. Preview the line-up and save it on soundcheck.
+Plynyl presents - Daddy G at The Golden Lion on Fri 20 Nov, Manchester. Downtempo and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

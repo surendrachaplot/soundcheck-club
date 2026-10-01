@@ -1,6 +1,6 @@
 # Body2Bass presents: Scaring The Hoes at Duo Clapham
 
-Body2Bass presents: Scaring The Hoes at Duo Clapham on Fri 23 Oct, London. 1 artist on the bill: LISAKEEKS. UK Funky and Afro Tech. Preview the line-up and save it on soundcheck.
+Body2Bass presents: Scaring The Hoes at Duo Clapham on Fri 23 Oct, London. 1 artist: LISAKEEKS. UK Funky and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

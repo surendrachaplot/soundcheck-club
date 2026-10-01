@@ -1,8 +1,8 @@
 # WVRM POOL
 
-WVRM POOL is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Island, Bristol on Fri, 9 Oct 2026.
+WVRM POOL is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Island, Bristol on Fri, 9 Oct 2026.
 
-WVRM POOL is a techno and trance artist based in Singapore, tracked on soundcheck, with 28 sets logged across Amsterdam, Berlin, Bristol and London and 2 more. Often billed alongside Varanasi, Desiree' and Nina Pixina. Next up: The Island, Bristol on Fri 9 Oct.
+WVRM POOL is a techno and trance artist based in Singapore, with 28 gigs on soundcheck across Amsterdam, Berlin, Bristol and London and 2 more. Often billed alongside Varanasi, Desiree' and Nina Pixina. Next up: The Island, Bristol on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ WVRM POOL is a techno and trance artist based in Singapore, tracked on soundchec
 
 ## Recently played
 
-- Algha's Plantroom, London — Sat, 12 Sept 2026
-- Autumn Three, London — Thu, 23 Jul 2026
-- NUMBER 90 LONDON, London — Sun, 21 Jun 2026
-- Gaffe, London — Sat, 11 Apr 2026
-- Tresor / Globus, Berlin — Wed, 18 Mar 2026
-- Club Cheek, London — Sat, 7 Mar 2026
-- The Greyhound, London — Fri, 6 Feb 2026
-- Distillery N17, London — Sat, 31 Jan 2026
+- Algha's Plantroom, London · Sat, 12 Sept 2026
+- Autumn Three, London · Thu, 23 Jul 2026
+- NUMBER 90 LONDON, London · Sun, 21 Jun 2026
+- Gaffe, London · Sat, 11 Apr 2026
+- Tresor / Globus, Berlin · Wed, 18 Mar 2026
+- Club Cheek, London · Sat, 7 Mar 2026
+- The Greyhound, London · Fri, 6 Feb 2026
+- Distillery N17, London · Sat, 31 Jan 2026
 
 ## Shares bills with
 

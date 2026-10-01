@@ -1,6 +1,6 @@
 # Friday's Prescription - Miss V at Dr. Dou Social Club
 
-Friday's Prescription - Miss V at Dr. Dou Social Club on Fri 9 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Friday's Prescription - Miss V at Dr. Dou Social Club on Fri 9 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

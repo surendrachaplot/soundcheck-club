@@ -1,6 +1,6 @@
 # Queen! feat. Derrick Carter - Michael Serafini - T Mixwell at smartbar
 
-Queen! feat. Derrick Carter - Michael Serafini - T Mixwell at smartbar on Sun 15 Nov, Chicago. 2 artists on the bill: Derrick Carter and Michael Serafini. House and Deep House. Preview the line-up and save it on soundcheck.
+Queen! feat. Derrick Carter - Michael Serafini - T Mixwell at smartbar on Sun 15 Nov, Chicago. 2 artists: Derrick Carter and Michael Serafini. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

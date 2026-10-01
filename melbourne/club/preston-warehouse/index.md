@@ -1,8 +1,8 @@
 # Preston Warehouse
 
-Preston Warehouse is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "VTSS Melbourne" on Fri, 4 Dec 2026.
+Preston Warehouse is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "VTSS Melbourne" on Fri, 4 Dec 2026.
 
-Preston Warehouse is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including VTSS. Browse upcoming dates, start times and who's playing.
+Preston Warehouse is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including VTSS. See dates, start times and who's playing.
 
 ## What's on
 

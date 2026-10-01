@@ -1,6 +1,6 @@
 # GorillaT at Outset
 
-GorillaT at Outset on Fri 4 Dec, Chicago. Preview the line-up and save it on soundcheck.
+GorillaT at Outset on Fri 4 Dec, Chicago. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

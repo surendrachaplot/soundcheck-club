@@ -1,8 +1,8 @@
 # Tato (2)
 
-Tato (2) is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Tato (2) is a Tech House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Prik Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Tato is a tech house and minimal artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, London and Valencia. Often billed alongside Pedro Villa, CANO and Andres Forero. Next up: Prik Amsterdam, Amsterdam on Fri 23 Oct.
+Tato is a tech house and minimal artist based in United Kingdom, with 48 gigs on soundcheck across Amsterdam, London and Valencia. Often billed alongside Pedro Villa, CANO and Andres Forero. Next up: Prik Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Tato is a tech house and minimal artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- 45 London, London — Sun, 30 Aug 2026
-- TBA, London — Sun, 9 Aug 2026
-- Egg London, London — Sat, 1 Aug 2026
-- Egg London, London — Sat, 13 Jun 2026
-- Jungla London, London — Sun, 31 May 2026
-- 45 London, London — Sun, 24 May 2026
-- 45 London, London — Sun, 3 May 2026
-- E1, London — Sat, 11 Apr 2026
+- 45 London, London · Sun, 30 Aug 2026
+- TBA, London · Sun, 9 Aug 2026
+- Egg London, London · Sat, 1 Aug 2026
+- Egg London, London · Sat, 13 Jun 2026
+- Jungla London, London · Sun, 31 May 2026
+- 45 London, London · Sun, 24 May 2026
+- 45 London, London · Sun, 3 May 2026
+- E1, London · Sat, 11 Apr 2026
 
 ## Shares bills with
 

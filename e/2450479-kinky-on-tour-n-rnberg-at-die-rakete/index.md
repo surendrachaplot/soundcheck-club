@@ -1,6 +1,6 @@
 # KINKY ON Tour Nürnberg at Die Rakete
 
-KINKY ON Tour Nürnberg at Die Rakete on Fri 20 Nov, Nürnberg. 4 artists on the bill: Annie O, Emina Helena, Ezio Aguiar and Illy Noize. Techno and House. Preview the line-up and save it on soundcheck.
+KINKY ON Tour Nürnberg at Die Rakete on Fri 20 Nov, Nürnberg. 4 artists: Annie O, Emina Helena, Ezio Aguiar and Illy Noize. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

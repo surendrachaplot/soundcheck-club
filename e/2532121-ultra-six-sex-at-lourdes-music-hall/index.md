@@ -1,6 +1,6 @@
 # ULTRA: SIX SEX at Lourdes Music Hall
 
-ULTRA: SIX SEX at Lourdes Music Hall on Fri 30 Oct, Bogot. 6 artists on the bill: Aleroj, CRRDR, INVT and Isablu and 2 more. Preview the line-up and save it on soundcheck.
+ULTRA: SIX SEX at Lourdes Music Hall on Fri 30 Oct, Bogot. 6 artists: Aleroj, CRRDR, INVT and Isablu and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RAVE 'TIL YOU DROP at Link
 
-RAVE 'TIL YOU DROP at Link on Sat 17 Oct, Bologna. 3 artists on the bill: Claudia Sapienza, DVAID and relajadita. Preview the line-up and save it on soundcheck.
+RAVE 'TIL YOU DROP at Link on Sat 17 Oct, Bologna. 3 artists: Claudia Sapienza, DVAID and relajadita. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

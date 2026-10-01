@@ -1,6 +1,6 @@
 # 28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / Rapp Gotti / KN Moreno & Shenko at Specka
 
-28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / Rapp Gotti / KN Moreno & Shenko at Specka on Fri 9 Oct, Madrid. Hip-Hop. Preview the line-up and save it on soundcheck.
+28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / Rapp Gotti / KN Moreno & Shenko at Specka on Fri 9 Oct, Madrid. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

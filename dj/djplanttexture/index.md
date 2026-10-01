@@ -1,8 +1,8 @@
 # DJ Plant Texture
 
-DJ Plant Texture is a Techno and Breakbeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
+DJ Plant Texture is a Techno and Breakbeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
 
-DJ Plant Texture is a techno and breakbeat artist based in Italy, tracked on soundcheck, with 74 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 29 more. Often billed alongside Ireen Amnes, SDN and AliA. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
+DJ Plant Texture is a techno and breakbeat artist based in Italy, with 74 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 29 more. Often billed alongside Ireen Amnes, SDN and AliA. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ Plant Texture is a techno and breakbeat artist based in Italy, tracked on sou
 
 ## Recently played
 
-- The Mash House, Edinburgh — Fri, 25 Sept 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 11 Sept 2026
-- Tresor / Globus, Berlin — Sat, 1 Aug 2026
-- Les Enfants Brillants, Barcelona — Fri, 5 Jun 2026
-- The DBA, Manchester — Sat, 2 May 2026
-- LAUT, Barcelona — Sun, 5 Apr 2026
-- Cieloterra, Rome — Fri, 27 Feb 2026
-- TBA - 20 meadow st, Brooklyn , New York City — Sun, 15 Feb 2026
+- The Mash House, Edinburgh · Fri, 25 Sept 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 11 Sept 2026
+- Tresor / Globus, Berlin · Sat, 1 Aug 2026
+- Les Enfants Brillants, Barcelona · Fri, 5 Jun 2026
+- The DBA, Manchester · Sat, 2 May 2026
+- LAUT, Barcelona · Sun, 5 Apr 2026
+- Cieloterra, Rome · Fri, 27 Feb 2026
+- TBA - 20 meadow st, Brooklyn , New York City · Sun, 15 Feb 2026
 
 ## Shares bills with
 

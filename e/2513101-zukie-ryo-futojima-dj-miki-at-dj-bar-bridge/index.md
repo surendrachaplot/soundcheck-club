@@ -1,6 +1,6 @@
 # ZUKIE, Ryo Futojima & DJ MIKI at DJ Bar Bridge
 
-ZUKIE, Ryo Futojima & DJ MIKI at DJ Bar Bridge on Tue 20 Oct, Tokyo. House and R&B. Preview the line-up and save it on soundcheck.
+ZUKIE, Ryo Futojima & DJ MIKI at DJ Bar Bridge on Tue 20 Oct, Tokyo. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # The Botanist
 
-The Botanist is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
+The Botanist is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Private Location, San Diego on Sat, 31 Oct 2026.
 
-The Botanist is a tech house and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Chicago, Los Angeles, New York City and San Diego and 3 more. Often billed alongside Adam Ten, Askfor T and Cole Terrazas. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
+The Botanist is a tech house and house artist based in United States of America, with 10 gigs on soundcheck across Chicago, Los Angeles, New York City and San Diego and 3 more. Often billed alongside Adam Ten, Askfor T and Cole Terrazas. Next up: TBA - Private Location, San Diego on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ The Botanist is a tech house and house artist based in United States of America,
 
 ## Recently played
 
-- BERHTA, Washington DC — Fri, 18 Sept 2026
-- TBA - YAANGA PARK, Los Angeles — Sat, 1 Aug 2026
-- The Red Room, Vancouver — Sat, 25 Jul 2026
-- Audio SF, San Francisco/Oakland — Sat, 13 Jun 2026
-- Outer Heaven, New York City — Sat, 21 Feb 2026
-- Wurstküche Restaurant Venice Beach, Los Angeles — Sat, 10 Jan 2026
-- The Great Northern, San Francisco/Oakland — Sat, 8 Nov 2025
-- Lane Field Park, San Diego — Fri, 31 Oct 2025
+- BERHTA, Washington DC · Fri, 18 Sept 2026
+- TBA - YAANGA PARK, Los Angeles · Sat, 1 Aug 2026
+- The Red Room, Vancouver · Sat, 25 Jul 2026
+- Audio SF, San Francisco/Oakland · Sat, 13 Jun 2026
+- Outer Heaven, New York City · Sat, 21 Feb 2026
+- Wurstküche Restaurant Venice Beach, Los Angeles · Sat, 10 Jan 2026
+- The Great Northern, San Francisco/Oakland · Sat, 8 Nov 2025
+- Lane Field Park, San Diego · Fri, 31 Oct 2025
 
 ## Shares bills with
 

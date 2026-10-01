@@ -1,8 +1,8 @@
 # ILLUSIONIZE
 
-ILLUSIONIZE is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Locación a confirmar, Costanera, Buenos Aires on Sat, 10 Oct 2026.
+ILLUSIONIZE is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Locación a confirmar, Costanera, Buenos Aires on Sat, 10 Oct 2026.
 
-ILLUSIONIZE is a house and tech house artist based in Brazil, tracked on soundcheck, with 14 sets logged across Austin, Boston, Buenos Aires and Chicago and 4 more. Often billed alongside Above & Beyond, Adam Sellouk and Analu. Next up: TBA - Locación a confirmar, Costanera, Buenos Aires on Sat 10 Oct.
+ILLUSIONIZE is a house and tech house artist based in Brazil, with 14 gigs on soundcheck across Austin, Boston, Buenos Aires and Chicago and 4 more. Often billed alongside Above & Beyond, Adam Sellouk and Analu. Next up: TBA - Locación a confirmar, Costanera, Buenos Aires on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ILLUSIONIZE is a house and tech house artist based in Brazil, tracked on soundch
 
 ## Recently played
 
-- Autódromo de Interlagos, Sao Paulo — Fri, 5 Jun 2026
-- E1, London — Sat, 19 Jul 2025
-- Button Factory, Dublin — Fri, 18 Jul 2025
-- Spybar, Chicago — Sat, 8 Feb 2025
-- Bijou Nightclub, Boston — Fri, 7 Feb 2025
-- Audio SF, San Francisco/Oakland — Fri, 31 Jan 2025
-- The Cut, Austin — Sat, 27 Jul 2024
-- E1, London — Fri, 28 Jun 2024
+- Autódromo de Interlagos, Sao Paulo · Fri, 5 Jun 2026
+- E1, London · Sat, 19 Jul 2025
+- Button Factory, Dublin · Fri, 18 Jul 2025
+- Spybar, Chicago · Sat, 8 Feb 2025
+- Bijou Nightclub, Boston · Fri, 7 Feb 2025
+- Audio SF, San Francisco/Oakland · Fri, 31 Jan 2025
+- The Cut, Austin · Sat, 27 Jul 2024
+- E1, London · Fri, 28 Jun 2024
 
 ## Shares bills with
 

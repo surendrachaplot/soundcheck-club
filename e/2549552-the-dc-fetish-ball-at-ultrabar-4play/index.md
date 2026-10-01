@@ -1,6 +1,6 @@
 # The DC Fetish Ball at Ultrabar (4play)
 
-The DC Fetish Ball at Ultrabar (4play) on Sun 11 Oct, Washington DC. EBM and Industrial. Preview the line-up and save it on soundcheck.
+The DC Fetish Ball at Ultrabar (4play) on Sun 11 Oct, Washington DC. EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

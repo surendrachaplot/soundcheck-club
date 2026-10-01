@@ -1,8 +1,8 @@
 # Atelier 210
 
-Atelier 210 is a music venue in Brussels with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "La grande fête de l'art" on Thu, 1 Oct 2026.
+Atelier 210 is a music venue in Brussels with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "La grande fête de l'art" on Thu, 1 Oct 2026.
 
-Atelier 210 is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with line-ups including Soumaya Phéline, t0ni, TORI ANN and VTT (BE). Browse upcoming dates, start times and who's playing. Chaussée Saint-Pierre 210, 1040 Etterbeek, Belgium.
+Atelier 210 is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with line-ups including Soumaya Phéline, t0ni, TORI ANN and VTT (BE). See dates, start times and who's playing. Chaussée Saint-Pierre 210, 1040 Etterbeek, Belgium.
 
 ## What's on
 

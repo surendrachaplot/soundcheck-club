@@ -1,6 +1,6 @@
 # Salut Les Copains at La Tricoterie
 
-Salut Les Copains at La Tricoterie on Fri 2 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Salut Les Copains at La Tricoterie on Fri 2 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

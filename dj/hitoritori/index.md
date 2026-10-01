@@ -1,8 +1,8 @@
 # Hitori Tori
 
-Hitori Tori is a Breakcore and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Cobalt, Vancouver on Thu, 1 Oct 2026.
+Hitori Tori is a Breakcore and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cobalt, Vancouver on Thu, 1 Oct 2026.
 
-Hitori Tori is a breakcore and hardcore artist based in Canada, tracked on soundcheck, with 14 sets logged across Kyoto, Osaka, Portland and Seattle and 2 more. Often billed alongside RiDylan, Lil Kevo 303 and goreshit. Next up: The Cobalt, Vancouver on Thu 1 Oct.
+Hitori Tori is a breakcore and hardcore artist based in Canada, with 14 gigs on soundcheck across Kyoto, Osaka, Portland and Seattle and 2 more. Often billed alongside RiDylan, Lil Kevo 303 and goreshit. Next up: The Cobalt, Vancouver on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Hitori Tori is a breakcore and hardcore artist based in Canada, tracked on sound
 
 ## Recently played
 
-- TBA - Warehouse Venue, Seattle — Fri, 20 Mar 2026
-- TBA - The Deli, Vancouver — Fri, 7 Nov 2025
-- The Pearl, Vancouver — Sat, 20 Sept 2025
-- Nakano Heavysick Zero, Tokyo — Mon, 28 Apr 2025
-- Chika-Ikkai, Osaka — Fri, 11 Apr 2025
-- TBA - East Vancouver, Vancouver — Sat, 14 Dec 2024
-- TBA - Lighthouse, Vancouver — Fri, 14 Jun 2024
-- TBA - Vancouver, Vancouver — Sat, 13 Apr 2024
+- TBA - Warehouse Venue, Seattle · Fri, 20 Mar 2026
+- TBA - The Deli, Vancouver · Fri, 7 Nov 2025
+- The Pearl, Vancouver · Sat, 20 Sept 2025
+- Nakano Heavysick Zero, Tokyo · Mon, 28 Apr 2025
+- Chika-Ikkai, Osaka · Fri, 11 Apr 2025
+- TBA - East Vancouver, Vancouver · Sat, 14 Dec 2024
+- TBA - Lighthouse, Vancouver · Fri, 14 Jun 2024
+- TBA - Vancouver, Vancouver · Sat, 13 Apr 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # McKinley at Bramble
 
-McKinley at Bramble on Fri 2 Oct, Edinburgh. Hip-Hop. Preview the line-up and save it on soundcheck.
+McKinley at Bramble on Fri 2 Oct, Edinburgh. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SNACKS & SOUNDS + DISCO DINER WITH Skeme Richards at The Sound Lounge at Percy
 
-SNACKS & SOUNDS + DISCO DINER WITH Skeme Richards at The Sound Lounge at Percy on Fri 23 Oct, Philadelphia. 1 artist on the bill: Skeme Richards. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+SNACKS & SOUNDS + DISCO DINER WITH Skeme Richards at The Sound Lounge at Percy on Fri 23 Oct, Philadelphia. 1 artist: Skeme Richards. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

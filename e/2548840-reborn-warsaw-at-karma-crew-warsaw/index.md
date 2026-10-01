@@ -1,6 +1,6 @@
 # reborn.warsaw at Karma Crew Warsaw
 
-reborn.warsaw at Karma Crew Warsaw on Sat 10 Oct, Warsaw. Hip-Hop. Preview the line-up and save it on soundcheck.
+reborn.warsaw at Karma Crew Warsaw on Sat 10 Oct, Warsaw. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

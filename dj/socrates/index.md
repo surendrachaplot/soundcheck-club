@@ -1,8 +1,8 @@
 # Socrates
 
-Socrates is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Socrates is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Socrates is a tech house and house artist based in Cyprus, tracked on soundcheck, with 9 sets logged across Amsterdam, Athens, Cork and Greece and 2 more. Often billed alongside Liou, STOZ and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Socrates is a tech house and house artist based in Cyprus, with 9 gigs on soundcheck across Amsterdam, Athens, Cork and Greece and 2 more. Often billed alongside Liou, STOZ and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Socrates is a tech house and house artist based in Cyprus, tracked on soundcheck
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Skull Bar, Athens — Sun, 17 May 2026
-- TBA - Secret Location, Athens — Thu, 1 Jan 2026
-- TBA, Athens — Sun, 6 Apr 2025
-- Recollect Dtla, Los Angeles — Thu, 5 Dec 2024
-- Climax-Institutes, Stuttgart — Fri, 20 Sept 2024
-- TBA - Athens, Athens — Sat, 18 May 2024
-- Cyprus Avenue, Cork — Mon, 8 Apr 2024
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Skull Bar, Athens · Sun, 17 May 2026
+- TBA - Secret Location, Athens · Thu, 1 Jan 2026
+- TBA, Athens · Sun, 6 Apr 2025
+- Recollect Dtla, Los Angeles · Thu, 5 Dec 2024
+- Climax-Institutes, Stuttgart · Fri, 20 Sept 2024
+- TBA - Athens, Athens · Sat, 18 May 2024
+- Cyprus Avenue, Cork · Mon, 8 Apr 2024
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Kweku Saunderson
 
-Kweku Saunderson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paragon, New York City on Fri, 2 Oct 2026.
+Kweku Saunderson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Fri, 2 Oct 2026.
 
-Kweku Saunderson is a house and techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Detroit and New York City. Often billed alongside Kevin Saunderson, The Saunderson Brothers and cry$cross. Next up: Paragon, New York City on Fri 2 Oct.
+Kweku Saunderson is a house and techno artist based in United States of America, with 8 gigs on soundcheck across Detroit and New York City. Often billed alongside Kevin Saunderson, The Saunderson Brothers and cry$cross. Next up: Paragon, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Kweku Saunderson is a house and techno artist based in United States of America,
 
 ## Recently played
 
-- Bossa Nova Civic Club, New York City — Sun, 23 Aug 2026
-- Magic Stick, Detroit — Sun, 24 May 2026
-- Paragon, New York City — Sat, 4 Apr 2026
-- Paragon, New York City — Sat, 3 Jan 2026
-- TV Lounge, Detroit — Fri, 31 Oct 2025
-- Paragon, New York City — Sat, 4 Jan 2025
-- Paragon, New York City — Fri, 11 Oct 2024
+- Bossa Nova Civic Club, New York City · Sun, 23 Aug 2026
+- Magic Stick, Detroit · Sun, 24 May 2026
+- Paragon, New York City · Sat, 4 Apr 2026
+- Paragon, New York City · Sat, 3 Jan 2026
+- TV Lounge, Detroit · Fri, 31 Oct 2025
+- Paragon, New York City · Sat, 4 Jan 2025
+- Paragon, New York City · Fri, 11 Oct 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Loukeman at Smoke & Mirrors
 
-Loukeman at Smoke & Mirrors on Thu 1 Oct, Chicago. 2 artists on the bill: FINGY and Loukeman. House and Experimental. Preview the line-up and save it on soundcheck.
+Loukeman at Smoke & Mirrors on Thu 1 Oct, Chicago. 2 artists: FINGY and Loukeman. House and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

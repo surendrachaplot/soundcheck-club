@@ -1,6 +1,6 @@
 # RISE at R Lounge
 
-RISE at R Lounge on Sat 3 Oct, Tokyo. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+RISE at R Lounge on Sat 3 Oct, Tokyo. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

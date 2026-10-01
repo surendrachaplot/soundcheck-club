@@ -1,6 +1,6 @@
 # Infected Dnb with Neonlight at Void Hall
 
-Infected Dnb with Neonlight at Void Hall on Fri 9 Oct, Berlin. 4 artists on the bill: H.U.K, IHOPEIEXIST, Neonlight and Upzet. Drum & Bass. Preview the line-up and save it on soundcheck.
+Infected Dnb with Neonlight at Void Hall on Fri 9 Oct, Berlin. 4 artists: H.U.K, IHOPEIEXIST, Neonlight and Upzet. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

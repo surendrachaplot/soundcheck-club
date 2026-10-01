@@ -1,6 +1,6 @@
 # GIRLS NIGHT with Kollision at Depo Klub
 
-GIRLS NIGHT with Kollision at Depo Klub on Sat 3 Oct, Zagreb. 3 artists on the bill: Kollision, Teychee and Yvonne. Preview the line-up and save it on soundcheck.
+GIRLS NIGHT with Kollision at Depo Klub on Sat 3 Oct, Zagreb. 3 artists: Kollision, Teychee and Yvonne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

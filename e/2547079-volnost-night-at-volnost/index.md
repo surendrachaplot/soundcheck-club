@@ -1,6 +1,6 @@
 # Volnost Night at Volnost
 
-Volnost Night on Fri 9 Oct, Seoul. 3 artists on the bill: DJ SIN, Recy and Yeji. Techno. Preview the line-up and save it on soundcheck.
+Volnost Night on Fri 9 Oct, Seoul. 3 artists: DJ SIN, Recy and Yeji. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

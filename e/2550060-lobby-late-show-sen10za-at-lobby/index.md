@@ -1,6 +1,6 @@
 # Lobby Late Show: Sen10za at Lobby
 
-Lobby Late Show: Sen10za on Fri 2 Oct, Lisbon. Deep House and Balearic. Preview the line-up and save it on soundcheck.
+Lobby Late Show: Sen10za on Fri 2 Oct, Lisbon. Deep House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

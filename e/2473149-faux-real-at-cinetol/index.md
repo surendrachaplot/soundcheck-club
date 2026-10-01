@@ -1,6 +1,6 @@
 # Faux Real at Cinetol
 
-Faux Real at Cinetol on Fri 20 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+Faux Real at Cinetol on Fri 20 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

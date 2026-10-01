@@ -1,6 +1,6 @@
 # Mau P - HOUSE / TECH HOUSE - at ZEROTOKYO
 
-Mau P - HOUSE / TECH HOUSE - at ZEROTOKYO on Sat 12 Dec, Tokyo. 1 artist on the bill: Mau P. House and Tech House. Preview the line-up and save it on soundcheck.
+Mau P - HOUSE / TECH HOUSE - at ZEROTOKYO on Sat 12 Dec, Tokyo. 1 artist: Mau P. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

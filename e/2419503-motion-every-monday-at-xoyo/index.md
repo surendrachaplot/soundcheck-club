@@ -1,6 +1,6 @@
 # MOTION Every Monday at XOYO
 
-MOTION Every Monday at XOYO on Mon 19 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+MOTION Every Monday at XOYO on Mon 19 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

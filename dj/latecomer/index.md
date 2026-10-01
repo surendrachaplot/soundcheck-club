@@ -1,8 +1,8 @@
 # Latecomer
 
-Latecomer is a Electro and UK Funky artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Fox and Firkin, London on Sat, 21 Nov 2026.
+Latecomer is a Electro and UK Funky artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Fox and Firkin, London on Sat, 21 Nov 2026.
 
-Latecomer is an electro and uk funky artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside Calm Stiege, Emerald and Papaoul. Next up: The Fox and Firkin, London on Sat 21 Nov.
+Latecomer is an electro and uk funky artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside Calm Stiege, Emerald and Papaoul. Next up: The Fox and Firkin, London on Sat 21 Nov.
 
 ## Upcoming shows
 

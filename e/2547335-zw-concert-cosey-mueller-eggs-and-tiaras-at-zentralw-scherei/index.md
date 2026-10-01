@@ -1,6 +1,6 @@
 # ZW-CONCERT : COSEY MUELLER / EGGS AND TIARAS at Zentralwäscherei
 
-ZW-CONCERT : COSEY MUELLER / EGGS AND TIARAS at Zentralwäscherei on Fri 2 Oct, Zurich. Preview the line-up and save it on soundcheck.
+ZW-CONCERT : COSEY MUELLER / EGGS AND TIARAS at Zentralwäscherei on Fri 2 Oct, Zurich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

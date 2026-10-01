@@ -1,6 +1,6 @@
 # ROMANCE w Eli Escobar at Gabriela
 
-ROMANCE w Eli Escobar at Gabriela on Thu 8 Oct, New York City. 1 artist on the bill: Eli Escobar. Electro and Pop. Preview the line-up and save it on soundcheck.
+ROMANCE w Eli Escobar at Gabriela on Thu 8 Oct, New York City. 1 artist: Eli Escobar. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

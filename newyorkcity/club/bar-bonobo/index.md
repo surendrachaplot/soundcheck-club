@@ -1,8 +1,8 @@
 # Bar Bonobo
 
-Bar Bonobo is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sásta Sundays: The Flair, Club Sásta" on Sun, 4 Oct 2026.
+Bar Bonobo is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sásta Sundays: The Flair, Club Sásta" on Sun, 4 Oct 2026.
 
-Bar Bonobo is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Carozilla and The Flair. Browse upcoming dates, start times and who's playing. 84 8th Ave, New York, NY 10011.
+Bar Bonobo is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Carozilla and The Flair. See dates, start times and who's playing. 84 8th Ave, New York, NY 10011.
 
 ## What's on
 

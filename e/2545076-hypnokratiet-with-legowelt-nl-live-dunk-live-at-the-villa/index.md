@@ -1,6 +1,6 @@
 # Hypnokratiet with Legowelt (NL / Live), Dunk (Live) at The Villa
 
-Hypnokratiet with Legowelt (NL / Live), Dunk (Live) at The Villa on Sat 17 Oct, Oslo. 1 artist on the bill: Legowelt. Techno and Electro. Preview the line-up and save it on soundcheck.
+Hypnokratiet with Legowelt (NL / Live), Dunk (Live) at The Villa on Sat 17 Oct, Oslo. 1 artist: Legowelt. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

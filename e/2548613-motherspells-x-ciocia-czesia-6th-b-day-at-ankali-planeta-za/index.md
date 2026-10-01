@@ -1,6 +1,6 @@
 # Motherspells x Ciocia Czesia: 6th B-Day at Ankali & Planeta Za
 
-Motherspells x Ciocia Czesia: 6th B-Day at Ankali & Planeta Za on Sat 3 Oct, Prague. 4 artists on the bill: CANDY PUMPS, Kaa Glo, Kitty Sarcasm and NEW MAGIC MEDIA. Preview the line-up and save it on soundcheck.
+Motherspells x Ciocia Czesia: 6th B-Day at Ankali & Planeta Za on Sat 3 Oct, Prague. 4 artists: CANDY PUMPS, Kaa Glo, Kitty Sarcasm and NEW MAGIC MEDIA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

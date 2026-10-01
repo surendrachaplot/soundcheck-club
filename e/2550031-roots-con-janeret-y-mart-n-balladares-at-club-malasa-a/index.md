@@ -1,6 +1,6 @@
 # Roots con Janeret y Martín Balladares at Club Malasaña
 
-Roots con Janeret y Martín Balladares at Club Malasaña on Sat 3 Oct, Madrid. 2 artists on the bill: Janeret and Martin Balladares. House and Electronica. Preview the line-up and save it on soundcheck.
+Roots con Janeret y Martín Balladares at Club Malasaña on Sat 3 Oct, Madrid. 2 artists: Janeret and Martin Balladares. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

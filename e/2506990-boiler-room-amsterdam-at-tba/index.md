@@ -1,6 +1,6 @@
 # Boiler Room: Amsterdam at TBA
 
-Boiler Room: Amsterdam at TBA on Sat 14 Nov, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+Boiler Room: Amsterdam at TBA on Sat 14 Nov, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Queens Of Chaos Presents: Sabeautaged + Support at Vibes Glasgow
 
-Queens Of Chaos Presents: Sabeautaged + Support at Vibes Glasgow on Sat 7 Nov, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+Queens Of Chaos Presents: Sabeautaged + Support at Vibes Glasgow on Sat 7 Nov, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Devin Gray's Most Definitely at Madame Claude
 
-Devin Gray's Most Definitely at Madame Claude on Mon 12 Oct, Berlin. Experimental and Noise. Preview the line-up and save it on soundcheck.
+Devin Gray's Most Definitely at Madame Claude on Mon 12 Oct, Berlin. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ARODES w. ARYMÉ & Martim Rola at 99 Scott Ave
 
-ARODES w. ARYMÉ & Martim Rola at 99 Scott Ave on Fri 9 Oct, New York City. 3 artists on the bill: ARODES, ARYMÉ and Martim Rola. Afro House. Preview the line-up and save it on soundcheck.
+ARODES w. ARYMÉ & Martim Rola at 99 Scott Ave on Fri 9 Oct, New York City. 3 artists: ARODES, ARYMÉ and Martim Rola. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

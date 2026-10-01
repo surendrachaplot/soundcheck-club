@@ -1,6 +1,6 @@
 # Anjunadeep - ADE at Paradiso
 
-Anjunadeep - ADE at Paradiso on Thu 22 Oct, Amsterdam. 7 artists on the bill: Because of Art, Ezequiel Arias, Jody Wisternoff and Kasper Koman and 3 more. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Anjunadeep - ADE at Paradiso on Thu 22 Oct, Amsterdam. 7 artists: Because of Art, Ezequiel Arias, Jody Wisternoff and Kasper Koman and 3 more. Deep House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

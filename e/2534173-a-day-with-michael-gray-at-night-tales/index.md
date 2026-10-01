@@ -1,6 +1,6 @@
 # A Day with Michael Gray at Night Tales
 
-A Day with Michael Gray at Night Tales on Sat 5 Dec, London. 2 artists on the bill: Ethan Gray and Michael Gray. House and Disco. Preview the line-up and save it on soundcheck.
+A Day with Michael Gray at Night Tales on Sat 5 Dec, London. 2 artists: Ethan Gray and Michael Gray. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

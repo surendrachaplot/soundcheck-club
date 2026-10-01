@@ -1,6 +1,6 @@
 # Michael Canitrot - London at E1
 
-Michael Canitrot - London at E1 on Sat 21 Nov, London. 1 artist on the bill: Michael Canitrot. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Michael Canitrot - London at E1 on Sat 21 Nov, London. 1 artist: Michael Canitrot. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

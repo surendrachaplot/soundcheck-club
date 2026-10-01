@@ -1,8 +1,8 @@
 # teller
 
-teller is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Friday, October 02, 2026" on Fri, 2 Oct 2026.
+teller is a music venue in Seoul with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Friday, October 02, 2026" on Fri, 2 Oct 2026.
 
-teller is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including Dakim, Dan Andrei, Hansy and Kibum and 2 more. Browse upcoming dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
+teller is a music venue in Seoul listed on soundcheck. 8 upcoming gigs, with line-ups including Dakim, Dan Andrei, Hansy and Kibum and 2 more. See dates, start times and who's playing. B1, 39, Usadan-ro, Yongsan-gu, Seoul.
 
 ## What's on
 

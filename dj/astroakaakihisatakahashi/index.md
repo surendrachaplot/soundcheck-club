@@ -1,8 +1,8 @@
 # Astro aka Akihisa Takahashi
 
-Astro aka Akihisa Takahashi is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Joule, Osaka on Fri, 9 Oct 2026.
+Astro aka Akihisa Takahashi is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Joule, Osaka on Fri, 9 Oct 2026.
 
-Astro aka Akihisa Takahashi is a techno and psytrance artist based in Japan, tracked on soundcheck, with 11 sets logged across Osaka and Tokyo. Often billed alongside O-MAN, NOBUYA and Christian Smith. Next up: Joule, Osaka on Fri 9 Oct.
+Astro aka Akihisa Takahashi is a techno and psytrance artist based in Japan, with 11 gigs on soundcheck across Osaka and Tokyo. Often billed alongside O-MAN, NOBUYA and Christian Smith. Next up: Joule, Osaka on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Astro aka Akihisa Takahashi is a techno and psytrance artist based in Japan, tra
 
 ## Recently played
 
-- Joule, Osaka — Tue, 22 Sept 2026
-- Joule, Osaka — Sat, 1 Aug 2026
-- Joule, Osaka — Sun, 19 Jul 2026
-- Joule, Osaka — Sat, 4 Jul 2026
-- Joule, Osaka — Fri, 19 Jun 2026
-- Joule, Osaka — Fri, 20 Feb 2026
-- Joule, Osaka — Fri, 30 Jan 2026
-- Piccadilly Premium, Osaka — Sat, 20 Dec 2025
+- Joule, Osaka · Tue, 22 Sept 2026
+- Joule, Osaka · Sat, 1 Aug 2026
+- Joule, Osaka · Sun, 19 Jul 2026
+- Joule, Osaka · Sat, 4 Jul 2026
+- Joule, Osaka · Fri, 19 Jun 2026
+- Joule, Osaka · Fri, 20 Feb 2026
+- Joule, Osaka · Fri, 30 Jan 2026
+- Piccadilly Premium, Osaka · Sat, 20 Dec 2025
 
 ## Shares bills with
 

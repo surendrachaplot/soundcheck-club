@@ -1,6 +1,6 @@
 # Leftfield ∞ ROXY Prague at Roxy
 
-Leftfield ∞ ROXY Prague at Roxy on Sat 14 Nov, Prague. 2 artists on the bill: Darren Emerson and Leftfield. Electro. Preview the line-up and save it on soundcheck.
+Leftfield ∞ ROXY Prague at Roxy on Sat 14 Nov, Prague. 2 artists: Darren Emerson and Leftfield. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Mtkvarze
 
-Mtkvarze is a music venue in Tbilisi with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SAÄL • Kote Japaridze • Razhden • Mao • Luka Mama • Lilia • Subnautic • Annefix" on Fri, 2 Oct 2026.
+Mtkvarze is a music venue in Tbilisi with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SAÄL • Kote Japaridze • Razhden • Mao • Luka Mama • Lilia • Subnautic • Annefix" on Fri, 2 Oct 2026.
 
-Mtkvarze is a music venue in Tbilisi listed on soundcheck. 3 upcoming gigs, with line-ups including Ketato M, Kote Japaridze, Lilia (GE) and Meyra and 2 more. Browse upcoming dates, start times and who's playing. Left riverbank of Mtkvari (Kura) river, Agladze str.2.
+Mtkvarze is a music venue in Tbilisi listed on soundcheck. 3 upcoming gigs, with line-ups including Ketato M, Kote Japaridze, Lilia (GE) and Meyra and 2 more. See dates, start times and who's playing. Left riverbank of Mtkvari (Kura) river, Agladze str.2.
 
 ## What's on
 

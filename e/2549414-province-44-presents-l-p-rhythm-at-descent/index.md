@@ -1,6 +1,6 @@
 # PROVINCE 44 presents L.P. Rhythm at Descent
 
-PROVINCE 44 presents L.P. Rhythm at Descent on Sat 10 Oct, Boston. 1 artist on the bill: L.P. Rhythm. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+PROVINCE 44 presents L.P. Rhythm at Descent on Sat 10 Oct, Boston. 1 artist: L.P. Rhythm. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

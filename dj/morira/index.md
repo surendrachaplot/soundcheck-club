@@ -1,8 +1,8 @@
 # Mori Ra
 
-Mori Ra is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Teranoma Tidepool, Osaka on Sun, 11 Oct 2026.
+Mori Ra is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Teranoma Tidepool, Osaka on Sun, 11 Oct 2026.
 
-Mori Ra is a disco and house artist based in Japan, tracked on soundcheck, with 32 sets logged across Brisbane, Hong Kong, Los Angeles and Melbourne and 5 more. Often billed alongside Roy Comanchero, Curumayoi and Black Pomade. Next up: Teranoma Tidepool, Osaka on Sun 11 Oct.
+Mori Ra is a disco and house artist based in Japan, with 32 gigs on soundcheck across Brisbane, Hong Kong, Los Angeles and Melbourne and 5 more. Often billed alongside Roy Comanchero, Curumayoi and Black Pomade. Next up: Teranoma Tidepool, Osaka on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mori Ra is a disco and house artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- Teranoma Tidepool, Osaka — Sat, 5 Sept 2026
-- Teranoma Tidepool, Osaka — Sun, 23 Aug 2026
-- Teranoma Tidepool, Osaka — Sat, 27 Jun 2026
-- flo Soakin, Osaka — Sat, 16 May 2026
-- flo Soakin, Osaka — Fri, 24 Apr 2026
-- flo Soakin, Osaka — Sat, 18 Apr 2026
-- flo Soakin, Osaka — Sat, 4 Apr 2026
-- Teranoma Tidepool, Osaka — Sat, 14 Mar 2026
+- Teranoma Tidepool, Osaka · Sat, 5 Sept 2026
+- Teranoma Tidepool, Osaka · Sun, 23 Aug 2026
+- Teranoma Tidepool, Osaka · Sat, 27 Jun 2026
+- flo Soakin, Osaka · Sat, 16 May 2026
+- flo Soakin, Osaka · Fri, 24 Apr 2026
+- flo Soakin, Osaka · Sat, 18 Apr 2026
+- flo Soakin, Osaka · Sat, 4 Apr 2026
+- Teranoma Tidepool, Osaka · Sat, 14 Mar 2026
 
 ## Shares bills with
 

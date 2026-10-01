@@ -1,6 +1,6 @@
 # Seb Wildblood + Sonnee at Yes
 
-Seb Wildblood + Sonnee at Yes on Fri 16 Oct, Manchester. 2 artists on the bill: Seb Wildblood and Sonnee. Techno and House. Preview the line-up and save it on soundcheck.
+Seb Wildblood + Sonnee at Yes on Fri 16 Oct, Manchester. 2 artists: Seb Wildblood and Sonnee. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

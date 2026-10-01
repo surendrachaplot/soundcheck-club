@@ -1,8 +1,8 @@
 # ROD
 
-ROD is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+ROD is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-ROD is a techno and house artist based in Netherlands, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Berlin and Hamburg and 7 more. Often billed alongside Benny Rodrigues, Cynthia Spiering and STERAC. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+ROD is a techno and house artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Hamburg and 7 more. Often billed alongside Benny Rodrigues, Cynthia Spiering and STERAC. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ ROD is a techno and house artist based in Netherlands, tracked on soundcheck, wi
 
 ## Recently played
 
-- TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo — Sun, 27 Sept 2026
-- CLUB RAUM, Amsterdam — Sat, 19 Sept 2026
-- Barragem da Queimadela, Porto — Thu, 10 Sept 2026
-- export, Rotterdam — Sat, 15 Aug 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
-- BRET, Amsterdam — Sat, 2 May 2026
-- TILLATEC, Amsterdam — Sun, 29 Mar 2026
-- Socore Factory, Osaka — Sat, 21 Feb 2026
+- TBA - Rua Robert Bosch, 277 - Barra Funda, São Paulo - SP, 05003-020, Brasil, Sao Paulo · Sun, 27 Sept 2026
+- CLUB RAUM, Amsterdam · Sat, 19 Sept 2026
+- Barragem da Queimadela, Porto · Thu, 10 Sept 2026
+- export, Rotterdam · Sat, 15 Aug 2026
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 16 May 2026
+- BRET, Amsterdam · Sat, 2 May 2026
+- TILLATEC, Amsterdam · Sun, 29 Mar 2026
+- Socore Factory, Osaka · Sat, 21 Feb 2026
 
 ## Shares bills with
 

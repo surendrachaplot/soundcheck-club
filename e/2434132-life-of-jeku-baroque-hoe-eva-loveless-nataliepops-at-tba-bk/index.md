@@ -1,6 +1,6 @@
 # Life Of: Jeku, Baroque Hoe, Eva Loveless, nataliepops at TBA - BK
 
-Life Of: Jeku, Baroque Hoe, Eva Loveless, nataliepops at TBA - BK on Sat 17 Oct, New York City. 4 artists on the bill: Baroque Hoe, Eva Loveless, Jeku and nataliepops. Progressive House and Tech House. Preview the line-up and save it on soundcheck.
+Life Of: Jeku, Baroque Hoe, Eva Loveless, nataliepops at TBA - BK on Sat 17 Oct, New York City. 4 artists: Baroque Hoe, Eva Loveless, Jeku and nataliepops. Progressive House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

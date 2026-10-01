@@ -1,8 +1,8 @@
 # Jungle Island
 
-Jungle Island is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Soundtuary present AMÉMÉ & Malive - Open Air" on Sat, 3 Oct 2026.
+Jungle Island is a music venue in Miami with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Soundtuary present AMÉMÉ & Malive - Open Air" on Sat, 3 Oct 2026.
 
-Jungle Island is a music venue in Miami listed on soundcheck. 1 upcoming gig, with line-ups including AMÉMÉ, Ketzal, Malive and PALMA. Browse upcoming dates, start times and who's playing. 1111 Parrot Jungle Trail, Miami, FL 33132.
+Jungle Island is a music venue in Miami listed on soundcheck. 1 upcoming gig, with line-ups including AMÉMÉ, Ketzal, Malive and PALMA. See dates, start times and who's playing. 1111 Parrot Jungle Trail, Miami, FL 33132.
 
 ## What's on
 

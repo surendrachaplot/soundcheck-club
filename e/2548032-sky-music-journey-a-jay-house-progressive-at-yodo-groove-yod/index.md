@@ -1,6 +1,6 @@
 # SKY MUSIC JOURNEY: A-JAY — House & Progressive at Yodo Groove (Yodobashi Ikebukuro)
 
-SKY MUSIC JOURNEY: A-JAY — House & Progressive at Yodo Groove (Yodobashi Ikebukuro) on Sat 10 Oct, Tokyo. 2 artists on the bill: DJ OGAWA and Vino. Progressive House. Preview the line-up and save it on soundcheck.
+SKY MUSIC JOURNEY: A-JAY — House & Progressive at Yodo Groove (Yodobashi Ikebukuro) on Sat 10 Oct, Tokyo. 2 artists: DJ OGAWA and Vino. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

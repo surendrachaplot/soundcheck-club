@@ -1,6 +1,6 @@
 # ADE X KARMA at Midnight Tokyo
 
-ADE X KARMA at Midnight Tokyo on Sat 10 Oct, Bali. 2 artists on the bill: Eline (BE) and Rebeat. Techno. Preview the line-up and save it on soundcheck.
+ADE X KARMA at Midnight Tokyo on Sat 10 Oct, Bali. 2 artists: Eline (BE) and Rebeat. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

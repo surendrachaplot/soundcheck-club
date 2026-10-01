@@ -1,6 +1,6 @@
 # SML *live at Gretchen
 
-SML *live at Gretchen on Wed 18 Nov, Berlin. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+SML *live at Gretchen on Wed 18 Nov, Berlin. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

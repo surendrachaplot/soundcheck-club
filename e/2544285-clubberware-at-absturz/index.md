@@ -1,6 +1,6 @@
 # Clubberware at Absturz
 
-Clubberware at Absturz on Fri 16 Oct, Leipzig. 1 artist on the bill: Sebastian Strootmann. Techno and House. Preview the line-up and save it on soundcheck.
+Clubberware at Absturz on Fri 16 Oct, Leipzig. 1 artist: Sebastian Strootmann. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

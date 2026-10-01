@@ -1,6 +1,6 @@
 # ZEROS AND ONES: Beam Splitter and Jenn Kirby live at Edge Hill Railway Station
 
-ZEROS AND ONES: Beam Splitter and Jenn Kirby live at Edge Hill Railway Station on Sun 18 Oct, Liverpool. Experimental and Noise. Preview the line-up and save it on soundcheck.
+ZEROS AND ONES: Beam Splitter and Jenn Kirby live at Edge Hill Railway Station on Sun 18 Oct, Liverpool. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

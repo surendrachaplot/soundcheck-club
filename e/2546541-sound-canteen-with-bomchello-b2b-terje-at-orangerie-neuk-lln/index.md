@@ -1,6 +1,6 @@
 # Sound Canteen with Bomchello b2b Terje at Orangerie Neukölln
 
-Sound Canteen with Bomchello b2b Terje at Orangerie Neukölln on Fri 30 Oct, Berlin. House and Disco. Preview the line-up and save it on soundcheck.
+Sound Canteen with Bomchello b2b Terje at Orangerie Neukölln on Fri 30 Oct, Berlin. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

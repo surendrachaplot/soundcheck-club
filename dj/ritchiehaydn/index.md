@@ -1,8 +1,8 @@
 # Ritchie Haydn
 
-Ritchie Haydn is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bricks, London on Sat, 28 Nov 2026.
+Ritchie Haydn is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bricks, London on Sat, 28 Nov 2026.
 
-Ritchie Haydn is a deep house and progressive house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London, Los Angeles, Paris and Tokyo. Often billed alongside KONNR, Carina Lawrence and GABS (SK). Next up: Bricks, London on Sat 28 Nov.
+Ritchie Haydn is a deep house and progressive house artist based in United Kingdom, with 13 gigs on soundcheck across London, Los Angeles, Paris and Tokyo. Often billed alongside KONNR, Carina Lawrence and GABS (SK). Next up: Bricks, London on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ritchie Haydn is a deep house and progressive house artist based in United Kingd
 
 ## Recently played
 
-- Egg London, London — Sat, 12 Sept 2026
-- The Horse & Groom, London — Fri, 19 Dec 2025
-- Bricks, London — Sat, 18 Oct 2025
-- The Horse & Groom, London — Sat, 13 Sept 2025
-- HWK Garden / Terrace, London — Sat, 15 Jun 2024
-- The Castle, London — Thu, 28 Mar 2024
-- The Horse & Groom, London — Fri, 22 Dec 2023
-- La Ve Lee, Los Angeles — Sat, 7 Oct 2023
+- Egg London, London · Sat, 12 Sept 2026
+- The Horse & Groom, London · Fri, 19 Dec 2025
+- Bricks, London · Sat, 18 Oct 2025
+- The Horse & Groom, London · Sat, 13 Sept 2025
+- HWK Garden / Terrace, London · Sat, 15 Jun 2024
+- The Castle, London · Thu, 28 Mar 2024
+- The Horse & Groom, London · Fri, 22 Dec 2023
+- La Ve Lee, Los Angeles · Sat, 7 Oct 2023
 
 ## Shares bills with
 

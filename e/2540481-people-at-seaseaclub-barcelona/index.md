@@ -1,6 +1,6 @@
 # PEOPLE at Seaseaclub Barcelona
 
-PEOPLE at Seaseaclub Barcelona on Sat 17 Oct, Barcelona. 3 artists on the bill: Alice Youngling, Bailey Leunig and Couce. House and Deep House. Preview the line-up and save it on soundcheck.
+PEOPLE at Seaseaclub Barcelona on Sat 17 Oct, Barcelona. 3 artists: Alice Youngling, Bailey Leunig and Couce. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

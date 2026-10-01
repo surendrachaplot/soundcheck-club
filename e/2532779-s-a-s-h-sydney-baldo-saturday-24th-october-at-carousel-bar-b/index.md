@@ -1,6 +1,6 @@
 # ★ S.A.S.H Sydney ★ Baldo ★ Saturday 24th October ★ at Carousel Bar & Ballroom
 
-★ S.A.S.H Sydney ★ Baldo ★ Saturday 24th October ★ at Carousel Bar & Ballroom on Sat 24 Oct, Sydney. House and Tech House. Preview the line-up and save it on soundcheck.
+★ S.A.S.H Sydney ★ Baldo ★ Saturday 24th October ★ at Carousel Bar & Ballroom on Sat 24 Oct, Sydney. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

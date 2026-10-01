@@ -1,6 +1,6 @@
 # Sanctus at M-BIA
 
-Sanctus at M-BIA on Fri 20 Nov, Berlin. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Sanctus at M-BIA on Fri 20 Nov, Berlin. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

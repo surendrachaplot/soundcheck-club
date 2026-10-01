@@ -1,6 +1,6 @@
 # Golden Record NYC presents Traumer All Night Long at TBA - East Williamsburg
 
-Golden Record NYC presents Traumer All Night Long at TBA - East Williamsburg on Sat 5 Dec, New York City. 1 artist on the bill: Traumer. House and Tech House. Preview the line-up and save it on soundcheck.
+Golden Record NYC presents Traumer All Night Long at TBA - East Williamsburg on Sat 5 Dec, New York City. 1 artist: Traumer. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

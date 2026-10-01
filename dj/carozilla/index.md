@@ -1,8 +1,8 @@
 # Carozilla
 
-Carozilla is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ZeyZey, Miami on Sun, 18 Oct 2026.
+Carozilla is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ZeyZey, Miami on Sun, 18 Oct 2026.
 
-Carozilla is a disco and house artist based in United States of America, tracked on soundcheck, with 118 sets logged across Limerick, Los Angeles, Miami and Milan and 5 more. Often billed alongside DJ Ray, Jinks and Romulo Del Castillo. Next up: ZeyZey, Miami on Sun 18 Oct.
+Carozilla is a disco and house artist based in United States of America, with 118 gigs on soundcheck across Limerick, Los Angeles, Miami and Milan and 5 more. Often billed alongside DJ Ray, Jinks and Romulo Del Castillo. Next up: ZeyZey, Miami on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Carozilla is a disco and house artist based in United States of America, tracked
 
 ## Recently played
 
-- Gabriela, New York City — Sun, 16 Aug 2026
-- Dead Letter No. 9, New York City — Sat, 25 Jul 2026
-- MAD Radio NYC, New York City — Fri, 24 Jul 2026
-- Good Room, New York City — Sat, 18 Jul 2026
-- Bossa Nova Civic Club, New York City — Thu, 2 Jul 2026
-- Elsewhere, New York City — Thu, 18 Jun 2026
-- Dead Letter No. 9, New York City — Sat, 13 Jun 2026
-- Dead Letter No. 9, New York City — Sat, 30 May 2026
+- Gabriela, New York City · Sun, 16 Aug 2026
+- Dead Letter No. 9, New York City · Sat, 25 Jul 2026
+- MAD Radio NYC, New York City · Fri, 24 Jul 2026
+- Good Room, New York City · Sat, 18 Jul 2026
+- Bossa Nova Civic Club, New York City · Thu, 2 Jul 2026
+- Elsewhere, New York City · Thu, 18 Jun 2026
+- Dead Letter No. 9, New York City · Sat, 13 Jun 2026
+- Dead Letter No. 9, New York City · Sat, 30 May 2026
 
 ## Shares bills with
 

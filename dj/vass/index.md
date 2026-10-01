@@ -1,8 +1,8 @@
 # Vass
 
-Vass is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Distrikt, Leeds on Sat, 3 Oct 2026.
+Vass is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Distrikt, Leeds on Sat, 3 Oct 2026.
 
-Vass is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Distrikt, Leeds on Sat 3 Oct.
+Vass is a techno and electro artist based in United Kingdom, with 108 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Distrikt, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Vass is a techno and electro artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- FOLD, London — Sat, 26 Sept 2026
-- Colour Factory, London — Mon, 31 Aug 2026
-- Monokultur, Budapest — Mon, 3 Aug 2026
-- Atno, Budapest — Sat, 1 Aug 2026
-- The Glove That Fits, London — Sat, 18 Jul 2026
-- TBA - Secret Location, Naples — Sat, 27 Jun 2026
-- Radio Pirate, Paris — Sat, 6 Jun 2026
-- FOLD, London — Sat, 23 May 2026
+- FOLD, London · Sat, 26 Sept 2026
+- Colour Factory, London · Mon, 31 Aug 2026
+- Monokultur, Budapest · Mon, 3 Aug 2026
+- Atno, Budapest · Sat, 1 Aug 2026
+- The Glove That Fits, London · Sat, 18 Jul 2026
+- TBA - Secret Location, Naples · Sat, 27 Jun 2026
+- Radio Pirate, Paris · Sat, 6 Jun 2026
+- FOLD, London · Sat, 23 May 2026
 
 ## Shares bills with
 

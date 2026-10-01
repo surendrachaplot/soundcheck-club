@@ -1,8 +1,8 @@
 # Gwardy
 
-Gwardy is a Bass and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Eastern Bloc Records, Manchester on Thu, 8 Oct 2026.
+Gwardy is a Bass and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eastern Bloc Records, Manchester on Thu, 8 Oct 2026.
 
-Gwardy is a bass and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Liverpool and Manchester. Often billed alongside nowah, Cersy and Dyslecta. Next up: Eastern Bloc Records, Manchester on Thu 8 Oct.
+Gwardy is a bass and house artist based in United Kingdom, with 6 gigs on soundcheck across Liverpool and Manchester. Often billed alongside nowah, Cersy and Dyslecta. Next up: Eastern Bloc Records, Manchester on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Gwardy is a bass and house artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- Soup, Manchester — Sat, 21 Mar 2026
-- Eastern Bloc Records, Manchester — Thu, 5 Feb 2026
-- Soup, Manchester — Thu, 13 Nov 2025
-- The Radio Room @ Stage & Radio, Manchester — Sat, 7 Jun 2025
-- Commune, Liverpool — Sat, 19 Apr 2025
+- Soup, Manchester · Sat, 21 Mar 2026
+- Eastern Bloc Records, Manchester · Thu, 5 Feb 2026
+- Soup, Manchester · Thu, 13 Nov 2025
+- The Radio Room @ Stage & Radio, Manchester · Sat, 7 Jun 2025
+- Commune, Liverpool · Sat, 19 Apr 2025
 
 ## Shares bills with
 

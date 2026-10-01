@@ -1,6 +1,6 @@
 # Express Records Launch Party at Suono
 
-Express Records Launch Party at Suono on Sat 17 Oct, Liverpool. Techno and House. Preview the line-up and save it on soundcheck.
+Express Records Launch Party at Suono on Sat 17 Oct, Liverpool. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

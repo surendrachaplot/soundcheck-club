@@ -1,6 +1,6 @@
 # TFBL presents at Coconut Club
 
-TFBL presents at Coconut Club on Sat 3 Oct, Austin. 1 artist on the bill: John Gomi. Techno and Disco. Preview the line-up and save it on soundcheck.
+TFBL presents at Coconut Club on Sat 3 Oct, Austin. 1 artist: John Gomi. Techno and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

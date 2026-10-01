@@ -1,8 +1,8 @@
 # Kellie Allen
 
-Kellie Allen is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Kellie Allen is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Kellie Allen is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 22 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Kellie Allen is a house and tech house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 22 more. Often billed alongside Prunk, Dennis Quin and M-High. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Kellie Allen is a house and tech house artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- House of Yes, New York City — Fri, 25 Sept 2026
-- Thuishaven, Amsterdam — Sun, 13 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 10 Sept 2026
-- Los Angeles State Historic Park, Los Angeles — Sun, 6 Sept 2026
-- Los Angeles State Historic Park, Los Angeles — Sun, 6 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- fabric, London — Sat, 29 Aug 2026
-- Cova Santa, Ibiza — Tue, 18 Aug 2026
+- House of Yes, New York City · Fri, 25 Sept 2026
+- Thuishaven, Amsterdam · Sun, 13 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 10 Sept 2026
+- Los Angeles State Historic Park, Los Angeles · Sun, 6 Sept 2026
+- Los Angeles State Historic Park, Los Angeles · Sun, 6 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- fabric, London · Sat, 29 Aug 2026
+- Cova Santa, Ibiza · Tue, 18 Aug 2026
 
 ## Shares bills with
 

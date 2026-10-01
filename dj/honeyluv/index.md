@@ -1,8 +1,8 @@
 # HoneyLuv
 
-HoneyLuv is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+HoneyLuv is a House and Tech House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-HoneyLuv is a house and tech house artist based in United States of America, tracked on soundcheck, with 169 sets logged across Amsterdam, Austin, Barcelona and Basel and 41 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+HoneyLuv is a house and tech house artist based in United States of America, with 169 gigs on soundcheck across Amsterdam, Austin, Barcelona and Basel and 41 more. Often billed alongside Nic Fanciulli, Dennis Ferrer and Andrea Oliva. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ HoneyLuv is a house and tech house artist based in United States of America, tra
 
 ## Recently played
 
-- TBA, Los Angeles — Sun, 27 Sept 2026
-- Hï Ibiza, Ibiza — Mon, 14 Sept 2026
-- Night We Met, Nashville — Fri, 11 Sept 2026
-- Cova Santa, Ibiza — Sun, 30 Aug 2026
-- Studio Club Malaga, Malaga — Sat, 29 Aug 2026
-- Amnesia Ibiza, Ibiza — Fri, 14 Aug 2026
-- Zürichsee, Zurich — Sat, 8 Aug 2026
-- Chinois Ibiza, Ibiza — Thu, 30 Jul 2026
+- TBA, Los Angeles · Sun, 27 Sept 2026
+- Hï Ibiza, Ibiza · Mon, 14 Sept 2026
+- Night We Met, Nashville · Fri, 11 Sept 2026
+- Cova Santa, Ibiza · Sun, 30 Aug 2026
+- Studio Club Malaga, Malaga · Sat, 29 Aug 2026
+- Amnesia Ibiza, Ibiza · Fri, 14 Aug 2026
+- Zürichsee, Zurich · Sat, 8 Aug 2026
+- Chinois Ibiza, Ibiza · Thu, 30 Jul 2026
 
 ## Shares bills with
 

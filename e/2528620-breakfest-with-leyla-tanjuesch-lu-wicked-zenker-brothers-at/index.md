@@ -1,6 +1,6 @@
 # breakfest with Leyla & tanjuesch, lu.wicked, Zenker Brothers at Gewölbe
 
-breakfest with Leyla & tanjuesch, lu.wicked, Zenker Brothers at Gewölbe on Sat 24 Oct, Cologne. 4 artists on the bill: Leyla, lu.wicked, tanjuesch and Zenker Brothers. Preview the line-up and save it on soundcheck.
+breakfest with Leyla & tanjuesch, lu.wicked, Zenker Brothers at Gewölbe on Sat 24 Oct, Cologne. 4 artists: Leyla, lu.wicked, tanjuesch and Zenker Brothers. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

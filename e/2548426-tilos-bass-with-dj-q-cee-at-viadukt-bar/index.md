@@ -1,6 +1,6 @@
 # Tilos & bass with DJ Q-Cee at Viadukt Bar
 
-Tilos & bass with DJ Q-Cee at Viadukt Bar on Sat 3 Oct, Budapest. Drum & Bass. Preview the line-up and save it on soundcheck.
+Tilos & bass with DJ Q-Cee at Viadukt Bar on Sat 3 Oct, Budapest. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Matük
 
-Matük is a Experimental and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mood Ring, New York City on Fri, 16 Oct 2026.
+Matük is a Experimental and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Fri, 16 Oct 2026.
 
-Matük is an experimental and bass artist based in Colombia, tracked on soundcheck, with 7 sets logged across New York City. Often billed alongside Max In The World, Nema Hän and aka-Sol. Next up: Mood Ring, New York City on Fri 16 Oct.
+Matük is an experimental and bass artist based in Colombia, with 7 gigs on soundcheck across New York City. Often billed alongside Max In The World, Nema Hän and aka-Sol. Next up: Mood Ring, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Matük is an experimental and bass artist based in Colombia, tracked on soundche
 
 ## Recently played
 
-- Nowadays, New York City — Thu, 17 Sept 2026
-- BASEMENT, New York City — Fri, 3 Jul 2026
-- TBA - Secret Bed-Stuy Location, New York City — Sat, 27 Jun 2026
-- public records, New York City — Thu, 23 Apr 2026
-- TBA - Brooklyn, New York City — Sat, 28 Mar 2026
-- TBA - Metrorock Bushwick, New York City — Fri, 23 Jan 2026
+- Nowadays, New York City · Thu, 17 Sept 2026
+- BASEMENT, New York City · Fri, 3 Jul 2026
+- TBA - Secret Bed-Stuy Location, New York City · Sat, 27 Jun 2026
+- public records, New York City · Thu, 23 Apr 2026
+- TBA - Brooklyn, New York City · Sat, 28 Mar 2026
+- TBA - Metrorock Bushwick, New York City · Fri, 23 Jan 2026
 
 ## Shares bills with
 

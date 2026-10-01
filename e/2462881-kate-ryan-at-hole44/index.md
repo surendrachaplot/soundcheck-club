@@ -1,6 +1,6 @@
 # Kate Ryan at Hole44
 
-Kate Ryan at Hole44 on Thu 29 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Kate Ryan at Hole44 on Thu 29 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

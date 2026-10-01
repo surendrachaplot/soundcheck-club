@@ -1,6 +1,6 @@
 # Restraining Order at New Cross Inn
 
-Restraining Order at New Cross Inn on Mon 30 Nov, London. Hardcore. Preview the line-up and save it on soundcheck.
+Restraining Order at New Cross Inn on Mon 30 Nov, London. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

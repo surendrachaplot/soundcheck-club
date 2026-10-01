@@ -1,6 +1,6 @@
 # MOTOKI, Yo4mo & osugi at DJ Bar Bridge Shinjuku
 
-MOTOKI, Yo4mo & osugi at DJ Bar Bridge Shinjuku on Thu 22 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+MOTOKI, Yo4mo & osugi at DJ Bar Bridge Shinjuku on Thu 22 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

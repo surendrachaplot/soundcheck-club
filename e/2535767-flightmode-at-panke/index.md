@@ -1,6 +1,6 @@
 # FLIGHTMODE at Panke
 
-FLIGHTMODE at Panke on Thu 15 Oct, Berlin. Preview the line-up and save it on soundcheck.
+FLIGHTMODE at Panke on Thu 15 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

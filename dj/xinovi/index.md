@@ -1,8 +1,8 @@
 # XINOVI
 
-XINOVI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
+XINOVI is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Sun, 11 Oct 2026.
 
-XINOVI is a techno and trance artist based in Japan, tracked on soundcheck, with 77 sets logged across Tokyo. Often billed alongside Daichi Wada, DIV and EVE. Next up: Circus Tokyo, Tokyo on Sun 11 Oct.
+XINOVI is a techno and trance artist based in Japan, with 77 gigs on soundcheck across Tokyo. Often billed alongside Daichi Wada, DIV and EVE. Next up: Circus Tokyo, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ XINOVI is a techno and trance artist based in Japan, tracked on soundcheck, with
 
 ## Recently played
 
-- TBA - Secret Location , Tokyo — Fri, 18 Sept 2026
-- Secret Venue in Minatoku-Nishiazabu, Tokyo — Sat, 22 Aug 2026
-- TBA - Secret location in Nishiazabu, Tokyo — Sat, 15 Aug 2026
-- clubasia, Tokyo — Fri, 7 Aug 2026
-- clubasia, Tokyo — Fri, 26 Jun 2026
-- Ohjo Bldg, Tokyo — Fri, 5 Jun 2026
-- Ohjo Bldg, Tokyo — Fri, 8 May 2026
-- Secret Venue in Minatoku-Nishiazabu, Tokyo — Sat, 21 Mar 2026
+- TBA - Secret Location , Tokyo · Fri, 18 Sept 2026
+- Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 22 Aug 2026
+- TBA - Secret location in Nishiazabu, Tokyo · Sat, 15 Aug 2026
+- clubasia, Tokyo · Fri, 7 Aug 2026
+- clubasia, Tokyo · Fri, 26 Jun 2026
+- Ohjo Bldg, Tokyo · Fri, 5 Jun 2026
+- Ohjo Bldg, Tokyo · Fri, 8 May 2026
+- Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 21 Mar 2026
 
 ## Shares bills with
 

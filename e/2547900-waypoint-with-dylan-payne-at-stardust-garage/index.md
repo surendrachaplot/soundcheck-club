@@ -1,6 +1,6 @@
 # Waypoint with Dylan Payne at Stardust Garage
 
-Waypoint with Dylan Payne at Stardust Garage on Fri 23 Oct, Austin. 1 artist on the bill: Dylan Payne. House and Deep House. Preview the line-up and save it on soundcheck.
+Waypoint with Dylan Payne at Stardust Garage on Fri 23 Oct, Austin. 1 artist: Dylan Payne. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # B48 live x BEHIND at Bridge 48
 
-B48 live x BEHIND at Bridge 48 on Thu 8 Oct, Barcelona. 4 artists on the bill: J Key, Monty, Monzo and REXER. Preview the line-up and save it on soundcheck.
+B48 live x BEHIND at Bridge 48 on Thu 8 Oct, Barcelona. 4 artists: J Key, Monty, Monzo and REXER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

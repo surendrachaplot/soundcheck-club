@@ -1,8 +1,8 @@
 # Crack Bellmer
 
-Crack Bellmer is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "KOERPER x Crack Bellmer" on Thu, 1 Oct 2026.
+Crack Bellmer is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "KOERPER x Crack Bellmer" on Thu, 1 Oct 2026.
 
-Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Aexhy, Ahni, AZADÎ and Bconscious and 2 more. Browse upcoming dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
+Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Aexhy, Ahni, AZADÎ and Bconscious and 2 more. See dates, start times and who's playing. Revaler Strasse 99; 10245 Berlin-Friedrichshain; Berlin; Germany.
 
 ## What's on
 

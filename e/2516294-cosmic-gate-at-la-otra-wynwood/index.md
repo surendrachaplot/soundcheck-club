@@ -1,6 +1,6 @@
 # Cosmic Gate at La Otra Wynwood
 
-Cosmic Gate at La Otra Wynwood on Fri 9 Oct, Miami. Progressive House and Trance. Preview the line-up and save it on soundcheck.
+Cosmic Gate at La Otra Wynwood on Fri 9 Oct, Miami. Progressive House and Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

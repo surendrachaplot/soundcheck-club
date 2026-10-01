@@ -1,8 +1,8 @@
 # Nixtrove
 
-Nixtrove is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RAUM RESONANZ KÖRPER (RRK), Munich on Thu, 1 Oct 2026.
+Nixtrove is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at RAUM RESONANZ KÖRPER (RRK), Munich on Thu, 1 Oct 2026.
 
-Nixtrove is an ambient and experimental artist based in Canada, tracked on soundcheck, with 12 sets logged across Brussels, Los Angeles, Montreal and Munich and 2 more. Often billed alongside Neo Edo, gonima and indek. Next up: RAUM RESONANZ KÖRPER (RRK), Munich on Thu 1 Oct.
+Nixtrove is an ambient and experimental artist based in Canada, with 12 gigs on soundcheck across Brussels, Los Angeles, Montreal and Munich and 2 more. Often billed alongside Neo Edo, gonima and indek. Next up: RAUM RESONANZ KÖRPER (RRK), Munich on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Nixtrove is an ambient and experimental artist based in Canada, tracked on sound
 
 ## Recently played
 
-- Brasserie Beaubien, Montreal — Sat, 9 May 2026
-- Import Export, Munich — Thu, 22 Jan 2026
-- Société des arts technologiques, Montreal — Fri, 24 Oct 2025
-- Piranha Bar, Montreal — Fri, 13 Dec 2024
-- TBA - Montreal, Montreal — Fri, 16 Feb 2024
-- La Sotterenea, Montreal — Fri, 19 Jan 2024
-- La Fonderie, Brussels — Fri, 24 Nov 2023
-- The Grey Space In The Middle, The Hague — Thu, 23 Nov 2023
+- Brasserie Beaubien, Montreal · Sat, 9 May 2026
+- Import Export, Munich · Thu, 22 Jan 2026
+- Société des arts technologiques, Montreal · Fri, 24 Oct 2025
+- Piranha Bar, Montreal · Fri, 13 Dec 2024
+- TBA - Montreal, Montreal · Fri, 16 Feb 2024
+- La Sotterenea, Montreal · Fri, 19 Jan 2024
+- La Fonderie, Brussels · Fri, 24 Nov 2023
+- The Grey Space In The Middle, The Hague · Thu, 23 Nov 2023
 
 ## Shares bills with
 

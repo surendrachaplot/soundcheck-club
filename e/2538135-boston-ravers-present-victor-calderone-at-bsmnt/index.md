@@ -1,6 +1,6 @@
 # Boston Ravers present: Victor Calderone at Bsmnt
 
-Boston Ravers present: Victor Calderone at Bsmnt on Sun 11 Oct, Boston. 1 artist on the bill: Victor Calderone. Techno and House. Preview the line-up and save it on soundcheck.
+Boston Ravers present: Victor Calderone at Bsmnt on Sun 11 Oct, Boston. 1 artist: Victor Calderone. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

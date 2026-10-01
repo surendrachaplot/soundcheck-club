@@ -1,6 +1,6 @@
 # Salon of Coincidence: Vol 05 at 90mil
 
-Salon of Coincidence: Vol 05 at 90mil on Sat 10 Oct, Berlin. 1 artist on the bill: gugol maps. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Salon of Coincidence: Vol 05 at 90mil on Sat 10 Oct, Berlin. 1 artist: gugol maps. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

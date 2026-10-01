@@ -1,6 +1,6 @@
 # SYNCHRONY (ADE 2026) at Prik Amsterdam
 
-SYNCHRONY (ADE 2026) at Prik Amsterdam on Thu 22 Oct, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+SYNCHRONY (ADE 2026) at Prik Amsterdam on Thu 22 Oct, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

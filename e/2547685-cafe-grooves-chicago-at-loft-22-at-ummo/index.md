@@ -1,6 +1,6 @@
 # Cafe Grooves Chicago at Loft 22 at Ummo
 
-Cafe Grooves Chicago at Loft 22 at Ummo on Thu 1 Oct, Chicago. 3 artists on the bill: Bassel Darwish, Nasser Baker and Valeria Fride. House. Preview the line-up and save it on soundcheck.
+Cafe Grooves Chicago at Loft 22 at Ummo on Thu 1 Oct, Chicago. 3 artists: Bassel Darwish, Nasser Baker and Valeria Fride. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

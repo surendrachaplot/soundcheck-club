@@ -1,6 +1,6 @@
 # Club House at Happening Napoli
 
-Club House at Happening Napoli on Thu 1 Oct, Naples. Funk / Soul. Preview the line-up and save it on soundcheck.
+Club House at Happening Napoli on Thu 1 Oct, Naples. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

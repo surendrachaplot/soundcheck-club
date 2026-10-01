@@ -1,6 +1,6 @@
 # Milo Korbenski at Dürer Kert
 
-Milo Korbenski at Dürer Kert on Wed 28 Oct, Budapest. Pop. Preview the line-up and save it on soundcheck.
+Milo Korbenski at Dürer Kert on Wed 28 Oct, Budapest. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

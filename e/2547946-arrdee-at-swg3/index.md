@@ -1,6 +1,6 @@
 # ArrDee at SWG3
 
-ArrDee at SWG3 on Thu 8 Oct, Glasgow. Hip-Hop. Preview the line-up and save it on soundcheck.
+ArrDee at SWG3 on Thu 8 Oct, Glasgow. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

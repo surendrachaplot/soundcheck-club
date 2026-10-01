@@ -1,8 +1,8 @@
 # SUBVISIONS
 
-SUBVISIONS is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
+SUBVISIONS is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Hifi Club, Leeds on Sat, 17 Oct 2026.
 
-SUBVISIONS is a techno and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Leeds. Often billed alongside Ventah, MOUTH and ATTA. Next up: The Hifi Club, Leeds on Sat 17 Oct.
+SUBVISIONS is a techno and house artist based in United Kingdom, with 18 gigs on soundcheck across Leeds. Often billed alongside Ventah, MOUTH and ATTA. Next up: The Hifi Club, Leeds on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SUBVISIONS is a techno and house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- The Vinyl Whistle, Leeds — Sat, 12 Sept 2026
-- Beaver Works, Leeds — Sat, 5 Sept 2026
-- Hyde Park Book Club, Leeds — Sat, 22 Aug 2026
-- The Vinyl Whistle, Leeds — Fri, 15 May 2026
-- The Hifi Club, Leeds — Sat, 14 Mar 2026
-- The Vinyl Whistle, Leeds — Fri, 27 Feb 2026
-- Society Leeds, Leeds — Wed, 31 Dec 2025
-- Freedom Mills, Leeds — Sat, 8 Nov 2025
+- The Vinyl Whistle, Leeds · Sat, 12 Sept 2026
+- Beaver Works, Leeds · Sat, 5 Sept 2026
+- Hyde Park Book Club, Leeds · Sat, 22 Aug 2026
+- The Vinyl Whistle, Leeds · Fri, 15 May 2026
+- The Hifi Club, Leeds · Sat, 14 Mar 2026
+- The Vinyl Whistle, Leeds · Fri, 27 Feb 2026
+- Society Leeds, Leeds · Wed, 31 Dec 2025
+- Freedom Mills, Leeds · Sat, 8 Nov 2025
 
 ## Shares bills with
 

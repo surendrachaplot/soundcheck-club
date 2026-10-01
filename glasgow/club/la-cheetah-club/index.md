@@ -1,8 +1,8 @@
 # La Cheetah Club
 
-La Cheetah Club is a music venue in Glasgow with 30 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sidechain Vol. V: Loz, Taos Hum and Jos.heat" on Thu, 1 Oct 2026.
+La Cheetah Club is a music venue in Glasgow with 31 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sidechain Vol. V: Loz, Taos Hum and Jos.heat" on Thu, 1 Oct 2026.
 
-La Cheetah Club is a music venue in Glasgow listed on soundcheck. 30 upcoming gigs, with line-ups including Amizl, Baron Von Trax, Brody James and Brown Excellence and 2 more. Browse upcoming dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
+La Cheetah Club is a music venue in Glasgow listed on soundcheck. 31 upcoming gigs, with line-ups including Amizl, Baron Von Trax, Brody James and Brown Excellence and 2 more. See dates, start times and who's playing. Basement, 73 Queen Street; Glasgow, G1 3BZ; Scotland; United Kingdom.
 
 ## What's on
 

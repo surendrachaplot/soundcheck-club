@@ -1,6 +1,6 @@
 # SOLE ASPECT × Dante's HiFi — FIVE YEARS DEEP at Dante's HiFi
 
-SOLE ASPECT × Dante's HiFi — FIVE YEARS DEEP on Fri 13 Nov, Miami. Deep House and Broken Beat. Preview the line-up and save it on soundcheck.
+SOLE ASPECT × Dante's HiFi — FIVE YEARS DEEP on Fri 13 Nov, Miami. Deep House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

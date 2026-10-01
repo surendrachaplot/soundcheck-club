@@ -1,6 +1,6 @@
 # Techno Brooklyn presents USH at TBA - Brooklyn
 
-Techno Brooklyn presents USH at TBA - Brooklyn on Sat 10 Oct, New York City. Preview the line-up and save it on soundcheck.
+Techno Brooklyn presents USH at TBA - Brooklyn on Sat 10 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

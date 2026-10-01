@@ -1,6 +1,6 @@
 # JOSÉ GONZÁLEZ at Archa+
 
-JOSÉ GONZÁLEZ at Archa+ on Thu 19 Nov, Prague. Preview the line-up and save it on soundcheck.
+JOSÉ GONZÁLEZ at Archa+ on Thu 19 Nov, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

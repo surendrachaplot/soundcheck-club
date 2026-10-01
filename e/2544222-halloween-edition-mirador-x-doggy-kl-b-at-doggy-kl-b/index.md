@@ -1,6 +1,6 @@
 # Halloween Edition: Mirador x Doggy Klœb at Doggy Klœb
 
-Halloween Edition: Mirador x Doggy Klœb on Sat 31 Oct, Malaga. 1 artist on the bill: Andrés Sancho. Electronica. Preview the line-up and save it on soundcheck.
+Halloween Edition: Mirador x Doggy Klœb on Sat 31 Oct, Malaga. 1 artist: Andrés Sancho. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

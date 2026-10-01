@@ -1,6 +1,6 @@
 # leverson b2b Signorina x Spiritland (vinyl set) at Spiritland
 
-leverson b2b Signorina x Spiritland (vinyl set) on Thu 15 Oct, London. 2 artists on the bill: leverson and Signorina. Jazz and R&B. Preview the line-up and save it on soundcheck.
+leverson b2b Signorina x Spiritland (vinyl set) on Thu 15 Oct, London. 2 artists: leverson and Signorina. Jazz and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

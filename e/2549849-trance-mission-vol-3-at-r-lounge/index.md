@@ -1,6 +1,6 @@
 # Trance Mission Vol.3 at R Lounge
 
-Trance Mission Vol.3 at R Lounge on Sat 14 Nov, Tokyo. 1 artist on the bill: Xana. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+Trance Mission Vol.3 at R Lounge on Sat 14 Nov, Tokyo. 1 artist: Xana. Trance and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

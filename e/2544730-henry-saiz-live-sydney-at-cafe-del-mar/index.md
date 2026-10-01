@@ -1,6 +1,6 @@
 # Henry Saiz LIVE Sydney at Cafe Del Mar
 
-Henry Saiz LIVE Sydney at Cafe Del Mar on Sat 7 Nov, Sydney. 1 artist on the bill: Henry Saiz. House. Preview the line-up and save it on soundcheck.
+Henry Saiz LIVE Sydney at Cafe Del Mar on Sat 7 Nov, Sydney. 1 artist: Henry Saiz. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

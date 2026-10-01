@@ -1,6 +1,6 @@
 # ZUKIE at DJ Bar Bridge Shinjuku
 
-ZUKIE at DJ Bar Bridge Shinjuku on Mon 9 Nov, Tokyo. House and R&B. Preview the line-up and save it on soundcheck.
+ZUKIE at DJ Bar Bridge Shinjuku on Mon 9 Nov, Tokyo. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

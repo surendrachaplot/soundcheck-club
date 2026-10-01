@@ -1,6 +1,6 @@
 # PJ MORTON at Bitefartcafe
 
-PJ MORTON at Bitefartcafe on Thu 15 Oct, Belgrade. Funk / Soul and R&B. Preview the line-up and save it on soundcheck.
+PJ MORTON at Bitefartcafe on Thu 15 Oct, Belgrade. Funk / Soul and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

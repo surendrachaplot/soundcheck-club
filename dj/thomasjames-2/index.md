@@ -1,8 +1,8 @@
 # Thomas James (2)
 
-Thomas James (2) is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Rhythm, Toronto on Wed, 7 Oct 2026.
+Thomas James (2) is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Rhythm, Toronto on Wed, 7 Oct 2026.
 
-Thomas James is a house and minimal artist based in Canada, tracked on soundcheck, with 29 sets logged across Toronto. Often billed alongside Greg Burke, Fauren and Hair Gel. Next up: Rhythm, Toronto on Wed 7 Oct.
+Thomas James is a house and minimal artist based in Canada, with 29 gigs on soundcheck across Toronto. Often billed alongside Greg Burke, Fauren and Hair Gel. Next up: Rhythm, Toronto on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Thomas James is a house and minimal artist based in Canada, tracked on soundchec
 
 ## Recently played
 
-- Rhythm, Toronto — Fri, 14 Aug 2026
-- Rhythm, Toronto — Wed, 29 Jul 2026
-- Rhythm, Toronto — Fri, 3 Jul 2026
-- Rhythm, Toronto — Sat, 30 May 2026
-- Rhythm, Toronto — Thu, 21 May 2026
-- Rhythm, Toronto — Sat, 18 Apr 2026
-- Rhythm, Toronto — Fri, 23 Jan 2026
-- SOUNDS GOOD, Toronto — Sun, 12 Oct 2025
+- Rhythm, Toronto · Fri, 14 Aug 2026
+- Rhythm, Toronto · Wed, 29 Jul 2026
+- Rhythm, Toronto · Fri, 3 Jul 2026
+- Rhythm, Toronto · Sat, 30 May 2026
+- Rhythm, Toronto · Thu, 21 May 2026
+- Rhythm, Toronto · Sat, 18 Apr 2026
+- Rhythm, Toronto · Fri, 23 Jan 2026
+- SOUNDS GOOD, Toronto · Sun, 12 Oct 2025
 
 ## Shares bills with
 

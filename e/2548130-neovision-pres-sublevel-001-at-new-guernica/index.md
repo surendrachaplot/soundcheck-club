@@ -1,6 +1,6 @@
 # Neovision pres. Sublevel 001 at New Guernica
 
-Neovision pres. Sublevel 001 at New Guernica on Thu 8 Oct, Melbourne. 5 artists on the bill: AKEYLAH, Alonia, GROOVEBABY and Memphis LK and 1 more. Preview the line-up and save it on soundcheck.
+Neovision pres. Sublevel 001 at New Guernica on Thu 8 Oct, Melbourne. 5 artists: AKEYLAH, Alonia, GROOVEBABY and Memphis LK and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Techno Tuesday Amsterdam 27.October 2026 has been cancelled at Melkweg
 
-Techno Tuesday Amsterdam 27.October 2026 has been cancelled at Melkweg on Tue 27 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Techno Tuesday Amsterdam 27.October 2026 has been cancelled at Melkweg on Tue 27 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

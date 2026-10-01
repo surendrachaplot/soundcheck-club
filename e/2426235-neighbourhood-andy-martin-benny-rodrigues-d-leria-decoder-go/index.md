@@ -1,6 +1,6 @@
 # Neighbourhood - Andy Martin, Benny Rodrigues, D-Leria, Decoder, Gonno, OK Williams, Shy One… at FOLD
 
-Neighbourhood - Andy Martin, Benny Rodrigues, D-Leria, Decoder, Gonno, OK Williams, Shy One… at FOLD on Sat 10 Oct, London. 14 artists on the bill: Andy Martin, Benny Rodrigues, D-Leria and Decoder and 10 more. Techno and House. Preview the line-up and save it on soundcheck.
+Neighbourhood - Andy Martin, Benny Rodrigues, D-Leria, Decoder, Gonno, OK Williams, Shy One… at FOLD on Sat 10 Oct, London. 14 artists: Andy Martin, Benny Rodrigues, D-Leria and Decoder and 10 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

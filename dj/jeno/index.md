@@ -1,8 +1,8 @@
 # Jeno
 
-Jeno is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Underground SF, San Francisco/Oakland on Sat, 24 Oct 2026.
+Jeno is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 24 Oct 2026.
 
-Jeno is a house and acid artist based in United States of America, tracked on soundcheck, with 26 sets logged across Amsterdam, Los Angeles and San Francisco/Oakland. Often billed alongside DJ Spun, Doc Martin and Tranquil Elephantizer. Next up: Underground SF, San Francisco/Oakland on Sat 24 Oct.
+Jeno is a house and acid artist based in United States of America, with 26 gigs on soundcheck across Amsterdam, Los Angeles and San Francisco/Oakland. Often billed alongside DJ Spun, Doc Martin and Tranquil Elephantizer. Next up: Underground SF, San Francisco/Oakland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Jeno is a house and acid artist based in United States of America, tracked on so
 
 ## Recently played
 
-- F8 1192 Folsom, San Francisco/Oakland — Wed, 19 Aug 2026
-- Phoenix Hotel, San Francisco/Oakland — Sat, 15 Aug 2026
-- F8 1192 Folsom, San Francisco/Oakland — Wed, 4 Mar 2026
-- The Foundry, San Francisco/Oakland — Sat, 20 Dec 2025
-- Vintage Space at The Flamingo, San Francisco/Oakland — Fri, 14 Nov 2025
-- F8 1192 Folsom, San Francisco/Oakland — Wed, 5 Nov 2025
-- F8 1192 Folsom, San Francisco/Oakland — Mon, 22 Sept 2025
-- F8 1192 Folsom, San Francisco/Oakland — Wed, 27 Aug 2025
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 19 Aug 2026
+- Phoenix Hotel, San Francisco/Oakland · Sat, 15 Aug 2026
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 4 Mar 2026
+- The Foundry, San Francisco/Oakland · Sat, 20 Dec 2025
+- Vintage Space at The Flamingo, San Francisco/Oakland · Fri, 14 Nov 2025
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 5 Nov 2025
+- F8 1192 Folsom, San Francisco/Oakland · Mon, 22 Sept 2025
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 27 Aug 2025
 
 ## Shares bills with
 

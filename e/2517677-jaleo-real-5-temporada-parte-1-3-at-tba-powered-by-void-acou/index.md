@@ -1,6 +1,6 @@
 # Jaleo Real • 5ª Temporada • Parte 1/3 at TBA - Powered by: Void Acoustics
 
-Jaleo Real • 5ª Temporada • Parte 1/3 at TBA - Powered by: Void Acoustics on Fri 13 Nov, Madrid. 6 artists on the bill: CEM3340, HCOR, Luska and NAUAL and 2 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Jaleo Real • 5ª Temporada • Parte 1/3 at TBA - Powered by: Void Acoustics on Fri 13 Nov, Madrid. 6 artists: CEM3340, HCOR, Luska and NAUAL and 2 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

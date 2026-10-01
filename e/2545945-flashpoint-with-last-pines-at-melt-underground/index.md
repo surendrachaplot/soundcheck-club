@@ -1,6 +1,6 @@
 # Flashpoint with LAST PINES at Melt Underground
 
-Flashpoint with LAST PINES at Melt Underground on Sat 3 Oct, Buenos Aires. Minimal. Preview the line-up and save it on soundcheck.
+Flashpoint with LAST PINES at Melt Underground on Sat 3 Oct, Buenos Aires. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

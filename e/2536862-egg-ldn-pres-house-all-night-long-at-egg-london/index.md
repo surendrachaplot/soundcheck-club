@@ -1,6 +1,6 @@
 # Egg LDN Pres: House All Night Long at Egg London
 
-Egg LDN Pres: House All Night Long at Egg London on Sat 3 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+Egg LDN Pres: House All Night Long at Egg London on Sat 3 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

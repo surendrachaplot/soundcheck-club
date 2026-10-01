@@ -1,6 +1,6 @@
 # H31R at The Greyhound
 
-H31R at The Greyhound on Wed 11 Nov, London. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+H31R at The Greyhound on Wed 11 Nov, London. Hip-Hop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

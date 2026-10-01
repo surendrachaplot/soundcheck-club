@@ -1,6 +1,6 @@
 # Electric Jungle: Villem at Loso
 
-Electric Jungle: Villem at Loso on Sat 17 Oct, Richmond. 2 artists on the bill: Joanna O. and Villem. Preview the line-up and save it on soundcheck.
+Electric Jungle: Villem at Loso on Sat 17 Oct, Richmond. 2 artists: Joanna O. and Villem. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

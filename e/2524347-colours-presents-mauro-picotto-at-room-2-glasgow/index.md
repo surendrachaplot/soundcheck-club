@@ -1,6 +1,6 @@
 # Colours presents Mauro Picotto at Room 2 Glasgow
 
-Colours presents Mauro Picotto at Room 2 Glasgow on Sat 28 Nov, Glasgow. 1 artist on the bill: Mauro Picotto. Trance. Preview the line-up and save it on soundcheck.
+Colours presents Mauro Picotto at Room 2 Glasgow on Sat 28 Nov, Glasgow. 1 artist: Mauro Picotto. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

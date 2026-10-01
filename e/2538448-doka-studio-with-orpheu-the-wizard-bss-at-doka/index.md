@@ -1,6 +1,6 @@
 # Doka Studio with Orpheu The Wizard - BSS at Doka
 
-Doka Studio with Orpheu The Wizard - BSS on Fri 2 Oct, Amsterdam. 2 artists on the bill: BSS-AMS and Orpheu The Wizard. Techno and House. Preview the line-up and save it on soundcheck.
+Doka Studio with Orpheu The Wizard - BSS on Fri 2 Oct, Amsterdam. 2 artists: BSS-AMS and Orpheu The Wizard. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

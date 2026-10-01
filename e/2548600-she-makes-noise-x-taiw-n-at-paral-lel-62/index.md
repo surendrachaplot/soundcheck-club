@@ -1,6 +1,6 @@
 # She Makes Noise x Taiwán at Paral•lel 62
 
-She Makes Noise x Taiwán at Paral•lel 62 on Fri 9 Oct, Barcelona. 3 artists on the bill: Sabiwa, Scintii and Sonia Calico. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+She Makes Noise x Taiwán at Paral•lel 62 on Fri 9 Oct, Barcelona. 3 artists: Sabiwa, Scintii and Sonia Calico. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

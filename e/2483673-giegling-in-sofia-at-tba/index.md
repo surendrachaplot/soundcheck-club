@@ -1,6 +1,6 @@
 # giegling in sofia at TBA
 
-giegling in sofia at TBA on Sat 3 Oct, Sofia. 5 artists on the bill: Adriana, Cassy, Edward and Konstantin and 1 more. Preview the line-up and save it on soundcheck.
+giegling in sofia at TBA on Sat 3 Oct, Sofia. 5 artists: Adriana, Cassy, Edward and Konstantin and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

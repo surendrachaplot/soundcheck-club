@@ -1,6 +1,6 @@
 # CASA at The Social Club
 
-CASA at The Social Club on Fri 11 Dec, Newcastle. Preview the line-up and save it on soundcheck.
+CASA at The Social Club on Fri 11 Dec, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

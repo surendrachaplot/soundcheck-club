@@ -1,8 +1,8 @@
 # The Berkeley Suite
 
-The Berkeley Suite is a music venue in Glasgow with 33 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "VICE VERSA Invites Parallx" on Thu, 1 Oct 2026.
+The Berkeley Suite is a music venue in Glasgow with 34 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "VICE VERSA Invites Parallx" on Thu, 1 Oct 2026.
 
-The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 33 upcoming gigs, with line-ups including 3-Lix, Amaliah, Andy Barton and Austin Ato and 2 more. Browse upcoming dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
+The Berkeley Suite is a music venue in Glasgow listed on soundcheck. 34 upcoming gigs, with line-ups including 3-Lix, Amaliah, Andy Barton and Austin Ato and 2 more. See dates, start times and who's playing. 237 North Street; Glasgow, G3 7DL, Scotland, United Kingdom.
 
 ## What's on
 

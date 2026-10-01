@@ -1,6 +1,6 @@
 # Groove Haven Warehouse Edition vol. 2 at TBA
 
-Groove Haven Warehouse Edition vol. 2 at TBA on Sat 10 Oct, Bielefeld. Techno and House. Preview the line-up and save it on soundcheck.
+Groove Haven Warehouse Edition vol. 2 at TBA on Sat 10 Oct, Bielefeld. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

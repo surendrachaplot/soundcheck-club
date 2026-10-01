@@ -1,6 +1,6 @@
 # KINYXX Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum
 
-KINYXX Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum on Fri 30 Oct, Barcelona. 3 artists on the bill: ANJELIKA SAHAKIAN, DIDIXX and TvMnstr. Techno. Preview the line-up and save it on soundcheck.
+KINYXX Open Air Halloween [Balla Barcelona Festival] at Parc del Fòrum on Fri 30 Oct, Barcelona. 3 artists: ANJELIKA SAHAKIAN, DIDIXX and TvMnstr. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

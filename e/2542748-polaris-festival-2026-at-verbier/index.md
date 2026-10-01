@@ -1,6 +1,6 @@
 # Polaris Festival 2026 at Verbier
 
-Polaris Festival 2026 at Verbier on Fri 20 Nov, Switzerland. 27 artists on the bill: A Guy Called Gerald, Armand Van Helden, Carl Craig and Charlotte de Witte and 23 more. Preview the line-up and save it on soundcheck.
+Polaris Festival 2026 at Verbier on Fri 20 Nov, Switzerland. 27 artists: A Guy Called Gerald, Armand Van Helden, Carl Craig and Charlotte de Witte and 23 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

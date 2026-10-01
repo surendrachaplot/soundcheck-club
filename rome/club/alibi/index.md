@@ -1,8 +1,8 @@
 # Alibi
 
-Alibi is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "NEO RAVE - Alibi ROMA" on Sat, 10 Oct 2026.
+Alibi is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "NEO RAVE - Alibi ROMA" on Sat, 10 Oct 2026.
 
-Alibi is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including mag (JP). Browse upcoming dates, start times and who's playing.
+Alibi is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including mag (JP). See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # QUADRANT PARK : The Christmas Quad at WaV
 
-QUADRANT PARK : The Christmas Quad at WaV on Mon 28 Dec, Liverpool. 1 artist on the bill: John Kelly. House and Acid. Preview the line-up and save it on soundcheck.
+QUADRANT PARK : The Christmas Quad at WaV on Mon 28 Dec, Liverpool. 1 artist: John Kelly. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

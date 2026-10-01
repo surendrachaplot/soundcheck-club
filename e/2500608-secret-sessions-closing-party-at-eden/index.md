@@ -1,6 +1,6 @@
 # SECRET SESSIONS Closing Party at Eden
 
-SECRET SESSIONS Closing Party at Eden on Sun 4 Oct, Ibiza. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+SECRET SESSIONS Closing Party at Eden on Sun 4 Oct, Ibiza. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

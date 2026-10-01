@@ -1,6 +1,6 @@
 # Shimza & co at Halle 622
 
-Shimza & co at Halle 622 on Sat 3 Oct, Zurich. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Shimza & co at Halle 622 on Sat 3 Oct, Zurich. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

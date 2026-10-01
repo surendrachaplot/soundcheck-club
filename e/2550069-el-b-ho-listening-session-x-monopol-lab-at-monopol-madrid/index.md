@@ -1,6 +1,6 @@
 # El Búho Listening Session x Monopol LAB at Monopol Madrid
 
-El Búho Listening Session x Monopol LAB at Monopol Madrid on Fri 9 Oct, Madrid. 1 artist on the bill: El Buho. Electronica. Preview the line-up and save it on soundcheck.
+El Búho Listening Session x Monopol LAB at Monopol Madrid on Fri 9 Oct, Madrid. 1 artist: El Buho. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

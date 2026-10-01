@@ -1,6 +1,6 @@
 # BK LOVES UKG PRESENTS :BUS LOVES GARAGE at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP
 
-BK LOVES UKG PRESENTS :BUS LOVES GARAGE at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP on Fri 2 Oct, New York City. 6 artists on the bill: BLCKLST, Chizzum, Cryostatik and Lovelydaze and 2 more. Garage and Dubstep. Preview the line-up and save it on soundcheck.
+BK LOVES UKG PRESENTS :BUS LOVES GARAGE at TBA - REEGADE STYLE POP UP, REVEALED WITH RSVP on Fri 2 Oct, New York City. 6 artists: BLCKLST, Chizzum, Cryostatik and Lovelydaze and 2 more. Garage and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

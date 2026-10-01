@@ -1,6 +1,6 @@
 # Heaven on Hertz presents... Ryan Taylor at The Haggerston
 
-Heaven on Hertz presents... Ryan Taylor at The Haggerston on Thu 15 Oct, London. 2 artists on the bill: Malur and Ryan Taylor. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Heaven on Hertz presents... Ryan Taylor at The Haggerston on Thu 15 Oct, London. 2 artists: Malur and Ryan Taylor. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

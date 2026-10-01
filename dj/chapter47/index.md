@@ -1,8 +1,8 @@
 # Chapter 47
 
-Chapter 47 is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Grand Central Hall, Liverpool on Fri, 27 Nov 2026.
+Chapter 47 is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grand Central Hall, Liverpool on Fri, 27 Nov 2026.
 
-Chapter 47 is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, Istanbul, Liverpool and London and 2 more. Often billed alongside Yaggo, Abel Ramos and Armand Van Helden. Next up: Grand Central Hall, Liverpool on Fri 27 Nov.
+Chapter 47 is a house and tech house artist based in United Kingdom, with 10 gigs on soundcheck across Amsterdam, Istanbul, Liverpool and London and 2 more. Often billed alongside Yaggo, Abel Ramos and Armand Van Helden. Next up: Grand Central Hall, Liverpool on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Chapter 47 is a house and tech house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Grand Central Hall, Liverpool — Fri, 22 May 2026
-- NØMAD, Toronto — Fri, 20 Mar 2026
-- Grand Central Hall, Liverpool — Sat, 2 Aug 2025
-- Kastel, Istanbul — Fri, 30 May 2025
-- Ministry Of Sound, London — Fri, 31 Jan 2025
-- Ministry Of Sound, London — Fri, 20 Sept 2024
-- TBA - Anna Church Amstelveen B.V., Amsterdam — Thu, 19 Oct 2023
-- Barsecco, Miami — Thu, 23 Mar 2023
+- Grand Central Hall, Liverpool · Fri, 22 May 2026
+- NØMAD, Toronto · Fri, 20 Mar 2026
+- Grand Central Hall, Liverpool · Sat, 2 Aug 2025
+- Kastel, Istanbul · Fri, 30 May 2025
+- Ministry Of Sound, London · Fri, 31 Jan 2025
+- Ministry Of Sound, London · Fri, 20 Sept 2024
+- TBA - Anna Church Amstelveen B.V., Amsterdam · Thu, 19 Oct 2023
+- Barsecco, Miami · Thu, 23 Mar 2023
 
 ## Shares bills with
 

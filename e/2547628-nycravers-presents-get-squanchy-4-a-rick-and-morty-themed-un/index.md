@@ -1,6 +1,6 @@
 # NYCRavers presents Get Squanchy 4: A Rick and Morty Themed Unofficial NYC Comicon Afterparty at Eden NYC
 
-NYCRavers presents Get Squanchy 4: A Rick and Morty Themed Unofficial NYC Comicon Afterparty at Eden NYC on Sun 11 Oct, New York City. Drum & Bass and Tech House. Preview the line-up and save it on soundcheck.
+NYCRavers presents Get Squanchy 4: A Rick and Morty Themed Unofficial NYC Comicon Afterparty at Eden NYC on Sun 11 Oct, New York City. Drum & Bass and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

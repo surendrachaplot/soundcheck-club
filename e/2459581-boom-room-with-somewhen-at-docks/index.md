@@ -1,6 +1,6 @@
 # BOOM ROOM with Somewhen at Docks
 
-BOOM ROOM with Somewhen at Docks on Fri 6 Nov, Hamburg. 1 artist on the bill: Somewhen. Trance and Techno. Preview the line-up and save it on soundcheck.
+BOOM ROOM with Somewhen at Docks on Fri 6 Nov, Hamburg. 1 artist: Somewhen. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

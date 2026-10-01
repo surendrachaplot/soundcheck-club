@@ -1,8 +1,8 @@
 # Daura
 
-Daura is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ring, Seoul on Fri, 2 Oct 2026.
+Daura is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ring, Seoul on Fri, 2 Oct 2026.
 
-Daura is a techno and house artist based in Canada, tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Brussels and Düsseldorf and 22 more. Often billed alongside Moaad BKR, Mr. Murray and Cosmic JD. Next up: Ring, Seoul on Fri 2 Oct.
+Daura is a techno and house artist based in Canada, with 61 gigs on soundcheck across Amsterdam, Berlin, Brussels and Düsseldorf and 22 more. Often billed alongside Moaad BKR, Mr. Murray and Cosmic JD. Next up: Ring, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Daura is a techno and house artist based in Canada, tracked on soundcheck, with 
 
 ## Recently played
 
-- TBA, Sydney — Sat, 26 Sept 2026
-- TBA, Melbourne — Fri, 18 Sept 2026
-- Fitzroy, Berlin — Sat, 12 Sept 2026
-- Coco Boule, Berlin — Fri, 11 Sept 2026
-- THE MAGICK BAR, Rome — Tue, 25 Aug 2026
-- GIMIC, Brussels — Sun, 7 Jun 2026
-- Mastak, Warsaw — Sun, 26 Apr 2026
-- Sekta Selekta, Krakow — Fri, 24 Apr 2026
+- TBA, Sydney · Sat, 26 Sept 2026
+- TBA, Melbourne · Fri, 18 Sept 2026
+- Fitzroy, Berlin · Sat, 12 Sept 2026
+- Coco Boule, Berlin · Fri, 11 Sept 2026
+- THE MAGICK BAR, Rome · Tue, 25 Aug 2026
+- GIMIC, Brussels · Sun, 7 Jun 2026
+- Mastak, Warsaw · Sun, 26 Apr 2026
+- Sekta Selekta, Krakow · Fri, 24 Apr 2026
 
 ## Shares bills with
 

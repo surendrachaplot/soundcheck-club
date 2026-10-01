@@ -1,6 +1,6 @@
 # Soenda Indoor Werkspoorkathedraal 2026 at Werkspoorkathedraal
 
-Soenda Indoor Werkspoorkathedraal 2026 on Sat 21 Nov, Netherlands. 8 artists on the bill: Benwal, Faster Horses, LAMMER and MALUGI and 4 more. Preview the line-up and save it on soundcheck.
+Soenda Indoor Werkspoorkathedraal 2026 on Sat 21 Nov, Netherlands. 8 artists: Benwal, Faster Horses, LAMMER and MALUGI and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

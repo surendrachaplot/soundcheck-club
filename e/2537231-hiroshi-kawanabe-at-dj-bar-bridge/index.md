@@ -1,6 +1,6 @@
 # HIROSHI KAWANABE at DJ Bar Bridge
 
-HIROSHI KAWANABE at DJ Bar Bridge on Wed 4 Nov, Tokyo. House. Preview the line-up and save it on soundcheck.
+HIROSHI KAWANABE at DJ Bar Bridge on Wed 4 Nov, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

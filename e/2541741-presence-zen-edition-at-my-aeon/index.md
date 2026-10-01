@@ -1,6 +1,6 @@
 # Presence - Zen Edition at My Aeon
 
-Presence - Zen Edition at My Aeon on Fri 11 Dec, Melbourne. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Presence - Zen Edition at My Aeon on Fri 11 Dec, Melbourne. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

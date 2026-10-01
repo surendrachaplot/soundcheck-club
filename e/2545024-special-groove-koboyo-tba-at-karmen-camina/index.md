@@ -1,6 +1,6 @@
 # SPECIAL GROOVE [Koboyo • +TBA] at Karmen Camina
 
-SPECIAL GROOVE [Koboyo • +TBA] at Karmen Camina on Fri 9 Oct, Strasbourg. 1 artist on the bill: Koboyo. Techno. Preview the line-up and save it on soundcheck.
+SPECIAL GROOVE [Koboyo • +TBA] at Karmen Camina on Fri 9 Oct, Strasbourg. 1 artist: Koboyo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

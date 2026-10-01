@@ -1,6 +1,6 @@
 # FREEDANCE 027: Open Air at Darebin Parklands at TBA - Darebin Parklands 
 
-FREEDANCE 027: Open Air at Darebin Parklands at TBA - Darebin Parklands  on Sun 4 Oct, Melbourne. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+FREEDANCE 027: Open Air at Darebin Parklands at TBA - Darebin Parklands  on Sun 4 Oct, Melbourne. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

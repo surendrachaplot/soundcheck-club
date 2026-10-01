@@ -1,6 +1,6 @@
 # RE:VISITED at TBA
 
-RE:VISITED at TBA on Sat 10 Oct, Berlin. Techno and Tech House. Preview the line-up and save it on soundcheck.
+RE:VISITED at TBA on Sat 10 Oct, Berlin. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

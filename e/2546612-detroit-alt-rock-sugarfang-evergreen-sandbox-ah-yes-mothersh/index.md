@@ -1,6 +1,6 @@
 # Detroit Alt Rock SugarFang+Evergreen+Sandbox+Ah,Yes Mothership at Trixie's Bar
 
-Detroit Alt Rock SugarFang+Evergreen+Sandbox+Ah,Yes Mothership at Trixie's Bar on Sat 3 Oct, Detroit. Preview the line-up and save it on soundcheck.
+Detroit Alt Rock SugarFang+Evergreen+Sandbox+Ah,Yes Mothership at Trixie's Bar on Sat 3 Oct, Detroit. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

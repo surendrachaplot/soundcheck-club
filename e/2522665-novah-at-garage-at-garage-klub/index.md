@@ -1,6 +1,6 @@
 # NOVAH at Garage at Garage Klub
 
-NOVAH at Garage at Garage Klub on Sat 3 Oct, Antwerp. 1 artist on the bill: NOVAH. Preview the line-up and save it on soundcheck.
+NOVAH at Garage at Garage Klub on Sat 3 Oct, Antwerp. 1 artist: NOVAH. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

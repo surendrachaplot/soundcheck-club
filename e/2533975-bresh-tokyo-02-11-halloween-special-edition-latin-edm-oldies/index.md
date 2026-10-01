@@ -1,6 +1,6 @@
 # BRESH TOKYO 02/11 - Halloween Special Edition - LATIN / EDM / OLDIES / POP - at ZEROTOKYO
 
-BRESH TOKYO 02/11 - Halloween Special Edition - LATIN / EDM / OLDIES / POP - at ZEROTOKYO on Mon 2 Nov, Tokyo. Pop and Reggaeton. Preview the line-up and save it on soundcheck.
+BRESH TOKYO 02/11 - Halloween Special Edition - LATIN / EDM / OLDIES / POP - at ZEROTOKYO on Mon 2 Nov, Tokyo. Pop and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Soma Festival 2026 at TBA - Mount Adrah, Wiradjuri Country NSW
 
-Soma Festival 2026 at TBA - Mount Adrah, Wiradjuri Country NSW on Fri 6 Nov, New South Wales. 22 artists on the bill: Aarti Jadu, Bridget Small, Cousin and deep creep and 18 more. Preview the line-up and save it on soundcheck.
+Soma Festival 2026 at TBA - Mount Adrah, Wiradjuri Country NSW on Fri 6 Nov, New South Wales. 22 artists: Aarti Jadu, Bridget Small, Cousin and deep creep and 18 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

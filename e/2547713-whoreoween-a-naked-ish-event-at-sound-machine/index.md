@@ -1,6 +1,6 @@
 # WHOREOWEEN: A Naked-ish Event at Sound Machine
 
-WHOREOWEEN: A Naked-ish Event at Sound Machine on Sun 25 Oct, Toronto. House. Preview the line-up and save it on soundcheck.
+WHOREOWEEN: A Naked-ish Event at Sound Machine on Sun 25 Oct, Toronto. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Moonraker at The Redwood Bar And Grill
 
-Moonraker at The Redwood Bar And Grill on Fri 16 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
+Moonraker at The Redwood Bar And Grill on Fri 16 Oct, Los Angeles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

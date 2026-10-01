@@ -1,6 +1,6 @@
 # 04 OKT - IOSIO 10HRS SOLD OUT at Thuishaven
 
-04 OKT - IOSIO 10HRS SOLD OUT at Thuishaven on Sun 4 Oct, Amsterdam. 4 artists on the bill: Arman John, IOSIO, Nyra and Tell Moore. Preview the line-up and save it on soundcheck.
+04 OKT - IOSIO 10HRS SOLD OUT at Thuishaven on Sun 4 Oct, Amsterdam. 4 artists: Arman John, IOSIO, Nyra and Tell Moore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

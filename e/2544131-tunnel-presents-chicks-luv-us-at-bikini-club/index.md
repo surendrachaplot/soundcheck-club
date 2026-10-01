@@ -1,6 +1,6 @@
 # Tunnel presents Chicks Luv Us at Bikini Club
 
-Tunnel presents Chicks Luv Us at Bikini Club on Fri 9 Oct, Barcelona. 1 artist on the bill: Chicks Luv Us. Preview the line-up and save it on soundcheck.
+Tunnel presents Chicks Luv Us at Bikini Club on Fri 9 Oct, Barcelona. 1 artist: Chicks Luv Us. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

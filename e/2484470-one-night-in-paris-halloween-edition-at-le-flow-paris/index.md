@@ -1,6 +1,6 @@
 # One Night In Paris - Halloween Edition at Le Flow Paris
 
-One Night In Paris - Halloween Edition at Le Flow Paris on Fri 23 Oct, Paris. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+One Night In Paris - Halloween Edition at Le Flow Paris on Fri 23 Oct, Paris. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

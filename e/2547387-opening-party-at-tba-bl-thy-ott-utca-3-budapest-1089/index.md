@@ -1,6 +1,6 @@
 # Клуб Opening Party at TBA - Bláthy Ottó utca 3, Budapest 1089
 
-Клуб Opening Party at TBA - Bláthy Ottó utca 3, Budapest 1089 on Sat 17 Oct, Budapest. 4 artists on the bill: Andrija Jäger, Erro, Faktor-X and Tom Ato. Techno and House. Preview the line-up and save it on soundcheck.
+Клуб Opening Party at TBA - Bláthy Ottó utca 3, Budapest 1089 on Sat 17 Oct, Budapest. 4 artists: Andrija Jäger, Erro, Faktor-X and Tom Ato. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

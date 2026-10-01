@@ -1,6 +1,6 @@
 # Éclat Crew - music making meetup for FLINTA at Ausland
 
-Éclat Crew - music making meetup for FLINTA at Ausland on Tue 6 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Éclat Crew - music making meetup for FLINTA at Ausland on Tue 6 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

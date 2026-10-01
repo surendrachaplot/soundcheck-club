@@ -1,6 +1,6 @@
 # CLÜBSESSION VOL. 12: FULL MOON at Mehanata Bar
 
-CLÜBSESSION VOL. 12: FULL MOON at Mehanata Bar on Thu 1 Oct, New York City. 2 artists on the bill: DJ Sauci Soni and MAXWELL HöUSE. Drum & Bass and Experimental. Preview the line-up and save it on soundcheck.
+CLÜBSESSION VOL. 12: FULL MOON at Mehanata Bar on Thu 1 Oct, New York City. 2 artists: DJ Sauci Soni and MAXWELL HöUSE. Drum & Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

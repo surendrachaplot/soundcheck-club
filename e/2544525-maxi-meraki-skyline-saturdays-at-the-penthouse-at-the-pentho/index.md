@@ -1,6 +1,6 @@
 # Maxi Meraki - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai
 
-Maxi Meraki - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai on Sat 3 Oct, Dubai. 2 artists on the bill: Maxi Meraki and Mrgoodalf. Preview the line-up and save it on soundcheck.
+Maxi Meraki - SKYLINE SATURDAYS at THE PENTHOUSE at The Penthouse Dubai on Sat 3 Oct, Dubai. 2 artists: Maxi Meraki and Mrgoodalf. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

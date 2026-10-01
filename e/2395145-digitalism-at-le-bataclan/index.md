@@ -1,6 +1,6 @@
 # Digitalism at Le Bataclan
 
-Digitalism at Le Bataclan on Fri 6 Nov, Paris. 1 artist on the bill: Digitalism. Electro and Pop. Preview the line-up and save it on soundcheck.
+Digitalism at Le Bataclan on Fri 6 Nov, Paris. 1 artist: Digitalism. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

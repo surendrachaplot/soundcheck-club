@@ -1,6 +1,6 @@
 # BACK TO THE CLUB: Canito, David Kano, Sandro Bianchi at EL SÓTANO
 
-BACK TO THE CLUB: Canito, David Kano, Sandro Bianchi at EL SÓTANO on Sat 3 Oct, Madrid. Electronica. Preview the line-up and save it on soundcheck.
+BACK TO THE CLUB: Canito, David Kano, Sandro Bianchi at EL SÓTANO on Sat 3 Oct, Madrid. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

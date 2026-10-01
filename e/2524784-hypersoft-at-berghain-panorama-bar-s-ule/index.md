@@ -1,6 +1,6 @@
 # HYPERSOFT at Berghain | Panorama Bar | Säule
 
-HYPERSOFT at Berghain | Panorama Bar | Säule on Fri 9 Oct, Berlin. 7 artists on the bill: Adi (CO), Andrea Dama, DJ TEETH and Ekkel and 3 more. Preview the line-up and save it on soundcheck.
+HYPERSOFT at Berghain | Panorama Bar | Säule on Fri 9 Oct, Berlin. 7 artists: Adi (CO), Andrea Dama, DJ TEETH and Ekkel and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

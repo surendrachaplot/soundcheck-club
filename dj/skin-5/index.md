@@ -1,8 +1,8 @@
 # SKIN
 
-SKIN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Jazz Cafe, London on Sat, 3 Oct 2026.
+SKIN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Jazz Cafe, London on Sat, 3 Oct 2026.
 
-SKIN is a techno and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London, Madrid, New York City and Toronto. Often billed alongside Michael Magnan, Josh Steers and Kim Anh. Next up: The Jazz Cafe, London on Sat 3 Oct.
+SKIN is a techno and house artist based in United Kingdom, with 15 gigs on soundcheck across London, Madrid, New York City and Toronto. Often billed alongside Michael Magnan, Josh Steers and Kim Anh. Next up: The Jazz Cafe, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ SKIN is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- Bsmt 254, Toronto — Thu, 2 Jul 2026
-- Rumi, New York City — Sun, 5 Apr 2026
-- null, New York City — Fri, 20 Feb 2026
-- Superior Ingredients, New York City — Sat, 31 Jan 2026
-- null, New York City — Fri, 5 Dec 2025
-- null, New York City — Fri, 14 Nov 2025
-- null, New York City — Fri, 31 Oct 2025
-- TBA - New BROOKLYN Warehouse, New York City — Fri, 25 Oct 2024
+- Bsmt 254, Toronto · Thu, 2 Jul 2026
+- Rumi, New York City · Sun, 5 Apr 2026
+- null, New York City · Fri, 20 Feb 2026
+- Superior Ingredients, New York City · Sat, 31 Jan 2026
+- null, New York City · Fri, 5 Dec 2025
+- null, New York City · Fri, 14 Nov 2025
+- null, New York City · Fri, 31 Oct 2025
+- TBA - New BROOKLYN Warehouse, New York City · Fri, 25 Oct 2024
 
 ## Shares bills with
 

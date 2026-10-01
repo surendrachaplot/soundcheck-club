@@ -1,6 +1,6 @@
 # HOUSE HEADS AT SEA 2026 THE ESCAPE at TBA - Norwegian Ship Cruise Line 
 
-HOUSE HEADS AT SEA 2026 THE ESCAPE at TBA - Norwegian Ship Cruise Line  on Sun 13 Dec, Toronto. House and Disco. Preview the line-up and save it on soundcheck.
+HOUSE HEADS AT SEA 2026 THE ESCAPE at TBA - Norwegian Ship Cruise Line  on Sun 13 Dec, Toronto. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

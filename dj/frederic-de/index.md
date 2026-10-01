@@ -1,8 +1,8 @@
 # Frederic.
 
-Frederic. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Cité Fertile, Paris on Sun, 4 Oct 2026.
+Frederic. is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Cité Fertile, Paris on Sun, 4 Oct 2026.
 
-Frederic. is a techno and trance artist based in Germany, tracked on soundcheck, with 177 sets logged across Amsterdam, Austin, Barcelona and Belfast and 32 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: La Cité Fertile, Paris on Sun 4 Oct.
+Frederic. is a techno and trance artist based in Germany, with 177 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 32 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: La Cité Fertile, Paris on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Frederic. is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Sat, 19 Sept 2026
-- Westhafen, Leipzig — Sat, 19 Sept 2026
-- Wigwam, Dublin — Fri, 4 Sept 2026
-- Kømplex Lisbon, Lisbon — Sat, 29 Aug 2026
-- RSO.BERLIN, Berlin — Thu, 13 Aug 2026
-- Virage, Paris — Sat, 8 Aug 2026
-- Valley, Berlin — Sun, 2 Aug 2026
-- Club Phoenix - Gianpula Village, Malta — Sat, 11 Jul 2026
+- RSO.BERLIN, Berlin · Sat, 19 Sept 2026
+- Westhafen, Leipzig · Sat, 19 Sept 2026
+- Wigwam, Dublin · Fri, 4 Sept 2026
+- Kømplex Lisbon, Lisbon · Sat, 29 Aug 2026
+- RSO.BERLIN, Berlin · Thu, 13 Aug 2026
+- Virage, Paris · Sat, 8 Aug 2026
+- Valley, Berlin · Sun, 2 Aug 2026
+- Club Phoenix - Gianpula Village, Malta · Sat, 11 Jul 2026
 
 ## Shares bills with
 

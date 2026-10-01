@@ -1,8 +1,8 @@
 # Eighteenth Street Lounge (ESL)
 
-Eighteenth Street Lounge (ESL) is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Keepin' It Movin' - Eric Yaz, SPCL.K" on Sat, 3 Oct 2026.
+Eighteenth Street Lounge (ESL) is a music venue in Washington DC with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Keepin' It Movin' - Eric Yaz, SPCL.K" on Sat, 3 Oct 2026.
 
-Eighteenth Street Lounge (ESL) is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs, with line-ups including Eric Yaz, MAXIMILIANO (US), Room 12 and SPCL.K. Browse upcoming dates, start times and who's playing. 1230 9th Street Washington, DC.
+Eighteenth Street Lounge (ESL) is a music venue in Washington DC listed on soundcheck. 3 upcoming gigs, with line-ups including Eric Yaz, MAXIMILIANO (US), Room 12 and SPCL.K. See dates, start times and who's playing. 1230 9th Street Washington, DC.
 
 ## What's on
 

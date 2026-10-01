@@ -1,6 +1,6 @@
 # PlayStation Drum&Bass night at Toldi Klub
 
-PlayStation Drum&Bass night at Toldi Klub on Fri 2 Oct, Budapest. Drum & Bass. Preview the line-up and save it on soundcheck.
+PlayStation Drum&Bass night at Toldi Klub on Fri 2 Oct, Budapest. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

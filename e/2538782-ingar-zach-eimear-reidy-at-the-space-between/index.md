@@ -1,6 +1,6 @@
 # Ingar Zach / Eimear Reidy at The Space Between
 
-Ingar Zach / Eimear Reidy at The Space Between on Sat 3 Oct, Dublin. Experimental and Drone. Preview the line-up and save it on soundcheck.
+Ingar Zach / Eimear Reidy at The Space Between on Sat 3 Oct, Dublin. Experimental and Drone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rhizome in t.o.p.p at renae
 
-Rhizome in t.o.p.p at renae on Sat 24 Oct, Manchester. 2 artists on the bill: Coel Haines and Etienne Groh. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Rhizome in t.o.p.p at renae on Sat 24 Oct, Manchester. 2 artists: Coel Haines and Etienne Groh. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

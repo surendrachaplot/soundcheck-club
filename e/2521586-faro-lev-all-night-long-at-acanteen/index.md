@@ -1,6 +1,6 @@
 # Faro & Lev All Night Long at Acanteen
 
-Faro & Lev All Night Long at Acanteen on Sat 24 Oct, South East. 2 artists on the bill: Faro and LEV (UK). Preview the line-up and save it on soundcheck.
+Faro & Lev All Night Long at Acanteen on Sat 24 Oct, South East. 2 artists: Faro and LEV (UK). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

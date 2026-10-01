@@ -1,6 +1,6 @@
 # History of House Tilburg at De Heuvel Gallery
 
-History of House Tilburg at De Heuvel Gallery on Fri 2 Oct, Netherlands. 3 artists on the bill: Erick E, Housequake and ROOG. Preview the line-up and save it on soundcheck.
+History of House Tilburg at De Heuvel Gallery on Fri 2 Oct, Netherlands. 3 artists: Erick E, Housequake and ROOG. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

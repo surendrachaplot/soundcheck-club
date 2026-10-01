@@ -1,6 +1,6 @@
 # Ely Oaks & Friends - ADE at Chicago Social Club
 
-Ely Oaks & Friends - ADE at Chicago Social Club on Thu 22 Oct, Amsterdam. 1 artist on the bill: Ely Oaks. Trance. Preview the line-up and save it on soundcheck.
+Ely Oaks & Friends - ADE at Chicago Social Club on Thu 22 Oct, Amsterdam. 1 artist: Ely Oaks. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

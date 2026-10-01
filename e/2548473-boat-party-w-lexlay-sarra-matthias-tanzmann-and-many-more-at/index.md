@@ -1,6 +1,6 @@
 # BOAT PARTY w./ Lexlay, SARRA, Matthias Tanzmann and many more at TBA - EIVISSA
 
-BOAT PARTY w./ Lexlay, SARRA, Matthias Tanzmann and many more at TBA - EIVISSA on Thu 22 Oct, Amsterdam. 5 artists on the bill: ASK:ME, Dennis Reif, Lexlay and Matthias Tanzmann and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+BOAT PARTY w./ Lexlay, SARRA, Matthias Tanzmann and many more at TBA - EIVISSA on Thu 22 Oct, Amsterdam. 5 artists: ASK:ME, Dennis Reif, Lexlay and Matthias Tanzmann and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

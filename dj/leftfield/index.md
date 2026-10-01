@@ -1,8 +1,8 @@
 # Leftfield
 
-Leftfield is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+Leftfield is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-Leftfield is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Auckland, Belfast and Birmingham and 18 more. Often billed alongside Posthuman, Batu and Ben Sims. Next up: DRUMSHEDS, London on Sat 10 Oct.
+Leftfield is an electronica and house artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Auckland, Belfast and Birmingham and 18 more. Often billed alongside Posthuman, Batu and Ben Sims. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Leftfield is an electronica and house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- C.S. Lewis Square, London — Sat, 25 Jul 2026
-- Hare & Hounds, Birmingham — Fri, 19 Jun 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
-- The Fox and Firkin, London — Sat, 9 May 2026
-- VEGA, Copenhagen — Thu, 19 Mar 2026
-- Royal Botanic Gardens, Melbourne — Sun, 8 Mar 2026
-- Powerstation, Auckland — Sun, 1 Mar 2026
-- Centre Point, Dublin — Sat, 7 Feb 2026
+- C.S. Lewis Square, London · Sat, 25 Jul 2026
+- Hare & Hounds, Birmingham · Fri, 19 Jun 2026
+- TBA - Les Grandes Locos , Lyon · Wed, 13 May 2026
+- The Fox and Firkin, London · Sat, 9 May 2026
+- VEGA, Copenhagen · Thu, 19 Mar 2026
+- Royal Botanic Gardens, Melbourne · Sun, 8 Mar 2026
+- Powerstation, Auckland · Sun, 1 Mar 2026
+- Centre Point, Dublin · Sat, 7 Feb 2026
 
 ## Shares bills with
 

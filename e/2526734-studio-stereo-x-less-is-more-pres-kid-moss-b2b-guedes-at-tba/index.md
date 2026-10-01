@@ -1,6 +1,6 @@
 # Studio Stereo x Less Is More pres. Kid Moss b2b Guedes at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Less Is More pres. Kid Moss b2b Guedes at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 29 Oct, Barcelona. 3 artists on the bill: Kid Moss, MATEO BERGOGLIO and Narima Satori. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Less Is More pres. Kid Moss b2b Guedes at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 29 Oct, Barcelona. 3 artists: Kid Moss, MATEO BERGOGLIO and Narima Satori. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

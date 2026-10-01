@@ -1,6 +1,6 @@
 # Ginton at The Jazz Cafe
 
-Ginton at The Jazz Cafe on Thu 12 Nov, London. Afrobeat and Afro House. Preview the line-up and save it on soundcheck.
+Ginton at The Jazz Cafe on Thu 12 Nov, London. Afrobeat and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

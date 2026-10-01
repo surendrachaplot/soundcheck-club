@@ -1,8 +1,8 @@
 # Sinamin
 
-Sinamin is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Sinamin is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Sinamin is a house and techno artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Cologne, Dresden and Hamburg and 1 more. Often billed alongside Temple Tears, bīsu and Horst Haller. Next up: Renate, Berlin on Fri 16 Oct.
+Sinamin is a house and techno artist based in Germany, with 32 gigs on soundcheck across Berlin, Cologne, Dresden and Hamburg and 1 more. Often billed alongside Temple Tears, bīsu and Horst Haller. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sinamin is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Kater, Berlin — Sat, 18 Jul 2026
-- gART.n, Berlin — Sun, 7 Jun 2026
-- Zuckerzauber, Berlin — Fri, 8 May 2026
-- Kater, Berlin — Fri, 27 Mar 2026
-- Klunkerkranich, Berlin — Sat, 7 Mar 2026
-- Klunkerkranich, Berlin — Sat, 7 Mar 2026
-- ://about blank, Berlin — Fri, 27 Feb 2026
-- fi, Cologne — Sat, 14 Feb 2026
+- Kater, Berlin · Sat, 18 Jul 2026
+- gART.n, Berlin · Sun, 7 Jun 2026
+- Zuckerzauber, Berlin · Fri, 8 May 2026
+- Kater, Berlin · Fri, 27 Mar 2026
+- Klunkerkranich, Berlin · Sat, 7 Mar 2026
+- Klunkerkranich, Berlin · Sat, 7 Mar 2026
+- ://about blank, Berlin · Fri, 27 Feb 2026
+- fi, Cologne · Sat, 14 Feb 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Revlow
 
-Revlow is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Union Club, Vauxhall, London on Fri, 2 Oct 2026.
+Revlow is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Union Club, Vauxhall, London on Fri, 2 Oct 2026.
 
-Revlow is a house and disco artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across London. Often billed alongside Ardishko, LuSay and AJ Moreno. Next up: Union Club, Vauxhall, London on Fri 2 Oct.
+Revlow is a house and disco artist based in United Kingdom, with 39 gigs on soundcheck across London. Often billed alongside Ardishko, LuSay and AJ Moreno. Next up: Union Club, Vauxhall, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Revlow is a house and disco artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- TBA - Oru Space Sutton, 7 Throwley Way, Sutton, SM1 4AF, London — Sat, 22 Aug 2026
-- TBA - Oru Space Sutton, 7 throwley way, SM1 4AF, London — Sat, 25 Jul 2026
-- TBA - ORU SPACE ROOFTOP, 7 throwley way, Sutton, London — Sat, 13 Jun 2026
-- Mezzanine - Tooting, London — Sat, 4 Apr 2026
-- Mezzanine - Tooting, London — Sat, 7 Mar 2026
-- Mezzanine - Tooting, London — Sat, 7 Feb 2026
-- Brixton Radio, London — Fri, 23 Jan 2026
-- Mezzanine - Tooting, London — Wed, 31 Dec 2025
+- TBA - Oru Space Sutton, 7 Throwley Way, Sutton, SM1 4AF, London · Sat, 22 Aug 2026
+- TBA - Oru Space Sutton, 7 throwley way, SM1 4AF, London · Sat, 25 Jul 2026
+- TBA - ORU SPACE ROOFTOP, 7 throwley way, Sutton, London · Sat, 13 Jun 2026
+- Mezzanine - Tooting, London · Sat, 4 Apr 2026
+- Mezzanine - Tooting, London · Sat, 7 Mar 2026
+- Mezzanine - Tooting, London · Sat, 7 Feb 2026
+- Brixton Radio, London · Fri, 23 Jan 2026
+- Mezzanine - Tooting, London · Wed, 31 Dec 2025
 
 ## Shares bills with
 

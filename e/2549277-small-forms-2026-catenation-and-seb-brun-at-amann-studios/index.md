@@ -1,6 +1,6 @@
 # small forms 2026 - Catenation and SEB BRUN at Amann Studios
 
-small forms 2026 - Catenation and SEB BRUN at Amann Studios on Fri 9 Oct, Vienna. 1 artist on the bill: Catenation. Experimental. Preview the line-up and save it on soundcheck.
+small forms 2026 - Catenation and SEB BRUN at Amann Studios on Fri 9 Oct, Vienna. 1 artist: Catenation. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

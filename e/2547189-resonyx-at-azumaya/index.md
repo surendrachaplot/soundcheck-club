@@ -1,6 +1,6 @@
 # RESONYX at Azumaya
 
-RESONYX at Azumaya on Sun 11 Oct, Tokyo. 2 artists on the bill: 7e and BLUEMEW. Techno and Bass. Preview the line-up and save it on soundcheck.
+RESONYX at Azumaya on Sun 11 Oct, Tokyo. 2 artists: 7e and BLUEMEW. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

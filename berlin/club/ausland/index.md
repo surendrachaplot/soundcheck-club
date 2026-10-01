@@ -1,8 +1,8 @@
 # Ausland
 
-Ausland is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Éclat Crew - music making meetup for FLINTA" on Tue, 6 Oct 2026.
+Ausland is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Éclat Crew - music making meetup for FLINTA" on Tue, 6 Oct 2026.
 
-Ausland is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Lychener Strasse 60; Prenzlauer Berg; 10437 Berlin; Germany.
+Ausland is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Lychener Strasse 60; Prenzlauer Berg; 10437 Berlin; Germany.
 
 ## What's on
 

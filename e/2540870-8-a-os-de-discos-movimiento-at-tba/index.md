@@ -1,6 +1,6 @@
 # 8 años de Discos Movimiento at TBA
 
-8 años de Discos Movimiento at TBA on Fri 23 Oct, Mexico City. 7 artists on the bill: Answer Code Request, Bluecommand, Boyá and Dr. Long and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+8 años de Discos Movimiento at TBA on Fri 23 Oct, Mexico City. 7 artists: Answer Code Request, Bluecommand, Boyá and Dr. Long and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

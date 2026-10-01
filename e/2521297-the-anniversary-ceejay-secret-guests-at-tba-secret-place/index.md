@@ -1,6 +1,6 @@
 # THE ANNIVERSARY: CEEJAY & SECRET GUESTS at TBA - Secret Place
 
-THE ANNIVERSARY: CEEJAY & SECRET GUESTS at TBA - Secret Place on Fri 9 Oct, Paris. Techno and Industrial. Preview the line-up and save it on soundcheck.
+THE ANNIVERSARY: CEEJAY & SECRET GUESTS at TBA - Secret Place on Fri 9 Oct, Paris. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

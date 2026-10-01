@@ -1,6 +1,6 @@
 # De Binnenstad x TNT Records at Ijver
 
-De Binnenstad x TNT Records at Ijver on Thu 22 Oct, Amsterdam. 7 artists on the bill: Diffrent, Entasia, Freddi and OLIVIA LENSEN and 3 more. Trance and House. Preview the line-up and save it on soundcheck.
+De Binnenstad x TNT Records at Ijver on Thu 22 Oct, Amsterdam. 7 artists: Diffrent, Entasia, Freddi and OLIVIA LENSEN and 3 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

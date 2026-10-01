@@ -1,6 +1,6 @@
 # Future Yard presents Annie-Claude Deschênes at Future Yard
 
-Future Yard presents Annie-Claude Deschênes on Fri 23 Oct, Liverpool. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Future Yard presents Annie-Claude Deschênes on Fri 23 Oct, Liverpool. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

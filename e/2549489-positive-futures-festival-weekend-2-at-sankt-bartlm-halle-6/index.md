@@ -1,6 +1,6 @@
 # Positive Futures Festival Weekend 2 at Sankt Bartlmä, Halle 6, Innsbruck
 
-Positive Futures Festival Weekend 2 at Sankt Bartlmä, Halle 6, Innsbruck on Thu 22 Oct, Austria. 5 artists on the bill: aya, Circuit des Yeux, KAVARI and Lady Lykez and 1 more. Preview the line-up and save it on soundcheck.
+Positive Futures Festival Weekend 2 at Sankt Bartlmä, Halle 6, Innsbruck on Thu 22 Oct, Austria. 5 artists: aya, Circuit des Yeux, KAVARI and Lady Lykez and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

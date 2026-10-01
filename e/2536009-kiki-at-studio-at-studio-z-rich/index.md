@@ -1,6 +1,6 @@
 # Kiki at Studio at Studio Zürich
 
-Kiki at Studio at Studio Zürich on Sat 3 Oct, Zurich. House and Tech House. Preview the line-up and save it on soundcheck.
+Kiki at Studio at Studio Zürich on Sat 3 Oct, Zurich. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

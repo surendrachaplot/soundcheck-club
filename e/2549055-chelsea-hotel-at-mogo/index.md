@@ -1,6 +1,6 @@
 # Chelsea Hotel at MOGO
 
-Chelsea Hotel at MOGO on Wed 28 Oct, Milan. 1 artist on the bill: Andrea Ratti. Techno and House. Preview the line-up and save it on soundcheck.
+Chelsea Hotel at MOGO on Wed 28 Oct, Milan. 1 artist: Andrea Ratti. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

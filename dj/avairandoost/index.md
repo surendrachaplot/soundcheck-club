@@ -1,8 +1,8 @@
 # AVA Irandoost
 
-AVA Irandoost is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ritter Butzke, Berlin on Sat, 17 Oct 2026.
+AVA Irandoost is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 17 Oct 2026.
 
-AVA Irandoost is a techno and house artist based in Germany, tracked on soundcheck, with 35 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Dirty Doering, Niconé and Peter Schumann. Next up: Ritter Butzke, Berlin on Sat 17 Oct.
+AVA Irandoost is a techno and house artist based in Germany, with 35 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Hamburg and 2 more. Often billed alongside Dirty Doering, Niconé and Peter Schumann. Next up: Ritter Butzke, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ AVA Irandoost is a techno and house artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Ritter Butzke, Berlin — Sat, 15 Aug 2026
-- Kater, Berlin — Fri, 5 Jun 2026
-- Beate Uwe, Berlin — Sat, 11 Apr 2026
-- Hive Club, Zurich — Sun, 5 Apr 2026
-- Uebel & Gefährlich, Hamburg — Sat, 29 Nov 2025
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 20 Sept 2025
-- Xelor Kesselhaus, Berlin — Sat, 26 Jul 2025
-- Festsaal Kreuzberg, Berlin — Sun, 6 Jul 2025
+- Ritter Butzke, Berlin · Sat, 15 Aug 2026
+- Kater, Berlin · Fri, 5 Jun 2026
+- Beate Uwe, Berlin · Sat, 11 Apr 2026
+- Hive Club, Zurich · Sun, 5 Apr 2026
+- Uebel & Gefährlich, Hamburg · Sat, 29 Nov 2025
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 20 Sept 2025
+- Xelor Kesselhaus, Berlin · Sat, 26 Jul 2025
+- Festsaal Kreuzberg, Berlin · Sun, 6 Jul 2025
 
 ## Shares bills with
 

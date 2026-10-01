@@ -1,6 +1,6 @@
 # Halloweek: Dixon B2B Jimi Jules & WhoMadeWho (Hybrid Set) at Club Space Miami
 
-Halloweek: Dixon B2B Jimi Jules & WhoMadeWho (Hybrid Set) at Club Space Miami on Sun 1 Nov, Miami. 5 artists on the bill: Dixon, Jimi Jules, Max Stern and SIEGEL and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Halloweek: Dixon B2B Jimi Jules & WhoMadeWho (Hybrid Set) at Club Space Miami on Sun 1 Nov, Miami. 5 artists: Dixon, Jimi Jules, Max Stern and SIEGEL and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

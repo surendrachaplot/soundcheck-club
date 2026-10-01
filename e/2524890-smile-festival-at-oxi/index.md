@@ -1,6 +1,6 @@
 # smile. Festival at OXI
 
-smile. Festival at OXI on Fri 27 Nov, Berlin. 7 artists on the bill: Anaté, Anja Schneider, Aténo and Monokultur and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+smile. Festival at OXI on Fri 27 Nov, Berlin. 7 artists: Anaté, Anja Schneider, Aténo and Monokultur and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

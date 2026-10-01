@@ -1,6 +1,6 @@
 # OBSIDIA w / Kichta, Eskha, KRENON at Lokschuppen Berlin
 
-OBSIDIA w / Kichta, Eskha, KRENON at Lokschuppen Berlin on Sat 7 Aug, Berlin. 3 artists on the bill: Eskha, Kichta and Treibende Kraft. Preview the line-up and save it on soundcheck.
+OBSIDIA w / Kichta, Eskha, KRENON at Lokschuppen Berlin on Sat 7 Aug, Berlin. 3 artists: Eskha, Kichta and Treibende Kraft. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

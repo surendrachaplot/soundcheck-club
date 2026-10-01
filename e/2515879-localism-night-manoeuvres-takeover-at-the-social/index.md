@@ -1,6 +1,6 @@
 # LOCALISM: NIGHT manoeuvres Takeover at The Social
 
-LOCALISM: NIGHT manoeuvres Takeover at The Social on Fri 2 Oct, London. 2 artists on the bill: NIGHT manoeuvres and Yazmina. Techno and Bass. Preview the line-up and save it on soundcheck.
+LOCALISM: NIGHT manoeuvres Takeover at The Social on Fri 2 Oct, London. 2 artists: NIGHT manoeuvres and Yazmina. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

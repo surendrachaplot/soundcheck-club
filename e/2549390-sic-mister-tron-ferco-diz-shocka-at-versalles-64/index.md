@@ -1,6 +1,6 @@
 # [sic]: Mister Tron / FERCO / Diz Shocka at Versalles 64
 
-[sic]: Mister Tron / FERCO / Diz Shocka at Versalles 64 on Sat 3 Oct, Mexico City. 3 artists on the bill: Diz Shocka, FERCO and Lamati. House. Preview the line-up and save it on soundcheck.
+[sic]: Mister Tron / FERCO / Diz Shocka at Versalles 64 on Sat 3 Oct, Mexico City. 3 artists: Diz Shocka, FERCO and Lamati. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

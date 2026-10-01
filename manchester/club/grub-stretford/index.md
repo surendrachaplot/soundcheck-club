@@ -1,8 +1,8 @@
 # Grub Stretford
 
-Grub Stretford is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Amplify Trafford presents: Dark Fidelity HiFi" on Fri, 2 Oct 2026.
+Grub Stretford is a music venue in Manchester with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Amplify Trafford presents: Dark Fidelity HiFi" on Fri, 2 Oct 2026.
 
-Grub Stretford is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Dark Fidelity HiFi, Ellen Beth Abdi, Stereo Master and ZJ (UK). Browse upcoming dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
+Grub Stretford is a music venue in Manchester listed on soundcheck. 12 upcoming gigs, with line-ups including Dark Fidelity HiFi, Ellen Beth Abdi, Stereo Master and ZJ (UK). See dates, start times and who's playing. Multi-Storey Car park, King St, Stretford, Manchester M32 9AH.
 
 ## What's on
 

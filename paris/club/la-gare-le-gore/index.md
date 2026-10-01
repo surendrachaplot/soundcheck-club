@@ -1,8 +1,8 @@
 # La Gare / Le Gore
 
-La Gare / Le Gore is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "CLUB 909: Model Hz & GOTIS" on Sun, 27 Sept 2026.
+La Gare / Le Gore is a music venue in Paris with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CLUB 909: Model Hz & GOTIS" on Sun, 27 Sept 2026.
 
-La Gare / Le Gore is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including Acid Oslo, Alhena_, carrà and GOTIS and 2 more. Browse upcoming dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
+La Gare / Le Gore is a music venue in Paris listed on soundcheck. 16 upcoming gigs, with line-ups including Acid Oslo, Alhena_, carrà and GOTIS and 2 more. See dates, start times and who's playing. 1 Av. Corentin Cariou, 75019 Paris.
 
 ## What's on
 

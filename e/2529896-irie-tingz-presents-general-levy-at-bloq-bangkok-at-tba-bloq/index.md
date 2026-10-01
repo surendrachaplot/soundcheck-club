@@ -1,6 +1,6 @@
 # Irie Tingz PRESENTS: GENERAL LEVY AT BLOQ BANGKOK at TBA - BLOQ Bangkok
 
-Irie Tingz PRESENTS: GENERAL LEVY AT BLOQ BANGKOK at TBA - BLOQ Bangkok on Fri 2 Oct, Bangkok. Drum & Bass. Preview the line-up and save it on soundcheck.
+Irie Tingz PRESENTS: GENERAL LEVY AT BLOQ BANGKOK at TBA - BLOQ Bangkok on Fri 2 Oct, Bangkok. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

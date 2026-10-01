@@ -1,6 +1,6 @@
 # Channel Tres at Shrine Auditorium and Expo Hall
 
-Channel Tres at Shrine Auditorium and Expo Hall on Fri 23 Oct, Los Angeles. 2 artists on the bill: &friends and Channel Tres. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Channel Tres at Shrine Auditorium and Expo Hall on Fri 23 Oct, Los Angeles. 2 artists: &friends and Channel Tres. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

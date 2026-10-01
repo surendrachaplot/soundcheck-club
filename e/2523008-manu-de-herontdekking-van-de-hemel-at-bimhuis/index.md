@@ -1,6 +1,6 @@
 # Manu – De Herontdekking van de Hemel at Bimhuis
 
-Manu – De Herontdekking van de Hemel at Bimhuis on Sat 28 Nov, Amsterdam. Jazz. Preview the line-up and save it on soundcheck.
+Manu – De Herontdekking van de Hemel at Bimhuis on Sat 28 Nov, Amsterdam. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

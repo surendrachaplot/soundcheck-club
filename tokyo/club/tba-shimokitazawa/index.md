@@ -1,8 +1,8 @@
 # TBA - Shimokitazawa
 
-TBA - Shimokitazawa is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "#いいジュークの日 " on Thu, 19 Nov 2026.
+TBA - Shimokitazawa is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "#いいジュークの日 " on Thu, 19 Nov 2026.
 
-TBA - Shimokitazawa is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+TBA - Shimokitazawa is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Fri 23 Oct, Osaka. 3 artists on the bill: Benedek, Daisuke Kakimoto and SFV Acid. Techno and House. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Fri 23 Oct, Osaka. 3 artists: Benedek, Daisuke Kakimoto and SFV Acid. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

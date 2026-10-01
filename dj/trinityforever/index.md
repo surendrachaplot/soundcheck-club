@@ -1,8 +1,8 @@
 # Trinity Forever
 
-Trinity Forever is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Trinity Forever is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-Trinity Forever is a club and hardcore artist based in United States of America, tracked on soundcheck, with 22 sets logged across Philadelphia and Washington DC. Often billed alongside Franxx, Mrs. Qbert and Gabberbitch69. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
+Trinity Forever is a club and hardcore artist based in United States of America, with 22 gigs on soundcheck across Philadelphia and Washington DC. Often billed alongside Franxx, Mrs. Qbert and Gabberbitch69. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Trinity Forever is a club and hardcore artist based in United States of America,
 
 ## Recently played
 
-- Sinners and Saints, Washington DC — Sat, 12 Sept 2026
-- TRANSMISSION DC, Washington DC — Fri, 10 Jul 2026
-- TRANSMISSION DC, Washington DC — Sat, 25 Apr 2026
-- Sinners and Saints, Washington DC — Thu, 23 Apr 2026
-- TRANSMISSION DC, Washington DC — Sat, 28 Feb 2026
-- Sinners and Saints, Washington DC — Thu, 26 Feb 2026
-- Sinners and Saints, Washington DC — Thu, 22 Jan 2026
-- 618 DC, Washington DC — Fri, 26 Sept 2025
+- Sinners and Saints, Washington DC · Sat, 12 Sept 2026
+- TRANSMISSION DC, Washington DC · Fri, 10 Jul 2026
+- TRANSMISSION DC, Washington DC · Sat, 25 Apr 2026
+- Sinners and Saints, Washington DC · Thu, 23 Apr 2026
+- TRANSMISSION DC, Washington DC · Sat, 28 Feb 2026
+- Sinners and Saints, Washington DC · Thu, 26 Feb 2026
+- Sinners and Saints, Washington DC · Thu, 22 Jan 2026
+- 618 DC, Washington DC · Fri, 26 Sept 2025
 
 ## Shares bills with
 

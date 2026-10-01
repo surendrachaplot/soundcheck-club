@@ -1,6 +1,6 @@
 # Kommune spooky night at Hangar48 Club
 
-Kommune spooky night at Hangar48 Club on Sat 31 Oct, Madrid. Preview the line-up and save it on soundcheck.
+Kommune spooky night at Hangar48 Club on Sat 31 Oct, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

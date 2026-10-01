@@ -1,8 +1,8 @@
 # Kid Drama
 
-Kid Drama is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
+Kid Drama is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Volks, Brighton on Fri, 2 Oct 2026.
 
-Kid Drama is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Brighton, London and Paris. Often billed alongside Need For Mirrors, Doc Scott and Loxy. Next up: Volks, Brighton on Fri 2 Oct.
+Kid Drama is a drum & bass and jungle artist based in United Kingdom, with 17 gigs on soundcheck across Brighton, London and Paris. Often billed alongside Need For Mirrors, Doc Scott and Loxy. Next up: Volks, Brighton on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kid Drama is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- The Glove That Fits, London — Sat, 22 Aug 2026
-- Night Tales, London — Fri, 30 Jan 2026
-- The Glove That Fits, London — Sat, 27 Sept 2025
-- Phonox, London — Sat, 26 Jul 2025
-- Gaffe, London — Sun, 4 May 2025
-- The Glove That Fits, London — Sat, 24 Aug 2024
-- Kristina Records, London — Fri, 7 Jun 2024
-- Glazart, Paris — Sat, 4 May 2024
+- The Glove That Fits, London · Sat, 22 Aug 2026
+- Night Tales, London · Fri, 30 Jan 2026
+- The Glove That Fits, London · Sat, 27 Sept 2025
+- Phonox, London · Sat, 26 Jul 2025
+- Gaffe, London · Sun, 4 May 2025
+- The Glove That Fits, London · Sat, 24 Aug 2024
+- Kristina Records, London · Fri, 7 Jun 2024
+- Glazart, Paris · Sat, 4 May 2024
 
 ## Shares bills with
 

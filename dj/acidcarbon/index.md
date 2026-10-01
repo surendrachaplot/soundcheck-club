@@ -1,8 +1,8 @@
 # Acid Carbon
 
-Acid Carbon is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Quarters, Brighton on Fri, 11 Dec 2026.
+Acid Carbon is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Quarters, Brighton on Fri, 11 Dec 2026.
 
-Acid Carbon is a techno and acid artist based in Spain, tracked on soundcheck, with 27 sets logged across Brighton and London. Often billed alongside Jack Jeffrey, DSD uk and Ross Harper. Next up: Quarters, Brighton on Fri 11 Dec.
+Acid Carbon is a techno and acid artist based in Spain, with 27 gigs on soundcheck across Brighton and London. Often billed alongside Jack Jeffrey, DSD uk and Ross Harper. Next up: Quarters, Brighton on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Acid Carbon is a techno and acid artist based in Spain, tracked on soundcheck, w
 
 ## Recently played
 
-- Volks, Brighton — Fri, 18 Sept 2026
-- Archives, London — Sat, 4 Jul 2026
-- Tide Nightclub, Brighton — Fri, 26 Jun 2026
-- Concorde 2, Brighton — Fri, 15 May 2026
-- TBA, London — Fri, 6 Feb 2026
-- Volks, Brighton — Fri, 16 Jan 2026
-- Distillery N17, London — Sat, 10 Jan 2026
-- WaterBear Venue, Brighton — Fri, 21 Nov 2025
+- Volks, Brighton · Fri, 18 Sept 2026
+- Archives, London · Sat, 4 Jul 2026
+- Tide Nightclub, Brighton · Fri, 26 Jun 2026
+- Concorde 2, Brighton · Fri, 15 May 2026
+- TBA, London · Fri, 6 Feb 2026
+- Volks, Brighton · Fri, 16 Jan 2026
+- Distillery N17, London · Sat, 10 Jan 2026
+- WaterBear Venue, Brighton · Fri, 21 Nov 2025
 
 ## Shares bills with
 

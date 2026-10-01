@@ -1,8 +1,8 @@
 # Compufunk Records
 
-Compufunk Records is a music venue in Osaka with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "BAFFARIN" on Thu, 1 Oct 2026.
+Compufunk Records is a music venue in Osaka with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BAFFARIN" on Thu, 1 Oct 2026.
 
-Compufunk Records is a music venue in Osaka listed on soundcheck. 9 upcoming gigs, with line-ups including Biz (AU), ddwy, DJ Compufunk and Donna Leake and 2 more. Browse upcoming dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
+Compufunk Records is a music venue in Osaka listed on soundcheck. 9 upcoming gigs, with line-ups including Biz (AU), ddwy, DJ Compufunk and Donna Leake and 2 more. See dates, start times and who's playing. 1-29 Kitahama Higashi, Chuou-ku, Osaka, 540-0031 Japan.
 
 ## What's on
 

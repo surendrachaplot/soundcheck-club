@@ -1,6 +1,6 @@
 # NFC 4.0 at Spanners
 
-NFC 4.0 at Spanners on Fri 30 Oct, London. 3 artists on the bill: DJ ojo, k means and zi!. Dub and Experimental. Preview the line-up and save it on soundcheck.
+NFC 4.0 at Spanners on Fri 30 Oct, London. 3 artists: DJ ojo, k means and zi!. Dub and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

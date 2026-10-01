@@ -1,6 +1,6 @@
 # EXIT X KAOS at EXIT Glasgow
 
-EXIT X KAOS at EXIT Glasgow on Sat 3 Oct, Glasgow. 5 artists on the bill: Autumns, Choronzon, Cindytalk and Proteus and 1 more. Experimental and Industrial. Preview the line-up and save it on soundcheck.
+EXIT X KAOS at EXIT Glasgow on Sat 3 Oct, Glasgow. 5 artists: Autumns, Choronzon, Cindytalk and Proteus and 1 more. Experimental and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

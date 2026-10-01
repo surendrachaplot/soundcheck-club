@@ -1,6 +1,6 @@
 # MoS 35: Andy C - 3-Hour Extended Set at Ministry Of Sound
 
-MoS 35: Andy C - 3-Hour Extended Set at Ministry Of Sound on Fri 2 Oct, London. 3 artists on the bill: Andy C, Charlie Tee and Joe NBO. Drum & Bass. Preview the line-up and save it on soundcheck.
+MoS 35: Andy C - 3-Hour Extended Set at Ministry Of Sound on Fri 2 Oct, London. 3 artists: Andy C, Charlie Tee and Joe NBO. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

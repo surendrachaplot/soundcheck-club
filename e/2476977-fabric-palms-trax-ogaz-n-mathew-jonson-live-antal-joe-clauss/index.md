@@ -1,6 +1,6 @@
 # fabric: Palms Trax, Ogazón, Mathew Jonson (Live), Antal, Joe Claussell, DJ Subaru + more at fabric
 
-fabric: Palms Trax, Ogazón, Mathew Jonson (Live), Antal, Joe Claussell, DJ Subaru + more on Sat 28 Nov, London. 7 artists on the bill: Antal, DJ Subaru, floor length skirts and Joe Claussell and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+fabric: Palms Trax, Ogazón, Mathew Jonson (Live), Antal, Joe Claussell, DJ Subaru + more on Sat 28 Nov, London. 7 artists: Antal, DJ Subaru, floor length skirts and Joe Claussell and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MAZE X - TENGU TAKEOVER at Yamamori Tengu
 
-MAZE X - TENGU TAKEOVER at Yamamori Tengu on Thu 1 Oct, Dublin. Techno and House. Preview the line-up and save it on soundcheck.
+MAZE X - TENGU TAKEOVER at Yamamori Tengu on Thu 1 Oct, Dublin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # YOSHIMASA
 
-YOSHIMASA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BRAND SHIBUYA, Tokyo on Sun, 4 Oct 2026.
+YOSHIMASA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BRAND SHIBUYA, Tokyo on Sun, 4 Oct 2026.
 
-YOSHIMASA is a techno and house artist based in Japan, tracked on soundcheck, with 93 sets logged across Tokyo. Often billed alongside DJ 34, BEPPU and Takami. Next up: BRAND SHIBUYA, Tokyo on Sun 4 Oct.
+YOSHIMASA is a techno and house artist based in Japan, with 93 gigs on soundcheck across Tokyo. Often billed alongside DJ 34, BEPPU and Takami. Next up: BRAND SHIBUYA, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ YOSHIMASA is a techno and house artist based in Japan, tracked on soundcheck, wi
 
 ## Recently played
 
-- BRAND SHIBUYA, Tokyo — Sun, 27 Sept 2026
-- R Lounge, Tokyo — Sat, 26 Sept 2026
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Mon, 21 Sept 2026
-- BRAND SHIBUYA, Tokyo — Sun, 20 Sept 2026
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sun, 13 Sept 2026
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sat, 22 Aug 2026
-- Z Maruyama, Tokyo — Mon, 10 Aug 2026
-- Yodo Groove (Yodobashi Ikebukuro), Tokyo — Sun, 2 Aug 2026
+- BRAND SHIBUYA, Tokyo · Sun, 27 Sept 2026
+- R Lounge, Tokyo · Sat, 26 Sept 2026
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo · Mon, 21 Sept 2026
+- BRAND SHIBUYA, Tokyo · Sun, 20 Sept 2026
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sun, 13 Sept 2026
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sat, 22 Aug 2026
+- Z Maruyama, Tokyo · Mon, 10 Aug 2026
+- Yodo Groove (Yodobashi Ikebukuro), Tokyo · Sun, 2 Aug 2026
 
 ## Shares bills with
 

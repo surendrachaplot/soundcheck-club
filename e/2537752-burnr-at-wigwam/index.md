@@ -1,6 +1,6 @@
 # BURNR at Wigwam
 
-BURNR at Wigwam on Sat 17 Oct, Dublin. 1 artist on the bill: Max Heere. Trance and House. Preview the line-up and save it on soundcheck.
+BURNR at Wigwam on Sat 17 Oct, Dublin. 1 artist: Max Heere. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

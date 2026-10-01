@@ -1,8 +1,8 @@
 # Wayne Holland
 
-Wayne Holland is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Signal, New York City on Fri, 30 Oct 2026.
+Wayne Holland is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Signal, New York City on Fri, 30 Oct 2026.
 
-Wayne Holland is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London, Manchester and New York City. Often billed alongside Jack Mulqueen, 98dots and Alvaro Medina. Next up: Signal, New York City on Fri 30 Oct.
+Wayne Holland is a house and techno artist based in United Kingdom, with 6 gigs on soundcheck across London, Manchester and New York City. Often billed alongside Jack Mulqueen, 98dots and Alvaro Medina. Next up: Signal, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Wayne Holland is a house and techno artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Outer Heaven, New York City — Sat, 7 Mar 2026
-- Signal, New York City — Thu, 5 Mar 2026
-- Outer Heaven, New York City — Sat, 13 Sept 2025
-- TBA - location emailed to ticket holders, London — Sat, 23 Nov 2024
-- Eastern Bloc Records, Manchester — Sat, 18 Feb 2023
+- Outer Heaven, New York City · Sat, 7 Mar 2026
+- Signal, New York City · Thu, 5 Mar 2026
+- Outer Heaven, New York City · Sat, 13 Sept 2025
+- TBA - location emailed to ticket holders, London · Sat, 23 Nov 2024
+- Eastern Bloc Records, Manchester · Sat, 18 Feb 2023
 
 ## Shares bills with
 

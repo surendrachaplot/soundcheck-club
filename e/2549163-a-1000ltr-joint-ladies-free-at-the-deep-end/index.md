@@ -1,6 +1,6 @@
 # A 1000LTR JOINT - Ladies Free at The Deep End
 
-A 1000LTR JOINT - Ladies Free at The Deep End on Fri 16 Oct, New York City. 5 artists on the bill: AG, HOPESTARXX, KOOB and SUCIA! and 1 more. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+A 1000LTR JOINT - Ladies Free at The Deep End on Fri 16 Oct, New York City. 5 artists: AG, HOPESTARXX, KOOB and SUCIA! and 1 more. Club and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # verdigris
 
-verdigris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Club Rawhide, New York City on Sat, 3 Oct 2026.
+verdigris is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Rawhide, New York City on Sat, 3 Oct 2026.
 
-verdigris is a techno and house artist tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Battygyal, Oscar Nñ and 1OO1O. Next up: Club Rawhide, New York City on Sat 3 Oct.
+verdigris is a techno and house artist, with 11 gigs on soundcheck across New York City. Often billed alongside Battygyal, Oscar Nñ and 1OO1O. Next up: Club Rawhide, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ verdigris is a techno and house artist tracked on soundcheck, with 11 sets logge
 
 ## Recently played
 
-- Club Rawhide, New York City — Sat, 22 Aug 2026
-- Nowadays, New York City — Sat, 2 May 2026
-- Bossa Nova Civic Club, New York City — Thu, 30 Apr 2026
-- Elsewhere, New York City — Fri, 22 Aug 2025
-- The Cock, New York City — Fri, 30 May 2025
-- Mood Ring, New York City — Thu, 8 May 2025
-- Bossa Nova Civic Club, New York City — Sat, 15 Mar 2025
-- Bossa Nova Civic Club, New York City — Mon, 25 Nov 2024
+- Club Rawhide, New York City · Sat, 22 Aug 2026
+- Nowadays, New York City · Sat, 2 May 2026
+- Bossa Nova Civic Club, New York City · Thu, 30 Apr 2026
+- Elsewhere, New York City · Fri, 22 Aug 2025
+- The Cock, New York City · Fri, 30 May 2025
+- Mood Ring, New York City · Thu, 8 May 2025
+- Bossa Nova Civic Club, New York City · Sat, 15 Mar 2025
+- Bossa Nova Civic Club, New York City · Mon, 25 Nov 2024
 
 ## Shares bills with
 

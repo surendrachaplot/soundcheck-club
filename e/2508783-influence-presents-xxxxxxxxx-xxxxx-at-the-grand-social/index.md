@@ -1,6 +1,6 @@
 # INFLUENCE PRESENTS: XXXXXXXXX & XXXXX at The Grand Social
 
-INFLUENCE PRESENTS: XXXXXXXXX & XXXXX at The Grand Social on Sat 21 Nov, Dublin. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+INFLUENCE PRESENTS: XXXXXXXXX & XXXXX at The Grand Social on Sat 21 Nov, Dublin. Hardcore and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

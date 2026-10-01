@@ -1,6 +1,6 @@
 # STUNTSZ: HOME SHOPPING NETWORK at Good Room
 
-STUNTSZ: HOME SHOPPING NETWORK at Good Room on Sat 10 Oct, New York City. 5 artists on the bill: Drew Baker, Memphy, Mike Servito and Prince Rose and 1 more. Preview the line-up and save it on soundcheck.
+STUNTSZ: HOME SHOPPING NETWORK at Good Room on Sat 10 Oct, New York City. 5 artists: Drew Baker, Memphy, Mike Servito and Prince Rose and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

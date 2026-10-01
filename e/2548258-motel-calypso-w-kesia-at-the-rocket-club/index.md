@@ -1,6 +1,6 @@
 # MOTEL CALYPSO w / KESIA at The Rocket Club
 
-MOTEL CALYPSO w / KESIA at The Rocket Club on Thu 1 Oct, Milan. 2 artists on the bill: Kesia (BR) and Massi Rocket. House and Tech House. Preview the line-up and save it on soundcheck.
+MOTEL CALYPSO w / KESIA at The Rocket Club on Thu 1 Oct, Milan. 2 artists: Kesia (BR) and Massi Rocket. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

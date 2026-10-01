@@ -1,6 +1,6 @@
 # Walkband Live at Frankhan Selectist
 
-Walkband Live at Frankhan Selectist on Sat 24 Oct, Istanbul. Preview the line-up and save it on soundcheck.
+Walkband Live at Frankhan Selectist on Sat 24 Oct, Istanbul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

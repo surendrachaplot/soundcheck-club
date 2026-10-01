@@ -1,8 +1,8 @@
 # The Lady Machine
 
-The Lady Machine is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ciało, Wroclaw on Fri, 2 Oct 2026.
+The Lady Machine is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ciało, Wroclaw on Fri, 2 Oct 2026.
 
-The Lady Machine is a techno and house artist based in Brazil, tracked on soundcheck, with 191 sets logged across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: Ciało, Wroclaw on Fri 2 Oct.
+The Lady Machine is a techno and house artist based in Brazil, with 191 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 44 more. Often billed alongside Freddy K, Blasha & Allatt and Rakans. Next up: Ciało, Wroclaw on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ The Lady Machine is a techno and house artist based in Brazil, tracked on soundc
 
 ## Recently played
 
-- RADION, Amsterdam — Sat, 26 Sept 2026
-- RADION, Amsterdam — Sat, 26 Sept 2026
-- Laboral Ciudad de la Cultura, North — Fri, 25 Sept 2026
-- Bassiani, Tbilisi — Fri, 11 Sept 2026
-- DETROIT CLUB, Barcelona — Fri, 4 Sept 2026
-- Maaya, Berlin — Sun, 23 Aug 2026
-- TBA - Klingemühle, Berlin — Fri, 14 Aug 2026
-- Fridas Pier, Stuttgart — Fri, 14 Aug 2026
+- RADION, Amsterdam · Sat, 26 Sept 2026
+- RADION, Amsterdam · Sat, 26 Sept 2026
+- Laboral Ciudad de la Cultura, North · Fri, 25 Sept 2026
+- Bassiani, Tbilisi · Fri, 11 Sept 2026
+- DETROIT CLUB, Barcelona · Fri, 4 Sept 2026
+- Maaya, Berlin · Sun, 23 Aug 2026
+- TBA - Klingemühle, Berlin · Fri, 14 Aug 2026
+- Fridas Pier, Stuttgart · Fri, 14 Aug 2026
 
 ## Shares bills with
 

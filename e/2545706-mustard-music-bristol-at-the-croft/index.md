@@ -1,6 +1,6 @@
 # Mustard Music: Bristol at The Croft
 
-Mustard Music: Bristol at The Croft on Sat 24 Oct, Bristol. 2 artists on the bill: Kidsonic and Promo ZO. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Mustard Music: Bristol at The Croft on Sat 24 Oct, Bristol. 2 artists: Kidsonic and Promo ZO. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

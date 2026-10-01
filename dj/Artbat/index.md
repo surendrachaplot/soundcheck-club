@@ -1,8 +1,8 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Artbat is a Techno and Progressive House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Artbat is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Artbat is a techno and progressive house artist based in Ukraine, with 127 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Artbat is a techno and progressive house artist based in Ukraine, tracked on sou
 
 ## Recently played
 
-- Château de Fontainebleau, Paris — Sat, 12 Sept 2026
-- Amnesia Ibiza, Ibiza — Wed, 9 Sept 2026
-- Forbindelsehallen, Stockholm — Fri, 4 Sept 2026
-- [UNVRS], Ibiza — Tue, 1 Sept 2026
-- Jardins de Joan Brossa, Barcelona — Sun, 23 Aug 2026
-- Amnesia Ibiza, Ibiza — Wed, 19 Aug 2026
-- Café del Mar Malta, Malta — Sat, 8 Aug 2026
-- Downsview Park, Toronto — Fri, 31 Jul 2026
+- Château de Fontainebleau, Paris · Sat, 12 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 9 Sept 2026
+- Forbindelsehallen, Stockholm · Fri, 4 Sept 2026
+- [UNVRS], Ibiza · Tue, 1 Sept 2026
+- Jardins de Joan Brossa, Barcelona · Sun, 23 Aug 2026
+- Amnesia Ibiza, Ibiza · Wed, 19 Aug 2026
+- Café del Mar Malta, Malta · Sat, 8 Aug 2026
+- Downsview Park, Toronto · Fri, 31 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Tony Mortimer's 90's Christmas at The Fox and Firkin
 
-Tony Mortimer's 90's Christmas at The Fox and Firkin on Sat 12 Dec, London. Pop. Preview the line-up and save it on soundcheck.
+Tony Mortimer's 90's Christmas at The Fox and Firkin on Sat 12 Dec, London. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bass Face // DNB, 140, BASS, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS at Arts Club
 
-Bass Face // DNB, 140, BASS, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS at Arts Club on Fri 16 Oct, Liverpool. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Bass Face // DNB, 140, BASS, GRIME // 360° BOILER ROOM *VERY SPECIAL GUESTS*! LAST FREE TICKETS at Arts Club on Fri 16 Oct, Liverpool. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

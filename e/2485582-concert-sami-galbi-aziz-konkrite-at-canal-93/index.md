@@ -1,6 +1,6 @@
 # Concert Sami Galbi + Aziz Konkrite at Canal 93
 
-Concert Sami Galbi + Aziz Konkrite at Canal 93 on Fri 30 Oct, Paris. House and Electro. Preview the line-up and save it on soundcheck.
+Concert Sami Galbi + Aziz Konkrite at Canal 93 on Fri 30 Oct, Paris. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

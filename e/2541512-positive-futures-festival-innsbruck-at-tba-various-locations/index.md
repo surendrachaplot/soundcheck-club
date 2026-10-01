@@ -1,6 +1,6 @@
 # Positive Futures Festival Innsbruck at TBA - Various Locations in Innsbruck
 
-Positive Futures Festival Innsbruck at TBA - Various Locations in Innsbruck on Thu 15 Oct, Austria. 14 artists on the bill: Andriana-Yaroslava Saienko, Authentically Plastic, aya and Circuit des Yeux and 10 more. Preview the line-up and save it on soundcheck.
+Positive Futures Festival Innsbruck at TBA - Various Locations in Innsbruck on Thu 15 Oct, Austria. 14 artists: Andriana-Yaroslava Saienko, Authentically Plastic, aya and Circuit des Yeux and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

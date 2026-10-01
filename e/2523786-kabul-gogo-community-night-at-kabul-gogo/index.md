@@ -1,6 +1,6 @@
 # KABUL à GoGo ✧ Community Night ✦ at KABUL à GoGo
 
-KABUL à GoGo ✧ Community Night ✦ on Sat 17 Oct, Utrecht. Preview the line-up and save it on soundcheck.
+KABUL à GoGo ✧ Community Night ✦ on Sat 17 Oct, Utrecht. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

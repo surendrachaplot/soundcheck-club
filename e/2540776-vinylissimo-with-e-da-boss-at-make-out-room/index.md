@@ -1,6 +1,6 @@
 # VINYLISSIMO with E da Boss at Make-Out Room
 
-VINYLISSIMO with E da Boss at Make-Out Room on Fri 9 Oct, San Francisco/Oakland. 1 artist on the bill: Nino Msk. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+VINYLISSIMO with E da Boss at Make-Out Room on Fri 9 Oct, San Francisco/Oakland. 1 artist: Nino Msk. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

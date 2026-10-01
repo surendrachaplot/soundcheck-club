@@ -1,6 +1,6 @@
 # Ian Pooley • Merel Helderman at Radio Radio
 
-Ian Pooley • Merel Helderman at Radio Radio on Fri 2 Oct, Amsterdam. 2 artists on the bill: Ian Pooley and Merel Helderman. House. Preview the line-up and save it on soundcheck.
+Ian Pooley • Merel Helderman at Radio Radio on Fri 2 Oct, Amsterdam. 2 artists: Ian Pooley and Merel Helderman. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

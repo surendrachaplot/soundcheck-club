@@ -1,6 +1,6 @@
 # Club Vision 15 YEAR CELEBRATION at Spazio Varco
 
-Club Vision 15 YEAR CELEBRATION at Spazio Varco on Sat 14 Nov, North. 4 artists on the bill: Brasi, Dizzy, Jane Fitz and SIMI.. Preview the line-up and save it on soundcheck.
+Club Vision 15 YEAR CELEBRATION at Spazio Varco on Sat 14 Nov, North. 4 artists: Brasi, Dizzy, Jane Fitz and SIMI.. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

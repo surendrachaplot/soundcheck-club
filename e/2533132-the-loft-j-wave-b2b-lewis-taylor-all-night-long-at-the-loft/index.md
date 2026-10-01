@@ -1,6 +1,6 @@
 # The Loft: J Wave b2b Lewis Taylor (All Night Long) at The Loft
 
-The Loft: J Wave b2b Lewis Taylor (All Night Long) on Thu 12 Nov, Manchester. 2 artists on the bill: jWave and Lewis Taylor. Preview the line-up and save it on soundcheck.
+The Loft: J Wave b2b Lewis Taylor (All Night Long) on Thu 12 Nov, Manchester. 2 artists: jWave and Lewis Taylor. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

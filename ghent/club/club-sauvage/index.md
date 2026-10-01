@@ -1,8 +1,8 @@
 # Club Sauvage
 
-Club Sauvage is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SAUVAGE invites..." on Fri, 2 Oct 2026.
+Club Sauvage is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SAUVAGE invites..." on Fri, 2 Oct 2026.
 
-Club Sauvage is a music venue in Ghent listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. Schuurkenstraat 2, 9000 Gent.
+Club Sauvage is a music venue in Ghent listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Schuurkenstraat 2, 9000 Gent.
 
 ## What's on
 

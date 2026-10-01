@@ -1,8 +1,8 @@
 # Sable Miami
 
-Sable Miami is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Robag Wruhme at Sable" on Sat, 3 Oct 2026.
+Sable Miami is a music venue in Miami with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Robag Wruhme at Sable" on Sat, 3 Oct 2026.
 
-Sable Miami is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including David Morales and Robag Wruhme. Browse upcoming dates, start times and who's playing. 2219 NW 2nd Ave, Miami, FL 33127.
+Sable Miami is a music venue in Miami listed on soundcheck. 2 upcoming gigs, with line-ups including David Morales and Robag Wruhme. See dates, start times and who's playing. 2219 NW 2nd Ave, Miami, FL 33127.
 
 ## What's on
 

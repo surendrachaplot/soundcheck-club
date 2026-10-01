@@ -1,6 +1,6 @@
 # 2charm at Headrow House
 
-2charm at Headrow House on Tue 13 Oct, Leeds. Pop. Preview the line-up and save it on soundcheck.
+2charm at Headrow House on Tue 13 Oct, Leeds. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

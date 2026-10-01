@@ -1,6 +1,6 @@
 # AWSM. SKYSCRAPER EDITION at Altia Skybar - DC Tower
 
-AWSM. SKYSCRAPER EDITION at Altia Skybar - DC Tower on Sat 28 Nov, Vienna. House. Preview the line-up and save it on soundcheck.
+AWSM. SKYSCRAPER EDITION at Altia Skybar - DC Tower on Sat 28 Nov, Vienna. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

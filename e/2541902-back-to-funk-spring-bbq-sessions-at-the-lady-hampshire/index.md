@@ -1,6 +1,6 @@
 # Back To Funk Spring BBQ Sessions at The Lady Hampshire
 
-Back To Funk Spring BBQ Sessions at The Lady Hampshire on Sat 21 Nov, Sydney. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Back To Funk Spring BBQ Sessions at The Lady Hampshire on Sat 21 Nov, Sydney. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Aï Smash
 
-Aï Smash is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
+Aï Smash is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Rotonde Stalingrad, Paris on Sat, 3 Oct 2026.
 
-Aï Smash is a house and electro artist based in France, tracked on soundcheck, with 5 sets logged across Paris. Often billed alongside Owlshake, Donna Gibson and Romain Fx. Next up: La Rotonde Stalingrad, Paris on Sat 3 Oct.
+Aï Smash is a house and electro artist based in France, with 5 gigs on soundcheck across Paris. Often billed alongside Owlshake, Donna Gibson and Romain Fx. Next up: La Rotonde Stalingrad, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,10 +12,10 @@ Aï Smash is a house and electro artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- La Java, Paris — Sat, 22 Nov 2025
-- Fréquence Paris, Paris — Sat, 29 Mar 2025
-- Le Mazette, Paris — Sat, 27 Jul 2024
-- La Java, Paris — Sat, 25 May 2024
+- La Java, Paris · Sat, 22 Nov 2025
+- Fréquence Paris, Paris · Sat, 29 Mar 2025
+- Le Mazette, Paris · Sat, 27 Jul 2024
+- La Java, Paris · Sat, 25 May 2024
 
 ## Shares bills with
 

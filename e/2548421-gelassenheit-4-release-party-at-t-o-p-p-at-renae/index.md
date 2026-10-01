@@ -1,6 +1,6 @@
 # Gelassenheit 4 - Release Party At T.O.P.P at renae
 
-Gelassenheit 4 - Release Party At T.O.P.P at renae on Fri 16 Oct, Manchester. 3 artists on the bill: KD22LR, Medlock and Tamus. Techno and Experimental. Preview the line-up and save it on soundcheck.
+Gelassenheit 4 - Release Party At T.O.P.P at renae on Fri 16 Oct, Manchester. 3 artists: KD22LR, Medlock and Tamus. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

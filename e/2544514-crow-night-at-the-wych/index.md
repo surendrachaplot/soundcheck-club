@@ -1,6 +1,6 @@
 # Crow Night at The Wych
 
-Crow Night at The Wych on Sat 10 Oct, Toronto. Techno. Preview the line-up and save it on soundcheck.
+Crow Night at The Wych on Sat 10 Oct, Toronto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

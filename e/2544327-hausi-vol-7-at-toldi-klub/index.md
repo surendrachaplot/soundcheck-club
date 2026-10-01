@@ -1,6 +1,6 @@
 # Hausi Vol. 7 at Toldi Klub
 
-Hausi Vol. 7 at Toldi Klub on Mon 5 Oct, Budapest. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Hausi Vol. 7 at Toldi Klub on Mon 5 Oct, Budapest. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

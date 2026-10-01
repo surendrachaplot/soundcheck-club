@@ -1,6 +1,6 @@
 # Scion Versions at Paloma
 
-Scion Versions at Paloma on Fri 16 Oct, Berlin. 1 artist on the bill: DJ Pete. Preview the line-up and save it on soundcheck.
+Scion Versions at Paloma on Fri 16 Oct, Berlin. 1 artist: DJ Pete. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

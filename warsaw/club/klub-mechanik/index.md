@@ -1,8 +1,8 @@
 # Klub Mechanik
 
-Klub Mechanik is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "HARD NIGHT WARSAW: Inferno" on Fri, 16 Oct 2026.
+Klub Mechanik is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "HARD NIGHT WARSAW: Inferno" on Fri, 16 Oct 2026.
 
-Klub Mechanik is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Inferno. Browse upcoming dates, start times and who's playing. Ludwika Narbutta 87, 02-525 Warszawa.
+Klub Mechanik is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Inferno. See dates, start times and who's playing. Ludwika Narbutta 87, 02-525 Warszawa.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Alinea Events presents: Dance In The Ambience at Heebie Jeebies
 
-Alinea Events presents: Dance In The Ambience at Heebie Jeebies on Fri 16 Oct, Liverpool. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
+Alinea Events presents: Dance In The Ambience at Heebie Jeebies on Fri 16 Oct, Liverpool. Ambient and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

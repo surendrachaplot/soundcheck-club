@@ -1,6 +1,6 @@
 # REBELLION at Basing House
 
-REBELLION at Basing House on Sat 24 Oct, London. Trance. Preview the line-up and save it on soundcheck.
+REBELLION at Basing House on Sat 24 Oct, London. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Pepe Calles
 
-Pepe Calles is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 75 Pelham, Toronto on Fri, 30 Oct 2026.
+Pepe Calles is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 75 Pelham, Toronto on Fri, 30 Oct 2026.
 
-Pepe Calles is a techno and house artist based in Mexico, tracked on soundcheck, with 25 sets logged across Montreal and Toronto. Often billed alongside Martin Vora, Fauren and Nitin. Next up: 75 Pelham, Toronto on Fri 30 Oct.
+Pepe Calles is a techno and house artist based in Mexico, with 25 gigs on soundcheck across Montreal and Toronto. Often billed alongside Martin Vora, Fauren and Nitin. Next up: 75 Pelham, Toronto on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Pepe Calles is a techno and house artist based in Mexico, tracked on soundcheck,
 
 ## Recently played
 
-- Newspeak, Montreal — Sat, 5 Sept 2026
-- Oria After Dark, Toronto — Sat, 29 Aug 2026
-- Rhythm, Toronto — Thu, 25 Jun 2026
-- Tapestry, Toronto — Sun, 7 Jun 2026
-- TBA - Toronto, Toronto — Fri, 6 Mar 2026
-- 1188 Queen St. W, Toronto — Sat, 29 Nov 2025
-- Boogie, Toronto — Wed, 19 Nov 2025
-- YES Electric Tattoo, Toronto — Sat, 8 Nov 2025
+- Newspeak, Montreal · Sat, 5 Sept 2026
+- Oria After Dark, Toronto · Sat, 29 Aug 2026
+- Rhythm, Toronto · Thu, 25 Jun 2026
+- Tapestry, Toronto · Sun, 7 Jun 2026
+- TBA - Toronto, Toronto · Fri, 6 Mar 2026
+- 1188 Queen St. W, Toronto · Sat, 29 Nov 2025
+- Boogie, Toronto · Wed, 19 Nov 2025
+- YES Electric Tattoo, Toronto · Sat, 8 Nov 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Floating Points
 
-Floating Points is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+Floating Points is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-Floating Points is a techno and house artist based in United Kingdom, tracked on soundcheck, with 74 sets logged across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Four Tet, Daphni and Palms Trax. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
+Floating Points is a techno and house artist based in United Kingdom, with 74 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 26 more. Often billed alongside Four Tet, Daphni and Palms Trax. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Floating Points is a techno and house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- Fvtvr, Paris — Fri, 10 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- TBA - Somewhere in Berlin, Berlin — Fri, 26 Jun 2026
-- Brockwell Park, London — Sat, 23 May 2026
-- War Memorial Opera House, San Francisco/Oakland — Fri, 24 Apr 2026
+- Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
+- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
+- Fvtvr, Paris · Fri, 10 Jul 2026
+- Parco Dora, Turin · Fri, 3 Jul 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- TBA - Somewhere in Berlin, Berlin · Fri, 26 Jun 2026
+- Brockwell Park, London · Sat, 23 May 2026
+- War Memorial Opera House, San Francisco/Oakland · Fri, 24 Apr 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Aurora Halal
 
-Aurora Halal is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
+Aurora Halal is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Société des arts technologiques, Montreal on Sat, 3 Oct 2026.
 
-Aurora Halal is a techno and house artist based in United States of America, tracked on soundcheck, with 227 sets logged across Amsterdam, Athens, Atlanta and Austin and 53 more. Often billed alongside Priori, Avalon Emerson and Kia (AU). Next up: Société des arts technologiques, Montreal on Sat 3 Oct.
+Aurora Halal is a techno and house artist based in United States of America, with 227 gigs on soundcheck across Amsterdam, Athens, Atlanta and Austin and 53 more. Often billed alongside Priori, Avalon Emerson and Kia (AU). Next up: Société des arts technologiques, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Aurora Halal is a techno and house artist based in United States of America, tra
 
 ## Recently played
 
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Outer Heaven, New York City — Fri, 28 Aug 2026
-- Floyd, Miami — Fri, 21 Aug 2026
-- Mansions, New York City — Sun, 16 Aug 2026
-- Finsbury Park, London — Sat, 8 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 7 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Outer Heaven, New York City · Fri, 28 Aug 2026
+- Floyd, Miami · Fri, 21 Aug 2026
+- Mansions, New York City · Sun, 16 Aug 2026
+- Finsbury Park, London · Sat, 8 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 7 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
 
 ## Shares bills with
 

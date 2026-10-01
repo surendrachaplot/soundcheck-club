@@ -1,6 +1,6 @@
 # Origins: Batu [All Night Long] at Village Underground
 
-Origins: Batu [All Night Long] at Village Underground on Fri 30 Oct, London. 1 artist on the bill: Batu. House and Electronica. Preview the line-up and save it on soundcheck.
+Origins: Batu [All Night Long] at Village Underground on Fri 30 Oct, London. 1 artist: Batu. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

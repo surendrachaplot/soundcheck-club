@@ -1,6 +1,6 @@
 # Hellcat Speedracer - Halloween Takeover at City Recital Hall
 
-Hellcat Speedracer - Halloween Takeover at City Recital Hall on Sat 31 Oct, Sydney. House and Electro. Preview the line-up and save it on soundcheck.
+Hellcat Speedracer - Halloween Takeover at City Recital Hall on Sat 31 Oct, Sydney. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

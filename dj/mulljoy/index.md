@@ -1,8 +1,8 @@
 # Mulljoy
 
-Mulljoy is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Wigwam, Dublin on Fri, 27 Nov 2026.
+Mulljoy is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Wigwam, Dublin on Fri, 27 Nov 2026.
 
-Mulljoy is a deep house and progressive house artist based in Ireland, tracked on soundcheck, with 12 sets logged across Berlin and Dublin. Often billed alongside Ste Flynn, Paul Gill and EVE (IE). Next up: Wigwam, Dublin on Fri 27 Nov.
+Mulljoy is a deep house and progressive house artist based in Ireland, with 12 gigs on soundcheck across Berlin and Dublin. Often billed alongside Ste Flynn, Paul Gill and EVE (IE). Next up: Wigwam, Dublin on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mulljoy is a deep house and progressive house artist based in Ireland, tracked o
 
 ## Recently played
 
-- Index, Dublin — Sat, 2 May 2026
-- Yamamori Tengu, Dublin — Fri, 3 Apr 2026
-- Centre Point, Dublin — Fri, 21 Nov 2025
-- Yamamori Tengu, Dublin — Sat, 6 Sept 2025
-- Renate, Berlin — Fri, 16 May 2025
-- Yamamori Izakaya, Dublin — Sat, 22 Mar 2025
-- Belmont Demesne, Dublin — Sat, 26 Oct 2024
-- Yamamori Tengu, Dublin — Sat, 17 Aug 2024
+- Index, Dublin · Sat, 2 May 2026
+- Yamamori Tengu, Dublin · Fri, 3 Apr 2026
+- Centre Point, Dublin · Fri, 21 Nov 2025
+- Yamamori Tengu, Dublin · Sat, 6 Sept 2025
+- Renate, Berlin · Fri, 16 May 2025
+- Yamamori Izakaya, Dublin · Sat, 22 Mar 2025
+- Belmont Demesne, Dublin · Sat, 26 Oct 2024
+- Yamamori Tengu, Dublin · Sat, 17 Aug 2024
 
 ## Shares bills with
 

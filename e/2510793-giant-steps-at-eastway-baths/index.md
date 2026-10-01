@@ -1,6 +1,6 @@
 # GIANT STEPS at Eastway Baths
 
-GIANT STEPS at Eastway Baths on Sun 25 Oct, London. 2 artists on the bill: Palo Santo Discos and Poly-Ritmo. Preview the line-up and save it on soundcheck.
+GIANT STEPS at Eastway Baths on Sun 25 Oct, London. 2 artists: Palo Santo Discos and Poly-Ritmo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

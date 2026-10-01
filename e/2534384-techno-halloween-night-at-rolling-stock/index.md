@@ -1,6 +1,6 @@
 # TECHNO HALLOWEEN NIGHT at Rolling Stock
 
-TECHNO HALLOWEEN NIGHT at Rolling Stock on Sat 31 Oct, London. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+TECHNO HALLOWEEN NIGHT at Rolling Stock on Sat 31 Oct, London. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

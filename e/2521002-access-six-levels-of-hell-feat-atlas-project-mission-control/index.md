@@ -1,6 +1,6 @@
 # Access: Six Levels Of Hell (feat. Atlas Project, Mission Control, Sweet Greens) at The Cross
 
-Access: Six Levels Of Hell (feat. Atlas Project, Mission Control, Sweet Greens) at The Cross on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+Access: Six Levels Of Hell (feat. Atlas Project, Mission Control, Sweet Greens) at The Cross on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

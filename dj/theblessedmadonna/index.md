@@ -1,8 +1,8 @@
 # The Blessed Madonna
 
-The Blessed Madonna is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
+The Blessed Madonna is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Empire Polo Club, Palm-springs on Sat, 10 Oct 2026.
 
-The Blessed Madonna is a house and techno artist based in United States of America, tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
+The Blessed Madonna is a house and techno artist based in United States of America, with 141 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 44 more. Often billed alongside Honey Dijon, Mochakk and HAAi. Next up: Empire Polo Club, Palm Springs on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ The Blessed Madonna is a house and techno artist based in United States of Ameri
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Wed, 23 Sept 2026
-- smartbar, Chicago — Sat, 5 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Calatheabeachclub, Naples — Sat, 29 Aug 2026
-- DC-10, Ibiza — Mon, 17 Aug 2026
-- Chinois Ibiza, Ibiza — Sat, 1 Aug 2026
-- Preston Park, Brighton, Berlin — Sat, 1 Aug 2026
-- Hï Ibiza, Ibiza — Wed, 22 Jul 2026
+- Hï Ibiza, Ibiza · Wed, 23 Sept 2026
+- smartbar, Chicago · Sat, 5 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Calatheabeachclub, Naples · Sat, 29 Aug 2026
+- DC-10, Ibiza · Mon, 17 Aug 2026
+- Chinois Ibiza, Ibiza · Sat, 1 Aug 2026
+- Preston Park, Brighton, Berlin · Sat, 1 Aug 2026
+- Hï Ibiza, Ibiza · Wed, 22 Jul 2026
 
 ## Shares bills with
 

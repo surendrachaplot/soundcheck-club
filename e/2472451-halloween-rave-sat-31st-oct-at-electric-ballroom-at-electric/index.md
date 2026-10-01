@@ -1,6 +1,6 @@
 # Halloween Rave | Sat 31st Oct at Electric Ballroom at Electric Ballroom
 
-Halloween Rave | Sat 31st Oct at Electric Ballroom on Sat 31 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+Halloween Rave | Sat 31st Oct at Electric Ballroom on Sat 31 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

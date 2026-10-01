@@ -1,8 +1,8 @@
 # Sam Ruffillo
 
-Sam Ruffillo is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Paloma, Barcelona on Fri, 2 Oct 2026.
+Sam Ruffillo is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Paloma, Barcelona on Fri, 2 Oct 2026.
 
-Sam Ruffillo is a house and disco artist based in Italy, tracked on soundcheck, with 113 sets logged across Amsterdam, Auckland, Bali and Barcelona and 34 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: La Paloma, Barcelona on Fri 2 Oct.
+Sam Ruffillo is a house and disco artist based in Italy, with 113 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 34 more. Often billed alongside Kapote, Gee Lane and Stump Valley. Next up: La Paloma, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Sam Ruffillo is a house and disco artist based in Italy, tracked on soundcheck, 
 
 ## Recently played
 
-- Palais Mascotte, Zurich — Fri, 18 Sept 2026
-- Café Schöne Aussichten (CSA), Hamburg — Sat, 25 Jul 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 20 Jun 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 20 Jun 2026
-- Les Studios du Rhin, Strasbourg — Fri, 19 Jun 2026
-- TBA - Strasbourg various venues, Strasbourg — Thu, 18 Jun 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Sat, 13 Jun 2026
-- Else, Berlin — Sat, 30 May 2026
+- Palais Mascotte, Zurich · Fri, 18 Sept 2026
+- Café Schöne Aussichten (CSA), Hamburg · Sat, 25 Jul 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 20 Jun 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 20 Jun 2026
+- Les Studios du Rhin, Strasbourg · Fri, 19 Jun 2026
+- TBA - Strasbourg various venues, Strasbourg · Thu, 18 Jun 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Sat, 13 Jun 2026
+- Else, Berlin · Sat, 30 May 2026
 
 ## Shares bills with
 

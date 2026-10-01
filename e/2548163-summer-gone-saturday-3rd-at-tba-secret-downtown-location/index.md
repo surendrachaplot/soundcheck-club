@@ -1,6 +1,6 @@
 # SUMMER GONE SATURDAY 3RD at TBA - SECRET DOWNTOWN LOCATION
 
-SUMMER GONE SATURDAY 3RD at TBA - SECRET DOWNTOWN LOCATION on Sat 3 Oct, Vancouver. Techno and House. Preview the line-up and save it on soundcheck.
+SUMMER GONE SATURDAY 3RD at TBA - SECRET DOWNTOWN LOCATION on Sat 3 Oct, Vancouver. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

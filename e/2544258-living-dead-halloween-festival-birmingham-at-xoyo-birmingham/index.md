@@ -1,6 +1,6 @@
 # Living Dead Halloween Festival - Birmingham at XOYO Birmingham
 
-Living Dead Halloween Festival - Birmingham at XOYO Birmingham on Sat 31 Oct, Birmingham. House. Preview the line-up and save it on soundcheck.
+Living Dead Halloween Festival - Birmingham at XOYO Birmingham on Sat 31 Oct, Birmingham. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

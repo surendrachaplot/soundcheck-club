@@ -1,6 +1,6 @@
 # Atmosphérique: JENNGREEN feat. ROCCO at Kremwerk-Timbre Room-Cherry Complex
 
-Atmosphérique: JENNGREEN feat. ROCCO at Kremwerk-Timbre Room-Cherry Complex on Fri 2 Oct, Seattle. 2 artists on the bill: JENN GREEN and ROCCO (FIGA). Techno and Experimental. Preview the line-up and save it on soundcheck.
+Atmosphérique: JENNGREEN feat. ROCCO at Kremwerk-Timbre Room-Cherry Complex on Fri 2 Oct, Seattle. 2 artists: JENN GREEN and ROCCO (FIGA). Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

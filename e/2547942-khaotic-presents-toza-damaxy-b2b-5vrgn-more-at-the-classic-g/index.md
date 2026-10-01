@@ -1,6 +1,6 @@
 # Khaotic presents: TOZA, DAMAXY B2B 5VRGN & more at The Classic Grand
 
-Khaotic presents: TOZA, DAMAXY B2B 5VRGN & more at The Classic Grand on Fri 18 Dec, Glasgow. 1 artist on the bill: UMBRA. Techno. Preview the line-up and save it on soundcheck.
+Khaotic presents: TOZA, DAMAXY B2B 5VRGN & more at The Classic Grand on Fri 18 Dec, Glasgow. 1 artist: UMBRA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

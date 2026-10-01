@@ -1,8 +1,8 @@
 # Gōdō
 
-Gōdō is a Club and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Gōdō is a Club and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Gōdō is a club and minimal artist based in Italy, tracked on soundcheck, with 15 sets logged across Amsterdam, Bangkok, Barcelona and Greece and 4 more. Often billed alongside Benny (El Rio Hostel), Mila Morr and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Gōdō is a club and minimal artist based in Italy, with 15 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Greece and 4 more. Often billed alongside Benny (El Rio Hostel), Mila Morr and 22. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Gōdō is a club and minimal artist based in Italy, tracked on soundcheck, with 
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- TBA - romita napoli, Naples — Thu, 3 Sept 2026
-- Mitsuki, Tokyo — Sat, 22 Nov 2025
-- 12 x 12, Bangkok — Sat, 1 Nov 2025
-- MODE Downtown Miami, Miami — Thu, 20 Feb 2025
-- TBA, Barcelona — Fri, 1 Nov 2024
-- Bridge 48, Barcelona — Sat, 26 Oct 2024
-- Casa Rojo, Barcelona — Sat, 28 Sept 2024
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- TBA - romita napoli, Naples · Thu, 3 Sept 2026
+- Mitsuki, Tokyo · Sat, 22 Nov 2025
+- 12 x 12, Bangkok · Sat, 1 Nov 2025
+- MODE Downtown Miami, Miami · Thu, 20 Feb 2025
+- TBA, Barcelona · Fri, 1 Nov 2024
+- Bridge 48, Barcelona · Sat, 26 Oct 2024
+- Casa Rojo, Barcelona · Sat, 28 Sept 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # 100%WET // VEGA at VEGA
 
-100%WET // VEGA on Sat 14 Nov, Copenhagen. 1 artist on the bill: 100%WET. Preview the line-up and save it on soundcheck.
+100%WET // VEGA on Sat 14 Nov, Copenhagen. 1 artist: 100%WET. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

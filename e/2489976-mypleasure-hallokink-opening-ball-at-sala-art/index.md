@@ -1,6 +1,6 @@
 # MyPleasure // HALLOKINK // Opening Ball at Sala ART
 
-MyPleasure // HALLOKINK // Opening Ball at Sala ART on Sat 31 Oct, Madrid. Techno and House. Preview the line-up and save it on soundcheck.
+MyPleasure // HALLOKINK // Opening Ball at Sala ART on Sat 31 Oct, Madrid. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

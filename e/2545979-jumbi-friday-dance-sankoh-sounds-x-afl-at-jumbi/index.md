@@ -1,6 +1,6 @@
 # Jumbi Friday Dance: Sankoh Sounds x AFL at Jumbi
 
-Jumbi Friday Dance: Sankoh Sounds x AFL on Fri 16 Oct, London. 2 artists on the bill: CasuallyClued and Marvin Jupiter. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Jumbi Friday Dance: Sankoh Sounds x AFL on Fri 16 Oct, London. 2 artists: CasuallyClued and Marvin Jupiter. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

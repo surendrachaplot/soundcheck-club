@@ -1,6 +1,6 @@
 # asfffff with Samuelx, Cuteboys, Tasheff at Mood Ring
 
-asfffff with Samuelx, Cuteboys, Tasheff at Mood Ring on Sat 3 Oct, New York City. 3 artists on the bill: cute boys, Samuelx and Tasheff. Preview the line-up and save it on soundcheck.
+asfffff with Samuelx, Cuteboys, Tasheff at Mood Ring on Sat 3 Oct, New York City. 3 artists: cute boys, Samuelx and Tasheff. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

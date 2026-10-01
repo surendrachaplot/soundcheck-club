@@ -1,8 +1,8 @@
 # John Noseda
 
-John Noseda is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Noorderlicht Café, Amsterdam on Sat, 24 Oct 2026.
+John Noseda is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Noorderlicht Café, Amsterdam on Sat, 24 Oct 2026.
 
-John Noseda is a house and disco artist based in Belgium, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Bibi Seck, Thang and Kenny Montana. Next up: Noorderlicht Café, Amsterdam on Sat 24 Oct.
+John Noseda is a house and disco artist based in Belgium, with 48 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 5 more. Often billed alongside Bibi Seck, Thang and Kenny Montana. Next up: Noorderlicht Café, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ John Noseda is a house and disco artist based in Belgium, tracked on soundcheck,
 
 ## Recently played
 
-- Kasteel van Ooidonk, Ghent — Sat, 4 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- TRAUM, Antwerp — Fri, 12 Jun 2026
-- Boeienweide Linkeroever, Antwerp — Sat, 9 May 2026
-- TBA - Ghent, Ghent — Fri, 20 Feb 2026
-- TBA, Ghent — Fri, 20 Feb 2026
-- Ampere, Antwerp — Fri, 13 Feb 2026
-- Het Sieraad, Amsterdam — Fri, 28 Nov 2025
+- Kasteel van Ooidonk, Ghent · Sat, 4 Jul 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- TRAUM, Antwerp · Fri, 12 Jun 2026
+- Boeienweide Linkeroever, Antwerp · Sat, 9 May 2026
+- TBA - Ghent, Ghent · Fri, 20 Feb 2026
+- TBA, Ghent · Fri, 20 Feb 2026
+- Ampere, Antwerp · Fri, 13 Feb 2026
+- Het Sieraad, Amsterdam · Fri, 28 Nov 2025
 
 ## Shares bills with
 

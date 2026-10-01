@@ -1,8 +1,8 @@
 # Studio Zürich
 
-Studio Zürich is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Kiki at Studio" on Sat, 3 Oct 2026.
+Studio Zürich is a music venue in Zurich with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Kiki at Studio" on Sat, 3 Oct 2026.
 
-Studio Zürich is a music venue in Zurich listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Geroldstrasse 15, 8005 Zürich.
+Studio Zürich is a music venue in Zurich listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Geroldstrasse 15, 8005 Zürich.
 
 ## What's on
 

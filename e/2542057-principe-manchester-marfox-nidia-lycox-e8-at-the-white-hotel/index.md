@@ -1,6 +1,6 @@
 # Principe Manchester: Marfox / Nidia / Lycox / E8 at The White Hotel
 
-Principe Manchester: Marfox / Nidia / Lycox / E8 at The White Hotel on Sat 28 Nov, Manchester. Preview the line-up and save it on soundcheck.
+Principe Manchester: Marfox / Nidia / Lycox / E8 at The White Hotel on Sat 28 Nov, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tufty Club's Spaced Out at The Timber Loft
 
-Tufty Club's Spaced Out at The Timber Loft on Sat 3 Oct, London. 1 artist on the bill: Nancy Noise. Deep House and Balearic. Preview the line-up and save it on soundcheck.
+Tufty Club's Spaced Out at The Timber Loft on Sat 3 Oct, London. 1 artist: Nancy Noise. Deep House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

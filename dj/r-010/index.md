@@ -1,8 +1,8 @@
 # R-010
 
-R-010 is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
+R-010 is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fira Barcelona, Barcelona on Fri, 6 Nov 2026.
 
-R-010 is an electro and techno artist based in Spain, tracked on soundcheck, with 23 sets logged across Barcelona, Madrid and Seoul. Often billed alongside Judy (ES), Alexandre Laeddis and Tuber. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
+R-010 is an electro and techno artist based in Spain, with 23 gigs on soundcheck across Barcelona, Madrid and Seoul. Often billed alongside Judy (ES), Alexandre Laeddis and Tuber. Next up: Fira Barcelona, Barcelona on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ R-010 is an electro and techno artist based in Spain, tracked on soundcheck, wit
 
 ## Recently played
 
-- Modeci, Seoul — Fri, 19 Jun 2026
-- TBA - Multiple Venues, Barcelona — Wed, 29 Apr 2026
-- Razzmatazz, Barcelona — Sat, 21 Mar 2026
-- Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona — Thu, 12 Mar 2026
-- TBA, Barcelona — Sat, 21 Feb 2026
-- TBA, Madrid — Fri, 24 Oct 2025
-- Mas Maria, Barcelona — Sun, 5 Oct 2025
-- Razzmatazz, Barcelona — Sat, 30 Aug 2025
+- Modeci, Seoul · Fri, 19 Jun 2026
+- TBA - Multiple Venues, Barcelona · Wed, 29 Apr 2026
+- Razzmatazz, Barcelona · Sat, 21 Mar 2026
+- Casa Montjuïc & Vall d'Hebron Olympic Pavilion, Barcelona · Thu, 12 Mar 2026
+- TBA, Barcelona · Sat, 21 Feb 2026
+- TBA, Madrid · Fri, 24 Oct 2025
+- Mas Maria, Barcelona · Sun, 5 Oct 2025
+- Razzmatazz, Barcelona · Sat, 30 Aug 2025
 
 ## Shares bills with
 

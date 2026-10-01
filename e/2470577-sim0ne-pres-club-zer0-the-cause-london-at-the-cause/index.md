@@ -1,6 +1,6 @@
 # sim0ne pres. club zer0 @ The Cause, London at The Cause
 
-sim0ne pres. club zer0 @ The Cause, London on Fri 13 Nov, London. 4 artists on the bill: DJ Sarah Bonito, Hiroko Yamamura, Princess Elf Bar and sim0ne. Trance and Techno. Preview the line-up and save it on soundcheck.
+sim0ne pres. club zer0 @ The Cause, London on Fri 13 Nov, London. 4 artists: DJ Sarah Bonito, Hiroko Yamamura, Princess Elf Bar and sim0ne. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

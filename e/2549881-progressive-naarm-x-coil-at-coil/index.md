@@ -1,6 +1,6 @@
 # Progressive Naarm X Coil at Coil
 
-Progressive Naarm X Coil on Thu 1 Oct, Melbourne. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Progressive Naarm X Coil on Thu 1 Oct, Melbourne. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

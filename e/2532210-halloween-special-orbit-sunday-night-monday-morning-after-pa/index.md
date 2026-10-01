@@ -1,6 +1,6 @@
 # Halloween special - Orbit Sunday night / Monday morning after party at Union Club, Vauxhall
 
-Halloween special - Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 1 Nov, London. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Halloween special - Orbit Sunday night / Monday morning after party at Union Club, Vauxhall on Sun 1 Nov, London. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

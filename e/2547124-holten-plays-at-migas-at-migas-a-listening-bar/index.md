@@ -1,6 +1,6 @@
 # Holten plays at migas at migas, a listening bar
 
-Holten plays at migas at migas, a listening bar on Fri 16 Oct, Berlin. 1 artist on the bill: Holten. Preview the line-up and save it on soundcheck.
+Holten plays at migas at migas, a listening bar on Fri 16 Oct, Berlin. 1 artist: Holten. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

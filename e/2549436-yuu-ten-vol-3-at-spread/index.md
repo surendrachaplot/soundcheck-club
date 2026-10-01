@@ -1,6 +1,6 @@
 # yuu.ten vol.3 at Spread
 
-yuu.ten vol.3 at Spread on Fri 16 Oct, Tokyo. 6 artists on the bill: Eiko Ishibashi, Foodman, heykazma and lostbaggage and 2 more. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+yuu.ten vol.3 at Spread on Fri 16 Oct, Tokyo. 6 artists: Eiko Ishibashi, Foodman, heykazma and lostbaggage and 2 more. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KREEP ON Halloween Special at La Cheetah Club
 
-KREEP ON Halloween Special at La Cheetah Club on Sun 1 Nov, Glasgow. 2 artists on the bill: David Barbarossa and OOFT. House and Disco. Preview the line-up and save it on soundcheck.
+KREEP ON Halloween Special at La Cheetah Club on Sun 1 Nov, Glasgow. 2 artists: David Barbarossa and OOFT. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

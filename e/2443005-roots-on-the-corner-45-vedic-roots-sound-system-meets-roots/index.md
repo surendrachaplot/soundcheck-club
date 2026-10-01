@@ -1,6 +1,6 @@
 # Roots On The Corner #45. Vedic Roots Sound System meets Roots Sensation Sound System at Distillery N17
 
-Roots On The Corner #45. Vedic Roots Sound System meets Roots Sensation Sound System at Distillery N17 on Fri 6 Nov, London. 2 artists on the bill: Roots Sensation and Vedic Roots. Bass and Dub. Preview the line-up and save it on soundcheck.
+Roots On The Corner #45. Vedic Roots Sound System meets Roots Sensation Sound System at Distillery N17 on Fri 6 Nov, London. 2 artists: Roots Sensation and Vedic Roots. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

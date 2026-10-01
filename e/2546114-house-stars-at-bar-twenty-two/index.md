@@ -1,6 +1,6 @@
 # House Stars at Bar Twenty Two
 
-House Stars at Bar Twenty Two on Fri 23 Oct, Amsterdam. Afro House. Preview the line-up and save it on soundcheck.
+House Stars at Bar Twenty Two on Fri 23 Oct, Amsterdam. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

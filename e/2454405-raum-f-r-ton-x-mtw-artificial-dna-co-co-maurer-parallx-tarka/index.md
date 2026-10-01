@@ -1,6 +1,6 @@
 # Raum für Ton x MTW: Artificial DNA, co:co, MAURER, Parallx, Tarkan, u.v.m at MTW
 
-Raum für Ton x MTW: Artificial DNA, co:co, MAURER, Parallx, Tarkan, u.v.m on Sat 14 Nov, Frankfurt. 9 artists on the bill: Artificial DNA, co:co, Leskus and Maeksll and 5 more. Techno. Preview the line-up and save it on soundcheck.
+Raum für Ton x MTW: Artificial DNA, co:co, MAURER, Parallx, Tarkan, u.v.m on Sat 14 Nov, Frankfurt. 9 artists: Artificial DNA, co:co, Leskus and Maeksll and 5 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DJ Frog, wetdogg, Nautiluss at Bar Datcha
 
-DJ Frog, wetdogg, Nautiluss at Bar Datcha on Thu 29 Oct, Montreal. 3 artists on the bill: DJ Frog, Nautiluss and wetdogg. Preview the line-up and save it on soundcheck.
+DJ Frog, wetdogg, Nautiluss at Bar Datcha on Thu 29 Oct, Montreal. 3 artists: DJ Frog, Nautiluss and wetdogg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

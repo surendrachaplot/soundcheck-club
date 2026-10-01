@@ -1,6 +1,6 @@
 # Pop Never Dies at The Lexington Club
 
-Pop Never Dies at The Lexington Club on Fri 23 Oct, London. Pop. Preview the line-up and save it on soundcheck.
+Pop Never Dies at The Lexington Club on Fri 23 Oct, London. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

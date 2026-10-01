@@ -1,6 +1,6 @@
 # SUNDAY at Mastak
 
-SUNDAY at Mastak on Sun 18 Oct, Warsaw. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+SUNDAY at Mastak on Sun 18 Oct, Warsaw. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

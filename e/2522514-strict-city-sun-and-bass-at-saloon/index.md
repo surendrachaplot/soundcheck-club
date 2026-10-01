@@ -1,6 +1,6 @@
 # Strict City × SUN AND BASS at Saloon
 
-Strict City × SUN AND BASS at Saloon on Sat 14 Nov, Tokyo. 4 artists on the bill: arpxp, Fonts, Velocity and Zusan. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Strict City × SUN AND BASS at Saloon on Sat 14 Nov, Tokyo. 4 artists: arpxp, Fonts, Velocity and Zusan. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

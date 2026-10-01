@@ -1,8 +1,8 @@
 # TBA - ANZEN Späti
 
-TBA - ANZEN Späti is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "MAGIE NOIRE  (Tag der Clubkultur) Späti Rave " on Sat, 10 Oct 2026.
+TBA - ANZEN Späti is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "MAGIE NOIRE  (Tag der Clubkultur) Späti Rave " on Sat, 10 Oct 2026.
 
-TBA - ANZEN Späti is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Marcey99, Parisha, Reanna Peris and The Blackmailer. Browse upcoming dates, start times and who's playing.
+TBA - ANZEN Späti is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Marcey99, Parisha, Reanna Peris and The Blackmailer. See dates, start times and who's playing.
 
 ## What's on
 

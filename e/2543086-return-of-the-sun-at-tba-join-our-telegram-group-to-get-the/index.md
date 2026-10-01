@@ -1,6 +1,6 @@
 # Return of the Sun at TBA - join our Telegram group to get the exact location in Neukölln!
 
-Return of the Sun at TBA - join our Telegram group to get the exact location in Neukölln! on Sat 24 Oct, Berlin. 2 artists on the bill: DJ MEGA and GhostOnAcid. Trance and Techno. Preview the line-up and save it on soundcheck.
+Return of the Sun at TBA - join our Telegram group to get the exact location in Neukölln! on Sat 24 Oct, Berlin. 2 artists: DJ MEGA and GhostOnAcid. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

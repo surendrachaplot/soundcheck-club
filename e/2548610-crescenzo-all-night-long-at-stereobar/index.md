@@ -1,6 +1,6 @@
 # Crescenzo (All Night Long) at StereoBar
 
-Crescenzo (All Night Long) at StereoBar on Fri 16 Oct, Montreal. 1 artist on the bill: Crescenzo. Preview the line-up and save it on soundcheck.
+Crescenzo (All Night Long) at StereoBar on Fri 16 Oct, Montreal. 1 artist: Crescenzo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

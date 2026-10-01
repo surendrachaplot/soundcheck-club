@@ -1,6 +1,6 @@
 # Playback 0039 at Bar Laika
 
-Playback 0039 at Bar Laika on Wed 7 Oct, New York City. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+Playback 0039 at Bar Laika on Wed 7 Oct, New York City. Experimental and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # INEXXSTABLE
 
-INEXXSTABLE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at La Terrrazza, Barcelona on Thu, 15 Oct 2026.
+INEXXSTABLE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Thu, 15 Oct 2026.
 
-INEXXSTABLE is a house and techno artist based in Spain, tracked on soundcheck, with 119 sets logged across Barcelona and Belgrade. Often billed alongside CLANDESTINE, Cucut and Brieela. Next up: La Terrrazza, Barcelona on Thu 15 Oct.
+INEXXSTABLE is a house and techno artist based in Spain, with 119 gigs on soundcheck across Barcelona and Belgrade. Often billed alongside CLANDESTINE, Cucut and Brieela. Next up: La Terrrazza, Barcelona on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ INEXXSTABLE is a house and techno artist based in Spain, tracked on soundcheck, 
 
 ## Recently played
 
-- TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT , Barcelona — Sat, 19 Sept 2026
-- Razzmatazz, Barcelona — Fri, 21 Aug 2026
-- La Terrrazza, Barcelona — Thu, 13 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- City Hall, Barcelona — Sat, 18 Jul 2026
-- La Terrrazza, Barcelona — Thu, 9 Jul 2026
-- TBA - Jardins Enric Sagnier, Barcelona — Fri, 26 Jun 2026
-- La Terrrazza, Barcelona — Thu, 25 Jun 2026
+- TBA - FESTES DE POBLENOU ESCENARI PALLARS & ROC BORONAT , Barcelona · Sat, 19 Sept 2026
+- Razzmatazz, Barcelona · Fri, 21 Aug 2026
+- La Terrrazza, Barcelona · Thu, 13 Aug 2026
+- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
+- City Hall, Barcelona · Sat, 18 Jul 2026
+- La Terrrazza, Barcelona · Thu, 9 Jul 2026
+- TBA - Jardins Enric Sagnier, Barcelona · Fri, 26 Jun 2026
+- La Terrrazza, Barcelona · Thu, 25 Jun 2026
 
 ## Shares bills with
 

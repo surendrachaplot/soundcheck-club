@@ -1,6 +1,6 @@
 # MINÛ OPENING PARTY: Franco Cinelli & Germano Ventura at Circolo degli Illuminati
 
-MINÛ OPENING PARTY: Franco Cinelli & Germano Ventura at Circolo degli Illuminati on Sat 3 Oct, Rome. 2 artists on the bill: Franco Cinelli and Germano Ventura. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+MINÛ OPENING PARTY: Franco Cinelli & Germano Ventura at Circolo degli Illuminati on Sat 3 Oct, Rome. 2 artists: Franco Cinelli and Germano Ventura. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ivory b2b Auggie (Innervisions) at Mason Bar
 
-Ivory b2b Auggie (Innervisions) at Mason Bar on Fri 9 Oct, Cyprus. 2 artists on the bill: Auggië and Ivory. Preview the line-up and save it on soundcheck.
+Ivory b2b Auggie (Innervisions) at Mason Bar on Fri 9 Oct, Cyprus. 2 artists: Auggië and Ivory. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

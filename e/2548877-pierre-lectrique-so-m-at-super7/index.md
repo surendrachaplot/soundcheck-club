@@ -1,6 +1,6 @@
 # PIERRE ÉLECTRIQUE • SOĀM at Super7
 
-PIERRE ÉLECTRIQUE • SOĀM at Super7 on Fri 2 Oct, Lyon. Preview the line-up and save it on soundcheck.
+PIERRE ÉLECTRIQUE • SOĀM at Super7 on Fri 2 Oct, Lyon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

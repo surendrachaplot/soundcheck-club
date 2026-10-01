@@ -1,8 +1,8 @@
 # Metrika
 
-Metrika is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrik, Madrid on Sat, 3 Oct 2026.
+Metrika is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrik, Madrid on Sat, 3 Oct 2026.
 
-Metrika is a house and techno artist based in Mexico, tracked on soundcheck, with 56 sets logged across Barcelona, Los Angeles, Madrid and Mexico City and 4 more. Often billed alongside Rebolledo, Balcazar and Cabizbajo. Next up: Fabrik, Madrid on Sat 3 Oct.
+Metrika is a house and techno artist based in Mexico, with 56 gigs on soundcheck across Barcelona, Los Angeles, Madrid and Mexico City and 4 more. Often billed alongside Rebolledo, Balcazar and Cabizbajo. Next up: Fabrik, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Metrika is a house and techno artist based in Mexico, tracked on soundcheck, wit
 
 ## Recently played
 
-- Loo Loo, Mexico City — Fri, 17 Jul 2026
-- Fünk, Mexico City — Fri, 10 Jul 2026
-- Loo Loo, Mexico City — Thu, 18 Jun 2026
-- Loo Loo, Mexico City — Thu, 18 Jun 2026
-- Salon Palomilla, Mexico City — Wed, 10 Jun 2026
-- Fünk, Mexico City — Fri, 27 Feb 2026
-- TBA - Lomas, Mexico City — Sat, 14 Feb 2026
-- Salon Palomilla, Mexico City — Tue, 3 Feb 2026
+- Loo Loo, Mexico City · Fri, 17 Jul 2026
+- Fünk, Mexico City · Fri, 10 Jul 2026
+- Loo Loo, Mexico City · Thu, 18 Jun 2026
+- Loo Loo, Mexico City · Thu, 18 Jun 2026
+- Salon Palomilla, Mexico City · Wed, 10 Jun 2026
+- Fünk, Mexico City · Fri, 27 Feb 2026
+- TBA - Lomas, Mexico City · Sat, 14 Feb 2026
+- Salon Palomilla, Mexico City · Tue, 3 Feb 2026
 
 ## Shares bills with
 

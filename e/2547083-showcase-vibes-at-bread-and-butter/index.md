@@ -1,6 +1,6 @@
 # Showcase Vibes at Bread and Butter
 
-Showcase Vibes at Bread and Butter on Sat 19 Dec, London. 3 artists on the bill: Any Koh, Carl Rowlinson and EVSKA. Techno. Preview the line-up and save it on soundcheck.
+Showcase Vibes at Bread and Butter on Sat 19 Dec, London. 3 artists: Any Koh, Carl Rowlinson and EVSKA. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

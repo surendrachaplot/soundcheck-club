@@ -1,6 +1,6 @@
 # silikon at OXI
 
-silikon at OXI on Sat 19 Dec, Berlin. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+silikon at OXI on Sat 19 Dec, Berlin. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

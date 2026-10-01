@@ -1,6 +1,6 @@
 # Oliver R. & KAYU at Jalousy
 
-Oliver R. & KAYU at Jalousy on Fri 2 Oct, Brussels. 2 artists on the bill: KAYU and Oliver.r. House. Preview the line-up and save it on soundcheck.
+Oliver R. & KAYU at Jalousy on Fri 2 Oct, Brussels. 2 artists: KAYU and Oliver.r. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

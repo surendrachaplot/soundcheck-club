@@ -1,6 +1,6 @@
 # Cuddles at TBA
 
-Cuddles at TBA on Fri 20 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Cuddles at TBA on Fri 20 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

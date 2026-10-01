@@ -1,6 +1,6 @@
 # 5 Years of Rollout Records: Mortlock, Leks & More at The Bag Factory
 
-5 Years of Rollout Records: Mortlock, Leks & More at The Bag Factory on Fri 16 Oct, Manchester. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+5 Years of Rollout Records: Mortlock, Leks & More at The Bag Factory on Fri 16 Oct, Manchester. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

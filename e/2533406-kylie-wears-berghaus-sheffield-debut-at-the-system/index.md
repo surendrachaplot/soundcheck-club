@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus (Sheffield Debut) at The System
 
-Kylie Wears Berghaus (Sheffield Debut) at The System on Fri 29 Jan, Sheffield. 2 artists on the bill: DAISY and Kylie Wears Berghaus. Preview the line-up and save it on soundcheck.
+Kylie Wears Berghaus (Sheffield Debut) at The System on Fri 29 Jan, Sheffield. 2 artists: DAISY and Kylie Wears Berghaus. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # The 212 Café & Bar
 
-The 212 Café & Bar is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Slipped - Free Entry" on Sat, 17 Oct 2026.
+The 212 Café & Bar is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Slipped - Free Entry" on Sat, 17 Oct 2026.
 
-The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Four Candles, Roya Brehl and Simon Scott. Browse upcoming dates, start times and who's playing. 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom.
+The 212 Café & Bar is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Four Candles, Roya Brehl and Simon Scott. See dates, start times and who's playing. 6A Brewery Place, Leeds, West Yorkshire, LS10 1NE, United Kingdom.
 
 ## What's on
 

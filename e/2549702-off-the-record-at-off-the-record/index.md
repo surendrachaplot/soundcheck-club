@@ -1,6 +1,6 @@
 # OFF The Record at OFF The Record
 
-OFF The Record on Thu 1 Oct, Seoul. 1 artist on the bill: Sohrab. House and Electronica. Preview the line-up and save it on soundcheck.
+OFF The Record on Thu 1 Oct, Seoul. 1 artist: Sohrab. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

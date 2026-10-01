@@ -1,6 +1,6 @@
 # MyPleasure // ANNIVERSARY WEEK // Ending at TBA - Secret Location (Madrid)
 
-MyPleasure // ANNIVERSARY WEEK // Ending at TBA - Secret Location (Madrid) on Mon 7 Dec, Madrid. Techno and House. Preview the line-up and save it on soundcheck.
+MyPleasure // ANNIVERSARY WEEK // Ending at TBA - Secret Location (Madrid) on Mon 7 Dec, Madrid. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

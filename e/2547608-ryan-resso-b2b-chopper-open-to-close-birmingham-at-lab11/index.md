@@ -1,6 +1,6 @@
 # Ryan Resso B2B Chopper: Open to Close [Birmingham] at Lab11
 
-Ryan Resso B2B Chopper: Open to Close [Birmingham] at Lab11 on Sat 12 Dec, Birmingham. 2 artists on the bill: Chopper (UK) and Ryan Resso. House and Tech House. Preview the line-up and save it on soundcheck.
+Ryan Resso B2B Chopper: Open to Close [Birmingham] at Lab11 on Sat 12 Dec, Birmingham. 2 artists: Chopper (UK) and Ryan Resso. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

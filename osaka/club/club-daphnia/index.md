@@ -1,8 +1,8 @@
 # Club Daphnia
 
-Club Daphnia is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "edénico 10th Anniversary Party" on Sat, 3 Oct 2026.
+Club Daphnia is a music venue in Osaka with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "edénico 10th Anniversary Party" on Sat, 3 Oct 2026.
 
-Club Daphnia is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including DJ :-), AKIHIRO, ALUCA and APEPA and 2 more. Browse upcoming dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
+Club Daphnia is a music venue in Osaka listed on soundcheck. 6 upcoming gigs, with line-ups including DJ :-), AKIHIRO, ALUCA and APEPA and 2 more. See dates, start times and who's playing. 5-5-1, Kitakagaya, Osaka Shi Suminoe Ku, Osaka Fu, 559-0011, Japan.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # SUPER WAV
 
-SUPER WAV is a Deep House and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Jupiter Disco, New York City on Wed, 14 Oct 2026.
+SUPER WAV is a Deep House and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jupiter Disco, New York City on Wed, 14 Oct 2026.
 
-SUPER WAV is a deep house and ambient artist based in United States of America, tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside Interpretive Sound, Sam Valle and Bella Mode. Next up: Jupiter Disco, New York City on Wed 14 Oct.
+SUPER WAV is a deep house and ambient artist based in United States of America, with 8 gigs on soundcheck across New York City. Often billed alongside Interpretive Sound, Sam Valle and Bella Mode. Next up: Jupiter Disco, New York City on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ SUPER WAV is a deep house and ambient artist based in United States of America, 
 
 ## Recently played
 
-- Jupiter Disco, New York City — Wed, 2 Sept 2026
-- Crossroads Cafe, New York City — Sat, 20 Jun 2026
-- Crossroads Cafe, New York City — Sun, 22 Mar 2026
-- Rash, New York City — Sat, 1 Nov 2025
-- Earthly Delights, New York City — Tue, 12 Aug 2025
-- Jupiter Disco, New York City — Wed, 30 Jul 2025
-- Jupiter Disco, New York City — Wed, 9 Apr 2025
+- Jupiter Disco, New York City · Wed, 2 Sept 2026
+- Crossroads Cafe, New York City · Sat, 20 Jun 2026
+- Crossroads Cafe, New York City · Sun, 22 Mar 2026
+- Rash, New York City · Sat, 1 Nov 2025
+- Earthly Delights, New York City · Tue, 12 Aug 2025
+- Jupiter Disco, New York City · Wed, 30 Jul 2025
+- Jupiter Disco, New York City · Wed, 9 Apr 2025
 
 ## Shares bills with
 

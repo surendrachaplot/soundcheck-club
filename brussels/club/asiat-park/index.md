@@ -1,8 +1,8 @@
 # ASIAT Park
 
-ASIAT Park is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Horst Club Opening weekend x Black Gravity Dance" on Sat, 17 Oct 2026.
+ASIAT Park is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Horst Club Opening weekend x Black Gravity Dance" on Sat, 17 Oct 2026.
 
-ASIAT Park is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including 131bpm, Akua, Camilla Rae and Chris Ferreira and 2 more. Browse upcoming dates, start times and who's playing. Mechelsesteenweg 255, 1800 Vilvoorde.
+ASIAT Park is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including 131bpm, Akua, Camilla Rae and Chris Ferreira and 2 more. See dates, start times and who's playing. Mechelsesteenweg 255, 1800 Vilvoorde.
 
 ## What's on
 

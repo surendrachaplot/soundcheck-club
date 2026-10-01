@@ -1,6 +1,6 @@
 # ADE - VBX - SATURDAY DAY at BRET
 
-ADE - VBX - SATURDAY DAY at BRET on Sat 24 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+ADE - VBX - SATURDAY DAY at BRET on Sat 24 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

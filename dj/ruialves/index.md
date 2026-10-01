@@ -1,8 +1,8 @@
 # Rui Alves
 
-Rui Alves is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Carmo Rooftop, Lisbon on Sun, 4 Oct 2026.
+Rui Alves is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Carmo Rooftop, Lisbon on Sun, 4 Oct 2026.
 
-Rui Alves is a house and techno artist based in Portugal, tracked on soundcheck, with 52 sets logged across Brussels, Ibiza, Lisbon and Porto. Often billed alongside SLIM J, Banon and Kee_ko. Next up: Carmo Rooftop, Lisbon on Sun 4 Oct.
+Rui Alves is a house and techno artist based in Portugal, with 52 gigs on soundcheck across Brussels, Ibiza, Lisbon and Porto. Often billed alongside SLIM J, Banon and Kee_ko. Next up: Carmo Rooftop, Lisbon on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Rui Alves is a house and techno artist based in Portugal, tracked on soundcheck,
 
 ## Recently played
 
-- Carmo Rooftop, Lisbon — Sun, 20 Sept 2026
-- Village Underground Lisboa, Lisbon — Fri, 11 Sept 2026
-- Cavo Rooftop, Lisbon — Sun, 6 Sept 2026
-- Cavo Rooftop, Lisbon — Sun, 30 Aug 2026
-- Carmo Rooftop, Lisbon — Sun, 23 Aug 2026
-- Plano B, Porto — Fri, 31 Jul 2026
-- IDB Rooftop by Mirari, Lisbon — Fri, 24 Jul 2026
-- Carmo Rooftop, Lisbon — Sun, 12 Jul 2026
+- Carmo Rooftop, Lisbon · Sun, 20 Sept 2026
+- Village Underground Lisboa, Lisbon · Fri, 11 Sept 2026
+- Cavo Rooftop, Lisbon · Sun, 6 Sept 2026
+- Cavo Rooftop, Lisbon · Sun, 30 Aug 2026
+- Carmo Rooftop, Lisbon · Sun, 23 Aug 2026
+- Plano B, Porto · Fri, 31 Jul 2026
+- IDB Rooftop by Mirari, Lisbon · Fri, 24 Jul 2026
+- Carmo Rooftop, Lisbon · Sun, 12 Jul 2026
 
 ## Shares bills with
 

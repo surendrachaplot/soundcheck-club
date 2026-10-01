@@ -1,6 +1,6 @@
 # TAKTGEFÜHL VOL.2 at Club Lucia
 
-TAKTGEFÜHL VOL.2 at Club Lucia on Fri 11 Dec, Vienna. 1 artist on the bill: Chiara Allnutt. Trance and Techno. Preview the line-up and save it on soundcheck.
+TAKTGEFÜHL VOL.2 at Club Lucia on Fri 11 Dec, Vienna. 1 artist: Chiara Allnutt. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Division Sounds presents: Night Of The Dead Halloween Special Part 2 at Basing House
 
-Division Sounds presents: Night Of The Dead Halloween Special Part 2 at Basing House on Fri 30 Oct, London. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+Division Sounds presents: Night Of The Dead Halloween Special Part 2 at Basing House on Fri 30 Oct, London. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TUNNEL presents Daniel Avery & NIGHT manoeuvres at TBA
 
-TUNNEL presents Daniel Avery & NIGHT manoeuvres at TBA on Sat 19 Dec, Greece. 2 artists on the bill: Daniel Avery and NIGHT manoeuvres. Preview the line-up and save it on soundcheck.
+TUNNEL presents Daniel Avery & NIGHT manoeuvres at TBA on Sat 19 Dec, Greece. 2 artists: Daniel Avery and NIGHT manoeuvres. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Polyphonic Pop-Up at T.O.P.P at renae
 
-Polyphonic Pop-Up at T.O.P.P at renae on Thu 15 Oct, Manchester. 3 artists on the bill: Gaka, JustElliot and Matteo Dose. House and Deep House. Preview the line-up and save it on soundcheck.
+Polyphonic Pop-Up at T.O.P.P at renae on Thu 15 Oct, Manchester. 3 artists: Gaka, JustElliot and Matteo Dose. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

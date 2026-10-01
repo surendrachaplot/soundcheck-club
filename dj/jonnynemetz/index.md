@@ -1,8 +1,8 @@
 # Jonny Nemetz
 
-Jonny Nemetz is a Ambient and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Shh Listening Bar, Vienna on Sat, 3 Oct 2026.
+Jonny Nemetz is a Ambient and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Shh Listening Bar, Vienna on Sat, 3 Oct 2026.
 
-Jonny Nemetz is an ambient and electronica artist based in Austria, tracked on soundcheck, with 9 sets logged across Berlin and Vienna. Often billed alongside Jonatore, Alexandra Marr and Gostoso. Next up: Shh Listening Bar, Vienna on Sat 3 Oct.
+Jonny Nemetz is an ambient and electronica artist based in Austria, with 9 gigs on soundcheck across Berlin and Vienna. Often billed alongside Jonatore, Alexandra Marr and Gostoso. Next up: Shh Listening Bar, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Jonny Nemetz is an ambient and electronica artist based in Austria, tracked on s
 
 ## Recently played
 
-- PRST, Vienna — Sat, 7 Mar 2026
-- Paloma, Berlin — Sat, 11 Oct 2025
-- Volksgarten Pavillon, Vienna — Wed, 14 Aug 2024
-- Usus am Wasser, Vienna — Sat, 20 Jul 2024
-- PRST, Vienna — Sat, 2 Mar 2024
-- SASS Music Club, Vienna — Sat, 24 Feb 2024
+- PRST, Vienna · Sat, 7 Mar 2026
+- Paloma, Berlin · Sat, 11 Oct 2025
+- Volksgarten Pavillon, Vienna · Wed, 14 Aug 2024
+- Usus am Wasser, Vienna · Sat, 20 Jul 2024
+- PRST, Vienna · Sat, 2 Mar 2024
+- SASS Music Club, Vienna · Sat, 24 Feb 2024
 
 ## Shares bills with
 

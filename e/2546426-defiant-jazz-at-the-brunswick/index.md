@@ -1,6 +1,6 @@
 # Defiant Jazz at The Brunswick
 
-Defiant Jazz at The Brunswick on Fri 2 Oct, Brighton. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Defiant Jazz at The Brunswick on Fri 2 Oct, Brighton. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

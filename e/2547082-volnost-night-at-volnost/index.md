@@ -1,6 +1,6 @@
 # Volnost Night at Volnost
 
-Volnost Night on Sat 10 Oct, Seoul. 3 artists on the bill: ASYNC, ccb and odkis. Techno. Preview the line-up and save it on soundcheck.
+Volnost Night on Sat 10 Oct, Seoul. 3 artists: ASYNC, ccb and odkis. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

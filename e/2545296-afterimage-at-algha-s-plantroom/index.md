@@ -1,6 +1,6 @@
 # afterimage at Algha's Plantroom
 
-afterimage at Algha's Plantroom on Thu 15 Oct, London. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+afterimage at Algha's Plantroom on Thu 15 Oct, London. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

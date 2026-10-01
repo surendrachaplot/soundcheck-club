@@ -1,6 +1,6 @@
 # DJ MINOYAMA, DAH-ISHI & ISABELLE at DJ Bar Bridge
 
-DJ MINOYAMA, DAH-ISHI & ISABELLE at DJ Bar Bridge on Mon 12 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+DJ MINOYAMA, DAH-ISHI & ISABELLE at DJ Bar Bridge on Mon 12 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

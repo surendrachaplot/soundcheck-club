@@ -1,8 +1,8 @@
 # The Castle & Falcon
 
-The Castle & Falcon is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "A Guy Called Gerald - Live In Session" on Wed, 4 Nov 2026.
+The Castle & Falcon is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "A Guy Called Gerald - Live In Session" on Wed, 4 Nov 2026.
 
-The Castle & Falcon is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including Adam F and A Guy Called Gerald. Browse upcoming dates, start times and who's playing. 402 Moseley Rd, Balsall Heath, Birmingham B12 9AT.
+The Castle & Falcon is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including Adam F and A Guy Called Gerald. See dates, start times and who's playing. 402 Moseley Rd, Balsall Heath, Birmingham B12 9AT.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Jasmine Kahlia - Canary Wharf Murals: Black History Month at Canary Wharf Pier
 
-Jasmine Kahlia - Canary Wharf Murals: Black History Month at Canary Wharf Pier on Thu 1 Oct, London. Preview the line-up and save it on soundcheck.
+Jasmine Kahlia - Canary Wharf Murals: Black History Month at Canary Wharf Pier on Thu 1 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

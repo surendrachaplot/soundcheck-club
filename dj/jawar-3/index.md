@@ -1,8 +1,8 @@
 # JAWAR (3)
 
-JAWAR (3) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Dead Letter No. 9, New York City on Fri, 2 Oct 2026.
+JAWAR (3) is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 2 Oct 2026.
 
-JAWAR is a house and deep house artist based in Mexico, tracked on soundcheck, with 29 sets logged across Mexico City, Miami and New York City. Often billed alongside papa jazz, Barreto and Irena Stanisic. Next up: Dead Letter No. 9, New York City on Fri 2 Oct.
+JAWAR is a house and deep house artist based in Mexico, with 29 gigs on soundcheck across Mexico City, Miami and New York City. Often billed alongside papa jazz, Barreto and Irena Stanisic. Next up: Dead Letter No. 9, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ JAWAR is a house and deep house artist based in Mexico, tracked on soundcheck, w
 
 ## Recently played
 
-- Fünk, Mexico City — Fri, 4 Sept 2026
-- Departamento, Mexico City — Wed, 19 Aug 2026
-- Departamento, Mexico City — Wed, 10 Jun 2026
-- Drama Radio Bar, Mexico City — Tue, 9 Jun 2026
-- Dead Letter No. 9, New York City — Sat, 9 May 2026
-- Outer Heaven, New York City — Sat, 18 Apr 2026
-- Lion's Den, Miami — Sat, 4 Apr 2026
-- Good Room, New York City — Fri, 27 Feb 2026
+- Fünk, Mexico City · Fri, 4 Sept 2026
+- Departamento, Mexico City · Wed, 19 Aug 2026
+- Departamento, Mexico City · Wed, 10 Jun 2026
+- Drama Radio Bar, Mexico City · Tue, 9 Jun 2026
+- Dead Letter No. 9, New York City · Sat, 9 May 2026
+- Outer Heaven, New York City · Sat, 18 Apr 2026
+- Lion's Den, Miami · Sat, 4 Apr 2026
+- Good Room, New York City · Fri, 27 Feb 2026
 
 ## Shares bills with
 

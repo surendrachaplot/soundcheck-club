@@ -1,6 +1,6 @@
 # BEATE HAT SEHNSUCHT at Beate Uwe
 
-BEATE HAT SEHNSUCHT at Beate Uwe on Fri 16 Oct, Berlin. 2 artists on the bill: Dydaa Forne and Klyde Tribes. Tech House and Downtempo. Preview the line-up and save it on soundcheck.
+BEATE HAT SEHNSUCHT at Beate Uwe on Fri 16 Oct, Berlin. 2 artists: Dydaa Forne and Klyde Tribes. Tech House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

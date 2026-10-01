@@ -1,6 +1,6 @@
 # Hawā Halloween - Friday, 31.10.2026 at Airport Düsseldorf
 
-Hawā Halloween - Friday, 31.10.2026 at Airport Düsseldorf on Sat 31 Oct, Düsseldorf. 1 artist on the bill: Jonathan Kaspar. House and Electro. Preview the line-up and save it on soundcheck.
+Hawā Halloween - Friday, 31.10.2026 at Airport Düsseldorf on Sat 31 Oct, Düsseldorf. 1 artist: Jonathan Kaspar. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

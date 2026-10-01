@@ -1,8 +1,8 @@
 # Moondog Cafe
 
-Moondog Cafe is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "LIBERATION TECHNOLOGY" on Sat, 3 Oct 2026.
+Moondog Cafe is a music venue in Detroit with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "LIBERATION TECHNOLOGY" on Sat, 3 Oct 2026.
 
-Moondog Cafe is a music venue in Detroit listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
+Moondog Cafe is a music venue in Detroit listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 8045 Linwood St #2, Detroit, MI 48206.
 
 ## What's on
 

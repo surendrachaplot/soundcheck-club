@@ -1,6 +1,6 @@
 # DEVIANCE PARIS PRIDE Party + After at Workshow
 
-DEVIANCE PARIS PRIDE Party + After at Workshow on Sat 3 Oct, Paris. Electro. Preview the line-up and save it on soundcheck.
+DEVIANCE PARIS PRIDE Party + After at Workshow on Sat 3 Oct, Paris. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

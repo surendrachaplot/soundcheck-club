@@ -1,8 +1,8 @@
 # Sterling Juan Diaz
 
-Sterling Juan Diaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at H0L0, New York City on Sat, 24 Oct 2026.
+Sterling Juan Diaz is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Sat, 24 Oct 2026.
 
-Sterling Juan Diaz is a house and techno artist based in United States of America, tracked on soundcheck, with 128 sets logged across Berlin, Chicago, Leipzig and Los Angeles and 5 more. Often billed alongside Sekucci, ALEXIS DE LA ROSA and Josh Steers. Next up: H0L0, New York City on Sat 24 Oct.
+Sterling Juan Diaz is a house and techno artist based in United States of America, with 128 gigs on soundcheck across Berlin, Chicago, Leipzig and Los Angeles and 5 more. Often billed alongside Sekucci, ALEXIS DE LA ROSA and Josh Steers. Next up: H0L0, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sterling Juan Diaz is a house and techno artist based in United States of Americ
 
 ## Recently played
 
-- TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago — Fri, 25 Sept 2026
-- Club Rawhide, New York City — Fri, 25 Sept 2026
-- TRANSMISSION DC, Washington DC — Sat, 19 Sept 2026
-- Signal, New York City — Sat, 12 Sept 2026
-- Rote Sonne, Munich — Sat, 5 Sept 2026
-- ÆDEN, Berlin — Fri, 4 Sept 2026
-- The White Hotel, Manchester — Sat, 29 Aug 2026
-- Paragon, New York City — Sun, 9 Aug 2026
+- TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago · Fri, 25 Sept 2026
+- Club Rawhide, New York City · Fri, 25 Sept 2026
+- TRANSMISSION DC, Washington DC · Sat, 19 Sept 2026
+- Signal, New York City · Sat, 12 Sept 2026
+- Rote Sonne, Munich · Sat, 5 Sept 2026
+- ÆDEN, Berlin · Fri, 4 Sept 2026
+- The White Hotel, Manchester · Sat, 29 Aug 2026
+- Paragon, New York City · Sun, 9 Aug 2026
 
 ## Shares bills with
 

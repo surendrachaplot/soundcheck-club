@@ -1,8 +1,8 @@
 # Gerhard
 
-Gerhard is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Mexico City on Fri, 23 Oct 2026.
+Gerhard is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Mexico City on Fri, 23 Oct 2026.
 
-Gerhard is an electronica and house artist based in Mexico, tracked on soundcheck, with 21 sets logged across Mexico City. Often billed alongside Maseriche, Seagit Arc and EM2K. Next up: TBA, Mexico City on Fri 23 Oct.
+Gerhard is an electronica and house artist based in Mexico, with 21 gigs on soundcheck across Mexico City. Often billed alongside Maseriche, Seagit Arc and EM2K. Next up: TBA, Mexico City on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Gerhard is an electronica and house artist based in Mexico, tracked on soundchec
 
 ## Recently played
 
-- Rei Room, Mexico City — Sat, 22 Aug 2026
-- Drama Radio Bar, Mexico City — Tue, 2 Jun 2026
-- Drama Radio Bar, Mexico City — Tue, 7 Apr 2026
-- Drama Radio Bar, Mexico City — Thu, 12 Mar 2026
-- Centanni, Mexico City — Fri, 27 Feb 2026
-- TBA, Mexico City — Fri, 27 Feb 2026
-- Drama Radio Bar, Mexico City — Thu, 20 Nov 2025
-- MAAD, Mexico City — Sat, 30 Aug 2025
+- Rei Room, Mexico City · Sat, 22 Aug 2026
+- Drama Radio Bar, Mexico City · Tue, 2 Jun 2026
+- Drama Radio Bar, Mexico City · Tue, 7 Apr 2026
+- Drama Radio Bar, Mexico City · Thu, 12 Mar 2026
+- Centanni, Mexico City · Fri, 27 Feb 2026
+- TBA, Mexico City · Fri, 27 Feb 2026
+- Drama Radio Bar, Mexico City · Thu, 20 Nov 2025
+- MAAD, Mexico City · Sat, 30 Aug 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # LOSTBOYJAY
 
-LOSTBOYJAY is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Twenty Two, Dublin on Fri, 9 Oct 2026.
+LOSTBOYJAY is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Twenty Two, Dublin on Fri, 9 Oct 2026.
 
-LOSTBOYJAY is a house and deep house artist based in Canada, tracked on soundcheck, with 21 sets logged across Austin, Brisbane, Chicago and Denver and 9 more. Often billed alongside Keys N Krates, Andrew Pololos and Armand Van Helden. Next up: Twenty Two, Dublin on Fri 9 Oct.
+LOSTBOYJAY is a house and deep house artist based in Canada, with 21 gigs on soundcheck across Austin, Brisbane, Chicago and Denver and 9 more. Often billed alongside Keys N Krates, Andrew Pololos and Armand Van Helden. Next up: Twenty Two, Dublin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ LOSTBOYJAY is a house and deep house artist based in Canada, tracked on soundche
 
 ## Recently played
 
-- Elsewhere, New York City — Sat, 26 Sept 2026
-- TBA, Toronto — Fri, 28 Aug 2026
-- Ora, Seattle — Fri, 31 Jul 2026
-- Larimer Lounge, Denver — Sat, 25 Jul 2026
-- Newspeak, Montreal — Sat, 27 Jun 2026
-- Floyd, Miami — Sun, 31 May 2026
-- Rex Club, Paris — Thu, 15 Jan 2026
-- Skyline Drive In NYC - On The Waterfront, New York City — Sat, 30 Aug 2025
+- Elsewhere, New York City · Sat, 26 Sept 2026
+- TBA, Toronto · Fri, 28 Aug 2026
+- Ora, Seattle · Fri, 31 Jul 2026
+- Larimer Lounge, Denver · Sat, 25 Jul 2026
+- Newspeak, Montreal · Sat, 27 Jun 2026
+- Floyd, Miami · Sun, 31 May 2026
+- Rex Club, Paris · Thu, 15 Jan 2026
+- Skyline Drive In NYC - On The Waterfront, New York City · Sat, 30 Aug 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Bounce By The Ounce x UOS DJ SOC presents: DJ BAX & FRIENDS at FORGE
 
-Bounce By The Ounce x UOS DJ SOC presents: DJ BAX & FRIENDS at FORGE on Fri 16 Oct, Sheffield. Trance and Acid. Preview the line-up and save it on soundcheck.
+Bounce By The Ounce x UOS DJ SOC presents: DJ BAX & FRIENDS at FORGE on Fri 16 Oct, Sheffield. Trance and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

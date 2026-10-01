@@ -1,6 +1,6 @@
 # Baila Ritmo W/ José Fajardo ANL at Goya Social Club
 
-Baila Ritmo W/ José Fajardo ANL at Goya Social Club on Fri 2 Oct, Madrid. 1 artist on the bill: jose fajardo. House. Preview the line-up and save it on soundcheck.
+Baila Ritmo W/ José Fajardo ANL at Goya Social Club on Fri 2 Oct, Madrid. 1 artist: jose fajardo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

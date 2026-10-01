@@ -1,6 +1,6 @@
 # Nite Freak at Zumana Bali
 
-Nite Freak at Zumana Bali on Wed 21 Oct, Bali. 1 artist on the bill: Nitefreak. House and Afro House. Preview the line-up and save it on soundcheck.
+Nite Freak at Zumana Bali on Wed 21 Oct, Bali. 1 artist: Nitefreak. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

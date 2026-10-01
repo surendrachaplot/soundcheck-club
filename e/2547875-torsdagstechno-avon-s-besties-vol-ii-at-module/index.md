@@ -1,6 +1,6 @@
 # TorsdagsTechno: avoN's Besties VOL II at MODULE
 
-TorsdagsTechno: avoN's Besties VOL II at MODULE on Thu 8 Oct, Copenhagen. 4 artists on the bill: avoN, B From E, SILK! and vazkez. Trance and Techno. Preview the line-up and save it on soundcheck.
+TorsdagsTechno: avoN's Besties VOL II at MODULE on Thu 8 Oct, Copenhagen. 4 artists: avoN, B From E, SILK! and vazkez. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

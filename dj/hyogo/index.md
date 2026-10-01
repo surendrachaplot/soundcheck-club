@@ -1,8 +1,8 @@
 # Hyōgo
 
-Hyōgo is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Process PDX, Portland on Sat, 24 Oct 2026.
+Hyōgo is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Process PDX, Portland on Sat, 24 Oct 2026.
 
-Hyōgo is a trance and progressive house artist tracked on soundcheck, with 12 sets logged across New York City and Portland. Often billed alongside Eklektik_Etnik, MTHR TRSA and Zeigler. Next up: Process PDX, Portland on Sat 24 Oct.
+Hyōgo is a trance and progressive house artist, with 12 gigs on soundcheck across New York City and Portland. Often billed alongside Eklektik_Etnik, MTHR TRSA and Zeigler. Next up: Process PDX, Portland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Hyōgo is a trance and progressive house artist tracked on soundcheck, with 12 s
 
 ## Recently played
 
-- Oberon, New York City — Fri, 18 Sept 2026
-- Loafers Cocktail Bar, New York City — Sat, 13 Jun 2026
-- KEYBAR, New York City — Fri, 12 Jun 2026
-- Loafers Cocktail Bar, New York City — Sat, 4 Apr 2026
-- Loafers Cocktail Bar, New York City — Sat, 21 Mar 2026
-- Loafers Cocktail Bar, New York City — Sat, 7 Mar 2026
-- Loafers Cocktail Bar, New York City — Sat, 21 Feb 2026
-- Loafers Cocktail Bar, New York City — Sat, 7 Feb 2026
+- Oberon, New York City · Fri, 18 Sept 2026
+- Loafers Cocktail Bar, New York City · Sat, 13 Jun 2026
+- KEYBAR, New York City · Fri, 12 Jun 2026
+- Loafers Cocktail Bar, New York City · Sat, 4 Apr 2026
+- Loafers Cocktail Bar, New York City · Sat, 21 Mar 2026
+- Loafers Cocktail Bar, New York City · Sat, 7 Mar 2026
+- Loafers Cocktail Bar, New York City · Sat, 21 Feb 2026
+- Loafers Cocktail Bar, New York City · Sat, 7 Feb 2026
 
 ## Shares bills with
 

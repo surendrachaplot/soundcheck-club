@@ -1,6 +1,6 @@
 # Boris Brejcha La Fabrica Córdoba at La Fabrica
 
-Boris Brejcha La Fabrica Córdoba on Fri 16 Oct, Argentina. 1 artist on the bill: Boris Brejcha. Preview the line-up and save it on soundcheck.
+Boris Brejcha La Fabrica Córdoba on Fri 16 Oct, Argentina. 1 artist: Boris Brejcha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

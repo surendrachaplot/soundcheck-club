@@ -1,8 +1,8 @@
 # AMVN
 
-AMVN is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Rotunde, Bochum on Sat, 10 Oct 2026.
+AMVN is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Rotunde, Bochum on Sat, 10 Oct 2026.
 
-AMVN is a techno and trance artist based in Morocco, tracked on soundcheck, with 6 sets logged across Bochum, Frankfurt and London. Often billed alongside A.T.E.K, Ahadadream and Anil (UK). Next up: Rotunde, Bochum on Sat 10 Oct.
+AMVN is a techno and trance artist based in Morocco, with 6 gigs on soundcheck across Bochum, Frankfurt and London. Often billed alongside A.T.E.K, Ahadadream and Anil (UK). Next up: Rotunde, Bochum on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ AMVN is a techno and trance artist based in Morocco, tracked on soundcheck, with
 
 ## Recently played
 
-- K39, Frankfurt — Sat, 4 Jul 2026
-- Various Venues, London — Sat, 30 May 2026
-- Planet Wax, London — Fri, 28 Feb 2025
-- Roof 175, Frankfurt — Sat, 16 Mar 2024
-- Roof 175, Frankfurt — Fri, 10 Nov 2023
+- K39, Frankfurt · Sat, 4 Jul 2026
+- Various Venues, London · Sat, 30 May 2026
+- Planet Wax, London · Fri, 28 Feb 2025
+- Roof 175, Frankfurt · Sat, 16 Mar 2024
+- Roof 175, Frankfurt · Fri, 10 Nov 2023
 
 ## Shares bills with
 

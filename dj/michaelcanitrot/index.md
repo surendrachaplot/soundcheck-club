@@ -1,8 +1,8 @@
 # Michael Canitrot
 
-Michael Canitrot is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at E1, London on Sat, 21 Nov 2026.
+Michael Canitrot is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Sat, 21 Nov 2026.
 
-Michael Canitrot is a techno and progressive house artist based in France, tracked on soundcheck, with 12 sets logged across Amsterdam, Basel, Berlin and Dublin and 3 more. Often billed alongside Max Menaged, ANII and Beat Inside. Next up: E1, London on Sat 21 Nov.
+Michael Canitrot is a techno and progressive house artist based in France, with 12 gigs on soundcheck across Amsterdam, Basel, Berlin and Dublin and 3 more. Often billed alongside Max Menaged, ANII and Beat Inside. Next up: E1, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Michael Canitrot is a techno and progressive house artist based in France, track
 
 ## Recently played
 
-- Outernet, London — Sat, 4 Apr 2026
-- block., Dublin — Sat, 29 Nov 2025
-- Nordstern, Basel — Sat, 1 Nov 2025
-- Troxy, London — Fri, 31 Oct 2025
-- Panama, Amsterdam — Thu, 23 Oct 2025
-- LAB theCLUB, Madrid — Fri, 3 Oct 2025
-- KOKO, London — Sat, 20 Jul 2024
-- Tour Eiffel, Paris — Wed, 27 Dec 2023
+- Outernet, London · Sat, 4 Apr 2026
+- block., Dublin · Sat, 29 Nov 2025
+- Nordstern, Basel · Sat, 1 Nov 2025
+- Troxy, London · Fri, 31 Oct 2025
+- Panama, Amsterdam · Thu, 23 Oct 2025
+- LAB theCLUB, Madrid · Fri, 3 Oct 2025
+- KOKO, London · Sat, 20 Jul 2024
+- Tour Eiffel, Paris · Wed, 27 Dec 2023
 
 ## Shares bills with
 

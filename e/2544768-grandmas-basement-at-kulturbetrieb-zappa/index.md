@@ -1,6 +1,6 @@
 # Grandmas Basement at Kulturbetrieb Zappa
 
-Grandmas Basement at Kulturbetrieb Zappa on Sat 3 Oct, Stuttgart. Techno. Preview the line-up and save it on soundcheck.
+Grandmas Basement at Kulturbetrieb Zappa on Sat 3 Oct, Stuttgart. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Inner West
 
-Inner West is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at NDR2 Red Room, London on Sat, 3 Oct 2026.
+Inner West is a Deep House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NDR2 Red Room, London on Sat, 3 Oct 2026.
 
-Inner West is a deep house and tech house artist based in Australia, tracked on soundcheck, with 14 sets logged across Belfast, London and Sydney. Often billed alongside Data Flow, Mannequin and Steamy Bumplings. Next up: NDR2 Red Room, London on Sat 3 Oct.
+Inner West is a deep house and tech house artist based in Australia, with 14 gigs on soundcheck across Belfast, London and Sydney. Often billed alongside Data Flow, Mannequin and Steamy Bumplings. Next up: NDR2 Red Room, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Inner West is a deep house and tech house artist based in Australia, tracked on 
 
 ## Recently played
 
-- The Glove That Fits, London — Fri, 10 Jul 2026
-- The Ulster Sports Club, Belfast — Wed, 31 Dec 2025
-- Next Door Records, London — Sat, 23 Aug 2025
-- All My Friends, London — Thu, 24 Jul 2025
-- Starlane Pizza Bar, London — Fri, 30 May 2025
-- Hackney Bridge, London — Sat, 24 May 2025
-- Bricks, London — Sat, 15 Mar 2025
-- Next Door Records Two, London — Sun, 16 Feb 2025
+- The Glove That Fits, London · Fri, 10 Jul 2026
+- The Ulster Sports Club, Belfast · Wed, 31 Dec 2025
+- Next Door Records, London · Sat, 23 Aug 2025
+- All My Friends, London · Thu, 24 Jul 2025
+- Starlane Pizza Bar, London · Fri, 30 May 2025
+- Hackney Bridge, London · Sat, 24 May 2025
+- Bricks, London · Sat, 15 Mar 2025
+- Next Door Records Two, London · Sun, 16 Feb 2025
 
 ## Shares bills with
 

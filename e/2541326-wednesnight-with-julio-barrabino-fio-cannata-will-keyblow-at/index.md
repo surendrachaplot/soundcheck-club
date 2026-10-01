@@ -1,6 +1,6 @@
 # Wednesnight with Julio Barrabino, Fio Cannata, Will, Keyblow at Garage 442
 
-Wednesnight with Julio Barrabino, Fio Cannata, Will, Keyblow at Garage 442 on Wed 7 Oct, Barcelona. 2 artists on the bill: Keyblow and Will (ES). Preview the line-up and save it on soundcheck.
+Wednesnight with Julio Barrabino, Fio Cannata, Will, Keyblow at Garage 442 on Wed 7 Oct, Barcelona. 2 artists: Keyblow and Will (ES). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

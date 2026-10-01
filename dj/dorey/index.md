@@ -1,8 +1,8 @@
 # DOREY
 
-DOREY is a House and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Village Underground, London on Sat, 3 Oct 2026.
+DOREY is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Village Underground, London on Sat, 3 Oct 2026.
 
-DOREY is a house and trance artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Aberdeen, Amsterdam, Dundee and Glasgow and 2 more. Often billed alongside Céleste, AKA DISPLAY and Amy Wiles. Next up: Village Underground, London on Sat 3 Oct.
+DOREY is a house and trance artist based in United Kingdom, with 13 gigs on soundcheck across Aberdeen, Amsterdam, Dundee and Glasgow and 2 more. Often billed alongside Céleste, AKA DISPLAY and Amy Wiles. Next up: Village Underground, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DOREY is a house and trance artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- TBA, Glasgow — Fri, 8 May 2026
-- The Berkeley Suite, Glasgow — Fri, 30 Jan 2026
-- TBA - House of Gods (Glasgow), Glasgow — Thu, 15 Jan 2026
-- Shelter Amsterdam, Amsterdam — Sat, 3 Jan 2026
-- The Berkeley Suite, Glasgow — Thu, 2 Oct 2025
-- The Berkeley Suite, Glasgow — Fri, 29 Aug 2025
-- TBA, Dundee — Sat, 5 Jul 2025
-- Unit 51, Aberdeen — Sat, 14 Dec 2024
+- TBA, Glasgow · Fri, 8 May 2026
+- The Berkeley Suite, Glasgow · Fri, 30 Jan 2026
+- TBA - House of Gods (Glasgow), Glasgow · Thu, 15 Jan 2026
+- Shelter Amsterdam, Amsterdam · Sat, 3 Jan 2026
+- The Berkeley Suite, Glasgow · Thu, 2 Oct 2025
+- The Berkeley Suite, Glasgow · Fri, 29 Aug 2025
+- TBA, Dundee · Sat, 5 Jul 2025
+- Unit 51, Aberdeen · Sat, 14 Dec 2024
 
 ## Shares bills with
 

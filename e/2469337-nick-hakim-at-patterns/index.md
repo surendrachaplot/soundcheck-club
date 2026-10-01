@@ -1,6 +1,6 @@
 # Nick Hakim at Patterns
 
-Nick Hakim at Patterns on Sat 7 Nov, Brighton. Hip-Hop. Preview the line-up and save it on soundcheck.
+Nick Hakim at Patterns on Sat 7 Nov, Brighton. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

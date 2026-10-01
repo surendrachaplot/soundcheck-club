@@ -1,6 +1,6 @@
 # mophing people presents 'res andres' Release Japan Tour 2026 at Socore Factory
 
-mophing people presents 'res andres' Release Japan Tour 2026 at Socore Factory on Fri 9 Oct, Osaka. Preview the line-up and save it on soundcheck.
+mophing people presents 'res andres' Release Japan Tour 2026 at Socore Factory on Fri 9 Oct, Osaka. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

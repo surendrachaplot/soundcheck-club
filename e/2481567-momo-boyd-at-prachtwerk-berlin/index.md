@@ -1,6 +1,6 @@
 # MOMO BOYD at Prachtwerk Berlin
 
-MOMO BOYD at Prachtwerk Berlin on Mon 2 Nov, Berlin. Pop and R&B. Preview the line-up and save it on soundcheck.
+MOMO BOYD at Prachtwerk Berlin on Mon 2 Nov, Berlin. Pop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

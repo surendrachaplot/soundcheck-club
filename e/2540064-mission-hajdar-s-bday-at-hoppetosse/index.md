@@ -1,6 +1,6 @@
 # Mission: Hajdar's Bday at Hoppetosse
 
-Mission: Hajdar's Bday at Hoppetosse on Sat 10 Oct, Berlin. 3 artists on the bill: Dorian Paic, Franco Cinelli and Tobi Neumann. Preview the line-up and save it on soundcheck.
+Mission: Hajdar's Bday at Hoppetosse on Sat 10 Oct, Berlin. 3 artists: Dorian Paic, Franco Cinelli and Tobi Neumann. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

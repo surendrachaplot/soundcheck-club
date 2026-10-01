@@ -1,6 +1,6 @@
 # BAJO CERO (ROOMIIX x Metamorphic Experience) at Diablo Negro
 
-BAJO CERO (ROOMIIX x Metamorphic Experience) at Diablo Negro on Fri 6 Nov, Mexico City. Techno. Preview the line-up and save it on soundcheck.
+BAJO CERO (ROOMIIX x Metamorphic Experience) at Diablo Negro on Fri 6 Nov, Mexico City. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

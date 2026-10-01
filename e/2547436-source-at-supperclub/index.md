@@ -1,6 +1,6 @@
 # Source at Supperclub
 
-Source at Supperclub on Thu 8 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+Source at Supperclub on Thu 8 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

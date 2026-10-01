@@ -1,6 +1,6 @@
 # Lichtblick in Odonien at Odonien
 
-Lichtblick in Odonien on Sat 21 Nov, Cologne. Techno. Preview the line-up and save it on soundcheck.
+Lichtblick in Odonien on Sat 21 Nov, Cologne. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

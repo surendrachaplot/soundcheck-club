@@ -1,6 +1,6 @@
 # Vestalia w/ Neel, Future Nomadz, Stefania Vos, Enea Pascal, Filippo Scorcucchi at Bunker
 
-Vestalia w/ Neel, Future Nomadz, Stefania Vos, Enea Pascal, Filippo Scorcucchi at Bunker on Fri 9 Oct, Turin. 3 artists on the bill: Future Nomadz, Neel and Stefania Vos. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Vestalia w/ Neel, Future Nomadz, Stefania Vos, Enea Pascal, Filippo Scorcucchi at Bunker on Fri 9 Oct, Turin. 3 artists: Future Nomadz, Neel and Stefania Vos. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

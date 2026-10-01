@@ -1,6 +1,6 @@
 # VANTA EVENTS — NIGHTFALL at TBA - Secret Location - Naples
 
-VANTA EVENTS — NIGHTFALL at TBA - Secret Location - Naples on Sun 4 Oct, Naples. Techno and Industrial. Preview the line-up and save it on soundcheck.
+VANTA EVENTS — NIGHTFALL at TBA - Secret Location - Naples on Sun 4 Oct, Naples. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

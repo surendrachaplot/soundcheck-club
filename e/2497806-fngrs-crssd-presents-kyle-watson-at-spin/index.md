@@ -1,6 +1,6 @@
 # FNGRS CRSSD presents Kyle Watson at Spin
 
-FNGRS CRSSD presents Kyle Watson at Spin on Fri 30 Oct, San Diego. 1 artist on the bill: Kyle Watson. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD presents Kyle Watson at Spin on Fri 30 Oct, San Diego. 1 artist: Kyle Watson. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

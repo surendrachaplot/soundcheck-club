@@ -1,6 +1,6 @@
 # CircoLoco New York at Brooklyn Storehouse
 
-CircoLoco New York at Brooklyn Storehouse on Sat 31 Oct, New York City. 7 artists on the bill: Aline Umber, ANOTR, Dixon and Jamback and 3 more. Preview the line-up and save it on soundcheck.
+CircoLoco New York at Brooklyn Storehouse on Sat 31 Oct, New York City. 7 artists: Aline Umber, ANOTR, Dixon and Jamback and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

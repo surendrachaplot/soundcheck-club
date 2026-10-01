@@ -1,6 +1,6 @@
 # Stretch w/ Stunte at Hafenbahnhof
 
-Stretch w/ Stunte at Hafenbahnhof on Fri 2 Oct, Hamburg. Preview the line-up and save it on soundcheck.
+Stretch w/ Stunte at Hafenbahnhof on Fri 2 Oct, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

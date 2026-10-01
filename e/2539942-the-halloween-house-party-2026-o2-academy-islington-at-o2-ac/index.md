@@ -1,6 +1,6 @@
 # The Halloween House Party 2026 - O2 Academy Islington at O2 Academy Islington
 
-The Halloween House Party 2026 - O2 Academy Islington on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+The Halloween House Party 2026 - O2 Academy Islington on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

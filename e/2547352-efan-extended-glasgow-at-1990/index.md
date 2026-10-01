@@ -1,6 +1,6 @@
 # Efan:EXTENDED [Glasgow] at 1990
 
-Efan:EXTENDED [Glasgow] at 1990 on Fri 20 Nov, Glasgow. 3 artists on the bill: Efan, hiRobbie and SEAH. Garage and Jungle. Preview the line-up and save it on soundcheck.
+Efan:EXTENDED [Glasgow] at 1990 on Fri 20 Nov, Glasgow. 3 artists: Efan, hiRobbie and SEAH. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

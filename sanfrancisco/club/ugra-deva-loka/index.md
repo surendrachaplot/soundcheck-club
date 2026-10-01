@@ -1,8 +1,8 @@
 # Ugra Deva Loka
 
-Ugra Deva Loka is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "TRALPHAZ, PCRV, BLOOD OF CHHINNAMASTIKA, SURRURALISTS, SHUTTERED" on Thu, 15 Oct 2026.
+Ugra Deva Loka is a music venue in San Francisco/Oakland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "TRALPHAZ, PCRV, BLOOD OF CHHINNAMASTIKA, SURRURALISTS, SHUTTERED" on Thu, 15 Oct 2026.
 
-Ugra Deva Loka is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+Ugra Deva Loka is a music venue in San Francisco/Oakland listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

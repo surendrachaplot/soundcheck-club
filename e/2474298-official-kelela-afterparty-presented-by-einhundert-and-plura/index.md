@@ -1,6 +1,6 @@
 # Official Kelela Afterparty - presented by Einhundert and Plural Artist Management at OHM
 
-Official Kelela Afterparty - presented by Einhundert and Plural Artist Management at OHM on Thu 29 Oct, Berlin. Club and R&B. Preview the line-up and save it on soundcheck.
+Official Kelela Afterparty - presented by Einhundert and Plural Artist Management at OHM on Thu 29 Oct, Berlin. Club and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

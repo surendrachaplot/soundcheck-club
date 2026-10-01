@@ -1,6 +1,6 @@
 # Studio: House & Disco at The Back Room Leeds
 
-Studio: House & Disco at The Back Room Leeds on Thu 1 Oct, Leeds. House and Disco. Preview the line-up and save it on soundcheck.
+Studio: House & Disco at The Back Room Leeds on Thu 1 Oct, Leeds. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

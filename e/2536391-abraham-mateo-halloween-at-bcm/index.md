@@ -1,6 +1,6 @@
 # ABRAHAM MATEO - HALLOWEEN at BCM
 
-ABRAHAM MATEO - HALLOWEEN at BCM on Sat 31 Oct, Mallorca. Reggaeton. Preview the line-up and save it on soundcheck.
+ABRAHAM MATEO - HALLOWEEN at BCM on Sat 31 Oct, Mallorca. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

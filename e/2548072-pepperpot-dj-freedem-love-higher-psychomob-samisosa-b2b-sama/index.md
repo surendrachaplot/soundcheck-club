@@ -1,6 +1,6 @@
 # PEPPERPOT: DJ Freedem, Love Higher, PSYCHOMOB, samisosa B2B Samantha DaSilva at Honey's
 
-PEPPERPOT: DJ Freedem, Love Higher, PSYCHOMOB, samisosa B2B Samantha DaSilva at Honey's on Thu 15 Oct, New York City. 4 artists on the bill: DJ Freedem, Love Higher, Samantha DaSilva and samisosa. Club. Preview the line-up and save it on soundcheck.
+PEPPERPOT: DJ Freedem, Love Higher, PSYCHOMOB, samisosa B2B Samantha DaSilva at Honey's on Thu 15 Oct, New York City. 4 artists: DJ Freedem, Love Higher, Samantha DaSilva and samisosa. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

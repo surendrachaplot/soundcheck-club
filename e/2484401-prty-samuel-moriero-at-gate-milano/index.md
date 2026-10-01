@@ -1,6 +1,6 @@
 # PRTY: SAMUEL MORIERO at Gate Milano
 
-PRTY: SAMUEL MORIERO at Gate Milano on Fri 6 Nov, Milan. 1 artist on the bill: Samuel Moriero. Preview the line-up and save it on soundcheck.
+PRTY: SAMUEL MORIERO at Gate Milano on Fri 6 Nov, Milan. 1 artist: Samuel Moriero. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

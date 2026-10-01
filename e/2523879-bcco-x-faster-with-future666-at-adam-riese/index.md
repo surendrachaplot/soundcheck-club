@@ -1,6 +1,6 @@
 # BCCO X FASTER with Future666 at Adam Riese
 
-BCCO X FASTER with Future666 at Adam Riese on Fri 11 Dec, Frankfurt. Techno. Preview the line-up and save it on soundcheck.
+BCCO X FASTER with Future666 at Adam Riese on Fri 11 Dec, Frankfurt. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

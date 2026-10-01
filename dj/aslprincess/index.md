@@ -1,8 +1,8 @@
 # ASL Princess
 
-ASL Princess is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Detroit on Fri, 2 Oct 2026.
+ASL Princess is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Detroit on Fri, 2 Oct 2026.
 
-ASL Princess is a techno and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across Chicago, Denver, Detroit and New York City. Often billed alongside ARCHANGEL (US), Flores Negras and Miss Twink USA. Next up: TBA, Detroit on Fri 2 Oct.
+ASL Princess is a techno and club artist based in United States of America, with 23 gigs on soundcheck across Chicago, Denver, Detroit and New York City. Often billed alongside ARCHANGEL (US), Flores Negras and Miss Twink USA. Next up: TBA, Detroit on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ASL Princess is a techno and club artist based in United States of America, trac
 
 ## Recently played
 
-- Bossa Nova Civic Club, New York City — Sat, 19 Sept 2026
-- Podlasie Club, Chicago — Thu, 18 Jun 2026
-- H0L0, New York City — Fri, 30 Jan 2026
-- Nowadays, New York City — Thu, 18 Dec 2025
-- TBA - Sanctuary (3596 N Moline St.), Denver — Fri, 24 Oct 2025
-- Good Room, New York City — Sat, 11 Oct 2025
-- The Point, Chicago — Sat, 9 Aug 2025
-- Smoke & Mirrors, Chicago — Thu, 10 Jul 2025
+- Bossa Nova Civic Club, New York City · Sat, 19 Sept 2026
+- Podlasie Club, Chicago · Thu, 18 Jun 2026
+- H0L0, New York City · Fri, 30 Jan 2026
+- Nowadays, New York City · Thu, 18 Dec 2025
+- TBA - Sanctuary (3596 N Moline St.), Denver · Fri, 24 Oct 2025
+- Good Room, New York City · Sat, 11 Oct 2025
+- The Point, Chicago · Sat, 9 Aug 2025
+- Smoke & Mirrors, Chicago · Thu, 10 Jul 2025
 
 ## Shares bills with
 

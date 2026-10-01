@@ -1,8 +1,8 @@
 # Gretchen B
 
-Gretchen B is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
+Gretchen B is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 23 Oct 2026.
 
-Gretchen B is a techno and hardcore artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Leipzig and Vienna. Often billed alongside OUTOFORDERB2B, DJ Rakita and K1KO. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
+Gretchen B is a techno and hardcore artist based in Germany, with 30 gigs on soundcheck across Berlin, Leipzig and Vienna. Often billed alongside OUTOFORDERB2B, DJ Rakita and K1KO. Next up: Humboldthain Club, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Gretchen B is a techno and hardcore artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Sat, 4 Apr 2026
-- ://about blank, Berlin — Fri, 15 Aug 2025
-- Panke, Berlin — Thu, 1 May 2025
-- ://about blank, Berlin — Fri, 7 Mar 2025
-- Lokschuppen Berlin, Berlin — Fri, 28 Feb 2025
-- ://about blank, Berlin — Fri, 24 Jan 2025
-- Institut fuer Zukunft (IfZ), Leipzig — Sat, 23 Nov 2024
-- ://about blank, Berlin — Fri, 1 Nov 2024
+- Lokschuppen Berlin, Berlin · Sat, 4 Apr 2026
+- ://about blank, Berlin · Fri, 15 Aug 2025
+- Panke, Berlin · Thu, 1 May 2025
+- ://about blank, Berlin · Fri, 7 Mar 2025
+- Lokschuppen Berlin, Berlin · Fri, 28 Feb 2025
+- ://about blank, Berlin · Fri, 24 Jan 2025
+- Institut fuer Zukunft (IfZ), Leipzig · Sat, 23 Nov 2024
+- ://about blank, Berlin · Fri, 1 Nov 2024
 
 ## Shares bills with
 

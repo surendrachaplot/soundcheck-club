@@ -1,6 +1,6 @@
 # Beate Barfuß /// tatzentanz, olibrii, mimikri, (live), coco loris b2b ele, pi:menta at Beate Uwe
 
-Beate Barfuß /// tatzentanz, olibrii, mimikri, (live), coco loris b2b ele, pi:menta at Beate Uwe on Sun 18 Oct, Berlin. Deep House and Downtempo. Preview the line-up and save it on soundcheck.
+Beate Barfuß /// tatzentanz, olibrii, mimikri, (live), coco loris b2b ele, pi:menta at Beate Uwe on Sun 18 Oct, Berlin. Deep House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Javier Gallardo
 
-Javier Gallardo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Javier Gallardo is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Javier Gallardo is a techno and tech house artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, Berlin and Ghent and 4 more. Often billed alongside David Hornung, Jôka and Konrad Schneider. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Javier Gallardo is a techno and tech house artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ghent and 4 more. Often billed alongside David Hornung, Jôka and Konrad Schneider. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Javier Gallardo is a techno and tech house artist based in Germany, tracked on s
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Riviera Records Store, Munich — Fri, 24 Jul 2026
-- BLITZ, Munich — Sat, 23 May 2026
-- Hoppetosse, Berlin — Sat, 4 Apr 2026
-- TBA - Secret Location, Madrid — Fri, 20 Feb 2026
-- BLITZ, Munich — Sat, 7 Feb 2026
-- BLITZ, Munich — Sat, 18 Oct 2025
-- Flux Munich, Munich — Sat, 30 Aug 2025
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Riviera Records Store, Munich · Fri, 24 Jul 2026
+- BLITZ, Munich · Sat, 23 May 2026
+- Hoppetosse, Berlin · Sat, 4 Apr 2026
+- TBA - Secret Location, Madrid · Fri, 20 Feb 2026
+- BLITZ, Munich · Sat, 7 Feb 2026
+- BLITZ, Munich · Sat, 18 Oct 2025
+- Flux Munich, Munich · Sat, 30 Aug 2025
 
 ## Shares bills with
 

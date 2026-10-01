@@ -1,6 +1,6 @@
 # Renate LIVE: tba at Renate
 
-Renate LIVE: tba on Thu 15 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Renate LIVE: tba on Thu 15 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

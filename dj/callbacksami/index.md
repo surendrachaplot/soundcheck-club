@@ -1,8 +1,8 @@
 # CallBackSami
 
-CallBackSami is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Super7, Lyon on Sun, 4 Oct 2026.
+CallBackSami is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Super7, Lyon on Sun, 4 Oct 2026.
 
-CallBackSami is a trance and progressive house artist based in France, tracked on soundcheck, with 34 sets logged across Berlin, Copenhagen, Hamburg and Lyon and 1 more. Often billed alongside RIGO, Ramtarr and Axel Blanc. Next up: Super7, Lyon on Sun 4 Oct.
+CallBackSami is a trance and progressive house artist based in France, with 34 gigs on soundcheck across Berlin, Copenhagen, Hamburg and Lyon and 1 more. Often billed alongside RIGO, Ramtarr and Axel Blanc. Next up: Super7, Lyon on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ CallBackSami is a trance and progressive house artist based in France, tracked o
 
 ## Recently played
 
-- Le Sucre, Lyon — Sat, 26 Sept 2026
-- La Prairie du Canal, Paris — Sat, 29 Aug 2026
-- Super5, Lyon — Fri, 17 Jul 2026
-- TBA - Open air, Lyon — Sat, 2 May 2026
-- Studio 24 - Pôle Pixel, Lyon — Sat, 25 Apr 2026
-- Super5, Lyon — Wed, 28 Jan 2026
-- Le Sucre, Lyon — Fri, 2 Jan 2026
-- TBA - SECRET WAREHOUSE, Lyon — Fri, 3 Oct 2025
+- Le Sucre, Lyon · Sat, 26 Sept 2026
+- La Prairie du Canal, Paris · Sat, 29 Aug 2026
+- Super5, Lyon · Fri, 17 Jul 2026
+- TBA - Open air, Lyon · Sat, 2 May 2026
+- Studio 24 - Pôle Pixel, Lyon · Sat, 25 Apr 2026
+- Super5, Lyon · Wed, 28 Jan 2026
+- Le Sucre, Lyon · Fri, 2 Jan 2026
+- TBA - SECRET WAREHOUSE, Lyon · Fri, 3 Oct 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Knats + Support at Are You Affiliated
 
-Knats + Support at Are You Affiliated on Fri 23 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Knats + Support at Are You Affiliated on Fri 23 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

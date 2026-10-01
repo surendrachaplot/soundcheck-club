@@ -1,6 +1,6 @@
 # Het Fundament at Waalhalla
 
-Het Fundament at Waalhalla on Sat 10 Oct, Nijmegen. 5 artists on the bill: Jancen, Remco Beekwilder, stranger (NL) and Tommy Four Seven and 1 more. Preview the line-up and save it on soundcheck.
+Het Fundament at Waalhalla on Sat 10 Oct, Nijmegen. 5 artists: Jancen, Remco Beekwilder, stranger (NL) and Tommy Four Seven and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

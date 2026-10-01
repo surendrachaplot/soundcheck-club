@@ -1,6 +1,6 @@
 # Crimeboys - all night long at Process PDX
 
-Crimeboys - all night long at Process PDX on Thu 8 Oct, Portland. 2 artists on the bill: Ben Bondy and Special Guest DJ. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Crimeboys - all night long at Process PDX on Thu 8 Oct, Portland. 2 artists: Ben Bondy and Special Guest DJ. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

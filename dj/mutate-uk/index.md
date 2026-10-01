@@ -1,8 +1,8 @@
 # mu tate
 
-mu tate is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Galeria Zé Dos Bois, Lisbon on Fri, 9 Oct 2026.
+mu tate is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Galeria Zé Dos Bois, Lisbon on Fri, 9 Oct 2026.
 
-mu tate is an ambient and experimental artist based in Latvia, tracked on soundcheck, with 21 sets logged across Berlin, Lisbon, London and New York City and 2 more. Often billed alongside NEXCYIA, Discka and Mori Mori. Next up: Galeria Zé Dos Bois, Lisbon on Fri 9 Oct.
+mu tate is an ambient and experimental artist based in Latvia, with 21 gigs on soundcheck across Berlin, Lisbon, London and New York City and 2 more. Often billed alongside NEXCYIA, Discka and Mori Mori. Next up: Galeria Zé Dos Bois, Lisbon on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ mu tate is an ambient and experimental artist based in Latvia, tracked on soundc
 
 ## Recently played
 
-- TBA - Secret Location, Berlin — Sat, 12 Sept 2026
-- TBA - THE OLD FACTORY &  BUNKERS  (Greifswalder Str. 23A, 10405 Berlin) , Berlin — Sat, 6 Jun 2026
-- ., Berlin — Wed, 13 May 2026
-- public records, New York City — Sat, 18 Apr 2026
-- TBA - Secret Location, New York City — Sat, 18 Apr 2026
-- TBA - The Perch, Philadelphia — Fri, 17 Apr 2026
-- Studio dB, Berlin — Sat, 21 Feb 2026
-- TBA - OLD FACTORY - Greifswalder Str. 23A, 10405 Berlin, Berlin — Sat, 13 Dec 2025
+- TBA - Secret Location, Berlin · Sat, 12 Sept 2026
+- TBA - THE OLD FACTORY &  BUNKERS  (Greifswalder Str. 23A, 10405 Berlin) , Berlin · Sat, 6 Jun 2026
+- ., Berlin · Wed, 13 May 2026
+- public records, New York City · Sat, 18 Apr 2026
+- TBA - Secret Location, New York City · Sat, 18 Apr 2026
+- TBA - The Perch, Philadelphia · Fri, 17 Apr 2026
+- Studio dB, Berlin · Sat, 21 Feb 2026
+- TBA - OLD FACTORY - Greifswalder Str. 23A, 10405 Berlin, Berlin · Sat, 13 Dec 2025
 
 ## Shares bills with
 

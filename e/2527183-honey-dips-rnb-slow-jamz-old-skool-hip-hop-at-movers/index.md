@@ -1,6 +1,6 @@
 # Honey Dips: RnB, Slow Jamz & Old-Skool Hip-Hop at Movers
 
-Honey Dips: RnB, Slow Jamz & Old-Skool Hip-Hop at Movers on Fri 23 Oct, Nottingham. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Honey Dips: RnB, Slow Jamz & Old-Skool Hip-Hop at Movers on Fri 23 Oct, Nottingham. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

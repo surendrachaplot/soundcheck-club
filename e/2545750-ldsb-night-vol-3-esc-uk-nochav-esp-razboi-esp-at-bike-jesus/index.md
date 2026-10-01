@@ -1,6 +1,6 @@
 # LDSB Night vol.3 - ESC (UK), NOCHAV (ESP), Razboi (ESP) at Bike Jesus
 
-LDSB Night vol.3 - ESC (UK), NOCHAV (ESP), Razboi (ESP) at Bike Jesus on Fri 23 Oct, Prague. 8 artists on the bill: ESC, Meldaboi, NOCHAV and Razboi and 4 more. Bass and Dub. Preview the line-up and save it on soundcheck.
+LDSB Night vol.3 - ESC (UK), NOCHAV (ESP), Razboi (ESP) at Bike Jesus on Fri 23 Oct, Prague. 8 artists: ESC, Meldaboi, NOCHAV and Razboi and 4 more. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

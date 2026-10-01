@@ -1,6 +1,6 @@
 # discotech x Quadrant: Terry Francis, Rob Pearson + more at Movers
 
-discotech x Quadrant: Terry Francis, Rob Pearson + more at Movers on Sat 28 Nov, Nottingham. 3 artists on the bill: Jordan Diston, Rob Pearson and Terry Francis. Tech House and Acid. Preview the line-up and save it on soundcheck.
+discotech x Quadrant: Terry Francis, Rob Pearson + more at Movers on Sat 28 Nov, Nottingham. 3 artists: Jordan Diston, Rob Pearson and Terry Francis. Tech House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

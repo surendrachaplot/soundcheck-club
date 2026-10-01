@@ -1,6 +1,6 @@
 # Club 909 at Tokyo Bar
 
-Club 909 at Tokyo Bar on Sun 13 Dec, Newcastle. Preview the line-up and save it on soundcheck.
+Club 909 at Tokyo Bar on Sun 13 Dec, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

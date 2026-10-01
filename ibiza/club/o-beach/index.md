@@ -1,8 +1,8 @@
 # O Beach
 
-O Beach is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "O BEACH MUSIC" on Thu, 1 Oct 2026.
+O Beach is a music venue in Ibiza with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "O BEACH MUSIC" on Thu, 1 Oct 2026.
 
-O Beach is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs. Browse upcoming dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
+O Beach is a music venue in Ibiza listed on soundcheck. 10 upcoming gigs. See dates, start times and who's playing. Carrer des Molí, 12-14, 07820 Ibiza, Illes Balears, España.
 
 ## What's on
 

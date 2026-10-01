@@ -1,6 +1,6 @@
 # Deep Into Disco at Rolling Stock
 
-Deep Into Disco at Rolling Stock on Sat 3 Oct, London. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Deep Into Disco at Rolling Stock on Sat 3 Oct, London. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

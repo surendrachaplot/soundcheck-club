@@ -1,6 +1,6 @@
 # Sullivan King at Radius
 
-Sullivan King at Radius on Fri 4 Dec, Chicago. Dubstep. Preview the line-up and save it on soundcheck.
+Sullivan King at Radius on Fri 4 Dec, Chicago. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

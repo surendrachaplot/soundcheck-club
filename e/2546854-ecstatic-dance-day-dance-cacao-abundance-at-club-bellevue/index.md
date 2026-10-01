@@ -1,6 +1,6 @@
 # ECSTATIC DANCE & DAY DANCE CACAO ABUNDANCE at Club Bellevue
 
-ECSTATIC DANCE & DAY DANCE CACAO ABUNDANCE at Club Bellevue on Sat 10 Oct, Zurich. Techno and Deep House. Preview the line-up and save it on soundcheck.
+ECSTATIC DANCE & DAY DANCE CACAO ABUNDANCE at Club Bellevue on Sat 10 Oct, Zurich. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

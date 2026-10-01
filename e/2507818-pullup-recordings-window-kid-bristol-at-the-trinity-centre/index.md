@@ -1,6 +1,6 @@
 # PullUp Recordings: Window Kid - Bristol at The Trinity Centre
 
-PullUp Recordings: Window Kid - Bristol at The Trinity Centre on Sat 31 Oct, Bristol. Garage and Grime. Preview the line-up and save it on soundcheck.
+PullUp Recordings: Window Kid - Bristol at The Trinity Centre on Sat 31 Oct, Bristol. Garage and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

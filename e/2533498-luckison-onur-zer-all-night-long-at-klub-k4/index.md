@@ -1,6 +1,6 @@
 # Luckison: Onur Özer All night long at Klub K4
 
-Luckison: Onur Özer All night long at Klub K4 on Fri 2 Oct, Ljubljana. 1 artist on the bill: Onur Özer. Preview the line-up and save it on soundcheck.
+Luckison: Onur Özer All night long at Klub K4 on Fri 2 Oct, Ljubljana. 1 artist: Onur Özer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

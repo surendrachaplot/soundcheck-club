@@ -1,8 +1,8 @@
 # Acid Mama
 
-Acid Mama is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
+Acid Mama is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Dead Letter No. 9, New York City on Sat, 24 Oct 2026.
 
-Acid Mama is a house and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across New York City. Often billed alongside Ben Zo, Nick Boyd and Omer Mil. Next up: Dead Letter No. 9, New York City on Sat 24 Oct.
+Acid Mama is a house and techno artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside Ben Zo, Nick Boyd and Omer Mil. Next up: Dead Letter No. 9, New York City on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Acid Mama is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
-- Dead Letter No. 9, New York City — Fri, 13 Mar 2026
-- H0L0, New York City — Fri, 12 Dec 2025
-- Dead Letter No. 9, New York City — Fri, 31 Oct 2025
-- H0L0, New York City — Fri, 4 Jul 2025
-- TBA Brooklyn, New York City — Fri, 5 Jul 2024
-- Dead Letter No. 9, New York City — Sat, 30 Mar 2024
-- Sleepwalk, New York City — Thu, 14 Mar 2024
-- TBA Brooklyn, New York City — Sat, 3 Feb 2024
+- Dead Letter No. 9, New York City · Fri, 13 Mar 2026
+- H0L0, New York City · Fri, 12 Dec 2025
+- Dead Letter No. 9, New York City · Fri, 31 Oct 2025
+- H0L0, New York City · Fri, 4 Jul 2025
+- TBA Brooklyn, New York City · Fri, 5 Jul 2024
+- Dead Letter No. 9, New York City · Sat, 30 Mar 2024
+- Sleepwalk, New York City · Thu, 14 Mar 2024
+- TBA Brooklyn, New York City · Sat, 3 Feb 2024
 
 ## Shares bills with
 

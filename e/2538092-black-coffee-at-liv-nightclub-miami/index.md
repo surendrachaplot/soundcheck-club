@@ -1,6 +1,6 @@
 # Black Coffee at LIV Nightclub Miami
 
-Black Coffee at LIV Nightclub Miami on Fri 16 Oct, Miami. Preview the line-up and save it on soundcheck.
+Black Coffee at LIV Nightclub Miami on Fri 16 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

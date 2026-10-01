@@ -1,6 +1,6 @@
 # A House Music Party at Club Bermellón
 
-A House Music Party at Club Bermellón on Fri 2 Oct, Mexico City. 4 artists on the bill: DJ Knife, DJ OYSTER, ED (MX) and PHONYFAKE. House and Deep House. Preview the line-up and save it on soundcheck.
+A House Music Party at Club Bermellón on Fri 2 Oct, Mexico City. 4 artists: DJ Knife, DJ OYSTER, ED (MX) and PHONYFAKE. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

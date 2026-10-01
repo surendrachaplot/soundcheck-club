@@ -1,6 +1,6 @@
 # Bump at Monarch
 
-Bump at Monarch on Thu 15 Oct, San Francisco/Oakland. 1 artist on the bill: Huffy. House and Disco. Preview the line-up and save it on soundcheck.
+Bump at Monarch on Thu 15 Oct, San Francisco/Oakland. 1 artist: Huffy. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

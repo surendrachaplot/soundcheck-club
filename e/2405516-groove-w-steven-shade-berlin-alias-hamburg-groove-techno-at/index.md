@@ -1,6 +1,6 @@
 # Groove w/ Steven Shade (BERLIN) & ALIAS (HAMBURG) - GROOVE TECHNO at Baalsaal
 
-Groove w/ Steven Shade (BERLIN) & ALIAS (HAMBURG) - GROOVE TECHNO at Baalsaal on Fri 23 Oct, Hamburg. 1 artist on the bill: Steven Shade. Techno. Preview the line-up and save it on soundcheck.
+Groove w/ Steven Shade (BERLIN) & ALIAS (HAMBURG) - GROOVE TECHNO at Baalsaal on Fri 23 Oct, Hamburg. 1 artist: Steven Shade. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

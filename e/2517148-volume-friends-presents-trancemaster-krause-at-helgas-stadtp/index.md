@@ -1,6 +1,6 @@
 # Volume & Friends presents: Trancemaster Krause at Helgas Stadtpalast
 
-Volume & Friends presents: Trancemaster Krause at Helgas Stadtpalast on Sat 3 Oct, Mecklenburg Vorpommern. 2 artists on the bill: LISTORIO and Trancemaster Krause. Preview the line-up and save it on soundcheck.
+Volume & Friends presents: Trancemaster Krause at Helgas Stadtpalast on Sat 3 Oct, Mecklenburg Vorpommern. 2 artists: LISTORIO and Trancemaster Krause. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

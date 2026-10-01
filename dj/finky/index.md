@@ -1,8 +1,8 @@
 # FINKY
 
-FINKY is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Egg London, London on Fri, 13 Nov 2026.
+FINKY is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Egg London, London on Fri, 13 Nov 2026.
 
-FINKY is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Birmingham and Ibiza and 7 more. Often billed alongside Ryan Resso, Chopper (UK) and Stef Davidse. Next up: Egg London, London on Fri 13 Nov.
+FINKY is a house and tech house artist based in United Kingdom, with 42 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Ibiza and 7 more. Often billed alongside Ryan Resso, Chopper (UK) and Stef Davidse. Next up: Egg London, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ FINKY is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Itaca, Ibiza — Sat, 15 Aug 2026
-- Atlantic Club, Barcelona — Fri, 19 Jun 2026
-- Lab11, Birmingham — Fri, 12 Jun 2026
-- Ministry Of Sound, London — Sat, 23 May 2026
-- Club Colette, Birmingham — Sat, 9 May 2026
-- Gianpula Village, Malta — Wed, 29 Apr 2026
-- The Cause, London — Sun, 5 Apr 2026
-- NOWHERE, Manchester — Sat, 28 Mar 2026
+- Itaca, Ibiza · Sat, 15 Aug 2026
+- Atlantic Club, Barcelona · Fri, 19 Jun 2026
+- Lab11, Birmingham · Fri, 12 Jun 2026
+- Ministry Of Sound, London · Sat, 23 May 2026
+- Club Colette, Birmingham · Sat, 9 May 2026
+- Gianpula Village, Malta · Wed, 29 Apr 2026
+- The Cause, London · Sun, 5 Apr 2026
+- NOWHERE, Manchester · Sat, 28 Mar 2026
 
 ## Shares bills with
 

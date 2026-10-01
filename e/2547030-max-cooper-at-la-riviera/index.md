@@ -1,6 +1,6 @@
 # Max Cooper at La Riviera
 
-Max Cooper at La Riviera on Sun 8 Nov, Madrid. 1 artist on the bill: Max Cooper. Minimal. Preview the line-up and save it on soundcheck.
+Max Cooper at La Riviera on Sun 8 Nov, Madrid. 1 artist: Max Cooper. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

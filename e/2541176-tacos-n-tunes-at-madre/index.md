@@ -1,6 +1,6 @@
 # Tacos 'n Tunes at Madre
 
-Tacos 'n Tunes at Madre on Fri 23 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+Tacos 'n Tunes at Madre on Fri 23 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mega 90er Rave - DJ QUICKSILVER at M-BIA
 
-Mega 90er Rave - DJ QUICKSILVER at M-BIA on Fri 27 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Mega 90er Rave - DJ QUICKSILVER at M-BIA on Fri 27 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

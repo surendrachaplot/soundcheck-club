@@ -1,8 +1,8 @@
 # Dr. Dou Social Club
 
-Dr. Dou Social Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Thursday's Prescription - Guy Rome" on Thu, 1 Oct 2026.
+Dr. Dou Social Club is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Thursday's Prescription - Guy Rome" on Thu, 1 Oct 2026.
 
-Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including JM, LeMichael and Petertrax. Browse upcoming dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
+Dr. Dou Social Club is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including JM, LeMichael and Petertrax. See dates, start times and who's playing. Carrer del Dr. Dou, 7, local 2, 08001 Barcelona, Spain.
 
 ## What's on
 

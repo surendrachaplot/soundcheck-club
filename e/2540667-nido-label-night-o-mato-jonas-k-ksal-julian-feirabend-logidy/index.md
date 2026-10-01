@@ -1,6 +1,6 @@
 # Nido label night: O Mato - Jonas Köksal ,Julian Feirabend & Logidy at Nido Marseille
 
-Nido label night: O Mato - Jonas Köksal ,Julian Feirabend & Logidy at Nido Marseille on Sat 7 Nov, Marseille. Preview the line-up and save it on soundcheck.
+Nido label night: O Mato - Jonas Köksal ,Julian Feirabend & Logidy at Nido Marseille on Sat 7 Nov, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

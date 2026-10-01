@@ -1,6 +1,6 @@
 # Carnival Terror Party at Gigi's Hoxton
 
-Carnival Terror Party at Gigi's Hoxton on Fri 30 Oct, London. 2 artists on the bill: Jo Cruz and KAYDNCE. House and Tech House. Preview the line-up and save it on soundcheck.
+Carnival Terror Party at Gigi's Hoxton on Fri 30 Oct, London. 3 artists: Elisa Nau., Jo Cruz and KAYDNCE. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Carnival Terror Party at Gigi's Hoxton on Fri 30 Oct, London. 2 artists on the b
 
 ## Line-up
 
+- Elisa Nau.
 - Jo Cruz
 - KAYDNCE
 

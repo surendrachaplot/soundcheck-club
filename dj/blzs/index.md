@@ -1,8 +1,8 @@
 # BLZS
 
-BLZS is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Atno, Budapest on Fri, 2 Oct 2026.
+BLZS is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Atno, Budapest on Fri, 2 Oct 2026.
 
-BLZS is a techno and dub techno artist based in Hungary, tracked on soundcheck, with 11 sets logged across Berlin, Birmingham and Budapest. Often billed alongside Cvrdwell, AGA2L and Acsa. Next up: Atno, Budapest on Fri 2 Oct.
+BLZS is a techno and dub techno artist based in Hungary, with 11 gigs on soundcheck across Berlin, Birmingham and Budapest. Often billed alongside Cvrdwell, AGA2L and Acsa. Next up: Atno, Budapest on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ BLZS is a techno and dub techno artist based in Hungary, tracked on soundcheck, 
 
 ## Recently played
 
-- Sensorium, Berlin — Wed, 24 Jun 2026
-- TBA - St. Gellert Statue, Budapest — Sat, 9 May 2026
-- Turbina, Budapest — Thu, 30 Apr 2026
-- Suki10c, Birmingham — Fri, 20 Mar 2026
-- Aether Club Budapest, Budapest — Fri, 13 Mar 2026
-- Marmorbar, Berlin — Fri, 27 Feb 2026
-- Turbina, Budapest — Fri, 13 Feb 2026
-- Turbina, Budapest — Fri, 28 Nov 2025
+- Sensorium, Berlin · Wed, 24 Jun 2026
+- TBA - St. Gellert Statue, Budapest · Sat, 9 May 2026
+- Turbina, Budapest · Thu, 30 Apr 2026
+- Suki10c, Birmingham · Fri, 20 Mar 2026
+- Aether Club Budapest, Budapest · Fri, 13 Mar 2026
+- Marmorbar, Berlin · Fri, 27 Feb 2026
+- Turbina, Budapest · Fri, 13 Feb 2026
+- Turbina, Budapest · Fri, 28 Nov 2025
 
 ## Shares bills with
 

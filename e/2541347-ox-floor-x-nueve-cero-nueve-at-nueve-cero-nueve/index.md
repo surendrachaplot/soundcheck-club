@@ -1,6 +1,6 @@
 # OX FLOOR x nueve cero nueve at nueve cero nueve
 
-OX FLOOR x nueve cero nueve on Fri 23 Oct, Mexico City. Techno and Deep House. Preview the line-up and save it on soundcheck.
+OX FLOOR x nueve cero nueve on Fri 23 Oct, Mexico City. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Night Tube // MASH HOUSE SPECIAL at The Mash House
 
-Night Tube // MASH HOUSE SPECIAL at The Mash House on Fri 9 Oct, Edinburgh. 3 artists on the bill: Ben Kok, Casi (UK) and Pheebs. House and Disco. Preview the line-up and save it on soundcheck.
+Night Tube // MASH HOUSE SPECIAL at The Mash House on Fri 9 Oct, Edinburgh. 3 artists: Ben Kok, Casi (UK) and Pheebs. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

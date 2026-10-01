@@ -1,6 +1,6 @@
 # Start Here (Free Entry) at The Greyhound
 
-Start Here (Free Entry) at The Greyhound on Thu 8 Oct, London. 5 artists on the bill: karishma, Make Money Mafia, MF Ceól and ŌKAMI and 1 more. Bass and Jungle. Preview the line-up and save it on soundcheck.
+Start Here (Free Entry) at The Greyhound on Thu 8 Oct, London. 5 artists: karishma, Make Money Mafia, MF Ceól and ŌKAMI and 1 more. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

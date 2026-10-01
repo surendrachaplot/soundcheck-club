@@ -1,6 +1,6 @@
 # Habibi's House with DJ Habibeats at Common/UNDRGRND
 
-Habibi's House with DJ Habibeats at Common/UNDRGRND on Sat 24 Oct, Calgary. 1 artist on the bill: DJ Habibeats. Preview the line-up and save it on soundcheck.
+Habibi's House with DJ Habibeats at Common/UNDRGRND on Sat 24 Oct, Calgary. 1 artist: DJ Habibeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

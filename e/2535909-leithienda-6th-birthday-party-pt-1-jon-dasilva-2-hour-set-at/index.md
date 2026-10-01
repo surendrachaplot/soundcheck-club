@@ -1,6 +1,6 @@
 # Leithienda - 6th Birthday Party Pt 1 - Jon Dasilva (2 Hour Set) at Leith Arches
 
-Leithienda - 6th Birthday Party Pt 1 - Jon Dasilva (2 Hour Set) at Leith Arches on Sat 26 Dec, Edinburgh. House and Club. Preview the line-up and save it on soundcheck.
+Leithienda - 6th Birthday Party Pt 1 - Jon Dasilva (2 Hour Set) at Leith Arches on Sat 26 Dec, Edinburgh. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

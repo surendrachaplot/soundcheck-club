@@ -1,6 +1,6 @@
 # Rhythmic Roots x Rhythm present: TBA at Rhythm
 
-Rhythmic Roots x Rhythm present: TBA on Fri 13 Nov, Toronto. Preview the line-up and save it on soundcheck.
+Rhythmic Roots x Rhythm present: TBA on Fri 13 Nov, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ARCANA at TBA - 29, 32 The Oval, Cambridge Heath
 
-ARCANA at TBA - 29, 32 The Oval, Cambridge Heath on Fri 9 Oct, London. Trance and Hardcore. Preview the line-up and save it on soundcheck.
+ARCANA at TBA - 29, 32 The Oval, Cambridge Heath on Fri 9 Oct, London. Trance and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SHINE -- Sam Alfred at The Limelight
 
-SHINE -- Sam Alfred at The Limelight on Fri 27 Nov, Belfast. 1 artist on the bill: Sam Alfred. House. Preview the line-up and save it on soundcheck.
+SHINE -- Sam Alfred at The Limelight on Fri 27 Nov, Belfast. 1 artist: Sam Alfred. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

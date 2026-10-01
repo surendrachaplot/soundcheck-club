@@ -1,6 +1,6 @@
 # RITSUDO at Aoyama Hachi
 
-RITSUDO at Aoyama Hachi on Thu 1 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+RITSUDO at Aoyama Hachi on Thu 1 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

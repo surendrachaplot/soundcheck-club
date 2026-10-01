@@ -1,6 +1,6 @@
 # Studio Session 1 at TBA - Senvio Studio
 
-Studio Session 1 at TBA - Senvio Studio on Sat 3 Oct, Istanbul. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Studio Session 1 at TBA - Senvio Studio on Sat 3 Oct, Istanbul. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

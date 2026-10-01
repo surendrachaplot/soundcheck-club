@@ -1,6 +1,6 @@
 # Noise Mafia at Domicile
 
-Noise Mafia at Domicile on Fri 2 Oct, Miami. 1 artist on the bill: Noise Mafia. Techno. Preview the line-up and save it on soundcheck.
+Noise Mafia at Domicile on Fri 2 Oct, Miami. 1 artist: Noise Mafia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

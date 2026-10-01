@@ -1,6 +1,6 @@
 # PRODUZIONI LUMEN with Alex Wilcox (live) at Lumen Firenze
 
-PRODUZIONI LUMEN with Alex Wilcox (live) at Lumen Firenze on Fri 21 May, Florence. 2 artists on the bill: Alex Wilcox and Cristian Croce. Preview the line-up and save it on soundcheck.
+PRODUZIONI LUMEN with Alex Wilcox (live) at Lumen Firenze on Fri 21 May, Florence. 2 artists: Alex Wilcox and Cristian Croce. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

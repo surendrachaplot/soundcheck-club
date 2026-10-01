@@ -1,6 +1,6 @@
 # STANDING CIRCLE • ALBUM LAUNCH at Wax Music Lounge
 
-STANDING CIRCLE • ALBUM LAUNCH at Wax Music Lounge on Thu 22 Oct, Melbourne. Jazz. Preview the line-up and save it on soundcheck.
+STANDING CIRCLE • ALBUM LAUNCH at Wax Music Lounge on Thu 22 Oct, Melbourne. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Scrubs Lane: Amelia Holt, sznl, Frank B at TBA - The Bakery
 
-Scrubs Lane: Amelia Holt, sznl, Frank B at TBA - The Bakery on Fri 23 Oct, New York City. 2 artists on the bill: Amelia Holt and sznl. Preview the line-up and save it on soundcheck.
+Scrubs Lane: Amelia Holt, sznl, Frank B at TBA - The Bakery on Fri 23 Oct, New York City. 2 artists: Amelia Holt and sznl. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

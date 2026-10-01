@@ -1,6 +1,6 @@
 # Donkline Deluxe at Moon Club
 
-Donkline Deluxe at Moon Club on Fri 23 Oct, Bristol. 1 artist on the bill: DJ Sarah Bonito. Hardcore. Preview the line-up and save it on soundcheck.
+Donkline Deluxe at Moon Club on Fri 23 Oct, Bristol. 1 artist: DJ Sarah Bonito. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

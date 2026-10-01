@@ -1,6 +1,6 @@
 # Takuya Nakamura at Melkweg
 
-Takuya Nakamura at Melkweg on Wed 21 Oct, Amsterdam. 1 artist on the bill: Takuya Nakamura. Techno and House. Preview the line-up and save it on soundcheck.
+Takuya Nakamura at Melkweg on Wed 21 Oct, Amsterdam. 1 artist: Takuya Nakamura. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

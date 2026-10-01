@@ -1,8 +1,8 @@
 # The Bedford
 
-The Bedford is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Big Fish Little Fish Family Rave - Balham" on Sat, 10 Oct 2026.
+The Bedford is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Big Fish Little Fish Family Rave - Balham" on Sat, 10 Oct 2026.
 
-The Bedford is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including 2 Bad Mice. Browse upcoming dates, start times and who's playing. 77 Bedford Hill; Balham; London SW12 9HD; United Kingdom.
+The Bedford is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including 2 Bad Mice. See dates, start times and who's playing. 77 Bedford Hill; Balham; London SW12 9HD; United Kingdom.
 
 ## What's on
 

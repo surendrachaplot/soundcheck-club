@@ -1,6 +1,6 @@
 # MANTRA - BY BOTANICA SOUND at Home Bar
 
-MANTRA - BY BOTANICA SOUND at Home Bar on Tue 13 Oct, Edinburgh. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+MANTRA - BY BOTANICA SOUND at Home Bar on Tue 13 Oct, Edinburgh. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

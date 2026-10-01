@@ -1,6 +1,6 @@
 # Gravagerz at Seadeck
 
-Gravagerz at Seadeck on Sat 21 Nov, Sydney. 1 artist on the bill: Gravagerz. House and Garage. Preview the line-up and save it on soundcheck.
+Gravagerz at Seadeck on Sat 21 Nov, Sydney. 1 artist: Gravagerz. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

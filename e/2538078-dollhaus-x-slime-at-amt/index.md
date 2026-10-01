@@ -1,6 +1,6 @@
 # DOLLHAUS X SLIME at AMT
 
-DOLLHAUS X SLIME at AMT on Fri 23 Oct, Berlin. 8 artists on the bill: Charlie., Elvin, fbi and KVLR and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+DOLLHAUS X SLIME at AMT on Fri 23 Oct, Berlin. 8 artists: Charlie., Elvin, fbi and KVLR and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # mølly (on molly)
 
-mølly (on molly) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
+mølly (on molly) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Humboldthain Club, Berlin on Sat, 10 Oct 2026.
 
-mølly (on molly) is a trance and techno artist based in Ecuador, tracked on soundcheck, with 47 sets logged across Amsterdam and Berlin. Often billed alongside SALCHIKILLER, DJ AYEN and MIMI404. Next up: Humboldthain Club, Berlin on Sat 10 Oct.
+mølly (on molly) is a trance and techno artist based in Ecuador, with 47 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside SALCHIKILLER, DJ AYEN and MIMI404. Next up: Humboldthain Club, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ mølly (on molly) is a trance and techno artist based in Ecuador, tracked on sou
 
 ## Recently played
 
-- M-BIA, Berlin — Fri, 25 Sept 2026
-- Lokschuppen Berlin, Berlin — Sun, 20 Sept 2026
-- TBA - Warschauer Straße, Berlin — Fri, 24 Jul 2026
-- Lokschuppen Berlin, Berlin — Sat, 4 Jul 2026
-- John Doe, Amsterdam — Sat, 4 Jul 2026
-- OST, Berlin — Thu, 2 Jul 2026
-- Insomnia, Berlin — Sat, 20 Jun 2026
-- M-BIA, Berlin — Fri, 19 Jun 2026
+- M-BIA, Berlin · Fri, 25 Sept 2026
+- Lokschuppen Berlin, Berlin · Sun, 20 Sept 2026
+- TBA - Warschauer Straße, Berlin · Fri, 24 Jul 2026
+- Lokschuppen Berlin, Berlin · Sat, 4 Jul 2026
+- John Doe, Amsterdam · Sat, 4 Jul 2026
+- OST, Berlin · Thu, 2 Jul 2026
+- Insomnia, Berlin · Sat, 20 Jun 2026
+- M-BIA, Berlin · Fri, 19 Jun 2026
 
 ## Shares bills with
 

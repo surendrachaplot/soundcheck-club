@@ -1,8 +1,8 @@
 # Bow Miller
 
-Bow Miller is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Culture Box, Copenhagen on Fri, 23 Oct 2026.
+Bow Miller is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Culture Box, Copenhagen on Fri, 23 Oct 2026.
 
-Bow Miller is a house and techno artist based in Denmark, tracked on soundcheck, with 6 sets logged across Copenhagen. Often billed alongside Eski, Gerssein and Anders HP. Next up: Culture Box, Copenhagen on Fri 23 Oct.
+Bow Miller is a house and techno artist based in Denmark, with 6 gigs on soundcheck across Copenhagen. Often billed alongside Eski, Gerssein and Anders HP. Next up: Culture Box, Copenhagen on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Bow Miller is a house and techno artist based in Denmark, tracked on soundcheck,
 
 ## Recently played
 
-- MODULE, Copenhagen — Sat, 1 Aug 2026
-- TBA - Østre Anlæg, Stockholmsgade 20, 2100 København., Copenhagen — Fri, 10 Jul 2026
-- MODULE, Copenhagen — Sat, 28 Oct 2023
-- kat.4, Copenhagen — Sat, 28 Oct 2023
-- Klub Werkstatt, Copenhagen — Fri, 25 Aug 2023
+- MODULE, Copenhagen · Sat, 1 Aug 2026
+- TBA - Østre Anlæg, Stockholmsgade 20, 2100 København., Copenhagen · Fri, 10 Jul 2026
+- MODULE, Copenhagen · Sat, 28 Oct 2023
+- kat.4, Copenhagen · Sat, 28 Oct 2023
+- Klub Werkstatt, Copenhagen · Fri, 25 Aug 2023
 
 ## Shares bills with
 

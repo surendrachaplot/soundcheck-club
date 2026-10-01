@@ -1,6 +1,6 @@
 # Keepeesch 011: B2 - PRE REGISTER FOR FREE ENTRY at B2 Rīga
 
-Keepeesch 011: B2 - PRE REGISTER FOR FREE ENTRY at B2 Rīga on Sat 17 Oct, Riga. 3 artists on the bill: Balmishev, Kapusta and Manav/draugu. House and Tech House. Preview the line-up and save it on soundcheck.
+Keepeesch 011: B2 - PRE REGISTER FOR FREE ENTRY at B2 Rīga on Sat 17 Oct, Riga. 3 artists: Balmishev, Kapusta and Manav/draugu. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

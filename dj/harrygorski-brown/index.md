@@ -1,8 +1,8 @@
 # Harry Górski-Brown
 
-Harry Górski-Brown is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Harry Górski-Brown is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
 
-Harry Górski-Brown is an experimental and ambient artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Bristol, Cologne, Glasgow and Krakow and 4 more. Often billed alongside Wojciech Rusin, Bianca Scout and aya. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
+Harry Górski-Brown is an experimental and ambient artist based in United Kingdom, with 14 gigs on soundcheck across Bristol, Cologne, Glasgow and Krakow and 4 more. Often billed alongside Wojciech Rusin, Bianca Scout and aya. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Harry Górski-Brown is an experimental and ambient artist based in United Kingdo
 
 ## Recently played
 
-- Venues Across Glasgow, Glasgow — Thu, 24 Sept 2026
-- Shakirail, Paris — Wed, 6 May 2026
-- Various Venues, Bristol, Bristol — Wed, 22 Apr 2026
-- Galgael Trust, Glasgow — Sat, 18 Oct 2025
-- Filharmonia Krakowska, Krakow — Sun, 12 Oct 2025
-- Various venues - Kraków, Krakow — Tue, 7 Oct 2025
-- Next Door Records Two, London — Wed, 6 Aug 2025
-- PAV - Parco Arte Vivente, Turin — Sat, 28 Jun 2025
+- Venues Across Glasgow, Glasgow · Thu, 24 Sept 2026
+- Shakirail, Paris · Wed, 6 May 2026
+- Various Venues, Bristol, Bristol · Wed, 22 Apr 2026
+- Galgael Trust, Glasgow · Sat, 18 Oct 2025
+- Filharmonia Krakowska, Krakow · Sun, 12 Oct 2025
+- Various venues - Kraków, Krakow · Tue, 7 Oct 2025
+- Next Door Records Two, London · Wed, 6 Aug 2025
+- PAV - Parco Arte Vivente, Turin · Sat, 28 Jun 2025
 
 ## Shares bills with
 

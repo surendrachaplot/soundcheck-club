@@ -1,6 +1,6 @@
 # DUDJ PRESENTS: CRYME at Yamamori Tengu
 
-DUDJ PRESENTS: CRYME at Yamamori Tengu on Thu 29 Oct, Dublin. 2 artists on the bill: CRYME and Donncha. House and Dub Techno. Preview the line-up and save it on soundcheck.
+DUDJ PRESENTS: CRYME at Yamamori Tengu on Thu 29 Oct, Dublin. 2 artists: CRYME and Donncha. House and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

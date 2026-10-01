@@ -1,6 +1,6 @@
 # Massano at Playa del Carmen
 
-Massano at Playa del Carmen on Sat 31 Oct, Quintana Roo. 2 artists on the bill: Agnia and Massano. Preview the line-up and save it on soundcheck.
+Massano at Playa del Carmen on Sat 31 Oct, Quintana Roo. 2 artists: Agnia and Massano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

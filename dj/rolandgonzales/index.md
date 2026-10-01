@@ -1,8 +1,8 @@
 # Roland Gonzales
 
-Roland Gonzales is a House and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 416 Snack Bar, Toronto on Tue, 13 Oct 2026.
+Roland Gonzales is a House and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 416 Snack Bar, Toronto on Tue, 13 Oct 2026.
 
-Roland Gonzales is a house and downtempo artist based in Canada, tracked on soundcheck, with 142 sets logged across Kyoto, Montreal, New York City and Toronto and 1 more. Often billed alongside Sakiko Nagai, Toronto Hustle and Kiki LeFreak. Next up: 416 Snack Bar, Toronto on Tue 13 Oct.
+Roland Gonzales is a house and downtempo artist based in Canada, with 142 gigs on soundcheck across Kyoto, Montreal, New York City and Toronto and 1 more. Often billed alongside Sakiko Nagai, Toronto Hustle and Kiki LeFreak. Next up: 416 Snack Bar, Toronto on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Roland Gonzales is a house and downtempo artist based in Canada, tracked on soun
 
 ## Recently played
 
-- 416 Snack Bar, Toronto — Tue, 29 Sept 2026
-- Bambi's, Toronto — Fri, 25 Sept 2026
-- Toki Listening Bar, Toronto — Sat, 12 Sept 2026
-- 416 Snack Bar, Toronto — Tue, 1 Sept 2026
-- Paradise Grapevine Winery, Toronto — Sun, 23 Aug 2026
-- Paradise Grapevine Winery, Toronto — Sun, 23 Aug 2026
-- Paradise Grapevine Winery, Toronto — Sat, 15 Aug 2026
-- Toki Listening Bar, Toronto — Fri, 14 Aug 2026
+- 416 Snack Bar, Toronto · Tue, 29 Sept 2026
+- Bambi's, Toronto · Fri, 25 Sept 2026
+- Toki Listening Bar, Toronto · Sat, 12 Sept 2026
+- 416 Snack Bar, Toronto · Tue, 1 Sept 2026
+- Paradise Grapevine Winery, Toronto · Sun, 23 Aug 2026
+- Paradise Grapevine Winery, Toronto · Sun, 23 Aug 2026
+- Paradise Grapevine Winery, Toronto · Sat, 15 Aug 2026
+- Toki Listening Bar, Toronto · Fri, 14 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # NT's Loft: JIM (Live) at Night Tales Loft
 
-NT's Loft: JIM (Live) at Night Tales Loft on Thu 15 Oct, London. Preview the line-up and save it on soundcheck.
+NT's Loft: JIM (Live) at Night Tales Loft on Thu 15 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

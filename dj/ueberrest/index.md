@@ -1,8 +1,8 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Ueberrest is a Techno and Trance artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-Ueberrest is a techno and trance artist based in Switzerland, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+Ueberrest is a techno and trance artist based in Switzerland, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Ueberrest is a techno and trance artist based in Switzerland, tracked on soundch
 
 ## Recently played
 
-- Südbrücke Open Air, Cologne — Sat, 26 Sept 2026
-- Club Vaag, Antwerp — Fri, 25 Sept 2026
-- Westhafen, Leipzig — Sat, 19 Sept 2026
-- Zenith - Die Kulturhalle, Munich — Sat, 12 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
-- Maassilo, Rotterdam — Sat, 29 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
+- Südbrücke Open Air, Cologne · Sat, 26 Sept 2026
+- Club Vaag, Antwerp · Fri, 25 Sept 2026
+- Westhafen, Leipzig · Sat, 19 Sept 2026
+- Zenith - Die Kulturhalle, Munich · Sat, 12 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
+- Maassilo, Rotterdam · Sat, 29 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
 
 ## Shares bills with
 

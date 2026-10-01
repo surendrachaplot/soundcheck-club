@@ -1,6 +1,6 @@
 # Stone age 8th Anniversary at Nakano Heavysick Zero
 
-Stone age 8th Anniversary at Nakano Heavysick Zero on Sun 25 Oct, Tokyo. Dub and Experimental. Preview the line-up and save it on soundcheck.
+Stone age 8th Anniversary at Nakano Heavysick Zero on Sun 25 Oct, Tokyo. Dub and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

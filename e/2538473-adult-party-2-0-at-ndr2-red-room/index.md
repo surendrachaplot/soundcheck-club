@@ -1,6 +1,6 @@
 # Adult Party 2.0 at NDR2 Red Room
 
-Adult Party 2.0 at NDR2 Red Room on Fri 23 Oct, London. House and Pop. Preview the line-up and save it on soundcheck.
+Adult Party 2.0 at NDR2 Red Room on Fri 23 Oct, London. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Joseph Capriati at Q Nightclub
 
-Joseph Capriati at Q Nightclub on Thu 29 Oct, Seattle. 1 artist on the bill: Joseph Capriati. Preview the line-up and save it on soundcheck.
+Joseph Capriati at Q Nightclub on Thu 29 Oct, Seattle. 1 artist: Joseph Capriati. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

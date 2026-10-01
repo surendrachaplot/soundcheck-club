@@ -1,6 +1,6 @@
 # BRIDGE48 ROOFTOP SERIES at Nobu Hotel
 
-BRIDGE48 ROOFTOP SERIES at Nobu Hotel on Fri 2 Oct, Barcelona. House. Preview the line-up and save it on soundcheck.
+BRIDGE48 ROOFTOP SERIES at Nobu Hotel on Fri 2 Oct, Barcelona. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

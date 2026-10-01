@@ -1,8 +1,8 @@
 # miss jas
 
-miss jas is a Dubstep and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Club Makossa, London on Thu, 19 Nov 2026.
+miss jas is a Dubstep and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Makossa, London on Thu, 19 Nov 2026.
 
-miss jas is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside AUDIO DUNE, Buggery Grips and Christian James. Next up: Club Makossa, London on Thu 19 Nov.
+miss jas is a dubstep and bass artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside AUDIO DUNE, Buggery Grips and Christian James. Next up: Club Makossa, London on Thu 19 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ miss jas is a dubstep and bass artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Dalston Den, London — Sat, 22 Aug 2026
-- Planet Wax, London — Sat, 18 Jul 2026
-- Planet Wax, London — Thu, 25 Jun 2026
-- Mezzanine - Tooting, London — Sat, 30 May 2026
-- Groovetank Live, London — Thu, 28 May 2026
-- Two Tribes CAMPFIRE, London — Sat, 23 May 2026
-- Groovetank Live, London — Sat, 25 Apr 2026
-- Colour Factory, London — Sat, 21 Mar 2026
+- Dalston Den, London · Sat, 22 Aug 2026
+- Planet Wax, London · Sat, 18 Jul 2026
+- Planet Wax, London · Thu, 25 Jun 2026
+- Mezzanine - Tooting, London · Sat, 30 May 2026
+- Groovetank Live, London · Thu, 28 May 2026
+- Two Tribes CAMPFIRE, London · Sat, 23 May 2026
+- Groovetank Live, London · Sat, 25 Apr 2026
+- Colour Factory, London · Sat, 21 Mar 2026
 
 ## Shares bills with
 

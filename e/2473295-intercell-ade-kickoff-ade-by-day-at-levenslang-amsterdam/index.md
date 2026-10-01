@@ -1,6 +1,6 @@
 # Intercell ADE Kickoff | ADE By Day at Levenslang Amsterdam
 
-Intercell ADE Kickoff | ADE By Day at Levenslang Amsterdam on Wed 21 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Intercell ADE Kickoff | ADE By Day at Levenslang Amsterdam on Wed 21 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

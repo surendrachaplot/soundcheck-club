@@ -1,6 +1,6 @@
 # BAILE EUROPA: HALLOWEEN at The Club (Málaga)
 
-BAILE EUROPA: HALLOWEEN at The Club (Málaga) on Fri 30 Oct, Malaga. 1 artist on the bill: Neeiv. Baile Funk and Rio Funk. Preview the line-up and save it on soundcheck.
+BAILE EUROPA: HALLOWEEN at The Club (Málaga) on Fri 30 Oct, Malaga. 1 artist: Neeiv. Baile Funk and Rio Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

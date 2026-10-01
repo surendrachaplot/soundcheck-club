@@ -1,6 +1,6 @@
 # Infra & Machina present: Rene Wise, Siia, & J.I.A at 288 Green St
 
-Infra & Machina present: Rene Wise, Siia, & J.I.A at 288 Green St on Fri 2 Oct, Boston. 3 artists on the bill: J.I.A., Rene Wise and Siia. Techno. Preview the line-up and save it on soundcheck.
+Infra & Machina present: Rene Wise, Siia, & J.I.A at 288 Green St on Fri 2 Oct, Boston. 3 artists: J.I.A., Rene Wise and Siia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

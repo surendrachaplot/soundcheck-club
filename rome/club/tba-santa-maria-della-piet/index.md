@@ -1,8 +1,8 @@
 # TBA - Santa Maria della Pietà
 
-TBA - Santa Maria della Pietà is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "[DAY] Lost Boys at S. Maria della Pietà" on Sat, 3 Oct 2026.
+TBA - Santa Maria della Pietà is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "[DAY] Lost Boys at S. Maria della Pietà" on Sat, 3 Oct 2026.
 
-TBA - Santa Maria della Pietà is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Brasi, Cinthie, Dante (H501) and Ferrari and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Santa Maria della Pietà is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Brasi, Cinthie, Dante (H501) and Ferrari and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

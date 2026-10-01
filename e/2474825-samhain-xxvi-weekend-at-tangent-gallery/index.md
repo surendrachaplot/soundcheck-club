@@ -1,6 +1,6 @@
 # SAMHAIN XXVI WEEKEND at Tangent Gallery
 
-SAMHAIN XXVI WEEKEND at Tangent Gallery on Fri 30 Oct, Detroit. 14 artists on the bill: Afra, BMG, Daniel Bell and Erika and 10 more. Preview the line-up and save it on soundcheck.
+SAMHAIN XXVI WEEKEND at Tangent Gallery on Fri 30 Oct, Detroit. 14 artists: Afra, BMG, Daniel Bell and Erika and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

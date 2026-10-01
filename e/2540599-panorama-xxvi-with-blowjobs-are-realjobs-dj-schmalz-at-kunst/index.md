@@ -1,6 +1,6 @@
 # Panorama XXVI with blowjobs are realjobs & DJ Schmalz at Kunsthaus Hamburg
 
-Panorama XXVI with blowjobs are realjobs & DJ Schmalz at Kunsthaus Hamburg on Thu 1 Oct, Hamburg. Noise. Preview the line-up and save it on soundcheck.
+Panorama XXVI with blowjobs are realjobs & DJ Schmalz at Kunsthaus Hamburg on Thu 1 Oct, Hamburg. Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

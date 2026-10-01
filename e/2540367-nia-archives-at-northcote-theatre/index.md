@@ -1,6 +1,6 @@
 # Nia Archives at Northcote Theatre
 
-Nia Archives at Northcote Theatre on Wed 6 Jan, Melbourne. 1 artist on the bill: Nia Archives. Preview the line-up and save it on soundcheck.
+Nia Archives at Northcote Theatre on Wed 6 Jan, Melbourne. 1 artist: Nia Archives. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

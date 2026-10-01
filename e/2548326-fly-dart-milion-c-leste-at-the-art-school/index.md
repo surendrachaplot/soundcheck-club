@@ -1,6 +1,6 @@
 # FLY - DART, Milion & Céleste at The Art School
 
-FLY - DART, Milion & Céleste at The Art School on Sat 17 Oct, Glasgow. 3 artists on the bill: Céleste, DART and Milion. Preview the line-up and save it on soundcheck.
+FLY - DART, Milion & Céleste at The Art School on Sat 17 Oct, Glasgow. 3 artists: Céleste, DART and Milion. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

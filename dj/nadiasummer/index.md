@@ -1,8 +1,8 @@
 # Nadia Summer
 
-Nadia Summer is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Liquid Room, Edinburgh on Sat, 31 Oct 2026.
+Nadia Summer is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Liquid Room, Edinburgh on Sat, 31 Oct 2026.
 
-Nadia Summer is a house and garage artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Bristol, Edinburgh and Glasgow and 2 more. Often billed alongside PASO, Archie Holmes and Oakley Carter. Next up: The Liquid Room, Edinburgh on Sat 31 Oct.
+Nadia Summer is a house and garage artist based in United Kingdom, with 54 gigs on soundcheck across Amsterdam, Bristol, Edinburgh and Glasgow and 2 more. Often billed alongside PASO, Archie Holmes and Oakley Carter. Next up: The Liquid Room, Edinburgh on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Nadia Summer is a house and garage artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Document, Bristol — Fri, 25 Sept 2026
-- E1, London — Sat, 5 Sept 2026
-- XOYO, London — Thu, 20 Aug 2026
-- West Street, Glasgow — Sat, 15 Aug 2026
-- The Cross, London — Sat, 20 Jun 2026
-- Riverside Museum, Glasgow — Fri, 22 May 2026
-- Sub Club, Glasgow — Thu, 7 May 2026
-- Thorne Records, Edinburgh — Tue, 7 Apr 2026
+- Document, Bristol · Fri, 25 Sept 2026
+- E1, London · Sat, 5 Sept 2026
+- XOYO, London · Thu, 20 Aug 2026
+- West Street, Glasgow · Sat, 15 Aug 2026
+- The Cross, London · Sat, 20 Jun 2026
+- Riverside Museum, Glasgow · Fri, 22 May 2026
+- Sub Club, Glasgow · Thu, 7 May 2026
+- Thorne Records, Edinburgh · Tue, 7 Apr 2026
 
 ## Shares bills with
 

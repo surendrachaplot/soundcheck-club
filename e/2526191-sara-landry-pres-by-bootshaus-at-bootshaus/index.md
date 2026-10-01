@@ -1,6 +1,6 @@
 # Sara Landry pres. by Bootshaus at Bootshaus
 
-Sara Landry pres. by Bootshaus on Fri 11 Dec, Cologne. 1 artist on the bill: Sara Landry. Techno. Preview the line-up and save it on soundcheck.
+Sara Landry pres. by Bootshaus on Fri 11 Dec, Cologne. 1 artist: Sara Landry. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

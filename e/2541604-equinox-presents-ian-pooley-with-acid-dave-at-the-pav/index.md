@@ -1,6 +1,6 @@
 # Equinox presents: Ian Pooley with acid dave at The Pav
 
-Equinox presents: Ian Pooley with acid dave at The Pav on Sun 25 Oct, Cork. 2 artists on the bill: acid dave and Ian Pooley. Preview the line-up and save it on soundcheck.
+Equinox presents: Ian Pooley with acid dave at The Pav on Sun 25 Oct, Cork. 2 artists: acid dave and Ian Pooley. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

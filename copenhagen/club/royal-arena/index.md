@@ -1,8 +1,8 @@
 # Royal Arena
 
-Royal Arena is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Prodigy // Royal Arena" on Tue, 17 Nov 2026.
+Royal Arena is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Prodigy // Royal Arena" on Tue, 17 Nov 2026.
 
-Royal Arena is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including The Prodigy. Browse upcoming dates, start times and who's playing. Hannemanns Allé 18-20 2300 København S Danmark.
+Royal Arena is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including The Prodigy. See dates, start times and who's playing. Hannemanns Allé 18-20 2300 København S Danmark.
 
 ## What's on
 

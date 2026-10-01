@@ -1,6 +1,6 @@
 # Goanautika w./ Bliss at M-BIA
 
-Goanautika w./ Bliss at M-BIA on Sat 24 Oct, Berlin. 6 artists on the bill: Allexandra, Azura, Basstronauten and Bliss and 2 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Goanautika w./ Bliss at M-BIA on Sat 24 Oct, Berlin. 6 artists: Allexandra, Azura, Basstronauten and Bliss and 2 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

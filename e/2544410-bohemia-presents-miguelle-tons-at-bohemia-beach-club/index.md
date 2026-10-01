@@ -1,6 +1,6 @@
 # Bohemia presents Miguelle & TONS at Bohemia Beach Club
 
-Bohemia presents Miguelle & TONS at Bohemia Beach Club on Sat 12 Dec, Dubai. 2 artists on the bill: Miguelle and TONS. Preview the line-up and save it on soundcheck.
+Bohemia presents Miguelle & TONS at Bohemia Beach Club on Sat 12 Dec, Dubai. 2 artists: Miguelle and TONS. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

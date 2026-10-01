@@ -1,8 +1,8 @@
 # Eli Brown
 
-Eli Brown is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 18 Oct 2026.
+Eli Brown is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 18 Oct 2026.
 
-Eli Brown is a techno and house artist based in United Kingdom, tracked on soundcheck, with 153 sets logged across Aberdeen, Amsterdam, Athens and Auckland and 46 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 18 Oct.
+Eli Brown is a techno and house artist based in United Kingdom, with 153 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Auckland and 46 more. Often billed alongside Adam Beyer, John Summit and Anfisa Letyago. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Eli Brown is a techno and house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- The Concourse Project, Austin — Sat, 26 Sept 2026
-- Factory Town, Miami — Fri, 25 Sept 2026
-- [UNVRS], Ibiza — Mon, 14 Sept 2026
-- Akvárium Klub, Budapest — Fri, 11 Sept 2026
-- Akvárium Klub, Budapest — Fri, 11 Sept 2026
-- Big Night Live, Boston — Fri, 7 Aug 2026
-- Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
-- [UNVRS], Ibiza — Mon, 13 Jul 2026
+- The Concourse Project, Austin · Sat, 26 Sept 2026
+- Factory Town, Miami · Fri, 25 Sept 2026
+- [UNVRS], Ibiza · Mon, 14 Sept 2026
+- Akvárium Klub, Budapest · Fri, 11 Sept 2026
+- Akvárium Klub, Budapest · Fri, 11 Sept 2026
+- Big Night Live, Boston · Fri, 7 Aug 2026
+- Amnesia Ibiza, Ibiza · Wed, 22 Jul 2026
+- [UNVRS], Ibiza · Mon, 13 Jul 2026
 
 ## Shares bills with
 

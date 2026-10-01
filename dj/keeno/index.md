@@ -1,8 +1,8 @@
 # Keeno
 
-Keeno is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Soup, Manchester on Sat, 3 Oct 2026.
+Keeno is a Drum & Bass and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Soup, Manchester on Sat, 3 Oct 2026.
 
-Keeno is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Whiney, AKTIVE and Hiraeth. Next up: Soup, Manchester on Sat 3 Oct.
+Keeno is a drum & bass and jungle artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 10 more. Often billed alongside Whiney, AKTIVE and Hiraeth. Next up: Soup, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Keeno is a drum & bass and jungle artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- The Chapel Angel Microbrewery, Nottingham — Thu, 20 Aug 2026
-- Lost Horizon, Bristol — Sat, 27 Jun 2026
-- Razzmatazz, Barcelona — Sun, 24 May 2026
-- XOYO, London — Sat, 25 Apr 2026
-- Bootshaus, Cologne — Sat, 4 Apr 2026
-- Bootshaus, Cologne — Sat, 4 Apr 2026
-- Lost Horizon, Bristol — Sat, 28 Feb 2026
-- The Clock Factory, Bristol — Fri, 5 Dec 2025
+- The Chapel Angel Microbrewery, Nottingham · Thu, 20 Aug 2026
+- Lost Horizon, Bristol · Sat, 27 Jun 2026
+- Razzmatazz, Barcelona · Sun, 24 May 2026
+- XOYO, London · Sat, 25 Apr 2026
+- Bootshaus, Cologne · Sat, 4 Apr 2026
+- Bootshaus, Cologne · Sat, 4 Apr 2026
+- Lost Horizon, Bristol · Sat, 28 Feb 2026
+- The Clock Factory, Bristol · Fri, 5 Dec 2025
 
 ## Shares bills with
 

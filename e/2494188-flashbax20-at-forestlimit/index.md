@@ -1,6 +1,6 @@
 # ''fLASHBAx20'' at Forestlimit
 
-''fLASHBAx20'' at Forestlimit on Sat 24 Oct, Tokyo. 1 artist on the bill: Orphids. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+''fLASHBAx20'' at Forestlimit on Sat 24 Oct, Tokyo. 1 artist: Orphids. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TECHNOTES at DeTour
 
-TECHNOTES at DeTour on Sun 4 Oct, Tokyo. 2 artists on the bill: BEPPU and YU-S-KE. Techno. Preview the line-up and save it on soundcheck.
+TECHNOTES at DeTour on Sun 4 Oct, Tokyo. 2 artists: BEPPU and YU-S-KE. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

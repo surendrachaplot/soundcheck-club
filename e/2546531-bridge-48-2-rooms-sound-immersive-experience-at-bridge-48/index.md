@@ -1,6 +1,6 @@
 # BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48
 
-BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48 on Fri 30 Oct, Barcelona. 2 artists on the bill: Diego Ro-k and Mac. Preview the line-up and save it on soundcheck.
+BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48 on Fri 30 Oct, Barcelona. 2 artists: Diego Ro-k and Mac. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

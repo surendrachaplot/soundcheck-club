@@ -1,8 +1,8 @@
 # Arlo Parks
 
-Arlo Parks is a R&B and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Akvárium Klub, Budapest on Thu, 22 Oct 2026.
+Arlo Parks is a R&B and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Akvárium Klub, Budapest on Thu, 22 Oct 2026.
 
-Arlo Parks is a r&b and techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin, Bristol, Budapest and Copenhagen and 3 more. Often billed alongside Lil Silva, AGY3NA and AndShe. Next up: Akvárium Klub, Budapest on Thu 22 Oct.
+Arlo Parks is a r&b and techno artist based in United Kingdom, with 8 gigs on soundcheck across Berlin, Bristol, Budapest and Copenhagen and 3 more. Often billed alongside Lil Silva, AGY3NA and AndShe. Next up: Akvárium Klub, Budapest on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -14,11 +14,11 @@ Arlo Parks is a r&b and techno artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Lincoln Factory, Detroit — Sat, 5 Sept 2026
-- Palais, London — Thu, 23 Apr 2026
-- The Dark Horse Camden, London — Thu, 26 Feb 2026
-- Clifton Downs, Bristol — Sat, 2 Sept 2023
-- MS Artville, Hamburg — Fri, 18 Aug 2023
+- Lincoln Factory, Detroit · Sat, 5 Sept 2026
+- Palais, London · Thu, 23 Apr 2026
+- The Dark Horse Camden, London · Thu, 26 Feb 2026
+- Clifton Downs, Bristol · Sat, 2 Sept 2023
+- MS Artville, Hamburg · Fri, 18 Aug 2023
 
 ## Shares bills with
 

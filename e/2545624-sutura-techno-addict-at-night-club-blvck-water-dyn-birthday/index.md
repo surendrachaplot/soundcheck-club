@@ -1,6 +1,6 @@
 # 'sutura' TECHNO ADDICT at Night Club Blvck Water ~dyn Birthday Bash~ at Blvck Water
 
-'sutura' TECHNO ADDICT at Night Club Blvck Water ~dyn Birthday Bash~ on Tue 27 Oct, Osaka. 4 artists on the bill: amor (JP), dyn (JP), ZAGUN and 死者蘇生CH. Trance and Techno. Preview the line-up and save it on soundcheck.
+'sutura' TECHNO ADDICT at Night Club Blvck Water ~dyn Birthday Bash~ on Tue 27 Oct, Osaka. 4 artists: amor (JP), dyn (JP), ZAGUN and 死者蘇生CH. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

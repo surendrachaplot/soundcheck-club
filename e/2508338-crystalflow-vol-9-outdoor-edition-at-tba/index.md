@@ -1,6 +1,6 @@
 # CRYSTALFLOW vol.9 -OUTDOOR EDITION- at TBA
 
-CRYSTALFLOW vol.9 -OUTDOOR EDITION- at TBA on Sat 10 Oct, Kanto. 4 artists on the bill: CATRONICA, DJ Maco, Koyas and Luna*. Preview the line-up and save it on soundcheck.
+CRYSTALFLOW vol.9 -OUTDOOR EDITION- at TBA on Sat 10 Oct, Kanto. 4 artists: CATRONICA, DJ Maco, Koyas and Luna*. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

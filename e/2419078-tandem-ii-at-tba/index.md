@@ -1,6 +1,6 @@
 # Tandem II at TBA
 
-Tandem II at TBA on Sat 3 Oct, Buffalo Rochester. 1 artist on the bill: Scotia. Preview the line-up and save it on soundcheck.
+Tandem II at TBA on Sat 3 Oct, Buffalo Rochester. 1 artist: Scotia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

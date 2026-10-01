@@ -1,6 +1,6 @@
 # Unofficial Suede & Manic Street Preachers O2 afterparty (London) at The White Swan
 
-Unofficial Suede & Manic Street Preachers O2 afterparty (London) at The White Swan on Fri 6 Nov, London. Pop and Post-Punk. Preview the line-up and save it on soundcheck.
+Unofficial Suede & Manic Street Preachers O2 afterparty (London) at The White Swan on Fri 6 Nov, London. Pop and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

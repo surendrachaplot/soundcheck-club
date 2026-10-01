@@ -1,8 +1,8 @@
 # Barrio Cafe
 
-Barrio Cafe is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "CAVE invites Bear-Necessity - Bears Attack" on Sat, 3 Oct 2026.
+Barrio Cafe is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CAVE invites Bear-Necessity - Bears Attack" on Sat, 3 Oct 2026.
 
-Barrio Cafe is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Buday, Minopolska and Thomas M. Browse upcoming dates, start times and who's playing. Pl. de la Chapelle 6, 1000 Bruxelles, Belgium.
+Barrio Cafe is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Buday, Minopolska and Thomas M. See dates, start times and who's playing. Pl. de la Chapelle 6, 1000 Bruxelles, Belgium.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Frankie Flowerz
 
-Frankie Flowerz is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KitKatClub, Berlin on Mon, 5 Oct 2026.
+Frankie Flowerz is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KitKatClub, Berlin on Mon, 5 Oct 2026.
 
-Frankie Flowerz is a techno and house artist based in Germany, tracked on soundcheck, with 208 sets logged across Barcelona, Berlin, Frankfurt and Madrid and 2 more. Often billed alongside Diego Montiel, Norman Weber and Diana May. Next up: KitKatClub, Berlin on Mon 5 Oct.
+Frankie Flowerz is a techno and house artist based in Germany, with 208 gigs on soundcheck across Barcelona, Berlin, Frankfurt and Madrid and 2 more. Often billed alongside Diego Montiel, Norman Weber and Diana May. Next up: KitKatClub, Berlin on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Frankie Flowerz is a techno and house artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- KitKatClub, Berlin — Mon, 28 Sept 2026
-- KitKatClub, Berlin — Mon, 21 Sept 2026
-- KitKatClub, Berlin — Mon, 14 Sept 2026
-- Zur Insel, Frankfurt — Sat, 12 Sept 2026
-- KitKatClub, Berlin — Mon, 7 Sept 2026
-- KitKatClub, Berlin — Mon, 31 Aug 2026
-- KitKatClub, Berlin — Mon, 24 Aug 2026
-- KitKatClub, Berlin — Mon, 17 Aug 2026
+- KitKatClub, Berlin · Mon, 28 Sept 2026
+- KitKatClub, Berlin · Mon, 21 Sept 2026
+- KitKatClub, Berlin · Mon, 14 Sept 2026
+- Zur Insel, Frankfurt · Sat, 12 Sept 2026
+- KitKatClub, Berlin · Mon, 7 Sept 2026
+- KitKatClub, Berlin · Mon, 31 Aug 2026
+- KitKatClub, Berlin · Mon, 24 Aug 2026
+- KitKatClub, Berlin · Mon, 17 Aug 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Raphael Carrau
 
-Raphael Carrau is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Les Enfants Brillants, Barcelona on Sat, 24 Oct 2026.
+Raphael Carrau is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Les Enfants Brillants, Barcelona on Sat, 24 Oct 2026.
 
-Raphael Carrau is a house and techno artist based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Austin, Bali and Bangkok and 37 more. Often billed alongside Unai Trotti, Colin Chiddle and Vass. Next up: Les Enfants Brillants, Barcelona on Sat 24 Oct.
+Raphael Carrau is a house and techno artist based in United Kingdom, with 136 gigs on soundcheck across Amsterdam, Austin, Bali and Bangkok and 37 more. Often billed alongside Unai Trotti, Colin Chiddle and Vass. Next up: Les Enfants Brillants, Barcelona on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Raphael Carrau is a house and techno artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Starlane Pizza Bar, London — Sat, 19 Sept 2026
-- Lux Fragil, Lisbon — Sat, 5 Sept 2026
-- Sunseabar Beach Club, Barcelona — Sun, 9 Aug 2026
-- TBA - Comporta, Lisbon — Sat, 1 Aug 2026
-- Night Tales, London — Fri, 31 Jul 2026
-- Starlane Pizza Bar, London — Fri, 31 Jul 2026
-- The Back Room, Bali — Fri, 17 Jul 2026
-- teller, Seoul — Thu, 16 Jul 2026
+- Starlane Pizza Bar, London · Sat, 19 Sept 2026
+- Lux Fragil, Lisbon · Sat, 5 Sept 2026
+- Sunseabar Beach Club, Barcelona · Sun, 9 Aug 2026
+- TBA - Comporta, Lisbon · Sat, 1 Aug 2026
+- Night Tales, London · Fri, 31 Jul 2026
+- Starlane Pizza Bar, London · Fri, 31 Jul 2026
+- The Back Room, Bali · Fri, 17 Jul 2026
+- teller, Seoul · Thu, 16 Jul 2026
 
 ## Shares bills with
 

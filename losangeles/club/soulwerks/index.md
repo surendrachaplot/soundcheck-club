@@ -1,8 +1,8 @@
 # Soulwerks
 
-Soulwerks is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "GREEN LIFE ENT. 15YR ANNIVERSARY + WELCOME BACK Jesse Saunders + Thee-O'S BIRTHDAY BASH" on Sun, 15 Nov 2026.
+Soulwerks is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "GREEN LIFE ENT. 15YR ANNIVERSARY + WELCOME BACK Jesse Saunders + Thee-O'S BIRTHDAY BASH" on Sun, 15 Nov 2026.
 
-Soulwerks is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Bret Wallace, DJ Colette, Donald Glaude and Jesse Saunders and 1 more. Browse upcoming dates, start times and who's playing. 5168 valley blvd.
+Soulwerks is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig, with line-ups including Bret Wallace, DJ Colette, Donald Glaude and Jesse Saunders and 1 more. See dates, start times and who's playing. 5168 valley blvd.
 
 ## What's on
 

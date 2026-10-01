@@ -1,6 +1,6 @@
 # FUSIONZ pres. Johanna Bozai F2F ädene ALL NIGHT LONG / FREE EVENT at Arzenal
 
-FUSIONZ pres. Johanna Bozai F2F ädene ALL NIGHT LONG / FREE EVENT at Arzenal on Sat 14 Nov, Budapest. 2 artists on the bill: ädene and Johanna Bozai. Techno. Preview the line-up and save it on soundcheck.
+FUSIONZ pres. Johanna Bozai F2F ädene ALL NIGHT LONG / FREE EVENT at Arzenal on Sat 14 Nov, Budapest. 2 artists: ädene and Johanna Bozai. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

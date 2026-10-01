@@ -1,6 +1,6 @@
 # Scream YEG (Discount Code: 'HUGS') at Edmonton Expo Center
 
-Scream YEG (Discount Code: 'HUGS') at Edmonton Expo Center on Fri 30 Oct, Edmonton. 16 artists on the bill: Alesso, Andrew Rayel, Anime and Blossom and 12 more. Preview the line-up and save it on soundcheck.
+Scream YEG (Discount Code: 'HUGS') at Edmonton Expo Center on Fri 30 Oct, Edmonton. 16 artists: Alesso, Andrew Rayel, Anime and Blossom and 12 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

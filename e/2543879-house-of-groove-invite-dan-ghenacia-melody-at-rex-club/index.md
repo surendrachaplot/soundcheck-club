@@ -1,6 +1,6 @@
 # House Of Groove invite: Dan Ghenacia, Melody at Rex Club
 
-House Of Groove invite: Dan Ghenacia, Melody at Rex Club on Sat 24 Oct, Paris. 2 artists on the bill: Dan Ghenacia and Melody RA+RE. House and Tech House. Preview the line-up and save it on soundcheck.
+House Of Groove invite: Dan Ghenacia, Melody at Rex Club on Sat 24 Oct, Paris. 2 artists: Dan Ghenacia and Melody RA+RE. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

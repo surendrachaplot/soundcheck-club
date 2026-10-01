@@ -1,8 +1,8 @@
 # Larocafé
 
-Larocafé is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "RADIO SOFA x LICENCE TO DREAM x TWEAK SOUNDSYSTEM" on Sun, 1 Nov 2026.
+Larocafé is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "RADIO SOFA x LICENCE TO DREAM x TWEAK SOUNDSYSTEM" on Sun, 1 Nov 2026.
 
-Larocafé is a music venue in Paris listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+Larocafé is a music venue in Paris listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

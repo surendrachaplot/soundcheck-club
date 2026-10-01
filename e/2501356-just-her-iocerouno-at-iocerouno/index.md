@@ -1,6 +1,6 @@
 # Just Her - iocerouno at Iocerouno
 
-Just Her - iocerouno at Iocerouno on Sat 28 Nov, Monterrey. 1 artist on the bill: Just Her. Preview the line-up and save it on soundcheck.
+Just Her - iocerouno at Iocerouno on Sat 28 Nov, Monterrey. 1 artist: Just Her. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

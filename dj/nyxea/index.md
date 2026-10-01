@@ -1,8 +1,8 @@
 # NYXEA
 
-NYXEA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+NYXEA is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-NYXEA is a techno and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Düsseldorf. Often billed alongside Milchgeld, RHYTMOX and Texo. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+NYXEA is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin and Düsseldorf. Often billed alongside Milchgeld, FKNSIL and RHYTMOX. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ NYXEA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
+| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
 | Fri, 9 Oct 2026 | M-BIA | Berlin |
 | Fri, 23 Oct 2026 | M-BIA | Berlin |
 | Fri, 30 Oct 2026 | M-BIA | Berlin |
@@ -17,17 +18,17 @@ NYXEA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Großer Bunkerberg Volkspark Fhain, Berlin — Sat, 5 Sept 2026
-- M-BIA, Berlin — Sat, 18 Jul 2026
-- Sensorium, Berlin — Sat, 11 Jul 2026
-- Strandbad Erkner, Berlin — Sat, 30 May 2026
-- M-BIA, Berlin — Sat, 30 May 2026
-- ÆDEN, Berlin — Fri, 29 May 2026
-- M-BIA, Berlin — Sat, 16 May 2026
-- M-BIA, Berlin — Fri, 24 Apr 2026
+- Großer Bunkerberg Volkspark Fhain, Berlin · Sat, 5 Sept 2026
+- M-BIA, Berlin · Sat, 18 Jul 2026
+- Sensorium, Berlin · Sat, 11 Jul 2026
+- Strandbad Erkner, Berlin · Sat, 30 May 2026
+- M-BIA, Berlin · Sat, 30 May 2026
+- ÆDEN, Berlin · Fri, 29 May 2026
+- M-BIA, Berlin · Sat, 16 May 2026
+- M-BIA, Berlin · Fri, 24 Apr 2026
 
 ## Shares bills with
 
-Milchgeld, RHYTMOX, Texo
+Milchgeld, FKNSIL, RHYTMOX
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nyxea/)*

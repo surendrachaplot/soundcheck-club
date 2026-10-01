@@ -1,6 +1,6 @@
 # Andrew´s Homeparty at Pickwick's
 
-Andrew´s Homeparty at Pickwick's on Fri 2 Oct, Vienna. Trance and Tech House. Preview the line-up and save it on soundcheck.
+Andrew´s Homeparty at Pickwick's on Fri 2 Oct, Vienna. Trance and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

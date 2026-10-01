@@ -1,8 +1,8 @@
 # Moonbootica
 
-Moonbootica is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fridas Pier, Stuttgart on Sat, 28 Nov 2026.
+Moonbootica is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fridas Pier, Stuttgart on Sat, 28 Nov 2026.
 
-Moonbootica is a techno and house artist based in Germany, tracked on soundcheck, with 38 sets logged across Austria, Berlin, Cologne and Düsseldorf and 7 more. Often billed alongside Format B, AKA AKA and Dominik Eulberg. Next up: Fridas Pier, Stuttgart on Sat 28 Nov.
+Moonbootica is a techno and house artist based in Germany, with 38 gigs on soundcheck across Austria, Berlin, Cologne and Düsseldorf and 7 more. Often billed alongside Format B, AKA AKA and Dominik Eulberg. Next up: Fridas Pier, Stuttgart on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Moonbootica is a techno and house artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Ritter Butzke, Berlin — Sat, 26 Sept 2026
-- Pacha, Munich — Fri, 4 Sept 2026
-- Marienbergpark, Nürnberg — Sat, 29 Aug 2026
-- Odonien, Cologne — Fri, 28 Aug 2026
-- TBA - Robert-Lehr-Ufer 2, 40474 Düsseldorf, Düsseldorf — Sat, 15 Aug 2026
-- TBA - Landungsbrücken, Brücke 7A, 20359 Hamburg, Hamburg — Sat, 1 Aug 2026
-- Treptower Park, Berlin — Sat, 11 Jul 2026
-- Weekend, Berlin — Sat, 11 Jul 2026
+- Ritter Butzke, Berlin · Sat, 26 Sept 2026
+- Pacha, Munich · Fri, 4 Sept 2026
+- Marienbergpark, Nürnberg · Sat, 29 Aug 2026
+- Odonien, Cologne · Fri, 28 Aug 2026
+- TBA - Robert-Lehr-Ufer 2, 40474 Düsseldorf, Düsseldorf · Sat, 15 Aug 2026
+- TBA - Landungsbrücken, Brücke 7A, 20359 Hamburg, Hamburg · Sat, 1 Aug 2026
+- Treptower Park, Berlin · Sat, 11 Jul 2026
+- Weekend, Berlin · Sat, 11 Jul 2026
 
 ## Shares bills with
 

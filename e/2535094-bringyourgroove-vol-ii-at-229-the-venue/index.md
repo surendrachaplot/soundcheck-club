@@ -1,6 +1,6 @@
 # BringYourGroove (Vol II) at 229 The Venue
 
-BringYourGroove (Vol II) at 229 The Venue on Sat 14 Nov, London. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+BringYourGroove (Vol II) at 229 The Venue on Sat 14 Nov, London. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

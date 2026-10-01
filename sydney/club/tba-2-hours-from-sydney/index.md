@@ -1,8 +1,8 @@
 # TBA - 2 Hours from Sydney
 
-TBA - 2 Hours from Sydney is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Peoplemover Soundsystem Presents: Mountain Dub" on Fri, 20 Nov 2026.
+TBA - 2 Hours from Sydney is a music venue in Sydney with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Peoplemover Soundsystem Presents: Mountain Dub" on Fri, 20 Nov 2026.
 
-TBA - 2 Hours from Sydney is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Ari Kiko, au4r33y and Glen S. Browse upcoming dates, start times and who's playing.
+TBA - 2 Hours from Sydney is a music venue in Sydney listed on soundcheck. 2 upcoming gigs, with line-ups including Ari Kiko, au4r33y and Glen S. See dates, start times and who's playing.
 
 ## What's on
 

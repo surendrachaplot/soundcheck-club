@@ -1,6 +1,6 @@
 # ★ WE KEEP US SAFE #3 - A FUNDRAISER FOR LOCAL ANTIFASCIST EFFORTS ★ at Sandbar Withington
 
-★ WE KEEP US SAFE #3 - A FUNDRAISER FOR LOCAL ANTIFASCIST EFFORTS ★ at Sandbar Withington on Sat 10 Oct, Manchester. 3 artists on the bill: Baba Sketch, Chande and FOULMOUTH. Bass and Electro. Preview the line-up and save it on soundcheck.
+★ WE KEEP US SAFE #3 - A FUNDRAISER FOR LOCAL ANTIFASCIST EFFORTS ★ at Sandbar Withington on Sat 10 Oct, Manchester. 3 artists: Baba Sketch, Chande and FOULMOUTH. Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

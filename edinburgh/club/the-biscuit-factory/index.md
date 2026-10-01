@@ -1,8 +1,8 @@
 # The Biscuit Factory
 
-The Biscuit Factory is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Balkanarama feat FANFARE CIOCARLIA" on Sat, 10 Oct 2026.
+The Biscuit Factory is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Balkanarama feat FANFARE CIOCARLIA" on Sat, 10 Oct 2026.
 
-The Biscuit Factory is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Cormac and Simonotron. Browse upcoming dates, start times and who's playing. 4-6 Anderson Place, Edinburgh, EH6 5NP.
+The Biscuit Factory is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Cormac and Simonotron. See dates, start times and who's playing. 4-6 Anderson Place, Edinburgh, EH6 5NP.
 
 ## What's on
 

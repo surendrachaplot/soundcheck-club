@@ -1,8 +1,8 @@
 # flo Soakin
 
-flo Soakin is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "molekühl Asia Tour" on Fri, 2 Oct 2026.
+flo Soakin is a music venue in Osaka with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "molekühl Asia Tour" on Fri, 2 Oct 2026.
 
-flo Soakin is a music venue in Osaka listed on soundcheck. 2 upcoming gigs, with line-ups including AZ (JP), Daisuke Kakimoto, Koji Nakamura and molekühl. Browse upcoming dates, start times and who's playing. Japan, 〒541-0057 Osaka, Chuo Ward, Kitakyuhojimachi, 2 Chome−2−13 B1.
+flo Soakin is a music venue in Osaka listed on soundcheck. 2 upcoming gigs, with line-ups including AZ (JP), Daisuke Kakimoto, Koji Nakamura and molekühl. See dates, start times and who's playing. Japan, 〒541-0057 Osaka, Chuo Ward, Kitakyuhojimachi, 2 Chome−2−13 B1.
 
 ## What's on
 

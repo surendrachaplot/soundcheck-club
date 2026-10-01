@@ -1,6 +1,6 @@
 # Uhaul Dyke Rave: Take The Wheel at Distillery N17
 
-Uhaul Dyke Rave: Take The Wheel at Distillery N17 on Fri 9 Oct, London. 2 artists on the bill: BAMBI (UK) and Sazzle. Preview the line-up and save it on soundcheck.
+Uhaul Dyke Rave: Take The Wheel at Distillery N17 on Fri 9 Oct, London. 2 artists: BAMBI (UK) and Sazzle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

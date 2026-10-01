@@ -1,8 +1,8 @@
 # Layson
 
-Layson is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Planet Wax, London on Sat, 31 Oct 2026.
+Layson is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Sat, 31 Oct 2026.
 
-Layson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across London and Manchester. Often billed alongside Marlon Baleci, Nick Clev and Sam Beach. Next up: Planet Wax, London on Sat 31 Oct.
+Layson is a house and techno artist based in United Kingdom, with 16 gigs on soundcheck across London and Manchester. Often billed alongside Marlon Baleci, Nick Clev and Sam Beach. Next up: Planet Wax, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Layson is a house and techno artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- The Glove That Fits, London — Fri, 25 Sept 2026
-- The DBA, Manchester — Fri, 11 Sept 2026
-- fabric, London — Sat, 5 Sept 2026
-- Next Door Records Two, London — Sat, 29 Aug 2026
-- Crate Brewery, London — Sat, 23 May 2026
-- Bricks, London — Fri, 1 May 2026
-- APT Disco, Manchester — Fri, 10 Apr 2026
-- Cupra City Garage Manchester, Manchester — Sat, 20 Dec 2025
+- The Glove That Fits, London · Fri, 25 Sept 2026
+- The DBA, Manchester · Fri, 11 Sept 2026
+- fabric, London · Sat, 5 Sept 2026
+- Next Door Records Two, London · Sat, 29 Aug 2026
+- Crate Brewery, London · Sat, 23 May 2026
+- Bricks, London · Fri, 1 May 2026
+- APT Disco, Manchester · Fri, 10 Apr 2026
+- Cupra City Garage Manchester, Manchester · Sat, 20 Dec 2025
 
 ## Shares bills with
 

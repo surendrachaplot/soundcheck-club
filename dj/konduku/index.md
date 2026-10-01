@@ -1,8 +1,8 @@
 # Konduku
 
-Konduku is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Masada, Milan on Sat, 3 Oct 2026.
+Konduku is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Masada, Milan on Sat, 3 Oct 2026.
 
-Konduku is a techno and house artist based in Netherlands, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 40 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Masada, Milan on Sat 3 Oct.
+Konduku is a techno and house artist based in Netherlands, with 177 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 40 more. Often billed alongside DJ Nobu, Kia (AU) and Woody92. Next up: Masada, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,18 +17,19 @@ Konduku is a techno and house artist based in Netherlands, tracked on soundcheck
 | Fri, 23 Oct 2026 | TILLATEC | Amsterdam |
 | Mon, 26 Oct 2026 | TILLATEC | Amsterdam |
 | Sat, 31 Oct 2026 | TBA | West-wales |
+| Fri, 6 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 7 Nov 2026 | FOLD | London |
 
 ## Recently played
 
-- TBA - DTLA, Los Angeles — Sat, 26 Sept 2026
-- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 18 Sept 2026
-- Signal, New York City — Fri, 18 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 4 Sept 2026
-- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
+- TBA - DTLA, Los Angeles · Sat, 26 Sept 2026
+- TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
+- Signal, New York City · Fri, 18 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 4 Sept 2026
+- Amsterdamse Bos, Amsterdam · Sun, 2 Aug 2026
 
 ## Shares bills with
 

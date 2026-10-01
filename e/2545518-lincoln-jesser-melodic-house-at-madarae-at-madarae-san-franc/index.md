@@ -1,6 +1,6 @@
 # LINCOLN JESSER (Melodic House) at MadaRae at Madarae San Francisco
 
-LINCOLN JESSER (Melodic House) at MadaRae at Madarae San Francisco on Sat 3 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
+LINCOLN JESSER (Melodic House) at MadaRae at Madarae San Francisco on Sat 3 Oct, San Francisco/Oakland. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

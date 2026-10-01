@@ -1,8 +1,8 @@
 # Jean Mauj
 
-Jean Mauj is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mojo, Hamburg on Sat, 31 Oct 2026.
+Jean Mauj is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mojo, Hamburg on Sat, 31 Oct 2026.
 
-Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Berlin and Cologne and 7 more. Often billed alongside Anton Jonathan, Carluschka and Daisy Weweh. Next up: Mojo, Hamburg on Sat 31 Oct.
+Jean Mauj is a house and techno artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Athens, Berlin and Cologne and 7 more. Often billed alongside Anton Jonathan, Carluschka and Daisy Weweh. Next up: Mojo, Hamburg on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jean Mauj is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Prince Charles, Berlin — Fri, 11 Sept 2026
-- Escala25, Lisbon — Sat, 5 Sept 2026
-- Edelfettwerk, Hamburg — Sat, 29 Aug 2026
-- Phoxxi Green Area, Hamburg — Sat, 22 Aug 2026
-- Karoline 45, Hamburg — Sat, 23 May 2026
-- fi, Cologne — Fri, 22 May 2026
-- Aahhh Rooftop, Munich — Sat, 16 May 2026
-- Harbour Music Shelter, Lisbon — Sun, 3 May 2026
+- Prince Charles, Berlin · Fri, 11 Sept 2026
+- Escala25, Lisbon · Sat, 5 Sept 2026
+- Edelfettwerk, Hamburg · Sat, 29 Aug 2026
+- Phoxxi Green Area, Hamburg · Sat, 22 Aug 2026
+- Karoline 45, Hamburg · Sat, 23 May 2026
+- fi, Cologne · Fri, 22 May 2026
+- Aahhh Rooftop, Munich · Sat, 16 May 2026
+- Harbour Music Shelter, Lisbon · Sun, 3 May 2026
 
 ## Shares bills with
 

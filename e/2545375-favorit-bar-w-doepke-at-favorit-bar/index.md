@@ -1,6 +1,6 @@
 # Favorit Bar w/ Doepke at Favorit Bar
 
-Favorit Bar w/ Doepke on Sun 4 Oct, Munich. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Favorit Bar w/ Doepke on Sun 4 Oct, Munich. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

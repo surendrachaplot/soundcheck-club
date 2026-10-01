@@ -1,6 +1,6 @@
 # A week-end with Jen Cardini at Le Sucre
 
-A week-end with Jen Cardini at Le Sucre on Fri 30 Oct, Lyon. 3 artists on the bill: CUERPOS, Maara and Warum. Trance and Techno. Preview the line-up and save it on soundcheck.
+A week-end with Jen Cardini at Le Sucre on Fri 30 Oct, Lyon. 3 artists: CUERPOS, Maara and Warum. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

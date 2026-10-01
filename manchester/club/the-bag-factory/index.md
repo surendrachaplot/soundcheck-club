@@ -1,8 +1,8 @@
 # The Bag Factory
 
-The Bag Factory is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Club Curated: Open decks & Social" on Thu, 1 Oct 2026.
+The Bag Factory is a music venue in Manchester with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Club Curated: Open decks & Social" on Thu, 1 Oct 2026.
 
-The Bag Factory is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including 3DMA, FKA Hardcore, FOULMOUTH and Lilyn and 2 more. Browse upcoming dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
+The Bag Factory is a music venue in Manchester listed on soundcheck. 6 upcoming gigs, with line-ups including 3DMA, FKA Hardcore, FOULMOUTH and Lilyn and 2 more. See dates, start times and who's playing. Dickinson St, Manchester M3 7LW.
 
 ## What's on
 

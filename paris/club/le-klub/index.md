@@ -1,8 +1,8 @@
 # Le Klub
 
-Le Klub is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DARKXROOM" on Sat, 17 Oct 2026.
+Le Klub is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DARKXROOM" on Sat, 17 Oct 2026.
 
-Le Klub is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including JOHN DIXON. Browse upcoming dates, start times and who's playing. 14, rue St Denis Paris, France.
+Le Klub is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including JOHN DIXON. See dates, start times and who's playing. 14, rue St Denis Paris, France.
 
 ## What's on
 

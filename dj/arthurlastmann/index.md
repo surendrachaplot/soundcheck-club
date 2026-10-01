@@ -1,8 +1,8 @@
 # Arthur Lastmann
 
-Arthur Lastmann is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Nido Marseille, Marseille on Fri, 30 Oct 2026.
+Arthur Lastmann is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nido Marseille, Marseille on Fri, 30 Oct 2026.
 
-Arthur Lastmann is a house and disco artist based in France, tracked on soundcheck, with 23 sets logged across London, Lyon, Marseille and Nantes and 3 more. Often billed alongside Into The Deep, Step Daw and Dance Attraction. Next up: Nido Marseille, Marseille on Fri 30 Oct.
+Arthur Lastmann is a house and disco artist based in France, with 23 gigs on soundcheck across London, Lyon, Marseille and Nantes and 3 more. Often billed alongside Into The Deep, Step Daw and Dance Attraction. Next up: Nido Marseille, Marseille on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Arthur Lastmann is a house and disco artist based in France, tracked on soundche
 
 ## Recently played
 
-- Le Talus, Marseille — Fri, 15 May 2026
-- TBA - S.A.N.D, Marseille — Sat, 25 Oct 2025
-- Le Talus, Marseille — Fri, 29 Aug 2025
-- TBA - S.A.N.D, Marseille — Wed, 28 May 2025
-- TBA - S.A.N.D, Marseille — Sat, 1 Mar 2025
-- Solea, Marseille — Sat, 18 Jan 2025
-- Le Makeda, Marseille — Fri, 20 Sept 2024
-- Le Tiers-Lab des Transitions, Marseille — Sat, 6 Jul 2024
+- Le Talus, Marseille · Fri, 15 May 2026
+- TBA - S.A.N.D, Marseille · Sat, 25 Oct 2025
+- Le Talus, Marseille · Fri, 29 Aug 2025
+- TBA - S.A.N.D, Marseille · Wed, 28 May 2025
+- TBA - S.A.N.D, Marseille · Sat, 1 Mar 2025
+- Solea, Marseille · Sat, 18 Jan 2025
+- Le Makeda, Marseille · Fri, 20 Sept 2024
+- Le Tiers-Lab des Transitions, Marseille · Sat, 6 Jul 2024
 
 ## Shares bills with
 

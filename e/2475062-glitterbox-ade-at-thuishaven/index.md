@@ -1,6 +1,6 @@
 # Glitterbox ADE at Thuishaven
 
-Glitterbox ADE at Thuishaven on Thu 22 Oct, Amsterdam. 10 artists on the bill: Bridge (NY), Carl Craig, Eliza Rose and Ella Knight and 6 more. House and Disco. Preview the line-up and save it on soundcheck.
+Glitterbox ADE at Thuishaven on Thu 22 Oct, Amsterdam. 10 artists: Bridge (NY), Carl Craig, Eliza Rose and Ella Knight and 6 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

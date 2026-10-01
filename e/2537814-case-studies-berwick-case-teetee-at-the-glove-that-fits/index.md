@@ -1,6 +1,6 @@
 # CASE STUDIES - Berwick, CASE, Teetee at The Glove That Fits
 
-CASE STUDIES - Berwick, CASE, Teetee at The Glove That Fits on Fri 20 Nov, London. 3 artists on the bill: Berwick, Case and Teetee. Techno and Electro. Preview the line-up and save it on soundcheck.
+CASE STUDIES - Berwick, CASE, Teetee at The Glove That Fits on Fri 20 Nov, London. 3 artists: Berwick, Case and Teetee. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

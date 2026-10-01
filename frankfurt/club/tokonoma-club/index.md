@@ -1,8 +1,8 @@
 # Tokonoma Club
 
-Tokonoma Club is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Tanz in Frankfurt" on Fri, 2 Oct 2026.
+Tokonoma Club is a music venue in Frankfurt with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Tanz in Frankfurt" on Fri, 2 Oct 2026.
 
-Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including 131bpm, Alas, Altinbas and Back2Bass and 2 more. Browse upcoming dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
+Tokonoma Club is a music venue in Frankfurt listed on soundcheck. 6 upcoming gigs, with line-ups including 131bpm, Alas, Altinbas and Back2Bass and 2 more. See dates, start times and who's playing. Gutleutstraße 320,60327 Frankfurt.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Bassiani – Horoom – Fri, 16.10.2026 at Bassiani
 
-Bassiani – Horoom – Fri, 16.10.2026 on Fri 16 Oct, Tbilisi. 10 artists on the bill: 3AM, Anthony Rother, edge and Gonno and 6 more. Preview the line-up and save it on soundcheck.
+Bassiani – Horoom – Fri, 16.10.2026 on Fri 16 Oct, Tbilisi. 10 artists: 3AM, Anthony Rother, Edge (GE) and Gonno and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,7 +12,7 @@ Bassiani – Horoom – Fri, 16.10.2026 on Fri 16 Oct, Tbilisi. 10 artists on th
 
 - 3AM
 - Anthony Rother
-- edge
+- Edge (GE)
 - Gonno
 - Hasvat Informant
 - Ina Kacz

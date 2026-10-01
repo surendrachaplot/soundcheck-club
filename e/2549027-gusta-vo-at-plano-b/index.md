@@ -1,6 +1,6 @@
 # Gusta-vo at Plano B
 
-Gusta-vo at Plano B on Fri 9 Oct, Porto. Techno and House. Preview the line-up and save it on soundcheck.
+Gusta-vo at Plano B on Fri 9 Oct, Porto. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

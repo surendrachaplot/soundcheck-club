@@ -1,6 +1,6 @@
 # Long Play: Khruangbin at Rhythm
 
-Long Play: Khruangbin at Rhythm on Thu 29 Oct, Toronto. Preview the line-up and save it on soundcheck.
+Long Play: Khruangbin at Rhythm on Thu 29 Oct, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

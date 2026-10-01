@@ -1,8 +1,8 @@
 # droove
 
-droove is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at West Harlem, Kyoto on Fri, 23 Oct 2026.
+droove is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at West Harlem, Kyoto on Fri, 23 Oct 2026.
 
-droove is a house and techno artist based in Japan, tracked on soundcheck, with 72 sets logged across Kyoto, Osaka and Rome. Often billed alongside Lomax, kitapon and KOTSU. Next up: West Harlem, Kyoto on Fri 23 Oct.
+droove is a house and techno artist based in Japan, with 72 gigs on soundcheck across Kyoto, Osaka and Rome. Often billed alongside Lomax, kitapon and KOTSU. Next up: West Harlem, Kyoto on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ droove is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- West Harlem, Kyoto — Sat, 19 Sept 2026
-- West Harlem, Kyoto — Wed, 9 Sept 2026
-- West Harlem, Kyoto — Wed, 12 Aug 2026
-- West Harlem, Kyoto — Sat, 11 Jul 2026
-- West Harlem, Kyoto — Fri, 26 Jun 2026
-- West Harlem, Kyoto — Wed, 17 Jun 2026
-- West Harlem, Kyoto — Wed, 10 Jun 2026
-- West Harlem, Kyoto — Fri, 20 Mar 2026
+- West Harlem, Kyoto · Sat, 19 Sept 2026
+- West Harlem, Kyoto · Wed, 9 Sept 2026
+- West Harlem, Kyoto · Wed, 12 Aug 2026
+- West Harlem, Kyoto · Sat, 11 Jul 2026
+- West Harlem, Kyoto · Fri, 26 Jun 2026
+- West Harlem, Kyoto · Wed, 17 Jun 2026
+- West Harlem, Kyoto · Wed, 10 Jun 2026
+- West Harlem, Kyoto · Fri, 20 Mar 2026
 
 ## Shares bills with
 

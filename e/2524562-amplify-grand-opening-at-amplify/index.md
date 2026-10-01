@@ -1,6 +1,6 @@
 # Amplify Grand Opening at Amplify
 
-Amplify Grand Opening on Wed 25 Nov, Detroit. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Amplify Grand Opening on Wed 25 Nov, Detroit. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

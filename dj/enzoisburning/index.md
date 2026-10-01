@@ -1,8 +1,8 @@
 # Enzo is Burning
 
-Enzo is Burning is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Dome, Liverpool on Fri, 2 Oct 2026.
+Enzo is Burning is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Dome, Liverpool on Fri, 2 Oct 2026.
 
-Enzo is Burning is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Aberdeen, Amsterdam, Belfast and Boston and 19 more. Often billed alongside GW Harrison, ALISHA and Darius Syrossian. Next up: The Dome, Liverpool on Fri 2 Oct.
+Enzo is Burning is a tech house and house artist based in United Kingdom, with 75 gigs on soundcheck across Aberdeen, Amsterdam, Belfast and Boston and 19 more. Often billed alongside GW Harrison, ALISHA and Darius Syrossian. Next up: The Dome, Liverpool on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Enzo is Burning is a tech house and house artist based in United Kingdom, tracke
 
 ## Recently played
 
-- The Warehouse, Leeds — Fri, 18 Sept 2026
-- The Warehouse, Leeds — Fri, 18 Sept 2026
-- [UNVRS], Ibiza — Wed, 2 Sept 2026
-- [UNVRS], Ibiza — Thu, 20 Aug 2026
-- H0l0 Yard, New York City — Sat, 1 Aug 2026
-- Jolene Downtown Miami, Miami — Fri, 31 Jul 2026
-- Silverworks Island, London — Sat, 11 Jul 2026
-- 528 Ibiza, Ibiza — Fri, 29 May 2026
+- The Warehouse, Leeds · Fri, 18 Sept 2026
+- The Warehouse, Leeds · Fri, 18 Sept 2026
+- [UNVRS], Ibiza · Wed, 2 Sept 2026
+- [UNVRS], Ibiza · Thu, 20 Aug 2026
+- H0l0 Yard, New York City · Sat, 1 Aug 2026
+- Jolene Downtown Miami, Miami · Fri, 31 Jul 2026
+- Silverworks Island, London · Sat, 11 Jul 2026
+- 528 Ibiza, Ibiza · Fri, 29 May 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Mas Que Nada Brothers
 
-Mas Que Nada Brothers is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Moon Club, Bristol on Fri, 16 Oct 2026.
+Mas Que Nada Brothers is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Moon Club, Bristol on Fri, 16 Oct 2026.
 
-Mas Que Nada Brothers is a house and disco artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Brighton, Bristol, Ibiza and London and 1 more. Often billed alongside Tommy Tickle, Hywel Gregory and Joe Murphy. Next up: Moon Club, Bristol on Fri 16 Oct.
+Mas Que Nada Brothers is a house and disco artist based in United Kingdom, with 106 gigs on soundcheck across Brighton, Bristol, Ibiza and London and 1 more. Often billed alongside Tommy Tickle, Hywel Gregory and Joe Murphy. Next up: Moon Club, Bristol on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Mas Que Nada Brothers is a house and disco artist based in United Kingdom, track
 
 ## Recently played
 
-- The Little Neon Door, Shoreditch, London — Fri, 25 Sept 2026
-- Ministry Of Sound, London — Sat, 19 Sept 2026
-- The Little Neon Door, Shoreditch, London — Fri, 21 Aug 2026
-- Circe’S Rooftop, London — Sat, 8 Aug 2026
-- XOYO, London — Thu, 23 Jul 2026
-- Circe’S Rooftop, London — Sat, 4 Jul 2026
-- Ministry Of Sound, London — Sat, 13 Jun 2026
-- Strongroom Bar, London — Sun, 24 May 2026
+- The Little Neon Door, Shoreditch, London · Fri, 25 Sept 2026
+- Ministry Of Sound, London · Sat, 19 Sept 2026
+- The Little Neon Door, Shoreditch, London · Fri, 21 Aug 2026
+- Circe’S Rooftop, London · Sat, 8 Aug 2026
+- XOYO, London · Thu, 23 Jul 2026
+- Circe’S Rooftop, London · Sat, 4 Jul 2026
+- Ministry Of Sound, London · Sat, 13 Jun 2026
+- Strongroom Bar, London · Sun, 24 May 2026
 
 ## Shares bills with
 

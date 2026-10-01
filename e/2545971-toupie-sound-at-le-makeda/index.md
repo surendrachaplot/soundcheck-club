@@ -1,6 +1,6 @@
 # Toupie Sound at Le Makeda
 
-Toupie Sound at Le Makeda on Sat 24 Oct, Marseille. Trance and Techno. Preview the line-up and save it on soundcheck.
+Toupie Sound at Le Makeda on Sat 24 Oct, Marseille. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

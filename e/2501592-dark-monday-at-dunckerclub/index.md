@@ -1,6 +1,6 @@
 # Dark Monday at Dunckerclub
 
-Dark Monday at Dunckerclub on Mon 30 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Dark Monday at Dunckerclub on Mon 30 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

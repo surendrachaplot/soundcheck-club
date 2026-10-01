@@ -1,6 +1,6 @@
 # Ferias Halloween 'Til Sunrise at TBA - down by the water
 
-Ferias Halloween 'Til Sunrise at TBA - down by the water on Sat 31 Oct, Montreal. 4 artists on the bill: Alina (MTL), Guthrie, Lia Plutonic and Scott Grooves. Preview the line-up and save it on soundcheck.
+Ferias Halloween 'Til Sunrise at TBA - down by the water on Sat 31 Oct, Montreal. 4 artists: Alina (MTL), Guthrie, Lia Plutonic and Scott Grooves. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

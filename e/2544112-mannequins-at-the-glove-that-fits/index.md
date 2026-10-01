@@ -1,6 +1,6 @@
 # mannequins at The Glove That Fits
 
-mannequins at The Glove That Fits on Thu 26 Nov, London. Trance and Techno. Preview the line-up and save it on soundcheck.
+mannequins at The Glove That Fits on Thu 26 Nov, London. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

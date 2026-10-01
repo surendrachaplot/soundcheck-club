@@ -1,8 +1,8 @@
 # Brandon Markell Holmes
 
-Brandon Markell Holmes is a Funk / Soul and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at public records, New York City on Thu, 15 Oct 2026.
+Brandon Markell Holmes is a Funk / Soul and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Thu, 15 Oct 2026.
 
-Brandon Markell Holmes is a funk / soul and house artist based in United States of America, tracked on soundcheck, with 17 sets logged across London and New York City. Often billed alongside JKriv, Aaron Dae and Jason Lindner. Next up: public records, New York City on Thu 15 Oct.
+Brandon Markell Holmes is a funk / soul and house artist based in United States of America, with 17 gigs on soundcheck across London and New York City. Often billed alongside JKriv, Aaron Dae and Jason Lindner. Next up: public records, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Brandon Markell Holmes is a funk / soul and house artist based in United States 
 
 ## Recently played
 
-- 99 Scott Ave, New York City — Fri, 22 Aug 2025
-- Jungla London, London — Thu, 14 Aug 2025
-- Black Flamingo, New York City — Sat, 22 Feb 2025
-- public records, New York City — Thu, 5 Dec 2024
-- Xanadu, New York City — Sun, 10 Nov 2024
-- public records, New York City — Thu, 17 Oct 2024
-- Night Tales Loft, London — Fri, 2 Aug 2024
-- TBA - 5-25 46th Ave, LIC, NY 11101, New York City — Sun, 23 Jun 2024
+- 99 Scott Ave, New York City · Fri, 22 Aug 2025
+- Jungla London, London · Thu, 14 Aug 2025
+- Black Flamingo, New York City · Sat, 22 Feb 2025
+- public records, New York City · Thu, 5 Dec 2024
+- Xanadu, New York City · Sun, 10 Nov 2024
+- public records, New York City · Thu, 17 Oct 2024
+- Night Tales Loft, London · Fri, 2 Aug 2024
+- TBA - 5-25 46th Ave, LIC, NY 11101, New York City · Sun, 23 Jun 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Intoxication Halloween SPECIAL at M-BIA
 
-Intoxication Halloween SPECIAL at M-BIA on Sat 31 Oct, Berlin. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Intoxication Halloween SPECIAL at M-BIA on Sat 31 Oct, Berlin. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

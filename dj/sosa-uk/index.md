@@ -1,8 +1,8 @@
 # SOSA (UK)
 
-SOSA (UK) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Document, Bristol on Sat, 10 Oct 2026.
+SOSA (UK) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Document, Bristol on Sat, 10 Oct 2026.
 
-SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 112 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 40 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Document, Bristol on Sat 10 Oct.
+SOSA (UK) is a house and tech house artist based in United Kingdom, with 112 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 40 more. Often billed alongside East End Dubs, Max Dean and Fleur Shore. Next up: Document, Bristol on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ SOSA (UK) is a house and tech house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Colorado Charlie, The Hague — Sat, 26 Sept 2026
-- Concorde 2, Brighton — Sat, 19 Sept 2026
-- Flint Street, Baltic Triangle, Liverpool — Sat, 12 Sept 2026
-- Dune Park, Buenos Aires — Sat, 12 Sept 2026
-- Steelyard Kelham, Sheffield — Sat, 22 Aug 2026
-- Hï Ibiza, Ibiza — Tue, 18 Aug 2026
-- West Street, Glasgow — Sat, 15 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
+- Colorado Charlie, The Hague · Sat, 26 Sept 2026
+- Concorde 2, Brighton · Sat, 19 Sept 2026
+- Flint Street, Baltic Triangle, Liverpool · Sat, 12 Sept 2026
+- Dune Park, Buenos Aires · Sat, 12 Sept 2026
+- Steelyard Kelham, Sheffield · Sat, 22 Aug 2026
+- Hï Ibiza, Ibiza · Tue, 18 Aug 2026
+- West Street, Glasgow · Sat, 15 Aug 2026
+- Burgess Park, London · Sun, 9 Aug 2026
 
 ## Shares bills with
 

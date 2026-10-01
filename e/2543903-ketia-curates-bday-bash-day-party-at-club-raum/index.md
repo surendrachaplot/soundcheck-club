@@ -1,6 +1,6 @@
 # ketia curates (bday bash): day party at CLUB RAUM
 
-ketia curates (bday bash): day party at CLUB RAUM on Sun 8 Nov, Amsterdam. 4 artists on the bill: Aldonna, Eris Drew, ketia and Peach. Preview the line-up and save it on soundcheck.
+ketia curates (bday bash): day party at CLUB RAUM on Sun 8 Nov, Amsterdam. 4 artists: Aldonna, Eris Drew, ketia and Peach. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

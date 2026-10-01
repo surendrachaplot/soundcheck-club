@@ -1,8 +1,8 @@
 # Bar Datcha
 
-Bar Datcha is a music venue in Montreal with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Minzi Roberta, Isa Boom & Noel" on Thu, 1 Oct 2026.
+Bar Datcha is a music venue in Montreal with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Minzi Roberta, Isa Boom & Noel" on Thu, 1 Oct 2026.
 
-Bar Datcha is a music venue in Montreal listed on soundcheck. 13 upcoming gigs, with line-ups including 99hp, Badgalquirit, Blu:sh and Bwi-Bwi and 2 more. Browse upcoming dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
+Bar Datcha is a music venue in Montreal listed on soundcheck. 13 upcoming gigs, with line-ups including 99hp, Badgalquirit, Blu:sh and Bwi-Bwi and 2 more. See dates, start times and who's playing. 98 Avenue Laurier O, Montréal, QC H2T 2N4, Canada.
 
 ## What's on
 

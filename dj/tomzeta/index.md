@@ -1,8 +1,8 @@
 # Tom Zeta
 
-Tom Zeta is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hangar, Belgrade on Sat, 10 Oct 2026.
+Tom Zeta is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hangar, Belgrade on Sat, 10 Oct 2026.
 
-Tom Zeta is a house and deep house artist based in Netherlands, tracked on soundcheck, with 28 sets logged across Amsterdam, Barcelona, Belgrade and Brussels and 8 more. Often billed alongside Adam Ten, Matthias Tanzmann and Mita Gami. Next up: Hangar, Belgrade on Sat 10 Oct.
+Tom Zeta is a house and deep house artist based in Netherlands, with 28 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Brussels and 8 more. Often billed alongside Adam Ten, Matthias Tanzmann and Mita Gami. Next up: Hangar, Belgrade on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Tom Zeta is a house and deep house artist based in Netherlands, tracked on sound
 
 ## Recently played
 
-- Do Not Sit On The Furniture, Miami — Fri, 14 Aug 2026
-- BORIS CLUB, Barcelona — Sat, 11 Jul 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 2 May 2026
-- Unveiled, New York City — Fri, 10 Apr 2026
-- Madarae San Francisco, San Francisco/Oakland — Fri, 3 Apr 2026
-- Hive Club, Zurich — Sat, 28 Mar 2026
-- Shelter Amsterdam, Amsterdam — Fri, 13 Mar 2026
-- Society, Brussels — Sat, 7 Mar 2026
+- Do Not Sit On The Furniture, Miami · Fri, 14 Aug 2026
+- BORIS CLUB, Barcelona · Sat, 11 Jul 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 2 May 2026
+- Unveiled, New York City · Fri, 10 Apr 2026
+- Madarae San Francisco, San Francisco/Oakland · Fri, 3 Apr 2026
+- Hive Club, Zurich · Sat, 28 Mar 2026
+- Shelter Amsterdam, Amsterdam · Fri, 13 Mar 2026
+- Society, Brussels · Sat, 7 Mar 2026
 
 ## Shares bills with
 

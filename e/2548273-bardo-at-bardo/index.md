@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Sat 10 Oct, Milan. 2 artists on the bill: Dj Ankles and POL100. Techno and Electronica. Preview the line-up and save it on soundcheck.
+BARDO on Sat 10 Oct, Milan. 2 artists: Dj Ankles and POL100. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

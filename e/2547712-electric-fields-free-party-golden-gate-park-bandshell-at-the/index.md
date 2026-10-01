@@ -1,6 +1,6 @@
 # ELECTRIC FIELDS - FREE PARTY - GOLDEN GATE PARK BANDSHELL at The Great Northern
 
-ELECTRIC FIELDS - FREE PARTY - GOLDEN GATE PARK BANDSHELL at The Great Northern on Sat 10 Oct, San Francisco/Oakland. 5 artists on the bill: Carrieondisco, discoesq, DJ M3 and J Key and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
+ELECTRIC FIELDS - FREE PARTY - GOLDEN GATE PARK BANDSHELL at The Great Northern on Sat 10 Oct, San Francisco/Oakland. 5 artists: Carrieondisco, discoesq, DJ M3 and J Key and 1 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

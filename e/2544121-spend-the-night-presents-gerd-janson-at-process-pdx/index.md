@@ -1,6 +1,6 @@
 # Spend The Night presents: Gerd Janson at Process PDX
 
-Spend The Night presents: Gerd Janson at Process PDX on Wed 25 Nov, Portland. 2 artists on the bill: Gerd Janson and Groshong. House and Disco. Preview the line-up and save it on soundcheck.
+Spend The Night presents: Gerd Janson at Process PDX on Wed 25 Nov, Portland. 2 artists: Gerd Janson and Groshong. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

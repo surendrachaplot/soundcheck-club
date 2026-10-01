@@ -1,8 +1,8 @@
 # Maz (BR)
 
-Maz (BR) is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
+Maz (BR) is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hï Ibiza, Ibiza on Fri, 9 Oct 2026.
 
-Maz (BR) is a house and tech house artist based in Brazil, tracked on soundcheck, with 105 sets logged across Amsterdam, Athens, Austin and Bali and 28 more. Often billed alongside Antdot, Vintage Culture and Black Coffee. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
+Maz (BR) is a house and tech house artist based in Brazil, with 105 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 28 more. Often billed alongside Antdot, Vintage Culture and Black Coffee. Next up: Hï Ibiza, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Maz (BR) is a house and tech house artist based in Brazil, tracked on soundcheck
 
 ## Recently played
 
-- Lula Club, Madrid — Thu, 10 Sept 2026
-- Hï Ibiza, Ibiza — Sat, 5 Sept 2026
-- Void Mykonos, Mykonos — Fri, 14 Aug 2026
-- Miscellania, Melbourne — Sat, 8 Aug 2026
-- The Cause, London — Fri, 24 Jul 2026
-- Void Mykonos, Mykonos — Fri, 17 Jul 2026
-- Fira Gran Via, Barcelona — Mon, 15 Jun 2026
-- Autódromo de Interlagos, Sao Paulo — Fri, 5 Jun 2026
+- Lula Club, Madrid · Thu, 10 Sept 2026
+- Hï Ibiza, Ibiza · Sat, 5 Sept 2026
+- Void Mykonos, Mykonos · Fri, 14 Aug 2026
+- Miscellania, Melbourne · Sat, 8 Aug 2026
+- The Cause, London · Fri, 24 Jul 2026
+- Void Mykonos, Mykonos · Fri, 17 Jul 2026
+- Fira Gran Via, Barcelona · Mon, 15 Jun 2026
+- Autódromo de Interlagos, Sao Paulo · Fri, 5 Jun 2026
 
 ## Shares bills with
 

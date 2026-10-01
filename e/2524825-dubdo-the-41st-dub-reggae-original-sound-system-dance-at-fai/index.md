@@ -1,6 +1,6 @@
 # 【蛇舞道(DUBDO) The 41st DUB REGGAE ORIGINAL SOUND SYSTEM DANCE】 at Fai Aoyama
 
-【蛇舞道(DUBDO) The 41st DUB REGGAE ORIGINAL SOUND SYSTEM DANCE】 at Fai Aoyama on Sat 10 Oct, Tokyo. Bass and Dub. Preview the line-up and save it on soundcheck.
+【蛇舞道(DUBDO) The 41st DUB REGGAE ORIGINAL SOUND SYSTEM DANCE】 at Fai Aoyama on Sat 10 Oct, Tokyo. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

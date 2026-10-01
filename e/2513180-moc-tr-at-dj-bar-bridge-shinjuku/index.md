@@ -1,6 +1,6 @@
 # Moc & TR at DJ Bar Bridge Shinjuku
 
-Moc & TR at DJ Bar Bridge Shinjuku on Wed 21 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+Moc & TR at DJ Bar Bridge Shinjuku on Wed 21 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

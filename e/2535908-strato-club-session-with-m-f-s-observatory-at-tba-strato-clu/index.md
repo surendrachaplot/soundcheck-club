@@ -1,6 +1,6 @@
 # STRATO Club Session with M.F.S: Observatory at TBA - STRATO Club
 
-STRATO Club Session with M.F.S: Observatory at TBA - STRATO Club on Fri 9 Oct, South. 1 artist on the bill: M.F.S: Observatory. Preview the line-up and save it on soundcheck.
+STRATO Club Session with M.F.S: Observatory at TBA - STRATO Club on Fri 9 Oct, South. 1 artist: M.F.S: Observatory. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

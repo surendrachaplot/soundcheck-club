@@ -1,6 +1,6 @@
 # Ze Salvador + justin case at 5A
 
-Ze Salvador + justin case at 5A on Sat 24 Oct, Lisbon. 2 artists on the bill: justin case and Ze Salvador. Preview the line-up and save it on soundcheck.
+Ze Salvador + justin case at 5A on Sat 24 Oct, Lisbon. 2 artists: justin case and Ze Salvador. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

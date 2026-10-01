@@ -1,6 +1,6 @@
 # Gray presents: Antisocial Sound (w/ Electrikal Soundsystem) at Document
 
-Gray presents: Antisocial Sound (w/ Electrikal Soundsystem) at Document on Fri 27 Nov, Bristol. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Gray presents: Antisocial Sound (w/ Electrikal Soundsystem) at Document on Fri 27 Nov, Bristol. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

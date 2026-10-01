@@ -1,8 +1,8 @@
 # Club Malasaña
 
-Club Malasaña is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "La Luz con aorta y Gazzi" on Thu, 1 Oct 2026.
+Club Malasaña is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "La Luz con aorta y Gazzi" on Thu, 1 Oct 2026.
 
-Club Malasaña is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including EDGAR KERRI, Gazzi, Janeret and Martin Balladares. Browse upcoming dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
+Club Malasaña is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including EDGAR KERRI, Gazzi, Janeret and Martin Balladares. See dates, start times and who's playing. Calle de San Vicente Ferrer, 23, 28004 Madrid, Spain.
 
 ## What's on
 

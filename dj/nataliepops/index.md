@@ -1,8 +1,8 @@
 # nataliepops
 
-nataliepops is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nowadays, New York City on Tue, 13 Oct 2026.
+nataliepops is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nowadays, New York City on Tue, 13 Oct 2026.
 
-nataliepops is a techno and house artist based in United States of America, tracked on soundcheck, with 72 sets logged across Mexico City, New York City and Washington DC. Often billed alongside ethereal.mvp, Pacha DJ and kyxm. Next up: Nowadays, New York City on Tue 13 Oct.
+nataliepops is a techno and house artist based in United States of America, with 72 gigs on soundcheck across Mexico City, New York City and Washington DC. Often billed alongside ethereal.mvp, Pacha DJ and kyxm. Next up: Nowadays, New York City on Tue 13 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ nataliepops is a techno and house artist based in United States of America, trac
 
 ## Recently played
 
-- TBA - Camp Tall Timbers, WV, Washington DC — Fri, 4 Sept 2026
-- Bossa Nova Civic Club, New York City — Mon, 27 Jul 2026
-- Mood Ring, New York City — Fri, 17 Jul 2026
-- Eavesdrop, New York City — Tue, 2 Jun 2026
-- Paragon, New York City — Thu, 28 May 2026
-- TBA - Secret Location, New York City — Fri, 8 May 2026
-- Honey's, New York City — Sun, 19 Apr 2026
-- public records, New York City — Fri, 13 Mar 2026
+- TBA - Camp Tall Timbers, WV, Washington DC · Fri, 4 Sept 2026
+- Bossa Nova Civic Club, New York City · Mon, 27 Jul 2026
+- Mood Ring, New York City · Fri, 17 Jul 2026
+- Eavesdrop, New York City · Tue, 2 Jun 2026
+- Paragon, New York City · Thu, 28 May 2026
+- TBA - Secret Location, New York City · Fri, 8 May 2026
+- Honey's, New York City · Sun, 19 Apr 2026
+- public records, New York City · Fri, 13 Mar 2026
 
 ## Shares bills with
 

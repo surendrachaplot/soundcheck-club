@@ -1,6 +1,6 @@
 # Loofy at SILO
 
-Loofy at SILO on Fri 16 Oct, New York City. 1 artist on the bill: Loofy. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Loofy at SILO on Fri 16 Oct, New York City. 1 artist: Loofy. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

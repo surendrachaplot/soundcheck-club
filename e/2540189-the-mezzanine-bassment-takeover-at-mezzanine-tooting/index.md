@@ -1,6 +1,6 @@
 # The Mezzanine - Bassment takeover at Mezzanine - Tooting
 
-The Mezzanine - Bassment takeover at Mezzanine - Tooting on Sat 21 Nov, London. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+The Mezzanine - Bassment takeover at Mezzanine - Tooting on Sat 21 Nov, London. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

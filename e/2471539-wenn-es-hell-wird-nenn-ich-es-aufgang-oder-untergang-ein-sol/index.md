@@ -1,6 +1,6 @@
 # WENN ES HELL WIRD (Nenn' ich es Aufgang oder Untergang) - Ein Solo Musiktheater at Kater
 
-WENN ES HELL WIRD (Nenn' ich es Aufgang oder Untergang) - Ein Solo Musiktheater at Kater on Fri 20 Nov, Berlin. Preview the line-up and save it on soundcheck.
+WENN ES HELL WIRD (Nenn' ich es Aufgang oder Untergang) - Ein Solo Musiktheater at Kater on Fri 20 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

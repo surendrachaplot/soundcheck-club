@@ -1,8 +1,8 @@
 # OFF Kultur
 
-OFF Kultur is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ALL LIVE LONG RITUAL" on Sat, 3 Oct 2026.
+OFF Kultur is a music venue in Budapest with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ALL LIVE LONG RITUAL" on Sat, 3 Oct 2026.
 
-OFF Kultur is a music venue in Budapest listed on soundcheck. 2 upcoming gigs, with line-ups including ALDES, BØĘRY, BSLS and cassandrah and 2 more. Browse upcoming dates, start times and who's playing. 1045 Budapest, Berni utca 1..
+OFF Kultur is a music venue in Budapest listed on soundcheck. 2 upcoming gigs, with line-ups including ALDES, BØĘRY, BSLS and cassandrah and 2 more. See dates, start times and who's playing. 1045 Budapest, Berni utca 1..
 
 ## What's on
 

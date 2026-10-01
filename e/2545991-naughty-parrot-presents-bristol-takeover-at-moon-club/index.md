@@ -1,6 +1,6 @@
 # Naughty Parrot presents: Bristol Takeover at Moon Club
 
-Naughty Parrot presents: Bristol Takeover at Moon Club on Sat 14 Nov, Bristol. House and Disco. Preview the line-up and save it on soundcheck.
+Naughty Parrot presents: Bristol Takeover at Moon Club on Sat 14 Nov, Bristol. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

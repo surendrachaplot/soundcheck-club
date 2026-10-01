@@ -1,6 +1,6 @@
 # Exit Reality with EJ Missy & Victoria Leembruggen at Exit Reality
 
-Exit Reality with EJ Missy & Victoria Leembruggen on Sat 3 Oct, Singapore. 1 artist on the bill: EJ. Techno and House. Preview the line-up and save it on soundcheck.
+Exit Reality with EJ Missy & Victoria Leembruggen on Sat 3 Oct, Singapore. 1 artist: EJ. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

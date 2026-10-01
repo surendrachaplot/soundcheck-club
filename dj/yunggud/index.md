@@ -1,8 +1,8 @@
 # Yung Gud
 
-Yung Gud is a Electronica and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 170 Russell, Melbourne on Fri, 23 Oct 2026.
+Yung Gud is a Electronica and Hip-Hop artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 170 Russell, Melbourne on Fri, 23 Oct 2026.
 
-Yung Gud is an electronica and hip-hop artist based in Sweden, tracked on soundcheck, with 7 sets logged across Berlin, Copenhagen, London and Melbourne and 1 more. Often billed alongside Woesum, Felix Lee and Kamixlo. Next up: 170 Russell, Melbourne on Fri 23 Oct.
+Yung Gud is an electronica and hip-hop artist based in Sweden, with 7 gigs on soundcheck across Berlin, Copenhagen, London and Melbourne and 1 more. Often billed alongside Woesum, Felix Lee and Kamixlo. Next up: 170 Russell, Melbourne on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ Yung Gud is an electronica and hip-hop artist based in Sweden, tracked on soundc
 
 ## Recently played
 
-- Haus der Visionäre, Berlin — Sat, 4 Jul 2026
-- Village Underground, London — Sun, 28 Jun 2026
-- Hangaren, Copenhagen — Sat, 15 Mar 2025
-- Kachette, London — Tue, 31 Dec 2024
-- Corsica Studios, London — Fri, 26 May 2023
+- Haus der Visionäre, Berlin · Sat, 4 Jul 2026
+- Village Underground, London · Sun, 28 Jun 2026
+- Hangaren, Copenhagen · Sat, 15 Mar 2025
+- Kachette, London · Tue, 31 Dec 2024
+- Corsica Studios, London · Fri, 26 May 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Terminal V Sydney at The Ivy
 
-Terminal V Sydney at The Ivy on Sat 17 Oct, Sydney. 9 artists on the bill: AEREA, AKEYLAH, Azyr and Bailey Ibbs and 5 more. Preview the line-up and save it on soundcheck.
+Terminal V Sydney at The Ivy on Sat 17 Oct, Sydney. 9 artists: AEREA, AKEYLAH, Azyr and Bailey Ibbs and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

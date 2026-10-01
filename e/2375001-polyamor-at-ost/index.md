@@ -1,6 +1,6 @@
 # Polyamor at OST
 
-Polyamor at OST on Sat 5 Dec, Berlin. 9 artists on the bill: Antonym, Bitschu Batschu, Cleopard2000 and Diffrent and 5 more. Preview the line-up and save it on soundcheck.
+Polyamor at OST on Sat 5 Dec, Berlin. 9 artists: Antonym, Bitschu Batschu, Cleopard2000 and Diffrent and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

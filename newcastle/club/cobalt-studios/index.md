@@ -1,8 +1,8 @@
 # Cobalt Studios
 
-Cobalt Studios is a music venue in Newcastle with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Bobby. — All Night Long (Age 21+)" on Fri, 2 Oct 2026.
+Cobalt Studios is a music venue in Newcastle with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bobby. — All Night Long (Age 21+)" on Fri, 2 Oct 2026.
 
-Cobalt Studios is a music venue in Newcastle listed on soundcheck. 24 upcoming gigs, with line-ups including Bobby., Carl H, Colleen 'Cosmo' Murphy and dj sweet6teen and 2 more. Browse upcoming dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
+Cobalt Studios is a music venue in Newcastle listed on soundcheck. 24 upcoming gigs, with line-ups including Bobby., Carl H, Colleen 'Cosmo' Murphy and dj sweet6teen and 2 more. See dates, start times and who's playing. 10 - 16  Boyd St. Newcastle Upon Tyne, NE2 1AP, United Kingdom.
 
 ## What's on
 

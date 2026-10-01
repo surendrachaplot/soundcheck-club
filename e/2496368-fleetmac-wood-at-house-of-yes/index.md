@@ -1,6 +1,6 @@
 # Fleetmac Wood at House of Yes
 
-Fleetmac Wood at House of Yes on Fri 16 Oct, New York City. 1 artist on the bill: Fleetmac Wood. House and Disco. Preview the line-up and save it on soundcheck.
+Fleetmac Wood at House of Yes on Fri 16 Oct, New York City. 1 artist: Fleetmac Wood. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

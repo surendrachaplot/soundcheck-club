@@ -1,8 +1,8 @@
 # DJ Narciso
 
-DJ Narciso is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lux Fragil, Lisbon on Sat, 31 Oct 2026.
+DJ Narciso is a Techno and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 31 Oct 2026.
 
-DJ Narciso is a techno and experimental artist based in Portugal, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside DJ Lycox, DJ Marfox and DJ Firmeza. Next up: Lux Fragil, Lisbon on Sat 31 Oct.
+DJ Narciso is a techno and experimental artist based in Portugal, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 10 more. Often billed alongside DJ Lycox, DJ Marfox and DJ Firmeza. Next up: Lux Fragil, Lisbon on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ Narciso is a techno and experimental artist based in Portugal, tracked on sou
 
 ## Recently played
 
-- TBA - Mira Rio, Caparica, Lisbon — Sun, 19 Jul 2026
-- K-Bar Powiśle, Warsaw — Fri, 19 Jun 2026
-- Duro de Matar, Lisbon — Fri, 29 May 2026
-- AB Club (Ancienne Belgique), Brussels — Sat, 11 Apr 2026
-- Worm, Rotterdam — Fri, 10 Apr 2026
-- The White Hotel, Manchester — Sat, 7 Mar 2026
-- Night Tales Loft, London — Fri, 30 Jan 2026
-- Outra Cena, Lisbon — Sat, 27 Dec 2025
+- TBA - Mira Rio, Caparica, Lisbon · Sun, 19 Jul 2026
+- K-Bar Powiśle, Warsaw · Fri, 19 Jun 2026
+- Duro de Matar, Lisbon · Fri, 29 May 2026
+- AB Club (Ancienne Belgique), Brussels · Sat, 11 Apr 2026
+- Worm, Rotterdam · Fri, 10 Apr 2026
+- The White Hotel, Manchester · Sat, 7 Mar 2026
+- Night Tales Loft, London · Fri, 30 Jan 2026
+- Outra Cena, Lisbon · Sat, 27 Dec 2025
 
 ## Shares bills with
 

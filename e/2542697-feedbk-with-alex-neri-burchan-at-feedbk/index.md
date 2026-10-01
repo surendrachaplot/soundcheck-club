@@ -1,6 +1,6 @@
 # feedbk with Alex Neri, burchan at feedbk
 
-feedbk with Alex Neri, burchan on Fri 23 Oct, New York City. 2 artists on the bill: Alex Neri and Burchan Acar. Preview the line-up and save it on soundcheck.
+feedbk with Alex Neri, burchan on Fri 23 Oct, New York City. 2 artists: Alex Neri and Burchan Acar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

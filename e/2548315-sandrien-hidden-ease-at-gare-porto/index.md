@@ -1,6 +1,6 @@
 # Sandrien, Hidden Ease at Gare Porto
 
-Sandrien, Hidden Ease at Gare Porto on Sat 17 Oct, Porto. 1 artist on the bill: Sandrien. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Sandrien, Hidden Ease at Gare Porto on Sat 17 Oct, Porto. 1 artist: Sandrien. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

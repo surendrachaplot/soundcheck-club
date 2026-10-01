@@ -1,6 +1,6 @@
 # Armana Khan with Yolo Taxi & swanahaus at Funkhaus
 
-Armana Khan with Yolo Taxi & swanahaus at Funkhaus on Fri 2 Oct, Vienna. 1 artist on the bill: ARMANA KHAN. Baile Funk and Dembow. Preview the line-up and save it on soundcheck.
+Armana Khan with Yolo Taxi & swanahaus at Funkhaus on Fri 2 Oct, Vienna. 1 artist: ARMANA KHAN. Baile Funk and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

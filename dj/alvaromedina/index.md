@@ -1,8 +1,8 @@
 # Alvaro Medina
 
-Alvaro Medina is a House and Minimal artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+Alvaro Medina is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
 
-Alvaro Medina is a house and minimal artist based in Spain, tracked on soundcheck, with 85 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 10 more. Often billed alongside Jordi Castell, MARYO and Federico Molinari. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
+Alvaro Medina is a house and minimal artist based in Spain, with 85 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 10 more. Often billed alongside Jordi Castell, MARYO and Federico Molinari. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Alvaro Medina is a house and minimal artist based in Spain, tracked on soundchec
 
 ## Recently played
 
-- Sunseabar Beach Club, Barcelona — Sun, 27 Sept 2026
-- Oven Club, Valencia — Fri, 4 Sept 2026
-- Studio Club Malaga, Malaga — Sat, 29 Aug 2026
-- Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
-- fabric, London — Sun, 26 Jul 2026
-- Club der Visionaere, Berlin — Wed, 1 Jul 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sun, 21 Jun 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Fri, 29 May 2026
+- Sunseabar Beach Club, Barcelona · Sun, 27 Sept 2026
+- Oven Club, Valencia · Fri, 4 Sept 2026
+- Studio Club Malaga, Malaga · Sat, 29 Aug 2026
+- Amnesia Ibiza, Ibiza · Sun, 16 Aug 2026
+- fabric, London · Sun, 26 Jul 2026
+- Club der Visionaere, Berlin · Wed, 1 Jul 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sun, 21 Jun 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Fri, 29 May 2026
 
 ## Shares bills with
 

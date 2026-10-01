@@ -1,6 +1,6 @@
 # nimino at Terminal 5
 
-nimino at Terminal 5 on Sat 7 Nov, New York City. 1 artist on the bill: nimino. Preview the line-up and save it on soundcheck.
+nimino at Terminal 5 on Sat 7 Nov, New York City. 1 artist: nimino. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

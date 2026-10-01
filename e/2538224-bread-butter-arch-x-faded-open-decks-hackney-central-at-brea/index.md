@@ -1,6 +1,6 @@
 # Bread & Butter Arch x Faded: OPEN DECKS (Hackney Central) at Bread & Butter Arch
 
-Bread & Butter Arch x Faded: OPEN DECKS (Hackney Central) on Wed 11 Nov, London. 1 artist on the bill: Faded Society. Preview the line-up and save it on soundcheck.
+Bread & Butter Arch x Faded: OPEN DECKS (Hackney Central) on Wed 11 Nov, London. 1 artist: Faded Society. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

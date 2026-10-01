@@ -1,8 +1,8 @@
 # Angerfist
 
-Angerfist is a Techno and Hardcore artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Angerfist is a Techno and Hardcore artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-Angerfist is a techno and hardcore artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Mad Dog, Partyraiser and Trym. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
+Angerfist is a techno and hardcore artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 30 more. Often billed alongside Mad Dog, Partyraiser and Trym. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Angerfist is a techno and hardcore artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 19 Sept 2026
-- Fabrik, Madrid — Sat, 19 Sept 2026
-- Eden, Ibiza — Tue, 25 Aug 2026
-- Medusa Beach, Valencia — Thu, 13 Aug 2026
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 18 Jul 2026
-- Exhibition Park, Newcastle — Sat, 11 Jul 2026
-- Afas Live, Amsterdam — Sat, 27 Jun 2026
-- Eden, Ibiza — Tue, 23 Jun 2026
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 19 Sept 2026
+- Fabrik, Madrid · Sat, 19 Sept 2026
+- Eden, Ibiza · Tue, 25 Aug 2026
+- Medusa Beach, Valencia · Thu, 13 Aug 2026
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 18 Jul 2026
+- Exhibition Park, Newcastle · Sat, 11 Jul 2026
+- Afas Live, Amsterdam · Sat, 27 Jun 2026
+- Eden, Ibiza · Tue, 23 Jun 2026
 
 ## Shares bills with
 

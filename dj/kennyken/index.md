@@ -1,8 +1,8 @@
 # Kenny Ken
 
-Kenny Ken is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+Kenny Ken is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
-Kenny Ken is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 61 sets logged across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside Nicky Blackmarket, DJ Hype and Grooverider. Next up: NOWHERE, Manchester on Sat 3 Oct.
+Kenny Ken is a drum & bass and jungle artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Bristol and 8 more. Often billed alongside Nicky Blackmarket, DJ Hype and Grooverider. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Kenny Ken is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- The Clock Factory, Bristol — Sat, 29 Aug 2026
-- Outernet Live, London — Sat, 29 Aug 2026
-- Riverside East, London — Sat, 15 Aug 2026
-- The Cause, London — Sun, 14 Jun 2026
-- Hootananny Brixton, London — Sat, 23 May 2026
-- Bowlers Exhibition Centre, Manchester — Sat, 2 May 2026
-- Melkweg, Amsterdam — Fri, 24 Apr 2026
-- The TBA - The Bulldog Palace, Melkweg Black Dog, Het Sieraad, Amsterdam — Fri, 24 Apr 2026
+- The Clock Factory, Bristol · Sat, 29 Aug 2026
+- Outernet Live, London · Sat, 29 Aug 2026
+- Riverside East, London · Sat, 15 Aug 2026
+- The Cause, London · Sun, 14 Jun 2026
+- Hootananny Brixton, London · Sat, 23 May 2026
+- Bowlers Exhibition Centre, Manchester · Sat, 2 May 2026
+- Melkweg, Amsterdam · Fri, 24 Apr 2026
+- The TBA - The Bulldog Palace, Melkweg Black Dog, Het Sieraad, Amsterdam · Fri, 24 Apr 2026
 
 ## Shares bills with
 

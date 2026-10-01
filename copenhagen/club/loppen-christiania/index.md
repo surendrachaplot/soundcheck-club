@@ -1,8 +1,8 @@
 # Loppen Christiania
 
-Loppen Christiania is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "miaw (DK/NL) - Releaseshow // Loppen" on Fri, 30 Oct 2026.
+Loppen Christiania is a music venue in Copenhagen with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "miaw (DK/NL) - Releaseshow // Loppen" on Fri, 30 Oct 2026.
 
-Loppen Christiania is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including miaw. Browse upcoming dates, start times and who's playing. Loppen Sydområdet 4B 1. Sal, DK 1440 Kbh K.
+Loppen Christiania is a music venue in Copenhagen listed on soundcheck. 2 upcoming gigs, with line-ups including miaw. See dates, start times and who's playing. Loppen Sydområdet 4B 1. Sal, DK 1440 Kbh K.
 
 ## What's on
 

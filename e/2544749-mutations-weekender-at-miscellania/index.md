@@ -1,6 +1,6 @@
 # MUTATIONS WEEKENDER at Miscellania
 
-MUTATIONS WEEKENDER at Miscellania on Sat 14 Nov, Melbourne. Bass. Preview the line-up and save it on soundcheck.
+MUTATIONS WEEKENDER at Miscellania on Sat 14 Nov, Melbourne. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Rene Wise
 
-Rene Wise is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 288 Green St, Boston on Fri, 2 Oct 2026.
+Rene Wise is a Techno and House artist with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 288 Green St, Boston on Fri, 2 Oct 2026.
 
-Rene Wise is a techno and house artist based in United Kingdom, tracked on soundcheck, with 256 sets logged across Amsterdam, Athens, Austin and Barcelona and 74 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: 288 Green St, Boston on Fri 2 Oct.
+Rene Wise is a techno and house artist based in United Kingdom, with 256 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 74 more. Often billed alongside Blasha & Allatt, MARRØN and Ogazón. Next up: 288 Green St, Boston on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Rene Wise is a techno and house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Cabooze, Minneapolis-st-paul — Sun, 27 Sept 2026
-- TBA - Los Angeles, Los Angeles — Sat, 26 Sept 2026
-- TBA - Los Angeles, Los Angeles — Fri, 25 Sept 2026
-- TBA - San Francisco, San Francisco/Oakland — Fri, 25 Sept 2026
-- SMUT Athens, Athens — Sat, 19 Sept 2026
-- essaim, Paris — Fri, 18 Sept 2026
-- Open Ground, Wuppertal — Sat, 12 Sept 2026
-- FOLD, London — Fri, 4 Sept 2026
+- Cabooze, Minneapolis-st-paul · Sun, 27 Sept 2026
+- TBA - Los Angeles, Los Angeles · Sat, 26 Sept 2026
+- TBA - Los Angeles, Los Angeles · Fri, 25 Sept 2026
+- TBA - San Francisco, San Francisco/Oakland · Fri, 25 Sept 2026
+- SMUT Athens, Athens · Sat, 19 Sept 2026
+- essaim, Paris · Fri, 18 Sept 2026
+- Open Ground, Wuppertal · Sat, 12 Sept 2026
+- FOLD, London · Fri, 4 Sept 2026
 
 ## Shares bills with
 

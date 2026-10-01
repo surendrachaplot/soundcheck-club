@@ -1,6 +1,6 @@
 # Omana Festival 2026 at Chalkidiki, Kalamitsi, Thalatta Camp
 
-Omana Festival 2026 at Chalkidiki, Kalamitsi, Thalatta Camp on Wed 30 Sept, Greece. 97 artists on the bill: 22, Akaj, Alex Dima and Alex Pastor and 93 more. Preview the line-up and save it on soundcheck.
+Omana Festival 2026 at Chalkidiki, Kalamitsi, Thalatta Camp on Wed 30 Sept, Greece. 97 artists: 22, Akaj, Alex Dima and Alex Pastor and 93 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

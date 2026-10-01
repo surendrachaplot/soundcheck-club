@@ -1,6 +1,6 @@
 # El Sueño - The Ned London at TBA
 
-El Sueño - The Ned London at TBA on Sat 7 Nov, London. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+El Sueño - The Ned London at TBA on Sat 7 Nov, London. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

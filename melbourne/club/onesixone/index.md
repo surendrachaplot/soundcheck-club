@@ -1,8 +1,8 @@
 # OneSixOne
 
-OneSixOne is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Moopie - onesixone" on Fri, 2 Oct 2026.
+OneSixOne is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Moopie - onesixone" on Fri, 2 Oct 2026.
 
-OneSixOne is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Adam Trace, Afrodisiac, Agent 86 and Amber Ferraro and 2 more. Browse upcoming dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
+OneSixOne is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including Adam Trace, Afrodisiac, Agent 86 and Amber Ferraro and 2 more. See dates, start times and who's playing. 161 High St; Prahran, VIC 3181; Australia.
 
 ## What's on
 

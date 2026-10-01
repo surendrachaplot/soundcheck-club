@@ -1,6 +1,6 @@
 # Ziad Rahbani 'Ana Moush Kafer' Release Party at Atemporal
 
-Ziad Rahbani 'Ana Moush Kafer' Release Party at Atemporal on Thu 8 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Ziad Rahbani 'Ana Moush Kafer' Release Party at Atemporal on Thu 8 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

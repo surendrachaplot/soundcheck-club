@@ -1,8 +1,8 @@
 # Dany Gómez
 
-Dany Gómez is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrik, Madrid on Sat, 31 Oct 2026.
+Dany Gómez is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrik, Madrid on Sat, 31 Oct 2026.
 
-Dany Gómez is a techno and tech house artist based in Spain, tracked on soundcheck, with 8 sets logged across Barcelona, Ibiza and Madrid. Often billed alongside AJNA, Adiel and Adriatique. Next up: Fabrik, Madrid on Sat 31 Oct.
+Dany Gómez is a techno and tech house artist based in Spain, with 8 gigs on soundcheck across Barcelona, Ibiza and Madrid. Often billed alongside AJNA, Adiel and Adriatique. Next up: Fabrik, Madrid on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Dany Gómez is a techno and tech house artist based in Spain, tracked on soundch
 
 ## Recently played
 
-- IFEMA, Madrid — Fri, 18 Sept 2026
-- IFEMA, Madrid — Fri, 18 Sept 2026
-- NIX Barcelon, Barcelona — Sun, 19 Jul 2026
-- [UNVRS], Ibiza — Wed, 8 Jul 2026
-- Chinois Ibiza, Ibiza — Tue, 9 Jun 2026
-- Chinois Ibiza, Ibiza — Tue, 9 Jun 2026
-- [UNVRS], Ibiza — Wed, 10 Sept 2025
+- IFEMA, Madrid · Fri, 18 Sept 2026
+- IFEMA, Madrid · Fri, 18 Sept 2026
+- NIX Barcelon, Barcelona · Sun, 19 Jul 2026
+- [UNVRS], Ibiza · Wed, 8 Jul 2026
+- Chinois Ibiza, Ibiza · Tue, 9 Jun 2026
+- Chinois Ibiza, Ibiza · Tue, 9 Jun 2026
+- [UNVRS], Ibiza · Wed, 10 Sept 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Guy J na Ópera de Arame at Pedreira Paulo Leminski
 
-Guy J na Ópera de Arame at Pedreira Paulo Leminski on Mon 6 Sept, Brazil. 4 artists on the bill: DJ ZAC, Guy J, Guy Mantzur and Ricardo Albuquerque. Preview the line-up and save it on soundcheck.
+Guy J na Ópera de Arame at Pedreira Paulo Leminski on Mon 6 Sept, Brazil. 4 artists: DJ ZAC, Guy J, Guy Mantzur and Ricardo Albuquerque. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

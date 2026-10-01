@@ -1,8 +1,8 @@
 # Xana
 
-Xana is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at R Lounge, Tokyo on Sat, 14 Nov 2026.
+Xana is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at R Lounge, Tokyo on Sat, 14 Nov 2026.
 
-Xana is a techno and house artist based in Malaysia, tracked on soundcheck, with 15 sets logged across Kuala Lumpur, Miami and Tokyo. Often billed alongside 1-800-Lolita, SATURNSARii and Mai iachetti. Next up: R Lounge, Tokyo on Sat 14 Nov.
+Xana is a techno and house artist based in Malaysia, with 15 gigs on soundcheck across Kuala Lumpur, Miami and Tokyo. Often billed alongside 1-800-Lolita, SATURNSARii and Mai iachetti. Next up: R Lounge, Tokyo on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Xana is a techno and house artist based in Malaysia, tracked on soundcheck, with
 
 ## Recently played
 
-- Jolene Downtown Miami, Miami — Thu, 10 Sept 2026
-- Pisco Bar, Kuala Lumpur — Sat, 5 Sept 2026
-- Pisco Bar, Kuala Lumpur — Sat, 8 Aug 2026
-- Fooq's Miami, Miami — Sat, 18 Jul 2026
-- TBA - Secret location in Miami 👻, Miami — Sat, 25 Apr 2026
-- Factory Town, Miami — Sat, 18 Apr 2026
-- R Lounge, Tokyo — Sat, 11 Apr 2026
-- Floyd, Miami — Sat, 14 Feb 2026
+- Jolene Downtown Miami, Miami · Thu, 10 Sept 2026
+- Pisco Bar, Kuala Lumpur · Sat, 5 Sept 2026
+- Pisco Bar, Kuala Lumpur · Sat, 8 Aug 2026
+- Fooq's Miami, Miami · Sat, 18 Jul 2026
+- TBA - Secret location in Miami 👻, Miami · Sat, 25 Apr 2026
+- Factory Town, Miami · Sat, 18 Apr 2026
+- R Lounge, Tokyo · Sat, 11 Apr 2026
+- Floyd, Miami · Sat, 14 Feb 2026
 
 ## Shares bills with
 

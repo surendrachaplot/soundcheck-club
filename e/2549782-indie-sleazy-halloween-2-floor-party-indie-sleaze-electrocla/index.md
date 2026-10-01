@@ -1,6 +1,6 @@
 # INDIE SLEAZY HALLOWEEN 2 FLOOR PARTY (INDIE SLEAZE / ELECTROCLASH PARTY) at Nice N Sleazy
 
-INDIE SLEAZY HALLOWEEN 2 FLOOR PARTY (INDIE SLEAZE / ELECTROCLASH PARTY) at Nice N Sleazy on Sat 31 Oct, Glasgow. 1 artist on the bill: Gabor Matty. Electro and Club. Preview the line-up and save it on soundcheck.
+INDIE SLEAZY HALLOWEEN 2 FLOOR PARTY (INDIE SLEAZE / ELECTROCLASH PARTY) at Nice N Sleazy on Sat 31 Oct, Glasgow. 1 artist: Gabor Matty. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

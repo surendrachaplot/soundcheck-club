@@ -1,6 +1,6 @@
 # PRISM - All Underground Music at ZEROTOKYO
 
-PRISM - All Underground Music at ZEROTOKYO on Thu 29 Oct, Tokyo. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+PRISM - All Underground Music at ZEROTOKYO on Thu 29 Oct, Tokyo. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

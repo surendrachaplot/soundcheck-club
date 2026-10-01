@@ -1,6 +1,6 @@
 # Pitchblack Playback: A Tribe Called Quest 'The Low End Theory' (35th Anniversary) at The Castle Cinema
 
-Pitchblack Playback: A Tribe Called Quest 'The Low End Theory' (35th Anniversary) at The Castle Cinema on Wed 7 Oct, London. Hip-Hop. Preview the line-up and save it on soundcheck.
+Pitchblack Playback: A Tribe Called Quest 'The Low End Theory' (35th Anniversary) at The Castle Cinema on Wed 7 Oct, London. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

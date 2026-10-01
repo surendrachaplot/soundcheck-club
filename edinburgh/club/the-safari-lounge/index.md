@@ -1,8 +1,8 @@
 # The Safari Lounge
 
-The Safari Lounge is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Stepback Halloween with WOE is us" on Fri, 30 Oct 2026.
+The Safari Lounge is a music venue in Edinburgh with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Stepback Halloween with WOE is us" on Fri, 30 Oct 2026.
 
-The Safari Lounge is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Keyte, ona:v, Thornback and WOE is us and 1 more. Browse upcoming dates, start times and who's playing. 21 Cadzow Place, Abbeyhill, Edinburgh EH7 5SN, Scotland, United Kingdom.
+The Safari Lounge is a music venue in Edinburgh listed on soundcheck. 2 upcoming gigs, with line-ups including Keyte, ona:v, Thornback and WOE is us and 1 more. See dates, start times and who's playing. 21 Cadzow Place, Abbeyhill, Edinburgh EH7 5SN, Scotland, United Kingdom.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # SONIC ODYSSEY at Système
 
-SONIC ODYSSEY at Système on Thu 1 Oct, Montreal. 2 artists on the bill: G L O W Z I and IAMNOTMYHISTORY. Preview the line-up and save it on soundcheck.
+SONIC ODYSSEY at Système on Thu 1 Oct, Montreal. 2 artists: G L O W Z I and IAMNOTMYHISTORY. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

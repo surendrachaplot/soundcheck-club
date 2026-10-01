@@ -1,6 +1,6 @@
 # BRIDGE presents Megra at Grain Haus
 
-BRIDGE presents Megra at Grain Haus on Sat 3 Oct, Seoul. 6 artists on the bill: AEIDA, Juuno, MAR VISTA and Megra and 2 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+BRIDGE presents Megra at Grain Haus on Sat 3 Oct, Seoul. 6 artists: AEIDA, Juuno, MAR VISTA and Megra and 2 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

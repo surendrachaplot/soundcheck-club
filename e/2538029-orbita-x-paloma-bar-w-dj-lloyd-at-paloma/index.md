@@ -1,6 +1,6 @@
 # Orbita x Paloma Bar w/ DJ Lloyd at Paloma
 
-Orbita x Paloma Bar w/ DJ Lloyd on Thu 22 Oct, Berlin. 4 artists on the bill: DJ Aficionado, Eleonora K, Lloydski and Llupe. House and Acid. Preview the line-up and save it on soundcheck.
+Orbita x Paloma Bar w/ DJ Lloyd on Thu 22 Oct, Berlin. 4 artists: DJ Aficionado, Eleonora K, Lloydski and Llupe. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

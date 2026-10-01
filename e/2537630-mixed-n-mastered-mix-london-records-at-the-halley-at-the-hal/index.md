@@ -1,6 +1,6 @@
 # MIXED N MASTERED - Mix London Records at The Halley at The Halley Space
 
-MIXED N MASTERED - Mix London Records at The Halley at The Halley Space on Thu 22 Oct, London. Drum & Bass and Electronica. Preview the line-up and save it on soundcheck.
+MIXED N MASTERED - Mix London Records at The Halley at The Halley Space on Thu 22 Oct, London. Drum & Bass and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

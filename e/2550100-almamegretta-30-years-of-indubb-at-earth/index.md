@@ -1,6 +1,6 @@
 # Almamegretta - 30 years of Indubb at EartH
 
-Almamegretta - 30 years of Indubb at EartH on Sun 1 Nov, London. Electro and Dub. Preview the line-up and save it on soundcheck.
+Almamegretta - 30 years of Indubb at EartH on Sun 1 Nov, London. Electro and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

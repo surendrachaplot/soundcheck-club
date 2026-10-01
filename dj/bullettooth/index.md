@@ -1,8 +1,8 @@
 # bullet tooth
 
-bullet tooth is a Garage and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TRAUM, Antwerp on Fri, 2 Oct 2026.
+bullet tooth is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TRAUM, Antwerp on Fri, 2 Oct 2026.
 
-bullet tooth is a garage and house artist based in United Kingdom, tracked on soundcheck, with 133 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: TRAUM, Antwerp on Fri 2 Oct.
+bullet tooth is a garage and house artist based in United Kingdom, with 133 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 35 more. Often billed alongside Silva Bumpa, Capo Lee and Main Phase. Next up: TRAUM, Antwerp on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ bullet tooth is a garage and house artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Hangaren, Copenhagen — Sat, 26 Sept 2026
-- Document, Bristol — Fri, 25 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 22 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- The Nest, Nottingham — Sun, 30 Aug 2026
-- Mint Warehouse, Leeds — Sun, 30 Aug 2026
-- Steelyard Kelham, Sheffield — Sun, 30 Aug 2026
-- Mint Warehouse, Leeds — Sun, 30 Aug 2026
+- Hangaren, Copenhagen · Sat, 26 Sept 2026
+- Document, Bristol · Fri, 25 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 22 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- The Nest, Nottingham · Sun, 30 Aug 2026
+- Mint Warehouse, Leeds · Sun, 30 Aug 2026
+- Steelyard Kelham, Sheffield · Sun, 30 Aug 2026
+- Mint Warehouse, Leeds · Sun, 30 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # FELA BTATION OSAKA 2026 at Socore Factory
 
-FELA BTATION OSAKA 2026 at Socore Factory on Sat 3 Oct, Osaka. Afrobeat. Preview the line-up and save it on soundcheck.
+FELA BTATION OSAKA 2026 at Socore Factory on Sat 3 Oct, Osaka. Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

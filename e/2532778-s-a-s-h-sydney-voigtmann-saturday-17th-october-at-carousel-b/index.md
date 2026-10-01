@@ -1,6 +1,6 @@
 # ★ S.A.S.H Sydney ★ Voigtmann ★ Saturday 17th October ★ at Carousel Bar & Ballroom
 
-★ S.A.S.H Sydney ★ Voigtmann ★ Saturday 17th October ★ at Carousel Bar & Ballroom on Sat 17 Oct, Sydney. House and Tech House. Preview the line-up and save it on soundcheck.
+★ S.A.S.H Sydney ★ Voigtmann ★ Saturday 17th October ★ at Carousel Bar & Ballroom on Sat 17 Oct, Sydney. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

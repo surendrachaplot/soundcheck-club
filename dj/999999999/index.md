@@ -1,8 +1,8 @@
 # 999999999
 
-999999999 is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
+999999999 is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
 
-999999999 is a techno and house artist based in Italy, tracked on soundcheck, with 287 sets logged across Aberdeen, Amsterdam, Antwerp and Athens and 78 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
+999999999 is a techno and house artist based in Italy, with 287 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Athens and 78 more. Often billed alongside I Hate Models, Charlie Sparks and Nico Moreno. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- Frankie’s, Vancouver — Sat, 26 Sept 2026
-- Index, Dublin — Fri, 18 Sept 2026
-- Knockdown Center, New York City — Sat, 12 Sept 2026
-- Knockdown Center, New York City — Sat, 12 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- Beach House San Diego, San Diego — Sun, 6 Sept 2026
-- Radius, Chicago — Sat, 5 Sept 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- Frankie’s, Vancouver · Sat, 26 Sept 2026
+- Index, Dublin · Fri, 18 Sept 2026
+- Knockdown Center, New York City · Sat, 12 Sept 2026
+- Knockdown Center, New York City · Sat, 12 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- Beach House San Diego, San Diego · Sun, 6 Sept 2026
+- Radius, Chicago · Sat, 5 Sept 2026
 
 ## Shares bills with
 

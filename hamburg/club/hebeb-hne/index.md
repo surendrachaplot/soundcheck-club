@@ -1,8 +1,8 @@
 # Hebebühne
 
-Hebebühne is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Lynnic & ItsArius - SOMEWHERE TOUR 2026" on Wed, 25 Nov 2026.
+Hebebühne is a music venue in Hamburg with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Lynnic & ItsArius - SOMEWHERE TOUR 2026" on Wed, 25 Nov 2026.
 
-Hebebühne is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including Lynnic. Browse upcoming dates, start times and who's playing. Barnerstraße 30, 22765 Hamburg, Germany.
+Hebebühne is a music venue in Hamburg listed on soundcheck. 1 upcoming gig, with line-ups including Lynnic. See dates, start times and who's playing. Barnerstraße 30, 22765 Hamburg, Germany.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Studio 54 Mini Festival at TBA
 
-Studio 54 Mini Festival at TBA on Fri 9 Oct, Valencia. 7 artists on the bill: Camiel Daamen, Flow, Flowing and Ingy and 3 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Studio 54 Mini Festival at TBA on Fri 9 Oct, Valencia. 7 artists: Camiel Daamen, Flow, Flowing and Ingy and 3 more. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

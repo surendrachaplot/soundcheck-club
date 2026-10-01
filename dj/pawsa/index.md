@@ -1,8 +1,8 @@
 # PAWSA
 
-PAWSA is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+PAWSA is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-PAWSA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 144 sets logged across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Dennis Cruz, Silvie Loto and ANOTR. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+PAWSA is a house and tech house artist based in United Kingdom, with 144 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 41 more. Often billed alongside Dennis Cruz, Silvie Loto and ANOTR. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ PAWSA is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Universidad Autónoma de Madrid (UAM), Madrid — Sat, 12 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin, Berlin — Fri, 11 Sept 2026
-- TBA, Toronto — Sun, 6 Sept 2026
-- Fulton Fish Market - Hunts Point, New York City — Sat, 5 Sept 2026
-- Königsplatz München, Munich — Sat, 29 Aug 2026
-- Pacha Ibiza, Ibiza — Fri, 24 Jul 2026
-- Scorpios, Mykonos — Sun, 19 Jul 2026
+- Universidad Autónoma de Madrid (UAM), Madrid · Sat, 12 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- TBA - Löwenpalais Berlin Grunewald   Koenigsallee 30 - 32, 14193 Berlin, Berlin · Fri, 11 Sept 2026
+- TBA, Toronto · Sun, 6 Sept 2026
+- Fulton Fish Market - Hunts Point, New York City · Sat, 5 Sept 2026
+- Königsplatz München, Munich · Sat, 29 Aug 2026
+- Pacha Ibiza, Ibiza · Fri, 24 Jul 2026
+- Scorpios, Mykonos · Sun, 19 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Chugplex at The Edge Seoul
 
-Chugplex at The Edge Seoul on Sat 3 Oct, Seoul. 3 artists on the bill: Rob Goodspeed, Taelyn and Zinsoo. House and Downtempo. Preview the line-up and save it on soundcheck.
+Chugplex at The Edge Seoul on Sat 3 Oct, Seoul. 3 artists: Rob Goodspeed, Taelyn and Zinsoo. House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

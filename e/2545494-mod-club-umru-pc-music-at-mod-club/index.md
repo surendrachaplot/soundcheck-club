@@ -1,6 +1,6 @@
 # MOD CLUB: umru [pc music] at MOD Club
 
-MOD CLUB: umru [pc music] at MOD Club on Sat 7 Nov, Tallinn. 1 artist on the bill: umru. Club. Preview the line-up and save it on soundcheck.
+MOD CLUB: umru [pc music] at MOD Club on Sat 7 Nov, Tallinn. 1 artist: umru. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

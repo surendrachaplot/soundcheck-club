@@ -1,6 +1,6 @@
 # Mono Culture Fundraiser Party at Nice N Sleazy
 
-Mono Culture Fundraiser Party at Nice N Sleazy on Thu 5 Nov, Glasgow. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Mono Culture Fundraiser Party at Nice N Sleazy on Thu 5 Nov, Glasgow. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

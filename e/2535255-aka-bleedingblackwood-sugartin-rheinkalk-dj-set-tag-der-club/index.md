@@ -1,6 +1,6 @@
 # AkA + Bleedingblackwood + Sugartin + Rheinkalk (DJ-Set) - TAG DER CLUBKULTUR Festival Week at Madame Claude
 
-AkA + Bleedingblackwood + Sugartin + Rheinkalk (DJ-Set) - TAG DER CLUBKULTUR Festival Week at Madame Claude on Sat 10 Oct, Berlin. Preview the line-up and save it on soundcheck.
+AkA + Bleedingblackwood + Sugartin + Rheinkalk (DJ-Set) - TAG DER CLUBKULTUR Festival Week at Madame Claude on Sat 10 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

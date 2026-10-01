@@ -1,6 +1,6 @@
 # Bragolin + Carrellee // Urban Spree, Berlin at Urban Spree
 
-Bragolin + Carrellee // Urban Spree, Berlin on Thu 19 Nov, Berlin. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Bragolin + Carrellee // Urban Spree, Berlin on Thu 19 Nov, Berlin. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

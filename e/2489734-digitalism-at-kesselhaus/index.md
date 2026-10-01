@@ -1,6 +1,6 @@
 # Digitalism at Kesselhaus
 
-Digitalism at Kesselhaus on Fri 13 Nov, Berlin. Electro. Preview the line-up and save it on soundcheck.
+Digitalism at Kesselhaus on Fri 13 Nov, Berlin. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

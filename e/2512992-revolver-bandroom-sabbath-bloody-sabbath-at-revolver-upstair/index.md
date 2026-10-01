@@ -1,6 +1,6 @@
 # REVOLVER BANDROOM: Sabbath Bloody Sabbath at Revolver Upstairs
 
-REVOLVER BANDROOM: Sabbath Bloody Sabbath at Revolver Upstairs on Sat 19 Dec, Melbourne. Preview the line-up and save it on soundcheck.
+REVOLVER BANDROOM: Sabbath Bloody Sabbath at Revolver Upstairs on Sat 19 Dec, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

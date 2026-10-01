@@ -1,6 +1,6 @@
 # 𝖗𝖔𝖚𝖌𝖍 𝖈𝖚𝖗𝖊 6 Years Anniversary with H!Dude, KIM AHLF, PLOYZZ b2b DeGuzman at Roof 175
 
-𝖗𝖔𝖚𝖌𝖍 𝖈𝖚𝖗𝖊 6 Years Anniversary with H!Dude, KIM AHLF, PLOYZZ b2b DeGuzman at Roof 175 on Sat 7 Nov, Frankfurt. 4 artists on the bill: DeGuzman, H! Dude, KIM AHLF and PLOYZZ. Trance and Techno. Preview the line-up and save it on soundcheck.
+𝖗𝖔𝖚𝖌𝖍 𝖈𝖚𝖗𝖊 6 Years Anniversary with H!Dude, KIM AHLF, PLOYZZ b2b DeGuzman at Roof 175 on Sat 7 Nov, Frankfurt. 4 artists: DeGuzman, H! Dude, KIM AHLF and PLOYZZ. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # unceen with GI.O, 3LEEZA, BNZN, 5euroGoldi & DJ WIFI at Südpol
 
-unceen with GI.O, 3LEEZA, BNZN, 5euroGoldi & DJ WIFI at Südpol on Fri 20 Nov, Hamburg. 7 artists on the bill: 3LEEZA, 5euroGoldi, BNZN and DJ WIFI and 3 more. Trance and House. Preview the line-up and save it on soundcheck.
+unceen with GI.O, 3LEEZA, BNZN, 5euroGoldi & DJ WIFI at Südpol on Fri 20 Nov, Hamburg. 7 artists: 3LEEZA, 5euroGoldi, BNZN and DJ WIFI and 3 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

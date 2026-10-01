@@ -1,6 +1,6 @@
 # Starkers! (naked rave) at The Underground Nightclub
 
-Starkers! (naked rave) at The Underground Nightclub on Fri 6 Nov, London. House and Club. Preview the line-up and save it on soundcheck.
+Starkers! (naked rave) at The Underground Nightclub on Fri 6 Nov, London. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

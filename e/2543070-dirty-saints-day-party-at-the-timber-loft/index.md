@@ -1,6 +1,6 @@
 # Dirty Saints - Day Party at The Timber Loft
 
-Dirty Saints - Day Party at The Timber Loft on Sun 18 Oct, London. 2 artists on the bill: AMBRR and Ryan Lovell. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Dirty Saints - Day Party at The Timber Loft on Sun 18 Oct, London. 2 artists: AMBRR and Ryan Lovell. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

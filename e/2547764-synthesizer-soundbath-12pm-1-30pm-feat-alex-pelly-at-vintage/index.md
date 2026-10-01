@@ -1,6 +1,6 @@
 # Synthesizer Soundbath 12pm-1:30pm feat. Alex Pelly at Vintage Synthesizer Museum
 
-Synthesizer Soundbath 12pm-1:30pm feat. Alex Pelly at Vintage Synthesizer Museum on Sun 11 Oct, Los Angeles. Ambient and Drone. Preview the line-up and save it on soundcheck.
+Synthesizer Soundbath 12pm-1:30pm feat. Alex Pelly at Vintage Synthesizer Museum on Sun 11 Oct, Los Angeles. Ambient and Drone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

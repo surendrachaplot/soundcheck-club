@@ -1,6 +1,6 @@
 # ROYAL MONDAY at Royal Lounge
 
-ROYAL MONDAY at Royal Lounge on Mon 5 Oct, Tokyo. 5 artists on the bill: Junya, KAIKAI, MOTOKA and Nao.Ichikawa and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+ROYAL MONDAY at Royal Lounge on Mon 5 Oct, Tokyo. 5 artists: Junya, KAIKAI, MOTOKA and Nao.Ichikawa and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

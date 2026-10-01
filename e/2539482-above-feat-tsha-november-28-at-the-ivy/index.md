@@ -1,6 +1,6 @@
 # ABOVE feat. TSHA — November 28 at The Ivy
 
-ABOVE feat. TSHA — November 28 at The Ivy on Sat 28 Nov, Sydney. 1 artist on the bill: TSHA. Preview the line-up and save it on soundcheck.
+ABOVE feat. TSHA — November 28 at The Ivy on Sat 28 Nov, Sydney. 1 artist: TSHA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

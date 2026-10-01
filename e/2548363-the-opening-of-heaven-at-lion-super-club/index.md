@@ -1,6 +1,6 @@
 # THE OPENING OF HEAVEN at Lion Super Club
 
-THE OPENING OF HEAVEN at Lion Super Club on Sun 4 Oct, Seoul. 3 artists on the bill: LOOZBONE, POTAITO and Yuka. Preview the line-up and save it on soundcheck.
+THE OPENING OF HEAVEN at Lion Super Club on Sun 4 Oct, Seoul. 3 artists: LOOZBONE, POTAITO and Yuka. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

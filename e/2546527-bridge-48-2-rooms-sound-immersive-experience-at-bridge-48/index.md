@@ -1,6 +1,6 @@
 # BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48
 
-BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48 on Fri 23 Oct, Barcelona. 3 artists on the bill: Agoostina, chinobi and TBA. Preview the line-up and save it on soundcheck.
+BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48 on Fri 23 Oct, Barcelona. 3 artists: Agoostina, chinobi and TBA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # jumpstart! (UAL x KCL) at Electrowerkz
 
-jumpstart! (UAL x KCL) at Electrowerkz on Tue 27 Oct, London. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+jumpstart! (UAL x KCL) at Electrowerkz on Tue 27 Oct, London. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

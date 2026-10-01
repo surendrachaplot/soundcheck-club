@@ -1,6 +1,6 @@
 # Crunch Time UKG at Sono bar
 
-Crunch Time UKG at Sono bar on Sat 7 Nov, Zurich. Bass and Garage. Preview the line-up and save it on soundcheck.
+Crunch Time UKG at Sono bar on Sat 7 Nov, Zurich. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

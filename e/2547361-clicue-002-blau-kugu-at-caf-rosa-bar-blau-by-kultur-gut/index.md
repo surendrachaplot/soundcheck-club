@@ -1,6 +1,6 @@
 # CLICUE #002 – Blau (KUGU) at Café Rosa & bar Blau by Kultur&gut
 
-CLICUE #002 – Blau (KUGU) at Café Rosa & bar Blau by Kultur&gut on Fri 9 Oct, Hamburg. 2 artists on the bill: Alith Berndarn and Maxi Kreeft. House. Preview the line-up and save it on soundcheck.
+CLICUE #002 – Blau (KUGU) at Café Rosa & bar Blau by Kultur&gut on Fri 9 Oct, Hamburg. 2 artists: Alith Berndarn and Maxi Kreeft. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

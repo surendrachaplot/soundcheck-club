@@ -1,6 +1,6 @@
 # FLAMINGOSIS at Q Nightclub
 
-FLAMINGOSIS at Q Nightclub on Sat 5 Dec, Seattle. Preview the line-up and save it on soundcheck.
+FLAMINGOSIS at Q Nightclub on Sat 5 Dec, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PULSE invites Herrensauna at Mezz
 
-PULSE invites Herrensauna at Mezz on Sat 10 Oct, Netherlands. 3 artists on the bill: Erik Luebs, JASSS and MCMLXXXV. Preview the line-up and save it on soundcheck.
+PULSE invites Herrensauna at Mezz on Sat 10 Oct, Netherlands. 3 artists: Erik Luebs, JASSS and MCMLXXXV. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

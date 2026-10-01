@@ -1,6 +1,6 @@
 # PH4 Records présente NO ESCAPE NYE THE GRAND FINAL at TBA - La Plateforme
 
-PH4 Records présente NO ESCAPE NYE THE GRAND FINAL at TBA - La Plateforme on Thu 31 Dec, Marseille. 2 artists on the bill: BenzØ and Wolk. Preview the line-up and save it on soundcheck.
+PH4 Records présente NO ESCAPE NYE THE GRAND FINAL at TBA - La Plateforme on Thu 31 Dec, Marseille. 2 artists: BenzØ and Wolk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

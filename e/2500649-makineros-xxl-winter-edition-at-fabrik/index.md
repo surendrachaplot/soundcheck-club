@@ -1,6 +1,6 @@
 # MAKINEROS XXL Winter Edition at Fabrik
 
-MAKINEROS XXL Winter Edition at Fabrik on Sat 28 Nov, Madrid. 7 artists on the bill: Alex T (UK), Da Terror, Day-Mar and DJ Marta and 3 more. Preview the line-up and save it on soundcheck.
+MAKINEROS XXL Winter Edition at Fabrik on Sat 28 Nov, Madrid. 7 artists: Alex T (UK), Da Terror, Day-Mar and DJ Marta and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

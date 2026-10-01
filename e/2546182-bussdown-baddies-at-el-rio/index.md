@@ -1,6 +1,6 @@
 # Bussdown Baddies at El Rio
 
-Bussdown Baddies at El Rio on Fri 9 Oct, San Francisco/Oakland. 3 artists on the bill: JAMBALAYA, Joogmac and MARCHANTE. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Bussdown Baddies at El Rio on Fri 9 Oct, San Francisco/Oakland. 3 artists: JAMBALAYA, Joogmac and MARCHANTE. Club and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

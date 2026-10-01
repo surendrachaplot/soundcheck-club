@@ -1,6 +1,6 @@
 # Always ON TOP at ://about blank
 
-Always ON TOP at ://about blank on Sat 3 Oct, Berlin. 7 artists on the bill: Bamela Paywatch, Carl Hang, CHOREOPHILA and DJ Ferrari and 3 more. Preview the line-up and save it on soundcheck.
+Always ON TOP at ://about blank on Sat 3 Oct, Berlin. 7 artists: Bamela Paywatch, Carl Hang, CHOREOPHILA and DJ Ferrari and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

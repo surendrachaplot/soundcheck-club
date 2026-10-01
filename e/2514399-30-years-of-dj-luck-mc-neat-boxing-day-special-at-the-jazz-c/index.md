@@ -1,6 +1,6 @@
 # 30 Years of: DJ Luck & MC Neat (Boxing Day Special) at The Jazz Cafe
 
-30 Years of: DJ Luck & MC Neat (Boxing Day Special) at The Jazz Cafe on Sat 26 Dec, London. 1 artist on the bill: DJ Luck & MC Neat. Preview the line-up and save it on soundcheck.
+30 Years of: DJ Luck & MC Neat (Boxing Day Special) at The Jazz Cafe on Sat 26 Dec, London. 1 artist: DJ Luck & MC Neat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

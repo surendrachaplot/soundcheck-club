@@ -1,6 +1,6 @@
 # RASA presents Goldie b2b dBridge at RASA
 
-RASA presents Goldie b2b dBridge on Sat 3 Oct, Singapore. 3 artists on the bill: Dan Stezo, dBridge and Goldie. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+RASA presents Goldie b2b dBridge on Sat 3 Oct, Singapore. 3 artists: Dan Stezo, dBridge and Goldie. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

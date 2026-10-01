@@ -1,6 +1,6 @@
 # DANCE THIS MESS AROUND at Ridley Road Market Bar
 
-DANCE THIS MESS AROUND at Ridley Road Market Bar on Tue 20 Oct, London. Funk / Soul and Post-Punk. Preview the line-up and save it on soundcheck.
+DANCE THIS MESS AROUND at Ridley Road Market Bar on Tue 20 Oct, London. Funk / Soul and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

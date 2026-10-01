@@ -1,6 +1,6 @@
 # Le Soul at Dr Morse
 
-Le Soul at Dr Morse on Sun 11 Oct, Melbourne. 1 artist on the bill: Cherokee (AU). Preview the line-up and save it on soundcheck.
+Le Soul at Dr Morse on Sun 11 Oct, Melbourne. 1 artist: Cherokee (AU). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kelland at Virgo
 
-Kelland at Virgo on Fri 30 Oct, New York City. House. Preview the line-up and save it on soundcheck.
+Kelland at Virgo on Fri 30 Oct, New York City. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

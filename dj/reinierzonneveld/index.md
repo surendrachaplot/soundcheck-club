@@ -1,8 +1,8 @@
 # Reinier Zonneveld
 
-Reinier Zonneveld is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MÄX, Zurich on Sat, 3 Oct 2026.
+Reinier Zonneveld is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MÄX, Zurich on Sat, 3 Oct 2026.
 
-Reinier Zonneveld is a techno and house artist based in Netherlands, tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside 999999999, Adam Beyer and I Hate Models. Next up: MÄX, Zurich on Sat 3 Oct.
+Reinier Zonneveld is a techno and house artist based in Netherlands, with 123 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 46 more. Often billed alongside 999999999, Adam Beyer and I Hate Models. Next up: MÄX, Zurich on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Reinier Zonneveld is a techno and house artist based in Netherlands, tracked on 
 
 ## Recently played
 
-- Munich Beach Resort, Munich — Sat, 8 Aug 2026
-- Ministry Of Sound, London — Sat, 25 Jul 2026
-- Studio Club Malaga, Malaga — Fri, 17 Jul 2026
-- Eden, Ibiza — Tue, 14 Jul 2026
-- TBA - Olympic Stadium Antwerp, Antwerp — Sat, 27 Jun 2026
-- Fira Gran Via, Barcelona — Mon, 15 Jun 2026
-- Lehmann Club, Stuttgart — Sun, 24 May 2026
-- Plage De Torcy, Paris — Sat, 23 May 2026
+- Munich Beach Resort, Munich · Sat, 8 Aug 2026
+- Ministry Of Sound, London · Sat, 25 Jul 2026
+- Studio Club Malaga, Malaga · Fri, 17 Jul 2026
+- Eden, Ibiza · Tue, 14 Jul 2026
+- TBA - Olympic Stadium Antwerp, Antwerp · Sat, 27 Jun 2026
+- Fira Gran Via, Barcelona · Mon, 15 Jun 2026
+- Lehmann Club, Stuttgart · Sun, 24 May 2026
+- Plage De Torcy, Paris · Sat, 23 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Neon Party at A75
 
-Neon Party at A75 on Fri 2 Oct, Stockholm. 1 artist on the bill: SZSA. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Neon Party at A75 on Fri 2 Oct, Stockholm. 1 artist: SZSA. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

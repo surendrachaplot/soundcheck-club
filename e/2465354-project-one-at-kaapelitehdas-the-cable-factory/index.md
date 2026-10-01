@@ -1,6 +1,6 @@
 # Project One at Kaapelitehdas / The Cable Factory
 
-Project One at Kaapelitehdas / The Cable Factory on Fri 27 Nov, Helsinki. 4 artists on the bill: Code Black, Headhunterz, Ruthless and Wildstylez. Hardcore. Preview the line-up and save it on soundcheck.
+Project One at Kaapelitehdas / The Cable Factory on Fri 27 Nov, Helsinki. 4 artists: Code Black, Headhunterz, Ruthless and Wildstylez. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

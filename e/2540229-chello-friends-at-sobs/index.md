@@ -1,6 +1,6 @@
 # Chello & Friends at SOBs
 
-Chello & Friends at SOBs on Sat 10 Oct, New York City. Hip-Hop. Preview the line-up and save it on soundcheck.
+Chello & Friends at SOBs on Sat 10 Oct, New York City. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

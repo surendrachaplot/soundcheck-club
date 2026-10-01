@@ -1,8 +1,8 @@
 # BODAI
 
-BODAI is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
+BODAI is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
 
-BODAI is a progressive house and electronica artist based in Argentina, tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona, Buenos Aires and Lisbon. Often billed alongside Around Us, Camiel Villa and Christian Rojas. Next up: Kadinsky Cafe, Amsterdam on Sat 24 Oct.
+BODAI is a progressive house and electronica artist based in Argentina, with 6 gigs on soundcheck across Amsterdam, Barcelona, Buenos Aires and Lisbon. Often billed alongside Around Us, Camiel Villa and Christian Rojas. Next up: Kadinsky Cafe, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ BODAI is a progressive house and electronica artist based in Argentina, tracked 
 
 ## Recently played
 
-- Macarena Club, Barcelona — Tue, 18 Aug 2026
-- TBA - THE LIFT, Buenos Aires — Fri, 12 Jun 2026
-- TBA - BNN, Costanera, Buenos Aires — Thu, 1 May 2025
-- TBA - Club Morocco, Costa Salguero, Buenos Aires — Fri, 28 Feb 2025
-- TEMPLE, Lisbon — Sat, 3 Aug 2024
+- Macarena Club, Barcelona · Tue, 18 Aug 2026
+- TBA - THE LIFT, Buenos Aires · Fri, 12 Jun 2026
+- TBA - BNN, Costanera, Buenos Aires · Thu, 1 May 2025
+- TBA - Club Morocco, Costa Salguero, Buenos Aires · Fri, 28 Feb 2025
+- TEMPLE, Lisbon · Sat, 3 Aug 2024
 
 ## Shares bills with
 

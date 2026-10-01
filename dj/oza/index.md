@@ -1,8 +1,8 @@
 # OZA
 
-OZA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Massive, Seattle on Fri, 2 Oct 2026.
+OZA is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Massive, Seattle on Fri, 2 Oct 2026.
 
-OZA is a techno and trance artist based in United States of America, tracked on soundcheck, with 82 sets logged across Amsterdam, Austin, Berlin and Boston and 11 more. Often billed alongside DJ Gigola, MCR-T and PALMA (US). Next up: Massive, Seattle on Fri 2 Oct.
+OZA is a techno and trance artist based in United States of America, with 82 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 11 more. Often billed alongside DJ Gigola, MCR-T and PALMA (US). Next up: Massive, Seattle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ OZA is a techno and trance artist based in United States of America, tracked on 
 
 ## Recently played
 
-- TBA, Los Angeles — Fri, 25 Sept 2026
-- TBA, Los Angeles — Sat, 5 Sept 2026
-- TBA, New York City — Fri, 4 Sept 2026
-- DNA Club, Munich — Fri, 31 Jul 2026
-- Virage, Paris — Sat, 25 Jul 2026
-- Virage, Paris — Sat, 25 Jul 2026
-- Studio Club Malaga, Malaga — Fri, 24 Jul 2026
-- Under the K Bridge, New York City — Sat, 27 Jun 2026
+- TBA, Los Angeles · Fri, 25 Sept 2026
+- TBA, Los Angeles · Sat, 5 Sept 2026
+- TBA, New York City · Fri, 4 Sept 2026
+- DNA Club, Munich · Fri, 31 Jul 2026
+- Virage, Paris · Sat, 25 Jul 2026
+- Virage, Paris · Sat, 25 Jul 2026
+- Studio Club Malaga, Malaga · Fri, 24 Jul 2026
+- Under the K Bridge, New York City · Sat, 27 Jun 2026
 
 ## Shares bills with
 

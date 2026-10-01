@@ -1,6 +1,6 @@
 # Japaradiso! -Japanese Disko & City Pop Experience- at Club Metro
 
-Japaradiso! -Japanese Disko & City Pop Experience- at Club Metro on Thu 29 Oct, Kyoto. 1 artist on the bill: Ryoma Sasaki. Disco and Pop. Preview the line-up and save it on soundcheck.
+Japaradiso! -Japanese Disko & City Pop Experience- at Club Metro on Thu 29 Oct, Kyoto. 1 artist: Ryoma Sasaki. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

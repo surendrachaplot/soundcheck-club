@@ -1,6 +1,6 @@
 # Just Rhythm - Opening Party at Club Zimmermanns
 
-Just Rhythm - Opening Party at Club Zimmermanns on Fri 30 Oct, Cologne. Trance and Techno. Preview the line-up and save it on soundcheck.
+Just Rhythm - Opening Party at Club Zimmermanns on Fri 30 Oct, Cologne. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

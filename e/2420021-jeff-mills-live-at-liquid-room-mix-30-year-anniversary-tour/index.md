@@ -1,6 +1,6 @@
 # Jeff Mills Live at Liquid Room Mix 30 Year Anniversary Tour. Medellín, Colombia at Plaza Mayor Medellin
 
-Jeff Mills Live at Liquid Room Mix 30 Year Anniversary Tour. Medellín, Colombia at Plaza Mayor Medellin on Sat 14 Nov, Medellin. 1 artist on the bill: Jeff Mills. Preview the line-up and save it on soundcheck.
+Jeff Mills Live at Liquid Room Mix 30 Year Anniversary Tour. Medellín, Colombia at Plaza Mayor Medellin on Sat 14 Nov, Medellin. 1 artist: Jeff Mills. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

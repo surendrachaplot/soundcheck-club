@@ -1,8 +1,8 @@
 # Albino Sound
 
-Albino Sound is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Saloon, Tokyo on Fri, 2 Oct 2026.
+Albino Sound is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Saloon, Tokyo on Fri, 2 Oct 2026.
 
-Albino Sound is a techno and bass artist based in Japan, tracked on soundcheck, with 56 sets logged across Hong Kong, Kyoto and Tokyo. Often billed alongside Romy Mats, Pine and HIMAWARI. Next up: Saloon, Tokyo on Fri 2 Oct.
+Albino Sound is a techno and bass artist based in Japan, with 56 gigs on soundcheck across Hong Kong, Kyoto and Tokyo. Often billed alongside Romy Mats, Pine and HIMAWARI. Next up: Saloon, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Albino Sound is a techno and bass artist based in Japan, tracked on soundcheck, 
 
 ## Recently played
 
-- Enter Shibuya, Tokyo — Mon, 21 Sept 2026
-- Enter Shibuya, Tokyo — Wed, 9 Sept 2026
-- ZEROTOKYO, Tokyo — Sun, 30 Aug 2026
-- Enter Shibuya, Tokyo — Fri, 28 Aug 2026
-- 宀 Club, Hong Kong — Sat, 8 Aug 2026
-- WOMB, Tokyo — Fri, 12 Jun 2026
-- WOMB, Tokyo — Fri, 12 Jun 2026
-- Enter Shibuya, Tokyo — Thu, 11 Jun 2026
+- Enter Shibuya, Tokyo · Mon, 21 Sept 2026
+- Enter Shibuya, Tokyo · Wed, 9 Sept 2026
+- ZEROTOKYO, Tokyo · Sun, 30 Aug 2026
+- Enter Shibuya, Tokyo · Fri, 28 Aug 2026
+- 宀 Club, Hong Kong · Sat, 8 Aug 2026
+- WOMB, Tokyo · Fri, 12 Jun 2026
+- WOMB, Tokyo · Fri, 12 Jun 2026
+- Enter Shibuya, Tokyo · Thu, 11 Jun 2026
 
 ## Shares bills with
 

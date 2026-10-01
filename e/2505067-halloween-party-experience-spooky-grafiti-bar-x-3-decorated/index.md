@@ -1,6 +1,6 @@
 # Halloween Party Experience - spooky Grafiti Bar x 3 decorated Clubs at Berlin Club Culture
 
-Halloween Party Experience - spooky Grafiti Bar x 3 decorated Clubs at Berlin Club Culture on Sat 31 Oct, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+Halloween Party Experience - spooky Grafiti Bar x 3 decorated Clubs at Berlin Club Culture on Sat 31 Oct, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

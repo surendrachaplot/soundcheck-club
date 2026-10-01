@@ -1,6 +1,6 @@
 # DEVOTED w. Ben Techy, Kø:lab x VATOZ LOCOZ, Danilo Filipe & many more at OST
 
-DEVOTED w. Ben Techy, Kø:lab x VATOZ LOCOZ, Danilo Filipe & many more at OST on Sat 28 Nov, Berlin. 9 artists on the bill: Athina, Ben Techy, Danilo Filipe and DJ HOTMAIL and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+DEVOTED w. Ben Techy, Kø:lab x VATOZ LOCOZ, Danilo Filipe & many more at OST on Sat 28 Nov, Berlin. 9 artists: Athina, Ben Techy, Danilo Filipe and DJ HOTMAIL and 5 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

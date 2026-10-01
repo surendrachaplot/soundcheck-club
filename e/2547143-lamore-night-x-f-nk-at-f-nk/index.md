@@ -1,6 +1,6 @@
 # Lamore Night x Fünk at Fünk
 
-Lamore Night x Fünk on Thu 29 Oct, Mexico City. 1 artist on the bill: Dj Luigi. House. Preview the line-up and save it on soundcheck.
+Lamore Night x Fünk on Thu 29 Oct, Mexico City. 1 artist: Dj Luigi. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

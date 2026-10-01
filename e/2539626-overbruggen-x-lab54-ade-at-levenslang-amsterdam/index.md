@@ -1,6 +1,6 @@
 # Overbruggen x Lab54 - ADE at Levenslang Amsterdam
 
-Overbruggen x Lab54 - ADE at Levenslang Amsterdam on Fri 23 Oct, Amsterdam. 6 artists on the bill: Amy Os, Boss Priester, Dennis Quin and Kepler and 2 more. Preview the line-up and save it on soundcheck.
+Overbruggen x Lab54 - ADE at Levenslang Amsterdam on Fri 23 Oct, Amsterdam. 6 artists: Amy Os, Boss Priester, Dennis Quin and Kepler and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

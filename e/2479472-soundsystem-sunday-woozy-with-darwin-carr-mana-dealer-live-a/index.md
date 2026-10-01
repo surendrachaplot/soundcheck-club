@@ -1,6 +1,6 @@
 # Soundsystem Sunday: Woozy with Darwin, Carré + Mana Dealer (Live) at Yamamori Tengu
 
-Soundsystem Sunday: Woozy with Darwin, Carré + Mana Dealer (Live) at Yamamori Tengu on Sun 25 Oct, Dublin. 2 artists on the bill: Carré and Darwin. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Soundsystem Sunday: Woozy with Darwin, Carré + Mana Dealer (Live) at Yamamori Tengu on Sun 25 Oct, Dublin. 2 artists: Carré and Darwin. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

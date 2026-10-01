@@ -1,8 +1,8 @@
 # Big Penny Social
 
-Big Penny Social is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Alba Ensemble presents: Les Fleurs" on Sat, 7 Nov 2026.
+Big Penny Social is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Alba Ensemble presents: Les Fleurs" on Sat, 7 Nov 2026.
 
-Big Penny Social is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Jamie Adam. Browse upcoming dates, start times and who's playing. 1 Priestley Way, London, E17 6AL, United Kingdom.
+Big Penny Social is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Jamie Adam. See dates, start times and who's playing. 1 Priestley Way, London, E17 6AL, United Kingdom.
 
 ## What's on
 

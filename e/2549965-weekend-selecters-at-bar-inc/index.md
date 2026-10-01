@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Fri 6 Nov, Osaka. 1 artist on the bill: Robbie Akbal. House and Acid. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Fri 6 Nov, Osaka. 1 artist: Robbie Akbal. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

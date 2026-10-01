@@ -1,6 +1,6 @@
 # Freakquency with Red Sun at M-BIA
 
-Freakquency with Red Sun at M-BIA on Sat 17 Oct, Berlin. 3 artists on the bill: Daora, K3VKO and RHYTMOX. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Freakquency with Red Sun at M-BIA on Sat 17 Oct, Berlin. 3 artists: Daora, K3VKO and RHYTMOX. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

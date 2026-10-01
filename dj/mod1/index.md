@@ -1,8 +1,8 @@
 # Mod.1
 
-Mod.1 is a Techno and Dub Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at VENT, Tokyo on Fri, 2 Oct 2026.
+Mod.1 is a Techno and Dub Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at VENT, Tokyo on Fri, 2 Oct 2026.
 
-Mod.1 is a techno and dub techno artist based in Spain, tracked on soundcheck, with 66 sets logged across Barcelona, Berlin, Madrid and Milan and 4 more. Often billed alongside ABSIS, Ana Alves and Queixal. Next up: VENT, Tokyo on Fri 2 Oct.
+Mod.1 is a techno and dub techno artist based in Spain, with 66 gigs on soundcheck across Barcelona, Berlin, Madrid and Milan and 4 more. Often billed alongside ABSIS, Ana Alves and Queixal. Next up: VENT, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Mod.1 is a techno and dub techno artist based in Spain, tracked on soundcheck, w
 
 ## Recently played
 
-- Razzmatazz, Barcelona — Sat, 12 Sept 2026
-- Gare Porto, Porto — Sat, 8 Aug 2026
-- Razzmatazz, Barcelona — Sat, 4 Jul 2026
-- Les Enfants Brillants, Barcelona — Tue, 16 Jun 2026
-- Razzmatazz, Barcelona — Sat, 9 May 2026
-- TBA - Powered by Void Acoustics, Madrid — Fri, 8 May 2026
-- Sunseabar Beach Club, Barcelona — Sun, 3 May 2026
-- Nitsa Club, Barcelona — Sat, 2 May 2026
+- Razzmatazz, Barcelona · Sat, 12 Sept 2026
+- Gare Porto, Porto · Sat, 8 Aug 2026
+- Razzmatazz, Barcelona · Sat, 4 Jul 2026
+- Les Enfants Brillants, Barcelona · Tue, 16 Jun 2026
+- Razzmatazz, Barcelona · Sat, 9 May 2026
+- TBA - Powered by Void Acoustics, Madrid · Fri, 8 May 2026
+- Sunseabar Beach Club, Barcelona · Sun, 3 May 2026
+- Nitsa Club, Barcelona · Sat, 2 May 2026
 
 ## Shares bills with
 

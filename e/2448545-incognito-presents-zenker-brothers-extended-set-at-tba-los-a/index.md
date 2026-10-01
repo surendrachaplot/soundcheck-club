@@ -1,6 +1,6 @@
 # INCOGNITO presents Zenker Brothers (Extended Set) at TBA - Los Angeles (Warehouse)
 
-INCOGNITO presents Zenker Brothers (Extended Set) at TBA - Los Angeles (Warehouse) on Sat 3 Oct, Los Angeles. 4 artists on the bill: DJ Noir, Heart of Gold, OJ (US) and Zenker Brothers. Techno and Broken Beat. Preview the line-up and save it on soundcheck.
+INCOGNITO presents Zenker Brothers (Extended Set) at TBA - Los Angeles (Warehouse) on Sat 3 Oct, Los Angeles. 4 artists: DJ Noir, Heart of Gold, OJ (US) and Zenker Brothers. Techno and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bag Raiders at The Midway
 
-Bag Raiders at The Midway on Sat 7 Nov, San Francisco/Oakland. 1 artist on the bill: Bag Raiders. Preview the line-up and save it on soundcheck.
+Bag Raiders at The Midway on Sat 7 Nov, San Francisco/Oakland. 1 artist: Bag Raiders. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

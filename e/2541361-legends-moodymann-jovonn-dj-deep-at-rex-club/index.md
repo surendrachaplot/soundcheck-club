@@ -1,6 +1,6 @@
 # LEGENDS: Moodymann, Jovonn, DJ Deep at Rex Club
 
-LEGENDS: Moodymann, Jovonn, DJ Deep at Rex Club on Sun 25 Oct, Paris. 3 artists on the bill: DJ Deep, Jovonn and Moodymann. Techno and House. Preview the line-up and save it on soundcheck.
+LEGENDS: Moodymann, Jovonn, DJ Deep at Rex Club on Sun 25 Oct, Paris. 3 artists: DJ Deep, Jovonn and Moodymann. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

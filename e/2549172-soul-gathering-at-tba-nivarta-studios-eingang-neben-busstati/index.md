@@ -1,6 +1,6 @@
 # Soul Gathering at TBA - NIVARTA STUDIOS (Eingang neben Busstation Höhenweg, Aesch)
 
-Soul Gathering at TBA - NIVARTA STUDIOS (Eingang neben Busstation Höhenweg, Aesch) on Fri 9 Oct, Basel. Downtempo and Funk / Soul. Preview the line-up and save it on soundcheck.
+Soul Gathering at TBA - NIVARTA STUDIOS (Eingang neben Busstation Höhenweg, Aesch) on Fri 9 Oct, Basel. Downtempo and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

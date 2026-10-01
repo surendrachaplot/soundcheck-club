@@ -1,6 +1,6 @@
 # KALEIDO presents: KIKI Collective at Ruigoord
 
-KALEIDO presents: KIKI Collective at Ruigoord on Sat 10 Oct, Amsterdam. 2 artists on the bill: Molly Cules and Shady Lady. Preview the line-up and save it on soundcheck.
+KALEIDO presents: KIKI Collective at Ruigoord on Sat 10 Oct, Amsterdam. 2 artists: Molly Cules and Shady Lady. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

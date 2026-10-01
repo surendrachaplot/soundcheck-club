@@ -1,6 +1,6 @@
 # Mariano Mellino, Lucas R, Maddog - DEEPDOWN at The Northern
 
-Mariano Mellino, Lucas R, Maddog - DEEPDOWN at The Northern on Sat 10 Oct, Byron Bay. 2 artists on the bill: DJ maddog and Mariano Mellino. Preview the line-up and save it on soundcheck.
+Mariano Mellino, Lucas R, Maddog - DEEPDOWN at The Northern on Sat 10 Oct, Byron Bay. 2 artists: DJ maddog and Mariano Mellino. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

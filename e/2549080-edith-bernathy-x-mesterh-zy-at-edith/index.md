@@ -1,6 +1,6 @@
 # EDITH — Bernathy x Mesterházy at Edith
 
-EDITH — Bernathy x Mesterházy at Edith on Fri 2 Oct, Budapest. 1 artist on the bill: Mesterhazy. Techno and House. Preview the line-up and save it on soundcheck.
+EDITH — Bernathy x Mesterházy at Edith on Fri 2 Oct, Budapest. 1 artist: Mesterhazy. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

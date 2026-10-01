@@ -1,6 +1,6 @@
 # RITUALS MUSIC 5 YEARS with NICONE at MH5 Rooftop
 
-RITUALS MUSIC 5 YEARS with NICONE at MH5 Rooftop on Sat 10 Oct, Munich. 4 artists on the bill: Dan Mlinar, Niconé, Till Antonio and VALOUR. Techno and Electronica. Preview the line-up and save it on soundcheck.
+RITUALS MUSIC 5 YEARS with NICONE at MH5 Rooftop on Sat 10 Oct, Munich. 4 artists: Dan Mlinar, Niconé, Till Antonio and VALOUR. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

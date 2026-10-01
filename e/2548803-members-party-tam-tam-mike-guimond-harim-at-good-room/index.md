@@ -1,6 +1,6 @@
 # Members Party: Tam Tam, Mike Guimond & Harim at Good Room
 
-Members Party: Tam Tam, Mike Guimond & Harim at Good Room on Sat 7 Nov, New York City. 3 artists on the bill: Harim, Mike Guimond and Tam Tam. Preview the line-up and save it on soundcheck.
+Members Party: Tam Tam, Mike Guimond & Harim at Good Room on Sat 7 Nov, New York City. 3 artists: Harim, Mike Guimond and Tam Tam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

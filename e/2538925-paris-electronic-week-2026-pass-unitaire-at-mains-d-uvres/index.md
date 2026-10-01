@@ -1,6 +1,6 @@
 # Paris Electronic Week 2026 - Pass unitaire at Mains D'œuvres
 
-Paris Electronic Week 2026 - Pass unitaire at Mains D'œuvres on Fri 2 Oct, Paris. Preview the line-up and save it on soundcheck.
+Paris Electronic Week 2026 - Pass unitaire at Mains D'œuvres on Fri 2 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Laminor Arena
 
-Laminor Arena is a music venue in Bucharest with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "ELROW BUCHAREST - DANCE WITH THE SERPENT" on Sat, 21 Nov 2026.
+Laminor Arena is a music venue in Bucharest with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ELROW BUCHAREST - DANCE WITH THE SERPENT" on Sat, 21 Nov 2026.
 
-Laminor Arena is a music venue in Bucharest listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Bulevardul Basarabia 256, București 030352, Romania.
+Laminor Arena is a music venue in Bucharest listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Bulevardul Basarabia 256, București 030352, Romania.
 
 ## What's on
 

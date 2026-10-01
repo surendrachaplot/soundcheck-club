@@ -1,6 +1,6 @@
 # 28 Sep - 4 Oct at Stoked&stoned
 
-28 Sep - 4 Oct at Stoked&stoned on Mon 28 Sept, Seoul. 13 artists on the bill: bumv, Coolrnch, Gyusco and Haemin Kim and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
+28 Sep - 4 Oct at Stoked&stoned on Mon 28 Sept, Seoul. 13 artists: bumv, Coolrnch, Gyusco and Haemin Kim and 9 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

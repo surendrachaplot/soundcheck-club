@@ -1,6 +1,6 @@
 # Secret Psychedelica: Libra 2026 with Peacedragon, DJ Icon, Treetop, at DNA Lounge
 
-Secret Psychedelica: Libra 2026 with Peacedragon, DJ Icon, Treetop, at DNA Lounge on Sat 10 Oct, San Francisco/Oakland. 1 artist on the bill: D-Program. House and Psytrance. Preview the line-up and save it on soundcheck.
+Secret Psychedelica: Libra 2026 with Peacedragon, DJ Icon, Treetop, at DNA Lounge on Sat 10 Oct, San Francisco/Oakland. 1 artist: D-Program. House and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

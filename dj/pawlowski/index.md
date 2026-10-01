@@ -1,8 +1,8 @@
 # Pawlowski
 
-Pawlowski is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Superior Ingredients, New York City on Fri, 2 Oct 2026.
+Pawlowski is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Superior Ingredients, New York City on Fri, 2 Oct 2026.
 
-Pawlowski is a techno and trance artist based in France, tracked on soundcheck, with 119 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside Nico Moreno, Azyr and DYEN. Next up: Superior Ingredients, New York City on Fri 2 Oct.
+Pawlowski is a techno and trance artist based in France, with 119 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 49 more. Often billed alongside Nico Moreno, Azyr and DYEN. Next up: Superior Ingredients, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Pawlowski is a techno and trance artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- Room 2 Glasgow, Glasgow — Sun, 27 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Forte Antenne, Rome — Fri, 28 Aug 2026
-- Antwerp Expo, Antwerp — Sun, 23 Aug 2026
-- UNO MALTA, Malta — Sat, 8 Aug 2026
-- INPUT High Fidelity Dance Club, Barcelona — Fri, 17 Jul 2026
-- Fuse, Brussels — Sat, 27 Jun 2026
+- Room 2 Glasgow, Glasgow · Sun, 27 Sept 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Forte Antenne, Rome · Fri, 28 Aug 2026
+- Antwerp Expo, Antwerp · Sun, 23 Aug 2026
+- UNO MALTA, Malta · Sat, 8 Aug 2026
+- INPUT High Fidelity Dance Club, Barcelona · Fri, 17 Jul 2026
+- Fuse, Brussels · Sat, 27 Jun 2026
 
 ## Shares bills with
 

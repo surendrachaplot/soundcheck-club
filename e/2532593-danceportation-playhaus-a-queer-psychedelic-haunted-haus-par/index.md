@@ -1,6 +1,6 @@
 # Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus Party at Meow Wolf Denver
 
-Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus Party at Meow Wolf Denver on Sat 24 Oct, Denver. 2 artists on the bill: LSDXOXO and Mz Worthy. Techno and House. Preview the line-up and save it on soundcheck.
+Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus Party at Meow Wolf Denver on Sat 24 Oct, Denver. 2 artists: LSDXOXO and Mz Worthy. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

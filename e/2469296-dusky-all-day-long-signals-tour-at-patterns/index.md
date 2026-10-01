@@ -1,6 +1,6 @@
 # Dusky - All Day Long - Signals Tour at Patterns
 
-Dusky - All Day Long - Signals Tour at Patterns on Sat 31 Oct, Brighton. 1 artist on the bill: Dusky. Preview the line-up and save it on soundcheck.
+Dusky - All Day Long - Signals Tour at Patterns on Sat 31 Oct, Brighton. 1 artist: Dusky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

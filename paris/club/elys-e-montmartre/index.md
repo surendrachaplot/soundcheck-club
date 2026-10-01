@@ -1,8 +1,8 @@
 # Elysée Montmartre
 
-Elysée Montmartre is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Apparat" on Fri, 9 Oct 2026.
+Elysée Montmartre is a music venue in Paris with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Apparat" on Fri, 9 Oct 2026.
 
-Elysée Montmartre is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Apparat, DJ_Dave, horsegiirL and Liv del Estal. Browse upcoming dates, start times and who's playing. 72 Boulevard de Rochechouart, 75018 Paris, France.
+Elysée Montmartre is a music venue in Paris listed on soundcheck. 3 upcoming gigs, with line-ups including Apparat, DJ_Dave, horsegiirL and Liv del Estal. See dates, start times and who's playing. 72 Boulevard de Rochechouart, 75018 Paris, France.
 
 ## What's on
 

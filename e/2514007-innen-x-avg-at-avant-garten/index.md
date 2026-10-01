@@ -1,6 +1,6 @@
 # Innen x AVG at Avant Garten
 
-Innen x AVG at Avant Garten on Fri 20 Nov, Buenos Aires. 1 artist on the bill: LUKAS. House. Preview the line-up and save it on soundcheck.
+Innen x AVG at Avant Garten on Fri 20 Nov, Buenos Aires. 1 artist: LUKAS. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

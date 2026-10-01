@@ -1,8 +1,8 @@
 # antyo
 
-antyo is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Backstage, Munich on Fri, 23 Oct 2026.
+antyo is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Backstage, Munich on Fri, 23 Oct 2026.
 
-antyo is a techno and trance artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin and Munich. Often billed alongside Terzenbreaker, LOOMINAS and danuschek. Next up: Backstage, Munich on Fri 23 Oct.
+antyo is a techno and trance artist based in Germany, with 35 gigs on soundcheck across Berlin and Munich. Often billed alongside Terzenbreaker, LOOMINAS and danuschek. Next up: Backstage, Munich on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ antyo is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Bahnwärter Thiel, Munich — Thu, 24 Sept 2026
-- Rote Sonne, Munich — Sat, 19 Sept 2026
-- Bahnwärter Thiel, Munich — Fri, 31 Jul 2026
-- DNA Club, Munich — Thu, 2 Jul 2026
-- Bahnwärter Thiel, Munich — Thu, 11 Jun 2026
-- Backstage, Munich — Thu, 4 Jun 2026
-- Bahnwärter Thiel, Munich — Thu, 7 May 2026
-- DNA Club, Munich — Thu, 30 Apr 2026
+- Bahnwärter Thiel, Munich · Thu, 24 Sept 2026
+- Rote Sonne, Munich · Sat, 19 Sept 2026
+- Bahnwärter Thiel, Munich · Fri, 31 Jul 2026
+- DNA Club, Munich · Thu, 2 Jul 2026
+- Bahnwärter Thiel, Munich · Thu, 11 Jun 2026
+- Backstage, Munich · Thu, 4 Jun 2026
+- Bahnwärter Thiel, Munich · Thu, 7 May 2026
+- DNA Club, Munich · Thu, 30 Apr 2026
 
 ## Shares bills with
 

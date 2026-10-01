@@ -1,8 +1,8 @@
 # Sam Rose
 
-Sam Rose is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Rijnbar, Amsterdam on Fri, 23 Oct 2026.
+Sam Rose is a Techno and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Rijnbar, Amsterdam on Fri, 23 Oct 2026.
 
-Sam Rose is a techno and progressive house artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam and Utrecht. Often billed alongside ARTE-MAS, Alex Sharp and Thysma. Next up: Rijnbar, Amsterdam on Fri 23 Oct.
+Sam Rose is a techno and progressive house artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam and Utrecht. Often billed alongside ARTE-MAS, Alex Sharp and Thysma. Next up: Rijnbar, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sam Rose is a techno and progressive house artist based in Netherlands, tracked 
 
 ## Recently played
 
-- John Doe, Amsterdam — Fri, 13 Feb 2026
-- John Doe, Amsterdam — Fri, 14 Nov 2025
-- John Doe, Amsterdam — Fri, 15 Aug 2025
-- Madam, Amsterdam — Fri, 20 Jun 2025
-- Madam, Amsterdam — Fri, 3 Jan 2025
-- Madam, Amsterdam — Sat, 2 Nov 2024
-- Madam, Amsterdam — Sat, 21 Sept 2024
-- Openluchttheater Amersfoort, Amsterdam — Fri, 20 Sept 2024
+- John Doe, Amsterdam · Fri, 13 Feb 2026
+- John Doe, Amsterdam · Fri, 14 Nov 2025
+- John Doe, Amsterdam · Fri, 15 Aug 2025
+- Madam, Amsterdam · Fri, 20 Jun 2025
+- Madam, Amsterdam · Fri, 3 Jan 2025
+- Madam, Amsterdam · Sat, 2 Nov 2024
+- Madam, Amsterdam · Sat, 21 Sept 2024
+- Openluchttheater Amersfoort, Amsterdam · Fri, 20 Sept 2024
 
 ## Shares bills with
 

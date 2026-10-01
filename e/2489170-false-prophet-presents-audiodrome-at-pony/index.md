@@ -1,6 +1,6 @@
 # False Prophet presents Audiodrome at Pony
 
-False Prophet presents Audiodrome at Pony on Sat 14 Nov, Seattle. 4 artists on the bill: DJ SH1-TR, Kadeejah Streets, Lord Phatrick and Sharlese. Disco and Acid. Preview the line-up and save it on soundcheck.
+False Prophet presents Audiodrome at Pony on Sat 14 Nov, Seattle. 4 artists: DJ SH1-TR, Kadeejah Streets, Lord Phatrick and Sharlese. Disco and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

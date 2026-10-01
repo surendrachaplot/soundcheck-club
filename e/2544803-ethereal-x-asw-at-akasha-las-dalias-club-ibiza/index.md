@@ -1,6 +1,6 @@
 # Ethereal x ASW at Akasha Las Dalias Club - Ibiza
 
-Ethereal x ASW at Akasha Las Dalias Club - Ibiza on Fri 16 Oct, Ibiza. 3 artists on the bill: Christopher Coe, Sebastian Mullaert and Stimming. Preview the line-up and save it on soundcheck.
+Ethereal x ASW at Akasha Las Dalias Club - Ibiza on Fri 16 Oct, Ibiza. 3 artists: Christopher Coe, Sebastian Mullaert and Stimming. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bassvictim at Cermak Hall at Radius
 
-Bassvictim at Cermak Hall at Radius on Thu 22 Oct, Chicago. Electro. Preview the line-up and save it on soundcheck.
+Bassvictim at Cermak Hall at Radius on Thu 22 Oct, Chicago. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

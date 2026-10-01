@@ -1,6 +1,6 @@
 # Kim Petras at Radius
 
-Kim Petras at Radius on Tue 1 Dec, Chicago. Electro and Pop. Preview the line-up and save it on soundcheck.
+Kim Petras at Radius on Tue 1 Dec, Chicago. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

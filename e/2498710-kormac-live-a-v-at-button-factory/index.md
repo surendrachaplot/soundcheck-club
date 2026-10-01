@@ -1,6 +1,6 @@
 # KORMAC - Live A/V at Button Factory
 
-KORMAC - Live A/V at Button Factory on Fri 4 Dec, Dublin. 1 artist on the bill: KORMAC. Preview the line-up and save it on soundcheck.
+KORMAC - Live A/V at Button Factory on Fri 4 Dec, Dublin. 1 artist: KORMAC. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # sonntagstanz x luna_sonica @Balboa at Balboa Salzburg Nightclub
 
-sonntagstanz x luna_sonica @Balboa at Balboa Salzburg Nightclub on Sat 24 Oct, Austria. 3 artists on the bill: IKARIOS, PARAMIDA and Shonky. Preview the line-up and save it on soundcheck.
+sonntagstanz x luna_sonica @Balboa at Balboa Salzburg Nightclub on Sat 24 Oct, Austria. 3 artists: IKARIOS, PARAMIDA and Shonky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

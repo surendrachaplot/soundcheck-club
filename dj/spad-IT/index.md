@@ -1,8 +1,8 @@
 # Spad
 
-Spad is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Department 184, Milan on Sun, 18 Oct 2026.
+Spad is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Department 184, Milan on Sun, 18 Oct 2026.
 
-Spad is a techno artist based in Italy, tracked on soundcheck, with 37 sets logged across Milan and Turin. Often billed alongside Rorschack, Ikaar and Yamila. Next up: Department 184, Milan on Sun 18 Oct.
+Spad is a techno artist based in Italy, with 37 gigs on soundcheck across Milan and Turin. Often billed alongside Rorschack, Ikaar and Yamila. Next up: Department 184, Milan on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Spad is a techno artist based in Italy, tracked on soundcheck, with 37 sets logg
 
 ## Recently played
 
-- Circolo Amelia, Milan — Sat, 19 Sept 2026
-- Masada, Milan — Sat, 27 Jun 2026
-- Masada, Milan — Sun, 31 May 2026
-- Masada, Milan — Sat, 9 May 2026
-- Circolo Magnolia, Milan — Sun, 19 Apr 2026
-- Main Club, Milan — Fri, 20 Feb 2026
-- Masada, Milan — Sun, 1 Feb 2026
-- Masada, Milan — Sat, 17 Jan 2026
+- Circolo Amelia, Milan · Sat, 19 Sept 2026
+- Masada, Milan · Sat, 27 Jun 2026
+- Masada, Milan · Sun, 31 May 2026
+- Masada, Milan · Sat, 9 May 2026
+- Circolo Magnolia, Milan · Sun, 19 Apr 2026
+- Main Club, Milan · Fri, 20 Feb 2026
+- Masada, Milan · Sun, 1 Feb 2026
+- Masada, Milan · Sat, 17 Jan 2026
 
 ## Shares bills with
 

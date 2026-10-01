@@ -1,8 +1,8 @@
 # p1no
 
-p1no is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+p1no is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-p1no is a club and techno artist based in United States of America, tracked on soundcheck, with 42 sets logged across Boston, Miami, New York City and Philadelphia. Often billed alongside Chelita, DJ SABI and DJ maddog. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+p1no is a club and techno artist based in United States of America, with 42 gigs on soundcheck across Boston, Miami, New York City and Philadelphia. Often billed alongside Chelita, DJ SABI and DJ maddog. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ p1no is a club and techno artist based in United States of America, tracked on s
 
 ## Recently played
 
-- The Boombox, Miami — Sat, 12 Sept 2026
-- The Corner, Miami — Wed, 19 Aug 2026
-- Rebecca's, New York City — Fri, 7 Aug 2026
-- Supernatural Haus, Miami — Thu, 30 Jul 2026
-- The Corner, Miami — Fri, 24 Jul 2026
-- 2651 NW 36th Street, Miami, Fl 33142, Miami — Sat, 27 Jun 2026
-- Supernatural Haus, Miami — Sat, 13 Jun 2026
-- The Dolphin, Philadelphia — Fri, 22 May 2026
+- The Boombox, Miami · Sat, 12 Sept 2026
+- The Corner, Miami · Wed, 19 Aug 2026
+- Rebecca's, New York City · Fri, 7 Aug 2026
+- Supernatural Haus, Miami · Thu, 30 Jul 2026
+- The Corner, Miami · Fri, 24 Jul 2026
+- 2651 NW 36th Street, Miami, Fl 33142, Miami · Sat, 27 Jun 2026
+- Supernatural Haus, Miami · Sat, 13 Jun 2026
+- The Dolphin, Philadelphia · Fri, 22 May 2026
 
 ## Shares bills with
 

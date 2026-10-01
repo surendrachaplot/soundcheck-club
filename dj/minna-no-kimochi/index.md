@@ -1,8 +1,8 @@
 # Minna-no-Kimochi
 
-Minna-no-Kimochi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Parallel, Amsterdam on Thu, 22 Oct 2026.
+Minna-no-Kimochi is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Parallel, Amsterdam on Thu, 22 Oct 2026.
 
-Minna-no-Kimochi is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Bangkok, Belfast and Berlin and 14 more. Often billed alongside AKIRAM EN, Bambounou and Clouds. Next up: Parallel, Amsterdam on Thu 22 Oct.
+Minna-no-Kimochi is a techno and trance artist based in United Kingdom, with 30 gigs on soundcheck across Amsterdam, Bangkok, Belfast and Berlin and 14 more. Often billed alongside AKIRAM EN, Bambounou and Clouds. Next up: Parallel, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Minna-no-Kimochi is a techno and trance artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- Wall&wall, Tokyo — Mon, 21 Sept 2026
-- WWW X, Tokyo — Sat, 11 Jul 2026
-- TBA - Takanawa Gateway City, Tokyo — Sun, 28 Jun 2026
-- Kyoto Fuminnomori Hiyoshi, Kyoto — Sat, 16 May 2026
-- TAI Tong Ecopark, Hong Kong — Sat, 21 Mar 2026
-- WALL & WALL, Tokyo — Thu, 19 Mar 2026
-- TBA - Bonanza Khaoyai, Bangkok — Fri, 30 Jan 2026
-- WWW, Tokyo — Wed, 31 Dec 2025
+- Wall&wall, Tokyo · Mon, 21 Sept 2026
+- WWW X, Tokyo · Sat, 11 Jul 2026
+- TBA - Takanawa Gateway City, Tokyo · Sun, 28 Jun 2026
+- Kyoto Fuminnomori Hiyoshi, Kyoto · Sat, 16 May 2026
+- TAI Tong Ecopark, Hong Kong · Sat, 21 Mar 2026
+- WALL & WALL, Tokyo · Thu, 19 Mar 2026
+- TBA - Bonanza Khaoyai, Bangkok · Fri, 30 Jan 2026
+- WWW, Tokyo · Wed, 31 Dec 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Waa pres: Wade at Opium Barcelona
 
-Waa pres: Wade at Opium Barcelona on Fri 9 Oct, Barcelona. 3 artists on the bill: AIIVIIK, Vidaloca and Wade. Electronica. Preview the line-up and save it on soundcheck.
+Waa pres: Wade at Opium Barcelona on Fri 9 Oct, Barcelona. 3 artists: AIIVIIK, Vidaloca and Wade. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

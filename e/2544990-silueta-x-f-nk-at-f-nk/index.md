@@ -1,6 +1,6 @@
 # Silueta x Fünk at Fünk
 
-Silueta x Fünk on Thu 8 Oct, Mexico City. House and Tech House. Preview the line-up and save it on soundcheck.
+Silueta x Fünk on Thu 8 Oct, Mexico City. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

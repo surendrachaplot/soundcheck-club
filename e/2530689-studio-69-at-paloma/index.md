@@ -1,6 +1,6 @@
 # STUDIO 69 at Paloma
 
-STUDIO 69 at Paloma on Thu 29 Oct, Berlin. 4 artists on the bill: DJ Business, Eluzid, HugoXL and Smau. Electro and Funk / Soul. Preview the line-up and save it on soundcheck.
+STUDIO 69 at Paloma on Thu 29 Oct, Berlin. 4 artists: DJ Business, Eluzid, HugoXL and Smau. Electro and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

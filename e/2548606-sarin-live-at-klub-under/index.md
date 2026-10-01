@@ -1,6 +1,6 @@
 # SARIN LIVE at Klub Under
 
-SARIN LIVE at Klub Under on Fri 20 Nov, Belgrade. 1 artist on the bill: SARIN. EBM and Industrial. Preview the line-up and save it on soundcheck.
+SARIN LIVE at Klub Under on Fri 20 Nov, Belgrade. 1 artist: SARIN. EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

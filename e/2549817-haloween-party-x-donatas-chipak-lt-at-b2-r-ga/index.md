@@ -1,6 +1,6 @@
 # Haloween Party x Donatas Chipak [LT] at B2 Rīga
 
-Haloween Party x Donatas Chipak [LT] at B2 Rīga on Fri 30 Oct, Riga. 2 artists on the bill: Laiva Maikule and PUPA. House and Acid. Preview the line-up and save it on soundcheck.
+Haloween Party x Donatas Chipak [LT] at B2 Rīga on Fri 30 Oct, Riga. 2 artists: Laiva Maikule and PUPA. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

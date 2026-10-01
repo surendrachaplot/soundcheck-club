@@ -1,6 +1,6 @@
 # RUSH presents: KETTAMA at Knockdown Center
 
-RUSH presents: KETTAMA at Knockdown Center on Thu 8 Oct, New York City. 2 artists on the bill: KETTAMA and Loods. Techno and Garage. Preview the line-up and save it on soundcheck.
+RUSH presents: KETTAMA at Knockdown Center on Thu 8 Oct, New York City. 2 artists: KETTAMA and Loods. Techno and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

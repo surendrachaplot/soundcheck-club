@@ -1,6 +1,6 @@
 # CRITERIA at Numm
 
-CRITERIA at Numm on Mon 19 Oct, Tokyo. 1 artist on the bill: KCT. Techno and Minimal. Preview the line-up and save it on soundcheck.
+CRITERIA at Numm on Mon 19 Oct, Tokyo. 1 artist: KCT. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

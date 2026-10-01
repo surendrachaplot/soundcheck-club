@@ -1,6 +1,6 @@
 # BASSCULE at Panic Room
 
-BASSCULE at Panic Room on Thu 1 Oct, Paris. Techno and Dub. Preview the line-up and save it on soundcheck.
+BASSCULE at Panic Room on Thu 1 Oct, Paris. Techno and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

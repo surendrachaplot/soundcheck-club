@@ -1,6 +1,6 @@
 # 8MM & Shameless/Limitless present: Pebbledash at 8MM
 
-8MM & Shameless/Limitless present: Pebbledash on Sun 8 Nov, Berlin. Post-Punk. Preview the line-up and save it on soundcheck.
+8MM & Shameless/Limitless present: Pebbledash on Sun 8 Nov, Berlin. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

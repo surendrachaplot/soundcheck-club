@@ -1,6 +1,6 @@
 # Audien at The Church Nightclub
 
-Audien at The Church Nightclub on Sat 21 Nov, Denver. 1 artist on the bill: Audien. House and Club. Preview the line-up and save it on soundcheck.
+Audien at The Church Nightclub on Sat 21 Nov, Denver. 1 artist: Audien. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

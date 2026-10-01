@@ -1,6 +1,6 @@
 # Resonate - Rooftop Party at TBA
 
-Resonate - Rooftop Party at TBA on Sat 28 Nov, Bangkok. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+Resonate - Rooftop Party at TBA on Sat 28 Nov, Bangkok. Minimal and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

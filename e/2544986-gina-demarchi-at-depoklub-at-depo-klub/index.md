@@ -1,6 +1,6 @@
 # Gina Demarchi at DEPOklub at Depo Klub
 
-Gina Demarchi at DEPOklub at Depo Klub on Sat 24 Oct, Zagreb. 3 artists on the bill: Gina Demarchi, Teo Harouda and Teychee. Preview the line-up and save it on soundcheck.
+Gina Demarchi at DEPOklub at Depo Klub on Sat 24 Oct, Zagreb. 3 artists: Gina Demarchi, Teo Harouda and Teychee. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

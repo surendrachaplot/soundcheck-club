@@ -1,8 +1,8 @@
 # Casa Montjuïc
 
-Casa Montjuïc is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Holograma: AMANTRA + fks + EFE CE ELE + puxo" on Thu, 1 Oct 2026.
+Casa Montjuïc is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Holograma: AMANTRA + fks + EFE CE ELE + puxo" on Thu, 1 Oct 2026.
 
-Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including AMANTRA, Efe Ce Ele, FKS and Lemna and 1 more. Browse upcoming dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
+Casa Montjuïc is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including AMANTRA, Efe Ce Ele, FKS and Lemna and 1 more. See dates, start times and who's playing. Vila i Vilà 65, 08004, Barcelona.
 
 ## What's on
 

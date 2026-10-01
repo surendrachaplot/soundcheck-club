@@ -1,6 +1,6 @@
 # Richard Sen at McChuills Music Bar
 
-Richard Sen at McChuills Music Bar on Sat 19 Dec, Glasgow. 1 artist on the bill: Richard Sen. House. Preview the line-up and save it on soundcheck.
+Richard Sen at McChuills Music Bar on Sat 19 Dec, Glasgow. 1 artist: Richard Sen. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

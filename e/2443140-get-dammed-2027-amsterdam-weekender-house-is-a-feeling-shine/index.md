@@ -1,6 +1,6 @@
 # GET DAMMED 2027 (AMSTERDAM WEEKENDER) HOUSE IS A FEELING/SHINE 879/ RAVEDAYS/RAVE HOUSE at TBA
 
-GET DAMMED 2027 (AMSTERDAM WEEKENDER) HOUSE IS A FEELING/SHINE 879/ RAVEDAYS/RAVE HOUSE at TBA on Fri 9 Apr, Amsterdam. 11 artists on the bill: Craze, George Ellis, Huck Finn and Ratpack and 7 more. Preview the line-up and save it on soundcheck.
+GET DAMMED 2027 (AMSTERDAM WEEKENDER) HOUSE IS A FEELING/SHINE 879/ RAVEDAYS/RAVE HOUSE at TBA on Fri 9 Apr, Amsterdam. 11 artists: Craze, George Ellis, Huck Finn and Ratpack and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

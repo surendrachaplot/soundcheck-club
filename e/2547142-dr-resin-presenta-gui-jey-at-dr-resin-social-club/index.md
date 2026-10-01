@@ -1,6 +1,6 @@
 # Dr. Resin presenta Gui-Jey at Dr. Resin Social Club
 
-Dr. Resin presenta Gui-Jey at Dr. Resin Social Club on Fri 2 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Dr. Resin presenta Gui-Jey at Dr. Resin Social Club on Fri 2 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

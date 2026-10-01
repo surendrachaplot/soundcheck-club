@@ -1,8 +1,8 @@
 # 42B Marine Parade, Elwood, VIC 3184
 
-42B Marine Parade, Elwood, VIC 3184 is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "I Hate Models" on Sat, 12 Dec 2026.
+42B Marine Parade, Elwood, VIC 3184 is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "I Hate Models" on Sat, 12 Dec 2026.
 
-42B Marine Parade, Elwood, VIC 3184 is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+42B Marine Parade, Elwood, VIC 3184 is a music venue in Melbourne listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # UP ABOVE at Casa Corona Seoul
 
-UP ABOVE at Casa Corona Seoul on Sat 3 Oct, Seoul. 2 artists on the bill: Jade (KR) and Pingpong (KR). House and Tech House. Preview the line-up and save it on soundcheck.
+UP ABOVE at Casa Corona Seoul on Sat 3 Oct, Seoul. 2 artists: Jade (KR) and Pingpong (KR). House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

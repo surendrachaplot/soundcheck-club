@@ -1,8 +1,8 @@
 # k:sea
 
-k:sea is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MIDNIGHT EAST, Tokyo on Fri, 2 Oct 2026.
+k:sea is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Fri, 2 Oct 2026.
 
-k:sea is a techno and house artist based in Japan, tracked on soundcheck, with 41 sets logged across Kyoto and Tokyo. Often billed alongside Arao, K8 (TYO GQOM) and Onométro. Next up: MIDNIGHT EAST, Tokyo on Fri 2 Oct.
+k:sea is a techno and house artist based in Japan, with 41 gigs on soundcheck across Kyoto and Tokyo. Often billed alongside Arao, K8 (TYO GQOM) and Onométro. Next up: MIDNIGHT EAST, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ k:sea is a techno and house artist based in Japan, tracked on soundcheck, with 4
 
 ## Recently played
 
-- Red Bar, Tokyo — Thu, 18 Jun 2026
-- clubasia, Tokyo — Thu, 28 May 2026
-- Forestlimit, Tokyo — Sat, 25 Apr 2026
-- Red Bar, Tokyo — Thu, 26 Mar 2026
-- White Space Lab, Tokyo — Thu, 29 Jan 2026
-- Forestlimit, Tokyo — Thu, 22 Jan 2026
-- Aoyama Hachi, Tokyo — Mon, 3 Nov 2025
-- Bonobo, Tokyo — Fri, 17 Oct 2025
+- Red Bar, Tokyo · Thu, 18 Jun 2026
+- clubasia, Tokyo · Thu, 28 May 2026
+- Forestlimit, Tokyo · Sat, 25 Apr 2026
+- Red Bar, Tokyo · Thu, 26 Mar 2026
+- White Space Lab, Tokyo · Thu, 29 Jan 2026
+- Forestlimit, Tokyo · Thu, 22 Jan 2026
+- Aoyama Hachi, Tokyo · Mon, 3 Nov 2025
+- Bonobo, Tokyo · Fri, 17 Oct 2025
 
 ## Shares bills with
 

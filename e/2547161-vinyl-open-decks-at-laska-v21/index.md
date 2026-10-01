@@ -1,6 +1,6 @@
 # Vinyl Open Decks at Laska V21
 
-Vinyl Open Decks at Laska V21 on Sun 18 Oct, Riga. Garage and Deep House. Preview the line-up and save it on soundcheck.
+Vinyl Open Decks at Laska V21 on Sun 18 Oct, Riga. Garage and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

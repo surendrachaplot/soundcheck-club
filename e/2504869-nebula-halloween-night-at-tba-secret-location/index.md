@@ -1,6 +1,6 @@
 # NEBULA: HALLOWEEN NIGHT at TBA - Secret Location 
 
-NEBULA: HALLOWEEN NIGHT at TBA - Secret Location  on Sat 31 Oct, Tokyo. Trance and Techno. Preview the line-up and save it on soundcheck.
+NEBULA: HALLOWEEN NIGHT at TBA - Secret Location  on Sat 31 Oct, Tokyo. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

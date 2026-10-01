@@ -1,6 +1,6 @@
 # MUSTER: SIDE B at Paloma
 
-MUSTER: SIDE B at Paloma on Sat 10 Oct, Berlin. 3 artists on the bill: KaioBarssalos, MASCHA and TEHOTU. Club and Electronica. Preview the line-up and save it on soundcheck.
+MUSTER: SIDE B at Paloma on Sat 10 Oct, Berlin. 3 artists: KaioBarssalos, MASCHA and TEHOTU. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

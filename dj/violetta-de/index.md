@@ -1,8 +1,8 @@
 # Violetta (DE)
 
-Violetta (DE) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
+Violetta (DE) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 17 Oct 2026.
 
-Violetta (DE) is a house and techno artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Stuttgart. Often billed alongside Lucas Depta, Lakkes and Rødhåd. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
+Violetta (DE) is a house and techno artist based in Germany, with 22 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Lucas Depta, Lakkes and Rødhåd. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Violetta (DE) is a house and techno artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Hoppetosse, Berlin — Sat, 22 Aug 2026
-- ://about blank, Berlin — Sat, 18 Apr 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 10 Jan 2026
-- Paloma, Berlin — Fri, 7 Nov 2025
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 30 Aug 2025
-- ://about blank, Berlin — Sat, 2 Aug 2025
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Fri, 18 Jul 2025
-- Club der Visionaere, Berlin — Thu, 26 Jun 2025
+- Hoppetosse, Berlin · Sat, 22 Aug 2026
+- ://about blank, Berlin · Sat, 18 Apr 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 10 Jan 2026
+- Paloma, Berlin · Fri, 7 Nov 2025
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 30 Aug 2025
+- ://about blank, Berlin · Sat, 2 Aug 2025
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Fri, 18 Jul 2025
+- Club der Visionaere, Berlin · Thu, 26 Jun 2025
 
 ## Shares bills with
 

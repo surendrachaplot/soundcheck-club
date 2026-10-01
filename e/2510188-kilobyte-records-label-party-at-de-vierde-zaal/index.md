@@ -1,6 +1,6 @@
 # Kilobyte Records Label Party at De Vierde Zaal
 
-Kilobyte Records Label Party at De Vierde Zaal on Sat 24 Oct, Ghent. Preview the line-up and save it on soundcheck.
+Kilobyte Records Label Party at De Vierde Zaal on Sat 24 Oct, Ghent. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

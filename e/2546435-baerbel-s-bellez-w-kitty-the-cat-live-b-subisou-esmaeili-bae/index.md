@@ -1,6 +1,6 @@
 # Baerbel'S BELLEZ w. Kitty & the Cat *live, bīsubisou, Esmaeili, Baerbel, Liebe Nachbarn, Reznap at Klunkerkranich
 
-Baerbel'S BELLEZ w. Kitty & the Cat *live, bīsubisou, Esmaeili, Baerbel, Liebe Nachbarn, Reznap at Klunkerkranich on Fri 2 Oct, Berlin. 7 artists on the bill: Anna Lazer, Baerbel, Bernd Bugatti and bīsu and 3 more. Preview the line-up and save it on soundcheck.
+Baerbel'S BELLEZ w. Kitty & the Cat *live, bīsubisou, Esmaeili, Baerbel, Liebe Nachbarn, Reznap at Klunkerkranich on Fri 2 Oct, Berlin. 7 artists: Anna Lazer, Baerbel, Bernd Bugatti and bīsu and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

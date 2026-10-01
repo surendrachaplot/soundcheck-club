@@ -1,8 +1,8 @@
 # Cleopard2000
 
-Cleopard2000 is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OST, Berlin on Sat, 3 Oct 2026.
+Cleopard2000 is a Techno and Trance artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OST, Berlin on Sat, 3 Oct 2026.
 
-Cleopard2000 is a techno and trance artist based in Germany, tracked on soundcheck, with 164 sets logged across Amsterdam, Antwerp, Augsburg and Barcelona and 31 more. Often billed alongside Mika Heggemann, Elotrance and Trancemaster Krause. Next up: OST, Berlin on Sat 3 Oct.
+Cleopard2000 is a techno and trance artist based in Germany, with 164 gigs on soundcheck across Amsterdam, Antwerp, Augsburg and Barcelona and 31 more. Often billed alongside Mika Heggemann, Elotrance and Trancemaster Krause. Next up: OST, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ Cleopard2000 is a techno and trance artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Bootshaus, Cologne — Fri, 18 Sept 2026
-- Bootshaus, Cologne — Fri, 18 Sept 2026
-- TBA, Melbourne — Sat, 5 Sept 2026
-- Home The Venue, Sydney — Fri, 4 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Virage, Paris — Fri, 28 Aug 2026
-- Lokschuppen Berlin, Berlin — Fri, 21 Aug 2026
-- Donauinsel, Vienna — Sat, 1 Aug 2026
+- Bootshaus, Cologne · Fri, 18 Sept 2026
+- Bootshaus, Cologne · Fri, 18 Sept 2026
+- TBA, Melbourne · Sat, 5 Sept 2026
+- Home The Venue, Sydney · Fri, 4 Sept 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Virage, Paris · Fri, 28 Aug 2026
+- Lokschuppen Berlin, Berlin · Fri, 21 Aug 2026
+- Donauinsel, Vienna · Sat, 1 Aug 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Ana Sant
 
-Ana Sant is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sala Siroco, Madrid on Thu, 8 Oct 2026.
+Ana Sant is a Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Siroco, Madrid on Thu, 8 Oct 2026.
 
-Ana Sant is a techno artist based in Spain, tracked on soundcheck, with 11 sets logged across Madrid. Often billed alongside KSAL, Vandiaz and ANJELIKA SAHAKIAN. Next up: Sala Siroco, Madrid on Thu 8 Oct.
+Ana Sant is a techno artist based in Spain, with 11 gigs on soundcheck across Madrid. Often billed alongside KSAL, Vandiaz and ANJELIKA SAHAKIAN. Next up: Sala Siroco, Madrid on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ana Sant is a techno artist based in Spain, tracked on soundcheck, with 11 sets 
 
 ## Recently played
 
-- Hangar48 Club, Madrid — Fri, 11 Sept 2026
-- Araña Club, Madrid — Fri, 17 Jul 2026
-- EL SÓTANO, Madrid — Fri, 29 May 2026
-- Specka, Madrid — Fri, 8 May 2026
-- TBA - ENTITY powered by Void Acoustics, Madrid — Fri, 24 Apr 2026
-- Araña Club, Madrid — Sat, 28 Mar 2026
-- Hangar48 Club, Madrid — Sat, 7 Feb 2026
-- Gilda Club, Madrid — Thu, 4 Dec 2025
+- Hangar48 Club, Madrid · Fri, 11 Sept 2026
+- Araña Club, Madrid · Fri, 17 Jul 2026
+- EL SÓTANO, Madrid · Fri, 29 May 2026
+- Specka, Madrid · Fri, 8 May 2026
+- TBA - ENTITY powered by Void Acoustics, Madrid · Fri, 24 Apr 2026
+- Araña Club, Madrid · Sat, 28 Mar 2026
+- Hangar48 Club, Madrid · Sat, 7 Feb 2026
+- Gilda Club, Madrid · Thu, 4 Dec 2025
 
 ## Shares bills with
 

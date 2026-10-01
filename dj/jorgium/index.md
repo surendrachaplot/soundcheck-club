@@ -1,8 +1,8 @@
 # Jorgium
 
-Jorgium is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Horn, Bangkok on Thu, 1 Oct 2026.
+Jorgium is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Horn, Bangkok on Thu, 1 Oct 2026.
 
-Jorgium is a techno and electro artist based in Thailand, tracked on soundcheck, with 17 sets logged across Bangkok. Often billed alongside x_me, InRemission and POKOLENIE MIKROZAYMOV. Next up: Horn, Bangkok on Thu 1 Oct.
+Jorgium is a techno and electro artist based in Thailand, with 17 gigs on soundcheck across Bangkok. Often billed alongside x_me, InRemission and POKOLENIE MIKROZAYMOV. Next up: Horn, Bangkok on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Jorgium is a techno and electro artist based in Thailand, tracked on soundcheck,
 
 ## Recently played
 
-- Avve, Bangkok — Sat, 12 Sept 2026
-- Avve, Bangkok — Sat, 15 Aug 2026
-- Avve, Bangkok — Sat, 18 Jul 2026
-- Berlin BKK, Bangkok — Sat, 13 Jun 2026
-- Berlin BKK, Bangkok — Sat, 18 Apr 2026
-- Blaq Lyte Bloq, Bangkok — Fri, 27 Mar 2026
-- Avve, Bangkok — Sat, 21 Feb 2026
-- Avve, Bangkok — Fri, 19 Dec 2025
+- Avve, Bangkok · Sat, 12 Sept 2026
+- Avve, Bangkok · Sat, 15 Aug 2026
+- Avve, Bangkok · Sat, 18 Jul 2026
+- Berlin BKK, Bangkok · Sat, 13 Jun 2026
+- Berlin BKK, Bangkok · Sat, 18 Apr 2026
+- Blaq Lyte Bloq, Bangkok · Fri, 27 Mar 2026
+- Avve, Bangkok · Sat, 21 Feb 2026
+- Avve, Bangkok · Fri, 19 Dec 2025
 
 ## Shares bills with
 

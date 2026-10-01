@@ -1,6 +1,6 @@
 # Halloweek: CamelPhat & Volkoder at Club Space Miami
 
-Halloweek: CamelPhat & Volkoder at Club Space Miami on Fri 30 Oct, Miami. 5 artists on the bill: CamelPhat, Danyelino, Volkoder and Whitesquare and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Halloweek: CamelPhat & Volkoder at Club Space Miami on Fri 30 Oct, Miami. 5 artists: CamelPhat, Danyelino, Volkoder and Whitesquare and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

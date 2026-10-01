@@ -1,6 +1,6 @@
 # Mittendrin with Yakov at Minimal Bar
 
-Mittendrin with Yakov at Minimal Bar on Wed 18 Nov, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Mittendrin with Yakov at Minimal Bar on Wed 18 Nov, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

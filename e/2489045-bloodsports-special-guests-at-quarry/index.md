@@ -1,6 +1,6 @@
 # Bloodsports + Special Guests at Quarry
 
-Bloodsports + Special Guests at Quarry on Fri 13 Nov, Liverpool. Noise and Electronica. Preview the line-up and save it on soundcheck.
+Bloodsports + Special Guests at Quarry on Fri 13 Nov, Liverpool. Noise and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

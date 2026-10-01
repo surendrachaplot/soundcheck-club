@@ -1,6 +1,6 @@
 # Ian Asher at LIV Nightclub Miami
 
-Ian Asher at LIV Nightclub Miami on Sat 14 Nov, Miami. Preview the line-up and save it on soundcheck.
+Ian Asher at LIV Nightclub Miami on Sat 14 Nov, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

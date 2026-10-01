@@ -1,6 +1,6 @@
 # CHICKS & KICKS RAVE at TBA - TXT “FLOWR” TO 909-259-4249
 
-CHICKS & KICKS RAVE at TBA - TXT “FLOWR” TO 909-259-4249 on Fri 2 Oct, Los Angeles. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+CHICKS & KICKS RAVE at TBA - TXT “FLOWR” TO 909-259-4249 on Fri 2 Oct, Los Angeles. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

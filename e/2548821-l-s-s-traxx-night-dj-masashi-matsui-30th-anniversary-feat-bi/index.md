@@ -1,6 +1,6 @@
 # L.S.S TRAXX NIGHT 'DJ MASASHI MATSUI 30th Anniversary' feat. Biz（TRANSMAT RECORDS） at UTOPIA / DYSTOPIA
 
-L.S.S TRAXX NIGHT 'DJ MASASHI MATSUI 30th Anniversary' feat. Biz（TRANSMAT RECORDS） at UTOPIA / DYSTOPIA on Sat 10 Oct, Tokyo. 5 artists on the bill: ANZU, Kamaida, Tommy and Yonenaga and 1 more. Techno. Preview the line-up and save it on soundcheck.
+L.S.S TRAXX NIGHT 'DJ MASASHI MATSUI 30th Anniversary' feat. Biz（TRANSMAT RECORDS） at UTOPIA / DYSTOPIA on Sat 10 Oct, Tokyo. 5 artists: ANZU, Kamaida, Tommy and Yonenaga and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

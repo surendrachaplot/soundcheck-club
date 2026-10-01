@@ -1,6 +1,6 @@
 # Krallice - Avant Art Festival at Hydrozagadka
 
-Krallice - Avant Art Festival at Hydrozagadka on Sun 11 Oct, Warsaw. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+Krallice - Avant Art Festival at Hydrozagadka on Sun 11 Oct, Warsaw. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

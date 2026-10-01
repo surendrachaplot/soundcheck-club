@@ -1,6 +1,6 @@
 # Origins: Moxie (All Night Long) at Palais
 
-Origins: Moxie (All Night Long) at Palais on Sat 28 Nov, London. 1 artist on the bill: Moxie. House. Preview the line-up and save it on soundcheck.
+Origins: Moxie (All Night Long) at Palais on Sat 28 Nov, London. 1 artist: Moxie. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

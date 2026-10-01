@@ -1,6 +1,6 @@
 # Volumens at Bombas Gens (Day 1) at Bombas Gens Centre d’Arts Digitals
 
-Volumens at Bombas Gens (Day 1) at Bombas Gens Centre d’Arts Digitals on Wed 14 Oct, Valencia. Dub Techno and Electronica. Preview the line-up and save it on soundcheck.
+Volumens at Bombas Gens (Day 1) at Bombas Gens Centre d’Arts Digitals on Wed 14 Oct, Valencia. Dub Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

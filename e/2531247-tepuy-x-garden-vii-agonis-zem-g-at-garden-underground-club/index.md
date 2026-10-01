@@ -1,6 +1,6 @@
 # Tepuy x Garden VII — Agonis & Zemög at Garden Underground Club
 
-Tepuy x Garden VII — Agonis & Zemög at Garden Underground Club on Sun 4 Oct, Pereira. 2 artists on the bill: Agonis and Zemög. Preview the line-up and save it on soundcheck.
+Tepuy x Garden VII — Agonis & Zemög at Garden Underground Club on Sun 4 Oct, Pereira. 2 artists: Agonis and Zemög. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

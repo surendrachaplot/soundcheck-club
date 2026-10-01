@@ -1,6 +1,6 @@
 # DUB DA MERCY #002 at Fai Aoyama
 
-DUB DA MERCY #002 at Fai Aoyama on Sat 7 Nov, Tokyo. Bass and Dub. Preview the line-up and save it on soundcheck.
+DUB DA MERCY #002 at Fai Aoyama on Sat 7 Nov, Tokyo. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

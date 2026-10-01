@@ -1,8 +1,8 @@
 # Josh Heywood
 
-Josh Heywood is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Echo & Bounce, Brisbane on Sun, 4 Oct 2026.
+Josh Heywood is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Echo & Bounce, Brisbane on Sun, 4 Oct 2026.
 
-Josh Heywood is a techno and house artist based in Australia, tracked on soundcheck, with 61 sets logged across Auckland, Berlin, Brisbane and Melbourne and 2 more. Often billed alongside Etwas, HYBE and Matteo Freyrie. Next up: Echo & Bounce, Brisbane on Sun 4 Oct.
+Josh Heywood is a techno and house artist based in Australia, with 61 gigs on soundcheck across Auckland, Berlin, Brisbane and Melbourne and 2 more. Often billed alongside Etwas, HYBE and Matteo Freyrie. Next up: Echo & Bounce, Brisbane on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Josh Heywood is a techno and house artist based in Australia, tracked on soundch
 
 ## Recently played
 
-- TBA -    Kodamanomori Camp Ground, Nagano, Tokyo — Fri, 11 Sept 2026
-- TBA, Tokyo — Thu, 10 Sept 2026
-- The Timber Yard, Melbourne — Fri, 21 Aug 2026
-- Sub Club Melbourne, Melbourne — Fri, 3 Apr 2026
-- Manning Bar, Sydney — Sat, 24 Jan 2026
-- Sooki Lounge, Melbourne — Sat, 17 Jan 2026
-- Revolver Upstairs, Melbourne — Fri, 16 Jan 2026
-- Bourke Street Courtyard, Melbourne — Sat, 15 Nov 2025
+- TBA -    Kodamanomori Camp Ground, Nagano, Tokyo · Fri, 11 Sept 2026
+- TBA, Tokyo · Thu, 10 Sept 2026
+- The Timber Yard, Melbourne · Fri, 21 Aug 2026
+- Sub Club Melbourne, Melbourne · Fri, 3 Apr 2026
+- Manning Bar, Sydney · Sat, 24 Jan 2026
+- Sooki Lounge, Melbourne · Sat, 17 Jan 2026
+- Revolver Upstairs, Melbourne · Fri, 16 Jan 2026
+- Bourke Street Courtyard, Melbourne · Sat, 15 Nov 2025
 
 ## Shares bills with
 

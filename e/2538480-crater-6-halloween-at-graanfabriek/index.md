@@ -1,6 +1,6 @@
 # Crater 6: Halloween at Graanfabriek
 
-Crater 6: Halloween at Graanfabriek on Fri 30 Oct, Netherlands. 4 artists on the bill: Black Sun Empire, Kookaburra, Merikan and Original Sin. Preview the line-up and save it on soundcheck.
+Crater 6: Halloween at Graanfabriek on Fri 30 Oct, Netherlands. 4 artists: Black Sun Empire, Kookaburra, Merikan and Original Sin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

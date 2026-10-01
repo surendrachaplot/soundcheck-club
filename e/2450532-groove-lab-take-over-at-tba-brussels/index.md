@@ -1,6 +1,6 @@
 # Groove Lab // TAKE OVER at TBA - Brussels
 
-Groove Lab // TAKE OVER at TBA - Brussels on Sat 14 Nov, Brussels. Techno. Preview the line-up and save it on soundcheck.
+Groove Lab // TAKE OVER at TBA - Brussels on Sat 14 Nov, Brussels. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

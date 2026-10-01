@@ -1,8 +1,8 @@
 # RCKSLVR
 
-RCKSLVR is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Raspoutine Los Angeles, Los Angeles on Fri, 2 Oct 2026.
+RCKSLVR is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Raspoutine Los Angeles, Los Angeles on Fri, 2 Oct 2026.
 
-RCKSLVR is a tech house and house artist based in United States of America, tracked on soundcheck, with 51 sets logged across Leipzig and Los Angeles. Often billed alongside Tempo, GRLFRND and DENYC. Next up: Raspoutine Los Angeles, Los Angeles on Fri 2 Oct.
+RCKSLVR is a tech house and house artist based in United States of America, with 51 gigs on soundcheck across Leipzig and Los Angeles. Often billed alongside Tempo, GRLFRND and DENYC. Next up: Raspoutine Los Angeles, Los Angeles on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ RCKSLVR is a tech house and house artist based in United States of America, trac
 
 ## Recently played
 
-- Jungle Hollywood, Los Angeles — Wed, 30 Sept 2026
-- Utopia, Los Angeles — Sun, 27 Sept 2026
-- Utopia, Los Angeles — Sat, 26 Sept 2026
-- Utopia, Los Angeles — Fri, 25 Sept 2026
-- Jungle Hollywood, Los Angeles — Wed, 26 Aug 2026
-- Jungle Hollywood, Los Angeles — Wed, 26 Aug 2026
-- Utopia, Los Angeles — Sat, 22 Aug 2026
-- Level 8 DTLA, Los Angeles — Fri, 14 Aug 2026
+- Jungle Hollywood, Los Angeles · Wed, 30 Sept 2026
+- Utopia, Los Angeles · Sun, 27 Sept 2026
+- Utopia, Los Angeles · Sat, 26 Sept 2026
+- Utopia, Los Angeles · Fri, 25 Sept 2026
+- Jungle Hollywood, Los Angeles · Wed, 26 Aug 2026
+- Jungle Hollywood, Los Angeles · Wed, 26 Aug 2026
+- Utopia, Los Angeles · Sat, 22 Aug 2026
+- Level 8 DTLA, Los Angeles · Fri, 14 Aug 2026
 
 ## Shares bills with
 

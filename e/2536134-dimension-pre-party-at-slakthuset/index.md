@@ -1,6 +1,6 @@
 # DIMENSION - PRE PARTY at Slakthuset
 
-DIMENSION - PRE PARTY at Slakthuset on Fri 13 Nov, Stockholm. Techno. Preview the line-up and save it on soundcheck.
+DIMENSION - PRE PARTY at Slakthuset on Fri 13 Nov, Stockholm. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

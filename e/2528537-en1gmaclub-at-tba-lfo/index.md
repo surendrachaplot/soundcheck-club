@@ -1,6 +1,6 @@
 # EN1GMACLUB at TBA - LFO
 
-EN1GMACLUB at TBA - LFO on Fri 9 Oct, Madrid. 4 artists on the bill: Alinka, FUKCNORMAL, lesbiannette and Wurmk. Preview the line-up and save it on soundcheck.
+EN1GMACLUB at TBA - LFO on Fri 9 Oct, Madrid. 4 artists: Alinka, FUKCNORMAL, lesbiannette and Wurmk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

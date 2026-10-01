@@ -1,6 +1,6 @@
 # WEIRD & ODD FT. WODD at Elektricity
 
-WEIRD & ODD FT. WODD at Elektricity on Sat 17 Oct, Detroit. Bass. Preview the line-up and save it on soundcheck.
+WEIRD & ODD FT. WODD at Elektricity on Sat 17 Oct, Detroit. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

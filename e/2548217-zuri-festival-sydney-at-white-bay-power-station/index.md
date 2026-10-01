@@ -1,6 +1,6 @@
 # ZURI Festival Sydney at White Bay Power Station
 
-ZURI Festival Sydney at White Bay Power Station on Sat 19 Dec, Sydney. 4 artists on the bill: Francis Mercier, Mahmut Orhan, Maison Ware and Marten Lou. House and Afro House. Preview the line-up and save it on soundcheck.
+ZURI Festival Sydney at White Bay Power Station on Sat 19 Dec, Sydney. 4 artists: Francis Mercier, Mahmut Orhan, Maison Ware and Marten Lou. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

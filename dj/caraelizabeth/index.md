@@ -1,8 +1,8 @@
 # Cara Elizabeth
 
-Cara Elizabeth is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Cara Elizabeth is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-Cara Elizabeth is a techno and trance artist based in Germany, tracked on soundcheck, with 141 sets logged across Amsterdam, Athens, Barcelona and Basel and 23 more. Often billed alongside Kø:lab, Mika Heggemann and Part Time Killer. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Cara Elizabeth is a techno and trance artist based in Germany, with 141 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 23 more. Often billed alongside Kø:lab, Mika Heggemann and Part Time Killer. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Cara Elizabeth is a techno and trance artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Artheater, Cologne — Sat, 19 Sept 2026
-- The Foundry, San Francisco/Oakland — Sun, 6 Sept 2026
-- TBA - Wasteland Festival, Cologne — Sat, 5 Sept 2026
-- Echostage, Washington DC — Fri, 4 Sept 2026
-- Echostage, Washington DC — Fri, 4 Sept 2026
-- NOS Event Center, Los Angeles — Fri, 4 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
+- Artheater, Cologne · Sat, 19 Sept 2026
+- The Foundry, San Francisco/Oakland · Sun, 6 Sept 2026
+- TBA - Wasteland Festival, Cologne · Sat, 5 Sept 2026
+- Echostage, Washington DC · Fri, 4 Sept 2026
+- Echostage, Washington DC · Fri, 4 Sept 2026
+- NOS Event Center, Los Angeles · Fri, 4 Sept 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
 
 ## Shares bills with
 

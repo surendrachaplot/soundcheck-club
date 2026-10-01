@@ -1,6 +1,6 @@
 # SUPERPAMANOKE with Justine Perry at elipamanoke
 
-SUPERPAMANOKE with Justine Perry at elipamanoke on Sat 17 Oct, Leipzig. 7 artists on the bill: DIRTY YOUTH, DJ STIMULA, Justine Perry and Lea Jessen and 3 more. Techno. Preview the line-up and save it on soundcheck.
+SUPERPAMANOKE with Justine Perry at elipamanoke on Sat 17 Oct, Leipzig. 7 artists: DIRTY YOUTH, DJ STIMULA, Justine Perry and Lea Jessen and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

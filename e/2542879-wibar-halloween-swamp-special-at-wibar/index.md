@@ -1,6 +1,6 @@
 # Wibar Halloween - Swamp Special at Wibar
 
-Wibar Halloween - Swamp Special on Sat 31 Oct, Netherlands. 4 artists on the bill: Emmz, Emvae, marienus and Moxes. Preview the line-up and save it on soundcheck.
+Wibar Halloween - Swamp Special on Sat 31 Oct, Netherlands. 4 artists: Emmz, Emvae, marienus and Moxes. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Radio Leila presents LUP at NAMA - Nuovo Anfiteatro Martesana
 
-Radio Leila presents LUP at NAMA - Nuovo Anfiteatro Martesana on Fri 9 Oct, Milan. 4 artists on the bill: Brillante, Duwe, HI LIFE and Mattia Dambrosio. Techno and Downtempo. Preview the line-up and save it on soundcheck.
+Radio Leila presents LUP at NAMA - Nuovo Anfiteatro Martesana on Fri 9 Oct, Milan. 4 artists: Brillante, Duwe, HI LIFE and Mattia Dambrosio. Techno and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

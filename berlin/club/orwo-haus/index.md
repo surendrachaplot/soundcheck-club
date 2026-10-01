@@ -1,8 +1,8 @@
 # ORWO Haus
 
-ORWO Haus is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "23 Jahre Ostfunk w./ Chrissyjey, Dr. Motte, Tok Tok vs Soffy O., JayBase, Diana May" on Sat, 21 Nov 2026.
+ORWO Haus is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "23 Jahre Ostfunk w./ Chrissyjey, Dr. Motte, Tok Tok vs Soffy O., JayBase, Diana May" on Sat, 21 Nov 2026.
 
-ORWO Haus is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Basstronauten, Daniel Boon, Diana May and Dr. Motte and 2 more. Browse upcoming dates, start times and who's playing. Frank-Zappa-Straße 19, 12681 Berlin.
+ORWO Haus is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Basstronauten, Daniel Boon, Diana May and Dr. Motte and 2 more. See dates, start times and who's playing. Frank-Zappa-Straße 19, 12681 Berlin.
 
 ## What's on
 

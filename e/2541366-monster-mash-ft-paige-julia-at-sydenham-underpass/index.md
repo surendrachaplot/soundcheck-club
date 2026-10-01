@@ -1,6 +1,6 @@
 # Monster Mash Ft. Paige Julia at Sydenham Underpass
 
-Monster Mash Ft. Paige Julia at Sydenham Underpass on Sat 31 Oct, Christchurch. 1 artist on the bill: Paige Julia. Preview the line-up and save it on soundcheck.
+Monster Mash Ft. Paige Julia at Sydenham Underpass on Sat 31 Oct, Christchurch. 1 artist: Paige Julia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

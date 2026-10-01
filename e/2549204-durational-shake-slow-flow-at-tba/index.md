@@ -1,6 +1,6 @@
 # Durational shake + slow flow at TBA
 
-Durational shake + slow flow at TBA on Sun 18 Oct, New York City. Ambient. Preview the line-up and save it on soundcheck.
+Durational shake + slow flow at TBA on Sun 18 Oct, New York City. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

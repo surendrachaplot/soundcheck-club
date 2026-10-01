@@ -1,6 +1,6 @@
 # Daydreaming with Nuria & Stervelingen at Koda
 
-Daydreaming with Nuria & Stervelingen at Koda on Sun 4 Oct, Rotterdam. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Daydreaming with Nuria & Stervelingen at Koda on Sun 4 Oct, Rotterdam. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # uh! a Pavilonban at Pavilon
 
-uh! a Pavilonban on Fri 2 Oct, Budapest. 1 artist on the bill: sqto. House. Preview the line-up and save it on soundcheck.
+uh! a Pavilonban on Fri 2 Oct, Budapest. 1 artist: sqto. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

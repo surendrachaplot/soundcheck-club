@@ -1,6 +1,6 @@
 # HALLOWEEN WITH LOVE at Afrobar
 
-HALLOWEEN WITH LOVE at Afrobar on Sat 31 Oct, Sicily. 4 artists on the bill: A.N.I., Fleur Shore, Plus 3 and Serafina. Preview the line-up and save it on soundcheck.
+HALLOWEEN WITH LOVE at Afrobar on Sat 31 Oct, Sicily. 4 artists: A.N.I., Fleur Shore, Plus 3 and Serafina. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

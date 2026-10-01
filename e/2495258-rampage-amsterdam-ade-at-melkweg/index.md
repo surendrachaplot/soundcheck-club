@@ -1,6 +1,6 @@
 # Rampage Amsterdam ADE at Melkweg
 
-Rampage Amsterdam ADE at Melkweg on Fri 23 Oct, Amsterdam. 3 artists on the bill: Mefjus, Murdock and Zomboy. Drum & Bass. Preview the line-up and save it on soundcheck.
+Rampage Amsterdam ADE at Melkweg on Fri 23 Oct, Amsterdam. 3 artists: Mefjus, Murdock and Zomboy. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

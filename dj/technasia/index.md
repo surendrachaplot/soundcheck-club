@@ -1,8 +1,8 @@
 # Technasia
 
-Technasia is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ritter Butzke, Berlin on Fri, 9 Oct 2026.
+Technasia is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 9 Oct 2026.
 
-Technasia is a tech house and house artist based in France, tracked on soundcheck, with 50 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 15 more. Often billed alongside Lexlay, Carlo Lio and Dub Tiger. Next up: Ritter Butzke, Berlin on Fri 9 Oct.
+Technasia is a tech house and house artist based in France, with 50 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 15 more. Often billed alongside Lexlay, Carlo Lio and Dub Tiger. Next up: Ritter Butzke, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Technasia is a tech house and house artist based in France, tracked on soundchec
 
 ## Recently played
 
-- Fabrik, Madrid — Sat, 5 Sept 2026
-- Luz De Gas, Barcelona — Sat, 11 Jul 2026
-- Loo Loo, Mexico City — Fri, 19 Jun 2026
-- Loo Loo, Mexico City — Fri, 19 Jun 2026
-- Bauhaus, Houston — Thu, 18 Jun 2026
-- Kran Beograd, Belgrade — Fri, 8 May 2026
-- Fabrik, Madrid — Wed, 1 Apr 2026
-- 1-800-Lucky, Miami — Sun, 29 Mar 2026
+- Fabrik, Madrid · Sat, 5 Sept 2026
+- Luz De Gas, Barcelona · Sat, 11 Jul 2026
+- Loo Loo, Mexico City · Fri, 19 Jun 2026
+- Loo Loo, Mexico City · Fri, 19 Jun 2026
+- Bauhaus, Houston · Thu, 18 Jun 2026
+- Kran Beograd, Belgrade · Fri, 8 May 2026
+- Fabrik, Madrid · Wed, 1 Apr 2026
+- 1-800-Lucky, Miami · Sun, 29 Mar 2026
 
 ## Shares bills with
 

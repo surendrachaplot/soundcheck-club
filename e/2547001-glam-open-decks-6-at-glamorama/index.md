@@ -1,6 +1,6 @@
 # Glam Open Decks: #6 at Glamorama
 
-Glam Open Decks: #6 at Glamorama on Fri 16 Oct, Melbourne. House. Preview the line-up and save it on soundcheck.
+Glam Open Decks: #6 at Glamorama on Fri 16 Oct, Melbourne. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

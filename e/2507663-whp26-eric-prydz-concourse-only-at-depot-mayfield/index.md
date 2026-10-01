@@ -1,6 +1,6 @@
 # WHP26 /// Eric Prydz [Concourse Only] at Depot Mayfield
 
-WHP26 /// Eric Prydz [Concourse Only] at Depot Mayfield on Sat 17 Oct, Manchester. 1 artist on the bill: Eric Prydz. House. Preview the line-up and save it on soundcheck.
+WHP26 /// Eric Prydz [Concourse Only] at Depot Mayfield on Sat 17 Oct, Manchester. 1 artist: Eric Prydz. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

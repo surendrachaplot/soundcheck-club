@@ -1,8 +1,8 @@
 # TOM CARLE
 
-TOM CARLE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+TOM CARLE is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
-TOM CARLE is a house and techno artist based in United States of America, tracked on soundcheck, with 12 sets logged across Los Angeles. Often billed alongside DJ Sneak, Danny Zee and J-Dub. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+TOM CARLE is a house and techno artist based in United States of America, with 12 gigs on soundcheck across Los Angeles. Often billed alongside DJ Sneak, Danny Zee and J-Dub. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ TOM CARLE is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
-- Woodley Park, Los Angeles — Sun, 7 Jun 2026
-- Wywh, Los Angeles — Sat, 6 Jun 2026
-- Dark Horse Tavern, Los Angeles — Sat, 18 Apr 2026
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 14 Mar 2026
-- TBA, Los Angeles — Fri, 19 Dec 2025
-- TBA, Los Angeles — Thu, 30 Oct 2025
-- TBA - Bolo Studios, Burbank, Los Angeles — Sat, 6 Sept 2025
-- Woodley Park, Los Angeles — Sun, 27 Apr 2025
+- Woodley Park, Los Angeles · Sun, 7 Jun 2026
+- Wywh, Los Angeles · Sat, 6 Jun 2026
+- Dark Horse Tavern, Los Angeles · Sat, 18 Apr 2026
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 14 Mar 2026
+- TBA, Los Angeles · Fri, 19 Dec 2025
+- TBA, Los Angeles · Thu, 30 Oct 2025
+- TBA - Bolo Studios, Burbank, Los Angeles · Sat, 6 Sept 2025
+- Woodley Park, Los Angeles · Sun, 27 Apr 2025
 
 ## Shares bills with
 

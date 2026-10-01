@@ -1,6 +1,6 @@
 # Nico Moreno at La Cité du Cinéma at Cité du Cinéma
 
-Nico Moreno at La Cité du Cinéma on Fri 20 Nov, Paris. Techno. Preview the line-up and save it on soundcheck.
+Nico Moreno at La Cité du Cinéma on Fri 20 Nov, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

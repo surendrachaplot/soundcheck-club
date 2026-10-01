@@ -1,6 +1,6 @@
 # Ohm Herfstfestival at Lijm & Cultuur
 
-Ohm Herfstfestival at Lijm & Cultuur on Sat 28 Nov, Netherlands. 15 artists on the bill: Cromby, DJ Cringey, EMILIJA and Emvae and 11 more. Preview the line-up and save it on soundcheck.
+Ohm Herfstfestival at Lijm & Cultuur on Sat 28 Nov, Netherlands. 15 artists: Cromby, DJ Cringey, EMILIJA and Emvae and 11 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

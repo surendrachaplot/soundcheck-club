@@ -1,6 +1,6 @@
 # Wednesday Club - Halloween special: House, Tech House, Hip Hop at Egg London
 
-Wednesday Club - Halloween special: House, Tech House, Hip Hop at Egg London on Wed 28 Oct, London. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Wednesday Club - Halloween special: House, Tech House, Hip Hop at Egg London on Wed 28 Oct, London. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

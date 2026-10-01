@@ -1,6 +1,6 @@
 # I'm Finna Talk: We Finna Carry at Nowadays
 
-I'm Finna Talk: We Finna Carry at Nowadays on Sat 10 Oct, New York City. Preview the line-up and save it on soundcheck.
+I'm Finna Talk: We Finna Carry at Nowadays on Sat 10 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

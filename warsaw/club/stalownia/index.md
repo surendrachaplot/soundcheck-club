@@ -1,8 +1,8 @@
 # Stalownia
 
-Stalownia is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Slums World Music Party #2 - Ground Sound System" on Fri, 9 Oct 2026.
+Stalownia is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Slums World Music Party #2 - Ground Sound System" on Fri, 9 Oct 2026.
 
-Stalownia is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Abuelita, eylau and wauneu. Browse upcoming dates, start times and who's playing.
+Stalownia is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Abuelita, eylau and wauneu. See dates, start times and who's playing.
 
 ## What's on
 

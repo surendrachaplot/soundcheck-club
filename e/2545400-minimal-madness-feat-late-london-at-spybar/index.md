@@ -1,6 +1,6 @@
 # Minimal Madness feat. Late London at Spybar
 
-Minimal Madness feat. Late London at Spybar on Thu 15 Oct, Chicago. 1 artist on the bill: Late London. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Minimal Madness feat. Late London at Spybar on Thu 15 Oct, Chicago. 1 artist: Late London. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

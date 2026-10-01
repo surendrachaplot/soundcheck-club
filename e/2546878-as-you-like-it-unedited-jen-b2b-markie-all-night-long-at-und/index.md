@@ -1,6 +1,6 @@
 # As You Like It Unedited: Jenö b2b Markie All Night Long at Underground SF
 
-As You Like It Unedited: Jenö b2b Markie All Night Long at Underground SF on Sat 24 Oct, San Francisco/Oakland. 2 artists on the bill: Jeno and Markie. House and Acid. Preview the line-up and save it on soundcheck.
+As You Like It Unedited: Jenö b2b Markie All Night Long at Underground SF on Sat 24 Oct, San Francisco/Oakland. 2 artists: Jeno and Markie. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

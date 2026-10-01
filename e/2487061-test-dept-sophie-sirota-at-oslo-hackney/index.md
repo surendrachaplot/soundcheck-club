@@ -1,6 +1,6 @@
 # Test Dept / Sophie Sirota at Oslo Hackney
 
-Test Dept / Sophie Sirota at Oslo Hackney on Thu 8 Oct, London. Experimental and Industrial. Preview the line-up and save it on soundcheck.
+Test Dept / Sophie Sirota at Oslo Hackney on Thu 8 Oct, London. Experimental and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

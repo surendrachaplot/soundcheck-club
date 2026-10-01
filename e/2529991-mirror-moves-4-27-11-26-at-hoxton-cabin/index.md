@@ -1,6 +1,6 @@
 # Mirror Moves #4 [27.11.26] at Hoxton Cabin
 
-Mirror Moves #4 [27.11.26] at Hoxton Cabin on Fri 27 Nov, London. 5 artists on the bill: Benebe, Cristian Sirica, Dave the Rave and NOYB and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Mirror Moves #4 [27.11.26] at Hoxton Cabin on Fri 27 Nov, London. 5 artists: Benebe, Cristian Sirica, Dave the Rave and NOYB and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

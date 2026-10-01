@@ -1,6 +1,6 @@
 # Jessy & Friends at Do Not Sit On The Furniture
 
-Jessy & Friends at Do Not Sit On The Furniture on Wed 7 Oct, Miami. 1 artist on the bill: Jessy Nimni. House and Deep House. Preview the line-up and save it on soundcheck.
+Jessy & Friends at Do Not Sit On The Furniture on Wed 7 Oct, Miami. 1 artist: Jessy Nimni. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

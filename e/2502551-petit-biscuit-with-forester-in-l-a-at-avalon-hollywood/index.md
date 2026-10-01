@@ -1,6 +1,6 @@
 # Petit Biscuit with Forester in L.A at Avalon Hollywood
 
-Petit Biscuit with Forester in L.A at Avalon Hollywood on Sat 17 Oct, Los Angeles. 2 artists on the bill: Forester and Petit Biscuit. House. Preview the line-up and save it on soundcheck.
+Petit Biscuit with Forester in L.A at Avalon Hollywood on Sat 17 Oct, Los Angeles. 2 artists: Forester and Petit Biscuit. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

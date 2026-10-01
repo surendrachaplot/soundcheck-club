@@ -1,8 +1,8 @@
 # Ryan Elliott
 
-Ryan Elliott is a House and Techno artist with 19 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wibar, Netherlands on Fri, 2 Oct 2026.
+Ryan Elliott is a House and Techno artist with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wibar, Netherlands on Fri, 2 Oct 2026.
 
-Ryan Elliott is a house and techno artist based in United States of America, tracked on soundcheck, with 255 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 59 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Wibar, Netherlands on Fri 2 Oct.
+Ryan Elliott is a house and techno artist based in United States of America, with 255 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 59 more. Often billed alongside Ogazón, Christian AB and PARAMIDA. Next up: Wibar, Netherlands on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Ryan Elliott is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Sat, 12 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 8 Sept 2026
-- Shelter Amsterdam, Amsterdam — Sat, 5 Sept 2026
-- Gewölbe, Cologne — Fri, 4 Sept 2026
-- DC-10, Ibiza — Mon, 24 Aug 2026
-- Boomerang Beach, The Hague — Sat, 15 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 15 Aug 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 12 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 8 Sept 2026
+- Shelter Amsterdam, Amsterdam · Sat, 5 Sept 2026
+- Gewölbe, Cologne · Fri, 4 Sept 2026
+- DC-10, Ibiza · Mon, 24 Aug 2026
+- Boomerang Beach, The Hague · Sat, 15 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 15 Aug 2026
+- Parc des Etangs/Vijverspark, Brussels · Fri, 14 Aug 2026
 
 ## Shares bills with
 

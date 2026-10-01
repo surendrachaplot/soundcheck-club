@@ -1,6 +1,6 @@
 # Regent (Mutual Rytm, Clergy, ARTS /DE) hosted by Eclisse at Astoria
 
-Regent (Mutual Rytm, Clergy, ARTS /DE) hosted by Eclisse at Astoria on Fri 9 Oct, Turin. 1 artist on the bill: Regent. Techno. Preview the line-up and save it on soundcheck.
+Regent (Mutual Rytm, Clergy, ARTS /DE) hosted by Eclisse at Astoria on Fri 9 Oct, Turin. 1 artist: Regent. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

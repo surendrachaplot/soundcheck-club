@@ -1,6 +1,6 @@
 # ALWAYS IN MOTION: Anthony Attalla, BRUNO FURLAN, J.Phlip + MORE at Spin
 
-ALWAYS IN MOTION: Anthony Attalla, BRUNO FURLAN, J.Phlip + MORE at Spin on Sat 17 Oct, San Diego. 5 artists on the bill: Anthony Attalla, Arran Lee, J.Phlip and Joe Pea and 1 more. Trance and House. Preview the line-up and save it on soundcheck.
+ALWAYS IN MOTION: Anthony Attalla, BRUNO FURLAN, J.Phlip + MORE at Spin on Sat 17 Oct, San Diego. 5 artists: Anthony Attalla, Arran Lee, J.Phlip and Joe Pea and 1 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

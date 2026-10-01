@@ -1,6 +1,6 @@
 # Isaac Carter + Fern at The Love Inn
 
-Isaac Carter + Fern at The Love Inn on Sat 17 Oct, Bristol. 1 artist on the bill: Isaac Carter. Preview the line-up and save it on soundcheck.
+Isaac Carter + Fern at The Love Inn on Sat 17 Oct, Bristol. 1 artist: Isaac Carter. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PROM NIGHT x RHODE & BROWN at Baggen
 
-PROM NIGHT x RHODE & BROWN at Baggen on Sat 3 Oct, Copenhagen. 2 artists on the bill: Prom Night and Rhode & Brown. Preview the line-up and save it on soundcheck.
+PROM NIGHT x RHODE & BROWN at Baggen on Sat 3 Oct, Copenhagen. 2 artists: Prom Night and Rhode & Brown. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

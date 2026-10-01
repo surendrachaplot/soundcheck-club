@@ -1,6 +1,6 @@
 # Born at Midnite at The Abbey
 
-Born at Midnite at The Abbey on Fri 9 Oct, Manchester. Preview the line-up and save it on soundcheck.
+Born at Midnite at The Abbey on Fri 9 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

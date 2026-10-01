@@ -1,6 +1,6 @@
 # Wookie & Friends (Halloween Special) at Brixton Storeys
 
-Wookie & Friends (Halloween Special) at Brixton Storeys on Sat 31 Oct, London. 1 artist on the bill: Wookie. Bass and Garage. Preview the line-up and save it on soundcheck.
+Wookie & Friends (Halloween Special) at Brixton Storeys on Sat 31 Oct, London. 1 artist: Wookie. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

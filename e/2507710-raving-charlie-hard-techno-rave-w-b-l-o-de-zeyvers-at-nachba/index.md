@@ -1,6 +1,6 @@
 # RAVING CHARLIE: Hard Techno / Rave w/ B.L.O [DE] / Zeyvers at nachbar
 
-RAVING CHARLIE: Hard Techno / Rave w/ B.L.O [DE] / Zeyvers at nachbar on Wed 18 Nov, Amsterdam. 1 artist on the bill: Zeyvers. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+RAVING CHARLIE: Hard Techno / Rave w/ B.L.O [DE] / Zeyvers at nachbar on Wed 18 Nov, Amsterdam. 1 artist: Zeyvers. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

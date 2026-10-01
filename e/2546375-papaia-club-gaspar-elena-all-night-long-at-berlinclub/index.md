@@ -1,6 +1,6 @@
 # Papaia Club: Gaspar & Elena - All Night Long at berlinClub
 
-Papaia Club: Gaspar & Elena - All Night Long at berlinClub on Sat 3 Oct, Madrid. 1 artist on the bill: Gaspar Antuña. House and Disco. Preview the line-up and save it on soundcheck.
+Papaia Club: Gaspar & Elena - All Night Long at berlinClub on Sat 3 Oct, Madrid. 1 artist: Gaspar Antuña. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

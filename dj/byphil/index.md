@@ -1,8 +1,8 @@
 # ByPhil
 
-ByPhil is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Ulster Sports Club, Belfast on Sat, 31 Oct 2026.
+ByPhil is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Ulster Sports Club, Belfast on Sat, 31 Oct 2026.
 
-ByPhil is a house and deep house artist tracked on soundcheck, with 33 sets logged across Belfast. Often billed alongside Cooke, Jude Dude and Plain Sailing DJs. Next up: The Ulster Sports Club, Belfast on Sat 31 Oct.
+ByPhil is a house and deep house artist, with 33 gigs on soundcheck across Belfast. Often billed alongside Cooke, Jude Dude and Plain Sailing DJs. Next up: The Ulster Sports Club, Belfast on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ByPhil is a house and deep house artist tracked on soundcheck, with 33 sets logg
 
 ## Recently played
 
-- The Ulster Sports Club, Belfast — Fri, 31 Jul 2026
-- The Ulster Sports Club, Belfast — Sat, 27 Jun 2026
-- The Ulster Sports Club, Belfast — Sat, 20 Jun 2026
-- Bullitt Belfast, Belfast — Fri, 12 Jun 2026
-- Titanic Slipways, Belfast — Fri, 29 May 2026
-- The Ulster Sports Club, Belfast — Sat, 14 Mar 2026
-- The Ulster Sports Club, Belfast — Sat, 4 Oct 2025
-- Laverys, Belfast — Sat, 2 Aug 2025
+- The Ulster Sports Club, Belfast · Fri, 31 Jul 2026
+- The Ulster Sports Club, Belfast · Sat, 27 Jun 2026
+- The Ulster Sports Club, Belfast · Sat, 20 Jun 2026
+- Bullitt Belfast, Belfast · Fri, 12 Jun 2026
+- Titanic Slipways, Belfast · Fri, 29 May 2026
+- The Ulster Sports Club, Belfast · Sat, 14 Mar 2026
+- The Ulster Sports Club, Belfast · Sat, 4 Oct 2025
+- Laverys, Belfast · Sat, 2 Aug 2025
 
 ## Shares bills with
 

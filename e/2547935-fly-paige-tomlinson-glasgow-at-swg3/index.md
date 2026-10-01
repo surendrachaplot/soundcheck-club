@@ -1,6 +1,6 @@
 # FLY | Paige Tomlinson | Glasgow at SWG3
 
-FLY | Paige Tomlinson | Glasgow at SWG3 on Sat 21 Nov, Glasgow. 1 artist on the bill: Paige Tomlinson. Trance. Preview the line-up and save it on soundcheck.
+FLY | Paige Tomlinson | Glasgow at SWG3 on Sat 21 Nov, Glasgow. 1 artist: Paige Tomlinson. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

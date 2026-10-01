@@ -1,6 +1,6 @@
 # LA RIPOSTE: Tewo Rina inv. Sindh at La Gare / Le Gore
 
-LA RIPOSTE: Tewo Rina inv. Sindh at La Gare / Le Gore on Fri 2 Oct, Paris. 2 artists on the bill: Sindh and Tewo Rina. Techno. Preview the line-up and save it on soundcheck.
+LA RIPOSTE: Tewo Rina inv. Sindh at La Gare / Le Gore on Fri 2 Oct, Paris. 2 artists: Sindh and Tewo Rina. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

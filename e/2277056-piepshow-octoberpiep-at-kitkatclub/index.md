@@ -1,6 +1,6 @@
 # PiepShow - OctoberPiep at KitKatClub
 
-PiepShow - OctoberPiep at KitKatClub on Fri 30 Oct, Berlin. 10 artists on the bill: Alessia Cattani, Chiara Fucci, Chris Fuego and Daryl Johnson and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+PiepShow - OctoberPiep at KitKatClub on Fri 30 Oct, Berlin. 10 artists: Alessia Cattani, Chiara Fucci, Chris Fuego and Daryl Johnson and 6 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

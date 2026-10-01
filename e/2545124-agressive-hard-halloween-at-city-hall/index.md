@@ -1,6 +1,6 @@
 # AGRESSIVE HARD HALLOWEEN at City Hall
 
-AGRESSIVE HARD HALLOWEEN at City Hall on Thu 22 Oct, Barcelona. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+AGRESSIVE HARD HALLOWEEN at City Hall on Thu 22 Oct, Barcelona. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

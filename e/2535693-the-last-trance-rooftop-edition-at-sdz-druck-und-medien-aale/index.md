@@ -1,6 +1,6 @@
 # THE LAST TRANCE - ROOFTOP EDITION at SDZ Druck und Medien Aalen
 
-THE LAST TRANCE - ROOFTOP EDITION at SDZ Druck und Medien Aalen on Sat 10 Oct, Baden W Rttemberg. 1 artist on the bill: DJ GUESTLIST. Preview the line-up and save it on soundcheck.
+THE LAST TRANCE - ROOFTOP EDITION at SDZ Druck und Medien Aalen on Sat 10 Oct, Baden W Rttemberg. 1 artist: DJ GUESTLIST. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

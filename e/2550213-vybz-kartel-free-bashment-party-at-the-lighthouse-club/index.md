@@ -1,6 +1,6 @@
 # Vybz Kartel - Free Bashment Party at The Lighthouse Club
 
-Vybz Kartel - Free Bashment Party at The Lighthouse Club on Sat 3 Oct, London. 1 artist on the bill: Vybz Kartel. Preview the line-up and save it on soundcheck.
+Vybz Kartel - Free Bashment Party at The Lighthouse Club on Sat 3 Oct, London. 1 artist: Vybz Kartel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

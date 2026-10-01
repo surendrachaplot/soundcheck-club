@@ -1,6 +1,6 @@
 # AURORA presents: Goosey & FIRZA at Mama Roux
 
-AURORA presents: Goosey & FIRZA at Mama Roux on Fri 16 Oct, Birmingham. 3 artists on the bill: FIRZA, Goosey and Lew Reilly. House and Tech House. Preview the line-up and save it on soundcheck.
+AURORA presents: Goosey & FIRZA at Mama Roux on Fri 16 Oct, Birmingham. 3 artists: FIRZA, Goosey and Lew Reilly. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

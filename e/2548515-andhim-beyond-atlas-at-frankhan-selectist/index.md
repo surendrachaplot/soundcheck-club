@@ -1,6 +1,6 @@
 # Andhim - Beyond Atlas at Frankhan Selectist
 
-Andhim - Beyond Atlas at Frankhan Selectist on Sat 3 Oct, Istanbul. 1 artist on the bill: Andhim. Preview the line-up and save it on soundcheck.
+Andhim - Beyond Atlas at Frankhan Selectist on Sat 3 Oct, Istanbul. 1 artist: Andhim. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

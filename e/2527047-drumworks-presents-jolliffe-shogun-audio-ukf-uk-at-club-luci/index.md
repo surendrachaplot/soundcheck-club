@@ -1,6 +1,6 @@
 # Drumworks presents Jolliffe (Shogun Audio / UKF - UK) at Club Lucia
 
-Drumworks presents Jolliffe (Shogun Audio / UKF - UK) at Club Lucia on Sat 10 Oct, Vienna. Drum & Bass. Preview the line-up and save it on soundcheck.
+Drumworks presents Jolliffe (Shogun Audio / UKF - UK) at Club Lucia on Sat 10 Oct, Vienna. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cue-Ration - Yazz Escobar, Annabella, Ski Carl, Mars88 at Pamela Club
 
-Cue-Ration - Yazz Escobar, Annabella, Ski Carl, Mars88 at Pamela Club on Fri 9 Oct, Paris. Preview the line-up and save it on soundcheck.
+Cue-Ration - Yazz Escobar, Annabella, Ski Carl, Mars88 at Pamela Club on Fri 9 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Angie Ocampo / Maria Sifontes b2b Milo / VNUZ / Awa at SILO
 
-Angie Ocampo / Maria Sifontes b2b Milo / VNUZ / Awa at SILO on Sun 11 Oct, New York City. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Angie Ocampo / Maria Sifontes b2b Milo / VNUZ / Awa at SILO on Sun 11 Oct, New York City. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

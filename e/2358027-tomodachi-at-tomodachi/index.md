@@ -1,6 +1,6 @@
 # Tomodachi at Tomodachi
 
-Tomodachi on Fri 9 Oct, Ibiza. House and Minimal. Preview the line-up and save it on soundcheck.
+Tomodachi on Fri 9 Oct, Ibiza. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

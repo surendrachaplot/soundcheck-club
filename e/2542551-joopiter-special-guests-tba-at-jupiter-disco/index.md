@@ -1,6 +1,6 @@
 # Joopiter + Special Guests TBA at Jupiter Disco
 
-Joopiter + Special Guests TBA at Jupiter Disco on Wed 21 Oct, New York City. 1 artist on the bill: Joopiter. Preview the line-up and save it on soundcheck.
+Joopiter + Special Guests TBA at Jupiter Disco on Wed 21 Oct, New York City. 1 artist: Joopiter. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

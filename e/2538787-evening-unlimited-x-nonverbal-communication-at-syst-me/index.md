@@ -1,6 +1,6 @@
 # Evening Unlimited x nonverbal communication at Système
 
-Evening Unlimited x nonverbal communication at Système on Sat 3 Oct, Montreal. 4 artists on the bill: anise, esme (US), Esther Côté and Lonefront. Preview the line-up and save it on soundcheck.
+Evening Unlimited x nonverbal communication at Système on Sat 3 Oct, Montreal. 4 artists: anise, esme (US), Esther Côté and Lonefront. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

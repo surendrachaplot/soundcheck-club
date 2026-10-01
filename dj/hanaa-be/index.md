@@ -1,8 +1,8 @@
 # HANAA
 
-HANAA is a Techno and UK Funky artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hive Club, Zurich on Fri, 2 Oct 2026.
+HANAA is a Techno and UK Funky artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hive Club, Zurich on Fri, 2 Oct 2026.
 
-HANAA is a techno and uk funky artist based in Belgium, tracked on soundcheck, with 5 sets logged across Berlin, Manchester, Paris and Zurich. Often billed alongside ELOISA, 2FEL and 4000 Hz. Next up: Hive Club, Zurich on Fri 2 Oct.
+HANAA is a techno and uk funky artist based in Belgium, with 5 gigs on soundcheck across Berlin, Manchester, Paris and Zurich. Often billed alongside ELOISA, 2FEL and 4000 Hz. Next up: Hive Club, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,7 +15,7 @@ HANAA is a techno and uk funky artist based in Belgium, tracked on soundcheck, w
 
 ## Recently played
 
-- ROSA, Berlin — Sat, 19 Sept 2026
+- ROSA, Berlin · Sat, 19 Sept 2026
 
 ## Shares bills with
 

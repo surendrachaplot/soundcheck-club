@@ -1,6 +1,6 @@
 # Michael Mathers The Ultimate Eminem Tribute Live at Basing House
 
-Michael Mathers The Ultimate Eminem Tribute Live at Basing House on Sun 25 Oct, London. Hip-Hop. Preview the line-up and save it on soundcheck.
+Michael Mathers The Ultimate Eminem Tribute Live at Basing House on Sun 25 Oct, London. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

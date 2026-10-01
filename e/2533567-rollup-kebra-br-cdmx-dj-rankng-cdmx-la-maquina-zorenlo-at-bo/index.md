@@ -1,6 +1,6 @@
 # Rollup: KEBRA (BR/CDMX), Dj Rankng (CDMX), La Maquina, zorenLo at Bossa Nova Civic Club
 
-Rollup: KEBRA (BR/CDMX), Dj Rankng (CDMX), La Maquina, zorenLo at Bossa Nova Civic Club on Fri 2 Oct, New York City. 3 artists on the bill: Dj Rankng, KEBRA and zorenLo. Latin Bass and Guaracha. Preview the line-up and save it on soundcheck.
+Rollup: KEBRA (BR/CDMX), Dj Rankng (CDMX), La Maquina, zorenLo at Bossa Nova Civic Club on Fri 2 Oct, New York City. 3 artists: Dj Rankng, KEBRA and zorenLo. Latin Bass and Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

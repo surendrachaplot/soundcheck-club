@@ -1,6 +1,6 @@
 # STF 2026: Ayano Yokoyama & 34423 inklingroom & Paavli takeover at Paavli Kultuurivabrik
 
-STF 2026: Ayano Yokoyama & 34423 inklingroom & Paavli takeover at Paavli Kultuurivabrik on Fri 9 Oct, Tallinn. Experimental and Club. Preview the line-up and save it on soundcheck.
+STF 2026: Ayano Yokoyama & 34423 inklingroom & Paavli takeover at Paavli Kultuurivabrik on Fri 9 Oct, Tallinn. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

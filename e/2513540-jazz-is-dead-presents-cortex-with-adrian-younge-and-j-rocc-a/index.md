@@ -1,6 +1,6 @@
 # Jazz is Dead presents Cortex with Adrian Younge and J.Rocc at Lincoln Factory
 
-Jazz is Dead presents Cortex with Adrian Younge and J.Rocc at Lincoln Factory on Sun 11 Oct, Detroit. Preview the line-up and save it on soundcheck.
+Jazz is Dead presents Cortex with Adrian Younge and J.Rocc at Lincoln Factory on Sun 11 Oct, Detroit. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

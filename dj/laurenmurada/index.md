@@ -1,8 +1,8 @@
 # Lauren Murada
 
-Lauren Murada is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Qncc, New York City on Thu, 15 Oct 2026.
+Lauren Murada is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Qncc, New York City on Thu, 15 Oct 2026.
 
-Lauren Murada is a disco and house artist based in Australia, tracked on soundcheck, with 85 sets logged across Melbourne, Mexico City, New York City and Philadelphia and 3 more. Often billed alongside Party Dad, Finn Jones and Alex McCracken. Next up: Qncc, New York City on Thu 15 Oct.
+Lauren Murada is a disco and house artist based in Australia, with 85 gigs on soundcheck across Melbourne, Mexico City, New York City and Philadelphia and 3 more. Often billed alongside Party Dad, Finn Jones and Alex McCracken. Next up: Qncc, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lauren Murada is a disco and house artist based in Australia, tracked on soundch
 
 ## Recently played
 
-- Good Room, New York City — Sat, 19 Sept 2026
-- Jupiter Disco, New York City — Sat, 29 Aug 2026
-- Xanadu, New York City — Sun, 23 Aug 2026
-- Good Room, New York City — Fri, 24 Jul 2026
-- Jupiter Disco, New York City — Sat, 18 Jul 2026
-- Jupiter Disco, New York City — Fri, 19 Jun 2026
-- Elsewhere, New York City — Thu, 18 Jun 2026
-- The Exley, New York City — Thu, 18 Jun 2026
+- Good Room, New York City · Sat, 19 Sept 2026
+- Jupiter Disco, New York City · Sat, 29 Aug 2026
+- Xanadu, New York City · Sun, 23 Aug 2026
+- Good Room, New York City · Fri, 24 Jul 2026
+- Jupiter Disco, New York City · Sat, 18 Jul 2026
+- Jupiter Disco, New York City · Fri, 19 Jun 2026
+- Elsewhere, New York City · Thu, 18 Jun 2026
+- The Exley, New York City · Thu, 18 Jun 2026
 
 ## Shares bills with
 

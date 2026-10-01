@@ -1,6 +1,6 @@
 # Jan Blomqvist (Live) at Savaya Bali
 
-Jan Blomqvist (Live) at Savaya Bali on Sun 27 Dec, Bali. 1 artist on the bill: Jan Blomqvist. Deep House. Preview the line-up and save it on soundcheck.
+Jan Blomqvist (Live) at Savaya Bali on Sun 27 Dec, Bali. 1 artist: Jan Blomqvist. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

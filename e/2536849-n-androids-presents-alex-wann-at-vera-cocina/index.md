@@ -1,6 +1,6 @@
 # Nü Androids presents: Alex Wann at Vera Cocina & بار
 
-Nü Androids presents: Alex Wann at Vera Cocina & بار on Sat 7 Nov, Washington DC. 1 artist on the bill: Alex Wann. Afro House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: Alex Wann at Vera Cocina & بار on Sat 7 Nov, Washington DC. 1 artist: Alex Wann. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

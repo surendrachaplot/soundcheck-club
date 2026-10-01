@@ -1,6 +1,6 @@
 # Sundeck Santiago - Mathame presents NEO at Parque Ciudad Empresarial
 
-Sundeck Santiago - Mathame presents NEO at Parque Ciudad Empresarial on Sat 21 Nov, Santiago. 4 artists on the bill: 19:26, JĀST, Mathame and SLVR. Preview the line-up and save it on soundcheck.
+Sundeck Santiago - Mathame presents NEO at Parque Ciudad Empresarial on Sat 21 Nov, Santiago. 4 artists: 19:26, JĀST, Mathame and SLVR. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

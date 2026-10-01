@@ -1,6 +1,6 @@
 # bratty • with charli xcx & other brat coded artists • münchen at Milla - Live Club
 
-bratty • with charli xcx & other brat coded artists • münchen at Milla - Live Club on Sat 17 Oct, Munich. Electro and Pop. Preview the line-up and save it on soundcheck.
+bratty • with charli xcx & other brat coded artists • münchen at Milla - Live Club on Sat 17 Oct, Munich. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

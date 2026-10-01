@@ -1,6 +1,6 @@
 # SATURDAY DAY&NIGHT • 24 OCT × CAVO ROOFTOP & CLUB at Cavo Rooftop
 
-SATURDAY DAY&NIGHT • 24 OCT × CAVO ROOFTOP & CLUB at Cavo Rooftop on Sat 24 Oct, Lisbon. 3 artists on the bill: Martim Tonic, Rui Alves and SLIM J. Techno and House. Preview the line-up and save it on soundcheck.
+SATURDAY DAY&NIGHT • 24 OCT × CAVO ROOFTOP & CLUB at Cavo Rooftop on Sat 24 Oct, Lisbon. 3 artists: Martim Tonic, Rui Alves and SLIM J. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shatterproof NYC 1 Year Birthday with Capozzi at The Crown
 
-Shatterproof NYC 1 Year Birthday with Capozzi at The Crown on Sat 10 Oct, New York City. House and Bass. Preview the line-up and save it on soundcheck.
+Shatterproof NYC 1 Year Birthday with Capozzi at The Crown on Sat 10 Oct, New York City. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

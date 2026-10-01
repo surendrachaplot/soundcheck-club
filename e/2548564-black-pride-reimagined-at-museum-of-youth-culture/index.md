@@ -1,6 +1,6 @@
 # Black Pride Reimagined at Museum Of Youth Culture
 
-Black Pride Reimagined at Museum Of Youth Culture on Sat 3 Oct, London. Ambient and Ballroom. Preview the line-up and save it on soundcheck.
+Black Pride Reimagined at Museum Of Youth Culture on Sat 3 Oct, London. Ambient and Ballroom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

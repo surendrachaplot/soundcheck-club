@@ -1,6 +1,6 @@
 # Hyper Dreams x Annie at Melkweg
 
-Hyper Dreams x Annie at Melkweg on Wed 21 Oct, Amsterdam. 6 artists on the bill: AK SPORTS, BNZN, CLTX and DJ SPORTSCHUH and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Hyper Dreams x Annie at Melkweg on Wed 21 Oct, Amsterdam. 6 artists: AK SPORTS, BNZN, CLTX and DJ SPORTSCHUH and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

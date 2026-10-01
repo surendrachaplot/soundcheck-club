@@ -1,6 +1,6 @@
 # BLUR with Maher Daniel at PRST
 
-BLUR with Maher Daniel at PRST on Sat 3 Oct, Vienna. 4 artists on the bill: Chris Freud, David Radi, Maher Daniel and Matthias Kaiser. House. Preview the line-up and save it on soundcheck.
+BLUR with Maher Daniel at PRST on Sat 3 Oct, Vienna. 4 artists: Chris Freud, David Radi, Maher Daniel and Matthias Kaiser. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

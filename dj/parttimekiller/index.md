@@ -1,8 +1,8 @@
 # Part Time Killer
 
-Part Time Killer is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Part Time Killer is a Techno and Trance artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
-Part Time Killer is a techno and trance artist based in Germany, tracked on soundcheck, with 167 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Frederic., KLING&KLANG and CAIVA. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
+Part Time Killer is a techno and trance artist based in Germany, with 167 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 34 more. Often billed alongside Frederic., KLING&KLANG and CAIVA. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Part Time Killer is a techno and trance artist based in Germany, tracked on soun
 
 ## Recently played
 
-- Maitland Showground, Sydney — Fri, 25 Sept 2026
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 19 Sept 2026
-- Gateway Gardens Ocean Club, Frankfurt — Fri, 11 Sept 2026
-- INPUT High Fidelity Dance Club, Barcelona — Fri, 21 Aug 2026
-- Arzenal, Budapest — Wed, 19 Aug 2026
-- Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
+- Maitland Showground, Sydney · Fri, 25 Sept 2026
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 19 Sept 2026
+- Gateway Gardens Ocean Club, Frankfurt · Fri, 11 Sept 2026
+- INPUT High Fidelity Dance Club, Barcelona · Fri, 21 Aug 2026
+- Arzenal, Budapest · Wed, 19 Aug 2026
+- Lokschuppen Berlin, Berlin · Sat, 15 Aug 2026
 
 ## Shares bills with
 

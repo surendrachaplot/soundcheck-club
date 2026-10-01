@@ -1,6 +1,6 @@
 # Undisclosed XXIII - UNPUGGED LIVE MULTIDISCIPLINARY DANCE PERFORMANCE INTO CLUBNIGHT at Hal 25
 
-Undisclosed XXIII - UNPUGGED LIVE MULTIDISCIPLINARY DANCE PERFORMANCE INTO CLUBNIGHT at Hal 25 on Sat 17 Oct, Netherlands. 1 artist on the bill: Fiedel. Preview the line-up and save it on soundcheck.
+Undisclosed XXIII - UNPUGGED LIVE MULTIDISCIPLINARY DANCE PERFORMANCE INTO CLUBNIGHT at Hal 25 on Sat 17 Oct, Netherlands. 1 artist: Fiedel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

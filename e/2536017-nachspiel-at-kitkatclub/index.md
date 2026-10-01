@@ -1,6 +1,6 @@
 # Nachspiel at KitKatClub
 
-Nachspiel at KitKatClub on Sun 18 Oct, Berlin. Techno and Electro. Preview the line-up and save it on soundcheck.
+Nachspiel at KitKatClub on Sun 18 Oct, Berlin. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

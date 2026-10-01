@@ -1,6 +1,6 @@
 # Music On (Space Basel) at Club Space Miami
 
-Music On (Space Basel) at Club Space Miami on Fri 4 Dec, Miami. 1 artist on the bill: Marco Carola. Techno and House. Preview the line-up and save it on soundcheck.
+Music On (Space Basel) at Club Space Miami on Fri 4 Dec, Miami. 1 artist: Marco Carola. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

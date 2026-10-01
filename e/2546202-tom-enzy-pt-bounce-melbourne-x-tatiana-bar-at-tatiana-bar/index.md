@@ -1,6 +1,6 @@
 # Tom Enzy (PT) - Bounce Melbourne x Tatiana Bar at Tatiana Bar
 
-Tom Enzy (PT) - Bounce Melbourne x Tatiana Bar on Sun 4 Oct, Melbourne. Tech House and Afro House. Preview the line-up and save it on soundcheck.
+Tom Enzy (PT) - Bounce Melbourne x Tatiana Bar on Sun 4 Oct, Melbourne. Tech House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

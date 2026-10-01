@@ -1,6 +1,6 @@
 # EQ x The Machine at Warehouse on Watts
 
-EQ x The Machine at Warehouse on Watts on Fri 30 Oct, Philadelphia. Preview the line-up and save it on soundcheck.
+EQ x The Machine at Warehouse on Watts on Fri 30 Oct, Philadelphia. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

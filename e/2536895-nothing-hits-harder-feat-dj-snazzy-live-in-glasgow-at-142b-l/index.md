@@ -1,6 +1,6 @@
 # NOTHING HITS HARDER feat. DJ Snazzy Live in Glasgow at 142b Lounge
 
-NOTHING HITS HARDER feat. DJ Snazzy Live in Glasgow at 142b Lounge on Sat 10 Oct, Glasgow. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+NOTHING HITS HARDER feat. DJ Snazzy Live in Glasgow at 142b Lounge on Sat 10 Oct, Glasgow. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

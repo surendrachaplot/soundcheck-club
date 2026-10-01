@@ -1,6 +1,6 @@
 # Moodulab & Fábula #003 (Halloween Edition) I Specka Club at Specka
 
-Moodulab & Fábula #003 (Halloween Edition) I Specka Club on Fri 30 Oct, Madrid. 2 artists on the bill: Denso and Valleyk. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Moodulab & Fábula #003 (Halloween Edition) I Specka Club on Fri 30 Oct, Madrid. 2 artists: Denso and Valleyk. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

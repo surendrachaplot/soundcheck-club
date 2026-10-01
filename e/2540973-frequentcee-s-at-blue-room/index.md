@@ -1,6 +1,6 @@
 # Frequentcee's at Blue Room
 
-Frequentcee's at Blue Room on Fri 2 Oct, Montreal. Techno and Electro. Preview the line-up and save it on soundcheck.
+Frequentcee's at Blue Room on Fri 2 Oct, Montreal. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

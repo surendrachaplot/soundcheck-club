@@ -1,6 +1,6 @@
 # New Track Release called 'Love' By $hin3 at TBA
 
-New Track Release called 'Love' By $hin3 at TBA on Fri 2 Oct, San Francisco/Oakland. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+New Track Release called 'Love' By $hin3 at TBA on Fri 2 Oct, San Francisco/Oakland. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

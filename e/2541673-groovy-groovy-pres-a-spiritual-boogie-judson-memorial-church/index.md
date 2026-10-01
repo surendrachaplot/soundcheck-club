@@ -1,6 +1,6 @@
 # GROOVY GROOVY pres. A Spiritual Boogie @ Judson Memorial Church at Judson Memorial Church
 
-GROOVY GROOVY pres. A Spiritual Boogie @ Judson Memorial Church on Wed 14 Oct, New York City. 2 artists on the bill: Akanbi and modrums. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+GROOVY GROOVY pres. A Spiritual Boogie @ Judson Memorial Church on Wed 14 Oct, New York City. 2 artists: Akanbi and modrums. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

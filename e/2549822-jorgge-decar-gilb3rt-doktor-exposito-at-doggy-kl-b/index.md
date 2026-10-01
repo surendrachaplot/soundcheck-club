@@ -1,6 +1,6 @@
 # Jorgge Decar + Gilb3rt + Doktor Exposito at Doggy Klœb
 
-Jorgge Decar + Gilb3rt + Doktor Exposito at Doggy Klœb on Fri 23 Oct, Malaga. 1 artist on the bill: Jorgge Decar. Electro. Preview the line-up and save it on soundcheck.
+Jorgge Decar + Gilb3rt + Doktor Exposito at Doggy Klœb on Fri 23 Oct, Malaga. 1 artist: Jorgge Decar. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

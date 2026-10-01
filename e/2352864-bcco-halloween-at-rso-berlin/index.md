@@ -1,6 +1,6 @@
 # BCCO Halloween at RSO.BERLIN
 
-BCCO Halloween at RSO.BERLIN on Sat 31 Oct, Berlin. 16 artists on the bill: AEREA, ASEC, Bailey Ibbs and Benabou and 12 more. Preview the line-up and save it on soundcheck.
+BCCO Halloween at RSO.BERLIN on Sat 31 Oct, Berlin. 16 artists: AEREA, ASEC, Bailey Ibbs and Benabou and 12 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

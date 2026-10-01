@@ -1,6 +1,6 @@
 # STUDENTPARTY | 3 FLOORS - 2k STUDENTS | OPEN-AIR AREA at Festsaal Kreuzberg
 
-STUDENTPARTY | 3 FLOORS - 2k STUDENTS | OPEN-AIR AREA at Festsaal Kreuzberg on Fri 9 Oct, Berlin. Techno and Club. Preview the line-up and save it on soundcheck.
+STUDENTPARTY | 3 FLOORS - 2k STUDENTS | OPEN-AIR AREA at Festsaal Kreuzberg on Fri 9 Oct, Berlin. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

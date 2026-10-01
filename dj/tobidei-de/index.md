@@ -1,8 +1,8 @@
 # Tobi Dei (DE)
 
-Tobi Dei (DE) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Tobi Dei (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 16 Oct 2026.
 
-Tobi Dei (DE) is a techno and house artist based in Germany, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Cologne and Hamburg and 3 more. Often billed alongside Elli Altenberger, Leon Licht and Maurice Mino. Next up: Renate, Berlin on Fri 16 Oct.
+Tobi Dei (DE) is a techno and house artist based in Germany, with 24 gigs on soundcheck across Barcelona, Berlin, Cologne and Hamburg and 3 more. Often billed alongside Elli Altenberger, Leon Licht and Maurice Mino. Next up: Renate, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Tobi Dei (DE) is a techno and house artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- KitKatClub, Berlin — Mon, 31 Aug 2026
-- Odonien, Cologne — Sat, 30 May 2026
-- Freedonia, Barcelona — Sat, 14 Mar 2026
-- Macarena Club, Barcelona — Fri, 13 Mar 2026
-- Südpol, Hamburg — Sat, 26 Jul 2025
-- KitKatClub, Berlin — Mon, 23 Jun 2025
-- Nachtigall, Cologne — Thu, 31 Oct 2024
-- Industry City, New York City — Sat, 5 Oct 2024
+- KitKatClub, Berlin · Mon, 31 Aug 2026
+- Odonien, Cologne · Sat, 30 May 2026
+- Freedonia, Barcelona · Sat, 14 Mar 2026
+- Macarena Club, Barcelona · Fri, 13 Mar 2026
+- Südpol, Hamburg · Sat, 26 Jul 2025
+- KitKatClub, Berlin · Mon, 23 Jun 2025
+- Nachtigall, Cologne · Thu, 31 Oct 2024
+- Industry City, New York City · Sat, 5 Oct 2024
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Malur
 
-Malur is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Haggerston, London on Thu, 15 Oct 2026.
+Malur is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Haggerston, London on Thu, 15 Oct 2026.
 
-Malur is a house and disco artist tracked on soundcheck, with 21 sets logged across London, Paris and Rome. Often billed alongside ARLYSS, Edible and Groove Boys Project. Next up: The Haggerston, London on Thu 15 Oct.
+Malur is a house and disco artist, with 21 gigs on soundcheck across London, Paris and Rome. Often billed alongside ARLYSS, Edible and Groove Boys Project. Next up: The Haggerston, London on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Malur is a house and disco artist tracked on soundcheck, with 21 sets logged acr
 
 ## Recently played
 
-- The Haggerston, London — Thu, 17 Sept 2026
-- Bricks, London — Fri, 24 Jul 2026
-- The Haggerston, London — Thu, 23 Jul 2026
-- Frissón, Rome — Fri, 5 Jun 2026
-- Starlane Pizza Bar, London — Thu, 4 Jun 2026
-- The Haggerston, London — Thu, 21 May 2026
-- EartH Kitchen, London — Fri, 1 May 2026
-- The Haggerston, London — Thu, 16 Apr 2026
+- The Haggerston, London · Thu, 17 Sept 2026
+- Bricks, London · Fri, 24 Jul 2026
+- The Haggerston, London · Thu, 23 Jul 2026
+- Frissón, Rome · Fri, 5 Jun 2026
+- Starlane Pizza Bar, London · Thu, 4 Jun 2026
+- The Haggerston, London · Thu, 21 May 2026
+- EartH Kitchen, London · Fri, 1 May 2026
+- The Haggerston, London · Thu, 16 Apr 2026
 
 ## Shares bills with
 

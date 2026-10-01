@@ -1,6 +1,6 @@
 # Weighteh X Ground Under Sound - WINTOUR B2B CONTACT GHOST, PLUS MORE at The Model
 
-Weighteh X Ground Under Sound - WINTOUR B2B CONTACT GHOST, PLUS MORE at The Model on Fri 23 Oct, Nottingham. Garage and Dubstep. Preview the line-up and save it on soundcheck.
+Weighteh X Ground Under Sound - WINTOUR B2B CONTACT GHOST, PLUS MORE at The Model on Fri 23 Oct, Nottingham. Garage and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

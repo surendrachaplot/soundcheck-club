@@ -1,6 +1,6 @@
 # Teletech Leeds at The Warehouse
 
-Teletech Leeds at The Warehouse on Sat 3 Oct, Leeds. 4 artists on the bill: Clouds, Faster Horses, Juicy Romance and Vivace (UK). Garage. Preview the line-up and save it on soundcheck.
+Teletech Leeds at The Warehouse on Sat 3 Oct, Leeds. 4 artists: Clouds, Faster Horses, Juicy Romance and Vivace (UK). Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

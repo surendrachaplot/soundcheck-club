@@ -1,6 +1,6 @@
 # Pulso × Amsterdam Techno Sessions with CRAVO (Hayes - Carícia Records - SK_Eleven) at NADA Lisbon
 
-Pulso × Amsterdam Techno Sessions with CRAVO (Hayes - Carícia Records - SK_Eleven) at NADA Lisbon on Sat 3 Oct, Lisbon. 4 artists on the bill: Chich, CRAVO, Magin Karica and Marco Ramos. Techno. Preview the line-up and save it on soundcheck.
+Pulso × Amsterdam Techno Sessions with CRAVO (Hayes - Carícia Records - SK_Eleven) at NADA Lisbon on Sat 3 Oct, Lisbon. 4 artists: Chich, CRAVO, Magin Karica and Marco Ramos. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

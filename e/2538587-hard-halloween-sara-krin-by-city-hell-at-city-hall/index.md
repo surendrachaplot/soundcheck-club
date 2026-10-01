@@ -1,6 +1,6 @@
 # HARD-HALLOWEEN: SARA KRIN by CITY HELL at City Hall
 
-HARD-HALLOWEEN: SARA KRIN by CITY HELL at City Hall on Thu 29 Oct, Barcelona. 2 artists on the bill: Kynexis and SARA KRIN. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+HARD-HALLOWEEN: SARA KRIN by CITY HELL at City Hall on Thu 29 Oct, Barcelona. 2 artists: Kynexis and SARA KRIN. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

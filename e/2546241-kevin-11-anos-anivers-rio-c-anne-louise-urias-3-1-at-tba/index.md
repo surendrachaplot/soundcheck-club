@@ -1,6 +1,6 @@
 # Kevin 11 Anos (Aniversário) C/ Anne Louise, Urias 3/1 at TBA
 
-Kevin 11 Anos (Aniversário) C/ Anne Louise, Urias 3/1 at TBA on Sat 3 Oct, Sao Paulo. 5 artists on the bill: Cashu, Milian Dolla, Sphynx and Vermelho and 1 more. House. Preview the line-up and save it on soundcheck.
+Kevin 11 Anos (Aniversário) C/ Anne Louise, Urias 3/1 at TBA on Sat 3 Oct, Sao Paulo. 5 artists: Cashu, Milian Dolla, Sphynx and Vermelho and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

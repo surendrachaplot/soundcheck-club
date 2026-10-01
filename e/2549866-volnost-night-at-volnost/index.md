@@ -1,6 +1,6 @@
 # Volnost Night at Volnost
 
-Volnost Night on Fri 30 Oct, Seoul. 3 artists on the bill: E3, Haeterna and SINAE. Techno. Preview the line-up and save it on soundcheck.
+Volnost Night on Fri 30 Oct, Seoul. 3 artists: E3, Haeterna and SINAE. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

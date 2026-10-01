@@ -1,6 +1,6 @@
 # Samba Toy ² « Les meufs font la teuf' at Toï Toï, Le Zinc
 
-Samba Toy ² « Les meufs font la teuf' at Toï Toï, Le Zinc on Fri 9 Oct, Lyon. Preview the line-up and save it on soundcheck.
+Samba Toy ² « Les meufs font la teuf' at Toï Toï, Le Zinc on Fri 9 Oct, Lyon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

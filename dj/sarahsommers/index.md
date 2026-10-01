@@ -1,8 +1,8 @@
 # Sarah Sommers
 
-Sarah Sommers is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fuchs2, Prague on Fri, 2 Oct 2026.
+Sarah Sommers is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuchs2, Prague on Fri, 2 Oct 2026.
 
-Sarah Sommers is a techno and acid artist based in Germany, tracked on soundcheck, with 56 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 21 more. Often billed alongside Josef Kunz, Ellen Allien and Tomo in der Muhlen. Next up: Fuchs2, Prague on Fri 2 Oct.
+Sarah Sommers is a techno and acid artist based in Germany, with 56 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 21 more. Often billed alongside Josef Kunz, Ellen Allien and Tomo in der Muhlen. Next up: Fuchs2, Prague on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Sarah Sommers is a techno and acid artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Gewölbe, Cologne — Sat, 26 Sept 2026
-- Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
-- Komplex Berlin, Berlin — Sat, 25 Jul 2026
-- Blank Site, Seoul — Sat, 11 Jul 2026
-- La Station - Gare des Mines, Paris — Thu, 28 May 2026
-- Rachdingue, Barcelona — Sat, 11 Apr 2026
-- La Station - Gare des Mines, Paris — Fri, 3 Apr 2026
-- Sound Metaphors, Berlin — Thu, 26 Mar 2026
+- Gewölbe, Cologne · Sat, 26 Sept 2026
+- Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
+- Komplex Berlin, Berlin · Sat, 25 Jul 2026
+- Blank Site, Seoul · Sat, 11 Jul 2026
+- La Station - Gare des Mines, Paris · Thu, 28 May 2026
+- Rachdingue, Barcelona · Sat, 11 Apr 2026
+- La Station - Gare des Mines, Paris · Fri, 3 Apr 2026
+- Sound Metaphors, Berlin · Thu, 26 Mar 2026
 
 ## Shares bills with
 

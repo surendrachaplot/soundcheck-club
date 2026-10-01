@@ -1,6 +1,6 @@
 # FIFI RAVE at Kramladen
 
-FIFI RAVE at Kramladen on Thu 1 Oct, Vienna. 1 artist on the bill: FEZZO. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+FIFI RAVE at Kramladen on Thu 1 Oct, Vienna. 1 artist: FEZZO. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

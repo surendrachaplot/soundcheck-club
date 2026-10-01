@@ -1,6 +1,6 @@
 # ONDULATION by ATOEM #2 at La Station - Gare des Mines
 
-ONDULATION by ATOEM #2 at La Station - Gare des Mines on Thu 8 Oct, Paris. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+ONDULATION by ATOEM #2 at La Station - Gare des Mines on Thu 8 Oct, Paris. Deep House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

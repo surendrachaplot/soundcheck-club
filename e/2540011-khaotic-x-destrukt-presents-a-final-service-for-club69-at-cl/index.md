@@ -1,6 +1,6 @@
 # KHAOTIC x DESTRUKT presents: A FINAL SERVICE FOR CLUB69 at Club 69
 
-KHAOTIC x DESTRUKT presents: A FINAL SERVICE FOR CLUB69 at Club 69 on Sat 3 Oct, Glasgow. Techno and Industrial. Preview the line-up and save it on soundcheck.
+KHAOTIC x DESTRUKT presents: A FINAL SERVICE FOR CLUB69 at Club 69 on Sat 3 Oct, Glasgow. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

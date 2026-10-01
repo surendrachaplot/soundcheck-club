@@ -1,6 +1,6 @@
 # Glücklich durch die Krise (G2DK) - Daytime Rave at ://about blank
 
-Glücklich durch die Krise (G2DK) - Daytime Rave at ://about blank on Sat 31 Oct, Berlin. 5 artists on the bill: Anna Kasyan, DJ.KRISE, Felizissima and Rosa Luxemburg and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Glücklich durch die Krise (G2DK) - Daytime Rave at ://about blank on Sat 31 Oct, Berlin. 5 artists: Anna Kasyan, DJ.KRISE, Felizissima and Rosa Luxemburg and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

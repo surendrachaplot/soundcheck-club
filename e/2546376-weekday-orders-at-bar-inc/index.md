@@ -1,6 +1,6 @@
 # WEEKDAY ORDERS at BAR Inc
 
-WEEKDAY ORDERS at BAR Inc on Thu 15 Oct, Osaka. House and Disco. Preview the line-up and save it on soundcheck.
+WEEKDAY ORDERS at BAR Inc on Thu 15 Oct, Osaka. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

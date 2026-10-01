@@ -1,6 +1,6 @@
 # Eran at Zumana Bali
 
-Eran at Zumana Bali on Sat 3 Oct, Bali. 1 artist on the bill: Eran Hersh. House and Afro House. Preview the line-up and save it on soundcheck.
+Eran at Zumana Bali on Sat 3 Oct, Bali. 1 artist: Eran Hersh. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

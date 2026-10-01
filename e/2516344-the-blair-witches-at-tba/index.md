@@ -1,6 +1,6 @@
 # the Blair Witches at TBA
 
-the Blair Witches at TBA on Sat 31 Oct, Mexico City. Techno and Acid. Preview the line-up and save it on soundcheck.
+the Blair Witches at TBA on Sat 31 Oct, Mexico City. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

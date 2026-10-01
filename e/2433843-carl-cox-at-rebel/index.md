@@ -1,6 +1,6 @@
 # Carl Cox at Rebel
 
-Carl Cox at Rebel on Fri 27 Nov, Toronto. 1 artist on the bill: Carl Cox. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Carl Cox at Rebel on Fri 27 Nov, Toronto. 1 artist: Carl Cox. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

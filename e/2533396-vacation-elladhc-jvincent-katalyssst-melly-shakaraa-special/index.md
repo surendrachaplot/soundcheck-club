@@ -1,6 +1,6 @@
 # VACATION: ELLADHC, JVINCENT, KATALYSSST, MELLY, SHAKARAA + SPECIAL GUEST at The Orange Room
 
-VACATION: ELLADHC, JVINCENT, KATALYSSST, MELLY, SHAKARAA + SPECIAL GUEST at The Orange Room on Sat 24 Oct, London. 4 artists on the bill: ELLADHC, JVINCENT, KATALYSSST and Melly. Baile Funk and Dancehall. Preview the line-up and save it on soundcheck.
+VACATION: ELLADHC, JVINCENT, KATALYSSST, MELLY, SHAKARAA + SPECIAL GUEST at The Orange Room on Sat 24 Oct, London. 4 artists: ELLADHC, JVINCENT, KATALYSSST and Melly. Baile Funk and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

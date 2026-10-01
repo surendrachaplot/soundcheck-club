@@ -1,6 +1,6 @@
 # GRUB Stretford: Charity Shop Sound Clash at Grub Stretford
 
-GRUB Stretford: Charity Shop Sound Clash at Grub Stretford on Fri 16 Oct, Manchester. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+GRUB Stretford: Charity Shop Sound Clash at Grub Stretford on Fri 16 Oct, Manchester. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

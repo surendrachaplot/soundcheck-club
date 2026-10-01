@@ -1,6 +1,6 @@
 # Festa Piloto - Rotational at TBA - Carcavelos (DM for full Location)
 
-Festa Piloto - Rotational at TBA - Carcavelos (DM for full Location) on Fri 30 Oct, Lisbon. 2 artists on the bill: Rotational and Silvestre. Club. Preview the line-up and save it on soundcheck.
+Festa Piloto - Rotational at TBA - Carcavelos (DM for full Location) on Fri 30 Oct, Lisbon. 2 artists: Rotational and Silvestre. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

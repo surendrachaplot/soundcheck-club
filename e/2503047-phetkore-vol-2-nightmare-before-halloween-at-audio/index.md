@@ -1,6 +1,6 @@
 # Phetkore Vol.2: Nightmare Before Halloween at Audio
 
-Phetkore Vol.2: Nightmare Before Halloween at Audio on Sat 24 Oct, Glasgow. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Phetkore Vol.2: Nightmare Before Halloween at Audio on Sat 24 Oct, Glasgow. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

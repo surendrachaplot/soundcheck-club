@@ -1,6 +1,6 @@
 # Reflections Halloween (Vinja) at Alternity
 
-Reflections Halloween (Vinja) at Alternity on Sat 31 Oct, Toronto. 2 artists on the bill: papa zen and Purrpelle. Broken Beat and Jungle. Preview the line-up and save it on soundcheck.
+Reflections Halloween (Vinja) at Alternity on Sat 31 Oct, Toronto. 2 artists: papa zen and Purrpelle. Broken Beat and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

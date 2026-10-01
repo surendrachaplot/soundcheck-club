@@ -1,8 +1,8 @@
 # Crossbow
 
-Crossbow is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA -  SECRET LOCATION , Boston on Fri, 30 Oct 2026.
+Crossbow is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA -  SECRET LOCATION , Boston on Fri, 30 Oct 2026.
 
-Crossbow is a techno and tech house artist based in United States of America, tracked on soundcheck, with 22 sets logged across Amsterdam, Boston, New York City and Philadelphia and 2 more. Often billed alongside De León, JFK (USA) and Sam Wolfe. Next up: TBA -  SECRET LOCATION , Boston on Fri 30 Oct.
+Crossbow is a techno and tech house artist based in United States of America, with 22 gigs on soundcheck across Amsterdam, Boston, New York City and Philadelphia and 2 more. Often billed alongside De León, JFK (USA) and Sam Wolfe. Next up: TBA -  SECRET LOCATION , Boston on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Crossbow is a techno and tech house artist based in United States of America, tr
 
 ## Recently played
 
-- SILO, New York City — Fri, 1 May 2026
-- 314 Scholes, New York City — Sat, 28 Mar 2026
-- Superior Ingredients, New York City — Sun, 18 Jan 2026
-- Marquee, New York City — Sat, 6 Dec 2025
-- Elsewhere, New York City — Fri, 28 Nov 2025
-- The Meadows, New York City — Sat, 8 Nov 2025
-- Winston On The Water, Philadelphia — Sat, 23 Aug 2025
-- Brooklyn Storehouse, New York City — Sat, 14 Jun 2025
+- SILO, New York City · Fri, 1 May 2026
+- 314 Scholes, New York City · Sat, 28 Mar 2026
+- Superior Ingredients, New York City · Sun, 18 Jan 2026
+- Marquee, New York City · Sat, 6 Dec 2025
+- Elsewhere, New York City · Fri, 28 Nov 2025
+- The Meadows, New York City · Sat, 8 Nov 2025
+- Winston On The Water, Philadelphia · Sat, 23 Aug 2025
+- Brooklyn Storehouse, New York City · Sat, 14 Jun 2025
 
 ## Shares bills with
 

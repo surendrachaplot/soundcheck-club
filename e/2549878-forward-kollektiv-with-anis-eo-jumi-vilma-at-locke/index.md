@@ -1,6 +1,6 @@
 # Forward Kollektiv with Anis, Eo, Jumi & Vilma at Locke
 
-Forward Kollektiv with Anis, Eo, Jumi & Vilma at Locke on Sat 7 Nov, Hamburg. 2 artists on the bill: EO and Vilma. Preview the line-up and save it on soundcheck.
+Forward Kollektiv with Anis, Eo, Jumi & Vilma at Locke on Sat 7 Nov, Hamburg. 2 artists: EO and Vilma. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

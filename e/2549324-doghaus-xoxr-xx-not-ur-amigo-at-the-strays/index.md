@@ -1,6 +1,6 @@
 # DOGHAUS XOXR xx Not Ur Amigo at The Strays
 
-DOGHAUS XOXR xx Not Ur Amigo at The Strays on Sat 24 Oct, Detroit. 4 artists on the bill: AIDEL, Garrison XR, Nick Burgess and The AM/AMX. Techno and Industrial. Preview the line-up and save it on soundcheck.
+DOGHAUS XOXR xx Not Ur Amigo at The Strays on Sat 24 Oct, Detroit. 4 artists: AIDEL, Garrison XR, Nick Burgess and The AM/AMX. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

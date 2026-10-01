@@ -1,6 +1,6 @@
 # CAPRÍSONO 2026 at TBA
 
-CAPRÍSONO 2026 at TBA on Sat 14 Nov, Mexico City. Electro and Minimal. Preview the line-up and save it on soundcheck.
+CAPRÍSONO 2026 at TBA on Sat 14 Nov, Mexico City. Electro and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

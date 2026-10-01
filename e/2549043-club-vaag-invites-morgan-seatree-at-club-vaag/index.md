@@ -1,6 +1,6 @@
 # Club Vaag invites Morgan Seatree at Club Vaag
 
-Club Vaag invites Morgan Seatree on Fri 4 Dec, Antwerp. 2 artists on the bill: Jef Nice and Morgan Seatree. Preview the line-up and save it on soundcheck.
+Club Vaag invites Morgan Seatree on Fri 4 Dec, Antwerp. 2 artists: Jef Nice and Morgan Seatree. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

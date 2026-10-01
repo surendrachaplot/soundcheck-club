@@ -1,6 +1,6 @@
 # Sih-Lest presents: *********90 at The Berkeley Suite
 
-Sih-Lest presents: *********90 at The Berkeley Suite on Thu 12 Nov, Glasgow. Preview the line-up and save it on soundcheck.
+Sih-Lest presents: *********90 at The Berkeley Suite on Thu 12 Nov, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

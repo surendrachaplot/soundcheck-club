@@ -1,6 +1,6 @@
 # ITALORATOR at Time is the new space
 
-ITALORATOR at Time is the new space on Sat 21 Nov, Rotterdam. 3 artists on the bill: Italo Brutalo, Marsman and Rimini Express. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+ITALORATOR at Time is the new space on Sat 21 Nov, Rotterdam. 3 artists: Italo Brutalo, Marsman and Rimini Express. Disco and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

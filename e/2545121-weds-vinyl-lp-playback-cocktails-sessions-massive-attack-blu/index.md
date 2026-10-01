@@ -1,6 +1,6 @@
 # Weds Vinyl LP playback & cocktails sessions-Massive Attack- Blue Lines at 26 Curtain Road
 
-Weds Vinyl LP playback & cocktails sessions-Massive Attack- Blue Lines at 26 Curtain Road on Wed 7 Oct, London. 1 artist on the bill: Neil Thornton. Downtempo and Dub. Preview the line-up and save it on soundcheck.
+Weds Vinyl LP playback & cocktails sessions-Massive Attack- Blue Lines at 26 Curtain Road on Wed 7 Oct, London. 1 artist: Neil Thornton. Downtempo and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

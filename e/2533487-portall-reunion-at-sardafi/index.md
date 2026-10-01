@@ -1,6 +1,6 @@
 # PORTALL REUNION at Sardafi
 
-PORTALL REUNION at Sardafi on Sat 7 Nov, Tbilisi. Trance and Psytrance. Preview the line-up and save it on soundcheck.
+PORTALL REUNION at Sardafi on Sat 7 Nov, Tbilisi. Trance and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

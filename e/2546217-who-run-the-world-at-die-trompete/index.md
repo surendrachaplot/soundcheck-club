@@ -1,6 +1,6 @@
 # Who Run The World at Die Trompete
 
-Who Run The World at Die Trompete on Fri 20 Nov, Bochum. Pop. Preview the line-up and save it on soundcheck.
+Who Run The World at Die Trompete on Fri 20 Nov, Bochum. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

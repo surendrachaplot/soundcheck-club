@@ -1,6 +1,6 @@
 # Crushed: Queer Icons Party at TBA - Ironworks Brighton
 
-Crushed: Queer Icons Party at TBA - Ironworks Brighton on Fri 30 Oct, Brighton. Pop. Preview the line-up and save it on soundcheck.
+Crushed: Queer Icons Party at TBA - Ironworks Brighton on Fri 30 Oct, Brighton. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

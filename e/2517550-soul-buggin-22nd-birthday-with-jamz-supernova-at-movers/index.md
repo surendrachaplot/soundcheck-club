@@ -1,6 +1,6 @@
 # Soul Buggin' 22nd Birthday with Jamz Supernova at Movers
 
-Soul Buggin' 22nd Birthday with Jamz Supernova at Movers on Sat 24 Oct, Nottingham. 1 artist on the bill: Jamz Supernova. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Soul Buggin' 22nd Birthday with Jamz Supernova at Movers on Sat 24 Oct, Nottingham. 1 artist: Jamz Supernova. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

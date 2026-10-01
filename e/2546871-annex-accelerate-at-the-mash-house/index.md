@@ -1,6 +1,6 @@
 # Annex: Accelerate at The Mash House
 
-Annex: Accelerate at The Mash House on Thu 1 Oct, Edinburgh. House and Garage. Preview the line-up and save it on soundcheck.
+Annex: Accelerate at The Mash House on Thu 1 Oct, Edinburgh. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

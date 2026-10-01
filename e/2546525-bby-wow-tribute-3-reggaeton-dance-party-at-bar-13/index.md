@@ -1,6 +1,6 @@
 # BBY WOW TRIBUTE <3 - Reggaeton Dance Party at Bar 13
 
-BBY WOW TRIBUTE <3 - Reggaeton Dance Party at Bar 13 on Sat 10 Oct, New York City. Hip-Hop and Disco. Preview the line-up and save it on soundcheck.
+BBY WOW TRIBUTE <3 - Reggaeton Dance Party at Bar 13 on Sat 10 Oct, New York City. Hip-Hop and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Calum (AU/DK) + Erik Klinga (SE) at ALICE
 
-Calum (AU/DK) + Erik Klinga (SE) at ALICE on Thu 1 Oct, Copenhagen. 1 artist on the bill: Erik Klinga. Preview the line-up and save it on soundcheck.
+Calum (AU/DK) + Erik Klinga (SE) at ALICE on Thu 1 Oct, Copenhagen. 1 artist: Erik Klinga. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

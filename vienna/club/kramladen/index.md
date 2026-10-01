@@ -1,8 +1,8 @@
 # Kramladen
 
-Kramladen is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "FIFI RAVE" on Thu, 1 Oct 2026.
+Kramladen is a music venue in Vienna with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FIFI RAVE" on Thu, 1 Oct 2026.
 
-Kramladen is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Fede Frostl, FEZZO, Groefer and Huebl and 2 more. Browse upcoming dates, start times and who's playing. U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien.
+Kramladen is a music venue in Vienna listed on soundcheck. 5 upcoming gigs, with line-ups including Fede Frostl, FEZZO, Groefer and Huebl and 2 more. See dates, start times and who's playing. U-Bahnbogen 39-40, Lerchenfeldergürtel, 1080 Wien.
 
 ## What's on
 

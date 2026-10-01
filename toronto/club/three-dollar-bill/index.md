@@ -1,8 +1,8 @@
 # Three Dollar Bill
 
-Three Dollar Bill is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Back Pages" on Fri, 9 Oct 2026.
+Three Dollar Bill is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Back Pages" on Fri, 9 Oct 2026.
 
-Three Dollar Bill is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Momocita. Browse upcoming dates, start times and who's playing. 1592 Queen St. W, Toronto, Ontario, M6R 1A8.
+Three Dollar Bill is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Momocita. See dates, start times and who's playing. 1592 Queen St. W, Toronto, Ontario, M6R 1A8.
 
 ## What's on
 

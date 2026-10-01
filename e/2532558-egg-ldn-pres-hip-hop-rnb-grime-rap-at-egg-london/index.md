@@ -1,6 +1,6 @@
 # Egg LDN Pres: HIP HOP, RNB, GRIME & RAP at Egg London
 
-Egg LDN Pres: HIP HOP, RNB, GRIME & RAP at Egg London on Fri 23 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Egg LDN Pres: HIP HOP, RNB, GRIME & RAP at Egg London on Fri 23 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

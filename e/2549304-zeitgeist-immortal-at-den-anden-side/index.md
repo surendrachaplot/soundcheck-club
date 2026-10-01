@@ -1,6 +1,6 @@
 # Zeitgeist: Immortal at Den Anden Side
 
-Zeitgeist: Immortal at Den Anden Side on Sat 31 Oct, Copenhagen. 5 artists on the bill: BitterCaress, DJ 2LATE, Fanni Fluid and Karim Alkhayat and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Zeitgeist: Immortal at Den Anden Side on Sat 31 Oct, Copenhagen. 5 artists: BitterCaress, DJ 2LATE, Fanni Fluid and Karim Alkhayat and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Gay Roberto All Night Long at Wheat, Wine & Whisky
 
-Gay Roberto All Night Long at Wheat, Wine & Whisky on Sat 3 Oct, Melbourne. House and Deep House. Preview the line-up and save it on soundcheck.
+Gay Roberto All Night Long at Wheat, Wine & Whisky on Sat 3 Oct, Melbourne. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # VELVET Lounge -Organic House- at TBA - VELVET Lounge
 
-VELVET Lounge -Organic House- at TBA - VELVET Lounge on Sun 11 Oct, Tokyo. Techno and Afro House. Preview the line-up and save it on soundcheck.
+VELVET Lounge -Organic House- at TBA - VELVET Lounge on Sun 11 Oct, Tokyo. Techno and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

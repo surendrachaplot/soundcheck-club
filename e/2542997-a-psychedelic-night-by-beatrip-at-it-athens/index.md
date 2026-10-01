@@ -1,6 +1,6 @@
 # A Psychedelic Night by Beatrip at IT Athens
 
-A Psychedelic Night by Beatrip at IT Athens on Fri 2 Oct, Athens. Preview the line-up and save it on soundcheck.
+A Psychedelic Night by Beatrip at IT Athens on Fri 2 Oct, Athens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

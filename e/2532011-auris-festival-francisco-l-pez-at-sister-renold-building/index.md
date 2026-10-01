@@ -1,6 +1,6 @@
 # Auris Festival: Francisco López at Sister - Renold Building
 
-Auris Festival: Francisco López at Sister - Renold Building on Sat 10 Oct, Manchester. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Auris Festival: Francisco López at Sister - Renold Building on Sat 10 Oct, Manchester. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

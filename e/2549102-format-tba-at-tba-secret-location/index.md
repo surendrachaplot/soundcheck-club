@@ -1,6 +1,6 @@
 # FORMAT: TBA at TBA - Secret Location
 
-FORMAT: TBA at TBA - Secret Location on Fri 18 Dec, Toronto. Techno. Preview the line-up and save it on soundcheck.
+FORMAT: TBA at TBA - Secret Location on Fri 18 Dec, Toronto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

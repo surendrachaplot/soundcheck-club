@@ -1,6 +1,6 @@
 # Natural Progression - Fejka - LAR - Slow Ted at Blique by Nobis Rooftop
 
-Natural Progression - Fejka - LAR - Slow Ted at Blique by Nobis Rooftop on Sat 21 Nov, Stockholm. 3 artists on the bill: Fejká, LAR (UK) and Slow Ted. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Natural Progression - Fejka - LAR - Slow Ted at Blique by Nobis Rooftop on Sat 21 Nov, Stockholm. 3 artists: Fejká, LAR (UK) and Slow Ted. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AFTER BRUNCH: THE CLOSING (OPEN AIR) W/ CLASSMATIC at Lord Hobo Seaport
 
-AFTER BRUNCH: THE CLOSING (OPEN AIR) W/ CLASSMATIC at Lord Hobo Seaport on Sun 11 Oct, Boston. Tech House. Preview the line-up and save it on soundcheck.
+AFTER BRUNCH: THE CLOSING (OPEN AIR) W/ CLASSMATIC at Lord Hobo Seaport on Sun 11 Oct, Boston. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

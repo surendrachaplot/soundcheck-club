@@ -1,6 +1,6 @@
 # BCCO x future.666 at Haus der Visionäre
 
-BCCO x future.666 at Haus der Visionäre on Fri 30 Apr, Berlin. 1 artist on the bill: future.666. Preview the line-up and save it on soundcheck.
+BCCO x future.666 at Haus der Visionäre on Fri 30 Apr, Berlin. 1 artist: future.666. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

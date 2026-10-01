@@ -1,6 +1,6 @@
 # Carol Nyx at Moog Club
 
-Carol Nyx at Moog Club on Thu 22 Oct, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+Carol Nyx at Moog Club on Thu 22 Oct, Barcelona. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

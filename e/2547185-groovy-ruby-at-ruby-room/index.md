@@ -1,6 +1,6 @@
 # Groovy Ruby at Ruby Room
 
-Groovy Ruby at Ruby Room on Fri 16 Oct, Tokyo. 2 artists on the bill: Calavera and LYOM. Techno and House. Preview the line-up and save it on soundcheck.
+Groovy Ruby at Ruby Room on Fri 16 Oct, Tokyo. 2 artists: Calavera and LYOM. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

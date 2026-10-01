@@ -1,6 +1,6 @@
 # Source x Circle present Perfect Timing at Supperclub
 
-Source x Circle present Perfect Timing at Supperclub on Thu 15 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+Source x Circle present Perfect Timing at Supperclub on Thu 15 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

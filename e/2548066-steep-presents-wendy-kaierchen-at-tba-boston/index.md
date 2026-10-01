@@ -1,6 +1,6 @@
 # Steep presents: Wendy, Kaierchen at TBA - Boston
 
-Steep presents: Wendy, Kaierchen at TBA - Boston on Fri 23 Oct, Boston. 2 artists on the bill: Katya C and Wendy Bkz. Techno and House. Preview the line-up and save it on soundcheck.
+Steep presents: Wendy, Kaierchen at TBA - Boston on Fri 23 Oct, Boston. 2 artists: Katya C and Wendy Bkz. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Dalston Superstore
 
-Dalston Superstore is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Vinyl Bitch Open Decks 032" on Mon, 5 Oct 2026.
+Dalston Superstore is a music venue in London with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Vinyl Bitch Open Decks 032" on Mon, 5 Oct 2026.
 
-Dalston Superstore is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Carly Zeng, CHEZA LUCINA, FAFF and Jared and 2 more. Browse upcoming dates, start times and who's playing. 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom.
+Dalston Superstore is a music venue in London listed on soundcheck. 3 upcoming gigs, with line-ups including Carly Zeng, CHEZA LUCINA, FAFF and Jared and 2 more. See dates, start times and who's playing. 117 Kingsland High St; Dalston; London E8 2PB; United Kingdom.
 
 ## What's on
 

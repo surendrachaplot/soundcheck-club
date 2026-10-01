@@ -1,8 +1,8 @@
 # Bella Hex
 
-Bella Hex is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mood Ring, New York City on Thu, 8 Oct 2026.
+Bella Hex is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Thu, 8 Oct 2026.
 
-Bella Hex is a house and techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across New York City. Often billed alongside STARLOTTE, JOHNNY O and AJACENT. Next up: Mood Ring, New York City on Thu 8 Oct.
+Bella Hex is a house and techno artist based in United States of America, with 4 gigs on soundcheck across New York City. Often billed alongside STARLOTTE, JOHNNY O and AJACENT. Next up: Mood Ring, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,8 @@ Bella Hex is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
-- SILO, New York City — Thu, 20 Aug 2026
-- Mood Ring, New York City — Wed, 12 Aug 2026
+- SILO, New York City · Thu, 20 Aug 2026
+- Mood Ring, New York City · Wed, 12 Aug 2026
 
 ## Shares bills with
 

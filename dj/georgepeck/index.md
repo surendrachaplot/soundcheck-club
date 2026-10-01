@@ -1,8 +1,8 @@
 # George Peck
 
-George Peck is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Rolling Stock, London on Sat, 17 Oct 2026.
+George Peck is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Rolling Stock, London on Sat, 17 Oct 2026.
 
-George Peck is a house and disco artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside J:MoB, Bedfactory Records and Karter. Next up: Rolling Stock, London on Sat 17 Oct.
+George Peck is a house and disco artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside J:MoB, Bedfactory Records and Karter. Next up: Rolling Stock, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ George Peck is a house and disco artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Tamesis Boat Dock, London — Sat, 12 Jul 2025
-- DreamBags Jaguarshoes, London — Sat, 14 Dec 2024
-- Basing House, London — Sat, 1 Jun 2024
-- Outpost, London — Sat, 29 Jul 2023
-- Outpost, London — Sat, 28 Jan 2023
+- Tamesis Boat Dock, London · Sat, 12 Jul 2025
+- DreamBags Jaguarshoes, London · Sat, 14 Dec 2024
+- Basing House, London · Sat, 1 Jun 2024
+- Outpost, London · Sat, 29 Jul 2023
+- Outpost, London · Sat, 28 Jan 2023
 
 ## Shares bills with
 

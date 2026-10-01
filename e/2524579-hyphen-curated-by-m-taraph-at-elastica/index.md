@@ -1,6 +1,6 @@
 # HYPHEN: CURATED BY MÉTARAPH at Elastica
 
-HYPHEN: CURATED BY MÉTARAPH at Elastica on Fri 23 Oct, Vilnius. 1 artist on the bill: Metaraph. Preview the line-up and save it on soundcheck.
+HYPHEN: CURATED BY MÉTARAPH at Elastica on Fri 23 Oct, Vilnius. 1 artist: Metaraph. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

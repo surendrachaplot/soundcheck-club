@@ -1,6 +1,6 @@
 # Mo'Kalamity & The Wizards + Pirates Crew + Team DAMP at Club Wintercircus
 
-Mo'Kalamity & The Wizards + Pirates Crew + Team DAMP at Club Wintercircus on Sat 17 Oct, Ghent. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+Mo'Kalamity & The Wizards + Pirates Crew + Team DAMP at Club Wintercircus on Sat 17 Oct, Ghent. Dub and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

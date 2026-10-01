@@ -1,6 +1,6 @@
 # 10 YEARS SECRETRAVES // DAY&NIGHT // OPEN AIR & INDOOR at TBA - SECRET WAREHOUSE
 
-10 YEARS SECRETRAVES // DAY&NIGHT // OPEN AIR & INDOOR at TBA - SECRET WAREHOUSE on Sat 10 Oct, Cologne. 4 artists on the bill: CRITICAL ERROR 404, David Gomez, David Hasert and WESTKLANG. Preview the line-up and save it on soundcheck.
+10 YEARS SECRETRAVES // DAY&NIGHT // OPEN AIR & INDOOR at TBA - SECRET WAREHOUSE on Sat 10 Oct, Cologne. 4 artists: CRITICAL ERROR 404, David Gomez, David Hasert and WESTKLANG. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

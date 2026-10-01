@@ -1,6 +1,6 @@
 # Project 304 at Last Arch
 
-Project 304 at Last Arch on Sat 7 Nov, London. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Project 304 at Last Arch on Sat 7 Nov, London. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

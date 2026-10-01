@@ -1,6 +1,6 @@
 # Intercell Singapore 2026 at Pasir Panjang Power Station
 
-Intercell Singapore 2026 at Pasir Panjang Power Station on Sat 21 Nov, Singapore. 4 artists on the bill: Effy, Mall Grab, Osmosis Jones and Skin On Skin. Techno. Preview the line-up and save it on soundcheck.
+Intercell Singapore 2026 at Pasir Panjang Power Station on Sat 21 Nov, Singapore. 4 artists: Effy, Mall Grab, Osmosis Jones and Skin On Skin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

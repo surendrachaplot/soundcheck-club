@@ -1,8 +1,8 @@
 # Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Gordo - Parc Jean-Drapeau" on Fri, 2 Oct 2026.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Gordo - Parc Jean-Drapeau" on Fri, 2 Oct 2026.
 
-Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including AMÉMÉ, Asha, Beltran and Black Tiger Sex Machine and 2 more. Browse upcoming dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
+Piknic Électronik / Parc Jean Drapeau is a music venue in Montreal listed on soundcheck. 8 upcoming gigs, with line-ups including AMÉMÉ, Asha, Beltran and Black Tiger Sex Machine and 2 more. See dates, start times and who's playing. Jardin le Petit Prince, Montréal, QC H3C 4G8.
 
 ## What's on
 

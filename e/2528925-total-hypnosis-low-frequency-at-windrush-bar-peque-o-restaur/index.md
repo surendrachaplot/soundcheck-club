@@ -1,6 +1,6 @@
 # Total Hypnosis & low Frequency at Windrush Bar / Pequeño Restaurant & Bar
 
-Total Hypnosis & low Frequency at Windrush Bar / Pequeño Restaurant & Bar on Sat 3 Oct, London. 2 artists on the bill: Ben Zo and Nology. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Total Hypnosis & low Frequency at Windrush Bar / Pequeño Restaurant & Bar on Sat 3 Oct, London. 2 artists: Ben Zo and Nology. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

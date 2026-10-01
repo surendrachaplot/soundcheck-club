@@ -1,6 +1,6 @@
 # INFUSION presents Joe Rolét at World Headquarters
 
-INFUSION presents Joe Rolét at World Headquarters on Sat 7 Nov, Newcastle. 1 artist on the bill: Joe Rolét. House and Tech House. Preview the line-up and save it on soundcheck.
+INFUSION presents Joe Rolét at World Headquarters on Sat 7 Nov, Newcastle. 1 artist: Joe Rolét. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

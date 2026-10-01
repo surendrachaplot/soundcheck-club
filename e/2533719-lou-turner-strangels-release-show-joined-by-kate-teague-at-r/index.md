@@ -1,6 +1,6 @@
 # Lou Turner - 'Strangels' Release Show, joined by Kate Teague at Random Sample
 
-Lou Turner - 'Strangels' Release Show, joined by Kate Teague at Random Sample on Fri 6 Nov, Nashville. Preview the line-up and save it on soundcheck.
+Lou Turner - 'Strangels' Release Show, joined by Kate Teague at Random Sample on Fri 6 Nov, Nashville. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

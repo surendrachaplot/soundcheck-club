@@ -1,8 +1,8 @@
 # Jpattersson
 
-Jpattersson is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at X-Tra, Zurich on Sat, 19 Dec 2026.
+Jpattersson is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at X-Tra, Zurich on Sat, 19 Dec 2026.
 
-Jpattersson is a deep house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Danilo Kupfernagel, LEENI and Judith van Waterkant. Next up: X-Tra, Zurich on Sat 19 Dec.
+Jpattersson is a deep house and techno artist based in Germany, with 21 gigs on soundcheck across Barcelona, Berlin, Hamburg and Leipzig and 4 more. Often billed alongside Danilo Kupfernagel, LEENI and Judith van Waterkant. Next up: X-Tra, Zurich on Sat 19 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jpattersson is a deep house and techno artist based in Germany, tracked on sound
 
 ## Recently played
 
-- KOKO, London — Thu, 5 Mar 2026
-- TBA - Kulturkosmos, Berlin — Sat, 7 Feb 2026
-- Ritter Butzke, Berlin — Sat, 31 Jan 2026
-- Bahnwärter Thiel, Munich — Sat, 24 Jan 2026
-- Unit 58, London — Sat, 19 Jul 2025
-- elipamanoke, Leipzig — Fri, 11 Apr 2025
-- Import Export, Munich — Sat, 22 Mar 2025
-- Ritter Butzke, Berlin — Sat, 18 Jan 2025
+- KOKO, London · Thu, 5 Mar 2026
+- TBA - Kulturkosmos, Berlin · Sat, 7 Feb 2026
+- Ritter Butzke, Berlin · Sat, 31 Jan 2026
+- Bahnwärter Thiel, Munich · Sat, 24 Jan 2026
+- Unit 58, London · Sat, 19 Jul 2025
+- elipamanoke, Leipzig · Fri, 11 Apr 2025
+- Import Export, Munich · Sat, 22 Mar 2025
+- Ritter Butzke, Berlin · Sat, 18 Jan 2025
 
 ## Shares bills with
 

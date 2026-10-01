@@ -1,6 +1,6 @@
 # Rheinbass & Reframe pres. CAPRON at Sol y Luna Lounge & Club
 
-Rheinbass & Reframe pres. CAPRON at Sol y Luna Lounge & Club on Sat 3 Oct, Düsseldorf. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Rheinbass & Reframe pres. CAPRON at Sol y Luna Lounge & Club on Sat 3 Oct, Düsseldorf. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

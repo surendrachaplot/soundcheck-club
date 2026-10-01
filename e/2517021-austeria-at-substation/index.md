@@ -1,6 +1,6 @@
 # Austeria at Substation
 
-Austeria at Substation on Thu 17 Dec, Seattle. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Austeria at Substation on Thu 17 Dec, Seattle. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

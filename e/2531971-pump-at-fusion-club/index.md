@@ -1,6 +1,6 @@
 # PUMP at Fusion Club
 
-PUMP at Fusion Club on Sat 10 Oct, Munster. Preview the line-up and save it on soundcheck.
+PUMP at Fusion Club on Sat 10 Oct, Munster. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

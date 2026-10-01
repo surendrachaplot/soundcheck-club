@@ -1,6 +1,6 @@
 # La Cantera-Underground Techno 03.10 Javi Lago at TBA - Avda/ Mediterrani,24 17300 Blanes
 
-La Cantera-Underground Techno 03.10 Javi Lago at TBA - Avda/ Mediterrani,24 17300 Blanes on Sat 3 Oct, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+La Cantera-Underground Techno 03.10 Javi Lago at TBA - Avda/ Mediterrani,24 17300 Blanes on Sat 3 Oct, Barcelona. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ross From Friends and Friends at World Headquarters
 
-Ross From Friends and Friends at World Headquarters on Sat 7 Nov, Newcastle. 2 artists on the bill: Danielle and Ross From Friends. Techno and House. Preview the line-up and save it on soundcheck.
+Ross From Friends and Friends at World Headquarters on Sat 7 Nov, Newcastle. 2 artists: Danielle and Ross From Friends. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

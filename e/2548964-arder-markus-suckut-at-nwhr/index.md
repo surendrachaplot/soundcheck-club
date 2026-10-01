@@ -1,6 +1,6 @@
 # Arder: Markus Suckut at NWHR
 
-Arder: Markus Suckut at NWHR on Sat 12 Dec, Montreal. 1 artist on the bill: Markus Suckut. Preview the line-up and save it on soundcheck.
+Arder: Markus Suckut at NWHR on Sat 12 Dec, Montreal. 1 artist: Markus Suckut. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

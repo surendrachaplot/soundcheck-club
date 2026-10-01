@@ -1,8 +1,8 @@
 # TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "[8]: END*** CLUBBING WEEKENDER [2 NIGHTS 3 STAGES with GARDEN]" on Fri, 2 Oct 2026.
+TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "[8]: END*** CLUBBING WEEKENDER [2 NIGHTS 3 STAGES with GARDEN]" on Fri, 2 Oct 2026.
 
-TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including 0111001101110100, Acid Souljah, Aliar and Angel Cat and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - WARSCHAUER PLATZ 18 10245 BERLIN is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including 0111001101110100, Acid Souljah, Aliar and Angel Cat and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

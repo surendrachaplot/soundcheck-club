@@ -1,8 +1,8 @@
 # Ineffekt
 
-Ineffekt is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Ineffekt is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bajes Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Ineffekt is a house and techno artist based in Netherlands, tracked on soundcheck, with 64 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 10 more. Often billed alongside Avalon Emerson, Sedef Adasï and Elias Mazian. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
+Ineffekt is a house and techno artist based in Netherlands, with 64 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 10 more. Often billed alongside Avalon Emerson, Sedef Adasï and Elias Mazian. Next up: Bajes Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Ineffekt is a house and techno artist based in Netherlands, tracked on soundchec
 
 ## Recently played
 
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- Fort Vechten, Utrecht — Sat, 25 Jul 2026
-- Radio Radio, Amsterdam — Fri, 3 Jul 2026
-- Common Market, Belfast — Sat, 30 May 2026
-- Titanic Slipways, Belfast — Fri, 29 May 2026
-- Common Market, Belfast — Fri, 29 May 2026
-- Het Twiske, Amsterdam — Sat, 23 May 2026
-- Badaboum, Paris — Thu, 21 May 2026
+- Gianpula Village, Malta · Wed, 12 Aug 2026
+- Fort Vechten, Utrecht · Sat, 25 Jul 2026
+- Radio Radio, Amsterdam · Fri, 3 Jul 2026
+- Common Market, Belfast · Sat, 30 May 2026
+- Titanic Slipways, Belfast · Fri, 29 May 2026
+- Common Market, Belfast · Fri, 29 May 2026
+- Het Twiske, Amsterdam · Sat, 23 May 2026
+- Badaboum, Paris · Thu, 21 May 2026
 
 ## Shares bills with
 

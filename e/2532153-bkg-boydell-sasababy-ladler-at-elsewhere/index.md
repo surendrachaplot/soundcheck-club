@@ -1,6 +1,6 @@
 # BKG: Boydell, sasababy, Ladler at Elsewhere
 
-BKG: Boydell, sasababy, Ladler at Elsewhere on Thu 1 Oct, New York City. 2 artists on the bill: Boydell and sasababy. Preview the line-up and save it on soundcheck.
+BKG: Boydell, sasababy, Ladler at Elsewhere on Thu 1 Oct, New York City. 2 artists: Boydell and sasababy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

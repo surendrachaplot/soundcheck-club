@@ -1,6 +1,6 @@
 # The Holodeck at TBA
 
-The Holodeck at TBA on Fri 2 Oct, Detroit. 3 artists on the bill: ASL Princess, Chachi Guerrero and DJ Holographic. Techno and House. Preview the line-up and save it on soundcheck.
+The Holodeck at TBA on Fri 2 Oct, Detroit. 3 artists: ASL Princess, Chachi Guerrero and DJ Holographic. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

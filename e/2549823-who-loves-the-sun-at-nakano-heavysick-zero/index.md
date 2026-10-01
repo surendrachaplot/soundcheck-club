@@ -1,6 +1,6 @@
 # Who Loves the Sun at Nakano Heavysick Zero
 
-Who Loves the Sun at Nakano Heavysick Zero on Thu 29 Oct, Tokyo. 1 artist on the bill: Ko Umehara. Techno and House. Preview the line-up and save it on soundcheck.
+Who Loves the Sun at Nakano Heavysick Zero on Thu 29 Oct, Tokyo. 1 artist: Ko Umehara. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PERREO MÁS - LONDON REGGAETON PARTY at The Camden
 
-PERREO MÁS - LONDON REGGAETON PARTY at The Camden on Sat 3 Oct, London. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+PERREO MÁS - LONDON REGGAETON PARTY at The Camden on Sat 3 Oct, London. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

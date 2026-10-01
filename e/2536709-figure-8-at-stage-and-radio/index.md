@@ -1,6 +1,6 @@
 # Figure 8 at Stage and Radio
 
-Figure 8 at Stage and Radio on Thu 1 Oct, Manchester. House. Preview the line-up and save it on soundcheck.
+Figure 8 at Stage and Radio on Thu 1 Oct, Manchester. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

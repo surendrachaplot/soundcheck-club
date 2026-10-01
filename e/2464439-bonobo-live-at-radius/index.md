@@ -1,6 +1,6 @@
 # Bonobo (Live) at Radius
 
-Bonobo (Live) at Radius on Wed 25 Nov, Chicago. 1 artist on the bill: Bonobo. Preview the line-up and save it on soundcheck.
+Bonobo (Live) at Radius on Wed 25 Nov, Chicago. 1 artist: Bonobo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

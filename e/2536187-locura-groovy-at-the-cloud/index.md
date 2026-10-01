@@ -1,6 +1,6 @@
 # Locura Groovy at The Cloud
 
-Locura Groovy at The Cloud on Fri 9 Oct, Berlin. 4 artists on the bill: Basstronauten, IvaNNa, Mosher and YellowHeads. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Locura Groovy at The Cloud on Fri 9 Oct, Berlin. 4 artists: Basstronauten, IvaNNa, Mosher and YellowHeads. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

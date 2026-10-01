@@ -1,8 +1,8 @@
 # Teragram Ballroom
 
-Teragram Ballroom is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Yoi Toki: A Future Funk Halloween feat. Saint Pepsi B2B Vantage" on Sat, 31 Oct 2026.
+Teragram Ballroom is a music venue in Los Angeles with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Yoi Toki: A Future Funk Halloween feat. Saint Pepsi B2B Vantage" on Sat, 31 Oct 2026.
 
-Teragram Ballroom is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1234 W 7th St, Los Angeles, CA 90017, United States.
+Teragram Ballroom is a music venue in Los Angeles listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1234 W 7th St, Los Angeles, CA 90017, United States.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # MISS FRENXH
 
-MISS FRENXH is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
+MISS FRENXH is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Left Bank Leeds, Leeds on Sat, 31 Oct 2026.
 
-MISS FRENXH is a trance and techno artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across Berlin and Leeds. Often billed alongside 2HOT2PLAY, AREA ØNE and ATTA.. Next up: Left Bank Leeds, Leeds on Sat 31 Oct.
+MISS FRENXH is a trance and techno artist based in United Kingdom, with 2 gigs on soundcheck across Berlin and Leeds. Often billed alongside 2HOT2PLAY, AREA ØNE and ATTA.. Next up: Left Bank Leeds, Leeds on Sat 31 Oct.
 
 ## Upcoming shows
 

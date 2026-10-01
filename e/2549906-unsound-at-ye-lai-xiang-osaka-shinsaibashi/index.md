@@ -1,6 +1,6 @@
 # unsound at 夜来香　YE LAI Xiang Osaka Shinsaibashi
 
-unsound at 夜来香　YE LAI Xiang Osaka Shinsaibashi on Sat 17 Oct, Osaka. 1 artist on the bill: DJ SPOT. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+unsound at 夜来香　YE LAI Xiang Osaka Shinsaibashi on Sat 17 Oct, Osaka. 1 artist: DJ SPOT. Tech House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SADAT X at the CHIP SHOP at Chip Shop Brixton
 
-SADAT X at the CHIP SHOP at Chip Shop Brixton on Fri 23 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+SADAT X at the CHIP SHOP at Chip Shop Brixton on Fri 23 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

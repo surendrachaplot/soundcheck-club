@@ -1,6 +1,6 @@
 # ADE: okgiorgio, Fakear + more names TBA at Benelux BAR
 
-ADE: okgiorgio, Fakear + more names TBA at Benelux BAR on Wed 21 Oct, Amsterdam. 2 artists on the bill: Fakear and okgiorgio. Preview the line-up and save it on soundcheck.
+ADE: okgiorgio, Fakear + more names TBA at Benelux BAR on Wed 21 Oct, Amsterdam. 2 artists: Fakear and okgiorgio. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 2000's Rave at Outset
 
-2000's Rave at Outset on Sat 3 Oct, Chicago. Preview the line-up and save it on soundcheck.
+2000's Rave at Outset on Sat 3 Oct, Chicago. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

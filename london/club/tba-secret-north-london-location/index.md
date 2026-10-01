@@ -1,8 +1,8 @@
 # TBA - Secret North London Location
 
-TBA - Secret North London Location is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dance No Evil 2nd Birthday: London Debut" on Sat, 24 Oct 2026.
+TBA - Secret North London Location is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dance No Evil 2nd Birthday: London Debut" on Sat, 24 Oct 2026.
 
-TBA - Secret North London Location is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Brewboy, Dance No Evil, Lewis Robertson and Speki C. Browse upcoming dates, start times and who's playing.
+TBA - Secret North London Location is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Brewboy, Dance No Evil, Lewis Robertson and Speki C. See dates, start times and who's playing.
 
 ## What's on
 

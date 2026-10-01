@@ -1,6 +1,6 @@
 # Kittball x NatureBeats Garagen 02.10 at Garagen
 
-Kittball x NatureBeats Garagen 02.10 on Fri 2 Oct, Cologne. 1 artist on the bill: Tube & Berger. House and Electro. Preview the line-up and save it on soundcheck.
+Kittball x NatureBeats Garagen 02.10 on Fri 2 Oct, Cologne. 1 artist: Tube & Berger. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Miliard
 
-Miliard is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Stanley's, Sydney on Sat, 3 Oct 2026.
+Miliard is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Stanley's, Sydney on Sat, 3 Oct 2026.
 
-Miliard is a house and tech house artist based in Australia, tracked on soundcheck, with 10 sets logged across Sydney. Often billed alongside Chris Stevo, A.Well and Said Dami. Next up: Stanley's, Sydney on Sat 3 Oct.
+Miliard is a house and tech house artist based in Australia, with 10 gigs on soundcheck across Sydney. Often billed alongside Chris Stevo, A.Well and Said Dami. Next up: Stanley's, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,13 +14,13 @@ Miliard is a house and tech house artist based in Australia, tracked on soundche
 
 ## Recently played
 
-- Stanley's, Sydney — Sat, 18 Jul 2026
-- The Lucky Cat, Sydney — Sat, 27 Jun 2026
-- Abercrombie Hotel, Sydney — Fri, 12 Jun 2026
-- Billy The Pig, Sydney — Sat, 30 Aug 2025
-- Plaza Hotel Sydney, Sydney — Sat, 28 Jun 2025
-- Kings Cross Hotel, Sydney — Sat, 15 Mar 2025
-- Civic Underground, Sydney — Fri, 27 Dec 2024
+- Stanley's, Sydney · Sat, 18 Jul 2026
+- The Lucky Cat, Sydney · Sat, 27 Jun 2026
+- Abercrombie Hotel, Sydney · Fri, 12 Jun 2026
+- Billy The Pig, Sydney · Sat, 30 Aug 2025
+- Plaza Hotel Sydney, Sydney · Sat, 28 Jun 2025
+- Kings Cross Hotel, Sydney · Sat, 15 Mar 2025
+- Civic Underground, Sydney · Fri, 27 Dec 2024
 
 ## Shares bills with
 

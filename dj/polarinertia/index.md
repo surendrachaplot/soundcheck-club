@@ -1,8 +1,8 @@
 # Polar Inertia
 
-Polar Inertia is a Techno and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Polar Inertia is a Techno and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Polar Inertia is a techno and experimental artist based in France, tracked on soundcheck, with 30 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 12 more. Often billed alongside Priori, Anthony Linell and A Strange Wedding. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Polar Inertia is a techno and experimental artist based in France, with 30 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 12 more. Often billed alongside Priori, Anthony Linell and A Strange Wedding. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Polar Inertia is a techno and experimental artist based in France, tracked on so
 
 ## Recently played
 
-- Fuse, Brussels — Sat, 26 Sept 2026
-- Lofi, Amsterdam — Sat, 15 Aug 2026
-- AMT, Berlin — Sat, 18 Jul 2026
-- TILLATEC, Amsterdam — Sat, 30 May 2026
-- Karmen Camina, Strasbourg — Sat, 16 May 2026
-- ASIAT Park, Brussels — Thu, 14 May 2026
-- MaHalla, Berlin — Sat, 11 Apr 2026
-- Astron Club, Athens — Fri, 27 Mar 2026
+- Fuse, Brussels · Sat, 26 Sept 2026
+- Lofi, Amsterdam · Sat, 15 Aug 2026
+- AMT, Berlin · Sat, 18 Jul 2026
+- TILLATEC, Amsterdam · Sat, 30 May 2026
+- Karmen Camina, Strasbourg · Sat, 16 May 2026
+- ASIAT Park, Brussels · Thu, 14 May 2026
+- MaHalla, Berlin · Sat, 11 Apr 2026
+- Astron Club, Athens · Fri, 27 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # KYBBA + LOST XXL at Fabrique
 
-KYBBA + LOST XXL at Fabrique on Sat 24 Oct, Milan. Dancehall and Amapiano. Preview the line-up and save it on soundcheck.
+KYBBA + LOST XXL at Fabrique on Sat 24 Oct, Milan. Dancehall and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

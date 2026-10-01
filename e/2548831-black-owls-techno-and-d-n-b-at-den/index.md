@@ -1,6 +1,6 @@
 # BLACK OWLS - TECHNO and D'N'B at ÆDEN
 
-BLACK OWLS - TECHNO and D'N'B at ÆDEN on Thu 8 Oct, Berlin. 4 artists on the bill: ALIS., ANDI A., Deskai and Lola Brennt. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+BLACK OWLS - TECHNO and D'N'B at ÆDEN on Thu 8 Oct, Berlin. 4 artists: ALIS., ANDI A., Deskai and Lola Brennt. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

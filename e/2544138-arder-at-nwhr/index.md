@@ -1,6 +1,6 @@
 # Arder: at NWHR
 
-Arder: at NWHR on Sat 21 Nov, Montreal. Preview the line-up and save it on soundcheck.
+Arder: at NWHR on Sat 21 Nov, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

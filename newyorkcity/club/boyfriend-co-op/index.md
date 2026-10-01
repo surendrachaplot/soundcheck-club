@@ -1,8 +1,8 @@
 # Boyfriend co-op
 
-Boyfriend co-op is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "QUEER PANIC" on Thu, 15 Oct 2026.
+Boyfriend co-op is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "QUEER PANIC" on Thu, 15 Oct 2026.
 
-Boyfriend co-op is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including DJ girlcrush, HEYFAYBAE, Janus Rose and masha latte and 2 more. Browse upcoming dates, start times and who's playing. 1157 Myrtle Ave, Brooklyn, NY 11206.
+Boyfriend co-op is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including DJ girlcrush, HEYFAYBAE, Janus Rose and masha latte and 2 more. See dates, start times and who's playing. 1157 Myrtle Ave, Brooklyn, NY 11206.
 
 ## What's on
 

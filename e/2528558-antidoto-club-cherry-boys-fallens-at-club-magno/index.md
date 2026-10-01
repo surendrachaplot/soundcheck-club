@@ -1,6 +1,6 @@
 # Antidoto Club: Cherry Boys + Fallens at Club Magno
 
-Antidoto Club: Cherry Boys + Fallens at Club Magno on Thu 3 Dec, Madrid. Baile Funk and Electronica. Preview the line-up and save it on soundcheck.
+Antidoto Club: Cherry Boys + Fallens at Club Magno on Thu 3 Dec, Madrid. Baile Funk and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

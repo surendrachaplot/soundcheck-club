@@ -1,6 +1,6 @@
 # SYNERGY RAVE x Trance + Hard Techno at Das Werk
 
-SYNERGY RAVE x Trance + Hard Techno at Das Werk on Fri 16 Oct, Vienna. Trance and Techno. Preview the line-up and save it on soundcheck.
+SYNERGY RAVE x Trance + Hard Techno at Das Werk on Fri 16 Oct, Vienna. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

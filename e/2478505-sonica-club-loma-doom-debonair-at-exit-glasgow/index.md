@@ -1,6 +1,6 @@
 # Sonica Club - Loma Doom / DEBONAIR at EXIT Glasgow
 
-Sonica Club - Loma Doom / DEBONAIR at EXIT Glasgow on Fri 2 Oct, Glasgow. 2 artists on the bill: DEBONAIR and Loma Doom. Techno and Electro. Preview the line-up and save it on soundcheck.
+Sonica Club - Loma Doom / DEBONAIR at EXIT Glasgow on Fri 2 Oct, Glasgow. 2 artists: DEBONAIR and Loma Doom. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

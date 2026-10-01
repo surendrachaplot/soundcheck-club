@@ -1,6 +1,6 @@
 # Cocoon at Cité De La Musique
 
-Cocoon at Cité De La Musique on Sat 12 Dec, Paris. Pop. Preview the line-up and save it on soundcheck.
+Cocoon at Cité De La Musique on Sat 12 Dec, Paris. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

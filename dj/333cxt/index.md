@@ -1,8 +1,8 @@
 # 333CXT
 
-333CXT is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bootshaus, Cologne on Fri, 2 Oct 2026.
+333CXT is a Techno and Industrial artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bootshaus, Cologne on Fri, 2 Oct 2026.
 
-333CXT is a techno and industrial artist based in Germany, tracked on soundcheck, with 19 sets logged across Antwerp, Berlin, Cologne and Glasgow and 3 more. Often billed alongside VECTA, FennX and SOLID. Next up: Bootshaus, Cologne on Fri 2 Oct.
+333CXT is a techno and industrial artist based in Germany, with 19 gigs on soundcheck across Antwerp, Berlin, Cologne and Glasgow and 3 more. Often billed alongside VECTA, FennX and SOLID. Next up: Bootshaus, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@
 
 ## Recently played
 
-- Room 2 Glasgow, Glasgow — Sat, 15 Aug 2026
-- Tranzit, Hamburg — Fri, 10 Apr 2026
-- Club Vaag, Antwerp — Sat, 14 Feb 2026
-- Tranzit, Hamburg — Sat, 17 Jan 2026
-- DNA Club, Munich — Fri, 7 Nov 2025
-- Uebel & Gefährlich, Hamburg — Thu, 2 Oct 2025
-- Tranzit, Hamburg — Fri, 12 Sept 2025
-- Club Vaag, Antwerp — Fri, 18 Jul 2025
+- Room 2 Glasgow, Glasgow · Sat, 15 Aug 2026
+- Tranzit, Hamburg · Fri, 10 Apr 2026
+- Club Vaag, Antwerp · Sat, 14 Feb 2026
+- Tranzit, Hamburg · Sat, 17 Jan 2026
+- DNA Club, Munich · Fri, 7 Nov 2025
+- Uebel & Gefährlich, Hamburg · Thu, 2 Oct 2025
+- Tranzit, Hamburg · Fri, 12 Sept 2025
+- Club Vaag, Antwerp · Fri, 18 Jul 2025
 
 ## Shares bills with
 

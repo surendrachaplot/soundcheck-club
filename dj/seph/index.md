@@ -1,8 +1,8 @@
 # Seph
 
-Seph is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat, 10 Oct 2026.
+Seph is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat, 10 Oct 2026.
 
-Seph is a techno and club artist based in Argentina, tracked on soundcheck, with 7 sets logged across Buenos Aires and Leeds. Often billed alongside Bruno Caro, Cia Rebeck and Ciel. Next up: Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat 10 Oct.
+Seph is a techno and club artist based in Argentina, with 7 gigs on soundcheck across Buenos Aires and Leeds. Often billed alongside Bruno Caro, Cia Rebeck and Ciel. Next up: Nomad Warehouse // Galpón Mercedes Sosa, Buenos Aires on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Seph is a techno and club artist based in Argentina, tracked on soundcheck, with
 
 ## Recently played
 
-- Melt Underground, Buenos Aires — Sat, 19 Sept 2026
-- TBA - MICROCENTRO., Buenos Aires — Sat, 7 Dec 2024
-- Deseo BS AS, Buenos Aires — Sat, 5 Oct 2024
-- TBA - PACHECO (ZONA NORTE), Buenos Aires — Sat, 14 Sept 2024
-- Otra Historia Club Cultural, Buenos Aires — Sat, 3 Aug 2024
-- The Old Red Bus Station, Leeds — Sat, 23 Mar 2024
+- Melt Underground, Buenos Aires · Sat, 19 Sept 2026
+- TBA - MICROCENTRO., Buenos Aires · Sat, 7 Dec 2024
+- Deseo BS AS, Buenos Aires · Sat, 5 Oct 2024
+- TBA - PACHECO (ZONA NORTE), Buenos Aires · Sat, 14 Sept 2024
+- Otra Historia Club Cultural, Buenos Aires · Sat, 3 Aug 2024
+- The Old Red Bus Station, Leeds · Sat, 23 Mar 2024
 
 ## Shares bills with
 

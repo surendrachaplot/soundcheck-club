@@ -1,6 +1,6 @@
 # Nils Hoffmann at MS Stubnitz
 
-Nils Hoffmann at MS Stubnitz on Sat 13 Mar, Hamburg. 1 artist on the bill: Nils Hoffmann. Preview the line-up and save it on soundcheck.
+Nils Hoffmann at MS Stubnitz on Sat 13 Mar, Hamburg. 1 artist: Nils Hoffmann. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

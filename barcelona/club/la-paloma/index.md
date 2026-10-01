@@ -1,8 +1,8 @@
 # La Paloma
 
-La Paloma is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "La Paloma meets Toy Tonics: Stump Valley, ALOT, Sam Ruffillo, Gee Lane" on Fri, 2 Oct 2026.
+La Paloma is a music venue in Barcelona with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "La Paloma meets Toy Tonics: Stump Valley, ALOT, Sam Ruffillo, Gee Lane" on Fri, 2 Oct 2026.
 
-La Paloma is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Alinka, ALOT, Chez Damier and Coco Maria and 2 more. Browse upcoming dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
+La Paloma is a music venue in Barcelona listed on soundcheck. 9 upcoming gigs, with line-ups including Alinka, ALOT, Chez Damier and Coco Maria and 2 more. See dates, start times and who's playing. Calle Tigre 27, 08001 Barcelona.
 
 ## What's on
 

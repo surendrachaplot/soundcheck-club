@@ -1,6 +1,6 @@
 # Sunday Love: Xinobi - Mettabbana - AHardR at Flash
 
-Sunday Love: Xinobi - Mettabbana - AHardR at Flash on Sun 4 Oct, Washington DC. 2 artists on the bill: Mettabbana and Xinobi. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Love: Xinobi - Mettabbana - AHardR at Flash on Sun 4 Oct, Washington DC. 2 artists: Mettabbana and Xinobi. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

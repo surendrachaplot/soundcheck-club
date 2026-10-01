@@ -1,6 +1,6 @@
 # Transition: Idealist [LIVE] at Paloma
 
-Transition: Idealist [LIVE] at Paloma on Sun 7 Feb, Berlin. 2 artists on the bill: eterna_l and Idealist. Preview the line-up and save it on soundcheck.
+Transition: Idealist [LIVE] at Paloma on Sun 7 Feb, Berlin. 2 artists: eterna_l and Idealist. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

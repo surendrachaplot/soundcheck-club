@@ -1,8 +1,8 @@
 # MC Det
 
-MC Det is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+MC Det is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
-MC Det is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Birmingham, Brighton, Bristol and Hamburg and 3 more. Often billed alongside DJ Brockie, The Ragga Twins and Nicky Blackmarket. Next up: NOWHERE, Manchester on Sat 3 Oct.
+MC Det is a jungle and drum & bass artist based in United Kingdom, with 49 gigs on soundcheck across Birmingham, Brighton, Bristol and Hamburg and 3 more. Often billed alongside DJ Brockie, The Ragga Twins and Nicky Blackmarket. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ MC Det is a jungle and drum & bass artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Fire, London — Sat, 26 Sept 2026
-- Eutopia Whs, London — Sat, 5 Sept 2026
-- Riverside East, London — Sat, 15 Aug 2026
-- Eutopia Warehouse, London — Sat, 18 Jul 2026
-- The Star Of Kings, London — Sat, 25 Apr 2026
-- Brixton Jamm, London — Sat, 11 Apr 2026
-- E1, London — Sat, 4 Apr 2026
-- The Fox and Firkin, London — Thu, 2 Apr 2026
+- Fire, London · Sat, 26 Sept 2026
+- Eutopia Whs, London · Sat, 5 Sept 2026
+- Riverside East, London · Sat, 15 Aug 2026
+- Eutopia Warehouse, London · Sat, 18 Jul 2026
+- The Star Of Kings, London · Sat, 25 Apr 2026
+- Brixton Jamm, London · Sat, 11 Apr 2026
+- E1, London · Sat, 4 Apr 2026
+- The Fox and Firkin, London · Thu, 2 Apr 2026
 
 ## Shares bills with
 

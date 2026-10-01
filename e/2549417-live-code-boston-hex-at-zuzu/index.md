@@ -1,6 +1,6 @@
 # Live Code Boston: HEX at Zuzu
 
-Live Code Boston: HEX at Zuzu on Fri 2 Oct, Boston. Electronica. Preview the line-up and save it on soundcheck.
+Live Code Boston: HEX at Zuzu on Fri 2 Oct, Boston. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

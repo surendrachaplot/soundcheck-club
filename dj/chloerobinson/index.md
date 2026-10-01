@@ -1,8 +1,8 @@
 # Chloé Robinson
 
-Chloé Robinson is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at fabric, London on Fri, 30 Oct 2026.
+Chloé Robinson is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Fri, 30 Oct 2026.
 
-Chloé Robinson is a house and techno artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside DJ ADHD, Nikki Nair and Four Tet. Next up: fabric, London on Fri 30 Oct.
+Chloé Robinson is a house and techno artist based in United Kingdom, with 102 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 35 more. Often billed alongside DJ ADHD, Nikki Nair and Four Tet. Next up: fabric, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Chloé Robinson is a house and techno artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- The Dragonfly, Los Angeles — Sat, 11 Jul 2026
-- Smoke & Mirrors, Chicago — Wed, 1 Jul 2026
-- Soup, Manchester — Sat, 9 May 2026
-- UNLOCKED, London — Thu, 9 Apr 2026
-- Romantso, Athens — Sat, 21 Mar 2026
-- Dragonfly Hollywood, Los Angeles — Sun, 1 Mar 2026
-- M.O.T, London — Fri, 27 Feb 2026
-- Public Works, San Francisco/Oakland — Sat, 10 Jan 2026
+- The Dragonfly, Los Angeles · Sat, 11 Jul 2026
+- Smoke & Mirrors, Chicago · Wed, 1 Jul 2026
+- Soup, Manchester · Sat, 9 May 2026
+- UNLOCKED, London · Thu, 9 Apr 2026
+- Romantso, Athens · Sat, 21 Mar 2026
+- Dragonfly Hollywood, Los Angeles · Sun, 1 Mar 2026
+- M.O.T, London · Fri, 27 Feb 2026
+- Public Works, San Francisco/Oakland · Sat, 10 Jan 2026
 
 ## Shares bills with
 

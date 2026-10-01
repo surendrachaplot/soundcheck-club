@@ -1,6 +1,6 @@
 # Vybz Kartel - Bashment Party at The Lighthouse Club
 
-Vybz Kartel - Bashment Party at The Lighthouse Club on Fri 2 Oct, London. 1 artist on the bill: Vybz Kartel. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+Vybz Kartel - Bashment Party at The Lighthouse Club on Fri 2 Oct, London. 1 artist: Vybz Kartel. Hip-Hop and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

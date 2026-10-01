@@ -1,6 +1,6 @@
 # EDC Colombia at Unidad Deportiva Atanasio Girardot
 
-EDC Colombia at Unidad Deportiva Atanasio Girardot on Sat 10 Oct, Medellin. 69 artists on the bill: Afrojack, AISHA, Alesso and Alok and 65 more. Preview the line-up and save it on soundcheck.
+EDC Colombia at Unidad Deportiva Atanasio Girardot on Sat 10 Oct, Medellin. 69 artists: Afrojack, AISHA, Alesso and Alok and 65 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

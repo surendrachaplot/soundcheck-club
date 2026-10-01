@@ -1,6 +1,6 @@
 # George Clanton at Black Cat
 
-George Clanton at Black Cat on Sat 7 Nov, Washington DC. 2 artists on the bill: George Clanton and Ryan Hemsworth. Electro and Post-Punk. Preview the line-up and save it on soundcheck.
+George Clanton at Black Cat on Sat 7 Nov, Washington DC. 2 artists: George Clanton and Ryan Hemsworth. Electro and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

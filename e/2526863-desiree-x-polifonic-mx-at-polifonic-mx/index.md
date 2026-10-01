@@ -1,6 +1,6 @@
 # DESIREE X POLIFONIC.MX at Polifonic.MX
 
-DESIREE X POLIFONIC.MX at Polifonic.MX on Thu 19 Nov, Guadalajara. 1 artist on the bill: DESIREE (RSA). Preview the line-up and save it on soundcheck.
+DESIREE X POLIFONIC.MX at Polifonic.MX on Thu 19 Nov, Guadalajara. 1 artist: DESIREE (RSA). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

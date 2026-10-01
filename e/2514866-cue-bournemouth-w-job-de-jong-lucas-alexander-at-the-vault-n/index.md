@@ -1,6 +1,6 @@
 # CUE Bournemouth w. Job de Jong & Lucas Alexander at The Vault Nightclub Bournemouth
 
-CUE Bournemouth w. Job de Jong & Lucas Alexander at The Vault Nightclub Bournemouth on Fri 30 Oct, South East. 2 artists on the bill: Job de Jong and Lucas Alexander. Preview the line-up and save it on soundcheck.
+CUE Bournemouth w. Job de Jong & Lucas Alexander at The Vault Nightclub Bournemouth on Fri 30 Oct, South East. 2 artists: Job de Jong and Lucas Alexander. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

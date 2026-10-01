@@ -1,8 +1,8 @@
 # ISAbella
 
-ISAbella is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fvtvr, Paris on Fri, 2 Oct 2026.
+ISAbella is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fvtvr, Paris on Fri, 2 Oct 2026.
 
-ISAbella is a house and techno artist based in Colombia, tracked on soundcheck, with 261 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 45 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Fvtvr, Paris on Fri 2 Oct.
+ISAbella is a house and techno artist based in Colombia, with 261 gigs on soundcheck across Amsterdam, Antwerp, Bali and Bangkok and 45 more. Often billed alongside Roza Terenzi, BASHKKA and Gabrielle Kwarteng. Next up: Fvtvr, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ ISAbella is a house and techno artist based in Colombia, tracked on soundcheck, 
 
 ## Recently played
 
-- Fvtvr, Paris — Wed, 30 Sept 2026
-- Depot Mayfield, Manchester — Sat, 26 Sept 2026
-- Auditorium Parco della Musica, Rome — Sat, 12 Sept 2026
-- KREUZWERK, Berlin — Sat, 12 Sept 2026
-- Palais, London — Sat, 5 Sept 2026
-- DC-10, Ibiza — Mon, 17 Aug 2026
-- Backsteinboot, Berlin — Sat, 15 Aug 2026
-- TILLATEC, Amsterdam — Sun, 2 Aug 2026
+- Fvtvr, Paris · Wed, 30 Sept 2026
+- Depot Mayfield, Manchester · Sat, 26 Sept 2026
+- Auditorium Parco della Musica, Rome · Sat, 12 Sept 2026
+- KREUZWERK, Berlin · Sat, 12 Sept 2026
+- Palais, London · Sat, 5 Sept 2026
+- DC-10, Ibiza · Mon, 17 Aug 2026
+- Backsteinboot, Berlin · Sat, 15 Aug 2026
+- TILLATEC, Amsterdam · Sun, 2 Aug 2026
 
 ## Shares bills with
 

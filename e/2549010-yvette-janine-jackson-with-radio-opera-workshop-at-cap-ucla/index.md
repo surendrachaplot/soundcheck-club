@@ -1,6 +1,6 @@
 # Yvette Janine Jackson with Radio Opera Workshop at CAP Ucla Nimoy Theater
 
-Yvette Janine Jackson with Radio Opera Workshop at CAP Ucla Nimoy Theater on Fri 2 Oct, Los Angeles. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Yvette Janine Jackson with Radio Opera Workshop at CAP Ucla Nimoy Theater on Fri 2 Oct, Los Angeles. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

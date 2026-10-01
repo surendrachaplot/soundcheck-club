@@ -1,6 +1,6 @@
 # SUPERNOVA at Akasha Las Dalias Club - Ibiza
 
-SUPERNOVA at Akasha Las Dalias Club - Ibiza on Sat 24 Oct, Ibiza. 5 artists on the bill: Cameron Jack, Momoda, Oriol Calvo and Supernova and 1 more. Preview the line-up and save it on soundcheck.
+SUPERNOVA at Akasha Las Dalias Club - Ibiza on Sat 24 Oct, Ibiza. 5 artists: Cameron Jack, Momoda, Oriol Calvo and Supernova and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

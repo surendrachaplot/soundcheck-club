@@ -1,6 +1,6 @@
 # OPEN DECKS FOR FLINTA* PING PONG FOR ALL at Crack Bellmer
 
-OPEN DECKS FOR FLINTA* PING PONG FOR ALL at Crack Bellmer on Wed 14 Oct, Berlin. Preview the line-up and save it on soundcheck.
+OPEN DECKS FOR FLINTA* PING PONG FOR ALL at Crack Bellmer on Wed 14 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

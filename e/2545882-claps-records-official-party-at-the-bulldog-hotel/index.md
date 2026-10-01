@@ -1,6 +1,6 @@
 # Claps Records Official Party at The Bulldog Hotel
 
-Claps Records Official Party at The Bulldog Hotel on Fri 23 Oct, Amsterdam. 4 artists on the bill: BADBOX, El Mukuka, Jigar and Pascal Morais. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Claps Records Official Party at The Bulldog Hotel on Fri 23 Oct, Amsterdam. 4 artists: BADBOX, El Mukuka, Jigar and Pascal Morais. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

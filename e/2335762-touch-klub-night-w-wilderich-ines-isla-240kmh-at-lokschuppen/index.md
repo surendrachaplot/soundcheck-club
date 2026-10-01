@@ -1,6 +1,6 @@
 # TOUCHÉ KLUB NIGHT w. Wilderich, ines isla (240KMH) at Lokschuppen Berlin
 
-TOUCHÉ KLUB NIGHT w. Wilderich, ines isla (240KMH) at Lokschuppen Berlin on Sat 7 Nov, Berlin. 7 artists on the bill: FANK, Filialleiter, ines isla and Josiane and 3 more. Preview the line-up and save it on soundcheck.
+TOUCHÉ KLUB NIGHT w. Wilderich, ines isla (240KMH) at Lokschuppen Berlin on Sat 7 Nov, Berlin. 7 artists: FANK, Filialleiter, ines isla and Josiane and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LOOSE JOINTS presents… Brawther at Movers
 
-LOOSE JOINTS presents… Brawther at Movers on Sat 21 Nov, Nottingham. 2 artists on the bill: Alex Traska and Brawther. House and Deep House. Preview the line-up and save it on soundcheck.
+LOOSE JOINTS presents… Brawther at Movers on Sat 21 Nov, Nottingham. 2 artists: Alex Traska and Brawther. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

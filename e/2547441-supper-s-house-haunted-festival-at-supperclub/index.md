@@ -1,6 +1,6 @@
 # Supper's House Haunted Festival at Supperclub
 
-Supper's House Haunted Festival at Supperclub on Sat 31 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+Supper's House Haunted Festival at Supperclub on Sat 31 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

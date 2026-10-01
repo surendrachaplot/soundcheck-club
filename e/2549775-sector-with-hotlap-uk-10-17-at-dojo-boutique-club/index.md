@@ -1,6 +1,6 @@
 # SECTOR with HotLap (UK) 10.17 at Dojo Boutique Club
 
-SECTOR with HotLap (UK) 10.17 at Dojo Boutique Club on Sat 17 Oct, Budapest. 2 artists on the bill: Budai House Clique and HotLap. House and Afro House. Preview the line-up and save it on soundcheck.
+SECTOR with HotLap (UK) 10.17 at Dojo Boutique Club on Sat 17 Oct, Budapest. 2 artists: Budai House Clique and HotLap. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

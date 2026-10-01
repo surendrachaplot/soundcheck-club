@@ -1,8 +1,8 @@
 # Felix Lücke
 
-Felix Lücke is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Felix Lücke is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Felix Lücke is a house and techno artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin, Frankfurt, Greece and Hamburg and 4 more. Often billed alongside Klix, Monti1one and OLIV. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Felix Lücke is a house and techno artist based in Germany, with 21 gigs on soundcheck across Berlin, Frankfurt, Greece and Hamburg and 4 more. Often billed alongside Klix, Monti1one and OLIV. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Felix Lücke is a house and techno artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Tokonoma Club, Frankfurt — Sat, 26 Sept 2026
-- Distillery, Leipzig — Sat, 5 Sept 2026
-- MAD Radio NYC, New York City — Sun, 7 Jun 2026
-- Apollo Studio, New York City — Sun, 24 May 2026
-- Tokonoma Club, Frankfurt — Thu, 30 Apr 2026
-- Porto Pollo, Vienna — Fri, 17 Apr 2026
-- Legal, Munich — Sat, 4 Apr 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Tokonoma Club, Frankfurt · Sat, 26 Sept 2026
+- Distillery, Leipzig · Sat, 5 Sept 2026
+- MAD Radio NYC, New York City · Sun, 7 Jun 2026
+- Apollo Studio, New York City · Sun, 24 May 2026
+- Tokonoma Club, Frankfurt · Thu, 30 Apr 2026
+- Porto Pollo, Vienna · Fri, 17 Apr 2026
+- Legal, Munich · Sat, 4 Apr 2026
 
 ## Shares bills with
 

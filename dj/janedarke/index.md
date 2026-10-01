@@ -1,8 +1,8 @@
 # Jane Darke
 
-Jane Darke is a Techno and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sneaky Pete's, Edinburgh on Fri, 16 Oct 2026.
+Jane Darke is a Techno and EBM artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sneaky Pete's, Edinburgh on Fri, 16 Oct 2026.
 
-Jane Darke is a techno and ebm artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Brighton, Edinburgh and London. Often billed alongside JON KRIEGER, Arrosa and Claudia Kane. Next up: Sneaky Pete's, Edinburgh on Fri 16 Oct.
+Jane Darke is a techno and ebm artist based in United Kingdom, with 20 gigs on soundcheck across Brighton, Edinburgh and London. Often billed alongside JON KRIEGER, Arrosa and Claudia Kane. Next up: Sneaky Pete's, Edinburgh on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Jane Darke is a techno and ebm artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Battersea Barge, London — Sun, 9 Aug 2026
-- radial, London — Fri, 7 Aug 2026
-- Groovetank Live, London — Sun, 31 May 2026
-- The Waiting Room, London — Fri, 1 May 2026
-- The Old Church, London — Sat, 18 Apr 2026
-- The Old Church, London — Sat, 21 Feb 2026
-- Volks, Brighton — Fri, 3 Oct 2025
-- Volks, Brighton — Fri, 3 Oct 2025
+- Battersea Barge, London · Sun, 9 Aug 2026
+- radial, London · Fri, 7 Aug 2026
+- Groovetank Live, London · Sun, 31 May 2026
+- The Waiting Room, London · Fri, 1 May 2026
+- The Old Church, London · Sat, 18 Apr 2026
+- The Old Church, London · Sat, 21 Feb 2026
+- Volks, Brighton · Fri, 3 Oct 2025
+- Volks, Brighton · Fri, 3 Oct 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # One Foot in the Rave - 3rd Birthday at Dalston Den
 
-One Foot in the Rave - 3rd Birthday at Dalston Den on Sat 24 Oct, London. 4 artists on the bill: AMAR (UK), bubushko, David Ramsay and Yazmin (UK). Techno. Preview the line-up and save it on soundcheck.
+One Foot in the Rave - 3rd Birthday at Dalston Den on Sat 24 Oct, London. 4 artists: AMAR (UK), bubushko, David Ramsay and Yazmin (UK). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

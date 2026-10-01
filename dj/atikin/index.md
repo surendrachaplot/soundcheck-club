@@ -1,8 +1,8 @@
 # ATIKIN
 
-ATIKIN is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
+ATIKIN is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - telegram @klangsubstanz, Berlin on Sat, 10 Oct 2026.
 
-ATIKIN is a tech house and techno artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin. Often billed alongside Fuunkt, 3ple Kix and Dean (UK). Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
+ATIKIN is a tech house and techno artist based in Germany, with 10 gigs on soundcheck across Berlin. Often billed alongside Fuunkt, 3ple Kix and Dean (UK). Next up: TBA - telegram @klangsubstanz, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ATIKIN is a tech house and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Crack Bellmer, Berlin — Sat, 18 Oct 2025
-- TBA - Telegram: @KlangSubsTanz, Berlin — Sat, 11 Oct 2025
-- Crack Bellmer, Berlin — Sat, 15 Feb 2025
-- Humboldthain Club, Berlin — Sat, 1 Feb 2025
-- TBA - Secret location in Neukölln, Berlin — Fri, 6 Dec 2024
-- Crack Bellmer, Berlin — Thu, 21 Nov 2024
-- TBA - Secret location in Neukölln, Berlin — Sat, 12 Oct 2024
-- Dream Baby Dream, Berlin — Sat, 25 May 2024
+- Crack Bellmer, Berlin · Sat, 18 Oct 2025
+- TBA - Telegram: @KlangSubsTanz, Berlin · Sat, 11 Oct 2025
+- Crack Bellmer, Berlin · Sat, 15 Feb 2025
+- Humboldthain Club, Berlin · Sat, 1 Feb 2025
+- TBA - Secret location in Neukölln, Berlin · Fri, 6 Dec 2024
+- Crack Bellmer, Berlin · Thu, 21 Nov 2024
+- TBA - Secret location in Neukölln, Berlin · Sat, 12 Oct 2024
+- Dream Baby Dream, Berlin · Sat, 25 May 2024
 
 ## Shares bills with
 

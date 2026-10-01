@@ -1,8 +1,8 @@
 # Ben Jammin
 
-Ben Jammin is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Ben Jammin is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-Ben Jammin is a house and disco artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Belgrade, Bristol, Glasgow and London and 1 more. Often billed alongside Solartrak, Wolf Auris and Al Gray. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Ben Jammin is a house and disco artist based in United Kingdom, with 18 gigs on soundcheck across Belgrade, Bristol, Glasgow and London and 1 more. Often billed alongside Solartrak, Wolf Auris and Al Gray. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ben Jammin is a house and disco artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- 93 Feet East, London — Sat, 2 May 2026
-- Fire & Lightbox, London — Sat, 1 Nov 2025
-- 93 Feet East, London — Sat, 2 Nov 2024
-- 93 Feet East, London — Sat, 27 Jul 2024
-- The Classic Grand, Glasgow — Sat, 11 May 2024
-- 93 Feet East, London — Sat, 10 Feb 2024
-- Two More Years, London — Sat, 10 Feb 2024
-- Egg London, London — Sat, 28 Oct 2023
+- 93 Feet East, London · Sat, 2 May 2026
+- Fire & Lightbox, London · Sat, 1 Nov 2025
+- 93 Feet East, London · Sat, 2 Nov 2024
+- 93 Feet East, London · Sat, 27 Jul 2024
+- The Classic Grand, Glasgow · Sat, 11 May 2024
+- 93 Feet East, London · Sat, 10 Feb 2024
+- Two More Years, London · Sat, 10 Feb 2024
+- Egg London, London · Sat, 28 Oct 2023
 
 ## Shares bills with
 

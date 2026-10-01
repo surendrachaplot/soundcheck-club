@@ -1,6 +1,6 @@
 # L'Ambiance: Nørbak at Liquid Club
 
-L'Ambiance: Nørbak at Liquid Club on Sat 14 Nov, Malta. 3 artists on the bill: GVZ, Nørbak and Razz (MT). Techno. Preview the line-up and save it on soundcheck.
+L'Ambiance: Nørbak at Liquid Club on Sat 14 Nov, Malta. 3 artists: GVZ, Nørbak and Razz (MT). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

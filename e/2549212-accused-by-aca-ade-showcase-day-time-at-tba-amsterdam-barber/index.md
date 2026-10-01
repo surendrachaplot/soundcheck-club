@@ -1,6 +1,6 @@
 # ACCUSED BY ACA - ADE Showcase (DAY TIME) at TBA - AMSTERDAM BARBER COMPANY
 
-ACCUSED BY ACA - ADE Showcase (DAY TIME) at TBA - AMSTERDAM BARBER COMPANY on Sat 24 Oct, Amsterdam. 7 artists on the bill: ACA (YU), Capron, Jesse Maas and Lauren Steel and 3 more. House and Minimal. Preview the line-up and save it on soundcheck.
+ACCUSED BY ACA - ADE Showcase (DAY TIME) at TBA - AMSTERDAM BARBER COMPANY on Sat 24 Oct, Amsterdam. 7 artists: ACA (YU), Capron, Jesse Maas and Lauren Steel and 3 more. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Checa + RDS at Doggy Klœb
 
-Checa + RDS at Doggy Klœb on Sat 10 Oct, Malaga. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+Checa + RDS at Doggy Klœb on Sat 10 Oct, Malaga. Breakbeat and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

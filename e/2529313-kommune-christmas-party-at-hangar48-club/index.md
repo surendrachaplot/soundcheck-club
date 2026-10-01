@@ -1,6 +1,6 @@
 # Kommune Christmas party at Hangar48 Club
 
-Kommune Christmas party at Hangar48 Club on Fri 25 Dec, Madrid. Preview the line-up and save it on soundcheck.
+Kommune Christmas party at Hangar48 Club on Fri 25 Dec, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

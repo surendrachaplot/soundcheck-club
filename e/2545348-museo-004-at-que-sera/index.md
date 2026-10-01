@@ -1,6 +1,6 @@
 # MUSEO 004 at Que Sera
 
-MUSEO 004 at Que Sera on Fri 23 Oct, Los Angeles. 2 artists on the bill: Hexagon and Shay De Castro. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+MUSEO 004 at Que Sera on Fri 23 Oct, Los Angeles. 2 artists: Hexagon and Shay De Castro. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Halloween - 30 October 2026 at Cabo Beach Club
 
-Halloween - 30 October 2026 at Cabo Beach Club on Fri 30 Oct, Cape Town. 2 artists on the bill: DBN Gogo and Thakzin. Preview the line-up and save it on soundcheck.
+Halloween - 30 October 2026 at Cabo Beach Club on Fri 30 Oct, Cape Town. 2 artists: DBN Gogo and Thakzin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

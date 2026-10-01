@@ -1,8 +1,8 @@
 # Shinobi
 
-Shinobi is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ZeyZey, Miami on Thu, 8 Oct 2026.
+Shinobi is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ZeyZey, Miami on Thu, 8 Oct 2026.
 
-Shinobi is a drum & bass and jungle artist based in United States of America, tracked on soundcheck, with 27 sets logged across Brighton, Melbourne, Miami and New York City and 3 more. Often billed alongside Berrakka, Marie Qrie and SATURNSARii. Next up: ZeyZey, Miami on Thu 8 Oct.
+Shinobi is a drum & bass and jungle artist based in United States of America, with 27 gigs on soundcheck across Brighton, Melbourne, Miami and New York City and 3 more. Often billed alongside Berrakka, Marie Qrie and SATURNSARii. Next up: ZeyZey, Miami on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Shinobi is a drum & bass and jungle artist based in United States of America, tr
 
 ## Recently played
 
-- The Ground at Club Space, Miami — Fri, 22 May 2026
-- Factory Town, Miami — Sat, 18 Apr 2026
-- Rosso, Seoul — Sat, 15 Nov 2025
-- Volks, Brighton — Fri, 7 Nov 2025
-- The Ground at Club Space, Miami — Thu, 31 Jul 2025
-- Starr Bar, New York City — Sat, 26 Jul 2025
-- TBA - Rabbit Hole upstairs, New York City — Sat, 12 Jul 2025
-- The Ground at Club Space, Miami — Thu, 8 May 2025
+- The Ground at Club Space, Miami · Fri, 22 May 2026
+- Factory Town, Miami · Sat, 18 Apr 2026
+- Rosso, Seoul · Sat, 15 Nov 2025
+- Volks, Brighton · Fri, 7 Nov 2025
+- The Ground at Club Space, Miami · Thu, 31 Jul 2025
+- Starr Bar, New York City · Sat, 26 Jul 2025
+- TBA - Rabbit Hole upstairs, New York City · Sat, 12 Jul 2025
+- The Ground at Club Space, Miami · Thu, 8 May 2025
 
 ## Shares bills with
 

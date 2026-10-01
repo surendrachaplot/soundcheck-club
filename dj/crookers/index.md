@@ -1,8 +1,8 @@
 # Crookers
 
-Crookers is a Electro and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
+Crookers is a Electro and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kompass Klub, Ghent on Sat, 21 Nov 2026.
 
-Crookers is an electro and hip-hop artist based in Italy, tracked on soundcheck, with 10 sets logged across Brisbane, Ghent, Melbourne and Milan and 2 more. Often billed alongside Booka Shade, Riva Starr and Sinden. Next up: Kompass Klub, Ghent on Sat 21 Nov.
+Crookers is an electro and hip-hop artist based in Italy, with 10 gigs on soundcheck across Brisbane, Ghent, Melbourne and Milan and 2 more. Often billed alongside Booka Shade, Riva Starr and Sinden. Next up: Kompass Klub, Ghent on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Crookers is an electro and hip-hop artist based in Italy, tracked on soundcheck,
 
 ## Recently played
 
-- White Bay Power Station, Sydney — Sat, 25 Jul 2026
-- The Timber Yard, Melbourne — Sat, 18 Jul 2026
-- Superordinary, Brisbane — Fri, 17 Jul 2026
-- Giardini Argonne - Campi da Basket, Milan — Sat, 16 May 2026
-- Enter Shibuya, Tokyo — Thu, 15 May 2025
-- Castello Sforzesco, Milan — Sat, 15 Jun 2024
-- Arca, Milan — Thu, 23 Nov 2023
-- Circolo Magnolia, Milan — Fri, 14 Apr 2023
+- White Bay Power Station, Sydney · Sat, 25 Jul 2026
+- The Timber Yard, Melbourne · Sat, 18 Jul 2026
+- Superordinary, Brisbane · Fri, 17 Jul 2026
+- Giardini Argonne - Campi da Basket, Milan · Sat, 16 May 2026
+- Enter Shibuya, Tokyo · Thu, 15 May 2025
+- Castello Sforzesco, Milan · Sat, 15 Jun 2024
+- Arca, Milan · Thu, 23 Nov 2023
+- Circolo Magnolia, Milan · Fri, 14 Apr 2023
 
 ## Shares bills with
 

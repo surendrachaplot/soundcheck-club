@@ -1,6 +1,6 @@
 # All My Friends at The Lido
 
-All My Friends at The Lido on Sat 3 Oct, Vancouver. Disco and Electronica. Preview the line-up and save it on soundcheck.
+All My Friends at The Lido on Sat 3 Oct, Vancouver. Disco and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

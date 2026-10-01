@@ -1,6 +1,6 @@
 # Fuchs b2b CERVUS (4 HOURS EXTENDED SET) + KAAN OKTM + Fault at Kastel
 
-Fuchs b2b CERVUS (4 HOURS EXTENDED SET) + KAAN OKTM + Fault at Kastel on Sat 17 Oct, Istanbul. 2 artists on the bill: Fault and Fuchs. House. Preview the line-up and save it on soundcheck.
+Fuchs b2b CERVUS (4 HOURS EXTENDED SET) + KAAN OKTM + Fault at Kastel on Sat 17 Oct, Istanbul. 2 artists: Fault and Fuchs. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

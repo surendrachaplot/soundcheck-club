@@ -1,8 +1,8 @@
 # Luzinka
 
-Luzinka is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amp, Munster on Fri, 2 Oct 2026.
+Luzinka is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amp, Munster on Fri, 2 Oct 2026.
 
-Luzinka is a trance and techno artist based in Germany, tracked on soundcheck, with 2 sets logged across Munster. Often billed alongside DJ YARAK, DJ Zugzwang and Delm. Next up: Amp, Munster on Fri 2 Oct.
+Luzinka is a trance and techno artist based in Germany, with 2 gigs on soundcheck across Munster. Often billed alongside DJ YARAK, DJ Zugzwang and Delm. Next up: Amp, Munster on Fri 2 Oct.
 
 ## Upcoming shows
 

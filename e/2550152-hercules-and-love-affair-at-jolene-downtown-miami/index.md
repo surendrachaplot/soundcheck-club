@@ -1,6 +1,6 @@
 # Hercules and Love Affair at Jolene Downtown Miami
 
-Hercules and Love Affair at Jolene Downtown Miami on Fri 30 Oct, Miami. 3 artists on the bill: Aramís Lorié, Hercules & Love Affair and Terence Tabeau. House and Disco. Preview the line-up and save it on soundcheck.
+Hercules and Love Affair at Jolene Downtown Miami on Fri 30 Oct, Miami. 3 artists: Aramís Lorié, Hercules & Love Affair and Terence Tabeau. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

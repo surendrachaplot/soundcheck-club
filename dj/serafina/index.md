@@ -1,8 +1,8 @@
 # Serafina
 
-Serafina is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Schrotty, Cologne on Fri, 9 Oct 2026.
+Serafina is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Fri, 9 Oct 2026.
 
-Serafina is a techno and trance artist based in Germany, tracked on soundcheck, with 169 sets logged across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Schrotty, Cologne on Fri 9 Oct.
+Serafina is a techno and trance artist based in Germany, with 169 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 46 more. Often billed alongside Adrian Mills, fumi (DE) and Cloudy. Next up: Schrotty, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Serafina is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- The Ivy, Sydney — Sat, 26 Sept 2026
-- Maitland Showground, Sydney — Fri, 25 Sept 2026
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
-- Son Fusteret, Mallorca — Sat, 19 Sept 2026
-- Else, Berlin — Fri, 18 Sept 2026
-- Fabrik, Madrid — Sat, 12 Sept 2026
-- Factory Town, Miami — Sun, 6 Sept 2026
+- The Ivy, Sydney · Sat, 26 Sept 2026
+- Maitland Showground, Sydney · Fri, 25 Sept 2026
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
+- Son Fusteret, Mallorca · Sat, 19 Sept 2026
+- Else, Berlin · Fri, 18 Sept 2026
+- Fabrik, Madrid · Sat, 12 Sept 2026
+- Factory Town, Miami · Sun, 6 Sept 2026
 
 ## Shares bills with
 

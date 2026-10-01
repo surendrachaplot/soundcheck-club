@@ -1,6 +1,6 @@
 # Kinky Malinki at O Beach
 
-Kinky Malinki at O Beach on Sun 4 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+Kinky Malinki at O Beach on Sun 4 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

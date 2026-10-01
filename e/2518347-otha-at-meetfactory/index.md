@@ -1,6 +1,6 @@
 # Otha at Meetfactory
 
-Otha at Meetfactory on Sun 4 Oct, Prague. Preview the line-up and save it on soundcheck.
+Otha at Meetfactory on Sun 4 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

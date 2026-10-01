@@ -1,8 +1,8 @@
 # DR Koncerthuset
 
-DR Koncerthuset is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Maribou State (DJ) / DR Koncerthuset, Koncertsalen" on Sat, 7 Nov 2026.
+DR Koncerthuset is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Maribou State (DJ) / DR Koncerthuset, Koncertsalen" on Sat, 7 Nov 2026.
 
-DR Koncerthuset is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Maribou State. Browse upcoming dates, start times and who's playing. Ørestads Blvd. 13, 2300 København.
+DR Koncerthuset is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Maribou State. See dates, start times and who's playing. Ørestads Blvd. 13, 2300 København.
 
 ## What's on
 

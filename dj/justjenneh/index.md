@@ -1,8 +1,8 @@
 # Just Jenneh
 
-Just Jenneh is a R&B artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Evangeline, Toronto on Fri, 2 Oct 2026.
+Just Jenneh is a R&B artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Evangeline, Toronto on Fri, 2 Oct 2026.
 
-Just Jenneh is a r&b artist based in Canada, tracked on soundcheck, with 22 sets logged across Toronto. Often billed alongside SAVVV. Next up: Evangeline, Toronto on Fri 2 Oct.
+Just Jenneh is a r&b artist based in Canada, with 22 gigs on soundcheck across Toronto. Often billed alongside SAVVV. Next up: Evangeline, Toronto on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Just Jenneh is a r&b artist based in Canada, tracked on soundcheck, with 22 sets
 
 ## Recently played
 
-- Evangeline, Toronto — Sat, 26 Sept 2026
-- Evangeline, Toronto — Sat, 19 Sept 2026
-- Evangeline, Toronto — Sat, 12 Sept 2026
-- Evangeline, Toronto — Sat, 5 Sept 2026
-- Evangeline, Toronto — Sat, 28 Mar 2026
-- Evangeline, Toronto — Sat, 21 Mar 2026
-- Evangeline, Toronto — Sat, 14 Mar 2026
-- Evangeline, Toronto — Fri, 6 Mar 2026
+- Evangeline, Toronto · Sat, 26 Sept 2026
+- Evangeline, Toronto · Sat, 19 Sept 2026
+- Evangeline, Toronto · Sat, 12 Sept 2026
+- Evangeline, Toronto · Sat, 5 Sept 2026
+- Evangeline, Toronto · Sat, 28 Mar 2026
+- Evangeline, Toronto · Sat, 21 Mar 2026
+- Evangeline, Toronto · Sat, 14 Mar 2026
+- Evangeline, Toronto · Fri, 6 Mar 2026
 
 ## Shares bills with
 

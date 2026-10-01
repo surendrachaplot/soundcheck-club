@@ -1,6 +1,6 @@
 # RAVING CHARLIE: Hard Techno / Rave at nachbar
 
-RAVING CHARLIE: Hard Techno / Rave at nachbar on Wed 23 Dec, Amsterdam. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+RAVING CHARLIE: Hard Techno / Rave at nachbar on Wed 23 Dec, Amsterdam. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

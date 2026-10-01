@@ -1,8 +1,8 @@
 # George Privatti
 
-George Privatti is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at La Terrrazza, Barcelona on Sat, 17 Oct 2026.
+George Privatti is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 17 Oct 2026.
 
-George Privatti is a tech house and house artist based in Spain, tracked on soundcheck, with 31 sets logged across Barcelona, Bucharest, Buenos Aires and Ibiza and 6 more. Often billed alongside Guille Placencia, Eats Everything and Claptone. Next up: La Terrrazza, Barcelona on Sat 17 Oct.
+George Privatti is a tech house and house artist based in Spain, with 31 gigs on soundcheck across Barcelona, Bucharest, Buenos Aires and Ibiza and 6 more. Often billed alongside Guille Placencia, Eats Everything and Claptone. Next up: La Terrrazza, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ George Privatti is a tech house and house artist based in Spain, tracked on soun
 
 ## Recently played
 
-- City Hall, Barcelona — Sat, 20 Jun 2026
-- Eden, Ibiza — Sun, 10 May 2026
-- Fabrik, Madrid — Thu, 1 Jan 2026
-- [UNVRS], Ibiza — Sat, 2 Aug 2025
-- Fabrik, Madrid — Sat, 28 Jun 2025
-- Boomerang Beach, The Hague — Sat, 3 May 2025
-- Laminor Arena, Bucharest — Sat, 5 Apr 2025
-- LAB theCLUB, Madrid — Sat, 18 Jan 2025
+- City Hall, Barcelona · Sat, 20 Jun 2026
+- Eden, Ibiza · Sun, 10 May 2026
+- Fabrik, Madrid · Thu, 1 Jan 2026
+- [UNVRS], Ibiza · Sat, 2 Aug 2025
+- Fabrik, Madrid · Sat, 28 Jun 2025
+- Boomerang Beach, The Hague · Sat, 3 May 2025
+- Laminor Arena, Bucharest · Sat, 5 Apr 2025
+- LAB theCLUB, Madrid · Sat, 18 Jan 2025
 
 ## Shares bills with
 

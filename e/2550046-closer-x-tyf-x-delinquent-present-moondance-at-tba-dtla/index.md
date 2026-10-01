@@ -1,6 +1,6 @@
 # CLOSER x TYF x DELINQUENT present MOONDANCE at TBA - DTLA
 
-CLOSER x TYF x DELINQUENT present MOONDANCE at TBA - DTLA on Sat 17 Oct, Los Angeles. House and Tech House. Preview the line-up and save it on soundcheck.
+CLOSER x TYF x DELINQUENT present MOONDANCE at TBA - DTLA on Sat 17 Oct, Los Angeles. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

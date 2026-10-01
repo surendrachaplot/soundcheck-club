@@ -1,8 +1,8 @@
 # AVANT
 
-AVANT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
+AVANT is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Het Veronica Schip, Amsterdam on Fri, 23 Oct 2026.
 
-AVANT is a techno and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Cologne and Düsseldorf and 2 more. Often billed alongside Solique, VINTASH and Alchemiah. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
+AVANT is a techno and house artist based in Germany, with 31 gigs on soundcheck across Amsterdam, Berlin, Cologne and Düsseldorf and 2 more. Often billed alongside Solique, VINTASH and Alchemiah. Next up: Het Veronica Schip, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ AVANT is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
-- TBA - Lago Beach Fühlinger See, Cologne — Sun, 12 Jul 2026
-- Frieda's Büxe, Zurich — Fri, 12 Jun 2026
-- Ritter Butzke, Berlin — Sat, 11 Apr 2026
-- Ehrenfeld XL, Cologne — Sat, 28 Mar 2026
-- THE OTHER SIDE, Amsterdam — Sat, 14 Mar 2026
-- Ehrenfeld XL, Cologne — Sat, 25 Oct 2025
-- Helios37, Cologne — Sat, 25 Oct 2025
-- Odonien, Cologne — Sat, 21 Jun 2025
+- TBA - Lago Beach Fühlinger See, Cologne · Sun, 12 Jul 2026
+- Frieda's Büxe, Zurich · Fri, 12 Jun 2026
+- Ritter Butzke, Berlin · Sat, 11 Apr 2026
+- Ehrenfeld XL, Cologne · Sat, 28 Mar 2026
+- THE OTHER SIDE, Amsterdam · Sat, 14 Mar 2026
+- Ehrenfeld XL, Cologne · Sat, 25 Oct 2025
+- Helios37, Cologne · Sat, 25 Oct 2025
+- Odonien, Cologne · Sat, 21 Jun 2025
 
 ## Shares bills with
 

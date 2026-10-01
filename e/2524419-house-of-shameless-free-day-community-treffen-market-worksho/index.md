@@ -1,6 +1,6 @@
 # House Of Shameless - FREE Day Community Treffen - Market & Workshops at DNA. HOUSE
 
-House Of Shameless - FREE Day Community Treffen - Market & Workshops at DNA. HOUSE on Sat 3 Oct, Berlin. 4 artists on the bill: Kutscher (DE), MISSMELODY, PyjamaMama and Westside Bass. Techno and House. Preview the line-up and save it on soundcheck.
+House Of Shameless - FREE Day Community Treffen - Market & Workshops at DNA. HOUSE on Sat 3 Oct, Berlin. 4 artists: Kutscher (DE), MISSMELODY, PyjamaMama and Westside Bass. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

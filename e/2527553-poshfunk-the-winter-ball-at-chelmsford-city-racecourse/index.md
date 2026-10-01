@@ -1,6 +1,6 @@
 # POSHFUNK - The Winter Ball at Chelmsford City Racecourse
 
-POSHFUNK - The Winter Ball at Chelmsford City Racecourse on Sat 21 Nov, London. House. Preview the line-up and save it on soundcheck.
+POSHFUNK - The Winter Ball at Chelmsford City Racecourse on Sat 21 Nov, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MINÛ: Zombies In Miami & Michele Preda at Circolo degli Illuminati
 
-MINÛ: Zombies In Miami & Michele Preda at Circolo degli Illuminati on Sat 17 Oct, Rome. 1 artist on the bill: Zombies In Miami. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+MINÛ: Zombies In Miami & Michele Preda at Circolo degli Illuminati on Sat 17 Oct, Rome. 1 artist: Zombies In Miami. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

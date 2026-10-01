@@ -1,8 +1,8 @@
 # WILDERÍCH
 
-WILDERÍCH is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
+WILDERÍCH is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
 
-WILDERÍCH is a techno and trance artist based in Germany, tracked on soundcheck, with 90 sets logged across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: Edelfettwerk, Hamburg on Fri 9 Oct.
+WILDERÍCH is a techno and trance artist based in Germany, with 90 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 22 more. Often billed alongside zwilling., Serafina and Adrian Mills. Next up: Edelfettwerk, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ WILDERÍCH is a techno and trance artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
-- The Foundry, San Francisco/Oakland — Sun, 6 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Electrisize, Düsseldorf — Fri, 7 Aug 2026
-- TBA - Peißnitzinsel Halle, Leipzig — Sat, 1 Aug 2026
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
+- The Foundry, San Francisco/Oakland · Sun, 6 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Electrisize, Düsseldorf · Fri, 7 Aug 2026
+- TBA - Peißnitzinsel Halle, Leipzig · Sat, 1 Aug 2026
 
 ## Shares bills with
 

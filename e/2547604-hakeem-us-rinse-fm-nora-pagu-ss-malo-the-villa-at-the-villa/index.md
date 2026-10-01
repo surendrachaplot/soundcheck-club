@@ -1,6 +1,6 @@
 # Hakeem (US / Rinse FM) & Nora Pagu / SS: Malo / The Villa at The Villa
 
-Hakeem (US / Rinse FM) & Nora Pagu / SS: Malo / The Villa on Sat 3 Oct, Oslo. 2 artists on the bill: Hakeem and Nora Pagu. Techno and House. Preview the line-up and save it on soundcheck.
+Hakeem (US / Rinse FM) & Nora Pagu / SS: Malo / The Villa on Sat 3 Oct, Oslo. 2 artists: Hakeem and Nora Pagu. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

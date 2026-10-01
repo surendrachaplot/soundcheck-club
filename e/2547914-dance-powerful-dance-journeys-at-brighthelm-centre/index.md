@@ -1,6 +1,6 @@
 # DANCE - Powerful Dance Journeys at Brighthelm Centre
 
-DANCE - Powerful Dance Journeys at Brighthelm Centre on Fri 23 Oct, Brighton. 1 artist on the bill: Nathan Godolphin. Techno and House. Preview the line-up and save it on soundcheck.
+DANCE - Powerful Dance Journeys at Brighthelm Centre on Fri 23 Oct, Brighton. 1 artist: Nathan Godolphin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

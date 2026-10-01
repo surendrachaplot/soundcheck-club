@@ -1,6 +1,6 @@
 # Gray presents: Antisocial Sound - London at The Cause
 
-Gray presents: Antisocial Sound - London at The Cause on Fri 9 Oct, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Gray presents: Antisocial Sound - London at The Cause on Fri 9 Oct, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

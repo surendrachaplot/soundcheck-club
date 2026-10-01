@@ -1,6 +1,6 @@
 # Sunday Casual w. Leo Love, Marcelo Cruz , Ray Ray at Boogie
 
-Sunday Casual w. Leo Love, Marcelo Cruz , Ray Ray at Boogie on Sun 4 Oct, Toronto. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+Sunday Casual w. Leo Love, Marcelo Cruz , Ray Ray at Boogie on Sun 4 Oct, Toronto. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

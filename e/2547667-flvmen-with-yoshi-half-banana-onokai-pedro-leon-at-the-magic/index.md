@@ -1,6 +1,6 @@
 # FLVMEN with Yoshi, Half Banana, Onokai, Pedro Leon at THE MAGICK BAR
 
-FLVMEN with Yoshi, Half Banana, Onokai, Pedro Leon at THE MAGICK BAR on Sun 4 Oct, Rome. 1 artist on the bill: Onokai. Preview the line-up and save it on soundcheck.
+FLVMEN with Yoshi, Half Banana, Onokai, Pedro Leon at THE MAGICK BAR on Sun 4 Oct, Rome. 1 artist: Onokai. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

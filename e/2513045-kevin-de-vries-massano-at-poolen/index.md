@@ -1,6 +1,6 @@
 # Kevin de Vries & Massano at Poolen
 
-Kevin de Vries & Massano at Poolen on Fri 2 Oct, Copenhagen. 2 artists on the bill: Kevin de Vries and Massano. Trance and Techno. Preview the line-up and save it on soundcheck.
+Kevin de Vries & Massano at Poolen on Fri 2 Oct, Copenhagen. 2 artists: Kevin de Vries and Massano. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

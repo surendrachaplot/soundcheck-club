@@ -1,8 +1,8 @@
 # TBA - Will be annouced
 
-TBA - Will be annouced is a music venue in Bucharest with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "SECRET LOCATION RAVE VIII" on Fri, 13 Nov 2026.
+TBA - Will be annouced is a music venue in Bucharest with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "SECRET LOCATION RAVE VIII" on Fri, 13 Nov 2026.
 
-TBA - Will be annouced is a music venue in Bucharest listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+TBA - Will be annouced is a music venue in Bucharest listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

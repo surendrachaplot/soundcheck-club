@@ -1,6 +1,6 @@
 # Les Enfants pres. AIRFUNK Showcase at Les Enfants Brillants
 
-Les Enfants pres. AIRFUNK Showcase at Les Enfants Brillants on Fri 9 Oct, Barcelona. 3 artists on the bill: Lis Sarroca, Maxime dB and Sweely. Preview the line-up and save it on soundcheck.
+Les Enfants pres. AIRFUNK Showcase at Les Enfants Brillants on Fri 9 Oct, Barcelona. 3 artists: Lis Sarroca, Maxime dB and Sweely. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

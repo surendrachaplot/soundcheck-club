@@ -1,6 +1,6 @@
 # Pyra x Residents presents: A House on Fire II at 77
 
-Pyra x Residents presents: A House on Fire II at 77 on Sat 24 Oct, London. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Pyra x Residents presents: A House on Fire II at 77 on Sat 24 Oct, London. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

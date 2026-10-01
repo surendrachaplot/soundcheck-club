@@ -1,8 +1,8 @@
 # Jeremy Sole
 
-Jeremy Sole is a Afro House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Airliner, Los Angeles on Fri, 16 Oct 2026.
+Jeremy Sole is a Afro House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Airliner, Los Angeles on Fri, 16 Oct 2026.
 
-Jeremy Sole is an afro house and disco artist based in United States of America, tracked on soundcheck, with 46 sets logged across Los Angeles, New York City and San Diego. Often billed alongside Captain Planet, Marques Wyatt and Rich Medina. Next up: The Airliner, Los Angeles on Fri 16 Oct.
+Jeremy Sole is an afro house and disco artist based in United States of America, with 46 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside Captain Planet, Marques Wyatt and Rich Medina. Next up: The Airliner, Los Angeles on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jeremy Sole is an afro house and disco artist based in United States of America,
 
 ## Recently played
 
-- General Lee’s Bamboo Room, Los Angeles — Thu, 24 Sept 2026
-- The Airliner, Los Angeles — Fri, 11 Sept 2026
-- The Airliner, Los Angeles — Fri, 14 Aug 2026
-- The Airliner, Los Angeles — Fri, 10 Jul 2026
-- The Airliner, Los Angeles — Fri, 8 May 2026
-- Townhouse, Los Angeles — Sat, 17 Jan 2026
-- Townhouse, Los Angeles — Sat, 17 Jan 2026
-- Townhouse, Los Angeles — Sat, 15 Nov 2025
+- General Lee’s Bamboo Room, Los Angeles · Thu, 24 Sept 2026
+- The Airliner, Los Angeles · Fri, 11 Sept 2026
+- The Airliner, Los Angeles · Fri, 14 Aug 2026
+- The Airliner, Los Angeles · Fri, 10 Jul 2026
+- The Airliner, Los Angeles · Fri, 8 May 2026
+- Townhouse, Los Angeles · Sat, 17 Jan 2026
+- Townhouse, Los Angeles · Sat, 17 Jan 2026
+- Townhouse, Los Angeles · Sat, 15 Nov 2025
 
 ## Shares bills with
 

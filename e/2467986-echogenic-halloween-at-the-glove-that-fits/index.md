@@ -1,6 +1,6 @@
 # Echogenic Halloween at The Glove That Fits
 
-Echogenic Halloween at The Glove That Fits on Sat 31 Oct, London. 4 artists on the bill: Beaven, Myff Busta, Nio-B and PANACEA. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+Echogenic Halloween at The Glove That Fits on Sat 31 Oct, London. 4 artists: Beaven, Myff Busta, Nio-B and PANACEA. Breakbeat and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Dalston Den
 
-Dalston Den is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Breakaway: Free Entry Before 12am - Breaks / Jungle / Drum & Bass" on Fri, 2 Oct 2026.
+Dalston Den is a music venue in London with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Breakaway: Free Entry Before 12am - Breaks / Jungle / Drum & Bass" on Fri, 2 Oct 2026.
 
-Dalston Den is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Agility, AMAR (UK), Blake and Bryn Brax and 2 more. Browse upcoming dates, start times and who's playing. 91-93 Kingsland High Street.
+Dalston Den is a music venue in London listed on soundcheck. 10 upcoming gigs, with line-ups including Agility, AMAR (UK), Blake and Bryn Brax and 2 more. See dates, start times and who's playing. 91-93 Kingsland High Street.
 
 ## What's on
 

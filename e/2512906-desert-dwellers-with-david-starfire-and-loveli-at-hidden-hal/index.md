@@ -1,6 +1,6 @@
 # Desert Dwellers with David Starfire and Loveli at Hidden Hall
 
-Desert Dwellers with David Starfire and Loveli at Hidden Hall on Fri 18 Dec, Seattle. Bass and Downtempo. Preview the line-up and save it on soundcheck.
+Desert Dwellers with David Starfire and Loveli at Hidden Hall on Fri 18 Dec, Seattle. Bass and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 3 years of No Limits - BRUNCH IS BACK at TBA
 
-3 years of No Limits - BRUNCH IS BACK at TBA on Sat 10 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+3 years of No Limits - BRUNCH IS BACK at TBA on Sat 10 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

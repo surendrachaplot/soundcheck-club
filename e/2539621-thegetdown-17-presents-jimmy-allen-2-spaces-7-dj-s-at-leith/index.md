@@ -1,6 +1,6 @@
 # TheGetDown #17 presents Jimmy Allen - 2 Spaces 7 DJ's at Leith Arches
 
-TheGetDown #17 presents Jimmy Allen - 2 Spaces 7 DJ's at Leith Arches on Fri 9 Oct, Edinburgh. 1 artist on the bill: Jimmy Allen. House and Disco. Preview the line-up and save it on soundcheck.
+TheGetDown #17 presents Jimmy Allen - 2 Spaces 7 DJ's at Leith Arches on Fri 9 Oct, Edinburgh. 1 artist: Jimmy Allen. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

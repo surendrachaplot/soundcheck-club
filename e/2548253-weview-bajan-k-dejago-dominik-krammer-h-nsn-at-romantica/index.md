@@ -1,6 +1,6 @@
 # WEVIEW: Bajan K ⁄⁄⁄ Dejago ⁄⁄⁄ Dominik Krammer ⁄⁄⁄ hänsn at Romantica
 
-WEVIEW: Bajan K ⁄⁄⁄ Dejago ⁄⁄⁄ Dominik Krammer ⁄⁄⁄ hänsn at Romantica on Fri 2 Oct, Stuttgart. 4 artists on the bill: Bajan K, Dejago, Dominik Krammer and Hansn. Techno and Acid. Preview the line-up and save it on soundcheck.
+WEVIEW: Bajan K ⁄⁄⁄ Dejago ⁄⁄⁄ Dominik Krammer ⁄⁄⁄ hänsn at Romantica on Fri 2 Oct, Stuttgart. 4 artists: Bajan K, Dejago, Dominik Krammer and Hansn. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

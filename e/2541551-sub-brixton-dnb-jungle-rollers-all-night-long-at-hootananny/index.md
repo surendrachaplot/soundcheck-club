@@ -1,6 +1,6 @@
 # Sub Brixton: DnB, Jungle + Rollers All Night Long at Hootananny Brixton
 
-Sub Brixton: DnB, Jungle + Rollers All Night Long at Hootananny Brixton on Sat 17 Oct, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Sub Brixton: DnB, Jungle + Rollers All Night Long at Hootananny Brixton on Sat 17 Oct, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

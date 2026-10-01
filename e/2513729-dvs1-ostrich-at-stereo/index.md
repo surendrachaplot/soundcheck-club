@@ -1,6 +1,6 @@
 # DVS1 - Ostrich at Stereo
 
-DVS1 - Ostrich at Stereo on Fri 16 Oct, Montreal. 2 artists on the bill: DVS1 and Ostrich. Preview the line-up and save it on soundcheck.
+DVS1 - Ostrich at Stereo on Fri 16 Oct, Montreal. 2 artists: DVS1 and Ostrich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

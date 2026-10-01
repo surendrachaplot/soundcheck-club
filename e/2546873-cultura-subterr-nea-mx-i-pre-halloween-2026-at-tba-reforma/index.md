@@ -1,6 +1,6 @@
 # Cultura Subterránea Mx I Pre-Halloween 2026 at TBA - Reforma
 
-Cultura Subterránea Mx I Pre-Halloween 2026 at TBA - Reforma on Fri 16 Oct, Mexico City. House and Tech House. Preview the line-up and save it on soundcheck.
+Cultura Subterránea Mx I Pre-Halloween 2026 at TBA - Reforma on Fri 16 Oct, Mexico City. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

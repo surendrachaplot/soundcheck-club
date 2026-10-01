@@ -1,6 +1,6 @@
 # Ahmed Spins, Sapian, Mehdi at Knockdown Center
 
-Ahmed Spins, Sapian, Mehdi at Knockdown Center on Sat 24 Oct, New York City. House. Preview the line-up and save it on soundcheck.
+Ahmed Spins, Sapian, Mehdi at Knockdown Center on Sat 24 Oct, New York City. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

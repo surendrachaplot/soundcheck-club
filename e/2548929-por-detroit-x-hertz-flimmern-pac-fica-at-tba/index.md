@@ -1,6 +1,6 @@
 # Por Detroit x Hertz Flimmern + Pacífica at TBA
 
-Por Detroit x Hertz Flimmern + Pacífica at TBA on Sat 24 Oct, Mexico City. 5 artists on the bill: Enya Botello, Julianna, Kleine Pia and NEGRACONDA and 1 more. Preview the line-up and save it on soundcheck.
+Por Detroit x Hertz Flimmern + Pacífica at TBA on Sat 24 Oct, Mexico City. 5 artists: Enya Botello, Julianna, Kleine Pia and NEGRACONDA and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

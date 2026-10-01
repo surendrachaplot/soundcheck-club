@@ -1,8 +1,8 @@
 # Salon des Amateurs
 
-Salon des Amateurs is a music venue in Düsseldorf with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sameheads x Salon des Amateurs" on Sat, 10 Oct 2026.
+Salon des Amateurs is a music venue in Düsseldorf with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sameheads x Salon des Amateurs" on Sat, 10 Oct 2026.
 
-Salon des Amateurs is a music venue in Düsseldorf listed on soundcheck. 2 upcoming gigs, with line-ups including An-i, Die Wilde Jagd, Jimu Kobayashi and Lucas Croon and 2 more. Browse upcoming dates, start times and who's playing. Grabbeplatz 4; 40213 Düsseldorf; Germany.
+Salon des Amateurs is a music venue in Düsseldorf listed on soundcheck. 2 upcoming gigs, with line-ups including An-i, Die Wilde Jagd, Jimu Kobayashi and Lucas Croon and 2 more. See dates, start times and who's playing. Grabbeplatz 4; 40213 Düsseldorf; Germany.
 
 ## What's on
 

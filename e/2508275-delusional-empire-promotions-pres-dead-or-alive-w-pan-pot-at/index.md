@@ -1,6 +1,6 @@
 # Delusional & Empire Promotions pres. Dead Or Alive w/Pan-Pot at TBA - Club Guatemala
 
-Delusional & Empire Promotions pres. Dead Or Alive w/Pan-Pot at TBA - Club Guatemala on Sat 31 Oct, Guatemala. 1 artist on the bill: Pan-Pot. Preview the line-up and save it on soundcheck.
+Delusional & Empire Promotions pres. Dead Or Alive w/Pan-Pot at TBA - Club Guatemala on Sat 31 Oct, Guatemala. 1 artist: Pan-Pot. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

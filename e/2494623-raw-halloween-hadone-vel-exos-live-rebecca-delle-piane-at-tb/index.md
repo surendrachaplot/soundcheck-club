@@ -1,6 +1,6 @@
 # RAW Halloween • Hadone, Vel, Exos live, Rebecca Delle Piane at TBA - Secret Warehouse
 
-RAW Halloween • Hadone, Vel, Exos live, Rebecca Delle Piane at TBA - Secret Warehouse on Sat 31 Oct, Paris. 6 artists on the bill: Exos, Gabbor, Hadone and LPV and 2 more. Techno. Preview the line-up and save it on soundcheck.
+RAW Halloween • Hadone, Vel, Exos live, Rebecca Delle Piane at TBA - Secret Warehouse on Sat 31 Oct, Paris. 6 artists: Exos, Gabbor, Hadone and LPV and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

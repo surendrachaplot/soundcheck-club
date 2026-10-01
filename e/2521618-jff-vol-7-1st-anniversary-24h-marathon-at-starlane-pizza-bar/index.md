@@ -1,6 +1,6 @@
 # JFF vol.7 1st Anniversary 24h Marathon at Starlane Pizza Bar
 
-JFF vol.7 1st Anniversary 24h Marathon at Starlane Pizza Bar on Sat 19 Dec, London. Techno and Electro. Preview the line-up and save it on soundcheck.
+JFF vol.7 1st Anniversary 24h Marathon at Starlane Pizza Bar on Sat 19 Dec, London. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BIONIC BOOGIE at Wax Music Lounge
 
-BIONIC BOOGIE at Wax Music Lounge on Fri 2 Oct, Melbourne. 1 artist on the bill: Chris NG. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+BIONIC BOOGIE at Wax Music Lounge on Fri 2 Oct, Melbourne. 1 artist: Chris NG. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

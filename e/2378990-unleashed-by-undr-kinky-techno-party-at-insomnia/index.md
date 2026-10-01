@@ -1,6 +1,6 @@
 # UNLEASHED by UNDR - Kinky Techno Party at Insomnia
 
-UNLEASHED by UNDR - Kinky Techno Party at Insomnia on Sat 28 Nov, Berlin. Techno. Preview the line-up and save it on soundcheck.
+UNLEASHED by UNDR - Kinky Techno Party at Insomnia on Sat 28 Nov, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

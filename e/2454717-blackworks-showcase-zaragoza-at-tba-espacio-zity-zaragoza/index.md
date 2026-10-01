@@ -1,6 +1,6 @@
 # BlackWorks Showcase Zaragoza at TBA - Espacio Zity, Zaragoza
 
-BlackWorks Showcase Zaragoza at TBA - Espacio Zity, Zaragoza on Sun 11 Oct, North. 5 artists on the bill: Bárbara Lago, Dexphase, KRUELTY and Onlynumbers and 1 more. Preview the line-up and save it on soundcheck.
+BlackWorks Showcase Zaragoza at TBA - Espacio Zity, Zaragoza on Sun 11 Oct, North. 5 artists: Bárbara Lago, Dexphase, KRUELTY and Onlynumbers and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

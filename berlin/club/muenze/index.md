@@ -1,8 +1,8 @@
 # MUENZE
 
-MUENZE is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "KINKY ON Tour Berlin" on Sat, 24 Oct 2026.
+MUENZE is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "KINKY ON Tour Berlin" on Sat, 24 Oct 2026.
 
-MUENZE is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Acid Foxy, AEREA, Alex Benz and Alycia Bezgo and 2 more. Browse upcoming dates, start times and who's playing. Molkenmarkt 2; Mitte; 10179 Berlin; Germany.
+MUENZE is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Acid Foxy, AEREA, Alex Benz and Alycia Bezgo and 2 more. See dates, start times and who's playing. Molkenmarkt 2; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 

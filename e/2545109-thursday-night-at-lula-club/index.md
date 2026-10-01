@@ -1,6 +1,6 @@
 # THURSDAY NIGHT at Lula Club
 
-THURSDAY NIGHT at Lula Club on Thu 17 Dec, Madrid. Preview the line-up and save it on soundcheck.
+THURSDAY NIGHT at Lula Club on Thu 17 Dec, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # The Funky Cat - Office Day Rave at De Helling
 
-The Funky Cat - Office Day Rave at De Helling on Sat 10 Oct, Utrecht. 1 artist on the bill: Geck-O. Bass and Psytrance. Preview the line-up and save it on soundcheck.
+The Funky Cat - Office Day Rave at De Helling on Sat 10 Oct, Utrecht. 1 artist: Geck-O. Bass and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

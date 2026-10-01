@@ -1,8 +1,8 @@
 # Ben Repertoire
 
-Ben Repertoire is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Planet Wax, London on Sat, 3 Oct 2026.
+Ben Repertoire is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Sat, 3 Oct 2026.
 
-Ben Repertoire is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside LMajor, Haste and Abby Daze. Next up: Planet Wax, London on Sat 3 Oct.
+Ben Repertoire is a jungle and drum & bass artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside LMajor, Haste and Abby Daze. Next up: Planet Wax, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,10 +13,10 @@ Ben Repertoire is a jungle and drum & bass artist based in United Kingdom, track
 
 ## Recently played
 
-- Basing House, London — Sat, 7 Feb 2026
-- Planet Wax, London — Sat, 24 Jan 2026
-- Four Quarters, London — Fri, 20 Jun 2025
-- Cu, London — Fri, 7 Mar 2025
+- Basing House, London · Sat, 7 Feb 2026
+- Planet Wax, London · Sat, 24 Jan 2026
+- Four Quarters, London · Fri, 20 Jun 2025
+- Cu, London · Fri, 7 Mar 2025
 
 ## Shares bills with
 

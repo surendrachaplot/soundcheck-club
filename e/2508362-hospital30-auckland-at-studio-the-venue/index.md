@@ -1,6 +1,6 @@
 # Hospital30 (Auckland) at Studio the Venue
 
-Hospital30 (Auckland) at Studio the Venue on Fri 16 Oct, Auckland. 3 artists on the bill: Danny Byrd, Hoax (UK) and Unglued. Drum & Bass. Preview the line-up and save it on soundcheck.
+Hospital30 (Auckland) at Studio the Venue on Fri 16 Oct, Auckland. 3 artists: Danny Byrd, Hoax (UK) and Unglued. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

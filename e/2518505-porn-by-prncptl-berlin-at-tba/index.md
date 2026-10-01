@@ -1,6 +1,6 @@
 # PORN by PRNCPTL - Berlin at TBA
 
-PORN by PRNCPTL - Berlin at TBA on Sat 21 Nov, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+PORN by PRNCPTL - Berlin at TBA on Sat 21 Nov, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

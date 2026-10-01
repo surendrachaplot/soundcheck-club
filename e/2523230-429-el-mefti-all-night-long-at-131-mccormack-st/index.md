@@ -1,6 +1,6 @@
 # 429: El Mefti All Night Long at 131 Mccormack St
 
-429: El Mefti All Night Long at 131 Mccormack St on Sat 28 Nov, Toronto. Techno. Preview the line-up and save it on soundcheck.
+429: El Mefti All Night Long at 131 Mccormack St on Sat 28 Nov, Toronto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KUBOTA,TAKESHI & YO.AN at DJ Bar Bridge
 
-KUBOTA,TAKESHI & YO.AN at DJ Bar Bridge on Wed 14 Oct, Tokyo. 1 artist on the bill: YO.AN. House. Preview the line-up and save it on soundcheck.
+KUBOTA,TAKESHI & YO.AN at DJ Bar Bridge on Wed 14 Oct, Tokyo. 1 artist: YO.AN. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

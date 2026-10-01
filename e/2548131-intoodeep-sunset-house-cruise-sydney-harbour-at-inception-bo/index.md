@@ -1,6 +1,6 @@
 # InTooDeep Sunset House Cruise - Sydney Harbour at Inception Boat
 
-InTooDeep Sunset House Cruise - Sydney Harbour at Inception Boat on Sat 10 Oct, Sydney. House and Tech House. Preview the line-up and save it on soundcheck.
+InTooDeep Sunset House Cruise - Sydney Harbour at Inception Boat on Sat 10 Oct, Sydney. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

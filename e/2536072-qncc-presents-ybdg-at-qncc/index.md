@@ -1,6 +1,6 @@
 # QNCC presents: YBDG at Qncc
 
-QNCC presents: YBDG at Qncc on Thu 8 Oct, New York City. Electronica. Preview the line-up and save it on soundcheck.
+QNCC presents: YBDG at Qncc on Thu 8 Oct, New York City. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Trip-Hop Thursdays at Wendel
 
-Trip-Hop Thursdays at Wendel on Thu 5 Nov, Berlin. 1 artist on the bill: Larhythmix. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
+Trip-Hop Thursdays at Wendel on Thu 5 Nov, Berlin. 1 artist: Larhythmix. Hip-Hop and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

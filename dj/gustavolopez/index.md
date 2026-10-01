@@ -1,8 +1,8 @@
 # Gustavo Lopez
 
-Gustavo Lopez is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Moog Club, Barcelona on Sun, 4 Oct 2026.
+Gustavo Lopez is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Moog Club, Barcelona on Sun, 4 Oct 2026.
 
-Gustavo Lopez is a techno and electronica artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona. Often billed alongside Gato, Miguel Silva and Civaro. Next up: Moog Club, Barcelona on Sun 4 Oct.
+Gustavo Lopez is a techno and electronica artist based in Spain, with 19 gigs on soundcheck across Barcelona. Often billed alongside Gato, Miguel Silva and Civaro. Next up: Moog Club, Barcelona on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Gustavo Lopez is a techno and electronica artist based in Spain, tracked on soun
 
 ## Recently played
 
-- Recreo Bar, Barcelona — Thu, 27 Aug 2026
-- Sunseabar Beach Club, Barcelona — Thu, 20 Aug 2026
-- Imperial Private Club, Barcelona — Fri, 24 Jul 2026
-- TBA - El Gat Negre - Gràcia - C/ Sant Lluis 47, Barcelona — Thu, 18 Jun 2026
-- TBA, Barcelona — Thu, 7 May 2026
-- Moog Club, Barcelona — Sun, 12 Apr 2026
-- TBA - El Gat Negre - Gràcia - C/ Sant Lluis 47, Barcelona — Sat, 14 Feb 2026
-- TBA - El Gat Negre - Gràcia - C/ Sant Lluis 47, Barcelona — Thu, 22 Jan 2026
+- Recreo Bar, Barcelona · Thu, 27 Aug 2026
+- Sunseabar Beach Club, Barcelona · Thu, 20 Aug 2026
+- Imperial Private Club, Barcelona · Fri, 24 Jul 2026
+- TBA - El Gat Negre - Gràcia - C/ Sant Lluis 47, Barcelona · Thu, 18 Jun 2026
+- TBA, Barcelona · Thu, 7 May 2026
+- Moog Club, Barcelona · Sun, 12 Apr 2026
+- TBA - El Gat Negre - Gràcia - C/ Sant Lluis 47, Barcelona · Sat, 14 Feb 2026
+- TBA - El Gat Negre - Gràcia - C/ Sant Lluis 47, Barcelona · Thu, 22 Jan 2026
 
 ## Shares bills with
 

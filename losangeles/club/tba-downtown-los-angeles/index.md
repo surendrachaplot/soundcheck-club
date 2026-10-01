@@ -1,8 +1,8 @@
 # TBA - Downtown Los Angeles
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Certified Groovers: Sabrosura Boyz [all night long]" on Sat, 3 Oct 2026.
+TBA - Downtown Los Angeles is a music venue in Los Angeles with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Certified Groovers: Sabrosura Boyz [all night long]" on Sat, 3 Oct 2026.
 
-TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 10 upcoming gigs, with line-ups including Avalon Emerson, Baauer, Ben UFO and Bianca Lexis and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Downtown Los Angeles is a music venue in Los Angeles listed on soundcheck. 10 upcoming gigs, with line-ups including Avalon Emerson, Baauer, Ben UFO and Bianca Lexis and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

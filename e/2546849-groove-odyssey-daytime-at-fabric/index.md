@@ -1,6 +1,6 @@
 # Groove Odyssey [Daytime] at fabric
 
-Groove Odyssey [Daytime] at fabric on Sat 28 Nov, London. 9 artists on the bill: DJ Murrell, Groove Assassin, Lauren Thompson and Mark Osborne and 5 more. Preview the line-up and save it on soundcheck.
+Groove Odyssey [Daytime] at fabric on Sat 28 Nov, London. 9 artists: DJ Murrell, Groove Assassin, Lauren Thompson and Mark Osborne and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # E Nick / Gaspray / KWH at Elsewhere
 
-E Nick / Gaspray / KWH at Elsewhere on Fri 2 Oct, Bangkok. 3 artists on the bill: E Nick, Gaspray and KWH (DE). Techno and House. Preview the line-up and save it on soundcheck.
+E Nick / Gaspray / KWH at Elsewhere on Fri 2 Oct, Bangkok. 3 artists: E Nick, Gaspray and KWH (DE). Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

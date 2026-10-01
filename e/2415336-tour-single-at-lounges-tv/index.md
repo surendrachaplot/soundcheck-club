@@ -1,6 +1,6 @@
 # Tour single at Lounges tv
 
-Tour single at Lounges tv on Fri 20 Nov, London. 1 artist on the bill: Gonemili Grace. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
+Tour single at Lounges tv on Fri 20 Nov, London. 1 artist: Gonemili Grace. Hip-Hop and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

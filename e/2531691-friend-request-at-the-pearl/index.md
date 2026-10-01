@@ -1,6 +1,6 @@
 # Friend Request at The Pearl
 
-Friend Request at The Pearl on Fri 9 Oct, Vancouver. 2 artists on the bill: EXPORT2MP3 and Hitori Tori. Breakcore and Gabber. Preview the line-up and save it on soundcheck.
+Friend Request at The Pearl on Fri 9 Oct, Vancouver. 2 artists: EXPORT2MP3 and Hitori Tori. Breakcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

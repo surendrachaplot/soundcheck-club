@@ -1,6 +1,6 @@
 # Beyond House Bday with Mr. Ho at Karmakoma
 
-Beyond House Bday with Mr. Ho at Karmakoma on Fri 23 Oct, Belgrade. 1 artist on the bill: Mr. Ho. Preview the line-up and save it on soundcheck.
+Beyond House Bday with Mr. Ho at Karmakoma on Fri 23 Oct, Belgrade. 1 artist: Mr. Ho. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

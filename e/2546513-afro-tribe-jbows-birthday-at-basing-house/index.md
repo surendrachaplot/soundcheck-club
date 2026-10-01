@@ -1,6 +1,6 @@
 # Afro Tribe JBows birthday at Basing House
 
-Afro Tribe JBows birthday at Basing House on Fri 20 Nov, London. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Afro Tribe JBows birthday at Basing House on Fri 20 Nov, London. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

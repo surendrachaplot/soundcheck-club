@@ -1,8 +1,8 @@
 # Saint Lukez
 
-Saint Lukez is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amigo, Ghent on Fri, 2 Oct 2026.
+Saint Lukez is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amigo, Ghent on Fri, 2 Oct 2026.
 
-Saint Lukez is a house and disco artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Edinburgh, Ghent and Liverpool and 5 more. Often billed alongside Jade Edwards, Chris Wheatley and Davide Del Vecchio. Next up: Amigo, Ghent on Fri 2 Oct.
+Saint Lukez is a house and disco artist based in United Kingdom, with 35 gigs on soundcheck across Amsterdam, Edinburgh, Ghent and Liverpool and 5 more. Often billed alongside Jade Edwards, Chris Wheatley and Davide Del Vecchio. Next up: Amigo, Ghent on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Saint Lukez is a house and disco artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 24 Sept 2026
-- 77, London — Fri, 4 Sept 2026
-- Port of Leith Distillery, Edinburgh — Sat, 18 Jul 2026
-- Bricks, London — Fri, 10 Jul 2026
-- La Java, Paris — Sat, 20 Jun 2026
-- Ouseburn Garden, Newcastle — Sat, 23 May 2026
-- District, Liverpool — Sun, 3 May 2026
-- Various Venues, London — Sat, 2 May 2026
+- UNO MALTA, Malta · Thu, 24 Sept 2026
+- 77, London · Fri, 4 Sept 2026
+- Port of Leith Distillery, Edinburgh · Sat, 18 Jul 2026
+- Bricks, London · Fri, 10 Jul 2026
+- La Java, Paris · Sat, 20 Jun 2026
+- Ouseburn Garden, Newcastle · Sat, 23 May 2026
+- District, Liverpool · Sun, 3 May 2026
+- Various Venues, London · Sat, 2 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # We are iT festival 2027 - The golden age of house 89/00 at Thuishaven
 
-We are iT festival 2027 - The golden age of house 89/00 at Thuishaven on Sat 10 Apr, Amsterdam. 5 artists on the bill: Alexander Koning, Dimitri Kneppers, Erick E and ISIS and 1 more. Preview the line-up and save it on soundcheck.
+We are iT festival 2027 - The golden age of house 89/00 at Thuishaven on Sat 10 Apr, Amsterdam. 5 artists: Alexander Koning, Dimitri Kneppers, Erick E and ISIS and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

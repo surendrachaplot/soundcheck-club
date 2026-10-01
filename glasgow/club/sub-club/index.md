@@ -1,8 +1,8 @@
 # Sub Club
 
-Sub Club is a music venue in Glasgow with 38 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "FLY - M-High & Anil Aras - Glasgow" on Thu, 1 Oct 2026.
+Sub Club is a music venue in Glasgow with 38 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FLY - M-High & Anil Aras - Glasgow" on Thu, 1 Oct 2026.
 
-Sub Club is a music venue in Glasgow listed on soundcheck. 38 upcoming gigs, with line-ups including Alarico, Alex Culross, Anil Aras and Archie Hamilton and 2 more. Browse upcoming dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
+Sub Club is a music venue in Glasgow listed on soundcheck. 38 upcoming gigs, with line-ups including Alarico, Alex Culross, Anil Aras and Archie Hamilton and 2 more. See dates, start times and who's playing. 22 Jamaica St; Glasgow, G1 4QD; Scotland; United Kingdom.
 
 ## What's on
 

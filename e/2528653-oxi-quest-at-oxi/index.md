@@ -1,6 +1,6 @@
 # OXI QUEST at OXI
 
-OXI QUEST on Fri 23 Oct, Berlin. 3 artists on the bill: DJ Masda, ISA (ES) and Naone. Techno and House. Preview the line-up and save it on soundcheck.
+OXI QUEST on Fri 23 Oct, Berlin. 3 artists: DJ Masda, ISA (ES) and Naone. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

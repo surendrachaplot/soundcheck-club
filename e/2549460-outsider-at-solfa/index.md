@@ -1,6 +1,6 @@
 # OUTSIDER at Solfa
 
-OUTSIDER at Solfa on Thu 8 Oct, Tokyo. 3 artists on the bill: Daichi, Negami and Nobuharu Morimoto. Techno and House. Preview the line-up and save it on soundcheck.
+OUTSIDER at Solfa on Thu 8 Oct, Tokyo. 3 artists: Daichi, Negami and Nobuharu Morimoto. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

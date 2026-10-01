@@ -1,6 +1,6 @@
 # THERAPIE IM OXI - Weil Tanzen hilft w/ lisa tba, Lisatrix, Maurice Werner, NIKØ at OXI
 
-THERAPIE IM OXI - Weil Tanzen hilft w/ lisa tba, Lisatrix, Maurice Werner, NIKØ on Thu 22 Oct, Berlin. 4 artists on the bill: lisa tba, Lisatrix, Maurice Werner and NIKØ. Techno. Preview the line-up and save it on soundcheck.
+THERAPIE IM OXI - Weil Tanzen hilft w/ lisa tba, Lisatrix, Maurice Werner, NIKØ on Thu 22 Oct, Berlin. 4 artists: lisa tba, Lisatrix, Maurice Werner and NIKØ. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

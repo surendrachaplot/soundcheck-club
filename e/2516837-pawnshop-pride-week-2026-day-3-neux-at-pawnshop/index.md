@@ -1,6 +1,6 @@
 # Pawnshop Pride Week 2026 Day 3 NEUX at Pawnshop
 
-Pawnshop Pride Week 2026 Day 3 NEUX on Sat 31 Oct, Taipei. 6 artists on the bill: Debbie with an 'S', F.G.D., Jamiie and L-CC and 2 more. Preview the line-up and save it on soundcheck.
+Pawnshop Pride Week 2026 Day 3 NEUX on Sat 31 Oct, Taipei. 6 artists: Debbie with an 'S', F.G.D., Jamiie and L-CC and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Smolna: Kollektiv Turmstrasse - Etnika Elektronika x The X Festival at Smolna
 
-Smolna: Kollektiv Turmstrasse - Etnika Elektronika x The X Festival on Fri 9 Oct, Warsaw. 4 artists on the bill: CJ Art, Essex, Hraach and Kollektiv Turmstrasse. Techno and House. Preview the line-up and save it on soundcheck.
+Smolna: Kollektiv Turmstrasse - Etnika Elektronika x The X Festival on Fri 9 Oct, Warsaw. 4 artists: CJ Art, Essex, Hraach and Kollektiv Turmstrasse. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HOUSE FEST - FUNKY AGAIN at XOYO
 
-HOUSE FEST - FUNKY AGAIN at XOYO on Sun 4 Oct, London. UK Funky and Afro House. Preview the line-up and save it on soundcheck.
+HOUSE FEST - FUNKY AGAIN at XOYO on Sun 4 Oct, London. UK Funky and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

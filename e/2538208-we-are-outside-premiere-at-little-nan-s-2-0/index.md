@@ -1,6 +1,6 @@
 # WE ARE OUTSIDE PREMIERE at Little Nan’s 2.0
 
-WE ARE OUTSIDE PREMIERE at Little Nan’s 2.0 on Tue 29 Dec, London. Preview the line-up and save it on soundcheck.
+WE ARE OUTSIDE PREMIERE at Little Nan’s 2.0 on Tue 29 Dec, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

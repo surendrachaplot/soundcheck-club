@@ -1,6 +1,6 @@
 # Fridays at 77: Crÿbaby, Maz at Club 77
 
-Fridays at 77: Crÿbaby, Maz at Club 77 on Fri 13 Nov, Sydney. 1 artist on the bill: Crybaby. Bass and Club. Preview the line-up and save it on soundcheck.
+Fridays at 77: Crÿbaby, Maz at Club 77 on Fri 13 Nov, Sydney. 1 artist: Crybaby. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

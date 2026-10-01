@@ -1,6 +1,6 @@
 # Haylee Wood at Bsmnt
 
-Haylee Wood at Bsmnt on Sat 3 Oct, Boston. House and Tech House. Preview the line-up and save it on soundcheck.
+Haylee Wood at Bsmnt on Sat 3 Oct, Boston. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

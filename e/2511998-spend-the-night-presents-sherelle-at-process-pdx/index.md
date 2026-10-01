@@ -1,6 +1,6 @@
 # Spend The Night presents: SHERELLE at Process PDX
 
-Spend The Night presents: SHERELLE at Process PDX on Thu 1 Oct, Portland. 2 artists on the bill: SHERELLE and Slurgeon. Footwork and Jungle. Preview the line-up and save it on soundcheck.
+Spend The Night presents: SHERELLE at Process PDX on Thu 1 Oct, Portland. 2 artists: SHERELLE and Slurgeon. Footwork and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

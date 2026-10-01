@@ -1,8 +1,8 @@
 # Nick León
 
-Nick León is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Good Room, New York City on Fri, 9 Oct 2026.
+Nick León is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Good Room, New York City on Fri, 9 Oct 2026.
 
-Nick León is a techno and club artist based in United States of America, tracked on soundcheck, with 205 sets logged across Amsterdam, Austin, Barcelona and Belfast and 51 more. Often billed alongside DJ Python, Bitter Babe and Jonny From Space. Next up: Good Room, New York City on Fri 9 Oct.
+Nick León is a techno and club artist based in United States of America, with 205 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 51 more. Often billed alongside DJ Python, Bitter Babe and Jonny From Space. Next up: Good Room, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Nick León is a techno and club artist based in United States of America, tracke
 
 ## Recently played
 
-- ICA, London — Thu, 3 Sept 2026
-- TBA - Register for location, New York City — Wed, 12 Aug 2026
-- Blå, Oslo — Sat, 8 Aug 2026
-- Old Royal Naval College, London — Fri, 7 Aug 2026
-- The Cause, London — Fri, 7 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- TBA - Downtown, Los Angeles — Sat, 25 Jul 2026
-- Refuge, New York City — Sun, 12 Jul 2026
+- ICA, London · Thu, 3 Sept 2026
+- TBA - Register for location, New York City · Wed, 12 Aug 2026
+- Blå, Oslo · Sat, 8 Aug 2026
+- Old Royal Naval College, London · Fri, 7 Aug 2026
+- The Cause, London · Fri, 7 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- TBA - Downtown, Los Angeles · Sat, 25 Jul 2026
+- Refuge, New York City · Sun, 12 Jul 2026
 
 ## Shares bills with
 

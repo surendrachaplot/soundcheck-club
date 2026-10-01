@@ -1,8 +1,8 @@
 # Mr Sian
 
-Mr Sian is a Italo Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paloma, Berlin on Thu, 1 Oct 2026.
+Mr Sian is a Italo Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Thu, 1 Oct 2026.
 
-Mr Sian is an italo disco and house artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Berlin. Often billed alongside Pem, Sound Metaphors Djs and Bell Towers. Next up: Paloma, Berlin on Thu 1 Oct.
+Mr Sian is an italo disco and house artist based in United Kingdom, with 8 gigs on soundcheck across Berlin. Often billed alongside Pem, Sound Metaphors Djs and Bell Towers. Next up: Paloma, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Mr Sian is an italo disco and house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Prince Charles, Berlin — Sun, 31 May 2026
-- OST, Berlin — Fri, 1 May 2026
-- Renate, Berlin — Fri, 20 Jun 2025
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 14 Mar 2025
-- TBA - Secret Location, Berlin — Wed, 2 Oct 2024
-- Renate, Berlin — Sat, 20 Jan 2024
-- OST, Berlin — Mon, 1 May 2023
+- Prince Charles, Berlin · Sun, 31 May 2026
+- OST, Berlin · Fri, 1 May 2026
+- Renate, Berlin · Fri, 20 Jun 2025
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 14 Mar 2025
+- TBA - Secret Location, Berlin · Wed, 2 Oct 2024
+- Renate, Berlin · Sat, 20 Jan 2024
+- OST, Berlin · Mon, 1 May 2023
 
 ## Shares bills with
 

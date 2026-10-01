@@ -1,8 +1,8 @@
 # Karina
 
-Karina is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bohnengold, Berlin on Fri, 9 Oct 2026.
+Karina is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bohnengold, Berlin on Fri, 9 Oct 2026.
 
-Karina is a house and techno artist based in Norway, tracked on soundcheck, with 17 sets logged across Amsterdam, Berlin, Madrid and Washington DC. Often billed alongside Frankie Flowerz, Local Suicide and Sylvie Maziarz. Next up: Bohnengold, Berlin on Fri 9 Oct.
+Karina is a house and techno artist based in Norway, with 17 gigs on soundcheck across Amsterdam, Berlin, Madrid and Washington DC. Often billed alongside Frankie Flowerz, Local Suicide and Sylvie Maziarz. Next up: Bohnengold, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Karina is a house and techno artist based in Norway, tracked on soundcheck, with
 
 ## Recently played
 
-- KitKatClub, Berlin — Mon, 30 Mar 2026
-- SISSI'S Amsterdam, Amsterdam — Fri, 20 Feb 2026
-- Soundbaths, Madrid — Sat, 24 Jan 2026
-- KitKatClub, Berlin — Mon, 14 Jul 2025
-- KitKatClub, Berlin — Mon, 17 Mar 2025
-- Shelter Amsterdam, Amsterdam — Fri, 14 Mar 2025
-- iNN Amsterdam, Amsterdam — Sat, 8 Feb 2025
-- TBA - Warehouse NE DC, Washington DC — Sat, 9 Nov 2024
+- KitKatClub, Berlin · Mon, 30 Mar 2026
+- SISSI'S Amsterdam, Amsterdam · Fri, 20 Feb 2026
+- Soundbaths, Madrid · Sat, 24 Jan 2026
+- KitKatClub, Berlin · Mon, 14 Jul 2025
+- KitKatClub, Berlin · Mon, 17 Mar 2025
+- Shelter Amsterdam, Amsterdam · Fri, 14 Mar 2025
+- iNN Amsterdam, Amsterdam · Sat, 8 Feb 2025
+- TBA - Warehouse NE DC, Washington DC · Sat, 9 Nov 2024
 
 ## Shares bills with
 

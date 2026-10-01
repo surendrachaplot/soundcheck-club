@@ -1,6 +1,6 @@
 # Sequenced Minds at DSTRKT at DSTRKT Club Berlin
 
-Sequenced Minds at DSTRKT at DSTRKT Club Berlin on Fri 9 Oct, Berlin. Experimental and Psytrance. Preview the line-up and save it on soundcheck.
+Sequenced Minds at DSTRKT at DSTRKT Club Berlin on Fri 9 Oct, Berlin. Experimental and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

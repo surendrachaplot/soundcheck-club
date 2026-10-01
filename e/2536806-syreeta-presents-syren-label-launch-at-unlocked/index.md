@@ -1,6 +1,6 @@
 # SYREETA presents: SYREN Label Launch at UNLOCKED
 
-SYREETA presents: SYREN Label Launch at UNLOCKED on Thu 15 Oct, London. 3 artists on the bill: Bradley Skeng, Huxley and SYREETA. House and Tech House. Preview the line-up and save it on soundcheck.
+SYREETA presents: SYREN Label Launch at UNLOCKED on Thu 15 Oct, London. 3 artists: Bradley Skeng, Huxley and SYREETA. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 'Dia de la rauxa', a gathering with live music in catalan at B.L.O-Ateliers
 
-'Dia de la rauxa', a gathering with live music in catalan at B.L.O-Ateliers on Sat 17 Oct, Berlin. Preview the line-up and save it on soundcheck.
+'Dia de la rauxa', a gathering with live music in catalan at B.L.O-Ateliers on Sat 17 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

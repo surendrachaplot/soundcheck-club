@@ -1,6 +1,6 @@
 # rshand at Ora
 
-rshand at Ora on Fri 4 Dec, Seattle. Progressive House and House. Preview the line-up and save it on soundcheck.
+rshand at Ora on Fri 4 Dec, Seattle. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

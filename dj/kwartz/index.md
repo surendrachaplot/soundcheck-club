@@ -1,8 +1,8 @@
 # Kwartz
 
-Kwartz is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at fabric, London on Sat, 10 Oct 2026.
+Kwartz is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Sat, 10 Oct 2026.
 
-Kwartz is a techno and house artist based in Spain, tracked on soundcheck, with 92 sets logged across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kaiser (K S R), BLANKA and Beste Hira. Next up: fabric, London on Sat 10 Oct.
+Kwartz is a techno and house artist based in Spain, with 92 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 29 more. Often billed alongside Kaiser (K S R), BLANKA and Beste Hira. Next up: fabric, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kwartz is a techno and house artist based in Spain, tracked on soundcheck, with 
 
 ## Recently played
 
-- CLUB RAUM, Amsterdam — Fri, 11 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 22 Aug 2026
-- Razzmatazz, Barcelona — Sat, 22 Aug 2026
-- LAB theCLUB, Madrid — Fri, 10 Jul 2026
-- TILLATEC, Amsterdam — Fri, 3 Jul 2026
-- SMUT Athens, Athens — Sat, 27 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 20 Jun 2026
-- Fvtvr, Paris — Fri, 12 Jun 2026
+- CLUB RAUM, Amsterdam · Fri, 11 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
+- Razzmatazz, Barcelona · Sat, 22 Aug 2026
+- LAB theCLUB, Madrid · Fri, 10 Jul 2026
+- TILLATEC, Amsterdam · Fri, 3 Jul 2026
+- SMUT Athens, Athens · Sat, 27 Jun 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 20 Jun 2026
+- Fvtvr, Paris · Fri, 12 Jun 2026
 
 ## Shares bills with
 

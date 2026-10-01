@@ -1,8 +1,8 @@
 # FASHION (US)
 
-FASHION (US) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at BASEMENT, New York City on Sat, 10 Oct 2026.
+FASHION (US) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BASEMENT, New York City on Sat, 10 Oct 2026.
 
-FASHION (US) is a techno and club artist based in United States of America, tracked on soundcheck, with 74 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Makadsi, Memphy and Sausha. Next up: BASEMENT, New York City on Sat 10 Oct.
+FASHION (US) is a techno and club artist based in United States of America, with 74 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 10 more. Often billed alongside Makadsi, Memphy and Sausha. Next up: BASEMENT, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ FASHION (US) is a techno and club artist based in United States of America, trac
 
 ## Recently played
 
-- Bangkok Island, Bangkok — Sat, 26 Sept 2026
-- Padimai Art & Tech Studio, Singapore — Sat, 12 Sept 2026
-- Nowadays, New York City — Sat, 27 Jun 2026
-- Paragon, New York City — Thu, 25 Jun 2026
-- TBA, New York City — Fri, 12 Jun 2026
-- Club Bohemia, New York City — Sat, 14 Feb 2026
-- Paragon, New York City — Sat, 17 Jan 2026
-- TBA, New York City — Fri, 2 Jan 2026
+- Bangkok Island, Bangkok · Sat, 26 Sept 2026
+- Padimai Art & Tech Studio, Singapore · Sat, 12 Sept 2026
+- Nowadays, New York City · Sat, 27 Jun 2026
+- Paragon, New York City · Thu, 25 Jun 2026
+- TBA, New York City · Fri, 12 Jun 2026
+- Club Bohemia, New York City · Sat, 14 Feb 2026
+- Paragon, New York City · Sat, 17 Jan 2026
+- TBA, New York City · Fri, 2 Jan 2026
 
 ## Shares bills with
 

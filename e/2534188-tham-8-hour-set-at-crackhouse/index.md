@@ -1,6 +1,6 @@
 # Tham 8 HOUR SET at Crackhouse
 
-Tham 8 HOUR SET at Crackhouse on Sat 3 Oct, Gdansk. 1 artist on the bill: Tham. Preview the line-up and save it on soundcheck.
+Tham 8 HOUR SET at Crackhouse on Sat 3 Oct, Gdansk. 1 artist: Tham. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

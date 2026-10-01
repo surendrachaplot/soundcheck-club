@@ -1,6 +1,6 @@
 # KUKO & Vendex at Kompass at Kompass Klub
 
-KUKO & Vendex at Kompass at Kompass Klub on Sat 12 Dec, Ghent. 5 artists on the bill: Alignment, Johannes Schuster, KASIENKA and KUKO and 1 more. Preview the line-up and save it on soundcheck.
+KUKO & Vendex at Kompass at Kompass Klub on Sat 12 Dec, Ghent. 5 artists: Alignment, Johannes Schuster, KASIENKA and KUKO and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

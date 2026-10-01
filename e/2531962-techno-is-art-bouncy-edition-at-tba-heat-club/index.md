@@ -1,6 +1,6 @@
 # TECHNO IS ART - BOUNCY EDITION at TBA - Heat Club
 
-TECHNO IS ART - BOUNCY EDITION at TBA - Heat Club on Sat 17 Oct, Switzerland. 2 artists on the bill: Bárbara Lago and Ueberrest. Preview the line-up and save it on soundcheck.
+TECHNO IS ART - BOUNCY EDITION at TBA - Heat Club on Sat 17 Oct, Switzerland. 2 artists: Bárbara Lago and Ueberrest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

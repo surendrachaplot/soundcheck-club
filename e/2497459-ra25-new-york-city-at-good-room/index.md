@@ -1,6 +1,6 @@
 # RA25: New York City at Good Room
 
-RA25: New York City at Good Room on Fri 9 Oct, New York City. 7 artists on the bill: adobeprincess, Baalti, Galcher Lustwerk and Kilopatrah Jones and 3 more. Preview the line-up and save it on soundcheck.
+RA25: New York City at Good Room on Fri 9 Oct, New York City. 7 artists: adobeprincess, Baalti, Galcher Lustwerk and Kilopatrah Jones and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

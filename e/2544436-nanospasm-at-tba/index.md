@@ -1,6 +1,6 @@
 # NANOSPASM at TBA
 
-NANOSPASM at TBA on Sat 10 Oct, Chicago. Electro and IDM. Preview the line-up and save it on soundcheck.
+NANOSPASM at TBA on Sat 10 Oct, Chicago. Electro and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

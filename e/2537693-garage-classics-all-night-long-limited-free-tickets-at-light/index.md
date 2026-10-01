@@ -1,6 +1,6 @@
 # Garage Classics All Night Long - Limited Free Tickets at Lightbox
 
-Garage Classics All Night Long - Limited Free Tickets at Lightbox on Fri 2 Oct, London. Garage. Preview the line-up and save it on soundcheck.
+Garage Classics All Night Long - Limited Free Tickets at Lightbox on Fri 2 Oct, London. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

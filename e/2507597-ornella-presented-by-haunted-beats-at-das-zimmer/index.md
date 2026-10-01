@@ -1,6 +1,6 @@
 # Ornella presented by Haunted Beats at Das Zimmer
 
-Ornella presented by Haunted Beats at Das Zimmer on Fri 9 Oct, Mannheim. 3 artists on the bill: Antigen, Cherry and Ornella. Preview the line-up and save it on soundcheck.
+Ornella presented by Haunted Beats at Das Zimmer on Fri 9 Oct, Mannheim. 3 artists: Antigen, Cherry and Ornella. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

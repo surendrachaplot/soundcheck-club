@@ -1,6 +1,6 @@
 # STUDIO 69 w/ DJ BUSINESS b2b Wall Ra at Broncos
 
-STUDIO 69 w/ DJ BUSINESS b2b Wall Ra at Broncos on Sat 31 Oct, Hannover. 2 artists on the bill: DJ Business and Wall Ra. Preview the line-up and save it on soundcheck.
+STUDIO 69 w/ DJ BUSINESS b2b Wall Ra at Broncos on Sat 31 Oct, Hannover. 2 artists: DJ Business and Wall Ra. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

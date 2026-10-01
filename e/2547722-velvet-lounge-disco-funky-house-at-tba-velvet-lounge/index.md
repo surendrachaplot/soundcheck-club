@@ -1,6 +1,6 @@
 # VELVET Lounge -Disco & Funky House- at TBA - VELVET Lounge
 
-VELVET Lounge -Disco & Funky House- at TBA - VELVET Lounge on Tue 6 Oct, Tokyo. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+VELVET Lounge -Disco & Funky House- at TBA - VELVET Lounge on Tue 6 Oct, Tokyo. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

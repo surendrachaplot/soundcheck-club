@@ -1,6 +1,6 @@
 # St. Paul & The Broken Bones at Grand Central Hall
 
-St. Paul & The Broken Bones at Grand Central Hall on Tue 27 Oct, Liverpool. R&B. Preview the line-up and save it on soundcheck.
+St. Paul & The Broken Bones at Grand Central Hall on Tue 27 Oct, Liverpool. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

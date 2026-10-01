@@ -1,6 +1,6 @@
 # Ring invites Daura at Ring
 
-Ring invites Daura on Fri 2 Oct, Seoul. 3 artists on the bill: Daura, S.O.N.S and Yoel. Techno and Electro. Preview the line-up and save it on soundcheck.
+Ring invites Daura on Fri 2 Oct, Seoul. 3 artists: Daura, S.O.N.S and Yoel. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

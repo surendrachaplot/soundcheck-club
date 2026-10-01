@@ -1,6 +1,6 @@
 # NO IDOLS I at TBA - Secret Location (Madrid)
 
-NO IDOLS I at TBA - Secret Location (Madrid) on Sun 11 Oct, Madrid. Preview the line-up and save it on soundcheck.
+NO IDOLS I at TBA - Secret Location (Madrid) on Sun 11 Oct, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

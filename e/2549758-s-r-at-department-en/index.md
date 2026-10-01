@@ -1,6 +1,6 @@
 # Sür at Department.en
 
-Sür at Department.en on Sat 3 Oct, Seoul. 2 artists on the bill: Gong and LEEKUNHEE. Preview the line-up and save it on soundcheck.
+Sür at Department.en on Sat 3 Oct, Seoul. 2 artists: Gong and LEEKUNHEE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

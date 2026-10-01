@@ -1,6 +1,6 @@
 # studio mule at Mitsuki
 
-studio mule at Mitsuki on Fri 2 Oct, Tokyo. 3 artists on the bill: Shinya Okamoto, Toshiya Kawasaki and XTAL. House and Deep House. Preview the line-up and save it on soundcheck.
+studio mule at Mitsuki on Fri 2 Oct, Tokyo. 3 artists: Shinya Okamoto, Toshiya Kawasaki and XTAL. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

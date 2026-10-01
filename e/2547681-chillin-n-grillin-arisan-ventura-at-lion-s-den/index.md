@@ -1,6 +1,6 @@
 # Chillin n Grillin: Arisan, Ventura at Lion's Den
 
-Chillin n Grillin: Arisan, Ventura at Lion's Den on Sun 4 Oct, Miami. Preview the line-up and save it on soundcheck.
+Chillin n Grillin: Arisan, Ventura at Lion's Den on Sun 4 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

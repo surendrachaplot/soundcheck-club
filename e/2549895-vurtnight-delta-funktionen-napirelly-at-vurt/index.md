@@ -1,6 +1,6 @@
 # vurtnight Delta Funktionen / Napirelly at vurt.
 
-vurtnight Delta Funktionen / Napirelly at vurt. on Sat 24 Oct, Seoul. 4 artists on the bill: Delta Funktionen, Jama, Napirelly and SJK. Techno. Preview the line-up and save it on soundcheck.
+vurtnight Delta Funktionen / Napirelly at vurt. on Sat 24 Oct, Seoul. 4 artists: Delta Funktionen, Jama, Napirelly and SJK. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

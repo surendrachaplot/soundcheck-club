@@ -1,6 +1,6 @@
 # D.A.N.C.E: 10 Year feat. Bag Raiders, Uffie, & CSS at 1720
 
-D.A.N.C.E: 10 Year feat. Bag Raiders, Uffie, & CSS at 1720 on Fri 6 Nov, Los Angeles. 3 artists on the bill: Bag Raiders, CSS and Uffie. House and Electronica. Preview the line-up and save it on soundcheck.
+D.A.N.C.E: 10 Year feat. Bag Raiders, Uffie, & CSS at 1720 on Fri 6 Nov, Los Angeles. 3 artists: Bag Raiders, CSS and Uffie. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

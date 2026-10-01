@@ -1,8 +1,8 @@
 # Gallegos
 
-Gallegos is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Club Cheek, London on Fri, 16 Oct 2026.
+Gallegos is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Cheek, London on Fri, 16 Oct 2026.
 
-Gallegos is a house and techno artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Belfast, Berlin, Bristol and Edinburgh and 7 more. Often billed alongside nd_baumecker, Fadi Mohem and JakoJako. Next up: Club Cheek, London on Fri 16 Oct.
+Gallegos is a house and techno artist based in United Kingdom, with 49 gigs on soundcheck across Belfast, Berlin, Bristol and Edinburgh and 7 more. Often billed alongside nd_baumecker, Fadi Mohem and JakoJako. Next up: Club Cheek, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Gallegos is a house and techno artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 27 Jun 2026
-- fabric, London — Fri, 6 Mar 2026
-- Phonica Records, London — Fri, 6 Mar 2026
-- The Ulster Sports Club, Belfast — Sat, 7 Feb 2026
-- The Red Church, Bristol — Wed, 31 Dec 2025
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 13 Dec 2025
-- Motion, Bristol — Sat, 6 Dec 2025
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 8 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 27 Jun 2026
+- fabric, London · Fri, 6 Mar 2026
+- Phonica Records, London · Fri, 6 Mar 2026
+- The Ulster Sports Club, Belfast · Sat, 7 Feb 2026
+- The Red Church, Bristol · Wed, 31 Dec 2025
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 13 Dec 2025
+- Motion, Bristol · Sat, 6 Dec 2025
 
 ## Shares bills with
 

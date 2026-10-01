@@ -1,6 +1,6 @@
 # Cult Member at Coda
 
-Cult Member at Coda on Thu 1 Oct, Toronto. 1 artist on the bill: Cult Member. Preview the line-up and save it on soundcheck.
+Cult Member at Coda on Thu 1 Oct, Toronto. 1 artist: Cult Member. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

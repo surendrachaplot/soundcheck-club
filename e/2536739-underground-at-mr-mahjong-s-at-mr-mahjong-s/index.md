@@ -1,6 +1,6 @@
 # Underground at Mr. Mahjong's at Mr. Mahjong’s
 
-Underground at Mr. Mahjong's at Mr. Mahjong’s on Sat 3 Oct, San Francisco/Oakland. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Underground at Mr. Mahjong's at Mr. Mahjong’s on Sat 3 Oct, San Francisco/Oakland. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

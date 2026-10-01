@@ -1,6 +1,6 @@
 # RELAX or ROLEX with TIMELESS MOMENTS at Club Frau Holle
 
-RELAX or ROLEX with TIMELESS MOMENTS at Club Frau Holle on Thu 1 Oct, Hamburg. Techno and House. Preview the line-up and save it on soundcheck.
+RELAX or ROLEX with TIMELESS MOMENTS at Club Frau Holle on Thu 1 Oct, Hamburg. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

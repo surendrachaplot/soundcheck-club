@@ -1,6 +1,6 @@
 # Mahmut Orhan - VIENNA, Pyramide Vösendorf at Eventpyramide Vösendorf
 
-Mahmut Orhan - VIENNA, Pyramide Vösendorf at Eventpyramide Vösendorf on Sat 3 Oct, Austria. 1 artist on the bill: Mahmut Orhan. Preview the line-up and save it on soundcheck.
+Mahmut Orhan - VIENNA, Pyramide Vösendorf at Eventpyramide Vösendorf on Sat 3 Oct, Austria. 1 artist: Mahmut Orhan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

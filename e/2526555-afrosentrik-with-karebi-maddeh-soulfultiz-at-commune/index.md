@@ -1,6 +1,6 @@
 # Afrosentrik with KAREBI, MADDEH & Soulfultiz at Commune
 
-Afrosentrik with KAREBI, MADDEH & Soulfultiz at Commune on Fri 2 Oct, Liverpool. 1 artist on the bill: SOULFULTIZ. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+Afrosentrik with KAREBI, MADDEH & Soulfultiz at Commune on Fri 2 Oct, Liverpool. 1 artist: SOULFULTIZ. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

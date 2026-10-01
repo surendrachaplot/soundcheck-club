@@ -1,8 +1,8 @@
 # Angelo Ferreri
 
-Angelo Ferreri is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
+Angelo Ferreri is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Twenty Two, Amsterdam on Fri, 23 Oct 2026.
 
-Angelo Ferreri is a house and tech house artist based in Italy, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 8 more. Often billed alongside Hatiras, Vincent Caira and Black Legend. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
+Angelo Ferreri is a house and tech house artist based in Italy, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 8 more. Often billed alongside Hatiras, Vincent Caira and Black Legend. Next up: Bar Twenty Two, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Angelo Ferreri is a house and tech house artist based in Italy, tracked on sound
 
 ## Recently played
 
-- Eden, Ibiza — Wed, 9 Sept 2026
-- TBA - indoor / outdoor Toronto warehouse venue to be announced to ticket holders, Toronto — Sat, 1 Aug 2026
-- Q-Factory, Amsterdam — Fri, 24 Oct 2025
-- Vic's Bar, Amsterdam — Fri, 24 Oct 2025
-- TBA - City Botanic Gardens River Hub, Brisbane — Sun, 5 Oct 2025
-- OneSixOne, Melbourne — Fri, 3 Oct 2025
-- TBA - Toronto, Toronto — Sat, 30 Aug 2025
-- Tide Nightclub, Brighton — Fri, 23 May 2025
+- Eden, Ibiza · Wed, 9 Sept 2026
+- TBA - indoor / outdoor Toronto warehouse venue to be announced to ticket holders, Toronto · Sat, 1 Aug 2026
+- Q-Factory, Amsterdam · Fri, 24 Oct 2025
+- Vic's Bar, Amsterdam · Fri, 24 Oct 2025
+- TBA - City Botanic Gardens River Hub, Brisbane · Sun, 5 Oct 2025
+- OneSixOne, Melbourne · Fri, 3 Oct 2025
+- TBA - Toronto, Toronto · Sat, 30 Aug 2025
+- Tide Nightclub, Brighton · Fri, 23 May 2025
 
 ## Shares bills with
 

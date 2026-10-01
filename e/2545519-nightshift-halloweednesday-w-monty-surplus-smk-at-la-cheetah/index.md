@@ -1,6 +1,6 @@
 # NIGHTSHIFT: Halloweednesday w/ Monty, Surplus + SMK at La Cheetah Club
 
-NIGHTSHIFT: Halloweednesday w/ Monty, Surplus + SMK at La Cheetah Club on Wed 28 Oct, Glasgow. 2 artists on the bill: SMK and Surplus. Deep House and Minimal Techno. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT: Halloweednesday w/ Monty, Surplus + SMK at La Cheetah Club on Wed 28 Oct, Glasgow. 2 artists: SMK and Surplus. Deep House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

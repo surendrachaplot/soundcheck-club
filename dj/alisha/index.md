@@ -1,8 +1,8 @@
 # ALISHA
 
-ALISHA is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
+ALISHA is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-ALISHA is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
+ALISHA is a house and tech house artist based in United Kingdom, with 181 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Barcelona and 32 more. Often billed alongside East End Dubs, Jamie Jones and Max Dean. Next up: Amnesia Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ ALISHA is a house and tech house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 22 Sept 2026
-- Thuishaven, Amsterdam — Sun, 20 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- Cova Santa, Ibiza — Mon, 7 Sept 2026
-- Madrid Caja Mágica, Madrid — Sat, 5 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- [UNVRS], Ibiza — Wed, 19 Aug 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 22 Sept 2026
+- Thuishaven, Amsterdam · Sun, 20 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- Cova Santa, Ibiza · Mon, 7 Sept 2026
+- Madrid Caja Mágica, Madrid · Sat, 5 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- [UNVRS], Ibiza · Wed, 19 Aug 2026
 
 ## Shares bills with
 

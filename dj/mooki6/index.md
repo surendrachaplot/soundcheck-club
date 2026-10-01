@@ -1,8 +1,8 @@
 # Mooki6
 
-Mooki6 is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
+Mooki6 is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Avalon Cafe Bermondsey, London on Sat, 7 Nov 2026.
 
-Mooki6 is a techno and bass artist based in France, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Bristol and Krakow and 4 more. Often billed alongside B4mba, TNTC and Baba Sy. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
+Mooki6 is a techno and bass artist based in France, with 21 gigs on soundcheck across Barcelona, Berlin, Bristol and Krakow and 4 more. Often billed alongside B4mba, TNTC and Baba Sy. Next up: Avalon Cafe Bermondsey, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mooki6 is a techno and bass artist based in France, tracked on soundcheck, with 
 
 ## Recently played
 
-- Ormside Projects, London — Sat, 30 May 2026
-- TBA - Secret Location near Jannowitzbrücke, Berlin — Sun, 19 Apr 2026
-- TBA - Secret Location near Jannowitzbrücke, Berlin — Sat, 18 Apr 2026
-- TBA - Secret Location near Jannowitzbrücke, Berlin — Sat, 18 Apr 2026
-- RSO.BERLIN, Berlin — Fri, 30 Jan 2026
-- Radialsystem, Berlin — Fri, 30 Jan 2026
-- Sala Upload Barcelona, Barcelona — Sat, 20 Dec 2025
-- LAUT, Barcelona — Sun, 7 Dec 2025
+- Ormside Projects, London · Sat, 30 May 2026
+- TBA - Secret Location near Jannowitzbrücke, Berlin · Sun, 19 Apr 2026
+- TBA - Secret Location near Jannowitzbrücke, Berlin · Sat, 18 Apr 2026
+- TBA - Secret Location near Jannowitzbrücke, Berlin · Sat, 18 Apr 2026
+- RSO.BERLIN, Berlin · Fri, 30 Jan 2026
+- Radialsystem, Berlin · Fri, 30 Jan 2026
+- Sala Upload Barcelona, Barcelona · Sat, 20 Dec 2025
+- LAUT, Barcelona · Sun, 7 Dec 2025
 
 ## Shares bills with
 

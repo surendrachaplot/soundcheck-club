@@ -1,6 +1,6 @@
 # Toffler presents BASSJACKERS - All night long at Toffler
 
-Toffler presents BASSJACKERS - All night long on Fri 2 Oct, Rotterdam. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Toffler presents BASSJACKERS - All night long on Fri 2 Oct, Rotterdam. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

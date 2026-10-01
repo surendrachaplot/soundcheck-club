@@ -1,6 +1,6 @@
 # Outer Heaven x Open Air Club: Demi Riquisimo at TBA
 
-Outer Heaven x Open Air Club: Demi Riquisimo at TBA on Sat 10 Oct, New York City. 5 artists on the bill: Amanda Simpson, Demi Riquisimo, Jack Mulqueen and Ksenyeah and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+Outer Heaven x Open Air Club: Demi Riquisimo at TBA on Sat 10 Oct, New York City. 5 artists: Amanda Simpson, Demi Riquisimo, Jack Mulqueen and Ksenyeah and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

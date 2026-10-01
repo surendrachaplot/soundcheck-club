@@ -1,6 +1,6 @@
 # ///blush vol.2/// - curated by Geschwofe-Kollektiv at TBA - Leipzig West (KH89)
 
-///blush vol.2/// - curated by Geschwofe-Kollektiv at TBA - Leipzig West (KH89) on Fri 9 Oct, Leipzig. 1 artist on the bill: Johænsson. House and Tech House. Preview the line-up and save it on soundcheck.
+///blush vol.2/// - curated by Geschwofe-Kollektiv at TBA - Leipzig West (KH89) on Fri 9 Oct, Leipzig. 1 artist: Johænsson. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

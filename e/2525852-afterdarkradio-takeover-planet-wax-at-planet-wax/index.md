@@ -1,6 +1,6 @@
 # AFTERDARKRADIO: Takeover Planet Wax at Planet Wax
 
-AFTERDARKRADIO: Takeover Planet Wax on Sat 3 Oct, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+AFTERDARKRADIO: Takeover Planet Wax on Sat 3 Oct, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

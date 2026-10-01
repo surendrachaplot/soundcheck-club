@@ -1,6 +1,6 @@
 # VIVA Baile at Lightbox
 
-VIVA Baile at Lightbox on Sat 3 Oct, London. Baile Funk. Preview the line-up and save it on soundcheck.
+VIVA Baile at Lightbox on Sat 3 Oct, London. Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

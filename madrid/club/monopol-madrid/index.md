@@ -1,8 +1,8 @@
 # Monopol Madrid
 
-Monopol Madrid is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "David August Artist on Residency Listening Sesion x Monopol LAB" on Wed, 7 Oct 2026.
+Monopol Madrid is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "David August Artist on Residency Listening Sesion x Monopol LAB" on Wed, 7 Oct 2026.
 
-Monopol Madrid is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including David August and El Buho. Browse upcoming dates, start times and who's playing. Gran Vía, 11, Centro, Centro, 28013 Madrid.
+Monopol Madrid is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including David August and El Buho. See dates, start times and who's playing. Gran Vía, 11, Centro, Centro, 28013 Madrid.
 
 ## What's on
 

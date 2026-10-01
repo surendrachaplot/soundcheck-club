@@ -1,6 +1,6 @@
 # THAT GARAGE SOUND: TAKEOVER Planet Wax at Planet Wax
 
-THAT GARAGE SOUND: TAKEOVER Planet Wax on Sat 17 Oct, London. 6 artists on the bill: DJ Para, Ive Lovers, Michael Pieterse and Ray Hurley and 2 more. Garage. Preview the line-up and save it on soundcheck.
+THAT GARAGE SOUND: TAKEOVER Planet Wax on Sat 17 Oct, London. 6 artists: DJ Para, Ive Lovers, Michael Pieterse and Ray Hurley and 2 more. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

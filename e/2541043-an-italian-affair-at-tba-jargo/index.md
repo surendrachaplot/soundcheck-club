@@ -1,6 +1,6 @@
 # An Italian Affair at TBA - JARGO 
 
-An Italian Affair at TBA - JARGO  on Fri 9 Oct, London. 1 artist on the bill: Raineri. Amapiano and Afro House. Preview the line-up and save it on soundcheck.
+An Italian Affair at TBA - JARGO  on Fri 9 Oct, London. 1 artist: Raineri. Amapiano and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

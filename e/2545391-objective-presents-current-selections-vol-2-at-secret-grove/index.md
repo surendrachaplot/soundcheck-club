@@ -1,6 +1,6 @@
 # Objective presents: Current Selections Vol.2 at Secret Grove
 
-Objective presents: Current Selections Vol.2 at Secret Grove on Fri 16 Oct, Portland. Bass. Preview the line-up and save it on soundcheck.
+Objective presents: Current Selections Vol.2 at Secret Grove on Fri 16 Oct, Portland. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

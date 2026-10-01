@@ -1,6 +1,6 @@
 # 8Y Amigo with Samuel Deep, Ben Kamal & mm_anon at Amigo
 
-8Y Amigo with Samuel Deep, Ben Kamal & mm_anon on Fri 20 Nov, Ghent. 2 artists on the bill: Ben Kamal and Samuel Deep. House and Minimal. Preview the line-up and save it on soundcheck.
+8Y Amigo with Samuel Deep, Ben Kamal & mm_anon on Fri 20 Nov, Ghent. 2 artists: Ben Kamal and Samuel Deep. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # YUSU 6 YEARS at Skatecafe
 
-YUSU 6 YEARS at Skatecafe on Sat 10 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+YUSU 6 YEARS at Skatecafe on Sat 10 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # IT'S MURPH at New City Gas
 
-IT'S MURPH at New City Gas on Sat 21 Nov, Montreal. Preview the line-up and save it on soundcheck.
+IT'S MURPH at New City Gas on Sat 21 Nov, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jubilee at Loso
 
-Jubilee at Loso on Sat 10 Oct, Richmond. 1 artist on the bill: Jubilee. Preview the line-up and save it on soundcheck.
+Jubilee at Loso on Sat 10 Oct, Richmond. 1 artist: Jubilee. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

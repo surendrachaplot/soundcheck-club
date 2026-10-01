@@ -1,6 +1,6 @@
 # MISH-MASH at Dogenzaka Church
 
-MISH-MASH at Dogenzaka Church on Wed 7 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+MISH-MASH at Dogenzaka Church on Wed 7 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

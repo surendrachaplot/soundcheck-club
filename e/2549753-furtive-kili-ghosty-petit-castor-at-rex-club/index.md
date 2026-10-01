@@ -1,6 +1,6 @@
 # Furtive: Kili, Ghosty, Petit Castor at Rex Club
 
-Furtive: Kili, Ghosty, Petit Castor at Rex Club on Thu 29 Oct, Paris. 2 artists on the bill: Ghosty and Kili. Techno. Preview the line-up and save it on soundcheck.
+Furtive: Kili, Ghosty, Petit Castor at Rex Club on Thu 29 Oct, Paris. 2 artists: Ghosty and Kili. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

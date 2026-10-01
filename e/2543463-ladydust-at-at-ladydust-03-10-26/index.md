@@ -1,6 +1,6 @@
 # LADYDUST at ΜΠΑΡ ΔΙΕΘΝΕΣ at Ladydust @ Μπαρ Διεθνεσ — 03.10.26
 
-LADYDUST at ΜΠΑΡ ΔΙΕΘΝΕΣ at Ladydust @ Μπαρ Διεθνεσ — 03.10.26 on Sat 3 Oct, Athens. Preview the line-up and save it on soundcheck.
+LADYDUST at ΜΠΑΡ ΔΙΕΘΝΕΣ at Ladydust @ Μπαρ Διεθνεσ — 03.10.26 on Sat 3 Oct, Athens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

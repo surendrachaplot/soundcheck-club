@@ -1,8 +1,8 @@
 # Omar+
 
-Omar+ is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Omar+ is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Omar+ is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Aberdeen, Amsterdam, Barcelona and Birmingham and 30 more. Often billed alongside Obskur, Max Dean and Joss Dean. Next up: DRUMSHEDS, London on Sat 3 Oct.
+Omar+ is a house and tech house artist based in United Kingdom, with 76 gigs on soundcheck across Aberdeen, Amsterdam, Barcelona and Birmingham and 30 more. Often billed alongside Obskur, Max Dean and Joss Dean. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Omar+ is a house and tech house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Sun, 27 Sept 2026
-- Colorado Charlie, The Hague — Fri, 25 Sept 2026
-- Spybar, Chicago — Sat, 5 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles — Sun, 2 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- [UNVRS], Ibiza — Wed, 29 Jul 2026
-- Art Club, Houston — Fri, 24 Jul 2026
+- Amnesia Ibiza, Ibiza · Sun, 27 Sept 2026
+- Colorado Charlie, The Hague · Fri, 25 Sept 2026
+- Spybar, Chicago · Sat, 5 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- TBA - Mission Four (Ace*Mission Studios) 550 S Mission Rd, Los Angeles, CA 90033, Los Angeles · Sun, 2 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- [UNVRS], Ibiza · Wed, 29 Jul 2026
+- Art Club, Houston · Fri, 24 Jul 2026
 
 ## Shares bills with
 

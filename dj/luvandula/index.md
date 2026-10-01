@@ -1,8 +1,8 @@
 # luvandula
 
-luvandula is a Downtempo and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Autumn Three, London on Thu, 8 Oct 2026.
+luvandula is a Downtempo and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Autumn Three, London on Thu, 8 Oct 2026.
 
-luvandula is a downtempo and ambient artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, Bristol, Leeds and London. Often billed alongside teleopath, Aquamarine and Avsluta. Next up: Autumn Three, London on Thu 8 Oct.
+luvandula is a downtempo and ambient artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Bristol, Leeds and London. Often billed alongside teleopath, Aquamarine and Avsluta. Next up: Autumn Three, London on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ luvandula is a downtempo and ambient artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Sauna Social Club, London — Fri, 28 Aug 2026
-- Om Being, London — Fri, 1 May 2026
-- Unit 58, London — Sat, 11 Apr 2026
-- Hope House, Leeds — Sat, 21 Mar 2026
-- The Old Church, London — Thu, 29 Jan 2026
-- ., Berlin — Sun, 25 Jan 2026
-- Coro Wine and Vinyls, Berlin — Fri, 23 Jan 2026
-- Renate, Berlin — Sat, 26 Jul 2025
+- Sauna Social Club, London · Fri, 28 Aug 2026
+- Om Being, London · Fri, 1 May 2026
+- Unit 58, London · Sat, 11 Apr 2026
+- Hope House, Leeds · Sat, 21 Mar 2026
+- The Old Church, London · Thu, 29 Jan 2026
+- ., Berlin · Sun, 25 Jan 2026
+- Coro Wine and Vinyls, Berlin · Fri, 23 Jan 2026
+- Renate, Berlin · Sat, 26 Jul 2025
 
 ## Shares bills with
 

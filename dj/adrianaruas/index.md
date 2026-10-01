@@ -1,8 +1,8 @@
 # Adriana Ruas
 
-Adriana Ruas is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Casa Capitão, Lisbon on Sat, 24 Oct 2026.
+Adriana Ruas is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Capitão, Lisbon on Sat, 24 Oct 2026.
 
-Adriana Ruas is a house and techno artist tracked on soundcheck, with 67 sets logged across Amsterdam, Bali, Barcelona and Berlin and 5 more. Often billed alongside Alfonsvs, Nuno Carneiro and Jorge Caiado. Next up: Casa Capitão, Lisbon on Sat 24 Oct.
+Adriana Ruas is a house and techno artist, with 67 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 5 more. Often billed alongside Alfonsvs, Nuno Carneiro and Jorge Caiado. Next up: Casa Capitão, Lisbon on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Adriana Ruas is a house and techno artist tracked on soundcheck, with 67 sets lo
 
 ## Recently played
 
-- Plano B, Porto — Fri, 14 Aug 2026
-- Kater, Berlin — Sat, 8 Aug 2026
-- TBA - Casas de Fez, nr 627, Porto — Sat, 18 Jul 2026
-- TBA - RIVAGE ALGÉS, Lisbon — Fri, 17 Jul 2026
-- Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
-- Those Who Dance, Lisbon — Fri, 26 Jun 2026
-- TBA - Casas de Fez, Foz (Porto) (door nr 627), Porto — Sat, 13 Jun 2026
-- Casa Capitão, Lisbon — Tue, 9 Jun 2026
+- Plano B, Porto · Fri, 14 Aug 2026
+- Kater, Berlin · Sat, 8 Aug 2026
+- TBA - Casas de Fez, nr 627, Porto · Sat, 18 Jul 2026
+- TBA - RIVAGE ALGÉS, Lisbon · Fri, 17 Jul 2026
+- Parque Eduardo VII, Lisbon · Fri, 3 Jul 2026
+- Those Who Dance, Lisbon · Fri, 26 Jun 2026
+- TBA - Casas de Fez, Foz (Porto) (door nr 627), Porto · Sat, 13 Jun 2026
+- Casa Capitão, Lisbon · Tue, 9 Jun 2026
 
 ## Shares bills with
 

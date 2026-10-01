@@ -1,8 +1,8 @@
 # Café des Arts
 
-Café des Arts is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Tropiz Insituut invites Mr Critical" on Sat, 10 Oct 2026.
+Café des Arts is a music venue in Antwerp with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Tropiz Insituut invites Mr Critical" on Sat, 10 Oct 2026.
 
-Café des Arts is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, with line-ups including Tom Smeyers. Browse upcoming dates, start times and who's playing. Boomgaardstraat 350, Berchem, 2600, Belgium.
+Café des Arts is a music venue in Antwerp listed on soundcheck. 2 upcoming gigs, with line-ups including Tom Smeyers. See dates, start times and who's playing. Boomgaardstraat 350, Berchem, 2600, Belgium.
 
 ## What's on
 

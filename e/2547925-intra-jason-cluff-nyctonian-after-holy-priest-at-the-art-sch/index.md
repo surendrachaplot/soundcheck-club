@@ -1,6 +1,6 @@
 # iNTRA: Jason Cluff, Nyctonian. (After Holy priest) at The Art School
 
-iNTRA: Jason Cluff, Nyctonian. (After Holy priest) at The Art School on Fri 16 Oct, Glasgow. 2 artists on the bill: Jason Cluff and Nyctonian. Techno. Preview the line-up and save it on soundcheck.
+iNTRA: Jason Cluff, Nyctonian. (After Holy priest) at The Art School on Fri 16 Oct, Glasgow. 2 artists: Jason Cluff and Nyctonian. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

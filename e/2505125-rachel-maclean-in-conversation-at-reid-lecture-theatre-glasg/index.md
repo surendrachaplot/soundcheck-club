@@ -1,6 +1,6 @@
 # Rachel Maclean In Conversation at Reid Lecture Theatre, Glasgow School of Art
 
-Rachel Maclean In Conversation at Reid Lecture Theatre, Glasgow School of Art on Fri 2 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+Rachel Maclean In Conversation at Reid Lecture Theatre, Glasgow School of Art on Fri 2 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

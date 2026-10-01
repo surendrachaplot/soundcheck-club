@@ -1,6 +1,6 @@
 # INQUISITIVE at Q Nightclub
 
-INQUISITIVE at Q Nightclub on Sat 17 Oct, Seattle. Preview the line-up and save it on soundcheck.
+INQUISITIVE at Q Nightclub on Sat 17 Oct, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

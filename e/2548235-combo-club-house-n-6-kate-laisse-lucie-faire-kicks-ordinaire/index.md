@@ -1,6 +1,6 @@
 # COMBO CLUB [House n°6 (Kate & Laisse Lucie Faire) • KICKS • Ordinaire Takeover] at Karmen Camina
 
-COMBO CLUB [House n°6 (Kate & Laisse Lucie Faire) • KICKS • Ordinaire Takeover] at Karmen Camina on Thu 22 Oct, Strasbourg. 2 artists on the bill: KICKS and Ordinaire Records. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+COMBO CLUB [House n°6 (Kate & Laisse Lucie Faire) • KICKS • Ordinaire Takeover] at Karmen Camina on Thu 22 Oct, Strasbourg. 2 artists: KICKS and Ordinaire Records. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

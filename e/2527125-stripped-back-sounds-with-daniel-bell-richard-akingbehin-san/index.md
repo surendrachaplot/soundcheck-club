@@ -1,6 +1,6 @@
 # Stripped Back Sounds with Daniel Bell, Richard Akingbehin & Sansibar at Gaffe
 
-Stripped Back Sounds with Daniel Bell, Richard Akingbehin & Sansibar at Gaffe on Fri 16 Oct, London. 3 artists on the bill: Daniel Bell, Richard Akingbehin and Sansibar. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Stripped Back Sounds with Daniel Bell, Richard Akingbehin & Sansibar at Gaffe on Fri 16 Oct, London. 3 artists: Daniel Bell, Richard Akingbehin and Sansibar. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

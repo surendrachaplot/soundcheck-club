@@ -1,8 +1,8 @@
 # Skin Club
 
-Skin Club is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SKIN ALPHA: DJ TURBO + HARDPORTO + KLEYVER" on Fri, 2 Oct 2026.
+Skin Club is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SKIN ALPHA: DJ TURBO + HARDPORTO + KLEYVER" on Fri, 2 Oct 2026.
 
-Skin Club is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alejandro Gata, Buday, Cristian Marras and DJ TURBO and 2 more. Browse upcoming dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
+Skin Club is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alejandro Gata, Buday, Cristian Marras and DJ TURBO and 2 more. See dates, start times and who's playing. C. de la Aduana, 21Centro, 28013 Madrid, Spain.
 
 ## What's on
 

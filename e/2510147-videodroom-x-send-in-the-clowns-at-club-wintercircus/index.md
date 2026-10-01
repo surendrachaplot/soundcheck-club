@@ -1,6 +1,6 @@
 # Videodroom x Send in the Clowns at Club Wintercircus
 
-Videodroom x Send in the Clowns at Club Wintercircus on Fri 9 Oct, Ghent. Preview the line-up and save it on soundcheck.
+Videodroom x Send in the Clowns at Club Wintercircus on Fri 9 Oct, Ghent. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

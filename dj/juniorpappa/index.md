@@ -1,8 +1,8 @@
 # Junior Pappa
 
-Junior Pappa is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
+Junior Pappa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Waterhouse Studios, Amsterdam on Sun, 25 Oct 2026.
 
-Junior Pappa is a techno and house artist based in Greece, tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Istanbul and Mykonos. Often billed alongside Fused, Acopo and Agent Greg. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
+Junior Pappa is a techno and house artist based in Greece, with 26 gigs on soundcheck across Amsterdam, Athens, Istanbul and Mykonos. Often billed alongside Fused, Acopo and Agent Greg. Next up: Waterhouse Studios, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Junior Pappa is a techno and house artist based in Greece, tracked on soundcheck
 
 ## Recently played
 
-- Cavo Paradiso, Mykonos — Thu, 27 Aug 2026
-- Island Athens Riviera, Athens — Thu, 20 Aug 2026
-- Cavo Paradiso, Mykonos — Wed, 22 Jul 2026
-- Island Athens Riviera, Athens — Sun, 21 Jun 2026
-- Cozmo Athens, Athens — Sun, 7 Dec 2025
-- BOO!, Athens — Fri, 17 Oct 2025
-- Cavo Paradiso, Mykonos — Sat, 27 Sept 2025
-- Island Athens Riviera, Athens — Sun, 21 Sept 2025
+- Cavo Paradiso, Mykonos · Thu, 27 Aug 2026
+- Island Athens Riviera, Athens · Thu, 20 Aug 2026
+- Cavo Paradiso, Mykonos · Wed, 22 Jul 2026
+- Island Athens Riviera, Athens · Sun, 21 Jun 2026
+- Cozmo Athens, Athens · Sun, 7 Dec 2025
+- BOO!, Athens · Fri, 17 Oct 2025
+- Cavo Paradiso, Mykonos · Sat, 27 Sept 2025
+- Island Athens Riviera, Athens · Sun, 21 Sept 2025
 
 ## Shares bills with
 

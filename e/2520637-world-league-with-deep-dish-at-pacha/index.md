@@ -1,6 +1,6 @@
 # World League with Deep Dish at Pacha
 
-World League with Deep Dish at Pacha on Fri 2 Oct, Munich. 2 artists on the bill: André Hommen and Deep Dish. House. Preview the line-up and save it on soundcheck.
+World League with Deep Dish at Pacha on Fri 2 Oct, Munich. 2 artists: André Hommen and Deep Dish. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

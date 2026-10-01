@@ -1,6 +1,6 @@
 # Munity 05 at Pier 15, Breda
 
-Munity 05 at Pier 15, Breda on Sat 28 Nov, Netherlands. 3 artists on the bill: Jeans (NL), Montse and Voorman. Preview the line-up and save it on soundcheck.
+Munity 05 at Pier 15, Breda on Sat 28 Nov, Netherlands. 3 artists: Jeans (NL), Montse and Voorman. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

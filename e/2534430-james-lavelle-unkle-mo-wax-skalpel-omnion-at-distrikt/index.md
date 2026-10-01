@@ -1,6 +1,6 @@
 # James Lavelle (UNKLE / Mo'Wax) + Skalpel + Omnion at Distrikt
 
-James Lavelle (UNKLE / Mo'Wax) + Skalpel + Omnion at Distrikt on Sat 17 Oct, Prague. 1 artist on the bill: James Lavelle. Downtempo and Acid. Preview the line-up and save it on soundcheck.
+James Lavelle (UNKLE / Mo'Wax) + Skalpel + Omnion at Distrikt on Sat 17 Oct, Prague. 1 artist: James Lavelle. Downtempo and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

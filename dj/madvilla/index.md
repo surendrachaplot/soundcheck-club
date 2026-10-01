@@ -1,8 +1,8 @@
 # MADVILLA
 
-MADVILLA is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Cause, London on Sun, 1 Nov 2026.
+MADVILLA is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cause, London on Sun, 1 Nov 2026.
 
-MADVILLA is a house and tech house artist based in United States of America, tracked on soundcheck, with 66 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 19 more. Often billed alongside Garrett David, Benji King and Captain Wallop. Next up: The Cause, London on Sun 1 Nov.
+MADVILLA is a house and tech house artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 19 more. Often billed alongside Garrett David, Benji King and Captain Wallop. Next up: The Cause, London on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ MADVILLA is a house and tech house artist based in United States of America, tra
 
 ## Recently played
 
-- The Racket Space, Dublin — Fri, 25 Sept 2026
-- Hidden, Manchester — Sat, 19 Sept 2026
-- Night Tales, London — Sat, 15 Aug 2026
-- NUMBER 90 LONDON, London — Thu, 30 Jul 2026
-- Starlane Pizza Bar, London — Sat, 27 Jun 2026
-- PROGRESS, Manchester — Sat, 6 Jun 2026
-- The Loft, Manchester — Sat, 6 Jun 2026
-- Ouseburn Garden, Newcastle — Sat, 30 May 2026
+- The Racket Space, Dublin · Fri, 25 Sept 2026
+- Hidden, Manchester · Sat, 19 Sept 2026
+- Night Tales, London · Sat, 15 Aug 2026
+- NUMBER 90 LONDON, London · Thu, 30 Jul 2026
+- Starlane Pizza Bar, London · Sat, 27 Jun 2026
+- PROGRESS, Manchester · Sat, 6 Jun 2026
+- The Loft, Manchester · Sat, 6 Jun 2026
+- Ouseburn Garden, Newcastle · Sat, 30 May 2026
 
 ## Shares bills with
 

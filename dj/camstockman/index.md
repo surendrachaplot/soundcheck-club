@@ -1,8 +1,8 @@
 # Cam Stockman
 
-Cam Stockman is a House and Tech House artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Nest, Nottingham on Sat, 3 Oct 2026.
+Cam Stockman is a House and Tech House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Nest, Nottingham on Sat, 3 Oct 2026.
 
-Cam Stockman is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Gaskin, Locky and Tommy Phillips. Next up: The Nest, Nottingham on Sat 3 Oct.
+Cam Stockman is a house and tech house artist based in United Kingdom, with 72 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Gaskin, Locky and Tommy Phillips. Next up: The Nest, Nottingham on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Cam Stockman is a house and tech house artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Blackstone Street Warehouse, Liverpool — Sat, 26 Sept 2026
-- [UNVRS], Ibiza — Wed, 23 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 20 Sept 2026
-- Electric Studios, Sheffield — Fri, 18 Sept 2026
-- Mint Warehouse, Leeds — Sun, 30 Aug 2026
-- Mint Warehouse, Leeds — Sun, 30 Aug 2026
-- 93 Feet East, London — Sat, 22 Aug 2026
-- Thuishaven, Amsterdam — Sun, 2 Aug 2026
+- Blackstone Street Warehouse, Liverpool · Sat, 26 Sept 2026
+- [UNVRS], Ibiza · Wed, 23 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 20 Sept 2026
+- Electric Studios, Sheffield · Fri, 18 Sept 2026
+- Mint Warehouse, Leeds · Sun, 30 Aug 2026
+- Mint Warehouse, Leeds · Sun, 30 Aug 2026
+- 93 Feet East, London · Sat, 22 Aug 2026
+- Thuishaven, Amsterdam · Sun, 2 Aug 2026
 
 ## Shares bills with
 

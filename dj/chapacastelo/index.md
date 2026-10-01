@@ -1,8 +1,8 @@
 # Chapa & Castelo
 
-Chapa & Castelo is a Tech House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 15 Jan 2027.
+Chapa & Castelo is a Tech House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri, 15 Jan 2027.
 
-Chapa & Castelo are a tech house and deep house duo tracked on soundcheck, with 22 sets logged across Barcelona, Berlin, Brazil and Buenos Aires and 6 more. Often billed alongside Jay de Lys, Bob Tosh and COLLISION. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri 15 Jan.
+Chapa & Castelo are a tech house and deep house duo, with 22 gigs on soundcheck across Barcelona, Berlin, Brazil and Buenos Aires and 6 more. Often billed alongside Jay de Lys, Bob Tosh and COLLISION. Next up: TBA - P12 Beach Club, Jurerê, Florianopolis, Brazil on Fri 15 Jan.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Chapa & Castelo are a tech house and deep house duo tracked on soundcheck, with 
 
 ## Recently played
 
-- Luz De Gas, Barcelona — Fri, 17 Jul 2026
-- Pacha Ibiza, Ibiza — Fri, 10 Jul 2026
-- Silencio, Paris — Thu, 7 May 2026
-- TBA - Crobar Club, Palermo, Buenos Aires — Sat, 18 Apr 2026
-- TBA - A confirmar, Ezeiza, Buenos Aires — Thu, 25 Dec 2025
-- TBA - Estadio Uno, La Plata, Buenos Aires — Sat, 29 Nov 2025
-- Lula Club, Madrid — Fri, 31 Oct 2025
-- Ku Barcelona, Barcelona — Sun, 25 May 2025
+- Luz De Gas, Barcelona · Fri, 17 Jul 2026
+- Pacha Ibiza, Ibiza · Fri, 10 Jul 2026
+- Silencio, Paris · Thu, 7 May 2026
+- TBA - Crobar Club, Palermo, Buenos Aires · Sat, 18 Apr 2026
+- TBA - A confirmar, Ezeiza, Buenos Aires · Thu, 25 Dec 2025
+- TBA - Estadio Uno, La Plata, Buenos Aires · Sat, 29 Nov 2025
+- Lula Club, Madrid · Fri, 31 Oct 2025
+- Ku Barcelona, Barcelona · Sun, 25 May 2025
 
 ## Shares bills with
 

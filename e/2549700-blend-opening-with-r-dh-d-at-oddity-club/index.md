@@ -1,6 +1,6 @@
 # Blend Opening with RØDHÅD at Oddity Club
 
-Blend Opening with RØDHÅD at Oddity Club on Sat 3 Oct, Athens. 3 artists on the bill: 1morning, Mikee (Athens) and Rødhåd. Preview the line-up and save it on soundcheck.
+Blend Opening with RØDHÅD at Oddity Club on Sat 3 Oct, Athens. 3 artists: 1morning, Mikee (Athens) and Rødhåd. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

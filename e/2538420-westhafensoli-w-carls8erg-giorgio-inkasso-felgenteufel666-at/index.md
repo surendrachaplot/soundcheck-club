@@ -1,6 +1,6 @@
 # WESTHAFENSOLI w. Carls8erg, Giorgio Inkasso, FELGENTEUFEL666 at TBA - Westhafen
 
-WESTHAFENSOLI w. Carls8erg, Giorgio Inkasso, FELGENTEUFEL666 at TBA - Westhafen on Sat 14 Nov, Berlin. 9 artists on the bill: Dr Subwoofer, FELGENTEUFEL666, JUICY-I and Lisatrix and 5 more. Trance and House. Preview the line-up and save it on soundcheck.
+WESTHAFENSOLI w. Carls8erg, Giorgio Inkasso, FELGENTEUFEL666 at TBA - Westhafen on Sat 14 Nov, Berlin. 9 artists: Dr Subwoofer, FELGENTEUFEL666, JUICY-I and Lisatrix and 5 more. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

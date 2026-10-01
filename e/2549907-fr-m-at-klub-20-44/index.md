@@ -1,6 +1,6 @@
 # FRØM at Klub 20/44
 
-FRØM at Klub 20/44 on Thu 1 Oct, Belgrade. House and Disco. Preview the line-up and save it on soundcheck.
+FRØM at Klub 20/44 on Thu 1 Oct, Belgrade. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Snack Jam - free entry at Under Bron
 
-Snack Jam - free entry at Under Bron on Sat 10 Oct, Stockholm. Jazz and R&B. Preview the line-up and save it on soundcheck.
+Snack Jam - free entry at Under Bron on Sat 10 Oct, Stockholm. Jazz and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

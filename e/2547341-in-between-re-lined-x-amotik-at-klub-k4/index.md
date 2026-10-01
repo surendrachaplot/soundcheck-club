@@ -1,6 +1,6 @@
 # In Between re|lined x Amotik at Klub K4
 
-In Between re|lined x Amotik at Klub K4 on Fri 13 Nov, Ljubljana. 4 artists on the bill: Amotik, Meelo.42, Stagnat and Unknown Texture. Preview the line-up and save it on soundcheck.
+In Between re|lined x Amotik at Klub K4 on Fri 13 Nov, Ljubljana. 4 artists: Amotik, Meelo.42, Stagnat and Unknown Texture. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

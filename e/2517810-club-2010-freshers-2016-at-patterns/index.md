@@ -1,6 +1,6 @@
 # club 2010: Freshers 2016 at Patterns
 
-club 2010: Freshers 2016 at Patterns on Fri 2 Oct, Brighton. Pop and R&B. Preview the line-up and save it on soundcheck.
+club 2010: Freshers 2016 at Patterns on Fri 2 Oct, Brighton. Pop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

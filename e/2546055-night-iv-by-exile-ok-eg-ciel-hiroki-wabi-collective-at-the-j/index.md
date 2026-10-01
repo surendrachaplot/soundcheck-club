@@ -1,6 +1,6 @@
 # Night IV by Exile: OK EG / Ciel / Hiroki / WABI Collective at The Jama
 
-Night IV by Exile: OK EG / Ciel / Hiroki / WABI Collective at The Jama on Fri 9 Oct, Toronto. 3 artists on the bill: Ciel, Hiroki and OK EG. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Night IV by Exile: OK EG / Ciel / Hiroki / WABI Collective at The Jama on Fri 9 Oct, Toronto. 3 artists: Ciel, Hiroki and OK EG. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

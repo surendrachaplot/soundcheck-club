@@ -1,6 +1,6 @@
 # One at Panke Social
 
-One at Panke Social on Fri 2 Oct, Sheffield. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+One at Panke Social on Fri 2 Oct, Sheffield. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

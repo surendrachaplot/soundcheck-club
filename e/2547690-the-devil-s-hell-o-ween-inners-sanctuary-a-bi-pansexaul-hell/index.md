@@ -1,6 +1,6 @@
 # The Devil's Hell-O-Ween: $inners Sanctuary- A Bi/Pansexaul Hell Rave at Wicker Park
 
-The Devil's Hell-O-Ween: $inners Sanctuary- A Bi/Pansexaul Hell Rave at Wicker Park on Sat 24 Oct, Chicago. 4 artists on the bill: Flores Negras, Glamour Cadaver, Jon McCray and VerySomething. Techno and Disco. Preview the line-up and save it on soundcheck.
+The Devil's Hell-O-Ween: $inners Sanctuary- A Bi/Pansexaul Hell Rave at Wicker Park on Sat 24 Oct, Chicago. 4 artists: Flores Negras, Glamour Cadaver, Jon McCray and VerySomething. Techno and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

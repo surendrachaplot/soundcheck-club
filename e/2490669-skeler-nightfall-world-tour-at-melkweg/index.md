@@ -1,6 +1,6 @@
 # Skeler Nightfall World Tour at Melkweg
 
-Skeler Nightfall World Tour at Melkweg on Fri 6 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+Skeler Nightfall World Tour at Melkweg on Fri 6 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Girls Like R&B - Winter Indoor Festival - Panama Amsterdam at Panama
 
-Girls Like R&B - Winter Indoor Festival - Panama Amsterdam on Sat 14 Nov, Amsterdam. R&B. Preview the line-up and save it on soundcheck.
+Girls Like R&B - Winter Indoor Festival - Panama Amsterdam on Sat 14 Nov, Amsterdam. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

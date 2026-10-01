@@ -1,6 +1,6 @@
 # GRUNT-HALLOWEEN at The Stud
 
-GRUNT-HALLOWEEN at The Stud on Sat 24 Oct, San Francisco/Oakland. 1 artist on the bill: Charles Hawthorne. Techno. Preview the line-up and save it on soundcheck.
+GRUNT-HALLOWEEN at The Stud on Sat 24 Oct, San Francisco/Oakland. 1 artist: Charles Hawthorne. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

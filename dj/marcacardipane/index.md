@@ -1,8 +1,8 @@
 # Marc Acardipane
 
-Marc Acardipane is a Hardcore and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Marc Acardipane is a Hardcore and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-Marc Acardipane is a hardcore and techno artist based in Germany, tracked on soundcheck, with 29 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Paul Elstak, Act of Rage and Mad Dog. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
+Marc Acardipane is a hardcore and techno artist based in Germany, with 29 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Brussels and 11 more. Often billed alongside Paul Elstak, Act of Rage and Mad Dog. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Marc Acardipane is a hardcore and techno artist based in Germany, tracked on sou
 
 ## Recently played
 
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 18 Jul 2026
-- Cieloterra, Rome — Fri, 29 May 2026
-- ASIAT Park, Brussels — Thu, 14 May 2026
-- Lehmann Club, Stuttgart — Fri, 10 Apr 2026
-- Warehouse, Nantes — Fri, 17 Oct 2025
-- Bootshaus, Cologne — Fri, 10 Oct 2025
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 4 Oct 2025
-- TBA - Kennemerboulevard 250, 1976 EG IJmuiden, Netherlands, Amsterdam — Sat, 13 Sept 2025
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 18 Jul 2026
+- Cieloterra, Rome · Fri, 29 May 2026
+- ASIAT Park, Brussels · Thu, 14 May 2026
+- Lehmann Club, Stuttgart · Fri, 10 Apr 2026
+- Warehouse, Nantes · Fri, 17 Oct 2025
+- Bootshaus, Cologne · Fri, 10 Oct 2025
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 4 Oct 2025
+- TBA - Kennemerboulevard 250, 1976 EG IJmuiden, Netherlands, Amsterdam · Sat, 13 Sept 2025
 
 ## Shares bills with
 

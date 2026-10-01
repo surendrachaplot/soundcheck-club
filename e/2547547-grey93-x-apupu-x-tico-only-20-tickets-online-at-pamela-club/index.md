@@ -1,6 +1,6 @@
 # Grey93 X Apupu X Tico (Only 20 Tickets Online) at Pamela Club
 
-Grey93 X Apupu X Tico (Only 20 Tickets Online) at Pamela Club on Wed 30 Sept, Paris. Preview the line-up and save it on soundcheck.
+Grey93 X Apupu X Tico (Only 20 Tickets Online) at Pamela Club on Wed 30 Sept, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

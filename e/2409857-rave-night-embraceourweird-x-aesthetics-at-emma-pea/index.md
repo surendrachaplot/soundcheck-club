@@ -1,6 +1,6 @@
 # RAVE NIGHT - embraceOurweird x Aesthetics at Emma Pea
 
-RAVE NIGHT - embraceOurweird x Aesthetics at Emma Pea on Sat 3 Oct, Berlin. Hip-Hop and Tech House. Preview the line-up and save it on soundcheck.
+RAVE NIGHT - embraceOurweird x Aesthetics at Emma Pea on Sat 3 Oct, Berlin. Hip-Hop and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

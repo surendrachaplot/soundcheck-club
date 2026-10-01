@@ -1,6 +1,6 @@
 # AMP Fest 2026 at Foufounes Electronique
 
-AMP Fest 2026 at Foufounes Electronique on Fri 9 Oct, Montreal. 11 artists on the bill: Anarchotech, Chrom, Creature (CA) and Draris and 7 more. Preview the line-up and save it on soundcheck.
+AMP Fest 2026 at Foufounes Electronique on Fri 9 Oct, Montreal. 11 artists: Anarchotech, Chrom, Creature (CA) and Draris and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

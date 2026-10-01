@@ -1,8 +1,8 @@
 # Prosumer
 
-Prosumer is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Monarch, San Francisco/Oakland on Fri, 2 Oct 2026.
+Prosumer is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Monarch, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Prosumer is a house and techno artist based in United Kingdom, tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Monarch, San Francisco/Oakland on Fri 2 Oct.
+Prosumer is a house and techno artist based in United Kingdom, with 175 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belfast and 50 more. Often billed alongside Horse Meat Disco, Peach and Job Jobse. Next up: Monarch, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Prosumer is a house and techno artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Mint XL, Leeds — Fri, 25 Sept 2026
-- The Art School, Glasgow — Thu, 24 Sept 2026
-- Night Tales Loft, London — Sat, 19 Sept 2026
-- Pontoon Budapest, Budapest — Thu, 10 Sept 2026
-- 528 Ibiza, Ibiza — Tue, 8 Sept 2026
-- Lofi, Amsterdam — Sat, 29 Aug 2026
-- Sneaky Pete's, Edinburgh — Fri, 28 Aug 2026
-- La Terrrazza, Barcelona — Sat, 22 Aug 2026
+- Mint XL, Leeds · Fri, 25 Sept 2026
+- The Art School, Glasgow · Thu, 24 Sept 2026
+- Night Tales Loft, London · Sat, 19 Sept 2026
+- Pontoon Budapest, Budapest · Thu, 10 Sept 2026
+- 528 Ibiza, Ibiza · Tue, 8 Sept 2026
+- Lofi, Amsterdam · Sat, 29 Aug 2026
+- Sneaky Pete's, Edinburgh · Fri, 28 Aug 2026
+- La Terrrazza, Barcelona · Sat, 22 Aug 2026
 
 ## Shares bills with
 

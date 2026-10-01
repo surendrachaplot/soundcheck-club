@@ -1,6 +1,6 @@
 # 'Self-talk' - guro.det with Fushiming at Koara
 
-'Self-talk' - guro.det with Fushiming at Koara on Sat 17 Oct, Tokyo. 2 artists on the bill: Fushiming and guro.det. Deep House and Disco. Preview the line-up and save it on soundcheck.
+'Self-talk' - guro.det with Fushiming at Koara on Sat 17 Oct, Tokyo. 2 artists: Fushiming and guro.det. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

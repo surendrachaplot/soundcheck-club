@@ -1,6 +1,6 @@
 # salute {open to close} ~ DAY at The White Hotel
 
-salute {open to close} ~ DAY at The White Hotel on Sun 18 Oct, Manchester. 1 artist on the bill: salute. Preview the line-up and save it on soundcheck.
+salute {open to close} ~ DAY at The White Hotel on Sun 18 Oct, Manchester. 1 artist: salute. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

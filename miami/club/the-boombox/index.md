@@ -1,8 +1,8 @@
 # The Boombox
 
-The Boombox is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "CIRCUIT" on Sat, 3 Oct 2026.
+The Boombox is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CIRCUIT" on Sat, 3 Oct 2026.
 
-The Boombox is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Aphex Twink, Demifiend, DJ Marfox and GRUE5OME and 2 more. Browse upcoming dates, start times and who's playing. 4447 SW 75 Ave Miami, FL 33155.
+The Boombox is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Aphex Twink, Demifiend, DJ Marfox and GRUE5OME and 2 more. See dates, start times and who's playing. 4447 SW 75 Ave Miami, FL 33155.
 
 ## What's on
 

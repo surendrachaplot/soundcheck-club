@@ -1,8 +1,8 @@
 # Duo Clapham
 
-Duo Clapham is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Body2Bass presents: Scaring The Hoes" on Fri, 23 Oct 2026.
+Duo Clapham is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Body2Bass presents: Scaring The Hoes" on Fri, 23 Oct 2026.
 
-Duo Clapham is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including LISAKEEKS. Browse upcoming dates, start times and who's playing. 15-16 Lendal Terrace, London SW4 7UX.
+Duo Clapham is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including LISAKEEKS. See dates, start times and who's playing. 15-16 Lendal Terrace, London SW4 7UX.
 
 ## What's on
 

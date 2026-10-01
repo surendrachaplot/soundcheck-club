@@ -1,6 +1,6 @@
 # SELECTA con Tommy Soul & Luca Sorrentini at Chiostri a Carbonara
 
-SELECTA con Tommy Soul & Luca Sorrentini at Chiostri a Carbonara on Sat 3 Oct, Naples. 2 artists on the bill: Luca Sorrentini and Tommy Soul. Preview the line-up and save it on soundcheck.
+SELECTA con Tommy Soul & Luca Sorrentini at Chiostri a Carbonara on Sat 3 Oct, Naples. 2 artists: Luca Sorrentini and Tommy Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

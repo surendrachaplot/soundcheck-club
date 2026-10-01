@@ -1,6 +1,6 @@
 # wing / Surprise at Low Four Studio
 
-wing / Surprise at Low Four Studio on Sat 17 Oct, Manchester. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+wing / Surprise at Low Four Studio on Sat 17 Oct, Manchester. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

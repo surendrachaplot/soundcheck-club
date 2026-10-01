@@ -1,6 +1,6 @@
 # Surco 13th Anniversary at Doggy Klœb
 
-Surco 13th Anniversary at Doggy Klœb on Fri 2 Oct, Malaga. 5 artists on the bill: Daniel Kelsan, DBlond, Jorgge Decar and rubbio and 1 more. Electronica. Preview the line-up and save it on soundcheck.
+Surco 13th Anniversary at Doggy Klœb on Fri 2 Oct, Malaga. 5 artists: Daniel Kelsan, DBlond, Jorgge Decar and rubbio and 1 more. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

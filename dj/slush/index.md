@@ -1,8 +1,8 @@
 # Slush
 
-Slush is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
+Slush is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
 
-Slush is a techno and hardcore artist tracked on soundcheck, with 17 sets logged across Copenhagen, Glasgow, Leeds and London and 2 more. Often billed alongside Bristol Luke, Salvo and Sam Scrvn. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
+Slush is a techno and hardcore artist, with 17 gigs on soundcheck across Copenhagen, Glasgow, Leeds and London and 2 more. Often billed alongside Bristol Luke, Salvo and Sam Scrvn. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Slush is a techno and hardcore artist tracked on soundcheck, with 17 sets logged
 
 ## Recently played
 
-- McNeills, Glasgow — Fri, 30 Jan 2026
-- McNeills, Glasgow — Fri, 5 Dec 2025
-- McNeills, Glasgow — Fri, 31 Oct 2025
-- McNeills, Glasgow — Fri, 26 Sept 2025
-- McNeills, Glasgow — Fri, 25 Jul 2025
-- McNeills, Glasgow — Fri, 30 May 2025
-- Nice N Sleazy, Glasgow — Sat, 19 Apr 2025
-- McNeills, Glasgow — Fri, 28 Mar 2025
+- McNeills, Glasgow · Fri, 30 Jan 2026
+- McNeills, Glasgow · Fri, 5 Dec 2025
+- McNeills, Glasgow · Fri, 31 Oct 2025
+- McNeills, Glasgow · Fri, 26 Sept 2025
+- McNeills, Glasgow · Fri, 25 Jul 2025
+- McNeills, Glasgow · Fri, 30 May 2025
+- Nice N Sleazy, Glasgow · Sat, 19 Apr 2025
+- McNeills, Glasgow · Fri, 28 Mar 2025
 
 ## Shares bills with
 

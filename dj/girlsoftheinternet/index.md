@@ -1,8 +1,8 @@
 # Girls of the Internet
 
-Girls of the Internet is a Disco and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Sound House, Dublin on Thu, 8 Oct 2026.
+Girls of the Internet is a Disco and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Sound House, Dublin on Thu, 8 Oct 2026.
 
-Girls of the Internet is a disco and house artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Bangkok, Berlin and Brighton and 15 more. Often billed alongside James Alexander Bright, The Shapeshifters and Melvo Baptiste. Next up: The Sound House, Dublin on Thu 8 Oct.
+Girls of the Internet is a disco and house artist based in United Kingdom, with 65 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Brighton and 15 more. Often billed alongside James Alexander Bright, The Shapeshifters and Melvo Baptiste. Next up: The Sound House, Dublin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Girls of the Internet is a disco and house artist based in United Kingdom, track
 
 ## Recently played
 
-- Fabwick, London — Sat, 26 Sept 2026
-- TBA - Select FM London, Los Angeles — Fri, 25 Sept 2026
-- TBA - address sent to all ticket holders , London — Thu, 23 Jul 2026
-- The Glove That Fits, London — Sat, 4 Jul 2026
-- Next Door Records Two, London — Thu, 2 Jul 2026
-- The Fox and Firkin, London — Fri, 26 Jun 2026
-- Miradouro de Baixo, Lisbon — Sat, 9 May 2026
-- Truman Brewery Multiple Venues, London — Sat, 25 Apr 2026
+- Fabwick, London · Sat, 26 Sept 2026
+- TBA - Select FM London, Los Angeles · Fri, 25 Sept 2026
+- TBA - address sent to all ticket holders , London · Thu, 23 Jul 2026
+- The Glove That Fits, London · Sat, 4 Jul 2026
+- Next Door Records Two, London · Thu, 2 Jul 2026
+- The Fox and Firkin, London · Fri, 26 Jun 2026
+- Miradouro de Baixo, Lisbon · Sat, 9 May 2026
+- Truman Brewery Multiple Venues, London · Sat, 25 Apr 2026
 
 ## Shares bills with
 

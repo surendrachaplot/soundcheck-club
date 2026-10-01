@@ -1,6 +1,6 @@
 # HEAVYMELLOW at Alffo Records
 
-HEAVYMELLOW at Alffo Records on Sat 24 Oct, Osaka. 2 artists on the bill: Paperkraft and skn(sakana). Techno and House. Preview the line-up and save it on soundcheck.
+HEAVYMELLOW at Alffo Records on Sat 24 Oct, Osaka. 2 artists: Paperkraft and skn(sakana). Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

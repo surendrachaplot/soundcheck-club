@@ -1,8 +1,8 @@
 # Bar A Bar
 
-Bar A Bar is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "UNDERGROUND TALES" on Sat, 3 Oct 2026.
+Bar A Bar is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "UNDERGROUND TALES" on Sat, 3 Oct 2026.
 
-Bar A Bar is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Biji, Domenico Crisci, illus1on and PETRU and 2 more. Browse upcoming dates, start times and who's playing. 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom.
+Bar A Bar is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Biji, Domenico Crisci, illus1on and PETRU and 2 more. See dates, start times and who's playing. 133-135 Stoke Newington Road; Stoke Newington; London N16 8BT; United Kingdom.
 
 ## What's on
 

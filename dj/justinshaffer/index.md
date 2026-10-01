@@ -1,8 +1,8 @@
 # Justin Shaffer
 
-Justin Shaffer is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Studio dB, Berlin on Tue, 6 Oct 2026.
+Justin Shaffer is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Studio dB, Berlin on Tue, 6 Oct 2026.
 
-Justin Shaffer is a house and techno artist based in United States of America, tracked on soundcheck, with 41 sets logged across Berlin, Detroit, Lisbon and Los Angeles and 5 more. Often billed alongside Dragana, Maayan Nidam and Dana Ruh. Next up: Studio dB, Berlin on Tue 6 Oct.
+Justin Shaffer is a house and techno artist based in United States of America, with 41 gigs on soundcheck across Berlin, Detroit, Lisbon and Los Angeles and 5 more. Often billed alongside Dragana, Maayan Nidam and Dana Ruh. Next up: Studio dB, Berlin on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Justin Shaffer is a house and techno artist based in United States of America, t
 
 ## Recently played
 
-- Haus der Visionäre, Berlin — Sat, 26 Sept 2026
-- Club der Visionaere, Berlin — Sun, 9 Aug 2026
-- AMT, Berlin — Sat, 8 Aug 2026
-- Club der Visionaere, Berlin — Sun, 26 Jul 2026
-- ZENNER, Berlin — Sun, 19 Jul 2026
-- MaHalla, Berlin — Fri, 3 Jul 2026
-- Lincoln Factory, Detroit — Mon, 25 May 2026
-- Signal, New York City — Sun, 17 May 2026
+- Haus der Visionäre, Berlin · Sat, 26 Sept 2026
+- Club der Visionaere, Berlin · Sun, 9 Aug 2026
+- AMT, Berlin · Sat, 8 Aug 2026
+- Club der Visionaere, Berlin · Sun, 26 Jul 2026
+- ZENNER, Berlin · Sun, 19 Jul 2026
+- MaHalla, Berlin · Fri, 3 Jul 2026
+- Lincoln Factory, Detroit · Mon, 25 May 2026
+- Signal, New York City · Sun, 17 May 2026
 
 ## Shares bills with
 

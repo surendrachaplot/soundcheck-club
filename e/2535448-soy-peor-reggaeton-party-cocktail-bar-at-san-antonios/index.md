@@ -1,6 +1,6 @@
 # SOY PEOR Reggaeton Party Cocktail Bar at San Antonios
 
-SOY PEOR Reggaeton Party Cocktail Bar at San Antonios on Sat 3 Oct, New York City. Disco and Reggaeton. Preview the line-up and save it on soundcheck.
+SOY PEOR Reggaeton Party Cocktail Bar at San Antonios on Sat 3 Oct, New York City. Disco and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

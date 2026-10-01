@@ -1,6 +1,6 @@
 # King Kong Kicks • Indie Pop & Hypes • Zoom Frankfurt at Zoom Club
 
-King Kong Kicks • Indie Pop & Hypes • Zoom Frankfurt at Zoom Club on Sat 7 Nov, Frankfurt. Pop. Preview the line-up and save it on soundcheck.
+King Kong Kicks • Indie Pop & Hypes • Zoom Frankfurt at Zoom Club on Sat 7 Nov, Frankfurt. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

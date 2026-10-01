@@ -1,8 +1,8 @@
 # Bee Noir
 
-Bee Noir is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Spinning D&B - Jungle presents 100% Of Bass Ft Drumsound & Bassline Smith & DJ SS " on Sat, 14 Nov 2026.
+Bee Noir is a music venue in Manchester with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Spinning D&B - Jungle presents 100% Of Bass Ft Drumsound & Bassline Smith & DJ SS " on Sat, 14 Nov 2026.
 
-Bee Noir is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Drumsound & Bassline Smith and Flux. Browse upcoming dates, start times and who's playing. Arch 1 Trinity Wy Salford M3 5EN England.
+Bee Noir is a music venue in Manchester listed on soundcheck. 1 upcoming gig, with line-ups including Drumsound & Bassline Smith and Flux. See dates, start times and who's playing. Arch 1 Trinity Wy Salford M3 5EN England.
 
 ## What's on
 

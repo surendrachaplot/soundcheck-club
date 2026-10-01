@@ -1,6 +1,6 @@
 # Stamm Club x Presion Sonora at TBA
 
-Stamm Club x Presion Sonora at TBA on Fri 23 Oct, Madrid. House and Electro. Preview the line-up and save it on soundcheck.
+Stamm Club x Presion Sonora at TBA on Fri 23 Oct, Madrid. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

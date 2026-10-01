@@ -1,6 +1,6 @@
 # Culture feat. Kenyatta Hill & Cedric Myton (The Congos) at The Jazz Cafe
 
-Culture feat. Kenyatta Hill & Cedric Myton (The Congos) at The Jazz Cafe on Wed 11 Nov, London. Dub. Preview the line-up and save it on soundcheck.
+Culture feat. Kenyatta Hill & Cedric Myton (The Congos) at The Jazz Cafe on Wed 11 Nov, London. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

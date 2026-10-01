@@ -1,6 +1,6 @@
 # Pernovitc - Live Modulaire at Cafe des Minimes
 
-Pernovitc - Live Modulaire at Cafe des Minimes on Fri 4 Dec, Brussels. Techno and House. Preview the line-up and save it on soundcheck.
+Pernovitc - Live Modulaire at Cafe des Minimes on Fri 4 Dec, Brussels. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

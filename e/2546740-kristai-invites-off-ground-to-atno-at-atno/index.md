@@ -1,6 +1,6 @@
 # Kristai Invites: OFF GROUND to Atno at Atno
 
-Kristai Invites: OFF GROUND to Atno on Sat 24 Oct, Budapest. 2 artists on the bill: Kabi and Kozma. Techno. Preview the line-up and save it on soundcheck.
+Kristai Invites: OFF GROUND to Atno on Sat 24 Oct, Budapest. 2 artists: Kabi and Kozma. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

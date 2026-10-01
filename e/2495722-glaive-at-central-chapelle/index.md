@@ -1,6 +1,6 @@
 # Glaive at Central Chapelle
 
-Glaive at Central Chapelle on Mon 30 Nov, Paris. Preview the line-up and save it on soundcheck.
+Glaive at Central Chapelle on Mon 30 Nov, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

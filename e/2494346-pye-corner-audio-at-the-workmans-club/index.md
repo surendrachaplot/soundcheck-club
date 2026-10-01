@@ -1,6 +1,6 @@
 # Pye Corner Audio at The Workmans Club
 
-Pye Corner Audio at The Workmans Club on Wed 4 Nov, Dublin. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Pye Corner Audio at The Workmans Club on Wed 4 Nov, Dublin. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

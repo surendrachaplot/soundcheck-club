@@ -1,6 +1,6 @@
 # FOCUS: Marcel Dettmann at Flash
 
-FOCUS: Marcel Dettmann at Flash on Fri 9 Oct, Washington DC. 3 artists on the bill: Basement Tracks, Marcel Dettmann and Mazko A. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+FOCUS: Marcel Dettmann at Flash on Fri 9 Oct, Washington DC. 3 artists: Basement Tracks, Marcel Dettmann and Mazko A. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

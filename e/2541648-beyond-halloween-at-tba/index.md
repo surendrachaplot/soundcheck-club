@@ -1,6 +1,6 @@
 # Beyond Halloween at TBA
 
-Beyond Halloween at TBA on Sat 31 Oct, Philadelphia. Trance and Drum & Bass. Preview the line-up and save it on soundcheck.
+Beyond Halloween at TBA on Sat 31 Oct, Philadelphia. Trance and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

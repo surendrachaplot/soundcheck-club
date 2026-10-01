@@ -1,8 +1,8 @@
 # Dominik André
 
-Dominik André is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Hidden Sounds, London on Fri, 16 Oct 2026.
+Dominik André is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hidden Sounds, London on Fri, 16 Oct 2026.
 
-Dominik André is a house and electronica artist based in Switzerland, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Düsseldorf and Kyoto and 5 more. Often billed alongside Nive, Courtney Bailey and Sound Metaphors Djs. Next up: Hidden Sounds, London on Fri 16 Oct.
+Dominik André is a house and electronica artist based in Switzerland, with 33 gigs on soundcheck across Amsterdam, Berlin, Düsseldorf and Kyoto and 5 more. Often billed alongside Nive, Courtney Bailey and Sound Metaphors Djs. Next up: Hidden Sounds, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dominik André is a house and electronica artist based in Switzerland, tracked o
 
 ## Recently played
 
-- Stereo (Zurich), Zurich — Sat, 22 Aug 2026
-- Tokyo Beer Lab, Tokyo — Fri, 5 Jun 2026
-- BAR Inc, Osaka — Thu, 4 Jun 2026
-- Teranoma Tidepool, Osaka — Tue, 2 Jun 2026
-- Cafe la Siesta, Kyoto — Fri, 29 May 2026
-- Sameheads, Berlin — Fri, 8 May 2026
-- OST, Berlin — Fri, 1 May 2026
-- TBA - Format Records, Zurich — Sat, 25 Apr 2026
+- Stereo (Zurich), Zurich · Sat, 22 Aug 2026
+- Tokyo Beer Lab, Tokyo · Fri, 5 Jun 2026
+- BAR Inc, Osaka · Thu, 4 Jun 2026
+- Teranoma Tidepool, Osaka · Tue, 2 Jun 2026
+- Cafe la Siesta, Kyoto · Fri, 29 May 2026
+- Sameheads, Berlin · Fri, 8 May 2026
+- OST, Berlin · Fri, 1 May 2026
+- TBA - Format Records, Zurich · Sat, 25 Apr 2026
 
 ## Shares bills with
 

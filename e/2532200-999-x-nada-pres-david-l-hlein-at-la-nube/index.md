@@ -1,6 +1,6 @@
 # 999 x Nada pres. David Löhlein at La Nube
 
-999 x Nada pres. David Löhlein at La Nube on Fri 16 Oct, Buenos Aires. 5 artists on the bill: ADHILA, David Löhlein, Federico Guerrero and Maia Dros and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+999 x Nada pres. David Löhlein at La Nube on Fri 16 Oct, Buenos Aires. 5 artists: ADHILA, David Löhlein, Federico Guerrero and Maia Dros and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

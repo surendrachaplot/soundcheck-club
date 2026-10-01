@@ -1,8 +1,8 @@
 # AMARI
 
-AMARI is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Room, Tokyo on Sun, 4 Oct 2026.
+AMARI is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Room, Tokyo on Sun, 4 Oct 2026.
 
-AMARI is a techno and house artist based in Japan, tracked on soundcheck, with 21 sets logged across Antwerp, Chicago, London and Tokyo. Often billed alongside cosmolady, Alex Kislov and REKI. Next up: The Room, Tokyo on Sun 4 Oct.
+AMARI is a techno and house artist based in Japan, with 21 gigs on soundcheck across Antwerp, Chicago, London and Tokyo. Often billed alongside cosmolady, Alex Kislov and REKI. Next up: The Room, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ AMARI is a techno and house artist based in Japan, tracked on soundcheck, with 2
 
 ## Recently played
 
-- DUNGEON akihabara, Tokyo — Sat, 19 Sept 2026
-- The Room, Tokyo — Sun, 2 Aug 2026
-- TBA - 2611 North Cannon Drive, Chicago, Illinois 60614, United States, Chicago — Fri, 19 Jun 2026
-- The Room, Tokyo — Sun, 7 Jun 2026
-- Radius, Chicago — Sat, 16 May 2026
-- DUNGEON akihabara, Tokyo — Sat, 25 Apr 2026
-- The Room, Tokyo — Sun, 5 Apr 2026
-- The Room, Tokyo — Sun, 1 Feb 2026
+- DUNGEON akihabara, Tokyo · Sat, 19 Sept 2026
+- The Room, Tokyo · Sun, 2 Aug 2026
+- TBA - 2611 North Cannon Drive, Chicago, Illinois 60614, United States, Chicago · Fri, 19 Jun 2026
+- The Room, Tokyo · Sun, 7 Jun 2026
+- Radius, Chicago · Sat, 16 May 2026
+- DUNGEON akihabara, Tokyo · Sat, 25 Apr 2026
+- The Room, Tokyo · Sun, 5 Apr 2026
+- The Room, Tokyo · Sun, 1 Feb 2026
 
 ## Shares bills with
 

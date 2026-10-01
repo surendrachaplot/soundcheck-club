@@ -1,6 +1,6 @@
 # Nice Tries & Friends Vol. 6 at Orangerie Neukölln
 
-Nice Tries & Friends Vol. 6 at Orangerie Neukölln on Sat 17 Oct, Berlin. House and Deep House. Preview the line-up and save it on soundcheck.
+Nice Tries & Friends Vol. 6 at Orangerie Neukölln on Sat 17 Oct, Berlin. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OYSTER HOUR SUNDAY with karete bu at Paloma
 
-OYSTER HOUR SUNDAY with karete bu at Paloma on Sun 18 Oct, Berlin. 5 artists on the bill: Javier Bähr, karete bu, LEZARDS and Max Israel and 1 more. Breakbeat and House. Preview the line-up and save it on soundcheck.
+OYSTER HOUR SUNDAY with karete bu at Paloma on Sun 18 Oct, Berlin. 5 artists: Javier Bähr, karete bu, LEZARDS and Max Israel and 1 more. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

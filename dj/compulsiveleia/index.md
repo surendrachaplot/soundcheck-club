@@ -1,8 +1,8 @@
 # Compulsive Leia
 
-Compulsive Leia is a Hardcore and Hip-Hop artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Vauxhall Arches, London on Fri, 16 Oct 2026.
+Compulsive Leia is a Hardcore and Hip-Hop artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Vauxhall Arches, London on Fri, 16 Oct 2026.
 
-Compulsive Leia is a hardcore and hip-hop artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: Vauxhall Arches, London on Fri 16 Oct.
+Compulsive Leia is a hardcore and hip-hop artist based in United Kingdom, with 26 gigs on soundcheck across Bristol, Glasgow, Liverpool and London and 1 more. Often billed alongside Takenbymarshall, alterum and it_dont_Matt.er. Next up: Vauxhall Arches, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Compulsive Leia is a hardcore and hip-hop artist based in United Kingdom, tracke
 
 ## Recently played
 
-- Thekla, Bristol — Fri, 11 Sept 2026
-- The Waiting Room, London — Fri, 14 Aug 2026
-- Vauxhall Arches, London — Fri, 31 Jul 2026
-- M.O.T, London — Fri, 24 Jul 2026
-- Arts Club, Liverpool — Fri, 17 Jul 2026
-- Arts Club, Liverpool — Fri, 17 Jul 2026
-- Gorilla, Manchester — Sat, 6 Jun 2026
-- Vauxhall Arches, London — Fri, 15 May 2026
+- Thekla, Bristol · Fri, 11 Sept 2026
+- The Waiting Room, London · Fri, 14 Aug 2026
+- Vauxhall Arches, London · Fri, 31 Jul 2026
+- M.O.T, London · Fri, 24 Jul 2026
+- Arts Club, Liverpool · Fri, 17 Jul 2026
+- Arts Club, Liverpool · Fri, 17 Jul 2026
+- Gorilla, Manchester · Sat, 6 Jun 2026
+- Vauxhall Arches, London · Fri, 15 May 2026
 
 ## Shares bills with
 

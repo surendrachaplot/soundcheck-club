@@ -1,6 +1,6 @@
 # BLLNBSSMNT presents: Dambience at Collingwood Basement
 
-BLLNBSSMNT presents: Dambience at Collingwood Basement on Fri 16 Oct, Melbourne. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+BLLNBSSMNT presents: Dambience at Collingwood Basement on Fri 16 Oct, Melbourne. Minimal and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Devil's Night at Marble Bar
 
-Devil's Night at Marble Bar on Fri 30 Oct, Detroit. Preview the line-up and save it on soundcheck.
+Devil's Night at Marble Bar on Fri 30 Oct, Detroit. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

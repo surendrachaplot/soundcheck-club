@@ -1,6 +1,6 @@
 # STROKE pride edition at 404.EXE
 
-STROKE pride edition at 404.EXE on Sat 10 Oct, Atlanta. 3 artists on the bill: DJ NSA, Doula and The Baptist. Preview the line-up and save it on soundcheck.
+STROKE pride edition at 404.EXE on Sat 10 Oct, Atlanta. 3 artists: DJ NSA, Doula and The Baptist. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

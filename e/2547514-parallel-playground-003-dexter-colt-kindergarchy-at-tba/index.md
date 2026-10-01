@@ -1,6 +1,6 @@
 # Parallel Playground 003 // Dexter Colt, kindergarchy at TBA
 
-Parallel Playground 003 // Dexter Colt, kindergarchy at TBA on Sat 31 Oct, Singapore. 2 artists on the bill: Dexter Colt and kindergarchy. Downtempo. Preview the line-up and save it on soundcheck.
+Parallel Playground 003 // Dexter Colt, kindergarchy at TBA on Sat 31 Oct, Singapore. 2 artists: Dexter Colt and kindergarchy. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

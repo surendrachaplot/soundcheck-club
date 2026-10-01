@@ -1,6 +1,6 @@
 # MODULAR MIND at Hangar48 Club
 
-MODULAR MIND at Hangar48 Club on Sat 10 Oct, Madrid. 2 artists on the bill: alguien and M3tamyth. Techno and Tech House. Preview the line-up and save it on soundcheck.
+MODULAR MIND at Hangar48 Club on Sat 10 Oct, Madrid. 2 artists: alguien and M3tamyth. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

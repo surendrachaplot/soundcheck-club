@@ -1,8 +1,8 @@
 # Ya'sta Club
 
-Ya'sta Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "ARTERIA CLUB" on Fri, 16 Oct 2026.
+Ya'sta Club is a music venue in Madrid with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ARTERIA CLUB" on Fri, 16 Oct 2026.
 
-Ya'sta Club is a music venue in Madrid listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Calle de Valverde, 10; 28004 Madrid; Spain.
+Ya'sta Club is a music venue in Madrid listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Calle de Valverde, 10; 28004 Madrid; Spain.
 
 ## What's on
 

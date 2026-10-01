@@ -1,6 +1,6 @@
 # UNDERCITY presents Bart Skils at UNDERCITY
 
-UNDERCITY presents Bart Skils on Fri 16 Oct, Seoul. 2 artists on the bill: Bart Skils and PIERRE BLANCHE. Techno. Preview the line-up and save it on soundcheck.
+UNDERCITY presents Bart Skils on Fri 16 Oct, Seoul. 2 artists: Bart Skils and PIERRE BLANCHE. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

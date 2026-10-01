@@ -1,6 +1,6 @@
 # Westbam, Pavelo Promillo & Giorgio Inkasso, Sibel at Fridas Pier
 
-Westbam, Pavelo Promillo & Giorgio Inkasso, Sibel at Fridas Pier on Sat 12 Dec, Stuttgart. 3 artists on the bill: Pavelo Promillo, Sibel and Westbam. Techno and Electro. Preview the line-up and save it on soundcheck.
+Westbam, Pavelo Promillo & Giorgio Inkasso, Sibel at Fridas Pier on Sat 12 Dec, Stuttgart. 3 artists: Pavelo Promillo, Sibel and Westbam. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

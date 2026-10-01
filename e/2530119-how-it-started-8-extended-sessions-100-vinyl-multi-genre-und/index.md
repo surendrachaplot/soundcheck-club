@@ -1,6 +1,6 @@
 # How It Started 8: Extended Sessions - 100% Vinyl - Multi-Genre Underground Music at Avalon Cafe Bermondsey
 
-How It Started 8: Extended Sessions - 100% Vinyl - Multi-Genre Underground Music at Avalon Cafe Bermondsey on Fri 27 Nov, London. 2 artists on the bill: ETHICS and Hickey. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+How It Started 8: Extended Sessions - 100% Vinyl - Multi-Genre Underground Music at Avalon Cafe Bermondsey on Fri 27 Nov, London. 2 artists: ETHICS and Hickey. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

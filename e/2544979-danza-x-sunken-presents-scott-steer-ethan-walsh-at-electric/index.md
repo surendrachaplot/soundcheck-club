@@ -1,6 +1,6 @@
 # Danza x SuNKeN presents SCOTT STEER ETHAN WALSH at Electric Studios
 
-Danza x SuNKeN presents SCOTT STEER ETHAN WALSH at Electric Studios on Fri 9 Oct, Sheffield. Tech House. Preview the line-up and save it on soundcheck.
+Danza x SuNKeN presents SCOTT STEER ETHAN WALSH at Electric Studios on Fri 9 Oct, Sheffield. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

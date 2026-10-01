@@ -1,8 +1,8 @@
 # Smolna
 
-Smolna is a music venue in Warsaw with 29 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SMLИ Thursday x UNDERCONTROL: VIVØ, Aleko, Claude Degas" on Thu, 1 Oct 2026.
+Smolna is a music venue in Warsaw with 29 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SMLИ Thursday x UNDERCONTROL: VIVØ, Aleko, Claude Degas" on Thu, 1 Oct 2026.
 
-Smolna is a music venue in Warsaw listed on soundcheck. 29 upcoming gigs, with line-ups including Alinka, Âme, Anetha and Arude and 2 more. Browse upcoming dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
+Smolna is a music venue in Warsaw listed on soundcheck. 29 upcoming gigs, with line-ups including Alinka, Âme, Anetha and Arude and 2 more. See dates, start times and who's playing. Smolna 38, 00-375 Warszawa.
 
 ## What's on
 

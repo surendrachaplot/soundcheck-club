@@ -1,6 +1,6 @@
 # Takuya Nakamura at The Opera House
 
-Takuya Nakamura at The Opera House on Thu 26 Nov, Toronto. 1 artist on the bill: Takuya Nakamura. Jazz and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura at The Opera House on Thu 26 Nov, Toronto. 1 artist: Takuya Nakamura. Jazz and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # export
 
-export is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Afra b2b L.F.T. (10 Hours Long)" on Fri, 2 Oct 2026.
+export is a music venue in Rotterdam with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Afra b2b L.F.T. (10 Hours Long)" on Fri, 2 Oct 2026.
 
-export is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Afra, Blood of Aza, CAIN and Candy Coup and 2 more. Browse upcoming dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
+export is a music venue in Rotterdam listed on soundcheck. 7 upcoming gigs, with line-ups including Afra, Blood of Aza, CAIN and Candy Coup and 2 more. See dates, start times and who's playing. Keilestraat 7E, 3029 BP, Rotterdam.
 
 ## What's on
 

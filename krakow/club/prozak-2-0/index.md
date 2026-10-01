@@ -1,8 +1,8 @@
 # Prozak 2.0
 
-Prozak 2.0 is a music venue in Krakow with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝔹𝔸ℂ𝕂 + 𝐎𝐏𝐄𝐍 𝐁𝐀𝐑" on Thu, 1 Oct 2026.
+Prozak 2.0 is a music venue in Krakow with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "𝕎𝔼𝕃ℂ𝕆𝕄𝔼 𝔹𝔸ℂ𝕂 + 𝐎𝐏𝐄𝐍 𝐁𝐀𝐑" on Thu, 1 Oct 2026.
 
-Prozak 2.0 is a music venue in Krakow listed on soundcheck. 11 upcoming gigs, with line-ups including Club Angel, Deas, Forest (PL) and Francesca and 2 more. Browse upcoming dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
+Prozak 2.0 is a music venue in Krakow listed on soundcheck. 11 upcoming gigs, with line-ups including Club Angel, Deas, Forest (PL) and Francesca and 2 more. See dates, start times and who's playing. plac Dominikański 6, 33-332 Kraków, Poland.
 
 ## What's on
 

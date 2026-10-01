@@ -1,6 +1,6 @@
 # All Day I Dream of Byron Bay at Beach Hotel - Byron Bay
 
-All Day I Dream of Byron Bay at Beach Hotel - Byron Bay on Fri 20 Nov, Byron Bay. 3 artists on the bill: Double Touch, Lee Burridge and Lost Desert. Preview the line-up and save it on soundcheck.
+All Day I Dream of Byron Bay at Beach Hotel - Byron Bay on Fri 20 Nov, Byron Bay. 3 artists: Double Touch, Lee Burridge and Lost Desert. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

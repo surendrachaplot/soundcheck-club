@@ -1,6 +1,6 @@
 # Ring — 30 October 2026 at Ring
 
-Ring — 30 October 2026 on Fri 30 Oct, Seoul. 3 artists on the bill: Jesse You, Sunday Lee and Yeonjun. Techno and Electro. Preview the line-up and save it on soundcheck.
+Ring — 30 October 2026 on Fri 30 Oct, Seoul. 3 artists: Jesse You, Sunday Lee and Yeonjun. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

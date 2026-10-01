@@ -1,6 +1,6 @@
 # DJ Night with Dj Gerardo Moncada at Madame Claude
 
-DJ Night with Dj Gerardo Moncada at Madame Claude on Thu 1 Oct, Berlin. Preview the line-up and save it on soundcheck.
+DJ Night with Dj Gerardo Moncada at Madame Claude on Thu 1 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # UMI
 
-UMI is a music venue in Brussels with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "BLUR with Chaos In The CBD, Dorisburg (live), Sarah Wanita, Poppy, Nikita" on Sat, 3 Oct 2026.
+UMI is a music venue in Brussels with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BLUR with Chaos In The CBD, Dorisburg (live), Sarah Wanita, Poppy, Nikita" on Sat, 3 Oct 2026.
 
-UMI is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with line-ups including Ava Eva, Ben Kamal, Boudewijn Ericx and Brassac and 2 more. Browse upcoming dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
+UMI is a music venue in Brussels listed on soundcheck. 6 upcoming gigs, with line-ups including Ava Eva, Ben Kamal, Boudewijn Ericx and Brassac and 2 more. See dates, start times and who's playing. Rue du Marché aux Fromages 10, 1000 Bruxelles.
 
 ## What's on
 

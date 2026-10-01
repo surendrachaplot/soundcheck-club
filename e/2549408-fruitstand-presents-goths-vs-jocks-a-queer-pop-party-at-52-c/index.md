@@ -1,6 +1,6 @@
 # fruitstand presents: goths vs jocks, a queer pop party at 52 Church
 
-fruitstand presents: goths vs jocks, a queer pop party at 52 Church on Sat 24 Oct, Boston. Pop. Preview the line-up and save it on soundcheck.
+fruitstand presents: goths vs jocks, a queer pop party at 52 Church on Sat 24 Oct, Boston. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

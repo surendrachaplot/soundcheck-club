@@ -1,6 +1,6 @@
 # GLASLAGOS: NAIJA INDEPENDENCE feat. DJ Shawn, Yanni & Jainy at 142b Lounge
 
-GLASLAGOS: NAIJA INDEPENDENCE feat. DJ Shawn, Yanni & Jainy at 142b Lounge on Sat 3 Oct, Glasgow. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+GLASLAGOS: NAIJA INDEPENDENCE feat. DJ Shawn, Yanni & Jainy at 142b Lounge on Sat 3 Oct, Glasgow. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

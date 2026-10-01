@@ -1,6 +1,6 @@
 # Dreamachine Festival @ Petit Cab at Petit CAB
 
-Dreamachine Festival @ Petit Cab at Petit CAB on Sat 21 Nov, Marseille. Preview the line-up and save it on soundcheck.
+Dreamachine Festival @ Petit Cab at Petit CAB on Sat 21 Nov, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

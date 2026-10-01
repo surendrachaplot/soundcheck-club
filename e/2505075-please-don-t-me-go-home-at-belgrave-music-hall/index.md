@@ -1,6 +1,6 @@
 # Please Don't Me Go Home at Belgrave Music Hall
 
-Please Don't Me Go Home at Belgrave Music Hall on Sat 24 Oct, Leeds. Club and Electronica. Preview the line-up and save it on soundcheck.
+Please Don't Me Go Home at Belgrave Music Hall on Sat 24 Oct, Leeds. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

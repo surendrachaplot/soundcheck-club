@@ -1,6 +1,6 @@
 # BEATHEIM night with Bruno Otranto & Friends at Minimal Bar
 
-BEATHEIM night with Bruno Otranto & Friends at Minimal Bar on Fri 2 Oct, Berlin. Preview the line-up and save it on soundcheck.
+BEATHEIM night with Bruno Otranto & Friends at Minimal Bar on Fri 2 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

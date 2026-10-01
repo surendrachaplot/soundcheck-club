@@ -1,8 +1,8 @@
 # Aviva Studios
 
-Aviva Studios is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "CHRIS STASSY presents USS (Manchester)" on Fri, 9 Oct 2026.
+Aviva Studios is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CHRIS STASSY presents USS (Manchester)" on Fri, 9 Oct 2026.
 
-Aviva Studios is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including CHRIS STASSY, Laidlaw, Locklead and Matisa and 2 more. Browse upcoming dates, start times and who's playing. Aviva Studios, Water St, Manchester M3 4JQ.
+Aviva Studios is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including CHRIS STASSY, Laidlaw, Locklead and Matisa and 2 more. See dates, start times and who's playing. Aviva Studios, Water St, Manchester M3 4JQ.
 
 ## What's on
 

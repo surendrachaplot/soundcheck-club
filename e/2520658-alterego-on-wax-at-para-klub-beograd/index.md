@@ -1,6 +1,6 @@
 # ALTEREGO ON WAX at Para Klub Beograd
 
-ALTEREGO ON WAX at Para Klub Beograd on Sun 6 Dec, Belgrade. Techno. Preview the line-up and save it on soundcheck.
+ALTEREGO ON WAX at Para Klub Beograd on Sun 6 Dec, Belgrade. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

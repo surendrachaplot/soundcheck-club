@@ -1,8 +1,8 @@
 # Lupini
 
-Lupini is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The White Hotel, Manchester on Sun, 11 Oct 2026.
+Lupini is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The White Hotel, Manchester on Sun, 11 Oct 2026.
 
-Lupini is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Berlin, Bristol, Copenhagen and Dublin and 7 more. Often billed alongside Cowper, Annabel Fraser and Chez de Milo. Next up: The White Hotel, Manchester on Sun 11 Oct.
+Lupini is a house and electronica artist based in United Kingdom, with 57 gigs on soundcheck across Berlin, Bristol, Copenhagen and Dublin and 7 more. Often billed alongside Cowper, Annabel Fraser and Chez de Milo. Next up: The White Hotel, Manchester on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Lupini is a house and electronica artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- The Love Inn, Bristol — Fri, 24 Jul 2026
-- Blackhorse Lane Multiple Venues, London — Sat, 13 Jun 2026
-- Mickey Zoggs, Bristol — Sat, 21 Mar 2026
-- 24 Kitchen Street, Liverpool — Fri, 20 Mar 2026
-- Golden Pudel Club, Hamburg — Fri, 13 Mar 2026
-- Rainy Heart, Manchester — Fri, 6 Mar 2026
-- 24 Kitchen Street, Liverpool — Wed, 31 Dec 2025
-- 24 Kitchen Street, Liverpool — Sat, 6 Dec 2025
+- The Love Inn, Bristol · Fri, 24 Jul 2026
+- Blackhorse Lane Multiple Venues, London · Sat, 13 Jun 2026
+- Mickey Zoggs, Bristol · Sat, 21 Mar 2026
+- 24 Kitchen Street, Liverpool · Fri, 20 Mar 2026
+- Golden Pudel Club, Hamburg · Fri, 13 Mar 2026
+- Rainy Heart, Manchester · Fri, 6 Mar 2026
+- 24 Kitchen Street, Liverpool · Wed, 31 Dec 2025
+- 24 Kitchen Street, Liverpool · Sat, 6 Dec 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Devon Rexi
 
-Devon Rexi is a Dub and Electronica artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Devon Rexi is a Dub and Electronica artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Devon Rexi is a dub and electronica artist based in Netherlands, tracked on soundcheck, with 41 sets logged across Amsterdam, Antwerp, Bergen and Berlin and 18 more. Often billed alongside John T. Gast, DJ Marcelle and Batu. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Devon Rexi is a dub and electronica artist based in Netherlands, with 41 gigs on soundcheck across Amsterdam, Antwerp, Bergen and Berlin and 18 more. Often billed alongside John T. Gast, DJ Marcelle and Batu. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Devon Rexi is a dub and electronica artist based in Netherlands, tracked on soun
 
 ## Recently played
 
-- La Station - Gare des Mines, Paris — Wed, 23 Sept 2026
-- The Lubber Fiend, Newcastle — Thu, 17 Sept 2026
-- Melkweg, Amsterdam — Thu, 30 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- The White Hotel, Manchester — Thu, 28 May 2026
-- EXIT Glasgow, Glasgow — Wed, 27 May 2026
-- Gut Level, Sheffield — Tue, 26 May 2026
-- Moth Club, London — Mon, 25 May 2026
+- La Station - Gare des Mines, Paris · Wed, 23 Sept 2026
+- The Lubber Fiend, Newcastle · Thu, 17 Sept 2026
+- Melkweg, Amsterdam · Thu, 30 Jul 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- The White Hotel, Manchester · Thu, 28 May 2026
+- EXIT Glasgow, Glasgow · Wed, 27 May 2026
+- Gut Level, Sheffield · Tue, 26 May 2026
+- Moth Club, London · Mon, 25 May 2026
 
 ## Shares bills with
 

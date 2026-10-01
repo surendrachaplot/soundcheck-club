@@ -1,6 +1,6 @@
 # Traffic JAM Halloween at The Basement Eindhoven
 
-Traffic JAM Halloween at The Basement Eindhoven on Sat 31 Oct, Eindhoven. 1 artist on the bill: Reflex Blue. Preview the line-up and save it on soundcheck.
+Traffic JAM Halloween at The Basement Eindhoven on Sat 31 Oct, Eindhoven. 1 artist: Reflex Blue. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

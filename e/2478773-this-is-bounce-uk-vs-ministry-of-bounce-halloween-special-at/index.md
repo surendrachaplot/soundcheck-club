@@ -1,6 +1,6 @@
 # This is Bounce UK vs Ministry of Bounce Halloween Special at Digital
 
-This is Bounce UK vs Ministry of Bounce Halloween Special at Digital on Fri 23 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+This is Bounce UK vs Ministry of Bounce Halloween Special at Digital on Fri 23 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

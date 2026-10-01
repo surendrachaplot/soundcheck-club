@@ -1,6 +1,6 @@
 # Fem-All / RAW Techno   [ free entry for women until 1 AM ] at Der Weiße Hase
 
-Fem-All / RAW Techno   [ free entry for women until 1 AM ] at Der Weiße Hase on Fri 23 Oct, Berlin. 4 artists on the bill: Kalimanda, MILLA LOU, Nat SuPrise and Sika Akis. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Fem-All / RAW Techno   [ free entry for women until 1 AM ] at Der Weiße Hase on Fri 23 Oct, Berlin. 4 artists: Kalimanda, MILLA LOU, Nat SuPrise and Sika Akis. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

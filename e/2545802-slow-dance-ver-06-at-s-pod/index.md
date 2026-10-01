@@ -1,6 +1,6 @@
 # SLOW DANCE ver.06 at S-Pod
 
-SLOW DANCE ver.06 at S-Pod on Mon 12 Oct, Kyoto. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+SLOW DANCE ver.06 at S-Pod on Mon 12 Oct, Kyoto. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

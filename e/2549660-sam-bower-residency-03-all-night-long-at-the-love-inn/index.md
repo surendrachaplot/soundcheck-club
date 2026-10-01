@@ -1,6 +1,6 @@
 # Sam Bower residency #03 [all night long] at The Love Inn
 
-Sam Bower residency #03 [all night long] at The Love Inn on Thu 10 Dec, Bristol. Techno and Club. Preview the line-up and save it on soundcheck.
+Sam Bower residency #03 [all night long] at The Love Inn on Thu 10 Dec, Bristol. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

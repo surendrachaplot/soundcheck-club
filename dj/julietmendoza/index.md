@@ -1,8 +1,8 @@
 # Juliet Mendoza
 
-Juliet Mendoza is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Small Green Door, Los-angeles on Sat, 3 Oct 2026.
+Juliet Mendoza is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Small Green Door, Los-angeles on Sat, 3 Oct 2026.
 
-Juliet Mendoza is a house and deep house artist based in United States of America, tracked on soundcheck, with 106 sets logged across Amsterdam, Chicago, Denver and Detroit and 12 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: Small Green Door, Los Angeles on Sat 3 Oct.
+Juliet Mendoza is a house and deep house artist based in United States of America, with 106 gigs on soundcheck across Amsterdam, Chicago, Denver and Detroit and 12 more. Often billed alongside Heidi Lawden, DJ Sneak and Masha Mar. Next up: Small Green Door, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Juliet Mendoza is a house and deep house artist based in United States of Americ
 
 ## Recently played
 
-- The Airliner, Los Angeles — Fri, 25 Sept 2026
-- Knockdown Center, New York City — Sat, 5 Sept 2026
-- District 7, Los Angeles — Sat, 22 Aug 2026
-- The Airliner, Los Angeles — Fri, 21 Aug 2026
-- The Bridge, Los Angeles — Sat, 8 Aug 2026
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 1 Aug 2026
-- The Airliner, Los Angeles — Fri, 17 Jul 2026
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 11 Jul 2026
+- The Airliner, Los Angeles · Fri, 25 Sept 2026
+- Knockdown Center, New York City · Sat, 5 Sept 2026
+- District 7, Los Angeles · Sat, 22 Aug 2026
+- The Airliner, Los Angeles · Fri, 21 Aug 2026
+- The Bridge, Los Angeles · Sat, 8 Aug 2026
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 1 Aug 2026
+- The Airliner, Los Angeles · Fri, 17 Jul 2026
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 11 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Sunday Service at Casa Corona Seoul
 
-Sunday Service at Casa Corona Seoul on Sun 4 Oct, Seoul. 3 artists on the bill: Better, EMOSI and Grace Kim. House and Tech House. Preview the line-up and save it on soundcheck.
+Sunday Service at Casa Corona Seoul on Sun 4 Oct, Seoul. 3 artists: Better, EMOSI and Grace Kim. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

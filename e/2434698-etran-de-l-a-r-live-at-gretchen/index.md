@@ -1,6 +1,6 @@
 # ETRAN DE L'AÏR *live at Gretchen
 
-ETRAN DE L'AÏR *live at Gretchen on Tue 3 Nov, Berlin. Preview the line-up and save it on soundcheck.
+ETRAN DE L'AÏR *live at Gretchen on Tue 3 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

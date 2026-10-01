@@ -1,6 +1,6 @@
 # Wildlands Festival - Brisbane at Brisbane Showgrounds
 
-Wildlands Festival - Brisbane at Brisbane Showgrounds on Thu 31 Dec, Brisbane. 21 artists on the bill: Anetha, Benwal, Dean Turnley and Ewan McVicar and 17 more. Preview the line-up and save it on soundcheck.
+Wildlands Festival - Brisbane at Brisbane Showgrounds on Thu 31 Dec, Brisbane. 21 artists: Anetha, Benwal, Dean Turnley and Ewan McVicar and 17 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

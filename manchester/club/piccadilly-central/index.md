@@ -1,8 +1,8 @@
 # Piccadilly Central
 
-Piccadilly Central is a music venue in Manchester with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Scuttle presents: Innuendo and Session 4000" on Fri, 2 Oct 2026.
+Piccadilly Central is a music venue in Manchester with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Scuttle presents: Innuendo and Session 4000" on Fri, 2 Oct 2026.
 
-Piccadilly Central is a music venue in Manchester listed on soundcheck. 4 upcoming gigs, with line-ups including F3rg13, Innuendo, Jovak and Kacper Pieta and 2 more. Browse upcoming dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
+Piccadilly Central is a music venue in Manchester listed on soundcheck. 5 upcoming gigs, with line-ups including F3rg13, Innuendo, Jovak and Kacper Pieta and 2 more. See dates, start times and who's playing. 38 London Road, Manchester, M1 2PF.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Piccadilly Central is a music venue in Manchester listed on soundcheck. 4 upcomi
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Scuttle presents: Innuendo and Session 4000 | Innuendo, Jovak, session 4000 |
 | Sat, 17 Oct 2026 | Kacper & Jasper present: A Night Of City Pop 3.0 | Kacper Pieta |
+| Sat, 31 Oct 2026 | CFN X CROP: Spooky Disco |  |
 | Fri, 27 Nov 2026 | Revamp 9th Birthday |  |
 | Fri, 11 Dec 2026 | The Danger Zone | F3rg13, Megan Wroe |
 

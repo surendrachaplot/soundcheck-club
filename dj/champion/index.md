@@ -1,8 +1,8 @@
 # Champion
 
-Champion is a Garage and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Champion is a Garage and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SISSI'S Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Champion is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Antwerp, Barcelona and Brighton and 17 more. Often billed alongside Oppidan, Bakey and MPH. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
+Champion is a garage and bass artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brighton and 17 more. Often billed alongside Oppidan, Bakey and MPH. Next up: SISSI'S Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Champion is a garage and bass artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- The Warehouse, Leeds — Sat, 26 Sept 2026
-- PRST, Vienna — Sat, 12 Sept 2026
-- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
-- Quarters, Brighton — Fri, 24 Jul 2026
-- Space 550, San Francisco/Oakland — Sat, 4 Jul 2026
-- Holland Park, Vancouver — Fri, 3 Jul 2026
-- Holland Park, Vancouver — Thu, 2 Jul 2026
-- Ministry Of Sound, London — Sat, 6 Jun 2026
+- The Warehouse, Leeds · Sat, 26 Sept 2026
+- PRST, Vienna · Sat, 12 Sept 2026
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
+- Quarters, Brighton · Fri, 24 Jul 2026
+- Space 550, San Francisco/Oakland · Sat, 4 Jul 2026
+- Holland Park, Vancouver · Fri, 3 Jul 2026
+- Holland Park, Vancouver · Thu, 2 Jul 2026
+- Ministry Of Sound, London · Sat, 6 Jun 2026
 
 ## Shares bills with
 

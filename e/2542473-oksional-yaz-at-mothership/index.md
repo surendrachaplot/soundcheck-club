@@ -1,6 +1,6 @@
 # oksional: Yaz at Mothership
 
-oksional: Yaz at Mothership on Thu 3 Dec, San Francisco/Oakland. 2 artists on the bill: Justyn Myers and Yaz. House and Deep House. Preview the line-up and save it on soundcheck.
+oksional: Yaz at Mothership on Thu 3 Dec, San Francisco/Oakland. 2 artists: Justyn Myers and Yaz. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

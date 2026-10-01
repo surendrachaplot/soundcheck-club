@@ -1,6 +1,6 @@
 # LS97 at Hive Club
 
-LS97 at Hive Club on Fri 16 Oct, Zurich. Techno and House. Preview the line-up and save it on soundcheck.
+LS97 at Hive Club on Fri 16 Oct, Zurich. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

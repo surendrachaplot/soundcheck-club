@@ -1,8 +1,8 @@
 # HearThug
 
-HearThug is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+HearThug is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
-HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 20 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Fvtvr, Paris on Fri 9 Oct.
+HearThug is a house and electro artist based in Tunisia, with 60 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 20 more. Often billed alongside Occibel, IAMBP and Alyhas. Next up: Fvtvr, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ HearThug is a house and electro artist based in Tunisia, tracked on soundcheck, 
 
 ## Recently played
 
-- 93 Feet East, London — Fri, 25 Sept 2026
-- Les Enfants Brillants, Barcelona — Sat, 19 Sept 2026
-- Cadavra, Madrid — Fri, 18 Sept 2026
-- Ouseburn Garden, Newcastle — Sat, 12 Sept 2026
-- Citadelle de Marseille, Marseille — Sat, 29 Aug 2026
-- Hertz, Seoul — Sat, 22 Aug 2026
-- Acadana, Hong Kong — Fri, 21 Aug 2026
-- Ministerium Club, Lisbon — Sat, 8 Aug 2026
+- 93 Feet East, London · Fri, 25 Sept 2026
+- Les Enfants Brillants, Barcelona · Sat, 19 Sept 2026
+- Cadavra, Madrid · Fri, 18 Sept 2026
+- Ouseburn Garden, Newcastle · Sat, 12 Sept 2026
+- Citadelle de Marseille, Marseille · Sat, 29 Aug 2026
+- Hertz, Seoul · Sat, 22 Aug 2026
+- Acadana, Hong Kong · Fri, 21 Aug 2026
+- Ministerium Club, Lisbon · Sat, 8 Aug 2026
 
 ## Shares bills with
 

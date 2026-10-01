@@ -1,6 +1,6 @@
 # Brigado Crew at Goa, India at TBA
 
-Brigado Crew at Goa, India at TBA on Fri 30 Oct, Goa. 1 artist on the bill: Brigado Crew. Preview the line-up and save it on soundcheck.
+Brigado Crew at Goa, India at TBA on Fri 30 Oct, Goa. 1 artist: Brigado Crew. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

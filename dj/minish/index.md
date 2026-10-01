@@ -1,8 +1,8 @@
 # Minish
 
-Minish is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Faust, Seoul on Sat, 3 Oct 2026.
+Minish is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Faust, Seoul on Sat, 3 Oct 2026.
 
-Minish is a house and techno artist based in South Korea, tracked on soundcheck, with 49 sets logged across Berlin, Osaka and Seoul. Often billed alongside Nocturnal (KR), Ginger (KR) and Zion. Next up: Faust, Seoul on Sat 3 Oct.
+Minish is a house and techno artist based in South Korea, with 49 gigs on soundcheck across Berlin, Osaka and Seoul. Often billed alongside Nocturnal (KR), Ginger (KR) and Zion. Next up: Faust, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Minish is a house and techno artist based in South Korea, tracked on soundcheck,
 
 ## Recently played
 
-- Faust, Seoul — Fri, 18 Sept 2026
-- Faust, Seoul — Fri, 28 Aug 2026
-- RO Seoul, Seoul — Sat, 22 Aug 2026
-- Faust, Seoul — Sat, 15 Aug 2026
-- Faust, Seoul — Sat, 1 Aug 2026
-- Faust, Seoul — Sat, 11 Jul 2026
-- Faust, Seoul — Fri, 26 Jun 2026
-- Faust, Seoul — Fri, 19 Jun 2026
+- Faust, Seoul · Fri, 18 Sept 2026
+- Faust, Seoul · Fri, 28 Aug 2026
+- RO Seoul, Seoul · Sat, 22 Aug 2026
+- Faust, Seoul · Sat, 15 Aug 2026
+- Faust, Seoul · Sat, 1 Aug 2026
+- Faust, Seoul · Sat, 11 Jul 2026
+- Faust, Seoul · Fri, 26 Jun 2026
+- Faust, Seoul · Fri, 19 Jun 2026
 
 ## Shares bills with
 

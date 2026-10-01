@@ -1,6 +1,6 @@
 # Sickick at Substation
 
-Sickick at Substation on Fri 23 Oct, Seattle. Bass and R&B. Preview the line-up and save it on soundcheck.
+Sickick at Substation on Fri 23 Oct, Seattle. Bass and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

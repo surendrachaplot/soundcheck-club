@@ -1,8 +1,8 @@
 # Fez the Kid
 
-Fez the Kid is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at O2 Academy Leeds, Leeds on Fri, 9 Oct 2026.
+Fez the Kid is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at O2 Academy Leeds, Leeds on Fri, 9 Oct 2026.
 
-Fez the Kid is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 52 sets logged across Berlin, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside Cheff The Boy, Artificial Red and Betsy Mae. Next up: O2 Academy Leeds, Leeds on Fri 9 Oct.
+Fez the Kid is a jungle and drum & bass artist based in United Kingdom, with 52 gigs on soundcheck across Berlin, Brighton, Bristol and Copenhagen and 7 more. Often billed alongside Cheff The Boy, Artificial Red and Betsy Mae. Next up: O2 Academy Leeds, Leeds on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Fez the Kid is a jungle and drum & bass artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- The Cause, London — Sat, 12 Sept 2026
-- Document, Bristol — Sun, 30 Aug 2026
-- The Boxing Club, Bristol — Sat, 27 Jun 2026
-- Dryad Works, Sheffield — Fri, 26 Jun 2026
-- Lost Horizon, Bristol — Sat, 20 Jun 2026
-- The Love Inn, Bristol — Thu, 11 Jun 2026
-- Lakota, Bristol — Sat, 9 May 2026
-- Hackney Wick Multiple Venues, London — Sat, 2 May 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Document, Bristol · Sun, 30 Aug 2026
+- The Boxing Club, Bristol · Sat, 27 Jun 2026
+- Dryad Works, Sheffield · Fri, 26 Jun 2026
+- Lost Horizon, Bristol · Sat, 20 Jun 2026
+- The Love Inn, Bristol · Thu, 11 Jun 2026
+- Lakota, Bristol · Sat, 9 May 2026
+- Hackney Wick Multiple Venues, London · Sat, 2 May 2026
 
 ## Shares bills with
 

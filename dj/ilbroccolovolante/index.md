@@ -1,8 +1,8 @@
 # ilbroccolovolante
 
-ilbroccolovolante is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Fri, 9 Oct 2026.
+ilbroccolovolante is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Fri, 9 Oct 2026.
 
-ilbroccolovolante is a progressive house and house artist based in Italy, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: OXI, Berlin on Fri 9 Oct.
+ilbroccolovolante is a progressive house and house artist based in Italy, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Kidcat, zikade and materia hache. Next up: OXI, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ilbroccolovolante is a progressive house and house artist based in Italy, tracke
 
 ## Recently played
 
-- OXI, Berlin — Sat, 19 Sept 2026
-- Pleasure Patterns, Berlin — Sat, 5 Sept 2026
-- KREUZWERK, Berlin — Fri, 4 Sept 2026
-- Sonnenraum, Berlin — Sun, 30 Aug 2026
-- Kater, Berlin — Fri, 28 Aug 2026
-- Marmorbar, Berlin — Sat, 22 Aug 2026
-- Crack Bellmer, Berlin — Sun, 2 Aug 2026
-- Bike Jesus, Prague — Fri, 31 Jul 2026
+- OXI, Berlin · Sat, 19 Sept 2026
+- Pleasure Patterns, Berlin · Sat, 5 Sept 2026
+- KREUZWERK, Berlin · Fri, 4 Sept 2026
+- Sonnenraum, Berlin · Sun, 30 Aug 2026
+- Kater, Berlin · Fri, 28 Aug 2026
+- Marmorbar, Berlin · Sat, 22 Aug 2026
+- Crack Bellmer, Berlin · Sun, 2 Aug 2026
+- Bike Jesus, Prague · Fri, 31 Jul 2026
 
 ## Shares bills with
 

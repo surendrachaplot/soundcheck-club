@@ -1,6 +1,6 @@
 # Harbour Nights at Junction Underground
 
-Harbour Nights at Junction Underground on Fri 2 Oct, Toronto. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Harbour Nights at Junction Underground on Fri 2 Oct, Toronto. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

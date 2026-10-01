@@ -1,6 +1,6 @@
 # TITINA presenta Liad Krispin (Cocktail d'Amore, Berlin) at Altrove
 
-TITINA presenta Liad Krispin (Cocktail d'Amore, Berlin) at Altrove on Sat 24 Oct, Milan. 4 artists on the bill: Andrea Ratti, Duwe, Liad Krispin and Slava. House and Electro. Preview the line-up and save it on soundcheck.
+TITINA presenta Liad Krispin (Cocktail d'Amore, Berlin) at Altrove on Sat 24 Oct, Milan. 4 artists: Andrea Ratti, Duwe, Liad Krispin and Slava. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

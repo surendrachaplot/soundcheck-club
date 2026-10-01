@@ -1,8 +1,8 @@
 # Cirque Cosmic
 
-Cirque Cosmic is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bar Datcha, Montreal on Sat, 10 Oct 2026.
+Cirque Cosmic is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Datcha, Montreal on Sat, 10 Oct 2026.
 
-Cirque Cosmic is a house and tech house artist based in Canada, tracked on soundcheck, with 20 sets logged across Montreal and New York City. Often billed alongside Flleur, Bodegaparty and Guillaume Michaud. Next up: Bar Datcha, Montreal on Sat 10 Oct.
+Cirque Cosmic is a house and tech house artist based in Canada, with 20 gigs on soundcheck across Montreal and New York City. Often billed alongside Flleur, Bodegaparty and Guillaume Michaud. Next up: Bar Datcha, Montreal on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Cirque Cosmic is a house and tech house artist based in Canada, tracked on sound
 
 ## Recently played
 
-- Stereo, Montreal — Fri, 11 Sept 2026
-- Société des arts technologiques, Montreal — Fri, 4 Sept 2026
-- Bar Datcha, Montreal — Thu, 13 Aug 2026
-- Mood Ring, New York City — Fri, 31 Jul 2026
-- Salon Daomé, Montreal — Sat, 4 Jul 2026
-- Parc Jean-Drapeau, Montreal — Thu, 14 May 2026
-- Système, Montreal — Sat, 9 May 2026
-- TBA, Montreal — Sat, 28 Mar 2026
+- Stereo, Montreal · Fri, 11 Sept 2026
+- Société des arts technologiques, Montreal · Fri, 4 Sept 2026
+- Bar Datcha, Montreal · Thu, 13 Aug 2026
+- Mood Ring, New York City · Fri, 31 Jul 2026
+- Salon Daomé, Montreal · Sat, 4 Jul 2026
+- Parc Jean-Drapeau, Montreal · Thu, 14 May 2026
+- Système, Montreal · Sat, 9 May 2026
+- TBA, Montreal · Sat, 28 Mar 2026
 
 ## Shares bills with
 

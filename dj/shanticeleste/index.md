@@ -1,8 +1,8 @@
 # Shanti Celeste
 
-Shanti Celeste is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kapsule, Liverpool on Fri, 2 Oct 2026.
+Shanti Celeste is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kapsule, Liverpool on Fri, 2 Oct 2026.
 
-Shanti Celeste is a house and techno artist based in United Kingdom, tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 56 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Kapsule, Liverpool on Fri 2 Oct.
+Shanti Celeste is a house and techno artist based in United Kingdom, with 216 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 56 more. Often billed alongside Peach, Saoirse and Ogazón. Next up: Kapsule, Liverpool on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ Shanti Celeste is a house and techno artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Depot Mayfield, Manchester — Sat, 26 Sept 2026
-- The White Hotel, Manchester — Sat, 19 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- Uto-Staffel, Zurich — Sat, 5 Sept 2026
-- Southwark Park, London — Sun, 30 Aug 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
+- Depot Mayfield, Manchester · Sat, 26 Sept 2026
+- The White Hotel, Manchester · Sat, 19 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- Uto-Staffel, Zurich · Sat, 5 Sept 2026
+- Southwark Park, London · Sun, 30 Aug 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
 
 ## Shares bills with
 

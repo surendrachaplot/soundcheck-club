@@ -1,8 +1,8 @@
 # Izzy
 
-Izzy is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
+Izzy is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 23 Oct 2026.
 
-Izzy is a house and tech house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Budapest and London and 6 more. Often billed alongside Comrage, Daniel Morgenstern and DANBERG. Next up: Skatecafe, Amsterdam on Fri 23 Oct.
+Izzy is a house and tech house artist based in United States of America, with 21 gigs on soundcheck across Amsterdam, Barcelona, Budapest and London and 6 more. Often billed alongside Comrage, Daniel Morgenstern and DANBERG. Next up: Skatecafe, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Izzy is a house and tech house artist based in United States of America, tracked
 
 ## Recently played
 
-- PIP Den Haag, The Hague — Sat, 25 Jul 2026
-- A38, Budapest — Fri, 24 Jul 2026
-- Club M2 Miami, Miami — Sat, 22 Nov 2025
-- Vera Cocina & بار, Washington DC — Sun, 12 Oct 2025
-- ZT Hotel Villa Olimpica, Barcelona — Wed, 11 Jun 2025
-- Bahnwärter Thiel, Munich — Thu, 29 May 2025
-- Candid Arts, London — Sat, 10 May 2025
-- Hackney Wick Multiple Venues, London — Sat, 3 May 2025
+- PIP Den Haag, The Hague · Sat, 25 Jul 2026
+- A38, Budapest · Fri, 24 Jul 2026
+- Club M2 Miami, Miami · Sat, 22 Nov 2025
+- Vera Cocina & بار, Washington DC · Sun, 12 Oct 2025
+- ZT Hotel Villa Olimpica, Barcelona · Wed, 11 Jun 2025
+- Bahnwärter Thiel, Munich · Thu, 29 May 2025
+- Candid Arts, London · Sat, 10 May 2025
+- Hackney Wick Multiple Venues, London · Sat, 3 May 2025
 
 ## Shares bills with
 

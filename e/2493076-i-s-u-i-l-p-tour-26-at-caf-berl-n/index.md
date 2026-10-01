@@ -1,6 +1,6 @@
 # I.S.U.I.L.P Tour 26 at Café Berlín
 
-I.S.U.I.L.P Tour 26 at Café Berlín on Thu 19 Nov, Madrid. 1 artist on the bill: Kabeaushé. Experimental and Pop. Preview the line-up and save it on soundcheck.
+I.S.U.I.L.P Tour 26 at Café Berlín on Thu 19 Nov, Madrid. 1 artist: Kabeaushé. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

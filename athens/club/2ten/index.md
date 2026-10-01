@@ -1,8 +1,8 @@
 # 2ten
 
-2ten is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Rave Ritual - Last Dance " on Sat, 3 Oct 2026.
+2ten is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Rave Ritual - Last Dance " on Sat, 3 Oct 2026.
 
-2ten is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Emex, George Apergis, Marthe and Mikele and 2 more. Browse upcoming dates, start times and who's playing. Ermou 135, Athens.
+2ten is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Emex, George Apergis, Marthe and Mikele and 2 more. See dates, start times and who's playing. Ermou 135, Athens.
 
 ## What's on
 

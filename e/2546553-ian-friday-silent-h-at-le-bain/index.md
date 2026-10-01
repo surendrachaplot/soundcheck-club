@@ -1,6 +1,6 @@
 # Ian Friday & Silent H at Le Bain
 
-Ian Friday & Silent H at Le Bain on Fri 9 Oct, New York City. Preview the line-up and save it on soundcheck.
+Ian Friday & Silent H at Le Bain on Fri 9 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

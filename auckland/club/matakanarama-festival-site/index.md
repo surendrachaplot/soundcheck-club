@@ -1,8 +1,8 @@
 # Matakanarama Festival Site
 
-Matakanarama Festival Site is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Matakanarama 2026" on Tue, 29 Dec 2026.
+Matakanarama Festival Site is a music venue in Auckland with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Matakanarama 2026" on Tue, 29 Dec 2026.
 
-Matakanarama Festival Site is a music venue in Auckland listed on soundcheck. 1 upcoming gig, with line-ups including AROHA, Bari, Bella Claxton and Christopher Tubbs and 2 more. Browse upcoming dates, start times and who's playing.
+Matakanarama Festival Site is a music venue in Auckland listed on soundcheck. 1 upcoming gig, with line-ups including AROHA, Bari, Bella Claxton and Christopher Tubbs and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

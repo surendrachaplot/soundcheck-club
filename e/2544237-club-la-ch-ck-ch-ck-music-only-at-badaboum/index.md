@@ -1,6 +1,6 @@
 # Club — LA CH!CK: CH!CK MUSIC ONLY at Badaboum
 
-Club — LA CH!CK: CH!CK MUSIC ONLY at Badaboum on Thu 22 Oct, Paris. Pop. Preview the line-up and save it on soundcheck.
+Club — LA CH!CK: CH!CK MUSIC ONLY at Badaboum on Thu 22 Oct, Paris. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

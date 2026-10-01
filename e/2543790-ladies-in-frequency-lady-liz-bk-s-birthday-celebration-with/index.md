@@ -1,6 +1,6 @@
 # Ladies in Frequency: Lady Liz BK's Birthday Celebration with Chia Minaya at Pixelated Records
 
-Ladies in Frequency: Lady Liz BK's Birthday Celebration with Chia Minaya at Pixelated Records on Fri 23 Oct, New York City. 1 artist on the bill: LADYLIZBK. House and Deep House. Preview the line-up and save it on soundcheck.
+Ladies in Frequency: Lady Liz BK's Birthday Celebration with Chia Minaya at Pixelated Records on Fri 23 Oct, New York City. 1 artist: LADYLIZBK. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

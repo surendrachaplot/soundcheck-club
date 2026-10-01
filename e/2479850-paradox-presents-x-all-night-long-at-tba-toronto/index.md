@@ -1,6 +1,6 @@
 # PARADOX presents: X (All Night Long) at TBA - Toronto
 
-PARADOX presents: X (All Night Long) at TBA - Toronto on Sat 14 Nov, Toronto. Techno. Preview the line-up and save it on soundcheck.
+PARADOX presents: X (All Night Long) at TBA - Toronto on Sat 14 Nov, Toronto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

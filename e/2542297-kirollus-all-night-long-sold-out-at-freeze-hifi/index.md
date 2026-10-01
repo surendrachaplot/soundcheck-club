@@ -1,6 +1,6 @@
 # Kirollus All Night Long [SOLD OUT] at Freeze HiFi
 
-Kirollus All Night Long [SOLD OUT] at Freeze HiFi on Fri 9 Oct, Liverpool. 1 artist on the bill: Kirollus. House and Disco. Preview the line-up and save it on soundcheck.
+Kirollus All Night Long [SOLD OUT] at Freeze HiFi on Fri 9 Oct, Liverpool. 1 artist: Kirollus. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

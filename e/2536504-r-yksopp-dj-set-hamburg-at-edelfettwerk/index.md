@@ -1,6 +1,6 @@
 # RÖYKSOPP DJ Set | Hamburg at Edelfettwerk
 
-RÖYKSOPP DJ Set | Hamburg at Edelfettwerk on Fri 23 Oct, Hamburg. 2 artists on the bill: Jo van der Meer and MikAH. House and Downtempo. Preview the line-up and save it on soundcheck.
+RÖYKSOPP DJ Set | Hamburg at Edelfettwerk on Fri 23 Oct, Hamburg. 2 artists: Jo van der Meer and MikAH. House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

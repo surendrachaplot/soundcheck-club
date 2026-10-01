@@ -1,8 +1,8 @@
 # DJ Vibes
 
-DJ Vibes is a Hardcore and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Sat, 10 Oct 2026.
+DJ Vibes is a Hardcore and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Sat, 10 Oct 2026.
 
-DJ Vibes is a hardcore and trance artist based in Ireland, tracked on soundcheck, with 31 sets logged across Amsterdam, Bristol, Leeds and Liverpool and 3 more. Often billed alongside Billy Daniel Bunter, Jay Cunning and Arkyn. Next up: M.O.T, London on Sat 10 Oct.
+DJ Vibes is a hardcore and trance artist based in Ireland, with 31 gigs on soundcheck across Amsterdam, Bristol, Leeds and Liverpool and 3 more. Often billed alongside Billy Daniel Bunter, Jay Cunning and Arkyn. Next up: M.O.T, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ Vibes is a hardcore and trance artist based in Ireland, tracked on soundcheck
 
 ## Recently played
 
-- Ministry Of Sound, London — Sat, 15 Aug 2026
-- WaV, Liverpool — Sat, 15 Aug 2026
-- Egg London, London — Sat, 8 Aug 2026
-- Egg London, London — Sat, 18 Jul 2026
-- Pier 14, Amsterdam — Sat, 25 Apr 2026
-- The TBA - The Bulldog Palace, Melkweg Black Dog, Het Sieraad, Amsterdam — Fri, 24 Apr 2026
-- Electrowerkz, London — Sat, 11 Apr 2026
-- Beaver Works, Leeds — Sat, 7 Mar 2026
+- Ministry Of Sound, London · Sat, 15 Aug 2026
+- WaV, Liverpool · Sat, 15 Aug 2026
+- Egg London, London · Sat, 8 Aug 2026
+- Egg London, London · Sat, 18 Jul 2026
+- Pier 14, Amsterdam · Sat, 25 Apr 2026
+- The TBA - The Bulldog Palace, Melkweg Black Dog, Het Sieraad, Amsterdam · Fri, 24 Apr 2026
+- Electrowerkz, London · Sat, 11 Apr 2026
+- Beaver Works, Leeds · Sat, 7 Mar 2026
 
 ## Shares bills with
 

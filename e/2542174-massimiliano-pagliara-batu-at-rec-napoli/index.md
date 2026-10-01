@@ -1,6 +1,6 @@
 # Massimiliano Pagliara, Batu at REC Napoli
 
-Massimiliano Pagliara, Batu at REC Napoli on Sat 24 Oct, Naples. 2 artists on the bill: Batu and Massimiliano Pagliara. Preview the line-up and save it on soundcheck.
+Massimiliano Pagliara, Batu at REC Napoli on Sat 24 Oct, Naples. 2 artists: Batu and Massimiliano Pagliara. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

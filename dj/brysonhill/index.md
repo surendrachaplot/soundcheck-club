@@ -1,8 +1,8 @@
 # Bryson Hill
 
-Bryson Hill is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Bryson Hill is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
-Bryson Hill is a house and techno artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne, Seoul, Sydney and Victoria. Often billed alongside Carla Martinez, Club Angel and James Pepper. Next up: The Ivy, Sydney on Sun 4 Oct.
+Bryson Hill is a house and techno artist based in Australia, with 10 gigs on soundcheck across Melbourne, Seoul, Sydney and Victoria. Often billed alongside Carla Martinez, Club Angel and James Pepper. Next up: The Ivy, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Bryson Hill is a house and techno artist based in Australia, tracked on soundche
 
 ## Recently played
 
-- Soap Seoul, Seoul — Sun, 16 Aug 2026
-- The Ivy, Sydney — Sun, 21 Dec 2025
-- Liberty Hall, Sydney — Sat, 29 Nov 2025
-- The Ivy, Sydney — Sun, 23 Mar 2025
-- QQQ ST. Park, Melbourne — Sun, 3 Nov 2024
-- Howler, Melbourne — Sat, 2 Nov 2024
-- Abercrombie Hotel, Sydney — Sat, 26 Oct 2024
-- Carousel Bar & Ballroom, Sydney — Sun, 6 Oct 2024
+- Soap Seoul, Seoul · Sun, 16 Aug 2026
+- The Ivy, Sydney · Sun, 21 Dec 2025
+- Liberty Hall, Sydney · Sat, 29 Nov 2025
+- The Ivy, Sydney · Sun, 23 Mar 2025
+- QQQ ST. Park, Melbourne · Sun, 3 Nov 2024
+- Howler, Melbourne · Sat, 2 Nov 2024
+- Abercrombie Hotel, Sydney · Sat, 26 Oct 2024
+- Carousel Bar & Ballroom, Sydney · Sun, 6 Oct 2024
 
 ## Shares bills with
 

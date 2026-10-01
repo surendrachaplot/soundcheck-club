@@ -1,6 +1,6 @@
 # Upsessions presents Lens (UK | Hospital Records) at Le Centre: Hub Créatif
 
-Upsessions presents Lens (UK | Hospital Records) at Le Centre: Hub Créatif on Sat 5 Dec, Quebec City. 1 artist on the bill: Lens. Preview the line-up and save it on soundcheck.
+Upsessions presents Lens (UK | Hospital Records) at Le Centre: Hub Créatif on Sat 5 Dec, Quebec City. 1 artist: Lens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

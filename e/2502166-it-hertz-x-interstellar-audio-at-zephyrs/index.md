@@ -1,6 +1,6 @@
 # It Hertz x Interstellar Audio at Zephyrs
 
-It Hertz x Interstellar Audio at Zephyrs on Sat 17 Oct, Sheffield. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+It Hertz x Interstellar Audio at Zephyrs on Sat 17 Oct, Sheffield. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

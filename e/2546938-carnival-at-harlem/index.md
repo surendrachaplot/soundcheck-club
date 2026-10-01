@@ -1,6 +1,6 @@
 # CARNIVAL at Harlem
 
-CARNIVAL at Harlem on Sun 18 Oct, Tokyo. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+CARNIVAL at Harlem on Sun 18 Oct, Tokyo. Hip-Hop and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

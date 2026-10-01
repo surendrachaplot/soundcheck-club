@@ -1,8 +1,8 @@
 # Schacke
 
-Schacke is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Q Club, Milan on Fri, 16 Oct 2026.
+Schacke is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Q Club, Milan on Fri, 16 Oct 2026.
 
-Schacke is a techno and trance artist based in Denmark, tracked on soundcheck, with 198 sets logged across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: Q Club, Milan on Fri 16 Oct.
+Schacke is a techno and trance artist based in Denmark, with 198 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 48 more. Often billed alongside Peachlyfe, Vixen and Mohajer. Next up: Q Club, Milan on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Schacke is a techno and trance artist based in Denmark, tracked on soundcheck, w
 
 ## Recently played
 
-- VENT, Tokyo — Sat, 12 Sept 2026
-- TBA - Secret Warehouse, Paris — Sat, 5 Sept 2026
-- Village Underground Barcelona, Barcelona — Sat, 29 Aug 2026
-- BASIS, Utrecht — Sat, 15 Aug 2026
-- TILLATEC, Amsterdam — Sat, 8 Aug 2026
-- Komplex Berlin, Berlin — Sat, 25 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
-- Hangaren, Copenhagen — Sat, 11 Jul 2026
+- VENT, Tokyo · Sat, 12 Sept 2026
+- TBA - Secret Warehouse, Paris · Sat, 5 Sept 2026
+- Village Underground Barcelona, Barcelona · Sat, 29 Aug 2026
+- BASIS, Utrecht · Sat, 15 Aug 2026
+- TILLATEC, Amsterdam · Sat, 8 Aug 2026
+- Komplex Berlin, Berlin · Sat, 25 Jul 2026
+- Ferropolis, Leipzig · Fri, 17 Jul 2026
+- Hangaren, Copenhagen · Sat, 11 Jul 2026
 
 ## Shares bills with
 

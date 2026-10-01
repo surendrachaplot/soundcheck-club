@@ -1,6 +1,6 @@
 # SENSO NACHT at Sensorium
 
-SENSO NACHT at Sensorium on Sat 24 Oct, Berlin. Techno and Tech House. Preview the line-up and save it on soundcheck.
+SENSO NACHT at Sensorium on Sat 24 Oct, Berlin. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

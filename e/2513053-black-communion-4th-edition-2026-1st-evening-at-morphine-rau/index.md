@@ -1,6 +1,6 @@
 # Black Communion 4th Edition 2026 1st evening at Morphine Raum
 
-Black Communion 4th Edition 2026 1st evening at Morphine Raum on Tue 3 Nov, Berlin. Experimental and Funk / Soul. Preview the line-up and save it on soundcheck.
+Black Communion 4th Edition 2026 1st evening at Morphine Raum on Tue 3 Nov, Berlin. Experimental and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

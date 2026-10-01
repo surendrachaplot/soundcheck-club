@@ -1,8 +1,8 @@
 # SOBAH
 
-SOBAH is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Digital, Newcastle on Sat, 3 Oct 2026.
+SOBAH is a Progressive House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Sat, 3 Oct 2026.
 
-SOBAH is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Leeds, Manchester and Newcastle. Often billed alongside Gav Easby, Easby and Kieran Muckle. Next up: Digital, Newcastle on Sat 3 Oct.
+SOBAH is a progressive house and deep house artist based in United Kingdom, with 21 gigs on soundcheck across Leeds, Manchester and Newcastle. Often billed alongside Gav Easby, Easby and Kieran Muckle. Next up: Digital, Newcastle on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ SOBAH is a progressive house and deep house artist based in United Kingdom, trac
 
 ## Recently played
 
-- The Fibre Penthouse, Leeds — Sat, 19 Sept 2026
-- The Fibre Penthouse, Leeds — Fri, 14 Aug 2026
-- The Fibre Penthouse, Leeds — Fri, 14 Aug 2026
-- The Fibre Penthouse, Leeds — Sat, 20 Jun 2026
-- Digital, Newcastle — Sat, 6 Jun 2026
-- Archive, Leeds — Sun, 3 May 2026
-- Digital, Newcastle — Sat, 2 May 2026
-- The Fibre Penthouse, Leeds — Fri, 10 Apr 2026
+- The Fibre Penthouse, Leeds · Sat, 19 Sept 2026
+- The Fibre Penthouse, Leeds · Fri, 14 Aug 2026
+- The Fibre Penthouse, Leeds · Fri, 14 Aug 2026
+- The Fibre Penthouse, Leeds · Sat, 20 Jun 2026
+- Digital, Newcastle · Sat, 6 Jun 2026
+- Archive, Leeds · Sun, 3 May 2026
+- Digital, Newcastle · Sat, 2 May 2026
+- The Fibre Penthouse, Leeds · Fri, 10 Apr 2026
 
 ## Shares bills with
 

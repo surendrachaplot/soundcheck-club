@@ -1,6 +1,6 @@
 # TOBIAHS (360° SET) at Concord Music Hall
 
-TOBIAHS (360° SET) at Concord Music Hall on Sat 14 Nov, Chicago. House and Pop. Preview the line-up and save it on soundcheck.
+TOBIAHS (360° SET) at Concord Music Hall on Sat 14 Nov, Chicago. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Autumn Three
 
-Autumn Three is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "qürbət: sounds of exile |||" on Sun, 4 Oct 2026.
+Autumn Three is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "qürbət: sounds of exile |||" on Sun, 4 Oct 2026.
 
-Autumn Three is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including darquewonder, Field Case, luvandula and Nanzhen Yang and 2 more. Browse upcoming dates, start times and who's playing.
+Autumn Three is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including darquewonder, Field Case, luvandula and Nanzhen Yang and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

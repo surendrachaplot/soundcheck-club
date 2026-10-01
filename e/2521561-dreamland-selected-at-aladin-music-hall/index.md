@@ -1,6 +1,6 @@
 # DREAMLAND SELECTED at Aladin Music Hall
 
-DREAMLAND SELECTED at Aladin Music Hall on Fri 2 Oct, Bremen. 3 artists on the bill: A Little Sound, Andromedik and Benski. Preview the line-up and save it on soundcheck.
+DREAMLAND SELECTED at Aladin Music Hall on Fri 2 Oct, Bremen. 3 artists: A Little Sound, Andromedik and Benski. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

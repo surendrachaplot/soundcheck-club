@@ -1,8 +1,8 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Lena Willikens is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Lena Willikens is a techno and house artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Lena Willikens is a techno and house artist based in Germany, with 214 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Lena Willikens is a techno and house artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Bar Part Time, San Francisco/Oakland — Fri, 25 Sept 2026
-- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- H0L0, New York City — Fri, 18 Sept 2026
-- M.O.T, London — Sat, 12 Sept 2026
-- Bar Part Time, San Francisco/Oakland — Sat, 12 Sept 2026
-- Salon des Amateurs, Düsseldorf — Sat, 22 Aug 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Bar Part Time, San Francisco/Oakland · Fri, 25 Sept 2026
+- TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- H0L0, New York City · Fri, 18 Sept 2026
+- M.O.T, London · Sat, 12 Sept 2026
+- Bar Part Time, San Francisco/Oakland · Sat, 12 Sept 2026
+- Salon des Amateurs, Düsseldorf · Sat, 22 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # 10 Years of Sunshine Soul X 30 Years of Atjazz at Mssng Pieces
 
-10 Years of Sunshine Soul X 30 Years of Atjazz at Mssng Pieces on Sat 14 Nov, Nottingham. 4 artists on the bill: Antonio Vendone, Atjazz, Faro and Mylo Harvey. House and Broken Beat. Preview the line-up and save it on soundcheck.
+10 Years of Sunshine Soul X 30 Years of Atjazz at Mssng Pieces on Sat 14 Nov, Nottingham. 4 artists: Antonio Vendone, Atjazz, Faro and Mylo Harvey. House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

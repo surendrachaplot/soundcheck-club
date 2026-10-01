@@ -1,6 +1,6 @@
 # Canabliss - After Glow Tour at SUBculture Saturdays at The Red Room
 
-Canabliss - After Glow Tour at SUBculture Saturdays at The Red Room on Sat 10 Oct, Vancouver. Bass. Preview the line-up and save it on soundcheck.
+Canabliss - After Glow Tour at SUBculture Saturdays at The Red Room on Sat 10 Oct, Vancouver. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

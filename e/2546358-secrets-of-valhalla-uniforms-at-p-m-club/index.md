@@ -1,6 +1,6 @@
 # Secrets of Valhalla: UNIFORMS at P.M. Club
 
-Secrets of Valhalla: UNIFORMS at P.M. Club on Fri 23 Oct, Prague. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Secrets of Valhalla: UNIFORMS at P.M. Club on Fri 23 Oct, Prague. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

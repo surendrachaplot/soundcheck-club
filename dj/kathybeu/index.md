@@ -1,8 +1,8 @@
 # kathy beu
 
-kathy beu is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Cafeteria, Toronto on Sat, 24 Oct 2026.
+kathy beu is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cafeteria, Toronto on Sat, 24 Oct 2026.
 
-kathy beu is a techno and house artist based in Mexico, tracked on soundcheck, with 10 sets logged across Toronto. Often billed alongside DJ Visitor, DR 4SKYN and Jonnix. Next up: Cafeteria, Toronto on Sat 24 Oct.
+kathy beu is a techno and house artist based in Mexico, with 10 gigs on soundcheck across Toronto. Often billed alongside DJ Visitor, DR 4SKYN and Jonnix. Next up: Cafeteria, Toronto on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ kathy beu is a techno and house artist based in Mexico, tracked on soundcheck, w
 
 ## Recently played
 
-- Bambi's, Toronto — Fri, 21 Aug 2026
-- Cafeteria, Toronto — Sat, 13 Jun 2026
-- Rhythm, Toronto — Sat, 4 Apr 2026
-- SOUNDS GOOD, Toronto — Fri, 28 Nov 2025
-- Bsmt 254, Toronto — Thu, 7 Aug 2025
-- TBA - Toronto, Toronto — Sat, 19 Jul 2025
-- TBA - Toronto, Toronto — Fri, 18 Jul 2025
-- TBA - Toronto, Toronto — Sun, 13 Apr 2025
+- Bambi's, Toronto · Fri, 21 Aug 2026
+- Cafeteria, Toronto · Sat, 13 Jun 2026
+- Rhythm, Toronto · Sat, 4 Apr 2026
+- SOUNDS GOOD, Toronto · Fri, 28 Nov 2025
+- Bsmt 254, Toronto · Thu, 7 Aug 2025
+- TBA - Toronto, Toronto · Sat, 19 Jul 2025
+- TBA - Toronto, Toronto · Fri, 18 Jul 2025
+- TBA - Toronto, Toronto · Sun, 13 Apr 2025
 
 ## Shares bills with
 

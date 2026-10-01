@@ -1,6 +1,6 @@
 # Triple A Events presents Cosmic Gate and Ruben de Ronde – Access Another Atmosphere at Prater Dome
 
-Triple A Events presents Cosmic Gate and Ruben de Ronde – Access Another Atmosphere at Prater Dome on Fri 27 Nov, Vienna. 3 artists on the bill: Cosmic Gate, DJ Observer and Ruben de Ronde. Trance. Preview the line-up and save it on soundcheck.
+Triple A Events presents Cosmic Gate and Ruben de Ronde – Access Another Atmosphere at Prater Dome on Fri 27 Nov, Vienna. 3 artists: Cosmic Gate, DJ Observer and Ruben de Ronde. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

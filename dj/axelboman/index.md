@@ -1,8 +1,8 @@
 # Axel Boman
 
-Axel Boman is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Knockdown Center, New York City on Sun, 4 Oct 2026.
+Axel Boman is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Sun, 4 Oct 2026.
 
-Axel Boman is a house and techno artist based in Sweden, tracked on soundcheck, with 148 sets logged across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Kornél Kovács, Pedrodollar and Octo Octa. Next up: Knockdown Center, New York City on Sun 4 Oct.
+Axel Boman is a house and techno artist based in Sweden, with 148 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 47 more. Often billed alongside Kornél Kovács, Pedrodollar and Octo Octa. Next up: Knockdown Center, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Axel Boman is a house and techno artist based in Sweden, tracked on soundcheck, 
 
 ## Recently played
 
-- Klättermusens Verkstad, Stockholm — Thu, 24 Sept 2026
-- Bar Franca, Los Angeles — Wed, 16 Sept 2026
-- Kiku Room, San Diego — Sun, 6 Sept 2026
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 5 Sept 2026
-- Fünk, Mexico City — Fri, 4 Sept 2026
-- Bike Jesus, Prague — Sat, 1 Aug 2026
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
-- Umoya, Naples — Fri, 5 Jun 2026
+- Klättermusens Verkstad, Stockholm · Thu, 24 Sept 2026
+- Bar Franca, Los Angeles · Wed, 16 Sept 2026
+- Kiku Room, San Diego · Sun, 6 Sept 2026
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 5 Sept 2026
+- Fünk, Mexico City · Fri, 4 Sept 2026
+- Bike Jesus, Prague · Sat, 1 Aug 2026
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
+- Umoya, Naples · Fri, 5 Jun 2026
 
 ## Shares bills with
 

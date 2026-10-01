@@ -1,6 +1,6 @@
 # Herfstdrift Weekender - Saturday at De Papierfabriek
 
-Herfstdrift Weekender - Saturday at De Papierfabriek on Sat 28 Nov, Nijmegen. 3 artists on the bill: Estella Boersma, Planetary Assault Systems and Speedy J. Preview the line-up and save it on soundcheck.
+Herfstdrift Weekender - Saturday at De Papierfabriek on Sat 28 Nov, Nijmegen. 3 artists: Estella Boersma, Planetary Assault Systems and Speedy J. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

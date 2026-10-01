@@ -1,6 +1,6 @@
 # SPORTS at Razzmatazz
 
-SPORTS at Razzmatazz on Fri 13 Nov, Barcelona. Preview the line-up and save it on soundcheck.
+SPORTS at Razzmatazz on Fri 13 Nov, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

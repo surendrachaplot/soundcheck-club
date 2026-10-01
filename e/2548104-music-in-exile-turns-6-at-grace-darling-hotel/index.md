@@ -1,6 +1,6 @@
 # Music in Exile Turns 6! at Grace Darling Hotel
 
-Music in Exile Turns 6! at Grace Darling Hotel on Fri 2 Oct, Melbourne. 2 artists on the bill: Aarti Jadu and DJ B2B. Preview the line-up and save it on soundcheck.
+Music in Exile Turns 6! at Grace Darling Hotel on Fri 2 Oct, Melbourne. 2 artists: Aarti Jadu and DJ B2B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

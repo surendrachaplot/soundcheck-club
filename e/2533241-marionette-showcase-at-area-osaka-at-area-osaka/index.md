@@ -1,6 +1,6 @@
 # Marionette showcase at Area, Osaka at Area_osaka
 
-Marionette showcase at Area, Osaka at Area_osaka on Fri 9 Oct, Osaka. 3 artists on the bill: DJ KAZUMA, Grimwig and YAMA(JP/OSK). Techno. Preview the line-up and save it on soundcheck.
+Marionette showcase at Area, Osaka at Area_osaka on Fri 9 Oct, Osaka. 3 artists: DJ KAZUMA, Grimwig and YAMA(JP/OSK). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

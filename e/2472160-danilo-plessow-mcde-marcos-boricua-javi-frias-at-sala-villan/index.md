@@ -1,6 +1,6 @@
 # Danilo Plessow (MCDE) + Marcos Boricua + Javi Frias at Sala Villanos
 
-Danilo Plessow (MCDE) + Marcos Boricua + Javi Frias at Sala Villanos on Fri 16 Oct, Madrid. 3 artists on the bill: Danilo Plessow, Javi Frias and Marcos Boricua. Electronica. Preview the line-up and save it on soundcheck.
+Danilo Plessow (MCDE) + Marcos Boricua + Javi Frias at Sala Villanos on Fri 16 Oct, Madrid. 3 artists: Danilo Plessow, Javi Frias and Marcos Boricua. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

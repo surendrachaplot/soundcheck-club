@@ -1,6 +1,6 @@
 # FUQIT: Broken Hill at Q Nightclub
 
-FUQIT: Broken Hill at Q Nightclub on Thu 22 Oct, Seattle. 1 artist on the bill: Broken Hill. Preview the line-up and save it on soundcheck.
+FUQIT: Broken Hill at Q Nightclub on Thu 22 Oct, Seattle. 1 artist: Broken Hill. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

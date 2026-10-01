@@ -1,8 +1,8 @@
 # nonsuit
 
-nonsuit is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+nonsuit is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-nonsuit is a techno and club artist based in United States of America, tracked on soundcheck, with 97 sets logged across Los Angeles, New York City, Portland and San Francisco/Oakland and 1 more. Often billed alongside likeholywine, Adam Kraft and Beverly Chills. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+nonsuit is a techno and club artist based in United States of America, with 97 gigs on soundcheck across Los Angeles, New York City, Portland and San Francisco/Oakland and 1 more. Often billed alongside likeholywine, Adam Kraft and Beverly Chills. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ nonsuit is a techno and club artist based in United States of America, tracked o
 
 ## Recently played
 
-- The San Francisco Mint, San Francisco/Oakland — Fri, 25 Sept 2026
-- The Stud, San Francisco/Oakland — Sat, 5 Sept 2026
-- 1015 Folsom, San Francisco/Oakland — Thu, 3 Sept 2026
-- F8 1192 Folsom, San Francisco/Oakland — Fri, 7 Aug 2026
-- The Great Northern, San Francisco/Oakland — Sun, 28 Jun 2026
-- TBA - Shasta-Trinity National Forest, San Francisco/Oakland — Thu, 4 Jun 2026
-- The Great Northern, San Francisco/Oakland — Fri, 29 May 2026
-- TBA - The Loom 1000 22nd Ave Oakland, CA 94606, San Francisco/Oakland — Sat, 9 May 2026
+- The San Francisco Mint, San Francisco/Oakland · Fri, 25 Sept 2026
+- The Stud, San Francisco/Oakland · Sat, 5 Sept 2026
+- 1015 Folsom, San Francisco/Oakland · Thu, 3 Sept 2026
+- F8 1192 Folsom, San Francisco/Oakland · Fri, 7 Aug 2026
+- The Great Northern, San Francisco/Oakland · Sun, 28 Jun 2026
+- TBA - Shasta-Trinity National Forest, San Francisco/Oakland · Thu, 4 Jun 2026
+- The Great Northern, San Francisco/Oakland · Fri, 29 May 2026
+- TBA - The Loom 1000 22nd Ave Oakland, CA 94606, San Francisco/Oakland · Sat, 9 May 2026
 
 ## Shares bills with
 

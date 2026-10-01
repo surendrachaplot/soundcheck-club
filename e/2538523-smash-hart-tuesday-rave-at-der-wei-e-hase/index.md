@@ -1,6 +1,6 @@
 # Smash & HART ◢◤ Tuesday Rave at Der Weiße Hase
 
-Smash & HART ◢◤ Tuesday Rave at Der Weiße Hase on Tue 24 Nov, Berlin. Trance and Techno. Preview the line-up and save it on soundcheck.
+Smash & HART ◢◤ Tuesday Rave at Der Weiße Hase on Tue 24 Nov, Berlin. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

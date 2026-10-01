@@ -1,6 +1,6 @@
 # AVANT 018 - Observe x Section 8 at Section 8
 
-AVANT 018 - Observe x Section 8 on Sat 3 Oct, Melbourne. 2 artists on the bill: Macmillan and Skyyy. House and Tech House. Preview the line-up and save it on soundcheck.
+AVANT 018 - Observe x Section 8 on Sat 3 Oct, Melbourne. 2 artists: Macmillan and Skyyy. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

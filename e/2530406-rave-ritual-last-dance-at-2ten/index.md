@@ -1,6 +1,6 @@
 # Rave Ritual - Last Dance at 2ten
 
-Rave Ritual - Last Dance at 2ten on Sat 3 Oct, Athens. 3 artists on the bill: MOSHBEAT, Plagger and TYPEO. Techno and Acid. Preview the line-up and save it on soundcheck.
+Rave Ritual - Last Dance at 2ten on Sat 3 Oct, Athens. 3 artists: MOSHBEAT, Plagger and TYPEO. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

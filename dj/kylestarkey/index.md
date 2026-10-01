@@ -1,8 +1,8 @@
 # Kyle Starkey
 
-Kyle Starkey is a Techno and House artist with 21 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Digital, Newcastle on Fri, 2 Oct 2026.
+Kyle Starkey is a Techno and House artist with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
 
-Kyle Starkey is a techno and house artist based in United Kingdom, tracked on soundcheck, with 177 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Digital, Newcastle on Fri 2 Oct.
+Kyle Starkey is a techno and house artist based in United Kingdom, with 177 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 42 more. Often billed alongside DART, Benwal and Faster Horses. Next up: Digital, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Kyle Starkey is a techno and house artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Mon, 28 Sept 2026
-- TBA - Fohrstraat, 9000 Gent, België, Ghent — Sat, 26 Sept 2026
-- Amnesia Ibiza, Ibiza — Mon, 21 Sept 2026
-- SWG3, Glasgow — Sat, 19 Sept 2026
-- SWG3, Glasgow — Sat, 19 Sept 2026
-- Moon Club, Bristol — Thu, 17 Sept 2026
-- Amnesia Ibiza, Ibiza — Mon, 14 Sept 2026
-- Laagravense Plas, Utrecht — Sat, 12 Sept 2026
+- Amnesia Ibiza, Ibiza · Mon, 28 Sept 2026
+- TBA - Fohrstraat, 9000 Gent, België, Ghent · Sat, 26 Sept 2026
+- Amnesia Ibiza, Ibiza · Mon, 21 Sept 2026
+- SWG3, Glasgow · Sat, 19 Sept 2026
+- SWG3, Glasgow · Sat, 19 Sept 2026
+- Moon Club, Bristol · Thu, 17 Sept 2026
+- Amnesia Ibiza, Ibiza · Mon, 14 Sept 2026
+- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
 
 ## Shares bills with
 

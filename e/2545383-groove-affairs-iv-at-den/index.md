@@ -1,6 +1,6 @@
 # ＬＩＬＩＴＨ ✦ GROOVE AFFAIRS IV at ÆDEN
 
-ＬＩＬＩＴＨ ✦ GROOVE AFFAIRS IV at ÆDEN on Fri 2 Oct, Berlin. 6 artists on the bill: Ayham, Dj Fugitive, Manrick Stapez and Romina Mazzini and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+ＬＩＬＩＴＨ ✦ GROOVE AFFAIRS IV at ÆDEN on Fri 2 Oct, Berlin. 6 artists: Ayham, Dj Fugitive, Manrick Stapez and Romina Mazzini and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

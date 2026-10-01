@@ -1,6 +1,6 @@
 # La Felicita VINYL CLUB 2 X PARIS LOVES VINYL at La Felicita
 
-La Felicita VINYL CLUB 2 X PARIS LOVES VINYL on Sat 3 Oct, Paris. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+La Felicita VINYL CLUB 2 X PARIS LOVES VINYL on Sat 3 Oct, Paris. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

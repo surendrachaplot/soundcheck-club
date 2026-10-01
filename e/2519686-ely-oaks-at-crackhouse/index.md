@@ -1,6 +1,6 @@
 # Ely Oaks at Crackhouse
 
-Ely Oaks at Crackhouse on Fri 30 Oct, Gdansk. 1 artist on the bill: Ely Oaks. Preview the line-up and save it on soundcheck.
+Ely Oaks at Crackhouse on Fri 30 Oct, Gdansk. 1 artist: Ely Oaks. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

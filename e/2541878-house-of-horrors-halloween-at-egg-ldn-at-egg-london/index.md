@@ -1,6 +1,6 @@
 # House of Horrors Halloween at EGG LDN at Egg London
 
-House of Horrors Halloween at EGG LDN at Egg London on Thu 29 Oct, London. Preview the line-up and save it on soundcheck.
+House of Horrors Halloween at EGG LDN at Egg London on Thu 29 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

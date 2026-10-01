@@ -1,8 +1,8 @@
 # The Ground at Club Space
 
-The Ground at Club Space is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Andy Stott + Carrier" on Fri, 2 Oct 2026.
+The Ground at Club Space is a music venue in Miami with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Andy Stott + Carrier" on Fri, 2 Oct 2026.
 
-The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and Actress and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
+The Ground at Club Space is a music venue in Miami listed on soundcheck. 13 upcoming gigs, with line-ups including 1-800-Lolita, 1tbsp, Berrakka and Actress and 2 more. See dates, start times and who's playing. 34 NE 11 Street, Miami, FL 33132, USA.
 
 ## What's on
 

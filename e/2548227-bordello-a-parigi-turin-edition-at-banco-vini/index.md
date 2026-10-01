@@ -1,6 +1,6 @@
 # Bordello a Parigi - Turin Edition at Banco Vini
 
-Bordello a Parigi - Turin Edition at Banco Vini on Thu 8 Oct, Turin. 4 artists on the bill: Andrea Martello, Andrea Vietti, Bordello Soundsystem and Gambo. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Bordello a Parigi - Turin Edition at Banco Vini on Thu 8 Oct, Turin. 4 artists: Andrea Martello, Andrea Vietti, Bordello Soundsystem and Gambo. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

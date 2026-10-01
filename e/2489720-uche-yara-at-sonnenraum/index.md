@@ -1,6 +1,6 @@
 # Uche Yara at Sonnenraum
 
-Uche Yara at Sonnenraum on Fri 6 Nov, Berlin. Club and R&B. Preview the line-up and save it on soundcheck.
+Uche Yara at Sonnenraum on Fri 6 Nov, Berlin. Club and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

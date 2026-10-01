@@ -1,6 +1,6 @@
 # Mind Against, Maxi Meraki & Luch at Club Space Miami
 
-Mind Against, Maxi Meraki & Luch at Club Space Miami on Fri 9 Oct, Miami. 6 artists on the bill: Bakke, Danyelino, LUCH (MEX) and Maxi Meraki and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Mind Against, Maxi Meraki & Luch at Club Space Miami on Fri 9 Oct, Miami. 6 artists: Bakke, Danyelino, LUCH (MEX) and Maxi Meraki and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

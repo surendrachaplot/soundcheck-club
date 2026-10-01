@@ -1,6 +1,6 @@
 # Out of Phase presents: Daytime TV at Quarry
 
-Out of Phase presents: Daytime TV at Quarry on Wed 28 Oct, Liverpool. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Out of Phase presents: Daytime TV at Quarry on Wed 28 Oct, Liverpool. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

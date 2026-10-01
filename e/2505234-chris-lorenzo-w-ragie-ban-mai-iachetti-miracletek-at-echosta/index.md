@@ -1,6 +1,6 @@
 # Chris Lorenzo w/ Ragie Ban, Mai iachetti, MIRACLETEK at Echostage
 
-Chris Lorenzo w/ Ragie Ban, Mai iachetti, MIRACLETEK at Echostage on Fri 23 Oct, Washington DC. 2 artists on the bill: Chris Lorenzo and Mai iachetti. House and Tech House. Preview the line-up and save it on soundcheck.
+Chris Lorenzo w/ Ragie Ban, Mai iachetti, MIRACLETEK at Echostage on Fri 23 Oct, Washington DC. 2 artists: Chris Lorenzo and Mai iachetti. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

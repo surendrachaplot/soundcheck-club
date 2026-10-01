@@ -1,6 +1,6 @@
 # Club 77: Secret International Guest, Benny Chiu, Jun Wan at Club 77
 
-Club 77: Secret International Guest, Benny Chiu, Jun Wan on Sat 7 Nov, Sydney. 2 artists on the bill: Benny Chiu and Jun Wan. Techno and House. Preview the line-up and save it on soundcheck.
+Club 77: Secret International Guest, Benny Chiu, Jun Wan on Sat 7 Nov, Sydney. 2 artists: Benny Chiu and Jun Wan. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

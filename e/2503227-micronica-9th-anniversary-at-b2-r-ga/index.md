@@ -1,6 +1,6 @@
 # MICRONICA 9TH ANNIVERSARY at B2 Rīga
 
-MICRONICA 9TH ANNIVERSARY at B2 Rīga on Fri 13 Nov, Riga. House and Minimal. Preview the line-up and save it on soundcheck.
+MICRONICA 9TH ANNIVERSARY at B2 Rīga on Fri 13 Nov, Riga. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

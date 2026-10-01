@@ -1,6 +1,6 @@
 # Club Ghetto Tech: Vol. 9 at Sinners and Saints
 
-Club Ghetto Tech: Vol. 9 at Sinners and Saints on Sat 31 Oct, Washington DC. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Club Ghetto Tech: Vol. 9 at Sinners and Saints on Sat 31 Oct, Washington DC. Club and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

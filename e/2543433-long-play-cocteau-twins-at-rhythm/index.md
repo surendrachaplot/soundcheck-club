@@ -1,6 +1,6 @@
 # Long Play: Cocteau Twins at Rhythm
 
-Long Play: Cocteau Twins at Rhythm on Thu 22 Oct, Toronto. 1 artist on the bill: Jaw Jones. Preview the line-up and save it on soundcheck.
+Long Play: Cocteau Twins at Rhythm on Thu 22 Oct, Toronto. 1 artist: Jaw Jones. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

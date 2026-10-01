@@ -1,8 +1,8 @@
 # TBA - INNER WEST
 
-TBA - INNER WEST is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Club Balearico feat Myles Mac and DJ Possum (Naarm)" on Sat, 31 Oct 2026.
+TBA - INNER WEST is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Club Balearico feat Myles Mac and DJ Possum (Naarm)" on Sat, 31 Oct 2026.
 
-TBA - INNER WEST is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including DJ Possum and Myles Mac. Browse upcoming dates, start times and who's playing.
+TBA - INNER WEST is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including DJ Possum and Myles Mac. See dates, start times and who's playing.
 
 ## What's on
 

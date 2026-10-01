@@ -1,8 +1,8 @@
 # KELLY TEE
 
-KELLY TEE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Revolver Upstairs, Melbourne on Sun, 4 Oct 2026.
+KELLY TEE is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Revolver Upstairs, Melbourne on Sun, 4 Oct 2026.
 
-KELLY TEE is a house and techno artist based in United Kingdom, tracked on soundcheck, with 96 sets logged across Cologne, Melbourne and Sydney. Often billed alongside Boogs, Spacey Space and Ben Silver (AUS). Next up: Revolver Upstairs, Melbourne on Sun 4 Oct.
+KELLY TEE is a house and techno artist based in United Kingdom, with 96 gigs on soundcheck across Cologne, Melbourne and Sydney. Often billed alongside Boogs, Spacey Space and Ben Silver (AUS). Next up: Revolver Upstairs, Melbourne on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ KELLY TEE is a house and techno artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Revolver Upstairs, Melbourne — Sun, 27 Sept 2026
-- Revolver Upstairs, Melbourne — Sun, 20 Sept 2026
-- Revolver Upstairs, Melbourne — Sun, 23 Aug 2026
-- Revolver Upstairs, Melbourne — Sun, 2 Aug 2026
-- Revolver Upstairs, Melbourne — Sun, 26 Jul 2026
-- Revolver Upstairs, Melbourne — Sun, 5 Jul 2026
-- Revolver Upstairs, Melbourne — Sun, 28 Jun 2026
-- OneSixOne, Melbourne — Fri, 26 Jun 2026
+- Revolver Upstairs, Melbourne · Sun, 27 Sept 2026
+- Revolver Upstairs, Melbourne · Sun, 20 Sept 2026
+- Revolver Upstairs, Melbourne · Sun, 23 Aug 2026
+- Revolver Upstairs, Melbourne · Sun, 2 Aug 2026
+- Revolver Upstairs, Melbourne · Sun, 26 Jul 2026
+- Revolver Upstairs, Melbourne · Sun, 5 Jul 2026
+- Revolver Upstairs, Melbourne · Sun, 28 Jun 2026
+- OneSixOne, Melbourne · Fri, 26 Jun 2026
 
 ## Shares bills with
 

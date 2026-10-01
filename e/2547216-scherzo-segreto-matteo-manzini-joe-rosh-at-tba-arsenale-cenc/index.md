@@ -1,6 +1,6 @@
 # Scherzo Segreto: Matteo Manzini, Joe Rosh at TBA - Arsenale Cenci
 
-Scherzo Segreto: Matteo Manzini, Joe Rosh at TBA - Arsenale Cenci on Sat 10 Oct, Rome. 2 artists on the bill: Joe Rosh and Matteo Manzini. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Scherzo Segreto: Matteo Manzini, Joe Rosh at TBA - Arsenale Cenci on Sat 10 Oct, Rome. 2 artists: Joe Rosh and Matteo Manzini. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

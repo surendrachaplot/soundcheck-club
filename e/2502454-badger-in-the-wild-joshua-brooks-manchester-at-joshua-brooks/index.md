@@ -1,6 +1,6 @@
 # Badger In The Wild - Joshua Brooks Manchester at Joshua Brooks
 
-Badger In The Wild - Joshua Brooks Manchester on Fri 16 Oct, Manchester. 3 artists on the bill: Badger (UK), LARISHKA (UK) and SHADEV. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+Badger In The Wild - Joshua Brooks Manchester on Fri 16 Oct, Manchester. 3 artists: Badger (UK), LARISHKA (UK) and SHADEV. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

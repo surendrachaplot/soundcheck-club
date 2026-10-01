@@ -1,6 +1,6 @@
 # Overbruggen x OG - ADE 2026 at PRE-Reserved
 
-Overbruggen x OG - ADE 2026 at PRE-Reserved on Sat 24 Oct, Netherlands. 5 artists on the bill: 6 SENSE, Diffrent, Itz3bby and Milion and 1 more. Preview the line-up and save it on soundcheck.
+Overbruggen x OG - ADE 2026 at PRE-Reserved on Sat 24 Oct, Netherlands. 5 artists: 6 SENSE, Diffrent, Itz3bby and Milion and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

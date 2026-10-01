@@ -1,6 +1,6 @@
 # Dan Croll: Album Launch Show at The Jacaranda
 
-Dan Croll: Album Launch Show at The Jacaranda on Sat 10 Oct, Liverpool. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Dan Croll: Album Launch Show at The Jacaranda on Sat 10 Oct, Liverpool. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

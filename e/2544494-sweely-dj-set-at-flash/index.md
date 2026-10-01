@@ -1,6 +1,6 @@
 # Sweely [DJ Set] at Flash
 
-Sweely [DJ Set] at Flash on Fri 6 Nov, Washington DC. 1 artist on the bill: Sweely. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Sweely [DJ Set] at Flash on Fri 6 Nov, Washington DC. 1 artist: Sweely. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FACE 2 FACE: ANKARA at TBA - CLUB MIRADOR INCEK
 
-FACE 2 FACE: ANKARA at TBA - CLUB MIRADOR INCEK on Sat 3 Oct, Ankara. 9 artists on the bill: Afem Syko, BIIANCO, DVAID and KCGZ and 5 more. Preview the line-up and save it on soundcheck.
+FACE 2 FACE: ANKARA at TBA - CLUB MIRADOR INCEK on Sat 3 Oct, Ankara. 9 artists: Afem Syko, BIIANCO, DVAID and KCGZ and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

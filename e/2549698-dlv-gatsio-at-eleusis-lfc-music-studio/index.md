@@ -1,6 +1,6 @@
 # DLV | Gatsio at Eleusis LFC Music Studio
 
-DLV | Gatsio at Eleusis LFC Music Studio on Sat 3 Oct, Athens. 2 artists on the bill: DLV and Gatsio. Preview the line-up and save it on soundcheck.
+DLV | Gatsio at Eleusis LFC Music Studio on Sat 3 Oct, Athens. 2 artists: DLV and Gatsio. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

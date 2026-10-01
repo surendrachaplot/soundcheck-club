@@ -1,6 +1,6 @@
 # VIPERACTIVE at Q Nightclub
 
-VIPERACTIVE at Q Nightclub on Sat 3 Oct, Seattle. Preview the line-up and save it on soundcheck.
+VIPERACTIVE at Q Nightclub on Sat 3 Oct, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

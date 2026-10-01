@@ -1,6 +1,6 @@
 # AFRO In Da Endz: Afro House, Afro Tech & Gqom at Club Makossa
 
-AFRO In Da Endz: Afro House, Afro Tech & Gqom at Club Makossa on Thu 15 Oct, London. 1 artist on the bill: Mixolis. Gqom and Afro House. Preview the line-up and save it on soundcheck.
+AFRO In Da Endz: Afro House, Afro Tech & Gqom at Club Makossa on Thu 15 Oct, London. 1 artist: Mixolis. Gqom and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

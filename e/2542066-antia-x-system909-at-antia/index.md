@@ -1,6 +1,6 @@
 # ANTIA x SYSTEM909 at ANTIA
 
-ANTIA x SYSTEM909 on Fri 2 Oct, Netherlands. 1 artist on the bill: SAIKA. Preview the line-up and save it on soundcheck.
+ANTIA x SYSTEM909 on Fri 2 Oct, Netherlands. 1 artist: SAIKA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

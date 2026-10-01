@@ -1,6 +1,6 @@
 # Tamoko by Nebari special guest: Alejandro Paz at berlinClub
 
-Tamoko by Nebari special guest: Alejandro Paz at berlinClub on Sat 10 Oct, Madrid. 2 artists on the bill: Alejandro Paz and Nebari. House and Electronica. Preview the line-up and save it on soundcheck.
+Tamoko by Nebari special guest: Alejandro Paz at berlinClub on Sat 10 Oct, Madrid. 2 artists: Alejandro Paz and Nebari. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

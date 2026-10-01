@@ -1,8 +1,8 @@
 # DJ SET (Uk)
 
-DJ SET (Uk) is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Rincón de Segovia, Morelos on Sat, 3 Oct 2026.
+DJ SET (Uk) is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Rincón de Segovia, Morelos on Sat, 3 Oct 2026.
 
-DJ SET (Uk) is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Berlin, Birmingham, Los Angeles and Lyon and 7 more. Often billed alongside Helena Hauff, PARIS (AU) and .cosm. Next up: Rincón de Segovia, Morelos on Sat 3 Oct.
+DJ SET (Uk) is a techno and electronica artist based in United Kingdom, with 19 gigs on soundcheck across Berlin, Birmingham, Los Angeles and Lyon and 7 more. Often billed alongside Helena Hauff, PARIS (AU) and .cosm. Next up: Rincón de Segovia, Morelos on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ SET (Uk) is a techno and electronica artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- Acud Macht NEU, Berlin — Sat, 20 Jun 2026
-- Naos, Rome — Sat, 6 Jun 2026
-- Naos, Rome — Sat, 16 May 2026
-- the inner circle vienna / wien, Vienna — Sat, 25 Apr 2026
-- Nhero Milano, Milan — Sat, 25 Apr 2026
-- Metropol, Berlin — Sun, 12 Apr 2026
-- Le Cirque Electrique, Paris — Sat, 4 Apr 2026
-- Sala Villanos, Madrid — Fri, 21 Nov 2025
+- Acud Macht NEU, Berlin · Sat, 20 Jun 2026
+- Naos, Rome · Sat, 6 Jun 2026
+- Naos, Rome · Sat, 16 May 2026
+- the inner circle vienna / wien, Vienna · Sat, 25 Apr 2026
+- Nhero Milano, Milan · Sat, 25 Apr 2026
+- Metropol, Berlin · Sun, 12 Apr 2026
+- Le Cirque Electrique, Paris · Sat, 4 Apr 2026
+- Sala Villanos, Madrid · Fri, 21 Nov 2025
 
 ## Shares bills with
 

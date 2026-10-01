@@ -1,6 +1,6 @@
 # Distant Matter at Night We Met
 
-Distant Matter at Night We Met on Fri 9 Oct, Nashville. House. Preview the line-up and save it on soundcheck.
+Distant Matter at Night We Met on Fri 9 Oct, Nashville. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

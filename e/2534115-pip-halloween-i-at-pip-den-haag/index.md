@@ -1,6 +1,6 @@
 # PIP HALLOWEEN I at PIP Den Haag
 
-PIP HALLOWEEN I at PIP Den Haag on Fri 30 Oct, The Hague. 4 artists on the bill: BäRK (NE), Kennedy, Mispoes and nienquepasa. Techno and House. Preview the line-up and save it on soundcheck.
+PIP HALLOWEEN I at PIP Den Haag on Fri 30 Oct, The Hague. 4 artists: BäRK (NE), Kennedy, Mispoes and nienquepasa. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Eden NYC
 
-Eden NYC is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SITH: SECRET RENDEZVOUS - 20 W 36th St., New York, NY 10018" on Fri, 2 Oct 2026.
+Eden NYC is a music venue in New York City with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SITH: SECRET RENDEZVOUS - 20 W 36th St., New York, NY 10018" on Fri, 2 Oct 2026.
 
-Eden NYC is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Ashley Younniä, Baronhawk Poitier, Brett Dancer and Chris IDH and 2 more. Browse upcoming dates, start times and who's playing. 20 w 36th St.
+Eden NYC is a music venue in New York City listed on soundcheck. 4 upcoming gigs, with line-ups including Ashley Younniä, Baronhawk Poitier, Brett Dancer and Chris IDH and 2 more. See dates, start times and who's playing. 20 w 36th St.
 
 ## What's on
 

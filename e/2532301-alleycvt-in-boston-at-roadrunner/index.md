@@ -1,6 +1,6 @@
 # ALLEYCVT in Boston at Roadrunner
 
-ALLEYCVT in Boston at Roadrunner on Sat 5 Dec, Boston. Preview the line-up and save it on soundcheck.
+ALLEYCVT in Boston at Roadrunner on Sat 5 Dec, Boston. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

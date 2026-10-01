@@ -1,6 +1,6 @@
 # Sound Within // DBA // TBA at The DBA
 
-Sound Within // DBA // TBA at The DBA on Fri 6 Nov, Manchester. Techno and House. Preview the line-up and save it on soundcheck.
+Sound Within // DBA // TBA at The DBA on Fri 6 Nov, Manchester. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

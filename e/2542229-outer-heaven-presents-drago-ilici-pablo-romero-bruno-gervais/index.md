@@ -1,6 +1,6 @@
 # Outer Heaven presents: Dragoş Ilici - Pablo Romero - Bruno Gervais at Outer Heaven
 
-Outer Heaven presents: Dragoş Ilici - Pablo Romero - Bruno Gervais on Thu 1 Oct, New York City. 3 artists on the bill: Bruno Gervais, Dragos Ilici and Pablo Romero. House and Minimal. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Dragoş Ilici - Pablo Romero - Bruno Gervais on Thu 1 Oct, New York City. 3 artists: Bruno Gervais, Dragos Ilici and Pablo Romero. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

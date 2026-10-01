@@ -1,6 +1,6 @@
 # Giri x RAWA Club at Giri
 
-Giri x RAWA Club on Fri 23 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Giri x RAWA Club on Fri 23 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

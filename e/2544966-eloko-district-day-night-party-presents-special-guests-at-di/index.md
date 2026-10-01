@@ -1,6 +1,6 @@
 # Eloko District day/night party presents special guests at District
 
-Eloko District day/night party presents special guests on Fri 2 Oct, Liverpool. House and Tech House. Preview the line-up and save it on soundcheck.
+Eloko District day/night party presents special guests on Fri 2 Oct, Liverpool. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

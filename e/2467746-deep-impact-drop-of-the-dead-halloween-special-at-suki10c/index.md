@@ -1,6 +1,6 @@
 # Deep Impact - Drop of the Dead! (Halloween Special) at Suki10c
 
-Deep Impact - Drop of the Dead! (Halloween Special) at Suki10c on Sat 24 Oct, Birmingham. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Deep Impact - Drop of the Dead! (Halloween Special) at Suki10c on Sat 24 Oct, Birmingham. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

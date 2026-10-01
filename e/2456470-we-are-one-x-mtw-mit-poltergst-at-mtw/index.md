@@ -1,6 +1,6 @@
 # WE ARE ONE x MTW mit POLTERGST at MTW
 
-WE ARE ONE x MTW mit POLTERGST on Sat 12 Dec, Frankfurt. 1 artist on the bill: Poltergeist. Trance and Techno. Preview the line-up and save it on soundcheck.
+WE ARE ONE x MTW mit POLTERGST on Sat 12 Dec, Frankfurt. 1 artist: Poltergeist. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

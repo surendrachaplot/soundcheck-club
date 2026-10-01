@@ -1,6 +1,6 @@
 # Room 909 x XLR [B.Y.O.B} at XLR
 
-Room 909 x XLR [B.Y.O.B} on Fri 16 Oct, Manchester. House. Preview the line-up and save it on soundcheck.
+Room 909 x XLR [B.Y.O.B} on Fri 16 Oct, Manchester. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

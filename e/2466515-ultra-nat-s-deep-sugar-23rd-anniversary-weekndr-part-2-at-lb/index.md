@@ -1,6 +1,6 @@
 # Ultra Naté'S DEEP SUGAR 23rd ANNIVERSARY ''WEEKNDR'' Part 2 at LB Skybar
 
-Ultra Naté'S DEEP SUGAR 23rd ANNIVERSARY ''WEEKNDR'' Part 2 at LB Skybar on Sun 4 Oct, Baltimore. 1 artist on the bill: Ultra Naté. Preview the line-up and save it on soundcheck.
+Ultra Naté'S DEEP SUGAR 23rd ANNIVERSARY ''WEEKNDR'' Part 2 at LB Skybar on Sun 4 Oct, Baltimore. 1 artist: Ultra Naté. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

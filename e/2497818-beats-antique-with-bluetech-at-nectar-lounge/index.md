@@ -1,6 +1,6 @@
 # BEATS ANTIQUE with Bluetech at Nectar Lounge
 
-BEATS ANTIQUE with Bluetech at Nectar Lounge on Fri 18 Dec, Seattle. Bass and Downtempo. Preview the line-up and save it on soundcheck.
+BEATS ANTIQUE with Bluetech at Nectar Lounge on Fri 18 Dec, Seattle. Bass and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

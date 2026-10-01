@@ -1,8 +1,8 @@
 # DWATA
 
-DWATA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at SVN West, San Francisco/Oakland on Sat, 3 Oct 2026.
+DWATA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at SVN West, San Francisco/Oakland on Sat, 3 Oct 2026.
 
-DWATA is a house and tech house artist based in United States of America, tracked on soundcheck, with 26 sets logged across San Francisco/Oakland and Vancouver. Often billed alongside J.Phlip, Neumonic and AMPRS&ND. Next up: SVN West, San Francisco/Oakland on Sat 3 Oct.
+DWATA is a house and tech house artist based in United States of America, with 26 gigs on soundcheck across San Francisco/Oakland and Vancouver. Often billed alongside J.Phlip, Neumonic and AMPRS&ND. Next up: SVN West, San Francisco/Oakland on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DWATA is a house and tech house artist based in United States of America, tracke
 
 ## Recently played
 
-- Cooks Valley Campground, San Francisco/Oakland — Fri, 17 Jul 2026
-- The Midway, San Francisco/Oakland — Fri, 8 May 2026
-- 888 Garage, San Francisco/Oakland — Sat, 21 Feb 2026
-- The Great Northern, San Francisco/Oakland — Thu, 1 Jan 2026
-- F8 1192 Folsom, San Francisco/Oakland — Wed, 20 Aug 2025
-- F8 1192 Folsom, San Francisco/Oakland — Thu, 17 Jul 2025
-- TBA - 520 Alexander, Vancouver — Sat, 7 Jun 2025
-- Monarch, San Francisco/Oakland — Sat, 31 May 2025
+- Cooks Valley Campground, San Francisco/Oakland · Fri, 17 Jul 2026
+- The Midway, San Francisco/Oakland · Fri, 8 May 2026
+- 888 Garage, San Francisco/Oakland · Sat, 21 Feb 2026
+- The Great Northern, San Francisco/Oakland · Thu, 1 Jan 2026
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 20 Aug 2025
+- F8 1192 Folsom, San Francisco/Oakland · Thu, 17 Jul 2025
+- TBA - 520 Alexander, Vancouver · Sat, 7 Jun 2025
+- Monarch, San Francisco/Oakland · Sat, 31 May 2025
 
 ## Shares bills with
 

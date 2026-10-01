@@ -1,8 +1,8 @@
 # kindergarchy
 
-kindergarchy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
+kindergarchy is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tanjong Pagar Distripark, Singapore on Sat, 3 Oct 2026.
 
-kindergarchy is a techno and house artist based in Singapore, tracked on soundcheck, with 12 sets logged across Bali, Hong Kong and Singapore. Often billed alongside Dexter Colt, MUTO and Yadin Moha. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
+kindergarchy is a techno and house artist based in Singapore, with 12 gigs on soundcheck across Bali, Hong Kong and Singapore. Often billed alongside Dexter Colt, MUTO and Yadin Moha. Next up: Tanjong Pagar Distripark, Singapore on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ kindergarchy is a techno and house artist based in Singapore, tracked on soundch
 
 ## Recently played
 
-- Haw Par Villa, Singapore — Sat, 5 Oct 2024
-- 宀 Club, Hong Kong — Fri, 5 Jul 2024
-- TBA -  the coup, Singapore — Sat, 29 Jun 2024
-- TBA - Peace Centre, Singapore — Sat, 11 Nov 2023
-- Sarimbun Scout Camp, Singapore — Sat, 30 Sept 2023
-- Headquarters, Singapore — Fri, 22 Sept 2023
-- TBA, Singapore — Sat, 26 Aug 2023
-- Desa Potato Head, Bali — Fri, 21 Jul 2023
+- Haw Par Villa, Singapore · Sat, 5 Oct 2024
+- 宀 Club, Hong Kong · Fri, 5 Jul 2024
+- TBA -  the coup, Singapore · Sat, 29 Jun 2024
+- TBA - Peace Centre, Singapore · Sat, 11 Nov 2023
+- Sarimbun Scout Camp, Singapore · Sat, 30 Sept 2023
+- Headquarters, Singapore · Fri, 22 Sept 2023
+- TBA, Singapore · Sat, 26 Aug 2023
+- Desa Potato Head, Bali · Fri, 21 Jul 2023
 
 ## Shares bills with
 

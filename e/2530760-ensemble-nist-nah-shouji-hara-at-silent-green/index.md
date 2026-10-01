@@ -1,6 +1,6 @@
 # Ensemble Nist-Nah + Shouji Hara at Silent Green
 
-Ensemble Nist-Nah + Shouji Hara at Silent Green on Wed 7 Oct, Berlin. Experimental. Preview the line-up and save it on soundcheck.
+Ensemble Nist-Nah + Shouji Hara at Silent Green on Wed 7 Oct, Berlin. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

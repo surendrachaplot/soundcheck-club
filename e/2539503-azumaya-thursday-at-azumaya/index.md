@@ -1,6 +1,6 @@
 # Azumaya -Thursday- at Azumaya
 
-Azumaya -Thursday- on Thu 1 Oct, Tokyo. 4 artists on the bill: Dihi, Naoki Ikawa, SOGI and Terax. Techno and House. Preview the line-up and save it on soundcheck.
+Azumaya -Thursday- on Thu 1 Oct, Tokyo. 4 artists: Dihi, Naoki Ikawa, SOGI and Terax. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

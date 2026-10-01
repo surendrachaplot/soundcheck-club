@@ -1,6 +1,6 @@
 # A love letter to... Aaliyah: R&B, Slow Jams & Hip-Hop at Movers
 
-A love letter to... Aaliyah: R&B, Slow Jams & Hip-Hop at Movers on Fri 9 Oct, Nottingham. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+A love letter to... Aaliyah: R&B, Slow Jams & Hip-Hop at Movers on Fri 9 Oct, Nottingham. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

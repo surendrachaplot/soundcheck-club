@@ -1,6 +1,6 @@
 # TECHNO IN LONDON - OPEN DECKS & SOCIAL at M.O.T
 
-TECHNO IN LONDON - OPEN DECKS & SOCIAL at M.O.T on Thu 1 Oct, London. Techno and Acid. Preview the line-up and save it on soundcheck.
+TECHNO IN LONDON - OPEN DECKS & SOCIAL at M.O.T on Thu 1 Oct, London. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

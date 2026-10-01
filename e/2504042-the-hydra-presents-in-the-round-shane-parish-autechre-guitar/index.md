@@ -1,6 +1,6 @@
 # The Hydra presents In the Round: Shane Parish – 'Autechre Guitar' at ICA
 
-The Hydra presents In the Round: Shane Parish – 'Autechre Guitar' at ICA on Sun 25 Oct, London. Experimental. Preview the line-up and save it on soundcheck.
+The Hydra presents In the Round: Shane Parish – 'Autechre Guitar' at ICA on Sun 25 Oct, London. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

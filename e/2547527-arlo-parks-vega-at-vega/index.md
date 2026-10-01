@@ -1,6 +1,6 @@
 # ARLO PARKS // VEGA at VEGA
 
-ARLO PARKS // VEGA on Sun 29 Nov, Copenhagen. 1 artist on the bill: Arlo Parks. Preview the line-up and save it on soundcheck.
+ARLO PARKS // VEGA on Sun 29 Nov, Copenhagen. 1 artist: Arlo Parks. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

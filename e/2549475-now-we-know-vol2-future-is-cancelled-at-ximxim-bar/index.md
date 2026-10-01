@@ -1,6 +1,6 @@
 # Now We Know VOL2 'FUTURE IS CANCELLED' at Ximxim Bar
 
-Now We Know VOL2 'FUTURE IS CANCELLED' at Ximxim Bar on Fri 2 Oct, Seoul. 1 artist on the bill: DDK. Techno and House. Preview the line-up and save it on soundcheck.
+Now We Know VOL2 'FUTURE IS CANCELLED' at Ximxim Bar on Fri 2 Oct, Seoul. 1 artist: DDK. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # In Verruf - Boulevard X No More Silence at Roxy Club
 
-In Verruf - Boulevard X No More Silence at Roxy Club on Sat 3 Oct, Istanbul. 3 artists on the bill: Epifanix, In Verruf and Vel C.. Techno. Preview the line-up and save it on soundcheck.
+In Verruf - Boulevard X No More Silence at Roxy Club on Sat 3 Oct, Istanbul. 3 artists: Epifanix, In Verruf and Vel C.. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

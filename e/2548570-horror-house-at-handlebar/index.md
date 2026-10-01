@@ -1,6 +1,6 @@
 # Horror House at Handlebar
 
-Horror House at Handlebar on Sat 31 Oct, Toronto. House and Club. Preview the line-up and save it on soundcheck.
+Horror House at Handlebar on Sat 31 Oct, Toronto. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

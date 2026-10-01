@@ -1,8 +1,8 @@
 # The Govanhill Baths
 
-The Govanhill Baths is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sonica: NYX Live" on Sat, 3 Oct 2026.
+The Govanhill Baths is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sonica: NYX Live" on Sat, 3 Oct 2026.
 
-The Govanhill Baths is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including NYX. Browse upcoming dates, start times and who's playing. 99 Calder St, Govanhill, Glasgow, G42 7RA.
+The Govanhill Baths is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including NYX. See dates, start times and who's playing. 99 Calder St, Govanhill, Glasgow, G42 7RA.
 
 ## What's on
 

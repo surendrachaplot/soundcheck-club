@@ -1,8 +1,8 @@
 # Boo
 
-Boo is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Planet Wax, London on Sat, 24 Oct 2026.
+Boo is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Sat, 24 Oct 2026.
 
-Boo is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Leeds, London, Manchester and Newcastle and 1 more. Often billed alongside Mia Lily, Ben Caldwell and Jacklyn. Next up: Planet Wax, London on Sat 24 Oct.
+Boo is a techno and trance artist based in United Kingdom, with 38 gigs on soundcheck across Leeds, London, Manchester and Newcastle and 1 more. Often billed alongside Mia Lily, Ben Caldwell and Jacklyn. Next up: Planet Wax, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Boo is a techno and trance artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- clubasia, Tokyo — Fri, 4 Sept 2026
-- Vespers Club, London — Sat, 30 May 2026
-- The Cause, London — Fri, 1 May 2026
-- Cu, London — Sat, 28 Feb 2026
-- Cu, London — Sat, 20 Dec 2025
-- Cu, London — Fri, 14 Nov 2025
-- Cu, London — Fri, 31 Oct 2025
-- Next Door Records Two, London — Sat, 2 Aug 2025
+- clubasia, Tokyo · Fri, 4 Sept 2026
+- Vespers Club, London · Sat, 30 May 2026
+- The Cause, London · Fri, 1 May 2026
+- Cu, London · Sat, 28 Feb 2026
+- Cu, London · Sat, 20 Dec 2025
+- Cu, London · Fri, 14 Nov 2025
+- Cu, London · Fri, 31 Oct 2025
+- Next Door Records Two, London · Sat, 2 Aug 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # LOVE SENSATION SUNDAYS 10.04.26 w/ Morabito, Johnny Dynell at Club Rawhide
 
-LOVE SENSATION SUNDAYS 10.04.26 w/ Morabito, Johnny Dynell at Club Rawhide on Sun 4 Oct, New York City. 2 artists on the bill: Johnny Dynell and Morabito. House and Disco. Preview the line-up and save it on soundcheck.
+LOVE SENSATION SUNDAYS 10.04.26 w/ Morabito, Johnny Dynell at Club Rawhide on Sun 4 Oct, New York City. 2 artists: Johnny Dynell and Morabito. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Nualah
 
-Nualah is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 77, London on Fri, 16 Oct 2026.
+Nualah is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 77, London on Fri, 16 Oct 2026.
 
-Nualah is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across London. Often billed alongside Brandon Marlo, Bruce Wain and J Dragon. Next up: 77, London on Fri 16 Oct.
+Nualah is a house and tech house artist based in United Kingdom, with 15 gigs on soundcheck across London. Often billed alongside Brandon Marlo, Bruce Wain and J Dragon. Next up: 77, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Nualah is a house and tech house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- 77, London — Sat, 14 Feb 2026
-- 77, London — Fri, 12 Dec 2025
-- 77, London — Sat, 15 Nov 2025
-- 77, London — Fri, 14 Nov 2025
-- The Cause, London — Sat, 14 Jun 2025
-- The Greyhound, London — Fri, 28 Mar 2025
-- Avalon Cafe Bermondsey, London — Fri, 29 Nov 2024
-- Metropolis, London — Fri, 28 Jun 2024
+- 77, London · Sat, 14 Feb 2026
+- 77, London · Fri, 12 Dec 2025
+- 77, London · Sat, 15 Nov 2025
+- 77, London · Fri, 14 Nov 2025
+- The Cause, London · Sat, 14 Jun 2025
+- The Greyhound, London · Fri, 28 Mar 2025
+- Avalon Cafe Bermondsey, London · Fri, 29 Nov 2024
+- Metropolis, London · Fri, 28 Jun 2024
 
 ## Shares bills with
 

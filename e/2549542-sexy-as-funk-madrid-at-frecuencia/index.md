@@ -1,6 +1,6 @@
 # Sexy as Funk Madrid at Frecuencia
 
-Sexy as Funk Madrid at Frecuencia on Fri 16 Oct, Madrid. House. Preview the line-up and save it on soundcheck.
+Sexy as Funk Madrid at Frecuencia on Fri 16 Oct, Madrid. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

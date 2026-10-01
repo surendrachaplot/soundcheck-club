@@ -1,8 +1,8 @@
 # Maxxim Club
 
-Maxxim Club is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Netstars.tv Party 2026 – Das Szene-Event in Berlin" on Sat, 24 Oct 2026.
+Maxxim Club is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Netstars.tv Party 2026 – Das Szene-Event in Berlin" on Sat, 24 Oct 2026.
 
-Maxxim Club is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Joachimstaler Str. 14, 10719 Berlin, Germany.
+Maxxim Club is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Joachimstaler Str. 14, 10719 Berlin, Germany.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Cassie Kinoshi & seed at Bimhuis
 
-Cassie Kinoshi & seed at Bimhuis on Fri 11 Dec, Amsterdam. Jazz. Preview the line-up and save it on soundcheck.
+Cassie Kinoshi & seed at Bimhuis on Fri 11 Dec, Amsterdam. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

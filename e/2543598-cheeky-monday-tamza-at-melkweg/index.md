@@ -1,6 +1,6 @@
 # Cheeky Monday: Tamza at Melkweg
 
-Cheeky Monday: Tamza at Melkweg on Mon 19 Oct, Amsterdam. Drum & Bass. Preview the line-up and save it on soundcheck.
+Cheeky Monday: Tamza at Melkweg on Mon 19 Oct, Amsterdam. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

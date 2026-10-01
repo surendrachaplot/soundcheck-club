@@ -1,6 +1,6 @@
 # Hyde Halloween Hard House at TBA
 
-Hyde Halloween Hard House at TBA on Sat 31 Oct, London. Trance and House. Preview the line-up and save it on soundcheck.
+Hyde Halloween Hard House at TBA on Sat 31 Oct, London. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Liquid Stranger
 
-Liquid Stranger is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
+Liquid Stranger is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Travis County Exposition Center, Austin on Fri, 30 Oct 2026.
 
-Liquid Stranger is a bass and dubstep artist based in Sweden, tracked on soundcheck, with 17 sets logged across Amsterdam, Austin, Chicago and London and 6 more. Often billed alongside Galantis, KREAM and Zedd. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
+Liquid Stranger is a bass and dubstep artist based in Sweden, with 17 gigs on soundcheck across Amsterdam, Austin, Chicago and London and 6 more. Often billed alongside Galantis, KREAM and Zedd. Next up: Travis County Exposition Center, Austin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Liquid Stranger is a bass and dubstep artist based in Sweden, tracked on soundch
 
 ## Recently played
 
-- RC Cola Plant, Miami — Thu, 26 Mar 2026
-- The Regency Ballroom, San Francisco/Oakland — Sun, 8 Feb 2026
-- Melkweg, Amsterdam — Thu, 23 Oct 2025
-- Ministry Of Sound, London — Fri, 17 Oct 2025
-- Seatgeek Stadium, Chicago — Fri, 29 Aug 2025
-- Travis County Exposition Center, Austin — Fri, 30 May 2025
-- Travis County Exposition Center, Austin — Fri, 30 May 2025
-- The Regency Ballroom, San Francisco/Oakland — Fri, 7 Feb 2025
+- RC Cola Plant, Miami · Thu, 26 Mar 2026
+- The Regency Ballroom, San Francisco/Oakland · Sun, 8 Feb 2026
+- Melkweg, Amsterdam · Thu, 23 Oct 2025
+- Ministry Of Sound, London · Fri, 17 Oct 2025
+- Seatgeek Stadium, Chicago · Fri, 29 Aug 2025
+- Travis County Exposition Center, Austin · Fri, 30 May 2025
+- Travis County Exposition Center, Austin · Fri, 30 May 2025
+- The Regency Ballroom, San Francisco/Oakland · Fri, 7 Feb 2025
 
 ## Shares bills with
 

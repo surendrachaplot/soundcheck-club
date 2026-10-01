@@ -1,6 +1,6 @@
 # Denoir - The Paradise Now at The Paradise Now
 
-Denoir - The Paradise Now on Sat 7 Nov, Düsseldorf. 1 artist on the bill: Denoir. House. Preview the line-up and save it on soundcheck.
+Denoir - The Paradise Now on Sat 7 Nov, Düsseldorf. 1 artist: Denoir. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

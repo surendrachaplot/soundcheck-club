@@ -1,6 +1,6 @@
 # DAAT - Satoshi Tomiie & Friends at TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento
 
-DAAT - Satoshi Tomiie & Friends at TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento on Sun 4 Oct, Mexico City. 7 artists on the bill: Gallō, Louie Fresco, Mejia and Phanta and 3 more. House and Tech House. Preview the line-up and save it on soundcheck.
+DAAT - Satoshi Tomiie & Friends at TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento on Sun 4 Oct, Mexico City. 7 artists: Gallō, Louie Fresco, Mejia and Phanta and 3 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

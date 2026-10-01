@@ -1,6 +1,6 @@
 # Live Coding Sessions x Doka Culture [ADE] at Doka
 
-Live Coding Sessions x Doka Culture [ADE] on Wed 21 Oct, Amsterdam. 2 artists on the bill: Jobi and MYNA. Electronica. Preview the line-up and save it on soundcheck.
+Live Coding Sessions x Doka Culture [ADE] on Wed 21 Oct, Amsterdam. 2 artists: Jobi and MYNA. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

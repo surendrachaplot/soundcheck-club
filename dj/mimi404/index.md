@@ -1,8 +1,8 @@
 # MIMI404
 
-MIMI404 is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+MIMI404 is a Trance and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-MIMI404 is a trance and techno artist based in Germany, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside e.leptic, E.T. and bbymeister. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+MIMI404 is a trance and techno artist based in Germany, with 68 gigs on soundcheck across Amsterdam, Berlin, Cologne and Frankfurt and 4 more. Often billed alongside e.leptic, E.T. and bbymeister. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ MIMI404 is a trance and techno artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Sat, 26 Sept 2026
-- DNA. CLUB, Berlin — Sat, 19 Sept 2026
-- Lokschuppen Berlin, Berlin — Wed, 9 Sept 2026
-- Ritter Butzke, Berlin — Sat, 29 Aug 2026
-- Ritter Butzke, Berlin — Sat, 29 Aug 2026
-- ÆDEN, Berlin — Fri, 21 Aug 2026
-- Lokschuppen Berlin, Berlin — Wed, 5 Aug 2026
-- Insomnia, Berlin — Fri, 24 Jul 2026
+- Lokschuppen Berlin, Berlin · Sat, 26 Sept 2026
+- DNA. CLUB, Berlin · Sat, 19 Sept 2026
+- Lokschuppen Berlin, Berlin · Wed, 9 Sept 2026
+- Ritter Butzke, Berlin · Sat, 29 Aug 2026
+- Ritter Butzke, Berlin · Sat, 29 Aug 2026
+- ÆDEN, Berlin · Fri, 21 Aug 2026
+- Lokschuppen Berlin, Berlin · Wed, 5 Aug 2026
+- Insomnia, Berlin · Fri, 24 Jul 2026
 
 ## Shares bills with
 

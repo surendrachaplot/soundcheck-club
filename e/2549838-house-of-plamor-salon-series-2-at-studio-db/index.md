@@ -1,6 +1,6 @@
 # HOUSE OF PLAMORË - SALON SERIES 2 at Studio dB
 
-HOUSE OF PLAMORË - SALON SERIES 2 at Studio dB on Tue 6 Oct, Berlin. 2 artists on the bill: EROS IN FURS and Justin Shaffer. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+HOUSE OF PLAMORË - SALON SERIES 2 at Studio dB on Tue 6 Oct, Berlin. 2 artists: EROS IN FURS and Justin Shaffer. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 30 Years of Hospital Records - Sydney at Watsons EQ
 
-30 Years of Hospital Records - Sydney at Watsons EQ on Sat 3 Oct, Sydney. 4 artists on the bill: Danny Byrd, HOAX, Hoax (UK) and Unglued. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+30 Years of Hospital Records - Sydney at Watsons EQ on Sat 3 Oct, Sydney. 4 artists: Danny Byrd, HOAX, Hoax (UK) and Unglued. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

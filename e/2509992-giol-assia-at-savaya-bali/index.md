@@ -1,6 +1,6 @@
 # Giolì & Assia at Savaya Bali
 
-Giolì & Assia at Savaya Bali on Sun 22 Nov, Bali. 1 artist on the bill: Giolì & Assia. Techno and House. Preview the line-up and save it on soundcheck.
+Giolì & Assia at Savaya Bali on Sun 22 Nov, Bali. 1 artist: Giolì & Assia. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

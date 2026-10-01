@@ -1,8 +1,8 @@
 # Hifi Sean
 
-Hifi Sean is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Notting Hill Arts Club, London on Fri, 23 Oct 2026.
+Hifi Sean is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Notting Hill Arts Club, London on Fri, 23 Oct 2026.
 
-Hifi Sean is a disco and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Glasgow, Ibiza, Leeds and London and 1 more. Often billed alongside DJ Pippi, DJ Spen and Natasha Diggs. Next up: Notting Hill Arts Club, London on Fri 23 Oct.
+Hifi Sean is a disco and house artist based in United Kingdom, with 43 gigs on soundcheck across Glasgow, Ibiza, Leeds and London and 1 more. Often billed alongside DJ Pippi, DJ Spen and Natasha Diggs. Next up: Notting Hill Arts Club, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Hifi Sean is a disco and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- The Dutch Master, London — Sat, 30 May 2026
-- Vinyl Bar, London — Sat, 20 Dec 2025
-- Metropolis, London — Sat, 29 Nov 2025
-- Metropolis, London — Sat, 29 Nov 2025
-- NUMBER 90 LONDON, London — Sun, 26 Oct 2025
-- Metropolis, London — Sat, 25 Oct 2025
-- Metropolis, London — Sat, 25 Oct 2025
-- Belgrave Music Hall, Leeds — Fri, 22 Aug 2025
+- The Dutch Master, London · Sat, 30 May 2026
+- Vinyl Bar, London · Sat, 20 Dec 2025
+- Metropolis, London · Sat, 29 Nov 2025
+- Metropolis, London · Sat, 29 Nov 2025
+- NUMBER 90 LONDON, London · Sun, 26 Oct 2025
+- Metropolis, London · Sat, 25 Oct 2025
+- Metropolis, London · Sat, 25 Oct 2025
+- Belgrave Music Hall, Leeds · Fri, 22 Aug 2025
 
 ## Shares bills with
 

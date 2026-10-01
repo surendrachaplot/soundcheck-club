@@ -1,8 +1,8 @@
 # Hotel Via
 
-Hotel Via is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "A rooftop party with Atish & Nikita at the Hotel Via" on Sun, 18 Oct 2026.
+Hotel Via is a music venue in San Francisco/Oakland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "A rooftop party with Atish & Nikita at the Hotel Via" on Sun, 18 Oct 2026.
 
-Hotel Via is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Atish, Marten Lou, Nikita and Vida. Browse upcoming dates, start times and who's playing. 138 King St. San Francisco, CA 94107.
+Hotel Via is a music venue in San Francisco/Oakland listed on soundcheck. 2 upcoming gigs, with line-ups including Atish, Marten Lou, Nikita and Vida. See dates, start times and who's playing. 138 King St. San Francisco, CA 94107.
 
 ## What's on
 

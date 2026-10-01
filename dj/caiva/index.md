@@ -1,8 +1,8 @@
 # CAIVA
 
-CAIVA is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+CAIVA is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-CAIVA is a techno and trance artist based in Germany, tracked on soundcheck, with 163 sets logged across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Frederic., Part Time Killer and Lacchesi. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+CAIVA is a techno and trance artist based in Germany, with 163 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 37 more. Often billed alongside Frederic., Part Time Killer and Lacchesi. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ CAIVA is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Sat, 19 Sept 2026
-- BASIS, Utrecht — Fri, 4 Sept 2026
-- Edelfettwerk, Hamburg — Sat, 15 Aug 2026
-- Tresor / Globus, Berlin — Mon, 3 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 4 Jul 2026
-- Kilomètre25, Paris — Fri, 3 Jul 2026
-- Fuse, Brussels — Sat, 27 Jun 2026
-- RSO.BERLIN, Berlin — Sat, 16 May 2026
+- RSO.BERLIN, Berlin · Sat, 19 Sept 2026
+- BASIS, Utrecht · Fri, 4 Sept 2026
+- Edelfettwerk, Hamburg · Sat, 15 Aug 2026
+- Tresor / Globus, Berlin · Mon, 3 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 4 Jul 2026
+- Kilomètre25, Paris · Fri, 3 Jul 2026
+- Fuse, Brussels · Sat, 27 Jun 2026
+- RSO.BERLIN, Berlin · Sat, 16 May 2026
 
 ## Shares bills with
 

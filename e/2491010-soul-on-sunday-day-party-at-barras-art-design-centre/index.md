@@ -1,6 +1,6 @@
 # Soul On Sunday Day Party at Barras Art & Design Centre
 
-Soul On Sunday Day Party at Barras Art & Design Centre on Sun 29 Nov, Glasgow. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Soul On Sunday Day Party at Barras Art & Design Centre on Sun 29 Nov, Glasgow. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

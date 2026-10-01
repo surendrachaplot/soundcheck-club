@@ -1,6 +1,6 @@
 # Angel presents Miki, Miscmeg, Midnight Tenderness at Angel Music Bar
 
-Angel presents Miki, Miscmeg, Midnight Tenderness at Angel Music Bar on Sat 3 Oct, Melbourne. 4 artists on the bill: Midnight Tenderness, Miki, Miscmeg and Selena. Preview the line-up and save it on soundcheck.
+Angel presents Miki, Miscmeg, Midnight Tenderness at Angel Music Bar on Sat 3 Oct, Melbourne. 4 artists: Midnight Tenderness, Miki, Miscmeg and Selena. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

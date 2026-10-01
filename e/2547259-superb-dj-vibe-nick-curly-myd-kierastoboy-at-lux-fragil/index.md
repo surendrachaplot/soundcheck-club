@@ -1,6 +1,6 @@
 # Superb: DJ Vibe, Nick Curly, Myd, Kierastoboy at Lux Fragil
 
-Superb: DJ Vibe, Nick Curly, Myd, Kierastoboy at Lux Fragil on Sat 3 Oct, Lisbon. 4 artists on the bill: DJ Vibe, Kierastoboy, Myd and Nick Curly. Preview the line-up and save it on soundcheck.
+Superb: DJ Vibe, Nick Curly, Myd, Kierastoboy at Lux Fragil on Sat 3 Oct, Lisbon. 4 artists: DJ Vibe, Kierastoboy, Myd and Nick Curly. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

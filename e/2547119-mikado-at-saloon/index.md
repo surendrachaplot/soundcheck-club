@@ -1,6 +1,6 @@
 # 帝 / MiKADO at Saloon
 
-帝 / MiKADO at Saloon on Sat 24 Oct, Tokyo. 6 artists on the bill: Kanamemandala, manato, MiG-25 and Ryunosuke Urabe and 2 more. Techno. Preview the line-up and save it on soundcheck.
+帝 / MiKADO at Saloon on Sat 24 Oct, Tokyo. 6 artists: Kanamemandala, manato, MiG-25 and Ryunosuke Urabe and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

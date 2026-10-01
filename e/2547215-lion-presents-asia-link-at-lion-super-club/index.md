@@ -1,6 +1,6 @@
 # LION presents ASIA LINK at Lion Super Club
 
-LION presents ASIA LINK at Lion Super Club on Fri 2 Oct, Seoul. Preview the line-up and save it on soundcheck.
+LION presents ASIA LINK at Lion Super Club on Fri 2 Oct, Seoul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

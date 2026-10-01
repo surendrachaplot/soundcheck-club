@@ -1,6 +1,6 @@
 # AURA X ???: HALLOWEEN at TBA
 
-AURA X ???: HALLOWEEN at TBA on Sat 31 Oct, Dublin. Techno. Preview the line-up and save it on soundcheck.
+AURA X ???: HALLOWEEN at TBA on Sat 31 Oct, Dublin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

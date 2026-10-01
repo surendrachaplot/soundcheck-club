@@ -1,6 +1,6 @@
 # Girls Love Halloween - Latin Reggaeton Dance Party at Bar 13
 
-Girls Love Halloween - Latin Reggaeton Dance Party at Bar 13 on Sat 10 Oct, New York City. Reggaeton. Preview the line-up and save it on soundcheck.
+Girls Love Halloween - Latin Reggaeton Dance Party at Bar 13 on Sat 10 Oct, New York City. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

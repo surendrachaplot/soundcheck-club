@@ -1,8 +1,8 @@
 # Great Dane
 
-Great Dane is a Bass and New Wave artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Public Works, San Francisco/Oakland on Sat, 24 Oct 2026.
+Great Dane is a Bass and New Wave artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Public Works, San Francisco/Oakland on Sat, 24 Oct 2026.
 
-Great Dane is a bass and new wave artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin, New York City, San Francisco/Oakland and Shenzhen. Often billed alongside Barclay Crenshaw, DJ 86 and DJ Dials. Next up: Public Works, San Francisco/Oakland on Sat 24 Oct.
+Great Dane is a bass and new wave artist based in United States of America, with 10 gigs on soundcheck across Austin, New York City, San Francisco/Oakland and Shenzhen. Often billed alongside Barclay Crenshaw, DIALS and DJ 86. Next up: Public Works, San Francisco/Oakland on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,17 +12,17 @@ Great Dane is a bass and new wave artist based in United States of America, trac
 
 ## Recently played
 
-- OIL Club, Shenzhen — Tue, 5 May 2026
-- Elsewhere, New York City — Sat, 30 Aug 2025
-- Chemistry Creative, New York City — Sat, 8 Feb 2025
-- 1015 Folsom, San Francisco/Oakland — Fri, 27 Dec 2024
-- The Woodshop, New York City — Sat, 16 Nov 2024
-- Le Bain, New York City — Fri, 20 Sept 2024
-- The Concourse Project, Austin — Sat, 4 May 2024
-- Absurd Conclave, New York City — Thu, 28 Sept 2023
+- OIL Club, Shenzhen · Tue, 5 May 2026
+- Elsewhere, New York City · Sat, 30 Aug 2025
+- Chemistry Creative, New York City · Sat, 8 Feb 2025
+- 1015 Folsom, San Francisco/Oakland · Fri, 27 Dec 2024
+- The Woodshop, New York City · Sat, 16 Nov 2024
+- Le Bain, New York City · Fri, 20 Sept 2024
+- The Concourse Project, Austin · Sat, 4 May 2024
+- Absurd Conclave, New York City · Thu, 28 Sept 2023
 
 ## Shares bills with
 
-Barclay Crenshaw, DJ 86, DJ Dials
+Barclay Crenshaw, DIALS, DJ 86
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/greatdane/)*

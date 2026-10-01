@@ -1,6 +1,6 @@
 # Grey Lantern presents: Evanora Unlimited at The White Hotel
 
-Grey Lantern presents: Evanora Unlimited at The White Hotel on Sat 5 Dec, Manchester. 1 artist on the bill: Evanora Unlimited. Experimental. Preview the line-up and save it on soundcheck.
+Grey Lantern presents: Evanora Unlimited at The White Hotel on Sat 5 Dec, Manchester. 1 artist: Evanora Unlimited. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Centro Cultural Conde Duque
 
-Centro Cultural Conde Duque is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SOUNDSET SERIES : More Eaze + Carmen Villain" on Fri, 16 Oct 2026.
+Centro Cultural Conde Duque is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SOUNDSET SERIES : More Eaze + Carmen Villain" on Fri, 16 Oct 2026.
 
-Centro Cultural Conde Duque is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Carmen Villain, DJ Plead and more eaze. Browse upcoming dates, start times and who's playing. Calle Conde Duque, 9, 28015 Madrid, España.
+Centro Cultural Conde Duque is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Carmen Villain, DJ Plead and more eaze. See dates, start times and who's playing. Calle Conde Duque, 9, 28015 Madrid, España.
 
 ## What's on
 

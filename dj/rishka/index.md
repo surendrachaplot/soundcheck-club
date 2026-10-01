@@ -1,8 +1,8 @@
 # Rishka
 
-Rishka is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Die Rakete, Nürnberg on Fri, 2 Oct 2026.
+Rishka is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Die Rakete, Nürnberg on Fri, 2 Oct 2026.
 
-Rishka is a techno and trance artist based in Germany, tracked on soundcheck, with 23 sets logged across Berlin, Cologne, Munich and Nürnberg and 1 more. Often billed alongside DJ SEXSTASY, KTK (DE) and LANI AKEA. Next up: Die Rakete, Nürnberg on Fri 2 Oct.
+Rishka is a techno and trance artist based in Germany, with 23 gigs on soundcheck across Berlin, Cologne, Munich and Nürnberg and 1 more. Often billed alongside DJ SEXSTASY, KTK (DE) and LANI AKEA. Next up: Die Rakete, Nürnberg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Rishka is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Kulturgarten, Nürnberg — Sat, 12 Sept 2026
-- Die Rakete, Nürnberg — Fri, 21 Aug 2026
-- OST, Berlin — Sun, 21 Jun 2026
-- DNA Club, Munich — Fri, 12 Jun 2026
-- Ankali & Planeta Za, Prague — Fri, 10 Apr 2026
-- Die Rakete, Nürnberg — Fri, 20 Mar 2026
-- Die Rakete, Nürnberg — Fri, 20 Feb 2026
-- DNA Club, Munich — Sat, 17 Jan 2026
+- Kulturgarten, Nürnberg · Sat, 12 Sept 2026
+- Die Rakete, Nürnberg · Fri, 21 Aug 2026
+- OST, Berlin · Sun, 21 Jun 2026
+- DNA Club, Munich · Fri, 12 Jun 2026
+- Ankali & Planeta Za, Prague · Fri, 10 Apr 2026
+- Die Rakete, Nürnberg · Fri, 20 Mar 2026
+- Die Rakete, Nürnberg · Fri, 20 Feb 2026
+- DNA Club, Munich · Sat, 17 Jan 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # LUSH: Joopiter, Stevo Blaque, Indigo Heaven at Jupiter Disco
 
-LUSH: Joopiter, Stevo Blaque, Indigo Heaven at Jupiter Disco on Wed 21 Oct, New York City. 3 artists on the bill: Indigo Heaven, Joopiter and Stevo Blaque. Preview the line-up and save it on soundcheck.
+LUSH: Joopiter, Stevo Blaque, Indigo Heaven at Jupiter Disco on Wed 21 Oct, New York City. 3 artists: Indigo Heaven, Joopiter and Stevo Blaque. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

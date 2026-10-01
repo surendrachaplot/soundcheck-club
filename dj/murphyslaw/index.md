@@ -1,8 +1,8 @@
 # Murphy's Law
 
-Murphy's Law is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Murphy's Law is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Murphy's Law is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Auckland, Austin and Brighton and 24 more. Often billed alongside Darius Syrossian, David Penn and Nick Curly. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Murphy's Law is a house and tech house artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Auckland, Austin and Brighton and 24 more. Often billed alongside Darius Syrossian, David Penn and Nick Curly. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Murphy's Law is a house and tech house artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Cova Santa, Ibiza — Sat, 19 Sept 2026
-- Gaswrx Birmingham, London — Sat, 12 Sept 2026
-- [UNVRS], Ibiza — Wed, 9 Sept 2026
-- Tigres de la Noche, Washington DC — Sat, 5 Sept 2026
-- Floyd, Miami — Sun, 26 Jul 2026
-- The William Vale, New York City — Sun, 28 Jun 2026
-- Gallagher Square, San Diego — Fri, 29 May 2026
-- Spin, San Diego — Fri, 29 May 2026
+- Cova Santa, Ibiza · Sat, 19 Sept 2026
+- Gaswrx Birmingham, London · Sat, 12 Sept 2026
+- [UNVRS], Ibiza · Wed, 9 Sept 2026
+- Tigres de la Noche, Washington DC · Sat, 5 Sept 2026
+- Floyd, Miami · Sun, 26 Jul 2026
+- The William Vale, New York City · Sun, 28 Jun 2026
+- Gallagher Square, San Diego · Fri, 29 May 2026
+- Spin, San Diego · Fri, 29 May 2026
 
 ## Shares bills with
 

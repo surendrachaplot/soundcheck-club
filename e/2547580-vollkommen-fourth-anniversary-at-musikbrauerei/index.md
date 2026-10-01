@@ -1,6 +1,6 @@
 # VOLLKOMMEN — Fourth Anniversary at Musikbrauerei
 
-VOLLKOMMEN — Fourth Anniversary at Musikbrauerei on Sat 14 Nov, Berlin. House and Tech House. Preview the line-up and save it on soundcheck.
+VOLLKOMMEN — Fourth Anniversary at Musikbrauerei on Sat 14 Nov, Berlin. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

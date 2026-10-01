@@ -1,8 +1,8 @@
 # NetCont
 
-NetCont is a Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Mexico City on Sat, 10 Oct 2026.
+NetCont is a Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Mexico City on Sat, 10 Oct 2026.
 
-NetCont is a techno and deep house artist based in Mexico, tracked on soundcheck, with 2 sets logged across Mexico City. Next up: TBA, Mexico City on Sat 10 Oct.
+NetCont is a techno and deep house artist based in Mexico, with 2 gigs on soundcheck across Mexico City. Next up: TBA, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 

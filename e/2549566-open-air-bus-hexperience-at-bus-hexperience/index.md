@@ -1,6 +1,6 @@
 # OPEN AIR // Bus Hexperience at BUS Hexperience
 
-OPEN AIR // Bus Hexperience at BUS Hexperience on Thu 1 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+OPEN AIR // Bus Hexperience at BUS Hexperience on Thu 1 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

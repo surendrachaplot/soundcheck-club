@@ -1,8 +1,8 @@
 # The Ivory Hotel
 
-The Ivory Hotel is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "JAIVA HALLOWEEN SOUND SYSTEM MADNESS" on Fri, 30 Oct 2026.
+The Ivory Hotel is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "JAIVA HALLOWEEN SOUND SYSTEM MADNESS" on Fri, 30 Oct 2026.
 
-The Ivory Hotel is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including ButhoTheWarrior, Danger Carey, Gabor Matty and RED-RUNNR. Browse upcoming dates, start times and who's playing. 2-4 Camphill Ave, Shawlands, Glasgow G41 3AY.
+The Ivory Hotel is a music venue in Glasgow listed on soundcheck. 1 upcoming gig, with line-ups including ButhoTheWarrior, Danger Carey, Gabor Matty and RED-RUNNR. See dates, start times and who's playing. 2-4 Camphill Ave, Shawlands, Glasgow G41 3AY.
 
 ## What's on
 

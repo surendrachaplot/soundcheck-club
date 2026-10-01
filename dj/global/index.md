@@ -1,8 +1,8 @@
 # Global
 
-Global is a Experimental and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lark, Berlin on Thu, 1 Oct 2026.
+Global is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lark, Berlin on Thu, 1 Oct 2026.
 
-Global is an experimental and electro artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Sodomland, Blood of Aza and Europa. Next up: Lark, Berlin on Thu 1 Oct.
+Global is an experimental and electro artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 4 more. Often billed alongside Sodomland, Blood of Aza and Europa. Next up: Lark, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Global is an experimental and electro artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Uebel & Gefährlich, Hamburg — Fri, 14 Aug 2026
-- Lark, Berlin — Thu, 23 Jul 2026
-- Ostrov Štvanice, Prague — Fri, 10 Jul 2026
-- Subzero, Prague — Fri, 12 Jun 2026
-- OXI, Berlin — Fri, 29 May 2026
-- Maaya, Berlin — Fri, 15 May 2026
-- Fitzroy, Berlin — Fri, 17 Apr 2026
-- OXI, Berlin — Sat, 21 Feb 2026
+- Uebel & Gefährlich, Hamburg · Fri, 14 Aug 2026
+- Lark, Berlin · Thu, 23 Jul 2026
+- Ostrov Štvanice, Prague · Fri, 10 Jul 2026
+- Subzero, Prague · Fri, 12 Jun 2026
+- OXI, Berlin · Fri, 29 May 2026
+- Maaya, Berlin · Fri, 15 May 2026
+- Fitzroy, Berlin · Fri, 17 Apr 2026
+- OXI, Berlin · Sat, 21 Feb 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # NIGHTSHIFT - Alive + Pedro Tinoco at Plano B
 
-NIGHTSHIFT - Alive + Pedro Tinoco at Plano B on Thu 22 Oct, Porto. 1 artist on the bill: Alive. Techno and House. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT - Alive + Pedro Tinoco at Plano B on Thu 22 Oct, Porto. 1 artist: Alive. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

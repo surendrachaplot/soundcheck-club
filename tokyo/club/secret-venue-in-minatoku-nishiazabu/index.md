@@ -1,8 +1,8 @@
 # Secret Venue in Minatoku-Nishiazabu
 
-Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Kosmopolis - TBA" on Sat, 14 Nov 2026.
+Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Kosmopolis - TBA" on Sat, 14 Nov 2026.
 
-Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Neutran. Browse upcoming dates, start times and who's playing.
+Secret Venue in Minatoku-Nishiazabu is a music venue in Tokyo listed on soundcheck. 1 upcoming gig, with line-ups including Neutran. See dates, start times and who's playing.
 
 ## What's on
 

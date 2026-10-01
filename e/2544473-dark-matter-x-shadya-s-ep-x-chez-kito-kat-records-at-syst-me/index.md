@@ -1,6 +1,6 @@
 # Dark Matter x Shadya's EP x Chez.Kito.Kat Records at Système
 
-Dark Matter x Shadya's EP x Chez.Kito.Kat Records at Système on Thu 15 Oct, Montreal. 4 artists on the bill: D.B.Y., Felix Patry, Shadya and Technique nado. Preview the line-up and save it on soundcheck.
+Dark Matter x Shadya's EP x Chez.Kito.Kat Records at Système on Thu 15 Oct, Montreal. 4 artists: D.B.Y., Felix Patry, Shadya and Technique nado. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

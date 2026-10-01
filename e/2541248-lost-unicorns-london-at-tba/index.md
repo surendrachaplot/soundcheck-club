@@ -1,6 +1,6 @@
 # Lost Unicorns - LONDON at TBA
 
-Lost Unicorns - LONDON at TBA on Fri 13 Nov, London. Trance and Techno. Preview the line-up and save it on soundcheck.
+Lost Unicorns - LONDON at TBA on Fri 13 Nov, London. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

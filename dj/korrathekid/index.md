@@ -1,8 +1,8 @@
 # Korra the Kid
 
-Korra the Kid is a Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 9 Oct 2026.
+Korra the Kid is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 9 Oct 2026.
 
-Korra the Kid is a bass and techno artist based in United States of America, tracked on soundcheck, with 26 sets logged across Portland, San Francisco/Oakland and Seattle. Often billed alongside Mirin Doja, DJ WIFI and Succubass. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 9 Oct.
+Korra the Kid is a bass and techno artist based in United States of America, with 26 gigs on soundcheck across Portland, San Francisco/Oakland and Seattle. Often billed alongside Mirin Doja, DJ WIFI and Succubass. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Korra the Kid is a bass and techno artist based in United States of America, tra
 
 ## Recently played
 
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 25 Sept 2026
-- Hidden Hall, Seattle — Sat, 5 Sept 2026
-- TBA, Seattle — Sat, 8 Aug 2026
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Sat, 13 Jun 2026
-- Hidden Hall, Seattle — Sat, 30 May 2026
-- F8 1192 Folsom, San Francisco/Oakland — Fri, 24 Apr 2026
-- Level 1 @ Cannonball Arts, Seattle — Fri, 17 Apr 2026
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Sat, 11 Apr 2026
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 25 Sept 2026
+- Hidden Hall, Seattle · Sat, 5 Sept 2026
+- TBA, Seattle · Sat, 8 Aug 2026
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Sat, 13 Jun 2026
+- Hidden Hall, Seattle · Sat, 30 May 2026
+- F8 1192 Folsom, San Francisco/Oakland · Fri, 24 Apr 2026
+- Level 1 @ Cannonball Arts, Seattle · Fri, 17 Apr 2026
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Sat, 11 Apr 2026
 
 ## Shares bills with
 

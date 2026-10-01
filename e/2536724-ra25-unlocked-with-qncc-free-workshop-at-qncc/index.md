@@ -1,6 +1,6 @@
 # RA25 UNLOCKED with QNCC - Free Workshop at Qncc
 
-RA25 UNLOCKED with QNCC - Free Workshop at Qncc on Thu 15 Oct, New York City. 2 artists on the bill: BASSBEAR!! and Lauren Murada. Preview the line-up and save it on soundcheck.
+RA25 UNLOCKED with QNCC - Free Workshop at Qncc on Thu 15 Oct, New York City. 2 artists: BASSBEAR!! and Lauren Murada. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

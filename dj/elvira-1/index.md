@@ -1,8 +1,8 @@
 # Elvira (1)
 
-Elvira (1) is a Techno and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
+Elvira (1) is a Techno and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 3 Oct 2026.
 
-Elvira is a techno and dub artist based in India, tracked on soundcheck, with 22 sets logged across Brussels, London, Milan and Paris and 1 more. Often billed alongside Subsism, Odd Shy Guy and Fatale Furylax. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
+Elvira is a techno and dub artist based in India, with 22 gigs on soundcheck across Brussels, London, Milan and Paris and 1 more. Often billed alongside Subsism, Odd Shy Guy and Fatale Furylax. Next up: La Station - Gare des Mines, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Elvira is a techno and dub artist based in India, tracked on soundcheck, with 22
 
 ## Recently played
 
-- La Rotonde Stalingrad, Paris — Fri, 11 Sept 2026
-- La Prairie du Canal, Paris — Sat, 5 Sept 2026
-- TBA - 2 place de la manufacture, Sèvres, Paris — Sat, 11 Jul 2026
-- TBA - Paris, Paris — Sun, 21 Jun 2026
-- TBA, Milan — Sat, 13 Jun 2026
-- Bodies in Space, Brussels — Fri, 5 Jun 2026
-- K-Bar Powiśle, Warsaw — Fri, 24 Apr 2026
-- La Cité Fertile, Paris — Sat, 21 Mar 2026
+- La Rotonde Stalingrad, Paris · Fri, 11 Sept 2026
+- La Prairie du Canal, Paris · Sat, 5 Sept 2026
+- TBA - 2 place de la manufacture, Sèvres, Paris · Sat, 11 Jul 2026
+- TBA - Paris, Paris · Sun, 21 Jun 2026
+- TBA, Milan · Sat, 13 Jun 2026
+- Bodies in Space, Brussels · Fri, 5 Jun 2026
+- K-Bar Powiśle, Warsaw · Fri, 24 Apr 2026
+- La Cité Fertile, Paris · Sat, 21 Mar 2026
 
 ## Shares bills with
 

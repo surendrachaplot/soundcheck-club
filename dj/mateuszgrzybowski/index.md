@@ -1,8 +1,8 @@
 # Mateusz Grzybowski
 
-Mateusz Grzybowski is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mastak, Warsaw on Fri, 2 Oct 2026.
+Mateusz Grzybowski is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mastak, Warsaw on Fri, 2 Oct 2026.
 
-Mateusz Grzybowski is a techno and electronica artist based in Poland, tracked on soundcheck, with 9 sets logged across Krakow, Oslo and Warsaw. Often billed alongside Pean, Gabi Bury and Violent. Next up: Mastak, Warsaw on Fri 2 Oct.
+Mateusz Grzybowski is a techno and electronica artist based in Poland, with 9 gigs on soundcheck across Krakow, Oslo and Warsaw. Often billed alongside Pean, Gabi Bury and Violent. Next up: Mastak, Warsaw on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mateusz Grzybowski is a techno and electronica artist based in Poland, tracked o
 
 ## Recently played
 
-- NO TAM, Warsaw — Sat, 19 Sept 2026
-- Mastak, Warsaw — Sat, 25 Jul 2026
-- Noce KRK, Krakow — Fri, 19 Jun 2026
-- Smolna, Warsaw — Sun, 17 May 2026
-- Smolna, Warsaw — Thu, 26 Mar 2026
-- Smolna, Warsaw — Thu, 26 Mar 2026
-- TBA - Scenehuset - Bogstadveien 49, Oslo — Sat, 7 Feb 2026
-- Sekta Selekta, Krakow — Fri, 5 Sept 2025
+- NO TAM, Warsaw · Sat, 19 Sept 2026
+- Mastak, Warsaw · Sat, 25 Jul 2026
+- Noce KRK, Krakow · Fri, 19 Jun 2026
+- Smolna, Warsaw · Sun, 17 May 2026
+- Smolna, Warsaw · Thu, 26 Mar 2026
+- Smolna, Warsaw · Thu, 26 Mar 2026
+- TBA - Scenehuset - Bogstadveien 49, Oslo · Sat, 7 Feb 2026
+- Sekta Selekta, Krakow · Fri, 5 Sept 2025
 
 ## Shares bills with
 

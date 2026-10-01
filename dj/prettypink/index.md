@@ -1,8 +1,8 @@
 # Pretty Pink
 
-Pretty Pink is a Techno and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Outernet Live, London on Fri, 23 Oct 2026.
+Pretty Pink is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outernet Live, London on Fri, 23 Oct 2026.
 
-Pretty Pink is a techno and progressive house artist based in Germany, tracked on soundcheck, with 61 sets logged across Barcelona, Berlin, Chicago and Cologne and 28 more. Often billed alongside Cosmic Gate, Luccio and Thomas Lizzara. Next up: Outernet Live, London on Fri 23 Oct.
+Pretty Pink is a techno and progressive house artist based in Germany, with 61 gigs on soundcheck across Barcelona, Berlin, Chicago and Cologne and 28 more. Often billed alongside Cosmic Gate, Luccio and Thomas Lizzara. Next up: Outernet Live, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Pretty Pink is a techno and progressive house artist based in Germany, tracked o
 
 ## Recently played
 
-- Wolkezwei, Leipzig — Sun, 13 Sept 2026
-- Tanzhaus West, Frankfurt — Sat, 15 Aug 2026
-- Donauinsel, Vienna — Fri, 3 Jul 2026
-- Galopprennbahn Hoppegarten, Berlin — Fri, 19 Jun 2026
-- Ritter Butzke, Berlin — Sat, 30 May 2026
-- Superior Ingredients, New York City — Sun, 17 May 2026
-- Wolkezwei, Leipzig — Fri, 1 May 2026
-- La Otra Wynwood, Miami — Thu, 26 Mar 2026
+- Wolkezwei, Leipzig · Sun, 13 Sept 2026
+- Tanzhaus West, Frankfurt · Sat, 15 Aug 2026
+- Donauinsel, Vienna · Fri, 3 Jul 2026
+- Galopprennbahn Hoppegarten, Berlin · Fri, 19 Jun 2026
+- Ritter Butzke, Berlin · Sat, 30 May 2026
+- Superior Ingredients, New York City · Sun, 17 May 2026
+- Wolkezwei, Leipzig · Fri, 1 May 2026
+- La Otra Wynwood, Miami · Thu, 26 Mar 2026
 
 ## Shares bills with
 

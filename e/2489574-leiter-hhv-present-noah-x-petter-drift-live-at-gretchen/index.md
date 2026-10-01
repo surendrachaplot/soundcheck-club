@@ -1,6 +1,6 @@
 # LEITER & HHV present: NOAH X PETTER – DRIFT *live* at Gretchen
 
-LEITER & HHV present: NOAH X PETTER – DRIFT *live* at Gretchen on Sun 8 Nov, Berlin. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+LEITER & HHV present: NOAH X PETTER – DRIFT *live* at Gretchen on Sun 8 Nov, Berlin. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sights & Sounds: Zombies In Miami (live), Youandewan, Kim Ann Foxman, Nate Mohler (A/V set) at The Chocolate Factory
 
-Sights & Sounds: Zombies In Miami (live), Youandewan, Kim Ann Foxman, Nate Mohler (A/V set) at The Chocolate Factory on Sat 7 Nov, New York City. 3 artists on the bill: Kim Ann Foxman, Youandewan and Zombies In Miami. Techno and House. Preview the line-up and save it on soundcheck.
+Sights & Sounds: Zombies In Miami (live), Youandewan, Kim Ann Foxman, Nate Mohler (A/V set) at The Chocolate Factory on Sat 7 Nov, New York City. 3 artists: Kim Ann Foxman, Youandewan and Zombies In Miami. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

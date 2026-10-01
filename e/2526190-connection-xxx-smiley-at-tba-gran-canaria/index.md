@@ -1,6 +1,6 @@
 # Connection xxx Smiley at TBA - Gran Canaria 
 
-Connection xxx Smiley at TBA - Gran Canaria  on Sat 10 Oct, Canary Islands. 3 artists on the bill: Audio-93, FUNKE and Polli Panda. Preview the line-up and save it on soundcheck.
+Connection xxx Smiley at TBA - Gran Canaria  on Sat 10 Oct, Canary Islands. 3 artists: Audio-93, FUNKE and Polli Panda. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

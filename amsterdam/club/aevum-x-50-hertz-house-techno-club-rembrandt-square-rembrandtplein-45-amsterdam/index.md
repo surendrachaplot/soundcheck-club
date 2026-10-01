@@ -1,8 +1,8 @@
 # Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam
 
-Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "AEVUM" on Wed, 21 Oct 2026.
+Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "AEVUM" on Wed, 21 Oct 2026.
 
-Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Alan Fitzpatrick, Alena Noctis, DAN:EZ and David J Newton and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 45, Amsterdam, 1017 CT, Netherlands.
+Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Alan Fitzpatrick, Alena Noctis, DAN:EZ and David J Newton and 2 more. See dates, start times and who's playing. Rembrandtplein 45, Amsterdam, 1017 CT, Netherlands.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # buildupbreakdown at Volume Village
 
-buildupbreakdown at Volume Village on Fri 2 Oct, Aarhus. 1 artist on the bill: buildupbreakdown. Preview the line-up and save it on soundcheck.
+buildupbreakdown at Volume Village on Fri 2 Oct, Aarhus. 1 artist: buildupbreakdown. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

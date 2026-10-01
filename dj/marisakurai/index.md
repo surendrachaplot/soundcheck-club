@@ -1,8 +1,8 @@
 # Mari Sakurai
 
-Mari Sakurai is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at HVEN, Tokyo on Sat, 3 Oct 2026.
+Mari Sakurai is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at HVEN, Tokyo on Sat, 3 Oct 2026.
 
-Mari Sakurai is a techno and house artist based in Japan, tracked on soundcheck, with 154 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Shinsuke Goto, YANNY and 7e. Next up: HVEN, Tokyo on Sat 3 Oct.
+Mari Sakurai is a techno and house artist based in Japan, with 154 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Shinsuke Goto, YANNY and 7e. Next up: HVEN, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Mari Sakurai is a techno and house artist based in Japan, tracked on soundcheck,
 
 ## Recently played
 
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 12 Sept 2026
-- Bar Boson, Tokyo — Sat, 29 Aug 2026
-- Mitsuki, Tokyo — Sat, 22 Aug 2026
-- RADION, Amsterdam — Fri, 31 Jul 2026
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 4 Jul 2026
-- Secret Venue in Minatoku-Nishiazabu, Tokyo — Fri, 26 Jun 2026
-- RASA, Singapore — Fri, 19 Jun 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 12 Sept 2026
+- Bar Boson, Tokyo · Sat, 29 Aug 2026
+- Mitsuki, Tokyo · Sat, 22 Aug 2026
+- RADION, Amsterdam · Fri, 31 Jul 2026
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 4 Jul 2026
+- Secret Venue in Minatoku-Nishiazabu, Tokyo · Fri, 26 Jun 2026
+- RASA, Singapore · Fri, 19 Jun 2026
 
 ## Shares bills with
 

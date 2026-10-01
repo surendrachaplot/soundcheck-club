@@ -1,6 +1,6 @@
 # Smolna Tribe: Etnika Elektronika at Smolna
 
-Smolna Tribe: Etnika Elektronika on Thu 12 Nov, Warsaw. Afro House. Preview the line-up and save it on soundcheck.
+Smolna Tribe: Etnika Elektronika on Thu 12 Nov, Warsaw. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LASTER x FOLD LONDON - 12H EXTENDED HOURS at FOLD
 
-LASTER x FOLD LONDON - 12H EXTENDED HOURS on Sat 19 Dec, London. Techno. Preview the line-up and save it on soundcheck.
+LASTER x FOLD LONDON - 12H EXTENDED HOURS on Sat 19 Dec, London. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

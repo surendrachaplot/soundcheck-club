@@ -1,8 +1,8 @@
 # Alex Wilcox
 
-Alex Wilcox is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Virage, Paris on Fri, 2 Oct 2026.
+Alex Wilcox is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Virage, Paris on Fri, 2 Oct 2026.
 
-Alex Wilcox is a techno and trance artist based in United States of America, tracked on soundcheck, with 72 sets logged across Amsterdam, Austin, Bangkok and Belgrade and 34 more. Often billed alongside Ben UFO, DJ Nobu and DVS1. Next up: Virage, Paris on Fri 2 Oct.
+Alex Wilcox is a techno and trance artist based in United States of America, with 72 gigs on soundcheck across Amsterdam, Austin, Bangkok and Belgrade and 34 more. Often billed alongside Ben UFO, DJ Nobu and DVS1. Next up: Virage, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Alex Wilcox is a techno and trance artist based in United States of America, tra
 
 ## Recently played
 
-- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Supamolly, Berlin — Fri, 12 Jun 2026
-- Unité.22, Marseille — Fri, 15 May 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
-- Blivande, Stockholm — Sat, 2 May 2026
-- Mood Ring, New York City — Sun, 19 Apr 2026
-- Le Trabendo, Paris — Sat, 28 Feb 2026
+- Amsterdamse Bos, Amsterdam · Sun, 2 Aug 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- Supamolly, Berlin · Fri, 12 Jun 2026
+- Unité.22, Marseille · Fri, 15 May 2026
+- TBA - Les Grandes Locos , Lyon · Wed, 13 May 2026
+- Blivande, Stockholm · Sat, 2 May 2026
+- Mood Ring, New York City · Sun, 19 Apr 2026
+- Le Trabendo, Paris · Sat, 28 Feb 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # CRUSH #3 ・ New Club at La Rotonde Stalingrad
 
-CRUSH #3 ・ New Club at La Rotonde Stalingrad on Sat 21 Nov, Paris. 2 artists on the bill: DMN DJ and Karmakiddo. Techno. Preview the line-up and save it on soundcheck.
+CRUSH #3 ・ New Club at La Rotonde Stalingrad on Sat 21 Nov, Paris. 2 artists: DMN DJ and Karmakiddo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

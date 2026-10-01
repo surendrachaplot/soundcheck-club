@@ -1,8 +1,8 @@
 # Islington Assembly Hall
 
-Islington Assembly Hall is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Carbon Based Lifeforms x Aes Dana" on Sat, 3 Oct 2026.
+Islington Assembly Hall is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Carbon Based Lifeforms x Aes Dana" on Sat, 3 Oct 2026.
 
-Islington Assembly Hall is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Aes Dana, Carbon Based Lifeforms and KILIMANJARO. Browse upcoming dates, start times and who's playing. Upper Street, London, N1 2UD.
+Islington Assembly Hall is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Aes Dana, Carbon Based Lifeforms and KILIMANJARO. See dates, start times and who's playing. Upper Street, London, N1 2UD.
 
 ## What's on
 

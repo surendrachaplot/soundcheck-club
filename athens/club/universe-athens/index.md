@@ -1,8 +1,8 @@
 # Universe Athens
 
-Universe Athens is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "PLISSKËN presents Autechre" on Sat, 3 Oct 2026.
+Universe Athens is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PLISSKËN presents Autechre" on Sat, 3 Oct 2026.
 
-Universe Athens is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Adrian Mills, Até., Autechre and Ben Klock and 2 more. Browse upcoming dates, start times and who's playing. Leoforos Kifisou 87 Athens 122 41.
+Universe Athens is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including Adrian Mills, Até., Autechre and Ben Klock and 2 more. See dates, start times and who's playing. Leoforos Kifisou 87 Athens 122 41.
 
 ## What's on
 

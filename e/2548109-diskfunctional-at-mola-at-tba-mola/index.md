@@ -1,6 +1,6 @@
 # Diskfunctional at Mola at TBA - Mola
 
-Diskfunctional at Mola at TBA - Mola on Sat 3 Oct, Austin. 2 artists on the bill: El Zárate and Mauricio Meade. House. Preview the line-up and save it on soundcheck.
+Diskfunctional at Mola at TBA - Mola on Sat 3 Oct, Austin. 2 artists: El Zárate and Mauricio Meade. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

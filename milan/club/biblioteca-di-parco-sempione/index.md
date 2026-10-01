@@ -1,8 +1,8 @@
 # Biblioteca di Parco Sempione
 
-Biblioteca di Parco Sempione is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Anna Molly al Parco Sempione con Tonno Disko" on Sun, 4 Oct 2026.
+Biblioteca di Parco Sempione is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Anna Molly al Parco Sempione con Tonno Disko" on Sun, 4 Oct 2026.
 
-Biblioteca di Parco Sempione is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including FIMIANI, o! michello! and Tonno Disko. Browse upcoming dates, start times and who's playing. Viale Miguel de Cervantes, 20121 Milano MI.
+Biblioteca di Parco Sempione is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including FIMIANI, o! michello! and Tonno Disko. See dates, start times and who's playing. Viale Miguel de Cervantes, 20121 Milano MI.
 
 ## What's on
 

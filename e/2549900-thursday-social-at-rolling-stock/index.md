@@ -1,6 +1,6 @@
 # Thursday Social at Rolling Stock
 
-Thursday Social at Rolling Stock on Thu 8 Oct, London. House and Deep House. Preview the line-up and save it on soundcheck.
+Thursday Social at Rolling Stock on Thu 8 Oct, London. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

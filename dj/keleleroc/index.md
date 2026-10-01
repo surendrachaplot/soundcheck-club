@@ -1,8 +1,8 @@
 # Kele Le Roc
 
-Kele Le Roc is a Garage and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Document, Bristol on Sat, 7 Nov 2026.
+Kele Le Roc is a Garage and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Document, Bristol on Sat, 7 Nov 2026.
 
-Kele Le Roc is a garage and breakbeat artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Birmingham, Bristol, London and Manchester. Often billed alongside DJ Luck & MC Neat, Artful Dodger and MC Kie. Next up: Document, Bristol on Sat 7 Nov.
+Kele Le Roc is a garage and breakbeat artist based in United Kingdom, with 15 gigs on soundcheck across Birmingham, Bristol, London and Manchester. Often billed alongside DJ Luck & MC Neat, Artful Dodger and MC Kie. Next up: Document, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kele Le Roc is a garage and breakbeat artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Freight Brixton, London — Sat, 30 May 2026
-- 02 Victoria Warehouse, Manchester — Sat, 6 Dec 2025
-- Croydon Road Recreation Ground, London — Sat, 6 Sept 2025
-- TBA, London — Thu, 22 May 2025
-- Freight Island, Manchester — Sun, 11 May 2025
-- Ambassadors Clubhouse, London — Fri, 6 Dec 2024
-- DRUMSHEDS, London — Sun, 3 Nov 2024
-- The Alexandra, London — Sat, 13 Jul 2024
+- Freight Brixton, London · Sat, 30 May 2026
+- 02 Victoria Warehouse, Manchester · Sat, 6 Dec 2025
+- Croydon Road Recreation Ground, London · Sat, 6 Sept 2025
+- TBA, London · Thu, 22 May 2025
+- Freight Island, Manchester · Sun, 11 May 2025
+- Ambassadors Clubhouse, London · Fri, 6 Dec 2024
+- DRUMSHEDS, London · Sun, 3 Nov 2024
+- The Alexandra, London · Sat, 13 Jul 2024
 
 ## Shares bills with
 

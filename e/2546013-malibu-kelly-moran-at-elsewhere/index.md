@@ -1,6 +1,6 @@
 # Malibu, Kelly Moran at Elsewhere
 
-Malibu, Kelly Moran at Elsewhere on Sat 5 Dec, New York City. 2 artists on the bill: Kelly Moran and Malibu. Preview the line-up and save it on soundcheck.
+Malibu, Kelly Moran at Elsewhere on Sat 5 Dec, New York City. 2 artists: Kelly Moran and Malibu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

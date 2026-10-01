@@ -1,8 +1,8 @@
 # The Avalanches
 
-The Avalanches is a Electronica and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 10 Oct 2026.
+The Avalanches is a Electronica and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 10 Oct 2026.
 
-The Avalanches is an electronica and house artist based in Australia, tracked on soundcheck, with 9 sets logged across Bristol, Brussels, London and Manchester and 4 more. Often billed alongside 2ManyDJs, 4am Kru and 96 Back. Next up: DRUMSHEDS, London on Sat 10 Oct.
+The Avalanches is an electronica and house artist based in Australia, with 9 gigs on soundcheck across Bristol, Brussels, London and Manchester and 4 more. Often billed alongside 2ManyDJs, 4am Kru and 96 Back. Next up: DRUMSHEDS, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,11 +15,11 @@ The Avalanches is an electronica and house artist based in Australia, tracked on
 
 ## Recently played
 
-- Various Venues, London — Thu, 24 Sept 2026
-- Club 77, Sydney — Thu, 10 Sept 2026
-- Silencio, Paris — Sat, 8 Aug 2026
-- MIDNIGHT EAST, Tokyo — Fri, 12 Dec 2025
-- Sidney Myer Music Bowl, Melbourne — Sun, 31 Dec 2023
+- Various Venues, London · Thu, 24 Sept 2026
+- Club 77, Sydney · Thu, 10 Sept 2026
+- Silencio, Paris · Sat, 8 Aug 2026
+- MIDNIGHT EAST, Tokyo · Fri, 12 Dec 2025
+- Sidney Myer Music Bowl, Melbourne · Sun, 31 Dec 2023
 
 ## Shares bills with
 

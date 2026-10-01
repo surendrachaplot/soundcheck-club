@@ -1,6 +1,6 @@
 # RAVING CHARLIE: Hard Techno / Rave w/ BØBUS / ENVISION / TORN / CEIFAS at nachbar
 
-RAVING CHARLIE: Hard Techno / Rave w/ BØBUS / ENVISION / TORN / CEIFAS at nachbar on Wed 7 Oct, Amsterdam. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+RAVING CHARLIE: Hard Techno / Rave w/ BØBUS / ENVISION / TORN / CEIFAS at nachbar on Wed 7 Oct, Amsterdam. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

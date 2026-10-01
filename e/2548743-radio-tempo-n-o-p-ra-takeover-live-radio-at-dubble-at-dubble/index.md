@@ -1,6 +1,6 @@
 # Radio Tempo Não Pára takeover: live radio at dubble at dubble
 
-Radio Tempo Não Pára takeover: live radio at dubble on Sat 3 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Radio Tempo Não Pára takeover: live radio at dubble on Sat 3 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

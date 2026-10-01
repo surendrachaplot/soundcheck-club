@@ -1,8 +1,8 @@
 # EPROM
 
-EPROM is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Stereo, Glasgow on Fri, 13 Nov 2026.
+EPROM is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stereo, Glasgow on Fri, 13 Nov 2026.
 
-EPROM is a bass and dubstep artist based in United States of America, tracked on soundcheck, with 43 sets logged across Amsterdam, Auckland, Austin and Berlin and 22 more. Often billed alongside G Jones, Alix Perez and Shades. Next up: Stereo, Glasgow on Fri 13 Nov.
+EPROM is a bass and dubstep artist based in United States of America, with 43 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 22 more. Often billed alongside G Jones, Alix Perez and Shades. Next up: Stereo, Glasgow on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ EPROM is a bass and dubstep artist based in United States of America, tracked on
 
 ## Recently played
 
-- Q Nightclub, Seattle — Sat, 8 Aug 2026
-- Travis County Exposition Center, Austin — Sun, 31 May 2026
-- RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
-- The Steel Yard, London — Sat, 25 Apr 2026
-- The White Hotel, Manchester — Fri, 24 Apr 2026
-- Sneaky Pete's, Edinburgh — Thu, 23 Apr 2026
-- Petit Bain, Paris — Sat, 18 Apr 2026
-- Gretchen, Berlin — Fri, 17 Apr 2026
+- Q Nightclub, Seattle · Sat, 8 Aug 2026
+- Travis County Exposition Center, Austin · Sun, 31 May 2026
+- RFK Stadium Memorial Stadium, Washington DC · Sat, 30 May 2026
+- The Steel Yard, London · Sat, 25 Apr 2026
+- The White Hotel, Manchester · Fri, 24 Apr 2026
+- Sneaky Pete's, Edinburgh · Thu, 23 Apr 2026
+- Petit Bain, Paris · Sat, 18 Apr 2026
+- Gretchen, Berlin · Fri, 17 Apr 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Raleigh
 
-Raleigh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+Raleigh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
-Raleigh is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 36 sets logged across Barcelona, Berlin, Birmingham and London and 6 more. Often billed alongside Alfred Czital, Yan (CZ) and Zeynep. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
+Raleigh is a techno and trance artist based in Czech Republic, with 36 gigs on soundcheck across Barcelona, Berlin, Birmingham and London and 6 more. Often billed alongside Alfred Czital, Yan (CZ) and Zeynep. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Raleigh is a techno and trance artist based in Czech Republic, tracked on soundc
 
 ## Recently played
 
-- Gare Porto, Porto — Sat, 12 Sept 2026
-- XOYO Birmingham, Birmingham — Sat, 25 Jul 2026
-- Pier 83, New York City — Sat, 25 Jul 2026
-- Oval Space, London — Sat, 25 Jul 2026
-- Salon 223, Barcelona — Sat, 25 Jul 2026
-- 512 London, London — Sat, 25 Jul 2026
-- Depot 52 Warehouse, New York City — Sat, 25 Jul 2026
-- TBA, Prague — Sat, 11 Jul 2026
+- Gare Porto, Porto · Sat, 12 Sept 2026
+- XOYO Birmingham, Birmingham · Sat, 25 Jul 2026
+- Pier 83, New York City · Sat, 25 Jul 2026
+- Oval Space, London · Sat, 25 Jul 2026
+- Salon 223, Barcelona · Sat, 25 Jul 2026
+- 512 London, London · Sat, 25 Jul 2026
+- Depot 52 Warehouse, New York City · Sat, 25 Jul 2026
+- TBA, Prague · Sat, 11 Jul 2026
 
 ## Shares bills with
 

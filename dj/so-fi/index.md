@@ -1,8 +1,8 @@
 # So-Fi
 
-So-Fi is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret place, Berlin on Sun, 4 Oct 2026.
+So-Fi is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret place, Berlin on Sun, 4 Oct 2026.
 
-So-Fi is a house and techno artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Matthias, Ancut and Carl H. Next up: TBA - Secret place, Berlin on Sun 4 Oct.
+So-Fi is a house and techno artist based in France, with 99 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Matthias, Ancut and Carl H. Next up: TBA - Secret place, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ So-Fi is a house and techno artist based in France, tracked on soundcheck, with 
 
 ## Recently played
 
-- Colour Factory, London — Mon, 31 Aug 2026
-- Sonnenraum, Berlin — Sat, 29 Aug 2026
-- Renate, Berlin — Fri, 7 Aug 2026
-- Tresor / Globus, Berlin — Sat, 18 Jul 2026
-- Le 211, Paris — Sat, 4 Jul 2026
-- TBA - CHATEAU DE TILLOLOY, 80700 TILLOLOY, FRANCE, Paris — Fri, 5 Jun 2026
-- TBA - JK (near S Greifswalder), Berlin — Fri, 5 Jun 2026
-- Hoppetosse, Berlin — Fri, 29 May 2026
+- Colour Factory, London · Mon, 31 Aug 2026
+- Sonnenraum, Berlin · Sat, 29 Aug 2026
+- Renate, Berlin · Fri, 7 Aug 2026
+- Tresor / Globus, Berlin · Sat, 18 Jul 2026
+- Le 211, Paris · Sat, 4 Jul 2026
+- TBA - CHATEAU DE TILLOLOY, 80700 TILLOLOY, FRANCE, Paris · Fri, 5 Jun 2026
+- TBA - JK (near S Greifswalder), Berlin · Fri, 5 Jun 2026
+- Hoppetosse, Berlin · Fri, 29 May 2026
 
 ## Shares bills with
 

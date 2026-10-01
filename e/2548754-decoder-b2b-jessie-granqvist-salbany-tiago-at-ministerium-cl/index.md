@@ -1,6 +1,6 @@
 # Decoder b2b Jessie Granqvist, Salbany & Tiago at Ministerium Club
 
-Decoder b2b Jessie Granqvist, Salbany & Tiago at Ministerium Club on Fri 16 Oct, Lisbon. 4 artists on the bill: Decoder, Jessie Granqvist, Salbany and Tíago. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+Decoder b2b Jessie Granqvist, Salbany & Tiago at Ministerium Club on Fri 16 Oct, Lisbon. 4 artists: Decoder, Jessie Granqvist, Salbany and Tíago. Techno and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

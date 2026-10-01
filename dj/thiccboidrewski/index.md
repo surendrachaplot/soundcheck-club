@@ -1,8 +1,8 @@
 # Thiccboi Drewski
 
-Thiccboi Drewski is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at SILO, New York City on Thu, 8 Oct 2026.
+Thiccboi Drewski is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at SILO, New York City on Thu, 8 Oct 2026.
 
-Thiccboi Drewski is a house and techno artist based in United States of America, tracked on soundcheck, with 18 sets logged across New York City. Often billed alongside M33CH, Sam Valle and Talk Shivi. Next up: SILO, New York City on Thu 8 Oct.
+Thiccboi Drewski is a house and techno artist based in United States of America, with 18 gigs on soundcheck across New York City. Often billed alongside M33CH, Sam Valle and Talk Shivi. Next up: SILO, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Thiccboi Drewski is a house and techno artist based in United States of America,
 
 ## Recently played
 
-- La Noxe Trinity, New York City — Fri, 25 Sept 2026
-- Melrose Ballroom, New York City — Sat, 30 May 2026
-- The Crown, New York City — Sat, 4 Apr 2026
-- SILO, New York City — Sun, 28 Sept 2025
-- SILO, New York City — Sat, 9 Aug 2025
-- TBA Brooklyn, New York City — Fri, 1 Aug 2025
-- TBA Brooklyn, New York City — Sun, 27 Jul 2025
-- The Sultan Room, New York City — Fri, 25 Jul 2025
+- La Noxe Trinity, New York City · Fri, 25 Sept 2026
+- Melrose Ballroom, New York City · Sat, 30 May 2026
+- The Crown, New York City · Sat, 4 Apr 2026
+- SILO, New York City · Sun, 28 Sept 2025
+- SILO, New York City · Sat, 9 Aug 2025
+- TBA Brooklyn, New York City · Fri, 1 Aug 2025
+- TBA Brooklyn, New York City · Sun, 27 Jul 2025
+- The Sultan Room, New York City · Fri, 25 Jul 2025
 
 ## Shares bills with
 

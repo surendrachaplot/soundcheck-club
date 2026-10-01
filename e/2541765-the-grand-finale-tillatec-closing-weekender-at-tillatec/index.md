@@ -1,6 +1,6 @@
 # The Grand Finale: TILLATEC Closing Weekender at TILLATEC
 
-The Grand Finale: TILLATEC Closing Weekender on Fri 6 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+The Grand Finale: TILLATEC Closing Weekender on Fri 6 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Just Modular at 303 at 303 Audiophile Bar
 
-Just Modular at 303 at 303 Audiophile Bar on Thu 3 Dec, Barcelona. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Just Modular at 303 at 303 Audiophile Bar on Thu 3 Dec, Barcelona. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

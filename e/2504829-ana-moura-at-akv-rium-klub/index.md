@@ -1,6 +1,6 @@
 # Ana Moura at Akvárium Klub
 
-Ana Moura at Akvárium Klub on Sun 15 Nov, Budapest. Pop. Preview the line-up and save it on soundcheck.
+Ana Moura at Akvárium Klub on Sun 15 Nov, Budapest. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Philippa Pacho
 
-Philippa Pacho is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
+Philippa Pacho is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuse, Brussels on Sat, 3 Oct 2026.
 
-Philippa Pacho is a techno and house artist based in Sweden, tracked on soundcheck, with 229 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 59 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Fuse, Brussels on Sat 3 Oct.
+Philippa Pacho is a techno and house artist based in Sweden, with 229 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bangkok and 59 more. Often billed alongside Blue Hour, Fadi Mohem and Freddy K. Next up: Fuse, Brussels on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Philippa Pacho is a techno and house artist based in Sweden, tracked on soundche
 
 ## Recently played
 
-- TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin — Sat, 26 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 22 Sept 2026
-- Circolo Amelia, Milan — Sat, 19 Sept 2026
-- Fvtvr, Paris — Fri, 11 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 5 Sept 2026
-- Zoo, Geneva — Fri, 28 Aug 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
-- Macadam, Nantes — Fri, 7 Aug 2026
+- TBA - WAREHOUSE ECO PARK Cl. 24 #48 - 27, El Poblado, Medellín, Medellin · Sat, 26 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 22 Sept 2026
+- Circolo Amelia, Milan · Sat, 19 Sept 2026
+- Fvtvr, Paris · Fri, 11 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 5 Sept 2026
+- Zoo, Geneva · Fri, 28 Aug 2026
+- Parc des Etangs/Vijverspark, Brussels · Fri, 14 Aug 2026
+- Macadam, Nantes · Fri, 7 Aug 2026
 
 ## Shares bills with
 

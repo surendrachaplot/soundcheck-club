@@ -1,8 +1,8 @@
 # Hëit
 
-Hëit is a Dub Techno and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gate Milano, Milan on Fri, 23 Oct 2026.
+Hëit is a Dub Techno and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gate Milano, Milan on Fri, 23 Oct 2026.
 
-Hëit is a dub techno and techno artist based in Italy, tracked on soundcheck, with 2 sets logged across Milan. Often billed alongside Lee Van Cliff and MAROW. Next up: Gate Milano, Milan on Fri 23 Oct.
+Hëit is a dub techno and techno artist based in Italy, with 2 gigs on soundcheck across Milan. Often billed alongside Lee Van Cliff and MAROW. Next up: Gate Milano, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 

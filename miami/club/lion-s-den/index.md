@@ -1,8 +1,8 @@
 # Lion's Den
 
-Lion's Den is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Nicolino, Jonny Leibs" on Fri, 2 Oct 2026.
+Lion's Den is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Nicolino, Jonny Leibs" on Fri, 2 Oct 2026.
 
-Lion's Den is a music venue in Miami listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. 150 NW 73rd st.
+Lion's Den is a music venue in Miami listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. 150 NW 73rd st.
 
 ## What's on
 

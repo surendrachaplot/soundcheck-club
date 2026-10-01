@@ -1,6 +1,6 @@
 # DAX J [all night long] at Lofi
 
-DAX J [all night long] at Lofi on Sat 28 Nov, Amsterdam. 1 artist on the bill: DAX J. Techno. Preview the line-up and save it on soundcheck.
+DAX J [all night long] at Lofi on Sat 28 Nov, Amsterdam. 1 artist: DAX J. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

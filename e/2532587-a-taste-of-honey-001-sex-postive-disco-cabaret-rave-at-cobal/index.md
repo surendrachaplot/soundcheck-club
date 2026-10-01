@@ -1,6 +1,6 @@
 # A Taste Of Honey 001: Sex Postive Disco Cabaret & Rave at Cobalt Studios
 
-A Taste Of Honey 001: Sex Postive Disco Cabaret & Rave at Cobalt Studios on Sat 31 Oct, Newcastle. House and Disco. Preview the line-up and save it on soundcheck.
+A Taste Of Honey 001: Sex Postive Disco Cabaret & Rave at Cobalt Studios on Sat 31 Oct, Newcastle. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

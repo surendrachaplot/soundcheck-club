@@ -1,6 +1,6 @@
 # Club Vaag invites BØĘRY & Raxeller at Club Vaag
 
-Club Vaag invites BØĘRY & Raxeller on Fri 23 Oct, Antwerp. 2 artists on the bill: BØĘRY and Raxeller. Preview the line-up and save it on soundcheck.
+Club Vaag invites BØĘRY & Raxeller on Fri 23 Oct, Antwerp. 2 artists: BØĘRY and Raxeller. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sigma presents: Berlin + Ibiza together Closing Season at Sigma
 
-Sigma presents: Berlin + Ibiza together Closing Season on Fri 2 Oct, Ibiza. Acid and Electronica. Preview the line-up and save it on soundcheck.
+Sigma presents: Berlin + Ibiza together Closing Season on Fri 2 Oct, Ibiza. Acid and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

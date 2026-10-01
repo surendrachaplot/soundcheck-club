@@ -1,8 +1,8 @@
 # MU/SA
 
-MU/SA is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Forge, Bucharest on Fri, 13 Nov 2026.
+MU/SA is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Forge, Bucharest on Fri, 13 Nov 2026.
 
-MU/SA is a techno and industrial artist based in Romania, tracked on soundcheck, with 7 sets logged across Bucharest. Often billed alongside KØMI, Radox and DA NA. Next up: Forge, Bucharest on Fri 13 Nov.
+MU/SA is a techno and industrial artist based in Romania, with 7 gigs on soundcheck across Bucharest. Often billed alongside KØMI, Radox and DA NA. Next up: Forge, Bucharest on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -14,10 +14,10 @@ MU/SA is a techno and industrial artist based in Romania, tracked on soundcheck,
 
 ## Recently played
 
-- Forge, Bucharest — Fri, 22 May 2026
-- Forge, Bucharest — Fri, 3 Apr 2026
-- TBA, Bucharest — Fri, 17 Oct 2025
-- Njoy, Bucharest — Fri, 5 Sept 2025
+- Forge, Bucharest · Fri, 22 May 2026
+- Forge, Bucharest · Fri, 3 Apr 2026
+- TBA, Bucharest · Fri, 17 Oct 2025
+- Njoy, Bucharest · Fri, 5 Sept 2025
 
 ## Shares bills with
 

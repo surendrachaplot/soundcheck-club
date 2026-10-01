@@ -1,6 +1,6 @@
 # Soberbius Showcase 02.10 at X Private Club
 
-Soberbius Showcase 02.10 at X Private Club on Fri 2 Oct, Madrid. 3 artists on the bill: David Carro, Mario Mendoza and Vico Deep. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Soberbius Showcase 02.10 at X Private Club on Fri 2 Oct, Madrid. 3 artists: David Carro, Mario Mendoza and Vico Deep. Progressive House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

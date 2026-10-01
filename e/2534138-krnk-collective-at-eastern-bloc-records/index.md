@@ -1,6 +1,6 @@
 # KRNK Collective at Eastern Bloc Records
 
-KRNK Collective at Eastern Bloc Records on Fri 2 Oct, Manchester. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+KRNK Collective at Eastern Bloc Records on Fri 2 Oct, Manchester. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

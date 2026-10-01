@@ -1,8 +1,8 @@
 # Craig Gonzalez
 
-Craig Gonzalez is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
+Craig Gonzalez is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tangent Gallery, Detroit on Sat, 3 Oct 2026.
 
-Craig Gonzalez is a techno and house artist based in United States of America, tracked on soundcheck, with 69 sets logged across Berlin, Chicago, Detroit and New York City and 2 more. Often billed alongside Erika, DJ SPHiNX and Patrick Russell. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
+Craig Gonzalez is a techno and house artist based in United States of America, with 69 gigs on soundcheck across Berlin, Chicago, Detroit and New York City and 2 more. Often billed alongside Erika, DJ SPHiNX and Patrick Russell. Next up: Tangent Gallery, Detroit on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Craig Gonzalez is a techno and house artist based in United States of America, t
 
 ## Recently played
 
-- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 18 Sept 2026
-- Tangent Gallery, Detroit — Sun, 24 May 2026
-- Tangent Gallery, Detroit — Sat, 23 May 2026
-- Lincoln Factory, Detroit — Fri, 22 May 2026
-- Lincoln Factory, Detroit — Sat, 25 Apr 2026
-- Spkrbox, Detroit — Sun, 29 Mar 2026
-- Spkrbox, Detroit — Sat, 31 Jan 2026
-- Mudgies, Detroit — Sat, 17 Jan 2026
+- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
+- Tangent Gallery, Detroit · Sun, 24 May 2026
+- Tangent Gallery, Detroit · Sat, 23 May 2026
+- Lincoln Factory, Detroit · Fri, 22 May 2026
+- Lincoln Factory, Detroit · Sat, 25 Apr 2026
+- Spkrbox, Detroit · Sun, 29 Mar 2026
+- Spkrbox, Detroit · Sat, 31 Jan 2026
+- Mudgies, Detroit · Sat, 17 Jan 2026
 
 ## Shares bills with
 

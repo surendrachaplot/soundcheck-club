@@ -1,6 +1,6 @@
 # Demand with A.D.H.S. (Berlin) & DJ Jock at Slakthuset
 
-Demand with A.D.H.S. (Berlin) & DJ Jock at Slakthuset on Sat 3 Oct, Stockholm. 3 artists on the bill: A.D.H.S., DJ Jock and Dual Drive. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Demand with A.D.H.S. (Berlin) & DJ Jock at Slakthuset on Sat 3 Oct, Stockholm. 3 artists: A.D.H.S., DJ Jock and Dual Drive. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DROWSY at ZUBAR
 
-DROWSY at ZUBAR on Sun 15 Nov, Tokyo. 3 artists on the bill: Futa, Makoto and TOSHIHISA HIRANO. Ambient. Preview the line-up and save it on soundcheck.
+DROWSY at ZUBAR on Sun 15 Nov, Tokyo. 3 artists: Futa, Makoto and TOSHIHISA HIRANO. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

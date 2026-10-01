@@ -1,6 +1,6 @@
 # HeavyHz Takeover at Oculist
 
-HeavyHz Takeover at Oculist on Thu 1 Oct, Brighton. Techno and Jungle. Preview the line-up and save it on soundcheck.
+HeavyHz Takeover at Oculist on Thu 1 Oct, Brighton. Techno and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jolene Sound Room Brooklyn
 
-Jolene Sound Room Brooklyn is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "UFeel Back to Brooklyn w Jovonn (90's House set) + more" on Fri, 9 Oct 2026.
+Jolene Sound Room Brooklyn is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "UFeel Back to Brooklyn w Jovonn (90's House set) + more" on Fri, 9 Oct 2026.
 
-Jolene Sound Room Brooklyn is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including ABS, DLR (nyc), Jovonn and SAY3 and 1 more. Browse upcoming dates, start times and who's playing. 353 Bedford Ave. Brooklyn NY, 11211.
+Jolene Sound Room Brooklyn is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including ABS, DLR (nyc), Jovonn and SAY3 and 1 more. See dates, start times and who's playing. 353 Bedford Ave. Brooklyn NY, 11211.
 
 ## What's on
 

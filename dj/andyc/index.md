@@ -1,8 +1,8 @@
 # Andy C
 
-Andy C is a Drum & Bass and Jungle artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ministry Of Sound, London on Fri, 2 Oct 2026.
+Andy C is a Drum & Bass and Jungle artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Fri, 2 Oct 2026.
 
-Andy C is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Ministry Of Sound, London on Fri 2 Oct.
+Andy C is a drum & bass and jungle artist based in United Kingdom, with 104 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 44 more. Often billed alongside Tonn Piper, Bou (UK) and Hybrid Minds. Next up: Ministry Of Sound, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Andy C is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Roxy, Prague — Sat, 26 Sept 2026
-- Fuse, Brussels — Sat, 12 Sept 2026
-- Live From Wythenshawe Park, Manchester — Sun, 30 Aug 2026
-- TBA, Vienna — Fri, 14 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- BERHTA, Washington DC — Fri, 31 Jul 2026
-- Silverworks Island, London — Sun, 5 Jul 2026
-- 314 Scholes, New York City — Thu, 25 Jun 2026
+- Roxy, Prague · Sat, 26 Sept 2026
+- Fuse, Brussels · Sat, 12 Sept 2026
+- Live From Wythenshawe Park, Manchester · Sun, 30 Aug 2026
+- TBA, Vienna · Fri, 14 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- BERHTA, Washington DC · Fri, 31 Jul 2026
+- Silverworks Island, London · Sun, 5 Jul 2026
+- 314 Scholes, New York City · Thu, 25 Jun 2026
 
 ## Shares bills with
 

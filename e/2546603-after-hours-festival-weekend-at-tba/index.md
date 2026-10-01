@@ -1,6 +1,6 @@
 # AFTER HOURS - Festival Weekend at TBA
 
-AFTER HOURS - Festival Weekend at TBA on Sat 26 Sept, San Diego. 1 artist on the bill: Igor Marijuan. House and Afro Tech. Preview the line-up and save it on soundcheck.
+AFTER HOURS - Festival Weekend at TBA on Sat 26 Sept, San Diego. 1 artist: Igor Marijuan. House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Fluid at Happening Napoli
 
-Fluid at Happening Napoli on Sat 3 Oct, Naples. House. Preview the line-up and save it on soundcheck.
+Fluid at Happening Napoli on Sat 3 Oct, Naples. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # JIGITZ — 50 BALLERINAS TOUR - MELBOURNE at Bourke Street Courtyard
 
-JIGITZ — 50 BALLERINAS TOUR - MELBOURNE at Bourke Street Courtyard on Thu 17 Dec, Melbourne. Garage and Electronica. Preview the line-up and save it on soundcheck.
+JIGITZ — 50 BALLERINAS TOUR - MELBOURNE at Bourke Street Courtyard on Thu 17 Dec, Melbourne. Garage and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hubert. & prawy brzeg - sei porobilo...TOUR - 8.12 Warszawa at Klub Progresja
 
-Hubert. & prawy brzeg - sei porobilo...TOUR - 8.12 Warszawa at Klub Progresja on Tue 8 Dec, Warsaw. Hip-Hop. Preview the line-up and save it on soundcheck.
+Hubert. & prawy brzeg - sei porobilo...TOUR - 8.12 Warszawa at Klub Progresja on Tue 8 Dec, Warsaw. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

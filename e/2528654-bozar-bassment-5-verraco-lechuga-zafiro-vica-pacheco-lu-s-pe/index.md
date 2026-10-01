@@ -1,6 +1,6 @@
 # Bozar Bassment #5: Verraco & Lechuga Zafiro - Vica Pacheco & Luís Pestana at Bozar
 
-Bozar Bassment #5: Verraco & Lechuga Zafiro - Vica Pacheco & Luís Pestana on Thu 18 Feb, Brussels. 2 artists on the bill: Lechuga Zafiro and Verraco. Preview the line-up and save it on soundcheck.
+Bozar Bassment #5: Verraco & Lechuga Zafiro - Vica Pacheco & Luís Pestana on Thu 18 Feb, Brussels. 2 artists: Lechuga Zafiro and Verraco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

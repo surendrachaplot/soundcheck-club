@@ -1,6 +1,6 @@
 # Lungs Karaoke at Ridley Road Market Bar
 
-Lungs Karaoke at Ridley Road Market Bar on Wed 14 Oct, London. Disco and Pop. Preview the line-up and save it on soundcheck.
+Lungs Karaoke at Ridley Road Market Bar on Wed 14 Oct, London. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

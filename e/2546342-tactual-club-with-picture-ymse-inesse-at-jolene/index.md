@@ -1,6 +1,6 @@
 # tactual.club with Picture, ymse & inesse at Jolene
 
-tactual.club with Picture, ymse & inesse at Jolene on Sat 26 Sept, Copenhagen. Techno and Tech House. Preview the line-up and save it on soundcheck.
+tactual.club with Picture, ymse & inesse at Jolene on Sat 26 Sept, Copenhagen. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Home The Venue
 
-Home The Venue is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "★ S.A.S.H in the Street x Slapfunk 15th Anniversary After Party ★ Oct Long Weekend ★" on Sun, 4 Oct 2026.
+Home The Venue is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "★ S.A.S.H in the Street x Slapfunk 15th Anniversary After Party ★ Oct Long Weekend ★" on Sun, 4 Oct 2026.
 
-Home The Venue is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Dungeon Meat, Georgia Girl, Reflex Blue and Ron Obvious. Browse upcoming dates, start times and who's playing. 101 Wheat Rd; Darling Harbour, NSW 2000; Australia.
+Home The Venue is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Dungeon Meat, Georgia Girl, Reflex Blue and Ron Obvious. See dates, start times and who's playing. 101 Wheat Rd; Darling Harbour, NSW 2000; Australia.
 
 ## What's on
 

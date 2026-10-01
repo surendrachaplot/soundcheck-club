@@ -1,6 +1,6 @@
 # The Dijous Saved My Life: C.MØ, Arildo at Switch Bar
 
-The Dijous Saved My Life: C.MØ, Arildo at Switch Bar on Thu 1 Oct, Barcelona. 2 artists on the bill: Arildo and C.MØ. Preview the line-up and save it on soundcheck.
+The Dijous Saved My Life: C.MØ, Arildo at Switch Bar on Thu 1 Oct, Barcelona. 2 artists: Arildo and C.MØ. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

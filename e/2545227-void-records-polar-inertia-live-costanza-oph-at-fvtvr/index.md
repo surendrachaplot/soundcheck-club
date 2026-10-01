@@ -1,6 +1,6 @@
 # VOID Records: Polar Inertia live, Costanza, OPH at Fvtvr
 
-VOID Records: Polar Inertia live, Costanza, OPH at Fvtvr on Sat 17 Oct, Paris. 3 artists on the bill: Costanza, OPH and Polar Inertia. Techno. Preview the line-up and save it on soundcheck.
+VOID Records: Polar Inertia live, Costanza, OPH at Fvtvr on Sat 17 Oct, Paris. 3 artists: Costanza, OPH and Polar Inertia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

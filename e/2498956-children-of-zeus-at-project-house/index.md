@@ -1,6 +1,6 @@
 # Children of Zeus at Project House
 
-Children of Zeus at Project House on Thu 12 Nov, Leeds. Hip-Hop. Preview the line-up and save it on soundcheck.
+Children of Zeus at Project House on Thu 12 Nov, Leeds. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

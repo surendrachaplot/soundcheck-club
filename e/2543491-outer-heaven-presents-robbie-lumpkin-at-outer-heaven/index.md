@@ -1,6 +1,6 @@
 # Outer Heaven presents: Robbie Lumpkin at Outer Heaven
 
-Outer Heaven presents: Robbie Lumpkin on Wed 14 Oct, New York City. 1 artist on the bill: Robbie Lumpkin. House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Robbie Lumpkin on Wed 14 Oct, New York City. 1 artist: Robbie Lumpkin. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sonica: Crescent - Sonia Killmann at The Listening House | Pollok House
 
-Sonica: Crescent - Sonia Killmann at The Listening House | Pollok House on Sat 3 Oct, Glasgow. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Sonica: Crescent - Sonia Killmann at The Listening House | Pollok House on Sat 3 Oct, Glasgow. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

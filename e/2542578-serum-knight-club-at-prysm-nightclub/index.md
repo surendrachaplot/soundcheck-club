@@ -1,6 +1,6 @@
 # Serum: Knight Club at Prysm Nightclub
 
-Serum: Knight Club at Prysm Nightclub on Sat 31 Oct, Chicago. 1 artist on the bill: Cole Knight. House. Preview the line-up and save it on soundcheck.
+Serum: Knight Club at Prysm Nightclub on Sat 31 Oct, Chicago. 1 artist: Cole Knight. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FERAL - ARMANA KHAN - SAN DIEGO'S LGBTQ RAGER at Urban Mo's
 
-FERAL - ARMANA KHAN - SAN DIEGO'S LGBTQ RAGER at Urban Mo's on Fri 9 Oct, San Diego. 2 artists on the bill: ARMANA KHAN and Tara Dikhof. House and Club. Preview the line-up and save it on soundcheck.
+FERAL - ARMANA KHAN - SAN DIEGO'S LGBTQ RAGER at Urban Mo's on Fri 9 Oct, San Diego. 2 artists: ARMANA KHAN and Tara Dikhof. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

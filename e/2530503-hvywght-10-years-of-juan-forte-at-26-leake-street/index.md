@@ -1,6 +1,6 @@
 # HVYWGHT: 10 Years of Juan Forte at 26 Leake Street
 
-HVYWGHT: 10 Years of Juan Forte at 26 Leake Street on Sat 28 Nov, London. Preview the line-up and save it on soundcheck.
+HVYWGHT: 10 Years of Juan Forte at 26 Leake Street on Sat 28 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Domenic Cappello
 
-Domenic Cappello is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sub Club, Glasgow on Sat, 10 Oct 2026.
+Domenic Cappello is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club, Glasgow on Sat, 10 Oct 2026.
 
-Domenic Cappello is a house and techno artist based in United Kingdom, tracked on soundcheck, with 86 sets logged across Dundee, Edinburgh, Glasgow and London and 1 more. Often billed alongside Alien Communications, DJ Harri and Stevie Cox. Next up: Sub Club, Glasgow on Sat 10 Oct.
+Domenic Cappello is a house and techno artist based in United Kingdom, with 86 gigs on soundcheck across Dundee, Edinburgh, Glasgow and London and 1 more. Often billed alongside Alien Communications, DJ Harri and Stevie Cox. Next up: Sub Club, Glasgow on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Domenic Cappello is a house and techno artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Sub Club, Glasgow — Sat, 19 Sept 2026
-- Sub Club, Glasgow — Sat, 12 Sept 2026
-- Sub Club, Glasgow — Sat, 5 Sept 2026
-- TBA, Glasgow — Sat, 5 Sept 2026
-- Argyle Arcade (Buchanan Street Entrance), Glasgow — Sat, 29 Aug 2026
-- FOLD, London — Fri, 28 Aug 2026
-- Queen's Park Arena, Glasgow — Sat, 1 Aug 2026
-- Sub Club, Glasgow — Sat, 1 Aug 2026
+- Sub Club, Glasgow · Sat, 19 Sept 2026
+- Sub Club, Glasgow · Sat, 12 Sept 2026
+- Sub Club, Glasgow · Sat, 5 Sept 2026
+- TBA, Glasgow · Sat, 5 Sept 2026
+- Argyle Arcade (Buchanan Street Entrance), Glasgow · Sat, 29 Aug 2026
+- FOLD, London · Fri, 28 Aug 2026
+- Queen's Park Arena, Glasgow · Sat, 1 Aug 2026
+- Sub Club, Glasgow · Sat, 1 Aug 2026
 
 ## Shares bills with
 

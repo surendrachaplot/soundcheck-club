@@ -1,6 +1,6 @@
 # ACN with Dora Mask / Miss Trouli / Olenxxa at Astron Club
 
-ACN with Dora Mask / Miss Trouli / Olenxxa at Astron Club on Fri 2 Oct, Athens. 3 artists on the bill: Dora Mask, Miss Trouli and Olenxxa. Preview the line-up and save it on soundcheck.
+ACN with Dora Mask / Miss Trouli / Olenxxa at Astron Club on Fri 2 Oct, Athens. 3 artists: Dora Mask, Miss Trouli and Olenxxa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

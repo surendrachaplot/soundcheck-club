@@ -1,6 +1,6 @@
 # Disco Not Disco with Years of Denial at Dim
 
-Disco Not Disco with Years of Denial at Dim on Sat 21 Nov, Belgrade. 2 artists on the bill: schwabe and Years of Denial. Preview the line-up and save it on soundcheck.
+Disco Not Disco with Years of Denial at Dim on Sat 21 Nov, Belgrade. 2 artists: schwabe and Years of Denial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

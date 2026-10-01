@@ -1,8 +1,8 @@
 # Liva K
 
-Liva K is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at [UNVRS], Ibiza on Fri, 2 Oct 2026.
+Liva K is a Afro House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at [UNVRS], Ibiza on Fri, 2 Oct 2026.
 
-Liva K is an afro house and house artist based in Greece, tracked on soundcheck, with 86 sets logged across Amsterdam, Athens, Austin and Basel and 21 more. Often billed alongside Black Coffee, Bedouin and Damian Lazarus. Next up: [UNVRS], Ibiza on Fri 2 Oct.
+Liva K is an afro house and house artist based in Greece, with 86 gigs on soundcheck across Amsterdam, Athens, Austin and Basel and 21 more. Often billed alongside Black Coffee, Bedouin and Damian Lazarus. Next up: [UNVRS], Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Liva K is an afro house and house artist based in Greece, tracked on soundcheck,
 
 ## Recently played
 
-- Petra Theater, Athens — Fri, 18 Sept 2026
-- Chinois Ibiza, Ibiza — Sun, 6 Sept 2026
-- Santanna Mykonos, Mykonos — Mon, 10 Aug 2026
-- Hï Ibiza, Ibiza — Sat, 25 Jul 2026
-- Kawasaki - cocktail bar & club, Warsaw — Fri, 24 Jul 2026
-- Cavo Paradiso, Mykonos — Tue, 21 Jul 2026
-- Chinois Ibiza, Ibiza — Fri, 12 Jun 2026
-- KOKO, London — Sat, 2 May 2026
+- Petra Theater, Athens · Fri, 18 Sept 2026
+- Chinois Ibiza, Ibiza · Sun, 6 Sept 2026
+- Santanna Mykonos, Mykonos · Mon, 10 Aug 2026
+- Hï Ibiza, Ibiza · Sat, 25 Jul 2026
+- Kawasaki - cocktail bar & club, Warsaw · Fri, 24 Jul 2026
+- Cavo Paradiso, Mykonos · Tue, 21 Jul 2026
+- Chinois Ibiza, Ibiza · Fri, 12 Jun 2026
+- KOKO, London · Sat, 2 May 2026
 
 ## Shares bills with
 

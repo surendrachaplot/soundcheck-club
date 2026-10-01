@@ -1,6 +1,6 @@
 # ZW-CONCERT Saeko Killy / KONOMONO at Zentralwäscherei
 
-ZW-CONCERT Saeko Killy / KONOMONO at Zentralwäscherei on Thu 29 Oct, Zurich. 1 artist on the bill: Saeko Killy. Krautrock and New Wave. Preview the line-up and save it on soundcheck.
+ZW-CONCERT Saeko Killy / KONOMONO at Zentralwäscherei on Thu 29 Oct, Zurich. 1 artist: Saeko Killy. Krautrock and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

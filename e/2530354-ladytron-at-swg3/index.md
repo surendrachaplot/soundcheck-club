@@ -1,6 +1,6 @@
 # Ladytron at SWG3
 
-Ladytron at SWG3 on Thu 17 Dec, Glasgow. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Ladytron at SWG3 on Thu 17 Dec, Glasgow. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

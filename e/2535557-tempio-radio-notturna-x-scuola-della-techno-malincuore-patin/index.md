@@ -1,6 +1,6 @@
 # Tempio Radio Notturna x Scuola della Techno: Malincuore, Patineta, Roberta Naive at Tempio del Futuro Perduto
 
-Tempio Radio Notturna x Scuola della Techno: Malincuore, Patineta, Roberta Naive at Tempio del Futuro Perduto on Thu 29 Oct, Milan. Preview the line-up and save it on soundcheck.
+Tempio Radio Notturna x Scuola della Techno: Malincuore, Patineta, Roberta Naive at Tempio del Futuro Perduto on Thu 29 Oct, Milan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

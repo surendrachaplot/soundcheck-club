@@ -1,6 +1,6 @@
 # Together For Freedom — Fundraiser For Sudan at Gammel Strand
 
-Together For Freedom — Fundraiser For Sudan at Gammel Strand on Sat 3 Oct, Copenhagen. 2 artists on the bill: Fine and Snuggle. Preview the line-up and save it on soundcheck.
+Together For Freedom — Fundraiser For Sudan at Gammel Strand on Sat 3 Oct, Copenhagen. 2 artists: Fine and Snuggle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

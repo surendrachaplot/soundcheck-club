@@ -1,6 +1,6 @@
 # Electric Monday presents Faces of Monday @Kitkat at KitKatClub
 
-Electric Monday presents Faces of Monday @Kitkat at KitKatClub on Mon 5 Oct, Berlin. 4 artists on the bill: *Tia*, Frankie Flowerz, Rik Laren and Sylvie Maziarz. Techno and House. Preview the line-up and save it on soundcheck.
+Electric Monday presents Faces of Monday @Kitkat at KitKatClub on Mon 5 Oct, Berlin. 4 artists: *Tia*, Frankie Flowerz, Rik Laren and Sylvie Maziarz. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at StereoBar, Montreal on Fri, 2 Oct 2026.
+Jay de Lys is a Tech House and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at StereoBar, Montreal on Fri, 2 Oct 2026.
 
-Jay de Lys is a tech house and house artist based in Argentina, tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Franky Rizardo, Joey Daniel and Easttown. Next up: StereoBar, Montreal on Fri 2 Oct.
+Jay de Lys is a tech house and house artist based in Argentina, with 72 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Franky Rizardo, Joey Daniel and Easttown. Next up: StereoBar, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Jay de Lys is a tech house and house artist based in Argentina, tracked on sound
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- Coco Boule, Berlin — Fri, 21 Aug 2026
-- Playa Soleil & Bora Bora, Ibiza — Fri, 14 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 8 Aug 2026
-- Hï Ibiza, Ibiza — Tue, 21 Jul 2026
-- [UNVRS], Ibiza — Sat, 18 Jul 2026
-- Luz De Gas, Barcelona — Fri, 17 Jul 2026
-- Manko Athens, Athens — Sun, 12 Jul 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- Coco Boule, Berlin · Fri, 21 Aug 2026
+- Playa Soleil & Bora Bora, Ibiza · Fri, 14 Aug 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 8 Aug 2026
+- Hï Ibiza, Ibiza · Tue, 21 Jul 2026
+- [UNVRS], Ibiza · Sat, 18 Jul 2026
+- Luz De Gas, Barcelona · Fri, 17 Jul 2026
+- Manko Athens, Athens · Sun, 12 Jul 2026
 
 ## Shares bills with
 

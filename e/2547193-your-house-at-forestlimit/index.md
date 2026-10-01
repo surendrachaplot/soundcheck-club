@@ -1,6 +1,6 @@
 # 「YOUR HOUSE」 at Forestlimit
 
-「YOUR HOUSE」 at Forestlimit on Sat 5 Dec, Tokyo. Post-Punk. Preview the line-up and save it on soundcheck.
+「YOUR HOUSE」 at Forestlimit on Sat 5 Dec, Tokyo. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Amen Audio presents The Yorkshire Terrorisers at Plot 22
 
-Amen Audio presents The Yorkshire Terrorisers at Plot 22 on Sat 12 Dec, Sheffield. 2 artists on the bill: Kid Lib and Tommy Badman. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Amen Audio presents The Yorkshire Terrorisers at Plot 22 on Sat 12 Dec, Sheffield. 2 artists: Kid Lib and Tommy Badman. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

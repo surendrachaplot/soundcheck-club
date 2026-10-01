@@ -1,8 +1,8 @@
 # Praça Beato
 
-Praça Beato is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "ECOA SESSION 001" on Fri, 2 Oct 2026.
+Praça Beato is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ECOA SESSION 001" on Fri, 2 Oct 2026.
 
-Praça Beato is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+Praça Beato is a music venue in Lisbon listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

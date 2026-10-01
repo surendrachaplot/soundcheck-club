@@ -1,6 +1,6 @@
 # La Casa Del Perreo at Parallel
 
-La Casa Del Perreo at Parallel on Sat 17 Oct, Amsterdam. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+La Casa Del Perreo at Parallel on Sat 17 Oct, Amsterdam. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

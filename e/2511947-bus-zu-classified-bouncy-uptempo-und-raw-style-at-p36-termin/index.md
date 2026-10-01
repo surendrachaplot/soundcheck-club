@@ -1,6 +1,6 @@
 # Bus zu Classified – Bouncy Uptempo und Raw Style at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-Bus zu Classified – Bouncy Uptempo und Raw Style at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 17 Oct, Frankfurt. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Bus zu Classified – Bouncy Uptempo und Raw Style at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 17 Oct, Frankfurt. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

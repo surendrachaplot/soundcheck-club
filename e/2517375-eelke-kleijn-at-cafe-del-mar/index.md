@@ -1,6 +1,6 @@
 # EELKE KLEIJN at Cafe Del Mar
 
-EELKE KLEIJN at Cafe Del Mar on Sun 4 Oct, Sydney. Techno. Preview the line-up and save it on soundcheck.
+EELKE KLEIJN at Cafe Del Mar on Sun 4 Oct, Sydney. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

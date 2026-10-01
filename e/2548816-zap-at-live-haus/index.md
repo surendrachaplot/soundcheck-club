@@ -1,6 +1,6 @@
 # ZAP at Live Haus
 
-ZAP at Live Haus on Sat 3 Oct, Tokyo. House and Garage. Preview the line-up and save it on soundcheck.
+ZAP at Live Haus on Sat 3 Oct, Tokyo. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

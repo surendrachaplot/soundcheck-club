@@ -1,8 +1,8 @@
 # The Old Blue Last
 
-The Old Blue Last is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sunday Jazz" on Sun, 4 Oct 2026.
+The Old Blue Last is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sunday Jazz" on Sun, 4 Oct 2026.
 
-The Old Blue Last is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Bempah and Sam Wise. Browse upcoming dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
+The Old Blue Last is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Bempah and Sam Wise. See dates, start times and who's playing. 39 Great Eastern Road; Shoreditch; London EC2A 3ES; United Kingdom.
 
 ## What's on
 

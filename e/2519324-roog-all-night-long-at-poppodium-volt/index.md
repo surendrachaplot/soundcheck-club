@@ -1,6 +1,6 @@
 # ROOG - ALL NIGHT LONG at Poppodium Volt
 
-ROOG - ALL NIGHT LONG at Poppodium Volt on Fri 30 Oct, Netherlands. 2 artists on the bill: Hardsoul and ROOG. Preview the line-up and save it on soundcheck.
+ROOG - ALL NIGHT LONG at Poppodium Volt on Fri 30 Oct, Netherlands. 2 artists: Hardsoul and ROOG. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

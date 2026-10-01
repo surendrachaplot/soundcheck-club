@@ -1,8 +1,8 @@
 # Purrdition
 
-Purrdition is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
+Purrdition is a Techno and Minimal Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
 
-Purrdition is a techno and minimal techno artist based in Austria, tracked on soundcheck, with 35 sets logged across Berlin, Prague and Vienna. Often billed alongside Alecid, Anni Herzer and NESS T. Next up: Grelle Forelle, Vienna on Fri 2 Oct.
+Purrdition is a techno and minimal techno artist based in Austria, with 35 gigs on soundcheck across Berlin, Prague and Vienna. Often billed alongside Alecid, Anni Herzer and NESS T. Next up: Grelle Forelle, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Purrdition is a techno and minimal techno artist based in Austria, tracked on so
 
 ## Recently played
 
-- Grelle Forelle, Vienna — Sat, 18 Jul 2026
-- Usus am Wasser, Vienna — Fri, 5 Jun 2026
-- FLUCC, Vienna — Sat, 7 Mar 2026
-- Grelle Forelle, Vienna — Sat, 24 Jan 2026
-- Grelle Forelle, Vienna — Sat, 24 Jan 2026
-- FLUCC, Vienna — Fri, 11 Jul 2025
-- The Loft, Vienna — Sun, 20 Apr 2025
-- Jolly Roger Club, Vienna — Fri, 14 Mar 2025
+- Grelle Forelle, Vienna · Sat, 18 Jul 2026
+- Usus am Wasser, Vienna · Fri, 5 Jun 2026
+- FLUCC, Vienna · Sat, 7 Mar 2026
+- Grelle Forelle, Vienna · Sat, 24 Jan 2026
+- Grelle Forelle, Vienna · Sat, 24 Jan 2026
+- FLUCC, Vienna · Fri, 11 Jul 2025
+- The Loft, Vienna · Sun, 20 Apr 2025
+- Jolly Roger Club, Vienna · Fri, 14 Mar 2025
 
 ## Shares bills with
 

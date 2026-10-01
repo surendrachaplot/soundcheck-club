@@ -1,8 +1,8 @@
 # Adellic
 
-Adellic is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
+Adellic is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Baggerbeest, Amsterdam on Fri, 23 Oct 2026.
 
-Adellic is a tech house and house artist based in Sweden, tracked on soundcheck, with 6 sets logged across Amsterdam and Stockholm. Often billed alongside Sunrise Xavier, ALADAG and Andreas Andersson. Next up: Club Baggerbeest, Amsterdam on Fri 23 Oct.
+Adellic is a tech house and house artist based in Sweden, with 6 gigs on soundcheck across Amsterdam and Stockholm. Often billed alongside Sunrise Xavier, ALADAG and Andreas Andersson. Next up: Club Baggerbeest, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Adellic is a tech house and house artist based in Sweden, tracked on soundcheck,
 
 ## Recently played
 
-- Slakthuset, Stockholm — Fri, 18 Jul 2025
-- Kapellet, Stockholm — Wed, 30 Apr 2025
-- Södra Teatern, Kägelbanan, Stockholm — Wed, 8 May 2024
-- Kasai, Stockholm — Sat, 20 Apr 2024
-- Södra Teatern, Kägelbanan, Stockholm — Fri, 15 Mar 2024
+- Slakthuset, Stockholm · Fri, 18 Jul 2025
+- Kapellet, Stockholm · Wed, 30 Apr 2025
+- Södra Teatern, Kägelbanan, Stockholm · Wed, 8 May 2024
+- Kasai, Stockholm · Sat, 20 Apr 2024
+- Södra Teatern, Kägelbanan, Stockholm · Fri, 15 Mar 2024
 
 ## Shares bills with
 

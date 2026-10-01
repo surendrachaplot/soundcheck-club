@@ -1,6 +1,6 @@
 # GOME + The Gang with Muallem at Golden Pudel Club
 
-GOME + The Gang with Muallem at Golden Pudel Club on Fri 9 Oct, Hamburg. 2 artists on the bill: GOME and Muallem. House. Preview the line-up and save it on soundcheck.
+GOME + The Gang with Muallem at Golden Pudel Club on Fri 9 Oct, Hamburg. 2 artists: GOME and Muallem. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

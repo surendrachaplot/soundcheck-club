@@ -1,6 +1,6 @@
 # 7005 Vol.7 at The Glove That Fits
 
-7005 Vol.7 at The Glove That Fits on Fri 23 Oct, London. Techno. Preview the line-up and save it on soundcheck.
+7005 Vol.7 at The Glove That Fits on Fri 23 Oct, London. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

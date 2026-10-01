@@ -1,6 +1,6 @@
 # Miley Serious + Lu2k at Smoke & Mirrors
 
-Miley Serious + Lu2k at Smoke & Mirrors on Sat 10 Oct, Chicago. 2 artists on the bill: Lu2k and Miley Serious. Techno and Bass. Preview the line-up and save it on soundcheck.
+Miley Serious + Lu2k at Smoke & Mirrors on Sat 10 Oct, Chicago. 2 artists: Lu2k and Miley Serious. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

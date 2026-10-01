@@ -1,8 +1,8 @@
 # fun2bjane
 
-fun2bjane is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Los Angeles, Los Angeles on Fri, 9 Oct 2026.
+fun2bjane is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Los Angeles, Los Angeles on Fri, 9 Oct 2026.
 
-fun2bjane is a techno and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Los Angeles, New York City and San Diego. Often billed alongside Capes, Etari and mad gavs. Next up: TBA - Los Angeles, Los Angeles on Fri 9 Oct.
+fun2bjane is a techno and house artist based in United States of America, with 37 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside Capes, Etari and mad gavs. Next up: TBA - Los Angeles, Los Angeles on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ fun2bjane is a techno and house artist based in United States of America, tracke
 
 ## Recently played
 
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- TBA, Los Angeles — Sat, 25 Jul 2026
-- TBA, San Diego — Sat, 18 Jul 2026
-- Homage Brewing, Los Angeles — Fri, 10 Jul 2026
-- BASEMENT, New York City — Fri, 26 Jun 2026
-- Better Tomorrow, Los Angeles — Thu, 25 Jun 2026
-- TBA, Los Angeles — Sat, 6 Jun 2026
-- TBA - 624 S Anderson St LA CA 90023, Los Angeles — Fri, 22 May 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- TBA, Los Angeles · Sat, 25 Jul 2026
+- TBA, San Diego · Sat, 18 Jul 2026
+- Homage Brewing, Los Angeles · Fri, 10 Jul 2026
+- BASEMENT, New York City · Fri, 26 Jun 2026
+- Better Tomorrow, Los Angeles · Thu, 25 Jun 2026
+- TBA, Los Angeles · Sat, 6 Jun 2026
+- TBA - 624 S Anderson St LA CA 90023, Los Angeles · Fri, 22 May 2026
 
 ## Shares bills with
 

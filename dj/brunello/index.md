@@ -1,8 +1,8 @@
 # Brunello
 
-Brunello is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Brunello is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Brunello is a house and techno artist based in United States of America, tracked on soundcheck, with 15 sets logged across Amsterdam, Austin, Chicago and Ibiza and 7 more. Often billed alongside VTSS, Franky Rizardo and KI/KI. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Brunello is a house and techno artist based in United States of America, with 15 gigs on soundcheck across Amsterdam, Austin, Chicago and Ibiza and 7 more. Often billed alongside VTSS, Franky Rizardo and KI/KI. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Brunello is a house and techno artist based in United States of America, tracked
 
 ## Recently played
 
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Knockdown Center, New York City — Sun, 20 Sept 2026
-- TBA, Toronto — Sun, 6 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Spybar, Chicago — Fri, 4 Sept 2026
-- Hï Ibiza, Ibiza — Sat, 8 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- Club Space Miami, Miami — Sat, 11 Jul 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Knockdown Center, New York City · Sun, 20 Sept 2026
+- TBA, Toronto · Sun, 6 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Spybar, Chicago · Fri, 4 Sept 2026
+- Hï Ibiza, Ibiza · Sat, 8 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- Club Space Miami, Miami · Sat, 11 Jul 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Fusco Stefano
 
-Fusco Stefano is a Disco and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
+Fusco Stefano is a Disco and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Sat, 24 Oct 2026.
 
-Fusco Stefano is a disco and funk / soul artist based in Italy, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Ibiza and London and 1 more. Often billed alongside Jason K (IT), Bustin' Loose and Lela Xein. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
+Fusco Stefano is a disco and funk / soul artist based in Italy, with 34 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London and 1 more. Often billed alongside Jason K (IT), Bustin' Loose and Lela Xein. Next up: Amsterdam Central Station, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Fusco Stefano is a disco and funk / soul artist based in Italy, tracked on sound
 
 ## Recently played
 
-- La Paloma, Barcelona — Fri, 26 Jun 2026
-- Metropolis, London — Sat, 30 May 2026
-- Alcazar Live, Rome — Fri, 22 May 2026
-- Alcazar Live, Rome — Sat, 25 Apr 2026
-- Alcazar Live, Rome — Sat, 28 Mar 2026
-- Alcazar Live, Rome — Sat, 21 Feb 2026
-- Alcazar Live, Rome — Sat, 3 Jan 2026
-- Alcazar Live, Rome — Sat, 29 Nov 2025
+- La Paloma, Barcelona · Fri, 26 Jun 2026
+- Metropolis, London · Sat, 30 May 2026
+- Alcazar Live, Rome · Fri, 22 May 2026
+- Alcazar Live, Rome · Sat, 25 Apr 2026
+- Alcazar Live, Rome · Sat, 28 Mar 2026
+- Alcazar Live, Rome · Sat, 21 Feb 2026
+- Alcazar Live, Rome · Sat, 3 Jan 2026
+- Alcazar Live, Rome · Sat, 29 Nov 2025
 
 ## Shares bills with
 

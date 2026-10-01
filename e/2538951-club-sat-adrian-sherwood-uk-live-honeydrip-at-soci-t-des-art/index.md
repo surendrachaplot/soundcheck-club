@@ -1,6 +1,6 @@
 # Club SAT — Adrian Sherwood (UK) (Live) • Honeydrip at Société des arts technologiques
 
-Club SAT — Adrian Sherwood (UK) (Live) • Honeydrip at Société des arts technologiques on Sat 3 Apr, Montreal. 2 artists on the bill: Adrian Sherwood and Honeydrip. Preview the line-up and save it on soundcheck.
+Club SAT — Adrian Sherwood (UK) (Live) • Honeydrip at Société des arts technologiques on Sat 3 Apr, Montreal. 2 artists: Adrian Sherwood and Honeydrip. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

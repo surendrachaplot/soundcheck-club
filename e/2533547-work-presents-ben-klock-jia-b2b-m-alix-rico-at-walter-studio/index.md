@@ -1,6 +1,6 @@
 # WORK presents Ben Klock, JIA b2b Mâ, & Alix Rico at Walter Studios
 
-WORK presents Ben Klock, JIA b2b Mâ, & Alix Rico at Walter Studios on Sat 21 Nov, Phoenix. 2 artists on the bill: Ben Klock and JIA. Preview the line-up and save it on soundcheck.
+WORK presents Ben Klock, JIA b2b Mâ, & Alix Rico at Walter Studios on Sat 21 Nov, Phoenix. 2 artists: Ben Klock and JIA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

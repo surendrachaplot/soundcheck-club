@@ -1,6 +1,6 @@
 # Budapest Jungle pres. Photek at Akvárium Klub
 
-Budapest Jungle pres. Photek at Akvárium Klub on Sat 24 Oct, Budapest. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Budapest Jungle pres. Photek at Akvárium Klub on Sat 24 Oct, Budapest. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

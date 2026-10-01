@@ -1,8 +1,8 @@
 # [UNVRS]
 
-[UNVRS] is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Black Coffee" on Thu, 1 Oct 2026.
+[UNVRS] is a music venue in Ibiza with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Black Coffee" on Thu, 1 Oct 2026.
 
-[UNVRS] is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line-ups including Adriatique, AMÉMÉ, Anastazja and Anna Unusyan and 2 more. Browse upcoming dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
+[UNVRS] is a music venue in Ibiza listed on soundcheck. 9 upcoming gigs, with line-ups including Adriatique, AMÉMÉ, Anastazja and Anna Unusyan and 2 more. See dates, start times and who's playing. Urbanización San Rafael, s/n, 07816 Sant Antoni de Portmany, Balearic Islands.
 
 ## What's on
 

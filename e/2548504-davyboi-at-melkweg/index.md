@@ -1,6 +1,6 @@
 # davyboi at Melkweg
 
-davyboi at Melkweg on Fri 23 Oct, Amsterdam. 3 artists on the bill: davyboi, DJ GUESTLIST and Nyra. Trance and Tech House. Preview the line-up and save it on soundcheck.
+davyboi at Melkweg on Fri 23 Oct, Amsterdam. 3 artists: davyboi, DJ GUESTLIST and Nyra. Trance and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

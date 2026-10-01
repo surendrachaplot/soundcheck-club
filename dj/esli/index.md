@@ -1,8 +1,8 @@
 # Esli
 
-Esli is a New Wave and Italo Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
+Esli is a New Wave and Italo Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Noorderlicht Café, Amsterdam on Thu, 22 Oct 2026.
 
-Esli is a new wave and italo disco artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Los Angeles and Mexico City. Often billed alongside Alican, Djolee and Gespona. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
+Esli is a new wave and italo disco artist based in Netherlands, with 7 gigs on soundcheck across Amsterdam, Los Angeles and Mexico City. Often billed alongside Alican, Djolee and Gespona. Next up: Noorderlicht Café, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Esli is a new wave and italo disco artist based in Netherlands, tracked on sound
 
 ## Recently played
 
-- Noorderlicht Café, Amsterdam — Thu, 23 Oct 2025
-- The Monty Bar, Los Angeles — Sat, 6 Sept 2025
-- The Monty Bar, Los Angeles — Sat, 14 Sept 2024
-- 1720, Los Angeles — Thu, 11 Apr 2024
-- S de Supremo, Mexico City — Sun, 6 Aug 2023
-- TBA - Hollywood (secret location), Los Angeles — Sun, 15 Jan 2023
+- Noorderlicht Café, Amsterdam · Thu, 23 Oct 2025
+- The Monty Bar, Los Angeles · Sat, 6 Sept 2025
+- The Monty Bar, Los Angeles · Sat, 14 Sept 2024
+- 1720, Los Angeles · Thu, 11 Apr 2024
+- S de Supremo, Mexico City · Sun, 6 Aug 2023
+- TBA - Hollywood (secret location), Los Angeles · Sun, 15 Jan 2023
 
 ## Shares bills with
 

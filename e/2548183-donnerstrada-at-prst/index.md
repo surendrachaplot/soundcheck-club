@@ -1,6 +1,6 @@
 # DONNERSTRADA at PRST
 
-DONNERSTRADA at PRST on Thu 1 Oct, Vienna. 2 artists on the bill: Lilosh and Wonkers. House. Preview the line-up and save it on soundcheck.
+DONNERSTRADA at PRST on Thu 1 Oct, Vienna. 2 artists: Lilosh and Wonkers. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

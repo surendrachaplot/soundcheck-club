@@ -1,6 +1,6 @@
 # Alternate Realities: DYSTOPIA Halloween at TBA - Secret Location
 
-Alternate Realities: DYSTOPIA Halloween at TBA - Secret Location on Sat 31 Oct, Edinburgh. House and Disco. Preview the line-up and save it on soundcheck.
+Alternate Realities: DYSTOPIA Halloween at TBA - Secret Location on Sat 31 Oct, Edinburgh. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

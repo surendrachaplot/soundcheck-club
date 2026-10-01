@@ -1,6 +1,6 @@
 # Small Great House 'December Edition' at OXI
 
-Small Great House 'December Edition' at OXI on Sat 5 Dec, Berlin. House and Disco. Preview the line-up and save it on soundcheck.
+Small Great House 'December Edition' at OXI on Sat 5 Dec, Berlin. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

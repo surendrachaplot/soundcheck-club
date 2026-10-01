@@ -1,8 +1,8 @@
 # Marble Bar
 
-Marble Bar is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Family Affair" on Fri, 2 Oct 2026.
+Marble Bar is a music venue in Detroit with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Family Affair" on Fri, 2 Oct 2026.
 
-Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including A Guy Called Gerald, Andrés, Ashton Swinton and Black Rave Culture and 2 more. Browse upcoming dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
+Marble Bar is a music venue in Detroit listed on soundcheck. 9 upcoming gigs, with line-ups including A Guy Called Gerald, Andrés, Ashton Swinton and Black Rave Culture and 2 more. See dates, start times and who's playing. 1501 Holden St, Detroit, MI 48208, USA.
 
 ## What's on
 

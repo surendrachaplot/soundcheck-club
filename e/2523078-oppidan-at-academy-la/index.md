@@ -1,6 +1,6 @@
 # Oppidan at Academy LA
 
-Oppidan at Academy LA on Sat 17 Oct, Los Angeles. 1 artist on the bill: Oppidan. House and Garage. Preview the line-up and save it on soundcheck.
+Oppidan at Academy LA on Sat 17 Oct, Los Angeles. 1 artist: Oppidan. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

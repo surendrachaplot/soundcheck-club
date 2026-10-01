@@ -1,8 +1,8 @@
 # Hayden James
 
-Hayden James is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Savaya Bali, Bali on Sat, 31 Oct 2026.
+Hayden James is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Savaya Bali, Bali on Sat, 31 Oct 2026.
 
-Hayden James is a house and deep house artist based in Australia, tracked on soundcheck, with 55 sets logged across Austin, Bali, Barcelona and Boston and 16 more. Often billed alongside Gorgon City, Claptone and Eli & Fur. Next up: Savaya Bali, Bali on Sat 31 Oct.
+Hayden James is a house and deep house artist based in Australia, with 55 gigs on soundcheck across Austin, Bali, Barcelona and Boston and 16 more. Often billed alongside Gorgon City, Claptone and Eli & Fur. Next up: Savaya Bali, Bali on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Hayden James is a house and deep house artist based in Australia, tracked on sou
 
 ## Recently played
 
-- Echostage, Washington DC — Sat, 26 Sept 2026
-- Beach House San Diego, San Diego — Sat, 29 Aug 2026
-- Aracely Cafe, San Francisco/Oakland — Fri, 28 Aug 2026
-- Audio SF, San Francisco/Oakland — Fri, 28 Aug 2026
-- Night We Met, Nashville — Sat, 15 Aug 2026
-- Savaya Bali, Bali — Sat, 1 Aug 2026
-- Los Angeles State Historic Park, Los Angeles — Sun, 5 Jul 2026
-- Elsewhere, New York City — Sat, 4 Jul 2026
+- Echostage, Washington DC · Sat, 26 Sept 2026
+- Beach House San Diego, San Diego · Sat, 29 Aug 2026
+- Aracely Cafe, San Francisco/Oakland · Fri, 28 Aug 2026
+- Audio SF, San Francisco/Oakland · Fri, 28 Aug 2026
+- Night We Met, Nashville · Sat, 15 Aug 2026
+- Savaya Bali, Bali · Sat, 1 Aug 2026
+- Los Angeles State Historic Park, Los Angeles · Sun, 5 Jul 2026
+- Elsewhere, New York City · Sat, 4 Jul 2026
 
 ## Shares bills with
 

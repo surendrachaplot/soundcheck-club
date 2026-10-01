@@ -1,8 +1,8 @@
 # Galeria Zé Dos Bois
 
-Galeria Zé Dos Bois is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Living Room: mu tate, Violet" on Fri, 9 Oct 2026.
+Galeria Zé Dos Bois is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Living Room: mu tate, Violet" on Fri, 9 Oct 2026.
 
-Galeria Zé Dos Bois is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including mu tate and Violet (PT). Browse upcoming dates, start times and who's playing. Rua da Barroca, 59, 1200 Lisboa.
+Galeria Zé Dos Bois is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including mu tate and Violet (PT). See dates, start times and who's playing. Rua da Barroca, 59, 1200 Lisboa.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # AXIS - Sunday Techno Session at Teranoma Tidepool
 
-AXIS - Sunday Techno Session at Teranoma Tidepool on Sun 4 Oct, Osaka. Techno. Preview the line-up and save it on soundcheck.
+AXIS - Sunday Techno Session at Teranoma Tidepool on Sun 4 Oct, Osaka. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # wav.yo -5th dish-【1st Anniversary】 at Club Metro
 
-wav.yo -5th dish-【1st Anniversary】 at Club Metro on Sat 3 Oct, Kyoto. Techno and Electro. Preview the line-up and save it on soundcheck.
+wav.yo -5th dish-【1st Anniversary】 at Club Metro on Sat 3 Oct, Kyoto. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

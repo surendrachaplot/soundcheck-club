@@ -1,8 +1,8 @@
 # Boydell
 
-Boydell is a Garage and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Elsewhere, New York City on Thu, 1 Oct 2026.
+Boydell is a Garage and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Elsewhere, New York City on Thu, 1 Oct 2026.
 
-Boydell is a garage and dubstep artist based in United States of America, tracked on soundcheck, with 17 sets logged across Kuala Lumpur and New York City. Often billed alongside Peregrine (US), BUNZ and ALEX PAN. Next up: Elsewhere, New York City on Thu 1 Oct.
+Boydell is a garage and dubstep artist based in United States of America, with 17 gigs on soundcheck across Kuala Lumpur and New York City. Often billed alongside Peregrine (US), BUNZ and ALEX PAN. Next up: Elsewhere, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Boydell is a garage and dubstep artist based in United States of America, tracke
 
 ## Recently played
 
-- Coffeeboy Records + Cafe, Kuala Lumpur — Sat, 29 Aug 2026
-- Alphaville, New York City — Fri, 7 Aug 2026
-- Mood Ring, New York City — Fri, 17 Jul 2026
-- Mood Ring, New York City — Fri, 15 May 2026
-- Bar  Milagro, New York City — Fri, 8 May 2026
-- Mood Ring, New York City — Thu, 2 Apr 2026
-- Hart Bar, New York City — Fri, 23 Jan 2026
-- Alphaville, New York City — Sat, 17 Jan 2026
+- Coffeeboy Records + Cafe, Kuala Lumpur · Sat, 29 Aug 2026
+- Alphaville, New York City · Fri, 7 Aug 2026
+- Mood Ring, New York City · Fri, 17 Jul 2026
+- Mood Ring, New York City · Fri, 15 May 2026
+- Bar  Milagro, New York City · Fri, 8 May 2026
+- Mood Ring, New York City · Thu, 2 Apr 2026
+- Hart Bar, New York City · Fri, 23 Jan 2026
+- Alphaville, New York City · Sat, 17 Jan 2026
 
 ## Shares bills with
 

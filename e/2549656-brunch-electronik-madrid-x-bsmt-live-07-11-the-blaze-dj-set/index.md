@@ -1,6 +1,6 @@
 # Brunch Electronik Madrid x BSMT LIVE 07.11 - The Blaze (DJ Set) at The Lenovo Garage
 
-Brunch Electronik Madrid x BSMT LIVE 07.11 - The Blaze (DJ Set) at The Lenovo Garage on Sat 7 Nov, Madrid. 3 artists on the bill: Bego Martin, GHEIST and The Blaze. Preview the line-up and save it on soundcheck.
+Brunch Electronik Madrid x BSMT LIVE 07.11 - The Blaze (DJ Set) at The Lenovo Garage on Sat 7 Nov, Madrid. 3 artists: Bego Martin, GHEIST and The Blaze. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

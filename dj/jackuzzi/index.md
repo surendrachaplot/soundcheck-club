@@ -1,8 +1,8 @@
 # JACKUZZI
 
-JACKUZZI is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Buda BXL, Brussels on Sat, 10 Oct 2026.
+JACKUZZI is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Buda BXL, Brussels on Sat, 10 Oct 2026.
 
-JACKUZZI is a house and minimal artist based in Belgium, tracked on soundcheck, with 11 sets logged across Antwerp, Brussels, Ghent and London. Often billed alongside Lucimille, Bapow and Jana Joanna. Next up: Buda BXL, Brussels on Sat 10 Oct.
+JACKUZZI is a house and minimal artist based in Belgium, with 11 gigs on soundcheck across Antwerp, Brussels, Ghent and London. Often billed alongside Lucimille, Bapow and Jana Joanna. Next up: Buda BXL, Brussels on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ JACKUZZI is a house and minimal artist based in Belgium, tracked on soundcheck, 
 
 ## Recently played
 
-- UMI, Brussels — Sat, 25 Jul 2026
-- La Fabriek, Brussels — Sat, 18 Jul 2026
-- UMI, Brussels — Fri, 27 Mar 2026
-- Funke, Ghent — Fri, 5 Dec 2025
-- TBA, London — Sat, 6 Sept 2025
-- Crate Brewery, London — Sat, 6 Sept 2025
-- TBA - Floraliënlaan 111, 2020 Antwerpen, Belgium, Antwerp — Sat, 7 Jun 2025
-- Scotch, London — Thu, 10 Apr 2025
+- UMI, Brussels · Sat, 25 Jul 2026
+- La Fabriek, Brussels · Sat, 18 Jul 2026
+- UMI, Brussels · Fri, 27 Mar 2026
+- Funke, Ghent · Fri, 5 Dec 2025
+- TBA, London · Sat, 6 Sept 2025
+- Crate Brewery, London · Sat, 6 Sept 2025
+- TBA - Floraliënlaan 111, 2020 Antwerpen, Belgium, Antwerp · Sat, 7 Jun 2025
+- Scotch, London · Thu, 10 Apr 2025
 
 ## Shares bills with
 

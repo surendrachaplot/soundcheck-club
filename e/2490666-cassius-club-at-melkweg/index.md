@@ -1,6 +1,6 @@
 # Cassius Club at Melkweg
 
-Cassius Club at Melkweg on Fri 13 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+Cassius Club at Melkweg on Fri 13 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

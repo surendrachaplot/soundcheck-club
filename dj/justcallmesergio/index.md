@@ -1,8 +1,8 @@
 # justcallmesergio
 
-justcallmesergio is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Marmorbar, Berlin on Fri, 16 Oct 2026.
+justcallmesergio is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Marmorbar, Berlin on Fri, 16 Oct 2026.
 
-justcallmesergio is a house and electro artist based in Ukraine, tracked on soundcheck, with 44 sets logged across Berlin, Krakow and Oslo. Often billed alongside Rina Katen, Loves_kills and elliephunk. Next up: Marmorbar, Berlin on Fri 16 Oct.
+justcallmesergio is a house and electro artist based in Ukraine, with 44 gigs on soundcheck across Berlin, Krakow and Oslo. Often billed alongside Rina Katen, Loves_kills and elliephunk. Next up: Marmorbar, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ justcallmesergio is a house and electro artist based in Ukraine, tracked on soun
 
 ## Recently played
 
-- Sekta Selekta, Krakow — Fri, 21 Aug 2026
-- Gehør, Oslo — Sat, 6 Jun 2026
-- Bredouille, Berlin — Fri, 5 Jun 2026
-- Crack Bellmer, Berlin — Fri, 15 May 2026
-- Bulbul Berlin, Berlin — Sat, 25 Apr 2026
-- Kater, Berlin — Sat, 28 Mar 2026
-- Crack Bellmer, Berlin — Sat, 28 Mar 2026
-- Bulbul Berlin, Berlin — Fri, 23 Jan 2026
+- Sekta Selekta, Krakow · Fri, 21 Aug 2026
+- Gehør, Oslo · Sat, 6 Jun 2026
+- Bredouille, Berlin · Fri, 5 Jun 2026
+- Crack Bellmer, Berlin · Fri, 15 May 2026
+- Bulbul Berlin, Berlin · Sat, 25 Apr 2026
+- Kater, Berlin · Sat, 28 Mar 2026
+- Crack Bellmer, Berlin · Sat, 28 Mar 2026
+- Bulbul Berlin, Berlin · Fri, 23 Jan 2026
 
 ## Shares bills with
 

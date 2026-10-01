@@ -1,6 +1,6 @@
 # Teletech: KRUELTY [All Night Long] London at E1
 
-Teletech: KRUELTY [All Night Long] London at E1 on Fri 11 Dec, London. 1 artist on the bill: KRUELTY. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Teletech: KRUELTY [All Night Long] London at E1 on Fri 11 Dec, London. 1 artist: KRUELTY. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

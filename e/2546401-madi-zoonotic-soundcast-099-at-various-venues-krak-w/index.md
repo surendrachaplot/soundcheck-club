@@ -1,6 +1,6 @@
 # MADI - Zoonotic Soundcast #099 at Various venues - Kraków
 
-MADI - Zoonotic Soundcast #099 at Various venues - Kraków on Fri 2 Oct, Krakow. Preview the line-up and save it on soundcheck.
+MADI - Zoonotic Soundcast #099 at Various venues - Kraków on Fri 2 Oct, Krakow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

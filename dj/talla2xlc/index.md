@@ -1,8 +1,8 @@
 # Talla 2XLC
 
-Talla 2XLC is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
+Talla 2XLC is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Queen Mary, Los Angeles on Fri, 20 Nov 2026.
 
-Talla 2XLC is a trance and techno artist based in Germany, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Frankfurt and Ibiza and 7 more. Often billed alongside Paul Van Dyk, Andreas Kraemer and Cat Vermillion. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
+Talla 2XLC is a trance and techno artist based in Germany, with 23 gigs on soundcheck across Amsterdam, Berlin, Frankfurt and Ibiza and 7 more. Often billed alongside Paul Van Dyk, Andreas Kraemer and Cat Vermillion. Next up: The Queen Mary, Los Angeles on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Talla 2XLC is a trance and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- KitKatClub, Berlin — Wed, 19 Aug 2026
-- Zinkbad Eventhalle, Zurich — Sat, 8 Aug 2026
-- Bill Graham Civic Auditorium, San Francisco/Oakland — Fri, 6 Mar 2026
-- Zoom Club, Frankfurt — Fri, 17 Oct 2025
-- Void Club, Berlin — Fri, 10 Oct 2025
-- Der Weiße Hase, Berlin — Fri, 5 Sept 2025
-- Alte Kaserne, Zurich — Sat, 9 Aug 2025
-- The Dutch Master, London — Sat, 2 Aug 2025
+- KitKatClub, Berlin · Wed, 19 Aug 2026
+- Zinkbad Eventhalle, Zurich · Sat, 8 Aug 2026
+- Bill Graham Civic Auditorium, San Francisco/Oakland · Fri, 6 Mar 2026
+- Zoom Club, Frankfurt · Fri, 17 Oct 2025
+- Void Club, Berlin · Fri, 10 Oct 2025
+- Der Weiße Hase, Berlin · Fri, 5 Sept 2025
+- Alte Kaserne, Zurich · Sat, 9 Aug 2025
+- The Dutch Master, London · Sat, 2 Aug 2025
 
 ## Shares bills with
 

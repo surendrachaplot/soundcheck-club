@@ -1,6 +1,6 @@
 # Forward Festival Vienna at Gartenbaukino
 
-Forward Festival Vienna at Gartenbaukino on Thu 1 Oct, Vienna. Preview the line-up and save it on soundcheck.
+Forward Festival Vienna at Gartenbaukino on Thu 1 Oct, Vienna. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

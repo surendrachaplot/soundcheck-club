@@ -1,6 +1,6 @@
 # OASIS Boat Party Amsterdam — ADE Edition at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands
 
-OASIS Boat Party Amsterdam — ADE Edition at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands on Sun 25 Oct, Amsterdam. 2 artists on the bill: charuso and NoMore. House and Deep House. Preview the line-up and save it on soundcheck.
+OASIS Boat Party Amsterdam — ADE Edition at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands on Sun 25 Oct, Amsterdam. 2 artists: charuso and NoMore. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

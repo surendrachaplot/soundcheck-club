@@ -1,8 +1,8 @@
 # Riva Starr
 
-Riva Starr is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Riva Starr is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
-Riva Starr is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
+Riva Starr is a house and tech house artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 25 more. Often billed alongside Lowsteppa, Armand Van Helden and Paige Tomlinson. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Riva Starr is a house and tech house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- ZeyZey, Miami — Sat, 26 Sept 2026
-- Bikini Club, Barcelona — Sat, 19 Sept 2026
-- Amnesia Ibiza, Ibiza — Fri, 18 Sept 2026
-- Spy Bar, Stockholm — Sat, 5 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 27 Aug 2026
-- Chalet Nonna Carmela, Naples — Thu, 20 Aug 2026
-- Amnesia Ibiza, Ibiza — Fri, 14 Aug 2026
-- White Bay Power Station, Sydney — Sat, 25 Jul 2026
+- ZeyZey, Miami · Sat, 26 Sept 2026
+- Bikini Club, Barcelona · Sat, 19 Sept 2026
+- Amnesia Ibiza, Ibiza · Fri, 18 Sept 2026
+- Spy Bar, Stockholm · Sat, 5 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 27 Aug 2026
+- Chalet Nonna Carmela, Naples · Thu, 20 Aug 2026
+- Amnesia Ibiza, Ibiza · Fri, 14 Aug 2026
+- White Bay Power Station, Sydney · Sat, 25 Jul 2026
 
 ## Shares bills with
 

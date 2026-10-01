@@ -1,6 +1,6 @@
 # Vrijdag is NYX 6/11 at Club NYX
 
-Vrijdag is NYX 6/11 at Club NYX on Fri 6 Nov, Amsterdam. 1 artist on the bill: Turne. House and Pop. Preview the line-up and save it on soundcheck.
+Vrijdag is NYX 6/11 at Club NYX on Fri 6 Nov, Amsterdam. 1 artist: Turne. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

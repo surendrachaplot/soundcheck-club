@@ -1,6 +1,6 @@
 # The Collective - X at Undr W10
 
-The Collective - X at Undr W10 on Sat 3 Oct, London. 2 artists on the bill: Caio Cenci and Nirvan. House and Disco. Preview the line-up and save it on soundcheck.
+The Collective - X at Undr W10 on Sat 3 Oct, London. 2 artists: Caio Cenci and Nirvan. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

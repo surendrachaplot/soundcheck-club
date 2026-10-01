@@ -1,6 +1,6 @@
 # DΩ at de Koepels
 
-DΩ at de Koepels on Sat 10 Oct, Rotterdam. 5 artists on the bill: Franziska Lindholz, Gan D, jannah and Lolo Batten and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+DΩ at de Koepels on Sat 10 Oct, Rotterdam. 5 artists: Franziska Lindholz, Gan D, jannah and Lolo Batten and 1 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

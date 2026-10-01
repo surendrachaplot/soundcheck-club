@@ -1,6 +1,6 @@
 # PILOT at The Berkeley Suite
 
-PILOT at The Berkeley Suite on Wed 16 Dec, Glasgow. Trance and House. Preview the line-up and save it on soundcheck.
+PILOT at The Berkeley Suite on Wed 16 Dec, Glasgow. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

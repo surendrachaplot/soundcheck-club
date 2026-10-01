@@ -1,6 +1,6 @@
 # FILMMAKERS & ACTORS NETWORKING - DJ - SPECIAL EVENT at Pharmacy
 
-FILMMAKERS & ACTORS NETWORKING - DJ - SPECIAL EVENT at Pharmacy on Sat 3 Oct, Barcelona. 1 artist on the bill: INOFF. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+FILMMAKERS & ACTORS NETWORKING - DJ - SPECIAL EVENT at Pharmacy on Sat 3 Oct, Barcelona. 1 artist: INOFF. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

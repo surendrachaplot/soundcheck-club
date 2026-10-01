@@ -1,6 +1,6 @@
 # The Freshers UV Glow Rave at Egg London
 
-The Freshers UV Glow Rave at Egg London on Thu 1 Oct, London. Preview the line-up and save it on soundcheck.
+The Freshers UV Glow Rave at Egg London on Thu 1 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

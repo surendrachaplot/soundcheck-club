@@ -1,6 +1,6 @@
 # Star Warz: Final Edition at VIERNULVIER
 
-Star Warz: Final Edition at VIERNULVIER on Sat 3 Oct, Ghent. 3 artists on the bill: Bredren, Lavance and MC Tasty. Drum & Bass. Preview the line-up and save it on soundcheck.
+Star Warz: Final Edition at VIERNULVIER on Sat 3 Oct, Ghent. 3 artists: Bredren, Lavance and MC Tasty. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

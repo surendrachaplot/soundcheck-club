@@ -1,8 +1,8 @@
 # KAHMEYA
 
-KAHMEYA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+KAHMEYA is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
-KAHMEYA is a techno and house artist based in Netherlands, tracked on soundcheck, with 14 sets logged across Amsterdam. Often billed alongside SHARE (NL), Basistolia and Collé. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
+KAHMEYA is a techno and house artist based in Netherlands, with 14 gigs on soundcheck across Amsterdam. Often billed alongside SHARE (NL), Basistolia and Collé. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ KAHMEYA is a techno and house artist based in Netherlands, tracked on soundcheck
 
 ## Recently played
 
-- Noorderlicht Café, Amsterdam — Sat, 26 Sept 2026
-- Thuishaven, Amsterdam — Sat, 23 May 2026
-- Helling 7, Amsterdam — Sat, 16 May 2026
-- Thuishaven, Amsterdam — Sun, 29 Mar 2026
-- WestWeelde, Amsterdam — Sat, 8 Nov 2025
-- Thuishaven, Amsterdam — Sat, 20 Sept 2025
-- Thuishaven, Amsterdam — Sat, 31 May 2025
-- Toekomstmuziek, Amsterdam — Sat, 8 Feb 2025
+- Noorderlicht Café, Amsterdam · Sat, 26 Sept 2026
+- Thuishaven, Amsterdam · Sat, 23 May 2026
+- Helling 7, Amsterdam · Sat, 16 May 2026
+- Thuishaven, Amsterdam · Sun, 29 Mar 2026
+- WestWeelde, Amsterdam · Sat, 8 Nov 2025
+- Thuishaven, Amsterdam · Sat, 20 Sept 2025
+- Thuishaven, Amsterdam · Sat, 31 May 2025
+- Toekomstmuziek, Amsterdam · Sat, 8 Feb 2025
 
 ## Shares bills with
 

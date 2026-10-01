@@ -1,8 +1,8 @@
 # DJ SWISHERMAN
 
-DJ SWISHERMAN is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at HER, Melbourne on Thu, 1 Oct 2026.
+DJ SWISHERMAN is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at HER, Melbourne on Thu, 1 Oct 2026.
 
-DJ SWISHERMAN is a techno and house artist based in Spain, tracked on soundcheck, with 124 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Gerardo Niva, RUIZ OSC1 and Benwal. Next up: HER, Melbourne on Thu 1 Oct.
+DJ SWISHERMAN is a techno and house artist based in Spain, with 124 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 29 more. Often billed alongside Gerardo Niva, RUIZ OSC1 and Benwal. Next up: HER, Melbourne on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ DJ SWISHERMAN is a techno and house artist based in Spain, tracked on soundcheck
 
 ## Recently played
 
-- Preston Warehouse, Melbourne — Sat, 26 Sept 2026
-- Mondo, Madrid — Thu, 17 Sept 2026
-- Mondo, Madrid — Thu, 27 Aug 2026
-- Mondo, Madrid — Thu, 20 Aug 2026
-- Rote Sonne, Munich — Fri, 14 Aug 2026
-- Mondo, Madrid — Thu, 13 Aug 2026
-- Mondo, Madrid — Sat, 8 Aug 2026
-- Else, Berlin — Fri, 31 Jul 2026
+- Preston Warehouse, Melbourne · Sat, 26 Sept 2026
+- Mondo, Madrid · Thu, 17 Sept 2026
+- Mondo, Madrid · Thu, 27 Aug 2026
+- Mondo, Madrid · Thu, 20 Aug 2026
+- Rote Sonne, Munich · Fri, 14 Aug 2026
+- Mondo, Madrid · Thu, 13 Aug 2026
+- Mondo, Madrid · Sat, 8 Aug 2026
+- Else, Berlin · Fri, 31 Jul 2026
 
 ## Shares bills with
 

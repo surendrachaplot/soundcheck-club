@@ -1,8 +1,8 @@
 # Holocene
 
-Holocene is a music venue in Portland with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Global Based presents: Chippy Nonstop" on Sat, 3 Oct 2026.
+Holocene is a music venue in Portland with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Global Based presents: Chippy Nonstop" on Sat, 3 Oct 2026.
 
-Holocene is a music venue in Portland listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Oxley, Chippy Nonstop, Degs and Fleetmac Wood and 2 more. Browse upcoming dates, start times and who's playing. 1001 SE Morrison; Portland, OR 97214; United States.
+Holocene is a music venue in Portland listed on soundcheck. 4 upcoming gigs, with line-ups including Alex Oxley, Chippy Nonstop, Degs and Fleetmac Wood and 2 more. See dates, start times and who's playing. 1001 SE Morrison; Portland, OR 97214; United States.
 
 ## What's on
 

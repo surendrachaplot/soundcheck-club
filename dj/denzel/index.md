@@ -1,8 +1,8 @@
 # Denzel
 
-Denzel is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sameheads, Berlin on Fri, 9 Oct 2026.
+Denzel is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sameheads, Berlin on Fri, 9 Oct 2026.
 
-Denzel is a techno and house artist based in Finland, tracked on soundcheck, with 119 sets logged across Amsterdam, Berlin, Bristol and Helsinki and 8 more. Often billed alongside Joni DJ, Justus Valtanen and Daniel Kayrouz. Next up: Sameheads, Berlin on Fri 9 Oct.
+Denzel is a techno and house artist based in Finland, with 119 gigs on soundcheck across Amsterdam, Berlin, Bristol and Helsinki and 8 more. Often billed alongside Joni DJ, Justus Valtanen and Daniel Kayrouz. Next up: Sameheads, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Denzel is a techno and house artist based in Finland, tracked on soundcheck, wit
 
 ## Recently played
 
-- Signal, New York City — Fri, 18 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Stidilä, Helsinki — Sun, 6 Sept 2026
-- Ambient Bar, Helsinki — Fri, 4 Sept 2026
-- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
-- Post Bar, Helsinki — Sun, 16 Aug 2026
-- Hall, Tallinn — Fri, 14 Aug 2026
-- Post Bar, Helsinki — Sat, 8 Aug 2026
+- Signal, New York City · Fri, 18 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Stidilä, Helsinki · Sun, 6 Sept 2026
+- Ambient Bar, Helsinki · Fri, 4 Sept 2026
+- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
+- Post Bar, Helsinki · Sun, 16 Aug 2026
+- Hall, Tallinn · Fri, 14 Aug 2026
+- Post Bar, Helsinki · Sat, 8 Aug 2026
 
 ## Shares bills with
 

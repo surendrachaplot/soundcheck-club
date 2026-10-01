@@ -1,8 +1,8 @@
 # Leroy Se Meurt
 
-Leroy Se Meurt is a EBM and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
+Leroy Se Meurt is a EBM and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at EL SÓTANO, Madrid on Fri, 2 Oct 2026.
 
-Leroy Se Meurt is an ebm and techno artist tracked on soundcheck, with 13 sets logged across Athens, Berlin, Brussels and Leipzig and 8 more. Often billed alongside Alessandro Adriani, Alice in Flames and Alpha Sect. Next up: EL SÓTANO, Madrid on Fri 2 Oct.
+Leroy Se Meurt is an ebm and techno artist, with 13 gigs on soundcheck across Athens, Berlin, Brussels and Leipzig and 8 more. Often billed alongside Alessandro Adriani, Alice in Flames and Alpha Sect. Next up: EL SÓTANO, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Leroy Se Meurt is an ebm and techno artist tracked on soundcheck, with 13 sets l
 
 ## Recently played
 
-- Madame Moustache, Brussels — Thu, 3 Sept 2026
-- Alte Feuerwache THF, Berlin — Fri, 10 Oct 2025
-- Laska V21, Riga — Fri, 25 Oct 2024
-- Zoro, Leipzig — Sat, 12 Oct 2024
-- Urban Spree, Berlin — Thu, 23 May 2024
-- Boat - Le Sonic, Lyon — Thu, 25 Apr 2024
-- WAS., Utrecht — Sat, 23 Mar 2024
-- Kollektivet Livet Bar & Scen, Stockholm — Sat, 18 Nov 2023
+- Madame Moustache, Brussels · Thu, 3 Sept 2026
+- Alte Feuerwache THF, Berlin · Fri, 10 Oct 2025
+- Laska V21, Riga · Fri, 25 Oct 2024
+- Zoro, Leipzig · Sat, 12 Oct 2024
+- Urban Spree, Berlin · Thu, 23 May 2024
+- Boat - Le Sonic, Lyon · Thu, 25 Apr 2024
+- WAS., Utrecht · Sat, 23 Mar 2024
+- Kollektivet Livet Bar & Scen, Stockholm · Sat, 18 Nov 2023
 
 ## Shares bills with
 

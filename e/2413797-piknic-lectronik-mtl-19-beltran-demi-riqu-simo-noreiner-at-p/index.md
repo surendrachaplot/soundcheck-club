@@ -1,6 +1,6 @@
 # Piknic Électronik MTL #19: Beltran, Demi Riquísimo / Noreiner at Piknic Électronik / Parc Jean Drapeau
 
-Piknic Électronik MTL #19: Beltran, Demi Riquísimo / Noreiner at Piknic Électronik / Parc Jean Drapeau on Sun 11 Oct, Montreal. 6 artists on the bill: Beltran, Demi Riquisimo, ENAMOR and Lex Ferenda and 2 more. Preview the line-up and save it on soundcheck.
+Piknic Électronik MTL #19: Beltran, Demi Riquísimo / Noreiner at Piknic Électronik / Parc Jean Drapeau on Sun 11 Oct, Montreal. 6 artists: Beltran, Demi Riquisimo, ENAMOR and Lex Ferenda and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

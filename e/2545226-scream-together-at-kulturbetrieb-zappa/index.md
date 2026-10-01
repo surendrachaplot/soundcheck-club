@@ -1,6 +1,6 @@
 # Scream Together at Kulturbetrieb Zappa
 
-Scream Together at Kulturbetrieb Zappa on Sat 31 Oct, Stuttgart. Techno. Preview the line-up and save it on soundcheck.
+Scream Together at Kulturbetrieb Zappa on Sat 31 Oct, Stuttgart. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

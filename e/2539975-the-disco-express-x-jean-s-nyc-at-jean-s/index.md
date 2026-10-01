@@ -1,6 +1,6 @@
 # The Disco Express x Jean's: NYC at Jean’s
 
-The Disco Express x Jean's: NYC at Jean’s on Thu 8 Oct, New York City. 2 artists on the bill: Bustin' Loose and Roland & Brother Rich. House and Disco. Preview the line-up and save it on soundcheck.
+The Disco Express x Jean's: NYC at Jean’s on Thu 8 Oct, New York City. 2 artists: Bustin' Loose and Roland & Brother Rich. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

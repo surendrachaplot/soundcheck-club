@@ -1,6 +1,6 @@
 # SCENE presents Club Season: at De Sering
 
-SCENE presents Club Season: at De Sering on Sat 14 Nov, Amsterdam. Electro and Minimal Techno. Preview the line-up and save it on soundcheck.
+SCENE presents Club Season: at De Sering on Sat 14 Nov, Amsterdam. Electro and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

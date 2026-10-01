@@ -1,6 +1,6 @@
 # Patrice Bäumel pres. Halo ( Open to Close ) - Sydney at Carousel Bar & Ballroom
 
-Patrice Bäumel pres. Halo ( Open to Close ) - Sydney at Carousel Bar & Ballroom on Fri 6 Nov, Sydney. 1 artist on the bill: Patrice Bäumel. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Patrice Bäumel pres. Halo ( Open to Close ) - Sydney at Carousel Bar & Ballroom on Fri 6 Nov, Sydney. 1 artist: Patrice Bäumel. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

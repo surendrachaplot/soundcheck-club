@@ -1,6 +1,6 @@
 # soulcity - a dance thing at The Jazz Cafe
 
-soulcity - a dance thing at The Jazz Cafe on Sat 24 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+soulcity - a dance thing at The Jazz Cafe on Sat 24 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

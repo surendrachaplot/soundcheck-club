@@ -1,6 +1,6 @@
 # Mixmag Lab with Bakey, Osmosis Jones, Lola So at NUMBER 90 LONDON
 
-Mixmag Lab with Bakey, Osmosis Jones, Lola So at NUMBER 90 LONDON on Thu 1 Oct, London. 3 artists on the bill: Bakey, Lola So and Osmosis Jones. Garage. Preview the line-up and save it on soundcheck.
+Mixmag Lab with Bakey, Osmosis Jones, Lola So at NUMBER 90 LONDON on Thu 1 Oct, London. 3 artists: Bakey, Lola So and Osmosis Jones. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

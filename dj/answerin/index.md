@@ -1,8 +1,8 @@
 # ANSWER (IN)
 
-ANSWER (IN) is a Tech House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Oliva, Amsterdam on Thu, 22 Oct 2026.
+ANSWER (IN) is a Tech House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Oliva, Amsterdam on Thu, 22 Oct 2026.
 
-ANSWER (IN) is a tech house and afro house artist based in India, tracked on soundcheck, with 2 sets logged across Amsterdam. Often billed alongside AATMA, Ae:ther and Bullzeye. Next up: Oliva, Amsterdam on Thu 22 Oct.
+ANSWER (IN) is a tech house and afro house artist based in India, with 2 gigs on soundcheck across Amsterdam. Often billed alongside AATMA, Ae:ther and Bullzeye. Next up: Oliva, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 

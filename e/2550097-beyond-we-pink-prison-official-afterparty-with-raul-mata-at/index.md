@@ -1,6 +1,6 @@
 # Beyond - We Pink Prison Official Afterparty with Raul Mata at Fire
 
-Beyond - We Pink Prison Official Afterparty with Raul Mata at Fire on Sun 4 Oct, London. Tech House. Preview the line-up and save it on soundcheck.
+Beyond - We Pink Prison Official Afterparty with Raul Mata at Fire on Sun 4 Oct, London. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

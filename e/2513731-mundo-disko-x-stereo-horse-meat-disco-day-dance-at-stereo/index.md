@@ -1,6 +1,6 @@
 # Mundo Disko x Stereo: Horse Meat Disco (Day Dance) at Stereo
 
-Mundo Disko x Stereo: Horse Meat Disco (Day Dance) on Sun 25 Oct, Montreal. 3 artists on the bill: B'UGO, Horse Meat Disco and Lost Heroes. Preview the line-up and save it on soundcheck.
+Mundo Disko x Stereo: Horse Meat Disco (Day Dance) on Sun 25 Oct, Montreal. 3 artists: B'UGO, Horse Meat Disco and Lost Heroes. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

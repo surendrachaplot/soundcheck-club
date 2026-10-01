@@ -1,6 +1,6 @@
 # Unrec at Macarena Club
 
-Unrec at Macarena Club on Fri 23 Oct, Barcelona. 4 artists on the bill: Heinech, Julian Reca, Ludviq and sergione. Preview the line-up and save it on soundcheck.
+Unrec at Macarena Club on Fri 23 Oct, Barcelona. 4 artists: Heinech, Julian Reca, Ludviq and sergione. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

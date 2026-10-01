@@ -1,6 +1,6 @@
 # SWEETEST JUICE x Club Sauna at TBA
 
-SWEETEST JUICE x Club Sauna at TBA on Sat 3 Oct, Berlin. Ambient and R&B. Preview the line-up and save it on soundcheck.
+SWEETEST JUICE x Club Sauna at TBA on Sat 3 Oct, Berlin. Ambient and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

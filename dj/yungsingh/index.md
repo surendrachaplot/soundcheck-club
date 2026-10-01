@@ -1,8 +1,8 @@
 # Yung Singh
 
-Yung Singh is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at fabric, London on Fri, 2 Oct 2026.
+Yung Singh is a Garage and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Fri, 2 Oct 2026.
 
-Yung Singh is a garage and house artist based in United Kingdom, tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Auckland and Austin and 56 more. Often billed alongside Bakey, Overmono and salute. Next up: fabric, London on Fri 2 Oct.
+Yung Singh is a garage and house artist based in United Kingdom, with 179 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 56 more. Often billed alongside Bakey, Overmono and salute. Next up: fabric, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Yung Singh is a garage and house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- The Clock Factory, Bristol — Sat, 26 Sept 2026
-- World Headquarters, Newcastle — Fri, 25 Sept 2026
-- The Cause, London — Sun, 26 Jul 2026
-- TRANSMISSION DC, Washington DC — Fri, 24 Jul 2026
-- Art Club, Houston — Sat, 18 Jul 2026
-- Elsewhere, New York City — Fri, 17 Jul 2026
-- Coda, Toronto — Thu, 16 Jul 2026
-- Audio SF, San Francisco/Oakland — Sun, 12 Jul 2026
+- The Clock Factory, Bristol · Sat, 26 Sept 2026
+- World Headquarters, Newcastle · Fri, 25 Sept 2026
+- The Cause, London · Sun, 26 Jul 2026
+- TRANSMISSION DC, Washington DC · Fri, 24 Jul 2026
+- Art Club, Houston · Sat, 18 Jul 2026
+- Elsewhere, New York City · Fri, 17 Jul 2026
+- Coda, Toronto · Thu, 16 Jul 2026
+- Audio SF, San Francisco/Oakland · Sun, 12 Jul 2026
 
 ## Shares bills with
 

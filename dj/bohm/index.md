@@ -1,8 +1,8 @@
 # Bohm
 
-Bohm is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at BASIS, Utrecht on Fri, 9 Oct 2026.
+Bohm is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BASIS, Utrecht on Fri, 9 Oct 2026.
 
-Bohm is a techno and ebm artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Melbourne, Sydney and The Hague and 1 more. Often billed alongside Aroy Dee, Afra and David Vunk. Next up: BASIS, Utrecht on Fri 9 Oct.
+Bohm is a techno and ebm artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Melbourne, Sydney and The Hague and 1 more. Often billed alongside Aroy Dee, Afra and David Vunk. Next up: BASIS, Utrecht on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Bohm is a techno and ebm artist based in Netherlands, tracked on soundcheck, wit
 
 ## Recently played
 
-- NAR, Utrecht — Fri, 19 Jun 2026
-- CLUB RAUM, Amsterdam — Sat, 16 May 2026
-- NAR, Utrecht — Sat, 22 Nov 2025
-- Revolver Upstairs, Melbourne — Sun, 7 Sept 2025
-- NAR, Utrecht — Sat, 21 Jun 2025
-- Aura Nightclub, Sydney — Sat, 7 Jun 2025
-- PIP Den Haag, The Hague — Thu, 29 May 2025
-- Reveal, Utrecht — Sat, 15 Feb 2025
+- NAR, Utrecht · Fri, 19 Jun 2026
+- CLUB RAUM, Amsterdam · Sat, 16 May 2026
+- NAR, Utrecht · Sat, 22 Nov 2025
+- Revolver Upstairs, Melbourne · Sun, 7 Sept 2025
+- NAR, Utrecht · Sat, 21 Jun 2025
+- Aura Nightclub, Sydney · Sat, 7 Jun 2025
+- PIP Den Haag, The Hague · Thu, 29 May 2025
+- Reveal, Utrecht · Sat, 15 Feb 2025
 
 ## Shares bills with
 

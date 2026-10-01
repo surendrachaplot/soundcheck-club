@@ -1,6 +1,6 @@
 # L.P. Rhythm Glasgow Weekender - Sub Club at Sub Club
 
-L.P. Rhythm Glasgow Weekender - Sub Club on Thu 5 Nov, Glasgow. House. Preview the line-up and save it on soundcheck.
+L.P. Rhythm Glasgow Weekender - Sub Club on Thu 5 Nov, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

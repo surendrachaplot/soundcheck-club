@@ -1,6 +1,6 @@
 # Macadam x CONTINUUM invite Loophole • Garçon ~ Carrier ~ REDLUVED B2B Sinesthesia at Macadam
 
-Macadam x CONTINUUM invite Loophole • Garçon ~ Carrier ~ REDLUVED B2B Sinesthesia on Fri 30 Oct, Nantes. 4 artists on the bill: Carrier, Garçon, REDLUVED and Sinesthesia. Techno. Preview the line-up and save it on soundcheck.
+Macadam x CONTINUUM invite Loophole • Garçon ~ Carrier ~ REDLUVED B2B Sinesthesia on Fri 30 Oct, Nantes. 4 artists: Carrier, Garçon, REDLUVED and Sinesthesia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

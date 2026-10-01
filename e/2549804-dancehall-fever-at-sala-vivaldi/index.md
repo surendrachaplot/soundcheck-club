@@ -1,6 +1,6 @@
 # Dancehall Fever at Sala Vivaldi
 
-Dancehall Fever at Sala Vivaldi on Fri 2 Oct, Barcelona. Dancehall and Afrobeats. Preview the line-up and save it on soundcheck.
+Dancehall Fever at Sala Vivaldi on Fri 2 Oct, Barcelona. Dancehall and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

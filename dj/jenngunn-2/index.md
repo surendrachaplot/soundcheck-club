@@ -1,8 +1,8 @@
 # Jenn Gunn (2)
 
-Jenn Gunn (2) is a Garage and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cabaret Voltaire, Edinburgh on Fri, 9 Oct 2026.
+Jenn Gunn (2) is a Garage and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret Voltaire, Edinburgh on Fri, 9 Oct 2026.
 
-Jenn Gunn is a garage and house artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al. Next up: Cabaret Voltaire, Edinburgh on Fri 9 Oct.
+Jenn Gunn is a garage and house artist based in United Kingdom, with 56 gigs on soundcheck across Aberdeen, Dundee, Edinburgh and Glasgow and 1 more. Often billed alongside C Frame, Gourlay and Et Al. Next up: Cabaret Voltaire, Edinburgh on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Jenn Gunn is a garage and house artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Oran Mor, Glasgow — Tue, 15 Sept 2026
-- La Cheetah Club, Glasgow — Fri, 11 Sept 2026
-- Jupiter Artland, Edinburgh — Sat, 5 Sept 2026
-- Sneaky Pete's, Edinburgh — Tue, 18 Aug 2026
-- La Cheetah Club, Glasgow — Fri, 19 Jun 2026
-- The Berkeley Suite, Glasgow — Sun, 24 May 2026
-- Sneaky Pete's, Edinburgh — Wed, 20 May 2026
-- Sub Club, Glasgow — Fri, 15 May 2026
+- Oran Mor, Glasgow · Tue, 15 Sept 2026
+- La Cheetah Club, Glasgow · Fri, 11 Sept 2026
+- Jupiter Artland, Edinburgh · Sat, 5 Sept 2026
+- Sneaky Pete's, Edinburgh · Tue, 18 Aug 2026
+- La Cheetah Club, Glasgow · Fri, 19 Jun 2026
+- The Berkeley Suite, Glasgow · Sun, 24 May 2026
+- Sneaky Pete's, Edinburgh · Wed, 20 May 2026
+- Sub Club, Glasgow · Fri, 15 May 2026
 
 ## Shares bills with
 

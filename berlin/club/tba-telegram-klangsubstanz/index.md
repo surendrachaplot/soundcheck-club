@@ -1,8 +1,8 @@
 # TBA - telegram @klangsubstanz
 
-TBA - telegram @klangsubstanz is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "BUNKER RAVE BERLIN - KlangSubsTanz" on Sat, 10 Oct 2026.
+TBA - telegram @klangsubstanz is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "BUNKER RAVE BERLIN - KlangSubsTanz" on Sat, 10 Oct 2026.
 
-TBA - telegram @klangsubstanz is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including 403 (DE), AHAB, ATIKIN and BERLIN and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - telegram @klangsubstanz is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including 403 (DE), AHAB, ATIKIN and BERLIN and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

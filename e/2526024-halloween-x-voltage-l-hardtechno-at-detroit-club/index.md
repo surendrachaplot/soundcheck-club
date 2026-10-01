@@ -1,6 +1,6 @@
 # HALLOWEEN x VOLTAGE l HardTechno at DETROIT CLUB
 
-HALLOWEEN x VOLTAGE l HardTechno at DETROIT CLUB on Sat 31 Oct, Barcelona. Techno and Industrial. Preview the line-up and save it on soundcheck.
+HALLOWEEN x VOLTAGE l HardTechno at DETROIT CLUB on Sat 31 Oct, Barcelona. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

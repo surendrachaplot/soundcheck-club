@@ -1,8 +1,8 @@
 # Anderdox
 
-Anderdox is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ministry Of Sound, London on Sat, 10 Oct 2026.
+Anderdox is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ministry Of Sound, London on Sat, 10 Oct 2026.
 
-Anderdox is a tech house and house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, London and Rotterdam and 1 more. Often billed alongside Rayzir, ADEZ and Lola Flores. Next up: Ministry Of Sound, London on Sat 10 Oct.
+Anderdox is a tech house and house artist based in Netherlands, with 30 gigs on soundcheck across Amsterdam, Barcelona, London and Rotterdam and 1 more. Often billed alongside Rayzir, ADEZ and Lola Flores. Next up: Ministry Of Sound, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Anderdox is a tech house and house artist based in Netherlands, tracked on sound
 
 ## Recently played
 
-- Toffler, Rotterdam — Sat, 15 Aug 2026
-- Forum Station, Barcelona — Thu, 18 Jun 2026
-- Toffler, Rotterdam — Sat, 9 Aug 2025
-- Toffler, Rotterdam — Sat, 14 Jun 2025
-- Boomerang Beach, The Hague — Sat, 3 May 2025
-- Now&Wow, Rotterdam — Fri, 25 Apr 2025
-- Madam, Amsterdam — Sat, 29 Mar 2025
-- Soulkitchen, Amsterdam — Thu, 17 Oct 2024
+- Toffler, Rotterdam · Sat, 15 Aug 2026
+- Forum Station, Barcelona · Thu, 18 Jun 2026
+- Toffler, Rotterdam · Sat, 9 Aug 2025
+- Toffler, Rotterdam · Sat, 14 Jun 2025
+- Boomerang Beach, The Hague · Sat, 3 May 2025
+- Now&Wow, Rotterdam · Fri, 25 Apr 2025
+- Madam, Amsterdam · Sat, 29 Mar 2025
+- Soulkitchen, Amsterdam · Thu, 17 Oct 2024
 
 ## Shares bills with
 

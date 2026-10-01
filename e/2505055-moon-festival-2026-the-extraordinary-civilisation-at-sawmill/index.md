@@ -1,6 +1,6 @@
 # Moon Festival 2026: The Extraordinary Civilisation at Sawmills
 
-Moon Festival 2026: The Extraordinary Civilisation at Sawmills on Thu 31 Dec, Bristol. 11 artists on the bill: Bladerunner, Burt Cope, De Gladde Paling and DJ Hazard and 7 more. Preview the line-up and save it on soundcheck.
+Moon Festival 2026: The Extraordinary Civilisation at Sawmills on Thu 31 Dec, Bristol. 11 artists: Bladerunner, Burt Cope, De Gladde Paling and DJ Hazard and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

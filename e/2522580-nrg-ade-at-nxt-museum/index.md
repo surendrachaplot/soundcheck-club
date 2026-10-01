@@ -1,6 +1,6 @@
 # NRG ADE at Nxt Museum
 
-NRG ADE at Nxt Museum on Fri 23 Oct, Amsterdam. 7 artists on the bill: blk., DATSKO, JAZZY and Jezza & Jod and 3 more. Techno. Preview the line-up and save it on soundcheck.
+NRG ADE at Nxt Museum on Fri 23 Oct, Amsterdam. 7 artists: blk., DATSKO, JAZZY and Jezza & Jod and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

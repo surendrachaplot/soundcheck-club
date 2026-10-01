@@ -1,6 +1,6 @@
 # I Love R&B Spookfest Halloween Day Party Sheffield at Network
 
-I Love R&B Spookfest Halloween Day Party Sheffield at Network on Sat 31 Oct, Sheffield. Dancehall and R&B. Preview the line-up and save it on soundcheck.
+I Love R&B Spookfest Halloween Day Party Sheffield at Network on Sat 31 Oct, Sheffield. Dancehall and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

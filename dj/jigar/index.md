@@ -1,8 +1,8 @@
 # Jigar
 
-Jigar is a Afro House and Afro Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
+Jigar is a Afro House and Afro Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bulldog Hotel, Amsterdam on Fri, 23 Oct 2026.
 
-Jigar is an afro house and afro tech artist based in Portugal, tracked on soundcheck, with 9 sets logged across Amsterdam, Lisbon and London. Often billed alongside BADBOX, Pascal Morais and ADRI (LV). Next up: The Bulldog Hotel, Amsterdam on Fri 23 Oct.
+Jigar is an afro house and afro tech artist based in Portugal, with 9 gigs on soundcheck across Amsterdam, Lisbon and London. Often billed alongside BADBOX, Pascal Morais and ADRI (LV). Next up: The Bulldog Hotel, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jigar is an afro house and afro tech artist based in Portugal, tracked on soundc
 
 ## Recently played
 
-- Lorosae Bar, Lisbon — Sat, 18 Jul 2026
-- Madam, Amsterdam — Sat, 4 Jul 2026
-- Backyard, Lisbon — Fri, 3 Oct 2025
-- Madam, Amsterdam — Sat, 9 Aug 2025
-- Lorosae Bar, Lisbon — Sat, 19 Jul 2025
-- Praia Irmão, Lisbon — Thu, 19 Jun 2025
-- Blue Marlin Ibiza London, London — Sat, 12 Apr 2025
-- Egg London, London — Sat, 4 May 2024
+- Lorosae Bar, Lisbon · Sat, 18 Jul 2026
+- Madam, Amsterdam · Sat, 4 Jul 2026
+- Backyard, Lisbon · Fri, 3 Oct 2025
+- Madam, Amsterdam · Sat, 9 Aug 2025
+- Lorosae Bar, Lisbon · Sat, 19 Jul 2025
+- Praia Irmão, Lisbon · Thu, 19 Jun 2025
+- Blue Marlin Ibiza London, London · Sat, 12 Apr 2025
+- Egg London, London · Sat, 4 May 2024
 
 ## Shares bills with
 

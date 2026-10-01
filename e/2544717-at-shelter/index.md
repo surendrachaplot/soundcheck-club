@@ -1,6 +1,6 @@
 # 一万尺 at SHeLTeR
 
-一万尺 at SHeLTeR on Tue 6 Oct, Tokyo. 1 artist on the bill: TAISEI. Preview the line-up and save it on soundcheck.
+一万尺 at SHeLTeR on Tue 6 Oct, Tokyo. 1 artist: TAISEI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Giri x Currents at Giri
 
-Giri x Currents on Wed 21 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Giri x Currents on Wed 21 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

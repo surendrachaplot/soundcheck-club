@@ -1,8 +1,8 @@
 # Wintermute
 
-Wintermute is a Drum & Bass and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery, Leipzig on Fri, 2 Oct 2026.
+Wintermute is a Drum & Bass and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Fri, 2 Oct 2026.
 
-Wintermute is a drum & bass and jungle artist based in Germany, tracked on soundcheck, with 6 sets logged across Athens and Leipzig. Often billed alongside Baggymilziade, Cuepric and Dubbalot. Next up: Distillery, Leipzig on Fri 2 Oct.
+Wintermute is a drum & bass and jungle artist based in Germany, with 6 gigs on soundcheck across Athens and Leipzig. Often billed alongside Baggymilziade, Cuepric and Dubbalot. Next up: Distillery, Leipzig on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Wintermute is a drum & bass and jungle artist based in Germany, tracked on sound
 
 ## Recently played
 
-- Distillery, Leipzig — Fri, 9 Jan 2026
-- elipamanoke, Leipzig — Sat, 18 Oct 2025
-- Latraac, Athens — Fri, 20 Sept 2024
-- Latraac, Athens — Fri, 13 Sept 2024
-- elipamanoke, Leipzig — Sat, 25 Feb 2023
+- Distillery, Leipzig · Fri, 9 Jan 2026
+- elipamanoke, Leipzig · Sat, 18 Oct 2025
+- Latraac, Athens · Fri, 20 Sept 2024
+- Latraac, Athens · Fri, 13 Sept 2024
+- elipamanoke, Leipzig · Sat, 25 Feb 2023
 
 ## Shares bills with
 

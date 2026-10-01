@@ -1,6 +1,6 @@
 # Dure Vie & Talent Boutique with Bambounou, Teki Latex, Florian Picasso b2b Two Dots, Belaria at Rokin 75 / The Amsterdam View
 
-Dure Vie & Talent Boutique with Bambounou, Teki Latex, Florian Picasso b2b Two Dots, Belaria at Rokin 75 / The Amsterdam View on Fri 23 Oct, Amsterdam. 8 artists on the bill: Bambounou, Belaria, Dylan Dylan and Florian Picasso and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Dure Vie & Talent Boutique with Bambounou, Teki Latex, Florian Picasso b2b Two Dots, Belaria at Rokin 75 / The Amsterdam View on Fri 23 Oct, Amsterdam. 8 artists: Bambounou, Belaria, Dylan Dylan and Florian Picasso and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

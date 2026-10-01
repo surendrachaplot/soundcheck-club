@@ -1,6 +1,6 @@
 # fumi, Sylvia, David Garset, Milo Makua at Hangaren
 
-fumi, Sylvia, David Garset, Milo Makua at Hangaren on Fri 6 Nov, Copenhagen. 4 artists on the bill: David Garset, fumi (DE), Milo Makua and Sylvia (ES). Techno. Preview the line-up and save it on soundcheck.
+fumi, Sylvia, David Garset, Milo Makua at Hangaren on Fri 6 Nov, Copenhagen. 4 artists: David Garset, fumi (DE), Milo Makua and Sylvia (ES). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

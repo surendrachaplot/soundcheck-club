@@ -1,8 +1,8 @@
 # Chee Shimizu
 
-Chee Shimizu is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bonobo, Tokyo on Sun, 11 Oct 2026.
+Chee Shimizu is a House and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bonobo, Tokyo on Sun, 11 Oct 2026.
 
-Chee Shimizu is a house and balearic artist based in Japan, tracked on soundcheck, with 34 sets logged across Bali, Los Angeles, Melbourne and New York City and 2 more. Often billed alongside AKIRAM EN, Justin Carter and Dr. Nishimura. Next up: Bonobo, Tokyo on Sun 11 Oct.
+Chee Shimizu is a house and balearic artist based in Japan, with 34 gigs on soundcheck across Bali, Los Angeles, Melbourne and New York City and 2 more. Often billed alongside AKIRAM EN, Justin Carter and Dr. Nishimura. Next up: Bonobo, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Chee Shimizu is a house and balearic artist based in Japan, tracked on soundchec
 
 ## Recently played
 
-- TBA - Private Loft, New York City — Sat, 19 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Nowadays, New York City — Sat, 12 Sept 2026
-- Heavy Sick Zero, Tokyo — Sat, 29 Aug 2026
-- Potato Head Beach Club, Bali — Fri, 21 Aug 2026
-- SHeLTeR, Tokyo — Fri, 14 Aug 2026
-- SHeLTeR, Tokyo — Fri, 10 Jul 2026
-- Cafein, Tokyo — Sun, 5 Jul 2026
+- TBA - Private Loft, New York City · Sat, 19 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Nowadays, New York City · Sat, 12 Sept 2026
+- Heavy Sick Zero, Tokyo · Sat, 29 Aug 2026
+- Potato Head Beach Club, Bali · Fri, 21 Aug 2026
+- SHeLTeR, Tokyo · Fri, 14 Aug 2026
+- SHeLTeR, Tokyo · Fri, 10 Jul 2026
+- Cafein, Tokyo · Sun, 5 Jul 2026
 
 ## Shares bills with
 

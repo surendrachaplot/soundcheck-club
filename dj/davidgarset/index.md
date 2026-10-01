@@ -1,8 +1,8 @@
 # David Garset
 
-David Garset is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Jolene, Copenhagen on Sat, 3 Oct 2026.
+David Garset is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jolene, Copenhagen on Sat, 3 Oct 2026.
 
-David Garset is a techno and house artist based in Denmark, tracked on soundcheck, with 38 sets logged across Copenhagen. Often billed alongside Kawun, Milo Makua and Lucky Lube. Next up: Jolene, Copenhagen on Sat 3 Oct.
+David Garset is a techno and house artist based in Denmark, with 38 gigs on soundcheck across Copenhagen. Often billed alongside Kawun, Milo Makua and Lucky Lube. Next up: Jolene, Copenhagen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ David Garset is a techno and house artist based in Denmark, tracked on soundchec
 
 ## Recently played
 
-- MODULE, Copenhagen — Fri, 4 Sept 2026
-- Hangaren, Copenhagen — Fri, 21 Aug 2026
-- Hangaren, Copenhagen — Fri, 24 Jul 2026
-- Hangaren, Copenhagen — Fri, 17 Apr 2026
-- Hangaren, Copenhagen — Fri, 6 Mar 2026
-- Hangaren, Copenhagen — Fri, 14 Nov 2025
-- Hangaren, Copenhagen — Sat, 27 Sept 2025
-- MODULE, Copenhagen — Sat, 9 Aug 2025
+- MODULE, Copenhagen · Fri, 4 Sept 2026
+- Hangaren, Copenhagen · Fri, 21 Aug 2026
+- Hangaren, Copenhagen · Fri, 24 Jul 2026
+- Hangaren, Copenhagen · Fri, 17 Apr 2026
+- Hangaren, Copenhagen · Fri, 6 Mar 2026
+- Hangaren, Copenhagen · Fri, 14 Nov 2025
+- Hangaren, Copenhagen · Sat, 27 Sept 2025
+- MODULE, Copenhagen · Sat, 9 Aug 2025
 
 ## Shares bills with
 

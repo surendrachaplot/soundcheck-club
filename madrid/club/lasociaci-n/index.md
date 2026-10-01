@@ -1,8 +1,8 @@
 # Lasociaciøn
 
-Lasociaciøn is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Bunkers Collective w / Victor, Marius Bø & Montse B2B KATIA" on Fri, 2 Oct 2026.
+Lasociaciøn is a music venue in Madrid with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bunkers Collective w / Victor, Marius Bø & Montse B2B KATIA" on Fri, 2 Oct 2026.
 
-Lasociaciøn is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alex (ES), AMBRA, Atomic moog and Audiolux and 2 more. Browse upcoming dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
+Lasociaciøn is a music venue in Madrid listed on soundcheck. 10 upcoming gigs, with line-ups including Alex (ES), AMBRA, Atomic moog and Audiolux and 2 more. See dates, start times and who's playing. C. Gamonal, 5, 28031 Madrid.
 
 ## What's on
 

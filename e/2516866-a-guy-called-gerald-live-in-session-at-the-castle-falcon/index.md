@@ -1,6 +1,6 @@
 # A Guy Called Gerald - Live In Session at The Castle & Falcon
 
-A Guy Called Gerald - Live In Session at The Castle & Falcon on Wed 4 Nov, Birmingham. 1 artist on the bill: A Guy Called Gerald. House and Acid. Preview the line-up and save it on soundcheck.
+A Guy Called Gerald - Live In Session at The Castle & Falcon on Wed 4 Nov, Birmingham. 1 artist: A Guy Called Gerald. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

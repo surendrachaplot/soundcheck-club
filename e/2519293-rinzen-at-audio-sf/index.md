@@ -1,6 +1,6 @@
 # Rinzen at Audio SF
 
-Rinzen at Audio SF on Fri 27 Nov, San Francisco/Oakland. 1 artist on the bill: Rinzen. Preview the line-up and save it on soundcheck.
+Rinzen at Audio SF on Fri 27 Nov, San Francisco/Oakland. 1 artist: Rinzen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Luigi Madonna
 
-Luigi Madonna is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
+Luigi Madonna is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bulldog Palace, Amsterdam on Fri, 23 Oct 2026.
 
-Luigi Madonna is a techno and house artist based in Italy, tracked on soundcheck, with 60 sets logged across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside Indira Paganotto, Markantonio and Joseph Capriati. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
+Luigi Madonna is a techno and house artist based in Italy, with 60 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 23 more. Often billed alongside Indira Paganotto, Markantonio and Joseph Capriati. Next up: The Bulldog Palace, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Luigi Madonna is a techno and house artist based in Italy, tracked on soundcheck
 
 ## Recently played
 
-- TILLATEC, Amsterdam — Sat, 26 Sept 2026
-- Motorista Studio, Toronto — Sat, 29 Aug 2026
-- Stereo, Montreal — Fri, 28 Aug 2026
-- TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver — Sat, 22 Aug 2026
-- Amnesia Ibiza, Ibiza — Tue, 28 Jul 2026
-- TBA - RSVP, Rotterdam — Sat, 25 Jul 2026
-- Hype Discoteca, Naples — Sat, 28 Feb 2026
-- Club Partenopeo, Naples — Mon, 5 Jan 2026
+- TILLATEC, Amsterdam · Sat, 26 Sept 2026
+- Motorista Studio, Toronto · Sat, 29 Aug 2026
+- Stereo, Montreal · Fri, 28 Aug 2026
+- TBA - Frankie's (1201 Franklin St, Vancouver, BC V6A 1L2), Vancouver · Sat, 22 Aug 2026
+- Amnesia Ibiza, Ibiza · Tue, 28 Jul 2026
+- TBA - RSVP, Rotterdam · Sat, 25 Jul 2026
+- Hype Discoteca, Naples · Sat, 28 Feb 2026
+- Club Partenopeo, Naples · Mon, 5 Jan 2026
 
 ## Shares bills with
 

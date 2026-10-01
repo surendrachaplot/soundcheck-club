@@ -1,6 +1,6 @@
 # Ensemble at La Gata del Born
 
-Ensemble at La Gata del Born on Sat 17 Oct, Barcelona. Dembow and Afrobeats. Preview the line-up and save it on soundcheck.
+Ensemble at La Gata del Born on Sat 17 Oct, Barcelona. Dembow and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

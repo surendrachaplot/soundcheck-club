@@ -1,6 +1,6 @@
 # Kacper & Jasper present: A Night Of City Pop 3.0 at Piccadilly Central
 
-Kacper & Jasper present: A Night Of City Pop 3.0 at Piccadilly Central on Sat 17 Oct, Manchester. 1 artist on the bill: Kacper Pieta. Preview the line-up and save it on soundcheck.
+Kacper & Jasper present: A Night Of City Pop 3.0 at Piccadilly Central on Sat 17 Oct, Manchester. 1 artist: Kacper Pieta. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

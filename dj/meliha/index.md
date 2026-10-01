@@ -1,8 +1,8 @@
 # Meliha
 
-Meliha is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+Meliha is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
 
-Meliha is a techno and house artist based in Malaysia, tracked on soundcheck, with 108 sets logged across Bali, Bangkok, Kuala Lumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
+Meliha is a techno and house artist based in Malaysia, with 108 gigs on soundcheck across Bali, Bangkok, Kuala Lumpur and Singapore. Often billed alongside Obadius, Biscuit (MY) and OtherKind. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Meliha is a techno and house artist based in Malaysia, tracked on soundcheck, wi
 
 ## Recently played
 
-- Pisco Bar, Kuala Lumpur — Sat, 5 Sept 2026
-- TBA - Neo Bar KL, Level 37 Ilham Tower, Jalan Binjai 8, 50450, Kuala Lumpur — Fri, 4 Sept 2026
-- Wet Deck at W Hotel, Kuala Lumpur — Sat, 29 Aug 2026
-- TBA - JOLOKO, Kuala Lumpur — Sat, 22 Aug 2026
-- Pisco Bar, Kuala Lumpur — Fri, 21 Aug 2026
-- TBA - Neo Bar KL - Jalan Binjai 8, Ilham Tower Level 37 ,KLCC, 50450, Kuala Lumpur — Fri, 31 Jul 2026
-- The Iron Fairies Kuala Lumpur, Kuala Lumpur — Fri, 24 Jul 2026
-- The Iron Fairies Kuala Lumpur, Kuala Lumpur — Sat, 18 Jul 2026
+- Pisco Bar, Kuala Lumpur · Sat, 5 Sept 2026
+- TBA - Neo Bar KL, Level 37 Ilham Tower, Jalan Binjai 8, 50450, Kuala Lumpur · Fri, 4 Sept 2026
+- Wet Deck at W Hotel, Kuala Lumpur · Sat, 29 Aug 2026
+- TBA - JOLOKO, Kuala Lumpur · Sat, 22 Aug 2026
+- Pisco Bar, Kuala Lumpur · Fri, 21 Aug 2026
+- TBA - Neo Bar KL - Jalan Binjai 8, Ilham Tower Level 37 ,KLCC, 50450, Kuala Lumpur · Fri, 31 Jul 2026
+- The Iron Fairies Kuala Lumpur, Kuala Lumpur · Fri, 24 Jul 2026
+- The Iron Fairies Kuala Lumpur, Kuala Lumpur · Sat, 18 Jul 2026
 
 ## Shares bills with
 

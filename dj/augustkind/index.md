@@ -1,8 +1,8 @@
 # August Kind
 
-August Kind is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+August Kind is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
-August Kind is a techno and trance artist based in Germany, tracked on soundcheck, with 72 sets logged across Berlin, Budapest and Munich. Often billed alongside Deltapeak, bbymeister and jeanska. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+August Kind is a techno and trance artist based in Germany, with 72 gigs on soundcheck across Berlin, Budapest and Munich. Often billed alongside Deltapeak, bbymeister and jeanska. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ August Kind is a techno and trance artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Der Weiße Hase, Berlin — Tue, 15 Sept 2026
-- ://about blank, Berlin — Fri, 4 Sept 2026
-- ÆDEN, Berlin — Fri, 21 Aug 2026
-- Lokschuppen Berlin, Berlin — Sun, 16 Aug 2026
-- Lokschuppen Berlin, Berlin — Fri, 24 Jul 2026
-- Der Weiße Hase, Berlin — Tue, 7 Jul 2026
-- ÆDEN, Berlin — Fri, 3 Jul 2026
-- Humboldthain Club, Berlin — Fri, 26 Jun 2026
+- Der Weiße Hase, Berlin · Tue, 15 Sept 2026
+- ://about blank, Berlin · Fri, 4 Sept 2026
+- ÆDEN, Berlin · Fri, 21 Aug 2026
+- Lokschuppen Berlin, Berlin · Sun, 16 Aug 2026
+- Lokschuppen Berlin, Berlin · Fri, 24 Jul 2026
+- Der Weiße Hase, Berlin · Tue, 7 Jul 2026
+- ÆDEN, Berlin · Fri, 3 Jul 2026
+- Humboldthain Club, Berlin · Fri, 26 Jun 2026
 
 ## Shares bills with
 

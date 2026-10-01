@@ -1,6 +1,6 @@
 # Krazed X Hardcore Energy at Ouseburn Garden
 
-Krazed X Hardcore Energy at Ouseburn Garden on Sat 7 Nov, Newcastle. 4 artists on the bill: Cheff The Boy, Hypershe, Janaway and Origin8a & Propa. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+Krazed X Hardcore Energy at Ouseburn Garden on Sat 7 Nov, Newcastle. 4 artists: Cheff The Boy, Hypershe, Janaway and Origin8a & Propa. Hardcore and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

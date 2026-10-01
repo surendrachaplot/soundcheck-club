@@ -1,6 +1,6 @@
 # AURA: HALLOWEEN 2026 at The Dog & Partridge
 
-AURA: HALLOWEEN 2026 at The Dog & Partridge on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+AURA: HALLOWEEN 2026 at The Dog & Partridge on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

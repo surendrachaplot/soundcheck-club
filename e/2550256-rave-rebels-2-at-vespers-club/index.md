@@ -1,6 +1,6 @@
 # Rave Rebels 2 at Vespers Club
 
-Rave Rebels 2 at Vespers Club on Sat 17 Oct, London. 3 artists on the bill: Cosmic Caz, Franzine and Princess Elf Bar. Techno and Electro. Preview the line-up and save it on soundcheck.
+Rave Rebels 2 at Vespers Club on Sat 17 Oct, London. 3 artists: Cosmic Caz, Franzine and Princess Elf Bar. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

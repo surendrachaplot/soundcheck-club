@@ -1,6 +1,6 @@
 # Elastica: KLOUD ❚ AUDRIUS ŠĖLSTA ❚ Jeuxusse ❚ Sinisteria at Elastica
 
-Elastica: KLOUD ❚ AUDRIUS ŠĖLSTA ❚ Jeuxusse ❚ Sinisteria on Fri 9 Oct, Vilnius. 4 artists on the bill: Audrius Ramuva, Jeuxusse, KLOUD and Sinisteria. Preview the line-up and save it on soundcheck.
+Elastica: KLOUD ❚ AUDRIUS ŠĖLSTA ❚ Jeuxusse ❚ Sinisteria on Fri 9 Oct, Vilnius. 4 artists: Audrius Ramuva, Jeuxusse, KLOUD and Sinisteria. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

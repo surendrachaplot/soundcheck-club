@@ -1,8 +1,8 @@
 # Lvls
 
-Lvls is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "NO LIMIT MUSIC x 1337OS // BREACH_01 — New Gamified Live Show" on Fri, 2 Oct 2026.
+Lvls is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "NO LIMIT MUSIC x 1337OS // BREACH_01 — New Gamified Live Show" on Fri, 2 Oct 2026.
 
-Lvls is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including External Subway and MC No Limit. Browse upcoming dates, start times and who's playing. 3 Sucession Walk, Fish Island, London E3 2RX.
+Lvls is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including External Subway and MC No Limit. See dates, start times and who's playing. 3 Sucession Walk, Fish Island, London E3 2RX.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Eat The Beat Saturdays at TBA - Il Mercato Centrale
 
-Eat The Beat Saturdays at TBA - Il Mercato Centrale on Sat 10 Oct, Melbourne. 8 artists on the bill: Etwas, KAAI, Korey Dobson and LULU and 4 more. Techno and UK Funky. Preview the line-up and save it on soundcheck.
+Eat The Beat Saturdays at TBA - Il Mercato Centrale on Sat 10 Oct, Melbourne. 8 artists: Etwas, KAAI, Korey Dobson and LULU and 4 more. Techno and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Industria presents: x3butterfly at TBA - Black Circle 
 
-Industria presents: x3butterfly at TBA - Black Circle  on Fri 16 Oct, Indiana. 3 artists on the bill: Amino, Tico Barber and x3butterfly. Preview the line-up and save it on soundcheck.
+Industria presents: x3butterfly at TBA - Black Circle  on Fri 16 Oct, Indiana. 3 artists: Amino, Tico Barber and x3butterfly. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

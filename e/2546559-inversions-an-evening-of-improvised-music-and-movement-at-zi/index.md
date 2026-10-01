@@ -1,6 +1,6 @@
 # Inversions: An Evening of Improvised Music and Movement at Ziggy's
 
-Inversions: An Evening of Improvised Music and Movement at Ziggy's on Mon 12 Oct, Detroit. Experimental. Preview the line-up and save it on soundcheck.
+Inversions: An Evening of Improvised Music and Movement at Ziggy's on Mon 12 Oct, Detroit. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

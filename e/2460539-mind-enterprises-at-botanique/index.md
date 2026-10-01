@@ -1,6 +1,6 @@
 # Mind Enterprises at Botanique
 
-Mind Enterprises at Botanique on Thu 22 Oct, Brussels. Electro. Preview the line-up and save it on soundcheck.
+Mind Enterprises at Botanique on Thu 22 Oct, Brussels. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

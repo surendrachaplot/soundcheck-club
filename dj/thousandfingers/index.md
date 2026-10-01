@@ -1,8 +1,8 @@
 # Thousand Fingers
 
-Thousand Fingers is a Afro Tech and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Maya(Inca’s night club), London on Thu, 1 Oct 2026.
+Thousand Fingers is a Afro Tech and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Maya(Inca’s night club), London on Thu, 1 Oct 2026.
 
-Thousand Fingers is an afro tech and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Istanbul and London. Often billed alongside Caspa Mono, Cordioli and Geminis. Next up: TBA - Maya(Inca’s night club), London on Thu 1 Oct.
+Thousand Fingers is an afro tech and house artist based in United Kingdom, with 6 gigs on soundcheck across Istanbul and London. Often billed alongside Caspa Mono, Cordioli and Geminis. Next up: TBA - Maya(Inca’s night club), London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Thousand Fingers is an afro tech and house artist based in United Kingdom, track
 
 ## Recently played
 
-- The END Istanbul, Istanbul — Sat, 15 Aug 2026
-- 360Istanbul, Istanbul — Fri, 14 Aug 2026
-- Club Cheek, London — Sat, 18 Jul 2026
-- 77, London — Sat, 20 Jun 2026
-- B London, London — Fri, 13 Jun 2025
+- The END Istanbul, Istanbul · Sat, 15 Aug 2026
+- 360Istanbul, Istanbul · Fri, 14 Aug 2026
+- Club Cheek, London · Sat, 18 Jul 2026
+- 77, London · Sat, 20 Jun 2026
+- B London, London · Fri, 13 Jun 2025
 
 ## Shares bills with
 

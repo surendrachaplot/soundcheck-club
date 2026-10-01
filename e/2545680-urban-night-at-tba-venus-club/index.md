@@ -1,6 +1,6 @@
 # URBAN NIGHT at TBA - Venus Club
 
-URBAN NIGHT at TBA - Venus Club on Thu 1 Oct, Tallinn. Pop and Club. Preview the line-up and save it on soundcheck.
+URBAN NIGHT at TBA - Venus Club on Thu 1 Oct, Tallinn. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

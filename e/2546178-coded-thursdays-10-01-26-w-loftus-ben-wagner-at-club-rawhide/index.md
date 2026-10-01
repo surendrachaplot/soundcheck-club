@@ -1,6 +1,6 @@
 # CODED Thursdays 10.01.26 w/ LOFTUS, Ben Wagner at Club Rawhide
 
-CODED Thursdays 10.01.26 w/ LOFTUS, Ben Wagner at Club Rawhide on Thu 1 Oct, New York City. 2 artists on the bill: Ben Wagner and LOFTUS. Techno and House. Preview the line-up and save it on soundcheck.
+CODED Thursdays 10.01.26 w/ LOFTUS, Ben Wagner at Club Rawhide on Thu 1 Oct, New York City. 2 artists: Ben Wagner and LOFTUS. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Crown Pier
 
-Crown Pier is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Party! Party! Halloween Boat Party plus free after party" on Thu, 29 Oct 2026.
+Crown Pier is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Party! Party! Halloween Boat Party plus free after party" on Thu, 29 Oct 2026.
 
-Crown Pier is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Eddie Van Poppel, Max E Groove, Mr Fresh Official and NYCity Soundz and 2 more. Browse upcoming dates, start times and who's playing. Victoria Embankment, London EC4Y 0HJ.
+Crown Pier is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Eddie Van Poppel, Max E Groove, Mr Fresh Official and NYCity Soundz and 2 more. See dates, start times and who's playing. Victoria Embankment, London EC4Y 0HJ.
 
 ## What's on
 

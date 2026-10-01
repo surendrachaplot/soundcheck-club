@@ -1,6 +1,6 @@
 # 14 Jahre Bunkernacht at Goethebunker
 
-14 Jahre Bunkernacht at Goethebunker on Fri 2 Oct, Dortmund Essen. 2 artists on the bill: Amotik and EPHIE. Techno. Preview the line-up and save it on soundcheck.
+14 Jahre Bunkernacht at Goethebunker on Fri 2 Oct, Dortmund Essen. 2 artists: Amotik and EPHIE. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

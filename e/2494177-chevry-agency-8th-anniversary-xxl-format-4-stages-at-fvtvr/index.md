@@ -1,6 +1,6 @@
 # CHEVRY AGENCY: 8TH ANNIVERSARY [XXL FORMAT · 4 STAGES] at Fvtvr
 
-CHEVRY AGENCY: 8TH ANNIVERSARY [XXL FORMAT · 4 STAGES] at Fvtvr on Fri 9 Oct, Paris. 29 artists on the bill: Adrien Calvet, Akaj, Alyhas and B.Love and 25 more. House and Acid. Preview the line-up and save it on soundcheck.
+CHEVRY AGENCY: 8TH ANNIVERSARY [XXL FORMAT · 4 STAGES] at Fvtvr on Fri 9 Oct, Paris. 29 artists: Adrien Calvet, Akaj, Alyhas and B.Love and 25 more. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

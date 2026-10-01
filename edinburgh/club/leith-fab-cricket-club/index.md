@@ -1,8 +1,8 @@
 # Leith FAB Cricket Club
 
-Leith FAB Cricket Club is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Portavibe DJs Birthday Bash" on Fri, 2 Oct 2026.
+Leith FAB Cricket Club is a music venue in Edinburgh with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Portavibe DJs Birthday Bash" on Fri, 2 Oct 2026.
 
-Leith FAB Cricket Club is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Athens of the North, eosap, Juan Mare and Linkwood and 1 more. Browse upcoming dates, start times and who's playing. 1 Leith Links, Leith, Edinburgh EH6 7QR.
+Leith FAB Cricket Club is a music venue in Edinburgh listed on soundcheck. 3 upcoming gigs, with line-ups including Athens of the North, eosap, Juan Mare and Linkwood and 1 more. See dates, start times and who's playing. 1 Leith Links, Leith, Edinburgh EH6 7QR.
 
 ## What's on
 

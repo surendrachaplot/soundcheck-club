@@ -1,6 +1,6 @@
 # Sidechain with Kanyon, DJ Linda, Conor Krane, & Piner at Bossa Nova Civic Club
 
-Sidechain with Kanyon, DJ Linda, Conor Krane, & Piner at Bossa Nova Civic Club on Mon 19 Oct, New York City. 3 artists on the bill: DJ Linda, Kanyon and Piner. Techno. Preview the line-up and save it on soundcheck.
+Sidechain with Kanyon, DJ Linda, Conor Krane, & Piner at Bossa Nova Civic Club on Mon 19 Oct, New York City. 3 artists: DJ Linda, Kanyon and Piner. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bashment Shoreditch Party - Free Before Midnight at The Cornershop Bar
 
-Bashment Shoreditch Party - Free Before Midnight at The Cornershop Bar on Fri 23 Oct, London. Preview the line-up and save it on soundcheck.
+Bashment Shoreditch Party - Free Before Midnight at The Cornershop Bar on Fri 23 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

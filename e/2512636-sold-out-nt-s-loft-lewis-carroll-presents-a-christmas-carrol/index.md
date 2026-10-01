@@ -1,6 +1,6 @@
 # [SOLD OUT] NT's Loft: Lewis Carroll presents 'A Christmas Carroll' at Night Tales Loft
 
-[SOLD OUT] NT's Loft: Lewis Carroll presents 'A Christmas Carroll' at Night Tales Loft on Sat 5 Dec, London. 1 artist on the bill: Lewis Carroll. Preview the line-up and save it on soundcheck.
+[SOLD OUT] NT's Loft: Lewis Carroll presents 'A Christmas Carroll' at Night Tales Loft on Sat 5 Dec, London. 1 artist: Lewis Carroll. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

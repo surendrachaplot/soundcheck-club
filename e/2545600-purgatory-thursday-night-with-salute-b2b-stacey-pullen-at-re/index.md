@@ -1,6 +1,6 @@
 # PURGATORY: Thursday Night with salute B2B Stacey Pullen at Refuge
 
-PURGATORY: Thursday Night with salute B2B Stacey Pullen at Refuge on Thu 29 Oct, New York City. 2 artists on the bill: salute and Stacey Pullen. Preview the line-up and save it on soundcheck.
+PURGATORY: Thursday Night with salute B2B Stacey Pullen at Refuge on Thu 29 Oct, New York City. 2 artists: salute and Stacey Pullen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Klubnacht with Michael Mayer - all night long- at Gewölbe
 
-Klubnacht with Michael Mayer - all night long- at Gewölbe on Sat 14 Nov, Cologne. 1 artist on the bill: Michael Mayer. Preview the line-up and save it on soundcheck.
+Klubnacht with Michael Mayer - all night long- at Gewölbe on Sat 14 Nov, Cologne. 1 artist: Michael Mayer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

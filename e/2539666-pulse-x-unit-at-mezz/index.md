@@ -1,6 +1,6 @@
 # PULSE x UNIT at Mezz
 
-PULSE x UNIT at Mezz on Fri 27 Nov, Netherlands. 7 artists on the bill: Dave Clarke, GiGi FM, Nikos and Spekki Webu and 3 more. Preview the line-up and save it on soundcheck.
+PULSE x UNIT at Mezz on Fri 27 Nov, Netherlands. 7 artists: Dave Clarke, GiGi FM, Nikos and Spekki Webu and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

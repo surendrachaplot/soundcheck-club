@@ -1,8 +1,8 @@
 # TBA - 4622 S King Dr.
 
-TBA - 4622 S King Dr. is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Afrofuturist Dance Party" on Fri, 2 Oct 2026.
+TBA - 4622 S King Dr. is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Afrofuturist Dance Party" on Fri, 2 Oct 2026.
 
-TBA - 4622 S King Dr. is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including CTRLZORA and Duane Powell. Browse upcoming dates, start times and who's playing.
+TBA - 4622 S King Dr. is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including CTRLZORA and Duane Powell. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Perjantaijatkot Stidilässä – Huijari & iamtro at Stidilä
 
-Perjantaijatkot Stidilässä – Huijari & iamtro on Sat 24 Oct, Helsinki. 1 artist on the bill: Huijari. Preview the line-up and save it on soundcheck.
+Perjantaijatkot Stidilässä – Huijari & iamtro on Sat 24 Oct, Helsinki. 1 artist: Huijari. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

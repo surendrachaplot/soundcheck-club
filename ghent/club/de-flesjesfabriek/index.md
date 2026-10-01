@@ -1,8 +1,8 @@
 # De Flesjesfabriek
 
-De Flesjesfabriek is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Benwal b2b Helena Lauwaert (All Day Long)" on Fri, 16 Oct 2026.
+De Flesjesfabriek is a music venue in Ghent with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Benwal b2b Helena Lauwaert (All Day Long)" on Fri, 16 Oct 2026.
 
-De Flesjesfabriek is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, with line-ups including Benwal, CALLUSH, EMILIJA and FJUSHA and 2 more. Browse upcoming dates, start times and who's playing. Loskaai 1, 9000, Gent.
+De Flesjesfabriek is a music venue in Ghent listed on soundcheck. 2 upcoming gigs, with line-ups including Benwal, CALLUSH, EMILIJA and FJUSHA and 2 more. See dates, start times and who's playing. Loskaai 1, 9000, Gent.
 
 ## What's on
 

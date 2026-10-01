@@ -1,6 +1,6 @@
 # HARD TECHNO 'CRACKS' with FENGX2, LIZA, Kaoll, inudog system, Shuk00, MATSUGE, ZAGUN at Blvck Water
 
-HARD TECHNO 'CRACKS' with FENGX2, LIZA, Kaoll, inudog system, Shuk00, MATSUGE, ZAGUN at Blvck Water on Fri 2 Oct, Osaka. 5 artists on the bill: FENGX2, inudog system, Kaoll and LIZA and 1 more. Techno. Preview the line-up and save it on soundcheck.
+HARD TECHNO 'CRACKS' with FENGX2, LIZA, Kaoll, inudog system, Shuk00, MATSUGE, ZAGUN at Blvck Water on Fri 2 Oct, Osaka. 5 artists: FENGX2, inudog system, Kaoll and LIZA and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 22 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Sunshine Coast, South-australia on Fri, 2 Oct 2026.
+Mariano Mellino is a Progressive House and Techno artist with 23 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Sunshine Coast, South-australia on Fri, 2 Oct 2026.
 
-Mariano Mellino is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 88 sets logged across Amsterdam, Auckland, Barcelona and Buenos Aires and 25 more. Often billed alongside Guy J, Henry Saiz and MASANORI MORITA. Next up: TBA - Sunshine Coast, South Australia on Fri 2 Oct.
+Mariano Mellino is a progressive house and techno artist based in Argentina, with 89 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Buenos Aires and 25 more. Often billed alongside Guy J, Colyn and Henry Saiz. Next up: TBA - Sunshine Coast, South Australia on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,17 +23,17 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, tra
 
 ## Recently played
 
-- TBA, Mexico City — Sat, 26 Sept 2026
-- Pasaje America, Mexico City — Sat, 26 Sept 2026
-- Bridge Gardens, Glasgow — Sat, 26 Sept 2026
-- TBA - Secret Location (Madrid), Madrid — Fri, 4 Sept 2026
-- Mute Malaga, Malaga — Fri, 7 Aug 2026
-- Club M2 Miami, Miami — Wed, 1 Jul 2026
-- Club M2 Miami, Miami — Wed, 1 Jul 2026
-- Stereo, Montreal — Sat, 27 Jun 2026
+- TBA, Mexico City · Sat, 26 Sept 2026
+- Pasaje America, Mexico City · Sat, 26 Sept 2026
+- Bridge Gardens, Glasgow · Sat, 26 Sept 2026
+- TBA - Secret Location (Madrid), Madrid · Fri, 4 Sept 2026
+- Mute Malaga, Malaga · Fri, 7 Aug 2026
+- Club M2 Miami, Miami · Wed, 1 Jul 2026
+- Club M2 Miami, Miami · Wed, 1 Jul 2026
+- Stereo, Montreal · Sat, 27 Jun 2026
 
 ## Shares bills with
 
-Guy J, Henry Saiz, MASANORI MORITA
+Guy J, Colyn, Henry Saiz
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

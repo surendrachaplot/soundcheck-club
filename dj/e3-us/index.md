@@ -1,8 +1,8 @@
 # E3
 
-E3 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Opera, Seoul on Fri, 9 Oct 2026.
+E3 is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Opera, Seoul on Fri, 9 Oct 2026.
 
-E3 is a techno and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Bangkok, Portland and Seoul. Often billed alongside Joon Kwak, KONA and Kim.Qna. Next up: The Opera, Seoul on Fri 9 Oct.
+E3 is a techno and house artist based in United States of America, with 32 gigs on soundcheck across Bangkok, Portland and Seoul. Often billed alongside Joon Kwak, KONA and Kim.Qna. Next up: The Opera, Seoul on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ E3 is a techno and house artist based in United States of America, tracked on so
 
 ## Recently played
 
-- Bar Piment, Seoul — Fri, 4 Sept 2026
-- Atdge Seoul, Seoul — Fri, 28 Aug 2026
-- TBA, Seoul — Sat, 22 Aug 2026
-- BBCB: Beton Brut+Concrete Bar, Seoul — Sat, 21 Mar 2026
-- BBCB: Beton Brut+Concrete Bar, Seoul — Sat, 28 Feb 2026
-- BBCB: Beton Brut+Concrete Bar, Seoul — Sat, 20 Dec 2025
-- TBA - 문화비축기지, Oil Tank Culture Park Seoul, Seoul — Sat, 15 Nov 2025
-- BBCB: Beton Brut+Concrete Bar, Seoul — Fri, 14 Nov 2025
+- Bar Piment, Seoul · Fri, 4 Sept 2026
+- Atdge Seoul, Seoul · Fri, 28 Aug 2026
+- TBA, Seoul · Sat, 22 Aug 2026
+- BBCB: Beton Brut+Concrete Bar, Seoul · Sat, 21 Mar 2026
+- BBCB: Beton Brut+Concrete Bar, Seoul · Sat, 28 Feb 2026
+- BBCB: Beton Brut+Concrete Bar, Seoul · Sat, 20 Dec 2025
+- TBA - 문화비축기지, Oil Tank Culture Park Seoul, Seoul · Sat, 15 Nov 2025
+- BBCB: Beton Brut+Concrete Bar, Seoul · Fri, 14 Nov 2025
 
 ## Shares bills with
 

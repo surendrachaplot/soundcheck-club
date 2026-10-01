@@ -1,8 +1,8 @@
 # KlangKuenstler
 
-KlangKuenstler is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Forum, Los Angeles on Sat, 3 Oct 2026.
+KlangKuenstler is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Forum, Los Angeles on Sat, 3 Oct 2026.
 
-KlangKuenstler is a techno and house artist based in Germany, tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Daria Kolosova, I Hate Models and Kobosil. Next up: The Forum, Los Angeles on Sat 3 Oct.
+KlangKuenstler is a techno and house artist based in Germany, with 177 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 62 more. Often billed alongside Daria Kolosova, I Hate Models and Kobosil. Next up: The Forum, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ KlangKuenstler is a techno and house artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- Arca, Sao Paulo — Sat, 19 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- UNSW Roundhouse, Sydney — Sat, 22 Aug 2026
-- The Timber Yard, Melbourne — Fri, 21 Aug 2026
-- Union Park, Chicago — Sat, 18 Jul 2026
-- Life Park, Istanbul — Sun, 12 Jul 2026
-- Halle Tony Garnier, Lyon — Fri, 19 Jun 2026
+- Arca, Sao Paulo · Sat, 19 Sept 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- UNSW Roundhouse, Sydney · Sat, 22 Aug 2026
+- The Timber Yard, Melbourne · Fri, 21 Aug 2026
+- Union Park, Chicago · Sat, 18 Jul 2026
+- Life Park, Istanbul · Sun, 12 Jul 2026
+- Halle Tony Garnier, Lyon · Fri, 19 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Locomotive Disco - House, Disco, Funk & Boogie ft London Disco Society at Oslo Hackney
 
-Locomotive Disco - House, Disco, Funk & Boogie ft London Disco Society at Oslo Hackney on Sat 3 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+Locomotive Disco - House, Disco, Funk & Boogie ft London Disco Society at Oslo Hackney on Sat 3 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

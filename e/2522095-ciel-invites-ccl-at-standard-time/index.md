@@ -1,6 +1,6 @@
 # Ciel invites: CCL at Standard Time
 
-Ciel invites: CCL at Standard Time on Sun 4 Oct, Toronto. 2 artists on the bill: CCL and Ciel. Preview the line-up and save it on soundcheck.
+Ciel invites: CCL at Standard Time on Sun 4 Oct, Toronto. 2 artists: CCL and Ciel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

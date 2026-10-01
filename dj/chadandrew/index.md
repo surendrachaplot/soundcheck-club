@@ -1,8 +1,8 @@
 # Chad Andrew
 
-Chad Andrew is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Duke Of Tokyo, Amsterdam on Wed, 21 Oct 2026.
+Chad Andrew is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Duke Of Tokyo, Amsterdam on Wed, 21 Oct 2026.
 
-Chad Andrew is a house and minimal artist based in United States of America, tracked on soundcheck, with 53 sets logged across Amsterdam, Austin, Barcelona and Berlin and 6 more. Often billed alongside Sam Gittis, AMO and Sebastian Paiza. Next up: Duke Of Tokyo, Amsterdam on Wed 21 Oct.
+Chad Andrew is a house and minimal artist based in United States of America, with 53 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 6 more. Often billed alongside Sam Gittis, AMO and Sebastian Paiza. Next up: Duke Of Tokyo, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Chad Andrew is a house and minimal artist based in United States of America, tra
 
 ## Recently played
 
-- Golden Gate, Berlin — Sat, 20 Jun 2026
-- Sky Lounge 360, Prague — Sun, 14 Jun 2026
-- Bulbul Berlin, Berlin — Sat, 9 May 2026
-- Distrikt, Prague — Fri, 24 Apr 2026
-- Floyd, Miami — Fri, 3 Apr 2026
-- Esmé Hotel Roofrop Miami Beach, Miami — Mon, 23 Mar 2026
-- TV Lounge, Detroit — Sat, 14 Mar 2026
-- Mad Radio Miami, Miami — Fri, 6 Mar 2026
+- Golden Gate, Berlin · Sat, 20 Jun 2026
+- Sky Lounge 360, Prague · Sun, 14 Jun 2026
+- Bulbul Berlin, Berlin · Sat, 9 May 2026
+- Distrikt, Prague · Fri, 24 Apr 2026
+- Floyd, Miami · Fri, 3 Apr 2026
+- Esmé Hotel Roofrop Miami Beach, Miami · Mon, 23 Mar 2026
+- TV Lounge, Detroit · Sat, 14 Mar 2026
+- Mad Radio Miami, Miami · Fri, 6 Mar 2026
 
 ## Shares bills with
 

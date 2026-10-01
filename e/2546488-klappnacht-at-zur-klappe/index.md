@@ -1,6 +1,6 @@
 # Klappnacht at Zur Klappe
 
-Klappnacht at Zur Klappe on Sat 3 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Klappnacht at Zur Klappe on Sat 3 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

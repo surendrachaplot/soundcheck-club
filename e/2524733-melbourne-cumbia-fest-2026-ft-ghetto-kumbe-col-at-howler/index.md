@@ -1,6 +1,6 @@
 # MELBOURNE CUMBIA FEST 2026 ft. Ghetto Kumbe (COL) at Howler
 
-MELBOURNE CUMBIA FEST 2026 ft. Ghetto Kumbe (COL) at Howler on Sun 4 Oct, Melbourne. 3 artists on the bill: Cuerpo Negro, Otorongo and Zafiro. Afrobeats and Electronica. Preview the line-up and save it on soundcheck.
+MELBOURNE CUMBIA FEST 2026 ft. Ghetto Kumbe (COL) at Howler on Sun 4 Oct, Melbourne. 3 artists: Cuerpo Negro, Otorongo and Zafiro. Afrobeats and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Marco Shuttle
 
-Marco Shuttle is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Marco Shuttle is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck, with 157 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Marco Shuttle is a techno and house artist based in Italy, with 157 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 34 more. Often billed alongside Jane Fitz, Erika and Paquita Gordon. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Marco Shuttle is a techno and house artist based in Italy, tracked on soundcheck
 
 ## Recently played
 
-- CLUB RAUM, Amsterdam — Sat, 26 Sept 2026
-- Les Enfants Brillants, Barcelona — Fri, 25 Sept 2026
-- Shunter, Rotterdam — Fri, 18 Sept 2026
-- THE MAGICK BAR, Rome — Fri, 18 Sept 2026
-- Altrove, Milan — Sat, 5 Sept 2026
-- Gaffe, London — Sun, 16 Aug 2026
-- TBA - Secret Place, Marseille — Fri, 7 Aug 2026
-- RADION, Amsterdam — Sun, 2 Aug 2026
+- CLUB RAUM, Amsterdam · Sat, 26 Sept 2026
+- Les Enfants Brillants, Barcelona · Fri, 25 Sept 2026
+- Shunter, Rotterdam · Fri, 18 Sept 2026
+- THE MAGICK BAR, Rome · Fri, 18 Sept 2026
+- Altrove, Milan · Sat, 5 Sept 2026
+- Gaffe, London · Sun, 16 Aug 2026
+- TBA - Secret Place, Marseille · Fri, 7 Aug 2026
+- RADION, Amsterdam · Sun, 2 Aug 2026
 
 ## Shares bills with
 

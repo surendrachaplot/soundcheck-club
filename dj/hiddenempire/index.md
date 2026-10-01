@@ -1,8 +1,8 @@
 # Hidden Empire
 
-Hidden Empire is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
+Hidden Empire is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ritter Butzke, Berlin on Sat, 7 Nov 2026.
 
-Hidden Empire is a techno and tech house artist based in Germany, tracked on soundcheck, with 63 sets logged across Amsterdam, Athens, Basel and Berlin and 24 more. Often billed alongside Oliver Koletzki, Annett Gapstream and Kotoe. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
+Hidden Empire is a techno and tech house artist based in Germany, with 63 gigs on soundcheck across Amsterdam, Athens, Basel and Berlin and 24 more. Often billed alongside Oliver Koletzki, Annett Gapstream and Kotoe. Next up: Ritter Butzke, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Hidden Empire is a techno and tech house artist based in Germany, tracked on sou
 
 ## Recently played
 
-- Suedbruecke, Cologne — Sun, 27 Sept 2026
-- Ritter Butzke, Berlin — Sat, 12 Sept 2026
-- SAGE, Berlin — Sat, 18 Jul 2026
-- Ritter Butzke, Berlin — Sun, 21 Jun 2026
-- Fridas Pier, Stuttgart — Sat, 28 Mar 2026
-- Bahnwärter Thiel, Munich — Fri, 6 Mar 2026
-- Ritter Butzke, Berlin — Sat, 31 Jan 2026
-- Hive Club, Zurich — Fri, 23 Jan 2026
+- Suedbruecke, Cologne · Sun, 27 Sept 2026
+- Ritter Butzke, Berlin · Sat, 12 Sept 2026
+- SAGE, Berlin · Sat, 18 Jul 2026
+- Ritter Butzke, Berlin · Sun, 21 Jun 2026
+- Fridas Pier, Stuttgart · Sat, 28 Mar 2026
+- Bahnwärter Thiel, Munich · Fri, 6 Mar 2026
+- Ritter Butzke, Berlin · Sat, 31 Jan 2026
+- Hive Club, Zurich · Fri, 23 Jan 2026
 
 ## Shares bills with
 

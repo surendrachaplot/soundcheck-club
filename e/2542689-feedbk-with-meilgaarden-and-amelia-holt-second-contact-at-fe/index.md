@@ -1,6 +1,6 @@
 # feedbk with Meilgaarden and Amelia Holt, Second Contact at feedbk
 
-feedbk with Meilgaarden and Amelia Holt, Second Contact on Fri 16 Oct, New York City. 3 artists on the bill: Amelia Holt, Meilgaarden and Second Contact. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+feedbk with Meilgaarden and Amelia Holt, Second Contact on Fri 16 Oct, New York City. 3 artists: Amelia Holt, Meilgaarden and Second Contact. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

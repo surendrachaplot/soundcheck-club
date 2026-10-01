@@ -1,8 +1,8 @@
 # Mandel Turner
 
-Mandel Turner is a House and Funk / Soul artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paloma, Berlin on Fri, 2 Oct 2026.
+Mandel Turner is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paloma, Berlin on Fri, 2 Oct 2026.
 
-Mandel Turner is a house and funk / soul artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin. Often billed alongside Balthazar Martinez, Mat Fink and Mini Nik. Next up: Paloma, Berlin on Fri 2 Oct.
+Mandel Turner is a house and funk / soul artist based in Germany, with 30 gigs on soundcheck across Berlin. Often billed alongside Balthazar Martinez, Mat Fink and Mini Nik. Next up: Paloma, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mandel Turner is a house and funk / soul artist based in Germany, tracked on sou
 
 ## Recently played
 
-- Paloma, Berlin — Sat, 22 Aug 2026
-- Kaos Berlin, Berlin — Sun, 9 Aug 2026
-- Bar Neun, Berlin — Sat, 8 Aug 2026
-- Bar Neun, Berlin — Fri, 24 Jul 2026
-- Kalle Rooftop Neukölln, Berlin — Sat, 20 Jun 2026
-- Bar Neun, Berlin — Fri, 19 Jun 2026
-- Bar Neun, Berlin — Fri, 15 May 2026
-- Paloma, Berlin — Fri, 1 May 2026
+- Paloma, Berlin · Sat, 22 Aug 2026
+- Kaos Berlin, Berlin · Sun, 9 Aug 2026
+- Bar Neun, Berlin · Sat, 8 Aug 2026
+- Bar Neun, Berlin · Fri, 24 Jul 2026
+- Kalle Rooftop Neukölln, Berlin · Sat, 20 Jun 2026
+- Bar Neun, Berlin · Fri, 19 Jun 2026
+- Bar Neun, Berlin · Fri, 15 May 2026
+- Paloma, Berlin · Fri, 1 May 2026
 
 ## Shares bills with
 

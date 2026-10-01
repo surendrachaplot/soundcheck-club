@@ -1,6 +1,6 @@
 # Studio Stereo x Bonkers Music pres. Julia Konor, Ludviq at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Bonkers Music pres. Julia Konor, Ludviq at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 8 Oct, Barcelona. 3 artists on the bill: Frutis, Julia Konor and Ludviq. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Bonkers Music pres. Julia Konor, Ludviq at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 8 Oct, Barcelona. 3 artists: Frutis, Julia Konor and Ludviq. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

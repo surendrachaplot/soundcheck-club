@@ -1,6 +1,6 @@
 # Odda: Tara Cunningham (live), Fohn (live) at The Horse Hospital
 
-Odda: Tara Cunningham (live), Fohn (live) at The Horse Hospital on Sun 15 Nov, London. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Odda: Tara Cunningham (live), Fohn (live) at The Horse Hospital on Sun 15 Nov, London. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

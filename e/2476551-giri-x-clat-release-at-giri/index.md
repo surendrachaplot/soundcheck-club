@@ -1,6 +1,6 @@
 # Giri x Éclat release at Giri
 
-Giri x Éclat release on Fri 13 Nov, Berlin. Electronica. Preview the line-up and save it on soundcheck.
+Giri x Éclat release on Fri 13 Nov, Berlin. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

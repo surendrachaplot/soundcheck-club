@@ -1,8 +1,8 @@
 # ryota dj
 
-ryota dj is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
+ryota dj is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
 
-ryota dj is a bass and house artist based in Japan, tracked on soundcheck, with 91 sets logged across Bali, Bangkok, Barcelona and Brighton and 16 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: NX Newcastle, Newcastle on Fri 2 Oct.
+ryota dj is a bass and house artist based in Japan, with 91 gigs on soundcheck across Bali, Bangkok, Barcelona and Brighton and 16 more. Often billed alongside Ryota, SAMO (JP) and kengotaki. Next up: NX Newcastle, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ ryota dj is a bass and house artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- Circus Osaka, Osaka — Fri, 25 Sept 2026
-- Circus Tokyo, Tokyo — Wed, 23 Sept 2026
-- Odaiba, Tokyo — Tue, 22 Sept 2026
-- Namura Zosenjo Atochi / Creative Center Osaka, Osaka — Mon, 21 Sept 2026
-- Circus Tokyo, Tokyo — Sat, 19 Sept 2026
-- Circus Osaka, Osaka — Fri, 11 Sept 2026
-- Circus Osaka, Osaka — Sat, 5 Sept 2026
-- Circus Osaka, Osaka — Fri, 21 Aug 2026
+- Circus Osaka, Osaka · Fri, 25 Sept 2026
+- Circus Tokyo, Tokyo · Wed, 23 Sept 2026
+- Odaiba, Tokyo · Tue, 22 Sept 2026
+- Namura Zosenjo Atochi / Creative Center Osaka, Osaka · Mon, 21 Sept 2026
+- Circus Tokyo, Tokyo · Sat, 19 Sept 2026
+- Circus Osaka, Osaka · Fri, 11 Sept 2026
+- Circus Osaka, Osaka · Sat, 5 Sept 2026
+- Circus Osaka, Osaka · Fri, 21 Aug 2026
 
 ## Shares bills with
 

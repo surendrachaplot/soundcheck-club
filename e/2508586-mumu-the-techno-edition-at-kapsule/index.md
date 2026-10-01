@@ -1,6 +1,6 @@
 # mUmU  [The techno edition] at Kapsule
 
-mUmU  [The techno edition] at Kapsule on Sun 27 Dec, Liverpool. Techno and House. Preview the line-up and save it on soundcheck.
+mUmU  [The techno edition] at Kapsule on Sun 27 Dec, Liverpool. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

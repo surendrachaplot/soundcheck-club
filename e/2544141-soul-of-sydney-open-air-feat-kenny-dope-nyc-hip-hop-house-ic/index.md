@@ -1,6 +1,6 @@
 # Soul of Sydney OPEN AIR feat. Kenny Dope (NYC Hip Hop & House Icon) at The Greenwood Hotel
 
-Soul of Sydney OPEN AIR feat. Kenny Dope (NYC Hip Hop & House Icon) at The Greenwood Hotel on Sun 28 Feb, Sydney. 3 artists on the bill: Kenny Dope, Phil Toke and Soul of Sydney. Preview the line-up and save it on soundcheck.
+Soul of Sydney OPEN AIR feat. Kenny Dope (NYC Hip Hop & House Icon) at The Greenwood Hotel on Sun 28 Feb, Sydney. 3 artists: Kenny Dope, Phil Toke and Soul of Sydney. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

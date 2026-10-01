@@ -1,6 +1,6 @@
 # Club Mix at Ridley Road Market Bar
 
-Club Mix at Ridley Road Market Bar on Sat 3 Oct, London. Disco and Pop. Preview the line-up and save it on soundcheck.
+Club Mix at Ridley Road Market Bar on Sat 3 Oct, London. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

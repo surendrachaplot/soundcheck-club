@@ -1,6 +1,6 @@
 # Intercell Hong Kong 2026 at Aquabeat 01
 
-Intercell Hong Kong 2026 at Aquabeat 01 on Sun 22 Nov, Hong Kong. 4 artists on the bill: Effy, Mall Grab, Osmosis Jones and Skin On Skin. Techno. Preview the line-up and save it on soundcheck.
+Intercell Hong Kong 2026 at Aquabeat 01 on Sun 22 Nov, Hong Kong. 4 artists: Effy, Mall Grab, Osmosis Jones and Skin On Skin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Flux Pavilion
 
-Flux Pavilion is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
+Flux Pavilion is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Turbinenhalle, Oberhausen on Sat, 10 Oct 2026.
 
-Flux Pavilion is a dubstep and bass artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Austin, Bristol, Denver and London and 9 more. Often billed alongside Doctor P, Delta Heavy and Dirtyphonics. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
+Flux Pavilion is a dubstep and bass artist based in United Kingdom, with 22 gigs on soundcheck across Austin, Bristol, Denver and London and 9 more. Often billed alongside Doctor P, Delta Heavy and Dirtyphonics. Next up: Turbinenhalle, Oberhausen on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Flux Pavilion is a dubstep and bass artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- SILO, New York City — Fri, 8 May 2026
-- Q Nightclub, Seattle — Fri, 1 May 2026
-- Circus Tokyo, Tokyo — Sun, 1 Feb 2026
-- Carousel Bar & Ballroom, Sydney — Sat, 10 Jan 2026
-- Kable Club, Manchester — Sat, 6 Dec 2025
-- Ministry Of Sound, London — Fri, 5 Dec 2025
-- Kable Club, Manchester — Thu, 6 Nov 2025
-- Wamu Theatre, Seattle — Fri, 31 Oct 2025
+- SILO, New York City · Fri, 8 May 2026
+- Q Nightclub, Seattle · Fri, 1 May 2026
+- Circus Tokyo, Tokyo · Sun, 1 Feb 2026
+- Carousel Bar & Ballroom, Sydney · Sat, 10 Jan 2026
+- Kable Club, Manchester · Sat, 6 Dec 2025
+- Ministry Of Sound, London · Fri, 5 Dec 2025
+- Kable Club, Manchester · Thu, 6 Nov 2025
+- Wamu Theatre, Seattle · Fri, 31 Oct 2025
 
 ## Shares bills with
 

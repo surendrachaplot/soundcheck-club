@@ -1,6 +1,6 @@
 # 4 THE LOVE OF HOUSE: DAMMIT at Kashmir Lounge
 
-4 THE LOVE OF HOUSE: DAMMIT at Kashmir Lounge on Sat 10 Oct, Amsterdam. 1 artist on the bill: David J Newton. Progressive House and House. Preview the line-up and save it on soundcheck.
+4 THE LOVE OF HOUSE: DAMMIT at Kashmir Lounge on Sat 10 Oct, Amsterdam. 1 artist: David J Newton. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Sunkissed: Yu Su + G-HA & Olanskii + Vinny Villbass + Sirkus Sunkissed at Jaeger
 
-Sunkissed: Yu Su + G-HA & Olanskii + Vinny Villbass + Sirkus Sunkissed at Jaeger on Sat 24 Oct, Oslo. 4 artists on the bill: G-HA, Olanskii, Vinny Villbass and Yu Su. House and Balearic. Preview the line-up and save it on soundcheck.
+Sunkissed: Yu Su + G-HA & Olanskii + Vinny Villbass + Sirkus Sunkissed at Jaeger on Sat 24 Oct, Oslo. 4 artists: G-HA, Olanskii, Vinny Villbass and Yu Su. House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

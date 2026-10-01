@@ -1,8 +1,8 @@
 # Djoon
 
-Djoon is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DEEP CHORDS: Lucas Moinet & Bevan" on Fri, 2 Oct 2026.
+Djoon is a music venue in Paris with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DEEP CHORDS: Lucas Moinet & Bevan" on Fri, 2 Oct 2026.
 
-Djoon is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Adri, Bevan, Broodoo Ramses and Chaos In The CBD and 2 more. Browse upcoming dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
+Djoon is a music venue in Paris listed on soundcheck. 8 upcoming gigs, with line-ups including Adri, Bevan, Broodoo Ramses and Chaos In The CBD and 2 more. See dates, start times and who's playing. 22 boulevard Vincent Auriol; 75013; Paris; France.
 
 ## What's on
 

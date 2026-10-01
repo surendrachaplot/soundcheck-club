@@ -1,8 +1,8 @@
 # Ewan Pearson
 
-Ewan Pearson is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Eiger Studios, Leeds on Sat, 24 Oct 2026.
+Ewan Pearson is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eiger Studios, Leeds on Sat, 24 Oct 2026.
 
-Ewan Pearson is a house and afro house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Belfast, Dundee, Glasgow and Leeds and 2 more. Often billed alongside Chris Massey, Muddy Feet and Awkward Moments. Next up: Eiger Studios, Leeds on Sat 24 Oct.
+Ewan Pearson is a house and afro house artist based in United Kingdom, with 9 gigs on soundcheck across Belfast, Dundee, Glasgow and Leeds and 2 more. Often billed alongside Chris Massey, Muddy Feet and Awkward Moments. Next up: Eiger Studios, Leeds on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ewan Pearson is a house and afro house artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Nola Bar, Dundee — Sat, 27 Jun 2026
-- McChuills Music Bar, Glasgow — Fri, 26 Jun 2026
-- The DBA, Manchester — Sat, 6 Jun 2026
-- The BBE Store, London — Tue, 14 Oct 2025
-- The Imaginarium, Leeds — Sat, 23 Nov 2024
-- The Ulster Sports Club, Belfast — Fri, 16 Feb 2024
-- The Yard, Manchester — Sat, 3 Feb 2024
-- The Cross, London — Thu, 16 Feb 2023
+- Nola Bar, Dundee · Sat, 27 Jun 2026
+- McChuills Music Bar, Glasgow · Fri, 26 Jun 2026
+- The DBA, Manchester · Sat, 6 Jun 2026
+- The BBE Store, London · Tue, 14 Oct 2025
+- The Imaginarium, Leeds · Sat, 23 Nov 2024
+- The Ulster Sports Club, Belfast · Fri, 16 Feb 2024
+- The Yard, Manchester · Sat, 3 Feb 2024
+- The Cross, London · Thu, 16 Feb 2023
 
 ## Shares bills with
 

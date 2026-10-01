@@ -1,6 +1,6 @@
 # Motel ✰ Setaoc Mass at Motel Campo
 
-Motel ✰ Setaoc Mass at Motel Campo on Sat 7 Nov, Geneva. 3 artists on the bill: Runde, SERRATI and Setaoc Mass. Techno and Acid. Preview the line-up and save it on soundcheck.
+Motel ✰ Setaoc Mass at Motel Campo on Sat 7 Nov, Geneva. 3 artists: Runde, SERRATI and Setaoc Mass. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

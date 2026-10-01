@@ -1,6 +1,6 @@
 # Nocturnal District: Rooftop Sessions #2 at Dorchester Brewing Company
 
-Nocturnal District: Rooftop Sessions #2 at Dorchester Brewing Company on Fri 23 Oct, Boston. House and Tech House. Preview the line-up and save it on soundcheck.
+Nocturnal District: Rooftop Sessions #2 at Dorchester Brewing Company on Fri 23 Oct, Boston. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

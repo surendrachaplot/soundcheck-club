@@ -1,6 +1,6 @@
 # LMR EVENT 17/10/2026 at Jungle Bar
 
-LMR EVENT 17/10/2026 at Jungle Bar on Sat 17 Oct, Brussels. 4 artists on the bill: Backlight, LRDB, Luna Temmerman and TeaOtim. Techno. Preview the line-up and save it on soundcheck.
+LMR EVENT 17/10/2026 at Jungle Bar on Sat 17 Oct, Brussels. 4 artists: Backlight, LRDB, Luna Temmerman and TeaOtim. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

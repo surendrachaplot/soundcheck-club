@@ -1,6 +1,6 @@
 # TECHNO OBSCENE #34 - NINE O NINE x LSH - Das Werk Wien at Das Werk
 
-TECHNO OBSCENE #34 - NINE O NINE x LSH - Das Werk Wien on Sat 3 Oct, Vienna. 4 artists on the bill: Albin Brezlan, Huebl, Joris Turenhout and justUS. Techno. Preview the line-up and save it on soundcheck.
+TECHNO OBSCENE #34 - NINE O NINE x LSH - Das Werk Wien on Sat 3 Oct, Vienna. 4 artists: Albin Brezlan, Huebl, Joris Turenhout and justUS. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

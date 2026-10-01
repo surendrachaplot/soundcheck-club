@@ -1,6 +1,6 @@
 # Ghouls Club x Aphrodite Audio at The Crown
 
-Ghouls Club x Aphrodite Audio at The Crown on Sat 24 Oct, Bristol. 1 artist on the bill: Creep-P. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Ghouls Club x Aphrodite Audio at The Crown on Sat 24 Oct, Bristol. 1 artist: Creep-P. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

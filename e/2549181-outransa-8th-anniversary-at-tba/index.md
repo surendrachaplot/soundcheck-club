@@ -1,6 +1,6 @@
 # outransa 8th Anniversary at TBA
 
-outransa 8th Anniversary at TBA on Sat 5 Dec, London. Techno and Electro. Preview the line-up and save it on soundcheck.
+outransa 8th Anniversary at TBA on Sat 5 Dec, London. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

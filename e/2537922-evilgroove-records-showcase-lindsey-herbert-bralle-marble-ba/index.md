@@ -1,6 +1,6 @@
 # EvilGroove Records Showcase - Lindsey Herbert - BRALLE - Marble Bar at Marble Bar
 
-EvilGroove Records Showcase - Lindsey Herbert - BRALLE - Marble Bar on Fri 16 Oct, Detroit. 5 artists on the bill: BRALLE, Echoføn, LAÍRE and Lindsey Herbert and 1 more. Techno. Preview the line-up and save it on soundcheck.
+EvilGroove Records Showcase - Lindsey Herbert - BRALLE - Marble Bar on Fri 16 Oct, Detroit. 5 artists: BRALLE, Echoføn, LAÍRE and Lindsey Herbert and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

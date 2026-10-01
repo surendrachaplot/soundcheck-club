@@ -1,8 +1,8 @@
 # Arok Shiva
 
-Arok Shiva is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at EL SÓTANO, Madrid on Sun, 4 Oct 2026.
+Arok Shiva is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 4 Oct 2026.
 
-Arok Shiva is a techno and acid artist based in Spain, tracked on soundcheck, with 70 sets logged across Madrid. Often billed alongside Epileptik, Alviker and DAVID MENA. Next up: EL SÓTANO, Madrid on Sun 4 Oct.
+Arok Shiva is a techno and acid artist based in Spain, with 70 gigs on soundcheck across Madrid. Often billed alongside Epileptik, Alviker and DAVID MENA. Next up: EL SÓTANO, Madrid on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Arok Shiva is a techno and acid artist based in Spain, tracked on soundcheck, wi
 
 ## Recently played
 
-- EL SÓTANO, Madrid — Sun, 27 Sept 2026
-- EL SÓTANO, Madrid — Sun, 20 Sept 2026
-- EL SÓTANO, Madrid — Sun, 13 Sept 2026
-- EL SÓTANO, Madrid — Sun, 6 Sept 2026
-- EL SÓTANO, Madrid — Sun, 30 Aug 2026
-- EL SÓTANO, Madrid — Sun, 23 Aug 2026
-- EL SÓTANO, Madrid — Sun, 16 Aug 2026
-- EL SÓTANO, Madrid — Sun, 9 Aug 2026
+- EL SÓTANO, Madrid · Sun, 27 Sept 2026
+- EL SÓTANO, Madrid · Sun, 20 Sept 2026
+- EL SÓTANO, Madrid · Sun, 13 Sept 2026
+- EL SÓTANO, Madrid · Sun, 6 Sept 2026
+- EL SÓTANO, Madrid · Sun, 30 Aug 2026
+- EL SÓTANO, Madrid · Sun, 23 Aug 2026
+- EL SÓTANO, Madrid · Sun, 16 Aug 2026
+- EL SÓTANO, Madrid · Sun, 9 Aug 2026
 
 ## Shares bills with
 

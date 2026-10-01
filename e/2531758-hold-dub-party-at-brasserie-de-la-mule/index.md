@@ -1,6 +1,6 @@
 # Hold Dub Party at Brasserie de la Mule
 
-Hold Dub Party at Brasserie de la Mule on Fri 9 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Hold Dub Party at Brasserie de la Mule on Fri 9 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BIRTHDAY AFFAIR at DNA. CLUB
 
-BIRTHDAY AFFAIR at DNA. CLUB on Fri 23 Oct, Berlin. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+BIRTHDAY AFFAIR at DNA. CLUB on Fri 23 Oct, Berlin. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

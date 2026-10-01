@@ -1,6 +1,6 @@
 # Ring — 24 October 2026 at Ring
 
-Ring — 24 October 2026 on Sat 24 Oct, Seoul. 3 artists on the bill: Hakim., Kyuchan and Yun Line. Techno and Electro. Preview the line-up and save it on soundcheck.
+Ring — 24 October 2026 on Sat 24 Oct, Seoul. 3 artists: Hakim., Kyuchan and Yun Line. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Goya Gumbani & Friends at The Fox and Firkin
 
-Goya Gumbani & Friends at The Fox and Firkin on Sat 24 Oct, London. 1 artist on the bill: Maxwell Owin. Hip-Hop and Funk / Soul. Preview the line-up and save it on soundcheck.
+Goya Gumbani & Friends at The Fox and Firkin on Sat 24 Oct, London. 1 artist: Maxwell Owin. Hip-Hop and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

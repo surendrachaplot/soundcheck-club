@@ -1,8 +1,8 @@
 # Chinois Ibiza
 
-Chinois Ibiza is a music venue in Ibiza with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Defected: Hannah Wants, Low Steppa, Monki, Sam Divine,Andrea Lane" on Thu, 1 Oct 2026.
+Chinois Ibiza is a music venue in Ibiza with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Defected: Hannah Wants, Low Steppa, Monki, Sam Divine,Andrea Lane" on Thu, 1 Oct 2026.
 
-Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs, with line-ups including Avangart Tabldot, Bambounou, Bedouin and Butch and 2 more. Browse upcoming dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
+Chinois Ibiza is a music venue in Ibiza listed on soundcheck. 11 upcoming gigs, with line-ups including Avangart Tabldot, Bambounou, Bedouin and Butch and 2 more. See dates, start times and who's playing. Passeig Joan Carles I, 17, 07800 Eivissa, Illes Balears, Spain.
 
 ## What's on
 

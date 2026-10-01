@@ -1,8 +1,8 @@
 # Spartaque
 
-Spartaque is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
+Spartaque is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
 
-Spartaque is a techno and tech house artist based in Ukraine, tracked on soundcheck, with 59 sets logged across Amsterdam, Athens, Austin and Barcelona and 20 more. Often billed alongside Ramiro Lopez, Klaudia Gawlas and SOLE LLORENTE. Next up: Supperclub, Amsterdam on Wed 21 Oct.
+Spartaque is a techno and tech house artist based in Ukraine, with 59 gigs on soundcheck across Amsterdam, Athens, Austin and Barcelona and 20 more. Often billed alongside Ramiro Lopez, Klaudia Gawlas and SOLE LLORENTE. Next up: Supperclub, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Spartaque is a techno and tech house artist based in Ukraine, tracked on soundch
 
 ## Recently played
 
-- Etko, Cyprus — Fri, 25 Sept 2026
-- Rachdingue, Barcelona — Tue, 23 Jun 2026
-- TBA - THE HUB Carrer N'amargos 11 Barcelona, Barcelona — Fri, 19 Jun 2026
-- TBA - THE HUB Carrer N'amargos 11 Barcelona, Barcelona — Thu, 18 Jun 2026
-- TBA -  THE HUB Carrer N'amargos 11 Barcelona, Barcelona — Thu, 18 Jun 2026
-- Monday Bar, Stockholm — Fri, 12 Jun 2026
-- Atlantic Sound, Barcelona — Sat, 16 May 2026
-- Ritter Butzke, Berlin — Fri, 30 Jan 2026
+- Etko, Cyprus · Fri, 25 Sept 2026
+- Rachdingue, Barcelona · Tue, 23 Jun 2026
+- TBA - THE HUB Carrer N'amargos 11 Barcelona, Barcelona · Fri, 19 Jun 2026
+- TBA - THE HUB Carrer N'amargos 11 Barcelona, Barcelona · Thu, 18 Jun 2026
+- TBA -  THE HUB Carrer N'amargos 11 Barcelona, Barcelona · Thu, 18 Jun 2026
+- Monday Bar, Stockholm · Fri, 12 Jun 2026
+- Atlantic Sound, Barcelona · Sat, 16 May 2026
+- Ritter Butzke, Berlin · Fri, 30 Jan 2026
 
 ## Shares bills with
 

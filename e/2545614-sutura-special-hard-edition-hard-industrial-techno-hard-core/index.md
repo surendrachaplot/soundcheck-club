@@ -1,6 +1,6 @@
 # sutura ~SPECIAL HARD EDITION~ HARD INDUSTRIAL TECHNO HARD CORE TECHNO GABBER with KYLE MIKASA at Blvck Water
 
-sutura ~SPECIAL HARD EDITION~ HARD INDUSTRIAL TECHNO HARD CORE TECHNO GABBER with KYLE MIKASA at Blvck Water on Sat 24 Oct, Osaka. 7 artists on the bill: _goodbyeforever_, amor (JP), dyn (JP) and KYLE MIKASA and 3 more. Hardcore and Industrial. Preview the line-up and save it on soundcheck.
+sutura ~SPECIAL HARD EDITION~ HARD INDUSTRIAL TECHNO HARD CORE TECHNO GABBER with KYLE MIKASA at Blvck Water on Sat 24 Oct, Osaka. 7 artists: _goodbyeforever_, amor (JP), dyn (JP) and KYLE MIKASA and 3 more. Hardcore and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

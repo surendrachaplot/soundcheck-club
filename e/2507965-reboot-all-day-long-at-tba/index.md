@@ -1,6 +1,6 @@
 # REBOOT ALL DAY LONG at TBA
 
-REBOOT ALL DAY LONG at TBA on Sat 24 Oct, Ireland. 1 artist on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
+REBOOT ALL DAY LONG at TBA on Sat 24 Oct, Ireland. 1 artist: Winson Ngoh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Dornen
 
-Dornen is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at fi, Cologne on Sat, 24 Oct 2026.
+Dornen is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fi, Cologne on Sat, 24 Oct 2026.
 
-Dornen is an experimental and techno artist based in Germany, tracked on soundcheck, with 31 sets logged across Berlin, Cologne, Nürnberg and Tbilisi. Often billed alongside Måtyrer, lomi and Mariami. Next up: fi, Cologne on Sat 24 Oct.
+Dornen is an experimental and techno artist based in Germany, with 31 gigs on soundcheck across Berlin, Cologne, Nürnberg and Tbilisi. Often billed alongside Måtyrer, lomi and Mariami. Next up: fi, Cologne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dornen is an experimental and techno artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- TBA - Waidmarkt and St. Gertrud Church, Cologne — Sat, 26 Sept 2026
-- TBA - Raketenstation Hombroich, Cologne — Fri, 28 Aug 2026
-- fi, Cologne — Mon, 16 Feb 2026
-- Gewölbe, Cologne — Fri, 16 Jan 2026
-- TBA - St. Gertrud Church, Krefelder Str. 57, Cologne, Cologne — Sat, 27 Sept 2025
-- fi, Cologne — Sat, 28 Jun 2025
-- fi, Cologne — Sat, 24 May 2025
-- SB – Space Between, Nürnberg — Sat, 5 Apr 2025
+- TBA - Waidmarkt and St. Gertrud Church, Cologne · Sat, 26 Sept 2026
+- TBA - Raketenstation Hombroich, Cologne · Fri, 28 Aug 2026
+- fi, Cologne · Mon, 16 Feb 2026
+- Gewölbe, Cologne · Fri, 16 Jan 2026
+- TBA - St. Gertrud Church, Krefelder Str. 57, Cologne, Cologne · Sat, 27 Sept 2025
+- fi, Cologne · Sat, 28 Jun 2025
+- fi, Cologne · Sat, 24 May 2025
+- SB – Space Between, Nürnberg · Sat, 5 Apr 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # AMÉMÉ + AWEN at Volt Club Milano
 
-AMÉMÉ + AWEN at Volt Club Milano on Fri 16 Oct, Milan. 2 artists on the bill: AMÉMÉ and AWEN. House and Tech House. Preview the line-up and save it on soundcheck.
+AMÉMÉ + AWEN at Volt Club Milano on Fri 16 Oct, Milan. 2 artists: AMÉMÉ and AWEN. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

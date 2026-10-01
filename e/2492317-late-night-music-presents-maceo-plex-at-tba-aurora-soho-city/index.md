@@ -1,6 +1,6 @@
 # Late Night Music presents: Maceo Plex at TBA - Aurora @ Soho City Center
 
-Late Night Music presents: Maceo Plex at TBA - Aurora @ Soho City Center on Sat 21 Nov, Panama. 2 artists on the bill: KEENE and Maceo Plex. Preview the line-up and save it on soundcheck.
+Late Night Music presents: Maceo Plex at TBA - Aurora @ Soho City Center on Sat 21 Nov, Panama. 2 artists: KEENE and Maceo Plex. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Halloween 2026 at Dalston Den
 
-Halloween 2026 at Dalston Den on Thu 22 Oct, London. Preview the line-up and save it on soundcheck.
+Halloween 2026 at Dalston Den on Thu 22 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

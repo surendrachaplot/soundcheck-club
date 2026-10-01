@@ -1,6 +1,6 @@
 # Anvai at West Harlem
 
-Anvai at West Harlem on Thu 1 Oct, Kyoto. 2 artists on the bill: DJ Master Kohta and sak. Tech House and Dubstep. Preview the line-up and save it on soundcheck.
+Anvai at West Harlem on Thu 1 Oct, Kyoto. 2 artists: DJ Master Kohta and sak. Tech House and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

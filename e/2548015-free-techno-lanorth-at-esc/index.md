@@ -1,6 +1,6 @@
 # FREE TECHNO: LANORTH at ESC
 
-FREE TECHNO: LANORTH at ESC on Fri 2 Oct, Montreal. 4 artists on the bill: HUMMER, MPHS, SCHNUBB and ucanquit. Techno. Preview the line-up and save it on soundcheck.
+FREE TECHNO: LANORTH at ESC on Fri 2 Oct, Montreal. 4 artists: HUMMER, MPHS, SCHNUBB and ucanquit. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

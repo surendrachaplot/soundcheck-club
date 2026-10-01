@@ -1,6 +1,6 @@
 # SDOT (BAL), Assassin Bug, Jiynx, Kerub, moodyjooly, art by KIZMET at Bsmt 254
 
-SDOT (BAL), Assassin Bug, Jiynx, Kerub, moodyjooly, art by KIZMET at Bsmt 254 on Fri 13 Nov, Toronto. 1 artist on the bill: Assassin Bug. Club and Footwork. Preview the line-up and save it on soundcheck.
+SDOT (BAL), Assassin Bug, Jiynx, Kerub, moodyjooly, art by KIZMET at Bsmt 254 on Fri 13 Nov, Toronto. 1 artist: Assassin Bug. Club and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

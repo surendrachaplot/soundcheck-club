@@ -1,8 +1,8 @@
 # Ozzie Guven
 
-Ozzie Guven is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Ozzie Guven is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Ozzie Guven is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 117 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 25 more. Often billed alongside DXNBY, Sidney Charles and Ellia Jaya. Next up: DRUMSHEDS, London on Sat 3 Oct.
+Ozzie Guven is a house and tech house artist based in United Kingdom, with 117 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Barcelona and 25 more. Often billed alongside DXNBY, Sidney Charles and Ellia Jaya. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Ozzie Guven is a house and tech house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- [UNVRS], Ibiza — Wed, 23 Sept 2026
-- Gaswrx Birmingham, London — Sat, 12 Sept 2026
-- TBA - Secret location announced only to ticket holders, Ibiza — Fri, 11 Sept 2026
-- Dullingham Polo Club, London — Sat, 22 Aug 2026
-- Cova Santa, Ibiza — Tue, 4 Aug 2026
-- XOYO, London — Sat, 1 Aug 2026
-- 528 Ibiza, Ibiza — Sun, 5 Jul 2026
-- Thuishaven, Amsterdam — Sat, 27 Jun 2026
+- [UNVRS], Ibiza · Wed, 23 Sept 2026
+- Gaswrx Birmingham, London · Sat, 12 Sept 2026
+- TBA - Secret location announced only to ticket holders, Ibiza · Fri, 11 Sept 2026
+- Dullingham Polo Club, London · Sat, 22 Aug 2026
+- Cova Santa, Ibiza · Tue, 4 Aug 2026
+- XOYO, London · Sat, 1 Aug 2026
+- 528 Ibiza, Ibiza · Sun, 5 Jul 2026
+- Thuishaven, Amsterdam · Sat, 27 Jun 2026
 
 ## Shares bills with
 

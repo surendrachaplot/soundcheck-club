@@ -1,6 +1,6 @@
 # BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48
 
-BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48 on Fri 2 Oct, Barcelona. 3 artists on the bill: Nesi, Piem and The Checkup. Preview the line-up and save it on soundcheck.
+BRIDGE 48 — 2 ROOMS Sound Immersive Experience at Bridge 48 on Fri 2 Oct, Barcelona. 3 artists: Nesi, Piem and The Checkup. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

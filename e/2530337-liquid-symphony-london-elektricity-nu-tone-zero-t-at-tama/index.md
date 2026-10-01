@@ -1,6 +1,6 @@
 # Liquid Symphony: London Elektricity, Nu:Tone & Zero T at Tama
 
-Liquid Symphony: London Elektricity, Nu:Tone & Zero T at Tama on Fri 6 Nov, Poznan. 5 artists on the bill: k.o (PL), Kaj.O, London Elektricity and Nu:Tone and 1 more. Preview the line-up and save it on soundcheck.
+Liquid Symphony: London Elektricity, Nu:Tone & Zero T at Tama on Fri 6 Nov, Poznan. 5 artists: k.o (PL), Kaj.O, London Elektricity and Nu:Tone and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

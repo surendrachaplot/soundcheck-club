@@ -1,8 +1,8 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Caleb Jackson is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
-Caleb Jackson is a house and techno artist based in Australia, tracked on soundcheck, with 69 sets logged across Amsterdam, Auckland, Bali and Berlin and 10 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
+Caleb Jackson is a house and techno artist based in Australia, with 69 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 10 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Caleb Jackson is a house and techno artist based in Australia, tracked on soundc
 
 ## Recently played
 
-- Chinese Laundry, Sydney — Fri, 25 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 10 Sept 2026
-- Kater, Berlin — Sat, 15 Aug 2026
-- La Brisa, Bali — Sat, 25 Jul 2026
-- Thuishaven, Amsterdam — Sun, 5 Jul 2026
-- Lieberscholli, Munich — Fri, 3 Jul 2026
-- Cova Santa, Ibiza — Tue, 16 Jun 2026
-- TBA - Il Mercato Centrale, Melbourne — Sat, 13 Jun 2026
+- Chinese Laundry, Sydney · Fri, 25 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 10 Sept 2026
+- Kater, Berlin · Sat, 15 Aug 2026
+- La Brisa, Bali · Sat, 25 Jul 2026
+- Thuishaven, Amsterdam · Sun, 5 Jul 2026
+- Lieberscholli, Munich · Fri, 3 Jul 2026
+- Cova Santa, Ibiza · Tue, 16 Jun 2026
+- TBA - Il Mercato Centrale, Melbourne · Sat, 13 Jun 2026
 
 ## Shares bills with
 

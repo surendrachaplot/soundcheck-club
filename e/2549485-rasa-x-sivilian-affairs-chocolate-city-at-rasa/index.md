@@ -1,6 +1,6 @@
 # RASA x Sivilian Affairs: Chocolate City at RASA
 
-RASA x Sivilian Affairs: Chocolate City on Fri 16 Oct, Singapore. 4 artists on the bill: Alam, Erwin Linden, Ouissam and Sivanesh. Techno and House. Preview the line-up and save it on soundcheck.
+RASA x Sivilian Affairs: Chocolate City on Fri 16 Oct, Singapore. 4 artists: Alam, Erwin Linden, Ouissam and Sivanesh. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

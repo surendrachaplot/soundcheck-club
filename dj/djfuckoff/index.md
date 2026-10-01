@@ -1,8 +1,8 @@
 # DJ Fuckoff
 
-DJ Fuckoff is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mondo, Madrid on Thu, 1 Oct 2026.
+DJ Fuckoff is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mondo, Madrid on Thu, 1 Oct 2026.
 
-DJ Fuckoff is a techno and house artist based in Germany, tracked on soundcheck, with 183 sets logged across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: Mondo, Madrid on Thu 1 Oct.
+DJ Fuckoff is a techno and house artist based in Germany, with 183 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 57 more. Often billed alongside DJ AYA, Anetha and DJ Gigola. Next up: Mondo, Madrid on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ DJ Fuckoff is a techno and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- C12, Brussels — Sat, 26 Sept 2026
-- Renate, Berlin — Fri, 18 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- TBA, Vienna — Sat, 5 Sept 2026
-- Mono, Rotterdam — Sat, 29 Aug 2026
-- RSO.BERLIN, Berlin — Thu, 13 Aug 2026
-- La Pinilla Ski Resort, Madrid — Mon, 10 Aug 2026
-- Signal, New York City — Sat, 8 Aug 2026
+- C12, Brussels · Sat, 26 Sept 2026
+- Renate, Berlin · Fri, 18 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- TBA, Vienna · Sat, 5 Sept 2026
+- Mono, Rotterdam · Sat, 29 Aug 2026
+- RSO.BERLIN, Berlin · Thu, 13 Aug 2026
+- La Pinilla Ski Resort, Madrid · Mon, 10 Aug 2026
+- Signal, New York City · Sat, 8 Aug 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Ali-Az
 
-Ali-Az is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Powered by: Void Acoustics, Madrid on Sat, 10 Oct 2026.
+Ali-Az is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 10 Oct 2026.
 
-Ali-Az is a techno and dub techno artist based in Colombia, tracked on soundcheck, with 39 sets logged across Madrid. Often billed alongside Kevin Matto, Systematic Method and Hakkon. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 10 Oct.
+Ali-Az is a techno and dub techno artist based in Colombia, with 39 gigs on soundcheck across Madrid. Often billed alongside Kevin Matto, Systematic Method and Hakkon. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ali-Az is a techno and dub techno artist based in Colombia, tracked on soundchec
 
 ## Recently played
 
-- TBA - Powered by: Void Acoustics, Madrid — Sat, 12 Sept 2026
-- TBA - Powered by: Void Acoustics, Madrid — Sat, 4 Jul 2026
-- TBA - Powered by: Void Acoustics, Madrid — Sat, 13 Jun 2026
-- TBA - Powered by: Void Acoustics , Madrid — Fri, 1 May 2026
-- TBA - Powered by: Void Acoustics , Madrid — Sat, 18 Apr 2026
-- TBA - Powered by: Void Acoustics , Madrid — Sat, 7 Feb 2026
-- TBA - Powered by: Void Acoustics , Madrid — Wed, 31 Dec 2025
-- TBA - Powered by: Void Acoustics , Madrid — Fri, 19 Dec 2025
+- TBA - Powered by: Void Acoustics, Madrid · Sat, 12 Sept 2026
+- TBA - Powered by: Void Acoustics, Madrid · Sat, 4 Jul 2026
+- TBA - Powered by: Void Acoustics, Madrid · Sat, 13 Jun 2026
+- TBA - Powered by: Void Acoustics , Madrid · Fri, 1 May 2026
+- TBA - Powered by: Void Acoustics , Madrid · Sat, 18 Apr 2026
+- TBA - Powered by: Void Acoustics , Madrid · Sat, 7 Feb 2026
+- TBA - Powered by: Void Acoustics , Madrid · Wed, 31 Dec 2025
+- TBA - Powered by: Void Acoustics , Madrid · Fri, 19 Dec 2025
 
 ## Shares bills with
 

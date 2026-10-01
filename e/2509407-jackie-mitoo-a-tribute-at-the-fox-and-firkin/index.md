@@ -1,6 +1,6 @@
 # Jackie Mitoo (A Tribute) at The Fox and Firkin
 
-Jackie Mitoo (A Tribute) at The Fox and Firkin on Thu 15 Oct, London. Dub and Jazz. Preview the line-up and save it on soundcheck.
+Jackie Mitoo (A Tribute) at The Fox and Firkin on Thu 15 Oct, London. Dub and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

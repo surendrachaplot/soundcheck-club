@@ -1,6 +1,6 @@
 # David August X Say No More at Say No More Madrid
 
-David August X Say No More at Say No More Madrid on Sat 3 Oct, Madrid. 1 artist on the bill: David August. Techno and Electronica. Preview the line-up and save it on soundcheck.
+David August X Say No More at Say No More Madrid on Sat 3 Oct, Madrid. 1 artist: David August. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

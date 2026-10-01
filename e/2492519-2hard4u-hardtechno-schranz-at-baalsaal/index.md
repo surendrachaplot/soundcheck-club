@@ -1,6 +1,6 @@
 # 2HARD4U - HARDTECHNO & SCHRANZ at Baalsaal
 
-2HARD4U - HARDTECHNO & SCHRANZ at Baalsaal on Sat 3 Oct, Hamburg. 2 artists on the bill: Kaizen and KAMIKAZE. Techno. Preview the line-up and save it on soundcheck.
+2HARD4U - HARDTECHNO & SCHRANZ at Baalsaal on Sat 3 Oct, Hamburg. 2 artists: Kaizen and KAMIKAZE. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

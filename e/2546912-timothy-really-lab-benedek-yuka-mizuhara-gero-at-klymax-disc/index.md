@@ -1,6 +1,6 @@
 # Timothy Really Lab., Benedek & Yuka Mizuhara, Gero at Klymax Discotheque
 
-Timothy Really Lab., Benedek & Yuka Mizuhara, Gero at Klymax Discotheque on Fri 16 Oct, Bali. 1 artist on the bill: Timothy Really Lab.. Preview the line-up and save it on soundcheck.
+Timothy Really Lab., Benedek & Yuka Mizuhara, Gero at Klymax Discotheque on Fri 16 Oct, Bali. 1 artist: Timothy Really Lab.. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

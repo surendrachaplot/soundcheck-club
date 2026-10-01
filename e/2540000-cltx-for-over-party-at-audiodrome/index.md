@@ -1,6 +1,6 @@
 # CLTX for OVER PARTY at Audiodrome
 
-CLTX for OVER PARTY at Audiodrome on Sat 3 Oct, Turin. 2 artists on the bill: CLTX and sizing. Techno. Preview the line-up and save it on soundcheck.
+CLTX for OVER PARTY at Audiodrome on Sat 3 Oct, Turin. 2 artists: CLTX and sizing. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

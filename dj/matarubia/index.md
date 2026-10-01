@@ -1,8 +1,8 @@
 # mata rubia
 
-mata rubia is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+mata rubia is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
-mata rubia is a techno and trance artist based in Czech Republic, tracked on soundcheck, with 22 sets logged across Prague and Strasbourg. Often billed alongside TerminusTechnikus, patricccio and Youssef Motus. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
+mata rubia is a techno and trance artist based in Czech Republic, with 22 gigs on soundcheck across Prague and Strasbourg. Often billed alongside TerminusTechnikus, patricccio and Youssef Motus. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ mata rubia is a techno and trance artist based in Czech Republic, tracked on sou
 
 ## Recently played
 
-- Ankali & Planeta Za, Prague — Sat, 19 Sept 2026
-- Ankali & Planeta Za, Prague — Sat, 22 Aug 2026
-- TBA, Prague — Sat, 11 Jul 2026
-- Ankali & Planeta Za, Prague — Sat, 27 Jun 2026
-- Ankali & Planeta Za, Prague — Fri, 29 May 2026
-- Ankali & Planeta Za, Prague — Sat, 4 Apr 2026
-- Ankali & Planeta Za, Prague — Sat, 14 Feb 2026
-- Ankali & Planeta Za, Prague — Wed, 31 Dec 2025
+- Ankali & Planeta Za, Prague · Sat, 19 Sept 2026
+- Ankali & Planeta Za, Prague · Sat, 22 Aug 2026
+- TBA, Prague · Sat, 11 Jul 2026
+- Ankali & Planeta Za, Prague · Sat, 27 Jun 2026
+- Ankali & Planeta Za, Prague · Fri, 29 May 2026
+- Ankali & Planeta Za, Prague · Sat, 4 Apr 2026
+- Ankali & Planeta Za, Prague · Sat, 14 Feb 2026
+- Ankali & Planeta Za, Prague · Wed, 31 Dec 2025
 
 ## Shares bills with
 

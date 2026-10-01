@@ -1,6 +1,6 @@
 # synts presents: Mietze Conte at Circus Tokyo
 
-synts presents: Mietze Conte at Circus Tokyo on Sat 17 Oct, Tokyo. Experimental and Club. Preview the line-up and save it on soundcheck.
+synts presents: Mietze Conte at Circus Tokyo on Sat 17 Oct, Tokyo. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

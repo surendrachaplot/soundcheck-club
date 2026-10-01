@@ -1,6 +1,6 @@
 # BAILE SERVICE (3rd Anniversary) at Altes Postlager
 
-BAILE SERVICE (3rd Anniversary) at Altes Postlager on Sat 3 Oct, Rhineland Palatinate. 4 artists on the bill: Bronka, S!RENE, Sonia Sol and Yucky. Preview the line-up and save it on soundcheck.
+BAILE SERVICE (3rd Anniversary) at Altes Postlager on Sat 3 Oct, Rhineland Palatinate. 4 artists: Bronka, S!RENE, Sonia Sol and Yucky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

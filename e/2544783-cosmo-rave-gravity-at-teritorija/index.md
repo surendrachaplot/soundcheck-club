@@ -1,6 +1,6 @@
 # Cosmo Rave: Gravity at Teritorija
 
-Cosmo Rave: Gravity at Teritorija on Fri 13 Nov, Riga. Drum & Bass. Preview the line-up and save it on soundcheck.
+Cosmo Rave: Gravity at Teritorija on Fri 13 Nov, Riga. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

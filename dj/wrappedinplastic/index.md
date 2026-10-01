@@ -1,8 +1,8 @@
 # WrappeD In PlastiC
 
-WrappeD In PlastiC is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at SMUT Athens, Athens on Fri, 9 Oct 2026.
+WrappeD In PlastiC is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at SMUT Athens, Athens on Fri, 9 Oct 2026.
 
-WrappeD In PlastiC is a house and techno artist based in Greece, tracked on soundcheck, with 37 sets logged across Athens. Often billed alongside The Dreamer, Miss Trouli and BÊTE NOIRE. Next up: SMUT Athens, Athens on Fri 9 Oct.
+WrappeD In PlastiC is a house and techno artist based in Greece, with 37 gigs on soundcheck across Athens. Often billed alongside The Dreamer, Miss Trouli and BÊTE NOIRE. Next up: SMUT Athens, Athens on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ WrappeD In PlastiC is a house and techno artist based in Greece, tracked on soun
 
 ## Recently played
 
-- SMUT Athens, Athens — Fri, 4 Sept 2026
-- SMUT Athens, Athens — Fri, 24 Jul 2026
-- SMUT Athens, Athens — Fri, 26 Jun 2026
-- SMUT Athens, Athens — Fri, 8 May 2026
-- SMUT Athens, Athens — Sat, 21 Mar 2026
-- AUX Club, Athens — Sat, 17 Jan 2026
-- Universe Athens, Athens — Sat, 6 Dec 2025
-- Zed Athens, Athens — Sat, 8 Nov 2025
+- SMUT Athens, Athens · Fri, 4 Sept 2026
+- SMUT Athens, Athens · Fri, 24 Jul 2026
+- SMUT Athens, Athens · Fri, 26 Jun 2026
+- SMUT Athens, Athens · Fri, 8 May 2026
+- SMUT Athens, Athens · Sat, 21 Mar 2026
+- AUX Club, Athens · Sat, 17 Jan 2026
+- Universe Athens, Athens · Sat, 6 Dec 2025
+- Zed Athens, Athens · Sat, 8 Nov 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # V
 
-V is a Techno and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Delta Gelände, Dortmund-essen on Fri, 2 Oct 2026.
+V is a Techno and EBM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Delta Gelände, Dortmund-essen on Fri, 2 Oct 2026.
 
-V is a techno and ebm artist based in Turkey, tracked on soundcheck, with 7 sets logged across Berlin, Dortmund Essen, Glasgow and Liverpool and 3 more. Often billed alongside Airbear, Aiste Regina and Allexandra. Next up: Delta Gelände, Dortmund Essen on Fri 2 Oct.
+V is a techno and ebm artist based in Turkey, with 7 gigs on soundcheck across Berlin, Dortmund Essen, Glasgow and Liverpool and 3 more. Often billed alongside Airbear, Aiste Regina and Allexandra. Next up: Delta Gelände, Dortmund Essen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ V is a techno and ebm artist based in Turkey, tracked on soundcheck, with 7 sets
 
 ## Recently played
 
-- District, Liverpool — Sat, 16 Aug 2025
-- Distretto Industriale 4 - DI4, Milan — Fri, 22 Nov 2024
-- Brunswick Cellars, Glasgow — Sat, 19 Oct 2024
-- Recede Club Berlin, Berlin — Fri, 31 May 2024
-- Nyapi, Seoul — Fri, 26 Apr 2024
-- Hall, Tallinn — Fri, 5 Apr 2024
+- District, Liverpool · Sat, 16 Aug 2025
+- Distretto Industriale 4 - DI4, Milan · Fri, 22 Nov 2024
+- Brunswick Cellars, Glasgow · Sat, 19 Oct 2024
+- Recede Club Berlin, Berlin · Fri, 31 May 2024
+- Nyapi, Seoul · Fri, 26 Apr 2024
+- Hall, Tallinn · Fri, 5 Apr 2024
 
 ## Shares bills with
 

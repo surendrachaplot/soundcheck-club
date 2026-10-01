@@ -1,6 +1,6 @@
 # The Avalanches & many more at Botanique
 
-The Avalanches & many more at Botanique on Sat 31 Oct, Brussels. 2 artists on the bill: Antony Szmierek and The Avalanches. Electro. Preview the line-up and save it on soundcheck.
+The Avalanches & many more at Botanique on Sat 31 Oct, Brussels. 2 artists: Antony Szmierek and The Avalanches. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

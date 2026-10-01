@@ -1,8 +1,8 @@
 # Cross Club
 
-Cross Club is a music venue in Prague with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "PSEUDO3" on Thu, 1 Oct 2026.
+Cross Club is a music venue in Prague with 34 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PSEUDO3" on Thu, 1 Oct 2026.
 
-Cross Club is a music venue in Prague listed on soundcheck. 19 upcoming gigs, with line-ups including Acid Arab, BBBBBBB, Daniel Neighbour and ESKEI83 and 2 more. Browse upcoming dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
+Cross Club is a music venue in Prague listed on soundcheck. 34 upcoming gigs, with line-ups including Acid Arab, AMAR DURGA, BBBBBBB and Daniel Neighbour and 2 more. See dates, start times and who's playing. Plynární 1096/23, Praha 7, Czech Republic.
 
 ## What's on
 

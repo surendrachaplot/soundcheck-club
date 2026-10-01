@@ -1,8 +1,8 @@
 # Noorderlicht Café
 
-Noorderlicht Café is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "313X020: BBQ Amsterdam invites Detroit" on Wed, 21 Oct 2026.
+Noorderlicht Café is a music venue in Amsterdam with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "313X020: BBQ Amsterdam invites Detroit" on Wed, 21 Oct 2026.
 
-Noorderlicht Café is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Agustin Giri, Alden Tyrell, Alican and Andre Kronert and 2 more. Browse upcoming dates, start times and who's playing. NDSM-Plein 102, 1033 WB Amsterdam, Netherlands.
+Noorderlicht Café is a music venue in Amsterdam listed on soundcheck. 5 upcoming gigs, with line-ups including Agustin Giri, Alden Tyrell, Alican and Andre Kronert and 2 more. See dates, start times and who's playing. NDSM-Plein 102, 1033 WB Amsterdam, Netherlands.
 
 ## What's on
 

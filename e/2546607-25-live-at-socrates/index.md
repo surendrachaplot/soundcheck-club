@@ -1,6 +1,6 @@
 # らんたく 25周年LIVE at Socrates
 
-らんたく 25周年LIVE at Socrates on Sat 17 Oct, Kyoto. Preview the line-up and save it on soundcheck.
+らんたく 25周年LIVE at Socrates on Sat 17 Oct, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

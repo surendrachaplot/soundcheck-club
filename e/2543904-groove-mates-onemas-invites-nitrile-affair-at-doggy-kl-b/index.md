@@ -1,6 +1,6 @@
 # Groove Mates: Onemas invites Nitrile Affair at Doggy Klœb
 
-Groove Mates: Onemas invites Nitrile Affair at Doggy Klœb on Fri 9 Oct, Malaga. 2 artists on the bill: Nitrile Affair and Onemas. Electronica. Preview the line-up and save it on soundcheck.
+Groove Mates: Onemas invites Nitrile Affair at Doggy Klœb on Fri 9 Oct, Malaga. 2 artists: Nitrile Affair and Onemas. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

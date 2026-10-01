@@ -1,8 +1,8 @@
 # Adrian Marth
 
-Adrian Marth is a Italo Disco and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Folklor, Lausanne on Fri, 30 Oct 2026.
+Adrian Marth is a Italo Disco and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Folklor, Lausanne on Fri, 30 Oct 2026.
 
-Adrian Marth is an italo disco and techno artist based in Spain, tracked on soundcheck, with 55 sets logged across Amsterdam, Barcelona, Berlin and Lausanne and 8 more. Often billed alongside Vitorio Testa, David Vunk and Julian Reca. Next up: Folklor, Lausanne on Fri 30 Oct.
+Adrian Marth is an italo disco and techno artist based in Spain, with 55 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Lausanne and 8 more. Often billed alongside Vitorio Testa, David Vunk and Julian Reca. Next up: Folklor, Lausanne on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Adrian Marth is an italo disco and techno artist based in Spain, tracked on soun
 
 ## Recently played
 
-- Freedonia, Barcelona — Fri, 18 Sept 2026
-- CONTACT, Amsterdam — Sun, 30 Aug 2026
-- Phantom Bar Berlin, Berlin — Sat, 22 Aug 2026
-- TBA - Casal d'Amposta, Barcelona — Fri, 17 Jul 2026
-- La Paloma, Barcelona — Fri, 10 Jul 2026
-- Freedonia, Barcelona — Fri, 19 Jun 2026
-- Inter-City, The Hague — Thu, 14 May 2026
-- Freedonia, Barcelona — Fri, 3 Apr 2026
+- Freedonia, Barcelona · Fri, 18 Sept 2026
+- CONTACT, Amsterdam · Sun, 30 Aug 2026
+- Phantom Bar Berlin, Berlin · Sat, 22 Aug 2026
+- TBA - Casal d'Amposta, Barcelona · Fri, 17 Jul 2026
+- La Paloma, Barcelona · Fri, 10 Jul 2026
+- Freedonia, Barcelona · Fri, 19 Jun 2026
+- Inter-City, The Hague · Thu, 14 May 2026
+- Freedonia, Barcelona · Fri, 3 Apr 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Pye Corner Audio at Vespers Club
 
-Pye Corner Audio at Vespers Club on Fri 27 Nov, London. 1 artist on the bill: Pye Corner Audio. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Pye Corner Audio at Vespers Club on Fri 27 Nov, London. 1 artist: Pye Corner Audio. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

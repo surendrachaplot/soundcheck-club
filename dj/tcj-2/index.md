@@ -1,8 +1,8 @@
 # TCJ (2)
 
-TCJ (2) is a Footwork and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Night Club 101, New York City on Fri, 9 Oct 2026.
+TCJ (2) is a Footwork and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Night Club 101, New York City on Fri, 9 Oct 2026.
 
-TCJ is a footwork and ghetto tech artist based in United States of America, tracked on soundcheck, with 7 sets logged across New York City. Often billed alongside Mikasa, DJ Manny and Kid Bata. Next up: Night Club 101, New York City on Fri 9 Oct.
+TCJ is a footwork and ghetto tech artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside Mikasa, DJ Manny and Kid Bata. Next up: Night Club 101, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ TCJ is a footwork and ghetto tech artist based in United States of America, trac
 
 ## Recently played
 
-- Pianos, New York City — Wed, 26 Aug 2026
-- Pianos, New York City — Thu, 20 Aug 2026
-- Pianos, New York City — Thu, 2 Jul 2026
-- Pianos, New York City — Sun, 15 Mar 2026
-- Mood Ring, New York City — Fri, 29 Aug 2025
-- Isola Brooklyn, New York City — Sat, 19 Jul 2025
+- Pianos, New York City · Wed, 26 Aug 2026
+- Pianos, New York City · Thu, 20 Aug 2026
+- Pianos, New York City · Thu, 2 Jul 2026
+- Pianos, New York City · Sun, 15 Mar 2026
+- Mood Ring, New York City · Fri, 29 Aug 2025
+- Isola Brooklyn, New York City · Sat, 19 Jul 2025
 
 ## Shares bills with
 

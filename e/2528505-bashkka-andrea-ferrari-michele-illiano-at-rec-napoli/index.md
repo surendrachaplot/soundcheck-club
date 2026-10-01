@@ -1,6 +1,6 @@
 # BASHKKA, Andrea Ferrari, Michele Illiano at REC Napoli
 
-BASHKKA, Andrea Ferrari, Michele Illiano at REC Napoli on Sat 10 Oct, Naples. 1 artist on the bill: BASHKKA. Preview the line-up and save it on soundcheck.
+BASHKKA, Andrea Ferrari, Michele Illiano at REC Napoli on Sat 10 Oct, Naples. 1 artist: BASHKKA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

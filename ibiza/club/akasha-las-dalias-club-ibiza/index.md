@@ -1,8 +1,8 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sven Väth - T.R.A.N.C.E" on Thu, 1 Oct 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sven Väth - T.R.A.N.C.E" on Thu, 1 Oct 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 16 upcoming gigs, with line-ups including Alfonso Ares, Bill Hates, BOHEM and Cameron Jack and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 16 upcoming gigs, with line-ups including Alfonso Ares, Bill Hates, BOHEM and Cameron Jack and 2 more. See dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 

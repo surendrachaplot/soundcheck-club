@@ -1,8 +1,8 @@
 # Scot Project
 
-Scot Project is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at SWG3, Glasgow on Fri, 4 Dec 2026.
+Scot Project is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SWG3, Glasgow on Fri, 4 Dec 2026.
 
-Scot Project is a trance and techno artist based in Germany, tracked on soundcheck, with 25 sets logged across Amsterdam, Berlin, Birmingham and Dublin and 10 more. Often billed alongside Giuseppe Ottaviani, Mauro Picotto and Aly & Fila. Next up: SWG3, Glasgow on Fri 4 Dec.
+Scot Project is a trance and techno artist based in Germany, with 25 gigs on soundcheck across Amsterdam, Berlin, Birmingham and Dublin and 10 more. Often billed alongside Giuseppe Ottaviani, Mauro Picotto and Aly & Fila. Next up: SWG3, Glasgow on Fri 4 Dec.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Scot Project is a trance and techno artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- ://about blank, Berlin — Fri, 29 May 2026
-- Alte Kaserne, Zurich — Sat, 25 Apr 2026
-- WestWeelde, Amsterdam — Sat, 4 Apr 2026
-- Button Factory, Dublin — Fri, 23 Jan 2026
-- Melkweg, Amsterdam — Fri, 3 Oct 2025
-- Elvaston Castle Country Park, Sheffield — Fri, 6 Jun 2025
-- Proton the Club, Stuttgart — Fri, 30 May 2025
-- TBA - Several, Malta — Thu, 8 May 2025
+- ://about blank, Berlin · Fri, 29 May 2026
+- Alte Kaserne, Zurich · Sat, 25 Apr 2026
+- WestWeelde, Amsterdam · Sat, 4 Apr 2026
+- Button Factory, Dublin · Fri, 23 Jan 2026
+- Melkweg, Amsterdam · Fri, 3 Oct 2025
+- Elvaston Castle Country Park, Sheffield · Fri, 6 Jun 2025
+- Proton the Club, Stuttgart · Fri, 30 May 2025
+- TBA - Several, Malta · Thu, 8 May 2025
 
 ## Shares bills with
 

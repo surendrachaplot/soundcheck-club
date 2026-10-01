@@ -1,6 +1,6 @@
 # EXIT with TRIPTYKH x Ben Techy x Noise Not War x IN FURCH at WDM
 
-EXIT with TRIPTYKH x Ben Techy x Noise Not War x IN FURCH at WDM on Sat 14 Nov, Hannover. 4 artists on the bill: Ben Techy, In Furcht, Noise Not War and TRIPTYKH. Preview the line-up and save it on soundcheck.
+EXIT with TRIPTYKH x Ben Techy x Noise Not War x IN FURCH at WDM on Sat 14 Nov, Hannover. 4 artists: Ben Techy, In Furcht, Noise Not War and TRIPTYKH. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

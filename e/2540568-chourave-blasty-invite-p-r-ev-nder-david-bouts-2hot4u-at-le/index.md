@@ -1,6 +1,6 @@
 # Chourave Blasty Invite : Pür, Evänder, David Bouts & 2hot4u at Le Chapiteau - Marseille
 
-Chourave Blasty Invite : Pür, Evänder, David Bouts & 2hot4u at Le Chapiteau - Marseille on Fri 2 Oct, Marseille. Preview the line-up and save it on soundcheck.
+Chourave Blasty Invite : Pür, Evänder, David Bouts & 2hot4u at Le Chapiteau - Marseille on Fri 2 Oct, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

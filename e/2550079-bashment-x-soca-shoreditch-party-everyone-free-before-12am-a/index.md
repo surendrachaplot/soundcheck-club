@@ -1,6 +1,6 @@
 # Bashment X Soca - Shoreditch Party - Everyone Free Before 12AM at The Lighthouse Club
 
-Bashment X Soca - Shoreditch Party - Everyone Free Before 12AM at The Lighthouse Club on Fri 2 Oct, London. Preview the line-up and save it on soundcheck.
+Bashment X Soca - Shoreditch Party - Everyone Free Before 12AM at The Lighthouse Club on Fri 2 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

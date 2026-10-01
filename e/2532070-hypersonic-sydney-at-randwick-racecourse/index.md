@@ -1,6 +1,6 @@
 # HYPERSONIC SYDNEY at Randwick Racecourse
 
-HYPERSONIC SYDNEY at Randwick Racecourse on Sat 21 Nov, Sydney. Preview the line-up and save it on soundcheck.
+HYPERSONIC SYDNEY at Randwick Racecourse on Sat 21 Nov, Sydney. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

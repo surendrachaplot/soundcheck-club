@@ -1,8 +1,8 @@
 # or
 
-or is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "double A-side" on Sun, 4 Oct 2026.
+or is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "double A-side" on Sun, 4 Oct 2026.
 
-or is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including AKIRAM EN, AMIDAdrive, Anri and Ayantula and 2 more. Browse upcoming dates, start times and who's playing. 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
+or is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including AKIRAM EN, AMIDAdrive, Anri and Ayantula and 2 more. See dates, start times and who's playing. 6-20-10 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
 ## What's on
 

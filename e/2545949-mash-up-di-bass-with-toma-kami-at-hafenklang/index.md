@@ -1,6 +1,6 @@
 # Mash Up Di Bass with Toma Kami at Hafenklang
 
-Mash Up Di Bass with Toma Kami at Hafenklang on Sat 3 Oct, Hamburg. 7 artists on the bill: Ivaldo Gino, Joney, N:in (DE) and Sarah Q and 3 more. Bass and Electro. Preview the line-up and save it on soundcheck.
+Mash Up Di Bass with Toma Kami at Hafenklang on Sat 3 Oct, Hamburg. 7 artists: Ivaldo Gino, Joney, N:in (DE) and Sarah Q and 3 more. Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

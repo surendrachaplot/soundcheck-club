@@ -1,8 +1,8 @@
 # Sumiruna
 
-Sumiruna is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat, 3 Oct 2026.
+Sumiruna is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat, 3 Oct 2026.
 
-Sumiruna is a techno and psytrance artist based in Australia, tracked on soundcheck, with 9 sets logged across Melbourne, Mexico City and Sydney. Often billed alongside Roberta, Shepz and VORPAL. Next up: TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat 3 Oct.
+Sumiruna is a techno and psytrance artist based in Australia, with 9 gigs on soundcheck across Melbourne, Mexico City and Sydney. Often billed alongside Roberta, Shepz and VORPAL. Next up: TBA - Av. Ejército Nacional Mexicano 963, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sumiruna is a techno and psytrance artist based in Australia, tracked on soundch
 
 ## Recently played
 
-- TBA - MARIANO ESCOBEDO 494, Mexico City — Fri, 10 Apr 2026
-- TBA, Mexico City — Fri, 10 Apr 2026
-- TBA, Sydney — Fri, 12 Dec 2025
-- TBA - Inner West Location, Sydney — Fri, 12 Dec 2025
-- TBA - 2.5 hours north of Sydney, Sydney — Thu, 5 Jun 2025
-- TBA - 260 Dundas Street Thornbury, Melbourne — Sat, 21 Sept 2024
-- 24 Moons, Melbourne — Fri, 19 Jan 2024
-- 24 Moons, Melbourne — Fri, 15 Sept 2023
+- TBA - MARIANO ESCOBEDO 494, Mexico City · Fri, 10 Apr 2026
+- TBA, Mexico City · Fri, 10 Apr 2026
+- TBA, Sydney · Fri, 12 Dec 2025
+- TBA - Inner West Location, Sydney · Fri, 12 Dec 2025
+- TBA - 2.5 hours north of Sydney, Sydney · Thu, 5 Jun 2025
+- TBA - 260 Dundas Street Thornbury, Melbourne · Sat, 21 Sept 2024
+- 24 Moons, Melbourne · Fri, 19 Jan 2024
+- 24 Moons, Melbourne · Fri, 15 Sept 2023
 
 ## Shares bills with
 

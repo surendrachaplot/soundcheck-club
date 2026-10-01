@@ -1,6 +1,6 @@
 # Disco presents: Hybrid Minds at Ductwork Dallas
 
-Disco presents: Hybrid Minds at Ductwork Dallas on Thu 1 Oct, Dallas Fort Worth. 1 artist on the bill: Hybrid Minds. Preview the line-up and save it on soundcheck.
+Disco presents: Hybrid Minds at Ductwork Dallas on Thu 1 Oct, Dallas Fort Worth. 1 artist: Hybrid Minds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Marcel Dettmann & Gerd Janson [GER] at Oxford Art Factory
 
-Marcel Dettmann & Gerd Janson [GER] at Oxford Art Factory on Fri 20 Nov, Sydney. 2 artists on the bill: Gerd Janson and Marcel Dettmann. Techno and House. Preview the line-up and save it on soundcheck.
+Marcel Dettmann & Gerd Janson [GER] at Oxford Art Factory on Fri 20 Nov, Sydney. 2 artists: Gerd Janson and Marcel Dettmann. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

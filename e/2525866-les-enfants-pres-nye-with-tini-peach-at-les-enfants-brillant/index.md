@@ -1,6 +1,6 @@
 # Les Enfants pres. NYE with tINI + Peach at Les Enfants Brillants
 
-Les Enfants pres. NYE with tINI + Peach at Les Enfants Brillants on Thu 31 Dec, Barcelona. 4 artists on the bill: Angel D'lite, C.ru.z, Peach and tINI. Preview the line-up and save it on soundcheck.
+Les Enfants pres. NYE with tINI + Peach at Les Enfants Brillants on Thu 31 Dec, Barcelona. 4 artists: Angel D'lite, C.ru.z, Peach and tINI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

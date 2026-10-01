@@ -1,6 +1,6 @@
 # Chicane [DJ Set] - Joshua Brooks Manchester at Joshua Brooks
 
-Chicane [DJ Set] - Joshua Brooks Manchester on Sat 28 Nov, Manchester. 1 artist on the bill: Chicane. Trance and House. Preview the line-up and save it on soundcheck.
+Chicane [DJ Set] - Joshua Brooks Manchester on Sat 28 Nov, Manchester. 1 artist: Chicane. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

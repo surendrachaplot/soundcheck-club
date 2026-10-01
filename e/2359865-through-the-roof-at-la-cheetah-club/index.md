@@ -1,6 +1,6 @@
 # Through The Roof at La Cheetah Club
 
-Through The Roof at La Cheetah Club on Sat 24 Oct, Glasgow. House and Minimal. Preview the line-up and save it on soundcheck.
+Through The Roof at La Cheetah Club on Sat 24 Oct, Glasgow. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

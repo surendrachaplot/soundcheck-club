@@ -1,6 +1,6 @@
 # Psychedelic Halloween with PHAXE (Denmark) - 3 Hour set at TBA - Warehouse - Exact Location Will Be Sent to Ticket Holders 24 Hr Before Party
 
-Psychedelic Halloween with PHAXE (Denmark) - 3 Hour set at TBA - Warehouse - Exact Location Will Be Sent to Ticket Holders 24 Hr Before Party on Sat 31 Oct, Toronto. Psytrance and Minimal Techno. Preview the line-up and save it on soundcheck.
+Psychedelic Halloween with PHAXE (Denmark) - 3 Hour set at TBA - Warehouse - Exact Location Will Be Sent to Ticket Holders 24 Hr Before Party on Sat 31 Oct, Toronto. Psytrance and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Factory Town
 
-Factory Town is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "WORSHIP NORTH AMERICA 2026" on Fri, 9 Oct 2026.
+Factory Town is a music venue in Miami with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WORSHIP NORTH AMERICA 2026" on Fri, 9 Oct 2026.
 
-Factory Town is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with line-ups including 1991 (UK), Berrakka, Alarico and ALISHA and 2 more. Browse upcoming dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
+Factory Town is a music venue in Miami listed on soundcheck. 5 upcoming gigs, with line-ups including 1991 (UK), Berrakka, Alarico and ALISHA and 2 more. See dates, start times and who's playing. 4800 NW 37th Ave Miami, FL 33142, USA.
 
 ## What's on
 

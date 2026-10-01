@@ -1,6 +1,6 @@
 # PHAT TRAX & Bar Shaffy present: Amsterdam Takeover at Bar Shaffy
 
-PHAT TRAX & Bar Shaffy present: Amsterdam Takeover on Wed 21 Oct, Amsterdam. 5 artists on the bill: Beni Hana, Lunett, Mixolydian and Poolhaus and 1 more. House and Tech House. Preview the line-up and save it on soundcheck.
+PHAT TRAX & Bar Shaffy present: Amsterdam Takeover on Wed 21 Oct, Amsterdam. 5 artists: Beni Hana, Lunett, Mixolydian and Poolhaus and 1 more. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

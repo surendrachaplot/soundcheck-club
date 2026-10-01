@@ -1,8 +1,8 @@
 # Sandwavv
 
-Sandwavv is a House and Afro Tech artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pamenar Café, Toronto on Fri, 9 Oct 2026.
+Sandwavv is a House and Afro Tech artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pamenar Café, Toronto on Fri, 9 Oct 2026.
 
-Sandwavv is a house and afro tech artist based in Canada, tracked on soundcheck, with 25 sets logged across Toronto and Vancouver. Often billed alongside MXK (LB), ROU-H and Shen. Next up: Pamenar Café, Toronto on Fri 9 Oct.
+Sandwavv is a house and afro tech artist based in Canada, with 25 gigs on soundcheck across Toronto and Vancouver. Often billed alongside MXK (LB), ROU-H and Shen. Next up: Pamenar Café, Toronto on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sandwavv is a house and afro tech artist based in Canada, tracked on soundcheck,
 
 ## Recently played
 
-- Buddies in Bad Times, Toronto — Sat, 26 Sept 2026
-- The Harmony Cafe, Toronto — Sat, 12 Sept 2026
-- Handlebar, Toronto — Sat, 25 Jul 2026
-- Trillium Park, Toronto — Sat, 25 Jul 2026
-- Querencia Studio, Toronto — Sat, 18 Jul 2026
-- Bsmt 254, Toronto — Tue, 30 Jun 2026
-- BLK Space Studios, Toronto — Sat, 16 May 2026
-- Drom Taberna, Toronto — Thu, 7 May 2026
+- Buddies in Bad Times, Toronto · Sat, 26 Sept 2026
+- The Harmony Cafe, Toronto · Sat, 12 Sept 2026
+- Handlebar, Toronto · Sat, 25 Jul 2026
+- Trillium Park, Toronto · Sat, 25 Jul 2026
+- Querencia Studio, Toronto · Sat, 18 Jul 2026
+- Bsmt 254, Toronto · Tue, 30 Jun 2026
+- BLK Space Studios, Toronto · Sat, 16 May 2026
+- Drom Taberna, Toronto · Thu, 7 May 2026
 
 ## Shares bills with
 

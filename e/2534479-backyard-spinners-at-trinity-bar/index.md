@@ -1,6 +1,6 @@
 # Backyard Spinners at Trinity Bar
 
-Backyard Spinners at Trinity Bar on Wed 7 Oct, London. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+Backyard Spinners at Trinity Bar on Wed 7 Oct, London. Breakbeat and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

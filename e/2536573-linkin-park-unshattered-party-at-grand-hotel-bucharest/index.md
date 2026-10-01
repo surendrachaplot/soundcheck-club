@@ -1,6 +1,6 @@
 # Linkin Park: Unshattered Party at Grand Hotel Bucharest
 
-Linkin Park: Unshattered Party at Grand Hotel Bucharest on Fri 2 Oct, Bucharest. Preview the line-up and save it on soundcheck.
+Linkin Park: Unshattered Party at Grand Hotel Bucharest on Fri 2 Oct, Bucharest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Boyos Soundsystem
 
-Boyos Soundsystem is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Toekomstmuziek, Amsterdam on Wed, 21 Oct 2026.
+Boyos Soundsystem is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Toekomstmuziek, Amsterdam on Wed, 21 Oct 2026.
 
-Boyos Soundsystem is a house and disco artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam. Often billed alongside da Graca Brothers, Emma Champagne Queen and AIS De La Montagne. Next up: Toekomstmuziek, Amsterdam on Wed 21 Oct.
+Boyos Soundsystem is a house and disco artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam. Often billed alongside da Graca Brothers, Emma Champagne Queen and AIS De La Montagne. Next up: Toekomstmuziek, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Boyos Soundsystem is a house and disco artist based in Netherlands, tracked on s
 
 ## Recently played
 
-- Club Up, Amsterdam — Fri, 18 Sept 2026
-- Houtbaar Haarlem, Amsterdam — Sat, 25 Jul 2026
-- Houtbaar Haarlem, Amsterdam — Fri, 22 May 2026
-- Basement, Amsterdam — Sat, 28 Feb 2026
-- Houtbaar Haarlem, Amsterdam — Fri, 19 Dec 2025
-- Café Café Bar Amsterdam, Amsterdam — Fri, 5 Dec 2025
-- Houtbaar Haarlem, Amsterdam — Fri, 17 Oct 2025
-- Houtbaar Haarlem, Amsterdam — Fri, 16 May 2025
+- Club Up, Amsterdam · Fri, 18 Sept 2026
+- Houtbaar Haarlem, Amsterdam · Sat, 25 Jul 2026
+- Houtbaar Haarlem, Amsterdam · Fri, 22 May 2026
+- Basement, Amsterdam · Sat, 28 Feb 2026
+- Houtbaar Haarlem, Amsterdam · Fri, 19 Dec 2025
+- Café Café Bar Amsterdam, Amsterdam · Fri, 5 Dec 2025
+- Houtbaar Haarlem, Amsterdam · Fri, 17 Oct 2025
+- Houtbaar Haarlem, Amsterdam · Fri, 16 May 2025
 
 ## Shares bills with
 

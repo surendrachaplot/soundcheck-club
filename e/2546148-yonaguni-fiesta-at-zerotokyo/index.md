@@ -1,6 +1,6 @@
 # YONAGUNI FIESTA at ZEROTOKYO
 
-YONAGUNI FIESTA at ZEROTOKYO on Fri 9 Oct, Tokyo. Pop and Reggaeton. Preview the line-up and save it on soundcheck.
+YONAGUNI FIESTA at ZEROTOKYO on Fri 9 Oct, Tokyo. Pop and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

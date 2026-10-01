@@ -1,8 +1,8 @@
 # Nymph (NY)
 
-Nymph (NY) is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paragon, New York City on Sat, 21 Nov 2026.
+Nymph (NY) is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Sat, 21 Nov 2026.
 
-Nymph (NY) is a techno and club artist based in United States of America, tracked on soundcheck, with 17 sets logged across New York City. Often billed alongside KIMKILLA, 1morning and ABEILLE. Next up: Paragon, New York City on Sat 21 Nov.
+Nymph (NY) is a techno and club artist based in United States of America, with 17 gigs on soundcheck across New York City. Often billed alongside KIMKILLA, 1morning and ABEILLE. Next up: Paragon, New York City on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Nymph (NY) is a techno and club artist based in United States of America, tracke
 
 ## Recently played
 
-- Paragon, New York City — Sat, 22 Aug 2026
-- Bossa Nova Civic Club, New York City — Sat, 25 Jul 2026
-- Paragon, New York City — Sat, 20 Jun 2026
-- Mood Ring, New York City — Sat, 2 May 2026
-- Bossa Nova Civic Club, New York City — Mon, 6 Apr 2026
-- Bossa Nova Civic Club, New York City — Thu, 2 Apr 2026
-- Paragon, New York City — Fri, 27 Mar 2026
-- Rash, New York City — Wed, 25 Feb 2026
+- Paragon, New York City · Sat, 22 Aug 2026
+- Bossa Nova Civic Club, New York City · Sat, 25 Jul 2026
+- Paragon, New York City · Sat, 20 Jun 2026
+- Mood Ring, New York City · Sat, 2 May 2026
+- Bossa Nova Civic Club, New York City · Mon, 6 Apr 2026
+- Bossa Nova Civic Club, New York City · Thu, 2 Apr 2026
+- Paragon, New York City · Fri, 27 Mar 2026
+- Rash, New York City · Wed, 25 Feb 2026
 
 ## Shares bills with
 

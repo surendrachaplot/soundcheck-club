@@ -1,6 +1,6 @@
 # Lons Electronic Festival at Juraparc
 
-Lons Electronic Festival at Juraparc on Sat 24 Oct, Lyon. 1 artist on the bill: Gabry Ponte. Preview the line-up and save it on soundcheck.
+Lons Electronic Festival at Juraparc on Sat 24 Oct, Lyon. 1 artist: Gabry Ponte. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

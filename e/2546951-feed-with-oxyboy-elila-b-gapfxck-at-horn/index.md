@@ -1,6 +1,6 @@
 # FEED with OXYBOY / Elila.b / GAPFXCK at Horn
 
-FEED with OXYBOY / Elila.b / GAPFXCK at Horn on Thu 8 Oct, Bangkok. 1 artist on the bill: OXYBOY. Techno. Preview the line-up and save it on soundcheck.
+FEED with OXYBOY / Elila.b / GAPFXCK at Horn on Thu 8 Oct, Bangkok. 1 artist: OXYBOY. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

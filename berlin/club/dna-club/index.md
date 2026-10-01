@@ -1,8 +1,8 @@
 # DNA. CLUB
 
-DNA. CLUB is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "[FREE ENTRY] - MEET ME at KOTTI " on Fri, 2 Oct 2026.
+DNA. CLUB is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "[FREE ENTRY] - MEET ME at KOTTI " on Fri, 2 Oct 2026.
 
-DNA. CLUB is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Friday, Blossmbae, cell1 and Fakhar and 2 more. Browse upcoming dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
+DNA. CLUB is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including Alex Friday, Blossmbae, cell1 and Fakhar and 2 more. See dates, start times and who's playing. Adalbertstraße 98, 10999 Berlin.
 
 ## What's on
 

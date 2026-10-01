@@ -1,6 +1,6 @@
 # Bass Paradize PRESENTS 20 YEARS OF DEEP MEDi at La Station - Gare des Mines
 
-Bass Paradize PRESENTS 20 YEARS OF DEEP MEDi at La Station - Gare des Mines on Sat 24 Oct, Paris. Preview the line-up and save it on soundcheck.
+Bass Paradize PRESENTS 20 YEARS OF DEEP MEDi at La Station - Gare des Mines on Sat 24 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

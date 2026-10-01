@@ -1,6 +1,6 @@
 # Mochakk - Reveillon Spettacolo 2027, P12 Florianópolis at TBA - P12 Beach Club, Jurerê, Florianopolis
 
-Mochakk - Reveillon Spettacolo 2027, P12 Florianópolis at TBA - P12 Beach Club, Jurerê, Florianopolis on Thu 31 Dec, Brazil. 1 artist on the bill: Mochakk. Preview the line-up and save it on soundcheck.
+Mochakk - Reveillon Spettacolo 2027, P12 Florianópolis at TBA - P12 Beach Club, Jurerê, Florianopolis on Thu 31 Dec, Brazil. 1 artist: Mochakk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

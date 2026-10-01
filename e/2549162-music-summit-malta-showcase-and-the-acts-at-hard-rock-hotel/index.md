@@ -1,6 +1,6 @@
 # Music Summit Malta - Showcase and the acts at Hard Rock Hotel Malta
 
-Music Summit Malta - Showcase and the acts at Hard Rock Hotel Malta on Fri 9 Oct, Malta. 1 artist on the bill: John Acquaviva. Preview the line-up and save it on soundcheck.
+Music Summit Malta - Showcase and the acts at Hard Rock Hotel Malta on Fri 9 Oct, Malta. 1 artist: John Acquaviva. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

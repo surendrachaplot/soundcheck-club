@@ -1,6 +1,6 @@
 # sonics & grief at 90mil
 
-sonics & grief at 90mil on Sun 11 Oct, Berlin. 2 artists on the bill: Dylan Kerr and Slowfoam. Experimental and Drone. Preview the line-up and save it on soundcheck.
+sonics & grief at 90mil on Sun 11 Oct, Berlin. 2 artists: Dylan Kerr and Slowfoam. Experimental and Drone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

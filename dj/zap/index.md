@@ -1,8 +1,8 @@
 # Z@p
 
-Z@p is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Z@p is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Z@p is a techno and house artist based in Uruguay, with 124 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 1
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- FOLD, London — Sat, 26 Sept 2026
-- Le 211, Paris — Sat, 19 Sept 2026
-- Nitsa Club, Barcelona — Fri, 18 Sept 2026
-- TBA - East Williamsburg, New York City — Fri, 4 Sept 2026
-- FOLD, London — Fri, 21 Aug 2026
-- Blow, Buenos Aires — Sat, 25 Jul 2026
-- Fünk, Mexico City — Fri, 17 Jul 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- FOLD, London · Sat, 26 Sept 2026
+- Le 211, Paris · Sat, 19 Sept 2026
+- Nitsa Club, Barcelona · Fri, 18 Sept 2026
+- TBA - East Williamsburg, New York City · Fri, 4 Sept 2026
+- FOLD, London · Fri, 21 Aug 2026
+- Blow, Buenos Aires · Sat, 25 Jul 2026
+- Fünk, Mexico City · Fri, 17 Jul 2026
 
 ## Shares bills with
 

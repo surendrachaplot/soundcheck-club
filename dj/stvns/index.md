@@ -1,8 +1,8 @@
 # STVNS
 
-STVNS is a House and Afro House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
+STVNS is a House and Afro House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nicholas Groente & Fruit, Amsterdam on Thu, 22 Oct 2026.
 
-STVNS is a house and afro house artist based in Switzerland, tracked on soundcheck, with 3 sets logged across Amsterdam. Often billed alongside Jana Vitiligo, Mum & Dad (BE) and aksendo. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
+STVNS is a house and afro house artist based in Switzerland, with 3 gigs on soundcheck across Amsterdam. Often billed alongside Jana Vitiligo, Mum & Dad (BE) and aksendo. Next up: Nicholas Groente & Fruit, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ STVNS is a house and afro house artist based in Switzerland, tracked on soundche
 
 ## Recently played
 
-- Nicholas Groente & Fruit, Amsterdam — Wed, 22 Oct 2025
+- Nicholas Groente & Fruit, Amsterdam · Wed, 22 Oct 2025
 
 ## Shares bills with
 

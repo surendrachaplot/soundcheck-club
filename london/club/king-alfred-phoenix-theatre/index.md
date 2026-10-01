@@ -1,8 +1,8 @@
 # King Alfred Phoenix Theatre
 
-King Alfred Phoenix Theatre is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Bleep Dreams presents A'Bear, Current Mood Girl, Lia Mice and Zaron" on Sat, 12 Dec 2026.
+King Alfred Phoenix Theatre is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bleep Dreams presents A'Bear, Current Mood Girl, Lia Mice and Zaron" on Sat, 12 Dec 2026.
 
-King Alfred Phoenix Theatre is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including A'Bear, CURRENTMOODGIRL and Lia Mice. Browse upcoming dates, start times and who's playing.
+King Alfred Phoenix Theatre is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including A'Bear, CURRENTMOODGIRL and Lia Mice. See dates, start times and who's playing.
 
 ## What's on
 

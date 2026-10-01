@@ -1,6 +1,6 @@
 # Let's Do Techno X Scotish Base vol. 3 at Teritorija
 
-Let's Do Techno X Scotish Base vol. 3 at Teritorija on Fri 11 Dec, Riga. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Let's Do Techno X Scotish Base vol. 3 at Teritorija on Fri 11 Dec, Riga. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

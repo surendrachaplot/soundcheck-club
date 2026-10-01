@@ -1,6 +1,6 @@
 # bradeazy - Sydney at Chinese Laundry
 
-bradeazy - Sydney at Chinese Laundry on Sat 3 Oct, Sydney. 1 artist on the bill: bradeazy. Preview the line-up and save it on soundcheck.
+bradeazy - Sydney at Chinese Laundry on Sat 3 Oct, Sydney. 1 artist: bradeazy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

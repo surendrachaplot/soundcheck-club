@@ -1,6 +1,6 @@
 # WE TAKE OVER - THE NIGHTMARE EDITION at B21
 
-WE TAKE OVER - THE NIGHTMARE EDITION at B21 on Sat 31 Oct, Brussels. 1 artist on the bill: Holiness. Techno and Electro. Preview the line-up and save it on soundcheck.
+WE TAKE OVER - THE NIGHTMARE EDITION at B21 on Sat 31 Oct, Brussels. 1 artist: Holiness. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

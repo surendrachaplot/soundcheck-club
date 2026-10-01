@@ -1,6 +1,6 @@
 # Triple XL presents 'ABSOLUTE PLEASURE' at The Marlborough Red Room
 
-Triple XL presents 'ABSOLUTE PLEASURE' at The Marlborough Red Room on Sat 31 Oct, Glasgow. Club and Electronica. Preview the line-up and save it on soundcheck.
+Triple XL presents 'ABSOLUTE PLEASURE' at The Marlborough Red Room on Sat 31 Oct, Glasgow. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

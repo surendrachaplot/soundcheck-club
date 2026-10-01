@@ -1,6 +1,6 @@
 # Sofar Fringe: A festival re-imagined the Sofar way at 83 Rivington Street
 
-Sofar Fringe: A festival re-imagined the Sofar way at 83 Rivington Street on Sat 17 Oct, London. Ambient and Funk / Soul. Preview the line-up and save it on soundcheck.
+Sofar Fringe: A festival re-imagined the Sofar way at 83 Rivington Street on Sat 17 Oct, London. Ambient and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

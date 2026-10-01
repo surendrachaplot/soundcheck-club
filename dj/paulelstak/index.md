@@ -1,8 +1,8 @@
 # Paul Elstak
 
-Paul Elstak is a Hardcore and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Paul Elstak is a Hardcore and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-Paul Elstak is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 8 more. Often billed alongside Angerfist, Dual Damage and Marc Acardipane. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
+Paul Elstak is a hardcore and techno artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 8 more. Often billed alongside Angerfist, Dual Damage and Marc Acardipane. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Paul Elstak is a hardcore and techno artist based in Netherlands, tracked on sou
 
 ## Recently played
 
-- Electrisize, Düsseldorf — Fri, 7 Aug 2026
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 18 Jul 2026
-- Exhibition Park, Newcastle — Sat, 11 Jul 2026
-- Ottakringer Brauerei, Vienna — Wed, 22 Apr 2026
-- Fabrik, Madrid — Sat, 21 Feb 2026
-- Bootshaus, Cologne — Fri, 10 Oct 2025
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 20 Sept 2025
-- IKON, Antwerp — Sat, 6 Sept 2025
+- Electrisize, Düsseldorf · Fri, 7 Aug 2026
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 18 Jul 2026
+- Exhibition Park, Newcastle · Sat, 11 Jul 2026
+- Ottakringer Brauerei, Vienna · Wed, 22 Apr 2026
+- Fabrik, Madrid · Sat, 21 Feb 2026
+- Bootshaus, Cologne · Fri, 10 Oct 2025
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 20 Sept 2025
+- IKON, Antwerp · Sat, 6 Sept 2025
 
 ## Shares bills with
 

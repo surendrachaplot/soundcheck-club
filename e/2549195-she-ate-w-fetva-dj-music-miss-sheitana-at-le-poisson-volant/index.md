@@ -1,6 +1,6 @@
 # SHE ATE w/ Fetva, DJ Music & Miss Sheitana at Le Poisson Volant
 
-SHE ATE w/ Fetva, DJ Music & Miss Sheitana at Le Poisson Volant on Fri 23 Oct, Paris. 2 artists on the bill: DJ Music and fetva. Preview the line-up and save it on soundcheck.
+SHE ATE w/ Fetva, DJ Music & Miss Sheitana at Le Poisson Volant on Fri 23 Oct, Paris. 2 artists: DJ Music and fetva. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

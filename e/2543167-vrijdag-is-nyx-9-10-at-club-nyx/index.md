@@ -1,6 +1,6 @@
 # Vrijdag is NYX 9/10 at Club NYX
 
-Vrijdag is NYX 9/10 at Club NYX on Fri 9 Oct, Amsterdam. House and Pop. Preview the line-up and save it on soundcheck.
+Vrijdag is NYX 9/10 at Club NYX on Fri 9 Oct, Amsterdam. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

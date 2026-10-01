@@ -1,6 +1,6 @@
 # SYNTESIS 2º ANIVERSARIO: Zisko, Bondarük & SMT, Teateo at Dune Park
 
-SYNTESIS 2º ANIVERSARIO: Zisko, Bondarük & SMT, Teateo at Dune Park on Sun 11 Oct, Buenos Aires. 4 artists on the bill: Bondarük, SMT, Teateo and Zisko. Techno. Preview the line-up and save it on soundcheck.
+SYNTESIS 2º ANIVERSARIO: Zisko, Bondarük & SMT, Teateo at Dune Park on Sun 11 Oct, Buenos Aires. 4 artists: Bondarük, SMT, Teateo and Zisko. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

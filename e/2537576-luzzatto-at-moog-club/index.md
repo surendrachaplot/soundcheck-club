@@ -1,6 +1,6 @@
 # Luzzatto at Moog Club
 
-Luzzatto at Moog Club on Thu 1 Oct, Barcelona. 1 artist on the bill: Lzztto. Techno. Preview the line-up and save it on soundcheck.
+Luzzatto at Moog Club on Thu 1 Oct, Barcelona. 1 artist: Lzztto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

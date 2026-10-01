@@ -1,6 +1,6 @@
 # WISHING WELL PART 22: FANS at Dance Cave
 
-WISHING WELL PART 22: FANS at Dance Cave on Fri 23 Oct, Toronto. 3 artists on the bill: DJ Duck Daddy, Kai (TO) and Zellers. Preview the line-up and save it on soundcheck.
+WISHING WELL PART 22: FANS at Dance Cave on Fri 23 Oct, Toronto. 3 artists: DJ Duck Daddy, Kai (TO) and Zellers. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

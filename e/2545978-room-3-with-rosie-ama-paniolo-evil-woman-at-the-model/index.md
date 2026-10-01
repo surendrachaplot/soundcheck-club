@@ -1,6 +1,6 @@
 # ROOM.3 with Rosie Ama, Paniolo + Evil Woman at The Model
 
-ROOM.3 with Rosie Ama, Paniolo + Evil Woman at The Model on Sat 14 Nov, Nottingham. 3 artists on the bill: Evil Woman, Paniolo and Rosie Ama. House and Post-Punk. Preview the line-up and save it on soundcheck.
+ROOM.3 with Rosie Ama, Paniolo + Evil Woman at The Model on Sat 14 Nov, Nottingham. 3 artists: Evil Woman, Paniolo and Rosie Ama. House and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

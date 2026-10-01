@@ -1,8 +1,8 @@
 # Disguised
 
-Disguised is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
+Disguised is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TILLATEC, Amsterdam on Thu, 22 Oct 2026.
 
-Disguised is a techno and house artist based in Germany, tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Cologne and Dortmund Essen and 13 more. Often billed alongside Kim She, AYLIN IDAH and Cryptofauna. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
+Disguised is a techno and house artist based in Germany, with 93 gigs on soundcheck across Amsterdam, Berlin, Cologne and Dortmund Essen and 13 more. Often billed alongside Kim She, AYLIN IDAH and Cryptofauna. Next up: TILLATEC, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Disguised is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Sat, 12 Sept 2026
-- Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
-- RSO.BERLIN, Berlin — Thu, 13 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 11 Jul 2026
-- Else, Berlin — Sun, 24 May 2026
-- Tokonoma Club, Frankfurt — Sun, 24 May 2026
-- Else, Berlin — Sat, 25 Apr 2026
-- Rote Sonne, Munich — Fri, 20 Mar 2026
+- RSO.BERLIN, Berlin · Sat, 12 Sept 2026
+- Junkyard Dortmund, Dortmund-essen · Sat, 5 Sept 2026
+- RSO.BERLIN, Berlin · Thu, 13 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 11 Jul 2026
+- Else, Berlin · Sun, 24 May 2026
+- Tokonoma Club, Frankfurt · Sun, 24 May 2026
+- Else, Berlin · Sat, 25 Apr 2026
+- Rote Sonne, Munich · Fri, 20 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Kreayshawn at DNA Lounge
 
-Kreayshawn at DNA Lounge on Sat 3 Oct, San Francisco/Oakland. 2 artists on the bill: Camillionaire and Mood Ring. Hip-Hop and Club. Preview the line-up and save it on soundcheck.
+Kreayshawn at DNA Lounge on Sat 3 Oct, San Francisco/Oakland. 2 artists: Camillionaire and Mood Ring. Hip-Hop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

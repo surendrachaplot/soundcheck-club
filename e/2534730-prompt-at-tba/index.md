@@ -1,6 +1,6 @@
 # PROMPT at TBA
 
-PROMPT at TBA on Sat 27 Feb, Berlin. 1 artist on the bill: Hanebüchener. Preview the line-up and save it on soundcheck.
+PROMPT at TBA on Sat 27 Feb, Berlin. 1 artist: Hanebüchener. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

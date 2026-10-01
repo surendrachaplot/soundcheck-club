@@ -1,6 +1,6 @@
 # POPOLO at Forestlimit
 
-POPOLO at Forestlimit on Thu 1 Oct, Tokyo. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+POPOLO at Forestlimit on Thu 1 Oct, Tokyo. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

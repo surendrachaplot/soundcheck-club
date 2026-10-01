@@ -1,6 +1,6 @@
 # Design By Accident with Lucy Park at Eschschloraque
 
-Design By Accident with Lucy Park at Eschschloraque on Fri 2 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Design By Accident with Lucy Park at Eschschloraque on Fri 2 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

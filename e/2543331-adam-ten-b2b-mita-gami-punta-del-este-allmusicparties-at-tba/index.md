@@ -1,6 +1,6 @@
 # Adam Ten B2B Mita Gami - Punta del Este - ALLMusicParties at TBA - Medellin Polo Club, Punta del Este
 
-Adam Ten B2B Mita Gami - Punta del Este - ALLMusicParties at TBA - Medellin Polo Club, Punta del Este on Sat 26 Dec, Uruguay. 4 artists on the bill: Adam Ten, Facundo Mohrr, Mar Monzon and Mita Gami. Preview the line-up and save it on soundcheck.
+Adam Ten B2B Mita Gami - Punta del Este - ALLMusicParties at TBA - Medellin Polo Club, Punta del Este on Sat 26 Dec, Uruguay. 4 artists: Adam Ten, Facundo Mohrr, Mar Monzon and Mita Gami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

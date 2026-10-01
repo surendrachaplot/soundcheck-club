@@ -1,6 +1,6 @@
 # Late Late Electronic with Alpha Cassiopeiae at Ronnie Scott's Bar
 
-Late Late Electronic with Alpha Cassiopeiae at Ronnie Scott's Bar on Sat 14 Nov, London. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+Late Late Electronic with Alpha Cassiopeiae at Ronnie Scott's Bar on Sat 14 Nov, London. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

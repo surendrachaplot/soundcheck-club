@@ -1,6 +1,6 @@
 # DNB @3 presents: WARP SPEED at Time Warp
 
-DNB @3 presents: WARP SPEED at Time Warp on Fri 2 Oct, Seattle. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+DNB @3 presents: WARP SPEED at Time Warp on Fri 2 Oct, Seattle. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

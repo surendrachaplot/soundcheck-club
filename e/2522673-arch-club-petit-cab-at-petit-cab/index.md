@@ -1,6 +1,6 @@
 # Arch Club @ Petit Cab at Petit CAB
 
-Arch Club @ Petit Cab at Petit CAB on Fri 4 Dec, Marseille. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Arch Club @ Petit Cab at Petit CAB on Fri 4 Dec, Marseille. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

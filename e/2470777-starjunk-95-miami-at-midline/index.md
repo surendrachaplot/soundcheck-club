@@ -1,6 +1,6 @@
 # Starjunk 95 MIAMI at Midline
 
-Starjunk 95 MIAMI at Midline on Fri 9 Oct, Miami. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Starjunk 95 MIAMI at Midline on Fri 9 Oct, Miami. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

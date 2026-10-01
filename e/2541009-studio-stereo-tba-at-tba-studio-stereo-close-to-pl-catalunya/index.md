@@ -1,6 +1,6 @@
 # Studio Stereo TBA at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo TBA at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 13 Nov, Barcelona. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo TBA at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 13 Nov, Barcelona. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

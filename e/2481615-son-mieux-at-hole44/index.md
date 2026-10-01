@@ -1,6 +1,6 @@
 # SON MIEUX at Hole44
 
-SON MIEUX at Hole44 on Wed 11 Nov, Berlin. Pop. Preview the line-up and save it on soundcheck.
+SON MIEUX at Hole44 on Wed 11 Nov, Berlin. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

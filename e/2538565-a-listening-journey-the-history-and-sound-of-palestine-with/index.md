@@ -1,6 +1,6 @@
 # A Listening Journey: The History and Sound of Palestine with Hiba Salameh at Radio Radio
 
-A Listening Journey: The History and Sound of Palestine with Hiba Salameh at Radio Radio on Thu 8 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+A Listening Journey: The History and Sound of Palestine with Hiba Salameh at Radio Radio on Thu 8 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

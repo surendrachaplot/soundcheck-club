@@ -1,6 +1,6 @@
 # FREE TICKETS + FREE DRINK – LATIN HOUSE, TRIBAL, FUNK – MALOKA CLUB at Egg London
 
-FREE TICKETS + FREE DRINK – LATIN HOUSE, TRIBAL, FUNK – MALOKA CLUB at Egg London on Fri 9 Oct, London. Rio Funk and Latin Bass. Preview the line-up and save it on soundcheck.
+FREE TICKETS + FREE DRINK – LATIN HOUSE, TRIBAL, FUNK – MALOKA CLUB at Egg London on Fri 9 Oct, London. Rio Funk and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Bag Raiders
 
-Bag Raiders is a House and Electronica artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Jazz Cafe, London on Fri, 2 Oct 2026.
+Bag Raiders is a House and Electronica artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Jazz Cafe, London on Fri, 2 Oct 2026.
 
-Bag Raiders is a house and electronica artist based in Australia, tracked on soundcheck, with 39 sets logged across Auckland, Bali, Brisbane and Dallas Fort Worth and 12 more. Often billed alongside Boogs, Casey Leaver and Amber Ferraro. Next up: The Jazz Cafe, London on Fri 2 Oct.
+Bag Raiders is a house and electronica artist based in Australia, with 39 gigs on soundcheck across Auckland, Bali, Brisbane and Dallas Fort Worth and 12 more. Often billed alongside Boogs, Casey Leaver and Amber Ferraro. Next up: The Jazz Cafe, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Bag Raiders is a house and electronica artist based in Australia, tracked on sou
 
 ## Recently played
 
-- Secret Location, Sydney — Fri, 15 May 2026
-- The Night Cat, Melbourne — Sat, 27 Dec 2025
-- Royal Botanic Gardens, Melbourne — Sat, 29 Nov 2025
-- Revolver Upstairs, Melbourne — Sun, 22 Jun 2025
-- Metropolis, London — Sat, 14 Jun 2025
-- Metropolis, London — Sat, 14 Jun 2025
-- Sala Villanos, Madrid — Fri, 13 Jun 2025
-- Mrs Sippy Bali, Bali — Sat, 19 Apr 2025
+- Secret Location, Sydney · Fri, 15 May 2026
+- The Night Cat, Melbourne · Sat, 27 Dec 2025
+- Royal Botanic Gardens, Melbourne · Sat, 29 Nov 2025
+- Revolver Upstairs, Melbourne · Sun, 22 Jun 2025
+- Metropolis, London · Sat, 14 Jun 2025
+- Metropolis, London · Sat, 14 Jun 2025
+- Sala Villanos, Madrid · Fri, 13 Jun 2025
+- Mrs Sippy Bali, Bali · Sat, 19 Apr 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # BIJI 'Tour 2026' at B72
 
-BIJI 'Tour 2026' at B72 on Sat 3 Oct, Vienna. Hip-Hop. Preview the line-up and save it on soundcheck.
+BIJI 'Tour 2026' at B72 on Sat 3 Oct, Vienna. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TAKEOVER! - turbulences! X Move Forward X 17RDB at Le Molodoi
 
-TAKEOVER! - turbulences! X Move Forward X 17RDB at Le Molodoi on Sat 10 Oct, Strasbourg. 1 artist on the bill: Lili Castiglioni. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
+TAKEOVER! - turbulences! X Move Forward X 17RDB at Le Molodoi on Sat 10 Oct, Strasbourg. 1 artist: Lili Castiglioni. Hip-Hop and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

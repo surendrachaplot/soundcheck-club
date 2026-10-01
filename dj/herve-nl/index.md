@@ -1,8 +1,8 @@
 # Hervé
 
-Hervé is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
+Hervé is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at CLUB RAUM, Amsterdam on Fri, 23 Oct 2026.
 
-Hervé is a techno and house artist based in Netherlands, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Octo Octa, Eris Drew and Noord Loop. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
+Hervé is a techno and house artist based in Netherlands, with 44 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Octo Octa, Eris Drew and Noord Loop. Next up: CLUB RAUM, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Hervé is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam — Fri, 7 Aug 2026
-- Milandia, Zurich — Sat, 25 Jul 2026
-- Brutus, Rotterdam — Sat, 27 Jun 2026
-- TBA, Naples — Sat, 13 Jun 2026
-- CLUB RAUM, Amsterdam — Sat, 6 Jun 2026
-- RSO.BERLIN, Berlin — Sat, 30 May 2026
-- Doka, Amsterdam — Sat, 23 May 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- TBA - Deventer Outdoor | Molbergsweg 3c , Amsterdam · Fri, 7 Aug 2026
+- Milandia, Zurich · Sat, 25 Jul 2026
+- Brutus, Rotterdam · Sat, 27 Jun 2026
+- TBA, Naples · Sat, 13 Jun 2026
+- CLUB RAUM, Amsterdam · Sat, 6 Jun 2026
+- RSO.BERLIN, Berlin · Sat, 30 May 2026
+- Doka, Amsterdam · Sat, 23 May 2026
 
 ## Shares bills with
 

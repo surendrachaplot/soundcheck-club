@@ -1,6 +1,6 @@
 # ALL AT ONCE presents Helena Gao at Ormside Projects
 
-ALL AT ONCE presents Helena Gao at Ormside Projects on Thu 8 Oct, London. 3 artists on the bill: amil raja, Kllo and Rada. Preview the line-up and save it on soundcheck.
+ALL AT ONCE presents Helena Gao at Ormside Projects on Thu 8 Oct, London. 3 artists: amil raja, Kllo and Rada. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

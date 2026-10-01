@@ -1,6 +1,6 @@
 # The Final Ordinary Friends with Optimo (Espacio) & Rosie Ama at The White Hotel
 
-The Final Ordinary Friends with Optimo (Espacio) & Rosie Ama at The White Hotel on Fri 18 Dec, Manchester. 2 artists on the bill: Optimo (Espacio) and Rosie Ama. Techno and House. Preview the line-up and save it on soundcheck.
+The Final Ordinary Friends with Optimo (Espacio) & Rosie Ama at The White Hotel on Fri 18 Dec, Manchester. 2 artists: Optimo (Espacio) and Rosie Ama. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

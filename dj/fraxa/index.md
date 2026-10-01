@@ -1,8 +1,8 @@
 # FRAXA
 
-FRAXA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 303 Audiophile Bar, Barcelona on Fri, 2 Oct 2026.
+FRAXA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 303 Audiophile Bar, Barcelona on Fri, 2 Oct 2026.
 
-FRAXA is a house and techno artist based in Spain, tracked on soundcheck, with 55 sets logged across Barcelona and Madrid. Often billed alongside PAULA GM, PABLO MANY and PILAR MOLINERO. Next up: 303 Audiophile Bar, Barcelona on Fri 2 Oct.
+FRAXA is a house and techno artist based in Spain, with 55 gigs on soundcheck across Barcelona and Madrid. Often billed alongside PAULA GM, PABLO MANY and PILAR MOLINERO. Next up: 303 Audiophile Bar, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ FRAXA is a house and techno artist based in Spain, tracked on soundcheck, with 5
 
 ## Recently played
 
-- Poble Espanyol, Barcelona — Sun, 21 Jun 2026
-- La Terrrazza, Barcelona — Fri, 12 Jun 2026
-- Forum Station, Barcelona — Sun, 5 Apr 2026
-- Macarena Club, Barcelona — Mon, 30 Mar 2026
-- Macarena Club, Barcelona — Mon, 16 Feb 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 17 Jan 2026
-- 303 Audiophile Bar, Barcelona — Fri, 16 Jan 2026
-- Les Enfants Brillants, Barcelona — Sat, 3 Jan 2026
+- Poble Espanyol, Barcelona · Sun, 21 Jun 2026
+- La Terrrazza, Barcelona · Fri, 12 Jun 2026
+- Forum Station, Barcelona · Sun, 5 Apr 2026
+- Macarena Club, Barcelona · Mon, 30 Mar 2026
+- Macarena Club, Barcelona · Mon, 16 Feb 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 17 Jan 2026
+- 303 Audiophile Bar, Barcelona · Fri, 16 Jan 2026
+- Les Enfants Brillants, Barcelona · Sat, 3 Jan 2026
 
 ## Shares bills with
 

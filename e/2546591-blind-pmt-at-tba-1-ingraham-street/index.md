@@ -1,6 +1,6 @@
 # BLIND_PMT at TBA - 1 Ingraham Street
 
-BLIND_PMT at TBA - 1 Ingraham Street on Sat 3 Oct, New York City. 3 artists on the bill: Friedberg, OCTI and SKIN CONTACT. Techno and Experimental. Preview the line-up and save it on soundcheck.
+BLIND_PMT at TBA - 1 Ingraham Street on Sat 3 Oct, New York City. 3 artists: Friedberg, OCTI and SKIN CONTACT. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

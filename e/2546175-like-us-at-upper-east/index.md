@@ -1,6 +1,6 @@
 # LIKE US at Upper East
 
-LIKE US at Upper East on Sat 10 Oct, London. 2 artists on the bill: Rudy. and Summer Ghemati. House and Deep House. Preview the line-up and save it on soundcheck.
+LIKE US at Upper East on Sat 10 Oct, London. 2 artists: Rudy. and Summer Ghemati. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

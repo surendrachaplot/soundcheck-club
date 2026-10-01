@@ -1,6 +1,6 @@
 # Radiance (光芒)- Sound Bath + Vinyl at Rhythm
 
-Radiance (光芒)- Sound Bath + Vinyl at Rhythm on Sun 4 Oct, Toronto. Preview the line-up and save it on soundcheck.
+Radiance (光芒)- Sound Bath + Vinyl at Rhythm on Sun 4 Oct, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

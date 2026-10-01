@@ -1,6 +1,6 @@
 # Regis B2B TERRY DONOVAN - ALL NIGHT LONG at TBA - Denver
 
-Regis B2B TERRY DONOVAN - ALL NIGHT LONG at TBA - Denver on Sat 10 Oct, Denver. 1 artist on the bill: Regis. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Regis B2B TERRY DONOVAN - ALL NIGHT LONG at TBA - Denver on Sat 10 Oct, Denver. 1 artist: Regis. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

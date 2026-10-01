@@ -1,6 +1,6 @@
 # summerblink [2] ☆ queer hyper/dreampop event at The Glad Cafe
 
-summerblink [2] ☆ queer hyper/dreampop event at The Glad Cafe on Fri 2 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+summerblink [2] ☆ queer hyper/dreampop event at The Glad Cafe on Fri 2 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Tantum
 
-Tantum is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ritter Butzke, Berlin on Fri, 2 Oct 2026.
+Tantum is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ritter Butzke, Berlin on Fri, 2 Oct 2026.
 
-Tantum is a progressive house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Amsterdam, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Hyunji-A, Guy J and Max Hendricks. Next up: Ritter Butzke, Berlin on Fri 2 Oct.
+Tantum is a progressive house and techno artist based in Germany, with 20 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Madrid and 3 more. Often billed alongside Hyunji-A, Guy J and Max Hendricks. Next up: Ritter Butzke, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Tantum is a progressive house and techno artist based in Germany, tracked on sou
 
 ## Recently played
 
-- Pasaje America, Mexico City — Sat, 26 Sept 2026
-- Ritter Butzke, Berlin — Fri, 14 Aug 2026
-- Ray's Lido, Malta — Sat, 27 Jun 2026
-- Radio Radio, Amsterdam — Sat, 4 Apr 2026
-- Ritter Butzke, Berlin — Fri, 13 Feb 2026
-- Sala UNI Madrid, Madrid — Sat, 31 Jan 2026
-- TBA - Autodromo Ciudad de Buenos Aires, Buenos Aires — Sat, 29 Nov 2025
-- B. Rooftop, Amsterdam — Sat, 25 Oct 2025
+- Pasaje America, Mexico City · Sat, 26 Sept 2026
+- Ritter Butzke, Berlin · Fri, 14 Aug 2026
+- Ray's Lido, Malta · Sat, 27 Jun 2026
+- Radio Radio, Amsterdam · Sat, 4 Apr 2026
+- Ritter Butzke, Berlin · Fri, 13 Feb 2026
+- Sala UNI Madrid, Madrid · Sat, 31 Jan 2026
+- TBA - Autodromo Ciudad de Buenos Aires, Buenos Aires · Sat, 29 Nov 2025
+- B. Rooftop, Amsterdam · Sat, 25 Oct 2025
 
 ## Shares bills with
 

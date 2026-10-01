@@ -1,6 +1,6 @@
 # Calabash! presents Our Modern Griots at Gut Level
 
-Calabash! presents Our Modern Griots at Gut Level on Fri 30 Oct, Sheffield. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
+Calabash! presents Our Modern Griots at Gut Level on Fri 30 Oct, Sheffield. Hip-Hop and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

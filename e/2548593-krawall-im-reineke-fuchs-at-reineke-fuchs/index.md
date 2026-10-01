@@ -1,6 +1,6 @@
 # KRAWALL IM Reineke Fuchs at Reineke Fuchs
 
-KRAWALL IM Reineke Fuchs on Fri 9 Oct, Cologne. 1 artist on the bill: nordcorreia.mp3. Trance and Techno. Preview the line-up and save it on soundcheck.
+KRAWALL IM Reineke Fuchs on Fri 9 Oct, Cologne. 1 artist: nordcorreia.mp3. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # An Evening with Mark Mothersbaugh at Vancouver Playhouse
 
-An Evening with Mark Mothersbaugh at Vancouver Playhouse on Thu 8 Oct, Vancouver. Preview the line-up and save it on soundcheck.
+An Evening with Mark Mothersbaugh at Vancouver Playhouse on Thu 8 Oct, Vancouver. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Waltervelt
 
-Waltervelt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Native Beach Club, Cardales, Buenos Aires on Fri, 16 Oct 2026.
+Waltervelt is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Native Beach Club, Cardales, Buenos Aires on Fri, 16 Oct 2026.
 
-Waltervelt is a techno and house artist based in Brazil, tracked on soundcheck, with 12 sets logged across Auckland, Buenos Aires, Melbourne and Sao Paulo and 1 more. Often billed alongside DJ Murphy, Anderson Noise and Bervon. Next up: TBA - Native Beach Club, Cardales, Buenos Aires on Fri 16 Oct.
+Waltervelt is a techno and house artist based in Brazil, with 12 gigs on soundcheck across Auckland, Buenos Aires, Melbourne and Sao Paulo and 1 more. Often billed alongside DJ Murphy, Anderson Noise and Bervon. Next up: TBA - Native Beach Club, Cardales, Buenos Aires on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Waltervelt is a techno and house artist based in Brazil, tracked on soundcheck, 
 
 ## Recently played
 
-- Komplexo Tempo, Sao Paulo — Thu, 2 Apr 2026
-- D-EDGE, Sao Paulo — Sun, 21 Dec 2025
-- My Aeon, Melbourne — Fri, 12 Dec 2025
-- Riverwood Downs Mountain Valley Resort, Sydney — Fri, 5 Dec 2025
-- TBA - Secret Location, Auckland — Fri, 5 Dec 2025
-- D-EDGE, Sao Paulo — Sat, 27 Sept 2025
-- D-EDGE, Sao Paulo — Sat, 21 Jun 2025
-- D-EDGE, Sao Paulo — Sat, 1 Mar 2025
+- Komplexo Tempo, Sao Paulo · Thu, 2 Apr 2026
+- D-EDGE, Sao Paulo · Sun, 21 Dec 2025
+- My Aeon, Melbourne · Fri, 12 Dec 2025
+- Riverwood Downs Mountain Valley Resort, Sydney · Fri, 5 Dec 2025
+- TBA - Secret Location, Auckland · Fri, 5 Dec 2025
+- D-EDGE, Sao Paulo · Sat, 27 Sept 2025
+- D-EDGE, Sao Paulo · Sat, 21 Jun 2025
+- D-EDGE, Sao Paulo · Sat, 1 Mar 2025
 
 ## Shares bills with
 

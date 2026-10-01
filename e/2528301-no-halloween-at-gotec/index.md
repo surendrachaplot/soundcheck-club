@@ -1,6 +1,6 @@
 # NO HALLOWEEN at Gotec
 
-NO HALLOWEEN at Gotec on Sat 31 Oct, Karlsruhe. 10 artists on the bill: Alba Franch, Antonym, BTFL and CALLUSH and 6 more. Preview the line-up and save it on soundcheck.
+NO HALLOWEEN at Gotec on Sat 31 Oct, Karlsruhe. 10 artists: Alba Franch, Antonym, BTFL and CALLUSH and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

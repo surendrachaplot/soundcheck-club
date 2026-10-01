@@ -1,6 +1,6 @@
 # Oliver Koletzki, Rexie Lex, Baime at Hangaren
 
-Oliver Koletzki, Rexie Lex, Baime at Hangaren on Fri 13 Nov, Copenhagen. 3 artists on the bill: Baime, Oliver Koletzki and Rexie Lex. House and Deep House. Preview the line-up and save it on soundcheck.
+Oliver Koletzki, Rexie Lex, Baime at Hangaren on Fri 13 Nov, Copenhagen. 3 artists: Baime, Oliver Koletzki and Rexie Lex. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

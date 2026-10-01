@@ -1,6 +1,6 @@
 # Spin the Bottle: Stealth Mode, DJ AL-B, Patchwork at The Sinclair
 
-Spin the Bottle: Stealth Mode, DJ AL-B, Patchwork at The Sinclair on Fri 2 Oct, Boston. 2 artists on the bill: AL-B and Patchwork. House and Disco. Preview the line-up and save it on soundcheck.
+Spin the Bottle: Stealth Mode, DJ AL-B, Patchwork at The Sinclair on Fri 2 Oct, Boston. 2 artists: AL-B and Patchwork. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # glue & bass down borders at ://about blank
 
-glue & bass down borders at ://about blank on Sat 24 Oct, Berlin. 11 artists on the bill: Al Aslan, Antonella mags schneller, Ele Luz and JUSTICE (DE) and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+glue & bass down borders at ://about blank on Sat 24 Oct, Berlin. 11 artists: Al Aslan, Antonella mags schneller, Ele Luz and JUSTICE (DE) and 7 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

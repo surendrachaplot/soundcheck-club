@@ -1,6 +1,6 @@
 # UMS: First Social of The Year - House / Garage at Movers
 
-UMS: First Social of The Year - House / Garage at Movers on Thu 1 Oct, Nottingham. House and Garage. Preview the line-up and save it on soundcheck.
+UMS: First Social of The Year - House / Garage at Movers on Thu 1 Oct, Nottingham. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

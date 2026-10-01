@@ -1,8 +1,8 @@
 # Brenda Serna (2)
 
-Brenda Serna (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrik, Madrid on Sat, 17 Oct 2026.
+Brenda Serna (2) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrik, Madrid on Sat, 17 Oct 2026.
 
-Brenda Serna is a techno and trance artist based in Spain, tracked on soundcheck, with 19 sets logged across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside CESAR ALMENA, Nuke and Parsa Jafari. Next up: Fabrik, Madrid on Sat 17 Oct.
+Brenda Serna is a techno and trance artist based in Spain, with 19 gigs on soundcheck across Barcelona, Berlin, Ibiza and Lisbon and 4 more. Often billed alongside CESAR ALMENA, Nuke and Parsa Jafari. Next up: Fabrik, Madrid on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Brenda Serna is a techno and trance artist based in Spain, tracked on soundcheck
 
 ## Recently played
 
-- Hotel El Bruc, Barcelona — Sat, 19 Sept 2026
-- TBA - Playa de Manchamar, Valverde de Júcar, Cuenca, Madrid — Sat, 27 Jun 2026
-- Overclub, Mallorca — Fri, 19 Jun 2026
-- Studio Club Malaga, Malaga — Fri, 17 Apr 2026
-- Ku Barcelona, Barcelona — Sun, 11 Jan 2026
-- OST, Berlin — Sat, 10 Jan 2026
-- Fabrik, Madrid — Sat, 15 Nov 2025
-- Studio Club Malaga, Malaga — Fri, 7 Nov 2025
+- Hotel El Bruc, Barcelona · Sat, 19 Sept 2026
+- TBA - Playa de Manchamar, Valverde de Júcar, Cuenca, Madrid · Sat, 27 Jun 2026
+- Overclub, Mallorca · Fri, 19 Jun 2026
+- Studio Club Malaga, Malaga · Fri, 17 Apr 2026
+- Ku Barcelona, Barcelona · Sun, 11 Jan 2026
+- OST, Berlin · Sat, 10 Jan 2026
+- Fabrik, Madrid · Sat, 15 Nov 2025
+- Studio Club Malaga, Malaga · Fri, 7 Nov 2025
 
 ## Shares bills with
 

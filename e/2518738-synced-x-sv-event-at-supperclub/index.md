@@ -1,6 +1,6 @@
 # Synced x SV Event at Supperclub
 
-Synced x SV Event at Supperclub on Sat 3 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Synced x SV Event at Supperclub on Sat 3 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jammer
 
-Jammer is a House and Grime artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Basing House, London on Fri, 9 Oct 2026.
+Jammer is a House and Grime artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Basing House, London on Fri, 9 Oct 2026.
 
-Jammer is a house and grime artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Ibiza, London, Malaga and Malta and 4 more. Often billed alongside Skepta, Meeshy and Ossie. Next up: Basing House, London on Fri 9 Oct.
+Jammer is a house and grime artist based in United Kingdom, with 23 gigs on soundcheck across Ibiza, London, Malaga and Malta and 4 more. Often billed alongside Skepta, Meeshy and Ossie. Next up: Basing House, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Jammer is a house and grime artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- TBA - Multiple Venues, Malta — Thu, 18 Jun 2026
-- HVEN, Tokyo — Sat, 11 Apr 2026
-- Revolver Upstairs, Melbourne — Thu, 2 Apr 2026
-- Revolver Upstairs, Melbourne — Thu, 2 Apr 2026
-- Studio Club Malaga, Malaga — Sat, 29 Nov 2025
-- Night Tales, London — Thu, 9 Oct 2025
-- Hï Ibiza, Ibiza — Tue, 2 Sept 2025
-- Ibiza Boat Club, Ibiza — Tue, 26 Aug 2025
+- TBA - Multiple Venues, Malta · Thu, 18 Jun 2026
+- HVEN, Tokyo · Sat, 11 Apr 2026
+- Revolver Upstairs, Melbourne · Thu, 2 Apr 2026
+- Revolver Upstairs, Melbourne · Thu, 2 Apr 2026
+- Studio Club Malaga, Malaga · Sat, 29 Nov 2025
+- Night Tales, London · Thu, 9 Oct 2025
+- Hï Ibiza, Ibiza · Tue, 2 Sept 2025
+- Ibiza Boat Club, Ibiza · Tue, 26 Aug 2025
 
 ## Shares bills with
 

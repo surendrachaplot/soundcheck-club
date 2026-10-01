@@ -1,8 +1,8 @@
 # The Glove That Fits
 
-The Glove That Fits is a music venue in London with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Freqy Rhythm pres. Hard Launch: A Queer Party" on Thu, 1 Oct 2026.
+The Glove That Fits is a music venue in London with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Freqy Rhythm pres. Hard Launch: A Queer Party" on Thu, 1 Oct 2026.
 
-The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. Browse upcoming dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
+The Glove That Fits is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including Aisling, Alan Fitzpatrick, Amor Ante and Aniaef and 2 more. See dates, start times and who's playing. 179 Morning Lane, Hackney, E96LH, United Kingdom.
 
 ## What's on
 

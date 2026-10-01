@@ -1,6 +1,6 @@
 # Tilt Shift Wednesdays at Revolver Upstairs
 
-Tilt Shift Wednesdays at Revolver Upstairs on Wed 14 Oct, Melbourne. 3 artists on the bill: Gay Roberto, Sammy Sanchez and Superhype. Preview the line-up and save it on soundcheck.
+Tilt Shift Wednesdays at Revolver Upstairs on Wed 14 Oct, Melbourne. 3 artists: Gay Roberto, Sammy Sanchez and Superhype. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

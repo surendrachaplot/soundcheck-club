@@ -1,6 +1,6 @@
 # I Hate Models + YellowHeads x La Estación, Lago San Roque, Córdoba at TBA - La Estacion, Cordoba
 
-I Hate Models + YellowHeads x La Estación, Lago San Roque, Córdoba at TBA - La Estacion, Cordoba on Sat 31 Oct, Argentina. 2 artists on the bill: I Hate Models and YellowHeads. Preview the line-up and save it on soundcheck.
+I Hate Models + YellowHeads x La Estación, Lago San Roque, Córdoba at TBA - La Estacion, Cordoba on Sat 31 Oct, Argentina. 2 artists: I Hate Models and YellowHeads. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

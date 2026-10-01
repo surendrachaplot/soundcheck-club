@@ -1,8 +1,8 @@
 # SAYA
 
-SAYA is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+SAYA is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-SAYA is a house and tech house artist based in Finland, tracked on soundcheck, with 28 sets logged across Amsterdam, Bristol, Brussels and Ibiza and 8 more. Often billed alongside Huck Finn, Shady Lady and Solartrak. Next up: Fire & Lightbox, London on Sat 31 Oct.
+SAYA is a house and tech house artist based in Finland, with 28 gigs on soundcheck across Amsterdam, Bristol, Brussels and Ibiza and 8 more. Often billed alongside Huck Finn, Shady Lady and Solartrak. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ SAYA is a house and tech house artist based in Finland, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA - The Wild Retreat, Bristol — Sat, 15 Aug 2026
-- Das Werk, Vienna — Fri, 14 Aug 2026
-- Area51 / 17map Minami, Osaka — Sat, 18 Jul 2026
-- Casa Capitão, Lisbon — Sat, 30 May 2026
-- TBA - Various venues, Amsterdam — Thu, 5 Mar 2026
-- Meet Berlage, Amsterdam — Sat, 25 Oct 2025
-- Illegaal, Brussels — Sat, 27 Sept 2025
-- Galeria Zé Dos Bois, Lisbon — Fri, 19 Sept 2025
+- TBA - The Wild Retreat, Bristol · Sat, 15 Aug 2026
+- Das Werk, Vienna · Fri, 14 Aug 2026
+- Area51 / 17map Minami, Osaka · Sat, 18 Jul 2026
+- Casa Capitão, Lisbon · Sat, 30 May 2026
+- TBA - Various venues, Amsterdam · Thu, 5 Mar 2026
+- Meet Berlage, Amsterdam · Sat, 25 Oct 2025
+- Illegaal, Brussels · Sat, 27 Sept 2025
+- Galeria Zé Dos Bois, Lisbon · Fri, 19 Sept 2025
 
 ## Shares bills with
 

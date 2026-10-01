@@ -1,6 +1,6 @@
 # Socore Day Factory #06 ~JunIzawa(LITE/CONTRASTZ) 　'Core Ep' Release Party in Osaka~ at Socore Factory
 
-Socore Day Factory #06 ~JunIzawa(LITE/CONTRASTZ) 　'Core Ep' Release Party in Osaka~ at Socore Factory on Wed 18 Nov, Osaka. 1 artist on the bill: WÖNDER GIRL. Electro and IDM. Preview the line-up and save it on soundcheck.
+Socore Day Factory #06 ~JunIzawa(LITE/CONTRASTZ) 　'Core Ep' Release Party in Osaka~ at Socore Factory on Wed 18 Nov, Osaka. 1 artist: WÖNDER GIRL. Electro and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

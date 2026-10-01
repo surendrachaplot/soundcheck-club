@@ -1,6 +1,6 @@
 # EAST COAST POWER DYNAMICS THROBBING GRISTLE THANKSGIVING WSG TELEVISION GORE at Upstairs at the 700
 
-EAST COAST POWER DYNAMICS THROBBING GRISTLE THANKSGIVING WSG TELEVISION GORE at Upstairs at the 700 on Fri 27 Nov, Philadelphia. Experimental and Industrial. Preview the line-up and save it on soundcheck.
+EAST COAST POWER DYNAMICS THROBBING GRISTLE THANKSGIVING WSG TELEVISION GORE at Upstairs at the 700 on Fri 27 Nov, Philadelphia. Experimental and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

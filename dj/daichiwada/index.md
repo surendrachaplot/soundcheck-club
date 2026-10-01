@@ -1,8 +1,8 @@
 # Daichi Wada
 
-Daichi Wada is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Villa, Oslo on Fri, 9 Oct 2026.
+Daichi Wada is a Techno and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Villa, Oslo on Fri, 9 Oct 2026.
 
-Daichi Wada is a techno and trance artist based in Japan, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside XINOVI, KOSEI and Golpe Mortal. Next up: The Villa, Oslo on Fri 9 Oct.
+Daichi Wada is a techno and trance artist based in Japan, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 8 more. Often billed alongside XINOVI, KOSEI and Golpe Mortal. Next up: The Villa, Oslo on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Daichi Wada is a techno and trance artist based in Japan, tracked on soundcheck,
 
 ## Recently played
 
-- RADION, Amsterdam — Sat, 26 Sept 2026
-- WOMB, Tokyo — Tue, 5 May 2026
-- Upsidedown, Osaka — Sat, 2 May 2026
-- Secret Venue in Minatoku-Nishiazabu, Tokyo — Fri, 3 Apr 2026
-- Lehmann Club, Stuttgart — Sat, 25 Oct 2025
-- Tempio del Futuro Perduto, Milan — Fri, 17 Oct 2025
-- Mastak, Warsaw — Fri, 10 Oct 2025
-- EXIT Glasgow, Glasgow — Sat, 4 Oct 2025
+- RADION, Amsterdam · Sat, 26 Sept 2026
+- WOMB, Tokyo · Tue, 5 May 2026
+- Upsidedown, Osaka · Sat, 2 May 2026
+- Secret Venue in Minatoku-Nishiazabu, Tokyo · Fri, 3 Apr 2026
+- Lehmann Club, Stuttgart · Sat, 25 Oct 2025
+- Tempio del Futuro Perduto, Milan · Fri, 17 Oct 2025
+- Mastak, Warsaw · Fri, 10 Oct 2025
+- EXIT Glasgow, Glasgow · Sat, 4 Oct 2025
 
 ## Shares bills with
 

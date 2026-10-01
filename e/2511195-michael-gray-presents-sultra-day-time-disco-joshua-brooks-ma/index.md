@@ -1,6 +1,6 @@
 # Michael Gray presents Sultra - Day Time Disco - Joshua Brooks Manchester at Joshua Brooks
 
-Michael Gray presents Sultra - Day Time Disco - Joshua Brooks Manchester on Sat 28 Nov, Manchester. 1 artist on the bill: Michael Gray. House and Disco. Preview the line-up and save it on soundcheck.
+Michael Gray presents Sultra - Day Time Disco - Joshua Brooks Manchester on Sat 28 Nov, Manchester. 1 artist: Michael Gray. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

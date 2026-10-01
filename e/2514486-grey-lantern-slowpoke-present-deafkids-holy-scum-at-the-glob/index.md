@@ -1,6 +1,6 @@
 # Grey Lantern & Slowpoke present: DEAFKIDS / Holy Scum at The Globe, Glossop
 
-Grey Lantern & Slowpoke present: DEAFKIDS / Holy Scum at The Globe, Glossop on Mon 12 Oct, Manchester. Techno and Noise. Preview the line-up and save it on soundcheck.
+Grey Lantern & Slowpoke present: DEAFKIDS / Holy Scum at The Globe, Glossop on Mon 12 Oct, Manchester. Techno and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

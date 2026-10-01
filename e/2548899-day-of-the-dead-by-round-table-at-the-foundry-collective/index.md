@@ -1,6 +1,6 @@
 # Day of the Dead by Round Table at The Foundry Collective
 
-Day of the Dead by Round Table at The Foundry Collective on Sun 1 Nov, London. 5 artists on the bill: Drozza, Ilusorio, Léo Patt and QWAK and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Day of the Dead by Round Table at The Foundry Collective on Sun 1 Nov, London. 5 artists: Drozza, Ilusorio, Léo Patt and QWAK and 1 more. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

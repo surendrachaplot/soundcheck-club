@@ -1,8 +1,8 @@
 # ALMAS
 
-ALMAS is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
+ALMAS is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Public Works, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-ALMAS is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across San Francisco/Oakland. Often billed alongside Emanate, Dirac (US) and HIDRA. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
+ALMAS is a house and techno artist based in United States of America, with 24 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Emanate, Dirac (US) and HIDRA. Next up: Public Works, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ ALMAS is a house and techno artist based in United States of America, tracked on
 
 ## Recently played
 
-- Hawthorn, San Francisco/Oakland — Fri, 28 Aug 2026
-- F8 1192 Folsom, San Francisco/Oakland — Wed, 15 Jul 2026
-- The Great Northern, San Francisco/Oakland — Fri, 19 Jun 2026
-- The Great Northern, San Francisco/Oakland — Fri, 19 Jun 2026
-- The Midway, San Francisco/Oakland — Sat, 30 May 2026
-- The Great Northern, San Francisco/Oakland — Sat, 15 Nov 2025
-- The Great Northern, San Francisco/Oakland — Thu, 13 Nov 2025
-- Storek, San Francisco/Oakland — Fri, 12 Sept 2025
+- Hawthorn, San Francisco/Oakland · Fri, 28 Aug 2026
+- F8 1192 Folsom, San Francisco/Oakland · Wed, 15 Jul 2026
+- The Great Northern, San Francisco/Oakland · Fri, 19 Jun 2026
+- The Great Northern, San Francisco/Oakland · Fri, 19 Jun 2026
+- The Midway, San Francisco/Oakland · Sat, 30 May 2026
+- The Great Northern, San Francisco/Oakland · Sat, 15 Nov 2025
+- The Great Northern, San Francisco/Oakland · Thu, 13 Nov 2025
+- Storek, San Francisco/Oakland · Fri, 12 Sept 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # CFCF
 
-CFCF is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+CFCF is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-CFCF is a house and electronica artist based in Canada, tracked on soundcheck, with 26 sets logged across Los Angeles, Montreal, New York City and Portland and 4 more. Often billed alongside Bianca Lexis, Doss and Franxx. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
+CFCF is a house and electronica artist based in Canada, with 26 gigs on soundcheck across Los Angeles, Montreal, New York City and Portland and 4 more. Often billed alongside Bianca Lexis, Doss and Franxx. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ CFCF is a house and electronica artist based in Canada, tracked on soundcheck, w
 
 ## Recently played
 
-- TRANSMISSION DC, Washington DC — Sun, 2 Aug 2026
-- TBA - Koreatown, Los Angeles, Los Angeles — Fri, 31 Jul 2026
-- Société des arts technologiques, Montreal — Fri, 15 May 2026
-- Parc Jean-Drapeau, Montreal — Thu, 14 May 2026
-- Standard Time, Toronto — Sat, 2 May 2026
-- Elsewhere, New York City — Fri, 1 May 2026
-- Underground SF, San Francisco/Oakland — Sat, 28 Feb 2026
-- Ucla Sigma Pi Fraternity, Los Angeles — Fri, 23 Jan 2026
+- TRANSMISSION DC, Washington DC · Sun, 2 Aug 2026
+- TBA - Koreatown, Los Angeles, Los Angeles · Fri, 31 Jul 2026
+- Société des arts technologiques, Montreal · Fri, 15 May 2026
+- Parc Jean-Drapeau, Montreal · Thu, 14 May 2026
+- Standard Time, Toronto · Sat, 2 May 2026
+- Elsewhere, New York City · Fri, 1 May 2026
+- Underground SF, San Francisco/Oakland · Sat, 28 Feb 2026
+- Ucla Sigma Pi Fraternity, Los Angeles · Fri, 23 Jan 2026
 
 ## Shares bills with
 

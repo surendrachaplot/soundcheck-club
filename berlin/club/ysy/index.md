@@ -1,8 +1,8 @@
 # YSY
 
-YSY is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Orbita x YSY" on Fri, 2 Oct 2026.
+YSY is a music venue in Berlin with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Orbita x YSY" on Fri, 2 Oct 2026.
 
-YSY is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Alfieri, Davin Underwood, DJ Aficionado and Dr. Sud and 2 more. Browse upcoming dates, start times and who's playing. Frankfurter Allee 23.
+YSY is a music venue in Berlin listed on soundcheck. 3 upcoming gigs, with line-ups including Alfieri, Davin Underwood, DJ Aficionado and Dr. Sud and 2 more. See dates, start times and who's playing. Frankfurter Allee 23.
 
 ## What's on
 

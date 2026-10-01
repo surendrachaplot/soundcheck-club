@@ -1,6 +1,6 @@
 # InfeXious x Disfunction: No Escape - Act of Rage, TLØ +more at The Classic Grand
 
-InfeXious x Disfunction: No Escape - Act of Rage, TLØ +more at The Classic Grand on Fri 2 Oct, Glasgow. Techno and Gabber. Preview the line-up and save it on soundcheck.
+InfeXious x Disfunction: No Escape - Act of Rage, TLØ +more at The Classic Grand on Fri 2 Oct, Glasgow. Techno and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

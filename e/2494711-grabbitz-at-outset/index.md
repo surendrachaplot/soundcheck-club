@@ -1,6 +1,6 @@
 # Grabbitz at Outset
 
-Grabbitz at Outset on Fri 23 Oct, Chicago. Preview the line-up and save it on soundcheck.
+Grabbitz at Outset on Fri 23 Oct, Chicago. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

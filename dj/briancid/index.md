@@ -1,8 +1,8 @@
 # Brian Cid
 
-Brian Cid is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Los Angeles on Sat, 3 Oct 2026.
+Brian Cid is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Los Angeles on Sat, 3 Oct 2026.
 
-Brian Cid is a house and deep house artist based in United States of America, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Chicago and Los Angeles and 7 more. Often billed alongside Kike Roldan, Amiti and DJ Chus. Next up: TBA, Los Angeles on Sat 3 Oct.
+Brian Cid is a house and deep house artist based in United States of America, with 31 gigs on soundcheck across Amsterdam, Berlin, Chicago and Los Angeles and 7 more. Often billed alongside Kike Roldan, Amiti and DJ Chus. Next up: TBA, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Brian Cid is a house and deep house artist based in United States of America, tr
 
 ## Recently played
 
-- Edge Miami, Miami — Sat, 15 Aug 2026
-- House of Yes, New York City — Sat, 8 Aug 2026
-- ZeyZey, Miami — Fri, 29 May 2026
-- Mad Radio Miami, Miami — Sat, 21 Mar 2026
-- Kater, Berlin — Wed, 30 Apr 2025
-- Do Not Sit On The Furniture, Miami — Fri, 25 Apr 2025
-- MODE Downtown Miami, Miami — Fri, 28 Mar 2025
-- StereoBar, Montreal — Fri, 21 Mar 2025
+- Edge Miami, Miami · Sat, 15 Aug 2026
+- House of Yes, New York City · Sat, 8 Aug 2026
+- ZeyZey, Miami · Fri, 29 May 2026
+- Mad Radio Miami, Miami · Sat, 21 Mar 2026
+- Kater, Berlin · Wed, 30 Apr 2025
+- Do Not Sit On The Furniture, Miami · Fri, 25 Apr 2025
+- MODE Downtown Miami, Miami · Fri, 28 Mar 2025
+- StereoBar, Montreal · Fri, 21 Mar 2025
 
 ## Shares bills with
 

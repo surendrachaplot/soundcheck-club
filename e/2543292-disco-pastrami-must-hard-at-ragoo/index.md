@@ -1,6 +1,6 @@
 # Disco Pastrami: Must Hard at Ragoo
 
-Disco Pastrami: Must Hard at Ragoo on Thu 29 Oct, Milan. Garage and Electro. Preview the line-up and save it on soundcheck.
+Disco Pastrami: Must Hard at Ragoo on Thu 29 Oct, Milan. Garage and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Young Widows (US), Aicher, LVFT at Kantine am Berghain
 
-Young Widows (US), Aicher, LVFT at Kantine am Berghain on Thu 1 Oct, Berlin. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+Young Widows (US), Aicher, LVFT at Kantine am Berghain on Thu 1 Oct, Berlin. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

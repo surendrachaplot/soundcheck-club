@@ -1,6 +1,6 @@
 # Eli Escobar / Bag Raiders at SILO
 
-Eli Escobar / Bag Raiders at SILO on Sat 14 Nov, New York City. 2 artists on the bill: Bag Raiders and Eli Escobar. House and Deep House. Preview the line-up and save it on soundcheck.
+Eli Escobar / Bag Raiders at SILO on Sat 14 Nov, New York City. 2 artists: Bag Raiders and Eli Escobar. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

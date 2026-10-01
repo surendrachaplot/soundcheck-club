@@ -1,6 +1,6 @@
 # FURRYRAVE Vol.3 - BASS / HOUSE / TECHNO - at ZEROTOKYO
 
-FURRYRAVE Vol.3 - BASS / HOUSE / TECHNO - at ZEROTOKYO on Sun 25 Oct, Tokyo. 2 artists on the bill: CRAZYHYUGA and HiTOMi. House and Bass. Preview the line-up and save it on soundcheck.
+FURRYRAVE Vol.3 - BASS / HOUSE / TECHNO - at ZEROTOKYO on Sun 25 Oct, Tokyo. 2 artists: CRAZYHYUGA and HiTOMi. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Atish
 
-Atish is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Hotel Via, San Francisco/Oakland on Sun, 18 Oct 2026.
+Atish is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Via, San Francisco/Oakland on Sun, 18 Oct 2026.
 
-Atish is a house and deep house artist based in United States of America, tracked on soundcheck, with 40 sets logged across Berlin, Chicago, Denver and Los Angeles and 8 more. Often billed alongside Kora (CA), Nikita and Catori. Next up: Hotel Via, San Francisco/Oakland on Sun 18 Oct.
+Atish is a house and deep house artist based in United States of America, with 40 gigs on soundcheck across Berlin, Chicago, Denver and Los Angeles and 8 more. Often billed alongside Kora (CA), Nikita and Catori. Next up: Hotel Via, San Francisco/Oakland on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Atish is a house and deep house artist based in United States of America, tracke
 
 ## Recently played
 
-- House of Yes, New York City — Sat, 1 Aug 2026
-- Esmé Hotel Roofrop Miami Beach, Miami — Sat, 28 Mar 2026
-- Signal, New York City — Fri, 10 Oct 2025
-- LoHi, New York City — Sat, 12 Jul 2025
-- Public Works, San Francisco/Oakland — Fri, 4 Jul 2025
-- Flash, Washington DC — Sun, 22 Jun 2025
-- Belmont Veterans Memorial Pier, Los Angeles — Sat, 17 May 2025
-- Do Not Sit On The Furniture, Miami — Sat, 3 May 2025
+- House of Yes, New York City · Sat, 1 Aug 2026
+- Esmé Hotel Roofrop Miami Beach, Miami · Sat, 28 Mar 2026
+- Signal, New York City · Fri, 10 Oct 2025
+- LoHi, New York City · Sat, 12 Jul 2025
+- Public Works, San Francisco/Oakland · Fri, 4 Jul 2025
+- Flash, Washington DC · Sun, 22 Jun 2025
+- Belmont Veterans Memorial Pier, Los Angeles · Sat, 17 May 2025
+- Do Not Sit On The Furniture, Miami · Sat, 3 May 2025
 
 ## Shares bills with
 

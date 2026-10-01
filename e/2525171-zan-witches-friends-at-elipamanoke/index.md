@@ -1,6 +1,6 @@
 # ZAN – Witches* & Friends at elipamanoke
 
-ZAN – Witches* & Friends at elipamanoke on Sat 31 Oct, Leipzig. Trance and Techno. Preview the line-up and save it on soundcheck.
+ZAN – Witches* & Friends at elipamanoke on Sat 31 Oct, Leipzig. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

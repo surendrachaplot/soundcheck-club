@@ -1,6 +1,6 @@
 # BomBlastic - The Next Chapter at RADION
 
-BomBlastic - The Next Chapter at RADION on Sat 17 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+BomBlastic - The Next Chapter at RADION on Sat 17 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

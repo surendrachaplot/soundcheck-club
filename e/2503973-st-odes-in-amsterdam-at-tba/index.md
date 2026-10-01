@@ -1,6 +1,6 @@
 # st. odes in amsterdam at TBA
 
-st. odes in amsterdam at TBA on Fri 23 Oct, Amsterdam. 4 artists on the bill: Ben Kaczor, Efdemin, Lb Honne and Yu Su. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+st. odes in amsterdam at TBA on Fri 23 Oct, Amsterdam. 4 artists: Ben Kaczor, Efdemin, Lb Honne and Yu Su. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

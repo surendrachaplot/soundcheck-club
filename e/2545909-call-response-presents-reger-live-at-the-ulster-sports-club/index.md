@@ -1,6 +1,6 @@
 # Call & Response presents: Reger (Live) at The Ulster Sports Club
 
-Call & Response presents: Reger (Live) at The Ulster Sports Club on Sat 24 Oct, Belfast. 3 artists on the bill: Matheson, More Gain and Reger. Preview the line-up and save it on soundcheck.
+Call & Response presents: Reger (Live) at The Ulster Sports Club on Sat 24 Oct, Belfast. 3 artists: Matheson, More Gain and Reger. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

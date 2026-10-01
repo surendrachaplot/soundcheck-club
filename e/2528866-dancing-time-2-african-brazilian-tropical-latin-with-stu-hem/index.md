@@ -1,6 +1,6 @@
 # Dancing Time 2: African, Brazilian, Tropical & Latin with Stu Hemulem at Movers
 
-Dancing Time 2: African, Brazilian, Tropical & Latin with Stu Hemulem at Movers on Sat 14 Nov, Nottingham. Afrobeats. Preview the line-up and save it on soundcheck.
+Dancing Time 2: African, Brazilian, Tropical & Latin with Stu Hemulem at Movers on Sat 14 Nov, Nottingham. Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

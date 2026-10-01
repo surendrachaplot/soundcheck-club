@@ -1,8 +1,8 @@
 # SWIM (AU)
 
-SWIM (AU) is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+SWIM (AU) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-SWIM (AU) is a house and techno artist based in Australia, tracked on soundcheck, with 52 sets logged across Amsterdam, Belfast, Berlin and Brighton and 19 more. Often billed alongside CRUSH3d, DJ Heartstring and Bella Claxton. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+SWIM (AU) is a house and techno artist based in Australia, with 52 gigs on soundcheck across Amsterdam, Belfast, Berlin and Brighton and 19 more. Often billed alongside CRUSH3d, DJ Heartstring and Bella Claxton. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ SWIM (AU) is a house and techno artist based in Australia, tracked on soundcheck
 
 ## Recently played
 
-- Else, Berlin — Sat, 19 Sept 2026
-- Palmerstown House Estate, Dublin — Sun, 2 Aug 2026
-- Silverworks Island, London — Sun, 12 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Newspeak, Montreal — Fri, 17 Apr 2026
-- Yes, Manchester — Sat, 28 Feb 2026
-- Mikropol, Berlin — Fri, 6 Feb 2026
-- Paradiso, Amsterdam — Thu, 5 Feb 2026
+- Else, Berlin · Sat, 19 Sept 2026
+- Palmerstown House Estate, Dublin · Sun, 2 Aug 2026
+- Silverworks Island, London · Sun, 12 Jul 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- Newspeak, Montreal · Fri, 17 Apr 2026
+- Yes, Manchester · Sat, 28 Feb 2026
+- Mikropol, Berlin · Fri, 6 Feb 2026
+- Paradiso, Amsterdam · Thu, 5 Feb 2026
 
 ## Shares bills with
 

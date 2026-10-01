@@ -1,6 +1,6 @@
 # Alphabethead, Grecco Romank, Guardian Singles And Living Perfection at Goblin
 
-Alphabethead, Grecco Romank, Guardian Singles And Living Perfection at Goblin on Fri 2 Oct, Auckland. Experimental. Preview the line-up and save it on soundcheck.
+Alphabethead, Grecco Romank, Guardian Singles And Living Perfection at Goblin on Fri 2 Oct, Auckland. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

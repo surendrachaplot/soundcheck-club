@@ -1,8 +1,8 @@
 # age (1)
 
-age (1) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Enter Shibuya, Tokyo on Fri, 2 Oct 2026.
+age (1) is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Enter Shibuya, Tokyo on Fri, 2 Oct 2026.
 
-age is a techno and trance artist based in Japan, tracked on soundcheck, with 11 sets logged across Seoul and Tokyo. Often billed alongside UG, Lisa Mizuno and lostbaggage. Next up: Enter Shibuya, Tokyo on Fri 2 Oct.
+age is a techno and trance artist based in Japan, with 11 gigs on soundcheck across Seoul and Tokyo. Often billed alongside UG, Lisa Mizuno and lostbaggage. Next up: Enter Shibuya, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ age is a techno and trance artist based in Japan, tracked on soundcheck, with 11
 
 ## Recently played
 
-- Volnost, Seoul — Sat, 25 Jul 2026
-- Atdge Seoul, Seoul — Fri, 24 Jul 2026
-- Enter Shibuya, Tokyo — Fri, 8 May 2026
-- TBA, Tokyo — Fri, 10 Apr 2026
-- clubasia, Tokyo — Fri, 13 Mar 2026
-- Mitsuki, Tokyo — Thu, 29 Jan 2026
-- Suns Shimokitazawa, Tokyo — Thu, 8 Jan 2026
-- Atdge Seoul, Seoul — Sun, 30 Nov 2025
+- Volnost, Seoul · Sat, 25 Jul 2026
+- Atdge Seoul, Seoul · Fri, 24 Jul 2026
+- Enter Shibuya, Tokyo · Fri, 8 May 2026
+- TBA, Tokyo · Fri, 10 Apr 2026
+- clubasia, Tokyo · Fri, 13 Mar 2026
+- Mitsuki, Tokyo · Thu, 29 Jan 2026
+- Suns Shimokitazawa, Tokyo · Thu, 8 Jan 2026
+- Atdge Seoul, Seoul · Sun, 30 Nov 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Long Play: Floating Points at Rhythm
 
-Long Play: Floating Points at Rhythm on Thu 1 Oct, Toronto. Preview the line-up and save it on soundcheck.
+Long Play: Floating Points at Rhythm on Thu 1 Oct, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

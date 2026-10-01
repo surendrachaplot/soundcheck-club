@@ -1,6 +1,6 @@
 # Reprise (TECHNO) at WOMB
 
-Reprise (TECHNO) at WOMB on Fri 30 Oct, Tokyo. 8 artists on the bill: Akua, DJ Nobu, Hello Kenny and i-sha and 4 more. Techno. Preview the line-up and save it on soundcheck.
+Reprise (TECHNO) at WOMB on Fri 30 Oct, Tokyo. 8 artists: Akua, DJ Nobu, Hello Kenny and i-sha and 4 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Navy Pier
 
-Navy Pier is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Charlotte de Witte at East End" on Fri, 16 Oct 2026.
+Navy Pier is a music venue in Chicago with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Charlotte de Witte at East End" on Fri, 16 Oct 2026.
 
-Navy Pier is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with line-ups including Charlotte de Witte, Deadmau5 and Dom Dolla. Browse upcoming dates, start times and who's playing. 600 E Grand Ave; Chicago; IL 60611.
+Navy Pier is a music venue in Chicago listed on soundcheck. 4 upcoming gigs, with line-ups including Charlotte de Witte, Deadmau5 and Dom Dolla. See dates, start times and who's playing. 600 E Grand Ave; Chicago; IL 60611.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # The Large
 
-The Large is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Outside, Los Angeles on Sat, 3 Oct 2026.
+The Large is a Dancehall and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Outside, Los Angeles on Sat, 3 Oct 2026.
 
-The Large is a dancehall and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Geneva, Glasgow, Los Angeles and New York City. Often billed alongside Akanbi, Ayanna Heaven and Jubilee. Next up: TBA - Outside, Los Angeles on Sat 3 Oct.
+The Large is a dancehall and club artist based in United States of America, with 26 gigs on soundcheck across Geneva, Glasgow, Los Angeles and New York City. Often billed alongside Akanbi, Ayanna Heaven and Jubilee. Next up: TBA - Outside, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ The Large is a dancehall and club artist based in United States of America, trac
 
 ## Recently played
 
-- Nowadays, New York City — Fri, 4 Sept 2026
-- La Gravière, Geneva — Sat, 28 Feb 2026
-- The Berkeley Suite, Glasgow — Fri, 13 Feb 2026
-- Bossa Nova Civic Club, New York City — Sun, 1 Feb 2026
-- TBA - secret brooklyn location , New York City — Fri, 5 Sept 2025
-- Bossa Nova Civic Club, New York City — Wed, 22 Jan 2025
-- Mansions, New York City — Sun, 15 Dec 2024
-- Honey's, New York City — Sat, 7 Sept 2024
+- Nowadays, New York City · Fri, 4 Sept 2026
+- La Gravière, Geneva · Sat, 28 Feb 2026
+- The Berkeley Suite, Glasgow · Fri, 13 Feb 2026
+- Bossa Nova Civic Club, New York City · Sun, 1 Feb 2026
+- TBA - secret brooklyn location , New York City · Fri, 5 Sept 2025
+- Bossa Nova Civic Club, New York City · Wed, 22 Jan 2025
+- Mansions, New York City · Sun, 15 Dec 2024
+- Honey's, New York City · Sat, 7 Sept 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # 野百合 -noyuri- 1st Anniversary - HIPHOP / HOUSE - at ZEROTOKYO
 
-野百合 -noyuri- 1st Anniversary - HIPHOP / HOUSE - at ZEROTOKYO on Thu 1 Oct, Tokyo. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+野百合 -noyuri- 1st Anniversary - HIPHOP / HOUSE - at ZEROTOKYO on Thu 1 Oct, Tokyo. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

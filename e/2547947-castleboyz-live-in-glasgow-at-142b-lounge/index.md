@@ -1,6 +1,6 @@
 # CASTLEBOYz : Live In Glasgow at 142b Lounge
 
-CASTLEBOYz : Live In Glasgow at 142b Lounge on Sat 10 Oct, Glasgow. Hip-Hop. Preview the line-up and save it on soundcheck.
+CASTLEBOYz : Live In Glasgow at 142b Lounge on Sat 10 Oct, Glasgow. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

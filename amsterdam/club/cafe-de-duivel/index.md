@@ -1,8 +1,8 @@
 # Cafe De Duivel
 
-Cafe De Duivel is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "CQTD presents Rhythm & Sound ADE30" on Fri, 23 Oct 2026.
+Cafe De Duivel is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "CQTD presents Rhythm & Sound ADE30" on Fri, 23 Oct 2026.
 
-Cafe De Duivel is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Chris Wheatley and Simon Seven Six. Browse upcoming dates, start times and who's playing. Reguliersdwarsstraat 87.
+Cafe De Duivel is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Chris Wheatley and Simon Seven Six. See dates, start times and who's playing. Reguliersdwarsstraat 87.
 
 ## What's on
 

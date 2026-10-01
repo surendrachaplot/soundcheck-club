@@ -1,6 +1,6 @@
 # Homerton at Cu
 
-Homerton at Cu on Sat 3 Oct, London. 2 artists on the bill: KATAINAKA and YASDUB. House and Dub. Preview the line-up and save it on soundcheck.
+Homerton at Cu on Sat 3 Oct, London. 2 artists: KATAINAKA and YASDUB. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

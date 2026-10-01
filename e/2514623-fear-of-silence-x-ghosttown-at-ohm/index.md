@@ -1,6 +1,6 @@
 # Fear Of Silence x Ghosttown at OHM
 
-Fear Of Silence x Ghosttown at OHM on Thu 15 Oct, Berlin. 6 artists on the bill: Brootworth, Delta Division, Harba and re:ni and 2 more. Bass and Experimental. Preview the line-up and save it on soundcheck.
+Fear Of Silence x Ghosttown at OHM on Thu 15 Oct, Berlin. 6 artists: Brootworth, Delta Division, Harba and re:ni and 2 more. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

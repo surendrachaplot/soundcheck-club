@@ -1,6 +1,6 @@
 # Based On Taste #3 at Nico's Bar at Hackney Bridge
 
-Based On Taste #3 at Nico's Bar at Hackney Bridge on Fri 23 Oct, London. 2 artists on the bill: ell.iot and REO (UK). House and Electro. Preview the line-up and save it on soundcheck.
+Based On Taste #3 at Nico's Bar at Hackney Bridge on Fri 23 Oct, London. 2 artists: ell.iot and REO (UK). House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

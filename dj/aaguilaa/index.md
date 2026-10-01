@@ -1,8 +1,8 @@
 # AAguilAA
 
-AAguilAA is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at C12, Brussels on Fri, 16 Oct 2026.
+AAguilAA is a House and Pop artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at C12, Brussels on Fri, 16 Oct 2026.
 
-AAguilAA is a house and pop artist based in Belgium, tracked on soundcheck, with 39 sets logged across Berlin, Brussels and Lisbon. Often billed alongside The Stress, Daniel Wang and Afonso Peixoto. Next up: C12, Brussels on Fri 16 Oct.
+AAguilAA is a house and pop artist based in Belgium, with 39 gigs on soundcheck across Berlin, Brussels and Lisbon. Often billed alongside The Stress, Daniel Wang and Afonso Peixoto. Next up: C12, Brussels on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ AAguilAA is a house and pop artist based in Belgium, tracked on soundcheck, with
 
 ## Recently played
 
-- Paloma, Berlin — Sun, 27 Sept 2026
-- Fitzroy, Berlin — Thu, 30 Apr 2026
-- Fitzroy, Berlin — Fri, 20 Feb 2026
-- UMI, Brussels — Fri, 6 Feb 2026
-- Higher Ground, Lisbon — Thu, 1 Jan 2026
-- C12, Brussels — Fri, 14 Nov 2025
-- UMI, Brussels — Sat, 11 Oct 2025
-- C12, Brussels — Sat, 13 Sept 2025
+- Paloma, Berlin · Sun, 27 Sept 2026
+- Fitzroy, Berlin · Thu, 30 Apr 2026
+- Fitzroy, Berlin · Fri, 20 Feb 2026
+- UMI, Brussels · Fri, 6 Feb 2026
+- Higher Ground, Lisbon · Thu, 1 Jan 2026
+- C12, Brussels · Fri, 14 Nov 2025
+- UMI, Brussels · Sat, 11 Oct 2025
+- C12, Brussels · Sat, 13 Sept 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # A Night For Andy Boyd with Reggae Got Soul at Leith FAB Cricket Club
 
-A Night For Andy Boyd with Reggae Got Soul at Leith FAB Cricket Club on Sat 3 Oct, Edinburgh. Funk / Soul. Preview the line-up and save it on soundcheck.
+A Night For Andy Boyd with Reggae Got Soul at Leith FAB Cricket Club on Sat 3 Oct, Edinburgh. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

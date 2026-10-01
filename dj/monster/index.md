@@ -1,8 +1,8 @@
 # Monster
 
-Monster is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
+Monster is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Geheimclub, Saxony-anhalt on Fri, 30 Oct 2026.
 
-Monster is a techno and trance artist based in Poland, tracked on soundcheck, with 51 sets logged across Amsterdam, Athens, Berlin and Brussels and 12 more. Often billed alongside DiV4, Happy New Tears and LCN. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
+Monster is a techno and trance artist based in Poland, with 51 gigs on soundcheck across Amsterdam, Athens, Berlin and Brussels and 12 more. Often billed alongside DiV4, Happy New Tears and LCN. Next up: Geheimclub, Saxony Anhalt on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Monster is a techno and trance artist based in Poland, tracked on soundcheck, wi
 
 ## Recently played
 
-- B-SIDE, Warsaw — Fri, 25 Sept 2026
-- Jasna 1, Warsaw — Sat, 20 Jun 2026
-- TBA - See Telegram, Berlin — Sat, 6 Jun 2026
-- Makerspace, Tbilisi — Tue, 21 Apr 2026
-- EXPO XXI, Warsaw — Fri, 17 Apr 2026
-- Komuna Warszawa, Warsaw — Fri, 27 Mar 2026
-- Klub Plan B, Warsaw — Sat, 21 Mar 2026
-- Jasna 1, Warsaw — Wed, 31 Dec 2025
+- B-SIDE, Warsaw · Fri, 25 Sept 2026
+- Jasna 1, Warsaw · Sat, 20 Jun 2026
+- TBA - See Telegram, Berlin · Sat, 6 Jun 2026
+- Makerspace, Tbilisi · Tue, 21 Apr 2026
+- EXPO XXI, Warsaw · Fri, 17 Apr 2026
+- Komuna Warszawa, Warsaw · Fri, 27 Mar 2026
+- Klub Plan B, Warsaw · Sat, 21 Mar 2026
+- Jasna 1, Warsaw · Wed, 31 Dec 2025
 
 ## Shares bills with
 

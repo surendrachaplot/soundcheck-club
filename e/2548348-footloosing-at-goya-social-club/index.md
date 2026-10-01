@@ -1,6 +1,6 @@
 # footloosing at Goya Social Club
 
-footloosing at Goya Social Club on Fri 9 Oct, Madrid. 2 artists on the bill: Ferrari and Hugo Carter. House. Preview the line-up and save it on soundcheck.
+footloosing at Goya Social Club on Fri 9 Oct, Madrid. 2 artists: Ferrari and Hugo Carter. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ark // TWIENA [NL] | Contrast Radio at ark (Melb)
 
-ark // TWIENA [NL] | Contrast Radio at ark (Melb) on Sat 3 Oct, Melbourne. 4 artists on the bill: Arktic, FAF, KLIO and TWIENA. Techno and House. Preview the line-up and save it on soundcheck.
+ark // TWIENA [NL] | Contrast Radio at ark (Melb) on Sat 3 Oct, Melbourne. 4 artists: Arktic, FAF, KLIO and TWIENA. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GRABBITZ at Q Nightclub
 
-GRABBITZ at Q Nightclub on Fri 27 Nov, Seattle. Preview the line-up and save it on soundcheck.
+GRABBITZ at Q Nightclub on Fri 27 Nov, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

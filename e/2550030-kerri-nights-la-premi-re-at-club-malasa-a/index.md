@@ -1,6 +1,6 @@
 # Kerri Nights: La Première at Club Malasaña
 
-Kerri Nights: La Première at Club Malasaña on Fri 2 Oct, Madrid. 1 artist on the bill: EDGAR KERRI. House and Electronica. Preview the line-up and save it on soundcheck.
+Kerri Nights: La Première at Club Malasaña on Fri 2 Oct, Madrid. 1 artist: EDGAR KERRI. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

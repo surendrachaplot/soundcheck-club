@@ -1,6 +1,6 @@
 # AEREA (Live) - Solong Live at Baku Auto Mall Parking
 
-AEREA (Live) - Solong Live at Baku Auto Mall Parking on Fri 2 Oct, Azerbaijan. 3 artists on the bill: AEREA, Nyctra and PORTALBONER. Preview the line-up and save it on soundcheck.
+AEREA (Live) - Solong Live at Baku Auto Mall Parking on Fri 2 Oct, Azerbaijan. 3 artists: AEREA, Nyctra and PORTALBONER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

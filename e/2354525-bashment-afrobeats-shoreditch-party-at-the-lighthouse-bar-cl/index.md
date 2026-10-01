@@ -1,6 +1,6 @@
 # Bashment & Afrobeats Shoreditch Party at The Lighthouse Bar & Club
 
-Bashment & Afrobeats Shoreditch Party at The Lighthouse Bar & Club on Fri 20 Nov, London. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
+Bashment & Afrobeats Shoreditch Party at The Lighthouse Bar & Club on Fri 20 Nov, London. Afrobeat and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

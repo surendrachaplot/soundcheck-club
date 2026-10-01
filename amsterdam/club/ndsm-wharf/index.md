@@ -1,8 +1,8 @@
 # Ndsm Wharf
 
-Ndsm Wharf is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Into the Woods ADE 2026" on Fri, 23 Oct 2026.
+Ndsm Wharf is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Into the Woods ADE 2026" on Fri, 23 Oct 2026.
 
-Ndsm Wharf is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including AAT (NL), ANNĒ, Antal and Bevan and 2 more. Browse upcoming dates, start times and who's playing. T.T. Neveritaweg 1033 WB Amsterdam Netherlands.
+Ndsm Wharf is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including AAT (NL), ANNĒ, Antal and Bevan and 2 more. See dates, start times and who's playing. T.T. Neveritaweg 1033 WB Amsterdam Netherlands.
 
 ## What's on
 

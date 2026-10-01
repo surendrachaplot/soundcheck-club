@@ -1,6 +1,6 @@
 # Dead Or Alive at Vespers Club
 
-Dead Or Alive at Vespers Club on Sat 24 Oct, London. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
+Dead Or Alive at Vespers Club on Sat 24 Oct, London. Techno and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

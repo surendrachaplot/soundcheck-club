@@ -1,8 +1,8 @@
 # Hexagon Brussels
 
-Hexagon Brussels is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Movulango + Keynu (NL)" on Sat, 10 Oct 2026.
+Hexagon Brussels is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Movulango + Keynu (NL)" on Sat, 10 Oct 2026.
 
-Hexagon Brussels is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including amil raja, Emma DJ, Hekt and Movulango and 2 more. Browse upcoming dates, start times and who's playing.
+Hexagon Brussels is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including amil raja, Emma DJ, Hekt and Movulango and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

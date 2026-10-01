@@ -1,6 +1,6 @@
 # Saturday's Prescription - LM at Dr. Dou Social Club
 
-Saturday's Prescription - LM at Dr. Dou Social Club on Sat 3 Oct, Barcelona. 1 artist on the bill: LeMichael. Preview the line-up and save it on soundcheck.
+Saturday's Prescription - LM at Dr. Dou Social Club on Sat 3 Oct, Barcelona. 1 artist: LeMichael. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

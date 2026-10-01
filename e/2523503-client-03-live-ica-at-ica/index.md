@@ -1,6 +1,6 @@
 # Client_03 (LIVE) - ICA at ICA
 
-Client_03 (LIVE) - ICA on Sat 21 Nov, London. 1 artist on the bill: Client_03. Preview the line-up and save it on soundcheck.
+Client_03 (LIVE) - ICA on Sat 21 Nov, London. 1 artist: Client_03. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

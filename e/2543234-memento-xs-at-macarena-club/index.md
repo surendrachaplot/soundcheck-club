@@ -1,6 +1,6 @@
 # Memento Xs at Macarena Club
 
-Memento Xs at Macarena Club on Mon 19 Oct, Barcelona. 2 artists on the bill: Jo-Sie and Robert Drewek. Preview the line-up and save it on soundcheck.
+Memento Xs at Macarena Club on Mon 19 Oct, Barcelona. 2 artists: Jo-Sie and Robert Drewek. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # REVOLVER BANDROOM: Unikornia — presents MAYBE at Revolver Upstairs
 
-REVOLVER BANDROOM: Unikornia — presents MAYBE at Revolver Upstairs on Fri 16 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+REVOLVER BANDROOM: Unikornia — presents MAYBE at Revolver Upstairs on Fri 16 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

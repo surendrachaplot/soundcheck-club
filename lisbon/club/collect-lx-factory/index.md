@@ -1,8 +1,8 @@
 # Collect LX Factory
 
-Collect LX Factory is a music venue in Lisbon with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Collect LX Factory presents Mammo (live)" on Sat, 3 Oct 2026.
+Collect LX Factory is a music venue in Lisbon with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Collect LX Factory presents Mammo (live)" on Sat, 3 Oct 2026.
 
-Collect LX Factory is a music venue in Lisbon listed on soundcheck. 11 upcoming gigs, with line-ups including Amulador, Andre Cascais, Billi and C3D-E and 2 more. Browse upcoming dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
+Collect LX Factory is a music venue in Lisbon listed on soundcheck. 11 upcoming gigs, with line-ups including Amulador, Andre Cascais, Billi and C3D-E and 2 more. See dates, start times and who's playing. R. Rodrigues de Faria 103, 1300-501 Lisboa.
 
 ## What's on
 

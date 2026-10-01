@@ -1,6 +1,6 @@
 # Puzzle at Koenji Cave
 
-Puzzle at Koenji Cave on Sat 17 Oct, Tokyo. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Puzzle at Koenji Cave on Sat 17 Oct, Tokyo. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

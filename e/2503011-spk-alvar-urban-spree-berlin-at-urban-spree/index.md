@@ -1,6 +1,6 @@
 # SPK + Alvar // Urban Spree, Berlin at Urban Spree
 
-SPK + Alvar // Urban Spree, Berlin on Wed 2 Dec, Berlin. 1 artist on the bill: Philipp Strobel. EBM and Industrial. Preview the line-up and save it on soundcheck.
+SPK + Alvar // Urban Spree, Berlin on Wed 2 Dec, Berlin. 1 artist: Philipp Strobel. EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

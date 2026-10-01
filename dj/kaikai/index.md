@@ -1,8 +1,8 @@
 # KAIKAI
 
-KAIKAI is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Royal Lounge, Tokyo on Mon, 5 Oct 2026.
+KAIKAI is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Royal Lounge, Tokyo on Mon, 5 Oct 2026.
 
-KAIKAI is a house and techno artist based in Japan, tracked on soundcheck, with 35 sets logged across Bali, Ibiza, San Francisco/Oakland and Sydney and 1 more. Often billed alongside SIGNAL (JP), ALEXANDER M and DJ Yogurt. Next up: Royal Lounge, Tokyo on Mon 5 Oct.
+KAIKAI is a house and techno artist based in Japan, with 35 gigs on soundcheck across Bali, Ibiza, San Francisco/Oakland and Sydney and 1 more. Often billed alongside SIGNAL (JP), ALEXANDER M and DJ Yogurt. Next up: Royal Lounge, Tokyo on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ KAIKAI is a house and techno artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- Sigma, Ibiza — Sat, 26 Sept 2026
-- Azumaya, Tokyo — Wed, 16 Sept 2026
-- Royal Lounge, Tokyo — Mon, 7 Sept 2026
-- Débris, Tokyo — Sat, 5 Sept 2026
-- Aoyama Hachi, Tokyo — Sun, 16 Aug 2026
-- Royal Lounge, Tokyo — Mon, 3 Aug 2026
-- UTOPIA / DYSTOPIA, Tokyo — Thu, 23 Jul 2026
-- UTOPIA / DYSTOPIA, Tokyo — Thu, 23 Jul 2026
+- Sigma, Ibiza · Sat, 26 Sept 2026
+- Azumaya, Tokyo · Wed, 16 Sept 2026
+- Royal Lounge, Tokyo · Mon, 7 Sept 2026
+- Débris, Tokyo · Sat, 5 Sept 2026
+- Aoyama Hachi, Tokyo · Sun, 16 Aug 2026
+- Royal Lounge, Tokyo · Mon, 3 Aug 2026
+- UTOPIA / DYSTOPIA, Tokyo · Thu, 23 Jul 2026
+- UTOPIA / DYSTOPIA, Tokyo · Thu, 23 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Garage Girls - Trick or Treat at OHM
 
-Garage Girls - Trick or Treat at OHM on Sat 31 Oct, Berlin. House and Garage. Preview the line-up and save it on soundcheck.
+Garage Girls - Trick or Treat at OHM on Sat 31 Oct, Berlin. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

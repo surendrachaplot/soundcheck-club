@@ -1,8 +1,8 @@
 # Okeam
 
-Okeam is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Madam, Amsterdam on Thu, 26 Nov 2026.
+Okeam is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Madam, Amsterdam on Thu, 26 Nov 2026.
 
-Okeam is a house and tech house artist tracked on soundcheck, with 7 sets logged across Amsterdam. Often billed alongside Brent New, Cees and Hagelslag. Next up: Madam, Amsterdam on Thu 26 Nov.
+Okeam is a house and tech house artist, with 7 gigs on soundcheck across Amsterdam. Often billed alongside Brent New, Cees and Hagelslag. Next up: Madam, Amsterdam on Thu 26 Nov.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Okeam is a house and tech house artist tracked on soundcheck, with 7 sets logged
 
 ## Recently played
 
-- Madam, Amsterdam — Thu, 3 Sept 2026
-- Madam, Amsterdam — Thu, 18 Jun 2026
-- Supperclub Cruise, Amsterdam — Thu, 11 Jun 2026
-- TBA - Soul Kitchen, Amsterdam — Thu, 7 May 2026
-- Chin Chin Club, Amsterdam — Fri, 24 Apr 2026
-- Madam, Amsterdam — Thu, 27 Nov 2025
+- Madam, Amsterdam · Thu, 3 Sept 2026
+- Madam, Amsterdam · Thu, 18 Jun 2026
+- Supperclub Cruise, Amsterdam · Thu, 11 Jun 2026
+- TBA - Soul Kitchen, Amsterdam · Thu, 7 May 2026
+- Chin Chin Club, Amsterdam · Fri, 24 Apr 2026
+- Madam, Amsterdam · Thu, 27 Nov 2025
 
 ## Shares bills with
 

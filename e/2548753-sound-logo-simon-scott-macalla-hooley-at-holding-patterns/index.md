@@ -1,6 +1,6 @@
 # Sound Logo - Simon Scott / Macalla / Hooley at Holding Patterns
 
-Sound Logo - Simon Scott / Macalla / Hooley at Holding Patterns on Sat 7 Nov, Leeds. 2 artists on the bill: Hooley and Simon Scott. Dub Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Sound Logo - Simon Scott / Macalla / Hooley at Holding Patterns on Sat 7 Nov, Leeds. 2 artists: Hooley and Simon Scott. Dub Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # ARMANA KHAN
 
-ARMANA KHAN is a Club and Baile Funk artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Funkhaus, Vienna on Fri, 2 Oct 2026.
+ARMANA KHAN is a Club and Baile Funk artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Funkhaus, Vienna on Fri, 2 Oct 2026.
 
-ARMANA KHAN is a club and baile funk artist based in United States of America, tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Chicago and Frankfurt and 25 more. Often billed alongside ARCHANGEL (US), Meg10 and Manuka Honey. Next up: Funkhaus, Vienna on Fri 2 Oct.
+ARMANA KHAN is a club and baile funk artist based in United States of America, with 76 gigs on soundcheck across Barcelona, Berlin, Chicago and Frankfurt and 25 more. Often billed alongside ARCHANGEL (US), Meg10 and Manuka Honey. Next up: Funkhaus, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ ARMANA KHAN is a club and baile funk artist based in United States of America, t
 
 ## Recently played
 
-- Depot Mayfield, Manchester — Sat, 26 Sept 2026
-- Colour Factory, London — Fri, 25 Sept 2026
-- Market Hotel, New York City — Fri, 4 Sept 2026
-- White Owl Social Club, Portland — Sun, 9 Aug 2026
-- Société des arts technologiques, Montreal — Sat, 8 Aug 2026
-- TRANSMISSION DC, Washington DC — Sat, 8 Aug 2026
-- TRANSMISSION DC, Washington DC — Fri, 7 Aug 2026
-- FLUCC, Vienna — Sun, 2 Aug 2026
+- Depot Mayfield, Manchester · Sat, 26 Sept 2026
+- Colour Factory, London · Fri, 25 Sept 2026
+- Market Hotel, New York City · Fri, 4 Sept 2026
+- White Owl Social Club, Portland · Sun, 9 Aug 2026
+- Société des arts technologiques, Montreal · Sat, 8 Aug 2026
+- TRANSMISSION DC, Washington DC · Sat, 8 Aug 2026
+- TRANSMISSION DC, Washington DC · Fri, 7 Aug 2026
+- FLUCC, Vienna · Sun, 2 Aug 2026
 
 ## Shares bills with
 

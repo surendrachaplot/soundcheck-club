@@ -1,6 +1,6 @@
 # De Unie 2026 at 013 Poppodium
 
-De Unie 2026 at 013 Poppodium on Sat 19 Dec, Netherlands. 12 artists on the bill: Abiba Sokoto, Antal, Avalon Emerson and Cobahn and 8 more. Preview the line-up and save it on soundcheck.
+De Unie 2026 at 013 Poppodium on Sat 19 Dec, Netherlands. 12 artists: Abiba Sokoto, Antal, Avalon Emerson and Cobahn and 8 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

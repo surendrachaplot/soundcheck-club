@@ -1,8 +1,8 @@
 # Marques Wyatt
 
-Marques Wyatt is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
+Marques Wyatt is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
 
-Marques Wyatt is a house and deep house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Denver, Los Angeles, Miami and New York City and 4 more. Often billed alongside Ray Kash, Doc Martin and Zach Walker. Next up: California Plaza, Los Angeles on Sat 10 Oct.
+Marques Wyatt is a house and deep house artist based in United States of America, with 61 gigs on soundcheck across Denver, Los Angeles, Miami and New York City and 4 more. Often billed alongside Ray Kash, Doc Martin and Zach Walker. Next up: California Plaza, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Marques Wyatt is a house and deep house artist based in United States of America
 
 ## Recently played
 
-- TBA - Downtown LA, Los Angeles — Fri, 21 Aug 2026
-- Jungle Hollywood, Los Angeles — Sun, 19 Jul 2026
-- House of Yes, New York City — Sat, 6 Jun 2026
-- Hotel Via, San Francisco/Oakland — Sun, 17 May 2026
-- Pluto, Los Angeles — Sun, 12 Apr 2026
-- TBA - Norwegian Joy + Harvest Caye, Belize, Miami — Sun, 18 Jan 2026
-- Hotel Via, San Francisco/Oakland — Sun, 7 Dec 2025
-- Jungle Hollywood, Los Angeles — Wed, 29 Oct 2025
+- TBA - Downtown LA, Los Angeles · Fri, 21 Aug 2026
+- Jungle Hollywood, Los Angeles · Sun, 19 Jul 2026
+- House of Yes, New York City · Sat, 6 Jun 2026
+- Hotel Via, San Francisco/Oakland · Sun, 17 May 2026
+- Pluto, Los Angeles · Sun, 12 Apr 2026
+- TBA - Norwegian Joy + Harvest Caye, Belize, Miami · Sun, 18 Jan 2026
+- Hotel Via, San Francisco/Oakland · Sun, 7 Dec 2025
+- Jungle Hollywood, Los Angeles · Wed, 29 Oct 2025
 
 ## Shares bills with
 

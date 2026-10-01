@@ -1,6 +1,6 @@
 # Torrione & FRIENDS at Lula Club
 
-Torrione & FRIENDS at Lula Club on Thu 1 Oct, Madrid. 3 artists on the bill: Body-O, Torrione and Victor Carré. Preview the line-up and save it on soundcheck.
+Torrione & FRIENDS at Lula Club on Thu 1 Oct, Madrid. 3 artists: Body-O, Torrione and Victor Carré. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

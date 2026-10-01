@@ -1,8 +1,8 @@
 # Sonny Grin
 
-Sonny Grin is a Hip-Hop and R&B artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Orangerie Neukölln, Berlin on Tue, 6 Oct 2026.
+Sonny Grin is a Hip-Hop and R&B artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Orangerie Neukölln, Berlin on Tue, 6 Oct 2026.
 
-Sonny Grin is a hip-hop and r&b artist based in Australia, tracked on soundcheck, with 6 sets logged across Berlin and Sydney. Often billed alongside Cleo (AU), Luminiah and NanaBcool. Next up: Orangerie Neukölln, Berlin on Tue 6 Oct.
+Sonny Grin is a hip-hop and r&b artist based in Australia, with 6 gigs on soundcheck across Berlin and Sydney. Often billed alongside Cleo (AU), Luminiah and NanaBcool. Next up: Orangerie Neukölln, Berlin on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Sonny Grin is a hip-hop and r&b artist based in Australia, tracked on soundcheck
 
 ## Recently played
 
-- Acud Macht NEU, Berlin — Sat, 11 Jul 2026
-- Acud Macht NEU, Berlin — Sat, 16 May 2026
-- Acud Macht NEU, Berlin — Sat, 18 Apr 2026
-- Acud Macht NEU, Berlin — Sat, 14 Mar 2026
-- The Lady Hampshire, Sydney — Sat, 30 Sept 2023
+- Acud Macht NEU, Berlin · Sat, 11 Jul 2026
+- Acud Macht NEU, Berlin · Sat, 16 May 2026
+- Acud Macht NEU, Berlin · Sat, 18 Apr 2026
+- Acud Macht NEU, Berlin · Sat, 14 Mar 2026
+- The Lady Hampshire, Sydney · Sat, 30 Sept 2023
 
 ## Shares bills with
 

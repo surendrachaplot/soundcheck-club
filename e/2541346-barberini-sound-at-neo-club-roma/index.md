@@ -1,6 +1,6 @@
 # Barberini Sound at NEO CLUB ROMA
 
-Barberini Sound at NEO CLUB ROMA on Sat 10 Oct, Rome. House and Club. Preview the line-up and save it on soundcheck.
+Barberini Sound at NEO CLUB ROMA on Sat 10 Oct, Rome. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

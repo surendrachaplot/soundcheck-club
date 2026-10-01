@@ -1,6 +1,6 @@
 # Dusky: Free Time - Signals Tour at Sneaky Pete's
 
-Dusky: Free Time - Signals Tour at Sneaky Pete's on Sun 8 Nov, Edinburgh. 2 artists on the bill: Dusky and Sally Swan. Preview the line-up and save it on soundcheck.
+Dusky: Free Time - Signals Tour at Sneaky Pete's on Sun 8 Nov, Edinburgh. 2 artists: Dusky and Sally Swan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

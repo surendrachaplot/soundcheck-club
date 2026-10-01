@@ -1,6 +1,6 @@
 # Infra connection at Rooftop 105
 
-Infra connection at Rooftop 105 on Sat 10 Oct, Geneva. 1 artist on the bill: ronch. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Infra connection at Rooftop 105 on Sat 10 Oct, Geneva. 1 artist: ronch. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

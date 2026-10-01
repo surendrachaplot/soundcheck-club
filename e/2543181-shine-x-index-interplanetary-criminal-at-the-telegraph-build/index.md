@@ -1,6 +1,6 @@
 # SHINE x INDEX -- Interplanetary Criminal at The Telegraph Building
 
-SHINE x INDEX -- Interplanetary Criminal at The Telegraph Building on Sat 5 Dec, Belfast. 3 artists on the bill: DIEBYVEG, Faster Horses and Interplanetary Criminal. Garage. Preview the line-up and save it on soundcheck.
+SHINE x INDEX -- Interplanetary Criminal at The Telegraph Building on Sat 5 Dec, Belfast. 3 artists: DIEBYVEG, Faster Horses and Interplanetary Criminal. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

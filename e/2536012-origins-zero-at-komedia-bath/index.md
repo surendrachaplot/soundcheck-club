@@ -1,6 +1,6 @@
 # Origins: Zero at Komedia Bath
 
-Origins: Zero at Komedia Bath on Mon 7 Dec, West Wales. 1 artist on the bill: Zero. Preview the line-up and save it on soundcheck.
+Origins: Zero at Komedia Bath on Mon 7 Dec, West Wales. 1 artist: Zero. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

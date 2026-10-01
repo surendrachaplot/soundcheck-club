@@ -1,6 +1,6 @@
 # Redbull: Turn It Up Boston at Descent
 
-Redbull: Turn It Up Boston at Descent on Thu 1 Oct, Boston. 1 artist on the bill: Kapmar. Club. Preview the line-up and save it on soundcheck.
+Redbull: Turn It Up Boston at Descent on Thu 1 Oct, Boston. 1 artist: Kapmar. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

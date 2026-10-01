@@ -1,8 +1,8 @@
 # Soap Seoul.
 
-Soap Seoul. is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "RaveDAO presents BADDIEJUICE at Soap Seoul" on Thu, 1 Oct 2026.
+Soap Seoul. is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "RaveDAO presents BADDIEJUICE at Soap Seoul" on Thu, 1 Oct 2026.
 
-Soap Seoul. is a music venue in Seoul listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. B2, 217 Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
+Soap Seoul. is a music venue in Seoul listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. B2, 217 Itaewon-ro, Yongsan-gu, Seoul, Republic of Korea.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Beats and Bitches at TBA - B Side Münster
 
-Beats and Bitches at TBA - B Side Münster on Sat 31 Oct, Munster. Techno and Pop. Preview the line-up and save it on soundcheck.
+Beats and Bitches at TBA - B Side Münster on Sat 31 Oct, Munster. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

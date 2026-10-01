@@ -1,8 +1,8 @@
 # Stella Fiore
 
-Stella Fiore is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tunnel, Milan on Sat, 10 Oct 2026.
+Stella Fiore is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tunnel, Milan on Sat, 10 Oct 2026.
 
-Stella Fiore is a house and techno artist based in Germany, tracked on soundcheck, with 45 sets logged across Athens, Barcelona, Berlin and Boston and 17 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima. Next up: Tunnel, Milan on Sat 10 Oct.
+Stella Fiore is a house and techno artist based in Germany, with 45 gigs on soundcheck across Athens, Barcelona, Berlin and Boston and 17 more. Often billed alongside Ivan Iacobucci, Friendzone and Naima. Next up: Tunnel, Milan on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Stella Fiore is a house and techno artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Crack Bellmer, Berlin — Fri, 11 Sept 2026
-- Skull Bar, Athens — Sun, 6 Sept 2026
-- Green Room NYC, New York City — Fri, 21 Aug 2026
-- StereoBar, Montreal — Sat, 15 Aug 2026
-- Sunseabar Beach Club, Barcelona — Sun, 26 Jul 2026
-- Wake N Lake, Rome — Mon, 1 Jun 2026
-- Masada, Milan — Sun, 24 May 2026
-- Club der Visionaere, Berlin — Mon, 18 May 2026
+- Crack Bellmer, Berlin · Fri, 11 Sept 2026
+- Skull Bar, Athens · Sun, 6 Sept 2026
+- Green Room NYC, New York City · Fri, 21 Aug 2026
+- StereoBar, Montreal · Sat, 15 Aug 2026
+- Sunseabar Beach Club, Barcelona · Sun, 26 Jul 2026
+- Wake N Lake, Rome · Mon, 1 Jun 2026
+- Masada, Milan · Sun, 24 May 2026
+- Club der Visionaere, Berlin · Mon, 18 May 2026
 
 ## Shares bills with
 

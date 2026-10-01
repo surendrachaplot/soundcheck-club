@@ -1,6 +1,6 @@
 # Batzen with Cho Room, Anrole & Spriteeyez at Paloma
 
-Batzen with Cho Room, Anrole & Spriteeyez at Paloma on Fri 23 Oct, Berlin. 2 artists on the bill: Cho Room and Spriteeyez. Bass and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Batzen with Cho Room, Anrole & Spriteeyez at Paloma on Fri 23 Oct, Berlin. 2 artists: Cho Room and Spriteeyez. Bass and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

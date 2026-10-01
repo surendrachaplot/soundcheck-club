@@ -1,6 +1,6 @@
 # COTERIE SELECTS: Argia ( Innervisions) at Mason Bar
 
-COTERIE SELECTS: Argia ( Innervisions) at Mason Bar on Sat 19 Dec, Cyprus. 2 artists on the bill: Argia and Madimiel. Preview the line-up and save it on soundcheck.
+COTERIE SELECTS: Argia ( Innervisions) at Mason Bar on Sat 19 Dec, Cyprus. 2 artists: Argia and Madimiel. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

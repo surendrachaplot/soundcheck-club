@@ -1,8 +1,8 @@
 # source:link
 
-source:link is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lark, Berlin on Fri, 23 Oct 2026.
+source:link is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lark, Berlin on Fri, 23 Oct 2026.
 
-source:link is a house and techno artist based in France, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin, Helsinki and Leipzig and 2 more. Often billed alongside ābnamā, Hanaby and Hyperaktivist. Next up: Lark, Berlin on Fri 23 Oct.
+source:link is a house and techno artist based in France, with 21 gigs on soundcheck across Barcelona, Berlin, Helsinki and Leipzig and 2 more. Often billed alongside ābnamā, Hanaby and Hyperaktivist. Next up: Lark, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ source:link is a house and techno artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- OHM, Berlin — Thu, 23 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
-- Prince Charles, Berlin — Sat, 4 Jul 2026
-- Stidilä, Helsinki — Sat, 27 Jun 2026
-- Post Bar, Helsinki — Fri, 26 Jun 2026
-- KREUZWERK, Berlin — Sat, 6 Jun 2026
-- KREUZWERK, Berlin — Sat, 30 May 2026
-- ÆDEN, Berlin — Fri, 17 Apr 2026
+- OHM, Berlin · Thu, 23 Jul 2026
+- Ferropolis, Leipzig · Fri, 17 Jul 2026
+- Prince Charles, Berlin · Sat, 4 Jul 2026
+- Stidilä, Helsinki · Sat, 27 Jun 2026
+- Post Bar, Helsinki · Fri, 26 Jun 2026
+- KREUZWERK, Berlin · Sat, 6 Jun 2026
+- KREUZWERK, Berlin · Sat, 30 May 2026
+- ÆDEN, Berlin · Fri, 17 Apr 2026
 
 ## Shares bills with
 

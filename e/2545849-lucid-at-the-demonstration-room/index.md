@@ -1,6 +1,6 @@
 # LUCID at The Demonstration Room
 
-LUCID at The Demonstration Room on Sat 24 Oct, Edinburgh. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+LUCID at The Demonstration Room on Sat 24 Oct, Edinburgh. Progressive House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

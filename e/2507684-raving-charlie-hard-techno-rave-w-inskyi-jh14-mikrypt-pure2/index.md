@@ -1,6 +1,6 @@
 # RAVING CHARLIE: Hard Techno / Rave w/ INSKYI / JH14 / MIKRYPT / PURE2 at nachbar
 
-RAVING CHARLIE: Hard Techno / Rave w/ INSKYI / JH14 / MIKRYPT / PURE2 at nachbar on Wed 28 Oct, Amsterdam. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+RAVING CHARLIE: Hard Techno / Rave w/ INSKYI / JH14 / MIKRYPT / PURE2 at nachbar on Wed 28 Oct, Amsterdam. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

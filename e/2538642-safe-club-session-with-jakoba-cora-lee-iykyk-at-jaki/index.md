@@ -1,6 +1,6 @@
 # SAFE CLUB SESSION with Jakoba, Cora Lee & IYKYK at JAKI
 
-SAFE CLUB SESSION with Jakoba, Cora Lee & IYKYK at JAKI on Fri 9 Oct, Cologne. 1 artist on the bill: Cora Lee. Deep House and Dub Techno. Preview the line-up and save it on soundcheck.
+SAFE CLUB SESSION with Jakoba, Cora Lee & IYKYK at JAKI on Fri 9 Oct, Cologne. 1 artist: Cora Lee. Deep House and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

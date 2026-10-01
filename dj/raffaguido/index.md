@@ -1,8 +1,8 @@
 # Raffa Guido
 
-Raffa Guido is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Theata, London on Sat, 3 Oct 2026.
+Raffa Guido is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Theata, London on Sat, 3 Oct 2026.
 
-Raffa Guido is a house and afro house artist based in Switzerland, tracked on soundcheck, with 31 sets logged across Amsterdam, Athens, Barcelona and Copenhagen and 14 more. Often billed alongside Bernis, Qazi and SKAI (LT). Next up: Theata, London on Sat 3 Oct.
+Raffa Guido is a house and afro house artist based in Switzerland, with 31 gigs on soundcheck across Amsterdam, Athens, Barcelona and Copenhagen and 14 more. Often billed alongside Bernis, Qazi and SKAI (LT). Next up: Theata, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Raffa Guido is a house and afro house artist based in Switzerland, tracked on so
 
 ## Recently played
 
-- Level 27, Warsaw — Sat, 19 Sept 2026
-- Audio Club, Geneva — Sat, 5 Sept 2026
-- Bauhaus, Houston — Fri, 28 Aug 2026
-- TBA - HOUDINNI, Madrid — Thu, 21 May 2026
-- Madarae San Francisco, San Francisco/Oakland — Sat, 21 Mar 2026
-- TBA - Le Ciel, Tbilisi — Fri, 13 Feb 2026
-- Samigo Amusement, Zurich — Wed, 31 Dec 2025
-- Twenties Barcelona, Barcelona — Tue, 23 Dec 2025
+- Level 27, Warsaw · Sat, 19 Sept 2026
+- Audio Club, Geneva · Sat, 5 Sept 2026
+- Bauhaus, Houston · Fri, 28 Aug 2026
+- TBA - HOUDINNI, Madrid · Thu, 21 May 2026
+- Madarae San Francisco, San Francisco/Oakland · Sat, 21 Mar 2026
+- TBA - Le Ciel, Tbilisi · Fri, 13 Feb 2026
+- Samigo Amusement, Zurich · Wed, 31 Dec 2025
+- Twenties Barcelona, Barcelona · Tue, 23 Dec 2025
 
 ## Shares bills with
 

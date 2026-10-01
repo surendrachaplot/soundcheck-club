@@ -1,6 +1,6 @@
 # Lost Track of Time presents: The Enchanted Forest at Lakota
 
-Lost Track of Time presents: The Enchanted Forest at Lakota on Fri 9 Oct, Bristol. House and Disco. Preview the line-up and save it on soundcheck.
+Lost Track of Time presents: The Enchanted Forest at Lakota on Fri 9 Oct, Bristol. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

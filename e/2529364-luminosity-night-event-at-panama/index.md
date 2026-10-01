@@ -1,6 +1,6 @@
 # Luminosity - Night Event at Panama
 
-Luminosity - Night Event at Panama on Fri 23 Oct, Amsterdam. Trance. Preview the line-up and save it on soundcheck.
+Luminosity - Night Event at Panama on Fri 23 Oct, Amsterdam. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

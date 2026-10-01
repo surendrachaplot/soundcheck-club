@@ -1,6 +1,6 @@
 # Kuddelmuddel Halloween at Tanzhaus West
 
-Kuddelmuddel Halloween at Tanzhaus West on Sat 31 Oct, Frankfurt. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Kuddelmuddel Halloween at Tanzhaus West on Sat 31 Oct, Frankfurt. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

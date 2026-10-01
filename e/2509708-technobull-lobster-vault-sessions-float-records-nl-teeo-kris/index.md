@@ -1,6 +1,6 @@
 # TECHNOBULL: Lobster (Vault Sessions, Float Records /NL), Teeo Kristo & Syca at Astoria
 
-TECHNOBULL: Lobster (Vault Sessions, Float Records /NL), Teeo Kristo & Syca at Astoria on Fri 16 Oct, Turin. 3 artists on the bill: Lobster (NL), Syca and Teeo. Techno. Preview the line-up and save it on soundcheck.
+TECHNOBULL: Lobster (Vault Sessions, Float Records /NL), Teeo Kristo & Syca at Astoria on Fri 16 Oct, Turin. 3 artists: Lobster (NL), Syca and Teeo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

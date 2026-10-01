@@ -1,6 +1,6 @@
 # The Masquerade: Claptone, Lee Foss, James de Torres, DIEGO SAN DIEGO at Chinois Ibiza
 
-The Masquerade: Claptone, Lee Foss, James de Torres, DIEGO SAN DIEGO at Chinois Ibiza on Sat 3 Oct, Ibiza. 4 artists on the bill: Claptone, DIEGO SAN DIEGO, James de Torres and Lee Foss. House and Tech House. Preview the line-up and save it on soundcheck.
+The Masquerade: Claptone, Lee Foss, James de Torres, DIEGO SAN DIEGO at Chinois Ibiza on Sat 3 Oct, Ibiza. 4 artists: Claptone, DIEGO SAN DIEGO, James de Torres and Lee Foss. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

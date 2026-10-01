@@ -1,6 +1,6 @@
 # Dublon (Live) at Headrow House
 
-Dublon (Live) at Headrow House on Thu 12 Nov, Leeds. House and Jazz. Preview the line-up and save it on soundcheck.
+Dublon (Live) at Headrow House on Thu 12 Nov, Leeds. House and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

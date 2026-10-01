@@ -1,6 +1,6 @@
 # HARD BOUNCE [Güti & Marc Fx] at M7 Club
 
-HARD BOUNCE [Güti & Marc Fx] at M7 Club on Thu 1 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+HARD BOUNCE [Güti & Marc Fx] at M7 Club on Thu 1 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Brandon Block
 
-Brandon Block is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at XOYO, London on Sat, 24 Oct 2026.
+Brandon Block is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at XOYO, London on Sat, 24 Oct 2026.
 
-Brandon Block is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Auckland, Brighton, Brisbane and Ibiza and 3 more. Often billed alongside Bongo Ben, Alex P and Tristan Ingram. Next up: XOYO, London on Sat 24 Oct.
+Brandon Block is a house and tech house artist based in United Kingdom, with 40 gigs on soundcheck across Auckland, Brighton, Brisbane and Ibiza and 3 more. Often billed alongside Bongo Ben, Alex P and Tristan Ingram. Next up: XOYO, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Brandon Block is a house and tech house artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- XOYO, London — Sat, 5 Sept 2026
-- Prospect Park, London — Sat, 15 Aug 2026
-- The Timber Yard, Melbourne — Sat, 25 Jul 2026
-- Superordinary, Brisbane — Fri, 24 Jul 2026
-- Queens Wharf, Auckland — Fri, 17 Jul 2026
-- TBA - Shed 10, Auckland — Fri, 17 Jul 2026
-- fabric, London — Sat, 18 Apr 2026
-- The Steel Yard, London — Fri, 3 Apr 2026
+- XOYO, London · Sat, 5 Sept 2026
+- Prospect Park, London · Sat, 15 Aug 2026
+- The Timber Yard, Melbourne · Sat, 25 Jul 2026
+- Superordinary, Brisbane · Fri, 24 Jul 2026
+- Queens Wharf, Auckland · Fri, 17 Jul 2026
+- TBA - Shed 10, Auckland · Fri, 17 Jul 2026
+- fabric, London · Sat, 18 Apr 2026
+- The Steel Yard, London · Fri, 3 Apr 2026
 
 ## Shares bills with
 

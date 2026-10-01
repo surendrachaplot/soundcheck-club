@@ -1,6 +1,6 @@
 # Closer #118 Masada /// Andy Martin - Mac Declos - Rorschack - Yamila - akin.souls at Masada
 
-Closer #118 Masada /// Andy Martin - Mac Declos - Rorschack - Yamila - akin.souls on Sat 17 Oct, Milan. 5 artists on the bill: akin.souls, Andy Martin, Mac Declos and Rorschack and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Closer #118 Masada /// Andy Martin - Mac Declos - Rorschack - Yamila - akin.souls on Sat 17 Oct, Milan. 5 artists: akin.souls, Andy Martin, Mac Declos and Rorschack and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

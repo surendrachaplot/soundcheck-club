@@ -1,6 +1,6 @@
 # Nido afterhours - Ghost Club TBA at Nido Marseille
 
-Nido afterhours - Ghost Club TBA at Nido Marseille on Sun 11 Oct, Marseille. Preview the line-up and save it on soundcheck.
+Nido afterhours - Ghost Club TBA at Nido Marseille on Sun 11 Oct, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

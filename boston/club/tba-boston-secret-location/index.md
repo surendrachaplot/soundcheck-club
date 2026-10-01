@@ -1,8 +1,8 @@
 # TBA - BOSTON SECRET LOCATION 
 
-TBA - BOSTON SECRET LOCATION  is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "EXPERIENCE HALLOWEEN DAY 2 W/ Sol Ortega " on Sat, 31 Oct 2026.
+TBA - BOSTON SECRET LOCATION  is a music venue in Boston with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "EXPERIENCE HALLOWEEN DAY 2 W/ Sol Ortega " on Sat, 31 Oct 2026.
 
-TBA - BOSTON SECRET LOCATION  is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including Sol Ortega, Steph Angel and The Consciousness. Browse upcoming dates, start times and who's playing.
+TBA - BOSTON SECRET LOCATION  is a music venue in Boston listed on soundcheck. 1 upcoming gig, with line-ups including Sol Ortega, Steph Angel and The Consciousness. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # ODDITY PROJECT - HAUNTED BASEMENT at TBA
 
-ODDITY PROJECT - HAUNTED BASEMENT at TBA on Sat 31 Oct, Vancouver. House and Tech House. Preview the line-up and save it on soundcheck.
+ODDITY PROJECT - HAUNTED BASEMENT at TBA on Sat 31 Oct, Vancouver. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

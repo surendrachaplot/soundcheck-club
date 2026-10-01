@@ -1,6 +1,6 @@
 # OMNOM (360° SET) at Concord Music Hall
 
-OMNOM (360° SET) at Concord Music Hall on Sat 21 Nov, Chicago. House and Tech House. Preview the line-up and save it on soundcheck.
+OMNOM (360° SET) at Concord Music Hall on Sat 21 Nov, Chicago. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Art Groove 02.10 KRAKOW MILA, LARIN, DAYTONA, HELLIS, 0402 at STK 47 WAREHOUSE
 
-Art Groove 02.10 KRAKOW MILA, LARIN, DAYTONA, HELLIS, 0402 at STK 47 WAREHOUSE on Fri 2 Oct, Krakow. Techno. Preview the line-up and save it on soundcheck.
+Art Groove 02.10 KRAKOW MILA, LARIN, DAYTONA, HELLIS, 0402 at STK 47 WAREHOUSE on Fri 2 Oct, Krakow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

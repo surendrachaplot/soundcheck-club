@@ -1,6 +1,6 @@
 # Shibari Show at Labüsch-Bar, Winterthur
 
-Shibari Show at Labüsch-Bar, Winterthur on Fri 18 Dec, Zurich. Ambient and R&B. Preview the line-up and save it on soundcheck.
+Shibari Show at Labüsch-Bar, Winterthur on Fri 18 Dec, Zurich. Ambient and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

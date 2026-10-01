@@ -1,8 +1,8 @@
 # Danger Danger
 
-Danger Danger is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Klub Kitsch International, Disco Exotica" on Fri, 25 Sept 2026.
+Danger Danger is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Klub Kitsch International, Disco Exotica" on Fri, 25 Sept 2026.
 
-Danger Danger is a music venue in New York City listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 232 Knickerbocker Ave, New York, 11237.
+Danger Danger is a music venue in New York City listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 232 Knickerbocker Ave, New York, 11237.
 
 ## What's on
 

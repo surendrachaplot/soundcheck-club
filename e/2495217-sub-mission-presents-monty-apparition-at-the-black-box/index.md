@@ -1,6 +1,6 @@
 # Sub.mission presents: Monty & Apparition at The Black Box
 
-Sub.mission presents: Monty & Apparition at The Black Box on Sat 31 Oct, Denver. 1 artist on the bill: Monty. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Sub.mission presents: Monty & Apparition at The Black Box on Sat 31 Oct, Denver. 1 artist: Monty. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

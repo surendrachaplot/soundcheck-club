@@ -1,6 +1,6 @@
 # ETOSA at TBA - Herning Geometriske Haver
 
-ETOSA at TBA - Herning Geometriske Haver on Sat 26 Jun, Denmark. 4 artists on the bill: DJ SRA, Mr. Ties, Senglyst and Sophia Sagaradze. Preview the line-up and save it on soundcheck.
+ETOSA at TBA - Herning Geometriske Haver on Sat 26 Jun, Denmark. 4 artists: DJ SRA, Mr. Ties, Senglyst and Sophia Sagaradze. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

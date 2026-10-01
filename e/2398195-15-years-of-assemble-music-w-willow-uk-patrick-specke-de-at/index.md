@@ -1,6 +1,6 @@
 # 15 YEARS of ASSEMBLE MUSIC W/ Willow (UK) + Patrick Specke (DE) at Collect LX Factory
 
-15 YEARS of ASSEMBLE MUSIC W/ Willow (UK) + Patrick Specke (DE) at Collect LX Factory on Sat 10 Oct, Lisbon. 6 artists on the bill: MARY-B, Patrick Specke, Schlingen and Solid-Funk and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+15 YEARS of ASSEMBLE MUSIC W/ Willow (UK) + Patrick Specke (DE) at Collect LX Factory on Sat 10 Oct, Lisbon. 6 artists: MARY-B, Patrick Specke, Schlingen and Solid-Funk and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

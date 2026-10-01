@@ -1,8 +1,8 @@
 # Peter Clarke
 
-Peter Clarke is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
+Peter Clarke is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Underground SF, San Francisco/Oakland on Fri, 18 Dec 2026.
 
-Peter Clarke is a techno and house artist based in United States of America, tracked on soundcheck, with 12 sets logged across San Francisco/Oakland. Often billed alongside Steve Fabus, Zita Molnar and Jordan. Next up: Underground SF, San Francisco/Oakland on Fri 18 Dec.
+Peter Clarke is a techno and house artist based in United States of America, with 12 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Steve Fabus, Zita Molnar and Jordan. Next up: Underground SF, San Francisco/Oakland on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Peter Clarke is a techno and house artist based in United States of America, tra
 
 ## Recently played
 
-- Underground SF, San Francisco/Oakland — Fri, 3 Jul 2026
-- Underground SF, San Francisco/Oakland — Fri, 24 Oct 2025
-- Asiento, San Francisco/Oakland — Thu, 31 Jul 2025
-- Asiento, San Francisco/Oakland — Fri, 30 May 2025
-- Underground SF, San Francisco/Oakland — Fri, 6 Dec 2024
-- Underground SF, San Francisco/Oakland — Fri, 24 Nov 2023
-- Underground SF, San Francisco/Oakland — Fri, 25 Aug 2023
-- Underground SF, San Francisco/Oakland — Wed, 26 Jul 2023
+- Underground SF, San Francisco/Oakland · Fri, 3 Jul 2026
+- Underground SF, San Francisco/Oakland · Fri, 24 Oct 2025
+- Asiento, San Francisco/Oakland · Thu, 31 Jul 2025
+- Asiento, San Francisco/Oakland · Fri, 30 May 2025
+- Underground SF, San Francisco/Oakland · Fri, 6 Dec 2024
+- Underground SF, San Francisco/Oakland · Fri, 24 Nov 2023
+- Underground SF, San Francisco/Oakland · Fri, 25 Aug 2023
+- Underground SF, San Francisco/Oakland · Wed, 26 Jul 2023
 
 ## Shares bills with
 

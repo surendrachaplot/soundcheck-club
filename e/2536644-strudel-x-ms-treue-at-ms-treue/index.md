@@ -1,6 +1,6 @@
 # STRUDEL x MS Treue at MS Treue
 
-STRUDEL x MS Treue on Sat 17 Oct, Bremen. 4 artists on the bill: Anna Æther, Bonzo, DJ Keyframe and k4mi. Preview the line-up and save it on soundcheck.
+STRUDEL x MS Treue on Sat 17 Oct, Bremen. 4 artists: Anna Æther, Bonzo, DJ Keyframe and k4mi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

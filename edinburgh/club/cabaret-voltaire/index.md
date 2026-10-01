@@ -1,8 +1,8 @@
 # Cabaret Voltaire
 
-Cabaret Voltaire is a music venue in Edinburgh with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "FLY - M-High & Anil Aras - Edinburgh" on Fri, 2 Oct 2026.
+Cabaret Voltaire is a music venue in Edinburgh with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FLY - M-High & Anil Aras - Edinburgh" on Fri, 2 Oct 2026.
 
-Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 14 upcoming gigs, with line-ups including Anil Aras, Bakey, Boss Priester and Cam Stockman and 2 more. Browse upcoming dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
+Cabaret Voltaire is a music venue in Edinburgh listed on soundcheck. 14 upcoming gigs, with line-ups including Anil Aras, Bakey, Boss Priester and Cam Stockman and 2 more. See dates, start times and who's playing. 36-38 Blair St; Edinburgh, EH1 1QR; Scotland; United Kingdom.
 
 ## What's on
 

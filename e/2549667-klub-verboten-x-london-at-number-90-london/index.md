@@ -1,6 +1,6 @@
 # Klub Verboten x LONDON at NUMBER 90 LONDON
 
-Klub Verboten x LONDON at NUMBER 90 LONDON on Fri 13 Nov, London. 3 artists on the bill: Mona Sage, Oliver Deutschmann and Yova Yager. Techno. Preview the line-up and save it on soundcheck.
+Klub Verboten x LONDON at NUMBER 90 LONDON on Fri 13 Nov, London. 3 artists: Mona Sage, Oliver Deutschmann and Yova Yager. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

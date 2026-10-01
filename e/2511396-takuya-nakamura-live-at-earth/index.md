@@ -1,6 +1,6 @@
 # Takuya Nakamura (Live) at EartH
 
-Takuya Nakamura (Live) at EartH on Sat 17 Oct, London. 1 artist on the bill: Takuya Nakamura. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Takuya Nakamura (Live) at EartH on Sat 17 Oct, London. 1 artist: Takuya Nakamura. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mr. Worldwide Party at Grand Hotel Bucharest
 
-Mr. Worldwide Party at Grand Hotel Bucharest on Fri 9 Oct, Bucharest. Pop. Preview the line-up and save it on soundcheck.
+Mr. Worldwide Party at Grand Hotel Bucharest on Fri 9 Oct, Bucharest. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

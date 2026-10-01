@@ -1,6 +1,6 @@
 # Frame at The Timber Loft
 
-Frame at The Timber Loft on Sun 1 Nov, London. Preview the line-up and save it on soundcheck.
+Frame at The Timber Loft on Sun 1 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

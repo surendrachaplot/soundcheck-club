@@ -1,6 +1,6 @@
 # Satin Jackets at The Get Down
 
-Satin Jackets at The Get Down on Fri 9 Oct, Portland. House. Preview the line-up and save it on soundcheck.
+Satin Jackets at The Get Down on Fri 9 Oct, Portland. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

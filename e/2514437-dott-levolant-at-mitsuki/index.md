@@ -1,6 +1,6 @@
 # DOTT/levolant at Mitsuki
 
-DOTT/levolant at Mitsuki on Mon 12 Oct, Tokyo. 2 artists on the bill: DOTT and levolant. Techno and House. Preview the line-up and save it on soundcheck.
+DOTT/levolant at Mitsuki on Mon 12 Oct, Tokyo. 2 artists: DOTT and levolant. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

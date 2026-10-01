@@ -1,6 +1,6 @@
 # RMN.BTS 022: DJ Senc (Slapfunk) at La Cale Rabat
 
-RMN.BTS 022: DJ Senc (Slapfunk) at La Cale Rabat on Sat 31 Oct, Morocco. 3 artists on the bill: Dablo, DJ Senc and n4bz. Preview the line-up and save it on soundcheck.
+RMN.BTS 022: DJ Senc (Slapfunk) at La Cale Rabat on Sat 31 Oct, Morocco. 3 artists: Dablo, DJ Senc and n4bz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

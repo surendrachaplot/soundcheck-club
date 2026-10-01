@@ -1,6 +1,6 @@
 # Lightning Woodcock at The Redwood Bar And Grill
 
-Lightning Woodcock at The Redwood Bar And Grill on Sat 10 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
+Lightning Woodcock at The Redwood Bar And Grill on Sat 10 Oct, Los Angeles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

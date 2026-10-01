@@ -1,8 +1,8 @@
 # kyxm
 
-kyxm is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paragon, New York City on Sat, 10 Oct 2026.
+kyxm is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Sat, 10 Oct 2026.
 
-kyxm is a club and bass artist based in United States of America, tracked on soundcheck, with 38 sets logged across New York City. Often billed alongside ethereal.mvp, martine and Pacha DJ. Next up: Paragon, New York City on Sat 10 Oct.
+kyxm is a club and bass artist based in United States of America, with 38 gigs on soundcheck across New York City. Often billed alongside ethereal.mvp, martine and Pacha DJ. Next up: Paragon, New York City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ kyxm is a club and bass artist based in United States of America, tracked on sou
 
 ## Recently played
 
-- TBA - Brooklyn Loft Location <3, New York City — Fri, 14 Aug 2026
-- Bossa Nova Civic Club, New York City — Tue, 11 Aug 2026
-- Happyfun Hideaway, New York City — Tue, 28 Jul 2026
-- Boyfriend co-op, New York City — Wed, 24 Jun 2026
-- Bossa Nova Civic Club, New York City — Thu, 21 May 2026
-- Mi Sabor Cafe, New York City — Fri, 15 May 2026
-- Honey's, New York City — Sat, 2 May 2026
-- Million Goods, New York City — Fri, 1 May 2026
+- TBA - Brooklyn Loft Location <3, New York City · Fri, 14 Aug 2026
+- Bossa Nova Civic Club, New York City · Tue, 11 Aug 2026
+- Happyfun Hideaway, New York City · Tue, 28 Jul 2026
+- Boyfriend co-op, New York City · Wed, 24 Jun 2026
+- Bossa Nova Civic Club, New York City · Thu, 21 May 2026
+- Mi Sabor Cafe, New York City · Fri, 15 May 2026
+- Honey's, New York City · Sat, 2 May 2026
+- Million Goods, New York City · Fri, 1 May 2026
 
 ## Shares bills with
 

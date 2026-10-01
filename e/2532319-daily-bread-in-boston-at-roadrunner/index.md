@@ -1,6 +1,6 @@
 # Daily Bread in Boston at Roadrunner
 
-Daily Bread in Boston at Roadrunner on Fri 11 Dec, Boston. 1 artist on the bill: Steller. Preview the line-up and save it on soundcheck.
+Daily Bread in Boston at Roadrunner on Fri 11 Dec, Boston. 1 artist: Steller. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

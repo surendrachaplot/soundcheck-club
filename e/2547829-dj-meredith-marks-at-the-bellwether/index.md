@@ -1,6 +1,6 @@
 # DJ Meredith Marks at The Bellwether
 
-DJ Meredith Marks at The Bellwether on Fri 13 Nov, Los Angeles. Disco. Preview the line-up and save it on soundcheck.
+DJ Meredith Marks at The Bellwether on Fri 13 Nov, Los Angeles. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

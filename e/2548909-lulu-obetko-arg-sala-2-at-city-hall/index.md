@@ -1,6 +1,6 @@
 # LULU OBETKO(ARG) SALA 2 at City Hall
 
-LULU OBETKO(ARG) SALA 2 at City Hall on Tue 6 Oct, Barcelona. Reggaeton. Preview the line-up and save it on soundcheck.
+LULU OBETKO(ARG) SALA 2 at City Hall on Tue 6 Oct, Barcelona. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Ben Klock
 
-Ben Klock is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
+Ben Klock is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 10 Oct 2026.
 
-Ben Klock is a techno and house artist based in Germany, tracked on soundcheck, with 264 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 59 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
+Ben Klock is a techno and house artist based in Germany, with 264 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 59 more. Often billed alongside Marcel Dettmann, Fadi Mohem and Rødhåd. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Ben Klock is a techno and house artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Fvtvr, Paris — Wed, 30 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 22 Sept 2026
-- Fiducial Asteria, Lyon — Sat, 19 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 19 Sept 2026
-- Anfiteatro de Pedra, Lisbon — Sat, 12 Sept 2026
-- Junkyard Dortmund, Dortmund-essen — Sat, 5 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 1 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 18 Aug 2026
+- Fvtvr, Paris · Wed, 30 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 22 Sept 2026
+- Fiducial Asteria, Lyon · Sat, 19 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 19 Sept 2026
+- Anfiteatro de Pedra, Lisbon · Sat, 12 Sept 2026
+- Junkyard Dortmund, Dortmund-essen · Sat, 5 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 1 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 18 Aug 2026
 
 ## Shares bills with
 

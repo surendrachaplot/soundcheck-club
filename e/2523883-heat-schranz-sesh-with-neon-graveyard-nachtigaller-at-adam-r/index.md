@@ -1,6 +1,6 @@
 # Heat Schranz Sesh with Neon Graveyard & Nachtigaller at Adam Riese
 
-Heat Schranz Sesh with Neon Graveyard & Nachtigaller at Adam Riese on Sat 19 Dec, Frankfurt. Techno. Preview the line-up and save it on soundcheck.
+Heat Schranz Sesh with Neon Graveyard & Nachtigaller at Adam Riese on Sat 19 Dec, Frankfurt. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

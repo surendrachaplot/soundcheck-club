@@ -1,6 +1,6 @@
 # J. Worra [Extended Set] w. Marco Tropeano at 99 Scott Ave
 
-J. Worra [Extended Set] w. Marco Tropeano at 99 Scott Ave on Sat 5 Dec, New York City. 3 artists on the bill: J. Worra, Marco Tropeano and Slaycey. House. Preview the line-up and save it on soundcheck.
+J. Worra [Extended Set] w. Marco Tropeano at 99 Scott Ave on Sat 5 Dec, New York City. 3 artists: J. Worra, Marco Tropeano and Slaycey. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

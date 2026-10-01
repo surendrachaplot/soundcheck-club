@@ -1,6 +1,6 @@
 # KIA / TOGENKYO at VENT
 
-KIA / TOGENKYO at VENT on Fri 18 Dec, Tokyo. 1 artist on the bill: Kia (DE). House. Preview the line-up and save it on soundcheck.
+KIA / TOGENKYO at VENT on Fri 18 Dec, Tokyo. 1 artist: Kia (DE). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # hard-coord at 288 Green St
 
-hard-coord at 288 Green St on Sat 24 Oct, Boston. Hardcore. Preview the line-up and save it on soundcheck.
+hard-coord at 288 Green St on Sat 24 Oct, Boston. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

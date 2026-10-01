@@ -1,6 +1,6 @@
 # Headbirds + Uroz at Moog Club
 
-Headbirds + Uroz at Moog Club on Fri 16 Oct, Barcelona. 1 artist on the bill: Headbirds. Techno. Preview the line-up and save it on soundcheck.
+Headbirds + Uroz at Moog Club on Fri 16 Oct, Barcelona. 1 artist: Headbirds. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

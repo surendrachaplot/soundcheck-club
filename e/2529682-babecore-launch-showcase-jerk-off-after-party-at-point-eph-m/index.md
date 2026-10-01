@@ -1,6 +1,6 @@
 # BabeCore Launch Showcase (Jerk Off After Party) at Point Ephémère
 
-BabeCore Launch Showcase (Jerk Off After Party) at Point Ephémère on Fri 2 Oct, Paris. 8 artists on the bill: Butch2Bitch, Cleo (AU), Josef and Kiar Oscuro and 4 more. Techno and Jungle. Preview the line-up and save it on soundcheck.
+BabeCore Launch Showcase (Jerk Off After Party) at Point Ephémère on Fri 2 Oct, Paris. 8 artists: Butch2Bitch, Cleo (AU), Josef and Kiar Oscuro and 4 more. Techno and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

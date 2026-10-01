@@ -1,6 +1,6 @@
 # KISSTORY at O Beach
 
-KISSTORY at O Beach on Tue 6 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+KISSTORY at O Beach on Tue 6 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

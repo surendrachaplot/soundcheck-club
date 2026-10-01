@@ -1,8 +1,8 @@
 # Mains D'œuvres
 
-Mains D'œuvres is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Paris Electronic Week - Pass convention" on Fri, 2 Oct 2026.
+Mains D'œuvres is a music venue in Paris with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Paris Electronic Week - Pass convention" on Fri, 2 Oct 2026.
 
-Mains D'œuvres is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including Drawbridge, Goldie B, Harey izé and Hewan Aman and 2 more. Browse upcoming dates, start times and who's playing. 1 Rue Charles Garnier, 93400 Saint-Ouen, France.
+Mains D'œuvres is a music venue in Paris listed on soundcheck. 15 upcoming gigs, with line-ups including Drawbridge, Goldie B, Harey izé and Hewan Aman and 2 more. See dates, start times and who's playing. 1 Rue Charles Garnier, 93400 Saint-Ouen, France.
 
 ## What's on
 

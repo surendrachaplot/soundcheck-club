@@ -1,8 +1,8 @@
 # Ushuaïa Ibiza
 
-Ushuaïa Ibiza is a music venue in Ibiza with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Calvin Harris & MK - CLOSING PARTY" on Fri, 2 Oct 2026.
+Ushuaïa Ibiza is a music venue in Ibiza with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Calvin Harris & MK - CLOSING PARTY" on Fri, 2 Oct 2026.
 
-Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming gigs, with line-ups including Afrojack, Andrea Oliva, Bontan and Butch (JP) and 2 more. Browse upcoming dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
+Ushuaïa Ibiza is a music venue in Ibiza listed on soundcheck. 4 upcoming gigs, with line-ups including Afrojack, Andrea Oliva, Bontan and Butch (JP) and 2 more. See dates, start times and who's playing. Playa d'en Bossa 10, Sat Jordi de Ses Salines, 07817 Ibiza, Spain.
 
 ## What's on
 

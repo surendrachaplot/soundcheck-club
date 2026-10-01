@@ -1,6 +1,6 @@
 # Insomniac presents I Hate Models at City Market
 
-Insomniac presents I Hate Models at City Market on Sat 7 Nov, Los Angeles. 1 artist on the bill: I Hate Models. Techno. Preview the line-up and save it on soundcheck.
+Insomniac presents I Hate Models at City Market on Sat 7 Nov, Los Angeles. 1 artist: I Hate Models. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

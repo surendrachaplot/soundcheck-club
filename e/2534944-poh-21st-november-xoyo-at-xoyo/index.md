@@ -1,6 +1,6 @@
 # POH 21st November - XOYO at XOYO
 
-POH 21st November - XOYO on Sat 21 Nov, London. 7 artists on the bill: Adela, Daniel Curpen, Just Her and L.GU. and 3 more. Breakbeat and Deep House. Preview the line-up and save it on soundcheck.
+POH 21st November - XOYO on Sat 21 Nov, London. 7 artists: Adela, Daniel Curpen, Just Her and L.GU. and 3 more. Breakbeat and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

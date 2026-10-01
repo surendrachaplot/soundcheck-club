@@ -1,6 +1,6 @@
 # Crÿbaby at In The Hanging Garden
 
-Crÿbaby at In The Hanging Garden on Sat 24 Oct, Hobart. 1 artist on the bill: Cry Baby. Kuduro and Afro Tech. Preview the line-up and save it on soundcheck.
+Crÿbaby at In The Hanging Garden on Sat 24 Oct, Hobart. 1 artist: Cry Baby. Kuduro and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

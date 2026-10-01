@@ -1,6 +1,6 @@
 # Lanna Club presenta Surgeon extended set, Manglés at Lanna Club
 
-Lanna Club presenta Surgeon extended set, Manglés on Fri 11 Dec, North. 2 artists on the bill: Dj Manglés and Surgeon. Preview the line-up and save it on soundcheck.
+Lanna Club presenta Surgeon extended set, Manglés on Fri 11 Dec, North. 2 artists: Dj Manglés and Surgeon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

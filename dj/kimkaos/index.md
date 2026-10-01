@@ -1,8 +1,8 @@
 # Kim Kaos
 
-Kim Kaos is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
+Kim Kaos is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 12 Dec 2026.
 
-Kim Kaos is a house and acid artist based in Netherlands, tracked on soundcheck, with 12 sets logged across Amsterdam and Rotterdam. Often billed alongside Divine, ROOG and Alexander Koning. Next up: Thuishaven, Amsterdam on Sat 12 Dec.
+Kim Kaos is a house and acid artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Divine, ROOG and Alexander Koning. Next up: Thuishaven, Amsterdam on Sat 12 Dec.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kim Kaos is a house and acid artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 29 Aug 2026
-- Thuishaven, Amsterdam — Sat, 1 Aug 2026
-- Madam, Amsterdam — Fri, 23 Jan 2026
-- Now&Wow, Rotterdam — Sat, 27 Dec 2025
-- Thuishaven, Amsterdam — Sat, 13 Dec 2025
-- Madam, Amsterdam — Fri, 15 Aug 2025
-- Toffler, Rotterdam — Fri, 4 Jul 2025
-- Thuishaven, Amsterdam — Sat, 5 Apr 2025
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
+- Thuishaven, Amsterdam · Sat, 1 Aug 2026
+- Madam, Amsterdam · Fri, 23 Jan 2026
+- Now&Wow, Rotterdam · Sat, 27 Dec 2025
+- Thuishaven, Amsterdam · Sat, 13 Dec 2025
+- Madam, Amsterdam · Fri, 15 Aug 2025
+- Toffler, Rotterdam · Fri, 4 Jul 2025
+- Thuishaven, Amsterdam · Sat, 5 Apr 2025
 
 ## Shares bills with
 

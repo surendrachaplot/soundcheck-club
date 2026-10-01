@@ -1,8 +1,8 @@
 # Yushh
 
-Yushh is a Bass and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Post Bar, Helsinki on Sat, 3 Oct 2026.
+Yushh is a Bass and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Post Bar, Helsinki on Sat, 3 Oct 2026.
 
-Yushh is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 113 sets logged across Adelaide, Amsterdam, Athens and Barcelona and 29 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Post Bar, Helsinki on Sat 3 Oct.
+Yushh is a bass and techno artist based in United Kingdom, with 113 gigs on soundcheck across Adelaide, Amsterdam, Athens and Barcelona and 29 more. Often billed alongside Breaka, Dubrunner and Batu. Next up: Post Bar, Helsinki on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Yushh is a bass and techno artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- Process PDX, Portland — Fri, 18 Sept 2026
-- House of Yes, New York City — Sat, 12 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Holdenweid, Basel — Fri, 4 Sept 2026
-- Strange Brew, Bristol — Fri, 7 Aug 2026
-- Sawmills, Bristol — Fri, 17 Jul 2026
-- Low Profile Studios, London — Sat, 20 Jun 2026
-- West Harlem, Kyoto — Sat, 6 Jun 2026
+- Process PDX, Portland · Fri, 18 Sept 2026
+- House of Yes, New York City · Sat, 12 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Holdenweid, Basel · Fri, 4 Sept 2026
+- Strange Brew, Bristol · Fri, 7 Aug 2026
+- Sawmills, Bristol · Fri, 17 Jul 2026
+- Low Profile Studios, London · Sat, 20 Jun 2026
+- West Harlem, Kyoto · Sat, 6 Jun 2026
 
 ## Shares bills with
 

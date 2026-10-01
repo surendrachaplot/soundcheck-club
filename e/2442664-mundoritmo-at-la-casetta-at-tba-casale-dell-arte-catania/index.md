@@ -1,6 +1,6 @@
 # mundoritmo at la casetta at TBA - Casale dell'arte - Catania 
 
-mundoritmo at la casetta at TBA - Casale dell'arte - Catania  on Tue 1 Jun, Sicily. 1 artist on the bill: Vladimir Ivkovic. Preview the line-up and save it on soundcheck.
+mundoritmo at la casetta at TBA - Casale dell'arte - Catania  on Tue 1 Jun, Sicily. 1 artist: Vladimir Ivkovic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

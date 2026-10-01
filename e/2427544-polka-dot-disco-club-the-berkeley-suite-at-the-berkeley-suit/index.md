@@ -1,6 +1,6 @@
 # Polka Dot Disco Club ♡ The Berkeley Suite ♡ at The Berkeley Suite
 
-Polka Dot Disco Club ♡ The Berkeley Suite ♡ on Fri 20 Nov, Glasgow. Preview the line-up and save it on soundcheck.
+Polka Dot Disco Club ♡ The Berkeley Suite ♡ on Fri 20 Nov, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

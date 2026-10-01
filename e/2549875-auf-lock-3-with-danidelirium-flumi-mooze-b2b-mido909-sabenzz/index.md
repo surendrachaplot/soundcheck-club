@@ -1,6 +1,6 @@
 # Auf Lock #3 with Danidelirium, Flumi, Mooze b2b Mido909 & sabenzzzo at Locke
 
-Auf Lock #3 with Danidelirium, Flumi, Mooze b2b Mido909 & sabenzzzo at Locke on Fri 9 Oct, Hamburg. 1 artist on the bill: sabenzzzo. Preview the line-up and save it on soundcheck.
+Auf Lock #3 with Danidelirium, Flumi, Mooze b2b Mido909 & sabenzzzo at Locke on Fri 9 Oct, Hamburg. 1 artist: sabenzzzo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

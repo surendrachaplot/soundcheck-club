@@ -1,6 +1,6 @@
 # Nikki Nair, I.JORDAN, Addison Groove, Jenny Sparks - Halloween - Venue MOT at M.O.T
 
-Nikki Nair, I.JORDAN, Addison Groove, Jenny Sparks - Halloween - Venue MOT at M.O.T on Sat 31 Oct, London. 3 artists on the bill: Addison Groove, I. JORDAN and Nikki Nair. Preview the line-up and save it on soundcheck.
+Nikki Nair, I.JORDAN, Addison Groove, Jenny Sparks - Halloween - Venue MOT at M.O.T on Sat 31 Oct, London. 3 artists: Addison Groove, I. JORDAN and Nikki Nair. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

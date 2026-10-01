@@ -1,6 +1,6 @@
 # Leithienda Proudly presents - TODD TERRY - (Exclusive 2 Hour Set) at The Pitt Market
 
-Leithienda Proudly presents - TODD TERRY - (Exclusive 2 Hour Set) at The Pitt Market on Sat 10 Oct, Edinburgh. 2 artists on the bill: DJ Kid and Todd Terry. House and Club. Preview the line-up and save it on soundcheck.
+Leithienda Proudly presents - TODD TERRY - (Exclusive 2 Hour Set) at The Pitt Market on Sat 10 Oct, Edinburgh. 2 artists: DJ Kid and Todd Terry. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

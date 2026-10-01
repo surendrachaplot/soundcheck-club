@@ -1,6 +1,6 @@
 # OFFWEEK presents Nina Kraviz & QUEST at Tibidabo Parc at Parc d’Atraccions del Tibidabo
 
-OFFWEEK presents Nina Kraviz & QUEST at Tibidabo Parc at Parc d’Atraccions del Tibidabo on Fri 9 Oct, Barcelona. 3 artists on the bill: Lumiere, Nina Kraviz and Quest (IT). Preview the line-up and save it on soundcheck.
+OFFWEEK presents Nina Kraviz & QUEST at Tibidabo Parc at Parc d’Atraccions del Tibidabo on Fri 9 Oct, Barcelona. 3 artists: Lumiere, Nina Kraviz and Quest (IT). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

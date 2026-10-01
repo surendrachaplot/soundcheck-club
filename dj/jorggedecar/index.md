@@ -1,8 +1,8 @@
 # Jorgge Decar
 
-Jorgge Decar is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Doggy Klœb, Malaga on Fri, 2 Oct 2026.
+Jorgge Decar is a Electro and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 2 Oct 2026.
 
-Jorgge Decar is an electro and electronica artist based in Colombia, tracked on soundcheck, with 32 sets logged across Malaga. Often billed alongside Unreal Vibes, Excenital and Radikal. Next up: Doggy Klœb, Malaga on Fri 2 Oct.
+Jorgge Decar is an electro and electronica artist based in Colombia, with 32 gigs on soundcheck across Malaga. Often billed alongside Unreal Vibes, Excenital and Radikal. Next up: Doggy Klœb, Malaga on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Jorgge Decar is an electro and electronica artist based in Colombia, tracked on 
 
 ## Recently played
 
-- Doggy Klœb, Malaga — Sat, 26 Sept 2026
-- TBA - Secret Location, Malaga — Sun, 16 Aug 2026
-- Doggy Klœb, Malaga — Sat, 8 Aug 2026
-- Doggy Klœb, Malaga — Thu, 23 Jul 2026
-- Doggy Klœb, Malaga — Sat, 23 May 2026
-- Doggy Klœb, Malaga — Sat, 2 May 2026
-- Doggy Klœb, Malaga — Sat, 11 Apr 2026
-- Doggy Klœb, Malaga — Thu, 2 Apr 2026
+- Doggy Klœb, Malaga · Sat, 26 Sept 2026
+- TBA - Secret Location, Malaga · Sun, 16 Aug 2026
+- Doggy Klœb, Malaga · Sat, 8 Aug 2026
+- Doggy Klœb, Malaga · Thu, 23 Jul 2026
+- Doggy Klœb, Malaga · Sat, 23 May 2026
+- Doggy Klœb, Malaga · Sat, 2 May 2026
+- Doggy Klœb, Malaga · Sat, 11 Apr 2026
+- Doggy Klœb, Malaga · Thu, 2 Apr 2026
 
 ## Shares bills with
 

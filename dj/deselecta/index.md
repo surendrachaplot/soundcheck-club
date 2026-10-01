@@ -1,8 +1,8 @@
 # Deselecta
 
-Deselecta is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Cause, London on Sat, 31 Oct 2026.
+Deselecta is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Cause, London on Sat, 31 Oct 2026.
 
-Deselecta is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 68 sets logged across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Sleazebag. Next up: The Cause, London on Sat 31 Oct.
+Deselecta is a jungle and drum & bass artist based in United Kingdom, with 68 gigs on soundcheck across Bristol, Frankfurt, London and Manchester and 2 more. Often billed alongside Krash Dubs, 50CAL and Sleazebag. Next up: The Cause, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Deselecta is a jungle and drum & bass artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- The Croft, Bristol — Sat, 26 Sept 2026
-- M.O.T, London — Sat, 5 Sept 2026
-- The Jam Jar, Bristol — Sun, 30 Aug 2026
-- The Carpet Shop, London — Thu, 27 Aug 2026
-- Brixton Jamm, London — Fri, 14 Aug 2026
-- The Clock Factory, Bristol — Fri, 7 Aug 2026
-- Silbergold, Frankfurt — Sat, 11 Jul 2026
-- Allenford Farms, Southampton — Fri, 26 Jun 2026
+- The Croft, Bristol · Sat, 26 Sept 2026
+- M.O.T, London · Sat, 5 Sept 2026
+- The Jam Jar, Bristol · Sun, 30 Aug 2026
+- The Carpet Shop, London · Thu, 27 Aug 2026
+- Brixton Jamm, London · Fri, 14 Aug 2026
+- The Clock Factory, Bristol · Fri, 7 Aug 2026
+- Silbergold, Frankfurt · Sat, 11 Jul 2026
+- Allenford Farms, Southampton · Fri, 26 Jun 2026
 
 ## Shares bills with
 

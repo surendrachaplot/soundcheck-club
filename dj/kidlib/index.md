@@ -1,8 +1,8 @@
 # Kid Lib
 
-Kid Lib is a Jungle and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Kid Lib is a Jungle and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
-Kid Lib is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Mantra, Charla Green and Double O. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Kid Lib is a jungle and drum & bass artist based in United Kingdom, with 16 gigs on soundcheck across Bristol, Leeds, London and Manchester and 1 more. Often billed alongside Mantra, Charla Green and Double O. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Kid Lib is a jungle and drum & bass artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Dryad Works, Sheffield — Fri, 26 Jun 2026
-- Unit3, Manchester — Fri, 22 May 2026
-- Dryad Works, Sheffield — Fri, 27 Mar 2026
-- Rebellion, Manchester — Fri, 12 Dec 2025
-- FORGE, Sheffield — Sat, 15 Nov 2025
-- Hope Works, Sheffield — Fri, 7 Feb 2025
-- Beaver Works, Leeds — Sat, 5 Oct 2024
-- FORGE, Sheffield — Sat, 4 May 2024
+- Dryad Works, Sheffield · Fri, 26 Jun 2026
+- Unit3, Manchester · Fri, 22 May 2026
+- Dryad Works, Sheffield · Fri, 27 Mar 2026
+- Rebellion, Manchester · Fri, 12 Dec 2025
+- FORGE, Sheffield · Sat, 15 Nov 2025
+- Hope Works, Sheffield · Fri, 7 Feb 2025
+- Beaver Works, Leeds · Sat, 5 Oct 2024
+- FORGE, Sheffield · Sat, 4 May 2024
 
 ## Shares bills with
 

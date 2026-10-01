@@ -1,6 +1,6 @@
 # PartyNextDoor at LIV Nightclub Miami
 
-PartyNextDoor at LIV Nightclub Miami on Fri 2 Oct, Miami. Preview the line-up and save it on soundcheck.
+PartyNextDoor at LIV Nightclub Miami on Fri 2 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

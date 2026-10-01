@@ -1,6 +1,6 @@
 # F.A.N.G.O. con EMIR-B y Danilo at Core
 
-F.A.N.G.O. con EMIR-B y Danilo at Core on Sat 3 Oct, Madrid. 1 artist on the bill: EMIR-B. Techno and Electronica. Preview the line-up and save it on soundcheck.
+F.A.N.G.O. con EMIR-B y Danilo at Core on Sat 3 Oct, Madrid. 1 artist: EMIR-B. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

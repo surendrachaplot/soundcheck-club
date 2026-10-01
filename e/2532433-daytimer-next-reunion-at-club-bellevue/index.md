@@ -1,6 +1,6 @@
 # DAYTIMER: NEXT REUNION at Club Bellevue
 
-DAYTIMER: NEXT REUNION at Club Bellevue on Sat 7 Nov, Zurich. House. Preview the line-up and save it on soundcheck.
+DAYTIMER: NEXT REUNION at Club Bellevue on Sat 7 Nov, Zurich. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

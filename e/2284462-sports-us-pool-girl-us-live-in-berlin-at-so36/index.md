@@ -1,6 +1,6 @@
 # SPORTS (US), POOL GIRL (US) — live in Berlin at So36
 
-SPORTS (US), POOL GIRL (US) — live in Berlin at So36 on Mon 2 Nov, Berlin. Pop and New Wave. Preview the line-up and save it on soundcheck.
+SPORTS (US), POOL GIRL (US) — live in Berlin at So36 on Mon 2 Nov, Berlin. Pop and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

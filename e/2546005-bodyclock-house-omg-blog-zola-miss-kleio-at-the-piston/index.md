@@ -1,6 +1,6 @@
 # BODYCLOCK - HOUSE OMG.BLOG, Zola, Miss Kleio at The Piston
 
-BODYCLOCK - HOUSE OMG.BLOG, Zola, Miss Kleio at The Piston on Thu 15 Oct, Toronto. 3 artists on the bill: Miss Kleio, OMG.BLOG and Zola (TRM). House. Preview the line-up and save it on soundcheck.
+BODYCLOCK - HOUSE OMG.BLOG, Zola, Miss Kleio at The Piston on Thu 15 Oct, Toronto. 3 artists: Miss Kleio, OMG.BLOG and Zola (TRM). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

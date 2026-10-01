@@ -1,8 +1,8 @@
 # An-i
 
-An-i is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Salon des Amateurs, Düsseldorf on Sat, 10 Oct 2026.
+An-i is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Salon des Amateurs, Düsseldorf on Sat, 10 Oct 2026.
 
-An-i is a techno and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Belgrade, Berlin, Bucharest and Dublin and 12 more. Often billed alongside Veronica Vasicka, Layne and FFAN. Next up: Salon des Amateurs, Düsseldorf on Sat 10 Oct.
+An-i is a techno and house artist based in Germany, with 47 gigs on soundcheck across Belgrade, Berlin, Bucharest and Dublin and 12 more. Often billed alongside Veronica Vasicka, Layne and FFAN. Next up: Salon des Amateurs, Düsseldorf on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ An-i is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
-- Coco Boule, Berlin — Fri, 11 Sept 2026
-- Karmakoma, Belgrade — Sat, 27 Jun 2026
-- Lux Fragil, Lisbon — Fri, 8 May 2026
-- Sameheads, Berlin — Fri, 17 Apr 2026
-- Mono's Bar Bohs, Dublin — Sat, 7 Mar 2026
-- Nyapi, Seoul — Sat, 10 Jan 2026
-- Edenico, Osaka — Tue, 30 Dec 2025
-- VENT, Tokyo — Fri, 26 Dec 2025
+- Coco Boule, Berlin · Fri, 11 Sept 2026
+- Karmakoma, Belgrade · Sat, 27 Jun 2026
+- Lux Fragil, Lisbon · Fri, 8 May 2026
+- Sameheads, Berlin · Fri, 17 Apr 2026
+- Mono's Bar Bohs, Dublin · Sat, 7 Mar 2026
+- Nyapi, Seoul · Sat, 10 Jan 2026
+- Edenico, Osaka · Tue, 30 Dec 2025
+- VENT, Tokyo · Fri, 26 Dec 2025
 
 ## Shares bills with
 

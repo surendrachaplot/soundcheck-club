@@ -1,6 +1,6 @@
 # EDEN presents Héctor Oaks All Night Long (La Línea de la Vida) at Athens Conservatoire - Ωδείον Αθηνών
 
-EDEN presents Héctor Oaks All Night Long (La Línea de la Vida) at Athens Conservatoire - Ωδείον Αθηνών on Sun 27 Dec, Athens. 1 artist on the bill: Héctor Oaks. Techno and Acid. Preview the line-up and save it on soundcheck.
+EDEN presents Héctor Oaks All Night Long (La Línea de la Vida) at Athens Conservatoire - Ωδείον Αθηνών on Sun 27 Dec, Athens. 1 artist: Héctor Oaks. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

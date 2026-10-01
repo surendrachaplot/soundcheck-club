@@ -1,6 +1,6 @@
 # Amen Audio presents Night Terrors at Plot 22
 
-Amen Audio presents Night Terrors at Plot 22 on Sat 3 Oct, Sheffield. 3 artists on the bill: Earl Grey, mark andrew and Tommy Badman. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Amen Audio presents Night Terrors at Plot 22 on Sat 3 Oct, Sheffield. 3 artists: Earl Grey, mark andrew and Tommy Badman. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

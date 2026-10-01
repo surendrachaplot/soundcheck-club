@@ -1,6 +1,6 @@
 # LMYNL World Tour Official Afterparty X Say No More at Say No More Madrid
 
-LMYNL World Tour Official Afterparty X Say No More at Say No More Madrid on Sun 4 Oct, Madrid. House and Afro House. Preview the line-up and save it on soundcheck.
+LMYNL World Tour Official Afterparty X Say No More at Say No More Madrid on Sun 4 Oct, Madrid. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Guau x Yo Speed - SYDNEY - BREɅKS & BɅSS | at Arq
 
-Guau x Yo Speed - SYDNEY - BREɅKS & BɅSS | at Arq on Sun 4 Oct, Sydney. 2 artists on the bill: Guau and Yo Speed. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+Guau x Yo Speed - SYDNEY - BREɅKS & BɅSS | at Arq on Sun 4 Oct, Sydney. 2 artists: Guau and Yo Speed. Breakbeat and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

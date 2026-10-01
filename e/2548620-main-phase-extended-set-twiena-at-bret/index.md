@@ -1,6 +1,6 @@
 # Main Phase [extended set] & TWIENA at BRET
 
-Main Phase [extended set] & TWIENA at BRET on Sat 14 Nov, Amsterdam. 2 artists on the bill: Main Phase and TWIENA. Bass and Garage. Preview the line-up and save it on soundcheck.
+Main Phase [extended set] & TWIENA at BRET on Sat 14 Nov, Amsterdam. 2 artists: Main Phase and TWIENA. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

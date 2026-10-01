@@ -1,6 +1,6 @@
 # THE AFTERLIFE at Monarch
 
-THE AFTERLIFE at Monarch on Sat 31 Oct, San Francisco/Oakland. Club. Preview the line-up and save it on soundcheck.
+THE AFTERLIFE at Monarch on Sat 31 Oct, San Francisco/Oakland. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

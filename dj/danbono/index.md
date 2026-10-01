@@ -1,8 +1,8 @@
 # Dan Bono
 
-Dan Bono is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Warehouse, Nantes on Fri, 2 Oct 2026.
+Dan Bono is a Electro and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Warehouse, Nantes on Fri, 2 Oct 2026.
 
-Dan Bono is an electro and house artist based in France, tracked on soundcheck, with 10 sets logged across Nantes. Often billed alongside Quentin Schneider, Corentin Mab and Acid Arab. Next up: Warehouse, Nantes on Fri 2 Oct.
+Dan Bono is an electro and house artist based in France, with 10 gigs on soundcheck across Nantes. Often billed alongside Quentin Schneider, Corentin Mab and Acid Arab. Next up: Warehouse, Nantes on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,13 +14,13 @@ Dan Bono is an electro and house artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- Warehouse, Nantes — Fri, 5 Jun 2026
-- Warehouse, Nantes — Sat, 28 Mar 2026
-- Warehouse, Nantes — Sat, 7 Feb 2026
-- Warehouse, Nantes — Sat, 11 May 2024
-- Warehouse, Nantes — Fri, 19 Apr 2024
-- Warehouse, Nantes — Sat, 10 Feb 2024
-- Warehouse, Nantes — Sat, 4 Feb 2023
+- Warehouse, Nantes · Fri, 5 Jun 2026
+- Warehouse, Nantes · Sat, 28 Mar 2026
+- Warehouse, Nantes · Sat, 7 Feb 2026
+- Warehouse, Nantes · Sat, 11 May 2024
+- Warehouse, Nantes · Fri, 19 Apr 2024
+- Warehouse, Nantes · Sat, 10 Feb 2024
+- Warehouse, Nantes · Sat, 4 Feb 2023
 
 ## Shares bills with
 

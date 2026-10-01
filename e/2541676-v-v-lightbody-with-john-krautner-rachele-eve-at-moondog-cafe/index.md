@@ -1,6 +1,6 @@
 # V.V. Lightbody with John Krautner & Rachele Eve at Moondog Cafe
 
-V.V. Lightbody with John Krautner & Rachele Eve at Moondog Cafe on Sat 14 Nov, Detroit. Preview the line-up and save it on soundcheck.
+V.V. Lightbody with John Krautner & Rachele Eve at Moondog Cafe on Sat 14 Nov, Detroit. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

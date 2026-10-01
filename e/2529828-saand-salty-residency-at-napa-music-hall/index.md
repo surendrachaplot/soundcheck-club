@@ -1,6 +1,6 @@
 # SAAND - Salty Residency at Napa Music Hall
 
-SAAND - Salty Residency at Napa Music Hall on Fri 9 Oct, San Francisco/Oakland. 2 artists on the bill: SAAND and Tamer_1oc. Techno and House. Preview the line-up and save it on soundcheck.
+SAAND - Salty Residency at Napa Music Hall on Fri 9 Oct, San Francisco/Oakland. 2 artists: SAAND and Tamer_1oc. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

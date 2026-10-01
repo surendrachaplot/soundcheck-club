@@ -1,6 +1,6 @@
 # Techno Friday Nacht: Junks (all night) / Avowal at Radio Wine, Food & Music Bar
 
-Techno Friday Nacht: Junks (all night) / Avowal at Radio Wine, Food & Music Bar on Fri 2 Oct, Mexico City. 1 artist on the bill: Jnks. Techno. Preview the line-up and save it on soundcheck.
+Techno Friday Nacht: Junks (all night) / Avowal at Radio Wine, Food & Music Bar on Fri 2 Oct, Mexico City. 1 artist: Jnks. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

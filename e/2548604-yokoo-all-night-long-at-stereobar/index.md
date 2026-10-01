@@ -1,6 +1,6 @@
 # YokoO (All Night Long) at StereoBar
 
-YokoO (All Night Long) at StereoBar on Sat 10 Oct, Montreal. 1 artist on the bill: YokoO. Preview the line-up and save it on soundcheck.
+YokoO (All Night Long) at StereoBar on Sat 10 Oct, Montreal. 1 artist: YokoO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

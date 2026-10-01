@@ -1,6 +1,6 @@
 # Morninglory at Le Son de la Terre
 
-Morninglory at Le Son de la Terre on Fri 2 Oct, Paris. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Morninglory at Le Son de la Terre on Fri 2 Oct, Paris. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

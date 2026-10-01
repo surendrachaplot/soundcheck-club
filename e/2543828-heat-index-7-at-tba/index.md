@@ -1,6 +1,6 @@
 # Heat Index 7 at TBA
 
-Heat Index 7 at TBA on Sat 12 Dec, London. Trance and Techno. Preview the line-up and save it on soundcheck.
+Heat Index 7 at TBA on Sat 12 Dec, London. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Catarina Silva at Plano B
 
-Catarina Silva at Plano B on Fri 23 Oct, Porto. 1 artist on the bill: Catarina Silva. House and Electronica. Preview the line-up and save it on soundcheck.
+Catarina Silva at Plano B on Fri 23 Oct, Porto. 1 artist: Catarina Silva. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

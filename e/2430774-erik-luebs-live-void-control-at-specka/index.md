@@ -1,6 +1,6 @@
 # Erik Luebs: Live | Void Control at Specka
 
-Erik Luebs: Live | Void Control at Specka on Fri 16 Oct, Madrid. 3 artists on the bill: Brody, Erik Luebs and M. Freelance. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Erik Luebs: Live | Void Control at Specka on Fri 16 Oct, Madrid. 3 artists: Brody, Erik Luebs and M. Freelance. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MAYAN WARRIOR HALLOWEEN (FULL ART CAR) at Grand Park
 
-MAYAN WARRIOR HALLOWEEN (FULL ART CAR) at Grand Park on Sat 31 Oct, Los Angeles. 3 artists on the bill: CamelPhat, LUCH (MEX) and Yamagucci. House and Electronica. Preview the line-up and save it on soundcheck.
+MAYAN WARRIOR HALLOWEEN (FULL ART CAR) at Grand Park on Sat 31 Oct, Los Angeles. 3 artists: CamelPhat, LUCH (MEX) and Yamagucci. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

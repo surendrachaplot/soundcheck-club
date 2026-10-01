@@ -1,6 +1,6 @@
 # Deestricted at RSO.BERLIN
 
-Deestricted at RSO.BERLIN on Fri 11 Dec, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Deestricted at RSO.BERLIN on Fri 11 Dec, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

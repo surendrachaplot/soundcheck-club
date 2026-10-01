@@ -1,6 +1,6 @@
 # SUBELO - Dembow • Bachata • Mambo • Tipico (21+) at The Meadows
 
-SUBELO - Dembow • Bachata • Mambo • Tipico (21+) at The Meadows on Fri 9 Oct, New York City. Reggaeton and Dembow. Preview the line-up and save it on soundcheck.
+SUBELO - Dembow • Bachata • Mambo • Tipico (21+) at The Meadows on Fri 9 Oct, New York City. Reggaeton and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

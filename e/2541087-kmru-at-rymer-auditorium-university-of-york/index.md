@@ -1,6 +1,6 @@
 # KMRU at Rymer Auditorium - University of York
 
-KMRU at Rymer Auditorium - University of York on Wed 28 Oct, North. 1 artist on the bill: KMRU. Preview the line-up and save it on soundcheck.
+KMRU at Rymer Auditorium - University of York on Wed 28 Oct, North. 1 artist: KMRU. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

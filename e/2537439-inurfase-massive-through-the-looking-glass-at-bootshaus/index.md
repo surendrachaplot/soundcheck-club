@@ -1,6 +1,6 @@
 # INURFASE MASSIVE: THROUGH THE LOOKING GLASS at Bootshaus
 
-INURFASE MASSIVE: THROUGH THE LOOKING GLASS at Bootshaus on Fri 18 Dec, Cologne. Preview the line-up and save it on soundcheck.
+INURFASE MASSIVE: THROUGH THE LOOKING GLASS at Bootshaus on Fri 18 Dec, Cologne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

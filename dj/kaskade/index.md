@@ -1,8 +1,8 @@
 # Kaskade
 
-Kaskade is a House and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Kaskade is a House and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Kaskade is a house and bass artist based in United States of America, tracked on soundcheck, with 54 sets logged across Amsterdam, Austin, Chicago and Detroit and 11 more. Often billed alongside Green Velvet, Chris Lake and Eli Brown. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Kaskade is a house and bass artist based in United States of America, with 54 gigs on soundcheck across Amsterdam, Austin, Chicago and Detroit and 11 more. Often billed alongside Green Velvet, Chris Lake and Eli Brown. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Kaskade is a house and bass artist based in United States of America, tracked on
 
 ## Recently played
 
-- Factory Town, Miami — Fri, 18 Sept 2026
-- Pacha New York, New York City — Thu, 3 Sept 2026
-- Void Mykonos, Mykonos — Sat, 25 Jul 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 18 Jul 2026
-- Brooklyn Army Terminal, New York City — Fri, 19 Jun 2026
-- Pier 48's Shed A, San Francisco/Oakland — Fri, 17 Apr 2026
-- Historic Virginia Key Beach Park, Miami — Sat, 28 Feb 2026
-- Petco Park, San Diego — Wed, 31 Dec 2025
+- Factory Town, Miami · Fri, 18 Sept 2026
+- Pacha New York, New York City · Thu, 3 Sept 2026
+- Void Mykonos, Mykonos · Sat, 25 Jul 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sat, 18 Jul 2026
+- Brooklyn Army Terminal, New York City · Fri, 19 Jun 2026
+- Pier 48's Shed A, San Francisco/Oakland · Fri, 17 Apr 2026
+- Historic Virginia Key Beach Park, Miami · Sat, 28 Feb 2026
+- Petco Park, San Diego · Wed, 31 Dec 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # DISCO HOUSE ROOFTOP PARTY at Hotel Negresco Princess
 
-DISCO HOUSE ROOFTOP PARTY at Hotel Negresco Princess on Sat 24 Oct, Barcelona. 1 artist on the bill: Helen Me Lia. House. Preview the line-up and save it on soundcheck.
+DISCO HOUSE ROOFTOP PARTY at Hotel Negresco Princess on Sat 24 Oct, Barcelona. 1 artist: Helen Me Lia. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

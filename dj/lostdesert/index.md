@@ -1,8 +1,8 @@
 # Lost Desert
 
-Lost Desert is a Deep House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Crane Hotel Faralda, Amsterdam on Wed, 21 Oct 2026.
+Lost Desert is a Deep House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Crane Hotel Faralda, Amsterdam on Wed, 21 Oct 2026.
 
-Lost Desert is a deep house and house artist based in Belgium, tracked on soundcheck, with 48 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 16 more. Often billed alongside Lee Burridge, Tim Green and Double Touch. Next up: Crane Hotel Faralda, Amsterdam on Wed 21 Oct.
+Lost Desert is a deep house and house artist based in Belgium, with 48 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 16 more. Often billed alongside Lee Burridge, Tim Green and Double Touch. Next up: Crane Hotel Faralda, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Lost Desert is a deep house and house artist based in Belgium, tracked on soundc
 
 ## Recently played
 
-- Refuge, New York City — Fri, 28 Aug 2026
-- Refuge, New York City — Fri, 24 Jul 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 20 Jun 2026
-- Seaseaclub Barcelona, Barcelona — Fri, 19 Jun 2026
-- Lower Deck, London — Sat, 30 May 2026
-- Vertigo, Toronto — Sat, 6 Dec 2025
-- Akasha Las Dalias Club - Ibiza, Ibiza — Thu, 18 Sept 2025
-- TBA - Hare Garden, Bucharest — Sat, 13 Sept 2025
+- Refuge, New York City · Fri, 28 Aug 2026
+- Refuge, New York City · Fri, 24 Jul 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 20 Jun 2026
+- Seaseaclub Barcelona, Barcelona · Fri, 19 Jun 2026
+- Lower Deck, London · Sat, 30 May 2026
+- Vertigo, Toronto · Sat, 6 Dec 2025
+- Akasha Las Dalias Club - Ibiza, Ibiza · Thu, 18 Sept 2025
+- TBA - Hare Garden, Bucharest · Sat, 13 Sept 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Quanto presents Cristi Cons, Eksish & Jake Moree + residents at Moon Club
 
-Quanto presents Cristi Cons, Eksish & Jake Moree + residents at Moon Club on Sat 17 Oct, Bristol. 1 artist on the bill: Cristi Cons. House and Electro. Preview the line-up and save it on soundcheck.
+Quanto presents Cristi Cons, Eksish & Jake Moree + residents at Moon Club on Sat 17 Oct, Bristol. 1 artist: Cristi Cons. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

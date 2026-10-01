@@ -1,6 +1,6 @@
 # Crossy presents: The Breakthrough - Cardiff at District Cardiff
 
-Crossy presents: The Breakthrough - Cardiff at District Cardiff on Fri 16 Oct, Cardiff. 1 artist on the bill: Crossy. Preview the line-up and save it on soundcheck.
+Crossy presents: The Breakthrough - Cardiff at District Cardiff on Fri 16 Oct, Cardiff. 1 artist: Crossy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

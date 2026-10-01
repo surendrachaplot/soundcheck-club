@@ -1,6 +1,6 @@
 # Afriquoi (Full Live Band) at The Jazz Cafe
 
-Afriquoi (Full Live Band) at The Jazz Cafe on Sat 24 Oct, London. Electronica and Afro Tech. Preview the line-up and save it on soundcheck.
+Afriquoi (Full Live Band) at The Jazz Cafe on Sat 24 Oct, London. Electronica and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

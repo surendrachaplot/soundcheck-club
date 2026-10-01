@@ -1,6 +1,6 @@
 # AFROBOOM pres. MENSA at DAM / DAM
 
-AFROBOOM pres. MENSA at DAM / DAM on Fri 9 Oct, Vienna. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+AFROBOOM pres. MENSA at DAM / DAM on Fri 9 Oct, Vienna. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

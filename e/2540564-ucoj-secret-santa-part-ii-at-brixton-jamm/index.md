@@ -1,6 +1,6 @@
 # UCOJ: Secret Santa part II at Brixton Jamm
 
-UCOJ: Secret Santa part II at Brixton Jamm on Sat 12 Dec, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+UCOJ: Secret Santa part II at Brixton Jamm on Sat 12 Dec, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Kirill Astra: All Night Long at Noir Room By Dejavu
 
-Kirill Astra: All Night Long at Noir Room By Dejavu on Fri 16 Oct, Prague. 1 artist on the bill: Kirill Astra. House. Preview the line-up and save it on soundcheck.
+Kirill Astra: All Night Long at Noir Room By Dejavu on Fri 16 Oct, Prague. 1 artist: Kirill Astra. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Markus Klee
 
-Markus Klee is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
+Markus Klee is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Supperclub Cruise, Amsterdam on Fri, 23 Oct 2026.
 
-Markus Klee is a techno and house artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Copenhagen and Cyprus and 9 more. Often billed alongside Prismode, Solvane and Malouna. Next up: Supperclub Cruise, Amsterdam on Fri 23 Oct.
+Markus Klee is a techno and house artist based in Germany, with 86 gigs on soundcheck across Amsterdam, Berlin, Copenhagen and Cyprus and 9 more. Often billed alongside Prismode, Solvane and Malouna. Next up: Supperclub Cruise, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Markus Klee is a techno and house artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Etko, Cyprus — Fri, 25 Sept 2026
-- Elsterartig, Leipzig — Fri, 18 Sept 2026
-- MTW, Frankfurt — Sat, 5 Sept 2026
-- Insomnia, Berlin — Sat, 29 Aug 2026
-- Tempelhofer Feld, Berlin — Sat, 29 Aug 2026
-- TBA - Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
-- Ritter Butzke, Berlin — Sat, 15 Aug 2026
-- Ritter Butzke, Berlin — Sat, 8 Aug 2026
+- Etko, Cyprus · Fri, 25 Sept 2026
+- Elsterartig, Leipzig · Fri, 18 Sept 2026
+- MTW, Frankfurt · Sat, 5 Sept 2026
+- Insomnia, Berlin · Sat, 29 Aug 2026
+- Tempelhofer Feld, Berlin · Sat, 29 Aug 2026
+- TBA - Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
+- Ritter Butzke, Berlin · Sat, 15 Aug 2026
+- Ritter Butzke, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 

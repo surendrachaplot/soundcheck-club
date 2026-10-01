@@ -1,6 +1,6 @@
 # WELLENBRUCH w. magic.made.by.r & Emorine at Klunkerkranich
 
-WELLENBRUCH w. magic.made.by.r & Emorine at Klunkerkranich on Sat 3 Oct, Berlin. 2 artists on the bill: Emorine and magic.made.by.r. House and Electronica. Preview the line-up and save it on soundcheck.
+WELLENBRUCH w. magic.made.by.r & Emorine at Klunkerkranich on Sat 3 Oct, Berlin. 2 artists: Emorine and magic.made.by.r. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

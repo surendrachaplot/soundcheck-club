@@ -1,6 +1,6 @@
 # La Cova Loca at La Cova
 
-La Cova Loca on Sat 10 Oct, Hamburg. 1 artist on the bill: Sylvie Maziarz. Techno. Preview the line-up and save it on soundcheck.
+La Cova Loca on Sat 10 Oct, Hamburg. 1 artist: Sylvie Maziarz. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

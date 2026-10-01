@@ -1,6 +1,6 @@
 # VNIGHT#3: Revolution is SEXY at Le Makeda
 
-VNIGHT#3: Revolution is SEXY at Le Makeda on Thu 15 Oct, Marseille. Club. Preview the line-up and save it on soundcheck.
+VNIGHT#3: Revolution is SEXY at Le Makeda on Thu 15 Oct, Marseille. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Mac Declos
 
-Mac Declos is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at FOLD, London on Sat, 3 Oct 2026.
+Mac Declos is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Sat, 3 Oct 2026.
 
-Mac Declos is a techno and house artist based in France, tracked on soundcheck, with 192 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Anetha, Lacchesi and Blasha & Allatt. Next up: FOLD, London on Sat 3 Oct.
+Mac Declos is a techno and house artist based in France, with 192 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside Anetha, Lacchesi and Blasha & Allatt. Next up: FOLD, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Mac Declos is a techno and house artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- BASEMENT, New York City — Sat, 26 Sept 2026
-- 131 Mccormack St, Toronto — Fri, 25 Sept 2026
-- Club Vaag, Antwerp — Fri, 11 Sept 2026
-- Zoo, Geneva — Fri, 11 Sept 2026
-- Else, Berlin — Sun, 6 Sept 2026
-- essaim, Paris — Sat, 5 Sept 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 15 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
+- BASEMENT, New York City · Sat, 26 Sept 2026
+- 131 Mccormack St, Toronto · Fri, 25 Sept 2026
+- Club Vaag, Antwerp · Fri, 11 Sept 2026
+- Zoo, Geneva · Fri, 11 Sept 2026
+- Else, Berlin · Sun, 6 Sept 2026
+- essaim, Paris · Sat, 5 Sept 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sat, 15 Aug 2026
+- Gianpula Village, Malta · Wed, 12 Aug 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Até.
 
-Até. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at AUX Club, Athens on Fri, 2 Oct 2026.
+Até. is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at AUX Club, Athens on Fri, 2 Oct 2026.
 
-Até. is a techno and house artist tracked on soundcheck, with 58 sets logged across Athens, Berlin and Buenos Aires. Often billed alongside SALIN, Cirkle and VSSLS. Next up: AUX Club, Athens on Fri 2 Oct.
+Até. is a techno and house artist, with 58 gigs on soundcheck across Athens, Berlin and Buenos Aires. Often billed alongside SALIN, Cirkle and VSSLS. Next up: AUX Club, Athens on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Até. is a techno and house artist tracked on soundcheck, with 58 sets logged ac
 
 ## Recently played
 
-- Universe Athens, Athens — Sat, 30 May 2026
-- AUX Club, Athens — Sat, 30 May 2026
-- AUX Club, Athens — Sat, 16 May 2026
-- Universe Athens, Athens — Sat, 18 Apr 2026
-- AUX Club, Athens — Sat, 11 Apr 2026
-- Universe Athens, Athens — Sat, 4 Apr 2026
-- Universe Athens, Athens — Sat, 21 Mar 2026
-- AUX Club, Athens — Fri, 13 Mar 2026
+- Universe Athens, Athens · Sat, 30 May 2026
+- AUX Club, Athens · Sat, 30 May 2026
+- AUX Club, Athens · Sat, 16 May 2026
+- Universe Athens, Athens · Sat, 18 Apr 2026
+- AUX Club, Athens · Sat, 11 Apr 2026
+- Universe Athens, Athens · Sat, 4 Apr 2026
+- Universe Athens, Athens · Sat, 21 Mar 2026
+- AUX Club, Athens · Fri, 13 Mar 2026
 
 ## Shares bills with
 

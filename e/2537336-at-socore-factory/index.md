@@ -1,6 +1,6 @@
 # ナインティーズは突然に at Socore Factory
 
-ナインティーズは突然に at Socore Factory on Tue 10 Nov, Osaka. Pop. Preview the line-up and save it on soundcheck.
+ナインティーズは突然に at Socore Factory on Tue 10 Nov, Osaka. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

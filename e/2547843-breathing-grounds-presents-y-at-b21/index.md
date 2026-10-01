@@ -1,6 +1,6 @@
 # breathing grounds presents ℛₑ: ₚℒₐy at B21
 
-breathing grounds presents ℛₑ: ₚℒₐy at B21 on Fri 13 Nov, Brussels. 3 artists on the bill: Echo/Dawn, elsa winner and Fake Moss. Experimental and Club. Preview the line-up and save it on soundcheck.
+breathing grounds presents ℛₑ: ₚℒₐy at B21 on Fri 13 Nov, Brussels. 3 artists: Echo/Dawn, elsa winner and Fake Moss. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

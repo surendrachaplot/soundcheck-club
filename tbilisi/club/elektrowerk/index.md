@@ -1,8 +1,8 @@
 # Elektrowerk
 
-Elektrowerk is a music venue in Tbilisi with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Carbon Based Lifeforms - Tbilisi - 16.10.26 -Elektrowerk" on Fri, 16 Oct 2026.
+Elektrowerk is a music venue in Tbilisi with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Carbon Based Lifeforms - Tbilisi - 16.10.26 -Elektrowerk" on Fri, 16 Oct 2026.
 
-Elektrowerk is a music venue in Tbilisi listed on soundcheck. 1 upcoming gig, with line-ups including Carbon Based Lifeforms. Browse upcoming dates, start times and who's playing. 2 Beri Gabriel Salosi I Turn, Tbilisi 0113, Georgia.
+Elektrowerk is a music venue in Tbilisi listed on soundcheck. 1 upcoming gig, with line-ups including Carbon Based Lifeforms. See dates, start times and who's playing. 2 Beri Gabriel Salosi I Turn, Tbilisi 0113, Georgia.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Afro Live at Chicago Social Club
 
-Afro Live at Chicago Social Club on Sun 25 Oct, Amsterdam. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
+Afro Live at Chicago Social Club on Sun 25 Oct, Amsterdam. Afrobeat and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

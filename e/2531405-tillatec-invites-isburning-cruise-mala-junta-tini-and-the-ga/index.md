@@ -1,0 +1,11 @@
+# TILLATEC invites IsBurning, Cruise, Mala Junta, tINI AND THE GANG at TILLATEC
+
+TILLATEC invites IsBurning, Cruise, Mala Junta, tINI AND THE GANG on Sat 24 Oct, Amsterdam. Techno and House. See the line-up on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Sat, 24 Oct 2026 |
+| Venue | TILLATEC |
+| City | Amsterdam |
+
+*Source: [soundcheck](https://soundcheck.club/e/2531405-tillatec-invites-isburning-cruise-mala-junta-tini-and-the-ga/)*

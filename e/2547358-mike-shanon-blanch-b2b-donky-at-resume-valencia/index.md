@@ -1,6 +1,6 @@
 # MIKE SHANON, Blanch B2B DONKY, at Resume Valencia
 
-MIKE SHANON, Blanch B2B DONKY, at Resume Valencia on Sat 10 Oct, Valencia. 2 artists on the bill: Blanch and Mike Shannon. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+MIKE SHANON, Blanch B2B DONKY, at Resume Valencia on Sat 10 Oct, Valencia. 2 artists: Blanch and Mike Shannon. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

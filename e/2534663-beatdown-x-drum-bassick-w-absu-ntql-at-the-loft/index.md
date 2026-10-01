@@ -1,6 +1,6 @@
 # BEATDOWN x DRUM & BASSICK w/ Absu_NTQL at The Loft
 
-BEATDOWN x DRUM & BASSICK w/ Absu_NTQL at The Loft on Fri 16 Oct, Vienna. Drum & Bass. Preview the line-up and save it on soundcheck.
+BEATDOWN x DRUM & BASSICK w/ Absu_NTQL at The Loft on Fri 16 Oct, Vienna. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

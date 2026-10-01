@@ -1,6 +1,6 @@
 # Some Sheila + DJ Nelson at Glamorama Saturdays at Glamorama
 
-Some Sheila + DJ Nelson at Glamorama Saturdays on Sat 3 Oct, Melbourne. 3 artists on the bill: DJ Nelson, Some Sheila and TiNTON. House and Electronica. Preview the line-up and save it on soundcheck.
+Some Sheila + DJ Nelson at Glamorama Saturdays on Sat 3 Oct, Melbourne. 3 artists: DJ Nelson, Some Sheila and TiNTON. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OFFSHADE presents: Clair Obscur at Le Red Room
 
-OFFSHADE presents: Clair Obscur at Le Red Room on Fri 2 Oct, Montreal. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+OFFSHADE presents: Clair Obscur at Le Red Room on Fri 2 Oct, Montreal. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

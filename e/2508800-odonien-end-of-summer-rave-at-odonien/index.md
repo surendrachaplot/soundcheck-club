@@ -1,6 +1,6 @@
 # Odonien End Of Summer Rave at Odonien
 
-Odonien End Of Summer Rave on Sat 3 Oct, Cologne. Techno and House. Preview the line-up and save it on soundcheck.
+Odonien End Of Summer Rave on Sat 3 Oct, Cologne. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

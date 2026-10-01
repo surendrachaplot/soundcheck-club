@@ -1,6 +1,6 @@
 # Loco Dice [all night long] at Lofi
 
-Loco Dice [all night long] at Lofi on Fri 13 Nov, Amsterdam. 1 artist on the bill: Loco Dice. Preview the line-up and save it on soundcheck.
+Loco Dice [all night long] at Lofi on Fri 13 Nov, Amsterdam. 1 artist: Loco Dice. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

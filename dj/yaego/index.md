@@ -1,8 +1,8 @@
 # yaego
 
-yaego is a Electronica and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BERHTA, Washington DC on Sat, 31 Oct 2026.
+yaego is a Electronica and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BERHTA, Washington DC on Sat, 31 Oct 2026.
 
-yaego is an electronica and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across London, Los Angeles, Mexico City and Miami and 5 more. Often billed alongside CFCF, Doss and POiSON GiRL FRiEND. Next up: BERHTA, Washington DC on Sat 31 Oct.
+yaego is an electronica and techno artist based in United States of America, with 13 gigs on soundcheck across London, Los Angeles, Mexico City and Miami and 5 more. Often billed alongside CFCF, Doss and POiSON GiRL FRiEND. Next up: BERHTA, Washington DC on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ yaego is an electronica and techno artist based in United States of America, tra
 
 ## Recently played
 
-- FOLD, London — Sat, 29 Aug 2026
-- Pier 48's Shed A, San Francisco/Oakland — Sat, 16 May 2026
-- Société des arts technologiques, Montreal — Fri, 15 May 2026
-- Parc Jean-Drapeau, Montreal — Thu, 14 May 2026
-- Bar Oriente, Mexico City — Sat, 9 May 2026
-- Bar Oriente, Mexico City — Sat, 9 May 2026
-- Paragon, New York City — Sat, 7 Feb 2026
-- The Ground at Club Space, Miami — Sat, 6 Dec 2025
+- FOLD, London · Sat, 29 Aug 2026
+- Pier 48's Shed A, San Francisco/Oakland · Sat, 16 May 2026
+- Société des arts technologiques, Montreal · Fri, 15 May 2026
+- Parc Jean-Drapeau, Montreal · Thu, 14 May 2026
+- Bar Oriente, Mexico City · Sat, 9 May 2026
+- Bar Oriente, Mexico City · Sat, 9 May 2026
+- Paragon, New York City · Sat, 7 Feb 2026
+- The Ground at Club Space, Miami · Sat, 6 Dec 2025
 
 ## Shares bills with
 

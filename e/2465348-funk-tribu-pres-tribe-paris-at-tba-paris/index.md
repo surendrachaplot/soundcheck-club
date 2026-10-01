@@ -1,6 +1,6 @@
 # Funk Tribu PRES. TRIBE PARIS at TBA - Paris
 
-Funk Tribu PRES. TRIBE PARIS at TBA - Paris on Fri 20 Nov, Paris. 1 artist on the bill: Funk Tribu. Preview the line-up and save it on soundcheck.
+Funk Tribu PRES. TRIBE PARIS at TBA - Paris on Fri 20 Nov, Paris. 1 artist: Funk Tribu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # H7 Warehouse
 
-H7 Warehouse is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Intercell x 999999999 Invites | ADE By Night" on Thu, 22 Oct 2026.
+H7 Warehouse is a music venue in Amsterdam with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Intercell x 999999999 Invites | ADE By Night" on Thu, 22 Oct 2026.
 
-H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including 999999999, Altinbas, Alycia Bezgo and Azzurro and 2 more. Browse upcoming dates, start times and who's playing. Humberweg7, 1043 AC Amsterdam.
+H7 Warehouse is a music venue in Amsterdam listed on soundcheck. 7 upcoming gigs, with line-ups including 999999999, Altinbas, Alycia Bezgo and Azzurro and 2 more. See dates, start times and who's playing. Humberweg7, 1043 AC Amsterdam.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Pan-Pot - Zuckerwatt at Grelle Forelle
 
-Pan-Pot - Zuckerwatt at Grelle Forelle on Fri 9 Oct, Vienna. 2 artists on the bill: Crazy Sonic and Pan-Pot. Preview the line-up and save it on soundcheck.
+Pan-Pot - Zuckerwatt at Grelle Forelle on Fri 9 Oct, Vienna. 2 artists: Crazy Sonic and Pan-Pot. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

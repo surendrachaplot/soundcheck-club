@@ -1,6 +1,6 @@
 # Monstercat x SYN LDN presents: Tape B at The Clock Factory
 
-Monstercat x SYN LDN presents: Tape B at The Clock Factory on Sat 24 Oct, Bristol. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Monstercat x SYN LDN presents: Tape B at The Clock Factory on Sat 24 Oct, Bristol. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

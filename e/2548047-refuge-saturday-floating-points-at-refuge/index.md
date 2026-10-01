@@ -1,6 +1,6 @@
 # Refuge Saturday: Floating Points at Refuge
 
-Refuge Saturday: Floating Points on Sat 24 Oct, New York City. 1 artist on the bill: Floating Points. Preview the line-up and save it on soundcheck.
+Refuge Saturday: Floating Points on Sat 24 Oct, New York City. 1 artist: Floating Points. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

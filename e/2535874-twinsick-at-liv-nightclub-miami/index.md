@@ -1,6 +1,6 @@
 # Twinsick at LIV Nightclub Miami
 
-Twinsick at LIV Nightclub Miami on Sat 24 Oct, Miami. Preview the line-up and save it on soundcheck.
+Twinsick at LIV Nightclub Miami on Sat 24 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

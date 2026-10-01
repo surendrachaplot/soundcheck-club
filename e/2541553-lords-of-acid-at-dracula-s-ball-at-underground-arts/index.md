@@ -1,6 +1,6 @@
 # Lords of Acid at Dracula's Ball at Underground Arts
 
-Lords of Acid at Dracula's Ball at Underground Arts on Sat 31 Oct, Philadelphia. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Lords of Acid at Dracula's Ball at Underground Arts on Sat 31 Oct, Philadelphia. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

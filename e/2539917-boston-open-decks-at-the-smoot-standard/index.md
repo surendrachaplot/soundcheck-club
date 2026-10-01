@@ -1,6 +1,6 @@
 # Boston Open Decks at The Smoot Standard
 
-Boston Open Decks at The Smoot Standard on Thu 5 Nov, Boston. Preview the line-up and save it on soundcheck.
+Boston Open Decks at The Smoot Standard on Thu 5 Nov, Boston. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

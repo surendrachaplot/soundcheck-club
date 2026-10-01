@@ -1,8 +1,8 @@
 # Gorgon City
 
-Gorgon City is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at New City Gas, Montreal on Sun, 11 Oct 2026.
+Gorgon City is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at New City Gas, Montreal on Sun, 11 Oct 2026.
 
-Gorgon City is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Danny Howard, Sonny Fodera and Azzecca. Next up: New City Gas, Montreal on Sun 11 Oct.
+Gorgon City is a house and tech house artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Danny Howard, Sonny Fodera and Azzecca. Next up: New City Gas, Montreal on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Gorgon City is a house and tech house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Echostage, Washington DC — Sat, 26 Sept 2026
-- [UNVRS], Ibiza — Thu, 3 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 29 Aug 2026
-- Cavo Paradiso, Mykonos — Wed, 26 Aug 2026
-- Luz De Gas, Barcelona — Sat, 1 Aug 2026
-- 528 Ibiza, Ibiza — Fri, 31 Jul 2026
-- [UNVRS], Ibiza — Mon, 27 Jul 2026
-- Grant Park, Chicago — Sat, 27 Jun 2026
+- Echostage, Washington DC · Sat, 26 Sept 2026
+- [UNVRS], Ibiza · Thu, 3 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 29 Aug 2026
+- Cavo Paradiso, Mykonos · Wed, 26 Aug 2026
+- Luz De Gas, Barcelona · Sat, 1 Aug 2026
+- 528 Ibiza, Ibiza · Fri, 31 Jul 2026
+- [UNVRS], Ibiza · Mon, 27 Jul 2026
+- Grant Park, Chicago · Sat, 27 Jun 2026
 
 ## Shares bills with
 

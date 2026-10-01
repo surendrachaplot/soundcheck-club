@@ -1,6 +1,6 @@
 # LACE & TWH {present} Miss Kittin / Lupini / Nestor & bainne bó at The White Hotel
 
-LACE & TWH {present} Miss Kittin / Lupini / Nestor & bainne bó at The White Hotel on Sun 11 Oct, Manchester. 3 artists on the bill: Lupini, Miss Kittin and Nestor. Preview the line-up and save it on soundcheck.
+LACE & TWH {present} Miss Kittin / Lupini / Nestor & bainne bó at The White Hotel on Sun 11 Oct, Manchester. 3 artists: Lupini, Miss Kittin and Nestor. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dangerous Goods XXL Festival - Sydney 2027 at Sydney Showgrounds
 
-Dangerous Goods XXL Festival - Sydney 2027 at Sydney Showgrounds on Sat 16 Jan, Sydney. 10 artists on the bill: Adam Bartas, ASLO, Boris Brejcha and Claptone and 6 more. Preview the line-up and save it on soundcheck.
+Dangerous Goods XXL Festival - Sydney 2027 at Sydney Showgrounds on Sat 16 Jan, Sydney. 10 artists: Adam Bartas, ASLO, Boris Brejcha and Claptone and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

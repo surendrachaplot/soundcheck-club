@@ -1,8 +1,8 @@
 # Sagat
 
-Sagat is a Experimental and Ambient artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at iMAL, Brussels on Sat, 3 Oct 2026.
+Sagat is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at iMAL, Brussels on Sat, 3 Oct 2026.
 
-Sagat is an experimental and ambient artist based in Belgium, tracked on soundcheck, with 17 sets logged across Berlin, Bristol, Brussels and London. Often billed alongside Nosedrip, Basile3 and Ben Bertrand. Next up: iMAL, Brussels on Sat 3 Oct.
+Sagat is an experimental and ambient artist based in Belgium, with 17 gigs on soundcheck across Berlin, Bristol, Brussels and London. Often billed alongside Nosedrip, Basile3 and Ben Bertrand. Next up: iMAL, Brussels on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Sagat is an experimental and ambient artist based in Belgium, tracked on soundch
 
 ## Recently played
 
-- Bozar, Brussels — Thu, 19 Mar 2026
-- Acud Macht NEU, Berlin — Fri, 8 Aug 2025
-- ASIAT Park, Brussels — Thu, 1 May 2025
-- Cafe V.I.P, Brussels — Fri, 8 Nov 2024
-- Cafe V.I.P, Brussels — Sat, 24 Aug 2024
-- Strange Brew, Bristol — Sat, 8 Jun 2024
-- M.O.T, London — Thu, 6 Jun 2024
-- Pilar - VUB, Brussels — Fri, 3 May 2024
+- Bozar, Brussels · Thu, 19 Mar 2026
+- Acud Macht NEU, Berlin · Fri, 8 Aug 2025
+- ASIAT Park, Brussels · Thu, 1 May 2025
+- Cafe V.I.P, Brussels · Fri, 8 Nov 2024
+- Cafe V.I.P, Brussels · Sat, 24 Aug 2024
+- Strange Brew, Bristol · Sat, 8 Jun 2024
+- M.O.T, London · Thu, 6 Jun 2024
+- Pilar - VUB, Brussels · Fri, 3 May 2024
 
 ## Shares bills with
 

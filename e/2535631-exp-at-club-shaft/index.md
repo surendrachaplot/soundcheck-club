@@ -1,6 +1,6 @@
 # exp at Club Shaft
 
-exp at Club Shaft on Sat 3 Oct, Tohoku. 1 artist on the bill: YAMARCHY. Preview the line-up and save it on soundcheck.
+exp at Club Shaft on Sat 3 Oct, Tohoku. 1 artist: YAMARCHY. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

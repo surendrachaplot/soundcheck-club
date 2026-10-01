@@ -1,8 +1,8 @@
 # Doka
 
-Doka is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Doka Studio with Orpheu The Wizard - BSS" on Fri, 2 Oct 2026.
+Doka is a music venue in Amsterdam with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Doka Studio with Orpheu The Wizard - BSS" on Fri, 2 Oct 2026.
 
-Doka is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. Browse upcoming dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
+Doka is a music venue in Amsterdam listed on soundcheck. 15 upcoming gigs, with line-ups including 36framez, Antal, Anz and Ays (NL) and 2 more. See dates, start times and who's playing. Wibautstraat 150, 1091 GR Amsterdam, Netherlands.
 
 ## What's on
 

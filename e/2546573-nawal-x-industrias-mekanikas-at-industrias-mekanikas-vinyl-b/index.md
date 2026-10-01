@@ -1,6 +1,6 @@
 # NAWAL x INDUSTRIAS MEKANIKAS at Industrias Mekanikas Vinyl Bar & Store
 
-NAWAL x INDUSTRIAS MEKANIKAS at Industrias Mekanikas Vinyl Bar & Store on Fri 9 Oct, Madrid. 2 artists on the bill: g13ck and Waje. Techno and Electro. Preview the line-up and save it on soundcheck.
+NAWAL x INDUSTRIAS MEKANIKAS at Industrias Mekanikas Vinyl Bar & Store on Fri 9 Oct, Madrid. 2 artists: g13ck and Waje. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

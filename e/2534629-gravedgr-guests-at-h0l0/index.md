@@ -1,6 +1,6 @@
 # GRAVEDGR & Guests at H0L0
 
-GRAVEDGR & Guests at H0L0 on Sat 19 Dec, New York City. 1 artist on the bill: GRAVEDGR. Techno. Preview the line-up and save it on soundcheck.
+GRAVEDGR & Guests at H0L0 on Sat 19 Dec, New York City. 1 artist: GRAVEDGR. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

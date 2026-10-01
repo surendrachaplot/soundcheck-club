@@ -1,6 +1,6 @@
 # Question I Specka Club at Specka
 
-Question I Specka Club on Sat 17 Oct, Madrid. 2 artists on the bill: Roldan and Tief. House and Minimal. Preview the line-up and save it on soundcheck.
+Question I Specka Club on Sat 17 Oct, Madrid. 2 artists: Roldan and Tief. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

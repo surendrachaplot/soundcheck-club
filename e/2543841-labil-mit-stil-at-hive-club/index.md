@@ -1,6 +1,6 @@
 # Labil mit Stil at Hive Club
 
-Labil mit Stil at Hive Club on Fri 9 Oct, Zurich. Techno and House. Preview the line-up and save it on soundcheck.
+Labil mit Stil at Hive Club on Fri 9 Oct, Zurich. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

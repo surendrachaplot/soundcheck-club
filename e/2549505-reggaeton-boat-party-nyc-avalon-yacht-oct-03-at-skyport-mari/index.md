@@ -1,6 +1,6 @@
 # Reggaeton Boat Party NYC - Avalon Yacht - Oct 03 at Skyport Marina
 
-Reggaeton Boat Party NYC - Avalon Yacht - Oct 03 at Skyport Marina on Sat 3 Oct, New York City. 1 artist on the bill: DJ B2B. Preview the line-up and save it on soundcheck.
+Reggaeton Boat Party NYC - Avalon Yacht - Oct 03 at Skyport Marina on Sat 3 Oct, New York City. 1 artist: DJ B2B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shades: Autumn Tour at Mississippi Underground
 
-Shades: Autumn Tour at Mississippi Underground on Fri 30 Oct, Missouri. 1 artist on the bill: Shades. Preview the line-up and save it on soundcheck.
+Shades: Autumn Tour at Mississippi Underground on Fri 30 Oct, Missouri. 1 artist: Shades. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

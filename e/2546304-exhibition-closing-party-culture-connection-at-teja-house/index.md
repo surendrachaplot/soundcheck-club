@@ -1,6 +1,6 @@
 # Exhibition Closing Party: Culture & Connection at Teja House
 
-Exhibition Closing Party: Culture & Connection at Teja House on Thu 1 Oct, Lisbon. Preview the line-up and save it on soundcheck.
+Exhibition Closing Party: Culture & Connection at Teja House on Thu 1 Oct, Lisbon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

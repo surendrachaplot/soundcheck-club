@@ -1,8 +1,8 @@
 # deepnotiQ
 
-deepnotiQ is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Flash, Washington DC on Fri, 2 Oct 2026.
+deepnotiQ is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flash, Washington DC on Fri, 2 Oct 2026.
 
-deepnotiQ is a house and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Washington DC. Often billed alongside Edo, A Guy Called Gerald and Adiel. Next up: Flash, Washington DC on Fri 2 Oct.
+deepnotiQ is a house and techno artist based in United States of America, with 19 gigs on soundcheck across Washington DC. Often billed alongside Edo, A Guy Called Gerald and Adiel. Next up: Flash, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ deepnotiQ is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
-- Uproar Lounge, Washington DC — Fri, 4 Sept 2026
-- Uproar Lounge, Washington DC — Fri, 7 Aug 2026
-- Flash, Washington DC — Fri, 17 Apr 2026
-- Eighteenth Street Lounge (ESL), Washington DC — Sat, 17 Jan 2026
-- Flash, Washington DC — Fri, 2 Jan 2026
-- Eighteenth Street Lounge (ESL), Washington DC — Sat, 20 Sept 2025
-- Rendezvous, Washington DC — Sat, 13 Sept 2025
-- Flash, Washington DC — Fri, 1 Aug 2025
+- Uproar Lounge, Washington DC · Fri, 4 Sept 2026
+- Uproar Lounge, Washington DC · Fri, 7 Aug 2026
+- Flash, Washington DC · Fri, 17 Apr 2026
+- Eighteenth Street Lounge (ESL), Washington DC · Sat, 17 Jan 2026
+- Flash, Washington DC · Fri, 2 Jan 2026
+- Eighteenth Street Lounge (ESL), Washington DC · Sat, 20 Sept 2025
+- Rendezvous, Washington DC · Sat, 13 Sept 2025
+- Flash, Washington DC · Fri, 1 Aug 2025
 
 ## Shares bills with
 

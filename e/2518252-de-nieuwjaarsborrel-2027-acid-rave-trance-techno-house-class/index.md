@@ -1,6 +1,6 @@
 # De Nieuwjaarsborrel 2027 - Acid, rave, trance, techno & house classics 89/05 at Thuishaven
 
-De Nieuwjaarsborrel 2027 - Acid, rave, trance, techno & house classics 89/05 at Thuishaven on Sat 9 Jan, Amsterdam. 19 artists on the bill: Alexander Koning, Dimitri, Divine and Eric de Man and 15 more. Preview the line-up and save it on soundcheck.
+De Nieuwjaarsborrel 2027 - Acid, rave, trance, techno & house classics 89/05 at Thuishaven on Sat 9 Jan, Amsterdam. 19 artists: Alexander Koning, Dimitri, Divine and Eric de Man and 15 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

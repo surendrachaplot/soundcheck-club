@@ -1,6 +1,6 @@
 # ECHO 5 at Upper East
 
-ECHO 5 at Upper East on Sat 28 Nov, London. 1 artist on the bill: Erly Tepshi. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+ECHO 5 at Upper East on Sat 28 Nov, London. 1 artist: Erly Tepshi. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

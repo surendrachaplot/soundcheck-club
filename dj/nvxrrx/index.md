@@ -1,8 +1,8 @@
 # nvxrrx
 
-nvxrrx is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at R25 Kulturschlachthof, Düsseldorf on Fri, 2 Oct 2026.
+nvxrrx is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at R25 Kulturschlachthof, Düsseldorf on Fri, 2 Oct 2026.
 
-nvxrrx is a techno and hardcore artist based in Mexico, tracked on soundcheck, with 27 sets logged across Düsseldorf, Mexico City, Paris and Seoul and 1 more. Often billed alongside Ann García, Magnolia Coronado and Denisse Leilany. Next up: R25 Kulturschlachthof, Düsseldorf on Fri 2 Oct.
+nvxrrx is a techno and hardcore artist based in Mexico, with 27 gigs on soundcheck across Düsseldorf, Mexico City, Paris and Seoul and 1 more. Often billed alongside Ann García, Magnolia Coronado and Denisse Leilany. Next up: R25 Kulturschlachthof, Düsseldorf on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ nvxrrx is a techno and hardcore artist based in Mexico, tracked on soundcheck, w
 
 ## Recently played
 
-- Secret Venue in Minatoku-Nishiazabu, Tokyo — Sat, 29 Aug 2026
-- Brutal Mx, Mexico City — Sat, 20 Jun 2026
-- Luka, Seoul — Fri, 12 Jun 2026
-- Brutal Mx, Mexico City — Fri, 13 Feb 2026
-- TBA - Niza 42, Juárez, Mexico City — Fri, 14 Nov 2025
-- Brutal Mx, Mexico City — Sat, 11 Oct 2025
-- Verdeespina Studios, Mexico City — Fri, 25 Jul 2025
-- TBA, Mexico City — Fri, 20 Jun 2025
+- Secret Venue in Minatoku-Nishiazabu, Tokyo · Sat, 29 Aug 2026
+- Brutal Mx, Mexico City · Sat, 20 Jun 2026
+- Luka, Seoul · Fri, 12 Jun 2026
+- Brutal Mx, Mexico City · Fri, 13 Feb 2026
+- TBA - Niza 42, Juárez, Mexico City · Fri, 14 Nov 2025
+- Brutal Mx, Mexico City · Sat, 11 Oct 2025
+- Verdeespina Studios, Mexico City · Fri, 25 Jul 2025
+- TBA, Mexico City · Fri, 20 Jun 2025
 
 ## Shares bills with
 

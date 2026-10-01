@@ -1,8 +1,8 @@
 # United Center
 
-United Center is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "John Summit - CTRL ESCAPE ARENA TOUR" on Tue, 24 Nov 2026.
+United Center is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "John Summit - CTRL ESCAPE ARENA TOUR" on Tue, 24 Nov 2026.
 
-United Center is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including John Summit. Browse upcoming dates, start times and who's playing. 1901 W Madison St, Chicago, IL.
+United Center is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including John Summit. See dates, start times and who's playing. 1901 W Madison St, Chicago, IL.
 
 ## What's on
 

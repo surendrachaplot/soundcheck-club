@@ -1,6 +1,6 @@
 # Petit Biscuit at Backroom
 
-Petit Biscuit at Backroom on Thu 1 Oct, Indonesia. 1 artist on the bill: Petit Biscuit. Preview the line-up and save it on soundcheck.
+Petit Biscuit at Backroom on Thu 1 Oct, Indonesia. 1 artist: Petit Biscuit. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

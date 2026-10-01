@@ -1,6 +1,6 @@
 # PROVINCE 44 presents Dean Turnley at Descent
 
-PROVINCE 44 presents Dean Turnley at Descent on Sat 24 Oct, Boston. 1 artist on the bill: Dean Turnley. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+PROVINCE 44 presents Dean Turnley at Descent on Sat 24 Oct, Boston. 1 artist: Dean Turnley. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

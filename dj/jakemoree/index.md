@@ -1,8 +1,8 @@
 # Jake Moree
 
-Jake Moree is a Electro and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Moon Club, Bristol on Sat, 3 Oct 2026.
+Jake Moree is a Electro and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Moon Club, Bristol on Sat, 3 Oct 2026.
 
-Jake Moree is an electro and electronica artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Bristol. Often billed alongside rasel h, Eksish and Harry McCanna. Next up: Moon Club, Bristol on Sat 3 Oct.
+Jake Moree is an electro and electronica artist based in United Kingdom, with 10 gigs on soundcheck across Bristol. Often billed alongside rasel h, Eksish and Harry McCanna. Next up: Moon Club, Bristol on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jake Moree is an electro and electronica artist based in United Kingdom, tracked
 
 ## Recently played
 
-- TBA - secret location , Bristol — Sat, 29 Aug 2026
-- The Love Inn, Bristol — Thu, 15 Jan 2026
-- The Love Inn, Bristol — Sat, 22 Nov 2025
-- Strange Brew, Bristol — Fri, 3 Oct 2025
-- Strange Brew, Bristol — Fri, 25 Jul 2025
-- The Love Inn, Bristol — Thu, 3 Jul 2025
-- The Loco Klub, Bristol — Fri, 30 May 2025
-- The Cider Box, Bristol — Sat, 1 Mar 2025
+- TBA - secret location , Bristol · Sat, 29 Aug 2026
+- The Love Inn, Bristol · Thu, 15 Jan 2026
+- The Love Inn, Bristol · Sat, 22 Nov 2025
+- Strange Brew, Bristol · Fri, 3 Oct 2025
+- Strange Brew, Bristol · Fri, 25 Jul 2025
+- The Love Inn, Bristol · Thu, 3 Jul 2025
+- The Loco Klub, Bristol · Fri, 30 May 2025
+- The Cider Box, Bristol · Sat, 1 Mar 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Techno Culture at SWG3
 
-Techno Culture at SWG3 on Fri 27 Nov, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+Techno Culture at SWG3 on Fri 27 Nov, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

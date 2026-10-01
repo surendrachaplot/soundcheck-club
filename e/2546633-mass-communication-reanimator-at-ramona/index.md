@@ -1,6 +1,6 @@
 # Mass Communication: REANIMATOR at Ramona
 
-Mass Communication: REANIMATOR at Ramona on Fri 16 Oct, Manchester. 1 artist on the bill: krioso. House and Garage. Preview the line-up and save it on soundcheck.
+Mass Communication: REANIMATOR at Ramona on Fri 16 Oct, Manchester. 1 artist: krioso. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

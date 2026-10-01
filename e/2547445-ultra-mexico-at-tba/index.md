@@ -1,6 +1,6 @@
 # Ultra Mexico at TBA
 
-Ultra Mexico at TBA on Sat 7 Nov, Mexico City. Preview the line-up and save it on soundcheck.
+Ultra Mexico at TBA on Sat 7 Nov, Mexico City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

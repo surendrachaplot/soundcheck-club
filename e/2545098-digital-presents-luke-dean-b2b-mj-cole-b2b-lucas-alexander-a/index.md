@@ -1,6 +1,6 @@
 # Digital presents: Luke Dean b2b MJ Cole b2b Lucas Alexander at Digital
 
-Digital presents: Luke Dean b2b MJ Cole b2b Lucas Alexander on Fri 18 Dec, Newcastle. House and Tech House. Preview the line-up and save it on soundcheck.
+Digital presents: Luke Dean b2b MJ Cole b2b Lucas Alexander on Fri 18 Dec, Newcastle. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

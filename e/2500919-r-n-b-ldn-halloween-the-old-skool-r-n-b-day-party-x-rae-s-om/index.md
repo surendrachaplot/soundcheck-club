@@ -1,6 +1,6 @@
 # R'n'B LDN HALLOWEEN: The Old Skool R'n'B Day Party x Rae's - (Omeara) at Omeara
 
-R'n'B LDN HALLOWEEN: The Old Skool R'n'B Day Party x Rae's - (Omeara) on Sat 31 Oct, London. R&B. Preview the line-up and save it on soundcheck.
+R'n'B LDN HALLOWEEN: The Old Skool R'n'B Day Party x Rae's - (Omeara) on Sat 31 Oct, London. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Modulation x FRAU. Live Synth Performance at Tuff Club
 
-Modulation x FRAU. Live Synth Performance at Tuff Club on Sat 17 Oct, Singapore. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Modulation x FRAU. Live Synth Performance at Tuff Club on Sat 17 Oct, Singapore. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

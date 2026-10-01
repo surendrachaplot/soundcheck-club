@@ -1,8 +1,8 @@
 # Young Pulse
 
-Young Pulse is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Badaboum, Paris on Sat, 3 Oct 2026.
+Young Pulse is a Disco and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Badaboum, Paris on Sat, 3 Oct 2026.
 
-Young Pulse is a disco and house artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Geneva and 13 more. Often billed alongside Melvo Baptiste, Tonno Disko and Dave Lee. Next up: Badaboum, Paris on Sat 3 Oct.
+Young Pulse is a disco and house artist based in France, with 99 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Geneva and 13 more. Often billed alongside Melvo Baptiste, Tonno Disko and Dave Lee. Next up: Badaboum, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Young Pulse is a disco and house artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- Cabaret Sauvage, Paris — Sat, 19 Sept 2026
-- River's King, Paris — Tue, 8 Sept 2026
-- Djoon, Paris — Fri, 4 Sept 2026
-- River's King, Paris — Tue, 1 Sept 2026
-- Djoon, Paris — Sat, 18 Jul 2026
-- Colorado Charlie, The Hague — Sat, 11 Jul 2026
-- Djoon, Paris — Sat, 27 Jun 2026
-- Praia Irmão, Lisbon — Thu, 18 Jun 2026
+- Cabaret Sauvage, Paris · Sat, 19 Sept 2026
+- River's King, Paris · Tue, 8 Sept 2026
+- Djoon, Paris · Fri, 4 Sept 2026
+- River's King, Paris · Tue, 1 Sept 2026
+- Djoon, Paris · Sat, 18 Jul 2026
+- Colorado Charlie, The Hague · Sat, 11 Jul 2026
+- Djoon, Paris · Sat, 27 Jun 2026
+- Praia Irmão, Lisbon · Thu, 18 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # HalloQueen 2026 at Donovan's Pub
 
-HalloQueen 2026 at Donovan's Pub on Fri 30 Oct, Detroit. House and Pop. Preview the line-up and save it on soundcheck.
+HalloQueen 2026 at Donovan's Pub on Fri 30 Oct, Detroit. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

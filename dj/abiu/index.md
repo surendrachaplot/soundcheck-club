@@ -1,8 +1,8 @@
 # Abiu
 
-Abiu is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at VENT, Tokyo on Sat, 3 Oct 2026.
+Abiu is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at VENT, Tokyo on Sat, 3 Oct 2026.
 
-Abiu is a house and techno artist based in Japan, tracked on soundcheck, with 33 sets logged across Kyoto, Osaka and Tokyo. Often billed alongside 7e, AKIRAM EN and An-i. Next up: VENT, Tokyo on Sat 3 Oct.
+Abiu is a house and techno artist based in Japan, with 33 gigs on soundcheck across Kyoto, Osaka and Tokyo. Often billed alongside 7e, AKIRAM EN and An-i. Next up: VENT, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Abiu is a house and techno artist based in Japan, tracked on soundcheck, with 33
 
 ## Recently played
 
-- Spread, Tokyo — Sun, 7 Jun 2026
-- VENT, Tokyo — Fri, 8 May 2026
-- Yebisu The Garden Hall, Tokyo — Sun, 28 Dec 2025
-- VENT, Tokyo — Fri, 26 Dec 2025
-- Bonobo, Tokyo — Sat, 20 Dec 2025
-- DJ Bar Bridge Shinjuku, Tokyo — Wed, 10 Dec 2025
-- Numm, Tokyo — Sun, 23 Nov 2025
-- DJ Bar Bridge Shinjuku, Tokyo — Wed, 12 Nov 2025
+- Spread, Tokyo · Sun, 7 Jun 2026
+- VENT, Tokyo · Fri, 8 May 2026
+- Yebisu The Garden Hall, Tokyo · Sun, 28 Dec 2025
+- VENT, Tokyo · Fri, 26 Dec 2025
+- Bonobo, Tokyo · Sat, 20 Dec 2025
+- DJ Bar Bridge Shinjuku, Tokyo · Wed, 10 Dec 2025
+- Numm, Tokyo · Sun, 23 Nov 2025
+- DJ Bar Bridge Shinjuku, Tokyo · Wed, 12 Nov 2025
 
 ## Shares bills with
 

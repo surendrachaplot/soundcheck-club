@@ -1,6 +1,6 @@
 # JOTERÍA at There/There
 
-JOTERÍA at There/There on Fri 23 Oct, San Francisco/Oakland. 2 artists on the bill: Cowboy Blvck and DJ Ari B. Latin Bass and Neo Perreo. Preview the line-up and save it on soundcheck.
+JOTERÍA at There/There on Fri 23 Oct, San Francisco/Oakland. 2 artists: Cowboy Blvck and DJ Ari B. Latin Bass and Neo Perreo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CA:Calero + Dber at Casa Amante Club
 
-CA:Calero + Dber at Casa Amante Club on Sat 3 Oct, Madrid. House. Preview the line-up and save it on soundcheck.
+CA:Calero + Dber at Casa Amante Club on Sat 3 Oct, Madrid. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

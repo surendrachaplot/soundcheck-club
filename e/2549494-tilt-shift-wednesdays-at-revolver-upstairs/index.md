@@ -1,6 +1,6 @@
 # Tilt Shift Wednesdays at Revolver Upstairs
 
-Tilt Shift Wednesdays at Revolver Upstairs on Sat 3 Oct, Melbourne. 2 artists on the bill: 2 Factor Authentication and Aristo G. Preview the line-up and save it on soundcheck.
+Tilt Shift Wednesdays at Revolver Upstairs on Sat 3 Oct, Melbourne. 2 artists: 2 Factor Authentication and Aristo G. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

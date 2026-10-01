@@ -1,8 +1,8 @@
 # Tempodrom
 
-Tempodrom is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dabeull live Band" on Tue, 3 Nov 2026.
+Tempodrom is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dabeull live Band" on Tue, 3 Nov 2026.
 
-Tempodrom is a music venue in Berlin listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Möckernstraße 10, 10963 Berlin.
+Tempodrom is a music venue in Berlin listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Möckernstraße 10, 10963 Berlin.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Alain Hellion (OPEN TO CLOSE) at Terraza Catedral
 
-Alain Hellion (OPEN TO CLOSE) at Terraza Catedral on Sat 3 Oct, Mexico City. 1 artist on the bill: Alain Hellion. House and Minimal. Preview the line-up and save it on soundcheck.
+Alain Hellion (OPEN TO CLOSE) at Terraza Catedral on Sat 3 Oct, Mexico City. 1 artist: Alain Hellion. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Fred Deakin: Fred Plays Records at Vittoria Wharf Studio
 
-Fred Deakin: Fred Plays Records at Vittoria Wharf Studio on Sun 22 Nov, London. Preview the line-up and save it on soundcheck.
+Fred Deakin: Fred Plays Records at Vittoria Wharf Studio on Sun 22 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [RESCHEDULED] Kylie Wears Berghaus at Headrow House
 
-[RESCHEDULED] Kylie Wears Berghaus at Headrow House on Fri 27 Nov, Leeds. 1 artist on the bill: Kylie Wears Berghaus. Techno and Acid. Preview the line-up and save it on soundcheck.
+[RESCHEDULED] Kylie Wears Berghaus at Headrow House on Fri 27 Nov, Leeds. 1 artist: Kylie Wears Berghaus. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

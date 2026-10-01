@@ -1,8 +1,8 @@
 # Felix Da Funk
 
-Felix Da Funk is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chinois Ibiza, Ibiza on Mon, 5 Oct 2026.
+Felix Da Funk is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chinois Ibiza, Ibiza on Mon, 5 Oct 2026.
 
-Felix Da Funk is a house and deep house artist based in Spain, tracked on soundcheck, with 22 sets logged across Budapest, Ibiza and Madrid. Often billed alongside Oscar Colorado, Davina Moss and Brian S.. Next up: Chinois Ibiza, Ibiza on Mon 5 Oct.
+Felix Da Funk is a house and deep house artist based in Spain, with 22 gigs on soundcheck across Budapest, Ibiza and Madrid. Often billed alongside Oscar Colorado, Davina Moss and Brian S.. Next up: Chinois Ibiza, Ibiza on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Felix Da Funk is a house and deep house artist based in Spain, tracked on soundc
 
 ## Recently played
 
-- Chinois Ibiza, Ibiza — Mon, 7 Sept 2026
-- Chinois Ibiza, Ibiza — Mon, 3 Aug 2026
-- Chinois Ibiza, Ibiza — Mon, 15 Jun 2026
-- Ryans Ibiza, Ibiza — Sat, 23 May 2026
-- TBA, Ibiza — Thu, 2 Apr 2026
-- TBA - VENUE CONFIRMED > TEATRO PEREYA, Ibiza — Thu, 2 Apr 2026
-- Parque Finca Liana, Madrid — Sat, 7 Jun 2025
-- Chinois Ibiza, Ibiza — Fri, 11 Oct 2024
+- Chinois Ibiza, Ibiza · Mon, 7 Sept 2026
+- Chinois Ibiza, Ibiza · Mon, 3 Aug 2026
+- Chinois Ibiza, Ibiza · Mon, 15 Jun 2026
+- Ryans Ibiza, Ibiza · Sat, 23 May 2026
+- TBA, Ibiza · Thu, 2 Apr 2026
+- TBA - VENUE CONFIRMED > TEATRO PEREYA, Ibiza · Thu, 2 Apr 2026
+- Parque Finca Liana, Madrid · Sat, 7 Jun 2025
+- Chinois Ibiza, Ibiza · Fri, 11 Oct 2024
 
 ## Shares bills with
 

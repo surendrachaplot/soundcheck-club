@@ -1,6 +1,6 @@
 # feedbk - industry night with Will DiMaggio, Ryan King at feedbk
 
-feedbk - industry night with Will DiMaggio, Ryan King on Thu 1 Oct, New York City. 2 artists on the bill: Ryan King and Will DiMaggio. House and Tech House. Preview the line-up and save it on soundcheck.
+feedbk - industry night with Will DiMaggio, Ryan King on Thu 1 Oct, New York City. 2 artists: Ryan King and Will DiMaggio. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

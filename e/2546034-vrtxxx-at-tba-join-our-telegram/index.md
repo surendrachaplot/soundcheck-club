@@ -1,6 +1,6 @@
 # VRTXXX at TBA - Join our Telegram
 
-VRTXXX at TBA - Join our Telegram on Thu 8 Oct, Berlin. 2 artists on the bill: Ixa and KALI.. Electro and Baile Funk. Preview the line-up and save it on soundcheck.
+VRTXXX at TBA - Join our Telegram on Thu 8 Oct, Berlin. 2 artists: Ixa and KALI.. Electro and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FNGRS CRSSD presents STÜM at Spin
 
-FNGRS CRSSD presents STÜM at Spin on Fri 13 Nov, San Diego. 1 artist on the bill: STÜM. Preview the line-up and save it on soundcheck.
+FNGRS CRSSD presents STÜM at Spin on Fri 13 Nov, San Diego. 1 artist: STÜM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

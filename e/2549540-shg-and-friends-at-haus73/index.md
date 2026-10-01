@@ -1,6 +1,6 @@
 # SHG and Friends at Haus73
 
-SHG and Friends at Haus73 on Sat 10 Oct, Hamburg. 4 artists on the bill: Anna Kost, eshot (DE), Ian Pilosa and Mambo Kahn. Techno and Bass. Preview the line-up and save it on soundcheck.
+SHG and Friends at Haus73 on Sat 10 Oct, Hamburg. 4 artists: Anna Kost, eshot (DE), Ian Pilosa and Mambo Kahn. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Dragos Ilici
 
-Dragos Ilici is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Outer Heaven, New York City on Thu, 1 Oct 2026.
+Dragos Ilici is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outer Heaven, New York City on Thu, 1 Oct 2026.
 
-Dragos Ilici is a house and techno artist based in Romania, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Boston and Brussels and 7 more. Often billed alongside Prichindel, Mark Dumitrescu and Dan Andrei. Next up: Outer Heaven, New York City on Thu 1 Oct.
+Dragos Ilici is a house and techno artist based in Romania, with 62 gigs on soundcheck across Amsterdam, Berlin, Boston and Brussels and 7 more. Often billed alongside Prichindel, Mark Dumitrescu and Dan Andrei. Next up: Outer Heaven, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Dragos Ilici is a house and techno artist based in Romania, tracked on soundchec
 
 ## Recently played
 
-- Platforma Wolff, Bucharest — Fri, 21 Aug 2026
-- Platforma Wolff, Bucharest — Thu, 23 Jul 2026
-- Platforma Wolff, Bucharest — Sat, 20 Jun 2026
-- Platforma Wolff, Bucharest — Fri, 1 May 2026
-- Platforma Wolff, Bucharest — Sat, 21 Mar 2026
-- Platforma Wolff, Bucharest — Fri, 15 Aug 2025
-- Phoenix Landing, Boston — Wed, 6 Aug 2025
-- H0L0, New York City — Sat, 2 Aug 2025
+- Platforma Wolff, Bucharest · Fri, 21 Aug 2026
+- Platforma Wolff, Bucharest · Thu, 23 Jul 2026
+- Platforma Wolff, Bucharest · Sat, 20 Jun 2026
+- Platforma Wolff, Bucharest · Fri, 1 May 2026
+- Platforma Wolff, Bucharest · Sat, 21 Mar 2026
+- Platforma Wolff, Bucharest · Fri, 15 Aug 2025
+- Phoenix Landing, Boston · Wed, 6 Aug 2025
+- H0L0, New York City · Sat, 2 Aug 2025
 
 ## Shares bills with
 

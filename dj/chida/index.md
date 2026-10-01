@@ -1,8 +1,8 @@
 # CHIDA
 
-CHIDA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BAR Inc, Osaka on Sat, 3 Oct 2026.
+CHIDA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BAR Inc, Osaka on Sat, 3 Oct 2026.
 
-CHIDA is a house and techno artist based in Japan, tracked on soundcheck, with 191 sets logged across Amsterdam, Berlin, Bristol and Bucharest and 10 more. Often billed alongside YAMARCHY, FFAN and FU (JP). Next up: BAR Inc, Osaka on Sat 3 Oct.
+CHIDA is a house and techno artist based in Japan, with 191 gigs on soundcheck across Amsterdam, Berlin, Bristol and Bucharest and 10 more. Often billed alongside YAMARCHY, FFAN and FU (JP). Next up: BAR Inc, Osaka on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ CHIDA is a house and techno artist based in Japan, tracked on soundcheck, with 1
 
 ## Recently played
 
-- Nyapi, Seoul — Sat, 26 Sept 2026
-- Numm, Tokyo — Fri, 25 Sept 2026
-- Azumaya, Tokyo — Thu, 24 Sept 2026
-- Aoyama Hachi, Tokyo — Tue, 22 Sept 2026
-- WOMB, Tokyo — Sat, 12 Sept 2026
-- Mitsuki, Tokyo — Wed, 2 Sept 2026
-- DJ Bar Bridge Shinjuku, Tokyo — Sat, 29 Aug 2026
-- WOMB, Tokyo — Sat, 22 Aug 2026
+- Nyapi, Seoul · Sat, 26 Sept 2026
+- Numm, Tokyo · Fri, 25 Sept 2026
+- Azumaya, Tokyo · Thu, 24 Sept 2026
+- Aoyama Hachi, Tokyo · Tue, 22 Sept 2026
+- WOMB, Tokyo · Sat, 12 Sept 2026
+- Mitsuki, Tokyo · Wed, 2 Sept 2026
+- DJ Bar Bridge Shinjuku, Tokyo · Sat, 29 Aug 2026
+- WOMB, Tokyo · Sat, 22 Aug 2026
 
 ## Shares bills with
 

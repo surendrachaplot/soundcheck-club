@@ -1,8 +1,8 @@
 # MEYEM
 
-MEYEM is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kilomètre25, Paris on Fri, 9 Oct 2026.
+MEYEM is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kilomètre25, Paris on Fri, 9 Oct 2026.
 
-MEYEM is a techno and trance artist based in France, tracked on soundcheck, with 49 sets logged across Basel, Berlin, Cologne and Hamburg and 8 more. Often billed alongside ADB (FR), Asaya and Abr.. Next up: Kilomètre25, Paris on Fri 9 Oct.
+MEYEM is a techno and trance artist based in France, with 49 gigs on soundcheck across Basel, Berlin, Cologne and Hamburg and 8 more. Often billed alongside ADB (FR), Asaya and Abr.. Next up: Kilomètre25, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MEYEM is a techno and trance artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
-- fabric, London — Fri, 19 Jun 2026
-- TBA - Stade Georges Lyvet (Villeurbanne), Lyon — Sat, 6 Jun 2026
-- Rex Club, Paris — Fri, 29 May 2026
-- Le Trabendo, Paris — Sat, 2 May 2026
-- ÆDEN, Berlin — Fri, 20 Mar 2026
-- La Cité Fertile, Paris — Sat, 14 Mar 2026
-- La Rotonde Stalingrad, Paris — Fri, 19 Dec 2025
-- Noct, Paris — Sat, 1 Nov 2025
+- fabric, London · Fri, 19 Jun 2026
+- TBA - Stade Georges Lyvet (Villeurbanne), Lyon · Sat, 6 Jun 2026
+- Rex Club, Paris · Fri, 29 May 2026
+- Le Trabendo, Paris · Sat, 2 May 2026
+- ÆDEN, Berlin · Fri, 20 Mar 2026
+- La Cité Fertile, Paris · Sat, 14 Mar 2026
+- La Rotonde Stalingrad, Paris · Fri, 19 Dec 2025
+- Noct, Paris · Sat, 1 Nov 2025
 
 ## Shares bills with
 

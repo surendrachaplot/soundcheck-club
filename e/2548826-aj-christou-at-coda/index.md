@@ -1,6 +1,6 @@
 # AJ Christou at Coda
 
-AJ Christou at Coda on Fri 16 Oct, Toronto. 1 artist on the bill: AJ Christou. Preview the line-up and save it on soundcheck.
+AJ Christou at Coda on Fri 16 Oct, Toronto. 1 artist: AJ Christou. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

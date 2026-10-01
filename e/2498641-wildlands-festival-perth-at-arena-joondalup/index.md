@@ -1,6 +1,6 @@
 # Wildlands Festival - Perth at Arena Joondalup
 
-Wildlands Festival - Perth at Arena Joondalup on Sat 2 Jan, Perth. 22 artists on the bill: Anetha, Benwal, Dean Turnley and Ewan McVicar and 18 more. Preview the line-up and save it on soundcheck.
+Wildlands Festival - Perth at Arena Joondalup on Sat 2 Jan, Perth. 22 artists: Anetha, Benwal, Dean Turnley and Ewan McVicar and 18 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

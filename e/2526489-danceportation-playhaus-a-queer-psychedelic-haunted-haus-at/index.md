@@ -1,6 +1,6 @@
 # Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus at Meow Wolf Denver
 
-Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus at Meow Wolf Denver on Fri 23 Oct, Denver. House and Electro. Preview the line-up and save it on soundcheck.
+Danceportation: PlayHaus - A Queer Psychedelic Haunted Haus at Meow Wolf Denver on Fri 23 Oct, Denver. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

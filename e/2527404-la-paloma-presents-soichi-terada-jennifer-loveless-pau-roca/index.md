@@ -1,6 +1,6 @@
 # La Paloma presents: Soichi Terada + Jennifer Loveless + Pau Roca at La Paloma
 
-La Paloma presents: Soichi Terada + Jennifer Loveless + Pau Roca on Fri 30 Oct, Barcelona. 3 artists on the bill: Jennifer Loveless, Pau Roca and Soichi Terada. House and Disco. Preview the line-up and save it on soundcheck.
+La Paloma presents: Soichi Terada + Jennifer Loveless + Pau Roca on Fri 30 Oct, Barcelona. 3 artists: Jennifer Loveless, Pau Roca and Soichi Terada. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

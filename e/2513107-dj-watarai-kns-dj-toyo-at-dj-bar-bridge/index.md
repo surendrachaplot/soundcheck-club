@@ -1,6 +1,6 @@
 # DJ WATARAI, KNS & DJ TOYO at DJ Bar Bridge
 
-DJ WATARAI, KNS & DJ TOYO at DJ Bar Bridge on Mon 26 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+DJ WATARAI, KNS & DJ TOYO at DJ Bar Bridge on Mon 26 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

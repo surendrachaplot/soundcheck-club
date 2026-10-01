@@ -1,6 +1,6 @@
 # L.A.D's presents: Millie McKee (live) + Marion Hawkes at Cobalt Studios
 
-L.A.D's presents: Millie McKee (live) + Marion Hawkes at Cobalt Studios on Sat 17 Oct, Newcastle. 2 artists on the bill: Marion Hawkes and Millie McKee. Preview the line-up and save it on soundcheck.
+L.A.D's presents: Millie McKee (live) + Marion Hawkes at Cobalt Studios on Sat 17 Oct, Newcastle. 2 artists: Marion Hawkes and Millie McKee. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

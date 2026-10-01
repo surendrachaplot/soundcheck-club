@@ -1,6 +1,6 @@
 # Euphoric Events Presents: Elixir Two Years Of Euphoria at Bar Bodega
 
-Euphoric Events Presents: Elixir Two Years Of Euphoria at Bar Bodega on Fri 27 Nov, Liverpool. Tech House. Preview the line-up and save it on soundcheck.
+Euphoric Events Presents: Elixir Two Years Of Euphoria at Bar Bodega on Fri 27 Nov, Liverpool. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

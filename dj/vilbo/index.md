@@ -1,8 +1,8 @@
 # VILBØ
 
-VILBØ is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bulbul Berlin, Berlin on Thu, 15 Oct 2026.
+VILBØ is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bulbul Berlin, Berlin on Thu, 15 Oct 2026.
 
-VILBØ is a house and tech house artist based in Lithuania, tracked on soundcheck, with 3 sets logged across Amsterdam and Berlin. Often billed alongside Judoc, aksendo and Doreen Van Steen. Next up: Bulbul Berlin, Berlin on Thu 15 Oct.
+VILBØ is a house and tech house artist based in Lithuania, with 3 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside Judoc, aksendo and Doreen Van Steen. Next up: Bulbul Berlin, Berlin on Thu 15 Oct.
 
 ## Upcoming shows
 

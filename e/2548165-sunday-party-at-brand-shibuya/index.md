@@ -1,6 +1,6 @@
 # Sunday Party at BRAND SHIBUYA
 
-Sunday Party at BRAND SHIBUYA on Sun 4 Oct, Tokyo. 2 artists on the bill: NOHR and YOSHIMASA. Techno and House. Preview the line-up and save it on soundcheck.
+Sunday Party at BRAND SHIBUYA on Sun 4 Oct, Tokyo. 2 artists: NOHR and YOSHIMASA. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

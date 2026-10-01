@@ -1,8 +1,8 @@
 # Pawel Blot
 
-Pawel Blot is a Italo Disco and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sekta Selekta, Krakow on Sat, 3 Oct 2026.
+Pawel Blot is a Italo Disco and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sekta Selekta, Krakow on Sat, 3 Oct 2026.
 
-Pawel Blot is an italo disco and acid artist based in Poland, tracked on soundcheck, with 30 sets logged across Barcelona, Berlin, Krakow and The Hague and 1 more. Often billed alongside Pitti Schmitti, Internal Operator and Marsman. Next up: Sekta Selekta, Krakow on Sat 3 Oct.
+Pawel Blot is an italo disco and acid artist based in Poland, with 30 gigs on soundcheck across Barcelona, Berlin, Krakow and The Hague and 1 more. Often billed alongside Pitti Schmitti, Internal Operator and Marsman. Next up: Sekta Selekta, Krakow on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Pawel Blot is an italo disco and acid artist based in Poland, tracked on soundch
 
 ## Recently played
 
-- B-SIDE, Warsaw — Sat, 29 Aug 2026
-- K-Bar Powiśle, Warsaw — Sat, 25 Jul 2026
-- OXI, Berlin — Sat, 18 Jul 2026
-- B-SIDE, Warsaw — Fri, 24 Apr 2026
-- Smolna, Warsaw — Fri, 20 Mar 2026
-- B-SIDE, Warsaw — Fri, 27 Feb 2026
-- Chmury, Warsaw — Fri, 9 Jan 2026
-- Jasna 1, Warsaw — Fri, 19 Dec 2025
+- B-SIDE, Warsaw · Sat, 29 Aug 2026
+- K-Bar Powiśle, Warsaw · Sat, 25 Jul 2026
+- OXI, Berlin · Sat, 18 Jul 2026
+- B-SIDE, Warsaw · Fri, 24 Apr 2026
+- Smolna, Warsaw · Fri, 20 Mar 2026
+- B-SIDE, Warsaw · Fri, 27 Feb 2026
+- Chmury, Warsaw · Fri, 9 Jan 2026
+- Jasna 1, Warsaw · Fri, 19 Dec 2025
 
 ## Shares bills with
 

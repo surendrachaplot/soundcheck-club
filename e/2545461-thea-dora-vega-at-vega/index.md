@@ -1,6 +1,6 @@
 # Thea Dora // VEGA at VEGA
 
-Thea Dora // VEGA on Fri 13 Nov, Copenhagen. Preview the line-up and save it on soundcheck.
+Thea Dora // VEGA on Fri 13 Nov, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SONOTOPIA: Global South Grooves (Kampire x Adamantios & Binetou Sylla) at Plex
 
-SONOTOPIA: Global South Grooves (Kampire x Adamantios & Binetou Sylla) at Plex on Fri 9 Oct, Athens. 1 artist on the bill: Kampire. Afrobeat. Preview the line-up and save it on soundcheck.
+SONOTOPIA: Global South Grooves (Kampire x Adamantios & Binetou Sylla) at Plex on Fri 9 Oct, Athens. 1 artist: Kampire. Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

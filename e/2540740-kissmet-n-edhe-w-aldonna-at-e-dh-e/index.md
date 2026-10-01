@@ -1,6 +1,6 @@
 # Kissmet n'edhe w/ Aldonna at e.dh.e
 
-Kissmet n'edhe w/ Aldonna at e.dh.e on Fri 2 Oct, Kosovo. 3 artists on the bill: Aldonna, Legoff and Uran B.. Preview the line-up and save it on soundcheck.
+Kissmet n'edhe w/ Aldonna at e.dh.e on Fri 2 Oct, Kosovo. 3 artists: Aldonna, Legoff and Uran B.. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

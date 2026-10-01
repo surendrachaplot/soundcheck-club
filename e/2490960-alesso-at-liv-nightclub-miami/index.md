@@ -1,6 +1,6 @@
 # Alesso at LIV Nightclub Miami
 
-Alesso at LIV Nightclub Miami on Fri 9 Oct, Miami. Preview the line-up and save it on soundcheck.
+Alesso at LIV Nightclub Miami on Fri 9 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

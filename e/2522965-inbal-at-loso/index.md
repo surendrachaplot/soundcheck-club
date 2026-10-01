@@ -1,6 +1,6 @@
 # Inbal at Loso
 
-Inbal at Loso on Sat 21 Nov, Richmond. 1 artist on the bill: Inbal. Preview the line-up and save it on soundcheck.
+Inbal at Loso on Sat 21 Nov, Richmond. 1 artist: Inbal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

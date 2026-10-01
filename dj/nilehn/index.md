@@ -1,8 +1,8 @@
 # nilehn
 
-nilehn is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Eiger Studios, Leeds on Sat, 7 Nov 2026.
+nilehn is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eiger Studios, Leeds on Sat, 7 Nov 2026.
 
-nilehn is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Leeds. Often billed alongside Ben Zulu, Jake Mehew and NikNak. Next up: Eiger Studios, Leeds on Sat 7 Nov.
+nilehn is a techno and experimental artist based in United Kingdom, with 13 gigs on soundcheck across Leeds. Often billed alongside Ben Zulu, Jake Mehew and NikNak. Next up: Eiger Studios, Leeds on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ nilehn is a techno and experimental artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Howard Assembly Room, Leeds — Fri, 11 Sept 2026
-- Wharf Chambers, Leeds — Fri, 27 Mar 2026
-- Belgrave Music Hall, Leeds — Sat, 25 Oct 2025
-- The Vinyl Whistle, Leeds — Sat, 11 Oct 2025
-- The Vinyl Whistle, Leeds — Sat, 28 Jun 2025
-- Wharf Chambers, Leeds — Sat, 31 May 2025
-- The Vinyl Whistle, Leeds — Sat, 22 Feb 2025
-- Wharf Chambers, Leeds — Fri, 21 Feb 2025
+- Howard Assembly Room, Leeds · Fri, 11 Sept 2026
+- Wharf Chambers, Leeds · Fri, 27 Mar 2026
+- Belgrave Music Hall, Leeds · Sat, 25 Oct 2025
+- The Vinyl Whistle, Leeds · Sat, 11 Oct 2025
+- The Vinyl Whistle, Leeds · Sat, 28 Jun 2025
+- Wharf Chambers, Leeds · Sat, 31 May 2025
+- The Vinyl Whistle, Leeds · Sat, 22 Feb 2025
+- Wharf Chambers, Leeds · Fri, 21 Feb 2025
 
 ## Shares bills with
 

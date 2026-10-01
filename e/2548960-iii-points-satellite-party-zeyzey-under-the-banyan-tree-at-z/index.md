@@ -1,6 +1,6 @@
 # III Points Satellite Party: ZEYZEY - Under the Banyan Tree at ZeyZey
 
-III Points Satellite Party: ZEYZEY - Under the Banyan Tree at ZeyZey on Thu 15 Oct, Miami. 1 artist on the bill: ChaseWest. Preview the line-up and save it on soundcheck.
+III Points Satellite Party: ZEYZEY - Under the Banyan Tree at ZeyZey on Thu 15 Oct, Miami. 1 artist: ChaseWest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

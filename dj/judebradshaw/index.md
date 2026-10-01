@@ -1,8 +1,8 @@
 # Jude Bradshaw
 
-Jude Bradshaw is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
+Jude Bradshaw is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
 
-Jude Bradshaw is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Berlin, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside D4N, Céleste and t e s t p r e s s. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
+Jude Bradshaw is a techno and trance artist based in United Kingdom, with 33 gigs on soundcheck across Berlin, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside D4N, Céleste and t e s t p r e s s. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jude Bradshaw is a techno and trance artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- People's Leisure Club, Edinburgh — Sat, 26 Sept 2026
-- The Berkeley Suite, Glasgow — Fri, 25 Sept 2026
-- The Berkeley Suite, Glasgow — Thu, 9 Jul 2026
-- Sub Club, Glasgow — Fri, 20 Mar 2026
-- SWG3, Glasgow — Sun, 28 Dec 2025
-- Eiger Studios, Leeds — Sat, 20 Dec 2025
-- The Cause, London — Fri, 5 Dec 2025
-- SWG3, Glasgow — Fri, 25 Jul 2025
+- People's Leisure Club, Edinburgh · Sat, 26 Sept 2026
+- The Berkeley Suite, Glasgow · Fri, 25 Sept 2026
+- The Berkeley Suite, Glasgow · Thu, 9 Jul 2026
+- Sub Club, Glasgow · Fri, 20 Mar 2026
+- SWG3, Glasgow · Sun, 28 Dec 2025
+- Eiger Studios, Leeds · Sat, 20 Dec 2025
+- The Cause, London · Fri, 5 Dec 2025
+- SWG3, Glasgow · Fri, 25 Jul 2025
 
 ## Shares bills with
 

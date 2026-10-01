@@ -1,6 +1,6 @@
 # SOULSHINE at TBA - Velours 323 Ontario Est Montréal 
 
-SOULSHINE at TBA - Velours 323 Ontario Est Montréal  on Sat 10 Oct, Montreal. Downtempo and Afro House. Preview the line-up and save it on soundcheck.
+SOULSHINE at TBA - Velours 323 Ontario Est Montréal  on Sat 10 Oct, Montreal. Downtempo and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

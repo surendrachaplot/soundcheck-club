@@ -1,6 +1,6 @@
 # Aldonna • Liquid Earth at Radio Radio
 
-Aldonna • Liquid Earth at Radio Radio on Fri 16 Oct, Amsterdam. 2 artists on the bill: Aldonna and Liquid Earth. House. Preview the line-up and save it on soundcheck.
+Aldonna • Liquid Earth at Radio Radio on Fri 16 Oct, Amsterdam. 2 artists: Aldonna and Liquid Earth. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

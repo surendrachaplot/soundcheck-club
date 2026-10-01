@@ -1,6 +1,6 @@
 # Bait presents the dubstep - jungle connection at M.O.T
 
-Bait presents the dubstep - jungle connection at M.O.T on Fri 4 Dec, London. Dubstep and Jungle. Preview the line-up and save it on soundcheck.
+Bait presents the dubstep - jungle connection at M.O.T on Fri 4 Dec, London. Dubstep and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Eva Selezneva at Georgia Bar
 
-Eva Selezneva at Georgia Bar on Thu 1 Oct, Berlin. 1 artist on the bill: Eva Selezneva. House and Disco. Preview the line-up and save it on soundcheck.
+Eva Selezneva at Georgia Bar on Thu 1 Oct, Berlin. 1 artist: Eva Selezneva. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

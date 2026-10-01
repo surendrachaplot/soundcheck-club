@@ -1,6 +1,6 @@
 # Halloween Special - The Zombie Rave at Egg London
 
-Halloween Special - The Zombie Rave at Egg London on Fri 30 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+Halloween Special - The Zombie Rave at Egg London on Fri 30 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

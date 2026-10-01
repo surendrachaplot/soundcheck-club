@@ -1,6 +1,6 @@
 # Focus: invites by V:SONNTAG at Distillery
 
-Focus: invites by V:SONNTAG at Distillery on Sat 3 Oct, Leipzig. Techno. Preview the line-up and save it on soundcheck.
+Focus: invites by V:SONNTAG at Distillery on Sat 3 Oct, Leipzig. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

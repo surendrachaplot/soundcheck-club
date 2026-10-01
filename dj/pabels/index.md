@@ -1,8 +1,8 @@
 # Pabels
 
-Pabels is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Deseo BS AS, Buenos Aires on Fri, 30 Oct 2026.
+Pabels is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Deseo BS AS, Buenos Aires on Fri, 30 Oct 2026.
 
-Pabels is a house and disco artist based in Argentina, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, Budapest and Buenos Aires and 15 more. Often billed alongside Dobao, JUNA and Momo Trosman. Next up: Deseo BS AS, Buenos Aires on Fri 30 Oct.
+Pabels is a house and disco artist based in Argentina, with 71 gigs on soundcheck across Barcelona, Berlin, Budapest and Buenos Aires and 15 more. Often billed alongside Dobao, JUNA and Momo Trosman. Next up: Deseo BS AS, Buenos Aires on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Pabels is a house and disco artist based in Argentina, tracked on soundcheck, wi
 
 ## Recently played
 
-- La Nube, Buenos Aires — Sat, 19 Sept 2026
-- Deseo BS AS, Buenos Aires — Sun, 6 Sept 2026
-- TBA, Buenos Aires — Fri, 4 Sept 2026
-- Lion's Den, Miami — Sat, 11 Jul 2026
-- Dead Letter No. 9, New York City — Fri, 10 Jul 2026
-- Rūmu, Lisbon — Thu, 25 Jun 2026
-- Say No More Madrid, Madrid — Fri, 19 Jun 2026
-- TBA - Kamarerdei Ifjúsági Park, Budapest — Sat, 13 Jun 2026
+- La Nube, Buenos Aires · Sat, 19 Sept 2026
+- Deseo BS AS, Buenos Aires · Sun, 6 Sept 2026
+- TBA, Buenos Aires · Fri, 4 Sept 2026
+- Lion's Den, Miami · Sat, 11 Jul 2026
+- Dead Letter No. 9, New York City · Fri, 10 Jul 2026
+- Rūmu, Lisbon · Thu, 25 Jun 2026
+- Say No More Madrid, Madrid · Fri, 19 Jun 2026
+- TBA - Kamarerdei Ifjúsági Park, Budapest · Sat, 13 Jun 2026
 
 ## Shares bills with
 

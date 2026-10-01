@@ -1,6 +1,6 @@
 # Laska Live: Evanora Unlimited (US) at Laska V21
 
-Laska Live: Evanora Unlimited (US) at Laska V21 on Sat 21 Nov, Riga. 1 artist on the bill: Evanora Unlimited. Experimental and Pop. Preview the line-up and save it on soundcheck.
+Laska Live: Evanora Unlimited (US) at Laska V21 on Sat 21 Nov, Riga. 1 artist: Evanora Unlimited. Experimental and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

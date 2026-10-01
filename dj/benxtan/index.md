@@ -1,8 +1,8 @@
 # BENXTAN
 
-BENXTAN is a House and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Star Of Kings, London on Thu, 8 Oct 2026.
+BENXTAN is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Star Of Kings, London on Thu, 8 Oct 2026.
 
-BENXTAN is a house and bass artist tracked on soundcheck, with 7 sets logged across London and Tokyo. Often billed alongside Slipstream, Saïra and HangryRacoon. Next up: The Star Of Kings, London on Thu 8 Oct.
+BENXTAN is a house and bass artist, with 7 gigs on soundcheck across London and Tokyo. Often billed alongside Slipstream, Saïra and HangryRacoon. Next up: The Star Of Kings, London on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ BENXTAN is a house and bass artist tracked on soundcheck, with 7 sets logged acr
 
 ## Recently played
 
-- E1, London — Sat, 6 Jun 2026
-- Alaska Waterloo, London — Fri, 7 Nov 2025
-- HVEN, Tokyo — Sat, 19 Apr 2025
-- N7, London — Fri, 11 Oct 2024
-- Club Makossa, London — Fri, 12 Jul 2024
-- New River Studios, London — Sat, 27 Jan 2024
+- E1, London · Sat, 6 Jun 2026
+- Alaska Waterloo, London · Fri, 7 Nov 2025
+- HVEN, Tokyo · Sat, 19 Apr 2025
+- N7, London · Fri, 11 Oct 2024
+- Club Makossa, London · Fri, 12 Jul 2024
+- New River Studios, London · Sat, 27 Jan 2024
 
 ## Shares bills with
 

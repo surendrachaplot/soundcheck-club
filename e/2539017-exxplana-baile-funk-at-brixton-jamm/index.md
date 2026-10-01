@@ -1,6 +1,6 @@
 # EXXPLANA - Baile Funk at Brixton Jamm
 
-EXXPLANA - Baile Funk at Brixton Jamm on Sat 10 Oct, London. Baile Funk. Preview the line-up and save it on soundcheck.
+EXXPLANA - Baile Funk at Brixton Jamm on Sat 10 Oct, London. Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

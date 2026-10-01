@@ -1,8 +1,8 @@
 # Dr. Resin Social Club
 
-Dr. Resin Social Club is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dr. Resin presenta Victor Hugo" on Thu, 1 Oct 2026.
+Dr. Resin Social Club is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dr. Resin presenta Victor Hugo" on Thu, 1 Oct 2026.
 
-Dr. Resin Social Club is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Victor Hugo. Browse upcoming dates, start times and who's playing. Carrer de Guitard, 57, 08014 Barcelona, Spain.
+Dr. Resin Social Club is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including Victor Hugo. See dates, start times and who's playing. Carrer de Guitard, 57, 08014 Barcelona, Spain.
 
 ## What's on
 

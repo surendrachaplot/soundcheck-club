@@ -1,8 +1,8 @@
 # Lucas Vazz
 
-Lucas Vazz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sigma, Ibiza on Fri, 2 Oct 2026.
+Lucas Vazz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sigma, Ibiza on Fri, 2 Oct 2026.
 
-Lucas Vazz is a techno and house artist based in Chile, tracked on soundcheck, with 20 sets logged across Barcelona, Berlin and Ibiza. Often billed alongside Miguel Silva, Civaro and Elwei. Next up: Sigma, Ibiza on Fri 2 Oct.
+Lucas Vazz is a techno and house artist based in Chile, with 20 gigs on soundcheck across Barcelona, Berlin and Ibiza. Often billed alongside Miguel Silva, Civaro and Elwei. Next up: Sigma, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lucas Vazz is a techno and house artist based in Chile, tracked on soundcheck, w
 
 ## Recently played
 
-- Almar Beach Club, Barcelona — Fri, 18 Sept 2026
-- Tausend, Berlin — Sat, 25 Jul 2026
-- Rachdingue, Barcelona — Sat, 18 Jul 2026
-- Bulbul Berlin, Berlin — Sat, 1 Nov 2025
-- Forum Station, Barcelona — Fri, 26 Sept 2025
-- Sala Recreo, Barcelona — Fri, 19 Sept 2025
-- Generator Berlin Alexanderplatz, Berlin — Sun, 13 Jul 2025
-- Golden Gate, Berlin — Thu, 19 Jun 2025
+- Almar Beach Club, Barcelona · Fri, 18 Sept 2026
+- Tausend, Berlin · Sat, 25 Jul 2026
+- Rachdingue, Barcelona · Sat, 18 Jul 2026
+- Bulbul Berlin, Berlin · Sat, 1 Nov 2025
+- Forum Station, Barcelona · Fri, 26 Sept 2025
+- Sala Recreo, Barcelona · Fri, 19 Sept 2025
+- Generator Berlin Alexanderplatz, Berlin · Sun, 13 Jul 2025
+- Golden Gate, Berlin · Thu, 19 Jun 2025
 
 ## Shares bills with
 

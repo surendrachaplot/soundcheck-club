@@ -1,6 +1,6 @@
 # SPIRIT presents A Velvet Affair at El Chido, RF at Pullman Singapore Hill Street
 
-SPIRIT presents A Velvet Affair at El Chido, RF at Pullman Singapore Hill Street on Sat 17 Oct, Singapore. 4 artists on the bill: Aldrin, Brendon P, Jeremy Boon and Mike Risk. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+SPIRIT presents A Velvet Affair at El Chido, RF at Pullman Singapore Hill Street on Sat 17 Oct, Singapore. 4 artists: Aldrin, Brendon P, Jeremy Boon and Mike Risk. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

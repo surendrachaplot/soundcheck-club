@@ -1,6 +1,6 @@
 # Avyakta with Woody92 (Omen Wapta, Delft) at Acadana
 
-Avyakta with Woody92 (Omen Wapta, Delft) at Acadana on Fri 2 Oct, Hong Kong. 8 artists on the bill: ADRIANNA.C, Charlieowo, Chingyi and Faxtory and 4 more. Experimental and IDM. Preview the line-up and save it on soundcheck.
+Avyakta with Woody92 (Omen Wapta, Delft) at Acadana on Fri 2 Oct, Hong Kong. 8 artists: ADRIANNA.C, Charlieowo, Chingyi and Faxtory and 4 more. Experimental and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

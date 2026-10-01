@@ -1,6 +1,6 @@
 # FMS 6 Deck - Nottingham at Stealth
 
-FMS 6 Deck - Nottingham at Stealth on Fri 16 Oct, Nottingham. Drum & Bass. Preview the line-up and save it on soundcheck.
+FMS 6 Deck - Nottingham at Stealth on Fri 16 Oct, Nottingham. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FREAKY AFROPIANO FRIDAYS at 142b Lounge
 
-FREAKY AFROPIANO FRIDAYS at 142b Lounge on Fri 23 Oct, Glasgow. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
+FREAKY AFROPIANO FRIDAYS at 142b Lounge on Fri 23 Oct, Glasgow. Amapiano and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands
 
-TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "OASIS Boat Party Amsterdam — ADE Edition" on Sun, 25 Oct 2026.
+TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "OASIS Boat Party Amsterdam — ADE Edition" on Sun, 25 Oct 2026.
 
-TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including charuso and NoMore. Browse upcoming dates, start times and who's playing.
+TBA - De Ruijterkade 14, 1012 AA Amsterdam, Netherlands is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including charuso and NoMore. See dates, start times and who's playing.
 
 ## What's on
 

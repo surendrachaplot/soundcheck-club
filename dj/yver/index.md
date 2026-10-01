@@ -1,8 +1,8 @@
 # YVER
 
-YVER is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sala ART, Madrid on Sat, 24 Oct 2026.
+YVER is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala ART, Madrid on Sat, 24 Oct 2026.
 
-YVER is a house and club artist based in Spain, tracked on soundcheck, with 13 sets logged across Barcelona and Madrid. Often billed alongside Grau, Héctor Pericet and Javier de la Vega. Next up: Sala ART, Madrid on Sat 24 Oct.
+YVER is a house and club artist based in Spain, with 13 gigs on soundcheck across Barcelona and Madrid. Often billed alongside Grau, Héctor Pericet and Javier de la Vega. Next up: Sala ART, Madrid on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ YVER is a house and club artist based in Spain, tracked on soundcheck, with 13 s
 
 ## Recently played
 
-- EL SÓTANO, Madrid — Wed, 5 Aug 2026
-- EL SÓTANO, Madrid — Sun, 8 Mar 2026
-- EL SÓTANO, Madrid — Sun, 11 Jan 2026
-- EL SÓTANO, Madrid — Sat, 6 Sept 2025
-- EL SÓTANO, Madrid — Sat, 19 Jul 2025
-- Misericordia The Club, Madrid — Sat, 31 May 2025
-- EL SÓTANO, Madrid — Sat, 26 Apr 2025
-- Club Sauvage, Barcelona — Fri, 21 Mar 2025
+- EL SÓTANO, Madrid · Wed, 5 Aug 2026
+- EL SÓTANO, Madrid · Sun, 8 Mar 2026
+- EL SÓTANO, Madrid · Sun, 11 Jan 2026
+- EL SÓTANO, Madrid · Sat, 6 Sept 2025
+- EL SÓTANO, Madrid · Sat, 19 Jul 2025
+- Misericordia The Club, Madrid · Sat, 31 May 2025
+- EL SÓTANO, Madrid · Sat, 26 Apr 2025
+- Club Sauvage, Barcelona · Fri, 21 Mar 2025
 
 ## Shares bills with
 

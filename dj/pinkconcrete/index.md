@@ -1,8 +1,8 @@
 # Pink Concrete
 
-Pink Concrete is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Frankhan Selectist, Istanbul on Sat, 3 Oct 2026.
+Pink Concrete is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Frankhan Selectist, Istanbul on Sat, 3 Oct 2026.
 
-Pink Concrete is a techno and house artist based in Turkey, tracked on soundcheck, with 153 sets logged across Amsterdam, Athens, Berlin and Brno and 25 more. Often billed alongside Adamatron, Raketa95 and aláya. Next up: Frankhan Selectist, Istanbul on Sat 3 Oct.
+Pink Concrete is a techno and house artist based in Turkey, with 153 gigs on soundcheck across Amsterdam, Athens, Berlin and Brno and 25 more. Often billed alongside Adamatron, Raketa95 and aláya. Next up: Frankhan Selectist, Istanbul on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Pink Concrete is a techno and house artist based in Turkey, tracked on soundchec
 
 ## Recently played
 
-- Fuchs2, Prague — Sat, 19 Sept 2026
-- RADION, Amsterdam — Sat, 12 Sept 2026
-- RADION, Amsterdam — Fri, 11 Sept 2026
-- The Glove That Fits, London — Fri, 28 Aug 2026
-- Altenburg 1964, Prague — Fri, 21 Aug 2026
-- KREUZWERK, Berlin — Sun, 16 Aug 2026
-- Jasna 1, Warsaw — Fri, 14 Aug 2026
-- Fuchs2, Prague — Sat, 8 Aug 2026
+- Fuchs2, Prague · Sat, 19 Sept 2026
+- RADION, Amsterdam · Sat, 12 Sept 2026
+- RADION, Amsterdam · Fri, 11 Sept 2026
+- The Glove That Fits, London · Fri, 28 Aug 2026
+- Altenburg 1964, Prague · Fri, 21 Aug 2026
+- KREUZWERK, Berlin · Sun, 16 Aug 2026
+- Jasna 1, Warsaw · Fri, 14 Aug 2026
+- Fuchs2, Prague · Sat, 8 Aug 2026
 
 ## Shares bills with
 

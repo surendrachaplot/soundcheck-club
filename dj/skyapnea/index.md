@@ -1,8 +1,8 @@
 # SKYAPNEA
 
-SKYAPNEA is a Dub and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at THE MAGICK BAR, Rome on Sat, 3 Oct 2026.
+SKYAPNEA is a Dub and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at THE MAGICK BAR, Rome on Sat, 3 Oct 2026.
 
-SKYAPNEA is a dub and experimental artist based in Italy, tracked on soundcheck, with 5 sets logged across London and Rome. Often billed alongside Cinna Peyghamy, Cosimo Damiano and Lagos. Next up: THE MAGICK BAR, Rome on Sat 3 Oct.
+SKYAPNEA is a dub and experimental artist based in Italy, with 5 gigs on soundcheck across London and Rome. Often billed alongside Cinna Peyghamy, Cosimo Damiano and Lagos. Next up: THE MAGICK BAR, Rome on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,9 +13,9 @@ SKYAPNEA is a dub and experimental artist based in Italy, tracked on soundcheck,
 
 ## Recently played
 
-- Soffio Fregene, Rome — Sun, 26 Jul 2026
-- Trenta Formiche, Rome — Fri, 3 Apr 2026
-- L863, Rome — Fri, 19 Dec 2025
+- Soffio Fregene, Rome · Sun, 26 Jul 2026
+- Trenta Formiche, Rome · Fri, 3 Apr 2026
+- L863, Rome · Fri, 19 Dec 2025
 
 ## Shares bills with
 

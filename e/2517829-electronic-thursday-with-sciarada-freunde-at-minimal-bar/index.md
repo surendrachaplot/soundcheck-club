@@ -1,6 +1,6 @@
 # Electronic.thursday with sciarada & freunde at Minimal Bar
 
-Electronic.thursday with sciarada & freunde at Minimal Bar on Thu 8 Oct, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Electronic.thursday with sciarada & freunde at Minimal Bar on Thu 8 Oct, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

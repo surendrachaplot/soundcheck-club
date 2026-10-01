@@ -1,8 +1,8 @@
 # DJ ORA
 
-DJ ORA is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Oliva, Amsterdam on Fri, 23 Oct 2026.
+DJ ORA is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Oliva, Amsterdam on Fri, 23 Oct 2026.
 
-DJ ORA is a house and techno artist based in Israel, tracked on soundcheck, with 4 sets logged across Amsterdam and Rotterdam. Often billed alongside DXNBY, AMORAL and Across Boundaries. Next up: Oliva, Amsterdam on Fri 23 Oct.
+DJ ORA is a house and techno artist based in Israel, with 4 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside DXNBY, AMORAL and Across Boundaries. Next up: Oliva, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,8 @@ DJ ORA is a house and techno artist based in Israel, tracked on soundcheck, with
 
 ## Recently played
 
-- Amsterdamse Bos, Amsterdam — Sat, 6 Jun 2026
-- Toffler, Rotterdam — Sat, 16 May 2026
+- Amsterdamse Bos, Amsterdam · Sat, 6 Jun 2026
+- Toffler, Rotterdam · Sat, 16 May 2026
 
 ## Shares bills with
 

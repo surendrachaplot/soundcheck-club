@@ -1,6 +1,6 @@
 # Trésor Party: The Heatwave - Abdel Benakki, Andrea Ratti at Pamela Club
 
-Trésor Party: The Heatwave - Abdel Benakki, Andrea Ratti at Pamela Club on Sat 10 Oct, Paris. 1 artist on the bill: Andrea Ratti. House and Electro. Preview the line-up and save it on soundcheck.
+Trésor Party: The Heatwave - Abdel Benakki, Andrea Ratti at Pamela Club on Sat 10 Oct, Paris. 1 artist: Andrea Ratti. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

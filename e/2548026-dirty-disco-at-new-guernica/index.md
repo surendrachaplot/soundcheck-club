@@ -1,6 +1,6 @@
 # DIRTY DISCO at New Guernica
 
-DIRTY DISCO at New Guernica on Fri 23 Oct, Melbourne. 2 artists on the bill: DJ JNETT and Mothafunk. Disco. Preview the line-up and save it on soundcheck.
+DIRTY DISCO at New Guernica on Fri 23 Oct, Melbourne. 2 artists: DJ JNETT and Mothafunk. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

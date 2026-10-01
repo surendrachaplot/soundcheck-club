@@ -1,6 +1,6 @@
 # Crystal Queer Club: The World Beyond Samhain at The Pavillion Bar
 
-Crystal Queer Club: The World Beyond Samhain at The Pavillion Bar on Sat 24 Oct, Belfast. Electronica. Preview the line-up and save it on soundcheck.
+Crystal Queer Club: The World Beyond Samhain at The Pavillion Bar on Sat 24 Oct, Belfast. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

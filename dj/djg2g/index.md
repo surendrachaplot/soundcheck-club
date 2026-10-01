@@ -1,8 +1,8 @@
 # dj g2g
 
-dj g2g is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Den Anden Side, Copenhagen on Fri, 23 Oct 2026.
+dj g2g is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 23 Oct 2026.
 
-dj g2g is a techno and club artist based in Uruguay, tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Azyr, Miss Bashful x DBBD and Adrian Mills. Next up: Den Anden Side, Copenhagen on Fri 23 Oct.
+dj g2g is a techno and club artist based in Uruguay, with 109 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 39 more. Often billed alongside Azyr, Miss Bashful x DBBD and Adrian Mills. Next up: Den Anden Side, Copenhagen on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ dj g2g is a techno and club artist based in Uruguay, tracked on soundcheck, with
 
 ## Recently played
 
-- Burgess Park, London — Sat, 15 Aug 2026
-- Burgess Park, London — Sat, 8 Aug 2026
-- M.O.T, London — Sat, 8 Aug 2026
-- Den Anden Side, Copenhagen — Fri, 7 Aug 2026
-- Celebrities Night Club, Vancouver — Thu, 30 Jul 2026
-- Bain Mathieu, Montreal — Fri, 24 Jul 2026
-- Stereo, Glasgow — Fri, 10 Jul 2026
-- Kraftwerk Berlin, Berlin — Sun, 31 May 2026
+- Burgess Park, London · Sat, 15 Aug 2026
+- Burgess Park, London · Sat, 8 Aug 2026
+- M.O.T, London · Sat, 8 Aug 2026
+- Den Anden Side, Copenhagen · Fri, 7 Aug 2026
+- Celebrities Night Club, Vancouver · Thu, 30 Jul 2026
+- Bain Mathieu, Montreal · Fri, 24 Jul 2026
+- Stereo, Glasgow · Fri, 10 Jul 2026
+- Kraftwerk Berlin, Berlin · Sun, 31 May 2026
 
 ## Shares bills with
 

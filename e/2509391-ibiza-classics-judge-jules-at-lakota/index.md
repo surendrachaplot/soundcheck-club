@@ -1,6 +1,6 @@
 # Ibiza Classics: Judge Jules at Lakota
 
-Ibiza Classics: Judge Jules at Lakota on Sat 7 Nov, Bristol. 2 artists on the bill: Judge Jules and Tim Lyall. Trance and House. Preview the line-up and save it on soundcheck.
+Ibiza Classics: Judge Jules at Lakota on Sat 7 Nov, Bristol. 2 artists: Judge Jules and Tim Lyall. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

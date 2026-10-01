@@ -1,6 +1,6 @@
 # Vintage at Lio Ibiza
 
-Vintage at Lio Ibiza on Fri 2 Oct, Ibiza. House. Preview the line-up and save it on soundcheck.
+Vintage at Lio Ibiza on Fri 2 Oct, Ibiza. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

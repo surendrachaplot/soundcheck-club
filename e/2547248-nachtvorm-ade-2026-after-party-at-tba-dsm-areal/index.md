@@ -1,6 +1,6 @@
 # NACHTVORM Ade 2026 After Party at TBA - DSM Areal
 
-NACHTVORM Ade 2026 After Party at TBA - DSM Areal on Sun 25 Oct, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+NACHTVORM Ade 2026 After Party at TBA - DSM Areal on Sun 25 Oct, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # the ONEMAN show 'JUDY' at Club Metro
 
-the ONEMAN show 'JUDY' at Club Metro on Thu 15 Oct, Kyoto. Techno and House. Preview the line-up and save it on soundcheck.
+the ONEMAN show 'JUDY' at Club Metro on Thu 15 Oct, Kyoto. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

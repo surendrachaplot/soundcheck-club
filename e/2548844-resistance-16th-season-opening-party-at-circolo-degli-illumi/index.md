@@ -1,6 +1,6 @@
 # Resistance '16th Season' Opening Party at Circolo degli Illuminati
 
-Resistance '16th Season' Opening Party at Circolo degli Illuminati on Fri 9 Oct, Rome. 3 artists on the bill: Asymptote, Fireground and MURINO. Techno. Preview the line-up and save it on soundcheck.
+Resistance '16th Season' Opening Party at Circolo degli Illuminati on Fri 9 Oct, Rome. 3 artists: Asymptote, Fireground and MURINO. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

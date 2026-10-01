@@ -1,8 +1,8 @@
 # Etapp Kyle
 
-Etapp Kyle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Macadam, Nantes on Sun, 18 Oct 2026.
+Etapp Kyle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Macadam, Nantes on Sun, 18 Oct 2026.
 
-Etapp Kyle is a techno and house artist based in Ukraine, tracked on soundcheck, with 75 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 31 more. Often billed alongside Daria Kolosova, Barker and Phase Fatale. Next up: Macadam, Nantes on Sun 18 Oct.
+Etapp Kyle is a techno and house artist based in Ukraine, with 75 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 31 more. Often billed alongside Daria Kolosova, Barker and Phase Fatale. Next up: Macadam, Nantes on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Etapp Kyle is a techno and house artist based in Ukraine, tracked on soundcheck,
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Thu, 13 Aug 2026
-- Kunstkraftwerk, Leipzig — Sat, 11 Oct 2025
-- Else, Berlin — Sat, 13 Sept 2025
-- OXI, Berlin — Sat, 26 Jul 2025
-- Kauz, Zurich — Sat, 17 May 2025
-- Les Enfants Brillants, Barcelona — Fri, 9 May 2025
-- BRET, Amsterdam — Sun, 4 May 2025
-- Badaboum, Paris — Sat, 12 Apr 2025
+- RSO.BERLIN, Berlin · Thu, 13 Aug 2026
+- Kunstkraftwerk, Leipzig · Sat, 11 Oct 2025
+- Else, Berlin · Sat, 13 Sept 2025
+- OXI, Berlin · Sat, 26 Jul 2025
+- Kauz, Zurich · Sat, 17 May 2025
+- Les Enfants Brillants, Barcelona · Fri, 9 May 2025
+- BRET, Amsterdam · Sun, 4 May 2025
+- Badaboum, Paris · Sat, 12 Apr 2025
 
 ## Shares bills with
 

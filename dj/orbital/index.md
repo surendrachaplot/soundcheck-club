@@ -1,8 +1,8 @@
 # Orbital
 
-Orbital is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Prospect Building, Bristol on Fri, 18 Dec 2026.
+Orbital is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Prospect Building, Bristol on Fri, 18 Dec 2026.
 
-Orbital is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside Paranoid London, Carl Craig and DJ Paulette. Next up: The Prospect Building, Bristol on Fri 18 Dec.
+Orbital is an electronica and house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 15 more. Often billed alongside Paranoid London, Carl Craig and DJ Paulette. Next up: The Prospect Building, Bristol on Fri 18 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Orbital is an electronica and house artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- PROGRESS, Manchester — Sat, 2 May 2026
-- The Magic Garden, London — Fri, 24 Oct 2025
-- M-BIA, Berlin — Wed, 24 Sept 2025
-- TBA - Dmos People West Mid Showground, Berwick Road, Shrewsbury, SY1 2PL, Birmingham — Fri, 19 Sept 2025
-- M-BIA, Berlin — Wed, 20 Aug 2025
-- TBA, Brussels — Fri, 27 Jun 2025
-- Parc del Fòrum, Barcelona — Fri, 13 Jun 2025
-- O2 Academy Leeds, Leeds — Fri, 4 Apr 2025
+- PROGRESS, Manchester · Sat, 2 May 2026
+- The Magic Garden, London · Fri, 24 Oct 2025
+- M-BIA, Berlin · Wed, 24 Sept 2025
+- TBA - Dmos People West Mid Showground, Berwick Road, Shrewsbury, SY1 2PL, Birmingham · Fri, 19 Sept 2025
+- M-BIA, Berlin · Wed, 20 Aug 2025
+- TBA, Brussels · Fri, 27 Jun 2025
+- Parc del Fòrum, Barcelona · Fri, 13 Jun 2025
+- O2 Academy Leeds, Leeds · Fri, 4 Apr 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Kinky Malinki Ibiza Closing Party at O Beach
 
-Kinky Malinki Ibiza Closing Party at O Beach on Sun 4 Oct, Ibiza. House. Preview the line-up and save it on soundcheck.
+Kinky Malinki Ibiza Closing Party at O Beach on Sun 4 Oct, Ibiza. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

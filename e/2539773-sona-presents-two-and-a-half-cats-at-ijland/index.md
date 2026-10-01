@@ -1,6 +1,6 @@
 # Sona presents: Two and A Half Cats at Ijland
 
-Sona presents: Two and A Half Cats at Ijland on Mon 26 Oct, Amsterdam. House and Deep House. Preview the line-up and save it on soundcheck.
+Sona presents: Two and A Half Cats at Ijland on Mon 26 Oct, Amsterdam. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

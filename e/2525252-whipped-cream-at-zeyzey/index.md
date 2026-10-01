@@ -1,6 +1,6 @@
 # Whipped Cream at ZeyZey
 
-Whipped Cream at ZeyZey on Sat 3 Oct, Miami. Bass. Preview the line-up and save it on soundcheck.
+Whipped Cream at ZeyZey on Sat 3 Oct, Miami. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

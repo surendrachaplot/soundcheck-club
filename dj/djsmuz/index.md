@@ -1,8 +1,8 @@
 # djsmuz
 
-djsmuz is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Buff Club, Glasgow on Fri, 30 Oct 2026.
+djsmuz is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Buff Club, Glasgow on Fri, 30 Oct 2026.
 
-djsmuz is a house and disco artist based in United Kingdom, tracked on soundcheck, with 37 sets logged across Glasgow. Often billed alongside Jenn Gunn, Tropicaux and C Frame. Next up: The Buff Club, Glasgow on Fri 30 Oct.
+djsmuz is a house and disco artist based in United Kingdom, with 37 gigs on soundcheck across Glasgow. Often billed alongside Jenn Gunn, Tropicaux and C Frame. Next up: The Buff Club, Glasgow on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ djsmuz is a house and disco artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- The Buff Club, Glasgow — Fri, 25 Sept 2026
-- The Buff Club, Glasgow — Fri, 18 Sept 2026
-- La Cheetah Club, Glasgow — Tue, 15 Sept 2026
-- La Cheetah Club, Glasgow — Fri, 11 Sept 2026
-- The Buff Club, Glasgow — Fri, 11 Sept 2026
-- The Buff Club, Glasgow — Fri, 21 Aug 2026
-- The Buff Club, Glasgow — Fri, 14 Aug 2026
-- The Buff Club, Glasgow — Fri, 31 Jul 2026
+- The Buff Club, Glasgow · Fri, 25 Sept 2026
+- The Buff Club, Glasgow · Fri, 18 Sept 2026
+- La Cheetah Club, Glasgow · Tue, 15 Sept 2026
+- La Cheetah Club, Glasgow · Fri, 11 Sept 2026
+- The Buff Club, Glasgow · Fri, 11 Sept 2026
+- The Buff Club, Glasgow · Fri, 21 Aug 2026
+- The Buff Club, Glasgow · Fri, 14 Aug 2026
+- The Buff Club, Glasgow · Fri, 31 Jul 2026
 
 ## Shares bills with
 

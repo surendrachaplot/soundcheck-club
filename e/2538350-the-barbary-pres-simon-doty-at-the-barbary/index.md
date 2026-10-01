@@ -1,6 +1,6 @@
 # The Barbary pres. SIMON DOTY at The Barbary
 
-The Barbary pres. SIMON DOTY on Fri 2 Oct, Philadelphia. House and Tech House. Preview the line-up and save it on soundcheck.
+The Barbary pres. SIMON DOTY on Fri 2 Oct, Philadelphia. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

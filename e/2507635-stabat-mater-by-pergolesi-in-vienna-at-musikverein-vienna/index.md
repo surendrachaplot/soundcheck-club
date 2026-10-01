@@ -1,6 +1,6 @@
 # Stabat Mater by Pergolesi in Vienna at Musikverein, Vienna
 
-Stabat Mater by Pergolesi in Vienna at Musikverein, Vienna on Sat 10 Oct, Vienna. Classical. Preview the line-up and save it on soundcheck.
+Stabat Mater by Pergolesi in Vienna at Musikverein, Vienna on Sat 10 Oct, Vienna. Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

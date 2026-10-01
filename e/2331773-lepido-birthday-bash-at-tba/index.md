@@ -1,6 +1,6 @@
 # LEPIDO Birthday Bash at TBA
 
-LEPIDO Birthday Bash at TBA on Sat 24 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
+LEPIDO Birthday Bash at TBA on Sat 24 Oct, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

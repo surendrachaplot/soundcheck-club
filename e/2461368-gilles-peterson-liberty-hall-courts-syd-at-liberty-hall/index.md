@@ -1,6 +1,6 @@
 # Gilles Peterson - Liberty Hall COURTS - SYD at Liberty Hall
 
-Gilles Peterson - Liberty Hall COURTS - SYD on Sun 15 Nov, Sydney. 4 artists on the bill: Bria, Gilles Peterson, Kamma and Masalo. Preview the line-up and save it on soundcheck.
+Gilles Peterson - Liberty Hall COURTS - SYD on Sun 15 Nov, Sydney. 4 artists: Bria, Gilles Peterson, Kamma and Masalo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

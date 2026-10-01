@@ -1,6 +1,6 @@
 # HATTONRIGG 50th ANNIVERSARY CHRISTMAS DISCO NIGHT at The Imperial Social Club
 
-HATTONRIGG 50th ANNIVERSARY CHRISTMAS DISCO NIGHT at The Imperial Social Club on Sat 19 Dec, Glasgow. Disco. Preview the line-up and save it on soundcheck.
+HATTONRIGG 50th ANNIVERSARY CHRISTMAS DISCO NIGHT at The Imperial Social Club on Sat 19 Dec, Glasgow. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Amtrac, CRi (DJ Set), Dmitry Molosh at Ministry Of Sound
 
-Amtrac, CRi (DJ Set), Dmitry Molosh at Ministry Of Sound on Sat 24 Oct, London. 7 artists on the bill: Amtrac, CRi, Dmitry Molosh and Leena Punks and 3 more. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Amtrac, CRi (DJ Set), Dmitry Molosh at Ministry Of Sound on Sat 24 Oct, London. 7 artists: Amtrac, CRi, Dmitry Molosh and Leena Punks and 3 more. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

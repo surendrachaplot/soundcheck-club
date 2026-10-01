@@ -1,6 +1,6 @@
 # Itzel Club presents: Melittah supported by REMIXIA at Itzel Club
 
-Itzel Club presents: Melittah supported by REMIXIA on Thu 1 Oct, London. 1 artist on the bill: REMIXIA. House. Preview the line-up and save it on soundcheck.
+Itzel Club presents: Melittah supported by REMIXIA on Thu 1 Oct, London. 1 artist: REMIXIA. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

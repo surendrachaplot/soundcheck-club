@@ -1,6 +1,6 @@
 # Saoirse Dream x Estelle Allen at Signature Brew Taproom & Venue
 
-Saoirse Dream x Estelle Allen at Signature Brew Taproom & Venue on Fri 13 Nov, London. Electronica. Preview the line-up and save it on soundcheck.
+Saoirse Dream x Estelle Allen at Signature Brew Taproom & Venue on Fri 13 Nov, London. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

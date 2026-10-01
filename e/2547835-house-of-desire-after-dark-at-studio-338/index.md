@@ -1,6 +1,6 @@
 # House of Desire After Dark at Studio 338
 
-House of Desire After Dark at Studio 338 on Fri 23 Oct, London. House and Afro House. Preview the line-up and save it on soundcheck.
+House of Desire After Dark at Studio 338 on Fri 23 Oct, London. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OPEN AIR HOUSE TO TECHNO - PASSION CAISSON x HIDDEN GARDEN at TBA - PARC DES DROITS DE L'HOMME
 
-OPEN AIR HOUSE TO TECHNO - PASSION CAISSON x HIDDEN GARDEN at TBA - PARC DES DROITS DE L'HOMME on Sat 3 Oct, Lyon. 2 artists on the bill: Messina and MRXY. Techno and House. Preview the line-up and save it on soundcheck.
+OPEN AIR HOUSE TO TECHNO - PASSION CAISSON x HIDDEN GARDEN at TBA - PARC DES DROITS DE L'HOMME on Sat 3 Oct, Lyon. 2 artists: Messina and MRXY. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Trio Mandili at Akvárium Klub
 
-Trio Mandili at Akvárium Klub on Thu 22 Oct, Budapest. Preview the line-up and save it on soundcheck.
+Trio Mandili at Akvárium Klub on Thu 22 Oct, Budapest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

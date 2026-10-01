@@ -1,6 +1,6 @@
 # The Broad Street Disco at broad hall.
 
-The Broad Street Disco at broad hall. on Fri 2 Oct, Philadelphia. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+The Broad Street Disco at broad hall. on Fri 2 Oct, Philadelphia. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

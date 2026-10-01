@@ -1,8 +1,8 @@
 # Otorongo
 
-Otorongo is a Downtempo and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Felons Barrel Hall, Brisbane on Fri, 2 Oct 2026.
+Otorongo is a Downtempo and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Felons Barrel Hall, Brisbane on Fri, 2 Oct 2026.
 
-Otorongo is a downtempo and electronica artist based in Chile, tracked on soundcheck, with 19 sets logged across Barcelona, Brisbane, Melbourne and Sydney. Often billed alongside Cuerpo Negro, Martha van Straaten and Phil Smart. Next up: Felons Barrel Hall, Brisbane on Fri 2 Oct.
+Otorongo is a downtempo and electronica artist based in Chile, with 19 gigs on soundcheck across Barcelona, Brisbane, Melbourne and Sydney. Often billed alongside Cuerpo Negro, Martha van Straaten and Phil Smart. Next up: Felons Barrel Hall, Brisbane on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Otorongo is a downtempo and electronica artist based in Chile, tracked on soundc
 
 ## Recently played
 
-- Felons Barrel Hall, Brisbane — Fri, 4 Sept 2026
-- TBA, Barcelona — Sat, 1 Aug 2026
-- Felons Barrel Hall, Brisbane — Thu, 2 Apr 2026
-- Felons Barrel Hall, Brisbane — Fri, 6 Jun 2025
-- Echo & Bounce, Brisbane — Sat, 22 Mar 2025
-- Felons Barrel Hall, Brisbane — Sat, 9 Nov 2024
-- The Evelyn Hotel, Melbourne — Fri, 8 Nov 2024
-- Echo & Bounce, Brisbane — Sun, 20 Oct 2024
+- Felons Barrel Hall, Brisbane · Fri, 4 Sept 2026
+- TBA, Barcelona · Sat, 1 Aug 2026
+- Felons Barrel Hall, Brisbane · Thu, 2 Apr 2026
+- Felons Barrel Hall, Brisbane · Fri, 6 Jun 2025
+- Echo & Bounce, Brisbane · Sat, 22 Mar 2025
+- Felons Barrel Hall, Brisbane · Sat, 9 Nov 2024
+- The Evelyn Hotel, Melbourne · Fri, 8 Nov 2024
+- Echo & Bounce, Brisbane · Sun, 20 Oct 2024
 
 ## Shares bills with
 

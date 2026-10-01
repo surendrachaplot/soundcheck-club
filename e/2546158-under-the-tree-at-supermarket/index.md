@@ -1,6 +1,6 @@
 # under the tree at Supermarket
 
-under the tree at Supermarket on Sat 24 Oct, Zurich. 3 artists on the bill: Anthik, Elia Nafzger and Flavio (CH). Preview the line-up and save it on soundcheck.
+under the tree at Supermarket on Sat 24 Oct, Zurich. 3 artists: Anthik, Elia Nafzger and Flavio (CH). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

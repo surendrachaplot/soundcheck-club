@@ -1,6 +1,6 @@
 # TELETECH x SHINE -- JOWI [ALL NIGHT LONG] at The Limelight
 
-TELETECH x SHINE -- JOWI [ALL NIGHT LONG] at The Limelight on Sat 24 Oct, Belfast. Preview the line-up and save it on soundcheck.
+TELETECH x SHINE -- JOWI [ALL NIGHT LONG] at The Limelight on Sat 24 Oct, Belfast. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

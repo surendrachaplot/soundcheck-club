@@ -1,6 +1,6 @@
 # LOOP LAUNCH PARTY // £4 DRINKS at Electric Ballroom
 
-LOOP LAUNCH PARTY // £4 DRINKS at Electric Ballroom on Sat 3 Oct, London. House and R&B. Preview the line-up and save it on soundcheck.
+LOOP LAUNCH PARTY // £4 DRINKS at Electric Ballroom on Sat 3 Oct, London. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

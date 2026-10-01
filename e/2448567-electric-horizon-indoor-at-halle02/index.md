@@ -1,6 +1,6 @@
 # ELECTRIC HORIZON INDOOR at halle02
 
-ELECTRIC HORIZON INDOOR at halle02 on Sat 21 Nov, Heidelberg. 5 artists on the bill: DeGuzman, DJ Achim Feuervogel, In Verruf and Paraçek and 1 more. Preview the line-up and save it on soundcheck.
+ELECTRIC HORIZON INDOOR at halle02 on Sat 21 Nov, Heidelberg. 5 artists: DeGuzman, DJ Achim Feuervogel, In Verruf and Paraçek and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

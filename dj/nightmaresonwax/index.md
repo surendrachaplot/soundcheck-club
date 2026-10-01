@@ -1,8 +1,8 @@
 # Nightmares on Wax
 
-Nightmares on Wax is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Onassis Ready, Athens on Fri, 9 Oct 2026.
+Nightmares on Wax is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
-Nightmares on Wax is a house and electronica artist tracked on soundcheck, with 79 sets logged across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside Colleen 'Cosmo' Murphy, Mr Scruff and Romare. Next up: Onassis Ready, Athens on Fri 9 Oct.
+Nightmares on Wax is a house and electronica artist, with 79 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 33 more. Often billed alongside Colleen 'Cosmo' Murphy, Mr Scruff and Romare. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Nightmares on Wax is a house and electronica artist tracked on soundcheck, with 
 
 ## Recently played
 
-- 528 Ibiza, Ibiza — Tue, 25 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
-- Else, Berlin — Sat, 8 Aug 2026
-- Burgess Park, London — Sun, 2 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 17 Jul 2026
-- Moseley Park, Birmingham — Fri, 10 Jul 2026
-- Electric Studios, Sheffield — Fri, 12 Jun 2026
-- TBA - Multiple venues, Sheffield — Fri, 12 Jun 2026
+- 528 Ibiza, Ibiza · Tue, 25 Aug 2026
+- Burgess Park, London · Sun, 9 Aug 2026
+- Else, Berlin · Sat, 8 Aug 2026
+- Burgess Park, London · Sun, 2 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 17 Jul 2026
+- Moseley Park, Birmingham · Fri, 10 Jul 2026
+- Electric Studios, Sheffield · Fri, 12 Jun 2026
+- TBA - Multiple venues, Sheffield · Fri, 12 Jun 2026
 
 ## Shares bills with
 

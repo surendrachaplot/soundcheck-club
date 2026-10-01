@@ -1,6 +1,6 @@
 # SYN LDN: Eliminate with special guest: RIOT at Oslo Hackney
 
-SYN LDN: Eliminate with special guest: RIOT at Oslo Hackney on Fri 9 Oct, London. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+SYN LDN: Eliminate with special guest: RIOT at Oslo Hackney on Fri 9 Oct, London. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

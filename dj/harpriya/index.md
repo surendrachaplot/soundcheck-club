@@ -1,8 +1,8 @@
 # harpriya
 
-harpriya is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sneaky Pete's, Edinburgh on Wed, 14 Oct 2026.
+harpriya is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sneaky Pete's, Edinburgh on Wed, 14 Oct 2026.
 
-harpriya is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 80 sets logged across Berlin, Bristol, Edinburgh and Leeds and 3 more. Often billed alongside Buckley (UK), REA (UK) and Buckley. Next up: Sneaky Pete's, Edinburgh on Wed 14 Oct.
+harpriya is a garage and bass artist based in United Kingdom, with 80 gigs on soundcheck across Berlin, Bristol, Edinburgh and Leeds and 3 more. Often billed alongside Buckley (UK), REA (UK) and Buckley. Next up: Sneaky Pete's, Edinburgh on Wed 14 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ harpriya is a garage and bass artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Ballroom at Palais, London — Sat, 19 Sept 2026
-- The Cause, London — Sun, 26 Jul 2026
-- OXI, Berlin — Thu, 9 Jul 2026
-- Various Venues, London — Sat, 30 May 2026
-- The Island, Bristol — Fri, 15 May 2026
-- Ormside Projects, London — Fri, 1 May 2026
-- Ninety One, London — Fri, 27 Mar 2026
-- The Glove That Fits, London — Sat, 7 Mar 2026
+- Ballroom at Palais, London · Sat, 19 Sept 2026
+- The Cause, London · Sun, 26 Jul 2026
+- OXI, Berlin · Thu, 9 Jul 2026
+- Various Venues, London · Sat, 30 May 2026
+- The Island, Bristol · Fri, 15 May 2026
+- Ormside Projects, London · Fri, 1 May 2026
+- Ninety One, London · Fri, 27 Mar 2026
+- The Glove That Fits, London · Sat, 7 Mar 2026
 
 ## Shares bills with
 

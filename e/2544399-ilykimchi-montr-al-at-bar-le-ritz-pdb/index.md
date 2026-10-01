@@ -1,6 +1,6 @@
 # ilykimchi - Montréal at Bar Le Ritz PDB
 
-ilykimchi - Montréal at Bar Le Ritz PDB on Thu 12 Nov, Montreal. Electro and Pop. Preview the line-up and save it on soundcheck.
+ilykimchi - Montréal at Bar Le Ritz PDB on Thu 12 Nov, Montreal. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

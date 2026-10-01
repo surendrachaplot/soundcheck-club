@@ -1,6 +1,6 @@
 # Laine Klubiöö: State OFFF (NL/ZW) at Uus Laine
 
-Laine Klubiöö: State OFFF (NL/ZW) at Uus Laine on Fri 11 Dec, Tallinn. 1 artist on the bill: State OFFF. Gqom. Preview the line-up and save it on soundcheck.
+Laine Klubiöö: State OFFF (NL/ZW) at Uus Laine on Fri 11 Dec, Tallinn. 1 artist: State OFFF. Gqom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

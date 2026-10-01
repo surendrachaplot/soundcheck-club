@@ -1,6 +1,6 @@
 # Club Bahnhof Ehrenfeld with H.LLS // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts at Club Bahnhof Ehrenfeld
 
-Club Bahnhof Ehrenfeld with H.LLS // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts on Sat 24 Oct, Cologne. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Club Bahnhof Ehrenfeld with H.LLS // Ehrenfeld XL – 10 Clubs, 1 Night, 2 Districts on Sat 24 Oct, Cologne. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

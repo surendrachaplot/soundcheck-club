@@ -1,6 +1,6 @@
 # Bus zur Snakepit 2026 The Need for Speed Uptempo Hardcore at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-Bus zur Snakepit 2026 The Need for Speed Uptempo Hardcore at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 7 Nov, Frankfurt. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Bus zur Snakepit 2026 The Need for Speed Uptempo Hardcore at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt on Sat 7 Nov, Frankfurt. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

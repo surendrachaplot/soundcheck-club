@@ -1,6 +1,6 @@
 # Open Decks Social - A Community Open Decks at Dragonfly
 
-Open Decks Social - A Community Open Decks at Dragonfly on Sun 6 Dec, Edinburgh. Preview the line-up and save it on soundcheck.
+Open Decks Social - A Community Open Decks at Dragonfly on Sun 6 Dec, Edinburgh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LEENALCHI *live at Gretchen
 
-LEENALCHI *live at Gretchen on Sun 15 Nov, Berlin. Preview the line-up and save it on soundcheck.
+LEENALCHI *live at Gretchen on Sun 15 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Bsmt 254
 
-Bsmt 254 is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Project Nowhere 2026: Tony Price DJ/LIVE HYBRID + Strip Lacquer + DOWN TOWN" on Fri, 2 Oct 2026.
+Bsmt 254 is a music venue in Toronto with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Project Nowhere 2026: Tony Price DJ/LIVE HYBRID + Strip Lacquer + DOWN TOWN" on Fri, 2 Oct 2026.
 
-Bsmt 254 is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including anise, Assassin Bug, AUX_ID and Babies R Stupid and 2 more. Browse upcoming dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
+Bsmt 254 is a music venue in Toronto listed on soundcheck. 7 upcoming gigs, with line-ups including anise, Assassin Bug, AUX_ID and Babies R Stupid and 2 more. See dates, start times and who's playing. 254 Lansdowne Ave, Toronto, ON M6H 3X9.
 
 ## What's on
 

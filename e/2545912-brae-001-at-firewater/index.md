@@ -1,6 +1,6 @@
 # BRAE 001 at Firewater
 
-BRAE 001 at Firewater on Sat 17 Oct, Glasgow. House. Preview the line-up and save it on soundcheck.
+BRAE 001 at Firewater on Sat 17 Oct, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SCHRANZ MOVEMENT: O.B.I at Gate Milano
 
-SCHRANZ MOVEMENT: O.B.I at Gate Milano on Sat 3 Oct, Milan. 2 artists on the bill: Dstm and O.B.I. (DE). Preview the line-up and save it on soundcheck.
+SCHRANZ MOVEMENT: O.B.I at Gate Milano on Sat 3 Oct, Milan. 2 artists: Dstm and O.B.I. (DE). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

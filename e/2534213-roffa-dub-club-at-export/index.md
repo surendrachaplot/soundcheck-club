@@ -1,6 +1,6 @@
 # Roffa dub club at export
 
-Roffa dub club at export on Sat 3 Oct, Rotterdam. Dub. Preview the line-up and save it on soundcheck.
+Roffa dub club at export on Sat 3 Oct, Rotterdam. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

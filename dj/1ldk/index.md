@@ -1,8 +1,8 @@
 # 1LDK
 
-1LDK is a Pop and Experimental artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Thu, 1 Oct 2026.
+1LDK is a Pop and Experimental artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Thu, 1 Oct 2026.
 
-1LDK is a pop and experimental artist based in Japan, tracked on soundcheck, with 7 sets logged across Berlin, Cologne, London and Paris and 1 more. Often billed alongside Andriana-Yaroslava Saienko, Carrier and Catu Diosis. Next up: OXI, Berlin on Thu 1 Oct.
+1LDK is a pop and experimental artist based in Japan, with 7 gigs on soundcheck across Berlin, Cologne, London and Paris and 1 more. Often billed alongside Andriana-Yaroslava Saienko, Carrier and Catu Diosis. Next up: OXI, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -16,8 +16,8 @@
 
 ## Recently played
 
-- Enter Shibuya, Tokyo — Mon, 21 Sept 2026
-- Sasazuka Bowl, Tokyo — Thu, 10 Sept 2026
+- Enter Shibuya, Tokyo · Mon, 21 Sept 2026
+- Sasazuka Bowl, Tokyo · Thu, 10 Sept 2026
 
 ## Shares bills with
 

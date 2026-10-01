@@ -1,6 +1,6 @@
 # Teshi's Fine Hour: Japanese Ambient - Kankyō Ongaku with B.Forest at Notre Dame Music Bar
 
-Teshi's Fine Hour: Japanese Ambient - Kankyō Ongaku with B.Forest at Notre Dame Music Bar on Sat 24 Oct, Paris. Ambient. Preview the line-up and save it on soundcheck.
+Teshi's Fine Hour: Japanese Ambient - Kankyō Ongaku with B.Forest at Notre Dame Music Bar on Sat 24 Oct, Paris. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

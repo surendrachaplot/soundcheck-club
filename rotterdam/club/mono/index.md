@@ -1,8 +1,8 @@
 # Mono
 
-Mono is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sendebibu - FORSA ANSESTRAL" on Fri, 2 Oct 2026.
+Mono is a music venue in Rotterdam with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sendebibu - FORSA ANSESTRAL" on Fri, 2 Oct 2026.
 
-Mono is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Franky Sticks, Hey Bony, Jesse Maas and Jewel and 2 more. Browse upcoming dates, start times and who's playing. Vijverhofstraat 15, 3032 SB Rotterdam.
+Mono is a music venue in Rotterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Franky Sticks, Hey Bony, Jesse Maas and Jewel and 2 more. See dates, start times and who's playing. Vijverhofstraat 15, 3032 SB Rotterdam.
 
 ## What's on
 

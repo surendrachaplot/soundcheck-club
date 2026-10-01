@@ -1,6 +1,6 @@
 # Josh Baker at Phantom, Paris
 
-Josh Baker at Phantom, Paris on Fri 16 Oct, Paris. 1 artist on the bill: Josh Baker. Preview the line-up and save it on soundcheck.
+Josh Baker at Phantom, Paris on Fri 16 Oct, Paris. 1 artist: Josh Baker. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

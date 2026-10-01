@@ -1,8 +1,8 @@
 # BARdzo bardzo
 
-BARdzo bardzo is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "TRZY BRZMIENIA" on Thu, 1 Oct 2026.
+BARdzo bardzo is a music venue in Warsaw with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TRZY BRZMIENIA" on Thu, 1 Oct 2026.
 
-BARdzo bardzo is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including DJCHARLY and Janus Rasmussen. Browse upcoming dates, start times and who's playing. Nowogrodzka 11, 00-513 Warszawa.
+BARdzo bardzo is a music venue in Warsaw listed on soundcheck. 4 upcoming gigs, with line-ups including DJCHARLY and Janus Rasmussen. See dates, start times and who's playing. Nowogrodzka 11, 00-513 Warszawa.
 
 ## What's on
 

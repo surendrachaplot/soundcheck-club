@@ -1,6 +1,6 @@
 # SHANGRI-LA 10.02 at Dojo Boutique Club
 
-SHANGRI-LA 10.02 at Dojo Boutique Club on Fri 2 Oct, Budapest. House and Afro House. Preview the line-up and save it on soundcheck.
+SHANGRI-LA 10.02 at Dojo Boutique Club on Fri 2 Oct, Budapest. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

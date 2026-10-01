@@ -1,6 +1,6 @@
 # Urban Spree KLUBNACHT (Maccari, Guille) at Urban Spree
 
-Urban Spree KLUBNACHT (Maccari, Guille) on Fri 2 Oct, Berlin. 2 artists on the bill: Guille and Maccari. Techno. Preview the line-up and save it on soundcheck.
+Urban Spree KLUBNACHT (Maccari, Guille) on Fri 2 Oct, Berlin. 2 artists: Guille and Maccari. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

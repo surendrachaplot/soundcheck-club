@@ -1,6 +1,6 @@
 # POPP Day Out: Autumn 2026 at Ta’ Qali National Park
 
-POPP Day Out: Autumn 2026 at Ta’ Qali National Park on Sat 10 Oct, Malta. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+POPP Day Out: Autumn 2026 at Ta’ Qali National Park on Sat 10 Oct, Malta. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

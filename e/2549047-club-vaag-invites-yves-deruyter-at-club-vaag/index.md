@@ -1,6 +1,6 @@
 # Club Vaag invites Yves Deruyter at Club Vaag
 
-Club Vaag invites Yves Deruyter on Sat 19 Dec, Antwerp. 1 artist on the bill: Yves Deruyter. Preview the line-up and save it on soundcheck.
+Club Vaag invites Yves Deruyter on Sat 19 Dec, Antwerp. 1 artist: Yves Deruyter. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

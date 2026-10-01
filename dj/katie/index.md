@@ -1,8 +1,8 @@
 # Katie
 
-Katie is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Distrikt, Leeds on Fri, 16 Oct 2026.
+Katie is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Distrikt, Leeds on Fri, 16 Oct 2026.
 
-Katie is a tech house and house artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Copenhagen and Leeds and 4 more. Often billed alongside AGNES (IT), Big Animal Theory and Bjarke Høver. Next up: Distrikt, Leeds on Fri 16 Oct.
+Katie is a tech house and house artist based in Spain, with 11 gigs on soundcheck across Barcelona, Berlin, Copenhagen and Leeds and 4 more. Often billed alongside AGNES (IT), Big Animal Theory and Bjarke Høver. Next up: Distrikt, Leeds on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Katie is a tech house and house artist based in Spain, tracked on soundcheck, wi
 
 ## Recently played
 
-- Distrikt, Leeds — Sat, 23 May 2026
-- Althea's Rooftop, New York City — Sat, 14 Jun 2025
-- Razzmatazz, Barcelona — Sun, 11 May 2025
-- TBA - Secret Location, Berlin — Fri, 21 Feb 2025
-- TBA - 48 Timer Festival , Copenhagen — Fri, 10 May 2024
-- OX.Space, Rotterdam — Fri, 22 Mar 2024
-- Circus Osaka, Osaka — Sat, 18 Nov 2023
-- Circus Tokyo, Tokyo — Fri, 10 Nov 2023
+- Distrikt, Leeds · Sat, 23 May 2026
+- Althea's Rooftop, New York City · Sat, 14 Jun 2025
+- Razzmatazz, Barcelona · Sun, 11 May 2025
+- TBA - Secret Location, Berlin · Fri, 21 Feb 2025
+- TBA - 48 Timer Festival , Copenhagen · Fri, 10 May 2024
+- OX.Space, Rotterdam · Fri, 22 Mar 2024
+- Circus Osaka, Osaka · Sat, 18 Nov 2023
+- Circus Tokyo, Tokyo · Fri, 10 Nov 2023
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Alena Vox
 
-Alena Vox is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
+Alena Vox is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location , Mexico City on Sat, 10 Oct 2026.
 
-Alena Vox is a house and deep house artist based in Mexico, tracked on soundcheck, with 70 sets logged across Mexico City, Portland and San Diego. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Rubinskee. Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
+Alena Vox is a house and deep house artist based in Mexico, with 70 gigs on soundcheck across Mexico City, Portland and San Diego. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Rubinskee. Next up: TBA - Secret Location , Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Alena Vox is a house and deep house artist based in Mexico, tracked on soundchec
 
 ## Recently played
 
-- YuYu Cine Club, Mexico City — Sat, 29 Aug 2026
-- Fünk, Mexico City — Thu, 6 Aug 2026
-- Sunday Sunday, Mexico City — Sun, 19 Jul 2026
-- MiMi Discoteque, Mexico City — Fri, 5 Jun 2026
-- MiMi Discoteque, Mexico City — Sat, 30 May 2026
-- Departamento, Mexico City — Wed, 13 May 2026
-- Departamento, Mexico City — Wed, 11 Mar 2026
-- Fünk, Mexico City — Thu, 26 Feb 2026
+- YuYu Cine Club, Mexico City · Sat, 29 Aug 2026
+- Fünk, Mexico City · Thu, 6 Aug 2026
+- Sunday Sunday, Mexico City · Sun, 19 Jul 2026
+- MiMi Discoteque, Mexico City · Fri, 5 Jun 2026
+- MiMi Discoteque, Mexico City · Sat, 30 May 2026
+- Departamento, Mexico City · Wed, 13 May 2026
+- Departamento, Mexico City · Wed, 11 Mar 2026
+- Fünk, Mexico City · Thu, 26 Feb 2026
 
 ## Shares bills with
 

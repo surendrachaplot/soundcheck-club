@@ -1,8 +1,8 @@
 # James Poole
 
-James Poole is a House and Minimal artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 528 Ibiza, Ibiza on Fri, 2 Oct 2026.
+James Poole is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 528 Ibiza, Ibiza on Fri, 2 Oct 2026.
 
-James Poole is a house and minimal artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Eindhoven, Ibiza, Manchester and Melbourne and 2 more. Often billed alongside East End Dubs, Ryan Nicholls and Sosa. Next up: 528 Ibiza, Ibiza on Fri 2 Oct.
+James Poole is a house and minimal artist based in United Kingdom, with 6 gigs on soundcheck across Eindhoven, Ibiza, Manchester and Melbourne and 2 more. Often billed alongside East End Dubs, Ryan Nicholls and Sosa. Next up: 528 Ibiza, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,7 +16,7 @@ James Poole is a house and minimal artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- FORGE, Sheffield — Sat, 5 Sept 2026
+- FORGE, Sheffield · Sat, 5 Sept 2026
 
 ## Shares bills with
 

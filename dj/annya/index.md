@@ -1,8 +1,8 @@
 # ANNYA
 
-ANNYA is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at El Secreto De Rosita, Washington DC on Thu, 8 Oct 2026.
+ANNYA is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at El Secreto De Rosita, Washington DC on Thu, 8 Oct 2026.
 
-ANNYA is a house and deep house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Montreal, Paris and Washington DC. Often billed alongside VYNX, Jess in the Flesh and NABŪ. Next up: El Secreto De Rosita, Washington DC on Thu 8 Oct.
+ANNYA is a house and deep house artist based in United States of America, with 30 gigs on soundcheck across Montreal, Paris and Washington DC. Often billed alongside VYNX, Jess in the Flesh and NABŪ. Next up: El Secreto De Rosita, Washington DC on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ANNYA is a house and deep house artist based in United States of America, tracke
 
 ## Recently played
 
-- Flash, Washington DC — Fri, 24 Jul 2026
-- 618 DC, Washington DC — Sat, 30 May 2026
-- Flash, Washington DC — Sun, 10 May 2026
-- TRANSMISSION DC, Washington DC — Sat, 17 Jan 2026
-- Flash, Washington DC — Wed, 31 Dec 2025
-- Flash, Washington DC — Sat, 1 Nov 2025
-- BERHTA, Washington DC — Sat, 18 Oct 2025
-- TBA - City State Public House, Washington DC — Sun, 31 Aug 2025
+- Flash, Washington DC · Fri, 24 Jul 2026
+- 618 DC, Washington DC · Sat, 30 May 2026
+- Flash, Washington DC · Sun, 10 May 2026
+- TRANSMISSION DC, Washington DC · Sat, 17 Jan 2026
+- Flash, Washington DC · Wed, 31 Dec 2025
+- Flash, Washington DC · Sat, 1 Nov 2025
+- BERHTA, Washington DC · Sat, 18 Oct 2025
+- TBA - City State Public House, Washington DC · Sun, 31 Aug 2025
 
 ## Shares bills with
 

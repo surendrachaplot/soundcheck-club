@@ -1,6 +1,6 @@
 # Lost In Kyiv (FR / Pelagic Rec.) at Neue Zukunft
 
-Lost In Kyiv (FR / Pelagic Rec.) at Neue Zukunft on Mon 30 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Lost In Kyiv (FR / Pelagic Rec.) at Neue Zukunft on Mon 30 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

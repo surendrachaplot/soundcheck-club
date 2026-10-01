@@ -1,6 +1,6 @@
 # Breakfast Club ADE: One Long Groove at Pllek
 
-Breakfast Club ADE: One Long Groove at Pllek on Thu 22 Oct, Amsterdam. 7 artists on the bill: dj sweet6teen, Dyed Soundorom, Gene On Earth and Midland and 3 more. House and Deep House. Preview the line-up and save it on soundcheck.
+Breakfast Club ADE: One Long Groove at Pllek on Thu 22 Oct, Amsterdam. 7 artists: dj sweet6teen, Dyed Soundorom, Gene On Earth and Midland and 3 more. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SUT presents The Underground City 4 at Absturz
 
-SUT presents The Underground City 4 at Absturz on Fri 23 Oct, Leipzig. Techno. Preview the line-up and save it on soundcheck.
+SUT presents The Underground City 4 at Absturz on Fri 23 Oct, Leipzig. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

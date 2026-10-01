@@ -1,6 +1,6 @@
 # People You May Know: Rich NXT at Green Room NYC
 
-People You May Know: Rich NXT at Green Room NYC on Fri 2 Oct, New York City. 6 artists on the bill: Auphoria, Jeny Michelle, MANE (IN) and RICCI (US) and 2 more. House and Minimal. Preview the line-up and save it on soundcheck.
+People You May Know: Rich NXT at Green Room NYC on Fri 2 Oct, New York City. 6 artists: Auphoria, Jeny Michelle, MANE (IN) and RICCI (US) and 2 more. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

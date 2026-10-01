@@ -1,8 +1,8 @@
 # Max Web
 
-Max Web is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at EQ San Diego, San Diego on Fri, 13 Nov 2026.
+Max Web is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at EQ San Diego, San Diego on Fri, 13 Nov 2026.
 
-Max Web is a house and minimal artist based in United States of America, tracked on soundcheck, with 14 sets logged across Los Angeles, New York City and San Diego. Often billed alongside AMZEL, Ramin Majlessi and Armii1n. Next up: EQ San Diego, San Diego on Fri 13 Nov.
+Max Web is a house and minimal artist based in United States of America, with 14 gigs on soundcheck across Los Angeles, New York City and San Diego. Often billed alongside AMZEL, Ramin Majlessi and Armii1n. Next up: EQ San Diego, San Diego on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Max Web is a house and minimal artist based in United States of America, tracked
 
 ## Recently played
 
-- Green Room NYC, New York City — Fri, 18 Sept 2026
-- 3oz Dive Club, San Diego — Sat, 1 Aug 2026
-- Apollo Studio, New York City — Sat, 18 Jul 2026
-- 3oz Dive Club, San Diego — Fri, 5 Jun 2026
-- 3oz Dive Club, San Diego — Fri, 5 Jun 2026
-- Apotheke, Los Angeles — Sun, 17 May 2026
-- 3oz Dive Club, San Diego — Thu, 9 Apr 2026
-- The Prado, San Diego — Fri, 31 Oct 2025
+- Green Room NYC, New York City · Fri, 18 Sept 2026
+- 3oz Dive Club, San Diego · Sat, 1 Aug 2026
+- Apollo Studio, New York City · Sat, 18 Jul 2026
+- 3oz Dive Club, San Diego · Fri, 5 Jun 2026
+- 3oz Dive Club, San Diego · Fri, 5 Jun 2026
+- Apotheke, Los Angeles · Sun, 17 May 2026
+- 3oz Dive Club, San Diego · Thu, 9 Apr 2026
+- The Prado, San Diego · Fri, 31 Oct 2025
 
 ## Shares bills with
 

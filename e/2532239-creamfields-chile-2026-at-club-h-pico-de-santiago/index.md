@@ -1,6 +1,6 @@
 # Creamfields Chile 2026 at Club Hípico de Santiago
 
-Creamfields Chile 2026 at Club Hípico de Santiago on Sat 14 Nov, Santiago. 30 artists on the bill: Aaron Hibell, Âme, Anfisa Letyago and Azyr and 26 more. Preview the line-up and save it on soundcheck.
+Creamfields Chile 2026 at Club Hípico de Santiago on Sat 14 Nov, Santiago. 30 artists: Aaron Hibell, Âme, Anfisa Letyago and Azyr and 26 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

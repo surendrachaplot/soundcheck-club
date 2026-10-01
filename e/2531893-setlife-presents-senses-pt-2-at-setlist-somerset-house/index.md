@@ -1,6 +1,6 @@
 # SETLIFE presents SENSES PT 2 at Setlist @ Somerset House
 
-SETLIFE presents SENSES PT 2 at Setlist @ Somerset House on Sat 10 Oct, London. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
+SETLIFE presents SENSES PT 2 at Setlist @ Somerset House on Sat 10 Oct, London. Hip-Hop and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

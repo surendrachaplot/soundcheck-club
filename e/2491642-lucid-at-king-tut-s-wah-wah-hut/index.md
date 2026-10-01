@@ -1,6 +1,6 @@
 # Lucid at King Tut's Wah Wah Hut
 
-Lucid at King Tut's Wah Wah Hut on Thu 3 Dec, Glasgow. 3 artists on the bill: Jenn Gunn, PASO and Sweeney. Preview the line-up and save it on soundcheck.
+Lucid at King Tut's Wah Wah Hut on Thu 3 Dec, Glasgow. 3 artists: Jenn Gunn, PASO and Sweeney. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

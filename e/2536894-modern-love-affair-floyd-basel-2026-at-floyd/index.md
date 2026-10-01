@@ -1,6 +1,6 @@
 # Modern Love Affair (Floyd Basel 2026) at Floyd
 
-Modern Love Affair (Floyd Basel 2026) on Thu 3 Dec, Miami. Preview the line-up and save it on soundcheck.
+Modern Love Affair (Floyd Basel 2026) on Thu 3 Dec, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Paula Sanz
 
-Paula Sanz is a Techno and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Turbina, Budapest on Thu, 8 Oct 2026.
+Paula Sanz is a Techno and Acid artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Turbina, Budapest on Thu, 8 Oct 2026.
 
-Paula Sanz is a techno and acid artist based in Spain, tracked on soundcheck, with 59 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside SOLE DOSI, Dolce Potente and Marthial. Next up: Turbina, Budapest on Thu 8 Oct.
+Paula Sanz is a techno and acid artist based in Spain, with 59 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 3 more. Often billed alongside SOLE DOSI, Dolce Potente and Marthial. Next up: Turbina, Budapest on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Paula Sanz is a techno and acid artist based in Spain, tracked on soundcheck, wi
 
 ## Recently played
 
-- La Gare / Le Gore, Paris — Thu, 10 Sept 2026
-- Mia Mao, Paris — Thu, 28 May 2026
-- Arca, Milan — Sun, 17 May 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 17 Apr 2026
-- Tempio del Futuro Perduto, Milan — Sat, 28 Mar 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 20 Mar 2026
-- DKR Milano, Milan — Sun, 8 Mar 2026
-- Tempio del Futuro Perduto, Milan — Sat, 7 Feb 2026
+- La Gare / Le Gore, Paris · Thu, 10 Sept 2026
+- Mia Mao, Paris · Thu, 28 May 2026
+- Arca, Milan · Sun, 17 May 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 17 Apr 2026
+- Tempio del Futuro Perduto, Milan · Sat, 28 Mar 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 20 Mar 2026
+- DKR Milano, Milan · Sun, 8 Mar 2026
+- Tempio del Futuro Perduto, Milan · Sat, 7 Feb 2026
 
 ## Shares bills with
 

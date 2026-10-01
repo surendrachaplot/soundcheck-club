@@ -1,6 +1,6 @@
 # Kabinett der Kuriositäten at Tanzhaus West
 
-Kabinett der Kuriositäten at Tanzhaus West on Sat 3 Oct, Frankfurt. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Kabinett der Kuriositäten at Tanzhaus West on Sat 3 Oct, Frankfurt. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TS7 + Newsham - Joshua Brooks Manchester at Joshua Brooks
 
-TS7 + Newsham - Joshua Brooks Manchester on Fri 20 Nov, Manchester. 2 artists on the bill: Josh Newsham and TS7. Bass and Garage. Preview the line-up and save it on soundcheck.
+TS7 + Newsham - Joshua Brooks Manchester on Fri 20 Nov, Manchester. 2 artists: Josh Newsham and TS7. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

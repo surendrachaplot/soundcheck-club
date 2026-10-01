@@ -1,8 +1,8 @@
 # Aera
 
-Aera is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lux Fragil, Lisbon on Sat, 10 Oct 2026.
+Aera is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lux Fragil, Lisbon on Sat, 10 Oct 2026.
 
-Aera is a techno and house artist based in Germany, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires and 18 more. Often billed alongside Ivory, Mehill and Steve Challier. Next up: Lux Fragil, Lisbon on Sat 10 Oct.
+Aera is a techno and house artist based in Germany, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 18 more. Often billed alongside Ivory, Mehill and Steve Challier. Next up: Lux Fragil, Lisbon on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Aera is a techno and house artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
-- M.N.Roy, Mexico City — Fri, 25 Sept 2026
-- Drama Radio Bar, Mexico City — Tue, 22 Sept 2026
-- Kater, Berlin — Fri, 11 Sept 2026
-- Studio Club Malaga, Malaga — Sat, 28 Feb 2026
-- Kater, Berlin — Fri, 6 Feb 2026
-- Toekomstmuziek, Amsterdam — Fri, 30 Jan 2026
-- Volt Club Milano, Milan — Sat, 10 Jan 2026
-- Do Not Sit On The Furniture, Miami — Thu, 24 Jul 2025
+- M.N.Roy, Mexico City · Fri, 25 Sept 2026
+- Drama Radio Bar, Mexico City · Tue, 22 Sept 2026
+- Kater, Berlin · Fri, 11 Sept 2026
+- Studio Club Malaga, Malaga · Sat, 28 Feb 2026
+- Kater, Berlin · Fri, 6 Feb 2026
+- Toekomstmuziek, Amsterdam · Fri, 30 Jan 2026
+- Volt Club Milano, Milan · Sat, 10 Jan 2026
+- Do Not Sit On The Furniture, Miami · Thu, 24 Jul 2025
 
 ## Shares bills with
 

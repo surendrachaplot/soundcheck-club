@@ -1,6 +1,6 @@
 # INVT at Flash
 
-INVT at Flash on Sat 24 Oct, Washington DC. 1 artist on the bill: INVT. House and Tech House. Preview the line-up and save it on soundcheck.
+INVT at Flash on Sat 24 Oct, Washington DC. 1 artist: INVT. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

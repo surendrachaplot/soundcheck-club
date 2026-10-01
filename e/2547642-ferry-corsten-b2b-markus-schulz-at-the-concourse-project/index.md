@@ -1,6 +1,6 @@
 # Ferry Corsten b2b Markus Schulz at The Concourse Project
 
-Ferry Corsten b2b Markus Schulz at The Concourse Project on Fri 18 Dec, Austin. 2 artists on the bill: Ferry Corsten and Markus Schulz. Preview the line-up and save it on soundcheck.
+Ferry Corsten b2b Markus Schulz at The Concourse Project on Fri 18 Dec, Austin. 2 artists: Ferry Corsten and Markus Schulz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

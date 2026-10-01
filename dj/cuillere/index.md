@@ -1,8 +1,8 @@
 # Cuillere
 
-Cuillere is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at How Much Studios, Austin on Sat, 24 Oct 2026.
+Cuillere is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at How Much Studios, Austin on Sat, 24 Oct 2026.
 
-Cuillere is a house and deep house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Austin. Often billed alongside Knos, Above The Trees and Brett Johnson. Next up: How Much Studios, Austin on Sat 24 Oct.
+Cuillere is a house and deep house artist based in United States of America, with 10 gigs on soundcheck across Austin. Often billed alongside Knos, Above The Trees and Brett Johnson. Next up: How Much Studios, Austin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Cuillere is a house and deep house artist based in United States of America, tra
 
 ## Recently played
 
-- Neon Grotto, Austin — Thu, 23 Jul 2026
-- Kingdom Nightclub, Austin — Fri, 24 Apr 2026
-- Marlow, Austin — Thu, 31 Jul 2025
-- Higbie's, Austin — Fri, 14 Mar 2025
-- The Oven, Austin — Fri, 27 Sept 2024
-- Ética, Austin — Thu, 21 Mar 2024
-- Nomadic Beerworks, Austin — Fri, 27 Oct 2023
-- Coconut Club, Austin — Fri, 4 Aug 2023
+- Neon Grotto, Austin · Thu, 23 Jul 2026
+- Kingdom Nightclub, Austin · Fri, 24 Apr 2026
+- Marlow, Austin · Thu, 31 Jul 2025
+- Higbie's, Austin · Fri, 14 Mar 2025
+- The Oven, Austin · Fri, 27 Sept 2024
+- Ética, Austin · Thu, 21 Mar 2024
+- Nomadic Beerworks, Austin · Fri, 27 Oct 2023
+- Coconut Club, Austin · Fri, 4 Aug 2023
 
 ## Shares bills with
 

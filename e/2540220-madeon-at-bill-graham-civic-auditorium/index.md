@@ -1,6 +1,6 @@
 # Madeon at Bill Graham Civic Auditorium
 
-Madeon at Bill Graham Civic Auditorium on Fri 2 Oct, San Francisco/Oakland. 1 artist on the bill: Madeon. House and Electro. Preview the line-up and save it on soundcheck.
+Madeon at Bill Graham Civic Auditorium on Fri 2 Oct, San Francisco/Oakland. 1 artist: Madeon. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

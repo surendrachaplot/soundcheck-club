@@ -1,6 +1,6 @@
 # Algo Bien Halloween 2026 at TBA
 
-Algo Bien Halloween 2026 at TBA on Sat 31 Oct, Mexico City. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
+Algo Bien Halloween 2026 at TBA on Sat 31 Oct, Mexico City. Techno and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

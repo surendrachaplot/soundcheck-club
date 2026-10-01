@@ -1,6 +1,6 @@
 # Easttown [extended set] at BRET
 
-Easttown [extended set] at BRET on Sat 3 Oct, Amsterdam. 2 artists on the bill: Easttown and Simon Kidzoo. House. Preview the line-up and save it on soundcheck.
+Easttown [extended set] at BRET on Sat 3 Oct, Amsterdam. 2 artists: Easttown and Simon Kidzoo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mareh Festival at TBA - Fortim CE
 
-Mareh Festival at TBA - Fortim CE on Sat 26 Dec, Brazil. 8 artists on the bill: Dicky Trisco, Eric Duncan, Giu Nunez and Lakuti and 4 more. Preview the line-up and save it on soundcheck.
+Mareh Festival at TBA - Fortim CE on Sat 26 Dec, Brazil. 8 artists: Dicky Trisco, Eric Duncan, Giu Nunez and Lakuti and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

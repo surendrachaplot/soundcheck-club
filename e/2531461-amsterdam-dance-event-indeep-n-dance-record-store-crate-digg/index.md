@@ -1,6 +1,6 @@
 # Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet at InDeep'n'Dance Records
 
-Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet at InDeep'n'Dance Records on Sat 24 Oct, Amsterdam. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Dance Event - InDeep'n'Dance Record Store – Crate Digging – Meet & Greet at InDeep'n'Dance Records on Sat 24 Oct, Amsterdam. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

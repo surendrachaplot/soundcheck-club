@@ -1,6 +1,6 @@
 # Rex Club presents: Sama' Abdulhadi All night long at Rex Club
 
-Rex Club presents: Sama' Abdulhadi All night long on Fri 23 Oct, Paris. 1 artist on the bill: Sama' Abdulhadi. Techno. Preview the line-up and save it on soundcheck.
+Rex Club presents: Sama' Abdulhadi All night long on Fri 23 Oct, Paris. 1 artist: Sama' Abdulhadi. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

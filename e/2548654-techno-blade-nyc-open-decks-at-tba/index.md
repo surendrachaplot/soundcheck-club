@@ -1,6 +1,6 @@
 # Techno Blade NYC Open Decks at TBA
 
-Techno Blade NYC Open Decks at TBA on Thu 1 Oct, New York City. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Techno Blade NYC Open Decks at TBA on Thu 1 Oct, New York City. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

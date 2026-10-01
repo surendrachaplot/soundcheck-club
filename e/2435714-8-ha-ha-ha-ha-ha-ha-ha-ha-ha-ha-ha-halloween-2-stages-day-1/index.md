@@ -1,6 +1,6 @@
 # [8]: HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HALLOWEEN [2 STAGES / DAY 1] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-[8]: HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HALLOWEEN [2 STAGES / DAY 1] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Fri 30 Oct, Berlin. Bass and Club. Preview the line-up and save it on soundcheck.
+[8]: HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HA-HALLOWEEN [2 STAGES / DAY 1] at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Fri 30 Oct, Berlin. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RIEŠUTINĖS 2026 at Gallery 1986
 
-RIEŠUTINĖS 2026 at Gallery 1986 on Fri 16 Oct, Vilnius. 8 artists on the bill: Aiste Regina, E.LINA, Gabbs and RifRaf and 4 more. Preview the line-up and save it on soundcheck.
+RIEŠUTINĖS 2026 at Gallery 1986 on Fri 16 Oct, Vilnius. 8 artists: Aiste Regina, E.LINA, Gabbs and RifRaf and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

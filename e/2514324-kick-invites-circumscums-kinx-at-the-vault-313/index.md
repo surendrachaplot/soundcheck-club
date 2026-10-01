@@ -1,6 +1,6 @@
 # KICK Invites: Circumscums, KINX at The Vault 313
 
-KICK Invites: Circumscums, KINX at The Vault 313 on Sat 10 Oct, Detroit. 4 artists on the bill: Circumscums, DJ SPHiNX, KICK (DET) and KINX. Techno. Preview the line-up and save it on soundcheck.
+KICK Invites: Circumscums, KINX at The Vault 313 on Sat 10 Oct, Detroit. 4 artists: Circumscums, DJ SPHiNX, KICK (DET) and KINX. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

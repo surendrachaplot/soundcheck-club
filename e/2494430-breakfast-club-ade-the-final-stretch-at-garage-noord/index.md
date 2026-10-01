@@ -1,6 +1,6 @@
 # Breakfast Club ADE: The Final Stretch at Garage Noord
 
-Breakfast Club ADE: The Final Stretch at Garage Noord on Sun 25 Oct, Amsterdam. 26 artists on the bill: 42nd Avenue, Akua, Andy (NL) and Angel D'lite and 22 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Breakfast Club ADE: The Final Stretch at Garage Noord on Sun 25 Oct, Amsterdam. 26 artists: 42nd Avenue, Akua, Andy (NL) and Angel D'lite and 22 more. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

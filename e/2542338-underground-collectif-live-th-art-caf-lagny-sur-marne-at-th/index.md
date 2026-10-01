@@ -1,6 +1,6 @@
 # Underground Collectif live @Thé Art Café (Lagny sur Marne) at Thé Art Café
 
-Underground Collectif live @Thé Art Café (Lagny sur Marne) on Thu 8 Oct, Paris. Garage and Deep House. Preview the line-up and save it on soundcheck.
+Underground Collectif live @Thé Art Café (Lagny sur Marne) on Thu 8 Oct, Paris. Garage and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

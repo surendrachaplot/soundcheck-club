@@ -1,6 +1,6 @@
 # jarreds off at TBA
 
-jarreds off at TBA on Wed 4 Nov, London. 3 artists on the bill: Cirkle, Devil's Daughter and RHYNOK. Techno. Preview the line-up and save it on soundcheck.
+jarreds off at TBA on Wed 4 Nov, London. 3 artists: Cirkle, Devil's Daughter and RHYNOK. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

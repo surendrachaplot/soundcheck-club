@@ -1,6 +1,6 @@
 # Wendy Eisenberg at Bimhuis
 
-Wendy Eisenberg at Bimhuis on Sat 3 Oct, Amsterdam. Jazz. Preview the line-up and save it on soundcheck.
+Wendy Eisenberg at Bimhuis on Sat 3 Oct, Amsterdam. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

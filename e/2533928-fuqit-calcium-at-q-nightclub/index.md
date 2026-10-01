@@ -1,6 +1,6 @@
 # FUQIT: Calcium at Q Nightclub
 
-FUQIT: Calcium at Q Nightclub on Thu 1 Oct, Seattle. 1 artist on the bill: Calcium. Preview the line-up and save it on soundcheck.
+FUQIT: Calcium at Q Nightclub on Thu 1 Oct, Seattle. 1 artist: Calcium. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

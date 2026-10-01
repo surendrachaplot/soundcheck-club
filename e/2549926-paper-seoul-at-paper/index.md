@@ -1,6 +1,6 @@
 # Paper Seoul at Paper
 
-Paper Seoul on Sun 4 Oct, Seoul. 3 artists on the bill: givogi, Jesse You and Oho.. House. Preview the line-up and save it on soundcheck.
+Paper Seoul on Sun 4 Oct, Seoul. 3 artists: givogi, Jesse You and Oho.. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

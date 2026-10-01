@@ -1,6 +1,6 @@
 # Sojourn presents at TBA
 
-Sojourn presents at TBA on Sat 24 Oct, Boston. Techno and House. Preview the line-up and save it on soundcheck.
+Sojourn presents at TBA on Sat 24 Oct, Boston. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Spectrum Waves: Closing Station (Nord + Sud) at La Station - Gare des Mines
 
-Spectrum Waves: Closing Station (Nord + Sud) at La Station - Gare des Mines on Fri 30 Oct, Paris. Techno and House. Preview the line-up and save it on soundcheck.
+Spectrum Waves: Closing Station (Nord + Sud) at La Station - Gare des Mines on Fri 30 Oct, Paris. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WIR x Péniche Mécanique at La Péniche Mécanique
 
-WIR x Péniche Mécanique at La Péniche Mécanique on Fri 2 Oct, Strasbourg. Techno and House. Preview the line-up and save it on soundcheck.
+WIR x Péniche Mécanique at La Péniche Mécanique on Fri 2 Oct, Strasbourg. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

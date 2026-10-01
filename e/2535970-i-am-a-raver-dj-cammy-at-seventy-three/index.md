@@ -1,6 +1,6 @@
 # I Am A Raver: DJ Cammy at Seventy Three
 
-I Am A Raver: DJ Cammy at Seventy Three on Fri 2 Oct, Glasgow. Trance. Preview the line-up and save it on soundcheck.
+I Am A Raver: DJ Cammy at Seventy Three on Fri 2 Oct, Glasgow. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

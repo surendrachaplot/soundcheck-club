@@ -1,6 +1,6 @@
 # DAY26 & J. Howell at SOBs
 
-DAY26 & J. Howell at SOBs on Sat 3 Oct, New York City. R&B. Preview the line-up and save it on soundcheck.
+DAY26 & J. Howell at SOBs on Sat 3 Oct, New York City. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

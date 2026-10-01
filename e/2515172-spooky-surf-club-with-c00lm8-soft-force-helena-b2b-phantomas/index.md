@@ -1,6 +1,6 @@
 # Spooky Surf Club with c00lm8, Soft Force & helena b2b Phantomas at WP8
 
-Spooky Surf Club with c00lm8, Soft Force & helena b2b Phantomas at WP8 on Sat 7 Nov, Düsseldorf. 2 artists on the bill: c00lm8 and Soft Force. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Spooky Surf Club with c00lm8, Soft Force & helena b2b Phantomas at WP8 on Sat 7 Nov, Düsseldorf. 2 artists: c00lm8 and Soft Force. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

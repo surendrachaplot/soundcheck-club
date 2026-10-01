@@ -1,6 +1,6 @@
 # Odd Mob - Meanjin / Brisbane at The Fortitude Music Hall
 
-Odd Mob - Meanjin / Brisbane at The Fortitude Music Hall on Sat 3 Oct, Brisbane. Preview the line-up and save it on soundcheck.
+Odd Mob - Meanjin / Brisbane at The Fortitude Music Hall on Sat 3 Oct, Brisbane. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

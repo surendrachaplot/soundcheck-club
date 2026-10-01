@@ -1,6 +1,6 @@
 # DVOID: Lekkerfaces & More at Hangar 34
 
-DVOID: Lekkerfaces & More at Hangar 34 on Fri 13 Nov, Liverpool. 1 artist on the bill: Lekkerfaces. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+DVOID: Lekkerfaces & More at Hangar 34 on Fri 13 Nov, Liverpool. 1 artist: Lekkerfaces. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

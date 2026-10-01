@@ -1,8 +1,8 @@
 # Pfirter
 
-Pfirter is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Teritorija, Riga on Fri, 20 Nov 2026.
+Pfirter is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Teritorija, Riga on Fri, 20 Nov 2026.
 
-Pfirter is a techno and club artist based in Argentina, tracked on soundcheck, with 30 sets logged across Amsterdam, Belgrade, Berlin and Boston and 11 more. Often billed alongside Jonas Kopp, Truncate and Ben Sims. Next up: Teritorija, Riga on Fri 20 Nov.
+Pfirter is a techno and club artist based in Argentina, with 30 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Boston and 11 more. Often billed alongside Jonas Kopp, Truncate and Ben Sims. Next up: Teritorija, Riga on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Pfirter is a techno and club artist based in Argentina, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA - MICROCENTRO., Buenos Aires — Sat, 12 Sept 2026
-- TBA - MICROCENTRO., Buenos Aires — Sat, 14 Feb 2026
-- TBA, Buenos Aires — Thu, 1 Jan 2026
-- TBA - Formosa y Martín García, EZEIZA, Buenos Aires — Sun, 21 Dec 2025
-- TBA - SECRET SF LOCATION, San Francisco/Oakland — Fri, 5 Sept 2025
-- TBA, Boston — Fri, 29 Aug 2025
-- Leland City Club, Detroit — Sun, 25 May 2025
-- TBA - Inand Empire (45min from LA), Los Angeles — Sat, 24 May 2025
+- TBA - MICROCENTRO., Buenos Aires · Sat, 12 Sept 2026
+- TBA - MICROCENTRO., Buenos Aires · Sat, 14 Feb 2026
+- TBA, Buenos Aires · Thu, 1 Jan 2026
+- TBA - Formosa y Martín García, EZEIZA, Buenos Aires · Sun, 21 Dec 2025
+- TBA - SECRET SF LOCATION, San Francisco/Oakland · Fri, 5 Sept 2025
+- TBA, Boston · Fri, 29 Aug 2025
+- Leland City Club, Detroit · Sun, 25 May 2025
+- TBA - Inand Empire (45min from LA), Los Angeles · Sat, 24 May 2025
 
 ## Shares bills with
 

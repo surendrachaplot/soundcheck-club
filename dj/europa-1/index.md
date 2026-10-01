@@ -1,8 +1,8 @@
 # Europa (1)
 
-Europa (1) is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Badaboum, Paris on Thu, 29 Oct 2026.
+Europa (1) is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Badaboum, Paris on Thu, 29 Oct 2026.
 
-Europa is an experimental and techno artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Sodomland, Otis (BE) and REBE. Next up: Badaboum, Paris on Thu 29 Oct.
+Europa is an experimental and techno artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 20 more. Often billed alongside Sodomland, Otis (BE) and REBE. Next up: Badaboum, Paris on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Europa is an experimental and techno artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- nachbar, Amsterdam — Sun, 9 Aug 2026
-- Meteoro, Barcelona — Sat, 27 Jun 2026
-- Meteoro, Barcelona — Sat, 27 Jun 2026
-- Botanique, Brussels — Fri, 26 Jun 2026
-- La Machine Du Moulin Rouge, Paris — Fri, 29 May 2026
-- Maaya, Berlin — Fri, 15 May 2026
-- Ormside Projects, London — Sat, 9 May 2026
-- Raleigh Chapel, London — Thu, 7 May 2026
+- nachbar, Amsterdam · Sun, 9 Aug 2026
+- Meteoro, Barcelona · Sat, 27 Jun 2026
+- Meteoro, Barcelona · Sat, 27 Jun 2026
+- Botanique, Brussels · Fri, 26 Jun 2026
+- La Machine Du Moulin Rouge, Paris · Fri, 29 May 2026
+- Maaya, Berlin · Fri, 15 May 2026
+- Ormside Projects, London · Sat, 9 May 2026
+- Raleigh Chapel, London · Thu, 7 May 2026
 
 ## Shares bills with
 

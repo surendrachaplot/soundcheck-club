@@ -1,6 +1,6 @@
 # Tim Burton's Universe by Mystery Ensemble at Conservatorio G. Verdi di Torino
 
-Tim Burton's Universe by Mystery Ensemble at Conservatorio G. Verdi di Torino on Sat 10 Oct, Turin. Preview the line-up and save it on soundcheck.
+Tim Burton's Universe by Mystery Ensemble at Conservatorio G. Verdi di Torino on Sat 10 Oct, Turin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

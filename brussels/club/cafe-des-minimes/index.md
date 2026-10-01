@@ -1,8 +1,8 @@
 # Cafe des Minimes
 
-Cafe des Minimes is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Pernovitc - Live Modulaire" on Fri, 4 Dec 2026.
+Cafe des Minimes is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Pernovitc - Live Modulaire" on Fri, 4 Dec 2026.
 
-Cafe des Minimes is a music venue in Brussels listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+Cafe des Minimes is a music venue in Brussels listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

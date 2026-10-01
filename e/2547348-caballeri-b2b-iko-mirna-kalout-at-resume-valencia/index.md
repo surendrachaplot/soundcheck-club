@@ -1,6 +1,6 @@
 # Caballeri B2B IKO, MIRNA KALOUT at Resume Valencia
 
-Caballeri B2B IKO, MIRNA KALOUT at Resume Valencia on Fri 2 Oct, Valencia. 1 artist on the bill: Caballeri. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Caballeri B2B IKO, MIRNA KALOUT at Resume Valencia on Fri 2 Oct, Valencia. 1 artist: Caballeri. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

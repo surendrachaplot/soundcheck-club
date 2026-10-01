@@ -1,8 +1,8 @@
 # Carl Cox
 
-Carl Cox is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at [UNVRS], Ibiza on Sun, 4 Oct 2026.
+Carl Cox is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at [UNVRS], Ibiza on Sun, 4 Oct 2026.
 
-Carl Cox is a techno and house artist based in United Kingdom, tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Atlanta and Auckland and 47 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: [UNVRS], Ibiza on Sun 4 Oct.
+Carl Cox is a techno and house artist based in United Kingdom, with 140 gigs on soundcheck across Amsterdam, Antwerp, Atlanta and Auckland and 47 more. Often billed alongside Melon Bomb, Chelina Manuhutu and Christopher Coe. Next up: [UNVRS], Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Carl Cox is a techno and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- [UNVRS], Ibiza — Sun, 27 Sept 2026
-- [UNVRS], Ibiza — Sun, 20 Sept 2026
-- Carroponte, Milan — Sat, 19 Sept 2026
-- [UNVRS], Ibiza — Sun, 13 Sept 2026
-- [UNVRS], Ibiza — Sun, 6 Sept 2026
-- Parque Papa Francisco - Bobadela , Loures, Lisbon — Sat, 5 Sept 2026
-- [UNVRS], Ibiza — Sun, 30 Aug 2026
-- Live From Wythenshawe Park, Manchester — Sun, 30 Aug 2026
+- [UNVRS], Ibiza · Sun, 27 Sept 2026
+- [UNVRS], Ibiza · Sun, 20 Sept 2026
+- Carroponte, Milan · Sat, 19 Sept 2026
+- [UNVRS], Ibiza · Sun, 13 Sept 2026
+- [UNVRS], Ibiza · Sun, 6 Sept 2026
+- Parque Papa Francisco - Bobadela , Loures, Lisbon · Sat, 5 Sept 2026
+- [UNVRS], Ibiza · Sun, 30 Aug 2026
+- Live From Wythenshawe Park, Manchester · Sun, 30 Aug 2026
 
 ## Shares bills with
 

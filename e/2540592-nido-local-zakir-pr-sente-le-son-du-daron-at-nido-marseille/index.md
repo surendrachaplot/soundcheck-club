@@ -1,6 +1,6 @@
 # Nido local - Zakir présente: le son du Daron at Nido Marseille
 
-Nido local - Zakir présente: le son du Daron at Nido Marseille on Fri 9 Oct, Marseille. Preview the line-up and save it on soundcheck.
+Nido local - Zakir présente: le son du Daron at Nido Marseille on Fri 9 Oct, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

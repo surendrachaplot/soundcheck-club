@@ -1,6 +1,6 @@
 # Solomon Fox at Trix
 
-Solomon Fox at Trix on Sun 15 Nov, Antwerp. Preview the line-up and save it on soundcheck.
+Solomon Fox at Trix on Sun 15 Nov, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

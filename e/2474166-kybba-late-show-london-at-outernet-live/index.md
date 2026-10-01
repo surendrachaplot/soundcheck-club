@@ -1,6 +1,6 @@
 # Kybba - Late Show [London] at Outernet Live
 
-Kybba - Late Show [London] at Outernet Live on Sat 28 Nov, London. Dancehall and Reggaeton. Preview the line-up and save it on soundcheck.
+Kybba - Late Show [London] at Outernet Live on Sat 28 Nov, London. Dancehall and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

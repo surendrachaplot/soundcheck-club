@@ -1,6 +1,6 @@
 # Hardliner x Art .1.43  [Debbie, Rian Wood, Tereck, Lesmike b2b Pierre] at The Wall Club
 
-Hardliner x Art .1.43  [Debbie, Rian Wood, Tereck, Lesmike b2b Pierre] at The Wall Club on Fri 16 Oct, Naples. 2 artists on the bill: DEBBIE (IT) and Rian Wood. Techno. Preview the line-up and save it on soundcheck.
+Hardliner x Art .1.43  [Debbie, Rian Wood, Tereck, Lesmike b2b Pierre] at The Wall Club on Fri 16 Oct, Naples. 2 artists: DEBBIE (IT) and Rian Wood. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

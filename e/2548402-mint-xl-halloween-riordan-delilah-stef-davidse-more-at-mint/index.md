@@ -1,6 +1,6 @@
 # Mint XL Halloween: Riordan, Delilah, Stef Davidse + more at Mint XL
 
-Mint XL Halloween: Riordan, Delilah, Stef Davidse + more on Fri 30 Oct, Leeds. 6 artists on the bill: Delilah, Emma B, Kara Okay and ODF and 2 more. Trance and Tech House. Preview the line-up and save it on soundcheck.
+Mint XL Halloween: Riordan, Delilah, Stef Davidse + more on Fri 30 Oct, Leeds. 6 artists: Delilah, Emma B, Kara Okay and ODF and 2 more. Trance and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

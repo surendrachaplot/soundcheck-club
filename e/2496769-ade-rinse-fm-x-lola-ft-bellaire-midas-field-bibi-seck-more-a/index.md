@@ -1,6 +1,6 @@
 # ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more at KIT Royal Tropical Institute
 
-ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more at KIT Royal Tropical Institute on Thu 22 Oct, Amsterdam. 9 artists on the bill: Alec Dienaar, Bellaire, Bibi Seck and Drabes and 5 more. House. Preview the line-up and save it on soundcheck.
+ADE:Rinse FM x Lola ft. Bellaire, Midas Field, Bibi Seck + more at KIT Royal Tropical Institute on Thu 22 Oct, Amsterdam. 9 artists: Alec Dienaar, Bellaire, Bibi Seck and Drabes and 5 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

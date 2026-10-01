@@ -1,8 +1,8 @@
 # Ash Lauryn
 
-Ash Lauryn is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Ash Lauryn is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Ash Lauryn is a house and techno artist based in United States of America, tracked on soundcheck, with 127 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Ash Lauryn is a house and techno artist based in United States of America, with 127 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside The AM/AMX, JADALAREIGN and Ben UFO. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Ash Lauryn is a house and techno artist based in United States of America, track
 
 ## Recently played
 
-- TBA - Near Villeray, Montreal — Sat, 26 Sept 2026
-- Mess Hall, Washington DC — Sun, 20 Sept 2026
-- Signal, New York City — Fri, 21 Aug 2026
-- Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
-- Night Tales Loft, London — Fri, 31 Jul 2026
-- TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle — Sat, 18 Jul 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 28 Jun 2026
-- Cannons, Detroit — Sat, 20 Jun 2026
+- TBA - Near Villeray, Montreal · Sat, 26 Sept 2026
+- Mess Hall, Washington DC · Sun, 20 Sept 2026
+- Signal, New York City · Fri, 21 Aug 2026
+- Suvilahti Power Plant, Helsinki · Fri, 14 Aug 2026
+- Night Tales Loft, London · Fri, 31 Jul 2026
+- TBA - The Jack, 74 S Jackson St, Seattle, WA 98104, Seattle · Sat, 18 Jul 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 28 Jun 2026
+- Cannons, Detroit · Sat, 20 Jun 2026
 
 ## Shares bills with
 

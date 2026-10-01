@@ -1,6 +1,6 @@
 # Pulse Index 003: Static Channel (album release), Katrinø Brægnum, Raw Image at Studiodb
 
-Pulse Index 003: Static Channel (album release), Katrinø Brægnum, Raw Image at Studiodb on Sun 18 Oct, Berlin. 2 artists on the bill: Kat Polar and Raw Image. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Pulse Index 003: Static Channel (album release), Katrinø Brægnum, Raw Image at Studiodb on Sun 18 Oct, Berlin. 2 artists: Kat Polar and Raw Image. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

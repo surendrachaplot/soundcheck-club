@@ -1,6 +1,6 @@
 # FWD Insurance presents: SPOOKY Halloween 2026 at Wan Chai Harbourfront
 
-FWD Insurance presents: SPOOKY Halloween 2026 at Wan Chai Harbourfront on Fri 30 Oct, Hong Kong. 3 artists on the bill: ¥ØU$UK€ ¥UK1MAT$U, AK SPORTS and Holy Priest. Preview the line-up and save it on soundcheck.
+FWD Insurance presents: SPOOKY Halloween 2026 at Wan Chai Harbourfront on Fri 30 Oct, Hong Kong. 3 artists: ¥ØU$UK€ ¥UK1MAT$U, AK SPORTS and Holy Priest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

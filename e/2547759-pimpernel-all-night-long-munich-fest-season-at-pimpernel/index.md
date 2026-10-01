@@ -1,6 +1,6 @@
 # Pimpernel All Night Long - Munich Fest Season at Pimpernel
 
-Pimpernel All Night Long - Munich Fest Season on Sun 4 Oct, Munich. House and Electro. Preview the line-up and save it on soundcheck.
+Pimpernel All Night Long - Munich Fest Season on Sun 4 Oct, Munich. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

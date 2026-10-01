@@ -1,6 +1,6 @@
 # Bedouin presents SAGA Closing at Chinois Ibiza
 
-Bedouin presents SAGA Closing at Chinois Ibiza on Sun 4 Oct, Ibiza. 1 artist on the bill: Bedouin. House and Afro House. Preview the line-up and save it on soundcheck.
+Bedouin presents SAGA Closing at Chinois Ibiza on Sun 4 Oct, Ibiza. 1 artist: Bedouin. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

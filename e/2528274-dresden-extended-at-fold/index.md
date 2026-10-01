@@ -1,6 +1,6 @@
 # Dresden Extended at FOLD
 
-Dresden Extended at FOLD on Fri 27 Nov, London. 3 artists on the bill: Dresden, Ivan Smagghe and Manfredas. Techno and Electro. Preview the line-up and save it on soundcheck.
+Dresden Extended at FOLD on Fri 27 Nov, London. 3 artists: Dresden, Ivan Smagghe and Manfredas. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

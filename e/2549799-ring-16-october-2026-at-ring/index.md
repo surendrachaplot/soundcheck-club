@@ -1,6 +1,6 @@
 # Ring — 16 October 2026 at Ring
 
-Ring — 16 October 2026 on Fri 16 Oct, Seoul. 2 artists on the bill: Antwork and Minkyu. Techno and Electro. Preview the line-up and save it on soundcheck.
+Ring — 16 October 2026 on Fri 16 Oct, Seoul. 2 artists: Antwork and Minkyu. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

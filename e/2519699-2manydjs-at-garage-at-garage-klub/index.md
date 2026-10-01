@@ -1,6 +1,6 @@
 # 2ManyDJs at GARAGE at Garage Klub
 
-2ManyDJs at GARAGE at Garage Klub on Sat 24 Oct, Antwerp. 4 artists on the bill: 2ManyDJs, Cassius, CC:DISCO! and Kenny Montana. Electronica. Preview the line-up and save it on soundcheck.
+2ManyDJs at GARAGE at Garage Klub on Sat 24 Oct, Antwerp. 4 artists: 2ManyDJs, Cassius, CC:DISCO! and Kenny Montana. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

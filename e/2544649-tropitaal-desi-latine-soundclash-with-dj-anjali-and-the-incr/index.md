@@ -1,6 +1,6 @@
 # TROPITAAL! Desi Latine Soundclash with DJ Anjali and The Incredible Kid at The Goodfoot
 
-TROPITAAL! Desi Latine Soundclash with DJ Anjali and The Incredible Kid at The Goodfoot on Sat 10 Oct, Portland. Latin Bass and Dembow. Preview the line-up and save it on soundcheck.
+TROPITAAL! Desi Latine Soundclash with DJ Anjali and The Incredible Kid at The Goodfoot on Sat 10 Oct, Portland. Latin Bass and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Odd Mob - Eora / Sydney at UNSW Roundhouse
 
-Odd Mob - Eora / Sydney at UNSW Roundhouse on Sat 10 Oct, Sydney. Preview the line-up and save it on soundcheck.
+Odd Mob - Eora / Sydney at UNSW Roundhouse on Sat 10 Oct, Sydney. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

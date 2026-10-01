@@ -1,6 +1,6 @@
 # Escape with Romeo + The Calm Grey // Urban Spree, Berlin at Urban Spree
 
-Escape with Romeo + The Calm Grey // Urban Spree, Berlin on Fri 30 Oct, Berlin. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Escape with Romeo + The Calm Grey // Urban Spree, Berlin on Fri 30 Oct, Berlin. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

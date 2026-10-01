@@ -1,6 +1,6 @@
 # HIGHER VIBRATION ~ Tekstep-Mutants 4 at Lans Chicago
 
-HIGHER VIBRATION ~ Tekstep-Mutants 4 at Lans Chicago on Sat 3 Oct, Chicago. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+HIGHER VIBRATION ~ Tekstep-Mutants 4 at Lans Chicago on Sat 3 Oct, Chicago. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

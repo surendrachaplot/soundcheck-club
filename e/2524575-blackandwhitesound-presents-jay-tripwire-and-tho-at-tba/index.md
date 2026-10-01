@@ -1,6 +1,6 @@
 # BlackandWhitesound presents Jay Tripwire and Tho at TBA
 
-BlackandWhitesound presents Jay Tripwire and Tho at TBA on Fri 30 Oct, San Francisco/Oakland. 3 artists on the bill: Jay Tripwire, Justin Shaffer and Tho. Techno and House. Preview the line-up and save it on soundcheck.
+BlackandWhitesound presents Jay Tripwire and Tho at TBA on Fri 30 Oct, San Francisco/Oakland. 3 artists: Jay Tripwire, Justin Shaffer and Tho. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

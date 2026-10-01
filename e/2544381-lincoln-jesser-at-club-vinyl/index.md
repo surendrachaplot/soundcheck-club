@@ -1,6 +1,6 @@
 # Lincoln Jesser at Club Vinyl
 
-Lincoln Jesser at Club Vinyl on Fri 2 Oct, Denver. House. Preview the line-up and save it on soundcheck.
+Lincoln Jesser at Club Vinyl on Fri 2 Oct, Denver. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Guy Gerber
 
-Guy Gerber is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
+Guy Gerber is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cité du Cinéma, Paris on Thu, 1 Oct 2026.
 
-Guy Gerber is a house and techno artist based in Israel, tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Athens and Bali and 24 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Cité du Cinéma, Paris on Thu 1 Oct.
+Guy Gerber is a house and techno artist based in Israel, with 127 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 24 more. Often billed alongside Noncitizens, Saraga and Annicka. Next up: Cité du Cinéma, Paris on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Guy Gerber is a house and techno artist based in Israel, tracked on soundcheck, 
 
 ## Recently played
 
-- La Terrrazza, Barcelona — Sat, 26 Sept 2026
-- Volt Club Milano, Milan — Thu, 24 Sept 2026
-- Void Mykonos, Mykonos — Fri, 4 Sept 2026
-- Void Mykonos, Mykonos — Thu, 27 Aug 2026
-- Void Mykonos, Mykonos — Thu, 13 Aug 2026
-- Beachouse, Ibiza — Wed, 12 Aug 2026
-- Void Mykonos, Mykonos — Thu, 6 Aug 2026
-- Void Mykonos, Mykonos — Thu, 16 Jul 2026
+- La Terrrazza, Barcelona · Sat, 26 Sept 2026
+- Volt Club Milano, Milan · Thu, 24 Sept 2026
+- Void Mykonos, Mykonos · Fri, 4 Sept 2026
+- Void Mykonos, Mykonos · Thu, 27 Aug 2026
+- Void Mykonos, Mykonos · Thu, 13 Aug 2026
+- Beachouse, Ibiza · Wed, 12 Aug 2026
+- Void Mykonos, Mykonos · Thu, 6 Aug 2026
+- Void Mykonos, Mykonos · Thu, 16 Jul 2026
 
 ## Shares bills with
 

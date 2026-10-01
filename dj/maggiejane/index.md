@@ -1,8 +1,8 @@
 # Maggie Jane
 
-Maggie Jane is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Skateschule München - Spaceforskate, Munich on Fri, 9 Oct 2026.
+Maggie Jane is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Skateschule München - Spaceforskate, Munich on Fri, 9 Oct 2026.
 
-Maggie Jane is an electronic artist based in Germany, tracked on soundcheck, with 11 sets logged across Munich. Often billed alongside Spinneck, Benni B and Inspektor Lenny. Next up: Skateschule München - Spaceforskate, Munich on Fri 9 Oct.
+Maggie Jane is an electronic artist based in Germany, with 11 gigs on soundcheck across Munich. Often billed alongside Spinneck, Benni B and Inspektor Lenny. Next up: Skateschule München - Spaceforskate, Munich on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Maggie Jane is an electronic artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Goldener Reiter, Munich — Sat, 30 May 2026
-- Lieberscholli, Munich — Sat, 23 May 2026
-- Lieberscholli, Munich — Sat, 23 May 2026
-- Goldener Reiter, Munich — Fri, 24 Apr 2026
-- Goldener Reiter, Munich — Sat, 17 Jan 2026
-- Legal, Munich — Sat, 27 Dec 2025
-- Cucurucu, Munich — Fri, 7 Nov 2025
-- LIVE EVIL, Munich — Fri, 10 Oct 2025
+- Goldener Reiter, Munich · Sat, 30 May 2026
+- Lieberscholli, Munich · Sat, 23 May 2026
+- Lieberscholli, Munich · Sat, 23 May 2026
+- Goldener Reiter, Munich · Fri, 24 Apr 2026
+- Goldener Reiter, Munich · Sat, 17 Jan 2026
+- Legal, Munich · Sat, 27 Dec 2025
+- Cucurucu, Munich · Fri, 7 Nov 2025
+- LIVE EVIL, Munich · Fri, 10 Oct 2025
 
 ## Shares bills with
 

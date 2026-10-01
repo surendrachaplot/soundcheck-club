@@ -1,6 +1,6 @@
 # CUMBIA MEX 5 at Cobra Jaune
 
-CUMBIA MEX 5 at Cobra Jaune on Fri 2 Oct, Brussels. 1 artist on the bill: Memo Pimiento. Preview the line-up and save it on soundcheck.
+CUMBIA MEX 5 at Cobra Jaune on Fri 2 Oct, Brussels. 1 artist: Memo Pimiento. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

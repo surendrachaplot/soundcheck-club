@@ -1,6 +1,6 @@
 # TUYA RAVE x HALLOWEEN at Distrikt
 
-TUYA RAVE x HALLOWEEN at Distrikt on Sat 31 Oct, Prague. Techno and Industrial. Preview the line-up and save it on soundcheck.
+TUYA RAVE x HALLOWEEN at Distrikt on Sat 31 Oct, Prague. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

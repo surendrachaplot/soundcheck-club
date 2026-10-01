@@ -1,6 +1,6 @@
 # FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona on Tue 27 Oct, Barcelona. 1 artist on the bill: Vikki. House. Preview the line-up and save it on soundcheck.
+FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) at Noxe Barcelona on Tue 27 Oct, Barcelona. 1 artist: Vikki. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

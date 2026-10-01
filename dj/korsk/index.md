@@ -1,8 +1,8 @@
 # kors k
 
-kors k is a Hardcore and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at clubasia, Tokyo on Sat, 7 Nov 2026.
+kors k is a Hardcore and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at clubasia, Tokyo on Sat, 7 Nov 2026.
 
-kors k is a hardcore and drum & bass artist based in Japan, tracked on soundcheck, with 13 sets logged across Bristol, Chicago, Los Angeles and New York City and 3 more. Often billed alongside W.T. Snacks, BEPPU and MIDI War. Next up: clubasia, Tokyo on Sat 7 Nov.
+kors k is a hardcore and drum & bass artist based in Japan, with 13 gigs on soundcheck across Bristol, Chicago, Los Angeles and New York City and 3 more. Often billed alongside W.T. Snacks, BEPPU and MIDI War. Next up: clubasia, Tokyo on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ kors k is a hardcore and drum & bass artist based in Japan, tracked on soundchec
 
 ## Recently played
 
-- Zerotokyo, Tokyo — Sun, 21 Dec 2025
-- Zerotokyo, Tokyo — Sun, 23 Nov 2025
-- DNA Lounge, San Francisco/Oakland — Sat, 27 Sept 2025
-- Catch One, Los Angeles — Fri, 26 Sept 2025
-- Geary Avenue Warehouse Project, Toronto — Fri, 19 Sept 2025
-- Trans-Pecos, New York City — Thu, 18 Sept 2025
-- Exchange, Bristol — Sat, 13 Sept 2025
-- Bourbon On Division, Chicago — Fri, 5 Sept 2025
+- Zerotokyo, Tokyo · Sun, 21 Dec 2025
+- Zerotokyo, Tokyo · Sun, 23 Nov 2025
+- DNA Lounge, San Francisco/Oakland · Sat, 27 Sept 2025
+- Catch One, Los Angeles · Fri, 26 Sept 2025
+- Geary Avenue Warehouse Project, Toronto · Fri, 19 Sept 2025
+- Trans-Pecos, New York City · Thu, 18 Sept 2025
+- Exchange, Bristol · Sat, 13 Sept 2025
+- Bourbon On Division, Chicago · Fri, 5 Sept 2025
 
 ## Shares bills with
 

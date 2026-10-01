@@ -1,8 +1,8 @@
 # Club Space Miami
 
-Club Space Miami is a music venue in Miami with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Disco Dom & The Brothers Macklovitch" on Fri, 2 Oct 2026.
+Club Space Miami is a music venue in Miami with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Disco Dom & The Brothers Macklovitch" on Fri, 2 Oct 2026.
 
-Club Space Miami is a music venue in Miami listed on soundcheck. 18 upcoming gigs, with line-ups including AABEL, AJ Christou, Âme and Bakke and 2 more. Browse upcoming dates, start times and who's playing. 34 NE 11th St; Miami, FL 33132; United States.
+Club Space Miami is a music venue in Miami listed on soundcheck. 18 upcoming gigs, with line-ups including AABEL, AJ Christou, Âme and Bakke and 2 more. See dates, start times and who's playing. 34 NE 11th St; Miami, FL 33132; United States.
 
 ## What's on
 

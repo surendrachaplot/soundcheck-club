@@ -1,6 +1,6 @@
 # Origins: Voicedrone & James Newmarch (All Night Long) at Palais
 
-Origins: Voicedrone & James Newmarch (All Night Long) at Palais on Sat 12 Dec, London. 2 artists on the bill: James Newmarch and Voicedrone. Techno and Electro. Preview the line-up and save it on soundcheck.
+Origins: Voicedrone & James Newmarch (All Night Long) at Palais on Sat 12 Dec, London. 2 artists: James Newmarch and Voicedrone. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

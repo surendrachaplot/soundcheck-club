@@ -1,6 +1,6 @@
 # VNR4EVER *RÔTI DE PDG*: Kween K b2b Carmol Elektra • Psychotaste • Qui est Qui at Zoo
 
-VNR4EVER *RÔTI DE PDG*: Kween K b2b Carmol Elektra • Psychotaste • Qui est Qui at Zoo on Sat 24 Oct, Geneva. Hardcore and Hard Drum. Preview the line-up and save it on soundcheck.
+VNR4EVER *RÔTI DE PDG*: Kween K b2b Carmol Elektra • Psychotaste • Qui est Qui at Zoo on Sat 24 Oct, Geneva. Hardcore and Hard Drum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

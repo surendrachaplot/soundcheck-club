@@ -1,6 +1,6 @@
 # Sound Service Station: Dub Epistemologies w/ Ashley Holmes at The System
 
-Sound Service Station: Dub Epistemologies w/ Ashley Holmes at The System on Thu 26 Nov, Sheffield. 1 artist on the bill: Ashley Holmes. Dub. Preview the line-up and save it on soundcheck.
+Sound Service Station: Dub Epistemologies w/ Ashley Holmes at The System on Thu 26 Nov, Sheffield. 1 artist: Ashley Holmes. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

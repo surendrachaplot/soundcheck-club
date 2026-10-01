@@ -1,8 +1,8 @@
 # Sapphyre
 
-Sapphyre is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Jade, New York City on Fri, 9 Oct 2026.
+Sapphyre is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jade, New York City on Fri, 9 Oct 2026.
 
-Sapphyre is a techno and electro artist tracked on soundcheck, with 43 sets logged across Detroit and New York City. Often billed alongside Auntie Chanel, Cherriel and Duck Trash. Next up: Jade, New York City on Fri 9 Oct.
+Sapphyre is a techno and electro artist, with 43 gigs on soundcheck across Detroit and New York City. Often billed alongside Auntie Chanel, Cherriel and Duck Trash. Next up: Jade, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sapphyre is a techno and electro artist tracked on soundcheck, with 43 sets logg
 
 ## Recently played
 
-- Paris Bar, Detroit — Sat, 23 May 2026
-- The High Dive, Detroit — Sat, 28 Mar 2026
-- Menjo's, Detroit — Wed, 26 Nov 2025
-- The High Dive, Detroit — Sat, 22 Nov 2025
-- Spot Lite Detroit, Detroit — Sat, 14 Jun 2025
-- TBA - DAY OF SHOW, Detroit — Sat, 15 Mar 2025
-- UFO Bar, Detroit — Sat, 8 Mar 2025
-- UFO Bar, Detroit — Sat, 8 Feb 2025
+- Paris Bar, Detroit · Sat, 23 May 2026
+- The High Dive, Detroit · Sat, 28 Mar 2026
+- Menjo's, Detroit · Wed, 26 Nov 2025
+- The High Dive, Detroit · Sat, 22 Nov 2025
+- Spot Lite Detroit, Detroit · Sat, 14 Jun 2025
+- TBA - DAY OF SHOW, Detroit · Sat, 15 Mar 2025
+- UFO Bar, Detroit · Sat, 8 Mar 2025
+- UFO Bar, Detroit · Sat, 8 Feb 2025
 
 ## Shares bills with
 

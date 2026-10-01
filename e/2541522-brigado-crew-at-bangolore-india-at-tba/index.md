@@ -1,6 +1,6 @@
 # Brigado Crew at Bangolore, India at TBA
 
-Brigado Crew at Bangolore, India at TBA on Sat 31 Oct, Bangalore. 1 artist on the bill: Brigado Crew. Preview the line-up and save it on soundcheck.
+Brigado Crew at Bangolore, India at TBA on Sat 31 Oct, Bangalore. 1 artist: Brigado Crew. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

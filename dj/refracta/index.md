@@ -1,8 +1,8 @@
 # Refracta
 
-Refracta is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sneaky Pete's, Edinburgh on Thu, 12 Nov 2026.
+Refracta is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sneaky Pete's, Edinburgh on Thu, 12 Nov 2026.
 
-Refracta is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Birmingham, Bristol, Edinburgh and Glasgow and 5 more. Often billed alongside George IV, Coben and M.O.B. Next up: Sneaky Pete's, Edinburgh on Thu 12 Nov.
+Refracta is a drum & bass and bass artist based in United Kingdom, with 43 gigs on soundcheck across Birmingham, Bristol, Edinburgh and Glasgow and 5 more. Often billed alongside George IV, Coben and M.O.B. Next up: Sneaky Pete's, Edinburgh on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Refracta is a drum & bass and bass artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Sneaky Pete's, Edinburgh — Thu, 10 Sept 2026
-- The Mash House, Edinburgh — Sat, 1 Aug 2026
-- Sneaky Pete's, Edinburgh — Thu, 9 Jul 2026
-- Sneaky Pete's, Edinburgh — Thu, 14 May 2026
-- Sneaky Pete's, Edinburgh — Thu, 12 Mar 2026
-- Sawmills, Bristol — Sat, 7 Feb 2026
-- The Art School, Glasgow — Sat, 10 Jan 2026
-- Sneaky Pete's, Edinburgh — Thu, 8 Jan 2026
+- Sneaky Pete's, Edinburgh · Thu, 10 Sept 2026
+- The Mash House, Edinburgh · Sat, 1 Aug 2026
+- Sneaky Pete's, Edinburgh · Thu, 9 Jul 2026
+- Sneaky Pete's, Edinburgh · Thu, 14 May 2026
+- Sneaky Pete's, Edinburgh · Thu, 12 Mar 2026
+- Sawmills, Bristol · Sat, 7 Feb 2026
+- The Art School, Glasgow · Sat, 10 Jan 2026
+- Sneaky Pete's, Edinburgh · Thu, 8 Jan 2026
 
 ## Shares bills with
 

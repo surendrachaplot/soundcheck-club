@@ -1,6 +1,6 @@
 # Reclaimed Vessels at ESC
 
-Reclaimed Vessels at ESC on Sat 10 Oct, Montreal. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Reclaimed Vessels at ESC on Sat 10 Oct, Montreal. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

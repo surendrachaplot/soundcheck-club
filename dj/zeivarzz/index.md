@@ -1,8 +1,8 @@
 # Ze Ivarzz
 
-Ze Ivarzz is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Korpuss, Riga on Fri, 30 Oct 2026.
+Ze Ivarzz is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Korpuss, Riga on Fri, 30 Oct 2026.
 
-Ze Ivarzz is a techno and house artist based in Latvia, tracked on soundcheck, with 20 sets logged across Riga. Often billed alongside Ikss, MDNS and PUPA. Next up: Korpuss, Riga on Fri 30 Oct.
+Ze Ivarzz is a techno and house artist based in Latvia, with 20 gigs on soundcheck across Riga. Often billed alongside Ikss, MDNS and PUPA. Next up: Korpuss, Riga on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ze Ivarzz is a techno and house artist based in Latvia, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga — Fri, 24 Jul 2026
-- Teritorija, Riga — Fri, 3 Jul 2026
-- 1983, Riga — Fri, 13 Mar 2026
-- Cehs, Riga — Sat, 8 Nov 2025
-- One One Riga, Riga — Sat, 12 Jul 2025
-- One One Riga, Riga — Sat, 21 Jun 2025
-- One One Riga, Riga — Fri, 16 May 2025
-- Teritorija, Riga — Fri, 7 Mar 2025
+- TBA - @ Zefīrs by day, @ SPĒLĒT by night, Riga · Fri, 24 Jul 2026
+- Teritorija, Riga · Fri, 3 Jul 2026
+- 1983, Riga · Fri, 13 Mar 2026
+- Cehs, Riga · Sat, 8 Nov 2025
+- One One Riga, Riga · Sat, 12 Jul 2025
+- One One Riga, Riga · Sat, 21 Jun 2025
+- One One Riga, Riga · Fri, 16 May 2025
+- Teritorija, Riga · Fri, 7 Mar 2025
 
 ## Shares bills with
 

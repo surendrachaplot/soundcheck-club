@@ -1,6 +1,6 @@
 # 5th Anniversary Party03-ORACLEムジカ at Djbar Lollapalooza
 
-5th Anniversary Party03-ORACLEムジカ at Djbar Lollapalooza on Sat 3 Oct, Osaka. Trance and Club. Preview the line-up and save it on soundcheck.
+5th Anniversary Party03-ORACLEムジカ at Djbar Lollapalooza on Sat 3 Oct, Osaka. Trance and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

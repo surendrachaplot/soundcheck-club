@@ -1,8 +1,8 @@
 # Spencer Brown
 
-Spencer Brown is a Progressive House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Foro Basement, Mexico City on Fri, 30 Oct 2026.
+Spencer Brown is a Progressive House and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Foro Basement, Mexico City on Fri, 30 Oct 2026.
 
-Spencer Brown is a progressive house and house artist based in United States of America, tracked on soundcheck, with 86 sets logged across Austin, Berlin, Boston and Brighton and 25 more. Often billed alongside Qrion, John Digweed and Jody Wisternoff. Next up: Foro Basement, Mexico City on Fri 30 Oct.
+Spencer Brown is a progressive house and house artist based in United States of America, with 86 gigs on soundcheck across Austin, Berlin, Boston and Brighton and 25 more. Often billed alongside Qrion, John Digweed and Jody Wisternoff. Next up: Foro Basement, Mexico City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Spencer Brown is a progressive house and house artist based in United States of 
 
 ## Recently played
 
-- Reelworks Denver, Denver — Sat, 26 Sept 2026
-- Flash, Washington DC — Sat, 12 Sept 2026
-- TBA - Pier 62, Seattle — Mon, 7 Sept 2026
-- House of Yes, New York City — Fri, 31 Jul 2026
-- Stereo, Montreal — Sat, 25 Jul 2026
-- 888 Garage, San Francisco/Oakland — Sat, 6 Jun 2026
-- RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
-- TBA, Los Angeles — Sat, 30 May 2026
+- Reelworks Denver, Denver · Sat, 26 Sept 2026
+- Flash, Washington DC · Sat, 12 Sept 2026
+- TBA - Pier 62, Seattle · Mon, 7 Sept 2026
+- House of Yes, New York City · Fri, 31 Jul 2026
+- Stereo, Montreal · Sat, 25 Jul 2026
+- 888 Garage, San Francisco/Oakland · Sat, 6 Jun 2026
+- RFK Stadium Memorial Stadium, Washington DC · Sat, 30 May 2026
+- TBA, Los Angeles · Sat, 30 May 2026
 
 ## Shares bills with
 

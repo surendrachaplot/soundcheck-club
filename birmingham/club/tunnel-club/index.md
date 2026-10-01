@@ -1,8 +1,8 @@
 # Tunnel Club
 
-Tunnel Club is a music venue in Birmingham with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Regis invites @ Birmingham Techno: Tresor 35 with DJ Pete, Sleeparchive + more" on Fri, 2 Oct 2026.
+Tunnel Club is a music venue in Birmingham with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Regis invites @ Birmingham Techno: Tresor 35 with DJ Pete, Sleeparchive + more" on Fri, 2 Oct 2026.
 
-Tunnel Club is a music venue in Birmingham listed on soundcheck. 4 upcoming gigs, with line-ups including Choronzon, Chris Bayne, DJ Pete and Fisha and 2 more. Browse upcoming dates, start times and who's playing. Livery Street, Birmingham, B3 1HL, United Kingdom.
+Tunnel Club is a music venue in Birmingham listed on soundcheck. 4 upcoming gigs, with line-ups including Choronzon, Chris Bayne, DJ Pete and Fisha and 2 more. See dates, start times and who's playing. Livery Street, Birmingham, B3 1HL, United Kingdom.
 
 ## What's on
 

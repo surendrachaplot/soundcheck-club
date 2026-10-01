@@ -1,6 +1,6 @@
 # Hotel Serum - Belac at La Cheetah Club
 
-Hotel Serum - Belac at La Cheetah Club on Sat 17 Oct, Glasgow. 2 artists on the bill: Joe Ross and Loose E. Preview the line-up and save it on soundcheck.
+Hotel Serum - Belac at La Cheetah Club on Sat 17 Oct, Glasgow. 2 artists: Joe Ross and Loose E. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

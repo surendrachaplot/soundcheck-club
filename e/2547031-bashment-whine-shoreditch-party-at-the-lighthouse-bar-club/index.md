@@ -1,6 +1,6 @@
 # Bashment Whine - Shoreditch Party at The Lighthouse Bar & Club
 
-Bashment Whine - Shoreditch Party at The Lighthouse Bar & Club on Fri 2 Oct, London. Preview the line-up and save it on soundcheck.
+Bashment Whine - Shoreditch Party at The Lighthouse Bar & Club on Fri 2 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

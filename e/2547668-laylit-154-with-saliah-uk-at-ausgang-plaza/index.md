@@ -1,6 +1,6 @@
 # Laylit #154 with Saliah (UK) at Ausgang Plaza
 
-Laylit #154 with Saliah (UK) at Ausgang Plaza on Sat 28 Nov, Montreal. 3 artists on the bill: MNSA, Nadim Maghzal and Saliah. Club. Preview the line-up and save it on soundcheck.
+Laylit #154 with Saliah (UK) at Ausgang Plaza on Sat 28 Nov, Montreal. 3 artists: MNSA, Nadim Maghzal and Saliah. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

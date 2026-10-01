@@ -1,8 +1,8 @@
 # Dima Kachan
 
-Dima Kachan is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Crack Bellmer, Berlin on Thu, 12 Nov 2026.
+Dima Kachan is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Crack Bellmer, Berlin on Thu, 12 Nov 2026.
 
-Dima Kachan is a techno and trance artist based in Belarus, tracked on soundcheck, with 33 sets logged across Berlin, Copenhagen, Krakow and Warsaw. Often billed alongside Dolu, Syrphin and SDS. Next up: Crack Bellmer, Berlin on Thu 12 Nov.
+Dima Kachan is a techno and trance artist based in Belarus, with 33 gigs on soundcheck across Berlin, Copenhagen, Krakow and Warsaw. Often billed alongside Dolu, Syrphin and SDS. Next up: Crack Bellmer, Berlin on Thu 12 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dima Kachan is a techno and trance artist based in Belarus, tracked on soundchec
 
 ## Recently played
 
-- Jasna 1, Warsaw — Sat, 15 Aug 2026
-- Mastak, Warsaw — Sat, 18 Apr 2026
-- Mastak, Warsaw — Sat, 6 Dec 2025
-- Mastak, Warsaw — Fri, 18 Jul 2025
-- OCZKI, Warsaw — Sat, 5 Apr 2025
-- KitKatClub, Berlin — Fri, 14 Mar 2025
-- Jasna 1, Warsaw — Sat, 8 Feb 2025
-- Jasna 1, Warsaw — Sat, 28 Dec 2024
+- Jasna 1, Warsaw · Sat, 15 Aug 2026
+- Mastak, Warsaw · Sat, 18 Apr 2026
+- Mastak, Warsaw · Sat, 6 Dec 2025
+- Mastak, Warsaw · Fri, 18 Jul 2025
+- OCZKI, Warsaw · Sat, 5 Apr 2025
+- KitKatClub, Berlin · Fri, 14 Mar 2025
+- Jasna 1, Warsaw · Sat, 8 Feb 2025
+- Jasna 1, Warsaw · Sat, 28 Dec 2024
 
 ## Shares bills with
 

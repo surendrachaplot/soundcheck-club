@@ -1,6 +1,6 @@
 # Hard Impact Hard Techno Floor at RAWK, Tanzhaus West, Frankfurt at Tanzhaus West
 
-Hard Impact Hard Techno Floor at RAWK, Tanzhaus West, Frankfurt on Fri 9 Oct, Frankfurt. Techno. Preview the line-up and save it on soundcheck.
+Hard Impact Hard Techno Floor at RAWK, Tanzhaus West, Frankfurt on Fri 9 Oct, Frankfurt. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TV • Further • Charivari Detroit • UMA at TV Lounge
 
-TV • Further • Charivari Detroit • UMA at TV Lounge on Sat 7 Nov, Detroit. Techno and House. Preview the line-up and save it on soundcheck.
+TV • Further • Charivari Detroit • UMA at TV Lounge on Sat 7 Nov, Detroit. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

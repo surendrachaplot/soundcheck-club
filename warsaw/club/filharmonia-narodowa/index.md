@@ -1,8 +1,8 @@
 # Filharmonia Narodowa
 
-Filharmonia Narodowa is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Unsound Warszawa 2026: FRICTION - Diamanda Galás / Raphael Rogiński + more" on Mon, 5 Oct 2026.
+Filharmonia Narodowa is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Unsound Warszawa 2026: FRICTION - Diamanda Galás / Raphael Rogiński + more" on Mon, 5 Oct 2026.
 
-Filharmonia Narodowa is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Jasna 5, 00-950 Warsaw, Poland.
+Filharmonia Narodowa is a music venue in Warsaw listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Jasna 5, 00-950 Warsaw, Poland.
 
 ## What's on
 

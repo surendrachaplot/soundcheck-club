@@ -1,6 +1,6 @@
 # PLAYGRND 28 at Kowalski
 
-PLAYGRND 28 at Kowalski on Fri 9 Oct, Stuttgart. 1 artist on the bill: Adi Dassler. Techno and Afro Tech. Preview the line-up and save it on soundcheck.
+PLAYGRND 28 at Kowalski on Fri 9 Oct, Stuttgart. 1 artist: Adi Dassler. Techno and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

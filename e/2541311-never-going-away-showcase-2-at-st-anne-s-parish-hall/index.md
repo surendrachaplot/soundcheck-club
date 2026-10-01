@@ -1,6 +1,6 @@
 # Never Going Away SHOWCASE #2 at St. Anne's Parish Hall
 
-Never Going Away SHOWCASE #2 at St. Anne's Parish Hall on Sat 14 Nov, Toronto. Hardcore. Preview the line-up and save it on soundcheck.
+Never Going Away SHOWCASE #2 at St. Anne's Parish Hall on Sat 14 Nov, Toronto. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

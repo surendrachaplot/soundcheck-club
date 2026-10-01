@@ -1,6 +1,6 @@
 # Afraid of the Dark 2026 at 20 Meadow
 
-Afraid of the Dark 2026 at 20 Meadow on Sat 31 Oct, New York City. 5 artists on the bill: Dank, Frankie Bones, Joeski and Keoki and 1 more. Tech House and Club. Preview the line-up and save it on soundcheck.
+Afraid of the Dark 2026 at 20 Meadow on Sat 31 Oct, New York City. 5 artists: Dank, Frankie Bones, Joeski and Keoki and 1 more. Tech House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

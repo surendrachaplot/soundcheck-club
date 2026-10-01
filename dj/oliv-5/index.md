@@ -1,8 +1,8 @@
 # OLIV
 
-OLIV is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery, Leipzig on Fri, 16 Oct 2026.
+OLIV is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery, Leipzig on Fri, 16 Oct 2026.
 
-OLIV is a house and techno artist based in Germany, tracked on soundcheck, with 59 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside SAM, jewelry and Felix Lücke. Next up: Distillery, Leipzig on Fri 16 Oct.
+OLIV is a house and techno artist based in Germany, with 59 gigs on soundcheck across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside SAM, jewelry and Felix Lücke. Next up: Distillery, Leipzig on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ OLIV is a house and techno artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
-- Tokonoma Club, Frankfurt — Sat, 26 Sept 2026
-- Tresor / Globus, Berlin — Fri, 31 Jul 2026
-- Distillery, Leipzig — Sat, 4 Jul 2026
-- LIVE EVIL, Munich — Sat, 30 May 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 15 May 2026
-- Neue Welle, Leipzig — Sun, 5 Apr 2026
-- Legal, Munich — Sat, 4 Apr 2026
-- Distillery, Leipzig — Sat, 21 Mar 2026
+- Tokonoma Club, Frankfurt · Sat, 26 Sept 2026
+- Tresor / Globus, Berlin · Fri, 31 Jul 2026
+- Distillery, Leipzig · Sat, 4 Jul 2026
+- LIVE EVIL, Munich · Sat, 30 May 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 15 May 2026
+- Neue Welle, Leipzig · Sun, 5 Apr 2026
+- Legal, Munich · Sat, 4 Apr 2026
+- Distillery, Leipzig · Sat, 21 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Mr.Disco Kid & KENNTA at DJ Bar Bridge Shinjuku
 
-Mr.Disco Kid & KENNTA at DJ Bar Bridge Shinjuku on Wed 14 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+Mr.Disco Kid & KENNTA at DJ Bar Bridge Shinjuku on Wed 14 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Midline
 
-Midline is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Akeem Ali: The Texture Tour" on Sat, 3 Oct 2026.
+Midline is a music venue in Miami with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Akeem Ali: The Texture Tour" on Sat, 3 Oct 2026.
 
-Midline is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with line-ups including DJ Habibeats and Mose. Browse upcoming dates, start times and who's playing.
+Midline is a music venue in Miami listed on soundcheck. 8 upcoming gigs, with line-ups including DJ Habibeats and Mose. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Eerste Communie - 10 Years at essaim
 
-Eerste Communie - 10 Years at essaim on Sun 11 Oct, Paris. Techno. Preview the line-up and save it on soundcheck.
+Eerste Communie - 10 Years at essaim on Sun 11 Oct, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

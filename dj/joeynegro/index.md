@@ -1,8 +1,8 @@
 # Dave Lee
 
-Dave Lee is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
+Dave Lee is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
 
-Dave Lee is a house and disco artist based in United Kingdom, tracked on soundcheck, with 94 sets logged across Amsterdam, Antwerp, Auckland and Barcelona and 20 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: Amnesia Ibiza, Ibiza on Fri 2 Oct.
+Dave Lee is a house and disco artist based in United Kingdom, with 94 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Barcelona and 20 more. Often billed alongside Melvo Baptiste, Mousse T. and Natasha Diggs. Next up: Amnesia Ibiza, Ibiza on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Dave Lee is a house and disco artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- TBA - Merkur Casino, Leeds — Sat, 26 Sept 2026
-- Night Tales Loft, London — Fri, 7 Aug 2026
-- Apps Court, London — Sat, 11 Jul 2026
-- Amnesia Ibiza, Ibiza — Fri, 3 Jul 2026
-- Amnesia Ibiza, Ibiza — Fri, 26 Jun 2026
-- Two Tribes CAMPFIRE, London — Sat, 20 Jun 2026
-- Two Tribes CAMPFIRE, London — Sat, 20 Jun 2026
-- Sísí Rooftop Glasgow, Glasgow — Sun, 24 May 2026
+- TBA - Merkur Casino, Leeds · Sat, 26 Sept 2026
+- Night Tales Loft, London · Fri, 7 Aug 2026
+- Apps Court, London · Sat, 11 Jul 2026
+- Amnesia Ibiza, Ibiza · Fri, 3 Jul 2026
+- Amnesia Ibiza, Ibiza · Fri, 26 Jun 2026
+- Two Tribes CAMPFIRE, London · Sat, 20 Jun 2026
+- Two Tribes CAMPFIRE, London · Sat, 20 Jun 2026
+- Sísí Rooftop Glasgow, Glasgow · Sun, 24 May 2026
 
 ## Shares bills with
 

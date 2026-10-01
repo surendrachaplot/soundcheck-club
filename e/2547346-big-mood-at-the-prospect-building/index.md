@@ -1,6 +1,6 @@
 # BIG MOOD at The Prospect Building
 
-BIG MOOD at The Prospect Building on Sat 24 Oct, Bristol. 4 artists on the bill: ABSOLUTE., Bimini, Jodie Harsh and Liam Parsons. Preview the line-up and save it on soundcheck.
+BIG MOOD at The Prospect Building on Sat 24 Oct, Bristol. 4 artists: ABSOLUTE., Bimini, Jodie Harsh and Liam Parsons. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

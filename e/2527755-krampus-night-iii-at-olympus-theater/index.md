@@ -1,6 +1,6 @@
 # ☆KRAMPUS NIGHT III☆ at Olympus Theater
 
-☆KRAMPUS NIGHT III☆ at Olympus Theater on Sat 26 Dec, Detroit. 1 artist on the bill: Boyfriend Dick. Techno and Downtempo. Preview the line-up and save it on soundcheck.
+☆KRAMPUS NIGHT III☆ at Olympus Theater on Sat 26 Dec, Detroit. 1 artist: Boyfriend Dick. Techno and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Ben Bondy
 
-Ben Bondy is a Ambient and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Ben Bondy is a Ambient and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Ben Bondy is an ambient and bass artist based in United States of America, tracked on soundcheck, with 50 sets logged across Amsterdam, Berlin, Detroit and Glasgow and 10 more. Often billed alongside Special Guest DJ, Succubass and Yu Mi. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+Ben Bondy is an ambient and bass artist based in United States of America, with 50 gigs on soundcheck across Amsterdam, Berlin, Detroit and Glasgow and 10 more. Often billed alongside Special Guest DJ, Succubass and Yu Mi. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Ben Bondy is an ambient and bass artist based in United States of America, track
 
 ## Recently played
 
-- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
-- Process PDX, Portland — Sun, 19 Jul 2026
-- Process PDX, Portland — Thu, 2 Jul 2026
-- TBA - Downtown, Los Angeles — Sat, 30 May 2026
-- Marble Bar, Detroit — Sun, 24 May 2026
-- Marble Bar, Detroit — Sat, 23 May 2026
-- Process PDX, Portland — Sun, 5 Apr 2026
-- Process PDX, Portland — Thu, 26 Mar 2026
+- TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
+- Process PDX, Portland · Sun, 19 Jul 2026
+- Process PDX, Portland · Thu, 2 Jul 2026
+- TBA - Downtown, Los Angeles · Sat, 30 May 2026
+- Marble Bar, Detroit · Sun, 24 May 2026
+- Marble Bar, Detroit · Sat, 23 May 2026
+- Process PDX, Portland · Sun, 5 Apr 2026
+- Process PDX, Portland · Thu, 26 Mar 2026
 
 ## Shares bills with
 

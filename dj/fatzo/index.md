@@ -1,8 +1,8 @@
 # Fatzo
 
-Fatzo is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Fatzo is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Fatzo is a house and tech house artist based in France, tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Fatzo is a house and tech house artist based in France, with 136 gigs on soundcheck across Amsterdam, Antwerp, Austin and Bali and 38 more. Often billed alongside Oden, Armand Van Helden and Danny Howard. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Fatzo is a house and tech house artist based in France, tracked on soundcheck, w
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Tue, 29 Sept 2026
-- TBA - KENT COUNTY SHOWGROUND, London — Sat, 12 Sept 2026
-- [UNVRS], Ibiza — Sat, 22 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Thu, 30 Jul 2026
-- Ku Barcelona, Barcelona — Sun, 26 Jul 2026
-- Chinois Ibiza, Ibiza — Thu, 23 Jul 2026
-- Silverworks Island, London — Sat, 11 Jul 2026
-- fabric, London — Sat, 11 Jul 2026
+- Hï Ibiza, Ibiza · Tue, 29 Sept 2026
+- TBA - KENT COUNTY SHOWGROUND, London · Sat, 12 Sept 2026
+- [UNVRS], Ibiza · Sat, 22 Aug 2026
+- Ushuaïa Ibiza, Ibiza · Thu, 30 Jul 2026
+- Ku Barcelona, Barcelona · Sun, 26 Jul 2026
+- Chinois Ibiza, Ibiza · Thu, 23 Jul 2026
+- Silverworks Island, London · Sat, 11 Jul 2026
+- fabric, London · Sat, 11 Jul 2026
 
 ## Shares bills with
 

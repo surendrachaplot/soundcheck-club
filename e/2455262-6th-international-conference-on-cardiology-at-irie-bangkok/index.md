@@ -1,6 +1,6 @@
 # 6th International Conference on Cardiology at Irie Bangkok
 
-6th International Conference on Cardiology at Irie Bangkok on Fri 13 Nov, Bangkok. Preview the line-up and save it on soundcheck.
+6th International Conference on Cardiology at Irie Bangkok on Fri 13 Nov, Bangkok. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Portamento
 
-Portamento is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at radial, London on Sun, 25 Oct 2026.
+Portamento is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at radial, London on Sun, 25 Oct 2026.
 
-Portamento is a deep house and techno artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Barcelona, Cologne, London and New York City. Often billed alongside 1991 (UK), 909 RACING TEAM and A.N.I.. Next up: radial, London on Sun 25 Oct.
+Portamento is a deep house and techno artist based in United Kingdom, with 9 gigs on soundcheck across Barcelona, Cologne, London and New York City. Often billed alongside 1991 (UK), 909 RACING TEAM and A.N.I.. Next up: radial, London on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Portamento is a deep house and techno artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- The Joiner on Worship, London — Sat, 12 Jul 2025
-- TBA - Malvern, London — Fri, 23 May 2025
-- Moondog Hifi, New York City — Thu, 8 May 2025
-- Círculo, Barcelona — Sun, 20 Apr 2025
-- Dream Bags Jaguar Shoes, London — Thu, 28 Mar 2024
-- Sui Generis, London — Thu, 15 Feb 2024
-- DreamBags Jaguarshoes, London — Fri, 9 Feb 2024
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- The Joiner on Worship, London · Sat, 12 Jul 2025
+- TBA - Malvern, London · Fri, 23 May 2025
+- Moondog Hifi, New York City · Thu, 8 May 2025
+- Círculo, Barcelona · Sun, 20 Apr 2025
+- Dream Bags Jaguar Shoes, London · Thu, 28 Mar 2024
+- Sui Generis, London · Thu, 15 Feb 2024
+- DreamBags Jaguarshoes, London · Fri, 9 Feb 2024
 
 ## Shares bills with
 

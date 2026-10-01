@@ -1,6 +1,6 @@
 # Paris Electronic Week - Pass dimanche at Mains D'œuvres
 
-Paris Electronic Week - Pass dimanche at Mains D'œuvres on Sun 4 Oct, Paris. Preview the line-up and save it on soundcheck.
+Paris Electronic Week - Pass dimanche at Mains D'œuvres on Sun 4 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

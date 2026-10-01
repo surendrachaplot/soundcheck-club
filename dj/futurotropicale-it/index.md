@@ -1,8 +1,8 @@
 # Futuro Tropicale
 
-Futuro Tropicale is a House and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ex Macello, Milan on Sat, 3 Oct 2026.
+Futuro Tropicale is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ex Macello, Milan on Sat, 3 Oct 2026.
 
-Futuro Tropicale is a house and electronica artist based in Italy, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin and Milan. Often billed alongside Lele Sacchi, Marthial and Dolce Potente. Next up: Ex Macello, Milan on Sat 3 Oct.
+Futuro Tropicale is a house and electronica artist based in Italy, with 54 gigs on soundcheck across Amsterdam, Berlin and Milan. Often billed alongside Lele Sacchi, Marthial and Dolce Potente. Next up: Ex Macello, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Futuro Tropicale is a house and electronica artist based in Italy, tracked on so
 
 ## Recently played
 
-- Tempio del Futuro Perduto, Milan — Sat, 5 Sept 2026
-- Tempio del Futuro Perduto, Milan — Sat, 22 Aug 2026
-- Tempio del Futuro Perduto, Milan — Sat, 25 Jul 2026
-- Altrove, Milan — Thu, 25 Jun 2026
-- Tempio del Futuro Perduto, Milan — Sat, 20 Jun 2026
-- Anfiteatro Monte Stella, Milan — Sat, 13 Jun 2026
-- Tempio del Futuro Perduto, Milan — Sun, 24 May 2026
-- Tempio del Futuro Perduto, Milan — Sat, 23 May 2026
+- Tempio del Futuro Perduto, Milan · Sat, 5 Sept 2026
+- Tempio del Futuro Perduto, Milan · Sat, 22 Aug 2026
+- Tempio del Futuro Perduto, Milan · Sat, 25 Jul 2026
+- Altrove, Milan · Thu, 25 Jun 2026
+- Tempio del Futuro Perduto, Milan · Sat, 20 Jun 2026
+- Anfiteatro Monte Stella, Milan · Sat, 13 Jun 2026
+- Tempio del Futuro Perduto, Milan · Sun, 24 May 2026
+- Tempio del Futuro Perduto, Milan · Sat, 23 May 2026
 
 ## Shares bills with
 

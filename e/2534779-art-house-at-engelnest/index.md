@@ -1,6 +1,6 @@
 # Art&House at Engelnest
 
-Art&House at Engelnest on Sat 10 Oct, Berlin. 3 artists on the bill: Czech Strings, R2-RO and tolsoy. House and Garage. Preview the line-up and save it on soundcheck.
+Art&House at Engelnest on Sat 10 Oct, Berlin. 3 artists: Czech Strings, R2-RO and tolsoy. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

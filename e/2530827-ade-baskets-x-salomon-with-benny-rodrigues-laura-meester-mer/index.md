@@ -1,6 +1,6 @@
 # ADE: Baskets x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman at Radio Radio
 
-ADE: Baskets x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman at Radio Radio on Fri 23 Oct, Amsterdam. 3 artists on the bill: Benny Rodrigues, Laura Meester and Merel Helderman. House. Preview the line-up and save it on soundcheck.
+ADE: Baskets x Salomon with Benny Rodrigues • Laura Meester • Merel Helderman at Radio Radio on Fri 23 Oct, Amsterdam. 3 artists: Benny Rodrigues, Laura Meester and Merel Helderman. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

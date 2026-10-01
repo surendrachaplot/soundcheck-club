@@ -1,6 +1,6 @@
 # CITY OF MAKINA at City Hall
 
-CITY OF MAKINA at City Hall on Sat 17 Oct, Barcelona. 1 artist on the bill: Ruben XXL. Techno. Preview the line-up and save it on soundcheck.
+CITY OF MAKINA at City Hall on Sat 17 Oct, Barcelona. 1 artist: Ruben XXL. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

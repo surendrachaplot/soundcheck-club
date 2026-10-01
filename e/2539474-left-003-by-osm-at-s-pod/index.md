@@ -1,6 +1,6 @@
 # LEFT 003 by OSM at S-Pod
 
-LEFT 003 by OSM at S-Pod on Sat 17 Oct, Kyoto. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+LEFT 003 by OSM at S-Pod on Sat 17 Oct, Kyoto. Breakbeat and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # luna.corp presents felicity j lord + corporate finance at Combo Milano at Combo Milano
 
-luna.corp presents felicity j lord + corporate finance at Combo Milano on Thu 8 Oct, Milan. Preview the line-up and save it on soundcheck.
+luna.corp presents felicity j lord + corporate finance at Combo Milano on Thu 8 Oct, Milan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

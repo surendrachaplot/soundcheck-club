@@ -1,6 +1,6 @@
 # TRAGEDIE x INDISKRET at Ritter Butzke
 
-TRAGEDIE x INDISKRET at Ritter Butzke on Fri 6 Nov, Berlin. 9 artists on the bill: Concentio, Confred, Pajüh and Queto and 5 more. Techno. Preview the line-up and save it on soundcheck.
+TRAGEDIE x INDISKRET at Ritter Butzke on Fri 6 Nov, Berlin. 9 artists: Concentio, Confred, Pajüh and Queto and 5 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

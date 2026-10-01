@@ -1,6 +1,6 @@
 # 07ELEVEN X Kowalski at Kowalski
 
-07ELEVEN X Kowalski on Fri 16 Oct, Stuttgart. 1 artist on the bill: Thomas Colin. Techno and House. Preview the line-up and save it on soundcheck.
+07ELEVEN X Kowalski on Fri 16 Oct, Stuttgart. 1 artist: Thomas Colin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

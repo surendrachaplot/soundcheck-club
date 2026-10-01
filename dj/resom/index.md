@@ -1,8 +1,8 @@
 # Resom
 
-Resom is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
+Resom is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bassiani, Tbilisi on Fri, 9 Oct 2026.
 
-Resom is a techno and house artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Bangkok, Berlin and Hamburg and 6 more. Often billed alongside .VRIL, ATEQ and Boyá. Next up: Bassiani, Tbilisi on Fri 9 Oct.
+Resom is a techno and house artist based in Germany, with 44 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Hamburg and 6 more. Often billed alongside .VRIL, ATEQ and Boyá. Next up: Bassiani, Tbilisi on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Resom is a techno and house artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
-- Südpol, Hamburg — Fri, 4 Sept 2026
-- Bassiani, Tbilisi — Fri, 16 Jan 2026
-- Südpol, Hamburg — Thu, 2 Oct 2025
-- Bijhuub, Amsterdam — Sat, 14 Jun 2025
-- arkaoda Berlin, Berlin — Fri, 11 Apr 2025
-- Conne Island, Leipzig — Fri, 14 Mar 2025
-- Institut fuer Zukunft (IfZ), Leipzig — Wed, 1 Jan 2025
-- Bassiani, Tbilisi — Fri, 4 Oct 2024
+- Südpol, Hamburg · Fri, 4 Sept 2026
+- Bassiani, Tbilisi · Fri, 16 Jan 2026
+- Südpol, Hamburg · Thu, 2 Oct 2025
+- Bijhuub, Amsterdam · Sat, 14 Jun 2025
+- arkaoda Berlin, Berlin · Fri, 11 Apr 2025
+- Conne Island, Leipzig · Fri, 14 Mar 2025
+- Institut fuer Zukunft (IfZ), Leipzig · Wed, 1 Jan 2025
+- Bassiani, Tbilisi · Fri, 4 Oct 2024
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # João Melgueira
 
-João Melgueira is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Pensão Amor, Lisbon on Mon, 5 Oct 2026.
+João Melgueira is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Pensão Amor, Lisbon on Mon, 5 Oct 2026.
 
-João Melgueira is a techno and house artist based in Portugal, tracked on soundcheck, with 140 sets logged across Lisbon. Often billed alongside Vitor Domingos, Paixão and FURAVIA. Next up: TBA - Pensão Amor, Lisbon on Mon 5 Oct.
+João Melgueira is a house and techno artist based in Portugal, with 142 gigs on soundcheck across Lisbon. Often billed alongside Vitor Domingos, Paixão and FURAVIA. Next up: TBA - Pensão Amor, Lisbon on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -12,17 +12,19 @@ João Melgueira is a techno and house artist based in Portugal, tracked on sound
 | Sat, 10 Oct 2026 | o Bom, o Mau e o Vilão | Lisbon |
 | Fri, 16 Oct 2026 | TBA - Pensão Amor | Lisbon |
 | Thu, 22 Oct 2026 | Desterro | Lisbon |
+| Fri, 23 Oct 2026 | TBA - Pensão Amor | Lisbon |
+| Wed, 28 Oct 2026 | TBA - Pensão Amor | Lisbon |
 
 ## Recently played
 
-- o Bom, o Mau e o Vilão, Lisbon — Fri, 25 Sept 2026
-- TBA - Pensão Amor, Lisbon — Wed, 23 Sept 2026
-- Desterro, Lisbon — Sat, 19 Sept 2026
-- TBA - Pensão Amor, Lisbon — Fri, 18 Sept 2026
-- Ministerium Club, Lisbon — Thu, 10 Sept 2026
-- TBA - Pensão Amor, Lisbon — Tue, 1 Sept 2026
-- TBA - Pensão Amor, Lisbon — Sun, 23 Aug 2026
-- o Bom, o Mau e o Vilão, Lisbon — Fri, 21 Aug 2026
+- o Bom, o Mau e o Vilão, Lisbon · Fri, 25 Sept 2026
+- TBA - Pensão Amor, Lisbon · Wed, 23 Sept 2026
+- Desterro, Lisbon · Sat, 19 Sept 2026
+- TBA - Pensão Amor, Lisbon · Fri, 18 Sept 2026
+- Ministerium Club, Lisbon · Thu, 10 Sept 2026
+- TBA - Pensão Amor, Lisbon · Tue, 1 Sept 2026
+- TBA - Pensão Amor, Lisbon · Sun, 23 Aug 2026
+- o Bom, o Mau e o Vilão, Lisbon · Fri, 21 Aug 2026
 
 ## Shares bills with
 

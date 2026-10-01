@@ -1,6 +1,6 @@
 # RadioLDN - Rave Party - Trades Hall Cricklewood at TBA - Cricklewood Trades Hall Club
 
-RadioLDN - Rave Party - Trades Hall Cricklewood at TBA - Cricklewood Trades Hall Club on Sat 31 Oct, London. 1 artist on the bill: Dj PeXu. Techno. Preview the line-up and save it on soundcheck.
+RadioLDN - Rave Party - Trades Hall Cricklewood at TBA - Cricklewood Trades Hall Club on Sat 31 Oct, London. 1 artist: Dj PeXu. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

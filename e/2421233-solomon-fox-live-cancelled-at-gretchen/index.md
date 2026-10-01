@@ -1,6 +1,6 @@
 # SOLOMON FOX *live // CANCELLED at Gretchen
 
-SOLOMON FOX *live // CANCELLED at Gretchen on Tue 17 Nov, Berlin. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+SOLOMON FOX *live // CANCELLED at Gretchen on Tue 17 Nov, Berlin. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

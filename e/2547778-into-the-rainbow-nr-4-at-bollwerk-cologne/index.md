@@ -1,6 +1,6 @@
 # Into the Rainbow ... Nr. 4 at Bollwerk Cologne
 
-Into the Rainbow ... Nr. 4 at Bollwerk Cologne on Thu 8 Oct, Cologne. 2 artists on the bill: Ezekiel (DE) and Marvin. Techno. Preview the line-up and save it on soundcheck.
+Into the Rainbow ... Nr. 4 at Bollwerk Cologne on Thu 8 Oct, Cologne. 2 artists: Ezekiel (DE) and Marvin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

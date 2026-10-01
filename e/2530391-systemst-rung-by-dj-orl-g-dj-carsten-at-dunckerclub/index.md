@@ -1,6 +1,6 @@
 # SYSTEMSTØRUNG by DJ Orlög & DJ Carsten at Dunckerclub
 
-SYSTEMSTØRUNG by DJ Orlög & DJ Carsten at Dunckerclub on Fri 2 Oct, Berlin. Post-Punk. Preview the line-up and save it on soundcheck.
+SYSTEMSTØRUNG by DJ Orlög & DJ Carsten at Dunckerclub on Fri 2 Oct, Berlin. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

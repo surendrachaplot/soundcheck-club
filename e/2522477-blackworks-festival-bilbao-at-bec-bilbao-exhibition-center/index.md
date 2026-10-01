@@ -1,6 +1,6 @@
 # BlackWorks Festival Bilbao at BEC (Bilbao Exhibition Center)
 
-BlackWorks Festival Bilbao at BEC (Bilbao Exhibition Center) on Sat 28 Nov, North. 7 artists on the bill: 6EJOU, Aiden (DE), Dexphase and Dual Damage and 3 more. Preview the line-up and save it on soundcheck.
+BlackWorks Festival Bilbao at BEC (Bilbao Exhibition Center) on Sat 28 Nov, North. 7 artists: 6EJOU, Aiden (DE), Dexphase and Dual Damage and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ABE, Wick, MASAKI69 & FLOAT at DJ Bar Bridge Shinjuku
 
-ABE, Wick, MASAKI69 & FLOAT at DJ Bar Bridge Shinjuku on Thu 1 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+ABE, Wick, MASAKI69 & FLOAT at DJ Bar Bridge Shinjuku on Thu 1 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

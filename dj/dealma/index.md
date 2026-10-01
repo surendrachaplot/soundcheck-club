@@ -1,8 +1,8 @@
 # DE ALMA
 
-DE ALMA is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, San Francisco/Oakland on Sun, 1 Nov 2026.
+DE ALMA is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, San Francisco/Oakland on Sun, 1 Nov 2026.
 
-DE ALMA is a techno and club artist based in United States of America, tracked on soundcheck, with 52 sets logged across Chicago, Detroit, New York City and San Francisco/Oakland. Often billed alongside Discnogirl, Brown Amy and DJ JUANNY. Next up: TBA, San Francisco/Oakland on Sun 1 Nov.
+DE ALMA is a techno and club artist based in United States of America, with 52 gigs on soundcheck across Chicago, Detroit, New York City and San Francisco/Oakland. Often billed alongside Discnogirl, Brown Amy and DJ JUANNY. Next up: TBA, San Francisco/Oakland on Sun 1 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DE ALMA is a techno and club artist based in United States of America, tracked o
 
 ## Recently played
 
-- TBA, San Francisco/Oakland — Fri, 18 Sept 2026
-- The Great Northern, San Francisco/Oakland — Thu, 30 Jul 2026
-- Club Waziema, San Francisco/Oakland — Fri, 10 Apr 2026
-- Club Waziema, San Francisco/Oakland — Wed, 18 Mar 2026
-- Mothership, San Francisco/Oakland — Fri, 20 Feb 2026
-- The Foundry, San Francisco/Oakland — Sat, 31 Jan 2026
-- Monarch, San Francisco/Oakland — Sat, 24 Jan 2026
-- Monarch, San Francisco/Oakland — Wed, 31 Dec 2025
+- TBA, San Francisco/Oakland · Fri, 18 Sept 2026
+- The Great Northern, San Francisco/Oakland · Thu, 30 Jul 2026
+- Club Waziema, San Francisco/Oakland · Fri, 10 Apr 2026
+- Club Waziema, San Francisco/Oakland · Wed, 18 Mar 2026
+- Mothership, San Francisco/Oakland · Fri, 20 Feb 2026
+- The Foundry, San Francisco/Oakland · Sat, 31 Jan 2026
+- Monarch, San Francisco/Oakland · Sat, 24 Jan 2026
+- Monarch, San Francisco/Oakland · Wed, 31 Dec 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Label Night at Mastak
 
-Label Night at Mastak on Sat 14 Nov, Warsaw. Techno. Preview the line-up and save it on soundcheck.
+Label Night at Mastak on Sat 14 Nov, Warsaw. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

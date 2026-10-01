@@ -1,8 +1,8 @@
 # Sawmills
 
-Sawmills is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Kelvin 373 presents: Boiling Point XL with Electrikal Soundsystem" on Sat, 10 Oct 2026.
+Sawmills is a music venue in Bristol with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Kelvin 373 presents: Boiling Point XL with Electrikal Soundsystem" on Sat, 10 Oct 2026.
 
-Sawmills is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including ATRIP, Barker, Batu and Bladerunner and 2 more. Browse upcoming dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
+Sawmills is a music venue in Bristol listed on soundcheck. 6 upcoming gigs, with line-ups including ATRIP, Barker, Batu and Bladerunner and 2 more. See dates, start times and who's playing. 30 Pennywell Rd, St Jude's, Bristol BS5 0TH.
 
 ## What's on
 

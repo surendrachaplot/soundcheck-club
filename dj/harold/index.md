@@ -1,8 +1,8 @@
 # Harold
 
-Harold is a Techno and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+Harold is a Techno and IDM artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
-Harold is a techno and idm artist based in Australia, tracked on soundcheck, with 29 sets logged across Amsterdam, Hobart, London and Melbourne and 2 more. Often billed alongside Tangerine, Emelyne and Hylke. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
+Harold is a techno and idm artist based in Australia, with 29 gigs on soundcheck across Amsterdam, Hobart, London and Melbourne and 2 more. Often billed alongside Tangerine, Emelyne and Hylke. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Harold is a techno and idm artist based in Australia, tracked on soundcheck, wit
 
 ## Recently played
 
-- TBA, Sydney — Sat, 1 Aug 2026
-- Solace, Melbourne — Fri, 24 Jul 2026
-- Ticcle, Hobart — Sun, 21 Jun 2026
-- Hobart Historic Cruises, Hobart — Fri, 12 Jun 2026
-- Solace, Melbourne — Sat, 30 May 2026
-- Miscellania, Melbourne — Fri, 22 May 2026
-- Grace Darling Hotel, Melbourne — Sat, 10 Jan 2026
-- TBA -  Taungurung Country (Victoria, Australia), Melbourne — Tue, 30 Dec 2025
+- TBA, Sydney · Sat, 1 Aug 2026
+- Solace, Melbourne · Fri, 24 Jul 2026
+- Ticcle, Hobart · Sun, 21 Jun 2026
+- Hobart Historic Cruises, Hobart · Fri, 12 Jun 2026
+- Solace, Melbourne · Sat, 30 May 2026
+- Miscellania, Melbourne · Fri, 22 May 2026
+- Grace Darling Hotel, Melbourne · Sat, 10 Jan 2026
+- TBA -  Taungurung Country (Victoria, Australia), Melbourne · Tue, 30 Dec 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Chmury
 
-Chmury is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "LEYA + AIR HUNGER" on Sun, 4 Oct 2026.
+Chmury is a music venue in Warsaw with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "LEYA + AIR HUNGER" on Sun, 4 Oct 2026.
 
-Chmury is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including LEYA. Browse upcoming dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
+Chmury is a music venue in Warsaw listed on soundcheck. 2 upcoming gigs, with line-ups including LEYA. See dates, start times and who's playing. 11 Listopada 22, 03-436 Warszawa.
 
 ## What's on
 

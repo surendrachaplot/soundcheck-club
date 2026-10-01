@@ -1,6 +1,6 @@
 # SECTOR SCHRANZ EDITION with AIDEN, Ben Techy, CHARLIE, NSLZ & TASSERY at Indiego Glocksee
 
-SECTOR SCHRANZ EDITION with AIDEN, Ben Techy, CHARLIE, NSLZ & TASSERY at Indiego Glocksee on Sat 3 Oct, Hannover. 4 artists on the bill: Aiden (DE), Ben Techy, NSLZ and TASSERY. Preview the line-up and save it on soundcheck.
+SECTOR SCHRANZ EDITION with AIDEN, Ben Techy, CHARLIE, NSLZ & TASSERY at Indiego Glocksee on Sat 3 Oct, Hannover. 4 artists: Aiden (DE), Ben Techy, NSLZ and TASSERY. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mad Professor + Dennis Bovell at New Century Locker
 
-Mad Professor + Dennis Bovell at New Century Locker on Fri 13 Nov, Manchester. 2 artists on the bill: Dennis Bovell and Mad Professor. Bass and Dub. Preview the line-up and save it on soundcheck.
+Mad Professor + Dennis Bovell at New Century Locker on Fri 13 Nov, Manchester. 2 artists: Dennis Bovell and Mad Professor. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

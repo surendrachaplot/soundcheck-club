@@ -1,8 +1,8 @@
 # Grandmixxer
 
-Grandmixxer is a Grime and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Thu, 29 Oct 2026.
+Grandmixxer is a Grime and Dub artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Thu, 29 Oct 2026.
 
-Grandmixxer is a grime and dub artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 4 more. Often billed alongside Manga Saint Hilare, Flowdan and Mantra. Next up: M.O.T, London on Thu 29 Oct.
+Grandmixxer is a grime and dub artist based in United Kingdom, with 26 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 4 more. Often billed alongside Manga Saint Hilare, Flowdan and Mantra. Next up: M.O.T, London on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Grandmixxer is a grime and dub artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Phonox, London — Fri, 18 Sept 2026
-- Freud's, London — Thu, 17 Sept 2026
-- Ormside Projects, London — Fri, 24 Jul 2026
-- Garage Noord, Amsterdam — Sat, 4 Jul 2026
-- Botanique, Brussels — Fri, 19 Jun 2026
-- The Croft, Bristol — Fri, 1 May 2026
-- fabric, London — Fri, 30 Jan 2026
-- Ormside Projects, London — Thu, 27 Nov 2025
+- Phonox, London · Fri, 18 Sept 2026
+- Freud's, London · Thu, 17 Sept 2026
+- Ormside Projects, London · Fri, 24 Jul 2026
+- Garage Noord, Amsterdam · Sat, 4 Jul 2026
+- Botanique, Brussels · Fri, 19 Jun 2026
+- The Croft, Bristol · Fri, 1 May 2026
+- fabric, London · Fri, 30 Jan 2026
+- Ormside Projects, London · Thu, 27 Nov 2025
 
 ## Shares bills with
 

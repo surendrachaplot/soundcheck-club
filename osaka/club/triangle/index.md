@@ -1,8 +1,8 @@
 # Triangle
 
-Triangle is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "'MELTDØWN' vol.17 -HARD TECHNO / HARDCORE TECHNO RAVE-" on Sat, 3 Oct 2026.
+Triangle is a music venue in Osaka with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "'MELTDØWN' vol.17 -HARD TECHNO / HARDCORE TECHNO RAVE-" on Sat, 3 Oct 2026.
 
-Triangle is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including 死者蘇生CH, Deejay Energy, INDEX and into and 2 more. Browse upcoming dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
+Triangle is a music venue in Osaka listed on soundcheck. 4 upcoming gigs, with line-ups including 死者蘇生CH, Deejay Energy, INDEX and into and 2 more. See dates, start times and who's playing. 2-18-5 Nishishinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0086 Japan.
 
 ## What's on
 

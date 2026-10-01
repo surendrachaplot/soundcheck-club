@@ -1,6 +1,6 @@
 # Fat Out 26 with Divide and Dissolve, Optimo (Espacio) at The White Hotel
 
-Fat Out 26 with Divide and Dissolve, Optimo (Espacio) at The White Hotel on Fri 23 Oct, Manchester. 4 artists on the bill: Abena, DANCING WITH STANLEY, Optimo (Espacio) and SHERI. Preview the line-up and save it on soundcheck.
+Fat Out 26 with Divide and Dissolve, Optimo (Espacio) at The White Hotel on Fri 23 Oct, Manchester. 4 artists: Abena, DANCING WITH STANLEY, Optimo (Espacio) and SHERI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

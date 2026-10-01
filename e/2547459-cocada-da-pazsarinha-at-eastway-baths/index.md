@@ -1,6 +1,6 @@
 # Cocada da Pazsarinha at Eastway Baths
 
-Cocada da Pazsarinha at Eastway Baths on Fri 9 Oct, London. Preview the line-up and save it on soundcheck.
+Cocada da Pazsarinha at Eastway Baths on Fri 9 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

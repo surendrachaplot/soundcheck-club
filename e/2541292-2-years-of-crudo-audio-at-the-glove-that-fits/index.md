@@ -1,6 +1,6 @@
 # 2 Years of Crudo Audio at The Glove That Fits
 
-2 Years of Crudo Audio at The Glove That Fits on Fri 6 Nov, London. 2 artists on the bill: DREIAN and Gabrielle (DE). Techno. Preview the line-up and save it on soundcheck.
+2 Years of Crudo Audio at The Glove That Fits on Fri 6 Nov, London. 2 artists: DREIAN and Gabrielle (DE). Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

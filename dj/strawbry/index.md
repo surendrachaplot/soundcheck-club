@@ -1,8 +1,8 @@
 # STRAWBRY
 
-STRAWBRY is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
+STRAWBRY is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 21 Nov 2026.
 
-STRAWBRY is a house and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across Los Angeles, Manchester, Miami and San Diego and 1 more. Often billed alongside ATRIP, Oppidan and BIATA. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
+STRAWBRY is a house and club artist based in United States of America, with 23 gigs on soundcheck across Los Angeles, Manchester, Miami and San Diego and 1 more. Often billed alongside ATRIP, Oppidan and BIATA. Next up: Depot Mayfield, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ STRAWBRY is a house and club artist based in United States of America, tracked o
 
 ## Recently played
 
-- TBA, Los Angeles — Sun, 27 Sept 2026
-- The Great Northern, San Francisco/Oakland — Sat, 26 Sept 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- The Ground at Club Space, Miami — Sun, 24 May 2026
-- 1015 Folsom, San Francisco/Oakland — Fri, 13 Mar 2026
-- Sunset at EDITION, Los Angeles — Sat, 3 Jan 2026
-- Gallagher Square, San Diego — Fri, 14 Nov 2025
-- TBA - 624 S Anderson Street LA CA 90023, Los Angeles — Fri, 20 Jun 2025
+- TBA, Los Angeles · Sun, 27 Sept 2026
+- The Great Northern, San Francisco/Oakland · Sat, 26 Sept 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- The Ground at Club Space, Miami · Sun, 24 May 2026
+- 1015 Folsom, San Francisco/Oakland · Fri, 13 Mar 2026
+- Sunset at EDITION, Los Angeles · Sat, 3 Jan 2026
+- Gallagher Square, San Diego · Fri, 14 Nov 2025
+- TBA - 624 S Anderson Street LA CA 90023, Los Angeles · Fri, 20 Jun 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Circles: Subject x Tresor [T35 - Tresor 35th Anniversary] at Wigwam
 
-Circles: Subject x Tresor [T35 - Tresor 35th Anniversary] at Wigwam on Sun 25 Oct, Dublin. 8 artists on the bill: Aero, Ayolxi, Cailín and Daniel Bell and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+Circles: Subject x Tresor [T35 - Tresor 35th Anniversary] at Wigwam on Sun 25 Oct, Dublin. 8 artists: Aero, Ayolxi, Cailín and Daniel Bell and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

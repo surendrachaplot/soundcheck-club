@@ -1,8 +1,8 @@
 # Cleos
 
-Cleos is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Fri, 9 Oct 2026.
+Cleos is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Fri, 9 Oct 2026.
 
-Cleos is a tech house and techno artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin. Often billed alongside Paqueta, Bäggy and KBLZ. Next up: Kater, Berlin on Fri 9 Oct.
+Cleos is a tech house and techno artist based in Germany, with 18 gigs on soundcheck across Berlin. Often billed alongside Paqueta, Bäggy and KBLZ. Next up: Kater, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Cleos is a tech house and techno artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Klunkerkranich, Berlin — Fri, 19 Jun 2026
-- Beate Uwe, Berlin — Sat, 20 Dec 2025
-- Klunkerkranich, Berlin — Sat, 30 Aug 2025
-- Amano East-Side, Berlin — Fri, 16 May 2025
-- M01, Berlin — Thu, 17 Apr 2025
-- Klunkerkranich, Berlin — Sat, 19 Oct 2024
-- Kater, Berlin — Fri, 28 Jun 2024
-- gART.n, Berlin — Sat, 8 Jun 2024
+- Klunkerkranich, Berlin · Fri, 19 Jun 2026
+- Beate Uwe, Berlin · Sat, 20 Dec 2025
+- Klunkerkranich, Berlin · Sat, 30 Aug 2025
+- Amano East-Side, Berlin · Fri, 16 May 2025
+- M01, Berlin · Thu, 17 Apr 2025
+- Klunkerkranich, Berlin · Sat, 19 Oct 2024
+- Kater, Berlin · Fri, 28 Jun 2024
+- gART.n, Berlin · Sat, 8 Jun 2024
 
 ## Shares bills with
 

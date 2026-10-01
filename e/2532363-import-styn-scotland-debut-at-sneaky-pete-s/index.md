@@ -1,6 +1,6 @@
 # Import: Styn (Scotland Debut) at Sneaky Pete's
 
-Import: Styn (Scotland Debut) at Sneaky Pete's on Thu 1 Oct, Edinburgh. 2 artists on the bill: Buckfast Barbie and Styn. Dubstep and Latin Bass. Preview the line-up and save it on soundcheck.
+Import: Styn (Scotland Debut) at Sneaky Pete's on Thu 1 Oct, Edinburgh. 2 artists: Buckfast Barbie and Styn. Dubstep and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

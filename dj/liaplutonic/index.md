@@ -1,8 +1,8 @@
 # Lia Plutonic
 
-Lia Plutonic is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
+Lia Plutonic is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 4 Oct 2026.
 
-Lia Plutonic is a house and techno artist based in Canada, tracked on soundcheck, with 73 sets logged across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Guthrie, Lis Dalton and Pascale Project. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
+Lia Plutonic is a house and techno artist based in Canada, with 73 gigs on soundcheck across Chicago, Montreal, Toronto and Vancouver. Often billed alongside Guthrie, Lis Dalton and Pascale Project. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Lia Plutonic is a house and techno artist based in Canada, tracked on soundcheck
 
 ## Recently played
 
-- Vino Disco, Montreal — Wed, 26 Aug 2026
-- Village au Pied-du-Courant, Montreal — Sun, 16 Aug 2026
-- Bar Datcha, Montreal — Sat, 8 Aug 2026
-- TBA - Centre-sud, Montreal — Fri, 7 Aug 2026
-- Sans Soleil, Montreal — Sun, 19 Jul 2026
-- TBA - Secret Location, Chicago — Sat, 11 Jul 2026
-- Sans Soleil, Montreal — Fri, 19 Jun 2026
-- Rhythm, Toronto — Fri, 29 May 2026
+- Vino Disco, Montreal · Wed, 26 Aug 2026
+- Village au Pied-du-Courant, Montreal · Sun, 16 Aug 2026
+- Bar Datcha, Montreal · Sat, 8 Aug 2026
+- TBA - Centre-sud, Montreal · Fri, 7 Aug 2026
+- Sans Soleil, Montreal · Sun, 19 Jul 2026
+- TBA - Secret Location, Chicago · Sat, 11 Jul 2026
+- Sans Soleil, Montreal · Fri, 19 Jun 2026
+- Rhythm, Toronto · Fri, 29 May 2026
 
 ## Shares bills with
 

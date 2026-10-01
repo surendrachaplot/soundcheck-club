@@ -1,6 +1,6 @@
 # Weds Vinyl LP playback & cocktail sessions-Goldie- Timeless at 26 Curtain Road
 
-Weds Vinyl LP playback & cocktail sessions-Goldie- Timeless at 26 Curtain Road on Wed 14 Oct, London. 1 artist on the bill: Neil Thornton. Drum & Bass and Downtempo. Preview the line-up and save it on soundcheck.
+Weds Vinyl LP playback & cocktail sessions-Goldie- Timeless at 26 Curtain Road on Wed 14 Oct, London. 1 artist: Neil Thornton. Drum & Bass and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

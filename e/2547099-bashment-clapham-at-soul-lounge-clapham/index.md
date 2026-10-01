@@ -1,6 +1,6 @@
 # Bashment Clapham at Soul Lounge Clapham
 
-Bashment Clapham at Soul Lounge Clapham on Sat 10 Oct, London. Preview the line-up and save it on soundcheck.
+Bashment Clapham at Soul Lounge Clapham on Sat 10 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

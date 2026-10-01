@@ -1,6 +1,6 @@
 # DJ Niko Rnb nights at TBA
 
-DJ Niko Rnb nights at TBA on Sat 3 Oct, New York City. R&B. Preview the line-up and save it on soundcheck.
+DJ Niko Rnb nights at TBA on Sat 3 Oct, New York City. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

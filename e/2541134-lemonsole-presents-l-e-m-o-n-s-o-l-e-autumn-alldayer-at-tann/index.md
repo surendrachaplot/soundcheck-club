@@ -1,6 +1,6 @@
 # lemonsole presents - l e m o n s o l e Autumn Alldayer at Tannochside Miners Welfare
 
-lemonsole presents - l e m o n s o l e Autumn Alldayer at Tannochside Miners Welfare on Sat 7 Nov, Glasgow. Funk / Soul. Preview the line-up and save it on soundcheck.
+lemonsole presents - l e m o n s o l e Autumn Alldayer at Tannochside Miners Welfare on Sat 7 Nov, Glasgow. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) at KOKO
 
-KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) on Fri 27 Nov, London. 1 artist on the bill: WhoMadeWho. Preview the line-up and save it on soundcheck.
+KOKO Electronic x The Moment: WhoMadeWho (Fri 27th, Live) on Fri 27 Nov, London. 1 artist: WhoMadeWho. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DISCO DUCKS vol.5 at Swipe 池尻大橋
 
-DISCO DUCKS vol.5 at Swipe 池尻大橋 on Thu 1 Oct, Tokyo. 2 artists on the bill: DJ ISE and Mary-chan. House and Disco. Preview the line-up and save it on soundcheck.
+DISCO DUCKS vol.5 at Swipe 池尻大橋 on Thu 1 Oct, Tokyo. 2 artists: DJ ISE and Mary-chan. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

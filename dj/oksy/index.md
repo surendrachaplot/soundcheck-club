@@ -1,8 +1,8 @@
 # OKSY
 
-OKSY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Liquid Club, Malta on Sat, 17 Oct 2026.
+OKSY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Liquid Club, Malta on Sat, 17 Oct 2026.
 
-OKSY is a techno and trance artist based in North Macedonia, tracked on soundcheck, with 3 sets logged across Malta. Often billed alongside Adrian Mills, Anetha and BIIANCO. Next up: Liquid Club, Malta on Sat 17 Oct.
+OKSY is a techno and trance artist based in North Macedonia, with 3 gigs on soundcheck across Malta. Often billed alongside Adrian Mills, Anetha and BIIANCO. Next up: Liquid Club, Malta on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ OKSY is a techno and trance artist based in North Macedonia, tracked on soundche
 
 ## Recently played
 
-- Tigullio, Malta — Fri, 4 Sept 2026
+- Tigullio, Malta · Fri, 4 Sept 2026
 
 ## Shares bills with
 

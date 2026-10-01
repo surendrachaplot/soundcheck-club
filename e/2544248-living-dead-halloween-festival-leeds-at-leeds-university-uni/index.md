@@ -1,6 +1,6 @@
 # Living Dead Halloween Festival - Leeds at Leeds University Union
 
-Living Dead Halloween Festival - Leeds at Leeds University Union on Sat 31 Oct, Leeds. House and Disco. Preview the line-up and save it on soundcheck.
+Living Dead Halloween Festival - Leeds at Leeds University Union on Sat 31 Oct, Leeds. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

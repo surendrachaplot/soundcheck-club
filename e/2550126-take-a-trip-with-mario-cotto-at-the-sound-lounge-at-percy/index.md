@@ -1,6 +1,6 @@
 # Take A Trip with Mario Cotto at The Sound Lounge at Percy
 
-Take A Trip with Mario Cotto at The Sound Lounge at Percy on Fri 2 Oct, Philadelphia. 1 artist on the bill: Mario Cotto. Balearic. Preview the line-up and save it on soundcheck.
+Take A Trip with Mario Cotto at The Sound Lounge at Percy on Fri 2 Oct, Philadelphia. 1 artist: Mario Cotto. Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

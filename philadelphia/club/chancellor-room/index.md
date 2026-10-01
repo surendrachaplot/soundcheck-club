@@ -1,8 +1,8 @@
 # Chancellor Room
 
-Chancellor Room is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "We Want the Grooves" on Sat, 3 Oct 2026.
+Chancellor Room is a music venue in Philadelphia with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "We Want the Grooves" on Sat, 3 Oct 2026.
 
-Chancellor Room is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 1225 Chancellor Street, Philadelphia, PA, 19107.
+Chancellor Room is a music venue in Philadelphia listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 1225 Chancellor Street, Philadelphia, PA, 19107.
 
 ## What's on
 

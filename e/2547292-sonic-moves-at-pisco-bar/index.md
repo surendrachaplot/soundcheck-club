@@ -1,6 +1,6 @@
 # SONIC MOVES at Pisco Bar
 
-SONIC MOVES at Pisco Bar on Fri 16 Oct, Kuala Lumpur. 1 artist on the bill: ÆTHELGON. House and Tech House. Preview the line-up and save it on soundcheck.
+SONIC MOVES at Pisco Bar on Fri 16 Oct, Kuala Lumpur. 1 artist: ÆTHELGON. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

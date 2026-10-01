@@ -1,6 +1,6 @@
 # Future Yard presents Saigon Soul Revival at Future Yard
 
-Future Yard presents Saigon Soul Revival on Thu 29 Oct, Liverpool. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
+Future Yard presents Saigon Soul Revival on Thu 29 Oct, Liverpool. Funk / Soul and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

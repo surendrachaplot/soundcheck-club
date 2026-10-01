@@ -1,8 +1,8 @@
 # Fonzo (UK)
 
-Fonzo (UK) is a Garage and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
+Fonzo (UK) is a Garage and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NX Newcastle, Newcastle on Fri, 2 Oct 2026.
 
-Fonzo (UK) is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 10 more. Often billed alongside Yemz, Arthi and Notion. Next up: NX Newcastle, Newcastle on Fri 2 Oct.
+Fonzo (UK) is a garage and bass artist based in United Kingdom, with 38 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brisbane and 10 more. Often billed alongside Yemz, Arthi and Notion. Next up: NX Newcastle, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Fonzo (UK) is a garage and bass artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- The Greyhound, London — Fri, 31 Jul 2026
-- BRET, Amsterdam — Fri, 17 Jul 2026
-- NUMBER 90 LONDON, London — Thu, 16 Apr 2026
-- District Cardiff, Cardiff — Sat, 7 Mar 2026
-- The Island, Bristol — Fri, 6 Mar 2026
-- Soup, Manchester — Sat, 28 Feb 2026
-- Last Arch, London — Sat, 31 Jan 2026
-- M.O.T, London — Fri, 30 Jan 2026
+- The Greyhound, London · Fri, 31 Jul 2026
+- BRET, Amsterdam · Fri, 17 Jul 2026
+- NUMBER 90 LONDON, London · Thu, 16 Apr 2026
+- District Cardiff, Cardiff · Sat, 7 Mar 2026
+- The Island, Bristol · Fri, 6 Mar 2026
+- Soup, Manchester · Sat, 28 Feb 2026
+- Last Arch, London · Sat, 31 Jan 2026
+- M.O.T, London · Fri, 30 Jan 2026
 
 ## Shares bills with
 

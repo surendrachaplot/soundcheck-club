@@ -1,6 +1,6 @@
 # I Am A Raver Over 30s at Tempo
 
-I Am A Raver Over 30s at Tempo on Sat 5 Dec, Glasgow. Trance. Preview the line-up and save it on soundcheck.
+I Am A Raver Over 30s at Tempo on Sat 5 Dec, Glasgow. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

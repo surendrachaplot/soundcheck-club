@@ -1,8 +1,8 @@
 # DJ Equipment
 
-DJ Equipment is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Renate, Berlin on Sat, 10 Oct 2026.
+DJ Equipment is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Sat, 10 Oct 2026.
 
-DJ Equipment is a techno and house artist based in Switzerland, tracked on soundcheck, with 33 sets logged across Berlin, Bristol, Hamburg and Zurich. Often billed alongside Luka (CH), Bonnie OK and Jenny Cara. Next up: Renate, Berlin on Sat 10 Oct.
+DJ Equipment is a techno and house artist based in Switzerland, with 33 gigs on soundcheck across Berlin, Bristol, Hamburg and Zurich. Often billed alongside Luka (CH), Bonnie OK and Jenny Cara. Next up: Renate, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Equipment is a techno and house artist based in Switzerland, tracked on sound
 
 ## Recently played
 
-- Fabrik Du Plaisir, Zurich — Sat, 12 Sept 2026
-- Südpol, Hamburg — Fri, 10 Jul 2026
-- Uto-Staffel, Zurich — Sat, 6 Jun 2026
-- Kauz, Zurich — Sat, 7 Feb 2026
-- Frieda's Büxe, Zurich — Fri, 30 Jan 2026
-- Kauz, Zurich — Fri, 23 Jan 2026
-- Kauz, Zurich — Wed, 31 Dec 2025
-- Kauz, Zurich — Fri, 19 Dec 2025
+- Fabrik Du Plaisir, Zurich · Sat, 12 Sept 2026
+- Südpol, Hamburg · Fri, 10 Jul 2026
+- Uto-Staffel, Zurich · Sat, 6 Jun 2026
+- Kauz, Zurich · Sat, 7 Feb 2026
+- Frieda's Büxe, Zurich · Fri, 30 Jan 2026
+- Kauz, Zurich · Fri, 23 Jan 2026
+- Kauz, Zurich · Wed, 31 Dec 2025
+- Kauz, Zurich · Fri, 19 Dec 2025
 
 ## Shares bills with
 

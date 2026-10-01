@@ -1,6 +1,6 @@
 # Luciid at SILO
 
-Luciid at SILO on Fri 27 Nov, New York City. 1 artist on the bill: Luciid. Techno. Preview the line-up and save it on soundcheck.
+Luciid at SILO on Fri 27 Nov, New York City. 1 artist: Luciid. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

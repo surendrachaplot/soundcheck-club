@@ -1,6 +1,6 @@
 # Rooftop Sessions at The Salt Shed
 
-Rooftop Sessions at The Salt Shed on Sun 18 Oct, Chicago. 4 artists on the bill: Ariel Zetina, CTRLZORA, D. Strange and Sheefy McFly. Electro and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Rooftop Sessions at The Salt Shed on Sun 18 Oct, Chicago. 4 artists: Ariel Zetina, CTRLZORA, D. Strange and Sheefy McFly. Electro and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

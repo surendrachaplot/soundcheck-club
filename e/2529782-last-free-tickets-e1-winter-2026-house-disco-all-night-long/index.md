@@ -1,6 +1,6 @@
 # LAST FREE TICKETS: E1 WINTER 2026 – House & Disco ALL NIGHT LONG at E1
 
-LAST FREE TICKETS: E1 WINTER 2026 – House & Disco ALL NIGHT LONG on Fri 9 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+LAST FREE TICKETS: E1 WINTER 2026 – House & Disco ALL NIGHT LONG on Fri 9 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

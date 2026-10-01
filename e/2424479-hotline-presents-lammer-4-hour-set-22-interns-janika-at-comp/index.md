@@ -1,6 +1,6 @@
 # HOTLINE presents LAMMER (4 Hour Set) / 22 Interns / Janika at Complex Maastricht
 
-HOTLINE presents LAMMER (4 Hour Set) / 22 Interns / Janika at Complex Maastricht on Fri 16 Oct, Netherlands. 2 artists on the bill: 22 Interns and LAMMER. Preview the line-up and save it on soundcheck.
+HOTLINE presents LAMMER (4 Hour Set) / 22 Interns / Janika at Complex Maastricht on Fri 16 Oct, Netherlands. 2 artists: 22 Interns and LAMMER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

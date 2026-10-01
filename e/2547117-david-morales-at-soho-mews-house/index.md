@@ -1,6 +1,6 @@
 # David Morales at Soho Mews House
 
-David Morales at Soho Mews House on Fri 4 Dec, London. 1 artist on the bill: David Morales. House. Preview the line-up and save it on soundcheck.
+David Morales at Soho Mews House on Fri 4 Dec, London. 1 artist: David Morales. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

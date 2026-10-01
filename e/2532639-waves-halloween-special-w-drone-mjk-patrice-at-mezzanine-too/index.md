@@ -1,6 +1,6 @@
 # Waves - Halloween Special w/ Drone, MJK, Patrice at Mezzanine - Tooting
 
-Waves - Halloween Special w/ Drone, MJK, Patrice at Mezzanine - Tooting on Sat 31 Oct, London. 5 artists on the bill: Drone (UK), flux vortex, Kassita and Knegativ and 1 more. Bass and Garage. Preview the line-up and save it on soundcheck.
+Waves - Halloween Special w/ Drone, MJK, Patrice at Mezzanine - Tooting on Sat 31 Oct, London. 5 artists: Drone (UK), flux vortex, Kassita and Knegativ and 1 more. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

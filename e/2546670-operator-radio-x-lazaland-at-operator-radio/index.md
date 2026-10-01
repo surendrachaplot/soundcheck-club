@@ -1,6 +1,6 @@
 # Operator Radio X Lazaland at Operator Radio
 
-Operator Radio X Lazaland on Mon 28 Sept, Rotterdam. Techno and House. Preview the line-up and save it on soundcheck.
+Operator Radio X Lazaland on Mon 28 Sept, Rotterdam. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

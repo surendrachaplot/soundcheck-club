@@ -1,6 +1,6 @@
 # Sunday Sessions LA (Vinyl Only) Open Air at TBA
 
-Sunday Sessions LA (Vinyl Only) Open Air at TBA on Sun 15 Nov, Los Angeles. 1 artist on the bill: Eric Louis. House and Deep House. Preview the line-up and save it on soundcheck.
+Sunday Sessions LA (Vinyl Only) Open Air at TBA on Sun 15 Nov, Los Angeles. 1 artist: Eric Louis. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

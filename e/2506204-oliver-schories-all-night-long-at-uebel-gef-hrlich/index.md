@@ -1,6 +1,6 @@
 # Oliver Schories All Night Long at Uebel & Gefährlich
 
-Oliver Schories All Night Long at Uebel & Gefährlich on Sat 14 Nov, Hamburg. 1 artist on the bill: Oliver Schories. Preview the line-up and save it on soundcheck.
+Oliver Schories All Night Long at Uebel & Gefährlich on Sat 14 Nov, Hamburg. 1 artist: Oliver Schories. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

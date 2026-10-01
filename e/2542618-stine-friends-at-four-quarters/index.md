@@ -1,6 +1,6 @@
 # Stine & Friends at Four Quarters
 
-Stine & Friends at Four Quarters on Thu 15 Oct, London. 1 artist on the bill: Stine. House and UK Funky. Preview the line-up and save it on soundcheck.
+Stine & Friends at Four Quarters on Thu 15 Oct, London. 1 artist: Stine. House and UK Funky. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

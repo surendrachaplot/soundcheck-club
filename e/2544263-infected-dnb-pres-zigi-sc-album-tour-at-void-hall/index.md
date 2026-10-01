@@ -1,6 +1,6 @@
 # Infected Dnb pres. Zigi SC Album Tour at Void Hall
 
-Infected Dnb pres. Zigi SC Album Tour at Void Hall on Sat 24 Oct, Berlin. 4 artists on the bill: IHOPEIEXIST, TOXXISTENZE, unknown.dnb and Upzet. Drum & Bass. Preview the line-up and save it on soundcheck.
+Infected Dnb pres. Zigi SC Album Tour at Void Hall on Sat 24 Oct, Berlin. 4 artists: IHOPEIEXIST, TOXXISTENZE, unknown.dnb and Upzet. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

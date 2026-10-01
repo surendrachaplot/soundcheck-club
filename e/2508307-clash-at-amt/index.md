@@ -1,6 +1,6 @@
 # CLASH at AMT
 
-CLASH at AMT on Fri 16 Oct, Berlin. 4 artists on the bill: Darren Black, DJ LEVEL, jardabpm and Younox. Techno and House. Preview the line-up and save it on soundcheck.
+CLASH at AMT on Fri 16 Oct, Berlin. 4 artists: Darren Black, DJ LEVEL, jardabpm and Younox. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

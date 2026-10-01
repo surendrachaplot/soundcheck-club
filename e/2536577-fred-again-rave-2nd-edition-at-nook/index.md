@@ -1,6 +1,6 @@
 # FRED AGAIN RAVE - 2nd Edition at Nook
 
-FRED AGAIN RAVE - 2nd Edition at Nook on Fri 16 Oct, Bucharest. Techno. Preview the line-up and save it on soundcheck.
+FRED AGAIN RAVE - 2nd Edition at Nook on Fri 16 Oct, Bucharest. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

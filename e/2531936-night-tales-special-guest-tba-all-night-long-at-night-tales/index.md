@@ -1,6 +1,6 @@
 # Night Tales: Special Guest TBA [All Night Long] at Night Tales
 
-Night Tales: Special Guest TBA [All Night Long] on Sat 28 Nov, London. House. Preview the line-up and save it on soundcheck.
+Night Tales: Special Guest TBA [All Night Long] on Sat 28 Nov, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

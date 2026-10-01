@@ -1,6 +1,6 @@
 # Music Lounge mit Cedric Scheibel at Spielbank Berlin am Potsdamer Platz
 
-Music Lounge mit Cedric Scheibel at Spielbank Berlin am Potsdamer Platz on Wed 21 Oct, Berlin. 1 artist on the bill: Cedric Scheibel. Jazz and Pop. Preview the line-up and save it on soundcheck.
+Music Lounge mit Cedric Scheibel at Spielbank Berlin am Potsdamer Platz on Wed 21 Oct, Berlin. 1 artist: Cedric Scheibel. Jazz and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

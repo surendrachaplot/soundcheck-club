@@ -1,6 +1,6 @@
 # Ensemble for New Music Tallinn & Ensemble21 / Sound Plasma Berlin at Start.Bahn - Genezarethkirche
 
-Ensemble for New Music Tallinn & Ensemble21 / Sound Plasma Berlin at Start.Bahn - Genezarethkirche on Fri 6 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Ensemble for New Music Tallinn & Ensemble21 / Sound Plasma Berlin at Start.Bahn - Genezarethkirche on Fri 6 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

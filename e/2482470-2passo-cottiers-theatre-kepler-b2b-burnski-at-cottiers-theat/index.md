@@ -1,6 +1,6 @@
 # 2Passo Cottiers Theatre // Kepler b2b Burnski at Cottiers Theatre
 
-2Passo Cottiers Theatre // Kepler b2b Burnski on Sat 7 Nov, Glasgow. 2 artists on the bill: Burnski and Kepler. House. Preview the line-up and save it on soundcheck.
+2Passo Cottiers Theatre // Kepler b2b Burnski on Sat 7 Nov, Glasgow. 2 artists: Burnski and Kepler. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

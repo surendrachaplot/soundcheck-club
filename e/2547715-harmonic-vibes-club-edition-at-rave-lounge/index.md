@@ -1,6 +1,6 @@
 # HARMONIC VIBES: CLUB EDITION at Rave Lounge
 
-HARMONIC VIBES: CLUB EDITION at Rave Lounge on Sat 14 Nov, London. 2 artists on the bill: DJ Swift and Kamil Kuczynski. House and Tech House. Preview the line-up and save it on soundcheck.
+HARMONIC VIBES: CLUB EDITION at Rave Lounge on Sat 14 Nov, London. 2 artists: DJ Swift and Kamil Kuczynski. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

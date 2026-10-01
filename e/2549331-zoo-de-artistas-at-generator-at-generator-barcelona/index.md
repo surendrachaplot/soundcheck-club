@@ -1,6 +1,6 @@
 # Zoo de Artistas At GENERATOR at Generator Barcelona
 
-Zoo de Artistas At GENERATOR at Generator Barcelona on Sat 10 Oct, Barcelona. 1 artist on the bill: Juan Guerra. Techno and House. Preview the line-up and save it on soundcheck.
+Zoo de Artistas At GENERATOR at Generator Barcelona on Sat 10 Oct, Barcelona. 1 artist: Juan Guerra. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

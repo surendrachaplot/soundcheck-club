@@ -1,8 +1,8 @@
 # Mint XL
 
-Mint XL is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "WAH Leeds with BassLayerz, Skepsis, Window Kid " on Fri, 2 Oct 2026.
+Mint XL is a music venue in Leeds with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WAH Leeds with BassLayerz, Skepsis, Window Kid " on Fri, 2 Oct 2026.
 
-Mint XL is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including A For Alpha, ALISHA, Anil Aras and Annie Errez and 2 more. Browse upcoming dates, start times and who's playing.
+Mint XL is a music venue in Leeds listed on soundcheck. 12 upcoming gigs, with line-ups including A For Alpha, ALISHA, Anil Aras and Annie Errez and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

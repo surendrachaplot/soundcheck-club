@@ -1,8 +1,8 @@
 # Ly Tran
 
-Ly Tran is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paragon, New York City on Sat, 17 Oct 2026.
+Ly Tran is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Sat, 17 Oct 2026.
 
-Ly Tran is a club and techno artist based in United States of America, tracked on soundcheck, with 19 sets logged across Los Angeles and New York City. Often billed alongside Pauliewog, Jae-an and Azure. Next up: Paragon, New York City on Sat 17 Oct.
+Ly Tran is a club and techno artist based in United States of America, with 19 gigs on soundcheck across Los Angeles and New York City. Often billed alongside Pauliewog, Jae-an and Azure. Next up: Paragon, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ly Tran is a club and techno artist based in United States of America, tracked o
 
 ## Recently played
 
-- El Cid, Los Angeles — Sat, 26 Sept 2026
-- TBA - Silverlake, Los Angeles — Sat, 30 May 2026
-- El Cid, Los Angeles — Fri, 29 May 2026
-- TBA - Arts District, Outdoors, Los Angeles — Sun, 19 Apr 2026
-- El Cid, Los Angeles — Sat, 21 Feb 2026
-- TBA - GODSPEED LABS, Los Angeles — Sat, 24 May 2025
-- Resident, Los Angeles — Fri, 9 May 2025
-- Honey's at Star Love, Los Angeles — Thu, 20 Mar 2025
+- El Cid, Los Angeles · Sat, 26 Sept 2026
+- TBA - Silverlake, Los Angeles · Sat, 30 May 2026
+- El Cid, Los Angeles · Fri, 29 May 2026
+- TBA - Arts District, Outdoors, Los Angeles · Sun, 19 Apr 2026
+- El Cid, Los Angeles · Sat, 21 Feb 2026
+- TBA - GODSPEED LABS, Los Angeles · Sat, 24 May 2025
+- Resident, Los Angeles · Fri, 9 May 2025
+- Honey's at Star Love, Los Angeles · Thu, 20 Mar 2025
 
 ## Shares bills with
 

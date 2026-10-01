@@ -1,6 +1,6 @@
 # The Wolfgang Press, A Southern Code at Neue Zukunft
 
-The Wolfgang Press, A Southern Code at Neue Zukunft on Thu 10 Dec, Berlin. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+The Wolfgang Press, A Southern Code at Neue Zukunft on Thu 10 Dec, Berlin. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

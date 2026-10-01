@@ -1,6 +1,6 @@
 # 1OF1 at City Hall
 
-1OF1 at City Hall on Tue 6 Oct, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+1OF1 at City Hall on Tue 6 Oct, Barcelona. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

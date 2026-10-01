@@ -1,6 +1,6 @@
 # Fonville X Fribush with MA: Q at The American
 
-Fonville X Fribush with MA: Q at The American on Fri 23 Oct, Vancouver. Jazz. Preview the line-up and save it on soundcheck.
+Fonville X Fribush with MA: Q at The American on Fri 23 Oct, Vancouver. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Teletech at Film Studios
 
-Teletech at Film Studios on Fri 9 Oct, Gothenburg. 2 artists on the bill: KIRSTY and Onlynumbers. Preview the line-up and save it on soundcheck.
+Teletech at Film Studios on Fri 9 Oct, Gothenburg. 2 artists: KIRSTY and Onlynumbers. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Club Vaag invites THE SMILER, EXPROZ & Outrage at Club Vaag
 
-Club Vaag invites THE SMILER, EXPROZ & Outrage on Sat 10 Oct, Antwerp. 1 artist on the bill: Outrage. Preview the line-up and save it on soundcheck.
+Club Vaag invites THE SMILER, EXPROZ & Outrage on Sat 10 Oct, Antwerp. 1 artist: Outrage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

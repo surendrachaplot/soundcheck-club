@@ -1,6 +1,6 @@
 # atraktor at Club Metro
 
-atraktor at Club Metro on Fri 23 Oct, Kyoto. Techno and House. Preview the line-up and save it on soundcheck.
+atraktor at Club Metro on Fri 23 Oct, Kyoto. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

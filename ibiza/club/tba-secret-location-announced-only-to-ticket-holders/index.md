@@ -1,8 +1,8 @@
 # TBA - Secret location announced only to ticket holders
 
-TBA - Secret location announced only to ticket holders is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Secret Sessions - Ibiza - ROLL THE DICE - Closing Party" on Sun, 4 Oct 2026.
+TBA - Secret location announced only to ticket holders is a music venue in Ibiza with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Secret Sessions - Ibiza - ROLL THE DICE - Closing Party" on Sun, 4 Oct 2026.
 
-TBA - Secret location announced only to ticket holders is a music venue in Ibiza listed on soundcheck. 1 upcoming gig, with line-ups including ACA (YU), Darius Syrossian, EVIE UK and HARRIE SUMMERS and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret location announced only to ticket holders is a music venue in Ibiza listed on soundcheck. 1 upcoming gig, with line-ups including ACA (YU), Darius Syrossian, EVIE UK and HARRIE SUMMERS and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

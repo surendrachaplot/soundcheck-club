@@ -1,8 +1,8 @@
 # Bruno Bleckmann
 
-Bruno Bleckmann is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Rosie's Bar, Berlin on Sat, 24 Oct 2026.
+Bruno Bleckmann is a Deep House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Rosie's Bar, Berlin on Sat, 24 Oct 2026.
 
-Bruno Bleckmann is a deep house and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin. Often billed alongside maniac&me and Clarence. Next up: Rosie's Bar, Berlin on Sat 24 Oct.
+Bruno Bleckmann is a deep house and house artist based in Germany, with 3 gigs on soundcheck across Berlin. Often billed alongside maniac&me and Clarence. Next up: Rosie's Bar, Berlin on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ Bruno Bleckmann is a deep house and house artist based in Germany, tracked on so
 
 ## Recently played
 
-- Minimal Bar, Berlin — Thu, 5 Feb 2026
+- Minimal Bar, Berlin · Thu, 5 Feb 2026
 
 ## Shares bills with
 

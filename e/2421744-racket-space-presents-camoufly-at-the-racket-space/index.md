@@ -1,6 +1,6 @@
 # Racket Space presents: camoufly at The Racket Space
 
-Racket Space presents: camoufly at The Racket Space on Sat 10 Oct, Dublin. 1 artist on the bill: camoufly. Garage and Electronica. Preview the line-up and save it on soundcheck.
+Racket Space presents: camoufly at The Racket Space on Sat 10 Oct, Dublin. 1 artist: camoufly. Garage and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

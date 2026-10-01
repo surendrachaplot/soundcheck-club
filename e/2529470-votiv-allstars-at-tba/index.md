@@ -1,6 +1,6 @@
 # votiv allstars at TBA
 
-votiv allstars at TBA on Sat 10 Oct, Vienna. House and Tech House. Preview the line-up and save it on soundcheck.
+votiv allstars at TBA on Sat 10 Oct, Vienna. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

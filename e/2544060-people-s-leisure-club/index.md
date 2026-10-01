@@ -1,6 +1,6 @@
 # Live music at People's Leisure Club
 
-Live music at People's Leisure Club on Wed 23 Dec, Edinburgh. House. Preview the line-up and save it on soundcheck.
+Live music at People's Leisure Club on Wed 23 Dec, Edinburgh. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

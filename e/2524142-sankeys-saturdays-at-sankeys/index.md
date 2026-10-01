@@ -1,6 +1,6 @@
 # Sankeys Saturdays at Sankeys
 
-Sankeys Saturdays on Sat 7 Nov, Manchester. House. Preview the line-up and save it on soundcheck.
+Sankeys Saturdays on Sat 7 Nov, Manchester. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

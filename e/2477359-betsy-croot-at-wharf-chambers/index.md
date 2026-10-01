@@ -1,6 +1,6 @@
 # Betsy Croot at Wharf Chambers
 
-Betsy Croot at Wharf Chambers on Fri 20 Nov, Leeds. Preview the line-up and save it on soundcheck.
+Betsy Croot at Wharf Chambers on Fri 20 Nov, Leeds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

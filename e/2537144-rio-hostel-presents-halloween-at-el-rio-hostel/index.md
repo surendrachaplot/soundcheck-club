@@ -1,6 +1,6 @@
 # Rio Hostel presents: Halloween at El Rio Hostel
 
-Rio Hostel presents: Halloween at El Rio Hostel on Thu 29 Oct, Colombia. 6 artists on the bill: Benny (El Rio Hostel), Damytic, DJ Mentiras and Kabinett and 2 more. Preview the line-up and save it on soundcheck.
+Rio Hostel presents: Halloween at El Rio Hostel on Thu 29 Oct, Colombia. 6 artists: Benny (El Rio Hostel), Damytic, DJ Mentiras and Kabinett and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

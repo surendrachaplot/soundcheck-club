@@ -1,8 +1,8 @@
 # fi
 
-fi is a music venue in Cologne with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Aura at fi with Chlär" on Fri, 2 Oct 2026.
+fi is a music venue in Cologne with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Aura at fi with Chlär" on Fri, 2 Oct 2026.
 
-fi is a music venue in Cologne listed on soundcheck. 14 upcoming gigs, with line-ups including 0megavybe, 909 RACING TEAM, ALFALFA (UK) and alleira and 2 more. Browse upcoming dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
+fi is a music venue in Cologne listed on soundcheck. 14 upcoming gigs, with line-ups including 0megavybe, 909 RACING TEAM, ALFALFA (UK) and alleira and 2 more. See dates, start times and who's playing. Widdersdorfer Straße 246, 50825 Köln, Deutschland.
 
 ## What's on
 

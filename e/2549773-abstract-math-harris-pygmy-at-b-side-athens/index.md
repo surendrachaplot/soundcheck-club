@@ -1,6 +1,6 @@
 # Abstract Math / Harris / Pygmy at B side Athens
 
-Abstract Math / Harris / Pygmy at B side Athens on Sat 3 Oct, Athens. Preview the line-up and save it on soundcheck.
+Abstract Math / Harris / Pygmy at B side Athens on Sat 3 Oct, Athens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LET ME HOLD YOU - R&B & Future Beats Night 16.10.2026 at Djoon
 
-LET ME HOLD YOU - R&B & Future Beats Night 16.10.2026 at Djoon on Fri 16 Oct, Paris. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+LET ME HOLD YOU - R&B & Future Beats Night 16.10.2026 at Djoon on Fri 16 Oct, Paris. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

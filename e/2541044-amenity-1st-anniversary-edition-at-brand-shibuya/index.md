@@ -1,6 +1,6 @@
 # Amenity - 1st anniversary edition at BRAND SHIBUYA
 
-Amenity - 1st anniversary edition at BRAND SHIBUYA on Thu 15 Oct, Tokyo. 3 artists on the bill: ANiIIIIiiiKii, Kamaida and Krankent. Techno and House. Preview the line-up and save it on soundcheck.
+Amenity - 1st anniversary edition at BRAND SHIBUYA on Thu 15 Oct, Tokyo. 3 artists: ANiIIIIiiiKii, Kamaida and Krankent. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

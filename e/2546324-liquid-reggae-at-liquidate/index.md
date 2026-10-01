@@ -1,6 +1,6 @@
 # Liquid Reggae at Liquidate
 
-Liquid Reggae at Liquidate on Fri 13 Nov, Manchester. Dancehall. Preview the line-up and save it on soundcheck.
+Liquid Reggae at Liquidate on Fri 13 Nov, Manchester. Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

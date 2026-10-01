@@ -1,6 +1,6 @@
 # TADAM goes to DOJO at Dojo Boutique Club
 
-TADAM goes to DOJO at Dojo Boutique Club on Fri 16 Oct, Budapest. 1 artist on the bill: LERM. House and Experimental. Preview the line-up and save it on soundcheck.
+TADAM goes to DOJO at Dojo Boutique Club on Fri 16 Oct, Budapest. 1 artist: LERM. House and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Modern Funktion at NX Newcastle
 
-Modern Funktion at NX Newcastle on Fri 16 Oct, Newcastle. 4 artists on the bill: Boss Priester, Jamback, Job de Jong and Saoirse. House. Preview the line-up and save it on soundcheck.
+Modern Funktion at NX Newcastle on Fri 16 Oct, Newcastle. 4 artists: Boss Priester, Jamback, Job de Jong and Saoirse. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

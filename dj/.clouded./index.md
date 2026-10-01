@@ -1,8 +1,8 @@
 # .CLOUDED.
 
-.CLOUDED. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Neon Grotto, Austin on Thu, 1 Oct 2026.
+.CLOUDED. is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Neon Grotto, Austin on Thu, 1 Oct 2026.
 
-.CLOUDED. is a house and techno artist based in United States of America, tracked on soundcheck, with 23 sets logged across Austin. Often billed alongside invgr8, DJ HOT DONNA and Leonie Leon. Next up: Neon Grotto, Austin on Thu 1 Oct.
+.CLOUDED. is a house and techno artist based in United States of America, with 23 gigs on soundcheck across Austin. Often billed alongside invgr8, DJ HOT DONNA and Leonie Leon. Next up: Neon Grotto, Austin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@
 
 ## Recently played
 
-- Coconut Club, Austin — Fri, 10 Jul 2026
-- Neon Grotto, Austin — Thu, 18 Jun 2026
-- Neon Grotto, Austin — Thu, 4 Jun 2026
-- Neon Grotto, Austin — Thu, 21 May 2026
-- Neon Grotto, Austin — Thu, 16 Apr 2026
-- Neon Grotto, Austin — Sat, 14 Mar 2026
-- Neon Grotto, Austin — Sat, 7 Mar 2026
-- Neon Grotto, Austin — Thu, 19 Feb 2026
+- Coconut Club, Austin · Fri, 10 Jul 2026
+- Neon Grotto, Austin · Thu, 18 Jun 2026
+- Neon Grotto, Austin · Thu, 4 Jun 2026
+- Neon Grotto, Austin · Thu, 21 May 2026
+- Neon Grotto, Austin · Thu, 16 Apr 2026
+- Neon Grotto, Austin · Sat, 14 Mar 2026
+- Neon Grotto, Austin · Sat, 7 Mar 2026
+- Neon Grotto, Austin · Thu, 19 Feb 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # [8]: FRIDAY 13TH at TBA - WARSCHAUER PLATZ 18 10245 BERLIN
 
-[8]: FRIDAY 13TH at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Fri 13 Nov, Berlin. Club. Preview the line-up and save it on soundcheck.
+[8]: FRIDAY 13TH at TBA - WARSCHAUER PLATZ 18 10245 BERLIN on Fri 13 Nov, Berlin. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RAUSCH KLUBNACHT at Prince Charles
 
-RAUSCH KLUBNACHT at Prince Charles on Sat 3 Oct, Berlin. 4 artists on the bill: AbuGlitsch, Bovskey, Elpawel and Inu G. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+RAUSCH KLUBNACHT at Prince Charles on Sat 3 Oct, Berlin. 4 artists: AbuGlitsch, Bovskey, Elpawel and Inu G. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

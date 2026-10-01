@@ -1,6 +1,6 @@
 # Pathfinder & Basswerk pres. HALLOWEEN Bass feat. Teddy Killerz at Gebäude 9
 
-Pathfinder & Basswerk pres. HALLOWEEN Bass feat. Teddy Killerz at Gebäude 9 on Sat 31 Oct, Cologne. 1 artist on the bill: Bass. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Pathfinder & Basswerk pres. HALLOWEEN Bass feat. Teddy Killerz at Gebäude 9 on Sat 31 Oct, Cologne. 1 artist: Bass. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

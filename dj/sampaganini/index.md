@@ -1,8 +1,8 @@
 # Sam Paganini
 
-Sam Paganini is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Club Exil, Vienna on Fri, 6 Nov 2026.
+Sam Paganini is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Exil, Vienna on Fri, 6 Nov 2026.
 
-Sam Paganini is a techno and house artist based in Italy, tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Adiel, Anfisa Letyago and Daria Kolosova. Next up: Club Exil, Vienna on Fri 6 Nov.
+Sam Paganini is a techno and house artist based in Italy, with 101 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Adiel, Anfisa Letyago and Daria Kolosova. Next up: Club Exil, Vienna on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sam Paganini is a techno and house artist based in Italy, tracked on soundcheck,
 
 ## Recently played
 
-- Smolna, Warsaw — Sat, 26 Sept 2026
-- fabric, London — Sat, 19 Sept 2026
-- Nitsa Club, Barcelona — Fri, 11 Sept 2026
-- Hï Ibiza, Ibiza — Sun, 16 Aug 2026
-- Ritter Butzke, Berlin — Sat, 4 Jul 2026
-- Circolo Magnolia, Milan — Mon, 1 Jun 2026
-- Klein Phönix, Istanbul — Sat, 16 May 2026
-- TBA, Vancouver — Sat, 2 May 2026
+- Smolna, Warsaw · Sat, 26 Sept 2026
+- fabric, London · Sat, 19 Sept 2026
+- Nitsa Club, Barcelona · Fri, 11 Sept 2026
+- Hï Ibiza, Ibiza · Sun, 16 Aug 2026
+- Ritter Butzke, Berlin · Sat, 4 Jul 2026
+- Circolo Magnolia, Milan · Mon, 1 Jun 2026
+- Klein Phönix, Istanbul · Sat, 16 May 2026
+- TBA, Vancouver · Sat, 2 May 2026
 
 ## Shares bills with
 

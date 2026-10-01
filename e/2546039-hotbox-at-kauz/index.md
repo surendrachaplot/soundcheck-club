@@ -1,6 +1,6 @@
 # hotbox at Kauz
 
-hotbox at Kauz on Fri 30 Oct, Zurich. 2 artists on the bill: FD and GLXY. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+hotbox at Kauz on Fri 30 Oct, Zurich. 2 artists: FD and GLXY. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

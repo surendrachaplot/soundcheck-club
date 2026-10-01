@@ -1,6 +1,6 @@
 # Rinzen [Open-to-Close Set] at SILO
 
-Rinzen [Open-to-Close Set] at SILO on Sat 26 Dec, New York City. 1 artist on the bill: Rinzen. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+Rinzen [Open-to-Close Set] at SILO on Sat 26 Dec, New York City. 1 artist: Rinzen. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BÓNUSZ Electronic Music Festival 2026 at Hungexpo Budapest
 
-BÓNUSZ Electronic Music Festival 2026 at Hungexpo Budapest on Fri 13 Nov, Budapest. Techno and Tech House. Preview the line-up and save it on soundcheck.
+BÓNUSZ Electronic Music Festival 2026 at Hungexpo Budapest on Fri 13 Nov, Budapest. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

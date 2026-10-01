@@ -1,6 +1,6 @@
 # Toy Tonics presents ITALOMANIA at OXI
 
-Toy Tonics presents ITALOMANIA at OXI on Fri 11 Dec, Berlin. 1 artist on the bill: Daniel Wang. Disco and Italo Disco. Preview the line-up and save it on soundcheck.
+Toy Tonics presents ITALOMANIA at OXI on Fri 11 Dec, Berlin. 1 artist: Daniel Wang. Disco and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

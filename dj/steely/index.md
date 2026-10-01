@@ -1,8 +1,8 @@
 # Steely
 
-Steely is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
+Steely is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
 
-Steely is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across London and Sheffield. Often billed alongside Horse Meat Disco, Adelphi Music Factory and Alfaz. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
+Steely is a house and deep house artist based in United Kingdom, with 14 gigs on soundcheck across London and Sheffield. Often billed alongside Horse Meat Disco, Adelphi Music Factory and Alfaz. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Steely is a house and deep house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- The Marquee Moon, London — Sat, 26 Sept 2026
-- Sidney & Matilda, Sheffield — Sat, 11 Jul 2026
-- Factory Floor, Sheffield — Fri, 17 Apr 2026
-- Sidney & Matilda, Sheffield — Fri, 6 Mar 2026
-- Yellow Arch Studios, Sheffield — Sat, 13 Dec 2025
-- Yellow Arch Studios, Sheffield — Fri, 3 Oct 2025
-- Sidney & Matilda, Sheffield — Fri, 14 Mar 2025
-- Sidney & Matilda, Sheffield — Fri, 11 Oct 2024
+- The Marquee Moon, London · Sat, 26 Sept 2026
+- Sidney & Matilda, Sheffield · Sat, 11 Jul 2026
+- Factory Floor, Sheffield · Fri, 17 Apr 2026
+- Sidney & Matilda, Sheffield · Fri, 6 Mar 2026
+- Yellow Arch Studios, Sheffield · Sat, 13 Dec 2025
+- Yellow Arch Studios, Sheffield · Fri, 3 Oct 2025
+- Sidney & Matilda, Sheffield · Fri, 14 Mar 2025
+- Sidney & Matilda, Sheffield · Fri, 11 Oct 2024
 
 ## Shares bills with
 

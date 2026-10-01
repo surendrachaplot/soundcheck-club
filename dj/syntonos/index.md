@@ -1,8 +1,8 @@
 # Syntonos
 
-Syntonos is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bikini Club, Barcelona on Sat, 3 Oct 2026.
+Syntonos is a Tech House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bikini Club, Barcelona on Sat, 3 Oct 2026.
 
-Syntonos is a tech house and techno artist based in Ukraine, tracked on soundcheck, with 23 sets logged across Amsterdam, Barcelona, Berlin and Paris. Often billed alongside Volmaan, YANNIK (CH) and SACK (AR). Next up: Bikini Club, Barcelona on Sat 3 Oct.
+Syntonos is a tech house and techno artist based in Ukraine, with 23 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Paris. Often billed alongside Volmaan, YANNIK (CH) and SACK (AR). Next up: Bikini Club, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Syntonos is a tech house and techno artist based in Ukraine, tracked on soundche
 
 ## Recently played
 
-- Ritter Butzke, Berlin — Fri, 4 Sept 2026
-- La Terrrazza, Barcelona — Thu, 16 Jul 2026
-- CDLC Barcelona, Barcelona — Sat, 18 Apr 2026
-- CDLC Barcelona, Barcelona — Sat, 14 Feb 2026
-- CDLC Barcelona, Barcelona — Sat, 20 Dec 2025
-- CDLC Barcelona, Barcelona — Sat, 8 Nov 2025
-- CDLC Barcelona, Barcelona — Sat, 20 Sept 2025
-- CDLC Barcelona, Barcelona — Sat, 5 Jul 2025
+- Ritter Butzke, Berlin · Fri, 4 Sept 2026
+- La Terrrazza, Barcelona · Thu, 16 Jul 2026
+- CDLC Barcelona, Barcelona · Sat, 18 Apr 2026
+- CDLC Barcelona, Barcelona · Sat, 14 Feb 2026
+- CDLC Barcelona, Barcelona · Sat, 20 Dec 2025
+- CDLC Barcelona, Barcelona · Sat, 8 Nov 2025
+- CDLC Barcelona, Barcelona · Sat, 20 Sept 2025
+- CDLC Barcelona, Barcelona · Sat, 5 Jul 2025
 
 ## Shares bills with
 

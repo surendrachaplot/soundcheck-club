@@ -1,6 +1,6 @@
 # BERLINA - Hard Techno Kinky Party at Imperial Private Club
 
-BERLINA - Hard Techno Kinky Party at Imperial Private Club on Fri 23 Oct, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+BERLINA - Hard Techno Kinky Party at Imperial Private Club on Fri 23 Oct, Barcelona. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

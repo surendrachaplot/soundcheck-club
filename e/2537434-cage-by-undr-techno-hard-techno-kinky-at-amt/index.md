@@ -1,6 +1,6 @@
 # CAGE by UNDR: Techno / Hard Techno [Kinky] at AMT
 
-CAGE by UNDR: Techno / Hard Techno [Kinky] at AMT on Sat 14 Nov, Berlin. 7 artists on the bill: DEZO, Epicx, Grace Thompson and Lady Maru and 3 more. Techno and Industrial. Preview the line-up and save it on soundcheck.
+CAGE by UNDR: Techno / Hard Techno [Kinky] at AMT on Sat 14 Nov, Berlin. 7 artists: DEZO, Epicx, Grace Thompson and Lady Maru and 3 more. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

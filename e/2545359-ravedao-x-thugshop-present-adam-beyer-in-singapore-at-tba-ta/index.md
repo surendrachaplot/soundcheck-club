@@ -1,6 +1,6 @@
 # RaveDAO x Thugshop present Adam Beyer in Singapore at TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore
 
-RaveDAO x Thugshop present Adam Beyer in Singapore at TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore on Sun 4 Oct, Singapore. 1 artist on the bill: Adam Beyer. Techno. Preview the line-up and save it on soundcheck.
+RaveDAO x Thugshop present Adam Beyer in Singapore at TBA - Tanjong Pagar Distripark, 37 Keppel Road, #01-01, Singapore on Sun 4 Oct, Singapore. 1 artist: Adam Beyer. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

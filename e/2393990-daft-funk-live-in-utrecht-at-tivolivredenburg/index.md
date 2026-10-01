@@ -1,6 +1,6 @@
 # Daft Funk Live in Utrecht at TivoliVredenburg
 
-Daft Funk Live in Utrecht at TivoliVredenburg on Fri 2 Oct, Utrecht. 1 artist on the bill: Daft Funk Live. House and Electro. Preview the line-up and save it on soundcheck.
+Daft Funk Live in Utrecht at TivoliVredenburg on Fri 2 Oct, Utrecht. 1 artist: Daft Funk Live. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

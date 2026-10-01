@@ -1,8 +1,8 @@
 # Traumer
 
-Traumer is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Traumer is a House and Techno artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Traumer is a house and techno artist based in France, tracked on soundcheck, with 317 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+Traumer is a house and techno artist based in France, with 317 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Traumer is a house and techno artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
-- Chinois Ibiza, Ibiza — Wed, 30 Sept 2026
-- Postkantine, Basel — Sat, 26 Sept 2026
-- Audio Club, Geneva — Fri, 25 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 22 Sept 2026
-- FOLD, London — Sat, 19 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- La Felicita, Paris — Fri, 18 Sept 2026
-- Shelter Amsterdam, Amsterdam — Sat, 12 Sept 2026
+- Chinois Ibiza, Ibiza · Wed, 30 Sept 2026
+- Postkantine, Basel · Sat, 26 Sept 2026
+- Audio Club, Geneva · Fri, 25 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 22 Sept 2026
+- FOLD, London · Sat, 19 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- La Felicita, Paris · Fri, 18 Sept 2026
+- Shelter Amsterdam, Amsterdam · Sat, 12 Sept 2026
 
 ## Shares bills with
 

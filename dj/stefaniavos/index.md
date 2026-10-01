@@ -1,8 +1,8 @@
 # Stefania Vos
 
-Stefania Vos is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bunker, Turin on Fri, 9 Oct 2026.
+Stefania Vos is a Electronica and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bunker, Turin on Fri, 9 Oct 2026.
 
-Stefania Vos is an electronica and techno artist based in Italy, tracked on soundcheck, with 13 sets logged across Milan, Rome and Turin. Often billed alongside Francesco Skip, Sandra Mason and Al Paino. Next up: Bunker, Turin on Fri 9 Oct.
+Stefania Vos is an electronica and techno artist based in Italy, with 13 gigs on soundcheck across Milan, Rome and Turin. Often billed alongside Francesco Skip, Sandra Mason and Al Paino. Next up: Bunker, Turin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Stefania Vos is an electronica and techno artist based in Italy, tracked on soun
 
 ## Recently played
 
-- TBA - Apiro, Marche IT, Milan — Thu, 30 Jul 2026
-- La Pista del Lingotto, Turin — Sat, 23 May 2026
-- BASE Milano, Milan — Sat, 22 Nov 2025
-- Magazzino sul Po, Turin — Fri, 10 Oct 2025
-- Dopo?Space, Milan — Sat, 9 Nov 2024
-- Bunker, Turin — Sat, 5 Oct 2024
-- Combo Torino, Turin — Sun, 29 Sept 2024
-- THE MAGICK BAR, Rome — Thu, 13 Jun 2024
+- TBA - Apiro, Marche IT, Milan · Thu, 30 Jul 2026
+- La Pista del Lingotto, Turin · Sat, 23 May 2026
+- BASE Milano, Milan · Sat, 22 Nov 2025
+- Magazzino sul Po, Turin · Fri, 10 Oct 2025
+- Dopo?Space, Milan · Sat, 9 Nov 2024
+- Bunker, Turin · Sat, 5 Oct 2024
+- Combo Torino, Turin · Sun, 29 Sept 2024
+- THE MAGICK BAR, Rome · Thu, 13 Jun 2024
 
 ## Shares bills with
 

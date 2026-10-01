@@ -1,6 +1,6 @@
 # BPM presents Bart Skils at Dom Mladih
 
-BPM presents Bart Skils at Dom Mladih on Sat 3 Oct, Bosnia And Herzegovina. 3 artists on the bill: Bart Skils, Edib D and Worda. Preview the line-up and save it on soundcheck.
+BPM presents Bart Skils at Dom Mladih on Sat 3 Oct, Bosnia And Herzegovina. 3 artists: Bart Skils, Edib D and Worda. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

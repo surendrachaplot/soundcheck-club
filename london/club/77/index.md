@@ -1,8 +1,8 @@
 # 77
 
-77 is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "77: The Originals (All Night Long)" on Fri, 2 Oct 2026.
+77 is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "77: The Originals (All Night Long)" on Fri, 2 Oct 2026.
 
-77 is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including AfroKillerz, AliTR, Angela Rose and BADBOX and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including AfroKillerz, AliTR, Angela Rose and BADBOX and 2 more. See dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 

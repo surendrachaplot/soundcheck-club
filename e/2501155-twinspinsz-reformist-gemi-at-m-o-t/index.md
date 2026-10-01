@@ -1,6 +1,6 @@
 # Twinspinsz ⋆˚𖥔 Reformist & GEMI at M.O.T
 
-Twinspinsz ⋆˚𖥔 Reformist & GEMI at M.O.T on Thu 1 Oct, London. 3 artists on the bill: Gemi (UK), Reformist and TENFOLD. Trance and Techno. Preview the line-up and save it on soundcheck.
+Twinspinsz ⋆˚𖥔 Reformist & GEMI at M.O.T on Thu 1 Oct, London. 3 artists: Gemi (UK), Reformist and TENFOLD. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

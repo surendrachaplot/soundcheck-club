@@ -1,8 +1,8 @@
 # Moodman
 
-Moodman is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Aoyama Tunnel, Tokyo on Sat, 3 Oct 2026.
+Moodman is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Aoyama Tunnel, Tokyo on Sat, 3 Oct 2026.
 
-Moodman is a house and techno artist based in Japan, tracked on soundcheck, with 121 sets logged across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Toshiyuki Goto, Celter and FELINE (JP). Next up: Aoyama Tunnel, Tokyo on Sat 3 Oct.
+Moodman is a house and techno artist based in Japan, with 121 gigs on soundcheck across Berlin, Kyoto, Osaka and Tokyo. Often billed alongside Toshiyuki Goto, Celter and FELINE (JP). Next up: Aoyama Tunnel, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Moodman is a house and techno artist based in Japan, tracked on soundcheck, with
 
 ## Recently played
 
-- West Harlem, Kyoto — Sat, 12 Sept 2026
-- BAR Inc, Osaka — Fri, 11 Sept 2026
-- Red Bar, Tokyo — Sat, 5 Sept 2026
-- Bonobo, Tokyo — Fri, 14 Aug 2026
-- Red Bar, Tokyo — Mon, 10 Aug 2026
-- DJ Bar Bridge Shinjuku, Tokyo — Fri, 7 Aug 2026
-- Oath, Tokyo — Fri, 31 Jul 2026
-- WOMB, Tokyo — Sat, 18 Jul 2026
+- West Harlem, Kyoto · Sat, 12 Sept 2026
+- BAR Inc, Osaka · Fri, 11 Sept 2026
+- Red Bar, Tokyo · Sat, 5 Sept 2026
+- Bonobo, Tokyo · Fri, 14 Aug 2026
+- Red Bar, Tokyo · Mon, 10 Aug 2026
+- DJ Bar Bridge Shinjuku, Tokyo · Fri, 7 Aug 2026
+- Oath, Tokyo · Fri, 31 Jul 2026
+- WOMB, Tokyo · Sat, 18 Jul 2026
 
 ## Shares bills with
 

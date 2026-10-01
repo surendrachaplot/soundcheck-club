@@ -1,8 +1,8 @@
 # Brooklyn Storehouse
 
-Brooklyn Storehouse is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "CircoLoco New York" on Fri, 30 Oct 2026.
+Brooklyn Storehouse is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CircoLoco New York" on Fri, 30 Oct 2026.
 
-Brooklyn Storehouse is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Aline Umber, ANOTR, Beltran and Carlita and 2 more. Browse upcoming dates, start times and who's playing. Brooklyn Navy Yard.
+Brooklyn Storehouse is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Aline Umber, ANOTR, Beltran and Carlita and 2 more. See dates, start times and who's playing. Brooklyn Navy Yard.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Big City Nights at TBA
 
-Big City Nights at TBA on Sat 17 Oct, Montreal. Garage and Grime. Preview the line-up and save it on soundcheck.
+Big City Nights at TBA on Sat 17 Oct, Montreal. Garage and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

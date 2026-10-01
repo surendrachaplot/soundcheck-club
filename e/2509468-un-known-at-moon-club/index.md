@@ -1,6 +1,6 @@
 # UN.KNOWN at Moon Club
 
-UN.KNOWN at Moon Club on Sat 7 Nov, Bristol. Bass. Preview the line-up and save it on soundcheck.
+UN.KNOWN at Moon Club on Sat 7 Nov, Bristol. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

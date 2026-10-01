@@ -1,6 +1,6 @@
 # WAREHOUSE RAVE at Kaiserdrom Halle
 
-WAREHOUSE RAVE at Kaiserdrom Halle on Fri 13 Nov, Saxony Anhalt. 5 artists on the bill: B-TUR, ESCALEA, In Verruf and Kalte Liebe and 1 more. Preview the line-up and save it on soundcheck.
+WAREHOUSE RAVE at Kaiserdrom Halle on Fri 13 Nov, Saxony Anhalt. 5 artists: B-TUR, ESCALEA, In Verruf and Kalte Liebe and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

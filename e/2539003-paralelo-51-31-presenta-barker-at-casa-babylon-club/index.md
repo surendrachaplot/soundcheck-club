@@ -1,6 +1,6 @@
 # Paralelo 51/31 presenta: Barker at Casa Babylon Club
 
-Paralelo 51/31 presenta: Barker at Casa Babylon Club on Fri 4 Dec, Argentina. 2 artists on the bill: aantz and Barker. Preview the line-up and save it on soundcheck.
+Paralelo 51/31 presenta: Barker at Casa Babylon Club on Fri 4 Dec, Argentina. 2 artists: aantz and Barker. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

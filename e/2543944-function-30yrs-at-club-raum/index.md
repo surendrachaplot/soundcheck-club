@@ -1,6 +1,6 @@
 # Function 30yrs at CLUB RAUM
 
-Function 30yrs at CLUB RAUM on Sat 28 Nov, Amsterdam. 6 artists on the bill: Abstract Division, Function, LYLO (NL) and Nastia Reigel and 2 more. Preview the line-up and save it on soundcheck.
+Function 30yrs at CLUB RAUM on Sat 28 Nov, Amsterdam. 6 artists: Abstract Division, Function, LYLO (NL) and Nastia Reigel and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

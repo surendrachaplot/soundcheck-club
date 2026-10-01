@@ -1,6 +1,6 @@
 # ◥◣SINGULARITY◥◣ at Tresor / Globus
 
-◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 19 Oct, Berlin. 4 artists on the bill: Gary Beck, Lilith., Mute. and Pascal Hetzel. Techno. Preview the line-up and save it on soundcheck.
+◥◣SINGULARITY◥◣ at Tresor / Globus on Mon 19 Oct, Berlin. 4 artists: Gary Beck, Lilith., Mute. and Pascal Hetzel. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

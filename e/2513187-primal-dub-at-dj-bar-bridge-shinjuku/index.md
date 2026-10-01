@@ -1,6 +1,6 @@
 # PRIMAL DUB at DJ Bar Bridge Shinjuku
 
-PRIMAL DUB at DJ Bar Bridge Shinjuku on Mon 26 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+PRIMAL DUB at DJ Bar Bridge Shinjuku on Mon 26 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

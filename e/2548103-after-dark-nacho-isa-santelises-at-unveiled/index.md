@@ -1,6 +1,6 @@
 # After Dark: Nacho Isa , Santelises at Unveiled
 
-After Dark: Nacho Isa , Santelises at Unveiled on Sat 3 Oct, New York City. 2 artists on the bill: Nacho Isa and Ryan Santelises. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+After Dark: Nacho Isa , Santelises at Unveiled on Sat 3 Oct, New York City. 2 artists: Nacho Isa and Ryan Santelises. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

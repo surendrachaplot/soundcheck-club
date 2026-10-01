@@ -1,6 +1,6 @@
 # ??? at The Berkeley Suite
 
-??? at The Berkeley Suite on Thu 8 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+??? at The Berkeley Suite on Thu 8 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

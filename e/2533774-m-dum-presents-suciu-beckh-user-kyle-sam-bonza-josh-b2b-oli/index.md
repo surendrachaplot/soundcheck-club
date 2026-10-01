@@ -1,6 +1,6 @@
 # Mödum presents - Suciu, Beckhäuser, Kyle&Sam, Bonza, Josh b2b Oli at Last Arch
 
-Mödum presents - Suciu, Beckhäuser, Kyle&Sam, Bonza, Josh b2b Oli at Last Arch on Sat 17 Oct, London. Minimal. Preview the line-up and save it on soundcheck.
+Mödum presents - Suciu, Beckhäuser, Kyle&Sam, Bonza, Josh b2b Oli at Last Arch on Sat 17 Oct, London. Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ POLLY
 
-DJ POLLY is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ramona, Manchester on Sat, 31 Oct 2026.
+DJ POLLY is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ramona, Manchester on Sat, 31 Oct 2026.
 
-DJ POLLY is a garage and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Manchester. Often billed alongside Rich Reason, Fastlove and Girls Don't Sync. Next up: Ramona, Manchester on Sat 31 Oct.
+DJ POLLY is a garage and house artist based in United Kingdom, with 13 gigs on soundcheck across Manchester. Often billed alongside Rich Reason, Fastlove and Girls Don't Sync. Next up: Ramona, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ POLLY is a garage and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- TBA - Metro's Sports and Social Club, Moss Rd., Stretford, M32 0AH, Manchester — Sat, 4 Jul 2026
-- Ramona, Manchester — Sat, 13 Jun 2026
-- Yes, Manchester — Fri, 8 May 2026
-- Redlight, Manchester — Sat, 14 Feb 2026
-- Yes, Manchester — Wed, 31 Dec 2025
-- Yes, Manchester — Wed, 31 Dec 2025
-- Rainy Heart, Manchester — Fri, 5 Dec 2025
-- Ramona, Manchester — Wed, 15 Oct 2025
+- TBA - Metro's Sports and Social Club, Moss Rd., Stretford, M32 0AH, Manchester · Sat, 4 Jul 2026
+- Ramona, Manchester · Sat, 13 Jun 2026
+- Yes, Manchester · Fri, 8 May 2026
+- Redlight, Manchester · Sat, 14 Feb 2026
+- Yes, Manchester · Wed, 31 Dec 2025
+- Yes, Manchester · Wed, 31 Dec 2025
+- Rainy Heart, Manchester · Fri, 5 Dec 2025
+- Ramona, Manchester · Wed, 15 Oct 2025
 
 ## Shares bills with
 

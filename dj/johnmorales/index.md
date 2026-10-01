@@ -1,8 +1,8 @@
 # John Morales
 
-John Morales is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
+John Morales is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
 
-John Morales is a house and disco artist based in United States of America, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Cardiff and Chicago and 13 more. Often billed alongside Melvo Baptiste, The Shapeshifters and Young Pulse. Next up: The Midway, San Francisco/Oakland on Sun 11 Oct.
+John Morales is a house and disco artist based in United States of America, with 46 gigs on soundcheck across Barcelona, Berlin, Cardiff and Chicago and 13 more. Often billed alongside Melvo Baptiste, The Shapeshifters and Young Pulse. Next up: The Midway, San Francisco/Oakland on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ John Morales is a house and disco artist based in United States of America, trac
 
 ## Recently played
 
-- Standard Time, Toronto — Sat, 26 Sept 2026
-- NUMBER 90 LONDON, London — Sun, 30 Aug 2026
-- Suono, Liverpool — Fri, 28 Aug 2026
-- Port of Leith Distillery, Edinburgh — Sat, 18 Jul 2026
-- Night Tales Loft, London — Fri, 3 Jul 2026
-- Suono, Liverpool — Sat, 27 Jun 2026
-- Amnesia Ibiza, Ibiza — Fri, 12 Jun 2026
-- Queen Of Hoxton, London — Sat, 25 Apr 2026
+- Standard Time, Toronto · Sat, 26 Sept 2026
+- NUMBER 90 LONDON, London · Sun, 30 Aug 2026
+- Suono, Liverpool · Fri, 28 Aug 2026
+- Port of Leith Distillery, Edinburgh · Sat, 18 Jul 2026
+- Night Tales Loft, London · Fri, 3 Jul 2026
+- Suono, Liverpool · Sat, 27 Jun 2026
+- Amnesia Ibiza, Ibiza · Fri, 12 Jun 2026
+- Queen Of Hoxton, London · Sat, 25 Apr 2026
 
 ## Shares bills with
 

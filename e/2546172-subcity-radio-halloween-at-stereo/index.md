@@ -1,6 +1,6 @@
 # Subcity Radio: Halloween at Stereo
 
-Subcity Radio: Halloween at Stereo on Fri 30 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+Subcity Radio: Halloween at Stereo on Fri 30 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

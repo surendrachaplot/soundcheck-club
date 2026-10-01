@@ -1,6 +1,6 @@
 # Nacar Club curated by Brunch Electronik / Agents Of Time at Luz De Gas
 
-Nacar Club curated by Brunch Electronik / Agents Of Time at Luz De Gas on Sat 7 Nov, Barcelona. 1 artist on the bill: Agents Of Time. Electronica. Preview the line-up and save it on soundcheck.
+Nacar Club curated by Brunch Electronik / Agents Of Time at Luz De Gas on Sat 7 Nov, Barcelona. 1 artist: Agents Of Time. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

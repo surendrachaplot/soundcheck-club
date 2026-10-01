@@ -1,6 +1,6 @@
 # Make A Dance hosted by EAR\WAX at Azimut Club
 
-Make A Dance hosted by EAR\WAX at Azimut Club on Sat 28 Nov, Turin. 1 artist on the bill: Make A Dance. Preview the line-up and save it on soundcheck.
+Make A Dance hosted by EAR\WAX at Azimut Club on Sat 28 Nov, Turin. 1 artist: Make A Dance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

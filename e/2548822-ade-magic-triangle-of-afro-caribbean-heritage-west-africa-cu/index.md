@@ -1,6 +1,6 @@
 # ADE: Magic Triangle of Afro-Caribbean heritage: West-Africa, Curaçao and Cuba at dubble
 
-ADE: Magic Triangle of Afro-Caribbean heritage: West-Africa, Curaçao and Cuba at dubble on Sat 24 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+ADE: Magic Triangle of Afro-Caribbean heritage: West-Africa, Curaçao and Cuba at dubble on Sat 24 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Isulia Festival 2026 at Base Sous-Marine de Bordeaux
 
-Isulia Festival 2026 at Base Sous-Marine de Bordeaux on Thu 5 Nov, Bordeaux. 13 artists on the bill: abs8lute, Audrey Danza, Belaria and Djedjotronic and 9 more. Preview the line-up and save it on soundcheck.
+Isulia Festival 2026 at Base Sous-Marine de Bordeaux on Thu 5 Nov, Bordeaux. 13 artists: abs8lute, Audrey Danza, Belaria and Djedjotronic and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

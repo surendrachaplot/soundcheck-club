@@ -1,6 +1,6 @@
 # JUNGLE + DRUM & BASS / MIB CREW SHOWCASE at Rocky Valley Garden
 
-JUNGLE + DRUM & BASS / MIB CREW SHOWCASE at Rocky Valley Garden on Fri 9 Oct, Malta. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+JUNGLE + DRUM & BASS / MIB CREW SHOWCASE at Rocky Valley Garden on Fri 9 Oct, Malta. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

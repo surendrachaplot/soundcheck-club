@@ -1,8 +1,8 @@
 # The Crown
 
-The Crown is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Shatterproof NYC 1 Year Birthday with Capozzi" on Sat, 10 Oct 2026.
+The Crown is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Shatterproof NYC 1 Year Birthday with Capozzi" on Sat, 10 Oct 2026.
 
-The Crown is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Gina Turner. Browse upcoming dates, start times and who's playing. 50 Bowery Street, Rooftop, New York, NY 10013, United States.
+The Crown is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including Gina Turner. See dates, start times and who's playing. 50 Bowery Street, Rooftop, New York, NY 10013, United States.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Mettabbana
 
-Mettabbana is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Flash, Washington DC on Sun, 4 Oct 2026.
+Mettabbana is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flash, Washington DC on Sun, 4 Oct 2026.
 
-Mettabbana is a house and deep house artist based in United States of America, tracked on soundcheck, with 20 sets logged across Hamburg and Washington DC. Often billed alongside TierraDelFuego, Jus Nowhere and TiERRA. Next up: Flash, Washington DC on Sun 4 Oct.
+Mettabbana is a house and deep house artist based in United States of America, with 20 gigs on soundcheck across Hamburg and Washington DC. Often billed alongside TierraDelFuego, Jus Nowhere and TiERRA. Next up: Flash, Washington DC on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mettabbana is a house and deep house artist based in United States of America, t
 
 ## Recently played
 
-- Flash, Washington DC — Sat, 6 Jun 2026
-- El Secreto De Rosita, Washington DC — Sat, 4 Apr 2026
-- Flash, Washington DC — Sun, 8 Mar 2026
-- El Secreto De Rosita, Washington DC — Sat, 21 Feb 2026
-- Neptune Room, Washington DC — Sat, 20 Dec 2025
-- Eighteenth Street Lounge (ESL), Washington DC — Sun, 26 Oct 2025
-- Flash, Washington DC — Sun, 27 Jul 2025
-- Flash, Washington DC — Sat, 24 May 2025
+- Flash, Washington DC · Sat, 6 Jun 2026
+- El Secreto De Rosita, Washington DC · Sat, 4 Apr 2026
+- Flash, Washington DC · Sun, 8 Mar 2026
+- El Secreto De Rosita, Washington DC · Sat, 21 Feb 2026
+- Neptune Room, Washington DC · Sat, 20 Dec 2025
+- Eighteenth Street Lounge (ESL), Washington DC · Sun, 26 Oct 2025
+- Flash, Washington DC · Sun, 27 Jul 2025
+- Flash, Washington DC · Sat, 24 May 2025
 
 ## Shares bills with
 

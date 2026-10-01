@@ -1,6 +1,6 @@
 # Poltergst x Zurich at MÄX
 
-Poltergst x Zurich at MÄX on Sat 7 Nov, Zurich. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Poltergst x Zurich at MÄX on Sat 7 Nov, Zurich. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

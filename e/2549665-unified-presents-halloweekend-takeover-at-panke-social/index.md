@@ -1,6 +1,6 @@
 # Unified presents: Halloweekend Takeover at Panke Social
 
-Unified presents: Halloweekend Takeover at Panke Social on Fri 30 Oct, Sheffield. House and Garage. Preview the line-up and save it on soundcheck.
+Unified presents: Halloweekend Takeover at Panke Social on Fri 30 Oct, Sheffield. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

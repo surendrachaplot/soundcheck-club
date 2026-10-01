@@ -1,6 +1,6 @@
 # The Pickle at The Pickle
 
-The Pickle on Sat 3 Oct, Miami. Preview the line-up and save it on soundcheck.
+The Pickle on Sat 3 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

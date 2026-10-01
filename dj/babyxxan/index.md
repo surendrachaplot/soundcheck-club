@@ -1,8 +1,8 @@
 # babyxxan
 
-babyxxan is a Electronica and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
+babyxxan is a Electronica and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Abbotsford Convent, Melbourne on Sat, 10 Oct 2026.
 
-babyxxan is an electronica and experimental artist based in Australia, tracked on soundcheck, with 10 sets logged across Melbourne. Often billed alongside Paper-Cuts, Cousin and D-Grade. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
+babyxxan is an electronica and experimental artist based in Australia, with 10 gigs on soundcheck across Melbourne. Often billed alongside Paper-Cuts, Cousin and D-Grade. Next up: Abbotsford Convent, Melbourne on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ babyxxan is an electronica and experimental artist based in Australia, tracked o
 
 ## Recently played
 
-- Miscellania, Melbourne — Fri, 24 Jul 2026
-- Miscellania, Melbourne — Sat, 9 May 2026
-- Tender, Melbourne — Thu, 7 May 2026
-- TBA, Melbourne — Sat, 31 Jan 2026
-- TBA -  Taungurung Country (Victoria, Australia), Melbourne — Tue, 30 Dec 2025
-- Low Key Bar, Melbourne — Sat, 2 Aug 2025
-- High Note, Melbourne — Thu, 1 May 2025
-- House of Plants, Melbourne — Sun, 25 Feb 2024
+- Miscellania, Melbourne · Fri, 24 Jul 2026
+- Miscellania, Melbourne · Sat, 9 May 2026
+- Tender, Melbourne · Thu, 7 May 2026
+- TBA, Melbourne · Sat, 31 Jan 2026
+- TBA -  Taungurung Country (Victoria, Australia), Melbourne · Tue, 30 Dec 2025
+- Low Key Bar, Melbourne · Sat, 2 Aug 2025
+- High Note, Melbourne · Thu, 1 May 2025
+- House of Plants, Melbourne · Sun, 25 Feb 2024
 
 ## Shares bills with
 

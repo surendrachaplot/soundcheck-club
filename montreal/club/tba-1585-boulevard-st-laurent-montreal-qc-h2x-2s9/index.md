@@ -1,8 +1,8 @@
 # TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9
 
-TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9 is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Black Sunrise - Inner Circle " on Sat, 31 Oct 2026.
+TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9 is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Black Sunrise - Inner Circle " on Sat, 31 Oct 2026.
 
-TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9 is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Clochette, Crescenzo, Jino K and Racil. Browse upcoming dates, start times and who's playing.
+TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9 is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Clochette, Crescenzo, Jino K and Racil. See dates, start times and who's playing.
 
 ## What's on
 

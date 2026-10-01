@@ -1,6 +1,6 @@
 # Fleetmac Wood presents Chiffon Frenzy - Amsterdam at Paradiso
 
-Fleetmac Wood presents Chiffon Frenzy - Amsterdam at Paradiso on Thu 5 Nov, Amsterdam. 3 artists on the bill: Alex Oxley, Fleetmac Wood and Roxanne Roll. Disco. Preview the line-up and save it on soundcheck.
+Fleetmac Wood presents Chiffon Frenzy - Amsterdam at Paradiso on Thu 5 Nov, Amsterdam. 3 artists: Alex Oxley, Fleetmac Wood and Roxanne Roll. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

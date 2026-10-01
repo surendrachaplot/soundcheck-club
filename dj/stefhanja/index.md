@@ -1,8 +1,8 @@
 # Stefhanja
 
-Stefhanja is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ISOamsterdam, Amsterdam on Fri, 2 Oct 2026.
+Stefhanja is a electronic artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ISOamsterdam, Amsterdam on Fri, 2 Oct 2026.
 
-Stefhanja is an electronic artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Rotterdam. Often billed alongside Jo FLM, Kleingeld and Abel Minnee. Next up: ISOamsterdam, Amsterdam on Fri 2 Oct.
+Stefhanja is an electronic artist based in Netherlands, with 10 gigs on soundcheck across Amsterdam and Rotterdam. Often billed alongside Jo FLM, Kleingeld and Abel Minnee. Next up: ISOamsterdam, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Stefhanja is an electronic artist based in Netherlands, tracked on soundcheck, w
 
 ## Recently played
 
-- Occii, Amsterdam — Sat, 2 May 2026
-- De Sering, Amsterdam — Sat, 13 Dec 2025
-- Phono Lake, Amsterdam — Sat, 25 Oct 2025
-- San Francisco, Amsterdam — Sun, 17 Aug 2025
-- San Francisco, Amsterdam — Sun, 22 Jun 2025
-- Bar Theo, Amsterdam — Sun, 20 Oct 2024
-- Bar Dancing Multipla, Amsterdam — Sat, 12 Oct 2024
-- Skatecafe, Amsterdam — Fri, 3 Nov 2023
+- Occii, Amsterdam · Sat, 2 May 2026
+- De Sering, Amsterdam · Sat, 13 Dec 2025
+- Phono Lake, Amsterdam · Sat, 25 Oct 2025
+- San Francisco, Amsterdam · Sun, 17 Aug 2025
+- San Francisco, Amsterdam · Sun, 22 Jun 2025
+- Bar Theo, Amsterdam · Sun, 20 Oct 2024
+- Bar Dancing Multipla, Amsterdam · Sat, 12 Oct 2024
+- Skatecafe, Amsterdam · Fri, 3 Nov 2023
 
 ## Shares bills with
 

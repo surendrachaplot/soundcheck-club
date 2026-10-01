@@ -1,6 +1,6 @@
 # Dreamons: Scorpio at Cosmic Arts
 
-Dreamons: Scorpio at Cosmic Arts on Sat 24 Oct, New York City. 2 artists on the bill: Joe Claussell and Paul Nickerson. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Dreamons: Scorpio at Cosmic Arts on Sat 24 Oct, New York City. 2 artists: Joe Claussell and Paul Nickerson. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

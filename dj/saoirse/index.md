@@ -1,8 +1,8 @@
 # Saoirse
 
-Saoirse is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sub Club, Glasgow on Thu, 8 Oct 2026.
+Saoirse is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club, Glasgow on Thu, 8 Oct 2026.
 
-Saoirse is a house and techno artist based in Ireland, tracked on soundcheck, with 190 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: Sub Club, Glasgow on Thu 8 Oct.
+Saoirse is a house and techno artist based in Ireland, with 190 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 42 more. Often billed alongside Mella Dee, Shanti Celeste and Job Jobse. Next up: Sub Club, Glasgow on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Saoirse is a house and techno artist based in Ireland, tracked on soundcheck, wi
 
 ## Recently played
 
-- Depot Mayfield, Manchester — Sat, 26 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 13 Sept 2026
-- Jardins de Joan Brossa, Barcelona — Sun, 13 Sept 2026
-- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
-- Southwark Park, London — Sun, 30 Aug 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- 528 Ibiza, Ibiza — Sun, 16 Aug 2026
+- Depot Mayfield, Manchester · Sat, 26 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 13 Sept 2026
+- Jardins de Joan Brossa, Barcelona · Sun, 13 Sept 2026
+- Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
+- Southwark Park, London · Sun, 30 Aug 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- 528 Ibiza, Ibiza · Sun, 16 Aug 2026
 
 ## Shares bills with
 

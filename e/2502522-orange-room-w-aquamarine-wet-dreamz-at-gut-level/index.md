@@ -1,6 +1,6 @@
 # Orange Room w/ Aquamarine [Wet Dreamz] at Gut Level
 
-Orange Room w/ Aquamarine [Wet Dreamz] at Gut Level on Sat 12 Dec, Sheffield. 4 artists on the bill: Aquamarine, Backseat Driver, Bubbles (UK) and Paniolo. Trance and House. Preview the line-up and save it on soundcheck.
+Orange Room w/ Aquamarine [Wet Dreamz] at Gut Level on Sat 12 Dec, Sheffield. 4 artists: Aquamarine, Backseat Driver, Bubbles (UK) and Paniolo. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

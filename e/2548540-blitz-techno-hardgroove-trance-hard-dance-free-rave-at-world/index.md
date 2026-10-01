@@ -1,6 +1,6 @@
 # BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE at World Headquarters
 
-BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE at World Headquarters on Sat 17 Oct, Newcastle. Trance and Techno. Preview the line-up and save it on soundcheck.
+BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE at World Headquarters on Sat 17 Oct, Newcastle. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

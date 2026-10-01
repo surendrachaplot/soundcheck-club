@@ -1,8 +1,8 @@
 # Francis Mercier
 
-Francis Mercier is a Afro House and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at D! Club, Lausanne on Sun, 4 Oct 2026.
+Francis Mercier is a Afro House and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at D! Club, Lausanne on Sun, 4 Oct 2026.
 
-Francis Mercier is an afro house and house artist based in United States of America, tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: D! Club, Lausanne on Sun 4 Oct.
+Francis Mercier is an afro house and house artist based in United States of America, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 45 more. Often billed alongside Andrea Oliva, Nadrums and ARYMÉ. Next up: D! Club, Lausanne on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Francis Mercier is an afro house and house artist based in United States of Amer
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Mon, 28 Sept 2026
-- Bloody Louis, Brussels — Fri, 25 Sept 2026
-- Hï Ibiza, Ibiza — Mon, 21 Sept 2026
-- Reframe Studios Indoors, Los Angeles — Sat, 19 Sept 2026
-- Hï Ibiza, Ibiza — Mon, 14 Sept 2026
-- Lula Club, Madrid — Sun, 13 Sept 2026
-- Hï Ibiza, Ibiza — Mon, 7 Sept 2026
-- TBA - The Port Lands, Toronto — Sun, 6 Sept 2026
+- Hï Ibiza, Ibiza · Mon, 28 Sept 2026
+- Bloody Louis, Brussels · Fri, 25 Sept 2026
+- Hï Ibiza, Ibiza · Mon, 21 Sept 2026
+- Reframe Studios Indoors, Los Angeles · Sat, 19 Sept 2026
+- Hï Ibiza, Ibiza · Mon, 14 Sept 2026
+- Lula Club, Madrid · Sun, 13 Sept 2026
+- Hï Ibiza, Ibiza · Mon, 7 Sept 2026
+- TBA - The Port Lands, Toronto · Sun, 6 Sept 2026
 
 ## Shares bills with
 

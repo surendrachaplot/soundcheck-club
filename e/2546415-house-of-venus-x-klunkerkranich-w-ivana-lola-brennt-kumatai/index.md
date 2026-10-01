@@ -1,6 +1,6 @@
 # HOUSE OF VENUS x Klunkerkranich w. Ivana, Lola Brennt, Kumatai, Dark Zenith, IZA, Agem at Klunkerkranich
 
-HOUSE OF VENUS x Klunkerkranich w. Ivana, Lola Brennt, Kumatai, Dark Zenith, IZA, Agem on Thu 1 Oct, Berlin. 5 artists on the bill: Agem, Dark Zenith, Ivana and IZA and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+HOUSE OF VENUS x Klunkerkranich w. Ivana, Lola Brennt, Kumatai, Dark Zenith, IZA, Agem on Thu 1 Oct, Berlin. 5 artists: Agem, Dark Zenith, Ivana and IZA and 1 more. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

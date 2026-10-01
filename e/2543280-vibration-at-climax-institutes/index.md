@@ -1,6 +1,6 @@
 # VIBRATION at Climax-Institutes
 
-VIBRATION at Climax-Institutes on Fri 23 Oct, Stuttgart. House and Tech House. Preview the line-up and save it on soundcheck.
+VIBRATION at Climax-Institutes on Fri 23 Oct, Stuttgart. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

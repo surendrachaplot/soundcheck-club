@@ -1,8 +1,8 @@
 # Luca Olivotto
 
-Luca Olivotto is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
+Luca Olivotto is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
 
-Luca Olivotto is a house and disco artist based in Germany, tracked on soundcheck, with 73 sets logged across Berlin, Cologne, Frankfurt and Leipzig and 3 more. Often billed alongside Eva Crystaltips, Quadrakey and Nephews. Next up: OXI, Berlin on Sat 3 Oct.
+Luca Olivotto is a house and disco artist based in Germany, with 73 gigs on soundcheck across Berlin, Cologne, Frankfurt and Leipzig and 3 more. Often billed alongside Eva Crystaltips, Quadrakey and Nephews. Next up: OXI, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Luca Olivotto is a house and disco artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- OXI, Berlin — Sat, 5 Sept 2026
-- Silbergold, Frankfurt — Sat, 22 Aug 2026
-- OXI, Berlin — Sat, 1 Aug 2026
-- OXI, Berlin — Sat, 4 Jul 2026
-- OXI, Berlin — Sat, 6 Jun 2026
-- Beate Uwe, Berlin — Sat, 16 May 2026
-- Die Kunstbar, Cologne — Fri, 8 May 2026
-- OXI, Berlin — Fri, 1 May 2026
+- OXI, Berlin · Sat, 5 Sept 2026
+- Silbergold, Frankfurt · Sat, 22 Aug 2026
+- OXI, Berlin · Sat, 1 Aug 2026
+- OXI, Berlin · Sat, 4 Jul 2026
+- OXI, Berlin · Sat, 6 Jun 2026
+- Beate Uwe, Berlin · Sat, 16 May 2026
+- Die Kunstbar, Cologne · Fri, 8 May 2026
+- OXI, Berlin · Fri, 1 May 2026
 
 ## Shares bills with
 

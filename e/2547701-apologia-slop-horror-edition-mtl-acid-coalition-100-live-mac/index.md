@@ -1,6 +1,6 @@
 # ApologIA - Slop Horror Edition // MTL Acid Coalition [100% Live Machines] at TBA
 
-ApologIA - Slop Horror Edition // MTL Acid Coalition [100% Live Machines] at TBA on Sat 31 Oct, Montreal. 3 artists on the bill: 8h sleep, Icky Magdala and Mr.Deraspe. Techno and Acid. Preview the line-up and save it on soundcheck.
+ApologIA - Slop Horror Edition // MTL Acid Coalition [100% Live Machines] at TBA on Sat 31 Oct, Montreal. 3 artists: 8h sleep, Icky Magdala and Mr.Deraspe. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

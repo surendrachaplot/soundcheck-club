@@ -1,8 +1,8 @@
 # Tender
 
-Tender is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Crown Ruler & Tender Present: GiGi FM Extended Ambient Set" on Fri, 2 Oct 2026.
+Tender is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Crown Ruler & Tender Present: GiGi FM Extended Ambient Set" on Fri, 2 Oct 2026.
 
-Tender is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including GiGi FM. Browse upcoming dates, start times and who's playing. 535 Sydney Road.
+Tender is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including GiGi FM. See dates, start times and who's playing. 535 Sydney Road.
 
 ## What's on
 

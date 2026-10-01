@@ -1,8 +1,8 @@
 # Tunnel
 
-Tunnel is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "[CANCELLED] TRANCE GATE – OPENING PARTY" on Sat, 3 Oct 2026.
+Tunnel is a music venue in Milan with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "[CANCELLED] TRANCE GATE – OPENING PARTY" on Sat, 3 Oct 2026.
 
-Tunnel is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Andrew Rayel, GLADJEE, Stella Fiore and Test_One and 1 more. Browse upcoming dates, start times and who's playing. Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy.
+Tunnel is a music venue in Milan listed on soundcheck. 3 upcoming gigs, with line-ups including Andrew Rayel, GLADJEE, Stella Fiore and Test_One and 1 more. See dates, start times and who's playing. Via Giovanni Battista Sammartini 30, 20125 Milano (MI), Italy.
 
 ## What's on
 

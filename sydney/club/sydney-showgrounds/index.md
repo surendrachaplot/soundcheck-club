@@ -1,8 +1,8 @@
 # Sydney Showgrounds
 
-Sydney Showgrounds is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dangerous Goods XXL Festival - Sydney 2027" on Sat, 16 Jan 2027.
+Sydney Showgrounds is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dangerous Goods XXL Festival - Sydney 2027" on Sat, 16 Jan 2027.
 
-Sydney Showgrounds is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Adam Bartas, ASLO, Boris Brejcha and Claptone and 2 more. Browse upcoming dates, start times and who's playing.
+Sydney Showgrounds is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Adam Bartas, ASLO, Boris Brejcha and Claptone and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

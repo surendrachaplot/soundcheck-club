@@ -1,6 +1,6 @@
 # SENZA NOME at Baalsaal
 
-SENZA NOME at Baalsaal on Fri 16 Oct, Hamburg. Preview the line-up and save it on soundcheck.
+SENZA NOME at Baalsaal on Fri 16 Oct, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

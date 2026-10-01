@@ -1,6 +1,6 @@
 # LB aka LABAT curated tour with RONI & Laze at La Belle Électrique
 
-LB aka LABAT curated tour with RONI & Laze at La Belle Électrique on Sat 17 Oct, South East. 3 artists on the bill: Laze, LB aka LABAT and RONI. Preview the line-up and save it on soundcheck.
+LB aka LABAT curated tour with RONI & Laze at La Belle Électrique on Sat 17 Oct, South East. 3 artists: Laze, LB aka LABAT and RONI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Briela Veneno
 
-Briela Veneno is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Refuge, New-york-city on Fri, 9 Oct 2026.
+Briela Veneno is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Refuge, New-york-city on Fri, 9 Oct 2026.
 
-Briela Veneno is a techno and trance artist based in Colombia, tracked on soundcheck, with 13 sets logged across Berlin, Boston, Mexico City and Miami and 1 more. Often billed alongside Concrete Husband, KXAH and Sánchez Jr.. Next up: Refuge, New York City on Fri 9 Oct.
+Briela Veneno is a techno and trance artist based in Colombia, with 13 gigs on soundcheck across Berlin, Boston, Mexico City and Miami and 1 more. Often billed alongside Concrete Husband, KXAH and Sánchez Jr.. Next up: Refuge, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Briela Veneno is a techno and trance artist based in Colombia, tracked on soundc
 
 ## Recently played
 
-- Webster Hall, New York City — Sat, 13 Jun 2026
-- TBA - Brooklyn, New York City — Sat, 6 Jun 2026
-- TBA - Brooklyn, New York City — Sun, 19 Apr 2026
-- Refuge, New York City — Fri, 27 Mar 2026
-- Refuge, New York City — Fri, 27 Feb 2026
-- Listen Brooklyn, New York City — Thu, 29 Jan 2026
-- null, New York City — Thu, 22 Jan 2026
-- Listen Brooklyn, New York City — Thu, 20 Nov 2025
+- Webster Hall, New York City · Sat, 13 Jun 2026
+- TBA - Brooklyn, New York City · Sat, 6 Jun 2026
+- TBA - Brooklyn, New York City · Sun, 19 Apr 2026
+- Refuge, New York City · Fri, 27 Mar 2026
+- Refuge, New York City · Fri, 27 Feb 2026
+- Listen Brooklyn, New York City · Thu, 29 Jan 2026
+- null, New York City · Thu, 22 Jan 2026
+- Listen Brooklyn, New York City · Thu, 20 Nov 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Warehouse Alioth at TBA - Warerhouse Alioth, 4142 Münchenstein
 
-Warehouse Alioth at TBA - Warerhouse Alioth, 4142 Münchenstein on Sat 10 Oct, Basel. 4 artists on the bill: Ari (ES), Feldberg, mogli and OG Lotti. Trance and Techno. Preview the line-up and save it on soundcheck.
+Warehouse Alioth at TBA - Warerhouse Alioth, 4142 Münchenstein on Sat 10 Oct, Basel. 4 artists: Ari (ES), Feldberg, mogli and OG Lotti. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EERSTE LADING: GEM ENERGY LAUNCH PARTY at Chinastraat
 
-EERSTE LADING: GEM ENERGY LAUNCH PARTY at Chinastraat on Sat 24 Oct, Ghent. Trance. Preview the line-up and save it on soundcheck.
+EERSTE LADING: GEM ENERGY LAUNCH PARTY at Chinastraat on Sat 24 Oct, Ghent. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

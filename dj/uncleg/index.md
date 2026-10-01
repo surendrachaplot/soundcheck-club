@@ -1,8 +1,8 @@
 # Uncle G
 
-Uncle G is a Drum & Bass and Breakbeat artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Planet Wax, London on Fri, 2 Oct 2026.
+Uncle G is a Drum & Bass and Breakbeat artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Fri, 2 Oct 2026.
 
-Uncle G is a drum & bass and breakbeat artist based in United Kingdom, tracked on soundcheck, with 102 sets logged across London. Often billed alongside Dexta, Controlled Weirdness and Abby Daze. Next up: Planet Wax, London on Fri 2 Oct.
+Uncle G is a drum & bass and breakbeat artist based in United Kingdom, with 102 gigs on soundcheck across London. Often billed alongside Dexta, Controlled Weirdness and Abby Daze. Next up: Planet Wax, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Uncle G is a drum & bass and breakbeat artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Planet Wax, London — Sun, 27 Sept 2026
-- Planet Wax, London — Fri, 25 Sept 2026
-- Planet Wax, London — Fri, 18 Sept 2026
-- Planet Wax, London — Fri, 18 Sept 2026
-- Planet Wax, London — Sun, 13 Sept 2026
-- Planet Wax, London — Fri, 11 Sept 2026
-- Planet Wax, London — Fri, 4 Sept 2026
-- Planet Wax, London — Fri, 28 Aug 2026
+- Planet Wax, London · Sun, 27 Sept 2026
+- Planet Wax, London · Fri, 25 Sept 2026
+- Planet Wax, London · Fri, 18 Sept 2026
+- Planet Wax, London · Fri, 18 Sept 2026
+- Planet Wax, London · Sun, 13 Sept 2026
+- Planet Wax, London · Fri, 11 Sept 2026
+- Planet Wax, London · Fri, 4 Sept 2026
+- Planet Wax, London · Fri, 28 Aug 2026
 
 ## Shares bills with
 

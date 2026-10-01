@@ -1,6 +1,6 @@
 # Boris pres. Reznik (Keinemusik) at BORIS CLUB
 
-Boris pres. Reznik (Keinemusik) at BORIS CLUB on Sat 7 Nov, Barcelona. 1 artist on the bill: Reznik. House and Deep House. Preview the line-up and save it on soundcheck.
+Boris pres. Reznik (Keinemusik) at BORIS CLUB on Sat 7 Nov, Barcelona. 1 artist: Reznik. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

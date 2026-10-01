@@ -1,8 +1,8 @@
 # Khalil Suleman
 
-Khalil Suleman is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Village Underground Lisboa, Lisbon on Thu, 15 Oct 2026.
+Khalil Suleman is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Village Underground Lisboa, Lisbon on Thu, 15 Oct 2026.
 
-Khalil Suleman is a house and techno artist based in Portugal, tracked on soundcheck, with 51 sets logged across Lisbon and Porto. Often billed alongside XCI, Switchdance and Mike Stellar. Next up: Village Underground Lisboa, Lisbon on Thu 15 Oct.
+Khalil Suleman is a house and techno artist based in Portugal, with 51 gigs on soundcheck across Lisbon and Porto. Often billed alongside XCI, Switchdance and Mike Stellar. Next up: Village Underground Lisboa, Lisbon on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Khalil Suleman is a house and techno artist based in Portugal, tracked on soundc
 
 ## Recently played
 
-- Lux Fragil, Lisbon — Thu, 10 Sept 2026
-- Tapada da Ajuda, Lisbon — Sat, 29 Aug 2026
-- Praia Irmão, Lisbon — Sat, 15 Aug 2026
-- Doma Portugal, Lisbon — Fri, 24 Jul 2026
-- Lux Fragil, Lisbon — Thu, 23 Jul 2026
-- Praia Irmão, Lisbon — Fri, 17 Jul 2026
-- 8 Marvila, Lisbon — Sat, 20 Jun 2026
-- Lux Fragil, Lisbon — Thu, 21 May 2026
+- Lux Fragil, Lisbon · Thu, 10 Sept 2026
+- Tapada da Ajuda, Lisbon · Sat, 29 Aug 2026
+- Praia Irmão, Lisbon · Sat, 15 Aug 2026
+- Doma Portugal, Lisbon · Fri, 24 Jul 2026
+- Lux Fragil, Lisbon · Thu, 23 Jul 2026
+- Praia Irmão, Lisbon · Fri, 17 Jul 2026
+- 8 Marvila, Lisbon · Sat, 20 Jun 2026
+- Lux Fragil, Lisbon · Thu, 21 May 2026
 
 ## Shares bills with
 

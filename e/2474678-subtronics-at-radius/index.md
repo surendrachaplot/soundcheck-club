@@ -1,6 +1,6 @@
 # Subtronics at Radius
 
-Subtronics at Radius on Thu 15 Oct, Chicago. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Subtronics at Radius on Thu 15 Oct, Chicago. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

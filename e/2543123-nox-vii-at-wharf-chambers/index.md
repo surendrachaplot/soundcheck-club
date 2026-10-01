@@ -1,6 +1,6 @@
 # NOX VII at Wharf Chambers
 
-NOX VII at Wharf Chambers on Fri 23 Oct, Leeds. Experimental. Preview the line-up and save it on soundcheck.
+NOX VII at Wharf Chambers on Fri 23 Oct, Leeds. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

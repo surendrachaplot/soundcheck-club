@@ -1,6 +1,6 @@
 # The Cornershop Shoreditch - Hip Hop, Bashment, Afrobeats at The Cornershop Bar
 
-The Cornershop Shoreditch - Hip Hop, Bashment, Afrobeats at The Cornershop Bar on Fri 16 Oct, London. Preview the line-up and save it on soundcheck.
+The Cornershop Shoreditch - Hip Hop, Bashment, Afrobeats at The Cornershop Bar on Fri 16 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

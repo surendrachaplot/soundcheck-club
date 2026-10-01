@@ -1,6 +1,6 @@
 # KISS POOL PARTY LIVE at O Beach
 
-KISS POOL PARTY LIVE at O Beach on Sat 10 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+KISS POOL PARTY LIVE at O Beach on Sat 10 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

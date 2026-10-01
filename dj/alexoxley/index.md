@@ -1,8 +1,8 @@
 # Alex Oxley
 
-Alex Oxley is a Disco and Italo Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kiku Room, San Diego on Fri, 23 Oct 2026.
+Alex Oxley is a Disco and Italo Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kiku Room, San Diego on Fri, 23 Oct 2026.
 
-Alex Oxley is a disco and italo disco artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Austin and Berlin and 23 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: Kiku Room, San Diego on Fri 23 Oct.
+Alex Oxley is a disco and italo disco artist based in United Kingdom, with 55 gigs on soundcheck across Amsterdam, Auckland, Austin and Berlin and 23 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: Kiku Room, San Diego on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Alex Oxley is a disco and italo disco artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- The Social, London — Fri, 25 Sept 2026
-- TBA - 1566 Carroll Ave, San Francisco, CA 94124, San Francisco/Oakland — Sat, 6 Jun 2026
-- Gold Diggers, Los Angeles — Thu, 28 May 2026
-- Club Tee Gee, Los Angeles — Fri, 8 May 2026
-- Gold Diggers, Los Angeles — Thu, 23 Apr 2026
-- Club Tee Gee, Los Angeles — Fri, 10 Apr 2026
-- Gold Diggers, Los Angeles — Thu, 26 Mar 2026
-- The Regency, San Francisco/Oakland — Sat, 14 Feb 2026
+- The Social, London · Fri, 25 Sept 2026
+- TBA - 1566 Carroll Ave, San Francisco, CA 94124, San Francisco/Oakland · Sat, 6 Jun 2026
+- Gold Diggers, Los Angeles · Thu, 28 May 2026
+- Club Tee Gee, Los Angeles · Fri, 8 May 2026
+- Gold Diggers, Los Angeles · Thu, 23 Apr 2026
+- Club Tee Gee, Los Angeles · Fri, 10 Apr 2026
+- Gold Diggers, Los Angeles · Thu, 26 Mar 2026
+- The Regency, San Francisco/Oakland · Sat, 14 Feb 2026
 
 ## Shares bills with
 

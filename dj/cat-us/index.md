@@ -1,8 +1,8 @@
 # Cat (US)
 
-Cat (US) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
+Cat (US) is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NOS Event Center, Los Angeles on Fri, 30 Oct 2026.
 
-Cat (US) is a house and acid artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Barcelona, Los Angeles and Miami and 1 more. Often billed alongside 999999999, A Little Sound and AC Slater. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
+Cat (US) is a house and acid artist based in United States of America, with 6 gigs on soundcheck across Amsterdam, Barcelona, Los Angeles and Miami and 1 more. Often billed alongside 999999999, A Little Sound and AC Slater. Next up: NOS Event Center, Los Angeles on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Cat (US) is a house and acid artist based in United States of America, tracked o
 
 ## Recently played
 
-- SISSI'S Amsterdam, Amsterdam — Fri, 27 Feb 2026
-- Floyd, Miami — Sun, 1 Feb 2026
-- TBA - Heaps Gay Street Party Marrickville, Sydney — Sat, 29 Nov 2025
-- TBA, Los Angeles — Sun, 25 May 2025
-- Quedeque, Barcelona — Fri, 12 May 2023
+- SISSI'S Amsterdam, Amsterdam · Fri, 27 Feb 2026
+- Floyd, Miami · Sun, 1 Feb 2026
+- TBA - Heaps Gay Street Party Marrickville, Sydney · Sat, 29 Nov 2025
+- TBA, Los Angeles · Sun, 25 May 2025
+- Quedeque, Barcelona · Fri, 12 May 2023
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Tank
 
-Tank is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "A.M.C presents: Grassroots Energy (Sheffield)" on Fri, 6 Nov 2026.
+Tank is a music venue in Sheffield with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "A.M.C presents: Grassroots Energy (Sheffield)" on Fri, 6 Nov 2026.
 
-Tank is a music venue in Sheffield listed on soundcheck. 1 upcoming gig, with line-ups including A.M.C. and Phantom. Browse upcoming dates, start times and who's playing. 52-55 Arundel Gate, Sheffield.
+Tank is a music venue in Sheffield listed on soundcheck. 1 upcoming gig, with line-ups including A.M.C. and Phantom. See dates, start times and who's playing. 52-55 Arundel Gate, Sheffield.
 
 ## What's on
 

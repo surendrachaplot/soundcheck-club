@@ -1,6 +1,6 @@
 # David J (Bauhaus, Love & Rockets) + Paul Wallfisch (ex-Swans) at Frannz Club
 
-David J (Bauhaus, Love & Rockets) + Paul Wallfisch (ex-Swans) at Frannz Club on Thu 17 Dec, Berlin. Experimental and New Wave. Preview the line-up and save it on soundcheck.
+David J (Bauhaus, Love & Rockets) + Paul Wallfisch (ex-Swans) at Frannz Club on Thu 17 Dec, Berlin. Experimental and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

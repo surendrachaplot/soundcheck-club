@@ -1,6 +1,6 @@
 # Autechre at Magazine London
 
-Autechre at Magazine London on Sat 24 Oct, London. Experimental and IDM. Preview the line-up and save it on soundcheck.
+Autechre at Magazine London on Sat 24 Oct, London. Experimental and IDM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # REC PRESENTS — ÓSCAR ESCAPA Vinyl Only Night at Laboratorio Octogon
 
-REC PRESENTS — ÓSCAR ESCAPA Vinyl Only Night at Laboratorio Octogon on Sat 17 Oct, Madrid. Techno. Preview the line-up and save it on soundcheck.
+REC PRESENTS — ÓSCAR ESCAPA Vinyl Only Night at Laboratorio Octogon on Sat 17 Oct, Madrid. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

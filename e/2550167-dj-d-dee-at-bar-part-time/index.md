@@ -1,6 +1,6 @@
 # DJ D.Dee at Bar Part Time
 
-DJ D.Dee at Bar Part Time on Sat 3 Oct, San Francisco/Oakland. 1 artist on the bill: DJ D.Dee. Downtempo and Balearic. Preview the line-up and save it on soundcheck.
+DJ D.Dee at Bar Part Time on Sat 3 Oct, San Francisco/Oakland. 1 artist: DJ D.Dee. Downtempo and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

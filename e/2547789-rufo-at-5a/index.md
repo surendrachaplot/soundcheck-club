@@ -1,6 +1,6 @@
 # Rufo at 5A
 
-Rufo at 5A on Fri 16 Oct, Lisbon. 1 artist on the bill: Rufo. Preview the line-up and save it on soundcheck.
+Rufo at 5A on Fri 16 Oct, Lisbon. 1 artist: Rufo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

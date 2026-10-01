@@ -1,6 +1,6 @@
 # A week-end with Jen Cardini at Le Sucre
 
-A week-end with Jen Cardini at Le Sucre on Sat 31 Oct, Lyon. 3 artists on the bill: Ciel, Maggy B and TTristana. Techno and House. Preview the line-up and save it on soundcheck.
+A week-end with Jen Cardini at Le Sucre on Sat 31 Oct, Lyon. 3 artists: Ciel, Maggy B and TTristana. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

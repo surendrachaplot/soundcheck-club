@@ -1,8 +1,8 @@
 # Human Rias
 
-Human Rias is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
+Human Rias is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Supperclub, Amsterdam on Wed, 21 Oct 2026.
 
-Human Rias is a techno and house artist based in Germany, tracked on soundcheck, with 47 sets logged across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Black Box, Unseen. and DOBE. Next up: Supperclub, Amsterdam on Wed 21 Oct.
+Human Rias is a techno and house artist based in Germany, with 47 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside Black Box, Unseen. and DOBE. Next up: Supperclub, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Human Rias is a techno and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Lieberscholli, Munich — Sun, 23 Aug 2026
-- Lieberscholli, Munich — Fri, 21 Aug 2026
-- Lieberscholli, Munich — Fri, 17 Jul 2026
-- Ritter Butzke, Berlin — Sat, 6 Jun 2026
-- Pracht, Frankfurt — Sat, 23 May 2026
-- Ministry Of Sound, London — Fri, 15 May 2026
-- Lieberscholli, Munich — Fri, 1 May 2026
-- Lieberscholli, Munich — Sat, 21 Feb 2026
+- Lieberscholli, Munich · Sun, 23 Aug 2026
+- Lieberscholli, Munich · Fri, 21 Aug 2026
+- Lieberscholli, Munich · Fri, 17 Jul 2026
+- Ritter Butzke, Berlin · Sat, 6 Jun 2026
+- Pracht, Frankfurt · Sat, 23 May 2026
+- Ministry Of Sound, London · Fri, 15 May 2026
+- Lieberscholli, Munich · Fri, 1 May 2026
+- Lieberscholli, Munich · Sat, 21 Feb 2026
 
 ## Shares bills with
 

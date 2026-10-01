@@ -1,8 +1,8 @@
 # Dante's HiFi
 
-Dante's HiFi is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Open Space" on Thu, 1 Oct 2026.
+Dante's HiFi is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Open Space" on Thu, 1 Oct 2026.
 
-Dante's HiFi is a music venue in Miami listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. 519 NW 26th St. Miami, FL 33127.
+Dante's HiFi is a music venue in Miami listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. 519 NW 26th St. Miami, FL 33127.
 
 ## What's on
 

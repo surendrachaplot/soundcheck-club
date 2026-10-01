@@ -1,6 +1,6 @@
 # Discovery Zone (Live) at Hosoi
 
-Discovery Zone (Live) at Hosoi on Sun 8 Nov, Stockholm. Preview the line-up and save it on soundcheck.
+Discovery Zone (Live) at Hosoi on Sun 8 Nov, Stockholm. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

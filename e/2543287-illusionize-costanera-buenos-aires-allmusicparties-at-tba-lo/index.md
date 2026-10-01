@@ -1,6 +1,6 @@
 # ILLUSIONIZE - Costanera Buenos Aires - ALLMusicParties at TBA - Locación a confirmar, Costanera
 
-ILLUSIONIZE - Costanera Buenos Aires - ALLMusicParties at TBA - Locación a confirmar, Costanera on Sat 10 Oct, Buenos Aires. 1 artist on the bill: ILLUSIONIZE. House and Tech House. Preview the line-up and save it on soundcheck.
+ILLUSIONIZE - Costanera Buenos Aires - ALLMusicParties at TBA - Locación a confirmar, Costanera on Sat 10 Oct, Buenos Aires. 1 artist: ILLUSIONIZE. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

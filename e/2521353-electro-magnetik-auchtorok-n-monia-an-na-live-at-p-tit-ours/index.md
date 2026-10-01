@@ -1,6 +1,6 @@
 # Electro Magnetik! Auchtorok, Nümonia , AN_NA LIVE at P'tit Ours
 
-Electro Magnetik! Auchtorok, Nümonia , AN_NA LIVE at P'tit Ours on Sun 8 Nov, Montreal. Electro and New Wave. Preview the line-up and save it on soundcheck.
+Electro Magnetik! Auchtorok, Nümonia , AN_NA LIVE at P'tit Ours on Sun 8 Nov, Montreal. Electro and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

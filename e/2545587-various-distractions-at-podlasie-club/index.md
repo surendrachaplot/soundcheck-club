@@ -1,6 +1,6 @@
 # Various Distractions at Podlasie Club
 
-Various Distractions at Podlasie Club on Wed 21 Oct, Chicago. 1 artist on the bill: Beau Wanzer. Preview the line-up and save it on soundcheck.
+Various Distractions at Podlasie Club on Wed 21 Oct, Chicago. 1 artist: Beau Wanzer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

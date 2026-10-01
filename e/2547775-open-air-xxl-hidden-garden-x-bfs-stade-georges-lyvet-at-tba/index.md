@@ -1,6 +1,6 @@
 # OPEN AIR XXL - HIDDEN GARDEN x BFS - STADE GEORGES LYVET at TBA - STADE GEORGES LYVET - VILLEURBANNE
 
-OPEN AIR XXL - HIDDEN GARDEN x BFS - STADE GEORGES LYVET at TBA - STADE GEORGES LYVET - VILLEURBANNE on Sat 17 Oct, Lyon. 1 artist on the bill: Messina. Techno. Preview the line-up and save it on soundcheck.
+OPEN AIR XXL - HIDDEN GARDEN x BFS - STADE GEORGES LYVET at TBA - STADE GEORGES LYVET - VILLEURBANNE on Sat 17 Oct, Lyon. 1 artist: Messina. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

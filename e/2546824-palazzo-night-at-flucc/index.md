@@ -1,6 +1,6 @@
 # Palazzo Night at FLUCC
 
-Palazzo Night at FLUCC on Thu 15 Oct, Vienna. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Palazzo Night at FLUCC on Thu 15 Oct, Vienna. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

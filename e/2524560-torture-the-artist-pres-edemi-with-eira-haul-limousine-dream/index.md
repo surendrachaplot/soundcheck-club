@@ -1,6 +1,6 @@
 # Torture the Artist pres. eDEMi with eira haul (Limousine Dream, Slump Recordings / Berlin) at Haus73
 
-Torture the Artist pres. eDEMi with eira haul (Limousine Dream, Slump Recordings / Berlin) at Haus73 on Sat 31 Oct, Hamburg. 2 artists on the bill: eira haul and Selin (DE). Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Torture the Artist pres. eDEMi with eira haul (Limousine Dream, Slump Recordings / Berlin) at Haus73 on Sat 31 Oct, Hamburg. 2 artists: eira haul and Selin (DE). Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

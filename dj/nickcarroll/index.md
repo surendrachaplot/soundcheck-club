@@ -1,8 +1,8 @@
 # Nick Carroll
 
-Nick Carroll is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 16 Oct 2026.
+Nick Carroll is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri, 16 Oct 2026.
 
-Nick Carroll is a house and techno artist based in United States of America, tracked on soundcheck, with 27 sets logged across Portland and Seattle. Often billed alongside DJ SH1-TR, KJ3 (US) and Lord Phatrick. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 16 Oct.
+Nick Carroll is a house and techno artist based in United States of America, with 27 gigs on soundcheck across Portland and Seattle. Often billed alongside DJ SH1-TR, KJ3 (US) and Lord Phatrick. Next up: Kremwerk-Timbre Room-Cherry Complex, Seattle on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Nick Carroll is a house and techno artist based in United States of America, tra
 
 ## Recently played
 
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 4 Sept 2026
-- TBA - Private Campground, Seattle — Fri, 21 Aug 2026
-- Antipode Art Gallery, Seattle — Sat, 1 Aug 2026
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 3 Jul 2026
-- Barboza, Seattle — Thu, 11 Dec 2025
-- The Monkey Loft, Seattle — Fri, 5 Dec 2025
-- TBA, Seattle — Sat, 8 Nov 2025
-- TBA - Private Location, Seattle — Sat, 25 Oct 2025
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 4 Sept 2026
+- TBA - Private Campground, Seattle · Fri, 21 Aug 2026
+- Antipode Art Gallery, Seattle · Sat, 1 Aug 2026
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 3 Jul 2026
+- Barboza, Seattle · Thu, 11 Dec 2025
+- The Monkey Loft, Seattle · Fri, 5 Dec 2025
+- TBA, Seattle · Sat, 8 Nov 2025
+- TBA - Private Location, Seattle · Sat, 25 Oct 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Bubble UKG Takeover — The Late Show at Revolver Upstairs
 
-Bubble UKG Takeover — The Late Show at Revolver Upstairs on Sat 10 Oct, Melbourne. 4 artists on the bill: Cherokee (AU), Colette, Lewis Cancut and Tuff Trax. House and Garage. Preview the line-up and save it on soundcheck.
+Bubble UKG Takeover — The Late Show at Revolver Upstairs on Sat 10 Oct, Melbourne. 4 artists: Cherokee (AU), Colette, Lewis Cancut and Tuff Trax. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Eliezer at Switch Bar
 
-Eliezer at Switch Bar on Fri 2 Oct, Barcelona. 1 artist on the bill: Eliezer. Preview the line-up and save it on soundcheck.
+Eliezer at Switch Bar on Fri 2 Oct, Barcelona. 1 artist: Eliezer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

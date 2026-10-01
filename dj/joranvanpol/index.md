@@ -1,8 +1,8 @@
 # Joran van Pol
 
-Joran van Pol is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
+Joran van Pol is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Havenpark, Amsterdam on Sat, 24 Oct 2026.
 
-Joran van Pol is a techno and tech house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam. Often billed alongside DAX J, HI-LO and Benny Rodrigues. Next up: Havenpark, Amsterdam on Sat 24 Oct.
+Joran van Pol is a techno and tech house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam. Often billed alongside DAX J, HI-LO and Benny Rodrigues. Next up: Havenpark, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Joran van Pol is a techno and tech house artist based in Netherlands, tracked on
 
 ## Recently played
 
-- Veronica Schip, Amsterdam — Fri, 12 Dec 2025
-- Havenpark, Amsterdam — Sat, 25 Oct 2025
-- Havenpark, Amsterdam — Sat, 25 Oct 2025
-- Sloterpark, Amsterdam — Sat, 15 Jun 2024
-- Doka, Amsterdam — Sat, 20 Apr 2024
-- Paradiso, Amsterdam — Fri, 22 Mar 2024
-- Havenpark, Amsterdam — Sat, 21 Oct 2023
-- Havenpark, Amsterdam — Sat, 21 Oct 2023
+- Veronica Schip, Amsterdam · Fri, 12 Dec 2025
+- Havenpark, Amsterdam · Sat, 25 Oct 2025
+- Havenpark, Amsterdam · Sat, 25 Oct 2025
+- Sloterpark, Amsterdam · Sat, 15 Jun 2024
+- Doka, Amsterdam · Sat, 20 Apr 2024
+- Paradiso, Amsterdam · Fri, 22 Mar 2024
+- Havenpark, Amsterdam · Sat, 21 Oct 2023
+- Havenpark, Amsterdam · Sat, 21 Oct 2023
 
 ## Shares bills with
 

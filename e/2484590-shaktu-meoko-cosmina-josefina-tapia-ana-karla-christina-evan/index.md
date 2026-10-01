@@ -1,6 +1,6 @@
 # SHAKTU & MEOKO: Cosmina / Josefina Tapia / Ana Karla / Christina Evangelista / YOON at Culture Box
 
-SHAKTU & MEOKO: Cosmina / Josefina Tapia / Ana Karla / Christina Evangelista / YOON at Culture Box on Sat 3 Oct, Copenhagen. 5 artists on the bill: Ana Karla, Christina Evangelista, Cosmina and Josefina Tapia and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+SHAKTU & MEOKO: Cosmina / Josefina Tapia / Ana Karla / Christina Evangelista / YOON at Culture Box on Sat 3 Oct, Copenhagen. 5 artists: Ana Karla, Christina Evangelista, Cosmina and Josefina Tapia and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

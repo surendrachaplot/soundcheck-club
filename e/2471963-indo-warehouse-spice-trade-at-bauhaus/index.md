@@ -1,6 +1,6 @@
 # Indo Warehouse - Spice Trade at Bauhaus
 
-Indo Warehouse - Spice Trade at Bauhaus on Sat 21 Nov, Houston. 2 artists on the bill: Kahani and Kunal Merchant. Techno and House. Preview the line-up and save it on soundcheck.
+Indo Warehouse - Spice Trade at Bauhaus on Sat 21 Nov, Houston. 2 artists: Kahani and Kunal Merchant. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

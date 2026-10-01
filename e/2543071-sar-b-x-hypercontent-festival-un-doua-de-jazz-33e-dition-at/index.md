@@ -1,6 +1,6 @@
 # SARĀB x HYPERCONTENT! – Festival Un Doua de Jazz – 33e édition at Toï Toï, Le Zinc
 
-SARĀB x HYPERCONTENT! – Festival Un Doua de Jazz – 33e édition at Toï Toï, Le Zinc on Wed 7 Oct, Lyon. Preview the line-up and save it on soundcheck.
+SARĀB x HYPERCONTENT! – Festival Un Doua de Jazz – 33e édition at Toï Toï, Le Zinc on Wed 7 Oct, Lyon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

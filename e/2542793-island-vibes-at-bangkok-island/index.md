@@ -1,6 +1,6 @@
 # ISLAND VIBES at Bangkok Island
 
-ISLAND VIBES at Bangkok Island on Fri 2 Oct, Bangkok. Preview the line-up and save it on soundcheck.
+ISLAND VIBES at Bangkok Island on Fri 2 Oct, Bangkok. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

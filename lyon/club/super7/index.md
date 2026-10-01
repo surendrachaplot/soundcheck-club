@@ -1,8 +1,8 @@
 # Super7
 
-Super7 is a music venue in Lyon with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "KARISSA • M. BASS" on Thu, 1 Oct 2026.
+Super7 is a music venue in Lyon with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "KARISSA • M. BASS" on Thu, 1 Oct 2026.
 
-Super7 is a music venue in Lyon listed on soundcheck. 8 upcoming gigs, with line-ups including CallBackSami and Maggy Smiss. Browse upcoming dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
+Super7 is a music venue in Lyon listed on soundcheck. 8 upcoming gigs, with line-ups including CallBackSami and Maggy Smiss. See dates, start times and who's playing. 40 rue Saint-Jérôme 69007 Lyon.
 
 ## What's on
 

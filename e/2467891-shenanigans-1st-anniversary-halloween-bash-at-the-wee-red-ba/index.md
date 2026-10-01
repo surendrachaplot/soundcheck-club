@@ -1,6 +1,6 @@
 # Shenanigans 1st anniversary Halloween bash at The Wee Red Bar
 
-Shenanigans 1st anniversary Halloween bash at The Wee Red Bar on Fri 30 Oct, Edinburgh. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Shenanigans 1st anniversary Halloween bash at The Wee Red Bar on Fri 30 Oct, Edinburgh. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Peoplemover Soundsystem Presents: Mountain Dub at TBA - 2 Hours from Sydney
 
-Peoplemover Soundsystem Presents: Mountain Dub at TBA - 2 Hours from Sydney on Fri 20 Nov, Sydney. Dub. Preview the line-up and save it on soundcheck.
+Peoplemover Soundsystem Presents: Mountain Dub at TBA - 2 Hours from Sydney on Fri 20 Nov, Sydney. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

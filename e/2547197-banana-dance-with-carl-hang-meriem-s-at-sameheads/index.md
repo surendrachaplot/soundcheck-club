@@ -1,6 +1,6 @@
 # Banana Dance with Carl Hang & Meriem S at Sameheads
 
-Banana Dance with Carl Hang & Meriem S at Sameheads on Sat 10 Oct, Berlin. 3 artists on the bill: Balearic Banana, Carl Hang and Meriem S. House and Electro. Preview the line-up and save it on soundcheck.
+Banana Dance with Carl Hang & Meriem S at Sameheads on Sat 10 Oct, Berlin. 3 artists: Balearic Banana, Carl Hang and Meriem S. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

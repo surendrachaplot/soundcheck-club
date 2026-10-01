@@ -1,6 +1,6 @@
 # Pop Mutations & The Glad Cafe presents: GB at The Glad Cafe
 
-Pop Mutations & The Glad Cafe presents: GB on Sat 3 Oct, Glasgow. Experimental. Preview the line-up and save it on soundcheck.
+Pop Mutations & The Glad Cafe presents: GB on Sat 3 Oct, Glasgow. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

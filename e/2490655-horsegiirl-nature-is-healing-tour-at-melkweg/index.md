@@ -1,6 +1,6 @@
 # HORSEGIIRL - Nature is Healing Tour at Melkweg
 
-HORSEGIIRL - Nature is Healing Tour at Melkweg on Tue 1 Dec, Amsterdam. Preview the line-up and save it on soundcheck.
+HORSEGIIRL - Nature is Healing Tour at Melkweg on Tue 1 Dec, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

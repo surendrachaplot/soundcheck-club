@@ -1,6 +1,6 @@
 # Zorya IV Halloween edition at Noce KRK
 
-Zorya IV Halloween edition at Noce KRK on Sat 31 Oct, Krakow. Acid and Psytrance. Preview the line-up and save it on soundcheck.
+Zorya IV Halloween edition at Noce KRK on Sat 31 Oct, Krakow. Acid and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

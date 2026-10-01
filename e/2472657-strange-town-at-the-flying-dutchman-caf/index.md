@@ -1,6 +1,6 @@
 # Strange Town at The Flying Dutchman Café
 
-Strange Town at The Flying Dutchman Café on Fri 23 Oct, Amsterdam. 7 artists on the bill: Alísha, Baha, Bryan Wolf Ear and Daesmith and 3 more. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Strange Town at The Flying Dutchman Café on Fri 23 Oct, Amsterdam. 7 artists: Alísha, Baha, Bryan Wolf Ear and Daesmith and 3 more. Progressive House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BOOM ROOM mit Paraçek at Millenium Event Center
 
-BOOM ROOM mit Paraçek at Millenium Event Center on Fri 13 Nov, Lower Saxony. 1 artist on the bill: Paraçek. Preview the line-up and save it on soundcheck.
+BOOM ROOM mit Paraçek at Millenium Event Center on Fri 13 Nov, Lower Saxony. 1 artist: Paraçek. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Gates Of Paradise at Kiosque des Bastions
 
-Gates Of Paradise at Kiosque des Bastions on Fri 9 Oct, Geneva. Preview the line-up and save it on soundcheck.
+Gates Of Paradise at Kiosque des Bastions on Fri 9 Oct, Geneva. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

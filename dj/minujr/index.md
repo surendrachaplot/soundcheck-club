@@ -1,8 +1,8 @@
 # Minù Jr
 
-Minù Jr is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Crack Bellmer, Berlin on Sat, 17 Oct 2026.
+Minù Jr is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Crack Bellmer, Berlin on Sat, 17 Oct 2026.
 
-Minù Jr is a techno and house artist based in France, tracked on soundcheck, with 14 sets logged across Barcelona, Berlin, Lyon and Nantes. Often billed alongside Minimum Djs, RIGO and Family Matters. Next up: Crack Bellmer, Berlin on Sat 17 Oct.
+Minù Jr is a techno and house artist based in France, with 14 gigs on soundcheck across Barcelona, Berlin, Lyon and Nantes. Often billed alongside Minimum Djs, RIGO and Family Matters. Next up: Crack Bellmer, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Minù Jr is a techno and house artist based in France, tracked on soundcheck, wi
 
 ## Recently played
 
-- Super5, Lyon — Fri, 27 Mar 2026
-- LAUT, Barcelona — Sat, 31 Jan 2026
-- Le Sucre, Lyon — Fri, 5 Dec 2025
-- Péniche Loupika, Lyon — Fri, 28 Nov 2025
-- Macadam, Nantes — Sun, 31 Aug 2025
-- Buena Onda Social Club, Barcelona — Sat, 7 Dec 2024
-- LAUT, Barcelona — Sat, 30 Nov 2024
-- TBA - Open air, Warehouse, Super 5, Terminal, Loupika, Collision, Ninkasi, Unité Centrale, Satriale, Le Sucre,, Lyon — Wed, 5 Jun 2024
+- Super5, Lyon · Fri, 27 Mar 2026
+- LAUT, Barcelona · Sat, 31 Jan 2026
+- Le Sucre, Lyon · Fri, 5 Dec 2025
+- Péniche Loupika, Lyon · Fri, 28 Nov 2025
+- Macadam, Nantes · Sun, 31 Aug 2025
+- Buena Onda Social Club, Barcelona · Sat, 7 Dec 2024
+- LAUT, Barcelona · Sat, 30 Nov 2024
+- TBA - Open air, Warehouse, Super 5, Terminal, Loupika, Collision, Ninkasi, Unité Centrale, Satriale, Le Sucre,, Lyon · Wed, 5 Jun 2024
 
 ## Shares bills with
 

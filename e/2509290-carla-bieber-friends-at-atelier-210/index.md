@@ -1,6 +1,6 @@
 # Carla Bieber & friends at Atelier 210
 
-Carla Bieber & friends at Atelier 210 on Sat 10 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Carla Bieber & friends at Atelier 210 on Sat 10 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

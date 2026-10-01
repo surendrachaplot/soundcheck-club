@@ -1,8 +1,8 @@
 # Hotel Butterfly
 
-Hotel Butterfly is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "GoaUltrabeat - Hotel Butterfly" on Thu, 1 Oct 2026.
+Hotel Butterfly is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "GoaUltrabeat - Hotel Butterfly" on Thu, 1 Oct 2026.
 
-Hotel Butterfly is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including FRANKIEE, Giancarlino, Giorgio Gigli and GNMR and 2 more. Browse upcoming dates, start times and who's playing. Viale dei Gladiatori, 68, 00135 Roma RM, Italia.
+Hotel Butterfly is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including FRANKIEE, Giancarlino, Giorgio Gigli and GNMR and 2 more. See dates, start times and who's playing. Viale dei Gladiatori, 68, 00135 Roma RM, Italia.
 
 ## What's on
 

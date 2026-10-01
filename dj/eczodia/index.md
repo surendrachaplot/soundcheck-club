@@ -1,8 +1,8 @@
 # ECZODIA
 
-ECZODIA is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+ECZODIA is a Techno and Hardcore artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-ECZODIA is a techno and hardcore artist based in France, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 35 more. Often billed alongside LESSSS, OMAKS and Jacidorex. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
+ECZODIA is a techno and hardcore artist based in France, with 87 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 35 more. Often billed alongside LESSSS, OMAKS and Jacidorex. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ ECZODIA is a techno and hardcore artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- C12, Brussels — Fri, 25 Sept 2026
-- Komplex Klub, Zurich — Sat, 8 Aug 2026
-- Mdlr, Singapore — Fri, 17 Jul 2026
-- Hangar 34, Liverpool — Sat, 27 Jun 2026
-- INPUT High Fidelity Dance Club, Barcelona — Tue, 23 Jun 2026
-- Club Vaag, Antwerp — Sat, 20 Jun 2026
-- Wakiki BAR, Lisbon — Tue, 9 Jun 2026
-- 131 Mccormack St, Toronto — Sun, 17 May 2026
+- C12, Brussels · Fri, 25 Sept 2026
+- Komplex Klub, Zurich · Sat, 8 Aug 2026
+- Mdlr, Singapore · Fri, 17 Jul 2026
+- Hangar 34, Liverpool · Sat, 27 Jun 2026
+- INPUT High Fidelity Dance Club, Barcelona · Tue, 23 Jun 2026
+- Club Vaag, Antwerp · Sat, 20 Jun 2026
+- Wakiki BAR, Lisbon · Tue, 9 Jun 2026
+- 131 Mccormack St, Toronto · Sun, 17 May 2026
 
 ## Shares bills with
 

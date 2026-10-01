@@ -1,6 +1,6 @@
 # PMM music and Arikora Records presents Cycle of Echoes at TBA
 
-PMM music and Arikora Records presents Cycle of Echoes at TBA on Sat 10 Oct, London. Experimental. Preview the line-up and save it on soundcheck.
+PMM music and Arikora Records presents Cycle of Echoes at TBA on Sat 10 Oct, London. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

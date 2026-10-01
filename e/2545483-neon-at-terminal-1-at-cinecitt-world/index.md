@@ -1,6 +1,6 @@
 # NEON at Terminal 1 at Cinecittà World
 
-NEON at Terminal 1 at Cinecittà World on Sat 17 Oct, Rome. 5 artists on the bill: AnD, Dexphase, DJ Mad Dog and DYEN and 1 more. Techno. Preview the line-up and save it on soundcheck.
+NEON at Terminal 1 at Cinecittà World on Sat 17 Oct, Rome. 5 artists: AnD, Dexphase, DJ Mad Dog and DYEN and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

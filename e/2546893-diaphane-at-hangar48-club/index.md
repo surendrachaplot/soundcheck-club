@@ -1,6 +1,6 @@
 # DIAPHANE at Hangar48 Club
 
-DIAPHANE at Hangar48 Club on Sat 3 Oct, Madrid. 2 artists on the bill: Andrés Mokk and REDIG. Tech House. Preview the line-up and save it on soundcheck.
+DIAPHANE at Hangar48 Club on Sat 3 Oct, Madrid. 2 artists: Andrés Mokk and REDIG. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

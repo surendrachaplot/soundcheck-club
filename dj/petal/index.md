@@ -1,8 +1,8 @@
 # Petal
 
-Petal is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mood Ring, New York City on Wed, 7 Oct 2026.
+Petal is a Club and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mood Ring, New York City on Wed, 7 Oct 2026.
 
-Petal is a club and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Athens and New York City. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE. Next up: Mood Ring, New York City on Wed 7 Oct.
+Petal is a club and techno artist based in United States of America, with 96 gigs on soundcheck across Athens and New York City. Often billed alongside CMD+JAZMINE, BEYBLADE SHAWTY and EEVEE. Next up: Mood Ring, New York City on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Petal is a club and techno artist based in United States of America, tracked on 
 
 ## Recently played
 
-- Mood Ring, New York City — Sat, 19 Sept 2026
-- Bossa Nova Civic Club, New York City — Tue, 15 Sept 2026
-- Jade, New York City — Fri, 28 Aug 2026
-- public records, New York City — Thu, 20 Aug 2026
-- H0L0, New York City — Thu, 6 Aug 2026
-- H0L0, New York City — Thu, 6 Aug 2026
-- Jupiter Disco, New York City — Wed, 5 Aug 2026
-- SMUT Athens, Athens — Sat, 1 Aug 2026
+- Mood Ring, New York City · Sat, 19 Sept 2026
+- Bossa Nova Civic Club, New York City · Tue, 15 Sept 2026
+- Jade, New York City · Fri, 28 Aug 2026
+- public records, New York City · Thu, 20 Aug 2026
+- H0L0, New York City · Thu, 6 Aug 2026
+- H0L0, New York City · Thu, 6 Aug 2026
+- Jupiter Disco, New York City · Wed, 5 Aug 2026
+- SMUT Athens, Athens · Sat, 1 Aug 2026
 
 ## Shares bills with
 

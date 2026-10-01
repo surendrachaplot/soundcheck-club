@@ -1,6 +1,6 @@
 # J. Worra at Night We Met
 
-J. Worra at Night We Met on Sat 17 Oct, Nashville. 2 artists on the bill: J. Worra and Jane Dupree. House and Tech House. Preview the line-up and save it on soundcheck.
+J. Worra at Night We Met on Sat 17 Oct, Nashville. 2 artists: J. Worra and Jane Dupree. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

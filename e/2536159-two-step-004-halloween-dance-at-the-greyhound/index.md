@@ -1,6 +1,6 @@
 # TWO STEP 004 - HALLOWEEN DANCE at The Greyhound
 
-TWO STEP 004 - HALLOWEEN DANCE at The Greyhound on Fri 30 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+TWO STEP 004 - HALLOWEEN DANCE at The Greyhound on Fri 30 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

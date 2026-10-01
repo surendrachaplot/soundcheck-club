@@ -1,6 +1,6 @@
 # What Happens: Guy J / Tim Andresen / E Perini / Distracted / M Oliveros / AYELEN / Thor Calin at Culture Box
 
-What Happens: Guy J / Tim Andresen / E Perini / Distracted / M Oliveros / AYELEN / Thor Calin at Culture Box on Sat 21 Nov, Copenhagen. 4 artists on the bill: AYELEN, Guy J, Thor Calin and Tim Andresen. Techno and House. Preview the line-up and save it on soundcheck.
+What Happens: Guy J / Tim Andresen / E Perini / Distracted / M Oliveros / AYELEN / Thor Calin at Culture Box on Sat 21 Nov, Copenhagen. 4 artists: AYELEN, Guy J, Thor Calin and Tim Andresen. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

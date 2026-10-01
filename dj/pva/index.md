@@ -1,8 +1,8 @@
 # PVA
 
-PVA is a Post-Punk and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+PVA is a Post-Punk and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
-PVA is a post-punk and electronica artist based in China, tracked on soundcheck, with 12 sets logged across Bristol, London, Los Angeles and Manchester and 2 more. Often billed alongside James Massiah, Leon Vynehall and lifeloose. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
+PVA is a post-punk and electronica artist based in China, with 12 gigs on soundcheck across Bristol, London, Los Angeles and Manchester and 2 more. Often billed alongside James Massiah, Leon Vynehall and lifeloose. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ PVA is a post-punk and electronica artist based in China, tracked on soundcheck,
 
 ## Recently played
 
-- The Cause, London — Fri, 1 May 2026
-- Colour Factory, London — Thu, 26 Feb 2026
-- The White Hotel, Manchester — Sat, 21 Feb 2026
-- Ormside Projects, London — Fri, 26 Sept 2025
-- Ormside Projects, London — Thu, 18 Sept 2025
-- Bureau of Silly Ideas, London — Sat, 12 Jul 2025
-- Ecole de Cirque Micheletty, Paris — Sat, 26 Apr 2025
-- The Cause, London — Fri, 11 Oct 2024
+- The Cause, London · Fri, 1 May 2026
+- Colour Factory, London · Thu, 26 Feb 2026
+- The White Hotel, Manchester · Sat, 21 Feb 2026
+- Ormside Projects, London · Fri, 26 Sept 2025
+- Ormside Projects, London · Thu, 18 Sept 2025
+- Bureau of Silly Ideas, London · Sat, 12 Jul 2025
+- Ecole de Cirque Micheletty, Paris · Sat, 26 Apr 2025
+- The Cause, London · Fri, 11 Oct 2024
 
 ## Shares bills with
 

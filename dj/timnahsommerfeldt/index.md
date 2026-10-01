@@ -1,8 +1,8 @@
 # Timnah
 
-Timnah is a Techno and Ambient artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Zentralwäscherei, Zurich on Sat, 10 Oct 2026.
+Timnah is a Techno and Ambient artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Zentralwäscherei, Zurich on Sat, 10 Oct 2026.
 
-Timnah is a techno and ambient artist based in Switzerland, tracked on soundcheck, with 54 sets logged across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: Zentralwäscherei, Zurich on Sat 10 Oct.
+Timnah is a techno and ambient artist based in Switzerland, with 54 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 14 more. Often billed alongside Agonis, Garçon and Patrick Russell. Next up: Zentralwäscherei, Zurich on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Timnah is a techno and ambient artist based in Switzerland, tracked on soundchec
 
 ## Recently played
 
-- Gaffe, London — Fri, 18 Sept 2026
-- Shunter, Rotterdam — Fri, 18 Sept 2026
-- LAUT, Barcelona — Sat, 5 Sept 2026
-- Nowadays, New York City — Sat, 1 Aug 2026
-- TBA - Sarthe, Paris — Fri, 24 Jul 2026
-- Marble Bar, Detroit — Fri, 22 May 2026
-- Kuppel, Basel — Sun, 19 Apr 2026
-- Kuppel, Basel — Sat, 18 Apr 2026
+- Gaffe, London · Fri, 18 Sept 2026
+- Shunter, Rotterdam · Fri, 18 Sept 2026
+- LAUT, Barcelona · Sat, 5 Sept 2026
+- Nowadays, New York City · Sat, 1 Aug 2026
+- TBA - Sarthe, Paris · Fri, 24 Jul 2026
+- Marble Bar, Detroit · Fri, 22 May 2026
+- Kuppel, Basel · Sun, 19 Apr 2026
+- Kuppel, Basel · Sat, 18 Apr 2026
 
 ## Shares bills with
 

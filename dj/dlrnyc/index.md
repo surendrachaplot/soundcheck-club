@@ -1,8 +1,8 @@
 # DLR (nyc)
 
-DLR (nyc) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Jolene Sound Room Brooklyn, New York City on Fri, 9 Oct 2026.
+DLR (nyc) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jolene Sound Room Brooklyn, New York City on Fri, 9 Oct 2026.
 
-DLR (nyc) is a house and techno artist based in United States of America, tracked on soundcheck, with 37 sets logged across New York City. Often billed alongside Armii1n, Choukroun and Kenia. Next up: Jolene Sound Room Brooklyn, New York City on Fri 9 Oct.
+DLR (nyc) is a house and techno artist based in United States of America, with 37 gigs on soundcheck across New York City. Often billed alongside Armii1n, Choukroun and Kenia. Next up: Jolene Sound Room Brooklyn, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DLR (nyc) is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
-- Outer Heaven, New York City — Sat, 26 Sept 2026
-- Outer Heaven, New York City — Fri, 24 Jul 2026
-- Outer Heaven, New York City — Sat, 11 Jul 2026
-- Outer Heaven, New York City — Sat, 13 Jun 2026
-- Apollo Studio, New York City — Fri, 24 Apr 2026
-- Outer Heaven, New York City — Sat, 14 Mar 2026
-- TBA - East Williamsburg, New York City — Fri, 23 Jan 2026
-- Apollo Studio, New York City — Sat, 17 Jan 2026
+- Outer Heaven, New York City · Sat, 26 Sept 2026
+- Outer Heaven, New York City · Fri, 24 Jul 2026
+- Outer Heaven, New York City · Sat, 11 Jul 2026
+- Outer Heaven, New York City · Sat, 13 Jun 2026
+- Apollo Studio, New York City · Fri, 24 Apr 2026
+- Outer Heaven, New York City · Sat, 14 Mar 2026
+- TBA - East Williamsburg, New York City · Fri, 23 Jan 2026
+- Apollo Studio, New York City · Sat, 17 Jan 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # MASOI
 
-MASOI is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
+MASOI is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 南港三角公園, Osaka on Sat, 3 Oct 2026.
 
-MASOI is a psytrance and techno artist based in Japan, tracked on soundcheck, with 35 sets logged across Barcelona, Osaka and Tokyo. Often billed alongside YUKI.T, Tom Monkey and WOLT. Next up: 南港三角公園, Osaka on Sat 3 Oct.
+MASOI is a psytrance and techno artist based in Japan, with 35 gigs on soundcheck across Barcelona, Osaka and Tokyo. Often billed alongside YUKI.T, Tom Monkey and WOLT. Next up: 南港三角公園, Osaka on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ MASOI is a psytrance and techno artist based in Japan, tracked on soundcheck, wi
 
 ## Recently played
 
-- Piccadilly Premium, Osaka — Sat, 1 Aug 2026
-- Namura Zosenjo Atochi / Creative Center Osaka, Osaka — Sun, 28 Jun 2026
-- Blvck Water, Osaka — Sat, 6 Jun 2026
-- Enter Shibuya, Tokyo — Fri, 15 May 2026
-- HVEN, Tokyo — Sat, 9 May 2026
-- 南港三角公園, Osaka — Sun, 3 May 2026
-- Club Daphnia, Osaka — Fri, 20 Mar 2026
-- Blvck Water, Osaka — Sat, 14 Mar 2026
+- Piccadilly Premium, Osaka · Sat, 1 Aug 2026
+- Namura Zosenjo Atochi / Creative Center Osaka, Osaka · Sun, 28 Jun 2026
+- Blvck Water, Osaka · Sat, 6 Jun 2026
+- Enter Shibuya, Tokyo · Fri, 15 May 2026
+- HVEN, Tokyo · Sat, 9 May 2026
+- 南港三角公園, Osaka · Sun, 3 May 2026
+- Club Daphnia, Osaka · Fri, 20 Mar 2026
+- Blvck Water, Osaka · Sat, 14 Mar 2026
 
 ## Shares bills with
 

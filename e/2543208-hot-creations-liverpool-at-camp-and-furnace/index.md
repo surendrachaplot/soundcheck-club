@@ -1,6 +1,6 @@
 # Hot Creations Liverpool at Camp and Furnace
 
-Hot Creations Liverpool at Camp and Furnace on Fri 18 Dec, Liverpool. House and Tech House. Preview the line-up and save it on soundcheck.
+Hot Creations Liverpool at Camp and Furnace on Fri 18 Dec, Liverpool. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

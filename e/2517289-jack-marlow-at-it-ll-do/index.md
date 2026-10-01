@@ -1,6 +1,6 @@
 # JACK MARLOW at It'll Do
 
-JACK MARLOW at It'll Do on Fri 9 Oct, Dallas Fort Worth. 1 artist on the bill: JACK MARLOW. Preview the line-up and save it on soundcheck.
+JACK MARLOW at It'll Do on Fri 9 Oct, Dallas Fort Worth. 1 artist: JACK MARLOW. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

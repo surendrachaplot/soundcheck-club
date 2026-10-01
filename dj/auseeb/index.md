@@ -1,8 +1,8 @@
 # Auseeb
 
-Auseeb is a Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Munster Munch, London on Fri, 9 Oct 2026.
+Auseeb is a Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Munster Munch, London on Fri, 9 Oct 2026.
 
-Auseeb is a tech house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Areeb Abbasi, Kate Moss and Selch. Next up: Munster Munch, London on Fri 9 Oct.
+Auseeb is a tech house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside Areeb Abbasi, Kate Moss and Selch. Next up: Munster Munch, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,10 +12,10 @@ Auseeb is a tech house artist based in United Kingdom, tracked on soundcheck, wi
 
 ## Recently played
 
-- Jungla London, London — Fri, 25 Jul 2025
-- Jungla London, London — Fri, 27 Jun 2025
-- Project E8, London — Sat, 14 Sept 2024
-- Love Shack LDN, London — Sat, 27 Apr 2024
+- Jungla London, London · Fri, 25 Jul 2025
+- Jungla London, London · Fri, 27 Jun 2025
+- Project E8, London · Sat, 14 Sept 2024
+- Love Shack LDN, London · Sat, 27 Apr 2024
 
 ## Shares bills with
 

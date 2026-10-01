@@ -1,6 +1,6 @@
 # Keeno LIVE feat. Vibre Strings - Paris at Nouveau Casino
 
-Keeno LIVE feat. Vibre Strings - Paris at Nouveau Casino on Thu 11 Mar, Paris. 1 artist on the bill: Keeno. Preview the line-up and save it on soundcheck.
+Keeno LIVE feat. Vibre Strings - Paris at Nouveau Casino on Thu 11 Mar, Paris. 1 artist: Keeno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

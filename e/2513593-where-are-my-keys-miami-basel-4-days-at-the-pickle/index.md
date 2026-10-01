@@ -1,6 +1,6 @@
 # Where Are My Keys - Miami Basel (4 Days) at The Pickle
 
-Where Are My Keys - Miami Basel (4 Days) at The Pickle on Thu 3 Dec, Miami. 34 artists on the bill: 1morning, Anthea, Danny Daze and David Berrie and 30 more. Preview the line-up and save it on soundcheck.
+Where Are My Keys - Miami Basel (4 Days) at The Pickle on Thu 3 Dec, Miami. 34 artists: 1morning, Anthea, Danny Daze and David Berrie and 30 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

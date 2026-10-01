@@ -1,6 +1,6 @@
 # Hedkandi Present Disco Heaven at Aveika
 
-Hedkandi Present Disco Heaven at Aveika on Sat 10 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Hedkandi Present Disco Heaven at Aveika on Sat 10 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

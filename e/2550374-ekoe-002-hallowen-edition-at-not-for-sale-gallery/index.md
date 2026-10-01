@@ -1,6 +1,6 @@
 # EKOE 002 - HALLOWEN EDITION at Not For Sale Gallery
 
-EKOE 002 - HALLOWEN EDITION at Not For Sale Gallery on Sat 31 Oct, London. 5 artists on the bill: Leonardo Cruz DJ, Oscar Jones, Rowland and TEZZA and 1 more. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+EKOE 002 - HALLOWEN EDITION at Not For Sale Gallery on Sat 31 Oct, London. 5 artists: Leonardo Cruz DJ, Oscar Jones, Rowland and TEZZA and 1 more. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

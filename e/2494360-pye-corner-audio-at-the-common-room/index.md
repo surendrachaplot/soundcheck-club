@@ -1,6 +1,6 @@
 # Pye Corner Audio at The Common Room
 
-Pye Corner Audio at The Common Room on Sat 21 Nov, Newcastle. Ambient and Electronica. Preview the line-up and save it on soundcheck.
+Pye Corner Audio at The Common Room on Sat 21 Nov, Newcastle. Ambient and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # wOrld connection - Idjut Boys - at DJ Bar Bridge Shinjuku
 
-wOrld connection - Idjut Boys - at DJ Bar Bridge Shinjuku on Fri 2 Oct, Tokyo. 1 artist on the bill: Idjut Boys. Disco and Dub. Preview the line-up and save it on soundcheck.
+wOrld connection - Idjut Boys - at DJ Bar Bridge Shinjuku on Fri 2 Oct, Tokyo. 1 artist: Idjut Boys. Disco and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

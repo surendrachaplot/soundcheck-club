@@ -1,6 +1,6 @@
 # Lexlay x Reverb, Plaza Mateo, Montevideo Uruguay at TBA - Plaza Mateo
 
-Lexlay x Reverb, Plaza Mateo, Montevideo Uruguay at TBA - Plaza Mateo on Sat 10 Oct, Montevideo. 1 artist on the bill: Lexlay. Preview the line-up and save it on soundcheck.
+Lexlay x Reverb, Plaza Mateo, Montevideo Uruguay at TBA - Plaza Mateo on Sat 10 Oct, Montevideo. 1 artist: Lexlay. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

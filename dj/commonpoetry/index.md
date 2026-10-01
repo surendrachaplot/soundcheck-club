@@ -1,8 +1,8 @@
 # Common Poetry
 
-Common Poetry is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lime Milano, Milan on Sat, 3 Oct 2026.
+Common Poetry is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lime Milano, Milan on Sat, 3 Oct 2026.
 
-Common Poetry is a techno and industrial artist based in Colombia, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Chicago and Lisbon and 10 more. Often billed alongside Vinka Wydro, Angel Karel and Reitze. Next up: Lime Milano, Milan on Sat 3 Oct.
+Common Poetry is a techno and industrial artist based in Colombia, with 33 gigs on soundcheck across Barcelona, Berlin, Chicago and Lisbon and 10 more. Often billed alongside Vinka Wydro, Angel Karel and Reitze. Next up: Lime Milano, Milan on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Common Poetry is a techno and industrial artist based in Colombia, tracked on so
 
 ## Recently played
 
-- Domicile, Miami — Sat, 18 Jul 2026
-- Smoke & Mirrors, Chicago — Fri, 17 Jul 2026
-- DSTRKT Club Berlin, Berlin — Sat, 27 Jun 2026
-- Skin Club, Madrid — Sat, 13 Jun 2026
-- Noct Club, Paris — Fri, 5 Jun 2026
-- Claudio Bernard 149, Mexico City — Sat, 14 Feb 2026
-- EQ San Diego, San Diego — Fri, 6 Feb 2026
-- Domicile, Miami — Sat, 24 Jan 2026
+- Domicile, Miami · Sat, 18 Jul 2026
+- Smoke & Mirrors, Chicago · Fri, 17 Jul 2026
+- DSTRKT Club Berlin, Berlin · Sat, 27 Jun 2026
+- Skin Club, Madrid · Sat, 13 Jun 2026
+- Noct Club, Paris · Fri, 5 Jun 2026
+- Claudio Bernard 149, Mexico City · Sat, 14 Feb 2026
+- EQ San Diego, San Diego · Fri, 6 Feb 2026
+- Domicile, Miami · Sat, 24 Jan 2026
 
 ## Shares bills with
 

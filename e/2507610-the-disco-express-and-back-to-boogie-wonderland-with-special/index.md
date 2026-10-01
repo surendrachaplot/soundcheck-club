@@ -1,6 +1,6 @@
 # THE DISCO EXPRESS and BACK TO BOOGIE WONDERLAND with Special Guest BUSTIN LOOSE NYC/LDN) at Watsons EQ
 
-THE DISCO EXPRESS and BACK TO BOOGIE WONDERLAND with Special Guest BUSTIN LOOSE NYC/LDN) at Watsons EQ on Sun 4 Oct, Sydney. House and Disco. Preview the line-up and save it on soundcheck.
+THE DISCO EXPRESS and BACK TO BOOGIE WONDERLAND with Special Guest BUSTIN LOOSE NYC/LDN) at Watsons EQ on Sun 4 Oct, Sydney. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

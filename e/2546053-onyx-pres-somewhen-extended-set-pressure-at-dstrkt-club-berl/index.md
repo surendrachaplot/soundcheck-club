@@ -1,6 +1,6 @@
 # ONYX pres. Somewhen [EXTENDED SET]: 'PRESSURE' at DSTRKT Club Berlin
 
-ONYX pres. Somewhen [EXTENDED SET]: 'PRESSURE' at DSTRKT Club Berlin on Sat 13 Mar, Berlin. 1 artist on the bill: Somewhen. Preview the line-up and save it on soundcheck.
+ONYX pres. Somewhen [EXTENDED SET]: 'PRESSURE' at DSTRKT Club Berlin on Sat 13 Mar, Berlin. 1 artist: Somewhen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

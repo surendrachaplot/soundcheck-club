@@ -1,6 +1,6 @@
 # TRZY BRZMIENIA at BARdzo bardzo
 
-TRZY BRZMIENIA at BARdzo bardzo on Thu 1 Oct, Warsaw. Pop and Electronica. Preview the line-up and save it on soundcheck.
+TRZY BRZMIENIA at BARdzo bardzo on Thu 1 Oct, Warsaw. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

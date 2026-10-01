@@ -1,6 +1,6 @@
 # RESIDENT TRESOR BERLIN: MAX DURANTE / HARD TECHNO X INDUSTRIAL TECHNO NIGHT at Luka
 
-RESIDENT TRESOR BERLIN: MAX DURANTE / HARD TECHNO X INDUSTRIAL TECHNO NIGHT at Luka on Fri 2 Oct, Seoul. 5 artists on the bill: D.E.F, MAX DURANTE, NANAH and PONGPONG and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+RESIDENT TRESOR BERLIN: MAX DURANTE / HARD TECHNO X INDUSTRIAL TECHNO NIGHT at Luka on Fri 2 Oct, Seoul. 5 artists: D.E.F, MAX DURANTE, NANAH and PONGPONG and 1 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 20 DEC - Thuishaven with Mall Grab / Milion / Lucky Done Gone at Thuishaven
 
-20 DEC - Thuishaven with Mall Grab / Milion / Lucky Done Gone on Sun 20 Dec, Amsterdam. 8 artists on the bill: ESTRELLA, La La, Lucky Done Gone and Mall Grab and 4 more. Preview the line-up and save it on soundcheck.
+20 DEC - Thuishaven with Mall Grab / Milion / Lucky Done Gone on Sun 20 Dec, Amsterdam. 8 artists: ESTRELLA, La La, Lucky Done Gone and Mall Grab and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

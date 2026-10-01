@@ -1,6 +1,6 @@
 # Holograma: AMANTRA + fks + EFE CE ELE + puxo at Casa Montjuïc
 
-Holograma: AMANTRA + fks + EFE CE ELE + puxo at Casa Montjuïc on Thu 1 Oct, Barcelona. 4 artists on the bill: AMANTRA, Efe Ce Ele, FKS and Puxo. Preview the line-up and save it on soundcheck.
+Holograma: AMANTRA + fks + EFE CE ELE + puxo at Casa Montjuïc on Thu 1 Oct, Barcelona. 4 artists: AMANTRA, Efe Ce Ele, FKS and Puxo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

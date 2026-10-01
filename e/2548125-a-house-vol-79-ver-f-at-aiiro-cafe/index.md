@@ -1,6 +1,6 @@
 # A HOUSE vol 79 ~Ver.F~ at Aiiro Cafe
 
-A HOUSE vol 79 ~Ver.F~ at Aiiro Cafe on Fri 9 Oct, Tokyo. 1 artist on the bill: Kentaro Takizawa. House and Tech House. Preview the line-up and save it on soundcheck.
+A HOUSE vol 79 ~Ver.F~ at Aiiro Cafe on Fri 9 Oct, Tokyo. 1 artist: Kentaro Takizawa. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

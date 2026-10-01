@@ -1,6 +1,6 @@
 # Nü Androids presents: LUCH at Tigres de la Noche
 
-Nü Androids presents: LUCH at Tigres de la Noche on Sat 17 Oct, Washington DC. 1 artist on the bill: LUCH (MEX). Afro House. Preview the line-up and save it on soundcheck.
+Nü Androids presents: LUCH at Tigres de la Noche on Sat 17 Oct, Washington DC. 1 artist: LUCH (MEX). Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

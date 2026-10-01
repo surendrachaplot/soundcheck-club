@@ -1,6 +1,6 @@
 # NUIT NOIRE X FINCA DEL SOL - SEASON OPENING at TBA - Finca Del Sol
 
-NUIT NOIRE X FINCA DEL SOL - SEASON OPENING at TBA - Finca Del Sol on Sat 17 Oct, South East. 2 artists on the bill: AELVA K and Fletxa. Preview the line-up and save it on soundcheck.
+NUIT NOIRE X FINCA DEL SOL - SEASON OPENING at TBA - Finca Del Sol on Sat 17 Oct, South East. 2 artists: AELVA K and Fletxa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

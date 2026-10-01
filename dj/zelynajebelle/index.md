@@ -1,25 +1,26 @@
 # Zelyna je Belle
 
-Zelyna je Belle is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Rauxxxxs, Berlin on Sat, 14 Nov 2026.
+Zelyna je Belle is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ÆDEN, Berlin on Fri, 23 Oct 2026.
 
-Zelyna je Belle is a techno and trance artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside G4F4RØU, Jaamann and MAURER. Next up: TBA - Rauxxxxs, Berlin on Sat 14 Nov.
+Zelyna je Belle is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Berlin. Often billed alongside G4F4RØU, Jaamann and MAURER. Next up: ÆDEN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | ÆDEN | Berlin |
 | Sat, 14 Nov 2026 | TBA - Rauxxxxs | Berlin |
 
 ## Recently played
 
-- OXI, Berlin — Tue, 11 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- TBA - Rauxxxaus - Bethaniendamm , Berlin — Sat, 16 May 2026
-- TBA - Raucxxxxs, Berlin — Sat, 18 Apr 2026
-- Tresor / Globus, Berlin — Mon, 23 Mar 2026
-- ://about blank, Berlin — Sat, 21 Mar 2026
-- ://about blank, Berlin — Fri, 27 Feb 2026
-- ://about blank, Berlin — Sat, 27 Dec 2025
+- OXI, Berlin · Tue, 11 Aug 2026
+- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
+- TBA - Rauxxxaus - Bethaniendamm , Berlin · Sat, 16 May 2026
+- TBA - Raucxxxxs, Berlin · Sat, 18 Apr 2026
+- Tresor / Globus, Berlin · Mon, 23 Mar 2026
+- ://about blank, Berlin · Sat, 21 Mar 2026
+- ://about blank, Berlin · Fri, 27 Feb 2026
+- ://about blank, Berlin · Sat, 27 Dec 2025
 
 ## Shares bills with
 

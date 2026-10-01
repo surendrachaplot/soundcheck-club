@@ -1,6 +1,6 @@
 # Amsterdam Junglist Kru X Guerilla Bass at OT301
 
-Amsterdam Junglist Kru X Guerilla Bass at OT301 on Fri 20 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+Amsterdam Junglist Kru X Guerilla Bass at OT301 on Fri 20 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

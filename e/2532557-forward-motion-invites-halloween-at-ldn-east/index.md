@@ -1,6 +1,6 @@
 # Forward Motion Invites Halloween at LDN East
 
-Forward Motion Invites Halloween at LDN East on Sat 31 Oct, London. Deep House. Preview the line-up and save it on soundcheck.
+Forward Motion Invites Halloween at LDN East on Sat 31 Oct, London. Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

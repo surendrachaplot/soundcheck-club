@@ -1,6 +1,6 @@
 # DEEBDIBE w. DJ Ipek & R-ZOU at Klunkerkranich
 
-DEEBDIBE w. DJ Ipek & R-ZOU at Klunkerkranich on Thu 1 Oct, Berlin. 1 artist on the bill: DJ Ipek. Electronica. Preview the line-up and save it on soundcheck.
+DEEBDIBE w. DJ Ipek & R-ZOU at Klunkerkranich on Thu 1 Oct, Berlin. 1 artist: DJ Ipek. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DELIGHT at Output
 
-DELIGHT at Output on Sun 25 Oct, Tokyo. 1 artist on the bill: Sugiurumn. Techno. Preview the line-up and save it on soundcheck.
+DELIGHT at Output on Sun 25 Oct, Tokyo. 1 artist: Sugiurumn. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

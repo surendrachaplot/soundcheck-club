@@ -1,8 +1,8 @@
 # Cherry
 
-Cherry is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Das Zimmer, Mannheim on Fri, 9 Oct 2026.
+Cherry is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Das Zimmer, Mannheim on Fri, 9 Oct 2026.
 
-Cherry is a techno and house artist based in Japan, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, Cologne and London and 5 more. Often billed alongside K-Paul, JayKosy and Hardy Hard. Next up: Das Zimmer, Mannheim on Fri 9 Oct.
+Cherry is a techno and house artist based in Japan, with 33 gigs on soundcheck across Barcelona, Berlin, Cologne and London and 5 more. Often billed alongside K-Paul, JayKosy and Hardy Hard. Next up: Das Zimmer, Mannheim on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Cherry is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- CHICO, Mexico City — Sat, 22 Aug 2026
-- Odonien, Cologne — Wed, 8 Jul 2026
-- Odonien, Cologne — Fri, 26 Jun 2026
-- CHICO, Mexico City — Fri, 19 Jun 2026
-- City Hall, Barcelona — Tue, 26 May 2026
-- CHICO, Mexico City — Fri, 22 May 2026
-- Drama Radio Bar, Mexico City — Tue, 5 May 2026
-- Kosmos KG, Berlin — Sat, 7 Mar 2026
+- CHICO, Mexico City · Sat, 22 Aug 2026
+- Odonien, Cologne · Wed, 8 Jul 2026
+- Odonien, Cologne · Fri, 26 Jun 2026
+- CHICO, Mexico City · Fri, 19 Jun 2026
+- City Hall, Barcelona · Tue, 26 May 2026
+- CHICO, Mexico City · Fri, 22 May 2026
+- Drama Radio Bar, Mexico City · Tue, 5 May 2026
+- Kosmos KG, Berlin · Sat, 7 Mar 2026
 
 ## Shares bills with
 

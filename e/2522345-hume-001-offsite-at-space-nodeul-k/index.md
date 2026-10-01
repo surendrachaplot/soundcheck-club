@@ -1,6 +1,6 @@
 # HUME 001: OFFSITE at Space Nodeul K
 
-HUME 001: OFFSITE at Space Nodeul K on Sun 4 Oct, Seoul. 7 artists on the bill: Antwork, Daura, KONA and Minkyu and 3 more. Techno and Dub. Preview the line-up and save it on soundcheck.
+HUME 001: OFFSITE at Space Nodeul K on Sun 4 Oct, Seoul. 7 artists: Antwork, Daura, KONA and Minkyu and 3 more. Techno and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

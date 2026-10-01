@@ -1,6 +1,6 @@
 # KLØBB Ka2 // Pumpehuset at Pumpehuset
 
-KLØBB Ka2 // Pumpehuset on Sat 3 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+KLØBB Ka2 // Pumpehuset on Sat 3 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

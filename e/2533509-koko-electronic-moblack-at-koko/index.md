@@ -1,6 +1,6 @@
 # KOKO Electronic: MoBlack at KOKO
 
-KOKO Electronic: MoBlack on Sat 19 Dec, London. 2 artists on the bill: Henrik Schwarz and MoBlack. Preview the line-up and save it on soundcheck.
+KOKO Electronic: MoBlack on Sat 19 Dec, London. 2 artists: Henrik Schwarz and MoBlack. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

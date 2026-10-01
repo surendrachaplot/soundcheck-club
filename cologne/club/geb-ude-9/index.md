@@ -1,8 +1,8 @@
 # Gebäude 9
 
-Gebäude 9 is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Pathfinder & Basswerk pres. HALLOWEEN Bass feat. Teddy Killerz" on Sat, 31 Oct 2026.
+Gebäude 9 is a music venue in Cologne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Pathfinder & Basswerk pres. HALLOWEEN Bass feat. Teddy Killerz" on Sat, 31 Oct 2026.
 
-Gebäude 9 is a music venue in Cologne listed on soundcheck. 1 upcoming gig, with line-ups including Bass. Browse upcoming dates, start times and who's playing. Deutz-Mülheimer Str. 127; 51063 Cologne; Germany.
+Gebäude 9 is a music venue in Cologne listed on soundcheck. 1 upcoming gig, with line-ups including Bass. See dates, start times and who's playing. Deutz-Mülheimer Str. 127; 51063 Cologne; Germany.
 
 ## What's on
 

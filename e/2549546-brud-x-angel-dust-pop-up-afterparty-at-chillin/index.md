@@ -1,6 +1,6 @@
 # BRUD X ANGEL DUST: POP-UP AFTERPARTY at CHILLIN
 
-BRUD X ANGEL DUST: POP-UP AFTERPARTY at CHILLIN on Sat 10 Oct, Warsaw. 1 artist on the bill: BROTHER TIM. Bass and Garage. Preview the line-up and save it on soundcheck.
+BRUD X ANGEL DUST: POP-UP AFTERPARTY at CHILLIN on Sat 10 Oct, Warsaw. 1 artist: BROTHER TIM. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

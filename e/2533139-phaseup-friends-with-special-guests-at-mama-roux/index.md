@@ -1,6 +1,6 @@
 # PhaseUp + FRIENDS (With Special Guests) at Mama Roux
 
-PhaseUp + FRIENDS (With Special Guests) at Mama Roux on Sat 10 Oct, Birmingham. House and Deep House. Preview the line-up and save it on soundcheck.
+PhaseUp + FRIENDS (With Special Guests) at Mama Roux on Sat 10 Oct, Birmingham. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hard Techno with MOJI (Unchained) ! - by Rave Times at Subwerk Club
 
-Hard Techno with MOJI (Unchained) ! - by Rave Times at Subwerk Club on Fri 2 Oct, Bangkok. Techno. Preview the line-up and save it on soundcheck.
+Hard Techno with MOJI (Unchained) ! - by Rave Times at Subwerk Club on Fri 2 Oct, Bangkok. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

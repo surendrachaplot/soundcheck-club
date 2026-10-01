@@ -1,6 +1,6 @@
 # House Party at Bubba Oasis, Islington
 
-House Party at Bubba Oasis, Islington on Fri 23 Oct, London. R&B and Afrobeats. Preview the line-up and save it on soundcheck.
+House Party at Bubba Oasis, Islington on Fri 23 Oct, London. R&B and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

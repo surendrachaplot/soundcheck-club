@@ -1,6 +1,6 @@
 # Rosey Gold at Night Tales at Night Tales
 
-Rosey Gold at Night Tales on Fri 6 Nov, London. 1 artist on the bill: Rosey Gold. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Rosey Gold at Night Tales on Fri 6 Nov, London. 1 artist: Rosey Gold. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

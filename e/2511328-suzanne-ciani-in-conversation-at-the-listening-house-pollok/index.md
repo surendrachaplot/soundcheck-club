@@ -1,6 +1,6 @@
 # Suzanne Ciani In Conversation at The Listening House | Pollok House
 
-Suzanne Ciani In Conversation at The Listening House | Pollok House on Sat 3 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+Suzanne Ciani In Conversation at The Listening House | Pollok House on Sat 3 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

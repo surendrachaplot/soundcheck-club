@@ -1,8 +1,8 @@
 # De Helling
 
-De Helling is a music venue in Utrecht with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "AvondKlok" on Fri, 2 Oct 2026.
+De Helling is a music venue in Utrecht with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "AvondKlok" on Fri, 2 Oct 2026.
 
-De Helling is a music venue in Utrecht listed on soundcheck. 6 upcoming gigs, with line-ups including Geck-O. Browse upcoming dates, start times and who's playing. Helling 7, 3523 CB, Utrecht, Netherlands.
+De Helling is a music venue in Utrecht listed on soundcheck. 6 upcoming gigs, with line-ups including Geck-O. See dates, start times and who's playing. Helling 7, 3523 CB, Utrecht, Netherlands.
 
 ## What's on
 

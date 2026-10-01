@@ -1,8 +1,8 @@
 # Dr Morse
 
-Dr Morse is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Le Soul" on Sun, 11 Oct 2026.
+Dr Morse is a music venue in Melbourne with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Le Soul" on Sun, 11 Oct 2026.
 
-Dr Morse is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Cherokee (AU). Browse upcoming dates, start times and who's playing. 274 Johnston St; Abbotsford VIC 3067.
+Dr Morse is a music venue in Melbourne listed on soundcheck. 1 upcoming gig, with line-ups including Cherokee (AU). See dates, start times and who's playing. 274 Johnston St; Abbotsford VIC 3067.
 
 ## What's on
 

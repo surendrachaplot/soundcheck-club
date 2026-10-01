@@ -1,8 +1,8 @@
 # Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam
 
-Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Movement Recordings ADE XXX Showcase" on Sat, 24 Oct 2026.
+Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Movement Recordings ADE XXX Showcase" on Sat, 24 Oct 2026.
 
-Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including ADEZ, Aubrey Fry, Bianchetti and DJ Vivona and 2 more. Browse upcoming dates, start times and who's playing. Rembrandtplein 45, 1017 CT Amsterdam, Paesi Bassi.
+Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including ADEZ, Aubrey Fry, Bianchetti and DJ Vivona and 2 more. See dates, start times and who's playing. Rembrandtplein 45, 1017 CT Amsterdam, Paesi Bassi.
 
 ## What's on
 

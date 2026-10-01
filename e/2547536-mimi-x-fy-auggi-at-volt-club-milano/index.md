@@ -1,6 +1,6 @@
 # Mimi x FY + Auggië at Volt Club Milano
 
-Mimi x FY + Auggië at Volt Club Milano on Sat 24 Oct, Milan. 2 artists on the bill: Auggië and Mimi. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Mimi x FY + Auggië at Volt Club Milano on Sat 24 Oct, Milan. 2 artists: Auggië and Mimi. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

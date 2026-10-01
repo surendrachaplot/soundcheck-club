@@ -1,6 +1,6 @@
 # SIMMS - All Night Long at Colour Factory
 
-SIMMS - All Night Long at Colour Factory on Sat 10 Oct, London. Jungle. Preview the line-up and save it on soundcheck.
+SIMMS - All Night Long at Colour Factory on Sat 10 Oct, London. Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

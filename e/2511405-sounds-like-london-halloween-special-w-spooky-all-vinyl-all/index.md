@@ -1,6 +1,6 @@
 # Sounds Like London: Halloween Special w/ Spooky (All Vinyl, All Night) at Ninety One
 
-Sounds Like London: Halloween Special w/ Spooky (All Vinyl, All Night) at Ninety One on Sat 31 Oct, London. 1 artist on the bill: Spooky. Garage and Grime. Preview the line-up and save it on soundcheck.
+Sounds Like London: Halloween Special w/ Spooky (All Vinyl, All Night) at Ninety One on Sat 31 Oct, London. 1 artist: Spooky. Garage and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

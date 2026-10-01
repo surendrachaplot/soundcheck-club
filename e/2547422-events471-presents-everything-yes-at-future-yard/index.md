@@ -1,6 +1,6 @@
 # EVENTS471 PRESENTS Everything Yes at Future Yard
 
-EVENTS471 PRESENTS Everything Yes at Future Yard on Sun 11 Oct, Liverpool. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+EVENTS471 PRESENTS Everything Yes at Future Yard on Sun 11 Oct, Liverpool. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EXIT with KÖLSCH x Brina Knauss x Henrik Schwarz at HCC Kuppelsaal
 
-EXIT with KÖLSCH x Brina Knauss x Henrik Schwarz at HCC Kuppelsaal on Fri 30 Oct, Hannover. 4 artists on the bill: Brina Knauss, Henrik Schwarz, Kölsch and Lukas Perkovic. Preview the line-up and save it on soundcheck.
+EXIT with KÖLSCH x Brina Knauss x Henrik Schwarz at HCC Kuppelsaal on Fri 30 Oct, Hannover. 4 artists: Brina Knauss, Henrik Schwarz, Kölsch and Lukas Perkovic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

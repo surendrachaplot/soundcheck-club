@@ -1,6 +1,6 @@
 # Nothing Stays The Same - Mella Dee & Shanti Celeste at Under The Arches
 
-Nothing Stays The Same - Mella Dee & Shanti Celeste at Under The Arches on Sat 3 Oct, Leeds. 2 artists on the bill: Mella Dee and Shanti Celeste. House and Garage. Preview the line-up and save it on soundcheck.
+Nothing Stays The Same - Mella Dee & Shanti Celeste at Under The Arches on Sat 3 Oct, Leeds. 2 artists: Mella Dee and Shanti Celeste. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

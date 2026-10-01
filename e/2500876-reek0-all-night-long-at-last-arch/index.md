@@ -1,6 +1,6 @@
 # REEK0 (All Night Long) at Last Arch
 
-REEK0 (All Night Long) at Last Arch on Fri 2 Oct, London. Preview the line-up and save it on soundcheck.
+REEK0 (All Night Long) at Last Arch on Fri 2 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

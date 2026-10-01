@@ -1,6 +1,6 @@
 # TheyHouse at Bar Franca
 
-TheyHouse at Bar Franca on Sun 18 Oct, Los Angeles. 2 artists on the bill: NAYGOD and Terrell Brooke. Deep House and Acid. Preview the line-up and save it on soundcheck.
+TheyHouse at Bar Franca on Sun 18 Oct, Los Angeles. 2 artists: NAYGOD and Terrell Brooke. Deep House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

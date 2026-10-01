@@ -1,8 +1,8 @@
 # La Cova
 
-La Cova is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "La Cova Loca" on Sat, 3 Oct 2026.
+La Cova is a music venue in Hamburg with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "La Cova Loca" on Sat, 3 Oct 2026.
 
-La Cova is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including AH-N!CE, Billy Bam, KISSA and Kollision and 2 more. Browse upcoming dates, start times and who's playing. Reeperbahn 152, 20359 Hamburg.
+La Cova is a music venue in Hamburg listed on soundcheck. 4 upcoming gigs, with line-ups including AH-N!CE, Billy Bam, KISSA and Kollision and 2 more. See dates, start times and who's playing. Reeperbahn 152, 20359 Hamburg.
 
 ## What's on
 

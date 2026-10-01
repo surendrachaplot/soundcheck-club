@@ -1,6 +1,6 @@
 # m.i.d (mind in development) at Azumaya
 
-m.i.d (mind in development) at Azumaya on Fri 23 Oct, Tokyo. 1 artist on the bill: Nao(rural). Techno and House. Preview the line-up and save it on soundcheck.
+m.i.d (mind in development) at Azumaya on Fri 23 Oct, Tokyo. 1 artist: Nao(rural). Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

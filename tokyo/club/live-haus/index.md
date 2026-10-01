@@ -1,8 +1,8 @@
 # Live Haus
 
-Live Haus is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ZAP" on Sat, 3 Oct 2026.
+Live Haus is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ZAP" on Sat, 3 Oct 2026.
 
-Live Haus is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Acrocanthosaurus, Allen Mock, eijin and HALU(Tribal Connection) and 2 more. Browse upcoming dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
+Live Haus is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including Acrocanthosaurus, Allen Mock, eijin and HALU(Tribal Connection) and 2 more. See dates, start times and who's playing. 2-14-2 Kitazawa, Setagaya-ku, Tokyo, 155-0031 Japan.
 
 ## What's on
 

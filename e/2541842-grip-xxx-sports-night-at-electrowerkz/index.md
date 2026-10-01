@@ -1,6 +1,6 @@
 # GRIP [ XXX SPORTS NIGHT ] at Electrowerkz
 
-GRIP [ XXX SPORTS NIGHT ] at Electrowerkz on Thu 15 Oct, London. House and Electronica. Preview the line-up and save it on soundcheck.
+GRIP [ XXX SPORTS NIGHT ] at Electrowerkz on Thu 15 Oct, London. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

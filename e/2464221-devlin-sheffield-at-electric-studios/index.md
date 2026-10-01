@@ -1,6 +1,6 @@
 # Devlin - Sheffield at Electric Studios
 
-Devlin - Sheffield at Electric Studios on Thu 8 Oct, Sheffield. Hip-Hop and Grime. Preview the line-up and save it on soundcheck.
+Devlin - Sheffield at Electric Studios on Thu 8 Oct, Sheffield. Hip-Hop and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

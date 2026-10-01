@@ -1,6 +1,6 @@
 # Yo Speed × Awesome 5th Party at Circus Osaka
 
-Yo Speed × Awesome 5th Party at Circus Osaka on Thu 19 Nov, Osaka. 1 artist on the bill: Yo Speed. Breakbeat and Electro. Preview the line-up and save it on soundcheck.
+Yo Speed × Awesome 5th Party at Circus Osaka on Thu 19 Nov, Osaka. 1 artist: Yo Speed. Breakbeat and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

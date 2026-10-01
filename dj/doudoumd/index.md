@@ -1,8 +1,8 @@
 # Doudou MD
 
-Doudou MD is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Doudou MD is a House and Techno artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
-Doudou MD is a house and techno artist based in Netherlands, tracked on soundcheck, with 225 sets logged across Amsterdam, Austin, Bali and Barcelona and 49 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: TBA, Central on Fri 2 Oct.
+Doudou MD is a house and techno artist based in Netherlands, with 225 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 49 more. Often billed alongside Samuel Deep, DJ Senc and Fumiya Tanaka. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ Doudou MD is a house and techno artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- Shelter Amsterdam, Amsterdam — Sat, 19 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- export, Rotterdam — Fri, 18 Sept 2026
-- Fvtvr, Paris — Sat, 12 Sept 2026
-- Night Tales, London — Sat, 5 Sept 2026
-- Bassiani, Tbilisi — Fri, 4 Sept 2026
-- Radio Radio, Amsterdam — Fri, 14 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 8 Aug 2026
+- Shelter Amsterdam, Amsterdam · Sat, 19 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- export, Rotterdam · Fri, 18 Sept 2026
+- Fvtvr, Paris · Sat, 12 Sept 2026
+- Night Tales, London · Sat, 5 Sept 2026
+- Bassiani, Tbilisi · Fri, 4 Sept 2026
+- Radio Radio, Amsterdam · Fri, 14 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 

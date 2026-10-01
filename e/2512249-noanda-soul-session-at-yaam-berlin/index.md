@@ -1,6 +1,6 @@
 # Noanda Soul Session at YAAM Berlin
 
-Noanda Soul Session at YAAM Berlin on Tue 13 Oct, Berlin. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Noanda Soul Session at YAAM Berlin on Tue 13 Oct, Berlin. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

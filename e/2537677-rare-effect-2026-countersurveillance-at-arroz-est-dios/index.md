@@ -1,6 +1,6 @@
 # Rare Effect 2026: Countersurveillance at Arroz Estúdios
 
-Rare Effect 2026: Countersurveillance at Arroz Estúdios on Wed 11 Nov, Lisbon. Preview the line-up and save it on soundcheck.
+Rare Effect 2026: Countersurveillance at Arroz Estúdios on Wed 11 Nov, Lisbon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

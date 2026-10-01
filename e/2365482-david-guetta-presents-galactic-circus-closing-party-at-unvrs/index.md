@@ -1,6 +1,6 @@
 # David Guetta presents Galactic Circus - CLOSING PARTY at [UNVRS]
 
-David Guetta presents Galactic Circus - CLOSING PARTY at [UNVRS] on Fri 2 Oct, Ibiza. 3 artists on the bill: David Guetta, James Hype (UK) and Liva K. Progressive House and House. Preview the line-up and save it on soundcheck.
+David Guetta presents Galactic Circus - CLOSING PARTY at [UNVRS] on Fri 2 Oct, Ibiza. 3 artists: David Guetta, James Hype (UK) and Liva K. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

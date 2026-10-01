@@ -1,6 +1,6 @@
 # Datcha NONSTOP: Martyn Bootyspoon, chago_91 , Mytron [UK] at Bar Datcha
 
-Datcha NONSTOP: Martyn Bootyspoon, chago_91 , Mytron [UK] at Bar Datcha on Fri 2 Oct, Montreal. 3 artists on the bill: chago_91, Martyn Bootyspoon and Mytron. Preview the line-up and save it on soundcheck.
+Datcha NONSTOP: Martyn Bootyspoon, chago_91 , Mytron [UK] at Bar Datcha on Fri 2 Oct, Montreal. 3 artists: chago_91, Martyn Bootyspoon and Mytron. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

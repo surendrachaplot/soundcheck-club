@@ -1,8 +1,8 @@
 # Mesteren & Lærlingen
 
-Mesteren & Lærlingen is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "No hay futuro w/ K3RZC" on Sat, 10 Oct 2026.
+Mesteren & Lærlingen is a music venue in Copenhagen with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "No hay futuro w/ K3RZC" on Sat, 10 Oct 2026.
 
-Mesteren & Lærlingen is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Bette Davis Eyes, K3RZC and Record Turnover. Browse upcoming dates, start times and who's playing. Flæsketorvet 86, 1711 Copenhagen.
+Mesteren & Lærlingen is a music venue in Copenhagen listed on soundcheck. 1 upcoming gig, with line-ups including Bette Davis Eyes, K3RZC and Record Turnover. See dates, start times and who's playing. Flæsketorvet 86, 1711 Copenhagen.
 
 ## What's on
 

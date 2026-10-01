@@ -1,6 +1,6 @@
 # Sublime Club x Electron at TBA
 
-Sublime Club x Electron at TBA on Sat 24 Oct, Geneva. Preview the line-up and save it on soundcheck.
+Sublime Club x Electron at TBA on Sat 24 Oct, Geneva. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

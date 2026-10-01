@@ -1,6 +1,6 @@
 # Gravity 2 (drum'n'bass & borscht!) at MEIMEI
 
-Gravity 2 (drum'n'bass & borscht!) at MEIMEI on Sat 3 Oct, Tokyo. Drum & Bass. Preview the line-up and save it on soundcheck.
+Gravity 2 (drum'n'bass & borscht!) at MEIMEI on Sat 3 Oct, Tokyo. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

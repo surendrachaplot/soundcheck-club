@@ -1,6 +1,6 @@
 # Afterparty Rebels with Maceo Plex at Pandora Sevilla
 
-Afterparty Rebels with Maceo Plex at Pandora Sevilla on Fri 2 Oct, South. 3 artists on the bill: Cristina Tosio, Gonçalo and Maceo Plex. Preview the line-up and save it on soundcheck.
+Afterparty Rebels with Maceo Plex at Pandora Sevilla on Fri 2 Oct, South. 3 artists: Cristina Tosio, Gonçalo and Maceo Plex. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

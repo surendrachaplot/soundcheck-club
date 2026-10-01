@@ -1,8 +1,8 @@
 # Mimosa
 
-Mimosa is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Majestic Live at Mimosa Clapham" on Fri, 16 Oct 2026.
+Mimosa is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Majestic Live at Mimosa Clapham" on Fri, 16 Oct 2026.
 
-Mimosa is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Majestic. Browse upcoming dates, start times and who's playing.
+Mimosa is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Majestic. See dates, start times and who's playing.
 
 ## What's on
 

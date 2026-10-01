@@ -1,6 +1,6 @@
 # Expeditions at ://about blank
 
-Expeditions at ://about blank on Fri 27 Nov, Berlin. Trance and Techno. Preview the line-up and save it on soundcheck.
+Expeditions at ://about blank on Fri 27 Nov, Berlin. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Panda Bear
 
-Panda Bear is a Pop and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
+Panda Bear is a Pop and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Various Venues, Bristol, Bristol on Sat, 7 Nov 2026.
 
-Panda Bear is a pop and experimental artist based in United States of America, tracked on soundcheck, with 16 sets logged across Berlin, Bristol, Copenhagen and Lisbon and 9 more. Often billed alongside Caroline, Chloé and Erika de Casier. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
+Panda Bear is a pop and experimental artist based in United States of America, with 16 gigs on soundcheck across Berlin, Bristol, Copenhagen and Lisbon and 9 more. Often billed alongside Caroline, Chloé and Erika de Casier. Next up: Various Venues, Bristol, Bristol on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Panda Bear is a pop and experimental artist based in United States of America, t
 
 ## Recently played
 
-- Festsaal Kreuzberg, Berlin — Mon, 17 Nov 2025
-- Slaktkyrkan, Stockholm — Sat, 15 Nov 2025
-- Blå, Oslo — Fri, 14 Nov 2025
-- DR Koncerthuset, Copenhagen — Sun, 9 Nov 2025
-- TBA - Paris, Paris — Mon, 3 Nov 2025
-- Fonda Theatre, Los Angeles — Tue, 7 Oct 2025
-- Fort Mifflin, Philadelphia — Fri, 19 Sept 2025
-- Victoria Park, London — Sat, 7 Jun 2025
+- Festsaal Kreuzberg, Berlin · Mon, 17 Nov 2025
+- Slaktkyrkan, Stockholm · Sat, 15 Nov 2025
+- Blå, Oslo · Fri, 14 Nov 2025
+- DR Koncerthuset, Copenhagen · Sun, 9 Nov 2025
+- TBA - Paris, Paris · Mon, 3 Nov 2025
+- Fonda Theatre, Los Angeles · Tue, 7 Oct 2025
+- Fort Mifflin, Philadelphia · Fri, 19 Sept 2025
+- Victoria Park, London · Sat, 7 Jun 2025
 
 ## Shares bills with
 

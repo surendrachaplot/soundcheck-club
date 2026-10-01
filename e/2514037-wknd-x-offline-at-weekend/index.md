@@ -1,6 +1,6 @@
 # WKND X OFFLINE at Weekend
 
-WKND X OFFLINE at Weekend on Fri 16 Oct, Berlin. 3 artists on the bill: DJ PayPaul, Tiefschwarz and Tube & Berger. Techno and House. Preview the line-up and save it on soundcheck.
+WKND X OFFLINE at Weekend on Fri 16 Oct, Berlin. 3 artists: DJ PayPaul, Tiefschwarz and Tube & Berger. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Faited
 
-Faited is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nowadays, New York City on Thu, 8 Oct 2026.
+Faited is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nowadays, New York City on Thu, 8 Oct 2026.
 
-Faited is a techno and house artist based in United States of America, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Octo Octa, 1morning and Eris Drew. Next up: Nowadays, New York City on Thu 8 Oct.
+Faited is a techno and house artist based in United States of America, with 30 gigs on soundcheck across Amsterdam, Berlin, Boston and Chicago and 6 more. Often billed alongside Octo Octa, 1morning and Eris Drew. Next up: Nowadays, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Faited is a techno and house artist based in United States of America, tracked o
 
 ## Recently played
 
-- Renate, Berlin — Fri, 11 Sept 2026
-- Doka, Amsterdam — Fri, 11 Sept 2026
-- 528 Ibiza, Ibiza — Tue, 1 Sept 2026
-- The Stud, San Francisco/Oakland — Sat, 25 Jul 2026
-- TBA - Downtown Los Angeles, Los Angeles — Fri, 10 Jul 2026
-- TBA, New York City — Fri, 12 Jun 2026
-- TRANSMISSION DC, Washington DC — Fri, 12 Jun 2026
-- Tangent Gallery, Detroit — Mon, 25 May 2026
+- Renate, Berlin · Fri, 11 Sept 2026
+- Doka, Amsterdam · Fri, 11 Sept 2026
+- 528 Ibiza, Ibiza · Tue, 1 Sept 2026
+- The Stud, San Francisco/Oakland · Sat, 25 Jul 2026
+- TBA - Downtown Los Angeles, Los Angeles · Fri, 10 Jul 2026
+- TBA, New York City · Fri, 12 Jun 2026
+- TRANSMISSION DC, Washington DC · Fri, 12 Jun 2026
+- Tangent Gallery, Detroit · Mon, 25 May 2026
 
 ## Shares bills with
 

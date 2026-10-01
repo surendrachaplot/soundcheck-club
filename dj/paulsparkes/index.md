@@ -1,8 +1,8 @@
 # Paul Sparkes
 
-Paul Sparkes is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
+Paul Sparkes is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Onder Hans, Amsterdam on Sat, 24 Oct 2026.
 
-Paul Sparkes is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 25 sets logged across Amsterdam and The Hague. Often billed alongside Cris-H, Alexander Koning and Dave Seaman. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
+Paul Sparkes is a progressive house and deep house artist based in United Kingdom, with 25 gigs on soundcheck across Amsterdam and The Hague. Often billed alongside Cris-H, Alexander Koning and Dave Seaman. Next up: Onder Hans, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Paul Sparkes is a progressive house and deep house artist based in United Kingdo
 
 ## Recently played
 
-- Senang - Hoek van Holland, The Hague — Sat, 5 Sept 2026
-- Manii Beach, Amsterdam — Sat, 29 Aug 2026
-- Loods 12, Amsterdam — Fri, 22 May 2026
-- Loods 12, Amsterdam — Sat, 4 Apr 2026
-- Onder Hans, Amsterdam — Sat, 24 Jan 2026
-- Onder Hans, Amsterdam — Sat, 24 Jan 2026
-- Veronica Schip, Amsterdam — Fri, 24 Oct 2025
-- Panama, Amsterdam — Fri, 17 Oct 2025
+- Senang - Hoek van Holland, The Hague · Sat, 5 Sept 2026
+- Manii Beach, Amsterdam · Sat, 29 Aug 2026
+- Loods 12, Amsterdam · Fri, 22 May 2026
+- Loods 12, Amsterdam · Sat, 4 Apr 2026
+- Onder Hans, Amsterdam · Sat, 24 Jan 2026
+- Onder Hans, Amsterdam · Sat, 24 Jan 2026
+- Veronica Schip, Amsterdam · Fri, 24 Oct 2025
+- Panama, Amsterdam · Fri, 17 Oct 2025
 
 ## Shares bills with
 

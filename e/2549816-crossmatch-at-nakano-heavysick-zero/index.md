@@ -1,6 +1,6 @@
 # CROSSMATCH at Nakano Heavysick Zero
 
-CROSSMATCH at Nakano Heavysick Zero on Sat 10 Oct, Tokyo. 1 artist on the bill: Aki Dolanikov. Techno and House. Preview the line-up and save it on soundcheck.
+CROSSMATCH at Nakano Heavysick Zero on Sat 10 Oct, Tokyo. 1 artist: Aki Dolanikov. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

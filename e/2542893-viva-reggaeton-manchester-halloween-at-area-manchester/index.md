@@ -1,6 +1,6 @@
 # VIVA Reggaeton Manchester - Halloween at Area Manchester
 
-VIVA Reggaeton Manchester - Halloween at Area Manchester on Fri 30 Oct, Manchester. Reggaeton. Preview the line-up and save it on soundcheck.
+VIVA Reggaeton Manchester - Halloween at Area Manchester on Fri 30 Oct, Manchester. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

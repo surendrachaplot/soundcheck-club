@@ -1,6 +1,6 @@
 # THE CURE TO INSOMNIA at M.O.T
 
-THE CURE TO INSOMNIA at M.O.T on Thu 15 Oct, London. 5 artists on the bill: DJelley, Jack Costello, LUX (uk) and Sean Nolan and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+THE CURE TO INSOMNIA at M.O.T on Thu 15 Oct, London. 5 artists: DJelley, Jack Costello, LUX (uk) and Sean Nolan and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

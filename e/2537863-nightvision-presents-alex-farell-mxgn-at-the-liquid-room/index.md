@@ -1,6 +1,6 @@
 # Nightvision presents: Alex Farell & MXGN at The Liquid Room
 
-Nightvision presents: Alex Farell & MXGN at The Liquid Room on Sat 24 Oct, Edinburgh. 3 artists on the bill: Alex Farell, LAUZ and MXGN. Techno. Preview the line-up and save it on soundcheck.
+Nightvision presents: Alex Farell & MXGN at The Liquid Room on Sat 24 Oct, Edinburgh. 3 artists: Alex Farell, LAUZ and MXGN. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

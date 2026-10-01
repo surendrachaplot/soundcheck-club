@@ -1,6 +1,6 @@
 # Electro & Techno Sounds Saturday at Soda Club
 
-Electro & Techno Sounds Saturday at Soda Club on Sat 10 Oct, Berlin. Techno and Electro. Preview the line-up and save it on soundcheck.
+Electro & Techno Sounds Saturday at Soda Club on Sat 10 Oct, Berlin. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

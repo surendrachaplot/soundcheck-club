@@ -1,8 +1,8 @@
 # Camiflage
 
-Camiflage is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paramour, Brussels on Sat, 17 Oct 2026.
+Camiflage is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paramour, Brussels on Sat, 17 Oct 2026.
 
-Camiflage is a house and deep house artist based in Belgium, tracked on soundcheck, with 13 sets logged across Berlin, Brussels, Ghent and Lyon. Often billed alongside Dana Kuehr, Karla Böhm and Francis99. Next up: Paramour, Brussels on Sat 17 Oct.
+Camiflage is a house and deep house artist based in Belgium, with 13 gigs on soundcheck across Berlin, Brussels, Ghent and Lyon. Often billed alongside Dana Kuehr, Karla Böhm and Francis99. Next up: Paramour, Brussels on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Camiflage is a house and deep house artist based in Belgium, tracked on soundche
 
 ## Recently played
 
-- Péniche Éliane, Brussels — Sat, 19 Jul 2025
-- Le Lac, Brussels — Thu, 13 Mar 2025
-- Renate, Berlin — Fri, 15 Nov 2024
-- Parc de la Cerisaie, Lyon — Wed, 8 May 2024
-- Funke, Ghent — Sat, 13 Apr 2024
-- UMI, Brussels — Sat, 3 Feb 2024
-- Funke, Ghent — Sat, 16 Sept 2023
-- Buda BXL, Brussels — Sun, 10 Sept 2023
+- Péniche Éliane, Brussels · Sat, 19 Jul 2025
+- Le Lac, Brussels · Thu, 13 Mar 2025
+- Renate, Berlin · Fri, 15 Nov 2024
+- Parc de la Cerisaie, Lyon · Wed, 8 May 2024
+- Funke, Ghent · Sat, 13 Apr 2024
+- UMI, Brussels · Sat, 3 Feb 2024
+- Funke, Ghent · Sat, 16 Sept 2023
+- Buda BXL, Brussels · Sun, 10 Sept 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # A.M.C presents: Grassroots Energy (Brighton) at Volks
 
-A.M.C presents: Grassroots Energy (Brighton) at Volks on Sat 10 Oct, Brighton. 1 artist on the bill: A.M.C.. Drum & Bass. Preview the line-up and save it on soundcheck.
+A.M.C presents: Grassroots Energy (Brighton) at Volks on Sat 10 Oct, Brighton. 1 artist: A.M.C.. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

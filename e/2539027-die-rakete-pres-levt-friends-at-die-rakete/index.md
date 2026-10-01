@@ -1,6 +1,6 @@
 # Die Rakete pres. Levt & FRIENDS at Die Rakete
 
-Die Rakete pres. Levt & FRIENDS on Sat 3 Oct, Nürnberg. 3 artists on the bill: Arp, Bernhard Groeger and Levt. Techno. Preview the line-up and save it on soundcheck.
+Die Rakete pres. Levt & FRIENDS on Sat 3 Oct, Nürnberg. 3 artists: Arp, Bernhard Groeger and Levt. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

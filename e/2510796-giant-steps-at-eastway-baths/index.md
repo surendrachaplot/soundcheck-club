@@ -1,6 +1,6 @@
 # GIANT STEPS at Eastway Baths
 
-GIANT STEPS at Eastway Baths on Sun 8 Nov, London. Preview the line-up and save it on soundcheck.
+GIANT STEPS at Eastway Baths on Sun 8 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

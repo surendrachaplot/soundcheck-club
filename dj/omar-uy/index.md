@@ -1,8 +1,8 @@
 # OMAR (UY)
 
-OMAR (UY) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Macarena Club, Barcelona on Sun, 25 Oct 2026.
+OMAR (UY) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Macarena Club, Barcelona on Sun, 25 Oct 2026.
 
-OMAR (UY) is a house and techno artist based in Uruguay, tracked on soundcheck, with 108 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 32 more. Often billed alongside Oriana, Binh and Bobby.. Next up: Macarena Club, Barcelona on Sun 25 Oct.
+OMAR (UY) is a house and techno artist based in Uruguay, with 108 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Belgrade and 32 more. Often billed alongside Oriana, Binh and Bobby.. Next up: Macarena Club, Barcelona on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ OMAR (UY) is a house and techno artist based in Uruguay, tracked on soundcheck, 
 
 ## Recently played
 
-- Armazem Solon, Sao Paulo — Sat, 26 Sept 2026
-- Macarena Club, Barcelona — Sun, 16 Aug 2026
-- TBA, Mallorca — Sun, 2 Aug 2026
-- Rhythm, Toronto — Fri, 17 Jul 2026
-- fabric, London — Sat, 4 Jul 2026
-- OneSixOne, Melbourne — Sun, 28 Jun 2026
-- TBA, Sydney — Sat, 27 Jun 2026
-- TBA - secret location, Barcelona — Sat, 6 Jun 2026
+- Armazem Solon, Sao Paulo · Sat, 26 Sept 2026
+- Macarena Club, Barcelona · Sun, 16 Aug 2026
+- TBA, Mallorca · Sun, 2 Aug 2026
+- Rhythm, Toronto · Fri, 17 Jul 2026
+- fabric, London · Sat, 4 Jul 2026
+- OneSixOne, Melbourne · Sun, 28 Jun 2026
+- TBA, Sydney · Sat, 27 Jun 2026
+- TBA - secret location, Barcelona · Sat, 6 Jun 2026
 
 ## Shares bills with
 

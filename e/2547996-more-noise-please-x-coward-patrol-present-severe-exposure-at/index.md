@@ -1,6 +1,6 @@
 # More Noise Please! x COWARD PATROL PRESENT: SEVERE EXPOSURE at It's OK* Studios
 
-More Noise Please! x COWARD PATROL PRESENT: SEVERE EXPOSURE at It's OK* Studios on Sat 10 Oct, Toronto. Experimental and Noise. Preview the line-up and save it on soundcheck.
+More Noise Please! x COWARD PATROL PRESENT: SEVERE EXPOSURE at It's OK* Studios on Sat 10 Oct, Toronto. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

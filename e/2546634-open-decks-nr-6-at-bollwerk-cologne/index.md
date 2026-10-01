@@ -1,6 +1,6 @@
 # Open Decks Nr. 6 at Bollwerk Cologne
 
-Open Decks Nr. 6 at Bollwerk Cologne on Thu 1 Oct, Cologne. 1 artist on the bill: IAMHARDVANCORE. Techno and House. Preview the line-up and save it on soundcheck.
+Open Decks Nr. 6 at Bollwerk Cologne on Thu 1 Oct, Cologne. 1 artist: IAMHARDVANCORE. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

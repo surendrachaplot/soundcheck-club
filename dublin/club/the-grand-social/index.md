@@ -1,8 +1,8 @@
 # The Grand Social
 
-The Grand Social is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Techno Cage Rave - HOTBOXX" on Sat, 3 Oct 2026.
+The Grand Social is a music venue in Dublin with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Techno Cage Rave - HOTBOXX" on Sat, 3 Oct 2026.
 
-The Grand Social is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including Guy J and Tom Pavicich. Browse upcoming dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
+The Grand Social is a music venue in Dublin listed on soundcheck. 5 upcoming gigs, with line-ups including Guy J and Tom Pavicich. See dates, start times and who's playing. 35 Lower Liffey Street, Dublin, Ireland.
 
 ## What's on
 

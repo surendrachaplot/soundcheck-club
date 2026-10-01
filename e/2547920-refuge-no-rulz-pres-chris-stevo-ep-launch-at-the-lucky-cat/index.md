@@ -1,6 +1,6 @@
 # Refuge & No Rulz pres. Chris Stevo EP Launch at The Lucky Cat
 
-Refuge & No Rulz pres. Chris Stevo EP Launch at The Lucky Cat on Fri 16 Oct, Sydney. 3 artists on the bill: Chris Stevo, Miliard and Said Dami. House and Deep House. Preview the line-up and save it on soundcheck.
+Refuge & No Rulz pres. Chris Stevo EP Launch at The Lucky Cat on Fri 16 Oct, Sydney. 3 artists: Chris Stevo, Miliard and Said Dami. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

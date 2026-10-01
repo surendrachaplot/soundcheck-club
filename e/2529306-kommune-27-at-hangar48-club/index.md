@@ -1,6 +1,6 @@
 # Kommune #27 at Hangar48 Club
 
-Kommune #27 at Hangar48 Club on Fri 27 Nov, Madrid. Preview the line-up and save it on soundcheck.
+Kommune #27 at Hangar48 Club on Fri 27 Nov, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

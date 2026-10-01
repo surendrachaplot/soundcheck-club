@@ -1,8 +1,8 @@
 # Oots
 
-Oots is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Carriageworks, Sydney on Sat, 10 Oct 2026.
+Oots is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Carriageworks, Sydney on Sat, 10 Oct 2026.
 
-Oots is a techno and house artist based in Australia, tracked on soundcheck, with 20 sets logged across Hobart, Melbourne, Perth and Sydney. Often billed alongside 6 SENSE, ABSOLUTE. and Bella Claxton. Next up: Carriageworks, Sydney on Sat 10 Oct.
+Oots is a techno and house artist based in Australia, with 20 gigs on soundcheck across Hobart, Melbourne, Perth and Sydney. Often billed alongside 6 SENSE, ABSOLUTE. and Bella Claxton. Next up: Carriageworks, Sydney on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Oots is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 ## Recently played
 
-- Carousel Bar & Ballroom, Sydney — Fri, 30 Jan 2026
-- Graham St, Port Melbourne, Melbourne — Sat, 24 Jan 2026
-- Plaza Hotel Sydney, Sydney — Sat, 25 Oct 2025
-- Glamorama, Melbourne — Fri, 12 Sept 2025
-- The Grand Poobah, Hobart — Sat, 12 Jul 2025
-- Xe54, Melbourne — Sat, 10 May 2025
-- The Ivy, Sydney — Sun, 3 Nov 2024
-- Bourke Street Courtyard, Melbourne — Fri, 9 Aug 2024
+- Carousel Bar & Ballroom, Sydney · Fri, 30 Jan 2026
+- Graham St, Port Melbourne, Melbourne · Sat, 24 Jan 2026
+- Plaza Hotel Sydney, Sydney · Sat, 25 Oct 2025
+- Glamorama, Melbourne · Fri, 12 Sept 2025
+- The Grand Poobah, Hobart · Sat, 12 Jul 2025
+- Xe54, Melbourne · Sat, 10 May 2025
+- The Ivy, Sydney · Sun, 3 Nov 2024
+- Bourke Street Courtyard, Melbourne · Fri, 9 Aug 2024
 
 ## Shares bills with
 

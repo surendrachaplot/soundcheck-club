@@ -1,8 +1,8 @@
 # Ton TB
 
-Ton TB is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
+Ton TB is a Acid and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Thuishaven, Amsterdam on Sat, 7 Nov 2026.
 
-Ton TB is an acid and techno artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Alexander Koning, Dimitri and Lucien Foort. Next up: Thuishaven, Amsterdam on Sat 7 Nov.
+Ton TB is an acid and techno artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam. Often billed alongside Alexander Koning, Dimitri and Lucien Foort. Next up: Thuishaven, Amsterdam on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Ton TB is an acid and techno artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- Thuishaven, Amsterdam — Sat, 2 Aug 2025
-- De Ven, Velsen Zuid, Amsterdam — Sat, 5 Jul 2025
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 31 Aug 2024
-- Thuishaven, Amsterdam — Sat, 25 May 2024
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 2 Sept 2023
-- Thuishaven, Amsterdam — Sat, 19 Aug 2023
-- Toekomstmuziek, Amsterdam — Sat, 15 Jul 2023
+- Thuishaven, Amsterdam · Sat, 2 Aug 2025
+- De Ven, Velsen Zuid, Amsterdam · Sat, 5 Jul 2025
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 31 Aug 2024
+- Thuishaven, Amsterdam · Sat, 25 May 2024
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 2 Sept 2023
+- Thuishaven, Amsterdam · Sat, 19 Aug 2023
+- Toekomstmuziek, Amsterdam · Sat, 15 Jul 2023
 
 ## Shares bills with
 

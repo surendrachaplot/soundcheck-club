@@ -1,6 +1,6 @@
 # vurtnight Claudio PRC at vurt.
 
-vurtnight Claudio PRC at vurt. on Sat 31 Oct, Seoul. 3 artists on the bill: Claudio PRC, GOBI and SUZAN. Techno. Preview the line-up and save it on soundcheck.
+vurtnight Claudio PRC at vurt. on Sat 31 Oct, Seoul. 3 artists: Claudio PRC, GOBI and SUZAN. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

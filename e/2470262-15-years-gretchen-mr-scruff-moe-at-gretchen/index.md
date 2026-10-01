@@ -1,6 +1,6 @@
 # 15 Years Gretchen: MR. SCRUFF & MOE at Gretchen
 
-15 Years Gretchen: MR. SCRUFF & MOE on Fri 9 Oct, Berlin. 2 artists on the bill: moe. and Mr Scruff. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: MR. SCRUFF & MOE on Fri 9 Oct, Berlin. 2 artists: moe. and Mr Scruff. Hip-Hop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

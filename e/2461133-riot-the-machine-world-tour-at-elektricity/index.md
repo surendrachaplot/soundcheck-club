@@ -1,6 +1,6 @@
 # RIOT: THE MACHINE WORLD TOUR at Elektricity
 
-RIOT: THE MACHINE WORLD TOUR at Elektricity on Sat 12 Dec, Detroit. Preview the line-up and save it on soundcheck.
+RIOT: THE MACHINE WORLD TOUR at Elektricity on Sat 12 Dec, Detroit. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

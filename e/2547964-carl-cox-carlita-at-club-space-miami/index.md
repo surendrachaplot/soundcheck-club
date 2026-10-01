@@ -1,6 +1,6 @@
 # Carl Cox + Carlita at Club Space Miami
 
-Carl Cox + Carlita at Club Space Miami on Sat 14 Nov, Miami. 4 artists on the bill: Carl Cox, Carlita, Ms. Mada and Sister System. Techno and House. Preview the line-up and save it on soundcheck.
+Carl Cox + Carlita at Club Space Miami on Sat 14 Nov, Miami. 4 artists: Carl Cox, Carlita, Ms. Mada and Sister System. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EELF x HER PRESENT - Athens: Target Demographic, Jacopo Sb, VRGN at IT Athens
 
-EELF x HER PRESENT - Athens: Target Demographic, Jacopo Sb, VRGN at IT Athens on Sat 10 Oct, Athens. 4 artists on the bill: Jacopo Sb, pink.wav, Target Demographic and VRGN. Techno and House. Preview the line-up and save it on soundcheck.
+EELF x HER PRESENT - Athens: Target Demographic, Jacopo Sb, VRGN at IT Athens on Sat 10 Oct, Athens. 4 artists: Jacopo Sb, pink.wav, Target Demographic and VRGN. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # INFERNO at Distillery N17
 
-INFERNO at Distillery N17 on Fri 27 Nov, London. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+INFERNO at Distillery N17 on Fri 27 Nov, London. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

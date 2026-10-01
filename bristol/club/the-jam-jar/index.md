@@ -1,8 +1,8 @@
 # The Jam Jar
 
-The Jam Jar is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Slippin' - Satl, SL8R, Ephyra, Chamba" on Sat, 10 Oct 2026.
+The Jam Jar is a music venue in Bristol with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Slippin' - Satl, SL8R, Ephyra, Chamba" on Sat, 10 Oct 2026.
 
-The Jam Jar is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including 2 Bad Mice, Abby Daze, Chamba and Etch and 2 more. Browse upcoming dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
+The Jam Jar is a music venue in Bristol listed on soundcheck. 3 upcoming gigs, with line-ups including 2 Bad Mice, Abby Daze, Chamba and Etch and 2 more. See dates, start times and who's playing. Little Ann St, Bristol BS2 9EB, United Kingdom.
 
 ## What's on
 

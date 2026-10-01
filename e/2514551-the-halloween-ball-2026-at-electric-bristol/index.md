@@ -1,6 +1,6 @@
 # The Halloween Ball 2026 at Electric Bristol
 
-The Halloween Ball 2026 at Electric Bristol on Sat 31 Oct, Bristol. Preview the line-up and save it on soundcheck.
+The Halloween Ball 2026 at Electric Bristol on Sat 31 Oct, Bristol. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

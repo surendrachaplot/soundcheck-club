@@ -1,6 +1,6 @@
 # salox90mil: My New Band Believe + Jasper Llewellyn (Caroline) at 90mil
 
-salox90mil: My New Band Believe + Jasper Llewellyn (Caroline) on Wed 14 Oct, Berlin. Experimental. Preview the line-up and save it on soundcheck.
+salox90mil: My New Band Believe + Jasper Llewellyn (Caroline) on Wed 14 Oct, Berlin. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

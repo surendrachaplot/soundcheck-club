@@ -1,6 +1,6 @@
 # HALLOWEEN at Resume Valencia
 
-HALLOWEEN at Resume Valencia on Fri 30 Oct, Valencia. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+HALLOWEEN at Resume Valencia on Fri 30 Oct, Valencia. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

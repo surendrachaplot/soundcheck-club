@@ -1,6 +1,6 @@
 # Cartulis 17th Year Anniversary at FOLD
 
-Cartulis 17th Year Anniversary at FOLD on Sat 21 Nov, London. Preview the line-up and save it on soundcheck.
+Cartulis 17th Year Anniversary at FOLD on Sat 21 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

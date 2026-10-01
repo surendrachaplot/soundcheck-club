@@ -1,8 +1,8 @@
 # Satirized
 
-Satirized is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrik, Madrid on Sat, 24 Oct 2026.
+Satirized is a Hardcore and Gabber artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrik, Madrid on Sat, 24 Oct 2026.
 
-Satirized is a hardcore and gabber artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Frankfurt, Glasgow and Madrid. Often billed alongside Noxiouz, The Dark Horror and Pinotello. Next up: Fabrik, Madrid on Sat 24 Oct.
+Satirized is a hardcore and gabber artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam, Frankfurt, Glasgow and Madrid. Often billed alongside Noxiouz, The Dark Horror and Pinotello. Next up: Fabrik, Madrid on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Satirized is a hardcore and gabber artist based in Netherlands, tracked on sound
 
 ## Recently played
 
-- Fabrik, Madrid — Sat, 21 Mar 2026
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 22 Nov 2025
-- The Classic Grand, Glasgow — Fri, 6 Jun 2025
-- Fabrik, Madrid — Sat, 22 Mar 2025
-- The Classic Grand, Glasgow — Fri, 5 Jul 2024
-- Hemkade 48, Amsterdam — Sat, 9 Mar 2024
-- The Classic Grand, Glasgow — Fri, 1 Sept 2023
+- Fabrik, Madrid · Sat, 21 Mar 2026
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 22 Nov 2025
+- The Classic Grand, Glasgow · Fri, 6 Jun 2025
+- Fabrik, Madrid · Sat, 22 Mar 2025
+- The Classic Grand, Glasgow · Fri, 5 Jul 2024
+- Hemkade 48, Amsterdam · Sat, 9 Mar 2024
+- The Classic Grand, Glasgow · Fri, 1 Sept 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Space Afrika present: Quiet Storm at Volksbühne
 
-Space Afrika present: Quiet Storm at Volksbühne on Thu 22 Oct, Berlin. 2 artists on the bill: Bapari and Space Afrika. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
+Space Afrika present: Quiet Storm at Volksbühne on Thu 22 Oct, Berlin. 2 artists: Bapari and Space Afrika. Ambient and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

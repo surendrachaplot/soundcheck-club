@@ -1,6 +1,6 @@
 # Consorzio Ambient Italiano at Voce - Triennale
 
-Consorzio Ambient Italiano at Voce - Triennale on Thu 15 Oct, Milan. Preview the line-up and save it on soundcheck.
+Consorzio Ambient Italiano at Voce - Triennale on Thu 15 Oct, Milan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

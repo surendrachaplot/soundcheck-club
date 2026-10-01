@@ -1,6 +1,6 @@
 # Smolna x Redefined: Ame live b2b Trikk at Smolna
 
-Smolna x Redefined: Ame live b2b Trikk on Fri 6 Nov, Warsaw. 4 artists on the bill: Âme, Fibon, Piotr Ho and Trikk. Techno and House. Preview the line-up and save it on soundcheck.
+Smolna x Redefined: Ame live b2b Trikk on Fri 6 Nov, Warsaw. 4 artists: Âme, Fibon, Piotr Ho and Trikk. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

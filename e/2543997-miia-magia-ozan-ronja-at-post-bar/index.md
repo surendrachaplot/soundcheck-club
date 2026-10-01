@@ -1,6 +1,6 @@
 # Miia Magia, Ozan & Ronja at Post Bar
 
-Miia Magia, Ozan & Ronja at Post Bar on Fri 23 Oct, Helsinki. 2 artists on the bill: Miia Magia and Ozan. Techno. Preview the line-up and save it on soundcheck.
+Miia Magia, Ozan & Ronja at Post Bar on Fri 23 Oct, Helsinki. 2 artists: Miia Magia and Ozan. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Metalheadz: Dillinja, J Majik, Chinese Daughter, Diverge & Cleveland Watkiss at Night Tales
 
-Metalheadz: Dillinja, J Majik, Chinese Daughter, Diverge & Cleveland Watkiss at Night Tales on Fri 18 Dec, London. 5 artists on the bill: Chinese Daughter, Cleveland Watkiss, Dillinja and Diverge and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+Metalheadz: Dillinja, J Majik, Chinese Daughter, Diverge & Cleveland Watkiss at Night Tales on Fri 18 Dec, London. 5 artists: Chinese Daughter, Cleveland Watkiss, Dillinja and Diverge and 1 more. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

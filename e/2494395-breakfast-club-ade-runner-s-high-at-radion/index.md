@@ -1,6 +1,6 @@
 # Breakfast Club ADE: Runner's High at RADION
 
-Breakfast Club ADE: Runner's High at RADION on Sat 24 Oct, Amsterdam. 15 artists on the bill: Andrew (BG), Andy (NL), Bennet (DE) and Binh and 11 more. Techno and House. Preview the line-up and save it on soundcheck.
+Breakfast Club ADE: Runner's High at RADION on Sat 24 Oct, Amsterdam. 15 artists: Andrew (BG), Andy (NL), Bennet (DE) and Binh and 11 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Club Blanco Halloween at TBA
 
-Club Blanco Halloween at TBA on Sat 31 Oct, West Wales. 7 artists on the bill: Chez de Milo, DMX Krew, Eksish and Jamie Paton and 3 more. Preview the line-up and save it on soundcheck.
+Club Blanco Halloween at TBA on Sat 31 Oct, West Wales. 7 artists: Chez de Milo, DMX Krew, Eksish and Jamie Paton and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mark Solotroff Album Release at Color Club
 
-Mark Solotroff Album Release at Color Club on Thu 5 Nov, Chicago. Ambient and Noise. Preview the line-up and save it on soundcheck.
+Mark Solotroff Album Release at Color Club on Thu 5 Nov, Chicago. Ambient and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

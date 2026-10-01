@@ -1,6 +1,6 @@
 # Stessie Tfgn at Groove Bar
 
-Stessie Tfgn at Groove Bar on Thu 1 Oct, Prague. 1 artist on the bill: Stessie Tfgn. House and Tech House. Preview the line-up and save it on soundcheck.
+Stessie Tfgn at Groove Bar on Thu 1 Oct, Prague. 1 artist: Stessie Tfgn. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

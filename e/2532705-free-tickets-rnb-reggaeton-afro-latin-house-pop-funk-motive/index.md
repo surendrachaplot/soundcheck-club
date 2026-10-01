@@ -1,6 +1,6 @@
 # FREE TICKETS - RNB, REGGAETON, AFRO & LATIN HOUSE, POP, FUNK - MOTIVE LAUNCH PARTY at E1
 
-FREE TICKETS - RNB, REGGAETON, AFRO & LATIN HOUSE, POP, FUNK - MOTIVE LAUNCH PARTY at E1 on Fri 9 Oct, London. Pop and R&B. Preview the line-up and save it on soundcheck.
+FREE TICKETS - RNB, REGGAETON, AFRO & LATIN HOUSE, POP, FUNK - MOTIVE LAUNCH PARTY at E1 on Fri 9 Oct, London. Pop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

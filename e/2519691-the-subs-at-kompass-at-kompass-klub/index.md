@@ -1,6 +1,6 @@
 # The Subs at Kompass at Kompass Klub
 
-The Subs at Kompass at Kompass Klub on Sat 21 Nov, Ghent. 7 artists on the bill: Azo, Crookers, Digitalism and Dr. Lektroluv and 3 more. Electro and Electronica. Preview the line-up and save it on soundcheck.
+The Subs at Kompass at Kompass Klub on Sat 21 Nov, Ghent. 7 artists: Azo, Crookers, Digitalism and Dr. Lektroluv and 3 more. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

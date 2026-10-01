@@ -1,6 +1,6 @@
 # Body Worx wsg CONFLICT BUREAU (Chicago) at Temple Bar
 
-Body Worx wsg CONFLICT BUREAU (Chicago) at Temple Bar on Sat 17 Oct, Detroit. 2 artists on the bill: CONFLICT BUREAU and Dretraxx. Acid. Preview the line-up and save it on soundcheck.
+Body Worx wsg CONFLICT BUREAU (Chicago) at Temple Bar on Sat 17 Oct, Detroit. 2 artists: CONFLICT BUREAU and Dretraxx. Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

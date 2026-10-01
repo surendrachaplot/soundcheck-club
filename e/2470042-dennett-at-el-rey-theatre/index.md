@@ -1,6 +1,6 @@
 # DENNETT at El Rey Theatre
 
-DENNETT at El Rey Theatre on Fri 13 Nov, Los Angeles. Preview the line-up and save it on soundcheck.
+DENNETT at El Rey Theatre on Fri 13 Nov, Los Angeles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

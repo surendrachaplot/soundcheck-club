@@ -1,8 +1,8 @@
 # Luciid
 
-Luciid is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
+Luciid is a Techno and Hardcore artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
 
-Luciid is a techno and hardcore artist based in Ireland, tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Vendex, Dexphase and Skryption. Next up: Edelfettwerk, Hamburg on Fri 2 Oct.
+Luciid is a techno and hardcore artist based in Ireland, with 117 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Vendex, Dexphase and Skryption. Next up: Edelfettwerk, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Luciid is a techno and hardcore artist based in Ireland, tracked on soundcheck, 
 
 ## Recently played
 
-- Club Exil, Vienna — Sat, 26 Sept 2026
-- Parc de la Serra de Mollerussa (Lérida), Barcelona — Sat, 5 Sept 2026
-- Marienbergpark, Nürnberg — Sat, 29 Aug 2026
-- OST, Berlin — Fri, 28 Aug 2026
-- Ääniwalli, Helsinki — Sat, 8 Aug 2026
-- Mia Mao, Paris — Fri, 7 Aug 2026
-- TBA - Puerto de Sagunto, Valencia — Sat, 11 Jul 2026
-- Ministerium Club, Lisbon — Thu, 11 Jun 2026
+- Club Exil, Vienna · Sat, 26 Sept 2026
+- Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
+- Marienbergpark, Nürnberg · Sat, 29 Aug 2026
+- OST, Berlin · Fri, 28 Aug 2026
+- Ääniwalli, Helsinki · Sat, 8 Aug 2026
+- Mia Mao, Paris · Fri, 7 Aug 2026
+- TBA - Puerto de Sagunto, Valencia · Sat, 11 Jul 2026
+- Ministerium Club, Lisbon · Thu, 11 Jun 2026
 
 ## Shares bills with
 

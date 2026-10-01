@@ -1,8 +1,8 @@
 # Kasia (OFC)
 
-Kasia (OFC) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bsmnt, Boston on Fri, 23 Oct 2026.
+Kasia (OFC) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bsmnt, Boston on Fri, 23 Oct 2026.
 
-Kasia (OFC) is a techno and house artist based in Poland, tracked on soundcheck, with 78 sets logged across Amsterdam, Athens, Austin and Bali and 28 more. Often billed alongside Adam Beyer, Kevin de Vries and Chris Avantgarde. Next up: Bsmnt, Boston on Fri 23 Oct.
+Kasia (OFC) is a techno and house artist based in Poland, with 78 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 28 more. Often billed alongside Adam Beyer, Kevin de Vries and Chris Avantgarde. Next up: Bsmnt, Boston on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kasia (OFC) is a techno and house artist based in Poland, tracked on soundcheck,
 
 ## Recently played
 
-- The Concourse Project, Austin — Sat, 26 Sept 2026
-- Hï Ibiza, Ibiza — Wed, 9 Sept 2026
-- Bsmnt, Boston — Sun, 6 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Amnesia Ibiza, Ibiza — Wed, 12 Aug 2026
-- [UNVRS], Ibiza — Tue, 4 Aug 2026
-- Gianpula Village, Malta — Fri, 31 Jul 2026
-- TBA - Velence - North Beach, Budapest — Sun, 26 Jul 2026
+- The Concourse Project, Austin · Sat, 26 Sept 2026
+- Hï Ibiza, Ibiza · Wed, 9 Sept 2026
+- Bsmnt, Boston · Sun, 6 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 12 Aug 2026
+- [UNVRS], Ibiza · Tue, 4 Aug 2026
+- Gianpula Village, Malta · Fri, 31 Jul 2026
+- TBA - Velence - North Beach, Budapest · Sun, 26 Jul 2026
 
 ## Shares bills with
 

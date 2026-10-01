@@ -1,6 +1,6 @@
 # RNB MANIA - Brighton's R&B Festival at Quarters
 
-RNB MANIA - Brighton's R&B Festival at Quarters on Sat 21 Nov, Brighton. R&B. Preview the line-up and save it on soundcheck.
+RNB MANIA - Brighton's R&B Festival at Quarters on Sat 21 Nov, Brighton. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

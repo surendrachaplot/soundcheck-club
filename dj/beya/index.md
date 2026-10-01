@@ -1,8 +1,8 @@
 # BEYA
 
-BEYA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
+BEYA is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Great Northern, San Francisco/Oakland on Fri, 30 Oct 2026.
 
-BEYA is a house and techno artist based in United States of America, tracked on soundcheck, with 33 sets logged across Los Angeles, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside Mark O'Brien, DJ M3 and likeholywine. Next up: The Great Northern, San Francisco/Oakland on Fri 30 Oct.
+BEYA is a house and techno artist based in United States of America, with 33 gigs on soundcheck across Los Angeles, New York City, Philadelphia and San Francisco/Oakland. Often billed alongside Mark O'Brien, DJ M3 and likeholywine. Next up: The Great Northern, San Francisco/Oakland on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ BEYA is a house and techno artist based in United States of America, tracked on 
 
 ## Recently played
 
-- The Great Northern, San Francisco/Oakland — Sat, 27 Jun 2026
-- broad hall., Philadelphia — Sat, 14 Mar 2026
-- The San Francisco Mint, San Francisco/Oakland — Sat, 27 Sept 2025
-- The San Francisco Mint, San Francisco/Oakland — Sat, 26 Jul 2025
-- The Great Northern, San Francisco/Oakland — Sat, 28 Jun 2025
-- The Stud, San Francisco/Oakland — Fri, 25 Apr 2025
-- Public Works, San Francisco/Oakland — Sun, 16 Feb 2025
-- Club Six, San Francisco/Oakland — Sat, 25 Jan 2025
+- The Great Northern, San Francisco/Oakland · Sat, 27 Jun 2026
+- broad hall., Philadelphia · Sat, 14 Mar 2026
+- The San Francisco Mint, San Francisco/Oakland · Sat, 27 Sept 2025
+- The San Francisco Mint, San Francisco/Oakland · Sat, 26 Jul 2025
+- The Great Northern, San Francisco/Oakland · Sat, 28 Jun 2025
+- The Stud, San Francisco/Oakland · Fri, 25 Apr 2025
+- Public Works, San Francisco/Oakland · Sun, 16 Feb 2025
+- Club Six, San Francisco/Oakland · Sat, 25 Jan 2025
 
 ## Shares bills with
 

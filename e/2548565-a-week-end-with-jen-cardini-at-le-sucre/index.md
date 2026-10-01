@@ -1,6 +1,6 @@
 # A week-end with Jen Cardini at Le Sucre
 
-A week-end with Jen Cardini at Le Sucre on Sun 1 Nov, Lyon. 1 artist on the bill: Jen Cardini. Techno. Preview the line-up and save it on soundcheck.
+A week-end with Jen Cardini at Le Sucre on Sun 1 Nov, Lyon. 1 artist: Jen Cardini. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jay Carder
 
-Jay Carder is a Bass and Garage artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Fox and Firkin, London on Sat, 3 Oct 2026.
+Jay Carder is a Bass and Garage artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Fox and Firkin, London on Sat, 3 Oct 2026.
 
-Jay Carder is a bass and garage artist based in United Kingdom, tracked on soundcheck, with 111 sets logged across Aberdeen, Athens, Barcelona and Berlin and 21 more. Often billed alongside Neffa-T, Breaka and Bluetoof. Next up: The Fox and Firkin, London on Sat 3 Oct.
+Jay Carder is a bass and garage artist based in United Kingdom, with 111 gigs on soundcheck across Aberdeen, Athens, Barcelona and Berlin and 21 more. Often billed alongside Neffa-T, Breaka and Bluetoof. Next up: The Fox and Firkin, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Jay Carder is a bass and garage artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Romantso, Athens — Fri, 18 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- M.O.T, London — Sat, 22 Aug 2026
-- Cu, London — Wed, 1 Jul 2026
-- The Loco Klub, Bristol — Sat, 13 Jun 2026
-- Pan-Pan, Birmingham — Wed, 6 May 2026
-- Hackney Wick Multiple Venues, London — Sat, 2 May 2026
-- Ikii, Berlin — Thu, 30 Apr 2026
+- Romantso, Athens · Fri, 18 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- M.O.T, London · Sat, 22 Aug 2026
+- Cu, London · Wed, 1 Jul 2026
+- The Loco Klub, Bristol · Sat, 13 Jun 2026
+- Pan-Pan, Birmingham · Wed, 6 May 2026
+- Hackney Wick Multiple Venues, London · Sat, 2 May 2026
+- Ikii, Berlin · Thu, 30 Apr 2026
 
 ## Shares bills with
 

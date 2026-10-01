@@ -1,6 +1,6 @@
 # Käptens Club Party - Disco pur at Hafenbar Berlin
 
-Käptens Club Party - Disco pur at Hafenbar Berlin on Sat 17 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Käptens Club Party - Disco pur at Hafenbar Berlin on Sat 17 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

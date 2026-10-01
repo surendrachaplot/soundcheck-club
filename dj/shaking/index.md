@@ -1,8 +1,8 @@
 # SHAKING
 
-SHAKING is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Elsewhere, New York City on Sat, 3 Oct 2026.
+SHAKING is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Elsewhere, New York City on Sat, 3 Oct 2026.
 
-SHAKING is a house and garage artist based in United States of America, tracked on soundcheck, with 19 sets logged across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside Clearcast, AMZEL and Main Phase. Next up: Elsewhere, New York City on Sat 3 Oct.
+SHAKING is a house and garage artist based in United States of America, with 19 gigs on soundcheck across Los Angeles, New York City, San Diego and San Francisco/Oakland. Often billed alongside Clearcast, AMZEL and Main Phase. Next up: Elsewhere, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SHAKING is a house and garage artist based in United States of America, tracked 
 
 ## Recently played
 
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- Homage Brewing, Los Angeles — Fri, 20 Mar 2026
-- The Soap Factory, San Diego — Sat, 23 Aug 2025
-- TBA, Los Angeles — Sat, 14 Jun 2025
-- TBA - Shasta-Trinity National Forest, San Francisco/Oakland — Thu, 5 Jun 2025
-- TBA - Richmond Warehouse, San Francisco/Oakland — Sat, 26 Apr 2025
-- TBA - 1304 W Pico Blvd., Los Angeles — Tue, 31 Dec 2024
-- Don Quixote, Los Angeles — Fri, 15 Nov 2024
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- Homage Brewing, Los Angeles · Fri, 20 Mar 2026
+- The Soap Factory, San Diego · Sat, 23 Aug 2025
+- TBA, Los Angeles · Sat, 14 Jun 2025
+- TBA - Shasta-Trinity National Forest, San Francisco/Oakland · Thu, 5 Jun 2025
+- TBA - Richmond Warehouse, San Francisco/Oakland · Sat, 26 Apr 2025
+- TBA - 1304 W Pico Blvd., Los Angeles · Tue, 31 Dec 2024
+- Don Quixote, Los Angeles · Fri, 15 Nov 2024
 
 ## Shares bills with
 

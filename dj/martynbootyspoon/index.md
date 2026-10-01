@@ -1,8 +1,8 @@
 # Martyn Bootyspoon
 
-Martyn Bootyspoon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bar Datcha, Montreal on Fri, 2 Oct 2026.
+Martyn Bootyspoon is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bar Datcha, Montreal on Fri, 2 Oct 2026.
 
-Martyn Bootyspoon is a techno and house artist based in Canada, tracked on soundcheck, with 106 sets logged across Austin, Berlin, Chicago and Denver and 19 more. Often billed alongside Goddollars, Jacques Greene and Finn. Next up: Bar Datcha, Montreal on Fri 2 Oct.
+Martyn Bootyspoon is a techno and house artist based in Canada, with 106 gigs on soundcheck across Austin, Berlin, Chicago and Denver and 19 more. Often billed alongside Goddollars, Jacques Greene and Finn. Next up: Bar Datcha, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Martyn Bootyspoon is a techno and house artist based in Canada, tracked on sound
 
 ## Recently played
 
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sun, 27 Sept 2026
-- Breakglass Studios, Montreal — Wed, 19 Aug 2026
-- StereoBar, Montreal — Fri, 14 Aug 2026
-- Système, Montreal — Thu, 23 Jul 2026
-- Town Hall Collaborative, Denver — Sat, 20 Jun 2026
-- The Foundry, San Francisco/Oakland — Fri, 19 Jun 2026
-- Barn Radio, Portland — Sat, 13 Jun 2026
-- Société des arts technologiques, Montreal — Fri, 5 Jun 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sun, 27 Sept 2026
+- Breakglass Studios, Montreal · Wed, 19 Aug 2026
+- StereoBar, Montreal · Fri, 14 Aug 2026
+- Système, Montreal · Thu, 23 Jul 2026
+- Town Hall Collaborative, Denver · Sat, 20 Jun 2026
+- The Foundry, San Francisco/Oakland · Fri, 19 Jun 2026
+- Barn Radio, Portland · Sat, 13 Jun 2026
+- Société des arts technologiques, Montreal · Fri, 5 Jun 2026
 
 ## Shares bills with
 

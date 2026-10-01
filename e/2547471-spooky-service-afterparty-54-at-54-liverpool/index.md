@@ -1,6 +1,6 @@
 # Spooky Service Afterparty @ 54 at 54 Liverpool
 
-Spooky Service Afterparty @ 54 at 54 Liverpool on Sat 31 Oct, Liverpool. 2 artists on the bill: Dom Townsend and hitty. Techno and House. Preview the line-up and save it on soundcheck.
+Spooky Service Afterparty @ 54 at 54 Liverpool on Sat 31 Oct, Liverpool. 2 artists: Dom Townsend and hitty. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

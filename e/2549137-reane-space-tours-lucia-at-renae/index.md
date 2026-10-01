@@ -1,6 +1,6 @@
 # reane: Space Tours & Lucia at renae
 
-reane: Space Tours & Lucia at renae on Sun 4 Oct, Manchester. Preview the line-up and save it on soundcheck.
+reane: Space Tours & Lucia at renae on Sun 4 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

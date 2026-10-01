@@ -1,6 +1,6 @@
 # Unity-presents MONSTERS BALL at TBA
 
-Unity-presents MONSTERS BALL at TBA on Sat 31 Oct, Sacramento. 3 artists on the bill: DJ M3, Felix Da Housecat and Galen. Preview the line-up and save it on soundcheck.
+Unity-presents MONSTERS BALL at TBA on Sat 31 Oct, Sacramento. 3 artists: DJ M3, Felix Da Housecat and Galen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

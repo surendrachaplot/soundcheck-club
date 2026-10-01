@@ -1,8 +1,8 @@
 # At The Waldorf Hotel
 
-At The Waldorf Hotel is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "CEERRVS BIRTHDAY BASH" on Fri, 23 Oct 2026.
+At The Waldorf Hotel is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "CEERRVS BIRTHDAY BASH" on Fri, 23 Oct 2026.
 
-At The Waldorf Hotel is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1489 East Hastings St; Vancouver, BC V5L 1S4; Canada.
+At The Waldorf Hotel is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1489 East Hastings St; Vancouver, BC V5L 1S4; Canada.
 
 ## What's on
 

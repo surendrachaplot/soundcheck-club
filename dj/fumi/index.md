@@ -1,8 +1,8 @@
 # FUMI
 
-FUMI is a Techno and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+FUMI is a Techno and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
-FUMI is a techno and industrial artist based in France, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside EVE, Monk000 and Adrian Mills. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
+FUMI is a techno and industrial artist based in France, with 98 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside EVE, Monk000 and Adrian Mills. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ FUMI is a techno and industrial artist based in France, tracked on soundcheck, w
 
 ## Recently played
 
-- Theata, London — Sat, 26 Sept 2026
-- Rex Club, Paris — Wed, 16 Sept 2026
-- Eden, Ibiza — Tue, 1 Sept 2026
-- Camelot, Tokyo — Sat, 29 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Amnesia Ibiza, Ibiza — Sun, 16 Aug 2026
-- ZEROTOKYO, Tokyo — Mon, 10 Aug 2026
-- Munich Beach Resort, Munich — Sat, 8 Aug 2026
+- Theata, London · Sat, 26 Sept 2026
+- Rex Club, Paris · Wed, 16 Sept 2026
+- Eden, Ibiza · Tue, 1 Sept 2026
+- Camelot, Tokyo · Sat, 29 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Amnesia Ibiza, Ibiza · Sun, 16 Aug 2026
+- ZEROTOKYO, Tokyo · Mon, 10 Aug 2026
+- Munich Beach Resort, Munich · Sat, 8 Aug 2026
 
 ## Shares bills with
 

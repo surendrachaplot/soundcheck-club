@@ -1,6 +1,6 @@
 # Rockwell at E11EVEN at E11EVEN MIAMI
 
-Rockwell at E11EVEN at E11EVEN MIAMI on Thu 1 Oct, Miami. Preview the line-up and save it on soundcheck.
+Rockwell at E11EVEN at E11EVEN MIAMI on Thu 1 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

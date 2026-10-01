@@ -1,6 +1,6 @@
 # Eliangel, Camila Valero, Brandon Laurence at Bar Oriente
 
-Eliangel, Camila Valero, Brandon Laurence at Bar Oriente on Sat 3 Oct, Mexico City. 2 artists on the bill: Camila Valero and Eliangel. House. Preview the line-up and save it on soundcheck.
+Eliangel, Camila Valero, Brandon Laurence at Bar Oriente on Sat 3 Oct, Mexico City. 2 artists: Camila Valero and Eliangel. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # PURGATORY: Sunday Sunrise with Mira at Refuge
 
-PURGATORY: Sunday Sunrise with Mira at Refuge on Sun 1 Nov, New York City. 1 artist on the bill: Mira. Preview the line-up and save it on soundcheck.
+PURGATORY: Sunday Sunrise with Mira at Refuge on Sun 1 Nov, New York City. 1 artist: Mira. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

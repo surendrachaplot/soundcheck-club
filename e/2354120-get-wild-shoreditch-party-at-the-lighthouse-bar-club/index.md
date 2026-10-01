@@ -1,6 +1,6 @@
 # Get Wild - Shoreditch Party at The Lighthouse Bar & Club
 
-Get Wild - Shoreditch Party at The Lighthouse Bar & Club on Fri 16 Oct, London. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
+Get Wild - Shoreditch Party at The Lighthouse Bar & Club on Fri 16 Oct, London. Afrobeat and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

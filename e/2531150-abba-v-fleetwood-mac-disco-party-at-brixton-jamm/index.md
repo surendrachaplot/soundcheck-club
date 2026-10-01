@@ -1,6 +1,6 @@
 # ABBA v Fleetwood Mac Disco Party at Brixton Jamm
 
-ABBA v Fleetwood Mac Disco Party at Brixton Jamm on Fri 23 Oct, London. Disco and Pop. Preview the line-up and save it on soundcheck.
+ABBA v Fleetwood Mac Disco Party at Brixton Jamm on Fri 23 Oct, London. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

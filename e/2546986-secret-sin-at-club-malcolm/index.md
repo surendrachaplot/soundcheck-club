@@ -1,6 +1,6 @@
 # SECRET SIN at Club Malcolm
 
-SECRET SIN at Club Malcolm on Sat 10 Oct, Tokyo. 1 artist on the bill: RICKY. Industrial and New Wave. Preview the line-up and save it on soundcheck.
+SECRET SIN at Club Malcolm on Sat 10 Oct, Tokyo. 1 artist: RICKY. Industrial and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

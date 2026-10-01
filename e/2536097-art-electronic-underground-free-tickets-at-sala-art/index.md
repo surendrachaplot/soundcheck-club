@@ -1,6 +1,6 @@
 # ART ELECTRONIC UNDERGROUND (FREE TICKETS) at Sala ART
 
-ART ELECTRONIC UNDERGROUND (FREE TICKETS) at Sala ART on Sat 3 Oct, Madrid. 4 artists on the bill: Anna Jevills, CHEFFF, Costa and PÜCH. Techno. Preview the line-up and save it on soundcheck.
+ART ELECTRONIC UNDERGROUND (FREE TICKETS) at Sala ART on Sat 3 Oct, Madrid. 4 artists: Anna Jevills, CHEFFF, Costa and PÜCH. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

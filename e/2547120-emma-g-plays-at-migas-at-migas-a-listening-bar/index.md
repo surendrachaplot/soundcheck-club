@@ -1,6 +1,6 @@
 # Emma G plays at migas at migas, a listening bar
 
-Emma G plays at migas at migas, a listening bar on Sat 10 Oct, Berlin. 1 artist on the bill: DJ Emma G. Preview the line-up and save it on soundcheck.
+Emma G plays at migas at migas, a listening bar on Sat 10 Oct, Berlin. 1 artist: DJ Emma G. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

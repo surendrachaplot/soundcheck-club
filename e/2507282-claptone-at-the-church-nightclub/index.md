@@ -1,6 +1,6 @@
 # Claptone at The Church Nightclub
 
-Claptone at The Church Nightclub on Fri 2 Oct, Denver. 1 artist on the bill: Claptone. House. Preview the line-up and save it on soundcheck.
+Claptone at The Church Nightclub on Fri 2 Oct, Denver. 1 artist: Claptone. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

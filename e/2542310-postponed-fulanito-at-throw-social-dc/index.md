@@ -1,6 +1,6 @@
 # [POSTPONED]- FULANITO at Throw Social DC
 
-[POSTPONED]- FULANITO at Throw Social DC on Fri 2 Oct, Washington DC. Club and Latin Bass. Preview the line-up and save it on soundcheck.
+[POSTPONED]- FULANITO at Throw Social DC on Fri 2 Oct, Washington DC. Club and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

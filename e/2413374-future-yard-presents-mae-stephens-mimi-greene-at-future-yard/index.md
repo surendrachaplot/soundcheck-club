@@ -1,6 +1,6 @@
 # Future Yard presents Mae Stephens + Mimi Greene at Future Yard
 
-Future Yard presents Mae Stephens + Mimi Greene on Wed 4 Nov, Liverpool. Pop. Preview the line-up and save it on soundcheck.
+Future Yard presents Mae Stephens + Mimi Greene on Wed 4 Nov, Liverpool. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

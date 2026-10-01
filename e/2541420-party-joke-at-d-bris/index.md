@@ -1,6 +1,6 @@
 # Party Joke -パーティ・ジョーク- at Débris
 
-Party Joke -パーティ・ジョーク- at Débris on Sat 10 Oct, Tokyo. 2 artists on the bill: michika and MICO. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Party Joke -パーティ・ジョーク- at Débris on Sat 10 Oct, Tokyo. 2 artists: michika and MICO. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # club asia THURSDAY at clubasia
 
-club asia THURSDAY at clubasia on Thu 15 Oct, Tokyo. Dub. Preview the line-up and save it on soundcheck.
+club asia THURSDAY at clubasia on Thu 15 Oct, Tokyo. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

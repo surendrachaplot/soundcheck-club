@@ -1,8 +1,8 @@
 # Settle Down
 
-Settle Down is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Meraki, Liverpool on Sat, 31 Oct 2026.
+Settle Down is a Drum & Bass and Jungle artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Meraki, Liverpool on Sat, 31 Oct 2026.
 
-Settle Down is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Bristol, Copenhagen, Leeds and Liverpool and 3 more. Often billed alongside Napes, Cesco and Denham Audio. Next up: Meraki, Liverpool on Sat 31 Oct.
+Settle Down is a drum & bass and jungle artist based in United Kingdom, with 27 gigs on soundcheck across Bristol, Copenhagen, Leeds and Liverpool and 3 more. Often billed alongside Napes, Cesco and Denham Audio. Next up: Meraki, Liverpool on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Settle Down is a drum & bass and jungle artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- The Prospect Building, Bristol — Sat, 8 Aug 2026
-- Distillery N17, London — Sat, 9 May 2026
-- Rebellion, Manchester — Fri, 24 Apr 2026
-- FOLD, London — Fri, 13 Feb 2026
-- Corsica Studios, London — Sat, 29 Nov 2025
-- Hidden, Manchester — Sat, 1 Nov 2025
-- Jumbi, London — Sat, 14 Jun 2025
-- Hangaren, Copenhagen — Sat, 5 Apr 2025
+- The Prospect Building, Bristol · Sat, 8 Aug 2026
+- Distillery N17, London · Sat, 9 May 2026
+- Rebellion, Manchester · Fri, 24 Apr 2026
+- FOLD, London · Fri, 13 Feb 2026
+- Corsica Studios, London · Sat, 29 Nov 2025
+- Hidden, Manchester · Sat, 1 Nov 2025
+- Jumbi, London · Sat, 14 Jun 2025
+- Hangaren, Copenhagen · Sat, 5 Apr 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # LEYA + AIR HUNGER at Chmury
 
-LEYA + AIR HUNGER at Chmury on Sun 4 Oct, Warsaw. 1 artist on the bill: LEYA. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+LEYA + AIR HUNGER at Chmury on Sun 4 Oct, Warsaw. 1 artist: LEYA. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # N1NJA
 
-N1NJA is a Deep House and Afro Tech artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Bunker @ The Rolling Stock, London on Fri, 2 Oct 2026.
+N1NJA is a Deep House and Afro Tech artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bunker @ The Rolling Stock, London on Fri, 2 Oct 2026.
 
-N1NJA is a deep house and afro tech artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Ibiza and London. Often billed alongside B.o.T, Kakura and Nhii. Next up: The Bunker @ The Rolling Stock, London on Fri 2 Oct.
+N1NJA is a deep house and afro tech artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Berlin, Ibiza and London. Often billed alongside B.o.T, Kakura and Nhii. Next up: The Bunker @ The Rolling Stock, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ N1NJA is a deep house and afro tech artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 12 Jul 2026
-- fabric, London — Fri, 13 Mar 2026
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sat, 4 Oct 2025
-- Ritter Butzke, Berlin — Fri, 19 Sept 2025
-- Akasha Las Dalias Club - Ibiza, Ibiza — Sun, 1 Jun 2025
-- Pikes Ibiza, Ibiza — Thu, 29 May 2025
-- Electric Brixton, London — Fri, 14 Mar 2025
-- The Cross, London — Fri, 28 Feb 2025
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sun, 12 Jul 2026
+- fabric, London · Fri, 13 Mar 2026
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sat, 4 Oct 2025
+- Ritter Butzke, Berlin · Fri, 19 Sept 2025
+- Akasha Las Dalias Club - Ibiza, Ibiza · Sun, 1 Jun 2025
+- Pikes Ibiza, Ibiza · Thu, 29 May 2025
+- Electric Brixton, London · Fri, 14 Mar 2025
+- The Cross, London · Fri, 28 Feb 2025
 
 ## Shares bills with
 

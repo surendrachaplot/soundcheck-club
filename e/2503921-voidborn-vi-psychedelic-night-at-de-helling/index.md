@@ -1,6 +1,6 @@
 # VoidBorn VI - Psychedelic Night at De Helling
 
-VoidBorn VI - Psychedelic Night at De Helling on Fri 13 Nov, Utrecht. Psytrance. Preview the line-up and save it on soundcheck.
+VoidBorn VI - Psychedelic Night at De Helling on Fri 13 Nov, Utrecht. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Roger Martinez
 
-Roger Martinez is a Progressive House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
+Roger Martinez is a Progressive House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat, 24 Oct 2026.
 
-Roger Martinez is a progressive house and deep house artist based in Netherlands, tracked on soundcheck, with 6 sets logged across Amsterdam, Budapest, Mexico City and Tokyo. Often billed alongside Tash, W&DY and Alex O'Rion. Next up: Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat 24 Oct.
+Roger Martinez is a progressive house and deep house artist based in Netherlands, with 6 gigs on soundcheck across Amsterdam, Budapest, Mexico City and Tokyo. Often billed alongside Tash, W&DY and Alex O'Rion. Next up: Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Roger Martinez is a progressive house and deep house artist based in Netherlands
 
 ## Recently played
 
-- Veronica Schip, Amsterdam — Sun, 24 May 2026
-- Veronica Schip, Amsterdam — Sun, 24 May 2026
-- Kassa Boat, Budapest — Fri, 13 Jun 2025
-- S de Supremo, Mexico City — Sat, 4 May 2024
-- or, Tokyo — Sat, 16 Mar 2024
+- Veronica Schip, Amsterdam · Sun, 24 May 2026
+- Veronica Schip, Amsterdam · Sun, 24 May 2026
+- Kassa Boat, Budapest · Fri, 13 Jun 2025
+- S de Supremo, Mexico City · Sat, 4 May 2024
+- or, Tokyo · Sat, 16 Mar 2024
 
 ## Shares bills with
 

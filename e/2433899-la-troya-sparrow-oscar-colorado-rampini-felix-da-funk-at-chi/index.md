@@ -1,6 +1,6 @@
 # La Troya: Sparrow, Oscar Colorado, RAMPINI, Felix Da Funk at Chinois Ibiza
 
-La Troya: Sparrow, Oscar Colorado, RAMPINI, Felix Da Funk at Chinois Ibiza on Mon 5 Oct, Ibiza. 3 artists on the bill: Felix Da Funk, Oscar Colorado and Sparrow (CH). House and Deep House. Preview the line-up and save it on soundcheck.
+La Troya: Sparrow, Oscar Colorado, RAMPINI, Felix Da Funk at Chinois Ibiza on Mon 5 Oct, Ibiza. 3 artists: Felix Da Funk, Oscar Colorado and Sparrow (CH). House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

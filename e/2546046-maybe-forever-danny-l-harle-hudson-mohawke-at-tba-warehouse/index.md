@@ -1,6 +1,6 @@
 # Maybe Forever: Danny L Harle + Hudson Mohawke at TBA - Warehouse
 
-Maybe Forever: Danny L Harle + Hudson Mohawke at TBA - Warehouse on Fri 30 Oct, Denver. 2 artists on the bill: Danny L Harle and Hudson Mohawke. Preview the line-up and save it on soundcheck.
+Maybe Forever: Danny L Harle + Hudson Mohawke at TBA - Warehouse on Fri 30 Oct, Denver. 2 artists: Danny L Harle and Hudson Mohawke. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

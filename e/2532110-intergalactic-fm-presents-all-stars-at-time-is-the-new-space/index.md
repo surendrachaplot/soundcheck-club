@@ -1,6 +1,6 @@
 # Intergalactic FM presents All Stars at Time is the new space
 
-Intergalactic FM presents All Stars at Time is the new space on Fri 6 Nov, Rotterdam. Preview the line-up and save it on soundcheck.
+Intergalactic FM presents All Stars at Time is the new space on Fri 6 Nov, Rotterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Circles: Subject x Syncopated Records at Pawn Shop
 
-Circles: Subject x Syncopated Records at Pawn Shop on Fri 23 Oct, Dublin. 6 artists on the bill: Applied Rithim, Billy Spike Iland, Bronwyn and Niz (IE) and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Circles: Subject x Syncopated Records at Pawn Shop on Fri 23 Oct, Dublin. 6 artists: Applied Rithim, Billy Spike Iland, Bronwyn and Niz (IE) and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

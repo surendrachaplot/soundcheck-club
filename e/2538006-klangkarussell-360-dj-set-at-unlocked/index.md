@@ -1,6 +1,6 @@
 # Klangkarussell (360 DJ Set) at UNLOCKED
 
-Klangkarussell (360 DJ Set) at UNLOCKED on Sat 24 Oct, London. 1 artist on the bill: Klangkarussell. Deep House and Club. Preview the line-up and save it on soundcheck.
+Klangkarussell (360 DJ Set) at UNLOCKED on Sat 24 Oct, London. 1 artist: Klangkarussell. Deep House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

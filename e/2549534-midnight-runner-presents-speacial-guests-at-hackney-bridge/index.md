@@ -1,6 +1,6 @@
 # Midnight Runner presents: Speacial Guests at Hackney Bridge
 
-Midnight Runner presents: Speacial Guests at Hackney Bridge on Fri 4 Dec, London. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Midnight Runner presents: Speacial Guests at Hackney Bridge on Fri 4 Dec, London. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # 821 Runnymede Rd
 
-821 Runnymede Rd is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "404: Anderex" on Sat, 3 Oct 2026.
+821 Runnymede Rd is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "404: Anderex" on Sat, 3 Oct 2026.
 
-821 Runnymede Rd is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including 1tbsp, Ana Luisa, Choirboi and Eskha and 2 more. Browse upcoming dates, start times and who's playing. 821 Runnymede Rd.
+821 Runnymede Rd is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including 1tbsp, Ana Luisa, Choirboi and Eskha and 2 more. See dates, start times and who's playing. 821 Runnymede Rd.
 
 ## What's on
 

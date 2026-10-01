@@ -1,6 +1,6 @@
 # BOSSKI ROMAN & P.A.F.F. // KRAK9 - uliczny rave at K-Bar Powiśle
 
-BOSSKI ROMAN & P.A.F.F. // KRAK9 - uliczny rave at K-Bar Powiśle on Sat 3 Oct, Warsaw. 3 artists on the bill: DD, dj.zamocno and faron. Bass and Jungle. Preview the line-up and save it on soundcheck.
+BOSSKI ROMAN & P.A.F.F. // KRAK9 - uliczny rave at K-Bar Powiśle on Sat 3 Oct, Warsaw. 3 artists: DD, dj.zamocno and faron. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

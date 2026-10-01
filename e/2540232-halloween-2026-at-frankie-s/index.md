@@ -1,6 +1,6 @@
 # HALLOWEEN 2026 at Frankie's
 
-HALLOWEEN 2026 at Frankie's on Sat 31 Oct, Vancouver. Techno and House. Preview the line-up and save it on soundcheck.
+HALLOWEEN 2026 at Frankie's on Sat 31 Oct, Vancouver. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

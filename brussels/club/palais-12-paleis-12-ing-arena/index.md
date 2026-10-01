@@ -1,8 +1,8 @@
 # Palais 12 / Paleis 12 (ING Arena)
 
-Palais 12 / Paleis 12 (ING Arena) is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "KOMPASS presents RAVE REBELS XXL" on Sat, 7 Nov 2026.
+Palais 12 / Paleis 12 (ING Arena) is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "KOMPASS presents RAVE REBELS XXL" on Sat, 7 Nov 2026.
 
-Palais 12 / Paleis 12 (ING Arena) is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including A.N.I., BYØRN, Holy Priest and NEGITIV and 2 more. Browse upcoming dates, start times and who's playing. Rue de l'Esplanade 1000 Bruxelles, Belgium.
+Palais 12 / Paleis 12 (ING Arena) is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including A.N.I., BYØRN, Holy Priest and NEGITIV and 2 more. See dates, start times and who's playing. Rue de l'Esplanade 1000 Bruxelles, Belgium.
 
 ## What's on
 

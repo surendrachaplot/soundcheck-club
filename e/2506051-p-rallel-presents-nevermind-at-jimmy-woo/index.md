@@ -1,6 +1,6 @@
 # P-rallel presents NEVERMIND at Jimmy Woo
 
-P-rallel presents NEVERMIND at Jimmy Woo on Thu 22 Oct, Amsterdam. Garage and Afro House. Preview the line-up and save it on soundcheck.
+P-rallel presents NEVERMIND at Jimmy Woo on Thu 22 Oct, Amsterdam. Garage and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

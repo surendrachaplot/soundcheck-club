@@ -1,6 +1,6 @@
 # NIGHTSHIFT - Mannara + Phill at Plano B
 
-NIGHTSHIFT - Mannara + Phill at Plano B on Thu 15 Oct, Porto. Techno and House. Preview the line-up and save it on soundcheck.
+NIGHTSHIFT - Mannara + Phill at Plano B on Thu 15 Oct, Porto. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Electric Dreams at Charlies Loft
 
-Electric Dreams at Charlies Loft on Sat 7 Nov, Glasgow. House. Preview the line-up and save it on soundcheck.
+Electric Dreams at Charlies Loft on Sat 7 Nov, Glasgow. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

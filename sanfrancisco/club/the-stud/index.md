@@ -1,8 +1,8 @@
 # The Stud
 
-The Stud is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Yala Papa: Middle Eastern X Latin Masquerade" on Fri, 9 Oct 2026.
+The Stud is a music venue in San Francisco/Oakland with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Yala Papa: Middle Eastern X Latin Masquerade" on Fri, 9 Oct 2026.
 
-The Stud is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including Charles Hawthorne. Browse upcoming dates, start times and who's playing. 1123 Folsom St, San Francisco, CA 94103.
+The Stud is a music venue in San Francisco/Oakland listed on soundcheck. 4 upcoming gigs, with line-ups including Charles Hawthorne. See dates, start times and who's playing. 1123 Folsom St, San Francisco, CA 94103.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Say What? presents: Special Request (all night long) at The Golden Lion
 
-Say What? presents: Special Request (all night long) at The Golden Lion on Fri 16 Oct, Manchester. 1 artist on the bill: Special Request. Techno and House. Preview the line-up and save it on soundcheck.
+Say What? presents: Special Request (all night long) at The Golden Lion on Fri 16 Oct, Manchester. 1 artist: Special Request. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

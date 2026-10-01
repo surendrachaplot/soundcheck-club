@@ -1,6 +1,6 @@
 # Go.Play with Hyperbole & B/ANNIMALĪ at Minimal Bar
 
-Go.Play with Hyperbole & B/ANNIMALĪ at Minimal Bar on Tue 29 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Go.Play with Hyperbole & B/ANNIMALĪ at Minimal Bar on Tue 29 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

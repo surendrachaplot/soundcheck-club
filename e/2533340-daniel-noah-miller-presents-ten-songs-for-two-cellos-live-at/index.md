@@ -1,6 +1,6 @@
 # Daniel Noah Miller presents: Ten Songs for Two Cellos (LIVE) at Silence Please
 
-Daniel Noah Miller presents: Ten Songs for Two Cellos (LIVE) at Silence Please on Fri 6 Nov, New York City. Preview the line-up and save it on soundcheck.
+Daniel Noah Miller presents: Ten Songs for Two Cellos (LIVE) at Silence Please on Fri 6 Nov, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

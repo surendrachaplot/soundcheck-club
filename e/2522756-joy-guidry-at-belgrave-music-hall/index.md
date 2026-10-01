@@ -1,6 +1,6 @@
 # Joy Guidry at Belgrave Music Hall
 
-Joy Guidry at Belgrave Music Hall on Sun 8 Nov, Leeds. Experimental. Preview the line-up and save it on soundcheck.
+Joy Guidry at Belgrave Music Hall on Sun 8 Nov, Leeds. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ Habibeats
 
-DJ Habibeats is a House and Hip-Hop artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Webster Hall, New York City on Sat, 17 Oct 2026.
+DJ Habibeats is a House and Hip-Hop artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Webster Hall, New York City on Sat, 17 Oct 2026.
 
-DJ Habibeats is a house and hip-hop artist based in United States of America, tracked on soundcheck, with 52 sets logged across Auckland, Austin, Bali and Berlin and 21 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Webster Hall, New York City on Sat 17 Oct.
+DJ Habibeats is a house and hip-hop artist based in United States of America, with 52 gigs on soundcheck across Auckland, Austin, Bali and Berlin and 21 more. Often billed alongside AUGUSTE, Bianca Maieli and Ushka. Next up: Webster Hall, New York City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ DJ Habibeats is a house and hip-hop artist based in United States of America, tr
 
 ## Recently played
 
-- Reelworks Denver, Denver — Fri, 25 Sept 2026
-- Burgess Park, London — Sun, 2 Aug 2026
-- Mayfair Austin, Austin — Fri, 19 Jun 2026
-- Soubois, Montreal — Thu, 21 May 2026
-- Lincoln Factory, Detroit — Fri, 8 May 2026
-- Shrine Auditorium and Expo Hall, Los Angeles — Fri, 1 May 2026
-- HERE, London — Sat, 11 Apr 2026
-- Grelle Forelle, Vienna — Thu, 9 Apr 2026
+- Reelworks Denver, Denver · Fri, 25 Sept 2026
+- Burgess Park, London · Sun, 2 Aug 2026
+- Mayfair Austin, Austin · Fri, 19 Jun 2026
+- Soubois, Montreal · Thu, 21 May 2026
+- Lincoln Factory, Detroit · Fri, 8 May 2026
+- Shrine Auditorium and Expo Hall, Los Angeles · Fri, 1 May 2026
+- HERE, London · Sat, 11 Apr 2026
+- Grelle Forelle, Vienna · Thu, 9 Apr 2026
 
 ## Shares bills with
 

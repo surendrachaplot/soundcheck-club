@@ -1,8 +1,8 @@
 # Body Double
 
-Body Double is a Disco and Balearic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at All My Friends, London on Fri, 2 Oct 2026.
+Body Double is a Disco and Balearic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at All My Friends, London on Fri, 2 Oct 2026.
 
-Body Double is a disco and balearic artist based in Canada, tracked on soundcheck, with 20 sets logged across Athens, London and Vancouver. Often billed alongside Bobby Myseh, EDD1E B00P and Em + Elvie. Next up: All My Friends, London on Fri 2 Oct.
+Body Double is a disco and balearic artist based in Canada, with 20 gigs on soundcheck across Athens, London and Vancouver. Often billed alongside Bobby Myseh, EDD1E B00P and Em + Elvie. Next up: All My Friends, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Body Double is a disco and balearic artist based in Canada, tracked on soundchec
 
 ## Recently played
 
-- Meo, Vancouver — Sat, 26 Sept 2026
-- TBA, Vancouver — Fri, 28 Aug 2026
-- TBA - Pemberton, Vancouver — Fri, 14 Aug 2026
-- B side Athens, Athens — Sun, 26 Apr 2026
-- TBA, Vancouver — Sat, 11 Apr 2026
-- The Beaumont Studios, Vancouver — Sat, 21 Mar 2026
-- Meo, Vancouver — Sat, 14 Feb 2026
-- TBA, Vancouver — Fri, 28 Nov 2025
+- Meo, Vancouver · Sat, 26 Sept 2026
+- TBA, Vancouver · Fri, 28 Aug 2026
+- TBA - Pemberton, Vancouver · Fri, 14 Aug 2026
+- B side Athens, Athens · Sun, 26 Apr 2026
+- TBA, Vancouver · Sat, 11 Apr 2026
+- The Beaumont Studios, Vancouver · Sat, 21 Mar 2026
+- Meo, Vancouver · Sat, 14 Feb 2026
+- TBA, Vancouver · Fri, 28 Nov 2025
 
 ## Shares bills with
 

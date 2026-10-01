@@ -1,6 +1,6 @@
 # Starving Billionaires at The Grey Space In The Middle
 
-Starving Billionaires at The Grey Space In The Middle on Sat 24 Oct, The Hague. 2 artists on the bill: Sterea and Yayoyanoh. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
+Starving Billionaires at The Grey Space In The Middle on Sat 24 Oct, The Hague. 2 artists: Sterea and Yayoyanoh. Techno and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

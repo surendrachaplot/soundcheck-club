@@ -1,6 +1,6 @@
 # SHUSH with Steven Julien (live) & Lakuti at Alte Feuerwache THF
 
-SHUSH with Steven Julien (live) & Lakuti at Alte Feuerwache THF on Fri 9 Oct, Berlin. 5 artists on the bill: D'Monk, Ken Okuda, Lakuti and Orlando Rosé and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+SHUSH with Steven Julien (live) & Lakuti at Alte Feuerwache THF on Fri 9 Oct, Berlin. 5 artists: D'Monk, Ken Okuda, Lakuti and Orlando Rosé and 1 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

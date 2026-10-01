@@ -1,8 +1,8 @@
 # KARAH
 
-KARAH is a Techno and Industrial artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at WDM, Hannover on Sat, 3 Oct 2026.
+KARAH is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at WDM, Hannover on Sat, 3 Oct 2026.
 
-KARAH is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 152 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 36 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: WDM, Hannover on Sat 3 Oct.
+KARAH is a techno and industrial artist based in Netherlands, with 152 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 36 more. Often billed alongside KLOFAMA, 6EJOU and Raxeller. Next up: WDM, Hannover on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ KARAH is a techno and industrial artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
-- Bootshaus, Cologne — Sat, 26 Sept 2026
-- Bootshaus, Cologne — Sat, 26 Sept 2026
-- Eden, Ibiza — Tue, 15 Sept 2026
-- Eden, Ibiza — Tue, 15 Sept 2026
-- E1, London — Fri, 4 Sept 2026
-- E1, London — Fri, 4 Sept 2026
-- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
-- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
+- Bootshaus, Cologne · Sat, 26 Sept 2026
+- Bootshaus, Cologne · Sat, 26 Sept 2026
+- Eden, Ibiza · Tue, 15 Sept 2026
+- Eden, Ibiza · Tue, 15 Sept 2026
+- E1, London · Fri, 4 Sept 2026
+- E1, London · Fri, 4 Sept 2026
+- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
+- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
 
 ## Shares bills with
 

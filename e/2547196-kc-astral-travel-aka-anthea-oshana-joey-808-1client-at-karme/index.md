@@ -1,6 +1,6 @@
 # KC [Astral Travel (aka Anthea & Oshana) • Joey 808 & 1client] at Karmen Camina
 
-KC [Astral Travel (aka Anthea & Oshana) • Joey 808 & 1client] at Karmen Camina on Sat 10 Oct, Strasbourg. 5 artists on the bill: 1client, Anthea, Astral Travel and Joey 808 and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+KC [Astral Travel (aka Anthea & Oshana) • Joey 808 & 1client] at Karmen Camina on Sat 10 Oct, Strasbourg. 5 artists: 1client, Anthea, Astral Travel and Joey 808 and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

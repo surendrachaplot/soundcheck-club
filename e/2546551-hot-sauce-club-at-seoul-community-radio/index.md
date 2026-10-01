@@ -1,6 +1,6 @@
 # Hot Sauce Club at Seoul Community Radio
 
-Hot Sauce Club at Seoul Community Radio on Thu 8 Oct, Seoul. 2 artists on the bill: COSMUSE and Fiore. House. Preview the line-up and save it on soundcheck.
+Hot Sauce Club at Seoul Community Radio on Thu 8 Oct, Seoul. 2 artists: COSMUSE and Fiore. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

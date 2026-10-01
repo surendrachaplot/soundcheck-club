@@ -1,6 +1,6 @@
 # TURBINA x DAAD GATHERING w/ Dasha Rush at Turbina
 
-TURBINA x DAAD GATHERING w/ Dasha Rush at Turbina on Fri 2 Oct, Budapest. 7 artists on the bill: AGA2L, Budai, Cvrdwell and Dasha Rush and 3 more. Trance and Experimental. Preview the line-up and save it on soundcheck.
+TURBINA x DAAD GATHERING w/ Dasha Rush at Turbina on Fri 2 Oct, Budapest. 7 artists: AGA2L, Budai, Cvrdwell and Dasha Rush and 3 more. Trance and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

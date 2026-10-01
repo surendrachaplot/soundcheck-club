@@ -1,6 +1,6 @@
 # 0-800 at K7
 
-0-800 at K7 on Sat 17 Oct, Prague. 3 artists on the bill: Nicco Lupen, rockorosso and Tatomed. House and Tech House. Preview the line-up and save it on soundcheck.
+0-800 at K7 on Sat 17 Oct, Prague. 3 artists: Nicco Lupen, rockorosso and Tatomed. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

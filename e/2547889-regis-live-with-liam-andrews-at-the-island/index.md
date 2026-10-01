@@ -1,6 +1,6 @@
 # Regis live with Liam Andrews at The Island
 
-Regis live with Liam Andrews at The Island on Sat 5 Dec, Bristol. 2 artists on the bill: Jay Galligan and Regis. Techno and Industrial. Preview the line-up and save it on soundcheck.
+Regis live with Liam Andrews at The Island on Sat 5 Dec, Bristol. 2 artists: Jay Galligan and Regis. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

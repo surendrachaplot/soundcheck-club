@@ -1,8 +1,8 @@
 # Toraigh
 
-Toraigh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at EartH Kitchen, London on Fri, 9 Oct 2026.
+Toraigh is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at EartH Kitchen, London on Fri, 9 Oct 2026.
 
-Toraigh is a techno and trance artist based in Ireland, tracked on soundcheck, with 21 sets logged across Belfast, Brighton and London. Often billed alongside HOLY C, DJ-CK and Ross Harper. Next up: EartH Kitchen, London on Fri 9 Oct.
+Toraigh is a techno and trance artist based in Ireland, with 21 gigs on soundcheck across Belfast, Brighton and London. Often billed alongside HOLY C, DJ-CK and Ross Harper. Next up: EartH Kitchen, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Toraigh is a techno and trance artist based in Ireland, tracked on soundcheck, w
 
 ## Recently played
 
-- Ballroom at Palais, London — Fri, 25 Sept 2026
-- Tide Nightclub, Brighton — Sat, 1 Aug 2026
-- Hare & Hounds, Brighton — Sat, 1 Aug 2026
-- EartH, London — Fri, 24 Jul 2026
-- Ballroom at Palais, London — Thu, 25 Jun 2026
-- Titanic Slipways, Belfast — Fri, 29 May 2026
-- EartH, London — Fri, 8 May 2026
-- EartH, London — Fri, 27 Feb 2026
+- Ballroom at Palais, London · Fri, 25 Sept 2026
+- Tide Nightclub, Brighton · Sat, 1 Aug 2026
+- Hare & Hounds, Brighton · Sat, 1 Aug 2026
+- EartH, London · Fri, 24 Jul 2026
+- Ballroom at Palais, London · Thu, 25 Jun 2026
+- Titanic Slipways, Belfast · Fri, 29 May 2026
+- EartH, London · Fri, 8 May 2026
+- EartH, London · Fri, 27 Feb 2026
 
 ## Shares bills with
 

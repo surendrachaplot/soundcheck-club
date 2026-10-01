@@ -1,6 +1,6 @@
 # Cat in the bag - Jungle sessions at OT301
 
-Cat in the bag - Jungle sessions at OT301 on Fri 2 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Cat in the bag - Jungle sessions at OT301 on Fri 2 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

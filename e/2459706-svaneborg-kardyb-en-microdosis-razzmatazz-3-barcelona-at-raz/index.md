@@ -1,6 +1,6 @@
 # Svaneborg Kardyb en microdosis - Razzmatazz 3, Barcelona at Razzmatazz 3
 
-Svaneborg Kardyb en microdosis - Razzmatazz 3, Barcelona on Tue 17 Nov, Barcelona. Electronica. Preview the line-up and save it on soundcheck.
+Svaneborg Kardyb en microdosis - Razzmatazz 3, Barcelona on Tue 17 Nov, Barcelona. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

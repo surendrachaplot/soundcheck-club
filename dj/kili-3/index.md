@@ -1,8 +1,8 @@
 # Kili (3)
 
-Kili (3) is a Hardcore and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Complex Maastricht, Netherlands on Fri, 2 Oct 2026.
+Kili (3) is a Hardcore and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 2 Oct 2026.
 
-Kili is a hardcore and techno artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Cologne, Frankfurt, Glasgow and Madrid and 6 more. Often billed alongside Angerfist, Lekkerfaces and Noxiouz. Next up: Complex Maastricht, Netherlands on Fri 2 Oct.
+Kili is a hardcore and techno artist based in Netherlands, with 13 gigs on soundcheck across Cologne, Frankfurt, Glasgow and Madrid and 6 more. Often billed alongside Angerfist, Lekkerfaces and Noxiouz. Next up: Complex Maastricht, Netherlands on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Kili is a hardcore and techno artist based in Netherlands, tracked on soundcheck
 
 ## Recently played
 
-- Roof 175, Frankfurt — Fri, 25 Sept 2026
-- Bootshaus, Cologne — Sat, 15 Aug 2026
-- Warehouse, Nantes — Fri, 8 May 2026
-- Bootshaus, Cologne — Fri, 13 Mar 2026
-- Bootshaus, Cologne — Fri, 19 Dec 2025
-- Posthalle Würzburg, Nürnberg — Sat, 18 Oct 2025
-- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt — Sat, 30 Aug 2025
-- Sala Groove, Madrid — Fri, 29 Aug 2025
+- Roof 175, Frankfurt · Fri, 25 Sept 2026
+- Bootshaus, Cologne · Sat, 15 Aug 2026
+- Warehouse, Nantes · Fri, 8 May 2026
+- Bootshaus, Cologne · Fri, 13 Mar 2026
+- Bootshaus, Cologne · Fri, 19 Dec 2025
+- Posthalle Würzburg, Nürnberg · Sat, 18 Oct 2025
+- P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt · Sat, 30 Aug 2025
+- Sala Groove, Madrid · Fri, 29 Aug 2025
 
 ## Shares bills with
 

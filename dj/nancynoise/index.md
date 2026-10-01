@@ -1,8 +1,8 @@
 # Nancy Noise
 
-Nancy Noise is a House and Balearic artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Timber Loft, London on Sat, 3 Oct 2026.
+Nancy Noise is a House and Balearic artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Timber Loft, London on Sat, 3 Oct 2026.
 
-Nancy Noise is a house and balearic artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Brighton, Edinburgh, Ibiza and London and 2 more. Often billed alongside Terry Farley, Lisa Loud and Stuart Patterson. Next up: The Timber Loft, London on Sat 3 Oct.
+Nancy Noise is a house and balearic artist based in United Kingdom, with 29 gigs on soundcheck across Brighton, Edinburgh, Ibiza and London and 2 more. Often billed alongside Terry Farley, Lisa Loud and Stuart Patterson. Next up: The Timber Loft, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Nancy Noise is a house and balearic artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- The North London Tavern, London — Sun, 30 Aug 2026
-- TBA - address sent to all ticket holders , London — Thu, 23 Jul 2026
-- 93 Feet East, London — Sat, 11 Jul 2026
-- TBA, Paris — Sun, 21 Jun 2026
-- TBA - 68 rue Vieille du Temple, Paris, Paris — Sun, 21 Jun 2026
-- Blackhorse Lane Multiple Venues, London — Sat, 13 Jun 2026
-- NUMBER 90 LONDON, London — Sat, 7 Mar 2026
-- Vittoria Wharf Studio, London — Sat, 19 Jul 2025
+- The North London Tavern, London · Sun, 30 Aug 2026
+- TBA - address sent to all ticket holders , London · Thu, 23 Jul 2026
+- 93 Feet East, London · Sat, 11 Jul 2026
+- TBA, Paris · Sun, 21 Jun 2026
+- TBA - 68 rue Vieille du Temple, Paris, Paris · Sun, 21 Jun 2026
+- Blackhorse Lane Multiple Venues, London · Sat, 13 Jun 2026
+- NUMBER 90 LONDON, London · Sat, 7 Mar 2026
+- Vittoria Wharf Studio, London · Sat, 19 Jul 2025
 
 ## Shares bills with
 

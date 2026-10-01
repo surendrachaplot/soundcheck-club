@@ -1,6 +1,6 @@
 # Lights All Night Festival 2026 at Fair Park
 
-Lights All Night Festival 2026 at Fair Park on Wed 30 Dec, Dallas Fort Worth. 16 artists on the bill: Azyr, Chris Lake, Conrad Taylor and DJ MANDY and 12 more. Preview the line-up and save it on soundcheck.
+Lights All Night Festival 2026 at Fair Park on Wed 30 Dec, Dallas Fort Worth. 16 artists: Azyr, Chris Lake, Conrad Taylor and DJ MANDY and 12 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

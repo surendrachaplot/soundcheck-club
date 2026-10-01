@@ -1,8 +1,8 @@
 # Javier Anxiety
 
-Javier Anxiety is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+Javier Anxiety is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
-Javier Anxiety is a house and disco artist based in Argentina, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Bauen, Gabs Leyton and Luca Olivotto. Next up: KitKatClub, Berlin on Fri 2 Oct.
+Javier Anxiety is a house and disco artist based in Argentina, with 74 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 2 more. Often billed alongside Bauen, Gabs Leyton and Luca Olivotto. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Javier Anxiety is a house and disco artist based in Argentina, tracked on soundc
 
 ## Recently played
 
-- Kater, Berlin — Fri, 4 Sept 2026
-- Esbirra Ibiza, Ibiza — Fri, 28 Aug 2026
-- Bulbul Berlin, Berlin — Sat, 22 Aug 2026
-- Fitzroy, Berlin — Sat, 25 Jul 2026
-- Else, Berlin — Sat, 11 Jul 2026
-- Beate Uwe, Berlin — Sat, 30 May 2026
-- Paradiso Ibiza Art Hotel, Ibiza — Sat, 25 Apr 2026
-- Sigma, Ibiza — Sat, 25 Apr 2026
+- Kater, Berlin · Fri, 4 Sept 2026
+- Esbirra Ibiza, Ibiza · Fri, 28 Aug 2026
+- Bulbul Berlin, Berlin · Sat, 22 Aug 2026
+- Fitzroy, Berlin · Sat, 25 Jul 2026
+- Else, Berlin · Sat, 11 Jul 2026
+- Beate Uwe, Berlin · Sat, 30 May 2026
+- Paradiso Ibiza Art Hotel, Ibiza · Sat, 25 Apr 2026
+- Sigma, Ibiza · Sat, 25 Apr 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Nōmad Man Festival 2026 at TBA
 
-Nōmad Man Festival 2026 at TBA on Fri 27 Nov, Tunisia. 6 artists on the bill: Emine, harrison guyett, Kian OK and Omar Fayyad and 2 more. Preview the line-up and save it on soundcheck.
+Nōmad Man Festival 2026 at TBA on Fri 27 Nov, Tunisia. 6 artists: Emine, harrison guyett, Kian OK and Omar Fayyad and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

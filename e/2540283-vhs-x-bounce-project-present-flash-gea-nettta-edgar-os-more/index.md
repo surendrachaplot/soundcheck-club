@@ -1,6 +1,6 @@
 # VHS X Bounce Project present Flash Gea, Nettta, Edgar Os & More at SILO
 
-VHS X Bounce Project present Flash Gea, Nettta, Edgar Os & More at SILO on Fri 8 Jan, New York City. 6 artists on the bill: Bella Hex, ceviché, Edgar Os and Flash Gea and 2 more. Preview the line-up and save it on soundcheck.
+VHS X Bounce Project present Flash Gea, Nettta, Edgar Os & More at SILO on Fri 8 Jan, New York City. 6 artists: Bella Hex, ceviché, Edgar Os and Flash Gea and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

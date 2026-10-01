@@ -1,6 +1,6 @@
 # All Night Long - Halloween Special - 4 Rooms of Music at Lightbox
 
-All Night Long - Halloween Special - 4 Rooms of Music at Lightbox on Fri 30 Oct, London. Pop and R&B. Preview the line-up and save it on soundcheck.
+All Night Long - Halloween Special - 4 Rooms of Music at Lightbox on Fri 30 Oct, London. Pop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

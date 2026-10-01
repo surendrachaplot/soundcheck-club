@@ -1,6 +1,6 @@
 # CHRIS STASSY - LONDON WEEKENDER - fabric at fabric
 
-CHRIS STASSY - LONDON WEEKENDER - fabric on Sat 5 Dec, London. 1 artist on the bill: CHRIS STASSY. House. Preview the line-up and save it on soundcheck.
+CHRIS STASSY - LONDON WEEKENDER - fabric on Sat 5 Dec, London. 1 artist: CHRIS STASSY. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

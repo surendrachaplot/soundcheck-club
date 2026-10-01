@@ -1,8 +1,8 @@
 # STÜM
 
-STÜM is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unit 51, Aberdeen on Fri, 16 Oct 2026.
+STÜM is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unit 51, Aberdeen on Fri, 16 Oct 2026.
 
-STÜM is a techno and house artist based in Australia, tracked on soundcheck, with 70 sets logged across Aberdeen, Amsterdam, Austin and Bali and 23 more. Often billed alongside Kyle Starkey, Benwal and Sam Alfred. Next up: Unit 51, Aberdeen on Fri 16 Oct.
+STÜM is a techno and house artist based in Australia, with 70 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Bali and 23 more. Often billed alongside Kyle Starkey, Benwal and Sam Alfred. Next up: Unit 51, Aberdeen on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ STÜM is a techno and house artist based in Australia, tracked on soundcheck, wi
 
 ## Recently played
 
-- Mondo, Madrid — Sat, 29 Aug 2026
-- Macadam, Nantes — Fri, 14 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- Lokschuppen Berlin, Berlin — Fri, 7 Aug 2026
-- Le Sucre, Lyon — Sun, 26 Jul 2026
-- Night Tales, London — Fri, 24 Jul 2026
-- Titanic Distillers, Belfast — Sat, 27 Jun 2026
-- Mondo, Madrid — Sat, 30 May 2026
+- Mondo, Madrid · Sat, 29 Aug 2026
+- Macadam, Nantes · Fri, 14 Aug 2026
+- Gianpula Village, Malta · Wed, 12 Aug 2026
+- Lokschuppen Berlin, Berlin · Fri, 7 Aug 2026
+- Le Sucre, Lyon · Sun, 26 Jul 2026
+- Night Tales, London · Fri, 24 Jul 2026
+- Titanic Distillers, Belfast · Sat, 27 Jun 2026
+- Mondo, Madrid · Sat, 30 May 2026
 
 ## Shares bills with
 

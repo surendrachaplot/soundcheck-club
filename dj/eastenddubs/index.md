@@ -1,8 +1,8 @@
 # East End Dubs
 
-East End Dubs is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The View From The Shard, London on Sun, 4 Oct 2026.
+East End Dubs is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The View From The Shard, London on Sun, 4 Oct 2026.
 
-East End Dubs is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 282 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 48 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: The View From The Shard, London on Sun 4 Oct.
+East End Dubs is a house and tech house artist based in United Kingdom, with 282 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 48 more. Often billed alongside ALISHA, Jamback and Max Dean. Next up: The View From The Shard, London on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ East End Dubs is a house and tech house artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Tue, 29 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 22 Sept 2026
-- Hï Ibiza, Ibiza — Sat, 19 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 15 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 8 Sept 2026
-- BCM, Mallorca — Thu, 3 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 1 Sept 2026
-- Jardins de Joan Brossa, Barcelona — Sun, 30 Aug 2026
+- Hï Ibiza, Ibiza · Tue, 29 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 22 Sept 2026
+- Hï Ibiza, Ibiza · Sat, 19 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 15 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 8 Sept 2026
+- BCM, Mallorca · Thu, 3 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 1 Sept 2026
+- Jardins de Joan Brossa, Barcelona · Sun, 30 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # EAST Techno Collective - Halloween Warehouse at De Fik Garden
 
-EAST Techno Collective - Halloween Warehouse at De Fik Garden on Sat 31 Oct, Amsterdam. 1 artist on the bill: Jayzo. Techno. Preview the line-up and save it on soundcheck.
+EAST Techno Collective - Halloween Warehouse at De Fik Garden on Sat 31 Oct, Amsterdam. 1 artist: Jayzo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

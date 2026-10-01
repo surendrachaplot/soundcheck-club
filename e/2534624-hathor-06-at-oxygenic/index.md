@@ -1,6 +1,6 @@
 # Hathor 06 at Oxygenic
 
-Hathor 06 at Oxygenic on Sat 7 Nov, Newcastle. Preview the line-up and save it on soundcheck.
+Hathor 06 at Oxygenic on Sat 7 Nov, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

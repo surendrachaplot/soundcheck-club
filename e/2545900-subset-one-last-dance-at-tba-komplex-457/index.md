@@ -1,6 +1,6 @@
 # Subset – One Last Dance at TBA - Komplex 457
 
-Subset – One Last Dance at TBA - Komplex 457 on Sat 7 Nov, Zurich. 6 artists on the bill: goddard., K Motionz, Koven and Mozey and 2 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+Subset – One Last Dance at TBA - Komplex 457 on Sat 7 Nov, Zurich. 6 artists: goddard., K Motionz, Koven and Mozey and 2 more. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

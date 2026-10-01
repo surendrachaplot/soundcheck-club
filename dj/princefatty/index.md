@@ -1,8 +1,8 @@
 # Prince Fatty
 
-Prince Fatty is a Dub and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Fox and Firkin, London on Fri, 11 Dec 2026.
+Prince Fatty is a Dub and Dancehall artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Fox and Firkin, London on Fri, 11 Dec 2026.
 
-Prince Fatty is a dub and dancehall artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Brighton, Kyoto, Liverpool and London and 2 more. Often billed alongside Charlie P, Iration Steppas and Mungo's Hi Fi. Next up: The Fox and Firkin, London on Fri 11 Dec.
+Prince Fatty is a dub and dancehall artist based in United Kingdom, with 21 gigs on soundcheck across Brighton, Kyoto, Liverpool and London and 2 more. Often billed alongside Charlie P, Iration Steppas and Mungo's Hi Fi. Next up: The Fox and Firkin, London on Fri 11 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Prince Fatty is a dub and dancehall artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Praia Fluvial da Rapoula do Côa, Porto — Mon, 24 Aug 2026
-- Volks, Brighton — Sat, 25 Jul 2026
-- The Fox and Firkin, London — Sat, 11 Jul 2026
-- Signature Brew Blackhorse Road, London — Sun, 3 May 2026
-- The Fox and Firkin, London — Fri, 3 Apr 2026
-- The Fox and Firkin, London — Wed, 4 Mar 2026
-- The Fox and Firkin, London — Fri, 19 Dec 2025
-- The Fox and Firkin, London — Sat, 27 Sept 2025
+- Praia Fluvial da Rapoula do Côa, Porto · Mon, 24 Aug 2026
+- Volks, Brighton · Sat, 25 Jul 2026
+- The Fox and Firkin, London · Sat, 11 Jul 2026
+- Signature Brew Blackhorse Road, London · Sun, 3 May 2026
+- The Fox and Firkin, London · Fri, 3 Apr 2026
+- The Fox and Firkin, London · Wed, 4 Mar 2026
+- The Fox and Firkin, London · Fri, 19 Dec 2025
+- The Fox and Firkin, London · Sat, 27 Sept 2025
 
 ## Shares bills with
 

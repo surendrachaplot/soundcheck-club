@@ -1,8 +1,8 @@
 # Shawn Ryan
 
-Shawn Ryan is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Philly Aids Thrift, Philadelphia on Sat, 10 Oct 2026.
+Shawn Ryan is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Philly Aids Thrift, Philadelphia on Sat, 10 Oct 2026.
 
-Shawn Ryan is a house and disco artist based in United States of America, tracked on soundcheck, with 27 sets logged across Philadelphia and Washington DC. Often billed alongside Universal Cave, Michael The Lion and DEL. Next up: Philly Aids Thrift, Philadelphia on Sat 10 Oct.
+Shawn Ryan is a house and disco artist based in United States of America, with 27 gigs on soundcheck across Philadelphia and Washington DC. Often billed alongside Universal Cave, Michael The Lion and DEL. Next up: Philly Aids Thrift, Philadelphia on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Shawn Ryan is a house and disco artist based in United States of America, tracke
 
 ## Recently played
 
-- Johnny Brenda's, Philadelphia — Thu, 24 Sept 2026
-- Johnny Brenda's, Philadelphia — Thu, 18 Jun 2026
-- The Barbary, Philadelphia — Fri, 12 Jun 2026
-- The Dolphin, Philadelphia — Sat, 25 Apr 2026
-- TBA - 2041 Coral St Suite 2, Philadelphia, PA 19125, Philadelphia — Sat, 7 Mar 2026
-- broad hall., Philadelphia — Mon, 22 Dec 2025
-- Void, Philadelphia — Sat, 6 Dec 2025
-- God's Automatic Body & Spa, Philadelphia — Fri, 5 Sept 2025
+- Johnny Brenda's, Philadelphia · Thu, 24 Sept 2026
+- Johnny Brenda's, Philadelphia · Thu, 18 Jun 2026
+- The Barbary, Philadelphia · Fri, 12 Jun 2026
+- The Dolphin, Philadelphia · Sat, 25 Apr 2026
+- TBA - 2041 Coral St Suite 2, Philadelphia, PA 19125, Philadelphia · Sat, 7 Mar 2026
+- broad hall., Philadelphia · Mon, 22 Dec 2025
+- Void, Philadelphia · Sat, 6 Dec 2025
+- God's Automatic Body & Spa, Philadelphia · Fri, 5 Sept 2025
 
 ## Shares bills with
 

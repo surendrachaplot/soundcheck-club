@@ -1,8 +1,8 @@
 # Mondo
 
-Mondo is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DJ Fuckoff / Gerardo Niva / doccudder" on Thu, 1 Oct 2026.
+Mondo is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DJ Fuckoff / Gerardo Niva / doccudder" on Thu, 1 Oct 2026.
 
-Mondo is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Alignment, Andres Campo, Bad Boombox and Bárbara Lago and 2 more. Browse upcoming dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
+Mondo is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Alignment, Andres Campo, Bad Boombox and Bárbara Lago and 2 more. See dates, start times and who's playing. Sala But, C. de Barceló, 11, Local B, Centro, 28004 Madrid.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Deep House Melbourne at TBA - CLICK CO. 
 
-Deep House Melbourne at TBA - CLICK CO.  on Sat 31 Oct, Melbourne. House and Deep House. Preview the line-up and save it on soundcheck.
+Deep House Melbourne at TBA - CLICK CO.  on Sat 31 Oct, Melbourne. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

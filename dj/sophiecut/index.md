@@ -1,8 +1,8 @@
 # Sophie Cut
 
-Sophie Cut is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Turtur, Hamburg on Sat, 17 Oct 2026.
+Sophie Cut is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Turtur, Hamburg on Sat, 17 Oct 2026.
 
-Sophie Cut is a techno and trance artist based in Germany, tracked on soundcheck, with 17 sets logged across Hamburg. Often billed alongside Love Defender, NYON and ACID B4RBIE. Next up: Turtur, Hamburg on Sat 17 Oct.
+Sophie Cut is a techno and trance artist based in Germany, with 17 gigs on soundcheck across Hamburg. Often billed alongside Love Defender, NYON and ACID B4RBIE. Next up: Turtur, Hamburg on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sophie Cut is a techno and trance artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Südpol, Hamburg — Fri, 4 Sept 2026
-- Uebel & Gefährlich, Hamburg — Sat, 29 Aug 2026
-- Südpol, Hamburg — Sat, 28 Mar 2026
-- Karoline 45, Hamburg — Fri, 6 Mar 2026
-- Fabrique im Gängeviertel, Hamburg — Fri, 14 Nov 2025
-- Fundbureau, Hamburg — Thu, 30 Oct 2025
-- Lilli Escher, Hamburg — Fri, 10 Oct 2025
-- Baalsaal, Hamburg — Fri, 19 Sept 2025
+- Südpol, Hamburg · Fri, 4 Sept 2026
+- Uebel & Gefährlich, Hamburg · Sat, 29 Aug 2026
+- Südpol, Hamburg · Sat, 28 Mar 2026
+- Karoline 45, Hamburg · Fri, 6 Mar 2026
+- Fabrique im Gängeviertel, Hamburg · Fri, 14 Nov 2025
+- Fundbureau, Hamburg · Thu, 30 Oct 2025
+- Lilli Escher, Hamburg · Fri, 10 Oct 2025
+- Baalsaal, Hamburg · Fri, 19 Sept 2025
 
 ## Shares bills with
 

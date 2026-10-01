@@ -1,6 +1,6 @@
 # TOSHIKI SOEJIMA *live at Gretchen
 
-TOSHIKI SOEJIMA *live at Gretchen on Tue 1 Dec, Berlin. Jazz. Preview the line-up and save it on soundcheck.
+TOSHIKI SOEJIMA *live at Gretchen on Tue 1 Dec, Berlin. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

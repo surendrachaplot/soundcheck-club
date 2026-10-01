@@ -1,6 +1,6 @@
 # Jazzy - Peace & Patience Tour - Liverpool at Invisible Wind Factory
 
-Jazzy - Peace & Patience Tour - Liverpool at Invisible Wind Factory on Fri 13 Nov, Liverpool. 1 artist on the bill: Jazzy (IRL). House. Preview the line-up and save it on soundcheck.
+Jazzy - Peace & Patience Tour - Liverpool at Invisible Wind Factory on Fri 13 Nov, Liverpool. 1 artist: Jazzy (IRL). House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cruz at 5A
 
-Cruz at 5A on Fri 9 Oct, Lisbon. 1 artist on the bill: Cruz (PT). Preview the line-up and save it on soundcheck.
+Cruz at 5A on Fri 9 Oct, Lisbon. 1 artist: Cruz (PT). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

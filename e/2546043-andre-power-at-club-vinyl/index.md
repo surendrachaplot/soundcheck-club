@@ -1,6 +1,6 @@
 # Andre Power at Club Vinyl
 
-Andre Power at Club Vinyl on Fri 9 Oct, Denver. 1 artist on the bill: Andre Power. House. Preview the line-up and save it on soundcheck.
+Andre Power at Club Vinyl on Fri 9 Oct, Denver. 1 artist: Andre Power. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

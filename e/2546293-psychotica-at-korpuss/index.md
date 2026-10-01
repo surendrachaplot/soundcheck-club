@@ -1,6 +1,6 @@
 # PSYCHOTICA at Korpuss
 
-PSYCHOTICA at Korpuss on Fri 2 Oct, Riga. 1 artist on the bill: DEP (LV). Psytrance. Preview the line-up and save it on soundcheck.
+PSYCHOTICA at Korpuss on Fri 2 Oct, Riga. 1 artist: DEP (LV). Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

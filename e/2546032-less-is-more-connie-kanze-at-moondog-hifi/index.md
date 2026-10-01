@@ -1,6 +1,6 @@
 # less Is MORE: Connie + KANZE at Moondog Hifi
 
-less Is MORE: Connie + KANZE at Moondog Hifi on Fri 2 Oct, New York City. 2 artists on the bill: Connie and KANZE. Preview the line-up and save it on soundcheck.
+less Is MORE: Connie + KANZE at Moondog Hifi on Fri 2 Oct, New York City. 2 artists: Connie and KANZE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

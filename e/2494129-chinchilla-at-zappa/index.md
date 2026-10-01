@@ -1,6 +1,6 @@
 # CHINCHILLA at Zappa
 
-CHINCHILLA at Zappa on Sat 21 Nov, Antwerp. Preview the line-up and save it on soundcheck.
+CHINCHILLA at Zappa on Sat 21 Nov, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

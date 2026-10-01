@@ -1,6 +1,6 @@
 # Azumaya -Thursday- at Azumaya
 
-Azumaya -Thursday- on Thu 8 Oct, Tokyo. Techno. Preview the line-up and save it on soundcheck.
+Azumaya -Thursday- on Thu 8 Oct, Tokyo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

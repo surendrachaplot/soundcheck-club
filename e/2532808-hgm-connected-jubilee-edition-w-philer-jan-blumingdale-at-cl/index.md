@@ -1,6 +1,6 @@
 # HGM 'CONNECTED' - Jubilee Edition w/PHILER & JAN BLUMINGDALE at Climax-Institutes
 
-HGM 'CONNECTED' - Jubilee Edition w/PHILER & JAN BLUMINGDALE at Climax-Institutes on Thu 8 Oct, Stuttgart. Techno and Tech House. Preview the line-up and save it on soundcheck.
+HGM 'CONNECTED' - Jubilee Edition w/PHILER & JAN BLUMINGDALE at Climax-Institutes on Thu 8 Oct, Stuttgart. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

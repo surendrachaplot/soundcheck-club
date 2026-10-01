@@ -1,6 +1,6 @@
 # TAKEOVER 6IX presents VENDEX & B2 at TBA
 
-TAKEOVER 6IX presents VENDEX & B2 at TBA on Sat 24 Oct, Toronto. 2 artists on the bill: B2 and Vendex. Techno. Preview the line-up and save it on soundcheck.
+TAKEOVER 6IX presents VENDEX & B2 at TBA on Sat 24 Oct, Toronto. 2 artists: B2 and Vendex. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

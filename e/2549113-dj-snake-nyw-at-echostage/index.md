@@ -1,6 +1,6 @@
 # DJ Snake [NYW] at Echostage
 
-DJ Snake [NYW] at Echostage on Tue 29 Dec, Washington DC. 1 artist on the bill: DJ Snake. House and Bass. Preview the line-up and save it on soundcheck.
+DJ Snake [NYW] at Echostage on Tue 29 Dec, Washington DC. 1 artist: DJ Snake. House and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

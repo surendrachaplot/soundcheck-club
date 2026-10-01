@@ -1,6 +1,6 @@
 # A.M.C presents: Grassroots Energy (Cheltenham) at Under The Prom
 
-A.M.C presents: Grassroots Energy (Cheltenham) at Under The Prom on Sat 3 Oct, West Wales. 2 artists on the bill: A.M.C. and Phantom. Preview the line-up and save it on soundcheck.
+A.M.C presents: Grassroots Energy (Cheltenham) at Under The Prom on Sat 3 Oct, West Wales. 2 artists: A.M.C. and Phantom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

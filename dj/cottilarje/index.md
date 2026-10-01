@@ -1,8 +1,8 @@
 # Cottí Larje
 
-Cottí Larje is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at ://about blank, Berlin on Fri, 30 Oct 2026.
+Cottí Larje is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ://about blank, Berlin on Fri, 30 Oct 2026.
 
-Cottí Larje is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Munich. Often billed alongside antyo, Terzenbreaker and Fej:tal. Next up: ://about blank, Berlin on Fri 30 Oct.
+Cottí Larje is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin and Munich. Often billed alongside antyo, Terzenbreaker and Fej:tal. Next up: ://about blank, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Cottí Larje is a techno and trance artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Bahnwärter Thiel, Munich — Sat, 5 Sept 2026
-- Bahnwärter Thiel, Munich — Thu, 23 Jul 2026
-- Birgit, Berlin — Fri, 10 Jul 2026
-- DNA Club, Munich — Thu, 2 Jul 2026
-- Rote Sonne, Munich — Wed, 20 May 2026
-- Rote Sonne, Munich — Sat, 11 Apr 2026
-- Bahnwärter Thiel, Munich — Sun, 5 Apr 2026
-- Rote Sonne, Munich — Wed, 18 Mar 2026
+- Bahnwärter Thiel, Munich · Sat, 5 Sept 2026
+- Bahnwärter Thiel, Munich · Thu, 23 Jul 2026
+- Birgit, Berlin · Fri, 10 Jul 2026
+- DNA Club, Munich · Thu, 2 Jul 2026
+- Rote Sonne, Munich · Wed, 20 May 2026
+- Rote Sonne, Munich · Sat, 11 Apr 2026
+- Bahnwärter Thiel, Munich · Sun, 5 Apr 2026
+- Rote Sonne, Munich · Wed, 18 Mar 2026
 
 ## Shares bills with
 

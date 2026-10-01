@@ -1,8 +1,8 @@
 # Billy Daniel Bunter
 
-Billy Daniel Bunter is a Hardcore and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Electrowerkz, London on Sat, 17 Oct 2026.
+Billy Daniel Bunter is a Hardcore and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Electrowerkz, London on Sat, 17 Oct 2026.
 
-Billy Daniel Bunter is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Brighton, Edinburgh and Leeds and 7 more. Often billed alongside Nicky Blackmarket, Ratpack and Grooverider. Next up: Electrowerkz, London on Sat 17 Oct.
+Billy Daniel Bunter is a hardcore and jungle artist based in United Kingdom, with 53 gigs on soundcheck across Amsterdam, Brighton, Edinburgh and Leeds and 7 more. Often billed alongside Nicky Blackmarket, Ratpack and Grooverider. Next up: Electrowerkz, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Billy Daniel Bunter is a hardcore and jungle artist based in United Kingdom, tra
 
 ## Recently played
 
-- Studio 338, London — Sat, 26 Sept 2026
-- People's Leisure Club, Edinburgh — Sat, 19 Sept 2026
-- TBA - Network Sheffield, Sheffield — Sat, 20 Jun 2026
-- Phonox, London — Sat, 13 Jun 2026
-- Chelmsford City Racecourse, London — Sat, 23 May 2026
-- Bowlers Exhibition Centre, Manchester — Sat, 2 May 2026
-- 93 Feet East, London — Sat, 2 May 2026
-- Electrowerkz, London — Sat, 11 Apr 2026
+- Studio 338, London · Sat, 26 Sept 2026
+- People's Leisure Club, Edinburgh · Sat, 19 Sept 2026
+- TBA - Network Sheffield, Sheffield · Sat, 20 Jun 2026
+- Phonox, London · Sat, 13 Jun 2026
+- Chelmsford City Racecourse, London · Sat, 23 May 2026
+- Bowlers Exhibition Centre, Manchester · Sat, 2 May 2026
+- 93 Feet East, London · Sat, 2 May 2026
+- Electrowerkz, London · Sat, 11 Apr 2026
 
 ## Shares bills with
 

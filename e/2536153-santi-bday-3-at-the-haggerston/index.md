@@ -1,6 +1,6 @@
 # SANTI BDAY <3 at The Haggerston
 
-SANTI BDAY <3 at The Haggerston on Sat 3 Oct, London. Electro and Reggaeton. Preview the line-up and save it on soundcheck.
+SANTI BDAY <3 at The Haggerston on Sat 3 Oct, London. Electro and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

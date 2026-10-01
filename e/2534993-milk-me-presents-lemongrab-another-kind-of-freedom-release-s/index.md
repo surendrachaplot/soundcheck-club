@@ -1,6 +1,6 @@
 # MILK ME presents: Lemongrab - Another Kind Of Freedom Release Show at Neue Zukunft
 
-MILK ME presents: Lemongrab - Another Kind Of Freedom Release Show at Neue Zukunft on Wed 9 Dec, Berlin. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
+MILK ME presents: Lemongrab - Another Kind Of Freedom Release Show at Neue Zukunft on Wed 9 Dec, Berlin. Post-Punk and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

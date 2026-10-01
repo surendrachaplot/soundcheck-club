@@ -1,6 +1,6 @@
 # REVOLVER BANDROOM: YURT PARTY — Street Party Music at Revolver Upstairs
 
-REVOLVER BANDROOM: YURT PARTY — Street Party Music at Revolver Upstairs on Thu 22 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+REVOLVER BANDROOM: YURT PARTY — Street Party Music at Revolver Upstairs on Thu 22 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

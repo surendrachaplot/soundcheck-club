@@ -1,6 +1,6 @@
 # Komos V I Specka Club at Specka
 
-Komos V I Specka Club on Fri 9 Oct, Madrid. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Komos V I Specka Club on Fri 9 Oct, Madrid. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

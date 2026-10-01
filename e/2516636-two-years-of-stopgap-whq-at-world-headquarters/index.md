@@ -1,6 +1,6 @@
 # Two Years Of Stopgap @ WHQ at World Headquarters
 
-Two Years Of Stopgap @ WHQ at World Headquarters on Sat 28 Nov, Newcastle. 2 artists on the bill: adamgr and JJ Croft. House and Garage. Preview the line-up and save it on soundcheck.
+Two Years Of Stopgap @ WHQ at World Headquarters on Sat 28 Nov, Newcastle. 2 artists: adamgr and JJ Croft. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

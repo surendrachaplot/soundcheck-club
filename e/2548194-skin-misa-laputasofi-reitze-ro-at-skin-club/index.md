@@ -1,6 +1,6 @@
 # SKIN MISA: LAPUTASOFI + Reitze + RO at Skin Club
 
-SKIN MISA: LAPUTASOFI + Reitze + RO at Skin Club on Sun 18 Oct, Madrid. 1 artist on the bill: Reitze. Preview the line-up and save it on soundcheck.
+SKIN MISA: LAPUTASOFI + Reitze + RO at Skin Club on Sun 18 Oct, Madrid. 1 artist: Reitze. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # REC Napoli
 
-REC Napoli is a music venue in Naples with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "HENGE at REC Ellen Allien, Jesooria, Emmef" on Sat, 3 Oct 2026.
+REC Napoli is a music venue in Naples with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HENGE at REC Ellen Allien, Jesooria, Emmef" on Sat, 3 Oct 2026.
 
-REC Napoli is a music venue in Naples listed on soundcheck. 5 upcoming gigs, with line-ups including BASHKKA, Batu, Dan Ghenacia and Ellen Allien and 2 more. Browse upcoming dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
+REC Napoli is a music venue in Naples listed on soundcheck. 5 upcoming gigs, with line-ups including BASHKKA, Batu, Dan Ghenacia and Ellen Allien and 2 more. See dates, start times and who's playing. Via Campana 233, Pozzuoli, 80078, Napoli.
 
 ## What's on
 

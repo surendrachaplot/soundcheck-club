@@ -1,6 +1,6 @@
 # Jammin' ft Pow Pow Movement at Plein Publiek
 
-Jammin' ft Pow Pow Movement at Plein Publiek on Fri 9 Oct, Antwerp. Preview the line-up and save it on soundcheck.
+Jammin' ft Pow Pow Movement at Plein Publiek on Fri 9 Oct, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cosmo presents: BIG UP! Berlin *live at Gretchen
 
-Cosmo presents: BIG UP! Berlin *live at Gretchen on Sat 28 Nov, Berlin. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+Cosmo presents: BIG UP! Berlin *live at Gretchen on Sat 28 Nov, Berlin. Hip-Hop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

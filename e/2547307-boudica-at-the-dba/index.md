@@ -1,6 +1,6 @@
 # Boudica at The DBA
 
-Boudica at The DBA on Sat 21 Nov, Manchester. Techno. Preview the line-up and save it on soundcheck.
+Boudica at The DBA on Sat 21 Nov, Manchester. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

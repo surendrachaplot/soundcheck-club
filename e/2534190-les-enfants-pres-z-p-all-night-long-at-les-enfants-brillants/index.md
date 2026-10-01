@@ -1,6 +1,6 @@
 # Les Enfants pres. Z@p All Night Long at Les Enfants Brillants
 
-Les Enfants pres. Z@p All Night Long at Les Enfants Brillants on Sat 28 Nov, Barcelona. 1 artist on the bill: Z@p. Preview the line-up and save it on soundcheck.
+Les Enfants pres. Z@p All Night Long at Les Enfants Brillants on Sat 28 Nov, Barcelona. 1 artist: Z@p. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

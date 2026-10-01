@@ -1,6 +1,6 @@
 # Liminal Space Ep.31 at TBA - Bside Radio
 
-Liminal Space Ep.31 at TBA - Bside Radio on Sat 3 Oct, Vancouver. 2 artists on the bill: Bronsön and Devønn. Techno. Preview the line-up and save it on soundcheck.
+Liminal Space Ep.31 at TBA - Bside Radio on Sat 3 Oct, Vancouver. 2 artists: Bronsön and Devønn. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

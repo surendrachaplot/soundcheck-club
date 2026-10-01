@@ -1,6 +1,6 @@
 # CONCERT: ZIDANE (live), LA GRÈLE (live) at Karmen Camina
 
-CONCERT: ZIDANE (live), LA GRÈLE (live) at Karmen Camina on Fri 2 Oct, Strasbourg. Krautrock. Preview the line-up and save it on soundcheck.
+CONCERT: ZIDANE (live), LA GRÈLE (live) at Karmen Camina on Fri 2 Oct, Strasbourg. Krautrock. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

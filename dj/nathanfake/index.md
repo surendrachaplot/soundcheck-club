@@ -1,8 +1,8 @@
 # Nathan Fake
 
-Nathan Fake is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Piazza, Moka, Mauritius on Fri, 9 Oct 2026.
+Nathan Fake is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Piazza, Moka, Mauritius on Fri, 9 Oct 2026.
 
-Nathan Fake is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Barcelona, Berlin, Bristol and Glasgow and 7 more. Often billed alongside Gold Panda, Alex Wilcox and Arsenal Mikebe. Next up: La Piazza, Moka, Mauritius on Fri 9 Oct.
+Nathan Fake is a techno and electro artist based in United Kingdom, with 23 gigs on soundcheck across Barcelona, Berlin, Bristol and Glasgow and 7 more. Often billed alongside Gold Panda, Alex Wilcox and Arsenal Mikebe. Next up: La Piazza, Moka, Mauritius on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Nathan Fake is a techno and electro artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- TBA - Takanawa Gateway City, Tokyo — Sat, 27 Jun 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
-- The Greyhound, London — Sat, 28 Mar 2026
-- Nitsa Club, Barcelona — Sat, 21 Mar 2026
-- Circolo Magnolia, Milan — Fri, 6 Mar 2026
-- Club Cheek, London — Sat, 28 Feb 2026
-- Kantine am Berghain, Berlin — Wed, 3 Dec 2025
-- M.O.T, London — Fri, 16 May 2025
+- TBA - Takanawa Gateway City, Tokyo · Sat, 27 Jun 2026
+- TBA - Les Grandes Locos , Lyon · Wed, 13 May 2026
+- The Greyhound, London · Sat, 28 Mar 2026
+- Nitsa Club, Barcelona · Sat, 21 Mar 2026
+- Circolo Magnolia, Milan · Fri, 6 Mar 2026
+- Club Cheek, London · Sat, 28 Feb 2026
+- Kantine am Berghain, Berlin · Wed, 3 Dec 2025
+- M.O.T, London · Fri, 16 May 2025
 
 ## Shares bills with
 

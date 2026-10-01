@@ -1,6 +1,6 @@
 # Disco Pastrami: Temple Of Taste at Ragoo
 
-Disco Pastrami: Temple Of Taste at Ragoo on Thu 12 Nov, Milan. House and Disco. Preview the line-up and save it on soundcheck.
+Disco Pastrami: Temple Of Taste at Ragoo on Thu 12 Nov, Milan. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

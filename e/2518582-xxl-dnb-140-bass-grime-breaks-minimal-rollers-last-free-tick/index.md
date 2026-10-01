@@ -1,6 +1,6 @@
 # XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS! LAST FREE TICKETS + FREE DRINK at The Steel Yard
 
-XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS! LAST FREE TICKETS + FREE DRINK at The Steel Yard on Fri 13 Nov, London. Bass and Grime. Preview the line-up and save it on soundcheck.
+XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS! LAST FREE TICKETS + FREE DRINK at The Steel Yard on Fri 13 Nov, London. Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

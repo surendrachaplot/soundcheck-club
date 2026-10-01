@@ -1,6 +1,6 @@
 # Elevator (FFAN & YAMARCHY) all-night long at Nyapi
 
-Elevator (FFAN & YAMARCHY) all-night long at Nyapi on Thu 8 Oct, Seoul. 2 artists on the bill: FFAN and YAMARCHY. Preview the line-up and save it on soundcheck.
+Elevator (FFAN & YAMARCHY) all-night long at Nyapi on Thu 8 Oct, Seoul. 2 artists: FFAN and YAMARCHY. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

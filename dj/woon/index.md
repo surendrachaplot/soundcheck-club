@@ -1,8 +1,8 @@
 # WOON
 
-WOON is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Acadana, Hong Kong on Fri, 20 Nov 2026.
+WOON is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Acadana, Hong Kong on Fri, 20 Nov 2026.
 
-WOON is a techno and industrial artist based in China, tracked on soundcheck, with 8 sets logged across Hong Kong and Shenzhen. Often billed alongside Nanogram, 100%WONG and 3.14. Next up: Acadana, Hong Kong on Fri 20 Nov.
+WOON is a techno and industrial artist based in China, with 8 gigs on soundcheck across Hong Kong and Shenzhen. Often billed alongside Nanogram, 100%WONG and 3.14. Next up: Acadana, Hong Kong on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ WOON is a techno and industrial artist based in China, tracked on soundcheck, wi
 
 ## Recently played
 
-- Acadana, Hong Kong — Tue, 30 Sept 2025
-- OIL Club, Shenzhen — Sun, 18 May 2025
-- Social Room, Hong Kong — Fri, 9 May 2025
-- Acadana, Hong Kong — Wed, 30 Apr 2025
-- Acadana, Hong Kong — Sat, 15 Feb 2025
-- 宀 Club, Hong Kong — Thu, 30 Jan 2025
-- TBA, Hong Kong — Fri, 29 Sept 2023
+- Acadana, Hong Kong · Tue, 30 Sept 2025
+- OIL Club, Shenzhen · Sun, 18 May 2025
+- Social Room, Hong Kong · Fri, 9 May 2025
+- Acadana, Hong Kong · Wed, 30 Apr 2025
+- Acadana, Hong Kong · Sat, 15 Feb 2025
+- 宀 Club, Hong Kong · Thu, 30 Jan 2025
+- TBA, Hong Kong · Fri, 29 Sept 2023
 
 ## Shares bills with
 

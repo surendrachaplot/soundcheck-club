@@ -1,6 +1,6 @@
 # House of Lunacy Halloween - The Danse Macabre at Renate
 
-House of Lunacy Halloween - The Danse Macabre at Renate on Thu 29 Oct, Berlin. Preview the line-up and save it on soundcheck.
+House of Lunacy Halloween - The Danse Macabre at Renate on Thu 29 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Afrikan Sciences
 
-Afrikan Sciences is a Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Afrikan Sciences is a Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Mon, 9 Nov 2026.
 
-Afrikan Sciences is an experimental artist based in United States of America, tracked on soundcheck, with 6 sets logged across New York City and Utrecht. Often billed alongside Claudio PRC, Dasha Rush and Decoder. Next up: public records, New York City on Mon 9 Nov.
+Afrikan Sciences is an experimental artist based in United States of America, with 6 gigs on soundcheck across New York City and Utrecht. Often billed alongside Claudio PRC, Dasha Rush and Decoder. Next up: public records, New York City on Mon 9 Nov.
 
 ## Upcoming shows
 
@@ -13,10 +13,10 @@ Afrikan Sciences is an experimental artist based in United States of America, tr
 
 ## Recently played
 
-- Nowadays, New York City — Fri, 8 Nov 2024
-- Sisters, New York City — Sun, 4 Aug 2024
-- TivoliVredenburg, Utrecht — Thu, 9 Nov 2023
-- public records, New York City — Sun, 16 Apr 2023
+- Nowadays, New York City · Fri, 8 Nov 2024
+- Sisters, New York City · Sun, 4 Aug 2024
+- TivoliVredenburg, Utrecht · Thu, 9 Nov 2023
+- public records, New York City · Sun, 16 Apr 2023
 
 ## Shares bills with
 

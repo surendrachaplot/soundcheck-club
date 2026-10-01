@@ -1,6 +1,6 @@
 # House Hats presents: M-High + Locky at 1920 Ybor
 
-House Hats presents: M-High + Locky at 1920 Ybor on Sat 21 Nov, Tampa Bay. 2 artists on the bill: Locky and M-High. Preview the line-up and save it on soundcheck.
+House Hats presents: M-High + Locky at 1920 Ybor on Sat 21 Nov, Tampa Bay. 2 artists: Locky and M-High. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

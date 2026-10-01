@@ -1,6 +1,6 @@
 # The Genesis 2nd Birthday at Kassa Boat
 
-The Genesis 2nd Birthday at Kassa Boat on Sat 3 Oct, Budapest. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+The Genesis 2nd Birthday at Kassa Boat on Sat 3 Oct, Budapest. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

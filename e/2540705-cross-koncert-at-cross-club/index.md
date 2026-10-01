@@ -1,6 +1,6 @@
 # CROSS KONCERT at Cross Club
 
-CROSS KONCERT at Cross Club on Sat 17 Oct, Prague. Preview the line-up and save it on soundcheck.
+CROSS KONCERT at Cross Club on Sat 17 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

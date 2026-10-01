@@ -1,8 +1,8 @@
 # Wesola Immersive
 
-Wesola Immersive is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Expedition at Wesoła Immersive with Karine" on Fri, 2 Oct 2026.
+Wesola Immersive is a music venue in Krakow with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Expedition at Wesoła Immersive with Karine" on Fri, 2 Oct 2026.
 
-Wesola Immersive is a music venue in Krakow listed on soundcheck. 1 upcoming gig, with line-ups including Badalian, Karine and user228322. Browse upcoming dates, start times and who's playing. Mikolaja Kopernika 17A, 31-501 Krakow.
+Wesola Immersive is a music venue in Krakow listed on soundcheck. 1 upcoming gig, with line-ups including Badalian, Karine and user228322. See dates, start times and who's playing. Mikolaja Kopernika 17A, 31-501 Krakow.
 
 ## What's on
 

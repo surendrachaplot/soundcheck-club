@@ -1,6 +1,6 @@
 # Doll World Academy at The DBA
 
-Doll World Academy at The DBA on Thu 1 Oct, Manchester. Electro. Preview the line-up and save it on soundcheck.
+Doll World Academy at The DBA on Thu 1 Oct, Manchester. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

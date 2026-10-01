@@ -1,6 +1,6 @@
 # 𝐄𝐋𝐘 𝐎𝐀𝐊𝐒 at Hans Bunte Areal
 
-𝐄𝐋𝐘 𝐎𝐀𝐊𝐒 at Hans Bunte Areal on Sat 17 Oct, Freiburg. 1 artist on the bill: Ely Oaks. Preview the line-up and save it on soundcheck.
+𝐄𝐋𝐘 𝐎𝐀𝐊𝐒 at Hans Bunte Areal on Sat 17 Oct, Freiburg. 1 artist: Ely Oaks. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

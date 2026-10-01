@@ -1,6 +1,6 @@
 # TDIB X SSS [ HEADLINER NIGHT ] at Blindspot*
 
-TDIB X SSS [ HEADLINER NIGHT ] at Blindspot* on Fri 30 Oct, Bucharest. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+TDIB X SSS [ HEADLINER NIGHT ] at Blindspot* on Fri 30 Oct, Bucharest. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

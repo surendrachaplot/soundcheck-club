@@ -1,6 +1,6 @@
 # 3xNYX: Bootylicious at Club NYX
 
-3xNYX: Bootylicious at Club NYX on Sat 10 Oct, Amsterdam. 5 artists on the bill: Diklipdaan, GISZA, Kutkyle and Luc and 1 more. Dancehall and R&B. Preview the line-up and save it on soundcheck.
+3xNYX: Bootylicious at Club NYX on Sat 10 Oct, Amsterdam. 5 artists: Diklipdaan, GISZA, Kutkyle and Luc and 1 more. Dancehall and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

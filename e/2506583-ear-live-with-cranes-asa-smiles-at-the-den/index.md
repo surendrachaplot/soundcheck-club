@@ -1,6 +1,6 @@
 # ear [live] with cranes & Asa Smiles at The Den
 
-ear [live] with cranes & Asa Smiles at The Den on Thu 8 Oct, Portland. Electronica. Preview the line-up and save it on soundcheck.
+ear [live] with cranes & Asa Smiles at The Den on Thu 8 Oct, Portland. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Things You Say
 
-Things You Say is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Yamashiro Hollywood, Los Angeles on Sat, 31 Oct 2026.
+Things You Say is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Yamashiro Hollywood, Los Angeles on Sat, 31 Oct 2026.
 
-Things You Say is a house and disco artist based in United States of America, tracked on soundcheck, with 22 sets logged across Berlin, Los Angeles and New York City. Often billed alongside Heidi Lawden, Masha Mar and Dave Aju. Next up: Yamashiro Hollywood, Los Angeles on Sat 31 Oct.
+Things You Say is a house and disco artist based in United States of America, with 22 gigs on soundcheck across Berlin, Los Angeles and New York City. Often billed alongside Heidi Lawden, Masha Mar and Dave Aju. Next up: Yamashiro Hollywood, Los Angeles on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Things You Say is a house and disco artist based in United States of America, tr
 
 ## Recently played
 
-- TBA, Los Angeles — Sun, 27 Sept 2026
-- TBA, Los Angeles — Sat, 29 Aug 2026
-- Elsewhere, New York City — Sat, 22 Aug 2026
-- Sunset at EDITION, Los Angeles — Sat, 15 Aug 2026
-- The Bridge, Los Angeles — Sat, 8 Aug 2026
-- Palihotel Hollywood, Los Angeles — Sun, 7 Jun 2026
-- Los Angeles State Historic Park, Los Angeles — Sat, 2 May 2026
-- TBA - SV STUDIOS, Los Angeles — Sat, 31 Jan 2026
+- TBA, Los Angeles · Sun, 27 Sept 2026
+- TBA, Los Angeles · Sat, 29 Aug 2026
+- Elsewhere, New York City · Sat, 22 Aug 2026
+- Sunset at EDITION, Los Angeles · Sat, 15 Aug 2026
+- The Bridge, Los Angeles · Sat, 8 Aug 2026
+- Palihotel Hollywood, Los Angeles · Sun, 7 Jun 2026
+- Los Angeles State Historic Park, Los Angeles · Sat, 2 May 2026
+- TBA - SV STUDIOS, Los Angeles · Sat, 31 Jan 2026
 
 ## Shares bills with
 

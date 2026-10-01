@@ -1,8 +1,8 @@
 # Carl Bergé
 
-Carl Bergé is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
+Carl Bergé is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Fri, 2 Oct 2026.
 
-Carl Bergé is a house and techno artist based in Germany, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Talia Dorr, Pauly and BERF. Next up: Kater, Berlin on Fri 2 Oct.
+Carl Bergé is a house and techno artist based in Germany, with 75 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 7 more. Often billed alongside Talia Dorr, Pauly and BERF. Next up: Kater, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Carl Bergé is a house and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Schiffsanlegestelle Uber Arena, Berlin — Sat, 19 Sept 2026
-- ://about blank, Berlin — Fri, 18 Sept 2026
-- RSO.BERLIN, Berlin — Fri, 4 Sept 2026
-- Boulderhalle Dynochrom, Frankfurt — Sat, 22 Aug 2026
-- Else, Berlin — Sat, 8 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 11 Jul 2026
-- SAGE, Berlin — Sat, 13 Jun 2026
-- Else, Berlin — Fri, 5 Jun 2026
+- Schiffsanlegestelle Uber Arena, Berlin · Sat, 19 Sept 2026
+- ://about blank, Berlin · Fri, 18 Sept 2026
+- RSO.BERLIN, Berlin · Fri, 4 Sept 2026
+- Boulderhalle Dynochrom, Frankfurt · Sat, 22 Aug 2026
+- Else, Berlin · Sat, 8 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 11 Jul 2026
+- SAGE, Berlin · Sat, 13 Jun 2026
+- Else, Berlin · Fri, 5 Jun 2026
 
 ## Shares bills with
 

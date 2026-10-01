@@ -1,8 +1,8 @@
 # gyrofield
 
-gyrofield is a Drum & Bass and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+gyrofield is a Drum & Bass and Bass artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soundcheck, with 78 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 29 more. Often billed alongside KAVARI, Mala and DjRUM. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+gyrofield is a drum & bass and bass artist based in Netherlands, with 78 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 29 more. Often billed alongside KAVARI, Mala and DjRUM. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ gyrofield is a drum & bass and bass artist based in Netherlands, tracked on soun
 
 ## Recently played
 
-- Knockdown Center, New York City — Sat, 26 Sept 2026
-- TRANSMISSION DC, Washington DC — Fri, 25 Sept 2026
-- Société des arts technologiques, Montreal — Fri, 28 Aug 2026
-- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sun, 2 Aug 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
-- Kraftwerk Berlin, Berlin — Sun, 31 May 2026
+- Knockdown Center, New York City · Sat, 26 Sept 2026
+- TRANSMISSION DC, Washington DC · Fri, 25 Sept 2026
+- Société des arts technologiques, Montreal · Fri, 28 Aug 2026
+- Quartier Des Spectacles, Montreal · Tue, 25 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sun, 2 Aug 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- Parc Nou. El Prat de Llobregat, Barcelona · Fri, 17 Jul 2026
+- Kraftwerk Berlin, Berlin · Sun, 31 May 2026
 
 ## Shares bills with
 

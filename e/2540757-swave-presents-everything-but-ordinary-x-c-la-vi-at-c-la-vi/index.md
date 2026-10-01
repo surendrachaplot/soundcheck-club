@@ -1,6 +1,6 @@
 # SWAVE presents: Everything but Ordinary X CÉ LA VI at CÉ LA VI
 
-SWAVE presents: Everything but Ordinary X CÉ LA VI on Fri 9 Oct, London. House and Afro House. Preview the line-up and save it on soundcheck.
+SWAVE presents: Everything but Ordinary X CÉ LA VI on Fri 9 Oct, London. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

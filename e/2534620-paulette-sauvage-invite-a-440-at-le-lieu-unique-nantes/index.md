@@ -1,6 +1,6 @@
 # Paulette Sauvage invite A-440 at Le Lieu Unique / Nantes
 
-Paulette Sauvage invite A-440 at Le Lieu Unique / Nantes on Fri 23 Oct, Nantes. 2 artists on the bill: A-440 and Paulette Sauvage. Trance and House. Preview the line-up and save it on soundcheck.
+Paulette Sauvage invite A-440 at Le Lieu Unique / Nantes on Fri 23 Oct, Nantes. 2 artists: A-440 and Paulette Sauvage. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

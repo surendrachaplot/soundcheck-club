@@ -1,6 +1,6 @@
 # elemog vol.182 at Mogra
 
-elemog vol.182 at Mogra on Fri 20 Nov, Tokyo. Club. Preview the line-up and save it on soundcheck.
+elemog vol.182 at Mogra on Fri 20 Nov, Tokyo. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GHETTO OPERA at Saloon
 
-GHETTO OPERA at Saloon on Fri 16 Oct, Tokyo. 2 artists on the bill: 478 and Matt Lecler. Footwork and Ghetto Tech. Preview the line-up and save it on soundcheck.
+GHETTO OPERA at Saloon on Fri 16 Oct, Tokyo. 2 artists: 478 and Matt Lecler. Footwork and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

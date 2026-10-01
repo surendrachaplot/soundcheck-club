@@ -1,6 +1,6 @@
 # INTRA: Andrew Cairns x Shogun at The Classic Grand
 
-INTRA: Andrew Cairns x Shogun at The Classic Grand on Sat 3 Oct, Glasgow. 1 artist on the bill: Andrew Cairns. Trance and Gabber. Preview the line-up and save it on soundcheck.
+INTRA: Andrew Cairns x Shogun at The Classic Grand on Sat 3 Oct, Glasgow. 1 artist: Andrew Cairns. Trance and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

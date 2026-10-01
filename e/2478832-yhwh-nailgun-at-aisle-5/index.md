@@ -1,6 +1,6 @@
 # YHWH Nailgun at Aisle 5
 
-YHWH Nailgun at Aisle 5 on Mon 19 Oct, Atlanta. 2 artists on the bill: keiyaA and YHWH Nailgun. Preview the line-up and save it on soundcheck.
+YHWH Nailgun at Aisle 5 on Mon 19 Oct, Atlanta. 2 artists: keiyaA and YHWH Nailgun. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

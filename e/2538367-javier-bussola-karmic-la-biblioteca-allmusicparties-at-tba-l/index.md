@@ -1,6 +1,6 @@
 # Javier Bussola - Karmic, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo
 
-Javier Bussola - Karmic, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Fri 30 Oct, Buenos Aires. Psytrance. Preview the line-up and save it on soundcheck.
+Javier Bussola - Karmic, La Biblioteca - ALLMusicParties at TBA - La Biblioteca, San Telmo on Fri 30 Oct, Buenos Aires. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

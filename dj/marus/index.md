@@ -1,8 +1,8 @@
 # Mar/us
 
-Mar/us is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fuchs2, Prague on Sat, 3 Oct 2026.
+Mar/us is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuchs2, Prague on Sat, 3 Oct 2026.
 
-Mar/us is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Bangkok and Berlin and 27 more. Often billed alongside Cristian Marras, Metaraph and Samantha Togni. Next up: Fuchs2, Prague on Sat 3 Oct.
+Mar/us is a techno and house artist, with 95 gigs on soundcheck across Amsterdam, Athens, Bangkok and Berlin and 27 more. Often billed alongside Cristian Marras, Metaraph and Samantha Togni. Next up: Fuchs2, Prague on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Mar/us is a techno and house artist tracked on soundcheck, with 95 sets logged a
 
 ## Recently played
 
-- KREUZWERK, Berlin — Fri, 25 Sept 2026
-- AUX Club, Athens — Sat, 19 Sept 2026
-- KitKatClub, Berlin — Fri, 11 Sept 2026
-- AMT, Berlin — Wed, 9 Sept 2026
-- RADION, Amsterdam — Sat, 8 Aug 2026
-- TBA - La dirección de la fiesta será enviada el 26/06 a las 15 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City — Fri, 26 Jun 2026
-- KREUZWERK, Berlin — Fri, 12 Jun 2026
-- Skin Club, Madrid — Sat, 6 Jun 2026
+- KREUZWERK, Berlin · Fri, 25 Sept 2026
+- AUX Club, Athens · Sat, 19 Sept 2026
+- KitKatClub, Berlin · Fri, 11 Sept 2026
+- AMT, Berlin · Wed, 9 Sept 2026
+- RADION, Amsterdam · Sat, 8 Aug 2026
+- TBA - La dirección de la fiesta será enviada el 26/06 a las 15 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City · Fri, 26 Jun 2026
+- KREUZWERK, Berlin · Fri, 12 Jun 2026
+- Skin Club, Madrid · Sat, 6 Jun 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Happys Belfast
 
-Happys Belfast is a music venue in Belfast with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ARCLINE Pres. Happys ft. CLOVER" on Fri, 2 Oct 2026.
+Happys Belfast is a music venue in Belfast with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ARCLINE Pres. Happys ft. CLOVER" on Fri, 2 Oct 2026.
 
-Happys Belfast is a music venue in Belfast listed on soundcheck. 2 upcoming gigs, with line-ups including GUZZ., Peter James and Skellyoz. Browse upcoming dates, start times and who's playing. 149 Lisburn Road, Belfast, BT9 7AJ.
+Happys Belfast is a music venue in Belfast listed on soundcheck. 2 upcoming gigs, with line-ups including GUZZ., Peter James and Skellyoz. See dates, start times and who's playing. 149 Lisburn Road, Belfast, BT9 7AJ.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Sam Wise
 
-Sam Wise is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Old Blue Last, London on Sat, 31 Oct 2026.
+Sam Wise is a House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Old Blue Last, London on Sat, 31 Oct 2026.
 
-Sam Wise is a house and club artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Austin, Iceland, London and Los Angeles. Often billed alongside 10cust, 1tbsp and ATRIP. Next up: The Old Blue Last, London on Sat 31 Oct.
+Sam Wise is a house and club artist based in United Kingdom, with 5 gigs on soundcheck across Austin, Iceland, London and Los Angeles. Often billed alongside 10cust, 1tbsp and ATRIP. Next up: The Old Blue Last, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,9 +13,9 @@ Sam Wise is a house and club artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- Travis County Exposition Center, Austin — Sat, 30 May 2026
-- Truman Brewery Multiple Venues, London — Fri, 24 Apr 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- Travis County Exposition Center, Austin · Sat, 30 May 2026
+- Truman Brewery Multiple Venues, London · Fri, 24 Apr 2026
 
 ## Shares bills with
 

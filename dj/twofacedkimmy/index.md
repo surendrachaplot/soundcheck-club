@@ -1,8 +1,8 @@
 # TWOFACEDKIMMY
 
-TWOFACEDKIMMY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
+TWOFACEDKIMMY is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
 
-TWOFACEDKIMMY is a techno and trance artist based in Germany, tracked on soundcheck, with 22 sets logged across Berlin and Hamburg. Often billed alongside Unromantic, TRYPTAJ and Cherries040. Next up: Fabrique im Gängeviertel, Hamburg on Sat 3 Oct.
+TWOFACEDKIMMY is a techno and trance artist based in Germany, with 22 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Unromantic, TRYPTAJ and Cherries040. Next up: Fabrique im Gängeviertel, Hamburg on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ TWOFACEDKIMMY is a techno and trance artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- La Cova, Hamburg — Sat, 19 Sept 2026
-- Uebel & Gefährlich, Hamburg — Sat, 19 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 18 Sept 2026
-- Thomas Read Pub, Hamburg — Sat, 12 Sept 2026
-- Fundbureau, Hamburg — Fri, 11 Sept 2026
-- Fundbureau, Hamburg — Sat, 5 Sept 2026
-- Uebel & Gefährlich, Hamburg — Fri, 4 Sept 2026
-- Karoline 45, Hamburg — Sat, 8 Aug 2026
+- La Cova, Hamburg · Sat, 19 Sept 2026
+- Uebel & Gefährlich, Hamburg · Sat, 19 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 18 Sept 2026
+- Thomas Read Pub, Hamburg · Sat, 12 Sept 2026
+- Fundbureau, Hamburg · Fri, 11 Sept 2026
+- Fundbureau, Hamburg · Sat, 5 Sept 2026
+- Uebel & Gefährlich, Hamburg · Fri, 4 Sept 2026
+- Karoline 45, Hamburg · Sat, 8 Aug 2026
 
 ## Shares bills with
 

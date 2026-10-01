@@ -1,6 +1,6 @@
 # HAPPSY AUTUMN 2026 at Quai de Scène
 
-HAPPSY AUTUMN 2026 at Quai de Scène on Sat 3 Oct, Strasbourg. 1 artist on the bill: GREMMLiNS. Acid and Psytrance. Preview the line-up and save it on soundcheck.
+HAPPSY AUTUMN 2026 at Quai de Scène on Sat 3 Oct, Strasbourg. 1 artist: GREMMLiNS. Acid and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

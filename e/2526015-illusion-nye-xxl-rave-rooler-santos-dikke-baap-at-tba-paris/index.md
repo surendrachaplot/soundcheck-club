@@ -1,6 +1,6 @@
 # Illusion Nye XXL Rave: Rooler Santos Dikke Baap at TBA - Paris
 
-Illusion Nye XXL Rave: Rooler Santos Dikke Baap at TBA - Paris on Thu 31 Dec, Paris. 1 artist on the bill: SANTØS. Preview the line-up and save it on soundcheck.
+Illusion Nye XXL Rave: Rooler Santos Dikke Baap at TBA - Paris on Thu 31 Dec, Paris. 1 artist: SANTØS. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

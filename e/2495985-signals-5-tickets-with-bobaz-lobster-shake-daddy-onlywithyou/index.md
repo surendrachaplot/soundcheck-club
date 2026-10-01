@@ -1,6 +1,6 @@
 # SIGNALS - 5€ Tickets - with Bobaz Lobster, Shake Daddy & OnlyWithYou at Lokschuppen Berlin
 
-SIGNALS - 5€ Tickets - with Bobaz Lobster, Shake Daddy & OnlyWithYou at Lokschuppen Berlin on Wed 28 Oct, Berlin. 3 artists on the bill: Bobaz Lobster, OnlyWithYou and Shake Daddy. Trance and Techno. Preview the line-up and save it on soundcheck.
+SIGNALS - 5€ Tickets - with Bobaz Lobster, Shake Daddy & OnlyWithYou at Lokschuppen Berlin on Wed 28 Oct, Berlin. 3 artists: Bobaz Lobster, OnlyWithYou and Shake Daddy. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Smolna: Traumer at Smolna
 
-Smolna: Traumer on Sun 29 Nov, Warsaw. 1 artist on the bill: Traumer. House. Preview the line-up and save it on soundcheck.
+Smolna: Traumer on Sun 29 Nov, Warsaw. 1 artist: Traumer. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Valentino Khan at Night We Met
 
-Valentino Khan at Night We Met on Fri 4 Dec, Nashville. Techno and House. Preview the line-up and save it on soundcheck.
+Valentino Khan at Night We Met on Fri 4 Dec, Nashville. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

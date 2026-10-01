@@ -1,6 +1,6 @@
 # Selectors Support Fundraiser: Night of The Living Dead at The Jago
 
-Selectors Support Fundraiser: Night of The Living Dead at The Jago on Fri 30 Oct, London. House and Club. Preview the line-up and save it on soundcheck.
+Selectors Support Fundraiser: Night of The Living Dead at The Jago on Fri 30 Oct, London. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

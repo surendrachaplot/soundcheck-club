@@ -1,6 +1,6 @@
 # RUN DA BASS at Triangle
 
-RUN DA BASS at Triangle on Wed 14 Oct, Osaka. 3 artists on the bill: Deejay Energy, kakepon and M!ST. Bass and Acid. Preview the line-up and save it on soundcheck.
+RUN DA BASS at Triangle on Wed 14 Oct, Osaka. 3 artists: Deejay Energy, kakepon and M!ST. Bass and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

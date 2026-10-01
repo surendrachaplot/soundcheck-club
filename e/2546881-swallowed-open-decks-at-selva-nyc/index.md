@@ -1,6 +1,6 @@
 # Swallowed Open Decks at Selva NYC
 
-Swallowed Open Decks at Selva NYC on Tue 6 Oct, New York City. 2 artists on the bill: DJ girlcrush and Lezzie. Preview the line-up and save it on soundcheck.
+Swallowed Open Decks at Selva NYC on Tue 6 Oct, New York City. 2 artists: DJ girlcrush and Lezzie. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

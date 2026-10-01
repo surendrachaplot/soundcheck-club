@@ -1,6 +1,6 @@
 # Forma 404 at TBA - Madrid 15, Colonia Tabacalera, CDMX
 
-Forma 404 at TBA - Madrid 15, Colonia Tabacalera, CDMX on Sat 3 Oct, Mexico City. 9 artists on the bill: Animam, Bastard Love, DJ Plead and EM2K and 5 more. House and Hard Drum. Preview the line-up and save it on soundcheck.
+Forma 404 at TBA - Madrid 15, Colonia Tabacalera, CDMX on Sat 3 Oct, Mexico City. 9 artists: Animam, Bastard Love, DJ Plead and EM2K and 5 more. House and Hard Drum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

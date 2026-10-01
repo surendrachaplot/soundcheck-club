@@ -1,6 +1,6 @@
 # Takaaki Itoh (Wols /JAP), THEGOD01 (Humanoid Gods /IT), Adler (WRD /IT) at Azimut Club
 
-Takaaki Itoh (Wols /JAP), THEGOD01 (Humanoid Gods /IT), Adler (WRD /IT) at Azimut Club on Sat 10 Oct, Turin. 2 artists on the bill: Takaaki Itoh and THEGOD01. Techno. Preview the line-up and save it on soundcheck.
+Takaaki Itoh (Wols /JAP), THEGOD01 (Humanoid Gods /IT), Adler (WRD /IT) at Azimut Club on Sat 10 Oct, Turin. 2 artists: Takaaki Itoh and THEGOD01. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

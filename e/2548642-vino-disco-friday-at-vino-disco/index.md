@@ -1,6 +1,6 @@
 # Vino Disco FRIDAY at Vino Disco
 
-Vino Disco FRIDAY on Fri 2 Oct, Montreal. 1 artist on the bill: Latour. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Vino Disco FRIDAY on Fri 2 Oct, Montreal. 1 artist: Latour. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

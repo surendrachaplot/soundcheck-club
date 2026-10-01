@@ -1,6 +1,6 @@
 # Dancephony – EDM-Rave mit Mr.Da-Nos & Zürcher Filmorchester at Volkshaus Zürich
 
-Dancephony – EDM-Rave mit Mr.Da-Nos & Zürcher Filmorchester at Volkshaus Zürich on Sat 7 Nov, Zurich. House and Pop. Preview the line-up and save it on soundcheck.
+Dancephony – EDM-Rave mit Mr.Da-Nos & Zürcher Filmorchester at Volkshaus Zürich on Sat 7 Nov, Zurich. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

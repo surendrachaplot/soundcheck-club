@@ -1,6 +1,6 @@
 # Pencil All Night Long at MÄX
 
-Pencil All Night Long at MÄX on Fri 27 Nov, Zurich. Techno. Preview the line-up and save it on soundcheck.
+Pencil All Night Long at MÄX on Fri 27 Nov, Zurich. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

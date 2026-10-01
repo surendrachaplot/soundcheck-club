@@ -1,6 +1,6 @@
 # TIGER MIA 'GOD POURING NEON' ASIA TOUR 2026 _ VOL.3 -THAILAND at Bangkok Island
 
-TIGER MIA 'GOD POURING NEON' ASIA TOUR 2026 _ VOL.3 -THAILAND at Bangkok Island on Fri 16 Oct, Bangkok. Hardcore. Preview the line-up and save it on soundcheck.
+TIGER MIA 'GOD POURING NEON' ASIA TOUR 2026 _ VOL.3 -THAILAND at Bangkok Island on Fri 16 Oct, Bangkok. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

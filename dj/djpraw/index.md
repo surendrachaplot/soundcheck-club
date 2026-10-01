@@ -1,8 +1,8 @@
 # DJ Praw
 
-DJ Praw is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+DJ Praw is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
 
-DJ Praw is a house and electro artist based in Thailand, tracked on soundcheck, with 21 sets logged across Bangkok. Often billed alongside DJ Krit Morton, Yoongying and Brent Burns. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
+DJ Praw is a house and electro artist based in Thailand, with 21 gigs on soundcheck across Bangkok. Often billed alongside DJ Krit Morton, Yoongying and Brent Burns. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ Praw is a house and electro artist based in Thailand, tracked on soundcheck, 
 
 ## Recently played
 
-- Bar Temp., Bangkok — Wed, 8 Jul 2026
-- Siwilai Radical Club, Bangkok — Sat, 11 Oct 2025
-- Siwilai Radical Club, Bangkok — Sat, 20 Sept 2025
-- Clutch, Warehouse Bangkok, Bangkok — Sun, 13 Apr 2025
-- Blaq Lyte Rover, Bangkok — Sun, 30 Mar 2025
-- Blaq Lyte Rover, Bangkok — Sat, 29 Mar 2025
-- Beam, Bangkok — Sat, 22 Feb 2025
-- Studio Lam, Bangkok — Sat, 22 Feb 2025
+- Bar Temp., Bangkok · Wed, 8 Jul 2026
+- Siwilai Radical Club, Bangkok · Sat, 11 Oct 2025
+- Siwilai Radical Club, Bangkok · Sat, 20 Sept 2025
+- Clutch, Warehouse Bangkok, Bangkok · Sun, 13 Apr 2025
+- Blaq Lyte Rover, Bangkok · Sun, 30 Mar 2025
+- Blaq Lyte Rover, Bangkok · Sat, 29 Mar 2025
+- Beam, Bangkok · Sat, 22 Feb 2025
+- Studio Lam, Bangkok · Sat, 22 Feb 2025
 
 ## Shares bills with
 

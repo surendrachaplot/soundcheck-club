@@ -1,6 +1,6 @@
 # DUBSTATE at TBA
 
-DUBSTATE at TBA on Fri 20 Nov, Manchester. Bass and Experimental. Preview the line-up and save it on soundcheck.
+DUBSTATE at TBA on Fri 20 Nov, Manchester. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

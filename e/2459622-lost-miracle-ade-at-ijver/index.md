@@ -1,6 +1,6 @@
 # Lost Miracle ADE at Ijver
 
-Lost Miracle ADE at Ijver on Sun 25 Oct, Amsterdam. 2 artists on the bill: Roy Rosenfeld and Sebastien Leger. Progressive House and House. Preview the line-up and save it on soundcheck.
+Lost Miracle ADE at Ijver on Sun 25 Oct, Amsterdam. 2 artists: Roy Rosenfeld and Sebastien Leger. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

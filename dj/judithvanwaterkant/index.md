@@ -1,8 +1,8 @@
 # Judith van Waterkant
 
-Judith van Waterkant is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Turtur, Hamburg on Fri, 30 Oct 2026.
+Judith van Waterkant is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Turtur, Hamburg on Fri, 30 Oct 2026.
 
-Judith van Waterkant is a house and techno artist based in Germany, tracked on soundcheck, with 57 sets logged across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside Danilo Kupfernagel, Intaktogene and Alma Linda. Next up: Turtur, Hamburg on Fri 30 Oct.
+Judith van Waterkant is a house and techno artist based in Germany, with 57 gigs on soundcheck across Berlin, Cologne, Copenhagen and Frankfurt and 6 more. Often billed alongside Danilo Kupfernagel, Intaktogene and Alma Linda. Next up: Turtur, Hamburg on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Judith van Waterkant is a house and techno artist based in Germany, tracked on s
 
 ## Recently played
 
-- Jonny Knüppel, Berlin — Sat, 12 Sept 2026
-- gART.n, Berlin — Sun, 16 Aug 2026
-- Odonien, Cologne — Wed, 3 Jun 2026
-- Zuckerzauber, Berlin — Fri, 8 May 2026
-- ://about blank, Berlin — Sun, 3 May 2026
-- H15 Scene & Studio, Copenhagen — Sat, 28 Mar 2026
-- Südpol, Hamburg — Sat, 28 Mar 2026
-- TBA - Kulturkosmos, Berlin — Sat, 7 Mar 2026
+- Jonny Knüppel, Berlin · Sat, 12 Sept 2026
+- gART.n, Berlin · Sun, 16 Aug 2026
+- Odonien, Cologne · Wed, 3 Jun 2026
+- Zuckerzauber, Berlin · Fri, 8 May 2026
+- ://about blank, Berlin · Sun, 3 May 2026
+- H15 Scene & Studio, Copenhagen · Sat, 28 Mar 2026
+- Südpol, Hamburg · Sat, 28 Mar 2026
+- TBA - Kulturkosmos, Berlin · Sat, 7 Mar 2026
 
 ## Shares bills with
 

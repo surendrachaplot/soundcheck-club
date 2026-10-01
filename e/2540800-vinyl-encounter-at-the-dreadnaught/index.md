@@ -1,6 +1,6 @@
 # Vinyl Encounter at The Dreadnaught
 
-Vinyl Encounter at The Dreadnaught on Sun 4 Oct, Edinburgh. Hip-Hop and Dub. Preview the line-up and save it on soundcheck.
+Vinyl Encounter at The Dreadnaught on Sun 4 Oct, Edinburgh. Hip-Hop and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

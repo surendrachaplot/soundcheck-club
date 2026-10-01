@@ -1,8 +1,8 @@
 # Bar IDA
 
-Bar IDA is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "4KORDA4: mance (NL)" on Fri, 16 Oct 2026.
+Bar IDA is a music venue in Tallinn with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "4KORDA4: mance (NL)" on Fri, 16 Oct 2026.
 
-Bar IDA is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-ups including mance and Tanel Mütt. Browse upcoming dates, start times and who's playing. Telliskivi tn 60a/5, 10412 Tallinn.
+Bar IDA is a music venue in Tallinn listed on soundcheck. 2 upcoming gigs, with line-ups including mance and Tanel Mütt. See dates, start times and who's playing. Telliskivi tn 60a/5, 10412 Tallinn.
 
 ## What's on
 

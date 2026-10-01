@@ -1,8 +1,8 @@
 # Avalon Emerson
 
-Avalon Emerson is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Avalon Emerson is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-Avalon Emerson is a techno and house artist based in United States of America, tracked on soundcheck, with 185 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+Avalon Emerson is a techno and house artist based in United States of America, with 185 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Sedef Adasï, BASHKKA and Aurora Halal. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Avalon Emerson is a techno and house artist based in United States of America, t
 
 ## Recently played
 
-- Potato Head Beach Club, Bali — Sat, 26 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Sleeping Village, Chicago — Tue, 15 Sept 2026
-- Fortune Sound Club, Vancouver — Thu, 6 Aug 2026
-- MS Artville, Hamburg — Sat, 18 Jul 2026
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 11 Jul 2026
-- Nitsa Club, Barcelona — Fri, 10 Jul 2026
+- Potato Head Beach Club, Bali · Sat, 26 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Sleeping Village, Chicago · Tue, 15 Sept 2026
+- Fortune Sound Club, Vancouver · Thu, 6 Aug 2026
+- MS Artville, Hamburg · Sat, 18 Jul 2026
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 11 Jul 2026
+- Nitsa Club, Barcelona · Fri, 10 Jul 2026
 
 ## Shares bills with
 

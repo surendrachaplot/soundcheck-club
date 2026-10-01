@@ -1,6 +1,6 @@
 # KHIDI: Ancient Methods, Alexandra, Demuja, Sevda at KHIDI
 
-KHIDI: Ancient Methods, Alexandra, Demuja, Sevda on Fri 16 Oct, Tbilisi. 4 artists on the bill: Alexandra (GE), Ancient Methods, Demuja and Sevda. Preview the line-up and save it on soundcheck.
+KHIDI: Ancient Methods, Alexandra, Demuja, Sevda on Fri 16 Oct, Tbilisi. 4 artists: Alexandra (GE), Ancient Methods, Demuja and Sevda. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

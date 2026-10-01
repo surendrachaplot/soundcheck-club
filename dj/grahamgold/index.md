@@ -1,8 +1,8 @@
 # Graham Gold
 
-Graham Gold is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Hidden, Manchester on Sat, 28 Nov 2026.
+Graham Gold is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hidden, Manchester on Sat, 28 Nov 2026.
 
-Graham Gold is an electronica and house artist based in Thailand, tracked on soundcheck, with 10 sets logged across Brighton, Ibiza, London and Manchester. Often billed alongside Edele Andaya, Chris Bayne and K-Klass. Next up: Hidden, Manchester on Sat 28 Nov.
+Graham Gold is an electronica and house artist based in Thailand, with 10 gigs on soundcheck across Brighton, Ibiza, London and Manchester. Often billed alongside Edele Andaya, Chris Bayne and K-Klass. Next up: Hidden, Manchester on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Graham Gold is an electronica and house artist based in Thailand, tracked on sou
 
 ## Recently played
 
-- fabric, London — Sat, 22 Nov 2025
-- 528 Ibiza, Ibiza — Sat, 23 Aug 2025
-- Eden, Ibiza — Thu, 21 Aug 2025
-- Eden, Ibiza — Thu, 21 Aug 2025
-- The Arch, Brighton — Wed, 21 May 2025
-- Ministry Of Sound, London — Sat, 5 Apr 2025
-- fabric, London — Sat, 23 Nov 2024
-- Eden, Ibiza — Sun, 19 May 2024
+- fabric, London · Sat, 22 Nov 2025
+- 528 Ibiza, Ibiza · Sat, 23 Aug 2025
+- Eden, Ibiza · Thu, 21 Aug 2025
+- Eden, Ibiza · Thu, 21 Aug 2025
+- The Arch, Brighton · Wed, 21 May 2025
+- Ministry Of Sound, London · Sat, 5 Apr 2025
+- fabric, London · Sat, 23 Nov 2024
+- Eden, Ibiza · Sun, 19 May 2024
 
 ## Shares bills with
 

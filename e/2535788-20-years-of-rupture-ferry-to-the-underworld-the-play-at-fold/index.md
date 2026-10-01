@@ -1,6 +1,6 @@
 # 20 Years of Rupture (Ferry to the Underworld - The Play) at FOLD
 
-20 Years of Rupture (Ferry to the Underworld - The Play) at FOLD on Fri 20 Nov, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+20 Years of Rupture (Ferry to the Underworld - The Play) at FOLD on Fri 20 Nov, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

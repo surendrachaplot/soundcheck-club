@@ -1,6 +1,6 @@
 # Rauschfrei at TBA - Kiezspinne FAS
 
-Rauschfrei at TBA - Kiezspinne FAS on Sat 3 Oct, Berlin. Techno and Electro. Preview the line-up and save it on soundcheck.
+Rauschfrei at TBA - Kiezspinne FAS on Sat 3 Oct, Berlin. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

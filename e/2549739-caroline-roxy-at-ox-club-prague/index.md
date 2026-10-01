@@ -1,6 +1,6 @@
 # CAROLINE ROXY at OX Club Prague
 
-CAROLINE ROXY at OX Club Prague on Sat 14 Nov, Prague. Trance and Techno. Preview the line-up and save it on soundcheck.
+CAROLINE ROXY at OX Club Prague on Sat 14 Nov, Prague. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

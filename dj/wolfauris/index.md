@@ -1,8 +1,8 @@
 # Wolf Auris
 
-Wolf Auris is a Tech House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Wolf Auris is a Tech House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-Wolf Auris is a tech house and garage artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Amsterdam and London. Often billed alongside Solartrak, Huck Finn and Shady Lady. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Wolf Auris is a tech house and garage artist based in United Kingdom, with 16 gigs on soundcheck across Amsterdam and London. Often billed alongside Solartrak, Huck Finn and Shady Lady. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Wolf Auris is a tech house and garage artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- 93 Feet East, London — Sat, 2 May 2026
-- TBA, Amsterdam — Fri, 27 Mar 2026
-- KOKO, London — Sat, 14 Feb 2026
-- Fire & Lightbox, London — Sat, 1 Nov 2025
-- Studio 338, London — Sat, 16 Aug 2025
-- KOKO, London — Sat, 15 Feb 2025
-- 93 Feet East, London — Sat, 2 Nov 2024
-- 93 Feet East, London — Sat, 27 Jul 2024
+- 93 Feet East, London · Sat, 2 May 2026
+- TBA, Amsterdam · Fri, 27 Mar 2026
+- KOKO, London · Sat, 14 Feb 2026
+- Fire & Lightbox, London · Sat, 1 Nov 2025
+- Studio 338, London · Sat, 16 Aug 2025
+- KOKO, London · Sat, 15 Feb 2025
+- 93 Feet East, London · Sat, 2 Nov 2024
+- 93 Feet East, London · Sat, 27 Jul 2024
 
 ## Shares bills with
 

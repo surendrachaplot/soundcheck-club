@@ -1,8 +1,8 @@
 # Strategy
 
-Strategy is a Drum & Bass and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 7 Nov 2026.
+Strategy is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 7 Nov 2026.
 
-Strategy is a drum & bass and bass artist based in United States of America, tracked on soundcheck, with 49 sets logged across Bristol, Chicago, Leeds and London and 9 more. Often billed alongside Chimpo, Rich Reason and Cesco. Next up: DRUMSHEDS, London on Sat 7 Nov.
+Strategy is a drum & bass and bass artist based in United States of America, with 49 gigs on soundcheck across Bristol, Chicago, Leeds and London and 9 more. Often billed alongside Chimpo, Rich Reason and Cesco. Next up: DRUMSHEDS, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Strategy is a drum & bass and bass artist based in United States of America, tra
 
 ## Recently played
 
-- The Prospect Building, Bristol — Sat, 8 Aug 2026
-- Silverworks Island, London — Sun, 5 Jul 2026
-- Heaton Park, Manchester — Sat, 20 Jun 2026
-- Six Trees Bar And Kitchen Manchester, Manchester — Sat, 6 Jun 2026
-- IDRA, Manchester — Sat, 23 May 2026
-- Process PDX, Portland — Fri, 3 Apr 2026
-- TBA - FUR 5820 N Figueroa Ave, Los Angeles — Sat, 21 Mar 2026
-- Stage and Radio, Manchester — Sat, 14 Mar 2026
+- The Prospect Building, Bristol · Sat, 8 Aug 2026
+- Silverworks Island, London · Sun, 5 Jul 2026
+- Heaton Park, Manchester · Sat, 20 Jun 2026
+- Six Trees Bar And Kitchen Manchester, Manchester · Sat, 6 Jun 2026
+- IDRA, Manchester · Sat, 23 May 2026
+- Process PDX, Portland · Fri, 3 Apr 2026
+- TBA - FUR 5820 N Figueroa Ave, Los Angeles · Sat, 21 Mar 2026
+- Stage and Radio, Manchester · Sat, 14 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # DISCO NOT DISCO | Fafik at BARdzo bardzo
 
-DISCO NOT DISCO | Fafik at BARdzo bardzo on Fri 2 Oct, Warsaw. House and Disco. Preview the line-up and save it on soundcheck.
+DISCO NOT DISCO | Fafik at BARdzo bardzo on Fri 2 Oct, Warsaw. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # RUZE
 
-RUZE is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+RUZE is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-RUZE is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+RUZE is a house and tech house artist based in United Kingdom, with 123 gigs on soundcheck across Amsterdam, Austin, Bali and Barcelona and 27 more. Often billed alongside Prunk, Kellie Allen and Robbie Doherty. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ RUZE is a house and tech house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Binks Yard, Nottingham — Sat, 26 Sept 2026
-- World Headquarters, Newcastle — Fri, 25 Sept 2026
-- DRUMSHEDS, London — Sat, 19 Sept 2026
-- Hï Ibiza, Ibiza — Wed, 16 Sept 2026
-- FORGE, Sheffield — Sat, 5 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 3 Sept 2026
-- Hornblower Spirit, San Francisco/Oakland — Sat, 22 Aug 2026
-- Elsewhere, New York City — Fri, 21 Aug 2026
+- Binks Yard, Nottingham · Sat, 26 Sept 2026
+- World Headquarters, Newcastle · Fri, 25 Sept 2026
+- DRUMSHEDS, London · Sat, 19 Sept 2026
+- Hï Ibiza, Ibiza · Wed, 16 Sept 2026
+- FORGE, Sheffield · Sat, 5 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 3 Sept 2026
+- Hornblower Spirit, San Francisco/Oakland · Sat, 22 Aug 2026
+- Elsewhere, New York City · Fri, 21 Aug 2026
 
 ## Shares bills with
 

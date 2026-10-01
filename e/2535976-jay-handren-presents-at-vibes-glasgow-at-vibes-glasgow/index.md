@@ -1,6 +1,6 @@
 # Jay Handren presents at Vibes Glasgow at Vibes Glasgow
 
-Jay Handren presents at Vibes Glasgow on Sat 17 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+Jay Handren presents at Vibes Glasgow on Sat 17 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

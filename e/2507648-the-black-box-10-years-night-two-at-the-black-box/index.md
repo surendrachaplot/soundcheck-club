@@ -1,6 +1,6 @@
 # The Black Box: 10 Years (Night Two) at The Black Box
 
-The Black Box: 10 Years (Night Two) on Sat 21 Nov, Denver. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+The Black Box: 10 Years (Night Two) on Sat 21 Nov, Denver. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

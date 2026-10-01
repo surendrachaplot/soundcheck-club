@@ -1,6 +1,6 @@
 # REDZONE at Club04
 
-REDZONE at Club04 on Fri 16 Oct, Zurich. 3 artists on the bill: mvdi, Patrik Widmer and Tin Tin. Preview the line-up and save it on soundcheck.
+REDZONE at Club04 on Fri 16 Oct, Zurich. 3 artists: mvdi, Patrik Widmer and Tin Tin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

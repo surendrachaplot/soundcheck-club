@@ -1,6 +1,6 @@
 # Ministry Of Sound, The Halloween Rave 2026 at Ministry Of Sound
 
-Ministry Of Sound, The Halloween Rave 2026 on Thu 29 Oct, London. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Ministry Of Sound, The Halloween Rave 2026 on Thu 29 Oct, London. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

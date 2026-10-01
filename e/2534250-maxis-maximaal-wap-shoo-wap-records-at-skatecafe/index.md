@@ -1,6 +1,6 @@
 # MAXIS MAXIMAAL / WAP SHOO WAP RECORDS at Skatecafe
 
-MAXIS MAXIMAAL / WAP SHOO WAP RECORDS at Skatecafe on Fri 16 Oct, Amsterdam. Bass and Dub. Preview the line-up and save it on soundcheck.
+MAXIS MAXIMAAL / WAP SHOO WAP RECORDS at Skatecafe on Fri 16 Oct, Amsterdam. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

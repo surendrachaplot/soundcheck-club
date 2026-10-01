@@ -1,6 +1,6 @@
 # La Seine Balearique #18 - LSB Invite Versatile - Week-End De Closing at Plantation Paris
 
-La Seine Balearique #18 - LSB Invite Versatile - Week-End De Closing at Plantation Paris on Fri 16 Oct, Paris. 4 artists on the bill: Gilb'R, JPYE, MALKÖ and Richard Fribert. House and Balearic. Preview the line-up and save it on soundcheck.
+La Seine Balearique #18 - LSB Invite Versatile - Week-End De Closing at Plantation Paris on Fri 16 Oct, Paris. 4 artists: Gilb'R, JPYE, MALKÖ and Richard Fribert. House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

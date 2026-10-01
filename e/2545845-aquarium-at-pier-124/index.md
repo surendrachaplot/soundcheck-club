@@ -1,6 +1,6 @@
 # Aquarium at Pier 124
 
-Aquarium at Pier 124 on Thu 1 Oct, Cologne. Breakbeat and House. Preview the line-up and save it on soundcheck.
+Aquarium at Pier 124 on Thu 1 Oct, Cologne. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

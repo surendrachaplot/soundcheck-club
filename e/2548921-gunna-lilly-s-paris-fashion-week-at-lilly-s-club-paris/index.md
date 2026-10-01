@@ -1,6 +1,6 @@
 # GUNNA - LILLY'S PARIS FASHION WEEK at Lilly''s Club Paris
 
-GUNNA - LILLY'S PARIS FASHION WEEK at Lilly''s Club Paris on Fri 2 Oct, Paris. Hip-Hop. Preview the line-up and save it on soundcheck.
+GUNNA - LILLY'S PARIS FASHION WEEK at Lilly''s Club Paris on Fri 2 Oct, Paris. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

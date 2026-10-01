@@ -1,8 +1,8 @@
 # Mars89
 
-Mars89 is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Traffic, Tokyo on Sat, 3 Oct 2026.
+Mars89 is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Traffic, Tokyo on Sat, 3 Oct 2026.
 
-Mars89 is a techno and bass artist based in Japan, tracked on soundcheck, with 113 sets logged across Berlin, Kyoto, London and Osaka and 5 more. Often billed alongside ykah, TEI TEI and the2$. Next up: Traffic, Tokyo on Sat 3 Oct.
+Mars89 is a techno and bass artist based in Japan, with 113 gigs on soundcheck across Berlin, Kyoto, London and Osaka and 5 more. Often billed alongside ykah, TEI TEI and the2$. Next up: Traffic, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Mars89 is a techno and bass artist based in Japan, tracked on soundcheck, with 1
 
 ## Recently played
 
-- Mitsuki, Tokyo — Sat, 26 Sept 2026
-- VENT, Tokyo — Sat, 19 Sept 2026
-- Just Another Space, Tokyo — Tue, 8 Sept 2026
-- Circus Tokyo, Tokyo — Fri, 4 Sept 2026
-- MIDNIGHT EAST, Tokyo — Sat, 29 Aug 2026
-- Enter Shibuya, Tokyo — Thu, 20 Aug 2026
-- MIDNIGHT EAST, Tokyo — Fri, 31 Jul 2026
-- Spread, Tokyo — Sat, 25 Jul 2026
+- Mitsuki, Tokyo · Sat, 26 Sept 2026
+- VENT, Tokyo · Sat, 19 Sept 2026
+- Just Another Space, Tokyo · Tue, 8 Sept 2026
+- Circus Tokyo, Tokyo · Fri, 4 Sept 2026
+- MIDNIGHT EAST, Tokyo · Sat, 29 Aug 2026
+- Enter Shibuya, Tokyo · Thu, 20 Aug 2026
+- MIDNIGHT EAST, Tokyo · Fri, 31 Jul 2026
+- Spread, Tokyo · Sat, 25 Jul 2026
 
 ## Shares bills with
 

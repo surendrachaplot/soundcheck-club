@@ -1,6 +1,6 @@
 # Sammeln at Débris
 
-Sammeln at Débris on Sat 17 Oct, Tokyo. 4 artists on the bill: fotprt, KAIKAI, MAO and SIGNAL (JP). Techno and House. Preview the line-up and save it on soundcheck.
+Sammeln at Débris on Sat 17 Oct, Tokyo. 4 artists: fotprt, KAIKAI, MAO and SIGNAL (JP). Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

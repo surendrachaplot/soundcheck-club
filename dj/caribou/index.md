@@ -1,8 +1,8 @@
 # Caribou
 
-Caribou is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Capitol Theatre, Singapore on Sat, 28 Nov 2026.
+Caribou is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Capitol Theatre, Singapore on Sat, 28 Nov 2026.
 
-Caribou is a house and electronica artist based in Canada, tracked on soundcheck, with 45 sets logged across Amsterdam, Athens, Belfast and Berlin and 24 more. Often billed alongside Floating Points, Anyma and Blawan. Next up: Capitol Theatre, Singapore on Sat 28 Nov.
+Caribou is a house and electronica artist based in Canada, with 45 gigs on soundcheck across Amsterdam, Athens, Belfast and Berlin and 24 more. Often billed alongside Floating Points, Anyma and Blawan. Next up: Capitol Theatre, Singapore on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Caribou is a house and electronica artist based in Canada, tracked on soundcheck
 
 ## Recently played
 
-- Glendalough Estate, Dublin — Fri, 12 Jun 2026
-- Sub Club, Glasgow — Sun, 3 May 2026
-- Depot Mayfield, Manchester — Sat, 13 Dec 2025
-- The Glasshouse International Centre for Music, Newcastle — Tue, 9 Dec 2025
-- The Barrowland Ballroom, Glasgow — Mon, 8 Dec 2025
-- HERE, London — Sun, 7 Dec 2025
-- HERE, London — Sun, 7 Dec 2025
-- Halle Tony Garnier, Lyon — Fri, 24 Oct 2025
+- Glendalough Estate, Dublin · Fri, 12 Jun 2026
+- Sub Club, Glasgow · Sun, 3 May 2026
+- Depot Mayfield, Manchester · Sat, 13 Dec 2025
+- The Glasshouse International Centre for Music, Newcastle · Tue, 9 Dec 2025
+- The Barrowland Ballroom, Glasgow · Mon, 8 Dec 2025
+- HERE, London · Sun, 7 Dec 2025
+- HERE, London · Sun, 7 Dec 2025
+- Halle Tony Garnier, Lyon · Fri, 24 Oct 2025
 
 ## Shares bills with
 

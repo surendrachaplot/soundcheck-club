@@ -1,8 +1,8 @@
 # Dubrunner
 
-Dubrunner is a Dub and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
+Dubrunner is a Dub and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Noord, Amsterdam on Fri, 16 Oct 2026.
 
-Dubrunner is a dub and bass artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Breaka, Yushh and Darwin. Next up: Garage Noord, Amsterdam on Fri 16 Oct.
+Dubrunner is a dub and bass artist based in United Kingdom, with 47 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 11 more. Often billed alongside Breaka, Yushh and Darwin. Next up: Garage Noord, Amsterdam on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Dubrunner is a dub and bass artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 21 Aug 2026
-- TBA - Secret Location (near Frankfurter Allee), Berlin — Wed, 29 Jul 2026
-- Renate, Berlin — Fri, 19 Jun 2026
-- ., Berlin — Sun, 31 May 2026
-- West Indian Centre, Leeds — Sun, 24 May 2026
-- Jonny Knüppel, Berlin — Sat, 25 Apr 2026
-- Ormside Projects, London — Fri, 6 Feb 2026
-- Strange Brew, Bristol — Fri, 23 Jan 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 21 Aug 2026
+- TBA - Secret Location (near Frankfurter Allee), Berlin · Wed, 29 Jul 2026
+- Renate, Berlin · Fri, 19 Jun 2026
+- ., Berlin · Sun, 31 May 2026
+- West Indian Centre, Leeds · Sun, 24 May 2026
+- Jonny Knüppel, Berlin · Sat, 25 Apr 2026
+- Ormside Projects, London · Fri, 6 Feb 2026
+- Strange Brew, Bristol · Fri, 23 Jan 2026
 
 ## Shares bills with
 

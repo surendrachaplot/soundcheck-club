@@ -1,8 +1,8 @@
 # Ferro Bar
 
-Ferro Bar is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Mister Teaser + Murrin (IE)" on Fri, 2 Oct 2026.
+Ferro Bar is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mister Teaser + Murrin (IE)" on Fri, 2 Oct 2026.
 
-Ferro Bar is a music venue in Porto listed on soundcheck. 1 upcoming gig, with line-ups including Mister Teaser and Murrin. Browse upcoming dates, start times and who's playing. R. da Madeira 84, 4000-427 Porto, Portugal.
+Ferro Bar is a music venue in Porto listed on soundcheck. 1 upcoming gig, with line-ups including Mister Teaser and Murrin. See dates, start times and who's playing. R. da Madeira 84, 4000-427 Porto, Portugal.
 
 ## What's on
 

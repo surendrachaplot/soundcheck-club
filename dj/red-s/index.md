@@ -1,8 +1,8 @@
 # RED-S
 
-RED-S is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at ZEROTOKYO, Tokyo on Fri, 2 Oct 2026.
+RED-S is a Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Fri, 2 Oct 2026.
 
-RED-S is a bass and dubstep artist based in Japan, tracked on soundcheck, with 15 sets logged across Tokyo. Often billed alongside SAKO, HiTOMi and Rikk. Next up: ZEROTOKYO, Tokyo on Fri 2 Oct.
+RED-S is a bass and dubstep artist based in Japan, with 15 gigs on soundcheck across Tokyo. Often billed alongside SAKO, HiTOMi and Rikk. Next up: ZEROTOKYO, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ RED-S is a bass and dubstep artist based in Japan, tracked on soundcheck, with 1
 
 ## Recently played
 
-- Circus Tokyo, Tokyo — Sun, 6 Sept 2026
-- ZEROTOKYO, Tokyo — Fri, 7 Aug 2026
-- Circus Tokyo, Tokyo — Mon, 20 Jul 2026
-- Circus Tokyo, Tokyo — Sat, 6 Jun 2026
-- Zerotokyo, Tokyo — Mon, 4 May 2026
-- Zerotokyo, Tokyo — Sat, 28 Mar 2026
-- Zerotokyo, Tokyo — Fri, 6 Feb 2026
-- Music Cafe Bar One's, Tokyo — Sun, 11 Jan 2026
+- Circus Tokyo, Tokyo · Sun, 6 Sept 2026
+- ZEROTOKYO, Tokyo · Fri, 7 Aug 2026
+- Circus Tokyo, Tokyo · Mon, 20 Jul 2026
+- Circus Tokyo, Tokyo · Sat, 6 Jun 2026
+- Zerotokyo, Tokyo · Mon, 4 May 2026
+- Zerotokyo, Tokyo · Sat, 28 Mar 2026
+- Zerotokyo, Tokyo · Fri, 6 Feb 2026
+- Music Cafe Bar One's, Tokyo · Sun, 11 Jan 2026
 
 ## Shares bills with
 

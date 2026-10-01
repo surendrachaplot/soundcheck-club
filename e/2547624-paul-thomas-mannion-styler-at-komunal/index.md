@@ -1,6 +1,6 @@
 # Paul Thomas, Mannion + Styler at komunal
 
-Paul Thomas, Mannion + Styler at komunal on Sat 10 Oct, Birmingham. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Paul Thomas, Mannion + Styler at komunal on Sat 10 Oct, Birmingham. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

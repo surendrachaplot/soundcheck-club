@@ -1,6 +1,6 @@
 # Lehar b2b Musumeci + BUSSI + Marwik at Klein Phönix
 
-Lehar b2b Musumeci + BUSSI + Marwik at Klein Phönix on Sat 10 Oct, Istanbul. 3 artists on the bill: BUSSI, Lehar and Musumeci. Preview the line-up and save it on soundcheck.
+Lehar b2b Musumeci + BUSSI + Marwik at Klein Phönix on Sat 10 Oct, Istanbul. 3 artists: BUSSI, Lehar and Musumeci. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

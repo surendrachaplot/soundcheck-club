@@ -1,6 +1,6 @@
 # Eros for you // VEGA at VEGA
 
-Eros for you // VEGA on Sat 7 Nov, Copenhagen. Preview the line-up and save it on soundcheck.
+Eros for you // VEGA on Sat 7 Nov, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

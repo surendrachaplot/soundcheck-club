@@ -1,6 +1,6 @@
 # El Hormiguero at EDGE at Edge Miami
 
-El Hormiguero at EDGE at Edge Miami on Sat 3 Oct, Miami. 1 artist on the bill: TRIIPEL. House and Minimal. Preview the line-up and save it on soundcheck.
+El Hormiguero at EDGE at Edge Miami on Sat 3 Oct, Miami. 1 artist: TRIIPEL. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

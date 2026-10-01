@@ -1,6 +1,6 @@
 # MAGNETIC NORTH - An Evening for Peter Christopherson & COIL at EXIT Glasgow
 
-MAGNETIC NORTH - An Evening for Peter Christopherson & COIL at EXIT Glasgow on Thu 15 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+MAGNETIC NORTH - An Evening for Peter Christopherson & COIL at EXIT Glasgow on Thu 15 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

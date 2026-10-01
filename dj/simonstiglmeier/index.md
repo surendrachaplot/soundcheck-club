@@ -1,8 +1,8 @@
 # Simon Stiglmeier
 
-Simon Stiglmeier is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
+Simon Stiglmeier is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
 
-Simon Stiglmeier is a techno and trance artist based in Germany, tracked on soundcheck, with 10 sets logged across Berlin, Nürnberg and Prague. Often billed alongside Asem Shama, Felix Reichelt and ADAMN. Next up: PKH Warehouse, Berlin on Fri 16 Oct.
+Simon Stiglmeier is a techno and trance artist based in Germany, with 10 gigs on soundcheck across Berlin, Nürnberg and Prague. Often billed alongside Asem Shama, Felix Reichelt and ADAMN. Next up: PKH Warehouse, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Simon Stiglmeier is a techno and trance artist based in Germany, tracked on soun
 
 ## Recently played
 
-- Recede Club Berlin, Berlin — Sun, 1 Sept 2024
-- Die Rakete, Nürnberg — Fri, 5 Jul 2024
-- Recede Club Berlin, Berlin — Sat, 15 Jun 2024
-- Funkloch Berlin, Berlin — Sun, 31 Dec 2023
-- Birgit, Berlin — Fri, 21 Jul 2023
-- Chapeau Rouge, Prague — Fri, 16 Jun 2023
-- Evosonic Radio, Berlin — Fri, 9 Jun 2023
-- Fitzroy, Berlin — Wed, 17 May 2023
+- Recede Club Berlin, Berlin · Sun, 1 Sept 2024
+- Die Rakete, Nürnberg · Fri, 5 Jul 2024
+- Recede Club Berlin, Berlin · Sat, 15 Jun 2024
+- Funkloch Berlin, Berlin · Sun, 31 Dec 2023
+- Birgit, Berlin · Fri, 21 Jul 2023
+- Chapeau Rouge, Prague · Fri, 16 Jun 2023
+- Evosonic Radio, Berlin · Fri, 9 Jun 2023
+- Fitzroy, Berlin · Wed, 17 May 2023
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # LoveJuice - SECRET HOUSE PARTY - Central London at Secret London Location TBA
 
-LoveJuice - SECRET HOUSE PARTY - Central London at Secret London Location TBA on Fri 9 Oct, London. House. Preview the line-up and save it on soundcheck.
+LoveJuice - SECRET HOUSE PARTY - Central London at Secret London Location TBA on Fri 9 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

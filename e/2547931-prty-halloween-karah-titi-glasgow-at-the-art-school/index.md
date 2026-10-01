@@ -1,6 +1,6 @@
 # PRTY Halloween: KARAH + TITI, Glasgow at The Art School
 
-PRTY Halloween: KARAH + TITI, Glasgow at The Art School on Fri 30 Oct, Glasgow. 2 artists on the bill: KARAH and TiTi. Techno. Preview the line-up and save it on soundcheck.
+PRTY Halloween: KARAH + TITI, Glasgow at The Art School on Fri 30 Oct, Glasgow. 2 artists: KARAH and TiTi. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

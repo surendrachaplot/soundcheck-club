@@ -1,8 +1,8 @@
 # Melody RA+RE
 
-Melody RA+RE is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+Melody RA+RE is a House and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
 
-Melody RA+RE is a house and electro artist based in France, tracked on soundcheck, with 126 sets logged across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
+Melody RA+RE is a house and electro artist based in France, with 126 gigs on soundcheck across Amsterdam, Bali, Barcelona and Berlin and 28 more. Often billed alongside Dr Banana, The Ghost and Truly Madly. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Melody RA+RE is a house and electro artist based in France, tracked on soundchec
 
 ## Recently played
 
-- Hotel Butterfly, Rome — Wed, 23 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- Public NQ, Manchester — Sat, 12 Sept 2026
-- Crate Brewery, London — Sun, 30 Aug 2026
-- essaim, Paris — Sat, 15 Aug 2026
-- BRET, Amsterdam — Fri, 14 Aug 2026
-- BRET, Amsterdam — Fri, 14 Aug 2026
-- The Fox and Firkin, London — Sat, 1 Aug 2026
+- Hotel Butterfly, Rome · Wed, 23 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- Public NQ, Manchester · Sat, 12 Sept 2026
+- Crate Brewery, London · Sun, 30 Aug 2026
+- essaim, Paris · Sat, 15 Aug 2026
+- BRET, Amsterdam · Fri, 14 Aug 2026
+- BRET, Amsterdam · Fri, 14 Aug 2026
+- The Fox and Firkin, London · Sat, 1 Aug 2026
 
 ## Shares bills with
 

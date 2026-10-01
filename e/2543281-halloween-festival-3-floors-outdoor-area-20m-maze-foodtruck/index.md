@@ -1,6 +1,6 @@
 # Halloween-Festival | 3 Floors | Outdoor Area | 20m Maze | Foodtruck | Actors at Komplex Berlin
 
-Halloween-Festival | 3 Floors | Outdoor Area | 20m Maze | Foodtruck | Actors at Komplex Berlin on Fri 30 Oct, Berlin. Techno and Club. Preview the line-up and save it on soundcheck.
+Halloween-Festival | 3 Floors | Outdoor Area | 20m Maze | Foodtruck | Actors at Komplex Berlin on Fri 30 Oct, Berlin. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

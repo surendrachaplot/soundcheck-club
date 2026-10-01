@@ -1,6 +1,6 @@
 # Electron OPEN AIR x Collectif 52 at Open Air Genève
 
-Electron OPEN AIR x Collectif 52 at Open Air Genève on Sat 3 Oct, Geneva. 3 artists on the bill: Dirty Channels, MiNNA and Olive T. Preview the line-up and save it on soundcheck.
+Electron OPEN AIR x Collectif 52 at Open Air Genève on Sat 3 Oct, Geneva. 3 artists: Dirty Channels, MiNNA and Olive T. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Horns & Bricks at NAMA - Nuovo Anfiteatro Martesana
 
-Horns & Bricks at NAMA - Nuovo Anfiteatro Martesana on Fri 16 Oct, Milan. 1 artist on the bill: Obso. Bass and Dub. Preview the line-up and save it on soundcheck.
+Horns & Bricks at NAMA - Nuovo Anfiteatro Martesana on Fri 16 Oct, Milan. 1 artist: Obso. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

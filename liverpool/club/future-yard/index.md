@@ -1,8 +1,8 @@
 # Future Yard
 
-Future Yard is a music venue in Liverpool with 22 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "James Lavelle (UNKLE/MO'WAX)" on Sat, 3 Oct 2026.
+Future Yard is a music venue in Liverpool with 22 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "James Lavelle (UNKLE/MO'WAX)" on Sat, 3 Oct 2026.
 
-Future Yard is a music venue in Liverpool listed on soundcheck. 22 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and James Lavelle and 2 more. Browse upcoming dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
+Future Yard is a music venue in Liverpool listed on soundcheck. 22 upcoming gigs, with line-ups including African Head Charge, Bodega, corto.alto and James Lavelle and 2 more. See dates, start times and who's playing. 75 Argyle Street, Birkenhead, Merseyside, CH41 6AB.
 
 ## What's on
 

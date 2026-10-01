@@ -1,8 +1,8 @@
 # Black Bear Lodge
 
-Black Bear Lodge is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "APPARATUS" on Sun, 4 Oct 2026.
+Black Bear Lodge is a music venue in Brisbane with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "APPARATUS" on Sun, 4 Oct 2026.
 
-Black Bear Lodge is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Asha Franco, Michael Mayer, Phil Smart and Roadw3rx. Browse upcoming dates, start times and who's playing. Level 1 322 Brunswick Street, Fortitude Valley Mall, Brisbane, Queensland, Australia 4006.
+Black Bear Lodge is a music venue in Brisbane listed on soundcheck. 2 upcoming gigs, with line-ups including Asha Franco, Michael Mayer, Phil Smart and Roadw3rx. See dates, start times and who's playing. Level 1 322 Brunswick Street, Fortitude Valley Mall, Brisbane, Queensland, Australia 4006.
 
 ## What's on
 

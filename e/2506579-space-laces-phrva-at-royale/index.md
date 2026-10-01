@@ -1,6 +1,6 @@
 # Space Laces, PHRVA at Royale
 
-Space Laces, PHRVA at Royale on Sat 21 Nov, Boston. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Space Laces, PHRVA at Royale on Sat 21 Nov, Boston. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

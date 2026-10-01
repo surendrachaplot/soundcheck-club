@@ -1,6 +1,6 @@
 # KENZi by Day - ADE Edition at Mr Watson
 
-KENZi by Day - ADE Edition at Mr Watson on Fri 23 Oct, Amsterdam. 2 artists on the bill: KARKÂDÉ and SOROUSH. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+KENZi by Day - ADE Edition at Mr Watson on Fri 23 Oct, Amsterdam. 2 artists: KARKÂDÉ and SOROUSH. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

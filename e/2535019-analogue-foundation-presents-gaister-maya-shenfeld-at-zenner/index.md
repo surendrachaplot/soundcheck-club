@@ -1,6 +1,6 @@
 # Analogue Foundation presents Gaister & Maya Shenfeld at ZENNER
 
-Analogue Foundation presents Gaister & Maya Shenfeld at ZENNER on Fri 6 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Analogue Foundation presents Gaister & Maya Shenfeld at ZENNER on Fri 6 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

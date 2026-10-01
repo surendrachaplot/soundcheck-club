@@ -1,6 +1,6 @@
 # CLUB PIVETE: HALLOWEEN at TBA - DTLA
 
-CLUB PIVETE: HALLOWEEN at TBA - DTLA on Sat 24 Oct, Los Angeles. Baile Funk and Club. Preview the line-up and save it on soundcheck.
+CLUB PIVETE: HALLOWEEN at TBA - DTLA on Sat 24 Oct, Los Angeles. Baile Funk and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

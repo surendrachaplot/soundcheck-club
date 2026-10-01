@@ -1,6 +1,6 @@
 # Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Special Guest at The Great Northern
 
-Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Special Guest at The Great Northern on Fri 6 Nov, San Francisco/Oakland. 1 artist on the bill: EQ (Estratosfera + Qiri). Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Mostly Cloudy x Second Skin: EQ [Live] (Argentina) + Special Guest at The Great Northern on Fri 6 Nov, San Francisco/Oakland. 1 artist: EQ (Estratosfera + Qiri). Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

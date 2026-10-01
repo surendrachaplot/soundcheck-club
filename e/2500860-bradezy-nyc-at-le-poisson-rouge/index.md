@@ -1,6 +1,6 @@
 # bradezy - NYC at Le Poisson Rouge
 
-bradezy - NYC at Le Poisson Rouge on Fri 30 Oct, New York City. 1 artist on the bill: bradeazy. Preview the line-up and save it on soundcheck.
+bradezy - NYC at Le Poisson Rouge on Fri 30 Oct, New York City. 1 artist: bradeazy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

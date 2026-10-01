@@ -1,6 +1,6 @@
 # Circles: Moodymann at The Bernard Shaw
 
-Circles: Moodymann at The Bernard Shaw on Fri 16 Oct, Dublin. 3 artists on the bill: Moodymann, Sahana and Surka. House and Disco. Preview the line-up and save it on soundcheck.
+Circles: Moodymann at The Bernard Shaw on Fri 16 Oct, Dublin. 3 artists: Moodymann, Sahana and Surka. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

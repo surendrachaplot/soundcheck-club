@@ -1,6 +1,6 @@
 # Deep Listening at Moondog Hifi
 
-Deep Listening at Moondog Hifi on Tue 6 Oct, New York City. Preview the line-up and save it on soundcheck.
+Deep Listening at Moondog Hifi on Tue 6 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Shadysnack
 
-Shadysnack is a Progressive House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
+Shadysnack is a Progressive House and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at KREUZWERK, Berlin on Sat, 31 Oct 2026.
 
-Shadysnack is a progressive house and club artist based in Germany, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside BOYCA, Khloe and Dirty Daddy Don. Next up: KREUZWERK, Berlin on Sat 31 Oct.
+Shadysnack is a progressive house and club artist based in Germany, with 34 gigs on soundcheck across Amsterdam, Berlin, Cologne and Hamburg and 3 more. Often billed alongside BOYCA, Khloe and Dirty Daddy Don. Next up: KREUZWERK, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Shadysnack is a progressive house and club artist based in Germany, tracked on s
 
 ## Recently played
 
-- KREUZWERK, Berlin — Sat, 19 Sept 2026
-- RADION, Amsterdam — Sat, 8 Aug 2026
-- Komplex Berlin, Berlin — Sat, 25 Jul 2026
-- La Station - Gare des Mines, Paris — Sat, 25 Jul 2026
-- Tresor / Globus, Berlin — Wed, 22 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
-- M01, Berlin — Fri, 29 May 2026
-- Void Hall, Berlin — Sat, 23 May 2026
+- KREUZWERK, Berlin · Sat, 19 Sept 2026
+- RADION, Amsterdam · Sat, 8 Aug 2026
+- Komplex Berlin, Berlin · Sat, 25 Jul 2026
+- La Station - Gare des Mines, Paris · Sat, 25 Jul 2026
+- Tresor / Globus, Berlin · Wed, 22 Jul 2026
+- Ferropolis, Leipzig · Fri, 17 Jul 2026
+- M01, Berlin · Fri, 29 May 2026
+- Void Hall, Berlin · Sat, 23 May 2026
 
 ## Shares bills with
 

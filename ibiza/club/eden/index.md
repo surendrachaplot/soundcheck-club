@@ -1,8 +1,8 @@
 # Eden
 
-Eden is a music venue in Ibiza with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "IBIZA SOCA FESTIVAL DAY 1" on Thu, 1 Oct 2026.
+Eden is a music venue in Ibiza with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "IBIZA SOCA FESTIVAL DAY 1" on Thu, 1 Oct 2026.
 
-Eden is a music venue in Ibiza listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
+Eden is a music venue in Ibiza listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing. Carrer Salvador Espriu,  07820 San Antonio, Ibiza, Spain.
 
 ## What's on
 

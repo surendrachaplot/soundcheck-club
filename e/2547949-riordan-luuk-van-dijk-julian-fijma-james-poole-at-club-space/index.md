@@ -1,6 +1,6 @@
 # Riordan, Luuk van Dijk, Julian Fijma & James Poole at Club Space Miami
 
-Riordan, Luuk van Dijk, Julian Fijma & James Poole at Club Space Miami on Sat 24 Oct, Miami. 6 artists on the bill: James Poole, Julian Fijma, Luuk van Dijk and Mai iachetti and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
+Riordan, Luuk van Dijk, Julian Fijma & James Poole at Club Space Miami on Sat 24 Oct, Miami. 6 artists: James Poole, Julian Fijma, Luuk van Dijk and Mai iachetti and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LA x TOKYO: All Tied Up in Tokyo at 1oak Tokyo
 
-LA x TOKYO: All Tied Up in Tokyo at 1oak Tokyo on Sat 10 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+LA x TOKYO: All Tied Up in Tokyo at 1oak Tokyo on Sat 10 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

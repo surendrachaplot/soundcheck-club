@@ -1,6 +1,6 @@
 # Macadam x DREAMLAND • Peach ~ IAMBPM ~ Maï-Linh at Macadam
 
-Macadam x DREAMLAND • Peach ~ IAMBPM ~ Maï-Linh on Sat 31 Oct, Nantes. 3 artists on the bill: IAMBP, Maï-Linh and Peach. House and New Wave. Preview the line-up and save it on soundcheck.
+Macadam x DREAMLAND • Peach ~ IAMBPM ~ Maï-Linh on Sat 31 Oct, Nantes. 3 artists: IAMBP, Maï-Linh and Peach. House and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

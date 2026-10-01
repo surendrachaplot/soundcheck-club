@@ -1,6 +1,6 @@
 # Massive Playgrounds presents: Black Sun Empire / NL at Postgarage
 
-Massive Playgrounds presents: Black Sun Empire / NL at Postgarage on Fri 2 Oct, Austria. 2 artists on the bill: Black Sun Empire and Geostatic. Preview the line-up and save it on soundcheck.
+Massive Playgrounds presents: Black Sun Empire / NL at Postgarage on Fri 2 Oct, Austria. 2 artists: Black Sun Empire and Geostatic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

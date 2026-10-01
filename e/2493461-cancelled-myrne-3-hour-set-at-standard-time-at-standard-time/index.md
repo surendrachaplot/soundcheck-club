@@ -1,6 +1,6 @@
 # CANCELLED - MYRNE (3 Hour Set) at Standard Time at Standard Time
 
-CANCELLED - MYRNE (3 Hour Set) at Standard Time on Thu 1 Oct, Toronto. 1 artist on the bill: MYRNE. Preview the line-up and save it on soundcheck.
+CANCELLED - MYRNE (3 Hour Set) at Standard Time on Thu 1 Oct, Toronto. 1 artist: MYRNE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

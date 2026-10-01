@@ -1,6 +1,6 @@
 # Yonaguni Fiesta at Joule
 
-Yonaguni Fiesta at Joule on Sat 3 Oct, Osaka. Reggaeton. Preview the line-up and save it on soundcheck.
+Yonaguni Fiesta at Joule on Sat 3 Oct, Osaka. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

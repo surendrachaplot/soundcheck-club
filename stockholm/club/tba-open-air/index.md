@@ -1,8 +1,8 @@
 # TBA - Open Air
 
-TBA - Open Air is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Resurface" on Sat, 3 Oct 2026.
+TBA - Open Air is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Resurface" on Sat, 3 Oct 2026.
 
-TBA - Open Air is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Auspex and Elle Dee. Browse upcoming dates, start times and who's playing.
+TBA - Open Air is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including Auspex and Elle Dee. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Naked Grapes with Caesarr at Orangerie Neukölln
 
-Naked Grapes with Caesarr at Orangerie Neukölln on Thu 22 Oct, Berlin. House and R&B. Preview the line-up and save it on soundcheck.
+Naked Grapes with Caesarr at Orangerie Neukölln on Thu 22 Oct, Berlin. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

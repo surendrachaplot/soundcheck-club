@@ -1,6 +1,6 @@
 # Your Disco Needs You at West Germany
 
-Your Disco Needs You at West Germany on Sat 3 Oct, Berlin. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+Your Disco Needs You at West Germany on Sat 3 Oct, Berlin. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

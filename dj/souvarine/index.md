@@ -1,8 +1,8 @@
 # Sou Varine
 
-Sou Varine is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Planet Wax, London on Sat, 7 Nov 2026.
+Sou Varine is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Sat, 7 Nov 2026.
 
-Sou Varine is a techno and experimental artist tracked on soundcheck, with 11 sets logged across London and Paris. Often billed alongside Mike Levitt, Esmé and Chinese Daughter. Next up: Planet Wax, London on Sat 7 Nov.
+Sou Varine is a techno and experimental artist, with 11 gigs on soundcheck across London and Paris. Often billed alongside Mike Levitt, Esmé and Chinese Daughter. Next up: Planet Wax, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sou Varine is a techno and experimental artist tracked on soundcheck, with 11 se
 
 ## Recently played
 
-- Club Cheek, London — Fri, 28 Aug 2026
-- M.O.T, London — Fri, 19 Dec 2025
-- Ormside Projects, London — Fri, 15 Aug 2025
-- Avalon Cafe Bermondsey, London — Fri, 21 Mar 2025
-- Ormside Projects, London — Tue, 31 Dec 2024
-- Ormside Projects, London — Sat, 2 Nov 2024
-- Le 9B, Paris — Fri, 7 Jun 2024
-- Ormside Projects, London — Sun, 31 Dec 2023
+- Club Cheek, London · Fri, 28 Aug 2026
+- M.O.T, London · Fri, 19 Dec 2025
+- Ormside Projects, London · Fri, 15 Aug 2025
+- Avalon Cafe Bermondsey, London · Fri, 21 Mar 2025
+- Ormside Projects, London · Tue, 31 Dec 2024
+- Ormside Projects, London · Sat, 2 Nov 2024
+- Le 9B, Paris · Fri, 7 Jun 2024
+- Ormside Projects, London · Sun, 31 Dec 2023
 
 ## Shares bills with
 

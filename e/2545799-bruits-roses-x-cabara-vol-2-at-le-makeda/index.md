@@ -1,6 +1,6 @@
 # BRUITS ROSES x CABARAÏ [Vol. 2] at Le Makeda
 
-BRUITS ROSES x CABARAÏ [Vol. 2] at Le Makeda on Sat 10 Oct, Marseille. 1 artist on the bill: Mystique. Techno and Electro. Preview the line-up and save it on soundcheck.
+BRUITS ROSES x CABARAÏ [Vol. 2] at Le Makeda on Sat 10 Oct, Marseille. 1 artist: Mystique. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

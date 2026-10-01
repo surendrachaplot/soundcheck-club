@@ -1,6 +1,6 @@
 # African Acid is The Future presents: Maryisonacid as The Soft Archive & Dauwd at Atemporal
 
-African Acid is The Future presents: Maryisonacid as The Soft Archive & Dauwd at Atemporal on Sun 4 Oct, Berlin. Ambient. Preview the line-up and save it on soundcheck.
+African Acid is The Future presents: Maryisonacid as The Soft Archive & Dauwd at Atemporal on Sun 4 Oct, Berlin. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hard Techno Rave feat. Andrea Pillar - FREE Drinks by INAKOMA at Amnesia
 
-Hard Techno Rave feat. Andrea Pillar - FREE Drinks by INAKOMA at Amnesia on Fri 30 Oct, Bangkok. 2 artists on the bill: LonSkii and Sam Laxton. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Hard Techno Rave feat. Andrea Pillar - FREE Drinks by INAKOMA at Amnesia on Fri 30 Oct, Bangkok. 2 artists: LonSkii and Sam Laxton. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

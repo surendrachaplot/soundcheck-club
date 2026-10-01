@@ -1,8 +1,8 @@
 # Wurmk
 
-Wurmk is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - LFO, Madrid on Fri, 9 Oct 2026.
+Wurmk is a electronic artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - LFO, Madrid on Fri, 9 Oct 2026.
 
-Wurmk is an electronic artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside Bellaswag, Atrâm and FUKCNORMAL. Next up: TBA - LFO, Madrid on Fri 9 Oct.
+Wurmk is an electronic artist based in Spain, with 6 gigs on soundcheck across Madrid. Often billed alongside Bellaswag, Atrâm and FUKCNORMAL. Next up: TBA - LFO, Madrid on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Wurmk is an electronic artist based in Spain, tracked on soundcheck, with 6 sets
 
 ## Recently played
 
-- TBA - STUDIO76 POWERED BY VOID ACOUSTICS, Madrid — Thu, 30 Apr 2026
-- Gilda Club, Madrid — Thu, 30 Oct 2025
-- Sala ON Madrid, Madrid — Wed, 30 Apr 2025
-- Sala ON Madrid, Madrid — Sat, 25 Jan 2025
-- Sala ON Madrid, Madrid — Sat, 16 Nov 2024
+- TBA - STUDIO76 POWERED BY VOID ACOUSTICS, Madrid · Thu, 30 Apr 2026
+- Gilda Club, Madrid · Thu, 30 Oct 2025
+- Sala ON Madrid, Madrid · Wed, 30 Apr 2025
+- Sala ON Madrid, Madrid · Sat, 25 Jan 2025
+- Sala ON Madrid, Madrid · Sat, 16 Nov 2024
 
 ## Shares bills with
 

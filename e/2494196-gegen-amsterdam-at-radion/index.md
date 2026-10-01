@@ -1,6 +1,6 @@
 # GEGEN AMSTERDAM at RADION
 
-GEGEN AMSTERDAM at RADION on Sat 10 Oct, Amsterdam. 7 artists on the bill: Buday, Cristian Marras, Hyperaktivist and Mar/us and 3 more. Preview the line-up and save it on soundcheck.
+GEGEN AMSTERDAM at RADION on Sat 10 Oct, Amsterdam. 7 artists: Buday, Cristian Marras, Hyperaktivist and Mar/us and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GLYCERINE at Malaga Sin City
 
-GLYCERINE at Malaga Sin City on Fri 16 Oct, Milan. House. Preview the line-up and save it on soundcheck.
+GLYCERINE at Malaga Sin City on Fri 16 Oct, Milan. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

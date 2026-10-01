@@ -1,6 +1,6 @@
 # Shared Crate: House, Bass, Dubstep, Jungle & DnB - Free Entry at Club Makossa
 
-Shared Crate: House, Bass, Dubstep, Jungle & DnB - Free Entry at Club Makossa on Thu 22 Oct, London. 1 artist on the bill: BIDOIS. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+Shared Crate: House, Bass, Dubstep, Jungle & DnB - Free Entry at Club Makossa on Thu 22 Oct, London. 1 artist: BIDOIS. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

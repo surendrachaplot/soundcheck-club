@@ -1,6 +1,6 @@
 # Unlisted 001 — MILANO at IED Milan
 
-Unlisted 001 — MILANO at IED Milan on Fri 27 Nov, Milan. 1 artist on the bill: Minstrel High. House and Tech House. Preview the line-up and save it on soundcheck.
+Unlisted 001 — MILANO at IED Milan on Fri 27 Nov, Milan. 1 artist: Minstrel High. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

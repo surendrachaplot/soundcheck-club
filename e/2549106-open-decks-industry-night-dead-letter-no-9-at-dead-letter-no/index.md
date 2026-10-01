@@ -1,6 +1,6 @@
 # Open Decks + Industry Night - Dead Letter No.9 at Dead Letter No. 9
 
-Open Decks + Industry Night - Dead Letter No.9 at Dead Letter No. 9 on Sun 11 Oct, New York City. House and Electro. Preview the line-up and save it on soundcheck.
+Open Decks + Industry Night - Dead Letter No.9 at Dead Letter No. 9 on Sun 11 Oct, New York City. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ Spice
 
-DJ Spice is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
+DJ Spice is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
 
-DJ Spice is a house and techno artist based in Denmark, tracked on soundcheck, with 34 sets logged across Copenhagen and Oslo. Often billed alongside DRABER666, Ryan Dank and Jonas Tuk. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
+DJ Spice is a house and techno artist based in Denmark, with 34 gigs on soundcheck across Copenhagen and Oslo. Often billed alongside DRABER666, Ryan Dank and Jonas Tuk. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ Spice is a house and techno artist based in Denmark, tracked on soundcheck, w
 
 ## Recently played
 
-- MODULE, Copenhagen — Fri, 18 Sept 2026
-- Klub Werkstatt, Copenhagen — Fri, 11 Sept 2026
-- Pylonen - Frizonen Langebro, Copenhagen — Fri, 4 Sept 2026
-- Hangaren, Copenhagen — Thu, 27 Aug 2026
-- MODULE, Copenhagen — Sat, 15 Aug 2026
-- Hangaren, Copenhagen — Fri, 31 Jul 2026
-- MODULE, Copenhagen — Fri, 24 Jul 2026
-- Klub Werkstatt, Copenhagen — Sat, 18 Jul 2026
+- MODULE, Copenhagen · Fri, 18 Sept 2026
+- Klub Werkstatt, Copenhagen · Fri, 11 Sept 2026
+- Pylonen - Frizonen Langebro, Copenhagen · Fri, 4 Sept 2026
+- Hangaren, Copenhagen · Thu, 27 Aug 2026
+- MODULE, Copenhagen · Sat, 15 Aug 2026
+- Hangaren, Copenhagen · Fri, 31 Jul 2026
+- MODULE, Copenhagen · Fri, 24 Jul 2026
+- Klub Werkstatt, Copenhagen · Sat, 18 Jul 2026
 
 ## Shares bills with
 

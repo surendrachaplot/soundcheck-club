@@ -1,8 +1,8 @@
 # Cici Daze
 
-Cici Daze is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
+Cici Daze is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed, 21 Oct 2026.
 
-Cici Daze is a house and tech house artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Eindhoven, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
+Cici Daze is a house and tech house artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Eindhoven, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, Prunk and AAT (NL). Next up: Tropeninstituut: Koninklijk Instituut Voor de Tropen, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Cici Daze is a house and tech house artist based in Netherlands, tracked on soun
 
 ## Recently played
 
-- Bronze Beach, Amsterdam — Sat, 19 Sept 2026
-- Shelter Amsterdam, Amsterdam — Fri, 18 Sept 2026
-- Strijkviertel, Utrecht — Sat, 5 Sept 2026
-- W Hotel Amsterdam, Amsterdam — Sun, 30 Aug 2026
-- TivoliVredenburg, Utrecht — Sat, 29 Aug 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Shelter Amsterdam, Amsterdam — Fri, 7 Aug 2026
-- Toffler, Rotterdam — Sat, 1 Aug 2026
+- Bronze Beach, Amsterdam · Sat, 19 Sept 2026
+- Shelter Amsterdam, Amsterdam · Fri, 18 Sept 2026
+- Strijkviertel, Utrecht · Sat, 5 Sept 2026
+- W Hotel Amsterdam, Amsterdam · Sun, 30 Aug 2026
+- TivoliVredenburg, Utrecht · Sat, 29 Aug 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
+- Shelter Amsterdam, Amsterdam · Fri, 7 Aug 2026
+- Toffler, Rotterdam · Sat, 1 Aug 2026
 
 ## Shares bills with
 

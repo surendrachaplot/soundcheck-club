@@ -1,6 +1,6 @@
 # Systolic Showcase 360° Rave #02 - Specka Club Tardes at Specka
 
-Systolic Showcase 360° Rave #02 - Specka Club Tardes on Sat 3 Oct, Madrid. Techno. Preview the line-up and save it on soundcheck.
+Systolic Showcase 360° Rave #02 - Specka Club Tardes on Sat 3 Oct, Madrid. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Carly Zeng
 
-Carly Zeng is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fitzroy, Berlin on Sun, 18 Oct 2026.
+Carly Zeng is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fitzroy, Berlin on Sun, 18 Oct 2026.
 
-Carly Zeng is a techno and house artist based in China, tracked on soundcheck, with 135 sets logged across Amsterdam, Berlin, Brussels and Chicago and 12 more. Often billed alongside Cryptofauna, Ariel Zetina and marum. Next up: Fitzroy, Berlin on Sun 18 Oct.
+Carly Zeng is a techno and house artist based in China, with 135 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 12 more. Often billed alongside Cryptofauna, Ariel Zetina and marum. Next up: Fitzroy, Berlin on Sun 18 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Carly Zeng is a techno and house artist based in China, tracked on soundcheck, w
 
 ## Recently played
 
-- KREUZWERK, Berlin — Sat, 12 Sept 2026
-- Renate, Berlin — Fri, 11 Sept 2026
-- Else, Berlin — Sun, 6 Sept 2026
-- TILLATEC, Amsterdam — Fri, 21 Aug 2026
-- KREUZWERK, Berlin — Sun, 2 Aug 2026
-- RSO.BERLIN, Berlin — Fri, 24 Jul 2026
-- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
-- Nowadays, New York City — Sat, 11 Jul 2026
+- KREUZWERK, Berlin · Sat, 12 Sept 2026
+- Renate, Berlin · Fri, 11 Sept 2026
+- Else, Berlin · Sun, 6 Sept 2026
+- TILLATEC, Amsterdam · Fri, 21 Aug 2026
+- KREUZWERK, Berlin · Sun, 2 Aug 2026
+- RSO.BERLIN, Berlin · Fri, 24 Jul 2026
+- Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin · Thu, 16 Jul 2026
+- Nowadays, New York City · Sat, 11 Jul 2026
 
 ## Shares bills with
 

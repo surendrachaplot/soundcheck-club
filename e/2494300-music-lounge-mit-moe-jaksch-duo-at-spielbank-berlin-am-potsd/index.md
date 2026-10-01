@@ -1,6 +1,6 @@
 # Music Lounge mit Moe Jaksch Duo at Spielbank Berlin am Potsdamer Platz
 
-Music Lounge mit Moe Jaksch Duo at Spielbank Berlin am Potsdamer Platz on Wed 14 Oct, Berlin. Jazz and Pop. Preview the line-up and save it on soundcheck.
+Music Lounge mit Moe Jaksch Duo at Spielbank Berlin am Potsdamer Platz on Wed 14 Oct, Berlin. Jazz and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

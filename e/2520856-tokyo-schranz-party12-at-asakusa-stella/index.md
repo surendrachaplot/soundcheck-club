@@ -1,6 +1,6 @@
 # TOKYO SCHRANZ PARTY12 at Asakusa Stella
 
-TOKYO SCHRANZ PARTY12 at Asakusa Stella on Sat 14 Nov, Tokyo. 3 artists on the bill: Miyuki Omura, TKG (Schranz) and TYPE-O RISK SYSTEM. Techno and Industrial. Preview the line-up and save it on soundcheck.
+TOKYO SCHRANZ PARTY12 at Asakusa Stella on Sat 14 Nov, Tokyo. 3 artists: Miyuki Omura, TKG (Schranz) and TYPE-O RISK SYSTEM. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ribatexas at 5A
 
-Ribatexas at 5A on Thu 22 Oct, Lisbon. 1 artist on the bill: Fonzi. Preview the line-up and save it on soundcheck.
+Ribatexas at 5A on Thu 22 Oct, Lisbon. 1 artist: Fonzi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

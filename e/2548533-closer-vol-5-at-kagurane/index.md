@@ -1,6 +1,6 @@
 # Closer Vol.5 at Kagurane
 
-Closer Vol.5 at Kagurane on Sun 8 Nov, Tokyo. 1 artist on the bill: ΣKIYM×chamois. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
+Closer Vol.5 at Kagurane on Sun 8 Nov, Tokyo. 1 artist: ΣKIYM×chamois. Hip-Hop and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

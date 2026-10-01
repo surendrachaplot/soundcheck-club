@@ -1,8 +1,8 @@
 # LZZY
 
-LZZY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+LZZY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
 
-LZZY is a house and techno artist based in Malaysia, tracked on soundcheck, with 65 sets logged across Kuala Lumpur, Lisbon and Singapore. Often billed alongside JonnyVicious, Roshan and Rimka. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
+LZZY is a house and techno artist based in Malaysia, with 65 gigs on soundcheck across Kuala Lumpur, Lisbon and Singapore. Often billed alongside JonnyVicious, Roshan and Rimka. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ LZZY is a house and techno artist based in Malaysia, tracked on soundcheck, with
 
 ## Recently played
 
-- Wet Deck at W Hotel, Kuala Lumpur — Sat, 8 Aug 2026
-- TBA - Mantra Rooftop & Bar, Kuala Lumpur — Sat, 1 Aug 2026
-- TBA - JOLOKO, Kuala Lumpur — Sat, 18 Jul 2026
-- Over & Above KL, Kuala Lumpur — Sat, 6 Jun 2026
-- TBA - JOLOKO, Kuala Lumpur — Sat, 16 May 2026
-- Over & Above KL, Kuala Lumpur — Sat, 4 Apr 2026
-- Wet Deck at W Hotel, Kuala Lumpur — Sat, 28 Mar 2026
-- Joloko, Kuala Lumpur — Sun, 1 Feb 2026
+- Wet Deck at W Hotel, Kuala Lumpur · Sat, 8 Aug 2026
+- TBA - Mantra Rooftop & Bar, Kuala Lumpur · Sat, 1 Aug 2026
+- TBA - JOLOKO, Kuala Lumpur · Sat, 18 Jul 2026
+- Over & Above KL, Kuala Lumpur · Sat, 6 Jun 2026
+- TBA - JOLOKO, Kuala Lumpur · Sat, 16 May 2026
+- Over & Above KL, Kuala Lumpur · Sat, 4 Apr 2026
+- Wet Deck at W Hotel, Kuala Lumpur · Sat, 28 Mar 2026
+- Joloko, Kuala Lumpur · Sun, 1 Feb 2026
 
 ## Shares bills with
 

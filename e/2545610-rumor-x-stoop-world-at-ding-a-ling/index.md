@@ -1,6 +1,6 @@
 # RUMOR x Stoop World at Ding-A-Ling
 
-RUMOR x Stoop World at Ding-A-Ling on Thu 8 Oct, New York City. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
+RUMOR x Stoop World at Ding-A-Ling on Thu 8 Oct, New York City. Hip-Hop and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

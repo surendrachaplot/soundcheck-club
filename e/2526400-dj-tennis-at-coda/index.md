@@ -1,6 +1,6 @@
 # DJ Tennis at Coda
 
-DJ Tennis at Coda on Fri 13 Nov, Toronto. 1 artist on the bill: DJ Tennis. Preview the line-up and save it on soundcheck.
+DJ Tennis at Coda on Fri 13 Nov, Toronto. 1 artist: DJ Tennis. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

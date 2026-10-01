@@ -1,6 +1,6 @@
 # SECOND SATURDAYS: Brett Johnson & FRIENDS at Xuxa
 
-SECOND SATURDAYS: Brett Johnson & FRIENDS at Xuxa on Sat 3 Oct, Austin. 1 artist on the bill: Brett Johnson. House and Acid. Preview the line-up and save it on soundcheck.
+SECOND SATURDAYS: Brett Johnson & FRIENDS at Xuxa on Sat 3 Oct, Austin. 1 artist: Brett Johnson. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

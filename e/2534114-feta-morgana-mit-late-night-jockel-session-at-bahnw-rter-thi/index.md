@@ -1,6 +1,6 @@
 # Feta Morgana mit Late Night Jockel Session at Bahnwärter Thiel
 
-Feta Morgana mit Late Night Jockel Session at Bahnwärter Thiel on Sat 3 Oct, Munich. 2 artists on the bill: Late Night Jockel Session and Vanish. Preview the line-up and save it on soundcheck.
+Feta Morgana mit Late Night Jockel Session at Bahnwärter Thiel on Sat 3 Oct, Munich. 2 artists: Late Night Jockel Session and Vanish. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

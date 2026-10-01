@@ -1,8 +1,8 @@
 # Aqua-Höfe
 
-Aqua-Höfe is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Ersti-Festival Berlin | 6 Floors | 10.000 Guests - Open-Air & Indoor" on Tue, 6 Oct 2026.
+Aqua-Höfe is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ersti-Festival Berlin | 6 Floors | 10.000 Guests - Open-Air & Indoor" on Tue, 6 Oct 2026.
 
-Aqua-Höfe is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin-Kreuzberg.
+Aqua-Höfe is a music venue in Berlin listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. Lobeckstraße 30-35, 10969 Berlin-Kreuzberg.
 
 ## What's on
 

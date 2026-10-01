@@ -1,8 +1,8 @@
 # Samuel Moriero (2)
 
-Samuel Moriero (2) is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 314 Scholes, New York City on Fri, 2 Oct 2026.
+Samuel Moriero (2) is a Techno and Trance artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 314 Scholes, New York City on Fri, 2 Oct 2026.
 
-Samuel Moriero is a techno and trance artist based in Italy, tracked on soundcheck, with 26 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Onlynumbers, Restricted and ASLO. Next up: 314 Scholes, New York City on Fri 2 Oct.
+Samuel Moriero is a techno and trance artist based in Italy, with 26 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 15 more. Often billed alongside Onlynumbers, Restricted and ASLO. Next up: 314 Scholes, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Samuel Moriero is a techno and trance artist based in Italy, tracked on soundche
 
 ## Recently played
 
-- DSTRKT Club Berlin, Berlin — Sat, 29 Aug 2026
-- The Classic Grand, Glasgow — Fri, 31 Jul 2026
-- Schrotty, Cologne — Fri, 24 Jul 2026
-- Amnesia Ibiza, Ibiza — Wed, 15 Jul 2026
-- Club Vaag, Antwerp — Fri, 10 Jul 2026
-- Fuse, Brussels — Fri, 3 Jul 2026
-- Eden, Ibiza — Tue, 30 Jun 2026
-- Vélodrome National de Saint-Quentin-en-Yvelines, Paris — Sat, 20 Jun 2026
+- DSTRKT Club Berlin, Berlin · Sat, 29 Aug 2026
+- The Classic Grand, Glasgow · Fri, 31 Jul 2026
+- Schrotty, Cologne · Fri, 24 Jul 2026
+- Amnesia Ibiza, Ibiza · Wed, 15 Jul 2026
+- Club Vaag, Antwerp · Fri, 10 Jul 2026
+- Fuse, Brussels · Fri, 3 Jul 2026
+- Eden, Ibiza · Tue, 30 Jun 2026
+- Vélodrome National de Saint-Quentin-en-Yvelines, Paris · Sat, 20 Jun 2026
 
 ## Shares bills with
 

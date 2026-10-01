@@ -1,6 +1,6 @@
 # CFNY Video Roadshow with Ivar Hamilton & Scot Turner (5pm-930pm) at Ground Control
 
-CFNY Video Roadshow with Ivar Hamilton & Scot Turner (5pm-930pm) at Ground Control on Sat 17 Oct, Toronto. Broken Beat and Electronica. Preview the line-up and save it on soundcheck.
+CFNY Video Roadshow with Ivar Hamilton & Scot Turner (5pm-930pm) at Ground Control on Sat 17 Oct, Toronto. Broken Beat and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

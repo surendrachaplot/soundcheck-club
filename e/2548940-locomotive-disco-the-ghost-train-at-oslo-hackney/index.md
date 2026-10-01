@@ -1,6 +1,6 @@
 # Locomotive Disco - The Ghost Train at Oslo Hackney
 
-Locomotive Disco - The Ghost Train at Oslo Hackney on Sat 31 Oct, London. 1 artist on the bill: Lemmy Ashton. House and Disco. Preview the line-up and save it on soundcheck.
+Locomotive Disco - The Ghost Train at Oslo Hackney on Sat 31 Oct, London. 1 artist: Lemmy Ashton. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

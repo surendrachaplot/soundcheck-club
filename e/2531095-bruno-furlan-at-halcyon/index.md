@@ -1,6 +1,6 @@
 # BRUNO FURLAN at Halcyon
 
-BRUNO FURLAN at Halcyon on Fri 16 Oct, San Francisco/Oakland. Preview the line-up and save it on soundcheck.
+BRUNO FURLAN at Halcyon on Fri 16 Oct, San Francisco/Oakland. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

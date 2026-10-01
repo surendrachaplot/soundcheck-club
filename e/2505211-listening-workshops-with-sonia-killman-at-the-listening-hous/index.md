@@ -1,6 +1,6 @@
 # Listening Workshops with Sonia Killman at The Listening House | Pollok House
 
-Listening Workshops with Sonia Killman at The Listening House | Pollok House on Sun 4 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+Listening Workshops with Sonia Killman at The Listening House | Pollok House on Sun 4 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

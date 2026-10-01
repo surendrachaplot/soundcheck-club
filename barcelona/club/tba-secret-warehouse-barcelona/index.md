@@ -1,8 +1,8 @@
 # TBA - Secret Warehouse (Barcelona)
 
-TBA - Secret Warehouse (Barcelona) is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DIFFUSE REALITY [Halloween Gathering]" on Sat, 31 Oct 2026.
+TBA - Secret Warehouse (Barcelona) is a music venue in Barcelona with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DIFFUSE REALITY [Halloween Gathering]" on Sat, 31 Oct 2026.
 
-TBA - Secret Warehouse (Barcelona) is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Squaric. Browse upcoming dates, start times and who's playing.
+TBA - Secret Warehouse (Barcelona) is a music venue in Barcelona listed on soundcheck. 2 upcoming gigs, with line-ups including Squaric. See dates, start times and who's playing.
 
 ## What's on
 

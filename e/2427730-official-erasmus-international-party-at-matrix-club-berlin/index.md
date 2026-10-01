@@ -1,6 +1,6 @@
 # Official Erasmus & International Party at Matrix Club Berlin
 
-Official Erasmus & International Party at Matrix Club Berlin on Sat 10 Oct, Berlin. Pop and Reggaeton. Preview the line-up and save it on soundcheck.
+Official Erasmus & International Party at Matrix Club Berlin on Sat 10 Oct, Berlin. Pop and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

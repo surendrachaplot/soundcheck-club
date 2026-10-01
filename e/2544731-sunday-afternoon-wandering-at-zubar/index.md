@@ -1,6 +1,6 @@
 # Sunday Afternoon Wandering at ZUBAR
 
-Sunday Afternoon Wandering at ZUBAR on Sun 11 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+Sunday Afternoon Wandering at ZUBAR on Sun 11 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

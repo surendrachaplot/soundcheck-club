@@ -1,6 +1,6 @@
 # Play Club (Vlc) at Play Club Valencia
 
-Play Club (Vlc) at Play Club Valencia on Fri 9 Oct, Valencia. 1 artist on the bill: Maadraassoo. Pop. Preview the line-up and save it on soundcheck.
+Play Club (Vlc) at Play Club Valencia on Fri 9 Oct, Valencia. 1 artist: Maadraassoo. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

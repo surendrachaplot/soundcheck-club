@@ -1,6 +1,6 @@
 # Halloween Fancy Dresa Haloween Free Entry B4 10pm at Area Manchester
 
-Halloween Fancy Dresa Haloween Free Entry B4 10pm at Area Manchester on Fri 30 Oct, Manchester. Trance and Techno. Preview the line-up and save it on soundcheck.
+Halloween Fancy Dresa Haloween Free Entry B4 10pm at Area Manchester on Fri 30 Oct, Manchester. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

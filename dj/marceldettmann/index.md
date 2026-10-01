@@ -1,8 +1,8 @@
 # Marcel Dettmann
 
-Marcel Dettmann is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Silencio, Paris on Thu, 1 Oct 2026.
+Marcel Dettmann is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Silencio, Paris on Thu, 1 Oct 2026.
 
-Marcel Dettmann is a techno and house artist based in Germany, tracked on soundcheck, with 269 sets logged across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Silencio, Paris on Thu 1 Oct.
+Marcel Dettmann is a techno and house artist based in Germany, with 269 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 66 more. Often billed alongside Ben Klock, Ogazón and BASHKKA. Next up: Silencio, Paris on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Marcel Dettmann is a techno and house artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 26 Sept 2026
-- Forte Antenne, Rome — Fri, 25 Sept 2026
-- Academy LA, Los Angeles — Sat, 19 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Anfiteatro de Pedra, Lisbon — Sat, 12 Sept 2026
-- 8 Marvila, Lisbon — Sat, 12 Sept 2026
-- Barragem da Queimadela, Porto — Thu, 10 Sept 2026
-- Westhafen, Leipzig — Sat, 5 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 26 Sept 2026
+- Forte Antenne, Rome · Fri, 25 Sept 2026
+- Academy LA, Los Angeles · Sat, 19 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Anfiteatro de Pedra, Lisbon · Sat, 12 Sept 2026
+- 8 Marvila, Lisbon · Sat, 12 Sept 2026
+- Barragem da Queimadela, Porto · Thu, 10 Sept 2026
+- Westhafen, Leipzig · Sat, 5 Sept 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # EXPOSED at Tagada
 
-EXPOSED at Tagada on Fri 2 Oct, Vienna. Techno and House. Preview the line-up and save it on soundcheck.
+EXPOSED at Tagada on Fri 2 Oct, Vienna. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

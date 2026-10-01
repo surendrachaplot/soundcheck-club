@@ -1,6 +1,6 @@
 # Gotts Street Park - Somewhere Here Tour at Project House
 
-Gotts Street Park - Somewhere Here Tour at Project House on Tue 17 Nov, Leeds. Jazz and R&B. Preview the line-up and save it on soundcheck.
+Gotts Street Park - Somewhere Here Tour at Project House on Tue 17 Nov, Leeds. Jazz and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

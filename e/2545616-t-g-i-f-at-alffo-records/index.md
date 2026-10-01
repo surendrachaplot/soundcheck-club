@@ -1,6 +1,6 @@
 # T.G.I.F at Alffo Records
 
-T.G.I.F at Alffo Records on Fri 9 Oct, Osaka. Pop and Club. Preview the line-up and save it on soundcheck.
+T.G.I.F at Alffo Records on Fri 9 Oct, Osaka. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

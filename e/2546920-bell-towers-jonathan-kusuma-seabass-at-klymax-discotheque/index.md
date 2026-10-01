@@ -1,6 +1,6 @@
 # Bell Towers, Jonathan Kusuma, Seabass at Klymax Discotheque
 
-Bell Towers, Jonathan Kusuma, Seabass at Klymax Discotheque on Fri 30 Oct, Bali. 2 artists on the bill: Bell Towers and Jonathan Kusuma. Preview the line-up and save it on soundcheck.
+Bell Towers, Jonathan Kusuma, Seabass at Klymax Discotheque on Fri 30 Oct, Bali. 2 artists: Bell Towers and Jonathan Kusuma. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

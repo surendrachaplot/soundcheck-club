@@ -1,6 +1,6 @@
 # Superior Ingredients: LUKAS & FRANK (Live) + Sam Allan at Superior Ingredients
 
-Superior Ingredients: LUKAS & FRANK (Live) + Sam Allan on Sat 3 Oct, New York City. 1 artist on the bill: LUKAS & FRANK. Preview the line-up and save it on soundcheck.
+Superior Ingredients: LUKAS & FRANK (Live) + Sam Allan on Sat 3 Oct, New York City. 1 artist: LUKAS & FRANK. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

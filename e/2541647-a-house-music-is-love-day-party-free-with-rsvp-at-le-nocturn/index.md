@@ -1,6 +1,6 @@
 # A House Music is Love Day Party. Free with RSVP at Le Nocturne
 
-A House Music is Love Day Party. Free with RSVP at Le Nocturne on Sat 10 Oct, Chicago. House and Deep House. Preview the line-up and save it on soundcheck.
+A House Music is Love Day Party. Free with RSVP at Le Nocturne on Sat 10 Oct, Chicago. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

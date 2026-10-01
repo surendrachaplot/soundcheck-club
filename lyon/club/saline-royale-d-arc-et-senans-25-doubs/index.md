@@ -1,8 +1,8 @@
 # Saline Royale D'arc-et-Senans (25 Doubs)
 
-Saline Royale D'arc-et-Senans (25 Doubs) is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "SALT - SOUND 909 avec Jeff Mills" on Sun, 11 Oct 2026.
+Saline Royale D'arc-et-Senans (25 Doubs) is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "SALT - SOUND 909 avec Jeff Mills" on Sun, 11 Oct 2026.
 
-Saline Royale D'arc-et-Senans (25 Doubs) is a music venue in Lyon listed on soundcheck. 1 upcoming gig, with line-ups including Jeff Mills. Browse upcoming dates, start times and who's playing.
+Saline Royale D'arc-et-Senans (25 Doubs) is a music venue in Lyon listed on soundcheck. 1 upcoming gig, with line-ups including Jeff Mills. See dates, start times and who's playing.
 
 ## What's on
 

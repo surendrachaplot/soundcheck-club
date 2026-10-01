@@ -1,8 +1,8 @@
 # Moaad BKR
 
-Moaad BKR is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Montreal on Sat, 3 Oct 2026.
+Moaad BKR is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Montreal on Sat, 3 Oct 2026.
 
-Moaad BKR is a house and techno artist based in Canada, tracked on soundcheck, with 67 sets logged across Barcelona, Berlin, Boston and Leeds and 10 more. Often billed alongside Metizo, CPR Annie and Daura. Next up: TBA, Montreal on Sat 3 Oct.
+Moaad BKR is a house and techno artist based in Canada, with 67 gigs on soundcheck across Barcelona, Berlin, Boston and Leeds and 10 more. Often billed alongside Metizo, CPR Annie and Daura. Next up: TBA, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Moaad BKR is a house and techno artist based in Canada, tracked on soundcheck, w
 
 ## Recently played
 
-- feedbk, New York City — Fri, 25 Sept 2026
-- Starlane Pizza Bar, London — Fri, 18 Sept 2026
-- TBA - Secret Location (Madrid), Madrid — Sat, 12 Sept 2026
-- TBA - Rosemont/Plateau, Montreal — Sat, 15 Aug 2026
-- Mansions, New York City — Sat, 25 Jul 2026
-- StereoBar, Montreal — Sat, 18 Jul 2026
-- Apollo Studio, New York City — Fri, 10 Jul 2026
-- TBA - Secret Warehouse Location, Boston — Sat, 20 Jun 2026
+- feedbk, New York City · Fri, 25 Sept 2026
+- Starlane Pizza Bar, London · Fri, 18 Sept 2026
+- TBA - Secret Location (Madrid), Madrid · Sat, 12 Sept 2026
+- TBA - Rosemont/Plateau, Montreal · Sat, 15 Aug 2026
+- Mansions, New York City · Sat, 25 Jul 2026
+- StereoBar, Montreal · Sat, 18 Jul 2026
+- Apollo Studio, New York City · Fri, 10 Jul 2026
+- TBA - Secret Warehouse Location, Boston · Sat, 20 Jun 2026
 
 ## Shares bills with
 

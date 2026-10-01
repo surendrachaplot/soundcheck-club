@@ -1,8 +1,8 @@
 # Michael Cignarale
 
-Michael Cignarale is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
+Michael Cignarale is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
 
-Michael Cignarale is a house and disco artist based in United States of America, tracked on soundcheck, with 23 sets logged across Berlin, Chicago, Hamburg and London and 6 more. Often billed alongside Dee Diggs, Function and Jen Cardini. Next up: 131 Mccormack St, Toronto on Sat 3 Oct.
+Michael Cignarale is a house and disco artist based in United States of America, with 23 gigs on soundcheck across Berlin, Chicago, Hamburg and London and 6 more. Often billed alongside Dee Diggs, Function and Jen Cardini. Next up: 131 Mccormack St, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Michael Cignarale is a house and disco artist based in United States of America,
 
 ## Recently played
 
-- Animal, New York City — Fri, 11 Sept 2026
-- Signal, New York City — Sun, 16 Aug 2026
-- BASEMENT, New York City — Sat, 15 Aug 2026
-- Public Works, San Francisco/Oakland — Fri, 31 Jul 2026
-- Kater, Berlin — Sat, 25 Jul 2026
-- Good Room, New York City — Fri, 26 Jun 2026
-- H0L0, New York City — Fri, 12 Jun 2026
-- BASEMENT, New York City — Fri, 5 Jun 2026
+- Animal, New York City · Fri, 11 Sept 2026
+- Signal, New York City · Sun, 16 Aug 2026
+- BASEMENT, New York City · Sat, 15 Aug 2026
+- Public Works, San Francisco/Oakland · Fri, 31 Jul 2026
+- Kater, Berlin · Sat, 25 Jul 2026
+- Good Room, New York City · Fri, 26 Jun 2026
+- H0L0, New York City · Fri, 12 Jun 2026
+- BASEMENT, New York City · Fri, 5 Jun 2026
 
 ## Shares bills with
 

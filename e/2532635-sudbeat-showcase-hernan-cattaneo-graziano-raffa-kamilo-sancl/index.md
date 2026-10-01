@@ -1,6 +1,6 @@
 # Sudbeat Showcase: Hernan Cattaneo, Graziano Raffa, Kamilo Sanclemente at Salon Amador
 
-Sudbeat Showcase: Hernan Cattaneo, Graziano Raffa, Kamilo Sanclemente at Salon Amador on Sat 3 Oct, Medellin. 5 artists on the bill: Graziano Raffa, Hernan Cattaneo, Juan Pablo Torrez and Julian Millan and 1 more. Preview the line-up and save it on soundcheck.
+Sudbeat Showcase: Hernan Cattaneo, Graziano Raffa, Kamilo Sanclemente at Salon Amador on Sat 3 Oct, Medellin. 5 artists: Graziano Raffa, Hernan Cattaneo, Juan Pablo Torrez and Julian Millan and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

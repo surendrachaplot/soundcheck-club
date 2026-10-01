@@ -1,8 +1,8 @@
 # Alythia Kwan
 
-Alythia Kwan is a Progressive House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at UNLOCKED, London on Sat, 17 Oct 2026.
+Alythia Kwan is a Progressive House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UNLOCKED, London on Sat, 17 Oct 2026.
 
-Alythia Kwan is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across London. Often billed alongside MARIUS SEBASTIAN, Fernweh and MEAKIN. Next up: UNLOCKED, London on Sat 17 Oct.
+Alythia Kwan is a progressive house and deep house artist based in United Kingdom, with 17 gigs on soundcheck across London. Often billed alongside MARIUS SEBASTIAN, Fernweh and MEAKIN. Next up: UNLOCKED, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Alythia Kwan is a progressive house and deep house artist based in United Kingdo
 
 ## Recently played
 
-- Basing House, London — Fri, 11 Sept 2026
-- Camden Courtyard, London — Sat, 22 Aug 2026
-- Last Arch, London — Sat, 15 Aug 2026
-- Egg London, London — Fri, 5 Jun 2026
-- Egg London, London — Sat, 9 May 2026
-- Onyx (E1), London — Fri, 8 May 2026
-- Basing House, London — Fri, 3 Apr 2026
-- Nico's Bar at Hackney Bridge, London — Sat, 28 Feb 2026
+- Basing House, London · Fri, 11 Sept 2026
+- Camden Courtyard, London · Sat, 22 Aug 2026
+- Last Arch, London · Sat, 15 Aug 2026
+- Egg London, London · Fri, 5 Jun 2026
+- Egg London, London · Sat, 9 May 2026
+- Onyx (E1), London · Fri, 8 May 2026
+- Basing House, London · Fri, 3 Apr 2026
+- Nico's Bar at Hackney Bridge, London · Sat, 28 Feb 2026
 
 ## Shares bills with
 

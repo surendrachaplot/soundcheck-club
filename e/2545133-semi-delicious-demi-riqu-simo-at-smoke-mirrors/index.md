@@ -1,6 +1,6 @@
 # SEMI DELICIOUS: DEMI RIQUÍSIMO at Smoke & Mirrors
 
-SEMI DELICIOUS: DEMI RIQUÍSIMO at Smoke & Mirrors on Sat 17 Oct, Chicago. 3 artists on the bill: Demi Riquisimo, Dilon Karim and Subb-an. House and Italo Disco. Preview the line-up and save it on soundcheck.
+SEMI DELICIOUS: DEMI RIQUÍSIMO at Smoke & Mirrors on Sat 17 Oct, Chicago. 3 artists: Demi Riquisimo, Dilon Karim and Subb-an. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

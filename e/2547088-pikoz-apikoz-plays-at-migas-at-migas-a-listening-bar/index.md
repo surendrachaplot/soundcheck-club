@@ -1,6 +1,6 @@
 # Pikoz Apikoz plays at migas at migas, a listening bar
 
-Pikoz Apikoz plays at migas at migas, a listening bar on Fri 2 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Pikoz Apikoz plays at migas at migas, a listening bar on Fri 2 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

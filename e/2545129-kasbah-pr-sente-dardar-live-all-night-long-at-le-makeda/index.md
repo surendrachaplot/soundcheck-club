@@ -1,6 +1,6 @@
 # Kasbah présente DarDar (live) All Night Long at Le Makeda
 
-Kasbah présente DarDar (live) All Night Long at Le Makeda on Fri 9 Oct, Marseille. House. Preview the line-up and save it on soundcheck.
+Kasbah présente DarDar (live) All Night Long at Le Makeda on Fri 9 Oct, Marseille. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

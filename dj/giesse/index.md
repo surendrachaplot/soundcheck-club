@@ -1,8 +1,8 @@
 # Giesse
 
-Giesse is a Experimental and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Giesse is a Experimental and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
 
-Giesse is an experimental and dub techno artist based in Italy, tracked on soundcheck, with 29 sets logged across Amsterdam, Berlin, London and Milan and 4 more. Often billed alongside Flux By Uchiha, Hans Arsen and Katatonic Silentio. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+Giesse is an experimental and dub techno artist based in Italy, with 29 gigs on soundcheck across Amsterdam, Berlin, London and Milan and 4 more. Often billed alongside Flux By Uchiha, Hans Arsen and Katatonic Silentio. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Giesse is an experimental and dub techno artist based in Italy, tracked on sound
 
 ## Recently played
 
-- TBA, Rome — Sat, 19 Sept 2026
-- TBA - Apiro, Marche IT, Milan — Thu, 30 Jul 2026
-- Ormside Projects, London — Sat, 27 Jun 2026
-- Spanners, London — Sat, 23 May 2026
-- Badaboum, Paris — Thu, 23 Apr 2026
-- OHM, Berlin — Fri, 17 Apr 2026
-- Brancaleone, Rome — Sat, 28 Mar 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 13 Mar 2026
+- TBA, Rome · Sat, 19 Sept 2026
+- TBA - Apiro, Marche IT, Milan · Thu, 30 Jul 2026
+- Ormside Projects, London · Sat, 27 Jun 2026
+- Spanners, London · Sat, 23 May 2026
+- Badaboum, Paris · Thu, 23 Apr 2026
+- OHM, Berlin · Fri, 17 Apr 2026
+- Brancaleone, Rome · Sat, 28 Mar 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 13 Mar 2026
 
 ## Shares bills with
 

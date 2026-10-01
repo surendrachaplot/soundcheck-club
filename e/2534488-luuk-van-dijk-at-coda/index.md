@@ -1,6 +1,6 @@
 # Luuk van Dijk at Coda
 
-Luuk van Dijk at Coda on Fri 23 Oct, Toronto. 1 artist on the bill: Luuk van Dijk. Preview the line-up and save it on soundcheck.
+Luuk van Dijk at Coda on Fri 23 Oct, Toronto. 1 artist: Luuk van Dijk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

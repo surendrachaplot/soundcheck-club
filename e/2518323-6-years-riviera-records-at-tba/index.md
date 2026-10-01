@@ -1,6 +1,6 @@
 # 6 YEARS RIVIERA RECORDS at TBA
 
-6 YEARS RIVIERA RECORDS at TBA on Sat 7 Nov, Munich. Preview the line-up and save it on soundcheck.
+6 YEARS RIVIERA RECORDS at TBA on Sat 7 Nov, Munich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

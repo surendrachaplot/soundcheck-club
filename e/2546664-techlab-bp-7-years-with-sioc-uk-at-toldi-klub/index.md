@@ -1,6 +1,6 @@
 # techlab.bp 7 YEARS with Sioc (UK) at Toldi Klub
 
-techlab.bp 7 YEARS with Sioc (UK) at Toldi Klub on Fri 20 Nov, Budapest. 5 artists on the bill: IPAR, Sioc, SLYM and szoliver and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+techlab.bp 7 YEARS with Sioc (UK) at Toldi Klub on Fri 20 Nov, Budapest. 5 artists: IPAR, Sioc, SLYM and szoliver and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Arch 535
 
-Arch 535 is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Dance Starts At Home" on Thu, 8 Oct 2026.
+Arch 535 is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Dance Starts At Home" on Thu, 8 Oct 2026.
 
-Arch 535 is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including boys name, Costikyan, Make Money Mafia and Sopp. Browse upcoming dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
+Arch 535 is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including boys name, Costikyan, Make Money Mafia and Sopp. See dates, start times and who's playing. Arch 535, Orphans Yard, Brixton Station Rd, London SW9 8QB.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # TBA - Barcelo Rimera Maya
 
-TBA - Barcelo Rimera Maya is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Ember Shores 2026" on Fri, 20 Nov 2026.
+TBA - Barcelo Rimera Maya is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ember Shores 2026" on Fri, 20 Nov 2026.
 
-TBA - Barcelo Rimera Maya is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+TBA - Barcelo Rimera Maya is a music venue in Mexico City listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Silencio
 
-Silencio is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Marcel Dettmann" on Thu, 1 Oct 2026.
+Silencio is a music venue in Paris with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Marcel Dettmann" on Thu, 1 Oct 2026.
 
-Silencio is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Agathe Mougin, COUCOU CHLOE, HEN YANNI and Marcel Dettmann and 2 more. Browse upcoming dates, start times and who's playing. 142 rue Montmartre Paris.
+Silencio is a music venue in Paris listed on soundcheck. 4 upcoming gigs, with line-ups including Agathe Mougin, COUCOU CHLOE, HEN YANNI and Marcel Dettmann and 2 more. See dates, start times and who's playing. 142 rue Montmartre Paris.
 
 ## What's on
 

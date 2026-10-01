@@ -1,8 +1,8 @@
 # BasicDisarm
 
-BasicDisarm is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Oldskool , Istanbul on Sat, 3 Oct 2026.
+BasicDisarm is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Oldskool , Istanbul on Sat, 3 Oct 2026.
 
-BasicDisarm is a techno and electro artist based in Turkey, tracked on soundcheck, with 21 sets logged across Berlin, Istanbul and Stockholm. Often billed alongside 4-i, Luna Fosepthicc and Nots. Next up: TBA - Oldskool , Istanbul on Sat 3 Oct.
+BasicDisarm is a techno and electro artist based in Turkey, with 21 gigs on soundcheck across Berlin, Istanbul and Stockholm. Often billed alongside 4-i, Luna Fosepthicc and Nots. Next up: TBA - Oldskool , Istanbul on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ BasicDisarm is a techno and electro artist based in Turkey, tracked on soundchec
 
 ## Recently played
 
-- The Popstel, Istanbul — Sat, 5 Sept 2026
-- The Popstel, Istanbul — Fri, 4 Sept 2026
-- Şahika, Istanbul — Sat, 25 Jul 2026
-- Fling, Istanbul — Sat, 4 Jul 2026
-- Şahika, Istanbul — Sat, 20 Jun 2026
-- Şahika, Istanbul — Fri, 5 Jun 2026
-- Şahika, Istanbul — Fri, 10 Apr 2026
-- TBA, Istanbul — Sat, 16 Aug 2025
+- The Popstel, Istanbul · Sat, 5 Sept 2026
+- The Popstel, Istanbul · Fri, 4 Sept 2026
+- Şahika, Istanbul · Sat, 25 Jul 2026
+- Fling, Istanbul · Sat, 4 Jul 2026
+- Şahika, Istanbul · Sat, 20 Jun 2026
+- Şahika, Istanbul · Fri, 5 Jun 2026
+- Şahika, Istanbul · Fri, 10 Apr 2026
+- TBA, Istanbul · Sat, 16 Aug 2025
 
 ## Shares bills with
 

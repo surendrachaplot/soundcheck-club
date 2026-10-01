@@ -1,8 +1,8 @@
 # Oppidan
 
-Oppidan is a Garage and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
+Oppidan is a Garage and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
 
-Oppidan is a garage and house artist based in United Kingdom, tracked on soundcheck, with 153 sets logged across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
+Oppidan is a garage and house artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Austin and 50 more. Often billed alongside MPH, Sammy Virji and Notion. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Oppidan is a garage and house artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- The Warehouse, Leeds — Sat, 26 Sept 2026
-- Odaiba, Tokyo — Tue, 22 Sept 2026
-- Openluchttheater Amersfoort, Amsterdam — Fri, 18 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
-- Finsbury Park, London — Fri, 7 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- Art Club, Houston — Fri, 31 Jul 2026
+- The Warehouse, Leeds · Sat, 26 Sept 2026
+- Odaiba, Tokyo · Tue, 22 Sept 2026
+- Openluchttheater Amersfoort, Amsterdam · Fri, 18 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
+- Finsbury Park, London · Fri, 7 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- Art Club, Houston · Fri, 31 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Outer Place at Hoppetosse
 
-Outer Place at Hoppetosse on Sun 1 Nov, Berlin. 5 artists on the bill: Borja S, Dean Denali, Interstellar Funk and Ma.to and 1 more. Techno and Electro. Preview the line-up and save it on soundcheck.
+Outer Place at Hoppetosse on Sun 1 Nov, Berlin. 5 artists: Borja S, Dean Denali, Interstellar Funk and Ma.to and 1 more. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

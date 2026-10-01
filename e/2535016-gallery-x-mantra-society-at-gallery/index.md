@@ -1,6 +1,6 @@
 # Gallery x MANTRA SOCIETY at Gallery
 
-Gallery x MANTRA SOCIETY on Sat 10 Oct, London. Preview the line-up and save it on soundcheck.
+Gallery x MANTRA SOCIETY on Sat 10 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

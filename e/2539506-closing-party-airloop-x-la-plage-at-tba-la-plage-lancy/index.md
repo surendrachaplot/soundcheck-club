@@ -1,6 +1,6 @@
 # Closing Party Airloop x La plage at TBA - La Plage / Lancy
 
-Closing Party Airloop x La plage at TBA - La Plage / Lancy on Sat 3 Oct, Geneva. 1 artist on the bill: Lea Lisa. House and Electro. Preview the line-up and save it on soundcheck.
+Closing Party Airloop x La plage at TBA - La Plage / Lancy on Sat 3 Oct, Geneva. 1 artist: Lea Lisa. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

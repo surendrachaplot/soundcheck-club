@@ -1,6 +1,6 @@
 # Crilli DNB presents Shebeen Sessions with Zero T and Fox at The Ulster Sports Club
 
-Crilli DNB presents Shebeen Sessions with Zero T and Fox at The Ulster Sports Club on Sat 3 Oct, Belfast. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Crilli DNB presents Shebeen Sessions with Zero T and Fox at The Ulster Sports Club on Sat 3 Oct, Belfast. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

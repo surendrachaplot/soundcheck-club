@@ -1,6 +1,6 @@
 # Eclipse with Einmusik at Druckerei Solothurn
 
-Eclipse with Einmusik at Druckerei Solothurn on Sat 3 Oct, Bern. 7 artists on the bill: DiVa Collective, Drumcomplex, Einmusik and Fernando De Matos and 3 more. Preview the line-up and save it on soundcheck.
+Eclipse with Einmusik at Druckerei Solothurn on Sat 3 Oct, Bern. 7 artists: DiVa Collective, Drumcomplex, Einmusik and Fernando De Matos and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

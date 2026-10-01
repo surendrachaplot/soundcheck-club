@@ -1,6 +1,6 @@
 # behave x Hermann's (Pik Dame) at Pik Dame
 
-behave x Hermann's (Pik Dame) on Sat 10 Oct, Frankfurt. 1 artist on the bill: VIĆERO. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+behave x Hermann's (Pik Dame) on Sat 10 Oct, Frankfurt. 1 artist: VIĆERO. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

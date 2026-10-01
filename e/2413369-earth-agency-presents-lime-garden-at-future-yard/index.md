@@ -1,6 +1,6 @@
 # Earth Agency presents Lime Garden at Future Yard
 
-Earth Agency presents Lime Garden at Future Yard on Fri 9 Oct, Liverpool. Disco and Pop. Preview the line-up and save it on soundcheck.
+Earth Agency presents Lime Garden at Future Yard on Fri 9 Oct, Liverpool. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

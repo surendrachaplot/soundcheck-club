@@ -1,6 +1,6 @@
 # Vidafina at Supperclub
 
-Vidafina at Supperclub on Fri 9 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Vidafina at Supperclub on Fri 9 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Yurt Party - Street Party Music | Auckland at Ponsonby Social Club
 
-Yurt Party - Street Party Music | Auckland at Ponsonby Social Club on Fri 11 Dec, Auckland. Dub and Reggaeton. Preview the line-up and save it on soundcheck.
+Yurt Party - Street Party Music | Auckland at Ponsonby Social Club on Fri 11 Dec, Auckland. Dub and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DomnRob
 
-DomnRob is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
+DomnRob is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
 
-DomnRob is a techno and trance artist based in United States of America, tracked on soundcheck, with 41 sets logged across Miami and Philadelphia. Often billed alongside Dadrev, PROLETAR and Mr. Proper. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
+DomnRob is a techno and trance artist based in United States of America, with 41 gigs on soundcheck across Miami and Philadelphia. Often billed alongside Dadrev, PROLETAR and Mr. Proper. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ DomnRob is a techno and trance artist based in United States of America, tracked
 
 ## Recently played
 
-- The Ground at Club Space, Miami — Sat, 15 Aug 2026
-- Club M2 Miami, Miami — Sat, 18 Jul 2026
-- Casa Nube Wynwood, Miami — Sun, 21 Jun 2026
-- Club M2 Miami, Miami — Sat, 13 Jun 2026
-- Club M2 Miami, Miami — Thu, 14 May 2026
-- Mita, Miami — Sat, 2 May 2026
-- Club M2 Miami, Miami — Sat, 25 Apr 2026
-- The Boombox, Miami — Fri, 24 Apr 2026
+- The Ground at Club Space, Miami · Sat, 15 Aug 2026
+- Club M2 Miami, Miami · Sat, 18 Jul 2026
+- Casa Nube Wynwood, Miami · Sun, 21 Jun 2026
+- Club M2 Miami, Miami · Sat, 13 Jun 2026
+- Club M2 Miami, Miami · Thu, 14 May 2026
+- Mita, Miami · Sat, 2 May 2026
+- Club M2 Miami, Miami · Sat, 25 Apr 2026
+- The Boombox, Miami · Fri, 24 Apr 2026
 
 ## Shares bills with
 

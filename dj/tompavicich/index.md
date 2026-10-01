@@ -1,8 +1,8 @@
 # Tom Pavicich
 
-Tom Pavicich is a House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
+Tom Pavicich is a House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Veronica Schip, Amsterdam on Thu, 22 Oct 2026.
 
-Tom Pavicich is a house and progressive house artist based in Argentina, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Dublin and 5 more. Often billed alongside oulcan, Mati Amoretti and FTRXPRS. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
+Tom Pavicich is a house and progressive house artist based in Argentina, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Dublin and 5 more. Often billed alongside oulcan, Mati Amoretti and FTRXPRS. Next up: Veronica Schip, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Tom Pavicich is a house and progressive house artist based in Argentina, tracked
 
 ## Recently played
 
-- TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam — Sat, 22 Aug 2026
-- Crack Bellmer, Berlin — Fri, 14 Aug 2026
-- Bridge 48, Barcelona — Sat, 13 Jun 2026
-- ÆDEN, Berlin — Fri, 5 Jun 2026
-- Bredouille, Berlin — Sat, 18 Apr 2026
-- Radio Radio, Amsterdam — Sat, 4 Apr 2026
-- Bulbul Berlin, Berlin — Fri, 27 Mar 2026
-- TBA - HIDDEN LOCATION (DM @alloutberlin), Berlin — Fri, 20 Mar 2026
+- TBA - De Ruyterkade 14 Amsterdam Central, Amsterdam · Sat, 22 Aug 2026
+- Crack Bellmer, Berlin · Fri, 14 Aug 2026
+- Bridge 48, Barcelona · Sat, 13 Jun 2026
+- ÆDEN, Berlin · Fri, 5 Jun 2026
+- Bredouille, Berlin · Sat, 18 Apr 2026
+- Radio Radio, Amsterdam · Sat, 4 Apr 2026
+- Bulbul Berlin, Berlin · Fri, 27 Mar 2026
+- TBA - HIDDEN LOCATION (DM @alloutberlin), Berlin · Fri, 20 Mar 2026
 
 ## Shares bills with
 

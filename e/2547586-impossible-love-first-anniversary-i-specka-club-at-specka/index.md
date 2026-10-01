@@ -1,6 +1,6 @@
 # Impossible Love First Anniversary I Specka Club at Specka
 
-Impossible Love First Anniversary I Specka Club on Fri 23 Oct, Madrid. 1 artist on the bill: Satom. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Impossible Love First Anniversary I Specka Club on Fri 23 Oct, Madrid. 1 artist: Satom. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

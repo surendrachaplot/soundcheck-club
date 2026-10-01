@@ -1,8 +1,8 @@
 # Apollo Dust
 
-Apollo Dust is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Flash, Washington DC on Sat, 17 Oct 2026.
+Apollo Dust is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Flash, Washington DC on Sat, 17 Oct 2026.
 
-Apollo Dust is a house and techno artist based in France, tracked on soundcheck, with 27 sets logged across Washington DC. Often billed alongside Henry P (US), House Twelve and Jess in the Flesh. Next up: Flash, Washington DC on Sat 17 Oct.
+Apollo Dust is a house and techno artist based in France, with 27 gigs on soundcheck across Washington DC. Often billed alongside Henry P (US), House Twelve and Jess in the Flesh. Next up: Flash, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Apollo Dust is a house and techno artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- Flash, Washington DC — Fri, 11 Sept 2026
-- El Secreto De Rosita, Washington DC — Fri, 7 Aug 2026
-- El Secreto De Rosita, Washington DC — Sat, 27 Jun 2026
-- Eighteenth Street Lounge (ESL), Washington DC — Sun, 24 May 2026
-- El Secreto De Rosita, Washington DC — Sat, 18 Apr 2026
-- Flash, Washington DC — Sun, 8 Mar 2026
-- Jimmy Valentine's Lonely Hearts Club, Washington DC — Sun, 15 Feb 2026
-- Eighteenth Street Lounge (ESL), Washington DC — Thu, 8 Jan 2026
+- Flash, Washington DC · Fri, 11 Sept 2026
+- El Secreto De Rosita, Washington DC · Fri, 7 Aug 2026
+- El Secreto De Rosita, Washington DC · Sat, 27 Jun 2026
+- Eighteenth Street Lounge (ESL), Washington DC · Sun, 24 May 2026
+- El Secreto De Rosita, Washington DC · Sat, 18 Apr 2026
+- Flash, Washington DC · Sun, 8 Mar 2026
+- Jimmy Valentine's Lonely Hearts Club, Washington DC · Sun, 15 Feb 2026
+- Eighteenth Street Lounge (ESL), Washington DC · Thu, 8 Jan 2026
 
 ## Shares bills with
 

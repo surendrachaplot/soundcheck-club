@@ -1,6 +1,6 @@
 # Time Flies presents Vera, Dana Kuehr, Super Venus at TBA - TBA
 
-Time Flies presents Vera, Dana Kuehr, Super Venus at TBA - TBA on Fri 27 Nov, North. 6 artists on the bill: Blason, Dana Kuehr, Ethan. and Patrick Rowe and 2 more. Preview the line-up and save it on soundcheck.
+Time Flies presents Vera, Dana Kuehr, Super Venus at TBA - TBA on Fri 27 Nov, North. 6 artists: Blason, Dana Kuehr, Ethan. and Patrick Rowe and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

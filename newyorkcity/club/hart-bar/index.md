@@ -1,8 +1,8 @@
 # Hart Bar
 
-Hart Bar is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Hella Sketchy X Kudu: Floor Space, Dune Machine, Erin Wajufos" on Mon, 5 Oct 2026.
+Hart Bar is a music venue in New York City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Hella Sketchy X Kudu: Floor Space, Dune Machine, Erin Wajufos" on Mon, 5 Oct 2026.
 
-Hart Bar is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Erin Wajufos. Browse upcoming dates, start times and who's playing. 538 Hart Street, Brooklyn, NY 11221 USA.
+Hart Bar is a music venue in New York City listed on soundcheck. 1 upcoming gig, with line-ups including Erin Wajufos. See dates, start times and who's playing. 538 Hart Street, Brooklyn, NY 11221 USA.
 
 ## What's on
 

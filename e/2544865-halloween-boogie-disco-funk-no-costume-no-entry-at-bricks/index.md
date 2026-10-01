@@ -1,6 +1,6 @@
 # HALLOWEEN BOOGIE: DISCO. FUNK. NO COSTUME NO ENTRY at Bricks
 
-HALLOWEEN BOOGIE: DISCO. FUNK. NO COSTUME NO ENTRY at Bricks on Sat 31 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+HALLOWEEN BOOGIE: DISCO. FUNK. NO COSTUME NO ENTRY at Bricks on Sat 31 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

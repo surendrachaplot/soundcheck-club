@@ -1,6 +1,6 @@
 # TOKYOMONSOON × SpringWave Taiwan 2026 at Zepp Haneda
 
-TOKYOMONSOON × SpringWave Taiwan 2026 at Zepp Haneda on Sun 1 Nov, Tokyo. Preview the line-up and save it on soundcheck.
+TOKYOMONSOON × SpringWave Taiwan 2026 at Zepp Haneda on Sun 1 Nov, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

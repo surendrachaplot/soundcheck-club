@@ -1,8 +1,8 @@
 # Lula Club
 
-Lula Club is a music venue in Madrid with 35 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Torrione & FRIENDS" on Thu, 1 Oct 2026.
+Lula Club is a music venue in Madrid with 35 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Torrione & FRIENDS" on Thu, 1 Oct 2026.
 
-Lula Club is a music venue in Madrid listed on soundcheck. 35 upcoming gigs, with line-ups including Adam Ten, AJNA, Andrea Oliva and Body-O and 2 more. Browse upcoming dates, start times and who's playing. Gran Via 54.
+Lula Club is a music venue in Madrid listed on soundcheck. 35 upcoming gigs, with line-ups including Adam Ten, AJNA, Andrea Oliva and Body-O and 2 more. See dates, start times and who's playing. Gran Via 54.
 
 ## What's on
 

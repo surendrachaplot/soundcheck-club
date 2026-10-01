@@ -1,8 +1,8 @@
 # Zumana Bali
 
-Zumana Bali is a music venue in Bali with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Alex Wann" on Fri, 2 Oct 2026.
+Zumana Bali is a music venue in Bali with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Alex Wann" on Fri, 2 Oct 2026.
 
-Zumana Bali is a music venue in Bali listed on soundcheck. 17 upcoming gigs, with line-ups including Artbat, Alan Dixon, Alex Wann and Colyn and 2 more. Browse upcoming dates, start times and who's playing.
+Zumana Bali is a music venue in Bali listed on soundcheck. 17 upcoming gigs, with line-ups including Artbat, Alan Dixon, Alex Wann and Colyn and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

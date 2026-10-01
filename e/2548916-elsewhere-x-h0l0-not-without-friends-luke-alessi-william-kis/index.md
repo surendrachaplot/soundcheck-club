@@ -1,6 +1,6 @@
 # Elsewhere x H0L0: not without friends: Luke Alessi, William Kiss, Jordan Brando, Miata Boys at H0L0
 
-Elsewhere x H0L0: not without friends: Luke Alessi, William Kiss, Jordan Brando, Miata Boys on Sat 3 Oct, New York City. 7 artists on the bill: amita, Craic Feen, Gigi Rio and Jordan Brando and 3 more. Preview the line-up and save it on soundcheck.
+Elsewhere x H0L0: not without friends: Luke Alessi, William Kiss, Jordan Brando, Miata Boys on Sat 3 Oct, New York City. 7 artists: amita, Craic Feen, Gigi Rio and Jordan Brando and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

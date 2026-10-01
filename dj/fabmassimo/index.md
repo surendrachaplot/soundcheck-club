@@ -1,8 +1,8 @@
 # Fab Massimo
 
-Fab Massimo is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
+Fab Massimo is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Fri, 2 Oct 2026.
 
-Fab Massimo is a techno and tech house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Bombata, Techmo and Katzengold. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
+Fab Massimo is a techno and tech house artist based in Germany, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 10 more. Often billed alongside Bombata, Techmo and Katzengold. Next up: Fabrique im Gängeviertel, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Fab Massimo is a techno and tech house artist based in Germany, tracked on sound
 
 ## Recently played
 
-- Fridas Pier, Stuttgart — Fri, 25 Sept 2026
-- Odonien, Cologne — Sat, 19 Sept 2026
-- Ritter Butzke, Berlin — Sat, 22 Aug 2026
-- Kater, Berlin — Sat, 18 Jul 2026
-- Kowalski, Stuttgart — Fri, 10 Jul 2026
-- FLUCC, Vienna — Sat, 20 Jun 2026
-- Kater, Berlin — Fri, 29 May 2026
-- Cassiopeia, Berlin — Mon, 25 May 2026
+- Fridas Pier, Stuttgart · Fri, 25 Sept 2026
+- Odonien, Cologne · Sat, 19 Sept 2026
+- Ritter Butzke, Berlin · Sat, 22 Aug 2026
+- Kater, Berlin · Sat, 18 Jul 2026
+- Kowalski, Stuttgart · Fri, 10 Jul 2026
+- FLUCC, Vienna · Sat, 20 Jun 2026
+- Kater, Berlin · Fri, 29 May 2026
+- Cassiopeia, Berlin · Mon, 25 May 2026
 
 ## Shares bills with
 

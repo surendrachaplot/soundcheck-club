@@ -1,6 +1,6 @@
 # THE LATE NIGHT SERVICE: Richard Fribert, Toribio, Adri at Djoon
 
-THE LATE NIGHT SERVICE: Richard Fribert, Toribio, Adri at Djoon on Fri 9 Oct, Paris. 3 artists on the bill: Adri, Richard Fribert and Toribio. House and Disco. Preview the line-up and save it on soundcheck.
+THE LATE NIGHT SERVICE: Richard Fribert, Toribio, Adri at Djoon on Fri 9 Oct, Paris. 3 artists: Adri, Richard Fribert and Toribio. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

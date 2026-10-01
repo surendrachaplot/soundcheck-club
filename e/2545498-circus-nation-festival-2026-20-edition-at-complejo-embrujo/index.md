@@ -1,6 +1,6 @@
 # Circus Nation Festival 2026 - 20º Edition at Complejo Embrujo
 
-Circus Nation Festival 2026 - 20º Edition at Complejo Embrujo on Sat 3 Oct, South. 28 artists on the bill: A.N.I., Aquasky, Benny Page and C-System and 24 more. Preview the line-up and save it on soundcheck.
+Circus Nation Festival 2026 - 20º Edition at Complejo Embrujo on Sat 3 Oct, South. 28 artists: A.N.I., Aquasky, Benny Page and C-System and 24 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

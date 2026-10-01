@@ -1,8 +1,8 @@
 # Kumi
 
-Kumi is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Kumi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Kumi is a techno and house artist based in Australia, tracked on soundcheck, with 33 sets logged across Auckland, Barcelona, Berlin and Brisbane and 6 more. Often billed alongside JÄMO, Caleb Jay and J-OK. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Kumi is a techno and house artist based in Australia, with 33 gigs on soundcheck across Auckland, Barcelona, Berlin and Brisbane and 6 more. Often billed alongside JÄMO, Caleb Jay and J-OK. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kumi is a techno and house artist based in Australia, tracked on soundcheck, wit
 
 ## Recently played
 
-- TBA - Il Mercato Centrale, Melbourne — Sat, 12 Sept 2026
-- Marble Bar, Detroit — Sun, 9 Aug 2026
-- TBA - Little Creatures Brewery, Geelong, Melbourne — Sat, 25 Jul 2026
-- Factory Town, Miami — Sat, 18 Apr 2026
-- Prohibition Brisbane, Brisbane — Sat, 11 Apr 2026
-- The Ground at Club Space, Miami — Thu, 5 Mar 2026
-- Club Space Miami, Miami — Fri, 23 Jan 2026
-- The Timber Yard, Melbourne — Wed, 31 Dec 2025
+- TBA - Il Mercato Centrale, Melbourne · Sat, 12 Sept 2026
+- Marble Bar, Detroit · Sun, 9 Aug 2026
+- TBA - Little Creatures Brewery, Geelong, Melbourne · Sat, 25 Jul 2026
+- Factory Town, Miami · Sat, 18 Apr 2026
+- Prohibition Brisbane, Brisbane · Sat, 11 Apr 2026
+- The Ground at Club Space, Miami · Thu, 5 Mar 2026
+- Club Space Miami, Miami · Fri, 23 Jan 2026
+- The Timber Yard, Melbourne · Wed, 31 Dec 2025
 
 ## Shares bills with
 

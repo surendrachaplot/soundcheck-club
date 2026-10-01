@@ -1,6 +1,6 @@
 # Ryoko Ono + Hanno Leichtmann + Sergeant at Silent Green
 
-Ryoko Ono + Hanno Leichtmann + Sergeant at Silent Green on Tue 13 Oct, Berlin. 1 artist on the bill: Hanno Leichtmann. Preview the line-up and save it on soundcheck.
+Ryoko Ono + Hanno Leichtmann + Sergeant at Silent Green on Tue 13 Oct, Berlin. 1 artist: Hanno Leichtmann. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

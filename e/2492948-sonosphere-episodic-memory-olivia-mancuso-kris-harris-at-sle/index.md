@@ -1,6 +1,6 @@
 # Sonosphere: Episodic Memory, Olivia Mancuso, Kris Harris at Sleepwalk
 
-Sonosphere: Episodic Memory, Olivia Mancuso, Kris Harris at Sleepwalk on Wed 21 Oct, New York City. Pop and Electronica. Preview the line-up and save it on soundcheck.
+Sonosphere: Episodic Memory, Olivia Mancuso, Kris Harris at Sleepwalk on Wed 21 Oct, New York City. Pop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

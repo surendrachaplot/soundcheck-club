@@ -1,6 +1,6 @@
 # GRUB Stretford: Taste The Diff'rence || Noel Edge X Batfunk X Pique Roscoe at Grub Stretford
 
-GRUB Stretford: Taste The Diff'rence || Noel Edge X Batfunk X Pique Roscoe at Grub Stretford on Fri 9 Oct, Manchester. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+GRUB Stretford: Taste The Diff'rence || Noel Edge X Batfunk X Pique Roscoe at Grub Stretford on Fri 9 Oct, Manchester. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

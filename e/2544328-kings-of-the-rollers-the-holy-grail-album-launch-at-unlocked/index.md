@@ -1,6 +1,6 @@
 # Kings of the Rollers 'The Holy Grail' Album Launch at UNLOCKED
 
-Kings of the Rollers 'The Holy Grail' Album Launch at UNLOCKED on Thu 8 Oct, London. 1 artist on the bill: Kings of the Rollers. Drum & Bass. Preview the line-up and save it on soundcheck.
+Kings of the Rollers 'The Holy Grail' Album Launch at UNLOCKED on Thu 8 Oct, London. 1 artist: Kings of the Rollers. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

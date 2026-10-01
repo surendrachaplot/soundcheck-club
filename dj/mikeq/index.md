@@ -1,8 +1,8 @@
 # MikeQ
 
-MikeQ is a Ballroom and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+MikeQ is a Ballroom and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-MikeQ is a ballroom and club artist based in United States of America, tracked on soundcheck, with 47 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Sinjin Hawke, Leonce and Litney. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
+MikeQ is a ballroom and club artist based in United States of America, with 47 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 17 more. Often billed alongside Sinjin Hawke, Leonce and Litney. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ MikeQ is a ballroom and club artist based in United States of America, tracked o
 
 ## Recently played
 
-- Stereo, Glasgow — Fri, 25 Sept 2026
-- 314 Scholes, New York City — Fri, 18 Sept 2026
-- Paragon, New York City — Thu, 23 Jul 2026
-- House of Yes, New York City — Fri, 26 Jun 2026
-- TBA - DTLA, Los Angeles — Fri, 19 Jun 2026
-- TBA - Secret Location , Denver — Sat, 30 May 2026
-- Paragon, New York City — Sat, 16 May 2026
-- Paragon, New York City — Thu, 5 Feb 2026
+- Stereo, Glasgow · Fri, 25 Sept 2026
+- 314 Scholes, New York City · Fri, 18 Sept 2026
+- Paragon, New York City · Thu, 23 Jul 2026
+- House of Yes, New York City · Fri, 26 Jun 2026
+- TBA - DTLA, Los Angeles · Fri, 19 Jun 2026
+- TBA - Secret Location , Denver · Sat, 30 May 2026
+- Paragon, New York City · Sat, 16 May 2026
+- Paragon, New York City · Thu, 5 Feb 2026
 
 ## Shares bills with
 

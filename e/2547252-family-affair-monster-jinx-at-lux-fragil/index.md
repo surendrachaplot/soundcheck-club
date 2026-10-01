@@ -1,6 +1,6 @@
 # Family Affair Monster Jinx at Lux Fragil
 
-Family Affair Monster Jinx at Lux Fragil on Thu 1 Oct, Lisbon. Hip-Hop and Bass. Preview the line-up and save it on soundcheck.
+Family Affair Monster Jinx at Lux Fragil on Thu 1 Oct, Lisbon. Hip-Hop and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

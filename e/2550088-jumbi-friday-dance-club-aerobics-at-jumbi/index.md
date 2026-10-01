@@ -1,6 +1,6 @@
 # Jumbi Friday Dance: Club Aerobics at Jumbi
 
-Jumbi Friday Dance: Club Aerobics on Fri 9 Oct, London. 1 artist on the bill: Bianca Oblivion. Preview the line-up and save it on soundcheck.
+Jumbi Friday Dance: Club Aerobics on Fri 9 Oct, London. 1 artist: Bianca Oblivion. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Rebūke at Academy LA
 
-Rebūke at Academy LA on Sat 3 Oct, Los Angeles. 1 artist on the bill: Rebuke. House. Preview the line-up and save it on soundcheck.
+Rebūke at Academy LA on Sat 3 Oct, Los Angeles. 1 artist: Rebuke. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

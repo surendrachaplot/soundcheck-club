@@ -1,6 +1,6 @@
 # Halloween House party with Ingy at Madre
 
-Halloween House party with Ingy at Madre on Sat 31 Oct, Valencia. 3 artists on the bill: Flow, Flowing and Ingy. House. Preview the line-up and save it on soundcheck.
+Halloween House party with Ingy at Madre on Sat 31 Oct, Valencia. 3 artists: Flow, Flowing and Ingy. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

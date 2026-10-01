@@ -1,8 +1,8 @@
 # Lex (GR)
 
-Lex (GR) is a Jungle and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
+Lex (GR) is a Jungle and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Barunah Plains, Victoria on Mon, 28 Dec 2026.
 
-Lex (GR) is a jungle and deep house artist based in Greece, tracked on soundcheck, with 29 sets logged across Athens, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Chevy, Locke and MATRIX3K. Next up: Barunah Plains, Victoria on Mon 28 Dec.
+Lex (GR) is a jungle and deep house artist based in Greece, with 29 gigs on soundcheck across Athens, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Chevy, Locke and MATRIX3K. Next up: Barunah Plains, Victoria on Mon 28 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lex (GR) is a jungle and deep house artist based in Greece, tracked on soundchec
 
 ## Recently played
 
-- Renate, Berlin — Thu, 25 Jun 2026
-- TBA - Mikis Theodorakis Park, Keramikos, Athens — Sat, 16 May 2026
-- TBA - Mikis Theodorakis Park, Keramikos, Athens — Sun, 3 May 2026
-- Burger Disco Club, Athens — Sun, 22 Feb 2026
-- Romantso, Athens — Fri, 20 Feb 2026
-- C12, Brussels — Sat, 20 Dec 2025
-- Telion, Athens — Sat, 20 Dec 2025
-- TBA - 1 hour from Sydney, Sydney — Fri, 12 Dec 2025
+- Renate, Berlin · Thu, 25 Jun 2026
+- TBA - Mikis Theodorakis Park, Keramikos, Athens · Sat, 16 May 2026
+- TBA - Mikis Theodorakis Park, Keramikos, Athens · Sun, 3 May 2026
+- Burger Disco Club, Athens · Sun, 22 Feb 2026
+- Romantso, Athens · Fri, 20 Feb 2026
+- C12, Brussels · Sat, 20 Dec 2025
+- Telion, Athens · Sat, 20 Dec 2025
+- TBA - 1 hour from Sydney, Sydney · Fri, 12 Dec 2025
 
 ## Shares bills with
 

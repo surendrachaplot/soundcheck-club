@@ -1,8 +1,8 @@
 # NAR
 
-NAR is a music venue in Utrecht with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "CLUBNACHT / EYCEE & Itz3bby" on Fri, 2 Oct 2026.
+NAR is a music venue in Utrecht with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "CLUBNACHT / EYCEE & Itz3bby" on Fri, 2 Oct 2026.
 
-NAR is a music venue in Utrecht listed on soundcheck. 4 upcoming gigs, with line-ups including Ays (NL), EYCEE, I-F and Itz3bby and 2 more. Browse upcoming dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
+NAR is a music venue in Utrecht listed on soundcheck. 4 upcoming gigs, with line-ups including Ays (NL), EYCEE, I-F and Itz3bby and 2 more. See dates, start times and who's playing. Nijverheidsweg 6, 3534 AM Utrecht, Netherlands.
 
 ## What's on
 

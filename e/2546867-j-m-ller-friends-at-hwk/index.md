@@ -1,6 +1,6 @@
 # J. Müller & Friends at HWK
 
-J. Müller & Friends at HWK on Fri 16 Oct, London. 3 artists on the bill: C4LYPSO, DATGRUVEE and J.Müller. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+J. Müller & Friends at HWK on Fri 16 Oct, London. 3 artists: C4LYPSO, DATGRUVEE and J.Müller. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

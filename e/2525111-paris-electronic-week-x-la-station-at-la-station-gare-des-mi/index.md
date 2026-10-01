@@ -1,6 +1,6 @@
 # Paris Electronic Week x La Station at La Station - Gare des Mines
 
-Paris Electronic Week x La Station at La Station - Gare des Mines on Thu 1 Oct, Paris. Preview the line-up and save it on soundcheck.
+Paris Electronic Week x La Station at La Station - Gare des Mines on Thu 1 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

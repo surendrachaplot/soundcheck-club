@@ -1,8 +1,8 @@
 # Adam Ten
 
-Adam Ten is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ironworks, London on Sat, 3 Oct 2026.
+Adam Ten is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ironworks, London on Sat, 3 Oct 2026.
 
-Adam Ten is a house and techno artist based in Israel, tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Auckland and 36 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Ironworks, London on Sat 3 Oct.
+Adam Ten is a house and techno artist based in Israel, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 36 more. Often billed alongside Mita Gami, Jamie Jones and CamelPhat. Next up: Ironworks, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Adam Ten is a house and techno artist based in Israel, tracked on soundcheck, wi
 
 ## Recently played
 
-- Olympic Athletic Center of Athens, Athens — Sat, 5 Sept 2026
-- Jardins de Joan Brossa, Barcelona — Sun, 23 Aug 2026
-- Hï Ibiza, Ibiza — Sat, 15 Aug 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- TBA - YAANGA PARK, Los Angeles — Sat, 1 Aug 2026
-- Pacha Ibiza, Ibiza — Wed, 29 Jul 2026
-- Central Park SummerStage, New York City — Sat, 25 Jul 2026
-- The Concourse Project, Austin — Fri, 24 Jul 2026
+- Olympic Athletic Center of Athens, Athens · Sat, 5 Sept 2026
+- Jardins de Joan Brossa, Barcelona · Sun, 23 Aug 2026
+- Hï Ibiza, Ibiza · Sat, 15 Aug 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
+- TBA - YAANGA PARK, Los Angeles · Sat, 1 Aug 2026
+- Pacha Ibiza, Ibiza · Wed, 29 Jul 2026
+- Central Park SummerStage, New York City · Sat, 25 Jul 2026
+- The Concourse Project, Austin · Fri, 24 Jul 2026
 
 ## Shares bills with
 

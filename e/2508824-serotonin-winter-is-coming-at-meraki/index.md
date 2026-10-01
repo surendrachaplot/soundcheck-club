@@ -1,6 +1,6 @@
 # Serotonin - Winter Is Coming at Meraki
 
-Serotonin - Winter Is Coming at Meraki on Sat 10 Oct, Liverpool. Techno and Acid. Preview the line-up and save it on soundcheck.
+Serotonin - Winter Is Coming at Meraki on Sat 10 Oct, Liverpool. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

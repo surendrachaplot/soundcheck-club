@@ -1,6 +1,6 @@
 # Les Enfants pres. Zero with Marc Anthony Bowen & Scacco at Les Enfants Brillants
 
-Les Enfants pres. Zero with Marc Anthony Bowen & Scacco at Les Enfants Brillants on Fri 16 Oct, Barcelona. 2 artists on the bill: Marc Anthony Bowen and Scacco. Techno and Electro. Preview the line-up and save it on soundcheck.
+Les Enfants pres. Zero with Marc Anthony Bowen & Scacco at Les Enfants Brillants on Fri 16 Oct, Barcelona. 2 artists: Marc Anthony Bowen and Scacco. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

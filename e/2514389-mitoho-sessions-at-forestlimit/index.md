@@ -1,6 +1,6 @@
 # 【MITOHO SESSIONS】 at Forestlimit
 
-【MITOHO SESSIONS】 at Forestlimit on Tue 20 Oct, Tokyo. Pop and Post-Punk. Preview the line-up and save it on soundcheck.
+【MITOHO SESSIONS】 at Forestlimit on Tue 20 Oct, Tokyo. Pop and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

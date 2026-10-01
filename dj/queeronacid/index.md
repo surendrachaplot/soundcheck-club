@@ -1,8 +1,8 @@
 # Queer On Acid
 
-Queer On Acid is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Laska V21, Riga on Fri, 20 Nov 2026.
+Queer On Acid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Laska V21, Riga on Fri, 20 Nov 2026.
 
-Queer On Acid is a techno and house artist based in Latvia, tracked on soundcheck, with 39 sets logged across Riga and Tallinn. Often billed alongside mOZ, Herren Ivo and Ikss. Next up: Laska V21, Riga on Fri 20 Nov.
+Queer On Acid is a techno and house artist based in Latvia, with 39 gigs on soundcheck across Riga and Tallinn. Often billed alongside mOZ, Herren Ivo and Ikss. Next up: Laska V21, Riga on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Queer On Acid is a techno and house artist based in Latvia, tracked on soundchec
 
 ## Recently played
 
-- Laska V21, Riga — Fri, 11 Sept 2026
-- River Ship Vecrīga, Riga — Fri, 28 Aug 2026
-- B2 Rīga, Riga — Sat, 22 Aug 2026
-- Teritorija, Riga — Fri, 14 Aug 2026
-- River Ship Vecrīga, Riga — Fri, 12 Jun 2026
-- Laska V21, Riga — Fri, 15 May 2026
-- Laska V21, Riga — Fri, 21 Nov 2025
-- H2o6, Riga — Sat, 18 Oct 2025
+- Laska V21, Riga · Fri, 11 Sept 2026
+- River Ship Vecrīga, Riga · Fri, 28 Aug 2026
+- B2 Rīga, Riga · Sat, 22 Aug 2026
+- Teritorija, Riga · Fri, 14 Aug 2026
+- River Ship Vecrīga, Riga · Fri, 12 Jun 2026
+- Laska V21, Riga · Fri, 15 May 2026
+- Laska V21, Riga · Fri, 21 Nov 2025
+- H2o6, Riga · Sat, 18 Oct 2025
 
 ## Shares bills with
 

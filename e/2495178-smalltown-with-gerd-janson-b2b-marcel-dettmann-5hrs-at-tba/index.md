@@ -1,6 +1,6 @@
 # smalltown with Gerd Janson B2B Marcel Dettmann (5hrs) at TBA
 
-smalltown with Gerd Janson B2B Marcel Dettmann (5hrs) at TBA on Sat 21 Nov, Melbourne. 3 artists on the bill: Gerd Janson, Lex and Marcel Dettmann. Preview the line-up and save it on soundcheck.
+smalltown with Gerd Janson B2B Marcel Dettmann (5hrs) at TBA on Sat 21 Nov, Melbourne. 3 artists: Gerd Janson, Lex and Marcel Dettmann. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

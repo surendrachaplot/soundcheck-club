@@ -1,6 +1,6 @@
 # Ofrenda Montelobos at Frontón Bucareli
 
-Ofrenda Montelobos at Frontón Bucareli on Sat 7 Nov, Mexico City. 3 artists on the bill: Hardt Antoine, Satori and SG Lewis. Deep House and Club. Preview the line-up and save it on soundcheck.
+Ofrenda Montelobos at Frontón Bucareli on Sat 7 Nov, Mexico City. 3 artists: Hardt Antoine, Satori and SG Lewis. Deep House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Polyphonic: Moving Parts at Factory Floor
 
-Polyphonic: Moving Parts at Factory Floor on Fri 6 Nov, Sheffield. House and Deep House. Preview the line-up and save it on soundcheck.
+Polyphonic: Moving Parts at Factory Floor on Fri 6 Nov, Sheffield. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

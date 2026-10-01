@@ -1,6 +1,6 @@
 # Low Jack presents Miracles Residency w/ Mystique & Low Jack at Le Poisson Volant
 
-Low Jack presents Miracles Residency w/ Mystique & Low Jack at Le Poisson Volant on Sat 17 Oct, Paris. 1 artist on the bill: Low Jack. Preview the line-up and save it on soundcheck.
+Low Jack presents Miracles Residency w/ Mystique & Low Jack at Le Poisson Volant on Sat 17 Oct, Paris. 1 artist: Low Jack. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Vinyl Open Decks with George Kerr [04.10.26] at Kings Arms E2
 
-Vinyl Open Decks with George Kerr [04.10.26] at Kings Arms E2 on Sun 4 Oct, London. Funk / Soul. Preview the line-up and save it on soundcheck.
+Vinyl Open Decks with George Kerr [04.10.26] at Kings Arms E2 on Sun 4 Oct, London. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

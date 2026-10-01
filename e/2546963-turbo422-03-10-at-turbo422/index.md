@@ -1,6 +1,6 @@
 # Turbo422 > 03.10 at Turbo422
 
-Turbo422 > 03.10 on Sat 3 Oct, Melbourne. Techno and House. Preview the line-up and save it on soundcheck.
+Turbo422 > 03.10 on Sat 3 Oct, Melbourne. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

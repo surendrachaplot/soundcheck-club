@@ -1,8 +1,8 @@
 # The Listening House | Pollok House
 
-The Listening House | Pollok House is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sonica: Lara Jones" on Sat, 3 Oct 2026.
+The Listening House | Pollok House is a music venue in Glasgow with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sonica: Lara Jones" on Sat, 3 Oct 2026.
 
-The Listening House | Pollok House is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs. Browse upcoming dates, start times and who's playing. 2060 Pollokshaws Rd, Pollokshaws, Glasgow G43 1AT.
+The Listening House | Pollok House is a music venue in Glasgow listed on soundcheck. 7 upcoming gigs. See dates, start times and who's playing. 2060 Pollokshaws Rd, Pollokshaws, Glasgow G43 1AT.
 
 ## What's on
 

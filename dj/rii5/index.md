@@ -1,8 +1,8 @@
 # Rii5
 
-Rii5 is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Bláthy Ottó u. 3-5 Budapest, 1089, Budapest on Fri, 9 Oct 2026.
+Rii5 is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Bláthy Ottó u. 3-5 Budapest, 1089, Budapest on Fri, 9 Oct 2026.
 
-Rii5 is a techno and house artist based in Hungary, tracked on soundcheck, with 10 sets logged across Budapest. Often billed alongside Acsa, Dorota and Klayman. Next up: TBA - Bláthy Ottó u. 3-5 Budapest, 1089, Budapest on Fri 9 Oct.
+Rii5 is a techno and house artist based in Hungary, with 10 gigs on soundcheck across Budapest. Often billed alongside Acsa, Dorota and Klayman. Next up: TBA - Bláthy Ottó u. 3-5 Budapest, 1089, Budapest on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Rii5 is a techno and house artist based in Hungary, tracked on soundcheck, with 
 
 ## Recently played
 
-- Pontoon Budapest, Budapest — Thu, 17 Sept 2026
-- Turbina, Budapest — Sat, 29 Aug 2026
-- Very Small Club, Budapest — Fri, 7 Aug 2026
-- Very Small Club, Budapest — Fri, 7 Aug 2026
-- TBA, Budapest — Fri, 12 Dec 2025
-- TBA - (Pacsi Kulturális Központ), Budapest — Fri, 28 Nov 2025
-- TBA -  Secret Warehouse Party, Budapest — Sat, 4 Oct 2025
-- Very Small Club, Budapest — Sat, 27 Sept 2025
+- Pontoon Budapest, Budapest · Thu, 17 Sept 2026
+- Turbina, Budapest · Sat, 29 Aug 2026
+- Very Small Club, Budapest · Fri, 7 Aug 2026
+- Very Small Club, Budapest · Fri, 7 Aug 2026
+- TBA, Budapest · Fri, 12 Dec 2025
+- TBA - (Pacsi Kulturális Központ), Budapest · Fri, 28 Nov 2025
+- TBA -  Secret Warehouse Party, Budapest · Sat, 4 Oct 2025
+- Very Small Club, Budapest · Sat, 27 Sept 2025
 
 ## Shares bills with
 

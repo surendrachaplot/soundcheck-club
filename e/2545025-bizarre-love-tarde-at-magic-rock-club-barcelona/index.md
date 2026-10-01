@@ -1,6 +1,6 @@
 # Bizarre Love Tardeö at Magic Rock Club Barcelona
 
-Bizarre Love Tardeö at Magic Rock Club Barcelona on Sat 24 Oct, Barcelona. Pop and New Wave. Preview the line-up and save it on soundcheck.
+Bizarre Love Tardeö at Magic Rock Club Barcelona on Sat 24 Oct, Barcelona. Pop and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

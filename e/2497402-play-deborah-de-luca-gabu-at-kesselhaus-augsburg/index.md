@@ -1,6 +1,6 @@
 # PLAY - Deborah De Luca - Gabu at Kesselhaus Augsburg
 
-PLAY - Deborah De Luca - Gabu at Kesselhaus Augsburg on Sat 24 Oct, Augsburg. 2 artists on the bill: Deborah De Luca and Gabu. Preview the line-up and save it on soundcheck.
+PLAY - Deborah De Luca - Gabu at Kesselhaus Augsburg on Sat 24 Oct, Augsburg. 2 artists: Deborah De Luca and Gabu. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

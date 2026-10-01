@@ -1,8 +1,8 @@
 # DJ.Egoshooter10000
 
-DJ.Egoshooter10000 is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Humboldthain Club, Berlin on Fri, 16 Oct 2026.
+DJ.Egoshooter10000 is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Humboldthain Club, Berlin on Fri, 16 Oct 2026.
 
-DJ.Egoshooter10000 is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Leipzig. Often billed alongside YOVA, 4NOUK and Alina Viktoria. Next up: Humboldthain Club, Berlin on Fri 16 Oct.
+DJ.Egoshooter10000 is a techno and trance artist based in Germany, with 18 gigs on soundcheck across Berlin and Leipzig. Often billed alongside YOVA, 4NOUK and Alina Viktoria. Next up: Humboldthain Club, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ DJ.Egoshooter10000 is a techno and trance artist based in Germany, tracked on so
 
 ## Recently played
 
-- Humboldthain Club, Berlin — Fri, 18 Sept 2026
-- ÆDEN, Berlin — Thu, 2 Jul 2026
-- Monarch, Berlin — Fri, 5 Jun 2026
-- ÆDEN, Berlin — Sat, 30 May 2026
-- OXI, Berlin — Sat, 9 May 2026
-- Paloma, Berlin — Sun, 26 Apr 2026
-- Void Club, Berlin — Fri, 20 Mar 2026
-- Lokschuppen Berlin, Berlin — Sat, 28 Feb 2026
+- Humboldthain Club, Berlin · Fri, 18 Sept 2026
+- ÆDEN, Berlin · Thu, 2 Jul 2026
+- Monarch, Berlin · Fri, 5 Jun 2026
+- ÆDEN, Berlin · Sat, 30 May 2026
+- OXI, Berlin · Sat, 9 May 2026
+- Paloma, Berlin · Sun, 26 Apr 2026
+- Void Club, Berlin · Fri, 20 Mar 2026
+- Lokschuppen Berlin, Berlin · Sat, 28 Feb 2026
 
 ## Shares bills with
 

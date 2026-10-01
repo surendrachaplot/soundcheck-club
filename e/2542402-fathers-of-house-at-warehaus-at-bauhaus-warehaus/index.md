@@ -1,6 +1,6 @@
 # Fathers of House at Warehaus at Bauhaus Warehaus
 
-Fathers of House at Warehaus at Bauhaus Warehaus on Fri 13 Nov, London. House. Preview the line-up and save it on soundcheck.
+Fathers of House at Warehaus at Bauhaus Warehaus on Fri 13 Nov, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

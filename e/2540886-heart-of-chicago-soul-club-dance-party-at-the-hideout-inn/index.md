@@ -1,6 +1,6 @@
 # Heart of Chicago Soul Club Dance Party at The Hideout Inn
 
-Heart of Chicago Soul Club Dance Party at The Hideout Inn on Sat 17 Oct, Chicago. Garage and Funk / Soul. Preview the line-up and save it on soundcheck.
+Heart of Chicago Soul Club Dance Party at The Hideout Inn on Sat 17 Oct, Chicago. Garage and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

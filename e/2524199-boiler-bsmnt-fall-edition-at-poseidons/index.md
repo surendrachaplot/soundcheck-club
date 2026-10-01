@@ -1,6 +1,6 @@
 # BOILER BSMNT: FALL EDITION at Poseidons
 
-BOILER BSMNT: FALL EDITION at Poseidons on Fri 9 Oct, Riga. 6 artists on the bill: ARRISHA, DV8 (LV), MBark and RAWKORED and 2 more. Techno. Preview the line-up and save it on soundcheck.
+BOILER BSMNT: FALL EDITION at Poseidons on Fri 9 Oct, Riga. 6 artists: ARRISHA, DV8 (LV), MBark and RAWKORED and 2 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

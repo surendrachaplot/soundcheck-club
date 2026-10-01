@@ -1,8 +1,8 @@
 # Society
 
-Society is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "𝐈𝐍𝐓𝐄𝐍𝐒𝐄 #16 ♱ ɪɴᴠɪᴛᴇꜱ 𝐘𝐀𝐌𝐀𝐆𝐔𝐂𝐂𝐈 ▱ 𝗦𝗢𝗖𝗜𝗘𝗧𝗬 ▱ 02 . 10 . 26" on Fri, 2 Oct 2026.
+Society is a music venue in Brussels with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "𝐈𝐍𝐓𝐄𝐍𝐒𝐄 #16 ♱ ɪɴᴠɪᴛᴇꜱ 𝐘𝐀𝐌𝐀𝐆𝐔𝐂𝐂𝐈 ▱ 𝗦𝗢𝗖𝗜𝗘𝗧𝗬 ▱ 02 . 10 . 26" on Fri, 2 Oct 2026.
 
-Society is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Belben, MAKII and Yamagucci. Browse upcoming dates, start times and who's playing. Rue Sainte-Anne 20, 1000 Bruxelles.
+Society is a music venue in Brussels listed on soundcheck. 2 upcoming gigs, with line-ups including Belben, MAKII and Yamagucci. See dates, start times and who's playing. Rue Sainte-Anne 20, 1000 Bruxelles.
 
 ## What's on
 

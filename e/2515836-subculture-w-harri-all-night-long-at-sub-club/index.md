@@ -1,6 +1,6 @@
 # Subculture w/ Harri [All Night Long] at Sub Club
 
-Subculture w/ Harri [All Night Long] at Sub Club on Sat 31 Oct, Glasgow. 1 artist on the bill: DJ Harri. Preview the line-up and save it on soundcheck.
+Subculture w/ Harri [All Night Long] at Sub Club on Sat 31 Oct, Glasgow. 1 artist: DJ Harri. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

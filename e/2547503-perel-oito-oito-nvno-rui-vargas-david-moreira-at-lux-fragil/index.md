@@ -1,6 +1,6 @@
 # Perel, Oito//Oito, NVNO, Rui Vargas, David Moreira at Lux Fragil
 
-Perel, Oito//Oito, NVNO, Rui Vargas, David Moreira at Lux Fragil on Fri 30 Oct, Lisbon. 4 artists on the bill: David Moreira, OitoZeroOito, Perel and Rui Vargas. Preview the line-up and save it on soundcheck.
+Perel, Oito//Oito, NVNO, Rui Vargas, David Moreira at Lux Fragil on Fri 30 Oct, Lisbon. 4 artists: David Moreira, OitoZeroOito, Perel and Rui Vargas. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # The Camden
 
-The Camden is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "PERREO MÁS - LONDON REGGAETON PARTY" on Sat, 3 Oct 2026.
+The Camden is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PERREO MÁS - LONDON REGGAETON PARTY" on Sat, 3 Oct 2026.
 
-The Camden is a music venue in London listed on soundcheck. 6 upcoming gigs. Browse upcoming dates, start times and who's playing. 65 Crowndale Road, Camden, London, NW1 1TN.
+The Camden is a music venue in London listed on soundcheck. 6 upcoming gigs. See dates, start times and who's playing. 65 Crowndale Road, Camden, London, NW1 1TN.
 
 ## What's on
 

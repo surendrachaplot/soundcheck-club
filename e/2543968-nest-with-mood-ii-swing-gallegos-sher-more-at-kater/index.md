@@ -1,6 +1,6 @@
 # NEST with Mood II Swing, Gallegos, Sherø + more at Kater
 
-NEST with Mood II Swing, Gallegos, Sherø + more at Kater on Fri 27 Nov, Berlin. 7 artists on the bill: Bézier, Esther Dune, Evan Tail and Gallegos and 3 more. House and Acid. Preview the line-up and save it on soundcheck.
+NEST with Mood II Swing, Gallegos, Sherø + more at Kater on Fri 27 Nov, Berlin. 7 artists: Bézier, Esther Dune, Evan Tail and Gallegos and 3 more. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

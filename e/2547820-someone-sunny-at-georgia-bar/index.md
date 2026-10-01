@@ -1,6 +1,6 @@
 # Someone Sunny at Georgia Bar
 
-Someone Sunny at Georgia Bar on Fri 2 Oct, Berlin. 1 artist on the bill: Someone Sunny. House. Preview the line-up and save it on soundcheck.
+Someone Sunny at Georgia Bar on Fri 2 Oct, Berlin. 1 artist: Someone Sunny. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

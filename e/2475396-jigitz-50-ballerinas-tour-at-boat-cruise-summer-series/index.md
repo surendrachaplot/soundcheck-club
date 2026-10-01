@@ -1,6 +1,6 @@
 # Jigitz: 50 Ballerinas Tour at Boat Cruise Summer Series
 
-Jigitz: 50 Ballerinas Tour at Boat Cruise Summer Series on Sat 3 Oct, Boston. House and Garage. Preview the line-up and save it on soundcheck.
+Jigitz: 50 Ballerinas Tour at Boat Cruise Summer Series on Sat 3 Oct, Boston. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

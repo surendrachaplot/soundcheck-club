@@ -1,6 +1,6 @@
 # YOU ME TECHNO NOW at Gridx
 
-YOU ME TECHNO NOW at Gridx on Sat 21 Nov, Luxembourg. 4 artists on the bill: Alexia K., DELEY, Karla Blum and Lilly Palmer. Preview the line-up and save it on soundcheck.
+YOU ME TECHNO NOW at Gridx on Sat 21 Nov, Luxembourg. 4 artists: Alexia K., DELEY, Karla Blum and Lilly Palmer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

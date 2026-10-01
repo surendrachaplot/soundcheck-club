@@ -1,6 +1,6 @@
 # ABB X RECOGNISE at Concept Haus
 
-ABB X RECOGNISE at Concept Haus on Sat 21 Nov, Manchester. 8 artists on the bill: Anthea, AVIAX, Gabbs and Isabelle Koci and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+ABB X RECOGNISE at Concept Haus on Sat 21 Nov, Manchester. 8 artists: Anthea, AVIAX, Gabbs and Isabelle Koci and 4 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

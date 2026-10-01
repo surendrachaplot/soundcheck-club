@@ -1,6 +1,6 @@
 # [NoctamBar] Mah'Mood · Truckthomas · Walla P at La Gravière
 
-[NoctamBar] Mah'Mood · Truckthomas · Walla P at La Gravière on Thu 15 Oct, Geneva. 1 artist on the bill: Walla P. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+[NoctamBar] Mah'Mood · Truckthomas · Walla P at La Gravière on Thu 15 Oct, Geneva. 1 artist: Walla P. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

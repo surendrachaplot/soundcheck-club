@@ -1,6 +1,6 @@
 # TOKYO SPOKEN WORD 2026 at Good Tempo
 
-TOKYO SPOKEN WORD 2026 at Good Tempo on Sun 15 Nov, Tokyo. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
+TOKYO SPOKEN WORD 2026 at Good Tempo on Sun 15 Nov, Tokyo. Hip-Hop and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

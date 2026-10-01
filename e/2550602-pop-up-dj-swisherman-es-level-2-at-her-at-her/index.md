@@ -1,6 +1,6 @@
 # POP-UP: DJ SWISHERMAN [ES] → LEVEL 2 AT HER at HER
 
-POP-UP: DJ SWISHERMAN [ES] → LEVEL 2 AT HER on Thu 1 Oct, Melbourne. 3 artists on the bill: DJ LONER, DJ SWISHERMAN and Irah. Preview the line-up and save it on soundcheck.
+POP-UP: DJ SWISHERMAN [ES] → LEVEL 2 AT HER on Thu 1 Oct, Melbourne. 3 artists: DJ LONER, DJ SWISHERMAN and Irah. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

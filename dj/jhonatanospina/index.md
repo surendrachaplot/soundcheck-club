@@ -1,8 +1,8 @@
 # JHONATAN OSPINA
 
-JHONATAN OSPINA is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at John Doe, Amsterdam on Wed, 21 Oct 2026.
+JHONATAN OSPINA is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at John Doe, Amsterdam on Wed, 21 Oct 2026.
 
-JHONATAN OSPINA is a techno and tech house artist based in Colombia, tracked on soundcheck, with 14 sets logged across Amsterdam, Miami and Sao Paulo. Often billed alongside Alex Sharp, Jhon Rios and ARTISTIKK. Next up: John Doe, Amsterdam on Wed 21 Oct.
+JHONATAN OSPINA is a techno and tech house artist based in Colombia, with 14 gigs on soundcheck across Amsterdam, Miami and Sao Paulo. Often billed alongside Alex Sharp, Jhon Rios and ARTISTIKK. Next up: John Doe, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ JHONATAN OSPINA is a techno and tech house artist based in Colombia, tracked on 
 
 ## Recently played
 
-- John Doe, Amsterdam — Fri, 19 Jun 2026
-- John Doe, Amsterdam — Fri, 27 Mar 2026
-- John Doe, Amsterdam — Fri, 14 Nov 2025
-- McSorley’s Beach Pub, Miami — Fri, 21 Feb 2025
-- Abstratto Club, Sao Paulo — Sun, 15 Sept 2024
-- Abstratto Club, Sao Paulo — Sat, 14 Sept 2024
-- Lachimba Club, Sao Paulo — Fri, 5 Jul 2024
-- After do Teixeira, Sao Paulo — Sun, 2 Jun 2024
+- John Doe, Amsterdam · Fri, 19 Jun 2026
+- John Doe, Amsterdam · Fri, 27 Mar 2026
+- John Doe, Amsterdam · Fri, 14 Nov 2025
+- McSorley’s Beach Pub, Miami · Fri, 21 Feb 2025
+- Abstratto Club, Sao Paulo · Sun, 15 Sept 2024
+- Abstratto Club, Sao Paulo · Sat, 14 Sept 2024
+- Lachimba Club, Sao Paulo · Fri, 5 Jul 2024
+- After do Teixeira, Sao Paulo · Sun, 2 Jun 2024
 
 ## Shares bills with
 

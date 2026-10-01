@@ -1,8 +1,8 @@
 # Kölsch
 
-Kölsch is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pacha New York, New York City on Sun, 11 Oct 2026.
+Kölsch is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pacha New York, New York City on Sun, 11 Oct 2026.
 
-Kölsch is a techno and house artist based in Denmark, tracked on soundcheck, with 151 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Pacha New York, New York City on Sun 11 Oct.
+Kölsch is a techno and house artist based in Denmark, with 151 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 41 more. Often billed alongside Kevin de Vries, Olympe and CamelPhat. Next up: Pacha New York, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Kölsch is a techno and house artist based in Denmark, tracked on soundcheck, wi
 
 ## Recently played
 
-- [UNVRS], Ibiza — Sat, 26 Sept 2026
-- fabric, London — Fri, 25 Sept 2026
-- The View From The Shard, London — Fri, 25 Sept 2026
-- Hï Ibiza, Ibiza — Mon, 14 Sept 2026
-- Cova Santa, Ibiza — Fri, 4 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 29 Aug 2026
-- Budai Vár - Oroszlános Udvar, Budapest — Fri, 28 Aug 2026
-- Luz De Gas, Barcelona — Sat, 15 Aug 2026
+- [UNVRS], Ibiza · Sat, 26 Sept 2026
+- fabric, London · Fri, 25 Sept 2026
+- The View From The Shard, London · Fri, 25 Sept 2026
+- Hï Ibiza, Ibiza · Mon, 14 Sept 2026
+- Cova Santa, Ibiza · Fri, 4 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 29 Aug 2026
+- Budai Vár - Oroszlános Udvar, Budapest · Fri, 28 Aug 2026
+- Luz De Gas, Barcelona · Sat, 15 Aug 2026
 
 ## Shares bills with
 

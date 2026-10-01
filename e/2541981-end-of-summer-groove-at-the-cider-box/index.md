@@ -1,6 +1,6 @@
 # End of Summer Groove at The Cider Box
 
-End of Summer Groove at The Cider Box on Fri 2 Oct, Bristol. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+End of Summer Groove at The Cider Box on Fri 2 Oct, Bristol. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # [DERESTRICT 5 Years Anniversary] Randomer · GRMY · Mawenzi at La Gravière
 
-[DERESTRICT 5 Years Anniversary] Randomer · GRMY · Mawenzi at La Gravière on Fri 2 Oct, Geneva. 1 artist on the bill: Randomer. Techno. Preview the line-up and save it on soundcheck.
+[DERESTRICT 5 Years Anniversary] Randomer · GRMY · Mawenzi at La Gravière on Fri 2 Oct, Geneva. 1 artist: Randomer. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

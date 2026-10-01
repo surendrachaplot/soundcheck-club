@@ -1,6 +1,6 @@
 # Long Weekend Boat Party Special feat. PIERO PIRUPA at Inception Boat
 
-Long Weekend Boat Party Special feat. PIERO PIRUPA at Inception Boat on Sun 4 Oct, Sydney. House and Deep House. Preview the line-up and save it on soundcheck.
+Long Weekend Boat Party Special feat. PIERO PIRUPA at Inception Boat on Sun 4 Oct, Sydney. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

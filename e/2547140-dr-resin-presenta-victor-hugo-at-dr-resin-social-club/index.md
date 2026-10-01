@@ -1,6 +1,6 @@
 # Dr. Resin presenta Victor Hugo at Dr. Resin Social Club
 
-Dr. Resin presenta Victor Hugo at Dr. Resin Social Club on Thu 1 Oct, Barcelona. 1 artist on the bill: Victor Hugo. Preview the line-up and save it on soundcheck.
+Dr. Resin presenta Victor Hugo at Dr. Resin Social Club on Thu 1 Oct, Barcelona. 1 artist: Victor Hugo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

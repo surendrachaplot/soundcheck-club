@@ -1,6 +1,6 @@
 # THE WEEKND BOAT PARTY by ONLYUS at Bangkok Island
 
-THE WEEKND BOAT PARTY by ONLYUS at Bangkok Island on Wed 14 Oct, Bangkok. Preview the line-up and save it on soundcheck.
+THE WEEKND BOAT PARTY by ONLYUS at Bangkok Island on Wed 14 Oct, Bangkok. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

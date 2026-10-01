@@ -1,6 +1,6 @@
 # Girls Night: uiava & Patsi Parisi at B-SIDE
 
-Girls Night: uiava & Patsi Parisi at B-SIDE on Sat 3 Oct, Warsaw. 2 artists on the bill: Patsi Parisi and uiava. House and Tech House. Preview the line-up and save it on soundcheck.
+Girls Night: uiava & Patsi Parisi at B-SIDE on Sat 3 Oct, Warsaw. 2 artists: Patsi Parisi and uiava. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

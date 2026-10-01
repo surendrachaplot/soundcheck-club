@@ -1,6 +1,6 @@
 # Tomodachi Summer Closing Party at Tomodachi
 
-Tomodachi Summer Closing Party on Sat 10 Oct, Ibiza. House and Minimal. Preview the line-up and save it on soundcheck.
+Tomodachi Summer Closing Party on Sat 10 Oct, Ibiza. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

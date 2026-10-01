@@ -1,6 +1,6 @@
 # Shout out music Korea vol.4: Neverland High at Cakeshop
 
-Shout out music Korea vol.4: Neverland High at Cakeshop on Sun 4 Oct, Seoul. 1 artist on the bill: 000 (DJ). Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
+Shout out music Korea vol.4: Neverland High at Cakeshop on Sun 4 Oct, Seoul. 1 artist: 000 (DJ). Hip-Hop and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

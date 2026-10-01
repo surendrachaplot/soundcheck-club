@@ -1,6 +1,6 @@
 # NEUHM 15th Anniversary • Joe Claussell + Palms Trax + Gigi Testa at Basic Club
 
-NEUHM 15th Anniversary • Joe Claussell + Palms Trax + Gigi Testa at Basic Club on Sat 7 Nov, Naples. 3 artists on the bill: Gigi Testa, Joe Claussell and Palms Trax. Preview the line-up and save it on soundcheck.
+NEUHM 15th Anniversary • Joe Claussell + Palms Trax + Gigi Testa at Basic Club on Sat 7 Nov, Naples. 3 artists: Gigi Testa, Joe Claussell and Palms Trax. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

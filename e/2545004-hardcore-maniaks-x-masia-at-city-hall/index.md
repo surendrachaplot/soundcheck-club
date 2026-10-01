@@ -1,6 +1,6 @@
 # HARDCORE MANIAKS x MASIA at City Hall
 
-HARDCORE MANIAKS x MASIA at City Hall on Sat 14 Nov, Barcelona. Hardcore. Preview the line-up and save it on soundcheck.
+HARDCORE MANIAKS x MASIA at City Hall on Sat 14 Nov, Barcelona. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

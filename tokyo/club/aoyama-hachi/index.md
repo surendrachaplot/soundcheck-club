@@ -1,8 +1,8 @@
 # Aoyama Hachi
 
-Aoyama Hachi is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RITSUDO" on Thu, 1 Oct 2026.
+Aoyama Hachi is a music venue in Tokyo with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RITSUDO" on Thu, 1 Oct 2026.
 
-Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including AMARI, ANiIIIIiiiKii, arow and Ayana Pattra and 2 more. Browse upcoming dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
+Aoyama Hachi is a music venue in Tokyo listed on soundcheck. 17 upcoming gigs, with line-ups including AMARI, ANiIIIIiiiKii, arow and Ayana Pattra and 2 more. See dates, start times and who's playing. 4-5-9 Aoyama Building, Shibuya, Shibuya-ku, Tokyo, Japan.
 
 ## What's on
 

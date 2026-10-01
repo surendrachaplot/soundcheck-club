@@ -1,6 +1,6 @@
 # GIANT STEPS (LATE) at Eastway Baths
 
-GIANT STEPS (LATE) at Eastway Baths on Sat 14 Nov, London. Preview the line-up and save it on soundcheck.
+GIANT STEPS (LATE) at Eastway Baths on Sat 14 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

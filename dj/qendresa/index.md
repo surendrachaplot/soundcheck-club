@@ -1,8 +1,8 @@
 # Qendresa
 
-Qendresa is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Qendresa is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
-Qendresa is a house and disco artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Amsterdam, Berlin, Brussels and London and 2 more. Often billed alongside Conducta, D Double E and MiNNA. Next up: Carriageworks, Sydney on Sat 3 Oct.
+Qendresa is a house and disco artist based in United Kingdom, with 18 gigs on soundcheck across Amsterdam, Berlin, Brussels and London and 2 more. Often billed alongside Conducta, D Double E and MiNNA. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Qendresa is a house and disco artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Magazine Open–Air, London — Sun, 16 Aug 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Peckham Rye Park, London — Fri, 22 May 2026
-- Peckham Rye Park, London — Fri, 22 May 2026
-- Botanique, Brussels — Sun, 30 Nov 2025
-- Openluchttheater Amersfoort, Amsterdam — Fri, 19 Sept 2025
-- Paradise, London — Mon, 25 Aug 2025
-- Loft Studios, London — Sun, 24 Aug 2025
+- Magazine Open–Air, London · Sun, 16 Aug 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- Peckham Rye Park, London · Fri, 22 May 2026
+- Peckham Rye Park, London · Fri, 22 May 2026
+- Botanique, Brussels · Sun, 30 Nov 2025
+- Openluchttheater Amersfoort, Amsterdam · Fri, 19 Sept 2025
+- Paradise, London · Mon, 25 Aug 2025
+- Loft Studios, London · Sun, 24 Aug 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Lake Chalco
 
-Lake Chalco is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
+Lake Chalco is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
 
-Lake Chalco is a house and disco artist based in Mexico, tracked on soundcheck, with 49 sets logged across Mexico City. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Pablo Miya. Next up: TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat 3 Oct.
+Lake Chalco is a house and disco artist based in Mexico, with 49 gigs on soundcheck across Mexico City. Often billed alongside Duke Skylocker (Disco Dust), Miss Voltaghe and Pablo Miya. Next up: TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lake Chalco is a house and disco artist based in Mexico, tracked on soundcheck, 
 
 ## Recently played
 
-- TBA - Hotel Plaza Madrid , Mexico City — Sat, 27 Jun 2026
-- TBA - Hotel Plaza Madrid ,  calle Madrid núm. 15 . Col Tabacalera , Mexico City — Fri, 15 May 2026
-- Fünk, Mexico City — Thu, 29 Jan 2026
-- Café de Nadie, Mexico City — Wed, 7 Jan 2026
-- Antiguo Hotel Reforma, Mexico City — Wed, 31 Dec 2025
-- Drama Radio Bar, Mexico City — Thu, 11 Dec 2025
-- Departamento, Mexico City — Sat, 18 Oct 2025
-- Departamento, Mexico City — Wed, 15 Oct 2025
+- TBA - Hotel Plaza Madrid , Mexico City · Sat, 27 Jun 2026
+- TBA - Hotel Plaza Madrid ,  calle Madrid núm. 15 . Col Tabacalera , Mexico City · Fri, 15 May 2026
+- Fünk, Mexico City · Thu, 29 Jan 2026
+- Café de Nadie, Mexico City · Wed, 7 Jan 2026
+- Antiguo Hotel Reforma, Mexico City · Wed, 31 Dec 2025
+- Drama Radio Bar, Mexico City · Thu, 11 Dec 2025
+- Departamento, Mexico City · Sat, 18 Oct 2025
+- Departamento, Mexico City · Wed, 15 Oct 2025
 
 ## Shares bills with
 

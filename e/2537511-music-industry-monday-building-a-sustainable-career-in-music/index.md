@@ -1,6 +1,6 @@
 # Music Industry Monday: Building a Sustainable Career In Music at Lccm
 
-Music Industry Monday: Building a Sustainable Career In Music at Lccm on Mon 5 Oct, London. Preview the line-up and save it on soundcheck.
+Music Industry Monday: Building a Sustainable Career In Music at Lccm on Mon 5 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

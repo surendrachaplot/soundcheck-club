@@ -1,6 +1,6 @@
 # Pracht PRES. with Marius Lehnert, BIANCA BLANCO + SPECIAL GUEST at Pracht
 
-Pracht PRES. with Marius Lehnert, BIANCA BLANCO + SPECIAL GUEST on Fri 2 Oct, Frankfurt. 2 artists on the bill: BIANCA BLANCO and Marius Lehnert. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Pracht PRES. with Marius Lehnert, BIANCA BLANCO + SPECIAL GUEST on Fri 2 Oct, Frankfurt. 2 artists: BIANCA BLANCO and Marius Lehnert. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

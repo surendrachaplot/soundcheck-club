@@ -1,8 +1,8 @@
 # Margaret Dygas
 
-Margaret Dygas is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at FOLD, London on Fri, 2 Oct 2026.
+Margaret Dygas is a House and Minimal artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Fri, 2 Oct 2026.
 
-Margaret Dygas is a house and minimal artist based in Poland, tracked on soundcheck, with 142 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: FOLD, London on Fri 2 Oct.
+Margaret Dygas is a house and minimal artist based in Poland, with 142 gigs on soundcheck across Amsterdam, Barcelona, Belgrade and Berlin and 36 more. Often billed alongside Edward, Francesco Del Garda and Sonja Moonear. Next up: FOLD, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Margaret Dygas is a house and minimal artist based in Poland, tracked on soundch
 
 ## Recently played
 
-- Chinois Ibiza, Ibiza — Wed, 30 Sept 2026
-- Fvtvr, Paris — Sat, 12 Sept 2026
-- Club der Visionaere, Berlin — Sun, 6 Sept 2026
-- Port of Belgrade, Belgrade — Sat, 22 Aug 2026
-- 528 Ibiza, Ibiza — Sun, 2 Aug 2026
-- Supermarket, Zurich — Sat, 25 Jul 2026
-- Club Guesthouse, Bucharest — Sat, 27 Jun 2026
-- Tokonoma Club, Frankfurt — Sat, 27 Jun 2026
+- Chinois Ibiza, Ibiza · Wed, 30 Sept 2026
+- Fvtvr, Paris · Sat, 12 Sept 2026
+- Club der Visionaere, Berlin · Sun, 6 Sept 2026
+- Port of Belgrade, Belgrade · Sat, 22 Aug 2026
+- 528 Ibiza, Ibiza · Sun, 2 Aug 2026
+- Supermarket, Zurich · Sat, 25 Jul 2026
+- Club Guesthouse, Bucharest · Sat, 27 Jun 2026
+- Tokonoma Club, Frankfurt · Sat, 27 Jun 2026
 
 ## Shares bills with
 

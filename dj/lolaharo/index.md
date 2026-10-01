@@ -1,8 +1,8 @@
 # Lola Haro
 
-Lola Haro is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at FOLD, London on Fri, 2 Oct 2026.
+Lola Haro is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Fri, 2 Oct 2026.
 
-Lola Haro is a house and techno artist based in Belgium, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 44 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: FOLD, London on Fri 2 Oct.
+Lola Haro is a house and techno artist based in Belgium, with 162 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 44 more. Often billed alongside Ben Kamal, r.omy and DJ Rino. Next up: FOLD, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Lola Haro is a house and techno artist based in Belgium, tracked on soundcheck, 
 
 ## Recently played
 
-- Prince Charles, Berlin — Sat, 26 Sept 2026
-- TBA, Montreal — Sun, 20 Sept 2026
-- TBA, Toronto — Sat, 19 Sept 2026
-- Hotel Butterfly, Rome — Thu, 3 Sept 2026
-- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
-- Club der Visionaere, Berlin — Sun, 16 Aug 2026
-- Lavallée, Brussels — Sat, 15 Aug 2026
-- Garage Noord, Amsterdam — Fri, 24 Jul 2026
+- Prince Charles, Berlin · Sat, 26 Sept 2026
+- TBA, Montreal · Sun, 20 Sept 2026
+- TBA, Toronto · Sat, 19 Sept 2026
+- Hotel Butterfly, Rome · Thu, 3 Sept 2026
+- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
+- Club der Visionaere, Berlin · Sun, 16 Aug 2026
+- Lavallée, Brussels · Sat, 15 Aug 2026
+- Garage Noord, Amsterdam · Fri, 24 Jul 2026
 
 ## Shares bills with
 

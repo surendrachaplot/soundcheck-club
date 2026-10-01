@@ -1,6 +1,6 @@
 # SYNOID at ÆDEN
 
-SYNOID at ÆDEN on Fri 9 Oct, Berlin. 2 artists on the bill: Acierate and Nanzhen Yang. Preview the line-up and save it on soundcheck.
+SYNOID at ÆDEN on Fri 9 Oct, Berlin. 2 artists: Acierate and Nanzhen Yang. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

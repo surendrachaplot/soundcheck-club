@@ -1,6 +1,6 @@
 # Futoria: GUI + AMR + LIEN at Jaeger
 
-Futoria: GUI + AMR + LIEN at Jaeger on Sat 10 Oct, Oslo. House. Preview the line-up and save it on soundcheck.
+Futoria: GUI + AMR + LIEN at Jaeger on Sat 10 Oct, Oslo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

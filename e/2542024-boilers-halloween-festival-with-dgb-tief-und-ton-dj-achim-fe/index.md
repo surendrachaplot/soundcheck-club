@@ -1,6 +1,6 @@
 # BOILERS HALLOWEEN FESTIVAL with DGB, Tief und Ton, DJ Achim Feuervogel at Gaswerk Augsburg
 
-BOILERS HALLOWEEN FESTIVAL with DGB, Tief und Ton, DJ Achim Feuervogel at Gaswerk Augsburg on Fri 30 Oct, Augsburg. 3 artists on the bill: DJ Achim Feuervogel, THD+N and Tiefundton. Preview the line-up and save it on soundcheck.
+BOILERS HALLOWEEN FESTIVAL with DGB, Tief und Ton, DJ Achim Feuervogel at Gaswerk Augsburg on Fri 30 Oct, Augsburg. 3 artists: DJ Achim Feuervogel, THD+N and Tiefundton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

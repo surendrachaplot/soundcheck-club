@@ -1,6 +1,6 @@
 # KXA 'New Era' Releaseparty - hosted by ONLY1WAY at YOTO
 
-KXA 'New Era' Releaseparty - hosted by ONLY1WAY at YOTO on Fri 9 Oct, Hamburg. Hip-Hop. Preview the line-up and save it on soundcheck.
+KXA 'New Era' Releaseparty - hosted by ONLY1WAY at YOTO on Fri 9 Oct, Hamburg. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

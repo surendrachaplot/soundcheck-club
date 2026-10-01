@@ -1,8 +1,8 @@
 # TBA - Neukolln. 52.47736265617827, 13.4592885932799
 
-TBA - Neukolln. 52.47736265617827, 13.4592885932799 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Curiosity Pill" on Sat, 3 Oct 2026.
+TBA - Neukolln. 52.47736265617827, 13.4592885932799 is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Curiosity Pill" on Sat, 3 Oct 2026.
 
-TBA - Neukolln. 52.47736265617827, 13.4592885932799 is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Claude B, Dragovic, HKKPTR and Nora Asteroid and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Neukolln. 52.47736265617827, 13.4592885932799 is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Claude B, Dragovic, HKKPTR and Nora Asteroid and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

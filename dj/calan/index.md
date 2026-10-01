@@ -1,8 +1,8 @@
 # calan
 
-calan is a Minimal Techno and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Crate Brewery, London on Sat, 3 Oct 2026.
+calan is a Minimal Techno and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Crate Brewery, London on Sat, 3 Oct 2026.
 
-calan is a minimal techno and deep house artist based in United Kingdom, tracked on soundcheck, with 3 sets logged across London. Often billed alongside Grace Sands, Manuol Bone and Pigeon Steve. Next up: Crate Brewery, London on Sat 3 Oct.
+calan is a minimal techno and deep house artist based in United Kingdom, with 3 gigs on soundcheck across London. Often billed alongside Grace Sands, Manuol Bone and Pigeon Steve. Next up: Crate Brewery, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,7 +13,7 @@ calan is a minimal techno and deep house artist based in United Kingdom, tracked
 
 ## Recently played
 
-- Crate Brewery, London — Sat, 26 Sept 2026
+- Crate Brewery, London · Sat, 26 Sept 2026
 
 ## Shares bills with
 

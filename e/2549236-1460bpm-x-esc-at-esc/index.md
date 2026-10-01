@@ -1,6 +1,6 @@
 # 1460BPM x ESC at ESC
 
-1460BPM x ESC on Fri 9 Oct, Montreal. Techno and Industrial. Preview the line-up and save it on soundcheck.
+1460BPM x ESC on Fri 9 Oct, Montreal. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

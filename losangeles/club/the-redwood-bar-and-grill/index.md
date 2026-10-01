@@ -1,8 +1,8 @@
 # The Redwood Bar And Grill
 
-The Redwood Bar And Grill is a music venue in Los Angeles with 26 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "All Star Free For All" on Thu, 1 Oct 2026.
+The Redwood Bar And Grill is a music venue in Los Angeles with 26 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "All Star Free For All" on Thu, 1 Oct 2026.
 
-The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 26 upcoming gigs. Browse upcoming dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
+The Redwood Bar And Grill is a music venue in Los Angeles listed on soundcheck. 26 upcoming gigs. See dates, start times and who's playing. 316 W. 2nd Street, Los Angeles, CA  90012.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Revolver x SAY LESS present: The Rev Up at Revolver Canggu
 
-Revolver x SAY LESS present: The Rev Up at Revolver Canggu on Sat 3 Oct, Bali. House and Garage. Preview the line-up and save it on soundcheck.
+Revolver x SAY LESS present: The Rev Up at Revolver Canggu on Sat 3 Oct, Bali. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

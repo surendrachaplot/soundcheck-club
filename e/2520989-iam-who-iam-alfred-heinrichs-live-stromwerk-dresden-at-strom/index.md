@@ -1,6 +1,6 @@
 # IAM WHO IAM - Alfred Heinrichs Live @ Stromwerk Dresden at Stromwerk Dresden
 
-IAM WHO IAM - Alfred Heinrichs Live @ Stromwerk Dresden on Sat 6 Mar, Dresden. 1 artist on the bill: Alfred Heinrichs. Preview the line-up and save it on soundcheck.
+IAM WHO IAM - Alfred Heinrichs Live @ Stromwerk Dresden on Sat 6 Mar, Dresden. 1 artist: Alfred Heinrichs. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

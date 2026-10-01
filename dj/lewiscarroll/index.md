@@ -1,8 +1,8 @@
 # Lewis Carroll
 
-Lewis Carroll is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Club Colette, Birmingham on Sat, 3 Oct 2026.
+Lewis Carroll is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Colette, Birmingham on Sat, 3 Oct 2026.
 
-Lewis Carroll is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Birmingham, Brighton and Edinburgh and 5 more. Often billed alongside Dan Schofield, Tom Da Silva and Elliot Schooling. Next up: Club Colette, Birmingham on Sat 3 Oct.
+Lewis Carroll is a house and tech house artist based in United Kingdom, with 49 gigs on soundcheck across Amsterdam, Birmingham, Brighton and Edinburgh and 5 more. Often billed alongside Dan Schofield, Tom Da Silva and Elliot Schooling. Next up: Club Colette, Birmingham on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Lewis Carroll is a house and tech house artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- La Cheetah Club, Glasgow — Thu, 3 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- fabric, London — Sat, 29 Aug 2026
-- Starlane Pizza Bar, London — Sat, 8 Aug 2026
-- Boston Manor Park, London — Sat, 25 Jul 2026
-- Cabaret Voltaire, Edinburgh — Sat, 25 Jul 2026
-- Gaffe, London — Sat, 18 Jul 2026
-- Hidden, Manchester — Sat, 13 Jun 2026
+- La Cheetah Club, Glasgow · Thu, 3 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- fabric, London · Sat, 29 Aug 2026
+- Starlane Pizza Bar, London · Sat, 8 Aug 2026
+- Boston Manor Park, London · Sat, 25 Jul 2026
+- Cabaret Voltaire, Edinburgh · Sat, 25 Jul 2026
+- Gaffe, London · Sat, 18 Jul 2026
+- Hidden, Manchester · Sat, 13 Jun 2026
 
 ## Shares bills with
 

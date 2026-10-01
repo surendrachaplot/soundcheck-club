@@ -1,6 +1,6 @@
 # Ugo Banchi (All Night Long) at StereoBar
 
-Ugo Banchi (All Night Long) at StereoBar on Sat 24 Oct, Montreal. 1 artist on the bill: Ugo Banchi. Preview the line-up and save it on soundcheck.
+Ugo Banchi (All Night Long) at StereoBar on Sat 24 Oct, Montreal. 1 artist: Ugo Banchi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

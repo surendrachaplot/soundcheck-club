@@ -1,6 +1,6 @@
 # RARE Club // Ewan McVicar, Hayley Zalassi + Van Damn at Livehouse
 
-RARE Club // Ewan McVicar, Hayley Zalassi + Van Damn at Livehouse on Sat 3 Oct, Dundee. 3 artists on the bill: Ewan McVicar, Hayley Zalassi and Van Damn. Preview the line-up and save it on soundcheck.
+RARE Club // Ewan McVicar, Hayley Zalassi + Van Damn at Livehouse on Sat 3 Oct, Dundee. 3 artists: Ewan McVicar, Hayley Zalassi and Van Damn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

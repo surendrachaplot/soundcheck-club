@@ -1,8 +1,8 @@
 # Bleach
 
-Bleach is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Flinders, Sydney on Fri, 2 Oct 2026.
+Bleach is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Flinders, Sydney on Fri, 2 Oct 2026.
 
-Bleach is a techno and industrial artist based in Spain, tracked on soundcheck, with 42 sets logged across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside ADAM MUNNINGS, Dj handbag and JUNN GULDUR. Next up: The Flinders, Sydney on Fri 2 Oct.
+Bleach is a techno and industrial artist based in Spain, with 42 gigs on soundcheck across Auckland, Belgrade, Berlin and Bristol and 3 more. Often billed alongside ADAM MUNNINGS, Dj handbag and JUNN GULDUR. Next up: The Flinders, Sydney on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Bleach is a techno and industrial artist based in Spain, tracked on soundcheck, 
 
 ## Recently played
 
-- Heave Festival, Madrid — Fri, 25 Sept 2026
-- KREUZWERK, Berlin — Sat, 19 Sept 2026
-- The Flinders, Sydney — Sat, 5 Sept 2026
-- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
-- CLUB OST & RENATE BERLIN, Berlin — Fri, 21 Aug 2026
-- The Flinders, Sydney — Fri, 14 Aug 2026
-- The Flinders, Sydney — Fri, 17 Jul 2026
-- The Flinders, Sydney — Fri, 19 Jun 2026
+- Heave Festival, Madrid · Fri, 25 Sept 2026
+- KREUZWERK, Berlin · Sat, 19 Sept 2026
+- The Flinders, Sydney · Sat, 5 Sept 2026
+- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
+- CLUB OST & RENATE BERLIN, Berlin · Fri, 21 Aug 2026
+- The Flinders, Sydney · Fri, 14 Aug 2026
+- The Flinders, Sydney · Fri, 17 Jul 2026
+- The Flinders, Sydney · Fri, 19 Jun 2026
 
 ## Shares bills with
 

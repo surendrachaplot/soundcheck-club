@@ -1,6 +1,6 @@
 # Spinimana's Spun House at The Horse & Groom
 
-Spinimana's Spun House at The Horse & Groom on Fri 30 Oct, London. 1 artist on the bill: Spinimana. House and Disco. Preview the line-up and save it on soundcheck.
+Spinimana's Spun House at The Horse & Groom on Fri 30 Oct, London. 1 artist: Spinimana. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

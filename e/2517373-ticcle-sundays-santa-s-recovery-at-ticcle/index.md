@@ -1,6 +1,6 @@
 # ticcle sundays - santa's recovery at Ticcle
 
-ticcle sundays - santa's recovery at Ticcle on Sun 27 Dec, Hobart. Preview the line-up and save it on soundcheck.
+ticcle sundays - santa's recovery at Ticcle on Sun 27 Dec, Hobart. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

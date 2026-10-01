@@ -1,6 +1,6 @@
 # Take It Easy pres. House of Dirty with Omar S + Dirty Channels at Arca
 
-Take It Easy pres. House of Dirty with Omar S + Dirty Channels at Arca on Sat 24 Oct, Milan. 2 artists on the bill: Dirty Channels and Omar-S. House and Disco. Preview the line-up and save it on soundcheck.
+Take It Easy pres. House of Dirty with Omar S + Dirty Channels at Arca on Sat 24 Oct, Milan. 2 artists: Dirty Channels and Omar-S. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

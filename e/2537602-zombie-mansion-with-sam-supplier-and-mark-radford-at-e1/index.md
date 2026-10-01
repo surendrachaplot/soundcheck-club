@@ -1,6 +1,6 @@
 # Zombie Mansion with Sam Supplier and Mark Radford at E1
 
-Zombie Mansion with Sam Supplier and Mark Radford at E1 on Thu 29 Oct, London. 5 artists on the bill: Art e Fect, Mark Radford, Max E Groove and NYCity Soundz and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Zombie Mansion with Sam Supplier and Mark Radford at E1 on Thu 29 Oct, London. 5 artists: Art e Fect, Mark Radford, Max E Groove and NYCity Soundz and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

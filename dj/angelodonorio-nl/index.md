@@ -1,8 +1,8 @@
 # Angelo D'onorio
 
-Angelo D'onorio is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
+Angelo D'onorio is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Noorderlicht Café, Amsterdam on Wed, 21 Oct 2026.
 
-Angelo D'onorio is a techno and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam. Often billed alongside Marc de Koning, Clarence Brandon and DJ Roach. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
+Angelo D'onorio is a techno and house artist based in Netherlands, with 8 gigs on soundcheck across Amsterdam. Often billed alongside Marc de Koning, Clarence Brandon and DJ Roach. Next up: Noorderlicht Café, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Angelo D'onorio is a techno and house artist based in Netherlands, tracked on so
 
 ## Recently played
 
-- Kaap Amsterdam, Amsterdam — Fri, 22 May 2026
-- Onder Hans, Amsterdam — Sun, 5 Apr 2026
-- Onder Hans, Amsterdam — Sat, 15 Nov 2025
-- Q-Factory, Amsterdam — Thu, 23 Oct 2025
-- Toekomstmuziek, Amsterdam — Sat, 16 Nov 2024
-- Toekomstmuziek, Amsterdam — Sat, 27 Jul 2024
-- Vlothaven, Amsterdam — Sat, 27 Jul 2024
+- Kaap Amsterdam, Amsterdam · Fri, 22 May 2026
+- Onder Hans, Amsterdam · Sun, 5 Apr 2026
+- Onder Hans, Amsterdam · Sat, 15 Nov 2025
+- Q-Factory, Amsterdam · Thu, 23 Oct 2025
+- Toekomstmuziek, Amsterdam · Sat, 16 Nov 2024
+- Toekomstmuziek, Amsterdam · Sat, 27 Jul 2024
+- Vlothaven, Amsterdam · Sat, 27 Jul 2024
 
 ## Shares bills with
 

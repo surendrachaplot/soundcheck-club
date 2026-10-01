@@ -1,6 +1,6 @@
 # HAUNTED HALLOWEEN CRUISES at Anita Dee One Boarding at Dusable Harbor
 
-HAUNTED HALLOWEEN CRUISES at Anita Dee One Boarding at Dusable Harbor on Fri 30 Oct, Chicago. Preview the line-up and save it on soundcheck.
+HAUNTED HALLOWEEN CRUISES at Anita Dee One Boarding at Dusable Harbor on Fri 30 Oct, Chicago. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

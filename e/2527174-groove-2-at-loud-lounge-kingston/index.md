@@ -1,6 +1,6 @@
 # Groove 2 at Loud Lounge Kingston
 
-Groove 2 at Loud Lounge Kingston on Sat 10 Oct, London. House and Garage. Preview the line-up and save it on soundcheck.
+Groove 2 at Loud Lounge Kingston on Sat 10 Oct, London. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

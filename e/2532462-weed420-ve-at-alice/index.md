@@ -1,6 +1,6 @@
 # weed420 (VE) at ALICE
 
-weed420 (VE) at ALICE on Thu 22 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+weed420 (VE) at ALICE on Thu 22 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

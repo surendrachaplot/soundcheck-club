@@ -1,6 +1,6 @@
 # EANODE at Romy S.
 
-EANODE at Romy S. on Fri 16 Oct, Stuttgart. House and Tech House. Preview the line-up and save it on soundcheck.
+EANODE at Romy S. on Fri 16 Oct, Stuttgart. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

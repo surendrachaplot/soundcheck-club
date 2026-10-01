@@ -1,8 +1,8 @@
 # Babaganouschka
 
-Babaganouschka is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bain Mathieu, Montreal on Sat, 24 Oct 2026.
+Babaganouschka is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bain Mathieu, Montreal on Sat, 24 Oct 2026.
 
-Babaganouschka is a techno and club artist based in Canada, tracked on soundcheck, with 15 sets logged across Montreal and Toronto. Often billed alongside _ZARB, Hurakkan and ALEX REV. Next up: Bain Mathieu, Montreal on Sat 24 Oct.
+Babaganouschka is a techno and club artist based in Canada, with 15 gigs on soundcheck across Montreal and Toronto. Often billed alongside _ZARB, Hurakkan and ALEX REV. Next up: Bain Mathieu, Montreal on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Babaganouschka is a techno and club artist based in Canada, tracked on soundchec
 
 ## Recently played
 
-- Le Red Room, Montreal — Fri, 18 Sept 2026
-- ESC, Montreal — Fri, 24 Jul 2026
-- Barbossa, Montreal — Sat, 11 Jul 2026
-- Le Red Room, Montreal — Sat, 27 Jun 2026
-- Le Red Room, Montreal — Sun, 21 Jun 2026
-- Le Red Room, Montreal — Wed, 10 Jun 2026
-- Le Red Room, Montreal — Sat, 23 May 2026
-- Le Red Room, Montreal — Fri, 20 Feb 2026
+- Le Red Room, Montreal · Fri, 18 Sept 2026
+- ESC, Montreal · Fri, 24 Jul 2026
+- Barbossa, Montreal · Sat, 11 Jul 2026
+- Le Red Room, Montreal · Sat, 27 Jun 2026
+- Le Red Room, Montreal · Sun, 21 Jun 2026
+- Le Red Room, Montreal · Wed, 10 Jun 2026
+- Le Red Room, Montreal · Sat, 23 May 2026
+- Le Red Room, Montreal · Fri, 20 Feb 2026
 
 ## Shares bills with
 

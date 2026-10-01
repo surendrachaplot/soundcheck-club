@@ -1,6 +1,6 @@
 # Cirque Du Soul: London // Halloween Special at The Cause
 
-Cirque Du Soul: London // Halloween Special at The Cause on Fri 30 Oct, London. 3 artists on the bill: KING BOOO!, Laurence Guy and SHEE. House and Garage. Preview the line-up and save it on soundcheck.
+Cirque Du Soul: London // Halloween Special at The Cause on Fri 30 Oct, London. 3 artists: KING BOOO!, Laurence Guy and SHEE. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

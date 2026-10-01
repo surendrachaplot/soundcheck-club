@@ -1,6 +1,6 @@
 # Madam by Night invites: MONARK x HAUSIN' COLLECTIVE at Madam
 
-Madam by Night invites: MONARK x HAUSIN' COLLECTIVE on Thu 26 Nov, Amsterdam. 1 artist on the bill: Okeam. House. Preview the line-up and save it on soundcheck.
+Madam by Night invites: MONARK x HAUSIN' COLLECTIVE on Thu 26 Nov, Amsterdam. 1 artist: Okeam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

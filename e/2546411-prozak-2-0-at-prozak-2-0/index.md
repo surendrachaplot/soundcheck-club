@@ -1,6 +1,6 @@
 # 𝑪𝑳𝑼𝑩 𝑨𝑵𝑮𝑬𝑳   Prozak 2.0 at Prozak 2.0
 
-𝑪𝑳𝑼𝑩 𝑨𝑵𝑮𝑬𝑳   Prozak 2.0 on Fri 23 Oct, Krakow. 2 artists on the bill: Club Angel and Kuriozum. Garage. Preview the line-up and save it on soundcheck.
+𝑪𝑳𝑼𝑩 𝑨𝑵𝑮𝑬𝑳   Prozak 2.0 on Fri 23 Oct, Krakow. 2 artists: Club Angel and Kuriozum. Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

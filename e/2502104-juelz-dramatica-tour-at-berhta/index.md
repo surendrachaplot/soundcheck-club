@@ -1,6 +1,6 @@
 # Juelz: Dramatica Tour at BERHTA
 
-Juelz: Dramatica Tour at BERHTA on Fri 13 Nov, Washington DC. Bass. Preview the line-up and save it on soundcheck.
+Juelz: Dramatica Tour at BERHTA on Fri 13 Nov, Washington DC. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

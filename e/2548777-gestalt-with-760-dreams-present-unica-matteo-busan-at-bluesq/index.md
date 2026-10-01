@@ -1,6 +1,6 @@
 # GESTALT with 760 Dreams present Unica, Matteo Busan at Bluesquare
 
-GESTALT with 760 Dreams present Unica, Matteo Busan at Bluesquare on Sat 10 Oct, Milan. 3 artists on the bill: Cristian Comes, Dogs I Know and Matteo Busan. House and Club. Preview the line-up and save it on soundcheck.
+GESTALT with 760 Dreams present Unica, Matteo Busan at Bluesquare on Sat 10 Oct, Milan. 3 artists: Cristian Comes, Dogs I Know and Matteo Busan. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

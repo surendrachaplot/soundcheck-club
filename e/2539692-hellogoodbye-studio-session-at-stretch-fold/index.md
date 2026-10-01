@@ -1,6 +1,6 @@
 # Hellogoodbye Studio Session at Stretch & Fold
 
-Hellogoodbye Studio Session at Stretch & Fold on Sat 10 Oct, Amsterdam. Minimal and Pop. Preview the line-up and save it on soundcheck.
+Hellogoodbye Studio Session at Stretch & Fold on Sat 10 Oct, Amsterdam. Minimal and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

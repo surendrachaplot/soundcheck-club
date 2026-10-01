@@ -1,6 +1,6 @@
 # MONZA at Circus Osaka
 
-MONZA at Circus Osaka on Sat 24 Oct, Osaka. 2 artists on the bill: AOKI takamasa and Kohei. Minimal Techno. Preview the line-up and save it on soundcheck.
+MONZA at Circus Osaka on Sat 24 Oct, Osaka. 2 artists: AOKI takamasa and Kohei. Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

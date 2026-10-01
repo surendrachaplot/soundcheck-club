@@ -1,8 +1,8 @@
 # Akua
 
-Akua is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Uber Eats Music Hall, Berlin on Fri, 2 Oct 2026.
+Akua is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Uber Eats Music Hall, Berlin on Fri, 2 Oct 2026.
 
-Akua is a techno and house artist based in United States of America, tracked on soundcheck, with 211 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: Uber Eats Music Hall, Berlin on Fri 2 Oct.
+Akua is a techno and house artist based in United States of America, with 211 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside 1morning, DJ Stingray 313 and Dr. Rubinstein. Next up: Uber Eats Music Hall, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Akua is a techno and house artist based in United States of America, tracked on 
 
 ## Recently played
 
-- Tresor.West, Dortmund-essen — Sat, 26 Sept 2026
-- KHIDI, Tbilisi — Fri, 25 Sept 2026
-- Refuge, New York City — Fri, 18 Sept 2026
-- Barn Radio, Portland — Fri, 11 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 29 Aug 2026
-- BLITZ, Munich — Fri, 31 Jul 2026
-- Signal, New York City — Sat, 25 Jul 2026
-- Tresor / Globus, Berlin — Mon, 20 Jul 2026
+- Tresor.West, Dortmund-essen · Sat, 26 Sept 2026
+- KHIDI, Tbilisi · Fri, 25 Sept 2026
+- Refuge, New York City · Fri, 18 Sept 2026
+- Barn Radio, Portland · Fri, 11 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 29 Aug 2026
+- BLITZ, Munich · Fri, 31 Jul 2026
+- Signal, New York City · Sat, 25 Jul 2026
+- Tresor / Globus, Berlin · Mon, 20 Jul 2026
 
 ## Shares bills with
 

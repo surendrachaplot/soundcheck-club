@@ -1,8 +1,8 @@
 # Silence Please
 
-Silence Please is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Spoonerism presents: flutter listening session" on Thu, 1 Oct 2026.
+Silence Please is a music venue in New York City with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Spoonerism presents: flutter listening session" on Thu, 1 Oct 2026.
 
-Silence Please is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including 320, Andi, Softi and Margot and 2 more. Browse upcoming dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
+Silence Please is a music venue in New York City listed on soundcheck. 9 upcoming gigs, with line-ups including 320, Andi, Softi and Margot and 2 more. See dates, start times and who's playing. 132 Bowery Floor 2, New York, NY 10013.
 
 ## What's on
 

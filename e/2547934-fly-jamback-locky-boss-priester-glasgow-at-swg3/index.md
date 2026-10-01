@@ -1,6 +1,6 @@
 # FLY | Jamback, Locky & Boss Priester | Glasgow at SWG3
 
-FLY | Jamback, Locky & Boss Priester | Glasgow at SWG3 on Fri 13 Nov, Glasgow. 3 artists on the bill: Boss Priester, Jamback and Locky. House. Preview the line-up and save it on soundcheck.
+FLY | Jamback, Locky & Boss Priester | Glasgow at SWG3 on Fri 13 Nov, Glasgow. 3 artists: Boss Priester, Jamback and Locky. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Hoppala – After Wiesn Special at Goldener Reiter
 
-Hoppala – After Wiesn Special at Goldener Reiter on Thu 1 Oct, Munich. Pop. Preview the line-up and save it on soundcheck.
+Hoppala – After Wiesn Special at Goldener Reiter on Thu 1 Oct, Munich. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

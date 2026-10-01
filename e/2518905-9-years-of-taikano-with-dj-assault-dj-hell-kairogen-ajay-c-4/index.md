@@ -1,6 +1,6 @@
 # 9 Years of Taikano with DJ Assault // DJ Hell // Kairogen // AJAY C [4AM FINISH] at The Art School
 
-9 Years of Taikano with DJ Assault // DJ Hell // Kairogen // AJAY C [4AM FINISH] at The Art School on Sat 10 Oct, Glasgow. 3 artists on the bill: DJ Assault, DJ Hell and Kairogen. Electro and Ghetto Tech. Preview the line-up and save it on soundcheck.
+9 Years of Taikano with DJ Assault // DJ Hell // Kairogen // AJAY C [4AM FINISH] at The Art School on Sat 10 Oct, Glasgow. 3 artists: DJ Assault, DJ Hell and Kairogen. Electro and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

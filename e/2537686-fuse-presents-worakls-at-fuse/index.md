@@ -1,6 +1,6 @@
 # Fuse presents: Worakls at Fuse
 
-Fuse presents: Worakls on Tue 10 Nov, Brussels. 3 artists on the bill: Lexx (BE), MAKII and Worakls. Preview the line-up and save it on soundcheck.
+Fuse presents: Worakls on Tue 10 Nov, Brussels. 3 artists: Lexx (BE), MAKII and Worakls. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

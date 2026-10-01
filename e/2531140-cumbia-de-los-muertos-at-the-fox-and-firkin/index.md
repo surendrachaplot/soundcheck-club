@@ -1,6 +1,6 @@
 # Cumbia de los Muertos at The Fox and Firkin
 
-Cumbia de los Muertos at The Fox and Firkin on Sat 31 Oct, London. 1 artist on the bill: Malphino. Afrobeat and Latin Bass. Preview the line-up and save it on soundcheck.
+Cumbia de los Muertos at The Fox and Firkin on Sat 31 Oct, London. 1 artist: Malphino. Afrobeat and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

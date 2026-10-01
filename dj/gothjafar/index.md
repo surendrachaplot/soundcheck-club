@@ -1,8 +1,8 @@
 # Goth Jafar
 
-Goth Jafar is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+Goth Jafar is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 24 Oct 2026.
 
-Goth Jafar is a techno and club artist based in United States of America, tracked on soundcheck, with 77 sets logged across Amsterdam, Barcelona, Berlin and Boston and 18 more. Often billed alongside River Moon, TAAHLIAH and BEARCAT. Next up: DRUMSHEDS, London on Sat 24 Oct.
+Goth Jafar is a techno and club artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Boston and 18 more. Often billed alongside River Moon, TAAHLIAH and BEARCAT. Next up: DRUMSHEDS, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Goth Jafar is a techno and club artist based in United States of America, tracke
 
 ## Recently played
 
-- TBA, Toronto — Sat, 15 Aug 2026
-- H0L0, New York City — Fri, 24 Jul 2026
-- Bossa Nova Civic Club, New York City — Wed, 17 Jun 2026
-- TBA - Brooklyn, New York City — Sat, 18 Apr 2026
-- TBA - 177 2nd Avenue Brooklyn, New York City — Sat, 11 Apr 2026
-- TBA, New York City — Fri, 3 Apr 2026
-- Market Hotel, New York City — Fri, 27 Feb 2026
-- smartbar, Chicago — Sat, 14 Feb 2026
+- TBA, Toronto · Sat, 15 Aug 2026
+- H0L0, New York City · Fri, 24 Jul 2026
+- Bossa Nova Civic Club, New York City · Wed, 17 Jun 2026
+- TBA - Brooklyn, New York City · Sat, 18 Apr 2026
+- TBA - 177 2nd Avenue Brooklyn, New York City · Sat, 11 Apr 2026
+- TBA, New York City · Fri, 3 Apr 2026
+- Market Hotel, New York City · Fri, 27 Feb 2026
+- smartbar, Chicago · Sat, 14 Feb 2026
 
 ## Shares bills with
 

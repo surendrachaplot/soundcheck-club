@@ -1,6 +1,6 @@
 # SHOUT! with Marco Faraone at The Range
 
-SHOUT! with Marco Faraone at The Range on Fri 9 Oct, Turin. 1 artist on the bill: Marco Faraone. Tech House. Preview the line-up and save it on soundcheck.
+SHOUT! with Marco Faraone at The Range on Fri 9 Oct, Turin. 1 artist: Marco Faraone. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

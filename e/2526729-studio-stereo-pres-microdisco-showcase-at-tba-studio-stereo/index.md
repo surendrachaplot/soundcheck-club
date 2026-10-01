@@ -1,6 +1,6 @@
 # Studio Stereo pres. Microdisco showcase at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo pres. Microdisco showcase at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 22 Oct, Barcelona. 2 artists on the bill: Mila Morr and Valdivia. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo pres. Microdisco showcase at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Thu 22 Oct, Barcelona. 2 artists: Mila Morr and Valdivia. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jacaranda Records & Out of Phase present: Mik Artistik's Ego Trip at TBA - Liverpool Philharmonic Music Room 
 
-Jacaranda Records & Out of Phase present: Mik Artistik's Ego Trip at TBA - Liverpool Philharmonic Music Room  on Wed 11 Nov, Liverpool. Electronica. Preview the line-up and save it on soundcheck.
+Jacaranda Records & Out of Phase present: Mik Artistik's Ego Trip at TBA - Liverpool Philharmonic Music Room  on Wed 11 Nov, Liverpool. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

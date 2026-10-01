@@ -1,6 +1,6 @@
 # Délusion Records: 5 ANS at Point Ephémère
 
-Délusion Records: 5 ANS at Point Ephémère on Sat 3 Oct, Paris. Techno and Footwork. Preview the line-up and save it on soundcheck.
+Délusion Records: 5 ANS at Point Ephémère on Sat 3 Oct, Paris. Techno and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

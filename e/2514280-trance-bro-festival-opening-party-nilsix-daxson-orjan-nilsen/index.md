@@ -1,6 +1,6 @@
 # Trance, Bro! Festival Opening Party - Nilsix, Daxson, Orjan Nilsen, Mark Sixma at One77 Brooklyn
 
-Trance, Bro! Festival Opening Party - Nilsix, Daxson, Orjan Nilsen, Mark Sixma at One77 Brooklyn on Fri 4 Dec, New York City. 2 artists on the bill: Orjan Nilsen and SunrYse. Trance and Techno. Preview the line-up and save it on soundcheck.
+Trance, Bro! Festival Opening Party - Nilsix, Daxson, Orjan Nilsen, Mark Sixma at One77 Brooklyn on Fri 4 Dec, New York City. 2 artists: Orjan Nilsen and SunrYse. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

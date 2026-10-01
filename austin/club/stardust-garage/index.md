@@ -1,8 +1,8 @@
 # Stardust Garage
 
-Stardust Garage is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Waypoint with Dylan Payne" on Fri, 23 Oct 2026.
+Stardust Garage is a music venue in Austin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Waypoint with Dylan Payne" on Fri, 23 Oct 2026.
 
-Stardust Garage is a music venue in Austin listed on soundcheck. 2 upcoming gigs, with line-ups including Dyed Soundorom, Dylan Payne and Robert Roman. Browse upcoming dates, start times and who's playing.
+Stardust Garage is a music venue in Austin listed on soundcheck. 2 upcoming gigs, with line-ups including Dyed Soundorom, Dylan Payne and Robert Roman. See dates, start times and who's playing.
 
 ## What's on
 

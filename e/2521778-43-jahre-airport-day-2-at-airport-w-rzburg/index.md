@@ -1,6 +1,6 @@
 # 43 Jahre Airport - Day 2 at Airport Würzburg
 
-43 Jahre Airport - Day 2 at Airport Würzburg on Sat 3 Oct, Nürnberg. Techno. Preview the line-up and save it on soundcheck.
+43 Jahre Airport - Day 2 at Airport Würzburg on Sat 3 Oct, Nürnberg. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

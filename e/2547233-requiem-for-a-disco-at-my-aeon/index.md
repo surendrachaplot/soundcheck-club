@@ -1,6 +1,6 @@
 # Requiem for a Disco at My Aeon
 
-Requiem for a Disco at My Aeon on Sat 31 Oct, Melbourne. 7 artists on the bill: cuznmatt, DJ JNETT, HAUSWiFE and Mothafunk and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+Requiem for a Disco at My Aeon on Sat 31 Oct, Melbourne. 7 artists: cuznmatt, DJ JNETT, HAUSWiFE and Mothafunk and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

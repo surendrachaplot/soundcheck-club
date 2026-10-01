@@ -1,6 +1,6 @@
 # Night & Day: Sandwell District, Mary Yuzovskaya, Agonis, Henry Chow, Shaleen at Signal
 
-Night & Day: Sandwell District, Mary Yuzovskaya, Agonis, Henry Chow, Shaleen at Signal on Fri 9 Oct, New York City. 5 artists on the bill: Agonis, Henry Chow, Mary Yuzovskaya and Sandwell District and 1 more. Preview the line-up and save it on soundcheck.
+Night & Day: Sandwell District, Mary Yuzovskaya, Agonis, Henry Chow, Shaleen at Signal on Fri 9 Oct, New York City. 5 artists: Agonis, Henry Chow, Mary Yuzovskaya and Sandwell District and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

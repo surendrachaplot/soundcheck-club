@@ -1,6 +1,6 @@
 # Atman · Mutul · Aman Dava Live at 7833 Soundlab Barcelona at 7833 Soundlab
 
-Atman · Mutul · Aman Dava Live at 7833 Soundlab Barcelona on Fri 16 Oct, Barcelona. 3 artists on the bill: Aman Dava, Atman and Mutul. House and Downtempo. Preview the line-up and save it on soundcheck.
+Atman · Mutul · Aman Dava Live at 7833 Soundlab Barcelona on Fri 16 Oct, Barcelona. 3 artists: Aman Dava, Atman and Mutul. House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

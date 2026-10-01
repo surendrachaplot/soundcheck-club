@@ -1,6 +1,6 @@
 # Electric at Bangkok Island
 
-Electric at Bangkok Island on Fri 23 Oct, Bangkok. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Electric at Bangkok Island on Fri 23 Oct, Bangkok. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

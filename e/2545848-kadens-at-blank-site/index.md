@@ -1,6 +1,6 @@
 # KADENS 케이던스 at Blank Site
 
-KADENS 케이던스 at Blank Site on Fri 16 Oct, Seoul. 4 artists on the bill: ATISMIA, Destin, h4rdy and HYUNHXEE. Techno and Bass. Preview the line-up and save it on soundcheck.
+KADENS 케이던스 at Blank Site on Fri 16 Oct, Seoul. 4 artists: ATISMIA, Destin, h4rdy and HYUNHXEE. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Haus der Visionäre
 
-Haus der Visionäre is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SKINDEEP" on Thu, 1 Oct 2026.
+Haus der Visionäre is a music venue in Berlin with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SKINDEEP" on Thu, 1 Oct 2026.
 
-Haus der Visionäre is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Al Wootton, Buttechno, Clovis and Flabbergast and 2 more. Browse upcoming dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
+Haus der Visionäre is a music venue in Berlin listed on soundcheck. 6 upcoming gigs, with line-ups including Al Wootton, Buttechno, Clovis and Flabbergast and 2 more. See dates, start times and who's playing. Eichenstr. 4a, 12435 Berlin.
 
 ## What's on
 

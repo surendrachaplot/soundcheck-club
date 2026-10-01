@@ -1,6 +1,6 @@
 # Unearth X Strøm: Fennesz at Cisternerne
 
-Unearth X Strøm: Fennesz at Cisternerne on Fri 9 Oct, Copenhagen. 1 artist on the bill: Fennesz. Experimental and Drone. Preview the line-up and save it on soundcheck.
+Unearth X Strøm: Fennesz at Cisternerne on Fri 9 Oct, Copenhagen. 1 artist: Fennesz. Experimental and Drone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

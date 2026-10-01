@@ -1,6 +1,6 @@
 # YODO GROOVE HALLOWEEN – Limited 500 with Ken Ishii, DJ RINOKA at Yodo Groove (Yodobashi Ikebukuro)
 
-YODO GROOVE HALLOWEEN – Limited 500 with Ken Ishii, DJ RINOKA at Yodo Groove (Yodobashi Ikebukuro) on Sat 31 Oct, Tokyo. 1 artist on the bill: Ken Ishii. Techno. Preview the line-up and save it on soundcheck.
+YODO GROOVE HALLOWEEN – Limited 500 with Ken Ishii, DJ RINOKA at Yodo Groove (Yodobashi Ikebukuro) on Sat 31 Oct, Tokyo. 1 artist: Ken Ishii. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

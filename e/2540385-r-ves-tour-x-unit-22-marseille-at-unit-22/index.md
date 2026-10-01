@@ -1,6 +1,6 @@
 # Rêves Tour X Unité.22 (Marseille) at Unité.22
 
-Rêves Tour X Unité.22 (Marseille) on Sat 10 Oct, Marseille. 1 artist on the bill: notinbed. Electro and EBM. Preview the line-up and save it on soundcheck.
+Rêves Tour X Unité.22 (Marseille) on Sat 10 Oct, Marseille. 1 artist: notinbed. Electro and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

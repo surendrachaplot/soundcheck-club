@@ -1,6 +1,6 @@
 # 15 Years Gretchen:  MARIA ARNAL *live at Gretchen
 
-15 Years Gretchen:  MARIA ARNAL *live on Sat 24 Oct, Berlin. Experimental. Preview the line-up and save it on soundcheck.
+15 Years Gretchen:  MARIA ARNAL *live on Sat 24 Oct, Berlin. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

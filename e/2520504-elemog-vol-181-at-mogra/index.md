@@ -1,6 +1,6 @@
 # elemog vol.181 at Mogra
 
-elemog vol.181 at Mogra on Fri 16 Oct, Tokyo. Club. Preview the line-up and save it on soundcheck.
+elemog vol.181 at Mogra on Fri 16 Oct, Tokyo. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

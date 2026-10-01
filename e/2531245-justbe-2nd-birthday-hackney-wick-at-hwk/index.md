@@ -1,6 +1,6 @@
 # JustBe 2nd Birthday // Hackney Wick at HWK
 
-JustBe 2nd Birthday // Hackney Wick at HWK on Sat 5 Dec, London. House and Minimal. Preview the line-up and save it on soundcheck.
+JustBe 2nd Birthday // Hackney Wick at HWK on Sat 5 Dec, London. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

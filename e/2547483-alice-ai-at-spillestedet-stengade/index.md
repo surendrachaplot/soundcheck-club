@@ -1,6 +1,6 @@
 # Alice Ai at Spillestedet Stengade
 
-Alice Ai at Spillestedet Stengade on Sat 24 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+Alice Ai at Spillestedet Stengade on Sat 24 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

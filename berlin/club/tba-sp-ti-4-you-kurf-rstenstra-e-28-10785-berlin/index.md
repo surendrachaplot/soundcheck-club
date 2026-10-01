@@ -1,8 +1,8 @@
 # TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin
 
-TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "NOXYS Späti Tour VOL. 1 with Späti 4 You - FREE RAVE" on Sat, 17 Oct 2026.
+TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "NOXYS Späti Tour VOL. 1 with Späti 4 You - FREE RAVE" on Sat, 17 Oct 2026.
 
-TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Armaville, DJ Sweedee, Dr.Waumiau and FAballert and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Armaville, DJ Sweedee, Dr.Waumiau and FAballert and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

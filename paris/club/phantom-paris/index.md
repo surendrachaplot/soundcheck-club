@@ -1,8 +1,8 @@
 # Phantom, Paris
 
-Phantom, Paris is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Mathame All Night Long" on Fri, 9 Oct 2026.
+Phantom, Paris is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mathame All Night Long" on Fri, 9 Oct 2026.
 
-Phantom, Paris is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Ben Klock, Danilo Plessow, Hamdi and Josh Baker and 2 more. Browse upcoming dates, start times and who's playing. 8 Bd de Bercy, 75012 Paris, France.
+Phantom, Paris is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including Ben Klock, Danilo Plessow, Hamdi and Josh Baker and 2 more. See dates, start times and who's playing. 8 Bd de Bercy, 75012 Paris, France.
 
 ## What's on
 

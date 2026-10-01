@@ -1,6 +1,6 @@
 # Rex Club presents: Bours? all night long at Rex Club
 
-Rex Club presents: Bours? all night long on Sat 10 Oct, Paris. 1 artist on the bill: Bours?. Techno. Preview the line-up and save it on soundcheck.
+Rex Club presents: Bours? all night long on Sat 10 Oct, Paris. 1 artist: Bours?. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

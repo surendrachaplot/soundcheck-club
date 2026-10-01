@@ -1,8 +1,8 @@
 # Len Faki
 
-Len Faki is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Forte Antenne, Rome on Fri, 2 Oct 2026.
+Len Faki is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Forte Antenne, Rome on Fri, 2 Oct 2026.
 
-Len Faki is a techno and house artist based in Germany, tracked on soundcheck, with 140 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Daria Kolosova, Elli Acula and Beste Hira. Next up: Forte Antenne, Rome on Fri 2 Oct.
+Len Faki is a techno and house artist based in Germany, with 140 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 48 more. Often billed alongside Daria Kolosova, Elli Acula and Beste Hira. Next up: Forte Antenne, Rome on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Len Faki is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 26 Sept 2026
-- Else, Berlin — Sun, 20 Sept 2026
-- Phonox, London — Sat, 19 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- Forte Antenne, Rome — Sat, 5 Sept 2026
-- The Liquid Room, Edinburgh — Sat, 29 Aug 2026
-- KALT, Strasbourg — Sat, 15 Aug 2026
-- Else, Berlin — Sat, 8 Aug 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sat, 26 Sept 2026
+- Else, Berlin · Sun, 20 Sept 2026
+- Phonox, London · Sat, 19 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- Forte Antenne, Rome · Sat, 5 Sept 2026
+- The Liquid Room, Edinburgh · Sat, 29 Aug 2026
+- KALT, Strasbourg · Sat, 15 Aug 2026
+- Else, Berlin · Sat, 8 Aug 2026
 
 ## Shares bills with
 

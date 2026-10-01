@@ -1,6 +1,6 @@
 # Boundless Vibes Hifi Crew am Kuppelfest at Nest
 
-Boundless Vibes Hifi Crew am Kuppelfest at Nest on Sat 17 Oct, Basel. Bass and Dub. Preview the line-up and save it on soundcheck.
+Boundless Vibes Hifi Crew am Kuppelfest at Nest on Sat 17 Oct, Basel. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

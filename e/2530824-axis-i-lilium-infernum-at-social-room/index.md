@@ -1,6 +1,6 @@
 # Axis I LILIUM INFERNUM at Social Room
 
-Axis I LILIUM INFERNUM at Social Room on Fri 9 Oct, Hong Kong. Experimental and Broken Beat. Preview the line-up and save it on soundcheck.
+Axis I LILIUM INFERNUM at Social Room on Fri 9 Oct, Hong Kong. Experimental and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

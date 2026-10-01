@@ -1,6 +1,6 @@
 # Sora Tobu Jyuu Tan at ZUBAR
 
-Sora Tobu Jyuu Tan at ZUBAR on Sun 1 Nov, Tokyo. 1 artist on the bill: Maco. Preview the line-up and save it on soundcheck.
+Sora Tobu Jyuu Tan at ZUBAR on Sun 1 Nov, Tokyo. 1 artist: Maco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

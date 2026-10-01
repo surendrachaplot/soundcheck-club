@@ -1,6 +1,6 @@
 # Toast Club at The White Hotel
 
-Toast Club at The White Hotel on Tue 13 Oct, Manchester. Preview the line-up and save it on soundcheck.
+Toast Club at The White Hotel on Tue 13 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

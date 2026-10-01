@@ -1,6 +1,6 @@
 # Infinity Song at Säälchen
 
-Infinity Song at Säälchen on Thu 19 Nov, Berlin. Jazz and R&B. Preview the line-up and save it on soundcheck.
+Infinity Song at Säälchen on Thu 19 Nov, Berlin. Jazz and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

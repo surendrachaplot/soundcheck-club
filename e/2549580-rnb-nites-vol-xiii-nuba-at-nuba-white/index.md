@@ -1,6 +1,6 @@
 # RNB NITES VOL.XIII @NUBA at Nuba White
 
-RNB NITES VOL.XIII @NUBA at Nuba White on Sat 3 Oct, Bucharest. R&B. Preview the line-up and save it on soundcheck.
+RNB NITES VOL.XIII @NUBA at Nuba White on Sat 3 Oct, Bucharest. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

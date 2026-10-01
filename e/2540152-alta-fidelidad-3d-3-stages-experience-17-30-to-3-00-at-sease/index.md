@@ -1,6 +1,6 @@
 # Alta Fidelidad 3D - 3 stages experience - 17:30 to 3:00 at Seaseaclub Barcelona
 
-Alta Fidelidad 3D - 3 stages experience - 17:30 to 3:00 at Seaseaclub Barcelona on Sat 5 Dec, Barcelona. Techno and House. Preview the line-up and save it on soundcheck.
+Alta Fidelidad 3D - 3 stages experience - 17:30 to 3:00 at Seaseaclub Barcelona on Sat 5 Dec, Barcelona. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Headroom Listening Sessions: Washington, DC at Flash
 
-Headroom Listening Sessions: Washington, DC at Flash on Thu 15 Oct, Washington DC. Preview the line-up and save it on soundcheck.
+Headroom Listening Sessions: Washington, DC at Flash on Thu 15 Oct, Washington DC. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

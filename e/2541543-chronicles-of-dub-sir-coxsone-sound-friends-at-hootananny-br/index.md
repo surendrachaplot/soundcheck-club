@@ -1,6 +1,6 @@
 # Chronicles of Dub: Sir Coxsone Sound + Friends at Hootananny Brixton
 
-Chronicles of Dub: Sir Coxsone Sound + Friends at Hootananny Brixton on Fri 9 Oct, London. Dub. Preview the line-up and save it on soundcheck.
+Chronicles of Dub: Sir Coxsone Sound + Friends at Hootananny Brixton on Fri 9 Oct, London. Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

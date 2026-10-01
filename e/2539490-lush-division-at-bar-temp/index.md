@@ -1,6 +1,6 @@
 # Lush Division at Bar Temp.
 
-Lush Division at Bar Temp. on Thu 1 Oct, Bangkok. 1 artist on the bill: Pragueputth. Techno and House. Preview the line-up and save it on soundcheck.
+Lush Division at Bar Temp. on Thu 1 Oct, Bangkok. 1 artist: Pragueputth. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

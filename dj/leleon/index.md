@@ -1,8 +1,8 @@
 # LeLeon
 
-LeLeon is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Plantation, Paris on Fri, 9 Oct 2026.
+LeLeon is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plantation, Paris on Fri, 9 Oct 2026.
 
-LeLeon is a house and techno artist based in France, tracked on soundcheck, with 63 sets logged across Bordeaux, Lyon and Paris. Often billed alongside Naajet, Bande de Filles and Lyss. Next up: Plantation, Paris on Fri 9 Oct.
+LeLeon is a house and techno artist based in France, with 63 gigs on soundcheck across Bordeaux, Lyon and Paris. Often billed alongside Naajet, Bande de Filles and Lyss. Next up: Plantation, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ LeLeon is a house and techno artist based in France, tracked on soundcheck, with
 
 ## Recently played
 
-- Badaboum, Paris — Sat, 15 Aug 2026
-- Mia Mao, Paris — Sat, 11 Jul 2026
-- Cabaret Sauvage, Paris — Sat, 6 Jun 2026
-- Virage, Paris — Thu, 16 Apr 2026
-- Wanderlust, Paris — Sat, 11 Apr 2026
-- Badaboum, Paris — Fri, 20 Mar 2026
-- Sacré, Paris — Fri, 6 Mar 2026
-- Sacré, Paris — Fri, 23 Jan 2026
+- Badaboum, Paris · Sat, 15 Aug 2026
+- Mia Mao, Paris · Sat, 11 Jul 2026
+- Cabaret Sauvage, Paris · Sat, 6 Jun 2026
+- Virage, Paris · Thu, 16 Apr 2026
+- Wanderlust, Paris · Sat, 11 Apr 2026
+- Badaboum, Paris · Fri, 20 Mar 2026
+- Sacré, Paris · Fri, 6 Mar 2026
+- Sacré, Paris · Fri, 23 Jan 2026
 
 ## Shares bills with
 

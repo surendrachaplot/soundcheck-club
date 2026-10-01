@@ -1,8 +1,8 @@
 # LDN East
 
-LDN East is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Jawani 4eva" on Sat, 10 Oct 2026.
+LDN East is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Jawani 4eva" on Sat, 10 Oct 2026.
 
-LDN East is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Beezo, Don't F**k with Disco, Golden Lady and Jerome Six and 2 more. Browse upcoming dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
+LDN East is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including Beezo, Don't F**k with Disco, Golden Lady and Jerome Six and 2 more. See dates, start times and who's playing. 30 Bidder Street, London, England, E16 4SH, United Kingdom.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # KONZEPT at FLUCC
 
-KONZEPT at FLUCC on Fri 23 Oct, Vienna. 3 artists on the bill: Dcascallana, REIKA_DJ and Techflex. Techno. Preview the line-up and save it on soundcheck.
+KONZEPT at FLUCC on Fri 23 Oct, Vienna. 3 artists: Dcascallana, REIKA_DJ and Techflex. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

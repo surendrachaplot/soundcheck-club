@@ -1,8 +1,8 @@
 # Lil' Louis
 
-Lil' Louis is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Lil' Louis is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Lil' Louis is a house and techno artist based in United States of America, tracked on soundcheck, with 62 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Lil' Louis is a house and techno artist based in United States of America, with 62 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Aiko Inoue, Adiel and Boys Noize. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Lil' Louis is a house and techno artist based in United States of America, track
 
 ## Recently played
 
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Lux Fragil, Lisbon — Sat, 29 Aug 2026
-- Pikes Ibiza, Ibiza — Sun, 26 Jul 2026
-- TBA, Glasgow — Sat, 18 Jul 2026
-- Sub Club, Glasgow — Sat, 18 Jul 2026
-- Mia Mao, Paris — Sat, 11 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 10 Jul 2026
-- Parco Dora, Turin — Fri, 3 Jul 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Lux Fragil, Lisbon · Sat, 29 Aug 2026
+- Pikes Ibiza, Ibiza · Sun, 26 Jul 2026
+- TBA, Glasgow · Sat, 18 Jul 2026
+- Sub Club, Glasgow · Sat, 18 Jul 2026
+- Mia Mao, Paris · Sat, 11 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 10 Jul 2026
+- Parco Dora, Turin · Fri, 3 Jul 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Rikken
 
-Rikken is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kadinsky Cafe, Amsterdam on Fri, 23 Oct 2026.
+Rikken is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Fri, 23 Oct 2026.
 
-Rikken is a progressive house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin and Zurich. Often billed alongside Hyunji-A, Max Hendricks and Tantum. Next up: Kadinsky Cafe, Amsterdam on Fri 23 Oct.
+Rikken is a progressive house and techno artist based in Germany, with 7 gigs on soundcheck across Amsterdam, Berlin and Zurich. Often billed alongside Hyunji-A, Max Hendricks and Tantum. Next up: Kadinsky Cafe, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ Rikken is a progressive house and techno artist based in Germany, tracked on sou
 
 ## Recently played
 
-- Ritter Butzke, Berlin — Fri, 14 Aug 2026
-- Ritter Butzke, Berlin — Fri, 13 Feb 2026
-- Kadinsky Cafe, Amsterdam — Fri, 24 Oct 2025
-- Ritter Butzke, Berlin — Fri, 26 Sept 2025
-- Bananenreiferei, Zurich — Sat, 4 May 2024
+- Ritter Butzke, Berlin · Fri, 14 Aug 2026
+- Ritter Butzke, Berlin · Fri, 13 Feb 2026
+- Kadinsky Cafe, Amsterdam · Fri, 24 Oct 2025
+- Ritter Butzke, Berlin · Fri, 26 Sept 2025
+- Bananenreiferei, Zurich · Sat, 4 May 2024
 
 ## Shares bills with
 

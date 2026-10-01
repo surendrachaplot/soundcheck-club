@@ -1,6 +1,6 @@
 # Rebecca Black - Montréal at Club Soda
 
-Rebecca Black - Montréal at Club Soda on Tue 20 Oct, Montreal. Electro and Pop. Preview the line-up and save it on soundcheck.
+Rebecca Black - Montréal at Club Soda on Tue 20 Oct, Montreal. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

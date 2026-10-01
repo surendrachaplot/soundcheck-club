@@ -1,6 +1,6 @@
 # Djebbour x The D-Mood with Mountak (Berlin) at Crust Basement
 
-Djebbour x The D-Mood with Mountak (Berlin) at Crust Basement on Sat 3 Oct, Athens. 1 artist on the bill: Mountak. Techno and House. Preview the line-up and save it on soundcheck.
+Djebbour x The D-Mood with Mountak (Berlin) at Crust Basement on Sat 3 Oct, Athens. 1 artist: Mountak. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

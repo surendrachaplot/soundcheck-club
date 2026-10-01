@@ -1,8 +1,8 @@
 # Loves_kills
 
-Loves_kills is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
+Loves_kills is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Sat, 3 Oct 2026.
 
-Loves_kills is a house and disco artist based in Ukraine, tracked on soundcheck, with 52 sets logged across Berlin and Strasbourg. Often billed alongside Rina Katen, justcallmesergio and Slow PSTL. Next up: OXI, Berlin on Sat 3 Oct.
+Loves_kills is a house and disco artist based in Ukraine, with 52 gigs on soundcheck across Berlin and Strasbourg. Often billed alongside Rina Katen, justcallmesergio and Slow PSTL. Next up: OXI, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Loves_kills is a house and disco artist based in Ukraine, tracked on soundcheck,
 
 ## Recently played
 
-- Renate, Berlin — Sun, 6 Sept 2026
-- Bulbul Berlin, Berlin — Fri, 17 Jul 2026
-- OXI, Berlin — Sat, 20 Jun 2026
-- Crack Bellmer, Berlin — Fri, 15 May 2026
-- ÆDEN, Berlin — Sat, 20 Dec 2025
-- Bulbul Berlin, Berlin — Fri, 17 Oct 2025
-- Urban Spree, Berlin — Sat, 13 Sept 2025
-- arkaoda Berlin, Berlin — Fri, 12 Sept 2025
+- Renate, Berlin · Sun, 6 Sept 2026
+- Bulbul Berlin, Berlin · Fri, 17 Jul 2026
+- OXI, Berlin · Sat, 20 Jun 2026
+- Crack Bellmer, Berlin · Fri, 15 May 2026
+- ÆDEN, Berlin · Sat, 20 Dec 2025
+- Bulbul Berlin, Berlin · Fri, 17 Oct 2025
+- Urban Spree, Berlin · Sat, 13 Sept 2025
+- arkaoda Berlin, Berlin · Fri, 12 Sept 2025
 
 ## Shares bills with
 

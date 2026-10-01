@@ -1,6 +1,6 @@
 # RED SESSIONS PRESENTS Ezequiel Arias at Bikini Club
 
-RED SESSIONS PRESENTS Ezequiel Arias at Bikini Club on Sat 10 Oct, Barcelona. 1 artist on the bill: Ezequiel Arias. Preview the line-up and save it on soundcheck.
+RED SESSIONS PRESENTS Ezequiel Arias at Bikini Club on Sat 10 Oct, Barcelona. 1 artist: Ezequiel Arias. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

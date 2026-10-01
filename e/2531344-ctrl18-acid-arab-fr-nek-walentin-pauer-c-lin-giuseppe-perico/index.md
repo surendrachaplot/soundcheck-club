@@ -1,6 +1,6 @@
 # ctrl18: Acid Arab [FR], Nek & Walentin Pauer, Călin, Giuseppe Pericolo, Cliza & Leo at control
 
-ctrl18: Acid Arab [FR], Nek & Walentin Pauer, Călin, Giuseppe Pericolo, Cliza & Leo at control on Fri 2 Oct, Bucharest. 1 artist on the bill: Acid Arab. Techno and Electronica. Preview the line-up and save it on soundcheck.
+ctrl18: Acid Arab [FR], Nek & Walentin Pauer, Călin, Giuseppe Pericolo, Cliza & Leo at control on Fri 2 Oct, Bucharest. 1 artist: Acid Arab. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

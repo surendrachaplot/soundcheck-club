@@ -1,8 +1,8 @@
 # Elina Tapio
 
-Elina Tapio is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Transit, Amsterdam on Fri, 2 Oct 2026.
+Elina Tapio is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Transit, Amsterdam on Fri, 2 Oct 2026.
 
-Elina Tapio is an experimental and techno artist based in Netherlands, tracked on soundcheck, with 23 sets logged across Amsterdam, Cologne, Milan and Rotterdam and 2 more. Often billed alongside Marco Segato, Hannah Pezzack and Arif. Next up: Transit, Amsterdam on Fri 2 Oct.
+Elina Tapio is an experimental and techno artist based in Netherlands, with 23 gigs on soundcheck across Amsterdam, Cologne, Milan and Rotterdam and 2 more. Often billed alongside Marco Segato, Hannah Pezzack and Arif. Next up: Transit, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Elina Tapio is an experimental and techno artist based in Netherlands, tracked o
 
 ## Recently played
 
-- TILLATEC, Amsterdam — Sat, 30 May 2026
-- San Francisco, Amsterdam — Sun, 15 Feb 2026
-- Laak, The Hague — Sat, 27 Dec 2025
-- Phono Lake, Amsterdam — Sat, 25 Oct 2025
-- Garage Noord, Amsterdam — Sun, 24 Aug 2025
-- San Francisco, Amsterdam — Sun, 20 Jul 2025
-- De Sering, Amsterdam — Sat, 31 May 2025
-- San Francisco, Amsterdam — Sun, 25 May 2025
+- TILLATEC, Amsterdam · Sat, 30 May 2026
+- San Francisco, Amsterdam · Sun, 15 Feb 2026
+- Laak, The Hague · Sat, 27 Dec 2025
+- Phono Lake, Amsterdam · Sat, 25 Oct 2025
+- Garage Noord, Amsterdam · Sun, 24 Aug 2025
+- San Francisco, Amsterdam · Sun, 20 Jul 2025
+- De Sering, Amsterdam · Sat, 31 May 2025
+- San Francisco, Amsterdam · Sun, 25 May 2025
 
 ## Shares bills with
 

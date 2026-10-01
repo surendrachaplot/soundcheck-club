@@ -1,8 +1,8 @@
 # Donae'o
 
-Donae'o is a UK Funky and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bread and Butter, London on Fri, 30 Oct 2026.
+Donae'o is a UK Funky and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bread and Butter, London on Fri, 30 Oct 2026.
 
-Donae'o is an uk funky and garage artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Crazy Cousinz, Jojo Deevoy and Rampage Sound. Next up: Bread and Butter, London on Fri 30 Oct.
+Donae'o is an uk funky and garage artist based in United Kingdom, with 27 gigs on soundcheck across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Crazy Cousinz, Jojo Deevoy and Rampage Sound. Next up: Bread and Butter, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Donae'o is an uk funky and garage artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Freight Brixton, London — Sat, 29 Aug 2026
-- Studio 338, London — Sat, 22 Aug 2026
-- The Steel Yard, London — Sat, 8 Aug 2026
-- Dixie Queen Paddle Steamer, London — Sat, 4 Jul 2026
-- Bar15, Stockholm — Sat, 23 May 2026
-- Brixton Jamm, London — Fri, 13 Feb 2026
-- LDN East, London — Wed, 31 Dec 2025
-- Brixton Jamm, London — Sat, 13 Dec 2025
+- Freight Brixton, London · Sat, 29 Aug 2026
+- Studio 338, London · Sat, 22 Aug 2026
+- The Steel Yard, London · Sat, 8 Aug 2026
+- Dixie Queen Paddle Steamer, London · Sat, 4 Jul 2026
+- Bar15, Stockholm · Sat, 23 May 2026
+- Brixton Jamm, London · Fri, 13 Feb 2026
+- LDN East, London · Wed, 31 Dec 2025
+- Brixton Jamm, London · Sat, 13 Dec 2025
 
 ## Shares bills with
 

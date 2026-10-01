@@ -1,6 +1,6 @@
 # Beyond The Valley at Barunah Plains
 
-Beyond The Valley at Barunah Plains on Mon 28 Dec, Victoria. 64 artists on the bill: Afrodisiac, After X, AKEYLAH and Anetha and 60 more. Preview the line-up and save it on soundcheck.
+Beyond The Valley at Barunah Plains on Mon 28 Dec, Victoria. 64 artists: Afrodisiac, After X, AKEYLAH and Anetha and 60 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

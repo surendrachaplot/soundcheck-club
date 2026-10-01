@@ -1,6 +1,6 @@
 # DAN WHITLAM at Lido Berlin
 
-DAN WHITLAM at Lido Berlin on Tue 27 Oct, Berlin. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+DAN WHITLAM at Lido Berlin on Tue 27 Oct, Berlin. Hip-Hop and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

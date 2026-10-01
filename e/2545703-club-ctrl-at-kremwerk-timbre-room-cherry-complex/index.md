@@ -1,6 +1,6 @@
 # Club CTRL at Kremwerk-Timbre Room-Cherry Complex
 
-Club CTRL at Kremwerk-Timbre Room-Cherry Complex on Sat 3 Oct, Seattle. 1 artist on the bill: Ctrl.mp3. Techno and Garage. Preview the line-up and save it on soundcheck.
+Club CTRL at Kremwerk-Timbre Room-Cherry Complex on Sat 3 Oct, Seattle. 1 artist: Ctrl.mp3. Techno and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

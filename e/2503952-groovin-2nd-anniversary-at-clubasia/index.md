@@ -1,6 +1,6 @@
 # GROOVIN' 2nd Anniversary at clubasia
 
-GROOVIN' 2nd Anniversary at clubasia on Fri 16 Oct, Tokyo. 1 artist on the bill: Ground. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+GROOVIN' 2nd Anniversary at clubasia on Fri 16 Oct, Tokyo. 1 artist: Ground. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

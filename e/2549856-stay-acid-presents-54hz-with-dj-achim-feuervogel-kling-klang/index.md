@@ -1,6 +1,6 @@
 # Stay Acid presents 54hz with DJ Achim Feuervogel + KLING&KLANG at Das Werk
 
-Stay Acid presents 54hz with DJ Achim Feuervogel + KLING&KLANG at Das Werk on Sat 17 Oct, Vienna. 5 artists on the bill: DJ Achim Feuervogel, KLING&KLANG, pinklotion and PSMT and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Stay Acid presents 54hz with DJ Achim Feuervogel + KLING&KLANG at Das Werk on Sat 17 Oct, Vienna. 5 artists: DJ Achim Feuervogel, KLING&KLANG, pinklotion and PSMT and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

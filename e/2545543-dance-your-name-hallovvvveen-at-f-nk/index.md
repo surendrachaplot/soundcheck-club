@@ -1,6 +1,6 @@
 # Dance Your Name: HalloVvvVeen at Fünk
 
-Dance Your Name: HalloVvvVeen at Fünk on Thu 22 Oct, Mexico City. 4 artists on the bill: Fig (DYN), Koscoy, TRR and Vanilla Storm. Techno and House. Preview the line-up and save it on soundcheck.
+Dance Your Name: HalloVvvVeen at Fünk on Thu 22 Oct, Mexico City. 4 artists: Fig (DYN), Koscoy, TRR and Vanilla Storm. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

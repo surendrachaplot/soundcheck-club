@@ -1,6 +1,6 @@
 # Grouper+Roy Montgomery at Temppeliaukio Church
 
-Grouper+Roy Montgomery at Temppeliaukio Church on Mon 16 Nov, Helsinki. 1 artist on the bill: Grouper. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Grouper+Roy Montgomery at Temppeliaukio Church on Mon 16 Nov, Helsinki. 1 artist: Grouper. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

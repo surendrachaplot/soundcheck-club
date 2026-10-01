@@ -1,6 +1,6 @@
 # Labyrinth presents: Jazzy Peace & Patience London at The Cause
 
-Labyrinth presents: Jazzy Peace & Patience London at The Cause on Fri 11 Dec, London. 1 artist on the bill: Jazzy (IRL). Garage and Tech House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: Jazzy Peace & Patience London at The Cause on Fri 11 Dec, London. 1 artist: Jazzy (IRL). Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

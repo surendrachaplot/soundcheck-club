@@ -1,6 +1,6 @@
 # GRUB Stretford: Drum and Backgammon at Grub Stretford
 
-GRUB Stretford: Drum and Backgammon at Grub Stretford on Sun 11 Oct, Manchester. Drum & Bass and Broken Beat. Preview the line-up and save it on soundcheck.
+GRUB Stretford: Drum and Backgammon at Grub Stretford on Sun 11 Oct, Manchester. Drum & Bass and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mijk van Dijk`s Birthday Bash / r:nocturn at Der Weiße Hase
 
-Mijk van Dijk`s Birthday Bash / r:nocturn at Der Weiße Hase on Sat 17 Oct, Berlin. 1 artist on the bill: Mijk van Dijk. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Mijk van Dijk`s Birthday Bash / r:nocturn at Der Weiße Hase on Sat 17 Oct, Berlin. 1 artist: Mijk van Dijk. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

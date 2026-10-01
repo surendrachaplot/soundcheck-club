@@ -1,6 +1,6 @@
 # Haseeb Iqbal: Studio Crumb Midweek Sessions at SJQ
 
-Haseeb Iqbal: Studio Crumb Midweek Sessions at SJQ on Thu 8 Oct, London. 1 artist on the bill: Haseeb Iqbal. Dub and Jazz. Preview the line-up and save it on soundcheck.
+Haseeb Iqbal: Studio Crumb Midweek Sessions at SJQ on Thu 8 Oct, London. 1 artist: Haseeb Iqbal. Dub and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

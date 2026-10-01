@@ -1,6 +1,6 @@
 # Kynant with Dialog & Benji (live), Richard Akingbehin, Mia Cecille at Garage Noord
 
-Kynant with Dialog & Benji (live), Richard Akingbehin, Mia Cecille at Garage Noord on Sat 28 Nov, Amsterdam. 3 artists on the bill: Dialog, Mia Cecille and Richard Akingbehin. Preview the line-up and save it on soundcheck.
+Kynant with Dialog & Benji (live), Richard Akingbehin, Mia Cecille at Garage Noord on Sat 28 Nov, Amsterdam. 3 artists: Dialog, Mia Cecille and Richard Akingbehin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

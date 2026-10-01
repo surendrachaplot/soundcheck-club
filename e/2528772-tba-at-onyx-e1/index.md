@@ -1,6 +1,6 @@
 # TBA at Onyx (E1)
 
-TBA at Onyx (E1) on Fri 13 Nov, London. Preview the line-up and save it on soundcheck.
+TBA at Onyx (E1) on Fri 13 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

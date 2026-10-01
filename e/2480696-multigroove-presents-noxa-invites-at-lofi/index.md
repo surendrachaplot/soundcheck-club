@@ -1,6 +1,6 @@
 # Multigroove presents: NoXa Invites at Lofi
 
-Multigroove presents: NoXa Invites at Lofi on Sat 3 Oct, Amsterdam. 3 artists on the bill: Buzz Fuzz, Luna and Pavo. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Multigroove presents: NoXa Invites at Lofi on Sat 3 Oct, Amsterdam. 3 artists: Buzz Fuzz, Luna and Pavo. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

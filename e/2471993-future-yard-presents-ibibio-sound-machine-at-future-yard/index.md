@@ -1,6 +1,6 @@
 # Future Yard presents Ibibio Sound Machine at Future Yard
 
-Future Yard presents Ibibio Sound Machine on Sat 10 Oct, Liverpool. Afrobeats and Electronica. Preview the line-up and save it on soundcheck.
+Future Yard presents Ibibio Sound Machine on Sat 10 Oct, Liverpool. Afrobeats and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

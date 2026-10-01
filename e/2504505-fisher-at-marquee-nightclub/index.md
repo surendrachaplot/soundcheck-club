@@ -1,6 +1,6 @@
 # FISHER at Marquee Nightclub
 
-FISHER at Marquee Nightclub on Sat 21 Nov, Las Vegas. 1 artist on the bill: FISHER. Preview the line-up and save it on soundcheck.
+FISHER at Marquee Nightclub on Sat 21 Nov, Las Vegas. 1 artist: FISHER. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

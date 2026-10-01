@@ -1,6 +1,6 @@
 # Horace Andy & The Dub Asante Band at The Jazz Cafe
 
-Horace Andy & The Dub Asante Band at The Jazz Cafe on Tue 1 Dec, London. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+Horace Andy & The Dub Asante Band at The Jazz Cafe on Tue 1 Dec, London. Dub and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

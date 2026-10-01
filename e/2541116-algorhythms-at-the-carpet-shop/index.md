@@ -1,6 +1,6 @@
 # AlgoRhythms at The Carpet Shop
 
-AlgoRhythms at The Carpet Shop on Wed 7 Oct, London. Experimental and Amapiano. Preview the line-up and save it on soundcheck.
+AlgoRhythms at The Carpet Shop on Wed 7 Oct, London. Experimental and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

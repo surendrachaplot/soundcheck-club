@@ -1,6 +1,6 @@
 # Zen Arcade vs. Make A Dance at Strange Brew
 
-Zen Arcade vs. Make A Dance at Strange Brew on Fri 16 Oct, Bristol. 2 artists on the bill: Ellie Anderson and Make A Dance. House and Acid. Preview the line-up and save it on soundcheck.
+Zen Arcade vs. Make A Dance at Strange Brew on Fri 16 Oct, Bristol. 2 artists: Ellie Anderson and Make A Dance. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

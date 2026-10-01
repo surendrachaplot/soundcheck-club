@@ -1,6 +1,6 @@
 # 16 JAHRE FRIEDA'S BÜXE at Frieda's Büxe
 
-16 JAHRE FRIEDA'S BÜXE at Frieda's Büxe on Fri 2 Oct, Zurich. 2 artists on the bill: And Hazel and Chris Llopis. Preview the line-up and save it on soundcheck.
+16 JAHRE FRIEDA'S BÜXE at Frieda's Büxe on Fri 2 Oct, Zurich. 2 artists: And Hazel and Chris Llopis. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

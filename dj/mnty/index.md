@@ -1,8 +1,8 @@
 # MNTY
 
-MNTY is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fünk, Mexico City on Sat, 31 Oct 2026.
+MNTY is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fünk, Mexico City on Sat, 31 Oct 2026.
 
-MNTY is a house and techno artist based in Mexico, tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Mexico City and New York City and 3 more. Often billed alongside Bluecommand, Valeriana and AAAA. Next up: Fünk, Mexico City on Sat 31 Oct.
+MNTY is a house and techno artist based in Mexico, with 93 gigs on soundcheck across Amsterdam, Berlin, Mexico City and New York City and 3 more. Often billed alongside Bluecommand, Valeriana and AAAA. Next up: Fünk, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ MNTY is a house and techno artist based in Mexico, tracked on soundcheck, with 9
 
 ## Recently played
 
-- Casa Grande, Mexico City — Sat, 26 Sept 2026
-- Bar Oriente, Mexico City — Sat, 29 Aug 2026
-- Fünk, Mexico City — Fri, 28 Aug 2026
-- TILLATEC, Amsterdam — Sat, 15 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 1 Aug 2026
-- Bassiani, Tbilisi — Sat, 25 Jul 2026
-- TBA - Av. Insurgentes Sur 105, Roma Sur, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico City — Fri, 19 Jun 2026
-- Drama Radio Bar, Mexico City — Tue, 16 Jun 2026
+- Casa Grande, Mexico City · Sat, 26 Sept 2026
+- Bar Oriente, Mexico City · Sat, 29 Aug 2026
+- Fünk, Mexico City · Fri, 28 Aug 2026
+- TILLATEC, Amsterdam · Sat, 15 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 1 Aug 2026
+- Bassiani, Tbilisi · Sat, 25 Jul 2026
+- TBA - Av. Insurgentes Sur 105, Roma Sur, Cuauhtémoc, 06600 Ciudad de México, CDMX, Mexico City · Fri, 19 Jun 2026
+- Drama Radio Bar, Mexico City · Tue, 16 Jun 2026
 
 ## Shares bills with
 

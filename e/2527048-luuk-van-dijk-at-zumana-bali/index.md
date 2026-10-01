@@ -1,6 +1,6 @@
 # Luuk van Dijk at Zumana Bali
 
-Luuk van Dijk at Zumana Bali on Wed 9 Dec, Bali. 1 artist on the bill: Luuk van Dijk. House. Preview the line-up and save it on soundcheck.
+Luuk van Dijk at Zumana Bali on Wed 9 Dec, Bali. 1 artist: Luuk van Dijk. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

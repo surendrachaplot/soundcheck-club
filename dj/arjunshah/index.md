@@ -1,8 +1,8 @@
 # Arjun Shah
 
-Arjun Shah is a Disco and Afrobeat artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Jupiter Disco, New York City on Sat, 3 Oct 2026.
+Arjun Shah is a Disco and Afrobeat artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jupiter Disco, New York City on Sat, 3 Oct 2026.
 
-Arjun Shah is a disco and afrobeat artist based in United States of America, tracked on soundcheck, with 37 sets logged across Detroit and New York City. Often billed alongside ራሄል (Rachel), vikmatic and funkin donut. Next up: Jupiter Disco, New York City on Sat 3 Oct.
+Arjun Shah is a disco and afrobeat artist based in United States of America, with 37 gigs on soundcheck across Detroit and New York City. Often billed alongside ራሄል (Rachel), vikmatic and funkin donut. Next up: Jupiter Disco, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Arjun Shah is a disco and afrobeat artist based in United States of America, tra
 
 ## Recently played
 
-- Silence Please, New York City — Tue, 15 Sept 2026
-- Elsewhere, New York City — Sat, 12 Sept 2026
-- Honey's, New York City — Fri, 11 Sept 2026
-- Silence Please, New York City — Tue, 18 Aug 2026
-- Elsewhere, New York City — Sat, 15 Aug 2026
-- Silence Please, New York City — Sun, 2 Aug 2026
-- Eavesdrop, New York City — Thu, 30 Jul 2026
-- Silence Please, New York City — Wed, 22 Jul 2026
+- Silence Please, New York City · Tue, 15 Sept 2026
+- Elsewhere, New York City · Sat, 12 Sept 2026
+- Honey's, New York City · Fri, 11 Sept 2026
+- Silence Please, New York City · Tue, 18 Aug 2026
+- Elsewhere, New York City · Sat, 15 Aug 2026
+- Silence Please, New York City · Sun, 2 Aug 2026
+- Eavesdrop, New York City · Thu, 30 Jul 2026
+- Silence Please, New York City · Wed, 22 Jul 2026
 
 ## Shares bills with
 

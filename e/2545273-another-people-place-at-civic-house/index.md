@@ -1,6 +1,6 @@
 # Another People Place at Civic House
 
-Another People Place at Civic House on Sat 24 Oct, Glasgow. Deep House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Another People Place at Civic House on Sat 24 Oct, Glasgow. Deep House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Anyma at La Défense Arena
 
-Anyma at La Défense Arena on Sat 12 Dec, Paris. 1 artist on the bill: Anyma. Techno and Electro. Preview the line-up and save it on soundcheck.
+Anyma at La Défense Arena on Sat 12 Dec, Paris. 1 artist: Anyma. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

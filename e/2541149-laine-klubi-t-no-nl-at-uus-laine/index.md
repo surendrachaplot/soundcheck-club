@@ -1,6 +1,6 @@
 # Laine Klubiöö: T.NO (NL) at Uus Laine
 
-Laine Klubiöö: T.NO (NL) at Uus Laine on Fri 15 Jan, Tallinn. 1 artist on the bill: T.NO. Preview the line-up and save it on soundcheck.
+Laine Klubiöö: T.NO (NL) at Uus Laine on Fri 15 Jan, Tallinn. 1 artist: T.NO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Electro Oasis (every Sunday) *Free with RSVP ticket* at Le Red Room
 
-Electro Oasis (every Sunday) *Free with RSVP ticket* at Le Red Room on Sun 4 Oct, Montreal. 2 artists on the bill: Claudel and Feelynn. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Electro Oasis (every Sunday) *Free with RSVP ticket* at Le Red Room on Sun 4 Oct, Montreal. 2 artists: Claudel and Feelynn. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

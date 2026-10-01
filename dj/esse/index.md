@@ -1,8 +1,8 @@
 # Esse
 
-Esse is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tinker Field, Orlando on Fri, 6 Nov 2026.
+Esse is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tinker Field, Orlando on Fri, 6 Nov 2026.
 
-Esse is a house and tech house artist tracked on soundcheck, with 6 sets logged across Amsterdam, Boston, Los Angeles and Miami and 1 more. Often billed alongside Alesso, ALVES (PT) and ARLO (UK). Next up: Tinker Field, Orlando on Fri 6 Nov.
+Esse is a house and tech house artist, with 6 gigs on soundcheck across Amsterdam, Boston, Los Angeles and Miami and 1 more. Often billed alongside Alesso, ALVES (PT) and ARLO (UK). Next up: Tinker Field, Orlando on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -13,10 +13,10 @@ Esse is a house and tech house artist tracked on soundcheck, with 6 sets logged 
 
 ## Recently played
 
-- Bsmnt, Boston — Sat, 13 Jun 2026
-- Clevelander Hotel, Miami — Wed, 25 Mar 2026
-- Noordspace, Amsterdam — Sat, 29 Nov 2025
-- nachbar, Amsterdam — Thu, 30 Jan 2025
+- Bsmnt, Boston · Sat, 13 Jun 2026
+- Clevelander Hotel, Miami · Wed, 25 Mar 2026
+- Noordspace, Amsterdam · Sat, 29 Nov 2025
+- nachbar, Amsterdam · Thu, 30 Jan 2025
 
 ## Shares bills with
 

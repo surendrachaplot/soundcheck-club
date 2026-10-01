@@ -1,6 +1,6 @@
 # Gorilla Tactics presents: 4AM Kru at Cheese & Grain
 
-Gorilla Tactics presents: 4AM Kru at Cheese & Grain on Sat 17 Oct, West Wales. 2 artists on the bill: 4am Kru and Aries. Preview the line-up and save it on soundcheck.
+Gorilla Tactics presents: 4AM Kru at Cheese & Grain on Sat 17 Oct, West Wales. 2 artists: 4am Kru and Aries. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

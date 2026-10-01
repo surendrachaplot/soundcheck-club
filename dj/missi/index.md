@@ -1,8 +1,8 @@
 # Miss I
 
-Miss I is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Miss I is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Miss I is a house and techno artist based in Romania, tracked on soundcheck, with 41 sets logged across Berlin, Brussels, Bucharest and Greece and 5 more. Often billed alongside oddist, Andrei Ciubuc and Clovis. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Miss I is a house and techno artist based in Romania, with 41 gigs on soundcheck across Berlin, Brussels, Bucharest and Greece and 5 more. Often billed alongside oddist, Andrei Ciubuc and Clovis. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Miss I is a house and techno artist based in Romania, tracked on soundcheck, wit
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Supermarket, Zurich — Fri, 7 Aug 2026
-- Platforma Wolff, Bucharest — Fri, 24 Jul 2026
-- Ikii, Berlin — Sat, 11 Jul 2026
-- Club der Visionaere, Berlin — Fri, 10 Jul 2026
-- Platforma Wolff, Bucharest — Thu, 2 Jul 2026
-- Platforma Wolff, Bucharest — Sat, 6 Jun 2026
-- Platforma Wolff, Bucharest — Fri, 13 Mar 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Supermarket, Zurich · Fri, 7 Aug 2026
+- Platforma Wolff, Bucharest · Fri, 24 Jul 2026
+- Ikii, Berlin · Sat, 11 Jul 2026
+- Club der Visionaere, Berlin · Fri, 10 Jul 2026
+- Platforma Wolff, Bucharest · Thu, 2 Jul 2026
+- Platforma Wolff, Bucharest · Sat, 6 Jun 2026
+- Platforma Wolff, Bucharest · Fri, 13 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Live in Halle: Lord Spikeheart, Radon at Zentralwäscherei
 
-Live in Halle: Lord Spikeheart, Radon at Zentralwäscherei on Thu 5 Nov, Zurich. 1 artist on the bill: Lord Spikeheart. Preview the line-up and save it on soundcheck.
+Live in Halle: Lord Spikeheart, Radon at Zentralwäscherei on Thu 5 Nov, Zurich. 1 artist: Lord Spikeheart. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

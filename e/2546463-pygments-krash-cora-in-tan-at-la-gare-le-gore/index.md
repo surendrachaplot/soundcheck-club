@@ -1,6 +1,6 @@
 # PYGMENTS: Krash Cora & In-Tan at La Gare / Le Gore
 
-PYGMENTS: Krash Cora & In-Tan at La Gare / Le Gore on Wed 14 Oct, Paris. 2 artists on the bill: In-Tan and Krash Cora. Techno. Preview the line-up and save it on soundcheck.
+PYGMENTS: Krash Cora & In-Tan at La Gare / Le Gore on Wed 14 Oct, Paris. 2 artists: In-Tan and Krash Cora. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

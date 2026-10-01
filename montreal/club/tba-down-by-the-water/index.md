@@ -1,8 +1,8 @@
 # TBA - down by the water
 
-TBA - down by the water is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Ferias Halloween 'Til Sunrise" on Sat, 31 Oct 2026.
+TBA - down by the water is a music venue in Montreal with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ferias Halloween 'Til Sunrise" on Sat, 31 Oct 2026.
 
-TBA - down by the water is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Alina (MTL), Guthrie, Lia Plutonic and Scott Grooves. Browse upcoming dates, start times and who's playing.
+TBA - down by the water is a music venue in Montreal listed on soundcheck. 1 upcoming gig, with line-ups including Alina (MTL), Guthrie, Lia Plutonic and Scott Grooves. See dates, start times and who's playing.
 
 ## What's on
 

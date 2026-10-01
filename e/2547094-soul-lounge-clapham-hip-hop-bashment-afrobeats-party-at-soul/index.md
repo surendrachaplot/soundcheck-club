@@ -1,6 +1,6 @@
 # Soul Lounge Clapham - Hip Hop, Bashment, Afrobeats Party at Soul Lounge Clapham
 
-Soul Lounge Clapham - Hip Hop, Bashment, Afrobeats Party on Sat 10 Oct, London. Preview the line-up and save it on soundcheck.
+Soul Lounge Clapham - Hip Hop, Bashment, Afrobeats Party on Sat 10 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

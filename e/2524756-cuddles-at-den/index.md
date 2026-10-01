@@ -1,6 +1,6 @@
 # Cuddles at ÆDEN
 
-Cuddles at ÆDEN on Sat 21 Nov, Berlin. Preview the line-up and save it on soundcheck.
+Cuddles at ÆDEN on Sat 21 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

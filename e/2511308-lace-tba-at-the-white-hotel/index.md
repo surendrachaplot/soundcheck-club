@@ -1,6 +1,6 @@
 # LACE: TBA at The White Hotel
 
-LACE: TBA at The White Hotel on Sun 11 Oct, Manchester. Preview the line-up and save it on soundcheck.
+LACE: TBA at The White Hotel on Sun 11 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Bastardo Electrico 24th Birthday w. Jerome Hill, Co-Accussed, Jamie Behan & MEJMI at Pawn Shop
 
-Bastardo Electrico 24th Birthday w. Jerome Hill, Co-Accussed, Jamie Behan & MEJMI at Pawn Shop on Fri 27 Nov, Dublin. 4 artists on the bill: Co-Accused, Jamie Behan, Jerome Hill and MEJMI. Techno and Electro. Preview the line-up and save it on soundcheck.
+Bastardo Electrico 24th Birthday w. Jerome Hill, Co-Accussed, Jamie Behan & MEJMI at Pawn Shop on Fri 27 Nov, Dublin. 4 artists: Co-Accused, Jamie Behan, Jerome Hill and MEJMI. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

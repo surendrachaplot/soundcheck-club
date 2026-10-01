@@ -1,6 +1,6 @@
 # 東南亞逼 at OIL Club
 
-東南亞逼 at OIL Club on Sun 29 Nov, Shenzhen. Club. Preview the line-up and save it on soundcheck.
+東南亞逼 at OIL Club on Sun 29 Nov, Shenzhen. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

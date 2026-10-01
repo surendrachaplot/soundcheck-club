@@ -1,6 +1,6 @@
 # CRVX with Angerfist at Pandora Sevilla
 
-CRVX with Angerfist at Pandora Sevilla on Fri 20 Nov, South. 1 artist on the bill: Angerfist. Preview the line-up and save it on soundcheck.
+CRVX with Angerfist at Pandora Sevilla on Fri 20 Nov, South. 1 artist: Angerfist. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

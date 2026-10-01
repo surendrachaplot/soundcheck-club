@@ -1,6 +1,6 @@
 # AXIS -新参者- at R Lounge
 
-AXIS -新参者- at R Lounge on Thu 15 Oct, Tokyo. 2 artists on the bill: ATAMI and Hiro (JP). Techno and House. Preview the line-up and save it on soundcheck.
+AXIS -新参者- at R Lounge on Thu 15 Oct, Tokyo. 2 artists: ATAMI and Hiro (JP). Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

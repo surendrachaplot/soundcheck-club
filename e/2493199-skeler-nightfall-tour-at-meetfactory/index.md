@@ -1,6 +1,6 @@
 # Skeler NIGHTFALL TOUR at Meetfactory
 
-Skeler NIGHTFALL TOUR at Meetfactory on Fri 13 Nov, Prague. Electro and New Wave. Preview the line-up and save it on soundcheck.
+Skeler NIGHTFALL TOUR at Meetfactory on Fri 13 Nov, Prague. Electro and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

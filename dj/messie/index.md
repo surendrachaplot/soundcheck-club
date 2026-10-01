@@ -1,8 +1,8 @@
 # MESSIE
 
-MESSIE is a House and Garage artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Halley Space, London on Thu, 1 Oct 2026.
+MESSIE is a House and Garage artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Halley Space, London on Thu, 1 Oct 2026.
 
-MESSIE is a house and garage artist based in New Zealand, tracked on soundcheck, with 20 sets logged across Amsterdam, Auckland, Barcelona and Brisbane and 8 more. Often billed alongside Arthi, Anish Kumar and Bushbby. Next up: The Halley Space, London on Thu 1 Oct.
+MESSIE is a house and garage artist based in New Zealand, with 20 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Brisbane and 8 more. Often billed alongside Arthi, Anish Kumar and Bushbby. Next up: The Halley Space, London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ MESSIE is a house and garage artist based in New Zealand, tracked on soundcheck,
 
 ## Recently played
 
-- Burgess Park, London — Sun, 9 Aug 2026
-- Burgess Park, London — Sun, 2 Aug 2026
-- Last Arch, London — Sat, 28 Mar 2026
-- RUST Natklub, Copenhagen — Fri, 27 Mar 2026
-- Sneaky Pete's, Edinburgh — Tue, 24 Mar 2026
-- Studio the Venue, Auckland — Sat, 13 Sept 2025
-- Hopetoun House, Edinburgh — Sun, 3 Aug 2025
-- Amnesia Ibiza, Ibiza — Thu, 24 Jul 2025
+- Burgess Park, London · Sun, 9 Aug 2026
+- Burgess Park, London · Sun, 2 Aug 2026
+- Last Arch, London · Sat, 28 Mar 2026
+- RUST Natklub, Copenhagen · Fri, 27 Mar 2026
+- Sneaky Pete's, Edinburgh · Tue, 24 Mar 2026
+- Studio the Venue, Auckland · Sat, 13 Sept 2025
+- Hopetoun House, Edinburgh · Sun, 3 Aug 2025
+- Amnesia Ibiza, Ibiza · Thu, 24 Jul 2025
 
 ## Shares bills with
 

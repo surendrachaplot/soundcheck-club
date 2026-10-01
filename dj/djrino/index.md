@@ -1,8 +1,8 @@
 # DJ Rino
 
-DJ Rino is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Brussels, Brussels on Fri, 2 Oct 2026.
+DJ Rino is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Brussels, Brussels on Fri, 2 Oct 2026.
 
-DJ Rino is a techno and house artist based in Belgium, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Kuba'97 and Dana Kuehr. Next up: TBA - Brussels, Brussels on Fri 2 Oct.
+DJ Rino is a techno and house artist based in Belgium, with 103 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Walrus, Kuba'97 and Dana Kuehr. Next up: TBA - Brussels, Brussels on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ DJ Rino is a techno and house artist based in Belgium, tracked on soundcheck, wi
 
 ## Recently played
 
-- Algha's Plantroom, London — Sun, 6 Sept 2026
-- Gaffe, London — Sat, 5 Sept 2026
-- BRET, Amsterdam — Sat, 22 Aug 2026
-- Buda BXL, Brussels — Sat, 8 Aug 2026
-- LAUT, Barcelona — Fri, 7 Aug 2026
-- Invisible Wind Factory, Liverpool — Sat, 1 Aug 2026
-- Secret London Location TBA, London — Fri, 10 Jul 2026
-- Bodies in Space, Brussels — Sat, 4 Jul 2026
+- Algha's Plantroom, London · Sun, 6 Sept 2026
+- Gaffe, London · Sat, 5 Sept 2026
+- BRET, Amsterdam · Sat, 22 Aug 2026
+- Buda BXL, Brussels · Sat, 8 Aug 2026
+- LAUT, Barcelona · Fri, 7 Aug 2026
+- Invisible Wind Factory, Liverpool · Sat, 1 Aug 2026
+- Secret London Location TBA, London · Fri, 10 Jul 2026
+- Bodies in Space, Brussels · Sat, 4 Jul 2026
 
 ## Shares bills with
 

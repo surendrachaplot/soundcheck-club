@@ -1,6 +1,6 @@
 # TAKKUUK at SFU Goldcorp Centre for the Arts
 
-TAKKUUK at SFU Goldcorp Centre for the Arts on Sat 3 Oct, Vancouver. Electronica. Preview the line-up and save it on soundcheck.
+TAKKUUK at SFU Goldcorp Centre for the Arts on Sat 3 Oct, Vancouver. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # On the Mezzanine: Free Entry at fabric
 
-On the Mezzanine: Free Entry at fabric on Thu 8 Oct, London. 3 artists on the bill: Duble Mctruble, Sopp and TARZI. Preview the line-up and save it on soundcheck.
+On the Mezzanine: Free Entry at fabric on Thu 8 Oct, London. 3 artists: Duble Mctruble, Sopp and TARZI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Audiowhore at Ministry Of Sound
 
-Audiowhore at Ministry Of Sound on Sat 14 Nov, London. Tech House. Preview the line-up and save it on soundcheck.
+Audiowhore at Ministry Of Sound on Sat 14 Nov, London. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

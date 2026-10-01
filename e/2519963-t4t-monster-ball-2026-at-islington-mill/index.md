@@ -1,6 +1,6 @@
 # T4T Monster Ball 2026 at Islington Mill
 
-T4T Monster Ball 2026 at Islington Mill on Fri 23 Oct, Manchester. Pop. Preview the line-up and save it on soundcheck.
+T4T Monster Ball 2026 at Islington Mill on Fri 23 Oct, Manchester. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

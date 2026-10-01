@@ -1,6 +1,6 @@
 # Heads Will Roll Sheffield at Arundel Emporium
 
-Heads Will Roll Sheffield at Arundel Emporium on Sat 17 Oct, Sheffield. Electro and EBM. Preview the line-up and save it on soundcheck.
+Heads Will Roll Sheffield at Arundel Emporium on Sat 17 Oct, Sheffield. Electro and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

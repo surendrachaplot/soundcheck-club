@@ -1,6 +1,6 @@
 # Matthew Thomas at The Redwood Bar And Grill
 
-Matthew Thomas at The Redwood Bar And Grill on Fri 16 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
+Matthew Thomas at The Redwood Bar And Grill on Fri 16 Oct, Los Angeles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

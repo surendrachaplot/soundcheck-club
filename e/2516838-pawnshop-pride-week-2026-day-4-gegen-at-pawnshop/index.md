@@ -1,6 +1,6 @@
 # Pawnshop Pride Week 2026 Day 4 GEGEN at Pawnshop
 
-Pawnshop Pride Week 2026 Day 4 GEGEN on Sun 1 Nov, Taipei. 7 artists on the bill: Cristian Marras, Gemnital, Jesse Chen and Kerena and 3 more. Preview the line-up and save it on soundcheck.
+Pawnshop Pride Week 2026 Day 4 GEGEN on Sun 1 Nov, Taipei. 7 artists: Cristian Marras, Gemnital, Jesse Chen and Kerena and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

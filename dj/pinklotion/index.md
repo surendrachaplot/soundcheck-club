@@ -1,8 +1,8 @@
 # pinklotion
 
-pinklotion is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Das Werk, Vienna on Fri, 2 Oct 2026.
+pinklotion is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Das Werk, Vienna on Fri, 2 Oct 2026.
 
-pinklotion is a techno and trance artist based in Austria, tracked on soundcheck, with 59 sets logged across Berlin, Munich, Prague and Vienna. Often billed alongside BLUDHOUND, Dj Wifi and Joey. Next up: Das Werk, Vienna on Fri 2 Oct.
+pinklotion is a techno and trance artist based in Austria, with 59 gigs on soundcheck across Berlin, Munich, Prague and Vienna. Often billed alongside BLUDHOUND, Dj Wifi and Joey. Next up: Das Werk, Vienna on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ pinklotion is a techno and trance artist based in Austria, tracked on soundcheck
 
 ## Recently played
 
-- FLUCC, Vienna — Sat, 19 Sept 2026
-- Husitská 22, Prague — Fri, 11 Sept 2026
-- Das Werk, Vienna — Fri, 4 Sept 2026
-- Wiener Würstelstand - Spittelau, Vienna — Fri, 4 Sept 2026
-- Praterbrücke, Vienna — Fri, 14 Aug 2026
-- Grelle Forelle, Vienna — Sat, 11 Jul 2026
-- Das Werk, Vienna — Sat, 20 Jun 2026
-- Bahnwärter Thiel, Munich — Fri, 5 Jun 2026
+- FLUCC, Vienna · Sat, 19 Sept 2026
+- Husitská 22, Prague · Fri, 11 Sept 2026
+- Das Werk, Vienna · Fri, 4 Sept 2026
+- Wiener Würstelstand - Spittelau, Vienna · Fri, 4 Sept 2026
+- Praterbrücke, Vienna · Fri, 14 Aug 2026
+- Grelle Forelle, Vienna · Sat, 11 Jul 2026
+- Das Werk, Vienna · Sat, 20 Jun 2026
+- Bahnwärter Thiel, Munich · Fri, 5 Jun 2026
 
 ## Shares bills with
 

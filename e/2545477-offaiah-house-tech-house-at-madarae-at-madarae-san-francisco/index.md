@@ -1,6 +1,6 @@
 # OFFAIAH ( House & Tech House) at MadaRae at Madarae San Francisco
 
-OFFAIAH ( House & Tech House) at MadaRae at Madarae San Francisco on Fri 2 Oct, San Francisco/Oakland. 2 artists on the bill: Hi Milio and OFFAIAH. Preview the line-up and save it on soundcheck.
+OFFAIAH ( House & Tech House) at MadaRae at Madarae San Francisco on Fri 2 Oct, San Francisco/Oakland. 2 artists: Hi Milio and OFFAIAH. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

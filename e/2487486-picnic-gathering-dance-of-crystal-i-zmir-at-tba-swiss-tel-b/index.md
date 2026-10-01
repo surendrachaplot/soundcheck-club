@@ -1,6 +1,6 @@
 # Picnic & Gathering Dance Of Crystal İzmir at TBA - Swissôtel Büyük Efes İzmir
 
-Picnic & Gathering Dance Of Crystal İzmir at TBA - Swissôtel Büyük Efes İzmir on Sat 3 Oct, Izmir. 2 artists on the bill: AWEN and Thylacine. Preview the line-up and save it on soundcheck.
+Picnic & Gathering Dance Of Crystal İzmir at TBA - Swissôtel Büyük Efes İzmir on Sat 3 Oct, Izmir. 2 artists: AWEN and Thylacine. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

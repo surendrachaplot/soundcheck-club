@@ -1,6 +1,6 @@
 # BABA LOOP -TAKEOVER- (TECH HOUSE) at WOMB
 
-BABA LOOP -TAKEOVER- (TECH HOUSE) at WOMB on Thu 22 Oct, Tokyo. Tech House. Preview the line-up and save it on soundcheck.
+BABA LOOP -TAKEOVER- (TECH HOUSE) at WOMB on Thu 22 Oct, Tokyo. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

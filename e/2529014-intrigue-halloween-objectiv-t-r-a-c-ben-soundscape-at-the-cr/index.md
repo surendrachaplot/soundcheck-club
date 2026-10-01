@@ -1,6 +1,6 @@
 # Intrigue Halloween - Objectiv / T.R.A.C. / Ben Soundscape at The Croft
 
-Intrigue Halloween - Objectiv / T.R.A.C. / Ben Soundscape at The Croft on Fri 30 Oct, Bristol. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Intrigue Halloween - Objectiv / T.R.A.C. / Ben Soundscape at The Croft on Fri 30 Oct, Bristol. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

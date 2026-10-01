@@ -1,6 +1,6 @@
 # K POP MEET EDM with ASTER at Lakota
 
-K POP MEET EDM with ASTER at Lakota on Wed 14 Oct, Bristol. Pop and EBM. Preview the line-up and save it on soundcheck.
+K POP MEET EDM with ASTER at Lakota on Wed 14 Oct, Bristol. Pop and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

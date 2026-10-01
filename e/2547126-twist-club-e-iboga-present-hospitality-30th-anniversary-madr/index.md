@@ -1,6 +1,6 @@
 # Twist Club e Iboga present: Hospitality 30th Anniversary Madrid at La Riviera
 
-Twist Club e Iboga present: Hospitality 30th Anniversary Madrid at La Riviera on Sat 5 Dec, Madrid. 5 artists on the bill: Camo & Krooked, Daxta, Metrik and Nu:Tone and 1 more. Drum & Bass. Preview the line-up and save it on soundcheck.
+Twist Club e Iboga present: Hospitality 30th Anniversary Madrid at La Riviera on Sat 5 Dec, Madrid. 5 artists: Camo & Krooked, Daxta, Metrik and Nu:Tone and 1 more. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

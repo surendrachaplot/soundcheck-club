@@ -1,6 +1,6 @@
 # Lessismor & Grenadine at Bar du Matin
 
-Lessismor & Grenadine at Bar du Matin on Sat 3 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Lessismor & Grenadine at Bar du Matin on Sat 3 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

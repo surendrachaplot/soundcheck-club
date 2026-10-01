@@ -1,6 +1,6 @@
 # CAVA - Illinois, Robin Korsal, Sinja Christin, Zenma at TBA - Terra Bar
 
-CAVA - Illinois, Robin Korsal, Sinja Christin, Zenma at TBA - Terra Bar on Sun 18 Oct, Munich. House and Afro House. Preview the line-up and save it on soundcheck.
+CAVA - Illinois, Robin Korsal, Sinja Christin, Zenma at TBA - Terra Bar on Sun 18 Oct, Munich. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Irene S
 
-Irene S is a Electro and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
+Irene S is a Electro and Downtempo artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - EAST LONDON- announced to ticket holders on the day, London on Fri, 16 Oct 2026.
 
-Irene S is an electro and downtempo artist based in United Kingdom, tracked on soundcheck, with 2 sets logged across London. Often billed alongside AALEX, Altayef and Any Koh. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
+Irene S is an electro and downtempo artist based in United Kingdom, with 2 gigs on soundcheck across London. Often billed alongside AALEX, Altayef and Any Koh. Next up: TBA - EAST LONDON- announced to ticket holders on the day, London on Fri 16 Oct.
 
 ## Upcoming shows
 

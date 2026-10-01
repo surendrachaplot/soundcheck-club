@@ -1,8 +1,8 @@
 # Lisa Korver
 
-Lisa Korver is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Garage Klub, Antwerp on Fri, 9 Oct 2026.
+Lisa Korver is a Techno and House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Klub, Antwerp on Fri, 9 Oct 2026.
 
-Lisa Korver is a techno and house artist based in Netherlands, tracked on soundcheck, with 71 sets logged across Amsterdam, Antwerp, Eindhoven and Ibiza and 8 more. Often billed alongside LAMMER, OLIVIA LENSEN and Freddi. Next up: Garage Klub, Antwerp on Fri 9 Oct.
+Lisa Korver is a techno and house artist based in Netherlands, with 71 gigs on soundcheck across Amsterdam, Antwerp, Eindhoven and Ibiza and 8 more. Often billed alongside LAMMER, OLIVIA LENSEN and Freddi. Next up: Garage Klub, Antwerp on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Lisa Korver is a techno and house artist based in Netherlands, tracked on soundc
 
 ## Recently played
 
-- Cabaret  Aléatoire, Marseille — Fri, 25 Sept 2026
-- Laagravense Plas, Utrecht — Sat, 12 Sept 2026
-- Colorado Charlie, The Hague — Sun, 30 Aug 2026
-- Tuinen van West, Amsterdam — Sat, 29 Aug 2026
-- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- [UNVRS], Ibiza — Mon, 10 Aug 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
+- Cabaret  Aléatoire, Marseille · Fri, 25 Sept 2026
+- Laagravense Plas, Utrecht · Sat, 12 Sept 2026
+- Colorado Charlie, The Hague · Sun, 30 Aug 2026
+- Tuinen van West, Amsterdam · Sat, 29 Aug 2026
+- Ahoy Rotterdam, Rotterdam · Sat, 29 Aug 2026
+- Gianpula Village, Malta · Wed, 12 Aug 2026
+- [UNVRS], Ibiza · Mon, 10 Aug 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
 
 ## Shares bills with
 

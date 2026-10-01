@@ -1,6 +1,6 @@
 # SONORITÉE at Santeria Toscana 31
 
-SONORITÉE at Santeria Toscana 31 on Sat 10 Oct, Milan. Preview the line-up and save it on soundcheck.
+SONORITÉE at Santeria Toscana 31 on Sat 10 Oct, Milan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

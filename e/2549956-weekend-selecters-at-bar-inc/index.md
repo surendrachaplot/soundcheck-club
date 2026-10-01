@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Sun 22 Nov, Osaka. 1 artist on the bill: Jubilee. Breakbeat and House. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Sun 22 Nov, Osaka. 1 artist: Jubilee. Breakbeat and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

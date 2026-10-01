@@ -1,6 +1,6 @@
 # KlangKuenstler x Pandora III Aniversario at Pandora Sevilla
 
-KlangKuenstler x Pandora III Aniversario at Pandora Sevilla on Fri 9 Oct, South. 2 artists on the bill: Daria Kolosova and KlangKuenstler. Preview the line-up and save it on soundcheck.
+KlangKuenstler x Pandora III Aniversario at Pandora Sevilla on Fri 9 Oct, South. 2 artists: Daria Kolosova and KlangKuenstler. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

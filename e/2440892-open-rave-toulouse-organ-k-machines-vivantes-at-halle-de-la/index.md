@@ -1,6 +1,6 @@
 # Open Rave Toulouse: Organïk + Machines Vivantes at Halle de La Machine
 
-Open Rave Toulouse: Organïk + Machines Vivantes at Halle de La Machine on Sat 10 Oct, Toulouse. 9 artists on the bill: Azyr, DYEN, Esilise and LESSSS and 5 more. Preview the line-up and save it on soundcheck.
+Open Rave Toulouse: Organïk + Machines Vivantes at Halle de La Machine on Sat 10 Oct, Toulouse. 9 artists: Azyr, DYEN, Esilise and LESSSS and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

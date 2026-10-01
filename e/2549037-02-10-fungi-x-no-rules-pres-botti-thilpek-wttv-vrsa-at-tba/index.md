@@ -1,6 +1,6 @@
 # 02.10 / FUNGI X NO RULES PRES. BOTTI / Thilpek / WTTV / VRSA at TBA
 
-02.10 / FUNGI X NO RULES PRES. BOTTI / Thilpek / WTTV / VRSA at TBA on Fri 2 Oct, Buenos Aires. 2 artists on the bill: Miragliotta and Thilpek. Techno. Preview the line-up and save it on soundcheck.
+02.10 / FUNGI X NO RULES PRES. BOTTI / Thilpek / WTTV / VRSA at TBA on Fri 2 Oct, Buenos Aires. 2 artists: Miragliotta and Thilpek. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

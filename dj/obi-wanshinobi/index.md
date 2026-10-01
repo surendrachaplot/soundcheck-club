@@ -1,8 +1,8 @@
 # Obi-Wan Shinobi
 
-Obi-Wan Shinobi is a Club and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The High Dive, Detroit on Sat, 24 Oct 2026.
+Obi-Wan Shinobi is a Club and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The High Dive, Detroit on Sat, 24 Oct 2026.
 
-Obi-Wan Shinobi is a club and hardcore artist based in United States of America, tracked on soundcheck, with 21 sets logged across Chicago, Detroit and New York City. Often billed alongside Seanni B, Kuuma and Kuma The Kami. Next up: The High Dive, Detroit on Sat 24 Oct.
+Obi-Wan Shinobi is a club and hardcore artist based in United States of America, with 21 gigs on soundcheck across Chicago, Detroit and New York City. Often billed alongside Seanni B, Kuuma and Kuma The Kami. Next up: The High Dive, Detroit on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Obi-Wan Shinobi is a club and hardcore artist based in United States of America,
 
 ## Recently played
 
-- Detroit Shipping Company, Detroit — Sat, 19 Sept 2026
-- TBA - The Vault 313, Detroit — Sat, 8 Aug 2026
-- Detroit Shipping Company, Detroit — Fri, 22 May 2026
-- Elektricity, Detroit — Sat, 16 May 2026
-- The High Dive, Detroit — Sat, 2 May 2026
-- The Strays, Detroit — Fri, 17 Apr 2026
-- Paris Bar, Detroit — Sun, 5 Apr 2026
-- The Strays, Detroit — Fri, 6 Mar 2026
+- Detroit Shipping Company, Detroit · Sat, 19 Sept 2026
+- TBA - The Vault 313, Detroit · Sat, 8 Aug 2026
+- Detroit Shipping Company, Detroit · Fri, 22 May 2026
+- Elektricity, Detroit · Sat, 16 May 2026
+- The High Dive, Detroit · Sat, 2 May 2026
+- The Strays, Detroit · Fri, 17 Apr 2026
+- Paris Bar, Detroit · Sun, 5 Apr 2026
+- The Strays, Detroit · Fri, 6 Mar 2026
 
 ## Shares bills with
 

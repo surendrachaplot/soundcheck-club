@@ -1,8 +1,8 @@
 # AELVA K
 
-AELVA K is a Techno and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hangaren, Copenhagen on Fri, 16 Oct 2026.
+AELVA K is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hangaren, Copenhagen on Fri, 16 Oct 2026.
 
-AELVA K is a techno and electronica artist based in Sweden, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside Aja Gulris, Fynutzu and Amudima. Next up: Hangaren, Copenhagen on Fri 16 Oct.
+AELVA K is a techno and electronica artist based in Sweden, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside Aja Gulris, Fynutzu and Amudima. Next up: Hangaren, Copenhagen on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ AELVA K is a techno and electronica artist based in Sweden, tracked on soundchec
 
 ## Recently played
 
-- Fundbureau, Hamburg — Sat, 19 Sept 2026
-- Die Rakete, Nürnberg — Fri, 18 Sept 2026
-- Birgit, Berlin — Sat, 29 Aug 2026
-- Rachdingue, Barcelona — Sat, 22 Aug 2026
-- Culture Box, Copenhagen — Fri, 31 Jul 2026
-- Fundbureau, Hamburg — Sat, 11 Jul 2026
-- MODULE, Copenhagen — Sat, 20 Jun 2026
-- John Doe, Amsterdam — Sat, 9 May 2026
+- Fundbureau, Hamburg · Sat, 19 Sept 2026
+- Die Rakete, Nürnberg · Fri, 18 Sept 2026
+- Birgit, Berlin · Sat, 29 Aug 2026
+- Rachdingue, Barcelona · Sat, 22 Aug 2026
+- Culture Box, Copenhagen · Fri, 31 Jul 2026
+- Fundbureau, Hamburg · Sat, 11 Jul 2026
+- MODULE, Copenhagen · Sat, 20 Jun 2026
+- John Doe, Amsterdam · Sat, 9 May 2026
 
 ## Shares bills with
 

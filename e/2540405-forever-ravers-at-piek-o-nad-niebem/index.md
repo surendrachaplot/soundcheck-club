@@ -1,6 +1,6 @@
 # FOREVER RAVERS at Piekło nad Niebem
 
-FOREVER RAVERS at Piekło nad Niebem on Fri 2 Oct, Warsaw. Techno and Electronica. Preview the line-up and save it on soundcheck.
+FOREVER RAVERS at Piekło nad Niebem on Fri 2 Oct, Warsaw. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DOT at FS.
 
-DOT at FS. on Fri 2 Oct, Tokyo. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+DOT at FS. on Fri 2 Oct, Tokyo. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ Hybrid
 
-DJ Hybrid is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Jungla London, London on Fri, 9 Oct 2026.
+DJ Hybrid is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Jungla London, London on Fri, 9 Oct 2026.
 
-DJ Hybrid is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Auckland, Boston and Brighton and 13 more. Often billed alongside Benny Page, Deekline and Hypershe. Next up: Jungla London, London on Fri 9 Oct.
+DJ Hybrid is a drum & bass and jungle artist based in United Kingdom, with 32 gigs on soundcheck across Amsterdam, Auckland, Boston and Brighton and 13 more. Often billed alongside Benny Page, Deekline and Hypershe. Next up: Jungla London, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ DJ Hybrid is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- The Yard, Manchester — Sat, 19 Sept 2026
-- Sawmills, Bristol — Sun, 26 Jul 2026
-- Volks, Brighton — Fri, 19 Jun 2026
-- Club Up, Amsterdam — Sat, 6 Jun 2026
-- Lakota, Bristol — Sat, 30 May 2026
-- Brixton Jamm, London — Sun, 24 May 2026
-- THE OTHER SIDE, Amsterdam — Fri, 6 Mar 2026
-- Hootananny Brixton, London — Fri, 23 Jan 2026
+- The Yard, Manchester · Sat, 19 Sept 2026
+- Sawmills, Bristol · Sun, 26 Jul 2026
+- Volks, Brighton · Fri, 19 Jun 2026
+- Club Up, Amsterdam · Sat, 6 Jun 2026
+- Lakota, Bristol · Sat, 30 May 2026
+- Brixton Jamm, London · Sun, 24 May 2026
+- THE OTHER SIDE, Amsterdam · Fri, 6 Mar 2026
+- Hootananny Brixton, London · Fri, 23 Jan 2026
 
 ## Shares bills with
 

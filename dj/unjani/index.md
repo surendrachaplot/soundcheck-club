@@ -1,8 +1,8 @@
 # unjani
 
-unjani is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
+unjani is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fabrique im Gängeviertel, Hamburg on Sat, 3 Oct 2026.
 
-unjani is a techno and trance artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Hamburg. Often billed alongside Alibi, SPORTMANN and TRYPTAJ. Next up: Fabrique im Gängeviertel, Hamburg on Sat 3 Oct.
+unjani is a techno and trance artist based in Germany, with 20 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alibi, SPORTMANN and TRYPTAJ. Next up: Fabrique im Gängeviertel, Hamburg on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ unjani is a techno and trance artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Uebel & Gefährlich, Hamburg — Sat, 19 Sept 2026
-- Uebel & Gefährlich, Hamburg — Fri, 11 Sept 2026
-- Helgoländer Allee, Hamburg — Sat, 29 Aug 2026
-- Baalsaal, Hamburg — Sat, 1 Aug 2026
-- Haus73, Hamburg — Sat, 1 Aug 2026
-- Baalsaal, Hamburg — Sat, 20 Jun 2026
-- La Cova, Hamburg — Sat, 6 Jun 2026
-- OZM AIR, Hamburg — Sat, 9 May 2026
+- Uebel & Gefährlich, Hamburg · Sat, 19 Sept 2026
+- Uebel & Gefährlich, Hamburg · Fri, 11 Sept 2026
+- Helgoländer Allee, Hamburg · Sat, 29 Aug 2026
+- Baalsaal, Hamburg · Sat, 1 Aug 2026
+- Haus73, Hamburg · Sat, 1 Aug 2026
+- Baalsaal, Hamburg · Sat, 20 Jun 2026
+- La Cova, Hamburg · Sat, 6 Jun 2026
+- OZM AIR, Hamburg · Sat, 9 May 2026
 
 ## Shares bills with
 

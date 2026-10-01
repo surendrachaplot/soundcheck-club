@@ -1,6 +1,6 @@
 # Open Decks Social presents: Femme DJ Workshop and Social at Dragonfly
 
-Open Decks Social presents: Femme DJ Workshop and Social at Dragonfly on Sun 4 Oct, Edinburgh. Preview the line-up and save it on soundcheck.
+Open Decks Social presents: Femme DJ Workshop and Social at Dragonfly on Sun 4 Oct, Edinburgh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

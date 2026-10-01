@@ -1,6 +1,6 @@
 # fi x && x Tipping Point at fi
 
-fi x && x Tipping Point on Sat 14 Nov, Cologne. 3 artists on the bill: Frida Darko, NUAH and Sahra Bass. Techno and House. Preview the line-up and save it on soundcheck.
+fi x && x Tipping Point on Sat 14 Nov, Cologne. 3 artists: Frida Darko, NUAH and Sahra Bass. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

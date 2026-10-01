@@ -1,6 +1,6 @@
 # Analog Echoes 1.0: Planetary Assault Systems, FJAAK & More at Mia Mao
 
-Analog Echoes 1.0: Planetary Assault Systems, FJAAK & More at Mia Mao on Fri 30 Oct, Paris. 4 artists on the bill: D-Leria, FJAAK, Planetary Assault Systems and Wallis. Hardcore. Preview the line-up and save it on soundcheck.
+Analog Echoes 1.0: Planetary Assault Systems, FJAAK & More at Mia Mao on Fri 30 Oct, Paris. 4 artists: D-Leria, FJAAK, Planetary Assault Systems and Wallis. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

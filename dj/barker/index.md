@@ -1,8 +1,8 @@
 # Barker
 
-Barker is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Barker is a Techno and Experimental artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
-Barker is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Argentina and Bangkok and 32 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
+Barker is a techno and experimental artist based in United Kingdom, with 99 gigs on soundcheck across Amsterdam, Antwerp, Argentina and Bangkok and 32 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Barker is a techno and experimental artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Lofi, Amsterdam — Sat, 26 Sept 2026
-- ZENNER, Berlin — Thu, 24 Sept 2026
-- ZENNER, Berlin — Tue, 22 Sept 2026
-- Open Ground, Wuppertal — Sat, 12 Sept 2026
-- Nitsa Club, Barcelona — Fri, 11 Sept 2026
-- TBA - av insurgentes sur 105, roma sur, Mexico City — Fri, 4 Sept 2026
-- Société des arts technologiques, Montreal — Wed, 26 Aug 2026
-- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
+- Lofi, Amsterdam · Sat, 26 Sept 2026
+- ZENNER, Berlin · Thu, 24 Sept 2026
+- ZENNER, Berlin · Tue, 22 Sept 2026
+- Open Ground, Wuppertal · Sat, 12 Sept 2026
+- Nitsa Club, Barcelona · Fri, 11 Sept 2026
+- TBA - av insurgentes sur 105, roma sur, Mexico City · Fri, 4 Sept 2026
+- Société des arts technologiques, Montreal · Wed, 26 Aug 2026
+- Quartier Des Spectacles, Montreal · Tue, 25 Aug 2026
 
 ## Shares bills with
 

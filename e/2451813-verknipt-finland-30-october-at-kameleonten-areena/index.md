@@ -1,6 +1,6 @@
 # VERKNIPT Finland - 30 OCTOBER at Kameleonten Areena
 
-VERKNIPT Finland - 30 OCTOBER at Kameleonten Areena on Fri 30 Oct, Finland. 7 artists on the bill: Agnia, Artheia, Martin K4rma and Maudux and 3 more. Preview the line-up and save it on soundcheck.
+VERKNIPT Finland - 30 OCTOBER at Kameleonten Areena on Fri 30 Oct, Finland. 7 artists: Agnia, Artheia, Martin K4rma and Maudux and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

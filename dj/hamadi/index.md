@@ -1,8 +1,8 @@
 # Hamadi
 
-Hamadi is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bossa Nova Civic Club, New York City on Sun, 11 Oct 2026.
+Hamadi is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Sun, 11 Oct 2026.
 
-Hamadi is a techno and experimental artist based in United States of America, tracked on soundcheck, with 7 sets logged across New York City. Often billed alongside 8ULENTINA, Peregrine (US) and Arushi Jain. Next up: Bossa Nova Civic Club, New York City on Sun 11 Oct.
+Hamadi is a techno and experimental artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside 8ULENTINA, Peregrine (US) and Arushi Jain. Next up: Bossa Nova Civic Club, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Hamadi is a techno and experimental artist based in United States of America, tr
 
 ## Recently played
 
-- Silence Please, New York City — Sat, 29 Aug 2026
-- Mood Ring, New York City — Sat, 23 May 2026
-- Nowadays, New York City — Wed, 18 Mar 2026
-- Bossa Nova Civic Club, New York City — Sun, 15 Feb 2026
-- Jupiter Disco, New York City — Thu, 16 Oct 2025
-- Mood Ring, New York City — Fri, 18 Apr 2025
+- Silence Please, New York City · Sat, 29 Aug 2026
+- Mood Ring, New York City · Sat, 23 May 2026
+- Nowadays, New York City · Wed, 18 Mar 2026
+- Bossa Nova Civic Club, New York City · Sun, 15 Feb 2026
+- Jupiter Disco, New York City · Thu, 16 Oct 2025
+- Mood Ring, New York City · Fri, 18 Apr 2025
 
 ## Shares bills with
 

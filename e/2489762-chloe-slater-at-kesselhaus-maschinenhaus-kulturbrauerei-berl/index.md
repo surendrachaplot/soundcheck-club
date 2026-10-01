@@ -1,6 +1,6 @@
 # Chloe Slater at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin
 
-Chloe Slater at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin on Tue 1 Dec, Berlin. Preview the line-up and save it on soundcheck.
+Chloe Slater at Kesselhaus & Maschinenhaus Kulturbrauerei Berlin on Tue 1 Dec, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

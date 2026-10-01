@@ -1,8 +1,8 @@
 # The Fenton
 
-The Fenton is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "ENTROPY X The Fenton FREE PARTY: Round 2 - HALLOWEEN Saturday" on Sat, 31 Oct 2026.
+The Fenton is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "ENTROPY X The Fenton FREE PARTY: Round 2 - HALLOWEEN Saturday" on Sat, 31 Oct 2026.
 
-The Fenton is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including Fanchu. Browse upcoming dates, start times and who's playing. 161-165 Woodhouse Lane, Leeds LS2 3ED.
+The Fenton is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including Fanchu. See dates, start times and who's playing. 161-165 Woodhouse Lane, Leeds LS2 3ED.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # GHETTO KUMBE (COLOMBIA) Live in Brisbane at Felons Barrel Hall
 
-GHETTO KUMBE (COLOMBIA) Live in Brisbane at Felons Barrel Hall on Fri 2 Oct, Brisbane. 2 artists on the bill: Cuerpo Negro and Otorongo. Afrobeat and Latin Bass. Preview the line-up and save it on soundcheck.
+GHETTO KUMBE (COLOMBIA) Live in Brisbane at Felons Barrel Hall on Fri 2 Oct, Brisbane. 2 artists: Cuerpo Negro and Otorongo. Afrobeat and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

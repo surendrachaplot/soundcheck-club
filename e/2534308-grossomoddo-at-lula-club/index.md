@@ -1,6 +1,6 @@
 # GROSSOMODDO at Lula Club
 
-GROSSOMODDO at Lula Club on Fri 11 Dec, Madrid. Preview the line-up and save it on soundcheck.
+GROSSOMODDO at Lula Club on Fri 11 Dec, Madrid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

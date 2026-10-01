@@ -1,6 +1,6 @@
 # Todd Terry (Extended Set) at The Jazz Cafe
 
-Todd Terry (Extended Set) at The Jazz Cafe on Fri 20 Nov, London. 2 artists on the bill: Janika Tenn and Todd Terry. Preview the line-up and save it on soundcheck.
+Todd Terry (Extended Set) at The Jazz Cafe on Fri 20 Nov, London. 2 artists: Janika Tenn and Todd Terry. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

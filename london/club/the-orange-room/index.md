@@ -1,8 +1,8 @@
 # The Orange Room
 
-The Orange Room is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "VACATION: ELLADHC, JVINCENT, KATALYSSST, MELLY, SHAKARAA + SPECIAL GUEST" on Sat, 24 Oct 2026.
+The Orange Room is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "VACATION: ELLADHC, JVINCENT, KATALYSSST, MELLY, SHAKARAA + SPECIAL GUEST" on Sat, 24 Oct 2026.
 
-The Orange Room is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including ELLADHC, EWASOUNDZ, groupi3incognito and JuicySteamedHams and 2 more. Browse upcoming dates, start times and who's playing. 375 High Street, Stratford, London, E15 4QZ.
+The Orange Room is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including ELLADHC, EWASOUNDZ, groupi3incognito and JuicySteamedHams and 2 more. See dates, start times and who's playing. 375 High Street, Stratford, London, E15 4QZ.
 
 ## What's on
 

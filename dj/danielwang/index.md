@@ -1,8 +1,8 @@
 # Daniel Wang
 
-Daniel Wang is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 42 Marches, Paris on Fri, 9 Oct 2026.
+Daniel Wang is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 42 Marches, Paris on Fri, 9 Oct 2026.
 
-Daniel Wang is a disco and house artist based in Germany, tracked on soundcheck, with 94 sets logged across Athens, Barcelona, Belfast and Belgrade and 13 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: 42 Marches, Paris on Fri 9 Oct.
+Daniel Wang is a disco and house artist based in Germany, with 94 gigs on soundcheck across Athens, Barcelona, Belfast and Belgrade and 13 more. Often billed alongside ADAM MUNNINGS, AAguilAA and DJ Petite. Next up: 42 Marches, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Daniel Wang is a disco and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- KitKatClub, Berlin — Fri, 11 Sept 2026
-- fi, Cologne — Sat, 5 Sept 2026
-- Kater, Berlin — Tue, 25 Aug 2026
-- Refuge Worldwide / Niemetzstraße, Berlin — Thu, 30 Jul 2026
-- The Ulster Sports Club, Belfast — Sat, 25 Jul 2026
-- Renate, Berlin — Fri, 24 Jul 2026
-- Kater, Berlin — Tue, 14 Jul 2026
-- OXI, Berlin — Sat, 27 Jun 2026
+- KitKatClub, Berlin · Fri, 11 Sept 2026
+- fi, Cologne · Sat, 5 Sept 2026
+- Kater, Berlin · Tue, 25 Aug 2026
+- Refuge Worldwide / Niemetzstraße, Berlin · Thu, 30 Jul 2026
+- The Ulster Sports Club, Belfast · Sat, 25 Jul 2026
+- Renate, Berlin · Fri, 24 Jul 2026
+- Kater, Berlin · Tue, 14 Jul 2026
+- OXI, Berlin · Sat, 27 Jun 2026
 
 ## Shares bills with
 

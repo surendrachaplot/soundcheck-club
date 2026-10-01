@@ -1,6 +1,6 @@
 # Eagle Eye Cherry at Akvárium Klub
 
-Eagle Eye Cherry at Akvárium Klub on Mon 23 Nov, Budapest. Pop. Preview the line-up and save it on soundcheck.
+Eagle Eye Cherry at Akvárium Klub on Mon 23 Nov, Budapest. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

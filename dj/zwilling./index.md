@@ -1,8 +1,8 @@
 # zwilling.
 
-zwilling. is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Schrotty, Cologne on Fri, 9 Oct 2026.
+zwilling. is a Techno and Trance artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schrotty, Cologne on Fri, 9 Oct 2026.
 
-zwilling. is a techno and trance artist based in Germany, tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Schrotty, Cologne on Fri 9 Oct.
+zwilling. is a techno and trance artist based in Germany, with 100 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 32 more. Often billed alongside Serafina, WILDERÍCH and Adrian Mills. Next up: Schrotty, Cologne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ zwilling. is a techno and trance artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Maitland Showground, Sydney — Fri, 25 Sept 2026
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
-- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne — Thu, 24 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 18 Sept 2026
-- Airport Würzburg, Nürnberg — Fri, 4 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Lokschuppen Berlin, Berlin — Sat, 15 Aug 2026
-- Electrisize, Düsseldorf — Fri, 7 Aug 2026
+- Maitland Showground, Sydney · Fri, 25 Sept 2026
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
+- Pica (Port Melbourne Industrial Centre for the Arts), Melbourne · Thu, 24 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 18 Sept 2026
+- Airport Würzburg, Nürnberg · Fri, 4 Sept 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Lokschuppen Berlin, Berlin · Sat, 15 Aug 2026
+- Electrisize, Düsseldorf · Fri, 7 Aug 2026
 
 ## Shares bills with
 

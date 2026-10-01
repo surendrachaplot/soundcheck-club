@@ -1,6 +1,6 @@
 # EAST HOUSE at Firebird Rooftop
 
-EAST HOUSE at Firebird Rooftop on Thu 22 Oct, Amsterdam. 4 artists on the bill: Be Lion, Hris East, Phil-o and Sanne Dammers. House and Tech House. Preview the line-up and save it on soundcheck.
+EAST HOUSE at Firebird Rooftop on Thu 22 Oct, Amsterdam. 4 artists: Be Lion, Hris East, Phil-o and Sanne Dammers. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

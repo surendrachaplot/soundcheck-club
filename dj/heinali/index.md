@@ -1,8 +1,8 @@
 # Heinali
 
-Heinali is a Experimental and Electronica artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
+Heinali is a Experimental and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
-Heinali is an experimental and electronica artist based in Ukraine, tracked on soundcheck, with 27 sets logged across Amsterdam, Athens, Austria and Barcelona and 11 more. Often billed alongside Andriana-Yaroslava Saienko, ojoo and aya. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
+Heinali is an experimental and electronica artist based in Ukraine, with 27 gigs on soundcheck across Amsterdam, Athens, Austria and Barcelona and 11 more. Often billed alongside Andriana-Yaroslava Saienko, ojoo and aya. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Heinali is an experimental and electronica artist based in Ukraine, tracked on s
 
 ## Recently played
 
-- Radialsystem, Berlin — Thu, 16 Jul 2026
-- KW Institute for Contemporary Art, Berlin — Wed, 8 Jul 2026
-- TBA - Multiple Venues, Barcelona — Wed, 29 Apr 2026
-- Dropcity, Milan — Sat, 25 Apr 2026
-- TBA - Chapelle de l'immaculée, Nantes — Sat, 11 Apr 2026
-- Le Lieu Unique / Nantes, Nantes — Sat, 4 Apr 2026
-- TivoliVredenburg, Utrecht — Thu, 6 Nov 2025
-- PAV - Parco Arte Vivente, Turin — Sat, 28 Jun 2025
+- Radialsystem, Berlin · Thu, 16 Jul 2026
+- KW Institute for Contemporary Art, Berlin · Wed, 8 Jul 2026
+- TBA - Multiple Venues, Barcelona · Wed, 29 Apr 2026
+- Dropcity, Milan · Sat, 25 Apr 2026
+- TBA - Chapelle de l'immaculée, Nantes · Sat, 11 Apr 2026
+- Le Lieu Unique / Nantes, Nantes · Sat, 4 Apr 2026
+- TivoliVredenburg, Utrecht · Thu, 6 Nov 2025
+- PAV - Parco Arte Vivente, Turin · Sat, 28 Jun 2025
 
 ## Shares bills with
 

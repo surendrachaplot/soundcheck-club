@@ -1,6 +1,6 @@
 # Refuge - Acte 2 at TBA - Secret place Lyon - accès tram TCL et parking sur place
 
-Refuge - Acte 2 at TBA - Secret place Lyon - accès tram TCL et parking sur place on Sat 7 Nov, Lyon. Techno and Acid. Preview the line-up and save it on soundcheck.
+Refuge - Acte 2 at TBA - Secret place Lyon - accès tram TCL et parking sur place on Sat 7 Nov, Lyon. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Conpass
 
-Conpass is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "FRICTION" on Fri, 2 Oct 2026.
+Conpass is a music venue in Osaka with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "FRICTION" on Fri, 2 Oct 2026.
 
-Conpass is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line-ups including ast midori, CRZKNY, hOLysHiT and Kaoll. Browse upcoming dates, start times and who's playing. 1-12-20 Higashi-shinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0083 Japan.
+Conpass is a music venue in Osaka listed on soundcheck. 1 upcoming gig, with line-ups including ast midori, CRZKNY, hOLysHiT and Kaoll. See dates, start times and who's playing. 1-12-20 Higashi-shinsaibashi, Chuo-ku, Osaka-shi, Osaka, 542-0083 Japan.
 
 ## What's on
 

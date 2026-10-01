@@ -1,6 +1,6 @@
 # VER pres. WINSON at Edelfettwerk
 
-VER pres. WINSON at Edelfettwerk on Fri 30 Oct, Hamburg. Techno. Preview the line-up and save it on soundcheck.
+VER pres. WINSON at Edelfettwerk on Fri 30 Oct, Hamburg. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

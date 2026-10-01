@@ -1,6 +1,6 @@
 # BLACK SIGNAL at Loop/Vienna
 
-BLACK SIGNAL at Loop/Vienna on Sat 31 Oct, Vienna. 2 artists on the bill: MIKE MYSTIK and Techflex. Techno. Preview the line-up and save it on soundcheck.
+BLACK SIGNAL at Loop/Vienna on Sat 31 Oct, Vienna. 2 artists: MIKE MYSTIK and Techflex. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

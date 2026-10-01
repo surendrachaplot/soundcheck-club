@@ -1,6 +1,6 @@
 # Ltd clb. presents Skream at TBA
 
-Ltd clb. presents Skream at TBA on Fri 9 Oct, Dundee. 3 artists on the bill: Big Miz, Skream and Van Damn. Preview the line-up and save it on soundcheck.
+Ltd clb. presents Skream at TBA on Fri 9 Oct, Dundee. 3 artists: Big Miz, Skream and Van Damn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

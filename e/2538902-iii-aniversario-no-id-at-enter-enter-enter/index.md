@@ -1,6 +1,6 @@
 # III ANIVERSARIO NO.ID at Enter Enter Enter
 
-III ANIVERSARIO NO.ID at Enter Enter Enter on Fri 2 Oct, Bogot. 4 artists on the bill: EL MAMU, Iris Leidenschaft, NORT (CO) and TAV SHVI. Preview the line-up and save it on soundcheck.
+III ANIVERSARIO NO.ID at Enter Enter Enter on Fri 2 Oct, Bogot. 4 artists: EL MAMU, Iris Leidenschaft, NORT (CO) and TAV SHVI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

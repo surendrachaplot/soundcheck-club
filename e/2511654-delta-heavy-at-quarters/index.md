@@ -1,6 +1,6 @@
 # Delta Heavy at Quarters
 
-Delta Heavy at Quarters on Sat 3 Oct, Brighton. 1 artist on the bill: Delta Heavy. Drum & Bass. Preview the line-up and save it on soundcheck.
+Delta Heavy at Quarters on Sat 3 Oct, Brighton. 1 artist: Delta Heavy. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

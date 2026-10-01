@@ -1,6 +1,6 @@
 # L.P. Rhythm w/ Olive F & Guests at Superior Ingredients
 
-L.P. Rhythm w/ Olive F & Guests at Superior Ingredients on Sun 4 Oct, New York City. 4 artists on the bill: Collin Oliver, Ford Scott, L.P. Rhythm and Olive F. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+L.P. Rhythm w/ Olive F & Guests at Superior Ingredients on Sun 4 Oct, New York City. 4 artists: Collin Oliver, Ford Scott, L.P. Rhythm and Olive F. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

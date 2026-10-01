@@ -1,8 +1,8 @@
 # New Cross Inn
 
-New Cross Inn is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Deafkids" on Tue, 20 Oct 2026.
+New Cross Inn is a music venue in London with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Deafkids" on Tue, 20 Oct 2026.
 
-New Cross Inn is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including 1111, BRAVA, marimari and Nova May. Browse upcoming dates, start times and who's playing. 323 New Cross Road; New Cross; London SE14 6AS; United Kingdom.
+New Cross Inn is a music venue in London listed on soundcheck. 6 upcoming gigs, with line-ups including 1111, BRAVA, marimari and Nova May. See dates, start times and who's playing. 323 New Cross Road; New Cross; London SE14 6AS; United Kingdom.
 
 ## What's on
 

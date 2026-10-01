@@ -1,6 +1,6 @@
 # SYNRG presents: Special Guest TBA at Cobalt Studios
 
-SYNRG presents: Special Guest TBA at Cobalt Studios on Sat 12 Dec, Newcastle. House and Minimal. Preview the line-up and save it on soundcheck.
+SYNRG presents: Special Guest TBA at Cobalt Studios on Sat 12 Dec, Newcastle. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

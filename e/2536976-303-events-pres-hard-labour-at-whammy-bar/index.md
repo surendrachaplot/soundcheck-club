@@ -1,6 +1,6 @@
 # 303 Events Pres. Hard Labour at Whammy Bar
 
-303 Events Pres. Hard Labour at Whammy Bar on Sun 25 Oct, Auckland. Techno. Preview the line-up and save it on soundcheck.
+303 Events Pres. Hard Labour at Whammy Bar on Sun 25 Oct, Auckland. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

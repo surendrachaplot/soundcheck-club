@@ -1,6 +1,6 @@
 # Interior Exit Showcase Vol 2 at 81 Renshaw Street
 
-Interior Exit Showcase Vol 2 at 81 Renshaw Street on Thu 22 Oct, Liverpool. 4 artists on the bill: Alex Spiers, B.A.G.S, Groß Aktiv and Jez Thelwell. Experimental and Industrial. Preview the line-up and save it on soundcheck.
+Interior Exit Showcase Vol 2 at 81 Renshaw Street on Thu 22 Oct, Liverpool. 4 artists: Alex Spiers, B.A.G.S, Groß Aktiv and Jez Thelwell. Experimental and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

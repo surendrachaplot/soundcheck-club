@@ -1,6 +1,6 @@
 # RAW XXS #15 • Secret warehouse at TBA - Secret Warehouse
 
-RAW XXS #15 • Secret warehouse at TBA - Secret Warehouse on Fri 2 Oct, Paris. Techno. Preview the line-up and save it on soundcheck.
+RAW XXS #15 • Secret warehouse at TBA - Secret Warehouse on Fri 2 Oct, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

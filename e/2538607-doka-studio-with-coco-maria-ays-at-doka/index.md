@@ -1,6 +1,6 @@
 # Doka Studio with Coco Maria - AYS at Doka
 
-Doka Studio with Coco Maria - AYS on Fri 30 Oct, Amsterdam. 2 artists on the bill: Ays (NL) and Coco Maria. House and Disco. Preview the line-up and save it on soundcheck.
+Doka Studio with Coco Maria - AYS on Fri 30 Oct, Amsterdam. 2 artists: Ays (NL) and Coco Maria. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

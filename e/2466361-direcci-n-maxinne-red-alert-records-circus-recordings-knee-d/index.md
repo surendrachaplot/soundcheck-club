@@ -1,6 +1,6 @@
 # DIRECCIÓN: Maxinne (Red Alert Records, Circus Recordings, Knee Deep in Sound) at Bricks
 
-DIRECCIÓN: Maxinne (Red Alert Records, Circus Recordings, Knee Deep in Sound) at Bricks on Fri 2 Oct, London. 1 artist on the bill: Maxinne. House and Tech House. Preview the line-up and save it on soundcheck.
+DIRECCIÓN: Maxinne (Red Alert Records, Circus Recordings, Knee Deep in Sound) at Bricks on Fri 2 Oct, London. 1 artist: Maxinne. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

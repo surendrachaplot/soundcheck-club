@@ -1,6 +1,6 @@
 # Smolna Tribe: Ramzi Attia at Smolna
 
-Smolna Tribe: Ramzi Attia on Thu 22 Oct, Warsaw. Afro House. Preview the line-up and save it on soundcheck.
+Smolna Tribe: Ramzi Attia on Thu 22 Oct, Warsaw. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

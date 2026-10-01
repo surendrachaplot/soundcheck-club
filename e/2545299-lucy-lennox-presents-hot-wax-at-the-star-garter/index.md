@@ -1,6 +1,6 @@
 # Lucy Lennox presents Hot Wax at The Star & Garter
 
-Lucy Lennox presents Hot Wax at The Star & Garter on Sat 3 Oct, Bristol. 1 artist on the bill: Lucy Lennox. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Lucy Lennox presents Hot Wax at The Star & Garter on Sat 3 Oct, Bristol. 1 artist: Lucy Lennox. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

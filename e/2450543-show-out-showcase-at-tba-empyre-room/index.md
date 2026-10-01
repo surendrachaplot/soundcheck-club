@@ -1,6 +1,6 @@
 # Show Out! Showcase at TBA -  Empyre Room
 
-Show Out! Showcase at TBA -  Empyre Room on Fri 23 Oct, Houston. Hip-Hop and Hardcore. Preview the line-up and save it on soundcheck.
+Show Out! Showcase at TBA -  Empyre Room on Fri 23 Oct, Houston. Hip-Hop and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

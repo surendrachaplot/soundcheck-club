@@ -1,6 +1,6 @@
 # Ascetic Practices at Paradise Palms
 
-Ascetic Practices at Paradise Palms on Sat 3 Oct, Edinburgh. 2 artists on the bill: Moth Girl and Sacred Keys. Electro and New Wave. Preview the line-up and save it on soundcheck.
+Ascetic Practices at Paradise Palms on Sat 3 Oct, Edinburgh. 2 artists: Moth Girl and Sacred Keys. Electro and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

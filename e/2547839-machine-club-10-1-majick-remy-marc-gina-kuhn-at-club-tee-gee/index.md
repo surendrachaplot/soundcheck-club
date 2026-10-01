@@ -1,6 +1,6 @@
 # Machine Club 10/1 -  Majick, Remy Marc, Gina Kuhn at Club Tee Gee
 
-Machine Club 10/1 -  Majick, Remy Marc, Gina Kuhn at Club Tee Gee on Thu 1 Oct, Los Angeles. 1 artist on the bill: Remy Marc. Electro and EBM. Preview the line-up and save it on soundcheck.
+Machine Club 10/1 -  Majick, Remy Marc, Gina Kuhn at Club Tee Gee on Thu 1 Oct, Los Angeles. 1 artist: Remy Marc. Electro and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

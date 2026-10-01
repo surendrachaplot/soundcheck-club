@@ -1,6 +1,6 @@
 # XULEO takeover x Guapa at un club bonito
 
-XULEO takeover x Guapa at un club bonito on Sat 17 Oct, Mexico City. Dancehall and Dembow. Preview the line-up and save it on soundcheck.
+XULEO takeover x Guapa at un club bonito on Sat 17 Oct, Mexico City. Dancehall and Dembow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

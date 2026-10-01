@@ -1,6 +1,6 @@
 # Die Früh-ins-Bett Party with Amecelli at Z-Bau
 
-Die Früh-ins-Bett Party with Amecelli at Z-Bau on Sat 24 Oct, Nürnberg. House and Pop. Preview the line-up and save it on soundcheck.
+Die Früh-ins-Bett Party with Amecelli at Z-Bau on Sat 24 Oct, Nürnberg. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

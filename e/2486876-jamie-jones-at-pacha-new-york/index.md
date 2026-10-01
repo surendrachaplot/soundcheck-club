@@ -1,6 +1,6 @@
 # Jamie Jones at Pacha New York
 
-Jamie Jones at Pacha New York on Fri 9 Oct, New York City. 3 artists on the bill: Jamie Jones, Rana Iravani and Yamagucci. House. Preview the line-up and save it on soundcheck.
+Jamie Jones at Pacha New York on Fri 9 Oct, New York City. 3 artists: Jamie Jones, Rana Iravani and Yamagucci. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

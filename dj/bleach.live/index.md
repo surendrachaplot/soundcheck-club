@@ -1,8 +1,8 @@
 # BLEACH.LIVE
 
-BLEACH.LIVE is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lido Berlin, Berlin on Fri, 16 Oct 2026.
+BLEACH.LIVE is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lido Berlin, Berlin on Fri, 16 Oct 2026.
 
-BLEACH.LIVE is a disco and house artist based in Germany, tracked on soundcheck, with 51 sets logged across Berlin. Often billed alongside Nancy Nutter, Mari Corolla and ADAM MUNNINGS. Next up: Lido Berlin, Berlin on Fri 16 Oct.
+BLEACH.LIVE is a disco and house artist based in Germany, with 51 gigs on soundcheck across Berlin. Often billed alongside Nancy Nutter, Mari Corolla and ADAM MUNNINGS. Next up: Lido Berlin, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ BLEACH.LIVE is a disco and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Monster Ronson's Ichiban Karaoke, Berlin — Wed, 16 Sept 2026
-- Monster Ronson's Ichiban Karaoke, Berlin — Sun, 6 Sept 2026
-- Monster Ronson's Ichiban Karaoke, Berlin — Wed, 22 Jul 2026
-- Void Club, Berlin — Fri, 19 Jun 2026
-- Monster Ronson's Ichiban Karaoke, Berlin — Sun, 7 Jun 2026
-- L.U.X., Berlin — Thu, 4 Jun 2026
-- Monster Ronson's Ichiban Karaoke, Berlin — Wed, 27 May 2026
-- Void Hall, Berlin — Sat, 23 May 2026
+- Monster Ronson's Ichiban Karaoke, Berlin · Wed, 16 Sept 2026
+- Monster Ronson's Ichiban Karaoke, Berlin · Sun, 6 Sept 2026
+- Monster Ronson's Ichiban Karaoke, Berlin · Wed, 22 Jul 2026
+- Void Club, Berlin · Fri, 19 Jun 2026
+- Monster Ronson's Ichiban Karaoke, Berlin · Sun, 7 Jun 2026
+- L.U.X., Berlin · Thu, 4 Jun 2026
+- Monster Ronson's Ichiban Karaoke, Berlin · Wed, 27 May 2026
+- Void Hall, Berlin · Sat, 23 May 2026
 
 ## Shares bills with
 

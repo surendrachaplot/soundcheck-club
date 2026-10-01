@@ -1,6 +1,6 @@
 # Lisbon Boat Party at Lisbon Boat Party
 
-Lisbon Boat Party on Sat 3 Oct, Lisbon. House and Club. Preview the line-up and save it on soundcheck.
+Lisbon Boat Party on Sat 3 Oct, Lisbon. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

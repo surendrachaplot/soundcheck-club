@@ -1,6 +1,6 @@
 # Chris Stassy pres. by Bootshaus at Bootshaus
 
-Chris Stassy pres. by Bootshaus on Fri 16 Oct, Cologne. 5 artists on the bill: Arado, CHRIS STASSY, Fabrice and Matisa and 1 more. Preview the line-up and save it on soundcheck.
+Chris Stassy pres. by Bootshaus on Fri 16 Oct, Cologne. 5 artists: Arado, CHRIS STASSY, Fabrice and Matisa and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

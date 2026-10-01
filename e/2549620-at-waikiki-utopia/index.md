@@ -1,6 +1,6 @@
 # 𝐖𝐀𝐈𝐊𝐈𝐊𝐈 𝐔𝐓𝐎𝐏𝐈𝐀 𝐁𝐀𝐂𝐊 𝐓𝐎 𝐂𝐋𝐔𝐁 𝟐𝟎𝟏𝟔 at Waikiki Utopia
 
-𝐖𝐀𝐈𝐊𝐈𝐊𝐈 𝐔𝐓𝐎𝐏𝐈𝐀 𝐁𝐀𝐂𝐊 𝐓𝐎 𝐂𝐋𝐔𝐁 𝟐𝟎𝟏𝟔 at Waikiki Utopia on Sat 3 Oct, South Korea. 7 artists on the bill: AVEN (KR), H93 (KR), HADO (KR) and NEO KR and 3 more. Preview the line-up and save it on soundcheck.
+𝐖𝐀𝐈𝐊𝐈𝐊𝐈 𝐔𝐓𝐎𝐏𝐈𝐀 𝐁𝐀𝐂𝐊 𝐓𝐎 𝐂𝐋𝐔𝐁 𝟐𝟎𝟏𝟔 at Waikiki Utopia on Sat 3 Oct, South Korea. 7 artists: AVEN (KR), H93 (KR), HADO (KR) and NEO KR and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

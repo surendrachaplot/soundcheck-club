@@ -1,6 +1,6 @@
 # HIROSHI KAWANABE & K404 at DJ Bar Bridge
 
-HIROSHI KAWANABE & K404 at DJ Bar Bridge on Wed 7 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+HIROSHI KAWANABE & K404 at DJ Bar Bridge on Wed 7 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

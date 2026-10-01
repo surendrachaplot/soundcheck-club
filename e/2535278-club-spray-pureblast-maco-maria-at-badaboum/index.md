@@ -1,6 +1,6 @@
 # Club — Spray, Pureblast, Maco Maria at Badaboum
 
-Club — Spray, Pureblast, Maco Maria at Badaboum on Sat 17 Oct, Paris. 3 artists on the bill: Maco Maria, Pureblast and Spray. Trance and Tech House. Preview the line-up and save it on soundcheck.
+Club — Spray, Pureblast, Maco Maria at Badaboum on Sat 17 Oct, Paris. 3 artists: Maco Maria, Pureblast and Spray. Trance and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

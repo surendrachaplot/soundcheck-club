@@ -1,6 +1,6 @@
 # SATOSHI TOMIIE X POLIFONIC.MX at Polifonic.MX
 
-SATOSHI TOMIIE X POLIFONIC.MX at Polifonic.MX on Fri 2 Oct, Guadalajara. 1 artist on the bill: Satoshi Tomiie. Preview the line-up and save it on soundcheck.
+SATOSHI TOMIIE X POLIFONIC.MX at Polifonic.MX on Fri 2 Oct, Guadalajara. 1 artist: Satoshi Tomiie. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

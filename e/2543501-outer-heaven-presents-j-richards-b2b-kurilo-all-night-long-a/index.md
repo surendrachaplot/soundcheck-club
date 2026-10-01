@@ -1,6 +1,6 @@
 # Outer Heaven presents: J Richards b2b Kurilo [All Night Long] at Outer Heaven
 
-Outer Heaven presents: J Richards b2b Kurilo [All Night Long] on Sat 24 Oct, New York City. 2 artists on the bill: J. Richards and Kurilo. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: J Richards b2b Kurilo [All Night Long] on Sat 24 Oct, New York City. 2 artists: J. Richards and Kurilo. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

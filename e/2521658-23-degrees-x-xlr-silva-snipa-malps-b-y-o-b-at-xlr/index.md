@@ -1,6 +1,6 @@
 # 23 Degrees x XLR: Silva Snipa & Malps [B.Y.O.B] at XLR
 
-23 Degrees x XLR: Silva Snipa & Malps [B.Y.O.B] on Fri 27 Nov, Manchester. 1 artist on the bill: Silva Snipa. Garage and Tech House. Preview the line-up and save it on soundcheck.
+23 Degrees x XLR: Silva Snipa & Malps [B.Y.O.B] on Fri 27 Nov, Manchester. 1 artist: Silva Snipa. Garage and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

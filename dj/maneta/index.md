@@ -1,8 +1,8 @@
 # Maneta
 
-Maneta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sameheads, Berlin on Sat, 3 Oct 2026.
+Maneta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sameheads, Berlin on Sat, 3 Oct 2026.
 
-Maneta is a house and techno artist based in Portugal, tracked on soundcheck, with 17 sets logged across Berlin and Brussels. Often billed alongside SBRD, Luigi Di Venere and Agua con gas. Next up: Sameheads, Berlin on Sat 3 Oct.
+Maneta is a house and techno artist based in Portugal, with 17 gigs on soundcheck across Berlin and Brussels. Often billed alongside SBRD, Luigi Di Venere and Agua con gas. Next up: Sameheads, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Maneta is a house and techno artist based in Portugal, tracked on soundcheck, wi
 
 ## Recently played
 
-- Crack Bellmer, Berlin — Sat, 26 Sept 2026
-- Kater, Berlin — Sat, 9 May 2026
-- Fitzroy, Berlin — Fri, 20 Mar 2026
-- Fitzroy, Berlin — Fri, 23 Jan 2026
-- Sameheads, Berlin — Fri, 19 Dec 2025
-- Zur Klappe, Berlin — Fri, 28 Nov 2025
-- Fitzroy, Berlin — Fri, 3 Oct 2025
-- Sameheads, Berlin — Sat, 24 May 2025
+- Crack Bellmer, Berlin · Sat, 26 Sept 2026
+- Kater, Berlin · Sat, 9 May 2026
+- Fitzroy, Berlin · Fri, 20 Mar 2026
+- Fitzroy, Berlin · Fri, 23 Jan 2026
+- Sameheads, Berlin · Fri, 19 Dec 2025
+- Zur Klappe, Berlin · Fri, 28 Nov 2025
+- Fitzroy, Berlin · Fri, 3 Oct 2025
+- Sameheads, Berlin · Sat, 24 May 2025
 
 ## Shares bills with
 

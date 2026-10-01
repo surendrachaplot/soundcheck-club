@@ -1,6 +1,6 @@
 # Transmissions from Deep Space at Wort & Klang
 
-Transmissions from Deep Space at Wort & Klang on Sat 3 Oct, Nürnberg. 1 artist on the bill: Armin Bender. Deep House and Dub Techno. Preview the line-up and save it on soundcheck.
+Transmissions from Deep Space at Wort & Klang on Sat 3 Oct, Nürnberg. 1 artist: Armin Bender. Deep House and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

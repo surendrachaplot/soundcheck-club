@@ -1,8 +1,8 @@
 # Nótt
 
-Nótt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Toronto, Toronto on Sat, 17 Oct 2026.
+Nótt is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Toronto, Toronto on Sat, 17 Oct 2026.
 
-Nótt is a techno and house artist based in Canada, tracked on soundcheck, with 12 sets logged across Toronto. Often billed alongside A.J. Matos, A_C_E. and Anfisa Letyago. Next up: TBA - Toronto, Toronto on Sat 17 Oct.
+Nótt is a techno and house artist based in Canada, with 12 gigs on soundcheck across Toronto. Often billed alongside A.J. Matos, A_C_E. and Anfisa Letyago. Next up: TBA - Toronto, Toronto on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Nótt is a techno and house artist based in Canada, tracked on soundcheck, with 
 
 ## Recently played
 
-- Sound Machine, Toronto — Thu, 3 Sept 2026
-- Infinity Room Inside Future, Toronto — Thu, 11 Jun 2026
-- TBA, Toronto — Fri, 5 Jun 2026
-- Standard Time, Toronto — Sat, 16 May 2026
-- Insomnia Lounge, Toronto — Thu, 12 Mar 2026
-- TBA - Toronto, Toronto — Sat, 27 Dec 2025
-- Standard Time, Toronto — Sat, 24 May 2025
-- Mooi Space, Toronto — Sat, 15 Mar 2025
+- Sound Machine, Toronto · Thu, 3 Sept 2026
+- Infinity Room Inside Future, Toronto · Thu, 11 Jun 2026
+- TBA, Toronto · Fri, 5 Jun 2026
+- Standard Time, Toronto · Sat, 16 May 2026
+- Insomnia Lounge, Toronto · Thu, 12 Mar 2026
+- TBA - Toronto, Toronto · Sat, 27 Dec 2025
+- Standard Time, Toronto · Sat, 24 May 2025
+- Mooi Space, Toronto · Sat, 15 Mar 2025
 
 ## Shares bills with
 

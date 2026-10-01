@@ -1,6 +1,6 @@
 # HOTEL INTERNAZIONALE at Showtime Lounge
 
-HOTEL INTERNAZIONALE at Showtime Lounge on Fri 16 Oct, Washington DC. 1 artist on the bill: Candie Kitsch. Funk / Soul and Italo Disco. Preview the line-up and save it on soundcheck.
+HOTEL INTERNAZIONALE at Showtime Lounge on Fri 16 Oct, Washington DC. 1 artist: Candie Kitsch. Funk / Soul and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

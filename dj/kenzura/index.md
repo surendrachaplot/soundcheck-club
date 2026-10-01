@@ -1,8 +1,8 @@
 # Kenzura
 
-Kenzura is a Drum & Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at AMT, Berlin on Sat, 7 Nov 2026.
+Kenzura is a Drum & Bass and Dubstep artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at AMT, Berlin on Sat, 7 Nov 2026.
 
-Kenzura is a drum & bass and dubstep artist based in Germany, tracked on soundcheck, with 24 sets logged across Berlin and London. Often billed alongside IHOPEIEXIST, Aynaet and Dub Isotope. Next up: AMT, Berlin on Sat 7 Nov.
+Kenzura is a drum & bass and dubstep artist based in Germany, with 24 gigs on soundcheck across Berlin and London. Often billed alongside IHOPEIEXIST, Aynaet and Dub Isotope. Next up: AMT, Berlin on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kenzura is a drum & bass and dubstep artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- Void Club, Berlin — Fri, 18 Sept 2026
-- Ritter Butzke, Berlin — Sat, 29 Aug 2026
-- Ritter Butzke, Berlin — Sat, 29 Aug 2026
-- Void Club, Berlin — Fri, 28 Aug 2026
-- Bread and Butter Arch, London — Thu, 16 Jul 2026
-- Void Club, Berlin — Fri, 10 Jul 2026
-- Schwarze Heidi, Berlin — Sun, 21 Jun 2026
-- Void Club, Berlin — Fri, 12 Jun 2026
+- Void Club, Berlin · Fri, 18 Sept 2026
+- Ritter Butzke, Berlin · Sat, 29 Aug 2026
+- Ritter Butzke, Berlin · Sat, 29 Aug 2026
+- Void Club, Berlin · Fri, 28 Aug 2026
+- Bread and Butter Arch, London · Thu, 16 Jul 2026
+- Void Club, Berlin · Fri, 10 Jul 2026
+- Schwarze Heidi, Berlin · Sun, 21 Jun 2026
+- Void Club, Berlin · Fri, 12 Jun 2026
 
 ## Shares bills with
 

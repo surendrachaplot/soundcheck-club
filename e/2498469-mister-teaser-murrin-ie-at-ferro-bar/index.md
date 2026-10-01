@@ -1,6 +1,6 @@
 # Mister Teaser + Murrin (IE) at Ferro Bar
 
-Mister Teaser + Murrin (IE) at Ferro Bar on Fri 2 Oct, Porto. 2 artists on the bill: Mister Teaser and Murrin. IDM and Electronica. Preview the line-up and save it on soundcheck.
+Mister Teaser + Murrin (IE) at Ferro Bar on Fri 2 Oct, Porto. 2 artists: Mister Teaser and Murrin. IDM and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

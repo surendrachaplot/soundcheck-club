@@ -1,6 +1,6 @@
 # RUSH presents: SPECTRAL // AudioVisual Show // JUNGLE // GARAGE // SPEED BASS at Honey Street Studio
 
-RUSH presents: SPECTRAL // AudioVisual Show // JUNGLE // GARAGE // SPEED BASS at Honey Street Studio on Fri 16 Oct, Manchester. 2 artists on the bill: Amelia Leigh and Sweetly. Garage and Jungle. Preview the line-up and save it on soundcheck.
+RUSH presents: SPECTRAL // AudioVisual Show // JUNGLE // GARAGE // SPEED BASS at Honey Street Studio on Fri 16 Oct, Manchester. 2 artists: Amelia Leigh and Sweetly. Garage and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

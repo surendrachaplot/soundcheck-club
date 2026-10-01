@@ -1,8 +1,8 @@
 # santyyyyyya
 
-santyyyyyya is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Atlantic Sound, Barcelona on Fri, 23 Oct 2026.
+santyyyyyya is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Atlantic Sound, Barcelona on Fri, 23 Oct 2026.
 
-santyyyyyya is a techno and hardcore artist tracked on soundcheck, with 9 sets logged across Barcelona and Ibiza. Often billed alongside Kleyver Reyes, Dj Cherry and Eva Toya. Next up: Atlantic Sound, Barcelona on Fri 23 Oct.
+santyyyyyya is a techno and hardcore artist, with 9 gigs on soundcheck across Barcelona and Ibiza. Often billed alongside Kleyver Reyes, Dj Cherry and Eva Toya. Next up: Atlantic Sound, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ santyyyyyya is a techno and hardcore artist tracked on soundcheck, with 9 sets l
 
 ## Recently played
 
-- City Hall, Barcelona — Fri, 14 Aug 2026
-- TBA - Casanova Summum - Cala de Bou, 44, 07829, SANT ANTONI, Ibiza, Ibiza — Sun, 9 Aug 2026
-- City Hall, Barcelona — Thu, 30 Jul 2026
-- City Hall, Barcelona — Thu, 30 Jul 2026
-- Imperial Private Club, Barcelona — Fri, 10 Apr 2026
-- Never, Barcelona — Sat, 14 Feb 2026
-- Imperial Private Club, Barcelona — Fri, 6 Feb 2026
-- Imperial Private Club, Barcelona — Sat, 6 Dec 2025
+- City Hall, Barcelona · Fri, 14 Aug 2026
+- TBA - Casanova Summum - Cala de Bou, 44, 07829, SANT ANTONI, Ibiza, Ibiza · Sun, 9 Aug 2026
+- City Hall, Barcelona · Thu, 30 Jul 2026
+- City Hall, Barcelona · Thu, 30 Jul 2026
+- Imperial Private Club, Barcelona · Fri, 10 Apr 2026
+- Never, Barcelona · Sat, 14 Feb 2026
+- Imperial Private Club, Barcelona · Fri, 6 Feb 2026
+- Imperial Private Club, Barcelona · Sat, 6 Dec 2025
 
 ## Shares bills with
 

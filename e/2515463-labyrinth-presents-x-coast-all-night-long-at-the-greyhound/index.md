@@ -1,6 +1,6 @@
 # Labyrinth presents: X-Coast All Night Long at The Greyhound
 
-Labyrinth presents: X-Coast All Night Long at The Greyhound on Fri 2 Oct, London. 1 artist on the bill: X-Coast. Techno and House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: X-Coast All Night Long at The Greyhound on Fri 2 Oct, London. 1 artist: X-Coast. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

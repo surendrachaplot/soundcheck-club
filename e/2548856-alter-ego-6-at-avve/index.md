@@ -1,6 +1,6 @@
 # ALTER EGO 6 at Avve
 
-ALTER EGO 6 at Avve on Fri 9 Oct, Bangkok. 3 artists on the bill: Jorgium, NEBESNY and x_me. Techno and Electro. Preview the line-up and save it on soundcheck.
+ALTER EGO 6 at Avve on Fri 9 Oct, Bangkok. 3 artists: Jorgium, NEBESNY and x_me. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

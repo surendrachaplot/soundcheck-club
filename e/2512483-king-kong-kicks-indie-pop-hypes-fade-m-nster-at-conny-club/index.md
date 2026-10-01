@@ -1,6 +1,6 @@
 # King Kong Kicks • Indie Pop & Hypes • FADE • Münster at Conny Club
 
-King Kong Kicks • Indie Pop & Hypes • FADE • Münster at Conny Club on Sat 14 Nov, Munster. Pop. Preview the line-up and save it on soundcheck.
+King Kong Kicks • Indie Pop & Hypes • FADE • Münster at Conny Club on Sat 14 Nov, Munster. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

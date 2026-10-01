@@ -1,6 +1,6 @@
 # Unbound x Obscura presents: Redbatun & Luwck at Room 2 Glasgow
 
-Unbound x Obscura presents: Redbatun & Luwck at Room 2 Glasgow on Sat 3 Oct, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+Unbound x Obscura presents: Redbatun & Luwck at Room 2 Glasgow on Sat 3 Oct, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

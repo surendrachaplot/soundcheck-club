@@ -1,6 +1,6 @@
 # Culture at Prince of Peckham
 
-Culture at Prince of Peckham on Fri 9 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Culture at Prince of Peckham on Fri 9 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

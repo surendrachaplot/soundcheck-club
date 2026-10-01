@@ -1,6 +1,6 @@
 # U.K Hun? presents: DJ Perception b2b Sykik, Mystic Matt, DANCE PROTOCOL at Starlane Pizza Bar
 
-U.K Hun? presents: DJ Perception b2b Sykik, Mystic Matt, DANCE PROTOCOL at Starlane Pizza Bar on Sat 28 Nov, London. 3 artists on the bill: DANCE PROTOCOL, DJ Perception and Nicky Sahota. House and Garage. Preview the line-up and save it on soundcheck.
+U.K Hun? presents: DJ Perception b2b Sykik, Mystic Matt, DANCE PROTOCOL at Starlane Pizza Bar on Sat 28 Nov, London. 3 artists: DANCE PROTOCOL, DJ Perception and Nicky Sahota. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

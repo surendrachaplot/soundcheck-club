@@ -1,6 +1,6 @@
 # Halloween Rooftop Party (Imprint) at Bambalan
 
-Halloween Rooftop Party (Imprint) at Bambalan on Wed 28 Oct, Bristol. House and Garage. Preview the line-up and save it on soundcheck.
+Halloween Rooftop Party (Imprint) at Bambalan on Wed 28 Oct, Bristol. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

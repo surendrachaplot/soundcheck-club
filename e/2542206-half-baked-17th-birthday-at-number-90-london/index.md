@@ -1,6 +1,6 @@
 # Half Baked 17th Birthday at NUMBER 90 LONDON
 
-Half Baked 17th Birthday at NUMBER 90 LONDON on Sat 5 Dec, London. Techno and House. Preview the line-up and save it on soundcheck.
+Half Baked 17th Birthday at NUMBER 90 LONDON on Sat 5 Dec, London. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

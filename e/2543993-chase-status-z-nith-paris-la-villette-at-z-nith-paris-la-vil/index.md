@@ -1,6 +1,6 @@
 # Chase & Status @ Zénith Paris - La Villette at Zénith Paris - La Villette
 
-Chase & Status @ Zénith Paris - La Villette on Sun 28 Feb, Paris. 1 artist on the bill: Chase & Status. Preview the line-up and save it on soundcheck.
+Chase & Status @ Zénith Paris - La Villette on Sun 28 Feb, Paris. 1 artist: Chase & Status. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

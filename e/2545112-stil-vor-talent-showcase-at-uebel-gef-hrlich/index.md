@@ -1,6 +1,6 @@
 # Stil vor Talent Showcase at Uebel & Gefährlich
 
-Stil vor Talent Showcase at Uebel & Gefährlich on Sat 19 Dec, Hamburg. 5 artists on the bill: Fabian Krooss, Frida Darko, Juan Hansen and Konfusia and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+Stil vor Talent Showcase at Uebel & Gefährlich on Sat 19 Dec, Hamburg. 5 artists: Fabian Krooss, Frida Darko, Juan Hansen and Konfusia and 1 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

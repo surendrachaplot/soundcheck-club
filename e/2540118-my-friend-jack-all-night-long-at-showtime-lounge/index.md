@@ -1,6 +1,6 @@
 # My Friend Jack - All Night Long at Showtime Lounge
 
-My Friend Jack - All Night Long at Showtime Lounge on Sun 11 Oct, Washington DC. 1 artist on the bill: My Friend Jack. Disco. Preview the line-up and save it on soundcheck.
+My Friend Jack - All Night Long at Showtime Lounge on Sun 11 Oct, Washington DC. 1 artist: My Friend Jack. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

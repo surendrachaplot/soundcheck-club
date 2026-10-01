@@ -1,6 +1,6 @@
 # DURATIONS: Ballet: Buttechno, Klein, Matana Roberts & Lesley Mok, Significant Other at public records
 
-DURATIONS: Ballet: Buttechno, Klein, Matana Roberts & Lesley Mok, Significant Other at public records on Thu 12 Nov, New York City. 4 artists on the bill: Buttechno, Klein, Matana Roberts and Significant Other. Preview the line-up and save it on soundcheck.
+DURATIONS: Ballet: Buttechno, Klein, Matana Roberts & Lesley Mok, Significant Other at public records on Thu 12 Nov, New York City. 4 artists: Buttechno, Klein, Matana Roberts and Significant Other. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

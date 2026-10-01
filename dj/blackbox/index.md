@@ -1,8 +1,8 @@
 # Black Box
 
-Black Box is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Black Box is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-Black Box is a house and techno artist based in Germany, tracked on soundcheck, with 49 sets logged across Amsterdam, Baden W Rttemberg, Berlin and Cologne and 12 more. Often billed alongside Unseen., Martin Mind and ZARE. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+Black Box is a house and techno artist based in Germany, with 49 gigs on soundcheck across Amsterdam, Baden W Rttemberg, Berlin and Cologne and 12 more. Often billed alongside Unseen., Martin Mind and ZARE. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Black Box is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- TBA - Munich, Munich — Sat, 12 Sept 2026
-- Lieberscholli, Munich — Fri, 28 Aug 2026
-- Maximiliansstrand, Munich — Sat, 18 Jul 2026
-- Lieberscholli, Munich — Thu, 25 Jun 2026
-- Lieberscholli, Munich — Sun, 14 Jun 2026
-- Lieberscholli, Munich — Sat, 6 Jun 2026
-- Schrotty, Cologne — Fri, 1 May 2026
-- Fünk, Mexico City — Sat, 11 Apr 2026
+- TBA - Munich, Munich · Sat, 12 Sept 2026
+- Lieberscholli, Munich · Fri, 28 Aug 2026
+- Maximiliansstrand, Munich · Sat, 18 Jul 2026
+- Lieberscholli, Munich · Thu, 25 Jun 2026
+- Lieberscholli, Munich · Sun, 14 Jun 2026
+- Lieberscholli, Munich · Sat, 6 Jun 2026
+- Schrotty, Cologne · Fri, 1 May 2026
+- Fünk, Mexico City · Sat, 11 Apr 2026
 
 ## Shares bills with
 

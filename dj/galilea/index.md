@@ -1,8 +1,8 @@
 # Galilea
 
-Galilea is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Q Club, Milan on Fri, 16 Oct 2026.
+Galilea is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Q Club, Milan on Fri, 16 Oct 2026.
 
-Galilea is a techno and house artist based in Argentina, tracked on soundcheck, with 11 sets logged across Milan and Turin. Often billed alongside LEMME, Aberra and Dandy M. Next up: Q Club, Milan on Fri 16 Oct.
+Galilea is a techno and house artist based in Argentina, with 11 gigs on soundcheck across Milan and Turin. Often billed alongside LEMME, Aberra and Dandy M. Next up: Q Club, Milan on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Galilea is a techno and house artist based in Argentina, tracked on soundcheck, 
 
 ## Recently played
 
-- Q Club, Milan — Fri, 25 Sept 2026
-- Azimut Club, Turin — Sat, 6 Jun 2026
-- Azimut Club, Turin — Sat, 6 Jun 2026
-- Q35 WAREHOUSE, Turin — Sat, 9 May 2026
-- Circolo Amelia, Milan — Sat, 25 Apr 2026
-- Leila, Milan — Sat, 14 Feb 2026
-- DKR Milano, Milan — Sun, 18 Jan 2026
-- DKR Milano, Milan — Sat, 13 Dec 2025
+- Q Club, Milan · Fri, 25 Sept 2026
+- Azimut Club, Turin · Sat, 6 Jun 2026
+- Azimut Club, Turin · Sat, 6 Jun 2026
+- Q35 WAREHOUSE, Turin · Sat, 9 May 2026
+- Circolo Amelia, Milan · Sat, 25 Apr 2026
+- Leila, Milan · Sat, 14 Feb 2026
+- DKR Milano, Milan · Sun, 18 Jan 2026
+- DKR Milano, Milan · Sat, 13 Dec 2025
 
 ## Shares bills with
 

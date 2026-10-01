@@ -1,6 +1,6 @@
 # Ductape (TR) // RUST at RUST
 
-Ductape (TR) // RUST on Fri 20 Nov, Copenhagen. Preview the line-up and save it on soundcheck.
+Ductape (TR) // RUST on Fri 20 Nov, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

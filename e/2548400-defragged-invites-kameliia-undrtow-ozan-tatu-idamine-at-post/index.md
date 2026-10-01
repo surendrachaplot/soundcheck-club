@@ -1,6 +1,6 @@
 # DEFRAGGED invites: ⁠Kameliia, undrtow, Ozan, Tatu, ⁠⁠Idamine at Post Bar
 
-DEFRAGGED invites: ⁠Kameliia, undrtow, Ozan, Tatu, ⁠⁠Idamine at Post Bar on Fri 13 Nov, Helsinki. 4 artists on the bill: Kameliia, Ozan, Tatu and undrtow. Techno. Preview the line-up and save it on soundcheck.
+DEFRAGGED invites: ⁠Kameliia, undrtow, Ozan, Tatu, ⁠⁠Idamine at Post Bar on Fri 13 Nov, Helsinki. 4 artists: Kameliia, Ozan, Tatu and undrtow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

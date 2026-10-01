@@ -1,6 +1,6 @@
 # No Name Given - FLINTA* BASS / GRIME / JUNGLE NIGHT at Club Makossa
 
-No Name Given - FLINTA* BASS / GRIME / JUNGLE NIGHT at Club Makossa on Thu 19 Nov, London. 2 artists on the bill: miss jas and NK47. Bass and Grime. Preview the line-up and save it on soundcheck.
+No Name Given - FLINTA* BASS / GRIME / JUNGLE NIGHT at Club Makossa on Thu 19 Nov, London. 2 artists: miss jas and NK47. Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

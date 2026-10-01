@@ -1,6 +1,6 @@
 # Interval - Papa Nugs [UK] (4 Hours) at Glamorama
 
-Interval - Papa Nugs [UK] (4 Hours) at Glamorama on Fri 2 Oct, Melbourne. 2 artists on the bill: BETHANY and Papa Nugs. Progressive House and House. Preview the line-up and save it on soundcheck.
+Interval - Papa Nugs [UK] (4 Hours) at Glamorama on Fri 2 Oct, Melbourne. 2 artists: BETHANY and Papa Nugs. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

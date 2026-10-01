@@ -1,6 +1,6 @@
 # Into Haven at Haven
 
-Into Haven on Thu 1 Oct, Copenhagen. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Into Haven on Thu 1 Oct, Copenhagen. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

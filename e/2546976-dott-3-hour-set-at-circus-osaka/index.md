@@ -1,6 +1,6 @@
 # DOTT -3 hour set- at Circus Osaka
 
-DOTT -3 hour set- at Circus Osaka on Thu 8 Oct, Osaka. 3 artists on the bill: DOTT, MARU and SEIJI. Techno and House. Preview the line-up and save it on soundcheck.
+DOTT -3 hour set- at Circus Osaka on Thu 8 Oct, Osaka. 3 artists: DOTT, MARU and SEIJI. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

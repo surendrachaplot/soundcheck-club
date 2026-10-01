@@ -1,6 +1,6 @@
 # South of Houston presents: Selecciones Nocturnas at Babble
 
-South of Houston presents: Selecciones Nocturnas at Babble on Sat 31 Oct, Brighton. 2 artists on the bill: Nancy Noise and Sounds of Harris. House and Disco. Preview the line-up and save it on soundcheck.
+South of Houston presents: Selecciones Nocturnas at Babble on Sat 31 Oct, Brighton. 2 artists: Nancy Noise and Sounds of Harris. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

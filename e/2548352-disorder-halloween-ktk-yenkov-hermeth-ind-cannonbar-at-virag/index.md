@@ -1,6 +1,6 @@
 # DISORDER HALLOWEEN: KTK, YENKOV, Hermeth, IND, Cannonbar at Virage
 
-DISORDER HALLOWEEN: KTK, YENKOV, Hermeth, IND, Cannonbar at Virage on Sat 31 Oct, Paris. 4 artists on the bill: Cannonbar, Hermeth, KTK (DE) and YENKOV. Techno. Preview the line-up and save it on soundcheck.
+DISORDER HALLOWEEN: KTK, YENKOV, Hermeth, IND, Cannonbar at Virage on Sat 31 Oct, Paris. 4 artists: Cannonbar, Hermeth, KTK (DE) and YENKOV. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

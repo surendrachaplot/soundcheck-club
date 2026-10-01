@@ -1,8 +1,8 @@
 # Rele
 
-Rele is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Audiophile - C/ Badajoz 115, Barcelona on Sat, 3 Oct 2026.
+Rele is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Audiophile - C/ Badajoz 115, Barcelona on Sat, 3 Oct 2026.
 
-Rele is a house and minimal artist based in Italy, tracked on soundcheck, with 62 sets logged across Barcelona and Valencia. Often billed alongside Alexxx, PAZ WAZ HERE and lorenzo del po. Next up: TBA - Secret Audiophile - C/ Badajoz 115, Barcelona on Sat 3 Oct.
+Rele is a house and minimal artist based in Italy, with 62 gigs on soundcheck across Barcelona and Valencia. Often billed alongside Alexxx, PAZ WAZ HERE and lorenzo del po. Next up: TBA - Secret Audiophile - C/ Badajoz 115, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Rele is a house and minimal artist based in Italy, tracked on soundcheck, with 6
 
 ## Recently played
 
-- Dosrombos, Barcelona — Sat, 5 Sept 2026
-- TBA - Backstage Bar, Barcelona — Thu, 3 Sept 2026
-- Macarena Club, Barcelona — Mon, 3 Aug 2026
-- TBA - Secret Audiophile c/ Badajoz 115, Barcelona — Sat, 1 Aug 2026
-- Studio Stereo, Barcelona — Sat, 18 Jul 2026
-- 303 Audiophile Bar, Barcelona — Sat, 11 Jul 2026
-- TBA - private rooftop (marina metro station), Barcelona — Sun, 21 Jun 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Thu, 30 Apr 2026
+- Dosrombos, Barcelona · Sat, 5 Sept 2026
+- TBA - Backstage Bar, Barcelona · Thu, 3 Sept 2026
+- Macarena Club, Barcelona · Mon, 3 Aug 2026
+- TBA - Secret Audiophile c/ Badajoz 115, Barcelona · Sat, 1 Aug 2026
+- Studio Stereo, Barcelona · Sat, 18 Jul 2026
+- 303 Audiophile Bar, Barcelona · Sat, 11 Jul 2026
+- TBA - private rooftop (marina metro station), Barcelona · Sun, 21 Jun 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Thu, 30 Apr 2026
 
 ## Shares bills with
 

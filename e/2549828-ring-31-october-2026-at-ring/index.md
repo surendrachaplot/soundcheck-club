@@ -1,6 +1,6 @@
 # Ring — 31 October 2026 at Ring
 
-Ring — 31 October 2026 on Sat 31 Oct, Seoul. 2 artists on the bill: Antwork and Jucid. Techno and Electro. Preview the line-up and save it on soundcheck.
+Ring — 31 October 2026 on Sat 31 Oct, Seoul. 2 artists: Antwork and Jucid. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

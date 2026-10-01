@@ -1,6 +1,6 @@
 # Under One Groove at John Doe
 
-Under One Groove at John Doe on Fri 2 Oct, Amsterdam. 1 artist on the bill: Alex Sharp. Techno. Preview the line-up and save it on soundcheck.
+Under One Groove at John Doe on Fri 2 Oct, Amsterdam. 1 artist: Alex Sharp. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

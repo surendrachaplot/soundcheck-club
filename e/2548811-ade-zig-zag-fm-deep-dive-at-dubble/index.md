@@ -1,6 +1,6 @@
 # ADE: zig~zag.fm deep dive at dubble
 
-ADE: zig~zag.fm deep dive at dubble on Thu 22 Oct, Amsterdam. 1 artist on the bill: Bella Hall. Preview the line-up and save it on soundcheck.
+ADE: zig~zag.fm deep dive at dubble on Thu 22 Oct, Amsterdam. 1 artist: Bella Hall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

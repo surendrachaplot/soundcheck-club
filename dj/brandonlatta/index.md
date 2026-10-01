@@ -1,8 +1,8 @@
 # Brandon Latta
 
-Brandon Latta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Chicago on Sat, 14 Nov 2026.
+Brandon Latta is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Chicago on Sat, 14 Nov 2026.
 
-Brandon Latta is a house and techno artist tracked on soundcheck, with 7 sets logged across Chicago and Detroit. Often billed alongside Andy Stroble, Duke Shin and Gino (DET). Next up: TBA, Chicago on Sat 14 Nov.
+Brandon Latta is a house and techno artist, with 7 gigs on soundcheck across Chicago and Detroit. Often billed alongside Andy Stroble, Duke Shin and Gino (DET). Next up: TBA, Chicago on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ Brandon Latta is a house and techno artist tracked on soundcheck, with 7 sets lo
 
 ## Recently played
 
-- Swig, Chicago — Thu, 13 Aug 2026
-- Spkrbox, Detroit — Fri, 22 May 2026
-- Arbella, Chicago — Sat, 14 Dec 2024
-- Spkrbox, Detroit — Fri, 24 May 2024
-- Arbella, Chicago — Sat, 17 Jun 2023
-- Arbella, Chicago — Sat, 18 Feb 2023
+- Swig, Chicago · Thu, 13 Aug 2026
+- Spkrbox, Detroit · Fri, 22 May 2026
+- Arbella, Chicago · Sat, 14 Dec 2024
+- Spkrbox, Detroit · Fri, 24 May 2024
+- Arbella, Chicago · Sat, 17 Jun 2023
+- Arbella, Chicago · Sat, 18 Feb 2023
 
 ## Shares bills with
 

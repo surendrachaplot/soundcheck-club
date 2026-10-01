@@ -1,8 +1,8 @@
 # Vitess
 
-Vitess is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hasta La Vista, Baby, Amsterdam on Sat, 24 Oct 2026.
+Vitess is a House and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hasta La Vista, Baby, Amsterdam on Sat, 24 Oct 2026.
 
-Vitess is a house and tech house artist based in France, tracked on soundcheck, with 100 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Grand V, Occibel and THEOS. Next up: Hasta La Vista, Baby, Amsterdam on Sat 24 Oct.
+Vitess is a house and tech house artist based in France, with 100 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 37 more. Often billed alongside Grand V, Occibel and THEOS. Next up: Hasta La Vista, Baby, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Vitess is a house and tech house artist based in France, tracked on soundcheck, 
 
 ## Recently played
 
-- 93 Feet East, London — Fri, 25 Sept 2026
-- Parco Industria Alfa Romeo, Milan — Sat, 5 Sept 2026
-- TBA - Palais Longchamp , Marseille — Fri, 3 Jul 2026
-- Floyd, Miami — Sat, 27 Jun 2026
-- 868 N Franklin St, Chicago — Fri, 26 Jun 2026
-- 42 Marches, Paris — Sat, 20 Jun 2026
-- Audio Club, Geneva — Sat, 20 Jun 2026
-- Distrikt, Leeds — Sat, 6 Jun 2026
+- 93 Feet East, London · Fri, 25 Sept 2026
+- Parco Industria Alfa Romeo, Milan · Sat, 5 Sept 2026
+- TBA - Palais Longchamp , Marseille · Fri, 3 Jul 2026
+- Floyd, Miami · Sat, 27 Jun 2026
+- 868 N Franklin St, Chicago · Fri, 26 Jun 2026
+- 42 Marches, Paris · Sat, 20 Jun 2026
+- Audio Club, Geneva · Sat, 20 Jun 2026
+- Distrikt, Leeds · Sat, 6 Jun 2026
 
 ## Shares bills with
 

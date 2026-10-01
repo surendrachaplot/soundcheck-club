@@ -1,6 +1,6 @@
 # Balance at Top Floor
 
-Balance at Top Floor on Fri 4 Dec, Newcastle. Techno and House. Preview the line-up and save it on soundcheck.
+Balance at Top Floor on Fri 4 Dec, Newcastle. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

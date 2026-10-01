@@ -1,6 +1,6 @@
 # Violeta García & Hora Lunga live + cosmic lithium live at Sala Vesta
 
-Violeta García & Hora Lunga live + cosmic lithium live at Sala Vesta on Sun 4 Oct, Madrid. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Violeta García & Hora Lunga live + cosmic lithium live at Sala Vesta on Sun 4 Oct, Madrid. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

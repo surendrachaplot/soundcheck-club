@@ -1,6 +1,6 @@
 # Dblock Europe: LiL Pino performing live with guests at TBA - Pure Night Lounge
 
-Dblock Europe: LiL Pino performing live with guests at TBA - Pure Night Lounge on Sat 17 Oct, Liverpool. House and R&B. Preview the line-up and save it on soundcheck.
+Dblock Europe: LiL Pino performing live with guests at TBA - Pure Night Lounge on Sat 17 Oct, Liverpool. House and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

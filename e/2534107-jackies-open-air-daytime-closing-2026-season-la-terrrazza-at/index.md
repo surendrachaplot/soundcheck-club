@@ -1,6 +1,6 @@
 # Jackies Open Air Daytime - Closing 2026 Season La Terrrazza at La Terrrazza
 
-Jackies Open Air Daytime - Closing 2026 Season La Terrrazza on Sat 21 Nov, Barcelona. House. Preview the line-up and save it on soundcheck.
+Jackies Open Air Daytime - Closing 2026 Season La Terrrazza on Sat 21 Nov, Barcelona. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

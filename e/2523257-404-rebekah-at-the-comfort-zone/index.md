@@ -1,6 +1,6 @@
 # 404: Rebekah at The Comfort Zone
 
-404: Rebekah at The Comfort Zone on Fri 11 Dec, Toronto. 2 artists on the bill: KILL 9 1 and Rebekah. Techno. Preview the line-up and save it on soundcheck.
+404: Rebekah at The Comfort Zone on Fri 11 Dec, Toronto. 2 artists: KILL 9 1 and Rebekah. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

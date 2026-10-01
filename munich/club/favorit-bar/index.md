@@ -1,8 +1,8 @@
 # Favorit Bar
 
-Favorit Bar is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Favorit Bar w/ Alternative Fakten" on Thu, 1 Oct 2026.
+Favorit Bar is a music venue in Munich with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Favorit Bar w/ Alternative Fakten" on Thu, 1 Oct 2026.
 
-Favorit Bar is a music venue in Munich listed on soundcheck. 5 upcoming gigs. Browse upcoming dates, start times and who's playing.
+Favorit Bar is a music venue in Munich listed on soundcheck. 5 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 

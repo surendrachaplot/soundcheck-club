@@ -1,6 +1,6 @@
 # Garzzza&Zubak x Tatemado at Tatemado
 
-Garzzza&Zubak x Tatemado on Fri 23 Oct, Madrid. 1 artist on the bill: Garzzza. House and Electro. Preview the line-up and save it on soundcheck.
+Garzzza&Zubak x Tatemado on Fri 23 Oct, Madrid. 1 artist: Garzzza. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

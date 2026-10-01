@@ -1,8 +1,8 @@
 # Silvestre
 
-Silvestre is a Techno and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Carcavelos (DM for full Location), Lisbon on Fri, 30 Oct 2026.
+Silvestre is a Techno and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Carcavelos (DM for full Location), Lisbon on Fri, 30 Oct 2026.
 
-Silvestre is a techno and breakbeat artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Berlin, Glasgow, Lisbon and London. Often billed alongside Chima Isaaro, Alienata and Ben UFO. Next up: TBA - Carcavelos (DM for full Location), Lisbon on Fri 30 Oct.
+Silvestre is a techno and breakbeat artist based in United Kingdom, with 12 gigs on soundcheck across Berlin, Glasgow, Lisbon and London. Often billed alongside Chima Isaaro, Alienata and Ben UFO. Next up: TBA - Carcavelos (DM for full Location), Lisbon on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Silvestre is a techno and breakbeat artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Lux Fragil, Lisbon — Fri, 13 Feb 2026
-- Lux Fragil, Lisbon — Sat, 7 Jun 2025
-- Lux Fragil, Lisbon — Fri, 24 May 2024
-- Outra Cena, Lisbon — Sat, 4 May 2024
-- ://about blank, Berlin — Sat, 6 Apr 2024
-- Lux Fragil, Lisbon — Fri, 5 Jan 2024
-- Outra Cena, Lisbon — Fri, 10 Nov 2023
-- The Glove That Fits, London — Fri, 20 Oct 2023
+- Lux Fragil, Lisbon · Fri, 13 Feb 2026
+- Lux Fragil, Lisbon · Sat, 7 Jun 2025
+- Lux Fragil, Lisbon · Fri, 24 May 2024
+- Outra Cena, Lisbon · Sat, 4 May 2024
+- ://about blank, Berlin · Sat, 6 Apr 2024
+- Lux Fragil, Lisbon · Fri, 5 Jan 2024
+- Outra Cena, Lisbon · Fri, 10 Nov 2023
+- The Glove That Fits, London · Fri, 20 Oct 2023
 
 ## Shares bills with
 

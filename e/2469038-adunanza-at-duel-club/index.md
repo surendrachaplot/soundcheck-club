@@ -1,6 +1,6 @@
 # ADUNANZA ~ at Duel Club
 
-ADUNANZA ~ at Duel Club on Sat 10 Oct, Naples. House and Tech House. Preview the line-up and save it on soundcheck.
+ADUNANZA ~ at Duel Club on Sat 10 Oct, Naples. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Neon_Masada // TBA at Masada
 
-Neon_Masada // TBA on Sun 1 Nov, Milan. House and Electro. Preview the line-up and save it on soundcheck.
+Neon_Masada // TBA on Sun 1 Nov, Milan. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

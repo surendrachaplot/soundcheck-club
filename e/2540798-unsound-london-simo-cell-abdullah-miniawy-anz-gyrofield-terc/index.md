@@ -1,6 +1,6 @@
 # Unsound London: Simo Cell & Abdullah Miniawy, Anz, gyrofield, Tercet Imperial at EartH
 
-Unsound London: Simo Cell & Abdullah Miniawy, Anz, gyrofield, Tercet Imperial at EartH on Sat 28 Nov, London. 4 artists on the bill: Abdullah Miniawy, Anz, gyrofield and Simo Cell. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Unsound London: Simo Cell & Abdullah Miniawy, Anz, gyrofield, Tercet Imperial at EartH on Sat 28 Nov, London. 4 artists: Abdullah Miniawy, Anz, gyrofield and Simo Cell. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

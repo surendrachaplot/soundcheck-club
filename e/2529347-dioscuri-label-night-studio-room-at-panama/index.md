@@ -1,6 +1,6 @@
 # Dioscuri Label Night - Studio Room at Panama
 
-Dioscuri Label Night - Studio Room at Panama on Thu 22 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+Dioscuri Label Night - Studio Room at Panama on Thu 22 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

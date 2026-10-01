@@ -1,6 +1,6 @@
 # Kelela at Wagon
 
-Kelela at Wagon on Thu 22 Oct, Madrid. 1 artist on the bill: Kelela. R&B and Electronica. Preview the line-up and save it on soundcheck.
+Kelela at Wagon on Thu 22 Oct, Madrid. 1 artist: Kelela. R&B and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

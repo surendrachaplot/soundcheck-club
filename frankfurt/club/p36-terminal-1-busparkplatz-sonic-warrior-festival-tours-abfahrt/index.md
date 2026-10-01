@@ -1,8 +1,8 @@
 # P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt
 
-P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Bus zum Syndicate Festival 2026 (Hardcore)" on Sat, 3 Oct 2026.
+P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bus zum Syndicate Festival 2026 (Hardcore)" on Sat, 3 Oct 2026.
 
-P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt listed on soundcheck. 11 upcoming gigs, with line-ups including Abzocka, Act of Rage, aehm and Angerfist and 2 more. Browse upcoming dates, start times and who's playing. Hugo-Eckener-Ring.
+P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt is a music venue in Frankfurt listed on soundcheck. 11 upcoming gigs, with line-ups including Abzocka, Act of Rage, aehm and Angerfist and 2 more. See dates, start times and who's playing. Hugo-Eckener-Ring.
 
 ## What's on
 

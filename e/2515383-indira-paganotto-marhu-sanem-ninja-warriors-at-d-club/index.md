@@ -1,6 +1,6 @@
 # Indira Paganotto, Marhu, SANEM => Ninja warriors at D! Club
 
-Indira Paganotto, Marhu, SANEM => Ninja warriors at D! Club on Fri 16 Oct, Lausanne. 3 artists on the bill: Indira Paganotto, Marhu and SANEM. Preview the line-up and save it on soundcheck.
+Indira Paganotto, Marhu, SANEM => Ninja warriors at D! Club on Fri 16 Oct, Lausanne. 3 artists: Indira Paganotto, Marhu and SANEM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Synesthesia at TBA
 
-Synesthesia at TBA on Tue 8 Dec, Buenos Aires. Ambient and Downtempo. Preview the line-up and save it on soundcheck.
+Synesthesia at TBA on Tue 8 Dec, Buenos Aires. Ambient and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

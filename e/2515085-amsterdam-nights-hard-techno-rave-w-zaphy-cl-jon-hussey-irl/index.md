@@ -1,6 +1,6 @@
 # Amsterdam Nights: Hard Techno Rave w/ Zaphy [CL], Jon Hussey [IRL], DMS1N3RGY, Sashe at John Doe
 
-Amsterdam Nights: Hard Techno Rave w/ Zaphy [CL], Jon Hussey [IRL], DMS1N3RGY, Sashe at John Doe on Sat 3 Oct, Amsterdam. 4 artists on the bill: DMS1N3RGY, Jon Hussey, SASHE and Zaphy. Techno. Preview the line-up and save it on soundcheck.
+Amsterdam Nights: Hard Techno Rave w/ Zaphy [CL], Jon Hussey [IRL], DMS1N3RGY, Sashe at John Doe on Sat 3 Oct, Amsterdam. 4 artists: DMS1N3RGY, Jon Hussey, SASHE and Zaphy. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

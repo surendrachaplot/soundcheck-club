@@ -1,8 +1,8 @@
 # The Fox and Firkin
 
-The Fox and Firkin is a music venue in London with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Fast Soul Music" on Fri, 2 Oct 2026.
+The Fox and Firkin is a music venue in London with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Fast Soul Music" on Fri, 2 Oct 2026.
 
-The Fox and Firkin is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including African Head Charge, blissy e, Breaka and Charlie Bones and 2 more. Browse upcoming dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
+The Fox and Firkin is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including African Head Charge, blissy e, Breaka and Charlie Bones and 2 more. See dates, start times and who's playing. 316 Lewisham High Street London SE136JZ.
 
 ## What's on
 

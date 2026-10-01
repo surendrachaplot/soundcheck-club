@@ -1,6 +1,6 @@
 # Smolna: TRIPTYKH at Smolna
 
-Smolna: TRIPTYKH on Sat 28 Nov, Warsaw. 1 artist on the bill: TRIPTYKH. Techno. Preview the line-up and save it on soundcheck.
+Smolna: TRIPTYKH on Sat 28 Nov, Warsaw. 1 artist: TRIPTYKH. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

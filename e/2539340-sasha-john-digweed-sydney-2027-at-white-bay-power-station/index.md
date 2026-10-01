@@ -1,6 +1,6 @@
 # Sasha & John Digweed Sydney 2027 at White Bay Power Station
 
-Sasha & John Digweed Sydney 2027 at White Bay Power Station on Sat 6 Mar, Sydney. 8 artists on the bill: Ben Gomori, Jerk Boy, Marcel Vogel and Mimi J and 4 more. Preview the line-up and save it on soundcheck.
+Sasha & John Digweed Sydney 2027 at White Bay Power Station on Sat 6 Mar, Sydney. 8 artists: Ben Gomori, Jerk Boy, Marcel Vogel and Mimi J and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

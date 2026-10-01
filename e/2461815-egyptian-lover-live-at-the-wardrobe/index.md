@@ -1,6 +1,6 @@
 # Egyptian Lover (Live) at The Wardrobe
 
-Egyptian Lover (Live) at The Wardrobe on Sat 20 Feb, Leeds. 1 artist on the bill: Egyptian Lover. Preview the line-up and save it on soundcheck.
+Egyptian Lover (Live) at The Wardrobe on Sat 20 Feb, Leeds. 1 artist: Egyptian Lover. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

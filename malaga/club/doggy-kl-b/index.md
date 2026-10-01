@@ -1,8 +1,8 @@
 # Doggy Klœb
 
-Doggy Klœb is a music venue in Malaga with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Surco 13th Anniversary" on Fri, 2 Oct 2026.
+Doggy Klœb is a music venue in Malaga with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Surco 13th Anniversary" on Fri, 2 Oct 2026.
 
-Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming gigs, with line-ups including Andrés Sancho, Arval, Cesare vs Disorder and Daniel Kelsan and 2 more. Browse upcoming dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
+Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming gigs, with line-ups including Andrés Sancho, Arval, Cesare vs Disorder and Daniel Kelsan and 2 more. See dates, start times and who's playing. C. Casablanca, 13, 29620 Torremolinos, Málaga, Spain.
 
 ## What's on
 

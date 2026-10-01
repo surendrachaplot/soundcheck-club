@@ -1,6 +1,6 @@
 # WIFF BEFORE x barStudio at barStudio
 
-WIFF BEFORE x barStudio on Fri 2 Oct, Warsaw. Club and Electronica. Preview the line-up and save it on soundcheck.
+WIFF BEFORE x barStudio on Fri 2 Oct, Warsaw. Club and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # KERB Productions Presents: Trance-Port at Heebie Jeebies
 
-KERB Productions Presents: Trance-Port at Heebie Jeebies on Fri 11 Dec, Liverpool. Trance and House. Preview the line-up and save it on soundcheck.
+KERB Productions Presents: Trance-Port at Heebie Jeebies on Fri 11 Dec, Liverpool. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

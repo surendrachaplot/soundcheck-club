@@ -1,6 +1,6 @@
 # Tresor New Faces hosted by Scheißmukke at Tresor / Globus
 
-Tresor New Faces hosted by Scheißmukke at Tresor / Globus on Wed 28 Oct, Berlin. 4 artists on the bill: degen, Franziska Lindholz, Miss Italia and Natural Goofy. Techno. Preview the line-up and save it on soundcheck.
+Tresor New Faces hosted by Scheißmukke at Tresor / Globus on Wed 28 Oct, Berlin. 4 artists: degen, Franziska Lindholz, Miss Italia and Natural Goofy. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HALLOWEEN Parche OFFICIAL at City Hall
 
-HALLOWEEN Parche OFFICIAL at City Hall on Sat 31 Oct, Barcelona. Reggaeton. Preview the line-up and save it on soundcheck.
+HALLOWEEN Parche OFFICIAL at City Hall on Sat 31 Oct, Barcelona. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

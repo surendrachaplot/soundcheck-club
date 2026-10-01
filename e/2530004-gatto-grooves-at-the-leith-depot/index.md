@@ -1,6 +1,6 @@
 # Gatto Grooves at The Leith Depot
 
-Gatto Grooves at The Leith Depot on Thu 1 Oct, Edinburgh. Drum & Bass and Techno. Preview the line-up and save it on soundcheck.
+Gatto Grooves at The Leith Depot on Thu 1 Oct, Edinburgh. Drum & Bass and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

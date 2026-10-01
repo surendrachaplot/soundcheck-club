@@ -1,6 +1,6 @@
 # Halloween Party at Conny Club
 
-Halloween Party at Conny Club on Fri 30 Oct, Munster. Techno. Preview the line-up and save it on soundcheck.
+Halloween Party at Conny Club on Fri 30 Oct, Munster. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

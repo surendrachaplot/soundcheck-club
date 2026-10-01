@@ -1,8 +1,8 @@
 # Cecilia Ena
 
-Cecilia Ena is a Progressive House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brixton Radio, London on Fri, 2 Oct 2026.
+Cecilia Ena is a Progressive House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Brixton Radio, London on Fri, 2 Oct 2026.
 
-Cecilia Ena is a progressive house and techno artist based in Italy, tracked on soundcheck, with 34 sets logged across London. Often billed alongside Jesus RedSoul, hisnameisevgeni and Alan Mathew. Next up: Brixton Radio, London on Fri 2 Oct.
+Cecilia Ena is a progressive house and techno artist based in Italy, with 34 gigs on soundcheck across London. Often billed alongside Jesus RedSoul, hisnameisevgeni and Alan Mathew. Next up: Brixton Radio, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Cecilia Ena is a progressive house and techno artist based in Italy, tracked on 
 
 ## Recently played
 
-- Hoxton Cabin, London — Sat, 26 Sept 2026
-- TBA - Ride or Die Tattoo & Piercing , London — Sat, 11 Jul 2026
-- Hoxton Cabin, London — Sat, 6 Jun 2026
-- Hoxton Cabin, London — Sat, 25 Apr 2026
-- Hoxton Cabin, London — Sat, 7 Feb 2026
-- TBA - Ride or Die Tattoo & Piercing , London — Sat, 31 Jan 2026
-- Groovetank Live, London — Fri, 23 Jan 2026
-- TBA, London — Sun, 7 Sept 2025
+- Hoxton Cabin, London · Sat, 26 Sept 2026
+- TBA - Ride or Die Tattoo & Piercing , London · Sat, 11 Jul 2026
+- Hoxton Cabin, London · Sat, 6 Jun 2026
+- Hoxton Cabin, London · Sat, 25 Apr 2026
+- Hoxton Cabin, London · Sat, 7 Feb 2026
+- TBA - Ride or Die Tattoo & Piercing , London · Sat, 31 Jan 2026
+- Groovetank Live, London · Fri, 23 Jan 2026
+- TBA, London · Sun, 7 Sept 2025
 
 ## Shares bills with
 

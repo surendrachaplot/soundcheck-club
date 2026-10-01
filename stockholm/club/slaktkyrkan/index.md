@@ -1,13 +1,14 @@
 # Slaktkyrkan
 
-Slaktkyrkan is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY" on Sat, 28 Nov 2026.
+Slaktkyrkan is a music venue in Stockholm with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Rebūke - Stockholm" on Fri, 20 Nov 2026.
 
-Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including TBA. Browse upcoming dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov, Svezia.
+Slaktkyrkan is a music venue in Stockholm listed on soundcheck. 2 upcoming gigs, with line-ups including Rebuke and TBA. See dates, start times and who's playing. Styckmästargatan 10, 121 62 Johanneshov, Svezia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 20 Nov 2026 | Rebūke - Stockholm | Rebuke |
 | Sat, 28 Nov 2026 | DIMENSION - TECHNO STOCKHOLM — 3RD ANNIVERSARY | TBA |
 
 ## Address

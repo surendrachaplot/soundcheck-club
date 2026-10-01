@@ -1,8 +1,8 @@
 # Kiernan Laveaux
 
-Kiernan Laveaux is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Signal, New York City on Fri, 2 Oct 2026.
+Kiernan Laveaux is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Signal, New York City on Fri, 2 Oct 2026.
 
-Kiernan Laveaux is a techno and house artist based in United States of America, tracked on soundcheck, with 140 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: Signal, New York City on Fri 2 Oct.
+Kiernan Laveaux is a techno and house artist based in United States of America, with 140 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 26 more. Often billed alongside ADAB, CCL and Clarisa Kimskii. Next up: Signal, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Kiernan Laveaux is a techno and house artist based in United States of America, 
 
 ## Recently played
 
-- TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago — Fri, 25 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- TBA, Philadelphia — Fri, 11 Sept 2026
-- TBA - Camp Tall Timbers, WV, Washington DC — Fri, 4 Sept 2026
-- Mansions, New York City — Thu, 27 Aug 2026
-- TRANSMISSION DC, Washington DC — Sat, 1 Aug 2026
-- Bossa Nova Civic Club, New York City — Fri, 31 Jul 2026
-- 90mil, Berlin — Thu, 23 Jul 2026
+- TBA - LOCATION EMAILED TO TICKETHOLDERS, Chicago · Fri, 25 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- TBA, Philadelphia · Fri, 11 Sept 2026
+- TBA - Camp Tall Timbers, WV, Washington DC · Fri, 4 Sept 2026
+- Mansions, New York City · Thu, 27 Aug 2026
+- TRANSMISSION DC, Washington DC · Sat, 1 Aug 2026
+- Bossa Nova Civic Club, New York City · Fri, 31 Jul 2026
+- 90mil, Berlin · Thu, 23 Jul 2026
 
 ## Shares bills with
 

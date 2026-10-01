@@ -1,8 +1,8 @@
 # Descent
 
-Descent is a music venue in Boston with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Redbull: Turn It Up Boston" on Thu, 1 Oct 2026.
+Descent is a music venue in Boston with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Redbull: Turn It Up Boston" on Thu, 1 Oct 2026.
 
-Descent is a music venue in Boston listed on soundcheck. 10 upcoming gigs, with line-ups including Archie Hamilton, Cam Stockman, D.Dan and Dean Turnley and 2 more. Browse upcoming dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
+Descent is a music venue in Boston listed on soundcheck. 10 upcoming gigs, with line-ups including Archie Hamilton, Cam Stockman, D.Dan and Dean Turnley and 2 more. See dates, start times and who's playing. 33 Dunster St, Camridge MA,02138.
 
 ## What's on
 

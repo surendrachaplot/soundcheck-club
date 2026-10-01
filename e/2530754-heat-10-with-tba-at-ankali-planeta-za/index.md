@@ -1,6 +1,6 @@
 # HEAT 10 with TBA at Ankali & Planeta Za
 
-HEAT 10 with TBA at Ankali & Planeta Za on Sat 14 Nov, Prague. Techno and Electro. Preview the line-up and save it on soundcheck.
+HEAT 10 with TBA at Ankali & Planeta Za on Sat 14 Nov, Prague. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

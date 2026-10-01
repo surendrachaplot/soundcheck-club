@@ -1,6 +1,6 @@
 # SQIFF 2026 Closing Night Party: Paparazzi at The Art School
 
-SQIFF 2026 Closing Night Party: Paparazzi at The Art School on Sat 24 Oct, Glasgow. Pop and Club. Preview the line-up and save it on soundcheck.
+SQIFF 2026 Closing Night Party: Paparazzi at The Art School on Sat 24 Oct, Glasgow. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

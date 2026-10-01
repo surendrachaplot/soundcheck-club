@@ -1,8 +1,8 @@
 # Gabbs
 
-Gabbs is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Gabbs is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Gabbs is a house and techno artist based in Italy, tracked on soundcheck, with 186 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Gabbs is a house and techno artist based in Italy, with 186 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 40 more. Often billed alongside Alexia Glensy, Alex Dima and Cap. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Gabbs is a house and techno artist based in Italy, tracked on soundcheck, with 1
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Fünk, Mexico City — Fri, 18 Sept 2026
-- Bunker, Turin — Sat, 12 Sept 2026
-- Seaseaclub Barcelona, Barcelona — Sat, 5 Sept 2026
-- 314 Scholes, New York City — Sat, 8 Aug 2026
-- Flash, Washington DC — Fri, 7 Aug 2026
-- Tokonoma Club, Frankfurt — Sat, 25 Jul 2026
-- Vittoria Wharf Studio, London — Sat, 18 Jul 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Fünk, Mexico City · Fri, 18 Sept 2026
+- Bunker, Turin · Sat, 12 Sept 2026
+- Seaseaclub Barcelona, Barcelona · Sat, 5 Sept 2026
+- 314 Scholes, New York City · Sat, 8 Aug 2026
+- Flash, Washington DC · Fri, 7 Aug 2026
+- Tokonoma Club, Frankfurt · Sat, 25 Jul 2026
+- Vittoria Wharf Studio, London · Sat, 18 Jul 2026
 
 ## Shares bills with
 

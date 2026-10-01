@@ -1,8 +1,8 @@
 # CWTCH
 
-CWTCH is a electronic artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
+CWTCH is a electronic artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
 
-CWTCH is an electronic artist based in France, tracked on soundcheck, with 3 sets logged across Central and Rennes. Often billed alongside Blood of Aza, Katarina Gryvul and 69DB. Next up: Théâtre du Vieux St-Étienne, Rennes on Thu 1 Oct.
+CWTCH is an electronic artist based in France, with 3 gigs on soundcheck across Central and Rennes. Often billed alongside Blood of Aza, Katarina Gryvul and 69DB. Next up: Théâtre du Vieux St-Étienne, Rennes on Thu 1 Oct.
 
 ## Upcoming shows
 

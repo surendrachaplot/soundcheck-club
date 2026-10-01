@@ -1,8 +1,8 @@
 # Ignez
 
-Ignez is a Techno and House artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
+Ignez is a Techno and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
 
-Ignez is a techno and house artist based in Netherlands, tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and Rødhåd. Next up: Nitsa Club, Barcelona on Fri 2 Oct.
+Ignez is a techno and house artist based in Netherlands, with 199 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 59 more. Often billed alongside Yanamaste, Inox Traxx and Rødhåd. Next up: Nitsa Club, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Ignez is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 ## Recently played
 
-- 131 Mccormack St, Toronto — Fri, 25 Sept 2026
-- Stereo, Montreal — Fri, 25 Sept 2026
-- Signal, New York City — Thu, 24 Sept 2026
-- Amp, Munster — Sat, 19 Sept 2026
-- Lofi, Amsterdam — Sat, 19 Sept 2026
-- BASIS, Utrecht — Fri, 18 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 13 Sept 2026
-- KHIDI, Tbilisi — Fri, 11 Sept 2026
+- 131 Mccormack St, Toronto · Fri, 25 Sept 2026
+- Stereo, Montreal · Fri, 25 Sept 2026
+- Signal, New York City · Thu, 24 Sept 2026
+- Amp, Munster · Sat, 19 Sept 2026
+- Lofi, Amsterdam · Sat, 19 Sept 2026
+- BASIS, Utrecht · Fri, 18 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 13 Sept 2026
+- KHIDI, Tbilisi · Fri, 11 Sept 2026
 
 ## Shares bills with
 

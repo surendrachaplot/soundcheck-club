@@ -1,8 +1,8 @@
 # xxseokxx
 
-xxseokxx is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia, Bangkok on Fri, 2 Oct 2026.
+xxseokxx is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Amnesia, Bangkok on Fri, 2 Oct 2026.
 
-xxseokxx is a house and techno artist based in South Korea, tracked on soundcheck, with 11 sets logged across Bangkok and Seoul. Often billed alongside Liza (KR), Sam Laxton and LocoSoound. Next up: Amnesia, Bangkok on Fri 2 Oct.
+xxseokxx is a house and techno artist based in South Korea, with 11 gigs on soundcheck across Bangkok and Seoul. Often billed alongside Liza (KR), Sam Laxton and LocoSoound. Next up: Amnesia, Bangkok on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ xxseokxx is a house and techno artist based in South Korea, tracked on soundchec
 
 ## Recently played
 
-- Amnesia, Bangkok — Fri, 22 May 2026
-- Amnesia, Bangkok — Wed, 15 Apr 2026
-- Amnesia, Bangkok — Sat, 11 Apr 2026
-- TBA - Fuchsia Club Silom, Bangkok — Fri, 14 Mar 2025
-- Hole Seoul, Seoul — Sat, 4 May 2024
-- Ximxim Bar, Seoul — Sat, 27 Apr 2024
-- Hole Seoul, Seoul — Sat, 27 Jan 2024
-- Ximxim Bar, Seoul — Sat, 27 Jan 2024
+- Amnesia, Bangkok · Fri, 22 May 2026
+- Amnesia, Bangkok · Wed, 15 Apr 2026
+- Amnesia, Bangkok · Sat, 11 Apr 2026
+- TBA - Fuchsia Club Silom, Bangkok · Fri, 14 Mar 2025
+- Hole Seoul, Seoul · Sat, 4 May 2024
+- Ximxim Bar, Seoul · Sat, 27 Apr 2024
+- Hole Seoul, Seoul · Sat, 27 Jan 2024
+- Ximxim Bar, Seoul · Sat, 27 Jan 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Spectrum Waves: Anniversary at TBA - Paris
 
-Spectrum Waves: Anniversary at TBA - Paris on Fri 11 Dec, Paris. Techno. Preview the line-up and save it on soundcheck.
+Spectrum Waves: Anniversary at TBA - Paris on Fri 11 Dec, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

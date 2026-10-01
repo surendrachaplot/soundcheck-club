@@ -1,6 +1,6 @@
 # UNCONSCIOUS at Enter Shibuya
 
-UNCONSCIOUS at Enter Shibuya on Tue 13 Oct, Tokyo. 4 artists on the bill: Amps, GooPer, ISPA and Yuta Yamada. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+UNCONSCIOUS at Enter Shibuya on Tue 13 Oct, Tokyo. 4 artists: Amps, GooPer, ISPA and Yuta Yamada. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Daniel Blade 20HOUR DJ SET MARATHON at Truth
 
-Daniel Blade 20HOUR DJ SET MARATHON at Truth on Fri 23 Oct, Malta. 1 artist on the bill: Daniel Blade. Tech House. Preview the line-up and save it on soundcheck.
+Daniel Blade 20HOUR DJ SET MARATHON at Truth on Fri 23 Oct, Malta. 1 artist: Daniel Blade. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

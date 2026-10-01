@@ -1,8 +1,8 @@
 # Marco Bailey
 
-Marco Bailey is a Techno and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Marco Bailey is a Techno and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-Marco Bailey is a techno and tech house artist based in Belgium, tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Austria and 36 more. Often billed alongside SNTS, Chris Liebing and Dave Clarke. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Marco Bailey is a techno and tech house artist based in Belgium, with 95 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austria and 36 more. Often billed alongside SNTS, Chris Liebing and Dave Clarke. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Marco Bailey is a techno and tech house artist based in Belgium, tracked on soun
 
 ## Recently played
 
-- TRAUM, Antwerp — Sat, 19 Sept 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 29 Aug 2026
-- Esbirra Ibiza, Ibiza — Fri, 24 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Rachdingue, Barcelona — Tue, 23 Jun 2026
-- Stadhuis Mechelen, Antwerp — Fri, 5 Jun 2026
-- Esbirra Ibiza, Ibiza — Fri, 15 May 2026
-- LAB theCLUB, Madrid — Fri, 8 May 2026
+- TRAUM, Antwerp · Sat, 19 Sept 2026
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 29 Aug 2026
+- Esbirra Ibiza, Ibiza · Fri, 24 Jul 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- Rachdingue, Barcelona · Tue, 23 Jun 2026
+- Stadhuis Mechelen, Antwerp · Fri, 5 Jun 2026
+- Esbirra Ibiza, Ibiza · Fri, 15 May 2026
+- LAB theCLUB, Madrid · Fri, 8 May 2026
 
 ## Shares bills with
 

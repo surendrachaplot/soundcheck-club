@@ -1,6 +1,6 @@
 # HYDRA at Sigma
 
-HYDRA at Sigma on Mon 5 Oct, Ibiza. Tech House. Preview the line-up and save it on soundcheck.
+HYDRA at Sigma on Mon 5 Oct, Ibiza. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Curses at Sala Nazca
 
-Curses at Sala Nazca on Fri 6 Nov, Madrid. 1 artist on the bill: Curses. Preview the line-up and save it on soundcheck.
+Curses at Sala Nazca on Fri 6 Nov, Madrid. 1 artist: Curses. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

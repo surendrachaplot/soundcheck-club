@@ -1,6 +1,6 @@
 # - at TBA
 
-- at TBA on Thu 15 Oct, Malta. Trance and Techno. Preview the line-up and save it on soundcheck.
+- at TBA on Thu 15 Oct, Malta. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

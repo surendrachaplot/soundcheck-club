@@ -1,8 +1,8 @@
 # OMA
 
-OMA is a music venue in Hong Kong with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Techno Wednesday (Driving/Peaktime Techno & Hard Techno) Vol. 15" on Thu, 22 Oct 2026.
+OMA is a music venue in Hong Kong with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Techno Wednesday (Driving/Peaktime Techno & Hard Techno) Vol. 15" on Thu, 22 Oct 2026.
 
-OMA is a music venue in Hong Kong listed on soundcheck. 1 upcoming gig, with line-ups including kimmy6.6.6. Browse upcoming dates, start times and who's playing. Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong.
+OMA is a music venue in Hong Kong listed on soundcheck. 1 upcoming gig, with line-ups including kimmy6.6.6. See dates, start times and who's playing. Lower Basement, Harilela House, 79 Wyndham Street, Central District, Hong Kong.
 
 ## What's on
 

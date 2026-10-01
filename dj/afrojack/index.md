@@ -1,8 +1,8 @@
 # Afrojack
 
-Afrojack is a House and Progressive House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at New City Gas, Montreal on Sat, 3 Oct 2026.
+Afrojack is a House and Progressive House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at New City Gas, Montreal on Sat, 3 Oct 2026.
 
-Afrojack is a house and progressive house artist based in Netherlands, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Boston and Buenos Aires and 19 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: New City Gas, Montreal on Sat 3 Oct.
+Afrojack is a house and progressive house artist based in Netherlands, with 57 gigs on soundcheck across Amsterdam, Athens, Boston and Buenos Aires and 19 more. Often billed alongside David Guetta, Paul Reynolds and Francis Mercier. Next up: New City Gas, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Afrojack is a house and progressive house artist based in Netherlands, tracked o
 
 ## Recently played
 
-- E11EVEN MIAMI, Miami — Fri, 25 Sept 2026
-- Olympic Athletic Center of Athens, Athens — Fri, 4 Sept 2026
-- Big Night Live, Boston — Fri, 28 Aug 2026
-- Cavo Paradiso, Mykonos — Fri, 14 Aug 2026
-- Cavo Paradiso, Mykonos — Sat, 8 Aug 2026
-- Hï Ibiza, Ibiza — Mon, 3 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Thu, 30 Jul 2026
-- Cavo Paradiso, Mykonos — Thu, 23 Jul 2026
+- E11EVEN MIAMI, Miami · Fri, 25 Sept 2026
+- Olympic Athletic Center of Athens, Athens · Fri, 4 Sept 2026
+- Big Night Live, Boston · Fri, 28 Aug 2026
+- Cavo Paradiso, Mykonos · Fri, 14 Aug 2026
+- Cavo Paradiso, Mykonos · Sat, 8 Aug 2026
+- Hï Ibiza, Ibiza · Mon, 3 Aug 2026
+- Ushuaïa Ibiza, Ibiza · Thu, 30 Jul 2026
+- Cavo Paradiso, Mykonos · Thu, 23 Jul 2026
 
 ## Shares bills with
 

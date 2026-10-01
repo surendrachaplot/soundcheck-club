@@ -1,6 +1,6 @@
 # STARLIGHT FESTIVAL at The Great Pyramids OF Giza
 
-STARLIGHT FESTIVAL at The Great Pyramids OF Giza on Fri 9 Oct, Egypt. 13 artists on the bill: Adriatique, AWEN, Baset and BIIA and 9 more. Preview the line-up and save it on soundcheck.
+STARLIGHT FESTIVAL at The Great Pyramids OF Giza on Fri 9 Oct, Egypt. 13 artists: Adriatique, AWEN, Baset and BIIA and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

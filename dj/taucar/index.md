@@ -1,8 +1,8 @@
 # Tau Car
 
-Tau Car is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Radio Pirate, Paris on Sat, 3 Oct 2026.
+Tau Car is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Radio Pirate, Paris on Sat, 3 Oct 2026.
 
-Tau Car is a house and electro artist based in France, tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 27 more. Often billed alongside International Mac, Edward and Konstantin. Next up: Radio Pirate, Paris on Sat 3 Oct.
+Tau Car is a house and electro artist based in France, with 115 gigs on soundcheck across Amsterdam, Antwerp, Bangkok and Barcelona and 27 more. Often billed alongside International Mac, Edward and Konstantin. Next up: Radio Pirate, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Tau Car is a house and electro artist based in France, tracked on soundcheck, wi
 
 ## Recently played
 
-- Haus der Visionäre, Berlin — Sat, 26 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 4 Sept 2026
-- Zur Insel, Frankfurt — Sat, 8 Aug 2026
-- Club der Visionaere, Berlin — Sun, 2 Aug 2026
-- TBA - Secret Location, London — Fri, 17 Jul 2026
-- Club der Visionaere, Berlin — Tue, 14 Jul 2026
-- Renate, Berlin — Fri, 3 Jul 2026
-- TBA - Barbatana Foz de Lizandro, Lisbon — Sat, 6 Jun 2026
+- Haus der Visionäre, Berlin · Sat, 26 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 4 Sept 2026
+- Zur Insel, Frankfurt · Sat, 8 Aug 2026
+- Club der Visionaere, Berlin · Sun, 2 Aug 2026
+- TBA - Secret Location, London · Fri, 17 Jul 2026
+- Club der Visionaere, Berlin · Tue, 14 Jul 2026
+- Renate, Berlin · Fri, 3 Jul 2026
+- TBA - Barbatana Foz de Lizandro, Lisbon · Sat, 6 Jun 2026
 
 ## Shares bills with
 

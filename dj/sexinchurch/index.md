@@ -1,8 +1,8 @@
 # SEXINCHURCH
 
-SEXINCHURCH is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paragon, New York City on Fri, 30 Oct 2026.
+SEXINCHURCH is a Techno and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Fri, 30 Oct 2026.
 
-SEXINCHURCH is a techno and club artist based in United States of America, tracked on soundcheck, with 30 sets logged across New York City. Often billed alongside BLAIZE, DJ Sour and Ms Carrie Stacks. Next up: Paragon, New York City on Fri 30 Oct.
+SEXINCHURCH is a techno and club artist based in United States of America, with 30 gigs on soundcheck across New York City. Often billed alongside BLAIZE, DJ Sour and Ms Carrie Stacks. Next up: Paragon, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SEXINCHURCH is a techno and club artist based in United States of America, track
 
 ## Recently played
 
-- Bossa Nova Civic Club, New York City — Thu, 24 Sept 2026
-- Bossa Nova Civic Club, New York City — Sat, 19 Sept 2026
-- Bossa Nova Civic Club, New York City — Wed, 9 Sept 2026
-- Paragon, New York City — Sat, 1 Aug 2026
-- The Bush Dyke Bar, New York City — Fri, 31 Jul 2026
-- Bossa Nova Civic Club, New York City — Thu, 23 Jul 2026
-- Happyfun Hideaway, New York City — Sat, 4 Jul 2026
-- Nowadays, New York City — Sun, 28 Jun 2026
+- Bossa Nova Civic Club, New York City · Thu, 24 Sept 2026
+- Bossa Nova Civic Club, New York City · Sat, 19 Sept 2026
+- Bossa Nova Civic Club, New York City · Wed, 9 Sept 2026
+- Paragon, New York City · Sat, 1 Aug 2026
+- The Bush Dyke Bar, New York City · Fri, 31 Jul 2026
+- Bossa Nova Civic Club, New York City · Thu, 23 Jul 2026
+- Happyfun Hideaway, New York City · Sat, 4 Jul 2026
+- Nowadays, New York City · Sun, 28 Jun 2026
 
 ## Shares bills with
 

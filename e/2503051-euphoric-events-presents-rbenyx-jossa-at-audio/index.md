@@ -1,6 +1,6 @@
 # Euphoric Events Presents: ØRBENYX & JOSSA at Audio
 
-Euphoric Events Presents: ØRBENYX & JOSSA at Audio on Fri 13 Nov, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+Euphoric Events Presents: ØRBENYX & JOSSA at Audio on Fri 13 Nov, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

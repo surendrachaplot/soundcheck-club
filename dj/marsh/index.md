@@ -1,8 +1,8 @@
 # Marsh
 
-Marsh is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
+Marsh is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Blackstone Street Warehouse, Liverpool on Sat, 17 Oct 2026.
 
-Marsh is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 37 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: Blackstone Street Warehouse, Liverpool on Sat 17 Oct.
+Marsh is a progressive house and house artist based in United Kingdom, with 124 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 37 more. Often billed alongside Jody Wisternoff, Durante and Hana. Next up: Blackstone Street Warehouse, Liverpool on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Marsh is a progressive house and house artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- Old Royal Naval College, London — Sun, 9 Aug 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- ZEROTOKYO, Tokyo — Sat, 18 Jul 2026
-- Bauhaus, Houston — Fri, 17 Jul 2026
-- Piknic Électronik / Parc Jean Drapeau, Montreal — Sat, 4 Jul 2026
-- Club Vinyl, Denver — Fri, 3 Jul 2026
-- Life Park, Istanbul — Sun, 28 Jun 2026
-- UTOPIA / DYSTOPIA, Tokyo — Sat, 6 Jun 2026
+- Old Royal Naval College, London · Sun, 9 Aug 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
+- ZEROTOKYO, Tokyo · Sat, 18 Jul 2026
+- Bauhaus, Houston · Fri, 17 Jul 2026
+- Piknic Électronik / Parc Jean Drapeau, Montreal · Sat, 4 Jul 2026
+- Club Vinyl, Denver · Fri, 3 Jul 2026
+- Life Park, Istanbul · Sun, 28 Jun 2026
+- UTOPIA / DYSTOPIA, Tokyo · Sat, 6 Jun 2026
 
 ## Shares bills with
 

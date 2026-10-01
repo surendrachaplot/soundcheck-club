@@ -1,6 +1,6 @@
 # Christian Löffler LIVE – Fall 2026 Tour at ZeyZey
 
-Christian Löffler LIVE – Fall 2026 Tour at ZeyZey on Fri 13 Nov, Miami. 1 artist on the bill: Christian Löffler. Techno and Ambient. Preview the line-up and save it on soundcheck.
+Christian Löffler LIVE – Fall 2026 Tour at ZeyZey on Fri 13 Nov, Miami. 1 artist: Christian Löffler. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

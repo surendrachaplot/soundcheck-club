@@ -1,6 +1,6 @@
 # Footprints Jazz Club: Zumbi at The System
 
-Footprints Jazz Club: Zumbi at The System on Thu 29 Oct, Sheffield. Jazz. Preview the line-up and save it on soundcheck.
+Footprints Jazz Club: Zumbi at The System on Thu 29 Oct, Sheffield. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

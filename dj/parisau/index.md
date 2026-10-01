@@ -1,8 +1,8 @@
 # PARIS (AU)
 
-PARIS (AU) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Petco Park, San-diego on Thu, 31 Dec 2026.
+PARIS (AU) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Petco Park, San-diego on Thu, 31 Dec 2026.
 
-PARIS (AU) is a techno and house artist based in Australia, tracked on soundcheck, with 45 sets logged across Barcelona, Brisbane, Cologne and Geneva and 7 more. Often billed alongside TBA, Moulin and After X. Next up: Petco Park, San Diego on Thu 31 Dec.
+PARIS (AU) is a techno and house artist based in Australia, with 45 gigs on soundcheck across Barcelona, Brisbane, Cologne and Geneva and 7 more. Often billed alongside TBA, Moulin and After X. Next up: Petco Park, San Diego on Thu 31 Dec.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ PARIS (AU) is a techno and house artist based in Australia, tracked on soundchec
 
 ## Recently played
 
-- Babour Sauvage, Paris — Sat, 19 Sept 2026
-- Il Mercato Centrale, Melbourne — Sat, 11 Jul 2026
-- High Lights - Barking Park, London — Fri, 22 May 2026
-- Le Hasard Ludique, Paris — Sat, 25 Apr 2026
-- Super5, Lyon — Thu, 23 Apr 2026
-- Charlotte Bar, Paris — Thu, 12 Mar 2026
-- à la Folie Paris, Paris — Fri, 27 Feb 2026
-- Nouveau Casino, Paris — Sat, 21 Feb 2026
+- Babour Sauvage, Paris · Sat, 19 Sept 2026
+- Il Mercato Centrale, Melbourne · Sat, 11 Jul 2026
+- High Lights - Barking Park, London · Fri, 22 May 2026
+- Le Hasard Ludique, Paris · Sat, 25 Apr 2026
+- Super5, Lyon · Thu, 23 Apr 2026
+- Charlotte Bar, Paris · Thu, 12 Mar 2026
+- à la Folie Paris, Paris · Fri, 27 Feb 2026
+- Nouveau Casino, Paris · Sat, 21 Feb 2026
 
 ## Shares bills with
 

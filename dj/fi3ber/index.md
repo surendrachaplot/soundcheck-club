@@ -1,8 +1,8 @@
 # FI3BER
 
-FI3BER is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at ://about blank, Berlin on Fri, 9 Oct 2026.
+FI3BER is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ://about blank, Berlin on Fri, 9 Oct 2026.
 
-FI3BER is a techno and house artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Hamburg. Often billed alongside Anne-Lu, LEAN MARIS and DJ Semisecco. Next up: ://about blank, Berlin on Fri 9 Oct.
+FI3BER is a techno and house artist based in Germany, with 12 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Anne-Lu, LEAN MARIS and DJ Semisecco. Next up: ://about blank, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ FI3BER is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Helgoländer Allee, Hamburg — Sat, 29 Aug 2026
-- Gängeviertel, Hamburg — Thu, 30 Apr 2026
-- TBA - Große Elbstraße, Hamburg — Sat, 30 Aug 2025
-- Ms Dockville, Hamburg — Fri, 15 Aug 2025
-- Fabrique im Gängeviertel, Hamburg — Fri, 16 May 2025
-- Uebel & Gefährlich, Hamburg — Fri, 11 Apr 2025
-- Fundbureau, Hamburg — Fri, 21 Feb 2025
-- Monarch, Berlin — Sun, 16 Feb 2025
+- Helgoländer Allee, Hamburg · Sat, 29 Aug 2026
+- Gängeviertel, Hamburg · Thu, 30 Apr 2026
+- TBA - Große Elbstraße, Hamburg · Sat, 30 Aug 2025
+- Ms Dockville, Hamburg · Fri, 15 Aug 2025
+- Fabrique im Gängeviertel, Hamburg · Fri, 16 May 2025
+- Uebel & Gefährlich, Hamburg · Fri, 11 Apr 2025
+- Fundbureau, Hamburg · Fri, 21 Feb 2025
+- Monarch, Berlin · Sun, 16 Feb 2025
 
 ## Shares bills with
 

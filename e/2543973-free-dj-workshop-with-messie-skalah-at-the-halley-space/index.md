@@ -1,6 +1,6 @@
 # FREE DJ WORKSHOP with MESSIE & SKALAH at The Halley Space
 
-FREE DJ WORKSHOP with MESSIE & SKALAH at The Halley Space on Thu 1 Oct, London. 2 artists on the bill: MESSIE and SKALAH (UK). Preview the line-up and save it on soundcheck.
+FREE DJ WORKSHOP with MESSIE & SKALAH at The Halley Space on Thu 1 Oct, London. 2 artists: MESSIE and SKALAH (UK). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

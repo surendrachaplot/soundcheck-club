@@ -1,6 +1,6 @@
 # VioleTT Pi + Kill Me Don't Panic + Second Major at Toï Toï, Le Zinc
 
-VioleTT Pi + Kill Me Don't Panic + Second Major at Toï Toï, Le Zinc on Thu 15 Oct, Lyon. Preview the line-up and save it on soundcheck.
+VioleTT Pi + Kill Me Don't Panic + Second Major at Toï Toï, Le Zinc on Thu 15 Oct, Lyon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cutting Floor - Aanjaalii + more at Bunker Club
 
-Cutting Floor - Aanjaalii + more at Bunker Club on Fri 16 Oct, London. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Cutting Floor - Aanjaalii + more at Bunker Club on Fri 16 Oct, London. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

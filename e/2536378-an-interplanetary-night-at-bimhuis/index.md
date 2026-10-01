@@ -1,6 +1,6 @@
 # An Interplanetary Night at Bimhuis
 
-An Interplanetary Night at Bimhuis on Fri 9 Oct, Amsterdam. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+An Interplanetary Night at Bimhuis on Fri 9 Oct, Amsterdam. Experimental and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

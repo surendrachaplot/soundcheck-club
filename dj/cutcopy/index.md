@@ -1,8 +1,8 @@
 # Cut Copy
 
-Cut Copy is a House and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Momentary, Arkansas on Fri, 6 Nov 2026.
+Cut Copy is a House and Electronica artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Momentary, Arkansas on Fri, 6 Nov 2026.
 
-Cut Copy is a house and electronica artist based in Australia, tracked on soundcheck, with 15 sets logged across Arkansas, Chicago, Denver and Los Angeles and 6 more. Often billed alongside Crazy P, nimino and ANTIMATTER. Next up: The Momentary, Arkansas on Fri 6 Nov.
+Cut Copy is a house and electronica artist based in Australia, with 15 gigs on soundcheck across Arkansas, Chicago, Denver and Los Angeles and 6 more. Often billed alongside Crazy P, nimino and ANTIMATTER. Next up: The Momentary, Arkansas on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Cut Copy is a house and electronica artist based in Australia, tracked on soundc
 
 ## Recently played
 
-- Frontón Bucareli, Mexico City — Sun, 5 Jul 2026
-- The Rail, San Diego — Sun, 15 Mar 2026
-- Waterfront Park in San Diego, San Diego — Sat, 14 Mar 2026
-- Royal Botanic Gardens, Melbourne — Fri, 13 Mar 2026
-- Meredith Supernatural Ampitheatre, Melbourne — Sat, 7 Mar 2026
-- Ramova Theatre, Chicago — Sun, 23 Nov 2025
-- The Regency Ballroom, San Francisco/Oakland — Thu, 13 Nov 2025
-- Fairfield Amphitheatre, Melbourne — Sat, 1 Nov 2025
+- Frontón Bucareli, Mexico City · Sun, 5 Jul 2026
+- The Rail, San Diego · Sun, 15 Mar 2026
+- Waterfront Park in San Diego, San Diego · Sat, 14 Mar 2026
+- Royal Botanic Gardens, Melbourne · Fri, 13 Mar 2026
+- Meredith Supernatural Ampitheatre, Melbourne · Sat, 7 Mar 2026
+- Ramova Theatre, Chicago · Sun, 23 Nov 2025
+- The Regency Ballroom, San Francisco/Oakland · Thu, 13 Nov 2025
+- Fairfield Amphitheatre, Melbourne · Sat, 1 Nov 2025
 
 ## Shares bills with
 

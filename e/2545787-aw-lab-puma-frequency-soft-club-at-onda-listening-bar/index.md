@@ -1,6 +1,6 @@
 # AW LAB & PUMA Frequency Soft Club at Onda Listening Bar
 
-AW LAB & PUMA Frequency Soft Club at Onda Listening Bar on Sat 3 Oct, Milan. 2 artists on the bill: Krystal Kostee and Luwei. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+AW LAB & PUMA Frequency Soft Club at Onda Listening Bar on Sat 3 Oct, Milan. 2 artists: Krystal Kostee and Luwei. Downtempo and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

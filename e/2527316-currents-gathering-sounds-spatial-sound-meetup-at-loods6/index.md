@@ -1,6 +1,6 @@
 # Currents - Gathering Sounds: Spatial Sound Meetup at Loods6
 
-Currents - Gathering Sounds: Spatial Sound Meetup at Loods6 on Sun 25 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Currents - Gathering Sounds: Spatial Sound Meetup at Loods6 on Sun 25 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Ursula Erdmann
 
-Ursula Erdmann is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Renate, Berlin on Fri, 2 Oct 2026.
+Ursula Erdmann is a House and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Renate, Berlin on Fri, 2 Oct 2026.
 
-Ursula Erdmann is a house and trance artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Cologne. Often billed alongside ZAHNATZIN, DJ Hyperdrive and DJ Palga. Next up: Renate, Berlin on Fri 2 Oct.
+Ursula Erdmann is a house and trance artist based in Germany, with 15 gigs on soundcheck across Berlin and Cologne. Often billed alongside ZAHNATZIN, DJ Hyperdrive and DJ Palga. Next up: Renate, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ursula Erdmann is a house and trance artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- Südbrücke Open Air, Cologne — Sat, 15 Aug 2026
-- Schrotty, Cologne — Sat, 8 Aug 2026
-- Schrotty, Cologne — Sun, 5 Apr 2026
-- Schrotty, Cologne — Fri, 30 Jan 2026
-- fi, Cologne — Sat, 13 Dec 2025
-- Helios37, Cologne — Fri, 7 Nov 2025
-- Odonien, Cologne — Sat, 6 Sept 2025
-- Helios37, Cologne — Fri, 4 Jul 2025
+- Südbrücke Open Air, Cologne · Sat, 15 Aug 2026
+- Schrotty, Cologne · Sat, 8 Aug 2026
+- Schrotty, Cologne · Sun, 5 Apr 2026
+- Schrotty, Cologne · Fri, 30 Jan 2026
+- fi, Cologne · Sat, 13 Dec 2025
+- Helios37, Cologne · Fri, 7 Nov 2025
+- Odonien, Cologne · Sat, 6 Sept 2025
+- Helios37, Cologne · Fri, 4 Jul 2025
 
 ## Shares bills with
 

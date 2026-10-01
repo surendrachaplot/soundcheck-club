@@ -1,6 +1,6 @@
 # ATLiens at Radius
 
-ATLiens at Radius on Fri 30 Oct, Chicago. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+ATLiens at Radius on Fri 30 Oct, Chicago. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

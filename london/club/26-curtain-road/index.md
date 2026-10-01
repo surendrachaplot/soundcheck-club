@@ -1,8 +1,8 @@
 # 26 Curtain Road
 
-26 Curtain Road is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Strictly Vinyl free Thursdays w Jim Tything (For the Time Being) " on Thu, 1 Oct 2026.
+26 Curtain Road is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Strictly Vinyl free Thursdays w Jim Tything (For the Time Being) " on Thu, 1 Oct 2026.
 
-26 Curtain Road is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Neil Thornton. Browse upcoming dates, start times and who's playing. 26 Curtain Road, London, EC2A 3NY.
+26 Curtain Road is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Neil Thornton. See dates, start times and who's playing. 26 Curtain Road, London, EC2A 3NY.
 
 ## What's on
 

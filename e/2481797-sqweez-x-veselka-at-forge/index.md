@@ -1,6 +1,6 @@
 # Sqweez! x VESELKA at Forge
 
-Sqweez! x VESELKA at Forge on Fri 20 Nov, Bucharest. Techno. Preview the line-up and save it on soundcheck.
+Sqweez! x VESELKA at Forge on Fri 20 Nov, Bucharest. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

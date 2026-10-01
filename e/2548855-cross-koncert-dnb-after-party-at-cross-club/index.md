@@ -1,6 +1,6 @@
 # CROSS KONCERT & DNB AFTER PARTY at Cross Club
 
-CROSS KONCERT & DNB AFTER PARTY at Cross Club on Thu 8 Oct, Prague. Preview the line-up and save it on soundcheck.
+CROSS KONCERT & DNB AFTER PARTY at Cross Club on Thu 8 Oct, Prague. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

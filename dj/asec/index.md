@@ -1,8 +1,8 @@
 # ASEC
 
-ASEC is a Techno and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
+ASEC is a Techno and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
 
-ASEC is a techno and electronica artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Amsterdam, Berlin, Brussels and Glasgow and 10 more. Often billed alongside Beste Hira, P.E.A.R.L. and Tommy Four Seven. Next up: Soul SKG, Thessaloniki on Fri 30 Oct.
+ASEC is a techno and electronica artist based in United Kingdom, with 36 gigs on soundcheck across Amsterdam, Berlin, Brussels and Glasgow and 10 more. Often billed alongside Beste Hira, P.E.A.R.L. and Tommy Four Seven. Next up: Soul SKG, Thessaloniki on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ ASEC is a techno and electronica artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Tresor / Globus, Berlin — Sat, 11 Jul 2026
-- RSO.BERLIN, Berlin — Sat, 6 Jun 2026
-- Karoline 45, Hamburg — Sat, 30 May 2026
-- Distillery, Leipzig — Sat, 25 Apr 2026
-- RADION, Amsterdam — Sat, 11 Apr 2026
-- Circolo Amelia, Milan — Sat, 4 Apr 2026
-- Tresor / Globus, Berlin — Fri, 6 Mar 2026
-- Tresor / Globus, Berlin — Sat, 15 Nov 2025
+- Tresor / Globus, Berlin · Sat, 11 Jul 2026
+- RSO.BERLIN, Berlin · Sat, 6 Jun 2026
+- Karoline 45, Hamburg · Sat, 30 May 2026
+- Distillery, Leipzig · Sat, 25 Apr 2026
+- RADION, Amsterdam · Sat, 11 Apr 2026
+- Circolo Amelia, Milan · Sat, 4 Apr 2026
+- Tresor / Globus, Berlin · Fri, 6 Mar 2026
+- Tresor / Globus, Berlin · Sat, 15 Nov 2025
 
 ## Shares bills with
 

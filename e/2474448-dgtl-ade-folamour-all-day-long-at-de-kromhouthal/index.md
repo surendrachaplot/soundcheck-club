@@ -1,6 +1,6 @@
 # DGTL ADE Folamour All Day Long at De Kromhouthal
 
-DGTL ADE Folamour All Day Long at De Kromhouthal on Sun 25 Oct, Amsterdam. 1 artist on the bill: Folamour. Disco. Preview the line-up and save it on soundcheck.
+DGTL ADE Folamour All Day Long at De Kromhouthal on Sun 25 Oct, Amsterdam. 1 artist: Folamour. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

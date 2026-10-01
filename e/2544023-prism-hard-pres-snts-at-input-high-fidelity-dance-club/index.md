@@ -1,6 +1,6 @@
 # PRISM Hard pres SNTS at INPUT High Fidelity Dance Club
 
-PRISM Hard pres SNTS at INPUT High Fidelity Dance Club on Mon 7 Dec, Barcelona. 2 artists on the bill: moUnique and SNTS. Techno. Preview the line-up and save it on soundcheck.
+PRISM Hard pres SNTS at INPUT High Fidelity Dance Club on Mon 7 Dec, Barcelona. 2 artists: moUnique and SNTS. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

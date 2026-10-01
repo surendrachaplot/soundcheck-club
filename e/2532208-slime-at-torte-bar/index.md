@@ -1,6 +1,6 @@
 # SLIME at TORTE BAR
 
-SLIME at TORTE BAR on Wed 28 Oct, Berlin. 2 artists on the bill: Chaosmos and Mister Teaser. Experimental and Noise. Preview the line-up and save it on soundcheck.
+SLIME at TORTE BAR on Wed 28 Oct, Berlin. 2 artists: Chaosmos and Mister Teaser. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

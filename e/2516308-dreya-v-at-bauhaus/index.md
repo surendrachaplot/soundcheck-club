@@ -1,6 +1,6 @@
 # DREYA V at Bauhaus
 
-DREYA V at Bauhaus on Thu 15 Oct, Houston. Techno and House. Preview the line-up and save it on soundcheck.
+DREYA V at Bauhaus on Thu 15 Oct, Houston. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

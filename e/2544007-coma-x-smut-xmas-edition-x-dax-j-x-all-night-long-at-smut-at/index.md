@@ -1,6 +1,6 @@
 # Coma x SMUT XMAS EDITION x DAX J x ALL NIGHT LONG at SMUT Athens
 
-Coma x SMUT XMAS EDITION x DAX J x ALL NIGHT LONG at SMUT Athens on Thu 24 Dec, Athens. 1 artist on the bill: DAX J. Techno. Preview the line-up and save it on soundcheck.
+Coma x SMUT XMAS EDITION x DAX J x ALL NIGHT LONG at SMUT Athens on Thu 24 Dec, Athens. 1 artist: DAX J. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Binomi
 
-Binomi is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at LAUT, Barcelona on Fri, 23 Oct 2026.
+Binomi is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at LAUT, Barcelona on Fri, 23 Oct 2026.
 
-Binomi is a techno and ambient artist based in Spain, tracked on soundcheck, with 10 sets logged across Barcelona and Malta. Often billed alongside ABSIS, Imox and Josh Hoppen. Next up: LAUT, Barcelona on Fri 23 Oct.
+Binomi is a techno and ambient artist based in Spain, with 10 gigs on soundcheck across Barcelona and Malta. Often billed alongside ABSIS, Imox and Josh Hoppen. Next up: LAUT, Barcelona on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Binomi is a techno and ambient artist based in Spain, tracked on soundcheck, wit
 
 ## Recently played
 
-- TBA - Pratdip (Tarragona, Spain), Barcelona — Fri, 21 Aug 2026
-- The Vault at Gianpula Village, Malta — Sat, 15 Nov 2025
-- TBA, Barcelona — Sat, 13 Sept 2025
-- LAUT, Barcelona — Fri, 30 May 2025
-- LAUT, Barcelona — Fri, 1 Mar 2024
-- LAUT, Barcelona — Fri, 5 May 2023
-- El Castell De Montjuic, Barcelona — Thu, 6 Apr 2023
-- LAUT, Barcelona — Fri, 27 Jan 2023
+- TBA - Pratdip (Tarragona, Spain), Barcelona · Fri, 21 Aug 2026
+- The Vault at Gianpula Village, Malta · Sat, 15 Nov 2025
+- TBA, Barcelona · Sat, 13 Sept 2025
+- LAUT, Barcelona · Fri, 30 May 2025
+- LAUT, Barcelona · Fri, 1 Mar 2024
+- LAUT, Barcelona · Fri, 5 May 2023
+- El Castell De Montjuic, Barcelona · Thu, 6 Apr 2023
+- LAUT, Barcelona · Fri, 27 Jan 2023
 
 ## Shares bills with
 

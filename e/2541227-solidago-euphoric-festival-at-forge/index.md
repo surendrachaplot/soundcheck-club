@@ -1,6 +1,6 @@
 # Solidago — Euphoric Festival at Forge
 
-Solidago — Euphoric Festival at Forge on Sat 3 Oct, Bucharest. Preview the line-up and save it on soundcheck.
+Solidago — Euphoric Festival at Forge on Sat 3 Oct, Bucharest. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

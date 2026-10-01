@@ -1,8 +1,8 @@
 # Dr Banana
 
-Dr Banana is a House and Garage artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Dr Banana is a House and Garage artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Dr Banana is a house and garage artist based in United Kingdom, tracked on soundcheck, with 253 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 41 more. Often billed alongside Laidlaw, Melody RA+RE and Enzo Siragusa. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Dr Banana is a house and garage artist based in United Kingdom, with 253 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Berlin and 41 more. Often billed alongside Laidlaw, Melody RA+RE and Enzo Siragusa. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ Dr Banana is a house and garage artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- UNO MALTA, Malta — Thu, 17 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- TBA - KENT COUNTY SHOWGROUND, London — Sat, 12 Sept 2026
-- PRST, Vienna — Fri, 11 Sept 2026
-- PROGRESS, Manchester — Sun, 30 Aug 2026
-- The Loft, Manchester — Sun, 30 Aug 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- UNO MALTA, Malta · Thu, 17 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- TBA - KENT COUNTY SHOWGROUND, London · Sat, 12 Sept 2026
+- PRST, Vienna · Fri, 11 Sept 2026
+- PROGRESS, Manchester · Sun, 30 Aug 2026
+- The Loft, Manchester · Sun, 30 Aug 2026
 
 ## Shares bills with
 

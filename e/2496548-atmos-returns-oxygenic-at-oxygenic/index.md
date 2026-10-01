@@ -1,6 +1,6 @@
 # ATMOS returns // Oxygenic at Oxygenic
 
-ATMOS returns // Oxygenic on Sat 3 Oct, Newcastle. House and Disco. Preview the line-up and save it on soundcheck.
+ATMOS returns // Oxygenic on Sat 3 Oct, Newcastle. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

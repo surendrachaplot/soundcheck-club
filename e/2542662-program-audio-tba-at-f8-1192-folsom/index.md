@@ -1,6 +1,6 @@
 # program audio: tba at F8 1192 Folsom
 
-program audio: tba at F8 1192 Folsom on Fri 30 Oct, San Francisco/Oakland. Club. Preview the line-up and save it on soundcheck.
+program audio: tba at F8 1192 Folsom on Fri 30 Oct, San Francisco/Oakland. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

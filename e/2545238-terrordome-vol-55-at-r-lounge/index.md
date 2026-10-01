@@ -1,6 +1,6 @@
 # terrordome Vol.55 at R Lounge
 
-terrordome Vol.55 at R Lounge on Sun 8 Nov, Tokyo. 2 artists on the bill: Kanon and MIDI War. Hardcore. Preview the line-up and save it on soundcheck.
+terrordome Vol.55 at R Lounge on Sun 8 Nov, Tokyo. 2 artists: Kanon and MIDI War. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

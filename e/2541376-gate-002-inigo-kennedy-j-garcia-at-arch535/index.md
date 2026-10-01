@@ -1,6 +1,6 @@
 # GATE : 002 - Inigo Kennedy, J.Garcia at Arch535
 
-GATE : 002 - Inigo Kennedy, J.Garcia at Arch535 on Sat 7 Nov, London. 2 artists on the bill: Inigo Kennedy and J.Garcia. Techno. Preview the line-up and save it on soundcheck.
+GATE : 002 - Inigo Kennedy, J.Garcia at Arch535 on Sat 7 Nov, London. 2 artists: Inigo Kennedy and J.Garcia. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

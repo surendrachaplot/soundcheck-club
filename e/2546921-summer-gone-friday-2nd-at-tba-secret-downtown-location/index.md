@@ -1,6 +1,6 @@
 # SUMMER GONE FRIDAY 2ND at TBA - SECRET DOWNTOWN LOCATION
 
-SUMMER GONE FRIDAY 2ND at TBA - SECRET DOWNTOWN LOCATION on Fri 2 Oct, Vancouver. Techno and House. Preview the line-up and save it on soundcheck.
+SUMMER GONE FRIDAY 2ND at TBA - SECRET DOWNTOWN LOCATION on Fri 2 Oct, Vancouver. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

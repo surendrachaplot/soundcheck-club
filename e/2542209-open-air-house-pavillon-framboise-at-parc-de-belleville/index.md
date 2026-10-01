@@ -1,6 +1,6 @@
 # OPEN AIR HOUSE *PAVILLON FRAMBOISE* at Parc de Belleville
 
-OPEN AIR HOUSE *PAVILLON FRAMBOISE* at Parc de Belleville on Sat 10 Oct, Paris. House and Tech House. Preview the line-up and save it on soundcheck.
+OPEN AIR HOUSE *PAVILLON FRAMBOISE* at Parc de Belleville on Sat 10 Oct, Paris. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

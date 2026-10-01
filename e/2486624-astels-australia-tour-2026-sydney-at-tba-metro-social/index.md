@@ -1,6 +1,6 @@
 # ASTELS AUSTRALIA TOUR 2026 - Sydney at TBA - METRO SOCIAL
 
-ASTELS AUSTRALIA TOUR 2026 - Sydney at TBA - METRO SOCIAL on Fri 30 Oct, Sydney. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+ASTELS AUSTRALIA TOUR 2026 - Sydney at TBA - METRO SOCIAL on Fri 30 Oct, Sydney. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

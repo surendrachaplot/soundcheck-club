@@ -1,8 +1,8 @@
 # ZAHNATZIN
 
-ZAHNATZIN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Fri, 20 Nov 2026.
+ZAHNATZIN is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Fri, 20 Nov 2026.
 
-ZAHNATZIN is a house and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Berlin, Cologne, Düsseldorf and Leipzig. Often billed alongside DJ SPORTSCHUH, Flavius (DE) and Ursula Erdmann. Next up: Lokschuppen Berlin, Berlin on Fri 20 Nov.
+ZAHNATZIN is a house and techno artist based in Germany, with 40 gigs on soundcheck across Berlin, Cologne, Düsseldorf and Leipzig. Often billed alongside DJ SPORTSCHUH, Flavius (DE) and Ursula Erdmann. Next up: Lokschuppen Berlin, Berlin on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ ZAHNATZIN is a house and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Schrotty, Cologne — Fri, 11 Sept 2026
-- Artheater, Cologne — Sat, 5 Sept 2026
-- Südbrücke Open Air, Cologne — Sat, 15 Aug 2026
-- Schrotty, Cologne — Sat, 8 Aug 2026
-- Conne Island, Leipzig — Sat, 18 Jul 2026
-- TBA -  Fühlinger See, Cologne — Thu, 4 Jun 2026
-- ÆDEN, Berlin — Sat, 30 May 2026
-- Odonien, Cologne — Wed, 13 May 2026
+- Schrotty, Cologne · Fri, 11 Sept 2026
+- Artheater, Cologne · Sat, 5 Sept 2026
+- Südbrücke Open Air, Cologne · Sat, 15 Aug 2026
+- Schrotty, Cologne · Sat, 8 Aug 2026
+- Conne Island, Leipzig · Sat, 18 Jul 2026
+- TBA -  Fühlinger See, Cologne · Thu, 4 Jun 2026
+- ÆDEN, Berlin · Sat, 30 May 2026
+- Odonien, Cologne · Wed, 13 May 2026
 
 ## Shares bills with
 

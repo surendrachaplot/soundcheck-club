@@ -1,6 +1,6 @@
 # Reggae Rise Up Las Vegas at TBA - Downtown Las Vegas Event Center 
 
-Reggae Rise Up Las Vegas at TBA - Downtown Las Vegas Event Center  on Sat 3 Oct, Las Vegas. 3 artists on the bill: Public Enemy, Rome (IT) and Soja. Preview the line-up and save it on soundcheck.
+Reggae Rise Up Las Vegas at TBA - Downtown Las Vegas Event Center  on Sat 3 Oct, Las Vegas. 3 artists: Public Enemy, Rome (IT) and Soja. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

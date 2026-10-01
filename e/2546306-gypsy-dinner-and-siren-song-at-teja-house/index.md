@@ -1,6 +1,6 @@
 # Gypsy Dinner and Siren Song at Teja House
 
-Gypsy Dinner and Siren Song at Teja House on Sat 3 Oct, Lisbon. Preview the line-up and save it on soundcheck.
+Gypsy Dinner and Siren Song at Teja House on Sat 3 Oct, Lisbon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

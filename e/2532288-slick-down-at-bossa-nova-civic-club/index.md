@@ -1,6 +1,6 @@
 # Slick Down at Bossa Nova Civic Club
 
-Slick Down at Bossa Nova Civic Club on Fri 9 Oct, New York City. 5 artists on the bill: JSPORT, Love Higher, Petal and Simisola and 1 more. Club. Preview the line-up and save it on soundcheck.
+Slick Down at Bossa Nova Civic Club on Fri 9 Oct, New York City. 5 artists: JSPORT, Love Higher, Petal and Simisola and 1 more. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

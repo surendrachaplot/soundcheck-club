@@ -1,6 +1,6 @@
 # Locke invites with DAEMION & Friends at Locke
 
-Locke invites with DAEMION & Friends on Thu 1 Oct, Hamburg. Preview the line-up and save it on soundcheck.
+Locke invites with DAEMION & Friends on Thu 1 Oct, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

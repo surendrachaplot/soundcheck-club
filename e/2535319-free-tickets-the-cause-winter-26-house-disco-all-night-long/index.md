@@ -1,6 +1,6 @@
 # FREE TICKETS: The Cause WINTER 26 – House & Disco ALL NIGHT LONG at The Cause
 
-FREE TICKETS: The Cause WINTER 26 – House & Disco ALL NIGHT LONG on Fri 23 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+FREE TICKETS: The Cause WINTER 26 – House & Disco ALL NIGHT LONG on Fri 23 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

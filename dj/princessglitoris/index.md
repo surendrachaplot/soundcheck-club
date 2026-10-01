@@ -1,8 +1,8 @@
 # Princess Glitoris
 
-Princess Glitoris is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Ulster Sports Club, Belfast on Fri, 16 Oct 2026.
+Princess Glitoris is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Ulster Sports Club, Belfast on Fri, 16 Oct 2026.
 
-Princess Glitoris is a techno and house artist based in Ireland, tracked on soundcheck, with 32 sets logged across Belfast, Dublin and Edinburgh. Often billed alongside Divergence, HI-KRU and IndeniaL. Next up: The Ulster Sports Club, Belfast on Fri 16 Oct.
+Princess Glitoris is a techno and house artist based in Ireland, with 32 gigs on soundcheck across Belfast, Dublin and Edinburgh. Often billed alongside Divergence, HI-KRU and IndeniaL. Next up: The Ulster Sports Club, Belfast on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Princess Glitoris is a techno and house artist based in Ireland, tracked on soun
 
 ## Recently played
 
-- Wigwam, Dublin — Sun, 2 Aug 2026
-- Titanic Distillers, Belfast — Sat, 27 Jun 2026
-- Titanic Slipways, Belfast — Fri, 29 May 2026
-- The Ulster Sports Club, Belfast — Fri, 8 May 2026
-- The Racket Space, Dublin — Fri, 17 Apr 2026
-- TBA - THE TEMPLE [CARLISLE MEMORIAL CHURCH], Belfast — Sat, 21 Mar 2026
-- Titanic Distillers, Belfast — Tue, 17 Mar 2026
-- The Ulster Sports Club, Belfast — Fri, 20 Feb 2026
+- Wigwam, Dublin · Sun, 2 Aug 2026
+- Titanic Distillers, Belfast · Sat, 27 Jun 2026
+- Titanic Slipways, Belfast · Fri, 29 May 2026
+- The Ulster Sports Club, Belfast · Fri, 8 May 2026
+- The Racket Space, Dublin · Fri, 17 Apr 2026
+- TBA - THE TEMPLE [CARLISLE MEMORIAL CHURCH], Belfast · Sat, 21 Mar 2026
+- Titanic Distillers, Belfast · Tue, 17 Mar 2026
+- The Ulster Sports Club, Belfast · Fri, 20 Feb 2026
 
 ## Shares bills with
 

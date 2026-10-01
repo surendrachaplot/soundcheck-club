@@ -1,6 +1,6 @@
 # Spring Break Fiji at TBA - Fiji
 
-Spring Break Fiji at TBA - Fiji on Fri 13 Nov, Auckland. Pop and Dancehall. Preview the line-up and save it on soundcheck.
+Spring Break Fiji at TBA - Fiji on Fri 13 Nov, Auckland. Pop and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

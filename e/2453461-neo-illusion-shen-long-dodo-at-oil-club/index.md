@@ -1,6 +1,6 @@
 # NEO ILLUSION三周年呈现：Shen Long+DODO at OIL Club
 
-NEO ILLUSION三周年呈现：Shen Long+DODO at OIL Club on Sun 25 Oct, Shenzhen. Hardcore and Baile Funk. Preview the line-up and save it on soundcheck.
+NEO ILLUSION三周年呈现：Shen Long+DODO at OIL Club on Sun 25 Oct, Shenzhen. Hardcore and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

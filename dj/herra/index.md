@@ -1,8 +1,8 @@
 # Herra
 
-Herra is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
+Herra is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Basement (Amsterdam), Amsterdam on Thu, 22 Oct 2026.
 
-Herra is a house and tech house artist based in Netherlands, tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Ibiza and London. Often billed alongside Ferro, Andy Luff and Boris Werner. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
+Herra is a house and tech house artist based in Netherlands, with 27 gigs on soundcheck across Amsterdam, Barcelona, Ibiza and London. Often billed alongside Ferro, Andy Luff and Boris Werner. Next up: Basement (Amsterdam), Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Herra is a house and tech house artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- BRET, Amsterdam — Fri, 28 Aug 2026
-- THE OTHER SIDE, Amsterdam — Sat, 18 Jul 2026
-- Yellow House, Amsterdam — Sat, 13 Jun 2026
-- TBA, Amsterdam — Sat, 23 May 2026
-- Phonica Records, London — Thu, 19 Mar 2026
-- Café Café Bar Amsterdam, Amsterdam — Fri, 6 Feb 2026
-- Café Café Bar Amsterdam, Amsterdam — Sat, 13 Dec 2025
-- Onder Hans, Amsterdam — Sat, 15 Nov 2025
+- BRET, Amsterdam · Fri, 28 Aug 2026
+- THE OTHER SIDE, Amsterdam · Sat, 18 Jul 2026
+- Yellow House, Amsterdam · Sat, 13 Jun 2026
+- TBA, Amsterdam · Sat, 23 May 2026
+- Phonica Records, London · Thu, 19 Mar 2026
+- Café Café Bar Amsterdam, Amsterdam · Fri, 6 Feb 2026
+- Café Café Bar Amsterdam, Amsterdam · Sat, 13 Dec 2025
+- Onder Hans, Amsterdam · Sat, 15 Nov 2025
 
 ## Shares bills with
 

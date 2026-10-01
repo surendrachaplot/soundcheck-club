@@ -1,6 +1,6 @@
 # RISE MUSIC PROJECT SHOWCASE at The Bulldog Palace
 
-RISE MUSIC PROJECT SHOWCASE at The Bulldog Palace on Sun 25 Oct, Amsterdam. 2 artists on the bill: AETHER and Wurtz_. Techno and Electronica. Preview the line-up and save it on soundcheck.
+RISE MUSIC PROJECT SHOWCASE at The Bulldog Palace on Sun 25 Oct, Amsterdam. 2 artists: Ae:ther and Wurtz_. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ RISE MUSIC PROJECT SHOWCASE at The Bulldog Palace on Sun 25 Oct, Amsterdam. 2 ar
 
 ## Line-up
 
-- AETHER
+- Ae:ther
 - Wurtz_
 
 *Source: [soundcheck](https://soundcheck.club/e/2547491-rise-music-project-showcase-at-the-bulldog-palace/)*

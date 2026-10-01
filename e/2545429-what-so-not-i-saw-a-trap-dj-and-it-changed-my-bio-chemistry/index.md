@@ -1,6 +1,6 @@
 # What So Not: I Saw A Trap DJ and It Changed My Bio Chemistry at Oslo Hackney
 
-What So Not: I Saw A Trap DJ and It Changed My Bio Chemistry at Oslo Hackney on Fri 13 Nov, London. 1 artist on the bill: What So Not. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+What So Not: I Saw A Trap DJ and It Changed My Bio Chemistry at Oslo Hackney on Fri 13 Nov, London. 1 artist: What So Not. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

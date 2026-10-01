@@ -1,8 +1,8 @@
 # Watchers
 
-Watchers is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
+Watchers is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
 
-Watchers is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 28 sets logged across Amsterdam, Brighton, Bristol and Glasgow and 6 more. Often billed alongside Ellia Jaya, Julian Fijma and Gaskin. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
+Watchers is a house and tech house artist based in United Kingdom, with 28 gigs on soundcheck across Amsterdam, Brighton, Bristol and Glasgow and 6 more. Often billed alongside Ellia Jaya, Julian Fijma and Gaskin. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Watchers is a house and tech house artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- After Dark, Bristol — Fri, 18 Sept 2026
-- Gallery, London — Thu, 10 Sept 2026
-- Cova Santa, Ibiza — Mon, 7 Sept 2026
-- 528 Ibiza, Ibiza — Sun, 26 Jul 2026
-- The Cause, London — Sat, 11 Jul 2026
-- The Cause, London — Sat, 11 Jul 2026
-- Amnesia Ibiza, Ibiza — Thu, 28 May 2026
-- The Cause, London — Sat, 23 May 2026
+- After Dark, Bristol · Fri, 18 Sept 2026
+- Gallery, London · Thu, 10 Sept 2026
+- Cova Santa, Ibiza · Mon, 7 Sept 2026
+- 528 Ibiza, Ibiza · Sun, 26 Jul 2026
+- The Cause, London · Sat, 11 Jul 2026
+- The Cause, London · Sat, 11 Jul 2026
+- Amnesia Ibiza, Ibiza · Thu, 28 May 2026
+- The Cause, London · Sat, 23 May 2026
 
 ## Shares bills with
 

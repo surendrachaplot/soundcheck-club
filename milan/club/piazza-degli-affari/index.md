@@ -1,8 +1,8 @@
 # Piazza Degli Affari
 
-Piazza Degli Affari is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "APE IN PIAZZA / last dance" on Fri, 2 Oct 2026.
+Piazza Degli Affari is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "APE IN PIAZZA / last dance" on Fri, 2 Oct 2026.
 
-Piazza Degli Affari is a music venue in Milan listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Piazza degli Affari, 20123 Milano MI.
+Piazza Degli Affari is a music venue in Milan listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Piazza degli Affari, 20123 Milano MI.
 
 ## What's on
 

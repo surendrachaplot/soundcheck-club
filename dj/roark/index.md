@@ -1,8 +1,8 @@
 # ROARK
 
-ROARK is a Electro and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
+ROARK is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Sat, 24 Oct 2026.
 
-ROARK is an electro and techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam, Mexico City and New York City. Often billed alongside CYCLO BONETTE, Maxwellbean and Around Us. Next up: Kadinsky Cafe, Amsterdam on Sat 24 Oct.
+ROARK is an electro and techno artist based in United States of America, with 6 gigs on soundcheck across Amsterdam, Mexico City and New York City. Often billed alongside CYCLO BONETTE, Maxwellbean and Around Us. Next up: Kadinsky Cafe, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ ROARK is an electro and techno artist based in United States of America, tracked
 
 ## Recently played
 
-- La Comuna 488, Mexico City — Sat, 22 Aug 2026
-- Kadinsky Cafe, Amsterdam — Sat, 25 Oct 2025
-- Baker Falls, New York City — Sat, 11 Oct 2025
-- Nublu 151, New York City — Thu, 14 Aug 2025
-- Nublu, New York City — Fri, 30 May 2025
+- La Comuna 488, Mexico City · Sat, 22 Aug 2026
+- Kadinsky Cafe, Amsterdam · Sat, 25 Oct 2025
+- Baker Falls, New York City · Sat, 11 Oct 2025
+- Nublu 151, New York City · Thu, 14 Aug 2025
+- Nublu, New York City · Fri, 30 May 2025
 
 ## Shares bills with
 

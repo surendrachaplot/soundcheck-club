@@ -1,6 +1,6 @@
 # Pyg presents DJ Deece & Elena Leao at Pygmalion
 
-Pyg presents DJ Deece & Elena Leao at Pygmalion on Fri 2 Oct, Dublin. House. Preview the line-up and save it on soundcheck.
+Pyg presents DJ Deece & Elena Leao at Pygmalion on Fri 2 Oct, Dublin. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

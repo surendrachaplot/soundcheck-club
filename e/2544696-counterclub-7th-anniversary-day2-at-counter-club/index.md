@@ -1,6 +1,6 @@
 # COUNTERCLUB 7TH ANNIVERSARY DAY2 at COUNTER CLUB
 
-COUNTERCLUB 7TH ANNIVERSARY DAY2 at COUNTER CLUB on Sat 3 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+COUNTERCLUB 7TH ANNIVERSARY DAY2 at COUNTER CLUB on Sat 3 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # I Am An Alien 3 at Low Profile Studios
 
-I Am An Alien 3 at Low Profile Studios on Fri 9 Oct, London. Deep House and Dubstep. Preview the line-up and save it on soundcheck.
+I Am An Alien 3 at Low Profile Studios on Fri 9 Oct, London. Deep House and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

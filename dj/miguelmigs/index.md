@@ -1,8 +1,8 @@
 # Miguel Migs
 
-Miguel Migs is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
+Miguel Migs is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
 
-Miguel Migs is a house and deep house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Chicago, Detroit, Los Angeles and Miami and 6 more. Often billed alongside Julius Papp, Franky Boissy and Doc Martin. Next up: The Midway, San Francisco/Oakland on Sun 11 Oct.
+Miguel Migs is a house and deep house artist based in United States of America, with 35 gigs on soundcheck across Chicago, Detroit, Los Angeles and Miami and 6 more. Often billed alongside Julius Papp, Franky Boissy and Doc Martin. Next up: The Midway, San Francisco/Oakland on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Miguel Migs is a house and deep house artist based in United States of America, 
 
 ## Recently played
 
-- The Great Northern, San Francisco/Oakland — Sat, 5 Sept 2026
-- Quartyard, San Diego — Sun, 12 Jul 2026
-- The Midway, San Francisco/Oakland — Sun, 21 Jun 2026
-- Nectar Lounge, Seattle — Sat, 9 May 2026
-- The Great Northern, San Francisco/Oakland — Fri, 17 Apr 2026
-- The Great Northern, San Francisco/Oakland — Thu, 1 Jan 2026
-- Jungle Hollywood, Los Angeles — Sat, 27 Dec 2025
-- The Midway, San Francisco/Oakland — Sun, 12 Oct 2025
+- The Great Northern, San Francisco/Oakland · Sat, 5 Sept 2026
+- Quartyard, San Diego · Sun, 12 Jul 2026
+- The Midway, San Francisco/Oakland · Sun, 21 Jun 2026
+- Nectar Lounge, Seattle · Sat, 9 May 2026
+- The Great Northern, San Francisco/Oakland · Fri, 17 Apr 2026
+- The Great Northern, San Francisco/Oakland · Thu, 1 Jan 2026
+- Jungle Hollywood, Los Angeles · Sat, 27 Dec 2025
+- The Midway, San Francisco/Oakland · Sun, 12 Oct 2025
 
 ## Shares bills with
 

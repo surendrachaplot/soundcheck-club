@@ -1,8 +1,8 @@
 # Officine Grandi Riparazioni
 
-Officine Grandi Riparazioni is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is ".WAV by Recall" on Fri, 9 Oct 2026.
+Officine Grandi Riparazioni is a music venue in Turin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is ".WAV by Recall" on Fri, 9 Oct 2026.
 
-Officine Grandi Riparazioni is a music venue in Turin listed on soundcheck. 1 upcoming gig, with line-ups including Impérieux, Luce Clandestina, Octavio Octavio and Pangaea. Browse upcoming dates, start times and who's playing. Corso Castelfidardo 22, Torino, Italy.
+Officine Grandi Riparazioni is a music venue in Turin listed on soundcheck. 1 upcoming gig, with line-ups including Impérieux, Luce Clandestina, Octavio Octavio and Pangaea. See dates, start times and who's playing. Corso Castelfidardo 22, Torino, Italy.
 
 ## What's on
 

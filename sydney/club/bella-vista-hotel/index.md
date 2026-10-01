@@ -1,8 +1,8 @@
 # Bella Vista Hotel
 
-Bella Vista Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sundrift x Club Dabke pres. Dj Habibbeats + Chamos + Special K" on Sat, 5 Dec 2026.
+Bella Vista Hotel is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sundrift x Club Dabke pres. Dj Habibbeats + Chamos + Special K" on Sat, 5 Dec 2026.
 
-Bella Vista Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Nadz and Special K (SY). Browse upcoming dates, start times and who's playing.
+Bella Vista Hotel is a music venue in Sydney listed on soundcheck. 1 upcoming gig, with line-ups including Nadz and Special K (SY). See dates, start times and who's playing.
 
 ## What's on
 

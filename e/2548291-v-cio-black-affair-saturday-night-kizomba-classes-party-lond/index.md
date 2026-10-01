@@ -1,6 +1,6 @@
 # VÍCIO Black Affair Saturday Night Kizomba Classes & Party London at Casa Ritmo
 
-VÍCIO Black Affair Saturday Night Kizomba Classes & Party London at Casa Ritmo on Sat 3 Oct, London. Preview the line-up and save it on soundcheck.
+VÍCIO Black Affair Saturday Night Kizomba Classes & Party London at Casa Ritmo on Sat 3 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

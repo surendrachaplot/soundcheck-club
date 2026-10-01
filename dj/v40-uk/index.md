@@ -1,8 +1,8 @@
 # V.40
 
-V.40 is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Fri, 13 Nov 2026.
+V.40 is a Techno and Industrial artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M.O.T, London on Fri, 13 Nov 2026.
 
-V.40 is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London. Often billed alongside Denise Rabe, Keti Monro and Laura MRLS. Next up: M.O.T, London on Fri 13 Nov.
+V.40 is a techno and industrial artist based in United Kingdom, with 8 gigs on soundcheck across London. Often billed alongside Denise Rabe, Keti Monro and Laura MRLS. Next up: M.O.T, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ V.40 is a techno and industrial artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- M.O.T, London — Fri, 28 Aug 2026
-- Ormside Projects, London — Fri, 31 Jul 2026
-- Distillery N17, London — Sat, 8 Nov 2025
-- Night Tales Loft, London — Sun, 12 Oct 2025
-- Night Tales Loft, London — Sun, 13 Jul 2025
-- TBA - to ticket holders 1 day before the event (London), London — Fri, 7 Mar 2025
-- TBA - to tickets holders , London — Sat, 9 Nov 2024
+- M.O.T, London · Fri, 28 Aug 2026
+- Ormside Projects, London · Fri, 31 Jul 2026
+- Distillery N17, London · Sat, 8 Nov 2025
+- Night Tales Loft, London · Sun, 12 Oct 2025
+- Night Tales Loft, London · Sun, 13 Jul 2025
+- TBA - to ticket holders 1 day before the event (London), London · Fri, 7 Mar 2025
+- TBA - to tickets holders , London · Sat, 9 Nov 2024
 
 ## Shares bills with
 

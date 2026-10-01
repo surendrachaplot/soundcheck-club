@@ -1,6 +1,6 @@
 # ROOFTOP PARTY (Indoor & Outdoor) - Season Closing at The Dawn Neukölln
 
-ROOFTOP PARTY (Indoor & Outdoor) - Season Closing at The Dawn Neukölln on Sat 3 Oct, Berlin. House and Afro House. Preview the line-up and save it on soundcheck.
+ROOFTOP PARTY (Indoor & Outdoor) - Season Closing at The Dawn Neukölln on Sat 3 Oct, Berlin. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

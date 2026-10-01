@@ -1,6 +1,6 @@
 # Future Yard presents Omega Nebula at Future Yard
 
-Future Yard presents Omega Nebula on Fri 27 Nov, Liverpool. Dub and Dubstep. Preview the line-up and save it on soundcheck.
+Future Yard presents Omega Nebula on Fri 27 Nov, Liverpool. Dub and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

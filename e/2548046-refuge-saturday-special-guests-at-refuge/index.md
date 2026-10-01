@@ -1,6 +1,6 @@
 # Refuge Saturday: Special Guests at Refuge
 
-Refuge Saturday: Special Guests on Sat 17 Oct, New York City. Preview the line-up and save it on soundcheck.
+Refuge Saturday: Special Guests on Sat 17 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

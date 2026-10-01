@@ -1,6 +1,6 @@
 # IBIZA SOCA FESTIVAL DAY 2 at Eden
 
-IBIZA SOCA FESTIVAL DAY 2 at Eden on Sat 3 Oct, Ibiza. Afrobeat and Dancehall. Preview the line-up and save it on soundcheck.
+IBIZA SOCA FESTIVAL DAY 2 at Eden on Sat 3 Oct, Ibiza. Afrobeat and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

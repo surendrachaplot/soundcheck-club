@@ -1,6 +1,6 @@
 # LOVE 2 LOVE - A DONNA SUMMER DISCO PARTY at TV EYE
 
-LOVE 2 LOVE - A DONNA SUMMER DISCO PARTY at TV EYE on Fri 2 Oct, New York City. Disco. Preview the line-up and save it on soundcheck.
+LOVE 2 LOVE - A DONNA SUMMER DISCO PARTY at TV EYE on Fri 2 Oct, New York City. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Danny Daze All Night at Nowadays
 
-Danny Daze All Night at Nowadays on Fri 23 Oct, New York City. 1 artist on the bill: Danny Daze. Bass and Electro. Preview the line-up and save it on soundcheck.
+Danny Daze All Night at Nowadays on Fri 23 Oct, New York City. 1 artist: Danny Daze. Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

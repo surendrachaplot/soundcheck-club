@@ -1,6 +1,6 @@
 # Margot — The Villain: First Listen + Live Performance at Silence Please
 
-Margot — The Villain: First Listen + Live Performance at Silence Please on Thu 5 Nov, New York City. 1 artist on the bill: Margot. Classical. Preview the line-up and save it on soundcheck.
+Margot — The Villain: First Listen + Live Performance at Silence Please on Thu 5 Nov, New York City. 1 artist: Margot. Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Derek Russo at Moondog Hifi
 
-Derek Russo at Moondog Hifi on Thu 8 Oct, New York City. 1 artist on the bill: Derek Russo. Preview the line-up and save it on soundcheck.
+Derek Russo at Moondog Hifi on Thu 8 Oct, New York City. 1 artist: Derek Russo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

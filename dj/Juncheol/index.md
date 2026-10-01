@@ -1,8 +1,8 @@
 # Juncheol
 
-Juncheol is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Nyapi, Seoul on Sat, 3 Oct 2026.
+Juncheol is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nyapi, Seoul on Sat, 3 Oct 2026.
 
-Juncheol is a house and techno artist based in South Korea, tracked on soundcheck, with 129 sets logged across Osaka, Seoul and Tokyo. Often billed alongside FFAN, GYUWAN and Kyper. Next up: Nyapi, Seoul on Sat 3 Oct.
+Juncheol is a house and techno artist based in South Korea, with 129 gigs on soundcheck across Osaka, Seoul and Tokyo. Often billed alongside FFAN, GYUWAN and Kyper. Next up: Nyapi, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Juncheol is a house and techno artist based in South Korea, tracked on soundchec
 
 ## Recently played
 
-- Nyapi, Seoul — Fri, 18 Sept 2026
-- Nyapi, Seoul — Fri, 4 Sept 2026
-- Nyapi, Seoul — Sat, 22 Aug 2026
-- Nyapi, Seoul — Sat, 1 Aug 2026
-- Nyapi, Seoul — Fri, 24 Jul 2026
-- Cul Sec, Seoul — Thu, 16 Jul 2026
-- Nyapi, Seoul — Sat, 27 Jun 2026
-- Nyapi, Seoul — Sat, 20 Jun 2026
+- Nyapi, Seoul · Fri, 18 Sept 2026
+- Nyapi, Seoul · Fri, 4 Sept 2026
+- Nyapi, Seoul · Sat, 22 Aug 2026
+- Nyapi, Seoul · Sat, 1 Aug 2026
+- Nyapi, Seoul · Fri, 24 Jul 2026
+- Cul Sec, Seoul · Thu, 16 Jul 2026
+- Nyapi, Seoul · Sat, 27 Jun 2026
+- Nyapi, Seoul · Sat, 20 Jun 2026
 
 ## Shares bills with
 

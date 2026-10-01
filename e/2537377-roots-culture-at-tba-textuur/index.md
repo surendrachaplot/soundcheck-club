@@ -1,6 +1,6 @@
 # Roots & Culture at TBA - Textuur
 
-Roots & Culture at TBA - Textuur on Sat 24 Oct, Antwerp. Preview the line-up and save it on soundcheck.
+Roots & Culture at TBA - Textuur on Sat 24 Oct, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

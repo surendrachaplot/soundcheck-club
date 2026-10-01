@@ -1,6 +1,6 @@
 # PANTHEON at Piree
 
-PANTHEON at Piree on Sat 3 Oct, Athens. 2 artists on the bill: Noway and Voices Of Valley. Techno and House. Preview the line-up and save it on soundcheck.
+PANTHEON at Piree on Sat 3 Oct, Athens. 2 artists: Noway and Voices Of Valley. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

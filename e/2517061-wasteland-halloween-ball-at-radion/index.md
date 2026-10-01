@@ -1,6 +1,6 @@
 # Wasteland Halloween Ball at RADION
 
-Wasteland Halloween Ball at RADION on Sat 31 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Wasteland Halloween Ball at RADION on Sat 31 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

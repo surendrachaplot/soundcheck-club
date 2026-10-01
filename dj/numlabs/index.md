@@ -1,8 +1,8 @@
 # Numlabs
 
-Numlabs is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Culture Cafe, Bangkok on Thu, 15 Oct 2026.
+Numlabs is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Culture Cafe, Bangkok on Thu, 15 Oct 2026.
 
-Numlabs is a techno and tech house artist based in Thailand, tracked on soundcheck, with 86 sets logged across Bangkok. Often billed alongside TAY MOFUNK, TBA and Tetez. Next up: Culture Cafe, Bangkok on Thu 15 Oct.
+Numlabs is a techno and tech house artist based in Thailand, with 86 gigs on soundcheck across Bangkok. Often billed alongside TAY MOFUNK, TBA and Tetez. Next up: Culture Cafe, Bangkok on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Numlabs is a techno and tech house artist based in Thailand, tracked on soundche
 
 ## Recently played
 
-- Culture Cafe, Bangkok — Thu, 17 Sept 2026
-- Culture Cafe, Bangkok — Thu, 3 Sept 2026
-- Culture Cafe, Bangkok — Thu, 27 Aug 2026
-- Culture Cafe, Bangkok — Thu, 6 Aug 2026
-- Culture Cafe, Bangkok — Thu, 16 Jul 2026
-- Culture Cafe, Bangkok — Thu, 2 Jul 2026
-- Culture Cafe, Bangkok — Thu, 18 Jun 2026
-- Culture Cafe, Bangkok — Thu, 4 Jun 2026
+- Culture Cafe, Bangkok · Thu, 17 Sept 2026
+- Culture Cafe, Bangkok · Thu, 3 Sept 2026
+- Culture Cafe, Bangkok · Thu, 27 Aug 2026
+- Culture Cafe, Bangkok · Thu, 6 Aug 2026
+- Culture Cafe, Bangkok · Thu, 16 Jul 2026
+- Culture Cafe, Bangkok · Thu, 2 Jul 2026
+- Culture Cafe, Bangkok · Thu, 18 Jun 2026
+- Culture Cafe, Bangkok · Thu, 4 Jun 2026
 
 ## Shares bills with
 

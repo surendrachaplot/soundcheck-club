@@ -1,8 +1,8 @@
 # Alexx in Chainss
 
-Alexx in Chainss is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Alexx in Chainss is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Alexx in Chainss is a techno and acid artist based in United States of America, tracked on soundcheck, with 29 sets logged across Los Angeles, Miami, New York City and Washington DC. Often billed alongside Sel.6, SATURNSARii and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Alexx in Chainss is a techno and acid artist based in United States of America, with 29 gigs on soundcheck across Los Angeles, Miami, New York City and Washington DC. Often billed alongside Sel.6, SATURNSARii and Berrakka. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Alexx in Chainss is a techno and acid artist based in United States of America, 
 
 ## Recently played
 
-- 94th Aero Squadron, Miami — Fri, 22 May 2026
-- Factory Town, Miami — Sat, 18 Apr 2026
-- Miami Roller Rink, Miami — Sat, 7 Feb 2026
-- Club Tee Gee, Los Angeles — Thu, 4 Dec 2025
-- Mana Wynwood, Miami — Fri, 17 Oct 2025
-- Mood Ring, New York City — Thu, 24 Jul 2025
-- Supernatural Haus, Miami — Sun, 15 Jun 2025
-- Willy's, Miami — Sun, 15 Jun 2025
+- 94th Aero Squadron, Miami · Fri, 22 May 2026
+- Factory Town, Miami · Sat, 18 Apr 2026
+- Miami Roller Rink, Miami · Sat, 7 Feb 2026
+- Club Tee Gee, Los Angeles · Thu, 4 Dec 2025
+- Mana Wynwood, Miami · Fri, 17 Oct 2025
+- Mood Ring, New York City · Thu, 24 Jul 2025
+- Supernatural Haus, Miami · Sun, 15 Jun 2025
+- Willy's, Miami · Sun, 15 Jun 2025
 
 ## Shares bills with
 

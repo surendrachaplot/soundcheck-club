@@ -1,8 +1,8 @@
 # TBA - Kalemegdan (Padel House) 
 
-TBA - Kalemegdan (Padel House)  is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "CHARITY DNB OPEN-AIR at Kalemegdan" on Sat, 3 Oct 2026.
+TBA - Kalemegdan (Padel House)  is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "CHARITY DNB OPEN-AIR at Kalemegdan" on Sat, 3 Oct 2026.
 
-TBA - Kalemegdan (Padel House)  is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+TBA - Kalemegdan (Padel House)  is a music venue in Belgrade listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

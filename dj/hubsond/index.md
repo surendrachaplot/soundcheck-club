@@ -1,8 +1,8 @@
 # Hubsond
 
-Hubsond is a Minimal and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sekta Selekta, Krakow on Fri, 2 Oct 2026.
+Hubsond is a Minimal and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sekta Selekta, Krakow on Fri, 2 Oct 2026.
 
-Hubsond is a minimal and electro artist tracked on soundcheck, with 18 sets logged across Krakow and Warsaw. Often billed alongside Wills Witbooi, Hodgson_ale and Nadezh No. Next up: Sekta Selekta, Krakow on Fri 2 Oct.
+Hubsond is a minimal and electro artist, with 18 gigs on soundcheck across Krakow and Warsaw. Often billed alongside Wills Witbooi, Hodgson_ale and Nadezh No. Next up: Sekta Selekta, Krakow on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Hubsond is a minimal and electro artist tracked on soundcheck, with 18 sets logg
 
 ## Recently played
 
-- Sekta Selekta, Krakow — Sat, 22 Aug 2026
-- Noce KRK, Krakow — Thu, 16 Jul 2026
-- Sekta Selekta, Krakow — Fri, 10 Jul 2026
-- TBA - WINO METAL, Krakow — Sat, 13 Jun 2026
-- Sekta Selekta, Krakow — Sat, 30 May 2026
-- TBA - WINO METAL, Krakow — Sat, 9 May 2026
-- Sekta Selekta, Krakow — Fri, 10 Apr 2026
-- VVOSK RECORDS, Warsaw — Sat, 28 Mar 2026
+- Sekta Selekta, Krakow · Sat, 22 Aug 2026
+- Noce KRK, Krakow · Thu, 16 Jul 2026
+- Sekta Selekta, Krakow · Fri, 10 Jul 2026
+- TBA - WINO METAL, Krakow · Sat, 13 Jun 2026
+- Sekta Selekta, Krakow · Sat, 30 May 2026
+- TBA - WINO METAL, Krakow · Sat, 9 May 2026
+- Sekta Selekta, Krakow · Fri, 10 Apr 2026
+- VVOSK RECORDS, Warsaw · Sat, 28 Mar 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Yu Yu Cine Club: program audio takeover at YuYu Cine Club
 
-Yu Yu Cine Club: program audio takeover at YuYu Cine Club on Fri 16 Oct, Mexico City. 4 artists on the bill: erika (SF), Lexicon, moth (US) and sfcowboy. Preview the line-up and save it on soundcheck.
+Yu Yu Cine Club: program audio takeover at YuYu Cine Club on Fri 16 Oct, Mexico City. 4 artists: erika (SF), Lexicon, moth (US) and sfcowboy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

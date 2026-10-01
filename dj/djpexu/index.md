@@ -1,8 +1,8 @@
 # Dj PeXu
 
-Dj PeXu is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Location, London on Mon, 5 Oct 2026.
+Dj PeXu is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, London on Mon, 5 Oct 2026.
 
-Dj PeXu is a techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across London. Often billed alongside Shane DB, Spec J DJ and El Tel The Transcender. Next up: TBA - Secret Location, London on Mon 5 Oct.
+Dj PeXu is a techno artist based in United Kingdom, with 4 gigs on soundcheck across London. Often billed alongside Shane DB, Spec J DJ and El Tel The Transcender. Next up: TBA - Secret Location, London on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,8 @@ Dj PeXu is a techno artist based in United Kingdom, tracked on soundcheck, with 
 
 ## Recently played
 
-- TBA, London — Sat, 22 Aug 2026
-- Egg London, London — Fri, 21 Nov 2025
+- TBA, London · Sat, 22 Aug 2026
+- Egg London, London · Fri, 21 Nov 2025
 
 ## Shares bills with
 

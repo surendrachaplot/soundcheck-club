@@ -1,6 +1,6 @@
 # THE TWO. - YUSUKE TAKAYAMA / fkaai at Solfa
 
-THE TWO. - YUSUKE TAKAYAMA / fkaai at Solfa on Mon 12 Oct, Tokyo. House and Disco. Preview the line-up and save it on soundcheck.
+THE TWO. - YUSUKE TAKAYAMA / fkaai at Solfa on Mon 12 Oct, Tokyo. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

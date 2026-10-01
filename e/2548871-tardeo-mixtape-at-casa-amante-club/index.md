@@ -1,6 +1,6 @@
 # TARDEO MIXTAPE at Casa Amante Club
 
-TARDEO MIXTAPE at Casa Amante Club on Sun 4 Oct, Madrid. 1 artist on the bill: JAVS. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+TARDEO MIXTAPE at Casa Amante Club on Sun 4 Oct, Madrid. 1 artist: JAVS. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

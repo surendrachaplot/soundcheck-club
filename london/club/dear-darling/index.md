@@ -1,8 +1,8 @@
 # Dear Darling
 
-Dear Darling is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "NIGHTSHIFT: The Mayfair Edition" on Thu, 1 Oct 2026.
+Dear Darling is a music venue in London with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NIGHTSHIFT: The Mayfair Edition" on Thu, 1 Oct 2026.
 
-Dear Darling is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Abrahamsson, Arian Saravi, Christoph Cham and Dimanté and 1 more. Browse upcoming dates, start times and who's playing. 91 Jermyn St, St. James’s, London SW1Y 6JB.
+Dear Darling is a music venue in London listed on soundcheck. 4 upcoming gigs, with line-ups including Abrahamsson, Arian Saravi, Christoph Cham and Dimanté and 1 more. See dates, start times and who's playing. 91 Jermyn St, St. James’s, London SW1Y 6JB.
 
 ## What's on
 

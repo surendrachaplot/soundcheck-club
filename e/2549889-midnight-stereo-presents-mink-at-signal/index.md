@@ -1,6 +1,6 @@
 # Midnight Stereo presents: mink at Signal
 
-Midnight Stereo presents: mink at Signal on Thu 29 Oct, New York City. 3 artists on the bill: Jason Falen, mink and Rana Iravani. House and Tech House. Preview the line-up and save it on soundcheck.
+Midnight Stereo presents: mink at Signal on Thu 29 Oct, New York City. 3 artists: Jason Falen, mink and Rana Iravani. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

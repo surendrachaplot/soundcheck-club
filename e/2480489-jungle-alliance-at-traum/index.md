@@ -1,6 +1,6 @@
 # Jungle Alliance at TRAUM
 
-Jungle Alliance at TRAUM on Sat 10 Oct, Antwerp. 4 artists on the bill: Coco Bryce, Dwarde, Sully and Tim Reaper. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Jungle Alliance at TRAUM on Sat 10 Oct, Antwerp. 4 artists: Coco Bryce, Dwarde, Sully and Tim Reaper. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

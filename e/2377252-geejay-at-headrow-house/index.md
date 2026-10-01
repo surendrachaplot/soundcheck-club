@@ -1,6 +1,6 @@
 # GeeJay at Headrow House
 
-GeeJay at Headrow House on Fri 16 Oct, Leeds. Jazz. Preview the line-up and save it on soundcheck.
+GeeJay at Headrow House on Fri 16 Oct, Leeds. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

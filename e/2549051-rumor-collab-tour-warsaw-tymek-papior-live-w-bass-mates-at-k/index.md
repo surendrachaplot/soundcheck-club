@@ -1,6 +1,6 @@
 # RUMOR COLLAB TOUR: WARSAW, Tymek Papior (LIVE) W/ BASS MATES at K-Bar Powiśle
 
-RUMOR COLLAB TOUR: WARSAW, Tymek Papior (LIVE) W/ BASS MATES at K-Bar Powiśle on Fri 16 Oct, Warsaw. 5 artists on the bill: dj.zamocno, Kogiel, NOV1K and Semprey and 1 more. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+RUMOR COLLAB TOUR: WARSAW, Tymek Papior (LIVE) W/ BASS MATES at K-Bar Powiśle on Fri 16 Oct, Warsaw. 5 artists: dj.zamocno, Kogiel, NOV1K and Semprey and 1 more. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

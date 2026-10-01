@@ -1,6 +1,6 @@
 # SANTERIA with Tom Peters and Pablo Valentino at Red Bar
 
-SANTERIA with Tom Peters and Pablo Valentino at Red Bar on Sat 10 Oct, Tokyo. 3 artists on the bill: Pablo Valentino, Sante Visioni and Tom Peters. House and Deep House. Preview the line-up and save it on soundcheck.
+SANTERIA with Tom Peters and Pablo Valentino at Red Bar on Sat 10 Oct, Tokyo. 3 artists: Pablo Valentino, Sante Visioni and Tom Peters. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

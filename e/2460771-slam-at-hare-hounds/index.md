@@ -1,6 +1,6 @@
 # Slam at Hare & Hounds
 
-Slam at Hare & Hounds on Sat 28 Nov, Birmingham. 1 artist on the bill: Slam. Techno. Preview the line-up and save it on soundcheck.
+Slam at Hare & Hounds on Sat 28 Nov, Birmingham. 1 artist: Slam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

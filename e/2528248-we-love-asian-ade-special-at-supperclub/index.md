@@ -1,6 +1,6 @@
 # We Love Asian ADE Special at Supperclub
 
-We Love Asian ADE Special at Supperclub on Sun 25 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+We Love Asian ADE Special at Supperclub on Sun 25 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

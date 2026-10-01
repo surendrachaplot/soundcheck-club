@@ -1,8 +1,8 @@
 # PAULA GM
 
-PAULA GM is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
+PAULA GM is a House and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Sat, 3 Oct 2026.
 
-PAULA GM is a house and electro artist based in Spain, tracked on soundcheck, with 78 sets logged across Barcelona, Dublin and Madrid. Often billed alongside FRAXA, PILAR MOLINERO and PABLO MANY. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
+PAULA GM is a house and electro artist based in Spain, with 78 gigs on soundcheck across Barcelona, Dublin and Madrid. Often billed alongside FRAXA, PILAR MOLINERO and PABLO MANY. Next up: La Terrrazza, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ PAULA GM is a house and electro artist based in Spain, tracked on soundcheck, wi
 
 ## Recently played
 
-- Sunseabar Beach Club, Barcelona — Fri, 31 Jul 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sun, 21 Jun 2026
-- Parc del Fòrum, Barcelona — Fri, 19 Jun 2026
-- La Terrrazza, Barcelona — Fri, 12 Jun 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 7 Mar 2026
-- G Spot Club, Barcelona — Sat, 7 Feb 2026
-- TBA - American Lake Gavà, Barcelona — Fri, 6 Feb 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 17 Jan 2026
+- Sunseabar Beach Club, Barcelona · Fri, 31 Jul 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sun, 21 Jun 2026
+- Parc del Fòrum, Barcelona · Fri, 19 Jun 2026
+- La Terrrazza, Barcelona · Fri, 12 Jun 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 7 Mar 2026
+- G Spot Club, Barcelona · Sat, 7 Feb 2026
+- TBA - American Lake Gavà, Barcelona · Fri, 6 Feb 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 17 Jan 2026
 
 ## Shares bills with
 

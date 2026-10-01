@@ -1,6 +1,6 @@
 # ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' at ZEROTOKYO
 
-ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' on Fri 30 Oct, Tokyo. Pop. Preview the line-up and save it on soundcheck.
+ZEROTOKYO HALLOWEEN DAY1 'CRAZY PARTY NIGHT Supported by Veuve Clicquot Yelloween' on Fri 30 Oct, Tokyo. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

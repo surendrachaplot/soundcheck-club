@@ -1,6 +1,6 @@
 # extra+ with tba at Lenbachhaus
 
-extra+ with tba at Lenbachhaus on Thu 5 Nov, Munich. Preview the line-up and save it on soundcheck.
+extra+ with tba at Lenbachhaus on Thu 5 Nov, Munich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

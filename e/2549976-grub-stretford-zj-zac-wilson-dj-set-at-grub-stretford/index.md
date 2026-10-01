@@ -1,6 +1,6 @@
 # GRUB Stretford: ZJ (Zac Wilson) DJ Set at Grub Stretford
 
-GRUB Stretford: ZJ (Zac Wilson) DJ Set at Grub Stretford on Sat 10 Oct, Manchester. 1 artist on the bill: ZJ (UK). Funk / Soul and Balearic. Preview the line-up and save it on soundcheck.
+GRUB Stretford: ZJ (Zac Wilson) DJ Set at Grub Stretford on Sat 10 Oct, Manchester. 1 artist: ZJ (UK). Funk / Soul and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

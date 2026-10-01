@@ -1,6 +1,6 @@
 # RYOSUKE, EDDY & JITSUMITSU at DJ Bar Bridge
 
-RYOSUKE, EDDY & JITSUMITSU at DJ Bar Bridge on Tue 10 Nov, Tokyo. House. Preview the line-up and save it on soundcheck.
+RYOSUKE, EDDY & JITSUMITSU at DJ Bar Bridge on Tue 10 Nov, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

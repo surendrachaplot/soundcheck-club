@@ -1,8 +1,8 @@
 # The Prospect Building
 
-The Prospect Building is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "10 Years Of SWU FM: Joy Orbison, DJ EZ" on Sat, 10 Oct 2026.
+The Prospect Building is a music venue in Bristol with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "10 Years Of SWU FM: Joy Orbison, DJ EZ" on Sat, 10 Oct 2026.
 
-The Prospect Building is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including 4am Kru, AÆE, Above & Beyond and ABSOLUTE. and 2 more. Browse upcoming dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
+The Prospect Building is a music venue in Bristol listed on soundcheck. 12 upcoming gigs, with line-ups including 4am Kru, AÆE, Above & Beyond and ABSOLUTE. and 2 more. See dates, start times and who's playing. 45 Feeder Rd Bristol, BS2 0SE.
 
 ## What's on
 

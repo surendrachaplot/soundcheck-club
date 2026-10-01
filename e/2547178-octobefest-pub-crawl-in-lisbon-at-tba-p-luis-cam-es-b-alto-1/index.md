@@ -1,6 +1,6 @@
 # OctobeFest Pub Crawl in Lisbon at TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal
 
-OctobeFest Pub Crawl in Lisbon at TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal on Thu 1 Oct, Lisbon. Club. Preview the line-up and save it on soundcheck.
+OctobeFest Pub Crawl in Lisbon at TBA - Pç. Luis Camões (B. Alto) 1200-243 Lisbon, Portugal on Thu 1 Oct, Lisbon. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

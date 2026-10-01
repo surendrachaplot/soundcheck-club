@@ -1,8 +1,8 @@
 # AAT (NL)
 
-AAT (NL) is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Paradiso, Amsterdam on Sat, 10 Oct 2026.
+AAT (NL) is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Paradiso, Amsterdam on Sat, 10 Oct 2026.
 
-AAT (NL) is a house and tech house artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 10 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Paradiso, Amsterdam on Sat 10 Oct.
+AAT (NL) is a house and tech house artist based in Netherlands, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 10 more. Often billed alongside Prunk, Michel de Hey and Benny Rodrigues. Next up: Paradiso, Amsterdam on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -21,14 +21,14 @@ AAT (NL) is a house and tech house artist based in Netherlands, tracked on sound
 
 ## Recently played
 
-- Cova Santa, Ibiza — Tue, 1 Sept 2026
-- Thuishaven, Amsterdam — Sun, 30 Aug 2026
-- Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
-- TivoliVredenburg, Utrecht — Sat, 29 Aug 2026
-- Colorado Charlie, The Hague — Fri, 28 Aug 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Het Sieraad, Amsterdam — Sat, 25 Jul 2026
-- W Barcelona, Barcelona — Sun, 12 Jul 2026
+- Cova Santa, Ibiza · Tue, 1 Sept 2026
+- Thuishaven, Amsterdam · Sun, 30 Aug 2026
+- Van Nelle Fabriek, Rotterdam · Sat, 29 Aug 2026
+- TivoliVredenburg, Utrecht · Sat, 29 Aug 2026
+- Colorado Charlie, The Hague · Fri, 28 Aug 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
+- Het Sieraad, Amsterdam · Sat, 25 Jul 2026
+- W Barcelona, Barcelona · Sun, 12 Jul 2026
 
 ## Shares bills with
 

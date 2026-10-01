@@ -1,8 +1,8 @@
 # Damascus Knives
 
-Damascus Knives is a EBM and Industrial artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Slipper Clutch, Los Angeles on Thu, 22 Oct 2026.
+Damascus Knives is a EBM and Industrial artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Slipper Clutch, Los Angeles on Thu, 22 Oct 2026.
 
-Damascus Knives is an ebm and industrial artist based in United States of America, tracked on soundcheck, with 17 sets logged across Los Angeles, New York City and Vancouver. Often billed alongside Industria Nova and Annika Wolfe. Next up: The Slipper Clutch, Los Angeles on Thu 22 Oct.
+Damascus Knives is an ebm and industrial artist based in United States of America, with 17 gigs on soundcheck across Los Angeles, New York City and Vancouver. Often billed alongside Industria Nova and Annika Wolfe. Next up: The Slipper Clutch, Los Angeles on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Damascus Knives is an ebm and industrial artist based in United States of Americ
 
 ## Recently played
 
-- The Slipper Clutch, Los Angeles — Thu, 10 Sept 2026
-- The Slipper Clutch, Los Angeles — Thu, 6 Aug 2026
-- The Slipper Clutch, Los Angeles — Thu, 9 Jul 2026
-- The Slipper Clutch, Los Angeles — Thu, 18 Jun 2026
-- The Cobalt, Vancouver — Sun, 31 May 2026
-- The Slipper Clutch, Los Angeles — Thu, 7 May 2026
-- The Slipper Clutch, Los Angeles — Thu, 16 Apr 2026
-- The Slipper Clutch, Los Angeles — Thu, 12 Mar 2026
+- The Slipper Clutch, Los Angeles · Thu, 10 Sept 2026
+- The Slipper Clutch, Los Angeles · Thu, 6 Aug 2026
+- The Slipper Clutch, Los Angeles · Thu, 9 Jul 2026
+- The Slipper Clutch, Los Angeles · Thu, 18 Jun 2026
+- The Cobalt, Vancouver · Sun, 31 May 2026
+- The Slipper Clutch, Los Angeles · Thu, 7 May 2026
+- The Slipper Clutch, Los Angeles · Thu, 16 Apr 2026
+- The Slipper Clutch, Los Angeles · Thu, 12 Mar 2026
 
 ## Shares bills with
 

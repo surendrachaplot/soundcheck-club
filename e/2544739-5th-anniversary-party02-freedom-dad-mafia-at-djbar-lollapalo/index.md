@@ -1,6 +1,6 @@
 # 5th Anniversary Party02 -FREEDOM Dad MAFIA at Djbar Lollapalooza
 
-5th Anniversary Party02 -FREEDOM Dad MAFIA at Djbar Lollapalooza on Fri 2 Oct, Osaka. House and Club. Preview the line-up and save it on soundcheck.
+5th Anniversary Party02 -FREEDOM Dad MAFIA at Djbar Lollapalooza on Fri 2 Oct, Osaka. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

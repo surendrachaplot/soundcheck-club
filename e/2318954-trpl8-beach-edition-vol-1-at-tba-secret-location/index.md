@@ -1,6 +1,6 @@
 # TRPL8 BEACH EDITION VOL.1 at TBA - Secret Location
 
-TRPL8 BEACH EDITION VOL.1 at TBA - Secret Location on Sat 14 Nov, Sydney. House and Deep House. Preview the line-up and save it on soundcheck.
+TRPL8 BEACH EDITION VOL.1 at TBA - Secret Location on Sat 14 Nov, Sydney. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

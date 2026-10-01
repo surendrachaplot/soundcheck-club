@@ -1,6 +1,6 @@
 # Stockholm Soundfest 2026 at BAR15
 
-Stockholm Soundfest 2026 at BAR15 on Sat 3 Oct, Stockholm. Dancehall. Preview the line-up and save it on soundcheck.
+Stockholm Soundfest 2026 at BAR15 on Sat 3 Oct, Stockholm. Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

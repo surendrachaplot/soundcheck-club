@@ -1,8 +1,8 @@
 # Mathame
 
-Mathame is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Phantom, Paris, Paris on Fri, 9 Oct 2026.
+Mathame is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Phantom, Paris, Paris on Fri, 9 Oct 2026.
 
-Mathame is a techno and house artist based in Italy, tracked on soundcheck, with 161 sets logged across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside Lyke, Olympe and Fideles. Next up: Phantom, Paris, Paris on Fri 9 Oct.
+Mathame is a techno and house artist based in Italy, with 161 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 42 more. Often billed alongside Lyke, Olympe and Fideles. Next up: Phantom, Paris, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Mathame is a techno and house artist based in Italy, tracked on soundcheck, with
 
 ## Recently played
 
-- Music Box, San Diego — Sun, 27 Sept 2026
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- Stereo, Montreal — Sat, 5 Sept 2026
-- Mediapark Köln, Cologne — Sat, 29 Aug 2026
-- Hï Ibiza, Ibiza — Thu, 30 Jul 2026
-- Nitsa Club, Barcelona — Fri, 24 Jul 2026
-- LDN East, London — Thu, 23 Jul 2026
+- Music Box, San Diego · Sun, 27 Sept 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- Stereo, Montreal · Sat, 5 Sept 2026
+- Mediapark Köln, Cologne · Sat, 29 Aug 2026
+- Hï Ibiza, Ibiza · Thu, 30 Jul 2026
+- Nitsa Club, Barcelona · Fri, 24 Jul 2026
+- LDN East, London · Thu, 23 Jul 2026
 
 ## Shares bills with
 

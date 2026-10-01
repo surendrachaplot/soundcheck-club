@@ -1,6 +1,6 @@
 # 80's verantwoord at De Helling
 
-80's verantwoord at De Helling on Sat 3 Oct, Utrecht. Club. Preview the line-up and save it on soundcheck.
+80's verantwoord at De Helling on Sat 3 Oct, Utrecht. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

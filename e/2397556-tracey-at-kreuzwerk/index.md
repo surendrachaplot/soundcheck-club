@@ -1,6 +1,6 @@
 # tracey at KREUZWERK
 
-tracey at KREUZWERK on Sat 14 Nov, Berlin. Preview the line-up and save it on soundcheck.
+tracey at KREUZWERK on Sat 14 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

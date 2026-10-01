@@ -1,8 +1,8 @@
 # Aiko Inoue
 
-Aiko Inoue is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
+Aiko Inoue is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
 
-Aiko Inoue is a house and techno artist based in Japan, tracked on soundcheck, with 87 sets logged across Amsterdam, Barcelona, Berlin and Edinburgh and 7 more. Often billed alongside Yuta Yamada, BANANA-CHAN and Andre McLeod. Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
+Aiko Inoue is a house and techno artist based in Japan, with 87 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Edinburgh and 7 more. Often billed alongside Yuta Yamada, BANANA-CHAN and Andre McLeod. Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Aiko Inoue is a house and techno artist based in Japan, tracked on soundcheck, w
 
 ## Recently played
 
-- Pikes Ibiza, Ibiza — Sun, 26 Jul 2026
-- TBA, Glasgow — Sat, 18 Jul 2026
-- Sub Club, Glasgow — Sat, 18 Jul 2026
-- Night Tales, London — Fri, 3 Jul 2026
-- The Jazz Cafe, London — Fri, 23 Jan 2026
-- Sneaky Pete's, Edinburgh — Sun, 11 Jan 2026
-- TBA, Glasgow — Sat, 16 Aug 2025
-- Sub Club, Glasgow — Sat, 16 Aug 2025
+- Pikes Ibiza, Ibiza · Sun, 26 Jul 2026
+- TBA, Glasgow · Sat, 18 Jul 2026
+- Sub Club, Glasgow · Sat, 18 Jul 2026
+- Night Tales, London · Fri, 3 Jul 2026
+- The Jazz Cafe, London · Fri, 23 Jan 2026
+- Sneaky Pete's, Edinburgh · Sun, 11 Jan 2026
+- TBA, Glasgow · Sat, 16 Aug 2025
+- Sub Club, Glasgow · Sat, 16 Aug 2025
 
 ## Shares bills with
 

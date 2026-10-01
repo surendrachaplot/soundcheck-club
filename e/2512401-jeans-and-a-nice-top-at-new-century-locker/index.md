@@ -1,6 +1,6 @@
 # Jeans and A Nice Top at New Century Locker
 
-Jeans and A Nice Top at New Century Locker on Sat 17 Oct, Manchester. Pop and Club. Preview the line-up and save it on soundcheck.
+Jeans and A Nice Top at New Century Locker on Sat 17 Oct, Manchester. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

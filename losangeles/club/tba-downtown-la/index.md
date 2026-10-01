@@ -1,8 +1,8 @@
 # TBA - Downtown LA
 
-TBA - Downtown LA is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DJ Godfather, BAE BAE, SYMØNNE" on Fri, 2 Oct 2026.
+TBA - Downtown LA is a music venue in Los Angeles with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DJ Godfather, BAE BAE, SYMØNNE" on Fri, 2 Oct 2026.
 
-TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Armen Miran, BAE BAE, DJ Godfather and Loukeman and 2 more. Browse upcoming dates, start times and who's playing. To Be Announced - DTLA.
+TBA - Downtown LA is a music venue in Los Angeles listed on soundcheck. 6 upcoming gigs, with line-ups including Armen Miran, BAE BAE, DJ Godfather and Loukeman and 2 more. See dates, start times and who's playing. To Be Announced - DTLA.
 
 ## What's on
 

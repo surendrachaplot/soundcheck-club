@@ -1,8 +1,8 @@
 # NTO
 
-NTO is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Docks, Hamburg on Fri, 9 Oct 2026.
+NTO is a Techno and House artist with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Docks, Hamburg on Fri, 9 Oct 2026.
 
-NTO is a techno and house artist based in France, tracked on soundcheck, with 123 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Prismode, Solvane and Mees Salomé. Next up: Docks, Hamburg on Fri 9 Oct.
+NTO is a techno and house artist based in France, with 123 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 33 more. Often billed alongside Prismode, Solvane and Mees Salomé. Next up: Docks, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -22,14 +22,14 @@ NTO is a techno and house artist based in France, tracked on soundcheck, with 12
 
 ## Recently played
 
-- TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto — Fri, 18 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- Nordstern, Basel — Fri, 28 Aug 2026
-- Cova Santa, Ibiza — Sat, 8 Aug 2026
-- La Clairière, Paris — Sat, 27 Jun 2026
-- SAGE, Berlin — Sat, 6 Jun 2026
-- Tuinen van West, Amsterdam — Sat, 23 May 2026
-- Circolo Magnolia, Milan — Fri, 22 May 2026
+- TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto · Fri, 18 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- Nordstern, Basel · Fri, 28 Aug 2026
+- Cova Santa, Ibiza · Sat, 8 Aug 2026
+- La Clairière, Paris · Sat, 27 Jun 2026
+- SAGE, Berlin · Sat, 6 Jun 2026
+- Tuinen van West, Amsterdam · Sat, 23 May 2026
+- Circolo Magnolia, Milan · Fri, 22 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # 8th Anniversary CONDOMINIO at Plano B
 
-8th Anniversary CONDOMINIO at Plano B on Sat 31 Oct, Porto. 3 artists on the bill: 9T2, JOFF. and Rúben Costa. Techno and House. Preview the line-up and save it on soundcheck.
+8th Anniversary CONDOMINIO at Plano B on Sat 31 Oct, Porto. 3 artists: 9T2, JOFF. and Rúben Costa. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

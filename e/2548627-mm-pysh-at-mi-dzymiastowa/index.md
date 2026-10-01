@@ -1,6 +1,6 @@
 # MM: Pysh at Międzymiastowa
 
-MM: Pysh at Międzymiastowa on Sat 3 Oct, Krakow. 2 artists on the bill: Jeahmon and Pysh. House. Preview the line-up and save it on soundcheck.
+MM: Pysh at Międzymiastowa on Sat 3 Oct, Krakow. 2 artists: Jeahmon and Pysh. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

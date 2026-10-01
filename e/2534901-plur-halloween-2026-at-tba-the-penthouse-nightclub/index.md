@@ -1,6 +1,6 @@
 # PLUR HALLOWEEN 2026 at TBA - The Penthouse Nightclub
 
-PLUR HALLOWEEN 2026 at TBA - The Penthouse Nightclub on Sun 25 Oct, Vancouver. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+PLUR HALLOWEEN 2026 at TBA - The Penthouse Nightclub on Sun 25 Oct, Vancouver. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

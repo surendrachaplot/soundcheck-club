@@ -1,6 +1,6 @@
 # Free. Live. Music // Girls Night In at Solace
 
-Free. Live. Music // Girls Night In at Solace on Wed 14 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+Free. Live. Music // Girls Night In at Solace on Wed 14 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

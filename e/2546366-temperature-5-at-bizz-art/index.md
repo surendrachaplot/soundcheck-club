@@ -1,6 +1,6 @@
 # TEMPERATURE #5 at Bizz'Art
 
-TEMPERATURE #5 at Bizz'Art on Sat 3 Oct, Paris. Hip-Hop and Afrobeat. Preview the line-up and save it on soundcheck.
+TEMPERATURE #5 at Bizz'Art on Sat 3 Oct, Paris. Hip-Hop and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

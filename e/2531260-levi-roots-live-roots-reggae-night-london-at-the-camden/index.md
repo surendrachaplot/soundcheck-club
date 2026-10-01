@@ -1,6 +1,6 @@
 # Levi Roots Live - Roots Reggae Night London at The Camden
 
-Levi Roots Live - Roots Reggae Night London at The Camden on Fri 9 Oct, London. Club and Reggaeton. Preview the line-up and save it on soundcheck.
+Levi Roots Live - Roots Reggae Night London at The Camden on Fri 9 Oct, London. Club and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

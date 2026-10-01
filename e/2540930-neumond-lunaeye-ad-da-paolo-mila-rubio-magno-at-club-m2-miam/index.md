@@ -1,6 +1,6 @@
 # NEUMOND: LUNAEYE, AD:DA, PAOLO, MILA RUBIO, MAGNO at Club M2 Miami
 
-NEUMOND: LUNAEYE, AD:DA, PAOLO, MILA RUBIO, MAGNO at Club M2 Miami on Fri 2 Oct, Miami. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+NEUMOND: LUNAEYE, AD:DA, PAOLO, MILA RUBIO, MAGNO at Club M2 Miami on Fri 2 Oct, Miami. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

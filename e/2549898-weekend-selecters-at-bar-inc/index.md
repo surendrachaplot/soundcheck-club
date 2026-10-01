@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Mon 2 Nov, Osaka. 1 artist on the bill: YAMA(JP/OSK). House and Disco. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Mon 2 Nov, Osaka. 1 artist: YAMA(JP/OSK). House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

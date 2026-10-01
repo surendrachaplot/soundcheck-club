@@ -1,6 +1,6 @@
 # Teletech at Club Space Miami
 
-Teletech at Club Space Miami on Fri 27 Nov, Miami. Techno. Preview the line-up and save it on soundcheck.
+Teletech at Club Space Miami on Fri 27 Nov, Miami. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MYTH × REVERB × EUPHONIC — F2F: FULL VENUE TAKEOVER at The Sound House
 
-MYTH × REVERB × EUPHONIC — F2F: FULL VENUE TAKEOVER at The Sound House on Fri 2 Oct, Dublin. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+MYTH × REVERB × EUPHONIC — F2F: FULL VENUE TAKEOVER at The Sound House on Fri 2 Oct, Dublin. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

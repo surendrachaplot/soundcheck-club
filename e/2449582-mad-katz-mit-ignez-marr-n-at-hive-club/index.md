@@ -1,6 +1,6 @@
 # Mad Katz mit Ignez & MARRØN at Hive Club
 
-Mad Katz mit Ignez & MARRØN at Hive Club on Fri 27 Nov, Zurich. 2 artists on the bill: Ignez and MARRØN. Preview the line-up and save it on soundcheck.
+Mad Katz mit Ignez & MARRØN at Hive Club on Fri 27 Nov, Zurich. 2 artists: Ignez and MARRØN. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

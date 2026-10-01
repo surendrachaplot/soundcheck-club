@@ -1,6 +1,6 @@
 # 1001Tracklists x DJ Lovers Club pres. Open Channel ADE at Chicago Social Club
 
-1001Tracklists x DJ Lovers Club pres. Open Channel ADE at Chicago Social Club on Wed 21 Oct, Amsterdam. Club. Preview the line-up and save it on soundcheck.
+1001Tracklists x DJ Lovers Club pres. Open Channel ADE at Chicago Social Club on Wed 21 Oct, Amsterdam. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # disko kix: a disco party at Movers
 
-disko kix: a disco party at Movers on Fri 2 Oct, Nottingham. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+disko kix: a disco party at Movers on Fri 2 Oct, Nottingham. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

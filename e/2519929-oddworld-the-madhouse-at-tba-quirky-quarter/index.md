@@ -1,6 +1,6 @@
 # Oddworld : The Madhouse at TBA - Quirky Quarter
 
-Oddworld : The Madhouse at TBA - Quirky Quarter on Sat 31 Oct, Liverpool. Club. Preview the line-up and save it on soundcheck.
+Oddworld : The Madhouse at TBA - Quirky Quarter on Sat 31 Oct, Liverpool. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

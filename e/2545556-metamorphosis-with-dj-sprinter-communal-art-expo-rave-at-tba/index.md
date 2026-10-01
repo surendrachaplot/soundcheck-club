@@ -1,6 +1,6 @@
 # METAMORPHOSIS with DJ Sprinter: Communal Art Expo & Rave at TBA
 
-METAMORPHOSIS with DJ Sprinter: Communal Art Expo & Rave at TBA on Fri 23 Oct, Toronto. 3 artists on the bill: DJ Sprinter, Elixah and slatergroves. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+METAMORPHOSIS with DJ Sprinter: Communal Art Expo & Rave at TBA on Fri 23 Oct, Toronto. 3 artists: DJ Sprinter, Elixah and slatergroves. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

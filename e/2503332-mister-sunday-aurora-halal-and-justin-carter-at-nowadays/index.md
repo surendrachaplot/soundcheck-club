@@ -1,6 +1,6 @@
 # Mister Sunday: Aurora Halal and Justin Carter at Nowadays
 
-Mister Sunday: Aurora Halal and Justin Carter at Nowadays on Sun 18 Oct, New York City. 2 artists on the bill: Aurora Halal and Justin Carter. Preview the line-up and save it on soundcheck.
+Mister Sunday: Aurora Halal and Justin Carter at Nowadays on Sun 18 Oct, New York City. 2 artists: Aurora Halal and Justin Carter. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

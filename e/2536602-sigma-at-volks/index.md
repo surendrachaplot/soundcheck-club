@@ -1,6 +1,6 @@
 # Sigma at Volks
 
-Sigma at Volks on Sat 17 Oct, Brighton. 1 artist on the bill: Sigma. Drum & Bass. Preview the line-up and save it on soundcheck.
+Sigma at Volks on Sat 17 Oct, Brighton. 1 artist: Sigma. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

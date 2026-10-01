@@ -1,6 +1,6 @@
 # KLUENGEL XXL at Schrotty
 
-KLUENGEL XXL at Schrotty on Wed 11 Nov, Cologne. Techno. Preview the line-up and save it on soundcheck.
+KLUENGEL XXL at Schrotty on Wed 11 Nov, Cologne. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

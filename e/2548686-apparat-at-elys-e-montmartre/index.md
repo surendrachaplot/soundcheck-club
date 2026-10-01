@@ -1,6 +1,6 @@
 # Apparat at Elysée Montmartre
 
-Apparat at Elysée Montmartre on Fri 9 Oct, Paris. 1 artist on the bill: Apparat. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+Apparat at Elysée Montmartre on Fri 9 Oct, Paris. 1 artist: Apparat. Downtempo and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

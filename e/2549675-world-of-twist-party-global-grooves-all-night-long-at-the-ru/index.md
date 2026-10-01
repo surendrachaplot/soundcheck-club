@@ -1,6 +1,6 @@
 # World of Twist Party: Global Grooves All Night Long at The Rum Shack
 
-World of Twist Party: Global Grooves All Night Long at The Rum Shack on Sat 21 Nov, Glasgow. Disco and Afrobeat. Preview the line-up and save it on soundcheck.
+World of Twist Party: Global Grooves All Night Long at The Rum Shack on Sat 21 Nov, Glasgow. Disco and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

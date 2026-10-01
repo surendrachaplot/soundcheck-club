@@ -1,8 +1,8 @@
 # Jimi Jules
 
-Jimi Jules is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
+Jimi Jules is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Maravilla Studios, Mexico City on Sat, 3 Oct 2026.
 
-Jimi Jules is a house and techno artist based in Switzerland, tracked on soundcheck, with 197 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Dixon, Âme and Trikk. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
+Jimi Jules is a house and techno artist based in Switzerland, with 197 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside Dixon, Âme and Trikk. Next up: Maravilla Studios, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Jimi Jules is a house and techno artist based in Switzerland, tracked on soundch
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Fri, 18 Sept 2026
-- TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto — Fri, 18 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- Lula Club, Madrid — Fri, 11 Sept 2026
-- Scorpios, Mykonos — Thu, 10 Sept 2026
-- Woodstock'69, Amsterdam — Sun, 6 Sept 2026
-- Fvtvr, Paris — Fri, 4 Sept 2026
-- Scorpios, Mykonos — Thu, 27 Aug 2026
+- Hï Ibiza, Ibiza · Fri, 18 Sept 2026
+- TBA - Aeródromo Vilar de Luz - LPVL, 4425 Folgosa, Portugal, Porto · Fri, 18 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- Lula Club, Madrid · Fri, 11 Sept 2026
+- Scorpios, Mykonos · Thu, 10 Sept 2026
+- Woodstock'69, Amsterdam · Sun, 6 Sept 2026
+- Fvtvr, Paris · Fri, 4 Sept 2026
+- Scorpios, Mykonos · Thu, 27 Aug 2026
 
 ## Shares bills with
 

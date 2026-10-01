@@ -1,6 +1,6 @@
 # Lilith Sapphic Halloween Night at House of Q
 
-Lilith Sapphic Halloween Night at House of Q on Sat 31 Oct, Stockholm. Techno and Club. Preview the line-up and save it on soundcheck.
+Lilith Sapphic Halloween Night at House of Q on Sat 31 Oct, Stockholm. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

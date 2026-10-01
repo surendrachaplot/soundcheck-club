@@ -1,6 +1,6 @@
 # Colorize: 15 Years at E1
 
-Colorize: 15 Years at E1 on Sat 10 Oct, London. 15 artists on the bill: ALLKNIGHT, anamē, Angara and Anriu and 11 more. Progressive House and House. Preview the line-up and save it on soundcheck.
+Colorize: 15 Years at E1 on Sat 10 Oct, London. 15 artists: ALLKNIGHT, anamē, Angara and Anriu and 11 more. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

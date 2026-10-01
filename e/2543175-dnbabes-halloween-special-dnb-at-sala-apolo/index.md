@@ -1,6 +1,6 @@
 # DnBabes: Halloween Special [DnB] at Sala Apolo
 
-DnBabes: Halloween Special [DnB] at Sala Apolo on Sat 31 Oct, Barcelona. 1 artist on the bill: PEAK. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+DnBabes: Halloween Special [DnB] at Sala Apolo on Sat 31 Oct, Barcelona. 1 artist: PEAK. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

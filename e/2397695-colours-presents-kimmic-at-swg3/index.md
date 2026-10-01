@@ -1,6 +1,6 @@
 # Colours Presents - Kimmic at SWG3
 
-Colours Presents - Kimmic at SWG3 on Sat 24 Oct, Glasgow. Trance. Preview the line-up and save it on soundcheck.
+Colours Presents - Kimmic at SWG3 on Sat 24 Oct, Glasgow. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

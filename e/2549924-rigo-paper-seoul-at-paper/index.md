@@ -1,6 +1,6 @@
 # RIGO_Paper Seoul at Paper
 
-RIGO_Paper Seoul on Sat 3 Oct, Seoul. 3 artists on the bill: RIGO, Shinyoung and Soyo. House. Preview the line-up and save it on soundcheck.
+RIGO_Paper Seoul on Sat 3 Oct, Seoul. 3 artists: RIGO, Shinyoung and Soyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

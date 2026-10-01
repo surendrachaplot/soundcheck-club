@@ -1,8 +1,8 @@
 # gau7t
 
-gau7t is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
+gau7t is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Skatecafe, Amsterdam on Fri, 2 Oct 2026.
 
-gau7t is a techno and house artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Aberdeen, Amsterdam, Dundee and Edinburgh and 3 more. Often billed alongside Oakley Carter, Tedzx and HERBS. Next up: Skatecafe, Amsterdam on Fri 2 Oct.
+gau7t is a techno and house artist based in United Kingdom, with 82 gigs on soundcheck across Aberdeen, Amsterdam, Dundee and Edinburgh and 3 more. Often billed alongside Oakley Carter, Tedzx and HERBS. Next up: Skatecafe, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ gau7t is a techno and house artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- La Cheetah Club, Glasgow — Fri, 4 Sept 2026
-- XOYO, London — Thu, 27 Aug 2026
-- Sneaky Pete's, Edinburgh — Wed, 20 May 2026
-- SWG3, Glasgow — Fri, 15 May 2026
-- The Priory, Aberdeen — Sun, 3 May 2026
-- Oran Mor, Glasgow — Sun, 5 Apr 2026
-- Sub Club, Glasgow — Thu, 19 Mar 2026
-- Sneaky Pete's, Edinburgh — Tue, 24 Feb 2026
+- La Cheetah Club, Glasgow · Fri, 4 Sept 2026
+- XOYO, London · Thu, 27 Aug 2026
+- Sneaky Pete's, Edinburgh · Wed, 20 May 2026
+- SWG3, Glasgow · Fri, 15 May 2026
+- The Priory, Aberdeen · Sun, 3 May 2026
+- Oran Mor, Glasgow · Sun, 5 Apr 2026
+- Sub Club, Glasgow · Thu, 19 Mar 2026
+- Sneaky Pete's, Edinburgh · Tue, 24 Feb 2026
 
 ## Shares bills with
 

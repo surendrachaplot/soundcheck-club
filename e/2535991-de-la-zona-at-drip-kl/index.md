@@ -1,6 +1,6 @@
 # DE LA ZONA at Drip KL
 
-DE LA ZONA at Drip KL on Thu 29 Oct, Kuala Lumpur. Techno and Tech House. Preview the line-up and save it on soundcheck.
+DE LA ZONA at Drip KL on Thu 29 Oct, Kuala Lumpur. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

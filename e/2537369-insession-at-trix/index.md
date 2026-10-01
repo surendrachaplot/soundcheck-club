@@ -1,6 +1,6 @@
 # InSession at Trix
 
-InSession at Trix on Fri 2 Oct, Antwerp. Preview the line-up and save it on soundcheck.
+InSession at Trix on Fri 2 Oct, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

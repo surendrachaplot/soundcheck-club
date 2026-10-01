@@ -1,6 +1,6 @@
 # ACT!ON: BBBBBBB, Catnapp, Alex Wilcox at Panke
 
-ACT!ON: BBBBBBB, Catnapp, Alex Wilcox at Panke on Fri 6 Nov, Berlin. 3 artists on the bill: Alex Wilcox, BBBBBBB and Catnapp. Hardcore and Experimental. Preview the line-up and save it on soundcheck.
+ACT!ON: BBBBBBB, Catnapp, Alex Wilcox at Panke on Fri 6 Nov, Berlin. 3 artists: Alex Wilcox, BBBBBBB and Catnapp. Hardcore and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # M Eleven
 
-M Eleven is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at XLR, Manchester on Fri, 9 Oct 2026.
+M Eleven is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at XLR, Manchester on Fri, 9 Oct 2026.
 
-M Eleven is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London and Manchester. Often billed alongside 0akley, s0lais and DJ Bowlplate. Next up: XLR, Manchester on Fri 9 Oct.
+M Eleven is a techno and trance artist based in United Kingdom, with 6 gigs on soundcheck across London and Manchester. Often billed alongside 0akley, s0lais and DJ Bowlplate. Next up: XLR, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ M Eleven is a techno and trance artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- M.O.T, London — Sat, 4 Apr 2026
-- The George Tavern, London — Fri, 23 Jan 2026
-- The George Tavern, London — Sat, 4 Oct 2025
-- M.O.T, London — Thu, 10 Oct 2024
-- Unit 58, London — Fri, 2 Aug 2024
+- M.O.T, London · Sat, 4 Apr 2026
+- The George Tavern, London · Fri, 23 Jan 2026
+- The George Tavern, London · Sat, 4 Oct 2025
+- M.O.T, London · Thu, 10 Oct 2024
+- Unit 58, London · Fri, 2 Aug 2024
 
 ## Shares bills with
 

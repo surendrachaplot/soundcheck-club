@@ -1,6 +1,6 @@
 # Grassroots Events 20th Birthday at Leeds African & Caribbean Centre (Formerly Leeds West Indian Centre)
 
-Grassroots Events 20th Birthday at Leeds African & Caribbean Centre (Formerly Leeds West Indian Centre) on Sat 24 Oct, Leeds. Dub and Afrobeat. Preview the line-up and save it on soundcheck.
+Grassroots Events 20th Birthday at Leeds African & Caribbean Centre (Formerly Leeds West Indian Centre) on Sat 24 Oct, Leeds. Dub and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

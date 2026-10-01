@@ -1,8 +1,8 @@
 # aantz
 
-aantz is a Ambient and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Cúpula del Palacio Libertad, Buenos Aires on Fri, 27 Nov 2026.
+aantz is a Ambient and Experimental artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Cúpula del Palacio Libertad, Buenos Aires on Fri, 27 Nov 2026.
 
-aantz is an ambient and experimental artist based in Argentina, tracked on soundcheck, with 15 sets logged across Argentina, Basel, Berlin and Buenos Aires and 2 more. Often billed alongside O/Y, Barker and 2THEMAX. Next up: La Cúpula del Palacio Libertad, Buenos Aires on Fri 27 Nov.
+aantz is an ambient and experimental artist based in Argentina, with 15 gigs on soundcheck across Argentina, Basel, Berlin and Buenos Aires and 2 more. Often billed alongside O/Y, Barker and 2THEMAX. Next up: La Cúpula del Palacio Libertad, Buenos Aires on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ aantz is an ambient and experimental artist based in Argentina, tracked on sound
 
 ## Recently played
 
-- Kaserne Basel, Basel — Thu, 17 Sept 2026
-- Tresor.West, Dortmund-essen — Thu, 17 Sept 2026
-- Holdenweid, Basel — Fri, 4 Sept 2026
-- FOUND, Berlin — Sat, 29 Aug 2026
-- Coro Wine and Vinyls, Berlin — Fri, 31 Jul 2026
-- Ferropolis, Leipzig — Fri, 17 Jul 2026
-- Ikii, Berlin — Sat, 20 Jun 2026
-- Jonny Knüppel, Berlin — Fri, 8 May 2026
+- Kaserne Basel, Basel · Thu, 17 Sept 2026
+- Tresor.West, Dortmund-essen · Thu, 17 Sept 2026
+- Holdenweid, Basel · Fri, 4 Sept 2026
+- FOUND, Berlin · Sat, 29 Aug 2026
+- Coro Wine and Vinyls, Berlin · Fri, 31 Jul 2026
+- Ferropolis, Leipzig · Fri, 17 Jul 2026
+- Ikii, Berlin · Sat, 20 Jun 2026
+- Jonny Knüppel, Berlin · Fri, 8 May 2026
 
 ## Shares bills with
 

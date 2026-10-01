@@ -1,6 +1,6 @@
 # MODUL at Ääniwalli
 
-MODUL at Ääniwalli on Fri 23 Oct, Helsinki. 3 artists on the bill: ALLFIVE, Conntex and Yanamaste. Techno. Preview the line-up and save it on soundcheck.
+MODUL at Ääniwalli on Fri 23 Oct, Helsinki. 3 artists: ALLFIVE, Conntex and Yanamaste. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

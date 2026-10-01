@@ -1,6 +1,6 @@
 # Illegaal DANCE BATTLE ALL STYLES #10 at Illegaal
 
-Illegaal DANCE BATTLE ALL STYLES #10 on Fri 9 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Illegaal DANCE BATTLE ALL STYLES #10 on Fri 9 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

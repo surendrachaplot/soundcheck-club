@@ -1,6 +1,6 @@
 # SWD Japan Proudly presents No Tomorrow Farewell Tour 2026 at Socore Factory
 
-SWD Japan Proudly presents No Tomorrow Farewell Tour 2026 at Socore Factory on Fri 23 Oct, Osaka. Preview the line-up and save it on soundcheck.
+SWD Japan Proudly presents No Tomorrow Farewell Tour 2026 at Socore Factory on Fri 23 Oct, Osaka. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

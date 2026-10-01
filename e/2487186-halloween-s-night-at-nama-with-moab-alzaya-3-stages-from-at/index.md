@@ -1,6 +1,6 @@
 # Halloween's Night at NAMA with MOAB & Alzaya | 3 stages from at 18.00 at NAMA - Nuovo Anfiteatro Martesana
 
-Halloween's Night at NAMA with MOAB & Alzaya | 3 stages from at 18.00 at NAMA - Nuovo Anfiteatro Martesana on Sat 31 Oct, Milan. Techno and House. Preview the line-up and save it on soundcheck.
+Halloween's Night at NAMA with MOAB & Alzaya | 3 stages from at 18.00 at NAMA - Nuovo Anfiteatro Martesana on Sat 31 Oct, Milan. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

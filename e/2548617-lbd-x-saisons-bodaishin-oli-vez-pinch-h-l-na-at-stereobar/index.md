@@ -1,6 +1,6 @@
 # LBD x Saisons: Bodaishin - Oli Vez - Pinch & Héléna at StereoBar
 
-LBD x Saisons: Bodaishin - Oli Vez - Pinch & Héléna at StereoBar on Sun 18 Oct, Montreal. 1 artist on the bill: Bodaishin. Preview the line-up and save it on soundcheck.
+LBD x Saisons: Bodaishin - Oli Vez - Pinch & Héléna at StereoBar on Sun 18 Oct, Montreal. 1 artist: Bodaishin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

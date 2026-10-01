@@ -1,6 +1,6 @@
 # WGS - We Got Sound with George Morel at Club Cello
 
-WGS - We Got Sound with George Morel at Club Cello on Sat 19 Dec, Basel. 4 artists on the bill: Duorhythm, Ed Luis, George Morel and Isidore. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+WGS - We Got Sound with George Morel at Club Cello on Sat 19 Dec, Basel. 4 artists: Duorhythm, Ed Luis, George Morel and Isidore. Deep House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

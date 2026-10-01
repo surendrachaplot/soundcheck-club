@@ -1,8 +1,8 @@
 # SHIA
 
-SHIA is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
+SHIA is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Pátio da Galé, Lisbon on Sat, 31 Oct 2026.
 
-SHIA is a house and tech house artist based in Portugal, tracked on soundcheck, with 21 sets logged across Amsterdam, Lisbon, London and Porto. Often billed alongside Miguel Rendeiro, Martim Rola and Alex Wann. Next up: TBA - Pátio da Galé, Lisbon on Sat 31 Oct.
+SHIA is a house and tech house artist based in Portugal, with 21 gigs on soundcheck across Amsterdam, Lisbon, London and Porto. Often billed alongside Miguel Rendeiro, Martim Rola and Alex Wann. Next up: TBA - Pátio da Galé, Lisbon on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SHIA is a house and tech house artist based in Portugal, tracked on soundcheck, 
 
 ## Recently played
 
-- TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto — Sat, 15 Aug 2026
-- Plano B, Porto — Sat, 15 Aug 2026
-- TBA - Parque do Avioso, Porto — Sat, 27 Jun 2026
-- TBA - Anfiteatro da Pedra, Lisbon — Sat, 16 May 2026
-- Madam, Amsterdam — Sat, 2 May 2026
-- TBA - LUST IN RIO, Lisbon — Fri, 10 Apr 2026
-- Pátio da Galé, Lisbon — Sat, 4 Apr 2026
-- Plano B, Porto — Sat, 28 Feb 2026
+- TBA - Avenida Infante Sagres 22, 4405-565 Valadares, Portugal, Porto · Sat, 15 Aug 2026
+- Plano B, Porto · Sat, 15 Aug 2026
+- TBA - Parque do Avioso, Porto · Sat, 27 Jun 2026
+- TBA - Anfiteatro da Pedra, Lisbon · Sat, 16 May 2026
+- Madam, Amsterdam · Sat, 2 May 2026
+- TBA - LUST IN RIO, Lisbon · Fri, 10 Apr 2026
+- Pátio da Galé, Lisbon · Sat, 4 Apr 2026
+- Plano B, Porto · Sat, 28 Feb 2026
 
 ## Shares bills with
 

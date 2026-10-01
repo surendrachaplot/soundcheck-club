@@ -1,6 +1,6 @@
 # BRAZLOMBIA at Wax Music Lounge
 
-BRAZLOMBIA at Wax Music Lounge on Tue 20 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+BRAZLOMBIA at Wax Music Lounge on Tue 20 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

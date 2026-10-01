@@ -1,6 +1,6 @@
 # Cortisa Star - For All The Dolls Tour at Warehouse on Watts
 
-Cortisa Star - For All The Dolls Tour at Warehouse on Watts on Wed 14 Oct, Philadelphia. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
+Cortisa Star - For All The Dolls Tour at Warehouse on Watts on Wed 14 Oct, Philadelphia. Techno and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

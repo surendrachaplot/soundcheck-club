@@ -1,6 +1,6 @@
 # A Day with Tobiahs at Palais
 
-A Day with Tobiahs at Palais on Sat 10 Oct, London. Preview the line-up and save it on soundcheck.
+A Day with Tobiahs at Palais on Sat 10 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Plastic Night presents Cienwatios at Macarena Club
 
-Plastic Night presents Cienwatios at Macarena Club on Tue 20 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Plastic Night presents Cienwatios at Macarena Club on Tue 20 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

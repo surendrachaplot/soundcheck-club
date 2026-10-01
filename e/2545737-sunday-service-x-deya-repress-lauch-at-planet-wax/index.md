@@ -1,6 +1,6 @@
 # SUNDAY SERVICE x DEYA 'REPRESS LAUCH' at Planet Wax
 
-SUNDAY SERVICE x DEYA 'REPRESS LAUCH' at Planet Wax on Sun 11 Oct, London. 4 artists on the bill: Amy  B, Dexta, LOKI and Slundarq. Hardcore and Garage. Preview the line-up and save it on soundcheck.
+SUNDAY SERVICE x DEYA 'REPRESS LAUCH' at Planet Wax on Sun 11 Oct, London. 4 artists: Amy  B, Dexta, LOKI and Slundarq. Hardcore and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

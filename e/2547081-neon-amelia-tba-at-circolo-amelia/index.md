@@ -1,6 +1,6 @@
 # Neon_Amelia // TBA at Circolo Amelia
 
-Neon_Amelia // TBA at Circolo Amelia on Sat 31 Oct, Milan. Preview the line-up and save it on soundcheck.
+Neon_Amelia // TBA at Circolo Amelia on Sat 31 Oct, Milan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

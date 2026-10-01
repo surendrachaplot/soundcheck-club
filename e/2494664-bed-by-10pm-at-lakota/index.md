@@ -1,6 +1,6 @@
 # Bed By 10pm at Lakota
 
-Bed By 10pm at Lakota on Sat 10 Oct, Bristol. Preview the line-up and save it on soundcheck.
+Bed By 10pm at Lakota on Sat 10 Oct, Bristol. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

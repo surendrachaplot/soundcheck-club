@@ -1,6 +1,6 @@
 # Freak Show: Clown Rave at Secret Location
 
-Freak Show: Clown Rave at Secret Location on Fri 9 Oct, Chicago. Techno. Preview the line-up and save it on soundcheck.
+Freak Show: Clown Rave at Secret Location on Fri 9 Oct, Chicago. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

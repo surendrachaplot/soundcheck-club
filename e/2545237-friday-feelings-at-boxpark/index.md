@@ -1,6 +1,6 @@
 # Friday Feelings at Boxpark
 
-Friday Feelings at Boxpark on Fri 20 Nov, London. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+Friday Feelings at Boxpark on Fri 20 Nov, London. Hip-Hop and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Eliana
 
-Eliana is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
+Eliana is a House and Afro House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Inspire Entertainment Resort, Seoul on Sat, 3 Oct 2026.
 
-Eliana is a house and afro house artist based in Russia, tracked on soundcheck, with 10 sets logged across Brussels, Chicago, London and Mexico City and 1 more. Often billed alongside AMARI, Alex Kislov and Avo (ES). Next up: Inspire Entertainment Resort, Seoul on Sat 3 Oct.
+Eliana is a house and afro house artist based in Russia, with 10 gigs on soundcheck across Brussels, Chicago, London and Mexico City and 1 more. Often billed alongside AMARI, Alex Kislov and Avo (ES). Next up: Inspire Entertainment Resort, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Eliana is a house and afro house artist based in Russia, tracked on soundcheck, 
 
 ## Recently played
 
-- Departamento, Mexico City — Wed, 9 Sept 2026
-- Hackney Wick Multiple Venues, London — Sat, 4 Jul 2026
-- TBA - 2611 North Cannon Drive, Chicago, Illinois 60614, United States, Chicago — Fri, 19 Jun 2026
-- Radius, Chicago — Sat, 16 May 2026
-- Illegaal, Brussels — Fri, 4 Jul 2025
-- Navy Pier, Chicago — Sat, 10 May 2025
-- Foundation Room - House Of Blues, Chicago — Sat, 4 May 2024
-- Celeste, Chicago — Sat, 27 Jan 2024
+- Departamento, Mexico City · Wed, 9 Sept 2026
+- Hackney Wick Multiple Venues, London · Sat, 4 Jul 2026
+- TBA - 2611 North Cannon Drive, Chicago, Illinois 60614, United States, Chicago · Fri, 19 Jun 2026
+- Radius, Chicago · Sat, 16 May 2026
+- Illegaal, Brussels · Fri, 4 Jul 2025
+- Navy Pier, Chicago · Sat, 10 May 2025
+- Foundation Room - House Of Blues, Chicago · Sat, 4 May 2024
+- Celeste, Chicago · Sat, 27 Jan 2024
 
 ## Shares bills with
 

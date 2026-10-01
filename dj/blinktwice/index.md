@@ -1,8 +1,8 @@
 # Blink Twice
 
-Blink Twice is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Munster Munch, London on Sat, 24 Oct 2026.
+Blink Twice is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Munster Munch, London on Sat, 24 Oct 2026.
 
-Blink Twice is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside DJ Heat, Picep and BOA. Next up: Munster Munch, London on Sat 24 Oct.
+Blink Twice is a house and tech house artist based in United Kingdom, with 5 gigs on soundcheck across London. Often billed alongside DJ Heat, Picep and BOA. Next up: Munster Munch, London on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,9 +13,9 @@ Blink Twice is a house and tech house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Jungla London, London — Fri, 17 Jul 2026
-- Groovetank Live, London — Thu, 18 Jun 2026
-- Brixton Radio, London — Sat, 6 Jun 2026
+- Jungla London, London · Fri, 17 Jul 2026
+- Groovetank Live, London · Thu, 18 Jun 2026
+- Brixton Radio, London · Sat, 6 Jun 2026
 
 ## Shares bills with
 

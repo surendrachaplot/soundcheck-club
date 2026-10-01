@@ -1,6 +1,6 @@
 # YUYU X REVERIE I Specka Club at Specka
 
-YUYU X REVERIE I Specka Club on Sun 11 Oct, Madrid. 5 artists on the bill: Belkan, Djen, Dyans and Javier Klash and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+YUYU X REVERIE I Specka Club on Sun 11 Oct, Madrid. 5 artists: Belkan, Djen, Dyans and Javier Klash and 1 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MiNNA - ALL NIGHT LONG - BOXING NIGHT at The Merchant
 
-MiNNA - ALL NIGHT LONG - BOXING NIGHT at The Merchant on Sat 26 Dec, Liverpool. 1 artist on the bill: MiNNA. Disco. Preview the line-up and save it on soundcheck.
+MiNNA - ALL NIGHT LONG - BOXING NIGHT at The Merchant on Sat 26 Dec, Liverpool. 1 artist: MiNNA. Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # A:M After Hours at Fire
 
-A:M After Hours at Fire on Sat 3 Oct, London. House and Pop. Preview the line-up and save it on soundcheck.
+A:M After Hours at Fire on Sat 3 Oct, London. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

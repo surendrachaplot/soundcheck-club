@@ -1,6 +1,6 @@
 # Night Shift at The Corner
 
-Night Shift at The Corner on Fri 2 Oct, Miami. Post-Punk. Preview the line-up and save it on soundcheck.
+Night Shift at The Corner on Fri 2 Oct, Miami. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

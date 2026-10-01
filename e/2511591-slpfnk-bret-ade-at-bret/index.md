@@ -1,6 +1,6 @@
 # SLPFNK - BRET ADE at BRET
 
-SLPFNK - BRET ADE on Sun 25 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+SLPFNK - BRET ADE on Sun 25 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

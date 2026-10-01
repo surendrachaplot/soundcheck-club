@@ -1,6 +1,6 @@
 # Mtvare • Seqta • Ketato M • Nikkol • ODET • Meyra at Mtkvarze
 
-Mtvare • Seqta • Ketato M • Nikkol • ODET • Meyra at Mtkvarze on Sat 3 Oct, Tbilisi. 4 artists on the bill: Ketato M, Meyra, Mtvare and Seqta. Preview the line-up and save it on soundcheck.
+Mtvare • Seqta • Ketato M • Nikkol • ODET • Meyra at Mtkvarze on Sat 3 Oct, Tbilisi. 4 artists: Ketato M, Meyra, Mtvare and Seqta. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

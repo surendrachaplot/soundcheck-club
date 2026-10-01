@@ -1,6 +1,6 @@
 # Dilby (8BIT) + heSAWyou + Alain Hellion at Terraza Catedral
 
-Dilby (8BIT) + heSAWyou + Alain Hellion at Terraza Catedral on Sat 17 Oct, Mexico City. 3 artists on the bill: Alain Hellion, Dilby and heSAWyou. House and Minimal. Preview the line-up and save it on soundcheck.
+Dilby (8BIT) + heSAWyou + Alain Hellion at Terraza Catedral on Sat 17 Oct, Mexico City. 3 artists: Alain Hellion, Dilby and heSAWyou. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

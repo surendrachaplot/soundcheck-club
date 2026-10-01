@@ -1,6 +1,6 @@
 # WOT & Friends at Wolf Milano
 
-WOT & Friends at Wolf Milano on Fri 2 Oct, Milan. Electro and Disco. Preview the line-up and save it on soundcheck.
+WOT & Friends at Wolf Milano on Fri 2 Oct, Milan. Electro and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

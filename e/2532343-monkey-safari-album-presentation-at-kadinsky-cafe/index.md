@@ -1,6 +1,6 @@
 # Monkey Safari Album presentation at Kadinsky Cafe
 
-Monkey Safari Album presentation at Kadinsky Cafe on Tue 20 Oct, Amsterdam. Techno and Afro House. Preview the line-up and save it on soundcheck.
+Monkey Safari Album presentation at Kadinsky Cafe on Tue 20 Oct, Amsterdam. Techno and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

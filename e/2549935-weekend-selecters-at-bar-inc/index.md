@@ -1,6 +1,6 @@
 # WEEKEND SELECTERS at BAR Inc
 
-WEEKEND SELECTERS at BAR Inc on Sat 14 Nov, Osaka. 3 artists on the bill: AOKI takamasa, Nicola Cruz and Silvia Ponce. Techno and Minimal. Preview the line-up and save it on soundcheck.
+WEEKEND SELECTERS at BAR Inc on Sat 14 Nov, Osaka. 3 artists: AOKI takamasa, Nicola Cruz and Silvia Ponce. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

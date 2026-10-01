@@ -1,6 +1,6 @@
 # TELETECH x SHINE - Ali James at The Limelight
 
-TELETECH x SHINE - Ali James at The Limelight on Fri 20 Nov, Belfast. 3 artists on the bill: Ali James, Nyzero and YARIS. Preview the line-up and save it on soundcheck.
+TELETECH x SHINE - Ali James at The Limelight on Fri 20 Nov, Belfast. 3 artists: Ali James, Nyzero and YARIS. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

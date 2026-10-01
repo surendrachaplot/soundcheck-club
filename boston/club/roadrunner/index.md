@@ -1,8 +1,8 @@
 # Roadrunner
 
-Roadrunner is a music venue in Boston with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Bassvictim in Boston" on Mon, 26 Oct 2026.
+Roadrunner is a music venue in Boston with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bassvictim in Boston" on Mon, 26 Oct 2026.
 
-Roadrunner is a music venue in Boston listed on soundcheck. 6 upcoming gigs, with line-ups including Bassvictim, DJ_Dave, horsegiirL and nimino and 2 more. Browse upcoming dates, start times and who's playing. 89 Guest St. Boston, MA 02135.
+Roadrunner is a music venue in Boston listed on soundcheck. 6 upcoming gigs, with line-ups including Bassvictim, DJ_Dave, horsegiirL and nimino and 2 more. See dates, start times and who's playing. 89 Guest St. Boston, MA 02135.
 
 ## What's on
 

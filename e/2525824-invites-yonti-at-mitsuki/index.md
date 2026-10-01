@@ -1,6 +1,6 @@
 # Invites:Yonti at Mitsuki
 
-Invites:Yonti at Mitsuki on Wed 7 Oct, Tokyo. 4 artists on the bill: Shinsuke Goto, Yonti, YUI (JP.) and Zorba. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Invites:Yonti at Mitsuki on Wed 7 Oct, Tokyo. 4 artists: Shinsuke Goto, Yonti, YUI (JP.) and Zorba. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

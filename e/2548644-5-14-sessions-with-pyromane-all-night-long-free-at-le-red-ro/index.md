@@ -1,6 +1,6 @@
 # 5:14 Sessions with Pyromane [All Night Long - Free] at Le Red Room
 
-5:14 Sessions with Pyromane [All Night Long - Free] at Le Red Room on Tue 20 Oct, Montreal. 1 artist on the bill: Pyromane. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+5:14 Sessions with Pyromane [All Night Long - Free] at Le Red Room on Tue 20 Oct, Montreal. 1 artist: Pyromane. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

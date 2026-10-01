@@ -1,6 +1,6 @@
 # The Heist - Old Savings Bank Halloween feat. Emmit Fenn at Old Savings Bank
 
-The Heist - Old Savings Bank Halloween feat. Emmit Fenn on Fri 30 Oct, New York City. House. Preview the line-up and save it on soundcheck.
+The Heist - Old Savings Bank Halloween feat. Emmit Fenn on Fri 30 Oct, New York City. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

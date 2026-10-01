@@ -1,6 +1,6 @@
 # RAVING CHARLIE: Halloween Rave at Melkweg
 
-RAVING CHARLIE: Halloween Rave at Melkweg on Fri 30 Oct, Amsterdam. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+RAVING CHARLIE: Halloween Rave at Melkweg on Fri 30 Oct, Amsterdam. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

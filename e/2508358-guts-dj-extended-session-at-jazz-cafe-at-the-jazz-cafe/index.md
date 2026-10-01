@@ -1,6 +1,6 @@
 # Guts (DJ) - Extended Session at Jazz Cafe at The Jazz Cafe
 
-Guts (DJ) - Extended Session at Jazz Cafe at The Jazz Cafe on Fri 18 Dec, London. Preview the line-up and save it on soundcheck.
+Guts (DJ) - Extended Session at Jazz Cafe at The Jazz Cafe on Fri 18 Dec, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

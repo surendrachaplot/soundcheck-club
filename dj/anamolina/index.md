@@ -1,8 +1,8 @@
 # Ana Molina
 
-Ana Molina is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Golden Gate, Berlin on Fri, 2 Oct 2026.
+Ana Molina is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Golden Gate, Berlin on Fri, 2 Oct 2026.
 
-Ana Molina is a house and disco artist based in Spain, tracked on soundcheck, with 24 sets logged across Berlin. Often billed alongside Black Loops, Emanuele Barilli and jiyun kim. Next up: Golden Gate, Berlin on Fri 2 Oct.
+Ana Molina is a house and disco artist based in Spain, with 24 gigs on soundcheck across Berlin. Often billed alongside Black Loops, Emanuele Barilli and jiyun kim. Next up: Golden Gate, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Ana Molina is a house and disco artist based in Spain, tracked on soundcheck, wi
 
 ## Recently played
 
-- OXI, Berlin — Sun, 13 Sept 2026
-- Else, Berlin — Sun, 12 Jul 2026
-- Renate, Berlin — Sat, 20 Jun 2026
-- Pas Berlin, Berlin — Sun, 31 May 2026
-- Prince Charles, Berlin — Fri, 1 May 2026
-- Golden Gate, Berlin — Sat, 4 Apr 2026
-- Prince Charles, Berlin — Wed, 31 Dec 2025
-- Renate, Berlin — Fri, 5 Dec 2025
+- OXI, Berlin · Sun, 13 Sept 2026
+- Else, Berlin · Sun, 12 Jul 2026
+- Renate, Berlin · Sat, 20 Jun 2026
+- Pas Berlin, Berlin · Sun, 31 May 2026
+- Prince Charles, Berlin · Fri, 1 May 2026
+- Golden Gate, Berlin · Sat, 4 Apr 2026
+- Prince Charles, Berlin · Wed, 31 Dec 2025
+- Renate, Berlin · Fri, 5 Dec 2025
 
 ## Shares bills with
 

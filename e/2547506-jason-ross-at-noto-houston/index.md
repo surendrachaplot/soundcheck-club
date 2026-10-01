@@ -1,6 +1,6 @@
 # Jason Ross at Noto Houston
 
-Jason Ross at Noto Houston on Sat 3 Oct, Houston. Preview the line-up and save it on soundcheck.
+Jason Ross at Noto Houston on Sat 3 Oct, Houston. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

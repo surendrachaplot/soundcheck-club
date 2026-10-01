@@ -1,6 +1,6 @@
 # Querico: Move D + Hanzo Tono + Lily at Fünk
 
-Querico: Move D + Hanzo Tono + Lily at Fünk on Sat 24 Oct, Mexico City. 2 artists on the bill: Hanzo Tono and Move D. House. Preview the line-up and save it on soundcheck.
+Querico: Move D + Hanzo Tono + Lily at Fünk on Sat 24 Oct, Mexico City. 2 artists: Hanzo Tono and Move D. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

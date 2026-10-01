@@ -1,6 +1,6 @@
 # Supa Dupa Fly: R'n'B LDN Day Party at The Lower Third
 
-Supa Dupa Fly: R'n'B LDN Day Party at The Lower Third on Sat 10 Oct, London. R&B. Preview the line-up and save it on soundcheck.
+Supa Dupa Fly: R'n'B LDN Day Party at The Lower Third on Sat 10 Oct, London. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

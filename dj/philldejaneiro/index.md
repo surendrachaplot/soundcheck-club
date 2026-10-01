@@ -1,8 +1,8 @@
 # Phill de Janeiro
 
-Phill de Janeiro is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Phill de Janeiro is a House and Tech House artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Phill de Janeiro is a house and tech house artist based in Brazil, tracked on soundcheck, with 103 sets logged across Amsterdam, Barcelona, Birmingham and Bristol and 9 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Phill de Janeiro is a house and tech house artist based in Brazil, with 104 gigs on soundcheck across Amsterdam, Barcelona, Birmingham and Bristol and 9 more. Often billed alongside Benji King, Jude Lenihan and Truly Madly. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -17,17 +17,18 @@ Phill de Janeiro is a house and tech house artist based in Brazil, tracked on so
 | Fri, 27 Nov 2026 | Depot Mayfield | Manchester |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
 | Sat, 5 Dec 2026 | Invisible Wind Factory | Liverpool |
+| Sat, 19 Dec 2026 | Night Tales | London |
 
 ## Recently played
 
-- TBA - KENT COUNTY SHOWGROUND, London — Sat, 12 Sept 2026
-- KOKO, London — Fri, 4 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- fabric, London — Sat, 29 Aug 2026
-- Amnesia Ibiza, Ibiza — Thu, 20 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
-- Cova Santa, Ibiza — Tue, 4 Aug 2026
+- TBA - KENT COUNTY SHOWGROUND, London · Sat, 12 Sept 2026
+- KOKO, London · Fri, 4 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- fabric, London · Sat, 29 Aug 2026
+- Amnesia Ibiza, Ibiza · Thu, 20 Aug 2026
+- Burgess Park, London · Sun, 9 Aug 2026
+- Burgess Park, London · Sun, 9 Aug 2026
+- Cova Santa, Ibiza · Tue, 4 Aug 2026
 
 ## Shares bills with
 

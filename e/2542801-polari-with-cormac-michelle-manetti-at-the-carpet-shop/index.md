@@ -1,6 +1,6 @@
 # Polari with Cormac & Michelle Manetti at The Carpet Shop
 
-Polari with Cormac & Michelle Manetti at The Carpet Shop on Fri 27 Nov, London. 2 artists on the bill: Cormac and Michelle Manetti. Preview the line-up and save it on soundcheck.
+Polari with Cormac & Michelle Manetti at The Carpet Shop on Fri 27 Nov, London. 2 artists: Cormac and Michelle Manetti. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

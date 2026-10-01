@@ -1,6 +1,6 @@
 # Dancing on Our Graves – Halloween Special at Badehaus Berlin
 
-Dancing on Our Graves – Halloween Special at Badehaus Berlin on Sat 31 Oct, Berlin. EBM and Post-Punk. Preview the line-up and save it on soundcheck.
+Dancing on Our Graves – Halloween Special at Badehaus Berlin on Sat 31 Oct, Berlin. EBM and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FIERA DEL DISCO _ RHO at Spazio Mast
 
-FIERA DEL DISCO _ RHO at Spazio Mast on Sun 4 Oct, Milan. 1 artist on the bill: STEEV-C. Preview the line-up and save it on soundcheck.
+FIERA DEL DISCO _ RHO at Spazio Mast on Sun 4 Oct, Milan. 1 artist: STEEV-C. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

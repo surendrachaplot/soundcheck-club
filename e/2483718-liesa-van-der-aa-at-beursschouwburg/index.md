@@ -1,6 +1,6 @@
 # Liesa Van der Aa at Beursschouwburg
 
-Liesa Van der Aa at Beursschouwburg on Thu 5 Nov, Brussels. Preview the line-up and save it on soundcheck.
+Liesa Van der Aa at Beursschouwburg on Thu 5 Nov, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

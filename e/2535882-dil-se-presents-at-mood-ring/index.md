@@ -1,6 +1,6 @@
 # Dil Se presents at Mood Ring
 
-Dil Se presents at Mood Ring on Fri 2 Oct, New York City. 4 artists on the bill: AMLA.DHAS, Handsome Krish, Sanjay Nara and XAYN. Preview the line-up and save it on soundcheck.
+Dil Se presents at Mood Ring on Fri 2 Oct, New York City. 4 artists: AMLA.DHAS, Handsome Krish, Sanjay Nara and XAYN. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

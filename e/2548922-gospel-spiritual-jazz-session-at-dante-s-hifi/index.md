@@ -1,6 +1,6 @@
 # Gospel + Spiritual Jazz Session at Dante's HiFi
 
-Gospel + Spiritual Jazz Session at Dante's HiFi on Sun 4 Oct, Miami. Preview the line-up and save it on soundcheck.
+Gospel + Spiritual Jazz Session at Dante's HiFi on Sun 4 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

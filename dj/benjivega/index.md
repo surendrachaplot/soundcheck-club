@@ -1,8 +1,8 @@
 # Benji Vega
 
-Benji Vega is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sexto Piso, Mexico City on Sat, 17 Oct 2026.
+Benji Vega is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sexto Piso, Mexico City on Sat, 17 Oct 2026.
 
-Benji Vega is a techno and tech house artist based in Mexico, tracked on soundcheck, with 10 sets logged across Mexico City. Often billed alongside ADAKEO, Chucho Amezcua and Diego Palacios. Next up: Sexto Piso, Mexico City on Sat 17 Oct.
+Benji Vega is a techno and tech house artist based in Mexico, with 10 gigs on soundcheck across Mexico City. Often billed alongside ADAKEO, Chucho Amezcua and Diego Palacios. Next up: Sexto Piso, Mexico City on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Benji Vega is a techno and tech house artist based in Mexico, tracked on soundch
 
 ## Recently played
 
-- Sexto Piso, Mexico City — Tue, 15 Sept 2026
-- Dallas Club, Mexico City — Fri, 26 Jun 2026
-- Dallas Club, Mexico City — Fri, 17 Apr 2026
-- TBA - Juárez 32, Plaza Juárez, Centro, CDMX, Mexico City — Fri, 6 Feb 2026
-- TBA - Eje Central 123, Sexto Piso, Centro, CDMX, Mexico City — Sat, 4 Oct 2025
-- TBA - Sexto Piso: Eje Central 123, CDMX, Mexico City — Thu, 26 Jun 2025
-- TBA - Eje Central Lázaro Cárdenas 123, Sexto Piso, Col. Centro, Mexico City — Sat, 3 May 2025
-- Rico Club, Mexico City — Thu, 14 Nov 2024
+- Sexto Piso, Mexico City · Tue, 15 Sept 2026
+- Dallas Club, Mexico City · Fri, 26 Jun 2026
+- Dallas Club, Mexico City · Fri, 17 Apr 2026
+- TBA - Juárez 32, Plaza Juárez, Centro, CDMX, Mexico City · Fri, 6 Feb 2026
+- TBA - Eje Central 123, Sexto Piso, Centro, CDMX, Mexico City · Sat, 4 Oct 2025
+- TBA - Sexto Piso: Eje Central 123, CDMX, Mexico City · Thu, 26 Jun 2025
+- TBA - Eje Central Lázaro Cárdenas 123, Sexto Piso, Col. Centro, Mexico City · Sat, 3 May 2025
+- Rico Club, Mexico City · Thu, 14 Nov 2024
 
 ## Shares bills with
 

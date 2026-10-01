@@ -1,6 +1,6 @@
 # Scandalween at Stereo
 
-Scandalween at Stereo on Sat 31 Oct, Glasgow. Preview the line-up and save it on soundcheck.
+Scandalween at Stereo on Sat 31 Oct, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

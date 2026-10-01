@@ -1,6 +1,6 @@
 # Echo Chamber 3 at Az Aachen
 
-Echo Chamber 3 at Az Aachen on Sat 24 Oct, Cologne. 1 artist on the bill: Meli Mena. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Echo Chamber 3 at Az Aachen on Sat 24 Oct, Cologne. 1 artist: Meli Mena. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

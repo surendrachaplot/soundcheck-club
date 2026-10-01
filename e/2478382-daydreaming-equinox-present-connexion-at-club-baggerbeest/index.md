@@ -1,6 +1,6 @@
 # Daydreaming & EQUINOX PRESENT CONNEXION at Club Baggerbeest
 
-Daydreaming & EQUINOX PRESENT CONNEXION at Club Baggerbeest on Sun 25 Oct, Amsterdam. 3 artists on the bill: FREEGO, Hector Moreno and Ornery. Progressive House and House. Preview the line-up and save it on soundcheck.
+Daydreaming & EQUINOX PRESENT CONNEXION at Club Baggerbeest on Sun 25 Oct, Amsterdam. 3 artists: FREEGO, Hector Moreno and Ornery. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

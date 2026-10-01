@@ -1,8 +1,8 @@
 # Flextime
 
-Flextime is a Garage and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sala Siroco, Madrid on Fri, 9 Oct 2026.
+Flextime is a Garage and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Siroco, Madrid on Fri, 9 Oct 2026.
 
-Flextime is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Belfast, Leeds, Madrid and Sheffield. Often billed alongside Warpfit, Jamurai and Skye. Next up: Sala Siroco, Madrid on Fri 9 Oct.
+Flextime is a garage and bass artist based in United Kingdom, with 14 gigs on soundcheck across Belfast, Leeds, Madrid and Sheffield. Often billed alongside Warpfit, Jamurai and Skye. Next up: Sala Siroco, Madrid on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Flextime is a garage and bass artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- The Ulster Sports Club, Belfast — Sat, 14 Feb 2026
-- Panke Social, Sheffield — Sat, 31 Jan 2026
-- Panke Social, Sheffield — Sat, 3 May 2025
-- Southbank Warehouse, Sheffield — Fri, 20 Dec 2024
-- Beaver Works, Leeds — Sat, 30 Nov 2024
-- Dryad Works, Sheffield — Fri, 1 Nov 2024
-- Panke Social, Sheffield — Fri, 11 Oct 2024
-- Beaver Works, Leeds — Fri, 26 Apr 2024
+- The Ulster Sports Club, Belfast · Sat, 14 Feb 2026
+- Panke Social, Sheffield · Sat, 31 Jan 2026
+- Panke Social, Sheffield · Sat, 3 May 2025
+- Southbank Warehouse, Sheffield · Fri, 20 Dec 2024
+- Beaver Works, Leeds · Sat, 30 Nov 2024
+- Dryad Works, Sheffield · Fri, 1 Nov 2024
+- Panke Social, Sheffield · Fri, 11 Oct 2024
+- Beaver Works, Leeds · Fri, 26 Apr 2024
 
 ## Shares bills with
 

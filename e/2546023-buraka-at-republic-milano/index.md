@@ -1,6 +1,6 @@
 # BURAKa at Republic Milano
 
-BURAKa at Republic Milano on Thu 1 Oct, Milan. Baile Funk and Reggaeton. Preview the line-up and save it on soundcheck.
+BURAKa at Republic Milano on Thu 1 Oct, Milan. Baile Funk and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

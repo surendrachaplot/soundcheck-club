@@ -1,8 +1,8 @@
 # Matias Aguayo
 
-Matias Aguayo is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fünk, Mexico City on Sat, 10 Oct 2026.
+Matias Aguayo is a House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fünk, Mexico City on Sat, 10 Oct 2026.
 
-Matias Aguayo is a house and electronica artist based in Germany, tracked on soundcheck, with 81 sets logged across Austin, Barcelona, Basel and Belgrade and 27 more. Often billed alongside PAURRO, Justin Strauss and Magda. Next up: Fünk, Mexico City on Sat 10 Oct.
+Matias Aguayo is a house and electronica artist based in Germany, with 81 gigs on soundcheck across Austin, Barcelona, Basel and Belgrade and 27 more. Often billed alongside PAURRO, Justin Strauss and Magda. Next up: Fünk, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Matias Aguayo is a house and electronica artist based in Germany, tracked on sou
 
 ## Recently played
 
-- Cantina SieteSeis, Mexico City — Fri, 18 Sept 2026
-- Karmakoma, Belgrade — Sat, 5 Sept 2026
-- Switch, Porto — Fri, 4 Sept 2026
-- Kiku Room, San Diego — Sun, 9 Aug 2026
-- Yerba Buena Estudios, San Francisco/Oakland — Sat, 8 Aug 2026
-- Silencio, Paris — Sat, 25 Jul 2026
-- fabric, London — Sat, 18 Jul 2026
-- TBA -  LISI WONDERLAND, Tbilisi — Sat, 4 Jul 2026
+- Cantina SieteSeis, Mexico City · Fri, 18 Sept 2026
+- Karmakoma, Belgrade · Sat, 5 Sept 2026
+- Switch, Porto · Fri, 4 Sept 2026
+- Kiku Room, San Diego · Sun, 9 Aug 2026
+- Yerba Buena Estudios, San Francisco/Oakland · Sat, 8 Aug 2026
+- Silencio, Paris · Sat, 25 Jul 2026
+- fabric, London · Sat, 18 Jul 2026
+- TBA -  LISI WONDERLAND, Tbilisi · Sat, 4 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Volnost INVITES 'Hypnotic Black Magic' at Volnost
 
-Volnost INVITES 'Hypnotic Black Magic' on Fri 23 Oct, Seoul. 2 artists on the bill: Hypnotic Black Magic and mizae lim. Techno. Preview the line-up and save it on soundcheck.
+Volnost INVITES 'Hypnotic Black Magic' on Fri 23 Oct, Seoul. 2 artists: Hypnotic Black Magic and mizae lim. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

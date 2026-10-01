@@ -1,6 +1,6 @@
 # MAZ at Lula Club
 
-MAZ at Lula Club on Fri 16 Oct, Madrid. 1 artist on the bill: Maz (BR). Preview the line-up and save it on soundcheck.
+MAZ at Lula Club on Fri 16 Oct, Madrid. 1 artist: Maz (BR). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

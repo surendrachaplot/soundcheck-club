@@ -1,6 +1,6 @@
 # FLOORWÄRTS at Lokschuppen Berlin
 
-FLOORWÄRTS at Lokschuppen Berlin on Fri 13 Nov, Berlin. Preview the line-up and save it on soundcheck.
+FLOORWÄRTS at Lokschuppen Berlin on Fri 13 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

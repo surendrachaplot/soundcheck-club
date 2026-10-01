@@ -1,8 +1,8 @@
 # Mina (US)
 
-Mina (US) is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at BERHTA, Washington DC on Sat, 28 Nov 2026.
+Mina (US) is a Tech House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at BERHTA, Washington DC on Sat, 28 Nov 2026.
 
-Mina (US) is a tech house and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Lyon, Philadelphia, Sydney and Washington DC. Often billed alongside NABŪ, Victor Calderone and ojoo. Next up: BERHTA, Washington DC on Sat 28 Nov.
+Mina (US) is a tech house and house artist based in United States of America, with 23 gigs on soundcheck across Lyon, Philadelphia, Sydney and Washington DC. Often billed alongside NABŪ, Victor Calderone and ojoo. Next up: BERHTA, Washington DC on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mina (US) is a tech house and house artist based in United States of America, tr
 
 ## Recently played
 
-- Tigres de la Noche, Washington DC — Fri, 18 Sept 2026
-- The Flinders, Sydney — Sat, 24 Jan 2026
-- Flash, Washington DC — Fri, 2 Jan 2026
-- Soundcheck, Washington DC — Fri, 19 Dec 2025
-- Flash, Washington DC — Sat, 24 May 2025
-- Flash, Washington DC — Sun, 13 Apr 2025
-- Mr. Ivy, Philadelphia — Sat, 5 Apr 2025
-- Culture, Washington DC — Fri, 24 Jan 2025
+- Tigres de la Noche, Washington DC · Fri, 18 Sept 2026
+- The Flinders, Sydney · Sat, 24 Jan 2026
+- Flash, Washington DC · Fri, 2 Jan 2026
+- Soundcheck, Washington DC · Fri, 19 Dec 2025
+- Flash, Washington DC · Sat, 24 May 2025
+- Flash, Washington DC · Sun, 13 Apr 2025
+- Mr. Ivy, Philadelphia · Sat, 5 Apr 2025
+- Culture, Washington DC · Fri, 24 Jan 2025
 
 ## Shares bills with
 

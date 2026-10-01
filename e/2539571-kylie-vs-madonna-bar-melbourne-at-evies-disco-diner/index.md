@@ -1,6 +1,6 @@
 # Kylie vs Madonna Bar Melbourne at Evies Disco Diner
 
-Kylie vs Madonna Bar Melbourne at Evies Disco Diner on Fri 23 Oct, Melbourne. Disco and Pop. Preview the line-up and save it on soundcheck.
+Kylie vs Madonna Bar Melbourne at Evies Disco Diner on Fri 23 Oct, Melbourne. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

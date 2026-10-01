@@ -1,6 +1,6 @@
 # 126 Turns 1 with Wachuwan, Bluegammon and Chega Mais at Pink Moon
 
-126 Turns 1 with Wachuwan, Bluegammon and Chega Mais at Pink Moon on Sat 3 Oct, Brighton. House and Footwork. Preview the line-up and save it on soundcheck.
+126 Turns 1 with Wachuwan, Bluegammon and Chega Mais at Pink Moon on Sat 3 Oct, Brighton. House and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

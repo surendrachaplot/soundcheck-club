@@ -1,6 +1,6 @@
 # Smolna: Nikolina at Smolna
 
-Smolna: Nikolina on Fri 27 Nov, Warsaw. 1 artist on the bill: NIKOLINA_. Techno. Preview the line-up and save it on soundcheck.
+Smolna: Nikolina on Fri 27 Nov, Warsaw. 1 artist: NIKOLINA_. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

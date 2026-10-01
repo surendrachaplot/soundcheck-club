@@ -1,6 +1,6 @@
 # Kings Turntable: Papa Kerr [31.10.26] at Kings Arms E2
 
-Kings Turntable: Papa Kerr [31.10.26] at Kings Arms E2 on Sat 31 Oct, London. Preview the line-up and save it on soundcheck.
+Kings Turntable: Papa Kerr [31.10.26] at Kings Arms E2 on Sat 31 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

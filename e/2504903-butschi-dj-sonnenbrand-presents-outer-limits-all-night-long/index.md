@@ -1,6 +1,6 @@
 # Butschi & DJ Sonnenbrand presents: Outer Limits ALL NIGHT LONG at WDM
 
-Butschi & DJ Sonnenbrand presents: Outer Limits ALL NIGHT LONG at WDM on Fri 6 Nov, Hannover. 2 artists on the bill: Butschi and DJ Sonnenbrand. Preview the line-up and save it on soundcheck.
+Butschi & DJ Sonnenbrand presents: Outer Limits ALL NIGHT LONG at WDM on Fri 6 Nov, Hannover. 2 artists: Butschi and DJ Sonnenbrand. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

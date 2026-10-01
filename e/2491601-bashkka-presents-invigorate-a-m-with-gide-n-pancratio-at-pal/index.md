@@ -1,6 +1,6 @@
 # BASHKKA presents INVIGORATE A.M. with GIDEÖN & Pancratio at Palais
 
-BASHKKA presents INVIGORATE A.M. with GIDEÖN & Pancratio at Palais on Sat 17 Oct, London. 3 artists on the bill: BASHKKA, GIDEÖN and Pancratio. Preview the line-up and save it on soundcheck.
+BASHKKA presents INVIGORATE A.M. with GIDEÖN & Pancratio at Palais on Sat 17 Oct, London. 3 artists: BASHKKA, GIDEÖN and Pancratio. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

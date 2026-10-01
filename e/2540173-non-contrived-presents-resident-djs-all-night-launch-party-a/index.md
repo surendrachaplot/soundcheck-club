@@ -1,6 +1,6 @@
 # Non-Contrived presents: Resident DJs All Night (LAUNCH PARTY) at Quarry
 
-Non-Contrived presents: Resident DJs All Night (LAUNCH PARTY) at Quarry on Fri 16 Oct, Liverpool. House and Italo Disco. Preview the line-up and save it on soundcheck.
+Non-Contrived presents: Resident DJs All Night (LAUNCH PARTY) at Quarry on Fri 16 Oct, Liverpool. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

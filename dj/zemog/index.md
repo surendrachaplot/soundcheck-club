@@ -1,8 +1,8 @@
 # Zemög
 
-Zemög is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Garden Underground Club, Pereira on Sun, 4 Oct 2026.
+Zemög is a Techno and Dub Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garden Underground Club, Pereira on Sun, 4 Oct 2026.
 
-Zemög is a techno and dub techno artist based in Colombia, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Buenos Aires and Colombia and 9 more. Often billed alongside Inger, SUZAN and Agonis. Next up: Garden Underground Club, Pereira on Sun 4 Oct.
+Zemög is a techno and dub techno artist based in Colombia, with 16 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Colombia and 9 more. Often billed alongside Inger, SUZAN and Agonis. Next up: Garden Underground Club, Pereira on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Zemög is a techno and dub techno artist based in Colombia, tracked on soundchec
 
 ## Recently played
 
-- Gare Porto, Porto — Sat, 22 Aug 2026
-- Ministerium Club, Lisbon — Fri, 21 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Thu, 30 Jul 2026
-- Gare Porto, Porto — Sat, 6 Dec 2025
-- BLITZ, Munich — Fri, 5 Dec 2025
-- Masada, Milan — Sat, 29 Nov 2025
-- Upsidedown, Osaka — Sat, 15 Nov 2025
-- vurt., Seoul — Sat, 1 Nov 2025
+- Gare Porto, Porto · Sat, 22 Aug 2026
+- Ministerium Club, Lisbon · Fri, 21 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Thu, 30 Jul 2026
+- Gare Porto, Porto · Sat, 6 Dec 2025
+- BLITZ, Munich · Fri, 5 Dec 2025
+- Masada, Milan · Sat, 29 Nov 2025
+- Upsidedown, Osaka · Sat, 15 Nov 2025
+- vurt., Seoul · Sat, 1 Nov 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Refuge Friday: Robag Wruhme at Refuge
 
-Refuge Friday: Robag Wruhme on Fri 2 Oct, New York City. 1 artist on the bill: Robag Wruhme. Preview the line-up and save it on soundcheck.
+Refuge Friday: Robag Wruhme on Fri 2 Oct, New York City. 1 artist: Robag Wruhme. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

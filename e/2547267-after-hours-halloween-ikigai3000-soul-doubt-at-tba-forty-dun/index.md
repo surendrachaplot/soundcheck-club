@@ -1,6 +1,6 @@
 # AFTER HOURS: HALLOWEEN — ikigai3000 + SOUL DOUBT at TBA - FORTY, Dundalk 
 
-AFTER HOURS: HALLOWEEN — ikigai3000 + SOUL DOUBT at TBA - FORTY, Dundalk  on Sat 31 Oct, Dublin. 2 artists on the bill: cälpol and ikigai3000. Acid and Minimal Techno. Preview the line-up and save it on soundcheck.
+AFTER HOURS: HALLOWEEN — ikigai3000 + SOUL DOUBT at TBA - FORTY, Dundalk  on Sat 31 Oct, Dublin. 2 artists: cälpol and ikigai3000. Acid and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

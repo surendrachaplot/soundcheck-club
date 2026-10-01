@@ -1,6 +1,6 @@
 # micoto 1st Anniversary Party at Spread
 
-micoto 1st Anniversary Party at Spread on Sat 14 Nov, Tokyo. Preview the line-up and save it on soundcheck.
+micoto 1st Anniversary Party at Spread on Sat 14 Nov, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

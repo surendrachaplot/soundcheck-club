@@ -1,6 +1,6 @@
 # Studio Stereo x Pa'volar pres. Phil Evans at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Pa'volar pres. Phil Evans at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 24 Oct, Barcelona. 3 artists on the bill: Bustins, Friascut and Phil Evans. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Pa'volar pres. Phil Evans at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Sat 24 Oct, Barcelona. 3 artists: Bustins, Friascut and Phil Evans. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

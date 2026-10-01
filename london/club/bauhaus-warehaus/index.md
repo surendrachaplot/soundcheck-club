@@ -1,8 +1,8 @@
 # Bauhaus Warehaus
 
-Bauhaus Warehaus is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Fathers of House at Warehaus" on Fri, 13 Nov 2026.
+Bauhaus Warehaus is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Fathers of House at Warehaus" on Fri, 13 Nov 2026.
 
-Bauhaus Warehaus is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 538 Kingsland Rd, London E8 4AH.
+Bauhaus Warehaus is a music venue in London listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 538 Kingsland Rd, London E8 4AH.
 
 ## What's on
 

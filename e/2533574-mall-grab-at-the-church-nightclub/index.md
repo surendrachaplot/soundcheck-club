@@ -1,6 +1,6 @@
 # Mall Grab at The Church Nightclub
 
-Mall Grab at The Church Nightclub on Sat 31 Oct, Denver. House. Preview the line-up and save it on soundcheck.
+Mall Grab at The Church Nightclub on Sat 31 Oct, Denver. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

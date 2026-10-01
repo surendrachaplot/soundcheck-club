@@ -1,8 +1,8 @@
 # Blue Velvet
 
-Blue Velvet is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "fast fun:ds #2" on Fri, 2 Oct 2026.
+Blue Velvet is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "fast fun:ds #2" on Fri, 2 Oct 2026.
 
-Blue Velvet is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Dr. Dickey, malicedeejay, Neutralised and Plattenlieferant and 2 more. Browse upcoming dates, start times and who's playing. Sangerhauser Weg 3, 12349 Berlin.
+Blue Velvet is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Dr. Dickey, malicedeejay, Neutralised and Plattenlieferant and 2 more. See dates, start times and who's playing. Sangerhauser Weg 3, 12349 Berlin.
 
 ## What's on
 

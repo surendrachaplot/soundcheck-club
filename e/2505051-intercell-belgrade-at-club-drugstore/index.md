@@ -1,6 +1,6 @@
 # Intercell Belgrade at Club Drugstore
 
-Intercell Belgrade at Club Drugstore on Fri 30 Oct, Serbia. 7 artists on the bill: Aneri, DVS1, Essio and Mamavitae and 3 more. Preview the line-up and save it on soundcheck.
+Intercell Belgrade at Club Drugstore on Fri 30 Oct, Serbia. 7 artists: Aneri, DVS1, Essio and Mamavitae and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SDH (Semiotics Department of Heteronyms) live + RAWLA live at Cadavra
 
-SDH (Semiotics Department of Heteronyms) live + RAWLA live at Cadavra on Fri 27 Nov, Madrid. Industrial and Electronica. Preview the line-up and save it on soundcheck.
+SDH (Semiotics Department of Heteronyms) live + RAWLA live at Cadavra on Fri 27 Nov, Madrid. Industrial and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

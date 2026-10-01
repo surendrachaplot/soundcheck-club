@@ -1,6 +1,6 @@
 # Re.You [Moblack Records] at Do Not Sit On The Furniture
 
-Re.You [Moblack Records] at Do Not Sit On The Furniture on Fri 16 Oct, Miami. 2 artists on the bill: Lucas Zarate and Re.You. House and Deep House. Preview the line-up and save it on soundcheck.
+Re.You [Moblack Records] at Do Not Sit On The Furniture on Fri 16 Oct, Miami. 2 artists: Lucas Zarate and Re.You. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

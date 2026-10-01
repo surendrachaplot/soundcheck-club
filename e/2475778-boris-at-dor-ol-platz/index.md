@@ -1,6 +1,6 @@
 # BORIS at Dorćol Platz
 
-BORIS at Dorćol Platz on Thu 8 Oct, Belgrade. Industrial and Post-Punk. Preview the line-up and save it on soundcheck.
+BORIS at Dorćol Platz on Thu 8 Oct, Belgrade. Industrial and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

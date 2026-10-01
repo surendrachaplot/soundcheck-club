@@ -1,8 +1,8 @@
 # Main Phase
 
-Main Phase is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wigwam, Dublin on Fri, 2 Oct 2026.
+Main Phase is a Garage and Bass artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wigwam, Dublin on Fri, 2 Oct 2026.
 
-Main Phase is a garage and bass artist based in Denmark, tracked on soundcheck, with 204 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 58 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: Wigwam, Dublin on Fri 2 Oct.
+Main Phase is a garage and bass artist based in Denmark, with 205 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Auckland and 58 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: Wigwam, Dublin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,18 +16,19 @@ Main Phase is a garage and bass artist based in Denmark, tracked on soundcheck, 
 | Sat, 17 Oct 2026 | Nowadays | New York City |
 | Fri, 6 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 14 Nov 2026 | BRET | Amsterdam |
+| Fri, 27 Nov 2026 | Palais | London |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 
 ## Recently played
 
-- Tigres de la Noche, Washington DC — Sat, 19 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- Night We Met, Nashville — Fri, 18 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- The White Hotel, Manchester — Sat, 12 Sept 2026
-- La Cheetah Club, Glasgow — Sat, 29 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- Knockdown Center, New York City — Fri, 31 Jul 2026
+- Tigres de la Noche, Washington DC · Sat, 19 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- Night We Met, Nashville · Fri, 18 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- The White Hotel, Manchester · Sat, 12 Sept 2026
+- La Cheetah Club, Glasgow · Sat, 29 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- Knockdown Center, New York City · Fri, 31 Jul 2026
 
 ## Shares bills with
 

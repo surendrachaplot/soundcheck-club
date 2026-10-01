@@ -1,8 +1,8 @@
 # Metrik
 
-Metrik is a Drum & Bass and Bass artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at halle02, Heidelberg on Sat, 3 Oct 2026.
+Metrik is a Drum & Bass and Bass artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at halle02, Heidelberg on Sat, 3 Oct 2026.
 
-Metrik is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Auckland, Barcelona and Birmingham and 21 more. Often billed alongside Camo & Krooked, Degs and P Money. Next up: halle02, Heidelberg on Sat 3 Oct.
+Metrik is a drum & bass and bass artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Birmingham and 21 more. Often billed alongside Camo & Krooked, Degs and P Money. Next up: halle02, Heidelberg on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Metrik is a drum & bass and bass artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Odaiba, Tokyo — Tue, 22 Sept 2026
-- Namura Zosenjo Atochi / Creative Center Osaka, Osaka — Mon, 21 Sept 2026
-- MÄX, Zurich — Sat, 12 Sept 2026
-- The Brooklyn Monarch, New York City — Fri, 14 Aug 2026
-- Bristol Amphitheatre & Waterfront Square, Bristol — Sat, 25 Jul 2026
-- Tägi, Zurich — Fri, 10 Jul 2026
-- Studio the Venue, Auckland — Fri, 15 May 2026
-- The Prince Consort, Brisbane — Sun, 3 May 2026
+- Odaiba, Tokyo · Tue, 22 Sept 2026
+- Namura Zosenjo Atochi / Creative Center Osaka, Osaka · Mon, 21 Sept 2026
+- MÄX, Zurich · Sat, 12 Sept 2026
+- The Brooklyn Monarch, New York City · Fri, 14 Aug 2026
+- Bristol Amphitheatre & Waterfront Square, Bristol · Sat, 25 Jul 2026
+- Tägi, Zurich · Fri, 10 Jul 2026
+- Studio the Venue, Auckland · Fri, 15 May 2026
+- The Prince Consort, Brisbane · Sun, 3 May 2026
 
 ## Shares bills with
 

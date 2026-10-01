@@ -1,6 +1,6 @@
 # Macky Gee, Mefjus & Simula at Kompass at Kompass Klub
 
-Macky Gee, Mefjus & Simula at Kompass at Kompass Klub on Fri 30 Oct, Ghent. 5 artists on the bill: Basstripper, Macky Gee, Mefjus and Simula and 1 more. Preview the line-up and save it on soundcheck.
+Macky Gee, Mefjus & Simula at Kompass at Kompass Klub on Fri 30 Oct, Ghent. 5 artists: Basstripper, Macky Gee, Mefjus and Simula and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

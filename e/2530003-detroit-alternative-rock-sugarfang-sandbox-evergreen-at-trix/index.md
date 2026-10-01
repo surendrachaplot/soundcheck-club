@@ -1,6 +1,6 @@
 # Detroit Alternative Rock — SugarFang + Sandbox + Evergreen at Trixie's Bar
 
-Detroit Alternative Rock — SugarFang + Sandbox + Evergreen at Trixie's Bar on Fri 2 Oct, Detroit. Preview the line-up and save it on soundcheck.
+Detroit Alternative Rock — SugarFang + Sandbox + Evergreen at Trixie's Bar on Fri 2 Oct, Detroit. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

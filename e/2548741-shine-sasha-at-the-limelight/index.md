@@ -1,6 +1,6 @@
 # SHINE -- Sasha at The Limelight
 
-SHINE -- Sasha at The Limelight on Sat 28 Nov, Belfast. 1 artist on the bill: Sasha. Preview the line-up and save it on soundcheck.
+SHINE -- Sasha at The Limelight on Sat 28 Nov, Belfast. 1 artist: Sasha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

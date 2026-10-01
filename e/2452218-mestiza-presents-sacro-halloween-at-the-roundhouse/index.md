@@ -1,6 +1,6 @@
 # MESTIZA presents Sacro Halloween at The Roundhouse
 
-MESTIZA presents Sacro Halloween at The Roundhouse on Fri 30 Oct, London. 1 artist on the bill: MËSTIZA. House and Latin Bass. Preview the line-up and save it on soundcheck.
+MESTIZA presents Sacro Halloween at The Roundhouse on Fri 30 Oct, London. 1 artist: MËSTIZA. House and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Down To Earth at Arch535
 
-Down To Earth at Arch535 on Sat 12 Dec, London. Techno and Deep House. Preview the line-up and save it on soundcheck.
+Down To Earth at Arch535 on Sat 12 Dec, London. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

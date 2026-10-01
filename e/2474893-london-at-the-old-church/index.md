@@ -1,6 +1,6 @@
 # ШЩЦ: London at The Old Church
 
-ШЩЦ: London at The Old Church on Fri 16 Oct, London. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+ШЩЦ: London at The Old Church on Fri 16 Oct, London. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Checkmate sessions at Q-Factory
 
-Checkmate sessions at Q-Factory on Thu 1 Oct, Amsterdam. 1 artist on the bill: YALI HENDRIX. Techno and Hip-Hop. Preview the line-up and save it on soundcheck.
+Checkmate sessions at Q-Factory on Thu 1 Oct, Amsterdam. 1 artist: YALI HENDRIX. Techno and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

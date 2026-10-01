@@ -1,6 +1,6 @@
 # Ravelife: Event 6 at WAV at WaV
 
-Ravelife: Event 6 at WAV at WaV on Sat 14 Nov, Liverpool. 2 artists on the bill: Klubfiller and Nanna Makina. Hardcore and Club. Preview the line-up and save it on soundcheck.
+Ravelife: Event 6 at WAV at WaV on Sat 14 Nov, Liverpool. 2 artists: Klubfiller and Nanna Makina. Hardcore and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

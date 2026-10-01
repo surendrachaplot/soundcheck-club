@@ -1,6 +1,6 @@
 # Eliana Glass + Elisabeth Klinck & Nils Vermeulen at Pilar - VUB
 
-Eliana Glass + Elisabeth Klinck & Nils Vermeulen at Pilar - VUB on Tue 17 Nov, Brussels. Preview the line-up and save it on soundcheck.
+Eliana Glass + Elisabeth Klinck & Nils Vermeulen at Pilar - VUB on Tue 17 Nov, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

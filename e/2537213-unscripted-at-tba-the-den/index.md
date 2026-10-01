@@ -1,6 +1,6 @@
 # UNSCRIPTED at TBA - The Den
 
-UNSCRIPTED at TBA - The Den on Wed 14 Oct, Tokyo. 5 artists on the bill: ALLY, Doom Tempo, Fabian Laute and puffclouds and 1 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+UNSCRIPTED at TBA - The Den on Wed 14 Oct, Tokyo. 5 artists: ALLY, Doom Tempo, Fabian Laute and puffclouds and 1 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

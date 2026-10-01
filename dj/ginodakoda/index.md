@@ -1,8 +1,8 @@
 # Gino Da Koda
 
-Gino Da Koda is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Madam, Amsterdam on Fri, 2 Oct 2026.
+Gino Da Koda is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Madam, Amsterdam on Fri, 2 Oct 2026.
 
-Gino Da Koda is a tech house and house artist based in Netherlands, tracked on soundcheck, with 13 sets logged across Amsterdam, London, Rotterdam and Zurich. Often billed alongside Nick Garcia, AAT (NL) and Gils Promor. Next up: Madam, Amsterdam on Fri 2 Oct.
+Gino Da Koda is a tech house and house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, London, Rotterdam and Zurich. Often billed alongside Nick Garcia, AAT (NL) and Gils Promor. Next up: Madam, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Gino Da Koda is a tech house and house artist based in Netherlands, tracked on s
 
 ## Recently played
 
-- Toffler, Rotterdam — Sat, 6 Jun 2026
-- Supermarket, Zurich — Fri, 5 Sept 2025
-- Starlane Pizza Bar, London — Sat, 31 May 2025
-- Toffler, Rotterdam — Sat, 14 Sept 2024
-- Nova, Amsterdam — Sat, 20 Apr 2024
-- Reverse Rotterdam, Rotterdam — Sat, 24 Feb 2024
-- Madam, Amsterdam — Sat, 16 Dec 2023
-- Alexanderplein, Rotterdam — Fri, 30 Jun 2023
+- Toffler, Rotterdam · Sat, 6 Jun 2026
+- Supermarket, Zurich · Fri, 5 Sept 2025
+- Starlane Pizza Bar, London · Sat, 31 May 2025
+- Toffler, Rotterdam · Sat, 14 Sept 2024
+- Nova, Amsterdam · Sat, 20 Apr 2024
+- Reverse Rotterdam, Rotterdam · Sat, 24 Feb 2024
+- Madam, Amsterdam · Sat, 16 Dec 2023
+- Alexanderplein, Rotterdam · Fri, 30 Jun 2023
 
 ## Shares bills with
 

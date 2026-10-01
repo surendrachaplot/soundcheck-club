@@ -1,6 +1,6 @@
 # SpicyTUM presents DJ Sotofett + Katatonic Silentio at Magazzino sul Po
 
-SpicyTUM presents DJ Sotofett + Katatonic Silentio at Magazzino sul Po on Sat 17 Oct, Turin. 2 artists on the bill: DJ Sotofett and Katatonic Silentio. Dub and Electronica. Preview the line-up and save it on soundcheck.
+SpicyTUM presents DJ Sotofett + Katatonic Silentio at Magazzino sul Po on Sat 17 Oct, Turin. 2 artists: DJ Sotofett and Katatonic Silentio. Dub and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

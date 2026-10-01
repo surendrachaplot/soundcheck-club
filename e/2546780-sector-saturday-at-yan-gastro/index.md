@@ -1,6 +1,6 @@
 # Sector Saturday at Yan Gastro
 
-Sector Saturday at Yan Gastro on Sat 3 Oct, Istanbul. 5 artists on the bill: Evren Ulusoy, KELT, Semih Akay and Tito and 1 more. House. Preview the line-up and save it on soundcheck.
+Sector Saturday at Yan Gastro on Sat 3 Oct, Istanbul. 5 artists: Evren Ulusoy, KELT, Semih Akay and Tito and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

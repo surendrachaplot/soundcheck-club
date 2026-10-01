@@ -1,6 +1,6 @@
 # SIREN OF SOUL at Circus Tokyo
 
-SIREN OF SOUL at Circus Tokyo on Fri 16 Oct, Tokyo. 8 artists on the bill: cirra, DiscCampForest, FU (JP) and JADALAREIGN and 4 more. House and Club. Preview the line-up and save it on soundcheck.
+SIREN OF SOUL at Circus Tokyo on Fri 16 Oct, Tokyo. 8 artists: cirra, DiscCampForest, FU (JP) and JADALAREIGN and 4 more. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

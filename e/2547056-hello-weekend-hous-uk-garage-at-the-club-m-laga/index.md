@@ -1,6 +1,6 @@
 # HELLO WEEKEND: HOUS & UK GARAGE at The Club (Málaga)
 
-HELLO WEEKEND: HOUS & UK GARAGE at The Club (Málaga) on Thu 1 Oct, Malaga. House and Garage. Preview the line-up and save it on soundcheck.
+HELLO WEEKEND: HOUS & UK GARAGE at The Club (Málaga) on Thu 1 Oct, Malaga. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dubyama Jazzo at DJ Bar Bridge Shinjuku
 
-Dubyama Jazzo at DJ Bar Bridge Shinjuku on Thu 12 Nov, Tokyo. House. Preview the line-up and save it on soundcheck.
+Dubyama Jazzo at DJ Bar Bridge Shinjuku on Thu 12 Nov, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

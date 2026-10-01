@@ -1,6 +1,6 @@
 # REI MARA, Dj PeXu, DjFferent, DJ El Tel, Shane DB - RadioLDN - (CANCEL) at TBA - Secret Location
 
-REI MARA, Dj PeXu, DjFferent, DJ El Tel, Shane DB - RadioLDN - (CANCEL) at TBA - Secret Location on Mon 5 Oct, London. 2 artists on the bill: Dj PeXu and Shane DB. Techno. Preview the line-up and save it on soundcheck.
+REI MARA, Dj PeXu, DjFferent, DJ El Tel, Shane DB - RadioLDN - (CANCEL) at TBA - Secret Location on Mon 5 Oct, London. 2 artists: Dj PeXu and Shane DB. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

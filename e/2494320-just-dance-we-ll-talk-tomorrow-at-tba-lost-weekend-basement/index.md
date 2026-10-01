@@ -1,6 +1,6 @@
 # Just Dance we'll Talk Tomorrow at TBA - Lost Weekend Basement bar
 
-Just Dance we'll Talk Tomorrow at TBA - Lost Weekend Basement bar on Sat 10 Oct, Manchester. House and Disco. Preview the line-up and save it on soundcheck.
+Just Dance we'll Talk Tomorrow at TBA - Lost Weekend Basement bar on Sat 10 Oct, Manchester. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

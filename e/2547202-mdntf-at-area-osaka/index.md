@@ -1,6 +1,6 @@
 # MDNTF at Area_osaka
 
-MDNTF at Area_osaka on Sat 10 Oct, Osaka. 3 artists on the bill: Dan Elliot, Nao Nomura and Takekiyo Ishimoto. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+MDNTF at Area_osaka on Sat 10 Oct, Osaka. 3 artists: Dan Elliot, Nao Nomura and Takekiyo Ishimoto. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

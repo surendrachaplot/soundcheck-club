@@ -1,6 +1,6 @@
 # EL BARRIO at Grand Hotel Bucharest
 
-EL BARRIO at Grand Hotel Bucharest on Sat 3 Oct, Bucharest. Reggaeton. Preview the line-up and save it on soundcheck.
+EL BARRIO at Grand Hotel Bucharest on Sat 3 Oct, Bucharest. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

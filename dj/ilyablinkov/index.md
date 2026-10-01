@@ -1,8 +1,8 @@
 # Ilya Blinkov
 
-Ilya Blinkov is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wolf Milano, Milan on Thu, 1 Oct 2026.
+Ilya Blinkov is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wolf Milano, Milan on Thu, 1 Oct 2026.
 
-Ilya Blinkov is a house and tech house artist based in Lithuania, tracked on soundcheck, with 19 sets logged across London and Milan. Often billed alongside Bridger Ryland, Deeetro and Luca Cattaneo. Next up: Wolf Milano, Milan on Thu 1 Oct.
+Ilya Blinkov is a house and tech house artist based in Lithuania, with 19 gigs on soundcheck across London and Milan. Often billed alongside Bridger Ryland, Deeetro and Luca Cattaneo. Next up: Wolf Milano, Milan on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Ilya Blinkov is a house and tech house artist based in Lithuania, tracked on sou
 
 ## Recently played
 
-- TBA - La Darsena, Lido di Vercurago, Milan — Sat, 8 Aug 2026
-- MOGO, Milan — Fri, 10 Jul 2026
-- Vacuum, Milan — Sat, 9 May 2026
-- Parco Delle Memorie Industriali, Milan — Sat, 25 Apr 2026
-- Vacuum, Milan — Sat, 25 Apr 2026
-- NAMA - Nuovo Anfiteatro Martesana, Milan — Fri, 10 Apr 2026
-- Futura Bar, Milan — Fri, 27 Mar 2026
-- Vacuum, Milan — Sat, 7 Mar 2026
+- TBA - La Darsena, Lido di Vercurago, Milan · Sat, 8 Aug 2026
+- MOGO, Milan · Fri, 10 Jul 2026
+- Vacuum, Milan · Sat, 9 May 2026
+- Parco Delle Memorie Industriali, Milan · Sat, 25 Apr 2026
+- Vacuum, Milan · Sat, 25 Apr 2026
+- NAMA - Nuovo Anfiteatro Martesana, Milan · Fri, 10 Apr 2026
+- Futura Bar, Milan · Fri, 27 Mar 2026
+- Vacuum, Milan · Sat, 7 Mar 2026
 
 ## Shares bills with
 

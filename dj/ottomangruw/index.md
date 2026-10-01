@@ -1,8 +1,8 @@
 # Ottoman Grüw
 
-Ottoman Grüw is a EBM and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Traffic, Tokyo on Sat, 3 Oct 2026.
+Ottoman Grüw is a EBM and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Traffic, Tokyo on Sat, 3 Oct 2026.
 
-Ottoman Grüw is an ebm and techno artist tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside 2+2=5, Incendie and Monstera Occulta. Next up: Traffic, Tokyo on Sat 3 Oct.
+Ottoman Grüw is an ebm and techno artist, with 60 gigs on soundcheck across Amsterdam, Antwerp, Athens and Berlin and 12 more. Often billed alongside 2+2=5, Incendie and Monstera Occulta. Next up: Traffic, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Ottoman Grüw is an ebm and techno artist tracked on soundcheck, with 60 sets lo
 
 ## Recently played
 
-- Volnost, Seoul — Fri, 25 Sept 2026
-- Madame Moustache, Brussels — Thu, 3 Sept 2026
-- arkaoda Berlin, Berlin — Thu, 21 May 2026
-- Lavallée, Brussels — Fri, 15 May 2026
-- GIMIC, Brussels — Thu, 7 May 2026
-- Bodies in Space, Brussels — Sun, 5 Apr 2026
-- Bodies in Space, Brussels — Sat, 4 Apr 2026
-- Magasin 4, Brussels — Sat, 28 Mar 2026
+- Volnost, Seoul · Fri, 25 Sept 2026
+- Madame Moustache, Brussels · Thu, 3 Sept 2026
+- arkaoda Berlin, Berlin · Thu, 21 May 2026
+- Lavallée, Brussels · Fri, 15 May 2026
+- GIMIC, Brussels · Thu, 7 May 2026
+- Bodies in Space, Brussels · Sun, 5 Apr 2026
+- Bodies in Space, Brussels · Sat, 4 Apr 2026
+- Magasin 4, Brussels · Sat, 28 Mar 2026
 
 ## Shares bills with
 

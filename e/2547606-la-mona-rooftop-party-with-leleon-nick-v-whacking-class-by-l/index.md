@@ -1,6 +1,6 @@
 # La Mona Rooftop party with LeLeon, Nick V & Whacking Class by LeLeon at Plantation
 
-La Mona Rooftop party with LeLeon, Nick V & Whacking Class by LeLeon at Plantation on Fri 9 Oct, Paris. 2 artists on the bill: LeLeon and Nick V. House and Disco. Preview the line-up and save it on soundcheck.
+La Mona Rooftop party with LeLeon, Nick V & Whacking Class by LeLeon at Plantation on Fri 9 Oct, Paris. 2 artists: LeLeon and Nick V. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

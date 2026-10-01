@@ -1,6 +1,6 @@
 # 135+ mit Cycling Club Collective & 808 Kollektive at Bahnwärter Thiel
 
-135+ mit Cycling Club Collective & 808 Kollektive at Bahnwärter Thiel on Thu 8 Oct, Munich. 5 artists on the bill: avely, JACID, loumo and MBREKK and 1 more. Preview the line-up and save it on soundcheck.
+135+ mit Cycling Club Collective & 808 Kollektive at Bahnwärter Thiel on Thu 8 Oct, Munich. 5 artists: avely, JACID, loumo and MBREKK and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

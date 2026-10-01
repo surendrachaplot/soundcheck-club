@@ -1,6 +1,6 @@
 # Joshua Idehen at Café V Lese
 
-Joshua Idehen at Café V Lese on Wed 7 Oct, Prague. UK Funky and Electronica. Preview the line-up and save it on soundcheck.
+Joshua Idehen at Café V Lese on Wed 7 Oct, Prague. UK Funky and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Duke Skylocker (Disco Dust)
 
-Duke Skylocker (Disco Dust) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at YuYu Cine Club, Mexico City on Sat, 3 Oct 2026.
+Duke Skylocker (Disco Dust) is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at YuYu Cine Club, Mexico City on Sat, 3 Oct 2026.
 
-Duke Skylocker (Disco Dust) is a house and disco artist based in Argentina, tracked on soundcheck, with 100 sets logged across Mexico City. Often billed alongside Miss Voltaghe, Lake Chalco and Pablo Miya. Next up: YuYu Cine Club, Mexico City on Sat 3 Oct.
+Duke Skylocker (Disco Dust) is a house and disco artist based in Argentina, with 100 gigs on soundcheck across Mexico City. Often billed alongside Miss Voltaghe, Lake Chalco and Pablo Miya. Next up: YuYu Cine Club, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Duke Skylocker (Disco Dust) is a house and disco artist based in Argentina, trac
 
 ## Recently played
 
-- TBA, Mexico City — Sat, 19 Sept 2026
-- Versalles 64, Mexico City — Sat, 5 Sept 2026
-- Fünk, Mexico City — Thu, 6 Aug 2026
-- Departamento, Mexico City — Wed, 29 Jul 2026
-- Departamento, Mexico City — Tue, 30 Jun 2026
-- Fünk, Mexico City — Thu, 4 Jun 2026
-- Departamento, Mexico City — Wed, 6 May 2026
-- Versalles 64, Mexico City — Sat, 2 May 2026
+- TBA, Mexico City · Sat, 19 Sept 2026
+- Versalles 64, Mexico City · Sat, 5 Sept 2026
+- Fünk, Mexico City · Thu, 6 Aug 2026
+- Departamento, Mexico City · Wed, 29 Jul 2026
+- Departamento, Mexico City · Tue, 30 Jun 2026
+- Fünk, Mexico City · Thu, 4 Jun 2026
+- Departamento, Mexico City · Wed, 6 May 2026
+- Versalles 64, Mexico City · Sat, 2 May 2026
 
 ## Shares bills with
 

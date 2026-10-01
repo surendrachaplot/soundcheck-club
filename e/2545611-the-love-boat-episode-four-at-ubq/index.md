@@ -1,6 +1,6 @@
 # The Love Boat - Episode Four at UBQ
 
-The Love Boat - Episode Four at UBQ on Mon 2 Nov, Melbourne. 1 artist on the bill: Mr Leonard of Hollywood. Techno and Club. Preview the line-up and save it on soundcheck.
+The Love Boat - Episode Four at UBQ on Mon 2 Nov, Melbourne. 1 artist: Mr Leonard of Hollywood. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

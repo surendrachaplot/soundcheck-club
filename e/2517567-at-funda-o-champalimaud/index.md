@@ -1,6 +1,6 @@
 # - at Fundação Champalimaud
 
-- at Fundação Champalimaud on Sat 3 Oct, Lisbon. Techno and House. Preview the line-up and save it on soundcheck.
+- at Fundação Champalimaud on Sat 3 Oct, Lisbon. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

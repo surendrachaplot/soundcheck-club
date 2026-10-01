@@ -1,6 +1,6 @@
 # 20 YEARS OF Permanent Vacation X Rollover Milano at Apollo Club Milano
 
-20 YEARS OF Permanent Vacation X Rollover Milano at Apollo Club Milano on Fri 9 Oct, Milan. 4 artists on the bill: Benjamin Fröhlich, Massimiliano Pagliara, Paula Tape and Rollover Djs. House and Italo Disco. Preview the line-up and save it on soundcheck.
+20 YEARS OF Permanent Vacation X Rollover Milano at Apollo Club Milano on Fri 9 Oct, Milan. 4 artists: Benjamin Fröhlich, Massimiliano Pagliara, Paula Tape and Rollover Djs. House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

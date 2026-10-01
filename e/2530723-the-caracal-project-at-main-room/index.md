@@ -1,6 +1,6 @@
 # The Caracal Project at main room
 
-The Caracal Project at main room on Thu 19 Nov, Paris. Drum & Bass and Garage. Preview the line-up and save it on soundcheck.
+The Caracal Project at main room on Thu 19 Nov, Paris. Drum & Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

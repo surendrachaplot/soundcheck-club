@@ -1,8 +1,8 @@
 # Komplex Klub
 
-Komplex Klub is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Parra for Cuva" on Sun, 4 Oct 2026.
+Komplex Klub is a music venue in Zurich with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Parra for Cuva" on Sun, 4 Oct 2026.
 
-Komplex Klub is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Parra for Cuva and Schrotthagen. Browse upcoming dates, start times and who's playing. Hohlstrasse 457, 8048, Zürich.
+Komplex Klub is a music venue in Zurich listed on soundcheck. 2 upcoming gigs, with line-ups including Parra for Cuva and Schrotthagen. See dates, start times and who's playing. Hohlstrasse 457, 8048, Zürich.
 
 ## What's on
 

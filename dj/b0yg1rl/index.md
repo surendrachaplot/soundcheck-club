@@ -1,8 +1,8 @@
 # B0YG1RL
 
-B0YG1RL is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+B0YG1RL is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-B0YG1RL is a techno and club artist based in United States of America, tracked on soundcheck, with 14 sets logged across Mexico City, Miami, New York City and Toronto. Often billed alongside Lady Narcisse, Racci and Aphex Twink. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+B0YG1RL is a techno and club artist based in United States of America, with 14 gigs on soundcheck across Mexico City, Miami, New York City and Toronto. Often billed alongside Lady Narcisse, Racci and Aphex Twink. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ B0YG1RL is a techno and club artist based in United States of America, tracked o
 
 ## Recently played
 
-- Le Bain, New York City — Sat, 12 Sept 2026
-- Nowadays, New York City — Sat, 5 Sept 2026
-- TBA, Toronto — Sat, 29 Aug 2026
-- TBA - C. Dr. J. Navarro 218, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX, Mexico City — Sat, 8 Aug 2026
-- Trans-Pecos, New York City — Sat, 25 Jul 2026
-- The Ground at Club Space, Miami — Fri, 24 Apr 2026
-- The Ground at Club Space, Miami — Thu, 23 Apr 2026
-- TBA - LLL LLC GALLERY & MISC. 212 N Miami Ave, Miami — Thu, 19 Feb 2026
+- Le Bain, New York City · Sat, 12 Sept 2026
+- Nowadays, New York City · Sat, 5 Sept 2026
+- TBA, Toronto · Sat, 29 Aug 2026
+- TBA - C. Dr. J. Navarro 218, Doctores, Cuauhtémoc, 06720 Ciudad de México, CDMX, Mexico City · Sat, 8 Aug 2026
+- Trans-Pecos, New York City · Sat, 25 Jul 2026
+- The Ground at Club Space, Miami · Fri, 24 Apr 2026
+- The Ground at Club Space, Miami · Thu, 23 Apr 2026
+- TBA - LLL LLC GALLERY & MISC. 212 N Miami Ave, Miami · Thu, 19 Feb 2026
 
 ## Shares bills with
 

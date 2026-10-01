@@ -1,6 +1,6 @@
 # David August Artist on Residency Listening Sesion x Monopol LAB at Monopol Madrid
 
-David August Artist on Residency Listening Sesion x Monopol LAB at Monopol Madrid on Wed 7 Oct, Madrid. 1 artist on the bill: David August. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+David August Artist on Residency Listening Sesion x Monopol LAB at Monopol Madrid on Wed 7 Oct, Madrid. 1 artist: David August. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

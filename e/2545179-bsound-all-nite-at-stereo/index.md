@@ -1,6 +1,6 @@
 # BSOUND - ALL NITE at Stereo
 
-BSOUND - ALL NITE at Stereo on Thu 22 Oct, Glasgow. 4 artists on the bill: eurokels, hubey, Soretsia and Spinefluid. Experimental and Dub Techno. Preview the line-up and save it on soundcheck.
+BSOUND - ALL NITE at Stereo on Thu 22 Oct, Glasgow. 4 artists: eurokels, hubey, Soretsia and Spinefluid. Experimental and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

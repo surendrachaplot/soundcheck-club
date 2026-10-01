@@ -1,6 +1,6 @@
 # Anish Kumar, DAR DISKU, DJ Subaru: 4 Fridays at Phonox (16th Oct) at Phonox
 
-Anish Kumar, DAR DISKU, DJ Subaru: 4 Fridays at Phonox (16th Oct) on Fri 16 Oct, London. 3 artists on the bill: Anish Kumar, DAR DISKU and DJ Subaru. Preview the line-up and save it on soundcheck.
+Anish Kumar, DAR DISKU, DJ Subaru: 4 Fridays at Phonox (16th Oct) on Fri 16 Oct, London. 3 artists: Anish Kumar, DAR DISKU and DJ Subaru. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

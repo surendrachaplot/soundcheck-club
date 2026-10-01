@@ -1,6 +1,6 @@
 # C.R.A.F.T. Ibiza at Akasha Las Dalias Club - Ibiza
 
-C.R.A.F.T. Ibiza at Akasha Las Dalias Club - Ibiza on Fri 30 Oct, Ibiza. 2 artists on the bill: Mariano Mellino and Matias Vila. Preview the line-up and save it on soundcheck.
+C.R.A.F.T. Ibiza at Akasha Las Dalias Club - Ibiza on Fri 30 Oct, Ibiza. 2 artists: Mariano Mellino and Matias Vila. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

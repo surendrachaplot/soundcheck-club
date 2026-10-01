@@ -1,6 +1,6 @@
 # KOKO Electronic: Hot Since 82 at KOKO
 
-KOKO Electronic: Hot Since 82 on Sat 12 Dec, London. 1 artist on the bill: Hot Since 82. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Hot Since 82 on Sat 12 Dec, London. 1 artist: Hot Since 82. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

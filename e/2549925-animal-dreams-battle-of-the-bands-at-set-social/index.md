@@ -1,6 +1,6 @@
 # Animal Dreams Battle of the Bands at SET Social
 
-Animal Dreams Battle of the Bands at SET Social on Thu 29 Oct, London. Experimental. Preview the line-up and save it on soundcheck.
+Animal Dreams Battle of the Bands at SET Social on Thu 29 Oct, London. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

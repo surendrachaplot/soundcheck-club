@@ -1,6 +1,6 @@
 # Soul in the Horn FT Natasha Diggs & Friends - October 23 at The Chocolate Factory
 
-Soul in the Horn FT Natasha Diggs & Friends - October 23 at The Chocolate Factory on Fri 23 Oct, New York City. 1 artist on the bill: Natasha Diggs. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Soul in the Horn FT Natasha Diggs & Friends - October 23 at The Chocolate Factory on Fri 23 Oct, New York City. 1 artist: Natasha Diggs. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

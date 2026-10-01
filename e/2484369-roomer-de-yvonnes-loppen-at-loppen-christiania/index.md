@@ -1,6 +1,6 @@
 # Roomer (DE) + Yvonnes // Loppen at Loppen Christiania
 
-Roomer (DE) + Yvonnes // Loppen at Loppen Christiania on Thu 19 Nov, Copenhagen. Preview the line-up and save it on soundcheck.
+Roomer (DE) + Yvonnes // Loppen at Loppen Christiania on Thu 19 Nov, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

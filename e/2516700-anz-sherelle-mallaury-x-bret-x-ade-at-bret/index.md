@@ -1,6 +1,6 @@
 # Anz, SHERELLE & MALLAURY x BRET x ADE at BRET
 
-Anz, SHERELLE & MALLAURY x BRET x ADE on Fri 23 Oct, Amsterdam. 3 artists on the bill: Anz, MALLAURY and SHERELLE. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Anz, SHERELLE & MALLAURY x BRET x ADE on Fri 23 Oct, Amsterdam. 3 artists: Anz, MALLAURY and SHERELLE. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Visions: Deetron at Frankhan Selectist
 
-Visions: Deetron at Frankhan Selectist on Sat 3 Oct, Istanbul. 3 artists on the bill: Deetron, Marlò and Pink Concrete. Techno and House. Preview the line-up and save it on soundcheck.
+Visions: Deetron at Frankhan Selectist on Sat 3 Oct, Istanbul. 3 artists: Deetron, Marlò and Pink Concrete. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

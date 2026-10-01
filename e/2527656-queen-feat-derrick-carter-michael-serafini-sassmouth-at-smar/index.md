@@ -1,6 +1,6 @@
 # Queen! feat. Derrick Carter - Michael Serafini - Sassmouth at smartbar
 
-Queen! feat. Derrick Carter - Michael Serafini - Sassmouth at smartbar on Sun 4 Oct, Chicago. 3 artists on the bill: Derrick Carter, Michael Serafini and Sassmouth. House and Acid. Preview the line-up and save it on soundcheck.
+Queen! feat. Derrick Carter - Michael Serafini - Sassmouth at smartbar on Sun 4 Oct, Chicago. 3 artists: Derrick Carter, Michael Serafini and Sassmouth. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

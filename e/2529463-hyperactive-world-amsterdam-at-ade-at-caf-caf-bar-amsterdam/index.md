@@ -1,6 +1,6 @@
 # Hyperactive World Amsterdam at ADE at Café Café Bar Amsterdam
 
-Hyperactive World Amsterdam at ADE at Café Café Bar Amsterdam on Thu 22 Oct, Amsterdam. House and Tech House. Preview the line-up and save it on soundcheck.
+Hyperactive World Amsterdam at ADE at Café Café Bar Amsterdam on Thu 22 Oct, Amsterdam. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

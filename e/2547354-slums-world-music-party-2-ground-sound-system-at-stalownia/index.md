@@ -1,6 +1,6 @@
 # Slums World Music Party #2 - Ground Sound System at Stalownia
 
-Slums World Music Party #2 - Ground Sound System at Stalownia on Fri 9 Oct, Warsaw. 3 artists on the bill: Abuelita, eylau and wauneu. Dub and Dubstep. Preview the line-up and save it on soundcheck.
+Slums World Music Party #2 - Ground Sound System at Stalownia on Fri 9 Oct, Warsaw. 3 artists: Abuelita, eylau and wauneu. Dub and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

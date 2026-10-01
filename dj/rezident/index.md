@@ -1,8 +1,8 @@
 # Rezident
 
-Rezident is a Progressive House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NOWHERE, Manchester on Sat, 21 Nov 2026.
+Rezident is a Progressive House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NOWHERE, Manchester on Sat, 21 Nov 2026.
 
-Rezident is a progressive house and house artist based in Germany, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Nicky Elisabeth, Braxton and Qrion. Next up: NOWHERE, Manchester on Sat 21 Nov.
+Rezident is a progressive house and house artist based in Germany, with 45 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Nicky Elisabeth, Braxton and Qrion. Next up: NOWHERE, Manchester on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Rezident is a progressive house and house artist based in Germany, tracked on so
 
 ## Recently played
 
-- Beach House San Diego, San Diego — Sat, 1 Aug 2026
-- EOS Lounge, Los Angeles — Fri, 31 Jul 2026
-- Křižíkova Fountain, Prague — Sun, 26 Jul 2026
-- Knockdown Center, New York City — Sat, 4 Jul 2026
-- The Cause, London — Sun, 21 Jun 2026
-- RFK Stadium Memorial Stadium, Washington DC — Sat, 30 May 2026
-- Café Berlín, Madrid — Thu, 11 Dec 2025
-- berlinClub, Madrid — Thu, 11 Dec 2025
+- Beach House San Diego, San Diego · Sat, 1 Aug 2026
+- EOS Lounge, Los Angeles · Fri, 31 Jul 2026
+- Křižíkova Fountain, Prague · Sun, 26 Jul 2026
+- Knockdown Center, New York City · Sat, 4 Jul 2026
+- The Cause, London · Sun, 21 Jun 2026
+- RFK Stadium Memorial Stadium, Washington DC · Sat, 30 May 2026
+- Café Berlín, Madrid · Thu, 11 Dec 2025
+- berlinClub, Madrid · Thu, 11 Dec 2025
 
 ## Shares bills with
 

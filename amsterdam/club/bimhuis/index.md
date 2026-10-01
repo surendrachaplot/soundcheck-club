@@ -1,8 +1,8 @@
 # Bimhuis
 
-Bimhuis is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Wendy Eisenberg" on Sat, 3 Oct 2026.
+Bimhuis is a music venue in Amsterdam with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Wendy Eisenberg" on Sat, 3 Oct 2026.
 
-Bimhuis is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Arsenal Mikebe and Martyn. Browse upcoming dates, start times and who's playing. Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands.
+Bimhuis is a music venue in Amsterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Arsenal Mikebe and Martyn. See dates, start times and who's playing. Piet Heinkade 3; 1019 Zeeburg; Amsterdam; Netherlands.
 
 ## What's on
 

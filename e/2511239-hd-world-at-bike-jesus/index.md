@@ -1,6 +1,6 @@
 # ★ HD World ★ at Bike Jesus
 
-★ HD World ★ at Bike Jesus on Sat 10 Oct, Prague. 4 artists on the bill: AVHD, dylan.james, LickMySoul and MARS. Trance and Techno. Preview the line-up and save it on soundcheck.
+★ HD World ★ at Bike Jesus on Sat 10 Oct, Prague. 4 artists: AVHD, dylan.james, LickMySoul and MARS. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

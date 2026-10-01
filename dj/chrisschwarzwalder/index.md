@@ -1,8 +1,8 @@
 # Chris Schwarzwälder
 
-Chris Schwarzwälder is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Nuit, Paris on Fri, 2 Oct 2026.
+Chris Schwarzwälder is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Nuit, Paris on Fri, 2 Oct 2026.
 
-Chris Schwarzwälder is a house and techno artist based in Germany, tracked on soundcheck, with 95 sets logged across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside Mira, Britta Arnold and Sven Dohse. Next up: La Nuit, Paris on Fri 2 Oct.
+Chris Schwarzwälder is a house and techno artist based in Germany, with 95 gigs on soundcheck across Amsterdam, Barcelona, Basel and Berlin and 21 more. Often billed alongside Mira, Britta Arnold and Sven Dohse. Next up: La Nuit, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Chris Schwarzwälder is a house and techno artist based in Germany, tracked on s
 
 ## Recently played
 
-- Hive Club, Zurich — Sat, 26 Sept 2026
-- Kater, Berlin — Fri, 11 Sept 2026
-- Kater, Berlin — Fri, 21 Aug 2026
-- Doma Portugal, Lisbon — Fri, 24 Jul 2026
-- Bikini Beach, Cologne — Fri, 17 Jul 2026
-- Zuckerzauber, Berlin — Fri, 10 Jul 2026
-- Kater, Berlin — Fri, 3 Jul 2026
-- Basso, Basel — Fri, 19 Jun 2026
+- Hive Club, Zurich · Sat, 26 Sept 2026
+- Kater, Berlin · Fri, 11 Sept 2026
+- Kater, Berlin · Fri, 21 Aug 2026
+- Doma Portugal, Lisbon · Fri, 24 Jul 2026
+- Bikini Beach, Cologne · Fri, 17 Jul 2026
+- Zuckerzauber, Berlin · Fri, 10 Jul 2026
+- Kater, Berlin · Fri, 3 Jul 2026
+- Basso, Basel · Fri, 19 Jun 2026
 
 ## Shares bills with
 

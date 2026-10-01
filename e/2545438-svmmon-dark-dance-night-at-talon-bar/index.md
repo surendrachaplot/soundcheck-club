@@ -1,6 +1,6 @@
 # SVMMON: Dark Dance Night at Talon Bar
 
-SVMMON: Dark Dance Night at Talon Bar on Fri 9 Oct, New York City. 4 artists on the bill: Brad Scott, Jamie K, Joe Hart (US) and Mark Cage. EBM and Industrial. Preview the line-up and save it on soundcheck.
+SVMMON: Dark Dance Night at Talon Bar on Fri 9 Oct, New York City. 4 artists: Brad Scott, Jamie K, Joe Hart (US) and Mark Cage. EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

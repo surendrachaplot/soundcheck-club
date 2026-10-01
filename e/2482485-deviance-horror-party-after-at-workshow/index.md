@@ -1,6 +1,6 @@
 # DEVIANCE HORROR PARTY + AFTER at Workshow
 
-DEVIANCE HORROR PARTY + AFTER at Workshow on Sat 31 Oct, Paris. Electro. Preview the line-up and save it on soundcheck.
+DEVIANCE HORROR PARTY + AFTER at Workshow on Sat 31 Oct, Paris. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

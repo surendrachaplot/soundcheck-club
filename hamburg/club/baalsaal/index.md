@@ -1,8 +1,8 @@
 # Baalsaal
 
-Baalsaal is a music venue in Hamburg with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Move to Groove" on Fri, 2 Oct 2026.
+Baalsaal is a music venue in Hamburg with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Move to Groove" on Fri, 2 Oct 2026.
 
-Baalsaal is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, with line-ups including Kaizen, KAMIKAZE, ROOB and Steven Shade. Browse upcoming dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
+Baalsaal is a music venue in Hamburg listed on soundcheck. 13 upcoming gigs, with line-ups including Kaizen, KAMIKAZE, ROOB and Steven Shade. See dates, start times and who's playing. Reeperbahn 25; 20359 Hamburg; Germany.
 
 ## What's on
 

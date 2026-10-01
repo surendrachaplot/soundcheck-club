@@ -1,8 +1,8 @@
 # Lil Zé
 
-Lil Zé is a Club and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Pianos, New York City on Tue, 3 Nov 2026.
+Lil Zé is a Club and Baile Funk artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Pianos, New York City on Tue, 3 Nov 2026.
 
-Lil Zé is a club and baile funk artist based in United States of America, tracked on soundcheck, with 32 sets logged across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Papi Weli, Yuca Frita and 8ULENTINA. Next up: Pianos, New York City on Tue 3 Nov.
+Lil Zé is a club and baile funk artist based in United States of America, with 32 gigs on soundcheck across Los Angeles, New York City and San Francisco/Oakland. Often billed alongside Papi Weli, Yuca Frita and 8ULENTINA. Next up: Pianos, New York City on Tue 3 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Lil Zé is a club and baile funk artist based in United States of America, track
 
 ## Recently played
 
-- Honey's, New York City — Sat, 13 Jun 2026
-- Selva NYC, New York City — Fri, 23 Jan 2026
-- Honey's, New York City — Sat, 27 Sept 2025
-- TBA - SECRET LOCATION, San Francisco/Oakland — Sat, 6 Sept 2025
-- Carpark, New York City — Fri, 18 Jul 2025
-- Pianos, New York City — Wed, 16 Jul 2025
-- Nowadays, New York City — Sat, 28 Jun 2025
-- Honey's, New York City — Fri, 20 Jun 2025
+- Honey's, New York City · Sat, 13 Jun 2026
+- Selva NYC, New York City · Fri, 23 Jan 2026
+- Honey's, New York City · Sat, 27 Sept 2025
+- TBA - SECRET LOCATION, San Francisco/Oakland · Sat, 6 Sept 2025
+- Carpark, New York City · Fri, 18 Jul 2025
+- Pianos, New York City · Wed, 16 Jul 2025
+- Nowadays, New York City · Sat, 28 Jun 2025
+- Honey's, New York City · Fri, 20 Jun 2025
 
 ## Shares bills with
 

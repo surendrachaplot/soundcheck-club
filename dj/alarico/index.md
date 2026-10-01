@@ -1,8 +1,8 @@
 # Alarico
 
-Alarico is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sub Club, Glasgow on Fri, 9 Oct 2026.
+Alarico is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sub Club, Glasgow on Fri, 9 Oct 2026.
 
-Alarico is a techno and house artist based in Italy, tracked on soundcheck, with 275 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Sub Club, Glasgow on Fri 9 Oct.
+Alarico is a techno and house artist based in Italy, with 275 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 72 more. Often billed alongside Chlär, Funk Assault and Yanamaste. Next up: Sub Club, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Alarico is a techno and house artist based in Italy, tracked on soundcheck, with
 
 ## Recently played
 
-- Anfiteatro de Pedra, Lisbon — Sat, 26 Sept 2026
-- Den Anden Side, Copenhagen — Fri, 25 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 22 Sept 2026
-- Fiducial Asteria, Lyon — Sat, 19 Sept 2026
-- IFEMA, Madrid — Fri, 18 Sept 2026
-- IFEMA, Madrid — Fri, 18 Sept 2026
-- Mondo, Madrid — Thu, 17 Sept 2026
-- Amnesia Ibiza, Ibiza — Tue, 15 Sept 2026
+- Anfiteatro de Pedra, Lisbon · Sat, 26 Sept 2026
+- Den Anden Side, Copenhagen · Fri, 25 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 22 Sept 2026
+- Fiducial Asteria, Lyon · Sat, 19 Sept 2026
+- IFEMA, Madrid · Fri, 18 Sept 2026
+- IFEMA, Madrid · Fri, 18 Sept 2026
+- Mondo, Madrid · Thu, 17 Sept 2026
+- Amnesia Ibiza, Ibiza · Tue, 15 Sept 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Changing Currents, Wilfy D, AMBRR at Colour Factory
 
-Changing Currents, Wilfy D, AMBRR at Colour Factory on Sat 28 Nov, London. 3 artists on the bill: AMBRR, Changing Currents and Wilfy D. Preview the line-up and save it on soundcheck.
+Changing Currents, Wilfy D, AMBRR at Colour Factory on Sat 28 Nov, London. 3 artists: AMBRR, Changing Currents and Wilfy D. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

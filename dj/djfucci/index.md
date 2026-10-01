@@ -1,8 +1,8 @@
 # Dj Fucci
 
-Dj Fucci is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ormside Projects, London on Thu, 1 Oct 2026.
+Dj Fucci is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ormside Projects, London on Thu, 1 Oct 2026.
 
-Dj Fucci is a techno and house artist based in Mexico, tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Berlin and Hong Kong and 13 more. Often billed alongside sadgal, Enya Botello and Octoptic. Next up: Ormside Projects, London on Thu 1 Oct.
+Dj Fucci is a techno and house artist based in Mexico, with 111 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Hong Kong and 13 more. Often billed alongside sadgal, Enya Botello and Octoptic. Next up: Ormside Projects, London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Dj Fucci is a techno and house artist based in Mexico, tracked on soundcheck, wi
 
 ## Recently played
 
-- Colour Factory, London — Sat, 26 Sept 2026
-- Razzmatazz, Barcelona — Fri, 11 Sept 2026
-- YuYu Cine Club, Mexico City — Sat, 15 Aug 2026
-- Bar Oriente, Mexico City — Fri, 10 Jul 2026
-- TBA, Mexico City — Sat, 13 Jun 2026
-- Brutal Mx, Mexico City — Sat, 13 Jun 2026
-- TBA - secret warehouse, Los Angeles — Sat, 30 May 2026
-- Brutal Mx, Mexico City — Thu, 28 May 2026
+- Colour Factory, London · Sat, 26 Sept 2026
+- Razzmatazz, Barcelona · Fri, 11 Sept 2026
+- YuYu Cine Club, Mexico City · Sat, 15 Aug 2026
+- Bar Oriente, Mexico City · Fri, 10 Jul 2026
+- TBA, Mexico City · Sat, 13 Jun 2026
+- Brutal Mx, Mexico City · Sat, 13 Jun 2026
+- TBA - secret warehouse, Los Angeles · Sat, 30 May 2026
+- Brutal Mx, Mexico City · Thu, 28 May 2026
 
 ## Shares bills with
 

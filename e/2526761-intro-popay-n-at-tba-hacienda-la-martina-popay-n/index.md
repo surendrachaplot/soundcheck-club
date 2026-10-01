@@ -1,6 +1,6 @@
 # Intro Popayán at TBA - Hacienda la Martina Popayán
 
-Intro Popayán at TBA - Hacienda la Martina Popayán on Sat 3 Oct, Colombia. 1 artist on the bill: Fadi Mohem. Preview the line-up and save it on soundcheck.
+Intro Popayán at TBA - Hacienda la Martina Popayán on Sat 3 Oct, Colombia. 1 artist: Fadi Mohem. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # MAD Beats
 
-MAD Beats is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Area Manchester, Manchester on Fri, 2 Oct 2026.
+MAD Beats is a Tech House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Area Manchester, Manchester on Fri, 2 Oct 2026.
 
-MAD Beats is a tech house and house artist based in Ireland, tracked on soundcheck, with 18 sets logged across Amsterdam and Manchester. Often billed alongside Shumbo Jebang, Chael-UK and Mat Matthews. Next up: Area Manchester, Manchester on Fri 2 Oct.
+MAD Beats is a tech house and house artist based in Ireland, with 18 gigs on soundcheck across Amsterdam and Manchester. Often billed alongside Shumbo Jebang, Chael-UK and Mat Matthews. Next up: Area Manchester, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ MAD Beats is a tech house and house artist based in Ireland, tracked on soundche
 
 ## Recently played
 
-- Off The Square, Manchester — Sat, 8 Aug 2026
-- Off The Square, Manchester — Sat, 13 Jun 2026
-- TBA - Under Junction 7 of the M60 Stretford, Manchester — Sun, 19 Apr 2026
-- Off The Square, Manchester — Sat, 21 Feb 2026
-- The Eagle Inn, Manchester — Sat, 27 Dec 2025
-- The Eagle Inn, Manchester — Fri, 24 Oct 2025
-- Nicholas Groente & Fruit, Amsterdam — Thu, 23 Oct 2025
-- TBA, Manchester — Sun, 12 Oct 2025
+- Off The Square, Manchester · Sat, 8 Aug 2026
+- Off The Square, Manchester · Sat, 13 Jun 2026
+- TBA - Under Junction 7 of the M60 Stretford, Manchester · Sun, 19 Apr 2026
+- Off The Square, Manchester · Sat, 21 Feb 2026
+- The Eagle Inn, Manchester · Sat, 27 Dec 2025
+- The Eagle Inn, Manchester · Fri, 24 Oct 2025
+- Nicholas Groente & Fruit, Amsterdam · Thu, 23 Oct 2025
+- TBA, Manchester · Sun, 12 Oct 2025
 
 ## Shares bills with
 

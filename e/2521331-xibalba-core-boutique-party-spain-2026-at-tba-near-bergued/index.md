@@ -1,6 +1,6 @@
 # Xibalba Core - Boutique Party - Spain 2026 at TBA - Near Berguedà
 
-Xibalba Core - Boutique Party - Spain 2026 at TBA - Near Berguedà on Fri 23 Oct, Barcelona. Experimental and Psytrance. Preview the line-up and save it on soundcheck.
+Xibalba Core - Boutique Party - Spain 2026 at TBA - Near Berguedà on Fri 23 Oct, Barcelona. Experimental and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

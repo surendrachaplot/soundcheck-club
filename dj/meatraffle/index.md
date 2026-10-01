@@ -1,8 +1,8 @@
 # Meat Raffle
 
-Meat Raffle is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
+Meat Raffle is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Brooman NSW, Sydney on Fri, 27 Nov 2026.
 
-Meat Raffle is a techno and house artist based in Australia, tracked on soundcheck, with 14 sets logged across Melbourne, New York City and Sydney. Often billed alongside ATARANGI, Dan Azzo and D. Tyrone. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
+Meat Raffle is a techno and house artist based in Australia, with 14 gigs on soundcheck across Melbourne, New York City and Sydney. Often billed alongside ATARANGI, Dan Azzo and D. Tyrone. Next up: TBA - Brooman NSW, Sydney on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Meat Raffle is a techno and house artist based in Australia, tracked on soundche
 
 ## Recently played
 
-- Trough X Sydney, Sydney — Sat, 12 Sept 2026
-- The Imperial Hotel, Sydney — Thu, 26 Feb 2026
-- Abercrombie Hotel, Sydney — Fri, 24 Oct 2025
-- Kings Cross Hotel, Sydney — Sat, 30 Aug 2025
-- TBA - ELLA FUNT, New York City — Thu, 26 Jun 2025
-- TBA, New York City — Sat, 14 Jun 2025
-- Chinese Laundry, Sydney — Fri, 23 May 2025
-- Rubix Warehouse & Tetris Studios, Melbourne — Fri, 4 Apr 2025
+- Trough X Sydney, Sydney · Sat, 12 Sept 2026
+- The Imperial Hotel, Sydney · Thu, 26 Feb 2026
+- Abercrombie Hotel, Sydney · Fri, 24 Oct 2025
+- Kings Cross Hotel, Sydney · Sat, 30 Aug 2025
+- TBA - ELLA FUNT, New York City · Thu, 26 Jun 2025
+- TBA, New York City · Sat, 14 Jun 2025
+- Chinese Laundry, Sydney · Fri, 23 May 2025
+- Rubix Warehouse & Tetris Studios, Melbourne · Fri, 4 Apr 2025
 
 ## Shares bills with
 

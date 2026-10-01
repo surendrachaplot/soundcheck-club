@@ -1,6 +1,6 @@
 # THE MAGICK BAR PRESENTS: Cosimo Damiano, SKYAPNEA at THE MAGICK BAR
 
-THE MAGICK BAR PRESENTS: Cosimo Damiano, SKYAPNEA on Sat 3 Oct, Rome. 2 artists on the bill: Cosimo Damiano and SKYAPNEA. Preview the line-up and save it on soundcheck.
+THE MAGICK BAR PRESENTS: Cosimo Damiano, SKYAPNEA on Sat 3 Oct, Rome. 2 artists: Cosimo Damiano and SKYAPNEA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # David Morales at Area City
 
-David Morales at Area City on Sat 17 Oct, Venice. 1 artist on the bill: David Morales. Preview the line-up and save it on soundcheck.
+David Morales at Area City on Sat 17 Oct, Venice. 1 artist: David Morales. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

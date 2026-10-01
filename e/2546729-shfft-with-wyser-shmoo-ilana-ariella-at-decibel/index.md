@@ -1,6 +1,6 @@
 # Shfft with Wyser - Shmoo - Ilana Ariella at Decibel
 
-Shfft with Wyser - Shmoo - Ilana Ariella at Decibel on Tue 13 Oct, Chicago. 3 artists on the bill: Ilana Ariella, Shmoo and Wyser. House and Deep House. Preview the line-up and save it on soundcheck.
+Shfft with Wyser - Shmoo - Ilana Ariella at Decibel on Tue 13 Oct, Chicago. 3 artists: Ilana Ariella, Shmoo and Wyser. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

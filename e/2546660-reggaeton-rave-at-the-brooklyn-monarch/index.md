@@ -1,6 +1,6 @@
 # Reggaeton Rave at The Brooklyn Monarch
 
-Reggaeton Rave at The Brooklyn Monarch on Sat 5 Dec, New York City. Club and Reggaeton. Preview the line-up and save it on soundcheck.
+Reggaeton Rave at The Brooklyn Monarch on Sat 5 Dec, New York City. Club and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

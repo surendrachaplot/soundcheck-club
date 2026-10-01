@@ -1,6 +1,6 @@
 # OBS'SESSION: A2d'tens vs 5CRO vs Midi Noise • Arkanalog • Korus & Dantel • Savage Nihilism at Zoo
 
-OBS'SESSION: A2d'tens vs 5CRO vs Midi Noise • Arkanalog • Korus & Dantel • Savage Nihilism at Zoo on Sat 3 Oct, Geneva. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+OBS'SESSION: A2d'tens vs 5CRO vs Midi Noise • Arkanalog • Korus & Dantel • Savage Nihilism at Zoo on Sat 3 Oct, Geneva. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

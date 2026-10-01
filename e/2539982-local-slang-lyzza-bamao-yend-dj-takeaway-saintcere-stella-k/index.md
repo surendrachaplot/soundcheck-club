@@ -1,6 +1,6 @@
 # Local Slang: LYZZA / Bamao Yendé / DJ Takeaway / Saintcere / Stella K at Botanique
 
-Local Slang: LYZZA / Bamao Yendé / DJ Takeaway / Saintcere / Stella K at Botanique on Fri 2 Oct, Brussels. 3 artists on the bill: DJ Takeaway, LYZZA and Stella K. Electro. Preview the line-up and save it on soundcheck.
+Local Slang: LYZZA / Bamao Yendé / DJ Takeaway / Saintcere / Stella K at Botanique on Fri 2 Oct, Brussels. 3 artists: DJ Takeaway, LYZZA and Stella K. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

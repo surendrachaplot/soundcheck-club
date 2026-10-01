@@ -1,6 +1,6 @@
 # move my way afterparty ~ naarm at Punters Club
 
-move my way afterparty ~ naarm at Punters Club on Sun 4 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+move my way afterparty ~ naarm at Punters Club on Sun 4 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Egg LDN Pres: Ibiza Closing Party pt. 1 at Egg London
 
-Egg LDN Pres: Ibiza Closing Party pt. 1 at Egg London on Fri 16 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+Egg LDN Pres: Ibiza Closing Party pt. 1 at Egg London on Fri 16 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

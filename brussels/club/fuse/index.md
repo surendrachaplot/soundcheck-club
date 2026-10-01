@@ -1,8 +1,8 @@
 # Fuse
 
-Fuse is a music venue in Brussels with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Fuse presents: The Ghost & Gonno" on Fri, 2 Oct 2026.
+Fuse is a music venue in Brussels with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Fuse presents: The Ghost & Gonno" on Fri, 2 Oct 2026.
 
-Fuse is a music venue in Brussels listed on soundcheck. 12 upcoming gigs, with line-ups including A. Brehme, AliA, Altinbas and Ben Klock and 2 more. Browse upcoming dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
+Fuse is a music venue in Brussels listed on soundcheck. 12 upcoming gigs, with line-ups including A. Brehme, AliA, Altinbas and Ben Klock and 2 more. See dates, start times and who's playing. Blaesstraat 208, 1000 Brussel, Belgium.
 
 ## What's on
 

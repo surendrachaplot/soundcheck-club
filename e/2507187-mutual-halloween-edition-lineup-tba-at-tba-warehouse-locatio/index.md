@@ -1,6 +1,6 @@
 # Mutual: Halloween Edition - Lineup TBA at TBA - Warehouse Location 
 
-Mutual: Halloween Edition - Lineup TBA at TBA - Warehouse Location  on Fri 30 Oct, Boston. Techno and Latin Bass. Preview the line-up and save it on soundcheck.
+Mutual: Halloween Edition - Lineup TBA at TBA - Warehouse Location  on Fri 30 Oct, Boston. Techno and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

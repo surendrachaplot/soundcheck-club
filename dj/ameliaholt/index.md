@@ -1,8 +1,8 @@
 # Amelia Holt
 
-Amelia Holt is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at H0L0, New York City on Fri, 9 Oct 2026.
+Amelia Holt is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Fri, 9 Oct 2026.
 
-Amelia Holt is a house and techno artist based in Mexico, tracked on soundcheck, with 206 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: H0L0, New York City on Fri 9 Oct.
+Amelia Holt is a house and techno artist based in Mexico, with 206 gigs on soundcheck across Amsterdam, Athens, Barcelona and Belgrade and 33 more. Often billed alongside Second Contact, 98dots and Cole Evelev. Next up: H0L0, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Amelia Holt is a house and techno artist based in Mexico, tracked on soundcheck,
 
 ## Recently played
 
-- Mansions, New York City — Sat, 26 Sept 2026
-- Signal, New York City — Thu, 17 Sept 2026
-- TBA, Toronto — Fri, 11 Sept 2026
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Roof Terrace BK, New York City — Sat, 29 Aug 2026
-- TBA - Secret Location, Chicago — Fri, 28 Aug 2026
-- Good Room, New York City — Thu, 20 Aug 2026
-- Refuge, New York City — Fri, 14 Aug 2026
+- Mansions, New York City · Sat, 26 Sept 2026
+- Signal, New York City · Thu, 17 Sept 2026
+- TBA, Toronto · Fri, 11 Sept 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Roof Terrace BK, New York City · Sat, 29 Aug 2026
+- TBA - Secret Location, Chicago · Fri, 28 Aug 2026
+- Good Room, New York City · Thu, 20 Aug 2026
+- Refuge, New York City · Fri, 14 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # GRUB Stretford: Mandolin at Grub Stretford
 
-GRUB Stretford: Mandolin at Grub Stretford on Sat 17 Oct, Manchester. Dubstep and Dub Techno. Preview the line-up and save it on soundcheck.
+GRUB Stretford: Mandolin at Grub Stretford on Sat 17 Oct, Manchester. Dubstep and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

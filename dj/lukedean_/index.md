@@ -1,8 +1,8 @@
 # Luke Dean_
 
-Luke Dean_ is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 3 Oct 2026.
+Luke Dean_ is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at DRUMSHEDS, London on Sat, 3 Oct 2026.
 
-Luke Dean_ is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 111 sets logged across Amsterdam, Barcelona, Belfast and Brighton and 29 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: DRUMSHEDS, London on Sat 3 Oct.
+Luke Dean_ is a house and tech house artist based in United Kingdom, with 111 gigs on soundcheck across Amsterdam, Barcelona, Belfast and Brighton and 29 more. Often billed alongside Max Dean, Locky and L.P. Rhythm. Next up: DRUMSHEDS, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Luke Dean_ is a house and tech house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Blackstone Street Warehouse, Liverpool — Sat, 26 Sept 2026
-- Amnesia Ibiza, Ibiza — Thu, 24 Sept 2026
-- Riithalle, Zurich — Sat, 19 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- [UNVRS], Ibiza — Wed, 16 Sept 2026
-- New City Gas, Montreal — Sun, 6 Sept 2026
-- Spybar, Chicago — Thu, 3 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
+- Blackstone Street Warehouse, Liverpool · Sat, 26 Sept 2026
+- Amnesia Ibiza, Ibiza · Thu, 24 Sept 2026
+- Riithalle, Zurich · Sat, 19 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- [UNVRS], Ibiza · Wed, 16 Sept 2026
+- New City Gas, Montreal · Sun, 6 Sept 2026
+- Spybar, Chicago · Thu, 3 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
 
 ## Shares bills with
 

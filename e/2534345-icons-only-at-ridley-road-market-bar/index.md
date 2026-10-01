@@ -1,6 +1,6 @@
 # Icons Only at Ridley Road Market Bar
 
-Icons Only at Ridley Road Market Bar on Fri 9 Oct, London. Disco and Pop. Preview the line-up and save it on soundcheck.
+Icons Only at Ridley Road Market Bar on Fri 9 Oct, London. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

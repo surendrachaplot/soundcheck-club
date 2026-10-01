@@ -1,8 +1,8 @@
 # MAIYA
 
-MAIYA is a Club and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Elsewhere, New York City on Fri, 16 Oct 2026.
+MAIYA is a Club and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Elsewhere, New York City on Fri, 16 Oct 2026.
 
-MAIYA is a club and hip-hop artist based in United States of America, tracked on soundcheck, with 11 sets logged across Los Angeles, New York City and Washington DC. Often billed alongside 444, Krithi and Nishévitha. Next up: Elsewhere, New York City on Fri 16 Oct.
+MAIYA is a club and hip-hop artist based in United States of America, with 11 gigs on soundcheck across Los Angeles, New York City and Washington DC. Often billed alongside 444, Krithi and Nishévitha. Next up: Elsewhere, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MAIYA is a club and hip-hop artist based in United States of America, tracked on
 
 ## Recently played
 
-- Webster Hall, New York City — Fri, 18 Sept 2026
-- Mood Ring, New York City — Thu, 10 Sept 2026
-- TRANSMISSION DC, Washington DC — Fri, 15 May 2026
-- Elsewhere, New York City — Sat, 21 Mar 2026
-- Caña Rum Bar, Los Angeles — Wed, 26 Nov 2025
-- Elsewhere, New York City — Sat, 27 Sept 2025
-- 618 DC, Washington DC — Sat, 12 Jul 2025
-- 618 DC, Washington DC — Sat, 3 May 2025
+- Webster Hall, New York City · Fri, 18 Sept 2026
+- Mood Ring, New York City · Thu, 10 Sept 2026
+- TRANSMISSION DC, Washington DC · Fri, 15 May 2026
+- Elsewhere, New York City · Sat, 21 Mar 2026
+- Caña Rum Bar, Los Angeles · Wed, 26 Nov 2025
+- Elsewhere, New York City · Sat, 27 Sept 2025
+- 618 DC, Washington DC · Sat, 12 Jul 2025
+- 618 DC, Washington DC · Sat, 3 May 2025
 
 ## Shares bills with
 

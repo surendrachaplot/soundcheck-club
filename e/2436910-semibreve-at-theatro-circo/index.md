@@ -1,6 +1,6 @@
 # Semibreve at Theatro Circo
 
-Semibreve at Theatro Circo on Thu 22 Oct, Portugal. 9 artists on the bill: Azu Tiwaline, dawn dani, Fennesz and Flora Yin-Wong and 5 more. Preview the line-up and save it on soundcheck.
+Semibreve at Theatro Circo on Thu 22 Oct, Portugal. 9 artists: Azu Tiwaline, dawn dani, Fennesz and Flora Yin-Wong and 5 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

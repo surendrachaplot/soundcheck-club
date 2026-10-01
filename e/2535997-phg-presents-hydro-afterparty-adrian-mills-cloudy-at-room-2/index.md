@@ -1,6 +1,6 @@
 # PHG Presents: Hydro Afterparty (Adrian Mills + Cloudy) at Room 2 Glasgow
 
-PHG Presents: Hydro Afterparty (Adrian Mills + Cloudy) at Room 2 Glasgow on Sun 27 Dec, Glasgow. Trance and Techno. Preview the line-up and save it on soundcheck.
+PHG Presents: Hydro Afterparty (Adrian Mills + Cloudy) at Room 2 Glasgow on Sun 27 Dec, Glasgow. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

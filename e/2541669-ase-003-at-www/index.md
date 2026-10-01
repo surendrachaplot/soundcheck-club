@@ -1,6 +1,6 @@
 # βase-003 at WWWβ
 
-βase-003 at WWWβ on Fri 9 Oct, Tokyo. Techno and Minimal. Preview the line-up and save it on soundcheck.
+βase-003 at WWWβ on Fri 9 Oct, Tokyo. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Vallde
 
-Vallde is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
+Vallde is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
 
-Vallde is a house and techno artist based in Spain, tracked on soundcheck, with 11 sets logged across Barcelona. Often billed alongside arnald, Vilalta and Nancy. Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
+Vallde is a house and techno artist based in Spain, with 11 gigs on soundcheck across Barcelona. Often billed alongside arnald, Vilalta and Nancy. Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Vallde is a house and techno artist based in Spain, tracked on soundcheck, with 
 
 ## Recently played
 
-- Studio Stereo, Barcelona — Fri, 17 Jul 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 25 Apr 2026
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Mon, 5 Jan 2026
-- Diggin' at Vraba, Barcelona — Fri, 21 Nov 2025
-- TBA - Platja del Forum, Carrer de la Pau, 08930, Sant Adrià de Besos, Barcelona, Barcelona — Sat, 13 Sept 2025
-- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona — Sat, 5 Jul 2025
-- TBA, Barcelona — Sat, 3 May 2025
-- Buena Onda Social Club, Barcelona — Sat, 8 Feb 2025
+- Studio Stereo, Barcelona · Fri, 17 Jul 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 25 Apr 2026
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Mon, 5 Jan 2026
+- Diggin' at Vraba, Barcelona · Fri, 21 Nov 2025
+- TBA - Platja del Forum, Carrer de la Pau, 08930, Sant Adrià de Besos, Barcelona, Barcelona · Sat, 13 Sept 2025
+- TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona · Sat, 5 Jul 2025
+- TBA, Barcelona · Sat, 3 May 2025
+- Buena Onda Social Club, Barcelona · Sat, 8 Feb 2025
 
 ## Shares bills with
 

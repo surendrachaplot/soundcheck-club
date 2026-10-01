@@ -1,6 +1,6 @@
 # ◈ Cosmic Thursday's ◈ at Süss War Gestern
 
-◈ Cosmic Thursday's ◈ at Süss War Gestern on Thu 1 Oct, Berlin. 4 artists on the bill: Doron, Freudenthal, Neobeo and saeuer. Deep House and Italo Disco. Preview the line-up and save it on soundcheck.
+◈ Cosmic Thursday's ◈ at Süss War Gestern on Thu 1 Oct, Berlin. 4 artists: Doron, Freudenthal, Neobeo and saeuer. Deep House and Italo Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

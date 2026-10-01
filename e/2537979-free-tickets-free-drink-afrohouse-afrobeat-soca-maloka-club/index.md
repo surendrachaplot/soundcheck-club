@@ -1,6 +1,6 @@
 # FREE TICKETS + FREE DRINK – AFROHOUSE, AFROBEAT, SOCA – MALOKA CLUB at Egg London
 
-FREE TICKETS + FREE DRINK – AFROHOUSE, AFROBEAT, SOCA – MALOKA CLUB at Egg London on Fri 9 Oct, London. Afrobeat and Amapiano. Preview the line-up and save it on soundcheck.
+FREE TICKETS + FREE DRINK – AFROHOUSE, AFROBEAT, SOCA – MALOKA CLUB at Egg London on Fri 9 Oct, London. Afrobeat and Amapiano. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

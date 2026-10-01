@@ -1,6 +1,6 @@
 # Fold with FREDDY K, Voicedrone, Amulador at Gare Porto
 
-Fold with FREDDY K, Voicedrone, Amulador at Gare Porto on Fri 30 Oct, Porto. 3 artists on the bill: Amulador, Freddy K and Voicedrone. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Fold with FREDDY K, Voicedrone, Amulador at Gare Porto on Fri 30 Oct, Porto. 3 artists: Amulador, Freddy K and Voicedrone. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

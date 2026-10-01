@@ -1,6 +1,6 @@
 # MESTIZA presents SACRO at The Garage
 
-MESTIZA presents SACRO at The Garage on Sun 22 Nov, Madrid. 1 artist on the bill: MËSTIZA. Preview the line-up and save it on soundcheck.
+MESTIZA presents SACRO at The Garage on Sun 22 Nov, Madrid. 1 artist: MËSTIZA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

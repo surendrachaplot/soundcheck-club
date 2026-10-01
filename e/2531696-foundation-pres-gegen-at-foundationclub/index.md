@@ -1,6 +1,6 @@
 # Foundation Pres. GEGEN at Foundationclub
 
-Foundation Pres. GEGEN at Foundationclub on Fri 6 Nov, Nanjing. 3 artists on the bill: Cristian Marras, Mar/us and P.Simons. Preview the line-up and save it on soundcheck.
+Foundation Pres. GEGEN at Foundationclub on Fri 6 Nov, Nanjing. 3 artists: Cristian Marras, Mar/us and P.Simons. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

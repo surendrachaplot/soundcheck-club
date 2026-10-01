@@ -1,6 +1,6 @@
 # Favorit Bar w/ Enid Valu aka warm defeat at Favorit Bar
 
-Favorit Bar w/ Enid Valu aka warm defeat on Mon 5 Oct, Munich. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+Favorit Bar w/ Enid Valu aka warm defeat on Mon 5 Oct, Munich. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

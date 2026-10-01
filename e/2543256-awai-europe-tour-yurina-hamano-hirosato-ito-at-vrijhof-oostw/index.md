@@ -1,6 +1,6 @@
 # Awai Europe Tour: Yurina Hamano & Hirosato Ito at Vrijhof Oostwaard
 
-Awai Europe Tour: Yurina Hamano & Hirosato Ito at Vrijhof Oostwaard on Thu 1 Oct, Utrecht. Jazz and Classical. Preview the line-up and save it on soundcheck.
+Awai Europe Tour: Yurina Hamano & Hirosato Ito at Vrijhof Oostwaard on Thu 1 Oct, Utrecht. Jazz and Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

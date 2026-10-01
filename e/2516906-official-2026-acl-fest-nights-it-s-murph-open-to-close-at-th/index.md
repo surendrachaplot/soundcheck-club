@@ -1,6 +1,6 @@
 # Official 2026 ACL Fest Nights: it's murph (Open to Close) at The Concourse Project
 
-Official 2026 ACL Fest Nights: it's murph (Open to Close) at The Concourse Project on Sat 3 Oct, Austin. Preview the line-up and save it on soundcheck.
+Official 2026 ACL Fest Nights: it's murph (Open to Close) at The Concourse Project on Sat 3 Oct, Austin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

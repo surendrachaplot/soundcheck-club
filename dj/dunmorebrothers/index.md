@@ -1,8 +1,8 @@
 # Dunmore Brothers
 
-Dunmore Brothers is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Gallery, London on Thu, 8 Oct 2026.
+Dunmore Brothers is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Gallery, London on Thu, 8 Oct 2026.
 
-Dunmore Brothers is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Bristol and Ibiza and 5 more. Often billed alongside Darius Syrossian, Sam Divine and Melé. Next up: Gallery, London on Thu 8 Oct.
+Dunmore Brothers is a house and tech house artist based in United Kingdom, with 58 gigs on soundcheck across Amsterdam, Barcelona, Bristol and Ibiza and 5 more. Often billed alongside Darius Syrossian, Sam Divine and Melé. Next up: Gallery, London on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Dunmore Brothers is a house and tech house artist based in United Kingdom, track
 
 ## Recently played
 
-- Chinois Ibiza, Ibiza — Thu, 24 Sept 2026
-- Ku Barcelona, Barcelona — Sun, 6 Sept 2026
-- Joshua Brooks, Manchester — Fri, 14 Aug 2026
-- fabric, London — Fri, 7 Aug 2026
-- CÉ LA VI, London — Sat, 25 Jul 2026
-- XOYO, London — Sat, 18 Jul 2026
-- Playa Soleil Ibiza, Ibiza — Wed, 15 Jul 2026
-- KOKO, London — Sat, 13 Jun 2026
+- Chinois Ibiza, Ibiza · Thu, 24 Sept 2026
+- Ku Barcelona, Barcelona · Sun, 6 Sept 2026
+- Joshua Brooks, Manchester · Fri, 14 Aug 2026
+- fabric, London · Fri, 7 Aug 2026
+- CÉ LA VI, London · Sat, 25 Jul 2026
+- XOYO, London · Sat, 18 Jul 2026
+- Playa Soleil Ibiza, Ibiza · Wed, 15 Jul 2026
+- KOKO, London · Sat, 13 Jun 2026
 
 ## Shares bills with
 

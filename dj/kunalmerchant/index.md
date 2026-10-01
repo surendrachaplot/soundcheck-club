@@ -1,8 +1,8 @@
 # Kunal Merchant
 
-Kunal Merchant is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Royale, Boston on Fri, 13 Nov 2026.
+Kunal Merchant is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Royale, Boston on Fri, 13 Nov 2026.
 
-Kunal Merchant is a house and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Birmingham and Boston and 15 more. Often billed alongside Kahani, Anvaya and Ethyr. Next up: Royale, Boston on Fri 13 Nov.
+Kunal Merchant is a house and techno artist based in United States of America, with 45 gigs on soundcheck across Amsterdam, Austin, Birmingham and Boston and 15 more. Often billed alongside Kahani, Anvaya and Ethyr. Next up: Royale, Boston on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Kunal Merchant is a house and techno artist based in United States of America, t
 
 ## Recently played
 
-- A.i Warehouse, Washington DC — Sat, 26 Sept 2026
-- KOKO, London — Sat, 8 Nov 2025
-- Lab 11, Birmingham — Fri, 7 Nov 2025
-- Princess Theatre, Brisbane — Sat, 27 Sept 2025
-- The Timber Yard, Melbourne — Fri, 26 Sept 2025
-- The Metro Theatre, Sydney — Thu, 25 Sept 2025
-- Burgess Park, London — Fri, 1 Aug 2025
-- fabric, London — Fri, 1 Aug 2025
+- A.i Warehouse, Washington DC · Sat, 26 Sept 2026
+- KOKO, London · Sat, 8 Nov 2025
+- Lab 11, Birmingham · Fri, 7 Nov 2025
+- Princess Theatre, Brisbane · Sat, 27 Sept 2025
+- The Timber Yard, Melbourne · Fri, 26 Sept 2025
+- The Metro Theatre, Sydney · Thu, 25 Sept 2025
+- Burgess Park, London · Fri, 1 Aug 2025
+- fabric, London · Fri, 1 Aug 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # PLAYNICE CONFIDENTIAL 018 - Nat Wendell [UK] at Abercrombie Hotel
 
-PLAYNICE CONFIDENTIAL 018 - Nat Wendell [UK] at Abercrombie Hotel on Sat 10 Oct, Sydney. 1 artist on the bill: Nat Wendell. House and Disco. Preview the line-up and save it on soundcheck.
+PLAYNICE CONFIDENTIAL 018 - Nat Wendell [UK] at Abercrombie Hotel on Sat 10 Oct, Sydney. 1 artist: Nat Wendell. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

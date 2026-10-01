@@ -1,6 +1,6 @@
 # Daura (Stoked Lint, Montreal) [All Night Long Vinyl Set] at 宀 Club
 
-Daura (Stoked Lint, Montreal) [All Night Long Vinyl Set] at 宀 Club on Fri 30 Oct, Hong Kong. 1 artist on the bill: Daura. Techno and House. Preview the line-up and save it on soundcheck.
+Daura (Stoked Lint, Montreal) [All Night Long Vinyl Set] at 宀 Club on Fri 30 Oct, Hong Kong. 1 artist: Daura. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

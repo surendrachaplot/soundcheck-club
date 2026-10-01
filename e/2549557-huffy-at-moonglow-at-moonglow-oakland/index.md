@@ -1,6 +1,6 @@
 # Huffy at Moonglow at Moonglow Oakland
 
-Huffy at Moonglow at Moonglow Oakland on Thu 8 Oct, San Francisco/Oakland. 1 artist on the bill: Huffy. Bass and Deep House. Preview the line-up and save it on soundcheck.
+Huffy at Moonglow at Moonglow Oakland on Thu 8 Oct, San Francisco/Oakland. 1 artist: Huffy. Bass and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

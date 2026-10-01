@@ -1,6 +1,6 @@
 # GET WRECKED AT KURNELL RECCAS (Fundraiser) at Kurnell Recreation Club
 
-GET WRECKED AT KURNELL RECCAS (Fundraiser) at Kurnell Recreation Club on Fri 6 Nov, Sydney. 3 artists on the bill: Audent, GMOZ and Zuko. Trance and Techno. Preview the line-up and save it on soundcheck.
+GET WRECKED AT KURNELL RECCAS (Fundraiser) at Kurnell Recreation Club on Fri 6 Nov, Sydney. 3 artists: Audent, GMOZ and Zuko. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

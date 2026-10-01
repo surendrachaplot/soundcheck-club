@@ -1,6 +1,6 @@
 # Newhvn w/ HAAL at Quarry
 
-Newhvn w/ HAAL at Quarry on Tue 20 Oct, Liverpool. Noise and Electronica. Preview the line-up and save it on soundcheck.
+Newhvn w/ HAAL at Quarry on Tue 20 Oct, Liverpool. Noise and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

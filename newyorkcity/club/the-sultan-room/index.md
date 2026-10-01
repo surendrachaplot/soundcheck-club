@@ -1,8 +1,8 @@
 # The Sultan Room
 
-The Sultan Room is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Home & Abroad" on Sat, 3 Oct 2026.
+The Sultan Room is a music venue in New York City with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Home & Abroad" on Sat, 3 Oct 2026.
 
-The Sultan Room is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including 5ToK3, Ben The Glorious Bastard, Crew Called Self and DJ Lawyer and 2 more. Browse upcoming dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
+The Sultan Room is a music venue in New York City listed on soundcheck. 8 upcoming gigs, with line-ups including 5ToK3, Ben The Glorious Bastard, Crew Called Self and DJ Lawyer and 2 more. See dates, start times and who's playing. 234 Starr St. Brooklyn, NY 11237.
 
 ## What's on
 

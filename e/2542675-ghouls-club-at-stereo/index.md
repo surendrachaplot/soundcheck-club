@@ -1,6 +1,6 @@
 # Ghouls Club at Stereo
 
-Ghouls Club at Stereo on Fri 6 Nov, Glasgow. 1 artist on the bill: Creep-P. Hardcore and Gabber. Preview the line-up and save it on soundcheck.
+Ghouls Club at Stereo on Fri 6 Nov, Glasgow. 1 artist: Creep-P. Hardcore and Gabber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

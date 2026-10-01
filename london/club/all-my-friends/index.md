@@ -1,8 +1,8 @@
 # All My Friends
 
-All My Friends is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Body Shop: International Affairs Vol. 2" on Fri, 2 Oct 2026.
+All My Friends is a music venue in London with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Body Shop: International Affairs Vol. 2" on Fri, 2 Oct 2026.
 
-All My Friends is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including ADMNTi, Body Double, CRL and Kyle Parsley and 2 more. Browse upcoming dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
+All My Friends is a music venue in London listed on soundcheck. 5 upcoming gigs, with line-ups including ADMNTi, Body Double, CRL and Kyle Parsley and 2 more. See dates, start times and who's playing. Unit 1, Hamlet Estate, 96 White Post Ln, London E9 5EN.
 
 ## What's on
 

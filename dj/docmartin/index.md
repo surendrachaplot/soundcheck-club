@@ -1,8 +1,8 @@
 # Doc Martin
 
-Doc Martin is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Reelworks Denver, Denver on Fri, 9 Oct 2026.
+Doc Martin is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Reelworks Denver, Denver on Fri, 9 Oct 2026.
 
-Doc Martin is a house and techno artist based in United States of America, tracked on soundcheck, with 96 sets logged across Amsterdam, Austin, California and Chicago and 17 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: Reelworks Denver, Denver on Fri 9 Oct.
+Doc Martin is a house and techno artist based in United States of America, with 96 gigs on soundcheck across Amsterdam, Austin, California and Chicago and 17 more. Often billed alongside DJ Sneak, DJ M3 and Mark Farina. Next up: Reelworks Denver, Denver on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Doc Martin is a house and techno artist based in United States of America, track
 
 ## Recently played
 
-- BAR Inc, Osaka — Fri, 25 Sept 2026
-- clubasia, Tokyo — Mon, 21 Sept 2026
-- House of Yes, New York City — Sat, 12 Sept 2026
-- The Great Northern, San Francisco/Oakland — Sat, 5 Sept 2026
-- The North London Tavern, London — Sun, 30 Aug 2026
-- Piccadilly Central, Manchester — Fri, 21 Aug 2026
-- Shoreline Aquatic Park, Los Angeles — Sat, 18 Jul 2026
-- Flash, Washington DC — Sat, 11 Jul 2026
+- BAR Inc, Osaka · Fri, 25 Sept 2026
+- clubasia, Tokyo · Mon, 21 Sept 2026
+- House of Yes, New York City · Sat, 12 Sept 2026
+- The Great Northern, San Francisco/Oakland · Sat, 5 Sept 2026
+- The North London Tavern, London · Sun, 30 Aug 2026
+- Piccadilly Central, Manchester · Fri, 21 Aug 2026
+- Shoreline Aquatic Park, Los Angeles · Sat, 18 Jul 2026
+- Flash, Washington DC · Sat, 11 Jul 2026
 
 ## Shares bills with
 

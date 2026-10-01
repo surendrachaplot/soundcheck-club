@@ -1,6 +1,6 @@
 # HOOD RAVE HALLOWEEN: DOWN TO CLOWN at TBA
 
-HOOD RAVE HALLOWEEN: DOWN TO CLOWN at TBA on Sat 31 Oct, Los Angeles. 4 artists on the bill: BAE BAE, Daniro, DJ Kita and Mia Carucci. Preview the line-up and save it on soundcheck.
+HOOD RAVE HALLOWEEN: DOWN TO CLOWN at TBA on Sat 31 Oct, Los Angeles. 4 artists: BAE BAE, Daniro, DJ Kita and Mia Carucci. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

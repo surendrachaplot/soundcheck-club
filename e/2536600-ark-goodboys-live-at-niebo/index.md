@@ -1,6 +1,6 @@
 # ARK: GOODBOYS live at NIEBO
 
-ARK: GOODBOYS live at NIEBO on Fri 27 Nov, Warsaw. Electro and Pop. Preview the line-up and save it on soundcheck.
+ARK: GOODBOYS live at NIEBO on Fri 27 Nov, Warsaw. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

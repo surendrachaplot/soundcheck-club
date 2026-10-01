@@ -1,8 +1,8 @@
 # diladï
 
-diladï is a Techno and Downtempo artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lieberscholli, Munich on Sat, 10 Oct 2026.
+diladï is a Techno and Downtempo artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lieberscholli, Munich on Sat, 10 Oct 2026.
 
-diladï is a techno and downtempo artist based in Germany, tracked on soundcheck, with 51 sets logged across Berlin, Cologne, Hamburg and Mexico City and 3 more. Often billed alongside Naicet, Ele Luz and Mona Pirzad. Next up: Lieberscholli, Munich on Sat 10 Oct.
+diladï is a techno and downtempo artist based in Germany, with 51 gigs on soundcheck across Berlin, Cologne, Hamburg and Mexico City and 3 more. Often billed alongside Naicet, Ele Luz and Mona Pirzad. Next up: Lieberscholli, Munich on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ diladï is a techno and downtempo artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Jonny Knüppel, Berlin — Sat, 19 Sept 2026
-- Anlegestelle Spandau (Lindenufer), Berlin — Sun, 9 Aug 2026
-- Cassiopeia, Berlin — Sat, 25 Jul 2026
-- Jonny Knüppel, Berlin — Sat, 30 May 2026
-- Beate Uwe, Berlin — Sun, 22 Feb 2026
-- Süss War Gestern, Berlin — Sat, 31 Jan 2026
-- Hive Club, Zurich — Fri, 23 Jan 2026
-- Beate Uwe, Berlin — Wed, 31 Dec 2025
+- Jonny Knüppel, Berlin · Sat, 19 Sept 2026
+- Anlegestelle Spandau (Lindenufer), Berlin · Sun, 9 Aug 2026
+- Cassiopeia, Berlin · Sat, 25 Jul 2026
+- Jonny Knüppel, Berlin · Sat, 30 May 2026
+- Beate Uwe, Berlin · Sun, 22 Feb 2026
+- Süss War Gestern, Berlin · Sat, 31 Jan 2026
+- Hive Club, Zurich · Fri, 23 Jan 2026
+- Beate Uwe, Berlin · Wed, 31 Dec 2025
 
 ## Shares bills with
 

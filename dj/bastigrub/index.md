@@ -1,8 +1,8 @@
 # Basti Grub
 
-Basti Grub is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Do Not Sit On The Furniture, Miami on Fri, 23 Oct 2026.
+Basti Grub is a House and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Do Not Sit On The Furniture, Miami on Fri, 23 Oct 2026.
 
-Basti Grub is a house and electro artist based in Germany, tracked on soundcheck, with 9 sets logged across Bali, Frankfurt, Miami and Munich and 1 more. Often billed alongside Sonson, 2Reisende and Biagio Sibilla. Next up: Do Not Sit On The Furniture, Miami on Fri 23 Oct.
+Basti Grub is a house and electro artist based in Germany, with 9 gigs on soundcheck across Bali, Frankfurt, Miami and Munich and 1 more. Often billed alongside Sonson, 2Reisende and Biagio Sibilla. Next up: Do Not Sit On The Furniture, Miami on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Basti Grub is a house and electro artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- MTW, Frankfurt — Fri, 4 Sept 2026
-- Pimpernel, Munich — Sat, 15 Aug 2026
-- Pimpernel, Munich — Sat, 31 May 2025
-- SSC Sparta Frankfurt, Frankfurt — Sat, 7 Dec 2024
-- Sparta Schwimmclub, Frankfurt — Sat, 27 Jul 2024
-- Morabito Art Villa, Bali — Fri, 28 Jun 2024
-- Freud Raum für Kunst und Kultur, Frankfurt — Fri, 22 Mar 2024
-- Bang Bang, San Diego — Fri, 14 Apr 2023
+- MTW, Frankfurt · Fri, 4 Sept 2026
+- Pimpernel, Munich · Sat, 15 Aug 2026
+- Pimpernel, Munich · Sat, 31 May 2025
+- SSC Sparta Frankfurt, Frankfurt · Sat, 7 Dec 2024
+- Sparta Schwimmclub, Frankfurt · Sat, 27 Jul 2024
+- Morabito Art Villa, Bali · Fri, 28 Jun 2024
+- Freud Raum für Kunst und Kultur, Frankfurt · Fri, 22 Mar 2024
+- Bang Bang, San Diego · Fri, 14 Apr 2023
 
 ## Shares bills with
 

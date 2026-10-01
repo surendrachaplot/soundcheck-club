@@ -1,8 +1,8 @@
 # Forest
 
-Forest is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Saint-Denis, Paris on Sat, 3 Oct 2026.
+Forest is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Saint-Denis, Paris on Sat, 3 Oct 2026.
 
-Forest is a techno and trance artist based in France, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brussels and Copenhagen and 7 more. Often billed alongside Jolly (FR), Lastvuska and Domi (FR). Next up: TBA - Saint-Denis, Paris on Sat 3 Oct.
+Forest is a techno and trance artist based in France, with 49 gigs on soundcheck across Amsterdam, Barcelona, Brussels and Copenhagen and 7 more. Often billed alongside Jolly (FR), Lastvuska and Domi (FR). Next up: TBA - Saint-Denis, Paris on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Forest is a techno and trance artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
-- Club Cheek, London — Sun, 27 Sept 2026
-- Le Trabendo, Paris — Sat, 12 Sept 2026
-- La Prairie du Canal, Paris — Sat, 29 Aug 2026
-- TBA - Secret Place, Marseille — Fri, 7 Aug 2026
-- fabric, London — Fri, 12 Jun 2026
-- TBA - Toledo, Madrid — Fri, 29 May 2026
-- Plage De Torcy, Paris — Sun, 24 May 2026
-- Funke, Ghent — Fri, 22 May 2026
+- Club Cheek, London · Sun, 27 Sept 2026
+- Le Trabendo, Paris · Sat, 12 Sept 2026
+- La Prairie du Canal, Paris · Sat, 29 Aug 2026
+- TBA - Secret Place, Marseille · Fri, 7 Aug 2026
+- fabric, London · Fri, 12 Jun 2026
+- TBA - Toledo, Madrid · Fri, 29 May 2026
+- Plage De Torcy, Paris · Sun, 24 May 2026
+- Funke, Ghent · Fri, 22 May 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Wixapol
 
-Wixapol is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fuchs2, Prague on Fri, 23 Oct 2026.
+Wixapol is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuchs2, Prague on Fri, 23 Oct 2026.
 
-Wixapol is a techno and hardcore artist based in Poland, tracked on soundcheck, with 17 sets logged across Geneva, Krakow, London and New York City and 2 more. Often billed alongside TORRENTZ, Mikouaj Rejw / Wixapol S.A. and PLATTER. Next up: Fuchs2, Prague on Fri 23 Oct.
+Wixapol is a techno and hardcore artist based in Poland, with 17 gigs on soundcheck across Geneva, Krakow, London and New York City and 2 more. Often billed alongside TORRENTZ, Mikouaj Rejw / Wixapol S.A. and PLATTER. Next up: Fuchs2, Prague on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Wixapol is a techno and hardcore artist based in Poland, tracked on soundcheck, 
 
 ## Recently played
 
-- STK 47 WAREHOUSE, Krakow — Sat, 5 Sept 2026
-- Baseny Kora, Warsaw — Sat, 15 Aug 2026
-- Klub Spotkań Poczta Główna, Krakow — Fri, 19 Jun 2026
-- Jasna 1, Warsaw — Fri, 8 May 2026
-- Fuchs2, Prague — Sat, 11 Apr 2026
-- Klub Spotkań Poczta Główna, Krakow — Fri, 27 Feb 2026
-- Jasna 1, Warsaw — Sat, 14 Feb 2026
-- Dom Towarowy Braci Jabłkowskich, Warsaw — Fri, 31 Oct 2025
+- STK 47 WAREHOUSE, Krakow · Sat, 5 Sept 2026
+- Baseny Kora, Warsaw · Sat, 15 Aug 2026
+- Klub Spotkań Poczta Główna, Krakow · Fri, 19 Jun 2026
+- Jasna 1, Warsaw · Fri, 8 May 2026
+- Fuchs2, Prague · Sat, 11 Apr 2026
+- Klub Spotkań Poczta Główna, Krakow · Fri, 27 Feb 2026
+- Jasna 1, Warsaw · Sat, 14 Feb 2026
+- Dom Towarowy Braci Jabłkowskich, Warsaw · Fri, 31 Oct 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # robbin
 
-robbin is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at RADION, Amsterdam on Sat, 24 Oct 2026.
+robbin is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at RADION, Amsterdam on Sat, 24 Oct 2026.
 
-robbin is a house and techno artist based in Netherlands, tracked on soundcheck, with 37 sets logged across Amsterdam, Berlin, Brussels and London and 2 more. Often billed alongside Daan Donk, Ines Cartas and 42nd Avenue. Next up: RADION, Amsterdam on Sat 24 Oct.
+robbin is a house and techno artist based in Netherlands, with 37 gigs on soundcheck across Amsterdam, Berlin, Brussels and London and 2 more. Often billed alongside Daan Donk, Ines Cartas and 42nd Avenue. Next up: RADION, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ robbin is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 ## Recently played
 
-- dubble, Amsterdam — Sun, 20 Sept 2026
-- Noordspace, Amsterdam — Sun, 19 Apr 2026
-- TILLATEC, Amsterdam — Fri, 10 Apr 2026
-- Planet Wax, London — Thu, 12 Mar 2026
-- Garage Noord, Amsterdam — Fri, 6 Mar 2026
-- De Besturing, The Hague — Sat, 27 Sept 2025
-- Dalston Den, London — Tue, 23 Sept 2025
-- Backsteinboot, Berlin — Sat, 13 Sept 2025
+- dubble, Amsterdam · Sun, 20 Sept 2026
+- Noordspace, Amsterdam · Sun, 19 Apr 2026
+- TILLATEC, Amsterdam · Fri, 10 Apr 2026
+- Planet Wax, London · Thu, 12 Mar 2026
+- Garage Noord, Amsterdam · Fri, 6 Mar 2026
+- De Besturing, The Hague · Sat, 27 Sept 2025
+- Dalston Den, London · Tue, 23 Sept 2025
+- Backsteinboot, Berlin · Sat, 13 Sept 2025
 
 ## Shares bills with
 

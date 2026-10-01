@@ -1,6 +1,6 @@
 # Prompt: Try Out at TBA - 강원도 화천
 
-Prompt: Try Out at TBA - 강원도 화천 on Sun 4 Oct, South Korea. 11 artists on the bill: AERAE, ASYNC, ccb and Deekay and 7 more. Preview the line-up and save it on soundcheck.
+Prompt: Try Out at TBA - 강원도 화천 on Sun 4 Oct, South Korea. 11 artists: AERAE, ASYNC, ccb and Deekay and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

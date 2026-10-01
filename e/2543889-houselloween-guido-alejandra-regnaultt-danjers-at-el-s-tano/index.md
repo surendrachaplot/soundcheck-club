@@ -1,6 +1,6 @@
 # HOUSELLOWEEN: Guido, Alejandra Regnaultt, Danjers at EL SÓTANO
 
-HOUSELLOWEEN: Guido, Alejandra Regnaultt, Danjers at EL SÓTANO on Sat 31 Oct, Madrid. 1 artist on the bill: Danjers. House. Preview the line-up and save it on soundcheck.
+HOUSELLOWEEN: Guido, Alejandra Regnaultt, Danjers at EL SÓTANO on Sat 31 Oct, Madrid. 1 artist: Danjers. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

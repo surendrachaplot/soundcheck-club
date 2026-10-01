@@ -1,8 +1,8 @@
 # Pica (Port Melbourne Industrial Centre for the Arts)
 
-Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "move my way festival / naarm / pica" on Sun, 4 Oct 2026.
+Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "move my way festival / naarm / pica" on Sun, 4 Oct 2026.
 
-Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including AEREA, AKEYLAH, Azyr and Bailey Ibbs and 2 more. Browse upcoming dates, start times and who's playing. 1 Woolboard Rd, Port Melbourne VIC 3207.
+Pica (Port Melbourne Industrial Centre for the Arts) is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including AEREA, AKEYLAH, Azyr and Bailey Ibbs and 2 more. See dates, start times and who's playing. 1 Woolboard Rd, Port Melbourne VIC 3207.
 
 ## What's on
 

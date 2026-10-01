@@ -1,6 +1,6 @@
 # Battle MC Romania — Euphoric Festival at Forge
 
-Battle MC Romania — Euphoric Festival at Forge on Sat 3 Oct, Bucharest. Hip-Hop. Preview the line-up and save it on soundcheck.
+Battle MC Romania — Euphoric Festival at Forge on Sat 3 Oct, Bucharest. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

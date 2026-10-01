@@ -1,8 +1,8 @@
 # HollowFate
 
-HollowFate is a Club and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Safestay Rooftop, Barcelona on Sat, 10 Oct 2026.
+HollowFate is a Club and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Safestay Rooftop, Barcelona on Sat, 10 Oct 2026.
 
-HollowFate is a club and bass artist based in Spain, tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside DJ Howard, MIILA and Mancaro. Next up: Safestay Rooftop, Barcelona on Sat 10 Oct.
+HollowFate is a club and bass artist based in Spain, with 7 gigs on soundcheck across Barcelona. Often billed alongside DJ Howard, MIILA and Mancaro. Next up: Safestay Rooftop, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,12 +12,12 @@ HollowFate is a club and bass artist based in Spain, tracked on soundcheck, with
 
 ## Recently played
 
-- Born 2B Music Bar, Barcelona — Sat, 8 Aug 2026
-- Born 2B Music Bar, Barcelona — Fri, 17 Jul 2026
-- Born 2B Music Bar, Barcelona — Thu, 9 Jul 2026
-- Born 2B Music Bar, Barcelona — Sat, 13 Jun 2026
-- City Hall, Barcelona — Tue, 3 Feb 2026
-- TBA - Sala Or, Barcelona — Thu, 21 Aug 2025
+- Born 2B Music Bar, Barcelona · Sat, 8 Aug 2026
+- Born 2B Music Bar, Barcelona · Fri, 17 Jul 2026
+- Born 2B Music Bar, Barcelona · Thu, 9 Jul 2026
+- Born 2B Music Bar, Barcelona · Sat, 13 Jun 2026
+- City Hall, Barcelona · Tue, 3 Feb 2026
+- TBA - Sala Or, Barcelona · Thu, 21 Aug 2025
 
 ## Shares bills with
 

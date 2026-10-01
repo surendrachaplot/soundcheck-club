@@ -1,6 +1,6 @@
 # PropaStompaz - DE JA VU at World Headquarters
 
-PropaStompaz - DE JA VU at World Headquarters on Fri 2 Oct, Newcastle. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+PropaStompaz - DE JA VU at World Headquarters on Fri 2 Oct, Newcastle. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

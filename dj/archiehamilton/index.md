@@ -1,8 +1,8 @@
 # Archie Hamilton
 
-Archie Hamilton is a House and Tech House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Prysm Nightclub, Chicago on Fri, 2 Oct 2026.
+Archie Hamilton is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Prysm Nightclub, Chicago on Fri, 2 Oct 2026.
 
-Archie Hamilton is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 213 sets logged across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Prysm Nightclub, Chicago on Fri 2 Oct.
+Archie Hamilton is a house and tech house artist based in United Kingdom, with 213 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 44 more. Often billed alongside Jamie Jones, East End Dubs and Prunk. Next up: Prysm Nightclub, Chicago on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Archie Hamilton is a house and tech house artist based in United Kingdom, tracke
 
 ## Recently played
 
-- Shelter Amsterdam, Amsterdam — Sat, 26 Sept 2026
-- [UNVRS], Ibiza — Wed, 16 Sept 2026
-- block., Dublin — Sat, 12 Sept 2026
-- Tunnel, Milan — Fri, 11 Sept 2026
-- 528 Ibiza, Ibiza — Fri, 4 Sept 2026
-- Los Angeles State Historic Park, Los Angeles — Sun, 30 Aug 2026
-- Amnesia Ibiza, Ibiza — Tue, 25 Aug 2026
-- Sunset Park Rooftop, New York City — Sat, 22 Aug 2026
+- Shelter Amsterdam, Amsterdam · Sat, 26 Sept 2026
+- [UNVRS], Ibiza · Wed, 16 Sept 2026
+- block., Dublin · Sat, 12 Sept 2026
+- Tunnel, Milan · Fri, 11 Sept 2026
+- 528 Ibiza, Ibiza · Fri, 4 Sept 2026
+- Los Angeles State Historic Park, Los Angeles · Sun, 30 Aug 2026
+- Amnesia Ibiza, Ibiza · Tue, 25 Aug 2026
+- Sunset Park Rooftop, New York City · Sat, 22 Aug 2026
 
 ## Shares bills with
 

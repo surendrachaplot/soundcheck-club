@@ -1,6 +1,6 @@
 # Polyamor w. LAMMER, HiTMiLØW, Cleopard2000, Yasmin Regisford at OST
 
-Polyamor w. LAMMER, HiTMiLØW, Cleopard2000, Yasmin Regisford at OST on Sat 3 Oct, Berlin. 10 artists on the bill: Alas, Cleopard2000, Elotrance and HiTMiLØW and 6 more. Preview the line-up and save it on soundcheck.
+Polyamor w. LAMMER, HiTMiLØW, Cleopard2000, Yasmin Regisford at OST on Sat 3 Oct, Berlin. 10 artists: Alas, Cleopard2000, Elotrance and HiTMiLØW and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

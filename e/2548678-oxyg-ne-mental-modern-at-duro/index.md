@@ -1,6 +1,6 @@
 # OXYGÈNE - Mental Modern at DURO
 
-OXYGÈNE - Mental Modern at DURO on Sat 31 Oct, Milan. 4 artists on the bill: Feral, Hoedus, Luigi Tozzi and SOLE DOSI. Techno. Preview the line-up and save it on soundcheck.
+OXYGÈNE - Mental Modern at DURO on Sat 31 Oct, Milan. 4 artists: Feral, Hoedus, Luigi Tozzi and SOLE DOSI. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

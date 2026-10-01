@@ -1,6 +1,6 @@
 # Hubert. & prawy brzeg - sei porobilo...TOUR - 9.12 Kraków at Klub Studio
 
-Hubert. & prawy brzeg - sei porobilo...TOUR - 9.12 Kraków at Klub Studio on Wed 9 Dec, Krakow. Hip-Hop. Preview the line-up and save it on soundcheck.
+Hubert. & prawy brzeg - sei porobilo...TOUR - 9.12 Kraków at Klub Studio on Wed 9 Dec, Krakow. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

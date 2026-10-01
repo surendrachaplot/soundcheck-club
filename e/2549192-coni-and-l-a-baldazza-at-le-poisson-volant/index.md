@@ -1,6 +1,6 @@
 # Coni and Léa Baldazza at Le Poisson Volant
 
-Coni and Léa Baldazza at Le Poisson Volant on Sat 10 Oct, Paris. 1 artist on the bill: Coni. Preview the line-up and save it on soundcheck.
+Coni and Léa Baldazza at Le Poisson Volant on Sat 10 Oct, Paris. 1 artist: Coni. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

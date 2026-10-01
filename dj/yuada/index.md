@@ -1,8 +1,8 @@
 # Yuada
 
-Yuada is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OST, Berlin on Sat, 31 Oct 2026.
+Yuada is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OST, Berlin on Sat, 31 Oct 2026.
 
-Yuada is a techno and trance artist based in Japan, tracked on soundcheck, with 10 sets logged across Berlin, Cologne, Frankfurt and Milan and 3 more. Often billed alongside Chris Liebing, 42L and AMG SAIMURA (TECHVANE). Next up: OST, Berlin on Sat 31 Oct.
+Yuada is a techno and trance artist based in Japan, with 10 gigs on soundcheck across Berlin, Cologne, Frankfurt and Milan and 3 more. Often billed alongside Chris Liebing, 42L and AMG SAIMURA (TECHVANE). Next up: OST, Berlin on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Yuada is a techno and trance artist based in Japan, tracked on soundcheck, with 
 
 ## Recently played
 
-- Glazart, Paris — Fri, 8 May 2026
-- Tempio del Futuro Perduto, Milan — Fri, 10 Apr 2026
-- Zoom Club, Frankfurt — Fri, 12 Dec 2025
-- ://about blank, Berlin — Fri, 18 Jul 2025
-- Gewölbe, Cologne — Wed, 18 Jun 2025
-- Faust, Seoul — Sun, 2 Mar 2025
-- HVEN, Tokyo — Mon, 10 Feb 2025
-- RSO.BERLIN, Berlin — Sat, 25 Jan 2025
+- Glazart, Paris · Fri, 8 May 2026
+- Tempio del Futuro Perduto, Milan · Fri, 10 Apr 2026
+- Zoom Club, Frankfurt · Fri, 12 Dec 2025
+- ://about blank, Berlin · Fri, 18 Jul 2025
+- Gewölbe, Cologne · Wed, 18 Jun 2025
+- Faust, Seoul · Sun, 2 Mar 2025
+- HVEN, Tokyo · Mon, 10 Feb 2025
+- RSO.BERLIN, Berlin · Sat, 25 Jan 2025
 
 ## Shares bills with
 

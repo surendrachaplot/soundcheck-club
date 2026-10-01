@@ -1,6 +1,6 @@
 # Ibibio Sound Machine at Gosforth Civic Theatre
 
-Ibibio Sound Machine at Gosforth Civic Theatre on Thu 22 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Ibibio Sound Machine at Gosforth Civic Theatre on Thu 22 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

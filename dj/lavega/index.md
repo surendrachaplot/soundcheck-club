@@ -1,8 +1,8 @@
 # La Vega
 
-La Vega is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Outer Heaven, New York City on Sun, 11 Oct 2026.
+La Vega is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outer Heaven, New York City on Sun, 11 Oct 2026.
 
-La Vega is a house and deep house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Barcelona, Berlin, Detroit and Lisbon and 6 more. Often billed alongside Javier de la Vega, Luciio and Marteen. Next up: Outer Heaven, New York City on Sun 11 Oct.
+La Vega is a house and deep house artist based in United States of America, with 44 gigs on soundcheck across Barcelona, Berlin, Detroit and Lisbon and 6 more. Often billed alongside Javier de la Vega, Luciio and Marteen. Next up: Outer Heaven, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ La Vega is a house and deep house artist based in United States of America, trac
 
 ## Recently played
 
-- Dead Letter No. 9, New York City — Sat, 19 Sept 2026
-- Roof Terrace BK, New York City — Thu, 10 Sept 2026
-- Honey's, New York City — Fri, 4 Sept 2026
-- Moondog Hifi, New York City — Fri, 14 Aug 2026
-- The Sultan Room, New York City — Wed, 12 Aug 2026
-- Signal, New York City — Sat, 1 Aug 2026
-- Xanadu, New York City — Sun, 28 Jun 2026
-- Jupiter Disco, New York City — Wed, 24 Jun 2026
+- Dead Letter No. 9, New York City · Sat, 19 Sept 2026
+- Roof Terrace BK, New York City · Thu, 10 Sept 2026
+- Honey's, New York City · Fri, 4 Sept 2026
+- Moondog Hifi, New York City · Fri, 14 Aug 2026
+- The Sultan Room, New York City · Wed, 12 Aug 2026
+- Signal, New York City · Sat, 1 Aug 2026
+- Xanadu, New York City · Sun, 28 Jun 2026
+- Jupiter Disco, New York City · Wed, 24 Jun 2026
 
 ## Shares bills with
 

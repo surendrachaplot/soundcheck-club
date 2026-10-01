@@ -1,6 +1,6 @@
 # GROW Sunday / Loom / Jesse Sugar Moore / Sunrise Energy Club / Funky Brewter at The Sonder Bar
 
-GROW Sunday / Loom / Jesse Sugar Moore / Sunrise Energy Club / Funky Brewter at The Sonder Bar on Sun 4 Oct, Portland. 3 artists on the bill: Groshong, Jesse Sugar Moore and Sunrise Energy Club. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+GROW Sunday / Loom / Jesse Sugar Moore / Sunrise Energy Club / Funky Brewter at The Sonder Bar on Sun 4 Oct, Portland. 3 artists: Groshong, Jesse Sugar Moore and Sunrise Energy Club. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

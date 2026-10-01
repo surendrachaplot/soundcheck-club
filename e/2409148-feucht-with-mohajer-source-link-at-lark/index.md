@@ -1,6 +1,6 @@
 # FEUCHT with Mohajer & source:link at Lark
 
-FEUCHT with Mohajer & source:link at Lark on Fri 23 Oct, Berlin. 4 artists on the bill: CHRANDY, Doctora Amor, Mohajer and source:link. House. Preview the line-up and save it on soundcheck.
+FEUCHT with Mohajer & source:link at Lark on Fri 23 Oct, Berlin. 4 artists: CHRANDY, Doctora Amor, Mohajer and source:link. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

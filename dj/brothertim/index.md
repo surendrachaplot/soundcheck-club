@@ -1,8 +1,8 @@
 # BROTHER TIM
 
-BROTHER TIM is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at CHILLIN, Warsaw on Sat, 10 Oct 2026.
+BROTHER TIM is a Bass and Dubstep artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at CHILLIN, Warsaw on Sat, 10 Oct 2026.
 
-BROTHER TIM is a bass and dubstep artist based in Poland, tracked on soundcheck, with 5 sets logged across Warsaw. Often billed alongside Andy Soul, HOLLY MOLLY (BY) and KUMITE. Next up: CHILLIN, Warsaw on Sat 10 Oct.
+BROTHER TIM is a bass and dubstep artist based in Poland, with 5 gigs on soundcheck across Warsaw. Often billed alongside Andy Soul, HOLLY MOLLY (BY) and KUMITE. Next up: CHILLIN, Warsaw on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,9 +13,9 @@ BROTHER TIM is a bass and dubstep artist based in Poland, tracked on soundcheck,
 
 ## Recently played
 
-- underiolo, Warsaw — Thu, 24 Sept 2026
-- underiolo, Warsaw — Sat, 19 Sept 2026
-- Samo Centrum, Warsaw — Sat, 18 Jul 2026
+- underiolo, Warsaw · Thu, 24 Sept 2026
+- underiolo, Warsaw · Sat, 19 Sept 2026
+- Samo Centrum, Warsaw · Sat, 18 Jul 2026
 
 ## Shares bills with
 

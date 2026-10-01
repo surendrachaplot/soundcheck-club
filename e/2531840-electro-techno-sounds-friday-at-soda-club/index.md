@@ -1,6 +1,6 @@
 # Electro & Techno Sounds Friday at Soda Club
 
-Electro & Techno Sounds Friday at Soda Club on Fri 23 Oct, Berlin. Techno and Electro. Preview the line-up and save it on soundcheck.
+Electro & Techno Sounds Friday at Soda Club on Fri 23 Oct, Berlin. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

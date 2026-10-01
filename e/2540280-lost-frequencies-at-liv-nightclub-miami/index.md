@@ -1,6 +1,6 @@
 # Lost Frequencies at LIV Nightclub Miami
 
-Lost Frequencies at LIV Nightclub Miami on Sat 31 Oct, Miami. Preview the line-up and save it on soundcheck.
+Lost Frequencies at LIV Nightclub Miami on Sat 31 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

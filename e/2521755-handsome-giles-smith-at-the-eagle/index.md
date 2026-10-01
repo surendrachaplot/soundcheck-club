@@ -1,6 +1,6 @@
 # Handsome (Giles Smith) at The Eagle
 
-Handsome (Giles Smith) at The Eagle on Sat 10 Oct, London. 1 artist on the bill: Giles Smith. House. Preview the line-up and save it on soundcheck.
+Handsome (Giles Smith) at The Eagle on Sat 10 Oct, London. 1 artist: Giles Smith. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

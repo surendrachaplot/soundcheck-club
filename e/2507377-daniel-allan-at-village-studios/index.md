@@ -1,6 +1,6 @@
 # Daniel Allan at Village Studios
 
-Daniel Allan at Village Studios on Sat 21 Nov, Vancouver. House and Electro. Preview the line-up and save it on soundcheck.
+Daniel Allan at Village Studios on Sat 21 Nov, Vancouver. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

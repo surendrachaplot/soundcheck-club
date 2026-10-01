@@ -1,6 +1,6 @@
 # Ratchet single launch at QQQ ST. Park
 
-Ratchet single launch at QQQ ST. Park on Fri 23 Oct, Melbourne. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Ratchet single launch at QQQ ST. Park on Fri 23 Oct, Melbourne. Bass and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

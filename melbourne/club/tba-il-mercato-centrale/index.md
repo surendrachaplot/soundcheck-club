@@ -1,8 +1,8 @@
 # TBA - Il Mercato Centrale
 
-TBA - Il Mercato Centrale is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SUPERSONIC FRIDAYS feat. Dale Howard (UK)" on Fri, 2 Oct 2026.
+TBA - Il Mercato Centrale is a music venue in Melbourne with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SUPERSONIC FRIDAYS feat. Dale Howard (UK)" on Fri, 2 Oct 2026.
 
-TBA - Il Mercato Centrale is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Dale Howard, Etwas, FLKN and GavWhitehouse and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Il Mercato Centrale is a music venue in Melbourne listed on soundcheck. 4 upcoming gigs, with line-ups including Dale Howard, Etwas, FLKN and GavWhitehouse and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

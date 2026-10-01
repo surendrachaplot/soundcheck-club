@@ -1,8 +1,8 @@
 # Plex
 
-Plex is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Power Dance Adonis Athens" on Sat, 3 Oct 2026.
+Plex is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Power Dance Adonis Athens" on Sat, 3 Oct 2026.
 
-Plex is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Fancy Shews, K.atou, Kampire and Maria Politi and 1 more. Browse upcoming dates, start times and who's playing. Keramikou 28, 104 36, Athens, Greece.
+Plex is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Fancy Shews, K.atou, Kampire and Maria Politi and 1 more. See dates, start times and who's playing. Keramikou 28, 104 36, Athens, Greece.
 
 ## What's on
 

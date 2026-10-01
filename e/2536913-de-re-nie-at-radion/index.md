@@ -1,6 +1,6 @@
 # De Reünie at RADION
 
-De Reünie at RADION on Fri 4 Dec, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+De Reünie at RADION on Fri 4 Dec, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

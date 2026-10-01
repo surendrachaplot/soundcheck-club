@@ -1,6 +1,6 @@
 # heylucas at Modus Berlin
 
-heylucas at Modus Berlin on Thu 12 Nov, Berlin. Ambient and Pop. Preview the line-up and save it on soundcheck.
+heylucas at Modus Berlin on Thu 12 Nov, Berlin. Ambient and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

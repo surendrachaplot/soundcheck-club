@@ -1,6 +1,6 @@
 # [NoctamBar x Les Créatives] Mé & Nevadì at La Gravière
 
-[NoctamBar x Les Créatives] Mé & Nevadì at La Gravière on Thu 8 Oct, Geneva. Bass and Jungle. Preview the line-up and save it on soundcheck.
+[NoctamBar x Les Créatives] Mé & Nevadì at La Gravière on Thu 8 Oct, Geneva. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

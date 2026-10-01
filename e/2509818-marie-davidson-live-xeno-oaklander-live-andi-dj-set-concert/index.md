@@ -1,6 +1,6 @@
 # Marie Davidson (LIVE), Xeno & Oaklander (LIVE), Andi (DJ Set) (concert) at Xanadu
 
-Marie Davidson (LIVE), Xeno & Oaklander (LIVE), Andi (DJ Set) (concert) at Xanadu on Fri 16 Oct, New York City. 3 artists on the bill: Andi, Marie Davidson and Xeno & Oaklander. Deep House and Electronica. Preview the line-up and save it on soundcheck.
+Marie Davidson (LIVE), Xeno & Oaklander (LIVE), Andi (DJ Set) (concert) at Xanadu on Fri 16 Oct, New York City. 3 artists: Andi, Marie Davidson and Xeno & Oaklander. Deep House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

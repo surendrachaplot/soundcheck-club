@@ -1,6 +1,6 @@
 # Sianard Events: Ali U at Meraki
 
-Sianard Events: Ali U at Meraki on Fri 30 Oct, Liverpool. House and Club. Preview the line-up and save it on soundcheck.
+Sianard Events: Ali U at Meraki on Fri 30 Oct, Liverpool. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

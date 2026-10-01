@@ -1,6 +1,6 @@
 # Colyn at Savaya Bali
 
-Colyn at Savaya Bali on Sun 11 Oct, Bali. 1 artist on the bill: Colyn. Techno and House. Preview the line-up and save it on soundcheck.
+Colyn at Savaya Bali on Sun 11 Oct, Bali. 1 artist: Colyn. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

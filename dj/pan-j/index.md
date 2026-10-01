@@ -1,8 +1,8 @@
 # Pan-J
 
-Pan-J is a House and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Pan-J is a House and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Pan-J is a house and minimal techno artist based in Tunisia, tracked on soundcheck, with 11 sets logged across Barcelona, Berlin, Lisbon and Marseille and 3 more. Often billed alongside HearThug, DJ Senc and Emine. Next up: One Resort, Tunisia on Thu 5 Nov.
+Pan-J is a house and minimal techno artist based in Tunisia, with 11 gigs on soundcheck across Barcelona, Berlin, Lisbon and Marseille and 3 more. Often billed alongside HearThug, DJ Senc and Emine. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Pan-J is a house and minimal techno artist based in Tunisia, tracked on soundche
 
 ## Recently played
 
-- Crack Bellmer, Berlin — Sat, 23 May 2026
-- arkaoda Berlin, Berlin — Fri, 22 May 2026
-- Le Trabendo, Paris — Sat, 11 Apr 2026
-- TBA - Paris, Paris — Sat, 13 Dec 2025
-- Secret Location Vienna, Vienna — Fri, 16 May 2025
-- TBA - 138 Av. Pierre Mendès France, 13008 Marseille., Marseille — Sun, 20 Apr 2025
-- Praia Irmão, Lisbon — Fri, 5 Jul 2024
-- Le Pavillon Rouge, Paris — Sat, 6 May 2023
+- Crack Bellmer, Berlin · Sat, 23 May 2026
+- arkaoda Berlin, Berlin · Fri, 22 May 2026
+- Le Trabendo, Paris · Sat, 11 Apr 2026
+- TBA - Paris, Paris · Sat, 13 Dec 2025
+- Secret Location Vienna, Vienna · Fri, 16 May 2025
+- TBA - 138 Av. Pierre Mendès France, 13008 Marseille., Marseille · Sun, 20 Apr 2025
+- Praia Irmão, Lisbon · Fri, 5 Jul 2024
+- Le Pavillon Rouge, Paris · Sat, 6 May 2023
 
 ## Shares bills with
 

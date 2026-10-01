@@ -1,6 +1,6 @@
 # Isarbass im Unter Deck at Unter Deck
 
-Isarbass im Unter Deck on Wed 7 Oct, Munich. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Isarbass im Unter Deck on Wed 7 Oct, Munich. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

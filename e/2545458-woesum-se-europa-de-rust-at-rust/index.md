@@ -1,6 +1,6 @@
 # Woesum (SE) + Europa (DE) // RUST at RUST
 
-Woesum (SE) + Europa (DE) // RUST on Thu 26 Nov, Copenhagen. Preview the line-up and save it on soundcheck.
+Woesum (SE) + Europa (DE) // RUST on Thu 26 Nov, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

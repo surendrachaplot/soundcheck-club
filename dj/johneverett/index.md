@@ -1,8 +1,8 @@
 # John Everett
 
-John Everett is a House and Rio Funk artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Outer Heaven, New York City on Fri, 9 Oct 2026.
+John Everett is a House and Rio Funk artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outer Heaven, New York City on Fri, 9 Oct 2026.
 
-John Everett is a house and rio funk artist based in United States of America, tracked on soundcheck, with 11 sets logged across New York City. Often billed alongside Armii1n, Monk and Choukroun. Next up: Outer Heaven, New York City on Fri 9 Oct.
+John Everett is a house and rio funk artist based in United States of America, with 11 gigs on soundcheck across New York City. Often billed alongside Armii1n, Monk and Choukroun. Next up: Outer Heaven, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ John Everett is a house and rio funk artist based in United States of America, t
 
 ## Recently played
 
-- Green Room NYC, New York City — Sat, 5 Sept 2026
-- Apollo Studio, New York City — Fri, 21 Aug 2026
-- Outer Heaven, New York City — Fri, 5 Jun 2026
-- Outer Heaven, New York City — Sat, 23 May 2026
-- Outer Heaven, New York City — Fri, 10 Apr 2026
-- Apollo Studio, New York City — Fri, 13 Mar 2026
-- MAD Radio NYC, New York City — Fri, 19 Dec 2025
-- Outer Heaven, New York City — Thu, 20 Nov 2025
+- Green Room NYC, New York City · Sat, 5 Sept 2026
+- Apollo Studio, New York City · Fri, 21 Aug 2026
+- Outer Heaven, New York City · Fri, 5 Jun 2026
+- Outer Heaven, New York City · Sat, 23 May 2026
+- Outer Heaven, New York City · Fri, 10 Apr 2026
+- Apollo Studio, New York City · Fri, 13 Mar 2026
+- MAD Radio NYC, New York City · Fri, 19 Dec 2025
+- Outer Heaven, New York City · Thu, 20 Nov 2025
 
 ## Shares bills with
 

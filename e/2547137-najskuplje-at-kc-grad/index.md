@@ -1,6 +1,6 @@
 # Najskuplje at KC Grad
 
-Najskuplje at KC Grad on Fri 2 Oct, Belgrade. Preview the line-up and save it on soundcheck.
+Najskuplje at KC Grad on Fri 2 Oct, Belgrade. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

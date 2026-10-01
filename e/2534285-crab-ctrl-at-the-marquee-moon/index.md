@@ -1,6 +1,6 @@
 # Crab Ctrl at The Marquee Moon
 
-Crab Ctrl at The Marquee Moon on Sat 10 Oct, London. 2 artists on the bill: Babyccino and raina. House and Electro. Preview the line-up and save it on soundcheck.
+Crab Ctrl at The Marquee Moon on Sat 10 Oct, London. 2 artists: Babyccino and raina. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jayson Wynters
 
-Jayson Wynters is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at fabric, London on Sat, 7 Nov 2026.
+Jayson Wynters is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at fabric, London on Sat, 7 Nov 2026.
 
-Jayson Wynters is a house and techno artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin, Birmingham, Bristol and London and 3 more. Often billed alongside Adam Shelton, Cormac and Kikelomo. Next up: fabric, London on Sat 7 Nov.
+Jayson Wynters is a house and techno artist based in United Kingdom, with 27 gigs on soundcheck across Berlin, Birmingham, Bristol and London and 3 more. Often billed alongside Adam Shelton, Cormac and Kikelomo. Next up: fabric, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jayson Wynters is a house and techno artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- The Cause, London — Sat, 19 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 11 Jul 2026
-- The Bath House, London — Sat, 6 Jun 2026
-- komunal, Birmingham — Fri, 3 Apr 2026
-- Pan-Pan, Birmingham — Sat, 28 Mar 2026
-- fabric, London — Sat, 6 Dec 2025
-- TBA, Madrid — Sat, 29 Nov 2025
-- La Vista, Mexico City — Fri, 31 Oct 2025
+- The Cause, London · Sat, 19 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 11 Jul 2026
+- The Bath House, London · Sat, 6 Jun 2026
+- komunal, Birmingham · Fri, 3 Apr 2026
+- Pan-Pan, Birmingham · Sat, 28 Mar 2026
+- fabric, London · Sat, 6 Dec 2025
+- TBA, Madrid · Sat, 29 Nov 2025
+- La Vista, Mexico City · Fri, 31 Oct 2025
 
 ## Shares bills with
 

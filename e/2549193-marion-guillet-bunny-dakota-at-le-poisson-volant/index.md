@@ -1,6 +1,6 @@
 # Marion Guillet & Bunny Dakota at Le Poisson Volant
 
-Marion Guillet & Bunny Dakota at Le Poisson Volant on Thu 15 Oct, Paris. 1 artist on the bill: Marion Guillet. Preview the line-up and save it on soundcheck.
+Marion Guillet & Bunny Dakota at Le Poisson Volant on Thu 15 Oct, Paris. 1 artist: Marion Guillet. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

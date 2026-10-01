@@ -1,6 +1,6 @@
 # Flausch am Sonntag at Turtur
 
-Flausch am Sonntag at Turtur on Sun 4 Oct, Hamburg. House and Downtempo. Preview the line-up and save it on soundcheck.
+Flausch am Sonntag at Turtur on Sun 4 Oct, Hamburg. House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

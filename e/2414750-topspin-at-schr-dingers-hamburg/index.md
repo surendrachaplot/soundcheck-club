@@ -1,6 +1,6 @@
 # TOPSPIN at Schrødingers Hamburg
 
-TOPSPIN at Schrødingers Hamburg on Wed 11 Nov, Hamburg. Techno and Tech House. Preview the line-up and save it on soundcheck.
+TOPSPIN at Schrødingers Hamburg on Wed 11 Nov, Hamburg. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

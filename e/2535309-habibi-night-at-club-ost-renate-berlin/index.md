@@ -1,6 +1,6 @@
 # Habibi Night at CLUB OST & RENATE BERLIN
 
-Habibi Night at CLUB OST & RENATE BERLIN on Fri 6 Nov, Berlin. Baile Funk and Afrobeats. Preview the line-up and save it on soundcheck.
+Habibi Night at CLUB OST & RENATE BERLIN on Fri 6 Nov, Berlin. Baile Funk and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

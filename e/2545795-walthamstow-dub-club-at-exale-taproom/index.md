@@ -1,6 +1,6 @@
 # Walthamstow Dub Club at Exale Taproom
 
-Walthamstow Dub Club at Exale Taproom on Thu 1 Oct, London. Dub and Dancehall. Preview the line-up and save it on soundcheck.
+Walthamstow Dub Club at Exale Taproom on Thu 1 Oct, London. Dub and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Big Fat Rave: 4am Kru, Napes, Silva Snipa & Many More at Digital
 
-Big Fat Rave: 4am Kru, Napes, Silva Snipa & Many More at Digital on Sat 14 Nov, Newcastle. 3 artists on the bill: 4am Kru, melba and Napes. Hardcore and Jungle. Preview the line-up and save it on soundcheck.
+Big Fat Rave: 4am Kru, Napes, Silva Snipa & Many More at Digital on Sat 14 Nov, Newcastle. 3 artists: 4am Kru, melba and Napes. Hardcore and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

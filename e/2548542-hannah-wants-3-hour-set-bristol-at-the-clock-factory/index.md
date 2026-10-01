@@ -1,6 +1,6 @@
 # Hannah Wants [3 Hour Set] • Bristol at The Clock Factory
 
-Hannah Wants [3 Hour Set] • Bristol at The Clock Factory on Fri 20 Nov, Bristol. 1 artist on the bill: Hannah Wants. House and Tech House. Preview the line-up and save it on soundcheck.
+Hannah Wants [3 Hour Set] • Bristol at The Clock Factory on Fri 20 Nov, Bristol. 1 artist: Hannah Wants. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

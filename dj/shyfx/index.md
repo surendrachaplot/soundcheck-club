@@ -1,8 +1,8 @@
 # Shy FX
 
-Shy FX is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
+Shy FX is a Drum & Bass and Jungle artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Vogrie Country Park, Edinburgh on Sat, 3 Oct 2026.
 
-Shy FX is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 67 sets logged across Amsterdam, Auckland, Birmingham and Brighton and 20 more. Often billed alongside Wilkinson, Chimpo and Andy C. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
+Shy FX is a drum & bass and jungle artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Auckland, Birmingham and Brighton and 20 more. Often billed alongside Wilkinson, Chimpo and Andy C. Next up: TBA - Vogrie Country Park, Edinburgh on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Shy FX is a drum & bass and jungle artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- FORGE, Sheffield — Sat, 26 Sept 2026
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
-- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- The Cause, London — Sun, 28 Jun 2026
-- The Prospect Building, Bristol — Sat, 27 Jun 2026
-- Heaton Park, Manchester — Sat, 20 Jun 2026
+- FORGE, Sheffield · Sat, 26 Sept 2026
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- The Cause, London · Sun, 28 Jun 2026
+- The Prospect Building, Bristol · Sat, 27 Jun 2026
+- Heaton Park, Manchester · Sat, 20 Jun 2026
 
 ## Shares bills with
 

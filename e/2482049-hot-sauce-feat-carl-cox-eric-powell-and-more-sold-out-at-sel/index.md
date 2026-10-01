@@ -1,6 +1,6 @@
 # HOT SAUCE feat. Carl Cox, ERIC POWELL and MORE (SOLD OUT) at Selina's
 
-HOT SAUCE feat. Carl Cox, ERIC POWELL and MORE (SOLD OUT) at Selina's on Fri 16 Oct, Sydney. 1 artist on the bill: Carl Cox. House and Disco. Preview the line-up and save it on soundcheck.
+HOT SAUCE feat. Carl Cox, ERIC POWELL and MORE (SOLD OUT) at Selina's on Fri 16 Oct, Sydney. 1 artist: Carl Cox. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

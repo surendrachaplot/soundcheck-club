@@ -1,6 +1,6 @@
 # BaseYRD ADE Special at Toekomstmuziek
 
-BaseYRD ADE Special at Toekomstmuziek on Wed 21 Oct, Amsterdam. 3 artists on the bill: AUTOFLOWER, LUMINE and S3PPA. Progressive House and House. Preview the line-up and save it on soundcheck.
+BaseYRD ADE Special at Toekomstmuziek on Wed 21 Oct, Amsterdam. 3 artists: AUTOFLOWER, LUMINE and S3PPA. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

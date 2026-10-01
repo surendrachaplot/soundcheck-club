@@ -1,6 +1,6 @@
 # TYWCH X SWEAT: HALLOWEEN SPECIAL at The Bramley Social
 
-TYWCH X SWEAT: HALLOWEEN SPECIAL at The Bramley Social on Sat 31 Oct, Liverpool. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+TYWCH X SWEAT: HALLOWEEN SPECIAL at The Bramley Social on Sat 31 Oct, Liverpool. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

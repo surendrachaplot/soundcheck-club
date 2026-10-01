@@ -1,6 +1,6 @@
 # Fiction presents: The Spooky Rave House at Blank Site
 
-Fiction presents: The Spooky Rave House at Blank Site on Fri 30 Oct, Seoul. Techno and Club. Preview the line-up and save it on soundcheck.
+Fiction presents: The Spooky Rave House at Blank Site on Fri 30 Oct, Seoul. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

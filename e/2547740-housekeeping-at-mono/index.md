@@ -1,6 +1,6 @@
 # Housekeeping at Mono
 
-Housekeeping at Mono on Fri 16 Oct, Rotterdam. 1 artist on the bill: Jesse Maas. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Housekeeping at Mono on Fri 16 Oct, Rotterdam. 1 artist: Jesse Maas. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

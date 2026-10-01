@@ -1,6 +1,6 @@
 # pirouette at Bambi's
 
-pirouette at Bambi's on Sat 7 Nov, Toronto. 3 artists on the bill: Amedeo (CA), DINO and Ficilio. Techno. Preview the line-up and save it on soundcheck.
+pirouette at Bambi's on Sat 7 Nov, Toronto. 3 artists: Amedeo (CA), DINO and Ficilio. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

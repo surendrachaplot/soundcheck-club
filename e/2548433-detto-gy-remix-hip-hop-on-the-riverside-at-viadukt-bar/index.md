@@ -1,6 +1,6 @@
 # Detto, Györemix! - Hip-hop on the riverside at Viadukt Bar
 
-Detto, Györemix! - Hip-hop on the riverside at Viadukt Bar on Sun 4 Oct, Budapest. Hip-Hop. Preview the line-up and save it on soundcheck.
+Detto, Györemix! - Hip-hop on the riverside at Viadukt Bar on Sun 4 Oct, Budapest. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

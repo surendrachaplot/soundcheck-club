@@ -1,6 +1,6 @@
 # STAUB at ://about blank
 
-STAUB at ://about blank on Sat 12 Dec, Berlin. Techno and Experimental. Preview the line-up and save it on soundcheck.
+STAUB at ://about blank on Sat 12 Dec, Berlin. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

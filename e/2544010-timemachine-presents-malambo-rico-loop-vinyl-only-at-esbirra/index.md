@@ -1,6 +1,6 @@
 # TIMEmACHINE presents Malambo & Rico Loop — Vinyl Only at Esbirra Ibiza
 
-TIMEmACHINE presents Malambo & Rico Loop — Vinyl Only at Esbirra Ibiza on Sat 10 Oct, Ibiza. House and Minimal. Preview the line-up and save it on soundcheck.
+TIMEmACHINE presents Malambo & Rico Loop — Vinyl Only at Esbirra Ibiza on Sat 10 Oct, Ibiza. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

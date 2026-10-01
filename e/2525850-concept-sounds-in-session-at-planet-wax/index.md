@@ -1,6 +1,6 @@
 # CONCEPT SOUNDS: IN SESSION at Planet Wax
 
-CONCEPT SOUNDS: IN SESSION at Planet Wax on Sat 17 Oct, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+CONCEPT SOUNDS: IN SESSION at Planet Wax on Sat 17 Oct, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

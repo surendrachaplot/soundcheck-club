@@ -1,6 +1,6 @@
 # NEO RAVE - Alibi ROMA at Alibi
 
-NEO RAVE - Alibi ROMA on Sat 10 Oct, Rome. 1 artist on the bill: mag (JP). Techno and Psytrance. Preview the line-up and save it on soundcheck.
+NEO RAVE - Alibi ROMA on Sat 10 Oct, Rome. 1 artist: mag (JP). Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

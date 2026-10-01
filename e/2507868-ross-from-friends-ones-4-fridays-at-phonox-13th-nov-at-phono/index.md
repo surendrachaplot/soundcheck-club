@@ -1,6 +1,6 @@
 # Ross From Friends & ones: 4 Fridays at Phonox (13th Nov) at Phonox
 
-Ross From Friends & ones: 4 Fridays at Phonox (13th Nov) on Fri 13 Nov, London. 2 artists on the bill: ones (UK) and Ross From Friends. House. Preview the line-up and save it on soundcheck.
+Ross From Friends & ones: 4 Fridays at Phonox (13th Nov) on Fri 13 Nov, London. 2 artists: ones (UK) and Ross From Friends. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

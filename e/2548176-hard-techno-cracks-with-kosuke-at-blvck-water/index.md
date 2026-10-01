@@ -1,6 +1,6 @@
 # HARD TECHNO 'CRACKS' with Kosuke at Blvck Water
 
-HARD TECHNO 'CRACKS' with Kosuke at Blvck Water on Fri 23 Oct, Osaka. 1 artist on the bill: Kosuke. Techno. Preview the line-up and save it on soundcheck.
+HARD TECHNO 'CRACKS' with Kosuke at Blvck Water on Fri 23 Oct, Osaka. 1 artist: Kosuke. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

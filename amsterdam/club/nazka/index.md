@@ -1,8 +1,8 @@
 # Nazka
 
-Nazka is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Nazka Sundown Mestizo Bites & Cuts" on Wed, 21 Oct 2026.
+Nazka is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Nazka Sundown Mestizo Bites & Cuts" on Wed, 21 Oct 2026.
 
-Nazka is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing.
+Nazka is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 

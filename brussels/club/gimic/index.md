@@ -1,8 +1,8 @@
 # GIMIC
 
-GIMIC is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "GIMIC radio Brussels: Vice Experience (house to techno set)" on Sun, 1 Nov 2026.
+GIMIC is a music venue in Brussels with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "GIMIC radio Brussels: Vice Experience (house to techno set)" on Sun, 1 Nov 2026.
 
-GIMIC is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Vice Experience. Browse upcoming dates, start times and who's playing. Rue Des Renards 9, 1000 Brussels.
+GIMIC is a music venue in Brussels listed on soundcheck. 1 upcoming gig, with line-ups including Vice Experience. See dates, start times and who's playing. Rue Des Renards 9, 1000 Brussels.
 
 ## What's on
 

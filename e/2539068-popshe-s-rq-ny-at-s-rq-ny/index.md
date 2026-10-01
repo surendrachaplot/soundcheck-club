@@ -1,6 +1,6 @@
 # POPSHE @ Sárqány at Sárqány
 
-POPSHE @ Sárqány on Fri 2 Oct, Budapest. Disco and Pop. Preview the line-up and save it on soundcheck.
+POPSHE @ Sárqány on Fri 2 Oct, Budapest. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

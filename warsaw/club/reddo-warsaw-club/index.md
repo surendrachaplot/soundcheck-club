@@ -1,8 +1,8 @@
 # Reddo Warsaw Club
 
-Reddo Warsaw Club is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "CHRŌMATIC with NICK WARREN" on Fri, 9 Oct 2026.
+Reddo Warsaw Club is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "CHRŌMATIC with NICK WARREN" on Fri, 9 Oct 2026.
 
-Reddo Warsaw Club is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Angelo Mike, Nick Warren and Tuxedo. Browse upcoming dates, start times and who's playing.
+Reddo Warsaw Club is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Angelo Mike, Nick Warren and Tuxedo. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Rave Is King • Uebel & Gefährlich • Hamburg at Uebel & Gefährlich
 
-Rave Is King • Uebel & Gefährlich • Hamburg on Fri 2 Oct, Hamburg. Pop. Preview the line-up and save it on soundcheck.
+Rave Is King • Uebel & Gefährlich • Hamburg on Fri 2 Oct, Hamburg. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

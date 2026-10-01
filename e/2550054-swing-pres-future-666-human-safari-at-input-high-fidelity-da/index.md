@@ -1,6 +1,6 @@
 # SWING pres future.666 & Human Safari at INPUT High Fidelity Dance Club
 
-SWING pres future.666 & Human Safari at INPUT High Fidelity Dance Club on Sat 12 Dec, Barcelona. 2 artists on the bill: future.666 and Human Safari. Techno. Preview the line-up and save it on soundcheck.
+SWING pres future.666 & Human Safari at INPUT High Fidelity Dance Club on Sat 12 Dec, Barcelona. 2 artists: future.666 and Human Safari. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

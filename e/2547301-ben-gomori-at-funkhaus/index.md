@@ -1,6 +1,6 @@
 # Ben Gomori at Funkhaus
 
-Ben Gomori at Funkhaus on Sat 17 Oct, Vienna. Disco and Balearic. Preview the line-up and save it on soundcheck.
+Ben Gomori at Funkhaus on Sat 17 Oct, Vienna. Disco and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Weval (DJ) at Centre Point
 
-Weval (DJ) at Centre Point on Fri 20 Nov, Dublin. 2 artists on the bill: Ste Flynn and Weval. Preview the line-up and save it on soundcheck.
+Weval (DJ) at Centre Point on Fri 20 Nov, Dublin. 2 artists: Ste Flynn and Weval. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

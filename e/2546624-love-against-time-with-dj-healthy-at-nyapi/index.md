@@ -1,6 +1,6 @@
 # Love against time with DJ Healthy at Nyapi
 
-Love against time with DJ Healthy at Nyapi on Fri 16 Oct, Seoul. 4 artists on the bill: DJ Healthy, eunuk, JAEHAN and jiwon. Preview the line-up and save it on soundcheck.
+Love against time with DJ Healthy at Nyapi on Fri 16 Oct, Seoul. 4 artists: DJ Healthy, eunuk, JAEHAN and jiwon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

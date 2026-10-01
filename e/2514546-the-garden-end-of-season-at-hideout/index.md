@@ -1,6 +1,6 @@
 # THE GARDEN: END OF SEASON at Hideout
 
-THE GARDEN: END OF SEASON at Hideout on Sat 7 Nov, Malta. Breakbeat and Garage. Preview the line-up and save it on soundcheck.
+THE GARDEN: END OF SEASON at Hideout on Sat 7 Nov, Malta. Breakbeat and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

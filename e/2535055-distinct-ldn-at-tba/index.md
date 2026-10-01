@@ -1,6 +1,6 @@
 # Distinct Ldn at TBA
 
-Distinct Ldn at TBA on Fri 4 Dec, London. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Distinct Ldn at TBA on Fri 4 Dec, London. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

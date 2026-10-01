@@ -1,6 +1,6 @@
 # ADE: Berkan V8 presents Dance Division at Benelux BAR
 
-ADE: Berkan V8 presents Dance Division at Benelux BAR on Fri 23 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+ADE: Berkan V8 presents Dance Division at Benelux BAR on Fri 23 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

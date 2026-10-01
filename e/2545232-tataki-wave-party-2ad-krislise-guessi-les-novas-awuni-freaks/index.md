@@ -1,6 +1,6 @@
 # [TATAKI WAVE PARTY] 2AD · Krislise · Guessi · Les Novas · Awuni · Freaks · Geo at La Gravière
 
-[TATAKI WAVE PARTY] 2AD · Krislise · Guessi · Les Novas · Awuni · Freaks · Geo at La Gravière on Sat 3 Oct, Geneva. Baile Funk and Afrobeats. Preview the line-up and save it on soundcheck.
+[TATAKI WAVE PARTY] 2AD · Krislise · Guessi · Les Novas · Awuni · Freaks · Geo at La Gravière on Sat 3 Oct, Geneva. Baile Funk and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

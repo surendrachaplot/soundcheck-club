@@ -1,6 +1,6 @@
 # Adonis at TILLATEC
 
-Adonis at TILLATEC on Sat 17 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Adonis at TILLATEC on Sat 17 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

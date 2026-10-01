@@ -1,6 +1,6 @@
 # Connected Underground with Stefan Goldmann (Macro, from Berlin) - Das Berghain in Kyoto! - at Club Metro
 
-Connected Underground with Stefan Goldmann (Macro, from Berlin) - Das Berghain in Kyoto! - at Club Metro on Fri 16 Oct, Kyoto. 3 artists on the bill: Paul Leonard, Ryoma Sasaki and Stefan Goldmann. Techno and House. Preview the line-up and save it on soundcheck.
+Connected Underground with Stefan Goldmann (Macro, from Berlin) - Das Berghain in Kyoto! - at Club Metro on Fri 16 Oct, Kyoto. 3 artists: Paul Leonard, Ryoma Sasaki and Stefan Goldmann. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

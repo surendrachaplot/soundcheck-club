@@ -1,6 +1,6 @@
 # Index x Outset: Onlynumbers at Index
 
-Index x Outset: Onlynumbers on Fri 2 Oct, Dublin. 1 artist on the bill: Onlynumbers. Electronica. Preview the line-up and save it on soundcheck.
+Index x Outset: Onlynumbers on Fri 2 Oct, Dublin. 1 artist: Onlynumbers. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

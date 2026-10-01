@@ -1,6 +1,6 @@
 # Klubkneipe x Tuesday Ritual - Zine Workshop & Dance with Friends Takeover at Prisma
 
-Klubkneipe x Tuesday Ritual - Zine Workshop & Dance with Friends Takeover at Prisma on Tue 13 Oct, Berlin. 2 artists on the bill: Shoplifter and Thys. Techno and House. Preview the line-up and save it on soundcheck.
+Klubkneipe x Tuesday Ritual - Zine Workshop & Dance with Friends Takeover at Prisma on Tue 13 Oct, Berlin. 2 artists: Shoplifter and Thys. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

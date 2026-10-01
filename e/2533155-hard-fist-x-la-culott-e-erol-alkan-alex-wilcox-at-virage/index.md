@@ -1,6 +1,6 @@
 # Hard Fist x La Culottée: Erol Alkan, Alex Wilcox at Virage
 
-Hard Fist x La Culottée: Erol Alkan, Alex Wilcox at Virage on Fri 2 Oct, Paris. 4 artists on the bill: Alex Wilcox, Ceyda Yagiz, Erol Alkan and Warum. Techno. Preview the line-up and save it on soundcheck.
+Hard Fist x La Culottée: Erol Alkan, Alex Wilcox at Virage on Fri 2 Oct, Paris. 4 artists: Alex Wilcox, Ceyda Yagiz, Erol Alkan and Warum. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

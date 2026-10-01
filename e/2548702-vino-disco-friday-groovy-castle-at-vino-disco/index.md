@@ -1,6 +1,6 @@
 # Vino Disco FRIDAY: Groovy Castle at Vino Disco
 
-Vino Disco FRIDAY: Groovy Castle on Fri 16 Oct, Montreal. 1 artist on the bill: Jean Pascal Groove. House and Funk / Soul. Preview the line-up and save it on soundcheck.
+Vino Disco FRIDAY: Groovy Castle on Fri 16 Oct, Montreal. 1 artist: Jean Pascal Groove. House and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

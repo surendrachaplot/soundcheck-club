@@ -1,6 +1,6 @@
 # 2000s & 2010s Club at The Loft
 
-2000s & 2010s Club at The Loft on Sat 3 Oct, Vienna. Disco and Pop. Preview the line-up and save it on soundcheck.
+2000s & 2010s Club at The Loft on Sat 3 Oct, Vienna. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

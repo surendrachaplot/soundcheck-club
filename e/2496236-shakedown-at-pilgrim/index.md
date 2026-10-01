@@ -1,6 +1,6 @@
 # SHAKEDOWN at Pilgrim
 
-SHAKEDOWN at Pilgrim on Sat 3 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+SHAKEDOWN at Pilgrim on Sat 3 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

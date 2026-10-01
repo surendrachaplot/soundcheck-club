@@ -1,8 +1,8 @@
 # Zanias
 
-Zanias is a Techno and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bossa Nova Civic Club, New York City on Mon, 5 Oct 2026.
+Zanias is a Techno and Post-Punk artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Mon, 5 Oct 2026.
 
-Zanias is a techno and post-punk artist based in Australia, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Kris Baha, Neu-Romancer and Berlin Bunny. Next up: Bossa Nova Civic Club, New York City on Mon 5 Oct.
+Zanias is a techno and post-punk artist based in Australia, with 42 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Chicago and 15 more. Often billed alongside Kris Baha, Neu-Romancer and Berlin Bunny. Next up: Bossa Nova Civic Club, New York City on Mon 5 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Zanias is a techno and post-punk artist based in Australia, tracked on soundchec
 
 ## Recently played
 
-- Frannz Club, Berlin — Sun, 26 Apr 2026
-- Revolver Upstairs, Melbourne — Wed, 11 Feb 2026
-- Quantum Oddity Gallery, Berlin — Sat, 27 Dec 2025
-- Les Tres Xemeneies, Barcelona — Thu, 4 Dec 2025
-- Camden Assembly, London — Fri, 31 Oct 2025
-- What Is Happening Here Gallery, Amsterdam — Thu, 23 Oct 2025
-- Tresor / Globus, Berlin — Thu, 18 Sept 2025
-- Melkweg, Amsterdam — Sat, 13 Sept 2025
+- Frannz Club, Berlin · Sun, 26 Apr 2026
+- Revolver Upstairs, Melbourne · Wed, 11 Feb 2026
+- Quantum Oddity Gallery, Berlin · Sat, 27 Dec 2025
+- Les Tres Xemeneies, Barcelona · Thu, 4 Dec 2025
+- Camden Assembly, London · Fri, 31 Oct 2025
+- What Is Happening Here Gallery, Amsterdam · Thu, 23 Oct 2025
+- Tresor / Globus, Berlin · Thu, 18 Sept 2025
+- Melkweg, Amsterdam · Sat, 13 Sept 2025
 
 ## Shares bills with
 

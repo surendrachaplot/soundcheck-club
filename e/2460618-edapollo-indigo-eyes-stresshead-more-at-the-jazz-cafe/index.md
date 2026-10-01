@@ -1,6 +1,6 @@
 # edapollo, Indigo Eyes, Stresshead ++more at The Jazz Cafe
 
-edapollo, Indigo Eyes, Stresshead ++more at The Jazz Cafe on Sat 7 Nov, London. 3 artists on the bill: edapollo, Indigo Eyes and Stresshead. House and Club. Preview the line-up and save it on soundcheck.
+edapollo, Indigo Eyes, Stresshead ++more at The Jazz Cafe on Sat 7 Nov, London. 3 artists: edapollo, Indigo Eyes and Stresshead. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

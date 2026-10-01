@@ -1,6 +1,6 @@
 # Riley presents Get with The Program - Manchester at Hidden
 
-Riley presents Get with The Program - Manchester at Hidden on Fri 20 Nov, Manchester. Tech House. Preview the line-up and save it on soundcheck.
+Riley presents Get with The Program - Manchester at Hidden on Fri 20 Nov, Manchester. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

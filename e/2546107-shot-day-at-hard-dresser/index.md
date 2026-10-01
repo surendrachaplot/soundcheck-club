@@ -1,6 +1,6 @@
 # SHOT DAY at Hard Dresser
 
-SHOT DAY at Hard Dresser on Sat 10 Oct, San Diego. Electro and Club. Preview the line-up and save it on soundcheck.
+SHOT DAY at Hard Dresser on Sat 10 Oct, San Diego. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

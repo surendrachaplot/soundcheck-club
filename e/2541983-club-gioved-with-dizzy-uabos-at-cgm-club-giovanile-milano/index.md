@@ -1,6 +1,6 @@
 # Club Giovedì with Dizzy & Uabos at CGM - Club Giovanile Milano
 
-Club Giovedì with Dizzy & Uabos at CGM - Club Giovanile Milano on Thu 1 Oct, Milan. 2 artists on the bill: Dizzy and Uabos. Preview the line-up and save it on soundcheck.
+Club Giovedì with Dizzy & Uabos at CGM - Club Giovanile Milano on Thu 1 Oct, Milan. 2 artists: Dizzy and Uabos. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

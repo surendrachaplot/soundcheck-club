@@ -1,6 +1,6 @@
 # Connection art invites Sawt of Soul at SISSI'S Amsterdam
 
-Connection art invites Sawt of Soul at SISSI'S Amsterdam on Sat 3 Oct, Amsterdam. 1 artist on the bill: Polli Panda. House and Deep House. Preview the line-up and save it on soundcheck.
+Connection art invites Sawt of Soul at SISSI'S Amsterdam on Sat 3 Oct, Amsterdam. 1 artist: Polli Panda. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

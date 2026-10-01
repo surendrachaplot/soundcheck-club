@@ -1,6 +1,6 @@
 # VER PRESENTS at Edelfettwerk
 
-VER PRESENTS at Edelfettwerk on Mon 30 Nov, Hamburg. Preview the line-up and save it on soundcheck.
+VER PRESENTS at Edelfettwerk on Mon 30 Nov, Hamburg. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

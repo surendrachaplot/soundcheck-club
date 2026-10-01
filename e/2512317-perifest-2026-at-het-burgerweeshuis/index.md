@@ -1,6 +1,6 @@
 # Perifest 2026 at Het Burgerweeshuis
 
-Perifest 2026 at Het Burgerweeshuis on Sat 3 Oct, Netherlands. 10 artists on the bill: Brian Eno, cadeu, Charlemagne Palestine and ece era and 6 more. Preview the line-up and save it on soundcheck.
+Perifest 2026 at Het Burgerweeshuis on Sat 3 Oct, Netherlands. 10 artists: Brian Eno, cadeu, Charlemagne Palestine and ece era and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

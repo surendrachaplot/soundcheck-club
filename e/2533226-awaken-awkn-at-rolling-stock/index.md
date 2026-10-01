@@ -1,6 +1,6 @@
 # AWAKEN [AWKN] at Rolling Stock
 
-AWAKEN [AWKN] at Rolling Stock on Sat 21 Nov, London. Drum & Bass and House. Preview the line-up and save it on soundcheck.
+AWAKEN [AWKN] at Rolling Stock on Sat 21 Nov, London. Drum & Bass and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

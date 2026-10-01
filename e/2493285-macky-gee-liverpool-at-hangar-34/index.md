@@ -1,6 +1,6 @@
 # Macky Gee: Liverpool at Hangar 34
 
-Macky Gee: Liverpool at Hangar 34 on Sat 3 Oct, Liverpool. 1 artist on the bill: Macky Gee. Drum & Bass. Preview the line-up and save it on soundcheck.
+Macky Gee: Liverpool at Hangar 34 on Sat 3 Oct, Liverpool. 1 artist: Macky Gee. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

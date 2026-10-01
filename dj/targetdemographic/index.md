@@ -1,8 +1,8 @@
 # Target Demographic
 
-Target Demographic is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Forge, Bucharest on Fri, 9 Oct 2026.
+Target Demographic is a House and Techno artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Forge, Bucharest on Fri, 9 Oct 2026.
 
-Target Demographic is a house and techno artist based in United States of America, tracked on soundcheck, with 24 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: Forge, Bucharest on Fri 9 Oct.
+Target Demographic is a house and techno artist based in United States of America, with 24 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside Shaolin Cowboy, Baltra and DJ Cinéma Quartier Latin. Next up: Forge, Bucharest on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Target Demographic is a house and techno artist based in United States of Americ
 
 ## Recently played
 
-- The Loft, Vienna — Sun, 8 Jun 2025
-- OCZKI, Warsaw — Sat, 7 Jun 2025
-- Gretchen, Berlin — Fri, 30 May 2025
-- Docks 1 Boat in the Amsterdam River, Amsterdam — Wed, 28 May 2025
-- Night Tales, London — Sun, 25 May 2025
-- MS Stubnitz, Hamburg — Sat, 17 May 2025
-- ÆDEN, Berlin — Wed, 30 Apr 2025
-- El Cid, Los Angeles — Sat, 1 Mar 2025
+- The Loft, Vienna · Sun, 8 Jun 2025
+- OCZKI, Warsaw · Sat, 7 Jun 2025
+- Gretchen, Berlin · Fri, 30 May 2025
+- Docks 1 Boat in the Amsterdam River, Amsterdam · Wed, 28 May 2025
+- Night Tales, London · Sun, 25 May 2025
+- MS Stubnitz, Hamburg · Sat, 17 May 2025
+- ÆDEN, Berlin · Wed, 30 Apr 2025
+- El Cid, Los Angeles · Sat, 1 Mar 2025
 
 ## Shares bills with
 

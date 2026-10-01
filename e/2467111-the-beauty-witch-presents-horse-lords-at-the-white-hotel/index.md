@@ -1,6 +1,6 @@
 # The Beauty Witch presents : Horse Lords at The White Hotel
 
-The Beauty Witch presents : Horse Lords at The White Hotel on Thu 12 Nov, Manchester. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+The Beauty Witch presents : Horse Lords at The White Hotel on Thu 12 Nov, Manchester. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

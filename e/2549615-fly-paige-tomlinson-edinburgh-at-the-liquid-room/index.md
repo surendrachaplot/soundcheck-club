@@ -1,6 +1,6 @@
 # FLY - Paige Tomlinson - Edinburgh at The Liquid Room
 
-FLY - Paige Tomlinson - Edinburgh at The Liquid Room on Fri 20 Nov, Edinburgh. 1 artist on the bill: Paige Tomlinson. Preview the line-up and save it on soundcheck.
+FLY - Paige Tomlinson - Edinburgh at The Liquid Room on Fri 20 Nov, Edinburgh. 1 artist: Paige Tomlinson. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

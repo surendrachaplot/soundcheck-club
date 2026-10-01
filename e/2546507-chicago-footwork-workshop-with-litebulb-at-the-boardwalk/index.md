@@ -1,6 +1,6 @@
 # Chicago Footwork Workshop with Litebulb at The Boardwalk
 
-Chicago Footwork Workshop with Litebulb at The Boardwalk on Fri 23 Oct, Glasgow. Footwork. Preview the line-up and save it on soundcheck.
+Chicago Footwork Workshop with Litebulb at The Boardwalk on Fri 23 Oct, Glasgow. Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

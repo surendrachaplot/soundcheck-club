@@ -1,6 +1,6 @@
 # CC COLLECTIVE PRESENTS CVNTY.VOL1 at Crack Bellmer
 
-CC COLLECTIVE PRESENTS CVNTY.VOL1 at Crack Bellmer on Sat 17 Oct, Berlin. Experimental and Club. Preview the line-up and save it on soundcheck.
+CC COLLECTIVE PRESENTS CVNTY.VOL1 at Crack Bellmer on Sat 17 Oct, Berlin. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

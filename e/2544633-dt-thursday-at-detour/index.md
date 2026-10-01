@@ -1,6 +1,6 @@
 # DT THURSDAY at DeTour
 
-DT THURSDAY at DeTour on Thu 1 Oct, Tokyo. House. Preview the line-up and save it on soundcheck.
+DT THURSDAY at DeTour on Thu 1 Oct, Tokyo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

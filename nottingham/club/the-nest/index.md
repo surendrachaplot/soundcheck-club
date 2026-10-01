@@ -1,8 +1,8 @@
 # The Nest
 
-The Nest is a music venue in Nottingham with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Skream, Traumer, Wheats + MORE - Groovebox The Nest, Nottingham" on Sat, 3 Oct 2026.
+The Nest is a music venue in Nottingham with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Skream, Traumer, Wheats + MORE - Groovebox The Nest, Nottingham" on Sat, 3 Oct 2026.
 
-The Nest is a music venue in Nottingham listed on soundcheck. 7 upcoming gigs, with line-ups including 4am Kru, A Little Sound, Anaïs and Andromedik and 2 more. Browse upcoming dates, start times and who's playing. The Nest,  Iremonger Rd,  Nottingham  NG2 3HU.
+The Nest is a music venue in Nottingham listed on soundcheck. 7 upcoming gigs, with line-ups including 4am Kru, A Little Sound, Anaïs and Andromedik and 2 more. See dates, start times and who's playing. The Nest,  Iremonger Rd,  Nottingham  NG2 3HU.
 
 ## What's on
 

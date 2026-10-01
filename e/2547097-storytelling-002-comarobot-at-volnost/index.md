@@ -1,6 +1,6 @@
 # STORYTELLING 002 ComaRobot at Volnost
 
-STORYTELLING 002 ComaRobot at Volnost on Sat 17 Oct, Seoul. 1 artist on the bill: ComaRobot. Techno and Industrial. Preview the line-up and save it on soundcheck.
+STORYTELLING 002 ComaRobot at Volnost on Sat 17 Oct, Seoul. 1 artist: ComaRobot. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Maruwa
 
-Maruwa is a House and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
+Maruwa is a House and Trance artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tokonoma Club, Frankfurt on Fri, 2 Oct 2026.
 
-Maruwa is a house and trance artist based in Germany, tracked on soundcheck, with 143 sets logged across Amsterdam, Barcelona, Basel and Belgrade and 38 more. Often billed alongside Younger Than Me, Surf 2 Glory and DJ Heartstring. Next up: Tokonoma Club, Frankfurt on Fri 2 Oct.
+Maruwa is a house and trance artist based in Germany, with 143 gigs on soundcheck across Amsterdam, Barcelona, Basel and Belgrade and 38 more. Often billed alongside Younger Than Me, Surf 2 Glory and DJ Heartstring. Next up: Tokonoma Club, Frankfurt on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Maruwa is a house and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 22 Aug 2026
-- De Hangout, Amsterdam — Sat, 15 Aug 2026
-- Rebstockpark, Frankfurt — Sat, 25 Jul 2026
-- Tokonoma Club, Frankfurt — Sat, 18 Jul 2026
-- Jolene, Copenhagen — Fri, 10 Jul 2026
-- 42 Marches, Paris — Sat, 20 Jun 2026
-- Radio Radio, Amsterdam — Sat, 6 Jun 2026
-- Tokonoma Club, Frankfurt — Fri, 29 May 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 22 Aug 2026
+- De Hangout, Amsterdam · Sat, 15 Aug 2026
+- Rebstockpark, Frankfurt · Sat, 25 Jul 2026
+- Tokonoma Club, Frankfurt · Sat, 18 Jul 2026
+- Jolene, Copenhagen · Fri, 10 Jul 2026
+- 42 Marches, Paris · Sat, 20 Jun 2026
+- Radio Radio, Amsterdam · Sat, 6 Jun 2026
+- Tokonoma Club, Frankfurt · Fri, 29 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # RUST at TBA - One Hour South of Sydney
 
-RUST at TBA - One Hour South of Sydney on Fri 9 Oct, Sydney. 1 artist on the bill: Hans Bricks. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+RUST at TBA - One Hour South of Sydney on Fri 9 Oct, Sydney. 1 artist: Hans Bricks. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

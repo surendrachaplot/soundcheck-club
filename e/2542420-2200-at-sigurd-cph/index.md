@@ -1,6 +1,6 @@
 # 2200 at Sigurd CPH
 
-2200 at Sigurd CPH on Fri 9 Oct, Copenhagen. 1 artist on the bill: John Vincent. Hip-Hop and Afrobeats. Preview the line-up and save it on soundcheck.
+2200 at Sigurd CPH on Fri 9 Oct, Copenhagen. 1 artist: John Vincent. Hip-Hop and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

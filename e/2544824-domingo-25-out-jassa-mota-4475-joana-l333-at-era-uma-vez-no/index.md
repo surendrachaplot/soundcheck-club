@@ -1,6 +1,6 @@
 # DOMINGO 25 OUT - JASSA / MOTA 4475 / JOANA L333 at Era uma vez no Porto
 
-DOMINGO 25 OUT - JASSA / MOTA 4475 / JOANA L333 at Era uma vez no Porto on Sun 25 Oct, Porto. Techno and Tech House. Preview the line-up and save it on soundcheck.
+DOMINGO 25 OUT - JASSA / MOTA 4475 / JOANA L333 at Era uma vez no Porto on Sun 25 Oct, Porto. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

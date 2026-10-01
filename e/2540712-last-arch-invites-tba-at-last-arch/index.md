@@ -1,6 +1,6 @@
 # Last Arch invites: TBA at Last Arch
 
-Last Arch invites: TBA on Fri 18 Dec, London. Preview the line-up and save it on soundcheck.
+Last Arch invites: TBA on Fri 18 Dec, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

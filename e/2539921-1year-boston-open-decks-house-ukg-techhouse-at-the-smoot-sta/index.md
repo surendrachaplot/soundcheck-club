@@ -1,6 +1,6 @@
 # 1YEAR Boston Open Decks (House/UKG/Techhouse) at The Smoot Standard
 
-1YEAR Boston Open Decks (House/UKG/Techhouse) at The Smoot Standard on Sat 14 Nov, Boston. Preview the line-up and save it on soundcheck.
+1YEAR Boston Open Decks (House/UKG/Techhouse) at The Smoot Standard on Sat 14 Nov, Boston. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

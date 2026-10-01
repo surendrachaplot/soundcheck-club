@@ -1,6 +1,6 @@
 # Housequake 'All Night Long' [New Location] at De Achtertuin
 
-Housequake 'All Night Long' [New Location] at De Achtertuin on Sat 10 Oct, Nijmegen. 3 artists on the bill: Erick E, Housequake and ROOG. Preview the line-up and save it on soundcheck.
+Housequake 'All Night Long' [New Location] at De Achtertuin on Sat 10 Oct, Nijmegen. 3 artists: Erick E, Housequake and ROOG. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

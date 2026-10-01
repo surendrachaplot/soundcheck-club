@@ -1,6 +1,6 @@
 # For The Record Presents... ******** at Arts Club
 
-For The Record Presents... ******** at Arts Club on Fri 27 Nov, Liverpool. House and Disco. Preview the line-up and save it on soundcheck.
+For The Record Presents... ******** at Arts Club on Fri 27 Nov, Liverpool. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

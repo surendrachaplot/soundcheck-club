@@ -1,6 +1,6 @@
 # UNHEALTHY at Bike Jesus
 
-UNHEALTHY at Bike Jesus on Fri 2 Oct, Prague. Hip-Hop and Electro. Preview the line-up and save it on soundcheck.
+UNHEALTHY at Bike Jesus on Fri 2 Oct, Prague. Hip-Hop and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

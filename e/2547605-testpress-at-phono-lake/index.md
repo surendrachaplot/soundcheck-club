@@ -1,6 +1,6 @@
 # TESTPRESS at Phono Lake
 
-TESTPRESS at Phono Lake on Fri 2 Oct, Amsterdam. 4 artists on the bill: Alpo, DJ SRA, DJ Tempo and Rhode & Brown. Preview the line-up and save it on soundcheck.
+TESTPRESS at Phono Lake on Fri 2 Oct, Amsterdam. 4 artists: Alpo, DJ SRA, DJ Tempo and Rhode & Brown. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

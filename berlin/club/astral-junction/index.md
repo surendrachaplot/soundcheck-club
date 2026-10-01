@@ -1,8 +1,8 @@
 # Astral Junction
 
-Astral Junction is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Astral Nachtmarkt Nr. 2. – Musik, Nachtkultur- und Kunst" on Thu, 1 Oct 2026.
+Astral Junction is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Astral Nachtmarkt Nr. 2. – Musik, Nachtkultur- und Kunst" on Thu, 1 Oct 2026.
 
-Astral Junction is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Gare Mat K. Browse upcoming dates, start times and who's playing. Rigaer Str. 105, 10247 Berlin.
+Astral Junction is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Gare Mat K. See dates, start times and who's playing. Rigaer Str. 105, 10247 Berlin.
 
 ## What's on
 

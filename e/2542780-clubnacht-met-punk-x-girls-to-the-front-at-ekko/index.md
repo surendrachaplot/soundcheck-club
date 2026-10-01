@@ -1,6 +1,6 @@
 # Clubnacht met punk x Girls To The Front at EKKO
 
-Clubnacht met punk x Girls To The Front at EKKO on Fri 30 Oct, Utrecht. 1 artist on the bill: Camy Huot. Club and Post-Punk. Preview the line-up and save it on soundcheck.
+Clubnacht met punk x Girls To The Front at EKKO on Fri 30 Oct, Utrecht. 1 artist: Camy Huot. Club and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

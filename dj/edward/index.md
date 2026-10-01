@@ -1,8 +1,8 @@
 # Edward
 
-Edward is a House and Minimal artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Edward is a House and Minimal artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Edward is a house and minimal artist based in Germany, tracked on soundcheck, with 137 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Edward is a house and minimal artist based in Germany, with 137 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 30 more. Often billed alongside Konstantin, Leafar Legov and Yamour. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Edward is a house and minimal artist based in Germany, tracked on soundcheck, wi
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Distrikt, Leeds — Sat, 26 Sept 2026
-- Haus der Visionäre, Berlin — Sat, 26 Sept 2026
-- Nido Marseille, Marseille — Sat, 19 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 4 Sept 2026
-- Phonox, London — Sat, 22 Aug 2026
-- Nocturna, Ibiza — Fri, 21 Aug 2026
-- TBA - Secret Location, New York City — Sat, 1 Aug 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Distrikt, Leeds · Sat, 26 Sept 2026
+- Haus der Visionäre, Berlin · Sat, 26 Sept 2026
+- Nido Marseille, Marseille · Sat, 19 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 4 Sept 2026
+- Phonox, London · Sat, 22 Aug 2026
+- Nocturna, Ibiza · Fri, 21 Aug 2026
+- TBA - Secret Location, New York City · Sat, 1 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Starjunk 95 - ADE at Melkweg
 
-Starjunk 95 - ADE at Melkweg on Fri 23 Oct, Amsterdam. House and Vaporwave. Preview the line-up and save it on soundcheck.
+Starjunk 95 - ADE at Melkweg on Fri 23 Oct, Amsterdam. House and Vaporwave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

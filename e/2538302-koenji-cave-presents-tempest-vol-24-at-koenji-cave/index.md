@@ -1,6 +1,6 @@
 # Koenji Cave presents - Tempest - Vol.24 at Koenji Cave
 
-Koenji Cave presents - Tempest - Vol.24 on Sat 24 Oct, Tokyo. Psytrance and Afro Tech. Preview the line-up and save it on soundcheck.
+Koenji Cave presents - Tempest - Vol.24 on Sat 24 Oct, Tokyo. Psytrance and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

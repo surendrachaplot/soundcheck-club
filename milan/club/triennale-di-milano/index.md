@@ -1,8 +1,8 @@
 # Triennale di Milano
 
-Triennale di Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "SLAM – Festival Internazionale delle Colonne Sonore" on Fri, 11 Dec 2026.
+Triennale di Milano is a music venue in Milan with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "SLAM – Festival Internazionale delle Colonne Sonore" on Fri, 11 Dec 2026.
 
-Triennale di Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Chassol, Hania Rani and Jeff Mills. Browse upcoming dates, start times and who's playing. Via Alemagna 6, Milano, 20100, Italy.
+Triennale di Milano is a music venue in Milan listed on soundcheck. 1 upcoming gig, with line-ups including Chassol, Hania Rani and Jeff Mills. See dates, start times and who's playing. Via Alemagna 6, Milano, 20100, Italy.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Blend @mssngpieces at Mssng Pieces
 
-Blend @mssngpieces at Mssng Pieces on Fri 2 Oct, Nottingham. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Blend @mssngpieces at Mssng Pieces on Fri 2 Oct, Nottingham. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

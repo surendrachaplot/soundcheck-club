@@ -1,8 +1,8 @@
 # Cassius
 
-Cassius is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Button Factory, Dublin on Fri, 16 Oct 2026.
+Cassius is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Button Factory, Dublin on Fri, 16 Oct 2026.
 
-Cassius is a house and techno artist based in France, tracked on soundcheck, with 49 sets logged across Antwerp, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Myd, Busy P and Etienne De Crecy. Next up: Button Factory, Dublin on Fri 16 Oct.
+Cassius is a house and techno artist based in France, with 49 gigs on soundcheck across Antwerp, Barcelona, Berlin and Brussels and 21 more. Often billed alongside Myd, Busy P and Etienne De Crecy. Next up: Button Factory, Dublin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Cassius is a house and techno artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Fri, 21 Aug 2026
-- TBA - Mairie de Marseille / Vieux port, Marseille — Sat, 11 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Calatheabeachclub, Naples — Sat, 13 Jun 2026
-- Silencio, Paris — Tue, 2 Jun 2026
-- Place Noord, Brussels — Sat, 30 May 2026
-- Alcazar Live, Rome — Sat, 9 May 2026
-- Parc Floral De Paris, Paris — Thu, 7 May 2026
+- Amnesia Ibiza, Ibiza · Fri, 21 Aug 2026
+- TBA - Mairie de Marseille / Vieux port, Marseille · Sat, 11 Jul 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- Calatheabeachclub, Naples · Sat, 13 Jun 2026
+- Silencio, Paris · Tue, 2 Jun 2026
+- Place Noord, Brussels · Sat, 30 May 2026
+- Alcazar Live, Rome · Sat, 9 May 2026
+- Parc Floral De Paris, Paris · Thu, 7 May 2026
 
 ## Shares bills with
 

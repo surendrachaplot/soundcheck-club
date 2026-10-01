@@ -1,6 +1,6 @@
 # The Surreal Club Night 3027 by 3000Grad at Ritter Butzke
 
-The Surreal Club Night 3027 by 3000Grad at Ritter Butzke on Sat 6 Feb, Berlin. 1 artist on the bill: Mollono.Bass. Preview the line-up and save it on soundcheck.
+The Surreal Club Night 3027 by 3000Grad at Ritter Butzke on Sat 6 Feb, Berlin. 1 artist: Mollono.Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

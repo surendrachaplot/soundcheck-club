@@ -1,6 +1,6 @@
 # BASSIFICATION: human plushie, EMRYSLAZULI, Fanndemm, MS.MYLES, COHEN & ENSIDER at TBA
 
-BASSIFICATION: human plushie, EMRYSLAZULI, Fanndemm, MS.MYLES, COHEN & ENSIDER at TBA on Fri 16 Oct, Toronto. 5 artists on the bill: EMRYSLAZULI, ENSIDER, Fanndemm and human plushie and 1 more. Techno and Club. Preview the line-up and save it on soundcheck.
+BASSIFICATION: human plushie, EMRYSLAZULI, Fanndemm, MS.MYLES, COHEN & ENSIDER at TBA on Fri 16 Oct, Toronto. 5 artists: EMRYSLAZULI, ENSIDER, Fanndemm and human plushie and 1 more. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

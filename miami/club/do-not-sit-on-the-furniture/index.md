@@ -1,8 +1,8 @@
 # Do Not Sit On The Furniture
 
-Do Not Sit On The Furniture is a music venue in Miami with 25 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Secret Thursdays" on Thu, 1 Oct 2026.
+Do Not Sit On The Furniture is a music venue in Miami with 25 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Secret Thursdays" on Thu, 1 Oct 2026.
 
-Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 25 upcoming gigs, with line-ups including Armen Miran, baez, Basti Grub and Ben Roberts and 2 more. Browse upcoming dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
+Do Not Sit On The Furniture is a music venue in Miami listed on soundcheck. 25 upcoming gigs, with line-ups including Armen Miran, baez, Basti Grub and Ben Roberts and 2 more. See dates, start times and who's playing. 423 16th St, Miami Beach, FL 33139.
 
 ## What's on
 

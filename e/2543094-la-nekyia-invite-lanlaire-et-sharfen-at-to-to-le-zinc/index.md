@@ -1,6 +1,6 @@
 # La Nekyia invite Lanlaire et Sharfen at Toï Toï, Le Zinc
 
-La Nekyia invite Lanlaire et Sharfen at Toï Toï, Le Zinc on Sat 17 Oct, Lyon. Preview the line-up and save it on soundcheck.
+La Nekyia invite Lanlaire et Sharfen at Toï Toï, Le Zinc on Sat 17 Oct, Lyon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

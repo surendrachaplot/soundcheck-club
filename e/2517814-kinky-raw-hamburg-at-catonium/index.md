@@ -1,6 +1,6 @@
 # KINKY RAW HAMBURG at Catonium
 
-KINKY RAW HAMBURG at Catonium on Sat 24 Oct, Hamburg. 2 artists on the bill: Charlotte Lion and maniaclina. Trance and Techno. Preview the line-up and save it on soundcheck.
+KINKY RAW HAMBURG at Catonium on Sat 24 Oct, Hamburg. 2 artists: Charlotte Lion and maniaclina. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Tiago Cruz at Plano B
 
-Tiago Cruz at Plano B on Sat 3 Oct, Porto. 1 artist on the bill: Rui Trintaeum. House and Club. Preview the line-up and save it on soundcheck.
+Tiago Cruz at Plano B on Sat 3 Oct, Porto. 1 artist: Rui Trintaeum. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # bratty • with charli xcx & other brat coded artists • bochum at Schlegel Kultur Club
 
-bratty • with charli xcx & other brat coded artists • bochum at Schlegel Kultur Club on Fri 6 Nov, Bochum. Electro and Pop. Preview the line-up and save it on soundcheck.
+bratty • with charli xcx & other brat coded artists • bochum at Schlegel Kultur Club on Fri 6 Nov, Bochum. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

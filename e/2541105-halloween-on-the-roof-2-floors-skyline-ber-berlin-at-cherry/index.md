@@ -1,6 +1,6 @@
 # Halloween on the Roof - 2 Floors & Skyline über Berlin at Cherry on Top
 
-Halloween on the Roof - 2 Floors & Skyline über Berlin at Cherry on Top on Sat 31 Oct, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+Halloween on the Roof - 2 Floors & Skyline über Berlin at Cherry on Top on Sat 31 Oct, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

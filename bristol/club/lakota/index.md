@@ -1,8 +1,8 @@
 # Lakota
 
-Lakota is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Amplify" on Fri, 2 Oct 2026.
+Lakota is a music venue in Bristol with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Amplify" on Fri, 2 Oct 2026.
 
-Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with line-ups including Dan Shake, Faster Horses, IZZIT and Judge Jules and 2 more. Browse upcoming dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
+Lakota is a music venue in Bristol listed on soundcheck. 14 upcoming gigs, with line-ups including Dan Shake, Faster Horses, IZZIT and Judge Jules and 2 more. See dates, start times and who's playing. 6 Upper York Street; Bristol, BS2 8QN, United Kingdom.
 
 ## What's on
 

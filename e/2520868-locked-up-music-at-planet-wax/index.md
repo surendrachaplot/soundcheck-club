@@ -1,6 +1,6 @@
 # LOCKED UP MUSIC at Planet Wax
 
-LOCKED UP MUSIC at Planet Wax on Sat 28 Nov, London. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+LOCKED UP MUSIC at Planet Wax on Sat 28 Nov, London. Breakbeat and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

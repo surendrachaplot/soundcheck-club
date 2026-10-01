@@ -1,8 +1,8 @@
 # Nick V
 
-Nick V is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Le Chapiteau - Marseille, Marseille on Sat, 3 Oct 2026.
+Nick V is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Chapiteau - Marseille, Marseille on Sat, 3 Oct 2026.
 
-Nick V is a house and disco artist based in France, tracked on soundcheck, with 84 sets logged across Berlin, Geneva, Liverpool and Lyon and 4 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: Le Chapiteau - Marseille, Marseille on Sat 3 Oct.
+Nick V is a house and disco artist based in France, with 84 gigs on soundcheck across Berlin, Geneva, Liverpool and Lyon and 4 more. Often billed alongside DJ André, Odd Sweet and Crowd Control. Next up: Le Chapiteau - Marseille, Marseille on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Nick V is a house and disco artist based in France, tracked on soundcheck, with 
 
 ## Recently played
 
-- La Bellevilloise, Paris — Sat, 26 Sept 2026
-- Canal Barboteur, Paris — Sun, 6 Sept 2026
-- La Javelle (Bercy), Paris — Sat, 29 Aug 2026
-- Badaboum, Paris — Sat, 22 Aug 2026
-- La Prairie du Canal, Paris — Sun, 19 Jul 2026
-- La Prairie du Canal, Paris — Sat, 18 Jul 2026
-- Canal Barboteur, Paris — Sun, 21 Jun 2026
-- La Bellevilloise, Paris — Sat, 20 Jun 2026
+- La Bellevilloise, Paris · Sat, 26 Sept 2026
+- Canal Barboteur, Paris · Sun, 6 Sept 2026
+- La Javelle (Bercy), Paris · Sat, 29 Aug 2026
+- Badaboum, Paris · Sat, 22 Aug 2026
+- La Prairie du Canal, Paris · Sun, 19 Jul 2026
+- La Prairie du Canal, Paris · Sat, 18 Jul 2026
+- Canal Barboteur, Paris · Sun, 21 Jun 2026
+- La Bellevilloise, Paris · Sat, 20 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # FLINTA Open Decks hosted by Sophie van Hayden at Fundbureau
 
-FLINTA Open Decks hosted by Sophie van Hayden at Fundbureau on Sat 17 Oct, Hamburg. Trance and Techno. Preview the line-up and save it on soundcheck.
+FLINTA Open Decks hosted by Sophie van Hayden at Fundbureau on Sat 17 Oct, Hamburg. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

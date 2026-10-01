@@ -1,6 +1,6 @@
 # Spätkauf at Patronaat
 
-Spätkauf at Patronaat on Sat 10 Oct, Netherlands. 3 artists on the bill: NEUX, Rini Berlini and RUL3. Preview the line-up and save it on soundcheck.
+Spätkauf at Patronaat on Sat 10 Oct, Netherlands. 3 artists: NEUX, Rini Berlini and RUL3. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

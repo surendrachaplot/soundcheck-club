@@ -1,6 +1,6 @@
 # All My Fears (Album Release Event) presented by Aexhy & Sonny Smiles at Crack Bellmer
 
-All My Fears (Album Release Event) presented by Aexhy & Sonny Smiles at Crack Bellmer on Thu 15 Oct, Berlin. 6 artists on the bill: Aexhy, happysadgirl, LŸBRA and Marcie and 2 more. Trance and Experimental. Preview the line-up and save it on soundcheck.
+All My Fears (Album Release Event) presented by Aexhy & Sonny Smiles at Crack Bellmer on Thu 15 Oct, Berlin. 6 artists: Aexhy, happysadgirl, LŸBRA and Marcie and 2 more. Trance and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

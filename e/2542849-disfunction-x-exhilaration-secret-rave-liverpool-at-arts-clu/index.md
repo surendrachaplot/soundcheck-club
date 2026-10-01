@@ -1,6 +1,6 @@
 # DISFUNCTION x EXHILARATION: Secret Rave: Liverpool at Arts Club
 
-DISFUNCTION x EXHILARATION: Secret Rave: Liverpool at Arts Club on Fri 20 Nov, Liverpool. Techno and Hard Drum. Preview the line-up and save it on soundcheck.
+DISFUNCTION x EXHILARATION: Secret Rave: Liverpool at Arts Club on Fri 20 Nov, Liverpool. Techno and Hard Drum. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # The Jama
 
-The Jama is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Ohm Hourani - Blkvirgo - Massyl" on Sat, 3 Oct 2026.
+The Jama is a music venue in Toronto with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ohm Hourani - Blkvirgo - Massyl" on Sat, 3 Oct 2026.
 
-The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including Aji, B I P, Blkvirgo and Ciel and 2 more. Browse upcoming dates, start times and who's playing. 961 College Street.
+The Jama is a music venue in Toronto listed on soundcheck. 4 upcoming gigs, with line-ups including Aji, B I P, Blkvirgo and Ciel and 2 more. See dates, start times and who's playing. 961 College Street.
 
 ## What's on
 

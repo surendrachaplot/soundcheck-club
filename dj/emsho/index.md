@@ -1,8 +1,8 @@
 # Emsho
 
-Emsho is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, New York City on Fri, 9 Oct 2026.
+Emsho is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, New York City on Fri, 9 Oct 2026.
 
-Emsho is a house and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Barcelona, Berlin, Mexico City and New York City and 2 more. Often billed alongside Bella Mutino, Armii1n and Bruno Schmidt. Next up: TBA, New York City on Fri 9 Oct.
+Emsho is a house and techno artist based in United States of America, with 76 gigs on soundcheck across Barcelona, Berlin, Mexico City and New York City and 2 more. Often billed alongside Bella Mutino, Armii1n and Bruno Schmidt. Next up: TBA, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Emsho is a house and techno artist based in United States of America, tracked on
 
 ## Recently played
 
-- Signal, New York City — Fri, 25 Sept 2026
-- Green Room NYC, New York City — Thu, 24 Sept 2026
-- Green Room NYC, New York City — Sat, 12 Sept 2026
-- public records, New York City — Fri, 11 Sept 2026
-- Green Room NYC, New York City — Fri, 4 Sept 2026
-- Green Room NYC, New York City — Fri, 21 Aug 2026
-- Green Room NYC, New York City — Fri, 7 Aug 2026
-- Honey's, New York City — Fri, 7 Aug 2026
+- Signal, New York City · Fri, 25 Sept 2026
+- Green Room NYC, New York City · Thu, 24 Sept 2026
+- Green Room NYC, New York City · Sat, 12 Sept 2026
+- public records, New York City · Fri, 11 Sept 2026
+- Green Room NYC, New York City · Fri, 4 Sept 2026
+- Green Room NYC, New York City · Fri, 21 Aug 2026
+- Green Room NYC, New York City · Fri, 7 Aug 2026
+- Honey's, New York City · Fri, 7 Aug 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # ENiGMA feat. T.NO at Saloon
 
-ENiGMA feat. T.NO at Saloon on Sat 31 Oct, Tokyo. 7 artists on the bill: MoEPiKA, Pine, Romy Mats and S.H.V and 3 more. Bass and Electro. Preview the line-up and save it on soundcheck.
+ENiGMA feat. T.NO at Saloon on Sat 31 Oct, Tokyo. 7 artists: MoEPiKA, Pine, Romy Mats and S.H.V and 3 more. Bass and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

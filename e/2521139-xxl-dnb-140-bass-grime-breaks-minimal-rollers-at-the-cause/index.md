@@ -1,6 +1,6 @@
 # XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – at The Cause
 
-XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – at The Cause on Fri 20 Nov, London. Breakbeat and Grime. Preview the line-up and save it on soundcheck.
+XXL DNB – 140, BASS, GRIME, BREAKS, MINIMAL, ROLLERS – at The Cause on Fri 20 Nov, London. Breakbeat and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

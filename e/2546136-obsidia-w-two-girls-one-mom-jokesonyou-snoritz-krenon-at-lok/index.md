@@ -1,6 +1,6 @@
 # OBSIDIA w / two girls one mom, JOKESONYOU, snoritz, KRENON at Lokschuppen Berlin
 
-OBSIDIA w / two girls one mom, JOKESONYOU, snoritz, KRENON at Lokschuppen Berlin on Sat 10 Apr, Berlin. 4 artists on the bill: JOKESONYOU, snoritz, Treibende Kraft and two girls one mom. Preview the line-up and save it on soundcheck.
+OBSIDIA w / two girls one mom, JOKESONYOU, snoritz, KRENON at Lokschuppen Berlin on Sat 10 Apr, Berlin. 4 artists: JOKESONYOU, snoritz, Treibende Kraft and two girls one mom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

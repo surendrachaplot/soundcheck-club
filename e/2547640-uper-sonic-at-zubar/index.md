@@ -1,6 +1,6 @@
 # UPER SONIC at ZUBAR
 
-UPER SONIC at ZUBAR on Thu 22 Oct, Tokyo. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+UPER SONIC at ZUBAR on Thu 22 Oct, Tokyo. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

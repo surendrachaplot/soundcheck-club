@@ -1,6 +1,6 @@
 # TRASHOWEEN at The Buff Club
 
-TRASHOWEEN at The Buff Club on Thu 29 Oct, Glasgow. Pop and Club. Preview the line-up and save it on soundcheck.
+TRASHOWEEN at The Buff Club on Thu 29 Oct, Glasgow. Pop and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

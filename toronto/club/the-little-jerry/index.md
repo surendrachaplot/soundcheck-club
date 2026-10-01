@@ -1,8 +1,8 @@
 # The Little Jerry
 
-The Little Jerry is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Group Benefits presents SEEPS (LA) - 4 AM LAST CALL" on Fri, 2 Oct 2026.
+The Little Jerry is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Group Benefits presents SEEPS (LA) - 4 AM LAST CALL" on Fri, 2 Oct 2026.
 
-The Little Jerry is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Janina Marie, Jodie D, Roland Gonzales and Sakiko Nagai and 1 more. Browse upcoming dates, start times and who's playing. 418 College St, Toronto, Ontario.
+The Little Jerry is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Janina Marie, Jodie D, Roland Gonzales and Sakiko Nagai and 1 more. See dates, start times and who's playing. 418 College St, Toronto, Ontario.
 
 ## What's on
 

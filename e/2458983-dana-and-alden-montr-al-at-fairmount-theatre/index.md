@@ -1,6 +1,6 @@
 # Dana and Alden - Montréal at Fairmount Theatre
 
-Dana and Alden - Montréal at Fairmount Theatre on Tue 20 Oct, Montreal. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Dana and Alden - Montréal at Fairmount Theatre on Tue 20 Oct, Montreal. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

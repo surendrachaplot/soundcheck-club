@@ -1,6 +1,6 @@
 # Teletech x Ali James [World Headquarters, Newcastle] at World Headquarters
 
-Teletech x Ali James [World Headquarters, Newcastle] on Sat 21 Nov, Newcastle. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Teletech x Ali James [World Headquarters, Newcastle] on Sat 21 Nov, Newcastle. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # WYRD X FLOCK: HOUSE OF MIRRORS at The Cross
 
-WYRD X FLOCK: HOUSE OF MIRRORS at The Cross on Fri 30 Oct, London. 5 artists on the bill: Atsou, LODO, Rahbani and Sacha Yonan and 1 more. House. Preview the line-up and save it on soundcheck.
+WYRD X FLOCK: HOUSE OF MIRRORS at The Cross on Fri 30 Oct, London. 5 artists: Atsou, LODO, Rahbani and Sacha Yonan and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # NATURAL WEAPON ONE MAN LIVE at Socore Factory
 
-NATURAL WEAPON ONE MAN LIVE at Socore Factory on Sun 15 Nov, Osaka. Reggaeton. Preview the line-up and save it on soundcheck.
+NATURAL WEAPON ONE MAN LIVE at Socore Factory on Sun 15 Nov, Osaka. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

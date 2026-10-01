@@ -1,6 +1,6 @@
 # Vault No Borders Rave at Pm93 Essen
 
-Vault No Borders Rave at Pm93 Essen on Sat 10 Oct, Dortmund Essen. 5 artists on the bill: Bullon, JAKKAR, Kingsmo and Mula and 1 more. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Vault No Borders Rave at Pm93 Essen on Sat 10 Oct, Dortmund Essen. 5 artists: Bullon, JAKKAR, Kingsmo and Mula and 1 more. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

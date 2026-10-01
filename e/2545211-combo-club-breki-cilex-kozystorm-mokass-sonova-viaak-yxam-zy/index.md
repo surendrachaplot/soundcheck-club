@@ -1,6 +1,6 @@
 # COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić] at Karmen Camina
 
-COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić] at Karmen Camina on Thu 29 Oct, Strasbourg. Breakbeat and Jungle. Preview the line-up and save it on soundcheck.
+COMBO CLUB [Breki • Cilex • KOZYSTORM • Mokass • Sonova • Viaak • YXAM • Zygo Matić] at Karmen Camina on Thu 29 Oct, Strasbourg. Breakbeat and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

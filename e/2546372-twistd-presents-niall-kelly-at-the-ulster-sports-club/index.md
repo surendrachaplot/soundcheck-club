@@ -1,6 +1,6 @@
 # TWISTD presents: Niall Kelly at The Ulster Sports Club
 
-TWISTD presents: Niall Kelly at The Ulster Sports Club on Fri 16 Oct, Belfast. 2 artists on the bill: Niall Kelly and Princess Glitoris. Techno. Preview the line-up and save it on soundcheck.
+TWISTD presents: Niall Kelly at The Ulster Sports Club on Fri 16 Oct, Belfast. 2 artists: Niall Kelly and Princess Glitoris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

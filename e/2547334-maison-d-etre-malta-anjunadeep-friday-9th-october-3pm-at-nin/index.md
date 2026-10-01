@@ -1,6 +1,6 @@
 # Maison D'etre Malta - Anjunadeep Friday 9th October 3pm at Nine Lives
 
-Maison D'etre Malta - Anjunadeep Friday 9th October 3pm at Nine Lives on Fri 9 Oct, Malta. 1 artist on the bill: Monsieur Mikey. House. Preview the line-up and save it on soundcheck.
+Maison D'etre Malta - Anjunadeep Friday 9th October 3pm at Nine Lives on Fri 9 Oct, Malta. 1 artist: Monsieur Mikey. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

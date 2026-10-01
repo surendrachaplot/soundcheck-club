@@ -1,6 +1,6 @@
 # FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona
 
-FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona on Thu 8 Oct, Barcelona. 1 artist on the bill: Nesi. House. Preview the line-up and save it on soundcheck.
+FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) at Noxe Barcelona on Thu 8 Oct, Barcelona. 1 artist: Nesi. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

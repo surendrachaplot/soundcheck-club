@@ -1,6 +1,6 @@
 # Phil Mison at Wood Street Bear
 
-Phil Mison at Wood Street Bear on Fri 9 Oct, London. Downtempo and Balearic. Preview the line-up and save it on soundcheck.
+Phil Mison at Wood Street Bear on Fri 9 Oct, London. Downtempo and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

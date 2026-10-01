@@ -1,6 +1,6 @@
 # James A.-McEwan & Alex Coulon at To Pano Spiti
 
-James A.-McEwan & Alex Coulon at To Pano Spiti on Thu 8 Oct, Athens. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+James A.-McEwan & Alex Coulon at To Pano Spiti on Thu 8 Oct, Athens. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

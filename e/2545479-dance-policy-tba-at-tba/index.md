@@ -1,6 +1,6 @@
 # Dance Policy TBA at TBA
 
-Dance Policy TBA on Thu 15 Oct, Manchester. Preview the line-up and save it on soundcheck.
+Dance Policy TBA on Thu 15 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

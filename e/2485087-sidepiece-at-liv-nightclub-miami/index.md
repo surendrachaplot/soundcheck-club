@@ -1,6 +1,6 @@
 # Sidepiece at LIV Nightclub Miami
 
-Sidepiece at LIV Nightclub Miami on Sat 10 Oct, Miami. Preview the line-up and save it on soundcheck.
+Sidepiece at LIV Nightclub Miami on Sat 10 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

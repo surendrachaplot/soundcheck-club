@@ -1,6 +1,6 @@
 # TDIB X SSS [ FRIENDS NIGHT ] at Nether Club
 
-TDIB X SSS [ FRIENDS NIGHT ] at Nether Club on Fri 9 Oct, Bucharest. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+TDIB X SSS [ FRIENDS NIGHT ] at Nether Club on Fri 9 Oct, Bucharest. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

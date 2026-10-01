@@ -1,6 +1,6 @@
 # End Game at Auxerrexpo
 
-End Game at Auxerrexpo on Sat 3 Oct, Central. 5 artists on the bill: Lenny Dee, Lowel, Manu Le Malin and Moostik and 1 more. Preview the line-up and save it on soundcheck.
+End Game at Auxerrexpo on Sat 3 Oct, Central. 5 artists: Lenny Dee, Lowel, Manu Le Malin and Moostik and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

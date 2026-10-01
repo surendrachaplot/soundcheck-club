@@ -1,8 +1,8 @@
 # Ruta (2)
 
-Ruta (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Casa Corona Seoul, Seoul on Fri, 2 Oct 2026.
+Ruta (2) is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Corona Seoul, Seoul on Fri, 2 Oct 2026.
 
-Ruta is a house and tech house artist tracked on soundcheck, with 45 sets logged across Seoul. Often billed alongside Better, Grace Kim and HAO(KR). Next up: Casa Corona Seoul, Seoul on Fri 2 Oct.
+Ruta is a house and tech house artist, with 45 gigs on soundcheck across Seoul. Often billed alongside Better, Grace Kim and HAO(KR). Next up: Casa Corona Seoul, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ruta is a house and tech house artist tracked on soundcheck, with 45 sets logged
 
 ## Recently played
 
-- Casa Corona Seoul, Seoul — Sat, 18 Apr 2026
-- Casa Corona Seoul, Seoul — Fri, 17 Apr 2026
-- Casa Corona Seoul, Seoul — Sat, 11 Apr 2026
-- Casa Corona Seoul, Seoul — Fri, 10 Apr 2026
-- Casa Corona Seoul, Seoul — Fri, 3 Apr 2026
-- Casa Corona Seoul, Seoul — Fri, 27 Mar 2026
-- Casa Corona Seoul, Seoul — Sat, 14 Mar 2026
-- Casa Corona Seoul, Seoul — Fri, 13 Mar 2026
+- Casa Corona Seoul, Seoul · Sat, 18 Apr 2026
+- Casa Corona Seoul, Seoul · Fri, 17 Apr 2026
+- Casa Corona Seoul, Seoul · Sat, 11 Apr 2026
+- Casa Corona Seoul, Seoul · Fri, 10 Apr 2026
+- Casa Corona Seoul, Seoul · Fri, 3 Apr 2026
+- Casa Corona Seoul, Seoul · Fri, 27 Mar 2026
+- Casa Corona Seoul, Seoul · Sat, 14 Mar 2026
+- Casa Corona Seoul, Seoul · Fri, 13 Mar 2026
 
 ## Shares bills with
 

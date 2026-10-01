@@ -1,6 +1,6 @@
 # Mouth Wound (Bruscia Records, IT) + Guests at Quarry
 
-Mouth Wound (Bruscia Records, IT) + Guests at Quarry on Sun 11 Oct, Liverpool. Experimental. Preview the line-up and save it on soundcheck.
+Mouth Wound (Bruscia Records, IT) + Guests at Quarry on Sun 11 Oct, Liverpool. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

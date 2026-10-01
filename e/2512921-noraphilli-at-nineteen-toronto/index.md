@@ -1,6 +1,6 @@
 # noraphilli at Nineteen Toronto
 
-noraphilli at Nineteen Toronto on Thu 8 Oct, Toronto. 1 artist on the bill: Note. Pop. Preview the line-up and save it on soundcheck.
+noraphilli at Nineteen Toronto on Thu 8 Oct, Toronto. 1 artist: Note. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

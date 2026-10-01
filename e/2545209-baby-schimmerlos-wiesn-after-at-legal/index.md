@@ -1,6 +1,6 @@
 # Baby Schimmerlos Wiesn After at Legal
 
-Baby Schimmerlos Wiesn After at Legal on Thu 1 Oct, Munich. Disco and Pop. Preview the line-up and save it on soundcheck.
+Baby Schimmerlos Wiesn After at Legal on Thu 1 Oct, Munich. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

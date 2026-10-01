@@ -1,6 +1,6 @@
 # NYE - Carl Cox, Nic Fanciulli & Prospa at Savaya Bali
 
-NYE - Carl Cox, Nic Fanciulli & Prospa at Savaya Bali on Thu 31 Dec, Bali. 3 artists on the bill: Carl Cox, Nic Fanciulli and Prospa. Preview the line-up and save it on soundcheck.
+NYE - Carl Cox, Nic Fanciulli & Prospa at Savaya Bali on Thu 31 Dec, Bali. 3 artists: Carl Cox, Nic Fanciulli and Prospa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

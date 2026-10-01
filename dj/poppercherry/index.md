@@ -1,8 +1,8 @@
 # Popper Cherry
 
-Popper Cherry is a Trance and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Oh Yeah Centre, Belfast on Sat, 31 Oct 2026.
+Popper Cherry is a Trance and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Oh Yeah Centre, Belfast on Sat, 31 Oct 2026.
 
-Popper Cherry is a trance and house artist based in Ireland, tracked on soundcheck, with 13 sets logged across Belfast, Dublin, Glasgow and London. Often billed alongside Katiee.eem, T4T B2B and Dr. Berry. Next up: The Oh Yeah Centre, Belfast on Sat 31 Oct.
+Popper Cherry is a trance and house artist based in Ireland, with 13 gigs on soundcheck across Belfast, Dublin, Glasgow and London. Often billed alongside Katiee.eem, T4T B2B and Dr. Berry. Next up: The Oh Yeah Centre, Belfast on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Popper Cherry is a trance and house artist based in Ireland, tracked on soundche
 
 ## Recently played
 
-- Oh Yeah Music Centre, Belfast — Sat, 5 Sept 2026
-- Electrowerkz, London — Sat, 22 Aug 2026
-- The Oh Yeah Centre, Belfast — Sat, 25 Jul 2026
-- TBA - SECRET LOCATION, Belfast — Sat, 18 Apr 2026
-- The Oh Yeah Centre, Belfast — Sat, 14 Feb 2026
-- TBA - Belfast, Belfast — Sat, 29 Nov 2025
-- The Ulster Sports Club, Belfast — Fri, 31 Oct 2025
-- Electrowerkz, London — Sat, 4 Oct 2025
+- Oh Yeah Music Centre, Belfast · Sat, 5 Sept 2026
+- Electrowerkz, London · Sat, 22 Aug 2026
+- The Oh Yeah Centre, Belfast · Sat, 25 Jul 2026
+- TBA - SECRET LOCATION, Belfast · Sat, 18 Apr 2026
+- The Oh Yeah Centre, Belfast · Sat, 14 Feb 2026
+- TBA - Belfast, Belfast · Sat, 29 Nov 2025
+- The Ulster Sports Club, Belfast · Fri, 31 Oct 2025
+- Electrowerkz, London · Sat, 4 Oct 2025
 
 ## Shares bills with
 

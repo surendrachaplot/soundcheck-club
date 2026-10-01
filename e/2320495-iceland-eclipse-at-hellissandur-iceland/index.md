@@ -1,6 +1,6 @@
 # Iceland Eclipse at Hellissandur, Iceland
 
-Iceland Eclipse at Hellissandur, Iceland on Thu 12 Aug, Iceland. 29 artists on the bill: Agzilla, Ali Love, Ash Lauryn and berlioz and 25 more. Preview the line-up and save it on soundcheck.
+Iceland Eclipse at Hellissandur, Iceland on Thu 12 Aug, Iceland. 29 artists: Agzilla, Ali Love, Ash Lauryn and berlioz and 25 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

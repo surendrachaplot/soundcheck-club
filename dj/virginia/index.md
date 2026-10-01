@@ -1,8 +1,8 @@
 # Virginia
 
-Virginia is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
+Virginia is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bassiani, Tbilisi on Fri, 16 Oct 2026.
 
-Virginia is a house and techno artist based in Germany, tracked on soundcheck, with 250 sets logged across Amsterdam, Athens, Bali and Barcelona and 61 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: Bassiani, Tbilisi on Fri 16 Oct.
+Virginia is a house and techno artist based in Germany, with 250 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 61 more. Often billed alongside AMEX (UK), APP and Alaska. Next up: Bassiani, Tbilisi on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Virginia is a house and techno artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA, Montreal — Sun, 20 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 12 Sept 2026
-- Artheater, Cologne — Fri, 11 Sept 2026
-- RADION, Amsterdam — Sat, 8 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 8 Aug 2026
-- RADION, Amsterdam — Fri, 7 Aug 2026
-- BLITZ, Munich — Fri, 31 Jul 2026
-- The White Hotel, Manchester — Sat, 25 Jul 2026
+- TBA, Montreal · Sun, 20 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 12 Sept 2026
+- Artheater, Cologne · Fri, 11 Sept 2026
+- RADION, Amsterdam · Sat, 8 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 8 Aug 2026
+- RADION, Amsterdam · Fri, 7 Aug 2026
+- BLITZ, Munich · Fri, 31 Jul 2026
+- The White Hotel, Manchester · Sat, 25 Jul 2026
 
 ## Shares bills with
 

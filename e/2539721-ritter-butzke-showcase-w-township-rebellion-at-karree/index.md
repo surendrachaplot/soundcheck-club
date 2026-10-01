@@ -1,6 +1,6 @@
 # Ritter Butzke Showcase w. Township Rebellion at Karree
 
-Ritter Butzke Showcase w. Township Rebellion at Karree on Sat 28 Nov, Baden W Rttemberg. 4 artists on the bill: Käptn Hässler, Prismode, Solvane and Township Rebellion. Preview the line-up and save it on soundcheck.
+Ritter Butzke Showcase w. Township Rebellion at Karree on Sat 28 Nov, Baden W Rttemberg. 4 artists: Käptn Hässler, Prismode, Solvane and Township Rebellion. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

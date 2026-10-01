@@ -1,6 +1,6 @@
 # La Cova Loca at La Cova
 
-La Cova Loca on Sat 3 Oct, Hamburg. 1 artist on the bill: Billy Bam. Techno. Preview the line-up and save it on soundcheck.
+La Cova Loca on Sat 3 Oct, Hamburg. 1 artist: Billy Bam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

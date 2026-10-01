@@ -1,6 +1,6 @@
 # BEAUZ ∞ ROXY Prague at Roxy
 
-BEAUZ ∞ ROXY Prague at Roxy on Sat 24 Oct, Prague. Techno and Pop. Preview the line-up and save it on soundcheck.
+BEAUZ ∞ ROXY Prague at Roxy on Sat 24 Oct, Prague. Techno and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

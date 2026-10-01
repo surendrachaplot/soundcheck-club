@@ -1,6 +1,6 @@
 # KTX at Nyapi
 
-KTX at Nyapi on Sat 24 Oct, Seoul. 5 artists on the bill: .2ndfloor, chani, Hender and VENEBOE and 1 more. Preview the line-up and save it on soundcheck.
+KTX at Nyapi on Sat 24 Oct, Seoul. 5 artists: .2ndfloor, chani, Hender and VENEBOE and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

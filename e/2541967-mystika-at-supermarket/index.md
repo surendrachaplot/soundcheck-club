@@ -1,6 +1,6 @@
 # Mystika at Supermarket
 
-Mystika at Supermarket on Sat 17 Oct, Zurich. 1 artist on the bill: AfroKillerz. Afro House. Preview the line-up and save it on soundcheck.
+Mystika at Supermarket on Sat 17 Oct, Zurich. 1 artist: AfroKillerz. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

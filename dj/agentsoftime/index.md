@@ -1,8 +1,8 @@
 # Agents Of Time
 
-Agents Of Time is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Luz De Gas, Barcelona on Sat, 7 Nov 2026.
+Agents Of Time is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Luz De Gas, Barcelona on Sat, 7 Nov 2026.
 
-Agents Of Time is a techno and house artist based in Italy, tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Stephan Bodzin, Henri Bergmann and Artbat. Next up: Luz De Gas, Barcelona on Sat 7 Nov.
+Agents Of Time is a techno and house artist based in Italy, with 123 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Stephan Bodzin, Henri Bergmann and Artbat. Next up: Luz De Gas, Barcelona on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Agents Of Time is a techno and house artist based in Italy, tracked on soundchec
 
 ## Recently played
 
-- TBA - Newcastle Australia, Newcastle — Fri, 25 Sept 2026
-- Maitland Showground, Sydney — Fri, 25 Sept 2026
-- [UNVRS], Ibiza — Tue, 15 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- Strijkviertel, Utrecht — Sat, 5 Sept 2026
-- TBA - Mandarine Tent, Punta Carrasco, Buenos Aires — Sat, 22 Aug 2026
-- Avalon Hollywood, Los Angeles — Fri, 3 Jul 2026
-- Hï Ibiza, Ibiza — Thu, 11 Jun 2026
+- TBA - Newcastle Australia, Newcastle · Fri, 25 Sept 2026
+- Maitland Showground, Sydney · Fri, 25 Sept 2026
+- [UNVRS], Ibiza · Tue, 15 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- Strijkviertel, Utrecht · Sat, 5 Sept 2026
+- TBA - Mandarine Tent, Punta Carrasco, Buenos Aires · Sat, 22 Aug 2026
+- Avalon Hollywood, Los Angeles · Fri, 3 Jul 2026
+- Hï Ibiza, Ibiza · Thu, 11 Jun 2026
 
 ## Shares bills with
 

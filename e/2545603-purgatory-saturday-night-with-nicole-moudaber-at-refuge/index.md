@@ -1,6 +1,6 @@
 # PURGATORY: Saturday Night with Nicole Moudaber at Refuge
 
-PURGATORY: Saturday Night with Nicole Moudaber at Refuge on Sat 31 Oct, New York City. 1 artist on the bill: Nicole Moudaber. Preview the line-up and save it on soundcheck.
+PURGATORY: Saturday Night with Nicole Moudaber at Refuge on Sat 31 Oct, New York City. 1 artist: Nicole Moudaber. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

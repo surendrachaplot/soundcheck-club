@@ -1,6 +1,6 @@
 # qualcosa qualcosa at Nodo Bar
 
-qualcosa qualcosa at Nodo Bar on Fri 2 Oct, Milan. Electronica. Preview the line-up and save it on soundcheck.
+qualcosa qualcosa at Nodo Bar on Fri 2 Oct, Milan. Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Northern Soul Day Party at Digital
 
-Northern Soul Day Party at Digital on Sat 7 Nov, Newcastle. Preview the line-up and save it on soundcheck.
+Northern Soul Day Party at Digital on Sat 7 Nov, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

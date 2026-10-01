@@ -1,6 +1,6 @@
 # Don't Walk: Strut at Low Profile Studios
 
-Don't Walk: Strut at Low Profile Studios on Sat 17 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+Don't Walk: Strut at Low Profile Studios on Sat 17 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

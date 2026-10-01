@@ -1,6 +1,6 @@
 # LA RESISTENCIA - Lethal industry at Fabrik
 
-LA RESISTENCIA - Lethal industry at Fabrik on Sat 17 Oct, Madrid. 7 artists on the bill: Brenda Serna, Carlos Pérez, Cristian Varela and Gaston Zani and 3 more. Preview the line-up and save it on soundcheck.
+LA RESISTENCIA - Lethal industry at Fabrik on Sat 17 Oct, Madrid. 7 artists: Brenda Serna, Carlos Pérez, Cristian Varela and Gaston Zani and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

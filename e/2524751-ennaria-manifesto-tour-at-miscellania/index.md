@@ -1,6 +1,6 @@
 # Ennaria - Manifesto Tour at Miscellania
 
-Ennaria - Manifesto Tour at Miscellania on Fri 9 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+Ennaria - Manifesto Tour at Miscellania on Fri 9 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

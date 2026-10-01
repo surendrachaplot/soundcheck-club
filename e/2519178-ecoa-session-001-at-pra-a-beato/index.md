@@ -1,6 +1,6 @@
 # ECOA SESSION 001 at Praça Beato
 
-ECOA SESSION 001 at Praça Beato on Fri 2 Oct, Lisbon. House and Afro House. Preview the line-up and save it on soundcheck.
+ECOA SESSION 001 at Praça Beato on Fri 2 Oct, Lisbon. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

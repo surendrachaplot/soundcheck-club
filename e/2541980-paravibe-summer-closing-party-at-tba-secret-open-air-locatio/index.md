@@ -1,6 +1,6 @@
 # PARAVIBE - Summer Closing Party at TBA - Secret Open Air Location, London
 
-PARAVIBE - Summer Closing Party at TBA - Secret Open Air Location, London on Sat 3 Oct, London. House and Minimal. Preview the line-up and save it on soundcheck.
+PARAVIBE - Summer Closing Party at TBA - Secret Open Air Location, London on Sat 3 Oct, London. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

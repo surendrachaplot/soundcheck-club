@@ -1,6 +1,6 @@
 # It's Ariana Bitch Party Nantes avec Mami Watta at New Factory
 
-It's Ariana Bitch Party Nantes avec Mami Watta at New Factory on Fri 9 Oct, Nantes. Pop. Preview the line-up and save it on soundcheck.
+It's Ariana Bitch Party Nantes avec Mami Watta at New Factory on Fri 9 Oct, Nantes. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

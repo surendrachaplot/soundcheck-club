@@ -1,6 +1,6 @@
 # K-LONE & Facta [all night long] at The Love Inn
 
-K-LONE & Facta [all night long] at The Love Inn on Fri 2 Oct, Bristol. 2 artists on the bill: Facta and K-LONE. Experimental and Club. Preview the line-up and save it on soundcheck.
+K-LONE & Facta [all night long] at The Love Inn on Fri 2 Oct, Bristol. 2 artists: Facta and K-LONE. Experimental and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

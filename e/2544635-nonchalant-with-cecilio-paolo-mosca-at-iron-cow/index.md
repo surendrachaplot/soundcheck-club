@@ -1,6 +1,6 @@
 # NonChalant with Cecilio & Paolo Mosca at Iron Cow
 
-NonChalant with Cecilio & Paolo Mosca at Iron Cow on Sun 11 Oct, Orlando. 3 artists on the bill: Cataclisma, Cecilio and Paolo Mosca. Preview the line-up and save it on soundcheck.
+NonChalant with Cecilio & Paolo Mosca at Iron Cow on Sun 11 Oct, Orlando. 3 artists: Cataclisma, Cecilio and Paolo Mosca. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

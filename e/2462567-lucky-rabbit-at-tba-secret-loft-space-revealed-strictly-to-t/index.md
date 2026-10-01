@@ -1,6 +1,6 @@
 # Lucky Rabbit at TBA - Secret Loft space (Revealed strictly to ticket holders via email before the event).
 
-Lucky Rabbit at TBA - Secret Loft space (Revealed strictly to ticket holders via email before the event). on Fri 30 Oct, Detroit. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Lucky Rabbit at TBA - Secret Loft space (Revealed strictly to ticket holders via email before the event). on Fri 30 Oct, Detroit. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EXTRA ROOM 009 - LIPO!, DJ TONE LE BONE, SICKZAG at 33/45 Club
 
-EXTRA ROOM 009 - LIPO!, DJ TONE LE BONE, SICKZAG at 33/45 Club on Thu 1 Oct, Valencia. Techno and House. Preview the line-up and save it on soundcheck.
+EXTRA ROOM 009 - LIPO!, DJ TONE LE BONE, SICKZAG at 33/45 Club on Thu 1 Oct, Valencia. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

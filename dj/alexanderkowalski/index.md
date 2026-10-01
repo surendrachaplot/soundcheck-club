@@ -1,8 +1,8 @@
 # Alexander Kowalski
 
-Alexander Kowalski is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at EL SÓTANO, Madrid on Sat, 7 Nov 2026.
+Alexander Kowalski is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at EL SÓTANO, Madrid on Sat, 7 Nov 2026.
 
-Alexander Kowalski is a techno and house artist based in Germany, tracked on soundcheck, with 46 sets logged across Amsterdam, Athens, Barcelona and Berlin and 5 more. Often billed alongside BLACK ANTHEM RESTORE, Any Mello and Esther Dune. Next up: EL SÓTANO, Madrid on Sat 7 Nov.
+Alexander Kowalski is a techno and house artist based in Germany, with 46 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 5 more. Often billed alongside BLACK ANTHEM RESTORE, Any Mello and Esther Dune. Next up: EL SÓTANO, Madrid on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Alexander Kowalski is a techno and house artist based in Germany, tracked on sou
 
 ## Recently played
 
-- RSO.BERLIN, Berlin — Sat, 5 Sept 2026
-- OXI, Berlin — Tue, 25 Aug 2026
-- Tresor / Globus, Berlin — Mon, 20 Apr 2026
-- RSO.BERLIN, Berlin — Sat, 14 Mar 2026
-- OXI, Berlin — Tue, 3 Mar 2026
-- OXI, Berlin — Tue, 21 Oct 2025
-- EL SÓTANO, Madrid — Sun, 5 Oct 2025
-- Jasna 1, Warsaw — Fri, 12 Sept 2025
+- RSO.BERLIN, Berlin · Sat, 5 Sept 2026
+- OXI, Berlin · Tue, 25 Aug 2026
+- Tresor / Globus, Berlin · Mon, 20 Apr 2026
+- RSO.BERLIN, Berlin · Sat, 14 Mar 2026
+- OXI, Berlin · Tue, 3 Mar 2026
+- OXI, Berlin · Tue, 21 Oct 2025
+- EL SÓTANO, Madrid · Sun, 5 Oct 2025
+- Jasna 1, Warsaw · Fri, 12 Sept 2025
 
 ## Shares bills with
 

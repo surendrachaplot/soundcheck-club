@@ -1,8 +1,8 @@
 # KŌMA (3)
 
-KŌMA (3) is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Fabriek, Brussels on Fri, 9 Oct 2026.
+KŌMA (3) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Fabriek, Brussels on Fri, 9 Oct 2026.
 
-KŌMA is a techno and bass artist based in Belgium, tracked on soundcheck, with 45 sets logged across Antwerp, Berlin, Bristol and Brussels and 6 more. Often billed alongside Shoplifter, VCR and Erykah. Next up: La Fabriek, Brussels on Fri 9 Oct.
+KŌMA is a techno and bass artist based in Belgium, with 45 gigs on soundcheck across Antwerp, Berlin, Bristol and Brussels and 6 more. Often billed alongside Shoplifter, VCR and Erykah. Next up: La Fabriek, Brussels on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ KŌMA is a techno and bass artist based in Belgium, tracked on soundcheck, with 
 
 ## Recently played
 
-- De Studio, Antwerp — Fri, 11 Sept 2026
-- Circle Park, Brussels — Sat, 29 Aug 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Upsidedown, Osaka — Sat, 30 May 2026
-- TBA - SECRET VENUE in NISHIAZABU ※, Tokyo — Fri, 22 May 2026
-- Fuse, Brussels — Sat, 18 Apr 2026
-- C12, Brussels — Sat, 11 Apr 2026
-- Botanique, Brussels — Wed, 8 Apr 2026
+- De Studio, Antwerp · Fri, 11 Sept 2026
+- Circle Park, Brussels · Sat, 29 Aug 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- Upsidedown, Osaka · Sat, 30 May 2026
+- TBA - SECRET VENUE in NISHIAZABU ※, Tokyo · Fri, 22 May 2026
+- Fuse, Brussels · Sat, 18 Apr 2026
+- C12, Brussels · Sat, 11 Apr 2026
+- Botanique, Brussels · Wed, 8 Apr 2026
 
 ## Shares bills with
 

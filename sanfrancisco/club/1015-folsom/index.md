@@ -1,8 +1,8 @@
 # 1015 Folsom
 
-1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DJ Smokey + ilykimchi + Techg1rls" on Fri, 2 Oct 2026.
+1015 Folsom is a music venue in San Francisco/Oakland with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DJ Smokey + ilykimchi + Techg1rls" on Fri, 2 Oct 2026.
 
-1015 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 14 upcoming gigs, with line-ups including Andy C, Cinthie, DE ALMA and Discnogirl and 2 more. Browse upcoming dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
+1015 Folsom is a music venue in San Francisco/Oakland listed on soundcheck. 14 upcoming gigs, with line-ups including Andy C, Cinthie, DE ALMA and Discnogirl and 2 more. See dates, start times and who's playing. 1015 Folsom Street; San Francisco, CA 94103; United States.
 
 ## What's on
 

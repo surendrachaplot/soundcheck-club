@@ -1,8 +1,8 @@
 # HypoGeo
 
-HypoGeo is a Psytrance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
+HypoGeo is a Psytrance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
 
-HypoGeo is a psytrance and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Berlin, Brussels and Dublin and 2 more. Often billed alongside Ash Roy, Josephine Wedekind and Krumelur. Next up: PKH Warehouse, Berlin on Sat 10 Oct.
+HypoGeo is a psytrance and techno artist based in Germany, with 13 gigs on soundcheck across Amsterdam, Berlin, Brussels and Dublin and 2 more. Often billed alongside Ash Roy, Josephine Wedekind and Krumelur. Next up: PKH Warehouse, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ HypoGeo is a psytrance and techno artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Cabaret  Aléatoire, Marseille — Fri, 1 May 2026
-- Void Hall, Berlin — Fri, 5 Dec 2025
-- Ruigoord, Amsterdam — Sat, 25 Oct 2025
-- Void Club, Berlin — Fri, 11 Jul 2025
-- OST, Berlin — Fri, 4 Apr 2025
-- TBA - Secret Location, Berlin — Fri, 25 Oct 2024
-- Südpol, Hamburg — Sat, 25 May 2024
-- OST, Berlin — Fri, 19 Apr 2024
+- Cabaret  Aléatoire, Marseille · Fri, 1 May 2026
+- Void Hall, Berlin · Fri, 5 Dec 2025
+- Ruigoord, Amsterdam · Sat, 25 Oct 2025
+- Void Club, Berlin · Fri, 11 Jul 2025
+- OST, Berlin · Fri, 4 Apr 2025
+- TBA - Secret Location, Berlin · Fri, 25 Oct 2024
+- Südpol, Hamburg · Sat, 25 May 2024
+- OST, Berlin · Fri, 19 Apr 2024
 
 ## Shares bills with
 

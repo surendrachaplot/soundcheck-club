@@ -1,6 +1,6 @@
 # Not Surrender meets Jah Heavy Load at TBA - JC Bouckenborgh
 
-Not Surrender meets Jah Heavy Load at TBA - JC Bouckenborgh on Sat 10 Oct, Antwerp. Preview the line-up and save it on soundcheck.
+Not Surrender meets Jah Heavy Load at TBA - JC Bouckenborgh on Sat 10 Oct, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

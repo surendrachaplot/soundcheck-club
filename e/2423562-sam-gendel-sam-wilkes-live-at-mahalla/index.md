@@ -1,6 +1,6 @@
 # Sam Gendel & Sam Wilkes Live at MaHalla
 
-Sam Gendel & Sam Wilkes Live at MaHalla on Sat 28 Nov, Berlin. Jazz. Preview the line-up and save it on soundcheck.
+Sam Gendel & Sam Wilkes Live at MaHalla on Sat 28 Nov, Berlin. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

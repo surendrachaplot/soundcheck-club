@@ -1,8 +1,8 @@
 # TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 28 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Studio Stereo x Kuma Sound pres. Brieela" on Thu, 1 Oct 2026.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona with 28 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Studio Stereo x Kuma Sound pres. Brieela" on Thu, 1 Oct 2026.
 
-TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 28 upcoming gigs, with line-ups including Adria (ES), Adrian Grösser, Alex Garcia and Alvaro Medina and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue in Barcelona listed on soundcheck. 28 upcoming gigs, with line-ups including Adria (ES), Adrian Grösser, Alex Garcia and Alvaro Medina and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Tinzo + Jojo's Dark Library - Montreal at Le Studio TD
 
-Tinzo + Jojo's Dark Library - Montreal at Le Studio TD on Sat 7 Nov, Montreal. 2 artists on the bill: Jojo Lorenzo and Tinzo. House and New Wave. Preview the line-up and save it on soundcheck.
+Tinzo + Jojo's Dark Library - Montreal at Le Studio TD on Sat 7 Nov, Montreal. 2 artists: Jojo Lorenzo and Tinzo. House and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

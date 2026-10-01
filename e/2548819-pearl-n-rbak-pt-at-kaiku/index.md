@@ -1,6 +1,6 @@
 # Pearl: Nørbak (PT) at Kaiku
 
-Pearl: Nørbak (PT) at Kaiku on Fri 30 Oct, Helsinki. 3 artists on the bill: Nørbak, Ozan and Ronja. Preview the line-up and save it on soundcheck.
+Pearl: Nørbak (PT) at Kaiku on Fri 30 Oct, Helsinki. 3 artists: Nørbak, Ozan and Ronja. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

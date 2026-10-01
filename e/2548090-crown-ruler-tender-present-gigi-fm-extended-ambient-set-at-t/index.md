@@ -1,6 +1,6 @@
 # Crown Ruler & Tender Present: GiGi FM Extended Ambient Set at Tender
 
-Crown Ruler & Tender Present: GiGi FM Extended Ambient Set on Fri 2 Oct, Melbourne. 1 artist on the bill: GiGi FM. Preview the line-up and save it on soundcheck.
+Crown Ruler & Tender Present: GiGi FM Extended Ambient Set on Fri 2 Oct, Melbourne. 1 artist: GiGi FM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

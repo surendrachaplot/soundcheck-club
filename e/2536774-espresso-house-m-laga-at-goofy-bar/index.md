@@ -1,6 +1,6 @@
 # Espresso House [Málaga] at Goofy Bar
 
-Espresso House [Málaga] at Goofy Bar on Sun 18 Oct, Malaga. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Espresso House [Málaga] at Goofy Bar on Sun 18 Oct, Malaga. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

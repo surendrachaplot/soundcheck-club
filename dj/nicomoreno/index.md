@@ -1,8 +1,8 @@
 # Nico Moreno
 
-Nico Moreno is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Nico Moreno is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Nico Moreno is a techno and house artist based in France, tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Nico Moreno is a techno and house artist based in France, with 200 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 69 more. Often billed alongside I Hate Models, DYEN and Trym. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Nico Moreno is a techno and house artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City — Sat, 19 Sept 2026
-- TBA - Grand Parc Miribel Jonage, Lyon — Sat, 12 Sept 2026
-- Circuit de Barcelona - Catalunya, Barcelona — Fri, 11 Sept 2026
-- TBA, Toronto — Sun, 6 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Medusa Beach, Valencia — Thu, 13 Aug 2026
-- Forte Antenne, Rome — Sat, 25 Jul 2026
-- Hippodrome De Longchamp, Paris — Fri, 26 Jun 2026
+- TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City · Sat, 19 Sept 2026
+- TBA - Grand Parc Miribel Jonage, Lyon · Sat, 12 Sept 2026
+- Circuit de Barcelona - Catalunya, Barcelona · Fri, 11 Sept 2026
+- TBA, Toronto · Sun, 6 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Medusa Beach, Valencia · Thu, 13 Aug 2026
+- Forte Antenne, Rome · Sat, 25 Jul 2026
+- Hippodrome De Longchamp, Paris · Fri, 26 Jun 2026
 
 ## Shares bills with
 

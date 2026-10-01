@@ -1,6 +1,6 @@
 # Ambient Leeds: Sophia Djebel Rose // TejpLoopare // Shx at The Fox & Newt Pub
 
-Ambient Leeds: Sophia Djebel Rose // TejpLoopare // Shx at The Fox & Newt Pub on Sun 18 Oct, Leeds. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Ambient Leeds: Sophia Djebel Rose // TejpLoopare // Shx at The Fox & Newt Pub on Sun 18 Oct, Leeds. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

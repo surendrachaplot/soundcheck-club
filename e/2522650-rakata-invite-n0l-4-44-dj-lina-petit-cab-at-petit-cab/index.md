@@ -1,6 +1,6 @@
 # Rakata invite N0l 4.44 + DJ Lina @ Petit Cab at Petit CAB
 
-Rakata invite N0l 4.44 + DJ Lina @ Petit Cab at Petit CAB on Sat 7 Nov, Marseille. Reggaeton and Neo Perreo. Preview the line-up and save it on soundcheck.
+Rakata invite N0l 4.44 + DJ Lina @ Petit Cab at Petit CAB on Sat 7 Nov, Marseille. Reggaeton and Neo Perreo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

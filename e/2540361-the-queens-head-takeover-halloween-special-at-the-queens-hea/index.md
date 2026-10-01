@@ -1,6 +1,6 @@
 # The Queens Head Takeover Halloween Special at The Queens Head, Hanham
 
-The Queens Head Takeover Halloween Special at The Queens Head, Hanham on Sat 31 Oct, Bristol. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+The Queens Head Takeover Halloween Special at The Queens Head, Hanham on Sat 31 Oct, Bristol. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

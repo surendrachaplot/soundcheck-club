@@ -1,8 +1,8 @@
 # inda Flo
 
-inda Flo is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cu, London on Fri, 9 Oct 2026.
+inda Flo is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cu, London on Fri, 9 Oct 2026.
 
-inda Flo is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Berlin, Birmingham, Bristol and London and 2 more. Often billed alongside Hacker Boi Ale, Sha3by Chic and Adela. Next up: Cu, London on Fri 9 Oct.
+inda Flo is a techno and bass artist based in United Kingdom, with 59 gigs on soundcheck across Berlin, Birmingham, Bristol and London and 2 more. Often billed alongside Hacker Boi Ale, Sha3by Chic and Adela. Next up: Cu, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ inda Flo is a techno and bass artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- Club Makossa, London — Sun, 5 Jul 2026
-- Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
-- IKLECTIK, London — Fri, 26 Jun 2026
-- Planet Wax, London — Sat, 13 Jun 2026
-- Grow, London — Fri, 29 May 2026
-- Hoxton Cabin, London — Fri, 29 May 2026
-- Club Silly (Bosi), London — Sun, 24 May 2026
-- EartH, London — Fri, 8 May 2026
+- Club Makossa, London · Sun, 5 Jul 2026
+- Hackney Wick Multiple Venues, London · Sat, 27 Jun 2026
+- IKLECTIK, London · Fri, 26 Jun 2026
+- Planet Wax, London · Sat, 13 Jun 2026
+- Grow, London · Fri, 29 May 2026
+- Hoxton Cabin, London · Fri, 29 May 2026
+- Club Silly (Bosi), London · Sun, 24 May 2026
+- EartH, London · Fri, 8 May 2026
 
 ## Shares bills with
 

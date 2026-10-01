@@ -1,6 +1,6 @@
 # 909 x WAV presents Seladoria at WaV
 
-909 x WAV presents Seladoria at WaV on Sat 28 Nov, Liverpool. Techno and House. Preview the line-up and save it on soundcheck.
+909 x WAV presents Seladoria at WaV on Sat 28 Nov, Liverpool. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Music BAR Bounce at Music BAR Bounce
 
-Music BAR Bounce on Sun 4 Oct, Tokyo. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+Music BAR Bounce on Sun 4 Oct, Tokyo. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

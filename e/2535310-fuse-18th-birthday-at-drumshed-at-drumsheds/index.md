@@ -1,6 +1,6 @@
 # FUSE 18th Birthday at Drumshed at DRUMSHEDS
 
-FUSE 18th Birthday at Drumshed at DRUMSHEDS on Sat 28 Nov, London. Tech House. Preview the line-up and save it on soundcheck.
+FUSE 18th Birthday at Drumshed at DRUMSHEDS on Sat 28 Nov, London. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

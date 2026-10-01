@@ -1,6 +1,6 @@
 # Hawd That 008 // DJ ADHD at La Cheetah Club
 
-Hawd That 008 // DJ ADHD at La Cheetah Club on Fri 9 Oct, Glasgow. 3 artists on the bill: DJ ADHD, fergusmcnally and Work Coach. Techno and Electro. Preview the line-up and save it on soundcheck.
+Hawd That 008 // DJ ADHD at La Cheetah Club on Fri 9 Oct, Glasgow. 3 artists: DJ ADHD, fergusmcnally and Work Coach. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

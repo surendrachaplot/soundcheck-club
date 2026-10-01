@@ -1,8 +1,8 @@
 # notinbed
 
-notinbed is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Le Sucre, Lyon on Fri, 2 Oct 2026.
+notinbed is a Electro and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Le Sucre, Lyon on Fri, 2 Oct 2026.
 
-notinbed is an electro and techno artist based in France, tracked on soundcheck, with 20 sets logged across Berlin, Lyon, Marseille and Paris and 1 more. Often billed alongside Lisa More, MCR-T and amne. Next up: Le Sucre, Lyon on Fri 2 Oct.
+notinbed is an electro and techno artist based in France, with 20 gigs on soundcheck across Berlin, Lyon, Marseille and Paris and 1 more. Often billed alongside Lisa More, MCR-T and amne. Next up: Le Sucre, Lyon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ notinbed is an electro and techno artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- Virage, Paris — Thu, 9 Jul 2026
-- Virage, Paris — Thu, 9 Jul 2026
-- La Machine Du Moulin Rouge, Paris — Fri, 29 May 2026
-- Karmen Camina, Strasbourg — Fri, 22 May 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
-- Badaboum, Paris — Thu, 9 Apr 2026
-- Karmen Camina, Strasbourg — Sat, 28 Mar 2026
-- La Bellevilloise, Paris — Thu, 12 Mar 2026
+- Virage, Paris · Thu, 9 Jul 2026
+- Virage, Paris · Thu, 9 Jul 2026
+- La Machine Du Moulin Rouge, Paris · Fri, 29 May 2026
+- Karmen Camina, Strasbourg · Fri, 22 May 2026
+- TBA - Les Grandes Locos , Lyon · Wed, 13 May 2026
+- Badaboum, Paris · Thu, 9 Apr 2026
+- Karmen Camina, Strasbourg · Sat, 28 Mar 2026
+- La Bellevilloise, Paris · Thu, 12 Mar 2026
 
 ## Shares bills with
 

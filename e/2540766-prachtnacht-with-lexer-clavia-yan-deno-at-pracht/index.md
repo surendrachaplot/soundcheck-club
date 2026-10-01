@@ -1,6 +1,6 @@
 # PrachtNACHT with Lexer, Clavia., Yan Deno at Pracht
 
-PrachtNACHT with Lexer, Clavia., Yan Deno on Sat 10 Oct, Frankfurt. 1 artist on the bill: Lexer. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+PrachtNACHT with Lexer, Clavia., Yan Deno on Sat 10 Oct, Frankfurt. 1 artist: Lexer. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

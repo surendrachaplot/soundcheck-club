@@ -1,8 +1,8 @@
 # B Hills
 
-B Hills is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Elsewhere, New York City on Sat, 3 Oct 2026.
+B Hills is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Elsewhere, New York City on Sat, 3 Oct 2026.
 
-B Hills is a house and deep house artist based in United States of America, tracked on soundcheck, with 14 sets logged across New York City. Often billed alongside Amil, Saint Valentine and Clearcast. Next up: Elsewhere, New York City on Sat 3 Oct.
+B Hills is a house and deep house artist based in United States of America, with 14 gigs on soundcheck across New York City. Often billed alongside Amil, Saint Valentine and Clearcast. Next up: Elsewhere, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ B Hills is a house and deep house artist based in United States of America, trac
 
 ## Recently played
 
-- Jupiter Disco, New York City — Sun, 26 Jul 2026
-- Crossroads Cafe, New York City — Sat, 20 Sept 2025
-- Jupiter Disco, New York City — Sun, 31 Aug 2025
-- Mood Ring, New York City — Sat, 16 Aug 2025
-- TBA - 298 Graham Ave, Brooklyn, NY 11211, New York City — Sat, 19 Jul 2025
-- Mood Ring, New York City — Fri, 20 Jun 2025
-- Jupiter Disco, New York City — Sun, 18 May 2025
-- Mood Ring, New York City — Fri, 9 May 2025
+- Jupiter Disco, New York City · Sun, 26 Jul 2026
+- Crossroads Cafe, New York City · Sat, 20 Sept 2025
+- Jupiter Disco, New York City · Sun, 31 Aug 2025
+- Mood Ring, New York City · Sat, 16 Aug 2025
+- TBA - 298 Graham Ave, Brooklyn, NY 11211, New York City · Sat, 19 Jul 2025
+- Mood Ring, New York City · Fri, 20 Jun 2025
+- Jupiter Disco, New York City · Sun, 18 May 2025
+- Mood Ring, New York City · Fri, 9 May 2025
 
 ## Shares bills with
 

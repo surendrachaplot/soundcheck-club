@@ -1,6 +1,6 @@
 # Precision at Eastern Bloc Records
 
-Precision at Eastern Bloc Records on Fri 6 Nov, Manchester. 2 artists on the bill: Connor Southerland and Dig This. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Precision at Eastern Bloc Records on Fri 6 Nov, Manchester. 2 artists: Connor Southerland and Dig This. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

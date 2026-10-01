@@ -1,8 +1,8 @@
 # Talita Otović
 
-Talita Otović is a Hardcore and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at La Station - Gare des Mines, Paris on Sat, 10 Oct 2026.
+Talita Otović is a Hardcore and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Station - Gare des Mines, Paris on Sat, 10 Oct 2026.
 
-Talita Otović is a hardcore and experimental artist based in France, tracked on soundcheck, with 13 sets logged across Brussels, Geneva, Paris and Vienna. Often billed alongside Karlfroye, KimberlaID and Nouminouw. Next up: La Station - Gare des Mines, Paris on Sat 10 Oct.
+Talita Otović is a hardcore and experimental artist based in France, with 13 gigs on soundcheck across Brussels, Geneva, Paris and Vienna. Often billed alongside Karlfroye, KimberlaID and Nouminouw. Next up: La Station - Gare des Mines, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Talita Otović is a hardcore and experimental artist based in France, tracked on
 
 ## Recently played
 
-- Le Trabendo, Paris — Fri, 26 Jun 2026
-- TBA - L'Écurie, Geneva — Sat, 23 May 2026
-- La Station - Gare des Mines, Paris — Sat, 25 Apr 2026
-- Recyclart, Brussels — Sat, 6 Dec 2025
-- Petit Bain, Paris — Fri, 31 Oct 2025
-- La Station - Gare des Mines, Paris — Sat, 4 Oct 2025
-- Virage, Paris — Fri, 25 Jul 2025
-- Point Ephémère, Paris — Fri, 6 Jun 2025
+- Le Trabendo, Paris · Fri, 26 Jun 2026
+- TBA - L'Écurie, Geneva · Sat, 23 May 2026
+- La Station - Gare des Mines, Paris · Sat, 25 Apr 2026
+- Recyclart, Brussels · Sat, 6 Dec 2025
+- Petit Bain, Paris · Fri, 31 Oct 2025
+- La Station - Gare des Mines, Paris · Sat, 4 Oct 2025
+- Virage, Paris · Fri, 25 Jul 2025
+- Point Ephémère, Paris · Fri, 6 Jun 2025
 
 ## Shares bills with
 

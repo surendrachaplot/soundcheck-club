@@ -1,8 +1,8 @@
 # OLHA
 
-OLHA is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Giri, Berlin on Fri, 9 Oct 2026.
+OLHA is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Giri, Berlin on Fri, 9 Oct 2026.
 
-OLHA is a techno and trance artist based in Ukraine, tracked on soundcheck, with 49 sets logged across Amsterdam, Antwerp, Berlin and Copenhagen and 7 more. Often billed alongside SOCIAL VLAD, Matriark and Ani Kvirkvelia. Next up: Giri, Berlin on Fri 9 Oct.
+OLHA is a techno and trance artist based in Ukraine, with 49 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Copenhagen and 7 more. Often billed alongside SOCIAL VLAD, Matriark and Ani Kvirkvelia. Next up: Giri, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ OLHA is a techno and trance artist based in Ukraine, tracked on soundcheck, with
 
 ## Recently played
 
-- Den Anden Side, Copenhagen — Fri, 14 Aug 2026
-- RSO.BERLIN, Berlin — Thu, 13 Aug 2026
-- Renate, Berlin — Fri, 10 Jul 2026
-- OXI, Berlin — Sun, 28 Jun 2026
-- TRAUM, Antwerp — Sat, 13 Jun 2026
-- Neue Zukunft, Berlin — Sat, 6 Jun 2026
-- Berghain | Panorama Bar | Säule, Berlin — Thu, 28 May 2026
-- Jasna 1, Warsaw — Sat, 23 May 2026
+- Den Anden Side, Copenhagen · Fri, 14 Aug 2026
+- RSO.BERLIN, Berlin · Thu, 13 Aug 2026
+- Renate, Berlin · Fri, 10 Jul 2026
+- OXI, Berlin · Sun, 28 Jun 2026
+- TRAUM, Antwerp · Sat, 13 Jun 2026
+- Neue Zukunft, Berlin · Sat, 6 Jun 2026
+- Berghain | Panorama Bar | Säule, Berlin · Thu, 28 May 2026
+- Jasna 1, Warsaw · Sat, 23 May 2026
 
 ## Shares bills with
 

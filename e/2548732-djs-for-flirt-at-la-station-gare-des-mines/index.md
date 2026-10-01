@@ -1,6 +1,6 @@
 # Djs for FLIRT at La Station - Gare des Mines
 
-Djs for FLIRT at La Station - Gare des Mines on Fri 9 Oct, Paris. 6 artists on the bill: DJ Music, fetva, Golce and Lux18 and 2 more. Preview the line-up and save it on soundcheck.
+Djs for FLIRT at La Station - Gare des Mines on Fri 9 Oct, Paris. 6 artists: DJ Music, fetva, Golce and Lux18 and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

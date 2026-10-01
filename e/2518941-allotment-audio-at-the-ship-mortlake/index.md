@@ -1,6 +1,6 @@
 # Allotment Audio at The Ship Mortlake
 
-Allotment Audio at The Ship Mortlake on Sat 3 Oct, London. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Allotment Audio at The Ship Mortlake on Sat 3 Oct, London. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

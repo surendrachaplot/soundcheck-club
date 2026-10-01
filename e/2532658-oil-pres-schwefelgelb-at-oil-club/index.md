@@ -1,6 +1,6 @@
 # OIL Pres. Schwefelgelb at OIL Club
 
-OIL Pres. Schwefelgelb at OIL Club on Fri 23 Oct, Shenzhen. 1 artist on the bill: Schwefelgelb. Techno and Electro. Preview the line-up and save it on soundcheck.
+OIL Pres. Schwefelgelb at OIL Club on Fri 23 Oct, Shenzhen. 1 artist: Schwefelgelb. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

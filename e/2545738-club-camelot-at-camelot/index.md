@@ -1,6 +1,6 @@
 # CLUB Camelot at Camelot
 
-CLUB Camelot on Sat 3 Oct, Tokyo. Techno and House. Preview the line-up and save it on soundcheck.
+CLUB Camelot on Sat 3 Oct, Tokyo. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

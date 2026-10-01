@@ -1,6 +1,6 @@
 # DOWNSTAIRS DISCO at Wax Music Lounge
 
-DOWNSTAIRS DISCO at Wax Music Lounge on Fri 11 Dec, Melbourne. House and Disco. Preview the line-up and save it on soundcheck.
+DOWNSTAIRS DISCO at Wax Music Lounge on Fri 11 Dec, Melbourne. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

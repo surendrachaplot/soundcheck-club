@@ -1,8 +1,8 @@
 # Kevin Matto
 
-Kevin Matto is a Techno and Dub Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Powered by: Void Acoustics, Madrid on Sat, 10 Oct 2026.
+Kevin Matto is a Techno and Dub Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Powered by: Void Acoustics, Madrid on Sat, 10 Oct 2026.
 
-Kevin Matto is a techno and dub techno artist based in Spain, tracked on soundcheck, with 66 sets logged across Buenos Aires, Madrid, Mexico City and New York City. Often billed alongside Systematic Method, Ali-Az and Jesus Riaño. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 10 Oct.
+Kevin Matto is a techno and dub techno artist based in Spain, with 66 gigs on soundcheck across Buenos Aires, Madrid, Mexico City and New York City. Often billed alongside Systematic Method, Ali-Az and Jesus Riaño. Next up: TBA - Powered by: Void Acoustics, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kevin Matto is a techno and dub techno artist based in Spain, tracked on soundch
 
 ## Recently played
 
-- TBA - Powered by: Void Acoustics, Madrid — Sat, 19 Sept 2026
-- TBA - Powered by: Void Acoustics, Madrid — Sat, 12 Sept 2026
-- Under Club, Buenos Aires — Fri, 24 Jul 2026
-- TBA - Powered by: Void Acoustics, Madrid — Sat, 18 Jul 2026
-- TBA - Powered by: Void Acoustics, Madrid — Fri, 10 Jul 2026
-- TBA - Powered by: Void Acoustics, Madrid — Sat, 4 Jul 2026
-- Radio - Wine, Food & Music Bar, Mexico City — Fri, 26 Jun 2026
-- TBA - Powered by: Void Acoustics, Madrid — Sat, 20 Jun 2026
+- TBA - Powered by: Void Acoustics, Madrid · Sat, 19 Sept 2026
+- TBA - Powered by: Void Acoustics, Madrid · Sat, 12 Sept 2026
+- Under Club, Buenos Aires · Fri, 24 Jul 2026
+- TBA - Powered by: Void Acoustics, Madrid · Sat, 18 Jul 2026
+- TBA - Powered by: Void Acoustics, Madrid · Fri, 10 Jul 2026
+- TBA - Powered by: Void Acoustics, Madrid · Sat, 4 Jul 2026
+- Radio - Wine, Food & Music Bar, Mexico City · Fri, 26 Jun 2026
+- TBA - Powered by: Void Acoustics, Madrid · Sat, 20 Jun 2026
 
 ## Shares bills with
 

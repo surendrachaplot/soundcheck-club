@@ -1,6 +1,6 @@
 # Sacré présente: Heidi & Franck Roger at Sacré
 
-Sacré présente: Heidi & Franck Roger on Fri 27 Nov, Paris. 2 artists on the bill: Franck Roger and Heidi. House. Preview the line-up and save it on soundcheck.
+Sacré présente: Heidi & Franck Roger on Fri 27 Nov, Paris. 2 artists: Franck Roger and Heidi. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Delirium Open Decks at Delirium
 
-Delirium Open Decks on Tue 20 Oct, New York City. Preview the line-up and save it on soundcheck.
+Delirium Open Decks on Tue 20 Oct, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

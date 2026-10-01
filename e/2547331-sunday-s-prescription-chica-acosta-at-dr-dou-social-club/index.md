@@ -1,6 +1,6 @@
 # Sunday's Prescription - Chica Acosta at Dr. Dou Social Club
 
-Sunday's Prescription - Chica Acosta at Dr. Dou Social Club on Sun 11 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Sunday's Prescription - Chica Acosta at Dr. Dou Social Club on Sun 11 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

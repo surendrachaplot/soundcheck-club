@@ -1,6 +1,6 @@
 # BRAINWASH PRESENTS: DAX J, Laure Croft at TBA
 
-BRAINWASH PRESENTS: DAX J, Laure Croft at TBA on Sat 7 Nov, Atlanta. 3 artists on the bill: DAX J, GNVR and Laure Croft. Preview the line-up and save it on soundcheck.
+BRAINWASH PRESENTS: DAX J, Laure Croft at TBA on Sat 7 Nov, Atlanta. 3 artists: DAX J, GNVR and Laure Croft. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

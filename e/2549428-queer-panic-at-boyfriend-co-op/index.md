@@ -1,6 +1,6 @@
 # QUEER PANIC at Boyfriend co-op
 
-QUEER PANIC at Boyfriend co-op on Thu 15 Oct, New York City. 4 artists on the bill: DJ girlcrush, HEYFAYBAE, masha latte and R-DNA. Tech House and Club. Preview the line-up and save it on soundcheck.
+QUEER PANIC at Boyfriend co-op on Thu 15 Oct, New York City. 4 artists: DJ girlcrush, HEYFAYBAE, masha latte and R-DNA. Tech House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

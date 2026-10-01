@@ -1,6 +1,6 @@
 # Corey Baker at Moondog Hifi
 
-Corey Baker at Moondog Hifi on Sat 3 Oct, New York City. 1 artist on the bill: Corey Baker. Preview the line-up and save it on soundcheck.
+Corey Baker at Moondog Hifi on Sat 3 Oct, New York City. 1 artist: Corey Baker. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

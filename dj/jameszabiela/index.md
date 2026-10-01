@@ -1,8 +1,8 @@
 # James Zabiela
 
-James Zabiela is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
+James Zabiela is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 528 Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-James Zabiela is a house and techno artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Auckland, Barcelona, Belfast and Belgrade and 25 more. Often billed alongside Sasha, Anthony Pappa and Danny Howells. Next up: 528 Ibiza, Ibiza on Thu 1 Oct.
+James Zabiela is a house and techno artist based in United Kingdom, with 62 gigs on soundcheck across Auckland, Barcelona, Belfast and Belgrade and 25 more. Often billed alongside Sasha, Anthony Pappa and Danny Howells. Next up: 528 Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ James Zabiela is a house and techno artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- The Steel Yard, London — Fri, 25 Sept 2026
-- TBA - Club Morocco, Costa Salguero, Buenos Aires — Fri, 4 Sept 2026
-- Flash, Washington DC — Sat, 22 Aug 2026
-- Joshua Brooks, Manchester — Sat, 11 Jul 2026
-- Floyd, Miami — Sat, 27 Jun 2026
-- Plaza Hotel Sydney, Sydney — Sun, 7 Jun 2026
-- TBA - Eclipse, Brisbane — Sat, 6 Jun 2026
-- Northcote Theatre, Melbourne — Fri, 5 Jun 2026
+- The Steel Yard, London · Fri, 25 Sept 2026
+- TBA - Club Morocco, Costa Salguero, Buenos Aires · Fri, 4 Sept 2026
+- Flash, Washington DC · Sat, 22 Aug 2026
+- Joshua Brooks, Manchester · Sat, 11 Jul 2026
+- Floyd, Miami · Sat, 27 Jun 2026
+- Plaza Hotel Sydney, Sydney · Sun, 7 Jun 2026
+- TBA - Eclipse, Brisbane · Sat, 6 Jun 2026
+- Northcote Theatre, Melbourne · Fri, 5 Jun 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Open Circle invites Mau P ◯ Handelsbeurs Antwerp at Handelsbeurs Antwerp
 
-Open Circle invites Mau P ◯ Handelsbeurs Antwerp on Sun 4 Oct, Antwerp. House. Preview the line-up and save it on soundcheck.
+Open Circle invites Mau P ◯ Handelsbeurs Antwerp on Sun 4 Oct, Antwerp. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

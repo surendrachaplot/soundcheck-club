@@ -1,6 +1,6 @@
 # Monsieur Periné at ZeyZey
 
-Monsieur Periné at ZeyZey on Fri 2 Oct, Miami. Pop. Preview the line-up and save it on soundcheck.
+Monsieur Periné at ZeyZey on Fri 2 Oct, Miami. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

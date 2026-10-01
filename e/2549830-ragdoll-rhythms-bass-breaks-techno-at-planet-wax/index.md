@@ -1,6 +1,6 @@
 # Ragdoll Rhythms: Bass, Breaks, Techno at Planet Wax
 
-Ragdoll Rhythms: Bass, Breaks, Techno at Planet Wax on Sat 7 Nov, London. 5 artists on the bill: EDFX, NIIX, Sands Spheric and Sou Varine and 1 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Ragdoll Rhythms: Bass, Breaks, Techno at Planet Wax on Sat 7 Nov, London. 5 artists: EDFX, NIIX, Sands Spheric and Sou Varine and 1 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

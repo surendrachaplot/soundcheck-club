@@ -1,6 +1,6 @@
 # 'Sustain 10' at Forestlimit
 
-'Sustain 10' at Forestlimit on Sun 18 Oct, Tokyo. 1 artist on the bill: Sofheso. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+'Sustain 10' at Forestlimit on Sun 18 Oct, Tokyo. 1 artist: Sofheso. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

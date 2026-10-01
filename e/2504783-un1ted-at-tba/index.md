@@ -1,6 +1,6 @@
 # UN1TED at TBA
 
-UN1TED at TBA on Sat 19 Dec, Bilbao. 1 artist on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
+UN1TED at TBA on Sat 19 Dec, Bilbao. 1 artist: Winson Ngoh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

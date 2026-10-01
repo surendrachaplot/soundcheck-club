@@ -1,6 +1,6 @@
 # SONOTOPIA: Athens Dubs with K.atou & Jay Glass Dubs at Romantso
 
-SONOTOPIA: Athens Dubs with K.atou & Jay Glass Dubs at Romantso on Thu 8 Oct, Athens. 2 artists on the bill: Jay Glass Dubs and K.atou. Bass. Preview the line-up and save it on soundcheck.
+SONOTOPIA: Athens Dubs with K.atou & Jay Glass Dubs at Romantso on Thu 8 Oct, Athens. 2 artists: Jay Glass Dubs and K.atou. Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

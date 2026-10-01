@@ -1,6 +1,6 @@
 # KUBOTA,TAKESHI & HATCHUCK at DJ Bar Bridge
 
-KUBOTA,TAKESHI & HATCHUCK at DJ Bar Bridge on Wed 28 Oct, Tokyo. House and Dub. Preview the line-up and save it on soundcheck.
+KUBOTA,TAKESHI & HATCHUCK at DJ Bar Bridge on Wed 28 Oct, Tokyo. House and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

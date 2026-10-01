@@ -1,6 +1,6 @@
 # DANI RUBIO, Melgar at Resume Valencia
 
-DANI RUBIO, Melgar at Resume Valencia on Fri 30 Oct, Valencia. 2 artists on the bill: DANI RUBIO and Melgar. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+DANI RUBIO, Melgar at Resume Valencia on Fri 30 Oct, Valencia. 2 artists: DANI RUBIO and Melgar. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

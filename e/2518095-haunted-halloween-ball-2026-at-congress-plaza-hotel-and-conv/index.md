@@ -1,6 +1,6 @@
 # Haunted Halloween Ball 2026 at Congress Plaza Hotel and Convention Center
 
-Haunted Halloween Ball 2026 at Congress Plaza Hotel and Convention Center on Sat 31 Oct, Chicago. Disco and Dancehall. Preview the line-up and save it on soundcheck.
+Haunted Halloween Ball 2026 at Congress Plaza Hotel and Convention Center on Sat 31 Oct, Chicago. Disco and Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

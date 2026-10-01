@@ -1,6 +1,6 @@
 # Butoh Festival Amsterdam at Teatro Munganga
 
-Butoh Festival Amsterdam at Teatro Munganga on Fri 2 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Butoh Festival Amsterdam at Teatro Munganga on Fri 2 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

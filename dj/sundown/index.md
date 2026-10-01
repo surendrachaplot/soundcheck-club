@@ -1,8 +1,8 @@
 # Sundown
 
-Sundown is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Korpuss, Riga on Fri, 30 Oct 2026.
+Sundown is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Korpuss, Riga on Fri, 30 Oct 2026.
 
-Sundown is a techno and house artist based in Latvia, tracked on soundcheck, with 13 sets logged across New York City and Riga. Often billed alongside Ikss, HP-82 and Existal. Next up: Korpuss, Riga on Fri 30 Oct.
+Sundown is a techno and house artist based in Latvia, with 13 gigs on soundcheck across New York City and Riga. Often billed alongside Ikss, HP-82 and Existal. Next up: Korpuss, Riga on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Sundown is a techno and house artist based in Latvia, tracked on soundcheck, wit
 
 ## Recently played
 
-- Hartmanis Manor, Riga — Fri, 21 Aug 2026
-- The Meadows, New York City — Sat, 1 Aug 2026
-- B2 Rīga, Riga — Fri, 29 May 2026
-- Teritorija, Riga — Fri, 16 Jan 2026
-- One One Riga, Riga — Sat, 14 Sept 2024
-- Spilve Airport, Riga — Sat, 27 Jul 2024
-- One One Riga, Riga — Fri, 29 Mar 2024
-- One One Riga, Riga — Sat, 23 Sept 2023
+- Hartmanis Manor, Riga · Fri, 21 Aug 2026
+- The Meadows, New York City · Sat, 1 Aug 2026
+- B2 Rīga, Riga · Fri, 29 May 2026
+- Teritorija, Riga · Fri, 16 Jan 2026
+- One One Riga, Riga · Sat, 14 Sept 2024
+- Spilve Airport, Riga · Sat, 27 Jul 2024
+- One One Riga, Riga · Fri, 29 Mar 2024
+- One One Riga, Riga · Sat, 23 Sept 2023
 
 ## Shares bills with
 

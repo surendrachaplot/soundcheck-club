@@ -1,8 +1,8 @@
 # Tympanic
 
-Tympanic is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at DETROIT CLUB, Barcelona on Fri, 30 Oct 2026.
+Tympanic is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DETROIT CLUB, Barcelona on Fri, 30 Oct 2026.
 
-Tympanic is a techno and house artist based in Spain, tracked on soundcheck, with 26 sets logged across Barcelona. Often billed alongside 9 Lives, ATMEN and Katya La Mar. Next up: DETROIT CLUB, Barcelona on Fri 30 Oct.
+Tympanic is a techno and house artist based in Spain, with 26 gigs on soundcheck across Barcelona. Often billed alongside 9 Lives, ATMEN and Katya La Mar. Next up: DETROIT CLUB, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Tympanic is a techno and house artist based in Spain, tracked on soundcheck, wit
 
 ## Recently played
 
-- Hyde Club, Barcelona — Fri, 25 Sept 2026
-- Sunseabar Beach Club, Barcelona — Fri, 7 Aug 2026
-- BORIS CLUB, Barcelona — Thu, 16 Jul 2026
-- Sunseabar Beach Club, Barcelona — Sat, 13 Jun 2026
-- Café Royale, Barcelona — Fri, 22 May 2026
-- TBA - Sun Sea Bar Beach (Platja Port Forum), Barcelona — Sat, 11 Apr 2026
-- Can Luis, Barcelona — Thu, 26 Mar 2026
-- DETROIT CLUB, Barcelona — Fri, 20 Mar 2026
+- Hyde Club, Barcelona · Fri, 25 Sept 2026
+- Sunseabar Beach Club, Barcelona · Fri, 7 Aug 2026
+- BORIS CLUB, Barcelona · Thu, 16 Jul 2026
+- Sunseabar Beach Club, Barcelona · Sat, 13 Jun 2026
+- Café Royale, Barcelona · Fri, 22 May 2026
+- TBA - Sun Sea Bar Beach (Platja Port Forum), Barcelona · Sat, 11 Apr 2026
+- Can Luis, Barcelona · Thu, 26 Mar 2026
+- DETROIT CLUB, Barcelona · Fri, 20 Mar 2026
 
 ## Shares bills with
 

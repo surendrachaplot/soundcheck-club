@@ -1,8 +1,8 @@
 # Frankie Elyse
 
-Frankie Elyse is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at King Tut's Wah Wah Hut, Glasgow on Thu, 29 Oct 2026.
+Frankie Elyse is a House and Electro artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at King Tut's Wah Wah Hut, Glasgow on Thu, 29 Oct 2026.
 
-Frankie Elyse is a house and electro artist based in United Kingdom, tracked on soundcheck, with 83 sets logged across Aberdeen, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Jozette, Corran and Neoma. Next up: King Tut's Wah Wah Hut, Glasgow on Thu 29 Oct.
+Frankie Elyse is a house and electro artist based in United Kingdom, with 83 gigs on soundcheck across Aberdeen, Berlin, Edinburgh and Glasgow and 4 more. Often billed alongside Jozette, Corran and Neoma. Next up: King Tut's Wah Wah Hut, Glasgow on Thu 29 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Frankie Elyse is a house and electro artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Sub Club, Glasgow — Fri, 25 Sept 2026
-- The Berkeley Suite, Glasgow — Fri, 18 Sept 2026
-- Paradise Palms, Edinburgh — Thu, 17 Sept 2026
-- Sub Club, Glasgow — Fri, 21 Aug 2026
-- The Berkeley Suite, Glasgow — Fri, 10 Jul 2026
-- D2, Aberdeen — Sat, 20 Jun 2026
-- People's Leisure Club, Edinburgh — Sat, 13 Jun 2026
-- Low Profile Studios, London — Sat, 16 May 2026
+- Sub Club, Glasgow · Fri, 25 Sept 2026
+- The Berkeley Suite, Glasgow · Fri, 18 Sept 2026
+- Paradise Palms, Edinburgh · Thu, 17 Sept 2026
+- Sub Club, Glasgow · Fri, 21 Aug 2026
+- The Berkeley Suite, Glasgow · Fri, 10 Jul 2026
+- D2, Aberdeen · Sat, 20 Jun 2026
+- People's Leisure Club, Edinburgh · Sat, 13 Jun 2026
+- Low Profile Studios, London · Sat, 16 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Beltools (Space Basel 2026) at Club Space Miami
 
-Beltools (Space Basel 2026) at Club Space Miami on Wed 2 Dec, Miami. 1 artist on the bill: Beltran. Techno and House. Preview the line-up and save it on soundcheck.
+Beltools (Space Basel 2026) at Club Space Miami on Wed 2 Dec, Miami. 1 artist: Beltran. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CLUB KIDZ at Sameheads
 
-CLUB KIDZ at Sameheads on Thu 8 Oct, Berlin. 4 artists on the bill: Chikiss, Karolina Bnv, Leona Jacewska and Novo Line. Preview the line-up and save it on soundcheck.
+CLUB KIDZ at Sameheads on Thu 8 Oct, Berlin. 4 artists: Chikiss, Karolina Bnv, Leona Jacewska and Novo Line. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

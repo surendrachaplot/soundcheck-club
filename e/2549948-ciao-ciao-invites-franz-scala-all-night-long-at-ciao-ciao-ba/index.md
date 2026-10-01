@@ -1,6 +1,6 @@
 # Ciao Ciao Invites: Franz Scala (All Night Long) at ciao ciao Bar
 
-Ciao Ciao Invites: Franz Scala (All Night Long) at ciao ciao Bar on Fri 2 Oct, Berlin. 1 artist on the bill: Franz Scala. Italo Disco and New Wave. Preview the line-up and save it on soundcheck.
+Ciao Ciao Invites: Franz Scala (All Night Long) at ciao ciao Bar on Fri 2 Oct, Berlin. 1 artist: Franz Scala. Italo Disco and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

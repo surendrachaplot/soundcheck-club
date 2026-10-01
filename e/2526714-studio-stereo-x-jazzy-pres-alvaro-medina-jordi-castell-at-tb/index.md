@@ -1,6 +1,6 @@
 # Studio Stereo x Jazzy pres. Alvaro Medina, Jordi Castell at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona
 
-Studio Stereo x Jazzy pres. Alvaro Medina, Jordi Castell at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 9 Oct, Barcelona. 5 artists on the bill: Alvaro Medina, Ellich, FRAXA and Jordi Castell and 1 more. House and Electro. Preview the line-up and save it on soundcheck.
+Studio Stereo x Jazzy pres. Alvaro Medina, Jordi Castell at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona on Fri 9 Oct, Barcelona. 5 artists: Alvaro Medina, Ellich, FRAXA and Jordi Castell and 1 more. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

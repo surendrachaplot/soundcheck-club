@@ -1,6 +1,6 @@
 # Adam & Eve The Hague x BY AMI at TBA
 
-Adam & Eve The Hague x BY AMI at TBA on Sat 14 Nov, The Hague. R&B and Afrobeats. Preview the line-up and save it on soundcheck.
+Adam & Eve The Hague x BY AMI at TBA on Sat 14 Nov, The Hague. R&B and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 15 Years Gretchen: SILVAN STRAUSS & SO SORRY - 360 ° Live Show at Gretchen
 
-15 Years Gretchen: SILVAN STRAUSS & SO SORRY - 360 ° Live Show on Sun 4 Oct, Berlin. Jazz. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: SILVAN STRAUSS & SO SORRY - 360 ° Live Show on Sun 4 Oct, Berlin. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

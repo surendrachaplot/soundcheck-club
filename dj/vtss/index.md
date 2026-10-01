@@ -1,8 +1,8 @@
 # VTSS
 
-VTSS is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+VTSS is a Techno and House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-VTSS is a techno and house artist based in Poland, tracked on soundcheck, with 187 sets logged across Amsterdam, Athens, Austin and Bali and 61 more. Often billed alongside Boys Noize, I Hate Models and Patrick Mason. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+VTSS is a techno and house artist based in Poland, with 187 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 61 more. Often billed alongside Boys Noize, I Hate Models and Patrick Mason. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ VTSS is a techno and house artist based in Poland, tracked on soundcheck, with 1
 
 ## Recently played
 
-- The Midway, San Francisco/Oakland — Sun, 27 Sept 2026
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Boucher Road Fields, Belfast — Sat, 29 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles — Sat, 1 Aug 2026
-- New York Avenue Beach, Philadelphia — Sat, 25 Jul 2026
-- Amnesia Ibiza, Ibiza — Mon, 13 Jul 2026
+- The Midway, San Francisco/Oakland · Sun, 27 Sept 2026
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Boucher Road Fields, Belfast · Sat, 29 Aug 2026
+- Gianpula Village, Malta · Wed, 12 Aug 2026
+- TBA - Hollywood Park adjacent to SoFi Stadium, Los Angeles · Sat, 1 Aug 2026
+- New York Avenue Beach, Philadelphia · Sat, 25 Jul 2026
+- Amnesia Ibiza, Ibiza · Mon, 13 Jul 2026
 
 ## Shares bills with
 

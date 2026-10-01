@@ -1,6 +1,6 @@
 # Jason Derulo at LIV Nightclub Miami
 
-Jason Derulo at LIV Nightclub Miami on Fri 6 Nov, Miami. Preview the line-up and save it on soundcheck.
+Jason Derulo at LIV Nightclub Miami on Fri 6 Nov, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

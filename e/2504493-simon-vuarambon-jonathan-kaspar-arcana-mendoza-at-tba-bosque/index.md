@@ -1,6 +1,6 @@
 # Simon Vuarambon + Jonathan Kaspar, Arcana Mendoza at TBA - Bosques Cacheuta, Mendoza
 
-Simon Vuarambon + Jonathan Kaspar, Arcana Mendoza at TBA - Bosques Cacheuta, Mendoza on Sat 5 Dec, Argentina. 2 artists on the bill: Jonathan Kaspar and Simon Vuarambon. Preview the line-up and save it on soundcheck.
+Simon Vuarambon + Jonathan Kaspar, Arcana Mendoza at TBA - Bosques Cacheuta, Mendoza on Sat 5 Dec, Argentina. 2 artists: Jonathan Kaspar and Simon Vuarambon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

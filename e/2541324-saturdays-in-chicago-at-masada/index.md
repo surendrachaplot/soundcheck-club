@@ -1,6 +1,6 @@
 # Saturdays in Chicago at Masada
 
-Saturdays in Chicago at Masada on Sat 3 Oct, Chicago. Trance and House. Preview the line-up and save it on soundcheck.
+Saturdays in Chicago at Masada on Sat 3 Oct, Chicago. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

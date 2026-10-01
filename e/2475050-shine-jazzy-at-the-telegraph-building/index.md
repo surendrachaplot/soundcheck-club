@@ -1,6 +1,6 @@
 # SHINE -- JAZZY at The Telegraph Building
 
-SHINE -- JAZZY at The Telegraph Building on Sat 14 Nov, Belfast. 1 artist on the bill: Jazzy (IRL). Preview the line-up and save it on soundcheck.
+SHINE -- JAZZY at The Telegraph Building on Sat 14 Nov, Belfast. 1 artist: Jazzy (IRL). See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

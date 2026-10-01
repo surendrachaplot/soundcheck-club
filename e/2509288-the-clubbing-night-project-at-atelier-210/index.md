@@ -1,6 +1,6 @@
 # The Clubbing Night Project at Atelier 210
 
-The Clubbing Night Project at Atelier 210 on Fri 9 Oct, Brussels. Preview the line-up and save it on soundcheck.
+The Clubbing Night Project at Atelier 210 on Fri 9 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

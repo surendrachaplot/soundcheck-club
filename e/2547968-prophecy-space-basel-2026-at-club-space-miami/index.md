@@ -1,6 +1,6 @@
 # Prophecy (Space Basel 2026) at Club Space Miami
 
-Prophecy (Space Basel 2026) at Club Space Miami on Tue 1 Dec, Miami. 1 artist on the bill: Prospa. Techno and House. Preview the line-up and save it on soundcheck.
+Prophecy (Space Basel 2026) at Club Space Miami on Tue 1 Dec, Miami. 1 artist: Prospa. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

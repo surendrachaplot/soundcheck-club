@@ -1,6 +1,6 @@
 # MMF Society Open Decks at The Rose
 
-MMF Society Open Decks at The Rose on Mon 5 Oct, New York City. 2 artists on the bill: 7ACHIEF and shirlz. Techno and House. Preview the line-up and save it on soundcheck.
+MMF Society Open Decks at The Rose on Mon 5 Oct, New York City. 2 artists: 7ACHIEF and shirlz. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

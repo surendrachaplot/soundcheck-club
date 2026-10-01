@@ -1,6 +1,6 @@
 # ElixSystem at Starlane at Starlane Pizza Bar
 
-ElixSystem at Starlane at Starlane Pizza Bar on Fri 2 Oct, London. House and Tech House. Preview the line-up and save it on soundcheck.
+ElixSystem at Starlane at Starlane Pizza Bar on Fri 2 Oct, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

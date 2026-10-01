@@ -1,6 +1,6 @@
 # The Early Years / Sennen at Belgrave Music Hall
 
-The Early Years / Sennen at Belgrave Music Hall on Mon 16 Nov, Leeds. Preview the line-up and save it on soundcheck.
+The Early Years / Sennen at Belgrave Music Hall on Mon 16 Nov, Leeds. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

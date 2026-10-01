@@ -1,6 +1,6 @@
 # vurtnight Woody92 at vurt.
 
-vurtnight Woody92 at vurt. on Sat 10 Oct, Seoul. 3 artists on the bill: SUNA, SUZAN and Woody92. Techno. Preview the line-up and save it on soundcheck.
+vurtnight Woody92 at vurt. on Sat 10 Oct, Seoul. 3 artists: SUNA, SUZAN and Woody92. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

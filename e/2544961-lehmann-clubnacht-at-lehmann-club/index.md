@@ -1,6 +1,6 @@
 # Lehmann ClubNACHT at Lehmann Club
 
-Lehmann ClubNACHT on Sat 3 Oct, Stuttgart. 4 artists on the bill: DAX J, Rødhåd, ROT.TON and Stephanie Sykes. Preview the line-up and save it on soundcheck.
+Lehmann ClubNACHT on Sat 3 Oct, Stuttgart. 4 artists: DAX J, Rødhåd, ROT.TON and Stephanie Sykes. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

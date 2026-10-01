@@ -1,6 +1,6 @@
 # ZW-KONZERT : SAEKO KILLY / KONOMONO at Zentralwäscherei
 
-ZW-KONZERT : SAEKO KILLY / KONOMONO at Zentralwäscherei on Thu 29 Oct, Zurich. Preview the line-up and save it on soundcheck.
+ZW-KONZERT : SAEKO KILLY / KONOMONO at Zentralwäscherei on Thu 29 Oct, Zurich. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

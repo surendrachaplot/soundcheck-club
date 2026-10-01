@@ -1,6 +1,6 @@
 # [NYC Premiere] Hinoki: An Immersive Dance and Sound Performance with Maude Vôs, Ali Berger +TBA at Planet X Studios
 
-[NYC Premiere] Hinoki: An Immersive Dance and Sound Performance with Maude Vôs, Ali Berger +TBA at Planet X Studios on Sat 17 Oct, New York City. 5 artists on the bill: Ali Berger, Jenn Chan, Julie Hill and Maude Vôs and 1 more. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+[NYC Premiere] Hinoki: An Immersive Dance and Sound Performance with Maude Vôs, Ali Berger +TBA at Planet X Studios on Sat 17 Oct, New York City. 5 artists: Ali Berger, Jenn Chan, Julie Hill and Maude Vôs and 1 more. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

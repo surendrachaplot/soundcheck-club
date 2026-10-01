@@ -1,6 +1,6 @@
 # Open Space at Dante's HiFi
 
-Open Space at Dante's HiFi on Thu 1 Oct, Miami. Preview the line-up and save it on soundcheck.
+Open Space at Dante's HiFi on Thu 1 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

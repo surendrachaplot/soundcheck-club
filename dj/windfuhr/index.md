@@ -1,8 +1,8 @@
 # WINDFUHR
 
-WINDFUHR is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
+WINDFUHR is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at RSO.BERLIN, Berlin on Sat, 17 Oct 2026.
 
-WINDFUHR is a techno and house artist based in Germany, tracked on soundcheck, with 57 sets logged across Amsterdam, Athens, Berlin and Hamburg and 14 more. Often billed alongside Hitam, Angioma and Phil Berg. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
+WINDFUHR is a techno and house artist based in Germany, with 57 gigs on soundcheck across Amsterdam, Athens, Berlin and Hamburg and 14 more. Often billed alongside Hitam, Angioma and Phil Berg. Next up: RSO.BERLIN, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ WINDFUHR is a techno and house artist based in Germany, tracked on soundcheck, w
 
 ## Recently played
 
-- Q35 WAREHOUSE, Turin — Sun, 20 Sept 2026
-- Q35 WAREHOUSE, Turin — Sat, 19 Sept 2026
-- Tresor / Globus, Berlin — Sat, 5 Sept 2026
-- NUMBER 90 LONDON, London — Sun, 9 Aug 2026
-- Gaffe, London — Sat, 8 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 11 Jul 2026
-- Bassiani, Tbilisi — Fri, 8 May 2026
-- Else, Berlin — Sat, 2 May 2026
+- Q35 WAREHOUSE, Turin · Sun, 20 Sept 2026
+- Q35 WAREHOUSE, Turin · Sat, 19 Sept 2026
+- Tresor / Globus, Berlin · Sat, 5 Sept 2026
+- NUMBER 90 LONDON, London · Sun, 9 Aug 2026
+- Gaffe, London · Sat, 8 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 11 Jul 2026
+- Bassiani, Tbilisi · Fri, 8 May 2026
+- Else, Berlin · Sat, 2 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # HALLOWEEN PARTY at TBA - T ARENA - BORIS TRAJKOVSKI - NORH PARKING
 
-HALLOWEEN PARTY at TBA - T ARENA - BORIS TRAJKOVSKI - NORH PARKING on Sat 31 Oct, North Macedonia. 2 artists on the bill: Philip Ackowsky and Proper Banger. Preview the line-up and save it on soundcheck.
+HALLOWEEN PARTY at TBA - T ARENA - BORIS TRAJKOVSKI - NORH PARKING on Sat 31 Oct, North Macedonia. 2 artists: Philip Ackowsky and Proper Banger. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

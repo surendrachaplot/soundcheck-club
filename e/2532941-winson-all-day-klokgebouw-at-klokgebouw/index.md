@@ -1,6 +1,6 @@
 # Winson All Day - Klokgebouw at Klokgebouw
 
-Winson All Day - Klokgebouw on Fri 13 Nov, Eindhoven. 1 artist on the bill: Winson Ngoh. Preview the line-up and save it on soundcheck.
+Winson All Day - Klokgebouw on Fri 13 Nov, Eindhoven. 1 artist: Winson Ngoh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

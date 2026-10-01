@@ -1,6 +1,6 @@
 # SOLAS Studios presents: SOLAS & Friends (Chapter 2) at Last Arch
 
-SOLAS Studios presents: SOLAS & Friends (Chapter 2) at Last Arch on Fri 6 Nov, London. Preview the line-up and save it on soundcheck.
+SOLAS Studios presents: SOLAS & Friends (Chapter 2) at Last Arch on Fri 6 Nov, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

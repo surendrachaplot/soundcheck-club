@@ -1,6 +1,6 @@
 # MIR|ЯOR x Shockwerk x Disco Sour presents Tarkno (Vinyl only night) at Klub K4
 
-MIR|ЯOR x Shockwerk x Disco Sour presents Tarkno (Vinyl only night) at Klub K4 on Fri 9 Oct, Ljubljana. 5 artists on the bill: Brtinzz, Gumja, Kadli and lex_shockwerk and 1 more. Preview the line-up and save it on soundcheck.
+MIR|ЯOR x Shockwerk x Disco Sour presents Tarkno (Vinyl only night) at Klub K4 on Fri 9 Oct, Ljubljana. 5 artists: Brtinzz, Gumja, Kadli and lex_shockwerk and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cosmic Blast – Monster Attack at Unit 58
 
-Cosmic Blast – Monster Attack at Unit 58 on Fri 23 Oct, London. 1 artist on the bill: Miss Lightbeam. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Cosmic Blast – Monster Attack at Unit 58 on Fri 23 Oct, London. 1 artist: Miss Lightbeam. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

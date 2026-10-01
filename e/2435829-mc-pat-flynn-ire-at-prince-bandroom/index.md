@@ -1,6 +1,6 @@
 # MC PAT FLYNN (IRE) at Prince Bandroom
 
-MC PAT FLYNN (IRE) at Prince Bandroom on Sat 31 Oct, Melbourne. Hip-Hop. Preview the line-up and save it on soundcheck.
+MC PAT FLYNN (IRE) at Prince Bandroom on Sat 31 Oct, Melbourne. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

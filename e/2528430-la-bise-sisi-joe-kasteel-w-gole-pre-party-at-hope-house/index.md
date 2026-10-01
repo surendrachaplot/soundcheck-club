@@ -1,6 +1,6 @@
 # La Bise: SiSi & Joe Kasteel (w/ Gole pre-party) at Hope House
 
-La Bise: SiSi & Joe Kasteel (w/ Gole pre-party) at Hope House on Fri 9 Oct, Leeds. 3 artists on the bill: Benny Bysouth, Joe Kasteel and SiSi. Techno and House. Preview the line-up and save it on soundcheck.
+La Bise: SiSi & Joe Kasteel (w/ Gole pre-party) at Hope House on Fri 9 Oct, Leeds. 3 artists: Benny Bysouth, Joe Kasteel and SiSi. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

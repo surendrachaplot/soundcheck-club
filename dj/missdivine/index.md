@@ -1,8 +1,8 @@
 # Sam Divine
 
-Sam Divine is a House and Tech House artist with 17 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Sam Divine is a House and Tech House artist with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Sam Divine is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 178 sets logged across Amsterdam, Auckland, Bali and Barcelona and 39 more. Often billed alongside Low Steppa, Arielle Free and Lowsteppa. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Sam Divine is a house and tech house artist based in United Kingdom, with 178 gigs on soundcheck across Amsterdam, Auckland, Bali and Barcelona and 39 more. Often billed alongside Low Steppa, Arielle Free and Lowsteppa. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Sam Divine is a house and tech house artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- DRUMSHEDS, London — Sat, 19 Sept 2026
-- Joshua Brooks, Manchester — Fri, 11 Sept 2026
-- TBA - THE STRAY, HARROGATE, Leeds — Sat, 5 Sept 2026
-- Chinois Ibiza, Ibiza — Thu, 3 Sept 2026
-- [UNVRS], Ibiza — Sat, 8 Aug 2026
-- Chinois Ibiza, Ibiza — Thu, 23 Jul 2026
-- 77, London — Fri, 17 Jul 2026
-- La Terrrazza, Barcelona — Sat, 11 Jul 2026
+- DRUMSHEDS, London · Sat, 19 Sept 2026
+- Joshua Brooks, Manchester · Fri, 11 Sept 2026
+- TBA - THE STRAY, HARROGATE, Leeds · Sat, 5 Sept 2026
+- Chinois Ibiza, Ibiza · Thu, 3 Sept 2026
+- [UNVRS], Ibiza · Sat, 8 Aug 2026
+- Chinois Ibiza, Ibiza · Thu, 23 Jul 2026
+- 77, London · Fri, 17 Jul 2026
+- La Terrrazza, Barcelona · Sat, 11 Jul 2026
 
 ## Shares bills with
 

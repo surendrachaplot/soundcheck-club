@@ -1,6 +1,6 @@
 # Unsound London x Tropical Waste at Ormside Projects
 
-Unsound London x Tropical Waste at Ormside Projects on Fri 27 Nov, London. 3 artists on the bill: Hermeneia, k means and Seb (Tropical Waste). Bass and Footwork. Preview the line-up and save it on soundcheck.
+Unsound London x Tropical Waste at Ormside Projects on Fri 27 Nov, London. 3 artists: Hermeneia, k means and Seb (Tropical Waste). Bass and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

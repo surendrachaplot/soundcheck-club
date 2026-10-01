@@ -1,6 +1,6 @@
 # Electronic.thursday with Pyrame at Minimal Bar
 
-Electronic.thursday with Pyrame at Minimal Bar on Thu 10 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Electronic.thursday with Pyrame at Minimal Bar on Thu 10 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

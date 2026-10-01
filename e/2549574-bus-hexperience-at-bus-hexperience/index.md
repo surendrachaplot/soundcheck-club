@@ -1,6 +1,6 @@
 # Bus Hexperience at BUS Hexperience
 
-Bus Hexperience at BUS Hexperience on Sat 3 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Bus Hexperience at BUS Hexperience on Sat 3 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

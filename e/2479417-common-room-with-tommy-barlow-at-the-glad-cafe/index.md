@@ -1,6 +1,6 @@
 # common room with Tommy Barlow at The Glad Cafe
 
-common room with Tommy Barlow at The Glad Cafe on Fri 9 Oct, Glasgow. Experimental and Post-Punk. Preview the line-up and save it on soundcheck.
+common room with Tommy Barlow at The Glad Cafe on Fri 9 Oct, Glasgow. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

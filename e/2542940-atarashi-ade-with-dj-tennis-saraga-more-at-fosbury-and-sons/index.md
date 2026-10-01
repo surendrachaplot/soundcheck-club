@@ -1,6 +1,6 @@
 # ATARASHI ADE with DJ Tennis, Saraga & More at Fosbury and Sons
 
-ATARASHI ADE with DJ Tennis, Saraga & More at Fosbury and Sons on Fri 23 Oct, Amsterdam. 4 artists on the bill: DJ Tennis, II FACES, Ramyen and Saraga. House. Preview the line-up and save it on soundcheck.
+ATARASHI ADE with DJ Tennis, Saraga & More at Fosbury and Sons on Fri 23 Oct, Amsterdam. 4 artists: DJ Tennis, II FACES, Ramyen and Saraga. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

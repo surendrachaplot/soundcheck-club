@@ -1,6 +1,6 @@
 # Club Romantico x Stereo: DNGDNGDNG & Florentino at Stereo
 
-Club Romantico x Stereo: DNGDNGDNG & Florentino on Fri 16 Oct, Glasgow. 3 artists on the bill: CLO, Dengue Dengue Dengue and Florentino. Club and Latin Bass. Preview the line-up and save it on soundcheck.
+Club Romantico x Stereo: DNGDNGDNG & Florentino on Fri 16 Oct, Glasgow. 3 artists: CLO, Dengue Dengue Dengue and Florentino. Club and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

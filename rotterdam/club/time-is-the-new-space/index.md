@@ -1,8 +1,8 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SURREALITY: RÀITH 1 – AS THE LEAVES FALL DOWN" on Thu, 1 Oct 2026.
+Time is the new space is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SURREALITY: RÀITH 1 – AS THE LEAVES FALL DOWN" on Thu, 1 Oct 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. See dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 

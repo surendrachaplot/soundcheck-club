@@ -1,6 +1,6 @@
 # Story* 2026 Finale with TBA at The Sound House
 
-Story* 2026 Finale with TBA at The Sound House on Fri 4 Dec, Dublin. Preview the line-up and save it on soundcheck.
+Story* 2026 Finale with TBA at The Sound House on Fri 4 Dec, Dublin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

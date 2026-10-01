@@ -1,6 +1,6 @@
 # EAST Techno Collective at Melkweg
 
-EAST Techno Collective at Melkweg on Sat 12 Dec, Amsterdam. Techno. Preview the line-up and save it on soundcheck.
+EAST Techno Collective at Melkweg on Sat 12 Dec, Amsterdam. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

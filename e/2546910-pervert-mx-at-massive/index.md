@@ -1,6 +1,6 @@
 # Pervert Mx at Massive
 
-Pervert Mx at Massive on Fri 2 Oct, Seattle. 3 artists on the bill: Mystery Affair, OZA and Soos. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Pervert Mx at Massive on Fri 2 Oct, Seattle. 3 artists: Mystery Affair, OZA and Soos. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

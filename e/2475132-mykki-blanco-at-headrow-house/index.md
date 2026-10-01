@@ -1,6 +1,6 @@
 # Mykki Blanco at Headrow House
 
-Mykki Blanco at Headrow House on Wed 4 Nov, Leeds. 1 artist on the bill: Mykki Blanco. Hip-Hop. Preview the line-up and save it on soundcheck.
+Mykki Blanco at Headrow House on Wed 4 Nov, Leeds. 1 artist: Mykki Blanco. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # LOVEJUICE at O Beach
 
-LOVEJUICE at O Beach on Thu 8 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+LOVEJUICE at O Beach on Thu 8 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # B-Pushr
 
-B-Pushr is a Ambient and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Chicago on Fri, 2 Oct 2026.
+B-Pushr is a Ambient and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Chicago on Fri, 2 Oct 2026.
 
-B-Pushr is an ambient and acid artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Chicago and London. Often billed alongside Scape One, m50 and Benebe. Next up: TBA, Chicago on Fri 2 Oct.
+B-Pushr is an ambient and acid artist based in United Kingdom, with 6 gigs on soundcheck across Chicago and London. Often billed alongside Scape One, m50 and Benebe. Next up: TBA, Chicago on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,9 +14,9 @@ B-Pushr is an ambient and acid artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Dream Bags Jaguar Shoes, London — Sat, 29 Aug 2026
-- Groovetank Live, London — Thu, 27 Nov 2025
-- Hoxton Cabin, London — Fri, 3 Oct 2025
+- Dream Bags Jaguar Shoes, London · Sat, 29 Aug 2026
+- Groovetank Live, London · Thu, 27 Nov 2025
+- Hoxton Cabin, London · Fri, 3 Oct 2025
 
 ## Shares bills with
 

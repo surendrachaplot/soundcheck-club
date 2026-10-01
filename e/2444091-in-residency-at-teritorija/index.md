@@ -1,6 +1,6 @@
 # In Residency at Teritorija
 
-In Residency at Teritorija on Sat 24 Oct, Riga. House. Preview the line-up and save it on soundcheck.
+In Residency at Teritorija on Sat 24 Oct, Riga. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

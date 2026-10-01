@@ -1,6 +1,6 @@
 # Baile World x Khanistan: LA at Don Quixote
 
-Baile World x Khanistan: LA at Don Quixote on Sat 17 Oct, Los Angeles. 4 artists on the bill: ARMANA KHAN, Cquestt, KEHIW and VANI. Baile Funk and Reggaeton. Preview the line-up and save it on soundcheck.
+Baile World x Khanistan: LA at Don Quixote on Sat 17 Oct, Los Angeles. 4 artists: ARMANA KHAN, Cquestt, KEHIW and VANI. Baile Funk and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

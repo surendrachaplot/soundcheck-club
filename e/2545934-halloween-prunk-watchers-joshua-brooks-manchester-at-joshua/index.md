@@ -1,6 +1,6 @@
 # Halloween: Prunk + Watchers - Joshua Brooks Manchester at Joshua Brooks
 
-Halloween: Prunk + Watchers - Joshua Brooks Manchester on Sat 31 Oct, Manchester. 2 artists on the bill: Prunk and Watchers. House and Minimal. Preview the line-up and save it on soundcheck.
+Halloween: Prunk + Watchers - Joshua Brooks Manchester on Sat 31 Oct, Manchester. 2 artists: Prunk and Watchers. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

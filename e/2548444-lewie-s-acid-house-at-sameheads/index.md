@@ -1,6 +1,6 @@
 # Lewie's Acid House at Sameheads
 
-Lewie's Acid House at Sameheads on Sat 17 Oct, Berlin. 2 artists on the bill: Ellie Stokes and Tornado Wallace. Preview the line-up and save it on soundcheck.
+Lewie's Acid House at Sameheads on Sat 17 Oct, Berlin. 2 artists: Ellie Stokes and Tornado Wallace. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

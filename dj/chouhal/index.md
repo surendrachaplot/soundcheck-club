@@ -1,8 +1,8 @@
 # chouhal
 
-chouhal is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Location, Malta on Sat, 3 Oct 2026.
+chouhal is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location, Malta on Sat, 3 Oct 2026.
 
-chouhal is a techno and trance artist based in Malta, tracked on soundcheck, with 28 sets logged across Malta. Often billed alongside Damz, Dicentra and Gordon Flash. Next up: TBA - Secret Location, Malta on Sat 3 Oct.
+chouhal is a techno and trance artist based in Malta, with 28 gigs on soundcheck across Malta. Often billed alongside Damz, Dicentra and Gordon Flash. Next up: TBA - Secret Location, Malta on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ chouhal is a techno and trance artist based in Malta, tracked on soundcheck, wit
 
 ## Recently played
 
-- The Rooftop at Gianpula Village, Malta — Sun, 27 Sept 2026
-- Liquid Club, Malta — Sat, 5 Sept 2026
-- Surfside, Malta — Wed, 26 Aug 2026
-- Tigullio, Malta — Tue, 11 Aug 2026
-- Tigullio, Malta — Sat, 1 Aug 2026
-- Liquid Club, Malta — Fri, 29 May 2026
-- Tigullio, Malta — Sat, 7 Mar 2026
-- Liquid Club, Malta — Sat, 28 Feb 2026
+- The Rooftop at Gianpula Village, Malta · Sun, 27 Sept 2026
+- Liquid Club, Malta · Sat, 5 Sept 2026
+- Surfside, Malta · Wed, 26 Aug 2026
+- Tigullio, Malta · Tue, 11 Aug 2026
+- Tigullio, Malta · Sat, 1 Aug 2026
+- Liquid Club, Malta · Fri, 29 May 2026
+- Tigullio, Malta · Sat, 7 Mar 2026
+- Liquid Club, Malta · Sat, 28 Feb 2026
 
 ## Shares bills with
 

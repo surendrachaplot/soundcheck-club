@@ -1,8 +1,8 @@
 # American Legion Marsh Post #442
 
-American Legion Marsh Post #442 is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dancing on the Charles Season Closer" on Sat, 3 Oct 2026.
+American Legion Marsh Post #442 is a music venue in Boston with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dancing on the Charles Season Closer" on Sat, 3 Oct 2026.
 
-American Legion Marsh Post #442 is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including Math3ca, Patrick Barry, Pete Moss and Randy Deshaies and 1 more. Browse upcoming dates, start times and who's playing. 198 Greenough Blvd; Cambridge, MA 02138; United States.
+American Legion Marsh Post #442 is a music venue in Boston listed on soundcheck. 3 upcoming gigs, with line-ups including Math3ca, Patrick Barry, Pete Moss and Randy Deshaies and 1 more. See dates, start times and who's playing. 198 Greenough Blvd; Cambridge, MA 02138; United States.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Test presents: Mala at A38
 
-Test presents: Mala at A38 on Sat 28 Nov, Budapest. 1 artist on the bill: Mala. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Test presents: Mala at A38 on Sat 28 Nov, Budapest. 1 artist: Mala. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

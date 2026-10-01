@@ -1,6 +1,6 @@
 # Sergeant at Cinetol
 
-Sergeant at Cinetol on Sat 17 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Sergeant at Cinetol on Sat 17 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

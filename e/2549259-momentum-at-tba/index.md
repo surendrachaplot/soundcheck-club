@@ -1,6 +1,6 @@
 # Momentum at TBA
 
-Momentum at TBA on Fri 16 Oct, Vancouver. 1 artist on the bill: tyzee. Techno and House. Preview the line-up and save it on soundcheck.
+Momentum at TBA on Fri 16 Oct, Vancouver. 1 artist: tyzee. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

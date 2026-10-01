@@ -1,6 +1,6 @@
 # Skeler at Gretchen
 
-Skeler at Gretchen on Fri 23 Oct, Berlin. Downtempo. Preview the line-up and save it on soundcheck.
+Skeler at Gretchen on Fri 23 Oct, Berlin. Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

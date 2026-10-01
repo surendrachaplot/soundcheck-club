@@ -1,8 +1,8 @@
 # La Gata del Born
 
-La Gata del Born is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "UNÁNIME TECHNO NIGHT" on Fri, 2 Oct 2026.
+La Gata del Born is a music venue in Barcelona with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "UNÁNIME TECHNO NIGHT" on Fri, 2 Oct 2026.
 
-La Gata del Born is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including KRYTE, Mr. Fruty and Pullär. Browse upcoming dates, start times and who's playing. Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona.
+La Gata del Born is a music venue in Barcelona listed on soundcheck. 3 upcoming gigs, with line-ups including KRYTE, Mr. Fruty and Pullär. See dates, start times and who's playing. Carrer del Comerç, 21, Ciutat Vella, 08003 Barcelona.
 
 ## What's on
 

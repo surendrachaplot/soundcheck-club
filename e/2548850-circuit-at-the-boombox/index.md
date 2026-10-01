@@ -1,6 +1,6 @@
 # CIRCUIT at The Boombox
 
-CIRCUIT at The Boombox on Sat 3 Oct, Miami. 3 artists on the bill: DJ Marfox, RARA (US) and SAY3. Preview the line-up and save it on soundcheck.
+CIRCUIT at The Boombox on Sat 3 Oct, Miami. 3 artists: DJ Marfox, RARA (US) and SAY3. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

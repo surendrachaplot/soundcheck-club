@@ -1,6 +1,6 @@
 # ATMØSPHERE at NADA Lisbon
 
-ATMØSPHERE at NADA Lisbon on Sat 17 Oct, Lisbon. 5 artists on the bill: A.Paul, DJ Link, Dylan Drazen and HUMA-NOYD and 1 more. Techno. Preview the line-up and save it on soundcheck.
+ATMØSPHERE at NADA Lisbon on Sat 17 Oct, Lisbon. 5 artists: A.Paul, DJ Link, Dylan Drazen and HUMA-NOYD and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

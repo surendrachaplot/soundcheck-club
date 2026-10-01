@@ -1,6 +1,6 @@
 # between x Thüringen Trance at elipamanoke
 
-between x Thüringen Trance at elipamanoke on Wed 14 Oct, Leipzig. Preview the line-up and save it on soundcheck.
+between x Thüringen Trance at elipamanoke on Wed 14 Oct, Leipzig. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

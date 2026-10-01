@@ -1,6 +1,6 @@
 # Revival: DJ Vance at Vienna's
 
-Revival: DJ Vance at Vienna's on Sat 28 Nov, Glasgow. Trance. Preview the line-up and save it on soundcheck.
+Revival: DJ Vance at Vienna's on Sat 28 Nov, Glasgow. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

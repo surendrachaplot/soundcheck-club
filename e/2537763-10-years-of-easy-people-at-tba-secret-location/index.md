@@ -1,6 +1,6 @@
 # 10 Years of Easy People at TBA - (Secret Location)
 
-10 Years of Easy People at TBA - (Secret Location) on Fri 13 Nov, London. House and Tech House. Preview the line-up and save it on soundcheck.
+10 Years of Easy People at TBA - (Secret Location) on Fri 13 Nov, London. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

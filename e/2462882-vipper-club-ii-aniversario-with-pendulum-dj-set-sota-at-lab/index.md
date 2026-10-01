@@ -1,6 +1,6 @@
 # VIPPER CLUB II ANIVERSARIO with Pendulum DJ SET, SOTA at LAB theCLUB
 
-VIPPER CLUB II ANIVERSARIO with Pendulum DJ SET, SOTA at LAB theCLUB on Fri 6 Nov, Madrid. 1 artist on the bill: Pendulum. Drum & Bass. Preview the line-up and save it on soundcheck.
+VIPPER CLUB II ANIVERSARIO with Pendulum DJ SET, SOTA at LAB theCLUB on Fri 6 Nov, Madrid. 1 artist: Pendulum. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Modwerks with Ø [Phase], Saag at Gare Porto
 
-Modwerks with Ø [Phase], Saag at Gare Porto on Sat 24 Oct, Porto. 2 artists on the bill: Ø [Phase] and Saag. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Modwerks with Ø [Phase], Saag at Gare Porto on Sat 24 Oct, Porto. 2 artists: Ø [Phase] and Saag. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

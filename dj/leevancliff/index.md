@@ -1,8 +1,8 @@
 # Lee Van Cliff
 
-Lee Van Cliff is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gate Milano, Milan on Fri, 23 Oct 2026.
+Lee Van Cliff is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gate Milano, Milan on Fri, 23 Oct 2026.
 
-Lee Van Cliff is a techno and house artist based in Italy, tracked on soundcheck, with 6 sets logged across Milan and Turin. Often billed alongside Bassik, Distorted Planet and Hëit. Next up: Gate Milano, Milan on Fri 23 Oct.
+Lee Van Cliff is a techno and house artist based in Italy, with 6 gigs on soundcheck across Milan and Turin. Often billed alongside Bassik, Distorted Planet and Hëit. Next up: Gate Milano, Milan on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,10 +13,10 @@ Lee Van Cliff is a techno and house artist based in Italy, tracked on soundcheck
 
 ## Recently played
 
-- Bunker, Turin — Fri, 15 May 2026
-- Bunker, Turin — Fri, 16 May 2025
-- Bunker, Turin — Tue, 31 Dec 2024
-- Shabba Club, Milan — Sat, 16 Mar 2024
+- Bunker, Turin · Fri, 15 May 2026
+- Bunker, Turin · Fri, 16 May 2025
+- Bunker, Turin · Tue, 31 Dec 2024
+- Shabba Club, Milan · Sat, 16 Mar 2024
 
 ## Shares bills with
 

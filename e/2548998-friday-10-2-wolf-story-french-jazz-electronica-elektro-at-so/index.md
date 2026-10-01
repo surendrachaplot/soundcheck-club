@@ -1,6 +1,6 @@
 # Friday 10.2 - Wolf Story - French - Jazz - Electronica - Elektro at Sound by the Sea
 
-Friday 10.2 - Wolf Story - French - Jazz - Electronica - Elektro at Sound by the Sea on Fri 2 Oct, San Diego. 1 artist on the bill: Wolf Story. Electro and Electronica. Preview the line-up and save it on soundcheck.
+Friday 10.2 - Wolf Story - French - Jazz - Electronica - Elektro at Sound by the Sea on Fri 2 Oct, San Diego. 1 artist: Wolf Story. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

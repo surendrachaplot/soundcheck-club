@@ -1,8 +1,8 @@
 # SM (4)
 
-SM (4) is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bangkok Island, Bangkok on Sat, 17 Oct 2026.
+SM (4) is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bangkok Island, Bangkok on Sat, 17 Oct 2026.
 
-SM is a techno and hip-hop artist tracked on soundcheck, with 9 sets logged across Bangkok and Glasgow. Often billed alongside LAZLO, DDSIX and Craigen. Next up: Bangkok Island, Bangkok on Sat 17 Oct.
+SM is a techno and hip-hop artist, with 9 gigs on soundcheck across Bangkok and Glasgow. Often billed alongside LAZLO, DDSIX and Craigen. Next up: Bangkok Island, Bangkok on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SM is a techno and hip-hop artist tracked on soundcheck, with 9 sets logged acro
 
 ## Recently played
 
-- La Cheetah Club, Glasgow — Wed, 13 Dec 2023
-- La Cheetah Club, Glasgow — Wed, 27 Sept 2023
-- La Cheetah Club, Glasgow — Wed, 23 Aug 2023
-- La Cheetah Club, Glasgow — Wed, 26 Jul 2023
-- SYMBØL, Glasgow — Sat, 3 Jun 2023
-- La Cheetah Club, Glasgow — Wed, 31 May 2023
-- Stereo, Glasgow — Fri, 5 May 2023
-- La Cheetah Club, Glasgow — Thu, 16 Mar 2023
+- La Cheetah Club, Glasgow · Wed, 13 Dec 2023
+- La Cheetah Club, Glasgow · Wed, 27 Sept 2023
+- La Cheetah Club, Glasgow · Wed, 23 Aug 2023
+- La Cheetah Club, Glasgow · Wed, 26 Jul 2023
+- SYMBØL, Glasgow · Sat, 3 Jun 2023
+- La Cheetah Club, Glasgow · Wed, 31 May 2023
+- Stereo, Glasgow · Fri, 5 May 2023
+- La Cheetah Club, Glasgow · Thu, 16 Mar 2023
 
 ## Shares bills with
 

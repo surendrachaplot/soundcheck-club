@@ -1,6 +1,6 @@
 # TIIIP at Secret Location Vienna
 
-TIIIP at Secret Location Vienna on Fri 2 Oct, Vienna. 6 artists on the bill: Dan Lodig, Kiawash, S.verin and Sarmabot and 2 more. Preview the line-up and save it on soundcheck.
+TIIIP at Secret Location Vienna on Fri 2 Oct, Vienna. 6 artists: Dan Lodig, Kiawash, S.verin and Sarmabot and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

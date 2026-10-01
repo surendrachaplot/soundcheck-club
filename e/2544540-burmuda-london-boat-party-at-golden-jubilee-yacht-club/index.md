@@ -1,6 +1,6 @@
 # Burmuda London Boat party at Golden Jubilee & Yacht Club
 
-Burmuda London Boat party at Golden Jubilee & Yacht Club on Sat 10 Apr, London. 3 artists on the bill: 4D (UK), Kev Blundy and PARTS. Preview the line-up and save it on soundcheck.
+Burmuda London Boat party at Golden Jubilee & Yacht Club on Sat 10 Apr, London. 3 artists: 4D (UK), Kev Blundy and PARTS. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

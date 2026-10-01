@@ -1,6 +1,6 @@
 # Our Georgian Birthday at TBA - L'Ermitage Nanobrasserie
 
-Our Georgian Birthday at TBA - L'Ermitage Nanobrasserie on Sat 3 Oct, Brussels. Preview the line-up and save it on soundcheck.
+Our Georgian Birthday at TBA - L'Ermitage Nanobrasserie on Sat 3 Oct, Brussels. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

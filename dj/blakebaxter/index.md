@@ -1,8 +1,8 @@
 # Blake Baxter
 
-Blake Baxter is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
+Blake Baxter is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lincoln Factory, Detroit on Fri, 30 Oct 2026.
 
-Blake Baxter is a techno and house artist based in United States of America, tracked on soundcheck, with 23 sets logged across Amsterdam, Berlin, Buenos Aires and Detroit and 1 more. Often billed alongside Huey Mnemonic, D. Strange and Juan Atkins. Next up: Lincoln Factory, Detroit on Fri 30 Oct.
+Blake Baxter is a techno and house artist based in United States of America, with 23 gigs on soundcheck across Amsterdam, Berlin, Buenos Aires and Detroit and 1 more. Often billed alongside Huey Mnemonic, D. Strange and Juan Atkins. Next up: Lincoln Factory, Detroit on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Blake Baxter is a techno and house artist based in United States of America, tra
 
 ## Recently played
 
-- Phono Lake, Amsterdam — Sat, 12 Sept 2026
-- Phono Lake, Amsterdam — Sat, 12 Sept 2026
-- TBA - 1151 Taylor St. - Detroit Mi., Detroit — Fri, 26 Jun 2026
-- Exodos Lounge, Detroit — Sun, 24 May 2026
-- TV Lounge, Detroit — Sat, 23 May 2026
-- TV Lounge, Detroit — Sat, 23 May 2026
-- Tresor / Globus, Berlin — Fri, 13 Mar 2026
-- H0L0, New York City — Wed, 31 Dec 2025
+- Phono Lake, Amsterdam · Sat, 12 Sept 2026
+- Phono Lake, Amsterdam · Sat, 12 Sept 2026
+- TBA - 1151 Taylor St. - Detroit Mi., Detroit · Fri, 26 Jun 2026
+- Exodos Lounge, Detroit · Sun, 24 May 2026
+- TV Lounge, Detroit · Sat, 23 May 2026
+- TV Lounge, Detroit · Sat, 23 May 2026
+- Tresor / Globus, Berlin · Fri, 13 Mar 2026
+- H0L0, New York City · Wed, 31 Dec 2025
 
 ## Shares bills with
 

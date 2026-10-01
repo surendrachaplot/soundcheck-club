@@ -1,6 +1,6 @@
 # LOVRA at The Midway
 
-LOVRA at The Midway on Fri 23 Oct, San Francisco/Oakland. 1 artist on the bill: LOVRA. House. Preview the line-up and save it on soundcheck.
+LOVRA at The Midway on Fri 23 Oct, San Francisco/Oakland. 1 artist: LOVRA. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

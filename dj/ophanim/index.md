@@ -1,8 +1,8 @@
 # Ophanim
 
-Ophanim is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at E1, London on Sat, 10 Oct 2026.
+Ophanim is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at E1, London on Sat, 10 Oct 2026.
 
-Ophanim is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Bristol, London and Manchester. Often billed alongside ALLKNIGHT, Estiva and Anriu. Next up: E1, London on Sat 10 Oct.
+Ophanim is a progressive house and house artist based in United Kingdom, with 6 gigs on soundcheck across Bristol, London and Manchester. Often billed alongside ALLKNIGHT, Estiva and Anriu. Next up: E1, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Ophanim is a progressive house and house artist based in United Kingdom, tracked
 
 ## Recently played
 
-- Riverside East, London — Sat, 16 May 2026
-- Omeara, London — Sat, 8 Nov 2025
-- Joshua Brooks, Manchester — Sat, 8 Mar 2025
-- The Love Inn, Bristol — Tue, 31 Dec 2024
-- Lost Horizon, Bristol — Sat, 17 Jun 2023
+- Riverside East, London · Sat, 16 May 2026
+- Omeara, London · Sat, 8 Nov 2025
+- Joshua Brooks, Manchester · Sat, 8 Mar 2025
+- The Love Inn, Bristol · Tue, 31 Dec 2024
+- Lost Horizon, Bristol · Sat, 17 Jun 2023
 
 ## Shares bills with
 

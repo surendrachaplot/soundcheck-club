@@ -1,6 +1,6 @@
 # Emelyne w/ Aphrodite at Latraac
 
-Emelyne w/ Aphrodite at Latraac on Sat 3 Oct, Athens. Preview the line-up and save it on soundcheck.
+Emelyne w/ Aphrodite at Latraac on Sat 3 Oct, Athens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

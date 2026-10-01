@@ -1,6 +1,6 @@
 # Box Energy // Athens of the North // Linkwood // Boots For Dancing LP launch party at Leith FAB Cricket Club
 
-Box Energy // Athens of the North // Linkwood // Boots For Dancing LP launch party at Leith FAB Cricket Club on Fri 16 Oct, Edinburgh. 2 artists on the bill: Athens of the North and Linkwood. House and Disco. Preview the line-up and save it on soundcheck.
+Box Energy // Athens of the North // Linkwood // Boots For Dancing LP launch party at Leith FAB Cricket Club on Fri 16 Oct, Edinburgh. 2 artists: Athens of the North and Linkwood. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

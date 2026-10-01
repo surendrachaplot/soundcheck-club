@@ -1,6 +1,6 @@
 # L.Taipán & Alejo L5 I Rap Lord x Blackout I Specka Live at Specka
 
-L.Taipán & Alejo L5 I Rap Lord x Blackout I Specka Live on Sun 8 Nov, Madrid. Hip-Hop. Preview the line-up and save it on soundcheck.
+L.Taipán & Alejo L5 I Rap Lord x Blackout I Specka Live on Sun 8 Nov, Madrid. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

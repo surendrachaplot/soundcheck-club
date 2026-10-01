@@ -1,6 +1,6 @@
 # GRENZWERTIG PLUS ✚ at PRST
 
-GRENZWERTIG PLUS ✚ at PRST on Sat 10 Oct, Vienna. 3 artists on the bill: Chruzo, Heinz Tronigger and Kirill Kirik. House. Preview the line-up and save it on soundcheck.
+GRENZWERTIG PLUS ✚ at PRST on Sat 10 Oct, Vienna. 3 artists: Chruzo, Heinz Tronigger and Kirill Kirik. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

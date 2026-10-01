@@ -1,6 +1,6 @@
 # LBD: Tom Cardeli (All Night Long) at StereoBar
 
-LBD: Tom Cardeli (All Night Long) at StereoBar on Sun 11 Oct, Montreal. Preview the line-up and save it on soundcheck.
+LBD: Tom Cardeli (All Night Long) at StereoBar on Sun 11 Oct, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

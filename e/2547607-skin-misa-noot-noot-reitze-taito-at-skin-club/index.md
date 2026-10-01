@@ -1,6 +1,6 @@
 # SKIN MISA: Noot Noot + Reitze + TAITO at Skin Club
 
-SKIN MISA: Noot Noot + Reitze + TAITO at Skin Club on Sun 4 Oct, Madrid. 3 artists on the bill: Noot Noot, Reitze and TAITO. Preview the line-up and save it on soundcheck.
+SKIN MISA: Noot Noot + Reitze + TAITO at Skin Club on Sun 4 Oct, Madrid. 3 artists: Noot Noot, Reitze and TAITO. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

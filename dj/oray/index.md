@@ -1,8 +1,8 @@
 # Oray
 
-Oray is a Techno and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Standard Time, Toronto on Sat, 17 Oct 2026.
+Oray is a Techno and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Standard Time, Toronto on Sat, 17 Oct 2026.
 
-Oray is a techno and ambient artist based in Turkey, tracked on soundcheck, with 8 sets logged across San Francisco/Oakland and Toronto. Often billed alongside User, Gian and Esko. Next up: Standard Time, Toronto on Sat 17 Oct.
+Oray is a techno and ambient artist based in Turkey, with 8 gigs on soundcheck across San Francisco/Oakland and Toronto. Often billed alongside User, Gian and Esko. Next up: Standard Time, Toronto on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Oray is a techno and ambient artist based in Turkey, tracked on soundcheck, with
 
 ## Recently played
 
-- Bsmt 254, Toronto — Fri, 7 Aug 2026
-- Junction Underground, Toronto — Fri, 12 Jun 2026
-- Rhythm, Toronto — Fri, 20 Feb 2026
-- Rhythm, Toronto — Fri, 24 Oct 2025
-- Tapestry, Toronto — Sat, 1 Feb 2025
-- Bsmt 254, Toronto — Sun, 30 Jun 2024
-- Public Works, San Francisco/Oakland — Thu, 30 Mar 2023
+- Bsmt 254, Toronto · Fri, 7 Aug 2026
+- Junction Underground, Toronto · Fri, 12 Jun 2026
+- Rhythm, Toronto · Fri, 20 Feb 2026
+- Rhythm, Toronto · Fri, 24 Oct 2025
+- Tapestry, Toronto · Sat, 1 Feb 2025
+- Bsmt 254, Toronto · Sun, 30 Jun 2024
+- Public Works, San Francisco/Oakland · Thu, 30 Mar 2023
 
 ## Shares bills with
 

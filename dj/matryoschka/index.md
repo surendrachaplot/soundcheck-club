@@ -1,8 +1,8 @@
 # Matryoschka
 
-Matryoschka is a Dubstep and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
+Matryoschka is a Dubstep and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
 
-Matryoschka is a dubstep and drum & bass artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Hamburg and Prague. Often billed alongside Eklekt1k, Phauna and Anton Quasi. Next up: Lauschangriff, Berlin on Thu 1 Oct.
+Matryoschka is a dubstep and drum & bass artist based in Germany, with 18 gigs on soundcheck across Berlin, Hamburg and Prague. Often billed alongside Eklekt1k, Phauna and Anton Quasi. Next up: Lauschangriff, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Matryoschka is a dubstep and drum & bass artist based in Germany, tracked on sou
 
 ## Recently played
 
-- Let it Roll Festival @Lake Most, Prague — Fri, 31 Jul 2026
-- Gretchen, Berlin — Sat, 14 Mar 2026
-- Komplex Berlin, Berlin — Sat, 7 Feb 2026
-- Der Kegel, Berlin — Sat, 31 Jan 2026
-- Humboldthain Club, Berlin — Sat, 17 Jan 2026
-- Crack Bellmer, Berlin — Sat, 27 Dec 2025
-- Lauschangriff, Berlin — Thu, 11 Dec 2025
-- Drugstore im Rockhaus, Berlin — Fri, 5 Dec 2025
+- Let it Roll Festival @Lake Most, Prague · Fri, 31 Jul 2026
+- Gretchen, Berlin · Sat, 14 Mar 2026
+- Komplex Berlin, Berlin · Sat, 7 Feb 2026
+- Der Kegel, Berlin · Sat, 31 Jan 2026
+- Humboldthain Club, Berlin · Sat, 17 Jan 2026
+- Crack Bellmer, Berlin · Sat, 27 Dec 2025
+- Lauschangriff, Berlin · Thu, 11 Dec 2025
+- Drugstore im Rockhaus, Berlin · Fri, 5 Dec 2025
 
 ## Shares bills with
 

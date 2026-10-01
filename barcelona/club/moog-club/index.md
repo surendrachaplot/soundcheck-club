@@ -1,8 +1,8 @@
 # Moog Club
 
-Moog Club is a music venue in Barcelona with 31 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Luzzatto" on Thu, 1 Oct 2026.
+Moog Club is a music venue in Barcelona with 31 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Luzzatto" on Thu, 1 Oct 2026.
 
-Moog Club is a music venue in Barcelona listed on soundcheck. 31 upcoming gigs, with line-ups including BAMBI (BE), carlota., Deckard and Derrick May and 2 more. Browse upcoming dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
+Moog Club is a music venue in Barcelona listed on soundcheck. 31 upcoming gigs, with line-ups including BAMBI (BE), carlota., Deckard and Derrick May and 2 more. See dates, start times and who's playing. Arc del Teatre, 3; 08001 Barcelona; Spain.
 
 ## What's on
 

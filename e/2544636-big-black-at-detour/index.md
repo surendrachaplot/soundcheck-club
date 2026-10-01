@@ -1,6 +1,6 @@
 # BIG BLACK at DeTour
 
-BIG BLACK at DeTour on Sat 3 Oct, Tokyo. Psytrance. Preview the line-up and save it on soundcheck.
+BIG BLACK at DeTour on Sat 3 Oct, Tokyo. Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Trancemaster Krause
 
-Trancemaster Krause is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Strasse E, Dresden on Fri, 2 Oct 2026.
+Trancemaster Krause is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Strasse E, Dresden on Fri, 2 Oct 2026.
 
-Trancemaster Krause is a techno and trance artist based in Germany, tracked on soundcheck, with 200 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Strasse E, Dresden on Fri 2 Oct.
+Trancemaster Krause is a techno and trance artist based in Germany, with 200 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Basel and 38 more. Often billed alongside Cleopard2000, Mika Heggemann and Justin Tinderdate. Next up: Strasse E, Dresden on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Trancemaster Krause is a techno and trance artist based in Germany, tracked on s
 
 ## Recently played
 
-- Grelle Forelle, Vienna — Fri, 25 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 19 Sept 2026
-- Bootshaus, Cologne — Fri, 18 Sept 2026
-- Bootshaus, Cologne — Fri, 18 Sept 2026
-- Fabrik, Madrid — Sat, 12 Sept 2026
-- Lehmann Club, Stuttgart — Fri, 11 Sept 2026
-- TBA, Melbourne — Sat, 5 Sept 2026
-- Home The Venue, Sydney — Fri, 4 Sept 2026
+- Grelle Forelle, Vienna · Fri, 25 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 19 Sept 2026
+- Bootshaus, Cologne · Fri, 18 Sept 2026
+- Bootshaus, Cologne · Fri, 18 Sept 2026
+- Fabrik, Madrid · Sat, 12 Sept 2026
+- Lehmann Club, Stuttgart · Fri, 11 Sept 2026
+- TBA, Melbourne · Sat, 5 Sept 2026
+- Home The Venue, Sydney · Fri, 4 Sept 2026
 
 ## Shares bills with
 

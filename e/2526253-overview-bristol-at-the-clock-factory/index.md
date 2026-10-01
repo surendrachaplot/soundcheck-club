@@ -1,6 +1,6 @@
 # Overview Bristol at The Clock Factory
 
-Overview Bristol at The Clock Factory on Sat 10 Oct, Bristol. 3 artists on the bill: Calyx, Kyrist and Molecular. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Overview Bristol at The Clock Factory on Sat 10 Oct, Bristol. 3 artists: Calyx, Kyrist and Molecular. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

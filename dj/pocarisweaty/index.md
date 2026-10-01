@@ -1,8 +1,8 @@
 # Pocari Sweaty
 
-Pocari Sweaty is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 宀 Club, Hong Kong on Fri, 2 Oct 2026.
+Pocari Sweaty is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 宀 Club, Hong Kong on Fri, 2 Oct 2026.
 
-Pocari Sweaty is a house and disco artist based in United States of America, tracked on soundcheck, with 15 sets logged across Hong Kong, Melbourne, Osaka and Taipei and 1 more. Often billed alongside Sunsiaré, DJ Possum and Dan-neo. Next up: 宀 Club, Hong Kong on Fri 2 Oct.
+Pocari Sweaty is a house and disco artist based in United States of America, with 15 gigs on soundcheck across Hong Kong, Melbourne, Osaka and Taipei and 1 more. Often billed alongside Sunsiaré, DJ Possum and Dan-neo. Next up: 宀 Club, Hong Kong on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Pocari Sweaty is a house and disco artist based in United States of America, tra
 
 ## Recently played
 
-- Pawnshop, Taipei — Fri, 29 May 2026
-- TBA - Stairs Space, Taipei — Fri, 15 May 2026
-- TBA - Preston, Melbourne — Sat, 21 Feb 2026
-- Runner Up Rooftop Bar, Melbourne — Sun, 15 Feb 2026
-- 宀 Club, Hong Kong — Sat, 17 Jan 2026
-- 宀 Club, Hong Kong — Fri, 26 Sept 2025
-- Acadana, Hong Kong — Sat, 5 Jul 2025
-- 宀 Club, Hong Kong — Fri, 14 Feb 2025
+- Pawnshop, Taipei · Fri, 29 May 2026
+- TBA - Stairs Space, Taipei · Fri, 15 May 2026
+- TBA - Preston, Melbourne · Sat, 21 Feb 2026
+- Runner Up Rooftop Bar, Melbourne · Sun, 15 Feb 2026
+- 宀 Club, Hong Kong · Sat, 17 Jan 2026
+- 宀 Club, Hong Kong · Fri, 26 Sept 2025
+- Acadana, Hong Kong · Sat, 5 Jul 2025
+- 宀 Club, Hong Kong · Fri, 14 Feb 2025
 
 ## Shares bills with
 

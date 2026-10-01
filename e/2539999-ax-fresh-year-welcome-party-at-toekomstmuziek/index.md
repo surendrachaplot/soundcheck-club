@@ -1,6 +1,6 @@
 # AX FRESH YEAR WELCOME PARTY at Toekomstmuziek
 
-AX FRESH YEAR WELCOME PARTY at Toekomstmuziek on Sat 3 Oct, Amsterdam. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+AX FRESH YEAR WELCOME PARTY at Toekomstmuziek on Sat 3 Oct, Amsterdam. Hip-Hop and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

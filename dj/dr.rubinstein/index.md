@@ -1,8 +1,8 @@
 # Dr. Rubinstein
 
-Dr. Rubinstein is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
+Dr. Rubinstein is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
 
-Dr. Rubinstein is a techno and house artist based in Germany, tracked on soundcheck, with 206 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 61 more. Often billed alongside Ellen Allien, Freddy K and Akua. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
+Dr. Rubinstein is a techno and house artist based in Germany, with 206 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belgrade and 61 more. Often billed alongside Ellen Allien, Freddy K and Akua. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Dr. Rubinstein is a techno and house artist based in Germany, tracked on soundch
 
 ## Recently played
 
-- Fvtvr, Paris — Sat, 12 Sept 2026
-- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
-- Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- Razzmatazz, Barcelona — Sat, 25 Jul 2026
-- Macadam, Nantes — Fri, 3 Jul 2026
-- Mia Mao, Paris — Fri, 5 Jun 2026
-- Fuse, Brussels — Sat, 30 May 2026
+- Fvtvr, Paris · Sat, 12 Sept 2026
+- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
+- Amsterdamse Bos, Amsterdam · Fri, 31 Jul 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- Razzmatazz, Barcelona · Sat, 25 Jul 2026
+- Macadam, Nantes · Fri, 3 Jul 2026
+- Mia Mao, Paris · Fri, 5 Jun 2026
+- Fuse, Brussels · Sat, 30 May 2026
 
 ## Shares bills with
 

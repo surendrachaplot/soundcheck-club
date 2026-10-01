@@ -1,6 +1,6 @@
 # Loud Luxury (Thanksgiving Weekend) at Echostage
 
-Loud Luxury (Thanksgiving Weekend) at Echostage on Sat 28 Nov, Washington DC. House. Preview the line-up and save it on soundcheck.
+Loud Luxury (Thanksgiving Weekend) at Echostage on Sat 28 Nov, Washington DC. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

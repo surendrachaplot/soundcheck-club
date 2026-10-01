@@ -1,8 +1,8 @@
 # Scariestgirlintheworld
 
-Scariestgirlintheworld is a IDM and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Portugal Madeira Club, Sydney on Fri, 2 Oct 2026.
+Scariestgirlintheworld is a IDM and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Portugal Madeira Club, Sydney on Fri, 2 Oct 2026.
 
-Scariestgirlintheworld is an idm and experimental artist based in Australia, tracked on soundcheck, with 9 sets logged across Sydney. Often billed alongside Arsonist, Jll0Mll0 and Jungist. Next up: Portugal Madeira Club, Sydney on Fri 2 Oct.
+Scariestgirlintheworld is an idm and experimental artist based in Australia, with 9 gigs on soundcheck across Sydney. Often billed alongside Arsonist, Jll0Mll0 and Jungist. Next up: Portugal Madeira Club, Sydney on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Scariestgirlintheworld is an idm and experimental artist based in Australia, tra
 
 ## Recently played
 
-- TBA, Sydney — Sat, 5 Sept 2026
-- Oxford Art Factory, Sydney — Sun, 14 Jun 2026
-- TBA, Sydney — Sat, 30 May 2026
-- TBA, Sydney — Fri, 22 May 2026
-- The Chippo Hotel, Sydney — Sun, 14 Dec 2025
-- TBA, Sydney — Sat, 27 Sept 2025
-- TBA, Sydney — Sat, 23 Aug 2025
-- TBA, Sydney — Sun, 22 Jun 2025
+- TBA, Sydney · Sat, 5 Sept 2026
+- Oxford Art Factory, Sydney · Sun, 14 Jun 2026
+- TBA, Sydney · Sat, 30 May 2026
+- TBA, Sydney · Fri, 22 May 2026
+- The Chippo Hotel, Sydney · Sun, 14 Dec 2025
+- TBA, Sydney · Sat, 27 Sept 2025
+- TBA, Sydney · Sat, 23 Aug 2025
+- TBA, Sydney · Sun, 22 Jun 2025
 
 ## Shares bills with
 

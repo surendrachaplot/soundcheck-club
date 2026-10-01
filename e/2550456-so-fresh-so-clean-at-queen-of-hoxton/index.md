@@ -1,6 +1,6 @@
 # So Fresh So Clean at Queen Of Hoxton
 
-So Fresh So Clean at Queen Of Hoxton on Fri 30 Oct, London. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+So Fresh So Clean at Queen Of Hoxton on Fri 30 Oct, London. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

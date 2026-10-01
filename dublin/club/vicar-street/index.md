@@ -1,8 +1,8 @@
 # Vicar Street
 
-Vicar Street is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Autechre" on Tue, 20 Oct 2026.
+Vicar Street is a music venue in Dublin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Autechre" on Tue, 20 Oct 2026.
 
-Vicar Street is a music venue in Dublin listed on soundcheck. 2 upcoming gigs, with line-ups including 2ManyDJs, Autechre and KORMAC. Browse upcoming dates, start times and who's playing. 58-59 Thomas Street; Dublin 8; Ireland.
+Vicar Street is a music venue in Dublin listed on soundcheck. 2 upcoming gigs, with line-ups including 2ManyDJs, Autechre and KORMAC. See dates, start times and who's playing. 58-59 Thomas Street; Dublin 8; Ireland.
 
 ## What's on
 

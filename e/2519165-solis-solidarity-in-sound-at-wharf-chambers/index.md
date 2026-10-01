@@ -1,6 +1,6 @@
 # SOLIS: Solidarity In Sound at Wharf Chambers
 
-SOLIS: Solidarity In Sound at Wharf Chambers on Fri 16 Oct, Leeds. Trance and Techno. Preview the line-up and save it on soundcheck.
+SOLIS: Solidarity In Sound at Wharf Chambers on Fri 16 Oct, Leeds. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

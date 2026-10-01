@@ -1,6 +1,6 @@
 # Echo // Shonky at DURO
 
-Echo // Shonky at DURO on Fri 9 Oct, Milan. 1 artist on the bill: Shonky. Techno and House. Preview the line-up and save it on soundcheck.
+Echo // Shonky at DURO on Fri 9 Oct, Milan. 1 artist: Shonky. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

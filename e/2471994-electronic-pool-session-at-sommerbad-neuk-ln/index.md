@@ -1,6 +1,6 @@
 # electronic pool session at Sommerbad Neuköln
 
-electronic pool session at Sommerbad Neuköln on Sat 28 Aug, Berlin. 12 artists on the bill: Anuuk, BENNETT, Charleen Herzig and Clara Cuvé and 8 more. Techno. Preview the line-up and save it on soundcheck.
+electronic pool session at Sommerbad Neuköln on Sat 28 Aug, Berlin. 12 artists: Anuuk, BENNETT, Charleen Herzig and Clara Cuvé and 8 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

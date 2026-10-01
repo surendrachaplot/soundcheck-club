@@ -1,6 +1,6 @@
 # Club — LA CH!CK: JUST DANCE IRL at Badaboum
 
-Club — LA CH!CK: JUST DANCE IRL at Badaboum on Thu 15 Oct, Paris. Pop. Preview the line-up and save it on soundcheck.
+Club — LA CH!CK: JUST DANCE IRL at Badaboum on Thu 15 Oct, Paris. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

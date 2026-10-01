@@ -1,6 +1,6 @@
 # Club Vaag invites MIKA HEGGEMAN & SUPRISE HEADLINER at Club Vaag
 
-Club Vaag invites MIKA HEGGEMAN & SUPRISE HEADLINER on Fri 30 Oct, Antwerp. 2 artists on the bill: Mika Heggemann and Vince Alphen. Preview the line-up and save it on soundcheck.
+Club Vaag invites MIKA HEGGEMAN & SUPRISE HEADLINER on Fri 30 Oct, Antwerp. 2 artists: Mika Heggemann and Vince Alphen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

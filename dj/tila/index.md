@@ -1,8 +1,8 @@
 # TiLA
 
-TiLA is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at SWG3, Glasgow on Fri, 9 Oct 2026.
+TiLA is a Techno and Minimal Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
 
-TiLA is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 4 sets logged across Glasgow. Often billed alongside SunēX, ITEM9 and Aileron. Next up: SWG3, Glasgow on Fri 9 Oct.
+TiLA is a techno and minimal techno artist based in United Kingdom, with 4 gigs on soundcheck across Glasgow. Often billed alongside SunēX, ITEM9 and Aileron. Next up: SWG3, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,8 @@ TiLA is a techno and minimal techno artist based in United Kingdom, tracked on s
 
 ## Recently played
 
-- Nice N Sleazy, Glasgow — Fri, 14 Aug 2026
-- Nice N Sleazy, Glasgow — Thu, 30 Jul 2026
+- Nice N Sleazy, Glasgow · Fri, 14 Aug 2026
+- Nice N Sleazy, Glasgow · Thu, 30 Jul 2026
 
 ## Shares bills with
 

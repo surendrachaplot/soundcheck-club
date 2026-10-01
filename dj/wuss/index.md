@@ -1,8 +1,8 @@
 # Wuss
 
-Wuss is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
+Wuss is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jènemar Passéjure, Prague on Fri, 9 Oct 2026.
 
-Wuss is a house and club artist based in Slovakia, tracked on soundcheck, with 37 sets logged across Prague. Often billed alongside duboisi, Kirill Astra and DJ Zurückbleiben Bitte. Next up: Jènemar Passéjure, Prague on Fri 9 Oct.
+Wuss is a house and club artist based in Slovakia, with 37 gigs on soundcheck across Prague. Often billed alongside duboisi, Kirill Astra and DJ Zurückbleiben Bitte. Next up: Jènemar Passéjure, Prague on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Wuss is a house and club artist based in Slovakia, tracked on soundcheck, with 3
 
 ## Recently played
 
-- Tendance, Prague — Fri, 31 Jul 2026
-- Ankali & Planeta Za, Prague — Sat, 9 May 2026
-- Groove Bar, Prague — Sat, 14 Mar 2026
-- Tendance, Prague — Fri, 13 Mar 2026
-- 25,2 rpm, Prague — Fri, 20 Feb 2026
-- Groove Bar, Prague — Fri, 30 Jan 2026
-- Groove Bar, Prague — Fri, 16 Jan 2026
-- Ankali & Planeta Za, Prague — Fri, 9 Jan 2026
+- Tendance, Prague · Fri, 31 Jul 2026
+- Ankali & Planeta Za, Prague · Sat, 9 May 2026
+- Groove Bar, Prague · Sat, 14 Mar 2026
+- Tendance, Prague · Fri, 13 Mar 2026
+- 25,2 rpm, Prague · Fri, 20 Feb 2026
+- Groove Bar, Prague · Fri, 30 Jan 2026
+- Groove Bar, Prague · Fri, 16 Jan 2026
+- Ankali & Planeta Za, Prague · Fri, 9 Jan 2026
 
 ## Shares bills with
 

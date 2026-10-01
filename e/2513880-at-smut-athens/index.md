@@ -1,6 +1,6 @@
 # ΗΔΟΝΗ at SMUT Athens
 
-ΗΔΟΝΗ at SMUT Athens on Sat 28 Nov, Athens. Club. Preview the line-up and save it on soundcheck.
+ΗΔΟΝΗ at SMUT Athens on Sat 28 Nov, Athens. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

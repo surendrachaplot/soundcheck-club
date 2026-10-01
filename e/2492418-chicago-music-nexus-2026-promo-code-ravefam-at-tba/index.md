@@ -1,6 +1,6 @@
 # Chicago Music Nexus 2026 - Promo Code 'RAVEFAM' at TBA
 
-Chicago Music Nexus 2026 - Promo Code 'RAVEFAM' at TBA on Fri 20 Nov, Chicago. House. Preview the line-up and save it on soundcheck.
+Chicago Music Nexus 2026 - Promo Code 'RAVEFAM' at TBA on Fri 20 Nov, Chicago. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Double Trouble: Prins Thomas + Isoebel at Jaeger
 
-Double Trouble: Prins Thomas + Isoebel at Jaeger on Sat 17 Oct, Oslo. 1 artist on the bill: Prins Thomas. House and Disco. Preview the line-up and save it on soundcheck.
+Double Trouble: Prins Thomas + Isoebel at Jaeger on Sat 17 Oct, Oslo. 1 artist: Prins Thomas. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

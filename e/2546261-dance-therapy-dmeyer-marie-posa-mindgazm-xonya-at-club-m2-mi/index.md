@@ -1,6 +1,6 @@
 # Dance Therapy: DMeyer, Marie Posa, Mindgazm, Xonya at Club M2 Miami
 
-Dance Therapy: DMeyer, Marie Posa, Mindgazm, Xonya at Club M2 Miami on Sat 3 Oct, Miami. House and Tech House. Preview the line-up and save it on soundcheck.
+Dance Therapy: DMeyer, Marie Posa, Mindgazm, Xonya at Club M2 Miami on Sat 3 Oct, Miami. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

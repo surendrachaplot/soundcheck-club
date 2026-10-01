@@ -1,6 +1,6 @@
 # Hamdi at Lincoln Factory
 
-Hamdi at Lincoln Factory on Sat 24 Oct, Detroit. 2 artists on the bill: Ahadadream and Hamdi (UK). Garage and Dubstep. Preview the line-up and save it on soundcheck.
+Hamdi at Lincoln Factory on Sat 24 Oct, Detroit. 2 artists: Ahadadream and Hamdi (UK). Garage and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

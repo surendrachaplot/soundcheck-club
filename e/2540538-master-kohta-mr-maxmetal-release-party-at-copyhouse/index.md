@@ -1,6 +1,6 @@
 # master kohta 'Mr.Maxmetal' release party at Copyhouse
 
-master kohta 'Mr.Maxmetal' release party at Copyhouse on Mon 23 Nov, Osaka. Experimental and Footwork. Preview the line-up and save it on soundcheck.
+master kohta 'Mr.Maxmetal' release party at Copyhouse on Mon 23 Nov, Osaka. Experimental and Footwork. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

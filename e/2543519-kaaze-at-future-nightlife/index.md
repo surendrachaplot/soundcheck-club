@@ -1,6 +1,6 @@
 # KAAZE at Future Nightlife
 
-KAAZE at Future Nightlife on Fri 9 Oct, Toronto. 1 artist on the bill: KAAZE. Preview the line-up and save it on soundcheck.
+KAAZE at Future Nightlife on Fri 9 Oct, Toronto. 1 artist: KAAZE. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

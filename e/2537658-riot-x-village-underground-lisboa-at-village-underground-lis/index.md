@@ -1,6 +1,6 @@
 # RIOT X Village Underground Lisboa at Village Underground Lisboa
 
-RIOT X Village Underground Lisboa on Sat 3 Oct, Lisbon. 1 artist on the bill: Ketarina. Preview the line-up and save it on soundcheck.
+RIOT X Village Underground Lisboa on Sat 3 Oct, Lisbon. 1 artist: Ketarina. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

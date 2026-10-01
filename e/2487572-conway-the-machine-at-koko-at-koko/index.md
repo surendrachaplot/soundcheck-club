@@ -1,6 +1,6 @@
 # CONWAY THE MACHINE at KOKO at KOKO
 
-CONWAY THE MACHINE at KOKO on Wed 28 Oct, London. Hip-Hop and Grime. Preview the line-up and save it on soundcheck.
+CONWAY THE MACHINE at KOKO on Wed 28 Oct, London. Hip-Hop and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

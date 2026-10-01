@@ -1,6 +1,6 @@
 # LACE: TBA at 1520
 
-LACE: TBA at 1520 on Sat 12 Dec, Manchester. Preview the line-up and save it on soundcheck.
+LACE: TBA at 1520 on Sat 12 Dec, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

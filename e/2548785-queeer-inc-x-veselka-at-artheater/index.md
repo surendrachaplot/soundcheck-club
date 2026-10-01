@@ -1,6 +1,6 @@
 # Queeer Inc. X VESELKA at Artheater
 
-Queeer Inc. X VESELKA at Artheater on Sat 10 Oct, Cologne. 4 artists on the bill: Alalkih, Irakli, Juan Del Chambo and Redfocks. Preview the line-up and save it on soundcheck.
+Queeer Inc. X VESELKA at Artheater on Sat 10 Oct, Cologne. 4 artists: Alalkih, Irakli, Juan Del Chambo and Redfocks. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

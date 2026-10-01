@@ -1,6 +1,6 @@
 # STUDIO 69 at C2 OST
 
-STUDIO 69 at C2 OST on Fri 13 Nov, Karlsruhe. 4 artists on the bill: CHIEF QUEEF, DJ Business, Sophti and Wall Ra. Preview the line-up and save it on soundcheck.
+STUDIO 69 at C2 OST on Fri 13 Nov, Karlsruhe. 4 artists: CHIEF QUEEF, DJ Business, Sophti and Wall Ra. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

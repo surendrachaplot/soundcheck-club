@@ -1,8 +1,8 @@
 # TS7
 
-TS7 is a Bass and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Clock Factory, Bristol on Fri, 2 Oct 2026.
+TS7 is a Bass and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Clock Factory, Bristol on Fri, 2 Oct 2026.
 
-TS7 is a bass and house artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Auckland, Birmingham, Bristol and Glasgow and 6 more. Often billed alongside Burgaboy, Chad Harrison and DJ Q. Next up: The Clock Factory, Bristol on Fri 2 Oct.
+TS7 is a bass and house artist based in United Kingdom, with 21 gigs on soundcheck across Auckland, Birmingham, Bristol and Glasgow and 6 more. Often billed alongside Burgaboy, Chad Harrison and DJ Q. Next up: The Clock Factory, Bristol on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ TS7 is a bass and house artist based in United Kingdom, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA - Shed 10, Auckland — Thu, 9 Jul 2026
-- Springwell - North Brewing, Leeds — Sat, 23 May 2026
-- TESTBED, Leeds — Sat, 31 Jan 2026
-- Hidden, Manchester — Sat, 18 Oct 2025
-- Document, Bristol — Fri, 3 Oct 2025
-- The Warehouse, Leeds — Sat, 27 Sept 2025
-- MSM Complex, Sheffield — Tue, 31 Dec 2024
-- The Warehouse, Leeds — Sat, 23 Nov 2024
+- TBA - Shed 10, Auckland · Thu, 9 Jul 2026
+- Springwell - North Brewing, Leeds · Sat, 23 May 2026
+- TESTBED, Leeds · Sat, 31 Jan 2026
+- Hidden, Manchester · Sat, 18 Oct 2025
+- Document, Bristol · Fri, 3 Oct 2025
+- The Warehouse, Leeds · Sat, 27 Sept 2025
+- MSM Complex, Sheffield · Tue, 31 Dec 2024
+- The Warehouse, Leeds · Sat, 23 Nov 2024
 
 ## Shares bills with
 

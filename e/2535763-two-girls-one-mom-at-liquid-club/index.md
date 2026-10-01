@@ -1,6 +1,6 @@
 # two girls one mom at Liquid Club
 
-two girls one mom at Liquid Club on Sat 12 Dec, Malta. 4 artists on the bill: Billy Hills, Dicentra, Morris and Naomi Baldacchino. Preview the line-up and save it on soundcheck.
+two girls one mom at Liquid Club on Sat 12 Dec, Malta. 4 artists: Billy Hills, Dicentra, Morris and Naomi Baldacchino. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

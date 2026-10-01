@@ -1,8 +1,8 @@
 # Blawan
 
-Blawan is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Blawan is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Blawan is a techno and house artist based in United Kingdom, tracked on soundcheck, with 162 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Helena Hauff, JakoJako and Pariah. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Blawan is a techno and house artist based in United Kingdom, with 162 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Helena Hauff, JakoJako and Pariah. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Blawan is a techno and house artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- Outernet Live, London — Fri, 25 Sept 2026
-- Various Venues, London — Thu, 24 Sept 2026
-- Lehmann Club, Stuttgart — Sat, 29 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 8 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 8 Aug 2026
-- Kaiku, Helsinki — Fri, 24 Jul 2026
-- Parc Nou. El Prat de Llobregat, Barcelona — Fri, 17 Jul 2026
-- Teez Bar, London — Sat, 6 Jun 2026
+- Outernet Live, London · Fri, 25 Sept 2026
+- Various Venues, London · Thu, 24 Sept 2026
+- Lehmann Club, Stuttgart · Sat, 29 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 8 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 8 Aug 2026
+- Kaiku, Helsinki · Fri, 24 Jul 2026
+- Parc Nou. El Prat de Llobregat, Barcelona · Fri, 17 Jul 2026
+- Teez Bar, London · Sat, 6 Jun 2026
 
 ## Shares bills with
 

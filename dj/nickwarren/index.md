@@ -1,8 +1,8 @@
 # Nick Warren
 
-Nick Warren is a Progressive House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Limelight, Belfast on Fri, 2 Oct 2026.
+Nick Warren is a Progressive House and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Limelight, Belfast on Fri, 2 Oct 2026.
 
-Nick Warren is a progressive house and house artist based in United Kingdom, tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: The Limelight, Belfast on Fri 2 Oct.
+Nick Warren is a progressive house and house artist based in United Kingdom, with 137 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 36 more. Often billed alongside Hernan Cattaneo, Martin Fredes and Sasha. Next up: The Limelight, Belfast on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Nick Warren is a progressive house and house artist based in United Kingdom, tra
 
 ## Recently played
 
-- Evergreen Brick Works, Toronto — Sun, 27 Sept 2026
-- Jolene Downtown Miami, Miami — Sat, 26 Sept 2026
-- Jolene Downtown Miami, Miami — Sat, 26 Sept 2026
-- Castaways, Chicago — Sun, 20 Sept 2026
-- Q Nightclub, Seattle — Sat, 19 Sept 2026
-- UNLOCKED, London — Sat, 5 Sept 2026
-- Sloterpark, Amsterdam — Sat, 8 Aug 2026
-- Bristol Amphitheatre & Waterfront Square, Bristol — Fri, 24 Jul 2026
+- Evergreen Brick Works, Toronto · Sun, 27 Sept 2026
+- Jolene Downtown Miami, Miami · Sat, 26 Sept 2026
+- Jolene Downtown Miami, Miami · Sat, 26 Sept 2026
+- Castaways, Chicago · Sun, 20 Sept 2026
+- Q Nightclub, Seattle · Sat, 19 Sept 2026
+- UNLOCKED, London · Sat, 5 Sept 2026
+- Sloterpark, Amsterdam · Sat, 8 Aug 2026
+- Bristol Amphitheatre & Waterfront Square, Bristol · Fri, 24 Jul 2026
 
 ## Shares bills with
 

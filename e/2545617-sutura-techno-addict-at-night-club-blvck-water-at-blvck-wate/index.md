@@ -1,6 +1,6 @@
 # 'sutura' TECHNO ADDICT at Night Club Blvck Water at Blvck Water
 
-'sutura' TECHNO ADDICT at Night Club Blvck Water on Tue 6 Oct, Osaka. 3 artists on the bill: amor (JP), dyn (JP) and ZAGUN. Techno. Preview the line-up and save it on soundcheck.
+'sutura' TECHNO ADDICT at Night Club Blvck Water on Tue 6 Oct, Osaka. 3 artists: amor (JP), dyn (JP) and ZAGUN. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

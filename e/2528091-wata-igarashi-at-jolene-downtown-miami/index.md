@@ -1,6 +1,6 @@
 # Wata Igarashi at Jolene Downtown Miami
 
-Wata Igarashi at Jolene Downtown Miami on Sat 3 Oct, Miami. 3 artists on the bill: Jonny From Space, Julia Saturno and Wata Igarashi. Techno. Preview the line-up and save it on soundcheck.
+Wata Igarashi at Jolene Downtown Miami on Sat 3 Oct, Miami. 3 artists: Jonny From Space, Julia Saturno and Wata Igarashi. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

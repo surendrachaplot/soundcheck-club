@@ -1,6 +1,6 @@
 # Prince Fatty X Greensleeves Xmas Dance at The Fox and Firkin
 
-Prince Fatty X Greensleeves Xmas Dance at The Fox and Firkin on Fri 11 Dec, London. 2 artists on the bill: Liam Bailey and Prince Fatty. Bass and Dub. Preview the line-up and save it on soundcheck.
+Prince Fatty X Greensleeves Xmas Dance at The Fox and Firkin on Fri 11 Dec, London. 2 artists: Liam Bailey and Prince Fatty. Bass and Dub. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

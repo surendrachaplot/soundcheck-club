@@ -1,6 +1,6 @@
 # BRAVE x MOMENTUM x RAMBAZAMBA at K39
 
-BRAVE x MOMENTUM x RAMBAZAMBA at K39 on Fri 2 Oct, Frankfurt. 4 artists on the bill: A.T.E.K, assena, Maxic and PAU. Trance and Techno. Preview the line-up and save it on soundcheck.
+BRAVE x MOMENTUM x RAMBAZAMBA at K39 on Fri 2 Oct, Frankfurt. 4 artists: A.T.E.K, assena, Maxic and PAU. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

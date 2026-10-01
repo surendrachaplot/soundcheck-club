@@ -1,6 +1,6 @@
 # Bremen NEXT meets SYNC at Ansgarikirchhof Bremen
 
-Bremen NEXT meets SYNC at Ansgarikirchhof Bremen on Fri 2 Oct, Bremen. 3 artists on the bill: DJ Tallboy, Paul Meier and trancinqueen. Preview the line-up and save it on soundcheck.
+Bremen NEXT meets SYNC at Ansgarikirchhof Bremen on Fri 2 Oct, Bremen. 3 artists: DJ Tallboy, Paul Meier and trancinqueen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TISOKI at Q Nightclub
 
-TISOKI at Q Nightclub on Fri 23 Oct, Seattle. Preview the line-up and save it on soundcheck.
+TISOKI at Q Nightclub on Fri 23 Oct, Seattle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

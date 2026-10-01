@@ -1,6 +1,6 @@
 # Nazka Sundown Mestizo Bites & Cuts at Nazka
 
-Nazka Sundown Mestizo Bites & Cuts on Wed 21 Oct, Amsterdam. Dub and Latin Bass. Preview the line-up and save it on soundcheck.
+Nazka Sundown Mestizo Bites & Cuts on Wed 21 Oct, Amsterdam. Dub and Latin Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

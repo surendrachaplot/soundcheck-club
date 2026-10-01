@@ -1,6 +1,6 @@
 # Ampere presents: The Founding Father of House, Lil' Louis at Ampere
 
-Ampere presents: The Founding Father of House, Lil' Louis on Sat 3 Oct, Antwerp. 3 artists on the bill: DTM Funk, Lil' Louis and Pirrès. House. Preview the line-up and save it on soundcheck.
+Ampere presents: The Founding Father of House, Lil' Louis on Sat 3 Oct, Antwerp. 3 artists: DTM Funk, Lil' Louis and Pirrès. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

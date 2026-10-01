@@ -1,6 +1,6 @@
 # Kylie Wears Berghaus at Stereo
 
-Kylie Wears Berghaus at Stereo on Sat 24 Oct, Glasgow. 1 artist on the bill: Kylie Wears Berghaus. Electro and Pop. Preview the line-up and save it on soundcheck.
+Kylie Wears Berghaus at Stereo on Sat 24 Oct, Glasgow. 1 artist: Kylie Wears Berghaus. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

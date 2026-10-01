@@ -1,6 +1,6 @@
 # Favela Events: ADE Special at Supperclub
 
-Favela Events: ADE Special at Supperclub on Fri 23 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Favela Events: ADE Special at Supperclub on Fri 23 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

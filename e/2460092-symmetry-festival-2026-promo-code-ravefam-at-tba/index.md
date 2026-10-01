@@ -1,6 +1,6 @@
 # Symmetry Festival 2026 - Promo Code 'RAVEFAM' at TBA
 
-Symmetry Festival 2026 - Promo Code 'RAVEFAM' at TBA on Fri 2 Oct, Iowa. 18 artists on the bill: Agent O, Djedi, Eastghost and Fyoomz and 14 more. Preview the line-up and save it on soundcheck.
+Symmetry Festival 2026 - Promo Code 'RAVEFAM' at TBA on Fri 2 Oct, Iowa. 18 artists: Agent O, Djedi, Eastghost and Fyoomz and 14 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

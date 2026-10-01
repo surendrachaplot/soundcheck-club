@@ -1,6 +1,6 @@
 # Master & Servant at Insomnia
 
-Master & Servant at Insomnia on Fri 6 Nov, Berlin. Pop and New Wave. Preview the line-up and save it on soundcheck.
+Master & Servant at Insomnia on Fri 6 Nov, Berlin. Pop and New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

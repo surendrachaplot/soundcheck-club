@@ -1,6 +1,6 @@
 # GOA Special pres Reverence [Brasilian Psytrance] at M-BIA
 
-GOA Special pres Reverence [Brasilian Psytrance] at M-BIA on Sat 7 Nov, Berlin. Preview the line-up and save it on soundcheck.
+GOA Special pres Reverence [Brasilian Psytrance] at M-BIA on Sat 7 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

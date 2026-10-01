@@ -1,6 +1,6 @@
 # Our Bodies at The Redwood Bar And Grill
 
-Our Bodies at The Redwood Bar And Grill on Sun 11 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
+Our Bodies at The Redwood Bar And Grill on Sun 11 Oct, Los Angeles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

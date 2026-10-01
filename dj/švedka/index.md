@@ -1,8 +1,8 @@
 # švedka
 
-švedka is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Bongo Club, Edinburgh on Sat, 3 Oct 2026.
+švedka is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bongo Club, Edinburgh on Sat, 3 Oct 2026.
 
-švedka is a techno and electro artist based in Lithuania, tracked on soundcheck, with 19 sets logged across Edinburgh, Leeds, London and Manchester. Often billed alongside IDACARE, INLIMEN and Edac. Next up: The Bongo Club, Edinburgh on Sat 3 Oct.
+švedka is a techno and electro artist based in Lithuania, with 19 gigs on soundcheck across Edinburgh, Leeds, London and Manchester. Often billed alongside IDACARE, INLIMEN and Edac. Next up: The Bongo Club, Edinburgh on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@
 
 ## Recently played
 
-- The DBA, Manchester — Sat, 22 Aug 2026
-- Stage and Radio, Manchester — Fri, 3 Jul 2026
-- The DBA, Manchester — Sat, 18 Apr 2026
-- Aaja Basement, London — Sat, 11 Apr 2026
-- The Bag Factory, Manchester — Sun, 22 Mar 2026
-- The Bag Factory, Manchester — Sun, 15 Mar 2026
-- The DBA, Manchester — Sat, 24 Jan 2026
-- Beaver Works, Leeds — Sat, 22 Nov 2025
+- The DBA, Manchester · Sat, 22 Aug 2026
+- Stage and Radio, Manchester · Fri, 3 Jul 2026
+- The DBA, Manchester · Sat, 18 Apr 2026
+- Aaja Basement, London · Sat, 11 Apr 2026
+- The Bag Factory, Manchester · Sun, 22 Mar 2026
+- The Bag Factory, Manchester · Sun, 15 Mar 2026
+- The DBA, Manchester · Sat, 24 Jan 2026
+- Beaver Works, Leeds · Sat, 22 Nov 2025
 
 ## Shares bills with
 

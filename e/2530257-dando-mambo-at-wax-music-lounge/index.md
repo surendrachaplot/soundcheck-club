@@ -1,6 +1,6 @@
 # DANDO MAMBO at Wax Music Lounge
 
-DANDO MAMBO at Wax Music Lounge on Fri 30 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+DANDO MAMBO at Wax Music Lounge on Fri 30 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CHRŌMATIC with NICK WARREN at Reddo Warsaw Club
 
-CHRŌMATIC with NICK WARREN at Reddo Warsaw Club on Fri 9 Oct, Warsaw. 3 artists on the bill: Angelo Mike, Nick Warren and Tuxedo. Progressive House. Preview the line-up and save it on soundcheck.
+CHRŌMATIC with NICK WARREN at Reddo Warsaw Club on Fri 9 Oct, Warsaw. 3 artists: Angelo Mike, Nick Warren and Tuxedo. Progressive House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Flytz, BACKSPIN, YVNNI at Salon Daomé
 
-Flytz, BACKSPIN, YVNNI at Salon Daomé on Thu 1 Oct, Montreal. 2 artists on the bill: Flytz and YVNNI. Preview the line-up and save it on soundcheck.
+Flytz, BACKSPIN, YVNNI at Salon Daomé on Thu 1 Oct, Montreal. 2 artists: Flytz and YVNNI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

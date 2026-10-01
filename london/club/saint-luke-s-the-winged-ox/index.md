@@ -1,8 +1,8 @@
 # Saint Luke's & The Winged Ox
 
-Saint Luke's & The Winged Ox is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Optimo Halloween - Espookio made us do it" on Sat, 31 Oct 2026.
+Saint Luke's & The Winged Ox is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Optimo Halloween - Espookio made us do it" on Sat, 31 Oct 2026.
 
-Saint Luke's & The Winged Ox is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Optimo (Espacio). Browse upcoming dates, start times and who's playing. 17 Bain St, Glasgow G40 2JZ.
+Saint Luke's & The Winged Ox is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Optimo (Espacio). See dates, start times and who's playing. 17 Bain St, Glasgow G40 2JZ.
 
 ## What's on
 

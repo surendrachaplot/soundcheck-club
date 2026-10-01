@@ -1,8 +1,8 @@
 # Jetski
 
-Jetski is a Hardcore and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lost Art Shop, Liverpool on Sat, 21 Nov 2026.
+Jetski is a Hardcore and Jungle artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lost Art Shop, Liverpool on Sat, 21 Nov 2026.
 
-Jetski is a hardcore and jungle artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Bristol, Edinburgh, Leeds and Liverpool and 2 more. Often billed alongside Zubz, DJ Soyboi and DROMEK. Next up: Lost Art Shop, Liverpool on Sat 21 Nov.
+Jetski is a hardcore and jungle artist based in United Kingdom, with 8 gigs on soundcheck across Bristol, Edinburgh, Leeds and Liverpool and 2 more. Often billed alongside Zubz, DJ Soyboi and DROMEK. Next up: Lost Art Shop, Liverpool on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Jetski is a hardcore and jungle artist based in United Kingdom, tracked on sound
 
 ## Recently played
 
-- Rough Trade Liverpool, Liverpool — Sat, 5 Sept 2026
-- Sneaky Pete's, Edinburgh — Thu, 5 Sept 2024
-- The Glove That Fits, London — Fri, 3 May 2024
-- Sidney & Matilda, Sheffield — Sat, 3 Feb 2024
-- Freedom Mills, Leeds — Sat, 7 Oct 2023
-- Cu, London — Thu, 21 Sept 2023
-- Exchange, Bristol — Fri, 16 Jun 2023
+- Rough Trade Liverpool, Liverpool · Sat, 5 Sept 2026
+- Sneaky Pete's, Edinburgh · Thu, 5 Sept 2024
+- The Glove That Fits, London · Fri, 3 May 2024
+- Sidney & Matilda, Sheffield · Sat, 3 Feb 2024
+- Freedom Mills, Leeds · Sat, 7 Oct 2023
+- Cu, London · Thu, 21 Sept 2023
+- Exchange, Bristol · Fri, 16 Jun 2023
 
 ## Shares bills with
 

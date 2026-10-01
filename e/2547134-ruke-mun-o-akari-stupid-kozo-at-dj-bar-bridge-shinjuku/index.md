@@ -1,6 +1,6 @@
 # RUKE, MUNÉO, AKARI & Stupid Kozo at DJ Bar Bridge Shinjuku
 
-RUKE, MUNÉO, AKARI & Stupid Kozo at DJ Bar Bridge Shinjuku on Sat 3 Oct, Tokyo. 3 artists on the bill: MUNÉO, RUKE and Stupid Kozo. House and Afro House. Preview the line-up and save it on soundcheck.
+RUKE, MUNÉO, AKARI & Stupid Kozo at DJ Bar Bridge Shinjuku on Sat 3 Oct, Tokyo. 3 artists: MUNÉO, RUKE and Stupid Kozo. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

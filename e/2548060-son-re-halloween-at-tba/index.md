@@ -1,6 +1,6 @@
 # sonāre - Halloween at TBA
 
-sonāre - Halloween at TBA on Sat 31 Oct, Mexico City. 1 artist on the bill: NetCont. Techno and House. Preview the line-up and save it on soundcheck.
+sonāre - Halloween at TBA on Sat 31 Oct, Mexico City. 1 artist: NetCont. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

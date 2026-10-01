@@ -1,6 +1,6 @@
 # AER at Marmorbar
 
-AER at Marmorbar on Fri 23 Oct, Berlin. 2 artists on the bill: FUNIC and funk4. Trance and Techno. Preview the line-up and save it on soundcheck.
+AER at Marmorbar on Fri 23 Oct, Berlin. 2 artists: FUNIC and funk4. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

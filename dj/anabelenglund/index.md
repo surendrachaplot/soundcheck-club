@@ -1,8 +1,8 @@
 # Anabel Englund
 
-Anabel Englund is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat, 3 Oct 2026.
+Anabel Englund is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat, 3 Oct 2026.
 
-Anabel Englund is a house and tech house artist based in United States of America, tracked on soundcheck, with 21 sets logged across Austin, Denver, Los Angeles and Miami and 7 more. Often billed alongside SOFI TUKKER, Coco & Breezy and Dombresky. Next up: TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat 3 Oct.
+Anabel Englund is a house and tech house artist based in United States of America, with 21 gigs on soundcheck across Austin, Denver, Los Angeles and Miami and 7 more. Often billed alongside SOFI TUKKER, Coco & Breezy and Dombresky. Next up: TBA - 600 Pennsylvania Ave, NW, Washington DC on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Anabel Englund is a house and tech house artist based in United States of Americ
 
 ## Recently played
 
-- Audio SF, San Francisco/Oakland — Fri, 27 Jun 2025
-- Soundcheck, Washington DC — Sat, 7 Jun 2025
-- RFK Stadium Memorial Stadium, Washington DC — Fri, 6 Jun 2025
-- TBA - Festival Grounds at RFK, Washington DC — Fri, 6 Jun 2025
-- RFK Stadium Memorial Stadium, Washington DC — Fri, 6 Jun 2025
-- Central Park, New York City — Fri, 4 Oct 2024
-- Summit, Austin — Fri, 4 Oct 2024
-- Audio SF, San Francisco/Oakland — Sat, 29 Jun 2024
+- Audio SF, San Francisco/Oakland · Fri, 27 Jun 2025
+- Soundcheck, Washington DC · Sat, 7 Jun 2025
+- RFK Stadium Memorial Stadium, Washington DC · Fri, 6 Jun 2025
+- TBA - Festival Grounds at RFK, Washington DC · Fri, 6 Jun 2025
+- RFK Stadium Memorial Stadium, Washington DC · Fri, 6 Jun 2025
+- Central Park, New York City · Fri, 4 Oct 2024
+- Summit, Austin · Fri, 4 Oct 2024
+- Audio SF, San Francisco/Oakland · Sat, 29 Jun 2024
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # rRoxymore
 
-rRoxymore is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at FOLD, London on Sat, 17 Oct 2026.
+rRoxymore is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at FOLD, London on Sat, 17 Oct 2026.
 
-rRoxymore is a techno and house artist based in France, tracked on soundcheck, with 90 sets logged across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside DJ Plead, CCL and Josey Rebelle. Next up: FOLD, London on Sat 17 Oct.
+rRoxymore is a techno and house artist based in France, with 90 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 29 more. Often billed alongside DJ Plead, CCL and Josey Rebelle. Next up: FOLD, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ rRoxymore is a techno and house artist based in France, tracked on soundcheck, w
 
 ## Recently played
 
-- Point Ephémère, Paris — Wed, 30 Sept 2026
-- Ministerium Club, Lisbon — Fri, 18 Sept 2026
-- KREUZWERK, Berlin — Fri, 21 Aug 2026
-- Tresor / Globus, Berlin — Fri, 12 Jun 2026
-- Sonnenraum, Berlin — Sat, 9 May 2026
-- Point Ephémère, Paris — Thu, 7 May 2026
-- PROGRESS, Manchester — Sat, 2 May 2026
-- YuYu Cine Club, Mexico City — Sat, 28 Feb 2026
+- Point Ephémère, Paris · Wed, 30 Sept 2026
+- Ministerium Club, Lisbon · Fri, 18 Sept 2026
+- KREUZWERK, Berlin · Fri, 21 Aug 2026
+- Tresor / Globus, Berlin · Fri, 12 Jun 2026
+- Sonnenraum, Berlin · Sat, 9 May 2026
+- Point Ephémère, Paris · Thu, 7 May 2026
+- PROGRESS, Manchester · Sat, 2 May 2026
+- YuYu Cine Club, Mexico City · Sat, 28 Feb 2026
 
 ## Shares bills with
 

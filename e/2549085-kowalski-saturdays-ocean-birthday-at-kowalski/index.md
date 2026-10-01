@@ -1,6 +1,6 @@
 # Kowalski SATURDAYS • OCEAN BIRTHDAY at Kowalski
 
-Kowalski SATURDAYS • OCEAN BIRTHDAY on Sat 10 Oct, Stuttgart. House. Preview the line-up and save it on soundcheck.
+Kowalski SATURDAYS • OCEAN BIRTHDAY on Sat 10 Oct, Stuttgart. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

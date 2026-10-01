@@ -1,8 +1,8 @@
 # Armazém 124, Oliveira de Azeméis
 
-Armazém 124, Oliveira de Azeméis is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "SECOND SESSION - SEKTOR45" on Sat, 17 Oct 2026.
+Armazém 124, Oliveira de Azeméis is a music venue in Porto with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "SECOND SESSION - SEKTOR45" on Sat, 17 Oct 2026.
 
-Armazém 124, Oliveira de Azeméis is a music venue in Porto listed on soundcheck. 1 upcoming gig, with line-ups including GAIVEU and La Vera Notte. Browse upcoming dates, start times and who's playing.
+Armazém 124, Oliveira de Azeméis is a music venue in Porto listed on soundcheck. 1 upcoming gig, with line-ups including GAIVEU and La Vera Notte. See dates, start times and who's playing.
 
 ## What's on
 

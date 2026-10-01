@@ -1,6 +1,6 @@
 # SUNSHiiNE at Sooki Lounge
 
-SUNSHiiNE at Sooki Lounge on Sat 21 Nov, Melbourne. House and Garage. Preview the line-up and save it on soundcheck.
+SUNSHiiNE at Sooki Lounge on Sat 21 Nov, Melbourne. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

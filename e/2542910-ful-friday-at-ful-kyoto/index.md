@@ -1,6 +1,6 @@
 # FUL FRIDAY at FUL Kyoto
 
-FUL FRIDAY at FUL Kyoto on Fri 2 Oct, Kyoto. 1 artist on the bill: DJ KAZUMA. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+FUL FRIDAY at FUL Kyoto on Fri 2 Oct, Kyoto. 1 artist: DJ KAZUMA. Downtempo and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # 313X020: BBQ Amsterdam invites Detroit at Noorderlicht Café
 
-313X020: BBQ Amsterdam invites Detroit at Noorderlicht Café on Wed 21 Oct, Amsterdam. 13 artists on the bill: Angelo D'onorio, Antonio Fevola, Daniel Englisch and De León and 9 more. Techno and House. Preview the line-up and save it on soundcheck.
+313X020: BBQ Amsterdam invites Detroit at Noorderlicht Café on Wed 21 Oct, Amsterdam. 13 artists: Angelo D'onorio, Antonio Fevola, Daniel Englisch and De León and 9 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

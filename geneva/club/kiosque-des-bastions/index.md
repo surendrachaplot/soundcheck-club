@@ -1,8 +1,8 @@
 # Kiosque des Bastions
 
-Kiosque des Bastions is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Gates Of Paradise" on Fri, 9 Oct 2026.
+Kiosque des Bastions is a music venue in Geneva with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Gates Of Paradise" on Fri, 9 Oct 2026.
 
-Kiosque des Bastions is a music venue in Geneva listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
+Kiosque des Bastions is a music venue in Geneva listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing.
 
 ## What's on
 

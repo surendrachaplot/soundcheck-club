@@ -1,6 +1,6 @@
 # Rusty Bar: Pre-Drink at Rusty Bar
 
-Rusty Bar: Pre-Drink on Sat 3 Oct, Malta. House. Preview the line-up and save it on soundcheck.
+Rusty Bar: Pre-Drink on Sat 3 Oct, Malta. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

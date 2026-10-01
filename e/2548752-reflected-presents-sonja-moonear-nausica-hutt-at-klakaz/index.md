@@ -1,6 +1,6 @@
 # REFLECTED presents Sonja Moonear, Nausicaä & Hutt at Klakaz
 
-REFLECTED presents Sonja Moonear, Nausicaä & Hutt at Klakaz on Sun 13 Dec, Athens. 2 artists on the bill: Nausicaä and Sonja Moonear. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+REFLECTED presents Sonja Moonear, Nausicaä & Hutt at Klakaz on Sun 13 Dec, Athens. 2 artists: Nausicaä and Sonja Moonear. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

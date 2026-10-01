@@ -1,6 +1,6 @@
 # Radio Unánime second edition at The Supermercat Gotico
 
-Radio Unánime second edition at The Supermercat Gotico on Wed 7 Oct, Barcelona. 1 artist on the bill: Pullär. Techno. Preview the line-up and save it on soundcheck.
+Radio Unánime second edition at The Supermercat Gotico on Wed 7 Oct, Barcelona. 1 artist: Pullär. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

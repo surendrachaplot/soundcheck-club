@@ -1,6 +1,6 @@
 # Wednesday's Prescription - Phidias at Dr. Dou Social Club
 
-Wednesday's Prescription - Phidias at Dr. Dou Social Club on Wed 7 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+Wednesday's Prescription - Phidias at Dr. Dou Social Club on Wed 7 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Lost Paradise 2026 at Glenworth Valley
 
-Lost Paradise 2026 at Glenworth Valley on Mon 28 Dec, Sydney. 64 artists on the bill: Armand Van Helden, Baron Von Trax, Bella Backe and Benwal and 60 more. Preview the line-up and save it on soundcheck.
+Lost Paradise 2026 at Glenworth Valley on Mon 28 Dec, Sydney. 64 artists: Armand Van Helden, Baron Von Trax, Bella Backe and Benwal and 60 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TEMPO TUUUESDAYS: HALLOWEEN at Happys Belfast
 
-TEMPO TUUUESDAYS: HALLOWEEN at Happys Belfast on Tue 27 Oct, Belfast. Preview the line-up and save it on soundcheck.
+TEMPO TUUUESDAYS: HALLOWEEN at Happys Belfast on Tue 27 Oct, Belfast. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

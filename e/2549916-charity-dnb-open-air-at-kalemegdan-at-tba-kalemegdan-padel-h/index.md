@@ -1,6 +1,6 @@
 # CHARITY DNB OPEN-AIR at Kalemegdan at TBA - Kalemegdan (Padel House) 
 
-CHARITY DNB OPEN-AIR at Kalemegdan at TBA - Kalemegdan (Padel House)  on Sat 3 Oct, Belgrade. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+CHARITY DNB OPEN-AIR at Kalemegdan at TBA - Kalemegdan (Padel House)  on Sat 3 Oct, Belgrade. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

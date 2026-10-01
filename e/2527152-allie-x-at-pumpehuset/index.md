@@ -1,6 +1,6 @@
 # Allie X at Pumpehuset
 
-Allie X at Pumpehuset on Sun 4 Oct, Copenhagen. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Allie X at Pumpehuset on Sun 4 Oct, Copenhagen. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

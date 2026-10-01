@@ -1,6 +1,6 @@
 # DJ Sundae at Le Poisson Volant
 
-DJ Sundae at Le Poisson Volant on Fri 30 Oct, Paris. 1 artist on the bill: DJ Sundae. Preview the line-up and save it on soundcheck.
+DJ Sundae at Le Poisson Volant on Fri 30 Oct, Paris. 1 artist: DJ Sundae. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

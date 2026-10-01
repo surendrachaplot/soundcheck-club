@@ -1,6 +1,6 @@
 # Carl Cox at Desa Kitsune
 
-Carl Cox at Desa Kitsune on Tue 5 Jan, Bali. 1 artist on the bill: Carl Cox. Preview the line-up and save it on soundcheck.
+Carl Cox at Desa Kitsune on Tue 5 Jan, Bali. 1 artist: Carl Cox. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

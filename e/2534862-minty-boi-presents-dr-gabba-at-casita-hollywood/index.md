@@ -1,6 +1,6 @@
 # Minty Boi Presents: DR. GABBA at Casita Hollywood
 
-Minty Boi Presents: DR. GABBA at Casita Hollywood on Sat 24 Oct, Los Angeles. 1 artist on the bill: DR. GABBA. House and Acid. Preview the line-up and save it on soundcheck.
+Minty Boi Presents: DR. GABBA at Casita Hollywood on Sat 24 Oct, Los Angeles. 1 artist: DR. GABBA. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

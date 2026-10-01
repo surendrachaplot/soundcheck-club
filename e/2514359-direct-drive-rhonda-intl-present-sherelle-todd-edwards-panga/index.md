@@ -1,6 +1,6 @@
 # Direct Drive & Rhonda INTL present SHERELLE, Todd Edwards, Pangaea, Danny Daze, Mia Koden at Los Globos
 
-Direct Drive & Rhonda INTL present SHERELLE, Todd Edwards, Pangaea, Danny Daze, Mia Koden at Los Globos on Sat 3 Oct, Los Angeles. 6 artists on the bill: bahar khadem, Danny Daze, Mia Koden and Pangaea and 2 more. Preview the line-up and save it on soundcheck.
+Direct Drive & Rhonda INTL present SHERELLE, Todd Edwards, Pangaea, Danny Daze, Mia Koden at Los Globos on Sat 3 Oct, Los Angeles. 6 artists: bahar khadem, Danny Daze, Mia Koden and Pangaea and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

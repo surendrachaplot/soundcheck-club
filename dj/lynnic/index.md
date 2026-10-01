@@ -1,8 +1,8 @@
 # Lynnic
 
-Lynnic is a Deep House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cinetol, Amsterdam on Mon, 16 Nov 2026.
+Lynnic is a Deep House and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cinetol, Amsterdam on Mon, 16 Nov 2026.
 
-Lynnic is a deep house and house artist based in Germany, tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Palma Palma and ARIUS X. Next up: Cinetol, Amsterdam on Mon 16 Nov.
+Lynnic is a deep house and house artist based in Germany, with 11 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Cologne and 6 more. Often billed alongside Palma Palma and ARIUS X. Next up: Cinetol, Amsterdam on Mon 16 Nov.
 
 ## Upcoming shows
 
@@ -20,8 +20,8 @@ Lynnic is a deep house and house artist based in Germany, tracked on soundcheck,
 
 ## Recently played
 
-- Razzmatazz 3, Barcelona — Sun, 29 Mar 2026
-- Gilda Club, Madrid — Sat, 28 Mar 2026
+- Razzmatazz 3, Barcelona · Sun, 29 Mar 2026
+- Gilda Club, Madrid · Sat, 28 Mar 2026
 
 ## Shares bills with
 

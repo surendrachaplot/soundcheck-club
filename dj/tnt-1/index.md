@@ -1,8 +1,8 @@
 # tnt (1)
 
-tnt (1) is a Techno and Drum & Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
+tnt (1) is a Techno and Drum & Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri, 20 Nov 2026.
 
-tnt is a techno and drum & bass artist based in United States of America, tracked on soundcheck, with 20 sets logged across Amsterdam, Birmingham, Kuala Lumpur and London and 9 more. Often billed alongside MC GQ, b-line and BassLayerz. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
+tnt is a techno and drum & bass artist based in United States of America, with 20 gigs on soundcheck across Amsterdam, Birmingham, Kuala Lumpur and London and 9 more. Often billed alongside MC GQ, b-line and BassLayerz. Next up: TBA - The Other Side (Friday) - Warehouse Elementenstraat (Saturday), Amsterdam on Fri 20 Nov.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ tnt is a techno and drum & bass artist based in United States of America, tracke
 
 ## Recently played
 
-- Eutopia Whs, London — Sat, 5 Sept 2026
-- IDRA, Manchester — Sat, 30 May 2026
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 29 May 2026
-- TBA, Kuala Lumpur — Sat, 9 May 2026
-- Mia Mao, Paris — Sat, 28 Mar 2026
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Fri, 20 Feb 2026
-- The Steel Yard, London — Sat, 7 Feb 2026
-- Exhibition Park, Newcastle — Sat, 12 Jul 2025
+- Eutopia Whs, London · Sat, 5 Sept 2026
+- IDRA, Manchester · Sat, 30 May 2026
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 29 May 2026
+- TBA, Kuala Lumpur · Sat, 9 May 2026
+- Mia Mao, Paris · Sat, 28 Mar 2026
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Fri, 20 Feb 2026
+- The Steel Yard, London · Sat, 7 Feb 2026
+- Exhibition Park, Newcastle · Sat, 12 Jul 2025
 
 ## Shares bills with
 

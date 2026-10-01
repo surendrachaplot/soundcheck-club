@@ -1,6 +1,6 @@
 # Dunamis: Still Here Album Launch Party at Cupra City Garage Manchester
 
-Dunamis: Still Here Album Launch Party at Cupra City Garage Manchester on Thu 22 Oct, Manchester. Grime and Club. Preview the line-up and save it on soundcheck.
+Dunamis: Still Here Album Launch Party at Cupra City Garage Manchester on Thu 22 Oct, Manchester. Grime and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

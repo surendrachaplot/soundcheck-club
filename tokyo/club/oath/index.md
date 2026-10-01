@@ -1,8 +1,8 @@
 # Oath
 
-Oath is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "FUNKTION" on Thu, 1 Oct 2026.
+Oath is a music venue in Tokyo with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FUNKTION" on Thu, 1 Oct 2026.
 
-Oath is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including ANZU, HiTOMi, Ren Yokoi and RIHO ASAEDA and 1 more. Browse upcoming dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
+Oath is a music venue in Tokyo listed on soundcheck. 2 upcoming gigs, with line-ups including ANZU, HiTOMi, Ren Yokoi and RIHO ASAEDA and 1 more. See dates, start times and who's playing. 1-6-5-B1F Dogenzaka, Shibuya-ku, Tokyo, 150-0043 Japan.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Above & Beyond present Anjunabeats Warehouse at SWG3
 
-Above & Beyond present Anjunabeats Warehouse at SWG3 on Fri 16 Oct, Glasgow. 1 artist on the bill: Above & Beyond. Trance. Preview the line-up and save it on soundcheck.
+Above & Beyond present Anjunabeats Warehouse at SWG3 on Fri 16 Oct, Glasgow. 1 artist: Above & Beyond. Trance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

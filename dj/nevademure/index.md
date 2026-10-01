@@ -1,8 +1,8 @@
 # Neva Demure
 
-Neva Demure is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
+Neva Demure is a Experimental and Ambient artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri, 2 Oct 2026.
 
-Neva Demure is an experimental and ambient artist based in United States of America, tracked on soundcheck, with 6 sets logged across Amsterdam and Berlin. Often billed alongside CUNT REMEMBER, PAX and AXT. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
+Neva Demure is an experimental and ambient artist based in United States of America, with 6 gigs on soundcheck across Amsterdam and Berlin. Often billed alongside CUNT REMEMBER, PAX and AXT. Next up: TBA - WARSCHAUER PLATZ 18 10245 BERLIN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Neva Demure is an experimental and ambient artist based in United States of Amer
 
 ## Recently played
 
-- Giri, Berlin — Thu, 27 Aug 2026
-- Garage Noord, Amsterdam — Sat, 18 Oct 2025
-- Acud Macht NEU, Berlin — Fri, 8 Aug 2025
-- Lark, Berlin — Thu, 3 Apr 2025
-- Studio dB, Berlin — Thu, 27 Mar 2025
+- Giri, Berlin · Thu, 27 Aug 2026
+- Garage Noord, Amsterdam · Sat, 18 Oct 2025
+- Acud Macht NEU, Berlin · Fri, 8 Aug 2025
+- Lark, Berlin · Thu, 3 Apr 2025
+- Studio dB, Berlin · Thu, 27 Mar 2025
 
 ## Shares bills with
 

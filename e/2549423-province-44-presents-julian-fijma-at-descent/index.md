@@ -1,6 +1,6 @@
 # PROVINCE 44 presents Julian Fijma at Descent
 
-PROVINCE 44 presents Julian Fijma at Descent on Sat 31 Oct, Boston. 1 artist on the bill: Julian Fijma. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+PROVINCE 44 presents Julian Fijma at Descent on Sat 31 Oct, Boston. 1 artist: Julian Fijma. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

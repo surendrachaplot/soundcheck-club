@@ -1,8 +1,8 @@
 # BIIANCO
 
-BIIANCO is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Schwuz, Berlin on Thu, 1 Oct 2026.
+BIIANCO is a Techno and Trance artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Schwuz, Berlin on Thu, 1 Oct 2026.
 
-BIIANCO is a techno and trance artist based in United States of America, tracked on soundcheck, with 101 sets logged across Amsterdam, Ankara, Antwerp and Basel and 36 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Schwuz, Berlin on Thu 1 Oct.
+BIIANCO is a techno and trance artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Ankara, Antwerp and Basel and 36 more. Often billed alongside Fenrick, Adrian Mills and EMILIJA. Next up: Schwuz, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ BIIANCO is a techno and trance artist based in United States of America, tracked
 
 ## Recently played
 
-- Bootshaus, Cologne — Fri, 25 Sept 2026
-- Bootshaus, Cologne — Fri, 25 Sept 2026
-- Echostage, Washington DC — Fri, 11 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Tempelhof Airport, Berlin — Sat, 22 Aug 2026
+- Bootshaus, Cologne · Fri, 25 Sept 2026
+- Bootshaus, Cologne · Fri, 25 Sept 2026
+- Echostage, Washington DC · Fri, 11 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Dürener Badesee, Cologne · Fri, 28 Aug 2026
+- Tempelhof Airport, Berlin · Sat, 22 Aug 2026
 
 ## Shares bills with
 

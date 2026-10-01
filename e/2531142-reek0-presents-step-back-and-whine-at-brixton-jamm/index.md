@@ -1,6 +1,6 @@
 # Reek0 presents: Step Back and Whine at Brixton Jamm
 
-Reek0 presents: Step Back and Whine at Brixton Jamm on Fri 23 Oct, London. 3 artists on the bill: DJ GGB, N Fostell and Shenin Amara. Dancehall and Afro House. Preview the line-up and save it on soundcheck.
+Reek0 presents: Step Back and Whine at Brixton Jamm on Fri 23 Oct, London. 3 artists: DJ GGB, N Fostell and Shenin Amara. Dancehall and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

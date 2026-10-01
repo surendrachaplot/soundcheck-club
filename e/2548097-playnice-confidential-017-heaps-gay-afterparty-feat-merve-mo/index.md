@@ -1,6 +1,6 @@
 # PLAYNICE CONFIDENTIAL 017 - HEAPS GAY AFTERPARTY Feat. Merve + more at Abercrombie Hotel
 
-PLAYNICE CONFIDENTIAL 017 - HEAPS GAY AFTERPARTY Feat. Merve + more at Abercrombie Hotel on Sat 3 Oct, Sydney. 2 artists on the bill: Jacqui Cunningham and Merve. House and Disco. Preview the line-up and save it on soundcheck.
+PLAYNICE CONFIDENTIAL 017 - HEAPS GAY AFTERPARTY Feat. Merve + more at Abercrombie Hotel on Sat 3 Oct, Sydney. 2 artists: Jacqui Cunningham and Merve. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

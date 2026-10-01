@@ -1,6 +1,6 @@
 # Dimitri From Paris - Day Time Disco - Joshua Brooks Manchester at Joshua Brooks
 
-Dimitri From Paris - Day Time Disco - Joshua Brooks Manchester on Sat 17 Oct, Manchester. 1 artist on the bill: Dimitri From Paris. House and Disco. Preview the line-up and save it on soundcheck.
+Dimitri From Paris - Day Time Disco - Joshua Brooks Manchester on Sat 17 Oct, Manchester. 1 artist: Dimitri From Paris. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # PROLETAR
 
-PROLETAR is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
+PROLETAR is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Nube Wynwood, Miami on Fri, 2 Oct 2026.
 
-PROLETAR is a techno and trance artist based in Romania, tracked on soundcheck, with 33 sets logged across Miami. Often billed alongside DomnRob, Dadrev and Mr. Proper. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
+PROLETAR is a techno and trance artist based in Romania, with 33 gigs on soundcheck across Miami. Often billed alongside DomnRob, Dadrev and Mr. Proper. Next up: Casa Nube Wynwood, Miami on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ PROLETAR is a techno and trance artist based in Romania, tracked on soundcheck, 
 
 ## Recently played
 
-- Club M2 Miami, Miami — Sat, 12 Sept 2026
-- Jolene Downtown Miami, Miami — Thu, 3 Sept 2026
-- The Ground at Club Space, Miami — Sat, 25 Jul 2026
-- Club M2 Miami, Miami — Sat, 18 Jul 2026
-- 2651 NW 36th Street, Miami, Fl 33142, Miami — Sat, 27 Jun 2026
-- Casa Nube Wynwood, Miami — Sun, 21 Jun 2026
-- The Boombox, Miami — Fri, 5 Jun 2026
-- Stache Drinking Den, Miami — Fri, 15 May 2026
+- Club M2 Miami, Miami · Sat, 12 Sept 2026
+- Jolene Downtown Miami, Miami · Thu, 3 Sept 2026
+- The Ground at Club Space, Miami · Sat, 25 Jul 2026
+- Club M2 Miami, Miami · Sat, 18 Jul 2026
+- 2651 NW 36th Street, Miami, Fl 33142, Miami · Sat, 27 Jun 2026
+- Casa Nube Wynwood, Miami · Sun, 21 Jun 2026
+- The Boombox, Miami · Fri, 5 Jun 2026
+- Stache Drinking Den, Miami · Fri, 15 May 2026
 
 ## Shares bills with
 

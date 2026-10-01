@@ -1,6 +1,6 @@
 # 𝖉𝖊𝖘𝖙𝖗ø𝖞𝖊𝖉 at Hans Bunte Areal
 
-𝖉𝖊𝖘𝖙𝖗ø𝖞𝖊𝖉 at Hans Bunte Areal on Fri 2 Oct, Freiburg. 7 artists on the bill: BØĘRY, Chiara Fucci, Danilo Filipe and DYEN and 3 more. Preview the line-up and save it on soundcheck.
+𝖉𝖊𝖘𝖙𝖗ø𝖞𝖊𝖉 at Hans Bunte Areal on Fri 2 Oct, Freiburg. 7 artists: BØĘRY, Chiara Fucci, Danilo Filipe and DYEN and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

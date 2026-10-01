@@ -1,6 +1,6 @@
 # KINO (UY) — Espacio-Tiempo x Revolver Fridays at Revolver Upstairs
 
-KINO (UY) — Espacio-Tiempo x Revolver Fridays at Revolver Upstairs on Fri 16 Oct, Melbourne. 4 artists on the bill: KINO (UY), Luk., Mike Callander and Modulor. Techno and House. Preview the line-up and save it on soundcheck.
+KINO (UY) — Espacio-Tiempo x Revolver Fridays at Revolver Upstairs on Fri 16 Oct, Melbourne. 4 artists: KINO (UY), Luk., Mike Callander and Modulor. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

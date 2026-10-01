@@ -1,6 +1,6 @@
 # ruzz.OS vol. 002 at OS NYC
 
-ruzz.OS vol. 002 at OS NYC on Fri 16 Oct, New York City. Electro and Dubstep. Preview the line-up and save it on soundcheck.
+ruzz.OS vol. 002 at OS NYC on Fri 16 Oct, New York City. Electro and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

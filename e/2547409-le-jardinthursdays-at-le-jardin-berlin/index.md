@@ -1,6 +1,6 @@
 # Le JardinThursdays at Le Jardin Berlin
 
-Le JardinThursdays at Le Jardin Berlin on Thu 1 Oct, Berlin. Hip-Hop. Preview the line-up and save it on soundcheck.
+Le JardinThursdays at Le Jardin Berlin on Thu 1 Oct, Berlin. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

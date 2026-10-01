@@ -1,6 +1,6 @@
 # Fuse presents: Edward & Loidis at Fuse
 
-Fuse presents: Edward & Loidis on Fri 6 Nov, Brussels. 3 artists on the bill: AliA, Edward and Loidis. IDM and Electronica. Preview the line-up and save it on soundcheck.
+Fuse presents: Edward & Loidis on Fri 6 Nov, Brussels. 3 artists: AliA, Edward and Loidis. IDM and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

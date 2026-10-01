@@ -1,6 +1,6 @@
 # Deep Listening Room | Desirée at Om Being
 
-Deep Listening Room | Desirée at Om Being on Sat 10 Oct, London. 1 artist on the bill: Desiree'. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Deep Listening Room | Desirée at Om Being on Sat 10 Oct, London. 1 artist: Desiree'. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

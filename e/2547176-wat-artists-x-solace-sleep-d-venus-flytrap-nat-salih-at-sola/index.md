@@ -1,6 +1,6 @@
 # WAT Artists x Solace - Sleep D, Venus Flytrap, Nat Salih at Solace
 
-WAT Artists x Solace - Sleep D, Venus Flytrap, Nat Salih on Sat 10 Oct, Melbourne. 3 artists on the bill: Nat Salih, Sleep D and Venus Flytrap. Techno and Tech House. Preview the line-up and save it on soundcheck.
+WAT Artists x Solace - Sleep D, Venus Flytrap, Nat Salih on Sat 10 Oct, Melbourne. 3 artists: Nat Salih, Sleep D and Venus Flytrap. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

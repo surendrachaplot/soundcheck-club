@@ -1,6 +1,6 @@
 # ROTE8 presents: GEISTFREI (GER) at TBA
 
-ROTE8 presents: GEISTFREI (GER) at TBA on Fri 2 Oct, Toronto. 3 artists on the bill: CRISTI:ANA, GEISTFREI and Szikra. Techno and Electronica. Preview the line-up and save it on soundcheck.
+ROTE8 presents: GEISTFREI (GER) at TBA on Fri 2 Oct, Toronto. 3 artists: CRISTI:ANA, GEISTFREI and Szikra. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

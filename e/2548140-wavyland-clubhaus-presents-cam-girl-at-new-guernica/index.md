@@ -1,6 +1,6 @@
 # WavyLand & CLUBHAUS presents: CAM GIRL at New Guernica
 
-WavyLand & CLUBHAUS presents: CAM GIRL at New Guernica on Thu 22 Oct, Melbourne. 3 artists on the bill: CAM GIRL, Dashé and Haus of Ralph. Techno and Club. Preview the line-up and save it on soundcheck.
+WavyLand & CLUBHAUS presents: CAM GIRL at New Guernica on Thu 22 Oct, Melbourne. 3 artists: CAM GIRL, Dashé and Haus of Ralph. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

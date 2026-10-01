@@ -1,8 +1,8 @@
 # Tantrum Desire
 
-Tantrum Desire is a Drum & Bass and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at D! Club, Lausanne on Fri, 9 Oct 2026.
+Tantrum Desire is a Drum & Bass and Bass artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at D! Club, Lausanne on Fri, 9 Oct 2026.
 
-Tantrum Desire is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Amsterdam, Antwerp, Auckland and Boston and 10 more. Often billed alongside Delta Heavy, Craze and Inja. Next up: D! Club, Lausanne on Fri 9 Oct.
+Tantrum Desire is a drum & bass and bass artist based in United Kingdom, with 19 gigs on soundcheck across Amsterdam, Antwerp, Auckland and Boston and 10 more. Often billed alongside Delta Heavy, Craze and Inja. Next up: D! Club, Lausanne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Tantrum Desire is a drum & bass and bass artist based in United Kingdom, tracked
 
 ## Recently played
 
-- Tendinha dos Clérigos, Porto — Sat, 5 Sept 2026
-- Melkweg, Amsterdam — Mon, 6 Jul 2026
-- The Trusts Stadium, Auckland — Sat, 30 May 2026
-- Trix, Antwerp — Fri, 8 May 2026
-- Now&Wow, Rotterdam — Sun, 26 Apr 2026
-- Cross Club, Prague — Fri, 27 Mar 2026
-- Phoenix Landing, Boston — Thu, 19 Mar 2026
-- E1, London — Sat, 20 Sept 2025
+- Tendinha dos Clérigos, Porto · Sat, 5 Sept 2026
+- Melkweg, Amsterdam · Mon, 6 Jul 2026
+- The Trusts Stadium, Auckland · Sat, 30 May 2026
+- Trix, Antwerp · Fri, 8 May 2026
+- Now&Wow, Rotterdam · Sun, 26 Apr 2026
+- Cross Club, Prague · Fri, 27 Mar 2026
+- Phoenix Landing, Boston · Thu, 19 Mar 2026
+- E1, London · Sat, 20 Sept 2025
 
 ## Shares bills with
 

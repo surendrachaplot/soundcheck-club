@@ -1,6 +1,6 @@
 # Bohemia presents Robin Schulz at Bohemia Beach Club
 
-Bohemia presents Robin Schulz at Bohemia Beach Club on Sat 10 Oct, Dubai. 1 artist on the bill: Robin Schulz. Preview the line-up and save it on soundcheck.
+Bohemia presents Robin Schulz at Bohemia Beach Club on Sat 10 Oct, Dubai. 1 artist: Robin Schulz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # DANCEHALL & FRIENDS - Bashment, Soca, Reggae at Trapeze Bar
 
-DANCEHALL & FRIENDS - Bashment, Soca, Reggae at Trapeze Bar on Sat 3 Oct, London. Dancehall. Preview the line-up and save it on soundcheck.
+DANCEHALL & FRIENDS - Bashment, Soca, Reggae at Trapeze Bar on Sat 3 Oct, London. Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

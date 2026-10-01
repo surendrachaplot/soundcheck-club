@@ -1,6 +1,6 @@
 # The Dogs at The Redwood Bar And Grill
 
-The Dogs at The Redwood Bar And Grill on Sat 17 Oct, Los Angeles. Preview the line-up and save it on soundcheck.
+The Dogs at The Redwood Bar And Grill on Sat 17 Oct, Los Angeles. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

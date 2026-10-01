@@ -1,6 +1,6 @@
 # Above & Beyond presents Anjunabeats Liverpool at Blackstone Street Warehouse
 
-Above & Beyond presents Anjunabeats Liverpool at Blackstone Street Warehouse on Sat 17 Oct, Liverpool. 4 artists on the bill: Above & Beyond, Amy Wiles, Ferry Corsten and Marsh. Trance and House. Preview the line-up and save it on soundcheck.
+Above & Beyond presents Anjunabeats Liverpool at Blackstone Street Warehouse on Sat 17 Oct, Liverpool. 4 artists: Above & Beyond, Amy Wiles, Ferry Corsten and Marsh. Trance and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

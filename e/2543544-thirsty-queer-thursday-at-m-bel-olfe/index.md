@@ -1,6 +1,6 @@
 # Thirsty queer thursday at Möbel-Olfe
 
-Thirsty queer thursday at Möbel-Olfe on Thu 22 Oct, Berlin. 1 artist on the bill: St. Laurent. House. Preview the line-up and save it on soundcheck.
+Thirsty queer thursday at Möbel-Olfe on Thu 22 Oct, Berlin. 1 artist: St. Laurent. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

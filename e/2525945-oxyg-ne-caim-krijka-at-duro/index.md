@@ -1,6 +1,6 @@
 # Oxygène // Caim - Krijka at DURO
 
-Oxygène // Caim - Krijka at DURO on Sat 17 Oct, Milan. 3 artists on the bill: Caim, Enrico Vivaldi and Krijka. Techno. Preview the line-up and save it on soundcheck.
+Oxygène // Caim - Krijka at DURO on Sat 17 Oct, Milan. 3 artists: Caim, Enrico Vivaldi and Krijka. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

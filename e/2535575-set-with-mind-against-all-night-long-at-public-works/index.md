@@ -1,6 +1,6 @@
 # SET with Mind Against All Night Long at Public Works
 
-SET with Mind Against All Night Long at Public Works on Fri 2 Oct, San Francisco/Oakland. 2 artists on the bill: Mind Against and Moonvvater. Techno and Deep House. Preview the line-up and save it on soundcheck.
+SET with Mind Against All Night Long at Public Works on Fri 2 Oct, San Francisco/Oakland. 2 artists: Mind Against and Moonvvater. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

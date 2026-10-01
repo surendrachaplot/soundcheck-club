@@ -1,6 +1,6 @@
 # Outer Heaven presents: Zeina at Outer Heaven
 
-Outer Heaven presents: Zeina on Fri 20 Nov, New York City. 2 artists on the bill: John Everett and Zeina. House. Preview the line-up and save it on soundcheck.
+Outer Heaven presents: Zeina on Fri 20 Nov, New York City. 2 artists: John Everett and Zeina. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

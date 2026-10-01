@@ -1,6 +1,6 @@
 # Dani Flow - Euro Tour at Musikbrauerei
 
-Dani Flow - Euro Tour at Musikbrauerei on Thu 15 Oct, Berlin. Reggaeton. Preview the line-up and save it on soundcheck.
+Dani Flow - Euro Tour at Musikbrauerei on Thu 15 Oct, Berlin. Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

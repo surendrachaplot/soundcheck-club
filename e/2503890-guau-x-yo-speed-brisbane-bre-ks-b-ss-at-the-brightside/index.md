@@ -1,6 +1,6 @@
 # Guau x Yo Speed - BRISBANE - BREɅKS & BɅSS | at The Brightside
 
-Guau x Yo Speed - BRISBANE - BREɅKS & BɅSS | at The Brightside on Mon 5 Oct, Brisbane. 2 artists on the bill: Guau and Yo Speed. Breakbeat and Bass. Preview the line-up and save it on soundcheck.
+Guau x Yo Speed - BRISBANE - BREɅKS & BɅSS | at The Brightside on Mon 5 Oct, Brisbane. 2 artists: Guau and Yo Speed. Breakbeat and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MUSIC BAR -FREE ENTRANCE- at BRAND SHIBUYA
 
-MUSIC BAR -FREE ENTRANCE- at BRAND SHIBUYA on Thu 1 Oct, Tokyo. Club. Preview the line-up and save it on soundcheck.
+MUSIC BAR -FREE ENTRANCE- at BRAND SHIBUYA on Thu 1 Oct, Tokyo. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

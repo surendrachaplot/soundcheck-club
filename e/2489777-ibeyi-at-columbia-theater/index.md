@@ -1,6 +1,6 @@
 # IBEYI at Columbia Theater
 
-IBEYI at Columbia Theater on Thu 17 Dec, Berlin. Preview the line-up and save it on soundcheck.
+IBEYI at Columbia Theater on Thu 17 Dec, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

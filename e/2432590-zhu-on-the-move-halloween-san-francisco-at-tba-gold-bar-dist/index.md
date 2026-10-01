@@ -1,6 +1,6 @@
 # ZHU - ON THE MOVE - Halloween San Francisco at TBA - Gold Bar Distillery Treasure Island
 
-ZHU - ON THE MOVE - Halloween San Francisco at TBA - Gold Bar Distillery Treasure Island on Sat 31 Oct, San Francisco/Oakland. 1 artist on the bill: ZHU. House. Preview the line-up and save it on soundcheck.
+ZHU - ON THE MOVE - Halloween San Francisco at TBA - Gold Bar Distillery Treasure Island on Sat 31 Oct, San Francisco/Oakland. 1 artist: ZHU. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

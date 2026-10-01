@@ -1,6 +1,6 @@
 # CITY KARAS 20261012 at Socrates
 
-CITY KARAS 20261012 at Socrates on Mon 12 Oct, Kyoto. New Wave and Noise. Preview the line-up and save it on soundcheck.
+CITY KARAS 20261012 at Socrates on Mon 12 Oct, Kyoto. New Wave and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Jay Dimes - Dime in Da Rough Show (concert) at Xanadu
 
-Jay Dimes - Dime in Da Rough Show (concert) at Xanadu on Fri 6 Nov, New York City. Hip-Hop. Preview the line-up and save it on soundcheck.
+Jay Dimes - Dime in Da Rough Show (concert) at Xanadu on Fri 6 Nov, New York City. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

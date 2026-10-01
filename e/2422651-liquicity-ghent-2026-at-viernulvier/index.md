@@ -1,6 +1,6 @@
 # Liquicity Ghent 2026 at VIERNULVIER
 
-Liquicity Ghent 2026 at VIERNULVIER on Fri 27 Nov, Ghent. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Liquicity Ghent 2026 at VIERNULVIER on Fri 27 Nov, Ghent. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # FRIDAY at Suma Han
 
-FRIDAY at Suma Han on Fri 2 Oct, Istanbul. Disco and Club. Preview the line-up and save it on soundcheck.
+FRIDAY at Suma Han on Fri 2 Oct, Istanbul. Disco and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

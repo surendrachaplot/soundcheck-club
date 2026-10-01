@@ -1,6 +1,6 @@
 # PWR HAUS at Blue Room
 
-PWR HAUS at Blue Room on Sat 3 Oct, Montreal. Tech House and Electronica. Preview the line-up and save it on soundcheck.
+PWR HAUS at Blue Room on Sat 3 Oct, Montreal. Tech House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Cabin Fever: Sonja Moonear, XDB b2b PLO Man at FOLD
 
-Cabin Fever: Sonja Moonear, XDB b2b PLO Man at FOLD on Fri 4 Dec, London. 4 artists on the bill: Control Freak, PLO Man, Sonja Moonear and XDB. Techno and Minimal. Preview the line-up and save it on soundcheck.
+Cabin Fever: Sonja Moonear, XDB b2b PLO Man at FOLD on Fri 4 Dec, London. 4 artists: Control Freak, PLO Man, Sonja Moonear and XDB. Techno and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

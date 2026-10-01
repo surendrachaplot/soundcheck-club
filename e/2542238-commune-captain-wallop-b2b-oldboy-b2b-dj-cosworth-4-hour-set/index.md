@@ -1,6 +1,6 @@
 # Commune: Captain Wallop b2b Oldboy b2b Dj Cosworth - 4 Hour Set at Hazy Club
 
-Commune: Captain Wallop b2b Oldboy b2b Dj Cosworth - 4 Hour Set at Hazy Club on Sat 5 Dec, Sheffield. 3 artists on the bill: Captain Wallop, DJ Cosworth and Oldboy. Preview the line-up and save it on soundcheck.
+Commune: Captain Wallop b2b Oldboy b2b Dj Cosworth - 4 Hour Set at Hazy Club on Sat 5 Dec, Sheffield. 3 artists: Captain Wallop, DJ Cosworth and Oldboy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Fairyland Music Festival at Mantamar Beach Club
 
-Fairyland Music Festival at Mantamar Beach Club on Thu 11 Mar, Puerto Vallarta. 11 artists on the bill: Abel Aguilera, Alfonso Tan, Aluna and Barbara Tucker and 7 more. Preview the line-up and save it on soundcheck.
+Fairyland Music Festival at Mantamar Beach Club on Thu 11 Mar, Puerto Vallarta. 11 artists: Abel Aguilera, Alfonso Tan, Aluna and Barbara Tucker and 7 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

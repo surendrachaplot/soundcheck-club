@@ -1,6 +1,6 @@
 # The Disco Express: Halloween in NYC at Ciao Ciao
 
-The Disco Express: Halloween in NYC at Ciao Ciao on Sat 31 Oct, New York City. 1 artist on the bill: Roland & Brother Rich. House and Disco. Preview the line-up and save it on soundcheck.
+The Disco Express: Halloween in NYC at Ciao Ciao on Sat 31 Oct, New York City. 1 artist: Roland & Brother Rich. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

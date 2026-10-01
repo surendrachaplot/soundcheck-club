@@ -1,6 +1,6 @@
 # Latino Fest (Budapest) at A38
 
-Latino Fest (Budapest) at A38 on Fri 9 Oct, Budapest. Baile Funk and Reggaeton. Preview the line-up and save it on soundcheck.
+Latino Fest (Budapest) at A38 on Fri 9 Oct, Budapest. Baile Funk and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

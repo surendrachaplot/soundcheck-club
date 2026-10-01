@@ -1,6 +1,6 @@
 # Jososick - Live set at Otherside at Otherside London
 
-Jososick - Live set at Otherside at Otherside London on Fri 2 Oct, London. Drum & Bass and Grime. Preview the line-up and save it on soundcheck.
+Jososick - Live set at Otherside at Otherside London on Fri 2 Oct, London. Drum & Bass and Grime. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

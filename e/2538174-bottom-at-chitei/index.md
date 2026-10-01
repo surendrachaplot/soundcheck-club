@@ -1,6 +1,6 @@
 # 底 Bottom at Chitei 地底
 
-底 Bottom at Chitei 地底 on Sat 10 Oct, Tokyo. 2 artists on the bill: Moli and Takashi Mori. Techno and Experimental. Preview the line-up and save it on soundcheck.
+底 Bottom at Chitei 地底 on Sat 10 Oct, Tokyo. 2 artists: Moli and Takashi Mori. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

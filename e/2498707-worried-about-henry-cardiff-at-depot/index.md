@@ -1,6 +1,6 @@
 # Worried About Henry: Cardiff at Depot
 
-Worried About Henry: Cardiff at Depot on Fri 16 Oct, Cardiff. 7 artists on the bill: A Little Sound, DREAD MC, DRIIA and Hybrid Minds and 3 more. Preview the line-up and save it on soundcheck.
+Worried About Henry: Cardiff at Depot on Fri 16 Oct, Cardiff. 7 artists: A Little Sound, DREAD MC, DRIIA and Hybrid Minds and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # TURBULENCE: Barnett Cohen with Shamica Ruddock & Sally Butin / Hannan Jones / b1unt b1ade at Ormside Projects
 
-TURBULENCE: Barnett Cohen with Shamica Ruddock & Sally Butin / Hannan Jones / b1unt b1ade at Ormside Projects on Sat 3 Oct, London. Experimental and Noise. Preview the line-up and save it on soundcheck.
+TURBULENCE: Barnett Cohen with Shamica Ruddock & Sally Butin / Hannan Jones / b1unt b1ade at Ormside Projects on Sat 3 Oct, London. Experimental and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

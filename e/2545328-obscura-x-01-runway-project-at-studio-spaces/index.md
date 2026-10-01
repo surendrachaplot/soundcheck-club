@@ -1,6 +1,6 @@
 # Obscura X-01: Runway Project at Studio Spaces
 
-Obscura X-01: Runway Project at Studio Spaces on Sat 7 Nov, London. Hip-Hop and Electronica. Preview the line-up and save it on soundcheck.
+Obscura X-01: Runway Project at Studio Spaces on Sat 7 Nov, London. Hip-Hop and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

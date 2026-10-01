@@ -1,6 +1,6 @@
 # WEIRDO FEST at Skatecafe
 
-WEIRDO FEST at Skatecafe on Sat 21 Nov, Amsterdam. Preview the line-up and save it on soundcheck.
+WEIRDO FEST at Skatecafe on Sat 21 Nov, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

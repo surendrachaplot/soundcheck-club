@@ -1,8 +1,8 @@
 # Maral
 
-Maral is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Small Green Door, Los-angeles on Sat, 3 Oct 2026.
+Maral is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Small Green Door, Los-angeles on Sat, 3 Oct 2026.
 
-Maral is an experimental and electronica artist tracked on soundcheck, with 31 sets logged across Los Angeles, Montreal and New York City. Often billed alongside Teebs, Colloboh and Juliet Mendoza. Next up: Small Green Door, Los Angeles on Sat 3 Oct.
+Maral is an experimental and electronica artist, with 31 gigs on soundcheck across Los Angeles, Montreal and New York City. Often billed alongside Teebs, Colloboh and Juliet Mendoza. Next up: Small Green Door, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Maral is an experimental and electronica artist tracked on soundcheck, with 31 s
 
 ## Recently played
 
-- Bar Datcha, Montreal — Fri, 14 Aug 2026
-- TBA, Los Angeles — Sat, 25 Apr 2026
-- 2220Arts + Archives, Los Angeles — Fri, 3 Apr 2026
-- 2220Arts + Archives, Los Angeles — Sat, 28 Mar 2026
-- Psstudio, Los Angeles — Wed, 25 Mar 2026
-- TBA - Downtown LA, Los Angeles — Fri, 20 Feb 2026
-- TBA, Los Angeles — Sat, 11 Oct 2025
-- Elsewhere, New York City — Sun, 1 Jun 2025
+- Bar Datcha, Montreal · Fri, 14 Aug 2026
+- TBA, Los Angeles · Sat, 25 Apr 2026
+- 2220Arts + Archives, Los Angeles · Fri, 3 Apr 2026
+- 2220Arts + Archives, Los Angeles · Sat, 28 Mar 2026
+- Psstudio, Los Angeles · Wed, 25 Mar 2026
+- TBA - Downtown LA, Los Angeles · Fri, 20 Feb 2026
+- TBA, Los Angeles · Sat, 11 Oct 2025
+- Elsewhere, New York City · Sun, 1 Jun 2025
 
 ## Shares bills with
 

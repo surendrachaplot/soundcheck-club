@@ -1,8 +1,8 @@
 # New City Gas
 
-New City Gas is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Afrojack presents: CONTROL" on Sat, 3 Oct 2026.
+New City Gas is a music venue in Montreal with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Afrojack presents: CONTROL" on Sat, 3 Oct 2026.
 
-New City Gas is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including Afrojack, Bob Sinclar, CamelPhat and Dillon Francis and 2 more. Browse upcoming dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
+New City Gas is a music venue in Montreal listed on soundcheck. 11 upcoming gigs, with line-ups including Afrojack, Bob Sinclar, CamelPhat and Dillon Francis and 2 more. See dates, start times and who's playing. 950 Ottawa St, Montreal, Quebec H3C 2J9.
 
 ## What's on
 

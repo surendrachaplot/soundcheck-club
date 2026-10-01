@@ -1,8 +1,8 @@
 # La Nau
 
-La Nau is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "AIGEL — Live" on Thu, 1 Oct 2026.
+La Nau is a music venue in Barcelona with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "AIGEL — Live" on Thu, 1 Oct 2026.
 
-La Nau is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing. Carrer d'Àlaba, 30, 08005 Barcelona.
+La Nau is a music venue in Barcelona listed on soundcheck. 4 upcoming gigs. See dates, start times and who's playing. Carrer d'Àlaba, 30, 08005 Barcelona.
 
 ## What's on
 

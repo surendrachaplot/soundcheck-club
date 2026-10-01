@@ -1,6 +1,6 @@
 # 45 Jahre WUK at WUK
 
-45 Jahre WUK on Sat 3 Oct, Vienna. Preview the line-up and save it on soundcheck.
+45 Jahre WUK on Sat 3 Oct, Vienna. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # El Sielu - Hits (Manresa) at TBA - El Sielu (Manresa)
 
-El Sielu - Hits (Manresa) at TBA - El Sielu (Manresa) on Fri 16 Oct, Barcelona. 1 artist on the bill: Maadraassoo. Pop. Preview the line-up and save it on soundcheck.
+El Sielu - Hits (Manresa) at TBA - El Sielu (Manresa) on Fri 16 Oct, Barcelona. 1 artist: Maadraassoo. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

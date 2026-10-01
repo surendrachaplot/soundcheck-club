@@ -1,6 +1,6 @@
 # Planet Voltage at Supermarket
 
-Planet Voltage at Supermarket on Thu 29 Oct, Zurich. 5 artists on the bill: Aron (CH), Bohnenblust, Mihigh and Styro 2000 and 1 more. Preview the line-up and save it on soundcheck.
+Planet Voltage at Supermarket on Thu 29 Oct, Zurich. 5 artists: Aron (CH), Bohnenblust, Mihigh and Styro 2000 and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

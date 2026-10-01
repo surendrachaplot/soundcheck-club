@@ -1,6 +1,6 @@
 # Andrew Cairns pres ANARCHY HALLOWEEN at The Telegraph Building
 
-Andrew Cairns pres ANARCHY HALLOWEEN at The Telegraph Building on Sat 31 Oct, Belfast. 2 artists on the bill: Andrew Cairns and Jason Cluff. Preview the line-up and save it on soundcheck.
+Andrew Cairns pres ANARCHY HALLOWEEN at The Telegraph Building on Sat 31 Oct, Belfast. 2 artists: Andrew Cairns and Jason Cluff. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

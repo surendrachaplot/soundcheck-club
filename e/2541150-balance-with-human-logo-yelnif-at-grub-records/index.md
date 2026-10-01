@@ -1,6 +1,6 @@
 # Balance with Human Logo & Yelnif at Grub Records
 
-Balance with Human Logo & Yelnif at Grub Records on Fri 2 Oct, Sheffield. 1 artist on the bill: Human Logo. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
+Balance with Human Logo & Yelnif at Grub Records on Fri 2 Oct, Sheffield. 1 artist: Human Logo. Techno and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

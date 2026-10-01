@@ -1,6 +1,6 @@
 # Techno Dampfer Amsterdam with Anna Reusch at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Niederlande
 
-Techno Dampfer Amsterdam with Anna Reusch at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Niederlande on Fri 23 Oct, Amsterdam. 1 artist on the bill: Tronic. Techno. Preview the line-up and save it on soundcheck.
+Techno Dampfer Amsterdam with Anna Reusch at TBA - De Ruijterkade 14, 1012 AA Amsterdam, Niederlande on Fri 23 Oct, Amsterdam. 1 artist: Tronic. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

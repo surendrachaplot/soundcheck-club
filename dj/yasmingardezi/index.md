@@ -1,8 +1,8 @@
 # Yasmin Gardezi
 
-Yasmin Gardezi is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Yasmin Gardezi is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-Yasmin Gardezi is a techno and trance artist based in Ireland, tracked on soundcheck, with 101 sets logged across Aberdeen, Amsterdam, Athens and Barcelona and 32 more. Often billed alongside blk., franck and Charlie Sparks. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+Yasmin Gardezi is a techno and trance artist based in Ireland, with 101 gigs on soundcheck across Aberdeen, Amsterdam, Athens and Barcelona and 32 more. Often billed alongside blk., franck and Charlie Sparks. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Yasmin Gardezi is a techno and trance artist based in Ireland, tracked on soundc
 
 ## Recently played
 
-- Spook Club, Valencia — Sat, 19 Sept 2026
-- Yamamori Tengu, Dublin — Sat, 12 Sept 2026
-- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
-- Ritter Butzke, Berlin — Fri, 11 Sept 2026
-- Kilomètre25, Paris — Sat, 29 Aug 2026
-- Parallel, Amsterdam — Sat, 8 Aug 2026
-- Studio Club Malaga, Malaga — Fri, 19 Jun 2026
-- Zoo, Geneva — Sat, 13 Jun 2026
+- Spook Club, Valencia · Sat, 19 Sept 2026
+- Yamamori Tengu, Dublin · Sat, 12 Sept 2026
+- Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
+- Ritter Butzke, Berlin · Fri, 11 Sept 2026
+- Kilomètre25, Paris · Sat, 29 Aug 2026
+- Parallel, Amsterdam · Sat, 8 Aug 2026
+- Studio Club Malaga, Malaga · Fri, 19 Jun 2026
+- Zoo, Geneva · Sat, 13 Jun 2026
 
 ## Shares bills with
 

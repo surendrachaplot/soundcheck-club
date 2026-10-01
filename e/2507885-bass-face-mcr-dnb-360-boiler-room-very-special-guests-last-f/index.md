@@ -1,6 +1,6 @@
 # Bass Face // MCR // DNB . 360° BOILER ROOM +*VERY SPECIAL GUESTS*! LAST FREE TICKETS at Gorilla
 
-Bass Face // MCR // DNB . 360° BOILER ROOM +*VERY SPECIAL GUESTS*! LAST FREE TICKETS at Gorilla on Sat 3 Oct, Manchester. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Bass Face // MCR // DNB . 360° BOILER ROOM +*VERY SPECIAL GUESTS*! LAST FREE TICKETS at Gorilla on Sat 3 Oct, Manchester. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

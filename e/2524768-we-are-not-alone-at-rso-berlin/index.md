@@ -1,6 +1,6 @@
 # WE ARE NOT ALONE at RSO.BERLIN
 
-WE ARE NOT ALONE at RSO.BERLIN on Sat 10 Oct, Berlin. 10 artists on the bill: ALI3N, Cleric, Ellen Allien and Introversion and 6 more. Preview the line-up and save it on soundcheck.
+WE ARE NOT ALONE at RSO.BERLIN on Sat 10 Oct, Berlin. 10 artists: ALI3N, Cleric, Ellen Allien and Introversion and 6 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

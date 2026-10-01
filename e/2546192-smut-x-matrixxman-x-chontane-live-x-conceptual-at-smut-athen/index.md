@@ -1,6 +1,6 @@
 # SMUT x Matrixxman x Chontane live x CONCEPTUAL at SMUT Athens
 
-SMUT x Matrixxman x Chontane live x CONCEPTUAL at SMUT Athens on Sat 24 Oct, Athens. 4 artists on the bill: Chontane, CONCEPTUAL, Dora Mask and Matrixxman. Techno. Preview the line-up and save it on soundcheck.
+SMUT x Matrixxman x Chontane live x CONCEPTUAL at SMUT Athens on Sat 24 Oct, Athens. 4 artists: Chontane, CONCEPTUAL, Dora Mask and Matrixxman. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

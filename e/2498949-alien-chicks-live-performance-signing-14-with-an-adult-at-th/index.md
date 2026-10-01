@@ -1,6 +1,6 @@
 # Alien Chicks: Live Performance + Signing (14+ with an Adult) at The Jacaranda
 
-Alien Chicks: Live Performance + Signing (14+ with an Adult) at The Jacaranda on Sun 4 Oct, Liverpool. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+Alien Chicks: Live Performance + Signing (14+ with an Adult) at The Jacaranda on Sun 4 Oct, Liverpool. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CORRUPTION: Persephone's Masquerade at Tangent Gallery
 
-CORRUPTION: Persephone's Masquerade at Tangent Gallery on Fri 23 Oct, Detroit. 2 artists on the bill: Remnant and Shakti (US). EBM and Industrial. Preview the line-up and save it on soundcheck.
+CORRUPTION: Persephone's Masquerade at Tangent Gallery on Fri 23 Oct, Detroit. 2 artists: Remnant and Shakti (US). EBM and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

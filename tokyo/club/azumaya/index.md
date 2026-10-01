@@ -1,8 +1,8 @@
 # Azumaya
 
-Azumaya is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Azumaya -Thursday-" on Thu, 1 Oct 2026.
+Azumaya is a music venue in Tokyo with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Azumaya -Thursday-" on Thu, 1 Oct 2026.
 
-Azumaya is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including 7e, Aki Dolanikov, BLUEMEW and Dihi and 2 more. Browse upcoming dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
+Azumaya is a music venue in Tokyo listed on soundcheck. 8 upcoming gigs, with line-ups including 7e, Aki Dolanikov, BLUEMEW and Dihi and 2 more. See dates, start times and who's playing. 2F, 2-14-8 , Dogenzaka, Shibuya-ku, Tokyo, 150-0043, Japan.
 
 ## What's on
 

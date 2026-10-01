@@ -1,6 +1,6 @@
 # Club Saoco Vol. 3 at The Fox and Firkin
 
-Club Saoco Vol. 3 at The Fox and Firkin on Sat 7 Nov, London. Afrobeat and Baile Funk. Preview the line-up and save it on soundcheck.
+Club Saoco Vol. 3 at The Fox and Firkin on Sat 7 Nov, London. Afrobeat and Baile Funk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

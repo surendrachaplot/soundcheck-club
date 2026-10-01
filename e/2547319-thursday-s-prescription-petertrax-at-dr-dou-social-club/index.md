@@ -1,6 +1,6 @@
 # Thursday's Prescription - Petertrax at Dr. Dou Social Club
 
-Thursday's Prescription - Petertrax at Dr. Dou Social Club on Thu 8 Oct, Barcelona. 1 artist on the bill: Petertrax. Preview the line-up and save it on soundcheck.
+Thursday's Prescription - Petertrax at Dr. Dou Social Club on Thu 8 Oct, Barcelona. 1 artist: Petertrax. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

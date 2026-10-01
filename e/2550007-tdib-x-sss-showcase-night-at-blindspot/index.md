@@ -1,6 +1,6 @@
 # TDIB X SSS [ SHOWCASE NIGHT ] at Blindspot*
 
-TDIB X SSS [ SHOWCASE NIGHT ] at Blindspot* on Sat 19 Dec, Bucharest. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+TDIB X SSS [ SHOWCASE NIGHT ] at Blindspot* on Sat 19 Dec, Bucharest. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

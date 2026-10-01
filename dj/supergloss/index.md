@@ -1,8 +1,8 @@
 # Supergloss
 
-Supergloss is a Techno and Trance artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
+Supergloss is a Techno and Trance artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at RSO.BERLIN, Berlin on Fri, 2 Oct 2026.
 
-Supergloss is a techno and trance artist based in Germany, tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
+Supergloss is a techno and trance artist based in Germany, with 216 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Funk Tribu, Omon Breaker and MALUGI. Next up: RSO.BERLIN, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Supergloss is a techno and trance artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Nitsa Club, Barcelona — Sat, 26 Sept 2026
-- La Cité Fertile, Paris — Sun, 20 Sept 2026
-- FOLD, London — Sat, 19 Sept 2026
-- 888 Garage, San Francisco/Oakland — Sun, 13 Sept 2026
-- Avalon Hollywood, Los Angeles — Sat, 12 Sept 2026
-- Factory Town, Miami — Sun, 6 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
-- Industry City, New York City — Sat, 5 Sept 2026
+- Nitsa Club, Barcelona · Sat, 26 Sept 2026
+- La Cité Fertile, Paris · Sun, 20 Sept 2026
+- FOLD, London · Sat, 19 Sept 2026
+- 888 Garage, San Francisco/Oakland · Sun, 13 Sept 2026
+- Avalon Hollywood, Los Angeles · Sat, 12 Sept 2026
+- Factory Town, Miami · Sun, 6 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
+- Industry City, New York City · Sat, 5 Sept 2026
 
 ## Shares bills with
 

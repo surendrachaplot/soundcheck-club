@@ -1,6 +1,6 @@
 # Sonica presenta: Carlos Perez B2B K-Style 'Todo el Rato Tour' at TBA - El Jardín de las Artes, Zaragoza
 
-Sonica presenta: Carlos Perez B2B K-Style 'Todo el Rato Tour' at TBA - El Jardín de las Artes, Zaragoza on Sat 10 Oct, North. 2 artists on the bill: Carlos Pérez and K-Style. Preview the line-up and save it on soundcheck.
+Sonica presenta: Carlos Perez B2B K-Style 'Todo el Rato Tour' at TBA - El Jardín de las Artes, Zaragoza on Sat 10 Oct, North. 2 artists: Carlos Pérez and K-Style. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

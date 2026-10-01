@@ -1,6 +1,6 @@
 # OVERDRIVE at Bsmt 254
 
-OVERDRIVE at Bsmt 254 on Thu 22 Oct, Toronto. 3 artists on the bill: anise, Daragma and Jonnix. Techno. Preview the line-up and save it on soundcheck.
+OVERDRIVE at Bsmt 254 on Thu 22 Oct, Toronto. 3 artists: anise, Daragma and Jonnix. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

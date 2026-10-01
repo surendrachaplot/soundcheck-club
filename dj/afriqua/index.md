@@ -1,8 +1,8 @@
 # Afriqua
 
-Afriqua is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Apophis Club, Milan on Fri, 2 Oct 2026.
+Afriqua is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Apophis Club, Milan on Fri, 2 Oct 2026.
 
-Afriqua is a house and techno artist based in United States of America, tracked on soundcheck, with 52 sets logged across Antwerp, Austin, Berlin and Brussels and 21 more. Often billed alongside Lubelski, Ardalan and Club Tularosa. Next up: Apophis Club, Milan on Fri 2 Oct.
+Afriqua is a house and techno artist based in United States of America, with 52 gigs on soundcheck across Antwerp, Austin, Berlin and Brussels and 21 more. Often billed alongside Lubelski, Ardalan and Club Tularosa. Next up: Apophis Club, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Afriqua is a house and techno artist based in United States of America, tracked 
 
 ## Recently played
 
-- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland — Fri, 18 Sept 2026
-- TBA - Open Air: Downtown Los Angeles, Los Angeles — Sat, 22 Aug 2026
-- Sonnenraum, Berlin — Sat, 9 May 2026
-- Le Bouge Marseille, Marseille — Fri, 3 Apr 2026
-- Jolene Downtown Miami, Miami — Wed, 25 Mar 2026
-- Floyd, Miami — Fri, 20 Feb 2026
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 14 Feb 2026
-- TBA, San Diego — Fri, 13 Feb 2026
+- TBA - The Loom (2150 Livingston St, Oakland), San Francisco/Oakland · Fri, 18 Sept 2026
+- TBA - Open Air: Downtown Los Angeles, Los Angeles · Sat, 22 Aug 2026
+- Sonnenraum, Berlin · Sat, 9 May 2026
+- Le Bouge Marseille, Marseille · Fri, 3 Apr 2026
+- Jolene Downtown Miami, Miami · Wed, 25 Mar 2026
+- Floyd, Miami · Fri, 20 Feb 2026
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 14 Feb 2026
+- TBA, San Diego · Fri, 13 Feb 2026
 
 ## Shares bills with
 

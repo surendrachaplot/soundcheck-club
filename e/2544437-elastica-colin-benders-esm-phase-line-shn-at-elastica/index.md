@@ -1,6 +1,6 @@
 # Elastica: Colin Benders ❚ ESMĖ ❚ Phase Line ❚ SHN at Elastica
 
-Elastica: Colin Benders ❚ ESMĖ ❚ Phase Line ❚ SHN on Fri 30 Oct, Vilnius. 2 artists on the bill: Colin Benders and Phase Line. Preview the line-up and save it on soundcheck.
+Elastica: Colin Benders ❚ ESMĖ ❚ Phase Line ❚ SHN on Fri 30 Oct, Vilnius. 2 artists: Colin Benders and Phase Line. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

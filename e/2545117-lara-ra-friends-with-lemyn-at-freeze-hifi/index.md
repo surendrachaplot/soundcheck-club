@@ -1,6 +1,6 @@
 # LARA-RA & FRIENDS with Lemyn at Freeze HiFi
 
-LARA-RA & FRIENDS with Lemyn at Freeze HiFi on Tue 20 Oct, Liverpool. 2 artists on the bill: LARA-RA and Lemyn. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+LARA-RA & FRIENDS with Lemyn at Freeze HiFi on Tue 20 Oct, Liverpool. 2 artists: LARA-RA and Lemyn. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

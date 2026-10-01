@@ -1,6 +1,6 @@
 # Koenji Cave presents - Elven Dance - Vol.35 at Koenji Cave
 
-Koenji Cave presents - Elven Dance - Vol.35 on Fri 9 Oct, Tokyo. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Koenji Cave presents - Elven Dance - Vol.35 on Fri 9 Oct, Tokyo. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

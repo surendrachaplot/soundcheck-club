@@ -1,6 +1,6 @@
 # Boarder Breaks: Linnea Awad (SE) / ZERO BATS (NO) / Spawner (DK) at Christianshavns Beboerhus
 
-Boarder Breaks: Linnea Awad (SE) / ZERO BATS (NO) / Spawner (DK) at Christianshavns Beboerhus on Fri 2 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+Boarder Breaks: Linnea Awad (SE) / ZERO BATS (NO) / Spawner (DK) at Christianshavns Beboerhus on Fri 2 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

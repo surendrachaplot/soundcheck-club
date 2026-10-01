@@ -1,6 +1,6 @@
 # Vol 8: Cyberpunk at The DBA
 
-Vol 8: Cyberpunk at The DBA on Fri 13 Nov, Manchester. Techno and Dubstep. Preview the line-up and save it on soundcheck.
+Vol 8: Cyberpunk at The DBA on Fri 13 Nov, Manchester. Techno and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ://blanks giving - soliparty at ://about blank
 
-://blanks giving - soliparty at ://about blank on Sat 21 Nov, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+://blanks giving - soliparty at ://about blank on Sat 21 Nov, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

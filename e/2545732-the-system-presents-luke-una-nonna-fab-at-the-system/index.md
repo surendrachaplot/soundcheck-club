@@ -1,6 +1,6 @@
 # The System presents: Luke Una, Nonna Fab at The System
 
-The System presents: Luke Una, Nonna Fab on Sat 13 Feb, Sheffield. 2 artists on the bill: Luke Una and Nonna Fab. Preview the line-up and save it on soundcheck.
+The System presents: Luke Una, Nonna Fab on Sat 13 Feb, Sheffield. 2 artists: Luke Una and Nonna Fab. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

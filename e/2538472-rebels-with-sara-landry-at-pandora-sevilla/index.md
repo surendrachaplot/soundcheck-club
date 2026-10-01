@@ -1,6 +1,6 @@
 # Rebels with Sara Landry at Pandora Sevilla
 
-Rebels with Sara Landry at Pandora Sevilla on Fri 4 Dec, South. 1 artist on the bill: Sara Landry. Preview the line-up and save it on soundcheck.
+Rebels with Sara Landry at Pandora Sevilla on Fri 4 Dec, South. 1 artist: Sara Landry. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

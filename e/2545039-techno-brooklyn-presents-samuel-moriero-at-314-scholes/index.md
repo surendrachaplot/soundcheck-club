@@ -1,6 +1,6 @@
 # Techno Brooklyn presents Samuel Moriero at 314 Scholes
 
-Techno Brooklyn presents Samuel Moriero at 314 Scholes on Fri 2 Oct, New York City. 1 artist on the bill: Samuel Moriero. Preview the line-up and save it on soundcheck.
+Techno Brooklyn presents Samuel Moriero at 314 Scholes on Fri 2 Oct, New York City. 1 artist: Samuel Moriero. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

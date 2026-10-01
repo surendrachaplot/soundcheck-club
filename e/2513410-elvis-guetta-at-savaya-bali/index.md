@@ -1,6 +1,6 @@
 # Elvis Guetta at Savaya Bali
 
-Elvis Guetta at Savaya Bali on Sun 8 Nov, Bali. House. Preview the line-up and save it on soundcheck.
+Elvis Guetta at Savaya Bali on Sun 8 Nov, Bali. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

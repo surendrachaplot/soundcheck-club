@@ -1,6 +1,6 @@
 # Deep Breath 002 at TBA
 
-Deep Breath 002 at TBA on Sat 17 Oct, Lausanne. 4 artists on the bill: Hatari!, Idealist, Mother Dubber and Runde. Preview the line-up and save it on soundcheck.
+Deep Breath 002 at TBA on Sat 17 Oct, Lausanne. 4 artists: Hatari!, Idealist, Mother Dubber and Runde. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # LOLSNAKE
 
-LOLSNAKE is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Berghain | Panorama Bar | Säule, Berlin on Thu, 8 Oct 2026.
+LOLSNAKE is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Thu, 8 Oct 2026.
 
-LOLSNAKE is a techno and house artist based in United States of America, tracked on soundcheck, with 224 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 8 Oct.
+LOLSNAKE is a techno and house artist based in United States of America, with 224 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 54 more. Often billed alongside VINVAR, Juliana Huxtable and Rakans. Next up: Berghain | Panorama Bar | Säule, Berlin on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ LOLSNAKE is a techno and house artist based in United States of America, tracked
 
 ## Recently played
 
-- SMUT Athens, Athens — Sat, 26 Sept 2026
-- Laska V21, Riga — Fri, 25 Sept 2026
-- C12, Brussels — Sat, 19 Sept 2026
-- TILLATEC, Amsterdam — Fri, 18 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 12 Sept 2026
-- The Ground at Club Space, Miami — Sat, 22 Aug 2026
-- BASEMENT, New York City — Sat, 15 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Thu, 13 Aug 2026
+- SMUT Athens, Athens · Sat, 26 Sept 2026
+- Laska V21, Riga · Fri, 25 Sept 2026
+- C12, Brussels · Sat, 19 Sept 2026
+- TILLATEC, Amsterdam · Fri, 18 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 12 Sept 2026
+- The Ground at Club Space, Miami · Sat, 22 Aug 2026
+- BASEMENT, New York City · Sat, 15 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Thu, 13 Aug 2026
 
 ## Shares bills with
 

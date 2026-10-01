@@ -1,6 +1,6 @@
 # Sous Tes Reins : Nord + Sud at La Station - Gare des Mines
 
-Sous Tes Reins : Nord + Sud at La Station - Gare des Mines on Sat 17 Oct, Paris. 7 artists on the bill: Corbeille Dallas, De Vedelly, Diane and Fiona Zanetti and 3 more. Club. Preview the line-up and save it on soundcheck.
+Sous Tes Reins : Nord + Sud at La Station - Gare des Mines on Sat 17 Oct, Paris. 7 artists: Corbeille Dallas, De Vedelly, Diane and Fiona Zanetti and 3 more. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

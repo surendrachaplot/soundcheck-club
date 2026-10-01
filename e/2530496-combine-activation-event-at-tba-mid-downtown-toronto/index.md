@@ -1,6 +1,6 @@
 # Combine Activation Event at TBA - Mid Downtown Toronto
 
-Combine Activation Event at TBA - Mid Downtown Toronto on Sun 4 Oct, Toronto. Techno and House. Preview the line-up and save it on soundcheck.
+Combine Activation Event at TBA - Mid Downtown Toronto on Sun 4 Oct, Toronto. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

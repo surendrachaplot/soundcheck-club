@@ -1,6 +1,6 @@
 # Sunset Music Sessions at Terraza Dos Equis
 
-Sunset Music Sessions at Terraza Dos Equis on Sun 11 Oct, Mexico City. House. Preview the line-up and save it on soundcheck.
+Sunset Music Sessions at Terraza Dos Equis on Sun 11 Oct, Mexico City. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

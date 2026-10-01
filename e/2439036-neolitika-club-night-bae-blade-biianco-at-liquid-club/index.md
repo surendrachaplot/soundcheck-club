@@ -1,6 +1,6 @@
 # Neolitika Club Night // Bae Blade, BIIANCO at Liquid Club
 
-Neolitika Club Night // Bae Blade, BIIANCO at Liquid Club on Sat 17 Oct, Malta. 4 artists on the bill: Bae Blade, BIIANCO, OKSY and PHYNYKS. Trance and Techno. Preview the line-up and save it on soundcheck.
+Neolitika Club Night // Bae Blade, BIIANCO at Liquid Club on Sat 17 Oct, Malta. 4 artists: Bae Blade, BIIANCO, OKSY and PHYNYKS. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

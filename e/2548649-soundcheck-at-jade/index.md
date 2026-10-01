@@ -1,6 +1,6 @@
 # SOUNDCHECK at Jade
 
-SOUNDCHECK at Jade on Fri 9 Oct, New York City. 3 artists on the bill: ALI IRL, CleoTheeDoll and Sapphyre. Techno and Electro. Preview the line-up and save it on soundcheck.
+SOUNDCHECK at Jade on Fri 9 Oct, New York City. 3 artists: ALI IRL, CleoTheeDoll and Sapphyre. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

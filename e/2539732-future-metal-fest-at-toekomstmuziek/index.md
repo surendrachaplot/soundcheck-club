@@ -1,6 +1,6 @@
 # Future Metal Fest at Toekomstmuziek
 
-Future Metal Fest at Toekomstmuziek on Fri 9 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Future Metal Fest at Toekomstmuziek on Fri 9 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

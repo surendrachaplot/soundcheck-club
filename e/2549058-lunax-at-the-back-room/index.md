@@ -1,6 +1,6 @@
 # LUNAX at The Back Room
 
-LUNAX at The Back Room on Sat 17 Oct, Bali. 3 artists on the bill: CPSL, Polyfaer and YOGV. Techno. Preview the line-up and save it on soundcheck.
+LUNAX at The Back Room on Sat 17 Oct, Bali. 3 artists: CPSL, Polyfaer and YOGV. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

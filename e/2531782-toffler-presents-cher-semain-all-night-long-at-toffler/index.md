@@ -1,6 +1,6 @@
 # Toffler presents Cher Semain all night long at Toffler
 
-Toffler presents Cher Semain all night long on Fri 6 Nov, Rotterdam. Tech House. Preview the line-up and save it on soundcheck.
+Toffler presents Cher Semain all night long on Fri 6 Nov, Rotterdam. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

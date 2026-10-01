@@ -1,8 +1,8 @@
 # DAR DISKU
 
-DAR DISKU is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Phonox, London on Fri, 16 Oct 2026.
+DAR DISKU is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Phonox, London on Fri, 16 Oct 2026.
 
-DAR DISKU is a house and techno artist based in Bahrain, tracked on soundcheck, with 44 sets logged across Birmingham, Bristol, Bucharest and Glasgow and 4 more. Often billed alongside Millie McKee, Sofie K and Cheb Mimo. Next up: Phonox, London on Fri 16 Oct.
+DAR DISKU is a house and techno artist based in Bahrain, with 44 gigs on soundcheck across Birmingham, Bristol, Bucharest and Glasgow and 4 more. Often billed alongside Millie McKee, Sofie K and Cheb Mimo. Next up: Phonox, London on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ DAR DISKU is a house and techno artist based in Bahrain, tracked on soundcheck, 
 
 ## Recently played
 
-- The Rum Shack, Glasgow — Sat, 5 Sept 2026
-- Hackney Bridge, London — Sat, 29 Aug 2026
-- Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
-- Djoon, Paris — Fri, 20 Mar 2026
-- NUMBER 90 LONDON, London — Fri, 20 Feb 2026
-- Night Tales, London — Fri, 28 Nov 2025
-- The Jam Jar, Bristol — Fri, 21 Nov 2025
-- La Bellevilloise, Paris — Sat, 18 Oct 2025
+- The Rum Shack, Glasgow · Sat, 5 Sept 2026
+- Hackney Bridge, London · Sat, 29 Aug 2026
+- Hackney Wick Multiple Venues, London · Sat, 27 Jun 2026
+- Djoon, Paris · Fri, 20 Mar 2026
+- NUMBER 90 LONDON, London · Fri, 20 Feb 2026
+- Night Tales, London · Fri, 28 Nov 2025
+- The Jam Jar, Bristol · Fri, 21 Nov 2025
+- La Bellevilloise, Paris · Sat, 18 Oct 2025
 
 ## Shares bills with
 

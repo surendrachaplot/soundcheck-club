@@ -1,8 +1,8 @@
 # Erik Luebs
 
-Erik Luebs is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mezz, Netherlands on Sat, 10 Oct 2026.
+Erik Luebs is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mezz, Netherlands on Sat, 10 Oct 2026.
 
-Erik Luebs is a techno and house artist based in Japan, tracked on soundcheck, with 46 sets logged across Amsterdam, Athens, Berlin and Brisbane and 16 more. Often billed alongside Oberman, DJ Morita and Haruka. Next up: Mezz, Netherlands on Sat 10 Oct.
+Erik Luebs is a techno and house artist based in Japan, with 46 gigs on soundcheck across Amsterdam, Athens, Berlin and Brisbane and 16 more. Often billed alongside Oberman, DJ Morita and Haruka. Next up: Mezz, Netherlands on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Erik Luebs is a techno and house artist based in Japan, tracked on soundcheck, w
 
 ## Recently played
 
-- Wall&wall, Tokyo — Mon, 21 Sept 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 12 Sept 2026
-- Circus Osaka, Osaka — Sat, 22 Aug 2026
-- TBA - Yeerongpilly Warehouse, Brisbane — Sat, 27 Jun 2026
-- Petersham Bowling Club, Sydney — Sun, 21 Jun 2026
-- TBA, Sydney — Sat, 20 Jun 2026
-- Collingwood Basement, Melbourne — Fri, 19 Jun 2026
-- Rhythm, Toronto — Sat, 6 Jun 2026
+- Wall&wall, Tokyo · Mon, 21 Sept 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 12 Sept 2026
+- Circus Osaka, Osaka · Sat, 22 Aug 2026
+- TBA - Yeerongpilly Warehouse, Brisbane · Sat, 27 Jun 2026
+- Petersham Bowling Club, Sydney · Sun, 21 Jun 2026
+- TBA, Sydney · Sat, 20 Jun 2026
+- Collingwood Basement, Melbourne · Fri, 19 Jun 2026
+- Rhythm, Toronto · Sat, 6 Jun 2026
 
 ## Shares bills with
 

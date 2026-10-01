@@ -1,6 +1,6 @@
 # DJ Tennis b2b Mano Le Tough + Echonomist at The Warehouse By IT Quarter
 
-DJ Tennis b2b Mano Le Tough + Echonomist at The Warehouse By IT Quarter on Sat 7 Nov, Cyprus. 5 artists on the bill: DJ Tennis, Echonomist, Mano Le Tough and Pan. and 1 more. Preview the line-up and save it on soundcheck.
+DJ Tennis b2b Mano Le Tough + Echonomist at The Warehouse By IT Quarter on Sat 7 Nov, Cyprus. 5 artists: DJ Tennis, Echonomist, Mano Le Tough and Pan. and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

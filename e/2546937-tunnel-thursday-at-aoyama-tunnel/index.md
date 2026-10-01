@@ -1,6 +1,6 @@
 # TUNNEL THURSDAY at Aoyama Tunnel
 
-TUNNEL THURSDAY at Aoyama Tunnel on Thu 1 Oct, Tokyo. 1 artist on the bill: Andre McLeod. Techno and House. Preview the line-up and save it on soundcheck.
+TUNNEL THURSDAY at Aoyama Tunnel on Thu 1 Oct, Tokyo. 1 artist: Andre McLeod. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

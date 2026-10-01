@@ -1,6 +1,6 @@
 # Grace Bones presents House of Chic Radio at TBA -  Select Fm London
 
-Grace Bones presents House of Chic Radio at TBA -  Select Fm London on Fri 2 Oct, Los Angeles. 2 artists on the bill: GraceBones and Leftwing & Kody. House and Garage. Preview the line-up and save it on soundcheck.
+Grace Bones presents House of Chic Radio at TBA -  Select Fm London on Fri 2 Oct, Los Angeles. 2 artists: GraceBones and Leftwing & Kody. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

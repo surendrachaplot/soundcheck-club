@@ -1,8 +1,8 @@
 # Razzor
 
-Razzor is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Razzor is a Techno and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-Razzor is a techno and acid artist based in Serbia, tracked on soundcheck, with 7 sets logged across Belgrade, Istanbul and Zagreb. Often billed alongside Moraitov, Stameni and ACOR. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+Razzor is a techno and acid artist based in Serbia, with 7 gigs on soundcheck across Belgrade, Istanbul and Zagreb. Often billed alongside Moraitov, Stameni and ACOR. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ Razzor is a techno and acid artist based in Serbia, tracked on soundcheck, with 
 
 ## Recently played
 
-- New Tekstil, Belgrade — Fri, 12 Jun 2026
-- 74 Hall, Istanbul — Mon, 18 May 2026
-- Drugstore Beograd, Belgrade — Fri, 13 Feb 2026
-- Kult, Belgrade — Fri, 6 Jun 2025
-- Drugstore Beograd, Belgrade — Fri, 9 May 2025
+- New Tekstil, Belgrade · Fri, 12 Jun 2026
+- 74 Hall, Istanbul · Mon, 18 May 2026
+- Drugstore Beograd, Belgrade · Fri, 13 Feb 2026
+- Kult, Belgrade · Fri, 6 Jun 2025
+- Drugstore Beograd, Belgrade · Fri, 9 May 2025
 
 ## Shares bills with
 

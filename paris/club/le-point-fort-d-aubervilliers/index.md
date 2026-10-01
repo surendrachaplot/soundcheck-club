@@ -1,8 +1,8 @@
 # Le point fort d'Aubervilliers
 
-Le point fort d'Aubervilliers is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sun Goes Down · Akiyo · Roger Raspail & Karaïb Kollectif Ensemb" on Fri, 9 Oct 2026.
+Le point fort d'Aubervilliers is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sun Goes Down · Akiyo · Roger Raspail & Karaïb Kollectif Ensemb" on Fri, 9 Oct 2026.
 
-Le point fort d'Aubervilliers is a music venue in Paris listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 174 avenue Jean Jaurès, 93300 Aubervilliers.
+Le point fort d'Aubervilliers is a music venue in Paris listed on soundcheck. 2 upcoming gigs. See dates, start times and who's playing. 174 avenue Jean Jaurès, 93300 Aubervilliers.
 
 ## What's on
 

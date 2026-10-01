@@ -1,8 +1,8 @@
 # The Lord Gladstone
 
-The Lord Gladstone is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "move my way afterparty ~ eora" on Sat, 3 Oct 2026.
+The Lord Gladstone is a music venue in Sydney with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "move my way afterparty ~ eora" on Sat, 3 Oct 2026.
 
-The Lord Gladstone is a music venue in Sydney listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 115 Regent St, Chippendale NSW 2008, Australia.
+The Lord Gladstone is a music venue in Sydney listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 115 Regent St, Chippendale NSW 2008, Australia.
 
 ## What's on
 

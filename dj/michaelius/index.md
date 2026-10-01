@@ -1,8 +1,8 @@
 # Michael Ius
 
-Michael Ius is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Blindspot*, Bucharest on Sat, 10 Oct 2026.
+Michael Ius is a Techno and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Blindspot*, Bucharest on Sat, 10 Oct 2026.
 
-Michael Ius is a techno and acid artist based in Romania, tracked on soundcheck, with 36 sets logged across Berlin, Bucharest and London. Often billed alongside CARMEN (RO), FAUST and ALISTARM. Next up: Blindspot*, Bucharest on Sat 10 Oct.
+Michael Ius is a techno and acid artist based in Romania, with 36 gigs on soundcheck across Berlin, Bucharest and London. Often billed alongside CARMEN (RO), FAUST and ALISTARM. Next up: Blindspot*, Bucharest on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Michael Ius is a techno and acid artist based in Romania, tracked on soundcheck,
 
 ## Recently played
 
-- Forge, Bucharest — Sat, 26 Sept 2026
-- TBA, Bucharest — Fri, 21 Aug 2026
-- TBA, Bucharest — Fri, 17 Jul 2026
-- TBA - Secret Location (drops event day), Bucharest — Fri, 10 Jul 2026
-- Forge, Bucharest — Sat, 30 May 2026
-- Forge, Bucharest — Fri, 22 May 2026
-- Nether Club, Bucharest — Sat, 16 May 2026
-- TBA - Industrial Warehouse , Bucharest — Fri, 15 May 2026
+- Forge, Bucharest · Sat, 26 Sept 2026
+- TBA, Bucharest · Fri, 21 Aug 2026
+- TBA, Bucharest · Fri, 17 Jul 2026
+- TBA - Secret Location (drops event day), Bucharest · Fri, 10 Jul 2026
+- Forge, Bucharest · Sat, 30 May 2026
+- Forge, Bucharest · Fri, 22 May 2026
+- Nether Club, Bucharest · Sat, 16 May 2026
+- TBA - Industrial Warehouse , Bucharest · Fri, 15 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Defected Auckland 2026 at The Mothership
 
-Defected Auckland 2026 at The Mothership on Sat 28 Nov, Auckland. 1 artist on the bill: Sam Divine. House. Preview the line-up and save it on soundcheck.
+Defected Auckland 2026 at The Mothership on Sat 28 Nov, Auckland. 1 artist: Sam Divine. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

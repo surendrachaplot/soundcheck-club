@@ -1,6 +1,6 @@
 # Nabolaget Vol. 1 - Ludde, Løvdal & Plogen at TBA - BAR Vulkan
 
-Nabolaget Vol. 1 - Ludde, Løvdal & Plogen at TBA - BAR Vulkan on Fri 2 Oct, Oslo. House and Minimal. Preview the line-up and save it on soundcheck.
+Nabolaget Vol. 1 - Ludde, Løvdal & Plogen at TBA - BAR Vulkan on Fri 2 Oct, Oslo. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

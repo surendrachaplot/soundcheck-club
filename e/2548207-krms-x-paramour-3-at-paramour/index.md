@@ -1,6 +1,6 @@
 # KRMS x Paramour #3 at Paramour
 
-KRMS x Paramour #3 on Sat 3 Oct, Brussels. 1 artist on the bill: Bo Meng. Techno and House. Preview the line-up and save it on soundcheck.
+KRMS x Paramour #3 on Sat 3 Oct, Brussels. 1 artist: Bo Meng. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

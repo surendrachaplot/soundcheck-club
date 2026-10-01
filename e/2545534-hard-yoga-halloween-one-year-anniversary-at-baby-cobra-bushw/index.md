@@ -1,6 +1,6 @@
 # Hard Yoga: Halloween — One Year Anniversary at Baby Cobra - Bushwick
 
-Hard Yoga: Halloween — One Year Anniversary at Baby Cobra - Bushwick on Sat 31 Oct, New York City. Downtempo and Dubstep. Preview the line-up and save it on soundcheck.
+Hard Yoga: Halloween — One Year Anniversary at Baby Cobra - Bushwick on Sat 31 Oct, New York City. Downtempo and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

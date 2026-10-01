@@ -1,6 +1,6 @@
 # Klongtoeycompton at Bangkok Island
 
-Klongtoeycompton at Bangkok Island on Thu 22 Oct, Bangkok. Hip-Hop. Preview the line-up and save it on soundcheck.
+Klongtoeycompton at Bangkok Island on Thu 22 Oct, Bangkok. Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

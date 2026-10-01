@@ -1,6 +1,6 @@
 # Disco To Go at Paloma
 
-Disco To Go at Paloma on Sat 3 Oct, Berlin. 2 artists on the bill: Phonk D and Soundstream. House and Disco. Preview the line-up and save it on soundcheck.
+Disco To Go at Paloma on Sat 3 Oct, Berlin. 2 artists: Phonk D and Soundstream. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

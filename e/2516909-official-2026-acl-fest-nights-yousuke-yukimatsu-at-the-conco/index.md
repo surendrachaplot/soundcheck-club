@@ -1,6 +1,6 @@
 # Official 2026 ACL Fest Nights: Yousuke Yukimatsu at The Concourse Project
 
-Official 2026 ACL Fest Nights: Yousuke Yukimatsu at The Concourse Project on Thu 8 Oct, Austin. Preview the line-up and save it on soundcheck.
+Official 2026 ACL Fest Nights: Yousuke Yukimatsu at The Concourse Project on Thu 8 Oct, Austin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # JIM + Support at Are You Affiliated
 
-JIM + Support at Are You Affiliated on Sat 3 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+JIM + Support at Are You Affiliated on Sat 3 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

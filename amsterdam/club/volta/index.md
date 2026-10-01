@@ -1,8 +1,8 @@
 # Volta
 
-Volta is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Modulogue" on Wed, 21 Oct 2026.
+Volta is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Modulogue" on Wed, 21 Oct 2026.
 
-Volta is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including BAILE, Blossom Hill, edapollo and Paul Ray and 2 more. Browse upcoming dates, start times and who's playing. Houtmankade 336, 1013 RR Amsterdam, NL.
+Volta is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including BAILE, Blossom Hill, edapollo and Paul Ray and 2 more. See dates, start times and who's playing. Houtmankade 336, 1013 RR Amsterdam, NL.
 
 ## What's on
 

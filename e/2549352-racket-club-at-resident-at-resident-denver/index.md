@@ -1,6 +1,6 @@
 # Racket Club at Resident at Resident Denver
 
-Racket Club at Resident at Resident Denver on Fri 2 Oct, Denver. 1 artist on the bill: Racket Club. House. Preview the line-up and save it on soundcheck.
+Racket Club at Resident at Resident Denver on Fri 2 Oct, Denver. 1 artist: Racket Club. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

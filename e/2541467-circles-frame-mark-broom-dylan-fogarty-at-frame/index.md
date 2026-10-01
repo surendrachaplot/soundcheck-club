@@ -1,6 +1,6 @@
 # Circles: Frame - Mark Broom & Dylan Fogarty at Frame
 
-Circles: Frame - Mark Broom & Dylan Fogarty on Sat 17 Oct, Dublin. 2 artists on the bill: Dylan Fogarty and Mark Broom. Techno. Preview the line-up and save it on soundcheck.
+Circles: Frame - Mark Broom & Dylan Fogarty on Sat 17 Oct, Dublin. 2 artists: Dylan Fogarty and Mark Broom. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

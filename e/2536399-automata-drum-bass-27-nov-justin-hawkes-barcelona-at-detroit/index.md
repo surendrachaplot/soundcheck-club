@@ -1,6 +1,6 @@
 # Automata Drum & Bass 27 NOV - JUSTIN HAWKES Barcelona at DETROIT CLUB
 
-Automata Drum & Bass 27 NOV - JUSTIN HAWKES Barcelona at DETROIT CLUB on Fri 27 Nov, Barcelona. Drum & Bass. Preview the line-up and save it on soundcheck.
+Automata Drum & Bass 27 NOV - JUSTIN HAWKES Barcelona at DETROIT CLUB on Fri 27 Nov, Barcelona. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

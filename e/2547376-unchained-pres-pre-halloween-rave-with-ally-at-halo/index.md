@@ -1,6 +1,6 @@
 # UNCHAINED pres. PRE-HALLOWEEN RAVE with ALLY at Halo
 
-UNCHAINED pres. PRE-HALLOWEEN RAVE with ALLY at Halo on Fri 30 Oct, Hamburg. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+UNCHAINED pres. PRE-HALLOWEEN RAVE with ALLY at Halo on Fri 30 Oct, Hamburg. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

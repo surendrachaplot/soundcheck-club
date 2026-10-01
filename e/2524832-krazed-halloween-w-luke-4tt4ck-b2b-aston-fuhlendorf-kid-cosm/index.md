@@ -1,6 +1,6 @@
 # Krazed Halloween w/ Luke 4tt4ck B2B Aston Fuhlendorf, Kid Cosmit B2B Harka at Ouseburn Garden
 
-Krazed Halloween w/ Luke 4tt4ck B2B Aston Fuhlendorf, Kid Cosmit B2B Harka at Ouseburn Garden on Fri 30 Oct, Newcastle. Bass and Jungle. Preview the line-up and save it on soundcheck.
+Krazed Halloween w/ Luke 4tt4ck B2B Aston Fuhlendorf, Kid Cosmit B2B Harka at Ouseburn Garden on Fri 30 Oct, Newcastle. Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

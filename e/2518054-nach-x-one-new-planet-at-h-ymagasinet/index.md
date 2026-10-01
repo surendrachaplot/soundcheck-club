@@ -1,6 +1,6 @@
 # NACH X ONE NEW PLANET at Høymagasinet
 
-NACH X ONE NEW PLANET at Høymagasinet on Sat 10 Oct, Oslo. Techno. Preview the line-up and save it on soundcheck.
+NACH X ONE NEW PLANET at Høymagasinet on Sat 10 Oct, Oslo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

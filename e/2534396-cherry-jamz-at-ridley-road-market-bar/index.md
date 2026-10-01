@@ -1,6 +1,6 @@
 # Cherry Jamz at Ridley Road Market Bar
 
-Cherry Jamz at Ridley Road Market Bar on Wed 21 Oct, London. Disco and Club. Preview the line-up and save it on soundcheck.
+Cherry Jamz at Ridley Road Market Bar on Wed 21 Oct, London. Disco and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

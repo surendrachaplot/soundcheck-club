@@ -1,8 +1,8 @@
 # Teatr Łaźnia Nowa
 
-Teatr Łaźnia Nowa is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Unsound Kraków 2026: FUZZ Actress / Marina Herlop / Liars feat. Macio Moretti&Jacek Prościński" on Fri, 9 Oct 2026.
+Teatr Łaźnia Nowa is a music venue in Krakow with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Unsound Kraków 2026: FUZZ Actress / Marina Herlop / Liars feat. Macio Moretti&Jacek Prościński" on Fri, 9 Oct 2026.
 
-Teatr Łaźnia Nowa is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including Marina Herlop. Browse upcoming dates, start times and who's playing. Osiedle Szkolne 25, 31-977 Kraków.
+Teatr Łaźnia Nowa is a music venue in Krakow listed on soundcheck. 2 upcoming gigs, with line-ups including Marina Herlop. See dates, start times and who's playing. Osiedle Szkolne 25, 31-977 Kraków.
 
 ## What's on
 

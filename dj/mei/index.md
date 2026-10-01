@@ -1,8 +1,8 @@
 # M E I
 
-M E I is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at KitKatClub, Berlin on Fri, 2 Oct 2026.
+M E I is a Techno and Hip-Hop artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at KitKatClub, Berlin on Fri, 2 Oct 2026.
 
-M E I is a techno and hip-hop artist based in Canada, tracked on soundcheck, with 8 sets logged across Berlin, Montreal and Tokyo. Often billed alongside Amu, Assassin and Drunken Kong. Next up: KitKatClub, Berlin on Fri 2 Oct.
+M E I is a techno and hip-hop artist based in Canada, with 8 gigs on soundcheck across Berlin, Montreal and Tokyo. Often billed alongside Amu, Assassin and Drunken Kong. Next up: KitKatClub, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ M E I is a techno and hip-hop artist based in Canada, tracked on soundcheck, wit
 
 ## Recently played
 
-- or, Tokyo — Fri, 25 Sept 2026
-- Ohjo Bldg, Tokyo — Sat, 9 May 2026
-- Ohjo Bldg, Tokyo — Fri, 17 Apr 2026
-- Ohjo Bldg, Tokyo — Sat, 19 Jul 2025
-- Place du Village, Montreal — Fri, 19 Jul 2024
-- or, Tokyo — Fri, 17 May 2024
-- or, Tokyo — Fri, 19 Apr 2024
+- or, Tokyo · Fri, 25 Sept 2026
+- Ohjo Bldg, Tokyo · Sat, 9 May 2026
+- Ohjo Bldg, Tokyo · Fri, 17 Apr 2026
+- Ohjo Bldg, Tokyo · Sat, 19 Jul 2025
+- Place du Village, Montreal · Fri, 19 Jul 2024
+- or, Tokyo · Fri, 17 May 2024
+- or, Tokyo · Fri, 19 Apr 2024
 
 ## Shares bills with
 

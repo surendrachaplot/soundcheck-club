@@ -1,6 +1,6 @@
 # XPAM x Record Turnover at Sameheads
 
-XPAM x Record Turnover at Sameheads on Thu 29 Oct, Berlin. 5 artists on the bill: HMEHDI, Krohm, olesia and XZ5000 and 1 more. Techno and Electronica. Preview the line-up and save it on soundcheck.
+XPAM x Record Turnover at Sameheads on Thu 29 Oct, Berlin. 5 artists: HMEHDI, Krohm, olesia and XZ5000 and 1 more. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

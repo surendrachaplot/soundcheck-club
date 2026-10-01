@@ -1,6 +1,6 @@
 # James Benjamin, Hydra, Mak1ntouch, Lucid Grooves at Bar Datcha
 
-James Benjamin, Hydra, Mak1ntouch, Lucid Grooves at Bar Datcha on Thu 8 Oct, Montreal. 3 artists on the bill: hÿdra, James Benjamin and Lucid Grooves. Preview the line-up and save it on soundcheck.
+James Benjamin, Hydra, Mak1ntouch, Lucid Grooves at Bar Datcha on Thu 8 Oct, Montreal. 3 artists: hÿdra, James Benjamin and Lucid Grooves. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

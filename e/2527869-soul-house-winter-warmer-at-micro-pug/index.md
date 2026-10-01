@@ -1,6 +1,6 @@
 # Soul House Winter Warmer at Micro Pug
 
-Soul House Winter Warmer at Micro Pug on Sat 28 Nov, London. House and Disco. Preview the line-up and save it on soundcheck.
+Soul House Winter Warmer at Micro Pug on Sat 28 Nov, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

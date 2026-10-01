@@ -1,8 +1,8 @@
 # TBA - Pátio da Galé
 
-TBA - Pátio da Galé is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Bloom presents Monkey Project - Lisbon - Halloween 2026" on Sat, 31 Oct 2026.
+TBA - Pátio da Galé is a music venue in Lisbon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Bloom presents Monkey Project - Lisbon - Halloween 2026" on Sat, 31 Oct 2026.
 
-TBA - Pátio da Galé is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Antdot, Charmeine, Notre Dame and Parallelle and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Pátio da Galé is a music venue in Lisbon listed on soundcheck. 1 upcoming gig, with line-ups including Antdot, Charmeine, Notre Dame and Parallelle and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

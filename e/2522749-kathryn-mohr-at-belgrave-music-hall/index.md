@@ -1,6 +1,6 @@
 # Kathryn Mohr at Belgrave Music Hall
 
-Kathryn Mohr at Belgrave Music Hall on Sun 4 Oct, Leeds. Experimental. Preview the line-up and save it on soundcheck.
+Kathryn Mohr at Belgrave Music Hall on Sun 4 Oct, Leeds. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

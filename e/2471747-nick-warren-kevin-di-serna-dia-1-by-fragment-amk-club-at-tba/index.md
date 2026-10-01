@@ -1,6 +1,6 @@
 # Nick Warren + Kevin Di Serna [DIA 1] - by FRAGMENT, AMK CLUB at TBA - AMK Club, Almagro
 
-Nick Warren + Kevin Di Serna [DIA 1] - by FRAGMENT, AMK CLUB at TBA - AMK Club, Almagro on Fri 23 Oct, Buenos Aires. 2 artists on the bill: Kevin Di Serna and Nick Warren. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Nick Warren + Kevin Di Serna [DIA 1] - by FRAGMENT, AMK CLUB at TBA - AMK Club, Almagro on Fri 23 Oct, Buenos Aires. 2 artists: Kevin Di Serna and Nick Warren. Progressive House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

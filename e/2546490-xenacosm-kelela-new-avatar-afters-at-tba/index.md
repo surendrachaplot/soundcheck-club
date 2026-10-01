@@ -1,6 +1,6 @@
 # Xenacosm • Kelela: New Avatar Afters at TBA - ?
 
-Xenacosm • Kelela: New Avatar Afters at TBA - ? on Thu 15 Oct, Atlanta. 3 artists on the bill: BRATATTACK, Don Fairylèon and Nyah Cami. Preview the line-up and save it on soundcheck.
+Xenacosm • Kelela: New Avatar Afters at TBA - ? on Thu 15 Oct, Atlanta. 3 artists: BRATATTACK, Don Fairylèon and Nyah Cami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

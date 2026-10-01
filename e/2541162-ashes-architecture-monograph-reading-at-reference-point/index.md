@@ -1,6 +1,6 @@
 # Ashes & Architecture: Monograph Reading at Reference Point
 
-Ashes & Architecture: Monograph Reading at Reference Point on Mon 12 Oct, London. Experimental and Funk / Soul. Preview the line-up and save it on soundcheck.
+Ashes & Architecture: Monograph Reading at Reference Point on Mon 12 Oct, London. Experimental and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

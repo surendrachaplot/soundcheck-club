@@ -1,8 +1,8 @@
 # Index
 
-Index is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Index x Outset: Onlynumbers" on Fri, 2 Oct 2026.
+Index is a music venue in Dublin with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Index x Outset: Onlynumbers" on Fri, 2 Oct 2026.
 
-Index is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Ben Hemsley, Black Traffic, Chantel Kavanagh and Eddie Halliwell and 2 more. Browse upcoming dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
+Index is a music venue in Dublin listed on soundcheck. 8 upcoming gigs, with line-ups including Ben Hemsley, Black Traffic, Chantel Kavanagh and Eddie Halliwell and 2 more. See dates, start times and who's playing. 57 Middle Abbey St, North City, Dublin 1, D01 W573.
 
 ## What's on
 

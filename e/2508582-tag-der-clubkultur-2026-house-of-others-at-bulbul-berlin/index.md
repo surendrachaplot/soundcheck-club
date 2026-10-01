@@ -1,6 +1,6 @@
 # TAG DER CLUBKULTUR 2026 - HOUSE OF OTHERS at Bulbul Berlin
 
-TAG DER CLUBKULTUR 2026 - HOUSE OF OTHERS at Bulbul Berlin on Thu 8 Oct, Berlin. 3 artists on the bill: boyyyish, materia hache and Triqi. House and Club. Preview the line-up and save it on soundcheck.
+TAG DER CLUBKULTUR 2026 - HOUSE OF OTHERS at Bulbul Berlin on Thu 8 Oct, Berlin. 3 artists: boyyyish, materia hache and Triqi. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

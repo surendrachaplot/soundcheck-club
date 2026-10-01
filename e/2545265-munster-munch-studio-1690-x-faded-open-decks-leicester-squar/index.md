@@ -1,6 +1,6 @@
 # Munster Munch (Studio 1690) x Faded: OPEN DECKS (Leicester Square) at Munster Munch
 
-Munster Munch (Studio 1690) x Faded: OPEN DECKS (Leicester Square) on Thu 8 Oct, London. 1 artist on the bill: Faded Society. Preview the line-up and save it on soundcheck.
+Munster Munch (Studio 1690) x Faded: OPEN DECKS (Leicester Square) on Thu 8 Oct, London. 1 artist: Faded Society. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

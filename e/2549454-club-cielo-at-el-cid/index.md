@@ -1,6 +1,6 @@
 # Club Cielo at El Cid
 
-Club Cielo at El Cid on Sat 3 Oct, Los Angeles. 2 artists on the bill: DINABN and Iris Estefanía. Guaracha. Preview the line-up and save it on soundcheck.
+Club Cielo at El Cid on Sat 3 Oct, Los Angeles. 2 artists: DINABN and Iris Estefanía. Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

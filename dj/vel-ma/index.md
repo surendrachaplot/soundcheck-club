@@ -1,8 +1,8 @@
 # VEL (MA)
 
-VEL (MA) is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Fri, 16 Oct 2026.
+VEL (MA) is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Fri, 16 Oct 2026.
 
-VEL (MA) is a techno and trance artist based in France, tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Tresor / Globus, Berlin on Fri 16 Oct.
+VEL (MA) is a techno and trance artist based in France, with 145 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 38 more. Often billed alongside Anetha, A Strange Wedding and Mac Declos. Next up: Tresor / Globus, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ VEL (MA) is a techno and trance artist based in France, tracked on soundcheck, w
 
 ## Recently played
 
-- Unité.22, Marseille — Fri, 18 Sept 2026
-- Place Jean Rey, Brussels — Sat, 12 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 5 Sept 2026
-- Hausmania, Oslo — Thu, 13 Aug 2026
-- Palais de Tokyo, Paris — Sat, 25 Jul 2026
-- TBA - Warehouse, Paris — Sat, 6 Jun 2026
-- DURO, Milan — Sat, 30 May 2026
-- TBA - Les Grandes Locos , Lyon — Wed, 13 May 2026
+- Unité.22, Marseille · Fri, 18 Sept 2026
+- Place Jean Rey, Brussels · Sat, 12 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 5 Sept 2026
+- Hausmania, Oslo · Thu, 13 Aug 2026
+- Palais de Tokyo, Paris · Sat, 25 Jul 2026
+- TBA - Warehouse, Paris · Sat, 6 Jun 2026
+- DURO, Milan · Sat, 30 May 2026
+- TBA - Les Grandes Locos , Lyon · Wed, 13 May 2026
 
 ## Shares bills with
 

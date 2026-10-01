@@ -1,6 +1,6 @@
 # SPIRIT THERAPY with BLOCKSBERG & MEMPHYS at Cross Club
 
-SPIRIT THERAPY with BLOCKSBERG & MEMPHYS at Cross Club on Fri 9 Oct, Prague. 2 artists on the bill: Soulkate and Whitetrip. Preview the line-up and save it on soundcheck.
+SPIRIT THERAPY with BLOCKSBERG & MEMPHYS at Cross Club on Fri 9 Oct, Prague. 2 artists: Soulkate and Whitetrip. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Ouissam
 
-Ouissam is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
+Ouissam is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat, 3 Oct 2026.
 
-Ouissam is a house and techno artist based in France, tracked on soundcheck, with 64 sets logged across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
+Ouissam is a house and techno artist based in France, with 64 gigs on soundcheck across Athens, Bali, Bangkok and Berlin and 18 more. Often billed alongside Emel, Di Linh and Saint Guel. Next up: TBA - Mantra Rooftop Bar & Lounge, Kuala Lumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Ouissam is a house and techno artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
-- Somewhere in the Mountains., Bali — Fri, 25 Sept 2026
-- Nyapi, Seoul — Sat, 5 Sept 2026
-- Dual, Bangkok — Fri, 7 Aug 2026
-- BLITZ, Munich — Fri, 31 Jul 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 25 Jul 2026
-- Horn, Bangkok — Sat, 11 Jul 2026
-- Bassiani, Tbilisi — Sat, 27 Jun 2026
-- BASEMENT, New York City — Sat, 13 Jun 2026
+- Somewhere in the Mountains., Bali · Fri, 25 Sept 2026
+- Nyapi, Seoul · Sat, 5 Sept 2026
+- Dual, Bangkok · Fri, 7 Aug 2026
+- BLITZ, Munich · Fri, 31 Jul 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 25 Jul 2026
+- Horn, Bangkok · Sat, 11 Jul 2026
+- Bassiani, Tbilisi · Sat, 27 Jun 2026
+- BASEMENT, New York City · Sat, 13 Jun 2026
 
 ## Shares bills with
 

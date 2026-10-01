@@ -1,6 +1,6 @@
 # Minimal.Dub with Zerka at Minimal Bar
 
-Minimal.Dub with Zerka at Minimal Bar on Wed 9 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+Minimal.Dub with Zerka at Minimal Bar on Wed 9 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

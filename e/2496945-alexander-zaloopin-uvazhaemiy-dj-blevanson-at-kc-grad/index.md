@@ -1,6 +1,6 @@
 # Alexander Zaloopin, Uvazhaemiy, DJ Blevanson at KC Grad
 
-Alexander Zaloopin, Uvazhaemiy, DJ Blevanson at KC Grad on Thu 15 Oct, Belgrade. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
+Alexander Zaloopin, Uvazhaemiy, DJ Blevanson at KC Grad on Thu 15 Oct, Belgrade. Post-Punk and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

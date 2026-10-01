@@ -1,6 +1,6 @@
 # EAT ME at TBA - Neukölln's favourite secret spot
 
-EAT ME at TBA - Neukölln's favourite secret spot on Fri 16 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
+EAT ME at TBA - Neukölln's favourite secret spot on Fri 16 Oct, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # AMAPIANOLAND - LDN's Biggest AMAPIANO & AFROBEATS Day Party at Boxpark Croydon
 
-AMAPIANOLAND - LDN's Biggest AMAPIANO & AFROBEATS Day Party at Boxpark Croydon on Sun 18 Oct, London. Amapiano and Afrobeats. Preview the line-up and save it on soundcheck.
+AMAPIANOLAND - LDN's Biggest AMAPIANO & AFROBEATS Day Party at Boxpark Croydon on Sun 18 Oct, London. Amapiano and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

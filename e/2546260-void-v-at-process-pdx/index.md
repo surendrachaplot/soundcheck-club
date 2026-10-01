@@ -1,6 +1,6 @@
 # Void V at Process PDX
 
-Void V at Process PDX on Sat 24 Oct, Portland. 2 artists on the bill: Hyōgo and othrwrld. Trance and Techno. Preview the line-up and save it on soundcheck.
+Void V at Process PDX on Sat 24 Oct, Portland. 2 artists: Hyōgo and othrwrld. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

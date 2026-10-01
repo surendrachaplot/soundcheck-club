@@ -1,8 +1,8 @@
 # Julius Papp
 
-Julius Papp is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
+Julius Papp is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
 
-Julius Papp is a disco and house artist based in United States of America, tracked on soundcheck, with 22 sets logged across San Francisco/Oakland. Often billed alongside Franky Boissy, Miguel Migs and Duserock. Next up: The Midway, San Francisco/Oakland on Sun 11 Oct.
+Julius Papp is a disco and house artist based in United States of America, with 22 gigs on soundcheck across San Francisco/Oakland. Often billed alongside Franky Boissy, Miguel Migs and Duserock. Next up: The Midway, San Francisco/Oakland on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Julius Papp is a disco and house artist based in United States of America, track
 
 ## Recently played
 
-- The Battery SF, San Francisco/Oakland — Sat, 12 Sept 2026
-- The Midway, San Francisco/Oakland — Sun, 21 Jun 2026
-- The Great Northern, San Francisco/Oakland — Fri, 17 Apr 2026
-- The Great Northern, San Francisco/Oakland — Thu, 1 Jan 2026
-- Cardiff Lounge, San Francisco/Oakland — Wed, 31 Dec 2025
-- Hawthorn, San Francisco/Oakland — Sat, 8 Nov 2025
-- The Midway, San Francisco/Oakland — Sun, 12 Oct 2025
-- The Midway, San Francisco/Oakland — Sun, 8 Jun 2025
+- The Battery SF, San Francisco/Oakland · Sat, 12 Sept 2026
+- The Midway, San Francisco/Oakland · Sun, 21 Jun 2026
+- The Great Northern, San Francisco/Oakland · Fri, 17 Apr 2026
+- The Great Northern, San Francisco/Oakland · Thu, 1 Jan 2026
+- Cardiff Lounge, San Francisco/Oakland · Wed, 31 Dec 2025
+- Hawthorn, San Francisco/Oakland · Sat, 8 Nov 2025
+- The Midway, San Francisco/Oakland · Sun, 12 Oct 2025
+- The Midway, San Francisco/Oakland · Sun, 8 Jun 2025
 
 ## Shares bills with
 

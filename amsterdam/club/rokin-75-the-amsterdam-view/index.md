@@ -1,8 +1,8 @@
 # Rokin 75 / The Amsterdam View
 
-Rokin 75 / The Amsterdam View is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dure Vie & Talent Boutique with Bambounou, Teki Latex, Florian Picasso b2b Two Dots, Belaria " on Fri, 23 Oct 2026.
+Rokin 75 / The Amsterdam View is a music venue in Amsterdam with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Dure Vie & Talent Boutique with Bambounou, Teki Latex, Florian Picasso b2b Two Dots, Belaria " on Fri, 23 Oct 2026.
 
-Rokin 75 / The Amsterdam View is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Bambounou, Belaria, Dylan Dylan and Florian Picasso and 2 more. Browse upcoming dates, start times and who's playing.
+Rokin 75 / The Amsterdam View is a music venue in Amsterdam listed on soundcheck. 1 upcoming gig, with line-ups including Bambounou, Belaria, Dylan Dylan and Florian Picasso and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Boys Night: Yunis & Hyacinth at B-SIDE
 
-Boys Night: Yunis & Hyacinth at B-SIDE on Fri 2 Oct, Warsaw. 1 artist on the bill: Yunis. House and Tech House. Preview the line-up and save it on soundcheck.
+Boys Night: Yunis & Hyacinth at B-SIDE on Fri 2 Oct, Warsaw. 1 artist: Yunis. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

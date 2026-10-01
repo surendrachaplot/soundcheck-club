@@ -1,8 +1,8 @@
 # Andy Catana
 
-Andy Catana is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
+Andy Catana is a House and Minimal artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Grelle Forelle, Vienna on Fri, 23 Oct 2026.
 
-Andy Catana is a house and minimal artist based in Austria, tracked on soundcheck, with 28 sets logged across Berlin, Brussels, Bucharest and Cologne and 3 more. Often billed alongside Apua, Fabiano José and Reinhard Zach. Next up: Grelle Forelle, Vienna on Fri 23 Oct.
+Andy Catana is a house and minimal artist based in Austria, with 28 gigs on soundcheck across Berlin, Brussels, Bucharest and Cologne and 3 more. Often billed alongside Apua, Fabiano José and Reinhard Zach. Next up: Grelle Forelle, Vienna on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Andy Catana is a house and minimal artist based in Austria, tracked on soundchec
 
 ## Recently played
 
-- PRST, Vienna — Fri, 11 Sept 2026
-- SASS Music Club, Vienna — Sun, 26 Jul 2026
-- Soulkitchen Vienna, Vienna — Sat, 27 Jun 2026
-- Fitzroy, Berlin — Sun, 21 Jun 2026
-- The Loft, Vienna — Sat, 23 May 2026
-- PRST, Vienna — Fri, 22 May 2026
-- Porto Pollo, Vienna — Fri, 1 May 2026
-- SASS Music Club, Vienna — Sat, 1 Nov 2025
+- PRST, Vienna · Fri, 11 Sept 2026
+- SASS Music Club, Vienna · Sun, 26 Jul 2026
+- Soulkitchen Vienna, Vienna · Sat, 27 Jun 2026
+- Fitzroy, Berlin · Sun, 21 Jun 2026
+- The Loft, Vienna · Sat, 23 May 2026
+- PRST, Vienna · Fri, 22 May 2026
+- Porto Pollo, Vienna · Fri, 1 May 2026
+- SASS Music Club, Vienna · Sat, 1 Nov 2025
 
 ## Shares bills with
 

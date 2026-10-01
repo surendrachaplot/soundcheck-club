@@ -1,8 +1,8 @@
 # Lion Super Club
 
-Lion Super Club is a music venue in Seoul with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "INDEX AFTER PARTY: Layton Giordani" on Thu, 1 Oct 2026.
+Lion Super Club is a music venue in Seoul with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "INDEX AFTER PARTY: Layton Giordani" on Thu, 1 Oct 2026.
 
-Lion Super Club is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with line-ups including CamelPhat, Daiki, Layton Giordani and LOOZBONE and 2 more. Browse upcoming dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
+Lion Super Club is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with line-ups including CamelPhat, Daiki, Layton Giordani and LOOZBONE and 2 more. See dates, start times and who's playing. 1F, 535 Dosan-daero, Gangnam-gu, Seoul 06011, South Korea.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # plentyppl on the Cosmic Slop Soundsystem at Hope House
 
-plentyppl on the Cosmic Slop Soundsystem at Hope House on Sat 24 Oct, Leeds. 4 artists on the bill: CasuallyClued, Juno, Marvin Jupiter and REO (UK). Jazz and Broken Beat. Preview the line-up and save it on soundcheck.
+plentyppl on the Cosmic Slop Soundsystem at Hope House on Sat 24 Oct, Leeds. 4 artists: CasuallyClued, Juno, Marvin Jupiter and REO (UK). Jazz and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

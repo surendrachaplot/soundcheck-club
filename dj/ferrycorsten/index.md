@@ -1,8 +1,8 @@
 # Ferry Corsten
 
-Ferry Corsten is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ZEROTOKYO, Tokyo on Sun, 11 Oct 2026.
+Ferry Corsten is a Trance and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Sun, 11 Oct 2026.
 
-Ferry Corsten is a trance and techno artist based in Netherlands, tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Brisbane and Bristol and 28 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: ZEROTOKYO, Tokyo on Sun 11 Oct.
+Ferry Corsten is a trance and techno artist based in Netherlands, with 52 gigs on soundcheck across Amsterdam, Austin, Brisbane and Bristol and 28 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: ZEROTOKYO, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Ferry Corsten is a trance and techno artist based in Netherlands, tracked on sou
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Sat, 26 Sept 2026
-- 02 Victoria Warehouse, Manchester — Sat, 26 Sept 2026
-- Avalon Hollywood, Los Angeles — Sat, 15 Aug 2026
-- Document, Bristol — Sat, 25 Jul 2026
-- Lion Super Club, Seoul — Fri, 12 Jun 2026
-- Amnesia Ibiza, Ibiza — Wed, 10 Jun 2026
-- UNO MALTA, Malta — Thu, 7 May 2026
-- Casa Nube Wynwood, Miami — Fri, 27 Mar 2026
+- Amnesia Ibiza, Ibiza · Sat, 26 Sept 2026
+- 02 Victoria Warehouse, Manchester · Sat, 26 Sept 2026
+- Avalon Hollywood, Los Angeles · Sat, 15 Aug 2026
+- Document, Bristol · Sat, 25 Jul 2026
+- Lion Super Club, Seoul · Fri, 12 Jun 2026
+- Amnesia Ibiza, Ibiza · Wed, 10 Jun 2026
+- UNO MALTA, Malta · Thu, 7 May 2026
+- Casa Nube Wynwood, Miami · Fri, 27 Mar 2026
 
 ## Shares bills with
 

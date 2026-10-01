@@ -1,6 +1,6 @@
 # Forward x Euphorie present: Buda BXL at Buda BXL
 
-Forward x Euphorie present: Buda BXL on Sat 10 Oct, Brussels. 9 artists on the bill: Bapow, Domi (FR), Ina Kaysen and JACKUZZI and 5 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+Forward x Euphorie present: Buda BXL on Sat 10 Oct, Brussels. 9 artists: Bapow, Domi (FR), Ina Kaysen and JACKUZZI and 5 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

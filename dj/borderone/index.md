@@ -1,8 +1,8 @@
 # Border One
 
-Border One is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
+Border One is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tresor / Globus, Berlin on Sat, 10 Oct 2026.
 
-Border One is a techno and house artist based in Belgium, tracked on soundcheck, with 89 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Kr!z, Phara and Marie-Julie. Next up: Tresor / Globus, Berlin on Sat 10 Oct.
+Border One is a techno and house artist based in Belgium, with 89 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 19 more. Often billed alongside Kr!z, Phara and Marie-Julie. Next up: Tresor / Globus, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Border One is a techno and house artist based in Belgium, tracked on soundcheck,
 
 ## Recently played
 
-- Fuse, Brussels — Fri, 11 Sept 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Thu, 9 Jul 2026
-- Circle Park, Brussels — Sat, 4 Jul 2026
-- RADION, Amsterdam — Sat, 13 Jun 2026
-- Tresor / Globus, Berlin — Sat, 6 Jun 2026
-- Razzmatazz, Barcelona — Sat, 30 May 2026
-- TBA -  360 Jefferson st , New York City — Sat, 25 Apr 2026
+- Fuse, Brussels · Fri, 11 Sept 2026
+- Parc des Etangs/Vijverspark, Brussels · Fri, 14 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Thu, 9 Jul 2026
+- Circle Park, Brussels · Sat, 4 Jul 2026
+- RADION, Amsterdam · Sat, 13 Jun 2026
+- Tresor / Globus, Berlin · Sat, 6 Jun 2026
+- Razzmatazz, Barcelona · Sat, 30 May 2026
+- TBA -  360 Jefferson st , New York City · Sat, 25 Apr 2026
 
 ## Shares bills with
 

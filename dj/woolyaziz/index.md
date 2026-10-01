@@ -1,8 +1,8 @@
 # Wooly Aziz
 
-Wooly Aziz is a Post-Punk and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TORTE BAR, Berlin on Thu, 1 Oct 2026.
+Wooly Aziz is a Post-Punk and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TORTE BAR, Berlin on Thu, 1 Oct 2026.
 
-Wooly Aziz is a post-punk and house artist based in Pakistan, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside AZIEZ, Anika and Austra. Next up: TORTE BAR, Berlin on Thu 1 Oct.
+Wooly Aziz is a post-punk and house artist based in Pakistan, with 6 gigs on soundcheck across Berlin. Often billed alongside AZIEZ, Anika and Austra. Next up: TORTE BAR, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,11 +12,11 @@ Wooly Aziz is a post-punk and house artist based in Pakistan, tracked on soundch
 
 ## Recently played
 
-- Alte Münze, Berlin — Sun, 21 Jun 2026
-- arkaoda Berlin, Berlin — Thu, 22 Jan 2026
-- Lark, Berlin — Sat, 14 Dec 2024
-- THF Radio / Torhaus, Berlin — Thu, 21 Nov 2024
-- Ausland, Berlin — Fri, 10 May 2024
+- Alte Münze, Berlin · Sun, 21 Jun 2026
+- arkaoda Berlin, Berlin · Thu, 22 Jan 2026
+- Lark, Berlin · Sat, 14 Dec 2024
+- THF Radio / Torhaus, Berlin · Thu, 21 Nov 2024
+- Ausland, Berlin · Fri, 10 May 2024
 
 ## Shares bills with
 

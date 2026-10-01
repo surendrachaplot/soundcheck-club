@@ -1,8 +1,8 @@
 # Slurgeon
 
-Slurgeon is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Process PDX, Portland on Thu, 1 Oct 2026.
+Slurgeon is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Process PDX, Portland on Thu, 1 Oct 2026.
 
-Slurgeon is a techno and bass artist based in United States of America, tracked on soundcheck, with 12 sets logged across Portland. Often billed alongside Natasha Kmeto, Omari Jazz and Sol Elicio. Next up: Process PDX, Portland on Thu 1 Oct.
+Slurgeon is a techno and bass artist based in United States of America, with 12 gigs on soundcheck across Portland. Often billed alongside Natasha Kmeto, Omari Jazz and Sol Elicio. Next up: Process PDX, Portland on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Slurgeon is a techno and bass artist based in United States of America, tracked 
 
 ## Recently played
 
-- Process PDX, Portland — Thu, 3 Sept 2026
-- Holocene, Portland — Sat, 9 May 2026
-- Process PDX, Portland — Thu, 23 Apr 2026
-- Barn Radio, Portland — Fri, 12 Dec 2025
-- Process PDX, Portland — Thu, 30 Oct 2025
-- Process PDX, Portland — Thu, 4 Sept 2025
-- Process PDX, Portland — Thu, 5 Jun 2025
-- Process PDX, Portland — Thu, 12 Dec 2024
+- Process PDX, Portland · Thu, 3 Sept 2026
+- Holocene, Portland · Sat, 9 May 2026
+- Process PDX, Portland · Thu, 23 Apr 2026
+- Barn Radio, Portland · Fri, 12 Dec 2025
+- Process PDX, Portland · Thu, 30 Oct 2025
+- Process PDX, Portland · Thu, 4 Sept 2025
+- Process PDX, Portland · Thu, 5 Jun 2025
+- Process PDX, Portland · Thu, 12 Dec 2024
 
 ## Shares bills with
 

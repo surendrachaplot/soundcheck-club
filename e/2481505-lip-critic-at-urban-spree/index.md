@@ -1,6 +1,6 @@
 # LIP CRITIC at Urban Spree
 
-LIP CRITIC at Urban Spree on Wed 28 Oct, Berlin. Post-Punk. Preview the line-up and save it on soundcheck.
+LIP CRITIC at Urban Spree on Wed 28 Oct, Berlin. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

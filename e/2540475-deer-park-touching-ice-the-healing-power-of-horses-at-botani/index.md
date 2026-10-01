@@ -1,6 +1,6 @@
 # Deer park + Touching Ice + The Healing Power Of Horses at Botanique
 
-Deer park + Touching Ice + The Healing Power Of Horses at Botanique on Sun 8 Nov, Brussels. 1 artist on the bill: Deer park. Electro and Experimental. Preview the line-up and save it on soundcheck.
+Deer park + Touching Ice + The Healing Power Of Horses at Botanique on Sun 8 Nov, Brussels. 1 artist: Deer park. Electro and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

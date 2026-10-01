@@ -1,6 +1,6 @@
 # S p a c e & Time at TBA
 
-S p a c e & Time at TBA on Sat 14 Nov, Chicago. 5 artists on the bill: Andy Stroble, Brandon Latta, Duke Shin and Lester Fitzpatrick and 1 more. House and Dub Techno. Preview the line-up and save it on soundcheck.
+S p a c e & Time at TBA on Sat 14 Nov, Chicago. 5 artists: Andy Stroble, Brandon Latta, Duke Shin and Lester Fitzpatrick and 1 more. House and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

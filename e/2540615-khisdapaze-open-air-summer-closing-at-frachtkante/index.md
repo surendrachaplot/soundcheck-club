@@ -1,6 +1,6 @@
 # khisdapaze Open Air: Summer Closing at frachtkante
 
-khisdapaze Open Air: Summer Closing at frachtkante on Sat 17 Oct, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+khisdapaze Open Air: Summer Closing at frachtkante on Sat 17 Oct, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

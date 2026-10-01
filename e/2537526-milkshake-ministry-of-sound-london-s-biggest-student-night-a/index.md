@@ -1,6 +1,6 @@
 # Milkshake, Ministry Of Sound - London's Biggest Student Night at Ministry Of Sound
 
-Milkshake, Ministry Of Sound - London's Biggest Student Night on Tue 13 Oct, London. Preview the line-up and save it on soundcheck.
+Milkshake, Ministry Of Sound - London's Biggest Student Night on Tue 13 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

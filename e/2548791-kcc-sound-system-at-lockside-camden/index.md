@@ -1,6 +1,6 @@
 # KCC Sound System at Lockside Camden
 
-KCC Sound System at Lockside Camden on Sat 28 Nov, London. House and Deep House. Preview the line-up and save it on soundcheck.
+KCC Sound System at Lockside Camden on Sat 28 Nov, London. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

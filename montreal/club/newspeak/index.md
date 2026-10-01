@@ -1,8 +1,8 @@
 # Newspeak
 
-Newspeak is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Cult Member - Montréal" on Fri, 2 Oct 2026.
+Newspeak is a music venue in Montreal with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Cult Member - Montréal" on Fri, 2 Oct 2026.
 
-Newspeak is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Baauer, Brat Star, Claireyy and Cult Member and 2 more. Browse upcoming dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
+Newspeak is a music venue in Montreal listed on soundcheck. 12 upcoming gigs, with line-ups including Baauer, Brat Star, Claireyy and Cult Member and 2 more. See dates, start times and who's playing. 1403 Rue Sainte-Elisabeth, Montréal, QC H2X 3C5.
 
 ## What's on
 

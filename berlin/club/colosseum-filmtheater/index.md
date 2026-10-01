@@ -1,8 +1,8 @@
 # Colosseum Filmtheater
 
-Colosseum Filmtheater is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Nosaj Thing x Daito Manabe" on Thu, 5 Nov 2026.
+Colosseum Filmtheater is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Nosaj Thing x Daito Manabe" on Thu, 5 Nov 2026.
 
-Colosseum Filmtheater is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Daito Manabe and Nosaj Thing. Browse upcoming dates, start times and who's playing. Gleimstrasse 33, 10437 Berlin, Deutschland.
+Colosseum Filmtheater is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including Daito Manabe and Nosaj Thing. See dates, start times and who's playing. Gleimstrasse 33, 10437 Berlin, Deutschland.
 
 ## What's on
 

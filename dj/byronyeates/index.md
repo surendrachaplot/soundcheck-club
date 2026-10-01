@@ -1,8 +1,8 @@
 # Byron Yeates
 
-Byron Yeates is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at De Papierfabriek, Nijmegen on Sat, 3 Oct 2026.
+Byron Yeates is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at De Papierfabriek, Nijmegen on Sat, 3 Oct 2026.
 
-Byron Yeates is a house and techno artist tracked on soundcheck, with 193 sets logged across Amsterdam, Athens, Bali and Barcelona and 48 more. Often billed alongside THC, DHC and Angel D'lite. Next up: De Papierfabriek, Nijmegen on Sat 3 Oct.
+Byron Yeates is a house and techno artist, with 194 gigs on soundcheck across Amsterdam, Athens, Bali and Barcelona and 48 more. Often billed alongside THC, DHC and Angel D'lite. Next up: De Papierfabriek, Nijmegen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,17 +13,18 @@ Byron Yeates is a house and techno artist tracked on soundcheck, with 193 sets l
 | Fri, 23 Oct 2026 | KREUZWERK | Berlin |
 | Fri, 30 Oct 2026 | Indiego Glocksee | Hannover |
 | Sat, 7 Nov 2026 | RADION | Amsterdam |
+| Fri, 13 Nov 2026 | KitKatClub | Berlin |
 
 ## Recently played
 
-- Camp Kennybrook, New York City — Thu, 10 Sept 2026
-- Else, Berlin — Sun, 6 Sept 2026
-- FOLD, London — Fri, 4 Sept 2026
-- Southwark Park, London — Sun, 30 Aug 2026
-- Gut Level, Sheffield — Sat, 29 Aug 2026
-- TBA - Schwing und Stampf Festival, Zurich — Thu, 27 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 22 Aug 2026
-- TBA, Copenhagen — Sun, 16 Aug 2026
+- Camp Kennybrook, New York City · Thu, 10 Sept 2026
+- Else, Berlin · Sun, 6 Sept 2026
+- FOLD, London · Fri, 4 Sept 2026
+- Southwark Park, London · Sun, 30 Aug 2026
+- Gut Level, Sheffield · Sat, 29 Aug 2026
+- TBA - Schwing und Stampf Festival, Zurich · Thu, 27 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 22 Aug 2026
+- TBA, Copenhagen · Sun, 16 Aug 2026
 
 ## Shares bills with
 

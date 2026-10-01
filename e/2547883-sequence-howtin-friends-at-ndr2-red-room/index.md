@@ -1,6 +1,6 @@
 # Sequence : Howtin & Friends at NDR2 Red Room
 
-Sequence : Howtin & Friends at NDR2 Red Room on Sat 17 Oct, London. 2 artists on the bill: NADZ. and quarter ohm. House and Garage. Preview the line-up and save it on soundcheck.
+Sequence : Howtin & Friends at NDR2 Red Room on Sat 17 Oct, London. 2 artists: NADZ. and quarter ohm. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

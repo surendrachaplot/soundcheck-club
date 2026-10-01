@@ -1,6 +1,6 @@
 # XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire at Bulbul Berlin
 
-XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire at Bulbul Berlin on Thu 29 Oct, Berlin. 3 artists on the bill: Immy, Mx. Blaire and Panooc. House and Club. Preview the line-up and save it on soundcheck.
+XOXA's Club Angel: Panooc, Immy b2b Mx. Blaire at Bulbul Berlin on Thu 29 Oct, Berlin. 3 artists: Immy, Mx. Blaire and Panooc. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

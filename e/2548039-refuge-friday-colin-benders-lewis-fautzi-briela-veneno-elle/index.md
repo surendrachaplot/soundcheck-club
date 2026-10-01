@@ -1,6 +1,6 @@
 # Refuge Friday: Colin Benders, Lewis Fautzi, Briela Veneno, Elle Dee at Refuge
 
-Refuge Friday: Colin Benders, Lewis Fautzi, Briela Veneno, Elle Dee on Fri 9 Oct, New York City. 4 artists on the bill: Briela Veneno, Colin Benders, Elle Dee and Lewis Fautzi. Preview the line-up and save it on soundcheck.
+Refuge Friday: Colin Benders, Lewis Fautzi, Briela Veneno, Elle Dee on Fri 9 Oct, New York City. 4 artists: Briela Veneno, Colin Benders, Elle Dee and Lewis Fautzi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

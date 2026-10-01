@@ -1,6 +1,6 @@
 # City Of Machines at HALO DETROIT
 
-City Of Machines at HALO DETROIT on Wed 25 Nov, Detroit. 1 artist on the bill: Hazmat Live. Techno and Electro. Preview the line-up and save it on soundcheck.
+City Of Machines at HALO DETROIT on Wed 25 Nov, Detroit. 1 artist: Hazmat Live. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

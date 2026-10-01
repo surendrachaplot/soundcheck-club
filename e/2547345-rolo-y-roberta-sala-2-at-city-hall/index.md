@@ -1,6 +1,6 @@
 # ROLO Y ROBERTA sala 2 at City Hall
 
-ROLO Y ROBERTA sala 2 at City Hall on Thu 1 Oct, Barcelona. Techno. Preview the line-up and save it on soundcheck.
+ROLO Y ROBERTA sala 2 at City Hall on Thu 1 Oct, Barcelona. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

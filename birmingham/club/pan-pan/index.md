@@ -1,8 +1,8 @@
 # Pan-Pan
 
-Pan-Pan is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Fair Electronica x Visible Panic" on Sat, 3 Oct 2026.
+Pan-Pan is a music venue in Birmingham with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Fair Electronica x Visible Panic" on Sat, 3 Oct 2026.
 
-Pan-Pan is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Downey, leoleoleo, Rhod Parry and Sharnie and 1 more. Browse upcoming dates, start times and who's playing. 25D Floodgate St, Deritend.
+Pan-Pan is a music venue in Birmingham listed on soundcheck. 2 upcoming gigs, with line-ups including Alex Downey, leoleoleo, Rhod Parry and Sharnie and 1 more. See dates, start times and who's playing. 25D Floodgate St, Deritend.
 
 ## What's on
 

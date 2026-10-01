@@ -1,8 +1,8 @@
 # La La
 
-La La is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lofi, Amsterdam on Fri, 9 Oct 2026.
+La La is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lofi, Amsterdam on Fri, 9 Oct 2026.
 
-La La is a house and techno artist based in United Kingdom, tracked on soundcheck, with 147 sets logged across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Interplanetary Criminal and Ben Hemsley. Next up: Lofi, Amsterdam on Fri 9 Oct.
+La La is a house and techno artist based in United Kingdom, with 147 gigs on soundcheck across Aberdeen, Amsterdam, Bali and Barcelona and 38 more. Often billed alongside AIRKEY, Interplanetary Criminal and Ben Hemsley. Next up: Lofi, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ La La is a house and techno artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- SASS Music Club, Vienna — Sat, 26 Sept 2026
-- Sub Club, Glasgow — Fri, 25 Sept 2026
-- Cabaret Voltaire, Edinburgh — Sat, 22 Aug 2026
-- Legal, Munich — Sat, 22 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
-- Burgess Park, London — Sun, 9 Aug 2026
-- NUMBER 90 LONDON, London — Thu, 30 Jul 2026
-- Elsewhere, New York City — Sat, 25 Jul 2026
+- SASS Music Club, Vienna · Sat, 26 Sept 2026
+- Sub Club, Glasgow · Fri, 25 Sept 2026
+- Cabaret Voltaire, Edinburgh · Sat, 22 Aug 2026
+- Legal, Munich · Sat, 22 Aug 2026
+- Burgess Park, London · Sun, 9 Aug 2026
+- Burgess Park, London · Sun, 9 Aug 2026
+- NUMBER 90 LONDON, London · Thu, 30 Jul 2026
+- Elsewhere, New York City · Sat, 25 Jul 2026
 
 ## Shares bills with
 

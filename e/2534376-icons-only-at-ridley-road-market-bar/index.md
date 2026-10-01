@@ -1,6 +1,6 @@
 # Icons Only at Ridley Road Market Bar
 
-Icons Only at Ridley Road Market Bar on Fri 16 Oct, London. Pop and R&B. Preview the line-up and save it on soundcheck.
+Icons Only at Ridley Road Market Bar on Fri 16 Oct, London. Pop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

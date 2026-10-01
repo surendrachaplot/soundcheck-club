@@ -1,6 +1,6 @@
 # Momentum - Episode 002 at Bridge 48
 
-Momentum - Episode 002 at Bridge 48 on Sat 3 Oct, Barcelona. Tech House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Momentum - Episode 002 at Bridge 48 on Sat 3 Oct, Barcelona. Tech House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

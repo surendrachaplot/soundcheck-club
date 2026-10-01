@@ -1,6 +1,6 @@
 # SESSION 25TH ANNIVERSARY at WOMB
 
-SESSION 25TH ANNIVERSARY at WOMB on Sat 17 Oct, Tokyo. 9 artists on the bill: AHREUM, Bart Skils, Drunken Kong and Kris Fuji and 5 more. Techno. Preview the line-up and save it on soundcheck.
+SESSION 25TH ANNIVERSARY at WOMB on Sat 17 Oct, Tokyo. 9 artists: AHREUM, Bart Skils, Drunken Kong and Kris Fuji and 5 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

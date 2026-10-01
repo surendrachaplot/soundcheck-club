@@ -1,6 +1,6 @@
 # Wednesday JAmZZ: Sean Temme Quartet at Moondog Hifi
 
-Wednesday JAmZZ: Sean Temme Quartet at Moondog Hifi on Wed 7 Oct, New York City. Jazz. Preview the line-up and save it on soundcheck.
+Wednesday JAmZZ: Sean Temme Quartet at Moondog Hifi on Wed 7 Oct, New York City. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

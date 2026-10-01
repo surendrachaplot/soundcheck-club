@@ -1,6 +1,6 @@
 # 23 Jahre Ostfunk w./ Chrissyjey, Dr. Motte, Tok Tok vs Soffy O., JayBase, Diana May at ORWO Haus
 
-23 Jahre Ostfunk w./ Chrissyjey, Dr. Motte, Tok Tok vs Soffy O., JayBase, Diana May at ORWO Haus on Sat 21 Nov, Berlin. 6 artists on the bill: Basstronauten, Daniel Boon, Diana May and Dr. Motte and 2 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+23 Jahre Ostfunk w./ Chrissyjey, Dr. Motte, Tok Tok vs Soffy O., JayBase, Diana May at ORWO Haus on Sat 21 Nov, Berlin. 6 artists: Basstronauten, Daniel Boon, Diana May and Dr. Motte and 2 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

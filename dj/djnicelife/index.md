@@ -1,8 +1,8 @@
 # DJ Nicelife
 
-DJ Nicelife is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
+DJ Nicelife is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Artheater, Cologne on Fri, 2 Oct 2026.
 
-DJ Nicelife is a techno and trance artist based in Germany, tracked on soundcheck, with 4 sets logged across Berlin, Cologne and Nürnberg. Often billed alongside Amøn, DICE and ANDATA. Next up: Artheater, Cologne on Fri 2 Oct.
+DJ Nicelife is a techno and trance artist based in Germany, with 4 gigs on soundcheck across Berlin, Cologne and Nürnberg. Often billed alongside Amøn, DICE and ANDATA. Next up: Artheater, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,8 +13,8 @@ DJ Nicelife is a techno and trance artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Sun, 2 Aug 2026
-- Die Rakete, Nürnberg — Sat, 11 Jul 2026
+- Lokschuppen Berlin, Berlin · Sun, 2 Aug 2026
+- Die Rakete, Nürnberg · Sat, 11 Jul 2026
 
 ## Shares bills with
 

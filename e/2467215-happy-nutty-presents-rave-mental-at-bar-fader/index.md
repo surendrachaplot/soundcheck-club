@@ -1,6 +1,6 @@
 # HAPPY NUTTY presents: Rave Mental at Bar Fader
 
-HAPPY NUTTY presents: Rave Mental at Bar Fader on Sat 3 Oct, Osaka. Drum & Bass and Hardcore. Preview the line-up and save it on soundcheck.
+HAPPY NUTTY presents: Rave Mental at Bar Fader on Sat 3 Oct, Osaka. Drum & Bass and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

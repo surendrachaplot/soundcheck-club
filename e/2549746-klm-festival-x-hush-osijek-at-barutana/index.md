@@ -1,6 +1,6 @@
 # KLM festival x HUSH! (OSIJEK) at Barutana
 
-KLM festival x HUSH! (OSIJEK) at Barutana on Sat 10 Oct, Croatia. 4 artists on the bill: GLIA, Insolate, Luka Jukic and Phrasal. Preview the line-up and save it on soundcheck.
+KLM festival x HUSH! (OSIJEK) at Barutana on Sat 10 Oct, Croatia. 4 artists: GLIA, Insolate, Luka Jukic and Phrasal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

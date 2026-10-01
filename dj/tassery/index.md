@@ -1,8 +1,8 @@
 # TASSERY
 
-TASSERY is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
+TASSERY is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hans Bunte Areal, Freiburg on Fri, 2 Oct 2026.
 
-TASSERY is a techno and trance artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Berlin and Cologne and 20 more. Often billed alongside KARAH, KLOFAMA and KRUELTY. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
+TASSERY is a techno and trance artist based in France, with 60 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Cologne and 20 more. Often billed alongside KARAH, KLOFAMA and KRUELTY. Next up: Hans Bunte Areal, Freiburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ TASSERY is a techno and trance artist based in France, tracked on soundcheck, wi
 
 ## Recently played
 
-- Bootshaus, Cologne — Sat, 26 Sept 2026
-- Bootshaus, Cologne — Sat, 26 Sept 2026
-- Club Vaag, Antwerp — Fri, 25 Sept 2026
-- Beton-T, Utrecht — Sat, 1 Aug 2026
-- Kilomètre25, Paris — Thu, 25 Jun 2026
-- Strijkviertel, Utrecht — Sat, 6 Jun 2026
-- UNO MALTA, Malta — Thu, 21 May 2026
-- OST, Berlin — Fri, 15 May 2026
+- Bootshaus, Cologne · Sat, 26 Sept 2026
+- Bootshaus, Cologne · Sat, 26 Sept 2026
+- Club Vaag, Antwerp · Fri, 25 Sept 2026
+- Beton-T, Utrecht · Sat, 1 Aug 2026
+- Kilomètre25, Paris · Thu, 25 Jun 2026
+- Strijkviertel, Utrecht · Sat, 6 Jun 2026
+- UNO MALTA, Malta · Thu, 21 May 2026
+- OST, Berlin · Fri, 15 May 2026
 
 ## Shares bills with
 

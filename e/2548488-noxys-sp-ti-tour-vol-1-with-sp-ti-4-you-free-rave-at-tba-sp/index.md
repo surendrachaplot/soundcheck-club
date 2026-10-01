@@ -1,6 +1,6 @@
 # NOXYS Späti Tour VOL. 1 with Späti 4 You - FREE RAVE at TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin
 
-NOXYS Späti Tour VOL. 1 with Späti 4 You - FREE RAVE at TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin on Sat 17 Oct, Berlin. 7 artists on the bill: Armaville, DJ Sweedee, Dr.Waumiau and F O R E S I G H T and 3 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+NOXYS Späti Tour VOL. 1 with Späti 4 You - FREE RAVE at TBA - Späti 4 You - Kurfürstenstraße 28, 10785 Berlin on Sat 17 Oct, Berlin. 7 artists: Armaville, DJ Sweedee, Dr.Waumiau and F O R E S I G H T and 3 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

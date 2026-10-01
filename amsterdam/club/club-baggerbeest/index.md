@@ -1,8 +1,8 @@
 # Club Baggerbeest
 
-Club Baggerbeest is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Big Bells x Audiosolo ADE 2026" on Wed, 21 Oct 2026.
+Club Baggerbeest is a music venue in Amsterdam with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Big Bells x Audiosolo ADE 2026" on Wed, 21 Oct 2026.
 
-Club Baggerbeest is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Adellic, Adnan Jakubovic, ALADAG and Arrakis (GER) and 2 more. Browse upcoming dates, start times and who's playing. Rudi van Dantzigstraat 1, 1095 PK Amsterdam.
+Club Baggerbeest is a music venue in Amsterdam listed on soundcheck. 6 upcoming gigs, with line-ups including Adellic, Adnan Jakubovic, ALADAG and Arrakis (GER) and 2 more. See dates, start times and who's playing. Rudi van Dantzigstraat 1, 1095 PK Amsterdam.
 
 ## What's on
 

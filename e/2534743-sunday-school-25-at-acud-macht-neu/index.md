@@ -1,6 +1,6 @@
 # sunday school #25 at Acud Macht NEU
 
-sunday school #25 at Acud Macht NEU on Sun 11 Oct, Berlin. House and Ballroom. Preview the line-up and save it on soundcheck.
+sunday school #25 at Acud Macht NEU on Sun 11 Oct, Berlin. House and Ballroom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

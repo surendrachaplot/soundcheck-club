@@ -1,6 +1,6 @@
 # PARADISE LOFT at Republic Milano
 
-PARADISE LOFT at Republic Milano on Sat 3 Oct, Milan. 1 artist on the bill: Larry Masmero. House and Tech House. Preview the line-up and save it on soundcheck.
+PARADISE LOFT at Republic Milano on Sat 3 Oct, Milan. 1 artist: Larry Masmero. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

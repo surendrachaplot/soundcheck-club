@@ -1,6 +1,6 @@
 # 77 x Control: Estée Louder, Trinity at Club 77
 
-77 x Control: Estée Louder, Trinity at Club 77 on Sun 4 Oct, Sydney. 2 artists on the bill: Estée Louder and Trinity. Techno and House. Preview the line-up and save it on soundcheck.
+77 x Control: Estée Louder, Trinity at Club 77 on Sun 4 Oct, Sydney. 2 artists: Estée Louder and Trinity. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Daniel Avery
 
-Daniel Avery is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Halle Tropisme, Montpellier on Sun, 4 Oct 2026.
+Daniel Avery is a Techno and House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Halle Tropisme, Montpellier on Sun, 4 Oct 2026.
 
-Daniel Avery is a techno and house artist based in United Kingdom, tracked on soundcheck, with 165 sets logged across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: Halle Tropisme, Montpellier on Sun 4 Oct.
+Daniel Avery is a techno and house artist based in United Kingdom, with 165 gigs on soundcheck across Amsterdam, Bali, Barcelona and Belfast and 47 more. Often billed alongside Richard Fearless, Optimo (Espacio) and Tapefeed. Next up: Halle Tropisme, Montpellier on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Daniel Avery is a techno and house artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- KALT, Strasbourg — Sat, 26 Sept 2026
-- Elsewhere, New York City — Wed, 23 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- The Independent, San Francisco/Oakland — Fri, 18 Sept 2026
-- El Rey Theatre, Los Angeles — Thu, 17 Sept 2026
-- El Rey Theatre, Los Angeles — Thu, 17 Sept 2026
-- The Cause, London — Sat, 12 Sept 2026
-- Renate, Berlin — Fri, 11 Sept 2026
+- KALT, Strasbourg · Sat, 26 Sept 2026
+- Elsewhere, New York City · Wed, 23 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- The Independent, San Francisco/Oakland · Fri, 18 Sept 2026
+- El Rey Theatre, Los Angeles · Thu, 17 Sept 2026
+- El Rey Theatre, Los Angeles · Thu, 17 Sept 2026
+- The Cause, London · Sat, 12 Sept 2026
+- Renate, Berlin · Fri, 11 Sept 2026
 
 ## Shares bills with
 

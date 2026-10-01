@@ -1,6 +1,6 @@
 # La Malquerida presenta Roger Sanchez at LAB theCLUB
 
-La Malquerida presenta Roger Sanchez at LAB theCLUB on Sun 1 Nov, Madrid. 1 artist on the bill: Roger Sanchez. Preview the line-up and save it on soundcheck.
+La Malquerida presenta Roger Sanchez at LAB theCLUB on Sun 1 Nov, Madrid. 1 artist: Roger Sanchez. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

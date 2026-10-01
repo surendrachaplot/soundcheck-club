@@ -1,6 +1,6 @@
 # Gorg-O-Mish presents: DJ Hannah, Nancy Dru & indulgent / PUBLIC DISCO AFTERPARTY at Gorg-O-Mish
 
-Gorg-O-Mish presents: DJ Hannah, Nancy Dru & indulgent / PUBLIC DISCO AFTERPARTY on Sat 3 Oct, Vancouver. 3 artists on the bill: DJ Hannah, indulgent and Nancy Dru. Preview the line-up and save it on soundcheck.
+Gorg-O-Mish presents: DJ Hannah, Nancy Dru & indulgent / PUBLIC DISCO AFTERPARTY on Sat 3 Oct, Vancouver. 3 artists: DJ Hannah, indulgent and Nancy Dru. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BED at Club Cheek
 
-BED at Club Cheek on Fri 30 Oct, London. Preview the line-up and save it on soundcheck.
+BED at Club Cheek on Fri 30 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

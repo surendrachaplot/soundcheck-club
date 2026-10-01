@@ -1,6 +1,6 @@
 # Schrotthagen at Substation
 
-Schrotthagen at Substation on Sat 24 Oct, Seattle. Techno. Preview the line-up and save it on soundcheck.
+Schrotthagen at Substation on Sat 24 Oct, Seattle. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

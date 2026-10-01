@@ -1,6 +1,6 @@
 # Deep Horizon at Club Dragòn, Ghent (SECOND EDITION) at TBA - Club Draghon
 
-Deep Horizon at Club Dragòn, Ghent (SECOND EDITION) at TBA - Club Draghon on Fri 2 Oct, Ghent. 1 artist on the bill: Keleo. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Deep Horizon at Club Dragòn, Ghent (SECOND EDITION) at TBA - Club Draghon on Fri 2 Oct, Ghent. 1 artist: Keleo. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

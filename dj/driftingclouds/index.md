@@ -1,8 +1,8 @@
 # Drifting Clouds
 
-Drifting Clouds is a House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Victoria on Fri, 6 Nov 2026.
+Drifting Clouds is a House and Electronica artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Victoria on Fri, 6 Nov 2026.
 
-Drifting Clouds is a house and electronica artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne, Sydney and Victoria. Often billed alongside Bridget Small, Elsie and Intermood. Next up: TBA, Victoria on Fri 6 Nov.
+Drifting Clouds is a house and electronica artist based in Australia, with 7 gigs on soundcheck across Melbourne, Sydney and Victoria. Often billed alongside Bridget Small, Elsie and Intermood. Next up: TBA, Victoria on Fri 6 Nov.
 
 ## Upcoming shows
 
@@ -15,9 +15,9 @@ Drifting Clouds is a house and electronica artist based in Australia, tracked on
 
 ## Recently played
 
-- Sydney Opera House, Sydney — Fri, 22 May 2026
-- Northcote Theatre, Melbourne — Sat, 28 Feb 2026
-- Meredith Supernatural Ampitheatre, Melbourne — Fri, 5 Dec 2025
+- Sydney Opera House, Sydney · Fri, 22 May 2026
+- Northcote Theatre, Melbourne · Sat, 28 Feb 2026
+- Meredith Supernatural Ampitheatre, Melbourne · Fri, 5 Dec 2025
 
 ## Shares bills with
 

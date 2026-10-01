@@ -1,6 +1,6 @@
 # Strictly Wax presents: TBA at Hang Dai Chinese
 
-Strictly Wax presents: TBA at Hang Dai Chinese on Sat 12 Dec, Dublin. Progressive House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Strictly Wax presents: TBA at Hang Dai Chinese on Sat 12 Dec, Dublin. Progressive House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

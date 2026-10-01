@@ -1,6 +1,6 @@
 # FAIRGROUND Festival 2026 at Messegelände Hannover
 
-FAIRGROUND Festival 2026 at Messegelände Hannover on Sat 28 Nov, Hannover. 21 artists on the bill: A.N.I., Alfred Heinrichs, Anna Reusch and Armin van Buuren and 17 more. Preview the line-up and save it on soundcheck.
+FAIRGROUND Festival 2026 at Messegelände Hannover on Sat 28 Nov, Hannover. 21 artists: A.N.I., Alfred Heinrichs, Anna Reusch and Armin van Buuren and 17 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

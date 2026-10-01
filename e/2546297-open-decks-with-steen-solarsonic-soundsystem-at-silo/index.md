@@ -1,6 +1,6 @@
 # Open Decks with STEEN & Solarsonic Soundsystem at SILO
 
-Open Decks with STEEN & Solarsonic Soundsystem at SILO on Tue 6 Oct, New York City. 1 artist on the bill: STEEN. Techno and House. Preview the line-up and save it on soundcheck.
+Open Decks with STEEN & Solarsonic Soundsystem at SILO on Tue 6 Oct, New York City. 1 artist: STEEN. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

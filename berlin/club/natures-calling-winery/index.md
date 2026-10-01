@@ -1,8 +1,8 @@
 # Natures Calling Winery
 
-Natures Calling Winery is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Devil's Disco Halloween in an old Distillery" on Sat, 31 Oct 2026.
+Natures Calling Winery is a music venue in Berlin with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Devil's Disco Halloween in an old Distillery" on Sat, 31 Oct 2026.
 
-Natures Calling Winery is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including ALIVEMAEX, Damiano (DE), Jannick Ferrari and Lennart (NL). Browse upcoming dates, start times and who's playing.
+Natures Calling Winery is a music venue in Berlin listed on soundcheck. 1 upcoming gig, with line-ups including ALIVEMAEX, Damiano (DE), Jannick Ferrari and Lennart (NL). See dates, start times and who's playing.
 
 ## What's on
 

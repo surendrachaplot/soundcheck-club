@@ -1,6 +1,6 @@
 # HARD BOUNCE [Xexo, Adviro, Marc Fx] at M7 Club
 
-HARD BOUNCE [Xexo, Adviro, Marc Fx] at M7 Club on Fri 2 Oct, Barcelona. 1 artist on the bill: FØBIA. Preview the line-up and save it on soundcheck.
+HARD BOUNCE [Xexo, Adviro, Marc Fx] at M7 Club on Fri 2 Oct, Barcelona. 1 artist: FØBIA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Ford Scott
 
-Ford Scott is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Superior Ingredients, New York City on Sun, 4 Oct 2026.
+Ford Scott is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Superior Ingredients, New York City on Sun, 4 Oct 2026.
 
-Ford Scott is a house and garage artist based in United States of America, tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona and New York City. Often billed alongside Armii1n, Erin Page and ADR (UK). Next up: Superior Ingredients, New York City on Sun 4 Oct.
+Ford Scott is a house and garage artist based in United States of America, with 8 gigs on soundcheck across Amsterdam, Barcelona and New York City. Often billed alongside Armii1n, Erin Page and ADR (UK). Next up: Superior Ingredients, New York City on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -13,12 +13,12 @@ Ford Scott is a house and garage artist based in United States of America, track
 
 ## Recently played
 
-- H0L0, New York City — Thu, 30 Jul 2026
-- Knockdown Center, New York City — Fri, 10 Jul 2026
-- Atlantic Club, Barcelona — Fri, 19 Jun 2026
-- Elsewhere, New York City — Fri, 20 Mar 2026
-- H0L0, New York City — Tue, 17 Mar 2026
-- Eris, New York City — Fri, 24 Oct 2025
+- H0L0, New York City · Thu, 30 Jul 2026
+- Knockdown Center, New York City · Fri, 10 Jul 2026
+- Atlantic Club, Barcelona · Fri, 19 Jun 2026
+- Elsewhere, New York City · Fri, 20 Mar 2026
+- H0L0, New York City · Tue, 17 Mar 2026
+- Eris, New York City · Fri, 24 Oct 2025
 
 ## Shares bills with
 

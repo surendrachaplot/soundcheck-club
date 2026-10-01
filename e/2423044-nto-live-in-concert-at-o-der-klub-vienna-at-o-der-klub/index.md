@@ -1,6 +1,6 @@
 # NTO live in concert at O - der Klub Vienna at O der Klub
 
-NTO live in concert at O - der Klub Vienna at O der Klub on Sat 14 Nov, Vienna. 3 artists on the bill: NTO, Prismode and Solvane. Techno. Preview the line-up and save it on soundcheck.
+NTO live in concert at O - der Klub Vienna at O der Klub on Sat 14 Nov, Vienna. 3 artists: NTO, Prismode and Solvane. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

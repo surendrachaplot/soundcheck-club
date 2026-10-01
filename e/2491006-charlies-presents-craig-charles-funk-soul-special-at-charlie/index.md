@@ -1,6 +1,6 @@
 # Charlies presents Craig Charles Funk & Soul Special at Charlies Loft
 
-Charlies presents Craig Charles Funk & Soul Special at Charlies Loft on Sat 24 Oct, Glasgow. 1 artist on the bill: Craig Charles. Funk / Soul. Preview the line-up and save it on soundcheck.
+Charlies presents Craig Charles Funk & Soul Special at Charlies Loft on Sat 24 Oct, Glasgow. 1 artist: Craig Charles. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

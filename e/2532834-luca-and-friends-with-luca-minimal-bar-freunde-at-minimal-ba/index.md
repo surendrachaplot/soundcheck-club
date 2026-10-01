@@ -1,6 +1,6 @@
 # luca.and.friends. with Luca ( Minimal Bar) & Freunde at Minimal Bar
 
-luca.and.friends. with Luca ( Minimal Bar) & Freunde on Fri 18 Dec, Berlin. Minimal and Minimal Techno. Preview the line-up and save it on soundcheck.
+luca.and.friends. with Luca ( Minimal Bar) & Freunde on Fri 18 Dec, Berlin. Minimal and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

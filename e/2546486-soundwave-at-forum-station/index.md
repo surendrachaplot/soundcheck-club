@@ -1,6 +1,6 @@
 # Soundwave at Forum Station
 
-Soundwave at Forum Station on Sun 11 Oct, Barcelona. 5 artists on the bill: Lua Jessen, Mario Chicoli, Mastro Sally and Nona and 1 more. House and Minimal. Preview the line-up and save it on soundcheck.
+Soundwave at Forum Station on Sun 11 Oct, Barcelona. 5 artists: Lua Jessen, Mario Chicoli, Mastro Sally and Nona and 1 more. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

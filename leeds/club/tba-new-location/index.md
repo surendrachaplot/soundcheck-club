@@ -1,8 +1,8 @@
 # TBA - New location
 
-TBA - New location is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Combine: I Hate Models " on Fri, 13 Nov 2026.
+TBA - New location is a music venue in Leeds with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Combine: I Hate Models " on Fri, 13 Nov 2026.
 
-TBA - New location is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including BUYMEFLOVVERS and I Hate Models. Browse upcoming dates, start times and who's playing.
+TBA - New location is a music venue in Leeds listed on soundcheck. 1 upcoming gig, with line-ups including BUYMEFLOVVERS and I Hate Models. See dates, start times and who's playing.
 
 ## What's on
 

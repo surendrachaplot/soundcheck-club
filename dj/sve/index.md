@@ -1,8 +1,8 @@
 # SVE
 
-SVE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fundbureau, Hamburg on Sat, 10 Oct 2026.
+SVE is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fundbureau, Hamburg on Sat, 10 Oct 2026.
 
-SVE is a techno and trance artist based in Germany, tracked on soundcheck, with 27 sets logged across Hamburg. Often billed alongside Acidus, Alex Knapp and Invaria. Next up: Fundbureau, Hamburg on Sat 10 Oct.
+SVE is a techno and trance artist based in Germany, with 27 gigs on soundcheck across Hamburg. Often billed alongside Acidus, Alex Knapp and Invaria. Next up: Fundbureau, Hamburg on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ SVE is a techno and trance artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
-- Fundbureau, Hamburg — Fri, 18 Sept 2026
-- Fundbureau, Hamburg — Fri, 14 Aug 2026
-- Fundbureau, Hamburg — Fri, 24 Jul 2026
-- Fundbureau, Hamburg — Fri, 22 May 2026
-- Club Frau Holle, Hamburg — Fri, 17 Apr 2026
-- Fundbureau, Hamburg — Fri, 3 Apr 2026
-- 25 Club, Hamburg — Sat, 28 Mar 2026
-- Fundbureau, Hamburg — Sat, 21 Mar 2026
+- Fundbureau, Hamburg · Fri, 18 Sept 2026
+- Fundbureau, Hamburg · Fri, 14 Aug 2026
+- Fundbureau, Hamburg · Fri, 24 Jul 2026
+- Fundbureau, Hamburg · Fri, 22 May 2026
+- Club Frau Holle, Hamburg · Fri, 17 Apr 2026
+- Fundbureau, Hamburg · Fri, 3 Apr 2026
+- 25 Club, Hamburg · Sat, 28 Mar 2026
+- Fundbureau, Hamburg · Sat, 21 Mar 2026
 
 ## Shares bills with
 

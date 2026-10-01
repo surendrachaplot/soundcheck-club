@@ -1,8 +1,8 @@
 # Mago (US)
 
-Mago (US) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Jupiter Disco, New York City on Wed, 7 Oct 2026.
+Mago (US) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Jupiter Disco, New York City on Wed, 7 Oct 2026.
 
-Mago (US) is a house and techno artist based in United States of America, tracked on soundcheck, with 16 sets logged across New York City. Often billed alongside zorenLo, For Future's Sake and BOJAQ. Next up: Jupiter Disco, New York City on Wed 7 Oct.
+Mago (US) is a house and techno artist based in United States of America, with 16 gigs on soundcheck across New York City. Often billed alongside zorenLo, For Future's Sake and BOJAQ. Next up: Jupiter Disco, New York City on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mago (US) is a house and techno artist based in United States of America, tracke
 
 ## Recently played
 
-- Dead Letter No. 9, New York City — Sat, 24 May 2025
-- Dead Letter No. 9, New York City — Fri, 7 Mar 2025
-- The Chocolate Factory, New York City — Fri, 2 Aug 2024
-- Jupiter Disco, New York City — Thu, 25 Jul 2024
-- TBA - DM BUENA.ONDA._ FOR ADDRESS IN BEDSTUY, New York City — Sat, 13 Jul 2024
-- Jupiter Disco, New York City — Thu, 13 Jun 2024
-- Dead Letter No. 9, New York City — Fri, 7 Jun 2024
-- TBA Brooklyn, New York City — Wed, 5 Jun 2024
+- Dead Letter No. 9, New York City · Sat, 24 May 2025
+- Dead Letter No. 9, New York City · Fri, 7 Mar 2025
+- The Chocolate Factory, New York City · Fri, 2 Aug 2024
+- Jupiter Disco, New York City · Thu, 25 Jul 2024
+- TBA - DM BUENA.ONDA._ FOR ADDRESS IN BEDSTUY, New York City · Sat, 13 Jul 2024
+- Jupiter Disco, New York City · Thu, 13 Jun 2024
+- Dead Letter No. 9, New York City · Fri, 7 Jun 2024
+- TBA Brooklyn, New York City · Wed, 5 Jun 2024
 
 ## Shares bills with
 

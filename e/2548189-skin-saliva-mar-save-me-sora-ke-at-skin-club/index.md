@@ -1,6 +1,6 @@
 # SKIN SALIVA: MAR + SAVE☨ME + Sora Éke at Skin Club
 
-SKIN SALIVA: MAR + SAVE☨ME + Sora Éke at Skin Club on Sat 3 Oct, Madrid. 1 artist on the bill: Sora Éke. Preview the line-up and save it on soundcheck.
+SKIN SALIVA: MAR + SAVE☨ME + Sora Éke at Skin Club on Sat 3 Oct, Madrid. 1 artist: Sora Éke. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

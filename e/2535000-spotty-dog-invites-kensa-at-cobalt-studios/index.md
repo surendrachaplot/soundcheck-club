@@ -1,6 +1,6 @@
 # SPOTTY DOG INVITES KENSA at Cobalt Studios
 
-SPOTTY DOG INVITES KENSA at Cobalt Studios on Fri 23 Oct, Newcastle. House and Electro. Preview the line-up and save it on soundcheck.
+SPOTTY DOG INVITES KENSA at Cobalt Studios on Fri 23 Oct, Newcastle. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

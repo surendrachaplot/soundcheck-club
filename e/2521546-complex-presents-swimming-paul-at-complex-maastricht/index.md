@@ -1,6 +1,6 @@
 # Complex presents Swimming Paul at Complex Maastricht
 
-Complex presents Swimming Paul at Complex Maastricht on Fri 13 Nov, Netherlands. 2 artists on the bill: AAT (NL) and Swimming Paul. Preview the line-up and save it on soundcheck.
+Complex presents Swimming Paul at Complex Maastricht on Fri 13 Nov, Netherlands. 2 artists: AAT (NL) and Swimming Paul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ruff Kutz presents Faulsk - Lucid EP launch at QQQ ST. Park
 
-Ruff Kutz presents Faulsk - Lucid EP launch at QQQ ST. Park on Sat 24 Oct, Melbourne. 2 artists on the bill: Monique Tya and Pugilist. Techno and Bass. Preview the line-up and save it on soundcheck.
+Ruff Kutz presents Faulsk - Lucid EP launch at QQQ ST. Park on Sat 24 Oct, Melbourne. 2 artists: Monique Tya and Pugilist. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

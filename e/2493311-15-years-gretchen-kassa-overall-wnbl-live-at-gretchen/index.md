@@ -1,6 +1,6 @@
 # 15 Years Gretchen: KASSA OVERALL & WNBL *live at Gretchen
 
-15 Years Gretchen: KASSA OVERALL & WNBL *live on Sun 11 Oct, Berlin. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: KASSA OVERALL & WNBL *live on Sun 11 Oct, Berlin. Hip-Hop and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

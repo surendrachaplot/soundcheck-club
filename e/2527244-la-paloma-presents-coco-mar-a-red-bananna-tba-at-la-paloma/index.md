@@ -1,6 +1,6 @@
 # La Paloma presents: Coco María + Red Bananna + TBA at La Paloma
 
-La Paloma presents: Coco María + Red Bananna + TBA on Fri 23 Oct, Barcelona. 1 artist on the bill: Coco Maria. House and Disco. Preview the line-up and save it on soundcheck.
+La Paloma presents: Coco María + Red Bananna + TBA on Fri 23 Oct, Barcelona. 1 artist: Coco Maria. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

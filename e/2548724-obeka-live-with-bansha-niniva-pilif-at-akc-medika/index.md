@@ -1,6 +1,6 @@
 # Obeka (Live) with Bansha, Niniva, pilif at AKC Medika
 
-Obeka (Live) with Bansha, Niniva, pilif at AKC Medika on Fri 23 Oct, Zagreb. 1 artist on the bill: Obeka. Preview the line-up and save it on soundcheck.
+Obeka (Live) with Bansha, Niniva, pilif at AKC Medika on Fri 23 Oct, Zagreb. 1 artist: Obeka. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Ognjem at LIFT at Lift Beograd
 
-Ognjem at LIFT at Lift Beograd on Sun 4 Oct, Belgrade. House. Preview the line-up and save it on soundcheck.
+Ognjem at LIFT at Lift Beograd on Sun 4 Oct, Belgrade. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

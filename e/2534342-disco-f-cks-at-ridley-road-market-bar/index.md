@@ -1,6 +1,6 @@
 # Disco F**cks at Ridley Road Market Bar
 
-Disco F**cks at Ridley Road Market Bar on Thu 8 Oct, London. Disco and Club. Preview the line-up and save it on soundcheck.
+Disco F**cks at Ridley Road Market Bar on Thu 8 Oct, London. Disco and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

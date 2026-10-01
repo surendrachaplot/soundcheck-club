@@ -1,6 +1,6 @@
 # Deeper Cuts: Naná Rizinni + Ria Moran [EFG London Jazz Festival] at Paper Dress Vintage
 
-Deeper Cuts: Naná Rizinni + Ria Moran [EFG London Jazz Festival] at Paper Dress Vintage on Wed 18 Nov, London. Experimental and Jazz. Preview the line-up and save it on soundcheck.
+Deeper Cuts: Naná Rizinni + Ria Moran [EFG London Jazz Festival] at Paper Dress Vintage on Wed 18 Nov, London. Experimental and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

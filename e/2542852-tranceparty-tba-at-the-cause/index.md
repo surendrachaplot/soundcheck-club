@@ -1,6 +1,6 @@
 # TranceParty: TBA at The Cause
 
-TranceParty: TBA at The Cause on Fri 11 Dec, London. Preview the line-up and save it on soundcheck.
+TranceParty: TBA at The Cause on Fri 11 Dec, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

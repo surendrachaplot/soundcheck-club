@@ -1,6 +1,6 @@
 # STOP THE LIGHTS! at Hen's Teeth
 
-STOP THE LIGHTS! at Hen's Teeth on Fri 2 Oct, Dublin. Preview the line-up and save it on soundcheck.
+STOP THE LIGHTS! at Hen's Teeth on Fri 2 Oct, Dublin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

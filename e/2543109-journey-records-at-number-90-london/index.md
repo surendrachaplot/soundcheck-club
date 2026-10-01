@@ -1,6 +1,6 @@
 # Journey Records at NUMBER 90 LONDON
 
-Journey Records at NUMBER 90 LONDON on Sat 5 Dec, London. 5 artists on the bill: George Wight, Jack Ling, James Lavelle and Olly Morley and 1 more. House. Preview the line-up and save it on soundcheck.
+Journey Records at NUMBER 90 LONDON on Sat 5 Dec, London. 5 artists: George Wight, Jack Ling, James Lavelle and Olly Morley and 1 more. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

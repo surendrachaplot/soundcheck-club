@@ -1,6 +1,6 @@
 # Ida Engberg & ONYVAA at Jolene Downtown Miami
 
-Ida Engberg & ONYVAA at Jolene Downtown Miami on Sat 24 Oct, Miami. 3 artists on the bill: Ida Engberg, KUJO (US) and ONYVAA. Preview the line-up and save it on soundcheck.
+Ida Engberg & ONYVAA at Jolene Downtown Miami on Sat 24 Oct, Miami. 3 artists: Ida Engberg, KUJO (US) and ONYVAA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GH 03.10 - Dyed Soundorom invites: dj sweet6teen at Club Guesthouse
 
-GH 03.10 - Dyed Soundorom invites: dj sweet6teen at Club Guesthouse on Sat 3 Oct, Bucharest. 2 artists on the bill: dj sweet6teen and Dyed Soundorom. Preview the line-up and save it on soundcheck.
+GH 03.10 - Dyed Soundorom invites: dj sweet6teen at Club Guesthouse on Sat 3 Oct, Bucharest. 2 artists: dj sweet6teen and Dyed Soundorom. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

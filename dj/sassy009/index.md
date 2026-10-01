@@ -1,8 +1,8 @@
 # SASSY 009
 
-SASSY 009 is a Electronica and Experimental artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Villa, Oslo on Fri, 16 Oct 2026.
+SASSY 009 is a Electronica and Experimental artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Villa, Oslo on Fri, 16 Oct 2026.
 
-SASSY 009 is an electronica and experimental artist based in Norway, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Brighton and Copenhagen and 8 more. Often billed alongside James Massiah, 300SkullsAndCounting and ANTHEM. Next up: The Villa, Oslo on Fri 16 Oct.
+SASSY 009 is an electronica and experimental artist based in Norway, with 16 gigs on soundcheck across Amsterdam, Berlin, Brighton and Copenhagen and 8 more. Often billed alongside James Massiah, 300SkullsAndCounting and ANTHEM. Next up: The Villa, Oslo on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ SASSY 009 is an electronica and experimental artist based in Norway, tracked on 
 
 ## Recently played
 
-- Ostrov Štvanice, Prague — Fri, 10 Jul 2026
-- Tide Nightclub, Brighton — Fri, 15 May 2026
-- ICA, London — Thu, 14 May 2026
-- TBA - Multiple Venues , Helsinki — Wed, 13 May 2026
-- Blå, Oslo — Sat, 21 Feb 2026
-- VEGA, Copenhagen — Wed, 18 Feb 2026
-- Mikropol, Berlin — Tue, 17 Feb 2026
-- Paradiso, Amsterdam — Mon, 16 Feb 2026
+- Ostrov Štvanice, Prague · Fri, 10 Jul 2026
+- Tide Nightclub, Brighton · Fri, 15 May 2026
+- ICA, London · Thu, 14 May 2026
+- TBA - Multiple Venues , Helsinki · Wed, 13 May 2026
+- Blå, Oslo · Sat, 21 Feb 2026
+- VEGA, Copenhagen · Wed, 18 Feb 2026
+- Mikropol, Berlin · Tue, 17 Feb 2026
+- Paradiso, Amsterdam · Mon, 16 Feb 2026
 
 ## Shares bills with
 

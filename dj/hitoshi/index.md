@@ -1,8 +1,8 @@
 # HiToshi
 
-HiToshi is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kaiku, Helsinki on Fri, 2 Oct 2026.
+HiToshi is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kaiku, Helsinki on Fri, 2 Oct 2026.
 
-HiToshi is a disco and house artist based in Finland, tracked on soundcheck, with 101 sets logged across Amsterdam, Helsinki, Kyoto and Osaka and 1 more. Often billed alongside Justus Arvelin, Lil Tony and DJ Aleksi. Next up: Kaiku, Helsinki on Fri 2 Oct.
+HiToshi is a disco and house artist based in Finland, with 101 gigs on soundcheck across Amsterdam, Helsinki, Kyoto and Osaka and 1 more. Often billed alongside Justus Arvelin, Lil Tony and DJ Aleksi. Next up: Kaiku, Helsinki on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ HiToshi is a disco and house artist based in Finland, tracked on soundcheck, wit
 
 ## Recently played
 
-- Kaiku, Helsinki — Sat, 22 Aug 2026
-- Stidilä, Helsinki — Sun, 16 Aug 2026
-- Suvilahti Power Plant, Helsinki — Fri, 14 Aug 2026
-- Ääniwalli, Helsinki — Fri, 14 Aug 2026
-- Kaiku, Helsinki — Sat, 1 Aug 2026
-- Royal Lounge, Tokyo — Tue, 28 Jul 2026
-- Cafe Iisi, Helsinki — Thu, 23 Jul 2026
-- Teurastamo, Helsinki — Sat, 18 Jul 2026
+- Kaiku, Helsinki · Sat, 22 Aug 2026
+- Stidilä, Helsinki · Sun, 16 Aug 2026
+- Suvilahti Power Plant, Helsinki · Fri, 14 Aug 2026
+- Ääniwalli, Helsinki · Fri, 14 Aug 2026
+- Kaiku, Helsinki · Sat, 1 Aug 2026
+- Royal Lounge, Tokyo · Tue, 28 Jul 2026
+- Cafe Iisi, Helsinki · Thu, 23 Jul 2026
+- Teurastamo, Helsinki · Sat, 18 Jul 2026
 
 ## Shares bills with
 

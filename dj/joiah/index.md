@@ -1,8 +1,8 @@
 # Joiah
 
-Joiah is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at H0L0, New York City on Fri, 9 Oct 2026.
+Joiah is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Fri, 9 Oct 2026.
 
-Joiah is a house and techno artist based in Italy, tracked on soundcheck, with 83 sets logged across Amsterdam, Berlin, Boston and Madrid and 6 more. Often billed alongside CAMILLA, Black Pomade and Armii1n. Next up: H0L0, New York City on Fri 9 Oct.
+Joiah is a house and techno artist based in Italy, with 83 gigs on soundcheck across Amsterdam, Berlin, Boston and Madrid and 6 more. Often billed alongside CAMILLA, Black Pomade and Armii1n. Next up: H0L0, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Joiah is a house and techno artist based in Italy, tracked on soundcheck, with 8
 
 ## Recently played
 
-- Green Room NYC, New York City — Fri, 25 Sept 2026
-- TBA - East Williamsburg, New York City — Sun, 6 Sept 2026
-- Green Room NYC, New York City — Fri, 28 Aug 2026
-- SAGE, Berlin — Sat, 8 Aug 2026
-- Apollo Studio, New York City — Fri, 19 Jun 2026
-- La Plaza Cultural, New York City — Sat, 13 Jun 2026
-- Signal, New York City — Fri, 12 Jun 2026
-- La Fabrica, Washington DC — Sat, 6 Jun 2026
+- Green Room NYC, New York City · Fri, 25 Sept 2026
+- TBA - East Williamsburg, New York City · Sun, 6 Sept 2026
+- Green Room NYC, New York City · Fri, 28 Aug 2026
+- SAGE, Berlin · Sat, 8 Aug 2026
+- Apollo Studio, New York City · Fri, 19 Jun 2026
+- La Plaza Cultural, New York City · Sat, 13 Jun 2026
+- Signal, New York City · Fri, 12 Jun 2026
+- La Fabrica, Washington DC · Sat, 6 Jun 2026
 
 ## Shares bills with
 

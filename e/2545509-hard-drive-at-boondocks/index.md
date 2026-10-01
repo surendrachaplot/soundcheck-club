@@ -1,6 +1,6 @@
 # Hard Drive at Boondocks
 
-Hard Drive at Boondocks on Sat 10 Oct, Houston. 4 artists on the bill: Big Ace, HYPERFEMME, kuntress and Shy Margiela. Techno and Club. Preview the line-up and save it on soundcheck.
+Hard Drive at Boondocks on Sat 10 Oct, Houston. 4 artists: Big Ace, HYPERFEMME, kuntress and Shy Margiela. Techno and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Matthew Cha
 
-Matthew Cha is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
+Matthew Cha is a Techno and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat, 17 Oct 2026.
 
-Matthew Cha is a techno and experimental artist based in South Korea, tracked on soundcheck, with 30 sets logged across Berlin, Boston, New York City and Seoul and 1 more. Often billed alongside Marteka Fair, JADE CAO and Adrian Hex. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
+Matthew Cha is a techno and experimental artist based in South Korea, with 30 gigs on soundcheck across Berlin, Boston, New York City and Seoul and 1 more. Often billed alongside Marteka Fair, JADE CAO and Adrian Hex. Next up: TBA - 16915 Darnestown Road, Boyds, Maryland 20841, Washington DC on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Matthew Cha is a techno and experimental artist based in South Korea, tracked on
 
 ## Recently played
 
-- Neptune Room, Washington DC — Sun, 20 Sept 2026
-- Jimmy Valentine's Lonely Hearts Club, Washington DC — Fri, 7 Aug 2026
-- The Lower Level, Boston — Fri, 26 Jun 2026
-- The Fridge, Washington DC — Sun, 24 May 2026
-- TBA - Brentwood Arts Exchange, Washington DC — Sat, 23 May 2026
-- TBA - 1124 Congress St NE, 2nd Floor - Fabrica, Washington DC — Sat, 28 Feb 2026
-- TBA - 1124 Congress St NE, 2nd Floor - La Fabrica, Washington DC — Sat, 20 Dec 2025
-- Neptune Room, Washington DC — Sun, 16 Nov 2025
+- Neptune Room, Washington DC · Sun, 20 Sept 2026
+- Jimmy Valentine's Lonely Hearts Club, Washington DC · Fri, 7 Aug 2026
+- The Lower Level, Boston · Fri, 26 Jun 2026
+- The Fridge, Washington DC · Sun, 24 May 2026
+- TBA - Brentwood Arts Exchange, Washington DC · Sat, 23 May 2026
+- TBA - 1124 Congress St NE, 2nd Floor - Fabrica, Washington DC · Sat, 28 Feb 2026
+- TBA - 1124 Congress St NE, 2nd Floor - La Fabrica, Washington DC · Sat, 20 Dec 2025
+- Neptune Room, Washington DC · Sun, 16 Nov 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # MINIMAL DETROIT at TBA -   HEY HEY SOCIAL 
 
-MINIMAL DETROIT at TBA -   HEY HEY SOCIAL  on Fri 11 Dec, San Antonio. 2 artists on the bill: Eric Ross and madeera. Preview the line-up and save it on soundcheck.
+MINIMAL DETROIT at TBA -   HEY HEY SOCIAL  on Fri 11 Dec, San Antonio. 2 artists: Eric Ross and madeera. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

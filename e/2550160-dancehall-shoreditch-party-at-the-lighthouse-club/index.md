@@ -1,6 +1,6 @@
 # Dancehall Shoreditch Party at The Lighthouse Club
 
-Dancehall Shoreditch Party at The Lighthouse Club on Fri 2 Oct, London. Preview the line-up and save it on soundcheck.
+Dancehall Shoreditch Party at The Lighthouse Club on Fri 2 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

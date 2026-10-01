@@ -1,6 +1,6 @@
 # Club del Fomo : Open Decks at Barco Sound House
 
-Club del Fomo : Open Decks at Barco Sound House on Thu 1 Oct, Madrid. House and Tech House. Preview the line-up and save it on soundcheck.
+Club del Fomo : Open Decks at Barco Sound House on Thu 1 Oct, Madrid. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

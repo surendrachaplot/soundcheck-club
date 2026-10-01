@@ -1,8 +1,8 @@
 # Abbotsford Convent
 
-Abbotsford Convent is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "-TOPIA Festival 2026" on Sat, 10 Oct 2026.
+Abbotsford Convent is a music venue in Melbourne with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "-TOPIA Festival 2026" on Sat, 10 Oct 2026.
 
-Abbotsford Convent is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Amaliah, Aquenta, Ayebatonye and babyxxan and 2 more. Browse upcoming dates, start times and who's playing. 1 St Heliers St, Abbotsford VIC 3067.
+Abbotsford Convent is a music venue in Melbourne listed on soundcheck. 2 upcoming gigs, with line-ups including Amaliah, Aquenta, Ayebatonye and babyxxan and 2 more. See dates, start times and who's playing. 1 St Heliers St, Abbotsford VIC 3067.
 
 ## What's on
 

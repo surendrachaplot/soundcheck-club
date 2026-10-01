@@ -1,6 +1,6 @@
 # Kiss&Groove meets Toy Tonics Warsaw Jam at Odessa Club
 
-Kiss&Groove meets Toy Tonics Warsaw Jam at Odessa Club on Fri 16 Oct, Warsaw. 3 artists on the bill: Kapote, MONIXON and Stump Valley. House and Disco. Preview the line-up and save it on soundcheck.
+Kiss&Groove meets Toy Tonics Warsaw Jam at Odessa Club on Fri 16 Oct, Warsaw. 3 artists: Kapote, MONIXON and Stump Valley. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

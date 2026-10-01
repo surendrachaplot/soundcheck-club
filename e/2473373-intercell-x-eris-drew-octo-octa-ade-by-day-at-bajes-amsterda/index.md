@@ -1,6 +1,6 @@
 # Intercell x Eris Drew & Octo Octa | ADE By Day at Bajes Amsterdam
 
-Intercell x Eris Drew & Octo Octa | ADE By Day at Bajes Amsterdam on Sat 24 Oct, Amsterdam. 4 artists on the bill: Eris Drew, Lola Edo, Mx. Blaire and Octo Octa. Preview the line-up and save it on soundcheck.
+Intercell x Eris Drew & Octo Octa | ADE By Day at Bajes Amsterdam on Sat 24 Oct, Amsterdam. 4 artists: Eris Drew, Lola Edo, Mx. Blaire and Octo Octa. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

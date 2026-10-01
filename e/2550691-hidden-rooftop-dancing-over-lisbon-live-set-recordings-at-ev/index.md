@@ -1,6 +1,6 @@
 # Hidden Rooftop Dancing Over Lisbon & Live Set Recordings at Evolution Valbom Hotel
 
-Hidden Rooftop Dancing Over Lisbon & Live Set Recordings at Evolution Valbom Hotel on Fri 2 Oct, Lisbon. 1 artist on the bill: kazarov. House and Balearic. Preview the line-up and save it on soundcheck.
+Hidden Rooftop Dancing Over Lisbon & Live Set Recordings at Evolution Valbom Hotel on Fri 2 Oct, Lisbon. 1 artist: kazarov. House and Balearic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

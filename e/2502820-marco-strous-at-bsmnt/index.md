@@ -1,6 +1,6 @@
 # Marco Strous at Bsmnt
 
-Marco Strous at Bsmnt on Sat 17 Oct, Boston. 1 artist on the bill: Marco Strous. House and Tech House. Preview the line-up and save it on soundcheck.
+Marco Strous at Bsmnt on Sat 17 Oct, Boston. 1 artist: Marco Strous. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

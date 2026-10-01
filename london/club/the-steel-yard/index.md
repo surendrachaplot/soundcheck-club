@@ -1,8 +1,8 @@
 # The Steel Yard
 
-The Steel Yard is a music venue in London with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Devlin - London" on Thu, 1 Oct 2026.
+The Steel Yard is a music venue in London with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Devlin - London" on Thu, 1 Oct 2026.
 
-The Steel Yard is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Bassface, Beezo, Crossy and DJ Majesty and 2 more. Browse upcoming dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
+The Steel Yard is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Bassface, Beezo, Crossy and DJ Majesty and 2 more. See dates, start times and who's playing. 13-16 Allhallows Lane, London, EC4R 3UL.
 
 ## What's on
 

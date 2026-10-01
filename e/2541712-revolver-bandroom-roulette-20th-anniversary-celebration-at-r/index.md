@@ -1,6 +1,6 @@
 # REVOLVER BANDROOM: Roulette — 20th Anniversary Celebration at Revolver Upstairs
 
-REVOLVER BANDROOM: Roulette — 20th Anniversary Celebration at Revolver Upstairs on Sat 5 Dec, Melbourne. Preview the line-up and save it on soundcheck.
+REVOLVER BANDROOM: Roulette — 20th Anniversary Celebration at Revolver Upstairs on Sat 5 Dec, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

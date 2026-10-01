@@ -1,6 +1,6 @@
 # MELLOWDÍAS THUMP at Wax Music Lounge
 
-MELLOWDÍAS THUMP at Wax Music Lounge on Wed 11 Nov, Melbourne. Hip-Hop and Funk / Soul. Preview the line-up and save it on soundcheck.
+MELLOWDÍAS THUMP at Wax Music Lounge on Wed 11 Nov, Melbourne. Hip-Hop and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

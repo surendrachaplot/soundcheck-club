@@ -1,6 +1,6 @@
 # 𝖉𝖆𝖓𝖈𝖊 𝕸𝖆𝖈𝖆𝖇𝖗𝖊 HALLOWEEN at Prozak 2.0
 
-𝖉𝖆𝖓𝖈𝖊 𝕸𝖆𝖈𝖆𝖇𝖗𝖊 HALLOWEEN at Prozak 2.0 on Fri 30 Oct, Krakow. 2 artists on the bill: Kuriozum and NOV1K. Trance and Techno. Preview the line-up and save it on soundcheck.
+𝖉𝖆𝖓𝖈𝖊 𝕸𝖆𝖈𝖆𝖇𝖗𝖊 HALLOWEEN at Prozak 2.0 on Fri 30 Oct, Krakow. 2 artists: Kuriozum and NOV1K. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

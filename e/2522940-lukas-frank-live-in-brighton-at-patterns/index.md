@@ -1,6 +1,6 @@
 # Lukas & Frank live in Brighton at Patterns
 
-Lukas & Frank live in Brighton at Patterns on Fri 20 Nov, Brighton. 1 artist on the bill: LUKAS & FRANK. Afro House. Preview the line-up and save it on soundcheck.
+Lukas & Frank live in Brighton at Patterns on Fri 20 Nov, Brighton. 1 artist: LUKAS & FRANK. Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

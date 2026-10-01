@@ -1,6 +1,6 @@
 # Wolf Eyes at Ääniwalli
 
-Wolf Eyes at Ääniwalli on Mon 5 Oct, Helsinki. 1 artist on the bill: Wolf Eyes. Hardcore and Noise. Preview the line-up and save it on soundcheck.
+Wolf Eyes at Ääniwalli on Mon 5 Oct, Helsinki. 1 artist: Wolf Eyes. Hardcore and Noise. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

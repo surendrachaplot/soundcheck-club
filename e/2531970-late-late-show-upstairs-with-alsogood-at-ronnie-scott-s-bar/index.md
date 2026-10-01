@@ -1,6 +1,6 @@
 # Late Late Show Upstairs with Alsogood at Ronnie Scott's Bar
 
-Late Late Show Upstairs with Alsogood at Ronnie Scott's Bar on Sat 24 Oct, London. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
+Late Late Show Upstairs with Alsogood at Ronnie Scott's Bar on Sat 24 Oct, London. Hip-Hop and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

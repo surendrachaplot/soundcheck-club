@@ -1,8 +1,8 @@
 # TBA - alte oper Frankfurt
 
-TBA - alte oper Frankfurt is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "El Patio presents: La Zona" on Fri, 9 Oct 2026.
+TBA - alte oper Frankfurt is a music venue in Frankfurt with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "El Patio presents: La Zona" on Fri, 9 Oct 2026.
 
-TBA - alte oper Frankfurt is a music venue in Frankfurt listed on soundcheck. 1 upcoming gig, with line-ups including And.re, Olga Korol and Per Hammar. Browse upcoming dates, start times and who's playing.
+TBA - alte oper Frankfurt is a music venue in Frankfurt listed on soundcheck. 1 upcoming gig, with line-ups including And.re, Olga Korol and Per Hammar. See dates, start times and who's playing.
 
 ## What's on
 

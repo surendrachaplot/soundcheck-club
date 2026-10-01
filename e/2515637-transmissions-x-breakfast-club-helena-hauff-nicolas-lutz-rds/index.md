@@ -1,6 +1,6 @@
 # Transmissions x Breakfast Club: Helena Hauff, Nicolas Lutz, RDS (live), Richard Gregory + more at FOLD
 
-Transmissions x Breakfast Club: Helena Hauff, Nicolas Lutz, RDS (live), Richard Gregory + more at FOLD on Sat 3 Oct, London. 10 artists on the bill: Alicia (UK), Benko, Eversines and Helena Hauff and 6 more. Tech House and Electro. Preview the line-up and save it on soundcheck.
+Transmissions x Breakfast Club: Helena Hauff, Nicolas Lutz, RDS (live), Richard Gregory + more at FOLD on Sat 3 Oct, London. 10 artists: Alicia (UK), Benko, Eversines and Helena Hauff and 6 more. Tech House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

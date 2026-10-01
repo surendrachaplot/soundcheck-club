@@ -1,6 +1,6 @@
 # Gnaw Asia Tour 2026 – Inside a Machine That's Glistening – at Socore Factory
 
-Gnaw Asia Tour 2026 – Inside a Machine That's Glistening – at Socore Factory on Thu 29 Oct, Osaka. Preview the line-up and save it on soundcheck.
+Gnaw Asia Tour 2026 – Inside a Machine That's Glistening – at Socore Factory on Thu 29 Oct, Osaka. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Face2Face - Stage & Radio at Stage and Radio
 
-Face2Face - Stage & Radio at Stage and Radio on Fri 9 Oct, Manchester. Electro and Minimal. Preview the line-up and save it on soundcheck.
+Face2Face - Stage & Radio at Stage and Radio on Fri 9 Oct, Manchester. Electro and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

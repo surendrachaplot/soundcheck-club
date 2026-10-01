@@ -1,8 +1,8 @@
 # Abstract Division
 
-Abstract Division is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
+Abstract Division is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Soul SKG, Thessaloniki on Fri, 30 Oct 2026.
 
-Abstract Division is a techno and house artist based in Netherlands, tracked on soundcheck, with 46 sets logged across Amsterdam, Barcelona, Berlin and Bogot and 11 more. Often billed alongside ROD, Beste Hira and Grace Dahl. Next up: Soul SKG, Thessaloniki on Fri 30 Oct.
+Abstract Division is a techno and house artist based in Netherlands, with 46 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bogot and 11 more. Often billed alongside ROD, Beste Hira and Grace Dahl. Next up: Soul SKG, Thessaloniki on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Abstract Division is a techno and house artist based in Netherlands, tracked on 
 
 ## Recently played
 
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 8 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Sat, 30 May 2026
-- Spaarnwoude (Deelplan Houtrak), Amsterdam — Sat, 16 May 2026
-- RADION, Amsterdam — Sat, 28 Feb 2026
-- Perron, Rotterdam — Fri, 27 Feb 2026
-- RADION, Amsterdam — Sat, 10 Jan 2026
-- TILLATEC, Amsterdam — Sat, 29 Nov 2025
-- Hï Ibiza, Ibiza — Fri, 26 Sept 2025
+- INPUT High Fidelity Dance Club, Barcelona · Sat, 8 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Sat, 30 May 2026
+- Spaarnwoude (Deelplan Houtrak), Amsterdam · Sat, 16 May 2026
+- RADION, Amsterdam · Sat, 28 Feb 2026
+- Perron, Rotterdam · Fri, 27 Feb 2026
+- RADION, Amsterdam · Sat, 10 Jan 2026
+- TILLATEC, Amsterdam · Sat, 29 Nov 2025
+- Hï Ibiza, Ibiza · Fri, 26 Sept 2025
 
 ## Shares bills with
 

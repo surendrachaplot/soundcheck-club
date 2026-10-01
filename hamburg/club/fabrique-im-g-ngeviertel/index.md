@@ -1,8 +1,8 @@
 # Fabrique im Gängeviertel
 
-Fabrique im Gängeviertel is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Beyond Beats vol.7" on Fri, 2 Oct 2026.
+Fabrique im Gängeviertel is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Beyond Beats vol.7" on Fri, 2 Oct 2026.
 
-Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Adrian Bortolotto, Cornyjava, EXPLICIT and F!NN and 2 more. Browse upcoming dates, start times and who's playing. Valentinskamp 34A, 20355 Hamburg, Germany.
+Fabrique im Gängeviertel is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs, with line-ups including Adrian Bortolotto, Cornyjava, EXPLICIT and F!NN and 2 more. See dates, start times and who's playing. Valentinskamp 34A, 20355 Hamburg, Germany.
 
 ## What's on
 

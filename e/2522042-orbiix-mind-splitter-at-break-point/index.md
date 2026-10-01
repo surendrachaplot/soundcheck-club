@@ -1,6 +1,6 @@
 # ORBIIX & MIND SPLITTER at Break Point
 
-ORBIIX & MIND SPLITTER at Break Point on Sat 3 Oct, San Diego. Bass and Experimental. Preview the line-up and save it on soundcheck.
+ORBIIX & MIND SPLITTER at Break Point on Sat 3 Oct, San Diego. Bass and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

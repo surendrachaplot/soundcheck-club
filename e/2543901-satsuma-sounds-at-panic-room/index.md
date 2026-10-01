@@ -1,6 +1,6 @@
 # SATSUMA SOUNDS at Panic Room
 
-SATSUMA SOUNDS at Panic Room on Sat 17 Oct, Paris. Techno and House. Preview the line-up and save it on soundcheck.
+SATSUMA SOUNDS at Panic Room on Sat 17 Oct, Paris. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

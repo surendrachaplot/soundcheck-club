@@ -1,6 +1,6 @@
 # DANCEHALL TING at Wax Music Lounge
 
-DANCEHALL TING at Wax Music Lounge on Sat 7 Nov, Melbourne. Dancehall. Preview the line-up and save it on soundcheck.
+DANCEHALL TING at Wax Music Lounge on Sat 7 Nov, Melbourne. Dancehall. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

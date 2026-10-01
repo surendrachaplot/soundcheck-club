@@ -1,6 +1,6 @@
 # Sub:Protocol at Liquid Nightclub
 
-Sub:Protocol at Liquid Nightclub on Sat 24 Oct, Belfast. 4 artists on the bill: Chris Cargo, Craig Mitchell, Lawley and Nitetales. Preview the line-up and save it on soundcheck.
+Sub:Protocol at Liquid Nightclub on Sat 24 Oct, Belfast. 4 artists: Chris Cargo, Craig Mitchell, Lawley and Nitetales. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

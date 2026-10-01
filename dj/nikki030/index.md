@@ -1,8 +1,8 @@
 # NIKKI030
 
-NIKKI030 is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
+NIKKI030 is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
 
-NIKKI030 is a trance and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Cologne and Vienna. Often billed alongside Anuuk, DonChoppa and SEKTOR69. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
+NIKKI030 is a trance and techno artist based in Germany, with 7 gigs on soundcheck across Berlin, Cologne and Vienna. Often billed alongside Anuuk, DonChoppa and SEKTOR69. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ NIKKI030 is a trance and techno artist based in Germany, tracked on soundcheck, 
 
 ## Recently played
 
-- Schrotty, Cologne — Fri, 4 Sept 2026
-- Sommerbad Neukölln, Berlin — Sun, 30 Aug 2026
-- TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
-- Grelle Forelle, Vienna — Sat, 7 Feb 2026
-- Lokschuppen Berlin, Berlin — Sat, 3 Jan 2026
+- Schrotty, Cologne · Fri, 4 Sept 2026
+- Sommerbad Neukölln, Berlin · Sun, 30 Aug 2026
+- TBA - Near Berlin (Secret Forest), Berlin · Thu, 6 Aug 2026
+- Grelle Forelle, Vienna · Sat, 7 Feb 2026
+- Lokschuppen Berlin, Berlin · Sat, 3 Jan 2026
 
 ## Shares bills with
 

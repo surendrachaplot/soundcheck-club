@@ -1,6 +1,6 @@
 # HEAVEN OR HELL ? BY BIM BAM BOOM at Le Chapiteau - Marseille
 
-HEAVEN OR HELL ? BY BIM BAM BOOM at Le Chapiteau - Marseille on Sat 31 Oct, Marseille. Tech House and Disco. Preview the line-up and save it on soundcheck.
+HEAVEN OR HELL ? BY BIM BAM BOOM at Le Chapiteau - Marseille on Sat 31 Oct, Marseille. Tech House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

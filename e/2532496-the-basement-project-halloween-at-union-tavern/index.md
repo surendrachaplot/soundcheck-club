@@ -1,6 +1,6 @@
 # The Basement Project (Halloween) at Union Tavern
 
-The Basement Project (Halloween) at Union Tavern on Sat 31 Oct, Boston. Progressive House and House. Preview the line-up and save it on soundcheck.
+The Basement Project (Halloween) at Union Tavern on Sat 31 Oct, Boston. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

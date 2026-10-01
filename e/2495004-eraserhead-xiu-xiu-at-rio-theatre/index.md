@@ -1,6 +1,6 @@
 # ERASERHEAD XIU XIU at Rio Theatre
 
-ERASERHEAD XIU XIU at Rio Theatre on Tue 6 Oct, Vancouver. Experimental. Preview the line-up and save it on soundcheck.
+ERASERHEAD XIU XIU at Rio Theatre on Tue 6 Oct, Vancouver. Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

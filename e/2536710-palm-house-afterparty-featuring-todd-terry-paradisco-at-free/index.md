@@ -1,6 +1,6 @@
 # Palm house afterparty featuring Todd Terry & Paradisco at Freeze HiFi
 
-Palm house afterparty featuring Todd Terry & Paradisco at Freeze HiFi on Fri 30 Oct, Liverpool. 1 artist on the bill: Todd Terry. House. Preview the line-up and save it on soundcheck.
+Palm house afterparty featuring Todd Terry & Paradisco at Freeze HiFi on Fri 30 Oct, Liverpool. 1 artist: Todd Terry. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

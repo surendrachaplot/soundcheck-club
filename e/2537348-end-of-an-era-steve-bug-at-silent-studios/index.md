@@ -1,6 +1,6 @@
 # End Of An Era: Steve Bug at Silent Studios
 
-End Of An Era: Steve Bug at Silent Studios on Sat 7 Nov, Auckland. 4 artists on the bill: Dylan C, Logan Baker, Sanoi and Steve Bug. Techno and House. Preview the line-up and save it on soundcheck.
+End Of An Era: Steve Bug at Silent Studios on Sat 7 Nov, Auckland. 4 artists: Dylan C, Logan Baker, Sanoi and Steve Bug. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

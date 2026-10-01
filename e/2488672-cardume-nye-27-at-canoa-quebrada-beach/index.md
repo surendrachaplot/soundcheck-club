@@ -1,6 +1,6 @@
 # Cardume NYE 27 at Canoa Quebrada Beach
 
-Cardume NYE 27 at Canoa Quebrada Beach on Sat 26 Dec, Brazil. 19 artists on the bill: Bibi Seck, Dioun, Dirty Channels and Eli Iwasa and 15 more. Preview the line-up and save it on soundcheck.
+Cardume NYE 27 at Canoa Quebrada Beach on Sat 26 Dec, Brazil. 19 artists: Bibi Seck, Dioun, Dirty Channels and Eli Iwasa and 15 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

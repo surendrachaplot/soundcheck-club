@@ -1,6 +1,6 @@
 # Shake Saturdays at The Social Club
 
-Shake Saturdays at The Social Club on Sat 24 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+Shake Saturdays at The Social Club on Sat 24 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

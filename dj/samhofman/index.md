@@ -1,8 +1,8 @@
 # Sam Hofman
 
-Sam Hofman is a House and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ijver, Amsterdam on Fri, 23 Oct 2026.
+Sam Hofman is a House and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ijver, Amsterdam on Fri, 23 Oct 2026.
 
-Sam Hofman is a house and trance artist based in Netherlands, tracked on soundcheck, with 9 sets logged across Amsterdam, Barcelona, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, AUTOFLOWER and Cynthia Spiering. Next up: Ijver, Amsterdam on Fri 23 Oct.
+Sam Hofman is a house and trance artist based in Netherlands, with 9 gigs on soundcheck across Amsterdam, Barcelona, Rotterdam and The Hague and 1 more. Often billed alongside Benny Rodrigues, AUTOFLOWER and Cynthia Spiering. Next up: Ijver, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,12 +14,12 @@ Sam Hofman is a house and trance artist based in Netherlands, tracked on soundch
 
 ## Recently played
 
-- Boomerang Beach, The Hague — Sun, 6 Sept 2026
-- La Terrrazza, Barcelona — Thu, 13 Aug 2026
-- TivoliVredenburg, Utrecht — Fri, 22 May 2026
-- SISSI'S Amsterdam, Amsterdam — Sat, 11 Apr 2026
-- Grasweide Papendorp, Utrecht — Sat, 14 Sept 2024
-- Sportpark Riekerhaven, Amsterdam — Sat, 7 Sept 2024
+- Boomerang Beach, The Hague · Sun, 6 Sept 2026
+- La Terrrazza, Barcelona · Thu, 13 Aug 2026
+- TivoliVredenburg, Utrecht · Fri, 22 May 2026
+- SISSI'S Amsterdam, Amsterdam · Sat, 11 Apr 2026
+- Grasweide Papendorp, Utrecht · Sat, 14 Sept 2024
+- Sportpark Riekerhaven, Amsterdam · Sat, 7 Sept 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Halloween - Sarah de Warren at Electric Garden
 
-Halloween - Sarah de Warren at Electric Garden on Fri 30 Oct, Dublin. 2 artists on the bill: Franco Cepulo and Leo Cardi. Trance and Techno. Preview the line-up and save it on soundcheck.
+Halloween - Sarah de Warren at Electric Garden on Fri 30 Oct, Dublin. 2 artists: Franco Cepulo and Leo Cardi. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

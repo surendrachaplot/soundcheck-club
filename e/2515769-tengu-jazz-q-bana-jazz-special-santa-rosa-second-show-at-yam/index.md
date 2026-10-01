@@ -1,6 +1,6 @@
 # Tengu Jazz: Q.BANA (Jazz Special) & Santa Rosa - Second Show at Yamamori Tengu
 
-Tengu Jazz: Q.BANA (Jazz Special) & Santa Rosa - Second Show at Yamamori Tengu on Thu 26 Nov, Dublin. Jazz. Preview the line-up and save it on soundcheck.
+Tengu Jazz: Q.BANA (Jazz Special) & Santa Rosa - Second Show at Yamamori Tengu on Thu 26 Nov, Dublin. Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Loods
 
-Loods is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Knockdown Center, New York City on Wed, 7 Oct 2026.
+Loods is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Knockdown Center, New York City on Wed, 7 Oct 2026.
 
-Loods is a house and techno artist based in Australia, tracked on soundcheck, with 59 sets logged across Aberdeen, Amsterdam, Auckland and Bali and 16 more. Often billed alongside KETTAMA, Partiboi69 and Benwal. Next up: Knockdown Center, New York City on Wed 7 Oct.
+Loods is a house and techno artist based in Australia, with 59 gigs on soundcheck across Aberdeen, Amsterdam, Auckland and Bali and 16 more. Often billed alongside KETTAMA, Partiboi69 and Benwal. Next up: Knockdown Center, New York City on Wed 7 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Loods is a house and techno artist based in Australia, tracked on soundcheck, wi
 
 ## Recently played
 
-- The Beresford Hotel, Sydney — Sat, 5 Sept 2026
-- Wet Deck at W Hotel, Kuala Lumpur — Sat, 25 Jul 2026
-- Amnesia Ibiza, Ibiza — Mon, 15 Jun 2026
-- The Croft, Bristol — Fri, 12 Jun 2026
-- Amber's, Manchester — Sat, 6 Jun 2026
-- Elsewhere, New York City — Sat, 23 May 2026
-- Aurora Warehouse, Los Angeles — Sat, 9 May 2026
-- The Regency Ballroom, San Francisco/Oakland — Fri, 8 May 2026
+- The Beresford Hotel, Sydney · Sat, 5 Sept 2026
+- Wet Deck at W Hotel, Kuala Lumpur · Sat, 25 Jul 2026
+- Amnesia Ibiza, Ibiza · Mon, 15 Jun 2026
+- The Croft, Bristol · Fri, 12 Jun 2026
+- Amber's, Manchester · Sat, 6 Jun 2026
+- Elsewhere, New York City · Sat, 23 May 2026
+- Aurora Warehouse, Los Angeles · Sat, 9 May 2026
+- The Regency Ballroom, San Francisco/Oakland · Fri, 8 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # PUDDINGS pres. SCREAM QUEEN's at AMT
 
-PUDDINGS pres. SCREAM QUEEN's at AMT on Sat 31 Oct, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+PUDDINGS pres. SCREAM QUEEN's at AMT on Sat 31 Oct, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

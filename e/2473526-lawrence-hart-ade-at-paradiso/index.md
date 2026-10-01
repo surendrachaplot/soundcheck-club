@@ -1,6 +1,6 @@
 # Lawrence Hart - ADE at Paradiso
 
-Lawrence Hart - ADE at Paradiso on Thu 22 Oct, Amsterdam. 2 artists on the bill: Lawrence Hart and Mera Bhai. House and Electronica. Preview the line-up and save it on soundcheck.
+Lawrence Hart - ADE at Paradiso on Thu 22 Oct, Amsterdam. 2 artists: Lawrence Hart and Mera Bhai. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HVEN presents: PHΛSE_001 at HVEN
 
-HVEN presents: PHΛSE_001 on Fri 9 Oct, Tokyo. 3 artists on the bill: Kino Carey, SATELLA and TECHNO_TARITERU?. Techno and Tech House. Preview the line-up and save it on soundcheck.
+HVEN presents: PHΛSE_001 on Fri 9 Oct, Tokyo. 3 artists: Kino Carey, SATELLA and TECHNO_TARITERU?. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

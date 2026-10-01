@@ -1,6 +1,6 @@
 # CRAVE HER: HEXED at Moon Club
 
-CRAVE HER: HEXED at Moon Club on Sat 10 Oct, Bristol. Techno and House. Preview the line-up and save it on soundcheck.
+CRAVE HER: HEXED at Moon Club on Sat 10 Oct, Bristol. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Jae Depz
 
-Jae Depz is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Nest, Nottingham on Sat, 17 Oct 2026.
+Jae Depz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Nest, Nottingham on Sat, 17 Oct 2026.
 
-Jae Depz is a garage and house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across Leeds, Manchester, Nottingham and Sheffield. Often billed alongside camukg, Bassboy and Burgaboy. Next up: The Nest, Nottingham on Sat 17 Oct.
+Jae Depz is a garage and house artist based in United Kingdom, with 9 gigs on soundcheck across Leeds, Manchester, Nottingham and Sheffield. Often billed alongside camukg, Bassboy and Burgaboy. Next up: The Nest, Nottingham on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Jae Depz is a garage and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- Mint Warehouse, Leeds — Sat, 19 Sept 2026
-- Beaver Works, Leeds — Sat, 5 Sept 2026
-- Mint Warehouse, Leeds — Sat, 16 May 2026
-- The Fenton, Leeds — Sat, 28 Mar 2026
-- Headrow House, Leeds — Wed, 25 Feb 2026
-- Bowlers Exhibition Centre, Manchester — Sat, 6 Dec 2025
-- Panke Social, Sheffield — Sat, 4 Oct 2025
-- Freedom Mills, Leeds — Sat, 20 Sept 2025
+- Mint Warehouse, Leeds · Sat, 19 Sept 2026
+- Beaver Works, Leeds · Sat, 5 Sept 2026
+- Mint Warehouse, Leeds · Sat, 16 May 2026
+- The Fenton, Leeds · Sat, 28 Mar 2026
+- Headrow House, Leeds · Wed, 25 Feb 2026
+- Bowlers Exhibition Centre, Manchester · Sat, 6 Dec 2025
+- Panke Social, Sheffield · Sat, 4 Oct 2025
+- Freedom Mills, Leeds · Sat, 20 Sept 2025
 
 ## Shares bills with
 

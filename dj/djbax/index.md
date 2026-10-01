@@ -1,8 +1,8 @@
 # DJ Bax
 
-DJ Bax is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Liquid Club, Malta on Fri, 9 Oct 2026.
+DJ Bax is a Techno and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Liquid Club, Malta on Fri, 9 Oct 2026.
 
-DJ Bax is a techno and trance artist based in New Zealand, tracked on soundcheck, with 20 sets logged across Auckland, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside 2FEL, 4000 Hz and Ageusic. Next up: Liquid Club, Malta on Fri 9 Oct.
+DJ Bax is a techno and trance artist based in New Zealand, with 20 gigs on soundcheck across Auckland, Berlin, Brisbane and Edinburgh and 9 more. Often billed alongside 2FEL, 4000 Hz and Ageusic. Next up: Liquid Club, Malta on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ DJ Bax is a techno and trance artist based in New Zealand, tracked on soundcheck
 
 ## Recently played
 
-- Sneaky Pete's, Edinburgh — Mon, 28 Sept 2026
-- Lokschuppen Berlin, Berlin — Sat, 26 Sept 2026
-- La Rotonde Stalingrad, Paris — Sat, 19 Sept 2026
-- Audio, Glasgow — Fri, 18 Sept 2026
-- Eiger Studios, Leeds — Sat, 12 Sept 2026
-- Péniche Loupika, Lyon — Sat, 5 Sept 2026
-- Virage, Paris — Wed, 12 Aug 2026
-- M.O.T, London — Fri, 24 Jul 2026
+- Sneaky Pete's, Edinburgh · Mon, 28 Sept 2026
+- Lokschuppen Berlin, Berlin · Sat, 26 Sept 2026
+- La Rotonde Stalingrad, Paris · Sat, 19 Sept 2026
+- Audio, Glasgow · Fri, 18 Sept 2026
+- Eiger Studios, Leeds · Sat, 12 Sept 2026
+- Péniche Loupika, Lyon · Sat, 5 Sept 2026
+- Virage, Paris · Wed, 12 Aug 2026
+- M.O.T, London · Fri, 24 Jul 2026
 
 ## Shares bills with
 

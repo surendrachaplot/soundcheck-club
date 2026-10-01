@@ -1,8 +1,8 @@
 # Elia Nafzger
 
-Elia Nafzger is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Elia Nafzger is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Elia Nafzger is a techno and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Berlin, Brussels, Bucharest and Detroit and 8 more. Often billed alongside Desuba, Andrei Ciubuc and Zach G. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Elia Nafzger is a techno and house artist based in United Kingdom, with 53 gigs on soundcheck across Berlin, Brussels, Bucharest and Detroit and 8 more. Often billed alongside Desuba, Andrei Ciubuc and Zach G. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Elia Nafzger is a techno and house artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
-- Distillery N17, London — Sat, 12 Sept 2026
-- Starlane Pizza Bar, London — Sun, 23 Aug 2026
-- Platforma Wolff, Bucharest — Sat, 15 Aug 2026
-- Club der Visionaere, Berlin — Sat, 8 Aug 2026
-- Club der Visionaere, Berlin — Thu, 16 Jul 2026
-- Club der Visionaere, Berlin — Sun, 5 Jul 2026
-- Starlane Pizza Bar, London — Sat, 27 Jun 2026
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece · Wed, 30 Sept 2026
+- Distillery N17, London · Sat, 12 Sept 2026
+- Starlane Pizza Bar, London · Sun, 23 Aug 2026
+- Platforma Wolff, Bucharest · Sat, 15 Aug 2026
+- Club der Visionaere, Berlin · Sat, 8 Aug 2026
+- Club der Visionaere, Berlin · Thu, 16 Jul 2026
+- Club der Visionaere, Berlin · Sun, 5 Jul 2026
+- Starlane Pizza Bar, London · Sat, 27 Jun 2026
 
 ## Shares bills with
 

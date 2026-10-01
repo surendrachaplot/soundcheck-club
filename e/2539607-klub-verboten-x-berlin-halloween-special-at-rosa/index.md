@@ -1,6 +1,6 @@
 # Klub Verboten x BERLIN - HALLOWEEN SPECIAL at ROSA
 
-Klub Verboten x BERLIN - HALLOWEEN SPECIAL at ROSA on Sat 31 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Klub Verboten x BERLIN - HALLOWEEN SPECIAL at ROSA on Sat 31 Oct, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

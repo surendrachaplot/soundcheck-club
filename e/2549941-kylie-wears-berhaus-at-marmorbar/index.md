@@ -1,6 +1,6 @@
 # KYLIE WEARS BERHAUS at Marmorbar
 
-KYLIE WEARS BERHAUS at Marmorbar on Fri 6 Nov, Berlin. 3 artists on the bill: KENZA, Kylie Wears Berghaus and miszo. House and Pop. Preview the line-up and save it on soundcheck.
+KYLIE WEARS BERHAUS at Marmorbar on Fri 6 Nov, Berlin. 3 artists: KENZA, Kylie Wears Berghaus and miszo. House and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

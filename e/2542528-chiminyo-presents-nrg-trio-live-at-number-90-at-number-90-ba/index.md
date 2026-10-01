@@ -1,6 +1,6 @@
 # Chiminyo presents: NRG Trio Live at Number 90 at Number 90 Bar Hackney Wick
 
-Chiminyo presents: NRG Trio Live at Number 90 at Number 90 Bar Hackney Wick on Thu 1 Oct, London. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+Chiminyo presents: NRG Trio Live at Number 90 at Number 90 Bar Hackney Wick on Thu 1 Oct, London. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

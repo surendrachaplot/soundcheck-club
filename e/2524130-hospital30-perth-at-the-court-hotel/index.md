@@ -1,6 +1,6 @@
 # Hospital30 (Perth) at The Court Hotel
 
-Hospital30 (Perth) at The Court Hotel on Sat 10 Oct, Perth. 3 artists on the bill: Danny Byrd, HOAX and Unglued. Preview the line-up and save it on soundcheck.
+Hospital30 (Perth) at The Court Hotel on Sat 10 Oct, Perth. 3 artists: Danny Byrd, HOAX and Unglued. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Boxed Off at Syrup Bar
 
-Boxed Off at Syrup Bar on Sat 24 Oct, London. House. Preview the line-up and save it on soundcheck.
+Boxed Off at Syrup Bar on Sat 24 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

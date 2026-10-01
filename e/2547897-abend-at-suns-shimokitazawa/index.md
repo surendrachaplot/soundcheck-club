@@ -1,6 +1,6 @@
 # abend at Suns Shimokitazawa
 
-abend at Suns Shimokitazawa on Sun 11 Oct, Tokyo. 2 artists on the bill: Kana Tokikawa and Takami. Techno. Preview the line-up and save it on soundcheck.
+abend at Suns Shimokitazawa on Sun 11 Oct, Tokyo. 2 artists: Kana Tokikawa and Takami. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

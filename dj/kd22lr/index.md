@@ -1,8 +1,8 @@
 # KD22LR
 
-KD22LR is a Bass and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Yes, Manchester on Fri, 9 Oct 2026.
+KD22LR is a Bass and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yes, Manchester on Fri, 9 Oct 2026.
 
-KD22LR is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 56 sets logged across Berlin, Glasgow, Leeds and London and 1 more. Often billed alongside Tom Boogizm, Medlock and Sockethead. Next up: Yes, Manchester on Fri 9 Oct.
+KD22LR is a bass and techno artist based in United Kingdom, with 56 gigs on soundcheck across Berlin, Glasgow, Leeds and London and 1 more. Often billed alongside Tom Boogizm, Medlock and Sockethead. Next up: Yes, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ KD22LR is a bass and techno artist based in United Kingdom, tracked on soundchec
 
 ## Recently played
 
-- Platt Fields Market Garden, Manchester — Sat, 12 Sept 2026
-- Hidden, Manchester — Sat, 5 Sept 2026
-- Spanners, London — Fri, 7 Aug 2026
-- Soup, Manchester — Fri, 5 Jun 2026
-- Ormside Projects, London — Sat, 23 May 2026
-- Chapel Street & The Crescent, Salford, Manchester — Sun, 3 May 2026
-- The White Hotel, Manchester — Sun, 3 May 2026
-- Soup, Manchester — Thu, 23 Apr 2026
+- Platt Fields Market Garden, Manchester · Sat, 12 Sept 2026
+- Hidden, Manchester · Sat, 5 Sept 2026
+- Spanners, London · Fri, 7 Aug 2026
+- Soup, Manchester · Fri, 5 Jun 2026
+- Ormside Projects, London · Sat, 23 May 2026
+- Chapel Street & The Crescent, Salford, Manchester · Sun, 3 May 2026
+- The White Hotel, Manchester · Sun, 3 May 2026
+- Soup, Manchester · Thu, 23 Apr 2026
 
 ## Shares bills with
 

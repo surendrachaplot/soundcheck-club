@@ -1,6 +1,6 @@
 # no idea: Heling, Hems, Ruben AE at Om Being
 
-no idea: Heling, Hems, Ruben AE at Om Being on Sun 25 Oct, London. 2 artists on the bill: Heling and Hems. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+no idea: Heling, Hems, Ruben AE at Om Being on Sun 25 Oct, London. 2 artists: Heling and Hems. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

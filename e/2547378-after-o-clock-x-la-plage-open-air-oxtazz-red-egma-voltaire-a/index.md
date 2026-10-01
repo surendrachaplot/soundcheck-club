@@ -1,6 +1,6 @@
 # After O'Clock X La Plage Open Air: Oxtazz, Red Egma, Voltaire at Glazart
 
-After O'Clock X La Plage Open Air: Oxtazz, Red Egma, Voltaire at Glazart on Sat 3 Oct, Paris. 2 artists on the bill: Oxtazz and Voltaire. Techno. Preview the line-up and save it on soundcheck.
+After O'Clock X La Plage Open Air: Oxtazz, Red Egma, Voltaire at Glazart on Sat 3 Oct, Paris. 2 artists: Oxtazz and Voltaire. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

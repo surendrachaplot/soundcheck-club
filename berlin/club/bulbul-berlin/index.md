@@ -1,8 +1,8 @@
 # Bulbul Berlin
 
-Bulbul Berlin is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Subassi invites: MagDita, ADAM REC., oulcan, Subassi" on Thu, 1 Oct 2026.
+Bulbul Berlin is a music venue in Berlin with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Subassi invites: MagDita, ADAM REC., oulcan, Subassi" on Thu, 1 Oct 2026.
 
-Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including ADAM REC., aksendo, boyyyish and CATAWR and 2 more. Browse upcoming dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
+Bulbul Berlin is a music venue in Berlin listed on soundcheck. 15 upcoming gigs, with line-ups including ADAM REC., aksendo, boyyyish and CATAWR and 2 more. See dates, start times and who's playing. Skalitzer str. 114, 10999 Berlin, Germany.
 
 ## What's on
 

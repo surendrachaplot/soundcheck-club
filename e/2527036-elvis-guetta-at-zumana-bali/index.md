@@ -1,6 +1,6 @@
 # ELVIS GUETTA at Zumana Bali
 
-ELVIS GUETTA at Zumana Bali on Fri 6 Nov, Bali. House and Tech House. Preview the line-up and save it on soundcheck.
+ELVIS GUETTA at Zumana Bali on Fri 6 Nov, Bali. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

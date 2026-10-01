@@ -1,6 +1,6 @@
 # Late Night Funk Club: Hot Piece of Brass + Nick Bodywork at The Old Market Assembly
 
-Late Night Funk Club: Hot Piece of Brass + Nick Bodywork at The Old Market Assembly on Fri 2 Oct, Bristol. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Late Night Funk Club: Hot Piece of Brass + Nick Bodywork at The Old Market Assembly on Fri 2 Oct, Bristol. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

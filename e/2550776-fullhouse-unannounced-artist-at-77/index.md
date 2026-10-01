@@ -1,6 +1,6 @@
 # FullHouse: unannounced artist at 77
 
-FullHouse: unannounced artist at 77 on Mon 12 Oct, London. House. Preview the line-up and save it on soundcheck.
+FullHouse: unannounced artist at 77 on Mon 12 Oct, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

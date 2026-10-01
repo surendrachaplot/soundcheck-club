@@ -1,6 +1,6 @@
 # Shaq's Bass All Stars at The Container Globe
 
-Shaq's Bass All Stars at The Container Globe on Sat 10 Oct, Detroit. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Shaq's Bass All Stars at The Container Globe on Sat 10 Oct, Detroit. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

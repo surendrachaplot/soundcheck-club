@@ -1,6 +1,6 @@
 # Boo Halloween Seattle at Wamu Theatre
 
-Boo Halloween Seattle at Wamu Theatre on Fri 30 Oct, Seattle. 22 artists on the bill: A Little Sound, Azyr, Casey Club and Champion and 18 more. Preview the line-up and save it on soundcheck.
+Boo Halloween Seattle at Wamu Theatre on Fri 30 Oct, Seattle. 22 artists: A Little Sound, Azyr, Casey Club and Champion and 18 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # CAYA by fabric: Ben Murphy (All Night Long) at fabric
 
-CAYA by fabric: Ben Murphy (All Night Long) on Sun 25 Oct, London. 1 artist on the bill: Ben Murphy. Preview the line-up and save it on soundcheck.
+CAYA by fabric: Ben Murphy (All Night Long) on Sun 25 Oct, London. 1 artist: Ben Murphy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

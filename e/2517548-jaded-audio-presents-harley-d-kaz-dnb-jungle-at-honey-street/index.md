@@ -1,6 +1,6 @@
 # Jaded Audio presents - Harley D & Kaz (Dnb & Jungle) at Honey Street Studio
 
-Jaded Audio presents - Harley D & Kaz (Dnb & Jungle) at Honey Street Studio on Fri 2 Oct, Manchester. Drum & Bass and Dubstep. Preview the line-up and save it on soundcheck.
+Jaded Audio presents - Harley D & Kaz (Dnb & Jungle) at Honey Street Studio on Fri 2 Oct, Manchester. Drum & Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

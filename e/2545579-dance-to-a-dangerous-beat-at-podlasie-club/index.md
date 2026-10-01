@@ -1,6 +1,6 @@
 # Dance to a Dangerous Beat at Podlasie Club
 
-Dance to a Dangerous Beat at Podlasie Club on Thu 8 Oct, Chicago. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+Dance to a Dangerous Beat at Podlasie Club on Thu 8 Oct, Chicago. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

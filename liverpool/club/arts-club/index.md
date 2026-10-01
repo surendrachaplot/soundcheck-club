@@ -1,8 +1,8 @@
 # Arts Club
 
-Arts Club is a music venue in Liverpool with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Teletech: JOWI [ALL NIGHT LONG] - Liverpool" on Fri, 9 Oct 2026.
+Arts Club is a music venue in Liverpool with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Teletech: JOWI [ALL NIGHT LONG] - Liverpool" on Fri, 9 Oct 2026.
 
-Arts Club is a music venue in Liverpool listed on soundcheck. 7 upcoming gigs, with line-ups including Basswell, Beaux, Dom Townsend and Jade Edwards and 2 more. Browse upcoming dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
+Arts Club is a music venue in Liverpool listed on soundcheck. 7 upcoming gigs, with line-ups including Basswell, Beaux, Dom Townsend and Jade Edwards and 2 more. See dates, start times and who's playing. 90 Seel Street; Liverpool; L1 4BH; United Kingdom.
 
 ## What's on
 

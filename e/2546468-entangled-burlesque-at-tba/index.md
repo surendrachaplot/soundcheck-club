@@ -1,6 +1,6 @@
 # Entangled: Burlesque at TBA
 
-Entangled: Burlesque at TBA on Fri 6 Nov, New York City. Preview the line-up and save it on soundcheck.
+Entangled: Burlesque at TBA on Fri 6 Nov, New York City. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

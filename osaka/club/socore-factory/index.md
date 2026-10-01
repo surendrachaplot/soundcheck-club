@@ -1,8 +1,8 @@
 # Socore Factory
 
-Socore Factory is a music venue in Osaka with 31 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "LOVE TO SHARE" on Fri, 2 Oct 2026.
+Socore Factory is a music venue in Osaka with 31 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "LOVE TO SHARE" on Fri, 2 Oct 2026.
 
-Socore Factory is a music venue in Osaka listed on soundcheck. 31 upcoming gigs, with line-ups including Akira, ALUCA, Fluid and GEBO and 2 more. Browse upcoming dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
+Socore Factory is a music venue in Osaka listed on soundcheck. 31 upcoming gigs, with line-ups including Akira, ALUCA, Fluid and GEBO and 2 more. See dates, start times and who's playing. 2-13-26 Minamihorie, Nishi-ku, Osaka-shi, Osaka, 550-0015 Japan.
 
 ## What's on
 

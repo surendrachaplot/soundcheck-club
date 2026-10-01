@@ -1,6 +1,6 @@
 # Movulango + Keynu (NL) at Hexagon Brussels
 
-Movulango + Keynu (NL) at Hexagon Brussels on Sat 10 Oct, Brussels. 1 artist on the bill: Movulango. Preview the line-up and save it on soundcheck.
+Movulango + Keynu (NL) at Hexagon Brussels on Sat 10 Oct, Brussels. 1 artist: Movulango. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

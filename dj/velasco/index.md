@@ -1,8 +1,8 @@
 # Velasco
 
-Velasco is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Stage and Radio, Manchester on Fri, 23 Oct 2026.
+Velasco is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stage and Radio, Manchester on Fri, 23 Oct 2026.
 
-Velasco is a house and techno artist based in United States of America, tracked on soundcheck, with 101 sets logged across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Tjizza, Anthea and Samuel Deep. Next up: Stage and Radio, Manchester on Fri 23 Oct.
+Velasco is a house and techno artist based in United States of America, with 101 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 27 more. Often billed alongside DJ Tjizza, Anthea and Samuel Deep. Next up: Stage and Radio, Manchester on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Velasco is a house and techno artist based in United States of America, tracked 
 
 ## Recently played
 
-- TILLATEC, Amsterdam — Sat, 19 Sept 2026
-- Le 211, Paris — Sat, 19 Sept 2026
-- arkaoda Berlin, Berlin — Thu, 27 Aug 2026
-- Oven Club, Valencia — Fri, 7 Aug 2026
-- TBA - ART CLUB Cabriès, Marseille — Sat, 1 Aug 2026
-- Club der Visionaere, Berlin — Thu, 25 Jun 2026
-- Green Room NYC, New York City — Sat, 20 Jun 2026
-- Platforma Wolff, Bucharest — Fri, 8 May 2026
+- TILLATEC, Amsterdam · Sat, 19 Sept 2026
+- Le 211, Paris · Sat, 19 Sept 2026
+- arkaoda Berlin, Berlin · Thu, 27 Aug 2026
+- Oven Club, Valencia · Fri, 7 Aug 2026
+- TBA - ART CLUB Cabriès, Marseille · Sat, 1 Aug 2026
+- Club der Visionaere, Berlin · Thu, 25 Jun 2026
+- Green Room NYC, New York City · Sat, 20 Jun 2026
+- Platforma Wolff, Bucharest · Fri, 8 May 2026
 
 ## Shares bills with
 

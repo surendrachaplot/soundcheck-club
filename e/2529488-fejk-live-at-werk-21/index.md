@@ -1,6 +1,6 @@
 # Fejká live at Werk 21
 
-Fejká live at Werk 21 on Thu 17 Dec, Zurich. 1 artist on the bill: Fejká. Electro and Ambient. Preview the line-up and save it on soundcheck.
+Fejká live at Werk 21 on Thu 17 Dec, Zurich. 1 artist: Fejká. Electro and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

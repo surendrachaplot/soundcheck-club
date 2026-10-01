@@ -1,6 +1,6 @@
 # Netstars.tv Party 2026 – Das Szene-Event in Berlin at Maxxim Club
 
-Netstars.tv Party 2026 – Das Szene-Event in Berlin at Maxxim Club on Sat 24 Oct, Berlin. House and Disco. Preview the line-up and save it on soundcheck.
+Netstars.tv Party 2026 – Das Szene-Event in Berlin at Maxxim Club on Sat 24 Oct, Berlin. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

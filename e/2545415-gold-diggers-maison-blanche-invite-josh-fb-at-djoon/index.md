@@ -1,6 +1,6 @@
 # GOLD DIGGERS: Maison Blanche invite JOSH FB at Djoon
 
-GOLD DIGGERS: Maison Blanche invite JOSH FB at Djoon on Sat 17 Oct, Paris. 2 artists on the bill: JOSH FB and Maison Blanche. House and Disco. Preview the line-up and save it on soundcheck.
+GOLD DIGGERS: Maison Blanche invite JOSH FB at Djoon on Sat 17 Oct, Paris. 2 artists: JOSH FB and Maison Blanche. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

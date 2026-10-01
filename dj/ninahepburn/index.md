@@ -1,8 +1,8 @@
 # Nina Hepburn
 
-Nina Hepburn is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Docks, Hamburg on Sat, 7 Nov 2026.
+Nina Hepburn is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Docks, Hamburg on Sat, 7 Nov 2026.
 
-Nina Hepburn is a techno and house artist based in Germany, tracked on soundcheck, with 74 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Bizzarro Universe, KENZ and SKKIN VELVET. Next up: Docks, Hamburg on Sat 7 Nov.
+Nina Hepburn is a techno and house artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Berlin, Cologne and Copenhagen and 3 more. Often billed alongside Bizzarro Universe, KENZ and SKKIN VELVET. Next up: Docks, Hamburg on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Nina Hepburn is a techno and house artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Hamburg Cruise Center Altona, Hamburg — Fri, 28 Aug 2026
-- Segelschiff Mare Frisium, Hamburg — Fri, 21 Aug 2026
-- Grüner Jäger, Hamburg — Fri, 24 Jul 2026
-- MS Artville, Hamburg — Sat, 18 Jul 2026
-- Die Rakete, Nürnberg — Sat, 20 Jun 2026
-- Mammoth Moma5, Berlin — Sat, 6 Jun 2026
-- Edelfettwerk, Hamburg — Fri, 5 Jun 2026
-- Lieberscholli, Munich — Sun, 24 May 2026
+- Hamburg Cruise Center Altona, Hamburg · Fri, 28 Aug 2026
+- Segelschiff Mare Frisium, Hamburg · Fri, 21 Aug 2026
+- Grüner Jäger, Hamburg · Fri, 24 Jul 2026
+- MS Artville, Hamburg · Sat, 18 Jul 2026
+- Die Rakete, Nürnberg · Sat, 20 Jun 2026
+- Mammoth Moma5, Berlin · Sat, 6 Jun 2026
+- Edelfettwerk, Hamburg · Fri, 5 Jun 2026
+- Lieberscholli, Munich · Sun, 24 May 2026
 
 ## Shares bills with
 

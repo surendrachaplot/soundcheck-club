@@ -1,8 +1,8 @@
 # MJ Cole
 
-MJ Cole is a Garage and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mint XL, Leeds on Sat, 3 Oct 2026.
+MJ Cole is a Garage and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint XL, Leeds on Sat, 3 Oct 2026.
 
-MJ Cole is a garage and bass artist based in United Kingdom, tracked on soundcheck, with 29 sets logged across Barcelona, Brighton, Dublin and Ibiza and 4 more. Often billed alongside Chunky, DJ EZ and Kirollus. Next up: Mint XL, Leeds on Sat 3 Oct.
+MJ Cole is a garage and bass artist based in United Kingdom, with 29 gigs on soundcheck across Barcelona, Brighton, Dublin and Ibiza and 4 more. Often billed alongside Chunky, DJ EZ and Kirollus. Next up: Mint XL, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ MJ Cole is a garage and bass artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- Freight Brixton, London — Sat, 5 Sept 2026
-- Kelvedon Hall, London — Sat, 29 Aug 2026
-- Freight Island Newcastle, Newcastle — Sat, 1 Aug 2026
-- Eden, Ibiza — Wed, 22 Jul 2026
-- Ministry Of Sound, London — Sat, 6 Jun 2026
-- The Bernard Shaw, Dublin — Sat, 30 May 2026
-- Brockwell Park, London — Sat, 23 May 2026
-- Freight Island, Manchester — Sun, 5 Apr 2026
+- Freight Brixton, London · Sat, 5 Sept 2026
+- Kelvedon Hall, London · Sat, 29 Aug 2026
+- Freight Island Newcastle, Newcastle · Sat, 1 Aug 2026
+- Eden, Ibiza · Wed, 22 Jul 2026
+- Ministry Of Sound, London · Sat, 6 Jun 2026
+- The Bernard Shaw, Dublin · Sat, 30 May 2026
+- Brockwell Park, London · Sat, 23 May 2026
+- Freight Island, Manchester · Sun, 5 Apr 2026
 
 ## Shares bills with
 

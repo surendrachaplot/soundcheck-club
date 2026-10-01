@@ -1,6 +1,6 @@
 # 5th Anniversary Party04- GATE -house at Djbar Lollapalooza
 
-5th Anniversary Party04- GATE -house at Djbar Lollapalooza on Mon 5 Oct, Osaka. House and Club. Preview the line-up and save it on soundcheck.
+5th Anniversary Party04- GATE -house at Djbar Lollapalooza on Mon 5 Oct, Osaka. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

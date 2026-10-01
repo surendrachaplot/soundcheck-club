@@ -1,6 +1,6 @@
 # Norty Cotto B2B Zeno: Back In BK at Happyfun Hideaway
 
-Norty Cotto B2B Zeno: Back In BK at Happyfun Hideaway on Sat 17 Oct, New York City. 2 artists on the bill: Norty Cotto and Zeno. House and Tech House. Preview the line-up and save it on soundcheck.
+Norty Cotto B2B Zeno: Back In BK at Happyfun Hideaway on Sat 17 Oct, New York City. 2 artists: Norty Cotto and Zeno. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mercury Prize Fringe Event: Tommy Caulker: A Life in Records (LISTENING SESSION) at Gingerino's Pizza
 
-Mercury Prize Fringe Event: Tommy Caulker: A Life in Records (LISTENING SESSION) at Gingerino's Pizza on Sat 17 Oct, Newcastle. 2 artists on the bill: Diz Jockey and Vinny Vins. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Mercury Prize Fringe Event: Tommy Caulker: A Life in Records (LISTENING SESSION) at Gingerino's Pizza on Sat 17 Oct, Newcastle. 2 artists: Diz Jockey and Vinny Vins. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

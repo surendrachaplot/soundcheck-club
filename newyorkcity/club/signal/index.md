@@ -1,8 +1,8 @@
 # Signal
 
-Signal is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Night & Day: Objekt, Dan Ghenacia, Kiernan Laveaux b2b fleet.dreams, Bambi, deep creep, + more" on Fri, 2 Oct 2026.
+Signal is a music venue in New York City with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Night & Day: Objekt, Dan Ghenacia, Kiernan Laveaux b2b fleet.dreams, Bambi, deep creep, + more" on Fri, 2 Oct 2026.
 
-Signal is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. Browse upcoming dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
+Signal is a music venue in New York City listed on soundcheck. 15 upcoming gigs, with line-ups including 1morning, 98dots, LYDO and AceMo and 2 more. See dates, start times and who's playing. 175 Morgan Ave, Brooklyn, NY 11237.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # head above water presents // Witching Hour at The Ulster Sports Club
 
-head above water presents // Witching Hour at The Ulster Sports Club on Sat 31 Oct, Belfast. 3 artists on the bill: ByPhil, Cooke and Jude Dude. House and Experimental. Preview the line-up and save it on soundcheck.
+head above water presents // Witching Hour at The Ulster Sports Club on Sat 31 Oct, Belfast. 3 artists: ByPhil, Cooke and Jude Dude. House and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

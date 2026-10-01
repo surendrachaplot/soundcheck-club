@@ -1,6 +1,6 @@
 # Adam & Eve - Rotterdam x Bambooz at Bambooz
 
-Adam & Eve - Rotterdam x Bambooz on Sat 10 Oct, Rotterdam. R&B and Afrobeats. Preview the line-up and save it on soundcheck.
+Adam & Eve - Rotterdam x Bambooz on Sat 10 Oct, Rotterdam. R&B and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

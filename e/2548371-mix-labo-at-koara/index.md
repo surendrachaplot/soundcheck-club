@@ -1,6 +1,6 @@
 # MIX LABO at Koara
 
-MIX LABO at Koara on Sun 18 Oct, Tokyo. House and Disco. Preview the line-up and save it on soundcheck.
+MIX LABO at Koara on Sun 18 Oct, Tokyo. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

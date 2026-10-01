@@ -1,6 +1,6 @@
 # SABR - by Mastané at Cafeteria
 
-SABR - by Mastané at Cafeteria on Sun 15 Nov, Toronto. Minimal and Classical. Preview the line-up and save it on soundcheck.
+SABR - by Mastané at Cafeteria on Sun 15 Nov, Toronto. Minimal and Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

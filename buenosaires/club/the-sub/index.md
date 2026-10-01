@@ -1,8 +1,8 @@
 # The Sub
 
-The Sub is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Alien Ritual - Burn in Noise" on Sun, 22 Nov 2026.
+The Sub is a music venue in Buenos Aires with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Alien Ritual - Burn in Noise" on Sun, 22 Nov 2026.
 
-The Sub is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Av. Cordoba 543, Buenos Aires, Argentina.
+The Sub is a music venue in Buenos Aires listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Av. Cordoba 543, Buenos Aires, Argentina.
 
 ## What's on
 

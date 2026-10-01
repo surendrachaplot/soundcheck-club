@@ -1,6 +1,6 @@
 # HERZFREQUENZ at Das Werk
 
-HERZFREQUENZ at Das Werk on Fri 13 Nov, Vienna. 1 artist on the bill: Joey. Preview the line-up and save it on soundcheck.
+HERZFREQUENZ at Das Werk on Fri 13 Nov, Vienna. 1 artist: Joey. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

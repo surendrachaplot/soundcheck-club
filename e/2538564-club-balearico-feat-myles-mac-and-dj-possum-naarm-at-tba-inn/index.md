@@ -1,6 +1,6 @@
 # Club Balearico feat Myles Mac and DJ Possum (Naarm) at TBA - INNER WEST
 
-Club Balearico feat Myles Mac and DJ Possum (Naarm) at TBA - INNER WEST on Sat 31 Oct, Sydney. 2 artists on the bill: DJ Possum and Myles Mac. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+Club Balearico feat Myles Mac and DJ Possum (Naarm) at TBA - INNER WEST on Sat 31 Oct, Sydney. 2 artists: DJ Possum and Myles Mac. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

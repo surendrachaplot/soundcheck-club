@@ -1,6 +1,6 @@
 # PURGATORY: Saturday All Day with Victor Calderone, Anthony Middleton at Refuge
 
-PURGATORY: Saturday All Day with Victor Calderone, Anthony Middleton at Refuge on Sat 31 Oct, New York City. 2 artists on the bill: Anthony Middleton and Victor Calderone. Preview the line-up and save it on soundcheck.
+PURGATORY: Saturday All Day with Victor Calderone, Anthony Middleton at Refuge on Sat 31 Oct, New York City. 2 artists: Anthony Middleton and Victor Calderone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

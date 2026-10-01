@@ -1,8 +1,8 @@
 # Mija
 
-Mija is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at M7 Warehouse, Melbourne on Fri, 9 Oct 2026.
+Mija is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at M7 Warehouse, Melbourne on Fri, 9 Oct 2026.
 
-Mija is a techno and house artist based in United States of America, tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: M7 Warehouse, Melbourne on Fri 9 Oct.
+Mija is a techno and house artist based in United States of America, with 127 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 42 more. Often billed alongside Bad Boombox, Mischluft and Janis Zielinski. Next up: M7 Warehouse, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Mija is a techno and house artist based in United States of America, tracked on 
 
 ## Recently played
 
-- Hangaren, Copenhagen — Fri, 11 Sept 2026
-- Hall, Tallinn — Fri, 4 Sept 2026
-- Virage, Paris — Fri, 28 Aug 2026
-- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna — Fri, 31 Jul 2026
-- Mondo, Madrid — Thu, 30 Jul 2026
-- Spook Club, Valencia — Sat, 25 Jul 2026
-- Else, Berlin — Sat, 18 Jul 2026
-- MS RheinMagie, Cologne — Sun, 12 Jul 2026
+- Hangaren, Copenhagen · Fri, 11 Sept 2026
+- Hall, Tallinn · Fri, 4 Sept 2026
+- Virage, Paris · Fri, 28 Aug 2026
+- TBA - Paradies Garten Festival - Schloß Prugg 2, 2460 Gemeinde Bruck an der Leitha, Vienna · Fri, 31 Jul 2026
+- Mondo, Madrid · Thu, 30 Jul 2026
+- Spook Club, Valencia · Sat, 25 Jul 2026
+- Else, Berlin · Sat, 18 Jul 2026
+- MS RheinMagie, Cologne · Sun, 12 Jul 2026
 
 ## Shares bills with
 

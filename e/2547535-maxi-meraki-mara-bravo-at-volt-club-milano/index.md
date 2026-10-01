@@ -1,6 +1,6 @@
 # Maxi Meraki + MARA BRAVO at Volt Club Milano
 
-Maxi Meraki + MARA BRAVO at Volt Club Milano on Fri 23 Oct, Milan. 2 artists on the bill: MARA BRAVO and Maxi Meraki. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Maxi Meraki + MARA BRAVO at Volt Club Milano on Fri 23 Oct, Milan. 2 artists: MARA BRAVO and Maxi Meraki. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

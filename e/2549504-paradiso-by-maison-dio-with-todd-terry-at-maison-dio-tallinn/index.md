@@ -1,6 +1,6 @@
 # PARADISO by Maison Dio with Todd Terry at Maison Dio Tallinn
 
-PARADISO by Maison Dio with Todd Terry at Maison Dio Tallinn on Fri 16 Oct, Tallinn. 3 artists on the bill: DJ Quest, Janika Tenn and Todd Terry. House and Disco. Preview the line-up and save it on soundcheck.
+PARADISO by Maison Dio with Todd Terry at Maison Dio Tallinn on Fri 16 Oct, Tallinn. 3 artists: DJ Quest, Janika Tenn and Todd Terry. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MAZ + KEKURA at Volt Club Milano
 
-MAZ + KEKURA at Volt Club Milano on Fri 30 Oct, Milan. 2 artists on the bill: KEKURA and Maz (BR). Techno and Tech House. Preview the line-up and save it on soundcheck.
+MAZ + KEKURA at Volt Club Milano on Fri 30 Oct, Milan. 2 artists: KEKURA and Maz (BR). Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

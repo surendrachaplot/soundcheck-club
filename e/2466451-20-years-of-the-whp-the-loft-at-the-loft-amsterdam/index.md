@@ -1,6 +1,6 @@
 # 20 Years Of The WHP - The Loft at The Loft Amsterdam
 
-20 Years Of The WHP - The Loft at The Loft Amsterdam on Thu 22 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+20 Years Of The WHP - The Loft at The Loft Amsterdam on Thu 22 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

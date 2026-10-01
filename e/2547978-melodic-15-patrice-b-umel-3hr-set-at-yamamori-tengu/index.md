@@ -1,6 +1,6 @@
 # Melodic 15: Patrice Bäumel (3hr Set) at Yamamori Tengu
 
-Melodic 15: Patrice Bäumel (3hr Set) at Yamamori Tengu on Fri 11 Dec, Dublin. 1 artist on the bill: Patrice Bäumel. Progressive House and Deep House. Preview the line-up and save it on soundcheck.
+Melodic 15: Patrice Bäumel (3hr Set) at Yamamori Tengu on Fri 11 Dec, Dublin. 1 artist: Patrice Bäumel. Progressive House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

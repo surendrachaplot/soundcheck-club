@@ -1,6 +1,6 @@
 # Final Girl: A Sexy Slasher Party at Val’s Lesbian Bar
 
-Final Girl: A Sexy Slasher Party at Val’s Lesbian Bar on Fri 30 Oct, Philadelphia. Electro and Club. Preview the line-up and save it on soundcheck.
+Final Girl: A Sexy Slasher Party at Val’s Lesbian Bar on Fri 30 Oct, Philadelphia. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

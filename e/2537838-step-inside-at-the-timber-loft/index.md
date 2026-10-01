@@ -1,6 +1,6 @@
 # Step Inside at The Timber Loft
 
-Step Inside at The Timber Loft on Sun 8 Nov, London. 1 artist on the bill: MUNNI. Preview the line-up and save it on soundcheck.
+Step Inside at The Timber Loft on Sun 8 Nov, London. 1 artist: MUNNI. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

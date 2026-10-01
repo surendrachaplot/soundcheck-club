@@ -1,8 +1,8 @@
 # ESC Atelier
 
-ESC Atelier is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Nubes @Esc w/ Able Noise (live)" on Sat, 17 Oct 2026.
+ESC Atelier is a music venue in Rome with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Nubes @Esc w/ Able Noise (live)" on Sat, 17 Oct 2026.
 
-ESC Atelier is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Able Noise. Browse upcoming dates, start times and who's playing.
+ESC Atelier is a music venue in Rome listed on soundcheck. 1 upcoming gig, with line-ups including Able Noise. See dates, start times and who's playing.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # VINYL TECHNO ON A TOKYO ROOFTOP at Yodo Groove (Yodobashi Ikebukuro)
 
-VINYL TECHNO ON A TOKYO ROOFTOP at Yodo Groove (Yodobashi Ikebukuro) on Sat 3 Oct, Tokyo. Techno. Preview the line-up and save it on soundcheck.
+VINYL TECHNO ON A TOKYO ROOFTOP at Yodo Groove (Yodobashi Ikebukuro) on Sat 3 Oct, Tokyo. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

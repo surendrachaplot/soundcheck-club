@@ -1,6 +1,6 @@
 # BODY ELECTRIC at OXI
 
-BODY ELECTRIC at OXI on Fri 20 Nov, Berlin. Techno and House. Preview the line-up and save it on soundcheck.
+BODY ELECTRIC at OXI on Fri 20 Nov, Berlin. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Pegassi at It'll Do
 
-Pegassi at It'll Do on Sat 7 Nov, Dallas Fort Worth. 1 artist on the bill: Pegassi. Preview the line-up and save it on soundcheck.
+Pegassi at It'll Do on Sat 7 Nov, Dallas Fort Worth. 1 artist: Pegassi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

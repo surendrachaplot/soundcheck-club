@@ -1,8 +1,8 @@
 # noRecall
 
-noRecall is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Share Date of Event, Seattle on Fri, 2 Oct 2026.
+noRecall is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Share Date of Event, Seattle on Fri, 2 Oct 2026.
 
-noRecall is a techno and bass artist based in United States of America, tracked on soundcheck, with 28 sets logged across New York City, Portland, San Francisco/Oakland and Seattle. Often billed alongside Ross Lowder, Hünter and Jason Code. Next up: TBA - Share Date of Event, Seattle on Fri 2 Oct.
+noRecall is a techno and bass artist based in United States of America, with 28 gigs on soundcheck across New York City, Portland, San Francisco/Oakland and Seattle. Often billed alongside Ross Lowder, Hünter and Jason Code. Next up: TBA - Share Date of Event, Seattle on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ noRecall is a techno and bass artist based in United States of America, tracked 
 
 ## Recently played
 
-- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
-- Mood Ring, New York City — Sat, 2 May 2026
-- TBA - Seattle. Announced to Ticketholders Day Of, Seattle — Fri, 13 Mar 2026
-- Substation, Seattle — Sat, 7 Mar 2026
-- TBA - SECRET LOCATION, Seattle — Sat, 28 Feb 2026
-- TBA - TICKET REQUEST LINK + INFO SENT OVER EMAIL AFTER RSVPING, Seattle — Sat, 22 Nov 2025
-- Substation, Seattle — Sat, 15 Nov 2025
-- Kremwerk-Timbre Room-Cherry Complex, Seattle — Sat, 11 Oct 2025
+- TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
+- Mood Ring, New York City · Sat, 2 May 2026
+- TBA - Seattle. Announced to Ticketholders Day Of, Seattle · Fri, 13 Mar 2026
+- Substation, Seattle · Sat, 7 Mar 2026
+- TBA - SECRET LOCATION, Seattle · Sat, 28 Feb 2026
+- TBA - TICKET REQUEST LINK + INFO SENT OVER EMAIL AFTER RSVPING, Seattle · Sat, 22 Nov 2025
+- Substation, Seattle · Sat, 15 Nov 2025
+- Kremwerk-Timbre Room-Cherry Complex, Seattle · Sat, 11 Oct 2025
 
 ## Shares bills with
 

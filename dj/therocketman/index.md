@@ -1,8 +1,8 @@
 # The Rocketman
 
-The Rocketman is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at SWG3, Glasgow on Fri, 9 Oct 2026.
+The Rocketman is a Techno and Trance artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SWG3, Glasgow on Fri, 9 Oct 2026.
 
-The Rocketman is a techno and trance artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Amsterdam, Bangkok, Belfast and Berlin and 20 more. Often billed alongside Maddix, Hannah Laing and Amber Broos. Next up: SWG3, Glasgow on Fri 9 Oct.
+The Rocketman is a techno and trance artist based in Netherlands, with 40 gigs on soundcheck across Amsterdam, Bangkok, Belfast and Berlin and 20 more. Often billed alongside Maddix, Hannah Laing and Amber Broos. Next up: SWG3, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ The Rocketman is a techno and trance artist based in Netherlands, tracked on sou
 
 ## Recently played
 
-- 02 Victoria Warehouse, Manchester — Sat, 26 Sept 2026
-- Boucher Road Fields, Belfast — Sat, 29 Aug 2026
-- The Telegraph Building, Belfast — Sat, 29 Aug 2026
-- OST, Berlin — Sat, 15 Aug 2026
-- Straße des 17. Juni, Berlin — Sat, 15 Aug 2026
-- Bootshaus, Cologne — Fri, 24 Jul 2026
-- Exhibition Park, Newcastle — Sat, 11 Jul 2026
-- Camperdown Country Park, Dundee — Sat, 4 Jul 2026
+- 02 Victoria Warehouse, Manchester · Sat, 26 Sept 2026
+- Boucher Road Fields, Belfast · Sat, 29 Aug 2026
+- The Telegraph Building, Belfast · Sat, 29 Aug 2026
+- OST, Berlin · Sat, 15 Aug 2026
+- Straße des 17. Juni, Berlin · Sat, 15 Aug 2026
+- Bootshaus, Cologne · Fri, 24 Jul 2026
+- Exhibition Park, Newcastle · Sat, 11 Jul 2026
+- Camperdown Country Park, Dundee · Sat, 4 Jul 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Mia Koden
 
-Mia Koden is a Bass and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Mia Koden is a Bass and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Mia Koden is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
+Mia Koden is a bass and techno artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Skee Mask, DjRUM and Mala. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ Mia Koden is a bass and techno artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- The Cause, London — Sat, 12 Sept 2026
-- The White Hotel, Manchester — Sat, 5 Sept 2026
-- Société des arts technologiques, Montreal — Fri, 28 Aug 2026
-- Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
-- Parc des Etangs/Vijverspark, Brussels — Fri, 14 Aug 2026
-- RSO.BERLIN, Berlin — Sat, 8 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
-- Garage Noord, Amsterdam — Sat, 1 Aug 2026
+- The Cause, London · Sat, 12 Sept 2026
+- The White Hotel, Manchester · Sat, 5 Sept 2026
+- Société des arts technologiques, Montreal · Fri, 28 Aug 2026
+- Quartier Des Spectacles, Montreal · Tue, 25 Aug 2026
+- Parc des Etangs/Vijverspark, Brussels · Fri, 14 Aug 2026
+- RSO.BERLIN, Berlin · Sat, 8 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
+- Garage Noord, Amsterdam · Sat, 1 Aug 2026
 
 ## Shares bills with
 

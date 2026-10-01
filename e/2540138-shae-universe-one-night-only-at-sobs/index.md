@@ -1,6 +1,6 @@
 # Shae Universe: One Night Only at SOBs
 
-Shae Universe: One Night Only at SOBs on Wed 7 Oct, New York City. R&B. Preview the line-up and save it on soundcheck.
+Shae Universe: One Night Only at SOBs on Wed 7 Oct, New York City. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

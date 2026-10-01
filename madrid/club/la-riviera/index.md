@@ -1,8 +1,8 @@
 # La Riviera
 
-La Riviera is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Max Cooper" on Sun, 8 Nov 2026.
+La Riviera is a music venue in Madrid with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Max Cooper" on Sun, 8 Nov 2026.
 
-La Riviera is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Camo & Krooked, Daxta, Gabriella Bongo and Max Cooper and 2 more. Browse upcoming dates, start times and who's playing. Paseo de la Virgen del Puerto, Madrid, España.
+La Riviera is a music venue in Madrid listed on soundcheck. 3 upcoming gigs, with line-ups including Camo & Krooked, Daxta, Gabriella Bongo and Max Cooper and 2 more. See dates, start times and who's playing. Paseo de la Virgen del Puerto, Madrid, España.
 
 ## What's on
 

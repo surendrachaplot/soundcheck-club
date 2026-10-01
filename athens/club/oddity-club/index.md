@@ -1,8 +1,8 @@
 # Oddity Club
 
-Oddity Club is a music venue in Athens with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Blend Opening with RØDHÅD" on Sat, 3 Oct 2026.
+Oddity Club is a music venue in Athens with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Blend Opening with RØDHÅD" on Sat, 3 Oct 2026.
 
-Oddity Club is a music venue in Athens listed on soundcheck. 6 upcoming gigs, with line-ups including 1morning, Aida Arko, Alisa Murphy and Blame The Mono and 2 more. Browse upcoming dates, start times and who's playing. Iraklidon 61, Athina 118 54.
+Oddity Club is a music venue in Athens listed on soundcheck. 6 upcoming gigs, with line-ups including 1morning, Aida Arko, Alisa Murphy and Blame The Mono and 2 more. See dates, start times and who's playing. Iraklidon 61, Athina 118 54.
 
 ## What's on
 

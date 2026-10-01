@@ -1,8 +1,8 @@
 # Copyhouse
 
-Copyhouse is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RAJTAEVEE 3" on Sun, 11 Oct 2026.
+Copyhouse is a music venue in Osaka with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RAJTAEVEE 3" on Sun, 11 Oct 2026.
 
-Copyhouse is a music venue in Osaka listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing.
+Copyhouse is a music venue in Osaka listed on soundcheck. 3 upcoming gigs. See dates, start times and who's playing.
 
 ## What's on
 

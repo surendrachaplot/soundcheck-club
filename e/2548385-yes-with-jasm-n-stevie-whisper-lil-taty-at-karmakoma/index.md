@@ -1,6 +1,6 @@
 # Yes with Jasmín, Stevie Whisper, Lil Taty at Karmakoma
 
-Yes with Jasmín, Stevie Whisper, Lil Taty at Karmakoma on Sat 17 Oct, Belgrade. 3 artists on the bill: Jasmín, Lil Taty and Stevie Whisper. Preview the line-up and save it on soundcheck.
+Yes with Jasmín, Stevie Whisper, Lil Taty at Karmakoma on Sat 17 Oct, Belgrade. 3 artists: Jasmín, Lil Taty and Stevie Whisper. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

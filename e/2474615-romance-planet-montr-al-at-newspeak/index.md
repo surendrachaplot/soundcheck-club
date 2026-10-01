@@ -1,6 +1,6 @@
 # Romance Planet - Montréal at Newspeak
 
-Romance Planet - Montréal at Newspeak on Fri 9 Oct, Montreal. Hardcore and Electro. Preview the line-up and save it on soundcheck.
+Romance Planet - Montréal at Newspeak on Fri 9 Oct, Montreal. Hardcore and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

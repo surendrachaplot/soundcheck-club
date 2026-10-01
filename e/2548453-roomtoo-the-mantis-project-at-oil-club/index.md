@@ -1,6 +1,6 @@
 # [ROOMTOO] The Mantis Project at OIL Club
 
-[ROOMTOO] The Mantis Project at OIL Club on Sat 3 Oct, Shenzhen. Techno. Preview the line-up and save it on soundcheck.
+[ROOMTOO] The Mantis Project at OIL Club on Sat 3 Oct, Shenzhen. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

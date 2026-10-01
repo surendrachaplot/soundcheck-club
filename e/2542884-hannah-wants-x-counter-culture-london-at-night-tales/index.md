@@ -1,6 +1,6 @@
 # Hannah Wants x counter culture - London at Night Tales
 
-Hannah Wants x counter culture - London at Night Tales on Sat 5 Dec, London. 1 artist on the bill: Hannah Wants. House and Disco. Preview the line-up and save it on soundcheck.
+Hannah Wants x counter culture - London at Night Tales on Sat 5 Dec, London. 1 artist: Hannah Wants. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

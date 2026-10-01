@@ -1,6 +1,6 @@
 # NO SKIPS: HIPHOP & R&B NIGHT (SUNDAY NIGHT) - BLAKITO at Big Pink
 
-NO SKIPS: HIPHOP & R&B NIGHT (SUNDAY NIGHT) - BLAKITO at Big Pink on Sun 4 Oct, Detroit. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+NO SKIPS: HIPHOP & R&B NIGHT (SUNDAY NIGHT) - BLAKITO at Big Pink on Sun 4 Oct, Detroit. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

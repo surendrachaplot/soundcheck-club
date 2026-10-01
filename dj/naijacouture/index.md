@@ -1,8 +1,8 @@
 # Naija Couture
 
-Naija Couture is a Club and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Paragon, New York City on Fri, 2 Oct 2026.
+Naija Couture is a Club and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Paragon, New York City on Fri, 2 Oct 2026.
 
-Naija Couture is a club and techno artist based in United States of America, tracked on soundcheck, with 35 sets logged across New York City, Philadelphia, San Francisco/Oakland and Toronto. Often billed alongside ONEELEVEN, ARCHANGEL (US) and DOLLNXTDOOR. Next up: Paragon, New York City on Fri 2 Oct.
+Naija Couture is a club and techno artist based in United States of America, with 35 gigs on soundcheck across New York City, Philadelphia, San Francisco/Oakland and Toronto. Often billed alongside ONEELEVEN, ARCHANGEL (US) and DOLLNXTDOOR. Next up: Paragon, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Naija Couture is a club and techno artist based in United States of America, tra
 
 ## Recently played
 
-- Oberon, New York City — Sat, 19 Sept 2026
-- The Flea Theater, New York City — Thu, 17 Sept 2026
-- TBA, Philadelphia — Sat, 18 Jul 2026
-- Nowadays, New York City — Sun, 28 Jun 2026
-- Mood Ring, New York City — Wed, 10 Dec 2025
-- Rash, New York City — Sat, 8 Nov 2025
-- Trans-Pecos, New York City — Sat, 20 Sept 2025
-- Bossa Nova Civic Club, New York City — Sun, 10 Aug 2025
+- Oberon, New York City · Sat, 19 Sept 2026
+- The Flea Theater, New York City · Thu, 17 Sept 2026
+- TBA, Philadelphia · Sat, 18 Jul 2026
+- Nowadays, New York City · Sun, 28 Jun 2026
+- Mood Ring, New York City · Wed, 10 Dec 2025
+- Rash, New York City · Sat, 8 Nov 2025
+- Trans-Pecos, New York City · Sat, 20 Sept 2025
+- Bossa Nova Civic Club, New York City · Sun, 10 Aug 2025
 
 ## Shares bills with
 

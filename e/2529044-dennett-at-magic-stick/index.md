@@ -1,6 +1,6 @@
 # DENNETT at Magic Stick
 
-DENNETT at Magic Stick on Sat 3 Oct, Detroit. Preview the line-up and save it on soundcheck.
+DENNETT at Magic Stick on Sat 3 Oct, Detroit. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

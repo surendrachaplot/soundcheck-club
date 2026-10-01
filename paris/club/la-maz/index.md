@@ -1,8 +1,8 @@
 # La Maz
 
-La Maz is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Muzik'G@Zer Live Sessions - Pop/Hiphop/House & More" on Sat, 3 Oct 2026.
+La Maz is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Muzik'G@Zer Live Sessions - Pop/Hiphop/House & More" on Sat, 3 Oct 2026.
 
-La Maz is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Play House. Browse upcoming dates, start times and who's playing. 9 rue de Turbigo, 75001 Paris, FRANCE.
+La Maz is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Play House. See dates, start times and who's playing. 9 rue de Turbigo, 75001 Paris, FRANCE.
 
 ## What's on
 

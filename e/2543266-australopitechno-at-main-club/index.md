@@ -1,6 +1,6 @@
 # AUSTRALOPITECHNO at Main Club
 
-AUSTRALOPITECHNO at Main Club on Sat 3 Oct, Milan. 6 artists on the bill: DEPA, Donzo, ELNA and IRVØ and 2 more. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+AUSTRALOPITECHNO at Main Club on Sat 3 Oct, Milan. 6 artists: DEPA, Donzo, ELNA and IRVØ and 2 more. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

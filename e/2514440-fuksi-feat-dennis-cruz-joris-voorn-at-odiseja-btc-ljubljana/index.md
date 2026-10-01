@@ -1,6 +1,6 @@
 # #FUKSi feat. Dennis Cruz & Joris Voorn at Odiseja BTC Ljubljana
 
-#FUKSi feat. Dennis Cruz & Joris Voorn at Odiseja BTC Ljubljana on Fri 9 Oct, Ljubljana. 3 artists on the bill: Dennis Cruz, F.Sonik and Joris Voorn. Preview the line-up and save it on soundcheck.
+#FUKSi feat. Dennis Cruz & Joris Voorn at Odiseja BTC Ljubljana on Fri 9 Oct, Ljubljana. 3 artists: Dennis Cruz, F.Sonik and Joris Voorn. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

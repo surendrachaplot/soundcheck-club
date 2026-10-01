@@ -1,6 +1,6 @@
 # KHAOTIC x DVOID presents: EXPROZ, INCULT, MYLAN WESTERS & MORE at The Classic Grand
 
-KHAOTIC x DVOID presents: EXPROZ, INCULT, MYLAN WESTERS & MORE at The Classic Grand on Sat 7 Nov, Glasgow. Techno. Preview the line-up and save it on soundcheck.
+KHAOTIC x DVOID presents: EXPROZ, INCULT, MYLAN WESTERS & MORE at The Classic Grand on Sat 7 Nov, Glasgow. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

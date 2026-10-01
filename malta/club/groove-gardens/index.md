@@ -1,8 +1,8 @@
 # Groove Gardens
 
-Groove Gardens is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "GET FUNKY - THE FINAL ROUND - SATURDAY 10TH OCTOBER" on Sat, 10 Oct 2026.
+Groove Gardens is a music venue in Malta with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "GET FUNKY - THE FINAL ROUND - SATURDAY 10TH OCTOBER" on Sat, 10 Oct 2026.
 
-Groove Gardens is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including Abdy and Miss Roberta. Browse upcoming dates, start times and who's playing. Gianpula Complex, Limits of Rabat, Rabat, RBT 5032, Malta.
+Groove Gardens is a music venue in Malta listed on soundcheck. 1 upcoming gig, with line-ups including Abdy and Miss Roberta. See dates, start times and who's playing. Gianpula Complex, Limits of Rabat, Rabat, RBT 5032, Malta.
 
 ## What's on
 

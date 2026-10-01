@@ -1,8 +1,8 @@
 # Earl Grey (2)
 
-Earl Grey (2) is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Plot 22, Sheffield on Sat, 3 Oct 2026.
+Earl Grey (2) is a Jungle and Drum & Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Plot 22, Sheffield on Sat, 3 Oct 2026.
 
-Earl Grey is a jungle and drum & bass artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across London, Manchester and Sheffield. Often billed alongside Tommy Badman, mark andrew and Bokonon. Next up: Plot 22, Sheffield on Sat 3 Oct.
+Earl Grey is a jungle and drum & bass artist based in United Kingdom, with 8 gigs on soundcheck across London, Manchester and Sheffield. Often billed alongside Tommy Badman, mark andrew and Bokonon. Next up: Plot 22, Sheffield on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,13 +12,13 @@ Earl Grey is a jungle and drum & bass artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- Southbank Warehouse, Sheffield — Sat, 8 Aug 2026
-- Southbank Warehouse, Sheffield — Sat, 23 May 2026
-- Southbank Warehouse, Sheffield — Sat, 14 Mar 2026
-- Eastern Bloc Records, Manchester — Fri, 19 Dec 2025
-- Stage and Radio, Manchester — Fri, 18 Apr 2025
-- Planet Wax, London — Sat, 9 Nov 2024
-- Eastern Bloc Records, Manchester — Sat, 20 Jan 2024
+- Southbank Warehouse, Sheffield · Sat, 8 Aug 2026
+- Southbank Warehouse, Sheffield · Sat, 23 May 2026
+- Southbank Warehouse, Sheffield · Sat, 14 Mar 2026
+- Eastern Bloc Records, Manchester · Fri, 19 Dec 2025
+- Stage and Radio, Manchester · Fri, 18 Apr 2025
+- Planet Wax, London · Sat, 9 Nov 2024
+- Eastern Bloc Records, Manchester · Sat, 20 Jan 2024
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Yrag L
 
-Yrag L is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 9 Oct 2026.
+Yrag L is a Techno and Industrial artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri, 9 Oct 2026.
 
-Yrag L is a techno and industrial artist based in Malaysia, tracked on soundcheck, with 31 sets logged across Kuala Lumpur. Often billed alongside Roobs, Ozeryeha and 96000hz. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri 9 Oct.
+Yrag L is a techno and industrial artist based in Malaysia, with 31 gigs on soundcheck across Kuala Lumpur. Often billed alongside Roobs, Ozeryeha and 96000hz. Next up: The Iron Fairies Kuala Lumpur, Kuala Lumpur on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Yrag L is a techno and industrial artist based in Malaysia, tracked on soundchec
 
 ## Recently played
 
-- TBA - Jupiter HQ, Kuala Lumpur — Sat, 25 Jul 2026
-- TBA - Yaga Bar, Kuala Lumpur — Fri, 17 Jul 2026
-- Pisco Bar, Kuala Lumpur — Tue, 26 May 2026
-- Cero' PJ, Kuala Lumpur — Fri, 17 Apr 2026
-- TBA - Yaga Bar, Kuala Lumpur — Sat, 28 Mar 2026
-- TBA - Yaga Bar, Kuala Lumpur — Sat, 14 Feb 2026
-- Marquis Lounge, Kuala Lumpur — Fri, 13 Feb 2026
-- Cero' PJ, Kuala Lumpur — Sat, 7 Feb 2026
+- TBA - Jupiter HQ, Kuala Lumpur · Sat, 25 Jul 2026
+- TBA - Yaga Bar, Kuala Lumpur · Fri, 17 Jul 2026
+- Pisco Bar, Kuala Lumpur · Tue, 26 May 2026
+- Cero' PJ, Kuala Lumpur · Fri, 17 Apr 2026
+- TBA - Yaga Bar, Kuala Lumpur · Sat, 28 Mar 2026
+- TBA - Yaga Bar, Kuala Lumpur · Sat, 14 Feb 2026
+- Marquis Lounge, Kuala Lumpur · Fri, 13 Feb 2026
+- Cero' PJ, Kuala Lumpur · Sat, 7 Feb 2026
 
 ## Shares bills with
 

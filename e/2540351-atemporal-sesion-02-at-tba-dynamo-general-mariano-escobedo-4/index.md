@@ -1,6 +1,6 @@
 # ATEMPORAL SESION 02 at TBA - DYNAMO, General Mariano Escobedo 494, Ciudad de Mexico
 
-ATEMPORAL SESION 02 at TBA - DYNAMO, General Mariano Escobedo 494, Ciudad de Mexico on Sat 3 Oct, Mexico City. Experimental and Electronica. Preview the line-up and save it on soundcheck.
+ATEMPORAL SESION 02 at TBA - DYNAMO, General Mariano Escobedo 494, Ciudad de Mexico on Sat 3 Oct, Mexico City. Experimental and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

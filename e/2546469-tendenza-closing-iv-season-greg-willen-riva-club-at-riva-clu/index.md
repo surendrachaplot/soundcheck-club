@@ -1,6 +1,6 @@
 # Tendenza closing IV season: Greg Willen - Riva Club at Riva Club
 
-Tendenza closing IV season: Greg Willen - Riva Club on Sat 10 Oct, Naples. Techno. Preview the line-up and save it on soundcheck.
+Tendenza closing IV season: Greg Willen - Riva Club on Sat 10 Oct, Naples. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

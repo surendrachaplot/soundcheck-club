@@ -1,8 +1,8 @@
 # Undr W10
 
-Undr W10 is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Collective - X" on Sat, 3 Oct 2026.
+Undr W10 is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Collective - X" on Sat, 3 Oct 2026.
 
-Undr W10 is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Caio Cenci, Nirvan, Saint Lukez and Scottie D and 1 more. Browse upcoming dates, start times and who's playing. 3 thorpe Close, London, W10 5XL.
+Undr W10 is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including Caio Cenci, Nirvan, Saint Lukez and Scottie D and 1 more. See dates, start times and who's playing. 3 thorpe Close, London, W10 5XL.
 
 ## What's on
 

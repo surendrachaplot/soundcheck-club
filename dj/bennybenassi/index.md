@@ -1,8 +1,8 @@
 # Benny Benassi
 
-Benny Benassi is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kastel, Istanbul on Fri, 9 Oct 2026.
+Benny Benassi is a House and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kastel, Istanbul on Fri, 9 Oct 2026.
 
-Benny Benassi is a house and electro artist based in Italy, tracked on soundcheck, with 45 sets logged across Boston, Chicago, Copenhagen and Cyprus and 15 more. Often billed alongside Terry, Zedd and Alok. Next up: Kastel, Istanbul on Fri 9 Oct.
+Benny Benassi is a house and electro artist based in Italy, with 45 gigs on soundcheck across Boston, Chicago, Copenhagen and Cyprus and 15 more. Often billed alongside Terry, Zedd and Alok. Next up: Kastel, Istanbul on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Benny Benassi is a house and electro artist based in Italy, tracked on soundchec
 
 ## Recently played
 
-- Etko, Cyprus — Fri, 25 Sept 2026
-- Hï Ibiza, Ibiza — Thu, 17 Sept 2026
-- Ushuaïa Ibiza, Ibiza — Thu, 3 Sept 2026
-- Cavo Paradiso, Mykonos — Sat, 22 Aug 2026
-- Cavo Paradiso, Mykonos — Sat, 18 Jul 2026
-- Stadion Legii Warszawa im. Marszałka Józefa Piłsudskiego, Warsaw — Sat, 13 Jun 2026
-- Hï Ibiza, Ibiza — Thu, 28 May 2026
-- Edge, New York City — Sat, 2 May 2026
+- Etko, Cyprus · Fri, 25 Sept 2026
+- Hï Ibiza, Ibiza · Thu, 17 Sept 2026
+- Ushuaïa Ibiza, Ibiza · Thu, 3 Sept 2026
+- Cavo Paradiso, Mykonos · Sat, 22 Aug 2026
+- Cavo Paradiso, Mykonos · Sat, 18 Jul 2026
+- Stadion Legii Warszawa im. Marszałka Józefa Piłsudskiego, Warsaw · Sat, 13 Jun 2026
+- Hï Ibiza, Ibiza · Thu, 28 May 2026
+- Edge, New York City · Sat, 2 May 2026
 
 ## Shares bills with
 

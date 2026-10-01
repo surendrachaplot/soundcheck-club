@@ -1,6 +1,6 @@
 # Five Venoms at E11EVEN at E11EVEN MIAMI
 
-Five Venoms at E11EVEN at E11EVEN MIAMI on Wed 30 Sept, Miami. Preview the line-up and save it on soundcheck.
+Five Venoms at E11EVEN at E11EVEN MIAMI on Wed 30 Sept, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

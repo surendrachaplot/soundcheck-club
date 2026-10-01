@@ -1,6 +1,6 @@
 # hot donna's Disco ( + AFTERS) at Xuxa
 
-hot donna's Disco ( + AFTERS) at Xuxa on Sat 3 Oct, Austin. 2 artists on the bill: DJ HOT DONNA and Millhouse (US). House and Disco. Preview the line-up and save it on soundcheck.
+hot donna's Disco ( + AFTERS) at Xuxa on Sat 3 Oct, Austin. 2 artists: DJ HOT DONNA and Millhouse (US). House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

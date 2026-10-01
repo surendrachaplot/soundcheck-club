@@ -1,6 +1,6 @@
 # Segment at The Waiting Room
 
-Segment at The Waiting Room on Fri 6 Nov, London. 1 artist on the bill: Shiela.. House and Minimal. Preview the line-up and save it on soundcheck.
+Segment at The Waiting Room on Fri 6 Nov, London. 1 artist: Shiela.. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

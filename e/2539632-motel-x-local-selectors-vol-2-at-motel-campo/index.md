@@ -1,6 +1,6 @@
 # Motel x Local Selectors vol.2 at Motel Campo
 
-Motel x Local Selectors vol.2 at Motel Campo on Sat 3 Oct, Geneva. Techno. Preview the line-up and save it on soundcheck.
+Motel x Local Selectors vol.2 at Motel Campo on Sat 3 Oct, Geneva. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

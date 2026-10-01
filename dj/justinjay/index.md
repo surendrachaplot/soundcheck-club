@@ -1,8 +1,8 @@
 # Justin Jay
 
-Justin Jay is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Terrrazza, Barcelona on Thu, 15 Oct 2026.
+Justin Jay is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Thu, 15 Oct 2026.
 
-Justin Jay is a house and techno artist based in United States of America, tracked on soundcheck, with 77 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 27 more. Often billed alongside Bad Boombox, Janis Zielinski and Mija. Next up: La Terrrazza, Barcelona on Thu 15 Oct.
+Justin Jay is a house and techno artist based in United States of America, with 77 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 27 more. Often billed alongside Bad Boombox, Janis Zielinski and Mija. Next up: La Terrrazza, Barcelona on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Justin Jay is a house and techno artist based in United States of America, track
 
 ## Recently played
 
-- Grelle Forelle, Vienna — Sat, 12 Sept 2026
-- Sacré, Paris — Fri, 11 Sept 2026
-- Lieberscholli, Munich — Sun, 23 Aug 2026
-- The Berkeley Suite, Glasgow — Sat, 27 Jun 2026
-- Strijkviertel, Utrecht — Sat, 6 Jun 2026
-- La Java, Paris — Sat, 30 May 2026
-- Südpol, Hamburg — Fri, 24 Apr 2026
-- Antwerp Expo, Antwerp — Sat, 18 Apr 2026
+- Grelle Forelle, Vienna · Sat, 12 Sept 2026
+- Sacré, Paris · Fri, 11 Sept 2026
+- Lieberscholli, Munich · Sun, 23 Aug 2026
+- The Berkeley Suite, Glasgow · Sat, 27 Jun 2026
+- Strijkviertel, Utrecht · Sat, 6 Jun 2026
+- La Java, Paris · Sat, 30 May 2026
+- Südpol, Hamburg · Fri, 24 Apr 2026
+- Antwerp Expo, Antwerp · Sat, 18 Apr 2026
 
 ## Shares bills with
 

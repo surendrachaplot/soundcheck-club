@@ -1,6 +1,6 @@
 # Unsound Warszawa 2026: FUR - VTSS / Bobby Beethoven / Emma DJ b2b Low Jack / Some Guest + more at Jasna 1
 
-Unsound Warszawa 2026: FUR - VTSS / Bobby Beethoven / Emma DJ b2b Low Jack / Some Guest + more at Jasna 1 on Sat 3 Oct, Warsaw. 6 artists on the bill: blastah, Emma DJ, jul.ci and Low Jack and 2 more. Preview the line-up and save it on soundcheck.
+Unsound Warszawa 2026: FUR - VTSS / Bobby Beethoven / Emma DJ b2b Low Jack / Some Guest + more at Jasna 1 on Sat 3 Oct, Warsaw. 6 artists: blastah, Emma DJ, jul.ci and Low Jack and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

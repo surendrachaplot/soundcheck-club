@@ -1,6 +1,6 @@
 # Night Tales: A Very Free Halloween Day Party at Night Tales
 
-Night Tales: A Very Free Halloween Day Party on Sat 31 Oct, London. House and Disco. Preview the line-up and save it on soundcheck.
+Night Tales: A Very Free Halloween Day Party on Sat 31 Oct, London. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

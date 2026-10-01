@@ -1,6 +1,6 @@
 # A return to the elements Miami Art Week at TBA - Miami
 
-A return to the elements Miami Art Week at TBA - Miami on Sat 28 Nov, Miami. Preview the line-up and save it on soundcheck.
+A return to the elements Miami Art Week at TBA - Miami on Sat 28 Nov, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

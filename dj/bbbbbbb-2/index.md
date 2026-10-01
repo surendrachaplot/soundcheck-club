@@ -1,8 +1,8 @@
 # BbbBbBB (2)
 
-BbbBbBB (2) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at public records, New York City on Fri, 2 Oct 2026.
+BbbBbBB (2) is a Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at public records, New York City on Fri, 2 Oct 2026.
 
-BbbBbBB is a techno artist based in United States of America, tracked on soundcheck, with 7 sets logged across New York City. Often billed alongside AZA, Callie Reiff and Cosmo. Next up: public records, New York City on Fri 2 Oct.
+BbbBbBB is a techno artist based in United States of America, with 7 gigs on soundcheck across New York City. Often billed alongside AZA, Callie Reiff and Cosmo. Next up: public records, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ BbbBbBB is a techno artist based in United States of America, tracked on soundch
 
 ## Recently played
 
-- public records, New York City — Thu, 12 Feb 2026
-- Honey's, New York City — Sat, 23 Aug 2025
-- Jupiter Disco, New York City — Fri, 15 Aug 2025
-- Jupiter Disco, New York City — Sat, 19 Jul 2025
-- Jupiter Disco, New York City — Thu, 26 Jun 2025
+- public records, New York City · Thu, 12 Feb 2026
+- Honey's, New York City · Sat, 23 Aug 2025
+- Jupiter Disco, New York City · Fri, 15 Aug 2025
+- Jupiter Disco, New York City · Sat, 19 Jul 2025
+- Jupiter Disco, New York City · Thu, 26 Jun 2025
 
 ## Shares bills with
 

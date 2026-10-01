@@ -1,6 +1,6 @@
 # BARDO at BARDO
 
-BARDO on Sat 17 Oct, Milan. 1 artist on the bill: Enrica Falqui. Techno and Electronica. Preview the line-up and save it on soundcheck.
+BARDO on Sat 17 Oct, Milan. 1 artist: Enrica Falqui. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

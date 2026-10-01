@@ -1,6 +1,6 @@
 # Chant Down Babylon at Bangkok Island
 
-Chant Down Babylon at Bangkok Island on Fri 9 Oct, Bangkok. Techno and Reggaeton. Preview the line-up and save it on soundcheck.
+Chant Down Babylon at Bangkok Island on Fri 9 Oct, Bangkok. Techno and Reggaeton. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

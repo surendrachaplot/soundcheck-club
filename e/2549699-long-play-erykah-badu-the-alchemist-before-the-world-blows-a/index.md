@@ -1,6 +1,6 @@
 # Long Play: Erykah Badu & The Alchemist - Before The World Blows at Koda
 
-Long Play: Erykah Badu & The Alchemist - Before The World Blows at Koda on Fri 9 Oct, Rotterdam. Hip-Hop and Experimental. Preview the line-up and save it on soundcheck.
+Long Play: Erykah Badu & The Alchemist - Before The World Blows at Koda on Fri 9 Oct, Rotterdam. Hip-Hop and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

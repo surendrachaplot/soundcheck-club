@@ -1,6 +1,6 @@
 # Niche Productions present: Tour-Maubourg at Civic Underground
 
-Niche Productions present: Tour-Maubourg at Civic Underground on Fri 16 Oct, Sydney. 1 artist on the bill: Tour-Maubourg. House and Deep House. Preview the line-up and save it on soundcheck.
+Niche Productions present: Tour-Maubourg at Civic Underground on Fri 16 Oct, Sydney. 1 artist: Tour-Maubourg. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

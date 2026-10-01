@@ -1,6 +1,6 @@
 # Sunday Night Service at Margolis Music Lounge
 
-Sunday Night Service at Margolis Music Lounge on Sat 3 Oct, Philadelphia. 1 artist on the bill: Gianni Lee. Preview the line-up and save it on soundcheck.
+Sunday Night Service at Margolis Music Lounge on Sat 3 Oct, Philadelphia. 1 artist: Gianni Lee. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # present Tense at Eastern Bloc Records
 
-present Tense at Eastern Bloc Records on Fri 30 Oct, Manchester. 2 artists on the bill: Amy Amor and Benedict. House. Preview the line-up and save it on soundcheck.
+present Tense at Eastern Bloc Records on Fri 30 Oct, Manchester. 2 artists: Amy Amor and Benedict. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

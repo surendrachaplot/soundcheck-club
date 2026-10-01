@@ -1,8 +1,8 @@
 # Ronaldo
 
-Ronaldo is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Dead Letter No. 9, New York City on Fri, 30 Oct 2026.
+Ronaldo is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dead Letter No. 9, New York City on Fri, 30 Oct 2026.
 
-Ronaldo is a house and techno artist based in Mexico, tracked on soundcheck, with 28 sets logged across Austin, Berlin, Houston and London and 3 more. Often billed alongside KAITO, Adrian Hex and Armii1n. Next up: Dead Letter No. 9, New York City on Fri 30 Oct.
+Ronaldo is a house and techno artist based in Mexico, with 28 gigs on soundcheck across Austin, Berlin, Houston and London and 3 more. Often billed alongside KAITO, Adrian Hex and Armii1n. Next up: Dead Letter No. 9, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Ronaldo is a house and techno artist based in Mexico, tracked on soundcheck, wit
 
 ## Recently played
 
-- Apollo Studio, New York City — Fri, 5 Jun 2026
-- Jupiter Disco, New York City — Fri, 8 May 2026
-- berlinClub, Madrid — Fri, 24 Apr 2026
-- Studio1111, Berlin — Fri, 17 Apr 2026
-- TBA - Soho Loft, New York City — Sat, 28 Mar 2026
-- Jupiter Disco, New York City — Fri, 27 Mar 2026
-- The Chocolate Factory, New York City — Sat, 7 Mar 2026
-- Relink:Data, Mexico City — Sun, 8 Feb 2026
+- Apollo Studio, New York City · Fri, 5 Jun 2026
+- Jupiter Disco, New York City · Fri, 8 May 2026
+- berlinClub, Madrid · Fri, 24 Apr 2026
+- Studio1111, Berlin · Fri, 17 Apr 2026
+- TBA - Soho Loft, New York City · Sat, 28 Mar 2026
+- Jupiter Disco, New York City · Fri, 27 Mar 2026
+- The Chocolate Factory, New York City · Sat, 7 Mar 2026
+- Relink:Data, Mexico City · Sun, 8 Feb 2026
 
 ## Shares bills with
 

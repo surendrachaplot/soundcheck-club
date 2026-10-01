@@ -1,6 +1,6 @@
 # Blotski Beat: Robodrum, Pawel Blot, DeKoszula, Badalian at Sekta Selekta
 
-Blotski Beat: Robodrum, Pawel Blot, DeKoszula, Badalian at Sekta Selekta on Sat 3 Oct, Krakow. 2 artists on the bill: Badalian and Pawel Blot. Electro and Acid. Preview the line-up and save it on soundcheck.
+Blotski Beat: Robodrum, Pawel Blot, DeKoszula, Badalian at Sekta Selekta on Sat 3 Oct, Krakow. 2 artists: Badalian and Pawel Blot. Electro and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

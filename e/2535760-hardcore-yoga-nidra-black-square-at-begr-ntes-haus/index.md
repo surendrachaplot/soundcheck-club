@@ -1,6 +1,6 @@
 # Hardcore Yoga Nidra — Black Square at Begrüntes Haus
 
-Hardcore Yoga Nidra — Black Square at Begrüntes Haus on Sat 3 Oct, Bangkok. Experimental and Drone. Preview the line-up and save it on soundcheck.
+Hardcore Yoga Nidra — Black Square at Begrüntes Haus on Sat 3 Oct, Bangkok. Experimental and Drone. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # RAVING CHARLIE: Hard Techno / Rave w/ HRTLESS ANGL / STYC / KRØVØ / CITØ at nachbar
 
-RAVING CHARLIE: Hard Techno / Rave w/ HRTLESS ANGL / STYC / KRØVØ / CITØ at nachbar on Wed 14 Oct, Amsterdam. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+RAVING CHARLIE: Hard Techno / Rave w/ HRTLESS ANGL / STYC / KRØVØ / CITØ at nachbar on Wed 14 Oct, Amsterdam. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

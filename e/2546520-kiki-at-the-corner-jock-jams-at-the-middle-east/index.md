@@ -1,6 +1,6 @@
 # KiKi at the Corner: JOCK JAMS at The Middle East
 
-KiKi at the Corner: JOCK JAMS at The Middle East on Fri 2 Oct, Boston. 1 artist on the bill: DJ DONUTS - Boston, Ma. House and Disco. Preview the line-up and save it on soundcheck.
+KiKi at the Corner: JOCK JAMS at The Middle East on Fri 2 Oct, Boston. 1 artist: DJ DONUTS - Boston, Ma. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

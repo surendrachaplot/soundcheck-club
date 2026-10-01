@@ -1,6 +1,6 @@
 # via at Shibuya Oiran
 
-via at Shibuya Oiran on Fri 30 Oct, Tokyo. 1 artist on the bill: Kajitsu. House and Broken Beat. Preview the line-up and save it on soundcheck.
+via at Shibuya Oiran on Fri 30 Oct, Tokyo. 1 artist: Kajitsu. House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

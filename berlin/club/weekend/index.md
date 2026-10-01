@@ -1,8 +1,8 @@
 # Weekend
 
-Weekend is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "PROPAGANDA – 20TH ANNIVERSARY" on Sat, 3 Oct 2026.
+Weekend is a music venue in Berlin with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "PROPAGANDA – 20TH ANNIVERSARY" on Sat, 3 Oct 2026.
 
-Weekend is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including A.M.R, Alex Gallus, Anna Belove and BOHO and 2 more. Browse upcoming dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
+Weekend is a music venue in Berlin listed on soundcheck. 13 upcoming gigs, with line-ups including A.M.R, Alex Gallus, Anna Belove and BOHO and 2 more. See dates, start times and who's playing. Alexanderstrasse 7; Mitte; 10178 Berlin; Germany.
 
 ## What's on
 

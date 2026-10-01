@@ -1,6 +1,6 @@
 # Apollo Music Cafe: Jane Handcock at The Apollo Theater
 
-Apollo Music Cafe: Jane Handcock at The Apollo Theater on Fri 13 Nov, New York City. Funk / Soul and R&B. Preview the line-up and save it on soundcheck.
+Apollo Music Cafe: Jane Handcock at The Apollo Theater on Fri 13 Nov, New York City. Funk / Soul and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

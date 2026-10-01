@@ -1,6 +1,6 @@
 # Karol G Afterparty at LIV Nightclub Miami
 
-Karol G Afterparty at LIV Nightclub Miami on Sat 3 Oct, Miami. Preview the line-up and save it on soundcheck.
+Karol G Afterparty at LIV Nightclub Miami on Sat 3 Oct, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

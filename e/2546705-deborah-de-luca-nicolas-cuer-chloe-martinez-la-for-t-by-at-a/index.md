@@ -1,6 +1,6 @@
 # Deborah De Luca · Nicolas Cuer · Chloe Martinez · La Forêt & ØBY at Audio Club
 
-Deborah De Luca · Nicolas Cuer · Chloe Martinez · La Forêt & ØBY at Audio Club on Sat 31 Oct, Geneva. 4 artists on the bill: Chloe Martinez, Deborah De Luca, La Forêt and Nicolas Cuer. Preview the line-up and save it on soundcheck.
+Deborah De Luca · Nicolas Cuer · Chloe Martinez · La Forêt & ØBY at Audio Club on Sat 31 Oct, Geneva. 4 artists: Chloe Martinez, Deborah De Luca, La Forêt and Nicolas Cuer. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # MASSA (JP)
 
-MASSA (JP) is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at WOMB, Tokyo on Thu, 5 Nov 2026.
+MASSA (JP) is a Minimal and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at WOMB, Tokyo on Thu, 5 Nov 2026.
 
-MASSA (JP) is a minimal and house artist based in Japan, tracked on soundcheck, with 22 sets logged across New York City, Seoul and Tokyo. Often billed alongside Junya, 135 and Yos.. Next up: WOMB, Tokyo on Thu 5 Nov.
+MASSA (JP) is a minimal and house artist based in Japan, with 22 gigs on soundcheck across New York City, Seoul and Tokyo. Often billed alongside Junya, 135 and Yos.. Next up: WOMB, Tokyo on Thu 5 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MASSA (JP) is a minimal and house artist based in Japan, tracked on soundcheck, 
 
 ## Recently played
 
-- Numm, Tokyo — Mon, 29 Jun 2026
-- teller, Seoul — Sat, 27 Jun 2026
-- Daikanyama ORD., Tokyo — Fri, 22 May 2026
-- Numm, Tokyo — Sun, 29 Mar 2026
-- Kagurane, Tokyo — Fri, 19 Dec 2025
-- VENT, Tokyo — Sat, 13 Sept 2025
-- Aoyama Hachi, Tokyo — Fri, 29 Aug 2025
-- Bonobo, Tokyo — Sat, 2 Aug 2025
+- Numm, Tokyo · Mon, 29 Jun 2026
+- teller, Seoul · Sat, 27 Jun 2026
+- Daikanyama ORD., Tokyo · Fri, 22 May 2026
+- Numm, Tokyo · Sun, 29 Mar 2026
+- Kagurane, Tokyo · Fri, 19 Dec 2025
+- VENT, Tokyo · Sat, 13 Sept 2025
+- Aoyama Hachi, Tokyo · Fri, 29 Aug 2025
+- Bonobo, Tokyo · Sat, 2 Aug 2025
 
 ## Shares bills with
 

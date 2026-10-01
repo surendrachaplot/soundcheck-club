@@ -1,6 +1,6 @@
 # RADION Invites YUVA at RADION
 
-RADION Invites YUVA on Fri 9 Oct, Amsterdam. 4 artists on the bill: akcel, Anabel Arroyo, DHÆÜR and Rosati. Techno. Preview the line-up and save it on soundcheck.
+RADION Invites YUVA on Fri 9 Oct, Amsterdam. 4 artists: akcel, Anabel Arroyo, DHÆÜR and Rosati. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

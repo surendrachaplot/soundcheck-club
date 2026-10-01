@@ -1,6 +1,6 @@
 # B-SIDE BABES at Ridley Road Market Bar
 
-B-SIDE BABES at Ridley Road Market Bar on Tue 13 Oct, London. New Wave and Post-Punk. Preview the line-up and save it on soundcheck.
+B-SIDE BABES at Ridley Road Market Bar on Tue 13 Oct, London. New Wave and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

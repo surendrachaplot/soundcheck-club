@@ -1,6 +1,6 @@
 # Baltra at Smoke & Mirrors
 
-Baltra at Smoke & Mirrors on Sat 24 Oct, Chicago. 2 artists on the bill: Baltra and KEEFE. House. Preview the line-up and save it on soundcheck.
+Baltra at Smoke & Mirrors on Sat 24 Oct, Chicago. 2 artists: Baltra and KEEFE. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

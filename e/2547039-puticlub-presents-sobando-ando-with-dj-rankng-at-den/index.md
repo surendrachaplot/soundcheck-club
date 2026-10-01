@@ -1,6 +1,6 @@
 # Puticlub presents SOBANDO ANDO with Dj Rankng at ÆDEN
 
-Puticlub presents SOBANDO ANDO with Dj Rankng at ÆDEN on Sat 17 Oct, Berlin. 4 artists on the bill: Dj Rankng, Isa GT, Lazy Rosario and maríajosé. Reggaeton and Guaracha. Preview the line-up and save it on soundcheck.
+Puticlub presents SOBANDO ANDO with Dj Rankng at ÆDEN on Sat 17 Oct, Berlin. 4 artists: Dj Rankng, Isa GT, Lazy Rosario and maríajosé. Reggaeton and Guaracha. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

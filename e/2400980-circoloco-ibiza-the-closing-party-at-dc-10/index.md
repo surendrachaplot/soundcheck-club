@@ -1,6 +1,6 @@
 # CircoLoco Ibiza - The Closing Party at DC-10
 
-CircoLoco Ibiza - The Closing Party at DC-10 on Mon 12 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+CircoLoco Ibiza - The Closing Party at DC-10 on Mon 12 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

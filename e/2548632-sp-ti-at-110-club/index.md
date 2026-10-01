@@ -1,6 +1,6 @@
 # SPÄTI at 110.Club
 
-SPÄTI at 110.Club on Sat 10 Oct, Lyon. Techno. Preview the line-up and save it on soundcheck.
+SPÄTI at 110.Club on Sat 10 Oct, Lyon. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

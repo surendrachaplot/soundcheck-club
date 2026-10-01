@@ -1,6 +1,6 @@
 # Mosimann at Zénith Paris - La Villette
 
-Mosimann at Zénith Paris - La Villette on Sun 18 Oct, Paris. 1 artist on the bill: Mosimann. Electro. Preview the line-up and save it on soundcheck.
+Mosimann at Zénith Paris - La Villette on Sun 18 Oct, Paris. 1 artist: Mosimann. Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Being Sarah's Basement ft Jay Riordan at Sin É
 
-Being Sarah's Basement ft Jay Riordan at Sin É on Sat 24 Oct, Dublin. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Being Sarah's Basement ft Jay Riordan at Sin É on Sat 24 Oct, Dublin. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

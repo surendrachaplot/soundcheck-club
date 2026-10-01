@@ -1,6 +1,6 @@
 # Queen! feat. Derrick Carter - Michael Serafini - Tripmastaz at smartbar
 
-Queen! feat. Derrick Carter - Michael Serafini - Tripmastaz at smartbar on Sun 22 Nov, Chicago. 3 artists on the bill: Derrick Carter, Michael Serafini and Tripmastaz. House and Deep House. Preview the line-up and save it on soundcheck.
+Queen! feat. Derrick Carter - Michael Serafini - Tripmastaz at smartbar on Sun 22 Nov, Chicago. 3 artists: Derrick Carter, Michael Serafini and Tripmastaz. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

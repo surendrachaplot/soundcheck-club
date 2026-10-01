@@ -1,8 +1,8 @@
 # Oliver Deutschmann
 
-Oliver Deutschmann is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at NUMBER 90 LONDON, London on Fri, 13 Nov 2026.
+Oliver Deutschmann is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Fri, 13 Nov 2026.
 
-Oliver Deutschmann is a techno and house artist tracked on soundcheck, with 38 sets logged across Berlin, Hamburg, Leipzig and London and 4 more. Often billed alongside Inverse Element, BLACK ANTHEM RESTORE and Mømentum. Next up: NUMBER 90 LONDON, London on Fri 13 Nov.
+Oliver Deutschmann is a techno and house artist, with 38 gigs on soundcheck across Berlin, Hamburg, Leipzig and London and 4 more. Often billed alongside Inverse Element, BLACK ANTHEM RESTORE and Mømentum. Next up: NUMBER 90 LONDON, London on Fri 13 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Oliver Deutschmann is a techno and house artist tracked on soundcheck, with 38 s
 
 ## Recently played
 
-- KitKatClub, Berlin — Fri, 7 Aug 2026
-- Kater, Berlin — Sat, 13 Jun 2026
-- OXI, Berlin — Tue, 26 May 2026
-- KALT, Strasbourg — Sat, 14 Mar 2026
-- KitKatClub, Berlin — Fri, 6 Feb 2026
-- OXI, Berlin — Tue, 25 Nov 2025
-- ://about blank, Berlin — Sat, 4 Oct 2025
-- ORWO Haus, Berlin — Sat, 20 Sept 2025
+- KitKatClub, Berlin · Fri, 7 Aug 2026
+- Kater, Berlin · Sat, 13 Jun 2026
+- OXI, Berlin · Tue, 26 May 2026
+- KALT, Strasbourg · Sat, 14 Mar 2026
+- KitKatClub, Berlin · Fri, 6 Feb 2026
+- OXI, Berlin · Tue, 25 Nov 2025
+- ://about blank, Berlin · Sat, 4 Oct 2025
+- ORWO Haus, Berlin · Sat, 20 Sept 2025
 
 ## Shares bills with
 

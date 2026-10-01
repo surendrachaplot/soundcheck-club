@@ -1,6 +1,6 @@
 # Afrosteria with MAMÖRO at Scène Bar
 
-Afrosteria with MAMÖRO at Scène Bar on Fri 2 Oct, Brussels. 1 artist on the bill: Aytiwan. Afro House and Afro Tech. Preview the line-up and save it on soundcheck.
+Afrosteria with MAMÖRO at Scène Bar on Fri 2 Oct, Brussels. 1 artist: Aytiwan. Afro House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

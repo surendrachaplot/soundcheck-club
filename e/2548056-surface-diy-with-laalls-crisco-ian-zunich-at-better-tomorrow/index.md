@@ -1,6 +1,6 @@
 # Surface DIY with LAALLS, Crisco & Ian Zunich at Better Tomorrow
 
-Surface DIY with LAALLS, Crisco & Ian Zunich at Better Tomorrow on Thu 8 Oct, Los Angeles. 3 artists on the bill: Capes, Crisco and LAALLS. Techno and Ambient. Preview the line-up and save it on soundcheck.
+Surface DIY with LAALLS, Crisco & Ian Zunich at Better Tomorrow on Thu 8 Oct, Los Angeles. 3 artists: Capes, Crisco and LAALLS. Techno and Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # STIPP
 
-STIPP is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Shelter Amsterdam, Amsterdam on Sat, 28 Nov 2026.
+STIPP is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Shelter Amsterdam, Amsterdam on Sat, 28 Nov 2026.
 
-STIPP is a techno and house artist based in Netherlands, tracked on soundcheck, with 25 sets logged across Amsterdam, Malta, Rotterdam and Utrecht. Often billed alongside Alec Dienaar, TWIENA and Figi. Next up: Shelter Amsterdam, Amsterdam on Sat 28 Nov.
+STIPP is a techno and house artist based in Netherlands, with 25 gigs on soundcheck across Amsterdam, Malta, Rotterdam and Utrecht. Often billed alongside Alec Dienaar, TWIENA and Figi. Next up: Shelter Amsterdam, Amsterdam on Sat 28 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ STIPP is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 ## Recently played
 
-- Skatecafe, Amsterdam — Fri, 3 Jul 2026
-- Keile District, Rotterdam — Mon, 27 Apr 2026
-- Skatecafe, Amsterdam — Sat, 21 Mar 2026
-- nachbar, Amsterdam — Sat, 14 Mar 2026
-- Radio Radio, Amsterdam — Thu, 12 Feb 2026
-- Levenslang Amsterdam, Amsterdam — Fri, 30 Jan 2026
-- SISSI'S Amsterdam, Amsterdam — Sat, 20 Dec 2025
-- Skatecafe, Amsterdam — Fri, 3 Oct 2025
+- Skatecafe, Amsterdam · Fri, 3 Jul 2026
+- Keile District, Rotterdam · Mon, 27 Apr 2026
+- Skatecafe, Amsterdam · Sat, 21 Mar 2026
+- nachbar, Amsterdam · Sat, 14 Mar 2026
+- Radio Radio, Amsterdam · Thu, 12 Feb 2026
+- Levenslang Amsterdam, Amsterdam · Fri, 30 Jan 2026
+- SISSI'S Amsterdam, Amsterdam · Sat, 20 Dec 2025
+- Skatecafe, Amsterdam · Fri, 3 Oct 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Gorillaz - The Mountain Tour | Centre Bell at Bell Centre
 
-Gorillaz - The Mountain Tour | Centre Bell at Bell Centre on Sat 3 Oct, Montreal. Preview the line-up and save it on soundcheck.
+Gorillaz - The Mountain Tour | Centre Bell at Bell Centre on Sat 3 Oct, Montreal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

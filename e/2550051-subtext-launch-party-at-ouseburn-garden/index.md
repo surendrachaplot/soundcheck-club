@@ -1,6 +1,6 @@
 # Subtext Launch party at Ouseburn Garden
 
-Subtext Launch party at Ouseburn Garden on Fri 2 Oct, Newcastle. 3 artists on the bill: Alousea, camukg and Dove (UK). Bass. Preview the line-up and save it on soundcheck.
+Subtext Launch party at Ouseburn Garden on Fri 2 Oct, Newcastle. 3 artists: Alousea, camukg and Dove (UK). Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

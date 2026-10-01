@@ -1,6 +1,6 @@
 # Anfisa Letyago at BERHTA
 
-Anfisa Letyago at BERHTA on Fri 16 Oct, Washington DC. 1 artist on the bill: Anfisa Letyago. Techno and House. Preview the line-up and save it on soundcheck.
+Anfisa Letyago at BERHTA on Fri 16 Oct, Washington DC. 1 artist: Anfisa Letyago. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

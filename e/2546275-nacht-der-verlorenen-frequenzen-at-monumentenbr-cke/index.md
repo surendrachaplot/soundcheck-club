@@ -1,6 +1,6 @@
 # Nacht der verlorenen Frequenzen at Monumentenbrücke
 
-Nacht der verlorenen Frequenzen at Monumentenbrücke on Sat 3 Oct, Berlin. Techno and Electronica. Preview the line-up and save it on soundcheck.
+Nacht der verlorenen Frequenzen at Monumentenbrücke on Sat 3 Oct, Berlin. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

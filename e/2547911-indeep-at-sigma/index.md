@@ -1,6 +1,6 @@
 # INDEEP at Sigma
 
-INDEEP at Sigma on Tue 6 Oct, Ibiza. Preview the line-up and save it on soundcheck.
+INDEEP at Sigma on Tue 6 Oct, Ibiza. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

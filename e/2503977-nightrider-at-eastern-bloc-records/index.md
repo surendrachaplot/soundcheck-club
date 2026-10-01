@@ -1,6 +1,6 @@
 # Nightrider at Eastern Bloc Records
 
-Nightrider at Eastern Bloc Records on Thu 22 Oct, Manchester. 1 artist on the bill: Jake Hodgkinson. Techno and House. Preview the line-up and save it on soundcheck.
+Nightrider at Eastern Bloc Records on Thu 22 Oct, Manchester. 1 artist: Jake Hodgkinson. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

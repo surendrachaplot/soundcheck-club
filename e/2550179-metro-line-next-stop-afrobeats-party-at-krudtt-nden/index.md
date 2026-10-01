@@ -1,6 +1,6 @@
 # Metro-Line Next Stop: Afrobeats Party at Krudttønden
 
-Metro-Line Next Stop: Afrobeats Party at Krudttønden on Fri 2 Oct, Copenhagen. 1 artist on the bill: Jolie. Preview the line-up and save it on soundcheck.
+Metro-Line Next Stop: Afrobeats Party at Krudttønden on Fri 2 Oct, Copenhagen. 1 artist: Jolie. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

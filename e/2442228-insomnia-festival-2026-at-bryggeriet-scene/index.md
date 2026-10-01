@@ -1,6 +1,6 @@
 # Insomnia Festival 2026 at Bryggeriet Scene
 
-Insomnia Festival 2026 at Bryggeriet Scene on Wed 14 Oct, Norway. 17 artists on the bill: AGF, CUERPOS, D.K. and Dame Area and 13 more. Preview the line-up and save it on soundcheck.
+Insomnia Festival 2026 at Bryggeriet Scene on Wed 14 Oct, Norway. 17 artists: AGF, CUERPOS, D.K. and Dame Area and 13 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

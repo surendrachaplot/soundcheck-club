@@ -1,8 +1,8 @@
 # St. Anne's Parish Hall
 
-St. Anne's Parish Hall is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Project Nowhere 2026: KILL ALTERS (SOLO) + World News + MAN MADE HILL + ETHER GIRLS" on Sat, 3 Oct 2026.
+St. Anne's Parish Hall is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Project Nowhere 2026: KILL ALTERS (SOLO) + World News + MAN MADE HILL + ETHER GIRLS" on Sat, 3 Oct 2026.
 
-St. Anne's Parish Hall is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including World News. Browse upcoming dates, start times and who's playing.
+St. Anne's Parish Hall is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including World News. See dates, start times and who's playing.
 
 ## What's on
 

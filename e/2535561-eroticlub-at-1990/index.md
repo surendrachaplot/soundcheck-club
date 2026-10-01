@@ -1,6 +1,6 @@
 # EROTICLUB at 1990
 
-EROTICLUB at 1990 on Sat 31 Oct, Glasgow. Techno and Tech House. Preview the line-up and save it on soundcheck.
+EROTICLUB at 1990 on Sat 31 Oct, Glasgow. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

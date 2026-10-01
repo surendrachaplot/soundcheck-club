@@ -1,6 +1,6 @@
 # Disco not Disco at 5A
 
-Disco not Disco at 5A on Thu 8 Oct, Lisbon. 2 artists on the bill: Mirror People and Señor Pelota. Preview the line-up and save it on soundcheck.
+Disco not Disco at 5A on Thu 8 Oct, Lisbon. 2 artists: Mirror People and Señor Pelota. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

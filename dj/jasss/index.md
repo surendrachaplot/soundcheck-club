@@ -1,8 +1,8 @@
 # JASSS
 
-JASSS is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+JASSS is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-JASSS is a techno and house artist based in Spain, tracked on soundcheck, with 176 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+JASSS is a techno and house artist based in Spain, with 176 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 44 more. Often billed alongside CEM, MCMLXXXV and Dj Saliva. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ JASSS is a techno and house artist based in Spain, tracked on soundcheck, with 1
 
 ## Recently played
 
-- TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
-- Nowadays, New York City — Sat, 19 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
-- RSO.BERLIN, Berlin — Sat, 22 Aug 2026
-- Amsterdamse Bos, Amsterdam — Sat, 1 Aug 2026
-- RADION, Amsterdam — Sat, 1 Aug 2026
-- Amsterdamse Bos, Amsterdam — Wed, 29 Jul 2026
-- KREUZWERK, Berlin — Fri, 24 Jul 2026
+- TBA - Out ‘n’ About Treesort, Portland · Thu, 24 Sept 2026
+- Nowadays, New York City · Sat, 19 Sept 2026
+- Fort Mifflin, Philadelphia · Fri, 18 Sept 2026
+- RSO.BERLIN, Berlin · Sat, 22 Aug 2026
+- Amsterdamse Bos, Amsterdam · Sat, 1 Aug 2026
+- RADION, Amsterdam · Sat, 1 Aug 2026
+- Amsterdamse Bos, Amsterdam · Wed, 29 Jul 2026
+- KREUZWERK, Berlin · Fri, 24 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # N.I.N.E: Collision at Club Soda
 
-N.I.N.E: Collision at Club Soda on Thu 15 Oct, Montreal. New Wave. Preview the line-up and save it on soundcheck.
+N.I.N.E: Collision at Club Soda on Thu 15 Oct, Montreal. New Wave. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

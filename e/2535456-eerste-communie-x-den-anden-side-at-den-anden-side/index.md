@@ -1,6 +1,6 @@
 # Eerste Communie x Den Anden Side at Den Anden Side
 
-Eerste Communie x Den Anden Side on Fri 16 Oct, Copenhagen. 4 artists on the bill: AMORAL, Anastasia Kristensen, Ignez and MARRØN. Techno. Preview the line-up and save it on soundcheck.
+Eerste Communie x Den Anden Side on Fri 16 Oct, Copenhagen. 4 artists: AMORAL, Anastasia Kristensen, Ignez and MARRØN. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

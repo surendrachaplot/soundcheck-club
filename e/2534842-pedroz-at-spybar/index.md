@@ -1,6 +1,6 @@
 # Pedroz at Spybar
 
-Pedroz at Spybar on Fri 13 Nov, Chicago. House and Tech House. Preview the line-up and save it on soundcheck.
+Pedroz at Spybar on Fri 13 Nov, Chicago. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

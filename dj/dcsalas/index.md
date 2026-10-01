@@ -1,8 +1,8 @@
 # DC Salas
 
-DC Salas is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
+DC Salas is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuse, Brussels on Sat, 3 Oct 2026.
 
-DC Salas is a house and techno artist based in Belgium, tracked on soundcheck, with 112 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Sara Dziri, Innershades and Bon Public. Next up: Fuse, Brussels on Sat 3 Oct.
+DC Salas is a house and techno artist based in Belgium, with 112 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 20 more. Often billed alongside Sara Dziri, Innershades and Bon Public. Next up: Fuse, Brussels on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -17,14 +17,14 @@ DC Salas is a house and techno artist based in Belgium, tracked on soundcheck, w
 
 ## Recently played
 
-- Fuchs2, Prague — Fri, 18 Sept 2026
-- Stormkop, Antwerp — Sat, 11 Jul 2026
-- Club der Visionaere, Berlin — Wed, 8 Jul 2026
-- Petit Bain, Paris — Fri, 26 Jun 2026
-- Sunseabar Beach Club, Barcelona — Fri, 19 Jun 2026
-- Fuse, Brussels — Sat, 13 Jun 2026
-- Circle Park, Brussels — Sat, 13 Jun 2026
-- TBA - CHATEAU DE TILLOLOY, 80700 TILLOLOY, FRANCE, Paris — Fri, 5 Jun 2026
+- Fuchs2, Prague · Fri, 18 Sept 2026
+- Stormkop, Antwerp · Sat, 11 Jul 2026
+- Club der Visionaere, Berlin · Wed, 8 Jul 2026
+- Petit Bain, Paris · Fri, 26 Jun 2026
+- Sunseabar Beach Club, Barcelona · Fri, 19 Jun 2026
+- Fuse, Brussels · Sat, 13 Jun 2026
+- Circle Park, Brussels · Sat, 13 Jun 2026
+- TBA - CHATEAU DE TILLOLOY, 80700 TILLOLOY, FRANCE, Paris · Fri, 5 Jun 2026
 
 ## Shares bills with
 

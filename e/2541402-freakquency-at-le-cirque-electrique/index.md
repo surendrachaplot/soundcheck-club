@@ -1,6 +1,6 @@
 # Freakquency at Le Cirque Electrique
 
-Freakquency at Le Cirque Electrique on Sat 10 Oct, Paris. Techno. Preview the line-up and save it on soundcheck.
+Freakquency at Le Cirque Electrique on Sat 10 Oct, Paris. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

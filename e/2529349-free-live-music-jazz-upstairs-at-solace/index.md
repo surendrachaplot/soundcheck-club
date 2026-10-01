@@ -1,6 +1,6 @@
 # Free. Live. Music // Jazz Upstairs at Solace
 
-Free. Live. Music // Jazz Upstairs at Solace on Wed 7 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+Free. Live. Music // Jazz Upstairs at Solace on Wed 7 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

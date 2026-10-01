@@ -1,6 +1,6 @@
 # Planet B // ALL NIGHT LONG at Gabriela
 
-Planet B // ALL NIGHT LONG at Gabriela on Sat 3 Oct, New York City. 1 artist on the bill: Planet B. House and Acid. Preview the line-up and save it on soundcheck.
+Planet B // ALL NIGHT LONG at Gabriela on Sat 3 Oct, New York City. 1 artist: Planet B. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

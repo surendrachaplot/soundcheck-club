@@ -1,6 +1,6 @@
 # ASHAWO at Podlasie Club
 
-ASHAWO at Podlasie Club on Sat 3 Oct, Chicago. Afro House and Afrobeats. Preview the line-up and save it on soundcheck.
+ASHAWO at Podlasie Club on Sat 3 Oct, Chicago. Afro House and Afrobeats. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

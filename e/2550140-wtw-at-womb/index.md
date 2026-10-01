@@ -1,6 +1,6 @@
 # WTW at WOMB
 
-WTW at WOMB on Wed 14 Oct, Tokyo. 3 artists on the bill: Connor Wall, DANA NADA and Shinsuke Goto. Techno. Preview the line-up and save it on soundcheck.
+WTW at WOMB on Wed 14 Oct, Tokyo. 3 artists: Connor Wall, DANA NADA and Shinsuke Goto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

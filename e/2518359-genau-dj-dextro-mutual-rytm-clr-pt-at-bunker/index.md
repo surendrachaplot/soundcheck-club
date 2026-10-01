@@ -1,6 +1,6 @@
 # GENAU: DJ Dextro (Mutual Rytm - CLR / PT) at Bunker
 
-GENAU: DJ Dextro (Mutual Rytm - CLR / PT) at Bunker on Sat 3 Oct, Turin. 2 artists on the bill: DJ Dextro and Gandalf. Techno. Preview the line-up and save it on soundcheck.
+GENAU: DJ Dextro (Mutual Rytm - CLR / PT) at Bunker on Sat 3 Oct, Turin. 2 artists: DJ Dextro and Gandalf. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

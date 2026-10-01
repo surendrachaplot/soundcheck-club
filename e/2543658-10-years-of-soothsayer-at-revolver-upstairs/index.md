@@ -1,6 +1,6 @@
 # 10 Years of Soothsayer at Revolver Upstairs
 
-10 Years of Soothsayer at Revolver Upstairs on Sun 1 Nov, Melbourne. 18 artists on the bill: Boogs, C.FRIM, Caucasian Opportunities and Claire O'Brien and 14 more. Techno and House. Preview the line-up and save it on soundcheck.
+10 Years of Soothsayer at Revolver Upstairs on Sun 1 Nov, Melbourne. 18 artists: Boogs, C.FRIM, Caucasian Opportunities and Claire O'Brien and 14 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

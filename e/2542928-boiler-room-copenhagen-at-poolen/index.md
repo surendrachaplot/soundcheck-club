@@ -1,6 +1,6 @@
 # Boiler Room Copenhagen at Poolen
 
-Boiler Room Copenhagen at Poolen on Fri 11 Dec, Copenhagen. Preview the line-up and save it on soundcheck.
+Boiler Room Copenhagen at Poolen on Fri 11 Dec, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

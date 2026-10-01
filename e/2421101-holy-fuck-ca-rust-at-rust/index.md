@@ -1,6 +1,6 @@
 # Holy Fuck (CA) // RUST at RUST
 
-Holy Fuck (CA) // RUST on Fri 2 Oct, Copenhagen. Preview the line-up and save it on soundcheck.
+Holy Fuck (CA) // RUST on Fri 2 Oct, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

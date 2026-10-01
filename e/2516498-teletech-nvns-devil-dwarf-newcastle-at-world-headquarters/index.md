@@ -1,6 +1,6 @@
 # Teletech: NVNS & Devil Dwarf [NEWCASTLE] at World Headquarters
 
-Teletech: NVNS & Devil Dwarf [NEWCASTLE] at World Headquarters on Sat 10 Oct, Newcastle. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Teletech: NVNS & Devil Dwarf [NEWCASTLE] at World Headquarters on Sat 10 Oct, Newcastle. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

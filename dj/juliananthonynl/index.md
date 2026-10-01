@@ -1,8 +1,8 @@
 # Julian Anthony
 
-Julian Anthony is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 3oz Dive Club, San Diego on Fri, 9 Oct 2026.
+Julian Anthony is a House and Tech House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 3oz Dive Club, San Diego on Fri, 9 Oct 2026.
 
-Julian Anthony is a house and tech house artist based in Netherlands, tracked on soundcheck, with 158 sets logged across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: 3oz Dive Club, San Diego on Fri 9 Oct.
+Julian Anthony is a house and tech house artist based in Netherlands, with 158 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 33 more. Often billed alongside Laidlaw, Voigtmann and Reeshy. Next up: 3oz Dive Club, San Diego on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Julian Anthony is a house and tech house artist based in Netherlands, tracked on
 
 ## Recently played
 
-- Cova Santa, Ibiza — Tue, 29 Sept 2026
-- UNO MALTA, Malta — Fri, 18 Sept 2026
-- Dune Park, Buenos Aires — Fri, 4 Sept 2026
-- Shelter Amsterdam, Amsterdam — Sat, 22 Aug 2026
-- Refuge, New York City — Fri, 14 Aug 2026
-- Parc del Fòrum, Barcelona — Fri, 7 Aug 2026
-- 528 Ibiza, Ibiza — Sun, 2 Aug 2026
-- Distrikt, Leeds — Sat, 11 Jul 2026
+- Cova Santa, Ibiza · Tue, 29 Sept 2026
+- UNO MALTA, Malta · Fri, 18 Sept 2026
+- Dune Park, Buenos Aires · Fri, 4 Sept 2026
+- Shelter Amsterdam, Amsterdam · Sat, 22 Aug 2026
+- Refuge, New York City · Fri, 14 Aug 2026
+- Parc del Fòrum, Barcelona · Fri, 7 Aug 2026
+- 528 Ibiza, Ibiza · Sun, 2 Aug 2026
+- Distrikt, Leeds · Sat, 11 Jul 2026
 
 ## Shares bills with
 

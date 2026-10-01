@@ -1,6 +1,6 @@
 # DOJO SECTOR with DARCO (IL) 10.03 at Dojo Boutique Club
 
-DOJO SECTOR with DARCO (IL) 10.03 at Dojo Boutique Club on Sat 3 Oct, Budapest. House and Deep House. Preview the line-up and save it on soundcheck.
+DOJO SECTOR with DARCO (IL) 10.03 at Dojo Boutique Club on Sat 3 Oct, Budapest. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

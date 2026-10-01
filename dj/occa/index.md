@@ -1,8 +1,8 @@
 # OCCA
 
-OCCA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
+OCCA is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
-OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 19 more. Often billed alongside Spekki Webu, OSHALEY and DJ Sodeyama. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
+OCCA is a techno and house artist based in Japan, with 134 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 19 more. Often billed alongside Spekki Webu, OSHALEY and DJ Sodeyama. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 13
 
 ## Recently played
 
-- WOMB, Tokyo — Mon, 21 Sept 2026
-- Mitsuki, Tokyo — Wed, 19 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Thu, 30 Jul 2026
-- Upsidedown, Osaka — Sat, 25 Jul 2026
-- 宀 Club, Hong Kong — Sat, 11 Jul 2026
-- Volnost, Seoul — Fri, 10 Jul 2026
-- Mitsuki, Tokyo — Mon, 29 Jun 2026
-- WOMB, Tokyo — Sat, 27 Jun 2026
+- WOMB, Tokyo · Mon, 21 Sept 2026
+- Mitsuki, Tokyo · Wed, 19 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Thu, 30 Jul 2026
+- Upsidedown, Osaka · Sat, 25 Jul 2026
+- 宀 Club, Hong Kong · Sat, 11 Jul 2026
+- Volnost, Seoul · Fri, 10 Jul 2026
+- Mitsuki, Tokyo · Mon, 29 Jun 2026
+- WOMB, Tokyo · Sat, 27 Jun 2026
 
 ## Shares bills with
 

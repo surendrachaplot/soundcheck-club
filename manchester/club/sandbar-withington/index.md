@@ -1,8 +1,8 @@
 # Sandbar Withington
 
-Sandbar Withington is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "★ WE KEEP US SAFE #3 - A FUNDRAISER FOR LOCAL ANTIFASCIST EFFORTS ★" on Sat, 10 Oct 2026.
+Sandbar Withington is a music venue in Manchester with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "★ WE KEEP US SAFE #3 - A FUNDRAISER FOR LOCAL ANTIFASCIST EFFORTS ★" on Sat, 10 Oct 2026.
 
-Sandbar Withington is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Baba Sketch, Chande and FOULMOUTH. Browse upcoming dates, start times and who's playing. 437 Wilmslow Rd, Withington, Manchester M20 4AN, UK.
+Sandbar Withington is a music venue in Manchester listed on soundcheck. 2 upcoming gigs, with line-ups including Baba Sketch, Chande and FOULMOUTH. See dates, start times and who's playing. 437 Wilmslow Rd, Withington, Manchester M20 4AN, UK.
 
 ## What's on
 

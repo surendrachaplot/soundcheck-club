@@ -1,8 +1,8 @@
 # Aaiste
 
-Aaiste is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Room 22, Sydney on Sat, 17 Oct 2026.
+Aaiste is a Progressive House and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Room 22, Sydney on Sat, 17 Oct 2026.
 
-Aaiste is a progressive house and house artist based in Australia, tracked on soundcheck, with 20 sets logged across Auckland, Melbourne and Sydney. Often billed alongside Asanga, Ben Nott and Covsky. Next up: Room 22, Sydney on Sat 17 Oct.
+Aaiste is a progressive house and house artist based in Australia, with 20 gigs on soundcheck across Auckland, Melbourne and Sydney. Often billed alongside Asanga, Ben Nott and Covsky. Next up: Room 22, Sydney on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Aaiste is a progressive house and house artist based in Australia, tracked on so
 
 ## Recently played
 
-- Oxford Underground, Sydney — Sat, 5 Sept 2026
-- The Mothership, Auckland — Sat, 22 Aug 2026
-- Room 22, Sydney — Sat, 11 Jul 2026
-- Plaza Hotel Sydney, Sydney — Sun, 7 Jun 2026
-- Abercrombie Hotel, Sydney — Sat, 16 May 2026
-- The Third Day, Melbourne — Fri, 6 Mar 2026
-- Civic Underground, Sydney — Sat, 20 Sept 2025
-- Plaza Hotel Sydney, Sydney — Sat, 5 Jul 2025
+- Oxford Underground, Sydney · Sat, 5 Sept 2026
+- The Mothership, Auckland · Sat, 22 Aug 2026
+- Room 22, Sydney · Sat, 11 Jul 2026
+- Plaza Hotel Sydney, Sydney · Sun, 7 Jun 2026
+- Abercrombie Hotel, Sydney · Sat, 16 May 2026
+- The Third Day, Melbourne · Fri, 6 Mar 2026
+- Civic Underground, Sydney · Sat, 20 Sept 2025
+- Plaza Hotel Sydney, Sydney · Sat, 5 Jul 2025
 
 ## Shares bills with
 

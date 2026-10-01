@@ -1,6 +1,6 @@
 # AFTER DETROIT at TBA -  HEY HEY SOCAL CLUB 
 
-AFTER DETROIT at TBA -  HEY HEY SOCAL CLUB  on Sat 8 Jul, San Antonio. 1 artist on the bill: Eric Ross. Preview the line-up and save it on soundcheck.
+AFTER DETROIT at TBA -  HEY HEY SOCAL CLUB  on Sat 8 Jul, San Antonio. 1 artist: Eric Ross. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

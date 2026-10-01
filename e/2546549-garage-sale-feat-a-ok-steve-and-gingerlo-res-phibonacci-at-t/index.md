@@ -1,6 +1,6 @@
 # Garage Sale feat. A-OK Steve and GingerLo [res. Phibonacci] at The Middle East
 
-Garage Sale feat. A-OK Steve and GingerLo [res. Phibonacci] at The Middle East on Sat 10 Oct, Boston. 1 artist on the bill: Phibonacci. House and Garage. Preview the line-up and save it on soundcheck.
+Garage Sale feat. A-OK Steve and GingerLo [res. Phibonacci] at The Middle East on Sat 10 Oct, Boston. 1 artist: Phibonacci. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

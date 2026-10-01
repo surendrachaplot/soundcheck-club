@@ -1,6 +1,6 @@
 # NW FRQNC (ft. Selina Albright) at Pilgrim
 
-NW FRQNC (ft. Selina Albright) at Pilgrim on Wed 14 Oct, Newcastle. Preview the line-up and save it on soundcheck.
+NW FRQNC (ft. Selina Albright) at Pilgrim on Wed 14 Oct, Newcastle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # OLD SCHOOL VIBES at BCM
 
-OLD SCHOOL VIBES at BCM on Fri 9 Oct, Mallorca. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+OLD SCHOOL VIBES at BCM on Fri 9 Oct, Mallorca. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

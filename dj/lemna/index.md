@@ -1,8 +1,8 @@
 # Lemna
 
-Lemna is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Casa Montjuïc, Barcelona on Sat, 10 Oct 2026.
+Lemna is a Experimental and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Casa Montjuïc, Barcelona on Sat, 10 Oct 2026.
 
-Lemna is an experimental and ambient artist based in Japan, tracked on soundcheck, with 2 sets logged across Barcelona and Tokyo. Often billed alongside C-KAY. Next up: Casa Montjuïc, Barcelona on Sat 10 Oct.
+Lemna is an experimental and ambient artist based in Japan, with 2 gigs on soundcheck across Barcelona and Tokyo. Often billed alongside C-KAY. Next up: Casa Montjuïc, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 

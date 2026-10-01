@@ -1,8 +1,8 @@
 # Tour-Maubourg
 
-Tour-Maubourg is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sala Villanos, Madrid on Sat, 3 Oct 2026.
+Tour-Maubourg is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sala Villanos, Madrid on Sat, 3 Oct 2026.
 
-Tour-Maubourg is a house and deep house artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Antwerp, Belgrade and Berlin and 12 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: Sala Villanos, Madrid on Sat 3 Oct.
+Tour-Maubourg is a house and deep house artist based in France, with 60 gigs on soundcheck across Amsterdam, Antwerp, Belgrade and Berlin and 12 more. Often billed alongside Kx9000, Mira Ló and Maison Blanche. Next up: Sala Villanos, Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Tour-Maubourg is a house and deep house artist based in France, tracked on sound
 
 ## Recently played
 
-- Cabaret Sauvage, Paris — Sat, 19 Sept 2026
-- Virage, Paris — Sat, 29 Aug 2026
-- La Cité Fertile, Paris — Fri, 31 Jul 2026
-- Else, Berlin — Sun, 12 Jul 2026
-- Rex Club, Paris — Fri, 10 Jul 2026
-- The Jazz Cafe, London — Fri, 19 Jun 2026
-- Goya Social Club, Madrid — Fri, 13 Mar 2026
-- Prince Charles, Berlin — Wed, 31 Dec 2025
+- Cabaret Sauvage, Paris · Sat, 19 Sept 2026
+- Virage, Paris · Sat, 29 Aug 2026
+- La Cité Fertile, Paris · Fri, 31 Jul 2026
+- Else, Berlin · Sun, 12 Jul 2026
+- Rex Club, Paris · Fri, 10 Jul 2026
+- The Jazz Cafe, London · Fri, 19 Jun 2026
+- Goya Social Club, Madrid · Fri, 13 Mar 2026
+- Prince Charles, Berlin · Wed, 31 Dec 2025
 
 ## Shares bills with
 

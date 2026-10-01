@@ -1,6 +1,6 @@
 # Exilium pres. Alex Stein, Nakadia & Wehbba at ADE 2026 at Meet Berlage
 
-Exilium pres. Alex Stein, Nakadia & Wehbba at ADE 2026 at Meet Berlage on Fri 23 Oct, Amsterdam. 7 artists on the bill: Alex Stein, Jacko, Mágafas and Nakadia and 3 more. Techno. Preview the line-up and save it on soundcheck.
+Exilium pres. Alex Stein, Nakadia & Wehbba at ADE 2026 at Meet Berlage on Fri 23 Oct, Amsterdam. 7 artists: Alex Stein, Jacko, Mágafas and Nakadia and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

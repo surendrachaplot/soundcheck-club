@@ -1,6 +1,6 @@
 # Club Stoic presents Charlie Stoic & Friends at The Sugar Loaf
 
-Club Stoic presents Charlie Stoic & Friends at The Sugar Loaf on Fri 9 Oct, Bristol. 2 artists on the bill: Atki2 and Charlie Stoic. Funk / Soul and Electronica. Preview the line-up and save it on soundcheck.
+Club Stoic presents Charlie Stoic & Friends at The Sugar Loaf on Fri 9 Oct, Bristol. 2 artists: Atki2 and Charlie Stoic. Funk / Soul and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

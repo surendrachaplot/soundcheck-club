@@ -1,8 +1,8 @@
 # Astron Club
 
-Astron Club is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ACN with Dora Mask / Miss Trouli / Olenxxa" on Fri, 2 Oct 2026.
+Astron Club is a music venue in Athens with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ACN with Dora Mask / Miss Trouli / Olenxxa" on Fri, 2 Oct 2026.
 
-Astron Club is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including BMSK, Devika, Dora Mask and Kazteins and 2 more. Browse upcoming dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
+Astron Club is a music venue in Athens listed on soundcheck. 3 upcoming gigs, with line-ups including BMSK, Devika, Dora Mask and Kazteins and 2 more. See dates, start times and who's playing. 121 Konstantinoupoleos St., Athens 104 47, Greece.
 
 ## What's on
 

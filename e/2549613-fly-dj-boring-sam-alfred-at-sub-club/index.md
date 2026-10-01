@@ -1,6 +1,6 @@
 # FLY - DJ BORING & Sam Alfred at Sub Club
 
-FLY - DJ BORING & Sam Alfred at Sub Club on Thu 19 Nov, Glasgow. 2 artists on the bill: DJ BORING and Sam Alfred. Preview the line-up and save it on soundcheck.
+FLY - DJ BORING & Sam Alfred at Sub Club on Thu 19 Nov, Glasgow. 2 artists: DJ BORING and Sam Alfred. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

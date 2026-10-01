@@ -1,6 +1,6 @@
 # KRÁTER festival 2026 at TBA - Havas-villa
 
-KRÁTER festival 2026 at TBA - Havas-villa on Fri 2 Oct, Budapest. Techno and House. Preview the line-up and save it on soundcheck.
+KRÁTER festival 2026 at TBA - Havas-villa on Fri 2 Oct, Budapest. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

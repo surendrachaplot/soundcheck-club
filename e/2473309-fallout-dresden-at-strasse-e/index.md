@@ -1,6 +1,6 @@
 # FALLOUT • DRESDEN at Strasse E
 
-FALLOUT • DRESDEN at Strasse E on Fri 2 Oct, Dresden. 4 artists on the bill: Juan Alejandro, NEGITIV, Somewhen and Trancemaster Krause. Preview the line-up and save it on soundcheck.
+FALLOUT • DRESDEN at Strasse E on Fri 2 Oct, Dresden. 4 artists: Juan Alejandro, NEGITIV, Somewhen and Trancemaster Krause. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

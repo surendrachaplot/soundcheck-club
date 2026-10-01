@@ -1,6 +1,6 @@
 # BAR TIME BGM DJ at Area_osaka
 
-BAR TIME BGM DJ at Area_osaka on Wed 7 Oct, Osaka. Techno. Preview the line-up and save it on soundcheck.
+BAR TIME BGM DJ at Area_osaka on Wed 7 Oct, Osaka. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

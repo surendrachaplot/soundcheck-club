@@ -1,8 +1,8 @@
 # Tony Woodford
 
-Tony Woodford is a Tech House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Tony Woodford is a Tech House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fire & Lightbox, London on Sat, 31 Oct 2026.
 
-Tony Woodford is a tech house and garage artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam and London. Often billed alongside Craze, Huck Finn and Shady Lady. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Tony Woodford is a tech house and garage artist based in United Kingdom, with 7 gigs on soundcheck across Amsterdam and London. Often billed alongside Craze, Huck Finn and Shady Lady. Next up: Fire & Lightbox, London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -13,11 +13,11 @@ Tony Woodford is a tech house and garage artist based in United Kingdom, tracked
 
 ## Recently played
 
-- The River Thames, London — Sat, 6 Jun 2026
-- fabric, London — Sat, 30 May 2026
-- 93 Feet East, London — Sat, 2 May 2026
-- Fire & Lightbox, London — Sat, 1 Nov 2025
-- TBA - Secret East London Location, London — Sat, 5 Jul 2025
+- The River Thames, London · Sat, 6 Jun 2026
+- fabric, London · Sat, 30 May 2026
+- 93 Feet East, London · Sat, 2 May 2026
+- Fire & Lightbox, London · Sat, 1 Nov 2025
+- TBA - Secret East London Location, London · Sat, 5 Jul 2025
 
 ## Shares bills with
 

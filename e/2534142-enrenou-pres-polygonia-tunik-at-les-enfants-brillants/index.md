@@ -1,6 +1,6 @@
 # Enrenou pres. Polygonia + Tunik at Les Enfants Brillants
 
-Enrenou pres. Polygonia + Tunik at Les Enfants Brillants on Fri 13 Nov, Barcelona. 2 artists on the bill: Polygonia and Tunik. Techno and Electro. Preview the line-up and save it on soundcheck.
+Enrenou pres. Polygonia + Tunik at Les Enfants Brillants on Fri 13 Nov, Barcelona. 2 artists: Polygonia and Tunik. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

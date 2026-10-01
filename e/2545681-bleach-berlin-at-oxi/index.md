@@ -1,6 +1,6 @@
 # BLEACH BERLIN at OXI
 
-BLEACH BERLIN at OXI on Thu 1 Oct, Berlin. 2 artists on the bill: 1LDK and Valeria Litvakov. Pop. Preview the line-up and save it on soundcheck.
+BLEACH BERLIN at OXI on Thu 1 Oct, Berlin. 2 artists: 1LDK and Valeria Litvakov. Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

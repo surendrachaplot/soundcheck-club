@@ -1,15 +1,14 @@
 # bbymeister
 
-bbymeister is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+bbymeister is a Techno and Trance artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
-bbymeister is a techno and trance artist based in Germany, tracked on soundcheck, with 97 sets logged across Berlin, London and Paris. Often billed alongside August Kind, Deltapeak and jeanska. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+bbymeister is a techno and trance artist based in Germany, with 96 gigs on soundcheck across Berlin, London and Paris. Often billed alongside August Kind, Deltapeak and jeanska. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
-| Tue, 6 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 9 Oct 2026 | Void Club | Berlin |
 | Sat, 17 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Tue, 20 Oct 2026 | Der Weiße Hase | Berlin |
@@ -19,14 +18,14 @@ bbymeister is a techno and trance artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Lokschuppen Berlin, Berlin — Fri, 25 Sept 2026
-- Lokschuppen Berlin, Berlin — Fri, 11 Sept 2026
-- Humboldthain Club, Berlin — Fri, 4 Sept 2026
-- ://about blank, Berlin — Fri, 28 Aug 2026
-- ÆDEN, Berlin — Fri, 21 Aug 2026
-- Lokschuppen Berlin, Berlin — Sun, 16 Aug 2026
-- Treptower Park, Berlin — Sat, 18 Jul 2026
-- DNA. CLUB - urban Space, Berlin — Sat, 18 Jul 2026
+- Lokschuppen Berlin, Berlin · Fri, 25 Sept 2026
+- Lokschuppen Berlin, Berlin · Fri, 11 Sept 2026
+- Humboldthain Club, Berlin · Fri, 4 Sept 2026
+- ://about blank, Berlin · Fri, 28 Aug 2026
+- ÆDEN, Berlin · Fri, 21 Aug 2026
+- Lokschuppen Berlin, Berlin · Sun, 16 Aug 2026
+- Treptower Park, Berlin · Sat, 18 Jul 2026
+- DNA. CLUB - urban Space, Berlin · Sat, 18 Jul 2026
 
 ## Shares bills with
 

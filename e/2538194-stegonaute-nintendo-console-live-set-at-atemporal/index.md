@@ -1,6 +1,6 @@
 # Stegonaute — Nintendo Console Live Set at Atemporal
 
-Stegonaute — Nintendo Console Live Set at Atemporal on Fri 9 Oct, Berlin. Ambient. Preview the line-up and save it on soundcheck.
+Stegonaute — Nintendo Console Live Set at Atemporal on Fri 9 Oct, Berlin. Ambient. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

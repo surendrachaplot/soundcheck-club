@@ -1,6 +1,6 @@
 # VERRÜCKT - HALLOWEEN SCHRANZ NIGHT at DETROIT CLUB
 
-VERRÜCKT - HALLOWEEN SCHRANZ NIGHT at DETROIT CLUB on Sat 31 Oct, Barcelona. 1 artist on the bill: MVGRI. Techno. Preview the line-up and save it on soundcheck.
+VERRÜCKT - HALLOWEEN SCHRANZ NIGHT at DETROIT CLUB on Sat 31 Oct, Barcelona. 1 artist: MVGRI. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

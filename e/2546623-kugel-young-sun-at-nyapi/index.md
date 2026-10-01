@@ -1,6 +1,6 @@
 # Kugel & Young Sun at Nyapi
 
-Kugel & Young Sun at Nyapi on Thu 15 Oct, Seoul. 2 artists on the bill: Kugel and Young Sun. Preview the line-up and save it on soundcheck.
+Kugel & Young Sun at Nyapi on Thu 15 Oct, Seoul. 2 artists: Kugel and Young Sun. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

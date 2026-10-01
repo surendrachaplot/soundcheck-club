@@ -1,6 +1,6 @@
 # mittendrin mit Beshy at Minimal Bar
 
-mittendrin mit Beshy at Minimal Bar on Wed 14 Oct, Berlin. 1 artist on the bill: Beshy. Preview the line-up and save it on soundcheck.
+mittendrin mit Beshy at Minimal Bar on Wed 14 Oct, Berlin. 1 artist: Beshy. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

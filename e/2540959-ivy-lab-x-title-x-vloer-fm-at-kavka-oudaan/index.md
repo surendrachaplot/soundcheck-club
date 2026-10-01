@@ -1,6 +1,6 @@
 # Ivy Lab x Title x Vloer FM at Kavka Oudaan
 
-Ivy Lab x Title x Vloer FM at Kavka Oudaan on Fri 13 Nov, Antwerp. 2 artists on the bill: Forbidden Fruit and Ivy Lab. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Ivy Lab x Title x Vloer FM at Kavka Oudaan on Fri 13 Nov, Antwerp. 2 artists: Forbidden Fruit and Ivy Lab. Bass and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

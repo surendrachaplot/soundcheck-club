@@ -1,8 +1,8 @@
 # Carina Lawrence
 
-Carina Lawrence is a Progressive House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Electric Bristol, Bristol on Fri, 2 Oct 2026.
+Carina Lawrence is a Progressive House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Electric Bristol, Bristol on Fri, 2 Oct 2026.
 
-Carina Lawrence is a progressive house and techno artist based in Australia, tracked on soundcheck, with 65 sets logged across Brighton, Bristol, London and Los Angeles and 6 more. Often billed alongside Innerstice, Jesabel and Redfreya. Next up: Electric Bristol, Bristol on Fri 2 Oct.
+Carina Lawrence is a progressive house and techno artist based in Australia, with 65 gigs on soundcheck across Brighton, Bristol, London and Los Angeles and 6 more. Often billed alongside Innerstice, Jesabel and Redfreya. Next up: Electric Bristol, Bristol on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Carina Lawrence is a progressive house and techno artist based in Australia, tra
 
 ## Recently played
 
-- UNLOCKED, London — Sat, 5 Sept 2026
-- NUMBER 90 LONDON, London — Thu, 27 Aug 2026
-- Boston Manor Park, London — Sun, 26 Jul 2026
-- A L P H A B E T, Brighton — Sat, 11 Jul 2026
-- 77, London — Fri, 10 Apr 2026
-- TBA - East London (Zone 2), London — Fri, 3 Apr 2026
-- E1, London — Sat, 7 Mar 2026
-- UNLOCKED, London — Sat, 7 Feb 2026
+- UNLOCKED, London · Sat, 5 Sept 2026
+- NUMBER 90 LONDON, London · Thu, 27 Aug 2026
+- Boston Manor Park, London · Sun, 26 Jul 2026
+- A L P H A B E T, Brighton · Sat, 11 Jul 2026
+- 77, London · Fri, 10 Apr 2026
+- TBA - East London (Zone 2), London · Fri, 3 Apr 2026
+- E1, London · Sat, 7 Mar 2026
+- UNLOCKED, London · Sat, 7 Feb 2026
 
 ## Shares bills with
 

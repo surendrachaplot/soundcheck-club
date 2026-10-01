@@ -1,8 +1,8 @@
 # The Lenovo Garage
 
-The Lenovo Garage is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Brunch Electronik Madrid x BSMT LIVE 07.11 - The Blaze (DJ Set)" on Sat, 7 Nov 2026.
+The Lenovo Garage is a music venue in Madrid with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Brunch Electronik Madrid x BSMT LIVE 07.11 - The Blaze (DJ Set)" on Sat, 7 Nov 2026.
 
-The Lenovo Garage is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Bego Martin, CHRIS STASSY, DJ Tennis and DLOU and 2 more. Browse upcoming dates, start times and who's playing. Calle de la Isla de Java 2, 28034, Madrid.
+The Lenovo Garage is a music venue in Madrid listed on soundcheck. 2 upcoming gigs, with line-ups including Bego Martin, CHRIS STASSY, DJ Tennis and DLOU and 2 more. See dates, start times and who's playing. Calle de la Isla de Java 2, 28034, Madrid.
 
 ## What's on
 

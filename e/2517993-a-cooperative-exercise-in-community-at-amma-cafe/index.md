@@ -1,6 +1,6 @@
 # A Cooperative Exercise: in Community at Amma Cafe
 
-A Cooperative Exercise: in Community at Amma Cafe on Sat 10 Oct, New York City. 3 artists on the bill: ECHOES, Hydro Lin and U+0000. Techno and Experimental. Preview the line-up and save it on soundcheck.
+A Cooperative Exercise: in Community at Amma Cafe on Sat 10 Oct, New York City. 3 artists: ECHOES, Hydro Lin and U+0000. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

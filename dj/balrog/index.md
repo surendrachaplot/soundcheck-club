@@ -1,8 +1,8 @@
 # Balrog
 
-Balrog is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Vinyl Whistle, Leeds on Fri, 9 Oct 2026.
+Balrog is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Vinyl Whistle, Leeds on Fri, 9 Oct 2026.
 
-Balrog is a techno and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Belfast, Berlin, Copenhagen and Krakow and 5 more. Often billed alongside Aero, Habgud and INLIMEN. Next up: The Vinyl Whistle, Leeds on Fri 9 Oct.
+Balrog is a techno and house artist based in United Kingdom, with 43 gigs on soundcheck across Belfast, Berlin, Copenhagen and Krakow and 5 more. Often billed alongside Aero, Habgud and INLIMEN. Next up: The Vinyl Whistle, Leeds on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Balrog is a techno and house artist based in United Kingdom, tracked on soundche
 
 ## Recently played
 
-- Eastern Bloc Records, Manchester — Sat, 22 Aug 2026
-- The Glove That Fits, London — Sat, 8 Aug 2026
-- Kaņepes Kultūras Centrs, Riga — Sat, 21 Mar 2026
-- Eastern Bloc Records, Manchester — Fri, 16 Jan 2026
-- The Bag Factory, Manchester — Sun, 28 Dec 2025
-- Six Trees Bar And Kitchen Manchester, Manchester — Fri, 12 Dec 2025
-- Low Profile Studios, London — Sat, 29 Nov 2025
-- Stage and Radio, Manchester — Sat, 18 Oct 2025
+- Eastern Bloc Records, Manchester · Sat, 22 Aug 2026
+- The Glove That Fits, London · Sat, 8 Aug 2026
+- Kaņepes Kultūras Centrs, Riga · Sat, 21 Mar 2026
+- Eastern Bloc Records, Manchester · Fri, 16 Jan 2026
+- The Bag Factory, Manchester · Sun, 28 Dec 2025
+- Six Trees Bar And Kitchen Manchester, Manchester · Fri, 12 Dec 2025
+- Low Profile Studios, London · Sat, 29 Nov 2025
+- Stage and Radio, Manchester · Sat, 18 Oct 2025
 
 ## Shares bills with
 

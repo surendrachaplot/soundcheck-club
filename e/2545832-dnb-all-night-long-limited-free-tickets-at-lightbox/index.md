@@ -1,6 +1,6 @@
 # DnB All Night Long - Limited Free Tickets at Lightbox
 
-DnB All Night Long - Limited Free Tickets at Lightbox on Fri 16 Oct, London. Drum & Bass. Preview the line-up and save it on soundcheck.
+DnB All Night Long - Limited Free Tickets at Lightbox on Fri 16 Oct, London. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

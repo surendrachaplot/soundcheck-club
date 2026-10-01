@@ -1,6 +1,6 @@
 # The Prodigy at Royal Arena
 
-The Prodigy at Royal Arena on Tue 17 Nov, Copenhagen. Preview the line-up and save it on soundcheck.
+The Prodigy at Royal Arena on Tue 17 Nov, Copenhagen. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

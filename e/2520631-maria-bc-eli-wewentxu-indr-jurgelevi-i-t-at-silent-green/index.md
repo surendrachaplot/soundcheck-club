@@ -1,6 +1,6 @@
 # Maria BC + Eli Wewentxu & Indrė Jurgelevičiūtė at Silent Green
 
-Maria BC + Eli Wewentxu & Indrė Jurgelevičiūtė at Silent Green on Sat 14 Nov, Berlin. 1 artist on the bill: Eli Wewentxu. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Maria BC + Eli Wewentxu & Indrė Jurgelevičiūtė at Silent Green on Sat 14 Nov, Berlin. 1 artist: Eli Wewentxu. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

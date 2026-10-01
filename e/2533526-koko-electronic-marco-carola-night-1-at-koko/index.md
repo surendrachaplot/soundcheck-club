@@ -1,6 +1,6 @@
 # KOKO Electronic: Marco Carola (Night 1) at KOKO
 
-KOKO Electronic: Marco Carola (Night 1) on Sat 26 Dec, London. 1 artist on the bill: Marco Carola. Preview the line-up and save it on soundcheck.
+KOKO Electronic: Marco Carola (Night 1) on Sat 26 Dec, London. 1 artist: Marco Carola. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

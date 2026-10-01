@@ -1,8 +1,8 @@
 # Mimiq (2)
 
-Mimiq (2) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Nyapi, Seoul on Fri, 9 Oct 2026.
+Mimiq (2) is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Nyapi, Seoul on Fri, 9 Oct 2026.
 
-Mimiq is a house and techno artist based in South Korea, tracked on soundcheck, with 28 sets logged across New York City and Seoul. Often billed alongside Kugel, FFAN and Yeonju. Next up: Nyapi, Seoul on Fri 9 Oct.
+Mimiq is a house and techno artist based in South Korea, with 28 gigs on soundcheck across New York City and Seoul. Often billed alongside Kugel, FFAN and Yeonju. Next up: Nyapi, Seoul on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mimiq is a house and techno artist based in South Korea, tracked on soundcheck, 
 
 ## Recently played
 
-- Nué Seoul, Seoul — Thu, 17 Sept 2026
-- Nyapi, Seoul — Fri, 4 Sept 2026
-- Nyapi, Seoul — Fri, 14 Aug 2026
-- Nyapi, Seoul — Fri, 7 Aug 2026
-- TBA, New York City — Sat, 25 Jul 2026
-- Nyapi, Seoul — Fri, 10 Jul 2026
-- Nyapi, Seoul — Sat, 6 Jun 2026
-- Nyapi, Seoul — Sat, 30 May 2026
+- Nué Seoul, Seoul · Thu, 17 Sept 2026
+- Nyapi, Seoul · Fri, 4 Sept 2026
+- Nyapi, Seoul · Fri, 14 Aug 2026
+- Nyapi, Seoul · Fri, 7 Aug 2026
+- TBA, New York City · Sat, 25 Jul 2026
+- Nyapi, Seoul · Fri, 10 Jul 2026
+- Nyapi, Seoul · Sat, 6 Jun 2026
+- Nyapi, Seoul · Sat, 30 May 2026
 
 ## Shares bills with
 

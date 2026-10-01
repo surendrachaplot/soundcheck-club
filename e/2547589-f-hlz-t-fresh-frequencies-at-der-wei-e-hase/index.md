@@ -1,6 +1,6 @@
 # F𝝨HLZ𝝨:T / Fresh Frequencies at Der Weiße Hase
 
-F𝝨HLZ𝝨:T / Fresh Frequencies at Der Weiße Hase on Fri 16 Oct, Berlin. 5 artists on the bill: Anubix, Benua, Bin Okin and Manrick Stapez and 1 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+F𝝨HLZ𝝨:T / Fresh Frequencies at Der Weiße Hase on Fri 16 Oct, Berlin. 5 artists: Anubix, Benua, Bin Okin and Manrick Stapez and 1 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

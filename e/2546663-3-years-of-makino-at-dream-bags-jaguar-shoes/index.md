@@ -1,6 +1,6 @@
 # 3 Years of Makino at Dream Bags Jaguar Shoes
 
-3 Years of Makino at Dream Bags Jaguar Shoes on Sun 4 Oct, London. Preview the line-up and save it on soundcheck.
+3 Years of Makino at Dream Bags Jaguar Shoes on Sun 4 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

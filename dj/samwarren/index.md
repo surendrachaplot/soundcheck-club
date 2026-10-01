@@ -1,8 +1,8 @@
 # Sam Warren
 
-Sam Warren is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
+Sam Warren is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ouseburn Garden, Newcastle on Sat, 24 Oct 2026.
 
-Sam Warren is a house and garage artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across London and Newcastle. Often billed alongside James Worker, Molly Sinnott and PHJ.WAV. Next up: Ouseburn Garden, Newcastle on Sat 24 Oct.
+Sam Warren is a house and garage artist based in United Kingdom, with 20 gigs on soundcheck across London and Newcastle. Often billed alongside James Worker, Molly Sinnott and PHJ.WAV. Next up: Ouseburn Garden, Newcastle on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Sam Warren is a house and garage artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- Ouseburn Garden, Newcastle — Fri, 11 Sept 2026
-- Peckham Arches, London — Sun, 30 Aug 2026
-- Ernest, Newcastle — Sat, 22 Aug 2026
-- Ouseburn Garden, Newcastle — Sat, 30 May 2026
-- Cobalt Studios, Newcastle — Sat, 21 Mar 2026
-- Tokyo Bar, Newcastle — Fri, 6 Feb 2026
-- World Headquarters, Newcastle — Fri, 3 Oct 2025
-- Tokyo Bar, Newcastle — Fri, 11 Jul 2025
+- Ouseburn Garden, Newcastle · Fri, 11 Sept 2026
+- Peckham Arches, London · Sun, 30 Aug 2026
+- Ernest, Newcastle · Sat, 22 Aug 2026
+- Ouseburn Garden, Newcastle · Sat, 30 May 2026
+- Cobalt Studios, Newcastle · Sat, 21 Mar 2026
+- Tokyo Bar, Newcastle · Fri, 6 Feb 2026
+- World Headquarters, Newcastle · Fri, 3 Oct 2025
+- Tokyo Bar, Newcastle · Fri, 11 Jul 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # PEW26 - Instructions pour un set-up live bizarre avec DJ Startup at Mains D'œuvres
 
-PEW26 - Instructions pour un set-up live bizarre avec DJ Startup at Mains D'œuvres on Sun 4 Oct, Paris. Preview the line-up and save it on soundcheck.
+PEW26 - Instructions pour un set-up live bizarre avec DJ Startup at Mains D'œuvres on Sun 4 Oct, Paris. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

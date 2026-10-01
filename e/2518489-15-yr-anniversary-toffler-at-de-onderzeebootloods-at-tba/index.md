@@ -1,6 +1,6 @@
 # 15 YR anniversary TOFFLER at de Onderzeebootloods at TBA
 
-15 YR anniversary TOFFLER at de Onderzeebootloods at TBA on Sat 14 Nov, Rotterdam. Techno and House. Preview the line-up and save it on soundcheck.
+15 YR anniversary TOFFLER at de Onderzeebootloods at TBA on Sat 14 Nov, Rotterdam. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

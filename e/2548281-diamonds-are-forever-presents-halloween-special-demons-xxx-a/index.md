@@ -1,6 +1,6 @@
 # DIAMONDS ARE FOREVER presents Halloween Special DEMONS XXX at Club Metro
 
-DIAMONDS ARE FOREVER presents Halloween Special DEMONS XXX at Club Metro on Fri 30 Oct, Kyoto. House and Disco. Preview the line-up and save it on soundcheck.
+DIAMONDS ARE FOREVER presents Halloween Special DEMONS XXX at Club Metro on Fri 30 Oct, Kyoto. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

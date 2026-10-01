@@ -1,6 +1,6 @@
 # SUPERFUZZ Alternative Indie & Raw Disco Party at Suns Shimokitazawa
 
-SUPERFUZZ Alternative Indie & Raw Disco Party at Suns Shimokitazawa on Sat 17 Oct, Tokyo. 1 artist on the bill: Keigo. Post-Punk. Preview the line-up and save it on soundcheck.
+SUPERFUZZ Alternative Indie & Raw Disco Party at Suns Shimokitazawa on Sat 17 Oct, Tokyo. 1 artist: Keigo. Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

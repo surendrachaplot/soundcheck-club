@@ -1,6 +1,6 @@
 # Friday with Bladerunner at A38
 
-Friday with Bladerunner at A38 on Fri 2 Oct, Budapest. Drum & Bass. Preview the line-up and save it on soundcheck.
+Friday with Bladerunner at A38 on Fri 2 Oct, Budapest. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

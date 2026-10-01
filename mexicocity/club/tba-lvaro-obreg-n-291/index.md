@@ -1,8 +1,8 @@
 # TBA - Álvaro Obregón 291
 
-TBA - Álvaro Obregón 291 is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "AFROTRONIQUE" on Fri, 16 Oct 2026.
+TBA - Álvaro Obregón 291 is a music venue in Mexico City with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "AFROTRONIQUE" on Fri, 16 Oct 2026.
 
-TBA - Álvaro Obregón 291 is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Dj Dizam, Tchakomi and Tonga Conga. Browse upcoming dates, start times and who's playing.
+TBA - Álvaro Obregón 291 is a music venue in Mexico City listed on soundcheck. 1 upcoming gig, with line-ups including Dj Dizam, Tchakomi and Tonga Conga. See dates, start times and who's playing.
 
 ## What's on
 

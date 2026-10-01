@@ -1,8 +1,8 @@
 # Circadian
 
-Circadian is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
+Circadian is a Drum & Bass and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Depot Mayfield, Manchester on Fri, 9 Oct 2026.
 
-Circadian is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Adelaide, Amsterdam, Auckland and Barcelona and 27 more. Often billed alongside K Motionz, Koven and Skantia. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
+Circadian is a drum & bass and jungle artist based in United Kingdom, with 42 gigs on soundcheck across Adelaide, Amsterdam, Auckland and Barcelona and 27 more. Often billed alongside K Motionz, Koven and Skantia. Next up: Depot Mayfield, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Circadian is a drum & bass and jungle artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- The Clock Factory, Bristol — Fri, 18 Sept 2026
-- Thuishaven, Amsterdam — Sat, 12 Sept 2026
-- The Bongo Club, Edinburgh — Thu, 10 Sept 2026
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- Document, Bristol — Sat, 18 Jul 2026
-- Mary's Underground, Sydney — Sat, 9 May 2026
-- Divide Nightclub, Adelaide — Fri, 8 May 2026
-- The Meadows, New York City — Sat, 18 Apr 2026
+- The Clock Factory, Bristol · Fri, 18 Sept 2026
+- Thuishaven, Amsterdam · Sat, 12 Sept 2026
+- The Bongo Club, Edinburgh · Thu, 10 Sept 2026
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- Document, Bristol · Sat, 18 Jul 2026
+- Mary's Underground, Sydney · Sat, 9 May 2026
+- Divide Nightclub, Adelaide · Fri, 8 May 2026
+- The Meadows, New York City · Sat, 18 Apr 2026
 
 ## Shares bills with
 

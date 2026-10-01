@@ -1,8 +1,8 @@
 # Amigo
 
-Amigo is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Back To Wax with Saint Lukez & Toolate Groove" on Fri, 2 Oct 2026.
+Amigo is a music venue in Ghent with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Back To Wax with Saint Lukez & Toolate Groove" on Fri, 2 Oct 2026.
 
-Amigo is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line-ups including AliA, Be, Ben Kamal and Casper and 2 more. Browse upcoming dates, start times and who's playing. Stapelplein 31, 9000 Gent, Belgium.
+Amigo is a music venue in Ghent listed on soundcheck. 4 upcoming gigs, with line-ups including AliA, Be, Ben Kamal and Casper and 2 more. See dates, start times and who's playing. Stapelplein 31, 9000 Gent, Belgium.
 
 ## What's on
 

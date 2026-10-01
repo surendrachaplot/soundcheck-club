@@ -1,6 +1,6 @@
 # Matter Of Fact presents Bloody Mary Vinyl DJ Set at TBA
 
-Matter Of Fact presents Bloody Mary Vinyl DJ Set at TBA on Thu 1 Oct, Berlin. 1 artist on the bill: Bloody Mary. Techno and Acid. Preview the line-up and save it on soundcheck.
+Matter Of Fact presents Bloody Mary Vinyl DJ Set at TBA on Thu 1 Oct, Berlin. 1 artist: Bloody Mary. Techno and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

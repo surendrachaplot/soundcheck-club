@@ -1,6 +1,6 @@
 # ANDY CARUSO at Gwenda
 
-ANDY CARUSO at Gwenda on Fri 2 Oct, London. 6 artists on the bill: Bosq, Hotmood, Jamie 3:26 and Marcel Vogel and 2 more. Preview the line-up and save it on soundcheck.
+ANDY CARUSO at Gwenda on Fri 2 Oct, London. 6 artists: Bosq, Hotmood, Jamie 3:26 and Marcel Vogel and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # MONOTON - Trance All Night Long at Rosenkeller
 
-MONOTON - Trance All Night Long at Rosenkeller on Fri 2 Oct, Jena. 1 artist on the bill: The Jakob Sister. Preview the line-up and save it on soundcheck.
+MONOTON - Trance All Night Long at Rosenkeller on Fri 2 Oct, Jena. 1 artist: The Jakob Sister. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

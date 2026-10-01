@@ -1,6 +1,6 @@
 # B'fast2night & Explore - ADE Showcase at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam
 
-B'fast2night & Explore - ADE Showcase at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam on Thu 22 Oct, Amsterdam. Progressive House and House. Preview the line-up and save it on soundcheck.
+B'fast2night & Explore - ADE Showcase at Aevum x 50:Hertz House & Techno Club Rembrandt Square | Rembrandtplein 45, Amsterdam on Thu 22 Oct, Amsterdam. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

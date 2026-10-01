@@ -1,8 +1,8 @@
 # Horse Meat Disco
 
-Horse Meat Disco is a House and Disco artist with 17 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fidelity Studio, Dublin on Fri, 2 Oct 2026.
+Horse Meat Disco is a House and Disco artist with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fidelity Studio, Dublin on Fri, 2 Oct 2026.
 
-Horse Meat Disco is a house and disco artist based in United Kingdom, tracked on soundcheck, with 401 sets logged across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Fidelity Studio, Dublin on Fri 2 Oct.
+Horse Meat Disco is a house and disco artist based in United Kingdom, with 401 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 56 more. Often billed alongside Luke Howard, James Hillard and Severino. Next up: Fidelity Studio, Dublin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Horse Meat Disco is a house and disco artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- The Eagle, London — Sun, 27 Sept 2026
-- Depot Mayfield, Manchester — Sat, 26 Sept 2026
-- smartbar, Chicago — Sat, 26 Sept 2026
-- The Eagle, London — Sun, 20 Sept 2026
-- The Cause, London — Sat, 19 Sept 2026
-- The Eagle, London — Sun, 13 Sept 2026
-- The Eagle, London — Sun, 6 Sept 2026
-- Amnesia Ibiza, Ibiza — Fri, 4 Sept 2026
+- The Eagle, London · Sun, 27 Sept 2026
+- Depot Mayfield, Manchester · Sat, 26 Sept 2026
+- smartbar, Chicago · Sat, 26 Sept 2026
+- The Eagle, London · Sun, 20 Sept 2026
+- The Cause, London · Sat, 19 Sept 2026
+- The Eagle, London · Sun, 13 Sept 2026
+- The Eagle, London · Sun, 6 Sept 2026
+- Amnesia Ibiza, Ibiza · Fri, 4 Sept 2026
 
 ## Shares bills with
 

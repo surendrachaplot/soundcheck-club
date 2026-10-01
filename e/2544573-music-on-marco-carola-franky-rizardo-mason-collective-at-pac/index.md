@@ -1,6 +1,6 @@
 # Music On: Marco Carola, Franky Rizardo, Mason Collective at Pacha New York
 
-Music On: Marco Carola, Franky Rizardo, Mason Collective at Pacha New York on Fri 16 Oct, New York City. 3 artists on the bill: Franky Rizardo, Marco Carola and Mason Collective. Preview the line-up and save it on soundcheck.
+Music On: Marco Carola, Franky Rizardo, Mason Collective at Pacha New York on Fri 16 Oct, New York City. 3 artists: Franky Rizardo, Marco Carola and Mason Collective. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Dimensions x The Loft: Nicolas Lutz, Adi & Simon Scott at The Loft
 
-Dimensions x The Loft: Nicolas Lutz, Adi & Simon Scott on Fri 30 Oct, Manchester. 3 artists on the bill: Adi, Nicolas Lutz and Simon Scott. Preview the line-up and save it on soundcheck.
+Dimensions x The Loft: Nicolas Lutz, Adi & Simon Scott on Fri 30 Oct, Manchester. 3 artists: Adi, Nicolas Lutz and Simon Scott. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

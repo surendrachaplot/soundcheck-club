@@ -1,6 +1,6 @@
 # Ambient Sauna • Danalogue & Mari* at Sauna Social Club
 
-Ambient Sauna • Danalogue & Mari* at Sauna Social Club on Sun 11 Oct, London. Ambient and Jazz. Preview the line-up and save it on soundcheck.
+Ambient Sauna • Danalogue & Mari* at Sauna Social Club on Sun 11 Oct, London. Ambient and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

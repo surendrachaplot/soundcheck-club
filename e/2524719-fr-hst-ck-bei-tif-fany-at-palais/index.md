@@ -1,6 +1,6 @@
 # FRÜHSTÜCK BEI TIF-FANY at Palais
 
-FRÜHSTÜCK BEI TIF-FANY at Palais on Sun 4 Oct, Munich. Techno and Tech House. Preview the line-up and save it on soundcheck.
+FRÜHSTÜCK BEI TIF-FANY at Palais on Sun 4 Oct, Munich. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

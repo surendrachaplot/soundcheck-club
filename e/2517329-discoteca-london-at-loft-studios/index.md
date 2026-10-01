@@ -1,6 +1,6 @@
 # Discoteca London at Loft Studios
 
-Discoteca London at Loft Studios on Fri 16 Oct, London. 6 artists on the bill: Daisybelle, Dirty Channels, Franklin DJ and Jonny Rock and 2 more. House and Disco. Preview the line-up and save it on soundcheck.
+Discoteca London at Loft Studios on Fri 16 Oct, London. 6 artists: Daisybelle, Dirty Channels, Franklin DJ and Jonny Rock and 2 more. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

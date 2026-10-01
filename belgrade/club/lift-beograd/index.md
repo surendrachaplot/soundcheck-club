@@ -1,8 +1,8 @@
 # Lift Beograd
 
-Lift Beograd is a music venue in Belgrade with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Jackie at LIFT" on Fri, 2 Oct 2026.
+Lift Beograd is a music venue in Belgrade with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Jackie at LIFT" on Fri, 2 Oct 2026.
 
-Lift Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming gigs, with line-ups including Jackie Dagger. Browse upcoming dates, start times and who's playing. Cetinjska 15.
+Lift Beograd is a music venue in Belgrade listed on soundcheck. 4 upcoming gigs, with line-ups including Jackie Dagger. See dates, start times and who's playing. Cetinjska 15.
 
 ## What's on
 

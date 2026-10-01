@@ -1,6 +1,6 @@
 # DMC World Champion DJ KENTARO – TETSUJI TANAKA 30th Anniversary at Yodo Groove (Yodobashi Ikebukuro)
 
-DMC World Champion DJ KENTARO – TETSUJI TANAKA 30th Anniversary at Yodo Groove (Yodobashi Ikebukuro) on Mon 12 Oct, Tokyo. 4 artists on the bill: DJ MIYU, KEiTA, Light.aka and Sarina Tokihira. Breakbeat and Drum & Bass. Preview the line-up and save it on soundcheck.
+DMC World Champion DJ KENTARO – TETSUJI TANAKA 30th Anniversary at Yodo Groove (Yodobashi Ikebukuro) on Mon 12 Oct, Tokyo. 4 artists: DJ MIYU, KEiTA, Light.aka and Sarina Tokihira. Breakbeat and Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HIGH STEP SOCIETY with Willdabeast at Hidden Hall
 
-HIGH STEP SOCIETY with Willdabeast at Hidden Hall on Thu 17 Dec, Seattle. Electro and Funk / Soul. Preview the line-up and save it on soundcheck.
+HIGH STEP SOCIETY with Willdabeast at Hidden Hall on Thu 17 Dec, Seattle. Electro and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

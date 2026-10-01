@@ -1,6 +1,6 @@
 # Collect 200 - Montréal at Fairmount Theatre
 
-Collect 200 - Montréal at Fairmount Theatre on Sat 7 Nov, Montreal. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Collect 200 - Montréal at Fairmount Theatre on Sat 7 Nov, Montreal. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

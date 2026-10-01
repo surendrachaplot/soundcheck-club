@@ -1,8 +1,8 @@
 # TBA - Lyon - Confluence
 
-TBA - Lyon - Confluence is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "S festival 2026" on Wed, 9 Dec 2026.
+TBA - Lyon - Confluence is a music venue in Lyon with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "S festival 2026" on Wed, 9 Dec 2026.
 
-TBA - Lyon - Confluence is a music venue in Lyon listed on soundcheck. 1 upcoming gig, with line-ups including Cassius, Chuimix, David August and Dj Babatr and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Lyon - Confluence is a music venue in Lyon listed on soundcheck. 1 upcoming gig, with line-ups including Cassius, Chuimix, David August and Dj Babatr and 2 more. See dates, start times and who's playing.
 
 ## What's on
 

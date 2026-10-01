@@ -1,6 +1,6 @@
 # go.play mit Gazztel at Minimal Bar
 
-go.play mit Gazztel at Minimal Bar on Tue 3 Nov, Berlin. Preview the line-up and save it on soundcheck.
+go.play mit Gazztel at Minimal Bar on Tue 3 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

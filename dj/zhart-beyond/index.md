@@ -1,8 +1,8 @@
 # zhart (BeYond)
 
-zhart (BeYond) is a Deep House and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Fri, 30 Oct 2026.
+zhart (BeYond) is a Deep House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kater, Berlin on Fri, 30 Oct 2026.
 
-zhart (BeYond) is a deep house and progressive house artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin and Stuttgart. Often billed alongside Seyde, Baba The Knife and Corios. Next up: Kater, Berlin on Fri 30 Oct.
+zhart (BeYond) is a deep house and progressive house artist based in Germany, with 17 gigs on soundcheck across Berlin and Stuttgart. Often billed alongside Seyde, Baba The Knife and Corios. Next up: Kater, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ zhart (BeYond) is a deep house and progressive house artist based in Germany, tr
 
 ## Recently played
 
-- Beate Uwe, Berlin — Sun, 21 Dec 2025
-- Kater, Berlin — Sat, 13 Dec 2025
-- Klunkerkranich, Berlin — Thu, 2 Oct 2025
-- Beate Uwe, Berlin — Sat, 2 Aug 2025
-- Beate Uwe, Berlin — Fri, 9 May 2025
-- Beate Uwe, Berlin — Sun, 26 Jan 2025
-- Kater, Berlin — Sat, 14 Dec 2024
-- Beate Uwe, Berlin — Sun, 10 Nov 2024
+- Beate Uwe, Berlin · Sun, 21 Dec 2025
+- Kater, Berlin · Sat, 13 Dec 2025
+- Klunkerkranich, Berlin · Thu, 2 Oct 2025
+- Beate Uwe, Berlin · Sat, 2 Aug 2025
+- Beate Uwe, Berlin · Fri, 9 May 2025
+- Beate Uwe, Berlin · Sun, 26 Jan 2025
+- Kater, Berlin · Sat, 14 Dec 2024
+- Beate Uwe, Berlin · Sun, 10 Nov 2024
 
 ## Shares bills with
 

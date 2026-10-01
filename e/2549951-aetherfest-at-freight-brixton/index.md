@@ -1,6 +1,6 @@
 # AETHERFEST at Freight Brixton
 
-AETHERFEST at Freight Brixton on Sun 25 Oct, London. 1 artist on the bill: SHEMYYY. Electro and Electronica. Preview the line-up and save it on soundcheck.
+AETHERFEST at Freight Brixton on Sun 25 Oct, London. 1 artist: SHEMYYY. Electro and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

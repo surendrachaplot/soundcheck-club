@@ -1,6 +1,6 @@
 # Kapsule presents LIBERO at ADE at Toekomstmuziek
 
-Kapsule presents LIBERO at ADE at Toekomstmuziek on Sun 25 Oct, Amsterdam. 8 artists on the bill: Dan Costello, FIFI FORTE, FIRZA and Joey London and 4 more. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+Kapsule presents LIBERO at ADE at Toekomstmuziek on Sun 25 Oct, Amsterdam. 8 artists: Dan Costello, FIFI FORTE, FIRZA and Joey London and 4 more. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

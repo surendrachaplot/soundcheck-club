@@ -1,6 +1,6 @@
 # Dopamine Records Takevoer at Bar Oriente
 
-Dopamine Records Takevoer at Bar Oriente on Thu 1 Oct, Mexico City. 3 artists on the bill: Brown Sugar, Odem and Toriz. House and Tech House. Preview the line-up and save it on soundcheck.
+Dopamine Records Takevoer at Bar Oriente on Thu 1 Oct, Mexico City. 3 artists: Brown Sugar, Odem and Toriz. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

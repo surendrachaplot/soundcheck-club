@@ -1,6 +1,6 @@
 # ANFANG FAM DAY at Cadavra
 
-ANFANG FAM DAY at Cadavra on Thu 15 Oct, Madrid. 2 artists on the bill: Irazu and Safia. Techno and Electronica. Preview the line-up and save it on soundcheck.
+ANFANG FAM DAY at Cadavra on Thu 15 Oct, Madrid. 2 artists: Irazu and Safia. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Paradisco at WAV at WaV
 
-Paradisco at WAV at WaV on Sat 17 Oct, Liverpool. 3 artists on the bill: Dimitri From Paris, Paul Reynolds and Ross Whisper. House and Disco. Preview the line-up and save it on soundcheck.
+Paradisco at WAV at WaV on Sat 17 Oct, Liverpool. 3 artists: Dimitri From Paris, Paul Reynolds and Ross Whisper. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

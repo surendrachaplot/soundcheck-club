@@ -1,6 +1,6 @@
 # Off Script x Moodyverse at Veronica Schip
 
-Off Script x Moodyverse at Veronica Schip on Fri 23 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Off Script x Moodyverse at Veronica Schip on Fri 23 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BASSROOM - KEY KLAU + JC + BB NOISE + JEY JEY + MURTHERFACE + TEKNOIZE KIDS + BLOUDY at Laboratorio Octogon
 
-BASSROOM - KEY KLAU + JC + BB NOISE + JEY JEY + MURTHERFACE + TEKNOIZE KIDS + BLOUDY at Laboratorio Octogon on Sat 3 Oct, Madrid. 1 artist on the bill: Keyklau. Techno and Industrial. Preview the line-up and save it on soundcheck.
+BASSROOM - KEY KLAU + JC + BB NOISE + JEY JEY + MURTHERFACE + TEKNOIZE KIDS + BLOUDY at Laboratorio Octogon on Sat 3 Oct, Madrid. 1 artist: Keyklau. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

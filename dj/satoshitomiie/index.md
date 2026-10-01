@@ -1,8 +1,8 @@
 # Satoshi Tomiie
 
-Satoshi Tomiie is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Polifonic.MX, Guadalajara on Fri, 2 Oct 2026.
+Satoshi Tomiie is a House and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Polifonic.MX, Guadalajara on Fri, 2 Oct 2026.
 
-Satoshi Tomiie is a house and techno artist based in Japan, tracked on soundcheck, with 129 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Doudou MD, Tomoki Tamura and Cabanne. Next up: Polifonic.MX, Guadalajara on Fri 2 Oct.
+Satoshi Tomiie is a house and techno artist based in Japan, with 129 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belgrade and 39 more. Often billed alongside Doudou MD, Tomoki Tamura and Cabanne. Next up: Polifonic.MX, Guadalajara on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Satoshi Tomiie is a house and techno artist based in Japan, tracked on soundchec
 
 ## Recently played
 
-- H0L0, New York City — Sat, 26 Sept 2026
-- Jolene Downtown Miami, Miami — Fri, 25 Sept 2026
-- smartbar, Chicago — Fri, 18 Sept 2026
-- Fvtvr, Paris — Sat, 12 Sept 2026
-- TV Lounge, Detroit — Fri, 14 Aug 2026
-- TV Lounge, Detroit — Thu, 13 Aug 2026
-- Tangent Gallery, Detroit — Thu, 13 Aug 2026
-- Signal, New York City — Fri, 7 Aug 2026
+- H0L0, New York City · Sat, 26 Sept 2026
+- Jolene Downtown Miami, Miami · Fri, 25 Sept 2026
+- smartbar, Chicago · Fri, 18 Sept 2026
+- Fvtvr, Paris · Sat, 12 Sept 2026
+- TV Lounge, Detroit · Fri, 14 Aug 2026
+- TV Lounge, Detroit · Thu, 13 Aug 2026
+- Tangent Gallery, Detroit · Thu, 13 Aug 2026
+- Signal, New York City · Fri, 7 Aug 2026
 
 ## Shares bills with
 

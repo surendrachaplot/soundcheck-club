@@ -1,6 +1,6 @@
 # Salut Zamme ! with Panteros666 + Estelle Zamme + ZK + Tia at Case à Chocs
 
-Salut Zamme ! with Panteros666 + Estelle Zamme + ZK + Tia at Case à Chocs on Sat 28 Nov, Switzerland. 1 artist on the bill: Panteros666. Preview the line-up and save it on soundcheck.
+Salut Zamme ! with Panteros666 + Estelle Zamme + ZK + Tia at Case à Chocs on Sat 28 Nov, Switzerland. 1 artist: Panteros666. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

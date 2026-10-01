@@ -1,6 +1,6 @@
 # Denham Audio at Smoke & Mirrors
 
-Denham Audio at Smoke & Mirrors on Fri 11 Dec, Chicago. 1 artist on the bill: Denham Audio. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+Denham Audio at Smoke & Mirrors on Fri 11 Dec, Chicago. 1 artist: Denham Audio. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

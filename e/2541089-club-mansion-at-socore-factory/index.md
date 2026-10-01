@@ -1,6 +1,6 @@
 # club MANSION at Socore Factory
 
-club MANSION at Socore Factory on Mon 2 Nov, Osaka. Preview the line-up and save it on soundcheck.
+club MANSION at Socore Factory on Mon 2 Nov, Osaka. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

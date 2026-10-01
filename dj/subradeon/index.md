@@ -1,8 +1,8 @@
 # Subradeon
 
-Subradeon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tempio del Futuro Perduto, Milan on Thu, 1 Oct 2026.
+Subradeon is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tempio del Futuro Perduto, Milan on Thu, 1 Oct 2026.
 
-Subradeon is a techno and house artist based in Italy, tracked on soundcheck, with 33 sets logged across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Alan Fitzpatrick, Anja Schneider and Esther Silex. Next up: Tempio del Futuro Perduto, Milan on Thu 1 Oct.
+Subradeon is a techno and house artist based in Italy, with 33 gigs on soundcheck across Barcelona, Berlin, London and Madrid and 3 more. Often billed alongside Alan Fitzpatrick, Anja Schneider and Esther Silex. Next up: Tempio del Futuro Perduto, Milan on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Subradeon is a techno and house artist based in Italy, tracked on soundcheck, wi
 
 ## Recently played
 
-- Starlane Pizza Bar, London — Sun, 30 Aug 2026
-- Tresor / Globus, Berlin — Fri, 28 Aug 2026
-- LAUT, Barcelona — Fri, 31 Jul 2026
-- TBA -  KURUMA, Naples — Fri, 10 Jul 2026
-- Eclipse Club, Naples — Sun, 8 Feb 2026
-- Prince Charles, Berlin — Wed, 31 Dec 2025
-- TBA - Secret Location, Berlin — Sat, 20 Dec 2025
-- Coco Boule, Berlin — Fri, 3 Oct 2025
+- Starlane Pizza Bar, London · Sun, 30 Aug 2026
+- Tresor / Globus, Berlin · Fri, 28 Aug 2026
+- LAUT, Barcelona · Fri, 31 Jul 2026
+- TBA -  KURUMA, Naples · Fri, 10 Jul 2026
+- Eclipse Club, Naples · Sun, 8 Feb 2026
+- Prince Charles, Berlin · Wed, 31 Dec 2025
+- TBA - Secret Location, Berlin · Sat, 20 Dec 2025
+- Coco Boule, Berlin · Fri, 3 Oct 2025
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # The Ivy
 
-The Ivy is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Lost Sundays Block Party — October 4 [Long Weekend]" on Sun, 4 Oct 2026.
+The Ivy is a music venue in Sydney with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Lost Sundays Block Party — October 4 [Long Weekend]" on Sun, 4 Oct 2026.
 
-The Ivy is a music venue in Sydney listed on soundcheck. 9 upcoming gigs, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. Browse upcoming dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
+The Ivy is a music venue in Sydney listed on soundcheck. 9 upcoming gigs, with line-ups including AEREA, AKEYLAH, Alex Wann and Azyr and 2 more. See dates, start times and who's playing. 320-330 George St; Sydney, NSW 2000; Australia.
 
 ## What's on
 

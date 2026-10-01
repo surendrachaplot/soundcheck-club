@@ -1,6 +1,6 @@
 # Nimean Sunset at Terraza Catedral
 
-Nimean Sunset at Terraza Catedral on Fri 2 Oct, Mexico City. 1 artist on the bill: Nimean Sunset. House and Minimal. Preview the line-up and save it on soundcheck.
+Nimean Sunset at Terraza Catedral on Fri 2 Oct, Mexico City. 1 artist: Nimean Sunset. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

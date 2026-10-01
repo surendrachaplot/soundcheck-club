@@ -1,6 +1,6 @@
 # BAD BOOMBOX power by MIDNIGHT BISCUIT at Kastel
 
-BAD BOOMBOX power by MIDNIGHT BISCUIT at Kastel on Fri 2 Oct, Istanbul. 1 artist on the bill: Merve Baykal. House. Preview the line-up and save it on soundcheck.
+BAD BOOMBOX power by MIDNIGHT BISCUIT at Kastel on Fri 2 Oct, Istanbul. 1 artist: Merve Baykal. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

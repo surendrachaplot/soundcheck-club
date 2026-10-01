@@ -1,6 +1,6 @@
 # Savant Fair at Plano B
 
-Savant Fair at Plano B on Fri 2 Oct, Porto. 2 artists on the bill: Joao Semedo and Savant Fair. House and Club. Preview the line-up and save it on soundcheck.
+Savant Fair at Plano B on Fri 2 Oct, Porto. 2 artists: Joao Semedo and Savant Fair. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

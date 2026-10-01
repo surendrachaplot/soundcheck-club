@@ -1,6 +1,6 @@
 # Mount Kimbie presents TUNNELVISION at Casa Capitão
 
-Mount Kimbie presents TUNNELVISION at Casa Capitão on Sat 24 Oct, Lisbon. 7 artists on the bill: Adriana Ruas, Bernardo Vaz, Cruz (PT) and JASSS and 3 more. Bass and Electronica. Preview the line-up and save it on soundcheck.
+Mount Kimbie presents TUNNELVISION at Casa Capitão on Sat 24 Oct, Lisbon. 7 artists: Adriana Ruas, Bernardo Vaz, Cruz (PT) and JASSS and 3 more. Bass and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

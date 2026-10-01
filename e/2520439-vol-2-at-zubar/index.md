@@ -1,6 +1,6 @@
 # 咲いた咲いた、裂けた Vol.2 at ZUBAR
 
-咲いた咲いた、裂けた Vol.2 at ZUBAR on Fri 23 Oct, Tokyo. Preview the line-up and save it on soundcheck.
+咲いた咲いた、裂けた Vol.2 at ZUBAR on Fri 23 Oct, Tokyo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

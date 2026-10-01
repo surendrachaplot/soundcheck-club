@@ -1,6 +1,6 @@
 # Deets, Pariah at export
 
-Deets, Pariah at export on Fri 16 Oct, Rotterdam. 2 artists on the bill: Deets and Pariah. Preview the line-up and save it on soundcheck.
+Deets, Pariah at export on Fri 16 Oct, Rotterdam. 2 artists: Deets and Pariah. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

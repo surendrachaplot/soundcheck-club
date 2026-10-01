@@ -1,6 +1,6 @@
 # Techno Ihr Hasen / Detroit Connection at Der Weiße Hase
 
-Techno Ihr Hasen / Detroit Connection at Der Weiße Hase on Fri 30 Oct, Berlin. 5 artists on the bill: DAV3, DAZA, Emanuel Eisbrenner and Ixbalanke and 1 more. Techno. Preview the line-up and save it on soundcheck.
+Techno Ihr Hasen / Detroit Connection at Der Weiße Hase on Fri 30 Oct, Berlin. 5 artists: DAV3, DAZA, Emanuel Eisbrenner and Ixbalanke and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

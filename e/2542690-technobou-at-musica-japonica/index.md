@@ -1,6 +1,6 @@
 # TECHNOBOU at Musica Japonica
 
-TECHNOBOU at Musica Japonica on Fri 16 Oct, Osaka. Techno and House. Preview the line-up and save it on soundcheck.
+TECHNOBOU at Musica Japonica on Fri 16 Oct, Osaka. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Annexia presents: Hasfeldt, Burning Pyre, Rosabella Allen at Impiety Hour
 
-Annexia presents: Hasfeldt, Burning Pyre, Rosabella Allen at Impiety Hour on Fri 16 Oct, Manchester. 2 artists on the bill: Hasfeldt and Rosabella. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Annexia presents: Hasfeldt, Burning Pyre, Rosabella Allen at Impiety Hour on Fri 16 Oct, Manchester. 2 artists: Hasfeldt and Rosabella. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

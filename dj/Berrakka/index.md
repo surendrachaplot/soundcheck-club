@@ -1,8 +1,8 @@
 # Berrakka
 
-Berrakka is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Berrakka is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-Berrakka is a techno and club artist based in United States of America, tracked on soundcheck, with 63 sets logged across Los Angeles, Miami, New York City and Portland. Often billed alongside v1fro, Pressure Point (US) and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Berrakka is a techno and club artist based in United States of America, with 63 gigs on soundcheck across Los Angeles, Miami, New York City and Portland. Often billed alongside v1fro, Pressure Point (US) and SATURNSARii. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Berrakka is a techno and club artist based in United States of America, tracked 
 
 ## Recently played
 
-- TBA, Miami — Sat, 5 Sept 2026
-- Elsewhere, New York City — Fri, 17 Jul 2026
-- Jolene Downtown Miami, Miami — Thu, 2 Jul 2026
-- The Ground at Club Space, Miami — Sat, 13 Jun 2026
-- Factory Town, Miami — Sat, 18 Apr 2026
-- TBA - Los Angeles, Los Angeles — Sat, 14 Mar 2026
-- H0L0, New York City — Fri, 6 Feb 2026
-- Factory Town, Miami — Fri, 5 Dec 2025
+- TBA, Miami · Sat, 5 Sept 2026
+- Elsewhere, New York City · Fri, 17 Jul 2026
+- Jolene Downtown Miami, Miami · Thu, 2 Jul 2026
+- The Ground at Club Space, Miami · Sat, 13 Jun 2026
+- Factory Town, Miami · Sat, 18 Apr 2026
+- TBA - Los Angeles, Los Angeles · Sat, 14 Mar 2026
+- H0L0, New York City · Fri, 6 Feb 2026
+- Factory Town, Miami · Fri, 5 Dec 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # NILS PETTER MOLVÆR TRIO *live at Gretchen
 
-NILS PETTER MOLVÆR TRIO *live at Gretchen on Thu 12 Nov, Berlin. Jazz and Electronica. Preview the line-up and save it on soundcheck.
+NILS PETTER MOLVÆR TRIO *live at Gretchen on Thu 12 Nov, Berlin. Jazz and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

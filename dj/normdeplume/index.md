@@ -1,8 +1,8 @@
 # Norm De Plume
 
-Norm De Plume is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Coil, Melbourne on Fri, 2 Oct 2026.
+Norm De Plume is a Deep House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Coil, Melbourne on Fri, 2 Oct 2026.
 
-Norm De Plume is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Melbourne and Sydney. Often billed alongside slippedup, Darcy Doogan and Andrew Fazzolari. Next up: Coil, Melbourne on Fri 2 Oct.
+Norm De Plume is a deep house and disco artist based in United Kingdom, with 24 gigs on soundcheck across Melbourne and Sydney. Often billed alongside slippedup, Darcy Doogan and Andrew Fazzolari. Next up: Coil, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Norm De Plume is a deep house and disco artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- East Sydney Community & Arts Centre, Sydney — Sun, 26 Jul 2026
-- East Sydney Community & Arts Centre, Sydney — Sun, 31 May 2026
-- East Sydney Community & Arts Centre, Sydney — Sun, 28 Dec 2025
-- Fringe Common Rooms, Melbourne — Sat, 6 Sept 2025
-- Plaza Hotel Sydney, Sydney — Sat, 12 Jul 2025
-- The Lucky Cat, Sydney — Fri, 13 Jun 2025
-- Plaza Hotel Sydney, Sydney — Sat, 3 May 2025
-- Rumbler Bar, Melbourne — Sat, 22 Mar 2025
+- East Sydney Community & Arts Centre, Sydney · Sun, 26 Jul 2026
+- East Sydney Community & Arts Centre, Sydney · Sun, 31 May 2026
+- East Sydney Community & Arts Centre, Sydney · Sun, 28 Dec 2025
+- Fringe Common Rooms, Melbourne · Sat, 6 Sept 2025
+- Plaza Hotel Sydney, Sydney · Sat, 12 Jul 2025
+- The Lucky Cat, Sydney · Fri, 13 Jun 2025
+- Plaza Hotel Sydney, Sydney · Sat, 3 May 2025
+- Rumbler Bar, Melbourne · Sat, 22 Mar 2025
 
 ## Shares bills with
 

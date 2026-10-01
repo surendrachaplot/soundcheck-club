@@ -1,6 +1,6 @@
 # Vault Sessions X BASSIANI WKNDR at RADION
 
-Vault Sessions X BASSIANI WKNDR at RADION on Sat 12 Dec, Amsterdam. 13 artists on the bill: Blasha & Allatt, DJ MARIA., DVS1 and Fadi Mohem and 9 more. Techno. Preview the line-up and save it on soundcheck.
+Vault Sessions X BASSIANI WKNDR at RADION on Sat 12 Dec, Amsterdam. 13 artists: Blasha & Allatt, DJ MARIA., DVS1 and Fadi Mohem and 9 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

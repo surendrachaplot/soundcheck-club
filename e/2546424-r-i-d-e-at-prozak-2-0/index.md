@@ -1,6 +1,6 @@
 # R I D E at Prozak 2.0
 
-R I D E at Prozak 2.0 on Sat 17 Oct, Krakow. Breakbeat and Techno. Preview the line-up and save it on soundcheck.
+R I D E at Prozak 2.0 on Sat 17 Oct, Krakow. Breakbeat and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # ANALOG // Briser G, 2flowers & Lalo Campo // Vinyl Set at Gorg-O-Mish
 
-ANALOG // Briser G, 2flowers & Lalo Campo // Vinyl Set at Gorg-O-Mish on Fri 2 Oct, Vancouver. 2 artists on the bill: 2flowers and Lalo Campo. Preview the line-up and save it on soundcheck.
+ANALOG // Briser G, 2flowers & Lalo Campo // Vinyl Set at Gorg-O-Mish on Fri 2 Oct, Vancouver. 2 artists: 2flowers and Lalo Campo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

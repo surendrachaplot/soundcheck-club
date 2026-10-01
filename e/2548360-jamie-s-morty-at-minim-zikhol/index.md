@@ -1,6 +1,6 @@
 # Jamie S / Morty at Minimüzikhol
 
-Jamie S / Morty at Minimüzikhol on Fri 2 Oct, Istanbul. 1 artist on the bill: Jamie S (TR). House and Tech House. Preview the line-up and save it on soundcheck.
+Jamie S / Morty at Minimüzikhol on Fri 2 Oct, Istanbul. 1 artist: Jamie S (TR). House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

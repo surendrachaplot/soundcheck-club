@@ -1,8 +1,8 @@
 # Mayell
 
-Mayell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
+Mayell is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Tenuta Tor De' Sordi, Rome on Sat, 10 Oct 2026.
 
-Mayell is a house and techno artist based in Slovenia, tracked on soundcheck, with 114 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Sibil, O.BEE and Tomas Station. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
+Mayell is a house and techno artist based in Slovenia, with 114 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Sibil, O.BEE and Tomas Station. Next up: Tenuta Tor De' Sordi, Rome on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Mayell is a house and techno artist based in Slovenia, tracked on soundcheck, wi
 
 ## Recently played
 
-- Club der Visionaere, Berlin — Tue, 8 Sept 2026
-- OXI, Berlin — Fri, 14 Aug 2026
-- Club der Visionaere, Berlin — Thu, 23 Jul 2026
-- Fvtvr, Paris — Fri, 3 Jul 2026
-- PRST, Vienna — Fri, 26 Jun 2026
-- Paraiso Estereo, Miami — Fri, 5 Jun 2026
-- Paraiso Estereo, Miami — Fri, 5 Jun 2026
-- Lincoln Factory, Detroit — Mon, 25 May 2026
+- Club der Visionaere, Berlin · Tue, 8 Sept 2026
+- OXI, Berlin · Fri, 14 Aug 2026
+- Club der Visionaere, Berlin · Thu, 23 Jul 2026
+- Fvtvr, Paris · Fri, 3 Jul 2026
+- PRST, Vienna · Fri, 26 Jun 2026
+- Paraiso Estereo, Miami · Fri, 5 Jun 2026
+- Paraiso Estereo, Miami · Fri, 5 Jun 2026
+- Lincoln Factory, Detroit · Mon, 25 May 2026
 
 ## Shares bills with
 

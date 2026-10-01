@@ -1,6 +1,6 @@
 # ALEMAO x R E J UV at TBA
 
-ALEMAO x R E J UV at TBA on Sat 19 Dec, Athens. Trance and Techno. Preview the line-up and save it on soundcheck.
+ALEMAO x R E J UV at TBA on Sat 19 Dec, Athens. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

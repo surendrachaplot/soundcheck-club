@@ -1,6 +1,6 @@
 # Virtuoso - HALLOWEEN at Four Quarters
 
-Virtuoso - HALLOWEEN at Four Quarters on Sat 31 Oct, London. Techno and House. Preview the line-up and save it on soundcheck.
+Virtuoso - HALLOWEEN at Four Quarters on Sat 31 Oct, London. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

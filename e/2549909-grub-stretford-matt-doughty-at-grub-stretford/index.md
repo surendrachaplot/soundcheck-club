@@ -1,6 +1,6 @@
 # GRUB Stretford: Matt Doughty at Grub Stretford
 
-GRUB Stretford: Matt Doughty at Grub Stretford on Sat 3 Oct, Manchester. House and Disco. Preview the line-up and save it on soundcheck.
+GRUB Stretford: Matt Doughty at Grub Stretford on Sat 3 Oct, Manchester. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

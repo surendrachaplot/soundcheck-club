@@ -1,6 +1,6 @@
 # I Hate Models at 42B Marine Parade, Elwood, VIC 3184
 
-I Hate Models at 42B Marine Parade, Elwood, VIC 3184 on Sat 12 Dec, Melbourne. Techno and Industrial. Preview the line-up and save it on soundcheck.
+I Hate Models at 42B Marine Parade, Elwood, VIC 3184 on Sat 12 Dec, Melbourne. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

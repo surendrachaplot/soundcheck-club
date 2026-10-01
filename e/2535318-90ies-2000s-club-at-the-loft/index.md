@@ -1,6 +1,6 @@
 # 90ies & 2000s Club at The Loft
 
-90ies & 2000s Club at The Loft on Sat 10 Oct, Vienna. Disco and Pop. Preview the line-up and save it on soundcheck.
+90ies & 2000s Club at The Loft on Sat 10 Oct, Vienna. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

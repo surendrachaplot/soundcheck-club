@@ -1,6 +1,6 @@
 # COMBO CLUB [Madbès & Alpha Sect • VOIDE ( Ambre & teinture-mère)] at Karmen Camina
 
-COMBO CLUB [Madbès & Alpha Sect • VOIDE ( Ambre & teinture-mère)] at Karmen Camina on Thu 8 Oct, Strasbourg. 1 artist on the bill: Alpha Sect. Progressive House and Electro. Preview the line-up and save it on soundcheck.
+COMBO CLUB [Madbès & Alpha Sect • VOIDE ( Ambre & teinture-mère)] at Karmen Camina on Thu 8 Oct, Strasbourg. 1 artist: Alpha Sect. Progressive House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

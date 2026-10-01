@@ -1,6 +1,6 @@
 # Discotronic at Absturz
 
-Discotronic at Absturz on Sat 3 Oct, Leipzig. Disco and Pop. Preview the line-up and save it on soundcheck.
+Discotronic at Absturz on Sat 3 Oct, Leipzig. Disco and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

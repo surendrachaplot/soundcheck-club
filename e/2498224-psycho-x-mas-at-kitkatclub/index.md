@@ -1,6 +1,6 @@
 # PSYCHO X-Mas at KitKatClub
 
-PSYCHO X-Mas at KitKatClub on Fri 25 Dec, Berlin. 1 artist on the bill: Ari Denaro. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+PSYCHO X-Mas at KitKatClub on Fri 25 Dec, Berlin. 1 artist: Ari Denaro. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Boo Halloween Arizona at Westworld of Scottsdale
 
-Boo Halloween Arizona at Westworld of Scottsdale on Fri 30 Oct, Arizona. 13 artists on the bill: Deorro, Dombresky, Gravagerz and James Hype (UK) and 9 more. Preview the line-up and save it on soundcheck.
+Boo Halloween Arizona at Westworld of Scottsdale on Fri 30 Oct, Arizona. 13 artists: Deorro, Dombresky, Gravagerz and James Hype (UK) and 9 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

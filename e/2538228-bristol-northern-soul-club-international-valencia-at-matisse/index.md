@@ -1,6 +1,6 @@
 # Bristol Northern Soul Club International - VALENCIA at Matisse
 
-Bristol Northern Soul Club International - VALENCIA at Matisse on Sat 28 Nov, Valencia. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Bristol Northern Soul Club International - VALENCIA at Matisse on Sat 28 Nov, Valencia. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

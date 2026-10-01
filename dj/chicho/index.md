@@ -1,8 +1,8 @@
 # CHICHO
 
-CHICHO is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fundbureau, Hamburg on Sat, 10 Oct 2026.
+CHICHO is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Fundbureau, Hamburg on Sat, 10 Oct 2026.
 
-CHICHO is a techno and house artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin and Hamburg. Often billed alongside Alexej, Shilo and JASHTECH. Next up: Fundbureau, Hamburg on Sat 10 Oct.
+CHICHO is a techno and house artist based in Germany, with 18 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Alexej, Shilo and JASHTECH. Next up: Fundbureau, Hamburg on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ CHICHO is a techno and house artist based in Germany, tracked on soundcheck, wit
 
 ## Recently played
 
-- Fundbureau, Hamburg — Sat, 12 Sept 2026
-- Club Frau Holle, Hamburg — Sat, 5 Sept 2026
-- Phoxxi Green Area, Hamburg — Sat, 25 Jul 2026
-- Club Frau Holle, Hamburg — Sat, 4 Jul 2026
-- Ratsherrn Bar Mühlenkamp, Hamburg — Sat, 27 Jun 2026
-- Fundbureau, Hamburg — Sat, 20 Jun 2026
-- Ratsherrn Bar Mühlenkamp, Hamburg — Thu, 14 May 2026
-- Fundbureau, Hamburg — Sat, 11 Apr 2026
+- Fundbureau, Hamburg · Sat, 12 Sept 2026
+- Club Frau Holle, Hamburg · Sat, 5 Sept 2026
+- Phoxxi Green Area, Hamburg · Sat, 25 Jul 2026
+- Club Frau Holle, Hamburg · Sat, 4 Jul 2026
+- Ratsherrn Bar Mühlenkamp, Hamburg · Sat, 27 Jun 2026
+- Fundbureau, Hamburg · Sat, 20 Jun 2026
+- Ratsherrn Bar Mühlenkamp, Hamburg · Thu, 14 May 2026
+- Fundbureau, Hamburg · Sat, 11 Apr 2026
 
 ## Shares bills with
 

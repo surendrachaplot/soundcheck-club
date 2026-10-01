@@ -1,6 +1,6 @@
 # BOLO's BLOCK AFTER HOURS at The Midway
 
-BOLO's BLOCK AFTER HOURS at The Midway on Sat 3 Oct, San Francisco/Oakland. Tech House. Preview the line-up and save it on soundcheck.
+BOLO's BLOCK AFTER HOURS at The Midway on Sat 3 Oct, San Francisco/Oakland. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

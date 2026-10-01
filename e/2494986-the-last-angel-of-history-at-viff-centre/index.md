@@ -1,6 +1,6 @@
 # The Last Angel of History at Viff Centre
 
-The Last Angel of History at Viff Centre on Fri 2 Oct, Vancouver. 1 artist on the bill: Speaker Music. Techno and Experimental. Preview the line-up and save it on soundcheck.
+The Last Angel of History at Viff Centre on Fri 2 Oct, Vancouver. 1 artist: Speaker Music. Techno and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # BEAR GRILLZ: DUBSTEP TIME MACHINE at Elektricity
 
-BEAR GRILLZ: DUBSTEP TIME MACHINE at Elektricity on Sat 10 Oct, Detroit. Dubstep. Preview the line-up and save it on soundcheck.
+BEAR GRILLZ: DUBSTEP TIME MACHINE at Elektricity on Sat 10 Oct, Detroit. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

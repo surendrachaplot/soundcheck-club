@@ -1,6 +1,6 @@
 # ANOTHER CHANCE at Club Sauvage
 
-ANOTHER CHANCE at Club Sauvage on Sat 24 Oct, Ghent. Preview the line-up and save it on soundcheck.
+ANOTHER CHANCE at Club Sauvage on Sat 24 Oct, Ghent. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

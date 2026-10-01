@@ -1,8 +1,8 @@
 # Louie Vega
 
-Louie Vega is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Louie Vega is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Louie Vega is a house and disco artist based in United States of America, tracked on soundcheck, with 206 sets logged across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Louie Vega is a house and disco artist based in United States of America, with 206 gigs on soundcheck across Amsterdam, Athens, Austin and Bali and 30 more. Often billed alongside Anane, Melvo Baptiste and Christian Mantini. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Louie Vega is a house and disco artist based in United States of America, tracke
 
 ## Recently played
 
-- [UNVRS], Ibiza — Sun, 13 Sept 2026
-- Cabaret Sauvage, Paris — Sat, 5 Sept 2026
-- KOKO, London — Fri, 4 Sept 2026
-- 528 Ibiza, Ibiza — Thu, 3 Sept 2026
-- Clifton Downs, Bristol — Sat, 1 Aug 2026
-- Blue Marlin Ibiza, Ibiza — Wed, 22 Jul 2026
-- Amnesia Ibiza, Ibiza — Fri, 17 Jul 2026
-- TBA - Downtown Los Angeles, Los Angeles — Sat, 11 Jul 2026
+- [UNVRS], Ibiza · Sun, 13 Sept 2026
+- Cabaret Sauvage, Paris · Sat, 5 Sept 2026
+- KOKO, London · Fri, 4 Sept 2026
+- 528 Ibiza, Ibiza · Thu, 3 Sept 2026
+- Clifton Downs, Bristol · Sat, 1 Aug 2026
+- Blue Marlin Ibiza, Ibiza · Wed, 22 Jul 2026
+- Amnesia Ibiza, Ibiza · Fri, 17 Jul 2026
+- TBA - Downtown Los Angeles, Los Angeles · Sat, 11 Jul 2026
 
 ## Shares bills with
 

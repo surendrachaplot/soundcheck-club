@@ -1,6 +1,6 @@
 # NOTTE TEKNO: STIWIE (MayDay Soundystem), Drum the System live, MTMA, Antikorpo at Tempio del Futuro Perduto
 
-NOTTE TEKNO: STIWIE (MayDay Soundystem), Drum the System live, MTMA, Antikorpo at Tempio del Futuro Perduto on Sat 3 Oct, Milan. 3 artists on the bill: Antikorpo, DRUM THE SYSTEM live and MTMA. Preview the line-up and save it on soundcheck.
+NOTTE TEKNO: STIWIE (MayDay Soundystem), Drum the System live, MTMA, Antikorpo at Tempio del Futuro Perduto on Sat 3 Oct, Milan. 3 artists: Antikorpo, DRUM THE SYSTEM live and MTMA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

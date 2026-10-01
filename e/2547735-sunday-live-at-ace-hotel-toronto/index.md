@@ -1,6 +1,6 @@
 # Sunday Live at Ace Hotel Toronto
 
-Sunday Live at Ace Hotel Toronto on Sun 18 Oct, Toronto. Preview the line-up and save it on soundcheck.
+Sunday Live at Ace Hotel Toronto on Sun 18 Oct, Toronto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

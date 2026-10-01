@@ -1,6 +1,6 @@
 # 7 Vibes Journey :: Sensual at Kraftwerk
 
-7 Vibes Journey :: Sensual at Kraftwerk on Sat 24 Oct, Zurich. 4 artists on the bill: dit:eau, Faro Alip, Lou Combo and R3NATA. Techno and Deep House. Preview the line-up and save it on soundcheck.
+7 Vibes Journey :: Sensual at Kraftwerk on Sat 24 Oct, Zurich. 4 artists: dit:eau, Faro Alip, Lou Combo and R3NATA. Techno and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

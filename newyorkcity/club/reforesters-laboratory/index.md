@@ -1,8 +1,8 @@
 # Reforesters Laboratory
 
-Reforesters Laboratory is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "​LIMINAL — Ambient Slush Dub Techno Deep Listening · FLINTA*-Only DJs" on Sat, 10 Oct 2026.
+Reforesters Laboratory is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "​LIMINAL — Ambient Slush Dub Techno Deep Listening · FLINTA*-Only DJs" on Sat, 10 Oct 2026.
 
-Reforesters Laboratory is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including 1ol1v1a, R-DNA and treesunstars. Browse upcoming dates, start times and who's playing. 147 Metropolitan Avenue.
+Reforesters Laboratory is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including 1ol1v1a, R-DNA and treesunstars. See dates, start times and who's playing. 147 Metropolitan Avenue.
 
 ## What's on
 

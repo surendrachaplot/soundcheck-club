@@ -1,6 +1,6 @@
 # B2B NY October Edition: Eugene Tambourine, Jools Palmer & Mandy Graves at The Monster
 
-B2B NY October Edition: Eugene Tambourine, Jools Palmer & Mandy Graves at The Monster on Fri 2 Oct, New York City. House and Club. Preview the line-up and save it on soundcheck.
+B2B NY October Edition: Eugene Tambourine, Jools Palmer & Mandy Graves at The Monster on Fri 2 Oct, New York City. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

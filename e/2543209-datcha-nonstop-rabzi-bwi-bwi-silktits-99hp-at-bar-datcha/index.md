@@ -1,6 +1,6 @@
 # Datcha NONSTOP: Rabzi, Bwi-Bwi, Silktits, 99hp at Bar Datcha
 
-Datcha NONSTOP: Rabzi, Bwi-Bwi, Silktits, 99hp at Bar Datcha on Fri 16 Oct, Montreal. 4 artists on the bill: 99hp, Bwi-Bwi, Rabzi and Silktits. Preview the line-up and save it on soundcheck.
+Datcha NONSTOP: Rabzi, Bwi-Bwi, Silktits, 99hp at Bar Datcha on Fri 16 Oct, Montreal. 4 artists: 99hp, Bwi-Bwi, Rabzi and Silktits. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

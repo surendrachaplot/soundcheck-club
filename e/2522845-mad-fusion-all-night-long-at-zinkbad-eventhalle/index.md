@@ -1,6 +1,6 @@
 # Mad Fusion All night long at Zinkbad Eventhalle
 
-Mad Fusion All night long at Zinkbad Eventhalle on Sat 28 Nov, Zurich. 1 artist on the bill: Mad Fusion. Techno and Psytrance. Preview the line-up and save it on soundcheck.
+Mad Fusion All night long at Zinkbad Eventhalle on Sat 28 Nov, Zurich. 1 artist: Mad Fusion. Techno and Psytrance. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

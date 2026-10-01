@@ -1,6 +1,6 @@
 # CQTD presents Rhythm & Sound ADE30 at Cafe De Duivel
 
-CQTD presents Rhythm & Sound ADE30 at Cafe De Duivel on Fri 23 Oct, Amsterdam. 2 artists on the bill: Chris Wheatley and Simon Seven Six. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+CQTD presents Rhythm & Sound ADE30 at Cafe De Duivel on Fri 23 Oct, Amsterdam. 2 artists: Chris Wheatley and Simon Seven Six. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

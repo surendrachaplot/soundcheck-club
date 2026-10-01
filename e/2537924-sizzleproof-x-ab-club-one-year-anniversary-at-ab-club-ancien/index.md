@@ -1,6 +1,6 @@
 # SIZZLEPROOF x AB Club: One Year Anniversary at AB Club (Ancienne Belgique)
 
-SIZZLEPROOF x AB Club: One Year Anniversary at AB Club (Ancienne Belgique) on Sat 10 Oct, Brussels. 2 artists on the bill: Hysope and JEKKAMAÏ. Techno and Bass. Preview the line-up and save it on soundcheck.
+SIZZLEPROOF x AB Club: One Year Anniversary at AB Club (Ancienne Belgique) on Sat 10 Oct, Brussels. 2 artists: Hysope and JEKKAMAÏ. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

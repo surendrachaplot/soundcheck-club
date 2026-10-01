@@ -1,6 +1,6 @@
 # Noir Phase at Beat Boutique
 
-Noir Phase at Beat Boutique on Fri 2 Oct, Hamburg. Techno and Tech House. Preview the line-up and save it on soundcheck.
+Noir Phase at Beat Boutique on Fri 2 Oct, Hamburg. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

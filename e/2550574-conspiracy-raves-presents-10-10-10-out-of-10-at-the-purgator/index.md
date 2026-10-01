@@ -1,6 +1,6 @@
 # CONSPIRACY RAVES PRESENTS 10/10 (10 OUT OF 10) at The Purgatory
 
-CONSPIRACY RAVES PRESENTS 10/10 (10 OUT OF 10) at The Purgatory on Sat 10 Oct, Sofia. 7 artists on the bill: Comrave, HOTBOI2300, JAPAU and JOKA and 3 more. Preview the line-up and save it on soundcheck.
+CONSPIRACY RAVES PRESENTS 10/10 (10 OUT OF 10) at The Purgatory on Sat 10 Oct, Sofia. 7 artists: Comrave, HOTBOI2300, JAPAU and JOKA and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

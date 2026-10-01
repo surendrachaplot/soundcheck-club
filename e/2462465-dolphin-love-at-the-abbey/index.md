@@ -1,6 +1,6 @@
 # Dolphin Love at The Abbey
 
-Dolphin Love at The Abbey on Tue 13 Oct, Manchester. Preview the line-up and save it on soundcheck.
+Dolphin Love at The Abbey on Tue 13 Oct, Manchester. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

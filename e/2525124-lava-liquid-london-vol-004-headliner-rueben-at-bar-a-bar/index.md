@@ -1,6 +1,6 @@
 # LAVA.LIQUID.LONDON Vol.004 - [HEADLINER RUEBEN] at Bar A Bar
 
-LAVA.LIQUID.LONDON Vol.004 - [HEADLINER RUEBEN] at Bar A Bar on Fri 13 Nov, London. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+LAVA.LIQUID.LONDON Vol.004 - [HEADLINER RUEBEN] at Bar A Bar on Fri 13 Nov, London. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

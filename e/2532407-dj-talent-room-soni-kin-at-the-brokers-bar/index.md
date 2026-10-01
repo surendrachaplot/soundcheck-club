@@ -1,6 +1,6 @@
 # DJ Talent Room - SONI·KIN at The Brokers Bar
 
-DJ Talent Room - SONI·KIN at The Brokers Bar on Thu 15 Oct, Amsterdam. House and Minimal. Preview the line-up and save it on soundcheck.
+DJ Talent Room - SONI·KIN at The Brokers Bar on Thu 15 Oct, Amsterdam. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

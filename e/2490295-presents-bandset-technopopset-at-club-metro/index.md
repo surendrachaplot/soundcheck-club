@@ -1,6 +1,6 @@
 # アーバンギャルドpresents千位十体ツアー ～BANDSET＆TECHNOPOPSET十番勝負～ at Club Metro
 
-アーバンギャルドpresents千位十体ツアー ～BANDSET＆TECHNOPOPSET十番勝負～ at Club Metro on Sat 7 Nov, Kyoto. Preview the line-up and save it on soundcheck.
+アーバンギャルドpresents千位十体ツアー ～BANDSET＆TECHNOPOPSET十番勝負～ at Club Metro on Sat 7 Nov, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

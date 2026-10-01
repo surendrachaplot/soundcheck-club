@@ -1,6 +1,6 @@
 # 07/11 - LB aka LABAT curated tour with Bella Claxton & YENKOV at Cabaret  Aléatoire
 
-07/11 - LB aka LABAT curated tour with Bella Claxton & YENKOV at Cabaret  Aléatoire on Sat 7 Nov, Marseille. 3 artists on the bill: Bella Claxton, LB aka LABAT and YENKOV. Techno and House. Preview the line-up and save it on soundcheck.
+07/11 - LB aka LABAT curated tour with Bella Claxton & YENKOV at Cabaret  Aléatoire on Sat 7 Nov, Marseille. 3 artists: Bella Claxton, LB aka LABAT and YENKOV. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

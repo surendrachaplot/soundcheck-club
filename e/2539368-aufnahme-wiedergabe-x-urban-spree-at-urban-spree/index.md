@@ -1,6 +1,6 @@
 # aufnahme + wiedergabe X Urban Spree at Urban Spree
 
-aufnahme + wiedergabe X Urban Spree on Sat 3 Oct, Berlin. 3 artists on the bill: Architect, Daniel Myer and Philipp Strobel. Techno and EBM. Preview the line-up and save it on soundcheck.
+aufnahme + wiedergabe X Urban Spree on Sat 3 Oct, Berlin. 3 artists: Architect, Daniel Myer and Philipp Strobel. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

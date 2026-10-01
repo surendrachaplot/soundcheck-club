@@ -1,6 +1,6 @@
 # A Love From Outer Space with Sean Johnstone at The Berkeley Suite
 
-A Love From Outer Space with Sean Johnstone at The Berkeley Suite on Sat 10 Oct, Glasgow. Acid and Club. Preview the line-up and save it on soundcheck.
+A Love From Outer Space with Sean Johnstone at The Berkeley Suite on Sat 10 Oct, Glasgow. Acid and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

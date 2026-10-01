@@ -1,8 +1,8 @@
 # 110.Club
 
-110.Club is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Underground House" on Fri, 2 Oct 2026.
+110.Club is a music venue in Lyon with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Underground House" on Fri, 2 Oct 2026.
 
-110.Club is a music venue in Lyon listed on soundcheck. 6 upcoming gigs, with line-ups including MacManus and Vince Kuzanagi. Browse upcoming dates, start times and who's playing.
+110.Club is a music venue in Lyon listed on soundcheck. 6 upcoming gigs, with line-ups including MacManus and Vince Kuzanagi. See dates, start times and who's playing.
 
 ## What's on
 

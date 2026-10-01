@@ -1,6 +1,6 @@
 # Le Club Knight at Ridley Road Market Bar
 
-Le Club Knight at Ridley Road Market Bar on Tue 6 Oct, London. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Le Club Knight at Ridley Road Market Bar on Tue 6 Oct, London. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

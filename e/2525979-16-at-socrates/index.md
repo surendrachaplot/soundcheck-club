@@ -1,6 +1,6 @@
 # 暴動#16 at Socrates
 
-暴動#16 at Socrates on Wed 14 Oct, Kyoto. Hardcore. Preview the line-up and save it on soundcheck.
+暴動#16 at Socrates on Wed 14 Oct, Kyoto. Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # HALLOWEEN 2026 at Sky Club
 
-HALLOWEEN 2026 at Sky Club on Fri 30 Oct, Leipzig. 7 artists on the bill: Abzocka, B-TUR, In Furcht and Jaszaloth and 3 more. Techno and House. Preview the line-up and save it on soundcheck.
+HALLOWEEN 2026 at Sky Club on Fri 30 Oct, Leipzig. 7 artists: Abzocka, B-TUR, In Furcht and Jaszaloth and 3 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

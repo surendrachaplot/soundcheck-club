@@ -1,6 +1,6 @@
 # Sonic Catering: Night Of Eternal Purgatory at Sisters
 
-Sonic Catering: Night Of Eternal Purgatory at Sisters on Fri 2 Oct, New York City. 2 artists on the bill: Nondough and promethalina. Ambient and Experimental. Preview the line-up and save it on soundcheck.
+Sonic Catering: Night Of Eternal Purgatory at Sisters on Fri 2 Oct, New York City. 2 artists: Nondough and promethalina. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Shub x Handsome Tiger present: The Electric Pow Wow Tour at TBA - Private
 
-Shub x Handsome Tiger present: The Electric Pow Wow Tour at TBA - Private on Thu 3 Dec, Vancouver. Bass and Club. Preview the line-up and save it on soundcheck.
+Shub x Handsome Tiger present: The Electric Pow Wow Tour at TBA - Private on Thu 3 Dec, Vancouver. Bass and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

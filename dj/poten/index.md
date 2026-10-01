@@ -1,8 +1,8 @@
 # Poten
 
-Poten is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Warehouse, Denver on Fri, 2 Oct 2026.
+Poten is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Warehouse, Denver on Fri, 2 Oct 2026.
 
-Poten is a house and techno artist based in United States of America, tracked on soundcheck, with 13 sets logged across Boston and Denver. Often billed alongside Black/Tuesday, Emyli Dahlia and Fiat Luxx. Next up: TBA - Warehouse, Denver on Fri 2 Oct.
+Poten is a house and techno artist based in United States of America, with 13 gigs on soundcheck across Boston and Denver. Often billed alongside Black/Tuesday, Emyli Dahlia and Fiat Luxx. Next up: TBA - Warehouse, Denver on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Poten is a house and techno artist based in United States of America, tracked on
 
 ## Recently played
 
-- Glob, Denver — Fri, 26 Jun 2026
-- Glob, Denver — Fri, 6 Mar 2026
-- TBA, Boston — Sat, 14 Feb 2026
-- TBA - Warehouse, Denver — Sat, 13 Dec 2025
-- Intimät Basement, Denver — Fri, 5 Dec 2025
-- Glob, Denver — Fri, 26 Sept 2025
-- TBA - Outdoor Open-Air, Denver — Sat, 19 Jul 2025
-- Intimät Basement, Denver — Fri, 27 Jun 2025
+- Glob, Denver · Fri, 26 Jun 2026
+- Glob, Denver · Fri, 6 Mar 2026
+- TBA, Boston · Sat, 14 Feb 2026
+- TBA - Warehouse, Denver · Sat, 13 Dec 2025
+- Intimät Basement, Denver · Fri, 5 Dec 2025
+- Glob, Denver · Fri, 26 Sept 2025
+- TBA - Outdoor Open-Air, Denver · Sat, 19 Jul 2025
+- Intimät Basement, Denver · Fri, 27 Jun 2025
 
 ## Shares bills with
 

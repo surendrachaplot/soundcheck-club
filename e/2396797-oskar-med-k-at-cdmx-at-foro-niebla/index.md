@@ -1,6 +1,6 @@
 # oskar med k at CDMX at Foro Niebla
 
-oskar med k at CDMX at Foro Niebla on Sat 10 Oct, Mexico City. 1 artist on the bill: oskar med k. House. Preview the line-up and save it on soundcheck.
+oskar med k at CDMX at Foro Niebla on Sat 10 Oct, Mexico City. 1 artist: oskar med k. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

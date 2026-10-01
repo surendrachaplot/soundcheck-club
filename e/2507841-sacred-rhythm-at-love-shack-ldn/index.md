@@ -1,6 +1,6 @@
 # Sacred Rhythm at Love Shack LDN
 
-Sacred Rhythm at Love Shack LDN on Sat 10 Oct, London. House and Acid. Preview the line-up and save it on soundcheck.
+Sacred Rhythm at Love Shack LDN on Sat 10 Oct, London. House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

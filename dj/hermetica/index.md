@@ -1,8 +1,8 @@
 # HERMETICA
 
-HERMETICA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
+HERMETICA is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TILLATEC, Amsterdam on Fri, 23 Oct 2026.
 
-HERMETICA is a techno and house artist based in Netherlands, tracked on soundcheck, with 43 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 6 more. Often billed alongside Judy (ES), Laia and Tino Machauer. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
+HERMETICA is a techno and house artist based in Netherlands, with 43 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Madrid and 6 more. Often billed alongside Judy (ES), Laia and Tino Machauer. Next up: TILLATEC, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ HERMETICA is a techno and house artist based in Netherlands, tracked on soundche
 
 ## Recently played
 
-- RADION, Amsterdam — Sat, 26 Sept 2026
-- RADION, Amsterdam — Sat, 26 Sept 2026
-- Lasociaciøn, Madrid — Fri, 25 Sept 2026
-- IFEMA, Madrid — Fri, 18 Sept 2026
-- IFEMA, Madrid — Fri, 18 Sept 2026
-- RSO.BERLIN, Berlin — Fri, 4 Sept 2026
-- Cadavra, Madrid — Thu, 2 Jul 2026
-- Les Enfants Brillants, Barcelona — Tue, 16 Jun 2026
+- RADION, Amsterdam · Sat, 26 Sept 2026
+- RADION, Amsterdam · Sat, 26 Sept 2026
+- Lasociaciøn, Madrid · Fri, 25 Sept 2026
+- IFEMA, Madrid · Fri, 18 Sept 2026
+- IFEMA, Madrid · Fri, 18 Sept 2026
+- RSO.BERLIN, Berlin · Fri, 4 Sept 2026
+- Cadavra, Madrid · Thu, 2 Jul 2026
+- Les Enfants Brillants, Barcelona · Tue, 16 Jun 2026
 
 ## Shares bills with
 

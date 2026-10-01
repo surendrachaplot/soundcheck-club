@@ -1,8 +1,8 @@
 # MERILIN
 
-MERILIN is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Eventhuset, Stockholm on Sat, 21 Nov 2026.
+MERILIN is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Eventhuset, Stockholm on Sat, 21 Nov 2026.
 
-MERILIN is a techno and house artist based in Sweden, tracked on soundcheck, with 40 sets logged across Stockholm and Tallinn. Often billed alongside CC Luna, Marten Attling and DJ Alban. Next up: Eventhuset, Stockholm on Sat 21 Nov.
+MERILIN is a techno and house artist based in Sweden, with 40 gigs on soundcheck across Stockholm and Tallinn. Often billed alongside CC Luna, Marten Attling and DJ Alban. Next up: Eventhuset, Stockholm on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ MERILIN is a techno and house artist based in Sweden, tracked on soundcheck, wit
 
 ## Recently played
 
-- Eventhuset, Stockholm — Sat, 26 Sept 2026
-- Eventhuset, Stockholm — Sat, 12 Sept 2026
-- TBA, Stockholm — Sat, 29 Aug 2026
-- Eventhuset, Stockholm — Sat, 8 Aug 2026
-- TBA, Stockholm — Sat, 1 Aug 2026
-- Eventhuset, Stockholm — Sat, 11 Jul 2026
-- Spice 99, Stockholm — Fri, 26 Jun 2026
-- Eventhuset, Stockholm — Sat, 30 May 2026
+- Eventhuset, Stockholm · Sat, 26 Sept 2026
+- Eventhuset, Stockholm · Sat, 12 Sept 2026
+- TBA, Stockholm · Sat, 29 Aug 2026
+- Eventhuset, Stockholm · Sat, 8 Aug 2026
+- TBA, Stockholm · Sat, 1 Aug 2026
+- Eventhuset, Stockholm · Sat, 11 Jul 2026
+- Spice 99, Stockholm · Fri, 26 Jun 2026
+- Eventhuset, Stockholm · Sat, 30 May 2026
 
 ## Shares bills with
 

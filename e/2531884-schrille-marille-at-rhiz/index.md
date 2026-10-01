@@ -1,6 +1,6 @@
 # Schrille Marille at Rhiz
 
-Schrille Marille at Rhiz on Sat 3 Oct, Vienna. Techno and Electro. Preview the line-up and save it on soundcheck.
+Schrille Marille at Rhiz on Sat 3 Oct, Vienna. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

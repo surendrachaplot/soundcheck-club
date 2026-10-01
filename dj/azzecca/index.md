@@ -1,8 +1,8 @@
 # Azzecca
 
-Azzecca is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Smolna, Warsaw on Fri, 23 Oct 2026.
+Azzecca is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Smolna, Warsaw on Fri, 23 Oct 2026.
 
-Azzecca is a house and techno artist based in United States of America, tracked on soundcheck, with 83 sets logged across Amsterdam, Austin, Berlin and Boston and 22 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: Smolna, Warsaw on Fri 23 Oct.
+Azzecca is a house and techno artist based in United States of America, with 83 gigs on soundcheck across Amsterdam, Austin, Berlin and Boston and 22 more. Often billed alongside Gorgon City, Boys Noize and Chris Lake. Next up: Smolna, Warsaw on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Azzecca is a house and techno artist based in United States of America, tracked 
 
 ## Recently played
 
-- Audio SF, San Francisco/Oakland — Sun, 27 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Castaways, Chicago — Thu, 3 Sept 2026
-- The William Vale, New York City — Sun, 30 Aug 2026
-- TBA - Open Air: Downtown Los Angeles, Los Angeles — Sat, 22 Aug 2026
-- The Concourse Project, Austin — Fri, 21 Aug 2026
-- Barbara Hall Park, Toronto — Sat, 27 Jun 2026
+- Audio SF, San Francisco/Oakland · Sun, 27 Sept 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Castaways, Chicago · Thu, 3 Sept 2026
+- The William Vale, New York City · Sun, 30 Aug 2026
+- TBA - Open Air: Downtown Los Angeles, Los Angeles · Sat, 22 Aug 2026
+- The Concourse Project, Austin · Fri, 21 Aug 2026
+- Barbara Hall Park, Toronto · Sat, 27 Jun 2026
 
 ## Shares bills with
 

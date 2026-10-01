@@ -1,6 +1,6 @@
 # Overview x Crossroad present: Waeys, Klinical & More at Thirty3hz
 
-Overview x Crossroad present: Waeys, Klinical & More at Thirty3hz on Fri 2 Oct, South East. 1 artist on the bill: Waeys. Preview the line-up and save it on soundcheck.
+Overview x Crossroad present: Waeys, Klinical & More at Thirty3hz on Fri 2 Oct, South East. 1 artist: Waeys. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

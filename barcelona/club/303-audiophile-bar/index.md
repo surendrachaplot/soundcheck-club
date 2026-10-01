@@ -1,8 +1,8 @@
 # 303 Audiophile Bar
 
-303 Audiophile Bar is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Wheel Up at 303" on Thu, 1 Oct 2026.
+303 Audiophile Bar is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Wheel Up at 303" on Thu, 1 Oct 2026.
 
-303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Alex Garcia, Andrea Love, B2G and Breezywav and 2 more. Browse upcoming dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
+303 Audiophile Bar is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Alex Garcia, Andrea Love, B2G and Breezywav and 2 more. See dates, start times and who's playing. C/ de Casp, 33B, L'Eixample, 08010 Barcelona.
 
 ## What's on
 

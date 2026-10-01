@@ -1,8 +1,8 @@
 # Kadeejah Streets
 
-Kadeejah Streets is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pony, Seattle on Sat, 10 Oct 2026.
+Kadeejah Streets is a House and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Pony, Seattle on Sat, 10 Oct 2026.
 
-Kadeejah Streets is a house and acid artist based in United States of America, tracked on soundcheck, with 55 sets logged across Austin, Osaka, Portland and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, DJ SH1-TR and Lord Phatrick. Next up: Pony, Seattle on Sat 10 Oct.
+Kadeejah Streets is a house and acid artist based in United States of America, with 55 gigs on soundcheck across Austin, Osaka, Portland and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, DJ SH1-TR and Lord Phatrick. Next up: Pony, Seattle on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Kadeejah Streets is a house and acid artist based in United States of America, t
 
 ## Recently played
 
-- The Cuff Complex, Seattle — Sat, 26 Sept 2026
-- Pony, Seattle — Sat, 12 Sept 2026
-- Pony, Seattle — Sat, 8 Aug 2026
-- The Monkey Loft, Seattle — Thu, 6 Aug 2026
-- Pony, Seattle — Sat, 11 Jul 2026
-- The Monkey Loft, Seattle — Fri, 5 Jun 2026
-- Oath, Tokyo — Sun, 24 May 2026
-- Awaza House 内studio2f, Osaka — Fri, 22 May 2026
+- The Cuff Complex, Seattle · Sat, 26 Sept 2026
+- Pony, Seattle · Sat, 12 Sept 2026
+- Pony, Seattle · Sat, 8 Aug 2026
+- The Monkey Loft, Seattle · Thu, 6 Aug 2026
+- Pony, Seattle · Sat, 11 Jul 2026
+- The Monkey Loft, Seattle · Fri, 5 Jun 2026
+- Oath, Tokyo · Sun, 24 May 2026
+- Awaza House 内studio2f, Osaka · Fri, 22 May 2026
 
 ## Shares bills with
 

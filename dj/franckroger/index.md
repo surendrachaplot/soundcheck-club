@@ -1,8 +1,8 @@
 # Franck Roger
 
-Franck Roger is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sacré, Paris on Fri, 27 Nov 2026.
+Franck Roger is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sacré, Paris on Fri, 27 Nov 2026.
 
-Franck Roger is a house and deep house artist based in France, tracked on soundcheck, with 33 sets logged across Barcelona, Chicago, Cork and Detroit and 10 more. Often billed alongside Afshin, Danny Fortunato and Groove Boys Project. Next up: Sacré, Paris on Fri 27 Nov.
+Franck Roger is a house and deep house artist based in France, with 33 gigs on soundcheck across Barcelona, Chicago, Cork and Detroit and 10 more. Often billed alongside Afshin, Danny Fortunato and Groove Boys Project. Next up: Sacré, Paris on Fri 27 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Franck Roger is a house and deep house artist based in France, tracked on soundc
 
 ## Recently played
 
-- Piccadilly Central, Manchester — Sat, 27 Jun 2026
-- Djoon, Paris — Fri, 3 Apr 2026
-- Rive Rouge, Lisbon — Sat, 20 Sept 2025
-- Basing House, London — Sat, 12 Apr 2025
-- The Pav, Cork — Sat, 12 Oct 2024
-- Djoon, Paris — Sat, 15 Jun 2024
-- Apollo Studio, New York City — Sat, 13 Apr 2024
-- Djoon, Paris — Fri, 22 Mar 2024
+- Piccadilly Central, Manchester · Sat, 27 Jun 2026
+- Djoon, Paris · Fri, 3 Apr 2026
+- Rive Rouge, Lisbon · Sat, 20 Sept 2025
+- Basing House, London · Sat, 12 Apr 2025
+- The Pav, Cork · Sat, 12 Oct 2024
+- Djoon, Paris · Sat, 15 Jun 2024
+- Apollo Studio, New York City · Sat, 13 Apr 2024
+- Djoon, Paris · Fri, 22 Mar 2024
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Distorted: SUB LEVEL at The Rainbow Pub
 
-Distorted: SUB LEVEL at The Rainbow Pub on Fri 20 Nov, Birmingham. 2 artists on the bill: JAYDAA and Marc Spence. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Distorted: SUB LEVEL at The Rainbow Pub on Fri 20 Nov, Birmingham. 2 artists: JAYDAA and Marc Spence. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

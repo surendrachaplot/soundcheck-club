@@ -1,8 +1,8 @@
 # KI/KI
 
-KI/KI is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+KI/KI is a Techno and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-KI/KI is a techno and house artist based in Netherlands, tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside DJ Gigola, Anetha and Job Jobse. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+KI/KI is a techno and house artist based in Netherlands, with 202 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside DJ Gigola, Anetha and Job Jobse. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ KI/KI is a techno and house artist based in Netherlands, tracked on soundcheck, 
 
 ## Recently played
 
-- Depot Mayfield, Manchester — Fri, 18 Sept 2026
-- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
-- [UNVRS], Ibiza — Thu, 10 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- CLUB RAUM, Amsterdam — Sat, 29 Aug 2026
-- [UNVRS], Ibiza — Mon, 24 Aug 2026
-- Gianpula Village, Malta — Wed, 12 Aug 2026
-- MS Artville, Hamburg — Sat, 18 Jul 2026
+- Depot Mayfield, Manchester · Fri, 18 Sept 2026
+- Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
+- [UNVRS], Ibiza · Thu, 10 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- CLUB RAUM, Amsterdam · Sat, 29 Aug 2026
+- [UNVRS], Ibiza · Mon, 24 Aug 2026
+- Gianpula Village, Malta · Wed, 12 Aug 2026
+- MS Artville, Hamburg · Sat, 18 Jul 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Azul Sessions Rooftop 360° views over Barcelona at Azul Rooftop Barceloneta
 
-Azul Sessions Rooftop 360° views over Barcelona at Azul Rooftop Barceloneta on Fri 2 Oct, Barcelona. 2 artists on the bill: Kev Williams and Lucas Frank. House and Deep House. Preview the line-up and save it on soundcheck.
+Azul Sessions Rooftop 360° views over Barcelona at Azul Rooftop Barceloneta on Fri 2 Oct, Barcelona. 2 artists: Kev Williams and Lucas Frank. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

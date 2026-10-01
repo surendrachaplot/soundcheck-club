@@ -1,6 +1,6 @@
 # OBSIDIA w / Jacidorex, GIØ, CARGO, Paul Meier at Lokschuppen Berlin
 
-OBSIDIA w / Jacidorex, GIØ, CARGO, Paul Meier at Lokschuppen Berlin on Fri 2 Oct, Berlin. 11 artists on the bill: Atzlina, Bruno Brero, CARGO (DE) and Dyrtyy and 7 more. Trance and Techno. Preview the line-up and save it on soundcheck.
+OBSIDIA w / Jacidorex, GIØ, CARGO, Paul Meier at Lokschuppen Berlin on Fri 2 Oct, Berlin. 11 artists: Atzlina, Bruno Brero, CARGO (DE) and Dyrtyy and 7 more. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

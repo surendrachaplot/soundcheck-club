@@ -1,6 +1,6 @@
 # Fader Events Invites: The Advent at Good Fortune St. Pete
 
-Fader Events Invites: The Advent at Good Fortune St. Pete on Fri 16 Oct, Tampa Bay. 1 artist on the bill: The Advent. Preview the line-up and save it on soundcheck.
+Fader Events Invites: The Advent at Good Fortune St. Pete on Fri 16 Oct, Tampa Bay. 1 artist: The Advent. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Pan Amsterdam at The Jazz Cafe
 
-Pan Amsterdam at The Jazz Cafe on Sat 21 Nov, London. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
+Pan Amsterdam at The Jazz Cafe on Sat 21 Nov, London. Hip-Hop and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

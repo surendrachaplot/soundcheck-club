@@ -1,6 +1,6 @@
 # Karnaval at Gallery
 
-Karnaval at Gallery on Wed 14 Oct, London. House and Electro. Preview the line-up and save it on soundcheck.
+Karnaval at Gallery on Wed 14 Oct, London. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

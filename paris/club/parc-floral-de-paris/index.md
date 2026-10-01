@@ -1,8 +1,8 @@
 # Parc Floral De Paris
 
-Parc Floral De Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "FACE 2 FACE: PARIS" on Fri, 16 Oct 2026.
+Parc Floral De Paris is a music venue in Paris with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "FACE 2 FACE: PARIS" on Fri, 16 Oct 2026.
 
-Parc Floral De Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Adrian Mills, Alex Nantaya, Eskha and HiTMiLØW and 2 more. Browse upcoming dates, start times and who's playing. Parc Floral de Paris, Route de la Pyramide, Paris 12e.
+Parc Floral De Paris is a music venue in Paris listed on soundcheck. 1 upcoming gig, with line-ups including Adrian Mills, Alex Nantaya, Eskha and HiTMiLØW and 2 more. See dates, start times and who's playing. Parc Floral de Paris, Route de la Pyramide, Paris 12e.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # RPR Summons: The Lady Machine & Toobris at Ciało
 
-RPR Summons: The Lady Machine & Toobris at Ciało on Fri 2 Oct, Wroclaw. 6 artists on the bill: Fideshi, PUZZ, RPR (PL) and Spectribe and 2 more. Preview the line-up and save it on soundcheck.
+RPR Summons: The Lady Machine & Toobris at Ciało on Fri 2 Oct, Wroclaw. 6 artists: Fideshi, PUZZ, RPR (PL) and Spectribe and 2 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

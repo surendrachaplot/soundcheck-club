@@ -1,6 +1,6 @@
 # TRANSITION présente SONAR + AFTER PARTY at TBA - LE BATEAU-MOUCHE
 
-TRANSITION présente SONAR + AFTER PARTY at TBA - LE BATEAU-MOUCHE on Fri 2 Oct, Montreal. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+TRANSITION présente SONAR + AFTER PARTY at TBA - LE BATEAU-MOUCHE on Fri 2 Oct, Montreal. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

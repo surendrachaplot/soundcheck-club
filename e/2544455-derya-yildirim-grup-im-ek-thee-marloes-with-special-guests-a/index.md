@@ -1,6 +1,6 @@
 # Derya Yildirim & Grup Şimşek & Thee Marloes with Special Guests at The American
 
-Derya Yildirim & Grup Şimşek & Thee Marloes with Special Guests at The American on Wed 14 Oct, Vancouver. Funk / Soul and Jazz. Preview the line-up and save it on soundcheck.
+Derya Yildirim & Grup Şimşek & Thee Marloes with Special Guests at The American on Wed 14 Oct, Vancouver. Funk / Soul and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

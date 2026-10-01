@@ -1,6 +1,6 @@
 # Haus Acid -A*S*Y*S at My Aeon
 
-Haus Acid -A*S*Y*S at My Aeon on Fri 6 Nov, Melbourne. Acid. Preview the line-up and save it on soundcheck.
+Haus Acid -A*S*Y*S at My Aeon on Fri 6 Nov, Melbourne. Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # dnbOS: Jump Drive | Lens at Urban Lounge
 
-dnbOS: Jump Drive | Lens at Urban Lounge on Fri 9 Oct, Salt Lake City. 1 artist on the bill: Lens. Preview the line-up and save it on soundcheck.
+dnbOS: Jump Drive | Lens at Urban Lounge on Fri 9 Oct, Salt Lake City. 1 artist: Lens. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

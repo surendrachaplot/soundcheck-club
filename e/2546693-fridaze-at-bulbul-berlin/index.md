@@ -1,6 +1,6 @@
 # Fridaze at Bulbul Berlin
 
-Fridaze at Bulbul Berlin on Fri 30 Oct, Berlin. House and Club. Preview the line-up and save it on soundcheck.
+Fridaze at Bulbul Berlin on Fri 30 Oct, Berlin. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

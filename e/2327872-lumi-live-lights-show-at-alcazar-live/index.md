@@ -1,6 +1,6 @@
 # LUMI live & lights show at Alcazar Live
 
-LUMI live & lights show at Alcazar Live on Tue 1 Dec, Rome. Downtempo and Electronica. Preview the line-up and save it on soundcheck.
+LUMI live & lights show at Alcazar Live on Tue 1 Dec, Rome. Downtempo and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

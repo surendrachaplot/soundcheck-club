@@ -1,8 +1,8 @@
 # Grace Sands
 
-Grace Sands is a House and Deep House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
+Grace Sands is a House and Deep House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Yellow Arch Studios, Sheffield on Fri, 2 Oct 2026.
 
-Grace Sands is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 148 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
+Grace Sands is a house and deep house artist based in United Kingdom, with 148 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 22 more. Often billed alongside Roi Perez, Hannah Holland and Josh Caffé. Next up: Yellow Arch Studios, Sheffield on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Grace Sands is a house and deep house artist based in United Kingdom, tracked on
 
 ## Recently played
 
-- The Timber Loft, London — Sun, 27 Sept 2026
-- Bermondsey Triangle, London — Sat, 26 Sept 2026
-- Crate Brewery, London — Sat, 26 Sept 2026
-- The Croft, Bristol — Thu, 17 Sept 2026
-- Hoxton Cabin, London — Fri, 11 Sept 2026
-- Phonica Records, London — Wed, 9 Sept 2026
-- Aaja Basement, London — Fri, 4 Sept 2026
-- Nocturna, Ibiza — Wed, 2 Sept 2026
+- The Timber Loft, London · Sun, 27 Sept 2026
+- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Crate Brewery, London · Sat, 26 Sept 2026
+- The Croft, Bristol · Thu, 17 Sept 2026
+- Hoxton Cabin, London · Fri, 11 Sept 2026
+- Phonica Records, London · Wed, 9 Sept 2026
+- Aaja Basement, London · Fri, 4 Sept 2026
+- Nocturna, Ibiza · Wed, 2 Sept 2026
 
 ## Shares bills with
 

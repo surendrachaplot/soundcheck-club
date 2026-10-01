@@ -1,6 +1,6 @@
 # CUE - Cardiff: Halloween w. Locky, Saoirse at Cardiff Students' Union - Y Plas
 
-CUE - Cardiff: Halloween w. Locky, Saoirse at Cardiff Students' Union - Y Plas on Sat 31 Oct, Cardiff. 7 artists on the bill: Hidde van Wee, Locky, Lucas Alexander and M-High and 3 more. Preview the line-up and save it on soundcheck.
+CUE - Cardiff: Halloween w. Locky, Saoirse at Cardiff Students' Union - Y Plas on Sat 31 Oct, Cardiff. 7 artists: Hidde van Wee, Locky, Lucas Alexander and M-High and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

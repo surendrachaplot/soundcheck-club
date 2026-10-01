@@ -1,6 +1,6 @@
 # BANGERANGERZ - 2010s BANGERS ALL NITE at Drom
 
-BANGERANGERZ - 2010s BANGERS ALL NITE at Drom on Sat 14 Nov, New York City. Techno. Preview the line-up and save it on soundcheck.
+BANGERANGERZ - 2010s BANGERS ALL NITE at Drom on Sat 14 Nov, New York City. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

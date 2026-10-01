@@ -1,6 +1,6 @@
 # jackzebra Berlin at Lark
 
-jackzebra Berlin at Lark on Sat 3 Oct, Berlin. Preview the line-up and save it on soundcheck.
+jackzebra Berlin at Lark on Sat 3 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

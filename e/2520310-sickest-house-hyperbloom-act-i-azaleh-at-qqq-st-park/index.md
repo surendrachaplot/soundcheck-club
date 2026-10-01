@@ -1,6 +1,6 @@
 # Sickest House × Hyperbloom ACT I: AZALEH at QQQ ST. Park
 
-Sickest House × Hyperbloom ACT I: AZALEH at QQQ ST. Park on Sat 3 Oct, Melbourne. Garage and Experimental. Preview the line-up and save it on soundcheck.
+Sickest House × Hyperbloom ACT I: AZALEH at QQQ ST. Park on Sat 3 Oct, Melbourne. Garage and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

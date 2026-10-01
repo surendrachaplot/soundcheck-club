@@ -1,8 +1,8 @@
 # Space 92
 
-Space 92 is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bauhaus Vegas, Las-vegas on Sat, 3 Oct 2026.
+Space 92 is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bauhaus Vegas, Las-vegas on Sat, 3 Oct 2026.
 
-Space 92 is a techno and house artist based in France, tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Austin and Bangkok and 51 more. Often billed alongside Popof, Lilly Palmer and HI-LO. Next up: Bauhaus Vegas, Las Vegas on Sat 3 Oct.
+Space 92 is a techno and house artist based in France, with 130 gigs on soundcheck across Amsterdam, Athens, Austin and Bangkok and 51 more. Often billed alongside Popof, Lilly Palmer and HI-LO. Next up: Bauhaus Vegas, Las Vegas on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Space 92 is a techno and house artist based in France, tracked on soundcheck, wi
 
 ## Recently played
 
-- Bauhaus, Houston — Fri, 25 Sept 2026
-- Royale, Boston — Sat, 19 Sept 2026
-- Amnesia Ibiza, Ibiza — Wed, 22 Jul 2026
-- Westhafen, Leipzig — Sat, 18 Jul 2026
-- Burning Beach, Nürnberg — Fri, 19 Jun 2026
-- INPUT High Fidelity Dance Club, Barcelona — Sat, 6 Jun 2026
-- Suvilahti Power Plant, Helsinki — Fri, 22 May 2026
-- Uebel & Gefährlich, Hamburg — Fri, 22 May 2026
+- Bauhaus, Houston · Fri, 25 Sept 2026
+- Royale, Boston · Sat, 19 Sept 2026
+- Amnesia Ibiza, Ibiza · Wed, 22 Jul 2026
+- Westhafen, Leipzig · Sat, 18 Jul 2026
+- Burning Beach, Nürnberg · Fri, 19 Jun 2026
+- INPUT High Fidelity Dance Club, Barcelona · Sat, 6 Jun 2026
+- Suvilahti Power Plant, Helsinki · Fri, 22 May 2026
+- Uebel & Gefährlich, Hamburg · Fri, 22 May 2026
 
 ## Shares bills with
 

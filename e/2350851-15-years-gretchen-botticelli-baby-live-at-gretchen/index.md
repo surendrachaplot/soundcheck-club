@@ -1,6 +1,6 @@
 # 15 Years Gretchen: BOTTICELLI BABY *live at Gretchen
 
-15 Years Gretchen: BOTTICELLI BABY *live on Fri 30 Oct, Berlin. Preview the line-up and save it on soundcheck.
+15 Years Gretchen: BOTTICELLI BABY *live on Fri 30 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

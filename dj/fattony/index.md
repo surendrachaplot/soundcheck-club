@@ -1,8 +1,8 @@
 # Fattony
 
-Fattony is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at UNO MALTA, Malta on Thu, 1 Oct 2026.
+Fattony is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UNO MALTA, Malta on Thu, 1 Oct 2026.
 
-Fattony is a house and tech house artist based in Germany, tracked on soundcheck, with 32 sets logged across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Natasha Diggs and The Shapeshifters. Next up: UNO MALTA, Malta on Thu 1 Oct.
+Fattony is a house and tech house artist based in Germany, with 32 gigs on soundcheck across Brighton, Glasgow, Ibiza and London and 5 more. Often billed alongside Horse Meat Disco, Natasha Diggs and The Shapeshifters. Next up: UNO MALTA, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Fattony is a house and tech house artist based in Germany, tracked on soundcheck
 
 ## Recently played
 
-- Amnesia Ibiza, Ibiza — Fri, 28 Aug 2026
-- Chinois Ibiza, Ibiza — Mon, 27 Jul 2026
-- Walpole Park, London — Sat, 18 Jul 2026
-- Amnesia Ibiza, Ibiza — Fri, 10 Jul 2026
-- Fire, London — Sat, 30 May 2026
-- Amnesia Ibiza, Ibiza — Fri, 29 May 2026
-- O Beach, Ibiza — Thu, 14 May 2026
-- Feierwerk, Munich — Fri, 10 Apr 2026
+- Amnesia Ibiza, Ibiza · Fri, 28 Aug 2026
+- Chinois Ibiza, Ibiza · Mon, 27 Jul 2026
+- Walpole Park, London · Sat, 18 Jul 2026
+- Amnesia Ibiza, Ibiza · Fri, 10 Jul 2026
+- Fire, London · Sat, 30 May 2026
+- Amnesia Ibiza, Ibiza · Fri, 29 May 2026
+- O Beach, Ibiza · Thu, 14 May 2026
+- Feierwerk, Munich · Fri, 10 Apr 2026
 
 ## Shares bills with
 

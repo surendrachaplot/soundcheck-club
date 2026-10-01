@@ -1,6 +1,6 @@
 # Mr Scruff + Butho The Warrior : Free Time - Edinburgh at Sneaky Pete's
 
-Mr Scruff + Butho The Warrior : Free Time - Edinburgh at Sneaky Pete's on Sun 13 Dec, Edinburgh. 2 artists on the bill: ButhoTheWarrior and Mr Scruff. Preview the line-up and save it on soundcheck.
+Mr Scruff + Butho The Warrior : Free Time - Edinburgh at Sneaky Pete's on Sun 13 Dec, Edinburgh. 2 artists: ButhoTheWarrior and Mr Scruff. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

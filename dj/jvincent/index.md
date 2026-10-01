@@ -1,8 +1,8 @@
 # JVINCENT
 
-JVINCENT is a Baile Funk and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Katsute100 Brick Lane & Bun House Disco, London on Fri, 23 Oct 2026.
+JVINCENT is a Baile Funk and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Katsute100 Brick Lane & Bun House Disco, London on Fri, 23 Oct 2026.
 
-JVINCENT is a baile funk and club artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Copenhagen, Hong Kong, London and Paris. Often billed alongside ZEE-2, HARUNA and Samo. Next up: Katsute100 Brick Lane & Bun House Disco, London on Fri 23 Oct.
+JVINCENT is a baile funk and club artist based in United Kingdom, with 33 gigs on soundcheck across Copenhagen, Hong Kong, London and Paris. Often billed alongside ZEE-2, HARUNA and Samo. Next up: Katsute100 Brick Lane & Bun House Disco, London on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ JVINCENT is a baile funk and club artist based in United Kingdom, tracked on sou
 
 ## Recently played
 
-- Bread and Butter, London — Sat, 29 Aug 2026
-- The Fox and Firkin, London — Sat, 15 Aug 2026
-- The Haggerston, London — Fri, 31 Jul 2026
-- The Haggerston, London — Fri, 24 Jul 2026
-- Setlist @ Somerset House, London — Sat, 27 Jun 2026
-- The Haggerston, London — Sat, 13 Jun 2026
-- Setlist @ Somerset House, London — Sat, 30 May 2026
-- The Haggerston, London — Sat, 30 May 2026
+- Bread and Butter, London · Sat, 29 Aug 2026
+- The Fox and Firkin, London · Sat, 15 Aug 2026
+- The Haggerston, London · Fri, 31 Jul 2026
+- The Haggerston, London · Fri, 24 Jul 2026
+- Setlist @ Somerset House, London · Sat, 27 Jun 2026
+- The Haggerston, London · Sat, 13 Jun 2026
+- Setlist @ Somerset House, London · Sat, 30 May 2026
+- The Haggerston, London · Sat, 30 May 2026
 
 ## Shares bills with
 

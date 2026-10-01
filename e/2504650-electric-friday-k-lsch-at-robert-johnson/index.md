@@ -1,6 +1,6 @@
 # Electric Friday / Kölsch at Robert Johnson
 
-Electric Friday / Kölsch at Robert Johnson on Fri 20 Nov, Hesse. 1 artist on the bill: Kölsch. Preview the line-up and save it on soundcheck.
+Electric Friday / Kölsch at Robert Johnson on Fri 20 Nov, Hesse. 1 artist: Kölsch. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

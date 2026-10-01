@@ -1,8 +1,8 @@
 # Ross From Friends
 
-Ross From Friends is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at FORGE, Sheffield on Fri, 9 Oct 2026.
+Ross From Friends is a House and Techno artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FORGE, Sheffield on Fri, 9 Oct 2026.
 
-Ross From Friends is a house and techno artist based in United Kingdom, tracked on soundcheck, with 155 sets logged across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Bicep, Cameo Blush and Logic1000. Next up: FORGE, Sheffield on Fri 9 Oct.
+Ross From Friends is a house and techno artist based in United Kingdom, with 155 gigs on soundcheck across Amsterdam, Antwerp, Athens and Auckland and 47 more. Often billed alongside Bicep, Cameo Blush and Logic1000. Next up: FORGE, Sheffield on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ Ross From Friends is a house and techno artist based in United Kingdom, tracked 
 
 ## Recently played
 
-- The Bentway, Toronto — Sat, 15 Aug 2026
-- Razzmatazz, Barcelona — Fri, 7 Aug 2026
-- Boston Manor Park, London — Fri, 31 Jul 2026
-- Else, Berlin — Fri, 3 Jul 2026
-- Sawmills, Bristol — Sat, 16 May 2026
-- Sub Club, Glasgow — Thu, 14 May 2026
-- Elsewhere, New York City — Sat, 9 May 2026
-- PROGRESS, Manchester — Sat, 25 Apr 2026
+- The Bentway, Toronto · Sat, 15 Aug 2026
+- Razzmatazz, Barcelona · Fri, 7 Aug 2026
+- Boston Manor Park, London · Fri, 31 Jul 2026
+- Else, Berlin · Fri, 3 Jul 2026
+- Sawmills, Bristol · Sat, 16 May 2026
+- Sub Club, Glasgow · Thu, 14 May 2026
+- Elsewhere, New York City · Sat, 9 May 2026
+- PROGRESS, Manchester · Sat, 25 Apr 2026
 
 ## Shares bills with
 

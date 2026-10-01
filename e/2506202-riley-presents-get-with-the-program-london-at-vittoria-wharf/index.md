@@ -1,6 +1,6 @@
 # Riley presents Get with The Program - London at Vittoria Wharf Studio
 
-Riley presents Get with The Program - London at Vittoria Wharf Studio on Sat 14 Nov, London. House. Preview the line-up and save it on soundcheck.
+Riley presents Get with The Program - London at Vittoria Wharf Studio on Sat 14 Nov, London. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

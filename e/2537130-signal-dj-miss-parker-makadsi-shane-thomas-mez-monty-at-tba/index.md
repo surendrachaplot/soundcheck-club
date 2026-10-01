@@ -1,6 +1,6 @@
 # SIGNAL: DJ Miss Parker // Makadsi // Shane Thomas // Mez Monty at TBA
 
-SIGNAL: DJ Miss Parker // Makadsi // Shane Thomas // Mez Monty at TBA on Fri 9 Oct, Los Angeles. 4 artists on the bill: Makadsi, Mez Monty, Miss Parker and Shane Thomas. Techno and House. Preview the line-up and save it on soundcheck.
+SIGNAL: DJ Miss Parker // Makadsi // Shane Thomas // Mez Monty at TBA on Fri 9 Oct, Los Angeles. 4 artists: Makadsi, Mez Monty, Miss Parker and Shane Thomas. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

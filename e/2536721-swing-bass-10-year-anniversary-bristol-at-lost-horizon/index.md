@@ -1,6 +1,6 @@
 # Swing & Bass: 10 Year Anniversary (Bristol) at Lost Horizon
 
-Swing & Bass: 10 Year Anniversary (Bristol) at Lost Horizon on Sat 21 Nov, Bristol. Drum & Bass and Bass. Preview the line-up and save it on soundcheck.
+Swing & Bass: 10 Year Anniversary (Bristol) at Lost Horizon on Sat 21 Nov, Bristol. Drum & Bass and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

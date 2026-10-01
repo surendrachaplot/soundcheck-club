@@ -1,6 +1,6 @@
 # Fuse presents: The Ghost & Gonno at Fuse
 
-Fuse presents: The Ghost & Gonno on Fri 2 Oct, Brussels. 4 artists on the bill: Gonno, Nefeli, Penelope and The Ghost. Minimal and Dub Techno. Preview the line-up and save it on soundcheck.
+Fuse presents: The Ghost & Gonno on Fri 2 Oct, Brussels. 4 artists: Gonno, Nefeli, Penelope and The Ghost. Minimal and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

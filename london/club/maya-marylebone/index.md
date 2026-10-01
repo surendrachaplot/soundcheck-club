@@ -1,8 +1,8 @@
 # Maya Marylebone
 
-Maya Marylebone is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Parra Vie Events: Maya Vol 3" on Sat, 10 Oct 2026.
+Maya Marylebone is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Parra Vie Events: Maya Vol 3" on Sat, 10 Oct 2026.
 
-Maya Marylebone is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including 2Doters, HUGØ and Parra Vie. Browse upcoming dates, start times and who's playing. 60 wigmore street, W1U 2RZ.
+Maya Marylebone is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including 2Doters, HUGØ and Parra Vie. See dates, start times and who's playing. 60 wigmore street, W1U 2RZ.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Eric Duncan all-night-long at Nyapi
 
-Eric Duncan all-night-long at Nyapi on Sun 4 Oct, Seoul. 1 artist on the bill: Eric Duncan. Preview the line-up and save it on soundcheck.
+Eric Duncan all-night-long at Nyapi on Sun 4 Oct, Seoul. 1 artist: Eric Duncan. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

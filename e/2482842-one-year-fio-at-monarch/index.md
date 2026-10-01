@@ -1,6 +1,6 @@
 # one Year fio. at Monarch
 
-one Year fio. at Monarch on Sat 28 Nov, Berlin. Deep House and Dub Techno. Preview the line-up and save it on soundcheck.
+one Year fio. at Monarch on Sat 28 Nov, Berlin. Deep House and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

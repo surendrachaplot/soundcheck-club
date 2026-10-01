@@ -1,6 +1,6 @@
 # HAZE at DeTour
 
-HAZE at DeTour on Fri 2 Oct, Tokyo. 2 artists on the bill: AME (JP) and nataria. Techno and Hardcore. Preview the line-up and save it on soundcheck.
+HAZE at DeTour on Fri 2 Oct, Tokyo. 2 artists: AME (JP) and nataria. Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

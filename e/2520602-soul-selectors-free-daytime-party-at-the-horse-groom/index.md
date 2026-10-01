@@ -1,6 +1,6 @@
 # Soul Selectors free daytime party at The Horse & Groom
 
-Soul Selectors free daytime party at The Horse & Groom on Sat 3 Oct, London. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+Soul Selectors free daytime party at The Horse & Groom on Sat 3 Oct, London. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Mira + TBA at Fünk
 
-Mira + TBA at Fünk on Fri 13 Nov, Mexico City. 1 artist on the bill: Mira. House and Downtempo. Preview the line-up and save it on soundcheck.
+Mira + TBA at Fünk on Fri 13 Nov, Mexico City. 1 artist: Mira. House and Downtempo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

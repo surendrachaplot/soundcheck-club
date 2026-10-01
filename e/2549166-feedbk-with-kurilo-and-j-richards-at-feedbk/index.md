@@ -1,6 +1,6 @@
 # feedbk with Kurilo and J. Richards at feedbk
 
-feedbk with Kurilo and J. Richards on Sun 11 Oct, New York City. 2 artists on the bill: J. Richards and Kurilo. Progressive House and Techno. Preview the line-up and save it on soundcheck.
+feedbk with Kurilo and J. Richards on Sun 11 Oct, New York City. 2 artists: J. Richards and Kurilo. Progressive House and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

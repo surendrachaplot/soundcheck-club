@@ -1,6 +1,6 @@
 # OFF & FRATELLO pres Calussa [HALLOWEEN] at Nix at NIX Barcelon
 
-OFF & FRATELLO pres Calussa [HALLOWEEN] at Nix at NIX Barcelon on Fri 30 Oct, Barcelona. 3 artists on the bill: Calussa, DIROS and Sebastián Peña. Tech House. Preview the line-up and save it on soundcheck.
+OFF & FRATELLO pres Calussa [HALLOWEEN] at Nix at NIX Barcelon on Fri 30 Oct, Barcelona. 3 artists: Calussa, DIROS and Sebastián Peña. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

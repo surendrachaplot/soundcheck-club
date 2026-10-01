@@ -1,6 +1,6 @@
 # SPOELBOYS 7 JAAR at Skatecafe
 
-SPOELBOYS 7 JAAR at Skatecafe on Sat 3 Oct, Amsterdam. Bass and Garage. Preview the line-up and save it on soundcheck.
+SPOELBOYS 7 JAAR at Skatecafe on Sat 3 Oct, Amsterdam. Bass and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

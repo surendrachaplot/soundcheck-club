@@ -1,6 +1,6 @@
 # Anarchyintheclub with Tesla Sonic (Live), Kodacci at THE MAGICK BAR
 
-Anarchyintheclub with Tesla Sonic (Live), Kodacci at THE MAGICK BAR on Fri 2 Oct, Rome. 2 artists on the bill: Kodacci and Teslasonic. Preview the line-up and save it on soundcheck.
+Anarchyintheclub with Tesla Sonic (Live), Kodacci at THE MAGICK BAR on Fri 2 Oct, Rome. 2 artists: Kodacci and Teslasonic. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

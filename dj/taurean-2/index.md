@@ -1,8 +1,8 @@
 # TAUREAN (2)
 
-TAUREAN (2) is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bike Jesus, Prague on Fri, 9 Oct 2026.
+TAUREAN (2) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bike Jesus, Prague on Fri, 9 Oct 2026.
 
-TAUREAN is a techno and house artist based in Ireland, tracked on soundcheck, with 51 sets logged across Berlin, Cork, Dublin and Prague. Often billed alongside JenTen, The Camel and Ayham. Next up: Bike Jesus, Prague on Fri 9 Oct.
+TAUREAN is a techno and house artist based in Ireland, with 51 gigs on soundcheck across Berlin, Cork, Dublin and Prague. Often billed alongside JenTen, The Camel and Ayham. Next up: Bike Jesus, Prague on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ TAUREAN is a techno and house artist based in Ireland, tracked on soundcheck, wi
 
 ## Recently played
 
-- ÆDEN, Berlin — Sat, 22 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Thu, 13 Aug 2026
-- M01, Berlin — Fri, 17 Jul 2026
-- KREUZWERK, Berlin — Fri, 3 Jul 2026
-- Kwia, Berlin — Wed, 1 Jul 2026
-- Tresor / Globus, Berlin — Wed, 24 Jun 2026
-- TBA - NOT SO SECRET LOCATION, Berlin — Sun, 10 May 2026
-- TBA - Secret location in Moabit, Berlin — Sat, 2 May 2026
+- ÆDEN, Berlin · Sat, 22 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Thu, 13 Aug 2026
+- M01, Berlin · Fri, 17 Jul 2026
+- KREUZWERK, Berlin · Fri, 3 Jul 2026
+- Kwia, Berlin · Wed, 1 Jul 2026
+- Tresor / Globus, Berlin · Wed, 24 Jun 2026
+- TBA - NOT SO SECRET LOCATION, Berlin · Sun, 10 May 2026
+- TBA - Secret location in Moabit, Berlin · Sat, 2 May 2026
 
 ## Shares bills with
 

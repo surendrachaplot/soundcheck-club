@@ -1,6 +1,6 @@
 # Delicious b2b LArA @ The Garrison at The Garrison
 
-Delicious b2b LArA @ The Garrison on Fri 9 Oct, Toronto. 2 artists on the bill: Delicious DJ and LArA. House and Deep House. Preview the line-up and save it on soundcheck.
+Delicious b2b LArA @ The Garrison on Fri 9 Oct, Toronto. 2 artists: Delicious DJ and LArA. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

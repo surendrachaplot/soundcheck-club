@@ -1,6 +1,6 @@
 # 2charm at Colour Factory
 
-2charm at Colour Factory on Thu 15 Oct, London. Electro and Pop. Preview the line-up and save it on soundcheck.
+2charm at Colour Factory on Thu 15 Oct, London. Electro and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

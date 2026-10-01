@@ -1,6 +1,6 @@
 # Awakenings EXO - Colombia at Coliseo Medplus
 
-Awakenings EXO - Colombia at Coliseo Medplus on Fri 4 Dec, Bogot. 14 artists on the bill: Abstract Division, Adriana Lopez, Confidential Recipe and Diossa and 10 more. Preview the line-up and save it on soundcheck.
+Awakenings EXO - Colombia at Coliseo Medplus on Fri 4 Dec, Bogot. 14 artists: Abstract Division, Adriana Lopez, Confidential Recipe and Diossa and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

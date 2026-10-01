@@ -1,6 +1,6 @@
 # Deeportament Community at Ritter Butzke
 
-Deeportament Community at Ritter Butzke on Fri 23 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Deeportament Community at Ritter Butzke on Fri 23 Oct, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Midnight Climax
 
-Midnight Climax is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
+Midnight Climax is a Techno and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Underground SF, San Francisco/Oakland on Sat, 21 Nov 2026.
 
-Midnight Climax is a techno and trance artist based in United States of America, tracked on soundcheck, with 22 sets logged across Austin, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside PAX, CUNT REMEMBER and Reinhaudt. Next up: Underground SF, San Francisco/Oakland on Sat 21 Nov.
+Midnight Climax is a techno and trance artist based in United States of America, with 22 gigs on soundcheck across Austin, Barcelona, Berlin and Copenhagen and 5 more. Often billed alongside PAX, CUNT REMEMBER and Reinhaudt. Next up: Underground SF, San Francisco/Oakland on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Midnight Climax is a techno and trance artist based in United States of America,
 
 ## Recently played
 
-- TBA - Warschauer Pl. 18, 10245 Berlin, Berlin — Sat, 12 Sept 2026
-- TBA - TRXXXTR, Berlin — Thu, 10 Sept 2026
-- TBA - Warschauer Pl. 18, 10245 Berlin, Berlin — Sat, 15 Aug 2026
-- TBA - Secret Location, Berlin — Fri, 22 May 2026
-- Bar131, Berlin — Sat, 28 Mar 2026
-- Underground SF, San Francisco/Oakland — Sat, 7 Feb 2026
-- TBA, Los Angeles — Sat, 31 Jan 2026
-- Dadalab, Austin — Fri, 23 Jan 2026
+- TBA - Warschauer Pl. 18, 10245 Berlin, Berlin · Sat, 12 Sept 2026
+- TBA - TRXXXTR, Berlin · Thu, 10 Sept 2026
+- TBA - Warschauer Pl. 18, 10245 Berlin, Berlin · Sat, 15 Aug 2026
+- TBA - Secret Location, Berlin · Fri, 22 May 2026
+- Bar131, Berlin · Sat, 28 Mar 2026
+- Underground SF, San Francisco/Oakland · Sat, 7 Feb 2026
+- TBA, Los Angeles · Sat, 31 Jan 2026
+- Dadalab, Austin · Fri, 23 Jan 2026
 
 ## Shares bills with
 

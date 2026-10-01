@@ -1,6 +1,6 @@
 # The Pickle at The Pickle
 
-The Pickle on Fri 25 Dec, Miami. Preview the line-up and save it on soundcheck.
+The Pickle on Fri 25 Dec, Miami. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

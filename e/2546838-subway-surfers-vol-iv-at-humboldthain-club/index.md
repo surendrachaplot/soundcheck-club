@@ -1,6 +1,6 @@
 # Subway Surfers Vol. IV at Humboldthain Club
 
-Subway Surfers Vol. IV at Humboldthain Club on Sat 24 Oct, Berlin. Trance and Techno. Preview the line-up and save it on soundcheck.
+Subway Surfers Vol. IV at Humboldthain Club on Sat 24 Oct, Berlin. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Amadeezy
 
-Amadeezy is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Skylight Warehouse, Vancouver on Fri, 2 Oct 2026.
+Amadeezy is a Techno and Ghetto Tech artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Skylight Warehouse, Vancouver on Fri, 2 Oct 2026.
 
-Amadeezy is a techno and ghetto tech artist based in United States of America, tracked on soundcheck, with 37 sets logged across Berlin, Boston, Brisbane and Chicago and 14 more. Often billed alongside Jason Code, MoMA Ready and Carl Hang. Next up: Skylight Warehouse, Vancouver on Fri 2 Oct.
+Amadeezy is a techno and ghetto tech artist based in United States of America, with 37 gigs on soundcheck across Berlin, Boston, Brisbane and Chicago and 14 more. Often billed alongside Jason Code, MoMA Ready and Carl Hang. Next up: Skylight Warehouse, Vancouver on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Amadeezy is a techno and ghetto tech artist based in United States of America, t
 
 ## Recently played
 
-- TBA, San Francisco/Oakland — Sat, 26 Sept 2026
-- Crown Nightclub, Boston — Fri, 21 Aug 2026
-- TV Lounge, Detroit — Sat, 11 Jul 2026
-- TBA, Chicago — Sat, 6 Jun 2026
-- Humboldthain Club, Berlin — Fri, 17 Apr 2026
-- Chacho Spirits, Washington DC — Sat, 25 Oct 2025
-- 154 Scott Ave, New York City — Sat, 29 Mar 2025
-- TBA - 860 Vallejo St, Denver — Sat, 1 Mar 2025
+- TBA, San Francisco/Oakland · Sat, 26 Sept 2026
+- Crown Nightclub, Boston · Fri, 21 Aug 2026
+- TV Lounge, Detroit · Sat, 11 Jul 2026
+- TBA, Chicago · Sat, 6 Jun 2026
+- Humboldthain Club, Berlin · Fri, 17 Apr 2026
+- Chacho Spirits, Washington DC · Sat, 25 Oct 2025
+- 154 Scott Ave, New York City · Sat, 29 Mar 2025
+- TBA - 860 Vallejo St, Denver · Sat, 1 Mar 2025
 
 ## Shares bills with
 

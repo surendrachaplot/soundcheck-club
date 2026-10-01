@@ -1,6 +1,6 @@
 # AlFaer, Maria Callapez, Vivax - FREE ENTRY at Gare Porto
 
-AlFaer, Maria Callapez, Vivax - FREE ENTRY at Gare Porto on Fri 23 Oct, Porto. 3 artists on the bill: AlFaer, Maria Callapez and Vivax. Techno and Electronica. Preview the line-up and save it on soundcheck.
+AlFaer, Maria Callapez, Vivax - FREE ENTRY at Gare Porto on Fri 23 Oct, Porto. 3 artists: AlFaer, Maria Callapez and Vivax. Techno and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

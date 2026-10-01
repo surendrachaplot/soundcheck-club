@@ -1,6 +1,6 @@
 # Toru Ikemoto (Aum Recordings, WSNWG /JP) hosted by Eclisse at Astoria
 
-Toru Ikemoto (Aum Recordings, WSNWG /JP) hosted by Eclisse at Astoria on Fri 4 Dec, Turin. 1 artist on the bill: Toru Ikemoto. Techno. Preview the line-up and save it on soundcheck.
+Toru Ikemoto (Aum Recordings, WSNWG /JP) hosted by Eclisse at Astoria on Fri 4 Dec, Turin. 1 artist: Toru Ikemoto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

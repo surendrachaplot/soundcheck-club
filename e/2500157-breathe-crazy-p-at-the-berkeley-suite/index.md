@@ -1,6 +1,6 @@
 # BREATHE: Crazy P at The Berkeley Suite
 
-BREATHE: Crazy P at The Berkeley Suite on Sat 28 Nov, Glasgow. 1 artist on the bill: Crazy P. House and Disco. Preview the line-up and save it on soundcheck.
+BREATHE: Crazy P at The Berkeley Suite on Sat 28 Nov, Glasgow. 1 artist: Crazy P. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

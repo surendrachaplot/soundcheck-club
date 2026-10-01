@@ -1,6 +1,6 @@
 # DOMINGO 11 OUT - PEDRO TABUADA / VINCE PARIS / PAUL KINGS at Era uma vez no Porto
 
-DOMINGO 11 OUT - PEDRO TABUADA / VINCE PARIS / PAUL KINGS at Era uma vez no Porto on Sun 11 Oct, Porto. Techno. Preview the line-up and save it on soundcheck.
+DOMINGO 11 OUT - PEDRO TABUADA / VINCE PARIS / PAUL KINGS at Era uma vez no Porto on Sun 11 Oct, Porto. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # GROOVE RUINE at Gotec
 
-GROOVE RUINE at Gotec on Sat 3 Oct, Karlsruhe. 14 artists on the bill: ALI3N, Beste Hira, Carmen Electro and DJ SEXSTASY and 10 more. Preview the line-up and save it on soundcheck.
+GROOVE RUINE at Gotec on Sat 3 Oct, Karlsruhe. 14 artists: ALI3N, Beste Hira, Carmen Electro and DJ SEXSTASY and 10 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

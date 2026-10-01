@@ -1,6 +1,6 @@
 # SONGHOY BLUES *live at Gretchen
 
-SONGHOY BLUES *live at Gretchen on Sun 1 Nov, Berlin. Preview the line-up and save it on soundcheck.
+SONGHOY BLUES *live at Gretchen on Sun 1 Nov, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

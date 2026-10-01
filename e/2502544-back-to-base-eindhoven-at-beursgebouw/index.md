@@ -1,6 +1,6 @@
 # Back To Base Eindhoven at Beursgebouw
 
-Back To Base Eindhoven at Beursgebouw on Sat 7 Nov, Eindhoven. 4 artists on the bill: AUTOFLOWER, davyboi, Freddi and Lisa Korver. Preview the line-up and save it on soundcheck.
+Back To Base Eindhoven at Beursgebouw on Sat 7 Nov, Eindhoven. 4 artists: AUTOFLOWER, davyboi, Freddi and Lisa Korver. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

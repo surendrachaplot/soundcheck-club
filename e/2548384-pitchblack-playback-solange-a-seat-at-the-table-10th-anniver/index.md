@@ -1,6 +1,6 @@
 # Pitchblack Playback: Solange 'A Seat At The Table' (10th Anniversary) at The Castle Cinema
 
-Pitchblack Playback: Solange 'A Seat At The Table' (10th Anniversary) at The Castle Cinema on Tue 13 Oct, London. R&B. Preview the line-up and save it on soundcheck.
+Pitchblack Playback: Solange 'A Seat At The Table' (10th Anniversary) at The Castle Cinema on Tue 13 Oct, London. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

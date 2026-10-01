@@ -1,6 +1,6 @@
 # Toki-O Nights: Powered by Technics (Euan McGinty) at Mad Cats
 
-Toki-O Nights: Powered by Technics (Euan McGinty) at Mad Cats on Wed 21 Oct, London. Disco and Jazz. Preview the line-up and save it on soundcheck.
+Toki-O Nights: Powered by Technics (Euan McGinty) at Mad Cats on Wed 21 Oct, London. Disco and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

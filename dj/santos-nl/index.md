@@ -1,8 +1,8 @@
 # SANTØS
 
-SANTØS is a Techno and Industrial artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BASIS, Utrecht on Fri, 2 Oct 2026.
+SANTØS is a Techno and Industrial artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at BASIS, Utrecht on Fri, 2 Oct 2026.
 
-SANTØS is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Barcelona and Belfast and 30 more. Often billed alongside KLOFAMA, KARAH and 6EJOU. Next up: BASIS, Utrecht on Fri 2 Oct.
+SANTØS is a techno and industrial artist based in Netherlands, with 110 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Belfast and 30 more. Often billed alongside KLOFAMA, KARAH and 6EJOU. Next up: BASIS, Utrecht on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ SANTØS is a techno and industrial artist based in Netherlands, tracked on sound
 
 ## Recently played
 
-- Airport Würzburg, Nürnberg — Sat, 19 Sept 2026
-- Eden, Ibiza — Tue, 15 Sept 2026
-- The Yard Vienna, Vienna — Sat, 12 Sept 2026
-- The Flinders, Sydney — Fri, 11 Sept 2026
-- Parc de la Serra de Mollerussa (Lérida), Barcelona — Sat, 5 Sept 2026
-- Toffler, Rotterdam — Fri, 31 Jul 2026
-- Essigfabrik, Cologne — Sat, 18 Jul 2026
-- Kilomètre25, Paris — Sat, 4 Jul 2026
+- Airport Würzburg, Nürnberg · Sat, 19 Sept 2026
+- Eden, Ibiza · Tue, 15 Sept 2026
+- The Yard Vienna, Vienna · Sat, 12 Sept 2026
+- The Flinders, Sydney · Fri, 11 Sept 2026
+- Parc de la Serra de Mollerussa (Lérida), Barcelona · Sat, 5 Sept 2026
+- Toffler, Rotterdam · Fri, 31 Jul 2026
+- Essigfabrik, Cologne · Sat, 18 Jul 2026
+- Kilomètre25, Paris · Sat, 4 Jul 2026
 
 ## Shares bills with
 

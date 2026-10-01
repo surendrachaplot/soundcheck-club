@@ -1,6 +1,6 @@
 # CQTD presents Closing Brunch Chez Mr Watson at Mr Watson
 
-CQTD presents Closing Brunch Chez Mr Watson on Sun 25 Oct, Amsterdam. 3 artists on the bill: Han Litz, Marcel Vogel and Roger That. Disco and Funk / Soul. Preview the line-up and save it on soundcheck.
+CQTD presents Closing Brunch Chez Mr Watson on Sun 25 Oct, Amsterdam. 3 artists: Han Litz, Marcel Vogel and Roger That. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

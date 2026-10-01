@@ -1,6 +1,6 @@
 # *Fingerprints After Gathering* 핑거프린츠 에프터 게더링 at TBA
 
-*Fingerprints After Gathering* 핑거프린츠 에프터 게더링 at TBA on Thu 8 Oct, Seoul. Club and Dub Techno. Preview the line-up and save it on soundcheck.
+*Fingerprints After Gathering* 핑거프린츠 에프터 게더링 at TBA on Thu 8 Oct, Seoul. Club and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

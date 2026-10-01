@@ -1,6 +1,6 @@
 # TEJAM Sessions at Teja House
 
-TEJAM Sessions at Teja House on Tue 6 Oct, Lisbon. Preview the line-up and save it on soundcheck.
+TEJAM Sessions at Teja House on Tue 6 Oct, Lisbon. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

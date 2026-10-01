@@ -1,6 +1,6 @@
 # Buttechno (live), Andy Garvey, Lara Renner, Bar40 hosted by ponte-neuro at Garage Noord
 
-Buttechno (live), Andy Garvey, Lara Renner, Bar40 hosted by ponte-neuro at Garage Noord on Fri 9 Oct, Amsterdam. 4 artists on the bill: Andy Garvey, Buttechno, Daya and Lara Renner. Preview the line-up and save it on soundcheck.
+Buttechno (live), Andy Garvey, Lara Renner, Bar40 hosted by ponte-neuro at Garage Noord on Fri 9 Oct, Amsterdam. 4 artists: Andy Garvey, Buttechno, Daya and Lara Renner. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

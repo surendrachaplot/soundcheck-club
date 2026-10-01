@@ -1,8 +1,8 @@
 # Red Gate Arts Society
 
-Red Gate Arts Society is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sook-Yin Lee with Kylie V, Reveal Yourself, and jaye simpson" on Fri, 23 Oct 2026.
+Red Gate Arts Society is a music venue in Vancouver with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Sook-Yin Lee with Kylie V, Reveal Yourself, and jaye simpson" on Fri, 23 Oct 2026.
 
-Red Gate Arts Society is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. 1965 Main St, Vancouver, BC V5T 3C1, Canada.
+Red Gate Arts Society is a music venue in Vancouver listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. 1965 Main St, Vancouver, BC V5T 3C1, Canada.
 
 ## What's on
 

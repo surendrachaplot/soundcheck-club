@@ -1,6 +1,6 @@
 # Wrong Way Home: Launch Party at Vittoria Wharf Studio
 
-Wrong Way Home: Launch Party at Vittoria Wharf Studio on Thu 29 Oct, London. 1 artist on the bill: Mojay. Drum & Bass and Jungle. Preview the line-up and save it on soundcheck.
+Wrong Way Home: Launch Party at Vittoria Wharf Studio on Thu 29 Oct, London. 1 artist: Mojay. Drum & Bass and Jungle. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Electrowerkz
 
-Electrowerkz is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ELECTRO ROCKS" on Fri, 2 Oct 2026.
+Electrowerkz is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ELECTRO ROCKS" on Fri, 2 Oct 2026.
 
-Electrowerkz is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Arkyn, Bass, Billy Daniel Bunter and Charlotte Devaney and 2 more. Browse upcoming dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
+Electrowerkz is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Arkyn, Bass, Billy Daniel Bunter and Charlotte Devaney and 2 more. See dates, start times and who's playing. 7 Torrens Street; Islington; London EC1V 1NQ; United Kingdom.
 
 ## What's on
 

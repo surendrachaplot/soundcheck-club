@@ -1,6 +1,6 @@
 # LLOUS X Red Arch Halloween house party at Red Arch
 
-LLOUS X Red Arch Halloween house party on Sat 31 Oct, Manchester. 1 artist on the bill: HSTN. House and Tech House. Preview the line-up and save it on soundcheck.
+LLOUS X Red Arch Halloween house party on Sat 31 Oct, Manchester. 1 artist: HSTN. House and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

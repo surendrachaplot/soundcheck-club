@@ -1,6 +1,6 @@
 # ATYPICAL: Afterwork + Open Mixer + Boiler Session by Other Side at TOC Hostel
 
-ATYPICAL: Afterwork + Open Mixer + Boiler Session by Other Side at TOC Hostel on Fri 23 Oct, Barcelona. Preview the line-up and save it on soundcheck.
+ATYPICAL: Afterwork + Open Mixer + Boiler Session by Other Side at TOC Hostel on Fri 23 Oct, Barcelona. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

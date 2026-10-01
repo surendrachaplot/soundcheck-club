@@ -1,25 +1,26 @@
 # Tatomed (2)
 
-Tatomed (2) is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at K7, Prague on Sat, 17 Oct 2026.
+Tatomed (2) is a House and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at K7, Prague on Sat, 17 Oct 2026.
 
-Tatomed is a house and tech house artist based in Venezuela, tracked on soundcheck, with 47 sets logged across Prague. Often billed alongside Rajky, Sam Gittis and Sebastian Paiza. Next up: K7, Prague on Sat 17 Oct.
+Tatomed is a house and tech house artist based in Venezuela, with 48 gigs on soundcheck across Prague. Often billed alongside Rajky, Sam Gittis and Sebastian Paiza. Next up: K7, Prague on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | K7 | Prague |
+| Sat, 17 Oct 2026 | K7 | Prague |
 
 ## Recently played
 
-- Stalin, Prague — Sat, 26 Sept 2026
-- Dorado Coffee, Prague — Sat, 19 Sept 2026
-- Sky Lounge 360, Prague — Sat, 12 Sept 2026
-- Revír Karlín, Prague — Fri, 7 Aug 2026
-- Bike Jesus, Prague — Sat, 25 Jul 2026
-- Altenburg 1964, Prague — Thu, 25 Jun 2026
-- Brix, Prague — Fri, 19 Jun 2026
-- Sky Lounge 360, Prague — Sat, 30 May 2026
+- Stalin, Prague · Sat, 26 Sept 2026
+- Dorado Coffee, Prague · Sat, 19 Sept 2026
+- Sky Lounge 360, Prague · Sat, 12 Sept 2026
+- Revír Karlín, Prague · Fri, 7 Aug 2026
+- Bike Jesus, Prague · Sat, 25 Jul 2026
+- Altenburg 1964, Prague · Thu, 25 Jun 2026
+- Brix, Prague · Fri, 19 Jun 2026
+- Sky Lounge 360, Prague · Sat, 30 May 2026
 
 ## Shares bills with
 

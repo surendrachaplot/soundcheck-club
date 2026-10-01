@@ -1,8 +1,8 @@
 # Mooi Space
 
-Mooi Space is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Yoyaku x Rhythm: Halloween Special" on Sat, 31 Oct 2026.
+Mooi Space is a music venue in Toronto with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Yoyaku x Rhythm: Halloween Special" on Sat, 31 Oct 2026.
 
-Mooi Space is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Cabanne, DJ Trustfall, Milidi and Negin and 2 more. Browse upcoming dates, start times and who's playing. 75 Pelham Avenue, Toronto, ON, M6N1A5.
+Mooi Space is a music venue in Toronto listed on soundcheck. 2 upcoming gigs, with line-ups including Cabanne, DJ Trustfall, Milidi and Negin and 2 more. See dates, start times and who's playing. 75 Pelham Avenue, Toronto, ON, M6N1A5.
 
 ## What's on
 

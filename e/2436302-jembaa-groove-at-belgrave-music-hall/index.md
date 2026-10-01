@@ -1,6 +1,6 @@
 # Jembaa Groove at Belgrave Music Hall
 
-Jembaa Groove at Belgrave Music Hall on Sat 10 Oct, Leeds. Jazz and Afrobeat. Preview the line-up and save it on soundcheck.
+Jembaa Groove at Belgrave Music Hall on Sat 10 Oct, Leeds. Jazz and Afrobeat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

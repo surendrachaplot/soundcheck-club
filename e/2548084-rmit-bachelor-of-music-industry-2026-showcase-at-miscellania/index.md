@@ -1,6 +1,6 @@
 # RMIT Bachelor of Music Industry 2026 Showcase at Miscellania
 
-RMIT Bachelor of Music Industry 2026 Showcase at Miscellania on Tue 13 Oct, Melbourne. Preview the line-up and save it on soundcheck.
+RMIT Bachelor of Music Industry 2026 Showcase at Miscellania on Tue 13 Oct, Melbourne. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

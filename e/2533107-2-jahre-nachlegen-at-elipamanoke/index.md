@@ -1,6 +1,6 @@
 # 2 JAHRE NACHLEGEN at elipamanoke
 
-2 JAHRE NACHLEGEN at elipamanoke on Sun 25 Oct, Leipzig. Techno. Preview the line-up and save it on soundcheck.
+2 JAHRE NACHLEGEN at elipamanoke on Sun 25 Oct, Leipzig. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

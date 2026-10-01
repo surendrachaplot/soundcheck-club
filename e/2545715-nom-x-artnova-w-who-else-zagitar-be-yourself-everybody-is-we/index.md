@@ -1,6 +1,6 @@
 # NOM x ARTNOVA w. WHO ELSE & Zagitar ( be yourself, everybody is welcome ) at Bikini Club
 
-NOM x ARTNOVA w. WHO ELSE & Zagitar ( be yourself, everybody is welcome ) at Bikini Club on Sat 17 Oct, Barcelona. 3 artists on the bill: Althoff, WHO ELSE and Zagitar. Preview the line-up and save it on soundcheck.
+NOM x ARTNOVA w. WHO ELSE & Zagitar ( be yourself, everybody is welcome ) at Bikini Club on Sat 17 Oct, Barcelona. 3 artists: Althoff, WHO ELSE and Zagitar. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

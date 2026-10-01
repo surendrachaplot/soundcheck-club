@@ -1,6 +1,6 @@
 # Music Industry Monday: Building a Career Across Industries at Lccm
 
-Music Industry Monday: Building a Career Across Industries at Lccm on Mon 12 Oct, London. Preview the line-up and save it on soundcheck.
+Music Industry Monday: Building a Career Across Industries at Lccm on Mon 12 Oct, London. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

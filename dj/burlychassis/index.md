@@ -1,8 +1,8 @@
 # Burly Chassis
 
-Burly Chassis is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Strange Brew, Bristol on Sat, 3 Oct 2026.
+Burly Chassis is a Disco and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Strange Brew, Bristol on Sat, 3 Oct 2026.
 
-Burly Chassis is a disco and house artist based in United Kingdom, tracked on soundcheck, with 20 sets logged across Bristol, Cardiff, London and Nottingham. Often billed alongside SPICYIVY, Safiye and Brad Bradley. Next up: Strange Brew, Bristol on Sat 3 Oct.
+Burly Chassis is a disco and house artist based in United Kingdom, with 20 gigs on soundcheck across Bristol, Cardiff, London and Nottingham. Often billed alongside SPICYIVY, Safiye and Brad Bradley. Next up: Strange Brew, Bristol on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Burly Chassis is a disco and house artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- Strange Brew, Bristol — Fri, 5 Jun 2026
-- Strange Brew, Bristol — Sat, 31 Jan 2026
-- Strange Brew, Bristol — Wed, 31 Dec 2025
-- The Croft, Bristol — Fri, 19 Dec 2025
-- The Marquee Moon, London — Sat, 18 Oct 2025
-- Paradise Garden, Cardiff — Fri, 3 Oct 2025
-- The Red Church, Bristol — Sun, 24 Aug 2025
-- The Christmas Steps, Bristol — Sat, 3 May 2025
+- Strange Brew, Bristol · Fri, 5 Jun 2026
+- Strange Brew, Bristol · Sat, 31 Jan 2026
+- Strange Brew, Bristol · Wed, 31 Dec 2025
+- The Croft, Bristol · Fri, 19 Dec 2025
+- The Marquee Moon, London · Sat, 18 Oct 2025
+- Paradise Garden, Cardiff · Fri, 3 Oct 2025
+- The Red Church, Bristol · Sun, 24 Aug 2025
+- The Christmas Steps, Bristol · Sat, 3 May 2025
 
 ## Shares bills with
 

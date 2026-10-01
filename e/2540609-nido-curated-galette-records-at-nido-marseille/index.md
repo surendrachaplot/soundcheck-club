@@ -1,6 +1,6 @@
 # Nido curated - Galette Records at Nido Marseille
 
-Nido curated - Galette Records at Nido Marseille on Sat 10 Oct, Marseille. Preview the line-up and save it on soundcheck.
+Nido curated - Galette Records at Nido Marseille on Sat 10 Oct, Marseille. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

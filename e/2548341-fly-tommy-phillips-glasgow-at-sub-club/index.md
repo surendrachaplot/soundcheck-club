@@ -1,6 +1,6 @@
 # FLY - Tommy Phillips - Glasgow at Sub Club
 
-FLY - Tommy Phillips - Glasgow at Sub Club on Thu 29 Oct, Glasgow. 2 artists on the bill: Alex Culross and Tommy Phillips. House. Preview the line-up and save it on soundcheck.
+FLY - Tommy Phillips - Glasgow at Sub Club on Thu 29 Oct, Glasgow. 2 artists: Alex Culross and Tommy Phillips. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

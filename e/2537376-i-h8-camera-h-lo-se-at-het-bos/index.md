@@ -1,6 +1,6 @@
 # I H8 Camera + Héloïse at Het Bos
 
-I H8 Camera + Héloïse at Het Bos on Thu 15 Oct, Antwerp. Preview the line-up and save it on soundcheck.
+I H8 Camera + Héloïse at Het Bos on Thu 15 Oct, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

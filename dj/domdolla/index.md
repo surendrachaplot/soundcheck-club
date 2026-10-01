@@ -1,8 +1,8 @@
 # Dom Dolla
 
-Dom Dolla is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Flushing Meadows Corona Park, New York City on Sat, 3 Oct 2026.
+Dom Dolla is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Flushing Meadows Corona Park, New York City on Sat, 3 Oct 2026.
 
-Dom Dolla is a house and tech house artist based in Australia, tracked on soundcheck, with 116 sets logged across Amsterdam, Austin, Barcelona and Belfast and 31 more. Often billed alongside Patrick Topping, Ewan McVicar and Charlotte de Witte. Next up: Flushing Meadows Corona Park, New York City on Sat 3 Oct.
+Dom Dolla is a house and tech house artist based in Australia, with 116 gigs on soundcheck across Amsterdam, Austin, Barcelona and Belfast and 31 more. Often billed alongside Patrick Topping, Ewan McVicar and Charlotte de Witte. Next up: Flushing Meadows Corona Park, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -18,14 +18,14 @@ Dom Dolla is a house and tech house artist based in Australia, tracked on soundc
 
 ## Recently played
 
-- Hï Ibiza, Ibiza — Fri, 28 Aug 2026
-- Hï Ibiza, Ibiza — Fri, 21 Aug 2026
-- Hï Ibiza, Ibiza — Fri, 14 Aug 2026
-- Obudai Island, Budapest — Tue, 11 Aug 2026
-- Hï Ibiza, Ibiza — Fri, 7 Aug 2026
-- Old Royal Naval College, London — Sat, 1 Aug 2026
-- KOKO, London — Sat, 1 Aug 2026
-- Hï Ibiza, Ibiza — Fri, 31 Jul 2026
+- Hï Ibiza, Ibiza · Fri, 28 Aug 2026
+- Hï Ibiza, Ibiza · Fri, 21 Aug 2026
+- Hï Ibiza, Ibiza · Fri, 14 Aug 2026
+- Obudai Island, Budapest · Tue, 11 Aug 2026
+- Hï Ibiza, Ibiza · Fri, 7 Aug 2026
+- Old Royal Naval College, London · Sat, 1 Aug 2026
+- KOKO, London · Sat, 1 Aug 2026
+- Hï Ibiza, Ibiza · Fri, 31 Jul 2026
 
 ## Shares bills with
 

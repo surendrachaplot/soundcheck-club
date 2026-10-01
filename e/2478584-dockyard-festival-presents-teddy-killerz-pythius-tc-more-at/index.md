@@ -1,6 +1,6 @@
 # DOCKYARD FESTIVAL presents: Teddy Killerz, Pythius, TC + MORE at Westhafen
 
-DOCKYARD FESTIVAL presents: Teddy Killerz, Pythius, TC + MORE at Westhafen on Sat 28 Nov, Leipzig. 3 artists on the bill: Pythius, TC and Teddy Killerz. Drum & Bass. Preview the line-up and save it on soundcheck.
+DOCKYARD FESTIVAL presents: Teddy Killerz, Pythius, TC + MORE at Westhafen on Sat 28 Nov, Leipzig. 3 artists: Pythius, TC and Teddy Killerz. Drum & Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # ANJELIKA SAHAKIAN
 
-ANJELIKA SAHAKIAN is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
+ANJELIKA SAHAKIAN is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Parc del Fòrum, Barcelona on Fri, 30 Oct 2026.
 
-ANJELIKA SAHAKIAN is a techno and house artist based in Poland, tracked on soundcheck, with 12 sets logged across Barcelona and Madrid. Often billed alongside KSAL, DIDIXX and Miguel Rivas. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
+ANJELIKA SAHAKIAN is a techno and house artist based in Poland, with 12 gigs on soundcheck across Barcelona and Madrid. Often billed alongside KSAL, DIDIXX and Miguel Rivas. Next up: Parc del Fòrum, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ ANJELIKA SAHAKIAN is a techno and house artist based in Poland, tracked on sound
 
 ## Recently played
 
-- Strong the Club, Madrid — Fri, 4 Sept 2026
-- Strong the Club, Madrid — Fri, 7 Aug 2026
-- Goya Social Club, Madrid — Wed, 8 Jul 2026
-- Nitsa Club, Barcelona — Fri, 26 Jun 2026
-- TBA, Madrid — Sat, 9 May 2026
-- Araña Club, Madrid — Sat, 28 Mar 2026
-- TBA - ENTITY powered by Void Acoustics, Madrid — Fri, 6 Mar 2026
-- Sala Pirandelo, Madrid — Sat, 10 Jan 2026
+- Strong the Club, Madrid · Fri, 4 Sept 2026
+- Strong the Club, Madrid · Fri, 7 Aug 2026
+- Goya Social Club, Madrid · Wed, 8 Jul 2026
+- Nitsa Club, Barcelona · Fri, 26 Jun 2026
+- TBA, Madrid · Sat, 9 May 2026
+- Araña Club, Madrid · Sat, 28 Mar 2026
+- TBA - ENTITY powered by Void Acoustics, Madrid · Fri, 6 Mar 2026
+- Sala Pirandelo, Madrid · Sat, 10 Jan 2026
 
 ## Shares bills with
 

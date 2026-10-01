@@ -1,8 +1,8 @@
 # Kassian
 
-Kassian is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Fox and Firkin, London on Sat, 3 Oct 2026.
+Kassian is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Fox and Firkin, London on Sat, 3 Oct 2026.
 
-Kassian is a house and techno artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Auckland, Barcelona and Belfast and 15 more. Often billed alongside Joe Milli, Jay Carder and Breaka. Next up: The Fox and Firkin, London on Sat 3 Oct.
+Kassian is a house and techno artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Belfast and 15 more. Often billed alongside Joe Milli, Jay Carder and Breaka. Next up: The Fox and Firkin, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Kassian is a house and techno artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
-- radial, London — Sat, 22 Aug 2026
-- Kazimier Garden, Liverpool — Sat, 27 Jun 2026
-- The Old Blue Last, London — Fri, 12 Jun 2026
-- TBA - RAW , Belfast — Sat, 16 May 2026
-- Kazimier Garden, Liverpool — Sat, 21 Mar 2026
-- The Old Blue Last, London — Sat, 14 Mar 2026
-- Sacré, Paris — Mon, 10 Nov 2025
-- Colour Factory, London — Sat, 16 Aug 2025
+- radial, London · Sat, 22 Aug 2026
+- Kazimier Garden, Liverpool · Sat, 27 Jun 2026
+- The Old Blue Last, London · Fri, 12 Jun 2026
+- TBA - RAW , Belfast · Sat, 16 May 2026
+- Kazimier Garden, Liverpool · Sat, 21 Mar 2026
+- The Old Blue Last, London · Sat, 14 Mar 2026
+- Sacré, Paris · Mon, 10 Nov 2025
+- Colour Factory, London · Sat, 16 Aug 2025
 
 ## Shares bills with
 

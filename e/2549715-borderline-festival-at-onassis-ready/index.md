@@ -1,6 +1,6 @@
 # Borderline Festival at Onassis Ready
 
-Borderline Festival at Onassis Ready on Fri 9 Oct, Athens. 8 artists on the bill: Alexander Skancke, Anna Vs June, Baggymilziade and DJ-HOTLINE 333 and 4 more. Preview the line-up and save it on soundcheck.
+Borderline Festival at Onassis Ready on Fri 9 Oct, Athens. 8 artists: Alexander Skancke, Anna Vs June, Baggymilziade and DJ-HOTLINE 333 and 4 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

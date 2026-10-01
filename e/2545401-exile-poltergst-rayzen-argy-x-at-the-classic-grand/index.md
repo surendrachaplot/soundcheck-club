@@ -1,6 +1,6 @@
 # Exile - POLTERGST, Rayzen, Argy X at The Classic Grand
 
-Exile - POLTERGST, Rayzen, Argy X at The Classic Grand on Sat 28 Nov, Glasgow. 1 artist on the bill: Argy(uk). Techno and Hardcore. Preview the line-up and save it on soundcheck.
+Exile - POLTERGST, Rayzen, Argy X at The Classic Grand on Sat 28 Nov, Glasgow. 1 artist: Argy(uk). Techno and Hardcore. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

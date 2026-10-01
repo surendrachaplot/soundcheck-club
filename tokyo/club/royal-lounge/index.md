@@ -1,8 +1,8 @@
 # Royal Lounge
 
-Royal Lounge is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ELEVATED HOUSE" on Sun, 4 Oct 2026.
+Royal Lounge is a music venue in Tokyo with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "ELEVATED HOUSE" on Sun, 4 Oct 2026.
 
-Royal Lounge is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Jm3Yoci, Junya, KAIKAI and MOTOKA and 2 more. Browse upcoming dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
+Royal Lounge is a music venue in Tokyo listed on soundcheck. 3 upcoming gigs, with line-ups including Jm3Yoci, Junya, KAIKAI and MOTOKA and 2 more. See dates, start times and who's playing. 10F QPRAZA HARAJUKU, 6-28-6, JINGUUMAE, SHIBUYA-KU, Tokyo, 150-0001.
 
 ## What's on
 

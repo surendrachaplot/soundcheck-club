@@ -1,8 +1,8 @@
 # Level 8 DTLA
 
-Level 8 DTLA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SUNSET SESSIONS - Reloaded" on Fri, 9 Oct 2026.
+Level 8 DTLA is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SUNSET SESSIONS - Reloaded" on Fri, 9 Oct 2026.
 
-Level 8 DTLA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Tamara Lanza. Browse upcoming dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
+Level 8 DTLA is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Tamara Lanza. See dates, start times and who's playing. 1254 S Figueroa St, Los Angeles, CA 90015.
 
 ## What's on
 

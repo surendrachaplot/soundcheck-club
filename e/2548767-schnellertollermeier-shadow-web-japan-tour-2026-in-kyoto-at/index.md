@@ -1,6 +1,6 @@
 # Schnellertollermeier -Shadow Web- Japan Tour 2026 in Kyoto at Club Metro
 
-Schnellertollermeier -Shadow Web- Japan Tour 2026 in Kyoto at Club Metro on Tue 17 Nov, Kyoto. Preview the line-up and save it on soundcheck.
+Schnellertollermeier -Shadow Web- Japan Tour 2026 in Kyoto at Club Metro on Tue 17 Nov, Kyoto. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Azyr
 
-Azyr is a Techno and House artist with 18 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
+Azyr is a Techno and House artist with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
 
-Azyr is a techno and house artist based in United Kingdom, tracked on soundcheck, with 236 sets logged across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
+Azyr is a techno and house artist based in United Kingdom, with 236 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 65 more. Often billed alongside LESSSS, blk. and Charlie Sparks. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,14 +23,14 @@ Azyr is a techno and house artist based in United Kingdom, tracked on soundcheck
 
 ## Recently played
 
-- TBA, Los Angeles — Sun, 27 Sept 2026
-- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
-- Universe Athens, Athens — Fri, 11 Sept 2026
-- INPUT High Fidelity Dance Club, Barcelona — Thu, 10 Sept 2026
-- Hï Ibiza, Ibiza — Sun, 9 Aug 2026
-- Boston Manor Park, London — Sun, 2 Aug 2026
-- Bowlers Exhibition Centre, Manchester — Sat, 1 Aug 2026
-- Flanders Expo Centre, Ghent — Sat, 4 Jul 2026
+- TBA, Los Angeles · Sun, 27 Sept 2026
+- Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
+- Universe Athens, Athens · Fri, 11 Sept 2026
+- INPUT High Fidelity Dance Club, Barcelona · Thu, 10 Sept 2026
+- Hï Ibiza, Ibiza · Sun, 9 Aug 2026
+- Boston Manor Park, London · Sun, 2 Aug 2026
+- Bowlers Exhibition Centre, Manchester · Sat, 1 Aug 2026
+- Flanders Expo Centre, Ghent · Sat, 4 Jul 2026
 
 ## Shares bills with
 

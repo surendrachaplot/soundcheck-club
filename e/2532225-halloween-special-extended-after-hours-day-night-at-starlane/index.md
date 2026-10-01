@@ -1,6 +1,6 @@
 # HALLOWEEN SPECIAL EXTENDED AFTER HOURS DAY/NIGHT at Starlane Pizza Bar
 
-HALLOWEEN SPECIAL EXTENDED AFTER HOURS DAY/NIGHT at Starlane Pizza Bar on Sun 1 Nov, London. House and Minimal Techno. Preview the line-up and save it on soundcheck.
+HALLOWEEN SPECIAL EXTENDED AFTER HOURS DAY/NIGHT at Starlane Pizza Bar on Sun 1 Nov, London. House and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

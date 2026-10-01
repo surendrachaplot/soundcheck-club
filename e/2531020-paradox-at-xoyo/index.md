@@ -1,6 +1,6 @@
 # PARADOX at XOYO
 
-PARADOX at XOYO on Wed 21 Oct, London. Tech House and Deep House. Preview the line-up and save it on soundcheck.
+PARADOX at XOYO on Wed 21 Oct, London. Tech House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

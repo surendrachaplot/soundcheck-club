@@ -1,6 +1,6 @@
 # 10 Years of transport with Rainbow Disco Club at Chang Chui Creative Park
 
-10 Years of transport with Rainbow Disco Club at Chang Chui Creative Park on Sat 7 Nov, Bangkok. House and Disco. Preview the line-up and save it on soundcheck.
+10 Years of transport with Rainbow Disco Club at Chang Chui Creative Park on Sat 7 Nov, Bangkok. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

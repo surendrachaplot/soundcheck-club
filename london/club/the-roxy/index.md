@@ -1,8 +1,8 @@
 # The Roxy
 
-The Roxy is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "MixTape - An Over 30s Day Rave" on Sat, 3 Oct 2026.
+The Roxy is a music venue in London with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MixTape - An Over 30s Day Rave" on Sat, 3 Oct 2026.
 
-The Roxy is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including That Perfect Fumble. Browse upcoming dates, start times and who's playing. 3 Rathbone Place; Fitzrovia; London W1T 1HJ; United Kingdom.
+The Roxy is a music venue in London listed on soundcheck. 2 upcoming gigs, with line-ups including That Perfect Fumble. See dates, start times and who's playing. 3 Rathbone Place; Fitzrovia; London W1T 1HJ; United Kingdom.
 
 ## What's on
 

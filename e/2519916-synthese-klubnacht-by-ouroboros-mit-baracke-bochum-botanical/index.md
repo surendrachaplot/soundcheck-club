@@ -1,6 +1,6 @@
 # SYNTHESE - KLUBNACHT by OUROBOROS mit BARACKE BOCHUM & BOTANICAL BEATS at Schlegel Kultur Club
 
-SYNTHESE - KLUBNACHT by OUROBOROS mit BARACKE BOCHUM & BOTANICAL BEATS at Schlegel Kultur Club on Sat 10 Oct, Bochum. 2 artists on the bill: Kaya Schwarz and SAEIVAN. Trance and Techno. Preview the line-up and save it on soundcheck.
+SYNTHESE - KLUBNACHT by OUROBOROS mit BARACKE BOCHUM & BOTANICAL BEATS at Schlegel Kultur Club on Sat 10 Oct, Bochum. 2 artists: Kaya Schwarz and SAEIVAN. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

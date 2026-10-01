@@ -1,6 +1,6 @@
 # Breakfast Club #520 (28hr Daylight Savings Edition) at OneSixOne
 
-Breakfast Club #520 (28hr Daylight Savings Edition) at OneSixOne on Sun 4 Oct, Melbourne. 7 artists on the bill: Afrodisiac, Billus, Cosmo (KR) and Jmcee and 3 more. Preview the line-up and save it on soundcheck.
+Breakfast Club #520 (28hr Daylight Savings Edition) at OneSixOne on Sun 4 Oct, Melbourne. 7 artists: Afrodisiac, Billus, Cosmo (KR) and Jmcee and 3 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # Wibar Leidens Ontzet w/Ryan Elliott at Wibar
 
-Wibar Leidens Ontzet w/Ryan Elliott on Fri 2 Oct, Netherlands. 3 artists on the bill: Kevin Lo, O;Riordan (NL) and Ryan Elliott. Preview the line-up and save it on soundcheck.
+Wibar Leidens Ontzet w/Ryan Elliott on Fri 2 Oct, Netherlands. 3 artists: Kevin Lo, O;Riordan (NL) and Ryan Elliott. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

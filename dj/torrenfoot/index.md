@@ -1,8 +1,8 @@
 # Torren Foot
 
-Torren Foot is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at New City Gas, Montreal on Sat, 3 Oct 2026.
+Torren Foot is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at New City Gas, Montreal on Sat, 3 Oct 2026.
 
-Torren Foot is a house and tech house artist based in Australia, tracked on soundcheck, with 50 sets logged across Austin, Boston, Brisbane and Chicago and 13 more. Often billed alongside Airwolf Paradise, Dom Dolla and Sonny Fodera. Next up: New City Gas, Montreal on Sat 3 Oct.
+Torren Foot is a house and tech house artist based in Australia, with 50 gigs on soundcheck across Austin, Boston, Brisbane and Chicago and 13 more. Often billed alongside Airwolf Paradise, Dom Dolla and Sonny Fodera. Next up: New City Gas, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Torren Foot is a house and tech house artist based in Australia, tracked on soun
 
 ## Recently played
 
-- Waterfront Park in San Diego, San Diego — Sat, 26 Sept 2026
-- TBA - Pier 80, San Francisco/Oakland — Sat, 26 Sept 2026
-- SILO, New York City — Fri, 14 Aug 2026
-- Revolver Upstairs, Melbourne — Sun, 28 Jun 2026
-- The Ivy, Sydney — Sat, 28 Feb 2026
-- Riviera Beach Club, Melbourne — Thu, 1 Jan 2026
-- The Concourse Project, Austin — Fri, 14 Nov 2025
-- Max Watt's, Melbourne — Fri, 31 Oct 2025
+- Waterfront Park in San Diego, San Diego · Sat, 26 Sept 2026
+- TBA - Pier 80, San Francisco/Oakland · Sat, 26 Sept 2026
+- SILO, New York City · Fri, 14 Aug 2026
+- Revolver Upstairs, Melbourne · Sun, 28 Jun 2026
+- The Ivy, Sydney · Sat, 28 Feb 2026
+- Riviera Beach Club, Melbourne · Thu, 1 Jan 2026
+- The Concourse Project, Austin · Fri, 14 Nov 2025
+- Max Watt's, Melbourne · Fri, 31 Oct 2025
 
 ## Shares bills with
 

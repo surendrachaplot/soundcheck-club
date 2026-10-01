@@ -1,6 +1,6 @@
 # Resound & Kingdom presents: Andy Stott & Debit at Kingdom on 10/9 at Kingdom Nightclub
 
-Resound & Kingdom presents: Andy Stott & Debit at Kingdom on 10/9 at Kingdom Nightclub on Fri 9 Oct, Austin. 2 artists on the bill: Andy Stott and Debit. Ambient and Dub Techno. Preview the line-up and save it on soundcheck.
+Resound & Kingdom presents: Andy Stott & Debit at Kingdom on 10/9 at Kingdom Nightclub on Fri 9 Oct, Austin. 2 artists: Andy Stott and Debit. Ambient and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

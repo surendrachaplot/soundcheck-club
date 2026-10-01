@@ -1,6 +1,6 @@
 # Het Dorp x In Place Of War at Het Dorp
 
-Het Dorp x In Place Of War on Wed 21 Oct, Amsterdam. 1 artist on the bill: Matt Black. Electro and Club. Preview the line-up and save it on soundcheck.
+Het Dorp x In Place Of War on Wed 21 Oct, Amsterdam. 1 artist: Matt Black. Electro and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

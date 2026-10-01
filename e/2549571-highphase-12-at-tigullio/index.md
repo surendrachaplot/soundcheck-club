@@ -1,6 +1,6 @@
 # HIGHPHASE 12 at Tigullio
 
-HIGHPHASE 12 at Tigullio on Sat 10 Oct, Malta. 1 artist on the bill: AKID. Techno and Industrial. Preview the line-up and save it on soundcheck.
+HIGHPHASE 12 at Tigullio on Sat 10 Oct, Malta. 1 artist: AKID. Techno and Industrial. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

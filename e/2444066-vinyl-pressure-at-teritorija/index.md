@@ -1,6 +1,6 @@
 # Vinyl Pressure at Teritorija
 
-Vinyl Pressure at Teritorija on Sat 3 Oct, Riga. 1 artist on the bill: Waxid. House. Preview the line-up and save it on soundcheck.
+Vinyl Pressure at Teritorija on Sat 3 Oct, Riga. 1 artist: Waxid. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

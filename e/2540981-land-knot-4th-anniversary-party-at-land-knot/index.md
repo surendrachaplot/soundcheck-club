@@ -1,6 +1,6 @@
 # LAND KNOT 4th ANNIVERSARY PARTY at Land Knot
 
-LAND KNOT 4th ANNIVERSARY PARTY at Land Knot on Sun 11 Oct, Kanto. 2 artists on the bill: Sunga and Tonbo. Preview the line-up and save it on soundcheck.
+LAND KNOT 4th ANNIVERSARY PARTY at Land Knot on Sun 11 Oct, Kanto. 2 artists: Sunga and Tonbo. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Nark
 
-Nark is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
+Nark is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat, 31 Oct 2026.
 
-Nark is a house and techno artist based in United States of America, tracked on soundcheck, with 67 sets logged across Los Angeles, Mexico City, Portland and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, Succubass and Enya Botello. Next up: Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat 31 Oct.
+Nark is a house and techno artist based in United States of America, with 67 gigs on soundcheck across Los Angeles, Mexico City, Portland and San Francisco/Oakland and 2 more. Often billed alongside Sharlese, Succubass and Enya Botello. Next up: Ex Fabrica de Harina Anden Tacuba, Mexico City on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Nark is a house and techno artist based in United States of America, tracked on 
 
 ## Recently played
 
-- Massive, Seattle — Sat, 5 Sept 2026
-- TBA - SECRET LOCATION, Seattle — Fri, 28 Aug 2026
-- The Monkey Loft, Seattle — Thu, 23 Jul 2026
-- Massive, Seattle — Wed, 24 Jun 2026
-- TBA - Secret Warehouse, Seattle — Sat, 20 Jun 2026
-- TBA - La dirección de la fiesta será enviada el 25/04 a las 20 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City — Sat, 25 Apr 2026
-- Chop Suey, Seattle — Sat, 28 Mar 2026
-- Akbar, Los Angeles — Fri, 20 Mar 2026
+- Massive, Seattle · Sat, 5 Sept 2026
+- TBA - SECRET LOCATION, Seattle · Fri, 28 Aug 2026
+- The Monkey Loft, Seattle · Thu, 23 Jul 2026
+- Massive, Seattle · Wed, 24 Jun 2026
+- TBA - Secret Warehouse, Seattle · Sat, 20 Jun 2026
+- TBA - La dirección de la fiesta será enviada el 25/04 a las 20 horas a los correos asociados a la compra. +Info en pervert.mx , Mexico City · Sat, 25 Apr 2026
+- Chop Suey, Seattle · Sat, 28 Mar 2026
+- Akbar, Los Angeles · Fri, 20 Mar 2026
 
 ## Shares bills with
 

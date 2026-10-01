@@ -1,8 +1,8 @@
 # Groove Assassin
 
-Groove Assassin is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
+Groove Assassin is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Beatfabriek, Amsterdam on Fri, 23 Oct 2026.
 
-Groove Assassin is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Belgrade, Birmingham and Edinburgh and 7 more. Often billed alongside Billy Cocks, Sy Sez and Boon (UK). Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
+Groove Assassin is a house and deep house artist based in United Kingdom, with 33 gigs on soundcheck across Amsterdam, Belgrade, Birmingham and Edinburgh and 7 more. Often billed alongside Billy Cocks, Sy Sez and Boon (UK). Next up: Beatfabriek, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Groove Assassin is a house and deep house artist based in United Kingdom, tracke
 
 ## Recently played
 
-- UNO MALTA, Malta — Thu, 24 Sept 2026
-- TBA - Neon Social, Sheffield — Fri, 28 Aug 2026
-- Crown Pier, London — Sat, 6 Jun 2026
-- Leyton Jubilee Park, London — Sat, 23 May 2026
-- TBA - DeLuca's Bar And Nightclub, Liverpool — Sat, 23 May 2026
-- Crown Pier, London — Sat, 11 Apr 2026
-- Port of Leith Distillery, Edinburgh — Sat, 28 Feb 2026
-- fabric, London — Sat, 29 Nov 2025
+- UNO MALTA, Malta · Thu, 24 Sept 2026
+- TBA - Neon Social, Sheffield · Fri, 28 Aug 2026
+- Crown Pier, London · Sat, 6 Jun 2026
+- Leyton Jubilee Park, London · Sat, 23 May 2026
+- TBA - DeLuca's Bar And Nightclub, Liverpool · Sat, 23 May 2026
+- Crown Pier, London · Sat, 11 Apr 2026
+- Port of Leith Distillery, Edinburgh · Sat, 28 Feb 2026
+- fabric, London · Sat, 29 Nov 2025
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Soul Of The South: She's Got Brass at Freight Brixton
 
-Soul Of The South: She's Got Brass at Freight Brixton on Thu 5 Nov, London. Funk / Soul. Preview the line-up and save it on soundcheck.
+Soul Of The South: She's Got Brass at Freight Brixton on Thu 5 Nov, London. Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

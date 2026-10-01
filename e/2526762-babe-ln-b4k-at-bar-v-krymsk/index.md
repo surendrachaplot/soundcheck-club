@@ -1,6 +1,6 @@
 # Babe LN & B4K at Bar v Krymský
 
-Babe LN & B4K at Bar v Krymský on Sat 24 Oct, Prague. House and Electro. Preview the line-up and save it on soundcheck.
+Babe LN & B4K at Bar v Krymský on Sat 24 Oct, Prague. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

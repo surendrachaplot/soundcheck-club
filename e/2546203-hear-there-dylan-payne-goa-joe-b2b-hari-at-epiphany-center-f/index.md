@@ -1,6 +1,6 @@
 # hear + there: Dylan Payne, Goa Joe b2b Hari at Epiphany Center for the Arts
 
-hear + there: Dylan Payne, Goa Joe b2b Hari at Epiphany Center for the Arts on Sat 17 Oct, Chicago. 1 artist on the bill: Dylan Payne. House and Minimal. Preview the line-up and save it on soundcheck.
+hear + there: Dylan Payne, Goa Joe b2b Hari at Epiphany Center for the Arts on Sat 17 Oct, Chicago. 1 artist: Dylan Payne. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

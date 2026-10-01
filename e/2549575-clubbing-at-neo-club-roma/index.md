@@ -1,6 +1,6 @@
 # Clubbing at NEO CLUB ROMA
 
-Clubbing at NEO CLUB ROMA on Sat 17 Oct, Rome. 1 artist on the bill: Flavio Rago. Preview the line-up and save it on soundcheck.
+Clubbing at NEO CLUB ROMA on Sat 17 Oct, Rome. 1 artist: Flavio Rago. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

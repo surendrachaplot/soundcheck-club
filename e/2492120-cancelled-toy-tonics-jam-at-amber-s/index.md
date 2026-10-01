@@ -1,6 +1,6 @@
 # [CANCELLED] Toy Tonics Jam at Amber's
 
-[CANCELLED] Toy Tonics Jam at Amber's on Sat 3 Oct, Manchester. 4 artists on the bill: Arpy Brown, Jordan Villa, Sam Ruffillo and Urbi. House and Disco. Preview the line-up and save it on soundcheck.
+[CANCELLED] Toy Tonics Jam at Amber's on Sat 3 Oct, Manchester. 4 artists: Arpy Brown, Jordan Villa, Sam Ruffillo and Urbi. House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

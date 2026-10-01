@@ -1,6 +1,6 @@
 # Curls: CUERPOS, Boogaloo Jones & Hanzo Da Bullfrog at Système
 
-Curls: CUERPOS, Boogaloo Jones & Hanzo Da Bullfrog at Système on Sun 11 Oct, Montreal. 3 artists on the bill: Boogaloo Jones, CUERPOS and The Curls Crew. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+Curls: CUERPOS, Boogaloo Jones & Hanzo Da Bullfrog at Système on Sun 11 Oct, Montreal. 3 artists: Boogaloo Jones, CUERPOS and The Curls Crew. House and Hip-Hop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # STRAFF / Thursday Techno / 5€ until 1 AM ( with Ticket ) at Der Weiße Hase
 
-STRAFF / Thursday Techno / 5€ until 1 AM ( with Ticket ) at Der Weiße Hase on Thu 15 Oct, Berlin. Trance and Techno. Preview the line-up and save it on soundcheck.
+STRAFF / Thursday Techno / 5€ until 1 AM ( with Ticket ) at Der Weiße Hase on Thu 15 Oct, Berlin. Trance and Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

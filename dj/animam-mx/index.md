@@ -1,8 +1,8 @@
 # Animam
 
-Animam is a House and Drone artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
+Animam is a House and Drone artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
 
-Animam is a house and drone artist based in Mexico, tracked on soundcheck, with 10 sets logged across Mexico City. Often billed alongside Phanta, TRR and Rootian. Next up: TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat 3 Oct.
+Animam is a house and drone artist based in Mexico, with 10 gigs on soundcheck across Mexico City. Often billed alongside Phanta, TRR and Rootian. Next up: TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Animam is a house and drone artist based in Mexico, tracked on soundcheck, with 
 
 ## Recently played
 
-- Salas Roma, Mexico City — Thu, 2 Oct 2025
-- Motolinia 33, Mexico City — Sat, 24 May 2025
-- Motolinia 33, Mexico City — Thu, 22 May 2025
-- MAAD, Mexico City — Sat, 14 Sept 2024
-- Relink:Data, Mexico City — Sun, 25 Feb 2024
-- López 15, Mexico City — Fri, 15 Dec 2023
-- Salas Roma, Mexico City — Thu, 10 Aug 2023
-- Fünk, Mexico City — Thu, 20 Jul 2023
+- Salas Roma, Mexico City · Thu, 2 Oct 2025
+- Motolinia 33, Mexico City · Sat, 24 May 2025
+- Motolinia 33, Mexico City · Thu, 22 May 2025
+- MAAD, Mexico City · Sat, 14 Sept 2024
+- Relink:Data, Mexico City · Sun, 25 Feb 2024
+- López 15, Mexico City · Fri, 15 Dec 2023
+- Salas Roma, Mexico City · Thu, 10 Aug 2023
+- Fünk, Mexico City · Thu, 20 Jul 2023
 
 ## Shares bills with
 

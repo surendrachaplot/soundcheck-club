@@ -1,6 +1,6 @@
 # TeeDee Glasgow Day + Night at SWG3
 
-TeeDee Glasgow Day + Night at SWG3 on Sun 29 Nov, Glasgow. Preview the line-up and save it on soundcheck.
+TeeDee Glasgow Day + Night at SWG3 on Sun 29 Nov, Glasgow. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

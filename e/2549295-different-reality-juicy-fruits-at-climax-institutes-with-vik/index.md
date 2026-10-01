@@ -1,6 +1,6 @@
 # Different Reality 'Juicy Fruits' at Climax Institutes with VIKOSH, KENNEDY, MYKEY, Adono, DAMIY at Climax-Institutes
 
-Different Reality 'Juicy Fruits' at Climax Institutes with VIKOSH, KENNEDY, MYKEY, Adono, DAMIY at Climax-Institutes on Sat 24 Oct, Stuttgart. Tech House and Minimal. Preview the line-up and save it on soundcheck.
+Different Reality 'Juicy Fruits' at Climax Institutes with VIKOSH, KENNEDY, MYKEY, Adono, DAMIY at Climax-Institutes on Sat 24 Oct, Stuttgart. Tech House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Chinastraat
 
-Chinastraat is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "19 Years Sevenum Six" on Sat, 3 Oct 2026.
+Chinastraat is a music venue in Ghent with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "19 Years Sevenum Six" on Sat, 3 Oct 2026.
 
-Chinastraat is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Alycia Bezgo, BIIANCO, DURDENHAUER and Foubert and 2 more. Browse upcoming dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
+Chinastraat is a music venue in Ghent listed on soundcheck. 5 upcoming gigs, with line-ups including Alycia Bezgo, BIIANCO, DURDENHAUER and Foubert and 2 more. See dates, start times and who's playing. Chinastraat 1, 9000 Ghent.
 
 ## What's on
 

@@ -1,8 +1,8 @@
 # Wheats
 
-Wheats is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Nest, Nottingham on Sat, 3 Oct 2026.
+Wheats is a Tech House and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Nest, Nottingham on Sat, 3 Oct 2026.
 
-Wheats is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 130 sets logged across Amsterdam, Austin, Barcelona and Birmingham and 26 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: The Nest, Nottingham on Sat 3 Oct.
+Wheats is a tech house and house artist based in United Kingdom, with 130 gigs on soundcheck across Amsterdam, Austin, Barcelona and Birmingham and 26 more. Often billed alongside ALISHA, East End Dubs and wAFF. Next up: The Nest, Nottingham on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Wheats is a tech house and house artist based in United Kingdom, tracked on soun
 
 ## Recently played
 
-- [UNVRS], Ibiza — Wed, 23 Sept 2026
-- 528 Ibiza, Ibiza — Sun, 13 Sept 2026
-- FORGE, Sheffield — Sat, 5 Sept 2026
-- Button Factory, Dublin — Sat, 1 Aug 2026
-- 99 Scott Ave, New York City — Sat, 25 Jul 2026
-- Jolene Downtown Miami, Miami — Fri, 24 Jul 2026
-- Cova Santa, Ibiza — Mon, 13 Jul 2026
-- Hï Ibiza, Ibiza — Tue, 7 Jul 2026
+- [UNVRS], Ibiza · Wed, 23 Sept 2026
+- 528 Ibiza, Ibiza · Sun, 13 Sept 2026
+- FORGE, Sheffield · Sat, 5 Sept 2026
+- Button Factory, Dublin · Sat, 1 Aug 2026
+- 99 Scott Ave, New York City · Sat, 25 Jul 2026
+- Jolene Downtown Miami, Miami · Fri, 24 Jul 2026
+- Cova Santa, Ibiza · Mon, 13 Jul 2026
+- Hï Ibiza, Ibiza · Tue, 7 Jul 2026
 
 ## Shares bills with
 

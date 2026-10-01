@@ -1,6 +1,6 @@
 # APE IN PIAZZA / last dance at Piazza Degli Affari
 
-APE IN PIAZZA / last dance at Piazza Degli Affari on Fri 2 Oct, Milan. Disco and Electronica. Preview the line-up and save it on soundcheck.
+APE IN PIAZZA / last dance at Piazza Degli Affari on Fri 2 Oct, Milan. Disco and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

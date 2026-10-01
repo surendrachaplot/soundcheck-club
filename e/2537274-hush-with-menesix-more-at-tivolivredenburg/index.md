@@ -1,6 +1,6 @@
 # Hush with MENESIX & More at TivoliVredenburg
 
-Hush with MENESIX & More at TivoliVredenburg on Sat 21 Nov, Utrecht. 2 artists on the bill: MENESIX and Simon Kidzoo. House. Preview the line-up and save it on soundcheck.
+Hush with MENESIX & More at TivoliVredenburg on Sat 21 Nov, Utrecht. 2 artists: MENESIX and Simon Kidzoo. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

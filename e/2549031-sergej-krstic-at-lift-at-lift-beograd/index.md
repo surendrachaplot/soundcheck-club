@@ -1,6 +1,6 @@
 # Sergej Krstic at LIFT at Lift Beograd
 
-Sergej Krstic at LIFT at Lift Beograd on Fri 9 Oct, Belgrade. House. Preview the line-up and save it on soundcheck.
+Sergej Krstic at LIFT at Lift Beograd on Fri 9 Oct, Belgrade. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

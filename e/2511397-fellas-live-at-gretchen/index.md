@@ -1,6 +1,6 @@
 # FELLAS *live at Gretchen
 
-FELLAS *live at Gretchen on Tue 15 Dec, Berlin. Hip-Hop and Jazz. Preview the line-up and save it on soundcheck.
+FELLAS *live at Gretchen on Tue 15 Dec, Berlin. Hip-Hop and Jazz. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Heaven0711
 
-Heaven0711 is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "STUDIO 17 pres. THE HORROR LOFT" on Sat, 31 Oct 2026.
+Heaven0711 is a music venue in Stuttgart with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "STUDIO 17 pres. THE HORROR LOFT" on Sat, 31 Oct 2026.
 
-Heaven0711 is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, with line-ups including Coppola (DE) and JULEZ JK. Browse upcoming dates, start times and who's playing.
+Heaven0711 is a music venue in Stuttgart listed on soundcheck. 1 upcoming gig, with line-ups including Coppola (DE) and JULEZ JK. See dates, start times and who's playing.
 
 ## What's on
 

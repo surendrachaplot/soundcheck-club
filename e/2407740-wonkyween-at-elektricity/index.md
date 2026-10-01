@@ -1,6 +1,6 @@
 # WONKYWEEN at Elektricity
 
-WONKYWEEN at Elektricity on Sat 24 Oct, Detroit. Bass and Dubstep. Preview the line-up and save it on soundcheck.
+WONKYWEEN at Elektricity on Sat 24 Oct, Detroit. Bass and Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

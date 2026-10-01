@@ -1,6 +1,6 @@
 # CLOSER x TYF x PNK Records present MOONDANCE: PNK Party at TBA - DTLA
 
-CLOSER x TYF x PNK Records present MOONDANCE: PNK Party at TBA - DTLA on Sat 14 Nov, Los Angeles. House and Minimal. Preview the line-up and save it on soundcheck.
+CLOSER x TYF x PNK Records present MOONDANCE: PNK Party at TBA - DTLA on Sat 14 Nov, Los Angeles. House and Minimal. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

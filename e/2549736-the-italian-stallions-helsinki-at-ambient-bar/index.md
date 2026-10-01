@@ -1,6 +1,6 @@
 # The Italian Stallions Helsinki at Ambient Bar
 
-The Italian Stallions Helsinki at Ambient Bar on Sat 17 Oct, Helsinki. Minimal and Deep House. Preview the line-up and save it on soundcheck.
+The Italian Stallions Helsinki at Ambient Bar on Sat 17 Oct, Helsinki. Minimal and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

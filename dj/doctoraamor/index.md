@@ -1,8 +1,8 @@
 # Doctora Amor
 
-Doctora Amor is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lark, Berlin on Fri, 23 Oct 2026.
+Doctora Amor is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lark, Berlin on Fri, 23 Oct 2026.
 
-Doctora Amor is a house and techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside CHRANDY, Agua con gas and Cristian Marras. Next up: Lark, Berlin on Fri 23 Oct.
+Doctora Amor is a house and techno artist based in Germany, with 15 gigs on soundcheck across Berlin. Often billed alongside CHRANDY, Agua con gas and Cristian Marras. Next up: Lark, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Doctora Amor is a house and techno artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- TBA - Klingelhöferstr 3, 10785 Berlin, Berlin — Sat, 25 Jul 2026
-- Tresor / Globus, Berlin — Wed, 22 Jul 2026
-- ÆDEN, Berlin — Fri, 17 Jul 2026
-- gART.n, Berlin — Sat, 27 Jun 2026
-- Lark, Berlin — Fri, 24 Apr 2026
-- Bulbul Berlin, Berlin — Thu, 23 Apr 2026
-- Tresor / Globus, Berlin — Wed, 1 Apr 2026
-- Renate, Berlin — Sat, 7 Feb 2026
+- TBA - Klingelhöferstr 3, 10785 Berlin, Berlin · Sat, 25 Jul 2026
+- Tresor / Globus, Berlin · Wed, 22 Jul 2026
+- ÆDEN, Berlin · Fri, 17 Jul 2026
+- gART.n, Berlin · Sat, 27 Jun 2026
+- Lark, Berlin · Fri, 24 Apr 2026
+- Bulbul Berlin, Berlin · Thu, 23 Apr 2026
+- Tresor / Globus, Berlin · Wed, 1 Apr 2026
+- Renate, Berlin · Sat, 7 Feb 2026
 
 ## Shares bills with
 

@@ -1,8 +1,8 @@
 # Under Club
 
-Under Club is a music venue in Buenos Aires with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "JakoJako - MYLAH" on Sat, 3 Oct 2026.
+Under Club is a music venue in Buenos Aires with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "JakoJako - MYLAH" on Sat, 3 Oct 2026.
 
-Under Club is a music venue in Buenos Aires listed on soundcheck. 5 upcoming gigs, with line-ups including Ana Hagen, Fabio Florido, Floorplan and JakoJako and 2 more. Browse upcoming dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
+Under Club is a music venue in Buenos Aires listed on soundcheck. 5 upcoming gigs, with line-ups including Ana Hagen, Fabio Florido, Floorplan and JakoJako and 2 more. See dates, start times and who's playing. Niceto Vega 5699, 1425, Ciudad de Buenos Aires.
 
 ## What's on
 

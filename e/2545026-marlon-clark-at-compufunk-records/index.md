@@ -1,6 +1,6 @@
 # Marlon Clark at Compufunk Records
 
-Marlon Clark at Compufunk Records on Sat 24 Oct, Osaka. 3 artists on the bill: Marlon Clark, MiTSUYAS and Shingo. Trance and Minimal Techno. Preview the line-up and save it on soundcheck.
+Marlon Clark at Compufunk Records on Sat 24 Oct, Osaka. 3 artists: Marlon Clark, MiTSUYAS and Shingo. Trance and Minimal Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

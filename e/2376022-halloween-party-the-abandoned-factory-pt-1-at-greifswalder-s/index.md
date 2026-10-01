@@ -1,6 +1,6 @@
 # Halloween Party - The Abandoned Factory Pt. 1 at Greifswalder Straße 23a
 
-Halloween Party - The Abandoned Factory Pt. 1 at Greifswalder Straße 23a on Fri 30 Oct, Berlin. Preview the line-up and save it on soundcheck.
+Halloween Party - The Abandoned Factory Pt. 1 at Greifswalder Straße 23a on Fri 30 Oct, Berlin. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

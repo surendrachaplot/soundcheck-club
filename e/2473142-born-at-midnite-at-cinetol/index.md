@@ -1,6 +1,6 @@
 # Born at Midnite at Cinetol
 
-Born at Midnite at Cinetol on Sun 18 Oct, Amsterdam. Preview the line-up and save it on soundcheck.
+Born at Midnite at Cinetol on Sun 18 Oct, Amsterdam. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

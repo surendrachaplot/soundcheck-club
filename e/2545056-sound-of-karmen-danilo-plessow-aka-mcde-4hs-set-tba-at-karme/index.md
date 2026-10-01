@@ -1,6 +1,6 @@
 # SOUND OF KARMEN [Danilo Plessow aka MCDE (4Hs set) • +TBA] at Karmen Camina
 
-SOUND OF KARMEN [Danilo Plessow aka MCDE (4Hs set) • +TBA] at Karmen Camina on Fri 4 Dec, Strasbourg. 2 artists on the bill: Danilo Plessow and Motor City Drum Ensemble. House. Preview the line-up and save it on soundcheck.
+SOUND OF KARMEN [Danilo Plessow aka MCDE (4Hs set) • +TBA] at Karmen Camina on Fri 4 Dec, Strasbourg. 2 artists: Danilo Plessow and Motor City Drum Ensemble. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

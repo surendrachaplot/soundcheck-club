@@ -1,6 +1,6 @@
 # Skofi & Band 'HALT MICH FEST' Album Releaseshow at FLUCC
 
-Skofi & Band 'HALT MICH FEST' Album Releaseshow at FLUCC on Sun 25 Oct, Vienna. Hip-Hop and Pop. Preview the line-up and save it on soundcheck.
+Skofi & Band 'HALT MICH FEST' Album Releaseshow at FLUCC on Sun 25 Oct, Vienna. Hip-Hop and Pop. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

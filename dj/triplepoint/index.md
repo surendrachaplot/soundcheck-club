@@ -1,8 +1,8 @@
 # Triple Point
 
-Triple Point is a Jungle and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
+Triple Point is a Jungle and Breakbeat artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TAC (Tottenham Arts Collective), London on Sat, 31 Oct 2026.
 
-Triple Point is a jungle and breakbeat artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across London. Often billed alongside Yasmine (UK), Rebekah Abdeen and Denham Audio. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
+Triple Point is a jungle and breakbeat artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Yasmine (UK), Rebekah Abdeen and Denham Audio. Next up: TAC (Tottenham Arts Collective), London on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Triple Point is a jungle and breakbeat artist based in United Kingdom, tracked o
 
 ## Recently played
 
-- The Glove That Fits, London — Sun, 28 Jun 2026
-- Rowans Tenpin Bowl, London — Thu, 12 Mar 2026
-- Rowans Tenpin Bowl, London — Thu, 12 Mar 2026
-- Planet Wax, London — Sat, 28 Feb 2026
-- Jumbi, London — Sat, 14 Jun 2025
-- Hackney Wick Multiple Venues, London — Sat, 3 May 2025
-- Hackney Wick Multiple Venues, London — Sat, 4 May 2024
-- Tola, London — Fri, 2 Feb 2024
+- The Glove That Fits, London · Sun, 28 Jun 2026
+- Rowans Tenpin Bowl, London · Thu, 12 Mar 2026
+- Rowans Tenpin Bowl, London · Thu, 12 Mar 2026
+- Planet Wax, London · Sat, 28 Feb 2026
+- Jumbi, London · Sat, 14 Jun 2025
+- Hackney Wick Multiple Venues, London · Sat, 3 May 2025
+- Hackney Wick Multiple Venues, London · Sat, 4 May 2024
+- Tola, London · Fri, 2 Feb 2024
 
 ## Shares bills with
 

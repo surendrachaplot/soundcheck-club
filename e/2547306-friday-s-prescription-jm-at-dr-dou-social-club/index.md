@@ -1,6 +1,6 @@
 # Friday's Prescription - JM at Dr. Dou Social Club
 
-Friday's Prescription - JM at Dr. Dou Social Club on Fri 2 Oct, Barcelona. 1 artist on the bill: JM. Preview the line-up and save it on soundcheck.
+Friday's Prescription - JM at Dr. Dou Social Club on Fri 2 Oct, Barcelona. 1 artist: JM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

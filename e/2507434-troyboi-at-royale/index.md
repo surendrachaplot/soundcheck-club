@@ -1,6 +1,6 @@
 # TroyBoi at Royale
 
-TroyBoi at Royale on Fri 20 Nov, Boston. Preview the line-up and save it on soundcheck.
+TroyBoi at Royale on Fri 20 Nov, Boston. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

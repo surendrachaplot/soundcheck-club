@@ -1,8 +1,8 @@
 # Mass Medium / Club Caviar
 
-Mass Medium / Club Caviar is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Marlborough Red Room, Glasgow on Sat, 10 Oct 2026.
+Mass Medium / Club Caviar is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Marlborough Red Room, Glasgow on Sat, 10 Oct 2026.
 
-Mass Medium / Club Caviar is a house and techno artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Belfast, Brisbane and Bristol and 5 more. Often billed alongside Mass Medium, Club Caviar and DJ Deep Heat. Next up: The Marlborough Red Room, Glasgow on Sat 10 Oct.
+Mass Medium / Club Caviar is a house and techno artist based in Netherlands, with 15 gigs on soundcheck across Amsterdam, Belfast, Brisbane and Bristol and 5 more. Often billed alongside Mass Medium, Club Caviar and DJ Deep Heat. Next up: The Marlborough Red Room, Glasgow on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Mass Medium / Club Caviar is a house and techno artist based in Netherlands, tra
 
 ## Recently played
 
-- Melbourne Pavilion, Melbourne — Sat, 31 Jan 2026
-- Prohibition Brisbane, Brisbane — Thu, 22 Jan 2026
-- Thuishaven, Amsterdam — Sat, 27 Sept 2025
-- Centre Point, Dublin — Sat, 22 Feb 2025
-- Lost Horizon, Bristol — Fri, 21 Feb 2025
-- Corsica Studios, London — Sat, 8 Feb 2025
-- Crane Hotel Faralda, Amsterdam — Wed, 16 Oct 2024
-- Club Honey Belfast, Belfast — Sat, 5 Oct 2024
+- Melbourne Pavilion, Melbourne · Sat, 31 Jan 2026
+- Prohibition Brisbane, Brisbane · Thu, 22 Jan 2026
+- Thuishaven, Amsterdam · Sat, 27 Sept 2025
+- Centre Point, Dublin · Sat, 22 Feb 2025
+- Lost Horizon, Bristol · Fri, 21 Feb 2025
+- Corsica Studios, London · Sat, 8 Feb 2025
+- Crane Hotel Faralda, Amsterdam · Wed, 16 Oct 2024
+- Club Honey Belfast, Belfast · Sat, 5 Oct 2024
 
 ## Shares bills with
 

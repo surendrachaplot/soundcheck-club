@@ -1,6 +1,6 @@
 # DANCÆ × Chlär at Bajes Amsterdam
 
-DANCÆ × Chlär at Bajes Amsterdam on Fri 23 Oct, Amsterdam. 1 artist on the bill: Chlär. Preview the line-up and save it on soundcheck.
+DANCÆ × Chlär at Bajes Amsterdam on Fri 23 Oct, Amsterdam. 1 artist: Chlär. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

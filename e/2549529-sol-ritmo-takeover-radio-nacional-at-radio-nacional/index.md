@@ -1,6 +1,6 @@
 # Sol Ritmo Takeover Radio Nacional at Radio Nacional
 
-Sol Ritmo Takeover Radio Nacional on Sat 3 Oct, Melbourne. 2 artists on the bill: From the Tropics and Roja. House and Afro Tech. Preview the line-up and save it on soundcheck.
+Sol Ritmo Takeover Radio Nacional on Sat 3 Oct, Melbourne. 2 artists: From the Tropics and Roja. House and Afro Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

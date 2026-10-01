@@ -1,8 +1,8 @@
 # ASIA (DE)
 
-ASIA (DE) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Ziecret Location, Berlin on Fri, 9 Oct 2026.
+ASIA (DE) is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Ziecret Location, Berlin on Fri, 9 Oct 2026.
 
-ASIA (DE) is a house and techno artist based in Russia, tracked on soundcheck, with 39 sets logged across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside DJ Koolt, Neik and Jorge Escribano. Next up: TBA - Ziecret Location, Berlin on Fri 9 Oct.
+ASIA (DE) is a house and techno artist based in Russia, with 39 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bucharest and 6 more. Often billed alongside DJ Koolt, Neik and Jorge Escribano. Next up: TBA - Ziecret Location, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ ASIA (DE) is a house and techno artist based in Russia, tracked on soundcheck, w
 
 ## Recently played
 
-- TBA - Near S+U Jannowitzbrücke, Berlin — Thu, 17 Sept 2026
-- Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin, Berlin — Sun, 23 Aug 2026
-- Platforma Wolff, Bucharest — Sat, 11 Jul 2026
-- TBA - secret location, Barcelona — Sat, 23 May 2026
-- Hoppetosse, Berlin — Sat, 25 Apr 2026
-- Hoppetosse, Berlin — Sat, 29 Nov 2025
-- ZENNER, Berlin — Sat, 15 Nov 2025
-- Hertz, Seoul — Sat, 6 Sept 2025
+- TBA - Near S+U Jannowitzbrücke, Berlin · Thu, 17 Sept 2026
+- Boat - MS Rhein / Boat Terminal: Mühlenstr. 70-71 / 10243 Berlin, Berlin · Sun, 23 Aug 2026
+- Platforma Wolff, Bucharest · Sat, 11 Jul 2026
+- TBA - secret location, Barcelona · Sat, 23 May 2026
+- Hoppetosse, Berlin · Sat, 25 Apr 2026
+- Hoppetosse, Berlin · Sat, 29 Nov 2025
+- ZENNER, Berlin · Sat, 15 Nov 2025
+- Hertz, Seoul · Sat, 6 Sept 2025
 
 ## Shares bills with
 

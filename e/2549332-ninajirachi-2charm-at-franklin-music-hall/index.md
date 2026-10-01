@@ -1,6 +1,6 @@
 # Ninajirachi, 2charm at Franklin Music Hall
 
-Ninajirachi, 2charm at Franklin Music Hall on Fri 2 Oct, Philadelphia. 1 artist on the bill: Ninajirachi. Preview the line-up and save it on soundcheck.
+Ninajirachi, 2charm at Franklin Music Hall on Fri 2 Oct, Philadelphia. 1 artist: Ninajirachi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

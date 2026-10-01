@@ -1,8 +1,8 @@
 # Leafar Legov
 
-Leafar Legov is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
+Leafar Legov is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Klaproos, Amsterdam on Sun, 25 Oct 2026.
 
-Leafar Legov is a house and techno artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: Klaproos, Amsterdam on Sun 25 Oct.
+Leafar Legov is a house and techno artist based in Germany, with 99 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 32 more. Often billed alongside Konstantin, Edward and Map.ache. Next up: Klaproos, Amsterdam on Sun 25 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Leafar Legov is a house and techno artist based in Germany, tracked on soundchec
 
 ## Recently played
 
-- Haus der Visionäre, Berlin — Sat, 26 Sept 2026
-- The Foundry, San Francisco/Oakland — Wed, 16 Sept 2026
-- TBA - Fortress - 319 West Hastings, Vancouver — Sun, 13 Sept 2026
-- TBA, Seattle — Sat, 12 Sept 2026
-- teller, Seoul — Sat, 29 Aug 2026
-- TBA - Han River Ferry, Seoul — Sat, 29 Aug 2026
-- VENT, Tokyo — Fri, 14 Aug 2026
-- Those Who Dance, Lisbon — Sat, 13 Jun 2026
+- Haus der Visionäre, Berlin · Sat, 26 Sept 2026
+- The Foundry, San Francisco/Oakland · Wed, 16 Sept 2026
+- TBA - Fortress - 319 West Hastings, Vancouver · Sun, 13 Sept 2026
+- TBA, Seattle · Sat, 12 Sept 2026
+- teller, Seoul · Sat, 29 Aug 2026
+- TBA - Han River Ferry, Seoul · Sat, 29 Aug 2026
+- VENT, Tokyo · Fri, 14 Aug 2026
+- Those Who Dance, Lisbon · Sat, 13 Jun 2026
 
 ## Shares bills with
 

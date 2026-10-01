@@ -1,8 +1,8 @@
 # Ghosts Of Dance
 
-Ghosts Of Dance is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Tola, London on Fri, 30 Oct 2026.
+Ghosts Of Dance is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Tola, London on Fri, 30 Oct 2026.
 
-Ghosts Of Dance is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 9 sets logged across London. Often billed alongside Project 2, Lucky Penny and 3 Minds. Next up: Tola, London on Fri 30 Oct.
+Ghosts Of Dance is a house and tech house artist based in United Kingdom, with 9 gigs on soundcheck across London. Often billed alongside Project 2, Lucky Penny and 3 Minds. Next up: Tola, London on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Ghosts Of Dance is a house and tech house artist based in United Kingdom, tracke
 
 ## Recently played
 
-- Starlane Pizza Bar, London — Sat, 26 Sept 2026
-- Mezzanine - Tooting, London — Fri, 27 Mar 2026
-- Mezzanine - Tooting, London — Fri, 19 Dec 2025
-- Starlane Pizza Bar, London — Sat, 11 Oct 2025
-- TBA - London, London — Fri, 18 Apr 2025
-- Battersea Barge, London — Sat, 5 Apr 2025
-- The Treehouse, London — Tue, 31 Dec 2024
-- TBA - The Vault, Morden , London — Sat, 14 Dec 2024
+- Starlane Pizza Bar, London · Sat, 26 Sept 2026
+- Mezzanine - Tooting, London · Fri, 27 Mar 2026
+- Mezzanine - Tooting, London · Fri, 19 Dec 2025
+- Starlane Pizza Bar, London · Sat, 11 Oct 2025
+- TBA - London, London · Fri, 18 Apr 2025
+- Battersea Barge, London · Sat, 5 Apr 2025
+- The Treehouse, London · Tue, 31 Dec 2024
+- TBA - The Vault, Morden , London · Sat, 14 Dec 2024
 
 ## Shares bills with
 

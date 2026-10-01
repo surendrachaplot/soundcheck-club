@@ -1,8 +1,8 @@
 # Nowadays
 
-Nowadays is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Jamie xx All Night" on Thu, 1 Oct 2026.
+Nowadays is a music venue in New York City with 23 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Jamie xx All Night" on Thu, 1 Oct 2026.
 
-Nowadays is a music venue in New York City listed on soundcheck. 23 upcoming gigs, with line-ups including 1tbsp, LYDO, ābnamā and Angel D'lite and 2 more. Browse upcoming dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
+Nowadays is a music venue in New York City listed on soundcheck. 23 upcoming gigs, with line-ups including 1tbsp, LYDO, ābnamā and Angel D'lite and 2 more. See dates, start times and who's playing. 56-06 Cooper Ave. Ridgewood, NY 11385 USA.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # The House Of Osiris presents: at Rolling Stock
 
-The House Of Osiris presents: at Rolling Stock on Sat 7 Nov, London. 3 artists on the bill: Caren G., DJ Black Moses and The Snatcha. Techno and House. Preview the line-up and save it on soundcheck.
+The House Of Osiris presents: at Rolling Stock on Sat 7 Nov, London. 3 artists: Caren G., DJ Black Moses and The Snatcha. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

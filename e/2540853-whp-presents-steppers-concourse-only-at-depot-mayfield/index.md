@@ -1,6 +1,6 @@
 # WHP presents: STEPPERS [Concourse Only] at Depot Mayfield
 
-WHP presents: STEPPERS [Concourse Only] at Depot Mayfield on Sat 12 Dec, Manchester. House. Preview the line-up and save it on soundcheck.
+WHP presents: STEPPERS [Concourse Only] at Depot Mayfield on Sat 12 Dec, Manchester. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

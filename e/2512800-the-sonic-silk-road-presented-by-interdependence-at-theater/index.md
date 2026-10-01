@@ -1,6 +1,6 @@
 # The Sonic Silk Road, presented by Interdependence at Theater de Richel
 
-The Sonic Silk Road, presented by Interdependence at Theater de Richel on Thu 22 Oct, Amsterdam. 4 artists on the bill: 6RAJ, ARGO, Kakura and Raeya Chen. Techno and Afro House. Preview the line-up and save it on soundcheck.
+The Sonic Silk Road, presented by Interdependence at Theater de Richel on Thu 22 Oct, Amsterdam. 4 artists: 6RAJ, ARGO, Kakura and Raeya Chen. Techno and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

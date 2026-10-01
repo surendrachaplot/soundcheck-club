@@ -1,8 +1,8 @@
 # Luciano
 
-Luciano is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mediahaven - Minervahaven, Amsterdam on Thu, 22 Oct 2026.
+Luciano is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mediahaven - Minervahaven, Amsterdam on Thu, 22 Oct 2026.
 
-Luciano is a house and tech house artist based in Switzerland, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Barcelona and Bucharest and 18 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: Mediahaven - Minervahaven, Amsterdam on Thu 22 Oct.
+Luciano is a house and tech house artist based in Switzerland, with 109 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Bucharest and 18 more. Often billed alongside Sossa, Marco Carola and Prospa. Next up: Mediahaven - Minervahaven, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ Luciano is a house and tech house artist based in Switzerland, tracked on soundc
 
 ## Recently played
 
-- DC-10, Ibiza — Mon, 28 Sept 2026
-- Pacha New York, New York City — Sat, 26 Sept 2026
-- Hï Ibiza, Ibiza — Tue, 22 Sept 2026
-- TBA, Lisbon — Fri, 18 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 13 Sept 2026
-- Amnesia Ibiza, Ibiza — Sun, 13 Sept 2026
-- La Gravière D'epeisses, Geneva — Fri, 4 Sept 2026
-- Pacha Ibiza, Ibiza — Fri, 28 Aug 2026
+- DC-10, Ibiza · Mon, 28 Sept 2026
+- Pacha New York, New York City · Sat, 26 Sept 2026
+- Hï Ibiza, Ibiza · Tue, 22 Sept 2026
+- TBA, Lisbon · Fri, 18 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 13 Sept 2026
+- Amnesia Ibiza, Ibiza · Sun, 13 Sept 2026
+- La Gravière D'epeisses, Geneva · Fri, 4 Sept 2026
+- Pacha Ibiza, Ibiza · Fri, 28 Aug 2026
 
 ## Shares bills with
 

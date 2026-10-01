@@ -1,6 +1,6 @@
 # Honey I'm Home x Sound Sound ADE Boat Cruise at TBA - Boat departs from/returns to near Amsterdam Centraal
 
-Honey I'm Home x Sound Sound ADE Boat Cruise at TBA - Boat departs from/returns to near Amsterdam Centraal on Thu 22 Oct, Amsterdam. House and Garage. Preview the line-up and save it on soundcheck.
+Honey I'm Home x Sound Sound ADE Boat Cruise at TBA - Boat departs from/returns to near Amsterdam Centraal on Thu 22 Oct, Amsterdam. House and Garage. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

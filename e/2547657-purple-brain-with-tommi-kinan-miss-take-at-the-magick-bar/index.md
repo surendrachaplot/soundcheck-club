@@ -1,6 +1,6 @@
 # Purple Brain with Tommi Kinan, Miss Take at THE MAGICK BAR
 
-Purple Brain with Tommi Kinan, Miss Take at THE MAGICK BAR on Mon 28 Sept, Rome. Preview the line-up and save it on soundcheck.
+Purple Brain with Tommi Kinan, Miss Take at THE MAGICK BAR on Mon 28 Sept, Rome. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

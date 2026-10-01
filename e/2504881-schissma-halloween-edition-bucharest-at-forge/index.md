@@ -1,6 +1,6 @@
 # SCHISSMA: HALLOWEEN EDITION (BUCHAREST) at Forge
 
-SCHISSMA: HALLOWEEN EDITION (BUCHAREST) at Forge on Sat 24 Oct, Bucharest. Techno. Preview the line-up and save it on soundcheck.
+SCHISSMA: HALLOWEEN EDITION (BUCHAREST) at Forge on Sat 24 Oct, Bucharest. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

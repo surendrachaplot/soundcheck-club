@@ -1,6 +1,6 @@
 # Bass REBELS CHINATOWN CLASH at The Coup by BUNKERBUNKER!!
 
-Bass REBELS CHINATOWN CLASH at The Coup by BUNKERBUNKER!! on Sat 10 Oct, Singapore. 1 artist on the bill: Bass. Preview the line-up and save it on soundcheck.
+Bass REBELS CHINATOWN CLASH at The Coup by BUNKERBUNKER!! on Sat 10 Oct, Singapore. 1 artist: Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

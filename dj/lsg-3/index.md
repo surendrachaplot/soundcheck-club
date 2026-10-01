@@ -1,8 +1,8 @@
 # LSG (3)
 
-LSG (3) is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Artheater, Cologne on Fri, 2 Oct 2026.
+LSG (3) is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Artheater, Cologne on Fri, 2 Oct 2026.
 
-LSG is a trance and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Cologne and Hamburg. Often billed alongside Amøn, DJ Achim Feuervogel and NIA. Next up: Artheater, Cologne on Fri 2 Oct.
+LSG is a trance and techno artist based in Germany, with 6 gigs on soundcheck across Berlin, Cologne and Hamburg. Often billed alongside Amøn, DJ Achim Feuervogel and NIA. Next up: Artheater, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,10 +13,10 @@ LSG is a trance and techno artist based in Germany, tracked on soundcheck, with 
 
 ## Recently played
 
-- Fundbureau, Hamburg — Sat, 5 Sept 2026
-- OST, Berlin — Fri, 10 Jul 2026
-- Schrotty, Cologne — Sat, 4 Jul 2026
-- Schrotty, Cologne — Sat, 30 May 2026
+- Fundbureau, Hamburg · Sat, 5 Sept 2026
+- OST, Berlin · Fri, 10 Jul 2026
+- Schrotty, Cologne · Sat, 4 Jul 2026
+- Schrotty, Cologne · Sat, 30 May 2026
 
 ## Shares bills with
 

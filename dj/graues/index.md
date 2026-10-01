@@ -1,8 +1,8 @@
 # Grau (ES)
 
-Grau (ES) is a Tech House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at EL SÓTANO, Madrid on Sun, 4 Oct 2026.
+Grau (ES) is a Tech House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at EL SÓTANO, Madrid on Sun, 4 Oct 2026.
 
-Grau (ES) is a tech house and minimal artist based in Spain, tracked on soundcheck, with 6 sets logged across Madrid. Often billed alongside Héctor Pericet, Julio Machicado and Alexis mayer. Next up: EL SÓTANO, Madrid on Sun 4 Oct.
+Grau (ES) is a tech house and minimal artist based in Spain, with 6 gigs on soundcheck across Madrid. Often billed alongside Héctor Pericet, Julio Machicado and Alexis mayer. Next up: EL SÓTANO, Madrid on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -14,9 +14,9 @@ Grau (ES) is a tech house and minimal artist based in Spain, tracked on soundche
 
 ## Recently played
 
-- EL SÓTANO, Madrid — Sat, 5 Sept 2026
-- Under Bridge Madrid, Madrid — Sat, 20 Jun 2026
-- Autocine Madrid, Madrid — Sun, 14 Jun 2026
+- EL SÓTANO, Madrid · Sat, 5 Sept 2026
+- Under Bridge Madrid, Madrid · Sat, 20 Jun 2026
+- Autocine Madrid, Madrid · Sun, 14 Jun 2026
 
 ## Shares bills with
 

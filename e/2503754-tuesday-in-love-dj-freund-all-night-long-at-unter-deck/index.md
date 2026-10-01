@@ -1,6 +1,6 @@
 # Tuesday in Love: DJ FREUND all night long at Unter Deck
 
-Tuesday in Love: DJ FREUND all night long at Unter Deck on Tue 6 Oct, Munich. 1 artist on the bill: DJ FM & DJ FREUND. Techno and Electro. Preview the line-up and save it on soundcheck.
+Tuesday in Love: DJ FREUND all night long at Unter Deck on Tue 6 Oct, Munich. 1 artist: DJ FM & DJ FREUND. Techno and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # SKIN ALPHA: DOFS + NETN + TOM CHIESA at Skin Club
 
-SKIN ALPHA: DOFS + NETN + TOM CHIESA at Skin Club on Fri 16 Oct, Madrid. 2 artists on the bill: NETN and TOM CHIESA. Preview the line-up and save it on soundcheck.
+SKIN ALPHA: DOFS + NETN + TOM CHIESA at Skin Club on Fri 16 Oct, Madrid. 2 artists: NETN and TOM CHIESA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

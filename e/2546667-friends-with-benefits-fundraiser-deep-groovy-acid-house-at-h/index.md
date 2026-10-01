@@ -1,6 +1,6 @@
 # Friends with Benefits! (Fundraiser) [Deep Groovy Acid House] at Hoxton Cabin
 
-Friends with Benefits! (Fundraiser) [Deep Groovy Acid House] at Hoxton Cabin on Fri 20 Nov, London. 2 artists on the bill: Benebe and Kafn. Deep House and Acid. Preview the line-up and save it on soundcheck.
+Friends with Benefits! (Fundraiser) [Deep Groovy Acid House] at Hoxton Cabin on Fri 20 Nov, London. 2 artists: Benebe and Kafn. Deep House and Acid. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

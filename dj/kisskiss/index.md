@@ -1,8 +1,8 @@
 # Kiss Kiss
 
-Kiss Kiss is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at telos.haus, New York City on Sun, 11 Oct 2026.
+Kiss Kiss is a House and Club artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at telos.haus, New York City on Sun, 11 Oct 2026.
 
-Kiss Kiss is a house and club artist based in United States of America, tracked on soundcheck, with 10 sets logged across New York City. Often billed alongside MTHR TRSA, Scruff Angel and Simisola. Next up: telos.haus, New York City on Sun 11 Oct.
+Kiss Kiss is a house and club artist based in United States of America, with 10 gigs on soundcheck across New York City. Often billed alongside MTHR TRSA, Scruff Angel and Simisola. Next up: telos.haus, New York City on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Kiss Kiss is a house and club artist based in United States of America, tracked 
 
 ## Recently played
 
-- Jupiter Disco, New York City — Thu, 17 Sept 2026
-- H0L0, New York City — Fri, 31 Jul 2026
-- Bossa Nova Civic Club, New York City — Tue, 2 Jun 2026
-- Paragon, New York City — Thu, 28 May 2026
-- Metropolitan Bar, New York City — Wed, 20 May 2026
-- Bossa Nova Civic Club, New York City — Wed, 11 Feb 2026
-- Signal, New York City — Wed, 25 Jun 2025
-- Xanadu, New York City — Fri, 6 Jun 2025
+- Jupiter Disco, New York City · Thu, 17 Sept 2026
+- H0L0, New York City · Fri, 31 Jul 2026
+- Bossa Nova Civic Club, New York City · Tue, 2 Jun 2026
+- Paragon, New York City · Thu, 28 May 2026
+- Metropolitan Bar, New York City · Wed, 20 May 2026
+- Bossa Nova Civic Club, New York City · Wed, 11 Feb 2026
+- Signal, New York City · Wed, 25 Jun 2025
+- Xanadu, New York City · Fri, 6 Jun 2025
 
 ## Shares bills with
 

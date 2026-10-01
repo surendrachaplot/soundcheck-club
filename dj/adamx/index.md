@@ -1,8 +1,8 @@
 # Adam X
 
-Adam X is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Refuge, New York City on Fri, 16 Oct 2026.
+Adam X is a Techno and Acid artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Refuge, New York City on Fri, 16 Oct 2026.
 
-Adam X is a techno and acid artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Brussels and Chicago and 15 more. Often billed alongside MAEDON, Frankie Bones and Orphx. Next up: Refuge, New York City on Fri 16 Oct.
+Adam X is a techno and acid artist based in Germany, with 72 gigs on soundcheck across Amsterdam, Berlin, Brussels and Chicago and 15 more. Often billed alongside MAEDON, Frankie Bones and Orphx. Next up: Refuge, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,14 +14,14 @@ Adam X is a techno and acid artist based in Germany, tracked on soundcheck, with
 
 ## Recently played
 
-- TBA - Los Angeles, Los Angeles — Sat, 29 Aug 2026
-- Summertime Roof Terrace, New York City — Fri, 14 Aug 2026
-- Flash, Washington DC — Fri, 10 Jul 2026
-- Tresor / Globus, Berlin — Fri, 19 Jun 2026
-- Union Square, San Francisco/Oakland — Sat, 6 Jun 2026
-- Bert's Warehouse Theater, Detroit — Sat, 23 May 2026
-- TBA, Detroit — Fri, 22 May 2026
-- Refuge, New York City — Fri, 1 May 2026
+- TBA - Los Angeles, Los Angeles · Sat, 29 Aug 2026
+- Summertime Roof Terrace, New York City · Fri, 14 Aug 2026
+- Flash, Washington DC · Fri, 10 Jul 2026
+- Tresor / Globus, Berlin · Fri, 19 Jun 2026
+- Union Square, San Francisco/Oakland · Sat, 6 Jun 2026
+- Bert's Warehouse Theater, Detroit · Sat, 23 May 2026
+- TBA, Detroit · Fri, 22 May 2026
+- Refuge, New York City · Fri, 1 May 2026
 
 ## Shares bills with
 

@@ -1,6 +1,6 @@
 # Hüft & Beinbruch at Fitzroy
 
-Hüft & Beinbruch at Fitzroy on Thu 22 Oct, Berlin. Techno. Preview the line-up and save it on soundcheck.
+Hüft & Beinbruch at Fitzroy on Thu 22 Oct, Berlin. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Bonobo
 
-Bonobo is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "'Gravel Path 3' at Bonobo" on Thu, 1 Oct 2026.
+Bonobo is a music venue in Tokyo with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "'Gravel Path 3' at Bonobo" on Thu, 1 Oct 2026.
 
-Bonobo is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including 7e, Ario, Chee Shimizu and DJ Morita and 2 more. Browse upcoming dates, start times and who's playing. 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
+Bonobo is a music venue in Tokyo listed on soundcheck. 4 upcoming gigs, with line-ups including 7e, Ario, Chee Shimizu and DJ Morita and 2 more. See dates, start times and who's playing. 2-23-4 Jingumae, Shibuya-ku, Tokyo, 150-0001 Japan.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # The Four Seasons Reimagined. From Richter to Vivaldi by Mystery Ensemble at Paulanerkirche, Vienna
 
-The Four Seasons Reimagined. From Richter to Vivaldi by Mystery Ensemble at Paulanerkirche, Vienna on Fri 23 Oct, Vienna. Classical. Preview the line-up and save it on soundcheck.
+The Four Seasons Reimagined. From Richter to Vivaldi by Mystery Ensemble at Paulanerkirche, Vienna on Fri 23 Oct, Vienna. Classical. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

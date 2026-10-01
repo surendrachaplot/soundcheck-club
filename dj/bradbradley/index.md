@@ -1,8 +1,8 @@
 # Brad Bradley
 
-Brad Bradley is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Model, Nottingham on Sat, 31 Oct 2026.
+Brad Bradley is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Model, Nottingham on Sat, 31 Oct 2026.
 
-Brad Bradley is a house and techno artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Bristol, Cardiff, London and Nottingham. Often billed alongside SPICYIVY, Burly Chassis and Safiye. Next up: The Model, Nottingham on Sat 31 Oct.
+Brad Bradley is a house and techno artist based in United Kingdom, with 33 gigs on soundcheck across Bristol, Cardiff, London and Nottingham. Often billed alongside SPICYIVY, Burly Chassis and Safiye. Next up: The Model, Nottingham on Sat 31 Oct.
 
 ## Upcoming shows
 
@@ -12,14 +12,14 @@ Brad Bradley is a house and techno artist based in United Kingdom, tracked on so
 
 ## Recently played
 
-- The Red Church, Bristol — Sun, 30 Aug 2026
-- Fisher Gate Point, Nottingham — Sat, 27 Jun 2026
-- Strange Brew, Bristol — Fri, 5 Jun 2026
-- Electric Bristol, Bristol — Sat, 9 May 2026
-- The Christmas Steps, Bristol — Sat, 2 May 2026
-- Ministry Of Sound, London — Sat, 21 Mar 2026
-- The Model, Nottingham — Fri, 13 Mar 2026
-- Strange Brew, Bristol — Sat, 31 Jan 2026
+- The Red Church, Bristol · Sun, 30 Aug 2026
+- Fisher Gate Point, Nottingham · Sat, 27 Jun 2026
+- Strange Brew, Bristol · Fri, 5 Jun 2026
+- Electric Bristol, Bristol · Sat, 9 May 2026
+- The Christmas Steps, Bristol · Sat, 2 May 2026
+- Ministry Of Sound, London · Sat, 21 Mar 2026
+- The Model, Nottingham · Fri, 13 Mar 2026
+- Strange Brew, Bristol · Sat, 31 Jan 2026
 
 ## Shares bills with
 

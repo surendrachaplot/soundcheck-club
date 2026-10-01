@@ -1,8 +1,8 @@
 # Anthony Rother
 
-Anthony Rother is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Specka, Madrid on Sat, 10 Oct 2026.
+Anthony Rother is a Techno and Electro artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Specka, Madrid on Sat, 10 Oct 2026.
 
-Anthony Rother is a techno and electro artist based in Germany, tracked on soundcheck, with 88 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Helena Hauff, Alienata and Asymptote. Next up: Specka, Madrid on Sat 10 Oct.
+Anthony Rother is a techno and electro artist based in Germany, with 88 gigs on soundcheck across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Helena Hauff, Alienata and Asymptote. Next up: Specka, Madrid on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -16,14 +16,14 @@ Anthony Rother is a techno and electro artist based in Germany, tracked on sound
 
 ## Recently played
 
-- FOLD, London — Fri, 28 Aug 2026
-- Tokonoma Club, Frankfurt — Sat, 25 Jul 2026
-- public records, New York City — Fri, 10 Jul 2026
-- TBA - Paradise City Festival, Brussels — Fri, 26 Jun 2026
-- Poble Espanyol, Barcelona — Thu, 18 Jun 2026
-- Sonnenraum, Berlin — Fri, 12 Jun 2026
-- Marble Bar, Detroit — Sat, 23 May 2026
-- Marble Bar, Detroit — Sat, 23 May 2026
+- FOLD, London · Fri, 28 Aug 2026
+- Tokonoma Club, Frankfurt · Sat, 25 Jul 2026
+- public records, New York City · Fri, 10 Jul 2026
+- TBA - Paradise City Festival, Brussels · Fri, 26 Jun 2026
+- Poble Espanyol, Barcelona · Thu, 18 Jun 2026
+- Sonnenraum, Berlin · Fri, 12 Jun 2026
+- Marble Bar, Detroit · Sat, 23 May 2026
+- Marble Bar, Detroit · Sat, 23 May 2026
 
 ## Shares bills with
 

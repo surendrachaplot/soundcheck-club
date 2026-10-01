@@ -1,6 +1,6 @@
 # BLING: 2000s HIPHOP NIGHT (THROWBACKS) at Big Pink
 
-BLING: 2000s HIPHOP NIGHT (THROWBACKS) at Big Pink on Fri 16 Oct, Detroit. Hip-Hop and R&B. Preview the line-up and save it on soundcheck.
+BLING: 2000s HIPHOP NIGHT (THROWBACKS) at Big Pink on Fri 16 Oct, Detroit. Hip-Hop and R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

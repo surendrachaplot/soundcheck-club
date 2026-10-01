@@ -1,6 +1,6 @@
 # R&B Lovers: The Lovers Brunch - BOXHALL at Boxhall City
 
-R&B Lovers: The Lovers Brunch - BOXHALL at Boxhall City on Sat 3 Oct, London. R&B. Preview the line-up and save it on soundcheck.
+R&B Lovers: The Lovers Brunch - BOXHALL at Boxhall City on Sat 3 Oct, London. R&B. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

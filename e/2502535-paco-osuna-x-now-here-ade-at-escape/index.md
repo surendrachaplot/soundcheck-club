@@ -1,6 +1,6 @@
 # Paco Osuna x Now Here ADE at Escape
 
-Paco Osuna x Now Here ADE at Escape on Sat 24 Oct, Amsterdam. House. Preview the line-up and save it on soundcheck.
+Paco Osuna x Now Here ADE at Escape on Sat 24 Oct, Amsterdam. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

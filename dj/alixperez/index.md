@@ -1,8 +1,8 @@
 # Alix Perez
 
-Alix Perez is a Drum & Bass and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Red Room, Vancouver on Sat, 7 Nov 2026.
+Alix Perez is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Red Room, Vancouver on Sat, 7 Nov 2026.
 
-Alix Perez is a drum & bass and bass artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Antwerp, Auckland, Basel and Berlin and 27 more. Often billed alongside SP:MC, Cesco and Visages. Next up: The Red Room, Vancouver on Sat 7 Nov.
+Alix Perez is a drum & bass and bass artist based in United Kingdom, with 59 gigs on soundcheck across Antwerp, Auckland, Basel and Berlin and 27 more. Often billed alongside SP:MC, Cesco and Visages. Next up: The Red Room, Vancouver on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ Alix Perez is a drum & bass and bass artist based in United Kingdom, tracked on 
 
 ## Recently played
 
-- Open Ground, Wuppertal — Sat, 5 Sept 2026
-- Outernet Live, London — Fri, 4 Sept 2026
-- UNO MALTA, Malta — Thu, 3 Sept 2026
-- Nordstern, Basel — Sat, 29 Aug 2026
-- Club Colette, Birmingham — Fri, 28 Aug 2026
-- Berghain | Panorama Bar | Säule, Berlin — Fri, 21 Aug 2026
-- A38, Budapest — Wed, 19 Aug 2026
-- A38, Budapest — Wed, 19 Aug 2026
+- Open Ground, Wuppertal · Sat, 5 Sept 2026
+- Outernet Live, London · Fri, 4 Sept 2026
+- UNO MALTA, Malta · Thu, 3 Sept 2026
+- Nordstern, Basel · Sat, 29 Aug 2026
+- Club Colette, Birmingham · Fri, 28 Aug 2026
+- Berghain | Panorama Bar | Säule, Berlin · Fri, 21 Aug 2026
+- A38, Budapest · Wed, 19 Aug 2026
+- A38, Budapest · Wed, 19 Aug 2026
 
 ## Shares bills with
 

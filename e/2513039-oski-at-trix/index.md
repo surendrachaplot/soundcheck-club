@@ -1,6 +1,6 @@
 # OSKI at Trix
 
-OSKI at Trix on Sat 21 Nov, Antwerp. Preview the line-up and save it on soundcheck.
+OSKI at Trix on Sat 21 Nov, Antwerp. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

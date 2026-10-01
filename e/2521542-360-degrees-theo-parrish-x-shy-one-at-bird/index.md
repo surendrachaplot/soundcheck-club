@@ -1,6 +1,6 @@
 # 360 Degrees: Theo Parrish x Shy One at BIRD
 
-360 Degrees: Theo Parrish x Shy One at BIRD on Fri 16 Oct, Rotterdam. House and Broken Beat. Preview the line-up and save it on soundcheck.
+360 Degrees: Theo Parrish x Shy One at BIRD on Fri 16 Oct, Rotterdam. House and Broken Beat. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

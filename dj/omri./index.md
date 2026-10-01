@@ -1,8 +1,8 @@
 # OMRI.
 
-OMRI. is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+OMRI. is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
-OMRI. is a house and tech house artist based in Israel, tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Barcelona and Brussels and 17 more. Often billed alongside Damian Lazarus, Jamie Jones and Black Coffee. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+OMRI. is a house and tech house artist based in Israel, with 70 gigs on soundcheck across Amsterdam, Austin, Barcelona and Brussels and 17 more. Often billed alongside Damian Lazarus, Jamie Jones and Black Coffee. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,14 +15,14 @@ OMRI. is a house and tech house artist based in Israel, tracked on soundcheck, w
 
 ## Recently played
 
-- fabric, London — Sat, 26 Sept 2026
-- Randall's Island, New York City — Sat, 19 Sept 2026
-- BERHTA, Washington DC — Fri, 18 Sept 2026
-- TBA - Brussels, Brussels — Fri, 11 Sept 2026
-- Loo Loo, Mexico City — Fri, 21 Aug 2026
-- Loo Loo, Mexico City — Fri, 21 Aug 2026
-- Hï Ibiza, Ibiza — Sat, 8 Aug 2026
-- Ushuaïa Ibiza, Ibiza — Sat, 8 Aug 2026
+- fabric, London · Sat, 26 Sept 2026
+- Randall's Island, New York City · Sat, 19 Sept 2026
+- BERHTA, Washington DC · Fri, 18 Sept 2026
+- TBA - Brussels, Brussels · Fri, 11 Sept 2026
+- Loo Loo, Mexico City · Fri, 21 Aug 2026
+- Loo Loo, Mexico City · Fri, 21 Aug 2026
+- Hï Ibiza, Ibiza · Sat, 8 Aug 2026
+- Ushuaïa Ibiza, Ibiza · Sat, 8 Aug 2026
 
 ## Shares bills with
 

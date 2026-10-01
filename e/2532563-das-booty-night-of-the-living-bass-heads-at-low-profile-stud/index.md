@@ -1,6 +1,6 @@
 # Das Booty: Night of the Living Bass Heads at Low Profile Studios
 
-Das Booty: Night of the Living Bass Heads at Low Profile Studios on Fri 30 Oct, London. Electro and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Das Booty: Night of the Living Bass Heads at Low Profile Studios on Fri 30 Oct, London. Electro and Ghetto Tech. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EOTR Launch Party at Basing House
 
-EOTR Launch Party at Basing House on Fri 2 Oct, London. House and Club. Preview the line-up and save it on soundcheck.
+EOTR Launch Party at Basing House on Fri 2 Oct, London. House and Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

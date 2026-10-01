@@ -1,6 +1,6 @@
 # 5th Anniversary Party06- GATE crossover at Djbar Lollapalooza
 
-5th Anniversary Party06- GATE crossover at Djbar Lollapalooza on Wed 7 Oct, Osaka. Club. Preview the line-up and save it on soundcheck.
+5th Anniversary Party06- GATE crossover at Djbar Lollapalooza on Wed 7 Oct, Osaka. Club. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # DJ Heartstring
 
-DJ Heartstring is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Palladium, Geneva on Sat, 10 Oct 2026.
+DJ Heartstring is a Techno and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Palladium, Geneva on Sat, 10 Oct 2026.
 
-DJ Heartstring is a techno and trance artist based in Germany, tracked on soundcheck, with 222 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 66 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: Palladium, Geneva on Sat 10 Oct.
+DJ Heartstring is a techno and trance artist based in Germany, with 222 gigs on soundcheck across Amsterdam, Antwerp, Austin and Barcelona and 66 more. Often billed alongside MALUGI, Partiboi69 and KETTAMA. Next up: Palladium, Geneva on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -20,14 +20,14 @@ DJ Heartstring is a techno and trance artist based in Germany, tracked on soundc
 
 ## Recently played
 
-- Else, Berlin — Sat, 19 Sept 2026
-- Palmerstown House Estate, Dublin — Fri, 11 Sept 2026
-- TBA, Miami — Sat, 5 Sept 2026
-- The Ground at Club Space, Miami — Sat, 5 Sept 2026
-- Union Park, Chicago — Fri, 4 Sept 2026
-- Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
-- Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
-- Burgess Park, London — Sat, 15 Aug 2026
+- Else, Berlin · Sat, 19 Sept 2026
+- Palmerstown House Estate, Dublin · Fri, 11 Sept 2026
+- TBA, Miami · Sat, 5 Sept 2026
+- The Ground at Club Space, Miami · Sat, 5 Sept 2026
+- Union Park, Chicago · Fri, 4 Sept 2026
+- Van Nelle Fabriek, Rotterdam · Sat, 29 Aug 2026
+- Van Nelle Fabriek, Rotterdam · Sat, 29 Aug 2026
+- Burgess Park, London · Sat, 15 Aug 2026
 
 ## Shares bills with
 

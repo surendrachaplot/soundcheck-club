@@ -1,6 +1,6 @@
 # mOZ // VLAD PHANGAN at Teritorija
 
-mOZ // VLAD PHANGAN at Teritorija on Fri 30 Oct, Riga. 2 artists on the bill: mOZ and VLAD PHANGAN. House. Preview the line-up and save it on soundcheck.
+mOZ // VLAD PHANGAN at Teritorija on Fri 30 Oct, Riga. 2 artists: mOZ and VLAD PHANGAN. House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

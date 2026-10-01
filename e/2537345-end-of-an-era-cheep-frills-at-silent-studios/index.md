@@ -1,6 +1,6 @@
 # End Of An Era: Cheep Frills at Silent Studios
 
-End Of An Era: Cheep Frills at Silent Studios on Fri 6 Nov, Auckland. Progressive House and House. Preview the line-up and save it on soundcheck.
+End Of An Era: Cheep Frills at Silent Studios on Fri 6 Nov, Auckland. Progressive House and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

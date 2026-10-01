@@ -1,6 +1,6 @@
 # CHOPTOBER: DEVILS NIGHT EDITION at Elektricity
 
-CHOPTOBER: DEVILS NIGHT EDITION at Elektricity on Fri 30 Oct, Detroit. Dubstep. Preview the line-up and save it on soundcheck.
+CHOPTOBER: DEVILS NIGHT EDITION at Elektricity on Fri 30 Oct, Detroit. Dubstep. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

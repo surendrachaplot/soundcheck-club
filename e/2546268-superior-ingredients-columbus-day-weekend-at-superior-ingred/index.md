@@ -1,6 +1,6 @@
 # Superior Ingredients Columbus Day Weekend at Superior Ingredients
 
-Superior Ingredients Columbus Day Weekend on Sun 11 Oct, New York City. House and Afro House. Preview the line-up and save it on soundcheck.
+Superior Ingredients Columbus Day Weekend on Sun 11 Oct, New York City. House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

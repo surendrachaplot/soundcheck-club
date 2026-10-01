@@ -1,6 +1,6 @@
 # Prion 5th Birthday Weekender at TBA
 
-Prion 5th Birthday Weekender at TBA on Sat 3 Oct, Sydney. 6 artists on the bill: Cousin, D-Grade, Dj Mistry and Glen S and 2 more. Progressive House and Dub Techno. Preview the line-up and save it on soundcheck.
+Prion 5th Birthday Weekender at TBA on Sat 3 Oct, Sydney. 6 artists: Cousin, D-Grade, Dj Mistry and Glen S and 2 more. Progressive House and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

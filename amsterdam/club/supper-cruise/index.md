@@ -1,8 +1,8 @@
 # Supper Cruise
 
-Supper Cruise is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Oktoberfest by Heineken & Erdinger" on Sat, 3 Oct 2026.
+Supper Cruise is a music venue in Amsterdam with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Oktoberfest by Heineken & Erdinger" on Sat, 3 Oct 2026.
 
-Supper Cruise is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Urban. Browse upcoming dates, start times and who's playing. De Ruijterkade 14, 1012 AA Amsterdam.
+Supper Cruise is a music venue in Amsterdam listed on soundcheck. 2 upcoming gigs, with line-ups including Urban. See dates, start times and who's playing. De Ruijterkade 14, 1012 AA Amsterdam.
 
 ## What's on
 

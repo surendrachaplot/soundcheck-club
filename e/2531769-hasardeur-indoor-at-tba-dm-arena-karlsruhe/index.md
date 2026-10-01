@@ -1,6 +1,6 @@
 # HASARDEUR INDOOR at TBA - DM ARENA KARLSRUHE
 
-HASARDEUR INDOOR at TBA - DM ARENA KARLSRUHE on Sat 14 Nov, Karlsruhe. 3 artists on the bill: Fantasm, KLOFAMA and Winson Ngoh. Preview the line-up and save it on soundcheck.
+HASARDEUR INDOOR at TBA - DM ARENA KARLSRUHE on Sat 14 Nov, Karlsruhe. 3 artists: Fantasm, KLOFAMA and Winson Ngoh. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

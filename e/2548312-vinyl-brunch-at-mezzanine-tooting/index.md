@@ -1,6 +1,6 @@
 # Vinyl Brunch at Mezzanine - Tooting
 
-Vinyl Brunch at Mezzanine - Tooting on Sat 10 Oct, London. Deep House and Disco. Preview the line-up and save it on soundcheck.
+Vinyl Brunch at Mezzanine - Tooting on Sat 10 Oct, London. Deep House and Disco. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

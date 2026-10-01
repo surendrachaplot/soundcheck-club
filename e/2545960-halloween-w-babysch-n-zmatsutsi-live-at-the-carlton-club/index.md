@@ -1,6 +1,6 @@
 # HALLOWEEN! w babyschön & Zmatsutsi [Live] at The Carlton Club
 
-HALLOWEEN! w babyschön & Zmatsutsi [Live] at The Carlton Club on Sat 31 Oct, Manchester. 3 artists on the bill: babyschön, Semi Peppered and Zmatsutsi. Preview the line-up and save it on soundcheck.
+HALLOWEEN! w babyschön & Zmatsutsi [Live] at The Carlton Club on Sat 31 Oct, Manchester. 3 artists: babyschön, Semi Peppered and Zmatsutsi. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

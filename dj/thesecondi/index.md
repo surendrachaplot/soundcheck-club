@@ -1,8 +1,8 @@
 # The Second I
 
-The Second I is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
+The Second I is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ehrenfeld XL, Cologne on Sat, 24 Oct 2026.
 
-The Second I is a trance and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Cologne. Often billed alongside BabaBass3000, Ferrand and Rundfunk. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
+The Second I is a trance and techno artist based in Germany, with 11 gigs on soundcheck across Berlin and Cologne. Often billed alongside BabaBass3000, Ferrand and Rundfunk. Next up: Ehrenfeld XL, Cologne on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -13,14 +13,14 @@ The Second I is a trance and techno artist based in Germany, tracked on soundche
 
 ## Recently played
 
-- Schrotty, Cologne — Sat, 5 Sept 2026
-- Schrotty, Cologne — Sat, 1 Aug 2026
-- Lokschuppen Berlin, Berlin — Wed, 29 Jul 2026
-- Schrotty, Cologne — Fri, 29 May 2026
-- Schrotty, Cologne — Sat, 28 Mar 2026
-- Ehrenfeld XL, Cologne — Sat, 28 Mar 2026
-- Reineke Fuchs, Cologne — Mon, 16 Feb 2026
-- Artheater, Cologne — Fri, 13 Feb 2026
+- Schrotty, Cologne · Sat, 5 Sept 2026
+- Schrotty, Cologne · Sat, 1 Aug 2026
+- Lokschuppen Berlin, Berlin · Wed, 29 Jul 2026
+- Schrotty, Cologne · Fri, 29 May 2026
+- Schrotty, Cologne · Sat, 28 Mar 2026
+- Ehrenfeld XL, Cologne · Sat, 28 Mar 2026
+- Reineke Fuchs, Cologne · Mon, 16 Feb 2026
+- Artheater, Cologne · Fri, 13 Feb 2026
 
 ## Shares bills with
 

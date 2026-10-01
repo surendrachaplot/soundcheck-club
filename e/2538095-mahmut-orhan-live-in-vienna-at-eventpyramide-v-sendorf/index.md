@@ -1,6 +1,6 @@
 # Mahmut Orhan – Live in Vienna at Eventpyramide Vösendorf
 
-Mahmut Orhan – Live in Vienna at Eventpyramide Vösendorf on Sat 3 Oct, Austria. 2 artists on the bill: Mahmut Orhan and SONA. Preview the line-up and save it on soundcheck.
+Mahmut Orhan – Live in Vienna at Eventpyramide Vösendorf on Sat 3 Oct, Austria. 2 artists: Mahmut Orhan and SONA. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

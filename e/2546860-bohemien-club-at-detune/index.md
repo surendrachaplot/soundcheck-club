@@ -1,6 +1,6 @@
 # Bohemien Club at Detune
 
-Bohemien Club at Detune on Sat 3 Oct, Milan. Progressive House and Electronica. Preview the line-up and save it on soundcheck.
+Bohemien Club at Detune on Sat 3 Oct, Milan. Progressive House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

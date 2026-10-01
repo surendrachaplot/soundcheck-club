@@ -1,6 +1,6 @@
 # FLY - M-High & Anil Aras - Glasgow at Sub Club
 
-FLY - M-High & Anil Aras - Glasgow at Sub Club on Thu 1 Oct, Glasgow. 2 artists on the bill: Anil Aras and M-High. Tech House. Preview the line-up and save it on soundcheck.
+FLY - M-High & Anil Aras - Glasgow at Sub Club on Thu 1 Oct, Glasgow. 2 artists: Anil Aras and M-High. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,6 +1,6 @@
 # EXIST x Mutual Rytm Showcase at Klub Progresja
 
-EXIST x Mutual Rytm Showcase at Klub Progresja on Sat 31 Oct, Warsaw. 5 artists on the bill: BLANKA, Phil Berg, SHDW and Stef Mendesidis and 1 more. Techno. Preview the line-up and save it on soundcheck.
+EXIST x Mutual Rytm Showcase at Klub Progresja on Sat 31 Oct, Warsaw. 5 artists: BLANKA, Phil Berg, SHDW and Stef Mendesidis and 1 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

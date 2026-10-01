@@ -1,8 +1,8 @@
 # Groove Bar
 
-Groove Bar is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Stessie Tfgn" on Thu, 1 Oct 2026.
+Groove Bar is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Stessie Tfgn" on Thu, 1 Oct 2026.
 
-Groove Bar is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including Kirill Astra and Stessie Tfgn. Browse upcoming dates, start times and who's playing. Voršilská 6, Praha 1 / 110 00.
+Groove Bar is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including Kirill Astra and Stessie Tfgn. See dates, start times and who's playing. Voršilská 6, Praha 1 / 110 00.
 
 ## What's on
 
