@@ -1,14 +1,15 @@
 # Alam
 
-Alam is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Pisco Bar, Kuala Lumpur on Sat, 3 Oct 2026.
+Alam is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pisco Bar, Kuala Lumpur on Sat, 3 Oct 2026.
 
-Alam is a house and tech house artist based in Malaysia, tracked on soundcheck, with 190 sets logged across Bali, Kuala Lumpur and Singapore. Often billed alongside Axel Groove, Victor G (MY) and Odd (MY). Next up: Pisco Bar, Kuala Lumpur on Sat 3 Oct.
+Alam is a house and tech house artist based in Malaysia, tracked on soundcheck, with 191 sets logged across Bali, Kuala Lumpur and Singapore. Often billed alongside Axel Groove, Victor G (MY) and Odd (MY). Next up: Pisco Bar, Kuala Lumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Pisco Bar | Kuala Lumpur |
+| Fri, 16 Oct 2026 | RASA | Singapore |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Alam is a house and tech house artist based in Malaysia, tracked on soundcheck, 
 
 Axel Groove, Victor G (MY), Odd (MY)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alam/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alam/)*

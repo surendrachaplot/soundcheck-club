@@ -1,6 +1,6 @@
 # Joe Le Groove
 
-Joe Le Groove is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, London on Sat, 10 Oct 2026.
+Joe Le Groove is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, London on Sat, 10 Oct 2026.
 
 Joe Le Groove is a tech house and house artist tracked on soundcheck, with 15 sets logged across London. Often billed alongside Subject 13, Nookie (UK) and Outrage. Next up: TBA, London on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Joe Le Groove is a tech house and house artist tracked on soundcheck, with 15 se
 
 Subject 13, Nookie (UK), Outrage
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joelegroove/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelegroove/)*

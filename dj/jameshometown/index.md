@@ -1,6 +1,6 @@
 # James Hometown
 
-James Hometown is a Dancehall and Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Art School, Glasgow on Thu, 1 Oct 2026.
+James Hometown is a Dancehall and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Art School, Glasgow on Thu, 1 Oct 2026.
 
 James Hometown is a dancehall and bass artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Dublin, Edinburgh and Glasgow. Often billed alongside Hometown Sound, izit? and T-O-D. Next up: The Art School, Glasgow on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ James Hometown is a dancehall and bass artist based in United Kingdom, tracked o
 
 Hometown Sound, izit?, T-O-D
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshometown/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameshometown/)*

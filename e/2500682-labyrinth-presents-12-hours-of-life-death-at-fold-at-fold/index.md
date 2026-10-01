@@ -1,6 +1,6 @@
 # Labyrinth presents: 12 hours of Life & Death at FOLD at FOLD
 
-Labyrinth presents: 12 hours of Life & Death at FOLD on Fri 9 Oct, London. 10 artists on the bill: Andre Zimmer, Ashee, Bambounou and DJ Tennis and 6 more. Techno and House. Preview the line-up and save it on soundcheck.
+Labyrinth presents: 12 hours of Life & Death at FOLD on Fri 9 Oct, London. 9 artists on the bill: Andre Zimmer, Ashee, Bambounou and DJ Tennis and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,7 +18,6 @@ Labyrinth presents: 12 hours of Life & Death at FOLD on Fri 9 Oct, London. 10 ar
 - Kim Ann Foxman
 - M-High
 - PAURRO
-- Rudy With a Hoodie
 - Tiga
 
 *Source: [soundcheck](https://soundcheck.club/e/2500682-labyrinth-presents-12-hours-of-life-death-at-fold-at-fold/)*

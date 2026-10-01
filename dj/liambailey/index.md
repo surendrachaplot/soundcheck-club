@@ -1,13 +1,14 @@
 # Liam Bailey
 
-Liam Bailey is a Dancehall and Dub artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Fox and Firkin, London on Fri, 11 Dec 2026.
+Liam Bailey is a Dancehall and Dub artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - DOKI 1, Gdansk on Fri, 2 Oct 2026.
 
-Liam Bailey is a dancehall and dub artist tracked on soundcheck, with 15 sets logged across Bristol, London, Manchester and Nashville and 1 more. Often billed alongside Izco, Capo Lee and DRS. Next up: The Fox and Firkin, London on Fri 11 Dec.
+Liam Bailey is a dancehall and dub artist tracked on soundcheck, with 16 sets logged across Bristol, Gdansk, London and Manchester and 2 more. Often billed alongside Izco, Capo Lee and DRS. Next up: TBA - DOKI 1, Gdansk on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA - DOKI 1 | Gdansk |
 | Fri, 11 Dec 2026 | The Fox and Firkin | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ Liam Bailey is a dancehall and dub artist tracked on soundcheck, with 15 sets lo
 
 Izco, Capo Lee, DRS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liambailey/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liambailey/)*

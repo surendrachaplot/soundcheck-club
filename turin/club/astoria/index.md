@@ -1,6 +1,6 @@
 # Astoria
 
-Astoria is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "TECHNOBULL: Connor Wall (Moving Pressure, Phorum, WSNWG /AUS) Allegretti, Mikes" on Fri, 2 Oct 2026.
+Astoria is a music venue in Turin with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "TECHNOBULL: Connor Wall (Moving Pressure, Phorum, WSNWG /AUS) Allegretti, Mikes" on Fri, 2 Oct 2026.
 
 Astoria is a music venue in Turin listed on soundcheck. 11 upcoming gigs, with line-ups including Allegretti, AMRED, BENZA and Connor Wall and 2 more. Browse upcoming dates, start times and who's playing. Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy.
 
@@ -23,4 +23,4 @@ Astoria is a music venue in Turin listed on soundcheck. 11 upcoming gigs, with l
 
 Via Claudio Luigi Berthollet 13, 10125 Torino (TO), Italy, Turin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/turin/club/astoria/)*

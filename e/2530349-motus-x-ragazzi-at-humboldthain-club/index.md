@@ -14,6 +14,6 @@ Motus x RAGAZZI at Humboldthain Club on Fri 2 Oct, Berlin. 5 artists on the bill
 - e.leptic
 - E.T.
 - Nadia Bel Air
-- suki
+- Suki (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2530349-motus-x-ragazzi-at-humboldthain-club/)*

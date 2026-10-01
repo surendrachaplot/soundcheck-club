@@ -1,6 +1,6 @@
 # Toekomstmuziek
 
-Toekomstmuziek is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "UNTIED" on Fri, 2 Oct 2026.
+Toekomstmuziek is a music venue in Amsterdam with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "UNTIED" on Fri, 2 Oct 2026.
 
 Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 16 upcoming gigs, with line-ups including Alex Breitling, ALLKNIGHT, Alycia Bezgo and Amøn and 2 more. Browse upcoming dates, start times and who's playing. Danzigerbocht 29, 1013 AM Amsterdam.
 
@@ -23,4 +23,4 @@ Toekomstmuziek is a music venue in Amsterdam listed on soundcheck. 16 upcoming g
 
 Danzigerbocht 29, 1013 AM Amsterdam, Amsterdam
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/toekomstmuziek/)*

@@ -1,8 +1,8 @@
 # TONS
 
-TONS is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at IDRA, Manchester on Sat, 10 Oct 2026.
+TONS is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at IDRA, Manchester on Sat, 10 Oct 2026.
 
-TONS is a tech house and house artist based in Venezuela, tracked on soundcheck, with 115 sets logged across Amsterdam, Austin, Barcelona and Boston and 17 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: IDRA, Manchester on Sat 10 Oct.
+TONS is a tech house and house artist based in Venezuela, tracked on soundcheck, with 116 sets logged across Amsterdam, Austin, Barcelona and Boston and 18 more. Often billed alongside Miguelle, Ben Sterling and Marco Carola. Next up: IDRA, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ TONS is a tech house and house artist based in Venezuela, tracked on soundcheck,
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | IDRA | Manchester |
 | Sat, 28 Nov 2026 | TBA | Mexico City |
+| Sat, 12 Dec 2026 | Bohemia Beach Club | Dubai |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ TONS is a tech house and house artist based in Venezuela, tracked on soundcheck,
 
 Miguelle, Ben Sterling, Marco Carola
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tons/)*

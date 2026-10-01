@@ -1,17 +1,19 @@
 # MERS
 
-MERS is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Toronto, Toronto on Sat, 7 Nov 2026.
+MERS is a Tech House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sound Machine, Toronto on Thu, 1 Oct 2026.
 
-MERS is a techno artist based in Canada, tracked on soundcheck, with 1 set logged across Toronto. Often billed alongside Nina Kraviz. Next up: TBA - Toronto, Toronto on Sat 7 Nov.
+MERS is a tech house and techno artist based in Canada, tracked on soundcheck, with 3 sets logged across Toronto. Often billed alongside Addy, Kiinjo and Nambeh. Next up: Sound Machine, Toronto on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Sound Machine | Toronto |
+| Fri, 2 Oct 2026 | Vertigo | Toronto |
 | Sat, 7 Nov 2026 | TBA - Toronto | Toronto |
 
 ## Shares bills with
 
-Nina Kraviz
+Addy, Kiinjo, Nambeh
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mers/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mers/)*

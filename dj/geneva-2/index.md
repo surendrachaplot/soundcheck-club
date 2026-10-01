@@ -1,13 +1,15 @@
 # Geneva (2)
 
-Geneva (2) is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Secret Location, Toronto on Sun, 11 Oct 2026.
+Geneva (2) is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ferguson Station, Hamilton on Thu, 1 Oct 2026.
 
-Geneva is a techno and electro artist based in Canada, tracked on soundcheck, with 20 sets logged across Detroit, Paris and Toronto. Often billed alongside Circumscums, Measure Divide and Program Sam. Next up: TBA - Secret Location, Toronto on Sun 11 Oct.
+Geneva is a techno and electro artist based in Canada, tracked on soundcheck, with 22 sets logged across Detroit, Hamilton, Paris and Toronto. Often billed alongside Circumscums, Measure Divide and Program Sam. Next up: Ferguson Station, Hamilton on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Ferguson Station | Hamilton |
+| Fri, 2 Oct 2026 | TBA | Hamilton |
 | Sun, 11 Oct 2026 | TBA - Secret Location | Toronto |
 
 ## Recently played
@@ -25,4 +27,4 @@ Geneva is a techno and electro artist based in Canada, tracked on soundcheck, wi
 
 Circumscums, Measure Divide, Program Sam
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneva-2/)*

@@ -1,6 +1,6 @@
 # Heebie Jeebies
 
-Heebie Jeebies is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Alinea Events presents: Dance In The Ambience" on Fri, 16 Oct 2026.
+Heebie Jeebies is a music venue in Liverpool with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Alinea Events presents: Dance In The Ambience" on Fri, 16 Oct 2026.
 
 Heebie Jeebies is a music venue in Liverpool listed on soundcheck. 3 upcoming gigs, with line-ups including Aly P, Dj Streaks and Liv Leslie. Browse upcoming dates, start times and who's playing. 80 Seel Street; Merseyside; Liverpool; L1 4BH; United Kingdom.
 
@@ -16,4 +16,4 @@ Heebie Jeebies is a music venue in Liverpool listed on soundcheck. 3 upcoming gi
 
 80 Seel Street; Merseyside; Liverpool; L1 4BH; United Kingdom, Liverpool
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/heebie-jeebies/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/heebie-jeebies/)*

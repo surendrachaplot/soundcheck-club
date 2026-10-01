@@ -1,8 +1,8 @@
 # TBA - Secret Location
 
-TBA - Secret Location is a music venue in London with 37 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Subverted" on Fri, 2 Oct 2026.
+TBA - Secret Location is a music venue in London with 55 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Subverted" on Fri, 2 Oct 2026.
 
-TBA - Secret Location is a music venue in London listed on soundcheck. 37 upcoming gigs, with line-ups including .cosm, Alena Vox, Amnati and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Location is a music venue in London listed on soundcheck. 55 upcoming gigs, with line-ups including .cosm, Alena Vox, Amnati and Ancut and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -14,9 +14,9 @@ TBA - Secret Location is a music venue in London listed on soundcheck. 37 upcomi
 | Sat, 3 Oct 2026 | Ritmu.mt | Limón, Reactant, Volpe, chouhal |
 | Sat, 3 Oct 2026 | dark_001.wav |  |
 | Sat, 3 Oct 2026 | Overground - 6 Years Of The Label | Ancut, Eliza (2), Rickie (Overground), Robs (1) |
+| Sat, 3 Oct 2026 | Mountain Rave x Parnitha |  |
 | Sun, 4 Oct 2026 | Ambient Picnic — Season Closing | AXT, Bungalovv, Triš, XTCLVR, Xenia Reaper |
 | Mon, 5 Oct 2026 | REI MARA, Dj PeXu, DjFferent, DJ El Tel, Shane DB - RadioLDN - (CANCEL) | Dj PeXu, Shane DB |
 | Fri, 9 Oct 2026 | ZERO RANGE - Chapter 1: Fissure | Young Gaina, sakali |
-| Fri, 9 Oct 2026 | HAREBRAINED: DEFCON ULTIMATE / Breakcore, Hardstyle, and Hyperpop Hits 4 Lovers & Frenemies | Baseck, Kuuma, OMO (US), Seanni B, fi3nd, joycxi, madeofants |
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba-secret-location/)*

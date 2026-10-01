@@ -1,6 +1,6 @@
 # Adriatique
 
-Adriatique is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Joe & the Juice, Zurich on Thu, 1 Oct 2026.
+Adriatique is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Joe & the Juice, Zurich on Thu, 1 Oct 2026.
 
 Adriatique is a techno and house artist based in Switzerland, tracked on soundcheck, with 158 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside Mind Against, Colyn and Âme. Next up: Joe & the Juice, Zurich on Thu 1 Oct.
 
@@ -31,4 +31,4 @@ Adriatique is a techno and house artist based in Switzerland, tracked on soundch
 
 Mind Against, Colyn, Âme
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriatique/)*

@@ -1,6 +1,6 @@
 # Karlheinz
 
-Karlheinz is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
+Karlheinz is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ruimte 59.61, Amsterdam on Fri, 23 Oct 2026.
 
 Karlheinz is a techno and electronica artist tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin, London and Rome. Often billed alongside Costax, AELVA K and Alex Micca. Next up: Ruimte 59.61, Amsterdam on Fri 23 Oct.
 
@@ -21,4 +21,4 @@ Karlheinz is a techno and electronica artist tracked on soundcheck, with 5 sets 
 
 Costax, AELVA K, Alex Micca
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/karlheinz/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/karlheinz/)*

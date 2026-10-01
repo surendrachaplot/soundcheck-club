@@ -1,13 +1,14 @@
 # WO.IZZY
 
-WO.IZZY is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Grelle Forelle, Vienna on Fri, 6 Nov 2026.
+WO.IZZY is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Das Werk, Vienna on Sat, 17 Oct 2026.
 
-WO.IZZY is a techno and trance artist based in Austria, tracked on soundcheck, with 22 sets logged across Vienna. Often billed alongside Kat Ze, Aleta and Der Werther. Next up: Grelle Forelle, Vienna on Fri 6 Nov.
+WO.IZZY is a techno and trance artist based in Austria, tracked on soundcheck, with 23 sets logged across Vienna. Often billed alongside Kat Ze, Aleta and Der Werther. Next up: Das Werk, Vienna on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Das Werk | Vienna |
 | Fri, 6 Nov 2026 | Grelle Forelle | Vienna |
 
 ## Recently played
@@ -25,4 +26,4 @@ WO.IZZY is a techno and trance artist based in Austria, tracked on soundcheck, w
 
 Kat Ze, Aleta, Der Werther
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wo.izzy/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wo.izzy/)*

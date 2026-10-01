@@ -1,6 +1,6 @@
 # Bowlcut
 
-Bowlcut is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Grow, London on Fri, 6 Nov 2026.
+Bowlcut is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Grow, London on Fri, 6 Nov 2026.
 
 Bowlcut is a disco and house artist based in United Kingdom, tracked on soundcheck, with 13 sets logged across Edinburgh, London and Seoul. Often billed alongside Alfaz, ARLYSS and Zak Miller. Next up: Grow, London on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Bowlcut is a disco and house artist based in United Kingdom, tracked on soundche
 
 Alfaz, ARLYSS, Zak Miller
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bowlcut/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bowlcut/)*

@@ -1,6 +1,6 @@
 # public records
 
-public records is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Volvox, AZA / Space Drum Meditation, Laurence Matte / bbbBbBB" on Fri, 2 Oct 2026.
+public records is a music venue in New York City with 30 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Volvox, AZA / Space Drum Meditation, Laurence Matte / bbbBbBB" on Fri, 2 Oct 2026.
 
 public records is a music venue in New York City listed on soundcheck. 30 upcoming gigs, with line-ups including 4AM NYC, MORENXXX, AADJA and Aaron Dae and 2 more. Browse upcoming dates, start times and who's playing. 233 Butler St, Brooklyn, NY 11217, USA.
 
@@ -9,7 +9,7 @@ public records is a music venue in New York City listed on soundcheck. 30 upcomi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Volvox, AZA / Space Drum Meditation, Laurence Matte / bbbBbBB | AZA, BbbBbBB (2), Laurence Matte, Space Drum Meditation, Volvox |
-| Sat, 3 Oct 2026 | Titonton Duvanté, Shawn Dub / Mike Servito, JADALAREIGN / kels | JADALAREIGN, Kels (US), Mike Servito, Shawn Dub, Titonton Duvanté |
+| Sat, 3 Oct 2026 | Titonton Duvanté, Shawn Dub / Mike Servito & JADALAREIGN / kels | JADALAREIGN, Kels (US), Mike Servito, Shawn Dub, Titonton Duvanté |
 | Sun, 4 Oct 2026 | The Nursery: Floorplan, CARISTA | CARISTA, Floorplan |
 | Thu, 8 Oct 2026 | Pretty Girl [DJ Set] | Pretty Girl |
 | Thu, 8 Oct 2026 | Hearts & Diamonds: Midnight Magic [Live] with Three of Hearts [Rok One, Andi, Danny White] | Andi, Danny White, Midnight Magic |
@@ -23,4 +23,4 @@ public records is a music venue in New York City listed on soundcheck. 30 upcomi
 
 233 Butler St, Brooklyn, NY 11217, USA, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/public-records/)*

@@ -1,13 +1,14 @@
 # PERFECT TIMING
 
-PERFECT TIMING is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+PERFECT TIMING is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bootshaus, Cologne on Fri, 16 Oct 2026.
 
-PERFECT TIMING is a tech house and house artist based in Germany, tracked on soundcheck, with 3 sets logged across Amsterdam, Austria and Cologne. Often billed alongside Chris Di Perri, LOVRA and AKA AKA. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+PERFECT TIMING is a tech house and house artist based in Germany, tracked on soundcheck, with 4 sets logged across Amsterdam, Austria and Cologne. Often billed alongside Chris Di Perri, Fabrice and LOVRA. Next up: Bootshaus, Cologne on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Bootshaus | Cologne |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
 ## Recently played
@@ -17,6 +18,6 @@ PERFECT TIMING is a tech house and house artist based in Germany, tracked on sou
 
 ## Shares bills with
 
-Chris Di Perri, LOVRA, AKA AKA
+Chris Di Perri, Fabrice (2), LOVRA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perfecttiming/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perfecttiming/)*

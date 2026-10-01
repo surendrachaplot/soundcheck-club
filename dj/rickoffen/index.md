@@ -1,6 +1,6 @@
 # Rick Offen
 
-Rick Offen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lux Fragil, Lisbon on Sat, 10 Oct 2026.
+Rick Offen is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lux Fragil, Lisbon on Sat, 10 Oct 2026.
 
 Rick Offen is a house and deep house artist based in Portugal, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Copenhagen and Frankfurt and 9 more. Often billed alongside Ander Race, Awk and Reezar. Next up: Lux Fragil, Lisbon on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Rick Offen is a house and deep house artist based in Portugal, tracked on soundc
 
 Ander Race, Awk (2), Reezar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rickoffen/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rickoffen/)*

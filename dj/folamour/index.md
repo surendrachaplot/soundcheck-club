@@ -1,14 +1,14 @@
 # Folamour
 
-Folamour is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Quai De Heembeek, Brussels on Tue, 29 Sept 2026.
+Folamour is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Interference, Toulouse on Sat, 3 Oct 2026.
 
-Folamour is a house and disco artist based in France, tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Austin and 50 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: TBA - Quai De Heembeek, Brussels on Tue 29 Sept.
+Folamour is a house and disco artist based in France, tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Austin and 51 more. Often billed alongside Dan Shake, Seth Troxler and TSHA. Next up: Interference, Toulouse on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | TBA - Quai De Heembeek | Brussels |
+| Sat, 3 Oct 2026 | Interference | Toulouse |
 | Fri, 23 Oct 2026 | NX Newcastle | Newcastle |
 | Sun, 25 Oct 2026 | De Kromhouthal | Amsterdam |
 | Sat, 7 Nov 2026 | Roig Arena | Valencia |
@@ -16,6 +16,7 @@ Folamour is a house and disco artist based in France, tracked on soundcheck, wit
 
 ## Recently played
 
+- TBA - Quai De Heembeek, Brussels — Tue, 29 Sept 2026
 - Van Nelle Fabriek, Rotterdam — Sat, 29 Aug 2026
 - Guíxols Arena, Barcelona — Sat, 22 Aug 2026
 - Amnesia Ibiza, Ibiza — Fri, 14 Aug 2026
@@ -23,10 +24,9 @@ Folamour is a house and disco artist based in France, tracked on soundcheck, wit
 - Sawmills, Bristol — Sat, 18 Jul 2026
 - Else, Berlin — Sun, 12 Jul 2026
 - Colorado Charlie, The Hague — Sat, 11 Jul 2026
-- Parque Eduardo VII, Lisbon — Fri, 3 Jul 2026
 
 ## Shares bills with
 
 Dan Shake, Seth Troxler, TSHA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/folamour/)*

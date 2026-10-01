@@ -1,16 +1,13 @@
 # Akasha Las Dalias Club - Ibiza
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 19 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Peace N´Music Closing Party" on Mon, 28 Sept 2026.
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sven Väth - T.R.A.N.C.E" on Thu, 1 Oct 2026.
 
-Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 19 upcoming gigs, with line-ups including Alfonso Ares, Bill Hates, BOHEM and Cameron Jack and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
+Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 16 upcoming gigs, with line-ups including Alfonso Ares, Bill Hates, BOHEM and Cameron Jack and 2 more. Browse upcoming dates, start times and who's playing. Carretera San Carlos Km 12, Ibiza, Spain 07850..
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Peace N´Music Closing Party |  |
-| Tue, 29 Sept 2026 | Ethereal | Clint Lee, Pako S, Words of Niō |
-| Wed, 30 Sept 2026 | Namaste | Defex, IBÁN MENDOZA |
 | Thu, 1 Oct 2026 | Sven Väth - T.R.A.N.C.E | Maurizio Schmitz, Sven Vath |
 | Sat, 3 Oct 2026 | SUPERNOVA x KAMAYA | Bill Hates, CJ Jeff, Igor Marijuan, M.A.N.D.Y. |
 | Sun, 4 Oct 2026 | Nido | Kanedo, SHARE (NL) |
@@ -18,9 +15,12 @@ Akasha Las Dalias Club - Ibiza is a music venue in Ibiza listed on soundcheck. 1
 | Fri, 9 Oct 2026 | Tales Of The Unexpected | Lovefingers |
 | Sat, 10 Oct 2026 | SUPERNOVA | Defex, LAU (6), Mathias Kaden, theia |
 | Sun, 11 Oct 2026 | Nido | Alfonso Ares, John Woods, Julia Sandstorm |
+| Wed, 14 Oct 2026 | Namaste Closing |  |
+| Thu, 15 Oct 2026 | Hernan Cattaneo | Hernan Cattaneo, Kevin Di Serna, Pole Position, Valentin Huedo |
+| Fri, 16 Oct 2026 | Ethereal x ASW | Christopher Coe, Sebastian Mullaert, Stimming |
 
 ## Address
 
 Carretera San Carlos Km 12, Ibiza, Spain 07850., Ibiza
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/ibiza/club/akasha-las-dalias-club-ibiza/)*

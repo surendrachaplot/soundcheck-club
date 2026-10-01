@@ -1,8 +1,8 @@
 # Dico Nemus
 
-Dico Nemus is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 3 Oct 2026.
+Dico Nemus is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Den Anden Side, Copenhagen on Sat, 3 Oct 2026.
 
-Dico Nemus is a techno and trance artist based in Denmark, tracked on soundcheck, with 20 sets logged across Copenhagen. Often billed alongside Holtz, steamboi and LMN. Next up: Den Anden Side, Copenhagen on Sat 3 Oct.
+Dico Nemus is a techno and trance artist based in Denmark, tracked on soundcheck, with 20 sets logged across Copenhagen. Often billed alongside Holtz, LMN and SORT SIND. Next up: Den Anden Side, Copenhagen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Dico Nemus is a techno and trance artist based in Denmark, tracked on soundcheck
 
 ## Shares bills with
 
-Holtz (2), steamboi, LMN (1)
+Holtz (2), LMN (1), SORT SIND
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diconemus/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diconemus/)*

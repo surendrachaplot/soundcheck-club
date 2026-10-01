@@ -1,8 +1,8 @@
 # Dr. Nishimura
 
-Dr. Nishimura is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 宀 Club, Hong Kong on Sat, 3 Oct 2026.
+Dr. Nishimura is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 宀 Club, Hong Kong on Sat, 3 Oct 2026.
 
-Dr. Nishimura is a techno and house artist based in Japan, tracked on soundcheck, with 39 sets logged across Hong Kong, Kyoto, Milan and Osaka and 1 more. Often billed alongside Compuma, Akie and Chanaz. Next up: 宀 Club, Hong Kong on Sat 3 Oct.
+Dr. Nishimura is a techno and house artist based in Japan, tracked on soundcheck, with 40 sets logged across Hong Kong, Kyoto, Milan and Osaka and 1 more. Often billed alongside Compuma, Akie and Chanaz. Next up: 宀 Club, Hong Kong on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Dr. Nishimura is a techno and house artist based in Japan, tracked on soundcheck
 | Fri, 9 Oct 2026 | MIDNIGHT EAST | Tokyo |
 | Sun, 11 Oct 2026 | Bonobo | Tokyo |
 | Fri, 16 Oct 2026 | VENT | Tokyo |
+| Fri, 13 Nov 2026 | VENT | Tokyo |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Dr. Nishimura is a techno and house artist based in Japan, tracked on soundcheck
 
 Compuma, Akie, Chanaz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.nishimura/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.nishimura/)*

@@ -1,6 +1,6 @@
 # Slayphex Twins
 
-Slayphex Twins is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Distillery N17, London on Sat, 3 Oct 2026.
+Slayphex Twins is a Hardcore and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery N17, London on Sat, 3 Oct 2026.
 
 Slayphex Twins is a hardcore and club artist based in United Kingdom, tracked on soundcheck, with 48 sets logged across Amsterdam, Budapest, Leeds and London and 2 more. Often billed alongside Peggy Viennetta, RQuality and Ushko. Next up: Distillery N17, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Slayphex Twins is a hardcore and club artist based in United Kingdom, tracked on
 
 Peggy Viennetta, RQuality, Ushko
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/slayphextwins/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/slayphextwins/)*

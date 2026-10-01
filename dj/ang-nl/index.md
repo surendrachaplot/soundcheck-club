@@ -1,14 +1,15 @@
 # AnG (NL)
 
-AnG (NL) is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
+AnG (NL) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Now&Wow, Rotterdam on Sat, 3 Oct 2026.
 
-AnG (NL) is a techno and industrial artist based in Netherlands, tracked on soundcheck, with 7 sets logged across Amsterdam, Malta, Rotterdam and Utrecht. Often billed alongside 2FEL, A2XBY and Afra. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
+AnG (NL) is a techno and house artist based in Netherlands, tracked on soundcheck, with 8 sets logged across Amsterdam, Malta, Rotterdam and Utrecht. Often billed alongside 2FEL, A2XBY and Afra. Next up: Now&Wow, Rotterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Now&Wow | Rotterdam |
+| Fri, 16 Oct 2026 | Now&Wow | Rotterdam |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ AnG (NL) is a techno and industrial artist based in Netherlands, tracked on soun
 
 2FEL, A2XBY, Afra
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ang-nl/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ang-nl/)*

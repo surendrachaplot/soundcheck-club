@@ -1,8 +1,8 @@
 # XSYNC19
 
-XSYNC19 is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Poseidons, Riga on Fri, 9 Oct 2026.
+XSYNC19 is a Hardcore and Gabber artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Poseidons, Riga on Fri, 9 Oct 2026.
 
-XSYNC19 is a hardcore and gabber artist based in Latvia, tracked on soundcheck, with 18 sets logged across Riga. Often billed alongside MVKO, oshigakill and excels. Next up: Poseidons, Riga on Fri 9 Oct.
+XSYNC19 is a hardcore and gabber artist based in Latvia, tracked on soundcheck, with 19 sets logged across Riga. Often billed alongside MVKO, oshigakill and excels. Next up: Poseidons, Riga on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ XSYNC19 is a hardcore and gabber artist based in Latvia, tracked on soundcheck, 
 | Fri, 9 Oct 2026 | Poseidons | Riga |
 | Sat, 31 Oct 2026 | Teritorija | Riga |
 | Sat, 31 Oct 2026 | Teritorija | Riga |
+| Sat, 31 Oct 2026 | TBA - Secret Bunker, Jugla | Riga |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ XSYNC19 is a hardcore and gabber artist based in Latvia, tracked on soundcheck, 
 
 MVKO, oshigakill, excels
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xsync19/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xsync19/)*

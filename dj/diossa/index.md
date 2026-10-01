@@ -1,14 +1,15 @@
 # Diossa
 
-Diossa is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Diossa is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Diossa is a techno and trance artist based in United States of America, tracked on soundcheck, with 18 sets logged across Amsterdam, Boston, Medellin and Miami and 3 more. Often billed alongside Ramsey Neville, Junkfile and Marco Neves. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Diossa is a techno and trance artist based in United States of America, tracked on soundcheck, with 19 sets logged across Amsterdam, Bogot, Boston and Medellin and 4 more. Often billed alongside Ramsey Neville, Junkfile and Marco Neves. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
+| Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Diossa is a techno and trance artist based in United States of America, tracked 
 
 Ramsey Neville, Junkfile, Marco Neves
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/diossa/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/diossa/)*

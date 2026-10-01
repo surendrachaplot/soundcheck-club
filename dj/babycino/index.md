@@ -1,14 +1,15 @@
 # Babycino
 
-Babycino is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
+Babycino is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Collingwood Children's Farm, Melbourne on Sat, 31 Oct 2026.
 
-Babycino is a house and balearic artist based in Australia, tracked on soundcheck, with 22 sets logged across Melbourne. Often billed alongside Adriana, Darcy Justice and Elsie. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
+Babycino is a house and balearic artist based in Australia, tracked on soundcheck, with 23 sets logged across Melbourne and Victoria. Often billed alongside Darcy Justice, Elsie and Adriana. Next up: Collingwood Children's Farm, Melbourne on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
+| Fri, 6 Nov 2026 | TBA | Victoria |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Babycino is a house and balearic artist based in Australia, tracked on soundchec
 
 ## Shares bills with
 
-Adriana (1), Darcy Justice, Elsie
+Darcy Justice, Elsie, Adriana (1)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/babycino/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babycino/)*

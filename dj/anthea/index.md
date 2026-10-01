@@ -1,8 +1,8 @@
 # Anthea
 
-Anthea is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Anthea is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Anthea is a house and techno artist based in United Kingdom, tracked on soundcheck, with 175 sets logged across Amsterdam, Athens, Austin and Barcelona and 43 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Anthea is a house and techno artist based in United Kingdom, tracked on soundcheck, with 176 sets logged across Amsterdam, Athens, Austin and Barcelona and 43 more. Often billed alongside Oshana, tINI and Astral Travel. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -14,9 +14,11 @@ Anthea is a house and techno artist based in United Kingdom, tracked on soundche
 | Fri, 30 Oct 2026 | Rex Club | Paris |
 | Sat, 31 Oct 2026 | Mesa Verde | Luxembourg |
 | Sat, 21 Nov 2026 | Concept Haus | Manchester |
+| Thu, 3 Dec 2026 | The Pickle | Miami |
 
 ## Recently played
 
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - UNO MALTA, Malta — Thu, 17 Sept 2026
 - TBA - 75013, Paris — Sat, 5 Sept 2026
@@ -24,10 +26,9 @@ Anthea is a house and techno artist based in United Kingdom, tracked on soundche
 - Avant Garten, Buenos Aires — Wed, 12 Aug 2026
 - Starlane São Paulo, Sao Paulo — Thu, 6 Aug 2026
 - Le point fort d'Aubervilliers, Paris — Sat, 18 Jul 2026
-- Les Enfants Brillants, Barcelona — Fri, 17 Jul 2026
 
 ## Shares bills with
 
 Oshana, tINI, Astral Travel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/anthea/)*

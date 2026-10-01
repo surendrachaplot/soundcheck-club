@@ -1,14 +1,14 @@
 # The Large
 
-The Large is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Downtown, Los Angeles on Sat, 3 Oct 2026.
+The Large is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Outside, Los Angeles on Sat, 3 Oct 2026.
 
-The Large is a dancehall and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Geneva, Glasgow, Los Angeles and New York City. Often billed alongside Akanbi, Ayanna Heaven and Jubilee. Next up: TBA - Downtown, Los Angeles on Sat 3 Oct.
+The Large is a dancehall and club artist based in United States of America, tracked on soundcheck, with 26 sets logged across Geneva, Glasgow, Los Angeles and New York City. Often billed alongside Akanbi, Ayanna Heaven and Jubilee. Next up: TBA - Outside, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Downtown | Los Angeles |
+| Sat, 3 Oct 2026 | TBA - Outside | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ The Large is a dancehall and club artist based in United States of America, trac
 
 Akanbi, Ayanna Heaven, Jubilee
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thelarge/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thelarge/)*

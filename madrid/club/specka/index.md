@@ -1,8 +1,8 @@
 # Specka
 
-Specka is a music venue in Madrid with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "IN NOCTE VERITAS I Temática RENTRÉE" on Fri, 2 Oct 2026.
+Specka is a music venue in Madrid with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "IN NOCTE VERITAS I Temática RENTRÉE" on Fri, 2 Oct 2026.
 
-Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with line-ups including Anthony Rother, Belkan, Brody and Denso and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
+Specka is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with line-ups including Anthony Rother, Belkan, Brody and Denso and 2 more. Browse upcoming dates, start times and who's playing. Calle Orense, 26 bajos Madrid 28020.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Specka is a music venue in Madrid listed on soundcheck. 14 upcoming gigs, with l
 
 Calle Orense, 26 bajos Madrid 28020, Madrid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/specka/)*

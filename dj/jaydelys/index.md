@@ -1,13 +1,14 @@
 # Jay de Lys
 
-Jay de Lys is a Tech House and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Coda, Toronto on Sat, 3 Oct 2026.
+Jay de Lys is a Tech House and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at StereoBar, Montreal on Fri, 2 Oct 2026.
 
-Jay de Lys is a tech house and house artist based in Argentina, tracked on soundcheck, with 71 sets logged across Amsterdam, Athens, Barcelona and Berlin and 19 more. Often billed alongside Franky Rizardo, Joey Daniel and Easttown. Next up: Coda, Toronto on Sat 3 Oct.
+Jay de Lys is a tech house and house artist based in Argentina, tracked on soundcheck, with 72 sets logged across Amsterdam, Athens, Barcelona and Berlin and 20 more. Often billed alongside Franky Rizardo, Joey Daniel and Easttown. Next up: StereoBar, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | StereoBar | Montreal |
 | Sat, 3 Oct 2026 | Coda | Toronto |
 | Sun, 4 Oct 2026 | Floyd | Miami |
 | Fri, 16 Oct 2026 | NIX Barcelon | Barcelona |
@@ -28,4 +29,4 @@ Jay de Lys is a tech house and house artist based in Argentina, tracked on sound
 
 Franky Rizardo, Joey Daniel, Easttown
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaydelys/)*

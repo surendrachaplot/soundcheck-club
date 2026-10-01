@@ -1,6 +1,6 @@
 # AL MANDO
 
-AL MANDO is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Subcero Club, Madrid on Thu, 15 Oct 2026.
+AL MANDO is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Subcero Club, Madrid on Thu, 15 Oct 2026.
 
 AL MANDO is an electronica and house artist based in Mexico, tracked on soundcheck, with 11 sets logged across Madrid and Mexico City. Often billed alongside Alessandra Fierro, Quiñonez and Raisa. Next up: Subcero Club, Madrid on Thu 15 Oct.
 
@@ -25,4 +25,4 @@ AL MANDO is an electronica and house artist based in Mexico, tracked on soundche
 
 Alessandra Fierro, Quiñonez, Raisa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/almando/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/almando/)*

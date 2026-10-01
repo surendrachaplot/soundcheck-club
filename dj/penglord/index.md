@@ -1,13 +1,14 @@
 # Penglord
 
-Penglord is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tokonoma Club, Frankfurt on Fri, 16 Oct 2026.
+Penglord is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Monarch, Berlin on Fri, 2 Oct 2026.
 
-Penglord is a techno and house artist based in Germany, tracked on soundcheck, with 66 sets logged across Basel, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside P.Vanillaboy, EliaHaze and Hello Sasy. Next up: Tokonoma Club, Frankfurt on Fri 16 Oct.
+Penglord is a techno and house artist based in Germany, tracked on soundcheck, with 67 sets logged across Basel, Berlin, Cologne and Frankfurt and 7 more. Often billed alongside P.Vanillaboy, EliaHaze and Hello Sasy. Next up: Monarch, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Monarch | Berlin |
 | Fri, 16 Oct 2026 | Tokonoma Club | Frankfurt |
 | Sat, 28 Nov 2026 | Schrotty | Cologne |
 
@@ -26,4 +27,4 @@ Penglord is a techno and house artist based in Germany, tracked on soundcheck, w
 
 P.Vanillaboy, EliaHaze, Hello Sasy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/penglord/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/penglord/)*

@@ -1,13 +1,14 @@
 # GRUE5OME
 
-GRUE5OME is a Ghetto Tech and Neo Perreo artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+GRUE5OME is a Ghetto Tech and Neo Perreo artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Boombox, Miami on Sun, 4 Oct 2026.
 
-GRUE5OME is a ghetto tech and neo perreo artist based in United States of America, tracked on soundcheck, with 17 sets logged across Miami. Often billed alongside Racci, Lady Narcisse and Gabo Escalona. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+GRUE5OME is a ghetto tech and neo perreo artist based in United States of America, tracked on soundcheck, with 18 sets logged across Miami. Often billed alongside Racci, Lady Narcisse and Aphex Twink. Next up: The Boombox, Miami on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | The Boombox | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 
 ## Recently played
@@ -23,6 +24,6 @@ GRUE5OME is a ghetto tech and neo perreo artist based in United States of Americ
 
 ## Shares bills with
 
-Racci, Lady Narcisse, Gabo Escalona
+Racci, Lady Narcisse, Aphex Twink
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grue5ome/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grue5ome/)*

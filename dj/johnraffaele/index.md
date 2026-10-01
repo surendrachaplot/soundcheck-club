@@ -1,6 +1,6 @@
 # John Raffaele
 
-John Raffaele is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at public records, New York City on Fri, 23 Oct 2026.
+John Raffaele is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at public records, New York City on Fri, 23 Oct 2026.
 
 John Raffaele is a house and techno artist based in United States of America, tracked on soundcheck, with 76 sets logged across Austin, Barcelona, Boston and Brussels and 8 more. Often billed alongside Keen, Sweater and Rob Paine. Next up: public records, New York City on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ John Raffaele is a house and techno artist based in United States of America, tr
 
 Keen, Sweater, Rob Paine
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnraffaele/)*

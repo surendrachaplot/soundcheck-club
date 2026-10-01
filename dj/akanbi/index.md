@@ -1,14 +1,14 @@
 # Akanbi
 
-Akanbi is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Downtown, Los Angeles on Sat, 3 Oct 2026.
+Akanbi is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Outside, Los Angeles on Sat, 3 Oct 2026.
 
-Akanbi is a techno and club artist based in United States of America, tracked on soundcheck, with 123 sets logged across Amsterdam, Basel, Berlin and Bristol and 20 more. Often billed alongside The Large, Yogic and DJ Voices. Next up: TBA - Downtown, Los Angeles on Sat 3 Oct.
+Akanbi is a techno and club artist based in United States of America, tracked on soundcheck, with 123 sets logged across Amsterdam, Basel, Berlin and Bristol and 20 more. Often billed alongside The Large, Yogic and DJ Voices. Next up: TBA - Outside, Los Angeles on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA - Downtown | Los Angeles |
+| Sat, 3 Oct 2026 | TBA - Outside | Los Angeles |
 | Wed, 14 Oct 2026 | Judson Memorial Church | New York City |
 
 ## Recently played
@@ -26,4 +26,4 @@ Akanbi is a techno and club artist based in United States of America, tracked on
 
 The Large, Yogic, DJ Voices
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/akanbi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/akanbi/)*

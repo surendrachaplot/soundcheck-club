@@ -1,6 +1,6 @@
 # Niqi
 
-Niqi is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - DTLA, Los Angeles on Wed, 14 Oct 2026.
+Niqi is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - DTLA, Los Angeles on Wed, 14 Oct 2026.
 
 Niqi is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 43 sets logged across Boston, Los Angeles, Miami and New York City. Often billed alongside Xoce, Sebas FX and Ketzaal. Next up: TBA - DTLA, Los Angeles on Wed 14 Oct.
 
@@ -26,4 +26,4 @@ Niqi is a techno and minimal techno artist based in United States of America, tr
 
 Xoce, Sebas FX, Ketzaal
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/niqi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/niqi/)*

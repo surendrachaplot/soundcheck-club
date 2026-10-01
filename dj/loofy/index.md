@@ -1,14 +1,15 @@
 # Loofy
 
-Loofy is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bauhaus, Houston on Sat, 3 Oct 2026.
+Loofy is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bauhaus, Houston on Sat, 3 Oct 2026.
 
-Loofy is a tech house and house artist based in United States of America, tracked on soundcheck, with 32 sets logged across Austin, Boston, Chicago and Houston and 10 more. Often billed alongside Ale Acosta, David Guetta and Dombresky. Next up: Bauhaus, Houston on Sat 3 Oct.
+Loofy is a tech house and house artist based in United States of America, tracked on soundcheck, with 33 sets logged across Austin, Boston, Chicago and Houston and 10 more. Often billed alongside Ale Acosta, David Guetta and Dombresky. Next up: Bauhaus, Houston on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Bauhaus | Houston |
+| Fri, 16 Oct 2026 | SILO | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Loofy is a tech house and house artist based in United States of America, tracke
 
 Ale Acosta, David Guetta, Dombresky
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/loofy/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/loofy/)*

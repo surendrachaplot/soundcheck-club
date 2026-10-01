@@ -1,13 +1,14 @@
 # CONFLICT BUREAU
 
-CONFLICT BUREAU is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Model, Nottingham on Fri, 11 Dec 2026.
+CONFLICT BUREAU is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Temple Bar, Detroit on Sat, 17 Oct 2026.
 
-CONFLICT BUREAU is a house and acid artist based in United States of America, tracked on soundcheck, with 15 sets logged across Chicago, Detroit, New York City and Nottingham and 1 more. Often billed alongside Eric Schwab, Max Daley and Atrevido. Next up: The Model, Nottingham on Fri 11 Dec.
+CONFLICT BUREAU is an acid and house artist based in United States of America, tracked on soundcheck, with 16 sets logged across Chicago, Detroit, New York City and Nottingham and 1 more. Often billed alongside Dretraxx, Eric Schwab and Max Daley. Next up: Temple Bar, Detroit on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Temple Bar | Detroit |
 | Fri, 11 Dec 2026 | The Model | Nottingham |
 
 ## Recently played
@@ -23,6 +24,6 @@ CONFLICT BUREAU is a house and acid artist based in United States of America, tr
 
 ## Shares bills with
 
-Eric Schwab, Max Daley, Atrevido
+Dretraxx, Eric Schwab, Max Daley
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conflictbureau/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conflictbureau/)*

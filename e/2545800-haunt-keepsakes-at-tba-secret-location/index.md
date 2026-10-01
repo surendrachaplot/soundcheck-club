@@ -1,6 +1,6 @@
 # HAUNT: Keepsakes at TBA - SECRET LOCATION
 
-HAUNT: Keepsakes at TBA - SECRET LOCATION on Sat 31 Oct, Belfast. 3 artists on the bill: CORP (IRE), Keepsakes and Princess Glitoris. Techno. Preview the line-up and save it on soundcheck.
+HAUNT: Keepsakes at TBA - SECRET LOCATION on Sat 31 Oct, Belfast. 2 artists on the bill: CORP (IRE) and Keepsakes. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,5 @@ HAUNT: Keepsakes at TBA - SECRET LOCATION on Sat 31 Oct, Belfast. 3 artists on t
 
 - CORP (IRE)
 - Keepsakes
-- Princess Glitoris
 
 *Source: [soundcheck](https://soundcheck.club/e/2545800-haunt-keepsakes-at-tba-secret-location/)*

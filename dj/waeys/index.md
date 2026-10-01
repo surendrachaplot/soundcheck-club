@@ -1,13 +1,14 @@
 # Waeys
 
-Waeys is a Drum & Bass and Jungle artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at fabric, London on Fri, 23 Oct 2026.
+Waeys is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Thirty3hz, South-east on Fri, 2 Oct 2026.
 
-Waeys is a drum & bass and jungle artist based in Netherlands, tracked on soundcheck, with 33 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 14 more. Often billed alongside Kasra, Enei and SP:MC. Next up: fabric, London on Fri 23 Oct.
+Waeys is a drum & bass and jungle artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Antwerp, Berlin and Brighton and 15 more. Often billed alongside Kasra, Enei and SP:MC. Next up: Thirty3hz, South East on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Thirty3hz | South-east |
 | Fri, 23 Oct 2026 | fabric | London |
 | Fri, 30 Oct 2026 | Maassilo | Rotterdam |
 
@@ -26,4 +27,4 @@ Waeys is a drum & bass and jungle artist based in Netherlands, tracked on soundc
 
 Kasra, Enei, SP:MC
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waeys/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waeys/)*

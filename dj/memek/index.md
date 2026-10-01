@@ -1,6 +1,6 @@
 # Memek
 
-Memek is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Memek is a Minimal Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Memek is a minimal techno and techno artist tracked on soundcheck, with 9 sets logged across Berlin, Istanbul, Lisbon and Madrid and 1 more. Often billed alongside AISHA, ANNA and Afrojack. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Memek is a minimal techno and techno artist tracked on soundcheck, with 9 sets l
 
 AISHA, ANNA, Afrojack
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/memek/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/memek/)*

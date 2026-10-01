@@ -1,8 +1,8 @@
 # X CLUB.
 
-X CLUB. is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cité du Cinéma, Paris on Fri, 2 Oct 2026.
+X CLUB. is a Techno and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cité du Cinéma, Paris on Fri, 2 Oct 2026.
 
-X CLUB. is a techno and house artist based in Australia, tracked on soundcheck, with 225 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 65 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Cité du Cinéma, Paris on Fri 2 Oct.
+X CLUB. is a techno and house artist based in Australia, tracked on soundcheck, with 228 sets logged across Aberdeen, Amsterdam, Auckland and Austin and 66 more. Often billed alongside KETTAMA, DJ Heartstring and VTSS. Next up: Cité du Cinéma, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,8 +17,9 @@ X CLUB. is a techno and house artist based in Australia, tracked on soundcheck, 
 | Fri, 6 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 20 Nov 2026 | Roxy | Prague |
 | Sun, 22 Nov 2026 | Thuishaven | Amsterdam |
-| Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
-| Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
+| Fri, 27 Nov 2026 | De Papierfabriek | Nijmegen |
+| Sat, 28 Nov 2026 | SWG3 | Glasgow |
+| Sat, 28 Nov 2026 | SWG3 | Glasgow |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ X CLUB. is a techno and house artist based in Australia, tracked on soundcheck, 
 
 KETTAMA, DJ Heartstring, VTSS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xclub/)*

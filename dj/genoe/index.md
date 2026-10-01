@@ -1,6 +1,6 @@
 # Genoe
 
-Genoe is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
+Genoe is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lauschangriff, Berlin on Thu, 1 Oct 2026.
 
 Genoe is a bass and dubstep artist based in Germany, tracked on soundcheck, with 25 sets logged across Berlin and Prague. Often billed alongside KaraKara, Comf and Forward Sisters. Next up: Lauschangriff, Berlin on Thu 1 Oct.
 
@@ -26,4 +26,4 @@ Genoe is a bass and dubstep artist based in Germany, tracked on soundcheck, with
 
 KaraKara, Comf, Forward Sisters
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/genoe/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/genoe/)*

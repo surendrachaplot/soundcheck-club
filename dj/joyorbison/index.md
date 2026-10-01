@@ -1,8 +1,8 @@
 # Joy Orbison
 
-Joy Orbison is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
+Joy Orbison is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Sat, 10 Oct 2026.
 
-Joy Orbison is a house and techno artist based in United Kingdom, tracked on soundcheck, with 104 sets logged across Amsterdam, Athens, Barcelona and Belfast and 42 more. Often billed alongside Interplanetary Criminal, Overmono and Jyoty. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
+Joy Orbison is a house and techno artist based in United Kingdom, tracked on soundcheck, with 103 sets logged across Amsterdam, Athens, Barcelona and Belfast and 42 more. Often billed alongside Interplanetary Criminal, Overmono and Jyoty. Next up: Depot Mayfield, Manchester on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -19,14 +19,14 @@ Joy Orbison is a house and techno artist based in United Kingdom, tracked on sou
 - Knockdown Center, New York City — Sun, 6 Sept 2026
 - TBA, Toronto — Sat, 5 Sept 2026
 - Union Park, Chicago — Fri, 4 Sept 2026
-- smartbar, Chicago — Fri, 4 Sept 2026
 - RSO.BERLIN, Berlin — Sat, 8 Aug 2026
 - Sønder Hoved, Copenhagen — Thu, 30 Jul 2026
 - MoN Takanawa, Tokyo — Sat, 11 Jul 2026
 - Soap Seoul., Seoul — Fri, 10 Jul 2026
+- Colwick Country Park, Nottingham — Fri, 26 Jun 2026
 
 ## Shares bills with
 
 Interplanetary Criminal, Overmono, Jyoty
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joyorbison/)*

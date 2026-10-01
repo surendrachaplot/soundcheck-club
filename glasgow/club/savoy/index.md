@@ -1,6 +1,6 @@
 # Savoy
 
-Savoy is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "HALLOWEEN 𝐎𝐕𝐄𝐑 𝟑𝟎'𝐒 DaY PARTY IS COMING!" on Sat, 31 Oct 2026.
+Savoy is a music venue in Glasgow with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "HALLOWEEN 𝐎𝐕𝐄𝐑 𝟑𝟎'𝐒 DaY PARTY IS COMING!" on Sat, 31 Oct 2026.
 
 Savoy is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with line-ups including George Bowie and Ian Van Dahl. Browse upcoming dates, start times and who's playing. 140 Sauchiehall St, Glasgow G2 3DH.
 
@@ -15,4 +15,4 @@ Savoy is a music venue in Glasgow listed on soundcheck. 2 upcoming gigs, with li
 
 140 Sauchiehall St, Glasgow G2 3DH, Glasgow
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/savoy/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/savoy/)*

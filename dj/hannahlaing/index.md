@@ -1,14 +1,13 @@
 # Hannah Laing
 
-Hannah Laing is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ushuaïa Ibiza, Ibiza on Wed, 30 Sept 2026.
+Hannah Laing is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Hannah Laing is a techno and house artist based in United Kingdom, tracked on soundcheck, with 175 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Ushuaïa Ibiza, Ibiza on Wed 30 Sept.
+Hannah Laing is a techno and house artist based in United Kingdom, tracked on soundcheck, with 175 sets logged across Aberdeen, Amsterdam, Antwerp and Austin and 52 more. Often billed alongside Azyr, Ben Hemsley and James Hype (UK). Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Ushuaïa Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 16 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 30 Oct 2026 | Travis County Exposition Center | Austin |
@@ -20,6 +19,7 @@ Hannah Laing is a techno and house artist based in United Kingdom, tracked on so
 
 ## Recently played
 
+- Ushuaïa Ibiza, Ibiza — Wed, 30 Sept 2026
 - TBA, Los Angeles — Sun, 27 Sept 2026
 - Sub Club, Glasgow — Sun, 20 Sept 2026
 - Amnesia Ibiza, Ibiza — Mon, 14 Sept 2026
@@ -27,10 +27,9 @@ Hannah Laing is a techno and house artist based in United Kingdom, tracked on so
 - OCZKI, Warsaw — Fri, 4 Sept 2026
 - Boucher Road Fields, Belfast — Sat, 29 Aug 2026
 - Dürener Badesee, Cologne — Fri, 28 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Azyr, Ben Hemsley, James Hype (UK)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hannahlaing/)*

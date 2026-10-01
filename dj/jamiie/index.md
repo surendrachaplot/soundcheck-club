@@ -1,15 +1,17 @@
 # JAMIIE
 
-JAMIIE is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 23 Oct 2026.
+JAMIIE is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hive Club, Zurich on Sat, 10 Oct 2026.
 
-JAMIIE is a house and techno artist based in Germany, tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 23 Oct.
+JAMIIE is a house and techno artist based in Germany, tracked on soundcheck, with 102 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 27 more. Often billed alongside Black Coffee, Âme and Jimi Jules. Next up: Hive Club, Zurich on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Hive Club | Zurich |
 | Fri, 23 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Sat, 28 Nov 2026 | Luz De Gas | Barcelona |
 | Fri, 11 Dec 2026 | Fållan | Stockholm |
 
 ## Recently played
@@ -27,4 +29,4 @@ JAMIIE is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Black Coffee, Âme, Jimi Jules
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamiie/)*

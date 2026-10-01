@@ -1,8 +1,8 @@
 # Ueberrest
 
-Ueberrest is a Techno and Trance artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+Ueberrest is a Techno and Trance artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-Ueberrest is a techno and trance artist based in Switzerland, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+Ueberrest is a techno and trance artist based in Switzerland, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Kobosil, Somewhen and KUKO. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,13 +10,16 @@ Ueberrest is a techno and trance artist based in Switzerland, tracked on soundch
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA - Port of Belgrade | Belgrade |
 | Sat, 3 Oct 2026 | Blackstone Street Warehouse | Liverpool |
+| Fri, 16 Oct 2026 | Valsemøllen | Bergen |
+| Sat, 17 Oct 2026 | TBA - Heat Club | Switzerland |
 | Fri, 23 Oct 2026 | Gate Milano | Milan |
 | Sat, 24 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Sun, 25 Oct 2026 | Club Vaag | Antwerp |
+| Thu, 29 Oct 2026 | Basel Venue | Santiago |
 | Fri, 6 Nov 2026 | Public Works | San Francisco/Oakland |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
-| Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Sat, 19 Dec 2026 | Helgas Stadtpalast | Mecklenburg-vorpommern |
 
 ## Recently played
 
@@ -33,4 +36,4 @@ Ueberrest is a techno and trance artist based in Switzerland, tracked on soundch
 
 Kobosil, Somewhen, KUKO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ueberrest/)*

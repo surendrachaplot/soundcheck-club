@@ -1,13 +1,14 @@
 # Torsten
 
-Torsten is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Now&Wow, Rotterdam on Sat, 14 Nov 2026.
+Torsten is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Purgatory, Sofia on Sat, 10 Oct 2026.
 
-Torsten is a techno and trance artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Glasgow, New York City and Rotterdam and 4 more. Often billed alongside KARAH, SANTØS and TECHNIKA. Next up: Now&Wow, Rotterdam on Sat 14 Nov.
+Torsten is a techno and trance artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Glasgow, New York City and Rotterdam and 5 more. Often billed alongside KARAH, SANTØS and TECHNIKA. Next up: The Purgatory, Sofia on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | The Purgatory | Sofia |
 | Sat, 14 Nov 2026 | Now&Wow | Rotterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Torsten is a techno and trance artist based in Netherlands, tracked on soundchec
 
 KARAH, SANTØS, TECHNIKA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/torsten/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/torsten/)*

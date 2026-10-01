@@ -1,13 +1,14 @@
 # JOKA
 
-JOKA is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Vibes Glasgow, Glasgow on Sat, 31 Oct 2026.
+JOKA is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Purgatory, Sofia on Sat, 10 Oct 2026.
 
-JOKA is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Glasgow, Munich and Newcastle. Often billed alongside Alan Benn, Almedina and Buzé. Next up: Vibes Glasgow, Glasgow on Sat 31 Oct.
+JOKA is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Glasgow, Munich, Newcastle and Sofia. Often billed alongside Alan Benn, Almedina and Buzé. Next up: The Purgatory, Sofia on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | The Purgatory | Sofia |
 | Sat, 31 Oct 2026 | Vibes Glasgow | Glasgow |
 
 ## Recently played
@@ -25,4 +26,4 @@ JOKA is a techno and hardcore artist based in United Kingdom, tracked on soundch
 
 Alan Benn, Almedina (2), Buzé
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joka/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joka/)*

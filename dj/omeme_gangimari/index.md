@@ -1,13 +1,14 @@
 # omeme_gangimari
 
-omeme_gangimari is a Drum & Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at UTOPIA / DYSTOPIA, Tokyo on Fri, 9 Oct 2026.
+omeme_gangimari is a Drum & Bass and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at UTOPIA / DYSTOPIA, Tokyo on Sat, 3 Oct 2026.
 
-omeme_gangimari is a drum & bass and techno artist based in Japan, tracked on soundcheck, with 89 sets logged across Tokyo. Often billed alongside SN_Yeah, ReFuCafé and Barbie. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 9 Oct.
+omeme_gangimari is a drum & bass and techno artist based in Japan, tracked on soundcheck, with 90 sets logged across Tokyo. Often billed alongside SN_Yeah, ReFuCafé and Barbie. Next up: UTOPIA / DYSTOPIA, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Fri, 9 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ omeme_gangimari is a drum & bass and techno artist based in Japan, tracked on so
 
 SN_Yeah, ReFuCafé, Barbie
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/omeme_gangimari/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/omeme_gangimari/)*

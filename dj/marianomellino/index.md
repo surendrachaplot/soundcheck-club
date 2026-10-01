@@ -1,32 +1,32 @@
 # Mariano Mellino
 
-Mariano Mellino is a Progressive House and Techno artist with 17 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Howler, Melbourne on Sat, 3 Oct 2026.
+Mariano Mellino is a Progressive House and Techno artist with 22 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Sunshine Coast, South-australia on Fri, 2 Oct 2026.
 
-Mariano Mellino is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 83 sets logged across Amsterdam, Auckland, Barcelona and Buenos Aires and 21 more. Often billed alongside Guy J, Henry Saiz and MASANORI MORITA. Next up: Howler, Melbourne on Sat 3 Oct.
+Mariano Mellino is a progressive house and techno artist based in Argentina, tracked on soundcheck, with 88 sets logged across Amsterdam, Auckland, Barcelona and Buenos Aires and 25 more. Often billed alongside Guy J, Henry Saiz and MASANORI MORITA. Next up: TBA - Sunshine Coast, South Australia on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA - Sunshine Coast | South-australia |
+| Fri, 2 Oct 2026 | Aussie World | Queensland |
 | Sat, 3 Oct 2026 | Howler | Melbourne |
 | Sun, 4 Oct 2026 | TBA | Sydney |
 | Sun, 4 Oct 2026 | Liberty Hall | Sydney |
 | Fri, 9 Oct 2026 | The Mothership | Auckland |
 | Fri, 9 Oct 2026 | The Mothership | Auckland |
 | Sat, 10 Oct 2026 | TBA | Melbourne |
+| Sat, 10 Oct 2026 | The Northern | Byron-bay |
+| Sun, 11 Oct 2026 | The River | Perth |
 | Fri, 16 Oct 2026 | Archive | Leeds |
 | Fri, 16 Oct 2026 | TBA | Leeds |
-| Sat, 17 Oct 2026 | TBA - Over Club, PALMA DE MALLORCA. | Mallorca |
-| Sun, 18 Oct 2026 | Seaseaclub Barcelona | Barcelona |
-| Sun, 18 Oct 2026 | Seaseaclub Barcelona | Barcelona |
-| Fri, 23 Oct 2026 | Pacific Amsterdam | Amsterdam |
 
 ## Recently played
 
 - TBA, Mexico City — Sat, 26 Sept 2026
 - Pasaje America, Mexico City — Sat, 26 Sept 2026
 - Bridge Gardens, Glasgow — Sat, 26 Sept 2026
-- TBA, Madrid — Fri, 4 Sept 2026
+- TBA - Secret Location (Madrid), Madrid — Fri, 4 Sept 2026
 - Mute Malaga, Malaga — Fri, 7 Aug 2026
 - Club M2 Miami, Miami — Wed, 1 Jul 2026
 - Club M2 Miami, Miami — Wed, 1 Jul 2026
@@ -36,4 +36,4 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, tra
 
 Guy J, Henry Saiz, MASANORI MORITA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marianomellino/)*

@@ -1,14 +1,15 @@
 # 1tbsp
 
-1tbsp is a House and Electronica artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
+1tbsp is a House and Electronica artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Wollongong, NSW, Sydney on Sat, 3 Oct 2026.
 
-1tbsp is a house and electronica artist based in Australia, tracked on soundcheck, with 120 sets logged across Auckland, Austin, Barcelona and Belfast and 33 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
+1tbsp is a house and electronica artist based in Australia, tracked on soundcheck, with 121 sets logged across Atlanta, Auckland, Austin and Barcelona and 34 more. Often billed alongside Mietze Conte, SOLTERA and Killian. Next up: TBA - Wollongong, NSW, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - Wollongong, NSW | Sydney |
+| Sat, 17 Oct 2026 | Pisces | Atlanta |
 | Sun, 18 Oct 2026 | The Ground at Club Space | Miami |
 | Thu, 22 Oct 2026 | Nowadays | New York City |
 | Fri, 23 Oct 2026 | 821 Runnymede Rd | Toronto |
@@ -31,4 +32,4 @@
 
 Mietze Conte, SOLTERA, Killian
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1tbsp/)*

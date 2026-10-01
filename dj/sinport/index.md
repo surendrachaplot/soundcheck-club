@@ -1,6 +1,6 @@
 # Sin:port
 
-Sin:port is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
+Sin:port is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Renate, Berlin on Fri, 16 Oct 2026.
 
 Sin:port is a techno and house artist based in Germany, tracked on soundcheck, with 132 sets logged across Berlin, Budapest, Cologne and Frankfurt and 7 more. Often billed alongside Maurice Mino, Leon Licht and Sabura. Next up: Renate, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Sin:port is a techno and house artist based in Germany, tracked on soundcheck, w
 
 Maurice Mino, Leon Licht, Sabura
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinport/)*

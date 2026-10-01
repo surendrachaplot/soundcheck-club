@@ -1,6 +1,6 @@
 # Jude Bradshaw
 
-Jude Bradshaw is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
+Jude Bradshaw is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
 
 Jude Bradshaw is a techno and trance artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Berlin, Edinburgh, Glasgow and Leeds and 3 more. Often billed alongside D4N, Céleste and t e s t p r e s s. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Jude Bradshaw is a techno and trance artist based in United Kingdom, tracked on 
 
 D4N (1), Céleste, t e s t p r e s s
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/judebradshaw/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judebradshaw/)*

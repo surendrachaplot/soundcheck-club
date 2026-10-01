@@ -1,8 +1,8 @@
 # mad miran
 
-mad miran is a Techno and Bass artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TRAUM, Antwerp on Sat, 3 Oct 2026.
+mad miran is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TRAUM, Antwerp on Sat, 3 Oct 2026.
 
-mad miran is a techno and bass artist based in Netherlands, tracked on soundcheck, with 202 sets logged across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Identified Patient, Pariah and Skee Mask. Next up: TRAUM, Antwerp on Sat 3 Oct.
+mad miran is a techno and bass artist based in Netherlands, tracked on soundcheck, with 203 sets logged across Amsterdam, Antwerp, Athens and Bali and 43 more. Often billed alongside Identified Patient, Pariah and DjRUM. Next up: TRAUM, Antwerp on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ mad miran is a techno and bass artist based in Netherlands, tracked on soundchec
 | Sat, 24 Oct 2026 | Radio Radio | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
 | Sat, 14 Nov 2026 | Plaza Monumental de Barcelona | Barcelona |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -30,6 +31,6 @@ mad miran is a techno and bass artist based in Netherlands, tracked on soundchec
 
 ## Shares bills with
 
-Identified Patient, Pariah, Skee Mask
+Identified Patient, Pariah, DjRUM
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madmiran/)*

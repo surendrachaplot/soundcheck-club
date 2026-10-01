@@ -1,6 +1,6 @@
 # Willo at Smoke & Mirrors
 
-Willo at Smoke & Mirrors on Fri 2 Oct, Chicago. 1 artist on the bill: Willo. Techno and House. Preview the line-up and save it on soundcheck.
+Willo at Smoke & Mirrors on Fri 2 Oct, Chicago. 2 artists on the bill: bebot and Willo. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Willo at Smoke & Mirrors on Fri 2 Oct, Chicago. 1 artist on the bill: Willo. Tec
 
 ## Line-up
 
+- bebot
 - Willo
 
 *Source: [soundcheck](https://soundcheck.club/e/2523030-willo-at-smoke-mirrors/)*

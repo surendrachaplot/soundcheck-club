@@ -1,13 +1,14 @@
 # J Wax
 
-J Wax is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Circus Osaka, Osaka on Fri, 30 Oct 2026.
+J Wax is a Techno and Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bolero, Seoul on Fri, 2 Oct 2026.
 
-J Wax is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 71 sets logged across Aberdeen, Berlin, Brussels and Cork and 11 more. Often billed alongside Dansa, Provost (UK) and Et Al. Next up: Circus Osaka, Osaka on Fri 30 Oct.
+J Wax is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 72 sets logged across Aberdeen, Berlin, Brussels and Cork and 12 more. Often billed alongside Dansa, Provost (UK) and Et Al. Next up: Bolero, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Bolero | Seoul |
 | Fri, 30 Oct 2026 | Circus Osaka | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ J Wax is a techno and bass artist based in United Kingdom, tracked on soundcheck
 
 Dansa, Provost (UK), Et Al (1)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jwax/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jwax/)*

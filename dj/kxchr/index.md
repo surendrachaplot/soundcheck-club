@@ -1,14 +1,15 @@
 # KX CHR
 
-KX CHR is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
+KX CHR is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Ankara on Sat, 3 Oct 2026.
 
-KX CHR is a techno and industrial artist based in France, tracked on soundcheck, with 46 sets logged across Ankara, Athens, Belfast and Berlin and 27 more. Often billed alongside OMAKS, Alex Farell and Nik Kastel. Next up: TBA, Ankara on Sat 3 Oct.
+KX CHR is a techno and industrial artist based in France, tracked on soundcheck, with 47 sets logged across Ankara, Athens, Belfast and Berlin and 27 more. Often billed alongside OMAKS, Alex Farell and Nik Kastel. Next up: TBA, Ankara on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA | Ankara |
+| Sat, 3 Oct 2026 | TBA - CLUB MIRADOR INCEK | Ankara |
 | Fri, 16 Oct 2026 | Edelfettwerk | Hamburg |
 | Fri, 23 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
@@ -28,4 +29,4 @@ KX CHR is a techno and industrial artist based in France, tracked on soundcheck,
 
 OMAKS, Alex Farell, Nik Kastel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kxchr/)*

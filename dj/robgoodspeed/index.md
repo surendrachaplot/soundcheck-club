@@ -1,6 +1,6 @@
 # Rob Goodspeed
 
-Rob Goodspeed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Edge Seoul, Seoul on Sat, 3 Oct 2026.
+Rob Goodspeed is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Edge Seoul, Seoul on Sat, 3 Oct 2026.
 
 Rob Goodspeed is a house and techno artist based in United States of America, tracked on soundcheck, with 40 sets logged across Seoul. Often billed alongside A.Attack, Shlemba and Hansy. Next up: The Edge Seoul, Seoul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Rob Goodspeed is a house and techno artist based in United States of America, tr
 
 A.Attack, Shlemba, Hansy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robgoodspeed/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robgoodspeed/)*

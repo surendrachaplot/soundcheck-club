@@ -1,14 +1,13 @@
 # Touré
 
-Touré is a House and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at renae, Manchester on Tue, 29 Sept 2026.
+Touré is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Distrikt, Leeds on Sat, 3 Oct 2026.
 
-Touré is a house and electro artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Glasgow, Leeds, London and Manchester and 3 more. Often billed alongside Larushkin, Sleepy Jean and Antoin KMA. Next up: renae, Manchester on Tue 29 Sept.
+Touré is a house and electro artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Glasgow, Leeds, London and Manchester and 3 more. Often billed alongside Larushkin, Sleepy Jean and Antoin KMA. Next up: Distrikt, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | renae | Manchester |
 | Sat, 3 Oct 2026 | Distrikt | Leeds |
 | Fri, 16 Oct 2026 | The Loft | Manchester |
 | Sat, 31 Oct 2026 | Distrikt | Leeds |
@@ -16,6 +15,7 @@ Touré is a house and electro artist based in United Kingdom, tracked on soundch
 
 ## Recently played
 
+- renae, Manchester — Tue, 29 Sept 2026
 - TBA, Sheffield — Sat, 26 Sept 2026
 - Tola, London — Sat, 19 Sept 2026
 - Hidden, Manchester — Fri, 11 Sept 2026
@@ -23,10 +23,9 @@ Touré is a house and electro artist based in United Kingdom, tracked on soundch
 - renae, Manchester — Fri, 26 Jun 2026
 - renae, Manchester — Wed, 10 Jun 2026
 - Gut Level, Sheffield — Sat, 6 Jun 2026
-- The Old Coal Yard, Newcastle — Fri, 5 Jun 2026
 
 ## Shares bills with
 
 Larushkin, Sleepy Jean, Antoin KMA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toure/)*

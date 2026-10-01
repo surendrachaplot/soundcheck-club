@@ -1,13 +1,14 @@
 # Glowal
 
-Glowal is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Villa Blanca Lifestyle, Los Angeles on Sat, 31 Oct 2026.
+Glowal is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amsterdam Central Station, Amsterdam on Thu, 22 Oct 2026.
 
-Glowal is a techno and house artist based in Italy, tracked on soundcheck, with 52 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 23 more. Often billed alongside Miss Monique, Axel Haube and 8KAYS. Next up: Villa Blanca Lifestyle, Los Angeles on Sat 31 Oct.
+Glowal is a techno and house artist based in Italy, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 23 more. Often billed alongside Miss Monique, Axel Haube and 8KAYS. Next up: Amsterdam Central Station, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Amsterdam Central Station | Amsterdam |
 | Sat, 31 Oct 2026 | Villa Blanca Lifestyle | Los Angeles |
 
 ## Recently played
@@ -25,4 +26,4 @@ Glowal is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 Miss Monique, Axel Haube, 8KAYS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glowal/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glowal/)*

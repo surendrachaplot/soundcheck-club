@@ -1,6 +1,6 @@
 # YAI.
 
-YAI. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Output, Tokyo on Fri, 6 Nov 2026.
+YAI. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Output, Tokyo on Fri, 6 Nov 2026.
 
 YAI. is a techno and house artist based in Japan, tracked on soundcheck, with 46 sets logged across Berlin, Madrid and Tokyo. Often billed alongside ALLY, HIROKI ASANO and Shogo.. Next up: Output, Tokyo on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ YAI. is a techno and house artist based in Japan, tracked on soundcheck, with 46
 
 ALLY, HIROKI ASANO, Shogo.
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yai./)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yai./)*

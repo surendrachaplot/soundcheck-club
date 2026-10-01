@@ -1,6 +1,6 @@
 # Tdy (1)
 
-Tdy (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Radius, Chicago on Sat, 14 Nov 2026.
+Tdy (1) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Radius, Chicago on Sat, 14 Nov 2026.
 
 Tdy is a techno and house artist based in United States of America, tracked on soundcheck, with 37 sets logged across Chicago, Detroit and New York City. Often billed alongside uRaNg3L, Flores Negras and Miss Twink USA. Next up: Radius, Chicago on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Tdy is a techno and house artist based in United States of America, tracked on s
 
 uRaNg3L, Flores Negras, Miss Twink USA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tdy-1/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tdy-1/)*

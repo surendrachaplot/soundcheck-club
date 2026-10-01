@@ -1,14 +1,15 @@
 # Jasmín
 
-Jasmín is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at fabric, London on Sat, 3 Oct 2026.
+Jasmín is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at fabric, London on Sat, 3 Oct 2026.
 
-Jasmín is a techno and house artist based in Netherlands, tracked on soundcheck, with 110 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 19 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: fabric, London on Sat 3 Oct.
+Jasmín is a techno and house artist based in Netherlands, tracked on soundcheck, with 111 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 20 more. Often billed alongside mad miran, Fafi Abdel Nour and Nèna. Next up: fabric, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | fabric | London |
+| Sat, 17 Oct 2026 | Karmakoma | Belgrade |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Sun, 25 Oct 2026 | Radio Radio | Amsterdam |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
@@ -29,4 +30,4 @@ Jasmín is a techno and house artist based in Netherlands, tracked on soundcheck
 
 mad miran, Fafi Abdel Nour, Nèna
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jasmin-NL/)*

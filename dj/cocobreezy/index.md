@@ -1,6 +1,6 @@
 # Coco & Breezy
 
-Coco & Breezy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
+Coco & Breezy is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Fri, 2 Oct 2026.
 
 Coco & Breezy are a house and techno duo based in United States of America, tracked on soundcheck, with 87 sets logged across Austin, Boston, Chicago and Copenhagen and 22 more. Often billed alongside Aluna, Breezy and Eric Prydz. Next up: Amnesia Ibiza, Ibiza on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Coco & Breezy are a house and techno duo based in United States of America, trac
 
 Aluna, Breezy, Eric Prydz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cocobreezy/)*

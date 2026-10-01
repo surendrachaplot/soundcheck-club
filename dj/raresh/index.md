@@ -1,8 +1,8 @@
 # Raresh
 
-Raresh is a House and Minimal artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
+Raresh is a House and Minimal artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Sun, 4 Oct 2026.
 
-Raresh is a house and minimal artist based in Romania, tracked on soundcheck, with 195 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 42 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Amnesia Ibiza, Ibiza on Sun 4 Oct.
+Raresh is a house and minimal artist based in Romania, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 43 more. Often billed alongside Petre Inspirescu, Rhadoo and Ricardo Villalobos. Next up: Amnesia Ibiza, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,8 @@ Raresh is a house and minimal artist based in Romania, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Amnesia Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | Ministerium Club | Lisbon |
-| Thu, 22 Oct 2026 | TBA - Secret Location (Amsterdam) | Amsterdam |
+| Sat, 10 Oct 2026 | Pandora Sevilla | South |
+| Thu, 22 Oct 2026 | TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 30 Oct 2026 | FOLD | London |
 | Sat, 12 Dec 2026 | fabric | London |
@@ -30,4 +31,4 @@ Raresh is a house and minimal artist based in Romania, tracked on soundcheck, wi
 
 Petre Inspirescu, Rhadoo, Ricardo Villalobos
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/raresh/)*

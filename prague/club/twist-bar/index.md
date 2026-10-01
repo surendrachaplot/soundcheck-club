@@ -1,0 +1,13 @@
+# Twist Bar
+
+Twist Bar is a music venue in Prague with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Fungus - Adamovia, James, Máúcta" on Fri, 2 Oct 2026.
+
+Twist Bar is a music venue in Prague listed on soundcheck. 1 upcoming gig, with line-ups including Adamovia. Browse upcoming dates, start times and who's playing.
+
+## What's on
+
+| Date | Gig | Line-up |
+| --- | --- | --- |
+| Fri, 2 Oct 2026 | Fungus - Adamovia, James, Máúcta | Adamovia |
+
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/twist-bar/)*

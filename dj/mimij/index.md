@@ -1,8 +1,8 @@
 # Mimi J
 
-Mimi J is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fraser Park, Sydney on Sat, 7 Nov 2026.
+Mimi J is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fraser Park, Sydney on Sat, 7 Nov 2026.
 
-Mimi J is a house and techno artist based in Australia, tracked on soundcheck, with 65 sets logged across Sydney. Often billed alongside Bouki, Jacqui Cunningham and LEVOS. Next up: Fraser Park, Sydney on Sat 7 Nov.
+Mimi J is a house and techno artist based in Australia, tracked on soundcheck, with 66 sets logged across Sydney. Often billed alongside Bouki, Jacqui Cunningham and LEVOS. Next up: Fraser Park, Sydney on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mimi J is a house and techno artist based in Australia, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | Fraser Park | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
+| Sat, 6 Mar 2027 | White Bay Power Station | Sydney |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mimi J is a house and techno artist based in Australia, tracked on soundcheck, w
 
 Bouki, Jacqui Cunningham, LEVOS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mimij/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mimij/)*

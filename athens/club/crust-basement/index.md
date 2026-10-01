@@ -1,6 +1,6 @@
 # Crust Basement
 
-Crust Basement is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mama Athens: Feelthefyah x PEN. x RNO x Yannka" on Fri, 2 Oct 2026.
+Crust Basement is a music venue in Athens with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Mama Athens: Feelthefyah x PEN. x RNO x Yannka" on Fri, 2 Oct 2026.
 
 Crust Basement is a music venue in Athens listed on soundcheck. 2 upcoming gigs, with line-ups including Mountak, Reign Of Time and RNO. Browse upcoming dates, start times and who's playing. Protogenous 13, Athens, 10554, Greece.
 
@@ -15,4 +15,4 @@ Crust Basement is a music venue in Athens listed on soundcheck. 2 upcoming gigs,
 
 Protogenous 13, Athens, 10554, Greece, Athens
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/athens/club/crust-basement/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/athens/club/crust-basement/)*

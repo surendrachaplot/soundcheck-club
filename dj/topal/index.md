@@ -1,6 +1,6 @@
 # Topal
 
-Topal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bukanyr Boat, Prague on Fri, 30 Oct 2026.
+Topal is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bukanyr Boat, Prague on Fri, 30 Oct 2026.
 
 Topal is a house and techno artist based in Turkey, tracked on soundcheck, with 6 sets logged across Prague. Often billed alongside Blackloud, KAWA and Durgen. Next up: Bukanyr Boat, Prague on Fri 30 Oct.
 
@@ -22,4 +22,4 @@ Topal is a house and techno artist based in Turkey, tracked on soundcheck, with 
 
 Blackloud, KAWA, Durgen
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/topal/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/topal/)*

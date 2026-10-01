@@ -1,6 +1,6 @@
 # PHJ.WAV
 
-PHJ.WAV is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at People's Leisure Club, Edinburgh on Fri, 16 Oct 2026.
+PHJ.WAV is a Deep House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at People's Leisure Club, Edinburgh on Fri, 16 Oct 2026.
 
 PHJ.WAV is a deep house and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Brighton, Edinburgh, London and Manchester and 2 more. Often billed alongside Josh Wuf, Cardinal Sin and Gilez. Next up: People's Leisure Club, Edinburgh on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ PHJ.WAV is a deep house and house artist based in United Kingdom, tracked on sou
 
 Josh Wuf, Cardinal Sin, Gilez
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phj.wav/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phj.wav/)*

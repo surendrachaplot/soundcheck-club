@@ -1,0 +1,15 @@
+# Someone Sunny at Georgia Bar
+
+Someone Sunny at Georgia Bar on Fri 2 Oct, Berlin. 1 artist on the bill: Someone Sunny. House. Preview the line-up and save it on soundcheck.
+
+| Field | Value |
+| --- | --- |
+| Date | Fri, 2 Oct 2026 |
+| Venue | Georgia Bar |
+| City | Berlin |
+
+## Line-up
+
+- Someone Sunny
+
+*Source: [soundcheck](https://soundcheck.club/e/2547820-someone-sunny-at-georgia-bar/)*

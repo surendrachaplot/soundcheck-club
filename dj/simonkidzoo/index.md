@@ -1,8 +1,8 @@
 # Simon Kidzoo
 
-Simon Kidzoo is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at BRET, Amsterdam on Sat, 3 Oct 2026.
+Simon Kidzoo is a House and Tech House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BRET, Amsterdam on Sat, 3 Oct 2026.
 
-Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 33 sets logged across Amsterdam, Dublin, Ibiza and Paris and 5 more. Often billed alongside AAT (NL), Easttown and Ammé. Next up: BRET, Amsterdam on Sat 3 Oct.
+Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on soundcheck, with 34 sets logged across Amsterdam, Dublin, Ibiza and Madrid and 6 more. Often billed alongside AAT (NL), Easttown and Ammé. Next up: BRET, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on s
 | Sat, 3 Oct 2026 | BRET | Amsterdam |
 | Fri, 9 Oct 2026 | Taboo Paris | Paris |
 | Sat, 10 Oct 2026 | Paradiso | Amsterdam |
+| Thu, 22 Oct 2026 | Lula Club | Madrid |
 | Fri, 23 Oct 2026 | Sugarfactory | Amsterdam |
 | Fri, 23 Oct 2026 | Oliva | Amsterdam |
 | Sat, 24 Oct 2026 | Db55 | Amsterdam |
@@ -33,4 +34,4 @@ Simon Kidzoo is a house and tech house artist based in Netherlands, tracked on s
 
 AAT (NL), Easttown, Ammé
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkidzoo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/simonkidzoo/)*

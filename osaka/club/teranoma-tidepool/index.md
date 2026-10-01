@@ -1,6 +1,6 @@
 # Teranoma Tidepool
 
-Teranoma Tidepool is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "South Side Hotel vol.46" on Sat, 3 Oct 2026.
+Teranoma Tidepool is a music venue in Osaka with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "South Side Hotel vol.46" on Sat, 3 Oct 2026.
 
 Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 5 upcoming gigs, with line-ups including Ayato, ChottoKimoi, DJ Monchan and Mercy. and 2 more. Browse upcoming dates, start times and who's playing. 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F.
 
@@ -18,4 +18,4 @@ Teranoma Tidepool is a music venue in Osaka listed on soundcheck. 5 upcoming gig
 
 〒542-0075 Osaka, Chuo Ward, Nanbasennichimae, 4−19 池梅 ビル 4F, Osaka
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/teranoma-tidepool/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/osaka/club/teranoma-tidepool/)*

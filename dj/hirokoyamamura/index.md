@@ -1,8 +1,8 @@
 # Hiroko Yamamura
 
-Hiroko Yamamura is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Hiroko Yamamura is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Hiroko Yamamura is a techno and house artist based in United States of America, tracked on soundcheck, with 154 sets logged across Amsterdam, Austin, Bali and Barcelona and 34 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
+Hiroko Yamamura is a techno and house artist based in United States of America, tracked on soundcheck, with 157 sets logged across Amsterdam, Arkansas, Austin and Bali and 35 more. Often billed alongside Seth Troxler, Carl Craig and DJ Heather. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,21 +10,23 @@ Hiroko Yamamura is a techno and house artist based in United States of America, 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 30 Oct 2026 | Nowadays | New York City |
+| Fri, 6 Nov 2026 | The Momentary | Arkansas |
+| Fri, 13 Nov 2026 | The Cause | London |
 | Fri, 20 Nov 2026 | Public Works | San Francisco/Oakland |
 
 ## Recently played
 
 - Union Park, Chicago — Fri, 4 Sept 2026
+- smartbar, Chicago — Fri, 4 Sept 2026
 - Bassiani, Tbilisi — Sat, 15 Aug 2026
 - Burgess Park, London — Sat, 1 Aug 2026
 - Schönwalde-Glien, Grünefeld bei Berlin, Germany, Berlin — Thu, 16 Jul 2026
 - Berghain | Panorama Bar | Säule, Berlin — Sat, 4 Jul 2026
 - Den Anden Side, Copenhagen — Sat, 27 Jun 2026
 - Seaseaclub Barcelona, Barcelona — Thu, 18 Jun 2026
-- Cafeteria, Toronto — Sat, 13 Jun 2026
 
 ## Shares bills with
 
 Seth Troxler, Carl Craig, DJ Heather
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hirokoyamamura/)*

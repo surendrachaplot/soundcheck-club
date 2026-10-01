@@ -1,14 +1,14 @@
 # Shisho
 
-Shisho is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Mexico City on Sun, 4 Oct 2026.
+Shisho is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento, Mexico City on Sun, 4 Oct 2026.
 
-Shisho is a house and deep house artist based in Mexico, tracked on soundcheck, with 46 sets logged across Mexico City. Often billed alongside Gallō, Bluecommand and Astroboii. Next up: TBA, Mexico City on Sun 4 Oct.
+Shisho is a house and deep house artist based in Mexico, tracked on soundcheck, with 46 sets logged across Mexico City. Often billed alongside Gallō, Bluecommand and Astroboii. Next up: TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento, Mexico City on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sun, 4 Oct 2026 | TBA | Mexico City |
+| Sun, 4 Oct 2026 | TBA - Los detalles de la locación seran enviados por email a los titulares de los boletos antes del evento | Mexico City |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Shisho is a house and deep house artist based in Mexico, tracked on soundcheck, 
 
 Gallō, Bluecommand, Astroboii
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shisho/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shisho/)*

@@ -1,8 +1,8 @@
 # Mousse T.
 
-Mousse T. is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Fri, 9 Oct 2026.
+Mousse T. is a House and Disco artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Fri, 9 Oct 2026.
 
-Mousse T. is a house and disco artist based in Germany, tracked on soundcheck, with 90 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and MiNNA. Next up: Amnesia Ibiza, Ibiza on Fri 9 Oct.
+Mousse T. is a house and disco artist based in Germany, tracked on soundcheck, with 91 sets logged across Amsterdam, Bali, Barcelona and Berlin and 24 more. Often billed alongside Horse Meat Disco, Melvo Baptiste and MiNNA. Next up: Amnesia Ibiza, Ibiza on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Mousse T. is a house and disco artist based in Germany, tracked on soundcheck, w
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Wed, 21 Oct 2026 | Madam | Amsterdam |
 | Sat, 24 Oct 2026 | fabric | London |
+| Fri, 20 Nov 2026 | BORIS CLUB | Barcelona |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Mousse T. is a house and disco artist based in Germany, tracked on soundcheck, w
 
 Horse Meat Disco, Melvo Baptiste, MiNNA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mousset/)*

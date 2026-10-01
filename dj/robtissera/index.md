@@ -1,8 +1,8 @@
 # Rob Tissera
 
-Rob Tissera is a Trance and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ministry Of Sound, London on Sat, 10 Oct 2026.
+Rob Tissera is a Trance and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ministry Of Sound, London on Sat, 10 Oct 2026.
 
-Rob Tissera is a trance and house artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Amsterdam, Ibiza, Leeds and Liverpool and 5 more. Often billed alongside Dale Castell, Slipmatt and John Marshall. Next up: Ministry Of Sound, London on Sat 10 Oct.
+Rob Tissera is a trance and house artist based in United Kingdom, tracked on soundcheck, with 54 sets logged across Amsterdam, Ibiza, Leeds and Liverpool and 6 more. Often billed alongside Dale Castell, Slipmatt and John Marshall. Next up: Ministry Of Sound, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rob Tissera is a trance and house artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Ministry Of Sound | London |
 | Sat, 31 Oct 2026 | The Cambridge Junction | South-east |
+| Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rob Tissera is a trance and house artist based in United Kingdom, tracked on sou
 
 Dale Castell, Slipmatt, John Marshall
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robtissera/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robtissera/)*

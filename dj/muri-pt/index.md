@@ -1,14 +1,15 @@
 # MURI
 
-MURI is a House and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Seawolf Records Barcelona, Barcelona on Fri, 9 Oct 2026.
+MURI is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Seawolf Records Barcelona, Barcelona on Fri, 9 Oct 2026.
 
-MURI is a house and minimal artist tracked on soundcheck, with 107 sets logged across Amsterdam, Barcelona, Dublin and Lisbon and 2 more. Often billed alongside Lou de Melo, Better Call Karll and Kee_ko. Next up: Seawolf Records Barcelona, Barcelona on Fri 9 Oct.
+MURI is a house and minimal artist based in Brazil, tracked on soundcheck, with 108 sets logged across Amsterdam, Barcelona, Dublin and Lisbon and 2 more. Often billed alongside Lou de Melo, Better Call Karll and Kee_ko. Next up: Seawolf Records Barcelona, Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Seawolf Records Barcelona | Barcelona |
+| Fri, 9 Oct 2026 | TBA - High-Fidelity Private  Bar (C/ Badajoz 115) | Barcelona |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MURI is a house and minimal artist tracked on soundcheck, with 107 sets logged a
 
 Lou de Melo, Better Call Karll, Kee_ko
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/muri-pt/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/muri-pt/)*

@@ -1,6 +1,6 @@
 # BAAROOM Radio Corner presents DISCHI & FOCACCE with Colaps, Gefra, John's - FREE ENTRY at TBA - Focà London
 
-BAAROOM Radio Corner presents DISCHI & FOCACCE with Colaps, Gefra, John's - FREE ENTRY at TBA - Focà London on Sat 3 Oct, London. 4 artists on the bill: Colaps, Gefra, John's and Ricky Tenaglia. House and Disco. Preview the line-up and save it on soundcheck.
+BAAROOM Radio Corner presents DISCHI & FOCACCE with Colaps, Gefra, John's - FREE ENTRY at TBA - Focà London on Sat 3 Oct, London. 5 artists on the bill: Colaps, Gefra, John's and Misura and 1 more. House and Disco. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ BAAROOM Radio Corner presents DISCHI & FOCACCE with Colaps, Gefra, John's - FREE
 - Colaps
 - Gefra
 - John's
+- Misura
 - Ricky Tenaglia
 
 *Source: [soundcheck](https://soundcheck.club/e/2545397-baaroom-radio-corner-presents-dischi-focacce-with-colaps-gef/)*

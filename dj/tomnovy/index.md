@@ -1,8 +1,8 @@
 # Tom Novy
 
-Tom Novy is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Badhuis Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+Tom Novy is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Badhuis Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-Tom Novy is a house and disco artist based in Germany, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Düsseldorf and Manchester and 2 more. Often billed alongside CHOOSE WHITE, Felipe de M. and Dan Mlinar. Next up: Badhuis Amsterdam, Amsterdam on Fri 23 Oct.
+Tom Novy is a house and disco artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Düsseldorf and Manchester and 2 more. Often billed alongside CHOOSE WHITE, Felipe de M. and Dan Mlinar. Next up: Badhuis Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Tom Novy is a house and disco artist based in Germany, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Badhuis Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Loop51 | Amsterdam |
+| Sat, 31 Oct 2026 | MH5 Rooftop | Munich |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Tom Novy is a house and disco artist based in Germany, tracked on soundcheck, wi
 
 CHOOSE WHITE, Felipe de M., Dan Mlinar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomnovy/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomnovy/)*

@@ -1,17 +1,18 @@
 # Jade
 
-Jade is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Mon, 28 Sept 2026.
+Jade is a Techno and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Nulab Chengdu, Chengdu on Fri, 16 Oct 2026.
 
-Jade is a techno and drum & bass artist based in Lebanon, tracked on soundcheck, with 28 sets logged across Amsterdam, Bangkok, Berlin and Bristol and 12 more. Often billed alongside DJ Marky, Ed Rush and Kasra. Next up: Hï Ibiza, Ibiza on Mon 28 Sept.
+Jade is a techno and drum & bass artist based in Lebanon, tracked on soundcheck, with 29 sets logged across Amsterdam, Bangkok, Berlin and Bristol and 13 more. Often billed alongside DJ Marky, Ed Rush and Kasra. Next up: Nulab Chengdu, Chengdu on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Hï Ibiza | Ibiza |
+| Fri, 16 Oct 2026 | Nulab Chengdu | Chengdu |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Mon, 28 Sept 2026
 - TBA - AMBER ROOFTOP & CLUB, Bangkok — Fri, 24 Jul 2026
 - SASS Music Club, Vienna — Fri, 15 May 2026
 - Salon Daomé, Montreal — Fri, 3 Apr 2026
@@ -19,10 +20,9 @@ Jade is a techno and drum & bass artist based in Lebanon, tracked on soundcheck,
 - Melkweg, Amsterdam — Mon, 24 Mar 2025
 - TBA - WAUSAN-RO 90, Seoul — Sat, 16 Nov 2024
 - Système, Montreal — Thu, 14 Nov 2024
-- The Lucky Cat, Sydney — Sat, 12 Oct 2024
 
 ## Shares bills with
 
 DJ Marky, Ed Rush, Kasra
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jade/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jade/)*

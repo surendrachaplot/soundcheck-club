@@ -1,6 +1,6 @@
 # Frank Kvitta
 
-Frank Kvitta is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fabrik, Madrid on Sat, 14 Nov 2026.
+Frank Kvitta is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrik, Madrid on Sat, 14 Nov 2026.
 
 Frank Kvitta is a techno and tech house artist based in Germany, tracked on soundcheck, with 13 sets logged across Amsterdam, Barcelona, Cologne and Frankfurt and 2 more. Often billed alongside CESAR ALMENA, Flo Circus and Nuke. Next up: Fabrik, Madrid on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ Frank Kvitta is a techno and tech house artist based in Germany, tracked on soun
 
 CESAR ALMENA, Flo Circus, Nuke
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankkvitta/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankkvitta/)*

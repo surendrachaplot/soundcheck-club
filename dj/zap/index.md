@@ -1,8 +1,8 @@
 # Z@p
 
-Z@p is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Z@p is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 123 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 33 more. Often billed alongside Unai Trotti, Junki Inoue and Vass. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -11,12 +11,14 @@ Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 1
 | Wed, 30 Sept 2026 | Chalkidiki, Kalamitsi, Thalatta Camp | Greece |
 | Sat, 10 Oct 2026 | Buda BXL | Brussels |
 | Sat, 17 Oct 2026 | Concept Haus | Manchester |
+| Fri, 23 Oct 2026 | Ring | Seoul |
 | Sat, 24 Oct 2026 | WOMB | Tokyo |
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 28 Nov 2026 | Les Enfants Brillants | Barcelona |
 
 ## Recently played
 
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
 - FOLD, London — Sat, 26 Sept 2026
 - Le 211, Paris — Sat, 19 Sept 2026
 - Nitsa Club, Barcelona — Fri, 18 Sept 2026
@@ -24,10 +26,9 @@ Z@p is a techno and house artist based in Uruguay, tracked on soundcheck, with 1
 - FOLD, London — Fri, 21 Aug 2026
 - Blow, Buenos Aires — Sat, 25 Jul 2026
 - Fünk, Mexico City — Fri, 17 Jul 2026
-- Studio Stereo, Barcelona — Sat, 4 Jul 2026
 
 ## Shares bills with
 
 Unai Trotti, Junki Inoue, Vass
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zap/)*

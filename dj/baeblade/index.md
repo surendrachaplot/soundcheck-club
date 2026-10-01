@@ -1,13 +1,14 @@
 # Bae Blade
 
-Bae Blade is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at ÆDEN, Berlin on Sat, 24 Oct 2026.
+Bae Blade is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Liquid Club, Malta on Sat, 17 Oct 2026.
 
-Bae Blade is a techno and trance artist tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Janis Zielinski, Cleopard2000 and Juicy Romance. Next up: ÆDEN, Berlin on Sat 24 Oct.
+Bae Blade is a techno and trance artist tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Basel and Berlin and 21 more. Often billed alongside Janis Zielinski, Cleopard2000 and Juicy Romance. Next up: Liquid Club, Malta on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Liquid Club | Malta |
 | Sat, 24 Oct 2026 | ÆDEN | Berlin |
 | Sat, 7 Nov 2026 | KALT | Strasbourg |
 
@@ -26,4 +27,4 @@ Bae Blade is a techno and trance artist tracked on soundcheck, with 104 sets log
 
 Janis Zielinski, Cleopard2000, Juicy Romance
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baeblade/)*

@@ -1,6 +1,6 @@
 # Jeena
 
-Jeena is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Atemporal, Berlin on Sun, 4 Oct 2026.
+Jeena is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Atemporal, Berlin on Sun, 4 Oct 2026.
 
 Jeena is an ambient and experimental artist tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Copenhagen and Seoul. Often billed alongside Keeptress, Blu:sh and DINA. Next up: Atemporal, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Jeena is an ambient and experimental artist tracked on soundcheck, with 34 sets 
 
 Keeptress, Blu:sh, DINA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeena/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeena/)*

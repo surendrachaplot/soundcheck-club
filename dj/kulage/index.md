@@ -1,14 +1,15 @@
 # Kulage
 
-Kulage is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mogra, Tokyo on Sun, 11 Oct 2026.
+Kulage is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mogra, Tokyo on Sun, 11 Oct 2026.
 
-Kulage is a techno and house artist based in Japan, tracked on soundcheck, with 111 sets logged across Seoul and Tokyo. Often billed alongside WAKA XINXI, DJ AKi and YELLOCK. Next up: Mogra, Tokyo on Sun 11 Oct.
+Kulage is a techno and house artist based in Japan, tracked on soundcheck, with 112 sets logged across Seoul and Tokyo. Often billed alongside WAKA XINXI, DJ AKi and YELLOCK. Next up: Mogra, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Mogra | Tokyo |
+| Sat, 17 Oct 2026 | WOMB | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kulage is a techno and house artist based in Japan, tracked on soundcheck, with 
 
 WAKA XINXI, DJ AKi, YELLOCK
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kulage/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kulage/)*

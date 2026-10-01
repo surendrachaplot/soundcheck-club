@@ -1,8 +1,8 @@
 # DJ Para
 
-DJ Para is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Planet Wax, London on Sat, 17 Oct 2026.
+DJ Para is a Garage and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Planet Wax, London on Sat, 17 Oct 2026.
 
-DJ Para is a garage and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Daniel Ward, Hermit and Alfie Hart. Next up: Planet Wax, London on Sat 17 Oct.
+DJ Para is a garage and house artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Daniel Ward, Hermit and Ray Hurley. Next up: Planet Wax, London on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ DJ Para is a garage and house artist based in United Kingdom, tracked on soundch
 
 ## Shares bills with
 
-Daniel Ward, Hermit, Alfie Hart
+Daniel Ward, Hermit, Ray Hurley
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djpara-uk/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djpara-uk/)*

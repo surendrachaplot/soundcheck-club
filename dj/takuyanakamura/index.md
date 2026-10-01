@@ -1,8 +1,8 @@
 # Takuya Nakamura
 
-Takuya Nakamura is a Jungle and Jazz artist with 24 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
+Takuya Nakamura is a Jungle and Jazz artist with 25 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Carriageworks, Sydney on Sat, 3 Oct 2026.
 
-Takuya Nakamura is a jungle and jazz artist based in Japan, tracked on soundcheck, with 120 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Carriageworks, Sydney on Sat 3 Oct.
+Takuya Nakamura is a jungle and jazz artist based in Japan, tracked on soundcheck, with 121 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 40 more. Often billed alongside rmzi, Aanandi and Doc Scott. Next up: Carriageworks, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,10 +16,10 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, tracked on soundchec
 | Fri, 16 Oct 2026 | New Century Locker | Manchester |
 | Sat, 17 Oct 2026 | EartH | London |
 | Sun, 18 Oct 2026 | Gretchen | Berlin |
+| Wed, 21 Oct 2026 | Melkweg | Amsterdam |
 | Thu, 22 Oct 2026 | main room | Paris |
 | Sat, 24 Oct 2026 | Sub Club | Glasgow |
 | Sun, 25 Oct 2026 | Sneaky Pete's | Edinburgh |
-| Fri, 30 Oct 2026 | The Limelight | Belfast |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Takuya Nakamura is a jungle and jazz artist based in Japan, tracked on soundchec
 
 rmzi, Aanandi, Doc Scott
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takuyanakamura/)*

@@ -1,17 +1,19 @@
 # Confidential Recipe
 
-Confidential Recipe is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Confidential Recipe is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Antisistema, Bogot on Sat, 3 Oct 2026.
 
-Confidential Recipe is a techno and house artist based in Colombia, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 5 more. Often billed alongside Marcos in Dub, CARAVEL and CESAR ALMENA. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Confidential Recipe is a techno and house artist based in Colombia, tracked on soundcheck, with 26 sets logged across Amsterdam, Barcelona, Berlin and Bogot and 6 more. Often billed alongside Marcos in Dub, Adriana Lopez and CARAVEL. Next up: Antisistema, Bogot on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Antisistema | Bogot |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
 | Sat, 24 Oct 2026 | Kater | Berlin |
 | Sun, 1 Nov 2026 | Nazca Club | Madrid |
+| Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
 
 ## Recently played
 
@@ -26,6 +28,6 @@ Confidential Recipe is a techno and house artist based in Colombia, tracked on s
 
 ## Shares bills with
 
-Marcos in Dub, CARAVEL, CESAR ALMENA
+Marcos in Dub, Adriana Lopez, CARAVEL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/confidentialrecipe/)*

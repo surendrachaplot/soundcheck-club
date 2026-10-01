@@ -1,6 +1,6 @@
 # OBA+FLIP
 
-OBA+FLIP is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Signal, New York City on Sat, 17 Oct 2026.
+OBA+FLIP is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Signal, New York City on Sat, 17 Oct 2026.
 
 OBA+FLIP is a house and deep house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Berlin and New York City. Often billed alongside Lovecraft, Daniel Cowel and Mira. Next up: Signal, New York City on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ OBA+FLIP is a house and deep house artist based in United States of America, tra
 
 Lovecraft, Daniel Cowel, Mira
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/obaflip/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/obaflip/)*

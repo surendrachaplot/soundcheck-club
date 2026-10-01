@@ -1,6 +1,6 @@
 # Etienne Groh
 
-Etienne Groh is a Experimental and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at renae, Manchester on Sat, 24 Oct 2026.
+Etienne Groh is a Experimental and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at renae, Manchester on Sat, 24 Oct 2026.
 
 Etienne Groh is an experimental and tech house artist based in France, tracked on soundcheck, with 16 sets logged across Manchester. Often billed alongside Nikol, Cersy and Opul. Next up: renae, Manchester on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Etienne Groh is an experimental and tech house artist based in France, tracked o
 
 Nikol, Cersy, Opul
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennegroh/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/etiennegroh/)*

@@ -1,6 +1,6 @@
 # Mera Bhai
 
-Mera Bhai is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
+Mera Bhai is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paradiso, Amsterdam on Thu, 22 Oct 2026.
 
 Mera Bhai is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Glasgow, London and Los Angeles and 2 more. Often billed alongside Lawrence Hart, Raji Rags and Raidaa. Next up: Paradiso, Amsterdam on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Mera Bhai is a house and electronica artist based in United Kingdom, tracked on 
 
 Lawrence Hart, Raji Rags, Raidaa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/merabhai/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/merabhai/)*

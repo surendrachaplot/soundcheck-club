@@ -1,6 +1,6 @@
 # Detlef
 
-Detlef is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fabrik, Madrid on Sat, 31 Oct 2026.
+Detlef is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrik, Madrid on Sat, 31 Oct 2026.
 
 Detlef is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 79 sets logged across Athens, Austin, Barcelona and Brighton and 22 more. Often billed alongside Joey Daniel, Late Replies and Latmun. Next up: Fabrik, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Detlef is a tech house and house artist based in United Kingdom, tracked on soun
 
 Joey Daniel, Late Replies, Latmun
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detlef/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detlef/)*

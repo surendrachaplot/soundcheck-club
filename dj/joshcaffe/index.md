@@ -1,6 +1,6 @@
 # Josh Caffé
 
-Josh Caffé is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
+Josh Caffé is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
 
 Josh Caffé is a house and techno artist based in United Kingdom, tracked on soundcheck, with 154 sets logged across Amsterdam, Antwerp, Bali and Bangkok and 38 more. Often billed alongside Hannah Holland, NIKS and BASHKKA. Next up: Green Room NYC, New York City on Fri 2 Oct.
 
@@ -32,4 +32,4 @@ Josh Caffé is a house and techno artist based in United Kingdom, tracked on sou
 
 Hannah Holland, NIKS, BASHKKA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshcaffe/)*

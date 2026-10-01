@@ -1,8 +1,8 @@
 # Stage and Radio
 
-Stage and Radio is a music venue in Manchester with 27 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Figure 8" on Thu, 1 Oct 2026.
+Stage and Radio is a music venue in Manchester with 27 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Figure 8" on Thu, 1 Oct 2026.
 
-Stage and Radio is a music venue in Manchester listed on soundcheck. 27 upcoming gigs, with line-ups including adamine, AJ Jonesy, Ali Roche and Anah and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
+Stage and Radio is a music venue in Manchester listed on soundcheck. 27 upcoming gigs, with line-ups including adamine, AJC (UK), AJ Jonesy and Ali Roche and 2 more. Browse upcoming dates, start times and who's playing. 43 Port St, Manchester M1 2EQ.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Stage and Radio is a music venue in Manchester listed on soundcheck. 27 upcoming
 | Fri, 9 Oct 2026 | Modular: Techno / Acid / Electronic |  |
 | Fri, 9 Oct 2026 | Face2Face - Stage & Radio |  |
 | Sat, 10 Oct 2026 | Rave Princess - Another Year of Reign |  |
-| Sat, 10 Oct 2026 | SubHarmonic: Jungle & Jazz | Sweetly, adamine, simmo |
-| Thu, 15 Oct 2026 | Sublevel Shutdown - Manchester DNB Rave at Stage + Radio |  |
+| Sat, 10 Oct 2026 | [SOLD OUT] SubHarmonic: Jungle & Jazz | Sweetly, adamine, simmo |
+| Thu, 15 Oct 2026 | Sublevel Shutdown - Manchester DNB Rave at Stage + Radio | AJC (UK), Maggy B |
 | Fri, 16 Oct 2026 | Love is the answer...presents BEN PARK at Stage & Radio [FREE RAVE] | j:me |
 
 ## Address
 
 43 Port St, Manchester M1 2EQ, Manchester
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/manchester/club/stage-and-radio/)*

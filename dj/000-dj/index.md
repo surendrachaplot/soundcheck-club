@@ -1,13 +1,14 @@
 # 000 (DJ)
 
-000 (DJ) is a House and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Shibuya OTO, Tokyo on Sun, 11 Oct 2026.
+000 (DJ) is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cakeshop, Seoul on Sun, 4 Oct 2026.
 
-000 (DJ) is a house and r&b artist based in Italy, tracked on soundcheck, with 12 sets logged across Athens, London and Tokyo. Often billed alongside DJ B2B, 35DH-1 and Afrojack. Next up: Shibuya OTO, Tokyo on Sun 11 Oct.
+000 (DJ) is a hip-hop and house artist based in Italy, tracked on soundcheck, with 13 sets logged across Athens, London, Seoul and Tokyo. Often billed alongside DJ B2B, 35DH-1 and Afrojack. Next up: Cakeshop, Seoul on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | Cakeshop | Seoul |
 | Sun, 11 Oct 2026 | Shibuya OTO | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@
 
 DJ B2B, 35DH-1, Afrojack
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/000-dj/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/000-dj/)*

@@ -1,6 +1,6 @@
 # Tyrel Williams
 
-Tyrel Williams is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 7 Oct 2026.
+Tyrel Williams is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at F8 1192 Folsom, San Francisco/Oakland on Wed, 7 Oct 2026.
 
 Tyrel Williams is a house and acid artist based in United States of America, tracked on soundcheck, with 55 sets logged across Berlin, Chicago, Detroit and Los Angeles and 5 more. Often billed alongside Solar, C.L.A.W.S. and Mozhgan. Next up: F8 1192 Folsom, San Francisco/Oakland on Wed 7 Oct.
 
@@ -26,4 +26,4 @@ Tyrel Williams is a house and acid artist based in United States of America, tra
 
 Solar, C.L.A.W.S., Mozhgan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrelwilliams/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tyrelwilliams/)*

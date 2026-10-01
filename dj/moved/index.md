@@ -1,13 +1,14 @@
 # Move D
 
-Move D is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fraser Park, Sydney on Sat, 7 Nov 2026.
+Move D is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fünk, Mexico City on Sat, 24 Oct 2026.
 
-Move D is a house and techno artist based in Germany, tracked on soundcheck, with 148 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Robert Drewek, Prosumer and Discrete Circuit. Next up: Fraser Park, Sydney on Sat 7 Nov.
+Move D is a house and techno artist based in Germany, tracked on soundcheck, with 149 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 41 more. Often billed alongside Robert Drewek, Prosumer and Discrete Circuit. Next up: Fünk, Mexico City on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 24 Oct 2026 | Fünk | Mexico City |
 | Sat, 7 Nov 2026 | Fraser Park | Sydney |
 | Fri, 20 Nov 2026 | Verbier | Switzerland |
 
@@ -26,4 +27,4 @@ Move D is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Robert Drewek, Prosumer, Discrete Circuit
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moved/)*

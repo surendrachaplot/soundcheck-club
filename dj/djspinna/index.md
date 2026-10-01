@@ -1,6 +1,6 @@
 # DJ Spinna
 
-DJ Spinna is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mess Hall, Washington DC on Sun, 18 Oct 2026.
+DJ Spinna is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mess Hall, Washington DC on Sun, 18 Oct 2026.
 
 DJ Spinna is a house and funk / soul artist based in United States of America, tracked on soundcheck, with 109 sets logged across Amsterdam, Auckland, Bali and Barcelona and 18 more. Often billed alongside merlin bobb, Francois K and Kenny Dope. Next up: Mess Hall, Washington DC on Sun 18 Oct.
 
@@ -26,4 +26,4 @@ DJ Spinna is a house and funk / soul artist based in United States of America, t
 
 merlin bobb, Francois K, Kenny Dope
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinna/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djspinna/)*

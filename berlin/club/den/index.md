@@ -1,16 +1,16 @@
 # ÆDEN
 
-ÆDEN is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "ＬＩＬＩＴＨ ✦ 5€ PRE-SALE" on Wed, 30 Sept 2026.
+ÆDEN is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Complice x Loophole — INTERSTICE (Berlin)" on Thu, 1 Oct 2026.
 
-ÆDEN is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including 4NOUK, YOVA, Acierate and Amo (IT) and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
+ÆDEN is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including 4NOUK, YOVA, Aaron Blau and Acierate and 2 more. Browse upcoming dates, start times and who's playing. Schleusenufer 2, 10997 Berlin.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | ＬＩＬＩＴＨ ✦ 5€ PRE-SALE | ANTRO, KEROSENE (ZA), Melchiorr, Quolcat |
 | Thu, 1 Oct 2026 | Complice x Loophole — INTERSTICE (Berlin) | D.E.S Fr, EMIRA, Ian Maur, Iman Janes, KALI (FR), Oktobr, Sicion, Sinesthesia, TEHOTU |
-| Fri, 2 Oct 2026 | ＬＩＬＩＴＨ ✦ | Ayham, Dj Fugitive, Manrick Stapez, Romina Mazzini, The Camel, Vaccaro |
+| Fri, 2 Oct 2026 | ＬＩＬＩＴＨ ✦ GROOVE AFFAIRS IV | Ayham, Dj Fugitive, Manrick Stapez, Romina Mazzini, The Camel, Vaccaro |
+| Thu, 8 Oct 2026 | BLACK OWLS - TECHNO and D'N'B | ALIS., ANDI A., Deskai, Lola Brennt |
 | Fri, 9 Oct 2026 | SYNOID | Acierate, Nanzhen Yang |
 | Fri, 9 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | Cmba, GUS (4), Isa Castelari, N3LYSTAR, SILVASURFER, SZAL, auto_timer |
 | Sat, 10 Oct 2026 | Pikante x SYNTHX  | 4NOUK, Amo (IT), Bruno Brero, DDUCATI, DSC7, GM1 (IT), Hanne B, JUICY (DE), Listenblondie, Pønti, Vaneska, YOVA, sterni (DE), subcutan |
@@ -23,4 +23,4 @@
 
 Schleusenufer 2, 10997 Berlin, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/den/)*

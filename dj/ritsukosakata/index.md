@@ -1,13 +1,14 @@
 # Ritsuko Sakata
 
-Ritsuko Sakata is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Daphnia, Osaka on Sat, 17 Oct 2026.
+Ritsuko Sakata is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Spread, Tokyo on Fri, 16 Oct 2026.
 
-Ritsuko Sakata is an experimental and electronica artist based in Japan, tracked on soundcheck, with 18 sets logged across Berlin, Osaka and Tokyo. Often billed alongside BOTSU AkA NGS, Cal Lyall and Demsky. Next up: Club Daphnia, Osaka on Sat 17 Oct.
+Ritsuko Sakata is an experimental and electronica artist based in Japan, tracked on soundcheck, with 19 sets logged across Berlin, Osaka and Tokyo. Often billed alongside BOTSU AkA NGS, Cal Lyall and Demsky. Next up: Spread, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Spread | Tokyo |
 | Sat, 17 Oct 2026 | Club Daphnia | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ Ritsuko Sakata is an experimental and electronica artist based in Japan, tracked
 
 BOTSU AkA NGS, Cal Lyall, Demsky
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ritsukosakata/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ritsukosakata/)*

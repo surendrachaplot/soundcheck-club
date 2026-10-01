@@ -1,8 +1,8 @@
 # Lena Willikens
 
-Lena Willikens is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Lena Willikens is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Lena Willikens is a techno and house artist based in Germany, tracked on soundcheck, with 213 sets logged across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Lena Willikens is a techno and house artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Athens and Bali and 61 more. Often billed alongside Vladimir Ivkovic, Moopie and Elena Colombi. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -19,10 +19,11 @@ Lena Willikens is a techno and house artist based in Germany, tracked on soundch
 | Fri, 30 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 6 Nov 2026 | Beursschouwburg | Brussels |
 | Sat, 7 Nov 2026 | The DBA | Manchester |
-| Sat, 21 Nov 2026 | Cadavra | Madrid |
+| Sat, 14 Nov 2026 | Karmakoma | Belgrade |
 
 ## Recently played
 
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
 - Bar Part Time, San Francisco/Oakland — Fri, 25 Sept 2026
 - TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
 - Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
@@ -30,10 +31,9 @@ Lena Willikens is a techno and house artist based in Germany, tracked on soundch
 - M.O.T, London — Sat, 12 Sept 2026
 - Bar Part Time, San Francisco/Oakland — Sat, 12 Sept 2026
 - Salon des Amateurs, Düsseldorf — Sat, 22 Aug 2026
-- BAR Inc, Osaka — Fri, 10 Jul 2026
 
 ## Shares bills with
 
 Vladimir Ivkovic, Moopie, Elena Colombi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lenawillikens/)*

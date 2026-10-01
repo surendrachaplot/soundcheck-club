@@ -1,14 +1,14 @@
 # Somewhen
 
-Somewhen is a Techno and Trance artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Mon, 28 Sept 2026.
+Somewhen is a Techno and Trance artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Strasse E, Dresden on Fri, 2 Oct 2026.
 
-Somewhen is a techno and trance artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 60 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Amnesia Ibiza, Ibiza on Mon 28 Sept.
+Somewhen is a techno and trance artist based in Germany, tracked on soundcheck, with 216 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 61 more. Often billed alongside Kobosil, Clara Cuvé and In Verruf. Next up: Strasse E, Dresden on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | Amnesia Ibiza | Ibiza |
+| Fri, 2 Oct 2026 | Strasse E | Dresden |
 | Sat, 3 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 17 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 23 Oct 2026 | Nordstern | Basel |
@@ -19,9 +19,11 @@ Somewhen is a techno and trance artist based in Germany, tracked on soundcheck, 
 | Sat, 14 Nov 2026 | Hans Bunte Areal | Freiburg |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
 | Wed, 30 Dec 2026 | Brussels Expo | Brussels |
+| Sat, 13 Mar 2027 | DSTRKT Club Berlin | Berlin |
 
 ## Recently played
 
+- Amnesia Ibiza, Ibiza — Mon, 28 Sept 2026
 - Westhafen, Leipzig — Sat, 19 Sept 2026
 - Escala25, Lisbon — Sun, 13 Sept 2026
 - Zenith - Die Kulturhalle, Munich — Sat, 12 Sept 2026
@@ -29,10 +31,9 @@ Somewhen is a techno and trance artist based in Germany, tracked on soundcheck, 
 - 1201 Franklin St, Vancouver — Sat, 5 Sept 2026
 - Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
 - Marienbergpark, Nürnberg — Sat, 29 Aug 2026
-- Dürener Badesee, Cologne — Fri, 28 Aug 2026
 
 ## Shares bills with
 
 Kobosil, Clara Cuvé, In Verruf
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somewhen/)*

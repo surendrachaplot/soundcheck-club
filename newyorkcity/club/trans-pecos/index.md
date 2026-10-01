@@ -1,6 +1,6 @@
 # Trans-Pecos
 
-Trans-Pecos is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SONIC PALETTES" on Fri, 23 Oct 2026.
+Trans-Pecos is a music venue in New York City with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SONIC PALETTES" on Fri, 23 Oct 2026.
 
 Trans-Pecos is a music venue in New York City listed on soundcheck. 2 upcoming gigs, with line-ups including ARCHANGEL (US), Bodegaparty, g.io and Griffin Maxwell Brooks and 2 more. Browse upcoming dates, start times and who's playing. 9-15 Wyckoff Ave, Queens, NY 11385.
 
@@ -15,4 +15,4 @@ Trans-Pecos is a music venue in New York City listed on soundcheck. 2 upcoming g
 
 9-15 Wyckoff Ave, Queens, NY 11385, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/trans-pecos/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/trans-pecos/)*

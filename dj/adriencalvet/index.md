@@ -1,6 +1,6 @@
 # Adrien Calvet
 
-Adrien Calvet is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cafe La Palma, Madrid on Sat, 3 Oct 2026.
+Adrien Calvet is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cafe La Palma, Madrid on Sat, 3 Oct 2026.
 
 Adrien Calvet is a house and techno artist based in France, tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 18 more. Often billed alongside Emi Ömar, HearThug and Occibel. Next up: Cafe La Palma, Madrid on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Adrien Calvet is a house and techno artist based in France, tracked on soundchec
 
 Emi Ömar, HearThug, Occibel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adriencalvet/)*

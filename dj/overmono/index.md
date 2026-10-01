@@ -1,8 +1,8 @@
 # Overmono
 
-Overmono is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Radius, Chicago on Thu, 8 Oct 2026.
+Overmono is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Radius, Chicago on Thu, 8 Oct 2026.
 
-Overmono is a techno and house artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Aberdeen, Amsterdam, Athens and Austin and 47 more. Often billed alongside Nia Archives, KI/KI and Ewan McVicar. Next up: Radius, Chicago on Thu 8 Oct.
+Overmono is a techno and house artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Aberdeen, Amsterdam, Athens and Austin and 47 more. Often billed alongside Nia Archives, KI/KI and Ewan McVicar. Next up: Radius, Chicago on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Overmono is a techno and house artist based in United Kingdom, tracked on soundc
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Thu, 31 Dec 2026 | Brisbane Showgrounds | Brisbane |
 | Sat, 2 Jan 2027 | Arena Joondalup | Perth |
+| Fri, 8 Jan 2027 | Carriageworks | Sydney |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Overmono is a techno and house artist based in United Kingdom, tracked on soundc
 
 Nia Archives, KI/KI, Ewan McVicar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overmono/)*

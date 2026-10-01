@@ -1,24 +1,25 @@
 # GiGi FM
 
-GiGi FM is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+GiGi FM is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tender, Melbourne on Fri, 2 Oct 2026.
 
-GiGi FM is a techno and house artist tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Athens and Bangkok and 48 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+GiGi FM is a techno and house artist tracked on soundcheck, with 174 sets logged across Adelaide, Amsterdam, Antwerp and Athens and 51 more. Often billed alongside Altinbas, Polygonia and DVS1. Next up: Tender, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Tender | Melbourne |
 | Sat, 3 Oct 2026 | Sidney Myer Music Bowl | Melbourne |
 | Sun, 4 Oct 2026 | Cockatoo Island | Sydney |
+| Fri, 9 Oct 2026 | Ancient World | Adelaide |
+| Sat, 10 Oct 2026 | TBA | Perth |
+| Sat, 10 Oct 2026 | TBA - Warehouse | Perth |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Fri, 23 Oct 2026 | De Thomaskerk | Amsterdam |
 | Sat, 24 Oct 2026 | H7 Warehouse | Amsterdam |
 | Sat, 24 Oct 2026 | RADION | Amsterdam |
 | Sat, 31 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
-| Fri, 20 Nov 2026 | Magasins Généraux | Paris |
-| Sat, 21 Nov 2026 | Magasins Généraux | Paris |
-| Sat, 12 Dec 2026 | fabric | London |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ GiGi FM is a techno and house artist tracked on soundcheck, with 169 sets logged
 
 Altinbas, Polygonia, DVS1
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gigifm/)*

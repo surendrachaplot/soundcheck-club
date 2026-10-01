@@ -1,6 +1,6 @@
 # The BBE Store
 
-The BBE Store is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "REHAB_LDN Takeover - The BBE Store" on Sat, 7 Nov 2026.
+The BBE Store is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "REHAB_LDN Takeover - The BBE Store" on Sat, 7 Nov 2026.
 
 The BBE Store is a music venue in London listed on soundcheck. 1 upcoming gig, with line-ups including Davide Del Vecchio, Dj Armi, New Digital Fidelity and Rhiavas and 1 more. Browse upcoming dates, start times and who's playing. 376 Helmsley Pl, London E8 3SB.
 
@@ -14,4 +14,4 @@ The BBE Store is a music venue in London listed on soundcheck. 1 upcoming gig, w
 
 376 Helmsley Pl, London E8 3SB, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-bbe-store/)*

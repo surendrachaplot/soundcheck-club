@@ -1,14 +1,15 @@
 # luke madness
 
-luke madness is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at OST, Berlin on Sat, 14 Nov 2026.
+luke madness is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OST, Berlin on Sat, 14 Nov 2026.
 
-luke madness is a techno artist based in Germany, tracked on soundcheck, with 8 sets logged across Berlin, Cologne, Hamburg and Munich. Often billed alongside 11 km/h love, AM.I and Alex Benz. Next up: OST, Berlin on Sat 14 Nov.
+luke madness is a techno artist based in Germany, tracked on soundcheck, with 9 sets logged across Berlin, Bremen, Cologne and Hamburg and 1 more. Often billed alongside Levt, 11 km/h love and A.N.I.. Next up: OST, Berlin on Sat 14 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 14 Nov 2026 | OST | Berlin |
+| Fri, 11 Dec 2026 | TBA | Bremen |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ luke madness is a techno artist based in Germany, tracked on soundcheck, with 8 
 
 ## Shares bills with
 
-11 km/h love, AM.I, Alex Benz
+Levt, 11 km/h love, A.N.I.
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemadness/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lukemadness/)*

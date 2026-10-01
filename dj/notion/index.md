@@ -1,6 +1,6 @@
 # Notion
 
-Notion is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Roxy, Prague on Fri, 2 Oct 2026.
+Notion is a Garage and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Roxy, Prague on Fri, 2 Oct 2026.
 
 Notion is a garage and house artist based in United Kingdom, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Auckland and Austin and 36 more. Often billed alongside Oppidan, Conducta and Interplanetary Criminal. Next up: Roxy, Prague on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Notion is a garage and house artist based in United Kingdom, tracked on soundche
 
 Oppidan, Conducta, Interplanetary Criminal
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/notion/)*

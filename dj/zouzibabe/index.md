@@ -1,6 +1,6 @@
 # Zouzibabe
 
-Zouzibabe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TRAUM, Antwerp on Fri, 16 Oct 2026.
+Zouzibabe is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TRAUM, Antwerp on Fri, 16 Oct 2026.
 
 Zouzibabe is a house and techno artist based in Belgium, tracked on soundcheck, with 82 sets logged across Amsterdam, Antwerp, Brussels and Ghent and 3 more. Often billed alongside Fais Le Beau, Sara Dziri and Melissa Juice. Next up: TRAUM, Antwerp on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Zouzibabe is a house and techno artist based in Belgium, tracked on soundcheck, 
 
 Fais Le Beau, Sara Dziri, Melissa Juice
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zouzibabe/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zouzibabe/)*

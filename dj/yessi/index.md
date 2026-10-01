@@ -1,14 +1,14 @@
 # Yessi
 
-Yessi is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Los Angeles on Fri, 2 Oct 2026.
+Yessi is a Experimental and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - DTLA, Los Angeles on Fri, 2 Oct 2026.
 
-Yessi is an experimental and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Detroit, Los Angeles, New York City and Philadelphia and 2 more. Often billed alongside Kiernan Laveaux, Malzof and Max Ellington. Next up: TBA, Los Angeles on Fri 2 Oct.
+Yessi is an experimental and techno artist based in United States of America, tracked on soundcheck, with 21 sets logged across Detroit, Los Angeles, New York City and Philadelphia and 2 more. Often billed alongside Kiernan Laveaux, Malzof and Max Ellington. Next up: TBA - DTLA, Los Angeles on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Los Angeles |
+| Fri, 2 Oct 2026 | TBA - DTLA | Los Angeles |
 | Sat, 17 Oct 2026 | TBA - Secret Location | San Diego |
 
 ## Recently played
@@ -26,4 +26,4 @@ Yessi is an experimental and techno artist based in United States of America, tr
 
 Kiernan Laveaux, Malzof, Max Ellington
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yessi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yessi/)*

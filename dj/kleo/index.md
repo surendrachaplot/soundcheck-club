@@ -1,14 +1,15 @@
 # Kléo
 
-Kléo is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Radio Radio, Amsterdam on Fri, 9 Oct 2026.
+Kléo is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Radio Radio, Amsterdam on Fri, 9 Oct 2026.
 
-Kléo is a house and disco artist based in France, tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 24 more. Often billed alongside Antal, Hunee and Lakuti. Next up: Radio Radio, Amsterdam on Fri 9 Oct.
+Kléo is a house and disco artist based in France, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 25 more. Often billed alongside Antal, Hunee and Lakuti. Next up: Radio Radio, Amsterdam on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Radio Radio | Amsterdam |
+| Sat, 10 Oct 2026 | TBA - 252 boulevard Victor Hugo, Lille | North |
 | Sat, 17 Oct 2026 | ASIAT Park | Brussels |
 | Sat, 24 Oct 2026 | Lofi | Amsterdam |
 
@@ -27,4 +28,4 @@ Kléo is a house and disco artist based in France, tracked on soundcheck, with 1
 
 Antal, Hunee, Lakuti
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kleo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kleo/)*

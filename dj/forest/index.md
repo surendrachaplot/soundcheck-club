@@ -1,6 +1,6 @@
 # Forest
 
-Forest is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Saint-Denis, Paris on Sat, 3 Oct 2026.
+Forest is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Saint-Denis, Paris on Sat, 3 Oct 2026.
 
 Forest is a techno and trance artist based in France, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Brussels and Copenhagen and 7 more. Often billed alongside Jolly (FR), Lastvuska and Domi (FR). Next up: TBA - Saint-Denis, Paris on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Forest is a techno and trance artist based in France, tracked on soundcheck, wit
 
 Jolly (FR), Lastvuska, Domi (FR)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/forest/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/forest/)*

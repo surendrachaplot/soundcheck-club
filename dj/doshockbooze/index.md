@@ -1,6 +1,6 @@
 # Do Shock Booze
 
-Do Shock Booze is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 7th Floor, Tokyo on Sat, 7 Nov 2026.
+Do Shock Booze is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 7th Floor, Tokyo on Sat, 7 Nov 2026.
 
 Do Shock Booze is a techno and house artist based in Japan, tracked on soundcheck, with 66 sets logged across Tokyo. Often billed alongside Taichi Kawahira, Drunken Kong and Remi Ohsugi. Next up: 7th Floor, Tokyo on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Do Shock Booze is a techno and house artist based in Japan, tracked on soundchec
 
 Taichi Kawahira, Drunken Kong, Remi Ohsugi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doshockbooze/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doshockbooze/)*

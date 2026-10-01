@@ -1,13 +1,14 @@
 # LAÍRE
 
-LAÍRE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Spkrbox, Detroit on Thu, 29 Oct 2026.
+LAÍRE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Marble Bar, Detroit on Fri, 16 Oct 2026.
 
-LAÍRE is a techno and house artist based in United States of America, tracked on soundcheck, with 10 sets logged across Detroit. Often billed alongside Dru Ruiz, Pressure Rhythm and DJ Candor. Next up: Spkrbox, Detroit on Thu 29 Oct.
+LAÍRE is a techno and house artist based in United States of America, tracked on soundcheck, with 11 sets logged across Detroit. Often billed alongside Dru Ruiz, Pressure Rhythm and DJ Candor. Next up: Marble Bar, Detroit on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Marble Bar | Detroit |
 | Thu, 29 Oct 2026 | Spkrbox | Detroit |
 
 ## Recently played
@@ -25,4 +26,4 @@ LAÍRE is a techno and house artist based in United States of America, tracked o
 
 Dru Ruiz, Pressure Rhythm, DJ Candor
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laíre/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laíre/)*

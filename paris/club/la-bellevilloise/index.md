@@ -1,6 +1,6 @@
 # La Bellevilloise
 
-La Bellevilloise is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Free Your Funk présente Theo Parrish All Night Long" on Sat, 17 Oct 2026.
+La Bellevilloise is a music venue in Paris with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Free Your Funk présente Theo Parrish All Night Long" on Sat, 17 Oct 2026.
 
 La Bellevilloise is a music venue in Paris listed on soundcheck. 2 upcoming gigs, with line-ups including Another Taste, Coco Maria, DJ Spinna and Emile Omar and 2 more. Browse upcoming dates, start times and who's playing. 19-21 rue Boyer; 75020; Paris; France.
 
@@ -15,4 +15,4 @@ La Bellevilloise is a music venue in Paris listed on soundcheck. 2 upcoming gigs
 
 19-21 rue Boyer; 75020; Paris; France, Paris
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/la-bellevilloise/)*

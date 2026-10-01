@@ -1,24 +1,25 @@
 # Club Angel
 
-Club Angel is a Garage and House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mint XL, Leeds on Sat, 3 Oct 2026.
+Club Angel is a Garage and House artist with 14 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Digital, Newcastle on Fri, 2 Oct 2026.
 
-Club Angel is a garage and house artist based in Australia, tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Auckland and Austin and 35 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Mint XL, Leeds on Sat 3 Oct.
+Club Angel is a garage and house artist based in Australia, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Auckland and Austin and 37 more. Often billed alongside Sam Alfred, salute and Faster Horses. Next up: Digital, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Digital | Newcastle |
 | Sat, 3 Oct 2026 | Mint XL | Leeds |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 11 Oct 2026 | Mondo Open Air | Madrid |
 | Sun, 11 Oct 2026 | Mondo | Madrid |
 | Fri, 16 Oct 2026 | The Clock Factory | Bristol |
 | Sat, 17 Oct 2026 | Centre Point | Dublin |
+| Fri, 23 Oct 2026 | Prozak 2.0 | Krakow |
 | Sat, 24 Oct 2026 | Pllek | Amsterdam |
+| Sat, 31 Oct 2026 | The Liquid Room | Edinburgh |
 | Sun, 27 Dec 2026 | Matakana Country Park | Auckland |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
-| Mon, 28 Dec 2026 | Langley Park | Perth |
-| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ Club Angel is a garage and house artist based in Australia, tracked on soundchec
 
 Sam Alfred, salute, Faster Horses
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/clubangel/)*

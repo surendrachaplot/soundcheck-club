@@ -1,6 +1,6 @@
 # ADE 26: Melodic Deep - Ten Years In Motion Club Train at Amsterdam Central Station
 
-ADE 26: Melodic Deep - Ten Years In Motion Club Train at Amsterdam Central Station on Thu 22 Oct, Amsterdam. 9 artists on the bill: Ape Drums, Ede, Fairplay and Floyd Lavine and 5 more. Deep House and Afro House. Preview the line-up and save it on soundcheck.
+ADE 26: Melodic Deep - Ten Years In Motion Club Train at Amsterdam Central Station on Thu 22 Oct, Amsterdam. 10 artists on the bill: Ape Drums, Ede, Fairplay and Floyd Lavine and 6 more. Deep House and Afro House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ ADE 26: Melodic Deep - Ten Years In Motion Club Train at Amsterdam Central Stati
 - Ede
 - Fairplay
 - Floyd Lavine
+- Glowal
 - Ivan Masa
 - KENZA KAYATI
 - Laolu

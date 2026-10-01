@@ -1,6 +1,6 @@
 # IKARIOS
 
-IKARIOS is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Balboa Salzburg Nightclub, Austria on Sat, 24 Oct 2026.
+IKARIOS is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Balboa Salzburg Nightclub, Austria on Sat, 24 Oct 2026.
 
 IKARIOS is a house artist based in Austria, tracked on soundcheck, with 11 sets logged across Austria, Munich and Vienna. Often billed alongside Anni Herzer, Klausson and LizN. Next up: Balboa Salzburg Nightclub, Austria on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ IKARIOS is a house artist based in Austria, tracked on soundcheck, with 11 sets 
 
 Anni Herzer, Klausson, LizN
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ikarios/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ikarios/)*

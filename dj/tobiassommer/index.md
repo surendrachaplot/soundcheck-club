@@ -1,6 +1,6 @@
 # Tobias Sommer
 
-Tobias Sommer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
+Tobias Sommer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at elipamanoke, Leipzig on Fri, 16 Oct 2026.
 
 Tobias Sommer is a techno and house artist based in Germany, tracked on soundcheck, with 49 sets logged across Berlin, Brussels, Frankfurt and Hamburg and 1 more. Often billed alongside KEN (DE), Chris Bekker and Enjoyvoid. Next up: elipamanoke, Leipzig on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ Tobias Sommer is a techno and house artist based in Germany, tracked on soundche
 
 KEN (DE), Chris Bekker, Enjoyvoid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiassommer/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tobiassommer/)*

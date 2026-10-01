@@ -1,6 +1,6 @@
 # Gene On Earth
 
-Gene On Earth is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+Gene On Earth is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
 
 Gene On Earth is a house and techno artist based in United States of America, tracked on soundcheck, with 205 sets logged across Amsterdam, Austin, Bali and Bangkok and 50 more. Often billed alongside The Ghost, Dyed Soundorom and tINI. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
 
@@ -34,4 +34,4 @@ Gene On Earth is a house and techno artist based in United States of America, tr
 
 The Ghost, Dyed Soundorom, tINI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/geneonearth/)*

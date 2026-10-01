@@ -1,8 +1,8 @@
 # Curses
 
-Curses is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Carpet Shop, London on Sat, 3 Oct 2026.
+Curses is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Carpet Shop, London on Sat, 3 Oct 2026.
 
-Curses is a techno and house artist based in United States of America, tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: The Carpet Shop, London on Sat 3 Oct.
+Curses is a techno and house artist based in United States of America, tracked on soundcheck, with 179 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Rakans, The Lady Machine and Cormac. Next up: The Carpet Shop, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Curses is a techno and house artist based in United States of America, tracked o
 | Sat, 10 Oct 2026 | Fuse | Brussels |
 | Sun, 25 Oct 2026 | nachbar | Amsterdam |
 | Sat, 31 Oct 2026 | Badaboum | Paris |
+| Sat, 31 Oct 2026 | KHIDI | Tbilisi |
 | Thu, 5 Nov 2026 | WOLF Barcelona | Barcelona |
 | Fri, 6 Nov 2026 | Sala Nazca | Madrid |
 
@@ -30,4 +31,4 @@ Curses is a techno and house artist based in United States of America, tracked o
 
 Rakans, The Lady Machine, Cormac
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/curses/)*

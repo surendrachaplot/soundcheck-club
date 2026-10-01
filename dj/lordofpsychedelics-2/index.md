@@ -1,6 +1,6 @@
 # LORD of Psychedelics (2)
 
-LORD of Psychedelics (2) is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at M-BIA, Berlin on Sat, 24 Oct 2026.
+LORD of Psychedelics (2) is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at M-BIA, Berlin on Sat, 24 Oct 2026.
 
 LORD of Psychedelics is a techno and psytrance artist based in Germany, tracked on soundcheck, with 21 sets logged across Berlin. Often billed alongside Basstronauten, Daniel Boon and Patrick Scuro. Next up: M-BIA, Berlin on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ LORD of Psychedelics is a techno and psytrance artist based in Germany, tracked 
 
 Basstronauten, Daniel Boon, Patrick Scuro
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lordofpsychedelics-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lordofpsychedelics-2/)*

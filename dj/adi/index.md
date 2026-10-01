@@ -1,15 +1,15 @@
 # Adi
 
-Adi is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
+Adi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loft, Manchester on Fri, 30 Oct 2026.
 
-Adi is a house and electro artist based in United States of America, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside DJ Rino, SVS and Unai Trotti. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 9 Oct.
+Adi is a house and techno artist based in United States of America, tracked on soundcheck, with 37 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside DJ Rino, SVS and NIKITA. Next up: The Loft, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 30 Oct 2026 | The Loft | Manchester |
+| Wed, 4 Nov 2026 | Crevette Records | Brussels |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 
 ## Recently played
@@ -25,6 +25,6 @@ Adi is a house and electro artist based in United States of America, tracked on 
 
 ## Shares bills with
 
-DJ Rino, SVS (1), Unai Trotti
+DJ Rino, SVS (1), NIKITA (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adi/)*

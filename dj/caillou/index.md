@@ -1,8 +1,8 @@
 # Caillou
 
-Caillou is a House and Post-Punk artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lavallée, Brussels on Fri, 9 Oct 2026.
+Caillou is a House and Post-Punk artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lavallée, Brussels on Fri, 9 Oct 2026.
 
-Caillou is a house and post-punk artist based in Germany, tracked on soundcheck, with 15 sets logged across Amsterdam, Berlin, Brussels and Melbourne and 4 more. Often billed alongside Joshua Murphy, Paty Vapor and Acid Washed. Next up: Lavallée, Brussels on Fri 9 Oct.
+Caillou is a house and post-punk artist based in Germany, tracked on soundcheck, with 16 sets logged across Amsterdam, Berlin, Brussels and Melbourne and 4 more. Often billed alongside Paty Vapor, Joshua Murphy and Melanie Havens. Next up: Lavallée, Brussels on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Caillou is a house and post-punk artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Lavallée | Brussels |
 | Fri, 16 Oct 2026 | Sameheads | Berlin |
+| Fri, 20 Nov 2026 | The Buzz | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Caillou is a house and post-punk artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-Joshua Murphy, Paty Vapor, Acid Washed
+Paty Vapor, Joshua Murphy, Melanie Havens
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/caillou/)*

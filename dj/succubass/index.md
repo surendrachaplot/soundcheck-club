@@ -1,6 +1,6 @@
 # Succubass
 
-Succubass is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Share Date of Event, Seattle on Fri, 2 Oct 2026.
+Succubass is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Share Date of Event, Seattle on Fri, 2 Oct 2026.
 
 Succubass is a techno and bass artist based in United States of America, tracked on soundcheck, with 92 sets logged across Berlin, Chicago, Detroit and London and 8 more. Often billed alongside DJ DEADNAME, Sharlese and DJ Eft. Next up: TBA - Share Date of Event, Seattle on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Succubass is a techno and bass artist based in United States of America, tracked
 
 DJ DEADNAME, Sharlese, DJ Eft
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/succubass/)*

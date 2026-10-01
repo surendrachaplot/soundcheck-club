@@ -1,6 +1,6 @@
 # DIFFER
 
-DIFFER is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+DIFFER is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 DIFFER is a house and tech house artist based in Argentina, tracked on soundcheck, with 84 sets logged across Buenos Aires, Miami and New York City. Often billed alongside Danyelino, Thunderpony and Bakke. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ DIFFER is a house and tech house artist based in Argentina, tracked on soundchec
 
 Danyelino, Thunderpony, Bakke
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/differ/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/differ/)*

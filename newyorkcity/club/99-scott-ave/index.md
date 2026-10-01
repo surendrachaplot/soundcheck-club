@@ -1,6 +1,6 @@
 # 99 Scott Ave
 
-99 Scott Ave is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "AGAPĒ PRESENTS: Vladimir Dubyshkin (LIVE) + PETERBLUE" on Fri, 2 Oct 2026.
+99 Scott Ave is a music venue in New York City with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "AGAPĒ PRESENTS: Vladimir Dubyshkin (LIVE) + PETERBLUE" on Fri, 2 Oct 2026.
 
 99 Scott Ave is a music venue in New York City listed on soundcheck. 11 upcoming gigs, with line-ups including A.K.R, ARODES, ARYMÉ and Benwal and 2 more. Browse upcoming dates, start times and who's playing. 99 Scott Ave, Brooklyn, NY 11237.
 
@@ -23,4 +23,4 @@
 
 99 Scott Ave, Brooklyn, NY 11237, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/99-scott-ave/)*

@@ -1,6 +1,6 @@
 # fi x Traumer & Akte at fi
 
-fi x Traumer & Akte on Fri 20 Nov, Cologne. 5 artists on the bill: Costanza, Interplay, ISABELL and Phil2 and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
+fi x Traumer & Akte on Fri 20 Nov, Cologne. 6 artists on the bill: Costanza, Interplay, ISABELL and Phil2 and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@ fi x Traumer & Akte on Fri 20 Nov, Cologne. 5 artists on the bill: Costanza, Int
 - Interplay
 - ISABELL (1)
 - Phil2
+- Philipp Stoffel
 - Traumer
 
 *Source: [soundcheck](https://soundcheck.club/e/2542421-fi-x-traumer-akte-at-fi/)*

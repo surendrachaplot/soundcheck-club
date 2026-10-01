@@ -1,14 +1,15 @@
 # HAUSWiFE
 
-HAUSWiFE is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Howler, Melbourne on Sun, 25 Oct 2026.
+HAUSWiFE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Howler, Melbourne on Sun, 25 Oct 2026.
 
-HAUSWiFE is a house and techno artist based in Australia, tracked on soundcheck, with 117 sets logged across Bangkok, Bristol, Melbourne and San Francisco/Oakland and 1 more. Often billed alongside Mitch Tonta, JOVE and Joey Coco. Next up: Howler, Melbourne on Sun 25 Oct.
+HAUSWiFE is a house and techno artist based in Australia, tracked on soundcheck, with 118 sets logged across Bangkok, Bristol, Melbourne and San Francisco/Oakland and 1 more. Often billed alongside Mitch Tonta, JOVE and Joey Coco. Next up: Howler, Melbourne on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | Howler | Melbourne |
+| Sat, 31 Oct 2026 | My Aeon | Melbourne |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ HAUSWiFE is a house and techno artist based in Australia, tracked on soundcheck,
 
 Mitch Tonta, JOVE, Joey Coco
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hauswife/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hauswife/)*

@@ -1,8 +1,8 @@
 # Rebekah
 
-Rebekah is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
+Rebekah is a Techno and Hardcore artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
 
-Rebekah is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 164 sets logged across Amsterdam, Austin, Barcelona and Basel and 59 more. Often billed alongside DYEN, SNTS and AnD. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
+Rebekah is a techno and hardcore artist based in United Kingdom, tracked on soundcheck, with 165 sets logged across Amsterdam, Austin, Barcelona and Basel and 59 more. Often billed alongside DYEN, SNTS and AnD. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Rebekah is a techno and hardcore artist based in United Kingdom, tracked on soun
 | Sat, 24 Oct 2026 | Mia Mao | Paris |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
 | Fri, 20 Nov 2026 | Wigwam | Dublin |
+| Fri, 11 Dec 2026 | The Comfort Zone | Toronto |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Rebekah is a techno and hardcore artist based in United Kingdom, tracked on soun
 
 DYEN, SNTS, AnD
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rebekah/)*

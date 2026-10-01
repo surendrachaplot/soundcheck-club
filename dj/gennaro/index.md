@@ -1,13 +1,14 @@
 # GENNARO
 
-GENNARO is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at IDRA, Manchester on Sat, 10 Oct 2026.
+GENNARO is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Range, Turin on Fri, 2 Oct 2026.
 
-GENNARO is a house and tech house artist based in Italy, tracked on soundcheck, with 18 sets logged across Amsterdam, Chicago, Cologne and Ibiza and 6 more. Often billed alongside ANOTR, Cristian Volpe and Ludo Erre. Next up: IDRA, Manchester on Sat 10 Oct.
+GENNARO is a tech house and house artist based in Italy, tracked on soundcheck, with 19 sets logged across Amsterdam, Chicago, Cologne and Ibiza and 7 more. Often billed alongside ANOTR, Cristian Volpe and Ludo Erre. Next up: The Range, Turin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | The Range | Turin |
 | Sat, 10 Oct 2026 | IDRA | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ GENNARO is a house and tech house artist based in Italy, tracked on soundcheck, 
 
 ANOTR, Cristian Volpe, Ludo Erre
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gennaro/)*

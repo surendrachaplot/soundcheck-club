@@ -1,13 +1,14 @@
 # Ellen Allien
 
-Ellen Allien is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at REC Napoli, Naples on Sat, 3 Oct 2026.
+Ellen Allien is a Techno and House artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Elastica, Vilnius on Fri, 2 Oct 2026.
 
-Ellen Allien is a techno and house artist based in Germany, tracked on soundcheck, with 255 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 56 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: REC Napoli, Naples on Sat 3 Oct.
+Ellen Allien is a techno and house artist based in Germany, tracked on soundcheck, with 258 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 58 more. Often billed alongside Dr. Rubinstein, Shaleen and Metaraph. Next up: Elastica, Vilnius on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Elastica | Vilnius |
 | Sat, 3 Oct 2026 | REC Napoli | Naples |
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 17 Oct 2026 | SMUT Athens | Athens |
@@ -15,6 +16,8 @@ Ellen Allien is a techno and house artist based in Germany, tracked on soundchec
 | Fri, 6 Nov 2026 | Gewölbe | Cologne |
 | Sat, 7 Nov 2026 | fabric | London |
 | Sat, 28 Nov 2026 | TRAUM | Antwerp |
+| Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
+| Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 | Sat, 12 Dec 2026 | Q35 WAREHOUSE | Turin |
 
 ## Recently played
@@ -32,4 +35,4 @@ Ellen Allien is a techno and house artist based in Germany, tracked on soundchec
 
 Dr. Rubinstein, Shaleen, Metaraph
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellenallien/)*

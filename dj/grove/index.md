@@ -1,8 +1,8 @@
 # Grove
 
-Grove is a Experimental and Dancehall artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Panke, Berlin on Fri, 30 Oct 2026.
+Grove is a Experimental and Dancehall artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Panke, Berlin on Fri, 30 Oct 2026.
 
-Grove is an experimental and dancehall artist tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside 2ManyDJs, Authentically Plastic and Chloé Caillet. Next up: Panke, Berlin on Fri 30 Oct.
+Grove is an experimental and dancehall artist based in United Kingdom, tracked on soundcheck, with 51 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 17 more. Often billed alongside 2ManyDJs, Authentically Plastic and Chloé Caillet. Next up: Panke, Berlin on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Grove is an experimental and dancehall artist tracked on soundcheck, with 51 set
 
 2ManyDJs, Authentically Plastic, Chloé Caillet
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/grove/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/grove/)*

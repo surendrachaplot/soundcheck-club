@@ -1,14 +1,15 @@
 # Mtvare
 
-Mtvare is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bassiani, Tbilisi on Fri, 2 Oct 2026.
+Mtvare is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bassiani, Tbilisi on Fri, 2 Oct 2026.
 
-Mtvare is a trance and techno artist based in Georgia, tracked on soundcheck, with 80 sets logged across Berlin, Budapest, Lisbon and Madrid and 1 more. Often billed alongside Trotsky, Gio Shengelia and Sevda. Next up: Bassiani, Tbilisi on Fri 2 Oct.
+Mtvare is a trance and techno artist based in Georgia, tracked on soundcheck, with 81 sets logged across Berlin, Budapest, Lisbon and Madrid and 1 more. Often billed alongside Trotsky, Gio Shengelia and Sevda. Next up: Bassiani, Tbilisi on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Bassiani | Tbilisi |
+| Sat, 3 Oct 2026 | Mtkvarze | Tbilisi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Mtvare is a trance and techno artist based in Georgia, tracked on soundcheck, wi
 
 Trotsky, Gio Shengelia, Sevda
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mtvare/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mtvare/)*

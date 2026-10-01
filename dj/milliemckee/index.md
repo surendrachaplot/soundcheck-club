@@ -1,6 +1,6 @@
 # Millie McKee
 
-Millie McKee is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Café de la Musique, Paris on Sun, 4 Oct 2026.
+Millie McKee is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Café de la Musique, Paris on Sun, 4 Oct 2026.
 
 Millie McKee is a house and techno artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 12 more. Often billed alongside Kyle Toole, DAR DISKU and Harri Pepper. Next up: Café de la Musique, Paris on Sun 4 Oct.
 
@@ -15,7 +15,7 @@ Millie McKee is a house and techno artist based in United Kingdom, tracked on so
 ## Recently played
 
 - Starlane Pizza Bar, London — Fri, 18 Sept 2026
-- pos studios, Amsterdam — Sun, 13 Sept 2026
+- remove, Amsterdam — Sun, 13 Sept 2026
 - Phono Lake, Amsterdam — Sat, 12 Sept 2026
 - Sauna Social Club, London — Mon, 31 Aug 2026
 - ZENNER, Berlin — Sun, 23 Aug 2026
@@ -27,4 +27,4 @@ Millie McKee is a house and techno artist based in United Kingdom, tracked on so
 
 Kyle Toole, DAR DISKU, Harri Pepper
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milliemckee/)*

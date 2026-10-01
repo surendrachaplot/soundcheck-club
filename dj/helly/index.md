@@ -1,6 +1,6 @@
 # Helly
 
-Helly is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Helly is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
 Helly is a house and techno artist tracked on soundcheck, with 47 sets logged across Amsterdam, Athens, Barcelona and Berlin and 15 more. Often billed alongside DJ Tjizza, DJ Senc and Jacopo Latini. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
@@ -13,6 +13,7 @@ Helly is a house and techno artist tracked on soundcheck, with 47 sets logged ac
 
 ## Recently played
 
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
 - Hertz, Seoul — Fri, 7 Aug 2026
 - Hackney Wick Multiple Venues, London — Sat, 27 Jun 2026
 - Phantom Bar Berlin, Berlin — Thu, 11 Jun 2026
@@ -20,10 +21,9 @@ Helly is a house and techno artist tracked on soundcheck, with 47 sets logged ac
 - Fitzroy, Berlin — Sun, 31 May 2026
 - Tokonoma Club, Frankfurt — Fri, 29 May 2026
 - Phantom Bar Berlin, Berlin — Fri, 17 Apr 2026
-- fabric, London — Sun, 12 Apr 2026
 
 ## Shares bills with
 
 DJ Tjizza, DJ Senc, Jacopo Latini
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helly/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helly/)*

@@ -1,6 +1,6 @@
 # HARTY
 
-HARTY is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Db55, Amsterdam on Thu, 22 Oct 2026.
+HARTY is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Db55, Amsterdam on Thu, 22 Oct 2026.
 
 HARTY is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 50 sets logged across Amsterdam, Ibiza, Leeds and London and 2 more. Often billed alongside Jerome Six, Brian Smith and JAYDAA. Next up: Db55, Amsterdam on Thu 22 Oct.
 
@@ -27,4 +27,4 @@ HARTY is a tech house and house artist based in United Kingdom, tracked on sound
 
 Jerome Six, Brian Smith, JAYDAA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harty/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harty/)*

@@ -1,6 +1,6 @@
 # James de Torres
 
-James de Torres is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Chinois Ibiza, Ibiza on Sat, 3 Oct 2026.
+James de Torres is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chinois Ibiza, Ibiza on Sat, 3 Oct 2026.
 
 James de Torres is a house and techno artist tracked on soundcheck, with 11 sets logged across Amsterdam, Barcelona, Hamburg and Ibiza and 2 more. Often billed alongside Leblanc, Abdon and Alex Fox. Next up: Chinois Ibiza, Ibiza on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ James de Torres is a house and techno artist tracked on soundcheck, with 11 sets
 
 Leblanc, Abdon, Alex Fox
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdetorres/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesdetorres/)*

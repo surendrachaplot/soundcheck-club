@@ -1,6 +1,6 @@
 # Club Exil
 
-Club Exil is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "RITUAL II with Felicie, Phara, Truncate, Uncertain" on Fri, 2 Oct 2026.
+Club Exil is a music venue in Vienna with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RITUAL II with Felicie, Phara, Truncate, Uncertain" on Fri, 2 Oct 2026.
 
 Club Exil is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with line-ups including Anaïs, Anna Ullrich, DORAH and ESKEI83 and 2 more. Browse upcoming dates, start times and who's playing. Marktstrasse 13A 2331 Vösendorf.
 
@@ -17,4 +17,4 @@ Club Exil is a music venue in Vienna listed on soundcheck. 4 upcoming gigs, with
 
 Marktstrasse 13A 2331 Vösendorf, Vienna
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/vienna/club/club-exil/)*

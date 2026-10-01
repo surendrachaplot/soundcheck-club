@@ -1,13 +1,14 @@
 # Takky
 
-Takky is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Takky is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Dual, Bangkok on Fri, 2 Oct 2026.
 
-Takky is a house and techno artist based in Poland, tracked on soundcheck, with 30 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside Elaheh, Brent Burns and Sarayu. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
+Takky is a house and techno artist based in Poland, tracked on soundcheck, with 31 sets logged across Bangkok, Seoul and Tokyo. Often billed alongside Elaheh, Brent Burns and Sarayu. Next up: Dual, Bangkok on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Dual | Bangkok |
 | Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |
 
 ## Recently played
@@ -25,4 +26,4 @@ Takky is a house and techno artist based in Poland, tracked on soundcheck, with 
 
 Elaheh, Brent Burns, Sarayu
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/takky/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/takky/)*

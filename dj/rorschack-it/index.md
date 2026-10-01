@@ -1,8 +1,8 @@
 # Rorschack
 
-Rorschack is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Masada, Milan on Sat, 17 Oct 2026.
+Rorschack is a Techno and Acid artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Masada, Milan on Sat, 17 Oct 2026.
 
-Rorschack is a techno and acid artist based in Italy, tracked on soundcheck, with 72 sets logged across Amsterdam, Berlin, Brussels and Budapest and 11 more. Often billed alongside Yamila, Functional Disorder and Spad. Next up: Masada, Milan on Sat 17 Oct.
+Rorschack is a techno and acid artist based in Italy, tracked on soundcheck, with 73 sets logged across Amsterdam, Berlin, Bologna and Brussels and 12 more. Often billed alongside Yamila, Functional Disorder and Spad. Next up: Masada, Milan on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Rorschack is a techno and acid artist based in Italy, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Masada | Milan |
 | Sun, 18 Oct 2026 | Department 184 | Milan |
+| Sat, 24 Oct 2026 | TANKclub | Bologna |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Rorschack is a techno and acid artist based in Italy, tracked on soundcheck, wit
 
 Yamila, Functional Disorder, Spad
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rorschack-it/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rorschack-it/)*

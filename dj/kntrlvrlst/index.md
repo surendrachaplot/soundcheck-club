@@ -1,14 +1,16 @@
 # KNTRLVRLST
 
-KNTRLVRLST is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Zinkbad Eventhalle, Zurich on Sat, 3 Oct 2026.
+KNTRLVRLST is a Techno and Trance artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kesselhaus Augsburg, Augsburg on Fri, 2 Oct 2026.
 
-KNTRLVRLST is a techno and trance artist based in Germany, tracked on soundcheck, with 69 sets logged across Antwerp, Barcelona, Belfast and Berlin and 24 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Zinkbad Eventhalle, Zurich on Sat 3 Oct.
+KNTRLVRLST is a techno and trance artist based in Germany, tracked on soundcheck, with 71 sets logged across Antwerp, Augsburg, Barcelona and Belfast and 26 more. Often billed alongside A.N.I., Vagabund and O.B.I. (DE). Next up: Kesselhaus Augsburg, Augsburg on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Kesselhaus Augsburg | Augsburg |
 | Sat, 3 Oct 2026 | Zinkbad Eventhalle | Zurich |
+| Sat, 10 Oct 2026 | Gotec | Karlsruhe |
 | Fri, 16 Oct 2026 | Gate Milano | Milan |
 | Sat, 7 Nov 2026 | Schrotty | Cologne |
 | Sat, 14 Nov 2026 | Lokschuppen Berlin | Berlin |
@@ -28,4 +30,4 @@ KNTRLVRLST is a techno and trance artist based in Germany, tracked on soundcheck
 
 A.N.I., Vagabund, O.B.I. (DE)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kntrlvrlst/)*

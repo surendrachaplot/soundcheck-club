@@ -1,6 +1,6 @@
 # The Get Down
 
-The Get Down is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "RJD2 (Live Band)" on Fri, 2 Oct 2026.
+The Get Down is a music venue in Portland with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RJD2 (Live Band)" on Fri, 2 Oct 2026.
 
 The Get Down is a music venue in Portland listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. 615 SE Alder St Suite B, Portland, OR 97214, United States.
 
@@ -15,4 +15,4 @@ The Get Down is a music venue in Portland listed on soundcheck. 2 upcoming gigs.
 
 615 SE Alder St Suite B, Portland, OR 97214, United States, Portland
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/portland/club/the-get-down/)*

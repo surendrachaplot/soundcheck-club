@@ -1,14 +1,16 @@
 # Jolie
 
-Jolie is a Afro House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fire & Lightbox, London on Sat, 31 Oct 2026.
+Jolie is a Afro House and Garage artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Krudttønden, Copenhagen on Fri, 2 Oct 2026.
 
-Jolie is an afro house and garage artist based in Tanzania, tracked on soundcheck, with 41 sets logged across Copenhagen, London, Manchester and New York City and 1 more. Often billed alongside MABINTI, Billy Daniel Bunter and Craze. Next up: Fire & Lightbox, London on Sat 31 Oct.
+Jolie is an afro house and garage artist based in Tanzania, tracked on soundcheck, with 43 sets logged across Copenhagen, London, Manchester and New York City and 1 more. Often billed alongside MABINTI, Billy Daniel Bunter and Craze. Next up: Krudttønden, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Krudttønden | Copenhagen |
 | Sat, 31 Oct 2026 | Fire & Lightbox | London |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -25,4 +27,4 @@ Jolie is an afro house and garage artist based in Tanzania, tracked on soundchec
 
 MABINTI, Billy Daniel Bunter, Craze
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jolie/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jolie/)*

@@ -1,8 +1,8 @@
 # Camion Bazar
 
-Camion Bazar is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
+Camion Bazar is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Seaseaclub Barcelona, Barcelona on Sat, 10 Oct 2026.
 
-Camion Bazar is a house and techno artist based in France, tracked on soundcheck, with 68 sets logged across Bangkok, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Romain Play, Benedetta and Mathilde Rocaboy. Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
+Camion Bazar is a house and techno artist based in France, tracked on soundcheck, with 69 sets logged across Bangkok, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Romain Play, Benedetta and Mathilde Rocaboy. Next up: Seaseaclub Barcelona, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Camion Bazar is a house and techno artist based in France, tracked on soundcheck
 | Sat, 10 Oct 2026 | Seaseaclub Barcelona | Barcelona |
 | Fri, 16 Oct 2026 | Nido Marseille | Marseille |
 | Sat, 24 Oct 2026 | Bal Chavaux | Paris |
+| Sat, 31 Oct 2026 | PRST | Vienna |
 | Fri, 6 Nov 2026 | Cadavra | Madrid |
 
 ## Recently played
@@ -28,4 +29,4 @@ Camion Bazar is a house and techno artist based in France, tracked on soundcheck
 
 Romain Play, Benedetta, Mathilde Rocaboy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camionbazar/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camionbazar/)*

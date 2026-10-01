@@ -1,6 +1,6 @@
 # SaltySis
 
-SaltySis is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at OST, Berlin on Fri, 16 Oct 2026.
+SaltySis is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OST, Berlin on Fri, 16 Oct 2026.
 
 SaltySis is a techno and trance artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Belgrade, Berlin and Brisbane and 18 more. Often billed alongside A.N.I., Cara Elizabeth and Millie Forsberg. Next up: OST, Berlin on Fri 16 Oct.
 
@@ -27,4 +27,4 @@ SaltySis is a techno and trance artist based in Germany, tracked on soundcheck, 
 
 A.N.I., Cara Elizabeth, Millie Forsberg
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/saltysis/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/saltysis/)*

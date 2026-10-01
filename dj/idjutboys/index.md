@@ -1,13 +1,14 @@
 # Idjut Boys
 
-Idjut Boys is a Disco and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 2 Oct 2026.
+Idjut Boys is a Disco and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
-Idjut Boys is a disco and house artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Athens, Bali, Barcelona and Copenhagen and 8 more. Often billed alongside C.L.A.W.S., Galen and Grace Sands. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 2 Oct.
+Idjut Boys is a disco and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Athens, Bali, Barcelona and Copenhagen and 9 more. Often billed alongside C.L.A.W.S., Galen and Grace Sands. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | INN The Park Fukuoka | Kyushu |
 | Fri, 2 Oct 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 | Sat, 3 Oct 2026 | Club Daphnia | Osaka |
 | Sun, 1 Nov 2026 | Filly Brook | London |
@@ -27,4 +28,4 @@ Idjut Boys is a disco and house artist based in United Kingdom, tracked on sound
 
 C.L.A.W.S., Galen, Grace Sands
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idjutboys/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idjutboys/)*

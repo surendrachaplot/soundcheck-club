@@ -1,13 +1,14 @@
 # Tristan Ingram
 
-Tristan Ingram is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 93 Feet East, London on Sat, 28 Nov 2026.
+Tristan Ingram is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Broadcaster, London on Sat, 31 Oct 2026.
 
-Tristan Ingram is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Ibiza and London. Often billed alongside Alex P, Bongo Ben and Brandon Block. Next up: 93 Feet East, London on Sat 28 Nov.
+Tristan Ingram is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Ibiza and London. Often billed alongside Bongo Ben, Alex P and Brandon Block. Next up: The Broadcaster, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | The Broadcaster | London |
 | Sat, 28 Nov 2026 | 93 Feet East | London |
 
 ## Recently played
@@ -23,6 +24,6 @@ Tristan Ingram is a house and tech house artist based in United Kingdom, tracked
 
 ## Shares bills with
 
-Alex P, Bongo Ben, Brandon Block
+Bongo Ben, Alex P, Brandon Block
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tristaningram/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tristaningram/)*

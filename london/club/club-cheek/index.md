@@ -1,8 +1,8 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Percolate x Gradient presents Bobby. (Extended)" on Sat, 3 Oct 2026.
+Club Cheek is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Percolate x Gradient presents Bobby. (Extended)" on Sat, 3 Oct 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 11 upcoming gigs, with line-ups including Tadeusz, Alicia (UK), Alienata and Amit and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Tadeusz, Alicia (UK), Alienata and Amit and 2 more. Browse upcoming dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 
@@ -17,10 +17,10 @@ Club Cheek is a music venue in London listed on soundcheck. 11 upcoming gigs, wi
 | Fri, 30 Oct 2026 | BED |  |
 | Fri, 30 Oct 2026 | Undercover Parts: Halloween Special | CHAMBER45, Lozzy, Riel, Scratcha, Tibor |
 | Sat, 31 Oct 2026 | Wiggle Room & The Curse of the Lost City | IZZY (UK), Julia SC, Minashi, elshazly |
-| Sat, 7 Nov 2026 | BIO-TECH LDN 010 feat Amit & B-Key | Amit, Facs, Primitivizm, Xanadu |
+| Fri, 6 Nov 2026 | Private Funktion: Nina Yamada, Offie Mag DJs, Hiren Parmar & Eman Pav | Emanuel Pavlova, Nina Yamada, OFFIE MAG DJs |
 
 ## Address
 
 302-304 Barrington Road, London, SW9 7JJ, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/club-cheek/)*

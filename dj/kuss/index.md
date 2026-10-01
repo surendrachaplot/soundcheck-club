@@ -1,8 +1,8 @@
 # KUSS
 
-KUSS is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at EXIL, Zurich on Fri, 16 Oct 2026.
+KUSS is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at EXIL, Zurich on Fri, 16 Oct 2026.
 
-KUSS is a techno and electro artist based in France, tracked on soundcheck, with 124 sets logged across Amsterdam, Athens, Berlin and Brussels and 25 more. Often billed alongside Koboyo, Sicion and Electric Rescue. Next up: EXIL, Zurich on Fri 16 Oct.
+KUSS is a techno and electro artist based in France, tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Berlin and Brussels and 25 more. Often billed alongside Sicion, Koboyo and Electric Rescue. Next up: EXIL, Zurich on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ KUSS is a techno and electro artist based in France, tracked on soundcheck, with
 | Sat, 17 Oct 2026 | TBA - Fame Night Club Tampere | Helsinki |
 | Fri, 23 Oct 2026 | Hangaren | Copenhagen |
 | Sun, 8 Nov 2026 | BRET | Amsterdam |
+| Tue, 10 Nov 2026 | essaim | Paris |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ KUSS is a techno and electro artist based in France, tracked on soundcheck, with
 
 ## Shares bills with
 
-Koboyo, Sicion, Electric Rescue
+Sicion, Koboyo, Electric Rescue
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kuss/)*

@@ -1,6 +1,6 @@
 # ones (UK)
 
-ones (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Phonox, London on Fri, 13 Nov 2026.
+ones (UK) is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Phonox, London on Fri, 13 Nov 2026.
 
 ones (UK) is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Bali, London, Melbourne and Sydney. Often billed alongside Ross From Friends, Danny and K A I. Next up: Phonox, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ ones (UK) is a house and techno artist based in United Kingdom, tracked on sound
 
 Ross From Friends, Danny, K A I
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onesuk/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onesuk/)*

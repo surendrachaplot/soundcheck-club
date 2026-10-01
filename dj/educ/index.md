@@ -1,6 +1,6 @@
 # Edu C
 
-Edu C is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 6 Nov 2026.
+Edu C is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri, 6 Nov 2026.
 
 Edu C is a house and electro artist based in Venezuela, tracked on soundcheck, with 21 sets logged across Amsterdam, Barcelona, Berlin and Buenos Aires. Often billed alongside Manu Oubiña, Medano and Guile. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Edu C is a house and electro artist based in Venezuela, tracked on soundcheck, w
 
 Manu Oubiña, Medano, Guile
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/educ/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/educ/)*

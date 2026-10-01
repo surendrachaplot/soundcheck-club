@@ -1,6 +1,6 @@
 # Ivy F
 
-Ivy F is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The White Hotel, Manchester on Fri, 16 Oct 2026.
+Ivy F is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The White Hotel, Manchester on Fri, 16 Oct 2026.
 
 Ivy F is a house and techno artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across Amsterdam, London and Manchester. Often billed alongside teleopath, ASHTREY and Aiden Francis. Next up: The White Hotel, Manchester on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Ivy F is a house and techno artist based in United Kingdom, tracked on soundchec
 
 teleopath, ASHTREY, Aiden Francis
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ivyf/)*

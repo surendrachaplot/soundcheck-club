@@ -1,6 +1,6 @@
 # Jesus RedSoul
 
-Jesus RedSoul is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Two Tribes CAMPFIRE, London on Fri, 30 Oct 2026.
+Jesus RedSoul is a Progressive House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Two Tribes CAMPFIRE, London on Fri, 30 Oct 2026.
 
 Jesus RedSoul is a progressive house and electronica artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Barcelona, London and Madrid. Often billed alongside Cecilia Ena, Tate Tosto and hisnameisevgeni. Next up: Two Tribes CAMPFIRE, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Jesus RedSoul is a progressive house and electronica artist based in United King
 
 Cecilia Ena, Tate Tosto, hisnameisevgeni
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jesusredsoul/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jesusredsoul/)*

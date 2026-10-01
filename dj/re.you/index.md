@@ -1,8 +1,8 @@
 # Re.You
 
-Re.You is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hive Club, Zurich on Sat, 3 Oct 2026.
+Re.You is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hive Club, Zurich on Sat, 3 Oct 2026.
 
-Re.You is a house and techno artist based in Germany, tracked on soundcheck, with 44 sets logged across Amsterdam, Antwerp, Athens and Bali and 19 more. Often billed alongside Belben, MAKII and ARODES. Next up: Hive Club, Zurich on Sat 3 Oct.
+Re.You is a house and techno artist based in Germany, tracked on soundcheck, with 45 sets logged across Amsterdam, Antwerp, Athens and Bali and 19 more. Often billed alongside Belben, MAKII and ARODES. Next up: Hive Club, Zurich on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Re.You is a house and techno artist based in Germany, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Hive Club | Zurich |
 | Sun, 4 Oct 2026 | Moxy Athens City | Athens |
+| Fri, 16 Oct 2026 | Do Not Sit On The Furniture | Miami |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Re.You is a house and techno artist based in Germany, tracked on soundcheck, wit
 
 Belben, MAKII, ARODES
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/re.you/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/re.you/)*

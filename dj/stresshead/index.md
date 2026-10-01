@@ -1,14 +1,15 @@
 # Stresshead
 
-Stresshead is a Electronica and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Greyhound, London on Sat, 31 Oct 2026.
+Stresshead is a House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Greyhound, London on Sat, 31 Oct 2026.
 
-Stresshead is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 18 sets logged across Berlin, Bristol, Edinburgh and Leeds and 1 more. Often billed alongside Baobei, Drinks On Me and 1111. Next up: The Greyhound, London on Sat 31 Oct.
+Stresshead is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 19 sets logged across Berlin, Bristol, Edinburgh and Leeds and 1 more. Often billed alongside Baobei, Drinks On Me and 1111. Next up: The Greyhound, London on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | The Greyhound | London |
+| Sat, 7 Nov 2026 | The Jazz Cafe | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Stresshead is an electronica and house artist based in United Kingdom, tracked o
 
 Baobei, Drinks On Me, 1111
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stresshead/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stresshead/)*

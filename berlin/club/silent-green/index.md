@@ -1,8 +1,8 @@
 # Silent Green
 
-Silent Green is a music venue in Berlin with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "scribble.mp3 pres. Felisha Ledesma & Angelo Harmsworth + Francesco Corvi & Nocturnerror" on Thu, 1 Oct 2026.
+Silent Green is a music venue in Berlin with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "scribble.mp3 pres. Felisha Ledesma & Angelo Harmsworth + Francesco Corvi & Nocturnerror" on Thu, 1 Oct 2026.
 
-Silent Green is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, with line-ups including Abul Mogard, Ana Roxanne, Andriy K. and Angelo Harmsworth and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
+Silent Green is a music venue in Berlin listed on soundcheck. 21 upcoming gigs, with line-ups including Abdullah Miniawy, Abul Mogard, Ana Roxanne and Andriy K. and 2 more. Browse upcoming dates, start times and who's playing. Gerichtstraße 35, 13347 Berlin, Germany.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Silent Green is a music venue in Berlin listed on soundcheck. 20 upcoming gigs, 
 
 Gerichtstraße 35, 13347 Berlin, Germany, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/silent-green/)*

@@ -1,6 +1,6 @@
 # SYNTƏL8
 
-SYNTƏL8 is a Club and IDM artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at M.O.T, London on Thu, 8 Oct 2026.
+SYNTƏL8 is a Club and IDM artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Thu, 8 Oct 2026.
 
 SYNTƏL8 is a club and idm artist tracked on soundcheck, with 11 sets logged across London. Often billed alongside #pastagang, m-onz and Shankar Saanthakumar. Next up: M.O.T, London on Thu 8 Oct.
 
@@ -25,4 +25,4 @@ SYNTƏL8 is a club and idm artist tracked on soundcheck, with 11 sets logged acr
 
 #pastagang, m-onz, Shankar Saanthakumar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/syntol8/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/syntol8/)*

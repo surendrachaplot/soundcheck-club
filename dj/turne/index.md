@@ -1,6 +1,6 @@
 # Turne
 
-Turne is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Club NYX, Amsterdam on Fri, 2 Oct 2026.
+Turne is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Club NYX, Amsterdam on Fri, 2 Oct 2026.
 
 Turne is a house and pop artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Rotterdam. Often billed alongside Benny Rodrigues, Boris Werner and Cincity. Next up: Club NYX, Amsterdam on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Turne is a house and pop artist based in Netherlands, tracked on soundcheck, wit
 
 Benny Rodrigues, Boris Werner, Cincity
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/turne/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/turne/)*

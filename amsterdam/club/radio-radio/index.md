@@ -1,6 +1,6 @@
 # Radio Radio
 
-Radio Radio is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Elevate with Ken Ming • Lamique • Lara Renner" on Thu, 1 Oct 2026.
+Radio Radio is a music venue in Amsterdam with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Elevate with Ken Ming • Lamique • Lara Renner" on Thu, 1 Oct 2026.
 
 Radio Radio is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs, with line-ups including Aldonna, Bambii, Bennet (DE) and Benny Rodrigues and 2 more. Browse upcoming dates, start times and who's playing. Pazzanistraat 3.
 
@@ -23,4 +23,4 @@ Radio Radio is a music venue in Amsterdam listed on soundcheck. 18 upcoming gigs
 
 Pazzanistraat 3, Amsterdam
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/radio-radio/)*

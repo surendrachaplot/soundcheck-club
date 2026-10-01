@@ -1,8 +1,8 @@
 # 77
 
-77 is a music venue in London with 12 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "77: The Originals (All Night Long)" on Fri, 2 Oct 2026.
+77 is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "77: The Originals (All Night Long)" on Fri, 2 Oct 2026.
 
-77 is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including AfroKillerz, AliTR, Angela Rose and BADBOX and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
+77 is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including AfroKillerz, AliTR, Angela Rose and BADBOX and 2 more. Browse upcoming dates, start times and who's playing. 77 Welbeck Street, W1G 0BB.
 
 ## What's on
 
@@ -12,15 +12,15 @@
 | Sat, 3 Oct 2026 | Kronologik Rekords presents: BADBOX & Friends | AfroKillerz, BADBOX, Tinovcc |
 | Fri, 9 Oct 2026 | 77: Novak & Vidojean | Novak |
 | Sat, 10 Oct 2026 | Soul Session - Sixteenth Birthday | Angela Rose, Gavin Peters, Melo-D |
+| Mon, 12 Oct 2026 | FullHouse: unannounced artist |  |
 | Fri, 16 Oct 2026 | 77: Dimitri From Paris | Dimitri From Paris, Nualah |
 | Sat, 17 Oct 2026 | Lone Collective x 77 present: Sasson | Cinar, Gabe K (1), Sasson, Yoel Telyaz |
-| Fri, 23 Oct 2026 | 77 SESSIONS: DEB FA |  |
+| Fri, 23 Oct 2026 | 77 SESSIONS: DEB FA | Kidflo |
 | Sat, 24 Oct 2026 | Pyra x Residents presents: A House on Fire II |  |
 | Fri, 30 Oct 2026 | The 77th Hour in Room 77 |  |
-| Fri, 6 Nov 2026 | 77: SONA | SONA (2) |
 
 ## Address
 
 77 Welbeck Street, W1G 0BB, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/77/)*

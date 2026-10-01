@@ -1,8 +1,8 @@
 # Nolid
 
-Nolid is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Process PDX, Portland on Fri, 2 Oct 2026.
+Nolid is a Techno and Dub Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Process PDX, Portland on Fri, 2 Oct 2026.
 
-Nolid is a techno and club artist based in United States of America, tracked on soundcheck, with 3 sets logged across Portland and Seattle. Often billed alongside 8maos, Aaron Davis and Alvaro. Next up: Process PDX, Portland on Fri 2 Oct.
+Nolid is a techno and dub techno artist based in United States of America, tracked on soundcheck, with 4 sets logged across Portland and Seattle. Often billed alongside Peter Sheppard, othrwrld and 8maos. Next up: Process PDX, Portland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,9 +14,10 @@ Nolid is a techno and club artist based in United States of America, tracked on 
 ## Recently played
 
 - TBA - Out ‘n’ About Treesort, Portland — Thu, 24 Sept 2026
+- Process PDX, Portland — Thu, 17 Sept 2026
 
 ## Shares bills with
 
-8maos, Aaron Davis, Alvaro
+Peter Sheppard, othrwrld, 8maos
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nolid/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nolid/)*

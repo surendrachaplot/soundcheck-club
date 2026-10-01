@@ -1,6 +1,6 @@
 # Daniel Neuland
 
-Daniel Neuland is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Daniel Neuland is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 Daniel Neuland is a techno and tech house artist based in Germany, tracked on soundcheck, with 70 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 8 more. Often billed alongside vom Feisten, Martin Ka and Naicet. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Daniel Neuland is a techno and tech house artist based in Germany, tracked on so
 
 vom Feisten, Martin Ka, Naicet
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danielneuland/)*

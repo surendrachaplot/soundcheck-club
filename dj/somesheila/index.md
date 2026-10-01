@@ -1,6 +1,6 @@
 # Some Sheila
 
-Some Sheila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Glamorama, Melbourne on Sat, 3 Oct 2026.
+Some Sheila is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Glamorama, Melbourne on Sat, 3 Oct 2026.
 
 Some Sheila is a house and techno artist tracked on soundcheck, with 24 sets logged across Melbourne and Sydney. Often billed alongside J-OK, Cara Murphy and HAUSWiFE. Next up: Glamorama, Melbourne on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Some Sheila is a house and techno artist tracked on soundcheck, with 24 sets log
 
 J-OK, Cara Murphy, HAUSWiFE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/somesheila/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/somesheila/)*

@@ -1,14 +1,16 @@
 # Paul Wolf
 
-Paul Wolf is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 14 Nov 2026.
+Paul Wolf is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OST, Berlin on Fri, 2 Oct 2026.
 
-Paul Wolf is a techno and hardcore artist based in Germany, tracked on soundcheck, with 36 sets logged across Berlin and Cologne. Often billed alongside monervo, Mark Dekoda and Thomas Lizzara. Next up: Lokschuppen Berlin, Berlin on Sat 14 Nov.
+Paul Wolf is a techno and trance artist based in Germany, tracked on soundcheck, with 38 sets logged across Berlin, Bremen and Cologne. Often billed alongside monervo, Holy Priest and Mark Dekoda. Next up: OST, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | OST | Berlin |
 | Sat, 14 Nov 2026 | Lokschuppen Berlin | Berlin |
+| Fri, 11 Dec 2026 | TBA | Bremen |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Paul Wolf is a techno and hardcore artist based in Germany, tracked on soundchec
 
 ## Shares bills with
 
-monervo, Mark Dekoda, Thomas Lizzara
+monervo, Holy Priest, Mark Dekoda
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolf/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/paulwolf/)*

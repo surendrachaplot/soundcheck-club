@@ -1,14 +1,16 @@
 # J. Worra
 
-J. Worra is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Night We Met, Nashville on Sat, 17 Oct 2026.
+J. Worra is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Night We Met, Nashville on Sat, 17 Oct 2026.
 
-J. Worra is a house and tech house artist based in United States of America, tracked on soundcheck, with 60 sets logged across Austin, Boston, Chicago and Denver and 14 more. Often billed alongside Matroda, Eli Brown and Dom Dolla. Next up: Night We Met, Nashville on Sat 17 Oct.
+J. Worra is a house and tech house artist based in United States of America, tracked on soundcheck, with 62 sets logged across Amsterdam, Arkansas, Austin and Boston and 16 more. Often billed alongside Matroda, Eli Brown and Dom Dolla. Next up: Night We Met, Nashville on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Night We Met | Nashville |
+| Wed, 21 Oct 2026 | Melkweg | Amsterdam |
+| Fri, 6 Nov 2026 | The Momentary | Arkansas |
 | Sat, 5 Dec 2026 | 99 Scott Ave | New York City |
 
 ## Recently played
@@ -26,4 +28,4 @@ J. Worra is a house and tech house artist based in United States of America, tra
 
 Matroda, Eli Brown, Dom Dolla
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jworra/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jworra/)*

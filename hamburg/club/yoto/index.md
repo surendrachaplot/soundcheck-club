@@ -1,8 +1,8 @@
 # YOTO
 
-YOTO is a music venue in Hamburg with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "LATIN HELL" on Fri, 2 Oct 2026.
+YOTO is a music venue in Hamburg with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "LATIN HELL" on Fri, 2 Oct 2026.
 
-YOTO is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Basement, Schulterblatt 73, 20357 Hamburg, Germany.
+YOTO is a music venue in Hamburg listed on soundcheck. 3 upcoming gigs. Browse upcoming dates, start times and who's playing. Basement, Schulterblatt 73, 20357 Hamburg, Germany.
 
 ## What's on
 
@@ -10,9 +10,10 @@ YOTO is a music venue in Hamburg listed on soundcheck. 2 upcoming gigs. Browse u
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | LATIN HELL |  |
 | Sat, 3 Oct 2026 | YOTO x DJ JUNIOR & DRAFT XYOTO |  |
+| Fri, 9 Oct 2026 | KXA 'New Era' Releaseparty - hosted by ONLY1WAY |  |
 
 ## Address
 
 Basement, Schulterblatt 73, 20357 Hamburg, Germany, Hamburg
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/hamburg/club/yoto/)*

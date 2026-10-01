@@ -1,6 +1,6 @@
 # Man Power
 
-Man Power is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 9 Oct 2026.
+Man Power is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Public Works, San Francisco/Oakland on Fri, 9 Oct 2026.
 
 Man Power is a house and techno artist based in United Kingdom, tracked on soundcheck, with 101 sets logged across Bali, Bangkok, Barcelona and Belfast and 25 more. Often billed alongside ROSIE, Megan Leo and Ewan McVicar. Next up: Public Works, San Francisco/Oakland on Fri 9 Oct.
 
@@ -15,6 +15,7 @@ Man Power is a house and techno artist based in United Kingdom, tracked on sound
 | Sat, 31 Oct 2026 | Are You Affiliated | Newcastle |
 | Sat, 7 Nov 2026 | World Headquarters | Newcastle |
 | Sat, 5 Dec 2026 | Are You Affiliated | Newcastle |
+| Sat, 12 Dec 2026 | The Golden Lion | Manchester |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Man Power is a house and techno artist based in United Kingdom, tracked on sound
 
 ROSIE, Megan Leo, Ewan McVicar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/manpower/)*

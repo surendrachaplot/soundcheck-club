@@ -1,14 +1,13 @@
 # Armin van Buuren
 
-Armin van Buuren is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at [UNVRS], Ibiza on Mon, 28 Sept 2026.
+Armin van Buuren is a Trance and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at [UNVRS], Ibiza on Mon, 5 Oct 2026.
 
-Armin van Buuren is a trance and techno artist based in Netherlands, tracked on soundcheck, with 70 sets logged across Amsterdam, Austin, Barcelona and Bristol and 25 more. Often billed alongside Miss Monique, Artbat and Billy Gillies. Next up: [UNVRS], Ibiza on Mon 28 Sept.
+Armin van Buuren is a trance and techno artist based in Netherlands, tracked on soundcheck, with 71 sets logged across Amsterdam, Austin, Barcelona and Bristol and 26 more. Often billed alongside Miss Monique, Artbat and Billy Gillies. Next up: [UNVRS], Ibiza on Mon 5 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | [UNVRS] | Ibiza |
 | Mon, 5 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 10 Oct 2026 | Factory Town | Miami |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
@@ -17,17 +16,17 @@ Armin van Buuren is a trance and techno artist based in Netherlands, tracked on 
 
 ## Recently played
 
+- [UNVRS], Ibiza — Mon, 28 Sept 2026
 - Tap1, Copenhagen — Sat, 26 Sept 2026
 - [UNVRS], Ibiza — Mon, 21 Sept 2026
 - [UNVRS], Ibiza — Mon, 14 Sept 2026
 - [UNVRS], Ibiza — Mon, 7 Sept 2026
 - Gateway Studios, Oslo — Fri, 4 Sept 2026
+- Skeittipuisto, Helsinki — Fri, 4 Sept 2026
 - Downsview Park, Toronto — Fri, 31 Jul 2026
-- Downsview Park, Toronto — Fri, 31 Jul 2026
-- Dolder Kunsteisbahn Zurich, Zurich — Sat, 11 Jul 2026
 
 ## Shares bills with
 
 Miss Monique, Artbat, Billy Gillies
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arminvanbuuren/)*

@@ -1,8 +1,8 @@
 # Colour Factory
 
-Colour Factory is a music venue in London with 23 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Hitty-X" on Sat, 3 Oct 2026.
+Colour Factory is a music venue in London with 28 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Hitty-X" on Sat, 3 Oct 2026.
 
-Colour Factory is a music venue in London listed on soundcheck. 23 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and Andrea Giudice and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
+Colour Factory is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including Aeroplane, Alexander Robotnick, Alex Metric and AMBRR and 2 more. Browse upcoming dates, start times and who's playing. 8 Queen's Yard, London E9 5EN.
 
 ## What's on
 
@@ -23,4 +23,4 @@ Colour Factory is a music venue in London listed on soundcheck. 23 upcoming gigs
 
 8 Queen's Yard, London E9 5EN, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/colour-factory/)*

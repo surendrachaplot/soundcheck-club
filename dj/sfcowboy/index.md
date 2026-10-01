@@ -1,6 +1,6 @@
 # sfcowboy
 
-sfcowboy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 16 Oct 2026.
+sfcowboy is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at YuYu Cine Club, Mexico City on Fri, 16 Oct 2026.
 
 sfcowboy is a techno and house artist based in United States of America, tracked on soundcheck, with 77 sets logged across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside erika (SF), moth (US) and Lethargy. Next up: YuYu Cine Club, Mexico City on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ sfcowboy is a techno and house artist based in United States of America, tracked
 
 erika (SF), moth (US), Lethargy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sfcowboy/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sfcowboy/)*

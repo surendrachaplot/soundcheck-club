@@ -1,15 +1,15 @@
 # Michael Mayer
 
-Michael Mayer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Michael Mayer is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ijver, Amsterdam on Fri, 23 Oct 2026.
 
-Michael Mayer is a techno and house artist based in Germany, tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Ada. Next up: Loco Park, Tbilisi on Fri 2 Oct.
+Michael Mayer is a techno and house artist based in Germany, tracked on soundcheck, with 84 sets logged across Amsterdam, Bali, Barcelona and Berlin and 25 more. Often billed alongside Robag Wruhme, Reinhard Voigt and Denis Stockhausen. Next up: Ijver, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Fri, 23 Oct 2026 | Ijver | Amsterdam |
+| Sat, 14 Nov 2026 | Gewölbe | Cologne |
 | Sat, 21 Nov 2026 | Black Bear Lodge | Brisbane |
 
 ## Recently played
@@ -25,6 +25,6 @@ Michael Mayer is a techno and house artist based in Germany, tracked on soundche
 
 ## Shares bills with
 
-Robag Wruhme, Reinhard Voigt, Ada
+Robag Wruhme, Reinhard Voigt, Denis Stockhausen
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/michaelmayer/)*

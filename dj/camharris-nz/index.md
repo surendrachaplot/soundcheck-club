@@ -1,6 +1,6 @@
 # Cam Harris
 
-Cam Harris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Silent Studios, Auckland on Fri, 16 Oct 2026.
+Cam Harris is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Silent Studios, Auckland on Fri, 16 Oct 2026.
 
 Cam Harris is a techno and house artist based in New Zealand, tracked on soundcheck, with 14 sets logged across Auckland. Often billed alongside Out Of Sorts, Matt Drake and Mia Kober. Next up: Silent Studios, Auckland on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Cam Harris is a techno and house artist based in New Zealand, tracked on soundch
 
 Out Of Sorts, Matt Drake, Mia Kober
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/camharris-nz/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camharris-nz/)*

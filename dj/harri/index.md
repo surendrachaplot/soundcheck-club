@@ -1,8 +1,8 @@
 # DJ Harri
 
-DJ Harri is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sub Club, Glasgow on Sat, 17 Oct 2026.
+DJ Harri is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sub Club, Glasgow on Sat, 17 Oct 2026.
 
-DJ Harri is a house and techno artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Cork, Dundee, Edinburgh and Glasgow. Often billed alongside Domenic Cappello, Telford and Stevie Cox. Next up: Sub Club, Glasgow on Sat 17 Oct.
+DJ Harri is a house and techno artist based in United Kingdom, tracked on soundcheck, with 59 sets logged across Cork, Dundee, Edinburgh and Glasgow. Often billed alongside Domenic Cappello, Telford and Stevie Cox. Next up: Sub Club, Glasgow on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ DJ Harri is a house and techno artist based in United Kingdom, tracked on soundc
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Sub Club | Glasgow |
 | Sat, 31 Oct 2026 | Sub Club | Glasgow |
+| Sat, 14 Nov 2026 | Sub Club | Glasgow |
+| Sat, 12 Dec 2026 | Sub Club | Glasgow |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ DJ Harri is a house and techno artist based in United Kingdom, tracked on soundc
 
 Domenic Cappello, Telford, Stevie Cox
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harri/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harri/)*

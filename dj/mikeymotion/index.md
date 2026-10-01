@@ -1,6 +1,6 @@
 # Mikey Motion
 
-Mikey Motion is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at SWG3, Glasgow on Sat, 7 Nov 2026.
+Mikey Motion is a Hardcore and Gabber artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at SWG3, Glasgow on Sat, 7 Nov 2026.
 
 Mikey Motion is a hardcore and gabber artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Dundee and Glasgow. Often billed alongside Rob Da Rhythm, Al Twisted and Anime. Next up: SWG3, Glasgow on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Mikey Motion is a hardcore and gabber artist based in United Kingdom, tracked on
 
 Rob Da Rhythm, Al Twisted, Anime
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeymotion/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikeymotion/)*

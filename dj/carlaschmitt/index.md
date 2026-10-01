@@ -1,8 +1,8 @@
 # Carla Schmitt
 
-Carla Schmitt is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hive Club, Zurich on Fri, 2 Oct 2026.
+Carla Schmitt is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hive Club, Zurich on Fri, 2 Oct 2026.
 
-Carla Schmitt is a techno and trance artist based in France, tracked on soundcheck, with 77 sets logged across Barcelona, Basel, Berlin and Cologne and 17 more. Often billed alongside DURDENHAUER, KTK (DE) and Yasmin Regisford. Next up: Hive Club, Zurich on Fri 2 Oct.
+Carla Schmitt is a techno and trance artist based in France, tracked on soundcheck, with 78 sets logged across Barcelona, Basel, Berlin and Cologne and 18 more. Often billed alongside DURDENHAUER, KTK (DE) and Yasmin Regisford. Next up: Hive Club, Zurich on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Carla Schmitt is a techno and trance artist based in France, tracked on soundche
 | Fri, 2 Oct 2026 | Hive Club | Zurich |
 | Sat, 10 Oct 2026 | Plage Privée Parc de Miribel | Lyon |
 | Sat, 10 Oct 2026 | T7 Paris | Paris |
+| Fri, 27 Nov 2026 | Complex Maastricht | Netherlands |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Carla Schmitt is a techno and trance artist based in France, tracked on soundche
 
 DURDENHAUER, KTK (DE), Yasmin Regisford
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschmitt/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlaschmitt/)*

@@ -1,6 +1,6 @@
 # DJ Minx
 
-DJ Minx is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
+DJ Minx is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at House of Yes, New York City on Sat, 3 Oct 2026.
 
 DJ Minx is a house and techno artist based in United States of America, tracked on soundcheck, with 181 sets logged across Amsterdam, Austin, Barcelona and Berlin and 28 more. Often billed alongside DJ Holographic, Carl Craig and Soul Clap. Next up: House of Yes, New York City on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ DJ Minx is a house and techno artist based in United States of America, tracked 
 
 DJ Holographic, Carl Craig, Soul Clap
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djminx/)*

@@ -1,6 +1,6 @@
 # Nanno
 
-Nanno is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club NYX, Amsterdam on Fri, 13 Nov 2026.
+Nanno is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Club NYX, Amsterdam on Fri, 13 Nov 2026.
 
 Nanno is a trance and techno artist tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Hamburg and Munich. Often billed alongside DJ Henk, Naked Nils and YOVA. Next up: Club NYX, Amsterdam on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ Nanno is a trance and techno artist tracked on soundcheck, with 54 sets logged a
 
 DJ Henk, Naked Nils, YOVA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nanno/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nanno/)*

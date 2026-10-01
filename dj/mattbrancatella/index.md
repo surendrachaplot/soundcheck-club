@@ -1,6 +1,6 @@
 # Matt Brancatella
 
-Matt Brancatella is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Stereo, Montreal on Fri, 23 Oct 2026.
+Matt Brancatella is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Stereo, Montreal on Fri, 23 Oct 2026.
 
 Matt Brancatella is a house and techno artist tracked on soundcheck, with 34 sets logged across Boston, Lisbon, Montreal and New York City and 3 more. Often billed alongside Moaad BKR, Shtarek and Adam Solomon. Next up: Stereo, Montreal on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Matt Brancatella is a house and techno artist tracked on soundcheck, with 34 set
 
 Moaad BKR, Shtarek, Adam Solomon
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mattbrancatella/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mattbrancatella/)*

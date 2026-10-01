@@ -1,8 +1,8 @@
 # Mason Collective
 
-Mason Collective is a Tech House and House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gallery, London on Sat, 3 Oct 2026.
+Mason Collective is a Tech House and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gallery, London on Sat, 3 Oct 2026.
 
-Mason Collective is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 220 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 36 more. Often billed alongside Jamie Jones, Franky Rizardo and Marco Carola. Next up: Gallery, London on Sat 3 Oct.
+Mason Collective is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 221 sets logged across Amsterdam, Barcelona, Basel and Birmingham and 36 more. Often billed alongside Jamie Jones, Franky Rizardo and Marco Carola. Next up: Gallery, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mason Collective is a tech house and house artist based in United Kingdom, track
 | Sat, 3 Oct 2026 | Gallery | London |
 | Sun, 4 Oct 2026 | Blue Marlin Ibiza | Ibiza |
 | Thu, 8 Oct 2026 | Pacha Ibiza | Ibiza |
+| Sat, 10 Oct 2026 | Club Space Miami | Miami |
 | Fri, 16 Oct 2026 | Pacha New York | New York City |
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Q-Factory | Amsterdam |
@@ -32,4 +33,4 @@ Mason Collective is a tech house and house artist based in United Kingdom, track
 
 Jamie Jones, Franky Rizardo, Marco Carola
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masoncollective/)*

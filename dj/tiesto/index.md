@@ -1,6 +1,6 @@
 # Tiesto
 
-Tiesto is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Fri, 11 Dec 2026.
+Tiesto is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Fri, 11 Dec 2026.
 
 Tiesto is a house and techno artist based in Netherlands, tracked on soundcheck, with 60 sets logged across Austin, Brussels, Chicago and Ibiza and 13 more. Often billed alongside Chris Lake, Kaskade and Matroda. Next up: Depot Mayfield, Manchester on Fri 11 Dec.
 
@@ -27,4 +27,4 @@ Tiesto is a house and techno artist based in Netherlands, tracked on soundcheck,
 
 Chris Lake, Kaskade, Matroda
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiesto/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiesto/)*

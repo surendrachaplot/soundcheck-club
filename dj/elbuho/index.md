@@ -1,13 +1,14 @@
 # El Buho
 
-El Buho is a Latin Bass and Downtempo artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Jazz Cafe, London on Fri, 27 Nov 2026.
+El Buho is a Latin Bass and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Monopol Madrid, Madrid on Fri, 9 Oct 2026.
 
-El Buho is a latin bass and downtempo artist based in Spain, tracked on soundcheck, with 14 sets logged across Barcelona, Budapest, Edinburgh and London and 4 more. Often billed alongside Nickodemus, Artifex (DE) and Chancha Via Circuito. Next up: The Jazz Cafe, London on Fri 27 Nov.
+El Buho is a latin bass and electronica artist based in Spain, tracked on soundcheck, with 15 sets logged across Barcelona, Budapest, Edinburgh and London and 4 more. Often billed alongside Nickodemus, Artifex (DE) and Chancha Via Circuito. Next up: Monopol Madrid, Madrid on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Monopol Madrid | Madrid |
 | Fri, 27 Nov 2026 | The Jazz Cafe | London |
 
 ## Recently played
@@ -25,4 +26,4 @@ El Buho is a latin bass and downtempo artist based in Spain, tracked on soundche
 
 Nickodemus, Artifex (DE), Chancha Via Circuito
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elbuho/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elbuho/)*

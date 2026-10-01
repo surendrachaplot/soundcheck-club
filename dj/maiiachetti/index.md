@@ -1,8 +1,8 @@
 # Mai iachetti
 
-Mai iachetti is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
+Mai iachetti is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Tokyo Club, Costanera, Buenos Aires on Sat, 3 Oct 2026.
 
-Mai iachetti is a house and tech house artist based in United States of America, tracked on soundcheck, with 130 sets logged across Boston, Buenos Aires, Chicago and Denver and 9 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: TBA - Tokyo Club, Costanera, Buenos Aires on Sat 3 Oct.
+Mai iachetti is a house and tech house artist based in United States of America, tracked on soundcheck, with 132 sets logged across Boston, Buenos Aires, Chicago and Denver and 9 more. Often billed alongside Danyelino, Ms. Mada and Natalia Roth. Next up: TBA - Tokyo Club, Costanera, Buenos Aires on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,12 +11,14 @@ Mai iachetti is a house and tech house artist based in United States of America,
 | Sat, 3 Oct 2026 | TBA - Tokyo Club, Costanera | Buenos Aires |
 | Fri, 16 Oct 2026 | Jolene Downtown Miami | Miami |
 | Fri, 23 Oct 2026 | Echostage | Washington DC |
+| Sat, 24 Oct 2026 | Club Space Miami | Miami |
 | Fri, 30 Oct 2026 | Paraiso Estereo | Miami |
+| Fri, 30 Oct 2026 | Green Room NYC | New York City |
 | Fri, 6 Nov 2026 | Tinker Field | Orlando |
 
 ## Recently played
 
-- TBA, Los Angeles — Fri, 4 Sept 2026
+- Utopia, Los Angeles — Fri, 4 Sept 2026
 - Sunset Park Rooftop, New York City — Fri, 21 Aug 2026
 - Floyd, Miami — Sat, 15 Aug 2026
 - Fooq's Miami, Miami — Sat, 18 Jul 2026
@@ -29,4 +31,4 @@ Mai iachetti is a house and tech house artist based in United States of America,
 
 Danyelino, Ms. Mada, Natalia Roth
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maiiachetti/)*

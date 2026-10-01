@@ -1,13 +1,14 @@
 # SEIJI (2)
 
-SEIJI (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Circus Osaka, Osaka on Fri, 23 Oct 2026.
+SEIJI (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Circus Osaka, Osaka on Thu, 8 Oct 2026.
 
-SEIJI is a techno and house artist based in Japan, tracked on soundcheck, with 24 sets logged across Osaka. Often billed alongside MARU, CityBoyLounge and Genki Tanaka. Next up: Circus Osaka, Osaka on Fri 23 Oct.
+SEIJI is a techno and house artist based in Japan, tracked on soundcheck, with 25 sets logged across Osaka. Often billed alongside MARU, CityBoyLounge and Genki Tanaka. Next up: Circus Osaka, Osaka on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Circus Osaka | Osaka |
 | Fri, 23 Oct 2026 | Circus Osaka | Osaka |
 
 ## Recently played
@@ -25,4 +26,4 @@ SEIJI is a techno and house artist based in Japan, tracked on soundcheck, with 2
 
 MARU (2), CityBoyLounge, Genki Tanaka
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seiji-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seiji-2/)*

@@ -1,14 +1,15 @@
 # Byron The Aquarius
 
-Byron The Aquarius is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Byron The Aquarius is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Byron The Aquarius is a house and deep house artist based in United States of America, tracked on soundcheck, with 61 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside Kyle Hall, Carl Craig and Rimarkable. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
+Byron The Aquarius is a house and deep house artist based in United States of America, tracked on soundcheck, with 62 sets logged across Amsterdam, Auckland, Barcelona and Berlin and 21 more. Often billed alongside Kyle Hall, Carl Craig and Rimarkable. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
+| Fri, 30 Oct 2026 | TBA | Los Angeles |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Byron The Aquarius is a house and deep house artist based in United States of Am
 
 Kyle Hall, Carl Craig, Rimarkable
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/byrontheaquarius/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/byrontheaquarius/)*

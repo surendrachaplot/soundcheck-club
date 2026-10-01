@@ -1,6 +1,6 @@
 # Holly Lester
 
-Holly Lester is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Oxygenic, Newcastle on Sat, 17 Oct 2026.
+Holly Lester is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Oxygenic, Newcastle on Sat, 17 Oct 2026.
 
 Holly Lester is a house and techno artist based in United Kingdom, tracked on soundcheck, with 65 sets logged across Amsterdam, Bali, Belfast and Berlin and 16 more. Often billed alongside Plain Sailing DJs, Swoose and Body Clinic. Next up: Oxygenic, Newcastle on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Holly Lester is a house and techno artist based in United Kingdom, tracked on so
 
 Plain Sailing DJs, Swoose, Body Clinic
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hollylester/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hollylester/)*

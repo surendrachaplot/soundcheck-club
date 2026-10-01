@@ -1,6 +1,6 @@
 # Stylo
 
-Stylo is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+Stylo is a Techno and Hip-Hop artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
 Stylo is a techno and hip-hop artist based in Israel, tracked on soundcheck, with 20 sets logged across Amsterdam, Barcelona, Ibiza and London and 4 more. Often billed alongside Anyma, DJ B2B and Mind Against. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
@@ -26,4 +26,4 @@ Stylo is a techno and hip-hop artist based in Israel, tracked on soundcheck, wit
 
 Anyma, DJ B2B, Mind Against
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stylo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stylo/)*

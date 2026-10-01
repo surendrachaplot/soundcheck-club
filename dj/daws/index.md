@@ -1,13 +1,14 @@
 # DAWS
 
-DAWS is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+DAWS is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Abercrombie Hotel, Sydney on Sat, 31 Oct 2026.
 
-DAWS is a house and techno artist based in Australia, tracked on soundcheck, with 66 sets logged across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Baby G, Bertie and Aldonna. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
+DAWS is a house and techno artist based in Australia, tracked on soundcheck, with 67 sets logged across Amsterdam, Bali, Barcelona and Berlin and 8 more. Often billed alongside Baby G, Bertie and Aldonna. Next up: Abercrombie Hotel, Sydney on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Abercrombie Hotel | Sydney |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played
@@ -25,4 +26,4 @@ DAWS is a house and techno artist based in Australia, tracked on soundcheck, wit
 
 Baby G, Bertie, Aldonna
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daws/)*

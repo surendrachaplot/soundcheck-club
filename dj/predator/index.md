@@ -1,8 +1,8 @@
 # Predator
 
-Predator is a Hardcore and Gabber artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
+Predator is a Hardcore and Gabber artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Westfalenhallen, Dortmund-essen on Sat, 3 Oct 2026.
 
-Predator is a hardcore and gabber artist based in Italy, tracked on soundcheck, with 2 sets logged across Dortmund Essen and Frankfurt. Often billed alongside Act of Rage, Angerfist and Dr Donk. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
+Predator is a hardcore and gabber artist based in Italy, tracked on soundcheck, with 3 sets logged across Amsterdam, Dortmund Essen and Frankfurt. Often billed alongside Act of Rage, Angerfist and Dr Donk. Next up: Westfalenhallen, Dortmund Essen on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,9 +10,10 @@ Predator is a hardcore and gabber artist based in Italy, tracked on soundcheck, 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Westfalenhallen | Dortmund-essen |
 | Sat, 3 Oct 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
+| Sat, 30 Jan 2027 | Paradiso | Amsterdam |
 
 ## Shares bills with
 
 Act of Rage, Angerfist, Dr Donk
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/predator/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/predator/)*

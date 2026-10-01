@@ -1,6 +1,6 @@
 # Eddie Van Poppel
 
-Eddie Van Poppel is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Crown Pier, London on Thu, 29 Oct 2026.
+Eddie Van Poppel is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Crown Pier, London on Thu, 29 Oct 2026.
 
 Eddie Van Poppel is a house and disco artist based in United Kingdom, tracked on soundcheck, with 120 sets logged across London. Often billed alongside VanRock, Mr Fresh Official and NYCity Soundz. Next up: Crown Pier, London on Thu 29 Oct.
 
@@ -28,4 +28,4 @@ Eddie Van Poppel is a house and disco artist based in United Kingdom, tracked on
 
 VanRock, Mr Fresh Official, NYCity Soundz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eddievanpoppel/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eddievanpoppel/)*

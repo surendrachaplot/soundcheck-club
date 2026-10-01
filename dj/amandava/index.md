@@ -1,6 +1,6 @@
 # Aman Dava
 
-Aman Dava is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 7833 Soundlab, Barcelona on Fri, 16 Oct 2026.
+Aman Dava is a Downtempo and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 7833 Soundlab, Barcelona on Fri, 16 Oct 2026.
 
 Aman Dava is a downtempo and deep house artist tracked on soundcheck, with 7 sets logged across Barcelona. Often billed alongside MIRET, Joma Route and Mutul. Next up: 7833 Soundlab, Barcelona on Fri 16 Oct.
 
@@ -23,4 +23,4 @@ Aman Dava is a downtempo and deep house artist tracked on soundcheck, with 7 set
 
 MIRET, Joma Route, Mutul
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amandava/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amandava/)*

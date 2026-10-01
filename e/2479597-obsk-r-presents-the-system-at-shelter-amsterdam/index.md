@@ -1,6 +1,6 @@
 # Obskür presents: The System at Shelter Amsterdam
 
-Obskür presents: The System at Shelter Amsterdam on Fri 23 Oct, Amsterdam. 6 artists on the bill: Dusky, Elliot Schooling, Emma 2000 and Jamie Fielding and 2 more. Preview the line-up and save it on soundcheck.
+Obskür presents: The System at Shelter Amsterdam on Fri 23 Oct, Amsterdam. 7 artists on the bill: Dusky, Elliot Schooling, Emma 2000 and Jake Fitz and 3 more. House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Obskür presents: The System at Shelter Amsterdam on Fri 23 Oct, Amsterdam. 6 ar
 - Dusky
 - Elliot Schooling
 - Emma 2000
+- Jake Fitz
 - Jamie Fielding
 - Liam Palmer
 - Obskur

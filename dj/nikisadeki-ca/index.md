@@ -1,6 +1,6 @@
 # Niki Sadeki
 
-Niki Sadeki is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
+Niki Sadeki is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at WestWeelde, Amsterdam on Sat, 24 Oct 2026.
 
 Niki Sadeki is a house and deep house artist based in Canada, tracked on soundcheck, with 68 sets logged across Amsterdam, Berlin, Chicago and Copenhagen and 16 more. Often billed alongside Britta Arnold, Chris Schwarzwälder and ELIF. Next up: WestWeelde, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Niki Sadeki is a house and deep house artist based in Canada, tracked on soundch
 
 Britta Arnold, Chris Schwarzwälder, ELIF
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikisadeki-ca/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikisadeki-ca/)*

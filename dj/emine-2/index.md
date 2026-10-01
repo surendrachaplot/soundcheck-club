@@ -1,17 +1,18 @@
 # Emine (2)
 
-Emine (2) is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Tunisia on Fri, 27 Nov 2026.
+Emine (2) is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at One Resort, Tunisia on Thu, 5 Nov 2026.
 
-Emine is an electronic artist based in Tunisia, tracked on soundcheck, with 1 set logged across Tunisia. Often billed alongside Kian OK, Omar Fayyad and Pan-J. Next up: TBA, Tunisia on Fri 27 Nov.
+Emine is an electronic artist based in Tunisia, tracked on soundcheck, with 2 sets logged across Tunisia. Often billed alongside Pan-J, Adema and Alexander Skancke. Next up: One Resort, Tunisia on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 5 Nov 2026 | One Resort | Tunisia |
 | Fri, 27 Nov 2026 | TBA | Tunisia |
 
 ## Shares bills with
 
-Kian OK, Omar Fayyad, Pan-J
+Pan-J, Adema, Alexander Skancke
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emine-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emine-2/)*

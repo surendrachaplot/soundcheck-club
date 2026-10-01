@@ -1,6 +1,6 @@
 # Ben UFO
 
-Ben UFO is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+Ben UFO is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
 Ben UFO is a techno and house artist based in United Kingdom, tracked on soundcheck, with 238 sets logged across Amsterdam, Athens, Auckland and Austin and 60 more. Often billed alongside Helena Hauff, Ogazón and Pangaea. Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
@@ -34,4 +34,4 @@ Ben UFO is a techno and house artist based in United Kingdom, tracked on soundch
 
 Helena Hauff, Ogazón, Pangaea
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benufo/)*

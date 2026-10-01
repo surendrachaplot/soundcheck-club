@@ -1,6 +1,6 @@
 # Boskøw
 
-Boskøw is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Unité.22, Marseille on Fri, 16 Oct 2026.
+Boskøw is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Unité.22, Marseille on Fri, 16 Oct 2026.
 
 Boskøw is a techno and electro artist based in France, tracked on soundcheck, with 8 sets logged across Marseille and Paris. Often billed alongside 42L, Ben Klock and Camion Bazar. Next up: Unité.22, Marseille on Fri 16 Oct.
 
@@ -24,4 +24,4 @@ Boskøw is a techno and electro artist based in France, tracked on soundcheck, w
 
 42L (1), Ben Klock, Camion Bazar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/boskow-fr/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/boskow-fr/)*

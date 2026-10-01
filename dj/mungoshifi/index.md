@@ -1,6 +1,6 @@
 # Mungo's Hi Fi
 
-Mungo's Hi Fi is a Dub and Dancehall artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sub Club, Glasgow on Fri, 2 Oct 2026.
+Mungo's Hi Fi is a Dub and Dancehall artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sub Club, Glasgow on Fri, 2 Oct 2026.
 
 Mungo's Hi Fi is a dub and dancehall artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Birmingham, Brighton, Bristol and Denver and 14 more. Often billed alongside Eva Lazarus, Dillinja and Carasel. Next up: Sub Club, Glasgow on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Mungo's Hi Fi is a dub and dancehall artist based in United Kingdom, tracked on 
 
 Eva Lazarus, Dillinja, Carasel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mungoshifi/)*

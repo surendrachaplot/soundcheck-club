@@ -1,13 +1,15 @@
 # AJ Christou
 
-AJ Christou is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mediahaven - Minervahaven, Amsterdam on Fri, 23 Oct 2026.
+AJ Christou is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Club Space Miami, Miami on Sat, 10 Oct 2026.
 
-AJ Christou is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 21 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Mediahaven - Minervahaven, Amsterdam on Fri 23 Oct.
+AJ Christou is a tech house and house artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 21 more. Often billed alongside Mason Collective, Fleur Shore and Jesse Calosso. Next up: Club Space Miami, Miami on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Club Space Miami | Miami |
+| Fri, 16 Oct 2026 | Coda | Toronto |
 | Fri, 23 Oct 2026 | Mediahaven - Minervahaven | Amsterdam |
 
 ## Recently played
@@ -25,4 +27,4 @@ AJ Christou is a tech house and house artist based in United Kingdom, tracked on
 
 Mason Collective, Fleur Shore, Jesse Calosso
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ajchristou/)*

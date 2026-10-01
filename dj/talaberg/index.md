@@ -1,6 +1,6 @@
 # Tala Berg
 
-Tala Berg is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Tala Berg is a Techno and Downtempo artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
 Tala Berg is a techno and downtempo artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Cologne and Munich. Often billed alongside Wanda Wild, ANASTASÍA and Amøn. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
@@ -22,4 +22,4 @@ Tala Berg is a techno and downtempo artist based in Germany, tracked on soundche
 
 Wanda Wild, ANASTASÍA, Amøn
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/talaberg/)*

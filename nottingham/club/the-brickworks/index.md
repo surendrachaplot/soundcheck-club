@@ -1,14 +1,15 @@
 # The Brickworks
 
-The Brickworks is a music venue in Nottingham with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "The Brickworks: Captain Wallop & RTK Tarantino" on Fri, 2 Oct 2026.
+The Brickworks is a music venue in Nottingham with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "The Brickworks: Captain Wallop & RTK Tarantino" on Fri, 2 Oct 2026.
 
-The Brickworks is a music venue in Nottingham listed on soundcheck. 5 upcoming gigs, with line-ups including Captain Wallop, Channel One Sound, Milzy and Mr Scruff and 2 more. Browse upcoming dates, start times and who's playing. Newark St, Nottingham, NG2 4PP United Kingdom.
+The Brickworks is a music venue in Nottingham listed on soundcheck. 6 upcoming gigs, with line-ups including Captain Wallop, Channel One Sound, Frandanski and Milzy and 2 more. Browse upcoming dates, start times and who's playing. Newark St, Nottingham, NG2 4PP United Kingdom.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Brickworks: Captain Wallop & RTK Tarantino | Captain Wallop, RTK Tarantino |
+| Fri, 9 Oct 2026 | 35 years of Smokescreen Soundsystem with X-press 2 | Frandanski |
 | Fri, 16 Oct 2026 | Mimm presents: Mr Scruff | Mr Scruff |
 | Sat, 24 Oct 2026 | Our Yard: CHANNEL ONE vs Sinai SoundSystem | Channel One Sound |
 | Fri, 30 Oct 2026 | Big Fat Rave x Psyked: HALLOWEEN / Saint Ludo, n4tee, Che3kz & More | Milzy, Saint Ludo, TABZ, n4tee |
@@ -18,4 +19,4 @@ The Brickworks is a music venue in Nottingham listed on soundcheck. 5 upcoming g
 
 Newark St, Nottingham, NG2 4PP United Kingdom, Nottingham
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/nottingham/club/the-brickworks/)*

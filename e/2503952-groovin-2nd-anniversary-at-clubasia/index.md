@@ -1,6 +1,6 @@
 # GROOVIN' 2nd Anniversary at clubasia
 
-GROOVIN' 2nd Anniversary at clubasia on Fri 16 Oct, Tokyo. 8 artists on the bill: Bonnie, discopants, m-int and MK woop and 4 more. House and Hip-Hop. Preview the line-up and save it on soundcheck.
+GROOVIN' 2nd Anniversary at clubasia on Fri 16 Oct, Tokyo. 1 artist on the bill: Ground. House and Hip-Hop. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,13 +10,6 @@ GROOVIN' 2nd Anniversary at clubasia on Fri 16 Oct, Tokyo. 8 artists on the bill
 
 ## Line-up
 
-- Bonnie
-- discopants
-- m-int
-- MK woop
-- Shoma fr,dambosound
-- YELLOWUHURU
-- YO.AN
-- yodel
+- Ground (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2503952-groovin-2nd-anniversary-at-clubasia/)*

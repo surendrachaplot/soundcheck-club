@@ -1,8 +1,8 @@
 # Johnny Greig
 
-Johnny Greig is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Berkeley Suite, Glasgow on Thu, 1 Oct 2026.
+Johnny Greig is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Berkeley Suite, Glasgow on Thu, 1 Oct 2026.
 
-Johnny Greig is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Glasgow. Often billed alongside DEJA, SKEEN and AKA DISPLAY. Next up: The Berkeley Suite, Glasgow on Thu 1 Oct.
+Johnny Greig is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Glasgow. Often billed alongside SKEEN, AKA DISPLAY and DEJA. Next up: The Berkeley Suite, Glasgow on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -24,6 +24,6 @@ Johnny Greig is a techno and minimal techno artist based in United Kingdom, trac
 
 ## Shares bills with
 
-DEJA, SKEEN, AKA DISPLAY
+SKEEN, AKA DISPLAY, DEJA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnygreig/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnnygreig/)*

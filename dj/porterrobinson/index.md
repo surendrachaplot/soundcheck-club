@@ -1,13 +1,14 @@
 # Porter Robinson
 
-Porter Robinson is a House and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Concourse Project, Austin on Fri, 13 Nov 2026.
+Porter Robinson is a House and Pop artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at New Orleans, LA, Mardi Gras World, New-orleans on Fri, 30 Oct 2026.
 
-Porter Robinson is a house and pop artist based in United States of America, tracked on soundcheck, with 16 sets logged across Austin, Boston, Chicago and Los Angeles and 5 more. Often billed alongside Max Styler, G Jones and Layton Giordani. Next up: The Concourse Project, Austin on Fri 13 Nov.
+Porter Robinson is a house and pop artist based in United States of America, tracked on soundcheck, with 17 sets logged across Austin, Boston, Chicago and Los Angeles and 6 more. Often billed alongside Max Styler, Chris Lorenzo and FISHER. Next up: New Orleans, LA, Mardi Gras World, New Orleans on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | New Orleans, LA, Mardi Gras World | New-orleans |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Porter Robinson is a house and pop artist based in United States of America, tra
 
 ## Shares bills with
 
-Max Styler, G Jones, Layton Giordani
+Max Styler, Chris Lorenzo, FISHER
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/porterrobinson/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/porterrobinson/)*

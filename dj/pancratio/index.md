@@ -1,8 +1,8 @@
 # Pancratio
 
-Pancratio is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Aviva Studios, Manchester on Fri, 9 Oct 2026.
+Pancratio is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Aviva Studios, Manchester on Fri, 9 Oct 2026.
 
-Pancratio is a house and techno artist based in Italy, tracked on soundcheck, with 60 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 18 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Aviva Studios, Manchester on Fri 9 Oct.
+Pancratio is a house and techno artist based in Italy, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 19 more. Often billed alongside Dante (H501), Fabrizio Sala and Leo Benassi. Next up: Aviva Studios, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Pancratio is a house and techno artist based in Italy, tracked on soundcheck, wi
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | Basic Club | Naples |
 | Sat, 31 Oct 2026 | Invisible Wind Factory | Liverpool |
+| Sat, 14 Nov 2026 | Sub Club | Glasgow |
 | Fri, 20 Nov 2026 | Fridas Pier | Stuttgart |
 
 ## Recently played
@@ -31,4 +32,4 @@ Pancratio is a house and techno artist based in Italy, tracked on soundcheck, wi
 
 Dante (H501), Fabrizio Sala, Leo Benassi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pancratio/)*

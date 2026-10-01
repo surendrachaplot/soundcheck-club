@@ -1,8 +1,8 @@
 # Acid Arab
 
-Acid Arab is a Electro and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at control, Bucharest on Fri, 2 Oct 2026.
+Acid Arab is a Electro and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at control, Bucharest on Fri, 2 Oct 2026.
 
-Acid Arab is an electro and techno artist based in France, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: control, Bucharest on Fri 2 Oct.
+Acid Arab is an electro and techno artist based in France, tracked on soundcheck, with 94 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 27 more. Often billed alongside NTO, Goom Gum and Hannes Bieger. Next up: control, Bucharest on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Acid Arab is an electro and techno artist based in France, tracked on soundcheck
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | control | Bucharest |
 | Sat, 3 Oct 2026 | Akvárium Klub | Budapest |
+| Sat, 10 Oct 2026 | Cross Club | Prague |
 | Thu, 15 Oct 2026 | Gretchen | Berlin |
 | Fri, 16 Oct 2026 | Gretchen | Berlin |
 | Thu, 22 Oct 2026 | Hotel Arena | Amsterdam |
@@ -29,4 +30,4 @@ Acid Arab is an electro and techno artist based in France, tracked on soundcheck
 
 NTO, Goom Gum, Hannes Bieger
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/acidarab/)*

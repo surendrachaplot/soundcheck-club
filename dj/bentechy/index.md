@@ -1,20 +1,25 @@
 # Ben Techy
 
-Ben Techy is a Techno and Industrial artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sound Department, South on Sat, 10 Oct 2026.
+Ben Techy is a Techno and Industrial artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Indiego Glocksee, Hannover on Sat, 3 Oct 2026.
 
-Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Raxeller, SANTØS and A.N.I.. Next up: Sound Department, South on Sat 10 Oct.
+Ben Techy is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Raxeller, SANTØS and KARAH. Next up: Indiego Glocksee, Hannover on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Indiego Glocksee | Hannover |
 | Sat, 10 Oct 2026 | Sound Department | South |
 | Fri, 16 Oct 2026 | MÄX | Zurich |
 | Sat, 24 Oct 2026 | BASIS | Utrecht |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
+| Sat, 14 Nov 2026 | WDM | Hannover |
 | Sat, 21 Nov 2026 | Panama | Amsterdam |
 | Sat, 28 Nov 2026 | OST | Berlin |
+| Sun, 29 Nov 2026 | Tirana Olympic Park | Tirana |
 | Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Thu, 31 Dec 2026 | Garage Klub | Antwerp |
+| Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played
 
@@ -29,6 +34,6 @@ Ben Techy is a techno and industrial artist based in United Kingdom, tracked on 
 
 ## Shares bills with
 
-Raxeller, SANTØS, A.N.I.
+Raxeller, SANTØS, KARAH
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bentechy/)*

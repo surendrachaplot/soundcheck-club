@@ -1,6 +1,6 @@
 # Arabesque
 
-Arabesque is a Techno and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Flinders, Sydney on Sat, 3 Oct 2026.
+Arabesque is a Techno and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Flinders, Sydney on Sat, 3 Oct 2026.
 
 Arabesque is a techno and funk / soul artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Bristol, Glasgow, London and Sydney. Often billed alongside Brown Excellence, Alicia (UK) and Audiophile. Next up: The Flinders, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Arabesque is a techno and funk / soul artist based in United Kingdom, tracked on
 
 Brown Excellence, Alicia (UK), Audiophile
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/arabesque/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/arabesque/)*

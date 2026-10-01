@@ -1,8 +1,8 @@
 # S-max
 
-S-max is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Giri, Berlin on Fri, 2 Oct 2026.
+S-max is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Giri, Berlin on Fri, 2 Oct 2026.
 
-S-max is an electronic artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Vienna. Often billed alongside Jackbox, Gebrüder Teichmann and Raymond Ernst. Next up: Giri, Berlin on Fri 2 Oct.
+S-max is an electronic artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Vienna. Often billed alongside Jackbox, Raymond Ernst and Gebrüder Teichmann. Next up: Giri, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ S-max is an electronic artist based in Germany, tracked on soundcheck, with 12 s
 
 ## Shares bills with
 
-Jackbox, Gebrüder Teichmann, Raymond Ernst
+Jackbox, Raymond Ernst, Gebrüder Teichmann
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/s-max/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/s-max/)*

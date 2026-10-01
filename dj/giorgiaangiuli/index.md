@@ -1,13 +1,14 @@
 # Giorgia Angiuli
 
-Giorgia Angiuli is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
+Giorgia Angiuli is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Soap House - Ex Saponerie Mira Lanza, Rome on Fri, 16 Oct 2026.
 
-Giorgia Angiuli is a techno and tech house artist based in Italy, tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Barcelona and Berlin and 23 more. Often billed alongside Lino Fuso, Cambric and Indira Paganotto. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
+Giorgia Angiuli is a techno and tech house artist based in Italy, tracked on soundcheck, with 69 sets logged across Amsterdam, Austin, Barcelona and Berlin and 24 more. Often billed alongside Lino Fuso, Cambric and Indira Paganotto. Next up: Soap House - Ex Saponerie Mira Lanza, Rome on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Soap House - Ex Saponerie Mira Lanza | Rome |
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 23 Oct 2026 | E1 | London |
 | Sun, 25 Oct 2026 | John Doe | Amsterdam |
@@ -28,4 +29,4 @@ Giorgia Angiuli is a techno and tech house artist based in Italy, tracked on sou
 
 Lino Fuso, Cambric, Indira Paganotto
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/giorgiaangiuli/)*

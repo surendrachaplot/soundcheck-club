@@ -1,18 +1,18 @@
 # Ace*Mission Studios
 
-Ace*Mission Studios is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Factory 93 presents Brunello's Mellow Circus" on Sat, 31 Oct 2026.
+Ace*Mission Studios is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Factory 93 presents Brunello's Mellow Circus" on Sat, 31 Oct 2026.
 
-Ace*Mission Studios is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Bambounou and Brunello. Browse upcoming dates, start times and who's playing. 516 S Mission Rd, Los Angeles, CA 90033.
+Ace*Mission Studios is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Bambounou, Ben Klock, Blawan and Brunello and 2 more. Browse upcoming dates, start times and who's playing. 516 S Mission Rd, Los Angeles, CA 90033.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Factory 93 presents Brunello's Mellow Circus | Bambounou, Brunello |
-| Fri, 27 Nov 2026 | Time Warp Los Angeles 2026 |  |
+| Fri, 27 Nov 2026 | Time Warp Los Angeles 2026 | Ben Klock, Blawan, Chlär, Cloudy, Colored Craig, D.Dan, DESIREE (RSA), Dennis Ferrer, East End Dubs, Elli Acula, Freddy K, Funk Tribu, Gerd Janson, HAAi, Heidi Lawden, INVT, John Bryars, Juliana Huxtable, Julya Karma, Loco Dice, Luuk van Dijk, Masha Mar, NOVAH, ONYVAA, Quest (IT), Richie Hawtin, Ryan Elliott, Rødhåd, SOSA (UK), SPFDJ, Skream, TOCCORORO, The Martinez Brothers, Tiga, fun2bjane, southstar, ØTTA, Ønyx |
 
 ## Address
 
 516 S Mission Rd, Los Angeles, CA 90033, Los Angeles
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/ace-mission-studios/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/ace-mission-studios/)*

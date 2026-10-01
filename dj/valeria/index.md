@@ -1,14 +1,13 @@
 # Valeria
 
-Valeria is a Disco and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at OXI, Berlin on Sat, 3 Oct 2026.
+Valeria is a Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Südpol, Hamburg on Sat, 10 Oct 2026.
 
-Valeria is a disco and techno artist based in Mexico, tracked on soundcheck, with 15 sets logged across Berlin, Hamburg, Los Angeles and Munich and 1 more. Often billed alongside BOTHEN, Bernd Affleck and Blosvenn. Next up: OXI, Berlin on Sat 3 Oct.
+Valeria is a techno artist based in Mexico, tracked on soundcheck, with 14 sets logged across Berlin, Hamburg, Los Angeles and Munich and 1 more. Often billed alongside BOTHEN, Bernd Affleck and Blosvenn. Next up: Südpol, Hamburg on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | OXI | Berlin |
 | Sat, 10 Oct 2026 | Südpol | Hamburg |
 
 ## Recently played
@@ -26,4 +25,4 @@ Valeria is a disco and techno artist based in Mexico, tracked on soundcheck, wit
 
 BOTHEN, Bernd Affleck, Blosvenn
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valeria/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valeria/)*

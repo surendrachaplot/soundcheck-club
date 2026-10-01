@@ -1,8 +1,8 @@
 # Ricardo Garduno
 
-Ricardo Garduno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at John Doe, Amsterdam on Thu, 1 Oct 2026.
+Ricardo Garduno is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at John Doe, Amsterdam on Thu, 1 Oct 2026.
 
-Ricardo Garduno is a techno and house artist based in Mexico, tracked on soundcheck, with 35 sets logged across Amsterdam, Bangkok, Berlin and Madrid and 4 more. Often billed alongside Marco Ramos, Celice Monnette and Chich. Next up: John Doe, Amsterdam on Thu 1 Oct.
+Ricardo Garduno is a techno and house artist based in Mexico, tracked on soundcheck, with 36 sets logged across Amsterdam, Bangkok, Berlin and Madrid and 5 more. Often billed alongside Marco Ramos, Celice Monnette and Chich. Next up: John Doe, Amsterdam on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ricardo Garduno is a techno and house artist based in Mexico, tracked on soundch
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | John Doe | Amsterdam |
 | Sun, 4 Oct 2026 | Glazart | Paris |
+| Sat, 14 Nov 2026 | Tunnel Club | Pereira |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ricardo Garduno is a techno and house artist based in Mexico, tracked on soundch
 
 Marco Ramos, Celice Monnette, Chich
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardogarduno/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ricardogarduno/)*

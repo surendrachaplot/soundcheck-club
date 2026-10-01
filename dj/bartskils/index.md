@@ -1,16 +1,18 @@
 # Bart Skils
 
-Bart Skils is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Los Angeles, Los Angeles on Fri, 9 Oct 2026.
+Bart Skils is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Dom Mladih, Bosnia-and-herzegovina on Sat, 3 Oct 2026.
 
-Bart Skils is a techno and house artist based in Netherlands, tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Bali and Bangkok and 40 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: TBA - Los Angeles, Los Angeles on Fri 9 Oct.
+Bart Skils is a techno and house artist based in Netherlands, tracked on soundcheck, with 132 sets logged across Amsterdam, Athens, Bali and Bangkok and 42 more. Often billed alongside Adam Beyer, Eli Brown and Victor Ruiz. Next up: Dom Mladih, Bosnia And Herzegovina on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Dom Mladih | Bosnia-and-herzegovina |
 | Fri, 9 Oct 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 10 Oct 2026 | The San Francisco Mint | San Francisco/Oakland |
 | Fri, 16 Oct 2026 | UNDERCITY | Seoul |
+| Sat, 17 Oct 2026 | WOMB | Tokyo |
 | Sat, 5 Dec 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
@@ -28,4 +30,4 @@ Bart Skils is a techno and house artist based in Netherlands, tracked on soundch
 
 Adam Beyer, Eli Brown, Victor Ruiz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bartskils/)*

@@ -1,6 +1,6 @@
 # Simple Things Festival 2026 at Various Venues, Bristol
 
-Simple Things Festival 2026 at Various Venues, Bristol on Sat 7 Nov, Bristol. 35 artists on the bill: 96 Back, A Good Year, Alex Wilcox and Arsenal Mikebe and 31 more. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
+Simple Things Festival 2026 at Various Venues, Bristol on Sat 7 Nov, Bristol. 36 artists on the bill: 96 Back, A Good Year, Alex Wilcox and Arsenal Mikebe and 32 more. Post-Punk and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -19,7 +19,7 @@ Simple Things Festival 2026 at Various Venues, Bristol on Sat 7 Nov, Bristol. 35
 - COBRAH
 - comfort
 - COUCOU CHLOE
-- DIALS
+- DJ Dials
 - e-kitty
 - Fine (2)
 - Gold Panda
@@ -29,6 +29,7 @@ Simple Things Festival 2026 at Various Venues, Bristol on Sat 7 Nov, Bristol. 35
 - Loukeman
 - Marla Kether
 - Mietze Conte
+- MONOSUM
 - Moor Mother
 - Ms Ray
 - Muchas Problemas

@@ -1,6 +1,6 @@
 # Marco del Bosque
 
-Marco del Bosque is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat, 17 Oct 2026.
+Marco del Bosque is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat, 17 Oct 2026.
 
 Marco del Bosque is a techno and house artist tracked on soundcheck, with 18 sets logged across Brussels and Paris. Often billed alongside Eldat, Mel (FR) and Toscan Haas. Next up: TBA - Le TLM Paris - 105 Rue Curial, 75019 Paris, Paris on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Marco del Bosque is a techno and house artist tracked on soundcheck, with 18 set
 
 Eldat, Mel (FR), Toscan Haas
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcodelbosque/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcodelbosque/)*

@@ -1,14 +1,16 @@
 # Abisai
 
-Abisai is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Botanero, Chicago on Sat, 17 Oct 2026.
+Abisai is a Techno and Minimal Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The First Presbyterian Church of Chicago, Chicago on Sat, 17 Oct 2026.
 
-Abisai is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 6 sets logged across Chicago. Often billed alongside Valentina Cappellari, 1morning and Eulalia. Next up: Botanero, Chicago on Sat 17 Oct.
+Abisai is a techno and minimal techno artist based in United States of America, tracked on soundcheck, with 8 sets logged across Chicago. Often billed alongside Valentina Cappellari, 1morning and Brenda. Next up: The First Presbyterian Church of Chicago, Chicago on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | The First Presbyterian Church of Chicago | Chicago |
 | Sat, 17 Oct 2026 | Botanero | Chicago |
+| Fri, 30 Oct 2026 | Smoke & Mirrors | Chicago |
 
 ## Recently played
 
@@ -20,6 +22,6 @@ Abisai is a techno and minimal techno artist based in United States of America, 
 
 ## Shares bills with
 
-Valentina Cappellari, 1morning, Eulalia
+Valentina Cappellari, 1morning, Brenda
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abisai/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abisai/)*

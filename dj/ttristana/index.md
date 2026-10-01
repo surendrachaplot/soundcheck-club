@@ -1,15 +1,17 @@
 # TTristana
 
-TTristana is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
+TTristana is a Techno and Experimental artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
 
-TTristana is a techno and experimental artist based in France, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Lisa More, vendredear and Alexi Shell. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
+TTristana is a techno and experimental artist based in France, tracked on soundcheck, with 66 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 8 more. Often billed alongside Lisa More, Golce and vendredear. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Café Nuances  - Marais | Paris |
+| Fri, 9 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 10 Oct 2026 | La Machine Du Moulin Rouge | Paris |
+| Sat, 31 Oct 2026 | Le Sucre | Lyon |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ TTristana is a techno and experimental artist based in France, tracked on soundc
 
 ## Shares bills with
 
-Lisa More, vendredear, Alexi Shell
+Lisa More, Golce, vendredear
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ttristana/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ttristana/)*

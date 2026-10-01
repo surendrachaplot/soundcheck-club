@@ -1,6 +1,6 @@
 # Daughter In Law
 
-Daughter In Law is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hive Club, Zurich on Fri, 2 Oct 2026.
+Daughter In Law is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hive Club, Zurich on Fri, 2 Oct 2026.
 
 Daughter In Law is a house and techno artist based in Switzerland, tracked on soundcheck, with 54 sets logged across Amsterdam, Basel, Frankfurt and Munich and 4 more. Often billed alongside Alex Dallas, De La Maso and M-High. Next up: Hive Club, Zurich on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Daughter In Law is a house and techno artist based in Switzerland, tracked on so
 
 Alex Dallas, De La Maso, M-High
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daughterinlaw/)*

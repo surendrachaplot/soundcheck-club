@@ -1,14 +1,15 @@
 # carlo kalu
 
-carlo kalu is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Elektroküche, Cologne on Fri, 6 Nov 2026.
+carlo kalu is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Elektroküche, Cologne on Fri, 6 Nov 2026.
 
-carlo kalu is a techno and trance artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 3 more. Often billed alongside Crystal O, Joey and KILIÅN. Next up: Elektroküche, Cologne on Fri 6 Nov.
+carlo kalu is a techno and trance artist based in Germany, tracked on soundcheck, with 18 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 4 more. Often billed alongside Crystal O, Joey and KILIÅN. Next up: Elektroküche, Cologne on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | Elektroküche | Cologne |
+| Sat, 21 Nov 2026 | Club Favela | Munster |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ carlo kalu is a techno and trance artist based in Germany, tracked on soundcheck
 
 Crystal O, Joey (2), KILIÅN
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokalu/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carlokalu/)*

@@ -1,14 +1,15 @@
 # Xenia Reaper
 
-Xenia Reaper is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Secret Location, Berlin on Sun, 4 Oct 2026.
+Xenia Reaper is a Ambient and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Location, Berlin on Sun, 4 Oct 2026.
 
-Xenia Reaper is an experimental and ambient artist based in Germany, tracked on soundcheck, with 30 sets logged across Amsterdam, Berlin, Cologne and Glasgow and 3 more. Often billed alongside CYBERMISSION, Conna Haraway and ex wiish. Next up: TBA - Secret Location, Berlin on Sun 4 Oct.
+Xenia Reaper is an ambient and experimental artist based in Germany, tracked on soundcheck, with 31 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 4 more. Often billed alongside CYBERMISSION, Conna Haraway and ex wiish. Next up: TBA - Secret Location, Berlin on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | TBA - Secret Location | Berlin |
+| Sat, 31 Oct 2026 | Pylonen - Frizonen Langebro | Copenhagen |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Xenia Reaper is an experimental and ambient artist based in Germany, tracked on 
 
 CYBERMISSION, Conna Haraway, ex wiish
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xeniareaper/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xeniareaper/)*

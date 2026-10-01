@@ -1,6 +1,6 @@
 # TEMPØ - Community Dance by ZERØBPM at TBA - Spijkerkade 2
 
-TEMPØ - Community Dance by ZERØBPM at TBA - Spijkerkade 2 on Sun 4 Oct, Amsterdam. 7 artists on the bill: BIANKA, Delano Legito, Hitam and Human Space Machine and 3 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
+TEMPØ - Community Dance by ZERØBPM at TBA - Spijkerkade 2 on Sun 4 Oct, Amsterdam. 8 artists on the bill: BIANKA, Delano Legito, Hitam and Human Space Machine and 4 more. Techno and Dub Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -16,6 +16,7 @@ TEMPØ - Community Dance by ZERØBPM at TBA - Spijkerkade 2 on Sun 4 Oct, Amster
 - Human Space Machine
 - I-RO
 - Mirella Kroes
+- Nastia
 - Vera Grace
 
 *Source: [soundcheck](https://soundcheck.club/e/2538893-temp-community-dance-by-zer-bpm-at-tba-spijkerkade-2/)*

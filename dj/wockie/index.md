@@ -1,6 +1,6 @@
 # WOCKIE
 
-WOCKIE is a Reggaeton and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Kilowatt Bar, San Francisco/Oakland on Fri, 2 Oct 2026.
+WOCKIE is a Reggaeton and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kilowatt Bar, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 WOCKIE is a reggaeton and club artist based in United States of America, tracked on soundcheck, with 23 sets logged across New York City and San Francisco/Oakland. Often billed alongside mare.e.fresh, Profesito and Femme Jatale. Next up: Kilowatt Bar, San Francisco/Oakland on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ WOCKIE is a reggaeton and club artist based in United States of America, tracked
 
 mare.e.fresh, Profesito, Femme Jatale
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/wockie/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/wockie/)*

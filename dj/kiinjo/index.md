@@ -1,13 +1,14 @@
 # Kiinjo
 
-Kiinjo is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 75 Pelham, Toronto on Fri, 30 Oct 2026.
+Kiinjo is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Vertigo, Toronto on Fri, 2 Oct 2026.
 
-Kiinjo is a house and disco artist based in Canada, tracked on soundcheck, with 31 sets logged across Detroit, Los Angeles, Mexico City and Montreal and 5 more. Often billed alongside Purple Disco Machine, RUDEE NIK and House of Lords. Next up: 75 Pelham, Toronto on Fri 30 Oct.
+Kiinjo is a house and disco artist based in Canada, tracked on soundcheck, with 32 sets logged across Detroit, Los Angeles, Mexico City and Montreal and 5 more. Often billed alongside Purple Disco Machine, RUDEE NIK and Addy. Next up: Vertigo, Toronto on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Vertigo | Toronto |
 | Fri, 30 Oct 2026 | 75 Pelham | Toronto |
 
 ## Recently played
@@ -23,6 +24,6 @@ Kiinjo is a house and disco artist based in Canada, tracked on soundcheck, with 
 
 ## Shares bills with
 
-Purple Disco Machine, RUDEE NIK, House of Lords
+Purple Disco Machine, RUDEE NIK, Addy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kiinjo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kiinjo/)*

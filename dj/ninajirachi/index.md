@@ -1,15 +1,18 @@
 # Ninajirachi
 
-Ninajirachi is a Pop and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+Ninajirachi is a Pop and Club artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Franklin Music Hall, Philadelphia on Fri, 2 Oct 2026.
 
-Ninajirachi is a pop and club artist based in Australia, tracked on soundcheck, with 57 sets logged across Auckland, Austin, Barcelona and Berlin and 24 more. Often billed alongside umru, Izzy Camina and KAVARI. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
+Ninajirachi is a pop and club artist based in Australia, tracked on soundcheck, with 60 sets logged across Auckland, Austin, Barcelona and Berlin and 26 more. Often billed alongside umru, Izzy Camina and KAVARI. Next up: Franklin Music Hall, Philadelphia on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Franklin Music Hall | Philadelphia |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
+| Wed, 30 Dec 2026 | Petco Park | San-diego |
+| Sat, 23 Jan 2027 | Igloofest | Montreal |
 
 ## Recently played
 
@@ -26,4 +29,4 @@ Ninajirachi is a pop and club artist based in Australia, tracked on soundcheck, 
 
 umru, Izzy Camina, KAVARI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ninajirachi/)*

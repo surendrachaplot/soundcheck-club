@@ -1,13 +1,14 @@
 # Antigone
 
-Antigone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at KALT, Strasbourg on Sat, 26 Dec 2026.
+Antigone is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hotel Arena, Amsterdam on Wed, 21 Oct 2026.
 
-Antigone is a techno and house artist tracked on soundcheck, with 72 sets logged across Amsterdam, Bali, Barcelona and Basel and 27 more. Often billed alongside Bours?, Parallx and Dylan Fogarty. Next up: KALT, Strasbourg on Sat 26 Dec.
+Antigone is a techno and house artist tracked on soundcheck, with 73 sets logged across Amsterdam, Bali, Barcelona and Basel and 27 more. Often billed alongside Bours?, Parallx and Dylan Fogarty. Next up: Hotel Arena, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Hotel Arena | Amsterdam |
 | Sat, 26 Dec 2026 | KALT | Strasbourg |
 
 ## Recently played
@@ -25,4 +26,4 @@ Antigone is a techno and house artist tracked on soundcheck, with 72 sets logged
 
 Bours?, Parallx, Dylan Fogarty
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/antigone/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/antigone/)*

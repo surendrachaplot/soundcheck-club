@@ -1,6 +1,6 @@
 # Sera J
 
-Sera J is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fabrik, Madrid on Sun, 11 Oct 2026.
+Sera J is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fabrik, Madrid on Sun, 11 Oct 2026.
 
 Sera J is a techno and house artist based in Greece, tracked on soundcheck, with 32 sets logged across Amsterdam, Athens, Barcelona and Berlin and 14 more. Often billed alongside ANNĒ, SHDW and Alarico. Next up: Fabrik, Madrid on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ Sera J is a techno and house artist based in Greece, tracked on soundcheck, with
 
 ANNĒ, SHDW, Alarico
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/seraj/)*

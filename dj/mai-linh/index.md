@@ -1,8 +1,8 @@
 # Maï-Linh
 
-Maï-Linh is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cabaret Sauvage, Paris on Sat, 10 Oct 2026.
+Maï-Linh is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cabaret Sauvage, Paris on Sat, 10 Oct 2026.
 
-Maï-Linh is a house and techno artist based in France, tracked on soundcheck, with 86 sets logged across Amsterdam, Berlin, Budapest and Cologne and 15 more. Often billed alongside Soyoon, GTI and Youl. Next up: Cabaret Sauvage, Paris on Sat 10 Oct.
+Maï-Linh is a house and techno artist based in France, tracked on soundcheck, with 87 sets logged across Amsterdam, Berlin, Budapest and Cologne and 15 more. Often billed alongside Soyoon, GTI and Youl. Next up: Cabaret Sauvage, Paris on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Maï-Linh is a house and techno artist based in France, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Cabaret Sauvage | Paris |
 | Sat, 31 Oct 2026 | Macadam | Nantes |
+| Tue, 10 Nov 2026 | Macadam | Nantes |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Maï-Linh is a house and techno artist based in France, tracked on soundcheck, w
 
 Soyoon, GTI, Youl
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mai-linh/)*

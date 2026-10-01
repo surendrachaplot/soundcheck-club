@@ -13,6 +13,6 @@ Area 51 Halloween: DMX Krew live, Alien Communications, CRL + Kristina May at Vi
 - Alien Communications
 - CRL (1)
 - DMX Krew
-- Kristina May
+- Kristina May (4)
 
 *Source: [soundcheck](https://soundcheck.club/e/2528241-area-51-halloween-dmx-krew-live-alien-communications-crl-kri/)*

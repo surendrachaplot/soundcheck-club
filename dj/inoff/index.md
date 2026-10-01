@@ -1,8 +1,8 @@
 # INOFF
 
-INOFF is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Pharmacy, Barcelona on Sat, 3 Oct 2026.
+INOFF is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Pharmacy, Barcelona on Sat, 3 Oct 2026.
 
-INOFF is a house and electronica artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside Victor Hugo, PINI and Rafa Aleman. Next up: Pharmacy, Barcelona on Sat 3 Oct.
+INOFF is a house and electronica artist based in Spain, tracked on soundcheck, with 9 sets logged across Barcelona. Often billed alongside Victor Hugo, Rafa Aleman and Daitto. Next up: Pharmacy, Barcelona on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ INOFF is a house and electronica artist based in Spain, tracked on soundcheck, w
 
 ## Shares bills with
 
-Victor Hugo, PINI, Rafa Aleman
+Victor Hugo, Rafa Aleman, Daitto
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inoff/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inoff/)*

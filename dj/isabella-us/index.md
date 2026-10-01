@@ -1,6 +1,6 @@
 # Isabella Koen
 
-Isabella Koen is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mundos, Rhode-island on Fri, 2 Oct 2026.
+Isabella Koen is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mundos, Rhode-island on Fri, 2 Oct 2026.
 
 Isabella Koen is a techno and club artist based in United States of America, tracked on soundcheck, with 17 sets logged across Boston, Chicago, New York City and Rhode Island. Often billed alongside Arushi Jain, DJ Clone and DJ Plead. Next up: Mundos, Rhode Island on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Isabella Koen is a techno and club artist based in United States of America, tra
 
 Arushi Jain, DJ Clone, DJ Plead
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella-us/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabella-us/)*

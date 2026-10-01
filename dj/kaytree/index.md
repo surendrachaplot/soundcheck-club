@@ -1,6 +1,6 @@
 # Kaytree
 
-Kaytree is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Kaytree is a Techno and Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Loom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
 Kaytree is a techno and bass artist based in United States of America, tracked on soundcheck, with 35 sets logged across San Francisco/Oakland. Often billed alongside YANNI, Milli Meng and Felly Fell. Next up: The Loom, San Francisco/Oakland on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kaytree is a techno and bass artist based in United States of America, tracked o
 
 YANNI, Milli Meng, Felly Fell
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytree/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaytree/)*

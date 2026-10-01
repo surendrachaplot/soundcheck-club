@@ -1,8 +1,8 @@
 # Barker
 
-Barker is a Techno and Experimental artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
+Barker is a Techno and Experimental artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Berghain | Panorama Bar | Säule, Berlin on Sat, 3 Oct 2026.
 
-Barker is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Argentina and Bangkok and 31 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
+Barker is a techno and experimental artist based in United Kingdom, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Argentina and Bangkok and 32 more. Often billed alongside JakoJako, Gabrielle Kwarteng and Virginia. Next up: Berghain | Panorama Bar | Säule, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Barker is a techno and experimental artist based in United Kingdom, tracked on s
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 10 Oct 2026 | Mandela Hall | Belfast |
+| Sat, 14 Nov 2026 | Sawmills | Bristol |
 | Fri, 27 Nov 2026 | La Cúpula del Palacio Libertad | Buenos Aires |
 | Fri, 4 Dec 2026 | Casa Babylon Club | Argentina |
 | Sun, 6 Dec 2026 | Foxy Live Bar | Argentina |
@@ -30,4 +31,4 @@ Barker is a techno and experimental artist based in United Kingdom, tracked on s
 
 JakoJako, Gabrielle Kwarteng, Virginia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/barker/)*

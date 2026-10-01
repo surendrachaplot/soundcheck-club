@@ -1,8 +1,8 @@
 # Ian Pooley
 
-Ian Pooley is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Radio Radio, Amsterdam on Fri, 2 Oct 2026.
+Ian Pooley is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Radio Radio, Amsterdam on Fri, 2 Oct 2026.
 
-Ian Pooley is a house and techno artist based in Germany, tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Auckland and Bangkok and 44 more. Often billed alongside dj sweet6teen, Eva Crystaltips and Luca Olivotto. Next up: Radio Radio, Amsterdam on Fri 2 Oct.
+Ian Pooley is a house and techno artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Auckland and Bangkok and 45 more. Often billed alongside dj sweet6teen, Eva Crystaltips and Luca Olivotto. Next up: Radio Radio, Amsterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Ian Pooley is a house and techno artist based in Germany, tracked on soundcheck,
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Thu, 22 Oct 2026 | Madam | Amsterdam |
 | Sat, 24 Oct 2026 | Yamamori Tengu | Dublin |
+| Sun, 25 Oct 2026 | The Pav | Cork |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Ian Pooley is a house and techno artist based in Germany, tracked on soundcheck,
 
 dj sweet6teen, Eva Crystaltips, Luca Olivotto
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ianpooley/)*

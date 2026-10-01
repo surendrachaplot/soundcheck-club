@@ -1,14 +1,15 @@
 # Shhau
 
-Shhau is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+Shhau is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
-Shhau is an electronic artist based in Armenia, tracked on soundcheck, with 1 set logged across Armenia. Often billed alongside Animistic Beliefs, Cinna Peyghamy and DJ Scotch Egg. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
+Shhau is an electronic artist based in Armenia, tracked on soundcheck, with 2 sets logged across Armenia. Often billed alongside Animistic Beliefs, Kogeno and MEROUJ. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | TBA - Yerevan, Armenia | Armenia |
+| Sat, 3 Oct 2026 | Hayfilm Cluster | Armenia |
 
 ## Recently played
 
@@ -16,6 +17,6 @@ Shhau is an electronic artist based in Armenia, tracked on soundcheck, with 1 se
 
 ## Shares bills with
 
-Animistic Beliefs, Cinna Peyghamy, DJ Scotch Egg
+Animistic Beliefs, Kogeno, MEROUJ
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shhau/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shhau/)*

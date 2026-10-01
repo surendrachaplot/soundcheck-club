@@ -1,6 +1,6 @@
 # Dzoara
 
-Dzoara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Acud Macht NEU, Berlin on Fri, 23 Oct 2026.
+Dzoara is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Acud Macht NEU, Berlin on Fri, 23 Oct 2026.
 
 Dzoara is a techno and house artist based in Mexico, tracked on soundcheck, with 9 sets logged across Berlin and Mexico City. Often billed alongside Abaunza, Adriana Roma and Ahni. Next up: Acud Macht NEU, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Dzoara is a techno and house artist based in Mexico, tracked on soundcheck, with
 
 Abaunza, Adriana Roma, Ahni
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dzoara/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dzoara/)*

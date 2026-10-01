@@ -1,13 +1,14 @@
 # Norm De Plume
 
-Norm De Plume is a Deep House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at East Sydney Community & Arts Centre, Sydney on Sun, 1 Nov 2026.
+Norm De Plume is a Deep House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Coil, Melbourne on Fri, 2 Oct 2026.
 
-Norm De Plume is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Melbourne and Sydney. Often billed alongside slippedup, Darcy Doogan and Andrew Fazzolari. Next up: East Sydney Community & Arts Centre, Sydney on Sun 1 Nov.
+Norm De Plume is a deep house and disco artist based in United Kingdom, tracked on soundcheck, with 24 sets logged across Melbourne and Sydney. Often billed alongside slippedup, Darcy Doogan and Andrew Fazzolari. Next up: Coil, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Coil | Melbourne |
 | Sun, 1 Nov 2026 | East Sydney Community & Arts Centre | Sydney |
 
 ## Recently played
@@ -25,4 +26,4 @@ Norm De Plume is a deep house and disco artist based in United Kingdom, tracked 
 
 slippedup, Darcy Doogan, Andrew Fazzolari
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/normdeplume/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/normdeplume/)*

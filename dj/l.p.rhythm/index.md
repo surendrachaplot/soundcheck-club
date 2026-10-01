@@ -1,8 +1,8 @@
 # L.P. Rhythm
 
-L.P. Rhythm is a House and Tech House artist with 11 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+L.P. Rhythm is a House and Tech House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-L.P. Rhythm is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 181 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 32 more. Often billed alongside Gaskin, Luuk van Dijk and Sidney Charles. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
+L.P. Rhythm is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 183 sets logged across Aberdeen, Amsterdam, Antwerp and Bali and 33 more. Often billed alongside Gaskin, Luuk van Dijk and Sidney Charles. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,15 +10,16 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, tracked on
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sun, 4 Oct 2026 | Superior Ingredients | New York City |
+| Sat, 10 Oct 2026 | Descent | Boston |
 | Fri, 16 Oct 2026 | Newspeak | Montreal |
 | Sat, 17 Oct 2026 | Prysm Nightclub | Chicago |
 | Thu, 22 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Fri, 23 Oct 2026 | Ndsm Wharf | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
 | Fri, 30 Oct 2026 | Floyd | Miami |
+| Sat, 7 Nov 2026 | La Cheetah Club | Glasgow |
 | Sat, 21 Nov 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
-| Sat, 12 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played
 
@@ -35,4 +36,4 @@ L.P. Rhythm is a house and tech house artist based in United Kingdom, tracked on
 
 Gaskin, Luuk van Dijk, Sidney Charles
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l.p.rhythm/)*

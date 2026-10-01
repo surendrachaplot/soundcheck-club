@@ -1,8 +1,8 @@
 # Modeselektor
 
-Modeselektor is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at L'Alhambra, Geneva on Tue, 6 Oct 2026.
+Modeselektor is a Techno and Bass artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at L'Alhambra, Geneva on Tue, 6 Oct 2026.
 
-Modeselektor is a techno and bass artist based in Germany, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Helena Hauff, Richie Hawtin and Anetha. Next up: L'Alhambra, Geneva on Tue 6 Oct.
+Modeselektor is a techno and bass artist based in Germany, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 29 more. Often billed alongside Helena Hauff, Richie Hawtin and Anetha. Next up: L'Alhambra, Geneva on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,8 @@ Modeselektor is a techno and bass artist based in Germany, tracked on soundcheck
 | Tue, 6 Oct 2026 | L'Alhambra | Geneva |
 | Sat, 31 Oct 2026 | The Cause | London |
 | Fri, 6 Nov 2026 | Button Factory | Dublin |
+| Fri, 22 Jan 2027 | TBA | Berlin |
+| Sun, 24 Jan 2027 | Haus der Visionäre | Berlin |
 
 ## Recently played
 
@@ -27,4 +29,4 @@ Modeselektor is a techno and bass artist based in Germany, tracked on soundcheck
 
 Helena Hauff, Richie Hawtin, Anetha
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/modeselektor/)*

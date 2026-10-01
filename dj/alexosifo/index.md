@@ -1,13 +1,14 @@
 # Alex Osifo
 
-Alex Osifo is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Distrikt, Leeds on Sat, 31 Oct 2026.
+Alex Osifo is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Grub Records, Sheffield on Fri, 30 Oct 2026.
 
-Alex Osifo is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across Leeds, London and Manchester. Often billed alongside Binyamhn, 3 Minds and Casey Spillman. Next up: Distrikt, Leeds on Sat 31 Oct.
+Alex Osifo is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 12 sets logged across Leeds, London, Manchester and Sheffield. Often billed alongside Binyamhn, 3 Minds and Casey Spillman. Next up: Grub Records, Sheffield on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Grub Records | Sheffield |
 | Sat, 31 Oct 2026 | Distrikt | Leeds |
 
 ## Recently played
@@ -25,4 +26,4 @@ Alex Osifo is a house and tech house artist based in United Kingdom, tracked on 
 
 Binyamhn, 3 Minds, Casey Spillman
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexosifo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexosifo/)*

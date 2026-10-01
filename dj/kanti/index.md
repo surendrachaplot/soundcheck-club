@@ -1,6 +1,6 @@
 # Kanti
 
-Kanti is a Neo Perreo and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
+Kanti is a Neo Perreo and Reggaeton artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
 
 Kanti is a neo perreo and reggaeton artist tracked on soundcheck, with 34 sets logged across Barcelona and Madrid. Often billed alongside DJ2D2, Sushinigami and Alvva. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Kanti is a neo perreo and reggaeton artist tracked on soundcheck, with 34 sets l
 
 DJ2D2, Sushinigami, Alvva
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kanti/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kanti/)*

@@ -1,6 +1,6 @@
 # Bukanyr Boat
 
-Bukanyr Boat is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Basin - djs ishka machina, Takē, Adamatron, Jemazzz" on Fri, 2 Oct 2026.
+Bukanyr Boat is a music venue in Prague with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Basin - djs ishka machina, Takē, Adamatron, Jemazzz" on Fri, 2 Oct 2026.
 
 Bukanyr Boat is a music venue in Prague listed on soundcheck. 9 upcoming gigs, with line-ups including Adamatron, aros, ASCENDER and Biodan and 2 more. Browse upcoming dates, start times and who's playing. Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic.
 
@@ -9,7 +9,7 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 9 upcoming gigs, w
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Basin - djs ishka machina, Takē, Adamatron, Jemazzz | Adamatron, Jemazzz, Takē, ishka machina |
-| Sat, 3 Oct 2026 | VIZE - djs Danjela, ANDRAM, ASCENDER, Hiro, YE(N)S | ASCENDER, Hiro |
+| Sat, 3 Oct 2026 | VIZE - djs Danjela, ANDRAM, ASCENDER, Hiro, YE(N)S | ASCENDER, Hiro, hiro (CZ) |
 | Fri, 9 Oct 2026 | Spank - djs Ondrej K, Identic, Ian Oskadev | Ian Oskadev, Identic, Ondrej K |
 | Sat, 10 Oct 2026 | Sexy Beats - djs Lumiere, Mill, Rody | Lumiere |
 | Sat, 17 Oct 2026 | House Madness - djs Manntracs, Olinství, Olga Zhaldak | Manntracs, Olga Zhaldak, Olinstvi |
@@ -22,4 +22,4 @@ Bukanyr Boat is a music venue in Prague listed on soundcheck. 9 upcoming gigs, w
 
 Nábřeží Ludvíka Svobody 1, 110 00 Prague, Czech Republic, Prague
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/bukanyr-boat/)*

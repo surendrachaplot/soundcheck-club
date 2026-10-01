@@ -1,13 +1,14 @@
 # 1908
 
-1908 is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Tai Tong Organic Ecopark, Hong Kong on Sat, 14 Nov 2026.
+1908 is a Bass and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - SECRET WAREHOUSE, Hong Kong on Sat, 17 Oct 2026.
 
-1908 is a bass and drum & bass artist based in China, tracked on soundcheck, with 24 sets logged across Bangkok and Hong Kong. Often billed alongside GONG!, Joesnotdead and Mengzy. Next up: Tai Tong Organic Ecopark, Hong Kong on Sat 14 Nov.
+1908 is a bass and drum & bass artist based in China, tracked on soundcheck, with 25 sets logged across Bangkok and Hong Kong. Often billed alongside GONG!, Joesnotdead and Mengzy. Next up: TBA - SECRET WAREHOUSE, Hong Kong on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | TBA - SECRET WAREHOUSE | Hong Kong |
 | Sat, 14 Nov 2026 | Tai Tong Organic Ecopark | Hong Kong |
 
 ## Recently played
@@ -25,4 +26,4 @@
 
 GONG!, Joesnotdead, Mengzy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/1908/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/1908/)*

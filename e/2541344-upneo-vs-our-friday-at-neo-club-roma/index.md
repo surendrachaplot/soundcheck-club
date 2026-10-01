@@ -1,6 +1,6 @@
 # UPNEO vs OUR FRIDAY at NEO CLUB ROMA
 
-UPNEO vs OUR FRIDAY at NEO CLUB ROMA on Fri 9 Oct, Rome. 2 artists on the bill: Flavio Rago and Marco Rea. House and Club. Preview the line-up and save it on soundcheck.
+UPNEO vs OUR FRIDAY at NEO CLUB ROMA on Fri 9 Oct, Rome. 2 artists on the bill: Marco Rea and Max Beat. House and Club. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ UPNEO vs OUR FRIDAY at NEO CLUB ROMA on Fri 9 Oct, Rome. 2 artists on the bill: 
 
 ## Line-up
 
-- Flavio Rago
 - Marco Rea
+- Max Beat
 
 *Source: [soundcheck](https://soundcheck.club/e/2541344-upneo-vs-our-friday-at-neo-club-roma/)*

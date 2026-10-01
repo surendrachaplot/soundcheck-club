@@ -1,8 +1,8 @@
 # Ellie Anderson
 
-Ellie Anderson is a House and Acid artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
+Ellie Anderson is a House and Acid artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Fri, 9 Oct 2026.
 
-Ellie Anderson is a house and acid artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Bristol, London and Manchester. Often billed alongside Flash Mitra, Dave Harvey and Ellie Stokes. Next up: M.O.T, London on Fri 9 Oct.
+Ellie Anderson is a house and acid artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Bristol, London and Manchester. Often billed alongside Flash Mitra, Dave Harvey and Ellie Stokes. Next up: M.O.T, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ellie Anderson is a house and acid artist based in United Kingdom, tracked on so
 | Fri, 9 Oct 2026 | M.O.T | London |
 | Fri, 16 Oct 2026 | Strange Brew | Bristol |
 | Sat, 31 Oct 2026 | The Cause | London |
+| Sat, 21 Nov 2026 | NUMBER 90 LONDON | London |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Ellie Anderson is a house and acid artist based in United Kingdom, tracked on so
 
 Flash Mitra, Dave Harvey, Ellie Stokes
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ellieanderson/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ellieanderson/)*

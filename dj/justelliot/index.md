@@ -1,13 +1,14 @@
 # JustElliot
 
-JustElliot is a Deep House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The System, Sheffield on Fri, 20 Nov 2026.
+JustElliot is a Deep House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at renae, Manchester on Thu, 15 Oct 2026.
 
-JustElliot is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 10 sets logged across London, Manchester and Sheffield. Often billed alongside Gaka, Lucas Flanners and Matteo Dose. Next up: The System, Sheffield on Fri 20 Nov.
+JustElliot is a deep house and tech house artist based in United Kingdom, tracked on soundcheck, with 11 sets logged across London, Manchester and Sheffield. Often billed alongside Gaka, Matteo Dose and Lucas Flanners. Next up: renae, Manchester on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | renae | Manchester |
 | Fri, 20 Nov 2026 | The System | Sheffield |
 
 ## Recently played
@@ -23,6 +24,6 @@ JustElliot is a deep house and tech house artist based in United Kingdom, tracke
 
 ## Shares bills with
 
-Gaka, Lucas Flanners, Matteo Dose
+Gaka, Matteo Dose, Lucas Flanners
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/justelliot/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/justelliot/)*

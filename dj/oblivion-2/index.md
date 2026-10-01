@@ -1,6 +1,6 @@
 # OBLIVION (2)
 
-OBLIVION (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
+OBLIVION (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Meet Berlage, Amsterdam on Fri, 23 Oct 2026.
 
 OBLIVION is a techno and trance artist based in Greece, tracked on soundcheck, with 7 sets logged across Amsterdam and Athens. Often billed alongside Imperium, KLD and ROSHI. Next up: Meet Berlage, Amsterdam on Fri 23 Oct.
 
@@ -23,4 +23,4 @@ OBLIVION is a techno and trance artist based in Greece, tracked on soundcheck, w
 
 Imperium, KLD (1), ROSHI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oblivion-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oblivion-2/)*

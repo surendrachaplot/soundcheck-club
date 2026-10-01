@@ -1,14 +1,15 @@
 # Dragos Ilici
 
-Dragos Ilici is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Outer Heaven, New York City on Thu, 1 Oct 2026.
+Dragos Ilici is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Outer Heaven, New York City on Thu, 1 Oct 2026.
 
-Dragos Ilici is a house and techno artist based in Romania, tracked on soundcheck, with 61 sets logged across Amsterdam, Berlin, Boston and Brussels and 7 more. Often billed alongside Prichindel, Mark Dumitrescu and Dan Andrei. Next up: Outer Heaven, New York City on Thu 1 Oct.
+Dragos Ilici is a house and techno artist based in Romania, tracked on soundcheck, with 62 sets logged across Amsterdam, Berlin, Boston and Brussels and 7 more. Often billed alongside Prichindel, Mark Dumitrescu and Dan Andrei. Next up: Outer Heaven, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Outer Heaven | New York City |
+| Sat, 3 Oct 2026 | feedbk | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Dragos Ilici is a house and techno artist based in Romania, tracked on soundchec
 
 Prichindel, Mark Dumitrescu, Dan Andrei
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dragosilici/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dragosilici/)*

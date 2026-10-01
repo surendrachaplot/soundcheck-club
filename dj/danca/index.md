@@ -1,14 +1,13 @@
 # Danca
 
-Danca is a Techno and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Danca is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ritter Butzke, Berlin on Sat, 3 Oct 2026.
 
-Danca is a techno and tech house artist based in Germany, tracked on soundcheck, with 44 sets logged across Berlin, Frankfurt, Hamburg and Los Angeles and 4 more. Often billed alongside Einmusik, Dominik Eulberg and Mellowflex. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+Danca is a techno and tech house artist based in Germany, tracked on soundcheck, with 43 sets logged across Berlin, Frankfurt, Hamburg and Los Angeles and 4 more. Often billed alongside Einmusik, Dominik Eulberg and Mellowflex. Next up: Ritter Butzke, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
 | Sat, 3 Oct 2026 | Ritter Butzke | Berlin |
 | Sat, 24 Oct 2026 | Bahnwärter Thiel | Munich |
 
@@ -27,4 +26,4 @@ Danca is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 Einmusik, Dominik Eulberg, Mellowflex
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/danca/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/danca/)*

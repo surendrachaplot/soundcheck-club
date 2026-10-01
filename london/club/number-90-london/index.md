@@ -1,8 +1,8 @@
 # NUMBER 90 LONDON
 
-NUMBER 90 LONDON is a music venue in London with 21 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mixmag Lab with Bakey, Osmosis Jones, Lola So" on Thu, 1 Oct 2026.
+NUMBER 90 LONDON is a music venue in London with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Mixmag Lab with Bakey, Osmosis Jones, Lola So" on Thu, 1 Oct 2026.
 
-NUMBER 90 LONDON is a music venue in London listed on soundcheck. 21 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
+NUMBER 90 LONDON is a music venue in London listed on soundcheck. 24 upcoming gigs, with line-ups including 1BYAKKO, Mariiin, Ruby SD and Alisdair and 2 more. Browse upcoming dates, start times and who's playing. 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ NUMBER 90 LONDON is a music venue in London listed on soundcheck. 21 upcoming gi
 
 90 Main Yard; Wallis Road; London E9 5LN; United Kingdom, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/number-90-london/)*

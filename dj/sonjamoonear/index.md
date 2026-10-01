@@ -1,18 +1,21 @@
 # Sonja Moonear
 
-Sonja Moonear is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Sonja Moonear is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-Sonja Moonear is a house and techno artist based in Switzerland, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: TBA, Central on Fri 2 Oct.
+Sonja Moonear is a house and techno artist based in Switzerland, tracked on soundcheck, with 196 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 55 more. Often billed alongside Raresh, Ricardo Villalobos and Tomas Station. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA | Central |
+| Fri, 23 Oct 2026 | DURO | Milan |
 | Sat, 24 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Sun, 25 Oct 2026 | NDSM Scheepsbouwloods | Amsterdam |
+| Sat, 31 Oct 2026 | Circolo degli Illuminati | Rome |
 | Fri, 4 Dec 2026 | FOLD | London |
 | Sat, 5 Dec 2026 | Hidden | Manchester |
+| Sun, 13 Dec 2026 | Klakaz | Athens |
 
 ## Recently played
 
@@ -29,4 +32,4 @@ Sonja Moonear is a house and techno artist based in Switzerland, tracked on soun
 
 Raresh, Ricardo Villalobos, Tomas Station
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sonjamoonear/)*

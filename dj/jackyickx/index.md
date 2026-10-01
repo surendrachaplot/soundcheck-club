@@ -1,6 +1,6 @@
 # Jacky Ickx
 
-Jacky Ickx is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
+Jacky Ickx is a Trance and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
 
 Jacky Ickx is a trance and techno artist based in Germany, tracked on soundcheck, with 77 sets logged across Barcelona, Berlin, Budapest and Cologne and 5 more. Often billed alongside CARGO (DE), Krash Cora and HØLLE. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
 
@@ -27,4 +27,4 @@ Jacky Ickx is a trance and techno artist based in Germany, tracked on soundcheck
 
 CARGO (DE), Krash Cora, HØLLE (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyickx/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackyickx/)*

@@ -1,6 +1,6 @@
 # Tom Marten
 
-Tom Marten is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Der Weiße Hase, Berlin on Tue, 6 Oct 2026.
+Tom Marten is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Der Weiße Hase, Berlin on Tue, 6 Oct 2026.
 
 Tom Marten is a techno and industrial artist based in Germany, tracked on soundcheck, with 37 sets logged across Berlin. Often billed alongside eliXenia, deKai and Kevin Wimmer. Next up: Der Weiße Hase, Berlin on Tue 6 Oct.
 
@@ -26,4 +26,4 @@ Tom Marten is a techno and industrial artist based in Germany, tracked on soundc
 
 eliXenia, deKai, Kevin Wimmer
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tommarten/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tommarten/)*

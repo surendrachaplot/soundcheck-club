@@ -1,16 +1,13 @@
 # Gloss/5 Florence Street
 
-Gloss/5 Florence Street is a music venue in Glasgow with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "THOMAS ANKERSMIT: SERGE MODULAR WORKSHOP" on Mon, 28 Sept 2026.
+Gloss/5 Florence Street is a music venue in Glasgow with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Suzanne Ciani: A Masterclass in Modular Synthesis" on Mon, 5 Oct 2026.
 
-Gloss/5 Florence Street is a music venue in Glasgow listed on soundcheck. 4 upcoming gigs. Browse upcoming dates, start times and who's playing.
+Gloss/5 Florence Street is a music venue in Glasgow listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Mon, 28 Sept 2026 | THOMAS ANKERSMIT: SERGE MODULAR WORKSHOP |  |
-| Tue, 29 Sept 2026 | Sonica Open Session |  |
-| Wed, 30 Sept 2026 | The Shape of a Wave: Suzanne Ciani, Spatial Synthesis and Electronic Performance |  |
 | Mon, 5 Oct 2026 | Suzanne Ciani: A Masterclass in Modular Synthesis |  |
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/gloss-5-florence-street/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/gloss-5-florence-street/)*

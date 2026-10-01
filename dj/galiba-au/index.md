@@ -1,6 +1,6 @@
 # Galiba
 
-Galiba is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Galiba is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
 
 Galiba is a bass and techno artist tracked on soundcheck, with 17 sets logged across New South Wales and Sydney. Often billed alongside anusha, lenna and Killian. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ Galiba is a bass and techno artist tracked on soundcheck, with 17 sets logged ac
 
 anusha, lenna, Killian
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/galiba-au/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/galiba-au/)*

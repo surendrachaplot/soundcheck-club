@@ -1,6 +1,6 @@
 # Surka (1)
 
-Surka (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Bernard Shaw, Dublin on Fri, 16 Oct 2026.
+Surka (1) is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Bernard Shaw, Dublin on Fri, 16 Oct 2026.
 
 Surka is a house and techno artist based in Ireland, tracked on soundcheck, with 70 sets logged across Belfast, Berlin, Cork and Dublin and 1 more. Often billed alongside Collie, Accomplice and Boots & Kats. Next up: The Bernard Shaw, Dublin on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Surka is a house and techno artist based in Ireland, tracked on soundcheck, with
 
 Collie (1), Accomplice, Boots & Kats
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/surka-1/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/surka-1/)*

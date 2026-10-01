@@ -1,6 +1,6 @@
 # Kasey Riot
 
-Kasey Riot is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Kasey Riot is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
 Kasey Riot is a techno and industrial artist based in Canada, tracked on soundcheck, with 59 sets logged across Montreal, Toronto and Vancouver. Often billed alongside DJ Hockey, Fisher Bryce and Sam Steele. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Kasey Riot is a techno and industrial artist based in Canada, tracked on soundch
 
 DJ Hockey, Fisher Bryce, Sam Steele
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseyriot/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaseyriot/)*

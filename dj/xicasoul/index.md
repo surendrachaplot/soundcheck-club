@@ -1,14 +1,15 @@
 # Xica Soul
 
-Xica Soul is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - DTLA, Los Angeles on Fri, 2 Oct 2026.
+Xica Soul is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - DTLA, Los Angeles on Fri, 2 Oct 2026.
 
-Xica Soul is a house and disco artist based in United States of America, tracked on soundcheck, with 92 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Masha Mar, Marco Weibel and Tottie. Next up: TBA - DTLA, Los Angeles on Fri 2 Oct.
+Xica Soul is a house and disco artist based in United States of America, tracked on soundcheck, with 93 sets logged across Amsterdam, Barcelona, Berlin and Chicago and 10 more. Often billed alongside Masha Mar, Marco Weibel and Tottie. Next up: TBA - DTLA, Los Angeles on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA - DTLA | Los Angeles |
+| Sat, 3 Oct 2026 | Small Green Door | Los-angeles |
 | Fri, 9 Oct 2026 | Harbor House DTLA | Los Angeles |
 | Sat, 31 Oct 2026 | TBA - Los Angeles (Warehouse) | Los Angeles |
 
@@ -27,4 +28,4 @@ Xica Soul is a house and disco artist based in United States of America, tracked
 
 Masha Mar, Marco Weibel, Tottie
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/xicasoul/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/xicasoul/)*

@@ -1,14 +1,15 @@
 # Brizze
 
-Brizze is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Brizze is a Techno and Industrial artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-Brizze is a techno and industrial artist based in Germany, tracked on soundcheck, with 54 sets logged across Berlin. Often billed alongside DaSoMaZo, Wachbär and Kopflos. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+Brizze is a techno and industrial artist based in Germany, tracked on soundcheck, with 55 sets logged across Berlin. Often billed alongside DaSoMaZo, Wachbär and Kopflos. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
+| Sat, 3 Oct 2026 | TBA - PUMAKÄFIGBERLIN | Berlin |
 | Fri, 9 Oct 2026 | Void Club | Berlin |
 | Fri, 6 Nov 2026 | Void Club | Berlin |
 | Sat, 12 Dec 2026 | Void Club | Berlin |
@@ -28,4 +29,4 @@ Brizze is a techno and industrial artist based in Germany, tracked on soundcheck
 
 DaSoMaZo, Wachbär, Kopflos
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/brizze/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/brizze/)*

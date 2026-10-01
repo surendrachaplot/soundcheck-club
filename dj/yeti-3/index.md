@@ -1,14 +1,15 @@
 # YETI (3)
 
-YETI (3) is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at OXI, Berlin on Sat, 10 Oct 2026.
+YETI (3) is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OXI, Berlin on Sat, 10 Oct 2026.
 
-YETI is a techno artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin. Often billed alongside Gabrielle (DE), Solvados and DEN!SE. Next up: OXI, Berlin on Sat 10 Oct.
+YETI is a techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Gabrielle (DE), Solvados and DEN!SE. Next up: OXI, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | OXI | Berlin |
+| Fri, 13 Nov 2026 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ YETI is a techno artist based in Germany, tracked on soundcheck, with 15 sets lo
 
 Gabrielle (DE), Solvados, DEN!SE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yeti-3/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yeti-3/)*

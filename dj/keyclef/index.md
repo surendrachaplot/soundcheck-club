@@ -1,6 +1,6 @@
 # Key Clef
 
-Key Clef is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Urban Spree, Berlin on Thu, 8 Oct 2026.
+Key Clef is a Techno and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Urban Spree, Berlin on Thu, 8 Oct 2026.
 
 Key Clef is a techno and electronica artist based in Italy, tracked on soundcheck, with 79 sets logged across Athens, Barcelona, Berlin and Cologne and 7 more. Often billed alongside D-Leria, Ireen Amnes and Lunatik. Next up: Urban Spree, Berlin on Thu 8 Oct.
 
@@ -26,4 +26,4 @@ Key Clef is a techno and electronica artist based in Italy, tracked on soundchec
 
 D-Leria, Ireen Amnes, Lunatik
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/keyclef/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/keyclef/)*

@@ -1,6 +1,6 @@
 # SH4RIN
 
-SH4RIN is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
+SH4RIN is a Dub Techno and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
 
 SH4RIN is a dub techno and techno artist tracked on soundcheck, with 10 sets logged across Barcelona and Madrid. Often billed alongside Cynth, JALA and NOLOC. Next up: Razzmatazz, Barcelona on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ SH4RIN is a dub techno and techno artist tracked on soundcheck, with 10 sets log
 
 Cynth, JALA, NOLOC
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sh4rin/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sh4rin/)*

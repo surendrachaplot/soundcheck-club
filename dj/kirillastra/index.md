@@ -1,13 +1,15 @@
 # Kirill Astra
 
-Kirill Astra is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Noir Room By Dejavu, Prague on Fri, 16 Oct 2026.
+Kirill Astra is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Groove Bar, Prague on Fri, 2 Oct 2026.
 
-Kirill Astra is a house and techno artist tracked on soundcheck, with 67 sets logged across Berlin, Prague and Vienna. Often billed alongside Denny Krygr, Lucas Hulan and Alex Neivel. Next up: Noir Room By Dejavu, Prague on Fri 16 Oct.
+Kirill Astra is a house and techno artist tracked on soundcheck, with 69 sets logged across Berlin, Prague and Vienna. Often billed alongside Denny Krygr, Lucas Hulan and Alex Neivel. Next up: Groove Bar, Prague on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Groove Bar | Prague |
+| Fri, 9 Oct 2026 | Jènemar Passéjure | Prague |
 | Fri, 16 Oct 2026 | Noir Room By Dejavu | Prague |
 
 ## Recently played
@@ -25,4 +27,4 @@ Kirill Astra is a house and techno artist tracked on soundcheck, with 67 sets lo
 
 Denny Krygr, Lucas Hulan, Alex Neivel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillastra/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kirillastra/)*

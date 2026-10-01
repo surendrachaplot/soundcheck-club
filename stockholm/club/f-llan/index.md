@@ -1,6 +1,6 @@
 # Fållan
 
-Fållan is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "UNTITLED: Major League Djz" on Fri, 11 Dec 2026.
+Fållan is a music venue in Stockholm with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "UNTITLED: Major League Djz" on Fri, 11 Dec 2026.
 
 Fållan is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with line-ups including JAMIIE and Major League Djz. Browse upcoming dates, start times and who's playing. Fållan 10, 12161, Stockholm.
 
@@ -14,4 +14,4 @@ Fållan is a music venue in Stockholm listed on soundcheck. 1 upcoming gig, with
 
 Fållan 10, 12161, Stockholm, Stockholm
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/f-llan/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/f-llan/)*

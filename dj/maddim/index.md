@@ -1,13 +1,14 @@
 # Mad Dim
 
-Mad Dim is a Ambient and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ikii, Berlin on Fri, 23 Oct 2026.
+Mad Dim is a Ambient and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Macarena Club, Barcelona on Sat, 10 Oct 2026.
 
-Mad Dim is an ambient and techno artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin. Often billed alongside Benjamin Fehr, Alejandro Mosso and Stipé. Next up: Ikii, Berlin on Fri 23 Oct.
+Mad Dim is an ambient and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Barcelona and Berlin. Often billed alongside Benjamin Fehr, Alejandro Mosso and Cesare vs Disorder. Next up: Macarena Club, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Macarena Club | Barcelona |
 | Fri, 23 Oct 2026 | Ikii | Berlin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Mad Dim is an ambient and techno artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-Benjamin Fehr, Alejandro Mosso, Stipé
+Benjamin Fehr, Alejandro Mosso, Cesare vs Disorder
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/maddim/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/maddim/)*

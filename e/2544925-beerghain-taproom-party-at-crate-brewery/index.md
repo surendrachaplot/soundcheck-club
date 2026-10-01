@@ -1,6 +1,6 @@
 # Beerghain Taproom party at Crate Brewery
 
-Beerghain Taproom party at Crate Brewery on Sat 3 Oct, London. 2 artists on the bill: calan and Jugin. Techno. Preview the line-up and save it on soundcheck.
+Beerghain Taproom party at Crate Brewery on Sat 3 Oct, London. 1 artist on the bill: calan. Techno and Minimal Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,5 @@ Beerghain Taproom party at Crate Brewery on Sat 3 Oct, London. 2 artists on the 
 ## Line-up
 
 - calan
-- Jugin
 
 *Source: [soundcheck](https://soundcheck.club/e/2544925-beerghain-taproom-party-at-crate-brewery/)*

@@ -1,6 +1,6 @@
 # John Morales
 
-John Morales is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
+John Morales is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Midway, San Francisco/Oakland on Sun, 11 Oct 2026.
 
 John Morales is a house and disco artist based in United States of America, tracked on soundcheck, with 46 sets logged across Barcelona, Berlin, Cardiff and Chicago and 13 more. Often billed alongside Melvo Baptiste, The Shapeshifters and Young Pulse. Next up: The Midway, San Francisco/Oakland on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ John Morales is a house and disco artist based in United States of America, trac
 
 Melvo Baptiste, The Shapeshifters, Young Pulse
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnmorales/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnmorales/)*

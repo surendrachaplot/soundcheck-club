@@ -1,14 +1,15 @@
 # Mark Osborne
 
-Mark Osborne is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Horse & Groom, London on Sat, 17 Oct 2026.
+Mark Osborne is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Horse & Groom, London on Sat, 17 Oct 2026.
 
-Mark Osborne is a house and disco artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across London. Often billed alongside Martin Lodge, Booker T and Dave Lee. Next up: The Horse & Groom, London on Sat 17 Oct.
+Mark Osborne is a house and disco artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across London. Often billed alongside Lauren Thompson, Martin Lodge and Ronnie Herel. Next up: The Horse & Groom, London on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The Horse & Groom | London |
+| Sat, 28 Nov 2026 | fabric | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Mark Osborne is a house and disco artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-Martin Lodge, Booker T, Dave Lee
+Lauren Thompson, Martin Lodge, Ronnie Herel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/markosborne/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/markosborne/)*

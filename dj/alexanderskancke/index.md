@@ -1,16 +1,18 @@
 # Alexander Skancke
 
-Alexander Skancke is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Robert Johnson, Hesse on Fri, 16 Oct 2026.
+Alexander Skancke is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Onassis Ready, Athens on Fri, 9 Oct 2026.
 
-Alexander Skancke is a house and techno artist based in Norway, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 23 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Robert Johnson, Hesse on Fri 16 Oct.
+Alexander Skancke is a house and techno artist based in Norway, tracked on soundcheck, with 95 sets logged across Amsterdam, Antwerp, Athens and Bali and 25 more. Often billed alongside Henriku, Trent Voyage and Dorian Paic. Next up: Onassis Ready, Athens on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Onassis Ready | Athens |
 | Fri, 16 Oct 2026 | Robert Johnson | Hesse |
 | Sat, 17 Oct 2026 | Les Enfants Brillants | Barcelona |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
+| Thu, 5 Nov 2026 | One Resort | Tunisia |
 | Sat, 28 Nov 2026 | NOWHERE | Manchester |
 | Sat, 28 Nov 2026 | The Loft | Manchester |
 
@@ -29,4 +31,4 @@ Alexander Skancke is a house and techno artist based in Norway, tracked on sound
 
 Henriku, Trent Voyage, Dorian Paic
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexanderskancke/)*

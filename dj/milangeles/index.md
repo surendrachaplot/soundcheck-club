@@ -1,6 +1,6 @@
 # Milangeles
 
-Milangeles is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Apollo Club Milano, Milan on Sat, 3 Oct 2026.
+Milangeles is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Apollo Club Milano, Milan on Sat, 3 Oct 2026.
 
 Milangeles is a house and techno artist tracked on soundcheck, with 31 sets logged across Madrid and Milan. Often billed alongside Go Dugong, Jack Scavino and Acidgigi. Next up: Apollo Club Milano, Milan on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Milangeles is a house and techno artist tracked on soundcheck, with 31 sets logg
 
 Go Dugong, Jack Scavino, Acidgigi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/milangeles/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/milangeles/)*

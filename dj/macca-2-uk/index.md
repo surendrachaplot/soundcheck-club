@@ -1,6 +1,6 @@
 # Macca (2)
 
-Macca (2) is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at SWG3, Glasgow on Sat, 7 Nov 2026.
+Macca (2) is a Garage and Jungle artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at SWG3, Glasgow on Sat, 7 Nov 2026.
 
 Macca is a garage and jungle artist based in United Kingdom, tracked on soundcheck, with 23 sets logged across Birmingham, Glasgow, Liverpool and London and 2 more. Often billed alongside Becky Woodcock, Emily Jacko and Main Phase. Next up: SWG3, Glasgow on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Macca is a garage and jungle artist based in United Kingdom, tracked on soundche
 
 Becky Woodcock, Emily Jacko, Main Phase
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/macca-2-uk/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/macca-2-uk/)*

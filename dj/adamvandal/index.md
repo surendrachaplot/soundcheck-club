@@ -1,6 +1,6 @@
 # Adam Vandal
 
-Adam Vandal is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
+Adam Vandal is a Acid and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at PKH Warehouse, Berlin on Sat, 10 Oct 2026.
 
 Adam Vandal is an acid and techno artist tracked on soundcheck, with 13 sets logged across Berlin, Geneva, Ghent and Prague and 1 more. Often billed alongside Midirama, Bazooka Joe and 23Shayatin. Next up: PKH Warehouse, Berlin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Adam Vandal is an acid and techno artist tracked on soundcheck, with 13 sets log
 
 Midirama, Bazooka Joe, 23Shayatin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adamvandal/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adamvandal/)*

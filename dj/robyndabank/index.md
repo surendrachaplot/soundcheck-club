@@ -1,14 +1,15 @@
 # Robyn DaBank
 
-Robyn DaBank is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
+Robyn DaBank is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-Robyn DaBank is a techno and club artist based in United States of America, tracked on soundcheck, with 35 sets logged across Berlin, New York City and Washington DC. Often billed alongside Gagbert, Malcolm XL and Xana 101. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
+Robyn DaBank is a techno and club artist based in United States of America, tracked on soundcheck, with 36 sets logged across Berlin, New York City and Washington DC. Often billed alongside Gagbert, Malcolm XL and Xana 101. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
+| Thu, 22 Oct 2026 | Bossa Nova Civic Club | New-york-city |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Robyn DaBank is a techno and club artist based in United States of America, trac
 
 Gagbert, Malcolm XL, Xana 101
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robyndabank/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robyndabank/)*

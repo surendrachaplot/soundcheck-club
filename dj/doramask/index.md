@@ -1,6 +1,6 @@
 # Dora Mask
 
-Dora Mask is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Astron Club, Athens on Fri, 2 Oct 2026.
+Dora Mask is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Astron Club, Athens on Fri, 2 Oct 2026.
 
 Dora Mask is a techno and electro artist tracked on soundcheck, with 63 sets logged across Athens. Often billed alongside IMPVLSIV, Miss Trouli and ClubKid. Next up: Astron Club, Athens on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Dora Mask is a techno and electro artist tracked on soundcheck, with 63 sets log
 
 IMPVLSIV, Miss Trouli, ClubKid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/doramask/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/doramask/)*

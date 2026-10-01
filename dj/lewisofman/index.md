@@ -1,6 +1,6 @@
 # Lewis OfMan
 
-Lewis OfMan is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
+Lewis OfMan is a Electro and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Spirit of the Suwannee Music Park, Jacksonville on Thu, 22 Oct 2026.
 
 Lewis OfMan is an electro and electronica artist based in France, tracked on soundcheck, with 25 sets logged across Berlin, Geneva, Hamburg and Jacksonville and 11 more. Often billed alongside Anetha, CeeDeeGee and Laurent Garnier. Next up: Spirit of the Suwannee Music Park, Jacksonville on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Lewis OfMan is an electro and electronica artist based in France, tracked on sou
 
 Anetha, CeeDeeGee, Laurent Garnier
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisofman/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lewisofman/)*

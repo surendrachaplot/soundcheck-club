@@ -1,14 +1,15 @@
 # samJ
 
-samJ is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Secret Location, Toronto on Fri, 16 Oct 2026.
+samJ is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Location, Toronto on Fri, 16 Oct 2026.
 
-samJ is a techno and industrial artist based in Italy, tracked on soundcheck, with 32 sets logged across Berlin, Milan, Toronto and Turin. Often billed alongside ANKKH, Francesco Basari and HEMPTOTE. Next up: TBA - Secret Location, Toronto on Fri 16 Oct.
+samJ is a techno and industrial artist based in Italy, tracked on soundcheck, with 33 sets logged across Berlin, Milan, Tokyo and Toronto and 1 more. Often billed alongside ANKKH, Francesco Basari and HEMPTOTE. Next up: TBA - Secret Location, Toronto on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | TBA - Secret Location | Toronto |
+| Fri, 16 Oct 2026 | TBA - Secret Location  | Tokyo |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ samJ is a techno and industrial artist based in Italy, tracked on soundcheck, wi
 
 ANKKH, Francesco Basari, HEMPTOTE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samj/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samj/)*

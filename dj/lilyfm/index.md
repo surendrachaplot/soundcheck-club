@@ -1,6 +1,6 @@
 # Lily FM
 
-Lily FM is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Sydney on Sat, 10 Oct 2026.
+Lily FM is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Sydney on Sat, 10 Oct 2026.
 
 Lily FM is a house and techno artist based in Australia, tracked on soundcheck, with 36 sets logged across Sydney. Often billed alongside Jane Decks, DAUG and GMOZ. Next up: TBA, Sydney on Sat 10 Oct.
 
@@ -28,4 +28,4 @@ Lily FM is a house and techno artist based in Australia, tracked on soundcheck, 
 
 Jane Decks, DAUG, GMOZ
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyfm/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lilyfm/)*

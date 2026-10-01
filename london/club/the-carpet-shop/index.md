@@ -1,8 +1,8 @@
 # The Carpet Shop
 
-The Carpet Shop is a music venue in London with 19 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "10 years of Subtle Radio" on Fri, 2 Oct 2026.
+The Carpet Shop is a music venue in London with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "10 years of Subtle Radio" on Fri, 2 Oct 2026.
 
-The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming gigs, with line-ups including Alexander Nut, Alex Phountzi, AliA and Aqwea and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
+The Carpet Shop is a music venue in London listed on soundcheck. 20 upcoming gigs, with line-ups including Alexander Nut, Alex Phountzi, AliA and Aqwea and 2 more. Browse upcoming dates, start times and who's playing. Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom.
 
 ## What's on
 
@@ -23,4 +23,4 @@ The Carpet Shop is a music venue in London listed on soundcheck. 19 upcoming gig
 
 Arch 164, 115 Rye Lane, London SE15 4ST, United Kingdom, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/the-carpet-shop/)*

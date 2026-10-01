@@ -1,6 +1,6 @@
 # Esposito
 
-Esposito is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sensorium, Berlin on Sun, 4 Oct 2026.
+Esposito is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sensorium, Berlin on Sun, 4 Oct 2026.
 
 Esposito is a tech house and techno artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin and Munich. Often billed alongside Darwin, Efdemin and Alinka. Next up: Sensorium, Berlin on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Esposito is a tech house and techno artist based in Germany, tracked on soundche
 
 Darwin, Efdemin, Alinka
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esposito/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esposito/)*

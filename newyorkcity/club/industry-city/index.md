@@ -1,6 +1,6 @@
 # Industry City
 
-Industry City is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Berlin Beyond Year 3" on Sat, 10 Oct 2026.
+Industry City is a music venue in New York City with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Berlin Beyond Year 3" on Sat, 10 Oct 2026.
 
 Industry City is a music venue in New York City listed on soundcheck. 6 upcoming gigs, with line-ups including Alice Longyu Gao, Andhim, Annie Lew and AWEN and 2 more. Browse upcoming dates, start times and who's playing. 220 36th Street, Brooklyn, NY 11232, USA.
 
@@ -9,7 +9,7 @@ Industry City is a music venue in New York City listed on soundcheck. 6 upcoming
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Berlin Beyond Year 3 |  |
-| Sat, 10 Oct 2026 | MRAK | MRAK |
+| Sat, 10 Oct 2026 | MRAK at Industry City | MRAK |
 | Fri, 23 Oct 2026 | City of Gods Festival: Night 1 |  |
 | Sat, 24 Oct 2026 | City of Gods Festival: Night 2 |  |
 | Fri, 30 Oct 2026 | The Vampire Ball: Night 1 | AWEN, Alice Longyu Gao, Andhim, Baby Wolf, Eli Escobar, Elkka, Griffin Maxwell Brooks, LSDXOXO, SARE, Wreckno, deBasement |
@@ -19,4 +19,4 @@ Industry City is a music venue in New York City listed on soundcheck. 6 upcoming
 
 220 36th Street, Brooklyn, NY 11232, USA, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/industry-city/)*

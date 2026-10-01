@@ -1,11 +1,11 @@
-# Unsound Warszawa 2026: Arca presents AIRDOLL - Arca / Bobby Beethoven / KAVARI / Mica Levi at Tunelowa
+# Unsound Warszawa 2026: Arca presents AIRDOLL - Arca / Bobby Beethoven / KAVARI / Mica Levi at Sektor 6D
 
-Unsound Warszawa 2026: Arca presents AIRDOLL - Arca / Bobby Beethoven / KAVARI / Mica Levi at Tunelowa on Sat 3 Oct, Warsaw. 4 artists on the bill: 2K88, Arca, KAVARI and Mica Levi. Preview the line-up and save it on soundcheck.
+Unsound Warszawa 2026: Arca presents AIRDOLL - Arca / Bobby Beethoven / KAVARI / Mica Levi at Sektor 6D on Sat 3 Oct, Warsaw. 4 artists on the bill: 2K88, Arca, KAVARI and Mica Levi. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
 | Date | Sat, 3 Oct 2026 |
-| Venue | Tunelowa |
+| Venue | Sektor 6D |
 | City | Warsaw |
 
 ## Line-up

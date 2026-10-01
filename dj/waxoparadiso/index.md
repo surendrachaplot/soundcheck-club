@@ -1,14 +1,15 @@
 # Wax'o Paradiso
 
-Wax'o Paradiso is a House and Balearic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
+Wax'o Paradiso is a House and Balearic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Revolver Upstairs, Melbourne on Sun, 1 Nov 2026.
 
-Wax'o Paradiso is a house and balearic artist based in Australia, tracked on soundcheck, with 52 sets logged across Bali, Bangkok, Berlin and Brisbane and 6 more. Often billed alongside Lauren Hansom, Bradley Zero and DAWS. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
+Wax'o Paradiso is a house and balearic artist based in Australia, tracked on soundcheck, with 53 sets logged across Bali, Bangkok, Berlin and Brisbane and 6 more. Often billed alongside Lauren Hansom, Bradley Zero and DAWS. Next up: Revolver Upstairs, Melbourne on Sun 1 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
+| Sat, 7 Nov 2026 | TBA - The Scarborough Hotel, Scarborough NSW | Sydney |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Wax'o Paradiso is a house and balearic artist based in Australia, tracked on sou
 
 Lauren Hansom, Bradley Zero, DAWS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waxoparadiso/)*

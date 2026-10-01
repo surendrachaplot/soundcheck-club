@@ -1,14 +1,15 @@
 # Robert Bergman
 
-Robert Bergman is a Acid and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
+Robert Bergman is a Acid and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at San Francisco, Amsterdam on Sat, 24 Oct 2026.
 
-Robert Bergman is an acid and house artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Satoshi Yamamura, I-F and Esther Dune. Next up: San Francisco, Amsterdam on Sat 24 Oct.
+Robert Bergman is an acid and house artist based in Netherlands, tracked on soundcheck, with 40 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 9 more. Often billed alongside Satoshi Yamamura, I-F and Esther Dune. Next up: San Francisco, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | San Francisco | Amsterdam |
+| Sat, 28 Nov 2026 | Open Ground | Wuppertal |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Robert Bergman is an acid and house artist based in Netherlands, tracked on soun
 
 Satoshi Yamamura, I-F, Esther Dune
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbergman/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/robertbergman/)*

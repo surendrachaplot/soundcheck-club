@@ -1,14 +1,15 @@
 # Shiny Objects
 
-Shiny Objects is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 9 Oct 2026.
+Shiny Objects is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Public Works, San Francisco/Oakland on Fri, 9 Oct 2026.
 
-Shiny Objects is a house and disco artist based in United States of America, tracked on soundcheck, with 13 sets logged across Istanbul and San Francisco/Oakland. Often billed alongside Anthony Mansfield, DJ M3 and Galen. Next up: Public Works, San Francisco/Oakland on Fri 9 Oct.
+Shiny Objects is a house and disco artist based in United States of America, tracked on soundcheck, with 14 sets logged across California, Istanbul and San Francisco/Oakland. Often billed alongside Anthony Mansfield, Galen and DJ M3. Next up: Public Works, San Francisco/Oakland on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Public Works | San Francisco/Oakland |
+| Sat, 31 Oct 2026 | Laguna Lab | California |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Shiny Objects is a house and disco artist based in United States of America, tra
 
 ## Shares bills with
 
-Anthony Mansfield, DJ M3, Galen
+Anthony Mansfield, Galen, DJ M3
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shinyobjects/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shinyobjects/)*

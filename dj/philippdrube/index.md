@@ -1,14 +1,15 @@
 # Philipp Drube
 
-Philipp Drube is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
+Philipp Drube is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RSO.BERLIN, Berlin on Sat, 3 Oct 2026.
 
-Philipp Drube is a techno and trance artist based in Germany, tracked on soundcheck, with 68 sets logged across Berlin, Brussels, Budapest and Copenhagen and 13 more. Often billed alongside Frank Heise, Inverse Element and DINA. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
+Philipp Drube is a techno and trance artist based in Germany, tracked on soundcheck, with 69 sets logged across Berlin, Brussels, Budapest and Copenhagen and 14 more. Often billed alongside Frank Heise, Inverse Element and DINA. Next up: RSO.BERLIN, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | RSO.BERLIN | Berlin |
+| Fri, 23 Oct 2026 | elipamanoke | Leipzig |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Philipp Drube is a techno and trance artist based in Germany, tracked on soundch
 
 Frank Heise, Inverse Element, DINA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/philippdrube/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/philippdrube/)*

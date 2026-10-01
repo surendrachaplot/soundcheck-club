@@ -1,6 +1,6 @@
 # Orbita x YSY at YSY
 
-Orbita x YSY on Fri 2 Oct, Berlin. 3 artists on the bill: DJ Aficionado, Eleonora K and Llupe. House and Electronica. Preview the line-up and save it on soundcheck.
+Orbita x YSY on Fri 2 Oct, Berlin. 4 artists on the bill: Davin Underwood, DJ Aficionado, Eleonora K and Llupe. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Orbita x YSY on Fri 2 Oct, Berlin. 3 artists on the bill: DJ Aficionado, Eleonor
 
 ## Line-up
 
+- Davin Underwood
 - DJ Aficionado
 - Eleonora K
 - Llupe

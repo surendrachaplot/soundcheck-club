@@ -1,6 +1,6 @@
 # Rimini Express
 
-Rimini Express is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Time is the new space, Rotterdam on Sat, 21 Nov 2026.
+Rimini Express is a Italo Disco and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Time is the new space, Rotterdam on Sat, 21 Nov 2026.
 
 Rimini Express is an italo disco and disco artist based in Netherlands, tracked on soundcheck, with 11 sets logged across Amsterdam, Rotterdam and Utrecht. Often billed alongside Marsman, Mavanov and Pucklectic. Next up: Time is the new space, Rotterdam on Sat 21 Nov.
 
@@ -25,4 +25,4 @@ Rimini Express is an italo disco and disco artist based in Netherlands, tracked 
 
 Marsman, Mavanov, Pucklectic
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/riminiexpress/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/riminiexpress/)*

@@ -1,13 +1,14 @@
 # KEMIK
 
-KEMIK is a Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at OST, Berlin on Thu, 31 Dec 2026.
+KEMIK is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ääniwalli, Helsinki on Sat, 31 Oct 2026.
 
-KEMIK is a techno artist tracked on soundcheck, with 22 sets logged across Berlin, Helsinki, Leipzig and London. Often billed alongside 2THEMAX, CEB (FI) and Sallidoing. Next up: OST, Berlin on Thu 31 Dec.
+KEMIK is a techno artist tracked on soundcheck, with 23 sets logged across Berlin, Helsinki, Leipzig and London. Often billed alongside 2THEMAX, CEB (FI) and Sallidoing. Next up: Ääniwalli, Helsinki on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Ääniwalli | Helsinki |
 | Thu, 31 Dec 2026 | OST | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ KEMIK is a techno artist tracked on soundcheck, with 22 sets logged across Berli
 
 2THEMAX, CEB (FI), Sallidoing
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kemik/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kemik/)*

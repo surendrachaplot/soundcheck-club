@@ -1,6 +1,6 @@
 # EL SÓTANO
 
-EL SÓTANO is a music venue in Madrid with 27 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "UNDER HAZE: KSAL, DOFS, CX-0" on Thu, 1 Oct 2026.
+EL SÓTANO is a music venue in Madrid with 27 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "UNDER HAZE: KSAL, DOFS, CX-0" on Thu, 1 Oct 2026.
 
 EL SÓTANO is a music venue in Madrid listed on soundcheck. 27 upcoming gigs, with line-ups including Alexander Kowalski, Arok Shiva, Brisa Then and Centurion One and 2 more. Browse upcoming dates, start times and who's playing. Calle de las Maldonadas, 6, 28005 Madrid, España.
 
@@ -23,4 +23,4 @@ EL SÓTANO is a music venue in Madrid listed on soundcheck. 27 upcoming gigs, wi
 
 Calle de las Maldonadas, 6, 28005 Madrid, España, Madrid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/el-s-tano/)*

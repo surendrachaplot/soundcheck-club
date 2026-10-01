@@ -1,24 +1,25 @@
 # Time is the new space
 
-Time is the new space is a music venue in Rotterdam with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "HIDDEN BEHIND X TITNS VOL. 23" on Wed, 30 Sept 2026.
+Time is the new space is a music venue in Rotterdam with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SURREALITY: RÀITH 1 – AS THE LEAVES FALL DOWN" on Thu, 1 Oct 2026.
 
-Time is the new space is a music venue in Rotterdam listed on soundcheck. 8 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
+Time is the new space is a music venue in Rotterdam listed on soundcheck. 9 upcoming gigs, with line-ups including Charlton, Gabalyn, Gropina and Helmond Lang and 2 more. Browse upcoming dates, start times and who's playing. Schiekade 185, 3013 BR, Rotterdam, Netherlands.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | HIDDEN BEHIND X TITNS VOL. 23 |  |
 | Thu, 1 Oct 2026 | SURREALITY: RÀITH 1 – AS THE LEAVES FALL DOWN |  |
 | Fri, 2 Oct 2026 | TIME2CLUB – YoungWoman CLUB VOL. 1 | Helmond Lang, YoungWoman, Zohar, prekeris |
 | Sat, 3 Oct 2026 | PAESAGGI RECORDS AUTUNNO MINITOUR #2 | Gropina, Stefhanja, Wutu |
 | Sun, 4 Oct 2026 | SOIL TRAX SUNDAYS | Charlton, Gabalyn, JELLY |
+| Thu, 8 Oct 2026 | HIDDEN BEHIND X TITNS VOL. 24 |  |
+| Fri, 9 Oct 2026 | TIME2CLUB – WATCHING YOUTUBE VIDEOS W/ … [VOL. 1] | Helmond Lang, Rick Baguette |
 | Sat, 10 Oct 2026 | Pontoon Bookings 5-Year Anniversary |  |
 | Fri, 6 Nov 2026 | Intergalactic FM presents All Stars |  |
-| Sat, 21 Nov 2026 | ITALORATOR | Inez, Italo Brutalo, Marsman, Rimini Express |
+| Sat, 21 Nov 2026 | ITALORATOR | Italo Brutalo, Marsman, Rimini Express |
 
 ## Address
 
 Schiekade 185, 3013 BR, Rotterdam, Netherlands, Rotterdam
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/rotterdam/club/time-is-the-new-space/)*

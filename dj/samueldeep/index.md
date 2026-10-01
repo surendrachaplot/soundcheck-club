@@ -1,8 +1,8 @@
 # Samuel Deep
 
-Samuel Deep is a House and Tech House artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
+Samuel Deep is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Berghain | Panorama Bar | Säule, Berlin on Fri, 16 Oct 2026.
 
-Samuel Deep is a house and tech house artist based in Netherlands, tracked on soundcheck, with 189 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 16 Oct.
+Samuel Deep is a house and tech house artist based in Netherlands, tracked on soundcheck, with 190 sets logged across Amsterdam, Bali, Barcelona and Berlin and 31 more. Often billed alongside Doudou MD, DJ Senc and Laidlaw. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Samuel Deep is a house and tech house artist based in Netherlands, tracked on so
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | TESTBED | Leeds |
 | Fri, 13 Nov 2026 | Digital | Newcastle |
+| Fri, 20 Nov 2026 | Amigo | Ghent |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -22,7 +23,7 @@ Samuel Deep is a house and tech house artist based in Netherlands, tracked on so
 - The Loft, Manchester — Sat, 19 Sept 2026
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - Fvtvr, Paris — Sat, 12 Sept 2026
-- St Brides Church, Liverpool — Sat, 5 Sept 2026
+- St Brides Church Liverpool, Liverpool — Sat, 5 Sept 2026
 - Bassiani, Tbilisi — Fri, 4 Sept 2026
 - Lofi, Amsterdam — Sat, 29 Aug 2026
 - Haus der Visionäre, Berlin — Sat, 22 Aug 2026
@@ -32,4 +33,4 @@ Samuel Deep is a house and tech house artist based in Netherlands, tracked on so
 
 Doudou MD, DJ Senc, Laidlaw
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/samueldeep/)*

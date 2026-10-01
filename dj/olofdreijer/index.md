@@ -1,14 +1,13 @@
 # Olof Dreijer
 
-Olof Dreijer is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sleeping Village, Chicago on Wed, 30 Sept 2026.
+Olof Dreijer is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TRANSMISSION DC, Washington DC on Fri, 2 Oct 2026.
 
-Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: Sleeping Village, Chicago on Wed 30 Sept.
+Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck, with 64 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 31 more. Often billed alongside Ben UFO, Suze Ijó and nonsuit. Next up: TRANSMISSION DC, Washington DC on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Sleeping Village | Chicago |
 | Fri, 2 Oct 2026 | TRANSMISSION DC | Washington DC |
 | Sat, 3 Oct 2026 | Société des arts technologiques | Montreal |
 | Sat, 24 Oct 2026 | Cecil AM | Copenhagen |
@@ -16,6 +15,7 @@ Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck
 
 ## Recently played
 
+- Sleeping Village, Chicago — Wed, 30 Sept 2026
 - Knockdown Center, New York City — Sat, 26 Sept 2026
 - The Pitt Market, Edinburgh — Sat, 22 Aug 2026
 - Amsterdamse Bos, Amsterdam — Fri, 31 Jul 2026
@@ -23,10 +23,9 @@ Olof Dreijer is a techno and house artist based in Sweden, tracked on soundcheck
 - fabric, London — Thu, 9 Jul 2026
 - The Great Northern, San Francisco/Oakland — Sun, 28 Jun 2026
 - Nowadays, New York City — Fri, 26 Jun 2026
-- YuYu Cine Club, Mexico City — Fri, 22 May 2026
 
 ## Shares bills with
 
 Ben UFO, Suze Ijó, nonsuit
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olofdreijer/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olofdreijer/)*

@@ -1,8 +1,8 @@
 # Suze Ijó
 
-Suze Ijó is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at control, Bucharest on Thu, 1 Oct 2026.
+Suze Ijó is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at control, Bucharest on Thu, 1 Oct 2026.
 
-Suze Ijó is a house and techno artist based in Netherlands, tracked on soundcheck, with 209 sets logged across Amsterdam, Antwerp, Auckland and Bali and 50 more. Often billed alongside Gabrielle Kwarteng, Fafi Abdel Nour and CARISTA. Next up: control, Bucharest on Thu 1 Oct.
+Suze Ijó is a house and techno artist based in Netherlands, tracked on soundcheck, with 210 sets logged across Amsterdam, Antwerp, Auckland and Bali and 50 more. Often billed alongside Gabrielle Kwarteng, Fafi Abdel Nour and CARISTA. Next up: control, Bucharest on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Suze Ijó is a house and techno artist based in Netherlands, tracked on soundche
 | Fri, 30 Oct 2026 | Refuge | New York City |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
 | Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
+| Thu, 31 Dec 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
 
@@ -31,4 +32,4 @@ Suze Ijó is a house and techno artist based in Netherlands, tracked on soundche
 
 Gabrielle Kwarteng, Fafi Abdel Nour, CARISTA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzeijo/)*

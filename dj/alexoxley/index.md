@@ -1,16 +1,18 @@
 # Alex Oxley
 
-Alex Oxley is a Disco and EBM artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Zebulon, Los Angeles on Sat, 24 Oct 2026.
+Alex Oxley is a Disco and Italo Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kiku Room, San Diego on Fri, 23 Oct 2026.
 
-Alex Oxley is a disco and ebm artist based in United Kingdom, tracked on soundcheck, with 53 sets logged across Auckland, Austin, Berlin and Birmingham and 22 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: Zebulon, Los Angeles on Sat 24 Oct.
+Alex Oxley is a disco and italo disco artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Amsterdam, Auckland, Austin and Berlin and 23 more. Often billed alongside Roxanne Roll, Fleetmac Wood and Horror Hi-Fi. Next up: Kiku Room, San Diego on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Kiku Room | San Diego |
 | Sat, 24 Oct 2026 | Zebulon | Los Angeles |
 | Fri, 30 Oct 2026 | ZeyZey | Miami |
 | Sat, 31 Oct 2026 | Public Works | San Francisco/Oakland |
+| Thu, 5 Nov 2026 | Paradiso | Amsterdam |
 | Fri, 6 Nov 2026 | Kantine am Berghain | Berlin |
 | Sun, 15 Nov 2026 | Holocene | Portland |
 
@@ -29,4 +31,4 @@ Alex Oxley is a disco and ebm artist based in United Kingdom, tracked on soundch
 
 Roxanne Roll, Fleetmac Wood, Horror Hi-Fi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexoxley/)*

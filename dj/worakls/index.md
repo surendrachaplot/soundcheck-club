@@ -1,16 +1,18 @@
 # Worakls
 
-Worakls is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Smolna, Warsaw on Fri, 16 Oct 2026.
+Worakls is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at D! Club, Lausanne on Fri, 2 Oct 2026.
 
-Worakls is a techno and house artist based in France, tracked on soundcheck, with 80 sets logged across Amsterdam, Barcelona, Basel and Berlin and 27 more. Often billed alongside Aalson, Carina Lawrence and Mees Salomé. Next up: Smolna, Warsaw on Fri 16 Oct.
+Worakls is a techno and house artist based in France, tracked on soundcheck, with 82 sets logged across Amsterdam, Barcelona, Basel and Berlin and 28 more. Often billed alongside Aalson, Carina Lawrence and Mees Salomé. Next up: D! Club, Lausanne on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | D! Club | Lausanne |
 | Fri, 16 Oct 2026 | Smolna | Warsaw |
 | Thu, 22 Oct 2026 | WestWeelde | Amsterdam |
 | Sat, 24 Oct 2026 | Nordstern | Basel |
+| Tue, 10 Nov 2026 | Fuse | Brussels |
 | Fri, 20 Nov 2026 | Ritter Butzke | Berlin |
 | Sat, 21 Nov 2026 | Fridas Pier | Stuttgart |
 | Fri, 4 Dec 2026 | UNLOCKED | London |
@@ -31,4 +33,4 @@ Worakls is a techno and house artist based in France, tracked on soundcheck, wit
 
 Aalson, Carina Lawrence, Mees Salomé
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/worakls/)*

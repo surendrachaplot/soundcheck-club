@@ -1,6 +1,6 @@
 # Valdemar
 
-Valdemar is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Supermarket, Zurich on Fri, 30 Oct 2026.
+Valdemar is a House and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Supermarket, Zurich on Fri, 30 Oct 2026.
 
 Valdemar is a house and garage artist based in Sweden, tracked on soundcheck, with 10 sets logged across Stockholm and Zurich. Often billed alongside BRAINDAAMAGE, KAïA and Miska. Next up: Supermarket, Zurich on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Valdemar is a house and garage artist based in Sweden, tracked on soundcheck, wi
 
 BRAINDAAMAGE, KAïA (2), Miska
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/valdemar/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/valdemar/)*

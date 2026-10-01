@@ -1,14 +1,15 @@
 # MikAH
 
-MikAH is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 23 Oct 2026.
+MikAH is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Edelfettwerk, Hamburg on Fri, 23 Oct 2026.
 
-MikAH is a techno and house artist based in Germany, tracked on soundcheck, with 54 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg. Often billed alongside Miyagi, Bizzarro Universe and SUZé. Next up: Edelfettwerk, Hamburg on Fri 23 Oct.
+MikAH is a techno and house artist based in Germany, tracked on soundcheck, with 55 sets logged across Amsterdam, Berlin, Frankfurt and Hamburg. Often billed alongside Miyagi, Bizzarro Universe and SUZé. Next up: Edelfettwerk, Hamburg on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Edelfettwerk | Hamburg |
+| Fri, 30 Oct 2026 | Ehemaliges Hauptzollamt | Hamburg |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ MikAH is a techno and house artist based in Germany, tracked on soundcheck, with
 
 Miyagi, Bizzarro Universe, SUZé
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mikah/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mikah/)*

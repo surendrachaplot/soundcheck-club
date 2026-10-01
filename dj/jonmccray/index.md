@@ -1,14 +1,15 @@
 # Jon McCray
 
-Jon McCray is a Techno and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Rogers Park Chicago, Chicago on Sun, 11 Oct 2026.
+Jon McCray is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Rogers Park Chicago, Chicago on Sun, 11 Oct 2026.
 
-Jon McCray is a techno and club artist based in United States of America, tracked on soundcheck, with 42 sets logged across Chicago and New York City. Often billed alongside R°sha, Vyper and Veri Peri. Next up: TBA - Rogers Park Chicago, Chicago on Sun 11 Oct.
+Jon McCray is a techno and club artist based in United States of America, tracked on soundcheck, with 43 sets logged across Chicago and New York City. Often billed alongside R°sha, Vyper and Flores Negras. Next up: TBA - Rogers Park Chicago, Chicago on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | TBA - Rogers Park Chicago | Chicago |
+| Sat, 24 Oct 2026 | Wicker Park | Chicago |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Jon McCray is a techno and club artist based in United States of America, tracke
 
 ## Shares bills with
 
-R°sha, Vyper, Veri Peri
+R°sha, Vyper, Flores Negras
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jonmccray/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jonmccray/)*

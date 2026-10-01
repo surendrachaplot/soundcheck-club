@@ -1,8 +1,8 @@
 # Spice
 
-Spice is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at DRUMSHEDS, London on Sat, 21 Nov 2026.
+Spice is a Hip-Hop and Afrobeat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 21 Nov 2026.
 
-Spice is a hip-hop and afrobeat artist based in Jamaica, tracked on soundcheck, with 8 sets logged across Amsterdam, Geneva, Ibiza and London and 2 more. Often billed alongside ID, Sweets and Vybz Kartel. Next up: DRUMSHEDS, London on Sat 21 Nov.
+Spice is a hip-hop and afrobeat artist based in Jamaica, tracked on soundcheck, with 7 sets logged across Geneva, Ibiza, London and Paris and 1 more. Often billed alongside ID, Sweets and Vybz Kartel. Next up: DRUMSHEDS, London on Sat 21 Nov.
 
 ## Upcoming shows
 
@@ -12,7 +12,6 @@ Spice is a hip-hop and afrobeat artist based in Jamaica, tracked on soundcheck, 
 
 ## Recently played
 
-- Club NYX, Amsterdam — Fri, 11 Sept 2026
 - Hippodrome de Vincennes, Paris — Fri, 3 Jul 2026
 - Trapeze Bar, London — Sat, 2 May 2026
 - Brixton Storeys, London — Sat, 18 Apr 2026
@@ -24,4 +23,4 @@ Spice is a hip-hop and afrobeat artist based in Jamaica, tracked on soundcheck, 
 
 ID, Sweets, Vybz Kartel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/spice/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/spice/)*

@@ -1,8 +1,8 @@
 # Esa
 
-Esa is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Artlab, Buenos Aires on Sat, 3 Oct 2026.
+Esa is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Artlab, Buenos Aires on Sat, 3 Oct 2026.
 
-Esa is a house and disco artist based in South Africa, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Belgrade and Buenos Aires and 14 more. Often billed alongside Yu Su, Antal and Gigi Testa. Next up: Artlab, Buenos Aires on Sat 3 Oct.
+Esa is a house and disco artist based in South Africa, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Belgrade and Buenos Aires and 15 more. Often billed alongside Yu Su, Antal and Gigi Testa. Next up: Artlab, Buenos Aires on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Esa is a house and disco artist based in South Africa, tracked on soundcheck, wi
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Artlab | Buenos Aires |
 | Fri, 9 Oct 2026 | Foufounes Electronique | Montreal |
+| Sat, 10 Oct 2026 | TBA - Centro | Rio-de-janeiro |
 | Fri, 30 Oct 2026 | The Jazz Cafe | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ Esa is a house and disco artist based in South Africa, tracked on soundcheck, wi
 
 Yu Su, Antal, Gigi Testa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/esa/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/esa/)*

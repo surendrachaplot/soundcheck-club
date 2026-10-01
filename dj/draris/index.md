@@ -1,6 +1,6 @@
 # Draris
 
-Draris is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Draris is a Industrial and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
 Draris is an industrial and ebm artist tracked on soundcheck, with 13 sets logged across Montreal. Often billed alongside Creature (CA), Mickey Dagger and Anarchotech. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Draris is an industrial and ebm artist tracked on soundcheck, with 13 sets logge
 
 Creature (CA), Mickey Dagger, Anarchotech
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/draris/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/draris/)*

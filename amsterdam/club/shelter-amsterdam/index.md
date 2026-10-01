@@ -1,6 +1,6 @@
 # Shelter Amsterdam
 
-Shelter Amsterdam is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Alex Dienaar b2b Nathan Alzon, Ellia Jaya" on Fri, 2 Oct 2026.
+Shelter Amsterdam is a music venue in Amsterdam with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Alex Dienaar b2b Nathan Alzon, Ellia Jaya" on Fri, 2 Oct 2026.
 
 Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 24 upcoming gigs, with line-ups including 36framez, A'DAM, A For Alpha and Ajuma and 2 more. Browse upcoming dates, start times and who's playing. Overhoeksplein 3, 1031KS, Amsterdam.
 
@@ -17,10 +17,10 @@ Shelter Amsterdam is a music venue in Amsterdam listed on soundcheck. 24 upcomin
 | Wed, 21 Oct 2026 | Modern Funktion x Shelter | Benji King, Job de Jong, Jude Lenihan, Laidlaw, Locklead, Marsolo, Mya (1), Phill de Janeiro, Tom Da Silva, Truly Madly, bullet tooth, j:me |
 | Thu, 22 Oct 2026 | PIV ADE - Shelter Amsterdam | Anil Aras, Cinthie, Daughter In Law, Julian Anthony, Piem, Ryan Elliott, SDK (IT) |
 | Thu, 22 Oct 2026 | 20 years of The Warehouse Project | Ewan McVicar, Luke Alessi, Merel Helderman, PHIA, RIRIA, Ryota (JP), Sam Alfred, Special Request |
-| Fri, 23 Oct 2026 | Obskür presents: The System | Dusky, Elliot Schooling, Emma 2000, Jamie Fielding, Liam Palmer, Obskur |
+| Fri, 23 Oct 2026 | Obskür presents: The System | Dusky, Elliot Schooling, Emma 2000, Jake Fitz, Jamie Fielding, Liam Palmer, Obskur |
 
 ## Address
 
 Overhoeksplein 3, 1031KS, Amsterdam, Amsterdam
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/amsterdam/club/shelter-amsterdam/)*

@@ -1,8 +1,8 @@
 # nimino
 
-nimino is a House and Downtempo artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Project House, Leeds on Fri, 9 Oct 2026.
+nimino is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Project House, Leeds on Fri, 9 Oct 2026.
 
-nimino is a house and downtempo artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Lane 8, Boys Noize and Elderbrook. Next up: Project House, Leeds on Fri 9 Oct.
+nimino is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Barcelona, Berlin and Boston and 21 more. Often billed alongside Lane 8, Boys Noize and Elderbrook. Next up: Project House, Leeds on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -30,4 +30,4 @@ nimino is a house and downtempo artist based in United Kingdom, tracked on sound
 
 Lane 8, Boys Noize, Elderbrook
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nimino/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nimino/)*

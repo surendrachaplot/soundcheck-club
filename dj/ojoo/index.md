@@ -1,8 +1,8 @@
 # ojoo
 
-ojoo is a Experimental and Dub artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Zentralwäscherei, Zurich on Sat, 10 Oct 2026.
+ojoo is a Experimental and Dub artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Zentralwäscherei, Zurich on Sat, 10 Oct 2026.
 
-ojoo is an experimental and dub artist based in Morocco, tracked on soundcheck, with 103 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside ojoo, Ossia and NVST. Next up: Zentralwäscherei, Zurich on Sat 10 Oct.
+ojoo is an experimental and dub artist based in Morocco, tracked on soundcheck, with 104 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside ojoo, Ossia and NVST. Next up: Zentralwäscherei, Zurich on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ ojoo is an experimental and dub artist based in Morocco, tracked on soundcheck, 
 | Thu, 5 Nov 2026 | TivoliVredenburg | Utrecht |
 | Fri, 6 Nov 2026 | EXIT Glasgow | Glasgow |
 | Sat, 7 Nov 2026 | KABUL à GoGo | Utrecht |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ ojoo is an experimental and dub artist based in Morocco, tracked on soundcheck, 
 
 ojoo, Ossia, NVST
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ojoo/)*

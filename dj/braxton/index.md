@@ -1,8 +1,8 @@
 # Braxton
 
-Braxton is a Progressive House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
+Braxton is a Progressive House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at UNO MALTA, Malta on Thu, 8 Oct 2026.
 
-Braxton is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Austin, Berlin, Brighton and Bristol and 17 more. Often billed alongside Durante, Rezident and Hana. Next up: UNO MALTA, Malta on Thu 8 Oct.
+Braxton is a progressive house and deep house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Austin, Berlin, Brighton and Bristol and 17 more. Often billed alongside Durante, Rezident and Hana. Next up: UNO MALTA, Malta on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Braxton is a progressive house and deep house artist based in United Kingdom, tr
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | UNO MALTA | Malta |
 | Sat, 7 Nov 2026 | Radost FX | Prague |
+| Sat, 14 Nov 2026 | The Fibre Penthouse | Leeds |
 | Sat, 12 Dec 2026 | The Cause | London |
 
 ## Recently played
@@ -27,4 +28,4 @@ Braxton is a progressive house and deep house artist based in United Kingdom, tr
 
 Durante, Rezident, Hana
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/braxton/)*

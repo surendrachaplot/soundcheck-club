@@ -1,6 +1,6 @@
 # Gratuit
 
-Gratuit is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Le Gambetta Club, Paris on Sat, 10 Oct 2026.
+Gratuit is a Techno and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Le Gambetta Club, Paris on Sat, 10 Oct 2026.
 
 Gratuit is a techno and baile funk artist based in United States of America, tracked on soundcheck, with 7 sets logged across Ibiza, London, Lyon and Marseille and 2 more. Often billed alongside 64, BAR (DE) and BIO. Next up: Le Gambetta Club, Paris on Sat 10 Oct.
 
@@ -23,4 +23,4 @@ Gratuit is a techno and baile funk artist based in United States of America, tra
 
 64, BAR (DE), BIO (1)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gratuit/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gratuit/)*

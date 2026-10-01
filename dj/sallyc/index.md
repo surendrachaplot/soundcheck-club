@@ -1,6 +1,6 @@
 # Sally C
 
-Sally C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
+Sally C is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
 Sally C is a house and techno artist based in Germany, tracked on soundcheck, with 264 sets logged across Amsterdam, Antwerp, Auckland and Austin and 64 more. Often billed alongside Spray, DJ BORING and Eliza Rose. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Sally C is a house and techno artist based in Germany, tracked on soundcheck, wi
 
 Spray, DJ BORING, Eliza Rose
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sallyc/)*

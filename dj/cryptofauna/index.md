@@ -1,13 +1,14 @@
 # Cryptofauna
 
-Cryptofauna is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at RSO.BERLIN, Berlin on Sat, 24 Oct 2026.
+Cryptofauna is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at villaWuller, Rhineland-palatinate on Sat, 17 Oct 2026.
 
-Cryptofauna is a techno and trance artist based in Germany, tracked on soundcheck, with 134 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 17 more. Often billed alongside Carly Zeng, Faerber and ENNIO. Next up: RSO.BERLIN, Berlin on Sat 24 Oct.
+Cryptofauna is a techno and trance artist based in Germany, tracked on soundcheck, with 135 sets logged across Amsterdam, Berlin, Cologne and Copenhagen and 18 more. Often billed alongside Carly Zeng, Faerber and ENNIO. Next up: villaWuller, Rhineland Palatinate on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | villaWuller | Rhineland-palatinate |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 31 Oct 2026 | TBA | Hamburg |
 
@@ -26,4 +27,4 @@ Cryptofauna is a techno and trance artist based in Germany, tracked on soundchec
 
 Carly Zeng, Faerber, ENNIO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cryptofauna/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cryptofauna/)*

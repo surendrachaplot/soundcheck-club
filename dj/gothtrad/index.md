@@ -1,6 +1,6 @@
 # Goth-Trad
 
-Goth-Trad is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
+Goth-Trad is a Dubstep and Bass artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Volks, Brighton on Fri, 2 Oct 2026.
 
 Goth-Trad is a dubstep and bass artist based in Japan, tracked on soundcheck, with 86 sets logged across Amsterdam, Bangkok, Barcelona and Berlin and 14 more. Often billed alongside HELKTRAM, CITY1 and EVE. Next up: Volks, Brighton on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Goth-Trad is a dubstep and bass artist based in Japan, tracked on soundcheck, wi
 
 HELKTRAM, CITY1, EVE (1)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gothtrad/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gothtrad/)*

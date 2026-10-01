@@ -1,6 +1,6 @@
 # judgeman
 
-judgeman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Z Maruyama, Tokyo on Thu, 29 Oct 2026.
+judgeman is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Z Maruyama, Tokyo on Thu, 29 Oct 2026.
 
 judgeman is a house and techno artist based in Japan, tracked on soundcheck, with 102 sets logged across Tokyo. Often billed alongside DJ SHIKISAI, has and Terax. Next up: Z Maruyama, Tokyo on Thu 29 Oct.
 
@@ -26,4 +26,4 @@ judgeman is a house and techno artist based in Japan, tracked on soundcheck, wit
 
 DJ SHIKISAI, has, Terax
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/judgeman/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/judgeman/)*

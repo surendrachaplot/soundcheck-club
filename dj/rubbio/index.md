@@ -1,6 +1,6 @@
 # rubbio
 
-rubbio is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Doggy Klœb, Malaga on Fri, 2 Oct 2026.
+rubbio is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Doggy Klœb, Malaga on Fri, 2 Oct 2026.
 
 rubbio is an electronica and progressive house artist based in Spain, tracked on soundcheck, with 20 sets logged across Brighton and Malaga. Often billed alongside Unreal Vibes, Andrés Sancho and Jorgge Decar. Next up: Doggy Klœb, Malaga on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ rubbio is an electronica and progressive house artist based in Spain, tracked on
 
 Unreal Vibes, Andrés Sancho, Jorgge Decar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rubbio/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubbio/)*

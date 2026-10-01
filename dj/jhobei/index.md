@@ -1,6 +1,6 @@
 # Jhobei
 
-Jhobei is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Jhobei is a House and Electro artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
 Jhobei is a house and electro artist based in United Kingdom, tracked on soundcheck, with 75 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside B.Love, Voigtmann and Enzo Siragusa. Next up: TBA, Central on Fri 2 Oct.
 
@@ -33,4 +33,4 @@ Jhobei is a house and electro artist based in United Kingdom, tracked on soundch
 
 B.Love, Voigtmann, Enzo Siragusa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jhobei/)*

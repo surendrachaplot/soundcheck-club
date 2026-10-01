@@ -1,6 +1,6 @@
 # Five Alive
 
-Five Alive is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
+Five Alive is a Jungle and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NOWHERE, Manchester on Sat, 3 Oct 2026.
 
 Five Alive is a jungle and drum & bass artist based in Canada, tracked on soundcheck, with 16 sets logged across Amsterdam, Brighton, London and Manchester and 2 more. Often billed alongside Ray Keith, Billy Daniel Bunter and Grooverider. Next up: NOWHERE, Manchester on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Five Alive is a jungle and drum & bass artist based in Canada, tracked on soundc
 
 Ray Keith, Billy Daniel Bunter, Grooverider
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fivealive/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fivealive/)*

@@ -1,6 +1,6 @@
 # Harri Pepper
 
-Harri Pepper is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Café de la Musique, Paris on Sun, 4 Oct 2026.
+Harri Pepper is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Café de la Musique, Paris on Sun, 4 Oct 2026.
 
 Harri Pepper is a house and techno artist based in United Kingdom, tracked on soundcheck, with 69 sets logged across Berlin, Bristol, Istanbul and London and 4 more. Often billed alongside Lukas Wigflex, Millie McKee and Rosie Ama. Next up: Café de la Musique, Paris on Sun 4 Oct.
 
@@ -28,4 +28,4 @@ Harri Pepper is a house and techno artist based in United Kingdom, tracked on so
 
 Lukas Wigflex, Millie McKee, Rosie Ama
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/harripepper/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/harripepper/)*

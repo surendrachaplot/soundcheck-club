@@ -1,6 +1,6 @@
 # mixtress
 
-mixtress is a Jungle and Bass artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
+mixtress is a Jungle and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Fri, 9 Oct 2026.
 
 mixtress is a jungle and bass artist based in United Kingdom, tracked on soundcheck, with 125 sets logged across Aberdeen, Amsterdam, Auckland and Barcelona and 23 more. Often billed alongside Ell Murphy, Bakey and Breaka. Next up: M.O.T, London on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ mixtress is a jungle and bass artist based in United Kingdom, tracked on soundch
 
 Ell Murphy, Bakey, Breaka
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mixtress/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mixtress/)*

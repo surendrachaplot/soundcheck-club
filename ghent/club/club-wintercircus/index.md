@@ -1,6 +1,6 @@
 # Club Wintercircus
 
-Club Wintercircus is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Videodroom x Send in the Clowns" on Fri, 9 Oct 2026.
+Club Wintercircus is a music venue in Ghent with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Videodroom x Send in the Clowns" on Fri, 9 Oct 2026.
 
 Club Wintercircus is a music venue in Ghent listed on soundcheck. 6 upcoming gigs, with line-ups including Forbidden Fruit, Kamma, Masalo and Max Cooper and 2 more. Browse upcoming dates, start times and who's playing. Miriam Makebaplein 2, 9000 Gent.
 
@@ -19,4 +19,4 @@ Club Wintercircus is a music venue in Ghent listed on soundcheck. 6 upcoming gig
 
 Miriam Makebaplein 2, 9000 Gent, Ghent
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-wintercircus/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/ghent/club/club-wintercircus/)*

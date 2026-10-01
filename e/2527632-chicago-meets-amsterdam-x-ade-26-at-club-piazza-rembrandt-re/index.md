@@ -1,6 +1,6 @@
 # CHICAGO MEETS AMSTERDAM X ADE 26 at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam
 
-CHICAGO MEETS AMSTERDAM X ADE 26 at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam on Sat 24 Oct, Amsterdam. 6 artists on the bill: Bianchetti, DJ Vivona, Hector Moralez and MR. SKIN and 2 more. House and UK Funky. Preview the line-up and save it on soundcheck.
+CHICAGO MEETS AMSTERDAM X ADE 26 at Club Piazza Rembrandt | Rembrandtplein 45, Amsterdam on Sat 24 Oct, Amsterdam. 6 artists on the bill: ADEZ, Bianchetti, DJ Vivona and MR. SKIN and 2 more. House and UK Funky. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,9 +10,9 @@ CHICAGO MEETS AMSTERDAM X ADE 26 at Club Piazza Rembrandt | Rembrandtplein 45, A
 
 ## Line-up
 
+- ADEZ
 - Bianchetti
 - DJ Vivona
-- Hector Moralez
 - MR. SKIN
 - Robert Owens
 - TWOEF

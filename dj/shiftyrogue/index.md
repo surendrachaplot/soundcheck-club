@@ -1,6 +1,6 @@
 # Shifty Rogue
 
-Shifty Rogue is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
+Shifty Rogue is a Jungle and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Void Club, Berlin on Sat, 3 Oct 2026.
 
 Shifty Rogue is a jungle and drum & bass artist based in United States of America, tracked on soundcheck, with 14 sets logged across Berlin, Frankfurt and London. Often billed alongside KaraKara, DJ Chromz and Hovercat. Next up: Void Club, Berlin on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Shifty Rogue is a jungle and drum & bass artist based in United States of Americ
 
 KaraKara, DJ Chromz, Hovercat
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftyrogue/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shiftyrogue/)*

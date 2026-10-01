@@ -1,6 +1,6 @@
 # ABI (FR)
 
-ABI (FR) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Fvtvr, Paris on Fri, 6 Nov 2026.
+ABI (FR) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fvtvr, Paris on Fri, 6 Nov 2026.
 
 ABI (FR) is a house and electro artist based in France, tracked on soundcheck, with 38 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 5 more. Often billed alongside Automatic Writing, Charlotte (FR) and LAMALICE. Next up: Fvtvr, Paris on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ ABI (FR) is a house and electro artist based in France, tracked on soundcheck, w
 
 Automatic Writing, Charlotte (FR), LAMALICE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/abi-fr/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abi-fr/)*

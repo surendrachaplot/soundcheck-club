@@ -1,8 +1,8 @@
 # Only Fire
 
-Only Fire is a Techno and Club artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at House of Q, Stockholm on Sat, 24 Oct 2026.
+Only Fire is a Techno and Club artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at House of Q, Stockholm on Sat, 24 Oct 2026.
 
-Only Fire is a techno and club artist based in Croatia, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside River Moon, Chippy Nonstop and Memphy. Next up: House of Q, Stockholm on Sat 24 Oct.
+Only Fire is a techno and club artist based in Croatia, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Athens and Auckland and 33 more. Often billed alongside River Moon, Chippy Nonstop and Memphy. Next up: House of Q, Stockholm on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Only Fire is a techno and club artist based in Croatia, tracked on soundcheck, w
 | Fri, 30 Oct 2026 | Massive | Seattle |
 | Sat, 31 Oct 2026 | 888 Garage | San Francisco/Oakland |
 | Sat, 7 Nov 2026 | Various Venues, Bristol | Bristol |
+| Fri, 27 Nov 2026 | DSTRKT Club Berlin | Berlin |
 | Sun, 29 Nov 2026 | Klakaz | Athens |
 
 ## Recently played
@@ -29,4 +30,4 @@ Only Fire is a techno and club artist based in Croatia, tracked on soundcheck, w
 
 River Moon, Chippy Nonstop, Memphy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/onlyfire/)*

@@ -1,8 +1,8 @@
 # John Acquaviva
 
-John Acquaviva is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hard Rock Hotel, Malta on Thu, 8 Oct 2026.
+John Acquaviva is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hard Rock Hotel, Malta on Thu, 8 Oct 2026.
 
-John Acquaviva is a house and disco artist based in Canada, tracked on soundcheck, with 24 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 6 more. Often billed alongside Roland Leesker, Ataxia and Jairo Uría. Next up: Hard Rock Hotel, Malta on Thu 8 Oct.
+John Acquaviva is a house and disco artist based in Canada, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Berlin and Detroit and 6 more. Often billed alongside Roland Leesker, Ataxia and Jairo Uría. Next up: Hard Rock Hotel, Malta on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ John Acquaviva is a house and disco artist based in Canada, tracked on soundchec
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | Hard Rock Hotel | Malta |
 | Fri, 9 Oct 2026 | The Club House at Gianpula Village | Malta |
+| Fri, 9 Oct 2026 | Hard Rock Hotel Malta | Malta |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ John Acquaviva is a house and disco artist based in Canada, tracked on soundchec
 
 Roland Leesker, Ataxia, Jairo Uría
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johnacquaviva/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johnacquaviva/)*

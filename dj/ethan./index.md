@@ -1,14 +1,15 @@
 # Ethan.
 
-Ethan. is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at renae, Manchester on Thu, 1 Oct 2026.
+Ethan. is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at renae, Manchester on Thu, 1 Oct 2026.
 
-Ethan. is a techno and house artist based in United Kingdom, tracked on soundcheck, with 42 sets logged across Birmingham, Leeds, Liverpool and London and 2 more. Often billed alongside Louie G, Ryan Ingleby and Ethan McNamara. Next up: renae, Manchester on Thu 1 Oct.
+Ethan. is a techno and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across Birmingham, Leeds, Liverpool and London and 3 more. Often billed alongside Louie G, Ryan Ingleby and Blason. Next up: renae, Manchester on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | renae | Manchester |
+| Fri, 27 Nov 2026 | TBA - TBA | North |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Ethan. is a techno and house artist based in United Kingdom, tracked on soundche
 
 ## Shares bills with
 
-Louie G, Ryan Ingleby, Ethan McNamara
+Louie G, Ryan Ingleby, Blason
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ethan./)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ethan./)*

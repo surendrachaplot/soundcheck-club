@@ -1,13 +1,14 @@
 # Flor Coto
 
-Flor Coto is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Hoppetosse, Berlin on Sun, 11 Oct 2026.
+Flor Coto is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Aedes Bar, Berlin on Fri, 9 Oct 2026.
 
-Flor Coto is a house and electro artist based in Argentina, tracked on soundcheck, with 34 sets logged across Barcelona, Berlin, Buenos Aires and Leipzig and 2 more. Often billed alongside Szew, Rafael and Chuki Juri. Next up: Hoppetosse, Berlin on Sun 11 Oct.
+Flor Coto is a house and electro artist based in Argentina, tracked on soundcheck, with 35 sets logged across Barcelona, Berlin, Buenos Aires and Leipzig and 2 more. Often billed alongside Szew, Rafael and Chuki Juri. Next up: Aedes Bar, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Aedes Bar | Berlin |
 | Sun, 11 Oct 2026 | Hoppetosse | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Flor Coto is a house and electro artist based in Argentina, tracked on soundchec
 
 Szew, Rafael, Chuki Juri
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/florcoto/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/florcoto/)*

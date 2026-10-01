@@ -1,6 +1,6 @@
 # Miss Parker
 
-Miss Parker is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Warehouse Location, Philadelphia on Sat, 3 Oct 2026.
+Miss Parker is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Warehouse Location, Philadelphia on Sat, 3 Oct 2026.
 
 Miss Parker is a techno and house artist based in United States of America, tracked on soundcheck, with 132 sets logged across Berlin, Boston, Chicago and Hamburg and 6 more. Often billed alongside Devoye, Princess Peggie and DJ Thank You. Next up: TBA - Warehouse Location, Philadelphia on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Miss Parker is a techno and house artist based in United States of America, trac
 
 Devoye, Princess Peggie, DJ Thank You
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/missparker/)*

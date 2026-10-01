@@ -1,6 +1,6 @@
 # 69DB
 
-69DB is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 宀 Club, Hong Kong on Fri, 9 Oct 2026.
+69DB is a Techno and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 宀 Club, Hong Kong on Fri, 9 Oct 2026.
 
 69DB is a techno and acid artist based in France, tracked on soundcheck, with 21 sets logged across Amsterdam, Berlin, Central and Geneva and 9 more. Often billed alongside Ixindamix, Crystal Distortion and Madtronik. Next up: 宀 Club, Hong Kong on Fri 9 Oct.
 
@@ -26,4 +26,4 @@
 
 Ixindamix, Crystal Distortion, Madtronik
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/69db/)*

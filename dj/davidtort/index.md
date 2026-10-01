@@ -1,6 +1,6 @@
 # David Tort
 
-David Tort is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ministry Of Sound, London on Fri, 13 Nov 2026.
+David Tort is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ministry Of Sound, London on Fri, 13 Nov 2026.
 
 David Tort is a house and tech house artist based in Spain, tracked on soundcheck, with 18 sets logged across Amsterdam, Barcelona, Chicago and Ibiza and 8 more. Often billed alongside Discommon, Juany Bravo and Junior Lopez. Next up: Ministry Of Sound, London on Fri 13 Nov.
 
@@ -25,4 +25,4 @@ David Tort is a house and tech house artist based in Spain, tracked on soundchec
 
 Discommon, Juany Bravo, Junior Lopez
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtort/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidtort/)*

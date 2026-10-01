@@ -1,18 +1,19 @@
 # Mogwaa
 
-Mogwaa is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Modeci, Seoul on Fri, 2 Oct 2026.
+Mogwaa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Modeci, Seoul on Fri, 2 Oct 2026.
 
-Mogwaa is a house and techno artist based in South Korea, tracked on soundcheck, with 118 sets logged across Amsterdam, Bangkok, Berlin and Hong Kong and 7 more. Often billed alongside Jesse You, .2ndfloor and Acidwork. Next up: Modeci, Seoul on Fri 2 Oct.
+Mogwaa is a house and techno artist based in South Korea, tracked on soundcheck, with 119 sets logged across Amsterdam, Bangkok, Berlin and Hong Kong and 7 more. Often billed alongside Jesse You, .2ndfloor and Acidwork. Next up: Modeci, Seoul on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Modeci | Seoul |
+| Sat, 17 Oct 2026 | Department.en | Seoul |
 
 ## Recently played
 
-- TBA - Space nodeul K , Seoul — Sat, 12 Sept 2026
+- Space Nodeul K, Seoul — Sat, 12 Sept 2026
 - The Edge Seoul, Seoul — Fri, 11 Sept 2026
 - Paper, Seoul — Sun, 16 Aug 2026
 - The Edge Seoul, Seoul — Sat, 15 Aug 2026
@@ -25,4 +26,4 @@ Mogwaa is a house and techno artist based in South Korea, tracked on soundcheck,
 
 Jesse You, .2ndfloor, Acidwork
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mogwaa/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mogwaa/)*

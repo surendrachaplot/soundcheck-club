@@ -1,6 +1,6 @@
 # La Terrrazza
 
-La Terrrazza is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Soundset Sessions with NewTone" on Thu, 1 Oct 2026.
+La Terrrazza is a music venue in Barcelona with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Soundset Sessions with NewTone" on Thu, 1 Oct 2026.
 
 La Terrrazza is a music venue in Barcelona listed on soundcheck. 17 upcoming gigs, with line-ups including Alvaro Medina, Baldman, Brieela and Certain People and 2 more. Browse upcoming dates, start times and who's playing. Avinguda Francesc Ferrer i Guardia, 13, 08038.
 
@@ -23,4 +23,4 @@ La Terrrazza is a music venue in Barcelona listed on soundcheck. 17 upcoming gig
 
 Avinguda Francesc Ferrer i Guardia, 13, 08038, Barcelona
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/barcelona/club/la-terrrazza/)*

@@ -1,14 +1,15 @@
 # Grand Hotel Bucharest
 
-Grand Hotel Bucharest is a music venue in Bucharest with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Linkin Park: Unshattered Party" on Fri, 2 Oct 2026.
+Grand Hotel Bucharest is a music venue in Bucharest with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Linkin Park: Unshattered Party" on Fri, 2 Oct 2026.
 
-Grand Hotel Bucharest is a music venue in Bucharest listed on soundcheck. 3 upcoming gigs, with line-ups including Joey London. Browse upcoming dates, start times and who's playing. Bulevardul Nicolae Bălcescu 4, București 010051.
+Grand Hotel Bucharest is a music venue in Bucharest listed on soundcheck. 4 upcoming gigs, with line-ups including Joey London. Browse upcoming dates, start times and who's playing. Bulevardul Nicolae Bălcescu 4, București 010051.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Linkin Park: Unshattered Party |  |
+| Sat, 3 Oct 2026 | EL BARRIO |  |
 | Fri, 9 Oct 2026 | Mr. Worldwide Party |  |
 | Sat, 17 Oct 2026 | Art Inquiry // Joey London Style, Brad Brunner, Juliana Kaixi, Radul | Joey London |
 
@@ -16,4 +17,4 @@ Grand Hotel Bucharest is a music venue in Bucharest listed on soundcheck. 3 upco
 
 Bulevardul Nicolae Bălcescu 4, București 010051, Bucharest
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/grand-hotel-bucharest/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/bucharest/club/grand-hotel-bucharest/)*

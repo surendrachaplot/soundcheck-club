@@ -1,14 +1,15 @@
 # Jack Sparrow
 
-Jack Sparrow is a Dub and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
+Jack Sparrow is a Dub and Drum & Bass artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Beaver Works, Leeds on Sat, 3 Oct 2026.
 
-Jack Sparrow is a dub and drum & bass artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across Leeds and Manchester. Often billed alongside Iration Steppas, SGT Pokes and Breakfake. Next up: Beaver Works, Leeds on Sat 3 Oct.
+Jack Sparrow is a dub and drum & bass artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across Leeds, Manchester and Poznan. Often billed alongside Iration Steppas, SGT Pokes and Breakfake. Next up: Beaver Works, Leeds on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Beaver Works | Leeds |
+| Sat, 10 Oct 2026 | Dom Technika | Poznan |
 
 ## Recently played
 
@@ -21,4 +22,4 @@ Jack Sparrow is a dub and drum & bass artist based in United Kingdom, tracked on
 
 Iration Steppas, SGT Pokes, Breakfake
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksparrow/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacksparrow/)*

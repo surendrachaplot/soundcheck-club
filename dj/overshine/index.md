@@ -1,14 +1,15 @@
 # overshine
 
-overshine is a Experimental and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Greyhound, London on Sat, 3 Oct 2026.
+overshine is a Experimental and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Greyhound, London on Sat, 3 Oct 2026.
 
-overshine is an experimental and club artist tracked on soundcheck, with 11 sets logged across Bristol, Glasgow, London and Paris. Often billed alongside Naramnesia, glas___skin and novasdemise. Next up: The Greyhound, London on Sat 3 Oct.
+overshine is an experimental and club artist tracked on soundcheck, with 12 sets logged across Bristol, Glasgow, London and Paris. Often billed alongside Naramnesia, glas___skin and novasdemise. Next up: The Greyhound, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The Greyhound | London |
+| Sat, 24 Oct 2026 | The Social | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ overshine is an experimental and club artist tracked on soundcheck, with 11 sets
 
 Naramnesia, glas___skin, novasdemise
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/overshine/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/overshine/)*

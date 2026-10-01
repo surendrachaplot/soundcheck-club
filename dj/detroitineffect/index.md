@@ -1,14 +1,15 @@
 # Detroit In Effect
 
-Detroit In Effect is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Paragon, New York City on Sat, 3 Oct 2026.
+Detroit In Effect is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Paragon, New York City on Sat, 3 Oct 2026.
 
-Detroit In Effect is a techno and electro artist based in United States of America, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 36 more. Often billed alongside Serge, Binh and Morgan. Next up: Paragon, New York City on Sat 3 Oct.
+Detroit In Effect is a techno and electro artist based in United States of America, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Austin and Barcelona and 37 more. Often billed alongside Serge, Binh and Morgan. Next up: Paragon, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Paragon | New York City |
+| Fri, 16 Oct 2026 | Frankhan Selectist | Istanbul |
 | Thu, 22 Oct 2026 | CLUB RAUM | Amsterdam |
 | Fri, 20 Nov 2026 | Night Tales Loft | London |
 
@@ -27,4 +28,4 @@ Detroit In Effect is a techno and electro artist based in United States of Ameri
 
 Serge, Binh, Morgan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/detroitineffect/)*

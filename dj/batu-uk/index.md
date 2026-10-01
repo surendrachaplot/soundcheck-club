@@ -1,8 +1,8 @@
 # Batu
 
-Batu is a Techno and Bass artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
+Batu is a Techno and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-Batu is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 162 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 43 more. Often billed alongside Ben UFO, Verraco and CCL. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
+Batu is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 164 sets logged across Amsterdam, Austin, Bangkok and Barcelona and 44 more. Often billed alongside Verraco, Ben UFO and CCL. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,8 @@ Batu is a techno and bass artist based in United Kingdom, tracked on soundcheck,
 | Sat, 24 Oct 2026 | REC Napoli | Naples |
 | Fri, 30 Oct 2026 | Village Underground | London |
 | Sat, 7 Nov 2026 | Yamamori Tengu | Dublin |
+| Sat, 14 Nov 2026 | Sawmills | Bristol |
+| Sat, 21 Nov 2026 | Open Ground | Wuppertal |
 
 ## Recently played
 
@@ -29,6 +31,6 @@ Batu is a techno and bass artist based in United Kingdom, tracked on soundcheck,
 
 ## Shares bills with
 
-Ben UFO, Verraco, CCL
+Verraco, Ben UFO, CCL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/batu-uk/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/batu-uk/)*

@@ -1,6 +1,6 @@
 # [ares]
 
-[ares] is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 2 Oct 2026.
+[ares] is a Deep House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Het Sieraad, Amsterdam on Fri, 2 Oct 2026.
 
 [ares] is a deep house and techno artist based in Netherlands, tracked on soundcheck, with 10 sets logged across Amsterdam and Ibiza. Often billed alongside Mitch Oliver, Alma Linda and Anthony Middleton. Next up: Het Sieraad, Amsterdam on Fri 2 Oct.
 
@@ -25,4 +25,4 @@
 
 Mitch Oliver, Alma Linda, Anthony Middleton
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ar_es/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ar_es/)*

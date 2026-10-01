@@ -1,8 +1,8 @@
 # Adriana Lopez
 
-Adriana Lopez is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
+Adriana Lopez is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Herdade do Aguilhão, Lisbon on Fri, 2 Oct 2026.
 
-Adriana Lopez is a techno and house artist based in Colombia, tracked on soundcheck, with 145 sets logged across Amsterdam, Athens, Barcelona and Basel and 43 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
+Adriana Lopez is a techno and house artist based in Colombia, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Oscar Mulero, Dasha Rush and UFO95. Next up: Herdade do Aguilhão, Lisbon on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,10 +10,12 @@ Adriana Lopez is a techno and house artist based in Colombia, tracked on soundch
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Herdade do Aguilhão | Lisbon |
 | Sat, 10 Oct 2026 | Concept Haus | Manchester |
+| Sat, 17 Oct 2026 | L'Ostra Club | East |
 | Fri, 23 Oct 2026 | Levenslang Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | TBA | Portland |
 | Sat, 31 Oct 2026 | TBA | Denver |
 | Fri, 13 Nov 2026 | Noce KRK | Krakow |
+| Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
 
 ## Recently played
 
@@ -30,4 +32,4 @@ Adriana Lopez is a techno and house artist based in Colombia, tracked on soundch
 
 Oscar Mulero, Dasha Rush, UFO95
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/adrianalopez/)*

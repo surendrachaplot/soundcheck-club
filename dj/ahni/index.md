@@ -1,6 +1,6 @@
 # Ahni
 
-Ahni is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Crack Bellmer, Berlin on Sat, 3 Oct 2026.
+Ahni is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Crack Bellmer, Berlin on Sat, 3 Oct 2026.
 
 Ahni is a house and tech house artist based in Australia, tracked on soundcheck, with 32 sets logged across Berlin. Often billed alongside Manta, Inga Sama and materia hache. Next up: Crack Bellmer, Berlin on Sat 3 Oct.
 
@@ -13,7 +13,7 @@ Ahni is a house and tech house artist based in Australia, tracked on soundcheck,
 
 ## Recently played
 
-- TBA - Neukölln Secret Location, Berlin — Fri, 11 Sept 2026
+- TBA - Secret location Neukölln, Berlin — Fri, 11 Sept 2026
 - Crack Bellmer, Berlin — Sat, 5 Sept 2026
 - Kater, Berlin — Fri, 28 Aug 2026
 - OXI, Berlin — Fri, 21 Aug 2026
@@ -26,4 +26,4 @@ Ahni is a house and tech house artist based in Australia, tracked on soundcheck,
 
 Manta, Inga Sama, materia hache
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ahni/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ahni/)*

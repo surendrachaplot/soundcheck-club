@@ -1,13 +1,14 @@
 # John's
 
-John's is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Focà London, London on Sat, 3 Oct 2026.
+John's is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, London on Fri, 2 Oct 2026.
 
-John's is a house and techno artist based in United Kingdom, tracked on soundcheck, with 5 sets logged across London. Often billed alongside Colaps, Cristian Sirica and Belmonte. Next up: TBA - Focà London, London on Sat 3 Oct.
+John's is a house and techno artist based in United Kingdom, tracked on soundcheck, with 6 sets logged across London. Often billed alongside Colaps, Cristian Sirica and Misura. Next up: TBA, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA | London |
 | Sat, 3 Oct 2026 | TBA - Focà London | London |
 | Sat, 17 Oct 2026 | Tola | London |
 
@@ -19,6 +20,6 @@ John's is a house and techno artist based in United Kingdom, tracked on soundche
 
 ## Shares bills with
 
-Colaps, Cristian Sirica, Belmonte
+Colaps, Cristian Sirica, Misura
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/johns/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/johns/)*

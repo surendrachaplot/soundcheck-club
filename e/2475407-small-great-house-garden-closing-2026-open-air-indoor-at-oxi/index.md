@@ -22,6 +22,6 @@ Small Great House 'Garden Closing 2026' (Open Air + Indoor) at OXI on Sat 3 Oct,
 - Shabi
 - Siggatunez
 - Small Great Things. Soundsystem
-- Valeria
+- Valeria (DE)
 
 *Source: [soundcheck](https://soundcheck.club/e/2475407-small-great-house-garden-closing-2026-open-air-indoor-at-oxi/)*

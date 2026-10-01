@@ -1,14 +1,15 @@
 # Reeno Reluv
 
-Reeno Reluv is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tagada, Vienna on Fri, 9 Oct 2026.
+Reeno Reluv is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tagada, Vienna on Fri, 9 Oct 2026.
 
-Reeno Reluv is a house and disco artist tracked on soundcheck, with 26 sets logged across Berlin and Vienna. Often billed alongside JP Bechamel, Altroy Jerome and Miyra Lim. Next up: Tagada, Vienna on Fri 9 Oct.
+Reeno Reluv is a house and disco artist tracked on soundcheck, with 27 sets logged across Berlin and Vienna. Often billed alongside JP Bechamel, Altroy Jerome and Miyra Lim. Next up: Tagada, Vienna on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Tagada | Vienna |
+| Fri, 16 Oct 2026 | Funkhaus | Vienna |
 | Sat, 14 Nov 2026 | Paloma | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Reeno Reluv is a house and disco artist tracked on soundcheck, with 26 sets logg
 
 JP Bechamel, Altroy Jerome, Miyra Lim
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reenoreluv/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reenoreluv/)*

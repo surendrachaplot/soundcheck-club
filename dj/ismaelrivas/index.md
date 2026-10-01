@@ -1,6 +1,6 @@
 # Ismael Rivas
 
-Ismael Rivas is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Bassement, Madrid on Sat, 31 Oct 2026.
+Ismael Rivas is a House and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Bassement, Madrid on Sat, 31 Oct 2026.
 
 Ismael Rivas is a house and minimal techno artist based in Spain, tracked on soundcheck, with 21 sets logged across Barcelona, Berlin and Madrid. Often billed alongside Óscar de Rivera, fajardo and jose fajardo. Next up: The Bassement, Madrid on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Ismael Rivas is a house and minimal techno artist based in Spain, tracked on sou
 
 Óscar de Rivera, fajardo, jose fajardo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ismaelrivas/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ismaelrivas/)*

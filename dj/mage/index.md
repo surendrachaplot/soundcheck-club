@@ -1,6 +1,6 @@
 # mage
 
-mage is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at radial, London on Sat, 3 Oct 2026.
+mage is a Bass and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at radial, London on Sat, 3 Oct 2026.
 
 mage is a bass and techno artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Berlin, Bristol, Copenhagen and Leeds and 3 more. Often billed alongside Bakey, Breaka and Buckley (UK). Next up: radial, London on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ mage is a bass and techno artist based in United Kingdom, tracked on soundcheck,
 
 Bakey, Breaka, Buckley (UK)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mage/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mage/)*

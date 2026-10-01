@@ -1,8 +1,8 @@
 # The Belgian Stallion
 
-The Belgian Stallion is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at MTW, Frankfurt on Fri, 2 Oct 2026.
+The Belgian Stallion is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MTW, Frankfurt on Fri, 2 Oct 2026.
 
-The Belgian Stallion is a techno and trance artist based in Germany, tracked on soundcheck, with 64 sets logged across Berlin, Frankfurt, Nürnberg and Stuttgart. Often billed alongside DeGuzman, Paranormila and SANDRA ROMINA. Next up: MTW, Frankfurt on Fri 2 Oct.
+The Belgian Stallion is a techno and trance artist based in Germany, tracked on soundcheck, with 63 sets logged across Berlin, Frankfurt, Nürnberg and Stuttgart. Often billed alongside DeGuzman, Paranormila and SANDRA ROMINA. Next up: MTW, Frankfurt on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,7 +16,6 @@ The Belgian Stallion is a techno and trance artist based in Germany, tracked on 
 
 ## Recently played
 
-- Ehemaliges Polizeipräsidium, Frankfurt — Sat, 5 Sept 2026
 - Tanzhaus West, Frankfurt — Fri, 7 Aug 2026
 - Tanzhaus West, Frankfurt — Fri, 3 Jul 2026
 - Tanzhaus West, Frankfurt — Fri, 26 Jun 2026
@@ -24,9 +23,10 @@ The Belgian Stallion is a techno and trance artist based in Germany, tracked on 
 - Schlachthof Wiesbaden, Frankfurt — Wed, 3 Jun 2026
 - Tanzhaus West, Frankfurt — Fri, 22 May 2026
 - K39, Frankfurt — Wed, 13 May 2026
+- MTW, Frankfurt — Thu, 30 Apr 2026
 
 ## Shares bills with
 
 DeGuzman, Paranormila, SANDRA ROMINA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thebelgianstallion/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thebelgianstallion/)*

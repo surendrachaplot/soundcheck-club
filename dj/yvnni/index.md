@@ -1,13 +1,14 @@
 # YVNNI
 
-YVNNI is a Tech House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Piknic Électronik / Parc Jean Drapeau, Montreal on Sun, 18 Oct 2026.
+YVNNI is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Salon Daomé, Montreal on Thu, 1 Oct 2026.
 
-YVNNI is a tech house and house artist based in Canada, tracked on soundcheck, with 4 sets logged across Montreal and Toronto. Often billed alongside Eli Brown, Hoss and PETER DAMIAN. Next up: Piknic Électronik / Parc Jean Drapeau, Montreal on Sun 18 Oct.
+YVNNI is a tech house and house artist based in Canada, tracked on soundcheck, with 5 sets logged across Montreal and Toronto. Often billed alongside Eli Brown, Flytz and Hoss. Next up: Salon Daomé, Montreal on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Salon Daomé | Montreal |
 | Sun, 18 Oct 2026 | Piknic Électronik / Parc Jean Drapeau | Montreal |
 
 ## Recently played
@@ -18,6 +19,6 @@ YVNNI is a tech house and house artist based in Canada, tracked on soundcheck, w
 
 ## Shares bills with
 
-Eli Brown, Hoss, PETER DAMIAN
+Eli Brown, Flytz, Hoss
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/yvnni/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yvnni/)*

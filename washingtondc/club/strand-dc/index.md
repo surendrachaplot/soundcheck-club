@@ -1,13 +1,14 @@
 # Strand DC
 
-Strand DC is a music venue in Washington DC with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Pawlowski" on Sat, 3 Oct 2026.
+Strand DC is a music venue in Washington DC with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Pawlowski" on Sat, 3 Oct 2026.
 
-Strand DC is a music venue in Washington DC listed on soundcheck. 1 upcoming gig, with line-ups including Pawlowski. Browse upcoming dates, start times and who's playing.
+Strand DC is a music venue in Washington DC listed on soundcheck. 2 upcoming gigs, with line-ups including Dark Matter, FØSS and Pawlowski. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Pawlowski | Pawlowski |
+| Fri, 27 Nov 2026 | LO PRO x FERAL present: Dark Matter x FOSS | Dark Matter, FØSS |
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/strand-dc/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/strand-dc/)*

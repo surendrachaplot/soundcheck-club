@@ -1,6 +1,6 @@
 # Atsushi Izumi
 
-Atsushi Izumi is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Chika-Ikkai, Osaka on Thu, 22 Oct 2026.
+Atsushi Izumi is a Industrial and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Chika-Ikkai, Osaka on Thu, 22 Oct 2026.
 
 Atsushi Izumi is an industrial and techno artist based in Japan, tracked on soundcheck, with 10 sets logged across Hong Kong, Osaka, Seoul and Tokyo. Often billed alongside Goth-Trad, AI.U and Aspara. Next up: Chika-Ikkai, Osaka on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Atsushi Izumi is an industrial and techno artist based in Japan, tracked on soun
 
 Goth-Trad, AI.U, Aspara
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushiizumi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/atsushiizumi/)*

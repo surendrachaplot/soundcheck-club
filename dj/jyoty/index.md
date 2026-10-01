@@ -1,6 +1,6 @@
 # Jyoty
 
-Jyoty is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Centre Point, Dublin on Fri, 9 Oct 2026.
+Jyoty is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Centre Point, Dublin on Fri, 9 Oct 2026.
 
 Jyoty is a house and techno artist based in Netherlands, tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Auckland and Bali and 42 more. Often billed alongside Skrillex, Overmono and Ben UFO. Next up: Centre Point, Dublin on Fri 9 Oct.
 
@@ -31,4 +31,4 @@ Jyoty is a house and techno artist based in Netherlands, tracked on soundcheck, 
 
 Skrillex, Overmono, Ben UFO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jyoty/)*

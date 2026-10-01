@@ -1,6 +1,6 @@
 # Benny Page
 
-Benny Page is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Benny Page is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
 Benny Page is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 70 sets logged across Amsterdam, Bangkok, Birmingham and Boston and 15 more. Often billed alongside Deekline, Navigator and Doktor. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
@@ -28,4 +28,4 @@ Benny Page is a drum & bass and jungle artist based in United Kingdom, tracked o
 
 Deekline, Navigator, Doktor
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennypage/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennypage/)*

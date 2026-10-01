@@ -1,13 +1,14 @@
 # PARTIGIRL
 
-PARTIGIRL is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Glenworth Valley, Sydney on Mon, 28 Dec 2026.
+PARTIGIRL is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Hoxton Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-PARTIGIRL is a house and techno artist based in Australia, tracked on soundcheck, with 31 sets logged across Sydney. Often billed alongside RHINESTONE COWGIRL, Deens and Digi Doll. Next up: Glenworth Valley, Sydney on Mon 28 Dec.
+PARTIGIRL is a house and techno artist based in Australia, tracked on soundcheck, with 32 sets logged across Amsterdam and Sydney. Often billed alongside RHINESTONE COWGIRL, Deens and Digi Doll. Next up: The Hoxton Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | The Hoxton Amsterdam | Amsterdam |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
@@ -25,4 +26,4 @@ PARTIGIRL is a house and techno artist based in Australia, tracked on soundcheck
 
 RHINESTONE COWGIRL, Deens, Digi Doll
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/partigirl/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/partigirl/)*

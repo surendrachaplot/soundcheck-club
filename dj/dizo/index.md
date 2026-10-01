@@ -1,13 +1,14 @@
 # Dizo
 
-Dizo is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 50:Hertz - House & Techno café, Amsterdam on Sat, 24 Oct 2026.
+Dizo is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu, 22 Oct 2026.
 
-Dizo is a techno and tech house artist based in Belgium, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Brussels and Ghent. Often billed alongside Ce$ar, Auk. and Makoveev. Next up: TBA - 50:Hertz - House & Techno café, Amsterdam on Sat 24 Oct.
+Dizo is a techno and tech house artist based in Belgium, tracked on soundcheck, with 34 sets logged across Amsterdam, Berlin, Brussels and Ghent. Often billed alongside Ce$ar, Auk. and Makoveev. Next up: TBA - 50:Hertz House & Techno Club Rembrandt Square, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | TBA - 50:Hertz House & Techno Club Rembrandt Square | Amsterdam |
 | Sat, 24 Oct 2026 | TBA - 50:Hertz - House & Techno café | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Dizo is a techno and tech house artist based in Belgium, tracked on soundcheck, 
 
 Ce$ar, Auk., Makoveev
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dizo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dizo/)*

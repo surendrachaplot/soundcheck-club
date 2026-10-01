@@ -1,6 +1,6 @@
 # Grow
 
-Grow is a music venue in London with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "OONTS: Kojay B2B P-Lucas // DREY B2B Kanem // Rich B2B Last Nubian" on Fri, 2 Oct 2026.
+Grow is a music venue in London with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "OONTS: Kojay B2B P-Lucas // DREY B2B Kanem // Rich B2B Last Nubian" on Fri, 2 Oct 2026.
 
 Grow is a music venue in London listed on soundcheck. 9 upcoming gigs, with line-ups including Alfaz, ARLYSS, Bena and Bowlcut and 2 more. Browse upcoming dates, start times and who's playing. 98C Wallis Road; Main Yard; London E9 5LN.
 
@@ -22,4 +22,4 @@ Grow is a music venue in London listed on soundcheck. 9 upcoming gigs, with line
 
 98C Wallis Road; Main Yard; London E9 5LN, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/grow/)*

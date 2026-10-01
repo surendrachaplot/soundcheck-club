@@ -1,14 +1,14 @@
 # Demofather
 
-Demofather is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Barcelona on Fri, 2 Oct 2026.
+Demofather is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat, 10 Oct 2026.
 
-Demofather is a house and techno artist based in Spain, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, London and Madrid and 1 more. Often billed alongside Waffle, Sergi (ES) and LAUCY. Next up: TBA, Barcelona on Fri 2 Oct.
+Demofather is a house and techno artist based in Spain, tracked on soundcheck, with 71 sets logged across Barcelona, Berlin, London and Madrid and 1 more. Often billed alongside Waffle, Sergi (ES) and LAUCY. Next up: TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Barcelona |
+| Sat, 10 Oct 2026 | TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event) | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Demofather is a house and techno artist based in Spain, tracked on soundcheck, w
 
 Waffle, Sergi (ES), LAUCY
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/demofather/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/demofather/)*

@@ -1,15 +1,14 @@
 # PUFF
 
-PUFF is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Honey's, New York City on Thu, 1 Oct 2026.
+PUFF is a Club and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Honey's, New York City on Thu, 1 Oct 2026.
 
-PUFF is a club and house artist based in United States of America, tracked on soundcheck, with 35 sets logged across Bangkok, Los Angeles and New York City. Often billed alongside Fugitive Artifact, LIONESSA and Preacher's Daughter. Next up: Honey's, New York City on Thu 1 Oct.
+PUFF is a club and house artist based in United States of America, tracked on soundcheck, with 34 sets logged across Bangkok, Los Angeles and New York City. Often billed alongside Fugitive Artifact, LIONESSA and Preacher's Daughter. Next up: Honey's, New York City on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Honey's | New York City |
-| Sat, 3 Oct 2026 | Mood Ring | New York City |
 
 ## Recently played
 
@@ -26,4 +25,4 @@ PUFF is a club and house artist based in United States of America, tracked on so
 
 Fugitive Artifact, LIONESSA, Preacher's Daughter
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/puff/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/puff/)*

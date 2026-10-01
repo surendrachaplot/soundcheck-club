@@ -1,6 +1,6 @@
 # Easttown
 
-Easttown is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at BRET, Amsterdam on Sat, 3 Oct 2026.
+Easttown is a House and Tech House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at BRET, Amsterdam on Sat, 3 Oct 2026.
 
 Easttown is a house and tech house artist based in Netherlands, tracked on soundcheck, with 105 sets logged across Amsterdam, Barcelona, Basel and Ibiza and 12 more. Often billed alongside Rooléh, Joëlla Jackson and AAT (NL). Next up: BRET, Amsterdam on Sat 3 Oct.
 
@@ -33,4 +33,4 @@ Easttown is a house and tech house artist based in Netherlands, tracked on sound
 
 Rooléh, Joëlla Jackson, AAT (NL)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/easttown/)*

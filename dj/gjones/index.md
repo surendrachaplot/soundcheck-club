@@ -1,14 +1,15 @@
 # G Jones
 
-G Jones is a Bass and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Stereo, Glasgow on Fri, 13 Nov 2026.
+G Jones is a Bass and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Stereo, Glasgow on Fri, 13 Nov 2026.
 
-G Jones is a bass and dubstep artist based in United States of America, tracked on soundcheck, with 26 sets logged across Amsterdam, Auckland, Austin and Berlin and 17 more. Often billed alongside EPROM, Chase & Status and Mary Droppinz. Next up: Stereo, Glasgow on Fri 13 Nov.
+G Jones is a bass and dubstep artist based in United States of America, tracked on soundcheck, with 27 sets logged across Amsterdam, Auckland, Austin and Berlin and 18 more. Often billed alongside EPROM, Mary Droppinz and Chase & Status. Next up: Stereo, Glasgow on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 13 Nov 2026 | Stereo | Glasgow |
+| Wed, 30 Dec 2026 | Petco Park | San-diego |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ G Jones is a bass and dubstep artist based in United States of America, tracked 
 
 ## Shares bills with
 
-EPROM, Chase & Status, Mary Droppinz
+EPROM, Mary Droppinz, Chase & Status
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gjones/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gjones/)*

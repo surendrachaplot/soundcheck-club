@@ -1,6 +1,6 @@
 # Moxie hosted by EAR\WAX at Azimut Club
 
-Moxie hosted by EAR\WAX at Azimut Club on Sat 3 Oct, Turin. 1 artist on the bill: Moxie. House. Preview the line-up and save it on soundcheck.
+Moxie hosted by EAR\WAX at Azimut Club on Sat 3 Oct, Turin. 2 artists on the bill: Moxie and Riverside (IT). House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Moxie hosted by EAR\WAX at Azimut Club on Sat 3 Oct, Turin. 1 artist on the bill
 ## Line-up
 
 - Moxie
+- Riverside (IT)
 
 *Source: [soundcheck](https://soundcheck.club/e/2513206-moxie-hosted-by-ear-wax-at-azimut-club/)*

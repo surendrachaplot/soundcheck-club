@@ -1,6 +1,6 @@
 # Crazy Cousinz
 
-Crazy Cousinz is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Setlist @ Somerset House, London on Fri, 30 Oct 2026.
+Crazy Cousinz is a UK Funky and Garage artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Setlist @ Somerset House, London on Fri, 30 Oct 2026.
 
 Crazy Cousinz is an uk funky and garage artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Amsterdam, Ibiza, London and Manchester. Often billed alongside Donae'o, Pioneer and Jerome Six. Next up: Setlist @ Somerset House, London on Fri 30 Oct.
 
@@ -25,4 +25,4 @@ Crazy Cousinz is an uk funky and garage artist based in United Kingdom, tracked 
 
 Donae'o, Pioneer, Jerome Six
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/crazycousinz/)*

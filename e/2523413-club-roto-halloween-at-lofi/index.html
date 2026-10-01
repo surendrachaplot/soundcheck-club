@@ -2,8 +2,18 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Club Roto - Halloween at Lofi · 29 Aug 2026 | soundcheck</title>
+  <title>Club Roto - Halloween at Lofi · 31 Oct 2026 | soundcheck</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <!-- iOS zooms the page when a field under 16px takes focus and never zooms back:
+       edit a diary entry, save, and the profile comes back magnified (23 Sep).
+       maximum-scale=1 stops that auto-zoom; iOS 10+ still lets people pinch-zoom.
+       iOS ONLY — Android Chrome honours it and would lose pinch-zoom, and it never
+       auto-zooms on focus anyway. The fields are also sized >=16px on touch.
+       The data-ios-zoom attribute is load-bearing: build-seo's leanShellFrom takes
+       the FIRST attribute-less script tag as the app bundle. Without it the build
+       extracted 222 bytes and refused to ship (23 Sep). Never write that tag,
+       even in a comment, above the app script. -->
+  <script data-ios-zoom>(function(){var n=navigator,ios=/iP(hone|ad|od)/.test(n.userAgent)||(n.platform==='MacIntel'&&n.maxTouchPoints>1);if(!ios)return;var m=document.querySelector('meta[name=viewport]');if(m)m.content+=', maximum-scale=1';})();</script>
   <!-- Search Console. build-club rewrites the content= from GOOGLE_SITE_VERIFICATION
        at build time, so verifying is one env var and a rebuild — the token is not a
        secret (it is served on every page by design) but it does not belong in git.
@@ -35,28 +45,26 @@
   <meta name="apple-mobile-web-app-capable" content="yes" />
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
   <meta name="apple-mobile-web-app-title" content="Soundcheck" />
-  <link rel="stylesheet" href="/app.87c0109ab1fd.css">
+  <link rel="stylesheet" href="/app.3e6bd153e642.css">
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1787825962041">
-  <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Club%20nights%20%26%20DJ%20sets%20in%20104%20cities" />
-<meta name="description" content="Club Roto - Halloween at Lofi on Sat 29 Aug, Amsterdam. 6 acts on the bill: Dennis Quin, Job de Jong, jWave and Michel de Hey and 2 more. House. Preview the line-up and save it on soundcheck.">
+<meta name="sc-build" content="1790850332330">
+<meta name="description" content="Club Roto - Halloween at Lofi on Sat 31 Oct, Amsterdam. 6 artists on the bill: Dennis Quin, Job de Jong, jWave and Michel de Hey and 2 more. House. Preview the line-up and save it on soundcheck.">
 <link rel="canonical" href="https://soundcheck.club/e/2523413-club-roto-halloween-at-lofi/">
-<meta name="robots" content="noindex, follow">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="soundcheck">
-<meta property="og:title" content="Club Roto - Halloween at Lofi · 29 Aug 2026 | soundcheck">
-<meta property="og:description" content="Club Roto - Halloween at Lofi on Sat 29 Aug, Amsterdam. 6 acts on the bill: Dennis Quin, Job de Jong, jWave and Michel de Hey and 2 more. House. Preview the line-up and save it on soundcheck.">
+<meta property="og:title" content="Club Roto - Halloween at Lofi · 31 Oct 2026 | soundcheck">
+<meta property="og:description" content="Club Roto - Halloween at Lofi on Sat 31 Oct, Amsterdam. 6 artists on the bill: Dennis Quin, Job de Jong, jWave and Michel de Hey and 2 more. House. Preview the line-up and save it on soundcheck.">
 <meta property="og:url" content="https://soundcheck.club/e/2523413-club-roto-halloween-at-lofi/">
-<meta property="og:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fe43d7cf2c0a26f8a73f4c02952ab2ee2327a6fcc.png&amp;w=1000">
-<meta name="twitter:image" content="https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fe43d7cf2c0a26f8a73f4c02952ab2ee2327a6fcc.png&amp;w=1000">
+<meta property="og:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=Club%20Roto%20-%20Halloween&amp;s=Lofi%20%C2%B7%20Dennis%20Quin%2C%20Job%20de%20Jong%2C%20jWave%2C%20Michel%20de%20Hey&amp;e=SAT%2C%2031%20OCT%20%C2%B7%20AMSTERDAM&amp;p=https%3A%2F%2Fimages.ra.co%2F2384fd86934d1bd509309f73a647dc2abe0faab9.png&amp;q=%2Fe%2F2523413%2F">
+<meta name="twitter:image" content="https://api.soundcheck.club/api/og?v=3&amp;t=Club%20Roto%20-%20Halloween&amp;s=Lofi%20%C2%B7%20Dennis%20Quin%2C%20Job%20de%20Jong%2C%20jWave%2C%20Michel%20de%20Hey&amp;e=SAT%2C%2031%20OCT%20%C2%B7%20AMSTERDAM&amp;p=https%3A%2F%2Fimages.ra.co%2F2384fd86934d1bd509309f73a647dc2abe0faab9.png&amp;q=%2Fe%2F2523413%2F">
 <meta name="twitter:card" content="summary_large_image">
-<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Club Roto - Halloween","url":"https://soundcheck.club/e/2523413-club-roto-halloween-at-lofi/","description":"Club Roto - Halloween at Lofi on Sat 29 Aug, Amsterdam. 6 acts on the bill: Dennis Quin, Job de Jong, jWave and Michel de Hey and 2 more. House. Preview the line-up and save it on soundcheck.","startDate":"2026-08-29T22:00:00+02:00","endDate":"2026-08-30T05:00:00+02:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"Lofi","address":{"@type":"PostalAddress","streetAddress":"Basisweg 63, Amsterdam 1043AN, Netherlands","addressLocality":"Amsterdam","addressCountry":"NL"},"geo":{"@type":"GeoCoordinates","latitude":52.391255,"longitude":4.824222},"url":"https://soundcheck.club/amsterdam/club/lofi/"},"performer":[{"@type":"MusicGroup","name":"Dennis Quin","url":"https://soundcheck.club/dj/dennis-quin/"},{"@type":"MusicGroup","name":"Job de Jong","url":"https://soundcheck.club/dj/job-de-jong/"},{"@type":"MusicGroup","name":"jWave","url":"https://soundcheck.club/dj/jwave/"},{"@type":"MusicGroup","name":"Michel de Hey","url":"https://soundcheck.club/dj/michel-de-hey/"},{"@type":"MusicGroup","name":"Noach","url":"https://soundcheck.club/dj/noach/"},{"@type":"MusicGroup","name":"Reeshy","url":"https://soundcheck.club/dj/reeshy/"}],"organizer":[{"@type":"Organization","name":"Lofi Amsterdam"}],"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fe43d7cf2c0a26f8a73f4c02952ab2ee2327a6fcc.png&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fe43d7cf2c0a26f8a73f4c02952ab2ee2327a6fcc.png&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2Fe43d7cf2c0a26f8a73f4c02952ab2ee2327a6fcc.png&w=1200&h=675&fit=cover"]}</script>
+<script type="application/ld+json" id="seo-jsonld">{"@context":"https://schema.org","@type":"MusicEvent","name":"Club Roto - Halloween","url":"https://soundcheck.club/e/2523413-club-roto-halloween-at-lofi/","description":"Club Roto - Halloween at Lofi on Sat 31 Oct, Amsterdam. 6 artists on the bill: Dennis Quin, Job de Jong, jWave and Michel de Hey and 2 more. House. Preview the line-up and save it on soundcheck.","startDate":"2026-10-31T22:00:00+01:00","endDate":"2026-11-01T05:00:00+01:00","eventStatus":"https://schema.org/EventScheduled","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","location":{"@type":"MusicVenue","name":"Lofi","address":{"@type":"PostalAddress","streetAddress":"Basisweg 63, Amsterdam 1043AN, Netherlands","addressLocality":"Amsterdam","addressCountry":"NL"},"geo":{"@type":"GeoCoordinates","latitude":52.391255,"longitude":4.824222},"url":"https://soundcheck.club/amsterdam/club/lofi/"},"performer":[{"@type":"MusicGroup","name":"Dennis Quin","url":"https://soundcheck.club/dj/dennis-quin/"},{"@type":"MusicGroup","name":"Job de Jong","url":"https://soundcheck.club/dj/job-de-jong/"},{"@type":"MusicGroup","name":"jWave","url":"https://soundcheck.club/dj/jwave/"},{"@type":"MusicGroup","name":"Michel de Hey","url":"https://soundcheck.club/dj/michel-de-hey/"},{"@type":"MusicGroup","name":"Noach","url":"https://soundcheck.club/dj/noach/"},{"@type":"MusicGroup","name":"Reeshy","url":"https://soundcheck.club/dj/reeshy/"}],"organizer":[{"@type":"Organization","name":"Lofi Amsterdam"}],"image":["https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F2384fd86934d1bd509309f73a647dc2abe0faab9.png&w=1200&h=1200&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F2384fd86934d1bd509309f73a647dc2abe0faab9.png&w=1200&h=900&fit=cover","https://api.soundcheck.club/api/img?u=https%3A%2F%2Fimages.ra.co%2F2384fd86934d1bd509309f73a647dc2abe0faab9.png&w=1200&h=675&fit=cover"]}</script>
 <script type="application/ld+json" id="seo-crumb">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"soundcheck","item":"https://soundcheck.club/"},{"@type":"ListItem","position":2,"name":"Amsterdam","item":"https://soundcheck.club/amsterdam/"},{"@type":"ListItem","position":3,"name":"Club Roto - Halloween"}]}</script>
 </head>
 <body>
-<div id="seo-pre"><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#FDF3EC;font-family:'Archivo',system-ui,sans-serif"><h1>Club Roto - Halloween</h1><p>Club Roto - Halloween at Lofi on Sat 29 Aug, Amsterdam. 6 acts on the bill: Dennis Quin, Job de Jong, jWave and Michel de Hey and 2 more. House. Preview the line-up and save it on soundcheck.</p><table><tbody><tr><th>Date</th><td>Sat, 29 Aug 2026</td></tr><tr><th>Venue</th><td><a style="color:#FF9A3D" href="https://soundcheck.club/amsterdam/club/lofi/">Lofi</a></td></tr><tr><th>City</th><td><a style="color:#FF9A3D" href="https://soundcheck.club/amsterdam/">Amsterdam</a></td></tr><tr><th>Acts</th><td>6</td></tr></tbody></table><h2>Line-up</h2><ul><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/dennisquin/">Dennis Quin</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/jobdejong/">Job de Jong</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/jwave/">jWave</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/micheldehey/">Michel de Hey</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/noach/">Noach</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/reeshy/">Reeshy</a></li></ul><p><a style="color:#FF9A3D" href="https://soundcheck.club/e/2523413-club-roto-halloween-at-lofi/">Open on soundcheck</a></p></main></div><script data-seo-pre>(function(){var n=document.getElementById("seo-pre");if(!n)return;n.style.display="none";document.addEventListener("DOMContentLoaded",function(){n.remove();});})();</script>
+<div id="seo-pre"><main style="max-width:760px;margin:48px auto;padding:0 20px;color:#FDF3EC;font-family:'Archivo',system-ui,sans-serif"><h1>Club Roto - Halloween</h1><p>Club Roto - Halloween at Lofi on Sat 31 Oct, Amsterdam. 6 artists on the bill: Dennis Quin, Job de Jong, jWave and Michel de Hey and 2 more. House. Preview the line-up and save it on soundcheck.</p><table><tbody><tr><th>Date</th><td>Sat, 31 Oct 2026</td></tr><tr><th>Venue</th><td><a style="color:#FF9A3D" href="https://soundcheck.club/amsterdam/club/lofi/">Lofi</a></td></tr><tr><th>City</th><td><a style="color:#FF9A3D" href="https://soundcheck.club/amsterdam/">Amsterdam</a></td></tr><tr><th>Acts</th><td>6</td></tr></tbody></table><h2>Line-up</h2><ul><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/dennisquin/">Dennis Quin</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/jobdejong/">Job de Jong</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/jwave/">jWave</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/micheldehey/">Michel de Hey</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/noach/">Noach</a></li><li><a style="color:#FF9A3D" href="https://soundcheck.club/dj/reeshy/">Reeshy</a></li></ul><p><a style="color:#FF9A3D" href="https://soundcheck.club/e/2523413-club-roto-halloween-at-lofi/">Open on soundcheck</a></p></main></div><script data-seo-pre>(function(){var n=document.getElementById("seo-pre");if(!n)return;n.style.display="none";document.addEventListener("DOMContentLoaded",function(){n.remove();});})();</script>
   <div class="ptr" id="ptr" aria-hidden="true"><span class="ptr-d"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-3-6.7"/><path d="M21 3v6h-6"/></svg></span></div>
   <div class="promo" id="promo" hidden></div>
   <main class="wrap">
@@ -68,10 +76,10 @@
       <div class="nav-links" id="nav-links">
         <button class="nl" data-nav="home" type="button">Home</button>
         <button class="nl" data-nav="scenes" type="button">Scenes</button>
-        <button class="nl" data-nav="radio" type="button">Radio</button>
+        <button class="nl" id="nav-listen" data-nav="listen" type="button">Listen</button>
       </div>
       <button class="hdr-search" id="hdr-search" type="button" aria-label="Search artists, venues, events"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></svg><span class="hs-tx">Search artists, venues, events…</span></button>
-      <button class="hdr-log" id="hdr-log" type="button" style="display:none">+ Log a gig</button>
+      <button class="fp-ab" id="hdr-log" type="button" style="display:none"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg><span>Log a gig</span></button>
       <div class="account account-wrap" id="account"></div>
     </nav>
 
@@ -111,14 +119,14 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-08-27/">Thu 27 Aug <span class="c">40 events</span></a></li><li><a href="/london/2026-08-28/">Fri 28 Aug <span class="c">101 events</span></a></li><li><a href="/london/2026-08-29/">Sat 29 Aug <span class="c">138 events</span></a></li><li><a href="/london/2026-08-30/">Sun 30 Aug <span class="c">98 events</span></a></li><li><a href="/london/2026-08-31/">Mon 31 Aug <span class="c">24 events</span></a></li><li><a href="/london/2026-09-01/">Tue 1 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-02/">Wed 2 Sept <span class="c">5 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 104 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">37 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">97 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">127 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">25 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
          Home-only (inside #home, which body.page-on hides); setCity keeps .hs-city in step. -->
     <section id="home-seo" class="home-seo">
-      <h1 class="home-seo-h1">Club nights &amp; artist sets in <span class="hs-city">London</span></h1>
-      <p class="home-seo-p">See who&rsquo;s playing tonight and this weekend across every venue in <span class="hs-city">London</span>. Preview the sets, follow the artists you love, and save the nights you want &mdash; soundcheck maps club nights and artist line-ups across 104 cities in 40 countries.</p>
+      <h1 class="home-seo-h1">Gigs &amp; artist sets in <span class="hs-city">London</span></h1>
+      <p class="home-seo-p">See who&rsquo;s playing tonight and this weekend across every venue in <span class="hs-city">London</span>. Preview the sets, follow the artists you love, and save the gigs you want &mdash; soundcheck maps gigs and artist line-ups across 104 cities in 40 countries.</p>
     </section>
 
     </div><!-- /#home -->
@@ -138,7 +146,7 @@
           <a href="#" id="foot-submit">Suggest an event</a>
         </nav>
       </div>
-      <div class="foot-msg">Made in London with Love 2026</div>
+      <div class="foot-msg">FREE PALESTINE 🇵🇸 · MADE SLOWLY IN LONDON WITH LOVE 2026</div>
     </footer>
   </main>
 
@@ -152,17 +160,17 @@
       <div class="video-wrap" id="dock-media"></div>
       <img class="thumb" id="dock-thumb" alt="">
       <div class="main">
-        <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Wanna see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Wanna see</span></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="sub" id="dock-src">SoundCloud</div></div>
+        <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Want to see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Want to see</span></button><button class="set-add" id="dock-add" type="button" hidden aria-pressed="false" aria-label="Add to Your sets"></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="dock-srcrow"><div class="sub" id="dock-src">SoundCloud</div><a class="dock-sc" id="dock-sc" href="#" target="_blank" rel="noopener" hidden aria-label="Open this track on SoundCloud"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#FF5500" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg><span>SoundCloud</span><svg class="dock-sc-out" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a></div></div>
         <!-- Fixed order everywhere (web + mobile): −15 · prev · [play] · next · +15.
              The play button is hidden (the scrubber knob is play/pause), so the visible
              row is −15 · prev · next · +15 on both; DOM order = render order, no per-
              breakpoint reshuffling. -->
         <div class="transport">
-          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg><span>&minus;15</span></button>
-          <button class="iconbtn" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
+          <button class="iconbtn skip" id="skip-back" type="button" aria-label="Back 15 seconds"><span>&minus;15</span></button>
+          <button class="iconbtn skipnav" id="dock-prev" type="button" aria-label="Previous set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="19 20 9 12 19 4 19 20"/><line x1="5" x2="5" y1="19" y2="5"/></svg></button>
           <button class="play-main" id="dock-pp" type="button" aria-label="Pause"><svg class="ic" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg></button>
-          <button class="iconbtn" id="dock-next" type="button" aria-label="Next set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19"/></svg></button>
-          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>+15</span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg></button>
+          <button class="iconbtn skipnav" id="dock-next" type="button" aria-label="Next set"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polygon points="5 4 15 12 5 20 5 4"/><line x1="19" x2="19" y1="5" y2="19"/></svg></button>
+          <button class="iconbtn skip" id="skip-fwd" type="button" aria-label="Forward 15 seconds"><span>+15</span></button>
         </div>
         <div class="scrub">
           <span class="t" id="t-cur">0:00</span>
@@ -173,7 +181,7 @@
       </div>
     </div>
   </div>
-  <div class="toast" id="toast"></div>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
 
   <div class="auth-overlay" id="auth-overlay">
     <div class="auth-box" id="auth-box">
@@ -217,8 +225,8 @@
   <nav class="bnav" id="bnav" aria-label="Main">
     <button class="bnav-tab on" id="bnav-home" type="button" aria-label="Home"><svg viewBox="0 0 24 24"><path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"/><polyline points="9 22 9 12 15 12 15 22"/></svg><span class="bnav-l">Home</span></button>
     <button class="bnav-tab" id="bnav-search" type="button" aria-label="Search"><svg viewBox="0 0 24 24"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg><span class="bnav-l">Search</span></button>
-    <button class="bnav-log" id="bnav-log" type="button" aria-label="Log a night"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
-    <button class="bnav-tab" id="bnav-scenes" type="button" aria-label="Scenes"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9"/><path d="M3 12h18"/><path d="M12 3a15 15 0 0 1 0 18a15 15 0 0 1 0-18z"/></svg><span class="bnav-l">Scenes</span></button>
+    <button class="bnav-log" id="bnav-log" type="button" aria-label="Log a gig"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"><path d="M12 5v14M5 12h14"/></svg></button>
+    <button class="bnav-tab" id="bnav-listen" type="button" aria-label="Listen"><svg viewBox="0 0 24 24"><path d="M3.5 14v-2a8.5 8.5 0 0 1 17 0v2"/><rect x="3" y="13" width="5" height="8" rx="2"/><rect x="16" y="13" width="5" height="8" rx="2"/></svg><span class="bnav-l">Listen</span></button>
     <button class="bnav-tab" id="bnav-profile" type="button" aria-label="Profile"><svg viewBox="0 0 24 24"><circle cx="12" cy="8" r="4"/><path d="M4 21a8 8 0 0 1 16 0"/></svg><span class="bnav-l">You</span></button>
   </nav>
 
@@ -230,16 +238,61 @@
        loadYtApi / loadScApi) so they stay off the critical path. The iframes
        autoplay on their own; the SDKs only add the scrubber + dock sync. -->
 
-  <script src="/app.87c0109ab1fd.js" defer></script>
+  <script src="/app.3e6bd153e642.js" defer></script>
 <script>
 /* SUNSET·CRT runtime — promoted from next (2026-07-13).
-   1) Android renders rem/em larger than iOS → whole app at 90% on Android.
+   1) Android renders rem/em larger than iOS → fit the app to the width the
+      device actually reports, rather than a flat 90% for every handset.
    2) Mobile (≤640px) LIST VIEW for event grids: home paints + every
       mountEventCards grid (artist/venue upcoming, search event lists).
       Row keeps all wireEvcCards hooks (.evc-poster wraps the row and opens
       the sheet, .evc-play queues the line-up, .heart[data-pick-evt] saves). */
 (function(){
-  try{ if(/Android/i.test(navigator.userAgent||'')) document.documentElement.style.zoom='0.9'; }catch(_){}
+  // ANDROID FIT — MEASURED, NOT ASSUMED.
+  //
+  // This was a flat zoom:0.9 for every Android device, which is only correct for
+  // a phone that reports 360 CSS px. It is too small on a 412px Pixel and, far
+  // worse, nowhere near enough on a handset whose owner has raised Android's
+  // Display Size — that setting REDUCES the CSS width, so the layout gets
+  // proportionally bigger and starts wrapping and clipping. Suren, on his own
+  // phone: "it is tooo zoomed in - can we not scale it based on the device?"
+  //
+  // So: derive the factor from the width the device actually reports, aiming at
+  // the width the app is designed against. 360 → 0.90 (what the old constant
+  // happened to be), 320 → 0.80, 412 → 1 and no zoom at all.
+  //
+  // Clamped both ends. Below 0.8 the type is too small to read, and above 1 we
+  // would be magnifying a layout that already fits.
+  (function(){
+    if(!/Android/i.test(navigator.userAgent||'')) return;
+    // MEASURED ON A REAL ANDROID, not reasoned about.
+    //
+    // A Pixel-class device reports 412 CSS px, root font-size 16px and
+    // text-size-adjust 100% — so there is no font boosting to blame; the page is
+    // simply too big at 1:1. Driving zoom over the devtools socket on that
+    // device, 0.85 is the value where the layout matches iOS: seven full event
+    // rows instead of five and a half, and titles stop truncating.
+    //
+    // 412 / 0.85 = 485, so that is the effective width the layout wants. Aiming
+    // every device at it means a narrow phone and a wide one lay out the same.
+    //
+    // The previous attempt targeted 400 and clamped at 1, which on this exact
+    // device produced NO zoom and made it 11% bigger than the flat 0.9 it
+    // replaced. That is why Suren said it was still not fixed.
+    var DESIGN=485, MIN=0.70, MAX=0.92;
+    function fit(){
+      try{
+        var de=document.documentElement;
+        de.style.zoom='';                                  // measure UNZOOMED, or we compound
+        var w=de.clientWidth||window.innerWidth||DESIGN;
+        var z=Math.max(MIN, Math.min(MAX, w/DESIGN));
+        de.style.zoom = (z>=0.999) ? '' : String(Math.round(z*1000)/1000);
+      }catch(_){}
+    }
+    fit();
+    // Rotation, split-screen, and the keyboard on some devices all change it.
+    window.addEventListener('resize', fit, {passive:true});
+  })();
   function init(){
   if(typeof cardHTML!=='function' || typeof paintCurrentGrid!=='function') return;
   var MQ=window.matchMedia('(max-width:640px)');

@@ -1,6 +1,6 @@
 # Bomchello
 
-Bomchello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Hamburg on Sat, 31 Oct 2026.
+Bomchello is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Hamburg on Sat, 31 Oct 2026.
 
 Bomchello is a techno and house artist based in Germany, tracked on soundcheck, with 26 sets logged across Berlin, Hamburg and Zurich. Often billed alongside Bonjessu, Muffel and freesi. Next up: TBA, Hamburg on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Bomchello is a techno and house artist based in Germany, tracked on soundcheck, 
 
 Bonjessu, Muffel (2), freesi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bomchello/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bomchello/)*

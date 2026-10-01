@@ -1,6 +1,6 @@
 # Suicide Club
 
-Suicide Club is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
+Suicide Club is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Razzmatazz, Barcelona on Fri, 23 Oct 2026.
 
 Suicide Club is an electronic artist tracked on soundcheck, with 6 sets logged across Barcelona. Often billed alongside Bulma, Alvva and Kanti. Next up: Razzmatazz, Barcelona on Fri 23 Oct.
 
@@ -22,4 +22,4 @@ Suicide Club is an electronic artist tracked on soundcheck, with 6 sets logged a
 
 Bulma, Alvva, Kanti
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suicideclub/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suicideclub/)*

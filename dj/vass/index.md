@@ -1,6 +1,6 @@
 # Vass
 
-Vass is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Distrikt, Leeds on Sat, 3 Oct 2026.
+Vass is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Distrikt, Leeds on Sat, 3 Oct 2026.
 
 Vass is a techno and electro artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Athens, Barcelona and Berlin and 31 more. Often billed alongside Unai Trotti, Junki Inoue and Z@p. Next up: Distrikt, Leeds on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ Vass is a techno and electro artist based in United Kingdom, tracked on soundche
 
 Unai Trotti, Junki Inoue, Z@p
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vass/)*

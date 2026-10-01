@@ -1,6 +1,6 @@
 # Eera
 
-Eera is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Union Transfer, Philadelphia on Wed, 4 Nov 2026.
+Eera is a Electronica and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Union Transfer, Philadelphia on Wed, 4 Nov 2026.
 
 Eera is an electronica and club artist based in United States of America, tracked on soundcheck, with 47 sets logged across Austin, Berlin, Boston and Bristol and 20 more. Often billed alongside Snow Strippers, Brutalismus 3000 and Chippy Nonstop. Next up: Union Transfer, Philadelphia on Wed 4 Nov.
 
@@ -25,4 +25,4 @@ Eera is an electronica and club artist based in United States of America, tracke
 
 Snow Strippers, Brutalismus 3000, Chippy Nonstop
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eera/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eera/)*

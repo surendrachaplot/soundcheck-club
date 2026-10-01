@@ -1,6 +1,6 @@
 # Sterling Juan Diaz
 
-Sterling Juan Diaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at H0L0, New York City on Sat, 24 Oct 2026.
+Sterling Juan Diaz is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at H0L0, New York City on Sat, 24 Oct 2026.
 
 Sterling Juan Diaz is a house and techno artist based in United States of America, tracked on soundcheck, with 128 sets logged across Berlin, Chicago, Leipzig and Los Angeles and 5 more. Often billed alongside Sekucci, ALEXIS DE LA ROSA and Josh Steers. Next up: H0L0, New York City on Sat 24 Oct.
 
@@ -26,4 +26,4 @@ Sterling Juan Diaz is a house and techno artist based in United States of Americ
 
 Sekucci, ALEXIS DE LA ROSA, Josh Steers
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sterlingjuandiaz/)*

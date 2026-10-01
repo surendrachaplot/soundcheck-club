@@ -1,8 +1,8 @@
 # DJ SPORTSCHUH
 
-DJ SPORTSCHUH is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
+DJ SPORTSCHUH is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
 
-DJ SPORTSCHUH is a techno and house artist based in Germany, tracked on soundcheck, with 121 sets logged across Barcelona, Berlin, Cologne and Düsseldorf and 8 more. Often billed alongside Flavius (DE), BNZN and ATTA (GER). Next up: Kater, Berlin on Fri 2 Oct.
+DJ SPORTSCHUH is a techno and house artist based in Germany, tracked on soundcheck, with 122 sets logged across Amsterdam, Barcelona, Berlin and Cologne and 9 more. Often billed alongside Flavius (DE), BNZN and ATTA (GER). Next up: Kater, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ DJ SPORTSCHUH is a techno and house artist based in Germany, tracked on soundche
 | Fri, 2 Oct 2026 | Kater | Berlin |
 | Sat, 3 Oct 2026 | TBA - glimmer, Stockmeyerstraße 43, 20457 Hamburg | Hamburg |
 | Sat, 17 Oct 2026 | Coco Boule | Berlin |
+| Wed, 21 Oct 2026 | Melkweg | Amsterdam |
 | Wed, 30 Dec 2026 | RAW- Lokschuppen + Astra Kulturhaus | Berlin |
 
 ## Recently played
@@ -28,4 +29,4 @@ DJ SPORTSCHUH is a techno and house artist based in Germany, tracked on soundche
 
 Flavius (DE), BNZN, ATTA (GER)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsportschuh/)*

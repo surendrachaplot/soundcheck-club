@@ -1,13 +1,14 @@
 # Ron Obvious
 
-Ron Obvious is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Home The Venue, Sydney on Sun, 4 Oct 2026.
+Ron Obvious is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at S.A.S.H in the Street, New-south-wales on Sun, 4 Oct 2026.
 
-Ron Obvious is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 34 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 6 more. Often billed alongside Samuel Deep, DJ Senc and Doudou MD. Next up: Home The Venue, Sydney on Sun 4 Oct.
+Ron Obvious is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Amsterdam, Barcelona, Berlin and Ibiza and 7 more. Often billed alongside Samuel Deep, DJ Senc and Doudou MD. Next up: S.A.S.H in the Street, New South Wales on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | S.A.S.H in the Street | New-south-wales |
 | Sun, 4 Oct 2026 | Home The Venue | Sydney |
 | Fri, 16 Oct 2026 | Hoppetosse | Berlin |
 
@@ -26,4 +27,4 @@ Ron Obvious is a house and tech house artist based in United Kingdom, tracked on
 
 Samuel Deep, DJ Senc, Doudou MD
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ronobvious/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ronobvious/)*

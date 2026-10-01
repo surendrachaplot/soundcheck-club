@@ -1,6 +1,6 @@
 # elvito
 
-elvito is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Void Club, Berlin on Fri, 9 Oct 2026.
+elvito is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Void Club, Berlin on Fri, 9 Oct 2026.
 
 elvito is a trance and techno artist based in Germany, tracked on soundcheck, with 35 sets logged across Berlin. Often billed alongside Sievert Serviert, OLED and EZA (DE). Next up: Void Club, Berlin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ elvito is a trance and techno artist based in Germany, tracked on soundcheck, wi
 
 Sievert Serviert, OLED, EZA (DE)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/elvito/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/elvito/)*

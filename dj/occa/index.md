@@ -1,13 +1,14 @@
 # OCCA
 
-OCCA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at WOMB, Tokyo on Fri, 2 Oct 2026.
+OCCA is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
-OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 133 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 18 more. Often billed alongside Spekki Webu, OSHALEY and DJ Sodeyama. Next up: WOMB, Tokyo on Fri 2 Oct.
+OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 134 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 19 more. Often billed alongside Spekki Webu, OSHALEY and DJ Sodeyama. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | INN The Park Fukuoka | Kyushu |
 | Fri, 2 Oct 2026 | WOMB | Tokyo |
 | Sat, 5 Dec 2026 | Club Daphnia | Osaka |
 
@@ -26,4 +27,4 @@ OCCA is a techno and house artist based in Japan, tracked on soundcheck, with 13
 
 Spekki Webu, OSHALEY, DJ Sodeyama
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/occa/)*

@@ -1,6 +1,6 @@
 # TOTTI
 
-TOTTI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sala Independance Club, Madrid on Thu, 24 Dec 2026.
+TOTTI is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Sala Independance Club, Madrid on Thu, 24 Dec 2026.
 
 TOTTI is a techno and trance artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona and Madrid. Often billed alongside CUTIE, Ruben XXL and Tasuik. Next up: Sala Independance Club, Madrid on Thu 24 Dec.
 
@@ -25,4 +25,4 @@ TOTTI is a techno and trance artist based in Spain, tracked on soundcheck, with 
 
 CUTIE, Ruben XXL, Tasuik
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/totti/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/totti/)*

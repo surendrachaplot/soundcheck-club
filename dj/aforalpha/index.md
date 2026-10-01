@@ -1,13 +1,14 @@
 # A For Alpha
 
-A For Alpha is a House and Garage artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 6 Oct 2026.
+A For Alpha is a House and Garage artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Love Inn, Bristol on Sat, 3 Oct 2026.
 
-A For Alpha is a house and garage artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside Papa Nugs, Dr Dubplate and Ellie Stokes. Next up: Hï Ibiza, Ibiza on Tue 6 Oct.
+A For Alpha is a house and garage artist based in United Kingdom, tracked on soundcheck, with 127 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 16 more. Often billed alongside Papa Nugs, Dr Dubplate and Ellie Stokes. Next up: The Love Inn, Bristol on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | The Love Inn | Bristol |
 | Tue, 6 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 9 Oct 2026 | fabric | London |
 | Sat, 10 Oct 2026 | The Prospect Building | Bristol |
@@ -19,7 +20,6 @@ A For Alpha is a house and garage artist based in United Kingdom, tracked on sou
 | Sat, 31 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sun, 1 Nov 2026 | The Cause | London |
 | Sun, 8 Nov 2026 | Thuishaven | Amsterdam |
-| Sat, 21 Nov 2026 | Mint XL | Leeds |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ A For Alpha is a house and garage artist based in United Kingdom, tracked on sou
 
 Papa Nugs, Dr Dubplate, Ellie Stokes
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aforalpha/)*

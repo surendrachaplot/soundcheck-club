@@ -1,14 +1,15 @@
 # DJ Hell
 
-DJ Hell is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Art School, Glasgow on Sat, 10 Oct 2026.
+DJ Hell is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Art School, Glasgow on Sat, 10 Oct 2026.
 
-DJ Hell is a techno and house artist based in Germany, tracked on soundcheck, with 129 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 38 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: The Art School, Glasgow on Sat 10 Oct.
+DJ Hell is a techno and house artist based in Germany, tracked on soundcheck, with 130 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 39 more. Often billed alongside Binh, Paty Vapor and Helena Hauff. Next up: The Art School, Glasgow on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Art School | Glasgow |
+| Fri, 16 Oct 2026 | Richard Wagner Museum | Bavaria |
 | Sat, 17 Oct 2026 | Fuse | Brussels |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
 | Sat, 24 Oct 2026 | Momem - Museum of Modern Electronic Music | Frankfurt |
@@ -31,4 +32,4 @@ DJ Hell is a techno and house artist based in Germany, tracked on soundcheck, wi
 
 Binh, Paty Vapor, Helena Hauff
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hell/)*

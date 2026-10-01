@@ -1,6 +1,6 @@
 # Rendezvous | Dukwa at The Berkeley Suite
 
-Rendezvous | Dukwa at The Berkeley Suite on Thu 22 Oct, Glasgow. 1 artist on the bill: Dukwa. House and Electro. Preview the line-up and save it on soundcheck.
+Rendezvous | Dukwa at The Berkeley Suite on Thu 22 Oct, Glasgow. 3 artists on the bill: Brody James, Dukwa and Tosher. House and Electro. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ Rendezvous | Dukwa at The Berkeley Suite on Thu 22 Oct, Glasgow. 1 artist on the
 
 ## Line-up
 
+- Brody James
 - Dukwa
+- Tosher
 
 *Source: [soundcheck](https://soundcheck.club/e/2493878-rendezvous-dukwa-at-the-berkeley-suite/)*

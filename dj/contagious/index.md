@@ -1,0 +1,25 @@
+# CONTAGIOUS
+
+CONTAGIOUS is a Experimental and Noise artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Silent Green, Berlin on Fri, 13 Nov 2026.
+
+CONTAGIOUS is an experimental and noise artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin and Munich. Often billed alongside Mieko Suzuki, Abdullah Miniawy and Babak Ahteshamipour. Next up: Silent Green, Berlin on Fri 13 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Fri, 13 Nov 2026 | Silent Green | Berlin |
+
+## Recently played
+
+- Import Export, Munich — Fri, 11 Sept 2026
+- Panke, Berlin — Wed, 9 Sept 2026
+- Morphine Raum, Berlin — Sat, 11 Jul 2026
+- Morphine Raum, Berlin — Thu, 9 Jul 2026
+- Morphine Raum, Berlin — Wed, 8 Jul 2026
+
+## Shares bills with
+
+Mieko Suzuki, Abdullah Miniawy, Babak Ahteshamipour
+
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/contagious/)*

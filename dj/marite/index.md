@@ -1,8 +1,8 @@
 # Mari.te
 
-Mari.te is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Terrrazza, Barcelona on Fri, 2 Oct 2026.
+Mari.te is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Terrrazza, Barcelona on Fri, 2 Oct 2026.
 
-Mari.te is a house and techno artist based in Venezuela, tracked on soundcheck, with 161 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: La Terrrazza, Barcelona on Fri 2 Oct.
+Mari.te is a house and techno artist based in Venezuela, tracked on soundcheck, with 162 sets logged across Amsterdam, Austin, Barcelona and Berlin and 36 more. Often billed alongside Lis Sarroca, Liquid Earth and Penelope. Next up: La Terrrazza, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,9 +10,10 @@ Mari.te is a house and techno artist based in Venezuela, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | La Terrrazza | Barcelona |
 | Sat, 17 Oct 2026 | Nido Marseille | Marseille |
-| Thu, 22 Oct 2026 | TBA - Secret Location (Amsterdam) | Amsterdam |
+| Thu, 22 Oct 2026 | TBA - Kwartier - Centrale Markthallen 186, 1051 LJ Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 27 Nov 2026 | Sala Villanos | Madrid |
+| Sat, 28 Nov 2026 | Seaseaclub Barcelona | Barcelona |
 
 ## Recently played
 
@@ -29,4 +30,4 @@ Mari.te is a house and techno artist based in Venezuela, tracked on soundcheck, 
 
 Lis Sarroca, Liquid Earth, Penelope (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marite/)*

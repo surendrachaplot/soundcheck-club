@@ -1,6 +1,6 @@
 # Cheriii
 
-Cheriii is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Glove That Fits, London on Thu, 1 Oct 2026.
+Cheriii is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Glove That Fits, London on Thu, 1 Oct 2026.
 
 Cheriii is a house and techno artist based in France, tracked on soundcheck, with 82 sets logged across Antwerp, Athens, Barcelona and Berlin and 15 more. Often billed alongside Kubin, Julie Desire and Dirty Daddy Don. Next up: The Glove That Fits, London on Thu 1 Oct.
 
@@ -28,4 +28,4 @@ Cheriii is a house and techno artist based in France, tracked on soundcheck, wit
 
 Kubin, Julie Desire, Dirty Daddy Don
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cheriii/)*

@@ -1,14 +1,13 @@
 # Traumer
 
-Traumer is a House and Techno artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chinois Ibiza, Ibiza on Wed, 30 Sept 2026.
+Traumer is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Depot Mayfield, Manchester on Sat, 3 Oct 2026.
 
-Traumer is a house and techno artist based in France, tracked on soundcheck, with 317 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Chinois Ibiza, Ibiza on Wed 30 Sept.
+Traumer is a house and techno artist based in France, tracked on soundcheck, with 317 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 68 more. Often billed alongside Enzo Siragusa, Shonky and Rossi. Next up: Depot Mayfield, Manchester on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Chinois Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 3 Oct 2026 | The Nest | Nottingham |
 | Tue, 6 Oct 2026 | Hï Ibiza | Ibiza |
@@ -20,9 +19,11 @@ Traumer is a house and techno artist based in France, tracked on soundcheck, wit
 | Sun, 22 Nov 2026 | Blackstone Street Warehouse | Liverpool |
 | Sat, 28 Nov 2026 | DRUMSHEDS | London |
 | Sun, 29 Nov 2026 | Smolna | Warsaw |
+| Sat, 5 Dec 2026 | TBA - East Williamsburg | New York City |
 
 ## Recently played
 
+- Chinois Ibiza, Ibiza — Wed, 30 Sept 2026
 - Postkantine, Basel — Sat, 26 Sept 2026
 - Audio Club, Geneva — Fri, 25 Sept 2026
 - Amnesia Ibiza, Ibiza — Tue, 22 Sept 2026
@@ -30,10 +31,9 @@ Traumer is a house and techno artist based in France, tracked on soundcheck, wit
 - UNO MALTA, Malta — Fri, 18 Sept 2026
 - La Felicita, Paris — Fri, 18 Sept 2026
 - Shelter Amsterdam, Amsterdam — Sat, 12 Sept 2026
-- Pacha Ibiza, Ibiza — Fri, 11 Sept 2026
 
 ## Shares bills with
 
 Enzo Siragusa, Shonky, Rossi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/traumer/)*

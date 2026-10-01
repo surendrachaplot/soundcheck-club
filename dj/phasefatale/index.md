@@ -1,16 +1,18 @@
 # Phase Fatale
 
-Phase Fatale is a Techno and EBM artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor.West, Dortmund-essen on Sat, 10 Oct 2026.
+Phase Fatale is a Techno and EBM artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Belle Électrique, South-east on Sat, 3 Oct 2026.
 
-Phase Fatale is a techno and ebm artist based in United States of America, tracked on soundcheck, with 204 sets logged across Amsterdam, Athens, Barcelona and Berlin and 56 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: Tresor.West, Dortmund Essen on Sat 10 Oct.
+Phase Fatale is a techno and ebm artist based in United States of America, tracked on soundcheck, with 206 sets logged across Amsterdam, Athens, Barcelona and Berlin and 58 more. Often billed alongside Pablo Bozzi, Unhuman and Soft Crash. Next up: La Belle Électrique, South East on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | La Belle Électrique | South-east |
 | Sat, 10 Oct 2026 | Tresor.West | Dortmund-essen |
 | Sun, 11 Oct 2026 | Fabrik | Madrid |
 | Sat, 17 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Sat, 24 Oct 2026 | TBA - Secret Location | Bogot |
 | Fri, 30 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
@@ -30,4 +32,4 @@ Phase Fatale is a techno and ebm artist based in United States of America, track
 
 Pablo Bozzi, Unhuman, Soft Crash
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/phasefatale/)*

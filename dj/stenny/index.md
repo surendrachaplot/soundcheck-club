@@ -1,8 +1,8 @@
 # Stenny
 
-Stenny is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Torso Electronics, Copenhagen on Fri, 2 Oct 2026.
+Stenny is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Torso Electronics, Copenhagen on Fri, 2 Oct 2026.
 
-Stenny is a techno and house artist based in Italy, tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Barcelona and Belfast and 25 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: Torso Electronics, Copenhagen on Fri 2 Oct.
+Stenny is a techno and house artist based in Italy, tracked on soundcheck, with 126 sets logged across Amsterdam, Athens, Barcelona and Belfast and 25 more. Often billed alongside Zenker Brothers, Tasha and Skee Mask. Next up: Torso Electronics, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Stenny is a techno and house artist based in Italy, tracked on soundcheck, with 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Torso Electronics | Copenhagen |
 | Sat, 5 Dec 2026 | C115 | Berlin |
+| Thu, 28 Jan 2027 | Bozar | Brussels |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Stenny is a techno and house artist based in Italy, tracked on soundcheck, with 
 
 Zenker Brothers, Tasha, Skee Mask
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stenny/)*

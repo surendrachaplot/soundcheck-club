@@ -1,13 +1,14 @@
 # M.F.S: Observatory
 
-M.F.S: Observatory is a Techno and Minimal Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Glove That Fits, London on Sun, 8 Nov 2026.
+M.F.S: Observatory is a Techno and Minimal Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - STRATO Club, South on Fri, 9 Oct 2026.
 
-M.F.S: Observatory is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin and London. Often billed alongside Edgar de Ramon, Afriqua and Benny Indelicato. Next up: The Glove That Fits, London on Sun 8 Nov.
+M.F.S: Observatory is a techno and minimal techno artist based in United Kingdom, tracked on soundcheck, with 8 sets logged across Amsterdam, Berlin, London and South. Often billed alongside Edgar de Ramon, Afriqua and Benny Indelicato. Next up: TBA - STRATO Club, South on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | TBA - STRATO Club | South |
 | Sun, 8 Nov 2026 | The Glove That Fits | London |
 
 ## Recently played
@@ -23,4 +24,4 @@ M.F.S: Observatory is a techno and minimal techno artist based in United Kingdom
 
 Edgar de Ramon, Afriqua, Benny Indelicato
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/m.f.sobservatory/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/m.f.sobservatory/)*

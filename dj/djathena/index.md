@@ -1,6 +1,6 @@
 # Athena
 
-Athena is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
+Athena is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri, 2 Oct 2026.
 
 Athena is a house and techno artist based in United States of America, tracked on soundcheck, with 5 sets logged across Chicago, Hong Kong, Mexico City and New York City. Often billed alongside Nick AM, A. Parssi and Athena. Next up: TBA - Kai Tak Cruise Terminal Waiting Hall A, Hong Kong on Fri 2 Oct.
 
@@ -21,4 +21,4 @@ Athena is a house and techno artist based in United States of America, tracked o
 
 Nick AM, A. Parssi, Athena (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djathena/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djathena/)*

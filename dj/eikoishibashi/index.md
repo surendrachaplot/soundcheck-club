@@ -1,13 +1,14 @@
 # Eiko Ishibashi
 
-Eiko Ishibashi is a Experimental and Ambient artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Eiko Ishibashi is a Experimental and Ambient artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Spread, Tokyo on Fri, 16 Oct 2026.
 
-Eiko Ishibashi is an experimental and ambient artist based in Japan, tracked on soundcheck, with 28 sets logged across Berlin, Krakow, Kyoto and Milan and 8 more. Often billed alongside Jim O'Rourke, 2K88 and Actress. Next up: public records, New York City on Mon 9 Nov.
+Eiko Ishibashi is an experimental and ambient artist based in Japan, tracked on soundcheck, with 29 sets logged across Berlin, Krakow, Kyoto and Milan and 8 more. Often billed alongside Jim O'Rourke, 2K88 and Actress. Next up: Spread, Tokyo on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Spread | Tokyo |
 | Mon, 9 Nov 2026 | public records | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Eiko Ishibashi is an experimental and ambient artist based in Japan, tracked on 
 
 Jim O'Rourke, 2K88, Actress
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eikoishibashi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eikoishibashi/)*

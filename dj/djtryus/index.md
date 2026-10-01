@@ -1,6 +1,6 @@
 # DJ Try (US)
 
-DJ Try (US) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
+DJ Try (US) is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Public Works, San Francisco/Oakland on Fri, 6 Nov 2026.
 
 DJ Try (US) is a trance and techno artist based in United States of America, tracked on soundcheck, with 10 sets logged across Barcelona, Berlin, Ibiza and London and 5 more. Often billed alongside CITYSPROBLEM, moistbreezy and Princess Elf Bar. Next up: Public Works, San Francisco/Oakland on Fri 6 Nov.
 
@@ -25,4 +25,4 @@ DJ Try (US) is a trance and techno artist based in United States of America, tra
 
 CITYSPROBLEM, moistbreezy, Princess Elf Bar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djtryus/)*

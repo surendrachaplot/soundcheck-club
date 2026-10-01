@@ -1,6 +1,6 @@
 # Kelela
 
-Kelela is a R&B and Electronica artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Kelela is a R&B and Electronica artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Kelela is a r&b and electronica artist based in United States of America, tracked on soundcheck, with 18 sets logged across Barcelona, Berlin, Chicago and Copenhagen and 12 more. Often billed alongside Arca, Bassvictim and Beltran. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -29,4 +29,4 @@ Kelela is a r&b and electronica artist based in United States of America, tracke
 
 Arca, Bassvictim, Beltran
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kelela/)*

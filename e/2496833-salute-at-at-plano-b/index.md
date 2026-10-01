@@ -1,6 +1,6 @@
 # salute (AT) at Plano B
 
-salute (AT) at Plano B on Sat 10 Oct, Porto. 1 artist on the bill: salute. House and Electronica. Preview the line-up and save it on soundcheck.
+salute (AT) at Plano B on Sat 10 Oct, Porto. 3 artists on the bill: Rúben Costa, salute and Veludo. House and Electronica. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,8 @@ salute (AT) at Plano B on Sat 10 Oct, Porto. 1 artist on the bill: salute. House
 
 ## Line-up
 
+- Rúben Costa
 - salute
+- Veludo
 
 *Source: [soundcheck](https://soundcheck.club/e/2496833-salute-at-at-plano-b/)*

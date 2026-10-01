@@ -1,8 +1,8 @@
 # Alican
 
-Alican is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Flux, Istanbul on Fri, 9 Oct 2026.
+Alican is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Flux, Istanbul on Fri, 9 Oct 2026.
 
-Alican is a house and techno artist based in Turkey, tracked on soundcheck, with 73 sets logged across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside Murat Uncuoglu, Gespona and Emirhan Kacar. Next up: Flux, Istanbul on Fri 9 Oct.
+Alican is a house and techno artist based in Turkey, tracked on soundcheck, with 74 sets logged across Amsterdam, Athens, Barcelona and Berlin and 9 more. Often billed alongside Murat Uncuoglu, Gespona and Emirhan Kacar. Next up: Flux, Istanbul on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Alican is a house and techno artist based in Turkey, tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Flux | Istanbul |
 | Thu, 22 Oct 2026 | Noorderlicht Café | Amsterdam |
+| Fri, 30 Oct 2026 | Frankhan Selectist | Istanbul |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Alican is a house and techno artist based in Turkey, tracked on soundcheck, with
 
 Murat Uncuoglu, Gespona, Emirhan Kacar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alican/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alican/)*

@@ -1,13 +1,14 @@
 # DJ 2LATE
 
-DJ 2LATE is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Culture Box, Copenhagen on Sat, 12 Dec 2026.
+DJ 2LATE is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Den Anden Side, Copenhagen on Sat, 31 Oct 2026.
 
-DJ 2LATE is a techno and trance artist based in Denmark, tracked on soundcheck, with 75 sets logged across Copenhagen and Oslo. Often billed alongside steamboi, Anna Logic and Anton Goltermann. Next up: Culture Box, Copenhagen on Sat 12 Dec.
+DJ 2LATE is a techno and trance artist based in Denmark, tracked on soundcheck, with 76 sets logged across Copenhagen and Oslo. Often billed alongside steamboi, Anna Logic and Anton Goltermann. Next up: Den Anden Side, Copenhagen on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | Den Anden Side | Copenhagen |
 | Sat, 12 Dec 2026 | Culture Box | Copenhagen |
 
 ## Recently played
@@ -25,4 +26,4 @@ DJ 2LATE is a techno and trance artist based in Denmark, tracked on soundcheck, 
 
 steamboi, Anna Logic, Anton Goltermann
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dj2late/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dj2late/)*

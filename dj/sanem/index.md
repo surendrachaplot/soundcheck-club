@@ -1,13 +1,14 @@
 # SANEM
 
-SANEM is a Techno and Afro House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Amsterdam Central Station , Amsterdam on Fri, 23 Oct 2026.
+SANEM is a Techno and Afro House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at D! Club, Lausanne on Fri, 16 Oct 2026.
 
-SANEM is a techno and afro house artist based in Switzerland, tracked on soundcheck, with 24 sets logged across Amsterdam, Basel, Frankfurt and Hamburg and 3 more. Often billed alongside Galopp, Cortez and FALCO. Next up: TBA - Amsterdam Central Station , Amsterdam on Fri 23 Oct.
+SANEM is a techno and afro house artist based in Switzerland, tracked on soundcheck, with 25 sets logged across Amsterdam, Basel, Frankfurt and Hamburg and 4 more. Often billed alongside Galopp, Cortez and FALCO. Next up: D! Club, Lausanne on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | D! Club | Lausanne |
 | Fri, 23 Oct 2026 | TBA - Amsterdam Central Station  | Amsterdam |
 | Sat, 14 Nov 2026 | Zinkbad Eventhalle | Zurich |
 
@@ -26,4 +27,4 @@ SANEM is a techno and afro house artist based in Switzerland, tracked on soundch
 
 Galopp, Cortez (2), FALCO (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sanem/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sanem/)*

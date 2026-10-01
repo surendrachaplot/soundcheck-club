@@ -1,6 +1,6 @@
 # J-Dub
 
-J-Dub is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+J-Dub is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
 
 J-Dub is a house and deep house artist based in United States of America, tracked on soundcheck, with 18 sets logged across Amsterdam, Los Angeles, Miami and San Francisco/Oakland. Often billed alongside Mark Farina, DJ Sneak and Doc Martin. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
 
@@ -25,4 +25,4 @@ J-Dub is a house and deep house artist based in United States of America, tracke
 
 Mark Farina, DJ Sneak, Doc Martin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/j-dub/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/j-dub/)*

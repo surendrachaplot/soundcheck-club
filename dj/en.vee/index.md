@@ -1,14 +1,15 @@
 # EN.VEE
 
-EN.VEE is a Jungle and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at M.O.T, London on Fri, 9 Oct 2026.
+EN.VEE is a Jungle and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Fri, 9 Oct 2026.
 
-EN.VEE is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Berlin, Bristol, Cardiff and London and 4 more. Often billed alongside Arkyn, Andy Foundations and Ceephax Acid Crew. Next up: M.O.T, London on Fri 9 Oct.
+EN.VEE is a jungle and hardcore artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Berlin, Bristol, Cardiff and London and 4 more. Often billed alongside Arkyn, Andy Foundations and Ceephax Acid Crew. Next up: M.O.T, London on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | M.O.T | London |
+| Fri, 27 Nov 2026 | Planet Wax | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ EN.VEE is a jungle and hardcore artist based in United Kingdom, tracked on sound
 
 Arkyn, Andy Foundations, Ceephax Acid Crew
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/en.vee/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/en.vee/)*

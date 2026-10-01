@@ -1,6 +1,6 @@
 # Eric Prydz at The Concourse Project
 
-Eric Prydz at The Concourse Project on Sat 21 Nov, Austin. 1 artist on the bill: Eric Prydz. Preview the line-up and save it on soundcheck.
+Eric Prydz at The Concourse Project on Sat 21 Nov, Austin. 2 artists on the bill: Cristoph and Eric Prydz. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Eric Prydz at The Concourse Project on Sat 21 Nov, Austin. 1 artist on the bill:
 
 ## Line-up
 
+- Cristoph
 - Eric Prydz
 
 *Source: [soundcheck](https://soundcheck.club/e/2512644-eric-prydz-at-the-concourse-project/)*

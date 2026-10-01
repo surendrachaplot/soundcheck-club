@@ -1,6 +1,6 @@
 # [119] HAUSNACHT [001] at [119]
 
-[119] HAUSNACHT [001] on Fri 2 Oct, Berlin. 2 artists on the bill: EMIRI TSUKUI and Krumelur. Techno. Preview the line-up and save it on soundcheck.
+[119] HAUSNACHT [001] on Fri 2 Oct, Berlin. 2 artists on the bill: EMIRI TSUKUI and Krumelur. Techno and Psytrance. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

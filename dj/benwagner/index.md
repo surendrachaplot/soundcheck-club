@@ -1,6 +1,6 @@
 # Ben Wagner
 
-Ben Wagner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Rawhide, New York City on Thu, 1 Oct 2026.
+Ben Wagner is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Club Rawhide, New York City on Thu, 1 Oct 2026.
 
 Ben Wagner is a house and techno artist tracked on soundcheck, with 5 sets logged across Chicago and New York City. Often billed alongside Griffin Maxwell Brooks, LOFTUS and Delilah At Night. Next up: Club Rawhide, New York City on Thu 1 Oct.
 
@@ -21,4 +21,4 @@ Ben Wagner is a house and techno artist tracked on soundcheck, with 5 sets logge
 
 Griffin Maxwell Brooks, LOFTUS, Delilah At Night
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benwagner/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benwagner/)*

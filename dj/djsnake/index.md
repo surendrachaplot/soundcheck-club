@@ -1,8 +1,8 @@
 # DJ Snake
 
-DJ Snake is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Paradiso, Amsterdam on Wed, 21 Oct 2026.
+DJ Snake is a House and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Paradiso, Amsterdam on Wed, 21 Oct 2026.
 
-DJ Snake is a house and electro artist based in France, tracked on soundcheck, with 48 sets logged across Amsterdam, Austin, Barcelona and Boston and 18 more. Often billed alongside Henry Fong, Audien and James Hype (UK). Next up: Paradiso, Amsterdam on Wed 21 Oct.
+DJ Snake is a house and electro artist based in France, tracked on soundcheck, with 49 sets logged across Amsterdam, Austin, Barcelona and Boston and 18 more. Often billed alongside Henry Fong, Audien and James Hype (UK). Next up: Paradiso, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Snake is a house and electro artist based in France, tracked on soundcheck, w
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Paradiso | Amsterdam |
 | Fri, 18 Dec 2026 | TBA - Rhythm Park | Thailand |
+| Tue, 29 Dec 2026 | Echostage | Washington DC |
 | Thu, 31 Dec 2026 | NOS Event Center | Los-angeles |
 
 ## Recently played
@@ -27,4 +28,4 @@ DJ Snake is a house and electro artist based in France, tracked on soundcheck, w
 
 Henry Fong, Audien, James Hype (UK)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djsnake/)*

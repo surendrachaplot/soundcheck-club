@@ -1,8 +1,8 @@
 # Konstantin
 
-Konstantin is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
+Konstantin is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed, 30 Sept 2026.
 
-Konstantin is a house and techno artist based in Germany, tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
+Konstantin is a house and techno artist based in Germany, tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 34 more. Often billed alongside Leafar Legov, Map.ache and Edward. Next up: Chalkidiki, Kalamitsi, Thalatta Camp, Greece on Wed 30 Sept.
 
 ## Upcoming shows
 
@@ -12,11 +12,13 @@ Konstantin is a house and techno artist based in Germany, tracked on soundcheck,
 | Fri, 2 Oct 2026 | Loco Park | Tbilisi |
 | Sat, 3 Oct 2026 | TBA | Sofia |
 | Fri, 9 Oct 2026 | Foro Frontera | Mexico City |
+| Fri, 23 Oct 2026 | ingang | Amsterdam |
 | Sun, 25 Oct 2026 | Klaproos | Amsterdam |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
 
 ## Recently played
 
+- Chalkidiki, Kalamitsi, Thalatta Camp, Greece — Wed, 30 Sept 2026
 - Haus der Visionäre, Berlin — Sat, 26 Sept 2026
 - Phonox, London — Sat, 22 Aug 2026
 - DC-10, Ibiza — Mon, 20 Jul 2026
@@ -24,10 +26,9 @@ Konstantin is a house and techno artist based in Germany, tracked on soundcheck,
 - OHM, Berlin — Fri, 17 Jul 2026
 - SEL OCTAGON TOKYO, Tokyo — Thu, 9 Jul 2026
 - Bar Dancing Multipla, Amsterdam — Fri, 26 Jun 2026
-- Those Who Dance, Lisbon — Sun, 14 Jun 2026
 
 ## Shares bills with
 
 Leafar Legov, Map.ache, Edward
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/konstantin/)*

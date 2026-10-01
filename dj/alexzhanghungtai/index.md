@@ -1,6 +1,6 @@
 # Alex Zhang Hungtai
 
-Alex Zhang Hungtai is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Pilar - VUB, Brussels on Thu, 1 Oct 2026.
+Alex Zhang Hungtai is a Experimental and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Pilar - VUB, Brussels on Thu, 1 Oct 2026.
 
 Alex Zhang Hungtai is an experimental and techno artist based in Taiwan, tracked on soundcheck, with 24 sets logged across Barcelona, Berlin, Brussels and Glasgow and 11 more. Often billed alongside Aba Shanti-I, Arooj Aftab and BRINGAS. Next up: Pilar - VUB, Brussels on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Alex Zhang Hungtai is an experimental and techno artist based in Taiwan, tracked
 
 Aba Shanti-I, Arooj Aftab, BRINGAS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alexzhanghungtai/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alexzhanghungtai/)*

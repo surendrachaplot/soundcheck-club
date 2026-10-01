@@ -1,6 +1,6 @@
 # BCCO x 240KMH at MUENZE
 
-BCCO x 240KMH at MUENZE on Wed 30 Dec, Berlin. 33 artists on the bill: AEREA, BIIA, Brtinzz and Caniche and 29 more. Preview the line-up and save it on soundcheck.
+BCCO x 240KMH at MUENZE on Wed 30 Dec, Berlin. 34 artists on the bill: AEREA, Alycia Bezgo, BIIA and Brtinzz and 30 more. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ BCCO x 240KMH at MUENZE on Wed 30 Dec, Berlin. 33 artists on the bill: AEREA, BI
 ## Line-up
 
 - AEREA
+- Alycia Bezgo
 - BIIA
 - Brtinzz
 - Caniche

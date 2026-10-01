@@ -1,6 +1,6 @@
 # FREITAG SOUND SERIES#4 at Climax-Institutes
 
-FREITAG SOUND SERIES#4 at Climax-Institutes on Fri 30 Oct, Stuttgart. Techno and Tech House. Preview the line-up and save it on soundcheck.
+FREITAG SOUND SERIES#4 at Climax-Institutes on Fri 30 Oct, Stuttgart. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

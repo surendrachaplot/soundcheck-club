@@ -1,13 +1,14 @@
 # Aarti Jadu
 
-Aarti Jadu is a Experimental and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Aarti Jadu is a Experimental and Electronica artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Grace Darling Hotel, Melbourne on Fri, 2 Oct 2026.
 
-Aarti Jadu is an experimental and electronica artist tracked on soundcheck, with 19 sets logged across Bali, Melbourne, New South Wales and Sydney. Often billed alongside Emelyne, CS + Kreme and Harold. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
+Aarti Jadu is an experimental and electronica artist tracked on soundcheck, with 20 sets logged across Bali, Melbourne, New South Wales and Sydney. Often billed alongside Emelyne, CS + Kreme and Harold. Next up: Grace Darling Hotel, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Grace Darling Hotel | Melbourne |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 
 ## Recently played
@@ -25,4 +26,4 @@ Aarti Jadu is an experimental and electronica artist tracked on soundcheck, with
 
 Emelyne, CS + Kreme, Harold
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aartijadu/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aartijadu/)*

@@ -1,6 +1,6 @@
 # Disrupta
 
-Disrupta is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
+Disrupta is a Drum & Bass and Jungle artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wolfbrook Arena, Christchurch on Fri, 2 Oct 2026.
 
 Disrupta is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Amsterdam, Antwerp, Auckland and Bali and 24 more. Often billed alongside Kanine, Camo & Krooked and Crossy. Next up: Wolfbrook Arena, Christchurch on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Disrupta is a drum & bass and jungle artist based in United Kingdom, tracked on 
 
 Kanine, Camo & Krooked, Crossy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/disrupta/)*

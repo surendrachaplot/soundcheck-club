@@ -1,8 +1,8 @@
 # TRIVEAT
 
-TRIVEAT is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at nueve cero nueve, Mexico City on Fri, 2 Oct 2026.
+TRIVEAT is a House and Afro House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at nueve cero nueve, Mexico City on Fri, 2 Oct 2026.
 
-TRIVEAT is a house and afro house artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexico City. Often billed alongside Cinema Paradisco, Dani Barbosa and Jasym. Next up: nueve cero nueve, Mexico City on Fri 2 Oct.
+TRIVEAT is a house and afro house artist based in Mexico, tracked on soundcheck, with 6 sets logged across Mexico City. Often billed alongside Andrreas, Cinema Paradisco and Dani Barbosa. Next up: nueve cero nueve, Mexico City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -20,6 +20,6 @@ TRIVEAT is a house and afro house artist based in Mexico, tracked on soundcheck,
 
 ## Shares bills with
 
-Cinema Paradisco, Dani Barbosa, Jasym
+Andrreas, Cinema Paradisco, Dani Barbosa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/triveat/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/triveat/)*

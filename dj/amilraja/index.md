@@ -1,8 +1,8 @@
 # amil raja
 
-amil raja is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ääniwalli, Helsinki on Sat, 3 Oct 2026.
+amil raja is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ääniwalli, Helsinki on Sat, 3 Oct 2026.
 
-amil raja is a techno and club artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona, Brussels and Helsinki and 3 more. Often billed alongside The Twins (waitareyoutwins), 10cust and Ali RQ. Next up: Ääniwalli, Helsinki on Sat 3 Oct.
+amil raja is a techno and club artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Barcelona, Brussels and Helsinki and 3 more. Often billed alongside The Twins (waitareyoutwins), 10cust and Aleman Beatz. Next up: Ääniwalli, Helsinki on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -26,6 +26,6 @@ amil raja is a techno and club artist based in Netherlands, tracked on soundchec
 
 ## Shares bills with
 
-The Twins (waitareyoutwins), 10cust, Ali RQ
+The Twins (waitareyoutwins), 10cust, Aleman Beatz
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/amilraja/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/amilraja/)*

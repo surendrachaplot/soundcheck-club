@@ -1,6 +1,6 @@
 # aksendo
 
-aksendo is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Bulbul Berlin, Berlin on Thu, 15 Oct 2026.
+aksendo is a House and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bulbul Berlin, Berlin on Thu, 15 Oct 2026.
 
 aksendo is a house and club artist based in Lithuania, tracked on soundcheck, with 3 sets logged across Amsterdam and Berlin. Often billed alongside Jana Vitiligo, Mum & Dad (BE) and STVNS. Next up: Bulbul Berlin, Berlin on Thu 15 Oct.
 
@@ -16,4 +16,4 @@ aksendo is a house and club artist based in Lithuania, tracked on soundcheck, wi
 
 Jana Vitiligo, Mum & Dad (BE), STVNS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aksendo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aksendo/)*

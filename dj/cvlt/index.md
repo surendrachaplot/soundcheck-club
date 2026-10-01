@@ -1,6 +1,6 @@
 # CVLT
 
-CVLT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 宀 Club, Hong Kong on Sat, 17 Oct 2026.
+CVLT is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 宀 Club, Hong Kong on Sat, 17 Oct 2026.
 
 CVLT is a house and techno artist based in Portugal, tracked on soundcheck, with 45 sets logged across Brussels, Hong Kong, Lisbon and Madrid and 3 more. Often billed alongside Capablanca, Thiago Guiselini and Telma. Next up: 宀 Club, Hong Kong on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ CVLT is a house and techno artist based in Portugal, tracked on soundcheck, with
 
 Capablanca, Thiago Guiselini, Telma
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cvlt/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cvlt/)*

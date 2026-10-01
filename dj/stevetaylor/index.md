@@ -1,14 +1,15 @@
 # Steve Taylor
 
-Steve Taylor is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Grand Café Heineken Hoek, Amsterdam on Sat, 24 Oct 2026.
+Steve Taylor is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Grand Café Heineken Hoek, Amsterdam on Sat, 24 Oct 2026.
 
-Steve Taylor is a house and disco artist based in United Kingdom, tracked on soundcheck, with 30 sets logged across Amsterdam, Barcelona, London and Los Angeles and 1 more. Often billed alongside Richard Earnshaw, Bongo Ben and Todd Terry. Next up: Grand Café Heineken Hoek, Amsterdam on Sat 24 Oct.
+Steve Taylor is a house and disco artist based in United Kingdom, tracked on soundcheck, with 31 sets logged across Amsterdam, Barcelona, London and Los Angeles and 1 more. Often billed alongside Richard Earnshaw, Bongo Ben and Todd Terry. Next up: Grand Café Heineken Hoek, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Grand Café Heineken Hoek | Amsterdam |
+| Sat, 31 Oct 2026 | The Broadcaster | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Steve Taylor is a house and disco artist based in United Kingdom, tracked on sou
 
 Richard Earnshaw, Bongo Ben, Todd Terry
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stevetaylor/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stevetaylor/)*

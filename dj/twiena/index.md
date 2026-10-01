@@ -1,8 +1,8 @@
 # TWIENA
 
-TWIENA is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
+TWIENA is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sidney Myer Music Bowl, Melbourne on Sat, 3 Oct 2026.
 
-TWIENA is a techno and house artist based in Netherlands, tracked on soundcheck, with 123 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Doppelgang, Mary Lake and Faustin (NL). Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
+TWIENA is a techno and house artist based in Netherlands, tracked on soundcheck, with 124 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 12 more. Often billed alongside Doppelgang, Mary Lake and Faustin (NL). Next up: Sidney Myer Music Bowl, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ TWIENA is a techno and house artist based in Netherlands, tracked on soundcheck,
 | Fri, 23 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 24 Oct 2026 | De Fik Garden | Amsterdam |
 | Sat, 7 Nov 2026 | export | Rotterdam |
+| Sat, 14 Nov 2026 | BRET | Amsterdam |
 
 ## Recently played
 
@@ -30,4 +31,4 @@ TWIENA is a techno and house artist based in Netherlands, tracked on soundcheck,
 
 Doppelgang, Mary Lake, Faustin (NL)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twiena/)*

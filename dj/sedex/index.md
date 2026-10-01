@@ -1,6 +1,6 @@
 # Sedex
 
-Sedex is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Greyhound, London on Sat, 31 Oct 2026.
+Sedex is a Trance and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Greyhound, London on Sat, 31 Oct 2026.
 
 Sedex is a trance and progressive house artist based in Turkey, tracked on soundcheck, with 15 sets logged across London. Often billed alongside FITS ME FUNNY, A.L.F and Helios Manoeuvres. Next up: The Greyhound, London on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ Sedex is a trance and progressive house artist based in Turkey, tracked on sound
 
 FITS ME FUNNY, A.L.F, Helios Manoeuvres
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sedex/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sedex/)*

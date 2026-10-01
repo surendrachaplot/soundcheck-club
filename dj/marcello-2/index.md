@@ -1,14 +1,15 @@
 # Marcello (2)
 
-Marcello (2) is a House and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
+Marcello (2) is a House and Acid artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Saalbach-Hinterglemm, Austria on Thu, 10 Dec 2026.
 
-Marcello is a house and acid artist based in Italy, tracked on soundcheck, with 29 sets logged across Amsterdam, Austria, Berlin and Milan. Often billed alongside Nicola Mazzetti, Alexander Koning and Lucien Foort. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
+Marcello is a house and acid artist based in Italy, tracked on soundcheck, with 30 sets logged across Amsterdam, Austria, Berlin and Milan. Often billed alongside Nicola Mazzetti, Alexander Koning and Lucien Foort. Next up: Saalbach-Hinterglemm, Austria on Thu 10 Dec.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
+| Sat, 10 Apr 2027 | Thuishaven | Amsterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Marcello is a house and acid artist based in Italy, tracked on soundcheck, with 
 
 Nicola Mazzetti, Alexander Koning, Lucien Foort
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcello-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcello-2/)*

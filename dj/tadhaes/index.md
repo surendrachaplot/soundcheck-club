@@ -1,6 +1,6 @@
 # Tad Haes
 
-Tad Haes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Le Bain, New York City on Sat, 3 Oct 2026.
+Tad Haes is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Le Bain, New York City on Sat, 3 Oct 2026.
 
 Tad Haes is a house and techno artist tracked on soundcheck, with 9 sets logged across New York City. Often billed alongside DJ RuBot, Occupy The Disco and James Axon. Next up: Le Bain, New York City on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Tad Haes is a house and techno artist tracked on soundcheck, with 9 sets logged 
 
 DJ RuBot, Occupy The Disco, James Axon
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tadhaes/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tadhaes/)*

@@ -1,8 +1,8 @@
 # Nikolina
 
-Nikolina is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
+Nikolina is a Techno and Industrial artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - XOX Arena, Kuala Lumpur on Sat, 3 Oct 2026.
 
-Nikolina is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 113 sets logged across Amsterdam, Athens, Austin and Barcelona and 47 more. Often billed alongside Onlynumbers, Restricted and Azyr. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
+Nikolina is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 112 sets logged across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Restricted, Azyr and Onlynumbers. Next up: TBA - XOX Arena, Kuala Lumpur on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -24,14 +24,14 @@ Nikolina is a techno and industrial artist based in United Kingdom, tracked on s
 - Etko, Cyprus — Fri, 25 Sept 2026
 - Bootshaus, Cologne — Fri, 25 Sept 2026
 - Bootshaus, Cologne — Fri, 25 Sept 2026
-- TBA - Grand Parc Miribel Jonage, Lyon — Sat, 12 Sept 2026
 - TBA - TERMINAL SABADELL, Barcelona — Thu, 10 Sept 2026
 - Brooklyn Storehouse, New York City — Sun, 6 Sept 2026
 - ZEROTOKYO, Tokyo — Mon, 10 Aug 2026
 - TBA - Near Berlin (Secret Forest), Berlin — Thu, 6 Aug 2026
+- Boomerang Beach, The Hague — Sun, 2 Aug 2026
 
 ## Shares bills with
 
-Onlynumbers, Restricted, Azyr
+Restricted, Azyr, Onlynumbers
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nikolina/)*

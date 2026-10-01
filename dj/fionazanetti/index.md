@@ -1,13 +1,14 @@
 # Fiona Zanetti
 
-Fiona Zanetti is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Het Rijk van de Keizer, Amsterdam on Sat, 24 Oct 2026.
+Fiona Zanetti is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Station - Gare des Mines, Paris on Sat, 17 Oct 2026.
 
-Fiona Zanetti is a house and techno artist based in Switzerland, tracked on soundcheck, with 61 sets logged across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Simone de Kunovich, Gerd Janson and Helena Lauwaert. Next up: Het Rijk van de Keizer, Amsterdam on Sat 24 Oct.
+Fiona Zanetti is a house and techno artist based in Switzerland, tracked on soundcheck, with 62 sets logged across Amsterdam, Barcelona, Basel and Berlin and 17 more. Often billed alongside Simone de Kunovich, Gerd Janson and Helena Lauwaert. Next up: La Station - Gare des Mines, Paris on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | La Station - Gare des Mines | Paris |
 | Sat, 24 Oct 2026 | Het Rijk van de Keizer | Amsterdam |
 
 ## Recently played
@@ -25,4 +26,4 @@ Fiona Zanetti is a house and techno artist based in Switzerland, tracked on soun
 
 Simone de Kunovich, Gerd Janson, Helena Lauwaert
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fionazanetti/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fionazanetti/)*

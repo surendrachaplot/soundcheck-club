@@ -1,6 +1,6 @@
 # Polish Juke: Just Jukin' with Rhythm Baboon, Lux Familiar, Sayuri, PZG, Sknit, MPJ at underiolo
 
-Polish Juke: Just Jukin' with Rhythm Baboon, Lux Familiar, Sayuri, PZG, Sknit, MPJ at underiolo on Sat 3 Oct, Warsaw. 1 artist on the bill: Lux Familiar. Bass and Footwork. Preview the line-up and save it on soundcheck.
+Polish Juke: Just Jukin' with Rhythm Baboon, Lux Familiar, Sayuri, PZG, Sknit, MPJ at underiolo on Sat 3 Oct, Warsaw. 2 artists on the bill: Lux Familiar and S A Y U R I. Bass and Footwork. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,6 @@ Polish Juke: Just Jukin' with Rhythm Baboon, Lux Familiar, Sayuri, PZG, Sknit, M
 ## Line-up
 
 - Lux Familiar
+- S A Y U R I
 
 *Source: [soundcheck](https://soundcheck.club/e/2532349-polish-juke-just-jukin-with-rhythm-baboon-lux-familiar-sayur/)*

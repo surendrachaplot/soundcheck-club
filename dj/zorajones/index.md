@@ -1,6 +1,6 @@
 # Zora Jones
 
-Zora Jones is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Botanique, Brussels on Sat, 17 Oct 2026.
+Zora Jones is a Bass and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Botanique, Brussels on Sat, 17 Oct 2026.
 
 Zora Jones is a bass and experimental artist based in Spain, tracked on soundcheck, with 32 sets logged across Barcelona, Bristol, Brussels and Kyoto and 9 more. Often billed alongside Sinjin Hawke, Kode9 and Korea Town Acid. Next up: Botanique, Brussels on Sat 17 Oct.
 
@@ -26,4 +26,4 @@ Zora Jones is a bass and experimental artist based in Spain, tracked on soundche
 
 Sinjin Hawke, Kode9, Korea Town Acid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zorajones/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zorajones/)*

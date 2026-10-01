@@ -1,14 +1,15 @@
 # Delicious DJ
 
-Delicious DJ is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
+Delicious DJ is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 131 Mccormack St, Toronto on Sat, 3 Oct 2026.
 
-Delicious DJ is a house and disco artist based in Canada, tracked on soundcheck, with 27 sets logged across Toronto. Often billed alongside DR 4SKYN, Prince Batrick and XANGA. Next up: 131 Mccormack St, Toronto on Sat 3 Oct.
+Delicious DJ is a house and disco artist based in Canada, tracked on soundcheck, with 28 sets logged across Toronto. Often billed alongside DR 4SKYN, Prince Batrick and XANGA. Next up: 131 Mccormack St, Toronto on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | 131 Mccormack St | Toronto |
+| Fri, 9 Oct 2026 | The Garrison | Toronto |
 | Sat, 24 Oct 2026 | Cafeteria | Toronto |
 
 ## Recently played
@@ -26,4 +27,4 @@ Delicious DJ is a house and disco artist based in Canada, tracked on soundcheck,
 
 DR 4SKYN, Prince Batrick, XANGA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/deliciousdj/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/deliciousdj/)*

@@ -1,8 +1,8 @@
 # Lisa Mizuno
 
-Lisa Mizuno is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Enter Shibuya, Tokyo on Fri, 2 Oct 2026.
+Lisa Mizuno is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Enter Shibuya, Tokyo on Fri, 2 Oct 2026.
 
-Lisa Mizuno is a techno and house artist based in Japan, tracked on soundcheck, with 94 sets logged across Barcelona, Osaka, Seoul and Tokyo. Often billed alongside DANA NADA, YANNY and DANDAN. Next up: Enter Shibuya, Tokyo on Fri 2 Oct.
+Lisa Mizuno is a techno and house artist based in Japan, tracked on soundcheck, with 95 sets logged across Barcelona, Osaka, Seoul and Tokyo. Often billed alongside DANA NADA, YANNY and DANDAN. Next up: Enter Shibuya, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lisa Mizuno is a techno and house artist based in Japan, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Enter Shibuya | Tokyo |
 | Sat, 17 Oct 2026 | R Lounge | Tokyo |
+| Sat, 24 Oct 2026 | TBA - somewhere in nishiazabu | Tokyo |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Lisa Mizuno is a techno and house artist based in Japan, tracked on soundcheck, 
 
 DANA NADA, YANNY (1), DANDAN
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamizuno/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lisamizuno/)*

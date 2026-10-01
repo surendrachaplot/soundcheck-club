@@ -1,6 +1,6 @@
 # Fosil
 
-Fosil is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Oldskool , Istanbul on Sat, 3 Oct 2026.
+Fosil is a Bass and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Oldskool , Istanbul on Sat, 3 Oct 2026.
 
 Fosil is a bass and breakbeat artist based in Turkey, tracked on soundcheck, with 30 sets logged across Bangkok, Istanbul, Prague and Tbilisi and 1 more. Often billed alongside Granul, jtamul and Chaos In The CBD. Next up: TBA - Oldskool , Istanbul on Sat 3 Oct.
 
@@ -25,4 +25,4 @@ Fosil is a bass and breakbeat artist based in Turkey, tracked on soundcheck, wit
 
 Granul, jtamul, Chaos In The CBD
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fosil/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fosil/)*

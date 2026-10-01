@@ -1,6 +1,6 @@
 # The Middle East
 
-The Middle East is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "KiKi at the Corner: JOCK JAMS" on Fri, 2 Oct 2026.
+The Middle East is a music venue in Boston with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "KiKi at the Corner: JOCK JAMS" on Fri, 2 Oct 2026.
 
 The Middle East is a music venue in Boston listed on soundcheck. 2 upcoming gigs, with line-ups including DJ DONUTS - Boston, Ma and Phibonacci. Browse upcoming dates, start times and who's playing. 472-480 Massachusetts Avenue; Cambridge, MA 02139; United States.
 
@@ -15,4 +15,4 @@ The Middle East is a music venue in Boston listed on soundcheck. 2 upcoming gigs
 
 472-480 Massachusetts Avenue; Cambridge, MA 02139; United States, Boston
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-middle-east/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/boston/club/the-middle-east/)*

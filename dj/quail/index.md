@@ -1,6 +1,6 @@
 # Quail
 
-Quail is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Stereo, Glasgow on Fri, 9 Oct 2026.
+Quail is a Techno and Industrial artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Stereo, Glasgow on Fri, 9 Oct 2026.
 
 Quail is a techno and industrial artist based in United Kingdom, tracked on soundcheck, with 55 sets logged across Edinburgh, Glasgow and Leeds. Often billed alongside LAZLO, AXION and AISHA. Next up: Stereo, Glasgow on Fri 9 Oct.
 
@@ -28,4 +28,4 @@ Quail is a techno and industrial artist based in United Kingdom, tracked on soun
 
 LAZLO, AXION, AISHA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quail/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quail/)*

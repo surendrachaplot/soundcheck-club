@@ -1,17 +1,18 @@
 # Laenk
 
-Laenk is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Loop51, Amsterdam on Sat, 24 Oct 2026.
+Laenk is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Loop51, Amsterdam on Sat, 24 Oct 2026.
 
-Laenk is a disco and house artist based in Germany, tracked on soundcheck, with 1 set logged across Amsterdam. Often billed alongside Chudix, Emma Champagne Queen and Heritage Listed. Next up: Loop51, Amsterdam on Sat 24 Oct.
+Laenk is a house and disco artist based in Germany, tracked on soundcheck, with 2 sets logged across Amsterdam and Stuttgart. Often billed alongside Chudix, Emma Champagne Queen and Femcat. Next up: Loop51, Amsterdam on Sat 24 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | Loop51 | Amsterdam |
+| Sat, 7 Nov 2026 | Romantica | Stuttgart |
 
 ## Shares bills with
 
-Chudix, Emma Champagne Queen, Heritage Listed
+Chudix, Emma Champagne Queen, Femcat
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/laenk/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/laenk/)*

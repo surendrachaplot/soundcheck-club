@@ -1,15 +1,18 @@
 # Tonbo
 
-Tonbo is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at or, Tokyo on Sun, 4 Oct 2026.
+Tonbo is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at INN The Park Fukuoka, Kyushu on Fri, 2 Oct 2026.
 
-Tonbo is a techno and house artist based in Japan, tracked on soundcheck, with 37 sets logged across Berlin, Osaka and Tokyo. Often billed alongside Nory Kimijima, REO MATSUMOTO and SATICA. Next up: or, Tokyo on Sun 4 Oct.
+Tonbo is a techno and house artist based in Japan, tracked on soundcheck, with 40 sets logged across Bangkok, Berlin, Kanto and Kyushu and 2 more. Often billed alongside Nory Kimijima, Sunga and REO MATSUMOTO. Next up: INN The Park Fukuoka, Kyushu on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | INN The Park Fukuoka | Kyushu |
 | Sun, 4 Oct 2026 | or | Tokyo |
 | Fri, 9 Oct 2026 | WOMB | Tokyo |
+| Sun, 11 Oct 2026 | Land Knot | Kanto |
+| Sat, 17 Oct 2026 | Bar Temp. | Bangkok |
 
 ## Recently played
 
@@ -24,6 +27,6 @@ Tonbo is a techno and house artist based in Japan, tracked on soundcheck, with 3
 
 ## Shares bills with
 
-Nory Kimijima, REO MATSUMOTO, SATICA
+Nory Kimijima, Sunga, REO MATSUMOTO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tonbo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tonbo/)*

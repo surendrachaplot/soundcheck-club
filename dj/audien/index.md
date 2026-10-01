@@ -1,14 +1,15 @@
 # Audien
 
-Audien is a Progressive House and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Midway, San Francisco/Oakland on Fri, 9 Oct 2026.
+Audien is a Progressive House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Midway, San Francisco/Oakland on Fri, 9 Oct 2026.
 
-Audien is a progressive house and house artist based in Germany, tracked on soundcheck, with 30 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside DJ Snake, Kaskade and Oliver Heldens. Next up: The Midway, San Francisco/Oakland on Fri 9 Oct.
+Audien is a progressive house and house artist based in Germany, tracked on soundcheck, with 31 sets logged across Austin, Boston, Chicago and Denver and 13 more. Often billed alongside DJ Snake, Kaskade and Oliver Heldens. Next up: The Midway, San Francisco/Oakland on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Midway | San Francisco/Oakland |
+| Sat, 21 Nov 2026 | The Church Nightclub | Denver |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Audien is a progressive house and house artist based in Germany, tracked on soun
 
 DJ Snake, Kaskade, Oliver Heldens
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/audien/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/audien/)*

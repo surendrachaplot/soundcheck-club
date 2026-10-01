@@ -1,8 +1,8 @@
 # Tiga
 
-Tiga is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tama, Poznan on Fri, 2 Oct 2026.
+Tiga is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tama, Poznan on Fri, 2 Oct 2026.
 
-Tiga is a techno and house artist based in Canada, tracked on soundcheck, with 123 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 43 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Tama, Poznan on Fri 2 Oct.
+Tiga is a techno and house artist based in Canada, tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Barcelona and Belgrade and 43 more. Often billed alongside DJ Holographic, DJ Tennis and KI/KI. Next up: Tama, Poznan on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,7 +19,7 @@ Tiga is a techno and house artist based in Canada, tracked on soundcheck, with 1
 | Fri, 13 Nov 2026 | Parque Fundidora | Monterrey |
 | Fri, 20 Nov 2026 | Laska V21 | Riga |
 | Sat, 21 Nov 2026 | TBA - Brussels | Brussels |
-| Fri, 18 Dec 2026 | 104 CENTQUATRE | Paris |
+| Fri, 27 Nov 2026 | Ace*Mission Studios | Los Angeles |
 
 ## Recently played
 
@@ -36,4 +36,4 @@ Tiga is a techno and house artist based in Canada, tracked on soundcheck, with 1
 
 DJ Holographic, DJ Tennis, KI/KI
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiga/)*

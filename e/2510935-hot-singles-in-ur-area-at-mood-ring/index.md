@@ -1,6 +1,6 @@
 # Hot Singles In Ur Area at Mood Ring
 
-Hot Singles In Ur Area at Mood Ring on Sat 3 Oct, New York City. 5 artists on the bill: BUNZ, cry$cross, DJ Ant (US) and PUFF and 1 more. Preview the line-up and save it on soundcheck.
+Hot Singles In Ur Area at Mood Ring on Sat 3 Oct, New York City. 4 artists on the bill: BUNZ, cry$cross, DJ Ant (US) and Suasimodo. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,6 @@ Hot Singles In Ur Area at Mood Ring on Sat 3 Oct, New York City. 5 artists on th
 - BUNZ
 - cry$cross
 - DJ Ant (US)
-- PUFF
 - Suasimodo
 
 *Source: [soundcheck](https://soundcheck.club/e/2510935-hot-singles-in-ur-area-at-mood-ring/)*

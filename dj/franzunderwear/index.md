@@ -1,18 +1,21 @@
 # Franz Scala
 
-Franz Scala is a Italo Disco and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at OXI, Berlin on Fri, 9 Oct 2026.
+Franz Scala is a Italo Disco and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ciao ciao Bar, Berlin on Fri, 2 Oct 2026.
 
-Franz Scala is an italo disco and house artist based in Italy, tracked on soundcheck, with 168 sets logged across Amsterdam, Antwerp, Austin and Bangkok and 26 more. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Paty Vapor. Next up: OXI, Berlin on Fri 9 Oct.
+Franz Scala is an italo disco and house artist based in Italy, tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Austin and 27 more. Often billed alongside Fabrizio Mammarella, Giulia Gutterer and Paty Vapor. Next up: ciao ciao Bar, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | ciao ciao Bar | Berlin |
 | Fri, 9 Oct 2026 | OXI | Berlin |
 | Fri, 9 Oct 2026 | Bohnengold | Berlin |
 | Sat, 10 Oct 2026 | B-SIDE | Warsaw |
 | Sun, 11 Oct 2026 | Hoppetosse | Berlin |
 | Sat, 24 Oct 2026 | Kater | Berlin |
+| Sat, 7 Nov 2026 | Romantso | Athens |
+| Fri, 20 Nov 2026 | The Buzz | Berlin |
 
 ## Recently played
 
@@ -29,4 +32,4 @@ Franz Scala is an italo disco and house artist based in Italy, tracked on soundc
 
 Fabrizio Mammarella, Giulia Gutterer, Paty Vapor
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/franzunderwear/)*

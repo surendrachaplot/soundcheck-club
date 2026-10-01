@@ -1,13 +1,14 @@
 # Jay Luna
 
-Jay Luna is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Subcero Club, Madrid on Fri, 30 Oct 2026.
+Jay Luna is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Barco Sound House, Madrid on Fri, 2 Oct 2026.
 
-Jay Luna is a house and disco artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona, Budapest, London and Madrid and 2 more. Often billed alongside Hugo Carter, Cabin Luv Affair and Yahaira. Next up: Subcero Club, Madrid on Fri 30 Oct.
+Jay Luna is a house and disco artist based in Spain, tracked on soundcheck, with 29 sets logged across Barcelona, Budapest, London and Madrid and 2 more. Often billed alongside Hugo Carter, Cabin Luv Affair and Yahaira. Next up: Barco Sound House, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Barco Sound House | Madrid |
 | Fri, 30 Oct 2026 | Subcero Club | Madrid |
 
 ## Recently played
@@ -25,4 +26,4 @@ Jay Luna is a house and disco artist based in Spain, tracked on soundcheck, with
 
 Hugo Carter, Cabin Luv Affair, Yahaira
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jayluna/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jayluna/)*

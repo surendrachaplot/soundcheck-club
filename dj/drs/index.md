@@ -1,6 +1,6 @@
 # DRS
 
-DRS is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hare & Hounds, Birmingham on Sat, 3 Oct 2026.
+DRS is a Drum & Bass and Jungle artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hare & Hounds, Birmingham on Sat, 3 Oct 2026.
 
 DRS is a drum & bass and jungle artist based in United Kingdom, tracked on soundcheck, with 87 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 26 more. Often billed alongside LSB, dogger and LSB (UK). Next up: Hare & Hounds, Birmingham on Sat 3 Oct.
 
@@ -31,4 +31,4 @@ DRS is a drum & bass and jungle artist based in United Kingdom, tracked on sound
 
 LSB, dogger, LSB (UK)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/drs/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/drs/)*

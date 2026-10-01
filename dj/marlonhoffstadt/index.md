@@ -1,6 +1,6 @@
 # Marlon Hoffstadt
 
-Marlon Hoffstadt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
+Marlon Hoffstadt is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Loft Amsterdam, Amsterdam on Thu, 22 Oct 2026.
 
 Marlon Hoffstadt is a techno and house artist based in Germany, tracked on soundcheck, with 127 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 45 more. Often billed alongside MALUGI, Surf 2 Glory and I Hate Models. Next up: The Loft Amsterdam, Amsterdam on Thu 22 Oct.
 
@@ -26,4 +26,4 @@ Marlon Hoffstadt is a techno and house artist based in Germany, tracked on sound
 
 MALUGI, Surf 2 Glory, I Hate Models
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonhoffstadt/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marlonhoffstadt/)*

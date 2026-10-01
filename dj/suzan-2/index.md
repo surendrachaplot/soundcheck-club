@@ -1,14 +1,15 @@
 # SUZAN (2)
 
-SUZAN (2) is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at vurt., Seoul on Sat, 10 Oct 2026.
+SUZAN (2) is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at vurt., Seoul on Sat, 10 Oct 2026.
 
-SUZAN is a techno and house artist based in South Korea, tracked on soundcheck, with 31 sets logged across Seoul. Often billed alongside ANSOL, Djilogue and SJK. Next up: vurt., Seoul on Sat 10 Oct.
+SUZAN is a techno and house artist based in South Korea, tracked on soundcheck, with 32 sets logged across Seoul. Often billed alongside ANSOL, Djilogue and SJK. Next up: vurt., Seoul on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | vurt. | Seoul |
+| Sat, 31 Oct 2026 | vurt. | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SUZAN is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 ANSOL, Djilogue, SJK (1)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suzan-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suzan-2/)*

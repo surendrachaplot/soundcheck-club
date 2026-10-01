@@ -1,6 +1,6 @@
 # PAUZA
 
-PAUZA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
+PAUZA is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Happy Bay Beach, Saint-martin on Wed, 17 Mar 2027.
 
 PAUZA is a house and techno artist based in Cuba, tracked on soundcheck, with 46 sets logged across Antwerp, Barcelona, Basel and Brussels and 15 more. Often billed alongside Carl Cox, fajardo and jose fajardo. Next up: Happy Bay Beach, Saint Martin on Wed 17 Mar.
 
@@ -25,4 +25,4 @@ PAUZA is a house and techno artist based in Cuba, tracked on soundcheck, with 46
 
 Carl Cox, fajardo, jose fajardo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauza/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pauza/)*

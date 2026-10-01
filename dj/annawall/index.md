@@ -1,6 +1,6 @@
 # Anna Wall
 
-Anna Wall is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at KPGT, Belgrade on Fri, 2 Oct 2026.
+Anna Wall is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KPGT, Belgrade on Fri, 2 Oct 2026.
 
 Anna Wall is a house and techno artist based in United Kingdom, tracked on soundcheck, with 118 sets logged across Amsterdam, Antwerp, Barcelona and Belgrade and 24 more. Often billed alongside Craig Richards, Harry McCanna and Bobby.. Next up: KPGT, Belgrade on Fri 2 Oct.
 
@@ -31,4 +31,4 @@ Anna Wall is a house and techno artist based in United Kingdom, tracked on sound
 
 Craig Richards, Harry McCanna, Bobby.
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annawall/)*

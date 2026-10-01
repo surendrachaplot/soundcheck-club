@@ -1,8 +1,8 @@
 # Electric Brixton
 
-Electric Brixton is a music venue in London with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "WE Pink: Prison" on Sat, 3 Oct 2026.
+Electric Brixton is a music venue in London with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "WE Pink: Prison" on Sat, 3 Oct 2026.
 
-Electric Brixton is a music venue in London listed on soundcheck. 7 upcoming gigs, with line-ups including Alex Farell, DJ EZ, Eli Brown and Linska and 2 more. Browse upcoming dates, start times and who's playing. Town Hall Parade; Brixton; London SW2 1RJ; United Kingdom.
+Electric Brixton is a music venue in London listed on soundcheck. 8 upcoming gigs, with line-ups including Ahadadream, Alex Farell, DJ EZ and Donae'o and 2 more. Browse upcoming dates, start times and who's playing. Town Hall Parade; Brixton; London SW2 1RJ; United Kingdom.
 
 ## What's on
 
@@ -11,8 +11,9 @@ Electric Brixton is a music venue in London listed on soundcheck. 7 upcoming gig
 | Sat, 3 Oct 2026 | WE Pink: Prison |  |
 | Fri, 30 Oct 2026 | The London Halloween Ball 2026 Live From Electric Brixton |  |
 | Fri, 13 Nov 2026 | 4by4: DJ EZ, Todd Edwards, MJ Cole, Matt Jam Lamont  | DJ EZ, MJ Cole, Matt Jam Lamont, Todd Edwards |
-| Sat, 14 Nov 2026 | DJ EZ - Electric Brixton Part 2 - Soundz of London | DJ EZ |
+| Sat, 14 Nov 2026 | DJ EZ, Donae'o, Slimzee & Roll Deep, Kenny Ken - Soundz of London  | DJ EZ, Donae'o, Kenny Ken, Roll Deep, Slimzee |
 | Sat, 21 Nov 2026 | Eli Brown: Panick Attack Tour | Alex Farell, Eli Brown, Linska, Roxie Li |
+| Fri, 27 Nov 2026 | Ahadadream | Ahadadream |
 | Sat, 5 Dec 2026 | Miss Bashful (Live): The Glamour Snobby Tour | Miss Bashful |
 | Sat, 5 Dec 2026 | 35 Years of The Ragga Twins - London | The Ragga Twins |
 
@@ -20,4 +21,4 @@ Electric Brixton is a music venue in London listed on soundcheck. 7 upcoming gig
 
 Town Hall Parade; Brixton; London SW2 1RJ; United Kingdom, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-brixton/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/electric-brixton/)*

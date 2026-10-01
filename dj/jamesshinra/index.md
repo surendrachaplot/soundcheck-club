@@ -1,6 +1,6 @@
 # James Shinra
 
-James Shinra is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Secret Location, London on Sat, 24 Oct 2026.
+James Shinra is a Electro and Breakbeat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Secret Location, London on Sat, 24 Oct 2026.
 
 James Shinra is an electro and breakbeat artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Amsterdam, Bristol, Dublin and London and 6 more. Often billed alongside Alien Communications, Andelet3 and Andy Garvey. Next up: Secret Location, London on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ James Shinra is an electro and breakbeat artist based in United Kingdom, tracked
 
 Alien Communications, Andelet3, Andy Garvey
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesshinra/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesshinra/)*

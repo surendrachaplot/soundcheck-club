@@ -1,6 +1,6 @@
 # erika (SF)
 
-erika (SF) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at YuYu Cine Club, Mexico City on Fri, 16 Oct 2026.
+erika (SF) is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at YuYu Cine Club, Mexico City on Fri, 16 Oct 2026.
 
 erika (SF) is a club and techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Chicago, Los Angeles, Mexico City and New York City and 1 more. Often billed alongside sfcowboy, moth (US) and Lexicon. Next up: YuYu Cine Club, Mexico City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ erika (SF) is a club and techno artist based in United States of America, tracke
 
 sfcowboy, moth (US), Lexicon
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erika-sf/)*

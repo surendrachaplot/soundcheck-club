@@ -1,17 +1,19 @@
 # Sektor 6D
 
-Sektor 6D is a music venue in Warsaw with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Verknipt Poland" on Fri, 9 Oct 2026.
+Sektor 6D is a music venue in Warsaw with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Unsound Warszawa 2026: Arca presents AIRDOLL - Arca / Bobby Beethoven / KAVARI / Mica Levi" on Sat, 3 Oct 2026.
 
-Sektor 6D is a music venue in Warsaw listed on soundcheck. 1 upcoming gig, with line-ups including Fantasm, KARAH, Katy Rough and LIEKS and 1 more. Browse upcoming dates, start times and who's playing. Modlińska 6D, Warsaw 03-216, Poland.
+Sektor 6D is a music venue in Warsaw listed on soundcheck. 3 upcoming gigs, with line-ups including 2K88, Arca, Fantasm and KARAH and 2 more. Browse upcoming dates, start times and who's playing. Modlińska 6D, Warsaw 03-216, Poland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Unsound Warszawa 2026: Arca presents AIRDOLL - Arca / Bobby Beethoven / KAVARI / Mica Levi | 2K88, Arca, KAVARI, Mica Levi |
+| Fri, 9 Oct 2026 | VERKNIPT Poland - Warsaw - 9 October | Fantasm, KARAH, Katy Rough, LIEKS, NEGITIV |
 | Fri, 9 Oct 2026 | Verknipt Poland | Fantasm, KARAH, Katy Rough, LIEKS, NEGITIV |
 
 ## Address
 
 Modlińska 6D, Warsaw 03-216, Poland, Warsaw
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/sektor-6d/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/warsaw/club/sektor-6d/)*

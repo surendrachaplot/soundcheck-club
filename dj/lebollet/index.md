@@ -1,14 +1,14 @@
 # lebollet
 
-lebollet is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Subcero Club, Madrid on Fri, 9 Oct 2026.
+lebollet is a House and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Muller Bar, Madrid on Fri, 2 Oct 2026.
 
-lebollet is a house and electronica artist based in Spain, tracked on soundcheck, with 67 sets logged across Barcelona, Madrid, Malaga and Mexico City. Often billed alongside Fuentes-Guerra, Toni Aparisi and Kamboya. Next up: Subcero Club, Madrid on Fri 9 Oct.
+lebollet is a house and electronica artist based in Spain, tracked on soundcheck, with 67 sets logged across Barcelona, Madrid, Malaga and Mexico City. Often billed alongside Fuentes-Guerra, Kamboya and Toni Aparisi. Next up: Muller Bar, Madrid on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | Subcero Club | Madrid |
+| Fri, 2 Oct 2026 | Muller Bar | Madrid |
 
 ## Recently played
 
@@ -23,6 +23,6 @@ lebollet is a house and electronica artist based in Spain, tracked on soundcheck
 
 ## Shares bills with
 
-Fuentes-Guerra, Toni Aparisi, Kamboya
+Fuentes-Guerra, Kamboya, Toni Aparisi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lebollet/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lebollet/)*

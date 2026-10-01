@@ -1,8 +1,8 @@
 # EIJI
 
-EIJI is a Drum & Bass and Jungle artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Dogenzaka Church, Tokyo on Sat, 10 Oct 2026.
+EIJI is a Drum & Bass and Jungle artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Dogenzaka Church, Tokyo on Sat, 10 Oct 2026.
 
-EIJI is a drum & bass and jungle artist based in Japan, tracked on soundcheck, with 8 sets logged across Melbourne and Tokyo. Often billed alongside vinylDJ Eiji Takehana, Kenta Tominaga and Hironobu Jyounai. Next up: Dogenzaka Church, Tokyo on Sat 10 Oct.
+EIJI is a drum & bass and jungle artist based in Japan, tracked on soundcheck, with 9 sets logged across Melbourne, Tokyo and Victoria. Often billed alongside vinylDJ Eiji Takehana, Kenta Tominaga and Hironobu Jyounai. Next up: Dogenzaka Church, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ EIJI is a drum & bass and jungle artist based in Japan, tracked on soundcheck, w
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Dogenzaka Church | Tokyo |
 | Sat, 31 Oct 2026 | Collingwood Children's Farm | Melbourne |
+| Fri, 6 Nov 2026 | TBA | Victoria |
 | Sat, 28 Nov 2026 | Adrift | Tokyo |
 
 ## Recently played
@@ -24,4 +25,4 @@ EIJI is a drum & bass and jungle artist based in Japan, tracked on soundcheck, w
 
 vinylDJ Eiji Takehana, Kenta Tominaga, Hironobu Jyounai
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/eiji/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eiji/)*

@@ -1,6 +1,6 @@
 # DJ LIGMA
 
-DJ LIGMA is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Coyote Studios, Los Angeles on Sat, 31 Oct 2026.
+DJ LIGMA is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Coyote Studios, Los Angeles on Sat, 31 Oct 2026.
 
 DJ LIGMA is a techno and ghetto tech artist tracked on soundcheck, with 36 sets logged across Austin, Chicago, Los Angeles and San Diego. Often billed alongside Oscar Osorio, Adrian Reyes and Flores Negras. Next up: Coyote Studios, Los Angeles on Sat 31 Oct.
 
@@ -25,4 +25,4 @@ DJ LIGMA is a techno and ghetto tech artist tracked on soundcheck, with 36 sets 
 
 Oscar Osorio, Adrian Reyes, Flores Negras
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djligma/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djligma/)*

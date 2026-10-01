@@ -1,6 +1,6 @@
 # WKND X USHA BERLIN at Weekend
 
-WKND X USHA BERLIN at Weekend on Fri 23 Oct, Berlin. 1 artist on the bill: Denno Matini. Techno and House. Preview the line-up and save it on soundcheck.
+WKND X USHA BERLIN at Weekend on Fri 23 Oct, Berlin. 4 artists on the bill: Denno Matini, Kodah, MUKKIMIAU and Omaro. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,5 +11,8 @@ WKND X USHA BERLIN at Weekend on Fri 23 Oct, Berlin. 1 artist on the bill: Denno
 ## Line-up
 
 - Denno Matini
+- Kodah
+- MUKKIMIAU
+- Omaro
 
 *Source: [soundcheck](https://soundcheck.club/e/2514041-wknd-x-usha-berlin-at-weekend/)*

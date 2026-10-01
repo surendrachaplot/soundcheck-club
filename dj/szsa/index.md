@@ -1,6 +1,6 @@
 # SZSA
 
-SZSA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at A75, Stockholm on Fri, 2 Oct 2026.
+SZSA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at A75, Stockholm on Fri, 2 Oct 2026.
 
 SZSA is a techno and house artist based in Brazil, tracked on soundcheck, with 11 sets logged across Stockholm. Often billed alongside Fasega, MarcoPellegrino and Claire Hardman. Next up: A75, Stockholm on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ SZSA is a techno and house artist based in Brazil, tracked on soundcheck, with 1
 
 Fasega, MarcoPellegrino, Claire Hardman
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/szsa/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/szsa/)*

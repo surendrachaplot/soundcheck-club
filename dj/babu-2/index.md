@@ -1,0 +1,25 @@
+# babu (2)
+
+babu (2) is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bossa Nova Civic Club, New-york-city on Thu, 22 Oct 2026.
+
+babu is a club and experimental artist based in United States of America, tracked on soundcheck, with 6 sets logged across Berlin and New York City. Often billed alongside Bodegaparty, DJ Trade Trainer and Feonix. Next up: Bossa Nova Civic Club, New York City on Thu 22 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Thu, 22 Oct 2026 | Bossa Nova Civic Club | New-york-city |
+
+## Recently played
+
+- Bossa Nova Civic Club, New York City — Fri, 28 Aug 2026
+- Kwia, Berlin — Wed, 15 Jul 2026
+- Bossa Nova Civic Club, New York City — Tue, 5 May 2026
+- Honey's, New York City — Fri, 17 Apr 2026
+- Bossa Nova Civic Club, New York City — Wed, 8 Apr 2026
+
+## Shares bills with
+
+Bodegaparty, DJ Trade Trainer, Feonix (2)
+
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/babu-2/)*

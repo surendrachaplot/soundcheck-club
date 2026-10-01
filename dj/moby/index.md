@@ -1,6 +1,6 @@
 # Moby
 
-Moby is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Brookside at the Rose Bowl, Los Angeles on Sat, 7 Nov 2026.
+Moby is a Electronica and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brookside at the Rose Bowl, Los Angeles on Sat, 7 Nov 2026.
 
 Moby is an electronica and progressive house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Bangkok, Berlin, London and Los Angeles and 1 more. Often billed alongside DJ Holographic, FCUKERS and Nia Archives. Next up: Brookside at the Rose Bowl, Los Angeles on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ Moby is an electronica and progressive house artist based in United States of Am
 
 DJ Holographic, FCUKERS, Nia Archives
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/moby/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/moby/)*

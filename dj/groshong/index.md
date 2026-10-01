@@ -1,13 +1,14 @@
 # Groshong
 
-Groshong is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Process PDX, Portland on Wed, 25 Nov 2026.
+Groshong is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Sonder Bar, Portland on Sun, 4 Oct 2026.
 
-Groshong is a house and deep house artist based in United States of America, tracked on soundcheck, with 8 sets logged across Portland. Often billed alongside 8maos, Ben Tactic and Carly Barton. Next up: Process PDX, Portland on Wed 25 Nov.
+Groshong is a house and deep house artist based in United States of America, tracked on soundcheck, with 9 sets logged across Portland. Often billed alongside 8maos, Ben Tactic and Carly Barton. Next up: The Sonder Bar, Portland on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | The Sonder Bar | Portland |
 | Wed, 25 Nov 2026 | Process PDX | Portland |
 
 ## Recently played
@@ -24,4 +25,4 @@ Groshong is a house and deep house artist based in United States of America, tra
 
 8maos, Ben Tactic, Carly Barton
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/groshong/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/groshong/)*

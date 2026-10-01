@@ -1,8 +1,8 @@
 # Stephanie Sykes
 
-Stephanie Sykes is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lehmann Club, Stuttgart on Sat, 3 Oct 2026.
+Stephanie Sykes is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lehmann Club, Stuttgart on Sat, 3 Oct 2026.
 
-Stephanie Sykes is a techno and house artist based in United Kingdom, tracked on soundcheck, with 137 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Remco Beekwilder, Beau Didier and Grace Dahl. Next up: Lehmann Club, Stuttgart on Sat 3 Oct.
+Stephanie Sykes is a techno and house artist based in United Kingdom, tracked on soundcheck, with 138 sets logged across Amsterdam, Athens, Barcelona and Berlin and 39 more. Often billed alongside Remco Beekwilder, Beau Didier and Grace Dahl. Next up: Lehmann Club, Stuttgart on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Stephanie Sykes is a techno and house artist based in United Kingdom, tracked on
 | Sat, 10 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 17 Oct 2026 | CLUB RAUM | Amsterdam |
 | Sat, 28 Nov 2026 | Argyle Arcade (Buchanan Street Entrance) | Glasgow |
+| Sat, 23 Jan 2027 | ://about blank | Berlin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Stephanie Sykes is a techno and house artist based in United Kingdom, tracked on
 
 Remco Beekwilder, Beau Didier, Grace Dahl
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/stephaniesykes/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/stephaniesykes/)*

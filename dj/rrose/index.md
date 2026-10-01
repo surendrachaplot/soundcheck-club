@@ -1,14 +1,13 @@
 # Rrose
 
-Rrose is a Techno and Experimental artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Konzerthaus Berlin, Berlin on Wed, 30 Sept 2026.
+Rrose is a Techno and Experimental artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Podlasie Club, Chicago on Fri, 2 Oct 2026.
 
-Rrose is a techno and experimental artist based in United States of America, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Wata Igarashi, DJ Nobu and Polygonia. Next up: Konzerthaus Berlin, Berlin on Wed 30 Sept.
+Rrose is a techno and experimental artist based in United States of America, tracked on soundcheck, with 147 sets logged across Amsterdam, Athens, Barcelona and Basel and 45 more. Often billed alongside Wata Igarashi, DJ Nobu and Polygonia. Next up: Podlasie Club, Chicago on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Konzerthaus Berlin | Berlin |
 | Fri, 2 Oct 2026 | Podlasie Club | Chicago |
 | Sat, 3 Oct 2026 | TBA - Brooklyn | New York City |
 | Sat, 10 Oct 2026 | SMUT Athens | Athens |
@@ -23,6 +22,7 @@ Rrose is a techno and experimental artist based in United States of America, tra
 
 ## Recently played
 
+- Konzerthaus Berlin, Berlin — Wed, 30 Sept 2026
 - TBA - Los Angeles, Los Angeles — Fri, 25 Sept 2026
 - TBA - Los Angeles, Los Angeles — Fri, 25 Sept 2026
 - The Lab, San Francisco/Oakland — Thu, 24 Sept 2026
@@ -30,10 +30,9 @@ Rrose is a techno and experimental artist based in United States of America, tra
 - vurt., Seoul — Sat, 5 Sept 2026
 - The Glove That Fits, London — Sat, 22 Aug 2026
 - Berghain | Panorama Bar | Säule, Berlin — Fri, 14 Aug 2026
-- Nowadays, New York City — Sat, 1 Aug 2026
 
 ## Shares bills with
 
 Wata Igarashi, DJ Nobu, Polygonia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rrose/)*

@@ -1,14 +1,15 @@
 # Rey Colino
 
-Rey Colino is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at CLUB RAUM, Amsterdam on Sat, 3 Oct 2026.
+Rey Colino is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at CLUB RAUM, Amsterdam on Sat, 3 Oct 2026.
 
-Rey Colino is a techno and house artist based in Belgium, tracked on soundcheck, with 108 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 32 more. Often billed alongside Spray, Roza Terenzi and Eversines. Next up: CLUB RAUM, Amsterdam on Sat 3 Oct.
+Rey Colino is a techno and house artist based in Belgium, tracked on soundcheck, with 109 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 33 more. Often billed alongside Spray, Roza Terenzi and Eversines. Next up: CLUB RAUM, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | CLUB RAUM | Amsterdam |
+| Fri, 9 Oct 2026 | control | Bucharest |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sun, 25 Oct 2026 | Skatecafe | Amsterdam |
 
@@ -27,4 +28,4 @@ Rey Colino is a techno and house artist based in Belgium, tracked on soundcheck,
 
 Spray, Roza Terenzi, Eversines
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reycolino/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reycolino/)*

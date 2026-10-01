@@ -1,6 +1,6 @@
 # Pegassi
 
-Pegassi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
+Pegassi is a Techno and Trance artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nitsa Club, Barcelona on Fri, 2 Oct 2026.
 
 Pegassi is a techno and trance artist based in Belgium, tracked on soundcheck, with 176 sets logged across Aberdeen, Amsterdam, Antwerp and Barcelona and 49 more. Often billed alongside Helena Lauwaert, Anetha and Benwal. Next up: Nitsa Club, Barcelona on Fri 2 Oct.
 
@@ -36,4 +36,4 @@ Pegassi is a techno and trance artist based in Belgium, tracked on soundcheck, w
 
 Helena Lauwaert, Anetha, Benwal
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pegassi/)*

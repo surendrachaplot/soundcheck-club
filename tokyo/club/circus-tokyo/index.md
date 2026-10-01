@@ -1,8 +1,8 @@
 # Circus Tokyo
 
-Circus Tokyo is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Riordan CIRCUS Tokyo" on Thu, 1 Oct 2026.
+Circus Tokyo is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Riordan CIRCUS Tokyo" on Thu, 1 Oct 2026.
 
-Circus Tokyo is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including Kaibshr, Ben Sims, Blacky and Coretex and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
+Circus Tokyo is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including Kaibshr, Ben Sims, Blacky and cirra and 2 more. Browse upcoming dates, start times and who's playing. 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Circus Tokyo is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, w
 | Sat, 10 Oct 2026 | Otographic Live 2026 | Dominant Space, Shingo Nakamura |
 | Sat, 10 Oct 2026 | presented by WARRIOR  msft. TOKYO SHOW | msft |
 | Sun, 11 Oct 2026 | SPERA 0006 with Yant | TEI TEI, Uich, XINOVI, Yant, YuWa, k0v- |
+| Fri, 16 Oct 2026 | SIREN OF SOUL | DiscCampForest, FU (JP), JADALAREIGN, Kairi Komoda, Lapistar, Nari (2), Senma (DCF）, cirra |
 | Sat, 17 Oct 2026 | synts presents: Mietze Conte |  |
 | Sat, 31 Oct 2026 | RIP with Osmosis Jones | Osmosis Jones |
 | Tue, 3 Nov 2026 | (DnB) Formula Tokyo show by Beginning | Formula LDN, SAKO |
-| Sat, 14 Nov 2026 | Explosive in Tokyo | Coretex, Dustvoxx, Dynamax, Hayate (2) |
 
 ## Address
 
 3-26-16 Shibuya, Shibuya-ku, Tokyo, Japan, 150-0002, Tokyo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/circus-tokyo/)*

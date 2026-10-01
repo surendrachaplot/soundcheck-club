@@ -1,19 +1,19 @@
 # R Lounge
 
-R Lounge is a music venue in Tokyo with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "EXCLUSIVE MIDWEEK SESSION feat. Jody Wisternoff" on Wed, 30 Sept 2026.
+R Lounge is a music venue in Tokyo with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "BAPHO" on Thu, 1 Oct 2026.
 
-R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with line-ups including --- mr ---, 雷庵(RYan), AKIRAM EN and ASSIGN and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
+R Lounge is a music venue in Tokyo listed on soundcheck. 15 upcoming gigs, with line-ups including --- mr ---, 雷庵(RYan), AKIRAM EN and ASSIGN and 2 more. Browse upcoming dates, start times and who's playing. Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | EXCLUSIVE MIDWEEK SESSION feat. Jody Wisternoff | Jody Wisternoff, Shingo Nakamura, Ëmbyrblume |
 | Thu, 1 Oct 2026 | BAPHO | Can (8), HALU(Tribal Connection), 坂田律子 |
 | Sat, 3 Oct 2026 | RISE |  |
 | Mon, 5 Oct 2026 | VGM Sound Collision | --- mr --- |
 | Sun, 11 Oct 2026 | DefDistortion #121 -THE LEGENDS COME HOME- | Relect |
 | Sun, 11 Oct 2026 | UNCHARTED TIME | Mayuri, Shintarø Kanie, junkie babe |
+| Thu, 15 Oct 2026 | AXIS -新参者- | ATAMI, Hiro (JP) |
 | Fri, 16 Oct 2026 | Liminal Hour | tech-nas |
 | Sat, 17 Oct 2026 | R3FRACT presents: 1st Anniversary & Counter Attack | AKIRAM EN, Kazu, Lisa Mizuno, Mars89, Ryunosuke Urabe, TEI TEI |
 | Fri, 23 Oct 2026 | BASS DROP | ASSIGN |
@@ -23,4 +23,4 @@ R Lounge is a music venue in Tokyo listed on soundcheck. 14 upcoming gigs, with 
 
 Tosen Udagawa Bld. 6F/7F, 4-7, Udagawa, Shibuya, Tokyo, 150-0042, JPN, Tokyo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/r-lounge/)*

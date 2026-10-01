@@ -1,6 +1,6 @@
 # Meg McHugh
 
-Meg McHugh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at WDM, Hannover on Sat, 10 Oct 2026.
+Meg McHugh is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at WDM, Hannover on Sat, 10 Oct 2026.
 
 Meg McHugh is a techno and trance artist tracked on soundcheck, with 13 sets logged across Berlin, Dublin, Hannover and Ibiza and 1 more. Often billed alongside Leena Punks, Mark Landragin and ALPER SKR. Next up: WDM, Hannover on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Meg McHugh is a techno and trance artist tracked on soundcheck, with 13 sets log
 
 Leena Punks, Mark Landragin, ALPER SKR
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/megmchugh/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/megmchugh/)*

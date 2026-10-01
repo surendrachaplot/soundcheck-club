@@ -1,6 +1,6 @@
 # Gondra
 
-Gondra is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Otherworld, Austin on Fri, 9 Oct 2026.
+Gondra is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Otherworld, Austin on Fri, 9 Oct 2026.
 
 Gondra is a techno and hardcore artist tracked on soundcheck, with 9 sets logged across Austin. Often billed alongside R3NEGADE, AMANDA KOONTZ and Full Hendy. Next up: Otherworld, Austin on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Gondra is a techno and hardcore artist tracked on soundcheck, with 9 sets logged
 
 R3NEGADE, AMANDA KOONTZ, Full Hendy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gondra/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gondra/)*

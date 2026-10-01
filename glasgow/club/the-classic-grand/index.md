@@ -1,8 +1,8 @@
 # The Classic Grand
 
-The Classic Grand is a music venue in Glasgow with 15 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Carbon Based Lifeforms" on Thu, 1 Oct 2026.
+The Classic Grand is a music venue in Glasgow with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Carbon Based Lifeforms" on Thu, 1 Oct 2026.
 
-The Classic Grand is a music venue in Glasgow listed on soundcheck. 15 upcoming gigs, with line-ups including 2 Sick Puppiez, Act of Rage, Andrew Cairns and Argy(uk) and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
+The Classic Grand is a music venue in Glasgow listed on soundcheck. 17 upcoming gigs, with line-ups including 2 Sick Puppiez, Act of Rage, Andrew Cairns and Argy(uk) and 2 more. Browse upcoming dates, start times and who's playing. 18 Jamaica Street; Glasgow, G1 4QD; Scotland.
 
 ## What's on
 
@@ -15,12 +15,12 @@ The Classic Grand is a music venue in Glasgow listed on soundcheck. 15 upcoming 
 | Fri, 9 Oct 2026 | NSN presents: THE CIRCUIT 003 with MAHTAL, SWANNY and more |  |
 | Sat, 10 Oct 2026 | Bonkers 30 Years - Glasgow - Classics Edition | Charlie B, Dougal, Scott Brown, Sharkey (1) |
 | Fri, 23 Oct 2026 | Obscura presents: High Voltage ALL NIGHT LONG + Special b2bs |  |
+| Sun, 25 Oct 2026 | MLLM - DJ Competition 2026 |  |
 | Sat, 31 Oct 2026 | Disfunction: Halloween Horrors | OGUZ, Russian Village Boys |
 | Fri, 6 Nov 2026 | PHG Presents: Dyen | DYEN |
-| Fri, 6 Nov 2026 | PHG presents: DYEN | DYEN |
 
 ## Address
 
 18 Jamaica Street; Glasgow, G1 4QD; Scotland, Glasgow
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/glasgow/club/the-classic-grand/)*

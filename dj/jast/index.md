@@ -1,14 +1,15 @@
 # JĀST
 
-JĀST is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
+JĀST is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amsterdam Central Station, Amsterdam on Fri, 23 Oct 2026.
 
-JĀST is a house and techno artist based in Germany, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin and Ibiza. Often billed alongside UNYCA, Eyad and LEYLA\ /NOUHEYLA. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
+JĀST is a house and techno artist based in Germany, tracked on soundcheck, with 7 sets logged across Amsterdam, Berlin, Ibiza and Santiago. Often billed alongside UNYCA, Eyad and LEYLA\ /NOUHEYLA. Next up: Amsterdam Central Station, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Amsterdam Central Station | Amsterdam |
+| Sat, 21 Nov 2026 | Parque Ciudad Empresarial | Santiago |
 
 ## Recently played
 
@@ -22,4 +23,4 @@ JĀST is a house and techno artist based in Germany, tracked on soundcheck, with
 
 UNYCA, Eyad, LEYLA\ /NOUHEYLA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jast/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jast/)*

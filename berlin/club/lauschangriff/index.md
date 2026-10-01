@@ -1,6 +1,6 @@
 # Lauschangriff
 
-Lauschangriff is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "ESTRAMBØTICO" on Thu, 1 Oct 2026.
+Lauschangriff is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ESTRAMBØTICO" on Thu, 1 Oct 2026.
 
 Lauschangriff is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including BrokenGear, Eklekt1k, Genoe and Lancer and 2 more. Browse upcoming dates, start times and who's playing. Rigaer Strasse 103; Friedrichshain; 10247 Berlin; Germany.
 
@@ -15,4 +15,4 @@ Lauschangriff is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, 
 
 Rigaer Strasse 103; Friedrichshain; 10247 Berlin; Germany, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lauschangriff/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/lauschangriff/)*

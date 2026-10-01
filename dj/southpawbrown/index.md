@@ -1,14 +1,14 @@
 # SouthPawBrown
 
-SouthPawBrown is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - FunkShui - 769 Dundas St W, Toronto on Sat, 10 Oct 2026.
+SouthPawBrown is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bsmt 254, Toronto on Sun, 11 Oct 2026.
 
-SouthPawBrown is a house and techno artist based in Canada, tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside Antitrust, Landan Brawley and Barroness. Next up: TBA - FunkShui - 769 Dundas St W, Toronto on Sat 10 Oct.
+SouthPawBrown is a house and techno artist based in Canada, tracked on soundcheck, with 21 sets logged across Toronto. Often billed alongside Antitrust, Landan Brawley and Barroness. Next up: Bsmt 254, Toronto on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 10 Oct 2026 | TBA - FunkShui - 769 Dundas St W | Toronto |
+| Sun, 11 Oct 2026 | Bsmt 254 | Toronto |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ SouthPawBrown is a house and techno artist based in Canada, tracked on soundchec
 
 Antitrust, Landan Brawley, Barroness
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/southpawbrown/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/southpawbrown/)*

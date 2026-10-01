@@ -1,13 +1,14 @@
 # CONCEPTUAL
 
-CONCEPTUAL is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at SMUT Athens, Athens on Sat, 24 Oct 2026.
+CONCEPTUAL is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - LUBLIN, Poland on Sat, 17 Oct 2026.
 
-CONCEPTUAL is a techno and house artist based in Italy, tracked on soundcheck, with 76 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 27 more. Often billed alongside MOE (LB), Pâris. and Lewis Fautzi. Next up: SMUT Athens, Athens on Sat 24 Oct.
+CONCEPTUAL is a techno and house artist based in Italy, tracked on soundcheck, with 77 sets logged across Amsterdam, Athens, Barcelona and Belgrade and 28 more. Often billed alongside MOE (LB), Pâris. and Lewis Fautzi. Next up: TBA - LUBLIN, Poland on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | TBA - LUBLIN | Poland |
 | Sat, 24 Oct 2026 | SMUT Athens | Athens |
 
 ## Recently played
@@ -25,4 +26,4 @@ CONCEPTUAL is a techno and house artist based in Italy, tracked on soundcheck, w
 
 MOE (LB), Pâris., Lewis Fautzi
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/conceptual/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/conceptual/)*

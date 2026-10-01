@@ -1,8 +1,8 @@
 # Carpainter
 
-Carpainter is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 2 Oct 2026.
+Carpainter is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at F8 1192 Folsom, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Carpainter is a techno and bass artist based in Japan, tracked on soundcheck, with 52 sets logged across Kyoto, Los Angeles, New York City and San Francisco/Oakland and 1 more. Often billed alongside Seimei, Andrew (TREKKIE TRAX) and Genick. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 2 Oct.
+Carpainter is a techno and bass artist based in Japan, tracked on soundcheck, with 53 sets logged across Kanto, Kyoto, Los Angeles and New York City and 2 more. Often billed alongside Seimei, Andrew (TREKKIE TRAX) and Genick. Next up: F8 1192 Folsom, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Carpainter is a techno and bass artist based in Japan, tracked on soundcheck, wi
 | Fri, 2 Oct 2026 | F8 1192 Folsom | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | ZEROTOKYO | Tokyo |
 | Sat, 21 Nov 2026 | clubasia | Tokyo |
+| Sat, 28 Nov 2026 | Kuni House | Kanto |
 
 ## Recently played
 
@@ -27,4 +28,4 @@ Carpainter is a techno and bass artist based in Japan, tracked on soundcheck, wi
 
 Seimei, Andrew (TREKKIE TRAX), Genick
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carpainter/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carpainter/)*

@@ -1,6 +1,6 @@
 # Starstruck All Stars: Nugget, EEVEE, Helloniyx, and v64 at Happyfun Hideaway
 
-Starstruck All Stars: Nugget, EEVEE, Helloniyx, and v64 at Happyfun Hideaway on Sat 3 Oct, New York City. 2 artists on the bill: EEVEE and v64. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
+Starstruck All Stars: Nugget, EEVEE, Helloniyx, and v64 at Happyfun Hideaway on Sat 3 Oct, New York City. 3 artists on the bill: EEVEE, Niyx and v64. Club and Ghetto Tech. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Starstruck All Stars: Nugget, EEVEE, Helloniyx, and v64 at Happyfun Hideaway on 
 ## Line-up
 
 - EEVEE (3)
+- Niyx
 - v64 (1)
 
 *Source: [soundcheck](https://soundcheck.club/e/2546850-starstruck-all-stars-nugget-eevee-helloniyx-and-v64-at-happy/)*

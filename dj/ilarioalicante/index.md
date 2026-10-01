@@ -1,8 +1,8 @@
 # Ilario Alicante
 
-Ilario Alicante is a Tech House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at [UNVRS], Ibiza on Sat, 3 Oct 2026.
+Ilario Alicante is a Tech House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at [UNVRS], Ibiza on Sat, 3 Oct 2026.
 
-Ilario Alicante is a tech house and techno artist based in Italy, tracked on soundcheck, with 198 sets logged across Amsterdam, Athens, Bali and Barcelona and 34 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: [UNVRS], Ibiza on Sat 3 Oct.
+Ilario Alicante is a tech house and techno artist based in Italy, tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Bali and Barcelona and 35 more. Often billed alongside Marco Carola, Paco Osuna and Franky Rizardo. Next up: [UNVRS], Ibiza on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Ilario Alicante is a tech house and techno artist based in Italy, tracked on sou
 | Sat, 3 Oct 2026 | [UNVRS] | Ibiza |
 | Sat, 3 Oct 2026 | Cocoa Mataró | Barcelona |
 | Thu, 22 Oct 2026 | Sugarfactory | Amsterdam |
+| Sat, 21 Nov 2026 | The Penthouse Dubai | Dubai |
 | Sat, 12 Dec 2026 | Hemkade 48 | Amsterdam |
 
 ## Recently played
@@ -28,4 +29,4 @@ Ilario Alicante is a tech house and techno artist based in Italy, tracked on sou
 
 Marco Carola, Paco Osuna, Franky Rizardo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ilarioalicante/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ilarioalicante/)*

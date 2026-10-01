@@ -1,6 +1,6 @@
 # Colin Dale
 
-Colin Dale is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Ministry, London on Sun, 4 Oct 2026.
+Colin Dale is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Ministry, London on Sun, 4 Oct 2026.
 
 Colin Dale is a house and techno artist based in United Kingdom, tracked on soundcheck, with 39 sets logged across Berlin, Birmingham, Brighton and Bristol and 2 more. Often billed alongside Mr C, Grooverider and Miss C MCDJ. Next up: The Ministry, London on Sun 4 Oct.
 
@@ -27,4 +27,4 @@ Colin Dale is a house and techno artist based in United Kingdom, tracked on soun
 
 Mr C, Grooverider, Miss C MCDJ
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/colindale/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/colindale/)*

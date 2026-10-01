@@ -1,6 +1,6 @@
 # Axwell
 
-Axwell is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
+Axwell is a Electronica and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at ZEROTOKYO, Tokyo on Fri, 16 Oct 2026.
 
 Axwell is an electronica and progressive house artist based in Sweden, tracked on soundcheck, with 5 sets logged across Athens, Buenos Aires, Miami and Tokyo. Often billed alongside Adam Ten, Innellea and Kaskade. Next up: ZEROTOKYO, Tokyo on Fri 16 Oct.
 
@@ -21,4 +21,4 @@ Axwell is an electronica and progressive house artist based in Sweden, tracked o
 
 Adam Ten, Innellea, Kaskade
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/axwell/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/axwell/)*

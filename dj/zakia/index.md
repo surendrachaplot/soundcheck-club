@@ -1,6 +1,6 @@
 # Zakia
 
-Zakia is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Soup, Manchester on Fri, 2 Oct 2026.
+Zakia is a House and Funk / Soul artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Soup, Manchester on Fri, 2 Oct 2026.
 
 Zakia is a house and funk / soul artist based in United Kingdom, tracked on soundcheck, with 38 sets logged across Barcelona, Berlin, Brussels and Helsinki and 9 more. Often billed alongside Leanne Wright, MarshmeLLo and Shy One. Next up: Soup, Manchester on Fri 2 Oct.
 
@@ -26,4 +26,4 @@ Zakia is a house and funk / soul artist based in United Kingdom, tracked on soun
 
 Leanne Wright, MarshmeLLo, Shy One
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zakia/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zakia/)*

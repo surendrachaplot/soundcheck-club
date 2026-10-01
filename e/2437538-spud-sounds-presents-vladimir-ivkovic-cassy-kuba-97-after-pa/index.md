@@ -1,6 +1,6 @@
 # Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party at Gaffe
 
-Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party at Gaffe on Fri 2 Oct, London. 6 artists on the bill: Cassy, JUST FINN, Kuba'97 and Lyde and 2 more. Progressive House and House. Preview the line-up and save it on soundcheck.
+Spud Sounds presents: Vladimir Ivkovic, Cassy & Kuba'97 + After Party at Gaffe on Fri 2 Oct, London. 6 artists on the bill: Cassy, JUST FINN, Kuba'97 and Lyde and 2 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

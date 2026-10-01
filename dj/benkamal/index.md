@@ -1,8 +1,8 @@
 # Ben Kamal
 
-Ben Kamal is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
+Ben Kamal is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at UMI, Brussels on Sat, 24 Oct 2026.
 
-Ben Kamal is a house and techno artist based in Belgium, tracked on soundcheck, with 53 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Lola Haro, Dana Kuehr and Walrus. Next up: UMI, Brussels on Sat 24 Oct.
+Ben Kamal is a house and techno artist based in Belgium, tracked on soundcheck, with 54 sets logged across Amsterdam, Antwerp, Berlin and Brussels and 8 more. Often billed alongside Lola Haro, Dana Kuehr and Walrus. Next up: UMI, Brussels on Sat 24 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ben Kamal is a house and techno artist based in Belgium, tracked on soundcheck, 
 | --- | --- | --- |
 | Sat, 24 Oct 2026 | UMI | Brussels |
 | Sat, 24 Oct 2026 | UMI | Brussels |
+| Fri, 20 Nov 2026 | Amigo | Ghent |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Ben Kamal is a house and techno artist based in Belgium, tracked on soundcheck, 
 
 Lola Haro, Dana Kuehr, Walrus
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benkamal/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benkamal/)*

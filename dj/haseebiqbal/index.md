@@ -1,13 +1,14 @@
 # Haseeb Iqbal
 
-Haseeb Iqbal is a Dub and Jazz artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Yamamori Tengu, Dublin on Sat, 17 Oct 2026.
+Haseeb Iqbal is a Dub and Jazz artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at SJQ, London on Thu, 8 Oct 2026.
 
-Haseeb Iqbal is a dub and jazz artist based in United Kingdom, tracked on soundcheck, with 107 sets logged across Berlin, Brighton, Bristol and Copenhagen and 15 more. Often billed alongside Donna Leake, Mark Quinn and Heléna Star. Next up: Yamamori Tengu, Dublin on Sat 17 Oct.
+Haseeb Iqbal is a dub and jazz artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Berlin, Brighton, Bristol and Copenhagen and 15 more. Often billed alongside Donna Leake, Mark Quinn and Heléna Star. Next up: SJQ, London on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | SJQ | London |
 | Sat, 17 Oct 2026 | Yamamori Tengu | Dublin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Haseeb Iqbal is a dub and jazz artist based in United Kingdom, tracked on soundc
 
 Donna Leake, Mark Quinn, Heléna Star
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/haseebiqbal/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/haseebiqbal/)*

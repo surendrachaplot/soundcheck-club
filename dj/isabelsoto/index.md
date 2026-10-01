@@ -1,6 +1,6 @@
 # Isabel Soto
 
-Isabel Soto is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at RASA, Singapore on Fri, 2 Oct 2026.
+Isabel Soto is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RASA, Singapore on Fri, 2 Oct 2026.
 
 Isabel Soto is a techno and house artist based in Venezuela, tracked on soundcheck, with 100 sets logged across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Claudio PRC, Mike Larry and Fadi Mohem. Next up: RASA, Singapore on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ Isabel Soto is a techno and house artist based in Venezuela, tracked on soundche
 
 Claudio PRC, Mike Larry, Fadi Mohem
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/isabelsoto/)*

@@ -1,14 +1,13 @@
 # BASHKKA
 
-BASHKKA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fvtvr, Paris on Wed, 30 Sept 2026.
+BASHKKA is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wibar, Netherlands on Sat, 3 Oct 2026.
 
-BASHKKA is a techno and house artist based in Germany, tracked on soundcheck, with 309 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Fvtvr, Paris on Wed 30 Sept.
+BASHKKA is a techno and house artist based in Germany, tracked on soundcheck, with 310 sets logged across Amsterdam, Antwerp, Athens and Bali and 59 more. Often billed alongside Sedef Adasï, Gabrielle Kwarteng and Ogazón. Next up: Wibar, Netherlands on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Fvtvr | Paris |
 | Sat, 3 Oct 2026 | Wibar | Netherlands |
 | Sat, 10 Oct 2026 | REC Napoli | Naples |
 | Sat, 17 Oct 2026 | Palais | London |
@@ -19,10 +18,12 @@ BASHKKA is a techno and house artist based in Germany, tracked on soundcheck, wi
 | Fri, 23 Oct 2026 | Klaproos | Amsterdam |
 | Sun, 25 Oct 2026 | Bajes Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
+| Fri, 27 Nov 2026 | Abercrombie Hotel | Sydney |
 | Sat, 28 Nov 2026 | Collingwood Children's Farm | Melbourne |
 
 ## Recently played
 
+- Fvtvr, Paris — Wed, 30 Sept 2026
 - Depot Mayfield, Manchester — Sat, 26 Sept 2026
 - Azimut Club, Turin — Fri, 25 Sept 2026
 - Flash, Washington DC — Sun, 20 Sept 2026
@@ -30,10 +31,9 @@ BASHKKA is a techno and house artist based in Germany, tracked on soundcheck, wi
 - BASEMENT, New York City — Fri, 11 Sept 2026
 - Camp Kennybrook, New York City — Thu, 10 Sept 2026
 - Southwark Park, London — Sun, 30 Aug 2026
-- Hamburger Bahnhof - Museum für Gegenwart, Berlin — Thu, 27 Aug 2026
 
 ## Shares bills with
 
 Sedef Adasï, Gabrielle Kwarteng, Ogazón
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bashkka/)*

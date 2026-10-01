@@ -1,10 +1,10 @@
 # HELION - Adiel at COSMOS CLUB at Cosmos Club Sevilla
 
-HELION - Adiel at COSMOS CLUB at Cosmos Club Sevilla on Fri 6 Nov, South. 1 artist on the bill: Adiel. Preview the line-up and save it on soundcheck.
+HELION - Adiel at COSMOS CLUB at Cosmos Club Sevilla on Fri 29 Jan, South. 1 artist on the bill: Adiel. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
-| Date | Fri, 6 Nov 2026 |
+| Date | Fri, 29 Jan 2027 |
 | Venue | Cosmos Club Sevilla |
 | City | South |
 

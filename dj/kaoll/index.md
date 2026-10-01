@@ -1,14 +1,15 @@
 # Kaoll
 
-Kaoll is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Conpass, Osaka on Fri, 2 Oct 2026.
+Kaoll is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Conpass, Osaka on Fri, 2 Oct 2026.
 
-Kaoll is a techno and house artist based in Japan, tracked on soundcheck, with 16 sets logged across Osaka. Often billed alongside FENGX2, ZAGUN and LIZA. Next up: Conpass, Osaka on Fri 2 Oct.
+Kaoll is a techno and house artist based in Japan, tracked on soundcheck, with 17 sets logged across Osaka. Often billed alongside FENGX2, ZAGUN and LIZA. Next up: Conpass, Osaka on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Conpass | Osaka |
+| Fri, 2 Oct 2026 | Blvck Water | Osaka |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Kaoll is a techno and house artist based in Japan, tracked on soundcheck, with 1
 
 FENGX2, ZAGUN, LIZA (6)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoll/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kaoll/)*

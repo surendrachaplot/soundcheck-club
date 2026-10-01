@@ -1,13 +1,14 @@
 # Carozilla
 
-Carozilla is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bar Bonobo, New York City on Sun, 25 Oct 2026.
+Carozilla is a Disco and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ZeyZey, Miami on Sun, 18 Oct 2026.
 
-Carozilla is a disco and house artist based in United States of America, tracked on soundcheck, with 117 sets logged across Limerick, Los Angeles, Miami and Milan and 5 more. Often billed alongside DJ Ray, Jinks and Romulo Del Castillo. Next up: Bar Bonobo, New York City on Sun 25 Oct.
+Carozilla is a disco and house artist based in United States of America, tracked on soundcheck, with 118 sets logged across Limerick, Los Angeles, Miami and Milan and 5 more. Often billed alongside DJ Ray, Jinks and Romulo Del Castillo. Next up: ZeyZey, Miami on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 18 Oct 2026 | ZeyZey | Miami |
 | Sun, 25 Oct 2026 | Bar Bonobo | New York City |
 
 ## Recently played
@@ -25,4 +26,4 @@ Carozilla is a disco and house artist based in United States of America, tracked
 
 DJ Ray (2), Jinks, Romulo Del Castillo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/carozilla/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/carozilla/)*

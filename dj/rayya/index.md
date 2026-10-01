@@ -1,6 +1,6 @@
 # Rayya
 
-Rayya is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Funkhaus, Vienna on Sat, 3 Oct 2026.
+Rayya is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Funkhaus, Vienna on Sat, 3 Oct 2026.
 
 Rayya is a house and club artist based in Austria, tracked on soundcheck, with 41 sets logged across Frankfurt, Munich and Vienna. Often billed alongside Stipo, Apua and Reinhard Zach. Next up: Funkhaus, Vienna on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Rayya is a house and club artist based in Austria, tracked on soundcheck, with 4
 
 Stipo, Apua, Reinhard Zach
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rayya/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rayya/)*

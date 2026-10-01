@@ -1,6 +1,6 @@
 # Vazhmarr
 
-Vazhmarr is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+Vazhmarr is a Electro and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
 Vazhmarr is an electro and experimental artist based in Georgia, tracked on soundcheck, with 20 sets logged across Armenia, Athens and Tbilisi. Often billed alongside Tbili orgia, Anketa and ORBITA. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
@@ -25,4 +25,4 @@ Vazhmarr is an electro and experimental artist based in Georgia, tracked on soun
 
 Tbili orgia, Anketa, ORBITA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vazhmarr/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vazhmarr/)*

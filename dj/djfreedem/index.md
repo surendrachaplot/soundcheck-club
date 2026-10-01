@@ -1,13 +1,14 @@
 # DJ Freedem
 
-DJ Freedem is a Club and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mood Ring, New York City on Sat, 17 Oct 2026.
+DJ Freedem is a Club and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Honey's, New York City on Thu, 15 Oct 2026.
 
-DJ Freedem is a club and techno artist tracked on soundcheck, with 29 sets logged across New York City, Philadelphia and Washington DC. Often billed alongside FLWRSHRK, Kenni Javon and BABEITSPURR. Next up: Mood Ring, New York City on Sat 17 Oct.
+DJ Freedem is a club and techno artist tracked on soundcheck, with 30 sets logged across New York City, Philadelphia and Washington DC. Often billed alongside FLWRSHRK, Kenni Javon and Love Higher. Next up: Honey's, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Honey's | New York City |
 | Sat, 17 Oct 2026 | Mood Ring | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ DJ Freedem is a club and techno artist tracked on soundcheck, with 29 sets logge
 
 ## Shares bills with
 
-FLWRSHRK, Kenni Javon, BABEITSPURR
+FLWRSHRK, Kenni Javon, Love Higher
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreedem/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfreedem/)*

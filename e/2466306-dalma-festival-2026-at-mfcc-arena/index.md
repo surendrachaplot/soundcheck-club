@@ -1,6 +1,6 @@
 # DALMA Festival 2026 at MFCC Arena
 
-DALMA Festival 2026 at MFCC Arena on Fri 4 Dec, Malta. 24 artists on the bill: Adrian Mills, Anetha, Chlär and chouhal and 20 more. Techno. Preview the line-up and save it on soundcheck.
+DALMA Festival 2026 at MFCC Arena on Fri 4 Dec, Malta. 25 artists on the bill: Adrian Mills, Anetha, Chlär and chouhal and 21 more. Techno. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -26,6 +26,7 @@ DALMA Festival 2026 at MFCC Arena on Fri 4 Dec, Malta. 24 artists on the bill: A
 - Kyle Cortis
 - NEUX
 - NOVAH
+- OKSY
 - ØTTA
 - Partiboi69
 - Rødhåd

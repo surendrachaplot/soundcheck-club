@@ -1,8 +1,8 @@
 # Mount Kimbie
 
-Mount Kimbie is a House and Electronica artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Razzmatazz, Barcelona on Fri, 2 Oct 2026.
+Mount Kimbie is a Electronica and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Razzmatazz, Barcelona on Fri, 2 Oct 2026.
 
-Mount Kimbie is a house and electronica artist based in United Kingdom, tracked on soundcheck, with 76 sets logged across Antwerp, Austin, Barcelona and Belfast and 37 more. Often billed alongside Kai Campos, Jayda G and Actress. Next up: Razzmatazz, Barcelona on Fri 2 Oct.
+Mount Kimbie is an electronica and house artist based in United Kingdom, tracked on soundcheck, with 77 sets logged across Antwerp, Austin, Barcelona and Belfast and 37 more. Often billed alongside Kai Campos, Jayda G and Actress. Next up: Razzmatazz, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mount Kimbie is a house and electronica artist based in United Kingdom, tracked 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Razzmatazz | Barcelona |
 | Sat, 3 Oct 2026 | Centre Point | Dublin |
+| Sat, 24 Oct 2026 | Casa Capitão | Lisbon |
 | Sat, 31 Oct 2026 | The Ulster Sports Club | Belfast |
 | Sat, 21 Nov 2026 | Depot Mayfield | Manchester |
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
@@ -30,4 +31,4 @@ Mount Kimbie is a house and electronica artist based in United Kingdom, tracked 
 
 Kai Campos, Jayda G, Actress
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mountkimbie/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mountkimbie/)*

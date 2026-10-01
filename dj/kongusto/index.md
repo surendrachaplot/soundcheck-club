@@ -1,6 +1,6 @@
 # Kongusto
 
-Kongusto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kade, Munich on Fri, 2 Oct 2026.
+Kongusto is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Kade, Munich on Fri, 2 Oct 2026.
 
 Kongusto is a house and techno artist based in Germany, tracked on soundcheck, with 17 sets logged across Munich. Often billed alongside Melchiorr, Neverglass and Chet Rubbs. Next up: Kade, Munich on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Kongusto is a house and techno artist based in Germany, tracked on soundcheck, w
 
 Melchiorr, Neverglass, Chet Rubbs
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kongusto/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kongusto/)*

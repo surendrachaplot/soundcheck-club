@@ -1,8 +1,8 @@
 # Emma B
 
-Emma B is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
+Emma B is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fvtvr, Paris on Fri, 9 Oct 2026.
 
-Emma B is a house and techno artist based in France, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Deborah Aime La Bagarre, Baccus and Solah. Next up: Fvtvr, Paris on Fri 9 Oct.
+Emma B is a house and techno artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 25 more. Often billed alongside Deborah Aime La Bagarre, Baccus and Solah. Next up: Fvtvr, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Emma B is a house and techno artist based in France, tracked on soundcheck, with
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 23 Oct 2026 | Quarters | Brighton |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
+| Fri, 30 Oct 2026 | Mint XL | Leeds |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 
 ## Recently played
@@ -29,4 +30,4 @@ Emma B is a house and techno artist based in France, tracked on soundcheck, with
 
 Deborah Aime La Bagarre, Baccus, Solah
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/emmab/)*

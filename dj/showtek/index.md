@@ -1,8 +1,8 @@
 # Showtek
 
-Showtek is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Showtek is a Techno and Hardcore artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Showtek is a techno and house artist based in Netherlands, tracked on soundcheck, with 18 sets logged across Chicago, Denver, Düsseldorf and Gdansk and 10 more. Often billed alongside Coone, Darren Styles and Afrojack. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Showtek is a techno and hardcore artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Chicago, Denver, Düsseldorf and Gdansk and 11 more. Often billed alongside Coone, Darren Styles and Afrojack. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Showtek is a techno and house artist based in Netherlands, tracked on soundcheck
 
 ## Recently played
 
+- Kaapelitehdas / The Cable Factory, Helsinki — Fri, 11 Sept 2026
 - Electrisize, Düsseldorf — Fri, 7 Aug 2026
 - Story Toronto, Toronto — Sat, 11 Apr 2026
 - Concord Music Hall, Chicago — Sat, 27 Sept 2025
@@ -22,10 +23,9 @@ Showtek is a techno and house artist based in Netherlands, tracked on soundcheck
 - Zerotokyo, Tokyo — Fri, 22 Nov 2024
 - Fabrik, Madrid — Sat, 10 Feb 2024
 - NOS Event Center, Los Angeles — Fri, 8 Dec 2023
-- Nebula, New York City — Sat, 4 Nov 2023
 
 ## Shares bills with
 
 Coone, Darren Styles, Afrojack
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/showtek/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/showtek/)*

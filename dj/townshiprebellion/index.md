@@ -1,8 +1,8 @@
 # Township Rebellion
 
-Township Rebellion is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at FLUCC, Vienna on Sat, 3 Oct 2026.
+Township Rebellion is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at FLUCC, Vienna on Sat, 3 Oct 2026.
 
-Township Rebellion is a techno and house artist based in Germany, tracked on soundcheck, with 124 sets logged across Amsterdam, Austin, Basel and Berlin and 34 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: FLUCC, Vienna on Sat 3 Oct.
+Township Rebellion is a techno and house artist based in Germany, tracked on soundcheck, with 125 sets logged across Amsterdam, Austin, Baden W Rttemberg and Basel and 35 more. Often billed alongside Kaufmann, Prismode and Solvane. Next up: FLUCC, Vienna on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Township Rebellion is a techno and house artist based in Germany, tracked on sou
 | Sat, 24 Oct 2026 | Fridas Pier | Stuttgart |
 | Sat, 14 Nov 2026 | Exchange LA | Los Angeles |
 | Sat, 21 Nov 2026 | Kesselhaus | Berlin |
+| Sat, 28 Nov 2026 | Karree | Baden-w-rttemberg |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Township Rebellion is a techno and house artist based in Germany, tracked on sou
 
 Kaufmann, Prismode, Solvane
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/townshiprebellion/)*

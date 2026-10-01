@@ -1,6 +1,6 @@
 # Dopplereffekt
 
-Dopplereffekt is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at SFU Goldcorp Centre for the Arts, Vancouver on Fri, 2 Oct 2026.
+Dopplereffekt is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at SFU Goldcorp Centre for the Arts, Vancouver on Fri, 2 Oct 2026.
 
 Dopplereffekt is a techno and electro artist based in United States of America, tracked on soundcheck, with 40 sets logged across Amsterdam, Berlin, Bristol and Chicago and 19 more. Often billed alongside Aurora Halal, Octo Octa and Skee Mask. Next up: SFU Goldcorp Centre for the Arts, Vancouver on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Dopplereffekt is a techno and electro artist based in United States of America, 
 
 Aurora Halal, Octo Octa, Skee Mask
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dopplereffekt/)*

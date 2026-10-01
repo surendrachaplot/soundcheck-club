@@ -1,6 +1,6 @@
 # Altenburg 1964
 
-Altenburg 1964 is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "ACID WAVES 11 // TRIGGER UNIT - MAJKL NSK - RAVING ZEBRA - ČMARKY - NANO - BEBE *" on Fri, 2 Oct 2026.
+Altenburg 1964 is a music venue in Prague with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ACID WAVES 11 // TRIGGER UNIT - MAJKL NSK - RAVING ZEBRA - ČMARKY - NANO - BEBE *" on Fri, 2 Oct 2026.
 
 Altenburg 1964 is a music venue in Prague listed on soundcheck. 3 upcoming gigs, with line-ups including HKKPTR, Iriky, RaverPik and RAVING zebra and 2 more. Browse upcoming dates, start times and who's playing. Partyzánská 18/23, 17000 Praha 7.
 
@@ -16,4 +16,4 @@ Altenburg 1964 is a music venue in Prague listed on soundcheck. 3 upcoming gigs,
 
 Partyzánská 18/23, 17000 Praha 7, Prague
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/prague/club/altenburg-1964/)*

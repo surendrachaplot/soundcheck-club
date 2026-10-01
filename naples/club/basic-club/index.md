@@ -1,8 +1,8 @@
 # Basic Club
 
-Basic Club is a music venue in Naples with 8 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "ROOF x BASIC • Alex Neri + Innershades + Gretalos" on Fri, 2 Oct 2026.
+Basic Club is a music venue in Naples with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ROOF x BASIC • Alex Neri + Innershades + Gretalos" on Fri, 2 Oct 2026.
 
-Basic Club is a music venue in Naples listed on soundcheck. 8 upcoming gigs, with line-ups including Alessio Cristiano, Alex Neri, Alfonso Mauro and Fabio Stingo and 2 more. Browse upcoming dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
+Basic Club is a music venue in Naples listed on soundcheck. 9 upcoming gigs, with line-ups including Alessio Cristiano, Alex Neri, Alfonso Mauro and Fabio Stingo and 2 more. Browse upcoming dates, start times and who's playing. Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli.
 
 ## What's on
 
@@ -16,9 +16,10 @@ Basic Club is a music venue in Naples listed on soundcheck. 8 upcoming gigs, wit
 | Sat, 24 Oct 2026 | TRAXMISSIONI • Simo Cell + Metilammina, Rainer Monaco | Metilammina, Simo Cell |
 | Fri, 30 Oct 2026 | PARTYNOTCOM • Pancratio + Alessio Cristiano, Alfonso Mauro | Alessio Cristiano, Alfonso Mauro, Pancratio |
 | Sat, 31 Oct 2026 | BASIC • Theo Parrish All Night Long | Theo Parrish |
+| Sat, 7 Nov 2026 | NEUHM 15th Anniversary • Joe Claussell + Palms Trax + Gigi Testa | Gigi Testa, Joe Claussell, Palms Trax |
 
 ## Address
 
 Viale Giovanni Boccaccio 9, 80040, Cercola, Napoli, Naples
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/naples/club/basic-club/)*

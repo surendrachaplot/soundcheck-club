@@ -1,8 +1,8 @@
 # Kiss Kiss Bang Bang
 
-Kiss Kiss Bang Bang is a music venue in Los Angeles with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Paradisco" on Sat, 3 Oct 2026.
+Kiss Kiss Bang Bang is a music venue in Los Angeles with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Paradisco" on Sat, 3 Oct 2026.
 
-Kiss Kiss Bang Bang is a music venue in Los Angeles listed on soundcheck. 7 upcoming gigs. Browse upcoming dates, start times and who's playing. 3531 Wilshire Blvd, Los Angeles, CA 90010, USA.
+Kiss Kiss Bang Bang is a music venue in Los Angeles listed on soundcheck. 8 upcoming gigs. Browse upcoming dates, start times and who's playing. 3531 Wilshire Blvd, Los Angeles, CA 90010, USA.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Kiss Kiss Bang Bang is a music venue in Los Angeles listed on soundcheck. 7 upco
 | Sat, 31 Oct 2026 | Le Freak: 70's Disco Halloween Party |  |
 | Sat, 7 Nov 2026 | Paradisco |  |
 | Sat, 21 Nov 2026 | Paradisco |  |
+| Sat, 12 Dec 2026 | Paradisco |  |
 
 ## Address
 
 3531 Wilshire Blvd, Los Angeles, CA 90010, USA, Los Angeles
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kiss-kiss-bang-bang/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/kiss-kiss-bang-bang/)*

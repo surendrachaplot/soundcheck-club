@@ -1,8 +1,8 @@
 # Josey Rebelle
 
-Josey Rebelle is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The White Hotel, Manchester on Fri, 9 Oct 2026.
+Josey Rebelle is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The White Hotel, Manchester on Fri, 9 Oct 2026.
 
-Josey Rebelle is a techno and house artist based in United Kingdom, tracked on soundcheck, with 125 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: The White Hotel, Manchester on Fri 9 Oct.
+Josey Rebelle is a techno and house artist based in United Kingdom, tracked on soundcheck, with 126 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 25 more. Often billed alongside Josh Caffé, CCL and NIKS. Next up: The White Hotel, Manchester on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Josey Rebelle is a techno and house artist based in United Kingdom, tracked on s
 | Sat, 10 Oct 2026 | M.O.T | London |
 | Sat, 17 Oct 2026 | Open Ground | Wuppertal |
 | Fri, 23 Oct 2026 | Bassiani | Tbilisi |
+| Sat, 28 Nov 2026 | Open Ground | Wuppertal |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Josey Rebelle is a techno and house artist based in United Kingdom, tracked on s
 
 Josh Caffé, CCL, NIKS
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joseyrebelle/)*

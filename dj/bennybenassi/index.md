@@ -1,6 +1,6 @@
 # Benny Benassi
 
-Benny Benassi is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Kastel, Istanbul on Fri, 9 Oct 2026.
+Benny Benassi is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kastel, Istanbul on Fri, 9 Oct 2026.
 
 Benny Benassi is a house and electro artist based in Italy, tracked on soundcheck, with 45 sets logged across Boston, Chicago, Copenhagen and Cyprus and 15 more. Often billed alongside Terry, Zedd and Alok. Next up: Kastel, Istanbul on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Benny Benassi is a house and electro artist based in Italy, tracked on soundchec
 
 Terry, Zedd, Alok
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bennybenassi/)*

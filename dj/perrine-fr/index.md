@@ -1,14 +1,15 @@
 # P errine
 
-P errine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Le Sucre, Lyon on Sun, 4 Oct 2026.
+P errine is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Le Sucre, Lyon on Sun, 4 Oct 2026.
 
-P errine is a techno and house artist based in France, tracked on soundcheck, with 44 sets logged across Berlin, Hamburg, Lyon and Marseille and 2 more. Often billed alongside Axel Blanc, IMA:R and Pablo Valentino. Next up: Le Sucre, Lyon on Sun 4 Oct.
+P errine is a techno and house artist based in France, tracked on soundcheck, with 45 sets logged across Berlin, Hamburg, Lyon and Marseille and 2 more. Often billed alongside Axel Blanc, IMA:R and Pablo Valentino. Next up: Le Sucre, Lyon on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | Le Sucre | Lyon |
+| Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ P errine is a techno and house artist based in France, tracked on soundcheck, wi
 
 Axel Blanc, IMA:R, Pablo Valentino
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/perrine-fr/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/perrine-fr/)*

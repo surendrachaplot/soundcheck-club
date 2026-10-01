@@ -1,8 +1,8 @@
 # SJ Yellow
 
-SJ Yellow is a Techno and Electro artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Insomnia, Berlin on Fri, 2 Oct 2026.
+SJ Yellow is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Insomnia, Berlin on Fri, 2 Oct 2026.
 
-SJ Yellow is a techno and electro artist based in Slovakia, tracked on soundcheck, with 148 sets logged across Amsterdam, Berlin, Budapest and London and 3 more. Often billed alongside tmk (CZ), Nina Farrina and 3ever. Next up: Insomnia, Berlin on Fri 2 Oct.
+SJ Yellow is a techno and electro artist based in Slovakia, tracked on soundcheck, with 149 sets logged across Amsterdam, Berlin, Budapest and London and 3 more. Often billed alongside tmk (CZ), Nina Farrina and yo haan. Next up: Insomnia, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ SJ Yellow is a techno and electro artist based in Slovakia, tracked on soundchec
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Insomnia | Berlin |
 | Sat, 10 Oct 2026 | Gehør | Oslo |
+| Sat, 17 Oct 2026 | Ankali & Planeta Za | Prague |
 | Fri, 30 Oct 2026 | Chuchle Racecourse | Prague |
 
 ## Recently played
@@ -25,6 +26,6 @@ SJ Yellow is a techno and electro artist based in Slovakia, tracked on soundchec
 
 ## Shares bills with
 
-tmk (CZ), Nina Farrina, 3ever
+tmk (CZ), Nina Farrina, yo haan
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sjyellow/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sjyellow/)*

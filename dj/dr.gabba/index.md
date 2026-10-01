@@ -1,13 +1,14 @@
 # DR. GABBA
 
-DR. GABBA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Market Hotel, New York City on Fri, 16 Oct 2026.
+DR. GABBA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Minneapolis-st-paul on Sat, 3 Oct 2026.
 
-DR. GABBA is a house and techno artist based in United States of America, tracked on soundcheck, with 28 sets logged across Austin, Chicago, Denver and Houston and 9 more. Often billed alongside nextdimensional, wev (US) and DJ CAMGIRL. Next up: Market Hotel, New York City on Fri 16 Oct.
+DR. GABBA is a house and techno artist based in United States of America, tracked on soundcheck, with 29 sets logged across Austin, Chicago, Denver and Houston and 10 more. Often billed alongside nextdimensional, wev (US) and DJ CAMGIRL. Next up: TBA, Minneapolis St Paul on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | TBA | Minneapolis-st-paul |
 | Fri, 16 Oct 2026 | Market Hotel | New York City |
 | Sat, 24 Oct 2026 | Casita Hollywood | Los Angeles |
 | Sat, 7 Nov 2026 | Public Works | San Francisco/Oakland |
@@ -28,4 +29,4 @@ DR. GABBA is a house and techno artist based in United States of America, tracke
 
 nextdimensional, wev (US), DJ CAMGIRL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.gabba/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dr.gabba/)*

@@ -1,8 +1,8 @@
 # two girls one mom
 
-two girls one mom is a Techno and Trance artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at WDM, Hannover on Fri, 2 Oct 2026.
+two girls one mom is a Techno and Trance artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at WDM, Hannover on Fri, 2 Oct 2026.
 
-two girls one mom is a techno and trance artist based in Germany, tracked on soundcheck, with 92 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 8 more. Often billed alongside bbymeister, August Kind and Deltapeak. Next up: WDM, Hannover on Fri 2 Oct.
+two girls one mom is a techno and trance artist based in Germany, tracked on soundcheck, with 94 sets logged across Barcelona, Berlin, Frankfurt and Hamburg and 8 more. Often billed alongside bbymeister, August Kind and HANÀ. Next up: WDM, Hannover on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,8 @@ two girls one mom is a techno and trance artist based in Germany, tracked on sou
 | Tue, 10 Nov 2026 | Mia Mao | Paris |
 | Sat, 14 Nov 2026 | Turbinenhalle | Oberhausen |
 | Fri, 20 Nov 2026 | OST | Berlin |
+| Wed, 30 Dec 2026 | DSTRKT Club Berlin | Berlin |
+| Sat, 10 Apr 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -30,6 +32,6 @@ two girls one mom is a techno and trance artist based in Germany, tracked on sou
 
 ## Shares bills with
 
-bbymeister, August Kind, Deltapeak
+bbymeister, August Kind, HANÀ
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twogirlsonemom/)*

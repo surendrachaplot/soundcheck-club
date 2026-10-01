@@ -1,6 +1,6 @@
 # Vice Experience
 
-Vice Experience is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Commune, Lyon on Thu, 1 Oct 2026.
+Vice Experience is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Commune, Lyon on Thu, 1 Oct 2026.
 
 Vice Experience is a techno and house artist based in France, tracked on soundcheck, with 143 sets logged across Brussels, Buenos Aires, Lisbon and Lyon and 3 more. Often billed alongside euler, French Phil and GLAD. Next up: La Commune, Lyon on Thu 1 Oct.
 
@@ -30,4 +30,4 @@ Vice Experience is a techno and house artist based in France, tracked on soundch
 
 euler, French Phil, GLAD
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/viceexperience/)*

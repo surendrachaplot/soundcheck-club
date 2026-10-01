@@ -1,13 +1,14 @@
 # Panooc
 
-Panooc is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Dalston Superstore, London on Fri, 9 Oct 2026.
+Panooc is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Şahika, Istanbul on Fri, 2 Oct 2026.
 
-Panooc is a house and techno artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across Amsterdam, Berlin, Copenhagen and Edinburgh and 5 more. Often billed alongside Michelle Manetti, Robin Flux and materia hache. Next up: Dalston Superstore, London on Fri 9 Oct.
+Panooc is a house and techno artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across Amsterdam, Berlin, Copenhagen and Edinburgh and 6 more. Often billed alongside Michelle Manetti, Robin Flux and materia hache. Next up: Şahika, Istanbul on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Şahika | Istanbul |
 | Fri, 9 Oct 2026 | Dalston Superstore | London |
 | Thu, 29 Oct 2026 | Bulbul Berlin | Berlin |
 
@@ -26,4 +27,4 @@ Panooc is a house and techno artist based in United Kingdom, tracked on soundche
 
 Michelle Manetti, Robin Flux, materia hache
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/panooc/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/panooc/)*

@@ -1,8 +1,8 @@
 # Under The Arches
 
-Under The Arches is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Nothing Stays The Same - Mella Dee & Shanti Celeste" on Sat, 3 Oct 2026.
+Under The Arches is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Nothing Stays The Same - Mella Dee & Shanti Celeste" on Sat, 3 Oct 2026.
 
-Under The Arches is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including dj sweet6teen, Mella Dee, Saoirse and Shanti Celeste. Browse upcoming dates, start times and who's playing. Lower Briggate, LS1 6LY.
+Under The Arches is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including dj sweet6teen, Fat Tony, Mella Dee and Saoirse and 1 more. Browse upcoming dates, start times and who's playing. Lower Briggate, LS1 6LY.
 
 ## What's on
 
@@ -10,9 +10,10 @@ Under The Arches is a music venue in Leeds listed on soundcheck. 2 upcoming gigs
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Nothing Stays The Same - Mella Dee & Shanti Celeste | Mella Dee, Shanti Celeste |
 | Sat, 17 Oct 2026 | Under The Arches: Saoirse (Extended set) & dj sweet6teen | Saoirse, dj sweet6teen |
+| Sat, 14 Nov 2026 | Full Fat Leeds | Fat Tony |
 
 ## Address
 
 Lower Briggate, LS1 6LY, Leeds
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/under-the-arches/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/leeds/club/under-the-arches/)*

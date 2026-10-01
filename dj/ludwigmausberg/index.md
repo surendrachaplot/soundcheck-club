@@ -1,6 +1,6 @@
 # Ludwig Mausberg
 
-Ludwig Mausberg is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Paloma, Berlin on Sat, 17 Oct 2026.
+Ludwig Mausberg is a Disco and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paloma, Berlin on Sat, 17 Oct 2026.
 
 Ludwig Mausberg is a disco and house artist based in Germany, tracked on soundcheck, with 32 sets logged across Berlin, Hamburg and Munich. Often billed alongside Femdelic, Ada and Antoine Baiser. Next up: Paloma, Berlin on Sat 17 Oct.
 
@@ -25,4 +25,4 @@ Ludwig Mausberg is a disco and house artist based in Germany, tracked on soundch
 
 Femdelic, Ada, Antoine Baiser
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ludwigmausberg/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ludwigmausberg/)*

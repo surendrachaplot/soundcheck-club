@@ -1,14 +1,15 @@
 # Helmond Lang
 
-Helmond Lang is a Techno and Dubstep artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Time is the new space, Rotterdam on Fri, 2 Oct 2026.
+Helmond Lang is a Techno and Dubstep artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Time is the new space, Rotterdam on Fri, 2 Oct 2026.
 
-Helmond Lang is a techno and dubstep artist based in Netherlands, tracked on soundcheck, with 38 sets logged across Amsterdam, London, Rotterdam and The Hague and 1 more. Often billed alongside dirtydms, Kessler and Cheyanne Hudson. Next up: Time is the new space, Rotterdam on Fri 2 Oct.
+Helmond Lang is a techno and dubstep artist based in Netherlands, tracked on soundcheck, with 39 sets logged across Amsterdam, London, Rotterdam and The Hague and 1 more. Often billed alongside dirtydms, Kessler and Cheyanne Hudson. Next up: Time is the new space, Rotterdam on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Time is the new space | Rotterdam |
+| Fri, 9 Oct 2026 | Time is the new space | Rotterdam |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Helmond Lang is a techno and dubstep artist based in Netherlands, tracked on sou
 
 dirtydms, Kessler, Cheyanne Hudson
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/helmondlang/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/helmondlang/)*

@@ -1,6 +1,6 @@
 # Thaiboy Digital
 
-Thaiboy Digital is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foro Puebla, Mexico City on Thu, 1 Oct 2026.
+Thaiboy Digital is a Experimental and Pop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Foro Puebla, Mexico City on Thu, 1 Oct 2026.
 
 Thaiboy Digital is an experimental and pop artist based in Thailand, tracked on soundcheck, with 18 sets logged across Bangkok, Barcelona, Berlin and Copenhagen and 10 more. Often billed alongside 10cust, Frost Children and Ali RQ. Next up: Foro Puebla, Mexico City on Thu 1 Oct.
 
@@ -25,4 +25,4 @@ Thaiboy Digital is an experimental and pop artist based in Thailand, tracked on 
 
 10cust, Frost Children, Ali RQ
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/thaiboydigital/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/thaiboydigital/)*

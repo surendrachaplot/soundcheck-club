@@ -1,13 +1,14 @@
 # Lux18
 
-Lux18 is a Club and Experimental artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bike Jesus, Prague on Fri, 30 Oct 2026.
+Lux18 is a Club and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Station - Gare des Mines, Paris on Fri, 9 Oct 2026.
 
-Lux18 is a club and experimental artist based in France, tracked on soundcheck, with 6 sets logged across Brussels, Paris and Prague. Often billed alongside fetva, notinbed and Assyouti. Next up: Bike Jesus, Prague on Fri 30 Oct.
+Lux18 is a club and experimental artist based in France, tracked on soundcheck, with 7 sets logged across Brussels, Paris and Prague. Often billed alongside fetva, notinbed and Assyouti. Next up: La Station - Gare des Mines, Paris on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | La Station - Gare des Mines | Paris |
 | Fri, 30 Oct 2026 | Bike Jesus | Prague |
 
 ## Recently played
@@ -22,4 +23,4 @@ Lux18 is a club and experimental artist based in France, tracked on soundcheck, 
 
 fetva, notinbed, Assyouti
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lux18/)*

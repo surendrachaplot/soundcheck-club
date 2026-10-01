@@ -1,13 +1,15 @@
 # Toni Yotzi
 
-Toni Yotzi is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Rooftop Bar, Level 7, Curtain House, Melbourne on Wed, 18 Nov 2026.
+Toni Yotzi is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Miscellania, Melbourne on Sat, 3 Oct 2026.
 
-Toni Yotzi is a house and tech house artist based in Australia, tracked on soundcheck, with 52 sets logged across Bangkok, Bristol, Hobart and London and 5 more. Often billed alongside Primitive Needs, Bex and Dawn Again. Next up: TBA - Rooftop Bar, Level 7, Curtain House, Melbourne on Wed 18 Nov.
+Toni Yotzi is a house and tech house artist based in Australia, tracked on soundcheck, with 54 sets logged across Bangkok, Bristol, Hobart and London and 6 more. Often billed alongside Primitive Needs, Bex and Dawn Again. Next up: Miscellania, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Miscellania | Melbourne |
+| Fri, 6 Nov 2026 | TBA | Victoria |
 | Wed, 18 Nov 2026 | TBA - Rooftop Bar, Level 7, Curtain House | Melbourne |
 
 ## Recently played
@@ -25,4 +27,4 @@ Toni Yotzi is a house and tech house artist based in Australia, tracked on sound
 
 Primitive Needs, Bex, Dawn Again
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toniyotzi-au/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toniyotzi-au/)*

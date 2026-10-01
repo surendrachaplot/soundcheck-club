@@ -1,6 +1,6 @@
 # Flow
 
-Flow is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Valencia on Fri, 9 Oct 2026.
+Flow is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Valencia on Fri, 9 Oct 2026.
 
 Flow is a house and techno artist based in Netherlands, tracked on soundcheck, with 20 sets logged across Berlin, Melbourne, Osaka and Valencia. Often billed alongside Flowing, Ingy and Robert Estrela. Next up: TBA, Valencia on Fri 9 Oct.
 
@@ -26,4 +26,4 @@ Flow is a house and techno artist based in Netherlands, tracked on soundcheck, w
 
 Flowing, Ingy, Robert Estrela
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/flow/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/flow/)*

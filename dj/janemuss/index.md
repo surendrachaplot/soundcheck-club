@@ -1,14 +1,16 @@
 # Jane Muss
 
-Jane Muss is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Kompass Klub, Ghent on Fri, 16 Oct 2026.
+Jane Muss is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kompass Klub, Ghent on Fri, 2 Oct 2026.
 
-Jane Muss is a techno and trance artist based in Belgium, tracked on soundcheck, with 50 sets logged across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Massimo Mephisto, Maharti and Azra Tekuma. Next up: Kompass Klub, Ghent on Fri 16 Oct.
+Jane Muss is a techno and trance artist based in Belgium, tracked on soundcheck, with 52 sets logged across Antwerp, Berlin, Brussels and Ghent and 1 more. Often billed alongside Massimo Mephisto, Kompass Traxx and Maharti. Next up: Kompass Klub, Ghent on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Kompass Klub | Ghent |
 | Fri, 16 Oct 2026 | Kompass Klub | Ghent |
+| Fri, 27 Nov 2026 | Kompass Klub | Ghent |
 
 ## Recently played
 
@@ -23,6 +25,6 @@ Jane Muss is a techno and trance artist based in Belgium, tracked on soundcheck,
 
 ## Shares bills with
 
-Massimo Mephisto, Maharti, Azra Tekuma
+Massimo Mephisto, Kompass Traxx, Maharti
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/janemuss/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/janemuss/)*

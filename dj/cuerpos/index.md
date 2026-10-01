@@ -1,8 +1,8 @@
 # CUERPOS
 
-CUERPOS is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at ESC, Montreal on Sat, 3 Oct 2026.
+CUERPOS is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ESC, Montreal on Sat, 3 Oct 2026.
 
-CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, with 14 sets logged across Montreal and Toronto. Often billed alongside Dj Hermano, Ficilio and Jordan Gardner. Next up: ESC, Montreal on Sat 3 Oct.
+CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, with 16 sets logged across Lyon, Montreal, Norway and Toronto. Often billed alongside Dj Hermano, Maara and Ficilio. Next up: ESC, Montreal on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,8 @@ CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, wit
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | ESC | Montreal |
 | Sun, 11 Oct 2026 | Système | Montreal |
+| Wed, 14 Oct 2026 | Bryggeriet Scene | Norway |
+| Fri, 30 Oct 2026 | Le Sucre | Lyon |
 
 ## Recently played
 
@@ -24,6 +26,6 @@ CUERPOS is a techno and house artist based in Canada, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Dj Hermano, Ficilio, Jordan Gardner
+Dj Hermano, Maara, Ficilio
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerpos/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cuerpos/)*

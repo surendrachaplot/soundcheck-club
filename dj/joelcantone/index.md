@@ -1,6 +1,6 @@
 # Joel Cantone
 
-Joel Cantone is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Golden Sheaf, Sydney on Sat, 3 Oct 2026.
+Joel Cantone is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Golden Sheaf, Sydney on Sat, 3 Oct 2026.
 
 Joel Cantone is a house and tech house artist based in Australia, tracked on soundcheck, with 20 sets logged across Bali, Brisbane, Manchester and Melbourne and 1 more. Often billed alongside Aidan Bega, RSquared and Adam Holt. Next up: Golden Sheaf, Sydney on Sat 3 Oct.
 
@@ -26,4 +26,4 @@ Joel Cantone is a house and tech house artist based in Australia, tracked on sou
 
 Aidan Bega, RSquared, Adam Holt
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joelcantone/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joelcantone/)*

@@ -1,6 +1,6 @@
 # Joshua Calleja
 
-Joshua Calleja is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Liquid Club, Malta on Sat, 10 Oct 2026.
+Joshua Calleja is a Techno and Acid artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Liquid Club, Malta on Sat, 10 Oct 2026.
 
 Joshua Calleja is a techno and acid artist based in Malta, tracked on soundcheck, with 25 sets logged across Berlin and Malta. Often billed alongside OBLX, iNK MT and SEMREH. Next up: Liquid Club, Malta on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Joshua Calleja is a techno and acid artist based in Malta, tracked on soundcheck
 
 OBLX, iNK MT, SEMREH
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuacalleja/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/joshuacalleja/)*

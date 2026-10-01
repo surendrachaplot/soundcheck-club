@@ -1,8 +1,8 @@
 # Restricted
 
-Restricted is a Techno and Hardcore artist with 14 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Restricted is a Techno and Hardcore artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Restricted is a techno and hardcore artist based in Australia, tracked on soundcheck, with 80 sets logged across Amsterdam, Antwerp, Arizona and Athens and 46 more. Often billed alongside Azyr, Vieze Asbak and JAZZY. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Restricted is a techno and hardcore artist based in Australia, tracked on soundcheck, with 81 sets logged across Amsterdam, Antwerp, Arizona and Athens and 47 more. Often billed alongside Azyr, Vieze Asbak and JAZZY. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -36,4 +36,4 @@ Restricted is a techno and hardcore artist based in Australia, tracked on soundc
 
 Azyr, Vieze Asbak, JAZZY (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/restricted/)*

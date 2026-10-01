@@ -1,6 +1,6 @@
 # The Red Room
 
-The Red Room is a music venue in Vancouver with 5 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Critical Sound: Enei, Kasra & More" on Sat, 3 Oct 2026.
+The Red Room is a music venue in Vancouver with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Critical Sound: Enei, Kasra & More" on Sat, 3 Oct 2026.
 
 The Red Room is a music venue in Vancouver listed on soundcheck. 5 upcoming gigs, with line-ups including Alix Perez, Cartridge, Enei and Kasra and 1 more. Browse upcoming dates, start times and who's playing. 398 Richards St; Vancouver, BC V6B 4Y2; Canada.
 
@@ -18,4 +18,4 @@ The Red Room is a music venue in Vancouver listed on soundcheck. 5 upcoming gigs
 
 398 Richards St; Vancouver, BC V6B 4Y2; Canada, Vancouver
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-red-room/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/vancouver/club/the-red-room/)*

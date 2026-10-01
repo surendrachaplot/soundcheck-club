@@ -1,8 +1,8 @@
 # Macadam
 
-Macadam is a music venue in Nantes with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "HORS-SOL: Lena Willikens, GTI b2b Mars O10C — soirée de soutien à Macadam" on Fri, 2 Oct 2026.
+Macadam is a music venue in Nantes with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "HORS-SOL: Lena Willikens, GTI b2b Mars O10C — soirée de soutien à Macadam" on Fri, 2 Oct 2026.
 
-Macadam is a music venue in Nantes listed on soundcheck. 9 upcoming gigs, with line-ups including Akira Yamagata, basic chanel, Bella Sarris and Budino and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
+Macadam is a music venue in Nantes listed on soundcheck. 14 upcoming gigs, with line-ups including Akira Yamagata, basic chanel, Bella Sarris and Binary Digit and 2 more. Browse upcoming dates, start times and who's playing. 17 rue Jules Launey 44100 Nantes.
 
 ## What's on
 
@@ -17,9 +17,10 @@ Macadam is a music venue in Nantes listed on soundcheck. 9 upcoming gigs, with l
 | Fri, 30 Oct 2026 | Macadam x CONTINUUM invite Loophole • Garçon ~ Carrier ~ REDLUVED B2B Sinesthesia | Carrier, Garçon, REDLUVED, Sinesthesia |
 | Sat, 31 Oct 2026 | Macadam x DREAMLAND • Peach ~ IAMBPM ~ Maï-Linh | IAMBP, Maï-Linh, Peach |
 | Sun, 8 Nov 2026 | Gloria • u.r.trax ~ Bella Sarris ~ Moksha ~ GTI ~ Heidy Fly | Bella Sarris, GTI, Heidy Fly, u.r.trax |
+| Tue, 10 Nov 2026 | DIVA • Night Session • DART ~ HEDDA ~ Maï-Linh ~ Matilda ~ mita (live) | DART, HEDDA, Maï-Linh, matilda (2) |
 
 ## Address
 
 17 rue Jules Launey 44100 Nantes, Nantes
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/nantes/club/macadam/)*

@@ -1,6 +1,6 @@
 # DJ Holographic
 
-DJ Holographic is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Detroit on Fri, 2 Oct 2026.
+DJ Holographic is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Detroit on Fri, 2 Oct 2026.
 
 DJ Holographic is a house and techno artist based in United States of America, tracked on soundcheck, with 212 sets logged across Amsterdam, Antwerp, Athens and Austin and 47 more. Often billed alongside Carl Craig, DJ Minx and Âme. Next up: TBA, Detroit on Fri 2 Oct.
 
@@ -34,4 +34,4 @@ DJ Holographic is a house and techno artist based in United States of America, t
 
 Carl Craig, DJ Minx, Âme
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djholographic/)*

@@ -1,14 +1,15 @@
 # Jay Galligan
 
-Jay Galligan is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
+Jay Galligan is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bonobo, Tokyo on Sat, 3 Oct 2026.
 
-Jay Galligan is a techno and electro artist based in Ireland, tracked on soundcheck, with 15 sets logged across Bristol, Cork, Dublin and London and 2 more. Often billed alongside Ario, Lynne and RS Tangent. Next up: Bonobo, Tokyo on Sat 3 Oct.
+Jay Galligan is a techno and electro artist based in Ireland, tracked on soundcheck, with 16 sets logged across Bristol, Cork, Dublin and London and 2 more. Often billed alongside Ario, Lynne and RS Tangent. Next up: Bonobo, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Bonobo | Tokyo |
+| Sat, 5 Dec 2026 | The Island | Bristol |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Jay Galligan is a techno and electro artist based in Ireland, tracked on soundch
 
 Ario, Lynne, RS Tangent
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jaygalligan/)*

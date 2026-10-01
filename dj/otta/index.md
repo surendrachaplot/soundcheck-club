@@ -1,8 +1,8 @@
 # ØTTA
 
-ØTTA is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
+ØTTA is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Port of Belgrade, Belgrade on Fri, 2 Oct 2026.
 
-ØTTA is a techno and house artist based in Portugal, tracked on soundcheck, with 177 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Nico Moreno, 999999999 and Alignment. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
+ØTTA is a techno and house artist based in Portugal, tracked on soundcheck, with 178 sets logged across Amsterdam, Antwerp, Athens and Austin and 58 more. Often billed alongside Nico Moreno, 999999999 and Funk Tribu. Next up: TBA - Port of Belgrade, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -34,6 +34,6 @@
 
 ## Shares bills with
 
-Nico Moreno, 999999999, Alignment
+Nico Moreno, 999999999, Funk Tribu
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/otta/)*

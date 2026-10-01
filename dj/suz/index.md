@@ -1,6 +1,6 @@
 # Suz
 
-Suz is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Suz is a Techno and Electronica artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
 
 Suz is a techno and electronica artist based in Canada, tracked on soundcheck, with 6 sets logged across Miami and Seattle. Often billed alongside SATURNSARii, 1-800-Lolita and Ale Acosta. Next up: Mana Wynwood, Miami on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Suz is a techno and electronica artist based in Canada, tracked on soundcheck, w
 
 SATURNSARii, 1-800-Lolita, Ale Acosta
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/suz/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/suz/)*

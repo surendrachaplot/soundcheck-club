@@ -1,14 +1,15 @@
 # Terrence Dixon
 
-Terrence Dixon is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
+Terrence Dixon is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
 
-Terrence Dixon is a techno and house artist based in United States of America, tracked on soundcheck, with 44 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 9 more. Often billed alongside Cody Hammer, DAIYAH and Fred P. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
+Terrence Dixon is a techno and house artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 10 more. Often billed alongside Cody Hammer, DAIYAH and Fred P. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Tresor / Globus | Berlin |
+| Wed, 14 Oct 2026 | Bryggeriet Scene | Norway |
 | Fri, 23 Oct 2026 | Q-Factory | Amsterdam |
 
 ## Recently played
@@ -26,4 +27,4 @@ Terrence Dixon is a techno and house artist based in United States of America, t
 
 Cody Hammer, DAIYAH, Fred P
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terrencedixon/)*

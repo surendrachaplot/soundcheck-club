@@ -1,6 +1,6 @@
 # Temudo
 
-Temudo is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
+Temudo is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Fuse, Brussels on Sat, 3 Oct 2026.
 
 Temudo is a techno and house artist based in Portugal, tracked on soundcheck, with 142 sets logged across Amsterdam, Athens, Barcelona and Berlin and 42 more. Often billed alongside VIL (PT), CRAVO and Nørbak. Next up: Fuse, Brussels on Sat 3 Oct.
 
@@ -34,4 +34,4 @@ Temudo is a techno and house artist based in Portugal, tracked on soundcheck, wi
 
 VIL (PT), CRAVO, Nørbak
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/temudo/)*

@@ -1,8 +1,8 @@
 # Jack Colletta
 
-Jack Colletta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 7 Palmer Parade, Cremorne 3121, Melbourne on Fri, 1 Jan 2027.
+Jack Colletta is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 7 Palmer Parade, Cremorne 3121, Melbourne on Fri, 1 Jan 2027.
 
-Jack Colletta is a house and techno artist tracked on soundcheck, with 26 sets logged across Melbourne. Often billed alongside Steve Bleas, Christian Kamitsis and Amity. Next up: 7 Palmer Parade, Cremorne 3121, Melbourne on Fri 1 Jan.
+Jack Colletta is a house and techno artist based in Australia, tracked on soundcheck, with 26 sets logged across Melbourne. Often billed alongside Steve Bleas, Christian Kamitsis and Amity. Next up: 7 Palmer Parade, Cremorne 3121, Melbourne on Fri 1 Jan.
 
 ## Upcoming shows
 
@@ -25,4 +25,4 @@ Jack Colletta is a house and techno artist tracked on soundcheck, with 26 sets l
 
 Steve Bleas, Christian Kamitsis, Amity
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jackcolletta/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jackcolletta/)*

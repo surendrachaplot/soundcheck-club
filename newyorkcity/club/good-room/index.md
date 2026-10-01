@@ -1,8 +1,8 @@
 # Good Room
 
-Good Room is a music venue in New York City with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "DJ Plead, rrao" on Thu, 1 Oct 2026.
+Good Room is a music venue in New York City with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "DJ Plead, rrao" on Thu, 1 Oct 2026.
 
-Good Room is a music venue in New York City listed on soundcheck. 14 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Arvin T and Baalti and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
+Good Room is a music venue in New York City listed on soundcheck. 16 upcoming gigs, with line-ups including 4AM NYC, adobeprincess, Arvin T and Baalti and 2 more. Browse upcoming dates, start times and who's playing. 98 Meserole Ave, Brooklyn, NY 11222 USA.
 
 ## What's on
 
@@ -16,11 +16,11 @@ Good Room is a music venue in New York City listed on soundcheck. 14 upcoming gi
 | Sun, 11 Oct 2026 | 718 Sessions with Danny Krivit + That Matt | Danny Krivit, That Matt |
 | Fri, 16 Oct 2026 | 12 Years of Good Room - DJ Holographic, 4AM NYC, Lee Cash & Perna (All Night) | 4AM NYC, DJ Holographic, Lee Cash, Perna |
 | Sat, 17 Oct 2026 | 12 Years of Good Room - The Carry Nation (all night), Timo Lee, JÄK-87 | JÄK-87, The Carry Nation, Timo Lee |
+| Thu, 22 Oct 2026 | Redirect: S'aint Panic, Elle Dee, Arvin T, KORBEAT, okocz, skoglund, Byld | Arvin T, Byld, Elle Dee, KORBEAT, S'aint Panic, okocz, skoglund |
 | Sat, 24 Oct 2026 | FIXED with Mozhgan, JDH & Dave P, Universal Cave (all night) | JDH & Dave P, Mozhgan, Universal Cave |
-| Fri, 30 Oct 2026 | Synthicide Halloween ft Terence Fixmer, Andi, Justin Aulis Long, Stiffdance | Andi, Justin Aulis Long, Stiffdance, Terence Fixmer |
 
 ## Address
 
 98 Meserole Ave, Brooklyn, NY 11222 USA, New York City
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newyorkcity/club/good-room/)*

@@ -1,6 +1,6 @@
 # Studiodb
 
-Studiodb is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Frequencies of Displacement by Tehran Contemporary Sounds" on Thu, 1 Oct 2026.
+Studiodb is a music venue in Berlin with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Frequencies of Displacement by Tehran Contemporary Sounds" on Thu, 1 Oct 2026.
 
 Studiodb is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with line-ups including Kat Polar and Raw Image. Browse upcoming dates, start times and who's playing. Uferstrasse 8-11 ,Tor A, Studio A14 13357 Berlin.
 
@@ -15,4 +15,4 @@ Studiodb is a music venue in Berlin listed on soundcheck. 2 upcoming gigs, with 
 
 Uferstrasse 8-11 ,Tor A, Studio A14 13357 Berlin, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studiodb/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/studiodb/)*

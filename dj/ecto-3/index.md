@@ -1,13 +1,14 @@
 # ECTO (3)
 
-ECTO (3) is a Club and Ghetto Tech artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at El Rio, San Francisco/Oakland on Sat, 31 Oct 2026.
+ECTO (3) is a Club and Ghetto Tech artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mothership, San Francisco/Oakland on Sun, 4 Oct 2026.
 
-ECTO is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 5 sets logged across San Francisco/Oakland. Often billed alongside Dj Nico, Discnogirl and Lonald J. Bandz. Next up: El Rio, San Francisco/Oakland on Sat 31 Oct.
+ECTO is a club and ghetto tech artist based in United States of America, tracked on soundcheck, with 6 sets logged across San Francisco/Oakland. Often billed alongside Dj Nico, Discnogirl and FINISHHER. Next up: Mothership, San Francisco/Oakland on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | Mothership | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | El Rio | San Francisco/Oakland |
 | Sat, 31 Oct 2026 | El Rio | San Francisco/Oakland |
 
@@ -19,6 +20,6 @@ ECTO is a club and ghetto tech artist based in United States of America, tracked
 
 ## Shares bills with
 
-Dj Nico, Discnogirl, Lonald J. Bandz
+Dj Nico, Discnogirl, FINISHHER
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ecto-3/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ecto-3/)*

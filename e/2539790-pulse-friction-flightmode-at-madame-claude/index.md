@@ -1,6 +1,6 @@
 # Pulse Friction × FLIGHTMODE at Madame Claude
 
-Pulse Friction × FLIGHTMODE at Madame Claude on Sat 3 Oct, Berlin. 5 artists on the bill: dOctOr doms, Dr. Sud, Funken and Joe Peck and 1 more. House and Electronica. Preview the line-up and save it on soundcheck.
+Pulse Friction × FLIGHTMODE at Madame Claude on Sat 3 Oct, Berlin. 5 artists on the bill: doctor doms, Dr. Sud, Funken and Joe Peck and 1 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Pulse Friction × FLIGHTMODE at Madame Claude on Sat 3 Oct, Berlin. 5 artists on
 
 ## Line-up
 
-- dOctOr doms
+- doctor doms
 - Dr. Sud
 - Funken
 - Joe Peck

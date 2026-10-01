@@ -1,6 +1,6 @@
 # PAUNA
 
-PAUNA is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
+PAUNA is a Techno and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Grelle Forelle, Vienna on Fri, 2 Oct 2026.
 
 PAUNA is a techno and minimal artist based in Austria, tracked on soundcheck, with 40 sets logged across Berlin and Vienna. Often billed alongside NUNØ, KRETA and Kay Barton. Next up: Grelle Forelle, Vienna on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ PAUNA is a techno and minimal artist based in Austria, tracked on soundcheck, wi
 
 NUNØ, KRETA, Kay Barton
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/pauna/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pauna/)*

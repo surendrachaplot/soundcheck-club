@@ -1,8 +1,8 @@
 # David Harness
 
-David Harness is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
+David Harness is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at California Plaza, Los Angeles on Sat, 10 Oct 2026.
 
-David Harness is a house and deep house artist based in United States of America, tracked on soundcheck, with 70 sets logged across Amsterdam, Detroit, Lisbon and London and 5 more. Often billed alongside Homero Espinosa, nina sol and DJ M3. Next up: California Plaza, Los Angeles on Sat 10 Oct.
+David Harness is a house and deep house artist based in United States of America, tracked on soundcheck, with 71 sets logged across Amsterdam, Detroit, Lisbon and London and 6 more. Often billed alongside Homero Espinosa, nina sol and DJ M3. Next up: California Plaza, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ David Harness is a house and deep house artist based in United States of America
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | California Plaza | Los Angeles |
 | Sun, 18 Oct 2026 | Audio SF | San Francisco/Oakland |
+| Thu, 11 Mar 2027 | Mantamar Beach Club | Puerto-vallarta |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ David Harness is a house and deep house artist based in United States of America
 
 Homero Espinosa, nina sol, DJ M3
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/davidharness/)*

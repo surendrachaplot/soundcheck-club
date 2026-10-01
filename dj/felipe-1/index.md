@@ -1,6 +1,6 @@
 # Felipe (1)
 
-Felipe (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
+Felipe (1) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Angel Music Bar, Melbourne on Fri, 16 Oct 2026.
 
 Felipe is a house and deep house artist tracked on soundcheck, with 6 sets logged across Melbourne and Miami. Often billed alongside Nico Moon, Pol K and Elizabëth. Next up: Angel Music Bar, Melbourne on Fri 16 Oct.
 
@@ -22,4 +22,4 @@ Felipe is a house and deep house artist tracked on soundcheck, with 6 sets logge
 
 Nico Moon, Pol K, Elizabëth
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/felipe-1/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/felipe-1/)*

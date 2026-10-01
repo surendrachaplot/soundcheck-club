@@ -1,8 +1,8 @@
 # block.
 
-block. is a music venue in Dublin with 9 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Omni presents: Jake Fitz B2B Eric Brown ANL" on Sat, 3 Oct 2026.
+block. is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Omni presents: Jake Fitz B2B Eric Brown ANL" on Sat, 3 Oct 2026.
 
-block. is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with line-ups including John Digweed, Ejeca, Enzo Siragusa and Jake Fitz and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
+block. is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including Boss Priester, John Digweed, Ejeca and Enzo Siragusa and 2 more. Browse upcoming dates, start times and who's playing. 13-14, Liberty Ln, Portobello.
 
 ## What's on
 
@@ -15,6 +15,7 @@ block. is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with li
 | Sat, 17 Oct 2026 | Block: Ejeca | Ejeca, Surka (1) |
 | Fri, 23 Oct 2026 | Block x Raw: SHDW | NILAAA, Phil Bass, SHDW |
 | Sat, 24 Oct 2026 | Block x Influence: LESSSS | LESSSS |
+| Sun, 25 Oct 2026 | Block x Omni: Boss Priester | Boss Priester |
 | Sat, 31 Oct 2026 | Block: Spray & Or:la | Or:la, Spray |
 | Sat, 28 Nov 2026 | Block: John Digweed | John Digweed |
 
@@ -22,4 +23,4 @@ block. is a music venue in Dublin listed on soundcheck. 9 upcoming gigs, with li
 
 13-14, Liberty Ln, Portobello, Dublin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dublin/club/block/)*

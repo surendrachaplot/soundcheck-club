@@ -1,8 +1,8 @@
 # Eva Charley
 
-Eva Charley is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
+Eva Charley is a Techno and Trance artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lokschuppen Berlin, Berlin on Sat, 17 Oct 2026.
 
-Eva Charley is a techno and trance artist based in Australia, tracked on soundcheck, with 36 sets logged across Berlin, Cologne, Hamburg and Sydney and 1 more. Often billed alongside GMOZ, BabaBass3000 and Malfunkt. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
+Eva Charley is a techno and trance artist based in Australia, tracked on soundcheck, with 37 sets logged across Berlin, Cologne, Hamburg and Sydney and 1 more. Often billed alongside GMOZ, BabaBass3000 and Malfunkt. Next up: Lokschuppen Berlin, Berlin on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Eva Charley is a techno and trance artist based in Australia, tracked on soundch
 | Sat, 24 Oct 2026 | Ehrenfeld XL | Cologne |
 | Sat, 24 Oct 2026 | Schrotty | Cologne |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
+| Sat, 3 Jul 2027 | Lokschuppen Berlin | Berlin |
 
 ## Recently played
 
@@ -28,4 +29,4 @@ Eva Charley is a techno and trance artist based in Australia, tracked on soundch
 
 GMOZ, BabaBass3000, Malfunkt
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/evacharley/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/evacharley/)*

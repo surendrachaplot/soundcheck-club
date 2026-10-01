@@ -1,14 +1,15 @@
 # CRAVO
 
-CRAVO is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at NADA Lisbon, Lisbon on Sat, 3 Oct 2026.
+CRAVO is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NADA Lisbon, Lisbon on Sat, 3 Oct 2026.
 
-CRAVO is a techno and club artist based in Portugal, tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 23 more. Often billed alongside VIL (PT), Enkō and Temudo. Next up: NADA Lisbon, Lisbon on Sat 3 Oct.
+CRAVO is a techno and club artist based in Portugal, tracked on soundcheck, with 100 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 23 more. Often billed alongside VIL (PT), Enkō and Temudo. Next up: NADA Lisbon, Lisbon on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | NADA Lisbon | Lisbon |
+| Fri, 16 Oct 2026 | Gare Porto | Porto |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
 
@@ -27,4 +28,4 @@ CRAVO is a techno and club artist based in Portugal, tracked on soundcheck, with
 
 VIL (PT), Enkō, Temudo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cravo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cravo/)*

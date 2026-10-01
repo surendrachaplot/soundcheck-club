@@ -1,6 +1,6 @@
 # chinobi
 
-chinobi is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bridge 48, Barcelona on Fri, 23 Oct 2026.
+chinobi is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Bridge 48, Barcelona on Fri, 23 Oct 2026.
 
 chinobi is an electronic artist tracked on soundcheck, with 13 sets logged across Barcelona. Often billed alongside Clagosa, Agoostina and Deenamic. Next up: Bridge 48, Barcelona on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ chinobi is an electronic artist tracked on soundcheck, with 13 sets logged acros
 
 Clagosa, Agoostina, Deenamic
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/chinobi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/chinobi/)*

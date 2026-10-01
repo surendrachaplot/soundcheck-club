@@ -1,6 +1,6 @@
 # Exchange
 
-Exchange is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Toy Tonics Bristol Jam: Cody Currie, Arpy Brown + Safiye" on Fri, 16 Oct 2026.
+Exchange is a music venue in Bristol with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Toy Tonics Bristol Jam: Cody Currie, Arpy Brown + Safiye" on Fri, 16 Oct 2026.
 
 Exchange is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with line-ups including James Nash. Browse upcoming dates, start times and who's playing. 72-73 Old Market; Bristol BS2 0EJ; United Kingdom.
 
@@ -15,4 +15,4 @@ Exchange is a music venue in Bristol listed on soundcheck. 2 upcoming gigs, with
 
 72-73 Old Market; Bristol BS2 0EJ; United Kingdom, Bristol
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/exchange/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/bristol/club/exchange/)*

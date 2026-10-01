@@ -1,8 +1,8 @@
 # Luigi Tozzi
 
-Luigi Tozzi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Macadam, Nantes on Sat, 3 Oct 2026.
+Luigi Tozzi is a Techno and House artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Macadam, Nantes on Sat, 3 Oct 2026.
 
-Luigi Tozzi is a techno and house artist based in Italy, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Laura BCR, Claudio PRC and Feral. Next up: Macadam, Nantes on Sat 3 Oct.
+Luigi Tozzi is a techno and house artist based in Italy, tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 30 more. Often billed alongside Laura BCR, Feral and Claudio PRC. Next up: Macadam, Nantes on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Luigi Tozzi is a techno and house artist based in Italy, tracked on soundcheck, 
 | Fri, 9 Oct 2026 | RSO.BERLIN | Berlin |
 | Sat, 17 Oct 2026 | MÄX | Zurich |
 | Sat, 24 Oct 2026 | Azimut Club | Turin |
+| Sat, 31 Oct 2026 | DURO | Milan |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Fri, 20 Nov 2026 | TBA - Los Angeles | Los Angeles |
 | Sat, 21 Nov 2026 | TBA - Los Angeles | Los Angeles |
@@ -31,6 +32,6 @@ Luigi Tozzi is a techno and house artist based in Italy, tracked on soundcheck, 
 
 ## Shares bills with
 
-Laura BCR, Claudio PRC, Feral
+Laura BCR, Feral, Claudio PRC
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luigitozzi/)*

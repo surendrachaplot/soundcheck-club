@@ -14,7 +14,7 @@ Oscillate Sunday Session at Starlane Pizza Bar on Sun 11 Oct, London. 8 artists 
 - FrezZ
 - Giacomo Mei
 - Obreja.
-- Pharo
+- Phåro (2)
 - Space Shinobi
 - Stefan Andrei
 - Triff

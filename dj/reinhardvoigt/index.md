@@ -1,6 +1,6 @@
 # Reinhard Voigt
 
-Reinhard Voigt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
+Reinhard Voigt is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Loco Park, Tbilisi on Fri, 2 Oct 2026.
 
 Reinhard Voigt is a techno and house artist based in Germany, tracked on soundcheck, with 9 sets logged across Barcelona, Berlin, Cologne and Tbilisi. Often billed alongside Michael Mayer, Denis Stockhausen and Robag Wruhme. Next up: Loco Park, Tbilisi on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ Reinhard Voigt is a techno and house artist based in Germany, tracked on soundch
 
 Michael Mayer, Denis Stockhausen, Robag Wruhme
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/reinhardvoigt/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/reinhardvoigt/)*

@@ -1,14 +1,14 @@
 # Balou (2)
 
-Balou (2) is a House and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Barcelona on Fri, 2 Oct 2026.
+Balou (2) is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 5 Nov 2026.
 
-Balou is a house and trance artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona and Montreal. Often billed alongside Adria (ES), Bailey Leunig and Bruno Castillo. Next up: TBA, Barcelona on Fri 2 Oct.
+Balou is a house and electro artist based in Spain, tracked on soundcheck, with 6 sets logged across Barcelona and Montreal. Often billed alongside Adria (ES), B2G and Bailey Leunig. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 5 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Barcelona |
+| Thu, 5 Nov 2026 | TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona | Barcelona |
 
 ## Recently played
 
@@ -20,6 +20,6 @@ Balou is a house and trance artist based in Spain, tracked on soundcheck, with 6
 
 ## Shares bills with
 
-Adria (ES), Bailey Leunig, Bruno Castillo
+Adria (ES), B2G (1), Bailey Leunig
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/balou-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/balou-2/)*

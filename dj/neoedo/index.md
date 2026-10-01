@@ -1,6 +1,6 @@
 # Neo Edo
 
-Neo Edo is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
+Neo Edo is a Techno and Hardcore artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Foufounes Electronique, Montreal on Fri, 9 Oct 2026.
 
 Neo Edo is a techno and hardcore artist based in Canada, tracked on soundcheck, with 45 sets logged across Montreal. Often billed alongside D.Blavatsky, Beamskii and DJ Pacifier. Next up: Foufounes Electronique, Montreal on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Neo Edo is a techno and hardcore artist based in Canada, tracked on soundcheck, 
 
 D.Blavatsky, Beamskii, DJ Pacifier
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neoedo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neoedo/)*

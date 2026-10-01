@@ -1,6 +1,6 @@
 # Lovehaus
 
-Lovehaus is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "LOW TIDE" on Sun, 27 Sept 2026.
+Lovehaus is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "LOW TIDE" on Sun, 27 Sept 2026.
 
 Lovehaus is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including COOK SWEET and Small Crab. Browse upcoming dates, start times and who's playing. B1, 6 Itaewon-ro 23-gil, Yongsan-gu, Seoul, South Korea.
 
@@ -14,4 +14,4 @@ Lovehaus is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with li
 
 B1, 6 Itaewon-ro 23-gil, Yongsan-gu, Seoul, South Korea, Seoul
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lovehaus/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/seoul/club/lovehaus/)*

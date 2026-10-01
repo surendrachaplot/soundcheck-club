@@ -1,8 +1,8 @@
 # Kapsule
 
-Kapsule is a music venue in Liverpool with 10 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Kapsule with Shanti Celeste, Ivan Smagghe & Aerofunk" on Fri, 2 Oct 2026.
+Kapsule is a music venue in Liverpool with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Kapsule with Shanti Celeste, Ivan Smagghe & Aerofunk" on Fri, 2 Oct 2026.
 
-Kapsule is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, with line-ups including Aerofunk, Autumns, Bradley Zero and Budino and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
+Kapsule is a music venue in Liverpool listed on soundcheck. 11 upcoming gigs, with line-ups including Aerofunk, Autumns, Bradley Zero and Budino and 2 more. Browse upcoming dates, start times and who's playing. 3 Regent Road, Liverpool, L3 7DS.
 
 ## What's on
 
@@ -15,12 +15,12 @@ Kapsule is a music venue in Liverpool listed on soundcheck. 10 upcoming gigs, wi
 | Fri, 23 Oct 2026 | The Sirens Call 2nd Birthday (Pt.1) with Vladimir Ivkovic & Budino, Liverpool | Budino, Vladimir Ivkovic |
 | Sat, 24 Oct 2026 | Glass presents Chaos In The CBD In Dust We Trust Tour | Chaos In The CBD, RoomToo |
 | Fri, 30 Oct 2026 | PSS Halloween with Rossko, Nay Barr & Riles | Rossko |
+| Sat, 14 Nov 2026 | Foreplay: Soul Mass Transit System (2hr), Sulphur,  Lu.Re | Lu.Re, Soul Mass Transit System, Sulphur |
 | Sat, 28 Nov 2026 | Sirens Call with Bradley Zero All Night Long | Bradley Zero |
 | Sat, 28 Nov 2026 | The Sirens Call with Bradley Zero All Night Long | Bradley Zero |
-| Sun, 27 Dec 2026 | mUmU  [The techno edition] |  |
 
 ## Address
 
 3 Regent Road, Liverpool, L3 7DS, Liverpool
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/liverpool/club/kapsule/)*

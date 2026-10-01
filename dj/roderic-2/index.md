@@ -1,6 +1,6 @@
 # Roderic (2)
 
-Roderic (2) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 16 Oct 2026.
+Roderic (2) is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri, 16 Oct 2026.
 
 Roderic is a house and deep house artist based in Mexico, tracked on soundcheck, with 16 sets logged across Mexico City, Miami and New York City. Often billed alongside Jo.Ke, Barreto and GOLDEN PINEAPPLE. Next up: Ex Hacienda de San Pablo de Enmedio, Mexico City on Fri 16 Oct.
 
@@ -25,4 +25,4 @@ Roderic is a house and deep house artist based in Mexico, tracked on soundcheck,
 
 Jo.Ke, Barreto, GOLDEN PINEAPPLE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/roderic-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/roderic-2/)*

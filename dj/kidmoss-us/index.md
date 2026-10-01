@@ -1,6 +1,6 @@
 # Kid Moss
 
-Kid Moss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 29 Oct 2026.
+Kid Moss is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu, 29 Oct 2026.
 
 Kid Moss is a house and techno artist based in Venezuela, tracked on soundcheck, with 91 sets logged across Barcelona, Berlin, Geneva and London and 1 more. Often billed alongside Guedes (ES), Guedes and IVAN POSEIDON. Next up: TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona, Barcelona on Thu 29 Oct.
 
@@ -25,4 +25,4 @@ Kid Moss is a house and techno artist based in Venezuela, tracked on soundcheck,
 
 Guedes (ES), Guedes, IVAN POSEIDON
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kidmoss-us/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kidmoss-us/)*

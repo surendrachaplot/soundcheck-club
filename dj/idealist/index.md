@@ -1,13 +1,14 @@
 # Idealist
 
-Idealist is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Paloma, Berlin on Sun, 7 Feb 2027.
+Idealist is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Lausanne on Sat, 17 Oct 2026.
 
-Idealist is an electronic artist tracked on soundcheck, with 2 sets logged across Berlin and Budapest. Often billed alongside Garpo, ZOL and eterna_l. Next up: Paloma, Berlin on Sun 7 Feb.
+Idealist is an electronic artist tracked on soundcheck, with 3 sets logged across Berlin, Budapest and Lausanne. Often billed alongside Garpo, Hatari! and Mother Dubber. Next up: TBA, Lausanne on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | TBA | Lausanne |
 | Sun, 7 Feb 2027 | Paloma | Berlin |
 
 ## Recently played
@@ -16,6 +17,6 @@ Idealist is an electronic artist tracked on soundcheck, with 2 sets logged acros
 
 ## Shares bills with
 
-Garpo, ZOL, eterna_l
+Garpo, Hatari!, Mother Dubber
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/idealist/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/idealist/)*

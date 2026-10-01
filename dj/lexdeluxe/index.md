@@ -1,6 +1,6 @@
 # Lex
 
-Lex is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Melbourne on Sat, 21 Nov 2026.
+Lex is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Melbourne on Sat, 21 Nov 2026.
 
 Lex is a house and techno artist based in Australia, tracked on soundcheck, with 34 sets logged across Amsterdam, Brisbane, Melbourne and Mexico City and 2 more. Often billed alongside suki, Hannah D and DJ Monke. Next up: TBA, Melbourne on Sat 21 Nov.
 
@@ -26,4 +26,4 @@ Lex is a house and techno artist based in Australia, tracked on soundcheck, with
 
 suki, Hannah D, DJ Monke
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lexdeluxe/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexdeluxe/)*

@@ -1,14 +1,15 @@
 # matildnz
 
-matildnz is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
+matildnz is a Electro and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
-matildnz is an electronic artist based in Germany, tracked on soundcheck, with 3 sets logged across Cologne and Hamburg. Often billed alongside Ada Luvv, Andreas Henneberg and Barbara Alvarez. Next up: Südpol, Hamburg on Fri 2 Oct.
+matildnz is an electro and techno artist based in Germany, tracked on soundcheck, with 4 sets logged across Cologne, Dortmund Essen and Hamburg. Often billed alongside Ada Luvv, Andreas Henneberg and Barbara Alvarez. Next up: Südpol, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Südpol | Hamburg |
+| Sat, 28 Nov 2026 | Zeche Zollverein | Dortmund-essen |
 
 ## Recently played
 
@@ -19,4 +20,4 @@ matildnz is an electronic artist based in Germany, tracked on soundcheck, with 3
 
 Ada Luvv, Andreas Henneberg, Barbara Alvarez
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matildnz/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matildnz/)*

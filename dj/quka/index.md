@@ -1,6 +1,6 @@
 # Quka
 
-Quka is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Club Magno, Madrid on Thu, 22 Oct 2026.
+Quka is a Hardcore and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Club Magno, Madrid on Thu, 22 Oct 2026.
 
 Quka is a hardcore and trance artist based in Spain, tracked on soundcheck, with 24 sets logged across Brussels and Madrid. Often billed alongside Atrâm, Diego Armando and FUKCNORMAL. Next up: Club Magno, Madrid on Thu 22 Oct.
 
@@ -25,4 +25,4 @@ Quka is a hardcore and trance artist based in Spain, tracked on soundcheck, with
 
 Atrâm, Diego Armando, FUKCNORMAL
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/quka/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/quka/)*

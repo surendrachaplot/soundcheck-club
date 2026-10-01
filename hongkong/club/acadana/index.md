@@ -1,13 +1,14 @@
 # Acadana
 
-Acadana is a music venue in Hong Kong with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "DROPSOUND 3RD ANNIVERSARY" on Sat, 3 Oct 2026.
+Acadana is a music venue in Hong Kong with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Avyakta with Woody92 (Omen Wapta, Delft)" on Fri, 2 Oct 2026.
 
-Acadana is a music venue in Hong Kong listed on soundcheck. 2 upcoming gigs, with line-ups including ADRIANNA.C, Charlieowo, Dan-neo and Francis_kkk and 2 more. Browse upcoming dates, start times and who's playing. B22, B23, Blk B, New Territories, Hong Kong.
+Acadana is a music venue in Hong Kong listed on soundcheck. 3 upcoming gigs, with line-ups including ADRIANNA.C, Charlieowo, Chingyi and Dan-neo and 2 more. Browse upcoming dates, start times and who's playing. B22, B23, Blk B, New Territories, Hong Kong.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Avyakta with Woody92 (Omen Wapta, Delft) | ADRIANNA.C, Charlieowo, Chingyi, Faxtory, JFÜNG, Konnection, Sean UNI, Woody92 |
 | Sat, 3 Oct 2026 | DROPSOUND 3RD ANNIVERSARY | ADRIANNA.C, Charlieowo, Dan-neo, Francis_kkk, M8-MDM8, MarcoYu, Mill.H, Tfeelscary, Zarah Fong, xylon |
 | Fri, 20 Nov 2026 | S0S pres. Roxy | WOON |
 
@@ -15,4 +16,4 @@ Acadana is a music venue in Hong Kong listed on soundcheck. 2 upcoming gigs, wit
 
 B22, B23, Blk B, New Territories, Hong Kong, Hong Kong
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/acadana/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/hongkong/club/acadana/)*

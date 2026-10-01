@@ -1,17 +1,18 @@
 # Don Fairylèon
 
-Don Fairylèon is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - ?, Atlanta on Thu, 15 Oct 2026.
+Don Fairylèon is a electronic artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lunchbox, Atlanta on Sat, 10 Oct 2026.
 
-Don Fairylèon is an electronic artist based in United States of America, tracked on soundcheck, with 1 set logged across Atlanta. Often billed alongside BRATATTACK and Nyah Cami. Next up: TBA - ?, Atlanta on Thu 15 Oct.
+Don Fairylèon is an electronic artist based in United States of America, tracked on soundcheck, with 2 sets logged across Atlanta. Often billed alongside Alxander Ivey, Amarji King and BRATATTACK. Next up: Lunchbox, Atlanta on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Lunchbox | Atlanta |
 | Thu, 15 Oct 2026 | TBA - ? | Atlanta |
 
 ## Shares bills with
 
-BRATATTACK, Nyah Cami
+Alxander Ivey, Amarji King, BRATATTACK
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donfairyleon/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donfairyleon/)*

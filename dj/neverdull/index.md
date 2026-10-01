@@ -1,6 +1,6 @@
 # Never Dull
 
-Never Dull is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
+Never Dull is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Heaps Normal Health Club, Sydney on Sat, 31 Oct 2026.
 
 Never Dull is a house and disco artist based in United States of America, tracked on soundcheck, with 68 sets logged across Amsterdam, Austin, Boston and Chicago and 18 more. Often billed alongside Rich Reason, Acid Jacks and Boogietraxx. Next up: Heaps Normal Health Club, Sydney on Sat 31 Oct.
 
@@ -26,4 +26,4 @@ Never Dull is a house and disco artist based in United States of America, tracke
 
 Rich Reason, Acid Jacks, Boogietraxx
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdull/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/neverdull/)*

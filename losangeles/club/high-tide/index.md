@@ -1,6 +1,6 @@
 # High Tide
 
-High Tide is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Feel Good L.A w / Tony Touch" on Fri, 9 Oct 2026.
+High Tide is a music venue in Los Angeles with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Feel Good L.A w / Tony Touch" on Fri, 9 Oct 2026.
 
 High Tide is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs, with line-ups including Kyrxmi. Browse upcoming dates, start times and who's playing. 605 E 4th St, Los Angeles, CA 90013.
 
@@ -15,4 +15,4 @@ High Tide is a music venue in Los Angeles listed on soundcheck. 2 upcoming gigs,
 
 605 E 4th St, Los Angeles, CA 90013, Los Angeles
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/high-tide/)*

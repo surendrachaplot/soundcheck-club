@@ -1,6 +1,6 @@
 # Kahani
 
-Kahani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Royale, Boston on Fri, 13 Nov 2026.
+Kahani is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Royale, Boston on Fri, 13 Nov 2026.
 
 Kahani is a house and techno artist based in United States of America, tracked on soundcheck, with 45 sets logged across Amsterdam, Austin, Birmingham and Boston and 16 more. Often billed alongside Kunal Merchant, Anvaya and Ethyr. Next up: Royale, Boston on Fri 13 Nov.
 
@@ -26,4 +26,4 @@ Kahani is a house and techno artist based in United States of America, tracked o
 
 Kunal Merchant, Anvaya, Ethyr
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kahani/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kahani/)*

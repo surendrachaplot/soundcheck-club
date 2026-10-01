@@ -1,6 +1,6 @@
 # Cowa
 
-Cowa is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Clark Park 4498 Chester Ave, Philadelphia, PA, Philadelphia on Sat, 3 Oct 2026.
+Cowa is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Clark Park 4498 Chester Ave, Philadelphia, PA, Philadelphia on Sat, 3 Oct 2026.
 
 Cowa is a house and club artist based in United States of America, tracked on soundcheck, with 14 sets logged across Philadelphia and Washington DC. Often billed alongside Big Queso, tj groover and Qino Bounce. Next up: TBA - Clark Park 4498 Chester Ave, Philadelphia, PA, Philadelphia on Sat 3 Oct.
 
@@ -12,7 +12,7 @@ Cowa is a house and club artist based in United States of America, tracked on so
 
 ## Recently played
 
-- TBA - Deli @ Dwell, American St & Thompson St, Philadelphia — Sat, 5 Sept 2026
+- TBA, Philadelphia — Sat, 5 Sept 2026
 - Liberty Point, Philadelphia — Sun, 30 Aug 2026
 - Bastet, Philadelphia — Fri, 28 Aug 2026
 - Upstairs at the 700, Philadelphia — Fri, 7 Aug 2026
@@ -25,4 +25,4 @@ Cowa is a house and club artist based in United States of America, tracked on so
 
 Big Queso, tj groover, Qino Bounce
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cowa/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cowa/)*

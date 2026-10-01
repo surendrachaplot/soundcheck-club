@@ -1,14 +1,15 @@
 # Kara-Lis Coverdale
 
-Kara-Lis Coverdale is a Experimental and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Temppeliaukio Church, Helsinki on Tue, 13 Oct 2026.
+Kara-Lis Coverdale is a Experimental and Ambient artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Temppeliaukio Church, Helsinki on Tue, 13 Oct 2026.
 
-Kara-Lis Coverdale is an experimental and techno artist based in Canada, tracked on soundcheck, with 26 sets logged across Amsterdam, Athens, Barcelona and Berlin and 12 more. Often billed alongside A Guy Called Gerald, Assyouti and Barker. Next up: Temppeliaukio Church, Helsinki on Tue 13 Oct.
+Kara-Lis Coverdale is an experimental and ambient artist based in Canada, tracked on soundcheck, with 27 sets logged across Amsterdam, Athens, Barcelona and Berlin and 13 more. Often billed alongside A Guy Called Gerald, Assyouti and Barker. Next up: Temppeliaukio Church, Helsinki on Tue 13 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 13 Oct 2026 | Temppeliaukio Church | Helsinki |
+| Sun, 8 Nov 2026 | The Convent of St. Agnes | Prague |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sun, 15 Nov 2026 | public records | New York City |
 
@@ -27,4 +28,4 @@ Kara-Lis Coverdale is an experimental and techno artist based in Canada, tracked
 
 A Guy Called Gerald, Assyouti, Barker
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/kara-liscoverdale/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kara-liscoverdale/)*

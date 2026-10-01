@@ -1,6 +1,6 @@
 # Francesco Farfa
 
-Francesco Farfa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
+Francesco Farfa is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Discoteca Paradiso, Naples on Sat, 10 Oct 2026.
 
 Francesco Farfa is a house and techno artist based in Italy, tracked on soundcheck, with 88 sets logged across Amsterdam, Bali, Barcelona and Belgrade and 24 more. Often billed alongside Janina, Alex Picone and Ale Carniel. Next up: Discoteca Paradiso, Naples on Sat 10 Oct.
 
@@ -26,4 +26,4 @@ Francesco Farfa is a house and techno artist based in Italy, tracked on soundche
 
 Janina, Alex Picone, Ale Carniel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/francescofarfa/)*

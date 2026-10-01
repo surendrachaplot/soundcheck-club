@@ -1,14 +1,15 @@
 # Frankie Bones
 
-Frankie Bones is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Refuge, New York City on Fri, 16 Oct 2026.
+Frankie Bones is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Refuge, New York City on Fri, 16 Oct 2026.
 
-Frankie Bones is a techno and house artist based in United States of America, tracked on soundcheck, with 42 sets logged across Berlin, Chicago, Detroit and Glasgow and 8 more. Often billed alongside Adam X, SPEEDŸ and Destro187. Next up: Refuge, New York City on Fri 16 Oct.
+Frankie Bones is a techno and house artist based in United States of America, tracked on soundcheck, with 43 sets logged across Berlin, Chicago, Detroit and Glasgow and 8 more. Often billed alongside Adam X, SPEEDŸ and Destro187. Next up: Refuge, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Refuge | New York City |
+| Sat, 31 Oct 2026 | 20 Meadow | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Frankie Bones is a techno and house artist based in United States of America, tr
 
 Adam X, SPEEDŸ, Destro187
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiebones/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frankiebones/)*

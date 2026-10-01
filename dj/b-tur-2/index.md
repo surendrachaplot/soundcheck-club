@@ -1,14 +1,15 @@
 # B-TUR (2)
 
-B-TUR (2) is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Sky Club, Leipzig on Fri, 30 Oct 2026.
+B-TUR (2) is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Sky Club, Leipzig on Fri, 30 Oct 2026.
 
-B-TUR is a techno and trance artist based in Germany, tracked on soundcheck, with 8 sets logged across Leipzig. Often billed alongside MLDC, VLUNA and ESCALEA. Next up: Sky Club, Leipzig on Fri 30 Oct.
+B-TUR is a techno and trance artist based in Germany, tracked on soundcheck, with 9 sets logged across Leipzig and Saxony Anhalt. Often billed alongside ESCALEA, MLDC and VLUNA. Next up: Sky Club, Leipzig on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Sky Club | Leipzig |
+| Fri, 13 Nov 2026 | Kaiserdrom Halle | Saxony-anhalt |
 
 ## Recently played
 
@@ -22,6 +23,6 @@ B-TUR is a techno and trance artist based in Germany, tracked on soundcheck, wit
 
 ## Shares bills with
 
-MLDC, VLUNA, ESCALEA
+ESCALEA, MLDC, VLUNA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/b-tur-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/b-tur-2/)*

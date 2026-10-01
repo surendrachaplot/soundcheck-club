@@ -1,6 +1,6 @@
 # Mondo Open Air
 
-Mondo Open Air is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Mondo OPEN AIR #10: Andres Campo / Ollie Lishman / Gerardo Niva / BIXBITA / pavvvvvvlo" on Sat, 3 Oct 2026.
+Mondo Open Air is a music venue in Madrid with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Mondo OPEN AIR #10: Andres Campo / Ollie Lishman / Gerardo Niva / BIXBITA / pavvvvvvlo" on Sat, 3 Oct 2026.
 
 Mondo Open Air is a music venue in Madrid listed on soundcheck. 4 upcoming gigs, with line-ups including Andres Campo, Bad Boombox, Benwal and BIXBITA and 2 more. Browse upcoming dates, start times and who's playing. Av. San Martín de Valdeiglesias, 22, 28922 Alcorcón, Madrid.
 
@@ -17,4 +17,4 @@ Mondo Open Air is a music venue in Madrid listed on soundcheck. 4 upcoming gigs,
 
 Av. San Martín de Valdeiglesias, 22, 28922 Alcorcón, Madrid, Madrid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo-open-air/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/mondo-open-air/)*

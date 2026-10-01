@@ -1,13 +1,14 @@
 # Hadone
 
-Hadone is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Concept Haus, Manchester on Sat, 7 Nov 2026.
+Hadone is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret Warehouse, Paris on Sat, 31 Oct 2026.
 
-Hadone is a techno and house artist based in France, tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside UFO95, Chlär and DC Salas. Next up: Concept Haus, Manchester on Sat 7 Nov.
+Hadone is a techno and house artist based in France, tracked on soundcheck, with 171 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 50 more. Often billed alongside UFO95, Chlär and DC Salas. Next up: TBA - Secret Warehouse, Paris on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 31 Oct 2026 | TBA - Secret Warehouse | Paris |
 | Sat, 7 Nov 2026 | Concept Haus | Manchester |
 
 ## Recently played
@@ -25,4 +26,4 @@ Hadone is a techno and house artist based in France, tracked on soundcheck, with
 
 UFO95, Chlär, DC Salas
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hadone/)*

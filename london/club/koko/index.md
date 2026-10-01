@@ -1,6 +1,6 @@
 # KOKO
 
-KOKO is a music venue in London with 33 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "KOKO - THE ULTIMATE FRESHERS EXPERIENCE" on Wed, 30 Sept 2026.
+KOKO is a music venue in London with 33 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "KOKO Electronic: Green Velvet" on Fri, 2 Oct 2026.
 
 KOKO is a music venue in London listed on soundcheck. 33 upcoming gigs, with line-ups including Andrea Oliva, Argia, ARODES and Claptone and 2 more. Browse upcoming dates, start times and who's playing. 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom.
 
@@ -8,7 +8,6 @@ KOKO is a music venue in London listed on soundcheck. 33 upcoming gigs, with lin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | KOKO - THE ULTIMATE FRESHERS EXPERIENCE |  |
 | Fri, 2 Oct 2026 | KOKO Electronic: Green Velvet | FIFI FORTE, Green Velvet, RUZE |
 | Sat, 3 Oct 2026 | KOKO Electronic: Oscar Mbo | Shamiso, Thakzin |
 | Fri, 9 Oct 2026 | KOKO Electronic: Swimming Paul | Swimming Paul |
@@ -18,9 +17,10 @@ KOKO is a music venue in London listed on soundcheck. 33 upcoming gigs, with lin
 | Sat, 17 Oct 2026 | KOKO Electronic: Michael Bibi [SOLD OUT] | Michael Bibi, RICHE, Rooléh |
 | Fri, 23 Oct 2026 | KOKO Electronic: THEMBA | THEMBA |
 | Sat, 24 Oct 2026 | Shanti Celeste's Birthday Party | Danielle, Leon Vynehall, Shanti Celeste |
+| Wed, 28 Oct 2026 | Conway the Machine UK Tour |  |
 
 ## Address
 
 1a Camden High Street; Camden Town; London NW1 7JE; United Kingdom, London
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/koko/)*

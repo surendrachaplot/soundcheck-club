@@ -1,15 +1,17 @@
 # Ayanna Heaven
 
-Ayanna Heaven is a Dancehall and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at public records, New York City on Mon, 9 Nov 2026.
+Ayanna Heaven is a Dancehall and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bossa Nova Civic Club, New York City on Thu, 8 Oct 2026.
 
-Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 76 sets logged across Athens, London, Manchester and New York City and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: public records, New York City on Mon 9 Nov.
+Ayanna Heaven is a dancehall and house artist based in United States of America, tracked on soundcheck, with 78 sets logged across Athens, London, Manchester and New York City and 2 more. Often billed alongside Honey Bun, Akanbi and Lovie. Next up: Bossa Nova Civic Club, New York City on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Mon, 9 Nov 2026 | public records | New York City |
 | Sun, 15 Nov 2026 | public records | New York City |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -26,4 +28,4 @@ Ayanna Heaven is a dancehall and house artist based in United States of America,
 
 Honey Bun, Akanbi, Lovie
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ayannaheaven/)*

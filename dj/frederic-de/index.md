@@ -1,8 +1,8 @@
 # Frederic.
 
-Frederic. is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at La Cité Fertile, Paris on Sun, 4 Oct 2026.
+Frederic. is a Techno and Trance artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Cité Fertile, Paris on Sun, 4 Oct 2026.
 
-Frederic. is a techno and trance artist based in Germany, tracked on soundcheck, with 174 sets logged across Amsterdam, Austin, Barcelona and Belfast and 31 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: La Cité Fertile, Paris on Sun 4 Oct.
+Frederic. is a techno and trance artist based in Germany, tracked on soundcheck, with 177 sets logged across Amsterdam, Austin, Barcelona and Belfast and 32 more. Often billed alongside CAIVA, Part Time Killer and MCR-T. Next up: La Cité Fertile, Paris on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,9 @@ Frederic. is a techno and trance artist based in Germany, tracked on soundcheck,
 | Fri, 23 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Sat, 24 Oct 2026 | Fusion Club | Munster |
 | Fri, 13 Nov 2026 | The Concourse Project | Austin |
+| Fri, 27 Nov 2026 | RSO.BERLIN | Berlin |
+| Fri, 4 Dec 2026 | Coliseo Medplus | Bogot |
+| Fri, 26 Feb 2027 | RSO.BERLIN | Berlin |
 
 ## Recently played
 
@@ -28,4 +31,4 @@ Frederic. is a techno and trance artist based in Germany, tracked on soundcheck,
 
 CAIVA, Part Time Killer, MCR-T
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/frederic-de/)*

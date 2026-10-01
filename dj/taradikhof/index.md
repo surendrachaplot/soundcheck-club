@@ -1,13 +1,14 @@
 # Tara Dikhof
 
-Tara Dikhof is a Club and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Rogers Park Chicago, Chicago on Sun, 11 Oct 2026.
+Tara Dikhof is a Club and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Urban Mo's, San-diego on Fri, 9 Oct 2026.
 
-Tara Dikhof is a club and house artist based in United States of America, tracked on soundcheck, with 6 sets logged across Boston, Chicago and Washington DC. Often billed alongside Bridge (NY), Ether Pleaser and JAXX.. Next up: TBA - Rogers Park Chicago, Chicago on Sun 11 Oct.
+Tara Dikhof is a club and house artist based in United States of America, tracked on soundcheck, with 7 sets logged across Boston, Chicago, San Diego and Washington DC. Often billed alongside ARMANA KHAN, Bridge (NY) and Ether Pleaser. Next up: Urban Mo's, San Diego on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Urban Mo's | San-diego |
 | Sun, 11 Oct 2026 | TBA - Rogers Park Chicago | Chicago |
 
 ## Recently played
@@ -20,6 +21,6 @@ Tara Dikhof is a club and house artist based in United States of America, tracke
 
 ## Shares bills with
 
-Bridge (NY), Ether Pleaser, JAXX.
+ARMANA KHAN, Bridge (NY), Ether Pleaser
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/taradikhof/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/taradikhof/)*

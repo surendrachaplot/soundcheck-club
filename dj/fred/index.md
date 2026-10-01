@@ -1,6 +1,6 @@
 # F Red
 
-F Red is a House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 93 Feet East, London on Sat, 28 Nov 2026.
+F Red is a House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 93 Feet East, London on Sat, 28 Nov 2026.
 
 F Red is a house artist based in Portugal, tracked on soundcheck, with 11 sets logged across Lisbon, London, Munich and Vienna. Often billed alongside Tellerboy, ANASTASÍA and Aldebaran. Next up: 93 Feet East, London on Sat 28 Nov.
 
@@ -25,4 +25,4 @@ F Red is a house artist based in Portugal, tracked on soundcheck, with 11 sets l
 
 Tellerboy, ANASTASÍA, Aldebaran
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fred/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fred/)*

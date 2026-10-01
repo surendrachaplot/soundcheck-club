@@ -1,8 +1,8 @@
 # Ferry Corsten
 
-Ferry Corsten is a Trance and Techno artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at ZEROTOKYO, Tokyo on Sun, 11 Oct 2026.
+Ferry Corsten is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ZEROTOKYO, Tokyo on Sun, 11 Oct 2026.
 
-Ferry Corsten is a trance and techno artist based in Netherlands, tracked on soundcheck, with 50 sets logged across Amsterdam, Brisbane, Bristol and Budapest and 26 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: ZEROTOKYO, Tokyo on Sun 11 Oct.
+Ferry Corsten is a trance and techno artist based in Netherlands, tracked on soundcheck, with 52 sets logged across Amsterdam, Austin, Brisbane and Bristol and 28 more. Often billed alongside Amy Wiles, Billy Gillies and Aly & Fila. Next up: ZEROTOKYO, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -11,8 +11,10 @@ Ferry Corsten is a trance and techno artist based in Netherlands, tracked on sou
 | Sun, 11 Oct 2026 | ZEROTOKYO | Tokyo |
 | Sat, 17 Oct 2026 | Blackstone Street Warehouse | Liverpool |
 | Fri, 23 Oct 2026 | Escape | Amsterdam |
+| Fri, 6 Nov 2026 | Butlin's Skegness Resort | Midlands |
 | Sat, 14 Nov 2026 | DRUMSHEDS | London |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
+| Fri, 18 Dec 2026 | The Concourse Project | Austin |
 | Sat, 12 Jun 2027 | Steelyard Kelham | Sheffield |
 
 ## Recently played
@@ -30,4 +32,4 @@ Ferry Corsten is a trance and techno artist based in Netherlands, tracked on sou
 
 Amy Wiles, Billy Gillies, Aly & Fila
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ferrycorsten/)*

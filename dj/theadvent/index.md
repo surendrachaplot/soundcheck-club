@@ -1,8 +1,8 @@
 # The Advent
 
-The Advent is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
+The Advent is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Sat, 3 Oct 2026.
 
-The Advent is a techno and house artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 38 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
+The Advent is a techno and house artist based in United Kingdom, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 39 more. Often billed alongside Nastia, Philippa Pacho and STERAC. Next up: Tresor / Globus, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ The Advent is a techno and house artist based in United Kingdom, tracked on soun
 | Sat, 3 Oct 2026 | Tresor / Globus | Berlin |
 | Fri, 9 Oct 2026 | TBA | Washington DC |
 | Sat, 10 Oct 2026 | TBA - Warehouse | Toronto |
+| Fri, 16 Oct 2026 | Good Fortune St. Pete | Tampa-bay |
 | Sat, 17 Oct 2026 | BASEMENT | New York City |
 | Fri, 23 Oct 2026 | Bassiani | Tbilisi |
 | Fri, 6 Nov 2026 | Club Exil | Vienna |
@@ -31,4 +32,4 @@ The Advent is a techno and house artist based in United Kingdom, tracked on soun
 
 Nastia, Philippa Pacho, STERAC
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/theadvent/)*

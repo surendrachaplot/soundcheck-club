@@ -1,6 +1,6 @@
 # Ruf Dug
 
-Ruf Dug is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at 1520, Manchester on Sun, 4 Oct 2026.
+Ruf Dug is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at 1520, Manchester on Sun, 4 Oct 2026.
 
 Ruf Dug is a house and disco artist based in United Kingdom, tracked on soundcheck, with 88 sets logged across Amsterdam, Bristol, Chicago and Dublin and 14 more. Often billed alongside Tia Cousins, AdomasLP and Tommy Cross. Next up: 1520, Manchester on Sun 4 Oct.
 
@@ -25,4 +25,4 @@ Ruf Dug is a house and disco artist based in United Kingdom, tracked on soundche
 
 Tia Cousins, AdomasLP, Tommy Cross
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rufdug/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rufdug/)*

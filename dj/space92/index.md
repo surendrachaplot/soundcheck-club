@@ -1,13 +1,14 @@
 # Space 92
 
-Space 92 is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Halle de La Machine, Toulouse on Sat, 10 Oct 2026.
+Space 92 is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bauhaus Vegas, Las-vegas on Sat, 3 Oct 2026.
 
-Space 92 is a techno and house artist based in France, tracked on soundcheck, with 129 sets logged across Amsterdam, Athens, Austin and Bangkok and 50 more. Often billed alongside Popof, Lilly Palmer and HI-LO. Next up: Halle de La Machine, Toulouse on Sat 10 Oct.
+Space 92 is a techno and house artist based in France, tracked on soundcheck, with 130 sets logged across Amsterdam, Athens, Austin and Bangkok and 51 more. Often billed alongside Popof, Lilly Palmer and HI-LO. Next up: Bauhaus Vegas, Las Vegas on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Bauhaus Vegas | Las-vegas |
 | Sat, 10 Oct 2026 | Halle de La Machine | Toulouse |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
 | Sat, 24 Oct 2026 | Havenpark | Amsterdam |
@@ -31,4 +32,4 @@ Space 92 is a techno and house artist based in France, tracked on soundcheck, wi
 
 Popof, Lilly Palmer, HI-LO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/space92/)*

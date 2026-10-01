@@ -1,14 +1,15 @@
 # SINAE
 
-SINAE is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Opera, Seoul on Fri, 9 Oct 2026.
+SINAE is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Opera, Seoul on Fri, 9 Oct 2026.
 
-SINAE is a techno and house artist based in South Korea, tracked on soundcheck, with 37 sets logged across Seoul. Often billed alongside Cy Nico, Short Finger and Zorba. Next up: The Opera, Seoul on Fri 9 Oct.
+SINAE is a techno and house artist based in South Korea, tracked on soundcheck, with 38 sets logged across Seoul. Often billed alongside Cy Nico, Short Finger and Zorba. Next up: The Opera, Seoul on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | The Opera | Seoul |
+| Fri, 30 Oct 2026 | Volnost | Seoul |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ SINAE is a techno and house artist based in South Korea, tracked on soundcheck, 
 
 Cy Nico, Short Finger, Zorba
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sinae/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sinae/)*

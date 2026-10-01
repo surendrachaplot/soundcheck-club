@@ -1,6 +1,6 @@
-# fabric: Joseph Capriati, Richy Ahmed (All Night Long), Cristina Lazic, Karretero, Mike Morissey at fabric
+# fabric: Joseph Capriati, Richy Ahmed (All Night Long), Cristina Lazic, Karretero, Mike Morrisey at fabric
 
-fabric: Joseph Capriati, Richy Ahmed (All Night Long), Cristina Lazic, Karretero, Mike Morissey on Mon 28 Dec, London. 8 artists on the bill: Cristina Lazic, Dan Costello, Joseph Capriati and Karretero and 4 more. Techno and House. Preview the line-up and save it on soundcheck.
+fabric: Joseph Capriati, Richy Ahmed (All Night Long), Cristina Lazic, Karretero, Mike Morrisey on Mon 28 Dec, London. 9 artists on the bill: Cristina Lazic, Dan Costello, Joey London and Joseph Capriati and 5 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ fabric: Joseph Capriati, Richy Ahmed (All Night Long), Cristina Lazic, Karretero
 
 - Cristina Lazic
 - Dan Costello
+- Joey London
 - Joseph Capriati
 - Karretero
 - Leith

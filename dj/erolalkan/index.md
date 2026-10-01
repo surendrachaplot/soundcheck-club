@@ -1,6 +1,6 @@
 # Erol Alkan
 
-Erol Alkan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Virage, Paris on Fri, 2 Oct 2026.
+Erol Alkan is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Virage, Paris on Fri, 2 Oct 2026.
 
 Erol Alkan is a house and techno artist based in United Kingdom, tracked on soundcheck, with 136 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 37 more. Often billed alongside 2ManyDJs, CC:DISCO! and DJ Paulette. Next up: Virage, Paris on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Erol Alkan is a house and techno artist based in United Kingdom, tracked on soun
 
 2ManyDJs, CC:DISCO!, DJ Paulette
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/erolalkan/)*

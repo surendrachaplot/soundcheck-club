@@ -1,13 +1,14 @@
 # Rich NXT
 
-Rich NXT is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Green Room NYC, New York City on Fri, 2 Oct 2026.
+Rich NXT is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at 3oz Dive Club, San Diego on Thu, 1 Oct 2026.
 
-Rich NXT is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 108 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: Green Room NYC, New York City on Fri 2 Oct.
+Rich NXT is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 109 sets logged across Amsterdam, Bali, Bangkok and Barcelona and 29 more. Often billed alongside Enzo Siragusa, Rossi and Laidlaw. Next up: 3oz Dive Club, San Diego on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | 3oz Dive Club | San Diego |
 | Fri, 2 Oct 2026 | Green Room NYC | New York City |
 | Sat, 3 Oct 2026 | TBA - HOURS (Denver Art District) | Denver |
 | Sun, 1 Nov 2026 | The Cause | London |
@@ -27,4 +28,4 @@ Rich NXT is a house and tech house artist based in United Kingdom, tracked on so
 
 Enzo Siragusa, Rossi, Laidlaw
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richnxt/)*

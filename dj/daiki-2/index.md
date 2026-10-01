@@ -1,17 +1,18 @@
 # Daiki (2)
 
-Daiki (2) is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Aoyama Hachi, Tokyo on Tue, 6 Oct 2026.
+Daiki (2) is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Lion Super Club, Seoul on Thu, 1 Oct 2026.
 
-Daiki is a house and disco artist based in Japan, tracked on soundcheck, with 1 set logged across Tokyo. Often billed alongside Hiroyuki Abe. Next up: Aoyama Hachi, Tokyo on Tue 6 Oct.
+Daiki is a house and disco artist based in Japan, tracked on soundcheck, with 2 sets logged across Seoul and Tokyo. Often billed alongside Hiroyuki Abe, LOOZBONE and Layton Giordani. Next up: Lion Super Club, Seoul on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Lion Super Club | Seoul |
 | Tue, 6 Oct 2026 | Aoyama Hachi | Tokyo |
 
 ## Shares bills with
 
-Hiroyuki Abe
+Hiroyuki Abe, LOOZBONE, Layton Giordani
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/daiki-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/daiki-2/)*

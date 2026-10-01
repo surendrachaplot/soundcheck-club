@@ -1,8 +1,8 @@
 # MUSCLECARS
 
-MUSCLECARS is a House and Deep House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Night Tales, London on Sat, 10 Oct 2026.
+MUSCLECARS is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Night Tales, London on Sat, 10 Oct 2026.
 
-MUSCLECARS is a house and deep house artist based in United States of America, tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Auckland and Austin and 36 more. Often billed alongside Lakuti, Tama Sumo and Toribio. Next up: Night Tales, London on Sat 10 Oct.
+MUSCLECARS is a house and deep house artist based in United States of America, tracked on soundcheck, with 172 sets logged across Amsterdam, Athens, Auckland and Austin and 36 more. Often billed alongside Lakuti, Tama Sumo and Toribio. Next up: Night Tales, London on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ MUSCLECARS is a house and deep house artist based in United States of America, t
 | Fri, 16 Oct 2026 | Doka | Amsterdam |
 | Sat, 17 Oct 2026 | ASIAT Park | Brussels |
 | Fri, 23 Oct 2026 | smartbar | Chicago |
+| Fri, 20 Nov 2026 | BAR Inc | Osaka |
 | Sat, 12 Dec 2026 | H0L0 | New York City |
 
 ## Recently played
@@ -29,4 +30,4 @@ MUSCLECARS is a house and deep house artist based in United States of America, t
 
 Lakuti, Tama Sumo, Toribio
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/musclecars/)*

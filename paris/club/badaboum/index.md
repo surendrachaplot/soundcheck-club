@@ -1,8 +1,8 @@
 # Badaboum
 
-Badaboum is a music venue in Paris with 17 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Club — LA CH!CK: PROJET X" on Thu, 1 Oct 2026.
+Badaboum is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Club — LA CH!CK: PROJET X" on Thu, 1 Oct 2026.
 
-Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with line-ups including Bennet (DE), Curses, Dana Kuehr and Elise Massoni and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
+Badaboum is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including Bennet (DE), Curses, Dana Kuehr and Dj Koyla and 2 more. Browse upcoming dates, start times and who's playing. 2 bis rue des Taillandiers; 75011; Paris; France.
 
 ## What's on
 
@@ -14,13 +14,13 @@ Badaboum is a music venue in Paris listed on soundcheck. 17 upcoming gigs, with 
 | Sat, 3 Oct 2026 | Club — House of Love: Nightchou & Young Pulse | Nightchou, Young Pulse |
 | Thu, 8 Oct 2026 | Club — LA CH!CK: REGGAETON ALLSTARS REVIVAL |  |
 | Fri, 9 Oct 2026 | Club — more girls behind decks Birthday Party | Elise Massoni |
+| Sat, 10 Oct 2026 | Club — Vanille Residency: After the Kick Release Party | Dj Koyla, Vanille |
 | Thu, 15 Oct 2026 | Club — LA CH!CK: JUST DANCE IRL |  |
 | Fri, 16 Oct 2026 | Club — LAMALICE Residency: Janeret, Dana Kuehr, Mel | Dana Kuehr, Janeret, LAMALICE, Mel |
 | Sat, 17 Oct 2026 | Club — Spray, Pureblast, Maco Maria | Maco Maria, Pureblast, Spray |
-| Thu, 22 Oct 2026 | Club — LA CH!CK: CH!CK MUSIC ONLY |  |
 
 ## Address
 
 2 bis rue des Taillandiers; 75011; Paris; France, Paris
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/paris/club/badaboum/)*

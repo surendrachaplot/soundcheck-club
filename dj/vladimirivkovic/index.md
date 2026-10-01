@@ -1,14 +1,13 @@
 # Vladimir Ivkovic
 
-Vladimir Ivkovic is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at BKW Hybrid Bar, Skopje on Wed, 30 Sept 2026.
+Vladimir Ivkovic is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gaffe, London on Fri, 2 Oct 2026.
 
-Vladimir Ivkovic is a techno and house artist based in Germany, tracked on soundcheck, with 215 sets logged across Amsterdam, Athens, Auckland and Bali and 64 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: BKW Hybrid Bar, Skopje on Wed 30 Sept.
+Vladimir Ivkovic is a techno and house artist based in Germany, tracked on soundcheck, with 214 sets logged across Amsterdam, Athens, Auckland and Bali and 64 more. Often billed alongside Lena Willikens, Ivan Smagghe and Ben UFO. Next up: Gaffe, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | BKW Hybrid Bar | Skopje |
 | Fri, 2 Oct 2026 | Gaffe | London |
 | Sat, 10 Oct 2026 | La Cheetah Club | Glasgow |
 | Fri, 16 Oct 2026 | TBA | Detroit |
@@ -20,13 +19,14 @@ Vladimir Ivkovic is a techno and house artist based in Germany, tracked on sound
 | Sun, 15 Nov 2026 | Burger Disco Club | Athens |
 | Sat, 21 Nov 2026 | Cadavra | Madrid |
 | Fri, 22 Jan 2027 | The Golden Lion | Manchester |
+| Tue, 1 Jun 2027 | TBA - Casale dell'arte - Catania  | Sicily |
 
 ## Recently played
 
+- BKW Hybrid Bar, Skopje — Wed, 30 Sept 2026
 - Inter-City, The Hague — Sat, 26 Sept 2026
 - Doka, Amsterdam — Fri, 25 Sept 2026
 - Doka, Amsterdam — Fri, 25 Sept 2026
-- Fort Mifflin, Philadelphia — Fri, 18 Sept 2026
 - Standard Time, Toronto — Fri, 18 Sept 2026
 - Macadam, Nantes — Sun, 13 Sept 2026
 - TBA - Will got massaged 1 Day before event , Zurich — Sat, 5 Sept 2026
@@ -36,4 +36,4 @@ Vladimir Ivkovic is a techno and house artist based in Germany, tracked on sound
 
 Lena Willikens, Ivan Smagghe, Ben UFO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/vladimirivkovic/)*

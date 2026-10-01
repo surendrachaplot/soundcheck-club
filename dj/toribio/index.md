@@ -1,8 +1,8 @@
 # Toribio
 
-Toribio is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Toribio is a House and Disco artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Toribio is a house and disco artist based in United States of America, tracked on soundcheck, with 216 sets logged across Amsterdam, Athens, Barcelona and Berlin and 16 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
+Toribio is a house and disco artist based in United States of America, tracked on soundcheck, with 217 sets logged across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Toribio is a house and disco artist based in United States of America, tracked o
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 9 Oct 2026 | Djoon | Paris |
+| Sat, 31 Oct 2026 | Loso | Richmond |
 | Sat, 12 Dec 2026 | H0L0 | New York City |
 
 ## Recently played
@@ -27,4 +28,4 @@ Toribio is a house and disco artist based in United States of America, tracked o
 
 Mickey Perez, Love Injection, Guthrie
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toribio/)*

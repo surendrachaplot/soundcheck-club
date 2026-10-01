@@ -1,6 +1,6 @@
 # Marcus Meya
 
-Marcus Meya is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Der Weiße Hase, Berlin on Fri, 4 Dec 2026.
+Marcus Meya is a Techno and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Der Weiße Hase, Berlin on Fri, 4 Dec 2026.
 
 Marcus Meya is a techno and tech house artist tracked on soundcheck, with 25 sets logged across Berlin. Often billed alongside Felix Reichelt, Kaminka Merel and Cat Vermillion. Next up: Der Weiße Hase, Berlin on Fri 4 Dec.
 
@@ -25,4 +25,4 @@ Marcus Meya is a techno and tech house artist tracked on soundcheck, with 25 set
 
 Felix Reichelt, Kaminka Merel, Cat Vermillion
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusmeya/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/marcusmeya/)*

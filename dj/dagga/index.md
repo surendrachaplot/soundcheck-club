@@ -1,6 +1,6 @@
 # Dagga
 
-Dagga is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Dagga is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
 Dagga is a techno and electro artist tracked on soundcheck, with 15 sets logged across Athens, Berlin, Cologne and Düsseldorf and 5 more. Often billed alongside KENYA20HZ, Jensen Interceptor and Born in Flamez. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ Dagga is a techno and electro artist tracked on soundcheck, with 15 sets logged 
 
 KENYA20HZ, Jensen Interceptor, Born in Flamez
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dagga/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dagga/)*

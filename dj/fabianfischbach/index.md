@@ -1,6 +1,6 @@
 # Fabian Fischbach
 
-Fabian Fischbach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Beate Uwe, Berlin on Fri, 23 Oct 2026.
+Fabian Fischbach is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Beate Uwe, Berlin on Fri, 23 Oct 2026.
 
 Fabian Fischbach is a techno and house artist based in Germany, tracked on soundcheck, with 28 sets logged across Berlin. Often billed alongside tzunamic, Anne-Sophie Selig and DAV3. Next up: Beate Uwe, Berlin on Fri 23 Oct.
 
@@ -25,4 +25,4 @@ Fabian Fischbach is a techno and house artist based in Germany, tracked on sound
 
 tzunamic, Anne-Sophie Selig, DAV3
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianfischbach/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fabianfischbach/)*

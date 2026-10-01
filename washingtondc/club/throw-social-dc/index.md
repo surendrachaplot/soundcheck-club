@@ -1,6 +1,6 @@
 # Throw Social DC
 
-Throw Social DC is a music venue in Washington DC with 6 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "[POSTPONED]- FULANITO" on Fri, 2 Oct 2026.
+Throw Social DC is a music venue in Washington DC with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "[POSTPONED]- FULANITO" on Fri, 2 Oct 2026.
 
 Throw Social DC is a music venue in Washington DC listed on soundcheck. 6 upcoming gigs, with line-ups including Roy Rosenfeld. Browse upcoming dates, start times and who's playing. 1401 Okie St NE, Ste #102 Washington D.C. 20002.
 
@@ -19,4 +19,4 @@ Throw Social DC is a music venue in Washington DC listed on soundcheck. 6 upcomi
 
 1401 Okie St NE, Ste #102 Washington D.C. 20002, Washington DC
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/washingtondc/club/throw-social-dc/)*

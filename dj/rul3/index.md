@@ -1,6 +1,6 @@
 # RUL3
 
-RUL3 is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Patronaat, Netherlands on Sat, 10 Oct 2026.
+RUL3 is a Techno and Progressive House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Patronaat, Netherlands on Sat, 10 Oct 2026.
 
 RUL3 is a techno and progressive house artist based in Netherlands, tracked on soundcheck, with 36 sets logged across Amsterdam, Netherlands, Rotterdam and The Hague and 1 more. Often billed alongside BEZMEZH, Mischa Duncan and Antonio Fevola. Next up: Patronaat, Netherlands on Sat 10 Oct.
 
@@ -25,4 +25,4 @@ RUL3 is a techno and progressive house artist based in Netherlands, tracked on s
 
 BEZMEZH, Mischa Duncan, Antonio Fevola
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/rul3/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rul3/)*

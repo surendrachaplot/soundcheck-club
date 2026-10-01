@@ -1,8 +1,8 @@
 # Selin (DE)
 
-Selin (DE) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Bulbul Berlin, Berlin on Sat, 10 Oct 2026.
+Selin (DE) is a House and Club artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bulbul Berlin, Berlin on Sat, 10 Oct 2026.
 
-Selin (DE) is a house and club artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin and Hamburg. Often billed alongside Kat_Es, Bress Underground and Eva Crystaltips. Next up: Bulbul Berlin, Berlin on Sat 10 Oct.
+Selin (DE) is a house and club artist based in Germany, tracked on soundcheck, with 15 sets logged across Berlin and Hamburg. Often billed alongside Kat_Es, Bress Underground and Eva Crystaltips. Next up: Bulbul Berlin, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -14,16 +14,16 @@ Selin (DE) is a house and club artist based in Germany, tracked on soundcheck, w
 ## Recently played
 
 - Hoppetosse, Berlin — Sat, 19 Sept 2026
-- Œlgarten, Berlin — Sat, 5 Sept 2026
 - ÆDEN x MARMORBAR: Fields & Spaces, Berlin — Sat, 18 Jul 2026
 - Bulbul Berlin, Berlin — Sat, 4 Jul 2026
 - OXI, Berlin — Sat, 20 Jun 2026
 - Haus73, Hamburg — Sat, 30 May 2026
 - ://about blank, Berlin — Thu, 28 May 2026
 - Marla Records, Berlin — Thu, 14 May 2026
+- OXI, Berlin — Fri, 1 May 2026
 
 ## Shares bills with
 
 Kat_Es, Bress Underground, Eva Crystaltips
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selinde/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selinde/)*

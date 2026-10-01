@@ -1,20 +1,22 @@
 # Tomoki Tamura
 
-Tomoki Tamura is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Mexico City on Sat, 3 Oct 2026.
+Tomoki Tamura is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat, 3 Oct 2026.
 
-Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Bangkok, Barcelona and Belgrade and 27 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: TBA, Mexico City on Sat 3 Oct.
+Tomoki Tamura is a house and techno artist based in Germany, tracked on soundcheck, with 101 sets logged across Amsterdam, Baltimore, Bangkok and Barcelona and 29 more. Often billed alongside GARAN GARAN, Satoshi Tomiie and Alexander Skancke. Next up: TBA - Madrid 15, Colonia Tabacalera, CDMX, Mexico City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | TBA | Mexico City |
+| Sat, 3 Oct 2026 | TBA - Madrid 15, Colonia Tabacalera, CDMX | Mexico City |
 | Sat, 17 Oct 2026 | Frankhan Selectist | Istanbul |
 | Thu, 22 Oct 2026 | Benelux BAR | Amsterdam |
 | Thu, 22 Oct 2026 | Benelux BAR | Amsterdam |
 | Sat, 24 Oct 2026 | Klaproos | Amsterdam |
+| Fri, 30 Oct 2026 | TBA - Email Deepsidebaltimore@gmail.com for info/address | Baltimore |
 | Sat, 31 Oct 2026 | Flash | Washington DC |
 | Sun, 1 Nov 2026 | TBA - Outdoor Location - DTLA  | Los Angeles |
+| Sun, 19 Mar 2028 | I Candelai | Sicily |
 
 ## Recently played
 
@@ -31,4 +33,4 @@ Tomoki Tamura is a house and techno artist based in Germany, tracked on soundche
 
 GARAN GARAN, Satoshi Tomiie, Alexander Skancke
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tomokitamura/)*

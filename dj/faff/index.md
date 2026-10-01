@@ -1,6 +1,6 @@
 # FAFF
 
-FAFF is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at radial, London on Sun, 11 Oct 2026.
+FAFF is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at radial, London on Sun, 11 Oct 2026.
 
 FAFF is a house and techno artist based in United Kingdom, tracked on soundcheck, with 113 sets logged across Amsterdam, Antwerp, Athens and Barcelona and 20 more. Often billed alongside Angel D'lite, Michelle Manetti and Marie Malarie. Next up: radial, London on Sun 11 Oct.
 
@@ -27,4 +27,4 @@ FAFF is a house and techno artist based in United Kingdom, tracked on soundcheck
 
 Angel D'lite, Michelle Manetti, Marie Malarie
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/faff/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/faff/)*

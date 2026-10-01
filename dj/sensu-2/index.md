@@ -1,8 +1,8 @@
 # Sensu (2)
 
-Sensu (2) is a House and Garage artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Bread & Butter Arch, London on Sat, 3 Oct 2026.
+Sensu (2) is a House and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bread & Butter Arch, London on Sat, 3 Oct 2026.
 
-Sensu is a house and garage artist based in Switzerland, tracked on soundcheck, with 12 sets logged across Brighton, Bristol, Geneva and London and 4 more. Often billed alongside Auramatic, Swimming Paul and Arithmittel. Next up: Bread & Butter Arch, London on Sat 3 Oct.
+Sensu is a house and garage artist based in Switzerland, tracked on soundcheck, with 11 sets logged across Brighton, Bristol, Geneva and London and 4 more. Often billed alongside Auramatic, Swimming Paul and Arithmittel. Next up: Bread & Butter Arch, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ Sensu is a house and garage artist based in Switzerland, tracked on soundcheck, 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Bread & Butter Arch | London |
 | Fri, 16 Oct 2026 | Hootananny Brixton | London |
-| Fri, 6 Nov 2026 | The Jazz Cafe | London |
 
 ## Recently played
 
@@ -27,4 +26,4 @@ Sensu is a house and garage artist based in Switzerland, tracked on soundcheck, 
 
 Auramatic, Swimming Paul, Arithmittel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sensu-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sensu-2/)*

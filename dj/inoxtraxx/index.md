@@ -1,6 +1,6 @@
 # Inox Traxx
 
-Inox Traxx is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Gate Milano, Milan on Fri, 2 Oct 2026.
+Inox Traxx is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gate Milano, Milan on Fri, 2 Oct 2026.
 
 Inox Traxx is a techno and house artist tracked on soundcheck, with 89 sets logged across Amsterdam, Athens, Barcelona and Berlin and 24 more. Often billed alongside Ignez, Charlotte de Witte and Nastia Reigel. Next up: Gate Milano, Milan on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Inox Traxx is a techno and house artist tracked on soundcheck, with 89 sets logg
 
 Ignez, Charlotte de Witte, Nastia Reigel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/inoxtraxx/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/inoxtraxx/)*

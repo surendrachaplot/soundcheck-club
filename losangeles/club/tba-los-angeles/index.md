@@ -1,8 +1,8 @@
 # TBA - Los Angeles
 
-TBA - Los Angeles is a music venue in Los Angeles with 14 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "WORK Q4 2026 Season Pass" on Wed, 7 Oct 2026.
+TBA - Los Angeles is a music venue in Los Angeles with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "WORK Q4 2026 Season Pass" on Wed, 7 Oct 2026.
 
-TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 14 upcoming gigs, with line-ups including Adrian Reyes, Anastasia Giovani, Bart Skils and Blazej Malinowski and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 15 upcoming gigs, with line-ups including Adam Rose, Adrian Reyes, Anastasia Giovani and Bart Skils and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 
@@ -12,11 +12,11 @@ TBA - Los Angeles is a music venue in Los Angeles listed on soundcheck. 14 upcom
 | Fri, 9 Oct 2026 | WORK presents: Bart Skils [4 Hour Set] & fun2bjane | Bart Skils, fun2bjane |
 | Sat, 10 Oct 2026 | WORK presents: DVS1 [4 Hour Set], Mary Yuzovskaya, & Pleasures | DVS1, Mary Yuzovskaya, PLEASURES (US) |
 | Fri, 16 Oct 2026 | Emanate - Twisted Tour (Open To Close) | Emanate |
+| Fri, 16 Oct 2026 | Deep Steppe & Handpicked presents..Subb-an + Halo Varga + Babylon Beach | Adam Rose, Halo Varga, Subb-an |
 | Sat, 17 Oct 2026 | PHANTOM CURRENT — 17 OCTOBER 2026 |  |
 | Sat, 24 Oct 2026 | WORK presents: Victor Ruiz, PASH, & Frida Henson | Frida Henson, Pash (US), Victor Ruiz |
 | Sun, 25 Oct 2026 | SYNTHESIS 002: Anastasia Giovani, Blazej Malinowski, Kameliia & Secus | Anastasia Giovani, Blazej Malinowski, Kameliia, Secus |
 | Fri, 6 Nov 2026 | WORK presents: Narciss, Masha Mar, & Marc Homer | Marc Homer, Masha Mar, Narciss |
 | Fri, 20 Nov 2026 | WORK Weekender: Fadi Mohem, FJAAK, Lindsey Herbert, Luigi Tozzi, The Lady Machine & More | Adrian Reyes, BB Shaine, David Castellani, FJAAK, Fizch, Lindsey Herbert, Luigi Tozzi, The Lady Machine |
-| Fri, 20 Nov 2026 | WORK Weekender Day 1: Fadi Mohem, Fizch, & Lindsey Herbert | Fadi Mohem, Fizch, Lindsey Herbert |
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/losangeles/club/tba-los-angeles/)*

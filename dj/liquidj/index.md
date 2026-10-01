@@ -1,6 +1,6 @@
 # Liquid J
 
-Liquid J is a House and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Japan Monterrey, Mexico City on Sat, 24 Oct 2026.
+Liquid J is a House and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Japan Monterrey, Mexico City on Sat, 24 Oct 2026.
 
 Liquid J is a house and club artist based in United States of America, tracked on soundcheck, with 38 sets logged across Mexico City, Miami and New York City. Often billed alongside Milo Ziro, Berrakka and Bodegaparty. Next up: Japan Monterrey, Mexico City on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ Liquid J is a house and club artist based in United States of America, tracked o
 
 Milo Ziro, Berrakka, Bodegaparty
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidj/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liquidj/)*

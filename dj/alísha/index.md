@@ -1,15 +1,17 @@
 # Alísha
 
-Alísha is a Progressive House and Electronica artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Flying Dutchman Café, Amsterdam on Fri, 23 Oct 2026.
+Alísha is a Progressive House and Electronica artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
 
-Alísha is a progressive house and electronica artist based in Poland, tracked on soundcheck, with 5 sets logged across Amsterdam, Milan and Warsaw. Often billed alongside Kostya Outta, Bryan Wolf Ear and Pedro Mercado. Next up: The Flying Dutchman Café, Amsterdam on Fri 23 Oct.
+Alísha is a progressive house and electronica artist based in Poland, tracked on soundcheck, with 7 sets logged across Amsterdam, Milan and Warsaw. Often billed alongside Kostya Outta, Abity and Bryan Wolf Ear. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Fri, 23 Oct 2026 | The Flying Dutchman Café | Amsterdam |
 | Sat, 24 Oct 2026 | Akhnaton | Amsterdam |
+| Sat, 24 Oct 2026 | Kadinsky Cafe | Amsterdam |
 
 ## Recently played
 
@@ -19,6 +21,6 @@ Alísha is a progressive house and electronica artist based in Poland, tracked o
 
 ## Shares bills with
 
-Kostya Outta, Bryan Wolf Ear, Pedro Mercado
+Kostya Outta, Abity, Bryan Wolf Ear
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alísha/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alísha/)*

@@ -1,6 +1,6 @@
 # Matrixxman
 
-Matrixxman is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
+Matrixxman is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Südpol, Hamburg on Fri, 2 Oct 2026.
 
 Matrixxman is a techno and house artist based in Germany, tracked on soundcheck, with 171 sets logged across Amsterdam, Athens, Bangkok and Barcelona and 56 more. Often billed alongside Laure Croft, Ellen Allien and Frederic.. Next up: Südpol, Hamburg on Fri 2 Oct.
 
@@ -28,4 +28,4 @@ Matrixxman is a techno and house artist based in Germany, tracked on soundcheck,
 
 Laure Croft, Ellen Allien, Frederic.
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/matrixxman/)*

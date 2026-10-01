@@ -1,13 +1,14 @@
 # oror
 
-oror is a Electro and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri, 9 Oct 2026.
+oror is a Electro and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nido Marseille, Marseille on Thu, 1 Oct 2026.
 
-oror is an electro and house artist based in France, tracked on soundcheck, with 34 sets logged across Geneva, Lyon, Marseille and Paris. Often billed alongside Mohammed Vicente, Lumbago and Subsism. Next up: Les Beaux-Arts de Marseille - Inseamm., Marseille on Fri 9 Oct.
+oror is an electro and house artist based in France, tracked on soundcheck, with 35 sets logged across Geneva, Lyon, Marseille and Paris. Often billed alongside Mohammed Vicente, Lumbago and Subsism. Next up: Nido Marseille, Marseille on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Nido Marseille | Marseille |
 | Fri, 9 Oct 2026 | Les Beaux-Arts de Marseille - Inseamm. | Marseille |
 | Sat, 17 Oct 2026 | TBA - SECRET PLACE | Lyon |
 
@@ -26,4 +27,4 @@ oror is an electro and house artist based in France, tracked on soundcheck, with
 
 Mohammed Vicente, Lumbago, Subsism
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/oror/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/oror/)*

@@ -1,8 +1,8 @@
 # Under Bron
 
-Under Bron is a music venue in Stockholm with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Freddy K, Ms. K, Andree Bohlin" on Fri, 9 Oct 2026.
+Under Bron is a music venue in Stockholm with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Freddy K, Ms. K, Andree Bohlin" on Fri, 9 Oct 2026.
 
-Under Bron is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, with line-ups including Andree Bohlin, Anthony Linell, Daniel[i] and Daniel Lien and 2 more. Browse upcoming dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
+Under Bron is a music venue in Stockholm listed on soundcheck. 8 upcoming gigs, with line-ups including Andree Bohlin, Anthony Linell, Billie Jo and Daniel[i] and 2 more. Browse upcoming dates, start times and who's playing. Hammarby slussväg 2, 118 60 Stockholm, Sweden.
 
 ## What's on
 
@@ -15,9 +15,10 @@ Under Bron is a music venue in Stockholm listed on soundcheck. 7 upcoming gigs, 
 | Sat, 17 Oct 2026 | Scandinavian Swords: Martinou (LIVE), Jin Mustafa, Anthony Linell | Anthony Linell, Jin Mustafa, Martinou |
 | Fri, 23 Oct 2026 | Jessie invites: Henning Baer, Daniel[i], Jessie Granqvist | Daniel[i], Henning Baer, Jessie Granqvist |
 | Sat, 24 Oct 2026 | Lien invites: Gabbs (IT) | Daniel Lien, Gabbs |
+| Fri, 30 Oct 2026 | Billie Jo All Night Long | Billie Jo |
 
 ## Address
 
 Hammarby slussväg 2, 118 60 Stockholm, Sweden, Stockholm
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/stockholm/club/under-bron/)*

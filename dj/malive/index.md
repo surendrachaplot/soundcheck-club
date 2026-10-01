@@ -1,14 +1,13 @@
 # Malive
 
-Malive is a House and Tech House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Wed, 30 Sept 2026.
+Malive is a House and Tech House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Jungle Island, Miami on Sat, 3 Oct 2026.
 
-Malive is a house and tech house artist based in Brazil, tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Betical, Claptone and Jonas Blue. Next up: Hï Ibiza, Ibiza on Wed 30 Sept.
+Malive is a house and tech house artist based in Brazil, tracked on soundcheck, with 35 sets logged across Amsterdam, Athens, Bali and Barcelona and 16 more. Often billed alongside Betical, Claptone and Jonas Blue. Next up: Jungle Island, Miami on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Hï Ibiza | Ibiza |
 | Sat, 3 Oct 2026 | Jungle Island | Miami |
 | Fri, 9 Oct 2026 | Madarae San Francisco | San Francisco/Oakland |
 | Sat, 24 Oct 2026 | THE OTHER SIDE | Amsterdam |
@@ -18,6 +17,7 @@ Malive is a house and tech house artist based in Brazil, tracked on soundcheck, 
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Wed, 30 Sept 2026
 - Savaya Bali, Bali — Sat, 19 Sept 2026
 - Cova Santa, Ibiza — Fri, 14 Aug 2026
 - Budapest Park, Budapest — Fri, 7 Aug 2026
@@ -25,10 +25,9 @@ Malive is a house and tech house artist based in Brazil, tracked on soundcheck, 
 - The Pier of Scheveningen, The Hague — Sat, 18 Jul 2026
 - The Cause, London — Sat, 11 Jul 2026
 - Chinois Ibiza, Ibiza — Sat, 4 Jul 2026
-- Moon Warsaw, Warsaw — Sat, 20 Jun 2026
 
 ## Shares bills with
 
 Betical, Claptone, Jonas Blue
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/malive/)*

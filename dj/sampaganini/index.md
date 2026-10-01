@@ -1,6 +1,6 @@
 # Sam Paganini
 
-Sam Paganini is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Club Exil, Vienna on Fri, 6 Nov 2026.
+Sam Paganini is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Club Exil, Vienna on Fri, 6 Nov 2026.
 
 Sam Paganini is a techno and house artist based in Italy, tracked on soundcheck, with 101 sets logged across Amsterdam, Athens, Barcelona and Basel and 39 more. Often billed alongside Adiel, Anfisa Letyago and Daria Kolosova. Next up: Club Exil, Vienna on Fri 6 Nov.
 
@@ -26,4 +26,4 @@ Sam Paganini is a techno and house artist based in Italy, tracked on soundcheck,
 
 Adiel, Anfisa Letyago, Daria Kolosova
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sampaganini/)*

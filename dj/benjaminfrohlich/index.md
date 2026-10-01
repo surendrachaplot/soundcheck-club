@@ -1,6 +1,6 @@
 # Benjamin Fröhlich
 
-Benjamin Fröhlich is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Apollo Club Milano, Milan on Fri, 9 Oct 2026.
+Benjamin Fröhlich is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Apollo Club Milano, Milan on Fri, 9 Oct 2026.
 
 Benjamin Fröhlich is a house and techno artist based in Germany, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 9 more. Often billed alongside Rosa Red, Jorkes and Rhode & Brown. Next up: Apollo Club Milano, Milan on Fri 9 Oct.
 
@@ -27,4 +27,4 @@ Benjamin Fröhlich is a house and techno artist based in Germany, tracked on sou
 
 Rosa Red, Jorkes, Rhode & Brown
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminfrohlich/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/benjaminfrohlich/)*

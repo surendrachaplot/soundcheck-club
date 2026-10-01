@@ -1,8 +1,8 @@
 # Winson
 
-Winson is a Techno and Deep House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
+Winson is a Techno and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amnesia Ibiza, Ibiza on Thu, 8 Oct 2026.
 
-Winson is a techno and deep house artist based in France, tracked on soundcheck, with 74 sets logged across Amsterdam, Barcelona, Basel and Brussels and 29 more. Often billed alongside KUKO, KLOFAMA and KARAH. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
+Winson is a techno and deep house artist based in France, tracked on soundcheck, with 68 sets logged across Amsterdam, Barcelona, Basel and Brussels and 26 more. Often billed alongside KLOFAMA, KARAH and KUKO. Next up: Amnesia Ibiza, Ibiza on Thu 8 Oct.
 
 ## Upcoming shows
 
@@ -17,17 +17,17 @@ Winson is a techno and deep house artist based in France, tracked on soundcheck,
 
 ## Recently played
 
-- TBA - Pabellón Oeste del Palacio de los Deportes, Mexico City — Sat, 19 Sept 2026
 - Radius, Chicago — Fri, 18 Sept 2026
-- Radius, Chicago — Fri, 18 Sept 2026
-- Knockdown Center, New York City — Sat, 12 Sept 2026
-- 131 Mccormack St, Toronto — Fri, 11 Sept 2026
-- TBA - Wasteland Festival, Cologne — Sat, 5 Sept 2026
 - Echostage, Washington DC — Fri, 4 Sept 2026
-- Echostage, Washington DC — Fri, 4 Sept 2026
+- Ahoy Rotterdam, Rotterdam — Sat, 29 Aug 2026
+- Dürener Badesee, Cologne — Fri, 28 Aug 2026
+- Amnesia Ibiza, Ibiza — Mon, 17 Aug 2026
+- UNO MALTA, Malta — Fri, 31 Jul 2026
+- Eden, Ibiza — Tue, 21 Jul 2026
+- Arzenal, Budapest — Fri, 3 Jul 2026
 
 ## Shares bills with
 
-KUKO, KLOFAMA, KARAH
+KLOFAMA, KARAH, KUKO
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/winson/)*

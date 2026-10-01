@@ -1,14 +1,15 @@
 # NORO$T
 
-NORO$T is a Techno and Ghetto Tech artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
+NORO$T is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Café Café Bar Amsterdam, Amsterdam on Fri, 23 Oct 2026.
 
-NORO$T is a techno and ghetto tech artist based in Spain, tracked on soundcheck, with 7 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 1 more. Often billed alongside BZZHOUND, Linapary and 25EMEHEURE. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
+NORO$T is a techno and trance artist based in Spain, tracked on soundcheck, with 8 sets logged across Amsterdam, Barcelona, Berlin and Madrid and 2 more. Often billed alongside BZZHOUND, Linapary and 25EMEHEURE. Next up: Café Café Bar Amsterdam, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Café Café Bar Amsterdam | Amsterdam |
+| Sat, 21 Nov 2026 | BASIS | Utrecht |
 
 ## Recently played
 
@@ -23,4 +24,4 @@ NORO$T is a techno and ghetto tech artist based in Spain, tracked on soundcheck,
 
 BZZHOUND, Linapary, 25EMEHEURE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/norot/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/norot/)*

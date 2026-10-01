@@ -1,15 +1,18 @@
 # Andrea Ratti
 
-Andrea Ratti is a Electronica and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Pamela Club, Paris on Sat, 10 Oct 2026.
+Andrea Ratti is a Electronica and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Life Club Milano, Milan on Fri, 2 Oct 2026.
 
-Andrea Ratti is an electronica and electro artist based in Italy, tracked on soundcheck, with 29 sets logged across Milan and Paris. Often billed alongside Sergio Tavelli, Bitter Saint and Boris. Next up: Pamela Club, Paris on Sat 10 Oct.
+Andrea Ratti is an electronica and techno artist based in Italy, tracked on soundcheck, with 32 sets logged across Milan and Paris. Often billed alongside Sergio Tavelli, Bitter Saint and Slava. Next up: Life Club Milano, Milan on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Life Club Milano | Milan |
 | Sat, 10 Oct 2026 | Pamela Club | Paris |
 | Wed, 14 Oct 2026 | MOGO | Milan |
+| Sat, 24 Oct 2026 | Altrove | Milan |
+| Wed, 28 Oct 2026 | MOGO | Milan |
 
 ## Recently played
 
@@ -24,6 +27,6 @@ Andrea Ratti is an electronica and electro artist based in Italy, tracked on sou
 
 ## Shares bills with
 
-Sergio Tavelli, Bitter Saint, Boris
+Sergio Tavelli, Bitter Saint, Slava (2)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/andrearatti/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/andrearatti/)*

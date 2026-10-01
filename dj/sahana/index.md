@@ -1,13 +1,14 @@
 # Sahana
 
-Sahana is a House and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Bernard Shaw, Dublin on Fri, 16 Oct 2026.
+Sahana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pawn Shop, Dublin on Sat, 3 Oct 2026.
 
-Sahana is a house and disco artist based in United States of America, tracked on soundcheck, with 52 sets logged across Belfast, Dublin and London. Often billed alongside Moving Still, Neo Cortex and Surferboy. Next up: The Bernard Shaw, Dublin on Fri 16 Oct.
+Sahana is a house and techno artist based in United States of America, tracked on soundcheck, with 53 sets logged across Belfast, Dublin and London. Often billed alongside Moving Still, Neo Cortex and Surferboy. Next up: Pawn Shop, Dublin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Pawn Shop | Dublin |
 | Fri, 16 Oct 2026 | The Bernard Shaw | Dublin |
 
 ## Recently played
@@ -25,4 +26,4 @@ Sahana is a house and disco artist based in United States of America, tracked on
 
 Moving Still, Neo Cortex, Surferboy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sahana/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sahana/)*

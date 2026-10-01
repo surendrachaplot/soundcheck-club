@@ -1,8 +1,8 @@
 # Boris Brejcha
 
-Boris Brejcha is a Techno and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Portugal, Lisbon on Sun, 4 Oct 2026.
+Boris Brejcha is a Techno and Minimal Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Portugal, Lisbon on Sun, 4 Oct 2026.
 
-Boris Brejcha is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 114 sets logged across Amsterdam, Athens, Austin and Bali and 48 more. Often billed alongside Moritz Hofbauer, Deniz Bul and Ann Clue. Next up: TBA - Portugal, Lisbon on Sun 4 Oct.
+Boris Brejcha is a techno and minimal techno artist based in Germany, tracked on soundcheck, with 121 sets logged across Amsterdam, Argentina, Athens and Austin and 53 more. Often billed alongside Moritz Hofbauer, Ann Clue and Deniz Bul. Next up: TBA - Portugal, Lisbon on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,9 +10,16 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, tracked on
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | TBA - Portugal | Lisbon |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
+| Fri, 16 Oct 2026 | La Fabrica | Argentina |
+| Fri, 23 Oct 2026 | Arena Riga | Latvia |
 | Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |
+| Fri, 30 Oct 2026 | Bernexpo Halle | Bern |
 | Sat, 14 Nov 2026 | Club Hípico de Santiago | Santiago |
+| Fri, 20 Nov 2026 | Eventpyramide Vösendorf | Austria |
 | Sat, 28 Nov 2026 | Messegelände Hannover | Hannover |
+| Fri, 15 Jan 2027 | Arena Joondalup | Perth |
+| Sat, 16 Jan 2027 | Sydney Showgrounds | Sydney |
+| Fri, 22 Jan 2027 | Eatons Hill Hotel and Function Centre | Brisbane |
 
 ## Recently played
 
@@ -27,6 +34,6 @@ Boris Brejcha is a techno and minimal techno artist based in Germany, tracked on
 
 ## Shares bills with
 
-Moritz Hofbauer, Deniz Bul, Ann Clue
+Moritz Hofbauer, Ann Clue, Deniz Bul
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/borisbrejcha/)*

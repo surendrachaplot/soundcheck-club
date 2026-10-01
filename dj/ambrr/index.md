@@ -1,14 +1,15 @@
 # AMBRR
 
-AMBRR is a Club and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at The Timber Loft, London on Sun, 18 Oct 2026.
+AMBRR is a Club and R&B artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Timber Loft, London on Sun, 18 Oct 2026.
 
-AMBRR is a club and r&b artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Glasgow, London, Los Angeles and Paris and 1 more. Often billed alongside ELLADHC, ARRA and Alxander Ivey. Next up: The Timber Loft, London on Sun 18 Oct.
+AMBRR is a club and r&b artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Glasgow, London, Los Angeles and Paris and 1 more. Often billed alongside ELLADHC, Wilfy D and ARRA. Next up: The Timber Loft, London on Sun 18 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 18 Oct 2026 | The Timber Loft | London |
+| Sat, 28 Nov 2026 | Colour Factory | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ AMBRR is a club and r&b artist based in United Kingdom, tracked on soundcheck, w
 
 ## Shares bills with
 
-ELLADHC, ARRA, Alxander Ivey
+ELLADHC, Wilfy D, ARRA
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/ambrr/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/ambrr/)*

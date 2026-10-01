@@ -1,8 +1,8 @@
 # LAB theCLUB
 
-LAB theCLUB is a music venue in Madrid with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "CROW with Planetary Assault Systems live" on Fri, 2 Oct 2026.
+LAB theCLUB is a music venue in Madrid with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "CROW with Planetary Assault Systems live" on Fri, 2 Oct 2026.
 
-LAB theCLUB is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, with line-ups including Adam Beyer, Claptone, Crusy and Djammin and 2 more. Browse upcoming dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
+LAB theCLUB is a music venue in Madrid listed on soundcheck. 12 upcoming gigs, with line-ups including Adam Beyer, Claptone, Crusy and Djammin and 2 more. Browse upcoming dates, start times and who's playing. Estación de Chamartín. Primera planta s/n 28036 Madrid.
 
 ## What's on
 
@@ -14,13 +14,13 @@ LAB theCLUB is a music venue in Madrid listed on soundcheck. 11 upcoming gigs, w
 | Sat, 10 Oct 2026 | Bachatta Techno Factory – 35 Aniversario |  |
 | Fri, 16 Oct 2026 | LAB theClub pres. Silent w/ Reinier Zonneveld live | Reinier Zonneveld |
 | Fri, 30 Oct 2026 | BRNT with Mathame | Mathame |
+| Sun, 1 Nov 2026 | La Malquerida presenta Roger Sanchez | Roger Sanchez |
 | Fri, 6 Nov 2026 | VIPPER CLUB II ANIVERSARIO with Pendulum DJ SET, SOTA | Pendulum |
 | Sat, 7 Nov 2026 | Space of Sound with Claptone, Djammin | Claptone, Djammin |
 | Fri, 13 Nov 2026 | Joris Voorn pres. A Trip To Galaxy | Joris Voorn |
-| Sat, 28 Nov 2026 | Shmn |  |
 
 ## Address
 
 Estación de Chamartín. Primera planta s/n 28036 Madrid, Madrid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/lab-theclub/)*

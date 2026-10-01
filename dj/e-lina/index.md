@@ -1,8 +1,8 @@
 # E.LINA
 
-E.LINA is a House and Techno artist with 8 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Central on Fri, 2 Oct 2026.
+E.LINA is a House and Techno artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-E.LINA is a house and techno artist based in Ukraine, tracked on soundcheck, with 152 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 32 more. Often billed alongside Annyrock, DJ Senc and Voigtmann. Next up: TBA, Central on Fri 2 Oct.
+E.LINA is a house and techno artist based in Ukraine, tracked on soundcheck, with 153 sets logged across Amsterdam, Barcelona, Berlin and Brussels and 33 more. Often billed alongside Annyrock, DJ Senc and Dyed Soundorom. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ E.LINA is a house and techno artist based in Ukraine, tracked on soundcheck, wit
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA | Central |
 | Sat, 10 Oct 2026 | Tenuta Tor De' Sordi | Rome |
+| Fri, 16 Oct 2026 | Gallery 1986 | Vilnius |
 | Thu, 22 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
 | Fri, 23 Oct 2026 | Lofi | Amsterdam |
@@ -30,6 +31,6 @@ E.LINA is a house and techno artist based in Ukraine, tracked on soundcheck, wit
 
 ## Shares bills with
 
-Annyrock, DJ Senc, Voigtmann
+Annyrock, DJ Senc, Dyed Soundorom
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/e-lina/)*

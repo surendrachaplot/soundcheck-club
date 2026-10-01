@@ -1,14 +1,14 @@
 # Richard Haig
 
-Richard Haig is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - West Oakland, San Francisco/Oakland on Sat, 17 Oct 2026.
+Richard Haig is a Electronica and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Paul Dresher Ensemble, San Francisco/Oakland on Sat, 17 Oct 2026.
 
-Richard Haig is an electronica and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across San Francisco/Oakland. Often billed alongside Hydroplane, Nexus-6 and Nezzy Idy. Next up: TBA - West Oakland, San Francisco/Oakland on Sat 17 Oct.
+Richard Haig is an electronica and techno artist based in United States of America, tracked on soundcheck, with 9 sets logged across San Francisco/Oakland. Often billed alongside Hydroplane, Nexus-6 and Nezzy Idy. Next up: Paul Dresher Ensemble, San Francisco/Oakland on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA - West Oakland | San Francisco/Oakland |
+| Sat, 17 Oct 2026 | Paul Dresher Ensemble | San Francisco/Oakland |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Richard Haig is an electronica and techno artist based in United States of Ameri
 
 Hydroplane, Nexus-6, Nezzy Idy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/richardhaig/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/richardhaig/)*

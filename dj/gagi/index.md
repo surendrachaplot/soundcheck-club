@@ -1,6 +1,6 @@
 # GaGi
 
-GaGi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Nyapi, Seoul on Fri, 9 Oct 2026.
+GaGi is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Nyapi, Seoul on Fri, 9 Oct 2026.
 
 GaGi is a techno and house artist based in South Korea, tracked on soundcheck, with 55 sets logged across Bangkok and Seoul. Often billed alongside Gumi, Afrodite and ROXY. Next up: Nyapi, Seoul on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ GaGi is a techno and house artist based in South Korea, tracked on soundcheck, w
 
 Gumi, Afrodite (2), ROXY
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/gagi/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/gagi/)*

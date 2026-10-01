@@ -1,14 +1,15 @@
 # Liad Krispin
 
-Liad Krispin is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Den Anden Side, Copenhagen on Sat, 17 Oct 2026.
+Liad Krispin is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Den Anden Side, Copenhagen on Sat, 17 Oct 2026.
 
-Liad Krispin is a techno and house artist based in United States of America, tracked on soundcheck, with 38 sets logged across Berlin, Brussels, Copenhagen and Hamburg and 6 more. Often billed alongside Luigi Di Venere, AAguilAA and Alegrando. Next up: Den Anden Side, Copenhagen on Sat 17 Oct.
+Liad Krispin is a techno and house artist based in United States of America, tracked on soundcheck, with 39 sets logged across Berlin, Brussels, Copenhagen and Hamburg and 7 more. Often billed alongside Luigi Di Venere, AAguilAA and Alegrando. Next up: Den Anden Side, Copenhagen on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Den Anden Side | Copenhagen |
+| Sat, 24 Oct 2026 | Altrove | Milan |
 | Fri, 13 Nov 2026 | KitKatClub | Berlin |
 
 ## Recently played
@@ -26,4 +27,4 @@ Liad Krispin is a techno and house artist based in United States of America, tra
 
 Luigi Di Venere, AAguilAA, Alegrando
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liadkrispin/)*

@@ -1,14 +1,13 @@
 # Hot Since 82
 
-Hot Since 82 is a House and Tech House artist with 16 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Hï Ibiza, Ibiza on Tue, 29 Sept 2026.
+Hot Since 82 is a House and Tech House artist with 15 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Hot Since 82 is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Jamie Jones, Prunk and Fleur Shore. Next up: Hï Ibiza, Ibiza on Tue 29 Sept.
+Hot Since 82 is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 211 sets logged across Amsterdam, Athens, Austin and Barcelona and 46 more. Often billed alongside Jamie Jones, Prunk and Fleur Shore. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Tue, 29 Sept 2026 | Hï Ibiza | Ibiza |
 | Thu, 1 Oct 2026 | TBA - Various Venues | Malta |
 | Thu, 1 Oct 2026 | UNO MALTA | Malta |
 | Sat, 3 Oct 2026 | LAB theCLUB | Madrid |
@@ -20,9 +19,11 @@ Hot Since 82 is a house and tech house artist based in United Kingdom, tracked o
 | Sat, 24 Oct 2026 | Theater Amsterdam | Amsterdam |
 | Sat, 14 Nov 2026 | Amok Club | Mallorca |
 | Fri, 20 Nov 2026 | Depot Mayfield | Manchester |
+| Fri, 27 Nov 2026 | The Concourse Project | Austin |
 
 ## Recently played
 
+- Hï Ibiza, Ibiza — Tue, 29 Sept 2026
 - Knockdown Center, New York City — Sat, 5 Sept 2026
 - [UNVRS], Ibiza — Wed, 2 Sept 2026
 - Ushuaïa Ibiza, Ibiza — Sat, 22 Aug 2026
@@ -30,10 +31,9 @@ Hot Since 82 is a house and tech house artist based in United Kingdom, tracked o
 - Sloterpark, Amsterdam — Sat, 8 Aug 2026
 - [UNVRS], Ibiza — Sat, 1 Aug 2026
 - W Barcelona, Barcelona — Sun, 26 Jul 2026
-- [UNVRS], Ibiza — Sat, 25 Jul 2026
 
 ## Shares bills with
 
 Jamie Jones, Prunk, Fleur Shore
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/hotsince82/)*

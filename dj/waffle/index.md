@@ -1,14 +1,14 @@
 # Waffle
 
-Waffle is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, Barcelona on Fri, 2 Oct 2026.
+Waffle is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat, 10 Oct 2026.
 
-Waffle is a house and electro artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, London and Madrid and 2 more. Often billed alongside Demofather, ki:ke and Ramî. Next up: TBA, Barcelona on Fri 2 Oct.
+Waffle is a house and electro artist based in Spain, tracked on soundcheck, with 45 sets logged across Barcelona, Berlin, London and Madrid and 2 more. Often billed alongside Demofather, ki:ke and Ramî. Next up: TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event), Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA | Barcelona |
+| Sat, 10 Oct 2026 | TBA - SECRET VILLA (the venue details will be emailed to ticket holders before the event) | Barcelona |
 
 ## Recently played
 
@@ -25,4 +25,4 @@ Waffle is a house and electro artist based in Spain, tracked on soundcheck, with
 
 Demofather, ki:ke, Ramî
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/waffle/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/waffle/)*

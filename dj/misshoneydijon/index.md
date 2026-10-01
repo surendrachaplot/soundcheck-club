@@ -1,6 +1,6 @@
 # Honey Dijon
 
-Honey Dijon is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Knockdown Center, New York City on Sat, 10 Oct 2026.
+Honey Dijon is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Knockdown Center, New York City on Sat, 10 Oct 2026.
 
 Honey Dijon is a house and techno artist based in United States of America, tracked on soundcheck, with 203 sets logged across Amsterdam, Barcelona, Belfast and Berlin and 43 more. Often billed alongside Chloé Caillet, Mochakk and The Blessed Madonna. Next up: Knockdown Center, New York City on Sat 10 Oct.
 
@@ -29,4 +29,4 @@ Honey Dijon is a house and techno artist based in United States of America, trac
 
 Chloé Caillet, Mochakk, The Blessed Madonna
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/misshoneydijon/)*

@@ -1,17 +1,17 @@
 # World Headquarters
 
-World Headquarters is a music venue in Newcastle with 20 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Daisy Roots Movement - D'n'B/Jungle Dance Workshop" on Wed, 30 Sept 2026.
+World Headquarters is a music venue in Newcastle with 23 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Dan Fresco presents Vienna X Infusion" on Fri, 2 Oct 2026.
 
-World Headquarters is a music venue in Newcastle listed on soundcheck. 20 upcoming gigs, with line-ups including A.M.C., adamgr, Alousea and Dan Fresco and 2 more. Browse upcoming dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
+World Headquarters is a music venue in Newcastle listed on soundcheck. 23 upcoming gigs, with line-ups including A.M.C., adamgr, Alousea and Dan Fresco and 2 more. Browse upcoming dates, start times and who's playing. Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Daisy Roots Movement - D'n'B/Jungle Dance Workshop |  |
 | Fri, 2 Oct 2026 | Dan Fresco presents Vienna X Infusion | DXNBY, Dan Fresco, Reuben Valentine |
 | Fri, 2 Oct 2026 | PropaStompaz - DE JA VU |  |
 | Sat, 3 Oct 2026 | Sexy Lady Massive presents The Massive Tour - Newcastle, World HQ | Sexy Lady Massive |
+| Sat, 3 Oct 2026 | BLITZ - Techno/Hardgroove/Trance/Hard Dance - FREE RAVE |  |
 | Fri, 9 Oct 2026 | Bonsai presents // Tino & Wax Material | Wax Material |
 | Sat, 10 Oct 2026 | Teletech: NVNS & Devil Dwarf [NEWCASTLE] |  |
 | Mon, 12 Oct 2026 | LEX |  |
@@ -23,4 +23,4 @@ World Headquarters is a music venue in Newcastle listed on soundcheck. 20 upcomi
 
 Curtis Mayfield House, Carliol Square, East, Pilgrim St, Newcastle upon Tyne NE1 6UF, Newcastle
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/newcastle/club/world-headquarters/)*

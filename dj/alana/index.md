@@ -1,14 +1,15 @@
 # A lana
 
-A lana is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bossa Nova Civic Club, New York City on Tue, 6 Oct 2026.
+A lana is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bossa Nova Civic Club, New York City on Tue, 6 Oct 2026.
 
-A lana is a house and techno artist based in United States of America, tracked on soundcheck, with 48 sets logged across Boston and New York City. Often billed alongside DJ Christmas, Dee Diggs and Interpretive Sound. Next up: Bossa Nova Civic Club, New York City on Tue 6 Oct.
+A lana is a house and techno artist based in United States of America, tracked on soundcheck, with 49 sets logged across Boston and New York City. Often billed alongside DJ Christmas, Dee Diggs and Interpretive Sound. Next up: Bossa Nova Civic Club, New York City on Tue 6 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Tue, 6 Oct 2026 | Bossa Nova Civic Club | New York City |
+| Mon, 26 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ A lana is a house and techno artist based in United States of America, tracked o
 
 DJ Christmas, Dee Diggs, Interpretive Sound
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/alana/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/alana/)*

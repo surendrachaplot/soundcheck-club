@@ -1,13 +1,14 @@
 # Jacqui Cunningham
 
-Jacqui Cunningham is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Jacqui Cunningham is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Abercrombie Hotel, Sydney on Sat, 3 Oct 2026.
 
-Jacqui Cunningham is a house and techno artist based in Australia, tracked on soundcheck, with 49 sets logged across Berlin, Hamburg, Hobart and Melbourne and 2 more. Often billed alongside Caleb Jackson, Mimi J and Beman. Next up: The Ivy, Sydney on Sun 4 Oct.
+Jacqui Cunningham is a house and techno artist based in Australia, tracked on soundcheck, with 50 sets logged across Berlin, Hamburg, Hobart and Melbourne and 2 more. Often billed alongside Caleb Jackson, Mimi J and Beman. Next up: Abercrombie Hotel, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Abercrombie Hotel | Sydney |
 | Sun, 4 Oct 2026 | The Ivy | Sydney |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
@@ -26,4 +27,4 @@ Jacqui Cunningham is a house and techno artist based in Australia, tracked on so
 
 Caleb Jackson, Mimi J, Beman
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquicunningham/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jacquicunningham/)*

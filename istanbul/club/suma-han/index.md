@@ -1,6 +1,6 @@
 # Suma Han
 
-Suma Han is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "FRIDAY" on Fri, 2 Oct 2026.
+Suma Han is a music venue in Istanbul with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "FRIDAY" on Fri, 2 Oct 2026.
 
 Suma Han is a music venue in Istanbul listed on soundcheck. 2 upcoming gigs. Browse upcoming dates, start times and who's playing. Bankalar Cd.Yanıkkapı Sk. No: 3 Karaköy, 34420 Istanbul, Turkey.
 
@@ -15,4 +15,4 @@ Suma Han is a music venue in Istanbul listed on soundcheck. 2 upcoming gigs. Bro
 
 Bankalar Cd.Yanıkkapı Sk. No: 3 Karaköy, 34420 Istanbul, Turkey, Istanbul
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/suma-han/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/istanbul/club/suma-han/)*

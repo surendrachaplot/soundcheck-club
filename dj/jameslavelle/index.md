@@ -1,8 +1,8 @@
 # James Lavelle
 
-James Lavelle is a Hip-Hop and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Future Yard, Liverpool on Sat, 3 Oct 2026.
+James Lavelle is a Hip-Hop and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Future Yard, Liverpool on Sat, 3 Oct 2026.
 
-James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Athens, Belfast, Birmingham and Brighton and 12 more. Often billed alongside UNKLE, Elliot Schooling and Liam Palmer. Next up: Future Yard, Liverpool on Sat 3 Oct.
+James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on soundcheck, with 36 sets logged across Athens, Belfast, Birmingham and Brighton and 12 more. Often billed alongside UNKLE, Elliot Schooling and Liam Palmer. Next up: Future Yard, Liverpool on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Future Yard | Liverpool |
 | Sat, 17 Oct 2026 | Distrikt | Prague |
+| Tue, 29 Dec 2026 | Komedia Brighton | Brighton |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ James Lavelle is a hip-hop and house artist based in United Kingdom, tracked on 
 
 UNKLE, Elliot Schooling, Liam Palmer
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jameslavelle/)*

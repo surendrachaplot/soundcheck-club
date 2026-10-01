@@ -1,6 +1,6 @@
 # LeMichael
 
-LeMichael is a Electronica and Deep House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Dr. Dou Social Club, Barcelona on Sat, 3 Oct 2026.
+LeMichael is a Electronica and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Dr. Dou Social Club, Barcelona on Sat, 3 Oct 2026.
 
 LeMichael is an electronica and deep house artist based in Spain, tracked on soundcheck, with 28 sets logged across Barcelona. Often billed alongside Edu C, Metaxxa and Alessa (ES). Next up: Dr. Dou Social Club, Barcelona on Sat 3 Oct.
 
@@ -27,4 +27,4 @@ LeMichael is an electronica and deep house artist based in Spain, tracked on sou
 
 Edu C, Metaxxa, Alessa (ES)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lemichael/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lemichael/)*

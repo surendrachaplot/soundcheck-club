@@ -1,8 +1,8 @@
 # LOVRA
 
-LOVRA is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Pacha Ibiza, Ibiza on Sat, 3 Oct 2026.
+LOVRA is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pacha Ibiza, Ibiza on Sat, 3 Oct 2026.
 
-LOVRA is a house and techno artist based in Germany, tracked on soundcheck, with 99 sets logged across Amsterdam, Austin, Austria and Berlin and 16 more. Often billed alongside Robin Schulz, DJ Jordan and Felix Kröcher. Next up: Pacha Ibiza, Ibiza on Sat 3 Oct.
+LOVRA is a house and techno artist based in Germany, tracked on soundcheck, with 100 sets logged across Amsterdam, Austin, Austria and Berlin and 16 more. Often billed alongside Robin Schulz, DJ Jordan and Felix Kröcher. Next up: Pacha Ibiza, Ibiza on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ LOVRA is a house and techno artist based in Germany, tracked on soundcheck, with
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Pacha Ibiza | Ibiza |
 | Sat, 10 Oct 2026 | Ministry Of Sound | London |
+| Fri, 23 Oct 2026 | The Midway | San Francisco/Oakland |
 | Sat, 5 Dec 2026 | Ritter Butzke | Berlin |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
@@ -28,4 +29,4 @@ LOVRA is a house and techno artist based in Germany, tracked on soundcheck, with
 
 Robin Schulz, DJ Jordan, Felix Kröcher
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/lovra/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lovra/)*

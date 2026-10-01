@@ -5007,7 +5007,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790609612284">
+<meta name="sc-build" content="1790850332330">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5066,7 +5066,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-09-28/">Mon 28 Sept <span class="c">3 events</span></a></li><li><a href="/london/2026-09-29/">Tue 29 Sept <span class="c">5 events</span></a></li><li><a href="/london/2026-09-30/">Wed 30 Sept <span class="c">13 events</span></a></li><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">33 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">88 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">115 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">23 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">37 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">97 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">127 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">25 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -8019,20 +8019,33 @@
       var cm=cityMeta();
       openPanel('<div class="lsn"><div class="rad-hd"><span class="kick">'+esc(cm.name.toUpperCase())+'</span>'+
         '<h2 class="rad-h1">Listen</h2>'+
-        '<p class="rad-sub">Sets you added, and new sets from artists you want to see.</p></div>'+
+        '<p class="rad-sub">Curated picks, and the sets you added.</p></div>'+
         '<div id="lsn-body"><div class="empty" style="padding:16px 0"><span class="spinner"></span></div></div></div>');
-      setSeo('Listen | soundcheck', 'Sets you added, and new sets from artists you want to see.', null, location.origin+SC_BASE+'listen/');
+      setSeo('Listen | soundcheck', 'Curated picks, and the sets you added.', null, location.origin+SC_BASE+'listen/');
       syncTabs();
       await whenAuthKnown();
       lsnRender();
+    }
+    // Curated picks: public, newest first. A pick row is the Listen row with no +
+    // and never a word about who picked it (founder, 1 Oct). Empty → no section.
+    async function lsnPicks(){
+      try{ var r=await authedFetch('/api/listen/picks'); if(r.ok) return ((await r.json()).picks)||[]; }catch(_){}
+      return [];
+    }
+    function lsnPicksHTML(picks){
+      if(!picks.length) return '';
+      return '<div class="sec-h">Curated picks<span class="ct">'+picks.length+'</span></div>'+
+        '<div class="fp-sets-grid">'+picks.map(function(s,i){ return lsnCard({ set:s }, i); }).join('')+'</div>';
     }
     async function lsnRender(){
       var body=document.getElementById('lsn-body'); if(!body) return;
       var seq=++_lsnSeq;
       if(!currentUser){
-        body.innerHTML='<div class="sec-h">Your sets</div><p class="lsn-empty">Sign in, then tap + on any set (on an artist, a gig or the player) and it waits here.</p>'+
-          '<div class="sec-h gap">From your want to see</div><p class="lsn-empty">Sign in and tap Want to see on an artist. Their newest set shows up here, soonest gig first.</p>'+
+        var pk=await lsnPicks();
+        if(seq!==_lsnSeq || currentRoute()!=='listen') return;
+        body.innerHTML=lsnPicksHTML(pk)+'<div class="sec-h'+(pk.length?' gap':'')+'">Your sets</div><p class="lsn-empty">Sign in, then tap + on any set (on an artist, a gig or the player) and it waits here.</p>'+
           '<button class="fp-ab" type="button" id="lsn-signin">Sign in</button>';
+        body.querySelectorAll('.fp-sk[data-li]').forEach(function(b){ b.addEventListener('click', function(){ lsnPlay(pk, +b.dataset.li); }); });
         document.getElementById('lsn-signin').addEventListener('click', function(){ openAuth(); });
         return;
       }
@@ -8040,26 +8053,17 @@
       try{ var r=await authedFetch('/api/listen'); if(r.ok) j=await r.json(); }catch(_){}
       if(seq!==_lsnSeq || currentRoute()!=='listen') return;
       if(!j){ body.innerHTML='<p class="lsn-empty">Could not load Listen. <button class="fp-ab" type="button" id="lsn-retry">Try again</button></p>'; document.getElementById('lsn-retry').addEventListener('click', lsnRender); return; }
-      var yours=j.yours||[], recs=j.fromWannaSee||[], heardN=j.heardCount||0;
+      var pk=j.picks||[], yours=j.yours||[], heardN=j.heardCount||0;
       // everything the server calls "yours" is added — keep the + state honest
       yours.forEach(function(s){ var k=lsnKey(s.id,s.source); if(k) _lsnAdded[lsnK(k)]=1; });
-      var list=yours.concat(recs.map(function(x){ return x.set; }));
-      var wantN=Object.keys(picks.artists).filter(function(s){ return artStatus(s)==='wanna_see'; }).length;
-      var intro=false; try{ intro=!yours.length && !heardN && recs.length>0 && !localStorage.getItem('sc_lsn_intro'); }catch(_){}   // first run: wanna see already fills it (states board C)
-      var h='';
-      if(intro) h+='<div class="lsn-intro" id="lsn-intro"><p>Listen keeps the sets you add, and the newest sets from artists you want to see. Play one past 70% and it counts as heard.</p><button type="button" aria-label="Dismiss"><svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg></button></div>';
-      h+='<div class="sec-h">Your sets<span class="ct">'+yours.length+'</span></div>';
-      if(yours.length) h+='<div class="fp-sets-grid">'+yours.map(function(s,i){ return lsnCard({ set:s, add:true }, i); }).join('')+'</div>';
-      else h+='<p class="lsn-empty">'+(heardN?'All heard. Tap + on any set to add more.':(intro?'Tap + on any set to keep it here.':'Nothing here yet. Tap + on any set (on an artist, a gig or the player) and it waits here.'))+'</p>';
-      h+='<div class="sec-h gap">From your want to see<span class="ct">'+(recs.length||wantN?'soonest gig first':'no artists yet')+'</span></div>';
-      if(recs.length) h+='<div class="fp-sets-grid">'+recs.map(function(x,i){ return lsnCard({ set:x.set, why:lsnWhy(x.nextGig), add:true }, yours.length+i); }).join('')+'</div>';
-      else if(wantN) h+='<p class="lsn-empty">All heard. When one of your '+wantN+' artist'+(wantN===1?'':'s')+' posts a new set, it lands here.</p>';
-      else h+='<p class="lsn-empty">Tap Want to see on an artist. Their newest set shows up here, soonest gig first.</p><button class="fp-ab" type="button" id="lsn-find">Find artists</button>';
+      var list=pk.concat(yours);
+      var h=lsnPicksHTML(pk);
+      h+='<div class="sec-h'+(pk.length?' gap':'')+'">Your sets<span class="ct">'+yours.length+'</span></div>';
+      if(yours.length) h+='<div class="fp-sets-grid">'+yours.map(function(s,i){ return lsnCard({ set:s, add:true }, pk.length+i); }).join('')+'</div>';
+      else h+='<p class="lsn-empty">'+(heardN?'All heard. Tap + on any set to add more.':'Nothing here yet. Tap + on any set (on an artist, a gig or the player) and it waits here.')+'</p>';
       if(heardN) h+='<div><button class="lsn-heard" type="button" id="lsn-heard" aria-expanded="'+_lsnHeardOpen+'">Heard · '+heardN+'<svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button></div><div id="lsn-heard-list"></div>';
       body.innerHTML=h;
       body.querySelectorAll('.fp-sk[data-li]').forEach(function(b){ b.addEventListener('click', function(){ lsnPlay(list, +b.dataset.li); }); });
-      var fa=document.getElementById('lsn-find'); if(fa) fa.addEventListener('click', function(){ openSearch(); });
-      var ib=document.querySelector('#lsn-intro button'); if(ib) ib.addEventListener('click', function(){ try{ localStorage.setItem('sc_lsn_intro','1'); }catch(_){} var n=document.getElementById('lsn-intro'); if(n) n.remove(); });
       var hb=document.getElementById('lsn-heard');
       if(hb) hb.addEventListener('click', function(){ _lsnHeardOpen=!_lsnHeardOpen; hb.setAttribute('aria-expanded', String(_lsnHeardOpen)); lsnHeardList(); });
       if(_lsnHeardOpen) lsnHeardList();

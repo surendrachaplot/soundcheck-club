@@ -1,8 +1,8 @@
 # Olympe4000
 
-Olympe4000 is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Cité du Cinéma, Paris on Fri, 2 Oct 2026.
+Olympe4000 is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cité du Cinéma, Paris on Fri, 2 Oct 2026.
 
-Olympe4000 is a techno and house artist based in France, tracked on soundcheck, with 99 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 24 more. Often billed alongside Pablo Bozzi, Anaco and Bambounou. Next up: Cité du Cinéma, Paris on Fri 2 Oct.
+Olympe4000 is a techno and house artist based in France, tracked on soundcheck, with 100 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 25 more. Often billed alongside Pablo Bozzi, Anaco and Bambounou. Next up: Cité du Cinéma, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Olympe4000 is a techno and house artist based in France, tracked on soundcheck, 
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Cité du Cinéma | Paris |
 | Sat, 31 Oct 2026 | The Art School | Glasgow |
+| Sat, 21 Nov 2026 | Werkspoorkathedraal | Netherlands |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Olympe4000 is a techno and house artist based in France, tracked on soundcheck, 
 
 Pablo Bozzi, Anaco, Bambounou
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe4000/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/olympe4000/)*

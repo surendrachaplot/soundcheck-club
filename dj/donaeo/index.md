@@ -1,14 +1,15 @@
 # Donae'o
 
-Donae'o is a UK Funky and R&B artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Bread and Butter, London on Fri, 30 Oct 2026.
+Donae'o is a UK Funky and Garage artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Bread and Butter, London on Fri, 30 Oct 2026.
 
-Donae'o is an uk funky and r&b artist based in United Kingdom, tracked on soundcheck, with 26 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Crazy Cousinz, Jojo Deevoy and Rampage Sound. Next up: Bread and Butter, London on Fri 30 Oct.
+Donae'o is an uk funky and garage artist based in United Kingdom, tracked on soundcheck, with 27 sets logged across Brighton, Bristol, London and Manchester and 2 more. Often billed alongside Crazy Cousinz, Jojo Deevoy and Rampage Sound. Next up: Bread and Butter, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Bread and Butter | London |
+| Sat, 14 Nov 2026 | Electric Brixton | London |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Donae'o is an uk funky and r&b artist based in United Kingdom, tracked on soundc
 
 Crazy Cousinz, Jojo Deevoy, Rampage Sound
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/donaeo/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/donaeo/)*

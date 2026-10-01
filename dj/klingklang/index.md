@@ -1,8 +1,8 @@
 # KLING&KLANG
 
-KLING&KLANG is a Trance and Techno artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Amp, Munster on Fri, 9 Oct 2026.
+KLING&KLANG is a Trance and Techno artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Amp, Munster on Fri, 9 Oct 2026.
 
-KLING&KLANG is a trance and techno artist based in Germany, tracked on soundcheck, with 162 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 11 more. Often billed alongside Amøn, DJ Henk and Kø:lab. Next up: Amp, Munster on Fri 9 Oct.
+KLING&KLANG is a trance and techno artist based in Germany, tracked on soundcheck, with 163 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 12 more. Often billed alongside Amøn, DJ Henk and Kø:lab. Next up: Amp, Munster on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ KLING&KLANG is a trance and techno artist based in Germany, tracked on soundchec
 | Fri, 9 Oct 2026 | Amp | Munster |
 | Sat, 10 Oct 2026 | Lokschuppen Berlin | Berlin |
 | Fri, 16 Oct 2026 | OST | Berlin |
+| Sat, 17 Oct 2026 | Das Werk | Vienna |
 | Fri, 23 Oct 2026 | Toekomstmuziek | Amsterdam |
 | Sat, 24 Oct 2026 | Virage | Paris |
 | Sat, 5 Dec 2026 | Lokschuppen Berlin | Berlin |
@@ -31,4 +32,4 @@ KLING&KLANG is a trance and techno artist based in Germany, tracked on soundchec
 
 Amøn, DJ Henk, Kø:lab
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/klingklang/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/klingklang/)*

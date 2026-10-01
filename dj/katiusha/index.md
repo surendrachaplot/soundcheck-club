@@ -1,6 +1,6 @@
 # Katiusha
 
-Katiusha is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
+Katiusha is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Stave - Brynsveien 1, Oslo on Fri, 2 Oct 2026.
 
 Katiusha is a techno and house artist based in United Kingdom, tracked on soundcheck, with 47 sets logged across Amsterdam, Berlin, Bristol and Copenhagen and 8 more. Often billed alongside Dubrunner, Chris Farrell and DJ Carlita. Next up: TBA - Stave - Brynsveien 1, Oslo on Fri 2 Oct.
 
@@ -15,7 +15,7 @@ Katiusha is a techno and house artist based in United Kingdom, tracked on soundc
 
 ## Recently played
 
-- TBA - Secret Location, Berlin, Berlin — Sat, 12 Sept 2026
+- TBA - Secret Location, Berlin — Sat, 12 Sept 2026
 - The Carpet Shop, London — Fri, 11 Sept 2026
 - TBA - Secret Location (near Frankfurter Allee), Berlin — Wed, 29 Jul 2026
 - Backsteinboot, Berlin — Sat, 11 Jul 2026
@@ -28,4 +28,4 @@ Katiusha is a techno and house artist based in United Kingdom, tracked on soundc
 
 Dubrunner, Chris Farrell, DJ Carlita
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/katiusha/)*

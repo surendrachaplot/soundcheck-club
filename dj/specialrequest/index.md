@@ -1,8 +1,8 @@
 # Special Request
 
-Special Request is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
+Special Request is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Golden Lion, Manchester on Fri, 16 Oct 2026.
 
-Special Request is a techno and house artist based in United Kingdom, tracked on soundcheck, with 169 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 46 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: The Golden Lion, Manchester on Fri 16 Oct.
+Special Request is a techno and house artist based in United Kingdom, tracked on soundcheck, with 170 sets logged across Amsterdam, Antwerp, Bali and Barcelona and 47 more. Often billed alongside Ewan McVicar, Goldie and SHERELLE. Next up: The Golden Lion, Manchester on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Special Request is a techno and house artist based in United Kingdom, tracked on
 | Fri, 23 Oct 2026 | Thuishaven | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 | Fri, 18 Dec 2026 | The Prospect Building | Bristol |
 
 ## Recently played
@@ -31,4 +32,4 @@ Special Request is a techno and house artist based in United Kingdom, tracked on
 
 Ewan McVicar, Goldie, SHERELLE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/specialrequest/)*

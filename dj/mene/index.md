@@ -1,14 +1,15 @@
 # Mene
 
-Mene is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
+Mene is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Secret location announced only to ticket holders, Ibiza on Sun, 4 Oct 2026.
 
-Mene is a tech house and house artist based in Serbia, tracked on soundcheck, with 39 sets logged across Barcelona, Belgrade, Ibiza and Lisbon and 2 more. Often billed alongside ACA (YU), Nemax and Dimitri J. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
+Mene is a tech house and house artist based in Serbia, tracked on soundcheck, with 40 sets logged across Amsterdam, Barcelona, Belgrade and Ibiza and 3 more. Often billed alongside ACA (YU), Nemax and Dimitri J. Next up: TBA - Secret location announced only to ticket holders, Ibiza on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | TBA - Secret location announced only to ticket holders | Ibiza |
+| Sat, 24 Oct 2026 | TBA - AMSTERDAM BARBER COMPANY | Amsterdam |
 | Fri, 13 Nov 2026 | Egg London | London |
 
 ## Recently played
@@ -26,4 +27,4 @@ Mene is a tech house and house artist based in Serbia, tracked on soundcheck, wi
 
 ACA (YU), Nemax, Dimitri J
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/mene/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mene/)*

@@ -1,13 +1,14 @@
 # Tiefundton
 
-Tiefundton is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat, 7 Nov 2026.
+Tiefundton is a Techno and Trance artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Gaswerk Augsburg, Augsburg on Fri, 30 Oct 2026.
 
-Tiefundton is a techno and trance artist based in Germany, tracked on soundcheck, with 30 sets logged across Berlin, Cologne, Frankfurt and Nürnberg and 1 more. Often billed alongside TAKTSTÖRER, A.N.I. and Daniela Hensel. Next up: P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt, Frankfurt on Sat 7 Nov.
+Tiefundton is a techno and trance artist based in Germany, tracked on soundcheck, with 31 sets logged across Augsburg, Berlin, Cologne and Frankfurt and 2 more. Often billed alongside TAKTSTÖRER, A.N.I. and Daniela Hensel. Next up: Gaswerk Augsburg, Augsburg on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Gaswerk Augsburg | Augsburg |
 | Sat, 7 Nov 2026 | P36 Terminal 1 Busparkplatz  / Sonic-Warrior Festival Tours Abfahrt | Frankfurt |
 | Sat, 28 Nov 2026 | MTW | Frankfurt |
 | Fri, 4 Dec 2026 | Der Weiße Hase | Berlin |
@@ -27,4 +28,4 @@ Tiefundton is a techno and trance artist based in Germany, tracked on soundcheck
 
 TAKTSTÖRER, A.N.I., Daniela Hensel
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tiefundton/)*

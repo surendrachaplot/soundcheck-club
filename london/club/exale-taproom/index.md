@@ -1,6 +1,6 @@
 # Exale Taproom
 
-Exale Taproom is a music venue in London with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "Walthamstow Dub Club" on Thu, 1 Oct 2026.
+Exale Taproom is a music venue in London with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Walthamstow Dub Club" on Thu, 1 Oct 2026.
 
 Exale Taproom is a music venue in London listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing.
 
@@ -10,4 +10,4 @@ Exale Taproom is a music venue in London listed on soundcheck. 1 upcoming gig. B
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Walthamstow Dub Club |  |
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/london/club/exale-taproom/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/exale-taproom/)*

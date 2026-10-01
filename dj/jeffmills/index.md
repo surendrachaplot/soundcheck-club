@@ -1,14 +1,13 @@
 # Jeff Mills
 
-Jeff Mills is a Techno and House artist with 17 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Fvtvr, Paris on Wed, 30 Sept 2026.
+Jeff Mills is a Techno and House artist with 16 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-Jeff Mills is a techno and house artist based in United States of America, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Fvtvr, Paris on Wed 30 Sept.
+Jeff Mills is a techno and house artist based in United States of America, tracked on soundcheck, with 193 sets logged across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside DVS1, Marcel Dettmann and DJ Nobu. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Fvtvr | Paris |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Sun, 11 Oct 2026 | Saline Royale D'arc-et-Senans (25 Doubs) | Lyon |
@@ -20,9 +19,11 @@ Jeff Mills is a techno and house artist based in United States of America, track
 | Sun, 1 Nov 2026 | Sophie Festival | Malaga |
 | Sat, 14 Nov 2026 | Plaza Mayor Medellin | Medellin |
 | Fri, 20 Nov 2026 | Basel Venue | Santiago |
+| Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played
 
+- Fvtvr, Paris — Wed, 30 Sept 2026
 - Amnesia Ibiza, Ibiza — Sun, 27 Sept 2026
 - Laboral Ciudad de la Cultura, North — Fri, 25 Sept 2026
 - Vrachon Theater, Athens — Sun, 20 Sept 2026
@@ -30,10 +31,9 @@ Jeff Mills is a techno and house artist based in United States of America, track
 - Under the K Bridge, New York City — Sat, 5 Sept 2026
 - MTELUS, Montreal — Fri, 28 Aug 2026
 - Quartier Des Spectacles, Montreal — Tue, 25 Aug 2026
-- Flava Beach, Naples — Sat, 15 Aug 2026
 
 ## Shares bills with
 
 DVS1, Marcel Dettmann, DJ Nobu
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jeffmills/)*

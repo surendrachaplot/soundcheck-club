@@ -1,6 +1,6 @@
 # Decabar Super
 
-Decabar Super is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Mon, 28 Sept 2026; the next is "KABUKICHO MENHERA NIGHT VOL.15" on Sat, 10 Oct 2026.
+Decabar Super is a music venue in Tokyo with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "KABUKICHO MENHERA NIGHT VOL.15" on Sat, 10 Oct 2026.
 
 Decabar Super is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. Browse upcoming dates, start times and who's playing. Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1.
 
@@ -14,4 +14,4 @@ Decabar Super is a music venue in Tokyo listed on soundcheck. 1 upcoming gig. Br
 
 Tokyo, Shinjuku City, Kabukicho, 1 Chome−9−8 ASAHI Blg. B1, Tokyo
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/decabar-super/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/tokyo/club/decabar-super/)*

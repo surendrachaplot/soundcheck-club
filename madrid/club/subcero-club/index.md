@@ -1,8 +1,8 @@
 # Subcero Club
 
-Subcero Club is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "SUBCERO x HIDDEN GROOVES & MANDOSTAN" on Thu, 1 Oct 2026.
+Subcero Club is a music venue in Madrid with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "SUBCERO x HIDDEN GROOVES & MANDOSTAN" on Thu, 1 Oct 2026.
 
-Subcero Club is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with line-ups including AL MANDO, DIGUES, Elwei and Emi Koto and 2 more. Browse upcoming dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
+Subcero Club is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, with line-ups including AL MANDO, Elwei, Emi Koto and Fonso Alegría and 2 more. Browse upcoming dates, start times and who's playing. Calle Ayala, 27, Madrid, Spain.
 
 ## What's on
 
@@ -12,8 +12,8 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, 
 | Fri, 2 Oct 2026 | SUBCERO CLUB x KLAK |  |
 | Sat, 3 Oct 2026 | SUBCERO CLUB x QUINOA EXPERIENCE | Emi Koto, Manu Oubiña |
 | Thu, 8 Oct 2026 | Subcero x Puro Dramma | Halluin, Puro Dramma |
-| Fri, 9 Oct 2026 | SUBCERO x VISAGE | DIGUES, Iker Lobo, Mar Bravo, lebollet |
-| Sat, 10 Oct 2026 | SUBCERO x IMBOLC | Fonso Alegría |
+| Fri, 9 Oct 2026 | SUBCERO x IMBOLC | Fonso Alegría |
+| Sat, 10 Oct 2026 | SUBCERO x KEYHOLE | John Heaven, Kean Farrar |
 | Thu, 15 Oct 2026 | Subcero x PBP Recdords | AL MANDO, THEDGE |
 | Fri, 16 Oct 2026 | Subcero x MO.DO | Karjala, Terence :Terry: |
 | Sat, 17 Oct 2026 | Subcero x Climax | PABLOANYWAY |
@@ -23,4 +23,4 @@ Subcero Club is a music venue in Madrid listed on soundcheck. 16 upcoming gigs, 
 
 Calle Ayala, 27, Madrid, Spain, Madrid
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/madrid/club/subcero-club/)*

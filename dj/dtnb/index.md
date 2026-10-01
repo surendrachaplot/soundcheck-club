@@ -1,6 +1,6 @@
 # dtnb
 
-dtnb is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Toldi Klub, Budapest on Sat, 7 Nov 2026.
+dtnb is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Toldi Klub, Budapest on Sat, 7 Nov 2026.
 
 dtnb is a techno and trance artist based in Hungary, tracked on soundcheck, with 48 sets logged across Budapest. Often billed alongside And/Or, AGA2L and LAU. Next up: Toldi Klub, Budapest on Sat 7 Nov.
 
@@ -25,4 +25,4 @@ dtnb is a techno and trance artist based in Hungary, tracked on soundcheck, with
 
 And/Or, AGA2L, LAU (6)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dtnb/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dtnb/)*

@@ -1,6 +1,6 @@
 # Sammy Dean
 
-Sammy Dean is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Nine Lives, Malta on Sun, 11 Oct 2026.
+Sammy Dean is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nine Lives, Malta on Sun, 11 Oct 2026.
 
 Sammy Dean is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 14 sets logged across Ibiza, London, Malta and Manchester. Often billed alongside JOHNJAYDEE, Monsieur Mikey and She is Spinderella. Next up: Nine Lives, Malta on Sun 11 Oct.
 
@@ -26,4 +26,4 @@ Sammy Dean is a house and deep house artist based in United Kingdom, tracked on 
 
 JOHNJAYDEE, Monsieur Mikey, She is Spinderella
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/sammydean/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sammydean/)*

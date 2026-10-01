@@ -1,6 +1,6 @@
 # Khenya
 
-Khenya is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Blue Marlin Ibiza, Ibiza on Sun, 4 Oct 2026.
+Khenya is a Afro House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Blue Marlin Ibiza, Ibiza on Sun, 4 Oct 2026.
 
 Khenya is an afro house and house artist based in Cuba, tracked on soundcheck, with 25 sets logged across Amsterdam, Barcelona, Düsseldorf and Ibiza and 2 more. Often billed alongside ANOTR, ARODES and Alexandre Laeddis. Next up: Blue Marlin Ibiza, Ibiza on Sun 4 Oct.
 
@@ -26,4 +26,4 @@ Khenya is an afro house and house artist based in Cuba, tracked on soundcheck, w
 
 ANOTR, ARODES, Alexandre Laeddis
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/khenya/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/khenya/)*

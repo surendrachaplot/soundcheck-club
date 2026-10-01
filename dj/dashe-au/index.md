@@ -1,14 +1,15 @@
 # Dashé
 
-Dashé is a Techno and Club artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Angel Music Bar, Melbourne on Fri, 2 Oct 2026.
+Dashé is a Techno and Club artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Angel Music Bar, Melbourne on Fri, 2 Oct 2026.
 
-Dashé is a techno and club artist based in Australia, tracked on soundcheck, with 7 sets logged across Melbourne. Often billed alongside Aaliyah Salem, Mon Franco and 0800KIN. Next up: Angel Music Bar, Melbourne on Fri 2 Oct.
+Dashé is a techno and club artist based in Australia, tracked on soundcheck, with 8 sets logged across Melbourne. Often billed alongside Aaliyah Salem, Haus of Ralph and Mon Franco. Next up: Angel Music Bar, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Angel Music Bar | Melbourne |
+| Thu, 22 Oct 2026 | New Guernica | Melbourne |
 | Sat, 14 Nov 2026 | Abbotsford Convent | Melbourne |
 
 ## Recently played
@@ -21,6 +22,6 @@ Dashé is a techno and club artist based in Australia, tracked on soundcheck, wi
 
 ## Shares bills with
 
-Aaliyah Salem, Mon Franco, 0800KIN
+Aaliyah Salem, Haus of Ralph, Mon Franco
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/dashe-au/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/dashe-au/)*

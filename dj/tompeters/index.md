@@ -1,14 +1,16 @@
 # Tom Peters
 
-Tom Peters is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at TBA, London on Fri, 2 Oct 2026.
+Tom Peters is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at POTENT, Shanghai on Thu, 1 Oct 2026.
 
-Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 15 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: TBA, London on Fri 2 Oct.
+Tom Peters is a techno and house artist based in Germany, tracked on soundcheck, with 107 sets logged across Amsterdam, Antwerp, Bangkok and Barcelona and 17 more. Often billed alongside B-VERS, Bertolt Meyer and Primal State. Next up: POTENT, Shanghai on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | POTENT | Shanghai |
 | Fri, 2 Oct 2026 | TBA | London |
+| Sat, 10 Oct 2026 | Red Bar | Tokyo |
 | Fri, 16 Oct 2026 | Horn | Bangkok |
 | Fri, 30 Oct 2026 | 24 Moons | Melbourne |
 | Sat, 14 Nov 2026 | Berghain / Panorama Bar / Säule | Berlin |
@@ -28,4 +30,4 @@ Tom Peters is a techno and house artist based in Germany, tracked on soundcheck,
 
 B-VERS, Bertolt Meyer, Primal State
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tompeters/)*

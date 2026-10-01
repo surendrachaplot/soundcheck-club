@@ -1,17 +1,19 @@
 # CWTCH
 
-CWTCH is a electronic artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Cité du Design Saint Etienne, Central on Fri, 6 Nov 2026.
+CWTCH is a electronic artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Théâtre du Vieux St-Étienne, Rennes on Thu, 1 Oct 2026.
 
-CWTCH is an electronic artist based in France, tracked on soundcheck, with 1 set logged across Central. Often billed alongside 69DB, A Guy Called Gerald and ABADIR. Next up: Cité du Design Saint Etienne, Central on Fri 6 Nov.
+CWTCH is an electronic artist based in France, tracked on soundcheck, with 3 sets logged across Central and Rennes. Often billed alongside Blood of Aza, Katarina Gryvul and 69DB. Next up: Théâtre du Vieux St-Étienne, Rennes on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Théâtre du Vieux St-Étienne | Rennes |
+| Thu, 8 Oct 2026 | Salle Municipale de la Cité | Rennes |
 | Fri, 6 Nov 2026 | Cité du Design Saint Etienne | Central |
 
 ## Shares bills with
 
-69DB, A Guy Called Gerald, ABADIR
+Blood of Aza, Katarina Gryvul, 69DB
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/cwtch/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/cwtch/)*

@@ -1,13 +1,22 @@
 # Anna Æther
 
-Anna Æther is a Club and Disco artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Badehaus Berlin, Berlin on Sat, 17 Oct 2026.
+Anna Æther is a Trance and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MS Treue, Bremen on Sat, 17 Oct 2026.
 
-Anna Æther is a club and disco artist based in Germany, tracked on soundcheck, with 1 set logged across Berlin. Next up: Badehaus Berlin, Berlin on Sat 17 Oct.
+Anna Æther is a trance and progressive house artist based in Germany, tracked on soundcheck, with 3 sets logged across Berlin and Bremen. Often billed alongside Bonzo, DJ Keyframe and Tilian Gray. Next up: MS Treue, Bremen on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | MS Treue | Bremen |
 | Sat, 17 Oct 2026 | Badehaus Berlin | Berlin |
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/annaaether/)*
+## Recently played
+
+- Berndhain, Berlin — Fri, 11 Sept 2026
+
+## Shares bills with
+
+Bonzo (2), DJ Keyframe, Tilian Gray
+
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/annaaether/)*

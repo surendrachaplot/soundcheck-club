@@ -1,6 +1,6 @@
 # LOCAL with LOOPS at Plot 22
 
-LOCAL with LOOPS at Plot 22 on Fri 2 Oct, Sheffield. Preview the line-up and save it on soundcheck.
+LOCAL with LOOPS at Plot 22 on Fri 2 Oct, Sheffield. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,8 +1,8 @@
 # Artbat
 
-Artbat is a Techno and Progressive House artist with 7 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
+Artbat is a Techno and Progressive House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Unidad Deportiva Atanasio Girardot, Medellin on Sat, 10 Oct 2026.
 
-Artbat is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 125 sets logged across Amsterdam, Athens, Austin and Bali and 36 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
+Artbat is a techno and progressive house artist based in Ukraine, tracked on soundcheck, with 127 sets logged across Amsterdam, Athens, Austin and Bali and 37 more. Often billed alongside Miss Monique, Adam Beyer and Argy. Next up: Unidad Deportiva Atanasio Girardot, Medellin on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,11 +10,13 @@ Artbat is a techno and progressive house artist based in Ukraine, tracked on sou
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Unidad Deportiva Atanasio Girardot | Medellin |
 | Fri, 16 Oct 2026 | Zumana Bali | Bali |
+| Fri, 16 Oct 2026 | Zumana Bali | Bali |
 | Sat, 17 Oct 2026 | Pasir Panjang Power Station | Singapore |
 | Fri, 23 Oct 2026 | Obudai Island | Budapest |
 | Fri, 20 Nov 2026 | The Queen Mary | Los Angeles |
 | Fri, 20 Nov 2026 | Olympic Stadium | Berlin |
 | Fri, 4 Dec 2026 | TBA | Zurich |
+| Wed, 9 Dec 2026 | Café del Mar Phuket | Thailand |
 
 ## Recently played
 
@@ -31,4 +33,4 @@ Artbat is a techno and progressive house artist based in Ukraine, tracked on sou
 
 Miss Monique, Adam Beyer, Argy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/Artbat/)*

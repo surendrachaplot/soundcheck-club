@@ -1,6 +1,6 @@
 # Forte Antenne
 
-Forte Antenne is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Len Faki" on Fri, 2 Oct 2026.
+Forte Antenne is a music venue in Rome with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Len Faki" on Fri, 2 Oct 2026.
 
 Forte Antenne is a music venue in Rome listed on soundcheck. 2 upcoming gigs, with line-ups including Brasi, Cinthie, Dante (H501) and Ferrari and 2 more. Browse upcoming dates, start times and who's playing. Via del Forte Antenne, 12, 00199 Roma RM, Italy.
 
@@ -15,4 +15,4 @@ Forte Antenne is a music venue in Rome listed on soundcheck. 2 upcoming gigs, wi
 
 Via del Forte Antenne, 12, 00199 Roma RM, Italy, Rome
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/rome/club/forte-antenne/)*

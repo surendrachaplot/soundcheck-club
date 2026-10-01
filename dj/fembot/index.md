@@ -1,8 +1,8 @@
 # Fembot
 
-Fembot is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
+Fembot is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ankali & Planeta Za, Prague on Fri, 16 Oct 2026.
 
-Fembot is a techno and house artist based in Poland, tracked on soundcheck, with 61 sets logged across Los Angeles and Prague. Often billed alongside Big Lil, Kaotic and Misha Jaru. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
+Fembot is a techno and house artist based in Poland, tracked on soundcheck, with 62 sets logged across Los Angeles and Prague. Often billed alongside Big Lil, Kaotic and Misha Jaru. Next up: Ankali & Planeta Za, Prague on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Fembot is a techno and house artist based in Poland, tracked on soundcheck, with
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Ankali & Planeta Za | Prague |
 | Sat, 17 Oct 2026 | Bike Jesus | Prague |
+| Sat, 31 Oct 2026 | Ankali & Planeta Za | Prague |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Fembot is a techno and house artist based in Poland, tracked on soundcheck, with
 
 Big Lil, Kaotic, Misha Jaru
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/fembot/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fembot/)*

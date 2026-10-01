@@ -1,14 +1,15 @@
 # Sooki Lounge
 
-Sooki Lounge is a music venue in Melbourne with 7 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Sunset Destination Sooki" on Sat, 3 Oct 2026.
+Sooki Lounge is a music venue in Melbourne with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Sunset Destination Sooki" on Sat, 3 Oct 2026.
 
-Sooki Lounge is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs, with line-ups including ALIEN-A, CAITY WATSON, DJ BJ and Ranjit Nijjer and 1 more. Browse upcoming dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
+Sooki Lounge is a music venue in Melbourne listed on soundcheck. 8 upcoming gigs, with line-ups including ALIEN-A, CAITY WATSON, DJ BJ and Ranjit Nijjer and 1 more. Browse upcoming dates, start times and who's playing. 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Sunset Destination Sooki | DJ BJ |
+| Sat, 3 Oct 2026 | HDC #130 BASSLINE BUSINESS  |  |
 | Sat, 10 Oct 2026 | Anomalie Collective Takeover | ALIEN-A, CAITY WATSON, Ranjit Nijjer, SHAY DOE |
 | Fri, 23 Oct 2026 | Dub Side Down 1st birthday party |  |
 | Sat, 24 Oct 2026 | BPM TAKEOVER VOL II |  |
@@ -20,4 +21,4 @@ Sooki Lounge is a music venue in Melbourne listed on soundcheck. 7 upcoming gigs
 
 1648 Burwood Hwy, Belgrave, Victoria, Australia 3160, Melbourne
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/melbourne/club/sooki-lounge/)*

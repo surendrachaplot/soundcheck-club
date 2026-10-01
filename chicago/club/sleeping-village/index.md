@@ -1,18 +1,17 @@
 # Sleeping Village
 
-Sleeping Village is a music venue in Chicago with 2 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Metro Presents: Olof Dreijer (Live)" on Wed, 30 Sept 2026.
+Sleeping Village is a music venue in Chicago with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026; the next is "Pink Party" on Fri, 13 Nov 2026.
 
-Sleeping Village is a music venue in Chicago listed on soundcheck. 2 upcoming gigs, with line-ups including Ariel Zetina, Miss Twink USA, Olof Dreijer and tigermilk. Browse upcoming dates, start times and who's playing. 3734 W Belmont Ave, Chicago, IL 60618, USA.
+Sleeping Village is a music venue in Chicago listed on soundcheck. 1 upcoming gig, with line-ups including Ariel Zetina, Miss Twink USA and tigermilk. Browse upcoming dates, start times and who's playing. 3734 W Belmont Ave, Chicago, IL 60618, USA.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Metro Presents: Olof Dreijer (Live) | Olof Dreijer |
 | Fri, 13 Nov 2026 | Pink Party | Ariel Zetina, Miss Twink USA, tigermilk |
 
 ## Address
 
 3734 W Belmont Ave, Chicago, IL 60618, USA, Chicago
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/sleeping-village/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/chicago/club/sleeping-village/)*

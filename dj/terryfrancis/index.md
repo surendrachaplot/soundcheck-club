@@ -1,6 +1,6 @@
 # Terry Francis
 
-Terry Francis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Eiger Studios, Leeds on Fri, 2 Oct 2026.
+Terry Francis is a House and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Eiger Studios, Leeds on Fri, 2 Oct 2026.
 
 Terry Francis is a house and tech house artist based in United Kingdom, tracked on soundcheck, with 62 sets logged across Aberdeen, Berlin, Birmingham and Brighton and 9 more. Often billed alongside 3 Minds, Eddie Richards and Jake Beautyman. Next up: Eiger Studios, Leeds on Fri 2 Oct.
 
@@ -27,4 +27,4 @@ Terry Francis is a house and tech house artist based in United Kingdom, tracked 
 
 3 Minds, Eddie Richards, Jake Beautyman
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/terryfrancis/)*

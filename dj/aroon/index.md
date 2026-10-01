@@ -1,6 +1,6 @@
 # AROON
 
-AROON is a Ghetto Tech and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Mood Ring, New York City on Thu, 15 Oct 2026.
+AROON is a Ghetto Tech and Baile Funk artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Mood Ring, New York City on Thu, 15 Oct 2026.
 
 AROON is a ghetto tech and baile funk artist tracked on soundcheck, with 8 sets logged across New York City. Often billed alongside grunge mum. Next up: Mood Ring, New York City on Thu 15 Oct.
 
@@ -24,4 +24,4 @@ AROON is a ghetto tech and baile funk artist tracked on soundcheck, with 8 sets 
 
 grunge mum
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aroon/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aroon/)*

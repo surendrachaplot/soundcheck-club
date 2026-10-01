@@ -1,13 +1,14 @@
 # 33/45 Club
 
-33/45 Club is a music venue in Valencia with 4 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "HARD EXPRESSION - MANU KANE, MWMW" on Fri, 2 Oct 2026.
+33/45 Club is a music venue in Valencia with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "EXTRA ROOM 009 - LIPO!, DJ TONE LE BONE, SICKZAG" on Thu, 1 Oct 2026.
 
-33/45 Club is a music venue in Valencia listed on soundcheck. 4 upcoming gigs, with line-ups including buuo, CIKTRIZ, H-R-Z and Hexxe and 2 more. Browse upcoming dates, start times and who's playing. C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia.
+33/45 Club is a music venue in Valencia listed on soundcheck. 5 upcoming gigs, with line-ups including buuo, CIKTRIZ, H-R-Z and Hexxe and 2 more. Browse upcoming dates, start times and who's playing. C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | EXTRA ROOM 009 - LIPO!, DJ TONE LE BONE, SICKZAG |  |
 | Fri, 2 Oct 2026 | HARD EXPRESSION - MANU KANE, MWMW |  |
 | Sat, 3 Oct 2026 | CUERPOS EN FUGA AFTERPARTY: Hexxe, DIGRO, MARTIN GALA, YEEZA, LILI AN | Hexxe |
 | Fri, 9 Oct 2026 | TENTACLES | CIKTRIZ, Neonexus, OKTAY (2), buuo |
@@ -17,4 +18,4 @@
 
 C/ de l'Explorador Andrés, 29, Algirós, 46022 València, Valencia, Valencia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/33-45-club/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/valencia/club/33-45-club/)*

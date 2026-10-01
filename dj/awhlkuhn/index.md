@@ -1,6 +1,6 @@
 # awhlkuhn
 
-awhlkuhn is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
+awhlkuhn is a Dancehall and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Skatecafe, Amsterdam on Sat, 24 Oct 2026.
 
 awhlkuhn is a dancehall and club artist based in Netherlands, tracked on soundcheck, with 19 sets logged across Amsterdam, Berlin, London and New York City and 2 more. Often billed alongside amara, Jarreau Vandal and Shinshan Salazar. Next up: Skatecafe, Amsterdam on Sat 24 Oct.
 
@@ -25,4 +25,4 @@ awhlkuhn is a dancehall and club artist based in Netherlands, tracked on soundch
 
 amara, Jarreau Vandal, Shinshan Salazar
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/awhlkuhn/)*

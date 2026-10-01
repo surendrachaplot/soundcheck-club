@@ -1,8 +1,8 @@
 # Luciid
 
-Luciid is a Techno and Hardcore artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
+Luciid is a Techno and Hardcore artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Edelfettwerk, Hamburg on Fri, 2 Oct 2026.
 
-Luciid is a techno and hardcore artist based in Ireland, tracked on soundcheck, with 115 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 36 more. Often billed alongside Vendex, Dexphase and Skryption. Next up: Edelfettwerk, Hamburg on Fri 2 Oct.
+Luciid is a techno and hardcore artist based in Ireland, tracked on soundcheck, with 117 sets logged across Amsterdam, Antwerp, Barcelona and Basel and 37 more. Often billed alongside Vendex, Dexphase and Skryption. Next up: Edelfettwerk, Hamburg on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,8 @@ Luciid is a techno and hardcore artist based in Ireland, tracked on soundcheck, 
 | Fri, 30 Oct 2026 | INPUT High Fidelity Dance Club | Barcelona |
 | Fri, 30 Oct 2026 | La Cubierta de Leganés | Madrid |
 | Fri, 27 Nov 2026 | SILO | New York City |
+| Sat, 5 Dec 2026 | Zenith - Die Kulturhalle | Munich |
+| Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played
 
@@ -29,4 +31,4 @@ Luciid is a techno and hardcore artist based in Ireland, tracked on soundcheck, 
 
 Vendex, Dexphase, Skryption
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/luciid/)*

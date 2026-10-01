@@ -1,13 +1,14 @@
 # LIIAS
 
-LIIAS is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at DNA. CLUB, Berlin on Sat, 31 Oct 2026.
+LIIAS is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Mokka Mitte Bar / James Simon Park, Berlin on Sat, 10 Oct 2026.
 
-LIIAS is a trance and techno artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin. Often billed alongside Filialleiter, BENITO (DE) and Niotech. Next up: DNA. CLUB, Berlin on Sat 31 Oct.
+LIIAS is a techno and trance artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin. Often billed alongside Filialleiter, BENITO (DE) and Niotech. Next up: Mokka Mitte Bar / James Simon Park, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Mokka Mitte Bar / James Simon Park | Berlin |
 | Sat, 31 Oct 2026 | DNA. CLUB | Berlin |
 
 ## Recently played
@@ -25,4 +26,4 @@ LIIAS is a trance and techno artist based in Germany, tracked on soundcheck, wit
 
 Filialleiter, BENITO (DE), Niotech
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/liias/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/liias/)*

@@ -1,14 +1,13 @@
 # Eschschloraque
 
-Eschschloraque is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Strange Songs for September" on Wed, 30 Sept 2026.
+Eschschloraque is a music venue in Berlin with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Design By Accident with Lucy Park" on Fri, 2 Oct 2026.
 
-Eschschloraque is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including Lancer, MissVergnügen and Robot Girl. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
+Eschschloraque is a music venue in Berlin listed on soundcheck. 10 upcoming gigs, with line-ups including Lancer, MissVergnügen and Robot Girl. Browse upcoming dates, start times and who's playing. Rosenthaler Str. 39, 10178 Berlin, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 30 Sept 2026 | Strange Songs for September | MissVergnügen |
 | Fri, 2 Oct 2026 | Design By Accident with Lucy Park |  |
 | Sat, 3 Oct 2026 | El Matador del Taxi |  |
 | Sun, 4 Oct 2026 | BULETTEN BINGO – INTERNATIONAL EDITION |  |
@@ -18,9 +17,10 @@ Eschschloraque is a music venue in Berlin listed on soundcheck. 11 upcoming gigs
 | Sat, 17 Oct 2026 | Electric Baile (Italo Disco - Euro Disco - Hi NRG) at Eschschloraque | Lancer (2), Robot Girl |
 | Wed, 21 Oct 2026 | Strange Songs for Strange People | MissVergnügen |
 | Wed, 28 Oct 2026 | MissVergnügen presents Dingo`s Dream - live | MissVergnügen |
+| Sat, 14 Nov 2026 | DISCO ELECTRONICA – 4th Anniversary |  |
 
 ## Address
 
 Rosenthaler Str. 39, 10178 Berlin, Germany, Berlin
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/berlin/club/eschschloraque/)*

@@ -1,8 +1,8 @@
 # Peverelist
 
-Peverelist is a Techno and Bass artist with 3 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Electric Bristol, Bristol on Fri, 30 Oct 2026.
+Peverelist is a Techno and Bass artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Electric Bristol, Bristol on Fri, 30 Oct 2026.
 
-Peverelist is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 57 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside Hodge, Livity Sound and Abena. Next up: Electric Bristol, Bristol on Fri 30 Oct.
+Peverelist is a techno and bass artist based in United Kingdom, tracked on soundcheck, with 58 sets logged across Amsterdam, Barcelona, Berlin and Birmingham and 11 more. Often billed alongside Hodge, Livity Sound and re:ni. Next up: Electric Bristol, Bristol on Fri 30 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Peverelist is a techno and bass artist based in United Kingdom, tracked on sound
 | Fri, 30 Oct 2026 | Electric Bristol | Bristol |
 | Fri, 6 Nov 2026 | The White Hotel | Manchester |
 | Sat, 21 Nov 2026 | Tresor / Globus | Berlin |
+| Thu, 22 Jul 2027 | The Garden Tisno | London |
 
 ## Recently played
 
@@ -25,6 +26,6 @@ Peverelist is a techno and bass artist based in United Kingdom, tracked on sound
 
 ## Shares bills with
 
-Hodge, Livity Sound, Abena
+Hodge, Livity Sound, re:ni
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/peverelist/)*

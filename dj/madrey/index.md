@@ -1,13 +1,14 @@
 # Mad Rey
 
-Mad Rey is a House and Electro artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Radio Radio, Amsterdam on Wed, 21 Oct 2026.
+Mad Rey is a House and Electro artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at La Piazza, Moka, Mauritius on Fri, 9 Oct 2026.
 
-Mad Rey is a house and electro artist based in France, tracked on soundcheck, with 59 sets logged across Amsterdam, Berlin, Geneva and Lisbon and 5 more. Often billed alongside Mézigue, GGGG and Flabaire. Next up: Radio Radio, Amsterdam on Wed 21 Oct.
+Mad Rey is a house and electro artist based in France, tracked on soundcheck, with 60 sets logged across Amsterdam, Berlin, Geneva and Lisbon and 6 more. Often billed alongside Mézigue, GGGG and Flabaire. Next up: La Piazza, Moka, Mauritius on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | La Piazza, Moka | Mauritius |
 | Wed, 21 Oct 2026 | Radio Radio | Amsterdam |
 | Fri, 18 Dec 2026 | Petit CAB | Marseille |
 
@@ -26,4 +27,4 @@ Mad Rey is a house and electro artist based in France, tracked on soundcheck, wi
 
 Mézigue, GGGG, Flabaire
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/madrey/)*

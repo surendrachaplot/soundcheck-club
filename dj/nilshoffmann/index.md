@@ -1,8 +1,8 @@
 # Nils Hoffmann
 
-Nils Hoffmann is a Deep House and Progressive House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
+Nils Hoffmann is a Deep House and Progressive House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Het Sieraad, Amsterdam on Fri, 23 Oct 2026.
 
-Nils Hoffmann is a deep house and progressive house artist based in Germany, tracked on soundcheck, with 87 sets logged across Amsterdam, Austin, Bali and Barcelona and 36 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
+Nils Hoffmann is a deep house and progressive house artist based in Germany, tracked on soundcheck, with 88 sets logged across Amsterdam, Austin, Bali and Barcelona and 36 more. Often billed alongside Marsh, Nicky Elisabeth and Romain Garcia. Next up: Het Sieraad, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nils Hoffmann is a deep house and progressive house artist based in Germany, tra
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Het Sieraad | Amsterdam |
 | Fri, 20 Nov 2026 | Russell Industrial Center | Detroit |
+| Sat, 13 Mar 2027 | MS Stubnitz | Hamburg |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Nils Hoffmann is a deep house and progressive house artist based in Germany, tra
 
 Marsh, Nicky Elisabeth, Romain Garcia
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nilshoffmann/)*

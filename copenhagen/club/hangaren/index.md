@@ -1,6 +1,6 @@
 # Hangaren
 
-Hangaren is a music venue in Copenhagen with 13 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "Nastia, Ena Cosovic, Kallax" on Fri, 2 Oct 2026.
+Hangaren is a music venue in Copenhagen with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "Nastia, Ena Cosovic, Kallax" on Fri, 2 Oct 2026.
 
 Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, with line-ups including AELVA K, Baime, CAIVA and Cara Elizabeth and 2 more. Browse upcoming dates, start times and who's playing. Refshalevej 185, 1432 København, Denmark.
 
@@ -23,4 +23,4 @@ Hangaren is a music venue in Copenhagen listed on soundcheck. 13 upcoming gigs, 
 
 Refshalevej 185, 1432 København, Denmark, Copenhagen
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/copenhagen/club/hangaren/)*

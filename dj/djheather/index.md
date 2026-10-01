@@ -1,6 +1,6 @@
 # DJ Heather
 
-DJ Heather is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+DJ Heather is a House and Deep House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
 DJ Heather is a house and deep house artist based in United States of America, tracked on soundcheck, with 134 sets logged across Austin, Chicago, Detroit and Los Angeles and 9 more. Often billed alongside DJ Colette, Derrick Carter and Mark Farina. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
@@ -30,4 +30,4 @@ DJ Heather is a house and deep house artist based in United States of America, t
 
 DJ Colette, Derrick Carter, Mark Farina
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djheather/)*

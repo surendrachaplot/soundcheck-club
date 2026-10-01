@@ -1,14 +1,15 @@
 # &ME
 
-&ME is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
+&ME is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Brooklyn Storehouse, New York City on Fri, 30 Oct 2026.
 
-&ME is a house and techno artist based in Germany, tracked on soundcheck, with 92 sets logged across Amsterdam, Antwerp, Athens and Austin and 31 more. Often billed alongside Rampa, Adam Port and Sossa. Next up: Brooklyn Storehouse, New York City on Fri 30 Oct.
+&ME is a house and techno artist based in Germany, tracked on soundcheck, with 93 sets logged across Amsterdam, Antwerp, Athens and Austin and 32 more. Often billed alongside Rampa, Adam Port and Sossa. Next up: Brooklyn Storehouse, New York City on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Brooklyn Storehouse | New York City |
+| Sat, 21 Nov 2026 | Uhuru Gardens | Nairobi |
 
 ## Recently played
 
@@ -25,4 +26,4 @@
 
 Rampa, Adam Port, Sossa
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/me/)*

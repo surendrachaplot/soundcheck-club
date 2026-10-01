@@ -1,13 +1,14 @@
 # Belaria
 
-Belaria is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Base Sous-Marine de Bordeaux, Bordeaux on Thu, 5 Nov 2026.
+Belaria is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Rokin 75 / The Amsterdam View, Amsterdam on Fri, 23 Oct 2026.
 
-Belaria is a techno and house artist based in France, tracked on soundcheck, with 70 sets logged across Berlin, Bordeaux, Brussels and Geneva and 11 more. Often billed alongside Kendal, Mézigue and Olympe4000. Next up: Base Sous-Marine de Bordeaux, Bordeaux on Thu 5 Nov.
+Belaria is a techno and house artist based in France, tracked on soundcheck, with 71 sets logged across Amsterdam, Berlin, Bordeaux and Brussels and 12 more. Often billed alongside Kendal, Mézigue and Olympe4000. Next up: Rokin 75 / The Amsterdam View, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Rokin 75 / The Amsterdam View | Amsterdam |
 | Thu, 5 Nov 2026 | Base Sous-Marine de Bordeaux | Bordeaux |
 
 ## Recently played
@@ -25,4 +26,4 @@ Belaria is a techno and house artist based in France, tracked on soundcheck, wit
 
 Kendal, Mézigue, Olympe4000
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/belaria/)*

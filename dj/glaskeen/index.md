@@ -1,6 +1,6 @@
 # Glaskeen
 
-Glaskeen is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
+Glaskeen is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Plage Privée Parc de Miribel, Lyon on Sat, 10 Oct 2026.
 
 Glaskeen is a techno and hardcore artist based in France, tracked on soundcheck, with 5 sets logged across Lyon and Paris. Often billed alongside Istigkeit, 2HOT2PLAY and AREA ØNE. Next up: Plage Privée Parc de Miribel, Lyon on Sat 10 Oct.
 
@@ -21,4 +21,4 @@ Glaskeen is a techno and hardcore artist based in France, tracked on soundcheck,
 
 Istigkeit, 2HOT2PLAY, AREA ØNE
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskeen/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/glaskeen/)*

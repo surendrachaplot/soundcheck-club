@@ -1,13 +1,14 @@
 # Selena (2)
 
-Selena (2) is a R&B and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at TBA - Mount Adrah, Wiradjuri Country NSW, New-south-wales on Fri, 6 Nov 2026.
+Selena (2) is a R&B and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Angel Music Bar, Melbourne on Sat, 3 Oct 2026.
 
-Selena is a r&b and deep house artist tracked on soundcheck, with 9 sets logged across Melbourne and New South Wales. Often billed alongside Bex, Zjoso and Aarti Jadu. Next up: TBA - Mount Adrah, Wiradjuri Country NSW, New South Wales on Fri 6 Nov.
+Selena is a r&b and deep house artist tracked on soundcheck, with 10 sets logged across Melbourne and New South Wales. Often billed alongside Bex, Miki and Zjoso. Next up: Angel Music Bar, Melbourne on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | Angel Music Bar | Melbourne |
 | Fri, 6 Nov 2026 | TBA - Mount Adrah, Wiradjuri Country NSW | New-south-wales |
 
 ## Recently played
@@ -23,6 +24,6 @@ Selena is a r&b and deep house artist tracked on soundcheck, with 9 sets logged 
 
 ## Shares bills with
 
-Bex, Zjoso, Aarti Jadu
+Bex, Miki (3), Zjoso
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/selena-2/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/selena-2/)*

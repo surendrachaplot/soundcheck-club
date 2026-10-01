@@ -1,6 +1,6 @@
 # Young Sun
 
-Young Sun is a Tech House and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at teller, Seoul on Fri, 2 Oct 2026.
+Young Sun is a Tech House and Minimal Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at teller, Seoul on Fri, 2 Oct 2026.
 
 Young Sun is a tech house and minimal techno artist based in United States of America, tracked on soundcheck, with 108 sets logged across Amsterdam, Bangkok, Barcelona and Boston and 7 more. Often billed alongside Lyumin, .2ndfloor and Mihak. Next up: teller, Seoul on Fri 2 Oct.
 
@@ -29,4 +29,4 @@ Young Sun is a tech house and minimal techno artist based in United States of Am
 
 Lyumin, .2ndfloor, Mihak
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsun/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/youngsun/)*

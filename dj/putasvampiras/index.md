@@ -1,6 +1,6 @@
 # PUTAS VAMPIRAS
 
-PUTAS VAMPIRAS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at So36, Berlin on Fri, 2 Oct 2026.
+PUTAS VAMPIRAS is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at So36, Berlin on Fri, 2 Oct 2026.
 
 PUTAS VAMPIRAS is a techno and industrial artist based in Brazil, tracked on soundcheck, with 22 sets logged across Berlin, London, Nantes and New York City and 4 more. Often billed alongside Silenzo, Acierate and Rebeka Warrior. Next up: So36, Berlin on Fri 2 Oct.
 
@@ -25,4 +25,4 @@ PUTAS VAMPIRAS is a techno and industrial artist based in Brazil, tracked on sou
 
 Silenzo, Acierate, Rebeka Warrior
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/putasvampiras/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/putasvampiras/)*

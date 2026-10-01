@@ -1,6 +1,6 @@
 # Zepherin Saint
 
-Zepherin Saint is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at The Night Cat, Melbourne on Fri, 16 Oct 2026.
+Zepherin Saint is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Night Cat, Melbourne on Fri, 16 Oct 2026.
 
 Zepherin Saint is a house and deep house artist based in United Kingdom, tracked on soundcheck, with 49 sets logged across Amsterdam, Auckland, Madrid and Melbourne and 2 more. Often billed alongside Mike Gurrieri, Zjoso and Chris NG. Next up: The Night Cat, Melbourne on Fri 16 Oct.
 
@@ -26,4 +26,4 @@ Zepherin Saint is a house and deep house artist based in United Kingdom, tracked
 
 Mike Gurrieri, Zjoso, Chris NG
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/zepherinsaint/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/zepherinsaint/)*

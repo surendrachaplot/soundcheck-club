@@ -1,8 +1,8 @@
 # Mas Que Nada Brothers
 
-Mas Que Nada Brothers is a House and Disco artist with 2 upcoming club dates listed on soundcheck as of Mon, 28 Sept 2026, next at Moon Club, Bristol on Fri, 16 Oct 2026.
+Mas Que Nada Brothers is a House and Disco artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Moon Club, Bristol on Fri, 16 Oct 2026.
 
-Mas Que Nada Brothers is a house and disco artist based in United Kingdom, tracked on soundcheck, with 105 sets logged across Brighton, Bristol, Ibiza and London and 1 more. Often billed alongside Tommy Tickle, Hywel Gregory and Joe Murphy. Next up: Moon Club, Bristol on Fri 16 Oct.
+Mas Que Nada Brothers is a house and disco artist based in United Kingdom, tracked on soundcheck, with 106 sets logged across Brighton, Bristol, Ibiza and London and 1 more. Often billed alongside Tommy Tickle, Hywel Gregory and Joe Murphy. Next up: Moon Club, Bristol on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mas Que Nada Brothers is a house and disco artist based in United Kingdom, track
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Moon Club | Bristol |
 | Fri, 23 Oct 2026 | Ministry Of Sound | London |
+| Sat, 31 Oct 2026 | The Jazz Cafe | London |
 
 ## Recently played
 
@@ -26,4 +27,4 @@ Mas Que Nada Brothers is a house and disco artist based in United Kingdom, track
 
 Tommy Tickle, Hywel Gregory, Joe Murphy
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/masquenadabrothers/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/masquenadabrothers/)*

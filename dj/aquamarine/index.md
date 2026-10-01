@@ -1,14 +1,15 @@
 # Aquamarine
 
-Aquamarine is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Distillery N17, London on Fri, 16 Oct 2026.
+Aquamarine is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Distillery N17, London on Fri, 16 Oct 2026.
 
-Aquamarine is a techno and house artist based in United Kingdom, tracked on soundcheck, with 43 sets logged across London, Manchester and Tokyo. Often billed alongside HENDERSON, Jezebelle and ANNX. Next up: Distillery N17, London on Fri 16 Oct.
+Aquamarine is a house and techno artist based in United Kingdom, tracked on soundcheck, with 44 sets logged across London, Manchester, Sheffield and Tokyo. Often billed alongside HENDERSON, Jezebelle and ANNX. Next up: Distillery N17, London on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Distillery N17 | London |
+| Sat, 12 Dec 2026 | Gut Level | Sheffield |
 
 ## Recently played
 
@@ -25,4 +26,4 @@ Aquamarine is a techno and house artist based in United Kingdom, tracked on soun
 
 HENDERSON, Jezebelle, ANNX
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/aquamarine/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/aquamarine/)*

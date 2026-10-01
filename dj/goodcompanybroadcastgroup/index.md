@@ -1,13 +1,14 @@
 # Good Company Broadcast Group
 
-Good Company Broadcast Group is a House and Deep House artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at MIDNIGHT EAST, Tokyo on Sat, 17 Oct 2026.
+Good Company Broadcast Group is a House and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at HVEN, Tokyo on Sun, 4 Oct 2026.
 
-Good Company Broadcast Group is a house and deep house artist based in New Zealand, tracked on soundcheck, with 36 sets logged across Tokyo. Often billed alongside Joe O, CHIDA and FU (JP). Next up: MIDNIGHT EAST, Tokyo on Sat 17 Oct.
+Good Company Broadcast Group is a house and deep house artist based in New Zealand, tracked on soundcheck, with 37 sets logged across Tokyo. Often billed alongside Joe O, CHIDA and FU (JP). Next up: HVEN, Tokyo on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 4 Oct 2026 | HVEN | Tokyo |
 | Sat, 17 Oct 2026 | MIDNIGHT EAST | Tokyo |
 
 ## Recently played
@@ -25,4 +26,4 @@ Good Company Broadcast Group is a house and deep house artist based in New Zeala
 
 Joe O, CHIDA, FU (JP)
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/goodcompanybroadcastgroup/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/goodcompanybroadcastgroup/)*

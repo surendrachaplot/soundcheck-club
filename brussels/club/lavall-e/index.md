@@ -1,6 +1,6 @@
 # Lavallée
 
-Lavallée is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Mon, 28 Sept 2026; the next is "In.out.sider Festival #5" on Fri, 9 Oct 2026.
+Lavallée is a music venue in Brussels with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "In.out.sider Festival #5" on Fri, 9 Oct 2026.
 
 Lavallée is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, with line-ups including Caillou, Carrageenan, EliseThere and Leese and 2 more. Browse upcoming dates, start times and who's playing. 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean.
 
@@ -9,11 +9,11 @@ Lavallée is a music venue in Brussels listed on soundcheck. 3 upcoming gigs, wi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | In.out.sider Festival #5 | Caillou, Mikamayonnaise, Oonagh Haines, Third Wave, xaxalxe |
-| Sun, 11 Oct 2026 | COUP\E CONTAINER #6 - MONOSUM (UK), LEESE(BE), Suzie BABIN (FR) | Leese (1) |
+| Sun, 11 Oct 2026 | COUP\E CONTAINER #6 - MONOSUM (UK), LEESE(BE), Suzie BABIN (FR) | Leese (1), MONOSUM |
 | Fri, 16 Oct 2026 | ENCORE DUB #6 : LYS FINKE, DJ LOVEPILLS, ENCORE DUB CREW | Carrageenan, EliseThere |
 
 ## Address
 
 39 rue Adolphe Lavallée, 1080 Molenbeek-Saint-Jean, Brussels
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/brussels/club/lavall-e/)*

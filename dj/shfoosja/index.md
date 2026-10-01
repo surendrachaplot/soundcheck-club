@@ -1,6 +1,6 @@
 # Shfoosja
 
-Shfoosja is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Mon, 28 Sept 2026, next at Gut Level, Sheffield on Fri, 9 Oct 2026.
+Shfoosja is a Bass and Drum & Bass artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Gut Level, Sheffield on Fri, 9 Oct 2026.
 
 Shfoosja is a bass and drum & bass artist based in France, tracked on soundcheck, with 16 sets logged across Berlin, London, Lyon and Marseille and 2 more. Often billed alongside MARIAD, MASSEILOT and Mafille. Next up: Gut Level, Sheffield on Fri 9 Oct.
 
@@ -25,4 +25,4 @@ Shfoosja is a bass and drum & bass artist based in France, tracked on soundcheck
 
 MARIAD, MASSEILOT, Mafille
 
-*Updated Mon, 28 Sept 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shfoosja/)*
