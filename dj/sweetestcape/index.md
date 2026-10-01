@@ -1,8 +1,8 @@
 # sweetestcape
 
-sweetestcape is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
+sweetestcape is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
 
-sweetestcape is a techno and house artist based in United Kingdom, with 31 gigs on soundcheck across Berlin, Budapest and London. Often billed alongside Amphia, THEMPRESS and ASHTREY. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
+sweetestcape is a house and techno artist based in United Kingdom, with 32 gigs on soundcheck across Berlin, Budapest and London. Often billed alongside Amphia, THEMPRESS and ASHTREY. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ sweetestcape is a techno and house artist based in United Kingdom, with 31 gigs 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 17 Oct 2026 | Secret Location | London |
+| Thu, 29 Oct 2026 | One Marylebone | London |
 
 ## Recently played
 

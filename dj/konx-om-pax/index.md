@@ -1,14 +1,13 @@
 # Konx-om-Pax
 
-Konx-om-Pax is a Experimental and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+Konx-om-Pax is a Experimental and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at PTR-Usine, Geneva on Mon, 12 Oct 2026.
 
-Konx-om-Pax is an experimental and electronica artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, Geneva, Glasgow and Istanbul and 3 more. Often billed alongside Isa Gordon, Nightwave and Peeve. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
+Konx-om-Pax is an experimental and electronica artist based in United Kingdom, with 15 gigs on soundcheck across Bristol, Geneva, Glasgow and Istanbul and 3 more. Often billed alongside Isa Gordon, Nightwave and Peeve. Next up: PTR-Usine, Geneva on Mon 12 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Venues Across Glasgow | Glasgow |
 | Mon, 12 Oct 2026 | PTR-Usine | Geneva |
 
 ## Recently played

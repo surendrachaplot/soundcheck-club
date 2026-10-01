@@ -1,14 +1,13 @@
 # Dizzy
 
-Dizzy is a Techno and House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at CGM - Club Giovanile Milano, Milan on Thu, 1 Oct 2026.
+Dizzy is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Village Underground, London on Sat, 3 Oct 2026.
 
-Dizzy is a techno and house artist based in Italy, with 43 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 8 more. Often billed alongside Pabie, Brasi and DJ Tree. Next up: CGM - Club Giovanile Milano, Milan on Thu 1 Oct.
+Dizzy is a techno and house artist based in Italy, with 43 gigs on soundcheck across Barcelona, Berlin, Lisbon and London and 8 more. Often billed alongside Pabie, Brasi and DJ Tree. Next up: Village Underground, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | CGM - Club Giovanile Milano | Milan |
 | Sat, 3 Oct 2026 | Village Underground | London |
 | Sat, 3 Oct 2026 | Village Underground Barcelona | Barcelona |
 | Fri, 9 Oct 2026 | feedbk | New York City |

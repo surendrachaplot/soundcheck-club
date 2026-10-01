@@ -1,14 +1,13 @@
 # Sandra Mason
 
-Sandra Mason is a Experimental and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Frissón, Rome on Thu, 1 Oct 2026.
+Sandra Mason is a Experimental and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chiesetta Della Misericordia + Argo16, Venice on Sat, 10 Oct 2026.
 
-Sandra Mason is an experimental and techno artist based in Italy, with 39 gigs on soundcheck across Berlin, Helsinki, Milan and Naples and 3 more. Often billed alongside Cosimo Damiano, Gattonero and Joseph Tagliabue. Next up: Frissón, Rome on Thu 1 Oct.
+Sandra Mason is an experimental and techno artist based in Italy, with 39 gigs on soundcheck across Berlin, Helsinki, Milan and Naples and 3 more. Often billed alongside Cosimo Damiano, Gattonero and Joseph Tagliabue. Next up: Chiesetta Della Misericordia + Argo16, Venice on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Frissón | Rome |
 | Sat, 10 Oct 2026 | Chiesetta Della Misericordia + Argo16 | Venice |
 
 ## Recently played

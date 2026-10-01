@@ -1,14 +1,13 @@
 # Laura Not
 
-Laura Not is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outlaws Yacht Club, Leeds on Thu, 1 Oct 2026.
+Laura Not is a Ambient and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sauna Social Club, London on Fri, 2 Oct 2026.
 
-Laura Not is an ambient and experimental artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Hamburg, Leeds and London. Often billed alongside Alessandro Adriani, Alexander Arpeggio and Andy Mac. Next up: Outlaws Yacht Club, Leeds on Thu 1 Oct.
+Laura Not is an ambient and experimental artist based in United Kingdom, with 10 gigs on soundcheck across Berlin, Hamburg, Leeds and London. Often billed alongside Alessandro Adriani, Alexander Arpeggio and Andy Mac. Next up: Sauna Social Club, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Outlaws Yacht Club | Leeds |
 | Fri, 2 Oct 2026 | Sauna Social Club | London |
 
 ## Recently played

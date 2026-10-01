@@ -1,14 +1,13 @@
 # Pracht
 
-Pracht is a music venue in Frankfurt with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "feierabend. 𝐕𝐈𝐍𝐘𝐋 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 with simoncan" on Thu, 1 Oct 2026.
+Pracht is a music venue in Frankfurt with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Pracht PRES. with Marius Lehnert, BIANCA BLANCO + SPECIAL GUEST" on Fri, 2 Oct 2026.
 
-Pracht is a music venue in Frankfurt listed on soundcheck. 12 upcoming gigs, with line-ups including Andrale, Andrea Castells, Benja Asima and BIANCA BLANCO and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
+Pracht is a music venue in Frankfurt listed on soundcheck. 11 upcoming gigs, with line-ups including Andrale, Andrea Castells, Benja Asima and BIANCA BLANCO and 2 more. See dates, start times and who's playing. Niddastr. 54, 60327 Frankfurt am Main, Germany.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | feierabend. 𝐕𝐈𝐍𝐘𝐋 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 with simoncan | simoncan_ |
 | Fri, 2 Oct 2026 | Pracht PRES. with Marius Lehnert, BIANCA BLANCO + SPECIAL GUEST | BIANCA BLANCO, Marius Lehnert |
 | Sat, 3 Oct 2026 | PrachtNACHT with Gespona, VEKI, kornël | Gespona |
 | Thu, 8 Oct 2026 | THURSDAY - SINGLES LOVE TECHNO at Pracht with DJ LUNIS |  |
@@ -18,6 +17,7 @@ Pracht is a music venue in Frankfurt listed on soundcheck. 12 upcoming gigs, wit
 | Sat, 17 Oct 2026 | PrachtNACHT with Einmusik, Claudius, stefan mueller // ᴛɪᴄᴋᴇᴛꜱ ᴏɴ ꜱᴀʟᴇ ɴᴏᴡ | Claudius (DE), Einmusik, stefan mueller |
 | Fri, 23 Oct 2026 | Pracht PRES. with Gunnar Stiller, Tobias Sommer, LIZZN | Gunnar Stiller, LIZZN, Tobias Sommer |
 | Sat, 24 Oct 2026 | PrachtNACHT with Sezer Uysal, Andrale, Sami Hugo | Andrale, Sami Hugo, Sezer Uysal |
+| Fri, 30 Oct 2026 | SPEECHLESS x Pracht with Pascale Voltaire | Andrea Castells, Pascale Voltaire |
 
 ## Address
 

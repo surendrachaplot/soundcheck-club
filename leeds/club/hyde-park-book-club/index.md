@@ -1,14 +1,13 @@
 # Hyde Park Book Club
 
-Hyde Park Book Club is a music venue in Leeds with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Anti Camera / Stuart Mckenzie / Freyja Blevins" on Thu, 1 Oct 2026.
+Hyde Park Book Club is a music venue in Leeds with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Lift Your Feet - Lucy Locket + Residents" on Fri, 9 Oct 2026.
 
-Hyde Park Book Club is a music venue in Leeds listed on soundcheck. 3 upcoming gigs, with line-ups including Ga-briel, Harry Rook and Lucy Locket. See dates, start times and who's playing. 27-29 Headingley Ln, Leeds LS6 1BL.
+Hyde Park Book Club is a music venue in Leeds listed on soundcheck. 2 upcoming gigs, with line-ups including Ga-briel, Harry Rook and Lucy Locket. See dates, start times and who's playing. 27-29 Headingley Ln, Leeds LS6 1BL.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Anti Camera / Stuart Mckenzie / Freyja Blevins |  |
 | Fri, 9 Oct 2026 | Lift Your Feet - Lucy Locket + Residents | Ga-briel, Harry Rook, Lucy Locket |
 | Tue, 17 Nov 2026 | Elephant Stone |  |
 

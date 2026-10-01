@@ -1,14 +1,13 @@
 # DEBONAIR
 
-DEBONAIR is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Venues Across Glasgow, Glasgow on Thu, 24 Sept 2026.
+DEBONAIR is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at EXIT Glasgow, Glasgow on Fri, 2 Oct 2026.
 
-DEBONAIR is a techno and house artist based in United Kingdom, with 56 gigs on soundcheck across Barcelona, Bristol, Chicago and Detroit and 14 more. Often billed alongside Jubilee, Objekt and Coe. Next up: Venues Across Glasgow, Glasgow on Thu 24 Sept.
+DEBONAIR is a techno and house artist based in United Kingdom, with 56 gigs on soundcheck across Barcelona, Bristol, Chicago and Detroit and 14 more. Often billed alongside Jubilee, Objekt and Coe. Next up: EXIT Glasgow, Glasgow on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 24 Sept 2026 | Venues Across Glasgow | Glasgow |
 | Fri, 2 Oct 2026 | EXIT Glasgow | Glasgow |
 | Sat, 24 Oct 2026 | Green Room NYC | New York City |
 

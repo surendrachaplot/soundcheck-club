@@ -9,7 +9,7 @@ Omeara is a music venue in London listed on soundcheck. 4 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Faith's Three Room Special | DJ Nature, LEV (UK), Logan Fisher, Radio Slave, Stuart Patterson, Terry Farley, Venus Flytraxx |
-| Sat, 17 Oct 2026 | Necropolis Festival: VAMPIRE BALL II | Arrosa, DungeonMaster, Lais Pattak, Leviminks |
+| Sat, 17 Oct 2026 | Necropolis Festival: VAMPIRE BALL II | Arrosa, DungeonMaster, Lais Pattak, Leviminks, Odilon's Grip, VELVET_VELOUR |
 | Sat, 31 Oct 2026 | R'n'B LDN HALLOWEEN: The Old Skool R'n'B Day Party x Rae's - (Omeara) |  |
 | Sat, 14 Nov 2026 | A2J presents CIRCULATE w/ Caleesi & KREIS  | Caleesi, Sarah Kreis |
 

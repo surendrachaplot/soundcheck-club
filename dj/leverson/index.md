@@ -1,15 +1,13 @@
 # leverson
 
-leverson is a Hip-Hop and R&B artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Peckham Arches, London on Thu, 1 Oct 2026.
+leverson is a Hip-Hop and R&B artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at New Forms, London on Fri, 2 Oct 2026.
 
-leverson is a hip-hop and r&b artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: Peckham Arches, London on Thu 1 Oct.
+leverson is a hip-hop and r&b artist based in United Kingdom, with 183 gigs on soundcheck across Amsterdam, Birmingham, London and Tokyo. Often billed alongside Signorina, Omari King and Omari. Next up: New Forms, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Peckham Arches | London |
-| Thu, 1 Oct 2026 | Junsei | London |
 | Fri, 2 Oct 2026 | New Forms | London |
 | Sat, 3 Oct 2026 | Junsei | London |
 | Fri, 9 Oct 2026 | Nine Lives | London |

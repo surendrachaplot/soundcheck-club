@@ -1,14 +1,13 @@
 # Yamamori Tengu
 
-Yamamori Tengu is a music venue in Dublin with 25 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "MAZE X - TENGU TAKEOVER" on Thu, 1 Oct 2026.
+Yamamori Tengu is a music venue in Dublin with 24 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "chroma4ever003: Subtle, 2manycolours, Lainxoxo, Murky, Omniscient" on Thu, 1 Oct 2026.
 
-Yamamori Tengu is a music venue in Dublin listed on soundcheck. 25 upcoming gigs, with line-ups including 2manycolours, A For Alpha, Alba and Batu and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
+Yamamori Tengu is a music venue in Dublin listed on soundcheck. 24 upcoming gigs, with line-ups including 2manycolours, A For Alpha, Alba and Batu and 2 more. See dates, start times and who's playing. 37 Strand Street Great, North City, Dublin 1, Ireland.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | MAZE X - TENGU TAKEOVER |  |
 | Thu, 1 Oct 2026 | chroma4ever003: Subtle, 2manycolours, Lainxoxo, Murky, Omniscient | 2manycolours |
 | Fri, 2 Oct 2026 | Tengu presents: Cormac's Residency with Tender | Bull Horris, Cormac, Mercorn |
 | Sat, 3 Oct 2026 | Tengu presents: Sonic Explorations LIVE with Kessler, Lerosa & Commissions | Commissions, Kessler, Lerosa |
@@ -18,6 +17,7 @@ Yamamori Tengu is a music venue in Dublin listed on soundcheck. 25 upcoming gigs
 | Thu, 15 Oct 2026 | Starlight Project ⋆˚✿˖° | Emma Kearns, Surferboy, Talinho |
 | Fri, 16 Oct 2026 | salute | ShaunaDee, salute |
 | Sat, 17 Oct 2026 | Tengu presents: Haseeb Iqbal, T-Woc & Hewan | Haseeb Iqbal |
+| Tue, 20 Oct 2026 | Tengu Jazz: Rita Lynn Quartet & Alba - First Show | Alba (2) |
 
 ## Address
 
