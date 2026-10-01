@@ -15,7 +15,7 @@ Macarena Club is a music venue in Barcelona listed on soundcheck. 31 upcoming gi
 | Mon, 5 Oct 2026 | Memento Xs | Lucretio |
 | Tue, 6 Oct 2026 | Plastic Night presents Emotions Records 2º Anniversary | Big AL, Death on the Balcony, Kanedo, Rory Cochrane |
 | Wed, 7 Oct 2026 | Original Silk | Jones May, Pau Guilera |
-| Thu, 8 Oct 2026 | Autentico | Karla Amaro, Stefano Noferini |
+| Thu, 8 Oct 2026 | Auténtico | Karla Amaro, Stefano Noferini |
 | Fri, 9 Oct 2026 | Alter Ego Ibiza | Hofer66 |
 | Sat, 10 Oct 2026 | Serialism 20º Years | Arval, August Artier, Cesare vs Disorder, Mad Dim, Rhom Omit, Weg (DE) |
 

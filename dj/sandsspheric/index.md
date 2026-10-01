@@ -2,7 +2,7 @@
 
 Sands Spheric is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Planet Wax, London on Sat, 7 Nov 2026.
 
-Sands Spheric is a bass and techno artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside EDFX, Mingulitka and Akira. Next up: Planet Wax, London on Sat 7 Nov.
+Sands Spheric is a bass and techno artist based in United Kingdom, with 13 gigs on soundcheck across London. Often billed alongside Mingulitka, Akira and EDFX. Next up: Planet Wax, London on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ Sands Spheric is a bass and techno artist based in United Kingdom, with 13 gigs 
 
 ## Shares bills with
 
-EDFX (2), Mingulitka, Akira (3)
+Mingulitka, Akira (3), EDFX (2)
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/sandsspheric/)*

@@ -12,7 +12,7 @@ DJ Gonz is a techno and experimental artist based in United Kingdom, with 34 gig
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - The White Hotel, Manchester · Wed, 23 Sept 2026
 - TBA - North London, London · Sat, 18 Jul 2026
 - Strange Brew, Bristol · Sat, 25 Apr 2026

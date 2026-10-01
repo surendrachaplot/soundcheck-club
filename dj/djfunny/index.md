@@ -2,7 +2,7 @@
 
 DJ Funny is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cul Sec, Seoul on Sun, 4 Oct 2026.
 
-DJ Funny is a house and techno artist, with 113 gigs on soundcheck across Seoul. Often billed alongside Kim.Qna, SINAHILL and Sunday Lee. Next up: Cul Sec, Seoul on Sun 4 Oct.
+DJ Funny is a house and techno artist based in South Korea, with 113 gigs on soundcheck across Seoul. Often billed alongside Kim.Qna, SINAHILL and Sunday Lee. Next up: Cul Sec, Seoul on Sun 4 Oct.
 
 ## Upcoming shows
 

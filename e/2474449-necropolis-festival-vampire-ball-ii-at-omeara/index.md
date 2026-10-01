@@ -1,6 +1,6 @@
 # Necropolis Festival: VAMPIRE BALL II at Omeara
 
-Necropolis Festival: VAMPIRE BALL II at Omeara on Sat 17 Oct, London. 3 artists: Arrosa, DungeonMaster and Leviminks. Techno and EBM. See the line-up on soundcheck.
+Necropolis Festival: VAMPIRE BALL II at Omeara on Sat 17 Oct, London. 4 artists: Arrosa, DungeonMaster, Lais Pattak and Leviminks. Techno and EBM. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -12,6 +12,7 @@ Necropolis Festival: VAMPIRE BALL II at Omeara on Sat 17 Oct, London. 3 artists:
 
 - Arrosa
 - DungeonMaster
+- Lais Pattak
 - Leviminks
 
 *Source: [soundcheck](https://soundcheck.club/e/2474449-necropolis-festival-vampire-ball-ii-at-omeara/)*

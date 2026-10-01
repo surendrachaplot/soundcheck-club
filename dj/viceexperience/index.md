@@ -1,14 +1,13 @@
 # Vice Experience
 
-Vice Experience is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Commune, Lyon on Thu, 1 Oct 2026.
+Vice Experience is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Radio Campus Paris, Paris on Thu, 1 Oct 2026.
 
-Vice Experience is a techno and house artist based in France, with 143 gigs on soundcheck across Brussels, Buenos Aires, Lisbon and Lyon and 3 more. Often billed alongside euler, French Phil and GLAD. Next up: La Commune, Lyon on Thu 1 Oct.
+Vice Experience is a techno and house artist based in France, with 143 gigs on soundcheck across Brussels, Buenos Aires, Lisbon and Lyon and 3 more. Often billed alongside euler, French Phil and GLAD. Next up: Radio Campus Paris, Paris on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | La Commune | Lyon |
 | Thu, 1 Oct 2026 | Radio Campus Paris | Paris |
 | Fri, 9 Oct 2026 | TBA - The People Lyon | Lyon |
 | Wed, 14 Oct 2026 | Panic Room | Paris |

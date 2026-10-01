@@ -1,14 +1,13 @@
 # gugol maps
 
-gugol maps is a Baile Funk and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Wilder als Erwartet, Berlin on Thu, 1 Oct 2026.
+gugol maps is a Baile Funk and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at 90mil, Berlin on Sat, 10 Oct 2026.
 
-gugol maps is a baile funk and bass artist based in Colombia, with 18 gigs on soundcheck across Barcelona and Berlin. Often billed alongside sin serif, Triana and 11v151131_M06. Next up: Wilder als Erwartet, Berlin on Thu 1 Oct.
+gugol maps is a baile funk and bass artist based in Colombia, with 18 gigs on soundcheck across Barcelona and Berlin. Often billed alongside sin serif, Triana and 11v151131_M06. Next up: 90mil, Berlin on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Wilder als Erwartet | Berlin |
 | Sat, 10 Oct 2026 | 90mil | Berlin |
 
 ## Recently played

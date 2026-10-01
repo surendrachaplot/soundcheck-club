@@ -20,7 +20,7 @@ re:ni is a techno and bass artist based in United Kingdom, with 154 gigs on soun
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - Hexagon Brussels, Brussels · Fri, 25 Sept 2026
 - Badaboum, Paris · Sat, 19 Sept 2026
 - Badaboum, Paris · Fri, 18 Sept 2026

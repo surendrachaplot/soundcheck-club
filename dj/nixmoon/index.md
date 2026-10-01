@@ -1,14 +1,15 @@
 # nixmoon
 
-nixmoon is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ://about blank, Berlin on Fri, 16 Oct 2026.
+nixmoon is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ://about blank, Berlin on Fri, 16 Oct 2026.
 
-nixmoon is a techno and tech house artist based in Germany, with 12 gigs on soundcheck across Berlin. Often billed alongside Bee Lincoln, Amperia and BOYCA. Next up: ://about blank, Berlin on Fri 16 Oct.
+nixmoon is a techno and tech house artist based in Germany, with 13 gigs on soundcheck across Berlin. Often billed alongside Bee Lincoln, Amperia and BOYCA. Next up: ://about blank, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | ://about blank | Berlin |
+| Wed, 18 Nov 2026 | Sensorium | Berlin |
 
 ## Recently played
 

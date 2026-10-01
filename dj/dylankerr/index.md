@@ -1,14 +1,13 @@
 # Dylan Kerr
 
-Dylan Kerr is a Experimental and Noise artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hafenklang, Hamburg on Thu, 1 Oct 2026.
+Dylan Kerr is a Experimental and Noise artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 90mil, Berlin on Sun, 11 Oct 2026.
 
-Dylan Kerr is an experimental and noise artist based in Ireland, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Slowfoam, &more and ABADIR. Next up: Hafenklang, Hamburg on Thu 1 Oct.
+Dylan Kerr is an experimental and noise artist based in Ireland, with 9 gigs on soundcheck across Berlin and Hamburg. Often billed alongside Slowfoam, &more and ABADIR. Next up: 90mil, Berlin on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Hafenklang | Hamburg |
 | Sun, 11 Oct 2026 | 90mil | Berlin |
 | Wed, 14 Oct 2026 | Silent Green | Berlin |
 

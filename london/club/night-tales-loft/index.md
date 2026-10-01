@@ -1,8 +1,8 @@
 # Night Tales Loft
 
-Night Tales Loft is a music venue in London with 27 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NT's Loft: n4tee, ELOQ, DAISY" on Fri, 2 Oct 2026.
+Night Tales Loft is a music venue in London with 28 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NT's Loft: n4tee, ELOQ, DAISY" on Fri, 2 Oct 2026.
 
-Night Tales Loft is a music venue in London listed on soundcheck. 27 upcoming gigs, with line-ups including Anunaku, babyschön, blissy e and Bridge (NY) and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
+Night Tales Loft is a music venue in London listed on soundcheck. 28 upcoming gigs, with line-ups including Anunaku, babyschön, blissy e and Bridge (NY) and 2 more. See dates, start times and who's playing. 207, 1 Westgate St, Hackney, London E8 3RL.
 
 ## What's on
 

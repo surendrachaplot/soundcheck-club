@@ -10,7 +10,7 @@ Milchgeld is a techno and trance artist based in Germany, with 19 gigs on soundc
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
-| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
+| Fri, 2 Oct 2026 | MaHalla | Berlin |
 | Fri, 16 Oct 2026 | Ritter Butzke | Berlin |
 
 ## Recently played

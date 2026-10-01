@@ -12,7 +12,7 @@ Shackleton is an experimental and techno artist based in United Kingdom, with 67
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - Gut Level, Sheffield · Fri, 25 Sept 2026
 - Paal69, Amsterdam · Sat, 5 Sept 2026
 - Tresor / Globus, Berlin · Wed, 12 Aug 2026

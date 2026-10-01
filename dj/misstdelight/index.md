@@ -13,7 +13,7 @@ Miss T Delight is a techno and electro artist based in Turkey, with 24 gigs on s
 
 ## Recently played
 
-- TBA, Berlin · Sun, 20 Sept 2026
+- TBA - Flakturm Humboldthain, Berlin · Sun, 20 Sept 2026
 - Else, Berlin · Sat, 22 Aug 2026
 - OXI, Berlin · Fri, 31 Jul 2026
 - Badehaus Berlin, Berlin · Sat, 25 Jul 2026

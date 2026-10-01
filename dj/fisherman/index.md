@@ -1,14 +1,15 @@
 # Fisherman
 
-Fisherman is a Pop and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sound Department, South on Sat, 10 Oct 2026.
+Fisherman is a Pop and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Sound Department, South on Sat, 10 Oct 2026.
 
-Fisherman is a pop and electronica artist, with 9 gigs on soundcheck across Berlin, Hamburg, Rome and Seoul and 1 more. Often billed alongside Oriana, Zerø and .VRIL. Next up: Sound Department, South on Sat 10 Oct.
+Fisherman is a pop and electronica artist, with 10 gigs on soundcheck across Berlin, Hamburg, Rome and Seoul and 1 more. Often billed alongside Oriana, Zerø and .VRIL. Next up: Sound Department, South on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Sound Department | South |
+| Sat, 24 Oct 2026 | Sound Department | South |
 
 ## Recently played
 

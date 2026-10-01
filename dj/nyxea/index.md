@@ -10,7 +10,7 @@ NYXEA is a techno and trance artist based in Germany, with 17 gigs on soundcheck
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
-| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
+| Fri, 2 Oct 2026 | MaHalla | Berlin |
 | Fri, 9 Oct 2026 | M-BIA | Berlin |
 | Fri, 23 Oct 2026 | M-BIA | Berlin |
 | Fri, 30 Oct 2026 | M-BIA | Berlin |

@@ -1,6 +1,6 @@
-# ★⟡ ݁ connection  ݁ ⟡★ at Crack Bellmer
+# ⟡ ݁ connection  ݁ ⟡ at Crack Bellmer
 
-★⟡ ݁ connection  ݁ ⟡★ at Crack Bellmer on Fri 2 Oct, Berlin. 6 artists: AZADÎ, Blck-Swan, H7 and Johannes Astrup and 2 more. Techno. See the line-up on soundcheck.
+⟡ ݁ connection  ݁ ⟡ at Crack Bellmer on Fri 2 Oct, Berlin. 7 artists: AZADÎ, Blck-Swan, H7 and Johannes Astrup and 3 more. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -14,6 +14,7 @@
 - Blck-Swan
 - H7 (3)
 - Johannes Astrup
+- Maeksll
 - pink-panther
 - UniKhatu
 

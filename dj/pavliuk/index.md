@@ -2,7 +2,7 @@
 
 Pavliuk is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hall, Tallinn on Fri, 6 Nov 2026.
 
-Pavliuk is a techno and house artist, with 32 gigs on soundcheck across Berlin, Helsinki, Krakow and Tallinn and 3 more. Often billed alongside Tanel Mütt, Arto and Micaela Saraceno. Next up: Hall, Tallinn on Fri 6 Nov.
+Pavliuk is a techno and house artist based in Estonia, with 32 gigs on soundcheck across Berlin, Helsinki, Krakow and Tallinn and 3 more. Often billed alongside Tanel Mütt, Arto and Micaela Saraceno. Next up: Hall, Tallinn on Fri 6 Nov.
 
 ## Upcoming shows
 

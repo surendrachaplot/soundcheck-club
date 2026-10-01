@@ -1,14 +1,14 @@
 # NewTone
 
-NewTone is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Thu, 1 Oct 2026.
+NewTone is a House and Techno artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at M7 Club, Barcelona on Thu, 1 Oct 2026.
 
-NewTone is a house and techno artist based in Netherlands, with 105 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 12 more. Often billed alongside Boris Coelman, TINS and DART. Next up: La Terrrazza, Barcelona on Thu 1 Oct.
+NewTone is a house and techno artist based in Netherlands, with 105 gigs on soundcheck across Amsterdam, Antwerp, Bali and Barcelona and 12 more. Often billed alongside Boris Coelman, TINS and DART. Next up: M7 Club, Barcelona on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | La Terrrazza | Barcelona |
+| Thu, 1 Oct 2026 | M7 Club | Barcelona |
 | Fri, 2 Oct 2026 | Nobel | Netherlands |
 | Sat, 10 Oct 2026 | The Mash House | Edinburgh |
 | Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |

@@ -2,7 +2,7 @@
 
 BEPPE BRANDO is a Electronica and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Sorgiva Village, Milan on Sun, 11 Oct 2026.
 
-BEPPE BRANDO is an electronica and house artist, with 8 gigs on soundcheck across Milan. Often billed alongside Test_One, David Castellani and Kalitragus. Next up: Sorgiva Village, Milan on Sun 11 Oct.
+BEPPE BRANDO is an electronica and house artist based in Italy, with 8 gigs on soundcheck across Milan. Often billed alongside Test_One, David Castellani and Kalitragus. Next up: Sorgiva Village, Milan on Sun 11 Oct.
 
 ## Upcoming shows
 

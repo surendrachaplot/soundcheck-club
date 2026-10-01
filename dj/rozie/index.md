@@ -1,15 +1,17 @@
 # Rozie
 
-Rozie is a House and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Thuishaven, Amsterdam on Sun, 20 Dec 2026.
+Rozie is a House and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complex Maastricht, Netherlands on Fri, 30 Oct 2026.
 
-Rozie is a house and trance artist, with 78 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Netherlands and 4 more. Often billed alongside Moody Mehran, Benwal and Freddi. Next up: Thuishaven, Amsterdam on Sun 20 Dec.
+Rozie is a house and trance artist based in Netherlands, with 80 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Netherlands and 4 more. Often billed alongside Moody Mehran, Benwal and Freddi. Next up: Complex Maastricht, Netherlands on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | Complex Maastricht | Netherlands |
 | Sun, 20 Dec 2026 | Thuishaven | Amsterdam |
 | Thu, 31 Dec 2026 | Graanfabriek | Netherlands |
+| Thu, 31 Dec 2026 | THE OTHER SIDE | Amsterdam |
 
 ## Recently played
 

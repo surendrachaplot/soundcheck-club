@@ -14,7 +14,7 @@ Iration Steppas is a dub and drum & bass artist based in United Kingdom, with 86
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - The Hifi Club, Leeds · Thu, 24 Sept 2026
 - TBA, Los Angeles · Sat, 15 Aug 2026
 - The Hifi Club, Leeds · Sat, 1 Aug 2026

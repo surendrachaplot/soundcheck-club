@@ -1,8 +1,8 @@
 # Paige Tomlinson
 
-Paige Tomlinson is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
+Paige Tomlinson is a House and Techno artist with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Digital, Newcastle on Fri, 2 Oct 2026.
 
-Paige Tomlinson is a house and techno artist based in United Kingdom, with 167 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: Digital, Newcastle on Fri 2 Oct.
+Paige Tomlinson is a house and techno artist based in United Kingdom, with 168 gigs on soundcheck across Aberdeen, Amsterdam, Antwerp and Austin and 39 more. Often billed alongside Prunk, Kyle Starkey and L.P. Rhythm. Next up: Digital, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 

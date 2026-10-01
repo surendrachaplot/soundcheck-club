@@ -1,6 +1,6 @@
 # Uabos
 
-Uabos is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at CGM - Club Giovanile Milano, Milan on Thu, 1 Oct 2026.
+Uabos is a House and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at CGM - Club Giovanile Milano, Milan on Thu, 1 Oct 2026.
 
 Uabos is a house and electronica artist based in Italy, with 49 gigs on soundcheck across London, Milan, Rome and Seoul and 2 more. Often billed alongside Giamma Soren, Vannelli Bros and San Pedro. Next up: CGM - Club Giovanile Milano, Milan on Thu 1 Oct.
 
@@ -8,7 +8,6 @@ Uabos is a house and electronica artist based in Italy, with 49 gigs on soundche
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | CGM - Club Giovanile Milano | Milan |
 | Thu, 1 Oct 2026 | CGM - Club Giovanile Milano | Milan |
 | Sat, 10 Oct 2026 | Masada | Milan |
 

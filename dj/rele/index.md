@@ -13,7 +13,7 @@ Rele is a house and minimal artist based in Italy, with 62 gigs on soundcheck ac
 ## Recently played
 
 - Dosrombos, Barcelona · Sat, 5 Sept 2026
-- TBA - Backstage Bar, Barcelona · Thu, 3 Sept 2026
+- TBA - Backstage - Carrer Casp, 33B, Barcelona · Thu, 3 Sept 2026
 - Macarena Club, Barcelona · Mon, 3 Aug 2026
 - TBA - Secret Audiophile c/ Badajoz 115, Barcelona · Sat, 1 Aug 2026
 - Studio Stereo, Barcelona · Sat, 18 Jul 2026

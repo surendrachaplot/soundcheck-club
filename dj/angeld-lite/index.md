@@ -20,7 +20,7 @@ Angel D'lite is a house and techno artist based in United Kingdom, with 243 gigs
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - Stereo, Glasgow · Fri, 25 Sept 2026
 - Renate, Berlin · Fri, 11 Sept 2026
 - The White Hotel, Manchester · Sat, 29 Aug 2026

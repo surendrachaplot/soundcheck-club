@@ -12,7 +12,7 @@ Joe Cotch is a guaracha and experimental artist based in United Kingdom, with 18
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - Hackney Wick Multiple Venues, London · Sat, 27 Jun 2026
 - Garage Noord, Amsterdam · Sat, 13 Jun 2026
 - M.O.T, London · Wed, 31 Dec 2025

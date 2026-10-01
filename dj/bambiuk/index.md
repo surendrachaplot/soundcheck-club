@@ -2,7 +2,7 @@
 
 BAMBI (UK) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Distillery N17, London on Fri, 9 Oct 2026.
 
-BAMBI (UK) is a techno and house artist based in United Kingdom, with 2 gigs on soundcheck across Berlin and London. Often billed alongside MONEYAMA, Miss Parker and Sazzle. Next up: Distillery N17, London on Fri 9 Oct.
+BAMBI (UK) is a techno and house artist based in United Kingdom, with 2 gigs on soundcheck across Berlin and London. Often billed alongside MONEYAMA, Sazzle and Sherryaeri. Next up: Distillery N17, London on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,6 @@ BAMBI (UK) is a techno and house artist based in United Kingdom, with 2 gigs on 
 
 ## Shares bills with
 
-MONEYAMA, Miss Parker, Sazzle
+MONEYAMA, Sazzle, Sherryaeri
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bambiuk/)*

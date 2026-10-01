@@ -21,7 +21,7 @@ DJ Plead is a techno and bass artist based in Australia, with 135 gigs on soundc
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - OHM, Berlin · Fri, 18 Sept 2026
 - EXIT Glasgow, Glasgow · Sat, 12 Sept 2026
 - Karmen Camina, Strasbourg · Fri, 11 Sept 2026

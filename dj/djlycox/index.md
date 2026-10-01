@@ -12,7 +12,7 @@ DJ Lycox is a club and bass artist based in Portugal, with 50 gigs on soundcheck
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - Bastet, Philadelphia · Sat, 8 Aug 2026
 - Nowadays, New York City · Fri, 7 Aug 2026
 - TBA - Mira Rio, Caparica, Lisbon · Sun, 19 Jul 2026

@@ -1,8 +1,8 @@
-# DJ rahaan
+# Rahaan
 
-DJ rahaan is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
+Rahaan is a Disco and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Collingwood Children's Farm, Melbourne on Thu, 31 Dec 2026.
 
-DJ rahaan is a disco and house artist, with 60 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brisbane and 30 more. Often billed alongside Darryn Jones, Glenn Underground and JKriv. Next up: Collingwood Children's Farm, Melbourne on Thu 31 Dec.
+Rahaan is a disco and house artist, with 60 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Brisbane and 30 more. Often billed alongside Darryn Jones, Glenn Underground and JKriv. Next up: Collingwood Children's Farm, Melbourne on Thu 31 Dec.
 
 ## Upcoming shows
 

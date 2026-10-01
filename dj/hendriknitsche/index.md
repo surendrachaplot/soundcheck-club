@@ -1,14 +1,14 @@
 # Hendrik Nitsche
 
-Hendrik Nitsche is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Motzener Straße 5, 12277 Berlin, Berlin on Fri, 2 Oct 2026.
+Hendrik Nitsche is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MaHalla, Berlin on Fri, 2 Oct 2026.
 
-Hendrik Nitsche is a techno and hardcore artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Dshanna, Gray Contrast and Dr. Spree. Next up: TBA - Motzener Straße 5, 12277 Berlin, Berlin on Fri 2 Oct.
+Hendrik Nitsche is a techno and hardcore artist based in Germany, with 7 gigs on soundcheck across Berlin. Often billed alongside Dshanna, Gray Contrast and Dr. Spree. Next up: MaHalla, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
+| Fri, 2 Oct 2026 | MaHalla | Berlin |
 | Sat, 17 Oct 2026 | TBA | Berlin |
 
 ## Recently played

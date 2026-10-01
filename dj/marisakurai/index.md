@@ -1,8 +1,8 @@
 # Mari Sakurai
 
-Mari Sakurai is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at HVEN, Tokyo on Sat, 3 Oct 2026.
+Mari Sakurai is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at HVEN, Tokyo on Sat, 3 Oct 2026.
 
-Mari Sakurai is a techno and house artist based in Japan, with 154 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 14 more. Often billed alongside Shinsuke Goto, YANNY and 7e. Next up: HVEN, Tokyo on Sat 3 Oct.
+Mari Sakurai is a techno and house artist based in Japan, with 155 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brussels and 15 more. Often billed alongside Shinsuke Goto, YANNY and 7e. Next up: HVEN, Tokyo on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mari Sakurai is a techno and house artist based in Japan, with 154 gigs on sound
 | Sat, 3 Oct 2026 | HVEN | Tokyo |
 | Fri, 9 Oct 2026 | The Opera | Seoul |
 | Sun, 11 Oct 2026 | VENT | Tokyo |
+| Sat, 31 Oct 2026 | Rj's Social | Okinawa |
 
 ## Recently played
 

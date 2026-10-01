@@ -26,7 +26,7 @@ Mariano Mellino is a progressive house and techno artist based in Argentina, wit
 - TBA, Mexico City · Sat, 26 Sept 2026
 - Pasaje America, Mexico City · Sat, 26 Sept 2026
 - Bridge Gardens, Glasgow · Sat, 26 Sept 2026
-- TBA - Secret Location (Madrid), Madrid · Fri, 4 Sept 2026
+- TBA, Madrid · Fri, 4 Sept 2026
 - Mute Malaga, Malaga · Fri, 7 Aug 2026
 - Club M2 Miami, Miami · Wed, 1 Jul 2026
 - Club M2 Miami, Miami · Wed, 1 Jul 2026

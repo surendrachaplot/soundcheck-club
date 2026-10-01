@@ -1,14 +1,15 @@
 # Fancy Shews
 
-Fancy Shews is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Plex, Athens on Sat, 3 Oct 2026.
+Fancy Shews is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Plex, Athens on Sat, 3 Oct 2026.
 
-Fancy Shews is a house and techno artist based in United Kingdom, with 20 gigs on soundcheck across Athens, Berlin, Brighton and Cardiff and 3 more. Often billed alongside FAFF, Angel D'lite and David Elimelech. Next up: Plex, Athens on Sat 3 Oct.
+Fancy Shews is a house and techno artist based in United Kingdom, with 21 gigs on soundcheck across Amsterdam, Athens, Berlin and Brighton and 4 more. Often billed alongside FAFF, Angel D'lite and David Elimelech. Next up: Plex, Athens on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Plex | Athens |
+| Sat, 17 Oct 2026 | TILLATEC | Amsterdam |
 
 ## Recently played
 

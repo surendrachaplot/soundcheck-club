@@ -9,7 +9,7 @@ Sonse is a techno and tech house artist based in Germany, with 20 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
-| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
+| Fri, 2 Oct 2026 | MaHalla | Berlin |
 | Sat, 3 Oct 2026 | M-BIA | Berlin |
 | Sat, 3 Oct 2026 | TBA - PUMAKÄFIGBERLIN | Berlin |
 | Fri, 9 Oct 2026 | Void Club | Berlin |

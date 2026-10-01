@@ -12,7 +12,7 @@ DIME is a techno and club artist based in United States of America, with 26 gigs
 
 ## Recently played
 
-- TBA, London · Thu, 24 Sept 2026
+- Secret Location, London · Thu, 24 Sept 2026
 - Bossa Nova Civic Club, New York City · Sat, 4 Apr 2026
 - Three Clubs, Los Angeles · Sat, 24 Jan 2026
 - Onyx (E1), London · Fri, 10 Oct 2025

@@ -2,7 +2,7 @@
 
 Eric Furtado is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Carmo Rooftop, Lisbon on Sun, 1 Nov 2026.
 
-Eric Furtado is a house and techno artist, with 17 gigs on soundcheck across Lisbon. Often billed alongside Markov (cult), Kristina and Natural Goofy. Next up: Carmo Rooftop, Lisbon on Sun 1 Nov.
+Eric Furtado is a house and techno artist based in Brazil, with 17 gigs on soundcheck across Lisbon. Often billed alongside Markov (cult), Kristina and Natural Goofy. Next up: Carmo Rooftop, Lisbon on Sun 1 Nov.
 
 ## Upcoming shows
 

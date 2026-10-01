@@ -1,8 +1,8 @@
 # OST
 
-OST is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 1 Oct 2026.
+OST is a music venue in Berlin with 27 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "[FREE ENTRY TILL 00:30] SAVORY" on Thu, 1 Oct 2026.
 
-OST is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ĀFRAME and Alas and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
+OST is a music venue in Berlin listed on soundcheck. 27 upcoming gigs, with line-ups including 2THEMAX, ADAM MUNNINGS, ĀFRAME and Alas and 2 more. See dates, start times and who's playing. Alt-Stralau, 1-2 Friedrichshain 10245.
 
 ## What's on
 

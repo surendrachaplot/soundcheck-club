@@ -1,8 +1,8 @@
 # RuBi.
 
-RuBi. is a Techno and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+RuBi. is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-RuBi. is a techno and hardcore artist based in Germany, with 17 gigs on soundcheck across Berlin, Leipzig and Madrid. Often billed alongside FKNSIL, FEZZO and Milchgeld. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+RuBi. is a techno and hardcore artist based in Germany, with 16 gigs on soundcheck across Berlin, Leipzig and Madrid. Often billed alongside FKNSIL, Schalltrichter and ALAN JOE. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,7 +10,6 @@ RuBi. is a techno and hardcore artist based in Germany, with 17 gigs on soundche
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
-| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
 
 ## Recently played
 
@@ -25,6 +24,6 @@ RuBi. is a techno and hardcore artist based in Germany, with 17 gigs on soundche
 
 ## Shares bills with
 
-FKNSIL, FEZZO, Milchgeld
+FKNSIL, Schalltrichter, ALAN JOE
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rubi./)*

@@ -9,7 +9,7 @@ Crack Bellmer is a music venue in Berlin listed on soundcheck. 21 upcoming gigs,
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | KOERPER x Crack Bellmer | ALKARLINE, Joe Back, RIET |
-| Fri, 2 Oct 2026 | ★⟡ ݁ connection  ݁ ⟡★ | AZADÎ, Blck-Swan, H7 (3), Johannes Astrup, UniKhatu, pink-panther |
+| Fri, 2 Oct 2026 | ⟡ ݁ connection  ݁ ⟡ | AZADÎ, Blck-Swan, H7 (3), Johannes Astrup, Maeksll, UniKhatu, pink-panther |
 | Fri, 2 Oct 2026 | HolyShift VI |  |
 | Sat, 3 Oct 2026 | STAY CORE | Ahni, Fukinsei, Marie Midori, Supergross |
 | Sun, 4 Oct 2026 | The Sinners Saloon |  |

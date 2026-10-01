@@ -1,14 +1,13 @@
 # DJ Seinfeld
 
-DJ Seinfeld is a House and Techno artist with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Outernet Live, London on Thu, 1 Oct 2026.
+DJ Seinfeld is a House and Techno artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kesselhaus, Berlin on Fri, 2 Oct 2026.
 
-DJ Seinfeld is a house and techno artist based in Sweden, with 196 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Bali and 51 more. Often billed alongside DJ BORING, Dom Dolla and Sossa. Next up: Outernet Live, London on Thu 1 Oct.
+DJ Seinfeld is a house and techno artist based in Sweden, with 196 gigs on soundcheck across Aberdeen, Amsterdam, Austin and Bali and 51 more. Often billed alongside DJ BORING, Dom Dolla and Sossa. Next up: Kesselhaus, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Outernet Live | London |
 | Fri, 2 Oct 2026 | Kesselhaus | Berlin |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Fri, 16 Oct 2026 | Cow Palace | San Francisco/Oakland |
@@ -20,6 +19,7 @@ DJ Seinfeld is a house and techno artist based in Sweden, with 196 gigs on sound
 | Fri, 27 Nov 2026 | Stinsen | Stockholm |
 | Sat, 28 Nov 2026 | The Warehouse | Leeds |
 | Fri, 11 Dec 2026 | Meredith Supernatural Ampitheatre | Melbourne |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 

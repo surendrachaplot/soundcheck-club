@@ -1,8 +1,8 @@
 # Phonox
 
-Phonox is a music venue in London with 38 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Insomnia London: Megan Wroe, JuicyJards & Badturk" on Thu, 1 Oct 2026.
+Phonox is a music venue in London with 39 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Insomnia London: Megan Wroe, JuicyJards & Badturk" on Thu, 1 Oct 2026.
 
-Phonox is a music venue in London listed on soundcheck. 38 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
+Phonox is a music venue in London listed on soundcheck. 39 upcoming gigs, with line-ups including A LOVE FROM OUTER SPACE, Amy Os, Angel D'lite and Anish Kumar and 2 more. See dates, start times and who's playing. 418 Brixton Road Brixton London SW9 7AY.
 
 ## What's on
 

@@ -20,7 +20,7 @@ Grace Sands is a house and deep house artist based in United Kingdom, with 148 g
 ## Recently played
 
 - The Timber Loft, London · Sun, 27 Sept 2026
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - Crate Brewery, London · Sat, 26 Sept 2026
 - The Croft, Bristol · Thu, 17 Sept 2026
 - Hoxton Cabin, London · Fri, 11 Sept 2026

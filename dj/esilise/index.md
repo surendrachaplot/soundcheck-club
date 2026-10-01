@@ -13,7 +13,7 @@ Esilise is a techno and industrial artist based in France, with 47 gigs on sound
 
 ## Recently played
 
-- TBA - Paris, Paris · Sat, 19 Sept 2026
+- TBA, Paris · Sat, 19 Sept 2026
 - Kilomètre25, Paris · Wed, 13 May 2026
 - Kilomètre25, Paris · Wed, 13 May 2026
 - Mia Mao, Paris · Sat, 25 Apr 2026

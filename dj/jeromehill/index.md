@@ -17,7 +17,7 @@ Jerome Hill is a techno and acid artist based in United Kingdom, with 125 gigs o
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - M.O.T, London · Sat, 12 Sept 2026
 - Spkrbox, Detroit · Fri, 4 Sept 2026
 - Colour Factory, London · Sun, 16 Aug 2026

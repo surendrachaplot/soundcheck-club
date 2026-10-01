@@ -1,14 +1,15 @@
 # Peven Everett
 
-Peven Everett is a House and Funk / Soul artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Berlin on Sun, 25 Oct 2026.
+Peven Everett is a House and Funk / Soul artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Berlin on Sun, 25 Oct 2026.
 
-Peven Everett is a house and funk / soul artist based in United States of America, with 12 gigs on soundcheck across Berlin, Chicago, Lisbon and London and 4 more. Often billed alongside Ameer Brooks, Coflo and Conrad Lee. Next up: TBA, Berlin on Sun 25 Oct.
+Peven Everett is a house and funk / soul artist based in United States of America, with 13 gigs on soundcheck across Berlin, Chicago, Lisbon and London and 4 more. Often billed alongside Ameer Brooks, Coflo and Conrad Lee. Next up: TBA, Berlin on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | TBA | Berlin |
+| Tue, 27 Oct 2026 | Night Tales Loft | London |
 
 ## Recently played
 

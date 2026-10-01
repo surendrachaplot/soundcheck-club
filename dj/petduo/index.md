@@ -1,8 +1,8 @@
 # PETDuo
 
-PETDuo is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+PETDuo is a Techno and Tech House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-PETDuo is a techno and tech house artist based in Germany, with 91 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 18 more. Often billed alongside OGUZ, Viktor Kampf and Nuke. Next up: Complejo Embrujo, South on Sat 3 Oct.
+PETDuo is a techno and tech house artist based in Germany, with 92 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Budapest and 18 more. Often billed alongside Viktor Kampf, OGUZ and Nuke. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ PETDuo is a techno and tech house artist based in Germany, with 91 gigs on sound
 | Sat, 3 Oct 2026 | Complejo Embrujo | South |
 | Wed, 21 Oct 2026 | Sensorium | Berlin |
 | Sat, 14 Nov 2026 | Fabrik | Madrid |
+| Wed, 18 Nov 2026 | Sensorium | Berlin |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ PETDuo is a techno and tech house artist based in Germany, with 91 gigs on sound
 
 ## Shares bills with
 
-OGUZ, Viktor Kampf, Nuke
+Viktor Kampf, OGUZ, Nuke
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/petduo/)*

@@ -15,7 +15,7 @@ TBA - Studio Stereo, close to pl. Catalunya, 08007, Barcelona is a music venue i
 | Fri, 9 Oct 2026 | Studio Stereo x Jazzy pres. Alvaro Medina, Jordi Castell | Alvaro Medina, Ellich, FRAXA, Jordi Castell (1), PAULA GM |
 | Sat, 10 Oct 2026 | Studio Stereo x Akasha pres. Fabio Monesi | Fabio Monesi, Mati Espina |
 | Sun, 11 Oct 2026 | Studio Stereo x Bonanza pres. James Andrew | Adrian Grösser, Brizas, Derovio, James Andrew, Laukia |
-| Thu, 15 Oct 2026 | Studio Stereo TBA |  |
+| Thu, 15 Oct 2026 | Studio Stereo x Sounds Of Barcy pres. Perro Jimbo | Perro Jimbo |
 | Fri, 16 Oct 2026 | Studio Stereo x Amores & Beyond pres. Yass & Mali | Liana, Pacome, Parea (FR), Yass & Mali |
 | Sat, 17 Oct 2026 | Studio Stereo x Smoothie Joints pres. David Triana | David Triana, MostWanted, Santacreu |
 

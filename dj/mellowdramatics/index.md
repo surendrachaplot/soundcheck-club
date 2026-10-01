@@ -13,7 +13,7 @@ Mellowdramatics is a club and dub artist based in United Kingdom, with 32 gigs o
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - Stereo, Glasgow · Sat, 5 Sept 2026
 - EXIT Glasgow, Glasgow · Fri, 4 Sept 2026
 - Algha's Plantroom, London · Sun, 9 Aug 2026

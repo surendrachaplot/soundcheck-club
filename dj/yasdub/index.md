@@ -1,14 +1,14 @@
 # YASDUB
 
-YASDUB is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cu, London on Sat, 3 Oct 2026.
+YASDUB is a House and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Cu, London on Thu, 8 Oct 2026.
 
-YASDUB is a house and bass artist, with 33 gigs on soundcheck across Detroit, Kyoto, London and Osaka and 1 more. Often billed alongside CH.0, Bushmind and OG Militant B. Next up: Cu, London on Sat 3 Oct.
+YASDUB is a house and bass artist, with 33 gigs on soundcheck across Detroit, Kyoto, London and Osaka and 1 more. Often billed alongside CH.0, Bushmind and OG Militant B. Next up: Cu, London on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Cu | London |
+| Thu, 8 Oct 2026 | Cu | London |
 
 ## Recently played
 

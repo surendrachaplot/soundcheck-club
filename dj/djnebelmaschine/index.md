@@ -1,14 +1,13 @@
 # DJ Nebelmaschine
 
-DJ Nebelmaschine is a Techno and Tech House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Motzener Straße 5, 12277 Berlin, Berlin on Fri, 2 Oct 2026.
+DJ Nebelmaschine is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bahnwärter Thiel, Munich on Fri, 23 Oct 2026.
 
-DJ Nebelmaschine is a techno and tech house artist based in Germany, with 16 gigs on soundcheck across Berlin, London, Munich and Nürnberg. Often billed alongside Anna Lazer, Liebe Nachbarn and Bernd Bugatti. Next up: TBA - Motzener Straße 5, 12277 Berlin, Berlin on Fri 2 Oct.
+DJ Nebelmaschine is a techno and tech house artist based in Germany, with 15 gigs on soundcheck across Berlin, London, Munich and Nürnberg. Often billed alongside Anna Lazer, Liebe Nachbarn and Bernd Bugatti. Next up: Bahnwärter Thiel, Munich on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
 | Fri, 23 Oct 2026 | Bahnwärter Thiel | Munich |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # Kara Okay
 
-Kara Okay is a House and Trance artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Glove That Fits, London on Fri, 2 Oct 2026.
+Kara Okay is a House and Trance artist with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Glove That Fits, London on Fri, 2 Oct 2026.
 
-Kara Okay is a house and trance artist based in Netherlands, with 73 gigs on soundcheck across Amsterdam, Antwerp, Bali and Cologne and 14 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: The Glove That Fits, London on Fri 2 Oct.
+Kara Okay is a house and trance artist based in Netherlands, with 74 gigs on soundcheck across Amsterdam, Antwerp, Bali and Cologne and 15 more. Often billed alongside DART, Bella Claxton and Freddi. Next up: The Glove That Fits, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -17,6 +17,7 @@ Kara Okay is a house and trance artist based in Netherlands, with 73 gigs on sou
 | Fri, 20 Nov 2026 | Artheater | Cologne |
 | Fri, 27 Nov 2026 | Shelter Amsterdam | Amsterdam |
 | Fri, 4 Dec 2026 | Mint Warehouse | Leeds |
+| Sat, 19 Dec 2026 | Zeefgebouw | Netherlands |
 
 ## Recently played
 

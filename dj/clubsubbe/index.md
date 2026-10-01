@@ -9,7 +9,7 @@ ClubSubbe is a techno and hardcore artist based in Germany, with 7 gigs on sound
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
-| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
+| Fri, 2 Oct 2026 | MaHalla | Berlin |
 
 ## Recently played
 

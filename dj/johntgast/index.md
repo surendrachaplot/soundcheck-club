@@ -13,7 +13,7 @@ John T. Gast is an experimental and dub artist based in United Kingdom, with 67 
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - Galeria Zé Dos Bois, Lisbon · Sat, 19 Sept 2026
 - TBA - Masseria Ferraioli - Afragola, Naples · Sun, 6 Sept 2026
 - Club Cheek, London · Fri, 28 Aug 2026

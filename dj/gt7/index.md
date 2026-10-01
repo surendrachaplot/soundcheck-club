@@ -2,7 +2,7 @@
 
 GT7 is a Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Stockholm on Fri, 16 Oct 2026.
 
-GT7 is a techno and tech house artist, with 21 gigs on soundcheck across Stockholm. Often billed alongside vajiko, Billie Jo and MERILIN. Next up: TBA, Stockholm on Fri 16 Oct.
+GT7 is a techno and tech house artist based in Georgia, with 21 gigs on soundcheck across Stockholm. Often billed alongside vajiko, Billie Jo and MERILIN. Next up: TBA, Stockholm on Fri 16 Oct.
 
 ## Upcoming shows
 

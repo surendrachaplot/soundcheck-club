@@ -13,7 +13,7 @@ Authentically Plastic is a techno and club artist based in Uganda, with 57 gigs 
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - La Fabriek, Brussels · Fri, 25 Sept 2026
 - Algha's Plantroom, London · Sun, 9 Aug 2026
 - Ormside Projects, London · Sat, 25 Jul 2026

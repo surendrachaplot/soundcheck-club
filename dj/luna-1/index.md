@@ -1,8 +1,8 @@
 # Luna (1)
 
-Luna (1) is a House and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lofi, Amsterdam on Sat, 3 Oct 2026.
+Luna (1) is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lofi, Amsterdam on Sat, 3 Oct 2026.
 
-Luna is a house and techno artist, with 38 gigs on soundcheck across Amsterdam, Austin, Bangkok and Budapest and 14 more. Often billed alongside Pavo, Alexander Koning and Buzz Fuzz. Next up: Lofi, Amsterdam on Sat 3 Oct.
+Luna is a house and techno artist, with 39 gigs on soundcheck across Amsterdam, Austin, Bangkok and Budapest and 15 more. Often billed alongside Pavo, Alexander Koning and Buzz Fuzz. Next up: Lofi, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Luna is a house and techno artist, with 38 gigs on soundcheck across Amsterdam, 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Lofi | Amsterdam |
 | Sat, 17 Oct 2026 | Spin | San Diego |
+| Sat, 24 Oct 2026 | Sound Department | South |
 | Sat, 9 Jan 2027 | Thuishaven | Amsterdam |
 | Sat, 20 Feb 2027 | Het Sieraad | Amsterdam |
 

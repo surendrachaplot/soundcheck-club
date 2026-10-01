@@ -5024,7 +5024,7 @@
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790889637883">
+<meta name="sc-build" content="1790894375011">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5083,7 +5083,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">36 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">106 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">131 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">28 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">106 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">130 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -6365,9 +6365,10 @@
     // ONE list of an artist's sets, every source in it, newest first. The artist
     // Sets tab and the gig page's Line-up sets tab both read this, so a set looks
     // and plays the same wherever it is listed.
-    function artistSetItems(slug, artist){
+    // `pre` = this artist's entry from setsBatch(): the same four answers, already in hand.
+    function artistSetItems(slug, artist, pre){
       function grab(u){ return fetch(API_BASE+u).then(function(r){ return r.ok?r.json():null; }).catch(function(){ return null; }); }
-      return Promise.all([
+      return (pre ? Promise.resolve([pre.yt, pre.sc, pre.nts, pre.mixesdb]) : Promise.all([
             // EVERY source carries the version. All three responses are cached for a
             // day at the edge, and only a different URL clears that — a reload does
             // not, which is why Binh's YouTube sets could be fixed while his
@@ -6379,7 +6380,7 @@
             // MixesDB: sets keyed to the artist by a person, not matched from a
             // title. Its rows are the trustworthy ones — see mixesdb.js.
             grab('/api/mixesdb/sets?slug='+encodeURIComponent(slug)+'&name='+encodeURIComponent(artist)+'&v='+YT_SETS_V)
-          ]).then(function(res){
+          ])).then(function(res){
             var yj=res[0]||{}, sj=res[1]||{}, nj=res[2]||{}, mj=res[3]||{};
             var items=[];
             // FIRST, because a human put this set on this artist. Everything
@@ -6465,7 +6466,8 @@
       if(_latest[key]) return _latest[key];
       var sg=encodeURIComponent(slug), nm=encodeURIComponent(entry.name||slug);
       function j(u){ return fetch(API_BASE+u).then(function(r){ return r.ok?r.json():{}; }).catch(function(){ return {}; }); }
-      var p=Promise.all([
+      var pre=_setsPre[slug];   // a gig page already asked for the whole bill in one call
+      var p=(pre ? Promise.resolve([pre.sc, pre.mixesdb, pre.nts, pre.yt, { popular: entry.popular!==undefined ? entry.popular : pre.popular }]) : Promise.all([
         j('/api/soundcloud/sets?slug='+sg+'&v='+YT_SETS_V),
         j('/api/mixesdb/sets?slug='+sg+'&name='+nm+'&v='+YT_SETS_V),
         j('/api/nts/sets?slug='+sg+'&name='+nm+'&v='+YT_SETS_V),
@@ -6473,7 +6475,7 @@
         // `popular` comes from /api/artist: the sets responses are edge-cached for a
         // day and can carry yesterday's pick. The artist page passes its own copy.
         entry.popular!==undefined ? Promise.resolve({ popular:entry.popular }) : j('/api/artist?slug='+sg)
-      ]).then(function(r){
+      ])).then(function(r){
         var c=[];
         function add(x){ if(x && (x.url || x.videoId)) c.push(x); }
         ((r[0]&&r[0].sets)||[]).forEach(function(x){ if(x) add({ kind:'sc', src:'SoundCloud', url:x.url, title:x.title, art:x.artwork||null, t:Date.parse(x.date||'') }); });
@@ -6521,19 +6523,36 @@
       _latest[key]=p.then(function(v){ _latestVal[key]=v||null; return v; });
       return _latest[key];
     }
-    /** Resolve a list's sets ahead of the tap, a few at a time. onDone(slug, set|null). */
+    // MANY ARTISTS' SETS IN ONE CALL. A gig page used to ask five endpoints per
+    // artist: a 24-artist festival was 120 calls, the API's whole allowance for one
+    // address for a minute, and the next gig a person opened did not load.
+    // /api/sets/batch answers 12 artists a call; the answers wait in _setsPre, where
+    // latestSet() and the Line-up sets tab read them. One call at a time, in order.
+    var _setsPre={}, _setsAsk={}, _setsChain=Promise.resolve();
+    function setsBatch(slugs){
+      var need=slugs.filter(function(s,i){ return s && !_setsPre[s] && !_setsAsk[s] && slugs.indexOf(s)===i; });
+      for(var i=0;i<need.length;i+=12)(function(part){
+        var p=_setsChain=_setsChain.then(function(){
+          return fetch(API_BASE+'/api/sets/batch?slugs='+encodeURIComponent(part.join(','))+'&v='+YT_SETS_V)
+            .then(function(r){ return r.ok?r.json():null; }).catch(function(){ return null; })
+            .then(function(j){ part.forEach(function(s){ delete _setsAsk[s]; if(j && j.sets && j.sets[s]) _setsPre[s]=j.sets[s]; }); });
+        });
+        part.forEach(function(s){ _setsAsk[s]=p; });
+      })(need.slice(i,i+12));
+      return Promise.all(slugs.map(function(s){ return _setsAsk[s]; }));
+    }
+    /** Resolve a list's sets ahead of the tap, 12 artists a call. onDone(slug, set|null). */
     function prewarmSets(list, onDone){
-      var i=0, running=0;
-      (function next(){
-        while(running<3 && i<list.length){
-          var e=list[i++]; running++;
-          (function(entry){
+      for(var i=0;i<list.length;i+=12)(function(part){
+        setsBatch(part.map(function(e){ return e.slug; })).then(function(){
+          part.forEach(function(entry){
+            // The call failed: say nothing. The button stays, and a tap asks for that one artist.
+            if(!_setsPre[entry.slug]) return;
             latestSet(entry).then(function(lt){ if(onDone) onDone(entry.slug, lt||null); })
-              .catch(function(){ if(onDone) onDone(entry.slug, null); })
-              .then(function(){ running--; next(); });
-          })(e);
-        }
-      })();
+              .catch(function(){ if(onDone) onDone(entry.slug, null); });
+          });
+        });
+      })(list.slice(i,i+12));
     }
     // WHEN YOUTUBE FAILS AN ARTIST, PLAY THEM ANYWAY.
     //
@@ -6587,9 +6606,14 @@
     }
     var scQErr=0;   // consecutive playback failures in the current queue
     async function playYtList(list, startIdx, opts){
-      list=(list||[]).filter(function(a){ return a && a.slug; });
+      // WORK ON COPIES. This function writes a videoId onto every entry it resolves,
+      // and a gig line-up passes the SAME entries on every tap. After one YouTube row
+      // had played, every other row carried its /api/youtube/cached id, skipped the
+      // "most popular set" branch below and played that id instead: Kobosil's row
+      // started a 2021 YouTube set, not his SoundCloud pick (found 1 Oct).
+      var all=(list||[]).map(function(a){ return a && Object.assign({}, a); }), s0=startIdx||0;
+      list=all.filter(function(a){ return a && a.slug; });
       if(!list.length){ showToast('Nothing to play yet.'); return; }
-      var all=(arguments[0]||[]), s0=startIdx||0;
       // PLAY THIS ARTIST = PLAY THEIR NEWEST SET.
       //
       // A button next to ONE artist — the app's play-an-act tap, a line-up chip —
@@ -13116,12 +13140,16 @@
           var box=document.getElementById('ev-lsets'); if(!box) return;
           var bill=instant.filter(function(x){ return x.slug; });
           var groups=new Array(bill.length);
-          // Four artists at a time: a festival bill is fifty names and four
-          // sources each, and the first rows should not wait behind the last.
-          var q=bill.map(function(_,i){ return i; });
+          // The bill's sets came in one call per 12 artists (setsBatch) — the row Play
+          // buttons already asked, so this tab costs no call of its own.
           function next(){
-            var batch=q.splice(0,4); if(!batch.length) return Promise.resolve();
-            return Promise.all(batch.map(function(i){ return artistSetItems(bill[i].slug, bill[i].name).then(function(r){ groups[i]=(r.items||[]).slice(0,4); }).catch(function(){ groups[i]=[]; }); })).then(next);
+            return setsBatch(bill.map(function(a){ return a.slug; })).then(function(){
+              return Promise.all(bill.map(function(a,i){
+                var pre=_setsPre[a.slug];
+                if(!pre){ groups[i]=[]; _lsLoaded=false; return null; }   // the call failed: opening the tab again asks again
+                return artistSetItems(a.slug, a.name, pre).then(function(r){ groups[i]=(r.items||[]).slice(0,4); }).catch(function(){ groups[i]=[]; });
+              }));
+            });
           }
           next().then(function(){
             if(!document.body.contains(box)) return;

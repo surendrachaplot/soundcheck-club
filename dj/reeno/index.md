@@ -1,14 +1,14 @@
 # Reeno
 
-Reeno is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri, 2 Oct 2026.
+Reeno is a Minimal Techno and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - CENTRAL LONDON - Announced to ticket holders on the day, London on Fri, 2 Oct 2026.
 
-Reeno is a minimal techno and tech house artist based in United Kingdom, with 76 gigs on soundcheck across London. Often billed alongside Lulu (UK), Pas2problemes and Andrea Giudice. Next up: TBA - EAST LONDON - Announced to ticket holders on the day, London on Fri 2 Oct.
+Reeno is a minimal techno and tech house artist based in United Kingdom, with 76 gigs on soundcheck across London. Often billed alongside Lulu (UK), Pas2problemes and Andrea Giudice. Next up: TBA - CENTRAL LONDON - Announced to ticket holders on the day, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | TBA - EAST LONDON - Announced to ticket holders on the day | London |
+| Fri, 2 Oct 2026 | TBA - CENTRAL LONDON - Announced to ticket holders on the day | London |
 
 ## Recently played
 

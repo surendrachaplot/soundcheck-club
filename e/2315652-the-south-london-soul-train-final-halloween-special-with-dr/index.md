@@ -1,6 +1,6 @@
 # The South London Soul Train Final Halloween Special with Dr Meaker (Live) + More at Peckham Levels
 
-The South London Soul Train Final Halloween Special with Dr Meaker (Live) + More at Peckham Levels on Sat 31 Oct, London. 3 artists: Disco Freaks, Dr Meaker and Jazzheadchronic. Disco and Funk / Soul. See the line-up on soundcheck.
+The South London Soul Train Final Halloween Special with Dr Meaker (Live) + More at Peckham Levels on Sat 31 Oct, London. 2 artists: Dr Meaker and Jazzheadchronic. Disco and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ The South London Soul Train Final Halloween Special with Dr Meaker (Live) + More
 
 ## Line-up
 
-- Disco Freaks
 - Dr Meaker
 - Jazzheadchronic
 

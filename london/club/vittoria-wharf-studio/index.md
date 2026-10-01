@@ -1,8 +1,8 @@
 # Vittoria Wharf Studio
 
-Vittoria Wharf Studio is a music venue in London with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "[CANCELLED] CONTR4ST pres. fka.m4a [6 hour set]" on Fri, 2 Oct 2026.
+Vittoria Wharf Studio is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "[CANCELLED] CONTR4ST pres. fka.m4a [6 hour set]" on Fri, 2 Oct 2026.
 
-Vittoria Wharf Studio is a music venue in London listed on soundcheck. 12 upcoming gigs, with line-ups including Aldonna, Alien Communications, ASHTREY and BAILE and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
+Vittoria Wharf Studio is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Aldonna, Alien Communications, Andrew Robertson and ASHTREY and 2 more. See dates, start times and who's playing. Vittoria Wharf Yard, Hackney Wick, E3 2NT.
 
 ## What's on
 

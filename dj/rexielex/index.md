@@ -2,7 +2,7 @@
 
 Rexie Lex is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Den Anden Side, Copenhagen on Fri, 2 Oct 2026.
 
-Rexie Lex is a house and techno artist based in Denmark, with 6 gigs on soundcheck across Copenhagen. Often billed alongside Tim Andresen, NILU and joa picaro. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
+Rexie Lex is a house and techno artist based in Denmark, with 5 gigs on soundcheck across Copenhagen. Often billed alongside Tim Andresen, joa picaro and Aja Gulris. Next up: Den Anden Side, Copenhagen on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,12 +14,8 @@ Rexie Lex is a house and techno artist based in Denmark, with 6 gigs on soundche
 | Fri, 13 Nov 2026 | Hangaren | Copenhagen |
 | Thu, 31 Dec 2026 | Culture Box | Copenhagen |
 
-## Recently played
-
-- Culture Box, Copenhagen · Sat, 19 Sept 2026
-
 ## Shares bills with
 
-Tim Andresen, NILU, joa picaro
+Tim Andresen, joa picaro, Aja Gulris
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/rexielex/)*

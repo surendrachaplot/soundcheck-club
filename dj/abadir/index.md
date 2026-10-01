@@ -1,14 +1,13 @@
 # ABADIR
 
-ABADIR is a Experimental and Club artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hafenklang, Hamburg on Thu, 1 Oct 2026.
+ABADIR is a Experimental and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Various venues - Warsaw & Krakow, Poland on Fri, 2 Oct 2026.
 
-ABADIR is an experimental and club artist based in Egypt, with 66 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 22 more. Often billed alongside Sara Persico, Assyouti and Zoë Mc Pherson. Next up: Hafenklang, Hamburg on Thu 1 Oct.
+ABADIR is an experimental and club artist based in Egypt, with 66 gigs on soundcheck across Amsterdam, Belgrade, Berlin and Bristol and 22 more. Often billed alongside Sara Persico, Assyouti and Zoë Mc Pherson. Next up: Various venues - Warsaw & Krakow, Poland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Hafenklang | Hamburg |
 | Fri, 2 Oct 2026 | Various venues - Warsaw & Krakow | Poland |
 | Fri, 2 Oct 2026 | TBA -  VARIOUS | Berlin |
 | Sat, 10 Oct 2026 | Hotel Forum | Krakow |

@@ -1,15 +1,14 @@
 # riko (DE)
 
-riko (DE) is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+riko (DE) is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-riko (DE) is a techno and hardcore artist based in Germany, with 19 gigs on soundcheck across Berlin, Cologne, Frankfurt and Ghent and 1 more. Often billed alongside Arman John, .Cheka and BIXBITA. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+riko (DE) is a techno and house artist based in Germany, with 18 gigs on soundcheck across Berlin, Cologne, Frankfurt and Ghent and 1 more. Often billed alongside Arman John, .Cheka and BIXBITA. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
-| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
 
 ## Recently played
 

@@ -18,7 +18,7 @@ k means is a techno and experimental artist based in Sweden, with 105 gigs on so
 
 ## Recently played
 
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - Ormside Projects, London · Sat, 27 Jun 2026
 - The White Hotel, Manchester · Sat, 16 May 2026
 - Strange Brew, Bristol · Sat, 2 May 2026

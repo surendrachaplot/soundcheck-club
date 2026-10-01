@@ -1,14 +1,14 @@
 # CLANDESTINE (2)
 
-CLANDESTINE (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at La Terrrazza, Barcelona on Thu, 1 Oct 2026.
+CLANDESTINE (2) is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at M7 Club, Barcelona on Thu, 1 Oct 2026.
 
-CLANDESTINE is a house and minimal artist based in Spain, with 58 gigs on soundcheck across Barcelona. Often billed alongside INEXXSTABLE, Derovio and ANYA. Next up: La Terrrazza, Barcelona on Thu 1 Oct.
+CLANDESTINE is a house and minimal artist based in Spain, with 58 gigs on soundcheck across Barcelona. Often billed alongside INEXXSTABLE, Derovio and ANYA. Next up: M7 Club, Barcelona on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | La Terrrazza | Barcelona |
+| Thu, 1 Oct 2026 | M7 Club | Barcelona |
 
 ## Recently played
 

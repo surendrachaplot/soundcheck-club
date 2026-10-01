@@ -1,14 +1,13 @@
 # Osmosis Jones
 
-Osmosis Jones is a Garage and House artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at NUMBER 90 LONDON, London on Thu, 1 Oct 2026.
+Osmosis Jones is a Garage and House artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Warehouse, Leeds on Fri, 9 Oct 2026.
 
-Osmosis Jones is a garage and house artist based in Australia, with 96 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bali and 28 more. Often billed alongside IsGwan, Prizefight and Faster Horses. Next up: NUMBER 90 LONDON, London on Thu 1 Oct.
+Osmosis Jones is a garage and house artist based in Australia, with 96 gigs on soundcheck across Amsterdam, Auckland, Australian Capital Territory and Bali and 28 more. Often billed alongside IsGwan, Prizefight and Faster Horses. Next up: The Warehouse, Leeds on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | NUMBER 90 LONDON | London |
 | Fri, 9 Oct 2026 | The Warehouse | Leeds |
 | Sat, 10 Oct 2026 | Depot Mayfield | Manchester |
 | Thu, 15 Oct 2026 | The Bongo Club | Edinburgh |
@@ -20,6 +19,7 @@ Osmosis Jones is a garage and house artist based in Australia, with 96 gigs on s
 | Sat, 21 Nov 2026 | Pasir Panjang Power Station | Singapore |
 | Sun, 22 Nov 2026 | Aquabeat 01 | Hong Kong |
 | Fri, 27 Nov 2026 | Lardner Park | Melbourne |
+| Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played
 

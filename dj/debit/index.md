@@ -18,7 +18,7 @@ Debit is a techno and experimental artist based in United States of America, wit
 ## Recently played
 
 - National Gallery Prague, Prague · Sat, 26 Sept 2026
-- Bermondsey Triangle, London · Sat, 26 Sept 2026
+- Ormside Projects, London · Sat, 26 Sept 2026
 - B London, London · Sat, 12 Sept 2026
 - A Capela, Lisbon · Sat, 12 Sept 2026
 - 516 S Anderson Street, Los Angeles · Sat, 12 Sept 2026

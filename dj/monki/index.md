@@ -2,7 +2,7 @@
 
 Monki is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Chinois Ibiza, Ibiza on Thu, 1 Oct 2026.
 
-Monki is a house and tech house artist based in United Kingdom, with 51 gigs on soundcheck across Amsterdam, Bali, Bristol and Ibiza and 9 more. Often billed alongside Sam Divine, Hannah Wants and Lowsteppa. Next up: Chinois Ibiza, Ibiza on Thu 1 Oct.
+Monki is a house and tech house artist based in United Kingdom, with 50 gigs on soundcheck across Amsterdam, Bali, Bristol and Ibiza and 9 more. Often billed alongside Sam Divine, Hannah Wants and Lowsteppa. Next up: Chinois Ibiza, Ibiza on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -12,7 +12,6 @@ Monki is a house and tech house artist based in United Kingdom, with 51 gigs on 
 
 ## Recently played
 
-- Night Tales Loft, London · Sat, 5 Sept 2026
 - Chinois Ibiza, Ibiza · Thu, 27 Aug 2026
 - Ushuaïa Ibiza, Ibiza · Thu, 20 Aug 2026
 - Bricks, London · Sat, 27 Jun 2026
@@ -20,6 +19,7 @@ Monki is a house and tech house artist based in United Kingdom, with 51 gigs on 
 - Bricks, London · Wed, 17 Jun 2026
 - Ushuaïa Ibiza, Ibiza · Mon, 15 Jun 2026
 - Night Tales, London · Sat, 11 Apr 2026
+- Ministry Of Sound, London · Sat, 1 Nov 2025
 
 ## Shares bills with
 
