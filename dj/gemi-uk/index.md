@@ -2,7 +2,7 @@
 
 Gemi (UK) is a Garage and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at M.O.T, London on Thu, 1 Oct 2026.
 
-Gemi (UK) is a garage and house artist tracked on soundcheck, with 35 sets logged across Bristol, Hobart, Leeds and London and 4 more. Often billed alongside DJ Love UK, DRIIA and Ell Murphy. Next up: M.O.T, London on Thu 1 Oct.
+Gemi (UK) is a garage and house artist based in United Kingdom, tracked on soundcheck, with 35 sets logged across Bristol, Hobart, Leeds and London and 4 more. Often billed alongside DJ Love UK, DRIIA and Ell Murphy. Next up: M.O.T, London on Thu 1 Oct.
 
 ## Upcoming shows
 

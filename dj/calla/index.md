@@ -1,8 +1,8 @@
 # Calla
 
-Calla is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cellar, London on Sun, 11 Oct 2026.
+Calla is a Electro and Tech House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Cellar, London on Sun, 11 Oct 2026.
 
-Calla is a house and techno artist based in United Kingdom, tracked on soundcheck, with 21 sets logged across Dublin, London and Manchester. Often billed alongside Wilba, Muster Men and DMC.. Next up: Cellar, London on Sun 11 Oct.
+Calla is an electro and tech house artist based in United Kingdom, tracked on soundcheck, with 22 sets logged across Dublin, London and Manchester. Often billed alongside Wilba, Muster Men and DMC.. Next up: Cellar, London on Sun 11 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Calla is a house and techno artist based in United Kingdom, tracked on soundchec
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Cellar | London |
 | Fri, 13 Nov 2026 | Last Arch | London |
+| Sat, 28 Nov 2026 | Starlane Pizza Bar | London |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Huey Mnemonic
 
-Huey Mnemonic is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Marble Bar, Detroit on Sat, 3 Oct 2026.
+Huey Mnemonic is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Marble Bar, Detroit on Sat, 3 Oct 2026.
 
-Huey Mnemonic is a techno and house artist based in United States of America, tracked on soundcheck, with 57 sets logged across Amsterdam, Berlin, Chicago and Denver and 8 more. Often billed alongside D. Strange, Underground Resistance and 2Lanes. Next up: Marble Bar, Detroit on Sat 3 Oct.
+Huey Mnemonic is a techno and house artist based in United States of America, tracked on soundcheck, with 58 sets logged across Amsterdam, Berlin, Chicago and Denver and 8 more. Often billed alongside D. Strange, Underground Resistance and 2Lanes. Next up: Marble Bar, Detroit on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Huey Mnemonic is a techno and house artist based in United States of America, tr
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Marble Bar | Detroit |
 | Sat, 10 Oct 2026 | FOLD | London |
+| Fri, 27 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 28 Nov 2026 | Thuishaven | Amsterdam |
 
 ## Recently played

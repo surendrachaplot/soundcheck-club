@@ -10,7 +10,7 @@ Mia Mao is a music venue in Paris listed on soundcheck. 20 upcoming gigs, with l
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Jeudi Protocol: Rawco, Uzi Nas, Dewilde, Ev, Imina, Percy | Percy |
 | Fri, 2 Oct 2026 | Pisica: Alba Franch, franck, Antonym B2b George Radsport &… | Alba Franch, Antonym, FØSS, HANÀ, Westfall, franck |
-| Sat, 3 Oct 2026 | Ohlala presents UKF Paris |  |
+| Sat, 3 Oct 2026 | Ohlala presents UKF Paris | Georgie Riot, Imanu, Nero, Zomboy |
 | Thu, 8 Oct 2026 | TAKE HIT: Ingrid, KD/MS, MON.TO, HAXO | HAXO, Ingrid, Mon.To |
 | Fri, 9 Oct 2026 | Lycanthropie: Marc Acardipane, Dr Macabre, Manu Le Malin | Marc Acardipane, ÆSTR |
 | Sat, 10 Oct 2026 | THUNDER: Flymeon, ENFAN, CYUR, BLNK, Night Owl & MORE | BLNK, ENFAN, Flymeon, Night Owl |

@@ -1,13 +1,14 @@
 # Markus Sommer
 
-Markus Sommer is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Haus der Visionäre, Berlin on Thu, 8 Oct 2026.
+Markus Sommer is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Club der Visionaere, Berlin on Fri, 2 Oct 2026.
 
-Markus Sommer is a house and techno artist based in Germany, tracked on soundcheck, with 72 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Tom Ries, Tzena and Phil Evans. Next up: Haus der Visionäre, Berlin on Thu 8 Oct.
+Markus Sommer is a house and techno artist based in Germany, tracked on soundcheck, with 73 sets logged across Amsterdam, Antwerp, Barcelona and Berlin and 18 more. Often billed alongside Tom Ries, Tzena and Phil Evans. Next up: Club der Visionaere, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Club der Visionaere | Berlin |
 | Thu, 8 Oct 2026 | Haus der Visionäre | Berlin |
 
 ## Recently played

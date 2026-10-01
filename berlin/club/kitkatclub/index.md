@@ -1,8 +1,8 @@
 # KitKatClub
 
-KitKatClub is a music venue in Berlin with 26 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "UNITY AT KITKAT CLUB" on Thu, 1 Oct 2026.
+KitKatClub is a music venue in Berlin with 29 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "UNITY AT KITKAT CLUB" on Thu, 1 Oct 2026.
 
-KitKatClub is a music venue in Berlin listed on soundcheck. 26 upcoming gigs, with line-ups including Javier Anxiety, AAguilAA, Alessia Cattani and Alessio Collina and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
+KitKatClub is a music venue in Berlin listed on soundcheck. 29 upcoming gigs, with line-ups including Javier Anxiety, AAguilAA, Alessia Cattani and Alessio Collina and 2 more. Browse upcoming dates, start times and who's playing. Köpenicker Strasse 76; Mitte; 10179 Berlin; Germany.
 
 ## What's on
 

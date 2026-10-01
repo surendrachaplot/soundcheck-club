@@ -1,14 +1,15 @@
 # ClubSubbe
 
-ClubSubbe is a Techno and Trance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+ClubSubbe is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-ClubSubbe is a techno and trance artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside JUWLZ, Ravejezuz and Thielking. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+ClubSubbe is a techno and hardcore artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside JUWLZ, Ravejezuz and Thielking. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
+| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
 
 ## Recently played
 

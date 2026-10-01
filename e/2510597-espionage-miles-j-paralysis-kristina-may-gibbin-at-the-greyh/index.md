@@ -11,7 +11,7 @@ Espionage: Miles J Paralysis, Kristina May & Gibbin at The Greyhound on Fri 6 No
 ## Line-up
 
 - Gibbin
-- Kristina May (4)
+- Kristina May
 - Miles J Paralysis
 
 *Source: [soundcheck](https://soundcheck.club/e/2510597-espionage-miles-j-paralysis-kristina-may-gibbin-at-the-greyh/)*

@@ -1,14 +1,15 @@
 # LELO
 
-LELO is a Techno and Hip-Hop artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+LELO is a Techno and Hardcore artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-LELO is a techno and hip-hop artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin, Cologne, Düsseldorf and New York City. Often billed alongside ADEMES, Feta Felice and TMR (DE). Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+LELO is a techno and hardcore artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin, Cologne, Düsseldorf and New York City. Often billed alongside ADEMES, Feta Felice and TMR (DE). Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
+| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
 
 ## Recently played
 

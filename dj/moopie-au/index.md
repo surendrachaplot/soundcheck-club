@@ -1,8 +1,8 @@
 # Moopie
 
-Moopie is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OneSixOne, Melbourne on Fri, 2 Oct 2026.
+Moopie is a House and Techno artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OneSixOne, Melbourne on Fri, 2 Oct 2026.
 
-Moopie is a house and techno artist based in Australia, tracked on soundcheck, with 208 sets logged across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Kia (AU), Hannah D and DJ PGZ. Next up: OneSixOne, Melbourne on Fri 2 Oct.
+Moopie is a house and techno artist based in Australia, tracked on soundcheck, with 209 sets logged across Amsterdam, Bali, Barcelona and Berlin and 20 more. Often billed alongside Kia (AU), Hannah D and DJ PGZ. Next up: OneSixOne, Melbourne on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -19,6 +19,7 @@ Moopie is a house and techno artist based in Australia, tracked on soundcheck, w
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
 | Fri, 6 Nov 2026 | Solace | Melbourne |
 | Sat, 5 Dec 2026 | Club 77 | Sydney |
+| Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
 

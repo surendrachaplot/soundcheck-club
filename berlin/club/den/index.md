@@ -15,7 +15,7 @@
 | Fri, 9 Oct 2026 | BAILE TRAMA 4TH ANNIVERSARY | Cmba, GUS (4), Isa Castelari, N3LYSTAR, SILVASURFER, SZAL, auto_timer |
 | Sat, 10 Oct 2026 | Pikante x SYNTHX  | 4NOUK, Amo (IT), Bruno Brero, DDUCATI, DSC7, GM1 (IT), Hanne B, JUICY (DE), Listenblondie, Pønti, Vaneska, YOVA, sterni (DE), subcutan |
 | Sat, 17 Oct 2026 | Puticlub presents SOBANDO ANDO with Dj Rankng | Dj Rankng, Isa GT, Lazy Rosario, maríajosé |
-| Fri, 23 Oct 2026 | BPM 3rd Anniversary  | Thielking, sterni (DE) |
+| Fri, 23 Oct 2026 | BPM 3-Year-Anniversary with Caniche, Ketarina, no.name, DJ ORDNUNGSAMT | Caniche, DJ ORDNUNGSAMT, G4F4RØU, KOIA (2), Ketarina, SSXXCH, Thielking, Zelyna je Belle, no.name (IT), sterni (DE) |
 | Sat, 24 Oct 2026 | silikon with Bae Blade, HANAA, ELOISA, Maudux | Bae Blade, Carotin, DJ Gianni, DJ Zugzwang, ELOISA, HANAA, M4RY, Maudux, Vivienna, clubm8, kichererbsenstampf, myzelia |
 | Thu, 29 Oct 2026 | CANCELLED - OBXENE |  |
 

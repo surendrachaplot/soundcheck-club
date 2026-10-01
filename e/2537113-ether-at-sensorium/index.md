@@ -1,6 +1,6 @@
 # ETHER at Sensorium
 
-ETHER at Sensorium on Fri 16 Oct, Berlin. 5 artists on the bill: babymullet, Bee Lincoln, J~Dizz¥ and pink-panther and 1 more. Techno and Tech House. Preview the line-up and save it on soundcheck.
+ETHER at Sensorium on Fri 16 Oct, Berlin. 4 artists on the bill: babymullet, J~Dizz¥, pink-panther and wilder förster. Techno and Tech House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ ETHER at Sensorium on Fri 16 Oct, Berlin. 5 artists on the bill: babymullet, Bee
 ## Line-up
 
 - babymullet
-- Bee Lincoln
 - J~Dizz¥
 - pink-panther
 - wilder förster

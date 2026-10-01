@@ -1,13 +1,14 @@
 # ESSNCE
 
-ESSNCE is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Theata, London on Fri, 30 Oct 2026.
+ESSNCE is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
-ESSNCE is a tech house and house artist based in Netherlands, tracked on soundcheck, with 15 sets logged across Amsterdam, Austria, Ibiza and London and 1 more. Often billed alongside Benny Rodrigues, Maqossa and AOB. Next up: Theata, London on Fri 30 Oct.
+ESSNCE is a tech house and house artist based in Netherlands, tracked on soundcheck, with 16 sets logged across Amsterdam, Austria, Ibiza and London and 1 more. Often billed alongside Maqossa, Benny Rodrigues and AOB. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Smokey Club | Amsterdam |
 | Fri, 30 Oct 2026 | Theata | London |
 | Thu, 10 Dec 2026 | Saalbach-Hinterglemm | Austria |
 
@@ -24,6 +25,6 @@ ESSNCE is a tech house and house artist based in Netherlands, tracked on soundch
 
 ## Shares bills with
 
-Benny Rodrigues, Maqossa, AOB
+Maqossa, Benny Rodrigues, AOB
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/essnce/)*

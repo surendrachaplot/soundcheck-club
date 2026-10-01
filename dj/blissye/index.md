@@ -1,14 +1,15 @@
 # blissy e
 
-blissy e is a House and Broken Beat artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Fox and Firkin, London on Sat, 10 Oct 2026.
+blissy e is a House and Broken Beat artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Fox and Firkin, London on Sat, 10 Oct 2026.
 
-blissy e is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 45 sets logged across London. Often billed alongside GENIETUNES, Mr. Redley and Selassie TBC. Next up: The Fox and Firkin, London on Sat 10 Oct.
+blissy e is a house and broken beat artist based in United Kingdom, tracked on soundcheck, with 46 sets logged across London. Often billed alongside GENIETUNES, Mr. Redley and Selassie TBC. Next up: The Fox and Firkin, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Fox and Firkin | London |
+| Sat, 31 Oct 2026 | Night Tales Loft | London |
 
 ## Recently played
 

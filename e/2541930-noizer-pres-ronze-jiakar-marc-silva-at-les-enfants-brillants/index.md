@@ -1,6 +1,6 @@
 # Noizer pres. Ronze + Jiakar + Marc Silva at Les Enfants Brillants
 
-Noizer pres. Ronze + Jiakar + Marc Silva at Les Enfants Brillants on Thu 8 Oct, Barcelona. 2 artists on the bill: Marc Silva and Ronze. Preview the line-up and save it on soundcheck.
+Noizer pres. Ronze + Jiakar + Marc Silva at Les Enfants Brillants on Thu 8 Oct, Barcelona. 3 artists on the bill: Jiakar, Marc Silva and Ronze. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Noizer pres. Ronze + Jiakar + Marc Silva at Les Enfants Brillants on Thu 8 Oct, 
 
 ## Line-up
 
+- Jiakar
 - Marc Silva
 - Ronze
 

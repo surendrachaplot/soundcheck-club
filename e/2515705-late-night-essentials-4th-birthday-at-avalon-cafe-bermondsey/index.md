@@ -11,7 +11,7 @@ Late Night Essentials 4th Birthday at Avalon Cafe Bermondsey on Sat 24 Oct, Lond
 ## Line-up
 
 - Isaac Frost
-- Kristina May (4)
+- Kristina May
 - Neev.
 
 *Source: [soundcheck](https://soundcheck.club/e/2515705-late-night-essentials-4th-birthday-at-avalon-cafe-bermondsey/)*

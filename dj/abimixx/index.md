@@ -1,13 +1,14 @@
 # Abimixx
 
-Abimixx is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - PUMAKÄFIGBERLIN, Berlin on Sat, 3 Oct 2026.
+Abimixx is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Motzener Straße 5, 12277 Berlin, Berlin on Fri, 2 Oct 2026.
 
-Abimixx is a techno and electro artist tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside Sonse, DaSoMaZo and DJ KAIDO. Next up: TBA - PUMAKÄFIGBERLIN, Berlin on Sat 3 Oct.
+Abimixx is a techno and electro artist tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside Sonse, DaSoMaZo and Milchgeld. Next up: TBA - Motzener Straße 5, 12277 Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
 | Sat, 3 Oct 2026 | TBA - PUMAKÄFIGBERLIN | Berlin |
 
 ## Recently played
@@ -20,6 +21,6 @@ Abimixx is a techno and electro artist tracked on soundcheck, with 6 sets logged
 
 ## Shares bills with
 
-Sonse, DaSoMaZo, DJ KAIDO
+Sonse, DaSoMaZo, Milchgeld
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/abimixx/)*

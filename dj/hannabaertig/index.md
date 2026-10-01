@@ -1,14 +1,15 @@
 # Hanna Baertig
 
-Hanna Baertig is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
+Hanna Baertig is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
 
-Hanna Baertig is a techno and house artist based in Germany, tracked on soundcheck, with 93 sets logged across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside Multifun, Salomon and Jessamine. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
+Hanna Baertig is a techno and house artist based in Germany, tracked on soundcheck, with 94 sets logged across Amsterdam, Berlin, Brussels and Cologne and 8 more. Often billed alongside Multifun, Salomon and Jessamine. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Jonny Knüppel | Berlin |
+| Sat, 21 Nov 2026 | Kater | Berlin |
 
 ## Recently played
 

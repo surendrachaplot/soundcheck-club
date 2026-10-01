@@ -1,14 +1,14 @@
 # PAZ WAZ HERE
 
-PAZ WAZ HERE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - High-Fidelity Private  Bar (C/ Badajoz 115), Barcelona on Fri, 9 Oct 2026.
+PAZ WAZ HERE is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Private Hi-Fi Bar (C/ Badajoz 115), Barcelona on Fri, 9 Oct 2026.
 
-PAZ WAZ HERE is a house and techno artist based in Portugal, tracked on soundcheck, with 62 sets logged across Barcelona and Lisbon. Often billed alongside Rele, Alexxx and XipNoize. Next up: TBA - High-Fidelity Private  Bar (C/ Badajoz 115), Barcelona on Fri 9 Oct.
+PAZ WAZ HERE is a house and techno artist based in Portugal, tracked on soundcheck, with 62 sets logged across Barcelona and Lisbon. Often billed alongside Rele, Alexxx and XipNoize. Next up: TBA - Private Hi-Fi Bar (C/ Badajoz 115), Barcelona on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 9 Oct 2026 | TBA - High-Fidelity Private  Bar (C/ Badajoz 115) | Barcelona |
+| Fri, 9 Oct 2026 | TBA - Private Hi-Fi Bar (C/ Badajoz 115) | Barcelona |
 | Sat, 10 Oct 2026 | Freedonia | Barcelona |
 
 ## Recently played

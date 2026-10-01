@@ -1,8 +1,8 @@
 # Marmorbar
 
-Marmorbar is a music venue in Berlin with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ALIS. presents: BACK2LOVE with SOCIAL VLAD, Nycky Estrella & ALIS" on Fri, 2 Oct 2026.
+Marmorbar is a music venue in Berlin with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "ALIS. presents: BACK2LOVE with SOCIAL VLAD, Nycky Estrella & ALIS" on Fri, 2 Oct 2026.
 
-Marmorbar is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with line-ups including ALIS., CBR (Berlin), Culo Sucio and Daniel Jaramillo and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
+Marmorbar is a music venue in Berlin listed on soundcheck. 9 upcoming gigs, with line-ups including ALIS., CBR (Berlin), Culo Sucio and Daniel Jaramillo and 2 more. Browse upcoming dates, start times and who's playing. Vor dem Schlesischen Tor 3  10997 Berlin.
 
 ## What's on
 
@@ -16,6 +16,7 @@ Marmorbar is a music venue in Berlin listed on soundcheck. 8 upcoming gigs, with
 | Fri, 23 Oct 2026 | AER | FUNIC, funk4 |
 | Sat, 24 Oct 2026 | CHROMA - tba |  |
 | Fri, 6 Nov 2026 | KYLIE WEARS BERHAUS | KENZA, Kylie Wears Berghaus, miszo |
+| Fri, 6 Nov 2026 | Kylie Wears Berghaus | KENZA, Kylie Wears Berghaus, miszo |
 
 ## Address
 

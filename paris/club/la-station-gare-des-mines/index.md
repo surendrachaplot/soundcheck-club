@@ -14,7 +14,7 @@ La Station - Gare des Mines is a music venue in Paris listed on soundcheck. 14 u
 | Thu, 8 Oct 2026 | ONDULATION by ATOEM #2 |  |
 | Fri, 9 Oct 2026 | Djs for FLIRT | DJ Music, Golce, Lux18, Oklou, TTristana, fetva |
 | Sat, 10 Oct 2026 | Explity Music presents : ENDLESS HARDCORE SUMMER 4 | Claude Murder, Karlfroye, Nouminouw, Talita Otović |
-| Sun, 11 Oct 2026 | HEDONY 006 | A.Litique, Equus Belli, Litoshka |
+| Sun, 11 Oct 2026 | HEDONY 006 | A.Litique, Equus Belli, H.A.U.S.S, Litoshka |
 | Thu, 15 Oct 2026 | ROOMER + Vision Fortune |  |
 | Fri, 16 Oct 2026 | Professeur Promesses #38 (TICKETS EN VENTE SUR PLACE / COMPLET EN PREVENTES) | Legit Girl DJ, Nori (UK), Promesses, notinbed |
 | Sat, 17 Oct 2026 | Sous Tes Reins : Nord + Sud | Corbeille Dallas, De Vedelly, Diane, Fiona Zanetti, Paulette Sauvage, Paulina, VALISE |

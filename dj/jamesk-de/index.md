@@ -2,7 +2,7 @@
 
 james K is a Ambient and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Fairmount Theatre, Montreal on Thu, 22 Oct 2026.
 
-james K is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Nick León, Oklou and Yu Mi. Next up: Fairmount Theatre, Montreal on Thu 22 Oct.
+james K is an ambient and experimental artist based in United States of America, tracked on soundcheck, with 84 sets logged across Amsterdam, Barcelona, Berlin and Bristol and 27 more. Often billed alongside Nick León, Oklou and Yumi. Next up: Fairmount Theatre, Montreal on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ james K is an ambient and experimental artist based in United States of America,
 
 ## Shares bills with
 
-Nick León, Oklou, Yu Mi
+Nick León, Oklou, Yumi
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/jamesk-de/)*

@@ -9,7 +9,7 @@ Colin Dale is a house and techno artist based in United Kingdom, tracked on soun
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | The Ministry | London |
-| Sat, 10 Oct 2026 | TBA | London |
+| Sat, 10 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 7 Nov 2026 | Marshall Arena | South-east |
 
 ## Recently played

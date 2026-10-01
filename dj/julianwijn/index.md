@@ -1,13 +1,14 @@
 # Julian Wijn
 
-Julian Wijn is a House and Deep House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KIT Royal Tropical Institute, Amsterdam on Thu, 22 Oct 2026.
+Julian Wijn is a House and Deep House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Basement Amsterdam, Amsterdam on Wed, 21 Oct 2026.
 
-Julian Wijn is a house and deep house artist based in Netherlands, tracked on soundcheck, with 30 sets logged across Amsterdam, Paris and Utrecht. Often billed alongside Ive Lovers, Lasse Top and Laura Meester. Next up: KIT Royal Tropical Institute, Amsterdam on Thu 22 Oct.
+Julian Wijn is a house and deep house artist based in Netherlands, tracked on soundcheck, with 31 sets logged across Amsterdam, Paris and Utrecht. Often billed alongside Ive Lovers, Lasse Top and Laura Meester. Next up: Basement Amsterdam, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 21 Oct 2026 | Basement Amsterdam | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Thu, 22 Oct 2026 | KIT Royal Tropical Institute | Amsterdam |
 | Fri, 23 Oct 2026 | Ijver | Amsterdam |

@@ -1,13 +1,14 @@
 # ananda priori
 
-ananda priori is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Open Ground, Wuppertal on Sat, 21 Nov 2026.
+ananda priori is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Wed, 11 Nov 2026.
 
-ananda priori is a techno and electro artist based in Germany, tracked on soundcheck, with 16 sets logged across Berlin, Cologne, Dortmund Essen and Düsseldorf and 1 more. Often billed alongside Elisen, mojo and Gutkind. Next up: Open Ground, Wuppertal on Sat 21 Nov.
+ananda priori is a techno and electro artist based in Germany, tracked on soundcheck, with 17 sets logged across Berlin, Cologne, Dortmund Essen and Düsseldorf and 1 more. Often billed alongside Elisen, mojo and Gutkind. Next up: Tresor / Globus, Berlin on Wed 11 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 11 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 21 Nov 2026 | Open Ground | Wuppertal |
 
 ## Recently played

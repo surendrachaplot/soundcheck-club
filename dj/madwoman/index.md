@@ -1,13 +1,14 @@
 # madwoman
 
-madwoman is a Techno and Industrial artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Q35 WAREHOUSE, Turin on Sat, 12 Dec 2026.
+madwoman is a Techno and Industrial artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Fri, 13 Nov 2026.
 
-madwoman is a techno and industrial artist based in Sweden, tracked on soundcheck, with 49 sets logged across Athens, Barcelona, Basel and Berlin and 17 more. Often billed alongside Ellen Allien, Dasha Rush and Fireground. Next up: Q35 WAREHOUSE, Turin on Sat 12 Dec.
+madwoman is a techno and industrial artist based in Sweden, tracked on soundcheck, with 50 sets logged across Athens, Barcelona, Basel and Berlin and 17 more. Often billed alongside Ellen Allien, Dasha Rush and Fireground. Next up: Tresor / Globus, Berlin on Fri 13 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 13 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 12 Dec 2026 | Q35 WAREHOUSE | Turin |
 
 ## Recently played

@@ -2,7 +2,7 @@
 
 BERKAN is a Bass and Club artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Jonny Knüppel, Berlin on Sat, 3 Oct 2026.
 
-BERKAN is a bass and club artist tracked on soundcheck, with 11 sets logged across Berlin, Hamburg and New York City. Often billed alongside Crille & Tamalt, Ronja and AGILY. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
+BERKAN is a bass and club artist tracked on soundcheck, with 11 sets logged across Berlin, Hamburg and New York City. Often billed alongside Crille & Tamalt, Ronja and kluntje. Next up: Jonny Knüppel, Berlin on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -23,6 +23,6 @@ BERKAN is a bass and club artist tracked on soundcheck, with 11 sets logged acro
 
 ## Shares bills with
 
-Crille & Tamalt, Ronja, AGILY
+Crille & Tamalt, Ronja, kluntje
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/berkan/)*

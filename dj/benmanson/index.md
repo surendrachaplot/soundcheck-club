@@ -1,14 +1,15 @@
 # Ben Manson
 
-Ben Manson is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Whammy Bar, Auckland on Sat, 3 Oct 2026.
+Ben Manson is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Whammy Bar, Auckland on Sat, 3 Oct 2026.
 
-Ben Manson is a techno and house artist based in France, tracked on soundcheck, with 105 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 4 more. Often billed alongside Mr Cozzo, Hugo Prime and Feel .MA. Next up: Whammy Bar, Auckland on Sat 3 Oct.
+Ben Manson is a techno and house artist based in France, tracked on soundcheck, with 106 sets logged across Amsterdam, Antwerp, Auckland and Berlin and 4 more. Often billed alongside Mr Cozzo, Hugo Prime and Feel .MA. Next up: Whammy Bar, Auckland on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Whammy Bar | Auckland |
+| Sat, 24 Oct 2026 | Nouveau Casino | Paris |
 
 ## Recently played
 

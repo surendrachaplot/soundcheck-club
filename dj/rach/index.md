@@ -1,8 +1,8 @@
 # RACH
 
-RACH is a Dubstep and Jungle artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Planet Wax, London on Fri, 2 Oct 2026.
+RACH is a Dubstep and Jungle artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Planet Wax, London on Fri, 2 Oct 2026.
 
-RACH is a dubstep and jungle artist based in Colombia, tracked on soundcheck, with 8 sets logged across Amsterdam, Brighton, London and North. Often billed alongside Charla Green, King Chuga and 96 Back. Next up: Planet Wax, London on Fri 2 Oct.
+RACH is a dubstep and jungle artist based in Colombia, tracked on soundcheck, with 9 sets logged across Amsterdam, Brighton, London and North. Often billed alongside Charla Green, King Chuga and 96 Back. Next up: Planet Wax, London on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ RACH is a dubstep and jungle artist based in Colombia, tracked on soundcheck, wi
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Planet Wax | London |
 | Fri, 9 Oct 2026 | TBA - Multiple Venues across Sheffield & Rotherham | North |
+| Fri, 16 Oct 2026 | Yellow House | Amsterdam |
 
 ## Recently played
 

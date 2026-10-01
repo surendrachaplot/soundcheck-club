@@ -1,8 +1,8 @@
 # Nat Wendell
 
-Nat Wendell is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OneSixOne, Melbourne on Sun, 4 Oct 2026.
+Nat Wendell is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OneSixOne, Melbourne on Sun, 4 Oct 2026.
 
-Nat Wendell is a house and techno artist based in United Kingdom, tracked on soundcheck, with 81 sets logged across Amsterdam, Berlin, Brussels and Buenos Aires and 17 more. Often billed alongside Luca Olivotto, Eva Crystaltips and Marie Lung. Next up: OneSixOne, Melbourne on Sun 4 Oct.
+Nat Wendell is a house and techno artist based in United Kingdom, tracked on soundcheck, with 82 sets logged across Amsterdam, Berlin, Brussels and Buenos Aires and 17 more. Often billed alongside Luca Olivotto, Eva Crystaltips and JAXX TMS. Next up: OneSixOne, Melbourne on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Nat Wendell is a house and techno artist based in United Kingdom, tracked on sou
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | OneSixOne | Melbourne |
 | Sat, 10 Oct 2026 | Abercrombie Hotel | Sydney |
+| Sat, 14 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Nat Wendell is a house and techno artist based in United Kingdom, tracked on sou
 
 ## Shares bills with
 
-Luca Olivotto, Eva Crystaltips, Marie Lung
+Luca Olivotto, Eva Crystaltips, JAXX TMS
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/natwendell/)*

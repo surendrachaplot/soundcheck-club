@@ -1,8 +1,8 @@
 # Kylie Wears Berghaus
 
-Kylie Wears Berghaus is a Techno and House artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hare & Hounds, Birmingham on Fri, 9 Oct 2026.
+Kylie Wears Berghaus is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Hare & Hounds, Birmingham on Fri, 9 Oct 2026.
 
-Kylie Wears Berghaus is a techno and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Berlin, Birmingham, Brighton and Bristol and 9 more. Often billed alongside Acid Sally, Adiel and Alousea. Next up: Hare & Hounds, Birmingham on Fri 9 Oct.
+Kylie Wears Berghaus is a techno and house artist based in United Kingdom, tracked on soundcheck, with 17 sets logged across Berlin, Birmingham, Brighton and Bristol and 9 more. Often billed alongside KENZA, miszo and Acid Sally. Next up: Hare & Hounds, Birmingham on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, track
 | Fri, 9 Oct 2026 | Hare & Hounds | Birmingham |
 | Sat, 24 Oct 2026 | Stereo | Glasgow |
 | Sat, 31 Oct 2026 | The Cause | London |
+| Fri, 6 Nov 2026 | Marmorbar | Berlin |
 | Fri, 6 Nov 2026 | Marmorbar | Berlin |
 | Fri, 20 Nov 2026 | World Headquarters | Newcastle |
 | Fri, 27 Nov 2026 | Headrow House | Leeds |
@@ -29,6 +30,6 @@ Kylie Wears Berghaus is a techno and house artist based in United Kingdom, track
 
 ## Shares bills with
 
-Acid Sally, Adiel, Alousea
+KENZA, miszo, Acid Sally
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kyliewearsberghaus/)*

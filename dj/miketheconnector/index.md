@@ -1,8 +1,8 @@
 # Mike The Connector
 
-Mike The Connector is a House and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nordstern, Basel on Fri, 2 Oct 2026.
+Mike The Connector is a House and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Nordstern, Basel on Fri, 2 Oct 2026.
 
-Mike The Connector is a house and tech house artist based in Switzerland, tracked on soundcheck, with 22 sets logged across Amsterdam, Basel, Berlin and Geneva and 1 more. Often billed alongside Alex Belluscio, Caromelle and AANN. Next up: Nordstern, Basel on Fri 2 Oct.
+Mike The Connector is a house and tech house artist based in Switzerland, tracked on soundcheck, with 23 sets logged across Amsterdam, Basel, Berlin and Geneva and 1 more. Often billed alongside Alex Belluscio, Caromelle and AANN. Next up: Nordstern, Basel on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Mike The Connector is a house and tech house artist based in Switzerland, tracke
 | Fri, 2 Oct 2026 | Nordstern | Basel |
 | Sat, 10 Oct 2026 | Hive Club | Zurich |
 | Thu, 22 Oct 2026 | Basement (Amsterdam) | Amsterdam |
+| Fri, 23 Oct 2026 | Yellow House | Amsterdam |
 | Sat, 24 Oct 2026 | Thuishaven | Amsterdam |
 
 ## Recently played

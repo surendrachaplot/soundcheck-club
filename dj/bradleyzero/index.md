@@ -1,8 +1,8 @@
 # Bradley Zero
 
-Bradley Zero is a House and Techno artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Central on Fri, 2 Oct 2026.
+Bradley Zero is a House and Techno artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Central on Fri, 2 Oct 2026.
 
-Bradley Zero is a house and techno artist based in United Kingdom, tracked on soundcheck, with 222 sets logged across Amsterdam, Austin, Bali and Bangkok and 54 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: TBA, Central on Fri 2 Oct.
+Bradley Zero is a house and techno artist based in United Kingdom, tracked on soundcheck, with 223 sets logged across Amsterdam, Austin, Bali and Bangkok and 54 more. Often billed alongside MLE (UK), Sally C and Chloé Caillet. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Bradley Zero is a house and techno artist based in United Kingdom, tracked on so
 | Fri, 2 Oct 2026 | TBA | Central |
 | Wed, 21 Oct 2026 | Zwart Goud Record Store | Amsterdam |
 | Sat, 14 Nov 2026 | Palais | London |
+| Fri, 20 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 28 Nov 2026 | Kapsule | Liverpool |
 | Sat, 28 Nov 2026 | Kapsule | Liverpool |
 | Sat, 5 Dec 2026 | Are You Affiliated | Newcastle |

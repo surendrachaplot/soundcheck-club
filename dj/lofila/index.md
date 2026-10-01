@@ -1,14 +1,15 @@
 # LOFILA
 
-LOFILA is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Marble Bar, Detroit on Fri, 16 Oct 2026.
+LOFILA is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Marble Bar, Detroit on Fri, 16 Oct 2026.
 
-LOFILA is a techno and house artist tracked on soundcheck, with 9 sets logged across Detroit. Often billed alongside KICK (DET), Redax and DJ SPHiNX. Next up: Marble Bar, Detroit on Fri 16 Oct.
+LOFILA is a techno and house artist tracked on soundcheck, with 10 sets logged across Cleveland and Detroit. Often billed alongside KICK (DET), Redax and DJ SPHiNX. Next up: Marble Bar, Detroit on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Marble Bar | Detroit |
+| Sat, 17 Oct 2026 | crobar | Cleveland |
 
 ## Recently played
 

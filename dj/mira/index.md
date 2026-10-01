@@ -1,8 +1,8 @@
 # Mira
 
-Mira is a House and Techno artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Life Park, Istanbul on Sat, 10 Oct 2026.
+Mira is a House and Techno artist with 11 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Life Park, Istanbul on Sat, 10 Oct 2026.
 
-Mira is a house and techno artist based in Germany, tracked on soundcheck, with 199 sets logged across Amsterdam, Athens, Austin and Bangkok and 39 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Life Park, Istanbul on Sat 10 Oct.
+Mira is a house and techno artist based in Germany, tracked on soundcheck, with 200 sets logged across Amsterdam, Athens, Austin and Bangkok and 39 more. Often billed alongside Chris Schwarzwälder, Britta Arnold and Caleesi. Next up: Life Park, Istanbul on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -18,6 +18,7 @@ Mira is a house and techno artist based in Germany, tracked on soundcheck, with 
 | Fri, 6 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Fri, 13 Nov 2026 | Fünk | Mexico City |
 | Fri, 20 Nov 2026 | Odonien | Cologne |
+| Sat, 21 Nov 2026 | Colour Factory | London |
 
 ## Recently played
 

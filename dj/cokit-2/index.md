@@ -1,13 +1,14 @@
 # CøkiT
 
-CøkiT is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Culture Box, Copenhagen on Sat, 7 Nov 2026.
+CøkiT is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at MODULE, Copenhagen on Thu, 1 Oct 2026.
 
-CøkiT is a techno and house artist based in Italy, tracked on soundcheck, with 14 sets logged across Copenhagen. Often billed alongside VI/TO, Midele and DJ Void. Next up: Culture Box, Copenhagen on Sat 7 Nov.
+CøkiT is a techno and house artist based in Italy, tracked on soundcheck, with 15 sets logged across Copenhagen. Often billed alongside VI/TO, Midele and DJ Void. Next up: MODULE, Copenhagen on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | MODULE | Copenhagen |
 | Sat, 7 Nov 2026 | Culture Box | Copenhagen |
 
 ## Recently played

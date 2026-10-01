@@ -1,13 +1,14 @@
 # YOKOSUN
 
-YOKOSUN is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at The Fields at Siam Country Club, Thailand on Thu, 3 Dec 2026.
+YOKOSUN is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Observatory, Ho-chi-minh-city on Fri, 23 Oct 2026.
 
-YOKOSUN is a house and techno artist tracked on soundcheck, with 14 sets logged across Bali, Bangkok, Kuala Lumpur and Osaka and 3 more. Often billed alongside Shhhhh, Chalo and Hugo LX. Next up: The Fields at Siam Country Club, Thailand on Thu 3 Dec.
+YOKOSUN is a house and techno artist tracked on soundcheck, with 15 sets logged across Bali, Bangkok, Ho Chi Minh City and Kuala Lumpur and 4 more. Often billed alongside Shhhhh, Chalo and Hugo LX. Next up: The Observatory, Ho Chi Minh City on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | The Observatory | Ho-chi-minh-city |
 | Thu, 3 Dec 2026 | The Fields at Siam Country Club | Thailand |
 
 ## Recently played

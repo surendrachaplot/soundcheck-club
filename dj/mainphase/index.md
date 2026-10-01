@@ -1,8 +1,8 @@
 # Main Phase
 
-Main Phase is a Garage and Bass artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wigwam, Dublin on Fri, 2 Oct 2026.
+Main Phase is a Garage and Bass artist with 10 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Wigwam, Dublin on Fri, 2 Oct 2026.
 
-Main Phase is a garage and bass artist based in Denmark, tracked on soundcheck, with 204 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 58 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: Wigwam, Dublin on Fri 2 Oct.
+Main Phase is a garage and bass artist based in Denmark, tracked on soundcheck, with 205 sets logged across Aberdeen, Amsterdam, Antwerp and Auckland and 58 more. Often billed alongside Interplanetary Criminal, Silva Bumpa and Dr Dubplate. Next up: Wigwam, Dublin on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Main Phase is a garage and bass artist based in Denmark, tracked on soundcheck, 
 | Sat, 17 Oct 2026 | Nowadays | New York City |
 | Fri, 6 Nov 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 14 Nov 2026 | BRET | Amsterdam |
+| Fri, 27 Nov 2026 | Palais | London |
 | Wed, 9 Dec 2026 | TBA - Lyon - Confluence | Lyon |
 
 ## Recently played

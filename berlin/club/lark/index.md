@@ -1,8 +1,8 @@
 # Lark
 
-Lark is a music venue in Berlin with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "collective memory + low harvest" on Thu, 1 Oct 2026.
+Lark is a music venue in Berlin with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "collective memory + low harvest" on Thu, 1 Oct 2026.
 
-Lark is a music venue in Berlin listed on soundcheck. 11 upcoming gigs, with line-ups including _hiø, asphalt angel, BAMBI (UK) and Chickenmilk dot com and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
+Lark is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line-ups including _hiø, asphalt angel, BAMBI (UK) and Chickenmilk dot com and 2 more. Browse upcoming dates, start times and who's playing. Holzmarktstrasse 15-18, 10179.
 
 ## What's on
 

@@ -1,14 +1,15 @@
 # Art (AU)
 
-Art (AU) is a Ambient and Deep House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Victoria on Fri, 6 Nov 2026.
+Art (AU) is a Ambient and Deep House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA, Victoria on Fri, 6 Nov 2026.
 
-Art (AU) is an ambient and deep house artist based in Australia, tracked on soundcheck, with 11 sets logged across Bangkok, Berlin, Hobart and Lisbon and 2 more. Often billed alongside Bex, Rev Lon and Activator (AU). Next up: TBA, Victoria on Fri 6 Nov.
+Art (AU) is an ambient and deep house artist based in Australia, tracked on soundcheck, with 12 sets logged across Bangkok, Berlin, Hobart and Lisbon and 2 more. Often billed alongside Rev Lon, Bex and Billus. Next up: TBA, Victoria on Fri 6 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 6 Nov 2026 | TBA | Victoria |
+| Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Art (AU) is an ambient and deep house artist based in Australia, tracked on soun
 
 ## Shares bills with
 
-Bex, Rev Lon, Activator (AU)
+Rev Lon, Bex, Billus
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/art-au/)*

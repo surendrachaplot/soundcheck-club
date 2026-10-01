@@ -1,14 +1,15 @@
 # Primitive Needs
 
-Primitive Needs is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Rooftop Bar, Level 7, Curtain House, Melbourne on Wed, 18 Nov 2026.
+Primitive Needs is a Tech House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Rooftop Bar, Level 7, Curtain House, Melbourne on Wed, 18 Nov 2026.
 
-Primitive Needs is a tech house and techno artist based in Australia, tracked on soundcheck, with 18 sets logged across Melbourne. Often billed alongside Toni Yotzi, Char(k) and Ebbs 'N' Flow. Next up: TBA - Rooftop Bar, Level 7, Curtain House, Melbourne on Wed 18 Nov.
+Primitive Needs is a tech house and techno artist based in Australia, tracked on soundcheck, with 19 sets logged across Melbourne. Often billed alongside Toni Yotzi, Char(k) and Ebbs 'N' Flow. Next up: TBA - Rooftop Bar, Level 7, Curtain House, Melbourne on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | TBA - Rooftop Bar, Level 7, Curtain House | Melbourne |
+| Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
 

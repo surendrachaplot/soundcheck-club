@@ -1,13 +1,14 @@
 # Tzusing
 
-Tzusing is a Techno and Experimental artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Cloud 11 Hall, Bangkok on Sat, 31 Oct 2026.
+Tzusing is a Techno and Experimental artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pawnshop, Taipei on Thu, 8 Oct 2026.
 
-Tzusing is a techno and experimental artist based in China, tracked on soundcheck, with 20 sets logged across Amsterdam, Bangkok, Berlin and London and 7 more. Often billed alongside Bill Kouligas, nunguja and Crystallmess. Next up: Cloud 11 Hall, Bangkok on Sat 31 Oct.
+Tzusing is a techno and experimental artist based in China, tracked on soundcheck, with 21 sets logged across Amsterdam, Bangkok, Berlin and London and 8 more. Often billed alongside Bill Kouligas, nunguja and Crystallmess. Next up: Pawnshop, Taipei on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Pawnshop | Taipei |
 | Sat, 31 Oct 2026 | Cloud 11 Hall | Bangkok |
 
 ## Recently played

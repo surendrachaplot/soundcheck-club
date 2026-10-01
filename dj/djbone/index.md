@@ -1,8 +1,8 @@
 # DJ Bone
 
-DJ Bone is a Techno and House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
+DJ Bone is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-DJ Bone is a techno and house artist based in United States of America, tracked on soundcheck, with 131 sets logged across Amsterdam, Antwerp, Austin and Bali and 36 more. Often billed alongside Azucy, Yeti Mind Tricks and Jack Fresia. Next up: RADION, Amsterdam on Fri 23 Oct.
+DJ Bone is a techno and house artist based in United States of America, tracked on soundcheck, with 132 sets logged across Amsterdam, Antwerp, Austin and Bali and 36 more. Often billed alongside Yeti Mind Tricks, Azucy and Jack Fresia. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ DJ Bone is a techno and house artist based in United States of America, tracked 
 | Fri, 23 Oct 2026 | Garage Noord | Amsterdam |
 | Fri, 30 Oct 2026 | Depot Mayfield | Manchester |
 | Sat, 31 Oct 2026 | TBA - East Williamsburg | New York City |
+| Fri, 13 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 
@@ -26,6 +27,6 @@ DJ Bone is a techno and house artist based in United States of America, tracked 
 
 ## Shares bills with
 
-Azucy, Yeti Mind Tricks, Jack Fresia
+Yeti Mind Tricks, Azucy, Jack Fresia
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djbone/)*

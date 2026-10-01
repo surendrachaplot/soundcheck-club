@@ -1,13 +1,14 @@
 # Millie Forsberg
 
-Millie Forsberg is a Techno and Trance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at PKH Warehouse, Berlin on Fri, 16 Oct 2026.
+Millie Forsberg is a Techno and Trance artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KitKatClub, Berlin on Wed, 14 Oct 2026.
 
-Millie Forsberg is a techno and trance artist based in Germany, tracked on soundcheck, with 100 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside DJ Jordan, Melanchromie and SaltySis. Next up: PKH Warehouse, Berlin on Fri 16 Oct.
+Millie Forsberg is a techno and trance artist based in Germany, tracked on soundcheck, with 101 sets logged across Berlin, Cologne, Frankfurt and Hamburg and 2 more. Often billed alongside DJ Jordan, Melanchromie and SaltySis. Next up: KitKatClub, Berlin on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 14 Oct 2026 | KitKatClub | Berlin |
 | Fri, 16 Oct 2026 | PKH Warehouse | Berlin |
 | Sat, 17 Oct 2026 | Lokschuppen Berlin | Berlin |
 

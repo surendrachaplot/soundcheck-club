@@ -1,8 +1,8 @@
 # Rowland
 
-Rowland is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
+Rowland is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Not For Sale Gallery, London on Sat, 31 Oct 2026.
 
-Rowland is a techno and house artist based in United Kingdom, tracked on soundcheck, with 15 sets logged across Leeds, London and Manchester. Often billed alongside Mezla, Lucky Penny and Basic Function. Next up: Not For Sale Gallery, London on Sat 31 Oct.
+Rowland is a techno and house artist based in United Kingdom, tracked on soundcheck, with 16 sets logged across Leeds, London and Manchester. Often billed alongside Mezla, Lucky Penny and Basic Function. Next up: Not For Sale Gallery, London on Sat 31 Oct.
 
 ## Upcoming shows
 

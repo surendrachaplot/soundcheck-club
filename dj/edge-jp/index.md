@@ -1,15 +1,14 @@
 # edge
 
-edge is a House and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
+edge is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Aoyama Hachi, Tokyo on Sat, 10 Oct 2026.
 
-edge is a house and techno artist based in Japan, tracked on soundcheck, with 60 sets logged across London, Tbilisi and Tokyo. Often billed alongside 35DH-1, Kulage and Takami. Next up: Aoyama Hachi, Tokyo on Sat 10 Oct.
+edge is a house and techno artist based in Japan, tracked on soundcheck, with 59 sets logged across London, Tbilisi and Tokyo. Often billed alongside 35DH-1, Kulage and Takami. Next up: Aoyama Hachi, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Aoyama Hachi | Tokyo |
-| Fri, 16 Oct 2026 | Bassiani | Tbilisi |
 
 ## Recently played
 

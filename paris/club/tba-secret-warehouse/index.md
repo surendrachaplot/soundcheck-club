@@ -1,8 +1,8 @@
-# TBA - SECRET WAREHOUSE
+# TBA - Secret Warehouse
 
-TBA - SECRET WAREHOUSE is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RAW XXS #15 • Secret warehouse" on Fri, 2 Oct 2026.
+TBA - Secret Warehouse is a music venue in Paris with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026; the next is "RAW XXS #15 • Secret warehouse" on Fri, 2 Oct 2026.
 
-TBA - SECRET WAREHOUSE is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including -CZAR, 1908, ALoSo and C:3 and 2 more. Browse upcoming dates, start times and who's playing.
+TBA - Secret Warehouse is a music venue in Paris listed on soundcheck. 7 upcoming gigs, with line-ups including -CZAR, 1908, ALoSo and C:3 and 2 more. Browse upcoming dates, start times and who's playing.
 
 ## What's on
 

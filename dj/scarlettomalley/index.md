@@ -1,8 +1,8 @@
 # Scarlett O'Malley
 
-Scarlett O'Malley is a House and Disco artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Scarlett O'Malley is a House and Disco artist with 7 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Scarlett O'Malley is a house and disco artist based in United Kingdom, tracked on soundcheck, with 98 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Scarlett O'Malley is a house and disco artist based in United Kingdom, tracked on soundcheck, with 99 sets logged across Amsterdam, Barcelona, Berlin and Brighton and 12 more. Often billed alongside Ella Knight, Lulah Francs and Michelle Manetti. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Scarlett O'Malley is a house and disco artist based in United Kingdom, tracked o
 | Thu, 22 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Fri, 30 Oct 2026 | EartH | London |
 | Sat, 14 Nov 2026 | Palais | London |
+| Fri, 20 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

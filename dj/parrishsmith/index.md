@@ -1,14 +1,15 @@
 # Parrish Smith
 
-Parrish Smith is a Techno and Electro artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
+Parrish Smith is a Techno and Electro artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Melkweg, Amsterdam on Fri, 23 Oct 2026.
 
-Parrish Smith is a techno and electro artist based in Netherlands, tracked on soundcheck, with 87 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Mila V, Camy Huot and Phase Fatale. Next up: Melkweg, Amsterdam on Fri 23 Oct.
+Parrish Smith is a techno and electro artist based in Netherlands, tracked on soundcheck, with 88 sets logged across Amsterdam, Athens, Barcelona and Berlin and 22 more. Often billed alongside Camy Huot, Mila V and Phase Fatale. Next up: Melkweg, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | Melkweg | Amsterdam |
+| Fri, 23 Oct 2026 | OT301 | Amsterdam |
 | Fri, 23 Oct 2026 | OT301 | Amsterdam |
 | Sat, 31 Oct 2026 | KHIDI | Tbilisi |
 | Fri, 27 Nov 2026 | RADION | Amsterdam |
@@ -26,6 +27,6 @@ Parrish Smith is a techno and electro artist based in Netherlands, tracked on so
 
 ## Shares bills with
 
-Mila V, Camy Huot, Phase Fatale
+Camy Huot, Mila V, Phase Fatale
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/parrishsmith/)*

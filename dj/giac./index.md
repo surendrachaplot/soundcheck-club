@@ -1,8 +1,8 @@
 # giac.
 
-giac. is a House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
+giac. is a House and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Seaseaclub Barcelona, Barcelona on Fri, 30 Oct 2026.
 
-giac. is a house and techno artist tracked on soundcheck, with 48 sets logged across Barcelona and Madrid. Often billed alongside Swann, Martini Raw and Pau Rosés. Next up: Seaseaclub Barcelona, Barcelona on Fri 30 Oct.
+giac. is a house and electro artist tracked on soundcheck, with 48 sets logged across Barcelona and Madrid. Often billed alongside Swann, Martini Raw and Pau Rosés. Next up: Seaseaclub Barcelona, Barcelona on Fri 30 Oct.
 
 ## Upcoming shows
 

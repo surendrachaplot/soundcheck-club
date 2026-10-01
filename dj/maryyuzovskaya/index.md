@@ -1,8 +1,8 @@
 # Mary Yuzovskaya
 
-Mary Yuzovskaya is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Signal, New York City on Fri, 9 Oct 2026.
+Mary Yuzovskaya is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Signal, New York City on Fri, 9 Oct 2026.
 
-Mary Yuzovskaya is a techno and house artist tracked on soundcheck, with 95 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Amotik, Delano Legito and Altinbas. Next up: Signal, New York City on Fri 9 Oct.
+Mary Yuzovskaya is a techno and house artist tracked on soundcheck, with 96 sets logged across Amsterdam, Athens, Bali and Barcelona and 27 more. Often billed alongside Amotik, Delano Legito and Altinbas. Next up: Signal, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mary Yuzovskaya is a techno and house artist tracked on soundcheck, with 95 sets
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Signal | New York City |
 | Sat, 10 Oct 2026 | TBA - Los Angeles | Los Angeles |
+| Fri, 20 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

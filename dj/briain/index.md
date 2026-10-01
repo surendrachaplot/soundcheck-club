@@ -1,14 +1,15 @@
 # Briain
 
-Briain is a electronic artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
+Briain is a Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Tresor / Globus, Berlin on Fri, 2 Oct 2026.
 
-Briain is an electronic artist based in Ireland, tracked on soundcheck, with 6 sets logged across Berlin. Often billed alongside VCO, Byron The Aquarius and Cirkle. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
+Briain is a techno artist based in Ireland, tracked on soundcheck, with 7 sets logged across Berlin. Often billed alongside VCO, Byron The Aquarius and Cirkle. Next up: Tresor / Globus, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Tresor / Globus | Berlin |
+| Wed, 4 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

@@ -9,7 +9,7 @@ Haus der Statistik is a music venue in Berlin listed on soundcheck. 2 upcoming g
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 8 Oct 2026 | TESA (LV), D'CO |  |
-| Fri, 23 Oct 2026 | lovetempo (Mattie Safer of The Rapture), Moriah Plaza | Moriah Plaza, lovetempo |
+| Fri, 23 Oct 2026 | [CANCELLED] lovetempo (Mattie Safer of The Rapture), Moriah Plaza | Moriah Plaza, lovetempo |
 
 ## Address
 

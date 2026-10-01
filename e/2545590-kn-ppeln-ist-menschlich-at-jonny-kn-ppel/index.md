@@ -1,6 +1,6 @@
 # Knüppeln ist Menschlich at Jonny Knüppel
 
-Knüppeln ist Menschlich at Jonny Knüppel on Sat 3 Oct, Berlin. 11 artists on the bill: AGILY, Anselmus, Bamela Paywatch and BERKAN and 7 more. Techno and House. Preview the line-up and save it on soundcheck.
+Knüppeln ist Menschlich at Jonny Knüppel on Sat 3 Oct, Berlin. 12 artists on the bill: AGILY, Anselmus, Bamela Paywatch and BERKAN and 8 more. Techno and House. Preview the line-up and save it on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -18,6 +18,7 @@ Knüppeln ist Menschlich at Jonny Knüppel on Sat 3 Oct, Berlin. 11 artists on t
 - Elliver
 - face*
 - Hanna Baertig
+- kluntje
 - Nissa Carrington
 - SACID
 - Sutsche

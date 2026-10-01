@@ -17,7 +17,7 @@ Seaseaclub Barcelona is a music venue in Barcelona listed on soundcheck. 16 upco
 | Sat, 17 Oct 2026 | PEOPLE | Alice Youngling, Bailey Leunig, Couce |
 | Sun, 18 Oct 2026 | HUMANOS x NOM pres. Mariano Mellino | Belu Rodriguez, Mariano Mellino, Noncitizens |
 | Sun, 18 Oct 2026 | Mariano Mellino - SEASEA CLUB - Barcelona, ES | Mariano Mellino |
-| Fri, 30 Oct 2026 | AUDIODISE Halloween pres. Fumiya Tanaka with Special Guests - 18:30-03:00 - 3 stages  | Fumiya Tanaka, Huerta, Perro Jimbo, VIKk, giac. |
+| Fri, 30 Oct 2026 | AUDIODISE Halloween pres. Fumiya Tanaka, Hamish & Toby, Huerta - 18:30-03:00 - 3 stages  | Fumiya Tanaka, Hamish & Toby, Huerta, Perro Jimbo, VIKk, giac. |
 
 ## Address
 

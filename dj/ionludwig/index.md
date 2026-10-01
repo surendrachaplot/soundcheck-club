@@ -1,13 +1,14 @@
 # Ion Ludwig
 
-Ion Ludwig is a Minimal and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at One Resort, Tunisia on Thu, 5 Nov 2026.
+Ion Ludwig is a Minimal and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Yellow House, Amsterdam on Thu, 22 Oct 2026.
 
-Ion Ludwig is a minimal and house artist based in Germany, tracked on soundcheck, with 85 sets logged across Amsterdam, Antwerp, Athens and Bali and 22 more. Often billed alongside Rhadoo, Aline (CH) and BILA. Next up: One Resort, Tunisia on Thu 5 Nov.
+Ion Ludwig is a minimal and house artist based in Germany, tracked on soundcheck, with 86 sets logged across Amsterdam, Antwerp, Athens and Bali and 22 more. Often billed alongside Rhadoo, Aline (CH) and BILA. Next up: Yellow House, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Yellow House | Amsterdam |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 
 ## Recently played

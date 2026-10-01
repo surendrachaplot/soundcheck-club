@@ -9,7 +9,7 @@ MURI is a house and minimal artist based in Brazil, tracked on soundcheck, with 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Seawolf Records Barcelona | Barcelona |
-| Fri, 9 Oct 2026 | TBA - High-Fidelity Private  Bar (C/ Badajoz 115) | Barcelona |
+| Fri, 9 Oct 2026 | TBA - Private Hi-Fi Bar (C/ Badajoz 115) | Barcelona |
 
 ## Recently played
 

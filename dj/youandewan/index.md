@@ -1,8 +1,8 @@
 # Youandewan
 
-Youandewan is a House and Minimal artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Chocolate Factory, New York City on Sat, 7 Nov 2026.
+Youandewan is a House and Minimal artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at The Chocolate Factory, New York City on Sat, 7 Nov 2026.
 
-Youandewan is a house and minimal artist based in Germany, tracked on soundcheck, with 115 sets logged across Amsterdam, Auckland, Austin and Bangkok and 33 more. Often billed alongside Huerta, Liquid Earth and Truly Madly. Next up: The Chocolate Factory, New York City on Sat 7 Nov.
+Youandewan is a house and minimal artist based in Germany, tracked on soundcheck, with 116 sets logged across Amsterdam, Auckland, Austin and Bangkok and 33 more. Often billed alongside Huerta, Liquid Earth and Truly Madly. Next up: The Chocolate Factory, New York City on Sat 7 Nov.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Youandewan is a house and minimal artist based in Germany, tracked on soundcheck
 | --- | --- | --- |
 | Sat, 7 Nov 2026 | The Chocolate Factory | New York City |
 | Sat, 14 Nov 2026 | The Racket Space | Dublin |
+| Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # TaronX
 
-TaronX is a Electro and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
+TaronX is a Electro and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Yerevan, Armenia, Armenia on Sat, 26 Sept 2026.
 
-TaronX is an electro and techno artist based in Armenia, tracked on soundcheck, with 24 sets logged across Armenia, Berlin, Istanbul and Madrid and 1 more. Often billed alongside ElectroDon, Gio Shengelia and MEROUJ. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
+TaronX is an electro and techno artist based in Armenia, tracked on soundcheck, with 25 sets logged across Armenia, Berlin, Istanbul and Madrid and 1 more. Often billed alongside ElectroDon, Gio Shengelia and MEROUJ. Next up: TBA - Yerevan, Armenia, Armenia on Sat 26 Sept.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ TaronX is an electro and techno artist based in Armenia, tracked on soundcheck, 
 | Sat, 26 Sept 2026 | TBA - Yerevan, Armenia | Armenia |
 | Sat, 3 Oct 2026 | Hayfilm Cluster | Armenia |
 | Fri, 30 Oct 2026 | Bassiani | Tbilisi |
+| Fri, 6 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

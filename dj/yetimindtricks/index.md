@@ -1,14 +1,15 @@
 # Yeti Mind Tricks
 
-Yeti Mind Tricks is a Techno and House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
+Yeti Mind Tricks is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at RADION, Amsterdam on Fri, 23 Oct 2026.
 
-Yeti Mind Tricks is a techno and house artist based in United Kingdom, tracked on soundcheck, with 32 sets logged across Amsterdam, Edinburgh and Glasgow. Often billed alongside DJ Bone, Tälor and Azucy. Next up: RADION, Amsterdam on Fri 23 Oct.
+Yeti Mind Tricks is a techno and house artist based in United Kingdom, tracked on soundcheck, with 33 sets logged across Amsterdam, Berlin, Edinburgh and Glasgow. Often billed alongside DJ Bone, Tälor and Azucy. Next up: RADION, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 23 Oct 2026 | RADION | Amsterdam |
+| Fri, 13 Nov 2026 | Tresor / Globus | Berlin |
 
 ## Recently played
 

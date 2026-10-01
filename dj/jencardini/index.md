@@ -1,8 +1,8 @@
 # Jen Cardini
 
-Jen Cardini is a Techno and House artist with 12 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
+Jen Cardini is a Techno and House artist with 13 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Café Nuances  - Marais, Paris on Fri, 2 Oct 2026.
 
-Jen Cardini is a techno and house artist based in France, tracked on soundcheck, with 262 sets logged across Amsterdam, Antwerp, Athens and Auckland and 59 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
+Jen Cardini is a techno and house artist based in France, tracked on soundcheck, with 263 sets logged across Amsterdam, Antwerp, Athens and Auckland and 60 more. Often billed alongside Pablo Bozzi, BASHKKA and KI/KI. Next up: Café Nuances  - Marais, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -18,8 +18,8 @@ Jen Cardini is a techno and house artist based in France, tracked on soundcheck,
 | Fri, 30 Oct 2026 | DURO | Milan |
 | Sat, 31 Oct 2026 | ÆDEN | Berlin |
 | Sun, 1 Nov 2026 | Le Sucre | Lyon |
+| Sat, 5 Dec 2026 | Arènes De Metz | East |
 | Sat, 12 Dec 2026 | Plano B | Porto |
-| Sat, 19 Dec 2026 | 013 Poppodium | Netherlands |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Sonse
 
-Sonse is a Techno and Tech House artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
+Sonse is a Techno and Tech House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Puma Käfig Berlin, Berlin on Fri, 2 Oct 2026.
 
-Sonse is a techno and tech house artist based in Germany, tracked on soundcheck, with 19 sets logged across Berlin. Often billed alongside DaSoMaZo, Milchgeld and Abimixx. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
+Sonse is a techno and tech house artist based in Germany, tracked on soundcheck, with 20 sets logged across Berlin. Often billed alongside DaSoMaZo, Milchgeld and Abimixx. Next up: Puma Käfig Berlin, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
+| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
 | Sat, 3 Oct 2026 | M-BIA | Berlin |
 | Sat, 3 Oct 2026 | TBA - PUMAKÄFIGBERLIN | Berlin |
 | Fri, 9 Oct 2026 | Void Club | Berlin |

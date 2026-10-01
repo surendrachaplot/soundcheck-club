@@ -1,13 +1,14 @@
 # L-CC
 
-L-CC is a House and EBM artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Pawnshop, Taipei on Sat, 31 Oct 2026.
+L-CC is a House and EBM artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Pawnshop, Taipei on Thu, 8 Oct 2026.
 
-L-CC is a house and ebm artist tracked on soundcheck, with 6 sets logged across Bali, Hong Kong, Seoul and Taipei. Often billed alongside F.G.D., Bolm and Debbie with an 'S'. Next up: Pawnshop, Taipei on Sat 31 Oct.
+L-CC is a house and ebm artist tracked on soundcheck, with 7 sets logged across Bali, Hong Kong, Seoul and Taipei. Often billed alongside F.G.D., Tsuuu and Umbra. Next up: Pawnshop, Taipei on Thu 8 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 8 Oct 2026 | Pawnshop | Taipei |
 | Sat, 31 Oct 2026 | Pawnshop | Taipei |
 
 ## Recently played
@@ -20,6 +21,6 @@ L-CC is a house and ebm artist tracked on soundcheck, with 6 sets logged across 
 
 ## Shares bills with
 
-F.G.D., Bolm, Debbie with an 'S'
+F.G.D., Tsuuu, Umbra (2)
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/l-cc/)*

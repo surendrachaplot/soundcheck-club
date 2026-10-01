@@ -1,14 +1,15 @@
 # Mariami
 
-Mariami is a Techno and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at fi, Cologne on Sat, 10 Oct 2026.
+Mariami is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at fi, Cologne on Sat, 10 Oct 2026.
 
-Mariami is a techno and house artist based in Georgia, tracked on soundcheck, with 55 sets logged across Berlin, Brussels, Cologne and Munich and 3 more. Often billed alongside Dornen, Måtyrer and lomi. Next up: fi, Cologne on Sat 10 Oct.
+Mariami is a techno and house artist based in Georgia, tracked on soundcheck, with 56 sets logged across Berlin, Brussels, Cologne and Munich and 3 more. Often billed alongside Dornen, Måtyrer and lomi. Next up: fi, Cologne on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | fi | Cologne |
+| Wed, 11 Nov 2026 | Tresor / Globus | Berlin |
 | Sat, 28 Nov 2026 | fi | Cologne |
 
 ## Recently played

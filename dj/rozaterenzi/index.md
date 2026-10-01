@@ -1,8 +1,8 @@
 # Roza Terenzi
 
-Roza Terenzi is a Techno and House artist with 8 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at CLUB RAUM, Amsterdam on Sat, 3 Oct 2026.
+Roza Terenzi is a Techno and House artist with 9 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at CLUB RAUM, Amsterdam on Sat, 3 Oct 2026.
 
-Roza Terenzi is a techno and house artist based in Australia, tracked on soundcheck, with 209 sets logged across Amsterdam, Athens, Auckland and Austin and 54 more. Often billed alongside ISAbella, D. Tiffany and THC. Next up: CLUB RAUM, Amsterdam on Sat 3 Oct.
+Roza Terenzi is a techno and house artist based in Australia, tracked on soundcheck, with 210 sets logged across Amsterdam, Athens, Auckland and Austin and 54 more. Often billed alongside ISAbella, D. Tiffany and THC. Next up: CLUB RAUM, Amsterdam on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Roza Terenzi is a techno and house artist based in Australia, tracked on soundch
 | Sat, 31 Oct 2026 | FOLD | London |
 | Sat, 5 Dec 2026 | TBA | Los Angeles |
 | Sat, 12 Dec 2026 | Liberty Hall | Sydney |
+| Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
 

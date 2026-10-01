@@ -1,8 +1,8 @@
 # FEZZO
 
-FEZZO is a Techno and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kramladen, Vienna on Thu, 1 Oct 2026.
+FEZZO is a Techno and Hardcore artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kramladen, Vienna on Thu, 1 Oct 2026.
 
-FEZZO is a techno and tech house artist based in Germany, tracked on soundcheck, with 6 sets logged across Berlin, Buenos Aires, Malta and Vienna. Often billed alongside FKNSIL, RuBi. and ALLES ATZIG. Next up: Kramladen, Vienna on Thu 1 Oct.
+FEZZO is a techno and hardcore artist based in Germany, tracked on soundcheck, with 7 sets logged across Berlin, Buenos Aires, Malta and Vienna. Often billed alongside FKNSIL, RuBi. and ClubSubbe. Next up: Kramladen, Vienna on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ FEZZO is a techno and tech house artist based in Germany, tracked on soundcheck,
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Kramladen | Vienna |
 | Fri, 2 Oct 2026 | Puma Käfig Berlin | Berlin |
+| Fri, 2 Oct 2026 | TBA - Motzener Straße 5, 12277 Berlin | Berlin |
 
 ## Recently played
 
@@ -20,6 +21,6 @@ FEZZO is a techno and tech house artist based in Germany, tracked on soundcheck,
 
 ## Shares bills with
 
-FKNSIL, RuBi., ALLES ATZIG
+FKNSIL, RuBi., ClubSubbe
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/fezzo/)*

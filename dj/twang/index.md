@@ -1,13 +1,14 @@
 # Twang
 
-Twang is a Techno and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at DRUMSHEDS, London on Sat, 24 Oct 2026.
+Twang is a Techno and Club artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at NUMBER 90 LONDON, London on Sat, 3 Oct 2026.
 
-Twang is a techno and house artist based in United Kingdom, tracked on soundcheck, with 40 sets logged across Athens, Berlin, Leipzig and London and 1 more. Often billed alongside TEDESCO, THEMPRESS and ASHTREY. Next up: DRUMSHEDS, London on Sat 24 Oct.
+Twang is a techno and club artist based in United Kingdom, tracked on soundcheck, with 41 sets logged across Athens, Berlin, Leipzig and London and 1 more. Often billed alongside TEDESCO, ENGALANAN and THEMPRESS. Next up: NUMBER 90 LONDON, London on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | NUMBER 90 LONDON | London |
 | Sat, 24 Oct 2026 | DRUMSHEDS | London |
 | Fri, 30 Oct 2026 | Eutopia Warehouse | London |
 | Thu, 31 Dec 2026 | OST | Berlin |
@@ -25,6 +26,6 @@ Twang is a techno and house artist based in United Kingdom, tracked on soundchec
 
 ## Shares bills with
 
-TEDESCO, THEMPRESS, ASHTREY
+TEDESCO, ENGALANAN, THEMPRESS
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/twang/)*

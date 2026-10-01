@@ -1,14 +1,15 @@
 # Kurilo
 
-Kurilo is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
+Kurilo is a House and Techno artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Kater, Berlin on Fri, 2 Oct 2026.
 
-Kurilo is a house and techno artist based in Ukraine, tracked on soundcheck, with 123 sets logged across Berlin, Boston, Detroit and Krakow and 8 more. Often billed alongside J. Richards, Mazko A and CAMILLA. Next up: Kater, Berlin on Fri 2 Oct.
+Kurilo is a house and techno artist based in Ukraine, tracked on soundcheck, with 124 sets logged across Berlin, Boston, Detroit and Krakow and 8 more. Often billed alongside J. Richards, Mazko A and CAMILLA. Next up: Kater, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Kater | Berlin |
+| Fri, 2 Oct 2026 | Club der Visionaere | Berlin |
 | Sun, 11 Oct 2026 | feedbk | New York City |
 | Sat, 24 Oct 2026 | Outer Heaven | New York City |
 | Fri, 30 Oct 2026 | Signal | New York City |

@@ -1,13 +1,14 @@
 # LeoSkiDj
 
-LeoSkiDj is a Techno and Psytrance artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Prisma, Berlin on Thu, 29 Oct 2026.
+LeoSkiDj is a Techno and Psytrance artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at KitKatClub, Berlin on Wed, 28 Oct 2026.
 
-LeoSkiDj is a techno and psytrance artist based in Italy, tracked on soundcheck, with 41 sets logged across Berlin and Frankfurt. Often billed alongside DJ Jordan, Grace Thompson and A.N.I.. Next up: Prisma, Berlin on Thu 29 Oct.
+LeoSkiDj is a techno and psytrance artist based in Italy, tracked on soundcheck, with 42 sets logged across Berlin and Frankfurt. Often billed alongside DJ Jordan, Grace Thompson and A.N.I.. Next up: KitKatClub, Berlin on Wed 28 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Wed, 28 Oct 2026 | KitKatClub | Berlin |
 | Thu, 29 Oct 2026 | Prisma | Berlin |
 
 ## Recently played

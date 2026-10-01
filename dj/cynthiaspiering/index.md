@@ -1,8 +1,8 @@
 # Cynthia Spiering
 
-Cynthia Spiering is a Techno and House artist with 5 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
+Cynthia Spiering is a Techno and House artist with 6 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Ndsm Wharf, Amsterdam on Fri, 23 Oct 2026.
 
-Cynthia Spiering is a techno and house artist based in Netherlands, tracked on soundcheck, with 113 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 19 more. Often billed alongside DIØN, KARAH and Aphøtic. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
+Cynthia Spiering is a techno and house artist based in Netherlands, tracked on soundcheck, with 114 sets logged across Amsterdam, Barcelona, Berlin and Budapest and 19 more. Often billed alongside DIØN, KARAH and Aphøtic. Next up: Ndsm Wharf, Amsterdam on Fri 23 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Cynthia Spiering is a techno and house artist based in Netherlands, tracked on s
 | Sat, 31 Oct 2026 | Maassilo | Rotterdam |
 | Sat, 14 Nov 2026 | BASIS | Utrecht |
 | Sun, 15 Nov 2026 | Thuishaven | Amsterdam |
+| Sat, 28 Nov 2026 | Patronaat | Amsterdam |
 | Thu, 31 Dec 2026 | Klokgebouw | Eindhoven |
 
 ## Recently played

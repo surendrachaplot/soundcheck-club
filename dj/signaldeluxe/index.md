@@ -1,13 +1,14 @@
 # Signal Deluxe
 
-Signal Deluxe is a Techno and Electro artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at OHM, Berlin on Sat, 7 Nov 2026.
+Signal Deluxe is a Techno and Electro artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Club der Visionaere, Berlin on Thu, 1 Oct 2026.
 
-Signal Deluxe is a techno and electro artist based in Germany, tracked on soundcheck, with 13 sets logged across Berlin and Mexico City. Often billed alongside KONZ, djslut and orti. Next up: OHM, Berlin on Sat 7 Nov.
+Signal Deluxe is a techno and electro artist based in Germany, tracked on soundcheck, with 14 sets logged across Berlin and Mexico City. Often billed alongside KONZ, djslut and orti. Next up: Club der Visionaere, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Club der Visionaere | Berlin |
 | Sat, 7 Nov 2026 | OHM | Berlin |
 
 ## Recently played

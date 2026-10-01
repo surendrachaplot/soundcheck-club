@@ -1,13 +1,14 @@
 # G4F4RØU
 
-G4F4RØU is a Trance and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at TBA - Rauxxxxs, Berlin on Sat, 14 Nov 2026.
+G4F4RØU is a Trance and Techno artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at ÆDEN, Berlin on Fri, 23 Oct 2026.
 
-G4F4RØU is a trance and techno artist based in Germany, tracked on soundcheck, with 11 sets logged across Berlin and Hamburg. Often billed alongside Zelyna je Belle, San Regret and Baerbel. Next up: TBA - Rauxxxxs, Berlin on Sat 14 Nov.
+G4F4RØU is a trance and techno artist based in Germany, tracked on soundcheck, with 12 sets logged across Berlin and Hamburg. Often billed alongside Zelyna je Belle, San Regret and Baerbel. Next up: ÆDEN, Berlin on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | ÆDEN | Berlin |
 | Sat, 14 Nov 2026 | TBA - Rauxxxxs | Berlin |
 
 ## Recently played

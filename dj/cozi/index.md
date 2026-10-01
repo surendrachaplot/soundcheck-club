@@ -1,8 +1,8 @@
 # COZi
 
-COZi is a House and Techno artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 17 Oct 2026.
+COZi is a House and Techno artist with 4 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at SISSI'S Amsterdam, Amsterdam on Sat, 17 Oct 2026.
 
-COZi is a house and techno artist based in Australia, tracked on soundcheck, with 41 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 7 more. Often billed alongside Elijah Something, Sasha Milani and Aldonna. Next up: SISSI'S Amsterdam, Amsterdam on Sat 17 Oct.
+COZi is a house and techno artist based in Australia, tracked on soundcheck, with 42 sets logged across Amsterdam, Barcelona, Belgrade and Berlin and 8 more. Often billed alongside Elijah Something, Sasha Milani and Aldonna. Next up: SISSI'S Amsterdam, Amsterdam on Sat 17 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ COZi is a house and techno artist based in Australia, tracked on soundcheck, wit
 | Sat, 17 Oct 2026 | SISSI'S Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | RSO.BERLIN | Berlin |
 | Sun, 25 Oct 2026 | Noorderlicht Café | Amsterdam |
+| Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
 

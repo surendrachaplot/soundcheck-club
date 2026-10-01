@@ -17,7 +17,7 @@ TILLATEC is a music venue in Amsterdam listed on soundcheck. 12 upcoming gigs, w
 | Fri, 23 Oct 2026 | Disturbia x Soundcora - ADE 2026 | Andy Garvey, Andy Martin, Anika Kunst, Cassy, Clarisa Kimskii, Eduardo de la Calle, Efdemin, HERMETICA, John Talabot, Judy (ES), Konduku, Makam, Mario Picosso, Mystral, Nacho, Raquel Cruz, Shoal, Valody |
 | Fri, 23 Oct 2026 | Vinylism x ADE |  |
 | Sat, 24 Oct 2026 | Home Again x Sound Metaphors x Basement Love Fundraiser | Bambounou, Black Loops, Blame Anthony, Butterhands, Cinthie, Dan Shake, David Vunk, Doppelgang, Doudou MD, Duncan Thomas, Giammarco Orsini, LOVEFOXY, Merve, Natalie Robinson, PNNY, Simone de Kunovich, Sound Metaphors Djs, Thabo, Tiago Oudman, Tom Trago, bullet tooth |
-| Sat, 24 Oct 2026 | TILLATEC invites IsBurning, Cruise, Mala Junta, tINI & THE GANG |  |
+| Sat, 24 Oct 2026 | TILLATEC invites IsBurning, Cruise, Mala Junta, tINI AND THE GANG |  |
 
 ## Address
 

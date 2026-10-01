@@ -1,13 +1,14 @@
 # Baron
 
-Baron is a House and Tech House artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Crane Hotel Faralda, Amsterdam on Sun, 25 Oct 2026.
+Baron is a House and Tech House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
-Baron is a house and tech house artist based in France, tracked on soundcheck, with 5 sets logged across Amsterdam, Berlin, London and Mykonos and 1 more. Often billed alongside Dorian Craft, Asch Pintura and Bedouin. Next up: Crane Hotel Faralda, Amsterdam on Sun 25 Oct.
+Baron is a house and tech house artist based in France, tracked on soundcheck, with 6 sets logged across Amsterdam, Berlin, London and Mykonos and 1 more. Often billed alongside Dorian Craft, Aftersunday and Asch Pintura. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Smokey Club | Amsterdam |
 | Sun, 25 Oct 2026 | Crane Hotel Faralda | Amsterdam |
 
 ## Recently played
@@ -19,6 +20,6 @@ Baron is a house and tech house artist based in France, tracked on soundcheck, w
 
 ## Shares bills with
 
-Dorian Craft, Asch Pintura, Bedouin
+Dorian Craft, Aftersunday, Asch Pintura
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/baron-fr/)*

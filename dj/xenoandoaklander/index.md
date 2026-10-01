@@ -1,14 +1,15 @@
 # Xeno & Oaklander
 
-Xeno & Oaklander is a Industrial and Minimal artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at Xanadu, New York City on Fri, 16 Oct 2026.
+Xeno & Oaklander is a Industrial and New Wave artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Xanadu, New York City on Fri, 16 Oct 2026.
 
-Xeno & Oaklander are an industrial and minimal duo based in United States of America, tracked on soundcheck, with 18 sets logged across Austin, Berlin, Chicago and Los Angeles and 6 more. Often billed alongside L.Sangre, Martial Canterel and ADULT.. Next up: Xanadu, New York City on Fri 16 Oct.
+Xeno & Oaklander are an industrial and new wave duo based in United States of America, tracked on soundcheck, with 19 sets logged across Austin, Berlin, Chicago and Los Angeles and 6 more. Often billed alongside L.Sangre, Martial Canterel and ADULT.. Next up: Xanadu, New York City on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Xanadu | New York City |
+| Thu, 17 Dec 2026 | Kantine am Berghain | Berlin |
 
 ## Recently played
 

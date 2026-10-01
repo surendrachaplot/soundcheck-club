@@ -1,13 +1,14 @@
 # Vanee
 
-Vanee is a Tech House and Techno artist with 1 upcoming club date listed on soundcheck as of Thu, 1 Oct 2026, next at NIX Barcelon, Barcelona on Fri, 23 Oct 2026.
+Vanee is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at Smokey Club, Amsterdam on Thu, 22 Oct 2026.
 
-Vanee is a tech house and techno artist tracked on soundcheck, with 26 sets logged across Barcelona, Frankfurt, Ibiza and London and 2 more. Often billed alongside Joseph Capriati, Mason Collective and AJ Christou. Next up: NIX Barcelon, Barcelona on Fri 23 Oct.
+Vanee is a tech house and house artist tracked on soundcheck, with 27 sets logged across Amsterdam, Barcelona, Frankfurt and Ibiza and 3 more. Often billed alongside Joseph Capriati, Mason Collective and AJ Christou. Next up: Smokey Club, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Smokey Club | Amsterdam |
 | Fri, 23 Oct 2026 | NIX Barcelon | Barcelona |
 
 ## Recently played

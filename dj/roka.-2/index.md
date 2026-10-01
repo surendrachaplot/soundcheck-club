@@ -1,8 +1,8 @@
 # Roka
 
-Roka is a Tech House and House artist with 2 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OneSixOne, Melbourne on Sun, 4 Oct 2026.
+Roka is a Tech House and House artist with 3 upcoming club dates listed on soundcheck as of Thu, 1 Oct 2026, next at OneSixOne, Melbourne on Sun, 4 Oct 2026.
 
-Roka is a tech house and house artist based in Australia, tracked on soundcheck, with 21 sets logged across London and Melbourne. Often billed alongside Séarlait, Char(k) and DJ Possum. Next up: OneSixOne, Melbourne on Sun 4 Oct.
+Roka is a tech house and house artist based in Australia, tracked on soundcheck, with 22 sets logged across London and Melbourne. Often billed alongside Séarlait, Char(k) and DJ Possum. Next up: OneSixOne, Melbourne on Sun 4 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Roka is a tech house and house artist based in Australia, tracked on soundcheck,
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | OneSixOne | Melbourne |
 | Sun, 1 Nov 2026 | Revolver Upstairs | Melbourne |
+| Sat, 19 Dec 2026 | Heide Museum of Modern Art Sculpture Park | Melbourne |
 
 ## Recently played
 
