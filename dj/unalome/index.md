@@ -1,8 +1,8 @@
 # Unalome
 
-Unalome is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Waalhalla, Nijmegen on Sat, 10 Oct 2026.
+Unalome is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Waalhalla, Nijmegen on Sat, 10 Oct 2026.
 
-Unalome is a techno and psytrance artist based in Netherlands, with 12 gigs on soundcheck across Amsterdam, Melbourne, Nijmegen and Rotterdam and 1 more. Often billed alongside Ivano Tetelepta, Vand and ESHU. Next up: Waalhalla, Nijmegen on Sat 10 Oct.
+Unalome is a techno and tech house artist based in Netherlands, with 13 gigs on soundcheck across Amsterdam, Melbourne, Nijmegen and Rotterdam and 1 more. Often billed alongside Ivano Tetelepta, Vand and ESHU. Next up: Waalhalla, Nijmegen on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Unalome is a techno and psytrance artist based in Netherlands, with 12 gigs on s
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Waalhalla | Nijmegen |
 | Sat, 10 Oct 2026 | TBA - Il Mercato Centrale | Melbourne |
+| Sat, 24 Oct 2026 | TBA - Il Mercato Centrale | Melbourne |
 
 ## Recently played
 

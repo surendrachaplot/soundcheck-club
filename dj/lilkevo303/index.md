@@ -1,15 +1,15 @@
 # Lil Kevo 303
 
-Lil Kevo 303 is a Breakcore and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Vespers Club, London on Sat, 3 Oct 2026.
+Lil Kevo 303 is a Breakcore and Hardcore artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The DBA, Manchester on Mon, 12 Oct 2026.
 
-Lil Kevo 303 is a breakcore and hardcore artist based in United States of America, with 38 gigs on soundcheck across Barcelona, Berlin, Birmingham and Boston and 15 more. Often billed alongside Hitori Tori, 99jakes and RiDylan. Next up: Vespers Club, London on Sat 3 Oct.
+Lil Kevo 303 is a breakcore and hardcore artist based in United States of America, with 38 gigs on soundcheck across Barcelona, Berlin, Birmingham and Boston and 15 more. Often billed alongside Hitori Tori, 99jakes and RiDylan. Next up: The DBA, Manchester on Mon 12 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Vespers Club | London |
 | Mon, 12 Oct 2026 | The DBA | Manchester |
+| Wed, 14 Oct 2026 | Vespers Club | London |
 | Fri, 23 Oct 2026 | Suki10c | Birmingham |
 
 ## Recently played

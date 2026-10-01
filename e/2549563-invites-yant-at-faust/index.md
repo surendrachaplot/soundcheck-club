@@ -1,6 +1,6 @@
 # INVITES: YANT at Faust
 
-INVITES: YANT at Faust on Sat 17 Oct, Seoul. 5 artists: Marcus L, Sol (KR), Suman and Yantan Ministry and 1 more. See the line-up on soundcheck.
+INVITES: YANT at Faust on Sat 17 Oct, Seoul. 5 artists: Marcus L, Sol (KR), Suman and Yant and 1 more. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,7 +13,7 @@ INVITES: YANT at Faust on Sat 17 Oct, Seoul. 5 artists: Marcus L, Sol (KR), Suma
 - Marcus L
 - Sol (KR)
 - Suman
-- Yantan Ministry
+- Yant
 - Yuriko (2)
 
 *Source: [soundcheck](https://soundcheck.club/e/2549563-invites-yant-at-faust/)*

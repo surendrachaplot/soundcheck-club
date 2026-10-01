@@ -1,6 +1,6 @@
 # Changeover Festival 2026 at TBA - Belgrade Around City Centre
 
-Changeover Festival 2026 at TBA - Belgrade Around City Centre on Wed 7 Oct, Belgrade. 3 artists: Jabu, Still House Plants and The Lost Boys. Experimental and Post-Punk. See the line-up on soundcheck.
+Changeover Festival 2026 at TBA - Belgrade Around City Centre on Wed 7 Oct, Belgrade. 4 artists: Jabu, Obi Blanche, Still House Plants and The Lost Boys. Experimental and Post-Punk. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,6 +11,7 @@ Changeover Festival 2026 at TBA - Belgrade Around City Centre on Wed 7 Oct, Belg
 ## Line-up
 
 - Jabu
+- Obi Blanche
 - Still House Plants
 - The Lost Boys
 

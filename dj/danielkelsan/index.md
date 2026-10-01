@@ -1,14 +1,15 @@
 # Daniel Kelsan
 
-Daniel Kelsan is a Electronica and Trance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 2 Oct 2026.
+Daniel Kelsan is a Electronica and Trance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Doggy Klœb, Malaga on Fri, 2 Oct 2026.
 
-Daniel Kelsan is an electronica and trance artist based in Spain, with 28 gigs on soundcheck across Madrid, Malaga and Mexico City. Often billed alongside Certain People, Fuentes-Guerra and Mena G. Next up: Doggy Klœb, Malaga on Fri 2 Oct.
+Daniel Kelsan is an electronica and trance artist based in Spain, with 29 gigs on soundcheck across Madrid, Malaga and Mexico City. Often billed alongside Certain People, Fuentes-Guerra and Mena G. Next up: Doggy Klœb, Malaga on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Doggy Klœb | Malaga |
+| Fri, 16 Oct 2026 | The Club (Málaga) | Malaga |
 
 ## Recently played
 

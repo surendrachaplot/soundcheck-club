@@ -1,6 +1,6 @@
 # Golden Record NYC x Third Floor Sounds present Maurice Fulton at Green Room NYC
 
-Golden Record NYC x Third Floor Sounds present Maurice Fulton at Green Room NYC on Sat 10 Oct, New York City. 7 artists: Mario Polanco, Martín, Maurice Fulton and Miss Gypsy and 3 more. Techno and House. See the line-up on soundcheck.
+Golden Record NYC x Third Floor Sounds present Maurice Fulton at Green Room NYC on Sat 10 Oct, New York City. 6 artists: Mario Polanco, Maurice Fulton, Miss Gypsy and Morgan and 2 more. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -11,7 +11,6 @@ Golden Record NYC x Third Floor Sounds present Maurice Fulton at Green Room NYC 
 ## Line-up
 
 - Mario Polanco
-- Martín
 - Maurice Fulton
 - Miss Gypsy
 - Morgan

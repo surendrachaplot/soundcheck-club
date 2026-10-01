@@ -1,13 +1,14 @@
 # Misty
 
-Misty is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Matakanarama Festival Site, Auckland on Tue, 29 Dec 2026.
+Misty is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Noord, Amsterdam on Thu, 22 Oct 2026.
 
-Misty is a techno and house artist, with 15 gigs on soundcheck across Auckland, Ghent, Kyoto and Lisbon and 4 more. Often billed alongside Cine, MINERVA and Tetsuo. Next up: Matakanarama Festival Site, Auckland on Tue 29 Dec.
+Misty is a techno and house artist, with 16 gigs on soundcheck across Amsterdam, Auckland, Ghent and Kyoto and 5 more. Often billed alongside Cine, MINERVA and Tetsuo. Next up: Garage Noord, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 22 Oct 2026 | Garage Noord | Amsterdam |
 | Tue, 29 Dec 2026 | Matakanarama Festival Site | Auckland |
 
 ## Recently played

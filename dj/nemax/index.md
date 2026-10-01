@@ -1,14 +1,16 @@
 # Nemax
 
-Nemax is a House and Minimal artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Kult, Belgrade on Sat, 3 Oct 2026.
+Nemax is a House and Minimal artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kult, Belgrade on Sat, 3 Oct 2026.
 
-Nemax is a house and minimal artist, with 39 gigs on soundcheck across Belgrade. Often billed alongside Mene, Cosmic G and Dakman. Next up: Kult, Belgrade on Sat 3 Oct.
+Nemax is a house and minimal artist, with 41 gigs on soundcheck across Belgrade. Often billed alongside Mene, Cosmic G and Dakman. Next up: Kult, Belgrade on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Kult | Belgrade |
+| Fri, 6 Nov 2026 | Kult | Belgrade |
+| Fri, 27 Nov 2026 | Kult | Belgrade |
 
 ## Recently played
 

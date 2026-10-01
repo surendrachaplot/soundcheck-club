@@ -1,8 +1,8 @@
 # Nive
 
-Nive is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
+Nive is a Techno and Trance artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Locations in Innsbruck, Austria on Thu, 15 Oct 2026.
 
-Nive is a techno and house artist based in Switzerland, with 40 gigs on soundcheck across Amsterdam, Austria, Berlin and Düsseldorf and 5 more. Often billed alongside Dominik André, Luka (CH) and Rearte. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
+Nive is a techno and trance artist based in Switzerland, with 41 gigs on soundcheck across Amsterdam, Austria, Basel and Berlin and 6 more. Often billed alongside Dominik André, Luka (CH) and Rearte. Next up: TBA - Various Locations in Innsbruck, Austria on Thu 15 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Nive is a techno and house artist based in Switzerland, with 40 gigs on soundche
 | Thu, 15 Oct 2026 | TBA - Various Locations in Innsbruck | Austria |
 | Fri, 16 Oct 2026 | Hidden Sounds | London |
 | Thu, 22 Oct 2026 | Sankt Bartlmä, Halle 6, Innsbruck | Austria |
+| Sat, 28 Nov 2026 | Nest | Basel |
 
 ## Recently played
 

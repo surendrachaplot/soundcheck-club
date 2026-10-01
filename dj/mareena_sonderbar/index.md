@@ -1,14 +1,15 @@
 # Mareena
 
-Mareena is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
+Mareena is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 고성 잼버리 수련장, 강원도, South-korea on Sat, 3 Oct 2026.
 
-Mareena is a techno and house artist based in Germany, with 109 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 30 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: TBA - 고성 잼버리 수련장, 강원도, South Korea on Sat 3 Oct.
+Mareena is a techno and house artist based in Germany, with 110 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 31 more. Often billed alongside Kerrie, JakoJako and Steve Bicknell. Next up: TBA - 고성 잼버리 수련장, 강원도, South Korea on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - 고성 잼버리 수련장, 강원도 | South-korea |
+| Fri, 23 Oct 2026 | Drugstore Beograd | Belgrade |
 | Fri, 13 Nov 2026 | CLUB RAUM | Amsterdam |
 
 ## Recently played

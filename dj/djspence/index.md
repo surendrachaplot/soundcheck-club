@@ -1,8 +1,8 @@
 # DJ Spence
 
-DJ Spence is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
+DJ Spence is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at THE OTHER SIDE, Amsterdam on Thu, 22 Oct 2026.
 
-DJ Spence is a techno and house artist based in Canada, with 43 gigs on soundcheck across Amsterdam, Berlin, Brussels and Krakow and 13 more. Often billed alongside PLO Man, DJ Frog and Excalibur. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
+DJ Spence is a techno and house artist based in Canada, with 44 gigs on soundcheck across Amsterdam, Berlin, Brussels and Krakow and 13 more. Often billed alongside PLO Man, DJ Frog and Excalibur. Next up: THE OTHER SIDE, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DJ Spence is a techno and house artist based in Canada, with 43 gigs on soundche
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | THE OTHER SIDE | Amsterdam |
 | Fri, 23 Oct 2026 | Lasociaciøn | Madrid |
+| Fri, 30 Oct 2026 | ESC | Montreal |
 
 ## Recently played
 

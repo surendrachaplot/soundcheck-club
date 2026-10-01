@@ -1,8 +1,8 @@
 # Liam Palmer
 
-Liam Palmer is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
+Liam Palmer is a House and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at A'DAM Toren, Amsterdam on Wed, 21 Oct 2026.
 
-Liam Palmer is a house and tech house artist based in United Kingdom, with 157 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
+Liam Palmer is a house and tech house artist based in United Kingdom, with 158 gigs on soundcheck across Amsterdam, Auckland, Barcelona and Berlin and 25 more. Often billed alongside Elliot Schooling, Locky and L.P. Rhythm. Next up: A'DAM Toren, Amsterdam on Wed 21 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Liam Palmer is a house and tech house artist based in United Kingdom, with 157 g
 | Wed, 21 Oct 2026 | A'DAM Toren | Amsterdam |
 | Fri, 23 Oct 2026 | Shelter Amsterdam | Amsterdam |
 | Sat, 31 Oct 2026 | Ironworks | London |
+| Fri, 11 Dec 2026 | fabric | London |
 
 ## Recently played
 

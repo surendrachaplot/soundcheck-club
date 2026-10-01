@@ -1,8 +1,8 @@
 # Mechatok
 
-Mechatok is a Experimental and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Parallel, Amsterdam on Thu, 22 Oct 2026.
+Mechatok is a Experimental and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Parallel, Amsterdam on Thu, 22 Oct 2026.
 
-Mechatok is an experimental and electro artist based in Germany, with 73 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Oli XL, Kamixlo and Crystallmess. Next up: Parallel, Amsterdam on Thu 22 Oct.
+Mechatok is an experimental and electro artist based in Germany, with 74 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 22 more. Often billed alongside Oli XL, Kamixlo and TOXE. Next up: Parallel, Amsterdam on Thu 22 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Mechatok is an experimental and electro artist based in Germany, with 73 gigs on
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Parallel | Amsterdam |
 | Sat, 24 Oct 2026 | Melkweg | Amsterdam |
+| Sat, 14 Nov 2026 | Village Underground | London |
 
 ## Recently played
 
@@ -24,6 +25,6 @@ Mechatok is an experimental and electro artist based in Germany, with 73 gigs on
 
 ## Shares bills with
 
-Oli XL, Kamixlo, Crystallmess
+Oli XL, Kamixlo, TOXE
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mechatok/)*

@@ -1,13 +1,14 @@
 # LAUT
 
-LAUT is a music venue in Barcelona with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Delta Funktionen + Radial" on Fri, 2 Oct 2026.
+LAUT is a music venue in Barcelona with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Yaunest + Silvio" on Thu, 1 Oct 2026.
 
-LAUT is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with line-ups including Binomi, Black Devil Disco Club, BLNDFLD and Delta Funktionen and 2 more. See dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
+LAUT is a music venue in Barcelona listed on soundcheck. 16 upcoming gigs, with line-ups including Binomi, Black Devil Disco Club, BLNDFLD and Delta Funktionen and 2 more. See dates, start times and who's playing. Carrer de Vila i Vilà, 63, 08004 Barcelona, Spain.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Yaunest + Silvio | Silvio |
 | Fri, 2 Oct 2026 | Delta Funktionen + Radial | Delta Funktionen, Radial |
 | Sat, 3 Oct 2026 | Samira + Spacer | Samira (NL), Spacer |
 | Fri, 9 Oct 2026 | Buit: Kinetic + oma totem | Kinetic (2), oma totem |
@@ -17,7 +18,6 @@ LAUT is a music venue in Barcelona listed on soundcheck. 15 upcoming gigs, with 
 | Sat, 17 Oct 2026 | Moopie + Lucient | Lucient, Moopie |
 | Sun, 18 Oct 2026 | King Dude (US) + Espacio Vital (SP)_Barcelona_Southern Gothic_Folk |  |
 | Fri, 23 Oct 2026 | HOC 05: Katatonic Silentio & Binomi | Binomi, Katatonic Silentio |
-| Sat, 24 Oct 2026 | Solarmental + Tsott + BLNDFLD | BLNDFLD, Solarmental, Tsott |
 
 ## Address
 

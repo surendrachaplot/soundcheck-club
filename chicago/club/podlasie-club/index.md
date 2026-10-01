@@ -1,8 +1,8 @@
 # Podlasie Club
 
-Podlasie Club is a music venue in Chicago with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Darling's LA Bound" on Thu, 1 Oct 2026.
+Podlasie Club is a music venue in Chicago with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Darling's LA Bound" on Thu, 1 Oct 2026.
 
-Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming gigs, with line-ups including avas, Beau Wanzer, Bok Bok and Carré and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
+Podlasie Club is a music venue in Chicago listed on soundcheck. 12 upcoming gigs, with line-ups including avas, Beau Wanzer, Beverly Chills and Bok Bok and 2 more. See dates, start times and who's playing. 2918 N Central Park Ave, Avondale, Chicago, IL, 60618.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Podlasie Club is a music venue in Chicago listed on soundcheck. 10 upcoming gigs
 | Sat, 10 Oct 2026 | Atrium: First Touch & Drone Orchestra | chelliah |
 | Thu, 15 Oct 2026 | SUBVERSIVE | Choirgirl |
 | Fri, 16 Oct 2026 | Club Initiative | Bok Bok, Jace Inman, avas |
-| Wed, 21 Oct 2026 | Various Distractions | Beau Wanzer |
+| Sat, 17 Oct 2026 | Ariel Zetina presents Rosebud;!;!;!;!;!;!; | Beverly Chills, DYLUSION, Dj Having Sex, Papa Xanny, nonsuit |
 
 ## Address
 

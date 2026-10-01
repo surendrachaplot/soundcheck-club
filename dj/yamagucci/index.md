@@ -1,8 +1,8 @@
 # Yamagucci
 
-Yamagucci is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gallery, London on Thu, 1 Oct 2026.
+Yamagucci is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gallery, London on Thu, 1 Oct 2026.
 
-Yamagucci is a house and techno artist based in United States of America, with 65 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 21 more. Often billed alongside Adam Ten, Mita Gami and SIEGEL. Next up: Gallery, London on Thu 1 Oct.
+Yamagucci is a house and techno artist based in United States of America, with 66 gigs on soundcheck across Amsterdam, Austin, Barcelona and Berlin and 22 more. Often billed alongside Adam Ten, Mita Gami and SIEGEL. Next up: Gallery, London on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Yamagucci is a house and techno artist based in United States of America, with 6
 | Fri, 9 Oct 2026 | Pacha New York | New York City |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 28 Nov 2026 | Prysm Nightclub | Chicago |
+| Sat, 5 Dec 2026 | San Cristobal de las Casas | Chiapas |
 
 ## Recently played
 

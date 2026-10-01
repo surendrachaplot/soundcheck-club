@@ -1,13 +1,14 @@
 # Dj Kerry
 
-Dj Kerry is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat, 14 Nov 2026.
+Dj Kerry is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - address will be sent to ticket holders, Los Angeles on Sat, 10 Oct 2026.
 
-Dj Kerry is a house and disco artist based in United States of America, with 47 gigs on soundcheck across Los Angeles, New York City, Osaka and San Francisco/Oakland and 1 more. Often billed alongside Stacy Christine, Heidi Lawden and Masha Mar. Next up: TBA - 2341 E Olympic Blvd Los Angeles, CA  90021, Los Angeles on Sat 14 Nov.
+Dj Kerry is a house and disco artist based in United States of America, with 48 gigs on soundcheck across Los Angeles, New York City, Osaka and San Francisco/Oakland and 1 more. Often billed alongside Stacy Christine, Heidi Lawden and Masha Mar. Next up: TBA - address will be sent to ticket holders, Los Angeles on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | TBA - address will be sent to ticket holders | Los Angeles |
 | Sat, 14 Nov 2026 | TBA - 2341 E Olympic Blvd Los Angeles, CA  90021 | Los Angeles |
 
 ## Recently played

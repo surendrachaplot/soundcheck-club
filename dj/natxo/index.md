@@ -1,14 +1,15 @@
 # Natxo
 
-Natxo is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at EL SÓTANO, Madrid on Thu, 29 Oct 2026.
+Natxo is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at EL SÓTANO, Madrid on Thu, 29 Oct 2026.
 
-Natxo is a trance and techno artist based in Spain, with 7 gigs on soundcheck across Madrid and Paris. Often billed alongside Pickheras, ildec and Belkan. Next up: EL SÓTANO, Madrid on Thu 29 Oct.
+Natxo is a trance and techno artist based in Spain, with 8 gigs on soundcheck across Madrid and Paris. Often billed alongside Pickheras, ildec and Belkan. Next up: EL SÓTANO, Madrid on Thu 29 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 29 Oct 2026 | EL SÓTANO | Madrid |
+| Thu, 26 Nov 2026 | EL SÓTANO | Madrid |
 
 ## Recently played
 

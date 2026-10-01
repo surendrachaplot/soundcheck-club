@@ -2,12 +2,12 @@
 
 TBA - VOID is a music venue in Philadelphia with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Ignez: A Headroom Halloween" on Sat, 31 Oct 2026.
 
-TBA - VOID is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including Her Mans, Ignez, Kyle Kerns and ZIL (US). See dates, start times and who's playing.
+TBA - VOID is a music venue in Philadelphia listed on soundcheck. 1 upcoming gig, with line-ups including Hermans, Ignez, Kyle Kerns and ZIL (US). See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 31 Oct 2026 | Ignez: A Headroom Halloween | Her Mans, Ignez, Kyle Kerns, ZIL (US) |
+| Sat, 31 Oct 2026 | Ignez: A Headroom Halloween | Hermans, Ignez, Kyle Kerns, ZIL (US) |
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/philadelphia/club/tba-void/)*

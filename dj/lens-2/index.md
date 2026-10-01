@@ -1,8 +1,8 @@
 # Lens (2)
 
-Lens (2) is a Drum & Bass and Dubstep artist with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Crypt (New Orleans), New-orleans on Sat, 3 Oct 2026.
+Lens (2) is a Drum & Bass and Dubstep artist with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Crypt (New Orleans), New-orleans on Sat, 3 Oct 2026.
 
-Lens is a drum & bass and dubstep artist based in United Kingdom, with 28 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 18 more. Often billed alongside Mozey, Oppidan and Benwal. Next up: The Crypt (New Orleans), New Orleans on Sat 3 Oct.
+Lens is a drum & bass and dubstep artist based in United Kingdom, with 29 gigs on soundcheck across Barcelona, Birmingham, Brighton and Brisbane and 19 more. Often billed alongside Mozey, Oppidan and Benwal. Next up: The Crypt (New Orleans), New Orleans on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 28 gigs o
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | The Crypt (New Orleans) | New-orleans |
 | Fri, 9 Oct 2026 | Urban Lounge | Salt-lake-city |
+| Sat, 10 Oct 2026 | 1720 | Los Angeles |
 | Sun, 11 Oct 2026 | Holocene | Portland |
 | Sat, 17 Oct 2026 | Lost Horizon | Bristol |
 | Fri, 23 Oct 2026 | NUMBER 90 LONDON | London |
@@ -19,7 +20,6 @@ Lens is a drum & bass and dubstep artist based in United Kingdom, with 28 gigs o
 | Sat, 5 Dec 2026 | Le Centre: Hub Créatif | Quebec-city |
 | Sat, 5 Dec 2026 | Le Centre: Hub Creatif | Quebec-city |
 | Thu, 10 Dec 2026 | The Woodshop | New York City |
-| Mon, 28 Dec 2026 | TBA - Hagley Park | Christchurch |
 
 ## Recently played
 

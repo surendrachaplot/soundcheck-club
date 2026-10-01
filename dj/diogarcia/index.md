@@ -1,14 +1,15 @@
 # Dio Garcia
 
-Dio Garcia is a House and Acid artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Fri, 9 Oct 2026.
+Dio Garcia is a House and Acid artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Fri, 9 Oct 2026.
 
-Dio Garcia is a house and acid artist, with 45 gigs on soundcheck across New York City and Tokyo. Often billed alongside Marsweather, Serrian and Ben Zo. Next up: H0L0, New York City on Fri 9 Oct.
+Dio Garcia is a house and acid artist, with 46 gigs on soundcheck across New York City and Tokyo. Often billed alongside Marsweather, Serrian and Ben Zo. Next up: H0L0, New York City on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | H0L0 | New York City |
+| Thu, 22 Oct 2026 | SILO | New York City |
 
 ## Recently played
 

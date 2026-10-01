@@ -1,6 +1,6 @@
 # Karnak On Acid Milano with Jonny Rock Tony Serban Baby Bass at Altrove
 
-Karnak On Acid Milano with Jonny Rock Tony Serban Baby Bass at Altrove on Sat 10 Oct, Milan. 4 artists: Baby Bass, Jonny Rock, Karnak On Acid and Tony Serban. See the line-up on soundcheck.
+Karnak On Acid Milano with Jonny Rock Tony Serban Baby Bass at Altrove on Sat 10 Oct, Milan. 4 artists: BabyBass, Jonny Rock, Karnak On Acid and Tony Serban. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,7 @@ Karnak On Acid Milano with Jonny Rock Tony Serban Baby Bass at Altrove on Sat 10
 
 ## Line-up
 
-- Baby Bass
+- BabyBass
 - Jonny Rock
 - Karnak On Acid
 - Tony Serban

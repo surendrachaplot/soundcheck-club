@@ -1,14 +1,15 @@
 # Phil Spank
 
-Phil Spank is a House and Deep House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Foundry, San Francisco/Oakland on Fri, 2 Oct 2026.
+Phil Spank is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Foundry, San Francisco/Oakland on Fri, 2 Oct 2026.
 
-Phil Spank is a house and deep house artist, with 32 gigs on soundcheck across Los Angeles, Mexico City, New York City and Portland and 2 more. Often billed alongside Clancy Hickinbotham, natebytheway and Klaytron. Next up: The Foundry, San Francisco/Oakland on Fri 2 Oct.
+Phil Spank is a house and deep house artist, with 33 gigs on soundcheck across Los Angeles, Mexico City, New York City and Portland and 2 more. Often billed alongside Clancy Hickinbotham, natebytheway and Klaytron. Next up: The Foundry, San Francisco/Oakland on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Foundry | San Francisco/Oakland |
+| Sat, 17 Oct 2026 | Arcana | San Francisco/Oakland |
 
 ## Recently played
 

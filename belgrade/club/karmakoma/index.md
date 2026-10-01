@@ -12,7 +12,7 @@ Karmakoma is a music venue in Belgrade listed on soundcheck. 8 upcoming gigs, wi
 | Fri, 2 Oct 2026 | Filip Xavi, .Paragon, lirika | .Paragon, Filip Xavi |
 | Sat, 3 Oct 2026 | Zora Collective |  |
 | Sat, 17 Oct 2026 | Yes with Jasmín, Stevie Whisper, Lil Taty | Jasmín, Lil Taty, Stevie Whisper |
-| Fri, 23 Oct 2026 | Beyond House Bday with Mr. Ho | Mr. Ho |
+| Fri, 23 Oct 2026 | Beyond House Bday with Mr. Ho | Mr. Ho, Stellarcompanion |
 | Sat, 24 Oct 2026 | Disco Not Disco with Veronica Vasicka | Veronica Vasicka, schwabe |
 | Sat, 7 Nov 2026 | Evanora Unlimited | Evanora Unlimited |
 | Sat, 14 Nov 2026 | Lena Willikens, tsola | Lena Willikens, tsola |

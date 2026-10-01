@@ -2,7 +2,7 @@
 
 SIELO is a Tech House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lion Super Club, Seoul on Thu, 1 Oct 2026.
 
-SIELO is a tech house and progressive house artist, with 24 gigs on soundcheck across Seoul. Often billed alongside LOOZBONE, Juntaro and P.NUTZ. Next up: Lion Super Club, Seoul on Thu 1 Oct.
+SIELO is a tech house and progressive house artist based in South Korea, with 24 gigs on soundcheck across Seoul. Often billed alongside LOOZBONE, Juntaro and P.NUTZ. Next up: Lion Super Club, Seoul on Thu 1 Oct.
 
 ## Upcoming shows
 

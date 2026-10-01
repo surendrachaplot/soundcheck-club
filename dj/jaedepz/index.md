@@ -1,14 +1,15 @@
 # Jae Depz
 
-Jae Depz is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Nest, Nottingham on Sat, 17 Oct 2026.
+Jae Depz is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Nest, Nottingham on Sat, 17 Oct 2026.
 
-Jae Depz is a garage and house artist based in United Kingdom, with 9 gigs on soundcheck across Leeds, Manchester, Nottingham and Sheffield. Often billed alongside camukg, Bassboy and Burgaboy. Next up: The Nest, Nottingham on Sat 17 Oct.
+Jae Depz is a garage and house artist based in United Kingdom, with 10 gigs on soundcheck across Leeds, Manchester, Nottingham and Sheffield. Often billed alongside camukg, Bassboy and Burgaboy. Next up: The Nest, Nottingham on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | The Nest | Nottingham |
+| Sat, 21 Nov 2026 | Mint Warehouse | Leeds |
 
 ## Recently played
 

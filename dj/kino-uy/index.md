@@ -1,14 +1,15 @@
 # KINO (UY)
 
-KINO (UY) is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ring, Seoul on Sat, 3 Oct 2026.
+KINO (UY) is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ring, Seoul on Sat, 3 Oct 2026.
 
-KINO (UY) is a techno and house artist based in Uruguay, with 53 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Berlin and 18 more. Often billed alongside EMilio, DJ Masda and Nico Etorena. Next up: Ring, Seoul on Sat 3 Oct.
+KINO (UY) is a techno and house artist based in Uruguay, with 54 gigs on soundcheck across Amsterdam, Bali, Bangkok and Barcelona and 19 more. Often billed alongside EMilio, DJ Masda and Nico Etorena. Next up: Ring, Seoul on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Ring | Seoul |
+| Sat, 10 Oct 2026 | The Back Room | Bali |
 | Fri, 16 Oct 2026 | Revolver Upstairs | Melbourne |
 
 ## Recently played

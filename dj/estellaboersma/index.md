@@ -1,8 +1,8 @@
 # Estella Boersma
 
-Estella Boersma is a Techno and House artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
+Estella Boersma is a Techno and House artist with 9 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gotec, Karlsruhe on Sat, 3 Oct 2026.
 
-Estella Boersma is a techno and house artist based in Germany, with 178 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 60 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: Gotec, Karlsruhe on Sat 3 Oct.
+Estella Boersma is a techno and house artist based in Germany, with 179 gigs on soundcheck across Amsterdam, Antwerp, Athens and Austin and 61 more. Often billed alongside Patrick Mason, Daria Kolosova and Cera Khin. Next up: Gotec, Karlsruhe on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -16,6 +16,7 @@ Estella Boersma is a techno and house artist based in Germany, with 178 gigs on 
 | Wed, 28 Oct 2026 | Staatstheater & Alte Feuerwache | Saarland |
 | Fri, 13 Nov 2026 | Wigwam | Dublin |
 | Sat, 28 Nov 2026 | De Papierfabriek | Nijmegen |
+| Sat, 28 Nov 2026 | Inter-City | The Hague |
 
 ## Recently played
 

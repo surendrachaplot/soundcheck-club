@@ -1,23 +1,23 @@
 # Noxe Barcelona
 
-Noxe Barcelona is a music venue in Barcelona with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona)" on Thu, 1 Oct 2026.
+Noxe Barcelona is a music venue in Barcelona with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona)" on Thu, 1 Oct 2026.
 
-Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 11 upcoming gigs, with line-ups including Alex Silva, Deetres (ES), Drunk At Vogue and GIVIO and 2 more. See dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
+Noxe Barcelona is a music venue in Barcelona listed on soundcheck. 19 upcoming gigs, with line-ups including Alex Silva, Deetres (ES), Drunk At Vogue and GIVIO and 2 more. See dates, start times and who's playing. Plaça Rosa Del Vents 1, Final, Pg. de Joan de Borbó, 08039 Barcelona.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) | GIVIO, Nesi |
+| Mon, 5 Oct 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Tue, 6 Oct 2026 | FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) | Sarah Andersson, Vikki |
 | Wed, 7 Oct 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Alex Silva, Deetres (ES) |
 | Thu, 8 Oct 2026 | FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) | Nesi |
+| Mon, 12 Oct 2026 | Skylab at Noxe (26th floor W Barcelona) | Nesi |
 | Tue, 13 Oct 2026 | FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) | Vikki |
 | Wed, 14 Oct 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Alex Silva, Max Kion |
 | Thu, 15 Oct 2026 | FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) | GIVIO, Nesi |
 | Thu, 22 Oct 2026 | FREE GUEST LIST * HOPE at Noxe (26th floor W Barcelona) | Drunk At Vogue, Pau Grima |
-| Tue, 27 Oct 2026 | FREE GUEST LIST * Moods at Noxe (26th floor W Barcelona) | Vikki |
-| Wed, 28 Oct 2026 | FREE GUEST LIST * Housy at Noxe (26th floor W Barcelona) | Alex Silva, Drunk At Vogue |
 
 ## Address
 

@@ -1,13 +1,14 @@
 # Pholo
 
-Pholo is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Saloon, Tokyo on Sun, 22 Nov 2026.
+Pholo is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Saloon, Tokyo on Sun, 22 Nov 2026.
 
-Pholo is a bass and techno artist, with 17 gigs on soundcheck across Birmingham, London, Los Angeles and Manchester and 3 more. Often billed alongside Real Tears, .Cheka and 0akley. Next up: Saloon, Tokyo on Sun 22 Nov.
+Pholo is a bass and techno artist, with 18 gigs on soundcheck across Birmingham, London, Los Angeles and Manchester and 3 more. Often billed alongside Real Tears, illequal and .Cheka. Next up: Saloon, Tokyo on Sun 22 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sun, 22 Nov 2026 | Saloon | Tokyo |
 | Sun, 22 Nov 2026 | Saloon | Tokyo |
 
 ## Recently played
@@ -23,6 +24,6 @@ Pholo is a bass and techno artist, with 17 gigs on soundcheck across Birmingham,
 
 ## Shares bills with
 
-Real Tears, .Cheka, 0akley
+Real Tears, illequal, .Cheka
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/pholo/)*

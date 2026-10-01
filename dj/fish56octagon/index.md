@@ -9,7 +9,7 @@ Fish56Octagon is a house and techno artist based in United Kingdom, with 64 gigs
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | The Dome | Liverpool |
-| Fri, 30 Oct 2026 | TBA | Nottingham |
+| Fri, 30 Oct 2026 | TBA - Palais Nottingham | Nottingham |
 | Sat, 31 Oct 2026 | DRUMSHEDS | London |
 | Fri, 27 Nov 2026 | Digital | Newcastle |
 | Fri, 4 Dec 2026 | Mint Warehouse | Leeds |

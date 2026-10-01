@@ -1,8 +1,8 @@
 # Pullär
 
-Pullär is a Techno and Electronica artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Gata del Born, Barcelona on Fri, 2 Oct 2026.
+Pullär is a Techno and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Gata del Born, Barcelona on Fri, 2 Oct 2026.
 
-Pullär is a techno and electronica artist, with 6 gigs on soundcheck across Barcelona. Often billed alongside KRYTE, Franco Brida and Freeka. Next up: La Gata del Born, Barcelona on Fri 2 Oct.
+Pullär is a techno and electronica artist, with 7 gigs on soundcheck across Barcelona. Often billed alongside KRYTE, Franco Brida and Freeka. Next up: La Gata del Born, Barcelona on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Pullär is a techno and electronica artist, with 6 gigs on soundcheck across Bar
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | La Gata del Born | Barcelona |
 | Wed, 7 Oct 2026 | The Supermercat Gotico | Barcelona |
+| Thu, 8 Oct 2026 | The Supermercat Gotico | Barcelona |
 
 ## Recently played
 

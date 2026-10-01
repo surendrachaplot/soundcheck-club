@@ -13,7 +13,7 @@ Faust is a music venue in Seoul listed on soundcheck. 7 upcoming gigs, with line
 | Sun, 4 Oct 2026 | KIMYO Night Invites: Yonti ( Berlin ) | Mars Parck, NUSNOOM, TYSN, Uni (3), YAREE, Yonti |
 | Fri, 9 Oct 2026 | PARISH INVITES: Connor Wall (DE) ꧁The First Ritual꧂ | Connor Wall, Lyumin, NUSNOOM, Siot, Soyo |
 | Sat, 10 Oct 2026 | INVITES: Dold | Dold |
-| Sat, 17 Oct 2026 | INVITES: YANT | Marcus L, Sol (KR), Suman, Yantan Ministry, Yuriko (2) |
+| Sat, 17 Oct 2026 | INVITES: YANT | Marcus L, Sol (KR), Suman, Yant, Yuriko (2) |
 | Fri, 23 Oct 2026 | GEGEN x Faust | Cristian Marras, Mar/us |
 
 ## Address

@@ -1,14 +1,15 @@
 # Kim (FR)
 
-Kim (FR) is a Techno and Psytrance artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Urban Spree, Berlin on Fri, 16 Oct 2026.
+Kim (FR) is a Techno and Psytrance artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Urban Spree, Berlin on Fri, 16 Oct 2026.
 
-Kim (FR) is a techno and psytrance artist based in France, with 20 gigs on soundcheck across Berlin, Marseille, Paris and Sao Paulo and 2 more. Often billed alongside SAKO, ANTOM and Altemica. Next up: Urban Spree, Berlin on Fri 16 Oct.
+Kim (FR) is a techno and psytrance artist based in France, with 21 gigs on soundcheck across Berlin, Marseille, Osaka and Paris and 3 more. Often billed alongside SAKO, ANTOM and Altemica. Next up: Urban Spree, Berlin on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Urban Spree | Berlin |
+| Sat, 5 Dec 2026 | Socore Factory | Osaka |
 
 ## Recently played
 

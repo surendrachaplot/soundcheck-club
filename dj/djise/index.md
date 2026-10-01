@@ -1,14 +1,13 @@
 # DJ ISE
 
-DJ ISE is a House and Deep House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Swipe 池尻大橋, Tokyo on Thu, 1 Oct 2026.
+DJ ISE is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Publichouse-Ageya, Tokyo on Sat, 10 Oct 2026.
 
-DJ ISE is a house and deep house artist based in Japan, with 110 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Masayoshi Kimura, DQ Sakura and KIMURA. Next up: Swipe 池尻大橋, Tokyo on Thu 1 Oct.
+DJ ISE is a house and deep house artist based in Japan, with 110 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Masayoshi Kimura, DQ Sakura and KIMURA. Next up: Publichouse-Ageya, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Swipe 池尻大橋 | Tokyo |
 | Sat, 10 Oct 2026 | Publichouse-Ageya | Tokyo |
 | Sun, 11 Oct 2026 | ZUBAR | Tokyo |
 | Fri, 16 Oct 2026 | Akabane Enab | Tokyo |

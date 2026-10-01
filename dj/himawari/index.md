@@ -1,8 +1,8 @@
 # HIMAWARI
 
-HIMAWARI is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 2 Oct 2026.
+HIMAWARI is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at UTOPIA / DYSTOPIA, Tokyo on Fri, 2 Oct 2026.
 
-HIMAWARI is a house and techno artist based in Japan, with 140 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Romy Mats, kengotaki and CYBERHACKSYSTEM. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 2 Oct.
+HIMAWARI is a house and techno artist based in Japan, with 141 gigs on soundcheck across Osaka and Tokyo. Often billed alongside Romy Mats, kengotaki and CYBERHACKSYSTEM. Next up: UTOPIA / DYSTOPIA, Tokyo on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ HIMAWARI is a house and techno artist based in Japan, with 140 gigs on soundchec
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | UTOPIA / DYSTOPIA | Tokyo |
 | Fri, 9 Oct 2026 | Saloon | Tokyo |
+| Wed, 14 Oct 2026 | TBA | Tokyo |
 
 ## Recently played
 

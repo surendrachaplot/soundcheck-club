@@ -8,7 +8,7 @@ AMT is a music venue in Berlin listed on soundcheck. 12 upcoming gigs, with line
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | DYSTOPIAN HAPPINESS // LISTEN AND REPEAT 4.0 | Dorsch, End Train, KALEA |
+| Sat, 3 Oct 2026 | DYSTOPIAN HAPPINESS // LISTEN AND REPEAT 4.0 | Dorsch, End Train, KALEA, Max Muth |
 | Fri, 9 Oct 2026 | FUCK YOUR GENDER |  |
 | Fri, 16 Oct 2026 | CLASH | DJ LEVEL, Darren Black, Younox, jardabpm |
 | Fri, 16 Oct 2026 | CLASH |  |

@@ -1,8 +1,8 @@
 # Turbina
 
-Turbina is a music venue in Budapest with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TURBINA x DAAD GATHERING w/ Dasha Rush" on Fri, 2 Oct 2026.
+Turbina is a music venue in Budapest with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TURBINA x DAAD GATHERING w/ Dasha Rush" on Fri, 2 Oct 2026.
 
-Turbina is a music venue in Budapest listed on soundcheck. 12 upcoming gigs, with line-ups including 96zen, AGA2L, Akác and Arash Ete and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
+Turbina is a music venue in Budapest listed on soundcheck. 13 upcoming gigs, with line-ups including 96zen, AGA2L, Akác and Arash Ete and 2 more. See dates, start times and who's playing. Budapest, Vajdahunyad street 4., 1082.
 
 ## What's on
 
@@ -17,7 +17,7 @@ Turbina is a music venue in Budapest listed on soundcheck. 12 upcoming gigs, wit
 | Sat, 10 Oct 2026 | Selecta'S BACK - CLUB SEASON OPENING | quera |
 | Fri, 16 Oct 2026 | HOLDTURBINA W/ MEDUZAH, GALACTIC JACKSON, TOM ATO, BAGOCS, + KELET LIVE | Galactic Jackson, Meduzah, Tomato (IT) |
 | Sat, 17 Oct 2026 | Crime x Burn Energy Tour with MCR-T | Akác, CRIME, Gingershot, MCR-T, Maron, THIRD 2HIFT, Technokool, schraeder, szoliver |
-| Fri, 23 Oct 2026 | Technokunst x Turbina pres. Acidmoon with Kangding Ray | Kangding Ray, Mode, isu |
+| Wed, 21 Oct 2026 | TRANSCENDENT WAVES ⁓ ZSÁGER BALÁZS, Mákó Rozi, Juhász Tamás, Réti Virág | Rozi Mákó, ZSÁGER BALÁZS |
 
 ## Address
 

@@ -1,8 +1,8 @@
 # Krol
 
-Krol is a House and Minimal artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 10 Oct 2026.
+Krol is a House and Minimal artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circolo degli Illuminati, Rome on Sat, 10 Oct 2026.
 
-Krol is a house and minimal artist based in France, with 61 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 9 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Circolo degli Illuminati, Rome on Sat 10 Oct.
+Krol is a house and minimal artist based in France, with 62 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Ibiza and 9 more. Often billed alongside Aline Umber, Aline Brooklyn and Aman Umber. Next up: Circolo degli Illuminati, Rome on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Krol is a house and minimal artist based in France, with 61 gigs on soundcheck a
 | Thu, 22 Oct 2026 | Blast Galaxy | Amsterdam |
 | Sat, 31 Oct 2026 | Brooklyn Storehouse | New York City |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
+| Fri, 6 Nov 2026 | Fvtvr | Paris |
 
 ## Recently played
 

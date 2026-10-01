@@ -1,8 +1,8 @@
 # Sala Apolo
 
-Sala Apolo is a music venue in Barcelona with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Milkshake" on Thu, 1 Oct 2026.
+Sala Apolo is a music venue in Barcelona with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Milkshake" on Thu, 1 Oct 2026.
 
-Sala Apolo is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs, with line-ups including Charlins, Chiara B, Digitalism and DJ Tortuga and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
+Sala Apolo is a music venue in Barcelona listed on soundcheck. 18 upcoming gigs, with line-ups including Charlins, Chiara B, Digitalism and DJ Tortuga and 2 more. See dates, start times and who's playing. Carrer Nou de la Rambla, 111; 08004 Barcelona; Spain.
 
 ## What's on
 
@@ -11,13 +11,13 @@ Sala Apolo is a music venue in Barcelona listed on soundcheck. 10 upcoming gigs,
 | Thu, 1 Oct 2026 | Milkshake |  |
 | Sat, 3 Oct 2026 | Apologia X Celosia: Júlia Collado Riu (DJ Set) + NO STATE SOLUTION + Dokku + J Anton |  |
 | Thu, 8 Oct 2026 | Milkshake |  |
+| Thu, 8 Oct 2026 | EL DÚPLEX |  |
 | Sat, 10 Oct 2026 | Apologia X Kz Caribe: Pharaoh + Juuuls + Macondo |  |
+| Wed, 14 Oct 2026 | BRESH CLUB |  |
 | Thu, 15 Oct 2026 | Milkshake |  |
+| Thu, 15 Oct 2026 | EL DÚPLEX |  |
 | Sat, 17 Oct 2026 | Apologia X WOWO: DJ Bruxism, CHIARAB, ONA V, Barbs B2B Courts, Svetlana, Gabi Baska & Eder | Chiara B |
 | Wed, 21 Oct 2026 | Diablada: Frente Cumbiero + Indus + Julieta Garay + Hija de la Coca | indus (2) |
-| Sat, 24 Oct 2026 | Apologia X MA House: Charlins + MARA BRAVO + Drunk At Vogue + Mats + DJ Tortuga | Charlins, DJ Tortuga, Drunk At Vogue, MARA BRAVO |
-| Sat, 31 Oct 2026 | Digitalism - Barcelona | Digitalism |
-| Sat, 31 Oct 2026 | DnBabes: Halloween Special [DnB] | PEAK (2) |
 
 ## Address
 

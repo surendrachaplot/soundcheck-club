@@ -1,17 +1,14 @@
-# Dr. Banana Club
+# Dr Banana Club
 
-Dr. Banana Club is a music venue in Sao Paulo with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Garage Club At Dr. Banana · Bday Pablito" on Sat, 3 Oct 2026.
+Dr Banana Club is a music venue in Sao Paulo with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "GARAGE CLUB no Dr Banana Club @PRESCRISÇÃO #0034" on Sat, 3 Oct 2026.
 
-Dr. Banana Club is a music venue in Sao Paulo listed on soundcheck. 1 upcoming gig. See dates, start times and who's playing. Rua Vergueiro, 6712 - Vila Brasilio Machado, São Paulo - SP, 04272-200, Brazil.
+Dr Banana Club is a music venue in Sao Paulo listed on soundcheck. 2 upcoming gigs, with line-ups including Antoine Sy. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | Garage Club At Dr. Banana · Bday Pablito |  |
-
-## Address
-
-Rua Vergueiro, 6712 - Vila Brasilio Machado, São Paulo - SP, 04272-200, Brazil, Sao Paulo
+| Sat, 3 Oct 2026 | GARAGE CLUB no Dr Banana Club @PRESCRISÇÃO #0034 |  |
+| Sat, 10 Oct 2026 | Perpétua // Antoine Sy - PRESCRISÇÃO #0036 | Antoine Sy |
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/saopaulo/club/dr-banana-club/)*

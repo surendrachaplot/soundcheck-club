@@ -1,14 +1,15 @@
 # caonix
 
-caonix is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 31 Oct 2026.
+caonix is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Honey Street Studio, Manchester on Sat, 31 Oct 2026.
 
-caonix is a techno and house artist based in United Kingdom, with 20 gigs on soundcheck across Glasgow and Manchester. Often billed alongside Girlfriend, INLIMEN and Kabel. Next up: Honey Street Studio, Manchester on Sat 31 Oct.
+caonix is a techno and house artist based in United Kingdom, with 21 gigs on soundcheck across Glasgow and Manchester. Often billed alongside Girlfriend, INLIMEN and Kabel. Next up: Honey Street Studio, Manchester on Sat 31 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 31 Oct 2026 | Honey Street Studio | Manchester |
+| Sat, 21 Nov 2026 | The DBA | Manchester |
 
 ## Recently played
 

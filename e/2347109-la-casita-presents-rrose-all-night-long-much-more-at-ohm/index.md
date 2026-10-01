@@ -1,6 +1,6 @@
 # LA CASITA presents: Rrose All Night Long & much more at OHM
 
-LA CASITA presents: Rrose All Night Long & much more at OHM on Thu 19 Nov, Berlin. 1 artist: Rrose. House and Ambient. See the line-up on soundcheck.
+LA CASITA presents: Rrose All Night Long & much more at OHM on Thu 19 Nov, Berlin. 1 artist: Rrose. Ambient and Experimental. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

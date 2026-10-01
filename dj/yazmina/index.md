@@ -1,14 +1,15 @@
 # Yazmina
 
-Yazmina is a Techno and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Social, London on Fri, 2 Oct 2026.
+Yazmina is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Social, London on Fri, 2 Oct 2026.
 
-Yazmina is a techno and bass artist, with 13 gigs on soundcheck across London. Often billed alongside OUTTEN, Areola Grande Latte and Body Clinic. Next up: The Social, London on Fri 2 Oct.
+Yazmina is a techno and bass artist, with 14 gigs on soundcheck across London. Often billed alongside OUTTEN, Areola Grande Latte and Bekefi. Next up: The Social, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Social | London |
+| Sat, 17 Oct 2026 | Ballroom at Palais | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Yazmina is a techno and bass artist, with 13 gigs on soundcheck across London. O
 
 ## Shares bills with
 
-OUTTEN, Areola Grande Latte, Body Clinic
+OUTTEN, Areola Grande Latte, Bekefi
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/yazmina/)*

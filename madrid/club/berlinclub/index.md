@@ -13,7 +13,7 @@ berlinClub is a music venue in Madrid listed on soundcheck. 8 upcoming gigs, wit
 | Thu, 8 Oct 2026 | El Búho After Party · Modis + El Búho DJ Set + Invitados | El Buho |
 | Fri, 9 Oct 2026 | 99 Percent Nice · Mark Gill B2B Le Nomad All Night Long | Le Nomad, Mark Gill |
 | Sat, 10 Oct 2026 | Tamoko by Nebari special guest: Alejandro Paz | Alejandro Paz, Nebari |
-| Sun, 11 Oct 2026 | Black Fusion · Fede Fink + Jara + David Caló | David Calo, Jara |
+| Sun, 11 Oct 2026 | Black Fusion · Fede Fink + Jara + David Caló | David Calo, FedeFink, Jara |
 | Fri, 16 Oct 2026 | Kambalache 1º Aniversario · Luska + Solo Jons + Guidomik + Alexis mayer | Alexis mayer, Guidomik, Luska |
 | Fri, 23 Oct 2026 | Yes, Bitch! · Jonjo Jury + Angel + Daddy Squad | Daddy Squad |
 

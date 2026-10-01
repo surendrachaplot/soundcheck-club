@@ -8,7 +8,7 @@ Ouseburn Garden is a music venue in Newcastle listed on soundcheck. 6 upcoming g
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | Subtext Launch party | Alousea, Dove (UK), camukg |
+| Fri, 2 Oct 2026 | Subtext Launch party | Alousea, camukg |
 | Sat, 17 Oct 2026 | Rolling Ritmo 4th Birthday with Mariiin, Alisdair, PIP and Lewis Robertson | Alisdair, Lewis Robertson, Mariiin |
 | Sat, 24 Oct 2026 | Keep Moovin' Birthday Bash | FroD, Henry Wilson, PHJ.WAV, PIP., Sam Warren, keks |
 | Fri, 30 Oct 2026 | Krazed Halloween w/ Luke 4tt4ck B2B Aston Fuhlendorf, Kid Cosmit B2B Harka |  |

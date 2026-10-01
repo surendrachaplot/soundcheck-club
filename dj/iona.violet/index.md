@@ -1,14 +1,15 @@
 # Iona.Violet
 
-Iona.Violet is a Electro and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Stereo, Glasgow on Fri, 9 Oct 2026.
+Iona.Violet is a Electro and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Stereo, Glasgow on Fri, 9 Oct 2026.
 
-Iona.Violet is an electro and techno artist based in United Kingdom, with 14 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside ona:v, ENAEN and Nikki Guild. Next up: Stereo, Glasgow on Fri 9 Oct.
+Iona.Violet is an electro and techno artist based in United Kingdom, with 15 gigs on soundcheck across Edinburgh, Glasgow and London. Often billed alongside ona:v, Nikki Guild and ROXAN (UK). Next up: Stereo, Glasgow on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Stereo | Glasgow |
+| Sat, 28 Nov 2026 | The Bongo Club | Edinburgh |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Iona.Violet is an electro and techno artist based in United Kingdom, with 14 gig
 
 ## Shares bills with
 
-ona:v, ENAEN, Nikki Guild
+ona:v, Nikki Guild, ROXAN (UK)
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/iona.violet/)*

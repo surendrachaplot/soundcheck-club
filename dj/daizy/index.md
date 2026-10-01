@@ -1,13 +1,14 @@
 # Daizy
 
-Daizy is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Miami, Miami on Sat, 10 Oct 2026.
+Daizy is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mad Radio Miami, Miami on Thu, 1 Oct 2026.
 
-Daizy is a techno and house artist based in United States of America, with 35 gigs on soundcheck across Athens, Los Angeles, Medellin and Miami and 2 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: TBA - Miami, Miami on Sat 10 Oct.
+Daizy is a techno and house artist based in United States of America, with 36 gigs on soundcheck across Athens, Los Angeles, Medellin and Miami and 2 more. Often billed alongside Max Stern, Bakke and Cole Knight. Next up: Mad Radio Miami, Miami on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Mad Radio Miami | Miami |
 | Sat, 10 Oct 2026 | TBA - Miami | Miami |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Fri, 23 Oct 2026 | Noiiz Sound Archives | Medellin |

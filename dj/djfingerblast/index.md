@@ -1,14 +1,15 @@
 # DJ Fingerblast
 
-DJ Fingerblast is a Trance and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at FORGE, Sheffield on Sun, 25 Oct 2026.
+DJ Fingerblast is a Trance and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at FORGE, Sheffield on Sun, 25 Oct 2026.
 
-DJ Fingerblast is a trance and hardcore artist based in United Kingdom, with 67 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Trancey Beaker, Peggy Viennetta and SPINEE. Next up: FORGE, Sheffield on Sun 25 Oct.
+DJ Fingerblast is a trance and hardcore artist based in United Kingdom, with 68 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Bristol and 17 more. Often billed alongside Trancey Beaker, Peggy Viennetta and Princess Elf Bar. Next up: FORGE, Sheffield on Sun 25 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 25 Oct 2026 | FORGE | Sheffield |
+| Fri, 30 Oct 2026 | The DBA | Manchester |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ DJ Fingerblast is a trance and hardcore artist based in United Kingdom, with 67 
 
 ## Shares bills with
 
-Trancey Beaker, Peggy Viennetta, SPINEE
+Trancey Beaker, Peggy Viennetta, Princess Elf Bar
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djfingerblast/)*

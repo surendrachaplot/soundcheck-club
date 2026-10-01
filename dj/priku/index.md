@@ -1,8 +1,8 @@
 # Priku
 
-Priku is a Minimal and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hï Ibiza, Ibiza on Tue, 6 Oct 2026.
+Priku is a Minimal and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hï Ibiza, Ibiza on Tue, 6 Oct 2026.
 
-Priku is a minimal and house artist based in Romania, with 174 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Hï Ibiza, Ibiza on Tue 6 Oct.
+Priku is a minimal and house artist based in Romania, with 175 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 41 more. Often billed alongside Arapu, Sossa and Seth Troxler. Next up: Hï Ibiza, Ibiza on Tue 6 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Priku is a minimal and house artist based in Romania, with 174 gigs on soundchec
 | Fri, 9 Oct 2026 | Stereo | Montreal |
 | Sat, 10 Oct 2026 | Rhythm | Toronto |
 | Sun, 25 Oct 2026 | Noorderlicht Café | Amsterdam |
+| Fri, 27 Nov 2026 | Kult | Belgrade |
 | Sat, 19 Dec 2026 | Sankeys | Manchester |
 
 ## Recently played

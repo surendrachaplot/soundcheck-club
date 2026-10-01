@@ -1,14 +1,15 @@
 # Monsieur Van Pratt
 
-Monsieur Van Pratt is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gwenda, London on Fri, 2 Oct 2026.
+Monsieur Van Pratt is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Gwenda, London on Fri, 2 Oct 2026.
 
-Monsieur Van Pratt is a house and disco artist based in Mexico, with 71 gigs on soundcheck across Amsterdam, Berlin, Helsinki and London and 2 more. Often billed alongside Disco 86, Bustin' Loose and Barreto. Next up: Gwenda, London on Fri 2 Oct.
+Monsieur Van Pratt is a house and disco artist based in Mexico, with 72 gigs on soundcheck across Amsterdam, Berlin, Helsinki and London and 2 more. Often billed alongside Disco 86, Bustin' Loose and Barreto. Next up: Gwenda, London on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Gwenda | London |
+| Fri, 2 Oct 2026 | Departamento | Mexico City |
 | Fri, 23 Oct 2026 | Art''otel Amsterdam | Amsterdam |
 | Sat, 24 Oct 2026 | Amsterdam Central Station | Amsterdam |
 

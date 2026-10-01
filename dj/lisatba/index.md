@@ -1,13 +1,14 @@
 # lisa tba
 
-lisa tba is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at OXI, Berlin on Thu, 22 Oct 2026.
+lisa tba is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Südpol, Hamburg on Sat, 17 Oct 2026.
 
-lisa tba is a techno and house artist based in Germany, with 39 gigs on soundcheck across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside Bamela Paywatch, Gwen Wayne and AGILY. Next up: OXI, Berlin on Thu 22 Oct.
+lisa tba is a techno and house artist based in Germany, with 40 gigs on soundcheck across Berlin, Hamburg, Leipzig and Tbilisi. Often billed alongside Bamela Paywatch, Gwen Wayne and AGILY. Next up: Südpol, Hamburg on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | Südpol | Hamburg |
 | Thu, 22 Oct 2026 | OXI | Berlin |
 
 ## Recently played

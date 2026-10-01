@@ -1,8 +1,8 @@
 # Neek
 
-Neek is a Dubstep and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
+Neek is a Dubstep and Techno artist with 8 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Complejo Embrujo, South on Sat, 3 Oct 2026.
 
-Neek is a dubstep and techno artist based in United Kingdom, with 70 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: Complejo Embrujo, South on Sat 3 Oct.
+Neek is a dubstep and techno artist based in United Kingdom, with 71 gigs on soundcheck across Amsterdam, Athens, Barcelona and Basel and 32 more. Often billed alongside Kahn, Medis and SGT Pokes. Next up: Complejo Embrujo, South on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -15,6 +15,7 @@ Neek is a dubstep and techno artist based in United Kingdom, with 70 gigs on sou
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
 | Fri, 30 Oct 2026 | TBA - Tirana | Tirana |
 | Sat, 31 Oct 2026 | Gotec | Karlsruhe |
+| Fri, 4 Dec 2026 | fabric | London |
 
 ## Recently played
 

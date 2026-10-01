@@ -1,13 +1,14 @@
 # Wolk
 
-Wolk is a Techno and Hardcore artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - La Plateforme, Marseille on Thu, 31 Dec 2026.
+Wolk is a Techno and Hardcore artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cabaret  Aléatoire, Marseille on Fri, 23 Oct 2026.
 
-Wolk is a techno and hardcore artist based in France, with 39 gigs on soundcheck across Berlin, Madrid and Marseille. Often billed alongside BenzØ, Angel Karel and Bours?. Next up: TBA - La Plateforme, Marseille on Thu 31 Dec.
+Wolk is a techno and hardcore artist based in France, with 40 gigs on soundcheck across Berlin, Madrid and Marseille. Often billed alongside BenzØ, Angel Karel and Bours?. Next up: Cabaret  Aléatoire, Marseille on Fri 23 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 23 Oct 2026 | Cabaret  Aléatoire | Marseille |
 | Thu, 31 Dec 2026 | TBA - La Plateforme | Marseille |
 
 ## Recently played

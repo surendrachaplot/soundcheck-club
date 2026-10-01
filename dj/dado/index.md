@@ -1,14 +1,15 @@
 # DADO
 
-DADO is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 10 Oct 2026.
+DADO is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Sat, 10 Oct 2026.
 
-DADO is a house and techno artist based in Japan, with 76 gigs on soundcheck across Bali, Kuala Lumpur, Malta and Tokyo and 1 more. Often billed alongside AY, TAKUTO and ALEXANDER M. Next up: ZEROTOKYO, Tokyo on Sat 10 Oct.
+DADO is a house and techno artist based in Japan, with 77 gigs on soundcheck across Bali, Kuala Lumpur, Malta and Tokyo and 1 more. Often billed alongside AY, TAKUTO and ALEXANDER M. Next up: ZEROTOKYO, Tokyo on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | ZEROTOKYO | Tokyo |
+| Tue, 13 Oct 2026 | Azumaya | Tokyo |
 
 ## Recently played
 

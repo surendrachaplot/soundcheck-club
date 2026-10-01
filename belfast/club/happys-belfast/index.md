@@ -9,7 +9,7 @@ Happys Belfast is a music venue in Belfast listed on soundcheck. 2 upcoming gigs
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | ARCLINE Pres. Happys ft. CLOVER | GUZZ., Peter James, Skellyoz |
-| Tue, 27 Oct 2026 | TEMPO TUUUESDAYS: HALLOWEEN |  |
+| Tue, 27 Oct 2026 | TEMPO TUUUESDAYS: HARDHOUSE HALLOWEEN |  |
 
 ## Address
 

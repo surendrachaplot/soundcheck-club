@@ -1,8 +1,8 @@
 # The White Hotel
 
-The White Hotel is a music venue in Manchester with 41 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Beauty Witch presents: Hilary Woods" on Thu, 1 Oct 2026.
+The White Hotel is a music venue in Manchester with 42 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "The Beauty Witch presents: Hilary Woods" on Thu, 1 Oct 2026.
 
-The White Hotel is a music venue in Manchester listed on soundcheck. 41 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
+The White Hotel is a music venue in Manchester listed on soundcheck. 42 upcoming gigs, with line-ups including Fastlove, Abena, Aiden Francis and Alexi Shell and 2 more. See dates, start times and who's playing. Dickinson Street Salford M3 7LW, United Kingdom.
 
 ## What's on
 

@@ -1,6 +1,6 @@
-# five in a bed AT VESPERS at Vespers Club
+# five in a bed At Vespers at Vespers Club
 
-five in a bed AT VESPERS at Vespers Club on Fri 9 Oct, London. 1 artist: Dexter Dooley. Dub and Funk / Soul. See the line-up on soundcheck.
+five in a bed At Vespers at Vespers Club on Fri 9 Oct, London. 1 artist: Dexter Dooley. Dub and Funk / Soul. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

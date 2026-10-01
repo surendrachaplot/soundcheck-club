@@ -1,8 +1,8 @@
 # Echostage
 
-Echostage is a music venue in Washington DC with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Factory 93: Peggy Gou w/ Clüb De Combat, lady lavender" on Fri, 2 Oct 2026.
+Echostage is a music venue in Washington DC with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Factory 93: Peggy Gou w/ Clüb De Combat, lady lavender" on Fri, 2 Oct 2026.
 
-Echostage is a music venue in Washington DC listed on soundcheck. 16 upcoming gigs, with line-ups including 10cust, Afrojack, Aldor and Brutalismus 3000 and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
+Echostage is a music venue in Washington DC listed on soundcheck. 17 upcoming gigs, with line-ups including 10cust, Afrojack, Aldor and Brutalismus 3000 and 2 more. See dates, start times and who's playing. 2135 Queens Chapel Road NE, Washington, DC 20018.
 
 ## What's on
 

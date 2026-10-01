@@ -9,7 +9,7 @@ Forest is a techno and trance artist based in France, with 49 gigs on soundcheck
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - Saint-Denis | Paris |
-| Sat, 17 Oct 2026 | TBA | Marseille |
+| Sat, 17 Oct 2026 | TBA - Marseille | Marseille |
 | Sun, 25 Oct 2026 | Hasta La Vista, Baby | Amsterdam |
 
 ## Recently played

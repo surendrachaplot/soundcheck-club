@@ -1,14 +1,13 @@
 # Krijka
 
-Krijka is a Techno and Tech House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at teller, Seoul on Fri, 2 Oct 2026.
+Krijka is a Techno and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Berghain | Panorama Bar | Säule, Berlin on Fri, 9 Oct 2026.
 
-Krijka is a techno and tech house artist based in France, with 147 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Mihak, Lyumin and Oho.. Next up: teller, Seoul on Fri 2 Oct.
+Krijka is a techno and tech house artist based in France, with 146 gigs on soundcheck across Bangkok, Barcelona, Berlin and Brussels and 6 more. Often billed alongside Mihak, Lyumin and Oho.. Next up: Berghain | Panorama Bar | Säule, Berlin on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Fri, 2 Oct 2026 | teller | Seoul |
 | Fri, 9 Oct 2026 | Berghain / Panorama Bar / Säule | Berlin |
 | Sat, 17 Oct 2026 | DURO | Milan |
 | Sat, 17 Oct 2026 | DURO | Milan |

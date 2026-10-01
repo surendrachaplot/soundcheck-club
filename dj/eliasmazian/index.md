@@ -1,8 +1,8 @@
 # Elias Mazian
 
-Elias Mazian is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Java, Paris on Fri, 2 Oct 2026.
+Elias Mazian is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Java, Paris on Fri, 2 Oct 2026.
 
-Elias Mazian is a house and techno artist based in Netherlands, with 119 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 21 more. Often billed alongside Suze Ijó, Doppelgang and Tsepo. Next up: La Java, Paris on Fri 2 Oct.
+Elias Mazian is a house and techno artist based in Netherlands, with 120 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 21 more. Often billed alongside Suze Ijó, Doppelgang and Tsepo. Next up: La Java, Paris on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Elias Mazian is a house and techno artist based in Netherlands, with 119 gigs on
 | Sat, 7 Nov 2026 | Lofi | Amsterdam |
 | Sat, 14 Nov 2026 | Club 77 | Sydney |
 | Fri, 20 Nov 2026 | Glamorama | Melbourne |
+| Sat, 28 Nov 2026 | Inter-City | The Hague |
 
 ## Recently played
 

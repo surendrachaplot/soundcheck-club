@@ -1,14 +1,14 @@
 # Cristobal
 
-Cristobal is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Marseille on Sat, 17 Oct 2026.
+Cristobal is a Tech House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Marseille, Marseille on Sat, 17 Oct 2026.
 
-Cristobal is a tech house and techno artist based in France, with 20 gigs on soundcheck across Berlin, London, Lyon and Manchester and 3 more. Often billed alongside Cess, Duane and Alyhas. Next up: TBA, Marseille on Sat 17 Oct.
+Cristobal is a tech house and techno artist based in France, with 20 gigs on soundcheck across Berlin, London, Lyon and Manchester and 3 more. Often billed alongside Cess, Duane and Alyhas. Next up: TBA - Marseille, Marseille on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Sat, 17 Oct 2026 | TBA | Marseille |
+| Sat, 17 Oct 2026 | TBA - Marseille | Marseille |
 
 ## Recently played
 

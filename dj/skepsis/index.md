@@ -1,15 +1,14 @@
 # Skepsis
 
-Skepsis is a Drum & Bass and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint XL, Leeds on Fri, 2 Oct 2026.
+Skepsis is a Drum & Bass and Bass artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Mint XL, Leeds on Fri, 2 Oct 2026.
 
-Skepsis is a drum & bass and bass artist based in United Kingdom, with 61 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 23 more. Often billed alongside Darkzy, Window Kid and Charlie Tee. Next up: Mint XL, Leeds on Fri 2 Oct.
+Skepsis is a drum & bass and bass artist based in United Kingdom, with 60 gigs on soundcheck across Amsterdam, Auckland, Berlin and Birmingham and 23 more. Often billed alongside Darkzy, Window Kid and Charlie Tee. Next up: Mint XL, Leeds on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Mint XL | Leeds |
-| Sat, 24 Oct 2026 | Elsewhere | New York City |
 
 ## Recently played
 

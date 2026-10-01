@@ -1,14 +1,15 @@
 # Valium
 
-Valium is a House and Ambient artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
+Valium is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Secret Location (Madrid), Madrid on Sat, 3 Oct 2026.
 
-Valium is a house and ambient artist based in Spain, with 27 gigs on soundcheck across Barcelona, Madrid and Rome. Often billed alongside DISTORT (ES), Juguete and nBlueMoney. Next up: TBA - Secret Location (Madrid), Madrid on Sat 3 Oct.
+Valium is a house and tech house artist based in Spain, with 28 gigs on soundcheck across Barcelona, Madrid, Rome and Valencia. Often billed alongside DISTORT (ES), Juguete and nBlueMoney. Next up: TBA - Secret Location (Madrid), Madrid on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - Secret Location (Madrid) | Madrid |
+| Thu, 8 Oct 2026 | Oven Club | Valencia |
 | Sat, 31 Oct 2026 | TBA - LFO | Madrid |
 
 ## Recently played

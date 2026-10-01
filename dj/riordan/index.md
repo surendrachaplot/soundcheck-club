@@ -1,14 +1,13 @@
 # Riordan
 
-Riordan is a House and Tech House artist with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Tokyo, Tokyo on Thu, 1 Oct 2026.
+Riordan is a House and Tech House artist with 12 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Circus Osaka, Osaka on Fri, 2 Oct 2026.
 
-Riordan is a house and tech house artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Gorgon City, Prunk and Jackie Hollander. Next up: Circus Tokyo, Tokyo on Thu 1 Oct.
+Riordan is a house and tech house artist based in United Kingdom, with 126 gigs on soundcheck across Amsterdam, Auckland, Austin and Barcelona and 42 more. Often billed alongside Gorgon City, Prunk and Jackie Hollander. Next up: Circus Osaka, Osaka on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | Circus Tokyo | Tokyo |
 | Fri, 2 Oct 2026 | Circus Osaka | Osaka |
 | Fri, 9 Oct 2026 | 1015 Folsom | San Francisco/Oakland |
 | Sat, 10 Oct 2026 | Quartyard | San Diego |
@@ -20,6 +19,7 @@ Riordan is a house and tech house artist based in United Kingdom, with 126 gigs 
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 | Mon, 28 Dec 2026 | Barunah Plains | Victoria |
 | Mon, 28 Dec 2026 | Langley Park | Perth |
+| Sat, 2 Jan 2027 | Superordinary | Brisbane |
 
 ## Recently played
 

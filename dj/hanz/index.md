@@ -1,13 +1,14 @@
 # Hanz
 
-Hanz is a Bass and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Hidden, Manchester on Sat, 31 Oct 2026.
+Hanz is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The DBA, Manchester on Fri, 30 Oct 2026.
 
-Hanz is a bass and garage artist based in United Kingdom, with 88 gigs on soundcheck across Belfast, Glasgow, Los Angeles and Manchester. Often billed alongside Syntax, aalice and Charlie Boy Manson. Next up: Hidden, Manchester on Sat 31 Oct.
+Hanz is a bass and garage artist based in United Kingdom, with 89 gigs on soundcheck across Belfast, Glasgow, Los Angeles and Manchester. Often billed alongside Syntax, aalice and Charlie Boy Manson. Next up: The DBA, Manchester on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 30 Oct 2026 | The DBA | Manchester |
 | Sat, 31 Oct 2026 | Hidden | Manchester |
 
 ## Recently played

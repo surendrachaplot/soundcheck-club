@@ -812,13 +812,7 @@
     .dock-nmrow { display:flex; align-items:center; gap:8px; min-width:0; }   /* renamed from .nm-row to avoid colliding with the list-row .nm-row (which injected padding+border) */
     .dock-nmrow .nm { min-width:0; }
     .dock.expanded .dock-nmrow { justify-content:center; }
-    .dock-acts .heart span { display:none; }   /* default: icon-only (collapsed mini-bar stays tight) */
-    .dock-acts .heart { width:36px; height:36px; padding:0; color:var(--fg); }   /* fg so they match the white transport icons; .on → salmon */
-    /* Expanded dock: heart shows its "Wanna see" label again; the tick stays icon-only. */
-    .dock.expanded .dock-acts .heart { width:auto; padding:0 10px; gap:6px; display:inline-flex; align-items:center; }
-    .dock.expanded .dock-acts .heart span { display:inline; font:600 var(--fs-sm)/var(--lh-sm) var(--body); }
     .dock:not(.expanded) .dock-acts { gap:6px; }
-    .dock:not(.expanded) .dock-acts .heart { width:34px; height:34px; }
     .info .nm { font-family:var(--head); font-weight:700; font-size:var(--fs-md); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
     .info .sub { color:var(--muted); font-size:var(--fs-xs); font-weight:600; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; margin-top:2px; }
     .info .sub b { color:var(--accent); }
@@ -993,17 +987,13 @@
       .dock.expanded .info { display:flex; flex-direction:column; text-align:left; }
       .dock.expanded .info .nm { font-size:var(--fs-xl); }
       .dock.expanded .dock-nmrow { order:1; justify-content:space-between; gap:12px; }
-      .dock.expanded .dock-nmrow .nm { flex:1; }
+      .dock.expanded .dock-nmrow .dock-nmh { flex:1; }
       .dock.expanded .info .sub { order:2; }
       .dock.expanded .dock-srcrow { order:2; justify-content:flex-start; }
       .dock.expanded .dock-srcrow .sub { order:0; }   /* the line above moves .sub, which now sits inside the row */
       .dock:not(.expanded) .info:has(.dock-sc:not([hidden])) { max-width:none; flex:1 1 auto; }
       .dock.expanded.has-next .info .sub { display:block; }   /* show the source under the name again (it's hidden on desktop-expanded) */
       .dock.expanded .info .dock-next { order:3; margin-top:8px; }
-      /* heart + seen → tidy rounded icon buttons pinned right of the name (drop the "Wanna see" label) */
-      .dock.expanded .dock-acts .heart { width:44px; height:44px; padding:0; border-radius:var(--radius-md); border:1px solid var(--border); background:var(--surface-2); color:var(--fg); }
-      .dock.expanded .dock-acts .heart span { display:none; }
-      .dock.expanded .dock-acts .heart.on { border-color:var(--accent); color:var(--accent); background:rgba(255,154,61,.14); }
       /* transport order (−15 · prev · next · +15) now comes from DOM order — same on web + mobile */
       body.has-dock { padding-bottom:380px; }
       body.has-dock.dock-collapsed { padding-bottom:96px; }
@@ -3684,7 +3674,8 @@
     .fp-lu{ display:flex; align-items:center; gap:16px; padding:13px 18px; border-bottom:1px solid var(--line); }
     .fp-lu:last-child{ border-bottom:0; }
     .fp-lu-face{ width:48px; height:48px; border-radius:50%; border:1px solid var(--border); flex:none; background-size:cover; background-position:center; background-color:var(--surface-3); }
-    .fp-lu-tx{ flex:none; width:300px; min-width:0; cursor:pointer; }
+    .fp-lu-tx{ flex:none; width:300px; min-width:0; display:flex; align-items:center; gap:4px; }
+    .fp-lu-nl{ min-width:0; text-decoration:none; }
     .fp-lu-nm{ font:700 var(--fs-lg)/var(--lh-lg) var(--head); letter-spacing:-0.01em; }
     /* Played at: venues (ink) then festivals (muted), one line each. */
     .fp-lu-at{ flex:1; min-width:0; }
@@ -3692,9 +3683,9 @@
     .fp-lu-fs{ color:var(--muted); }
     .fp-lu-i+.fp-lu-i::before{ content:" · "; }
     .fp-sech.lu{ justify-content:flex-start; gap:16px; }
-    .fp-sech.lu em{ font-style:normal; width:424px; flex:none; }   /* 44 + + 16 gap + 48 face + 16 gap + 300 artist column: "Played at" sits over its column */
+    .fp-sech.lu em{ font-style:normal; width:364px; flex:none; }   /* 48 face + 16 gap + 300 artist column: "Played at" sits over its column */
 
-    @media(max-width:900px){ .fp-lu-tx{ width:220px; } .fp-sech.lu em{ width:344px; } }
+    @media(max-width:900px){ .fp-lu-tx{ width:220px; } .fp-sech.lu em{ width:284px; } }
     @media(max-width:560px){ .fp-lu{ display:grid; grid-template-columns:44px minmax(0,1fr) 44px; grid-template-areas:"f tx pl" "f at pl"; align-items:center; column-gap:12px; row-gap:2px; padding:12px 14px; } .fp-lu-face{ grid-area:f; width:44px; height:44px; } .fp-lu-tx{ grid-area:tx; width:auto; } .fp-lu-nm{ font-size:var(--fs-md); } .fp-lu-at{ grid-area:at; } .fp-lu-at:empty{ display:none; } .fp-lu-i:nth-child(n+3){ display:none; } .fp-lu-pl{ grid-area:pl; } .fp-sech.lu span{ display:none; } }
     /* location */
     .fp-ev-loc{ display:grid; grid-template-columns:minmax(0,1fr) 360px; }
@@ -4161,8 +4152,6 @@
     .heart:hover{ color:var(--sel); }
     .heart.on{ color:var(--sel); }
     .heart.on svg{ fill:var(--sel); stroke:var(--sel); }
-    .dock.expanded .dock-acts .heart.on{
-      border-color:var(--sel); color:var(--sel-text); background:var(--sel-weak); }
     .radio-fab .heart.on{ color:var(--sel-text); }
 
     /* 3 · selection chips + date tiles (state, not action) */
@@ -4642,34 +4631,15 @@
     }
     @media (max-width:620px){ :root{ --gut:18px; } }
 
-    /* ── LISTEN v2 (Paper NEXT 11LJ) — the + lives in the ROUND 8 layer below (icon tier) ── */
-    .fp-sk-why{ font:700 var(--fs-2xs)/15px var(--font-mono); letter-spacing:.14em; text-transform:uppercase; color:var(--faint);
-      margin-top:10px; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
-    .fp-sk-why.warm{ color:var(--accent); }   /* a label, never a control — flat accent allowed */
-    .fp-sk-why + .fp-sk-ti{ margin-top:4px; }
-    /* dock: the + sits next to the heart (it replaced the seen tick) */
     .dock-acts .set-add{ align-self:center; }
     /* Listen page */
     .lsn .fp-sets-grid{ margin-bottom:var(--sp-4); }
     .lsn-empty{ color:var(--muted); font:400 var(--fs-base)/22px var(--body); margin:0 0 var(--sp-4); max-width:60ch; }
-    .lsn-intro{ display:flex; align-items:flex-start; gap:12px; background:var(--surface); border:1px solid var(--border);
-      border-radius:var(--radius); padding:14px 16px; margin:0 0 var(--sp-6); max-width:560px; font:400 14px/20px var(--body); color:var(--fg); }
-    .lsn-intro p{ flex:1; margin:0; }
-    .lsn-intro button{ flex:none; background:none; border:0; padding:0; color:var(--faint); cursor:pointer; width:18px; height:18px; }
-    .lsn-intro svg{ width:18px; height:18px; fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; }
-    .lsn-heard{ display:inline-flex; align-items:center; gap:4px; background:none; border:0; padding:8px 0 0; margin-bottom:56px;
-      color:var(--faint); font:600 var(--fs-sm)/18px var(--body); cursor:pointer; }
-    .lsn-heard svg{ width:14px; height:14px; fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; transition:transform var(--dur-1) var(--ease-standard); }
-    .lsn-heard[aria-expanded="true"] svg{ transform:rotate(90deg); }
-    .lsn-heard:hover{ color:var(--fg); }
     @media(max-width:560px){
       /* iPhone board 11RZ: two LISTS of rows, not card grids */
-      .lsn .rad-hd .kick{ font:700 10.5px/14px var(--body); color:var(--faint); }
-      .lsn .rad-sub{ font-size:var(--fs-base); line-height:22px; }
       .lsn .sec-h{ font-size:var(--fs-lg); align-items:baseline; gap:8px; margin:24px 0 8px; }
       .lsn .sec-h::before{ display:none; }
       .lsn .sec-h .ct{ font:500 var(--fs-sm)/16px var(--body); letter-spacing:0; color:var(--faint); }
-      .lsn-heard{ padding-top:20px; margin-bottom:28px; }
     }
 
     /* ═══ ROUND 8 (27 Sep) — ONE BUTTON SPEC + set rows + Line-up tabs + Music ═══
@@ -4701,7 +4671,7 @@
     .fp-ab.sm{ height:var(--btn-m); padding:0 14px; gap:6px; font:700 var(--fs-btn-m)/var(--lh-btn-m) var(--body); letter-spacing:0; }
     .fp-ab.sm svg{ width:16px; height:16px; }
 
-    /* icon — outlined disc 44, no label (row ▶ and +, links, share) */
+    /* icon — outlined disc 44, no label (row ▶, links, share). Save (.set-add) is restyled in the Listen v4 block, last in the sheet */
     .fp-ib, .set-add, .fp-lu-pl{
       flex:none; position:relative; display:inline-flex; align-items:center; justify-content:center;
       width:var(--btn-ib); height:var(--btn-ib); padding:0; border-radius:var(--radius-btn);
@@ -4712,9 +4682,6 @@
     .fp-ib:hover, .fp-lu-pl:hover, .set-add:not(.on):hover{ border-color:var(--sel); background:var(--sel-weak); }
     .fp-ib:active, .set-add:active, .fp-lu-pl:active{ transform:scale(.96); }
     .fp-ib:focus-visible, .set-add:focus-visible, .fp-lu-pl:focus-visible{ outline:none; box-shadow:0 0 0 3px rgba(124,92,255,.45); }
-    .set-add svg{ width:18px; height:18px; fill:none; stroke:currentColor; stroke-width:2; stroke-linecap:round; stroke-linejoin:round; }
-    .set-add.on{ background:var(--sel); border-color:var(--sel); color:#fff; }
-    .set-add.on svg{ stroke-width:2.4; }
     .set-add[hidden]{ display:none; }
     .fp-lk-ib svg{ width:20px; height:20px; }
     .fp-lk-ib svg.lk-sc{ width:22px; height:22px; }
@@ -4741,35 +4708,28 @@
     .fp-sk-ti{ font-family:var(--head); font-weight:700; font-size:var(--fs-base); line-height:18px; letter-spacing:-0.01em; margin-top:8px; min-height:36px; overflow-wrap:anywhere; }
     .fp-sk-ch{ display:block; font:500 var(--fs-sm)/18px var(--body); letter-spacing:0; text-transform:none; color:var(--muted); margin-top:6px; }
     .fp-sk-mp, .fp-sk-gl{ display:none; }
-    .fp-sk-acts{ display:flex; justify-content:space-between; gap:8px; margin-top:10px; }
+    /* under the card: save at the left edge, more at the right edge (icons line up with the art: 18 in a 44 box = 13 over) */
+    .fp-sk-acts{ display:flex; justify-content:space-between; margin:2px -13px 0; }
     .set-add-sp{ flex:none; width:var(--btn-ib); height:var(--btn-ib); }
     @media(max-width:560px){
       .fp-sets{ padding:4px 0 8px; }
       .fp-sets-grid, .lsn .fp-sets-grid{ display:block; }
-      .fp-skw{ display:flex; align-items:center; gap:12px; padding:10px 20px; }
+      .fp-skw{ display:flex; align-items:center; gap:12px; padding:10px 8px 10px 20px; }
       .fp-sk{ flex-direction:row; align-items:center; gap:12px; flex:1 1 auto; width:auto; }
       .fp-sk-th{ width:80px; height:45px; aspect-ratio:auto; flex:none; }
       .fp-sk-th .gen{ padding:5px; }
       .fp-sk-th .gen .gt{ display:none; }
       .fp-sk-dur{ display:none; }
       .fp-sk-tx{ display:flex; flex-direction:column; gap:3px; flex:1 1 auto; }
-      .fp-sk-why{ margin:0; }
       .fp-sk-ti{ font:700 var(--fs-base)/19px var(--body); letter-spacing:0; margin:0; min-height:0; }
       .fp-sk-ch{ display:flex; align-items:center; gap:5px; margin:0; white-space:nowrap; }
       .fp-sk-mw{ display:none; }
       .fp-sk-mp{ display:inline; overflow:hidden; text-overflow:ellipsis; }
       .fp-sk-gl{ display:block; width:14px; height:14px; flex:none; color:var(--muted); }
-      /* [+] [art] [title/meta] [▶] — the acts box dissolves into the row and the + (or its empty lane) jumps to the front */
-      .fp-sk-acts{ display:contents; }
-      .fp-sk-acts > .set-add, .fp-sk-acts > .set-add-sp{ order:-1; }
+      /* [art] [text] [save] [more] */
+      .fp-sk-acts{ flex:none; margin:0; }
     }
 
-    /* gig line-up rows: ▶ then + (icon tier), gap 8 */
-    /* gig line-up rows: [+] [face] [name / where] [▶] (Paper 16MM) */
-    @media(max-width:560px){
-      .fp-lu{ grid-template-columns:44px 44px minmax(0,1fr) 44px; grid-template-areas:"ad f tx pl" "ad f at pl"; }
-      .fp-lu .set-add, .fp-lu .set-add-sp{ grid-area:ad; }
-    }
 
     /* ── gig page: Line-up | Line-up sets (Paper 14N2) ── */
     .ev-tabs{ margin-top:22px; }
@@ -4780,7 +4740,7 @@
     }
     .ev-lsets{ padding:6px 16px 12px; }
     .ev-lsg{ padding:14px 0 2px; }
-    .ev-lsg-h{ display:flex; align-items:center; gap:10px; margin:0 0 12px; font:700 var(--fs-2xs)/16px var(--font-mono); letter-spacing:.12em; text-transform:uppercase; color:var(--muted); }
+    .ev-lsg-h{ display:flex; align-items:center; gap:8px; margin:0 0 12px; font:700 var(--fs-2xs)/16px var(--font-mono); letter-spacing:.12em; text-transform:uppercase; color:var(--muted); }
     .ev-lsg-f{ width:22px; height:22px; border-radius:50%; flex:none; background:var(--surface-3) center/cover no-repeat; }
     .ev-lsg > .fp-lk{ margin-top:4px; }
     .ev-lsk .fp-sk-th, .ev-lsk-l{ background:var(--surface); animation:r8pulse 900ms ease-in-out infinite alternate; }
@@ -4931,23 +4891,13 @@
        M 36 with a 44 hit (link discs, close, calendar arrows, add, bare icons). */
     .evc-play, .lvr .evc-play, .psticky-play, .ds-filt, .dock .play-main{ width:var(--btn-ib); height:var(--btn-ib); }
     .psticky-play{ bottom:-22px; }
-    #ap-links .fp-lk-ib, .auth-close, #cal-prev, #cal-next, .tk-add, .promo-x, .psticky-back, .dock .iconbtn, .dock #dock-close, .dock:not(.expanded) .dock-acts .heart.dock-act{
+    #ap-links .fp-lk-ib, .auth-close, #cal-prev, #cal-next, .tk-add, .promo-x, .psticky-back, .dock .iconbtn, .dock #dock-close{
       width:var(--btn-m); height:var(--btn-m); min-width:0; padding:0; border-radius:var(--radius-btn); display:inline-flex; align-items:center; justify-content:center; }
     #ap-links .fp-lk-ib::after{ inset:-4px; }   /* 36 disc → 44 hit */
     .auth-close, #cal-prev, #cal-next, .tk-add{ background:transparent; border:1.5px solid var(--line-2); color:var(--fg); }
     .auth-close:hover, #cal-prev:hover, #cal-next:hover, .tk-add:hover{ border-color:var(--sel); background:var(--sel-weak); }
     :where(#cal-prev, #cal-next, .tk-add){ position:relative; }
     #cal-prev::after, #cal-next::after, .tk-add::after{ content:''; position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); width:44px; height:44px; }
-    /* dock heart: collapsed = disc M 36 (above); expanded desktop = M chip with its
-       label; expanded phone = disc L 44. Was 34 / 13-600 pill / a 6px BOX with a
-       flat-orange ON (the ugly yellow on a control). ON is violet everywhere. */
-    .dock.expanded .dock-acts .heart.dock-act{ height:var(--btn-m); padding:0 14px; gap:6px; border-radius:var(--radius-btn); border:1.5px solid var(--line-2); background:transparent; color:var(--fg); }
-    .dock.expanded .dock-acts .heart.dock-act span{ font:700 var(--fs-btn-m)/var(--lh-btn-m) var(--body); }
-    .dock.expanded .dock-acts .heart.dock-act.on{ background:var(--sel); border-color:var(--sel); color:var(--sel-ink); }
-    .dock.expanded .dock-acts .heart.dock-act.on svg{ fill:currentColor; stroke:currentColor; }
-    @media (max-width:620px){
-      .dock.expanded .dock-acts .heart.dock-act{ width:var(--btn-ib); height:var(--btn-ib); padding:0; }
-    }
     .ds-filt{ background:transparent; border:1.5px solid var(--line-2); }
 
     /* DOCK v2 — COLLAPSED ON A PHONE (Paper NEXT: RG1-0 V1/V8 iPhone 402, TUI-0 A1
@@ -4968,18 +4918,18 @@
       .dock:not(.expanded) :is(.main, .info, .dock-nmrow){ display:contents; }
       .dock:not(.expanded) .video-wrap{ grid-area:vid; }
       .dock:not(.expanded) .thumb{ grid-area:th; grid-row:2 / span 2; width:42px; height:42px; margin-right:12px; border-radius:var(--radius-sm); }
-      .dock:not(.expanded) .info .nm{ grid-area:nm; align-self:end; justify-self:start; max-width:100%; line-height:21px; }   /* only the words are the artist link; the rest of the row taps to expand */
+      .dock:not(.expanded) .dock-nmh{ grid-area:nm; align-self:end; justify-self:start; max-width:100%; }
+      .dock:not(.expanded) .info .nm{ line-height:21px; }   /* only the words are the artist link; the rest of the row taps to expand */
       .dock:not(.expanded) .dock-srcrow{ grid-area:src; align-self:start; margin-top:2px; }
       .dock:not(.expanded) .dock-srcrow .sub{ margin:0; font:500 var(--fs-sm)/18px var(--body); }
       /* the pill's 44 hit would reach up over the name line: grow it DOWN only (22 → 32) */
       .dock:not(.expanded) .dock-sc::after{ top:0; transform:translateX(-50%); height:32px; }
       .dock:not(.expanded) .dock-acts{ grid-area:acts; grid-row:2 / span 2; margin-left:12px; gap:4px; }
-      .dock:not(.expanded) .dock-acts .heart.dock-act{ width:44px; height:44px; }
-      .dock:not(.expanded) .dock-acts .set-add, .dock:not(.expanded) .transport, .dock.show:not(.expanded) .dock-report{ display:none; }
+      .dock:not(.expanded) .transport, .dock.show:not(.expanded) .dock-report{ display:none; }
       .dock:not(.expanded) .corner{ grid-area:x; grid-row:2 / span 2; position:static; transform:none; margin:0; margin-left:4px; }
       .dock:not(.expanded) .corner .iconbtn{ width:44px; height:44px; margin:0; }
       /* only a name, no source line: the name takes both lines' height */
-      .dock:not(.expanded) .panel:has(.dock-srcrow .sub:empty):has(.dock-sc[hidden]) .nm{ grid-row:2 / span 2; align-self:center; }
+      .dock:not(.expanded) .panel:has(.dock-srcrow .sub:empty):has(.dock-sc[hidden]) .dock-nmh{ grid-row:2 / span 2; align-self:center; }
       .dock:not(.expanded) .panel:has(.dock-srcrow .sub:empty):has(.dock-sc[hidden]) .dock-srcrow{ display:none; }
       /* scrubber band 44 (knob 30), times on their own line under it */
       .dock:not(.expanded) .scrub{ grid-area:sc; display:grid; grid-template-columns:1fr 1fr; grid-template-areas:"bar bar" "cur dur"; margin-top:8px; gap:0; }
@@ -5003,11 +4953,78 @@
       body.has-dock.dock-collapsed .toast{ bottom:calc(213px + env(safe-area-inset-bottom)); }
       body.has-dock.dock-collapsed:has(#yt-player):not(:has(.yt-tucked)) .toast{ bottom:calc(431px + env(safe-area-inset-bottom)); }
     }
+
+    /* ═══ LISTEN v4 + SAVE (1 Oct) — heart = artist, save = set ═══
+       Paper NEXT "Save redesign" 21ST + "Listen v4" 22ID. LAST in the sheet (flat
+       namespace, later wins). One set row everywhere: [art] [text] [save] [more];
+       the row itself plays. No + saves anything. */
+    /* the heart right after an artist name: off = outline, on = violet, 44 hit */
+    .heart.nh{ position:relative; flex:none; width:28px; height:22px; color:var(--fg); }
+    .heart.nh::after{ content:''; position:absolute; left:50%; top:50%; width:44px; height:44px; transform:translate(-50%,-50%); }
+    .heart.nh svg{ width:18px; height:18px; fill:none; stroke:currentColor; stroke-width:1.9; stroke-linejoin:round; }
+    .heart.nh:hover{ color:var(--fg); }
+    .heart.nh.on{ color:var(--sel); }
+    .heart.nh.on svg{ fill:var(--sel); stroke:var(--sel); }
+    .heart.nh:focus-visible{ outline:none; box-shadow:0 0 0 3px rgba(124,92,255,.45); }
+    .ev-lsg-h .nh{ height:19px; }
+    .ev-lsg-h .nh svg{ width:15px; height:15px; }
+    .fp-h1 .nh{ height:30px; margin-left:4px; vertical-align:middle; }
+    .fp-h1 .nh svg{ width:26px; height:26px; }
+    .dock-nmh{ display:flex; align-items:center; gap:4px; min-width:0; }
+    .dock .nh{ height:20px; }
+    .dock .nh svg, .skm .nh svg{ width:16px; height:16px; }
+    /* save = a bookmark, no disc on a row; the dock's one save keeps the disc */
+    .set-add, .fp-ib.sk-more{ border:0; }
+    .set-add svg{ width:18px; height:18px; fill:none; stroke:currentColor; stroke-width:1.9; stroke-linejoin:round; }
+    .set-add.on{ color:var(--sel); }
+    .set-add.on svg{ fill:currentColor; }
+    .dock .set-add{ border:1.5px solid var(--line-2); }
+    .sk-more svg{ fill:currentColor; }
+    .sk-tick{ flex:none; display:inline-flex; align-items:center; justify-content:center; width:var(--btn-ib); height:var(--btn-ib); color:var(--sel); }
+    .sk-tick svg{ width:18px; height:18px; fill:none; stroke:currentColor; stroke-width:2.4; stroke-linecap:round; stroke-linejoin:round; }
+    /* the row's text: artist, then the next gig (a label, never a control — flat accent allowed) */
+    .fp-sk-ar, .fp-sk-ng{ display:block; font:500 var(--fs-sm)/18px var(--body); color:var(--muted); white-space:nowrap; overflow:hidden; text-overflow:ellipsis; }
+    .fp-sk-ar{ margin-top:6px; }
+    .fp-sk-ng{ color:var(--accent); }
+    .fp-skw.sk-now .fp-sk-ti{ color:var(--accent); }
+    .fp-skw.sk-heard .fp-sk-th{ opacity:.55; }
+    .lsn-chips{ display:flex; gap:8px; margin:0 0 var(--sp-4); overflow-x:auto; scrollbar-width:none; }
+    .lsn-chips::-webkit-scrollbar{ display:none; }
+    @media(max-width:560px){
+      .fp-sk-tx{ gap:2px; }
+      .fp-sk-ar{ margin:0; }
+      .lsn-chips{ margin:4px 0 10px; }
+      .lsn .fp-sets-grid{ margin-left:calc(-1 * var(--gut)); margin-right:calc(-1 * var(--gut)); }
+    }
+    /* more menu: a small menu under the icon (web), a bottom sheet (phones).
+       Wears .acct-menu for the surface and .am-i for the rows. */
+    .skm-scrim{ position:fixed; inset:0; z-index:1990; }
+    .acct-menu.skm{ position:fixed; left:var(--skm-x,0); top:var(--skm-y,0); right:auto; width:300px; z-index:1991; }
+    .skm-grab{ display:none; }
+    .skm-h{ display:flex; align-items:center; gap:12px; padding:6px 10px 12px; border-bottom:1px solid var(--border); margin-bottom:5px; }
+    .skm-art{ flex:none; width:80px; height:45px; border-radius:6px; background:var(--surface-2) center/cover no-repeat; }
+    .skm-tx{ display:flex; flex-direction:column; gap:2px; min-width:0; }
+    .skm-ti{ font:700 var(--fs-base)/19px var(--body); display:-webkit-box; -webkit-line-clamp:2; -webkit-box-orient:vertical; overflow:hidden; }
+    .skm-ar{ display:flex; align-items:center; gap:6px; font:500 var(--fs-sm)/18px var(--body); color:var(--muted); }
+    .skm .am-i svg{ flex:none; width:18px; height:18px; fill:none; stroke:currentColor; stroke-width:1.9; stroke-linecap:round; stroke-linejoin:round; }
+    .skm .am-i svg.f{ fill:currentColor; stroke:none; }
+    .skm .am-i.on svg{ color:var(--sel); fill:currentColor; }
+    .skm .am-i.tick.on svg{ fill:none; }
+    .skm .am-i:disabled{ opacity:.5; cursor:default; }
+    .skm .am-i span{ flex:1 0 auto; white-space:nowrap; }
+    .skm .am-i .skm-r{ flex:0 1 auto; min-width:0; overflow:hidden; text-overflow:ellipsis; font:500 var(--fs-sm)/18px var(--body); color:var(--accent); }
+    @media(max-width:620px){
+      .skm-scrim{ background:rgba(14,10,28,.62); }
+      .acct-menu.skm{ left:0; right:0; top:auto; bottom:0; width:auto; border:0; border-radius:20px 20px 0 0; padding:10px 0 calc(28px + env(safe-area-inset-bottom)); max-height:90vh; overflow-y:auto; }
+      .skm-grab{ display:block; width:36px; height:4px; border-radius:var(--radius-pill); background:var(--line-2); margin:0 auto 10px; }
+      .skm-h{ padding:6px 20px 14px; margin:0; }
+      .skm .am-i{ height:52px; gap:14px; padding:0 20px; border-radius:0; font:600 16px/20px var(--body); }
+    }
 </style>
   <!-- Umami analytics. defer so it never blocks first paint; the SPA rewrites
        history on navigation, which umami picks up automatically. -->
   <script defer src="https://cloud.umami.is/script.js" data-website-id="de210b6c-12e4-4819-95f6-f5120974855a"></script>
-<meta name="sc-build" content="1790857214892">
+<meta name="sc-build" content="1790871780268">
   <link rel="canonical" href="https://soundcheck.club/" />
   <meta property="og:image" content="https://api.soundcheck.club/api/og?v=2&t=soundcheck&s=Gigs%20%26%20artist%20sets%20in%20104%20cities" />
 </head>
@@ -5066,7 +5083,7 @@
     <div class="grid" id="grid"></div>
     <!-- Per-city "what's on this week" date links, injected by build-club (canonical
          /<city>/<date>/ pages). Empty in the source; hidden on client-side city switch. -->
-    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">37 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">104 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">130 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
+    <section id="home-seo-more" class="home-seo-more" data-city="london"><h2>What&rsquo;s on in London this week</h2><ul class="home-seo-dates"><li><a href="/london/2026-10-01/">Thu 1 Oct <span class="c">38 events</span></a></li><li><a href="/london/2026-10-02/">Fri 2 Oct <span class="c">106 events</span></a></li><li><a href="/london/2026-10-03/">Sat 3 Oct <span class="c">130 events</span></a></li><li><a href="/london/2026-10-04/">Sun 4 Oct <span class="c">26 events</span></a></li><li><a href="/london/2026-10-05/">Mon 5 Oct <span class="c">4 events</span></a></li><li><a href="/london/2026-10-06/">Tue 6 Oct <span class="c">5 events</span></a></li><li><a href="/london/2026-10-07/">Wed 7 Oct <span class="c">15 events</span></a></li></ul><nav class="home-seo-nav" aria-label="More on soundcheck"><a href="/london/this-weekend/">This weekend in London</a> <a href="/london/scene/">London scene guide</a> <a href="/cities/">All 105 cities</a></nav></section>
 
     <!-- Crawlable home content (H1 + intro) — moved to the bottom of the page. Still a real
          <h1> in the DOM so it's the page heading for SEO regardless of visual position.
@@ -5107,7 +5124,7 @@
       <div class="video-wrap" id="dock-media"></div>
       <img class="thumb" id="dock-thumb" alt="">
       <div class="main">
-        <div class="info"><div class="dock-nmrow"><div class="nm" id="dock-name">&mdash;</div><div class="dock-acts" id="dock-acts"><button class="heart dock-act" id="dock-heart" type="button" data-name="" aria-label="Want to see"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.29 1.51 4.04 3 5.5l7 7Z"/></svg><span>Want to see</span></button><button class="set-add" id="dock-add" type="button" hidden aria-pressed="false" aria-label="Add to Your sets"></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="dock-srcrow"><div class="sub" id="dock-src">SoundCloud</div><a class="dock-sc" id="dock-sc" href="#" target="_blank" rel="noopener" hidden aria-label="Open this track on SoundCloud"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#FF5500" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg><span>SoundCloud</span><svg class="dock-sc-out" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a></div></div>
+        <div class="info"><div class="dock-nmrow"><div class="dock-nmh"><div class="nm" id="dock-name">&mdash;</div><button class="heart nh" id="dock-heart" type="button" data-name="" aria-label="Want to see"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.4s-7.4-4.5-7.4-10A4.2 4.2 0 0 1 12 7.7a4.2 4.2 0 0 1 7.4 2.7c0 5.5-7.4 10-7.4 10z"/></svg></button></div><div class="dock-acts" id="dock-acts"><button class="set-add" id="dock-add" type="button" hidden aria-pressed="false" aria-label="Save"></button></div></div><div class="dock-next" id="dock-next-gig"></div><div class="dock-srcrow"><div class="sub" id="dock-src">SoundCloud</div><a class="dock-sc" id="dock-sc" href="#" target="_blank" rel="noopener" hidden aria-label="Open this track on SoundCloud"><svg viewBox="0 0 24 24" aria-hidden="true"><path fill="#FF5500" d="M23.999 14.165c-.052 1.796-1.612 3.169-3.4 3.169h-8.18a.68.68 0 0 1-.675-.683V7.862a.747.747 0 0 1 .452-.724s.75-.513 2.333-.513a5.364 5.364 0 0 1 2.763.755 5.433 5.433 0 0 1 2.57 3.54c.282-.08.574-.121.868-.12.884 0 1.73.358 2.347.992s.948 1.49.922 2.373ZM10.721 8.421c.247 2.98.427 5.697 0 8.672a.264.264 0 0 1-.53 0c-.395-2.946-.22-5.718 0-8.672a.264.264 0 0 1 .53 0ZM9.072 9.448c.285 2.659.37 4.986-.006 7.655a.277.277 0 0 1-.55 0c-.331-2.63-.256-5.02 0-7.655a.277.277 0 0 1 .556 0Zm-1.663-.257c.27 2.726.39 5.171 0 7.904a.266.266 0 0 1-.532 0c-.38-2.69-.257-5.21 0-7.904a.266.266 0 0 1 .532 0Zm-1.647.77a26.108 26.108 0 0 1-.008 7.147.272.272 0 0 1-.542 0 27.955 27.955 0 0 1 0-7.147.275.275 0 0 1 .55 0Zm-1.67 1.769c.421 1.865.228 3.5-.029 5.388a.257.257 0 0 1-.514 0c-.21-1.858-.398-3.549 0-5.389a.272.272 0 0 1 .543 0Zm-1.655-.273c.388 1.897.26 3.508-.01 5.412-.026.28-.514.283-.54 0-.244-1.878-.347-3.54-.01-5.412a.283.283 0 0 1 .56 0Zm-1.668.911c.4 1.268.257 2.292-.026 3.572a.257.257 0 0 1-.514 0c-.241-1.262-.354-2.312-.023-3.572a.283.283 0 0 1 .563 0Z"/></svg><span>SoundCloud</span><svg class="dock-sc-out" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M8 7h9v9"/></svg></a></div></div>
         <!-- Fixed order everywhere (web + mobile): −15 · prev · [play] · next · +15.
              The play button is hidden (the scrubber knob is play/pause), so the visible
              row is −15 · prev · next · +15 on both; DOM order = render order, no per-
@@ -5773,19 +5790,21 @@
       b.addEventListener('click', function(e){
         e.stopPropagation();                       // the panel toggles the dock; this must not
         if(b.disabled || !_rep.videoId || !_rep.slug) return;
-        var slug=_rep.slug, videoId=_rep.videoId;
-        b.disabled=true;
-        // Mark it done immediately. The demote is the server's job and it either
-        // works or it does not, but making someone tap twice to find out is worse
-        // than trusting them once.
-        try{ localStorage.setItem(_repKey(slug,videoId),'1'); }catch(_){}
-        b.classList.add('on'); b.title='Reported'; b.setAttribute('aria-label','Already reported');
-        showToast('Thanks. We\u2019ll stop playing that one.');
-        fetch(API_BASE+'/api/report/video',{ method:'POST', headers:{'Content-Type':'application/json'},
-          body: JSON.stringify({ slug:slug, videoId:videoId, source:_rep.source, pageUrl:location.href }) })
-          .catch(function(){});
+        reportSet(_rep.slug, _rep.videoId, _rep.source);
       });
     })();
+    function reportSet(slug, videoId, source){
+      if(!slug || !videoId || _repDone(slug, videoId)) return;
+      // Mark it done immediately. The demote is the server's job and it either
+      // works or it does not, but making someone tap twice to find out is worse
+      // than trusting them once.
+      try{ localStorage.setItem(_repKey(slug,videoId),'1'); }catch(_){}
+      setDockReport(_rep.videoId, _rep.slug, _rep.source);
+      showToast('Thanks. We\u2019ll stop playing that one.');
+      fetch(API_BASE+'/api/report/video',{ method:'POST', headers:{'Content-Type':'application/json'},
+        body: JSON.stringify({ slug:slug, videoId:videoId, source:source||'youtube', pageUrl:location.href }) })
+        .catch(function(){});
+    }
 
     /**
      * COLLAPSED ON A PHONE, EXPANDED ON A DESKTOP.
@@ -5827,17 +5846,16 @@
         dockSrc.onclick = navVenue ? function(){ openVenue(navVenue, navCity||null); } : null;
       }
       setDockNextGig(navSlug); // expanded dock: the artist's next gig under the name
-      // Heart / Wanna-see for the playing artist — labeled, in the expanded player. Reuses the
-      // .heart data hooks so refreshArtistButtons() keeps it in sync everywhere.
-      var dockActs=document.getElementById('dock-acts');
-      if(navSlug){
-        var dh=document.getElementById('dock-heart');
-        dh.setAttribute('data-pick-art', navSlug); dh.setAttribute('data-name', name);
-        refreshArtistButtons(navSlug);   // sets the .on state from current status
-        dh.style.display='';
-      } else { var dh0=document.getElementById('dock-heart'); if(dh0) dh0.style.display='none'; }
-      // The row always shows: the + (Your sets) is there whenever the set has an id.
-      dockActs.style.display='';
+      // The heart sits right after the ARTIST name: the name line for a set, the
+      // sub-line for a track (there the name is the song). Reuses the .heart data
+      // hooks so refreshArtistButtons() keeps it in sync everywhere.
+      var dh=document.getElementById('dock-heart');
+      (isTrack?dockSrc:dockName).after(dh);
+      dh.setAttribute('data-pick-art', navSlug); dh.setAttribute('data-name', isTrack?(btn.dataset.artist||''):name);
+      dh.style.display=navSlug?'':'none';
+      if(navSlug) refreshArtistButtons(navSlug);   // sets the .on state from current status
+      // The save icon is there whenever the set has an id.
+      document.getElementById('dock-acts').style.display='';
       setTimeout(lsnTick, 50);
       if(btn.dataset.poster){ dockThumb.src=imgUrl(btn.dataset.poster,120); dockThumb.style.display=''; }
       else { dockThumb.removeAttribute('src'); dockThumb.style.display='none'; }
@@ -6238,33 +6256,62 @@
       YouTube:'<svg class="fp-sk-gl" viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="5" width="20" height="14" rx="4" fill="currentColor"/><path d="M10 9v6l5-3z" fill="var(--bg)"/></svg>',
       SoundCloud:'<svg class="fp-sk-gl" viewBox="0 0 512 512" aria-hidden="true"><path fill="currentColor" d="M424 240c-6 0-12 1-18 3-6-62-58-111-122-111-16 0-32 3-46 9v231h186c34 0 62-28 62-62s-28-70-62-70zM208 157v224h16V148c-6 2-11 5-16 9zM176 184v197h16V168c-6 5-11 10-16 16zM144 208v173h16V195c-6 4-11 9-16 13zM112 240v141h16V224c-6 4-11 10-16 16zM80 264v117h16V256c-6 2-11 5-16 8zM48 296v85h16V288c-6 2-11 5-16 8zM16 328v48c0 3 0 5 1 8h15v-72c-6 4-11 10-16 16z"/></svg>'
     };
-    // ONE set card. Web: 16:9 art, 2-line title, "<date> · YouTube", then ▶ and +
-    // side by side under it (icon tier). Phones: the same markup lays out as a
-    // row (art 80×45 · title + "<date> · <duration>" + glyph · ▶ +).
-    // o = { i, attr, thumb, title, dur, date, src, why, add }
+    // ONE set row, everywhere sets are listed (Paper NEXT 21ST + 22ID): [art] [text]
+    // [save] [more]. Tapping the row plays; there is no ▶ and no +. Web: a 16:9
+    // card with save and more under it. Phones: the same markup lays out as a row.
+    // Text: title, then in Listen the artist and the next gig; on an artist's own
+    // list the artist is already the heading, so "<date> · <duration>" instead.
+    // o = { i, attr, thumb, title, dur, date, src, key, save, heard, listen, slug, name, nextGig, url }
+    var SAVE_SVG='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 4h10a1 1 0 0 1 1 1v15l-6-4-6 4V5a1 1 0 0 1 1-1z"/></svg>';
+    var MORE_SVG='<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="5" cy="12" r="1.8"/><circle cx="12" cy="12" r="1.8"/><circle cx="19" cy="12" r="1.8"/></svg>';
+    var HEARD_SVG='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 12.5l4.5 4.5L19 7.5"/></svg>';
+    var NH_SVG='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 20.4s-7.4-4.5-7.4-10A4.2 4.2 0 0 1 12 7.7a4.2 4.2 0 0 1 7.4 2.7c0 5.5-7.4 10-7.4 10z"/></svg>';
+    // The heart right after an artist name = want to see. No slug, no heart.
+    function nameHeartHTML(slug, name){
+      if(!slug) return '';
+      var on=artStatus(slug)==='wanna_see';
+      return '<button class="heart nh'+(on?' on':'')+'" type="button" data-pick-art="'+esc(slug)+'" data-name="'+esc(name||'')+'" aria-pressed="'+on+'" aria-label="Want to see">'+NH_SVG+'</button>';
+    }
+    document.addEventListener('click', function(e){
+      var h=e.target.closest && e.target.closest('.nh[data-pick-art]'); if(!h) return;
+      e.preventDefault(); e.stopPropagation();
+      var sl=h.getAttribute('data-pick-art'), nm=h.getAttribute('data-name'); if(!sl) return;
+      toggleArtist(sl,{name:nm});
+    }, true);
+    // "Sat 3 Oct · FOLD, London"
+    function gigLine(g){
+      var day=g && String(g.date||g.event_date||'').slice(0,10), d=new Date(day+'T12:00:00');
+      if(!day || isNaN(d)) return '';
+      return d.toLocaleDateString('en-GB',{ weekday:'short', day:'numeric', month:'short' }).replace(/,/g,'')+' \u00b7 '+[g.venue, g.city?cityLabel(g.city):''].filter(Boolean).join(', ');
+    }
+    var _skRows=[];   // ponytail: what each row's more menu needs, by row number; small objects, lives for the session
     function setCardHTML(o){
       var dl=uploadLabel(o.date), title=o.title||'Set';
       var web=[dl, o.src].filter(Boolean).join(' · '), ph=[dl, o.dur].filter(Boolean).join(' · ');
-      return '<div class="fp-skw"><button class="fp-sk" type="button" '+o.attr+'="'+o.i+'">'+
+      var ng=o.listen?gigLine(o.nextGig):'';
+      var mi=_skRows.push({ key:o.key||'', title:title, thumb:o.thumb||'', slug:o.slug||'', name:o.name||'', nextGig:o.nextGig, url:o.url||'' })-1;
+      return '<div class="fp-skw'+(o.heard?' sk-heard':'')+'" data-mi="'+mi+'"'+(o.key?' data-sk="'+esc(o.key)+'"':'')+'><button class="fp-sk" type="button" '+o.attr+'="'+o.i+'">'+
         // A set with no artwork gets the generated poster, the same one the dock
         // and every event card use — an empty grey box reads as a failed load.
         '<span class="fp-sk-th"'+(o.thumb?' style="background-image:url(\''+esc(o.thumb)+'\')"':'')+'>'+(o.thumb?'':genPoster(title))+
         (o.dur?'<span class="fp-sk-dur">'+esc(o.dur)+'</span>':'')+'</span>'+
-        '<span class="fp-sk-tx">'+(o.why?'<span class="fp-sk-why'+(o.why.warm?' warm':'')+'">'+esc(o.why.t)+'</span>':'')+
-        '<span class="fp-sk-ti">'+esc(title)+'</span>'+
-        '<span class="fp-sk-ch"><span class="fp-sk-mw">'+esc(web)+'</span><span class="fp-sk-mp">'+esc(ph)+'</span>'+(SET_GLYPH[o.src]||'')+'</span></span></button>'+
-        // + FIRST, ▶ LAST (Paper 16MM, the Spotify/Tidal order). Web card: + bottom-left,
-        // ▶ bottom-right. Phone row: the acts box dissolves (display:contents) and the +
-        // moves to the far left of the row, before the art. o.lane keeps an empty 44 slot
-        // where a set has no + so the art still lines up in a list that has them.
-        '<div class="fp-sk-acts">'+(o.add||(o.lane?'<span class="set-add-sp" aria-hidden="true"></span>':''))+'<button class="fp-ib fp-sk-go" type="button" aria-label="Play '+esc(title)+'">'+PLAY_SVG+'</button></div></div>';
+        '<span class="fp-sk-tx"><span class="fp-sk-ti">'+esc(title)+'</span>'+
+        (o.listen
+          ? (o.name?'<span class="fp-sk-ar">'+esc(o.name)+'</span>':'')+(ng?'<span class="fp-sk-ng">'+esc(ng)+'</span>':'')
+          : '<span class="fp-sk-ch"><span class="fp-sk-mw">'+esc(web)+'</span><span class="fp-sk-mp">'+esc(ph)+'</span>'+(SET_GLYPH[o.src]||'')+'</span>')+
+        '</span></button>'+
+        // Heard rows show a violet tick where the save icon was. A set with no
+        // Listen key (Mixcloud) keeps an empty 44 slot so the more icon lines up.
+        '<div class="fp-sk-acts">'+(o.heard?'<span class="sk-tick" role="img" aria-label="Heard">'+HEARD_SVG+'</span>':(o.save||'<span class="set-add-sp" aria-hidden="true"></span>'))+
+        '<button class="fp-ib sk-more" type="button" aria-haspopup="menu" aria-label="More">'+MORE_SVG+'</button></div></div>';
     }
     var SET_SRC={ YT:'YouTube', SC:'SoundCloud', NTS:'NTS' };
-    // A card for one artistSetItems() row, with its + (Mixcloud has no Listen key).
+    // A card for one artistSetItems() row, with its save icon (Mixcloud has no Listen key).
     function setItemCardHTML(it, i, slug, artist){
       var sk=it.kind==='yt'?lsnKey(it.videoId,'yt'):(it.kind==='mc'?null:lsnKey(it.url||it.audio, it.badge==='NTS'?'nts':'sc'));
-      var add=setAddHTML(sk, { artistSlug:slug, artistName:artist, title:it.title||'', duration:it.dur||null, thumb:it.thumb||null, publishedAt:it.date||null });
-      return setCardHTML({ i:i, attr:'data-i', thumb:it.thumb, title:it.title, dur:fmtSetDur(it.dur), date:it.date, src:SET_SRC[it.badge]||it.src||'', add:add, lane:true });
+      var save=setAddHTML(sk, { artistSlug:slug, artistName:artist, title:it.title||'', duration:it.dur||null, thumb:it.thumb||null, publishedAt:it.date||null });
+      return setCardHTML({ i:i, attr:'data-i', thumb:it.thumb, title:it.title, dur:fmtSetDur(it.dur), date:it.date, src:SET_SRC[it.badge]||it.src||'', key:sk?lsnK(sk):'', save:save,
+        slug:slug, name:artist, url:it.kind==='yt'?'https://youtu.be/'+it.videoId:(it.url||'') });
     }
     // Play row i of an artistSetItems() list. A YouTube row starts a queue of the
     // YouTube rows, so next/prev walk sets rather than jumping between players.
@@ -6280,11 +6327,6 @@
       if(it.kind==='mc'){ playMcUrl(it.url, it.title, it.thumb, it.src||'Mixcloud', { name:artist, slug:slug }); return; }
       playScUrl(it.url||it.audio, it.title, it.thumb, it.badge==='NTS'?'NTS Radio':'SoundCloud', { name:artist, slug:slug });
     }
-    // The ▶ under a card does exactly what tapping the card does (one path).
-    document.addEventListener('click', function(e){
-      var g=e.target.closest && e.target.closest('.fp-sk-go'); if(!g) return;
-      var sk=g.closest('.fp-skw'); sk=sk&&sk.querySelector('.fp-sk'); if(sk) sk.click();
-    });
     // ── ROUND 8 · artist Music tab (Bandcamp) — Paper 1321 ──
     var BC_GLYPH='<svg class="mu-bc" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M1 18.5 7.2 5.5H23l-6.2 13z"/></svg>';
     var OUT_SVG='<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M7 17 17 7M9 7h8v8"/></svg>';
@@ -6690,7 +6732,6 @@
     }
     onEl('dock-prev','click',function(){ playAt(-1); });
     onEl('dock-next','click',function(){ playAt(1); });
-    onEl('dock-heart','click',function(){ var s=this.getAttribute('data-pick-art'); if(s) toggleArtist(s,{name:this.getAttribute('data-name')}); });
     // Start resolving a button's YouTube id on pointerdown (fires before the
     // click), so the id is usually ready by tap time. Awaiting an already-
     // resolved promise is only a microtask, so playback still runs inside the
@@ -7528,7 +7569,6 @@
       var k=CSS.escape(slug), st=artStatus(slug);
       document.querySelectorAll('.heart[data-pick-art="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'; b.classList.toggle('on', on); b.setAttribute('aria-pressed', on?'true':'false'); });
       // artist-page action buttons (immediate optimistic state, no re-render) — class-agnostic so it matches both .act-btn and the bespoke .fp-ab buttons
-      document.querySelectorAll('[data-ap-wanna="'+k+'"]').forEach(function(b){ var on=st==='wanna_see'||st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); b.innerHTML=(st==='seen'?TC_CHECK:HEART_SVG)+'<span>'+(st==='seen'?'Seen':'Want to see')+'</span>'; });
       document.querySelectorAll('[data-ap-seen="'+k+'"]').forEach(function(b){ var on=st==='seen'; b.classList.toggle('on',on); b.setAttribute('aria-pressed',on?'true':'false'); });
     }
     function refreshEventButtons(id){
@@ -7685,7 +7725,7 @@
       if(currentUser){ hideSignupBanner(); if(prefs.pendingEmail) setPref('pendingEmail',''); } // signed up — clear the nudge
       else if(prefs.pendingEmail){ _pendingEmail=prefs.pendingEmail; showSignupBanner(prefs.pendingEmail); } // still pending — re-nudge
       if(currentUser||anonUser) await hydrateShelf();
-      if(currentUser) lsnHydrate(); else _lsnAdded={};
+      if(currentUser) lsnHydrate(); else { _lsnAdded={}; _lsnHeard={}; }
       if(currentUser){ maybePromptHandle(); if(currentUser.handleClaimed) maybePromptHomeCity(); }
       applyPrefCity();
       adoptLegacyLocal();
@@ -7758,13 +7798,11 @@
         Object.keys(picks.events).forEach(refreshEventButtons);
       }catch(_){}
     }
-    // ── LISTEN v2 — Your sets, From your wanna see, Heard (Paper brief 11LJ) ──
+    // ── LISTEN v4 — Saved, Your artists, Picks, Heard (Paper NEXT 22ID + 21ST) ──
     // A set is id + source: yt = videoId, sc = SoundCloud url, nts = the
     // SoundCloud audio url NTS serves. Same normalisation as the server's
     // setKey (auth.js) so a key built here matches the one it echoes.
-    var _lsnAdded={}, _lsnMeta={}, _lsnPend=null;
-    var LSN_PLUS='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14M5 12h14"/></svg>';
-    var LSN_TICK='<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5.5 12.5l4.2 4.2L18.5 7.8"/></svg>';
+    var _lsnAdded={}, _lsnHeard={}, _lsnMeta={}, _lsnPend=null;
     function lsnKey(id, source){
       source=String(source||'yt').toLowerCase(); id=String(id||'').trim();
       if(source==='yt') return /^[A-Za-z0-9_-]{5,20}$/.test(id) ? { id:id, source:'yt' } : null;
@@ -7774,12 +7812,13 @@
       return { id:'https://soundcloud.com'+u.pathname.replace(/\/+$/,''), source:source };
     }
     function lsnK(k){ return k.source+'|'+k.id; }
-    // The control. meta = { artistSlug, artistName, title, duration, thumb, publishedAt }.
+    // The save icon (a bookmark; in words it is Save / Saved, never + or Add).
+    // meta = { artistSlug, artistName, title, duration, thumb, publishedAt }.
     function setAddHTML(k, meta){
       if(!k) return '';
       var key=lsnK(k); if(meta) _lsnMeta[key]=meta;
       var on=!!_lsnAdded[key];
-      return '<button class="set-add'+(on?' on':'')+'" type="button" data-sk="'+esc(key)+'" aria-pressed="'+on+'" aria-label="'+(on?'Remove from Your sets':'Add to Your sets')+'">'+(on?LSN_TICK:LSN_PLUS)+'</button>';
+      return '<button class="set-add'+(on?' on':'')+'" type="button" data-sk="'+esc(key)+'" aria-pressed="'+on+'" aria-label="'+(on?'Saved':'Save')+'">'+SAVE_SVG+'</button>';
     }
     function lsnPaint(key){
       var on=!!_lsnAdded[key];
@@ -7787,19 +7826,18 @@
         if(key && b.dataset.sk!==key) return;
         var o=!!_lsnAdded[b.dataset.sk];
         b.classList.toggle('on',o); b.setAttribute('aria-pressed',String(o));
-        b.setAttribute('aria-label', o?'Remove from Your sets':'Add to Your sets');
-        b.innerHTML=o?LSN_TICK:LSN_PLUS;
+        b.setAttribute('aria-label', o?'Saved':'Save');
       });
       return on;
     }
     async function lsnHydrate(){
       try{
         var j=await (await authedFetch('/api/sets/shelf')).json();
-        var m={};
-        ((j&&j.sets)||[]).forEach(function(r){ if(r.added_at && !r.heard_at){ var k=lsnKey(r.video_id, r.source||'yt'); if(k) m[lsnK(k)]=1; } });
-        _lsnAdded=m; lsnPaint();
+        var m={}, hd={};
+        ((j&&j.sets)||[]).forEach(function(r){ var k=lsnKey(r.video_id, r.source||'yt'); if(!k) return; if(r.heard_at) hd[lsnK(k)]=1; else if(r.added_at) m[lsnK(k)]=1; });
+        _lsnAdded=m; _lsnHeard=hd; lsnPaint();
       }catch(_){}
-      if(_lsnPend && currentUser){ var p=_lsnPend; _lsnPend=null; if(!_lsnAdded[p]) lsnSet(p, true, false, lsnBtnFor(p)); }   // signed in from a + tap → finish the add, with the full flight
+      if(_lsnPend && currentUser){ var p=_lsnPend; _lsnPend=null; if(!_lsnAdded[p]) lsnSet(p, true, false, lsnBtnFor(p)); }   // signed in from a save tap → finish the save, with the full flight
     }
     function lsnSet(key, added, quiet, btn){
       var i=key.indexOf('|'), src=key.slice(0,i), id=key.slice(i+1), meta=_lsnMeta[key]||{};
@@ -7813,26 +7851,25 @@
         .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
         .then(function(){ if(currentRoute()==='listen') lsnRender(); })
         .catch(function(){
-          // Optimistic: the flight still lands, then the ✓ goes back to + and says so.
+          // Optimistic: the flight still lands, then the icon goes back and says so.
           setTimeout(function(){
             if(prev) _lsnAdded[key]=1; else delete _lsnAdded[key]; lsnPaint(key);
-            if(added && !quiet){ lsnBadgeAdd(-1); lsnToast(key, 'Couldn’t add. Try again.', null, true); }
+            if(added && !quiet){ lsnBadgeAdd(-1); lsnToast(key, 'Couldn’t save. Try again.', null, true); }
             else showToast('Couldn’t save. Try again.');
           }, flying);
         });
       if(quiet) return;
-      // Added: the set flies to Listen, then "Added to Your sets" + Undo.
-      // Removed (tap on ✓): no flight, "Removed from Your sets" + Undo.
-      if(added) setTimeout(function(){ if(_lsnAdded[key]) lsnToast(key, 'Added to Your sets', function(){ lsnBadgeAdd(-1); lsnSet(key, false, true); }); }, flying?600:0);
-      else lsnToast(key, 'Removed from Your sets', function(){ lsnSet(key, true, true); });
+      // Saved: the set flies to Listen, then "Saved" + Undo. Removed: no flight, "Removed" + Undo.
+      if(added) setTimeout(function(){ if(_lsnAdded[key]) lsnToast(key, 'Saved', function(){ lsnBadgeAdd(-1); lsnSet(key, false, true); }); }, flying?600:0);
+      else lsnToast(key, 'Removed', function(){ lsnSet(key, true, true); });
     }
     function lsnBtnFor(key){
       var bs=document.querySelectorAll('.set-add[data-sk]');
       for(var i=0;i<bs.length;i++){ if(bs[i].dataset.sk===key && bs[i].getClientRects().length) return bs[i]; }
       return null;
     }
-    // ── + → Listen: the flight (Paper 13LZ, K0–K5 · W-K · RM) ──
-    // Badge = sets added since Listen was last opened; opening Listen clears it.
+    // ── save → Listen: the flight (Paper 13LZ, K0–K5 · W-K · RM) ──
+    // Badge = sets saved since Listen was last opened; opening Listen clears it.
     var _lsnNew=0; try{ _lsnNew=Math.max(0, parseInt(localStorage.getItem('sc_lsn_new')||'0',10)||0); }catch(_){}
     function lsnBadgePaint(pop){
       ['nav-listen','bnav-listen'].forEach(function(id){
@@ -7915,13 +7952,94 @@
       };
       toastEl._t=setTimeout(function(){ toastEl.classList.remove('show'); }, 4000);
     }
-    // ONE delegated handler for every + in the app (cards, line-up, Listen, dock).
+    // ONE delegated handler for every save icon in the app (cards, rows, Listen, dock).
+    function lsnToggle(key, btn){
+      if(!key) return;
+      if(!currentUser){ _lsnPend=key; openAuth(); return; }
+      lsnSet(key, !_lsnAdded[key], false, btn);
+    }
     document.addEventListener('click', function(e){
       var b=e.target.closest && e.target.closest('.set-add[data-sk]'); if(!b) return;
       e.preventDefault(); e.stopPropagation();
-      var key=b.dataset.sk;
-      if(!currentUser){ _lsnPend=key; openAuth(); return; }
-      lsnSet(key, !_lsnAdded[key], false, b);
+      lsnToggle(b.dataset.sk, b);
+    }, true);
+    // Mark as heard / un-tick. Heard also happens by itself at 70% played (below).
+    function lsnHeardSet(key, on){
+      if(!currentUser){ openAuth(); return; }
+      var i=key.indexOf('|'), meta=_lsnMeta[key]||{}, body={ id:key.slice(i+1), source:key.slice(0,i), heard:!!on };
+      if(on) Object.keys(meta).forEach(function(f){ if(meta[f]!=null && meta[f]!=='') body[f]=meta[f]; });
+      authedFetch('/api/sets/heard',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify(body) })
+        .then(function(r){ if(!r.ok) throw new Error(r.status); showToast(on?'Heard':'Not heard'); lsnHydrate(); if(currentRoute()==='listen') lsnRender(); })
+        .catch(function(){ showToast('Couldn’t save. Try again.'); });
+    }
+
+    // ── the more menu (⋯): a small menu under the icon on the web, a bottom sheet on phones ──
+    var SKM_IC={
+      play:'<svg class="f" viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg>',
+      gig:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-6.5-5.6-6.5-10.5a6.5 6.5 0 0 1 13 0C18.5 15.4 12 21 12 21z"/><circle cx="12" cy="10.5" r="2.2" fill="currentColor" stroke="none"/></svg>',
+      artist:'<svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="8" r="3.6"/><path d="M5 20c.8-3.6 3.6-5.4 7-5.4s6.2 1.8 7 5.4"/></svg>',
+      share:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 15V4m0 0l-4 4m4-4l4 4M6 12v7h12v-7"/></svg>',
+      report:'<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 21V4h11l-2 4 2 4H6"/></svg>'
+    };
+    function skMenuClose(){
+      ['skm','skm-scrim'].forEach(function(id){ var x=document.getElementById(id); if(x) x.remove(); });
+      document.removeEventListener('keydown', skMenuKey); window.removeEventListener('scroll', skMenuMoved, true); window.removeEventListener('resize', skMenuClose);
+      document.querySelectorAll('.sk-more[aria-expanded="true"]').forEach(function(b){ b.setAttribute('aria-expanded','false'); });
+    }
+    function skMenuKey(e){ if(e.key==='Escape') skMenuClose(); }
+    // The web menu is pinned to its icon: when the icon moves away (a real scroll), it closes.
+    var _skmAt=null;
+    function skMenuMoved(){ if(_skmAt && Math.abs(_skmAt.b.getBoundingClientRect().top-_skmAt.y)>8) skMenuClose(); }
+    function skMenuOpen(btn){
+      skMenuClose();
+      var w=btn.closest('.fp-skw'), r=w && _skRows[+w.dataset.mi]; if(!r) return;
+      var key=r.key, saved=!!_lsnAdded[key], heard=!!_lsnHeard[key];
+      var vid=key.indexOf('yt|')===0 ? key.slice(3) : '', canRep=!!(vid && r.slug);
+      function row(act, ic, label, o){ o=o||{}; return '<button class="am-i'+(o.cls?' '+o.cls:'')+'" type="button" role="menuitem" data-act="'+act+'"'+(o.off?' disabled':'')+'>'+ic+'<span>'+label+'</span>'+(o.right?'<span class="skm-r">'+esc(o.right)+'</span>':'')+'</button>'; }
+      function gigRow(g){ var t=gigLine(g); return (g && g.id && t) ? row('gig', SKM_IC.gig, 'Next gig', { right:t }) : ''; }
+      var m=document.createElement('div'); m.id='skm'; m.className='acct-menu show skm'; m.setAttribute('role','menu');
+      m.innerHTML='<div class="skm-grab" aria-hidden="true"></div>'+
+        '<div class="skm-h"><span class="skm-art"'+(r.thumb?' style="background-image:url(\''+esc(r.thumb)+'\')"':'')+'></span>'+
+          '<div class="skm-tx"><div class="skm-ti">'+esc(r.title)+'</div>'+(r.name?'<div class="skm-ar"><span>'+esc(r.name)+'</span>'+nameHeartHTML(r.slug, r.name)+'</div>':'')+'</div></div>'+
+        row('play', SKM_IC.play, 'Play')+
+        (key?row('save', SAVE_SVG, saved?'Saved':'Save', { cls:saved?'on':'' })+row('heard', HEARD_SVG, heard?'Heard':'Mark as heard', { cls:'tick'+(heard?' on':'') }):'')+
+        gigRow(r.nextGig)+
+        (r.slug?row('artist', SKM_IC.artist, 'Go to artist'):'')+
+        row('share', SKM_IC.share, 'Share')+
+        (canRep?row('report', SKM_IC.report, 'Wrong set?', { off:_repDone(r.slug, vid) }):'');
+      var sc=document.createElement('div'); sc.id='skm-scrim'; sc.className='skm-scrim';
+      sc.addEventListener('click', skMenuClose);
+      document.body.appendChild(sc); document.body.appendChild(m);
+      btn.setAttribute('aria-expanded','true');
+      // web: under the icon, right edges together; above it when there is no room below
+      var b=btn.getBoundingClientRect(), mh=m.offsetHeight, mw=m.offsetWidth;
+      m.style.setProperty('--skm-x', Math.max(8, Math.min(b.right-mw, innerWidth-mw-8))+'px');
+      m.style.setProperty('--skm-y', (b.bottom+4+mh>innerHeight && b.top-4-mh>0 ? b.top-4-mh : b.bottom+4)+'px');
+      // An artist's own list does not carry a next gig on each set: ask once (cached).
+      if(r.nextGig===undefined && r.slug){
+        (Object.prototype.hasOwnProperty.call(_nextGigCache, r.slug) ? Promise.resolve(_nextGigCache[r.slug])
+          : pubGet('/api/artist/next?slug='+encodeURIComponent(r.slug)).then(function(j){ return (_nextGigCache[r.slug]=(j&&j.next)||null); }))
+          .then(function(g){ r.nextGig=g||null; var at=m.querySelector('[data-act="artist"]'); if(at && m.isConnected && !m.querySelector('[data-act="gig"]')) at.insertAdjacentHTML('beforebegin', gigRow(r.nextGig)); })
+          .catch(function(){});
+      }
+      m.addEventListener('click', function(e){
+        var a=e.target.closest('[data-act]'); if(!a || a.disabled) return;
+        var act=a.dataset.act; skMenuClose();
+        if(act==='play'){ var p=w.querySelector('.fp-sk'); if(p) p.click(); }
+        else if(act==='save') lsnToggle(key, w.querySelector('.set-add'));
+        else if(act==='heard') lsnHeardSet(key, !heard);
+        else if(act==='gig') openEvent(String(r.nextGig.id));
+        else if(act==='artist') openArtist(r.slug);
+        else if(act==='share') doShare({ title:r.title, text:r.title, url:r.slug?location.origin+djHref(r.slug)+'#sets':r.url });
+        else if(act==='report') reportSet(r.slug, vid, 'youtube');
+      });
+      document.addEventListener('keydown', skMenuKey);
+      if(innerWidth>620){ _skmAt={ b:btn, y:b.top }; window.addEventListener('scroll', skMenuMoved, true); window.addEventListener('resize', skMenuClose); }
+    }
+    document.addEventListener('click', function(e){
+      var b=e.target.closest && e.target.closest('.sk-more'); if(!b) return;
+      e.preventDefault(); e.stopPropagation();
+      if(b.getAttribute('aria-expanded')==='true') skMenuClose(); else skMenuOpen(b);
     }, true);
 
     // ── HEARD: add up the seconds actually PLAYED (not the position — a scrub
@@ -7972,6 +8090,7 @@
           else da.hidden=true;
         }
       }
+      lsnNowPaint(c);
       if(!c) return;
       if(ppOn && !scrubbing){
         if(_hs.last!=null){ var d=pos-_hs.last; if(d>0 && d<=3) _hs.secs+=d; }
@@ -7981,26 +8100,25 @@
       if(_hs.secs>=60 || (_hsWasOn && !ppOn)) lsnFlush();
       _hsWasOn=ppOn;
     }
+    // The playing row's title is warm, wherever that set is listed.
+    function lsnNowPaint(c){
+      if(c===undefined) c=lsnCurrent();
+      var k=c?c.key:'';
+      document.querySelectorAll('.fp-skw[data-sk]').forEach(function(w){ w.classList.toggle('sk-now', !!k && w.dataset.sk===k); });
+    }
     setInterval(lsnTick, 1000);
     lsnBadgePaint();
     window.addEventListener('pagehide', function(){ lsnFlush(true); });
     document.addEventListener('visibilitychange', function(){ if(document.visibilityState==='hidden') lsnFlush(true); });
 
     // ── the page: /listen/ ──
-    function lsnWhy(g){
-      if(!g || !g.date) return null;
-      var day=String(g.date).slice(0,10), venue=String(g.venue||'').toUpperCase();
-      if(day===todayISO()) return { t:'TONIGHT'+(venue?' · '+venue:''), warm:true };
-      var d=new Date(day+'T12:00:00');
-      if(isNaN(d)) return null;
-      return { t:d.toLocaleDateString('en-GB',{ weekday:'short', day:'numeric', month:'short' }).replace(/,/g,'').toUpperCase()+(venue?' · '+venue:''), warm:false };
-    }
-    // One card, the artist Sets tab's own (.fp-skw). o = { set, why, add }.
-    function lsnCard(o, i){
-      var s=o.set, k=lsnKey(s.id, s.source);
+    // One Listen row: set name, artist, next gig (when there is one).
+    function lsnCard(s, i, heard){
+      var k=lsnKey(s.id, s.source);
       var thumb=s.thumb || (s.source==='yt'?'https://i.ytimg.com/vi/'+s.id+'/mqdefault.jpg':'');
-      var add=o.add ? setAddHTML(k, { artistSlug:s.artistSlug||'', artistName:s.artistName||'', title:s.title||'', duration:s.duration||null, thumb:s.thumb||null, publishedAt:s.publishedAt||null }) : '';
-      return setCardHTML({ i:i, attr:'data-li', thumb:thumb, title:s.title||s.artistName||'Set', dur:fmtSetDur(s.duration), date:s.publishedAt, src:s.source==='yt'?'YouTube':(s.source==='nts'?'NTS':'SoundCloud'), why:o.why, add:add, lane:!!o.add });
+      var save=setAddHTML(k, { artistSlug:s.artistSlug||'', artistName:s.artistName||'', title:s.title||'', duration:s.duration||null, thumb:s.thumb||null, publishedAt:s.publishedAt||null });
+      return setCardHTML({ i:i, attr:'data-li', thumb:thumb, title:s.title||s.artistName||'Set', dur:fmtSetDur(s.duration), key:k?lsnK(k):'', save:save, heard:heard, listen:true,
+        slug:s.artistSlug||'', name:s.artistName||'', nextGig:s.nextGig||null, url:s.source==='yt'?'https://youtu.be/'+s.id:(s.url||s.id) });
     }
     // Play entry i of the page's list; the dock queue is the rest of the list.
     function lsnPlay(list, i){
@@ -8011,90 +8129,60 @@
       });
       scQErr=0; scQ=q; playScQ(i);
     }
-    var _lsnHeardOpen=false, _lsnSeq=0;
+    // Four chips, one list at a time. Saved = yours, Your artists = new sets from
+    // the artists you want to see, Picks = curated (public), Heard = heard.
+    var LSN_CHIPS=[['saved','Saved'],['artists','Your artists'],['picks','Picks'],['heard','Heard']];
+    var LSN_EMPTY={ saved:'No saved sets yet.', artists:'Save artists to see their new sets here.', heard:'Nothing heard yet.' };
+    var _lsnChip=null, _lsnData=null, _lsnSeq=0;
     async function openListen(){
       if(location.pathname!==SC_BASE+'listen/') history.pushState({sc:1},'',SC_BASE+'listen/');
-      _lsnHeardOpen=false;
+      _lsnChip=null; _lsnData=null;
       lsnBadgeClear();
-      var cm=cityMeta();
-      openPanel('<div class="lsn"><div class="rad-hd"><span class="kick">'+esc(cm.name.toUpperCase())+'</span>'+
-        '<h2 class="rad-h1">Listen</h2>'+
-        '<p class="rad-sub">Curated picks, and the sets you added.</p></div>'+
+      openPanel('<div class="lsn"><div class="rad-hd"><h2 class="rad-h1">Listen</h2></div>'+
         '<div id="lsn-body"><div class="empty" style="padding:16px 0"><span class="spinner"></span></div></div></div>');
-      setSeo('Listen | soundcheck', 'Curated picks, and the sets you added.', null, location.origin+SC_BASE+'listen/');
+      setSeo('Listen | soundcheck', 'Curated picks, and the sets you saved.', null, location.origin+SC_BASE+'listen/');
       syncTabs();
       await whenAuthKnown();
       lsnRender();
     }
-    // Curated picks: public, newest first. A pick row is the Listen row with no +
-    // and never a word about who picked it (founder, 1 Oct). Empty → no section.
     async function lsnPicks(){
       try{ var r=await authedFetch('/api/listen/picks'); if(r.ok) return ((await r.json()).picks)||[]; }catch(_){}
       return [];
     }
-    function lsnPicksHTML(picks){
-      if(!picks.length) return '';
-      return '<div class="sec-h">Curated picks<span class="ct">'+picks.length+'</span></div>'+
-        '<div class="fp-sets-grid">'+picks.map(function(s,i){ return lsnCard({ set:s }, i); }).join('')+'</div>';
-    }
     async function lsnRender(){
       var body=document.getElementById('lsn-body'); if(!body) return;
-      var seq=++_lsnSeq;
-      if(!currentUser){
-        var pk=await lsnPicks();
-        if(seq!==_lsnSeq || currentRoute()!=='listen') return;
-        body.innerHTML=lsnPicksHTML(pk)+'<div class="sec-h'+(pk.length?' gap':'')+'">Your sets</div><p class="lsn-empty">Sign in, then tap + on any set to keep it here.</p>'+
-          '<button class="fp-ab" type="button" id="lsn-signin">Sign in</button>';
-        body.querySelectorAll('.fp-sk[data-li]').forEach(function(b){ b.addEventListener('click', function(){ lsnPlay(pk, +b.dataset.li); }); });
-        document.getElementById('lsn-signin').addEventListener('click', function(){ openAuth(); });
-        return;
-      }
-      var j=null;
-      try{ var r=await authedFetch('/api/listen'); if(r.ok) j=await r.json(); }catch(_){}
+      var seq=++_lsnSeq, j=null;
+      if(!currentUser) j={ picks:await lsnPicks() };
+      else { try{ var r=await authedFetch('/api/listen'); if(r.ok) j=await r.json(); }catch(_){} }
       if(seq!==_lsnSeq || currentRoute()!=='listen') return;
       if(!j){ body.innerHTML='<p class="lsn-empty">Could not load Listen. <button class="fp-ab" type="button" id="lsn-retry">Try again</button></p>'; document.getElementById('lsn-retry').addEventListener('click', lsnRender); return; }
-      var pk=j.picks||[], yours=j.yours||[], heardN=j.heardCount||0;
-      // everything the server calls "yours" is added — keep the + state honest
-      yours.forEach(function(s){ var k=lsnKey(s.id,s.source); if(k) _lsnAdded[lsnK(k)]=1; });
-      var list=pk.concat(yours);
-      var h=lsnPicksHTML(pk);
-      h+='<div class="sec-h'+(pk.length?' gap':'')+'">Your sets<span class="ct">'+yours.length+'</span></div>';
-      if(yours.length) h+='<div class="fp-sets-grid">'+yours.map(function(s,i){ return lsnCard({ set:s, add:true }, pk.length+i); }).join('')+'</div>';
-      else h+='<p class="lsn-empty">'+(heardN?'All heard. Tap + on any set to add more.':'Nothing here yet. Tap + on any set to keep it here.')+'</p>';
-      if(heardN) h+='<div><button class="lsn-heard" type="button" id="lsn-heard" aria-expanded="'+_lsnHeardOpen+'">Heard · '+heardN+'<svg viewBox="0 0 24 24"><path d="M9 5l7 7-7 7"/></svg></button></div><div id="lsn-heard-list"></div>';
-      body.innerHTML=h;
-      body.querySelectorAll('.fp-sk[data-li]').forEach(function(b){ b.addEventListener('click', function(){ lsnPlay(list, +b.dataset.li); }); });
-      var hb=document.getElementById('lsn-heard');
-      if(hb) hb.addEventListener('click', function(){ _lsnHeardOpen=!_lsnHeardOpen; hb.setAttribute('aria-expanded', String(_lsnHeardOpen)); lsnHeardList(); });
-      if(_lsnHeardOpen) lsnHeardList();
+      var d=_lsnData={ saved:j.yours||[], artists:(j.fromWannaSee||[]).map(function(x){ return x&&x.set; }).filter(Boolean), picks:j.picks||[], heard:j.heard||[] };
+      if(currentUser){
+        // what the server calls saved and heard is the truth — keep the icons honest
+        d.saved.forEach(function(s){ var k=lsnKey(s.id,s.source); if(k) _lsnAdded[lsnK(k)]=1; });
+        d.heard.forEach(function(s){ var k=lsnKey(s.id,s.source); if(k){ _lsnHeard[lsnK(k)]=1; delete _lsnAdded[lsnK(k)]; } });
+      }
+      if(!_lsnChip) _lsnChip=(currentUser && d.saved.length)?'saved':'picks';
+      lsnPaintList();
     }
-    // Heard: newest heard first. Long-press (or right-click) a set → "Not heard".
-    async function lsnHeardList(){
-      var box=document.getElementById('lsn-heard-list'); if(!box) return;
-      if(!_lsnHeardOpen){ box.innerHTML=''; return; }
-      var j=null; try{ var r=await authedFetch('/api/sets/heard'); if(r.ok) j=await r.json(); }catch(_){}
-      if(!_lsnHeardOpen || !document.getElementById('lsn-heard-list')) return;
-      var hs=(j&&j.heard)||[];
-      box.innerHTML=hs.length?'<div class="fp-sets-grid">'+hs.map(function(s,i){ return lsnCard({ set:s }, i); }).join('')+'</div>':'';
-      box.querySelectorAll('.fp-sk[data-li]').forEach(function(b){
-        var s=hs[+b.dataset.li], t=null, longed=false;
-        function unhear(){
-          showToastAction('Heard: '+(s.title||'this set'), 'Not heard', function(){
-            authedFetch('/api/sets/heard',{ method:'POST', headers:{'Content-Type':'application/json'}, body:JSON.stringify({ id:s.id, source:s.source, heard:false }) })
-              .then(function(r){ if(!r.ok) throw 0; lsnRender(); }).catch(function(){ showToast('Couldn’t save. Try again.'); });
-          });
-        }
-        b.addEventListener('contextmenu', function(e){ e.preventDefault(); unhear(); });
-        b.addEventListener('pointerdown', function(e){ if(e.pointerType==='mouse') return; longed=false; t=setTimeout(function(){ longed=true; unhear(); }, 550); });
-        ['pointerup','pointerleave','pointercancel'].forEach(function(ev){ b.addEventListener(ev, function(){ clearTimeout(t); }); });
-        b.addEventListener('click', function(e){ if(longed){ e.preventDefault(); longed=false; return; } lsnPlay(hs, +b.dataset.li); });
-      });
+    function lsnPaintList(){
+      var body=document.getElementById('lsn-body'), d=_lsnData; if(!body || !d) return;
+      var list=d[_lsnChip]||[];
+      var h='<div class="lsn-chips" role="tablist">'+LSN_CHIPS.map(function(c){ var on=c[0]===_lsnChip; return '<button class="qchip'+(on?' on':'')+'" type="button" role="tab" aria-selected="'+on+'" data-chip="'+c[0]+'">'+c[1]+'</button>'; }).join('')+'</div>';
+      if(!currentUser && _lsnChip!=='picks') h+='<p class="lsn-empty">Sign in to save sets.</p><button class="fp-ab" type="button" id="lsn-signin">Sign in</button>';
+      else if(list.length) h+='<div class="fp-sets-grid">'+list.map(function(s,i){ return lsnCard(s, i, _lsnChip==='heard'); }).join('')+'</div>';
+      else if(LSN_EMPTY[_lsnChip]) h+='<p class="lsn-empty">'+LSN_EMPTY[_lsnChip]+'</p>';
+      body.innerHTML=h;
+      body.querySelectorAll('.qchip[data-chip]').forEach(function(b){ b.addEventListener('click', function(){ _lsnChip=b.dataset.chip; lsnPaintList(); }); });
+      body.querySelectorAll('.fp-sk[data-li]').forEach(function(b){ b.addEventListener('click', function(){ lsnPlay(list, +b.dataset.li); }); });
+      var si=document.getElementById('lsn-signin'); if(si) si.addEventListener('click', function(){ openAuth(); });
+      lsnNowPaint();
     }
 
     async function signOut(){
       try{ await authedFetch('/api/auth/logout',{ method:'POST' }); }catch(_){}
       try{ localStorage.removeItem(SESSION_KEY); localStorage.removeItem('sc_acct'); }catch(_){}
-      _hadAccount=false; currentUser=null; _lsnAdded={}; renderAccount();
+      _hadAccount=false; currentUser=null; _lsnAdded={}; _lsnHeard={}; renderAccount();
       // renderAccount() only repaints the HEADER widget. Sign out is almost
       // always pressed FROM the profile page, which stayed on screen showing
       // the account that no longer exists — so the button looked dead and you
@@ -9222,6 +9310,7 @@
     // Profile / feed / artist / venue render as full-page views (not overlays).
     var pageView=document.getElementById('page-view'), panelBody=null;
     function showPage(html){
+      if(typeof skMenuClose==='function') skMenuClose();   // a set's more menu never outlives its page
       document.body.classList.remove('has-psticky'); if(_psObs){ _psObs.disconnect(); _psObs=null; }   // reset the sticky title bar; entity pages re-arm it via armSticky
       pageView.innerHTML='<div class="psticky" id="psticky"><div class="psticky-in"><button class="psticky-back" id="psticky-back" type="button" aria-label="Back"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M15 18l-6-6 6-6"/></svg></button><span class="psticky-nm" id="psticky-nm"></span><button class="psticky-play" id="psticky-play" type="button" aria-label="Play"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M8 5v14l11-7z"/></svg></button></div></div><div id="page-body">'+html+'</div>';   // Spotify-style sticky bar: small back chevron + name + play (the page itself has no inline back button)
       panelBody=document.getElementById('page-body');
@@ -9856,7 +9945,7 @@
       // show ALL tiles — no See-more cap (user pref: Seen live / Wanna see in full)
       // Same card as the artist page's "Similar" rail: squarish photo + name + orange next-gig line.
       function grid(list, seen, key){
-        if(!list.length) return '<div class="empty" style="padding:0 0 4px">Nothing yet.</div>';
+        if(!list.length) return '<div class="empty" style="padding:0 0 4px">'+(key==='wanna' && currentUser && currentUser.handle===handle?'Tap the heart next to an artist\u2019s name and they show here.':'Nothing yet.')+'</div>';
         var tiles=list.map(function(a){
           var bg=a.image?('url('+imgUrl(a.image,300)+')'):avatarBg(a.slug,null);
           var nd=a.nextDate?fmtDateLabel(String(a.nextDate).slice(0,10)):'';
@@ -10464,7 +10553,7 @@
       // Seen live / Wanna see boxes (spacious grids)
       function shelfBox(id, title, list, seen){
         var el=document.getElementById(id); if(!el) return;
-        if(!list||!list.length){ if(isMe){ el.innerHTML='<div class="empty" style="padding:2px">Nothing here yet.</div>'; } else el.remove(); return; }
+        if(!list||!list.length){ if(isMe){ el.innerHTML='<div class="empty" style="padding:2px">'+(seen?'Nothing here yet.':'Tap the heart next to an artist\u2019s name and they show here.')+'</div>'; } else el.remove(); return; }
         el.innerHTML=pfShelfHTML(id, title, list, seen);
         function wireTiles(scope){ scope.querySelectorAll('.ptile[data-artist]').forEach(function(b){ b.addEventListener('click',function(){ openArtist(b.dataset.artist); }); }); }
         wireTiles(el);
@@ -11523,15 +11612,13 @@
               // .fp-htop = the part that sits ON the artwork (full-bleed hero).
               '<div class="fp-htop"><div class="fp-kick">'+kick+'</div>'+
               // Link discs sit right after the name (Paper 15LW); a long name wraps them under it.
-              '<div class="fp-namerow"><h1 class="fp-h1">'+esc(a.name||slug)+'</h1><span class="fp-links" id="ap-links">'+socials+'</span></div></div>'+
+              '<div class="fp-namerow"><h1 class="fp-h1">'+esc(a.name||slug)+nameHeartHTML(slug, a.name||slug)+'</h1><span class="fp-links" id="ap-links">'+socials+'</span></div></div>'+
               bioBlock(a.bio||a.description||'')+
               genreTags+festLine+gemLine+
               '<div class="fp-acts">'+
                 '<button class="fp-ab go" id="ap-radio" data-slug="'+esc(slug)+'" data-name="'+esc(a.name||slug)+'"'+(a.image?' data-poster="'+esc(a.image)+'"':'')+nextVenueAttr+' type="button" aria-label="Play '+esc(a.name||slug)+'&rsquo;s sets">'+PLAY_SVG+'<span>Play</span></button>'+
-                // seen artists don't need a "wanna see" — the button becomes a selected "Seen"
-                '<button class="fp-ab'+((mine==='wanna_see'||mine==='seen')?' on':'')+'" id="ap-wanna" data-ap-wanna="'+esc(slug)+'" type="button" aria-pressed="'+(mine==='wanna_see'||mine==='seen')+'">'+(mine==='seen'?TC_CHECK:HEART_SVG)+'<span>'+(mine==='seen'?'Seen':'Want to see')+'</span></button>'+
                 '<button class="fp-ab" id="ap-log" type="button">'+logSvg+'<span>Log a gig</span></button>'+
-                '<button class="fp-ab" id="ap-list" type="button">'+PLUS_SVG+'<span>Add to list</span></button>'+
+                '<button class="fp-ab" id="ap-list" type="button"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.9" stroke-linecap="round" aria-hidden="true"><path d="M4 7h11M4 12h11M4 17h7M18 14v6M15 17h6"/></svg><span>Add to list</span></button>'+
               '</div>'+
             '</div>'+
           '</div>'+
@@ -11598,10 +11685,6 @@
         apRadio.addEventListener('pointerdown',function(){ latestSet({ slug:slug, name:a.name||slug, popular:a.popular }); prefetchSets(); },{passive:true});
         apRadio.addEventListener('click',tuneInSets);
         armSticky(a.name||slug, tuneInSets, apRadio);
-        document.getElementById('ap-wanna').addEventListener('click',function(){
-          // seen state: tap un-marks seen (back to a plain Wanna see button); otherwise the usual heart toggle
-          if(artStatus(slug)==='seen') setArtist(slug, null, a.name); else toggleArtist(slug,{name:a.name});
-        });
         document.getElementById('ap-log').addEventListener('click',function(){ openLog(); });
         var apl=document.getElementById('ap-list');
         if(apl) apl.addEventListener('click',function(){ addToListSheet(slug, a.name||slug); });
@@ -12984,10 +13067,10 @@
             // a techno bill, which is a label, not information. Where they play
             // is the thing that separates one artist from the next. Suren, 22 Sep.
             var at=line('fp-lu-vn',(f.venues||[]).map(function(v){ return v.name+' ×'+v.n; }))+line('fp-lu-fs',f.festivals);
-            return '<div class="fp-lu"><span class="set-add-sp" aria-hidden="true"></span><div class="fp-lu-face" style="'+face+'"></div><a class="fp-lu-tx nav"'+(a.slug?' href="'+esc(djHref(a.slug))+'"':'')+' data-artist="'+esc(a.slug||'')+'"><div class="fp-lu-nm">'+esc(a.name)+'</div></a><div class="fp-lu-at">'+at+'</div><button class="fp-lu-pl" type="button" data-slug="'+esc(a.slug||'')+'" aria-label="Play '+esc(a.name)+'">'+PLAY_SVG+'</button></div>';
+            return '<div class="fp-lu"><div class="fp-lu-face" style="'+face+'"></div><div class="fp-lu-tx"><a class="fp-lu-nl nav"'+(a.slug?' href="'+esc(djHref(a.slug))+'"':'')+' data-artist="'+esc(a.slug||'')+'"><div class="fp-lu-nm">'+esc(a.name)+'</div></a>'+nameHeartHTML(a.slug, a.name)+'</div><div class="fp-lu-at">'+at+'</div><button class="fp-lu-pl" type="button" data-slug="'+esc(a.slug||'')+'" aria-label="Play '+esc(a.name)+'">'+PLAY_SVG+'</button></div>';
           }).join('');
           var lq=items.map(function(a){ return { slug:a.slug, name:a.name, poster:a.image }; }).filter(function(x){ return x.slug; });
-          lineupBox.querySelectorAll('.fp-lu-tx[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ if(t.dataset.artist) openArtist(t.dataset.artist); }); });
+          lineupBox.querySelectorAll('.fp-lu-nl[data-artist]').forEach(function(t){ t.addEventListener('click',function(){ if(t.dataset.artist) openArtist(t.dataset.artist); }); });
           // KEY BY SLUG, NEVER BY INDEX. data-i was the position in `items`, but
           // lq is `items` with slugless acts FILTERED OUT — so one unslugged name
           // shifted every index after it and the play button next to an artist
@@ -13003,15 +13086,6 @@
           prewarmSets(lq, function(slug, lt){
             var btn=lineupBox.querySelector('.fp-lu-pl[data-slug="'+(window.CSS&&CSS.escape?CSS.escape(slug):slug)+'"]');
             if(btn && !lt) btn.remove();
-            // The + for the set this row's play button starts (Listen v2).
-            if(btn && lt && !btn.parentNode.querySelector('.set-add')){
-              var who=(lq.filter(function(x){ return x.slug===slug; })[0])||{};
-              var sk=lt.kind==='yt'?lsnKey(lt.videoId,'yt'):lsnKey(lt.url, lt.src==='NTS Radio'?'nts':'sc');
-              var html=setAddHTML(sk, { artistSlug:slug, artistName:who.name||'', title:lt.title||'', thumb:lt.art||(lt.kind==='yt'&&lt.videoId?'https://i.ytimg.com/vi/'+lt.videoId+'/mqdefault.jpg':null), publishedAt:isNaN(lt.t)?null:new Date(lt.t).toISOString() });
-              // + goes FIRST in the row (Paper 16MM), into the lane slot kept for it.
-              var sp=btn.parentNode.querySelector('.set-add-sp');
-              if(html){ if(sp) sp.outerHTML=html; else btn.parentNode.insertAdjacentHTML('afterbegin', html); }
-            }
           });
           lineupBox.querySelectorAll('.fp-lu-pl[data-slug]').forEach(function(b){ b.addEventListener('click',function(){
             var sl=b.dataset.slug;
@@ -13056,7 +13130,7 @@
               if(!items || !items.length) return;
               var a=bill[gi]; total+=items.length;
               var face=a.image?' style="background-image:url('+esc(imgUrl(a.image,120))+')"':'';
-              h+='<div class="ev-lsg"><div class="ev-lsg-h"><span class="ev-lsg-f"'+face+'></span><span>'+esc(a.name)+' \u00b7 '+items.length+' set'+(items.length===1?'':'s')+'</span></div>'+
+              h+='<div class="ev-lsg"><div class="ev-lsg-h"><span class="ev-lsg-f"'+face+'></span><span>'+esc(a.name)+'</span>'+nameHeartHTML(a.slug, a.name)+'</div>'+
                 '<div class="fp-sets-grid" data-g="'+gi+'">'+items.map(function(it,i){ return setItemCardHTML(it, i, a.slug, a.name); }).join('')+'</div>'+
                 '<a class="fp-lk nav" href="'+esc(djHref(a.slug))+'#sets" data-artist="'+esc(a.slug)+'">All '+esc(a.name)+' sets<svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg></a></div>';
             });
@@ -14916,7 +14990,7 @@
       if(m) return m[1];
       if(/^(?:club|v)\/.+/.test(rest)) return rest;      // legacy city-less /club|v/<slug>
       if(rest==='scenes') return 'scenes';               // /scenes → all-cities scene index
-      if(rest==='listen') return 'listen';               // /listen → Your sets + From your wanna see
+      if(rest==='listen') return 'listen';               // /listen → Saved, Your artists, Picks, Heard
       if(/^[a-z0-9-]+\/scene$/.test(rest)) return 'scene';// /<city>/scene → city scene guide
       if(rest==='lists') return 'lists';                 // /lists → guides + lists hub
       // /<city>/<slug>/ → a guide (genre, area or this-weekend). LAST, because

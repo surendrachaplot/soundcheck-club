@@ -1,6 +1,6 @@
 # Yodo Groove (Yodobashi Ikebukuro)
 
-Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "VINYL TECHNO ON A TOKYO ROOFTOP" on Sat, 3 Oct 2026.
+Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "TOKYO LEGENDS — VINYL ONLY TECHNO ON THE ROOFTOP DAY PARTY" on Sat, 3 Oct 2026.
 
 Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck. 7 upcoming gigs, with line-ups including ANZU, COCOLY, DJ Emma and DJ MIYU and 2 more. See dates, start times and who's playing. Yodobashi HD Bldg., 1-28-1 Minamiikebukuro, Toshima-ku, Tokyo 171-8569, Japan.
 
@@ -8,8 +8,8 @@ Yodo Groove (Yodobashi Ikebukuro) is a music venue in Tokyo listed on soundcheck
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Sat, 3 Oct 2026 | VINYL TECHNO ON A TOKYO ROOFTOP |  |
-| Sun, 4 Oct 2026 | Melodic House Rooftop Session – FUZIGER (EXE Audio)　 | COCOLY, YURI VALEN |
+| Sat, 3 Oct 2026 | TOKYO LEGENDS — VINYL ONLY TECHNO ON THE ROOFTOP DAY PARTY | Q'hey |
+| Sun, 4 Oct 2026 | Melodic House Rooftop Session –  FUZIGER (EXE Audio / Brazil) | COCOLY, YURI VALEN |
 | Sat, 10 Oct 2026 | SKY MUSIC JOURNEY: A-JAY — House & Progressive | DJ OGAWA, Vino (1) |
 | Mon, 12 Oct 2026 | DMC World Champion DJ KENTARO – TETSUJI TANAKA 30th Anniversary | DJ MIYU, KEiTA, Light.aka, Sarina Tokihira |
 | Sun, 18 Oct 2026 | AVIDD Prologue #2 PROGRESSIVE HOUSE ROOFTOP | Nosh |

@@ -9,7 +9,7 @@ Chicago Social Club is a music venue in Amsterdam listed on soundcheck. 9 upcomi
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Dirty Workz 20 Years | Coone, Da Tweekaz, Mish, Solstice, The Purge |
-| Wed, 21 Oct 2026 | 1001Tracklists x DJ Lovers Club pres. Open Channel ADE |  |
+| Wed, 21 Oct 2026 | 1001Tracklists x DJ Lovers Club pres. Open Channel ADE | MPH (1), camoufly |
 | Thu, 22 Oct 2026 | Maceo Plex presents Lone Romantic | Christian Nielsen, Maceo Plex, Mack Loenz, Raxon |
 | Thu, 22 Oct 2026 | Ely Oaks & Friends - ADE | Ely Oaks |
 | Fri, 23 Oct 2026 | Panteros666 & Friends ADE | AMMARA, LB aka LABAT, Panteros666 |

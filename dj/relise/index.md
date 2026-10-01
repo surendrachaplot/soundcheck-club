@@ -1,13 +1,14 @@
 # r:elise
 
-r:elise is a Trance and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Vittoria Wharf Studio, London on Sat, 17 Oct 2026.
+r:elise is a Trance and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ballroom at Palais, London on Sat, 10 Oct 2026.
 
-r:elise is a trance and progressive house artist based in United Kingdom, with 6 gigs on soundcheck across London. Often billed alongside ASHTREY, Elkka and DJ AYA. Next up: Vittoria Wharf Studio, London on Sat 17 Oct.
+r:elise is a trance and progressive house artist based in United Kingdom, with 7 gigs on soundcheck across London. Often billed alongside ASHTREY, Elkka and DJ AYA. Next up: Ballroom at Palais, London on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 10 Oct 2026 | Ballroom at Palais | London |
 | Sat, 17 Oct 2026 | Vittoria Wharf Studio | London |
 
 ## Recently played

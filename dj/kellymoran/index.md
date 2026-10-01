@@ -1,14 +1,15 @@
 # Kelly Moran
 
-Kelly Moran is a Ambient and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SFU Goldcorp Centre for the Arts, Vancouver on Sun, 4 Oct 2026.
+Kelly Moran is a Experimental and Ambient artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at SFU Goldcorp Centre for the Arts, Vancouver on Sun, 4 Oct 2026.
 
-Kelly Moran is an ambient and experimental artist based in United States of America, with 17 gigs on soundcheck across Barcelona, Berlin, Dublin and Hobart and 8 more. Often billed alongside Akazie, DJ Gigola and Dj Fucci. Next up: SFU Goldcorp Centre for the Arts, Vancouver on Sun 4 Oct.
+Kelly Moran is an experimental and ambient artist based in United States of America, with 18 gigs on soundcheck across Barcelona, Berlin, Dublin and Hobart and 8 more. Often billed alongside Akazie, DJ Gigola and Dj Fucci. Next up: SFU Goldcorp Centre for the Arts, Vancouver on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | SFU Goldcorp Centre for the Arts | Vancouver |
+| Fri, 6 Nov 2026 | Maravilla Studios | Mexico City |
 | Sat, 5 Dec 2026 | Elsewhere | New York City |
 
 ## Recently played

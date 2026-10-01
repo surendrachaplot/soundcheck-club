@@ -17,7 +17,7 @@ Système is a music venue in Montreal listed on soundcheck. 20 upcoming gigs, wi
 | Sat, 10 Oct 2026 | Exploria | Evita, Flørist, Percwerk |
 | Sun, 11 Oct 2026 | Curls: CUERPOS, Boogaloo Jones & Hanzo Da Bullfrog | Boogaloo Jones, CUERPOS, The Curls Crew |
 | Thu, 15 Oct 2026 | Dark Matter x Shadya's EP x Chez.Kito.Kat Records | D.B.Y., Felix Patry, Shadya, Technique nado |
-| Fri, 16 Oct 2026 | Ferias | Alina (MTL), CLEO LEIGH |
+| Fri, 16 Oct 2026 | Ferias | Alina (MTL), CLEO LEIGH, Ferias |
 
 ## Address
 

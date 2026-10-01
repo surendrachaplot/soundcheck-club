@@ -1,13 +1,14 @@
 # Eva Myra May
 
-Eva Myra May is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Hollywood, Los Angeles on Fri, 2 Oct 2026.
+Eva Myra May is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kiso, Los Angeles on Thu, 1 Oct 2026.
 
-Eva Myra May is a house and techno artist based in United States of America, with 31 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Pretty Gay Friendly, coldsweat and gloworm. Next up: TBA - Hollywood, Los Angeles on Fri 2 Oct.
+Eva Myra May is a house and techno artist based in United States of America, with 32 gigs on soundcheck across Los Angeles and San Diego. Often billed alongside Pretty Gay Friendly, coldsweat and gloworm. Next up: Kiso, Los Angeles on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Kiso | Los Angeles |
 | Fri, 2 Oct 2026 | TBA - Hollywood | Los Angeles |
 
 ## Recently played

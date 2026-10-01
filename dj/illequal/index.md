@@ -1,14 +1,15 @@
 # illequal
 
-illequal is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Thu, 15 Oct 2026.
+illequal is a Bass and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at ZEROTOKYO, Tokyo on Thu, 15 Oct 2026.
 
-illequal is a bass and techno artist based in Japan, with 76 gigs on soundcheck across Osaka and Tokyo. Often billed alongside NordOst, Telematic Visions and Eichi Abe. Next up: ZEROTOKYO, Tokyo on Thu 15 Oct.
+illequal is a bass and techno artist based in Japan, with 77 gigs on soundcheck across Osaka and Tokyo. Often billed alongside NordOst, Telematic Visions and Eichi Abe. Next up: ZEROTOKYO, Tokyo on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 15 Oct 2026 | ZEROTOKYO | Tokyo |
+| Sun, 22 Nov 2026 | Saloon | Tokyo |
 | Sun, 22 Nov 2026 | Saloon | Tokyo |
 
 ## Recently played

@@ -1,8 +1,8 @@
 # The Bongo Club
 
-The Bongo Club is a music venue in Edinburgh with 17 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "𖤓SOLASTA LAUNCH PARTY𖤓" on Thu, 1 Oct 2026.
+The Bongo Club is a music venue in Edinburgh with 18 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "𖤓SOLASTA LAUNCH PARTY𖤓" on Thu, 1 Oct 2026.
 
-The Bongo Club is a music venue in Edinburgh listed on soundcheck. 17 upcoming gigs, with line-ups including YVI, Bryan Gee, Capo Lee and Casement and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
+The Bongo Club is a music venue in Edinburgh listed on soundcheck. 18 upcoming gigs, with line-ups including YVI, Bryan Gee, Capo Lee and Casement and 2 more. See dates, start times and who's playing. 66 Cowgate; Edinburgh, EH1 1JX;  Scotland; United Kingdom.
 
 ## What's on
 
@@ -17,7 +17,7 @@ The Bongo Club is a music venue in Edinburgh listed on soundcheck. 17 upcoming g
 | Sat, 10 Oct 2026 | Hobbes Music x Noetic Rhythm: Jacksonville, Shosha, Hobbes + more TBA | Hobbes, Jacksonville, Shosha |
 | Thu, 15 Oct 2026 | Origins: Osmosis Jones | Osmosis Jones |
 | Fri, 16 Oct 2026 | Tektite: Time 2 Rush & Karl Radox | FOLIE (UK), Rodent |
-| Thu, 29 Oct 2026 | TOTEM Halloween: Silva Snipa (Vinyl-Only UKG) | Maya Hacker, Silva Snipa, Trucha |
+| Sat, 24 Oct 2026 | Chromatic: Oneman20 | Oneman, ZO3 (1) |
 
 ## Address
 

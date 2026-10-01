@@ -1,14 +1,15 @@
 # AliA
 
-AliA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
+AliA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Amigo, Ghent on Fri, 16 Oct 2026.
 
-AliA is a house and techno artist based in Belgium, with 115 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Mankiyan, Lefto Early Bird and Zenker Brothers. Next up: Amigo, Ghent on Fri 16 Oct.
+AliA is a house and techno artist based in Belgium, with 116 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Bristol and 16 more. Often billed alongside Mankiyan, Lefto Early Bird and Zenker Brothers. Next up: Amigo, Ghent on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Amigo | Ghent |
+| Fri, 16 Oct 2026 | Ampere | Antwerp |
 | Fri, 23 Oct 2026 | Pllek | Amsterdam |
 | Sat, 31 Oct 2026 | The Carpet Shop | London |
 | Fri, 6 Nov 2026 | Fuse | Brussels |

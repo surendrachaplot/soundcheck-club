@@ -1,13 +1,14 @@
 # Bergen
 
-Bergen is a House and Progressive House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Odonien, Cologne on Sat, 2 Oct 2027.
+Bergen is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Odonien, Cologne on Fri, 2 Oct 2026.
 
-Bergen is a house and progressive house artist based in Iceland, with 6 gigs on soundcheck across Cologne. Often billed alongside Eszter, AMSL and ANNA. Next up: Odonien, Cologne on Sat 2 Oct.
+Bergen is a house and techno artist based in Iceland, with 7 gigs on soundcheck across Cologne. Often billed alongside Eszter, ANNA and Cecilia Tosh. Next up: Odonien, Cologne on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Odonien | Cologne |
 | Sat, 2 Oct 2027 | Odonien | Cologne |
 
 ## Recently played
@@ -20,6 +21,6 @@ Bergen is a house and progressive house artist based in Iceland, with 6 gigs on 
 
 ## Shares bills with
 
-Eszter, AMSL, ANNA
+Eszter, ANNA, Cecilia Tosh
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/bergen/)*

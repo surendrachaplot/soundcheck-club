@@ -9,7 +9,7 @@ Domi (FR) is an electro and house artist based in France, with 68 gigs on soundc
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Buda BXL | Brussels |
-| Sat, 17 Oct 2026 | TBA | Marseille |
+| Sat, 17 Oct 2026 | TBA - Marseille | Marseille |
 | Fri, 13 Nov 2026 | Le Trabendo | Paris |
 
 ## Recently played

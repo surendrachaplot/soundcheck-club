@@ -1,13 +1,14 @@
 # Maryisonacid
 
-Maryisonacid is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at DJ Bar Bridge Shinjuku, Tokyo on Fri, 30 Oct 2026.
+Maryisonacid is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Sun Rises Again, Tokyo on Sat, 17 Oct 2026.
 
-Maryisonacid is a techno and house artist, with 68 gigs on soundcheck across Berlin, Istanbul, Leipzig and Milan and 2 more. Often billed alongside Dauwd, African Acid is the Future and Camilla Rae. Next up: DJ Bar Bridge Shinjuku, Tokyo on Fri 30 Oct.
+Maryisonacid is a techno and house artist, with 69 gigs on soundcheck across Berlin, Istanbul, Leipzig and Milan and 2 more. Often billed alongside Dauwd, African Acid is the Future and Camilla Rae. Next up: The Sun Rises Again, Tokyo on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | The Sun Rises Again | Tokyo |
 | Fri, 30 Oct 2026 | DJ Bar Bridge Shinjuku | Tokyo |
 
 ## Recently played

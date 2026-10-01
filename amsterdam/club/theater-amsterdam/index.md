@@ -10,7 +10,7 @@ Theater Amsterdam is a music venue in Amsterdam listed on soundcheck. 6 upcoming
 | --- | --- | --- |
 | Thu, 22 Oct 2026 | Eastenderz x Loveland - ADE 2026 | AAT (NL), East End Dubs, Gaskin, L.P. Rhythm, M-High, Sosa |
 | Thu, 22 Oct 2026 | Paul Kalkbrenner Live x Loveland - ADE 2026 | Paul Kalkbrenner |
-| Fri, 23 Oct 2026 | BURST presents TLM - ADE 2026 | Lucky Done Gone, Moody Mehran, TLM (NL), Tjade |
+| Fri, 23 Oct 2026 | BURST presents TLM - ADE 2026 | Lucky Done Gone, Moody Mehran, TLM (NL), Tjade, Zombies In Miami |
 | Fri, 23 Oct 2026 | Mahmut Orhan & Friends x Loveland - ADE 2026 | Mahmut Orhan |
 | Sat, 24 Oct 2026 | Camelphat presents EXPERIENCE x Loveland - ADE 2026 | CamelPhat, Hot Since 82, Max Styler, Niiomi, Patrick Topping, Volkoder |
 | Sat, 24 Oct 2026 | Boris Brejcha presents Fckng Serious x Loveland - ADE 2026 | Ann Clue, Boris Brejcha, Deniz Bul |

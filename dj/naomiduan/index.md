@@ -1,14 +1,15 @@
 # Naomi Duan
 
-Naomi Duan is a Techno and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia on Sat, 17 Oct 2026.
+Naomi Duan is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia on Sat, 17 Oct 2026.
 
-Naomi Duan is a techno and electronica artist based in United States of America, with 9 gigs on soundcheck across Boston, Detroit, Miami and New York City and 1 more. Often billed alongside 1morning, Alex Stein and Daybreak. Next up: TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia on Sat 17 Oct.
+Naomi Duan is a techno and house artist based in United States of America, with 10 gigs on soundcheck across Boston, Detroit, Miami and New York City and 1 more. Often billed alongside 1morning, Alex Stein and Daybreak. Next up: TBA - Address sent out to ticket holders at 6 PM on Oct 17, Philadelphia on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | TBA - Address sent out to ticket holders at 6 PM on Oct 17 | Philadelphia |
+| Sat, 24 Oct 2026 | Honey's | New York City |
 
 ## Recently played
 

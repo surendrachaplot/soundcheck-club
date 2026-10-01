@@ -9,7 +9,7 @@ Mediahaven - Minervahaven is a music venue in Amsterdam listed on soundcheck. 8 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Wed, 21 Oct 2026 | Free Your Mind x Teletech ADE | Azyr, KIRSTY, KLOFAMA, KLOUD, KRUELTY, Kander, Lola Cerise, Mad Dog, NYCO (NL), TASSERY, amara |
-| Thu, 22 Oct 2026 | Mau P presents Baddest Behaviour x Loveland - ADE 2026 | Mau P |
+| Thu, 22 Oct 2026 | Mau P presents Baddest Behaviour x Loveland - ADE 2026 | Mau P, The Martinez Brothers |
 | Thu, 22 Oct 2026 | Luciano ALIVE concert X Loveland - ADE 2026 | Luciano |
 | Thu, 22 Oct 2026 | LUCIANO ALIVE Concerts x LOVELAND |  |
 | Fri, 23 Oct 2026 | Paradise x Loveland - ADE 2026 | AJ Christou, Archie Hamilton, Easttown, FIFI FORTE, Fleur Shore, Hidde van Wee, Hot Since 82, Jamie Jones, Joe Rolét, Manda Moor, Olive F, Omar+, Prunk, Rooléh, Seth Troxler |

@@ -1,13 +1,14 @@
 # Kumi
 
-Kumi is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Mana Wynwood, Miami on Fri, 16 Oct 2026.
+Kumi is a Techno and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Glamorama, Melbourne on Fri, 9 Oct 2026.
 
-Kumi is a techno and house artist based in Australia, with 33 gigs on soundcheck across Auckland, Barcelona, Berlin and Brisbane and 6 more. Often billed alongside JÄMO, Caleb Jay and J-OK. Next up: Mana Wynwood, Miami on Fri 16 Oct.
+Kumi is a techno and house artist based in Australia, with 34 gigs on soundcheck across Auckland, Barcelona, Berlin and Brisbane and 6 more. Often billed alongside JÄMO, Caleb Jay and J-OK. Next up: Glamorama, Melbourne on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 9 Oct 2026 | Glamorama | Melbourne |
 | Fri, 16 Oct 2026 | Mana Wynwood | Miami |
 | Tue, 29 Dec 2026 | Matakanarama Festival Site | Auckland |
 

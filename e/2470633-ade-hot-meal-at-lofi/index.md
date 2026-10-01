@@ -18,7 +18,7 @@ ADE - Hot Meal at Lofi on Thu 22 Oct, Amsterdam. 10 artists: Bad Boombox, Dr. G,
 - lizaliza
 - Mija
 - Mischluft
-- MrD
+- MRD (NO)
 - Ollie Lishman
 
 *Source: [soundcheck](https://soundcheck.club/e/2470633-ade-hot-meal-at-lofi/)*

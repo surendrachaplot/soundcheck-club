@@ -1,8 +1,8 @@
 # Caleb Jackson
 
-Caleb Jackson is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
+Caleb Jackson is a House and Techno artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 2.5 Hours from Sydney, Sydney on Sat, 3 Oct 2026.
 
-Caleb Jackson is a house and techno artist based in Australia, with 69 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 10 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
+Caleb Jackson is a house and techno artist based in Australia, with 70 gigs on soundcheck across Amsterdam, Auckland, Bali and Berlin and 11 more. Often billed alongside Jacqui Cunningham, Bella Backe and Elijah Something. Next up: TBA - 2.5 Hours from Sydney, Sydney on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -13,6 +13,7 @@ Caleb Jackson is a house and techno artist based in Australia, with 69 gigs on s
 | Fri, 23 Oct 2026 | Ijland | Amsterdam |
 | Fri, 30 Oct 2026 | Factory Town | Miami |
 | Sat, 31 Oct 2026 | The Gathering @ Armature Works | Tampa-bay |
+| Fri, 6 Nov 2026 | The Barbary | Philadelphia |
 | Mon, 28 Dec 2026 | Glenworth Valley | Sydney |
 
 ## Recently played

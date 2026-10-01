@@ -13,7 +13,7 @@ Doggy Klœb is a music venue in Malaga listed on soundcheck. 10 upcoming gigs, w
 | Fri, 9 Oct 2026 | Groove Mates: Onemas invites Nitrile Affair | Nitrile Affair, Onemas |
 | Sat, 10 Oct 2026 | Checa + RDS |  |
 | Fri, 16 Oct 2026 | Cultura Club: Unreal Vibes All Night Long | Unreal Vibes |
-| Sat, 17 Oct 2026 | Undergroove x Serialism | Arval, Cesare vs Disorder |
+| Sat, 17 Oct 2026 | Undergroove x Serialism  | Arval, Cesare vs Disorder |
 | Fri, 23 Oct 2026 | Jorgge Decar + Gilb3rt + Doktor Exposito | Jorgge Decar |
 | Sat, 24 Oct 2026 | Noctive + Cebrian + Angel Burgos | Noctive |
 | Fri, 30 Oct 2026 | Moruki + Dudster | Dudster, Moruki |

@@ -2,12 +2,12 @@
 
 TBA - Belgrade Around City Centre is a music venue in Belgrade with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "Changeover Festival 2026" on Wed, 7 Oct 2026.
 
-TBA - Belgrade Around City Centre is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including Jabu, Still House Plants and The Lost Boys. See dates, start times and who's playing.
+TBA - Belgrade Around City Centre is a music venue in Belgrade listed on soundcheck. 1 upcoming gig, with line-ups including Jabu, Obi Blanche, Still House Plants and The Lost Boys. See dates, start times and who's playing.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 7 Oct 2026 | Changeover Festival 2026 | Jabu, Still House Plants, The Lost Boys |
+| Wed, 7 Oct 2026 | Changeover Festival 2026 | Jabu, Obi Blanche, Still House Plants, The Lost Boys |
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/belgrade/club/tba-belgrade-around-city-centre/)*

@@ -12,7 +12,7 @@ Specka is a music venue in Madrid listed on soundcheck. 15 upcoming gigs, with l
 | Sat, 3 Oct 2026 | Systolic Showcase 360° Rave #02 - Specka Club Tardes |  |
 | Sat, 3 Oct 2026 | Triffulca Rentrée I Specka Club |  |
 | Fri, 9 Oct 2026 | 28B$, Dylan Desler y Tukeskusha: Papo2oo4+Subjxct 5 / Rapp Gotti / KN Moreno & Shenko |  |
-| Fri, 9 Oct 2026 | Komos V I Specka Club |  |
+| Fri, 9 Oct 2026 | Komos V I Specka Club | Ruff (ES) |
 | Sat, 10 Oct 2026 | Anthony Rother [Hibryd Electro] I Halley Club SOLO ENTRADAS EN PUERTA | Anthony Rother, Uhf |
 | Sun, 11 Oct 2026 | YUYU X REVERIE I Specka Club | Belkan, Djen, Dyans, Javier Klash, Vandiaz |
 | Fri, 16 Oct 2026 | Erik Luebs: Live / Void Control | Brody (2), Erik Luebs, M. Freelance |

@@ -1,14 +1,15 @@
 # Thor Rixon
 
-Thor Rixon is a House and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Golden Gate, Berlin on Thu, 1 Oct 2026.
+Thor Rixon is a House and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Golden Gate, Berlin on Thu, 1 Oct 2026.
 
-Thor Rixon is a house and garage artist based in South Africa, with 19 gigs on soundcheck across Berlin and Montreal. Often billed alongside ADAM MUNNINGS, Dornika and Borella. Next up: Golden Gate, Berlin on Thu 1 Oct.
+Thor Rixon is a house and garage artist based in South Africa, with 20 gigs on soundcheck across Berlin, Cape Town and Montreal. Often billed alongside ADAM MUNNINGS, Dornika and Borella. Next up: Golden Gate, Berlin on Thu 1 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | Golden Gate | Berlin |
+| Wed, 30 Dec 2026 | TBA - Koue Bokkeveld | Cape-town |
 
 ## Recently played
 

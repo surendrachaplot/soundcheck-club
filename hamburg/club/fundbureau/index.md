@@ -1,8 +1,8 @@
 # Fundbureau
 
-Fundbureau is a music venue in Hamburg with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RANDALE IM FUNDI" on Fri, 2 Oct 2026.
+Fundbureau is a music venue in Hamburg with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "RANDALE IM FUNDI" on Fri, 2 Oct 2026.
 
-Fundbureau is a music venue in Hamburg listed on soundcheck. 14 upcoming gigs, with line-ups including Bizzarro Universe, BNZN, Charlie Tee and CHICHO and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
+Fundbureau is a music venue in Hamburg listed on soundcheck. 15 upcoming gigs, with line-ups including Bizzarro Universe, BNZN, Charlie Tee and CHICHO and 2 more. See dates, start times and who's playing. Altländer Str. 1120095 Hamburg, Germany.
 
 ## What's on
 
@@ -14,10 +14,10 @@ Fundbureau is a music venue in Hamburg listed on soundcheck. 14 upcoming gigs, w
 | Fri, 9 Oct 2026 | TWOFACEDKIMMY // DJ Jonne Sins // Hida Douse // LESSIG | DJ Jonne Sins, Hida Douse, TWOFACEDKIMMY |
 | Sat, 10 Oct 2026 | Oldies & Trash Night 90s&Y2K Female Edition |  |
 | Sat, 10 Oct 2026 | RESIDENT NIGHT W/ Randali // SVE // Nikiija // CHICHO // MELENA | CHICHO, Nikiija, Randali, SVE |
+| Wed, 14 Oct 2026 | FUNDI&FRIENDS Afterwork | CHICHO, Pamadii, Shilo |
 | Fri, 16 Oct 2026 | Liquic Concrete with Charlie Tee & T-Lex & Melina | Charlie Tee, Enni Milosj, Fibe, MELINA (3), Sindicate, duaba |
 | Sat, 17 Oct 2026 | OLEA // vivi // LAUT KLUB FLOOR HOSTING | OLEA, vivi |
 | Sat, 17 Oct 2026 | FLINTA Open Decks hosted by Sophie van Hayden |  |
-| Fri, 23 Oct 2026 | MEZZANOTTE Italo Disco | Bizzarro Universe, Lisbird |
 
 ## Address
 

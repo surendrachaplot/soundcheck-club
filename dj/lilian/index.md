@@ -1,14 +1,15 @@
 # Lilian
 
-Lilian is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
+Lilian is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Ivy, Sydney on Sun, 4 Oct 2026.
 
-Lilian is a house and techno artist based in Australia, with 79 gigs on soundcheck across Barcelona, Berlin, Bristol and Hamburg and 4 more. Often billed alongside Boogs, Matteo Freyrie and Spacey Space. Next up: The Ivy, Sydney on Sun 4 Oct.
+Lilian is a house and techno artist based in Australia, with 80 gigs on soundcheck across Barcelona, Berlin, Bristol and Hamburg and 4 more. Often billed alongside Boogs, Matteo Freyrie and Spacey Space. Next up: The Ivy, Sydney on Sun 4 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 4 Oct 2026 | The Ivy | Sydney |
+| Sun, 25 Oct 2026 | Runner Up Rooftop Bar | Melbourne |
 
 ## Recently played
 

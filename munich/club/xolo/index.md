@@ -1,13 +1,15 @@
 # Xolo
 
-Xolo is a music venue in Munich with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "BUTTER vol.2 with DJ BASS, LEA, SEVERINO, SOPHIA ZOE" on Sat, 10 Oct 2026.
+Xolo is a music venue in Munich with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "b2b Friday with Chet Rubbs & Jango S" on Fri, 2 Oct 2026.
 
-Xolo is a music venue in Munich listed on soundcheck. 1 upcoming gig, with line-ups including DJ BASS. See dates, start times and who's playing. Leopoldstr. 13.
+Xolo is a music venue in Munich listed on soundcheck. 3 upcoming gigs, with line-ups including ANDRÆ, Chet Rubbs, DJ BASS and Jampikid and 1 more. See dates, start times and who's playing. Leopoldstr. 13.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | b2b Friday with Chet Rubbs & Jango S | Chet Rubbs, Jango S |
+| Sat, 3 Oct 2026 | b2b Saturday with ANDRÆ & JAMPI | ANDRÆ, Jampikid |
 | Sat, 10 Oct 2026 | BUTTER vol.2 with DJ BASS, LEA, SEVERINO, SOPHIA ZOE | DJ BASS |
 
 ## Address

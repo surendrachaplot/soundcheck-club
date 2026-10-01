@@ -1,8 +1,8 @@
 # Moondog Hifi
 
-Moondog Hifi is a music venue in New York City with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "I Challenged The Master and Won Album Listening Session" on Thu, 1 Oct 2026.
+Moondog Hifi is a music venue in New York City with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "I Challenged The Master and Won Album Listening Session" on Thu, 1 Oct 2026.
 
-Moondog Hifi is a music venue in New York City listed on soundcheck. 7 upcoming gigs, with line-ups including Connie, Corey Baker, Derek Russo and KANZE. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
+Moondog Hifi is a music venue in New York City listed on soundcheck. 10 upcoming gigs, with line-ups including Connie, Corey Baker, Derek Russo and KANZE. See dates, start times and who's playing. 119 Ingraham Street, Brooklyn, NY 11237.
 
 ## What's on
 
@@ -15,6 +15,9 @@ Moondog Hifi is a music venue in New York City listed on soundcheck. 7 upcoming 
 | Tue, 6 Oct 2026 | Deep Listening |  |
 | Wed, 7 Oct 2026 | Wednesday JAmZZ: Sean Temme Quartet |  |
 | Thu, 8 Oct 2026 | Derek Russo | Derek Russo |
+| Fri, 9 Oct 2026 | DIGI |  |
+| Fri, 9 Oct 2026 | Boogie / Funk / Int'l Disco Vinyl Set |  |
+| Sat, 10 Oct 2026 | Sasta |  |
 
 ## Address
 

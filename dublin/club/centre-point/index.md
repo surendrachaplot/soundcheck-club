@@ -1,8 +1,8 @@
 # Centre Point
 
-Centre Point is a music venue in Dublin with 10 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mount Kimbie DJ pres. TunnelVision with upsammy" on Sat, 3 Oct 2026.
+Centre Point is a music venue in Dublin with 11 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Mount Kimbie DJ pres. TunnelVision with upsammy" on Sat, 3 Oct 2026.
 
-Centre Point is a music venue in Dublin listed on soundcheck. 10 upcoming gigs, with line-ups including charlois, Club Angel, Dave Clarke and DeFeKT and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
+Centre Point is a music venue in Dublin listed on soundcheck. 11 upcoming gigs, with line-ups including charlois, Club Angel, Dave Clarke and DeFeKT and 2 more. See dates, start times and who's playing. Temple Lane Street, Temple Bar, Dublin.
 
 ## What's on
 

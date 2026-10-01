@@ -1,14 +1,15 @@
 # Nao.Ichikawa
 
-Nao.Ichikawa is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Royal Lounge, Tokyo on Mon, 5 Oct 2026.
+Nao.Ichikawa is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Royal Lounge, Tokyo on Mon, 5 Oct 2026.
 
-Nao.Ichikawa is a techno and house artist based in Japan, with 59 gigs on soundcheck across Tokyo. Often billed alongside Kaw, SIGNAL (JP) and MOTOKA. Next up: Royal Lounge, Tokyo on Mon 5 Oct.
+Nao.Ichikawa is a techno and house artist based in Japan, with 60 gigs on soundcheck across Tokyo. Often billed alongside Kaw, SIGNAL (JP) and MOTOKA. Next up: Royal Lounge, Tokyo on Mon 5 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Mon, 5 Oct 2026 | Royal Lounge | Tokyo |
+| Sun, 25 Oct 2026 | ZUBAR | Tokyo |
 
 ## Recently played
 

@@ -1,14 +1,15 @@
 # Sabu!
 
-Sabu! is a Trance and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
+Sabu! is a Trance and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at PKH Warehouse, Berlin on Fri, 2 Oct 2026.
 
-Sabu! is a trance and techno artist based in Germany, with 120 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside RaverPik, The Jakob Sister and Blame the Booker. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
+Sabu! is a trance and techno artist based in Germany, with 121 gigs on soundcheck across Amsterdam, Antwerp, Berlin and Budapest and 13 more. Often billed alongside RaverPik, The Jakob Sister and Blame the Booker. Next up: PKH Warehouse, Berlin on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | PKH Warehouse | Berlin |
+| Fri, 16 Oct 2026 | Südpol | Hamburg |
 | Sat, 31 Oct 2026 | Altenburg 1964 | Prague |
 | Fri, 13 Nov 2026 | RSO.BERLIN | Berlin |
 

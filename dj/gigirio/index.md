@@ -1,14 +1,15 @@
 # Gigi Rio
 
-Gigi Rio is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Sat, 3 Oct 2026.
+Gigi Rio is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at H0L0, New York City on Sat, 3 Oct 2026.
 
-Gigi Rio is a garage and house artist based in United States of America, with 43 gigs on soundcheck across New York City. Often billed alongside J.N.R., 4AM NYC and Janus Rose. Next up: H0L0, New York City on Sat 3 Oct.
+Gigi Rio is a garage and house artist based in United States of America, with 44 gigs on soundcheck across New York City. Often billed alongside J.N.R., 4AM NYC and Janus Rose. Next up: H0L0, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | H0L0 | New York City |
+| Thu, 15 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played
 

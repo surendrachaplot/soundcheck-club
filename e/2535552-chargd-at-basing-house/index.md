@@ -1,6 +1,6 @@
 # CHARgD at Basing House
 
-CHARgD at Basing House on Fri 27 Nov, London. 2 artists: Lee De Rosa and PERILOUS P. House and Deep House. See the line-up on soundcheck.
+CHARgD at Basing House on Fri 27 Nov, London. 3 artists: El Cassar, Lee De Rosa and Leon Michael. House and Deep House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,8 @@ CHARgD at Basing House on Fri 27 Nov, London. 2 artists: Lee De Rosa and PERILOU
 
 ## Line-up
 
+- El Cassar
 - Lee De Rosa
-- PERILOUS P
+- Leon Michael
 
 *Source: [soundcheck](https://soundcheck.club/e/2535552-chargd-at-basing-house/)*

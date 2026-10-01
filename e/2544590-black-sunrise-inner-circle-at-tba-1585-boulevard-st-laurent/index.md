@@ -1,6 +1,6 @@
 # Black Sunrise - Inner Circle at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9
 
-Black Sunrise - Inner Circle at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9 on Sat 31 Oct, Montreal. 4 artists: Clochette, Crescenzo, Jino K and Racil. Minimal and Dub Techno. See the line-up on soundcheck.
+Black Sunrise - Inner Circle at TBA - 1585 Boulevard St Laurent, Montreal, QC, H2X 2S9 on Sat 31 Oct, Montreal. 5 artists: Boomy, Clochette, Crescenzo and Jino K and 1 more. Minimal and Dub Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ Black Sunrise - Inner Circle at TBA - 1585 Boulevard St Laurent, Montreal, QC, H
 
 ## Line-up
 
+- Boomy
 - Clochette
 - Crescenzo
 - Jino K

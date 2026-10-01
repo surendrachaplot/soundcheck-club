@@ -1,8 +1,8 @@
 # TBA
 
-TBA is a music venue in London with 325 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "AFTER HOURS - Festival Weekend" on Sat, 26 Sept 2026.
+TBA is a music venue in London with 330 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "AFTER HOURS - Festival Weekend" on Sat, 26 Sept 2026.
 
-TBA is a music venue in London listed on soundcheck. 325 upcoming gigs, with line-ups including 1-800 GIRLS, 2+2=5, 8h sleep and 8ULENTINA and 2 more. See dates, start times and who's playing.
+TBA is a music venue in London listed on soundcheck. 330 upcoming gigs, with line-ups including 1-800 GIRLS, 1OO1O, 2+2=5 and 8h sleep and 2 more. See dates, start times and who's playing.
 
 ## What's on
 
@@ -10,7 +10,6 @@ TBA is a music venue in London listed on soundcheck. 325 upcoming gigs, with lin
 | --- | --- | --- |
 | Sat, 26 Sept 2026 | AFTER HOURS - Festival Weekend | Igor Marijuan |
 | Thu, 1 Oct 2026 | - |  |
-| Thu, 1 Oct 2026 | Matter Of Fact presents Bloody Mary Vinyl DJ Set | Bloody Mary |
 | Thu, 1 Oct 2026 | Techno Blade NYC Open Decks |  |
 | Thu, 1 Oct 2026 | Duende |  |
 | Fri, 2 Oct 2026 | Moga Essaouira 2026 | ANOTR, Alexis Cabrera, Amine K, Bradley Zero, Calabasa, Cesar Merveille, Daox, Doudou MD, E.LINA, Enrica Falqui, FLORENTIA, Fantastic Man, Fort Romeau, Gawdat, HALFPINT, HYDE, HamaDeus, Jamie Jones, Jesse Calosso, Jhobei, Kalabrese, Loewenthal, Malika, Matisa, Memed Awad, Moruki, Mumsfilibaba, Notre Dame, Piticu, Polyswitch, Ramyen, Rhadoo, Richy Ahmed, Silvie Loto, Sonja Moonear, The Martinez Brothers, Tornado Wallace, Tunik, Viken Arman, Voigtmann, Yamagucci, Yaya, n4bz |
@@ -18,5 +17,6 @@ TBA is a music venue in London listed on soundcheck. 325 upcoming gigs, with lin
 | Fri, 2 Oct 2026 | DILF London | ABSOLUTE., Austin Ato, Bonzai Bonner, Massimo Paramour, Pagano, Tom Peters |
 | Fri, 2 Oct 2026 | EXE invites Supersanity | Ada Kaleh |
 | Fri, 2 Oct 2026 | Subverted x KLEM. Dark Ambient Listening Event | ANAMORPH_, Eve Tera, INVERNO |
+| Fri, 2 Oct 2026 | Obstructed View 4 | NAP (MX), Slim Media Player |
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/london/club/tba/)*

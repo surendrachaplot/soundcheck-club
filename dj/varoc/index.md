@@ -1,13 +1,14 @@
 # Varoc
 
-Varoc is a Progressive House and Electronica artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Onder Hans, Amsterdam on Fri, 23 Oct 2026.
+Varoc is a Progressive House and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
 
-Varoc is a progressive house and electronica artist based in Spain, with 8 gigs on soundcheck across Amsterdam, Ibiza, Madrid and Milan. Often billed alongside Michael Sanchez, Felix Da Funk and Richi Risco. Next up: Onder Hans, Amsterdam on Fri 23 Oct.
+Varoc is a progressive house and house artist based in Spain, with 9 gigs on soundcheck across Amsterdam, Ibiza, Madrid and Milan. Often billed alongside Michael Sanchez, Felix Da Funk and Richi Risco. Next up: Barco Sound House, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Barco Sound House | Madrid |
 | Fri, 23 Oct 2026 | Onder Hans | Amsterdam |
 
 ## Recently played

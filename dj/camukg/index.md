@@ -1,14 +1,15 @@
 # camukg
 
-camukg is a Garage and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Ouseburn Garden, Newcastle on Fri, 2 Oct 2026.
+camukg is a Garage and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Ouseburn Garden, Newcastle on Fri, 2 Oct 2026.
 
-camukg is a garage and house artist based in United Kingdom, with 17 gigs on soundcheck across Bristol, Leeds, London and Newcastle and 1 more. Often billed alongside whoswill, B-HIND and Jae Depz. Next up: Ouseburn Garden, Newcastle on Fri 2 Oct.
+camukg is a garage and house artist based in United Kingdom, with 18 gigs on soundcheck across Bristol, Leeds, London and Newcastle and 1 more. Often billed alongside Jae Depz, whoswill and B-HIND. Next up: Ouseburn Garden, Newcastle on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Ouseburn Garden | Newcastle |
+| Sat, 21 Nov 2026 | Mint Warehouse | Leeds |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ camukg is a garage and house artist based in United Kingdom, with 17 gigs on sou
 
 ## Shares bills with
 
-whoswill, B-HIND, Jae Depz
+Jae Depz, whoswill, B-HIND
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/camukg/)*

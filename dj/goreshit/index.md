@@ -9,8 +9,8 @@ goreshit is a breakcore and hardcore artist based in United Kingdom, with 32 gig
 | Date | Venue | City |
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | The Cobalt | Vancouver |
-| Sat, 3 Oct 2026 | Vespers Club | London |
 | Mon, 12 Oct 2026 | The DBA | Manchester |
+| Wed, 14 Oct 2026 | Vespers Club | London |
 
 ## Recently played
 

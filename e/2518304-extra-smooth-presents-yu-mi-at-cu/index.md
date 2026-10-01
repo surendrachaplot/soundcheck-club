@@ -1,6 +1,6 @@
 # Extra Smooth presents: Yu Mi at Cu
 
-Extra Smooth presents: Yu Mi at Cu on Fri 2 Oct, London. 4 artists: BIG REG, Gingall, Spingall and Yu Mi. Tech House. See the line-up on soundcheck.
+Extra Smooth presents: Yu Mi at Cu on Fri 2 Oct, London. 4 artists: BIG REG, Gingall, Spingall and Yumi. Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,6 @@ Extra Smooth presents: Yu Mi at Cu on Fri 2 Oct, London. 4 artists: BIG REG, Gin
 - BIG REG
 - Gingall
 - Spingall
-- Yu Mi
+- Yumi
 
 *Source: [soundcheck](https://soundcheck.club/e/2518304-extra-smooth-presents-yu-mi-at-cu/)*

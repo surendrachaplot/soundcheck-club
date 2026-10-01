@@ -1,6 +1,6 @@
 # Spaced Out presents at Phonobar
 
-Spaced Out presents at Phonobar on Fri 20 Nov, San Francisco/Oakland. 1 artist: Aaron F. Funk / Soul and Acid. See the line-up on soundcheck.
+Spaced Out presents at Phonobar on Fri 20 Nov, San Francisco/Oakland. 1 artist: Aaron F. House and Electronica. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

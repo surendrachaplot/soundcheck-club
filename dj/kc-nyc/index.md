@@ -1,13 +1,14 @@
 # KC (NYC)
 
-KC (NYC) is a Techno and Garage artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Substance Skatepark, New York City on Sat, 7 Nov 2026.
+KC (NYC) is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bossa Nova Civic Club, New York City on Thu, 15 Oct 2026.
 
-KC (NYC) is a techno and garage artist based in United States of America, with 32 gigs on soundcheck across New York City. Often billed alongside ceviché, dj mangovape and tyler.xls. Next up: Substance Skatepark, New York City on Sat 7 Nov.
+KC (NYC) is a techno and bass artist based in United States of America, with 33 gigs on soundcheck across New York City. Often billed alongside BABEITSPURR, ceviché and dj mangovape. Next up: Bossa Nova Civic Club, New York City on Thu 15 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Thu, 15 Oct 2026 | Bossa Nova Civic Club | New York City |
 | Sat, 7 Nov 2026 | Substance Skatepark | New York City |
 
 ## Recently played
@@ -23,6 +24,6 @@ KC (NYC) is a techno and garage artist based in United States of America, with 3
 
 ## Shares bills with
 
-ceviché, dj mangovape, tyler.xls
+BABEITSPURR, ceviché, dj mangovape
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/kc-nyc/)*

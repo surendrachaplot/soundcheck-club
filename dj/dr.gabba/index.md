@@ -1,8 +1,8 @@
 # DR. GABBA
 
-DR. GABBA is a House and Techno artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 3 Oct 2026.
+DR. GABBA is a House and Techno artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Minneapolis-st-paul on Sat, 3 Oct 2026.
 
-DR. GABBA is a house and techno artist based in United States of America, with 29 gigs on soundcheck across Austin, Chicago, Denver and Houston and 10 more. Often billed alongside nextdimensional, wev (US) and DJ CAMGIRL. Next up: TBA, Minneapolis St Paul on Sat 3 Oct.
+DR. GABBA is a house and techno artist based in United States of America, with 30 gigs on soundcheck across Austin, Chicago, Denver and Houston and 10 more. Often billed alongside nextdimensional, wev (US) and DJ CAMGIRL. Next up: TBA, Minneapolis St Paul on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ DR. GABBA is a house and techno artist based in United States of America, with 2
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA | Minneapolis-st-paul |
 | Fri, 16 Oct 2026 | Market Hotel | New York City |
+| Fri, 23 Oct 2026 | Secret Grove | Portland |
 | Sat, 24 Oct 2026 | Casita Hollywood | Los Angeles |
 | Sat, 7 Nov 2026 | Public Works | San Francisco/Oakland |
 | Sat, 5 Dec 2026 | Nectar Lounge | Seattle |

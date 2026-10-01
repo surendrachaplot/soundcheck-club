@@ -1,14 +1,16 @@
 # Blanch
 
-Blanch is a House and Tech House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Resume Valencia, Valencia on Sat, 10 Oct 2026.
+Blanch is a House and Tech House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Resume Valencia, Valencia on Sat, 10 Oct 2026.
 
-Blanch is a house and tech house artist based in Spain, with 64 gigs on soundcheck across Barcelona, Berlin, Brussels and London and 4 more. Often billed alongside blan.trrs, Pau Pérez and Ladrillovitz. Next up: Resume Valencia, Valencia on Sat 10 Oct.
+Blanch is a house and tech house artist based in Spain, with 66 gigs on soundcheck across Barcelona, Berlin, Brussels and London and 4 more. Often billed alongside blan.trrs, Pau Pérez and Ladrillovitz. Next up: Resume Valencia, Valencia on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Resume Valencia | Valencia |
+| Fri, 16 Oct 2026 | Oven Club | Valencia |
+| Fri, 30 Oct 2026 | Oven Club | Valencia |
 
 ## Recently played
 

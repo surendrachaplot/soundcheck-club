@@ -1,14 +1,15 @@
 # Daox
 
-Daox is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
+Daox is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA, Central on Fri, 2 Oct 2026.
 
-Daox is a house and deep house artist based in Morocco, with 25 gigs on soundcheck across Bangkok, Barcelona, Berlin and Central and 5 more. Often billed alongside Penelope, Aline Umber and Caruan. Next up: TBA, Central on Fri 2 Oct.
+Daox is a house and techno artist based in Morocco, with 26 gigs on soundcheck across Bangkok, Barcelona, Berlin and Central and 5 more. Often billed alongside Penelope, Aline Umber and Caruan. Next up: TBA, Central on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | TBA | Central |
+| Fri, 30 Oct 2026 | Ministerium Club | Lisbon |
 | Thu, 5 Nov 2026 | One Resort | Tunisia |
 
 ## Recently played

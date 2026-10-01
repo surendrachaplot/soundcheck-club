@@ -1,14 +1,15 @@
 # Marion Hawkes
 
-Marion Hawkes is a House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 17 Oct 2026.
+Marion Hawkes is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Cobalt Studios, Newcastle on Sat, 17 Oct 2026.
 
-Marion Hawkes is a house and techno artist based in United Kingdom, with 47 gigs on soundcheck across Belfast, Bristol, Cork and Dublin and 5 more. Often billed alongside Conor Schmtz, Inside Moves and Jordan Nocturne. Next up: Cobalt Studios, Newcastle on Sat 17 Oct.
+Marion Hawkes is a house and techno artist based in United Kingdom, with 48 gigs on soundcheck across Belfast, Bristol, Cork and Dublin and 5 more. Often billed alongside Conor Schmtz, Inside Moves and Jordan Nocturne. Next up: Cobalt Studios, Newcastle on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 17 Oct 2026 | Cobalt Studios | Newcastle |
+| Fri, 23 Oct 2026 | TBA - SECRET LOCATION | Belfast |
 | Sat, 31 Oct 2026 | The Ulster Sports Club | Belfast |
 
 ## Recently played

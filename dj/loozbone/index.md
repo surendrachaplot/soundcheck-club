@@ -2,7 +2,7 @@
 
 LOOZBONE is a Tech House and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Lion Super Club, Seoul on Thu, 1 Oct 2026.
 
-LOOZBONE is a tech house and progressive house artist, with 15 gigs on soundcheck across Seoul. Often billed alongside SIELO, Juntaro and 2SPADE. Next up: Lion Super Club, Seoul on Thu 1 Oct.
+LOOZBONE is a tech house and progressive house artist based in South Korea, with 15 gigs on soundcheck across Seoul. Often billed alongside SIELO, Juntaro and 2SPADE. Next up: Lion Super Club, Seoul on Thu 1 Oct.
 
 ## Upcoming shows
 

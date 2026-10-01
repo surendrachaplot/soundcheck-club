@@ -1,13 +1,14 @@
 # Sleepy & Boo
 
-Sleepy & Boo is a Deep House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Virgo, New York City on Sat, 10 Oct 2026.
+Sleepy & Boo is a Deep House and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at MAD Radio NYC, New York City on Sat, 3 Oct 2026.
 
-Sleepy & Boo are a deep house and techno duo based in United States of America, with 194 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 5 more. Often billed alongside Navider, Alex Sharp and D.T.H.. Next up: Virgo, New York City on Sat 10 Oct.
+Sleepy & Boo are a deep house and techno duo based in United States of America, with 195 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Detroit and 5 more. Often billed alongside Navider, Alex Sharp and D.T.H.. Next up: MAD Radio NYC, New York City on Sat 3 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | MAD Radio NYC | New York City |
 | Sat, 10 Oct 2026 | Virgo | New York City |
 
 ## Recently played

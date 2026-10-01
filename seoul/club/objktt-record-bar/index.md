@@ -1,13 +1,15 @@
 # Objktt Record Bar
 
-Objktt Record Bar is a music venue in Seoul with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. The next is "FRISK Picnic" on Sat, 10 Oct 2026.
+Objktt Record Bar is a music venue in Seoul with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "WAY OUT EAST" on Sat, 3 Oct 2026.
 
-Objktt Record Bar is a music venue in Seoul listed on soundcheck. 1 upcoming gig, with line-ups including Demuk, Departs, Silly Silky and Sudowoo. See dates, start times and who's playing. 4F, 58 Myeongdong 8ga-gil, Jung-gu, Seoul, Korea 04537.
+Objktt Record Bar is a music venue in Seoul listed on soundcheck. 3 upcoming gigs, with line-ups including Demuk, Departs, Mingsturn and Silly Silky and 1 more. See dates, start times and who's playing. 4F, 58 Myeongdong 8ga-gil, Jung-gu, Seoul, Korea 04537.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Sat, 3 Oct 2026 | WAY OUT EAST | Mingsturn |
+| Sun, 4 Oct 2026 | TCHOMPLIÚ |  |
 | Sat, 10 Oct 2026 | FRISK Picnic | Demuk, Departs, Silly Silky, Sudowoo |
 
 ## Address

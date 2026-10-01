@@ -1,8 +1,8 @@
 # Ilana Ariella
 
-Ilana Ariella is a House and Deep House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 3342 N Halsted St, Chicago on Sat, 10 Oct 2026.
+Ilana Ariella is a House and Deep House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - 3342 N Halsted St, Chicago on Sat, 10 Oct 2026.
 
-Ilana Ariella is a house and deep house artist based in United States of America, with 41 gigs on soundcheck across Chicago. Often billed alongside Karl Almaria, Wyser and Duke Shin. Next up: TBA - 3342 N Halsted St, Chicago on Sat 10 Oct.
+Ilana Ariella is a house and deep house artist based in United States of America, with 42 gigs on soundcheck across Chicago. Often billed alongside Karl Almaria, Wyser and Duke Shin. Next up: TBA - 3342 N Halsted St, Chicago on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ilana Ariella is a house and deep house artist based in United States of America
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | TBA - 3342 N Halsted St | Chicago |
 | Tue, 13 Oct 2026 | Decibel | Chicago |
+| Thu, 15 Oct 2026 | Swig | Chicago |
 
 ## Recently played
 

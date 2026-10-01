@@ -1,6 +1,6 @@
 # OWNSPACE x 4amrecords — OPENING SEASON at Tunnel
 
-OWNSPACE x 4amrecords — OPENING SEASON at Tunnel on Sat 10 Oct, Milan. 2 artists: Stella Fiore and Test_One. House and Electro. See the line-up on soundcheck.
+OWNSPACE x 4amrecords — OPENING SEASON at Tunnel on Sat 10 Oct, Milan. 3 artists: FRANKIEE, Stella Fiore and Test_One. House and Electro. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,6 +10,7 @@ OWNSPACE x 4amrecords — OPENING SEASON at Tunnel on Sat 10 Oct, Milan. 2 artis
 
 ## Line-up
 
+- FRANKIEE
 - Stella Fiore
 - Test_One
 

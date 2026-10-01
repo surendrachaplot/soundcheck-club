@@ -1,8 +1,8 @@
 # shekdash
 
-shekdash is a Techno and Club artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bastet, Philadelphia on Sat, 3 Oct 2026.
+shekdash is a Techno and Club artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bastet, Philadelphia on Sat, 3 Oct 2026.
 
-shekdash is a techno and club artist based in United States of America, with 87 gigs on soundcheck across Boston, Chicago, Denver and Detroit and 13 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: Bastet, Philadelphia on Sat 3 Oct.
+shekdash is a techno and club artist based in United States of America, with 88 gigs on soundcheck across Boston, Chicago, Denver and Detroit and 13 more. Often billed alongside Tromac, DJ SWISHA and Daniro. Next up: Bastet, Philadelphia on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ shekdash is a techno and club artist based in United States of America, with 87 
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Bastet | Philadelphia |
 | Thu, 8 Oct 2026 | Bossa Nova Civic Club | New York City |
+| Sun, 11 Oct 2026 | Tigres de la Noche | Washington DC |
 | Tue, 13 Oct 2026 | Bossa Nova Civic Club | New York City |
 
 ## Recently played

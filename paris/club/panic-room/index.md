@@ -1,8 +1,8 @@
 # Panic Room
 
-Panic Room is a music venue in Paris with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BASSCULE" on Thu, 1 Oct 2026.
+Panic Room is a music venue in Paris with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "BASSCULE" on Thu, 1 Oct 2026.
 
-Panic Room is a music venue in Paris listed on soundcheck. 14 upcoming gigs, with line-ups including Vice Experience. See dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
+Panic Room is a music venue in Paris listed on soundcheck. 19 upcoming gigs, with line-ups including J-Dub and Vice Experience. See dates, start times and who's playing. 101 rue Amelot; 75011; Paris; France.
 
 ## What's on
 

@@ -1,6 +1,6 @@
 # Camhanaich ✹ Seasoning Family Birthday Fundraiser at radial
 
-Camhanaich ✹ Seasoning Family Birthday Fundraiser at radial on Sat 3 Oct, London. 8 artists on the bill: Alicia (UK), Arabesque, DanBe and DJ Opher and 4 more. Techno and Bass. Preview the line-up and save it on soundcheck.
+Camhanaich ✹ Seasoning Family Birthday Fundraiser at radial on Sat 3 Oct, London. 8 artists: Alicia (UK), Arabesque, DanBe and DJ Opher and 4 more. Techno and Bass. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

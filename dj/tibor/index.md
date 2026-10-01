@@ -1,14 +1,15 @@
 # Tibor
 
-Tibor is a Bass and UK Funky artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Cheek, London on Fri, 30 Oct 2026.
+Tibor is a Bass and Garage artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Cheek, London on Fri, 30 Oct 2026.
 
-Tibor is a bass and uk funky artist based in United Kingdom, with 24 gigs on soundcheck across Leeds and London. Often billed alongside MJK, Riel and Sharnie. Next up: Club Cheek, London on Fri 30 Oct.
+Tibor is a bass and garage artist based in United Kingdom, with 25 gigs on soundcheck across Leeds and London. Often billed alongside Riel, MJK and Sharnie. Next up: Club Cheek, London on Fri 30 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 30 Oct 2026 | Club Cheek | London |
+| Sat, 28 Nov 2026 | M.O.T | London |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Tibor is a bass and uk funky artist based in United Kingdom, with 24 gigs on sou
 
 ## Shares bills with
 
-MJK, Riel, Sharnie
+Riel, MJK, Sharnie
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/tibor/)*

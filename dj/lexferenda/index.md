@@ -2,7 +2,7 @@
 
 Lex Ferenda is a House and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Salon Daomé, Montreal on Fri, 2 Oct 2026.
 
-Lex Ferenda is a house and techno artist based in Canada, with 35 gigs on soundcheck across Montreal and New York City. Often billed alongside Donotstealmyname, MIC ROB! and Manuel Falardeau. Next up: Salon Daomé, Montreal on Fri 2 Oct.
+Lex Ferenda is a house and techno artist based in Canada, with 35 gigs on soundcheck across Montreal and New York City. Often billed alongside Donotstealmyname, Jadd and MIC ROB!. Next up: Salon Daomé, Montreal on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -25,6 +25,6 @@ Lex Ferenda is a house and techno artist based in Canada, with 35 gigs on soundc
 
 ## Shares bills with
 
-Donotstealmyname, MIC ROB!, Manuel Falardeau
+Donotstealmyname, Jadd (2), MIC ROB!
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/lexferenda/)*

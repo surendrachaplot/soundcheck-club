@@ -1,8 +1,8 @@
 # Filip Xavi
 
-Filip Xavi is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Karmakoma, Belgrade on Fri, 2 Oct 2026.
+Filip Xavi is a Techno and Electro artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Karmakoma, Belgrade on Fri, 2 Oct 2026.
 
-Filip Xavi is a techno and electro artist based in Serbia, with 56 gigs on soundcheck across Belgrade, Shenzhen and Tokyo. Often billed alongside Lollipop Janosz, Impedance and ROPE. Next up: Karmakoma, Belgrade on Fri 2 Oct.
+Filip Xavi is a techno and electro artist based in Serbia, with 57 gigs on soundcheck across Belgrade, Shenzhen and Tokyo. Often billed alongside Lollipop Janosz, Impedance and ROPE. Next up: Karmakoma, Belgrade on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Filip Xavi is a techno and electro artist based in Serbia, with 56 gigs on sound
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Karmakoma | Belgrade |
 | Sat, 10 Oct 2026 | Drugstore Beograd | Belgrade |
+| Fri, 23 Oct 2026 | Drugstore Beograd | Belgrade |
 
 ## Recently played
 

@@ -1,6 +1,6 @@
-# SHELTER   XI at TBA
+# SHELTER   -       XI at TBA
 
-SHELTER   XI at TBA on Sat 7 Nov, Los Angeles. Techno. See the line-up on soundcheck.
+SHELTER   -       XI at TBA on Sat 7 Nov, Los Angeles. Techno. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

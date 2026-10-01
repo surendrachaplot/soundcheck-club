@@ -1,8 +1,8 @@
 # Izco
 
-Izco is a Garage and Jungle artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
+Izco is a Garage and Jungle artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Open Ground, Wuppertal on Sat, 3 Oct 2026.
 
-Izco is a garage and jungle artist based in United Kingdom, with 80 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 19 more. Often billed alongside Capo Lee, Bakey and Tim Reaper. Next up: Open Ground, Wuppertal on Sat 3 Oct.
+Izco is a garage and jungle artist based in United Kingdom, with 81 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Brighton and 20 more. Often billed alongside Capo Lee, Bakey and Tim Reaper. Next up: Open Ground, Wuppertal on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Izco is a garage and jungle artist based in United Kingdom, with 80 gigs on soun
 | Sat, 24 Oct 2026 | New Century Locker | Manchester |
 | Fri, 6 Nov 2026 | fabric | London |
 | Sat, 7 Nov 2026 | DRUMSHEDS | London |
+| Sat, 5 Dec 2026 | control | Bucharest |
 
 ## Recently played
 

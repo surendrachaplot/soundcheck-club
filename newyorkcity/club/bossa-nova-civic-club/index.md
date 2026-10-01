@@ -1,8 +1,8 @@
 # Bossa Nova Civic Club
 
-Bossa Nova Civic Club is a music venue in New York City with 29 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Synthicide with Lloyd, For Future's Sake, Andi" on Thu, 1 Oct 2026.
+Bossa Nova Civic Club is a music venue in New York City with 31 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Synthicide with Lloyd, For Future's Sake, Andi" on Thu, 1 Oct 2026.
 
-Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 29 upcoming gigs, with line-ups including .json, 4AM NYC, 8ULENTINA and ABEILLE and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
+Bossa Nova Civic Club is a music venue in New York City listed on soundcheck. 31 upcoming gigs, with line-ups including .json, 4AM NYC, 8ULENTINA and ABEILLE and 2 more. See dates, start times and who's playing. 1271 Myrtle Ave; Brooklyn, NY 11221; United States.
 
 ## What's on
 

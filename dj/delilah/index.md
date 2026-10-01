@@ -1,8 +1,8 @@
 # Delilah
 
-Delilah is a House and Tech House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
+Delilah is a House and Tech House artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - Various Venues, Malta on Thu, 1 Oct 2026.
 
-Delilah is a house and tech house artist based in United Kingdom, with 40 gigs on soundcheck across Berlin, Bristol, Brussels and Dublin and 8 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
+Delilah is a house and tech house artist based in United Kingdom, with 41 gigs on soundcheck across Berlin, Bristol, Brussels and Dublin and 8 more. Often billed alongside MiNNA, Rossi and Sidney Charles. Next up: TBA - Various Venues, Malta on Thu 1 Oct.
 
 ## Upcoming shows
 
@@ -14,6 +14,7 @@ Delilah is a house and tech house artist based in United Kingdom, with 40 gigs o
 | Fri, 9 Oct 2026 | Hï Ibiza | Ibiza |
 | Fri, 30 Oct 2026 | Mint XL | Leeds |
 | Sat, 7 Nov 2026 | Blackstone Street Warehouse | Liverpool |
+| Fri, 11 Dec 2026 | fabric | London |
 
 ## Recently played
 

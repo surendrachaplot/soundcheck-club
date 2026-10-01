@@ -1,8 +1,8 @@
 # Ksenia Kamikaza
 
-Ksenia Kamikaza is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Spilve Airport, Riga on Fri, 2 Oct 2026.
+Ksenia Kamikaza is a Techno and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Spilve Airport, Riga on Fri, 2 Oct 2026.
 
-Ksenia Kamikaza is a techno and house artist based in Latvia, with 119 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 10 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: Spilve Airport, Riga on Fri 2 Oct.
+Ksenia Kamikaza is a techno and house artist based in Latvia, with 120 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Buenos Aires and 10 more. Often billed alongside Esoniq, Ikss and HP-82. Next up: Spilve Airport, Riga on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Ksenia Kamikaza is a techno and house artist based in Latvia, with 119 gigs on s
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Spilve Airport | Riga |
 | Fri, 16 Oct 2026 | Teritorija | Riga |
+| Fri, 23 Oct 2026 | Teritorija | Riga |
 | Fri, 20 Nov 2026 | Teritorija | Riga |
 | Fri, 4 Dec 2026 | Teritorija | Riga |
 | Fri, 18 Dec 2026 | Teritorija | Riga |

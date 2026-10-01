@@ -1,13 +1,14 @@
 # Abity
 
-Abity is a Progressive House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Kadinsky Cafe, Amsterdam on Wed, 21 Oct 2026.
+Abity is a Progressive House and House artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
 
-Abity is a progressive house artist based in Argentina, with 9 gigs on soundcheck across Amsterdam and Buenos Aires. Often billed alongside Not Demure, ALISHA and Alísha. Next up: Kadinsky Cafe, Amsterdam on Wed 21 Oct.
+Abity is a progressive house and house artist based in Argentina, with 10 gigs on soundcheck across Amsterdam, Buenos Aires and Madrid. Often billed alongside Not Demure, ALISHA and Alísha. Next up: Barco Sound House, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Barco Sound House | Madrid |
 | Wed, 21 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Wed, 21 Oct 2026 | Kadinsky Cafe | Amsterdam |
 | Sat, 24 Oct 2026 | Kadinsky Cafe | Amsterdam |

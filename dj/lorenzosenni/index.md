@@ -1,8 +1,8 @@
 # Lorenzo Senni
 
-Lorenzo Senni is a Experimental and Techno artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
+Lorenzo Senni is a Experimental and Techno artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Hotel Forum, Krakow on Sat, 10 Oct 2026.
 
-Lorenzo Senni is an experimental and techno artist based in Italy, with 39 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Bergen and 20 more. Often billed alongside Marcel Dettmann, Daito Manabe and Kode9. Next up: Hotel Forum, Krakow on Sat 10 Oct.
+Lorenzo Senni is an experimental and techno artist based in Italy, with 40 gigs on soundcheck across Amsterdam, Bangkok, Barcelona and Bergen and 20 more. Often billed alongside Marcel Dettmann, Daito Manabe and Kode9. Next up: Hotel Forum, Krakow on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Lorenzo Senni is an experimental and techno artist based in Italy, with 39 gigs 
 | Sat, 10 Oct 2026 | Hotel Forum | Krakow |
 | Thu, 29 Oct 2026 | TBA - Various Venues, Guimarães, PT | Portugal |
 | Thu, 29 Oct 2026 | Østre | Bergen |
+| Fri, 6 Nov 2026 | Maravilla Studios | Mexico City |
 
 ## Recently played
 

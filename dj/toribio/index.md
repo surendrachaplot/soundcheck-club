@@ -1,8 +1,8 @@
 # Toribio
 
-Toribio is a House and Disco artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
+Toribio is a House and Disco artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Brooklyn Roots Collective, New York City on Fri, 2 Oct 2026.
 
-Toribio is a house and disco artist based in United States of America, with 217 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
+Toribio is a house and disco artist based in United States of America, with 218 gigs on soundcheck across Amsterdam, Athens, Barcelona and Berlin and 17 more. Often billed alongside Mickey Perez, Love Injection and Guthrie. Next up: Brooklyn Roots Collective, New York City on Fri 2 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Toribio is a house and disco artist based in United States of America, with 217 
 | Fri, 2 Oct 2026 | Brooklyn Roots Collective | New York City |
 | Fri, 9 Oct 2026 | Djoon | Paris |
 | Sat, 31 Oct 2026 | Loso | Richmond |
+| Sat, 7 Nov 2026 | TBA - Little Shop of Soil | New York City |
 | Sat, 12 Dec 2026 | H0L0 | New York City |
 
 ## Recently played

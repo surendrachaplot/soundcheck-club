@@ -1,13 +1,14 @@
 # CC:DISCO!
 
-CC:DISCO! is a House and Disco artist with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Garage Klub, Antwerp on Sat, 24 Oct 2026.
+CC:DISCO! is a House and Disco artist with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at La Paloma, Barcelona on Sat, 17 Oct 2026.
 
-CC:DISCO! is a house and disco artist based in Australia, with 147 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 39 more. Often billed alongside Chima Isaaro, Erol Alkan and Gerd Janson. Next up: Garage Klub, Antwerp on Sat 24 Oct.
+CC:DISCO! is a house and disco artist based in Australia, with 148 gigs on soundcheck across Amsterdam, Antwerp, Athens and Bali and 39 more. Often billed alongside Chima Isaaro, Erol Alkan and Gerd Janson. Next up: La Paloma, Barcelona on Sat 17 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Sat, 17 Oct 2026 | La Paloma | Barcelona |
 | Sat, 24 Oct 2026 | Garage Klub | Antwerp |
 | Fri, 6 Nov 2026 | Palais | London |
 | Sat, 7 Nov 2026 | Depot Mayfield | Manchester |

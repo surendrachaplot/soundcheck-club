@@ -1,13 +1,14 @@
 # Theo Terev
 
-Theo Terev is a House and Disco artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Club Metro, Kyoto on Sun, 8 Nov 2026.
+Theo Terev is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Dragon I, Hong Kong on Fri, 2 Oct 2026.
 
-Theo Terev is a house and disco artist based in France, with 47 gigs on soundcheck across Bangkok, Barcelona, Bristol and Hong Kong and 10 more. Often billed alongside Seiji Ono, Hugo LX and Mafalda. Next up: Club Metro, Kyoto on Sun 8 Nov.
+Theo Terev is a house and disco artist based in France, with 48 gigs on soundcheck across Bangkok, Barcelona, Bristol and Hong Kong and 10 more. Often billed alongside Seiji Ono, Hugo LX and Mafalda. Next up: Dragon I, Hong Kong on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 2 Oct 2026 | Dragon I | Hong Kong |
 | Sun, 8 Nov 2026 | Club Metro | Kyoto |
 
 ## Recently played

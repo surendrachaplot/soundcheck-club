@@ -1,14 +1,15 @@
 # Julietta Ferrari
 
-Julietta Ferrari is a Electro and Experimental artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
+Julietta Ferrari is a Electro and Experimental artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Razzmatazz, Barcelona on Sat, 10 Oct 2026.
 
-Julietta Ferrari is an electro and experimental artist based in Spain, with 41 gigs on soundcheck across Barcelona, Glasgow, London and Madrid and 1 more. Often billed alongside JUMER, Montenegro and ENGALANAN. Next up: Razzmatazz, Barcelona on Sat 10 Oct.
+Julietta Ferrari is an electro and experimental artist based in Spain, with 42 gigs on soundcheck across Barcelona, Glasgow, London and Madrid and 1 more. Often billed alongside JUMER, Montenegro and ENGALANAN. Next up: Razzmatazz, Barcelona on Sat 10 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | Razzmatazz | Barcelona |
+| Fri, 16 Oct 2026 | Paral•lel 62 | Barcelona |
 
 ## Recently played
 

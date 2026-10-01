@@ -1,14 +1,15 @@
 # Sheefy McFly
 
-Sheefy McFly is a Ghetto Tech and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Big Pink, Detroit on Fri, 2 Oct 2026.
+Sheefy McFly is a Ghetto Tech and House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Big Pink, Detroit on Fri, 2 Oct 2026.
 
-Sheefy McFly is a ghetto tech and house artist based in United States of America, with 88 gigs on soundcheck across Chicago, Denver, Detroit and London and 1 more. Often billed alongside DJ Godfather, Nick Speed and Disc Jockey George. Next up: Big Pink, Detroit on Fri 2 Oct.
+Sheefy McFly is a ghetto tech and house artist based in United States of America, with 89 gigs on soundcheck across Chicago, Denver, Detroit and London and 1 more. Often billed alongside DJ Godfather, Nick Speed and Disc Jockey George. Next up: Big Pink, Detroit on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Big Pink | Detroit |
+| Sat, 10 Oct 2026 | TV Lounge | Detroit |
 | Sun, 18 Oct 2026 | The Salt Shed | Chicago |
 
 ## Recently played

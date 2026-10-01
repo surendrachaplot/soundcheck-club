@@ -9,7 +9,7 @@ B2 Rīga is a music venue in Riga listed on soundcheck. 6 upcoming gigs, with li
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Night Shift 3 - Mihai Popoviciu [RO] | D I N, DEEP DISTRICT, Mihai Popoviciu, iOAN (LV) |
-| Fri, 9 Oct 2026 | PIXEL VOL 3 W ROBS [IT/ DE] | Electricano, PUPA, Robs (1) |
+| Fri, 9 Oct 2026 | PIXEL VOL 3 W ROBS [IT/ DE]  PRE REGISTER FOR FRE ENTRY | Electricano, PUPA, Robs (1) |
 | Fri, 16 Oct 2026 | FILTER 6YR W Diego Krause [DE] | Diego Krause, KIRHA, PUPA, Will Sonic |
 | Sat, 17 Oct 2026 | Keepeesch 011: B2 - PRE REGISTER FOR FREE ENTRY | Balmishev, Kapusta, Manav/draugu |
 | Fri, 30 Oct 2026 | Haloween Party x Donatas Chipak [LT] | Laiva Maikule, PUPA |

@@ -1,8 +1,8 @@
 # Beat Boutique
 
-Beat Boutique is a music venue in Hamburg with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Noir Phase" on Fri, 2 Oct 2026.
+Beat Boutique is a music venue in Hamburg with 7 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Noir Phase" on Fri, 2 Oct 2026.
 
-Beat Boutique is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs, with line-ups including lexpon, NoraDrenalin and STOECKER_. See dates, start times and who's playing. Altländer Str. 12, 20095 Hamburg, Germany.
+Beat Boutique is a music venue in Hamburg listed on soundcheck. 7 upcoming gigs, with line-ups including lexpon, NoraDrenalin and STOECKER_. See dates, start times and who's playing. Altländer Str. 12, 20095 Hamburg, Germany.
 
 ## What's on
 
@@ -10,6 +10,7 @@ Beat Boutique is a music venue in Hamburg listed on soundcheck. 6 upcoming gigs,
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | Noir Phase |  |
 | Sat, 3 Oct 2026 | Fuchsbau DAYRAVE | lexpon |
+| Wed, 7 Oct 2026 | PING PONG PARTY |  |
 | Sat, 10 Oct 2026 | SubsTanz |  |
 | Fri, 16 Oct 2026 | Le Club |  |
 | Sat, 17 Oct 2026 | EarlyBeats Retro Classics – Die Premiere | STOECKER_ |

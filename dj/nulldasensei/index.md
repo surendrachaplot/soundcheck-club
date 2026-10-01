@@ -1,14 +1,15 @@
 # NullDaSensei
 
-NullDaSensei is a Bass and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Bonobo, Tokyo on Sun, 11 Oct 2026.
+NullDaSensei is a Bass and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Bonobo, Tokyo on Sun, 11 Oct 2026.
 
-NullDaSensei is a bass and techno artist based in Japan, with 9 gigs on soundcheck across Tokyo. Often billed alongside Mars89, ZuKaRoHi and ykah. Next up: Bonobo, Tokyo on Sun 11 Oct.
+NullDaSensei is a bass and techno artist based in Japan, with 10 gigs on soundcheck across Tokyo. Often billed alongside Mars89, ykah and ZuKaRoHi. Next up: Bonobo, Tokyo on Sun 11 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Sun, 11 Oct 2026 | Bonobo | Tokyo |
+| Thu, 15 Oct 2026 | Enter Shibuya | Tokyo |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ NullDaSensei is a bass and techno artist based in Japan, with 9 gigs on soundche
 
 ## Shares bills with
 
-Mars89, ZuKaRoHi, ykah
+Mars89, ykah, ZuKaRoHi
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nulldasensei/)*

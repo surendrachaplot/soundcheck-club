@@ -1,8 +1,8 @@
 # EL PADRE
 
-EL PADRE is a Techno and Progressive House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 93 Feet East, London on Sat, 3 Oct 2026.
+EL PADRE is a Techno and Progressive House artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at 93 Feet East, London on Sat, 3 Oct 2026.
 
-EL PADRE is a techno and progressive house artist based in Poland, with 4 gigs on soundcheck across Amsterdam, Glasgow and London. Often billed alongside Nathassia, Major K and Jay Cluss. Next up: 93 Feet East, London on Sat 3 Oct.
+EL PADRE is a techno and progressive house artist based in Poland, with 5 gigs on soundcheck across Amsterdam, Glasgow, London and Warsaw. Often billed alongside Nathassia, Major K and Jay Cluss. Next up: 93 Feet East, London on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ EL PADRE is a techno and progressive house artist based in Poland, with 4 gigs o
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | 93 Feet East | London |
 | Thu, 22 Oct 2026 | Bar Rouge | Amsterdam |
+| Fri, 13 Nov 2026 | TBA - BANK CLUB | Warsaw |
 
 ## Recently played
 

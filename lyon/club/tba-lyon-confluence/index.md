@@ -8,6 +8,6 @@ TBA - Lyon - Confluence is a music venue in Lyon listed on soundcheck. 1 upcomin
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Wed, 9 Dec 2026 | S festival 2026 | Cassius, Chuimix, David August, Dj Babatr, Ellen Allien, FTK (TW), Farah (2), Krimska, Laurent Garnier, Loulou Ferrari, MALUGI, Main Phase, Mouataz, Oonagh Haines, P errine, Patxi, Quelza, Ryota, Special Request, Teki Latex, Warum, laurele2n, marta |
+| Wed, 9 Dec 2026 | S festival 2026 | Cassius, Chuimix, David August, Dj Babatr, Ellen Allien, FTK (TW), Farah (2), Krimska, Laurent Garnier, Loulou Ferrari, MALUGI, Main Phase, Mouataz, Oonagh Haines, P errine, Patxi, Quelza, RAVL, Ryota, Saku Sahara, Salma Rosa, Shfoosja, Special Request, Tatyana Jane, Teki Latex, UFO95, Underground Resistance, Warum, laurele2n, marta |
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/lyon/club/tba-lyon-confluence/)*

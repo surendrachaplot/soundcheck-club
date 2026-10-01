@@ -1,13 +1,14 @@
 # Public Works
 
-Public Works is a music venue in San Francisco/Oakland with 22 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "SET with Mind Against All Night Long" on Fri, 2 Oct 2026.
+Public Works is a music venue in San Francisco/Oakland with 23 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Local 500 & Public Works present: Function 500 feat. Flux Aeterna" on Thu, 1 Oct 2026.
 
-Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 22 upcoming gigs, with line-ups including Alex Oxley, Alkemiss Erika, ALMAS and Carl Craig and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
+Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 23 upcoming gigs, with line-ups including AGROPOL, Alex Oxley, Alkemiss Erika and ALMAS and 2 more. See dates, start times and who's playing. 161 Erie Street, San Francisco, CA 94103, United States.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
+| Thu, 1 Oct 2026 | Local 500 & Public Works present: Function 500 feat. Flux Aeterna | AGROPOL, DJ Panderer, Moonpie |
 | Fri, 2 Oct 2026 | SET with Mind Against All Night Long | Mind Against, Moonvvater |
 | Sat, 3 Oct 2026 | JANTSEN PRESENTED BY VEXRA & Public Works |  |
 | Fri, 9 Oct 2026 | Roam x Sirens: Man Power. 25 Years of Roam | Jason Peters, Man Power, Shiny Objects |
@@ -17,7 +18,6 @@ Public Works is a music venue in San Francisco/Oakland listed on soundcheck. 22 
 | Fri, 23 Oct 2026 | EAZYBAKED presented by Public Works & Insomniac |  |
 | Fri, 23 Oct 2026 | First Contact |  |
 | Sat, 24 Oct 2026 | Ivy Lab: A FAREWELL TOUR presented by Public Works & Goldenvoice | DIALS, Great Dane, Ivy Lab |
-| Fri, 30 Oct 2026 | SET Halloween with Lost Miracle (Sébastien Léger & Roy Rosenfeld) & Satori | ALMAS, Alkemiss Erika, ENJII, Nay Jay, Pixxie, Roy Rosenfeld, SSEDA, Satori, Sebastien Leger |
 
 ## Address
 

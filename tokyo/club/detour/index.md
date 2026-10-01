@@ -1,14 +1,13 @@
 # DeTour
 
-DeTour is a music venue in Tokyo with 6 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "DT THURSDAY" on Thu, 1 Oct 2026.
+DeTour is a music venue in Tokyo with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "HAZE" on Fri, 2 Oct 2026.
 
-DeTour is a music venue in Tokyo listed on soundcheck. 6 upcoming gigs, with line-ups including AME (JP), BEPPU, nataria and YU-S-KE. See dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
+DeTour is a music venue in Tokyo listed on soundcheck. 5 upcoming gigs, with line-ups including AME (JP), BEPPU, nataria and YU-S-KE. See dates, start times and who's playing. B1 8-8 Uguisudani-Chu, Shibuya-Ku, Tokyo, 150-0032.
 
 ## What's on
 
 | Date | Gig | Line-up |
 | --- | --- | --- |
-| Thu, 1 Oct 2026 | DT THURSDAY |  |
 | Fri, 2 Oct 2026 | HAZE | AME (JP), nataria |
 | Sat, 3 Oct 2026 | BIG BLACK |  |
 | Sun, 4 Oct 2026 | TECHNOTES | BEPPU, YU-S-KE |

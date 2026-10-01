@@ -1,13 +1,14 @@
 # Edmondson
 
-Edmondson is a House and Jazz artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Baby Grey, Newcastle on Fri, 16 Oct 2026.
+Edmondson is a House and Jazz artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Baby Grey, Newcastle on Fri, 16 Oct 2026.
 
-Edmondson is a house and jazz artist based in United Kingdom, with 11 gigs on soundcheck across London and Newcastle. Often billed alongside Dom Apes, Seb Wildblood and 1-800 GIRLS. Next up: Baby Grey, Newcastle on Fri 16 Oct.
+Edmondson is a house and jazz artist based in United Kingdom, with 12 gigs on soundcheck across London and Newcastle. Often billed alongside Dom Apes, Seb Wildblood and 1-800 GIRLS. Next up: Baby Grey, Newcastle on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Baby Grey | Newcastle |
 | Fri, 16 Oct 2026 | Baby Grey | Newcastle |
 
 ## Recently played

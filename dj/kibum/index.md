@@ -9,7 +9,7 @@ Kibum is a minimal and minimal techno artist based in South Korea, with 103 gigs
 | Date | Venue | City |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | TBA - 고성 잼버리 수련장, 강원도 | South-korea |
-| Sat, 3 Oct 2026 | teller | Seoul |
+| Thu, 8 Oct 2026 | teller | Seoul |
 
 ## Recently played
 

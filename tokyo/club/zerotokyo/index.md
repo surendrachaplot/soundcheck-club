@@ -1,8 +1,8 @@
 # ZEROTOKYO
 
-ZEROTOKYO is a music venue in Tokyo with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "野百合 -noyuri- 1st Anniversary - HIPHOP / HOUSE -" on Thu, 1 Oct 2026.
+ZEROTOKYO is a music venue in Tokyo with 21 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "野百合 -noyuri- 1st Anniversary - HIPHOP / HOUSE -" on Thu, 1 Oct 2026.
 
-ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with line-ups including akii, Altemica, AVALON and AVAYA and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
+ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 21 upcoming gigs, with line-ups including akii, Altemica, Anfisa Letyago and AVALON and 2 more. See dates, start times and who's playing. B1-B4 Tokyu Kabukicho Tower, 1-29-1 Kabukicho, Shinjuku-ku, Tokyo.
 
 ## What's on
 
@@ -10,7 +10,7 @@ ZEROTOKYO is a music venue in Tokyo listed on soundcheck. 20 upcoming gigs, with
 | --- | --- | --- |
 | Thu, 1 Oct 2026 | 野百合 -noyuri- 1st Anniversary - HIPHOP / HOUSE - |  |
 | Fri, 2 Oct 2026 | Butterfly Effect Special feat.Subtronics - DUBSTEP / TRAP / BASS MUSIC - | AVAYA, Altemica, CASset, CRAZYHYUGA, HiTOMi, NAKiD, R1pq, RED-S, RION, SAKO |
-| Sat, 3 Oct 2026 | Lost Controll - TECH HOUSE / TECHNO - | George Bolton, HATSUYUKI, SHIGEKI NISHIKAWA, Yohji Igarashi, ecec, okadada |
+| Sat, 3 Oct 2026 | Lost Controll - TECH HOUSE / TECHNO - | George Bolton, HATSUYUKI, Kijta, SHIGEKI NISHIKAWA, Yohji Igarashi, ecec, okadada |
 | Sun, 4 Oct 2026 | SYNC |  |
 | Thu, 8 Oct 2026 | ACT - HIPHOP / R&B / HOUSE / UKG / BASS - |  |
 | Fri, 9 Oct 2026 | YONAGUNI FIESTA |  |

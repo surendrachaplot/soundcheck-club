@@ -1,14 +1,15 @@
 # WÖNDER GIRL
 
-WÖNDER GIRL is a Techno and Electro artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Socore Factory, Osaka on Wed, 18 Nov 2026.
+WÖNDER GIRL is a Techno and Electro artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Socore Factory, Osaka on Wed, 18 Nov 2026.
 
-WÖNDER GIRL is a techno and electro artist based in Japan, with 16 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Chiaki Uehira, Lhinen and CAPTAIN HOOK Jr.. Next up: Socore Factory, Osaka on Wed 18 Nov.
+WÖNDER GIRL is a techno and electro artist based in Japan, with 17 gigs on soundcheck across Kyoto and Osaka. Often billed alongside Chiaki Uehira, Lhinen and CAPTAIN HOOK Jr.. Next up: Socore Factory, Osaka on Wed 18 Nov.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 18 Nov 2026 | Socore Factory | Osaka |
+| Sat, 5 Dec 2026 | Socore Factory | Osaka |
 
 ## Recently played
 

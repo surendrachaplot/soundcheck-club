@@ -1,8 +1,8 @@
 # Club M2 Miami
 
-Club M2 Miami is a music venue in Miami with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NEUMOND: LUNAEYE, AD:DA, PAOLO, MILA RUBIO, MAGNO" on Fri, 2 Oct 2026.
+Club M2 Miami is a music venue in Miami with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "NEUMOND: LUNAEYE, AD:DA, PAOLO, MILA RUBIO, MAGNO" on Fri, 2 Oct 2026.
 
-Club M2 Miami is a music venue in Miami listed on soundcheck. 3 upcoming gigs, with line-ups including Marie Posa, MindGazm and Tomás Asesio. See dates, start times and who's playing. 1235 Washington Ave, Miami Beach, Florida, 33139, United States.
+Club M2 Miami is a music venue in Miami listed on soundcheck. 4 upcoming gigs, with line-ups including Marie Posa, MindGazm, Sebastian Morxx and Tomás Asesio. See dates, start times and who's playing. 1235 Washington Ave, Miami Beach, Florida, 33139, United States.
 
 ## What's on
 
@@ -11,6 +11,7 @@ Club M2 Miami is a music venue in Miami listed on soundcheck. 3 upcoming gigs, w
 | Fri, 2 Oct 2026 | NEUMOND: LUNAEYE, AD:DA, PAOLO, MILA RUBIO, MAGNO |  |
 | Sat, 3 Oct 2026 | Dance Therapy: DMeyer, Marie Posa, Mindgazm, Xonya |  |
 | Sat, 3 Oct 2026 | MindGazm Dance Therapy | Marie Posa, MindGazm, Tomás Asesio |
+| Sat, 3 Oct 2026 | Techno Trance Miami | Sebastian Morxx |
 
 ## Address
 

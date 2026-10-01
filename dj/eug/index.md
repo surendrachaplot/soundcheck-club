@@ -1,0 +1,28 @@
+# Eug
+
+Eug is a House and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at TBA - San Francisco, San Francisco/Oakland on Sat, 24 Oct 2026.
+
+Eug is a house and techno artist, with 21 gigs on soundcheck across New York City, San Francisco/Oakland, Seoul and Tokyo. Often billed alongside Monkey Timers, FFAN and Kenji Takimi. Next up: TBA - San Francisco, San Francisco/Oakland on Sat 24 Oct.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 24 Oct 2026 | TBA - San Francisco | San Francisco/Oakland |
+
+## Recently played
+
+- Le Bain, New York City · Fri, 11 Sept 2026
+- Bar Part Time, San Francisco/Oakland · Fri, 21 Aug 2026
+- Nyapi, Seoul · Sat, 4 Jul 2026
+- TBA - Secret SF Warehouse, San Francisco/Oakland · Sat, 4 Apr 2026
+- Mitsuki, Tokyo · Thu, 18 Dec 2025
+- Bar Part Time, San Francisco/Oakland · Fri, 17 Oct 2025
+- Bar Part Time, San Francisco/Oakland · Fri, 15 Aug 2025
+- Nyapi, Seoul · Sat, 21 Jun 2025
+
+## Shares bills with
+
+Monkey Timers, FFAN, Kenji Takimi
+
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/eug/)*

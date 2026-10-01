@@ -1,8 +1,8 @@
 # The DBA
 
-The DBA is a music venue in Manchester with 19 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Doll World Academy" on Thu, 1 Oct 2026.
+The DBA is a music venue in Manchester with 20 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Doll World Academy" on Thu, 1 Oct 2026.
 
-The DBA is a music venue in Manchester listed on soundcheck. 19 upcoming gigs, with line-ups including Abby Harris, Aerbreak, Aiden Francis and Atiké and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
+The DBA is a music venue in Manchester listed on soundcheck. 20 upcoming gigs, with line-ups including Abby Harris, Aerbreak, Aiden Francis and Atiké and 2 more. See dates, start times and who's playing. 95 Cheetham Hill Rd, Cheetham Hill, Manchester M8 8PY.
 
 ## What's on
 

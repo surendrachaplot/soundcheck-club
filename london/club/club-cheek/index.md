@@ -1,8 +1,8 @@
 # Club Cheek
 
-Club Cheek is a music venue in London with 13 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Percolate x Gradient presents Bobby. (Extended)" on Sat, 3 Oct 2026.
+Club Cheek is a music venue in London with 14 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "Percolate x Gradient presents Bobby. (Extended)" on Sat, 3 Oct 2026.
 
-Club Cheek is a music venue in London listed on soundcheck. 13 upcoming gigs, with line-ups including Tadeusz, Alicia (UK), Alienata and Amit and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
+Club Cheek is a music venue in London listed on soundcheck. 14 upcoming gigs, with line-ups including Tadeusz, Alicia (UK), Alienata and Amit and 2 more. See dates, start times and who's playing. 302-304 Barrington Road, London, SW9 7JJ.
 
 ## What's on
 

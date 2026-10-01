@@ -1,14 +1,15 @@
 # Dj Having Sex
 
-Dj Having Sex is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Substation, Seattle on Wed, 14 Oct 2026.
+Dj Having Sex is a Techno and Club artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Substation, Seattle on Wed, 14 Oct 2026.
 
-Dj Having Sex is a techno and house artist based in United States of America, with 20 gigs on soundcheck across New York City, Portland, San Francisco/Oakland and Seattle. Often billed alongside Succubass, likeholywine and nonsuit. Next up: Substation, Seattle on Wed 14 Oct.
+Dj Having Sex is a techno and club artist based in United States of America, with 21 gigs on soundcheck across Chicago, New York City, Portland and San Francisco/Oakland and 1 more. Often billed alongside nonsuit, Succubass and likeholywine. Next up: Substation, Seattle on Wed 14 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Wed, 14 Oct 2026 | Substation | Seattle |
+| Sat, 17 Oct 2026 | Podlasie Club | Chicago |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Dj Having Sex is a techno and house artist based in United States of America, wi
 
 ## Shares bills with
 
-Succubass, likeholywine, nonsuit
+nonsuit, Succubass, likeholywine
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/djhavingsex/)*

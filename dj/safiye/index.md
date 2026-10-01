@@ -1,8 +1,8 @@
 # Safiye
 
-Safiye is a House and Disco artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Exchange, Bristol on Fri, 16 Oct 2026.
+Safiye is a House and Disco artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Exchange, Bristol on Fri, 16 Oct 2026.
 
-Safiye is a house and disco artist based in United Kingdom, with 47 gigs on soundcheck across Bristol, Bucharest, Cardiff and London and 1 more. Often billed alongside SPICYIVY, Burly Chassis and Brad Bradley. Next up: Exchange, Bristol on Fri 16 Oct.
+Safiye is a house and disco artist based in United Kingdom, with 48 gigs on soundcheck across Bristol, Bucharest, Cardiff and London and 1 more. Often billed alongside SPICYIVY, Burly Chassis and Brad Bradley. Next up: Exchange, Bristol on Fri 16 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Safiye is a house and disco artist based in United Kingdom, with 47 gigs on soun
 | --- | --- | --- |
 | Fri, 16 Oct 2026 | Exchange | Bristol |
 | Sat, 17 Oct 2026 | The Prospect Building | Bristol |
+| Sat, 31 Oct 2026 | Ballroom at Palais | London |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Niño Arbol
 
-Niño Arbol is a Techno and Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at YuYu Cine Club, Mexico City on Sat, 10 Oct 2026.
+Niño Arbol is a Techno and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at YuYu Cine Club, Mexico City on Sat, 10 Oct 2026.
 
-Niño Arbol is a techno and bass artist based in Mexico, with 61 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bristol and 5 more. Often billed alongside Astroboii, Octoptic and Cybebe. Next up: YuYu Cine Club, Mexico City on Sat 10 Oct.
+Niño Arbol is a techno and bass artist based in Mexico, with 62 gigs on soundcheck across Amsterdam, Bangkok, Berlin and Bristol and 5 more. Often billed alongside Astroboii, Octoptic and Cybebe. Next up: YuYu Cine Club, Mexico City on Sat 10 Oct.
 
 ## Upcoming shows
 
@@ -10,6 +10,7 @@ Niño Arbol is a techno and bass artist based in Mexico, with 61 gigs on soundch
 | --- | --- | --- |
 | Sat, 10 Oct 2026 | YuYu Cine Club | Mexico City |
 | Thu, 15 Oct 2026 | Fünk | Mexico City |
+| Fri, 6 Nov 2026 | Maravilla Studios | Mexico City |
 
 ## Recently played
 

@@ -1,8 +1,8 @@
 # Samantha Togni
 
-Samantha Togni is a Techno and House artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuchs2, Prague on Sat, 3 Oct 2026.
+Samantha Togni is a Techno and House artist with 5 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fuchs2, Prague on Sat, 3 Oct 2026.
 
-Samantha Togni is a techno and house artist based in United Kingdom, with 153 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 37 more. Often billed alongside Mar/us, Lewis G. Burton and Metaraph. Next up: Fuchs2, Prague on Sat 3 Oct.
+Samantha Togni is a techno and house artist based in United Kingdom, with 154 gigs on soundcheck across Amsterdam, Athens, Bangkok and Barcelona and 37 more. Often billed alongside Mar/us, Lewis G. Burton and Metaraph. Next up: Fuchs2, Prague on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -12,6 +12,7 @@ Samantha Togni is a techno and house artist based in United Kingdom, with 153 gi
 | Sat, 31 Oct 2026 | Ääniwalli | Helsinki |
 | Fri, 13 Nov 2026 | FOLD | London |
 | Sat, 14 Nov 2026 | ROSA | Berlin |
+| Sat, 21 Nov 2026 | The DBA | Manchester |
 
 ## Recently played
 

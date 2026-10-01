@@ -1,14 +1,15 @@
 # mamba.exe
 
-mamba.exe is a Jungle and Drum & Bass artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bag Factory, Manchester on Fri, 2 Oct 2026.
+mamba.exe is a Jungle and Drum & Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at The Bag Factory, Manchester on Fri, 2 Oct 2026.
 
-mamba.exe is a jungle and drum & bass artist based in United Kingdom, with 41 gigs on soundcheck across London, Manchester and Nottingham. Often billed alongside FOULMOUTH, Plan T and Korzi. Next up: The Bag Factory, Manchester on Fri 2 Oct.
+mamba.exe is a jungle and drum & bass artist based in United Kingdom, with 42 gigs on soundcheck across London, Manchester and Nottingham. Often billed alongside FOULMOUTH, Plan T and Korzi. Next up: The Bag Factory, Manchester on Fri 2 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 2 Oct 2026 | The Bag Factory | Manchester |
+| Thu, 15 Oct 2026 | Soup | Manchester |
 | Sat, 24 Oct 2026 | The Yard | Manchester |
 
 ## Recently played

@@ -1,13 +1,14 @@
 # Nexus
 
-Nexus is a Techno and House artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Lingotto Fiere, Turin on Thu, 29 Oct 2026.
+Nexus is a Techno and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Paral•lel 62, Barcelona on Fri, 16 Oct 2026.
 
-Nexus is a techno and house artist based in Italy, with 19 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 10 more. Often billed alongside Lechuga Zafiro, Amnesia Scanner and Animistic Beliefs. Next up: Lingotto Fiere, Turin on Thu 29 Oct.
+Nexus is a techno and house artist based in Italy, with 20 gigs on soundcheck across Amsterdam, Barcelona, Berlin and Glasgow and 10 more. Often billed alongside Lechuga Zafiro, MBODJ and Amnesia Scanner. Next up: Paral•lel 62, Barcelona on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Paral•lel 62 | Barcelona |
 | Thu, 29 Oct 2026 | Lingotto Fiere | Turin |
 
 ## Recently played
@@ -23,6 +24,6 @@ Nexus is a techno and house artist based in Italy, with 19 gigs on soundcheck ac
 
 ## Shares bills with
 
-Lechuga Zafiro, Amnesia Scanner, Animistic Beliefs
+Lechuga Zafiro, MBODJ, Amnesia Scanner
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/nexus/)*

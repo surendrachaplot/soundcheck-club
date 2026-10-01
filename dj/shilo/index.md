@@ -1,14 +1,15 @@
 # Shilo
 
-Shilo is a Trance and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
+Shilo is a Trance and Techno artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Edelfettwerk, Hamburg on Fri, 9 Oct 2026.
 
-Shilo is a trance and techno artist based in Germany, with 21 gigs on soundcheck across Berlin and Hamburg. Often billed alongside CHICHO, Alexej and Pamadii. Next up: Edelfettwerk, Hamburg on Fri 9 Oct.
+Shilo is a trance and techno artist based in Germany, with 22 gigs on soundcheck across Berlin and Hamburg. Often billed alongside CHICHO, Pamadii and Alexej. Next up: Edelfettwerk, Hamburg on Fri 9 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
 | Fri, 9 Oct 2026 | Edelfettwerk | Hamburg |
+| Wed, 14 Oct 2026 | Fundbureau | Hamburg |
 
 ## Recently played
 
@@ -23,6 +24,6 @@ Shilo is a trance and techno artist based in Germany, with 21 gigs on soundcheck
 
 ## Shares bills with
 
-CHICHO, Alexej, Pamadii
+CHICHO, Pamadii, Alexej
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/shilo/)*

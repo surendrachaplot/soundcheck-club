@@ -1,6 +1,6 @@
 # FREAKS COME OUT - DJ TASAKA NEW ALBUM 'EMPATHY EXPRESS' RELEASE PARTY - at Aisotope Lounge
 
-FREAKS COME OUT - DJ TASAKA NEW ALBUM 'EMPATHY EXPRESS' RELEASE PARTY - at Aisotope Lounge on Fri 16 Oct, Tokyo. 4 artists: ATT, DJ EYELASH, Seimei and Sugiurumn. See the line-up on soundcheck.
+FREAKS COME OUT - DJ TASAKA NEW ALBUM 'EMPATHY EXPRESS' RELEASE PARTY - at Aisotope Lounge on Fri 16 Oct, Tokyo. 4 artists: ATT, DJ EYELASH, Seimei and Sugiurumn. Techno and House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |

@@ -1,0 +1,28 @@
+# TOXE
+
+TOXE is a Club and Techno artist with 1 upcoming gig listed on soundcheck as of Thu, 1 Oct 2026. Next at Village Underground, London on Sat, 14 Nov 2026.
+
+TOXE is a club and techno artist based in Sweden, with 31 gigs on soundcheck across Amsterdam, Berlin, Brussels and Copenhagen and 8 more. Often billed alongside Mechatok, Fakethias and Oli XL. Next up: Village Underground, London on Sat 14 Nov.
+
+## Upcoming shows
+
+| Date | Venue | City |
+| --- | --- | --- |
+| Sat, 14 Nov 2026 | Village Underground | London |
+
+## Recently played
+
+- St. Bartholomew's Church, New York City · Sat, 26 Sept 2026
+- MoMA PS1, New York City · Fri, 7 Aug 2026
+- Mia Mao, Paris · Thu, 25 Jun 2026
+- OHM, Berlin · Thu, 4 Jun 2026
+- Badaboum, Paris · Thu, 28 May 2026
+- H0L0, New York City · Sat, 16 May 2026
+- Le Bain, New York City · Fri, 15 May 2026
+- Nowadays, New York City · Thu, 19 Mar 2026
+
+## Shares bills with
+
+Mechatok, Fakethias, Oli XL
+
+*Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/toxe/)*

@@ -1,13 +1,14 @@
 # Mindset
 
-Mindset is a Electronica and House artist with 2 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Fair Park, Dallas-fort-worth on Wed, 30 Dec 2026.
+Mindset is a House and Electronica artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Barco Sound House, Madrid on Fri, 16 Oct 2026.
 
-Mindset is an electronica and house artist, with 5 gigs on soundcheck across Austin, Dallas Fort Worth and Madrid. Often billed alongside HerShe, Azyr and Chris Lake. Next up: Fair Park, Dallas Fort Worth on Wed 30 Dec.
+Mindset is a house and electronica artist, with 6 gigs on soundcheck across Austin, Dallas Fort Worth and Madrid. Often billed alongside HerShe, Anzhio and Azyr. Next up: Barco Sound House, Madrid on Fri 16 Oct.
 
 ## Upcoming shows
 
 | Date | Venue | City |
 | --- | --- | --- |
+| Fri, 16 Oct 2026 | Barco Sound House | Madrid |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 | Wed, 30 Dec 2026 | Fair Park | Dallas-fort-worth |
 
@@ -19,6 +20,6 @@ Mindset is an electronica and house artist, with 5 gigs on soundcheck across Aus
 
 ## Shares bills with
 
-HerShe, Azyr, Chris Lake
+HerShe, Anzhio, Azyr
 
 *Updated Thu, 1 Oct 2026 · source: [soundcheck](https://soundcheck.club/dj/mindset/)*

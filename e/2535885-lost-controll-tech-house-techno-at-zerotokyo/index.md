@@ -1,6 +1,6 @@
 # Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO
 
-Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO on Sat 3 Oct, Tokyo. 6 artists: ecec, George Bolton, HATSUYUKI and okadada and 2 more. Techno and Tech House. See the line-up on soundcheck.
+Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO on Sat 3 Oct, Tokyo. 7 artists: ecec, George Bolton, HATSUYUKI and Kijta and 3 more. Techno and Tech House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -13,6 +13,7 @@ Lost Controll - TECH HOUSE / TECHNO - at ZEROTOKYO on Sat 3 Oct, Tokyo. 6 artist
 - ecec
 - George Bolton
 - HATSUYUKI
+- Kijta
 - okadada
 - SHIGEKI NISHIKAWA
 - Yohji Igarashi

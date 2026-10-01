@@ -1,6 +1,6 @@
 # Lumya X Azul Rooftop at Azul Rooftop Barceloneta
 
-Lumya X Azul Rooftop at Azul Rooftop Barceloneta on Fri 9 Oct, Barcelona. 2 artists: Althoff and ERRANT. Deep House and Afro House. See the line-up on soundcheck.
+Lumya X Azul Rooftop at Azul Rooftop Barceloneta on Fri 9 Oct, Barcelona. 1 artist: ERRANT. Deep House and Afro House. See the line-up on soundcheck.
 
 | Field | Value |
 | --- | --- |
@@ -10,7 +10,6 @@ Lumya X Azul Rooftop at Azul Rooftop Barceloneta on Fri 9 Oct, Barcelona. 2 arti
 
 ## Line-up
 
-- Althoff
 - ERRANT
 
 *Source: [soundcheck](https://soundcheck.club/e/2546503-lumya-x-azul-rooftop-at-azul-rooftop-barceloneta/)*

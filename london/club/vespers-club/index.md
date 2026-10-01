@@ -9,8 +9,8 @@ Vespers Club is a music venue in London listed on soundcheck. 14 upcoming gigs, 
 | Date | Gig | Line-up |
 | --- | --- | --- |
 | Sat, 3 Oct 2026 | Drum and Babes 2 Babes |  |
-| Sat, 3 Oct 2026 | Ghouls Club | Lil Kevo 303, goreshit |
-| Fri, 9 Oct 2026 | five in a bed AT VESPERS | Dexter Dooley |
+| Fri, 9 Oct 2026 | five in a bed At Vespers | Dexter Dooley |
+| Wed, 14 Oct 2026 | Ghouls Club | Lil Kevo 303, goreshit |
 | Fri, 16 Oct 2026 | Pherotone 5.0 with Mx. Blaire (extended set) | Emilia G, Mx. Blaire |
 | Sat, 17 Oct 2026 | Rave Rebels 2 | Cosmic Caz, Franzine, Princess Elf Bar |
 | Fri, 23 Oct 2026 | EVOLVER / CHIMERA | Aircode, Capricorn, Josephine Moriko, Lokey, Ssaliva, sean pain |

@@ -1,8 +1,8 @@
 # Patterns
 
-Patterns is a music venue in Brighton with 15 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "club 2010: Freshers 2016" on Fri, 2 Oct 2026.
+Patterns is a music venue in Brighton with 16 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. The next is "club 2010: Freshers 2016" on Fri, 2 Oct 2026.
 
-Patterns is a music venue in Brighton listed on soundcheck. 15 upcoming gigs, with line-ups including Dusky, George FitzGerald, Girls of the Internet and INKY MCKAY and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
+Patterns is a music venue in Brighton listed on soundcheck. 16 upcoming gigs, with line-ups including Dusky, George FitzGerald, Girls of the Internet and INKY MCKAY and 2 more. See dates, start times and who's playing. 10 Marine Parade, BN2 1TL, Brighton, United Kingdom.
 
 ## What's on
 
@@ -16,8 +16,8 @@ Patterns is a music venue in Brighton listed on soundcheck. 15 upcoming gigs, wi
 | Sat, 24 Oct 2026 | p-rallel: Nevermind UK Tour | p-rallel |
 | Fri, 30 Oct 2026 | Dansu Discs: Lucas Alexander, RTK Tarantino, Lauren Steel | Lauren Steel, Lucas Alexander, RTK Tarantino |
 | Sat, 31 Oct 2026 | Dusky - All Day Long - Signals Tour | Dusky |
+| Sat, 31 Oct 2026 | Return To UKGrave (Halloween Special) |  |
 | Sun, 1 Nov 2026 | Brighton Sundae with Marcia Carr | Marcia Carr |
-| Sat, 7 Nov 2026 | Nick Hakim |  |
 
 ## Address
 

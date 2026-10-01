@@ -1,8 +1,8 @@
 # Kahn
 
-Kahn is a Dubstep and Bass artist with 3 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Stereo, Glasgow on Sat, 3 Oct 2026.
+Kahn is a Dubstep and Bass artist with 4 upcoming gigs listed on soundcheck as of Thu, 1 Oct 2026. Next at Stereo, Glasgow on Sat, 3 Oct 2026.
 
-Kahn is a dubstep and bass artist based in United Kingdom, with 75 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: Stereo, Glasgow on Sat 3 Oct.
+Kahn is a dubstep and bass artist based in United Kingdom, with 76 gigs on soundcheck across Amsterdam, Antwerp, Barcelona and Berlin and 27 more. Often billed alongside Neek, SGT Pokes and Sir Spyro. Next up: Stereo, Glasgow on Sat 3 Oct.
 
 ## Upcoming shows
 
@@ -11,6 +11,7 @@ Kahn is a dubstep and bass artist based in United Kingdom, with 75 gigs on sound
 | Sat, 3 Oct 2026 | Stereo | Glasgow |
 | Sat, 17 Oct 2026 | Kapsule | Liverpool |
 | Fri, 30 Oct 2026 | The Trinity Centre | Bristol |
+| Fri, 4 Dec 2026 | fabric | London |
 
 ## Recently played
 
